@@ -1,0 +1,8 @@
+{
+    "title": "Dickens Land",
+    "banner": "/images/Bleak_house_postcard.jpg",
+    "bannerHeight": 400,
+    "components": [
+        {"name": "siteFooter", "selectors": [], "src": "/components/Footer.vue"}
+    ]
+}
