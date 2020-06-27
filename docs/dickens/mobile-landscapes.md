@@ -2,11 +2,11 @@
 
 <param ve-config
        title="Mobile Landscapes"
-       banner="images/Viking_Bay_Broadstairs.jpg"
+       banner="../images/Viking_Bay_Broadstairs.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 
-<param ve-image url="images/Dickens_Land_books.jpg" title="Dickens Land books">
+<param ve-image url="../images/Dickens_Land_books.jpg" title="Dickens Land books">
 
 ## Mobile Landscapes: Finding Kent Dickensian in David Copperfield and Great Expectations
 
