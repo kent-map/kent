@@ -13,8 +13,6 @@
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">‘Bleak House’ (Fort House) as Dickens would have known it. ©Elgate Postcards, Margate.</span>
 </p>
 
-### Abstract
-Dickens entertained numerous friends, including writers such as Wilkie Collins, at [Fort House]( https://github.com/kent-map/dickens/blob/master/docs/dickens-fort-house.). The house was informally known as ‘Bleak House’ from at least 1864, officially changing its name somewhere between 1879 and 1885. Frederick Kitton, who saw it in 1889, deplored its subsequent conversion ‘into a pretentious-looking mansion of Tudor design, with castellated eaves.’ 
 
 <p align="center">
   <img src="images/Bleak_house_postcard.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
