@@ -19,7 +19,7 @@ Dickens’s _Great Expectations_, like _David Copperfield_, is believed to be se
 Magwitch’s last hours of freedom before his arrest by Customs officials are spent in an inn called The Ship, almost certainly based on The Ship and Lobster in Gravesend, and only a few miles away from Cooling churchyard where the story begins. Once again Pip finds himself aiding an escaped convict in a lonely place. Even today the inn is in an isolated position, down a narrow byway with few near neighbours  – at least one bewildered sat nav has been known to give directions straight past it and into the river. Pip hints darkly at smuggling (seemingly basing his judgement as much on its being ‘a dirty place enough’ as on its convenient location). But if he signals a certain middle class fastidiousness in this comment, he has nonetheless chosen to align himself with the outcast criminal of his first meeting, ‘A man who had been soaked in water, and smothered in mud’.[^ref1]  In a final act of poetic justice it is the gentlemanly Compeyson rather than Magwitch who is drowned after the antagonists re-enact their struggle on the marshes, again with Pip as a helpless spectator.
 
 
-See also [Mobile Landscapes](/mobile-landscapes).
+See also [Mobile Landscapes](mobile-landscapes).
 
 ### Bibliography
 Dickens, Charles. _Great Expectations_.  Oxford: Oxford World’s Classics, 1993.

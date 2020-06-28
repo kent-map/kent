@@ -16,7 +16,7 @@ This scene anticipates a moment much later in the novel, when Pip will release h
 The Guildhall itself does not feature again in the novel, but Pip would have to pass it on his many journeys through the town, when staying at the Blue Boar inn, paying his respects to Miss Havisham at Satis House or making his less frequent visits to Joe at the forge.
 
 
-See also [Mobile Landscapes](/mobile-landscapes)
+See also [Mobile Landscapes](mobile-landscapes)
 
 
 ## Bibliography
