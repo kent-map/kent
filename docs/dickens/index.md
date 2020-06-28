@@ -7,7 +7,7 @@
 </style>
 
 <param ve-config 
-       title="Dickens Land" 
+       title="Dickens Land"
        banner="images/dickensland.png">
 
 <img class="thumb" style="margin-top:24px;" src="images/dickens_head.jpg">
