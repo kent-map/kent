@@ -1,6 +1,12 @@
 # Gad’s Hill, Higham
 *Bought by Dickens in 1856, and his home until his death in 1870.*
 
+<p align="center">
+  <img src="images/Gadssouthview.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gadssouthview</span> ©The British Library Board Maps CC.5.C.2.
+</p>
+
+
 >'I am old (I am nine), and I read all sorts of books. But DO let us stop at the top of the hill, and look at the house there, if you please!'
 'You admire that house?' said I.
 'Bless you, sir,' said the very queer small boy, 'when I was not more than half as old as nine, it used to be a treat for me to be brought to look at it. And now, I am nine, I come by myself to look at it. And ever since I can recollect, my father, seeing me so fond of it, has often said to me, "If you were to be very persevering and were to work hard, you might some day come to live in it." Though that's impossible!' said the very queer small boy, drawing a low breath, and now staring at the house out of window with all his might.
