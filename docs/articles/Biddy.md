@@ -1,0 +1,3 @@
+### Biddy 
+
+Biddy is one of the few literate characters of his own class with whom Pip has anything to do as a child, a trenchant reminder that education in the 1820s was not universal and might even be resisted by working class families. Joe himself is unable to read or write until after the death of his wife, who he explains would view him as a ‘rebel’ with a desire to ‘rise’ out of his station if he attempted to educate himself. Biddy herself has no such desire, and vainly advises Pip to give up his pursuit of the middle class Estella. Pip later implies that Biddy is herself in love with him, but returns to propose marriage just too late, finding that she has already married the faithful Joe.

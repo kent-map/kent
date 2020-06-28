@@ -1,0 +1,3 @@
+### Joe
+
+Pip astutely describes his brother in law Joe Gargery as ‘a sort of Hercules in strength, and also in weakness’. The son of a violently abusive man, he is aware that as a blacksmith his own strength is prodigious and he has a horror of hurting any woman as his own mother was hurt. Ironically this resolution leads him to tolerate Mrs Joe’s ill treatment of Pip, whom she routinely beats for the slightest offence. But Joe is also the real hero of the novel, ultimately identified by Pip as the ‘gentle Christian man’ whose example he has signally failed to follow.
