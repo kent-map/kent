@@ -1,6 +1,6 @@
 <param ve-config 
        title="Great Expectations - a curated walk" 
-       banner="images/Grammar_School_Gate_Rochester.jpg"
+       banner="../images/Grammar_School_Gate_Rochester.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 
