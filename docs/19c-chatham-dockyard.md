@@ -15,7 +15,7 @@ The last major work at Chatham was the reclaiming and building of St. Mary’s I
 
 MacDougall, Philip, Chatham Dockyard. _The Rise and Fall of A Military Industrial Complex_. London: The History Press 2012.
 
-Holden, Clive. _ Chatham Naval Dockyard & Barracks Through Time_. Stroud: Amberley Publishing 2014.
+Holden, Clive. _Chatham Naval Dockyard & Barracks Through Time_. Stroud: Amberley Publishing 2014.
 
 
 
