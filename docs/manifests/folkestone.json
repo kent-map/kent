@@ -3,7 +3,7 @@
     "@type": "sc:Manifest",
     "@id": "https://kent-map.github.io/kent/manifests/folkestone.json",
     "label": "Folkestone",
-    "attribution": "Alan Duncan Photography https://www.photographerskent.com",
+    "attribution": "Alan Duncan Photography <span><a href=\"https://www.photographerskent.com\">https://www.photographerskent.com</a></span>",
     "thumbnail": "https://free.iiifhosting.com/iiif/6a4964311dbe8df3b9c1eff2ca5a145bf4fd6051167a362ca7ff22b9d6b579ec/full/150,/0/default.jpg",
     "sequences": [
       {
