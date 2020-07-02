@@ -1,4 +1,5 @@
 {
+    "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
     "@id": "https://kent-map.github.io/kent/manifests/folkestone.json",
     "label": "Folkestone",
