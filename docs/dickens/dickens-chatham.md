@@ -1,6 +1,6 @@
 # Chatham 
 
-**Event:** 1816-1822 John Dickens based at Chatham Dockyard, working for the Naval Pay Office.
+**Event:** 1816-1822 John Dickens based at [Chatham Dockyard](/19c-chatham-dockyard), working for the Naval Pay Office.
 
 >‘snug under hill-sides of corn-fields, hop gardens, and orchards; its great chimneys smoking with a quiet—almost a lazy—air, like giants smoking tobacco; and the great Shears moored off it, looking meekly and inoffensively out of proportion, like the Giraffe of the machinery of creation. The store of cannon on the neighbouring gun-wharf, had an innocent 
 toy-like appearance, and the one red-coated sentry on duty over them was a mere toy figure, with a clockwork movement. As the hot sunlight sparkled on him he might have passed for the identical little man who had the little gun, and whose bullets they were made of lead, lead, lead.’ ‘The Uncommercial Traveller’. _All the Year Round_. 29 August 1863.
@@ -13,7 +13,7 @@ toy-like appearance, and the one red-coated sentry on duty over them was a mere 
 
 
 
-Charles Dickens’s Kent childhood, celebrated in both his journalism and his major fiction, was a direct result of his father’s move from Portsmouth to the Chatham Dockyard in 1816. Visiting today it is impossible to recreate the sense of constant bustle and noise that would have pervaded the scene in Dickens’s time. But the layout of the buildings allows some sense of the docks as a micro-community, an exciting and at the same time familiar space for a child to explore in the aftermath of the Napoleonic Wars.
+Charles Dickens’s Kent childhood, celebrated in both his journalism and his major fiction, was a direct result of his father’s move from Portsmouth to the [Chatham Dockyard](/19c-chatham-dockyard) in 1816. Visiting today it is impossible to recreate the sense of constant bustle and noise that would have pervaded the scene in Dickens’s time. But the layout of the buildings allows some sense of the docks as a micro-community, an exciting and at the same time familiar space for a child to explore in the aftermath of the Napoleonic Wars.
 
 Initially the family lived at 2 Ordnance Terrace, on the hills above the estuary. During these years John Dickens would sometimes take Charles and his sister Fanny aboard the Chatham, a small naval yacht in which he sailed to Sheerness and back. Claire Tomalin writes that ‘After hours of sailing, as they approached Sheerness and the Thames '''estuary''', the far Essex bank came into view five miles away across a world of water. This landscape and the sludge-coloured tidal rivers haunted him all his life and became part of the fabric of his later novels.’[^ref1] 
 
