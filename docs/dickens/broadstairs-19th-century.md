@@ -32,6 +32,8 @@ But overall the image of the town remained decorous even in the tempestuous 1890
 
 The next year in 1897 the Broadstairs Pier and Harbour Commissioners complained that bye laws were being flagrantly disregarded and that one man bathing  only in a ‘clout’ (a loosely tied piece of cloth) had been approached by an official, ‘whereupon the gentleman’s wife told her husband to knock him down for meddling’. The meeting noted that ‘while mixed bathing might be favoured at a place like Margate’ (which it was not, incidentally)  ’they wanted to keep Broadstairs select’.
 
+Feeling active? You may want to try this [Turner and Dickens walk]( https://explorekent.org/activities/turner-dickens-walk/)
+
 
 ## Bibliography
 
