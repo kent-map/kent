@@ -38,6 +38,11 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature.
 </p>
 
+### Katie Holdway
+<img src="/images/011(2).jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+Katie Holdway is a PhD researcher in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, Romance, Revolution & Reform and a member of the Dickens Society Communications Committee.
+
 ### Elizabeth Waterman-Scrase
 <img src="/images/Elizabeth_WS.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
