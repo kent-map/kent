@@ -16,7 +16,7 @@ Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.
 
 **Key dates:** 
 
-1839: a Hooden Horse in [Broadstairs](broadstairs-19th-century) so frightened a lady that she collapsed and died. 
+1839: a Hooden Horse in [Broadstairs](/broadstairs-19th-century) so frightened a lady that she collapsed and died. 
 
 1859: a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right for ever afterwards”.[^ref1]
 
@@ -24,18 +24,18 @@ Hop Hoodening Festival, to bless the hop harvest; second Saturday of September e
 
 [Broadstairs](broadstairs-19th-century) Folk Week: first full week of August each year since 1965.
 
-‘… at [Ramsgate](19c-ramsgate), in Kent I found they begin the festivities of Christmas by a curious procession: a party of young people procure the head of a dead horse, which is affixed by pole about four feet in length; a string is affixed to the lower jaw; a horse-cloth is also attached to the whole, under which one of the party gets, and by frequently pulling on the string, keeps up a loud snapping noise, and is accompanied by the rest of the party, grotesquely habited, with handbells; they thus proceed from house to house, ringing their bells, and singing carols and songs; they are commonly gratified with beer and cake, or perhaps money. This is called, provincially, a Hodening, and … [i]t is I find, general in Thanet on Christmas Eve, and, as far as I can learn, nowhere else …’
+‘… at [Ramsgate](/19c-ramsgate), in Kent I found they begin the festivities of Christmas by a curious procession: a party of young people procure the head of a dead horse, which is affixed by pole about four feet in length; a string is affixed to the lower jaw; a horse-cloth is also attached to the whole, under which one of the party gets, and by frequently pulling on the string, keeps up a loud snapping noise, and is accompanied by the rest of the party, grotesquely habited, with handbells; they thus proceed from house to house, ringing their bells, and singing carols and songs; they are commonly gratified with beer and cake, or perhaps money. This is called, provincially, a Hodening, and … [i]t is I find, general in Thanet on Christmas Eve, and, as far as I can learn, nowhere else …’
 
 May 1807. _European Magazine_: 51 (May 1807) 558.
 
 
-"… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …" 
+"… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …" 
 
-16 November 1907. ''Keble’s [Margate](19c-margate) and [Ramsgate](19c-ramsgate) Gazette''. 2.
+16 November 1907. ''Keble’s [Margate](/19c-margate) and [Ramsgate](/19c-ramsgate) Gazette''. 2.
 
 "… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …"
 
-7 December 1907, ''Keble’s [Margate](19c-margate) and [Ramsgate](19c-ramsgate) Gazette.'' 2.
+7 December 1907, ''Keble’s [Margate](19c-margate) and [Ramsgate](/19c-ramsgate) Gazette.'' 2.
 
 <p align="center">
   <img src="images/hoodeners.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
