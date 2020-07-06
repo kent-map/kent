@@ -15,7 +15,6 @@ The sight of able bodied young men, of military age, perambulating along the Lea
 
 ### Bibliography and further reading
 
-
 Wynn, Stephen. _Folkestone in the Great War_. Barnsley: Pen and Sword 2017.
 
 See also: Folkestone Library
