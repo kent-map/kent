@@ -16,7 +16,7 @@ everything within my view which ought to be white, had been white long ago, and 
 
 Opposite the house is a small park, where today there is a convenient bench with a view of the house. Reading Pip’s account from this vantage point – especially on a fine day – creates a powerful sense of the contrast between light and dark that runs throughout the Satis House scenes. Outside there are grass, a well-kept path and trees, where just a few feet away the narrow windows of Restoration House seem somehow to be looking inwards rather than out into the sunlight.
 
-See also [Mobile Landscapes](/Mobile-landscapes)
+See also [Mobile Landscapes](/mobile-landscapes)
 
 Looking for somewhere atmospheric to read the novel? Try [The Vines Gardens](https://explorekent.org/activities/the-vines-gardens/)
 
