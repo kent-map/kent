@@ -18,7 +18,7 @@ Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.
 
 1839: a Hooden Horse in [Broadstairs](broadstairs-19th-century) so frightened a lady that she collapsed and died. 
 
-1859: a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right for ever afterwards”  FOOTNOTE Maylam 53-54.
+1859: a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right for ever afterwards”.[^ref1]
 
 Hop Hoodening Festival, to bless the hop harvest; second Saturday of September each year since 1957.
 
@@ -65,3 +65,7 @@ Frampton, G., 2018. _Discordant Comicals; the Hooden Horse of East Kent, St Nich
 Maylam, P., 1909. _The Hooden Horse, an East Kent Christmas Custom._  Canterbury: Cross and Jackman.
 
 Maylam, R., Lynn, M. & Doel, G., 2009. _Percy Maylam’s The Kent Hooden Horse_. Stroud: The History Press.
+
+### Notes
+
+[^ref1]: Maylam 53-54.
