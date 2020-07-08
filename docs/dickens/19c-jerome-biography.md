@@ -1,6 +1,6 @@
 # Jerome K. Jerome (1859-1927)
 
-*Event with dates:* Holiday 1890
+*Event:* Holiday 1890
 
 *Place:* [Folkestone](19c-folkestone)
 
