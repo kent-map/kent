@@ -2,10 +2,9 @@
 
 >‘Within a quarter of an hour we came to Miss Havisham's house, which was of old brick, and dismal, and had a great many iron bars to it. Some of the windows had been walled up; of those that remained, all the lower were rustily barred. There was a court-yard in front, and that was barred; so, we had to wait, after ringing the bell, until some one should come to open it.’ _Great Expectations_ (1861).
 
-<p align="center">
-  <img src="images/RestorationHouse.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Restoration House © Carolyn Oulton</span>
-</p>
+
+http://www.victorianweb.org/painting/haslehust/19.html
+Scanned image and text by Philip V. Allingham.
 
 
 
@@ -15,6 +14,11 @@ Pip only sees the interior of the house by candlelight, where the wax of the whi
 everything within my view which ought to be white, had been white long ago, and had lost its lustre, and was faded and yellow. I saw that the bride within the bridal dress had withered like the dress, and like the flowers, and had no brightness left but the brightness of her sunken eyes. (Chapter 8)
 
 Opposite the house is a small park, where today there is a convenient bench with a view of the house. Reading Pip’s account from this vantage point – especially on a fine day – creates a powerful sense of the contrast between light and dark that runs throughout the Satis House scenes. Outside there are grass, a well-kept path and trees, where just a few feet away the narrow windows of Restoration House seem somehow to be looking inwards rather than out into the sunlight.
+
+<p align="center">
+  <img src="images/RestorationHouse.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Restoration House © Carolyn Oulton</span>
+</p>
 
 See also [Mobile Landscapes](/mobile-landscapes)
 
