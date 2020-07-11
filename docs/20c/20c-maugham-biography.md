@@ -7,12 +7,11 @@ Attended the King’s School, 20C Canterbury. '20C' NEEDS TO BE EDITED OUT OF TH
 
 ‘When they got out of the train at Tercanbury, Philip felt sick with apprehension, and during the drive in to the town sat pale and silent. The high brick wall in front of the school gave it the look of a prison. There was a little door in it, which opened on their ringing; and a clumsy, untidy man came out and fetched Philip's tin trunk and his play-box. They were shown into the drawing-room; it was filled with massive, ugly furniture, and the chairs of the suite were placed round the walls with a forbidding rigidity. They waited for the headmaster.’
 
-Of Human Bondage
+_Of Human Bondage_
 
+>‘Blackstable consisted of a long winding street that led to the sea, with little two-story houses, many of them residential but with a good many shops; and from this ran a certain number of short streets, recently built, that ended on one side in the country and on the other in the marshes. Round about the harbour was a congeries of narrow winding alleys. Colliers brought coal from Newcastle to Blackstable and the harbour was animated. When I was old enough to be allowed out by myself I used to spend hours wandering about there looking at the rough grimy men in their jerseys and watching the coal being unloaded.’
 
-‘Blackstable consisted of a long winding street that led to the sea, with little two-story houses, many of them residential but with a good many shops; and from this ran a certain number of short streets, recently built, that ended on one side in the country and on the other in the marshes. Round about the harbour was a congeries of narrow winding alleys. Colliers brought coal from Newcastle to Blackstable and the harbour was animated. When I was old enough to be allowed out by myself I used to spend hours wandering about there looking at the rough grimy men in their jerseys and watching the coal being unloaded.’
-
-Cakes & Ale
+_Cakes & Ale_
 
 
 ### Article
@@ -22,4 +21,5 @@ After his mother’s death Maugham was sent to stay with his uncle, who was a Vi
 
 ### Bibliography
 
-Maugham, Somerset W. Of Human Bondage. 1995. http://www.gutenberg.org/ebooks/351 Maugham, Somerset W. Cakes & Ale. 1930. https://gutenberg.ca/ebooks/maughamws-cakesandale/maughamws-cakesandale-00-h.html
+Maugham, Somerset W. [_Of Human Bondage_.](http://www.gutenberg.org/ebooks/351 ) 1995. 
+Maugham, Somerset W. [_Cakes & Ale_.](https://gutenberg.ca/ebooks/maughamws-cakesandale/maughamws-cakesandale-00-h.html) 1930. 
