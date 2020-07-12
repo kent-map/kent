@@ -14,5 +14,5 @@ Rosa is associated with feminine rooms and gardens rather than public spaces. Bu
 
 Dickens, Charles. _The Mystery of Edwin Drood_. Oxford: Oxford World’s Classics, 2009.
 
-Orford, Pete. 'Christmas in Cloisterham'. https://www.youtube.com/watch?v=Wb8TWoHmKBA&feature=youtu.be&fbclid=IwAR31edAoFF9J5eYR6U3e7Qq_x-PjvYFJzwNn8XGARgKiqpl_EhD_yCOBLLk
+Orford, Pete. '[Christmas in Cloisterham]'(https://www.youtube.com/watch?v=Wb8TWoHmKBA&feature=youtu.be&fbclid=IwAR31edAoFF9J5eYR6U3e7Qq_x-PjvYFJzwNn8XGARgKiqpl_EhD_yCOBLLk)
 
