@@ -14,7 +14,7 @@ The JSTOR Labs team is providing tools and infrastructure for presenting the ess
 
 Framed by the idea of ‘writers and their times’, the project is researching historic, literary and geographical records to create an interactive experience seen through multi-disciplinary lenses. This approach contextualises literature and textual records of historic events through an emphasis on the material conditions in which they were produced and circulated. 
 
-But rather than simply recreating a historic experience, the research aims to problematise the ways in which we interpret and represent the past. What do we think we know about the history of local landscapes? How do conflicting perspectives and gaps in the record remind us that representation is always selective and that hi_story_ is just that – a story we tell to others and ourselves?
+But rather than simply recreating a historic experience, the research aims to problematise the ways in which we interpret and represent the past. What do we think we know about the history of local landscapes? How do conflicting perspectives and gaps in the record remind us that representation is always selective and that _history_ is just that – a story we tell to others and ourselves?
 
 As the map grows so too will the capacity for making unforeseen connections. While the project inevitably reflects the interests of the research team, it is highly collaborative and is not designed to showcase or privilege any one argument over another. Instead it will help you find your own answers to questions you haven’t thought of yet.
 

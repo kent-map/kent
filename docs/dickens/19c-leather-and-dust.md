@@ -1,13 +1,11 @@
 
-David Copperfield's [curated walk](David_Copperfield_Curated_walk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can smell as he enters rural Kent or quite why his feet are so damaged by the journey's end. 
-
-[Sights, Sounds and Smells](https://vimeo.com/408543370/5eccb2722a)
-
-
 ''''Leather and dust: David Copperfield’s shoes and the [Dover Road](david-copperfield-dover-road).''''
 
 '''Elizabeth Waterman-Scrase'''
 
+David Copperfield's [curated walk](David_Copperfield_Curated_walk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can smell as he enters rural Kent or quite why his feet are so damaged by the journey's end. 
+
+[Sights, Sounds and Smells](https://vimeo.com/408543370/5eccb2722a)
 
 Maps can show us the route, but what of the road itself? We can surmise something from what we know about road surfaces during this period and mismanagement in an era that had turnpikes. As David leaves [Canterbury](david-copperfield-canterbury), he is likely to be on road surfaces that are well kept, the city is likely paved and cobbled. There are even accounts in 1838 (appendix E) of bitumen pavements in [[Canterbury]]. So, this part of the journey might be relatively easy compared with what he would encounter further on. The Victorian image of the cobbled road quickly fades to a road surface called McAdam. This type of road surface was cheaper and easier to lay and maintain. 
 
