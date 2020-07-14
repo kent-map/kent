@@ -4,7 +4,7 @@
   <img src="images/franklin.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">'Sir John Franklin.</span> 
 
-Married 1823-1825, to the poet Eleanor Anne Porden (1795-1825); 1828-1847, to Jane Griffin, better known as Lady Franklin (1791-1875) '''
+**Married 1823-1825, to the poet Eleanor Anne Porden (1795-1825); 1828-1847, to Jane Griffin, better known as Lady Franklin (1791-1875)**
 
 **Event:** 19th May 1845 - Departure of Franklin’s final expedition to the Arctic regions, in search of a north-west passage.
 
@@ -37,7 +37,7 @@ And after years you have perchance to roam
 
 That science crown’d you safely seek your home! 
 
-On Monday [19 May 1845] H. M. sloops Erebus and Terror left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America. 
+On Monday 19 May 1845 H. M. sloops Erebus and Terror left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America. 
   
 <p align="center">
   <img src="images/erebus.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
@@ -63,13 +63,11 @@ In Greenhithe, Franklin is commemorated by a seventeenth-century pub re-named in
 
 ### Bibliography 
 
-camra, 2019. whatpub.com. [Online] 
-Available at: https://whatpub.com/pubs/GRA/0248/sir-john-franklin-greenhithe and https://whatpub.com/pubs/GRA/0161/pier-hotel-greenhithe
-[Accessed 20 October 2019].
+camra, 2019. [whatpub.com](https://whatpub.com/pubs/GRA/0248/sir-john-franklin-greenhithe) and [Hotel Greenhithe](https://whatpub.com/pubs/GRA/0161/pier-hotel-greenhithe)
+Accessed 20 October 2019.
 
-_Illustrated London News_, 1845. Departure of the 'Erebus' and 'Terror' on the Arctic Expedition. [Online] 
-Available at: https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18450524/039/0008
-[Accessed 18 October 2019].
+_Illustrated London News_, 1845. [Departure of the 'Erebus' and 'Terror' on the Arctic Expedition.] (https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18450524/039/0008)
+Accessed 18 October 2019.
 
 Lady Franklin, J. & Rawnsley, W. _The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875._ Cambridge Library Edition ed. Cambridge: Cambridge University Press, 2014
 
