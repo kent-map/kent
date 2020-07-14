@@ -11,25 +11,29 @@
 
 <img class="thumb" style="margin-top: 24px;" src="/images/16c.png">
 <p class="clearfix">
-**[16th century.](coming)**  People drink ale and can’t spell very well.
+**[16th century.](coming)**  Establishment of Chatham Dockyard. Battle against the Spanish Armada. Industry includes textiles and iron production.
+
 </p>
 
 <img class="thumb" src="/images/17c.png">
 <p class="clearfix">
-**[17th century.](coming)**  Spelling still rubbish, beer not much better.
+**[17th century.](coming)**  Industry includes production of malt for brewing. Civil Wars.
 </p>
 
 <img class="thumb" src="/images/18c.png">
 <p class="clearfix">
-**[18th century.](18c)**  Funny hairstyles.
+**[18th century.](18c)**  Strategic position of the Medway in relation to European wars. New sea water ‘cures’ see the reinvention of Margate as a fashionable resort.
 </p>
 
 <img class="thumb" src="/images/19c.png">
 <p class="clearfix">
-**[19th century.](19c)**  Development of recognisably modern tourist industry.
+**[19th century.](19c)**  Arrival of the railway. Development of recognisably modern tourist industry.
 </p>
 
 <img class="thumb" src="/dickens/images/dickens_head.jpg">
 <p class="clearfix">
 **[Dickens](dickens)** 
+</p>
+
+**[20th century.](20c)**  Dover and Folkestone become the gateway to the Western Front during WW1.
 </p>
