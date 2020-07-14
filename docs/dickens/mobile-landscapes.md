@@ -6,6 +6,12 @@
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 
+<param title="Chalk" eid="Q5068781" aliases="the village|the town">
+<param title="Chatham" eid="Q729006">
+<param title="Cooling" eid="Q2649453">
+<param title="Gravesend" eid="Q676689">
+<param title="Cobham" eid="Q949561">
+
 <param ve-map center="Q1094104" zoom="10">
 
 ## Mobile Landscapes: Finding Kent Dickensian in David Copperfield and Great Expectations
@@ -21,7 +27,8 @@ Of course at this point you don’t exactly know where you are, let alone where 
 ## The adventure begins
 
 The study where parts of _David Copperfield_ were written. The view from the [Swiss chalet](dickens-swiss-chalet) where Dickens was working on the morning of his death. The churchyard where Pip first meets Magwitch. Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of Dickens’s novels, including  _David Copperfield_ – are huge. No one wants to stomp round Canterbury on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
- 
+<param title="Chatham" eid="Q729006">
+
 Enter the literary tour guide – portable, readable and the inspiration for this account of our own peregrinations. From the 1880s onwards guides to Dickens’s Kent provided helpful advice on where to go, how to get there, and what to feel on arrival. The more enterprising, such as Robert Allbut’s 1886 _Rambles in Dickens-Land_, even included helpful extracts from the novels so that the literary pilgrim could orient themselves on arrival. But 150 years after Dickens’s death, what is it like to revisit these places, tracking both the author and his characters where he has told us we will find them, to read the books in the places where they are set? And what does it mean to engage in this apparently naïve activity with someone else who is also old enough to know better?
 
 Much like authors William Hughes and Frederic Kitton, who visited Kent around 1890 looking for Dickens Land, we began with considerable enthusiasm, vague expectations and a delicious sense that we could ramble around the countryside pretending to be fictional characters and legitimately call it work.
@@ -100,10 +107,12 @@ But the real stumbling block was Joe Gargery’s forge. In our determination not
 ## Cooling
 
 And then the moment that somehow changed everything. Reading the first scene of the novel where it is meant to have happened, in the churchyard of [Cooling Church](great-expectations-cooling). The church porch is small with a bench on each side. Imagine sitting on one of these benches, legs pulled up in front of you, leaning back towards the church. From here you can see straight ahead into the churchyard. There is the tomb stone, just a few feet away, where Magwitch hoists Pip and demands a file and wittles. Imagine that facing you on the other bench someone is sitting with a scuffed paperback copy of the novel, open at the first page. They are not in your line of vision but you know that they can see you. You want them to see you, to register this book being written on your face. There is more than one voice here, you can hear the roughness of the man assuming rights over a child he has never met; the diffidence of the boy as he introduces his parents, the names of the dead who stand witness and can do nothing. You want to help, but it’s too late, and you know what will happen next but there’s nothing you can do. And you know how it will end – a fading away, the closing of the book, and silence. That will be thank you. You’ll have to move, look at each other, but that’s ok, you’ve done this before. And then you’re running through the rain, towards the river.
- <param ve-image primary url="images/Cooling churchyard.jpg" title="Cooling Churchyard">
+<param ve-image primary url="images/Cooling churchyard.jpg" title="Cooling Churchyard">
+<param ve-map center="Q2649453" zoom="10">
 
 This is the river down which Pip will row so desperately in his abortive attempt to smuggle Magwitch out of the country from Gravesend. We nearly ended up in it when the sat nav helpfully directed us to the [Ship and Lobster](great-expectations-ship-and-lobster) via a small yard hemmed in by industrial buildings, and over a jetty. Convinced we had taken a wrong turning we reversed cautiously back out and down the back road by which we’d just arrived. For one moment it seemed that lunch was going to be a burger from a layby kiosk. But before we gave in it was worth approaching those men in luminous yellow – you did just address them as ‘mate’, didn’t you? – and asking if the pub was nearby. Some gesticulating, much nodding, a word that sounded like ‘mate’ repeated several times; by this point the driver feared she might be eating alone. (It’s an experience in itself observing a male bonding ritual and marvelling at how much mileage can seemingly be got out of this one word). And then we were moving slowly back in the direction of the yard.
 <param ve-image primary url="images/Forge Cottage Chalk.JPG" title="Forge Cottage, Chalk *©Ken Moffat*">
+<param ve-map center="Q676689" zoom="10">
 
 Pies. We’d been opting for them consistently since [Broadstairs](broadstairs). ‘I’m sorry to say I’ve eat your’ - by now it would have felt like treachery to order anything else. This one came with chips or alternatively, was it salad? The juke box was new since Magwitch’s day, the paint job possibly not. But the landlady herself had so clearly stepped out of (whichever Dickens novel you like) and our need of wittles was by this point so intense, that we were by no means inclined to be critical.
 
@@ -123,6 +132,7 @@ The next half hour was spent in restrained disagreement over whether to rev the 
 'We’ve stalled'' we would explain on each occasion, at which point the other driver would say indignantly, ''Well there’s nothing I can do about it'', and spray us with water as they disappeared down the hill.
 
 The temporal gap between lunch at the [Ship and Lobster](great-expectations-ship-and-lobster) and a substantial cream tea at the [Leather Bottle](pickwick-papers-leather-bottle) in Cobham  may seem to the reader inadequate. All we can suggest is that the reader gets stuck in a fjord for half an hour and sees how they like it. Besides, the [Leather Bottle](pickwick-papers-leather-bottle) is a living museum of Dickensiana, from newspaper cuttings to cigarette cards. It would have been a crime to miss it out. Sitting at a corner table, listening to the chuckling of the teapot over china cups, while peering myopically over each other’s heads the better to read framed autographs and old advertisements — there was no need to say another word.
+<param ve-map center="Q949561" zoom="10">
 
 ## Great Expectations Part 2. Rochester.
 
