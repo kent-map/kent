@@ -16,6 +16,8 @@ During her extended stays with her brother, Austen enjoyed frequent trips to [Ca
 
 Kent locations feature in several of Austen’s novels, and have been used as the sets for modern film and television adaptations as well.  Since at least the turn of the century, literary tourists have been interested in Jane Austen’s Kent connections, and books, guided walks, and place-related talks are now widely on offer. 
 
+**Article written by:** Susan Civale
+
 ### Bibliography 
 Butler, Marilyn.  Austen, Jane. [_Oxford Dictionary of National Biography._] (https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-904)
 Le Faye, Deirdre, Ed. _Jane Austen’s Letters._ Oxford: OUP, 2014
