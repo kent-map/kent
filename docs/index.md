@@ -35,5 +35,7 @@
 **[Dickens](dickens)** 
 </p>
 
-**[20th century.](20c)**  Dover and Folkestone become the gateway to the Western Front during WW1.
+**[20th century.](20c)**  Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 </p>
+
+**[17th century.](21c)** Regeneration and the rise of the DFL.
