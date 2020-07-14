@@ -55,7 +55,7 @@ In 1859, after twelve years of searching, proof was found that everyone on the e
 In Greenhithe, Franklin is commemorated by a seventeenth-century pub re-named in his honour circa 2000; he would have known it as The White Hart. The village’s other pub, which Franklin would have known as The Admiral Keppell, became The Pier Hotel in 1847 (camra, 2019). Each of these establishments backs onto the river and each boasts a suitable wharf from which Erebus or Terror could have set sail. 
 
 <p align="center">
-  <img src="images/Franklinpub.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <img src="dickens/images/Franklinpub.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Franklin Pub</span> 
 
 
