@@ -42,12 +42,21 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 <img src="/images/katieholdway.JPG"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Katie Holdway is a PhD researcher in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, Romance, Revolution & Reform and a member of the Dickens Society Communications Committee.
+    
+### Peter Merchant
+    
+### Jacqui Stamp
 
 ### Elizabeth Waterman-Scrase
 <img src="/images/Elizabeth_WS.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. She has spent almost 30 years rummaging about in museums and castles across the UK and Europe researching the human story, following the footsteps of our collective history. Elizabeth has taught history across Europe, built siege engines, cannons, and been shot with an arrow (it was believed to be an accident). As of 2016, Elizabeth has been studying at Canterbury Christ Church University, completing her BA (Hons) in Creative and Professional Writing. Elizabeth is now onto her Masters in Creative Writing and heading towards the study of a Ph.D.
 </p>
+
+### Martin Watts
+<img src="/images/MartinWatts.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History at Canterbury Christ Church University. His research interests include the industrial revolution, welfare and the state, the two world wars and naval history. Martin has written courses covering the effect of the industrial revolution and the world wars upon society in Kent, with an emphasis on the strategic importance of the county to the defence of the United Kingdom.
 
 ### JSTOR Labs
 <img src="/images/labs.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
