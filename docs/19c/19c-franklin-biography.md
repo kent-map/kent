@@ -56,16 +56,14 @@ In Greenhithe, Franklin is commemorated by a seventeenth-century pub re-named in
 
 <p align="center">
   <img src="images/Franklinpub.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">IFranklin Pub</span> 
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Franklin Pub</span> 
 
 
 ### Bibliography 
 
-camra, 2019. [whatpub.com](https://whatpub.com/pubs/GRA/0248/sir-john-franklin-greenhithe) and [Hotel Greenhithe](https://whatpub.com/pubs/GRA/0161/pier-hotel-greenhithe)
-Accessed 20 October 2019.
+[Sir John Franlink, Greenhithe](https://whatpub.com/pubs/GRA/0248/sir-john-franklin-greenhithe) and [Pier, Hotel Greenhithe](https://whatpub.com/pubs/GRA/0161/pier-hotel-greenhithe) camra, 2019. Accessed 20 October 2019.
 
-_Illustrated London News_, 1845. [Departure of the 'Erebus' and 'Terror' on the Arctic Expedition.] (https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18450524/039/0008)
-Accessed 18 October 2019.
+_Illustrated London News_, 1845. [Departure of the 'Erebus' and 'Terror' on the Arctic Expedition.] British Newspaper Archive. Accessed 18 October 2019.
 
 Lady Franklin, J. & Rawnsley, W. _The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875._ Cambridge Library Edition ed. Cambridge: Cambridge University Press, 2014
 
