@@ -4,20 +4,18 @@
   <img src="images/franklin.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">'Sir John Franklin.</span> 
 
-**Married 1823-1825, to the poet Eleanor Anne Porden (1795-1825); 1828-1847, to Jane Griffin, better known as Lady Franklin (1791-1875)**
+**Married** 1823-1825, to the poet Eleanor Anne Porden (1795-1825); 1828-1847, to Jane Griffin, better known as Lady Franklin (1791-1875)
 
 **Event:** 19th May 1845 - Departure of Franklin’s final expedition to the Arctic regions, in search of a north-west passage.
 
 **Place:** Greenhithe, Kent.
 
 >‘In the last letter written before he sailed, dated H.M.S. Erebus, Greenhithe, 18th May, 1845, [Franklin] says to his father-in-law:
-“I wish you could see the ship now; she is almost as clean as she will be at sea, and quite ready for sailing. The officers and the crew all fine men and in excellent spirits. This day we had the happiness of joining together on board in Divine worship to praise God for past mercies and to implore His guiding and protecting providence. In this spirit we all hope to begin, continue and end our voyage.”’ 
+“I wish you could see the ship now; she is almost as clean as she will be at sea, and quite ready for sailing. The officers and the crew all fine men and in excellent spirits. This day we had the happiness of joining together on board in Divine worship to praise God for past mercies and to implore His guiding and protecting providence. In this spirit we all hope to begin, continue and end our voyage.”’ From _“The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:” _
 
-From _“The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:” _
+DEPARTURE OF THE “EREBUS” AND “TERROR” ON THE ARCTIC EXPEDITION
 
-DEPARTURE OF THE “EREBUS” AND “TERROR” ON THE ARTIC EXPEDITION
-
-A desart [sic] waste of waters lies before – 
+>A desart [sic] waste of waters lies before – 
 
 Behind, the anxious hospitable shore,
 
