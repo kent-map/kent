@@ -14,7 +14,7 @@
 [F. C. Burnand)](19c-burnand-biography)  
 [Chatham Dockyard](19c-chatham-dockyard)  
 [Folkestone Free Library](19c-folkestone-free-library)  
-[Sir John Franklin)](19c-franklin-biography)  
+[Sir John Franklin](19c-franklin-biography)  
 [George Grossmith](19c-grossmith-biography)  
 [Bessie Marchant](19c-marchantb-biography)  
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
