@@ -11,7 +11,7 @@
 [Jane Austen](19c-austen-biography)  
 [Robert Barr](19c-barr-biography)  
 [R. D. Blackmore](alice-lorraine-blackmore)  
-[F. C. Burnand)](19c-burnand-biography)  
+[F. C. Burnand](19c-burnand-biography)  
 [Chatham Dockyard](19c-chatham-dockyard)  
 [Folkestone Free Library](19c-folkestone-free-library)  
 [Sir John Franklin](19c-franklin-biography)  
