@@ -63,9 +63,8 @@ We had of course planned to have lunch at the Albion, but like Dickens when the 
 
 ## Canterbury
 
-<param ve-image primary url="images/In Dickens Land. The Little Inn, Canterbury.JPG" title="Little Inn, Dickens Land">
-
 Our next adventure began in the Canterbury Christ Church University library, where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
+<param ve-image primary url="images/In Dickens Land. The Little Inn, Canterbury.JPG" title="Little Inn, Dickens Land" rotate="90">
 
 At this point the narrative is interrupted while a brief debate ensues:
 
