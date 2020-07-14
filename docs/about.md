@@ -44,6 +44,7 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 Katie Holdway is a PhD researcher in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, Romance, Revolution & Reform and a member of the Dickens Society Communications Committee.
     
 ### Peter Merchant
+Peter Merchant is Principal Lecturer in English at Canterbury Christ Church University, and the U.K. member of the _Journal of Juvenilia Studies_ Editorial Advisory Board. His most recent foray into local literary studies is “The Life of Betty Trask (1893–1983): Fiction, Fame, and Frome,” in the Frome Society Year Book 23 (2020): 70–78.
     
 ### Jacqui Stamp
 
