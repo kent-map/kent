@@ -61,7 +61,7 @@ In Greenhithe, Franklin is commemorated by a seventeenth-century pub re-named in
 
 ### Bibliography 
 
-[Sir John Franlink, Greenhithe](https://whatpub.com/pubs/GRA/0248/sir-john-franklin-greenhithe) and [Pier, Hotel Greenhithe](https://whatpub.com/pubs/GRA/0161/pier-hotel-greenhithe) camra, 2019. Accessed 20 October 2019.
+[Sir John Franklin, Greenhithe](https://whatpub.com/pubs/GRA/0248/sir-john-franklin-greenhithe) and [Pier, Hotel Greenhithe](https://whatpub.com/pubs/GRA/0161/pier-hotel-greenhithe) camra, 2019. Accessed 20 October 2019.
 
 _Illustrated London News_, 1845. [Departure of the 'Erebus' and 'Terror' on the Arctic Expedition.] British Newspaper Archive. Accessed 18 October 2019.
 
