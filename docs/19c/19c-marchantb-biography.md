@@ -1,6 +1,7 @@
 # Bessie Marchant (1862-1941)
 
-**Bessie Marchant Comfort, Mrs J. A. Comfort. 
+**Bessie Marchant Comfort, Mrs J. A. Comfort.**
+
 **Pen-name** John Comfort
 
 **Place** Born at Debden Court Farm, Petham, Canterbury on 12 December 1862.
