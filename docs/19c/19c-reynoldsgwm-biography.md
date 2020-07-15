@@ -11,7 +11,7 @@ Prolific and popular early Victorian novelist, who is forgotten nowadays but in 
 ‘I had a couple of hours to dispose of as best I could. So I thought of taking a walk to the Dane John, which I may as well observe, for the benefit of those who are not acquainted with Canterbury, is a beautiful pleasure-ground, laid out in walks with avenues of trees, borders of flowers, and groups of shrubs. One side is bounded by a high rampart belonging to the old city-fortifications, and this is also a favourite promenade with the ladies and gentlemen of Canterbury. There is a very high mound, with winding walks ascending to the summit, on which stands a sort of monument or obelisk, with seats conveniently arranged round it. From this eminence there is a very beautiful view, not only of the city and its fine old cathedral with its three stately towers and numerous pinnacles, but likewise of the adjacent country for several miles round.’
 
 <p align="center">
-  <img src="images/Mary Price on Dover Beach.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="images/Mary Price on Dover Beach.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Mary Price on Dover Beach</span>
 </p>
 
