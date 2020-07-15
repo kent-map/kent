@@ -29,7 +29,7 @@ Marchant, Bessie. _Yew Tree Farm: A Story of a Separate Career_. London, 1904.
 Marchant, Bessie. _Yuppie_. London: Robert Culley, 1898. 
 
 ‘Marchant, Bessie (1862–1941).’ _Women in World History: A Biographical Encyclopaedia_.
-Encyclopedia.com. ''
+Encyclopedia.com. 
 
 Smith, M. (2009). Adventurous Girls of the British Empire: The Pre-War Novels of Bessie
 Marchant. _The Lion and the Unicorn_ 33(1). 1-25.
