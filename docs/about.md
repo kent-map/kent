@@ -32,6 +32,11 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 </p>
 
+### Susan Civale
+<img src="/images/susancivale.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+Susan is Senior Lecturer in Romanticism at Canterbury Christ Church University.  Her research focuses on women’s writing of the long nineteenth century, life writing, and authorial and textual afterlives.  Her monograph, Romantic Women's Life Writing: Reputation and Afterlife (Manchester University Press, 2019), explored how the publication of women’s ‘private’ lives, through diaries, auto/biographies, letters, and memoirs, influenced their literary afterlives.  
+
 ### Michelle Crowther
 <img src="/images/michelle.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
