@@ -71,6 +71,8 @@ By the end of it the hapless owner has lost all hope, and admits to the reader t
 
 https://www.victoriansecrets.co.uk/authors/jerome-k-jerome-1859-1927/
 
+**Article written by:** Professor Carolyn Oulton
+
 ### Bibliography
 
 Oulton, C. (2012) [Below the fairy city: a life of Jerome K. Jerome](https://www.victoriansecrets.co.uk/book/below-the-fairy-city-a-life-of-jerome-k-jerome/) Victorian Secrets.
