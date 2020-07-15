@@ -9,7 +9,7 @@
        title="Kent"
        banner="/images/kent-map-header.jpg">
 
-<img class="thumb" style="margin-top: 24px;" src="images/16c.png">
+<img class="thumb" style="margin-top: 24px;" src="/images/16c.png">
 <p class="clearfix">
 **[16th century.](coming)**  Establishment of Chatham Dockyard. Battle against the Spanish Armada. Industry includes textiles and iron production.
 
@@ -42,5 +42,5 @@
 
 [Dickens](dickens)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTI1MjYyN119
+eyJoaXN0b3J5IjpbMjM0NjI2MzM0XX0=
 -->
