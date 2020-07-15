@@ -1,4 +1,4 @@
-# R.D. Blackmore
+# R.D. Blackmore (1825-1900)
 **Place:** Wrotham.
 
 Best known for _Lorna Doone_, novelist R. D. Blackmore (1825-1900) set part of his novel _Alice Lorraine_ (1874–75) in the Weald of Kent.
