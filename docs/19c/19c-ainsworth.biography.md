@@ -28,6 +28,7 @@ _Rookwood_ is a historical novel that rewrites infamous highwaymen and criminal 
 “a magnificent coal-black beard decorated the chin of this worthy; but this was not all—his costume was in perfect keeping with his beard, and consisted of a very theatrical-looking tunic, upon the breast of which was[243] embroidered, in golden wire, the Maltese cross; while over his shoulders were thrown the folds of an ample cloak of Tyrian hue.” 
 Courtenay was a wine-merchant, and after unsuccessfully standing for parliament in [Canterbury](19c-canterbury) was involved with smuggling. He was then tried and committed to the Kent County Lunatic Asylum. Courtenay was largely believed to be insane even before his incarceration in the asylum, his chief delusion that he would be elected into parliament. Ainsworth captures this in the poem as the knight of Malta sings “For surely I the fittest was, and very proper, very,/To represent the wisdom and the wit of [Canterbury](19c-canterbury).” After his release Courtenay gathered a small band of followers and incited what is known as the Battle of Bossenden Wood (1838) by killing a constable. The battle, otherwise known as ‘The Courtenay Uprising’, took place in a village between [Canterbury](19c-canterbury) and [[Faversham]] and is largely considered to be one the of the last battles fought on English soil. 
 
+**Article written by** Laura Allen
 
 ### Bibliography
 
