@@ -1,15 +1,5 @@
 # Jerome K. Jerome (1859-1927)
 
-*Event:* Holiday 1890
-
-*Place:* [Folkestone](19c-folkestone)
-
->“You’ll find when you get home,” I said, “she has thought of one other thing.”
-
-“What’s that?” said Harris.
-
-“A house at Folkestone for the season.”Event:* Holiday 1890
-
 *Place:* [Folkestone](19c-folkestone)
 
 >“You’ll find when you get home,” I said, “she has thought of one other thing.”
