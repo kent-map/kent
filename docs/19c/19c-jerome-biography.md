@@ -2,7 +2,7 @@
 
 *Place:* [Folkestone](19c-folkestone)
 
->“You’ll find when you get home,” I said, “she has thought of one other thing.”
+“You’ll find when you get home,” I said, “she has thought of one other thing.”
 
 “What’s that?” said Harris.
 
