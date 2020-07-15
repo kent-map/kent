@@ -38,4 +38,9 @@
 **[20th century.](20c)**  Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 </p>
 
-**[21st century.](21c)** Regeneration and the rise of the DFL.
+**[21st century.](21c)** Regeneration and the rise of the DFL.## Kent
+
+[Dickens](dickens)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjM0NjI2MzM0XX0=
+-->
