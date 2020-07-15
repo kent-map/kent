@@ -18,5 +18,6 @@
 [George Grossmith](19c-grossmith-biography)  
 [Bessie Marchant](19c-marchantb-biography)  
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)
+
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
 [Margaret Emily Shore](19c-shore.biography)  
