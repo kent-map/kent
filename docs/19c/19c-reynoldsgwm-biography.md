@@ -24,3 +24,4 @@ Reynolds’s novel _Mary Price_ (1851–53) is a tale of two cities which takes 
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Joseph Mallord William Turner, ‘Dover ’, c.1825, Tate (D18154), digital image © Tate released under Creative Commons CC-BY-NC-ND (3.0 Unported).</span>
 </p>
 
+**Article written by:** Peter Merchant
