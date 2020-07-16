@@ -16,7 +16,7 @@
 
 ## Mobile Landscapes: Finding Kent Dickensian in David Copperfield and Great Expectations
 
-## Welcome to Dickens Land! fasfdasfasf
+## Welcome to Dickens Land!
 
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
 <param ve-image manifest="https://tripleeyeeff-atjcn6za6q-uc.a.run.app/presentation/2af28267ea2dd1ca1735fa051ab05273d5ec8222ed40dfeb125aa537/manifest">
