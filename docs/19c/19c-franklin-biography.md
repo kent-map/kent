@@ -1,14 +1,10 @@
 <param ve-config
-       title="# Sir John Franklin (16 April 1786 – 11 June 1847)"
+       title="Sir John Franklin (16 April 1786 – 11 June 1847)"
        layout="vtl">
 
 ## Sir John Franklin (16 April 1786 – 11 June 1847)
 
-<param ve-image url="images/franklin.jpg" title="
-
-<p align="center">
-  <img src="images/franklin.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">'Sir John Franklin">.</span> 
+<param ve-image url="images/franklin.jpg" title="Sir John Franklin">
 
 Married 1823-1825, to the poet Eleanor Anne Porden (1795-1825); 1828-1847, to Jane Griffin, better known as Lady Franklin (1791-1875) '''
 
@@ -19,7 +15,7 @@ Married 1823-1825, to the poet Eleanor Anne Porden (1795-1825); 1828-1847, to Ja
 >‘In the last letter written before he sailed, dated H.M.S. Erebus, Greenhithe, 18th May, 1845, [Franklin] says to his father-in-law:
 “I wish you could see the ship now; she is almost as clean as she will be at sea, and quite ready for sailing. The officers and the crew all fine men and in excellent spirits. This day we had the happiness of joining together on board in Divine worship to praise God for past mercies and to implore His guiding and protecting providence. In this spirit we all hope to begin, continue and end our voyage.”’ 
 
-From _“The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:” _
+From _“The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:”_
 
 ### DEPARTURE OF THE “EREBUS” AND “TERROR” ON THE ARCTIC EXPEDITION
 
@@ -36,12 +32,7 @@ From _“The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:�
 
 On Monday [19 May 1845] H. M. sloops Erebus and Terror left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America.
 
-<param ve-image url="images/erebus.jpg" title=" 
-  
-<p align="center">
-  <img src="images/erebus.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Illustration of the ships Erebus and Terror leaving Greenhithe. Published in the Illustrated London News, 24th May 1845, p. 328."></span> 
-
+<param ve-image url="images/erebus.jpg" title="Illustration of the ships Erebus and Terror leaving Greenhithe. Published in the Illustrated London News, 24th May 1845, p. 328."> 
 
 Greenhithe, on the shore of the River Thames, is, today, overshadowed by its near neighbours the Queen Elizabeth II Bridge and the Bluewater shopping centre. In the 1840s, however, a pier erected in 1842 attracted Victorian day-trippers aboard pleasure boats from London; a fashion augmented by the opening of a railway link in 1849.
 
@@ -55,10 +46,7 @@ In 1859, after twelve years of searching, proof was found that everyone on the e
 
 In Greenhithe, Franklin is commemorated by a seventeenth-century pub re-named in his honour circa 2000; he would have known it as The White Hart. The village’s other pub, which Franklin would have known as The Admiral Keppell, became The Pier Hotel in 1847.[^ref3] (camra, 2019). Each of these establishments backs onto the river and each boasts a suitable wharf from which Erebus or Terror could have set sail. 
 
-<param ve-image url="images/Franklinpub.jpg" title=" align="center">
-  <img src="images/Franklinpub.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">IFranklin Pub"></span> 
-
+<param ve-image url="images/Franklinpub.jpg" title="Franklin Pub" align="center">
 
 ### Bibliography 
 
