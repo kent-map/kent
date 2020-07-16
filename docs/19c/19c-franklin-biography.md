@@ -15,7 +15,7 @@ Married 1823-1825, to the poet Eleanor Anne Porden (1795-1825); 1828-1847, to Ja
 >‘In the last letter written before he sailed, dated H.M.S. Erebus, Greenhithe, 18th May, 1845, [Franklin] says to his father-in-law:
 “I wish you could see the ship now; she is almost as clean as she will be at sea, and quite ready for sailing. The officers and the crew all fine men and in excellent spirits. This day we had the happiness of joining together on board in Divine worship to praise God for past mercies and to implore His guiding and protecting providence. In this spirit we all hope to begin, continue and end our voyage.”’ 
 
-From _“The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:” _
+From _“The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:”_
 
 ### DEPARTURE OF THE “EREBUS” AND “TERROR” ON THE ARCTIC EXPEDITION
 
