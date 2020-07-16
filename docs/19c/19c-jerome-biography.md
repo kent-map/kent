@@ -1,35 +1,12 @@
 # Jerome K. Jerome (1859-1927)
 
-*Event:* Holiday 1890
-
 *Place:* [Folkestone](19c-folkestone)
 
->“You’ll find when you get home,” I said, “she has thought of one other thing.”
-
-“What’s that?” said Harris.
-
-“A house at Folkestone for the season.”Event:* Holiday 1890
-
-*Place:* [Folkestone](19c-folkestone)
-
->“You’ll find when you get home,” I said, “she has thought of one other thing.”
+“You’ll find when you get home,” I said, “she has thought of one other thing.”
 
 “What’s that?” said Harris.
 
 “A house at Folkestone for the season.”
-
-“What should she want a house at Folkestone for?” said Harris.
-
-"To live in,” I suggested, “during the summer months.”
-
-“She’s going to her people in Wales,” said Harris, “for the holidays, with the children; we’ve had an invitation.”
-
-“Possibly,” I said, “she’ll go to Wales before she goes to Folkestone, or maybe she’ll take Wales on her way home; but she’ll want a house at Folkestone for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am — but I feel a presentiment that I’m not.”
-
-“This trip,” said Harris, “is going to be expensive.”
-
-“It was an idiotic suggestion,” I said, “from the beginning.”
-
 
 “What should she want a house at Folkestone for?” said Harris.
 
@@ -48,7 +25,7 @@
 
 
 <div align="center" style="float:right; margin: 64px 0 6px 24px;">
-  <img src="images/Jerome_K._Jerome_(7893553318).jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <img src="images/Jerome_K._Jerome.jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
   <p style="padding-top:12px; font-size:0.9em;"><b>By National Media Museum from UK - Jerome K. Jerome. Uploaded by mrjohncummings, No restrictions</b></p>
 </div>
 
@@ -70,6 +47,8 @@ Nothing daunted, J’s new acquaintance next proposes ‘that while he was about
 By the end of it the hapless owner has lost all hope, and admits to the reader that ‘My pride in the machine he had killed.  My only interest lay now in seeing him scratch and bump and pinch himself.’ But his sarcastic comment that ‘It is not only your skill and dexterity that fascinates me, it is your cheery confidence in yourself, your inexplicable hopefulness, that does me good’ is clearly wasted on the author of his misfortunes, and finally the bicycle is sold off at a loss to a local dealer.
 
 https://www.victoriansecrets.co.uk/authors/jerome-k-jerome-1859-1927/
+
+**Article written by:** Professor Carolyn Oulton
 
 ### Bibliography
 

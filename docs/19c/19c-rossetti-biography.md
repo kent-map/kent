@@ -3,6 +3,7 @@
 D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-Raphaelite movement. He was one of the founders of the Pre-Raphaelite Brotherhood in 1848. His sister Christina was a poet associated with the Pre-Raphaelite literary movement. Her most famous collection was Goblin Market and Other Poems (1862).
 
 *Place:* Birchington, [Margate](19c-margate)
+
 *Events:* Death of Dante Gabriel Rossetti in Birchington-on-Sea in 1882; Birchington Churchyard’ written by Christina Rossetti in the same year.
 
 ‘Birchington Churchyard’

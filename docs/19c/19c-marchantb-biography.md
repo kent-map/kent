@@ -1,6 +1,8 @@
-# Bessie Marchant (Bessie Marchant Comfort, Mrs J. A. Comfort. Pen-name John Comfort)
-(1862-1941)
+# Bessie Marchant (1862-1941)
 
+**Bessie Marchant Comfort, Mrs J. A. Comfort.**
+
+**Pen-name** John Comfort
 
 **Place** Born at Debden Court Farm, Petham, Canterbury on 12 December 1862.
 
@@ -10,6 +12,8 @@ _Yuppie_.
 
 
 Marchant set a number of her earlier novels in the place of her childhood – Kent. Her father, a farmer and of the Baptist faith, helped to set up a mission chapel in Elmsted, between Canterbury and Ashford, but was forced to move to Petham after retaliation from the landowner of his rented farm. Religion is a key feature in her novels, particularly in _Yuppie_. The world of ‘Bodsam Green’, a fictional reworking of Bodsham Green (near Ashford), is changed when a family of ‘Methodies’ come to preach at the local church. After his father is converted Yuppie also wants to become ‘a Christian like father an’ the others’ praying to God to ‘make me one quick, please, cos there’s such a dreadful sight o’ things as I wants ter ask yer to give me afterwards!’ Marchant’s characters, from the novels set in Kent, feature this dialect heavily. They also have a limited knowledge of the outside world. Marchant herself actually never left England, except in her explorations of exotic and foreign locales during her research conducted in the Bodleian library, Oxford. Marchant describes ‘Yuppie’s World’, the world of her own childhood, as an ‘inconsiderable portion of the earth’, and attributes his ignorance of the bible, and of Christian principles in general, to this. There are lots of comedic instances when Yuppie tries to literally re-enact parts of the Bible.  The ‘adventure’ that Yuppie goes on is therefore not a physical one, but is instead spiritual in nature.
+
+**Article written by:** Laura Allen
 
 ### Bibliography
 
@@ -27,7 +31,7 @@ Marchant, Bessie. _Yew Tree Farm: A Story of a Separate Career_. London, 1904.
 Marchant, Bessie. _Yuppie_. London: Robert Culley, 1898. 
 
 ‘Marchant, Bessie (1862–1941).’ _Women in World History: A Biographical Encyclopaedia_.
-Encyclopedia.com. ''
+Encyclopedia.com. 
 
 Smith, M. (2009). Adventurous Girls of the British Empire: The Pre-War Novels of Bessie
 Marchant. _The Lion and the Unicorn_ 33(1). 1-25.
