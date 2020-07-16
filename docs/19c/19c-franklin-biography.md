@@ -19,25 +19,16 @@ From _“The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:�
 
 ### DEPARTURE OF THE “EREBUS” AND “TERROR” ON THE ARCTIC EXPEDITION
 
->A desart [sic] waste of waters lies before – 
-
-Behind, the anxious hospitable shore,
-
-Which like a parent bird sees ye depart,
-
-Bold wingéd messengers of daring art!
-
-We know that sunshine always ’round your path
-
-Cannot attend; that rain and tempest’s wrath
-
-Will be your portion; but our pray’r shall be
-
-You live their fury out right gallantly,
-
-And after years you have perchance to roam
-
-That science crown’d you safely seek your home! 
+  A desart [sic] waste of waters lies before –  
+  Behind, the anxious hospitable shore,  
+  Which like a parent bird sees ye depart,  
+  Bold wingéd messengers of daring art!  
+  We know t hat sunshine always ’round your path  
+  Cannot attend; that rain and tempest’s wrath  
+  Will be your portion; but our pray’r shall be  
+  You live their fury out right gallantly,  
+  And after years you have perchance to roam  
+  That science crown’d you safely seek your home!   
 
 On Monday [19 May 1845] H. M. sloops Erebus and Terror left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America.
 
