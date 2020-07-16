@@ -19,8 +19,7 @@
 ## Welcome to Dickens Land!
 
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
-<param ve-image manifest="https://tripleeyeeff-atjcn6za6q-uc.a.run.app/presentation/2af28267ea2dd1ca1735fa051ab05273d5ec8222ed40dfeb125aa537/manifest">
-<!-- <param ve-image manifest="https://tripleeyeeff-atjcn6za6q-uc.a.run.app/presentation/2af28267ea2dd1ca1735fa051ab05273d5ec8222ed40dfeb125aa537/manifest"> -->
+<param ve-image manifest="https://iiif.visual-essays.app/presentation/f966608d48657a348773da8882afd08c90df5b9e67f9bcd67b6e4a16/manifest">
 
 Of course at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At Gravesend we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the sea? [Broadstairs](broadstairs-19th-century) or [Dover](19c-dover), it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
 
