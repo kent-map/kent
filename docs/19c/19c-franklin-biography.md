@@ -1,5 +1,5 @@
 <param ve-config
-       title="# Sir John Franklin (16 April 1786 – 11 June 1847)"
+       title="Sir John Franklin (16 April 1786 – 11 June 1847)"
        layout="vtl">
 
 ## Sir John Franklin (16 April 1786 – 11 June 1847)
