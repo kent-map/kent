@@ -56,7 +56,7 @@ The museum parlour is a complete reconstruction of the room where David is rando
 <param ve-image primary url="images/Dickens_House_PH.png" title="Aunt Betsey's parlour © Carolyn Oulton">
 
 It is a far cry from the grandeur of [Fort House](dickens-fort-house), where Dickens wrote part of the novel and where he had [Wilkie Collins](collins-biography) and other friends to stay. When we went a chirpy billboard suggested that visitors should come in and see Dickens’s study and then recover from the emotion with a cream tea. 
-<param ve-image primary url="images/Cream tea BH.png" title="Cream tea" attribution="">
+<param ve-image primary url="images/Cream tea BH.jpg" title="Cream tea" attribution="">
 
 We had of course planned to have lunch at the Albion, but like Dickens when the hotel’s kitchen boy made off with the last of the cold chicken, we were thwarted by circumstances. And if we had not gone to Wyatt and Jones instead, we might never have thought to go for the pie (wrong novel but who cared), nor would we have met the man at the window table who sat and beamed like Dr Strong, almost certainly without seeing us. We got lost on the way back, of course we did. But we were still [singing](https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408) when we reached Canterbury. 
 
