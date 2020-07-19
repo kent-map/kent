@@ -201,8 +201,8 @@ To repeat. It was half term. The school was very much closed. Memories of an unf
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 
 Oh come on, you didn't think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like David Copperfield before us, made our way back towards the [Dover Road](david-copperfield-dover-road)
-<param ve-image primary url="images/Gads1864067463.jpg" title="Gads1866. *©The British Library Board Maps 67463*" fit="cover">
-<param ve-image primary url="images/CDMamieKatie.jpg" fit="cover">OK, 
+<param ve-image primary url="images/Gads1864067463.jpg" title="Gads1866. ©The British Library Board Maps 67463" fit="cover">
+<param ve-image primary url="images/CDMamieKatie.jpg" fit="cover">
 
 ## Conclusion: in which we justify all this gadding about by insisting that it was serious work.
 
