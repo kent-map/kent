@@ -100,12 +100,12 @@ The day we went to find Pip Pirrip nothing was initially visible from anywhere. 
 <param ve-image primary url="images/Chalk Church.jpg" title="Chalk Church ©Ken Moffat" fit="contain" rotate="90">
 
 But the real stumbling block was Joe Gargery’s forge. In our determination not to miss it we must have stopped at every plausible cottage in a five mile radius. Finally we found one called The Old Forge in Chalk, believed to be the village described in the book. There was no obvious place to park, and anyway it was raining. But we had come here to feel something, so we stashed the car a hundred yards down a narrow lane, marched back in single file and tried not to look like burglars as we stared wanly at the cladding on the walls and told each other it was typically Kentish. Pip arrives back at the forge from his encounter with Magwitch cold, damp and frightened. We were cold, damp and slightly inhibited by thinking what fools we’d feel if this turned out to be the wrong house.
-<param ve-image primary url="images/Forge Cottage Chalk.JPG" title="Forge Cottage, Chalk *©Ken Moffat*">
+<param ve-image primary url="images/Forge Cottage Chalk.JPG" title="Forge Cottage, Chalk ©Ken Moffat">
 
 ## Cooling
 
 And then the moment that somehow changed everything. Reading the first scene of the novel where it is meant to have happened, in the churchyard of [Cooling Church](great-expectations-cooling). The church porch is small with a bench on each side. Imagine sitting on one of these benches, legs pulled up in front of you, leaning back towards the church. From here you can see straight ahead into the churchyard. There is the tomb stone, just a few feet away, where Magwitch hoists Pip and demands a file and wittles. Imagine that facing you on the other bench someone is sitting with a scuffed paperback copy of the novel, open at the first page. They are not in your line of vision but you know that they can see you. You want them to see you, to register this book being written on your face. There is more than one voice here, you can hear the roughness of the man assuming rights over a child he has never met; the diffidence of the boy as he introduces his parents, the names of the dead who stand witness and can do nothing. You want to help, but it’s too late, and you know what will happen next but there’s nothing you can do. And you know how it will end – a fading away, the closing of the book, and silence. That will be thank you. You’ll have to move, look at each other, but that’s ok, you’ve done this before. And then you’re running through the rain, towards the river.
-<param ve-image primary url="images/Cooling churchyard.jpg" title="Cooling Churchyard" rotate="90">
+<param ve-image primary url="images/Cooling churchyard.jpg" title="Cooling Churchyard" rotate="90" attribution="">
 <param ve-map center="Q2649453" zoom="10">
 
 This is the river down which Pip will row so desperately in his abortive attempt to smuggle Magwitch out of the country from Gravesend. We nearly ended up in it when the sat nav helpfully directed us to the [Ship and Lobster](great-expectations-ship-and-lobster) via a small yard hemmed in by industrial buildings, and over a jetty. Convinced we had taken a wrong turning we reversed cautiously back out and down the back road by which we’d just arrived. For one moment it seemed that lunch was going to be a burger from a layby kiosk. But before we gave in it was worth approaching those men in luminous yellow – you did just address them as ‘mate’, didn’t you? – and asking if the pub was nearby. Some gesticulating, much nodding, a word that sounded like ‘mate’ repeated several times; by this point the driver feared she might be eating alone. (It’s an experience in itself observing a male bonding ritual and marvelling at how much mileage can seemingly be got out of this one word). And then we were moving slowly back in the direction of the yard.
@@ -135,7 +135,7 @@ The temporal gap between lunch at the [Ship and Lobster](great-expectations-ship
 
 ## Great Expectations Part 2. Rochester.
 
-<param ve-image primary url="images/Bull-Hotel-postcard-Rochester.jpg" title="Bull Inn" fit="cover">
+<param ve-image primary url="images/Bull-Hotel-postcard-Rochester.jpg" title="Bull Inn" fit="cover" attribution="">
 
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
 
@@ -146,7 +146,7 @@ Whenever he leaves the forge Pip is confronted with a choice between the marshy 
 We were forced to question his decision when – having assumed we would find the inn without effort – we found ourselves in a startlingly empty, neon blue and purple bar, trying not to notice the prevalence of cocktail umbrellas or to look each other in the eye. Immediately we found ourselves speaking in whispers, as if we had been kidnapped or inadvertently walked into the wrong meeting. Clearly this was never going to do, but we spent several minutes plotting our escape in a kind of semaphore (which was odd, as there were apparently no staff to be offended, and the door was wide open), before finally bolting back into the sunshine and agreeing never to speak of this again. The actual Blue Boar was of course shut, so we took refuge in a quaintly oak-beamed pub a few doors down, where a motherly woman, almost certainly descended from Joe and Biddy’s children, took one look at our still ashen faces and put some extra gravy on the pie.
 
 Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [Restoration House](great-expectations-restoration-house). http://www.literatureproject.com/great-expectations/great_8.htm
-<param ve-image primary url="images/RestorationHouse.JPG" title="Restoration House" fit="cover">
+<param ve-image primary url="images/RestorationHouse.JPG" title="Restoration House " fit="cover">
 
 >‘He calls the knaves, Jacks, this boy!’ 
 A child on the opposite bench clearly didn’t care what he called them and went on playing with a convenient oak leaf.
@@ -177,7 +177,7 @@ And then we got lost again, but at least Estella wasn’t there to see it.
 
 ## Gad’s Hill: Journey’s End.
 
-<param ve-image primary url="images/Gadshill In Dickens Land.JPG" title="Gad's Hill In Dickens Land" fit="cover">
+<param ve-image primary url="images/Gadshill In Dickens Land.JPG" title="Gad's Hill In Dickens Land " fit="cover">
 
 Honestly. Parents.
 
