@@ -32,6 +32,11 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 </p>
 
+### Simone Blandford
+<img src="/images/simoneblandford.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+Simone Blandford is an undergraduate BA English Literature student at the University of Exeter. She’s an aspiring academic looking to continue her studies beyond her BA. She can usually be found researching authors in dusty old libraries or telling everyone who’ll listen fun-facts about said authors. 
+
 ### Susan Civale
 <img src="/images/susancivale.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
