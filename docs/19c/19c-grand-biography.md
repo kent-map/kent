@@ -1,4 +1,4 @@
-# Sarah Grand (1854-1943)
+## Sarah Grand (1854-1943) 
 
 **Place:** Lived in Tonbridge Wells 1898-1920
 
@@ -25,3 +25,4 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She die
 Sutton-Ramspeck, Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman. Ohio: Ohio University Press, 2004.
 
 Sarah Grand Archive. International Centre for Victorian Women Writers, Canterbury Christ Church University.
+
