@@ -21,6 +21,7 @@ She may have preferred Ramsgate, described by Emily as ‘a large and rather han
 
 It comes as no surprise to find her back in Kent in 1835, eagerly following the work going on in [[Chatham Dockyard]], from the hammering of the fluke of an anchor to the steam-engine in the suffocatingly hot saw-room. She comments too on a visit to Cobham Hall and the sentimental story of the widowed heron who ‘used to walk for hours before the windows of the orange-house, looking at itself in the glass.’[^ref9]  But it is the machinery rather than the tame bird that has captured her imagination, and the dockyard that features as ‘perhaps the most interesting and wonderful place I have seen since I left Woodbury’.[^ref9]
 
+**Article written by:** Professor Carolyn Oulton
 
 ### References
 
