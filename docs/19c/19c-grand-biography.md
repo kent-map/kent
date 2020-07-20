@@ -17,6 +17,8 @@ But like Beth McClure, Sarah Grand later transferred her energies from writing t
 
 Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She died in Wiltshire in 1943. 
 
+**Article written by:** Professor Carolyn Oulton
+
 
 ### Bibliography
 
