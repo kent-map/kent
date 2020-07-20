@@ -15,6 +15,7 @@ Cowing, as usual, overstepping the mark. He suggested we should play ‘Cutlets,
 
 When George Grossmith retired in 1909 he moved to [Folkestone](/dickens/19c-folkestone), where [H. G. Wells](/20c/20c-wellshg-biography) would have been a near neighbour, and died at 32 Manor Road on 1 March 1912. But like fellow authors W. M. Thackeray and [Wilkie Collins](/19c-collins-biography) he is buried in London, at Kensal Green Cemetery.
 
+**Article written by:** Professor Carolyn Oulton
 
 ### Bibliography
 
