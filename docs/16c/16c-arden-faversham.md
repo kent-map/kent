@@ -1,7 +1,6 @@
 ## Arden of Faversham (Author unknown) 
 
-On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn. The 1570s saw the rise in popularity of true crime narratives in print, and in c. 1590 the Arden murder was turned into a play. Complaintandlamentation.jpg Image of the night of Arden’s murder – taken from The Complaint and Lamentation of Mistresse of Feversham in Kent, 1663. Early English Books Online https://eebo.chadwyck.com/search/full_rec?SOURCE=pgthumbs.cfg&ACTION=ByID&ID=99851083&FILE=../session/1587461753_3794&SEARCHSCREEN=CITATIONS&SEARCHCONFIG=var_spell.cfg&DISPLAY=AUTHOR
-
+On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn. The 1570s saw the rise in popularity of true crime narratives in print, and in c. 1590 the Arden murder was turned into a play. Complaintandlamentation.jpg Image of the night of Arden’s murder – taken from The Complaint and Lamentation of Mistresse of Feversham in Kent, 1663.[^ref1]
 ### Article
 
 Ardenplaque.JPG
@@ -58,3 +57,8 @@ Sullivan Jr., Garrett A., Arden of Faversham and the Early Modern Household, in 
 Valerie-Lucas, R. Puritan Preaching and the Politics of the Family, in The Renaissance Englishwoman in Print – Counterbalancing the Canon, edited by Anne H. Haselkorn and Betty S. Travitsky (Amherst; Mass.; London: University of Massachusetts Press, 1990).
 
 Wall, Wendy, Staging Domesticity – Household Work and English Identity in Early Modern Drama (Cambridge; New York: Cambridge University Press, 2002, reprinted 2006).
+
+### References
+
+[^ref1]: Early English Books Online https://eebo.chadwyck.com/search/full_rec?SOURCE=pgthumbs.cfg&ACTION=ByID&ID=99851083&FILE=../session/1587461753_3794&SEARCHSCREEN=CITATIONS&SEARCHCONFIG=var_spell.cfg&DISPLAY=AUTHOR
+
