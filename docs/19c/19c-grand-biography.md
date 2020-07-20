@@ -1,10 +1,3 @@
-<style>
-    .clearfix::after {content: ""; clear: both; display: table;}
-    .thumb {float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:150px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa; margin-bottom: 24px;}
-    p {font-size: 1.5rem;}
-    a {color: #800000 !important; font-size: 1.2em;}
-</style>
-
 ## Sarah Grand (1854-1943) 
 
 **Place:** Lived in Tonbridge Wells 1898-1920
@@ -15,7 +8,6 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and propon
   <img src="images/SG passport.jpeg" style="float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Sarah Grand's passport © International Centre for Victorian Women Writers</span>
 </p>
-
 
 ### Article
 
