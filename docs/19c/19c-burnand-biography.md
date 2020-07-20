@@ -6,6 +6,7 @@
 
 
 >The New Pier, many years old by now, for entrance to which, as being something superior, twopence is charged, is an instance of that kind of half-fulfilled promise whereof Ramsgate generally offers several evident examples. But while there is a pier there is hope, and it may yet occur to its proprietors, or to the local authorities, to say, after the manner of Mr Wemmick, out of office-hours, in Great Expectations, "Hello! Here’s a pier! Let’s do something with it!"’
+
 _The Z.Z.G._
 
 
