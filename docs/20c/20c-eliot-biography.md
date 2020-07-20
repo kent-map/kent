@@ -15,6 +15,8 @@ After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside
 
 The Waste Land maps the landscape of life post-war. Its style and form were unprecedented and altered the way poetry was seen, read and understood.  The poem combines the old with the new, taking its form from classic and, the newly emerging, modernist poetry. “The Fire Sermon”, written in Margate, takes the reader on a journey through the landscape. It juxtaposes itself with beauty and barrenness. It also grapples with the psyche of those living through the period and the reader gets a true picture of this with Eliot’s only mention of Margate in the poem. It feels almost pivotal to the bringing together of the landscape and mind emphasising that “On Margate Sands. / I can connect / Nothing with Nothing.”   
 
+**Article written by:** Simone Blandford
+
 ### Bibliography 
 
 Eliot, T. S et al. _The Letters of T.S. Eliot_. Yale University Press, 2011.
