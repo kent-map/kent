@@ -1,24 +1,24 @@
-# William Harrison Ainsworth (1805-1882)
+## William Harrison Ainsworth (1805-1882)
 *Pseudonyms: ‘Thomas Hall’, ‘H A’, ‘W A’.*
 
 Prolific author William (usually known as Harrison) Ainsworth, born on 4 February 1805, wrote for _The London Magazine_ and had plays and poetry published in numerous journals including _The Edinburgh Magazine_ and _The European Magazine_. His first success, however, came with the 1834 Gothic Romance _Rookwood_ (which invokes Canterbury). His literary circle included Samuel Taylor Coleridge, Robert Southey, William Makepeace Thackeray, and many more. He was also close friends with Charles [Dickens](/dickens/dickens-biography) in the 1830s. He died on 3 January 1882.
 
->“THE KNIGHT OF MALTA
-''A Canterbury Tale''
+>THE KNIGHT OF MALTA
+_A Canterbury Tale_
 Come list to me, and you shall have, without a hem or haw, sirs,
 A Canterbury pilgrimage, much better than old Chaucer's.
 'Tis of a hoax I once played off upon that city clever,
 The memory of which, I hope, will stick to it for ever.
-''With my coal-black beard, and purple cloak,
+With my coal-black beard, and purple cloak,
 jack-boots, and broad-brimmed castor,
-Hey-ho! for the knight of Malta! ''
+Hey-ho! for the knight of Malta!
 To execute my purpose, in the first place, you must know, sirs,
 My locks I let hang down my neck—my beard and whiskers grow, sirs;
 A purple cloak I next clapped on, a sword lagged to my side, sirs,
 And mounted on a charger black, I to the town did ride, sirs.
 With my coal-black beard, &c.
 The people all flocked forth, amazed to see a man so hairy,
-Oh I such a sight had ne'er before been seen in [[Canterbury]]!
+Oh I such a sight had ne'er before been seen in Canterbury!
 My flowing robe, my flowing beard, my horse with flowing mane, sirs!
 They stared—the days of chivalry, they thought, were come again, sirs!
 With my coal-black beard, &c.”
