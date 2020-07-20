@@ -14,7 +14,7 @@ But the hapless Pooter is aghast to find that his son is frequenting the Assembl
 Cowing, as usual, overstepping the mark. He suggested we should play ‘Cutlets,’ a game we never heard of. He sat on a chair, and asked Carrie to sit on his lap, an invitation which dear Carrie rightly declined.
 https://en.wikisource.org/wiki/The_Diary_of_a_Nobody/Chapter_6
 
-When George Grossmith retired in 1909 he moved to [Folkestone](/dickens/19c-folkestone), where [H. G. Wells](/20c/20c-wells-biography) would have been a near neighbour, and died at 32 Manor Road on 1 March 1912. But like fellow authors W. M. Thackeray and [Wilkie Collins](/19c-collins-biography) he is buried in London, at Kensal Green Cemetery.
+When George Grossmith retired in 1909 he moved to [Folkestone](/dickens/19c-folkestone), where [H. G. Wells](/20c/20c-wellshg-biography) would have been a near neighbour, and died at 32 Manor Road on 1 March 1912. But like fellow authors W. M. Thackeray and [Wilkie Collins](/19c-collins-biography) he is buried in London, at Kensal Green Cemetery.
 
 
 ### Bibliography
