@@ -60,5 +60,5 @@ Wall, Wendy, Staging Domesticity – Household Work and English Identity in Earl
 
 ### References
 
-[^ref1]: Early English Books Online https://eebo.chadwyck.com/search/full_rec?SOURCE=pgthumbs.cfg&ACTION=ByID&ID=99851083&FILE=../session/1587461753_3794&SEARCHSCREEN=CITATIONS&SEARCHCONFIG=var_spell.cfg&DISPLAY=AUTHOR
+[^ref1]: [the] Complaint and Lamentation of Mistresse Arden of [Fev]Ersham in Kent Who for the Loue of One Mosbie, Hired Certaine Ruffians and Villaines most Cruelly to Murder Her Husband; with the Fatall End of Her and Her Associats. to the Tune of, Fortune My Foe. London, for C. Wright, 1633. ProQuest. Web. 20 July 2020.
 
