@@ -6,7 +6,7 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and propon
 
 <p align="center">
   <img src="images/SG passport.jpeg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Sarah Grand's letter opener</span> 
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Sarah Grand's passport opener</span> 
 
 
 ### Article
