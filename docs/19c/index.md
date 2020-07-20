@@ -15,6 +15,7 @@
 [Chatham Dockyard](19c-chatham-dockyard)  
 [Folkestone Free Library](19c-folkestone-free-library)  
 [Sir John Franklin](19c-franklin-biography)  
+[Sarah Grand](19c-grand-biography)   
 [George Grossmith](19c-grossmith-biography)  
 [Bessie Marchant](19c-marchantb-biography)  
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)  
