@@ -32,43 +32,43 @@ The Flower-de-Luce building is now the Fleur-de-Lis Heritage Centre, a museum an
 ### Bibliography and Further Reading
 
 
-Adams, John Henry, ‘Agentive Objects and Protestant Idolatry in Arden of Faversham, Studies in English Literature, 1500-1900, Vol. 57, Issue 2 (2007), pp. 231-251.
+Adams, John Henry, ‘Agentive Objects and Protestant Idolatry in Arden of Faversham, _Studies in English Literature, 1500-1900,_ Vol. 57, Issue 2 (2007), pp. 231-251.
 
-Arden of Faversham, with introduction by Tom Lockwood, Text Edited by Martin White (London; New York: Bloomsbury Methuen Drama, 1982 – revised edition 2007)
+_Arden of Faversham,_ with introduction by Tom Lockwood, Text Edited by Martin White (London; New York: Bloomsbury Methuen Drama, 1982 – revised edition 2007)
 
-Belsey, Catherine, Identity and Difference in Renaissance Drama (London: Routledge, 1993, 1st Published 1985).
+Belsey, Catherine, _Identity and Difference in Renaissance Drama_ (London: Routledge, 1993, 1st Published 1985).
 
-Cust, C.V.O., Lionel, ‘Arden of Feversham’, Archaeologia Cantiana, Vol. 34 (1920), pp. 101-138, accessed from Kent Archaeological Trust (accessed 17th April 2020) https://kentarchaeology.org.uk/arch-cant/vol/34/arden-faversham-appendix-i-text-indenture-3-august-1545-appendix-11-topographical.
+Cust, C.V.O., Lionel, ‘Arden of Feversham’, _Archaeologia Cantiana,_ Vol. 34 (1920), pp. 101-138, accessed from Kent Archaeological Trust (accessed 17th April 2020) https://kentarchaeology.org.uk/arch-cant/vol/34/arden-faversham-appendix-i-text-indenture-3-august-1545-appendix-11-topographical.
 
-Freebury-Jones, Darren, ‘In Defence of Kyd: Evaluating the Claim for Shakespeare’s Part Authorship of Arden of Faversham’, Authorship, Vol. 7, No. 2 (2018), 1-14.
+Freebury-Jones, Darren, ‘In Defence of Kyd: Evaluating the Claim for Shakespeare’s Part Authorship of Arden of Faversham’, _Authorship,_ Vol. 7, No. 2 (2018), 1-14.
 
-Holbrook, Peter, English Renaissance Tragedy – Ideas of Freedom (London: Arden Shakespeare, 2015).
+Holbrook, Peter, _English Renaissance Tragedy – Ideas of Freedom_ (London: Arden Shakespeare, 2015).
 
-Holinshed, Raphael, Chronicles of England, Scotland and Ireland (second edition, 1587), from Arden of Faversham, with introduction by Tom Lockwood, Text Edited by Martin White (London; New York: Bloomsbury Methuen Drama, 1982 – revised edition 2007).
+Holinshed, Raphael, _Chronicles of England, Scotland and Ireland_ (second edition, 1587), from Arden of Faversham, with introduction by Tom Lockwood, Text Edited by Martin White (London; New York: Bloomsbury Methuen Drama, 1982 – revised edition 2007).
 
-Hyde, Patricia, ‘Thomas Arden (c. 1508-1551), Oxford Dictionary of National Biography, published 23 Sep. 2004, revised 28 May 2015 (accessed 15/04/2020) https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-54606.
+Hyde, Patricia, ‘Thomas Arden (c. 1508-1551), _Oxford Dictionary of National Biography,_ published 23 Sep. 2004, revised 28 May 2015 (accessed 15/04/2020) https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-54606.
 
 (The) Judgement of the Reformed Churches that a man may lawfully not only put away his vvife for her adultery, but also marry another, (London, Printed for Andrew Crook at the Green Dragon in Pauls Churchyard. 1652), accessed from Early English Books Online (Accessed 17/04/2020) http://eebo.chadwyck.com/search/full_rec?SOURCE=pgthumbs.cfg&ACTION=ByID&ID=99829123&FILE=../session/1587454849_25609&SEARCHSCREEN=CITATIONS&SEARCHCONFIG=var_spell.cfg&DISPLAY=AUTHOR.
 
-Kinney, Arthur F., Authoring Arden of Faversham, from Hugh Craig and Arthur F. Kinney, Shakespeare, Computers and the Mystery of Authorship, (New York: Cambridge University Press, 2009)78-99.
+Kinney, Arthur F., _Authoring Arden of Faversham,_ from Hugh Craig and Arthur F. Kinney, Shakespeare, Computers and the Mystery of Authorship, (New York: Cambridge University Press, 2009)78-99.
 
-Lockwood, Tom, Introduction from Arden of Faversham, with introduction by Tom Lockwood, Text Edited by Martin White (London; New York: Bloomsbury Methuen Drama, 1982 – revised edition 2007).
+Lockwood, Tom, Introduction from _Arden of Faversham,_ with introduction by Tom Lockwood, Text Edited by Martin White (London; New York: Bloomsbury Methuen Drama, 1982 – revised edition 2007).
 
-O’Brien, Emily, ‘The Tragedy of Master Arden of Faversham, True Crime, and the Literary Marketplace of the 1580s’, Shakespeare Studies, Vol. 45 (2017)113-120.
+O’Brien, Emily, ‘The Tragedy of Master Arden of Faversham, True Crime, and the Literary Marketplace of the 1580s’, _Shakespeare Studies,_ Vol. 45 (2017)113-120.
 
-Richardson, Catherine, Domestic Life and Domestic Tragedy in Early Modern England – The Material Life of the Household (Manchester: Manchester University Press, 2006).
+Richardson, Catherine, _Domestic Life and Domestic Tragedy in Early Modern England – The Material Life of the Household_ (Manchester: Manchester University Press, 2006).
 
---. ‘ “Scene of the Murder” Arden of Faversham and Local Performance Cultures’, Early Modern Literary Studies, special issue 28, (2019), 1-27
+--. ‘ “Scene of the Murder” Arden of Faversham and Local Performance Cultures’, _Early Modern Literary Studies,_ special issue 28, (2019), 1-27
 
-Sturgess, Keith, Three Elizabethan Domestic Tragedies, edited with an introduction by Keith Strurgess (Harmondsworth: Penguin Book, 1985, 1st published 1969).
+Sturgess, Keith, _Three Elizabethan Domestic Tragedies,_ edited with an introduction by Keith Strurgess (Harmondsworth: Penguin Book, 1985, 1st published 1969).
 
-Sullivan Jr., Garrett A., Arden of Faversham and the Early Modern Household, in Early Modern English Drama – A Critical Companion, edited by Garrett A. Sullivan Jr., Patrick Cheney and Andrew Hadfield (Oxford; New York: Oxford University Press, 2006).
+Sullivan Jr., Garrett A., _Arden of Faversham and the Early Modern Household, in Early Modern English Drama – A Critical Companion,_ edited by Garrett A. Sullivan Jr., Patrick Cheney and Andrew Hadfield (Oxford; New York: Oxford University Press, 2006).
 
-Valerie-Lucas, R. Puritan Preaching and the Politics of the Family, in The Renaissance Englishwoman in Print – Counterbalancing the Canon, edited by Anne H. Haselkorn and Betty S. Travitsky (Amherst; Mass.; London: University of Massachusetts Press, 1990).
+Valerie-Lucas, R. _Puritan Preaching and the Politics of the Family, in The Renaissance Englishwoman in Print – Counterbalancing the Canon,_ edited by Anne H. Haselkorn and Betty S. Travitsky (Amherst; Mass.; London: University of Massachusetts Press, 1990).
 
-Wall, Wendy, Staging Domesticity – Household Work and English Identity in Early Modern Drama (Cambridge; New York: Cambridge University Press, 2002, reprinted 2006).
+Wall, Wendy, _Staging Domesticity – Household Work and English Identity in Early Modern Drama_ (Cambridge; New York: Cambridge University Press, 2002, reprinted 2006).
 
 ### References
 
-[^ref1]: [the] Complaint and Lamentation of Mistresse Arden of [Fev]Ersham in Kent Who for the Loue of One Mosbie, Hired Certaine Ruffians and Villaines most Cruelly to Murder Her Husband; with the Fatall End of Her and Her Associats. to the Tune of, Fortune My Foe. London, for C. Wright, 1633. ProQuest. Web. 20 July 2020.
+[^ref1]: [the] _Complaint and Lamentation of Mistresse Arden of [Fev]Ersham in Kent Who for the Loue of One Mosbie, Hired Certaine Ruffians and Villaines most Cruelly to Murder Her Husband; with the Fatall End of Her and Her Associats. to the Tune of, Fortune My Foe._ London, for C. Wright, 1633. ProQuest. Web. 20 July 2020.
 
