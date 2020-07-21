@@ -19,6 +19,8 @@ The real Arden was a disliked man who had caused much local offense for purchasi
 
 The Flower-de-Luce building is now the Fleur-de-Lis Heritage Centre, a museum and archive of Faversham heritage. Other scenes of local interest include Arden unloading goods at Faversham Quay and later taking a ferry to the Isle of Sheppey to visit Lord Cheney, the attempted murder on Rainham Downs – ‘A place well-fitting for such a stratagem’, and Alice’s execution in Canterbury, Greene’s in Ospringe. The story continued to remain a popular local tradition, seeing resurges of local performance in the eighteenth century, and again in the late twentieth. Performances took on many forms, including puppet shows and staging’s in the house itself. It continues to remain a much-studied source of both theatrical and historic interest. Ardenhouse.JPG
 
+**Article written by:** Marnie Stanley
+
 ### Bibliography and Further Reading
 
 
