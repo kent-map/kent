@@ -47,8 +47,8 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Katie Holdway is a PhD researcher in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, Romance, Revolution & Reform and a member of the Dickens Society Communications Committee.
     
-### Many Jones
-<img src="/images/manyjones1.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+### Mandy Jones
+<img src="/images/mandyjones1.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Mandy Jones is a PhD researcher at CCCU. She spends her time telling anyone who’ll listen (and even those who won’t) that Victoria Holt is an important but neglected author who needs reclaiming as a neo-Victorian novelist. She is thrilled that this project is literally putting Victoria Holt on the map.
     
