@@ -67,6 +67,11 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 <img src="/images/jstamp.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Jacquie is in the final year of a PhD in English Literature at Canterbury Christ Church University, where her research focuses on representations and perceptions of the Arctic in the Long-Nineteenth-Century. Her other interests include Cotswold and Molly Style Morris Dancing, the life and work of Charles Dickens, and the history of her adopted county of Kent.
+    
+### Christian Taylor
+<img src="/images/ctaylor.jpeg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+Dr Christian Taylor is Head of English at the Langton Grammar School for Boys, Canterbury.  He was born in Blackpool last century, slithered down to London to teach the scions of the well-heeled and double-barrelled, then slinked into Kent by a trap door in Ramsgate.  His research passions are singularly monomaniacal: all things Eliot (TS); anything Tony Harrison and Peter Reading; trying to prove to a cruel and dismissive world the truth of Calvin Hoffman's thesis that Christopher Marlowe wrote all the plays attributed to Shakespeare.  Yes.  All of them.
 
 ### Elizabeth Waterman-Scrase
 <img src="/images/Elizabeth_WS.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
