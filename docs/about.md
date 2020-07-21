@@ -26,12 +26,6 @@ As the map grows so too will the capacity for making unforeseen connections. Whi
 Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. While carrying out research in Dickens Land she infringed enough bye laws to get herself hanged under the Bloody Code. But it was all Pip’s fault.
 </p>
 
-### Ken Moffat
-<img src="/images/Dickens_House_PH.png"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
-<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
-Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
-</p>
-
 ### Simone Blandford
 <img src="/images/simoneblandford.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
@@ -53,11 +47,22 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Katie Holdway is a PhD researcher in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, Romance, Revolution & Reform and a member of the Dickens Society Communications Committee.
     
+### Many Jones
+<img src="/images/manyjones1.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+Mandy Jones is a PhD researcher at CCCU. She spends her time telling anyone who’ll listen (and even those who won’t) that Victoria Holt is an important but neglected author who needs reclaiming as a neo-Victorian novelist. She is thrilled that this project is literally putting Victoria Holt on the map.
+    
 ### Peter Merchant
 <img src="/images/petermerchant.JPG"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Peter Merchant is Principal Lecturer in English at Canterbury Christ Church University, and the U.K. member of the _Journal of Juvenilia Studies_ Editorial Advisory Board. His most recent foray into local literary studies is “The Life of Betty Trask (1893–1983): Fiction, Fame, and Frome,” in the _Frome Society Year Book_ 23 (2020): 70–78.
-    
+
+### Ken Moffat
+<img src="/images/Dickens_House_PH.png"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
+</p>
+
 ### Jacqui Stamp
 
 ### Elizabeth Waterman-Scrase
