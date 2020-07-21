@@ -1,4 +1,4 @@
-# Jerome K. Jerome (1859-1927)
+## Jerome K. Jerome (1859-1927)
 
 *Place:* [Folkestone](19c-folkestone)
 
