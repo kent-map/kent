@@ -10,7 +10,7 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and propon
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Sarah Grand's passport © International Centre for Victorian Women Writers</span>
 </p>
 
-### Article
+
 
 Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation she was denied an education comparable to her brothers’, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1870 to a much older man, surgeon David Chambers McFall. By 1888 the marriage had broken down, the catalyst for Grand's move to London and the beginning of her literary career. McFall’s presence pervades the 1890s trilogy _Ideala_ (1888), _The Heavenly Twins_ (1893) and _The Beth Book_ (1897). A vocal opponent of the Contagious Diseases Acts, Grand transparently draws on her husband’s work at the notorious lock hospitals as well as his support of vivisection, in her portrayal of Dan McClure, the man Beth is coerced into marrying as a young woman. As Beth Sutton-Ramspeck bluntly puts it, ‘her novels portray some of the most unpleasant households in literary history’.[^ref1]  One of the most controversial novels of its time, The Heavenly Twins was published in 1893 and includes an emotive treatment of syphilitic death, attributed to the prevalent belief that young women should remain ‘innocent’ of sexual issues before marriage. Grand is also widely credited with coining the term ‘the New Woman’ in 1894.
 
