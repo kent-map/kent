@@ -3,7 +3,10 @@
 On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn. The 1570s saw the rise in popularity of true crime narratives in print, and in c. 1590 the Arden murder was turned into a play. Complaintandlamentation.jpg Image of the night of Arden’s murder – taken from The Complaint and Lamentation of Mistresse of Feversham in Kent, 1663.[^ref1]
 ### Article
 
-Ardenplaque.JPG
+
+<div align="center" style="float:right; margin: 64px 0 6px 24px;">
+  <img src="images/Ardenplaque.JPG" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;"><p style="padding-top:12px; font-size:0.9em;"><b>Arden Plaque</b></p>
+</div>
 
 Arden of Faversham follows the affair of Alice Arden and Mosby, one which her husband is grieved by, but knows not how to prevent, even inviting Mosby into his home believing it would end neighbourly suspicion. Alice’s thoughts turn to murder; however, she is not the only one seeking Arden’s demise. Mosby acquires poison from a local painter in return for his sister’s hand in marriage, however Alice’s cooking efforts fail to kill Arden, and her subsequent chance encounter with Greene who Arden has stripped of land, results in a murderous arrangement. 
 
@@ -17,7 +20,12 @@ There are no clear villains or heroes in the play, the characters are each analy
 
 The real Arden was a disliked man who had caused much local offense for purchasing the lands of Faversham Abbey, which were dissolved in the dissolution of the monasteries, and was found dead in the fair which he had contrived to ensure was held solely on his land, preventing the community from receiving any profits. This is represented in the play, and as Sullivan Jr. has discussed the ending of the play detailing how the print of Arden’s body remained in the land for years (and in real life this print initially became somewhat of a tourist attraction after the murder), provides a powerful message that his misuse of the land, his greed and his move away from social to economic landlordism, had led to his demise. If Shakespeare could be put forward as author for ambiguity, then Marlowe could certainly be put forward for regional knowledge, having been born in local Canterbury, where Alice had been burnt alive for the murder. The author has ensured that the play remains true to its setting, mostly using the real locations and people accounted in the Holinshed Chronicle, such as the Flower-de-Luce inn on Preston Street where Mosby was found by authorities, and whose resident Adam Fowle had delivered a pair of fateful silver dice from Alice to Mosby during their affair. 
 
-The Flower-de-Luce building is now the Fleur-de-Lis Heritage Centre, a museum and archive of Faversham heritage. Other scenes of local interest include Arden unloading goods at Faversham Quay and later taking a ferry to the Isle of Sheppey to visit Lord Cheney, the attempted murder on Rainham Downs – ‘A place well-fitting for such a stratagem’, and Alice’s execution in Canterbury, Greene’s in Ospringe. The story continued to remain a popular local tradition, seeing resurges of local performance in the eighteenth century, and again in the late twentieth. Performances took on many forms, including puppet shows and staging’s in the house itself. It continues to remain a much-studied source of both theatrical and historic interest. Ardenhouse.JPG
+The Flower-de-Luce building is now the Fleur-de-Lis Heritage Centre, a museum and archive of Faversham heritage. Other scenes of local interest include Arden unloading goods at Faversham Quay and later taking a ferry to the Isle of Sheppey to visit Lord Cheney, the attempted murder on Rainham Downs – ‘A place well-fitting for such a stratagem’, and Alice’s execution in Canterbury, Greene’s in Ospringe. The story continued to remain a popular local tradition, seeing resurges of local performance in the eighteenth century, and again in the late twentieth. Performances took on many forms, including puppet shows and staging’s in the house itself. It continues to remain a much-studied source of both theatrical and historic interest. 
+
+<div align="center" style="float:right; margin: 64px 0 6px 24px;">
+  <img src="images/Ardenhouse.JPG" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:0.9em;"><b>Cassandra Austen (1773-1845) / Public domain</b></p>
+</div>
 
 **Article written by:** Marnie Stanley
 
