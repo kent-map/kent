@@ -17,6 +17,7 @@
 [Sir John Franklin](19c-franklin-biography)  
 [Sarah Grand](19c-grand-biography)   
 [George Grossmith](19c-grossmith-biography)  
+[Jerome K. Jerome](19c-jerome-biography)   
 [Bessie Marchant](19c-marchantb-biography)  
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)  
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
