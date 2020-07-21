@@ -5,7 +5,7 @@ On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversh
 
 
 <div align="center" style="float:right; margin: 64px 0 6px 24px;">
-  <img src="images/Ardenplaque.JPG" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;"><p style="padding-top:12px; font-size:0.9em;"><b>Arden Plaque</b></p>
+  <img src="images/Ardenplaque.jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;"><p style="padding-top:12px; font-size:0.9em;"><b>Arden Plaque</b></p>
 </div>
 
 Arden of Faversham follows the affair of Alice Arden and Mosby, one which her husband is grieved by, but knows not how to prevent, even inviting Mosby into his home believing it would end neighbourly suspicion. Alice’s thoughts turn to murder; however, she is not the only one seeking Arden’s demise. Mosby acquires poison from a local painter in return for his sister’s hand in marriage, however Alice’s cooking efforts fail to kill Arden, and her subsequent chance encounter with Greene who Arden has stripped of land, results in a murderous arrangement. 
@@ -23,7 +23,7 @@ The real Arden was a disliked man who had caused much local offense for purchasi
 The Flower-de-Luce building is now the Fleur-de-Lis Heritage Centre, a museum and archive of Faversham heritage. Other scenes of local interest include Arden unloading goods at Faversham Quay and later taking a ferry to the Isle of Sheppey to visit Lord Cheney, the attempted murder on Rainham Downs – ‘A place well-fitting for such a stratagem’, and Alice’s execution in Canterbury, Greene’s in Ospringe. The story continued to remain a popular local tradition, seeing resurges of local performance in the eighteenth century, and again in the late twentieth. Performances took on many forms, including puppet shows and staging’s in the house itself. It continues to remain a much-studied source of both theatrical and historic interest. 
 
 <div align="center" style="float:right; margin: 64px 0 6px 24px;">
-  <img src="images/Ardenhouse.JPG" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <img src="images/Ardenhouse.jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
   <p style="padding-top:12px; font-size:0.9em;"><b>Arden House</b></p>
 </div>
 
