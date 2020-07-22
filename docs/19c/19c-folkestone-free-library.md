@@ -25,6 +25,7 @@ In 1902 Rev. Hall and a group of ‘lady volunteers’ helped the librarian to r
 Hill would doubtless have been relieved to know that in 1926 the library flatly refused one donation. Aylmer Maude’s _The Life of Dr Marie Stopes_ contains no direct reference to birth control, but almost fifty years after the library first opened its doors, it was still being careful about who came through them. 
 
 ### Bibliography
+
 Catalogues of the Folkestone Free Library, 1881, 1896. Held in Folkestone Library.
 
 Cutting from Folkestone Herald 13 November 1926. Page unknown. Held in Folkestone 

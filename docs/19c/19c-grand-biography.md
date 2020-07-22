@@ -1,13 +1,12 @@
+<param ve-config style="article">
+
 ## Sarah Grand (1854-1943) 
 
 **Place:** Lived in Tonbridge Wells 1898-1920
 
+![Sarah Grand's passport © International Centre for Victorian Women Writers](images/SG passport.jpeg){: .left .dropshadow}
+
 Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920. Here she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies and was involved with the Women’s Volunteer Reserve Force during WW1.
-
-<p align="center">
-  <img src="images/SG passport.jpeg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Sarah Grand's passport © International Centre for Victorian Women Writers</span> 
-
 
 ### Article
 
@@ -18,7 +17,6 @@ But like Beth McClure, Sarah Grand later transferred her energies from writing t
 Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She died in Wiltshire in 1943. 
 
 **Article written by:** Professor Carolyn Oulton
-
 
 ### Bibliography
 
