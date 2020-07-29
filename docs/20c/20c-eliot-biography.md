@@ -1,4 +1,4 @@
-# Thomas Stearns Eliot (T.S Eliot) (1888-1965)
+## Thomas Stearns Eliot (T.S Eliot) (1888-1965)
 
 **Place:** Margate 
 
