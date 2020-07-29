@@ -7,4 +7,10 @@
 
 <param ve-config title="20th Century Kent">
 
-[]()
+[T.S. Eliot]()
+[Victoria Holt]()
+[Somerset Maugham]()
+[Elizabeth Von Arnim]()
+[Gladys Waterer]()
+[H.G. Wells]()
+[Pamela Wynne]()
