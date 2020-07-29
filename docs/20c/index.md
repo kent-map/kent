@@ -7,7 +7,7 @@
 
 <param ve-config title="20th Century Kent">
 
-[T.S. Eliot](20c-eliotts.biography)   
+[T.S. Eliot](20c-eliot-biography)   
 [Victoria Holt](20c-holt-biography)   
 [Somerset Maugham](20c-maugham-biography)  
 [Elizabeth Von Arnim](20c-vonarnim-biography)   
