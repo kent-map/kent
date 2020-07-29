@@ -7,10 +7,10 @@
 
 <param ve-config title="20th Century Kent">
 
-[T.S. Eliot]()
-[Victoria Holt]()
-[Somerset Maugham]()
-[Elizabeth Von Arnim]()
-[Gladys Waterer]()
-[H.G. Wells]()
-[Pamela Wynne]()
+[T.S. Eliot](20c-eliotts.biography)   
+[Victoria Holt](20c-holt-biography)   
+[Somerset Maugham](20c-maugham-biography)  
+[Elizabeth Von Arnim](20c-vonarnim-biography)   
+[Gladys Waterer](20c-waterer-biography)
+[H.G. Wells](20c-wellshg-biography)
+[Pamela Wynne](20c-wynne-biography)
