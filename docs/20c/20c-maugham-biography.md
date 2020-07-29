@@ -25,4 +25,5 @@ After his mother’s death Maugham was sent to stay with his uncle, who was a Vi
 ### Bibliography
 
 Maugham, Somerset W. [_Of Human Bondage_.](http://www.gutenberg.org/ebooks/351 ) 1995. 
+
 Maugham, Somerset W. [_Cakes & Ale_.](https://gutenberg.ca/ebooks/maughamws-cakesandale/maughamws-cakesandale-00-h.html) 1930. 
