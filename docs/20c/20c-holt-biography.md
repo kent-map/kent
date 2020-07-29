@@ -12,8 +12,7 @@ Publication of The _Shivering Sands_, set near the Goodwin Sands, 1969.
 Brief excerpt from publication ‘”the sand moves as you watch and forms itself into strange shapes, like monsters some of them . . . with claws . . . waiting to catch anyone who wandered there and pull them down. There were gulls circling overhead. Their cries were so mournful, Mrs Verlaine. Oh, it was frightening, so lonely, so desolate. They say the sands are haunted. I’ve talked to one of the men from the North Goodwins Lightship and he says that when he’s on watch he sometimes hears wild heart-rending cries from the sands. They used to say it was the gulls, but he wasn’t so sure. Terrible things have happened there”’. 
 
 
-
-Image(s) with location and copyright status See Heroes of the Goodwin Sands by Thomas Stanley Treanor, 1904. Illustration title “The Goodwin Sands” (attached for convenience). As the book is over 75 years old the illustration should be out of copyright. Gutenberg link to the book http://www.gutenberg.org/files/24685/24685-h/24685-h.htm  and to the image http://www.gutenberg.org/files/24685/24685-h/24685-h.htm#img-019   
+![Illustration title “The Goodwin Sands” Heroes of the Goodwin Sands by Thomas Stanley Treanor, 1904.](http://www.gutenberg.org/files/24685/24685-h/24685-h.htm#img-019){: .left .dropshadow}
 
 **Keywords** Kent as a fictional setting, Goodwin Sands, Folkestone, local history. 
 
@@ -22,4 +21,3 @@ Set in the Victorian era, the shivering sands of the title are the Goodwin Sands
 
 **Article written by:** Mandy Jones
 
-### References: 
