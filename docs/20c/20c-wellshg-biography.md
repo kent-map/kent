@@ -1,4 +1,4 @@
-# Herbert George Wells (H.G Wells) (1866-1946)
+## Herbert George Wells (H.G Wells) (1866-1946)
 
 **Publications of Interest:** _The Sea Lady_ (1902), _Kipps_ (1905) and _The History of Mr. Polly_ (1910)
 
@@ -25,13 +25,13 @@ During 1901 Wells embarked on a cycling tour of Kent, visiting Hill farm in Aldi
   <img src="images/Spade House 2 .jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Spade House</span> 
 
-In 1907 Wells’ became a Justice of the Peace for Folkestone,   received a visit from the author [Elizabeth von Armin](link to von Arnim)  and a few years later, in 1910, published his novel The History of Mr. Polly. The History of Mr. Polly is the story of Alfred Polly, a shop keeper in the fictional town of Fishbourne in Kent, based on Sandgate.  It retells Mr. Polly’s history and, similar to Kipps, he begins as a draper’s assistant, hanging around with the Three Ps until he eventually receives an inheritance from his late father. After this he travels to Canterbury, has a short love affair which ends in heartbreak and settles on marrying Miriam (his first cousin) bringing the novel back into the present, revealing the reality of shop-owning life. Similar to _Kipps_  the novel feels somewhat autobiographical, a theme throughout Wells’ writing. Each of the novels Wells wrote while living in Sandgate gives its reader a small glimpse into the history of H.G Wells. 
+In 1907 Wells’ became a Justice of the Peace for Folkestone,   received a visit from the author [Elizabeth von Armin](20c-vonarnim-biography)  and a few years later, in 1910, published his novel The History of Mr. Polly. The History of Mr. Polly is the story of Alfred Polly, a shop keeper in the fictional town of Fishbourne in Kent, based on Sandgate.  It retells Mr. Polly’s history and, similar to Kipps, he begins as a draper’s assistant, hanging around with the Three Ps until he eventually receives an inheritance from his late father. After this he travels to Canterbury, has a short love affair which ends in heartbreak and settles on marrying Miriam (his first cousin) bringing the novel back into the present, revealing the reality of shop-owning life. Similar to _Kipps_  the novel feels somewhat autobiographical, a theme throughout Wells’ writing. Each of the novels Wells wrote while living in Sandgate gives its reader a small glimpse into the history of H.G Wells. 
 
 **Article written by:** Simone Blandford
 
 ### Bibliography 
 
-Roberts, Adam. _H.G Wells: A literary Life_. Palgrave Macmillan, 2019. [Springer E-books](https://link.springer.com/book/10.1007%2F978-3-030-26421-5#about). Accessed 22/06/2020 
+Roberts, Adam. _H.G Wells: A literary Life_. Palgrave Macmillan, 2019. Springer E-books. Accessed 22/06/2020 
 
 Scott, Bonnie Kime. “Tracing Garden Networks: Katherine Mansfield and Elizabeth Von Arnim.” _Kipps_ Katherine Mansfield and Elizabeth Von Arnim_Kipps_, Edinburgh University Press, 2019. [JSTOR](www.jstor.org/stable/10.3366/j.ctvrs90wt.8 ), Accessed 22/06/2020 
 
