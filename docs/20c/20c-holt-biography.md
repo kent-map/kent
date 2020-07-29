@@ -1,4 +1,4 @@
-## Victoria Holt, a pseudonym of Eleanor Hibbert 
+## Victoria Holt (1906-1993) a pseudonym of Eleanor Hibbert 
 
 **Born** 1.9.1906.  
 **Died** 19.1.1993.  
