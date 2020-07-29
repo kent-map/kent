@@ -4,7 +4,7 @@ An English playwright, novelist, and short story writer born in Paris, Maugham i
 
 Attended the King’s School, Canterbury. 
 
-Two of his novels have obvious connections to Kent: Of Human Bondage (1915)is based on his experiences at King’s School and Cakes and Ale (1930) on the people of 20C Whitstable.
+Two of his novels have obvious connections to Kent: Of Human Bondage (1915) is based on his experiences at King’s School and Cakes and Ale (1930) on the people of twentieth century Whitstable.
 
 
 ‘When they got out of the train at Tercanbury, Philip felt sick with apprehension, and during the drive in to the town sat pale and silent. The high brick wall in front of the school gave it the look of a prison. There was a little door in it, which opened on their ringing; and a clumsy, untidy man came out and fetched Philip's tin trunk and his play-box. They were shown into the drawing-room; it was filled with massive, ugly furniture, and the chairs of the suite were placed round the walls with a forbidding rigidity. They waited for the headmaster.’
