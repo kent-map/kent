@@ -10,7 +10,7 @@
 
 Gladys Waterer, a minor novelist and playwright, was a founding member of the Dickens Fellowship in Broadstairs in 1937. She was involved with the annual festival for the rest of her life and dramatized every one of the novels bar _Oliver Twist_. 
 
-![Gladys Waterer as Mrs Squeers, Dickens Fesitval 1939](images/GettyImages-1053502770 Gladys Waterer.jpg){: .left .dropshadow}
+![Gladys Waterer as Mrs Squeers, Dickens Fesitval 1939](images/ GettyImages-1053502770 Gladys Waterer.jpg){: .left .dropshadow}
 
 ### Article
 
