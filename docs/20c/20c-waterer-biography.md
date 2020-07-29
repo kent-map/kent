@@ -4,11 +4,13 @@
 
 **Place:** Broadstairs
 
->‘”Who wants to know what everything means? Novels are not meant to be real life, only stories to amuse us. It is wrong to take such things seriously.” 
+‘”Who wants to know what everything means? Novels are not meant to be real life, only stories to amuse us. It is wrong to take such things seriously.” 
 
 “But you do take them seriously,” objected Ethel. “You read volumes and volumes of such stuff, and it’s bad for you. It fills you with all sorts of fancies and notions, that are worse than useless in this practical world.”’  _The Third Chance_, 1912. 
 
 Gladys Waterer, a minor novelist and playwright, was a founding member of the Dickens Fellowship in Broadstairs in 1937. She was involved with the annual festival for the rest of her life and dramatized every one of the novels bar _Oliver Twist_. 
+
+![Gladys Waterer as Mrs Squeers, Dickens Fesitval 1939](images/GettyImages-1053502770 Gladys Waterer.jpg){: .left .dropshadow}
 
 ### Article
 
