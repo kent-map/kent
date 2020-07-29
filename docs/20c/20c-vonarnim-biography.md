@@ -1,4 +1,4 @@
-# Elizabeth von Arnim. Pseudonym of Mary Beauchamp (1866-1941)
+## Elizabeth von Arnim. Pseudonym of Mary Beauchamp (1866-1941)
 
 **Event:** caravanning holiday in Sussex and Kent in the summer of 1907.
 
@@ -14,12 +14,13 @@ The Caravaners follows the German Baron von Ottringel on what is meant to be a m
 
 ### Article
 
-Published in 1909, Elizabeth von Arnim’s comic novel The Caravaners is reminiscent of Jerome K. Jerome’s Three Men in a Boat in its loving depiction of holiday disaster. The real holiday on which it is based took place in the wet summer of 1907. The itinerary included 20 Chatham, Leeds Castle, 20C Sandgate (to see H. G. Wells]], Great Chart (where they were joined by E.M. Forster) 20C Staplehurst, 20C Sissinghurst, (later the home of Vita Sackville-West), Aylesford and 20C Canterbury as well as parts of Sussex. [^ref1] ‘20C’ TEMPORARY ONLY – THERE TO LINK TO THE RIGHT VERSION.
+Published in 1909, Elizabeth von Arnim’s comic novel The Caravaners is reminiscent of Jerome K. Jerome’s Three Men in a Boat in its loving depiction of holiday disaster. The real holiday on which it is based took place in the wet summer of 1907. The itinerary included Chatham, Leeds Castle, Sandgate (to see [H. G. Wells](20c-wellshg-biography)), Great Chart (where they were joined by E.M. Forster) Staplehurst, Sissinghurst, (later the home of Vita Sackville-West), Aylesford and Canterbury as well as parts of Sussex. [^ref1].
 
 In the novel the appalling behaviour of the boorish narrator Baron von Ottringel forces the party to curtail their proposed month of pleasure after only a week. But as the three caravans follow a haphazard route along country lanes, he has a chance to ridicule his companions’ rhapsodies over meadows and night skies, as they take in the Medway, Bodiam Castle, Paddock Wood and finally 20C Canterbury. He remarks of the latter, ‘That was a tiring day. Canterbury is a tiring place; at least, it would be if you let it. I did not, however, let it tire me. And such a hot place. It is a steaming town with the sun beating down on it, and full of buildings and antiquities one is told one must be longing to look at. After a day’s march in the dust it is not antiquities one longs for…’[^ref2] His abiding memory of Canterbury will not be the cathedral (covered in scaffolding), nor the caravan site (a ‘shadeless stubblefield’ [^ref3] ), but the restaurant where he sneaks off alone for a substantial supper.
 
 He observes at one point, with no sense of irony, that hop kilns ‘recurring at frequent intervals as one travels through the county of Kent, are striking and picturesque additions to the landscape, and as our guide book described them very fully I was able to talk a good deal about them.' [^ref4] By the end of the holiday he has learned little about the scenery - or about himself - but looks forward to sharing his written account of his travels with his friends and neighbours.
 
+**Article written by:**
 
 ### Bibliography
 
