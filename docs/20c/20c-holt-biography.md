@@ -1,18 +1,18 @@
 ## Victoria Holt, a pseudonym of Eleanor Hibbert 
 
-**Born** 1.9.1906. 
-**Died** 19.1.1993. 
+**Born** 1.9.1906.  
+**Died** 19.1.1993.  
 
-**Occupation / significance** Prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense. 
+**Occupation** Prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense. 
 
-Publication of The _Shivering Sands_, set near the Goodwin Sands, 1969. 
+**Publication** _The Shivering Sands_, set near the Goodwin Sands, 1969. 
 
 **Place** Stayed in Deal late 1960s. Purchased and restored a house in Sandwich, known as The King’s Lodging, in the 1970s. 
 
 Brief excerpt from publication ‘”the sand moves as you watch and forms itself into strange shapes, like monsters some of them . . . with claws . . . waiting to catch anyone who wandered there and pull them down. There were gulls circling overhead. Their cries were so mournful, Mrs Verlaine. Oh, it was frightening, so lonely, so desolate. They say the sands are haunted. I’ve talked to one of the men from the North Goodwins Lightship and he says that when he’s on watch he sometimes hears wild heart-rending cries from the sands. They used to say it was the gulls, but he wasn’t so sure. Terrible things have happened there”’. 
 
 
-![Illustration title “The Goodwin Sands” Heroes of the Goodwin Sands by Thomas Stanley Treanor, 1904.](http://www.gutenberg.org/files/24685/24685-h/24685-h.htm#img-019){: .left .dropshadow}
+![“The Goodwin Sands” - Heroes of the Goodwin Sands by Thomas Stanley Treanor, 1904.](http://www.gutenberg.org/files/24685/24685-h/24685-h.htm#img-019){: .left .dropshadow}
 
 **Keywords** Kent as a fictional setting, Goodwin Sands, Folkestone, local history. 
 
