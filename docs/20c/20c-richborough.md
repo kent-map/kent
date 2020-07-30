@@ -8,6 +8,6 @@ This infrastructure supported the newly constructed barge building work, includi
 
 Built in secret, the port was demolished in 1919 and, despite attempts at a commercial revival in the 1920s, the silt problem defeated all comers, and there remain just a few reminders of what was once a vital part of the war effort in 1918.
 
-**Article written by:**
+**Article written by:** Dr Martin Watts
 
 
