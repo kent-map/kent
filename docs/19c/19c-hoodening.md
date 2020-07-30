@@ -2,7 +2,7 @@
 
 ## The Hooden Horse: an East Kent tradition.
 
-**Place:** mainly around the Thanet, Dealand Canterbury areas
+**Place:** mainly around the Thanet, Deal and Canterbury areas
 
 **Key dates:** 
 
