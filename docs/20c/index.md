@@ -19,4 +19,5 @@
 
 ### Places
 
+[Folkeston and World War One](20c-folkestone)   
 [Richborough: The Secret Port](20c-richborough)
