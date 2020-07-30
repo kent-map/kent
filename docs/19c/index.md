@@ -7,7 +7,7 @@
 
 <param ve-config title="19th Century Kent">
 
-### Persons
+### People
 
 [William Harrison Ainsworth](19c-ainsworth.biography)  
 [Jane Austen](19c-austen-biography)  
@@ -29,3 +29,7 @@
 [Chatham Dockyard](19c-chatham-dockyard)  
 [Folkestone](19c-folkestone)   
 [Folkestone Free Library](19c-folkestone-free-library)  
+
+### Traditions
+
+[Hoodening](19c-hoodening)
