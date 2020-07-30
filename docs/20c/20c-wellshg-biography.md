@@ -1,3 +1,5 @@
+<param ve-config style="article">
+
 ## Herbert George Wells (H.G Wells) (1866-1946)
 
 **Publications of Interest:** _The Sea Lady_ (1902), _Kipps_ (1905) and _The History of Mr. Polly_ (1910)
