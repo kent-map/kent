@@ -7,5 +7,5 @@
 
 <param ve-config title="18th Century Kent">
 
-[The Bloody Code](18c-bloody-code)
+[The Bloody Code](18c-bloody-code)   
 [The Kentish Gazette](18c-kentish-gazette)
