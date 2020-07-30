@@ -16,9 +16,10 @@ On 1st July 1851, the _Gazette_ came under the proprietorship of Henry Ward, who
 
 In 1944, the Luftwaffe bombed Canterbury and destroyed the offices of the _Kentish Gazette_, although publication continued, and the next issue even contained a report on the bombing. In 1980, the _Gazette_ joined the Kent Media Group and still publishes today, winning ‘Newspaper of the Year’ in the 2019 Kent Press and Broadcast Awards.
 
-Bibliography:
-Hannah Barker, _Newspapers, Politics and English Society 1695-1855_ (Essex: Pearson, 2000).
+**Article written by:**
 
+### Bibliography:
+Hannah Barker, _Newspapers, Politics and English Society 1695-1855_ (Essex: Pearson, 2000).   
 ‘History’, _KM Media Group_ <https://www.kmmediagroup.co.uk/history/> [Accessed: 25/06/2020].   
 James Simmons, ‘To The Inhabitants of the County of Kent and City of Canterbury’, Kentish Gazette, Saturday 28 May 1768, p.1  <https://www.britishnewspaperarchive.co.uk/viewer/BL/0000234/17680528/001/0001> [Accessed 25/06/2020].
 ‘Kentish Gazette’, _British Newspaper Archive_ <https://www.britishnewspaperarchive.co.uk/titles/kentish-gazette> [Accessed: 18/05/2020].   
@@ -28,5 +29,4 @@ Machado, Tina, ‘Kentish Gazette’, _Historic Canterbury_ (2007) <www.historic
 Mitchell, Charles, _The Newspaper Press Directory_ (London: Charles Mitchell, 1847)   
 _Northampton Mercury_, Saturday 29th October 1831, p.4 <https://www.britishnewspaperarchive.co.uk/viewer/BL/0000317/18311029/025/0004> [Accessed: 30/12/2019].   
 _Waterloo Directory of English Newspapers and Periodicals_ <http://www.victorianperiodicals.com/series3/index.asp> [Accessed: 30/12/2019]   
-Image(s) with location and copyright status
-I have access to the British Newspaper Archive, and can contact them to ask about permission to use a screenshot of an iss
+
