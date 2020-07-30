@@ -1,15 +1,10 @@
-https://vimeo.com/408562819/78b21d952c
+<param ve-config style="article">
 
-
-# The Hooden Horse: an East Kent tradition.
+## The Hooden Horse: an East Kent tradition.
 
 **Place:** mainly around the Thanet, Dealand Canterbury areas
 
 
-
-<p align="center">
-  <img src="images/jacqueline.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">The author with a horse</span> 
 
 The author with East Kent Morris’s Hooden Horse, named Invicta after the county’s emblem and motto.
 Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.
@@ -21,6 +16,8 @@ Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.
 1859: a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right for ever afterwards”.[^ref1]
 
 Hop Hoodening Festival, to bless the hop harvest; second Saturday of September each year since 1957.
+
+![The author with East Kent Morris’s Hooden Horse, named Invicta after the county’s emblem and motto. Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.](images/jacqueline.jpg){: .right .dropshadow}
 
 [Broadstairs](broadstairs-19th-century) Folk Week: first full week of August each year since 1965.
 
@@ -53,6 +50,8 @@ The earlier history of the Hooden Horse is a matter of conjecture. It could deri
 <p align="center">
   <img src="images/Hoodenhorse.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">'©Carolyn Oulton</span> 
+  
+**Article written by:** Jacqui Stamp
 
 ### Bibliography
 
@@ -65,6 +64,8 @@ Frampton, G., 2018. _Discordant Comicals; the Hooden Horse of East Kent, St Nich
 Maylam, P., 1909. _The Hooden Horse, an East Kent Christmas Custom._  Canterbury: Cross and Jackman.
 
 Maylam, R., Lynn, M. & Doel, G., 2009. _Percy Maylam’s The Kent Hooden Horse_. Stroud: The History Press.
+
+https://vimeo.com/408562819/78b21d952c
 
 ### Notes
 
