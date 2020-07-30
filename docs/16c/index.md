@@ -9,4 +9,4 @@
 
 ### Persons
 
-[William Harrison Ainsworth](19c-ainsworth.biography)  
+[Arden of Faversham](16c-arden.biography)  
