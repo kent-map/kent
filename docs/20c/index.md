@@ -7,6 +7,8 @@
 
 <param ve-config title="20th Century Kent">
 
+### Persons
+
 [T.S. Eliot](20c-eliot-biography)   
 [Victoria Holt](20c-holt-biography)   
 [Somerset Maugham](20c-maugham-biography)  
@@ -14,3 +16,7 @@
 [Gladys Waterer](20c-waterer-biography)   
 [H.G. Wells](20c-wellshg-biography)   
 [Pamela Wynne](20c-wynne-biography)   
+
+### Places
+
+[Richborough: The Secret Port](20c-richborough)
