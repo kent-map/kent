@@ -1,3 +1,4 @@
+
 ## Arden of Faversham (Author unknown) 
 
 On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn. The 1570s saw the rise in popularity of true crime narratives in print, and in c. 1590 the Arden murder was turned into a play. Complaintandlamentation.jpg Image of the night of Arden’s murder – taken from The Complaint and Lamentation of Mistresse of Feversham in Kent, 1663.[^ref1]
