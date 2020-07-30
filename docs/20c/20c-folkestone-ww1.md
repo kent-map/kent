@@ -6,8 +6,9 @@ The town’s garrison at Shorncliffe was immediately sent to France as part of t
 
 The people of Folkestone were not immune to the horrors of war in a more direct sense. The town was bombed by German Zeppelins and aircraft on several occasions, the most notable of which, known as the Tontine Street bombing, took place on the 25th May 1917. Over 70 lives were lost and over a hundred injured during this raid. These figures, each involving a personal tragedy, seem insignificant when compared to the bombing of the Second World War, but this was Folkestone’s introduction to total war.
 
-IMAGE: WHITE FEATHER PLAY
-Caption: ‘[First of the Feathers: Soldiers and Suffragettes]( https://www.youtube.com/watch?v=461nK7mazNo). Script by Leah Hockley. Performed by Georgie Oulton and boys from the Harvey Grammar School, Folkestone.’
+![White Feathers Play](images/White Feather play.jpg){: .right .dropshadow}
+
+[First of the Feathers: Soldiers and Suffragettes]( https://www.youtube.com/watch?v=461nK7mazNo) Script by Leah Hockley. Performed by Georgie Oulton and boys from the Harvey Grammar School, Folkestone.’
 
 The sight of able bodied young men, of military age, perambulating along the Leas in August 1914, rather then volunteering to fight in the Army, so enraged a retired Admiral that he decided to do something about it. Admiral Charles Fitzgerald , a Folkestone resident, deputed 30 local women to approach these ‘slackers’ to remind them of their patriotic duty and to present them with an emblem of cowardice – a white feather. Fitzgerald evidently reckoned a man would be more fearful of public humiliation by a woman, than by facing the German army. The white feather scheme spread across the United Kingdom, at a time when all enlistment was on a voluntary basis. The government gave the scheme its tacit report, but enthusiasm faded when the scale of casualties on the western front became apparent and conscription was introduced in 1916.
 
