@@ -1,4 +1,4 @@
-# 20C: Folkestone and World War 1
+# Folkestone and World War 1
 
 We could ask Folkestone Museum if we can use their Belgian picture of the boat arriving?
 
