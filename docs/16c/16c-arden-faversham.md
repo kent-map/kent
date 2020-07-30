@@ -1,3 +1,4 @@
+<param ve-config style="article">
 
 ## Arden of Faversham (Author unknown) 
 
