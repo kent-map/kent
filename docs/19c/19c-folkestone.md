@@ -2,7 +2,7 @@
 
 ## Folkestone
 
-![The Lees [sic] on a windy day.' Folkestone October 1888. Private collection.](images/leasonawindyday.jpg){: .left}
+![The Lees [sic] on a windy day.' Folkestone October 1888. Private collection.](images/leasonawindyday.jpg){: .right}
 
 As one 19th century wag observed, Folkestone is a near anagram of ‘Kent Fools’, a joke not lost on the unknown author (believed to be from [Dover](/dickens/19c-dover)) of [_The Folkestone Fiery Serpent._](https://books.google.co.uk/books?id=yiotAAAAYAAJ&pg=PP5&lpg=PP5&dq=folkestone+fiery+serpent+first+published&source=bl&ots=FC3-gil3xI&sig=NR_HmDFGyrVpUf5psT-vvLgvK8k&hl=en&sa=X&ved=0CCEQ6AEwAGoVChMI9I2TlPmmxwIVsgjbCh146QCT#v=onepage&q=folkestone%20fiery%20serpent%20first%20published&f=false')  While the townspeople in this comic poem are unable to tell the difference between a dragon and a peacock, their real life counterparts were more astute in their promotion of the town.
 
