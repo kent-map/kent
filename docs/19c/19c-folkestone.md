@@ -1,6 +1,6 @@
 <param ve-config style="article">
 
-# Folkestone
+## Folkestone
 
 ![The Lees [sic] on a windy day.' Folkestone October 1888. Private collection.](images/leasonawindyday.jpg){: .left}
 
