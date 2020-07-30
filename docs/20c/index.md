@@ -19,5 +19,5 @@
 
 ### Places
 
-[Folkestone and World War One](20c-folkestone)   
+[Folkestone and World War One](20c-folkestone-ww1)   
 [Richborough: The Secret Port](20c-richborough)
