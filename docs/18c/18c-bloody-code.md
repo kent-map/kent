@@ -11,6 +11,8 @@ Whilst the reasons behind the increase in laws carrying the death penalty are a 
 
 The criminal law was reformed and the Bloody Code abolished by the 1830s, following the work of the English lawyer and social reformer Sir Samuel Romilly. Romilly was an anti-slavery supporter of Wilberforce, and devoted his time as an MP to removing capital punishment for petty offences.
 
+### Article by Martin Watts
+
 ### Bibliography
 
 Emsley, Clive, _Crime and society in England 1750-1900_  4th Ed. Harlow: Pearson, 2010.
