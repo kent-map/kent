@@ -5,10 +5,7 @@
 On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn. The 1570s saw the rise in popularity of true crime narratives in print, and in c. 1590 the Arden murder was turned into a play. Complaintandlamentation.jpg Image of the night of Arden’s murder – taken from The Complaint and Lamentation of Mistresse of Feversham in Kent, 1663.[^ref1]
 ### Article
 
-
-<div align="center" style="float:right; margin: 64px 0 6px 24px;">
-  <img src="images/Ardenplaque.jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;"><p style="padding-top:12px; font-size:0.9em;"><b>Arden Plaque</b></p>
-</div>
+![Arden Plaque](images/Ardenplaque.jpg){: .right .dropshadow}
 
 Arden of Faversham follows the affair of Alice Arden and Mosby, one which her husband is grieved by, but knows not how to prevent, even inviting Mosby into his home believing it would end neighbourly suspicion. Alice’s thoughts turn to murder; however, she is not the only one seeking Arden’s demise. Mosby acquires poison from a local painter in return for his sister’s hand in marriage, however Alice’s cooking efforts fail to kill Arden, and her subsequent chance encounter with Greene who Arden has stripped of land, results in a murderous arrangement. 
 
