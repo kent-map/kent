@@ -7,7 +7,7 @@
 
 <param ve-config title="19th Century Kent">
 
-## Persons
+### Persons
 
 [William Harrison Ainsworth](19c-ainsworth.biography)  
 [Jane Austen](19c-austen-biography)  
@@ -24,7 +24,7 @@
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
 [Margaret Emily Shore](19c-shore.biography)  
 
-## Places
+### Places
 
 [Chatham Dockyard](19c-chatham-dockyard)  
 [Folkestone Free Library](19c-folkestone-free-library)  
