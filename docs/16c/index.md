@@ -9,4 +9,4 @@
 
 ### Persons
 
-[Arden of Faversham](16c-arden.biography)  
+[Arden of Faversham](16c-arden-faversham)  
