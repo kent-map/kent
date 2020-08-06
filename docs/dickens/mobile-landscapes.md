@@ -148,7 +148,7 @@ We were forced to question his decision when – having assumed we would find th
 Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [Restoration House](great-expectations-restoration-house). http://www.literatureproject.com/great-expectations/great_8.htm
 <param ve-image primary url="images/RestorationHouse.JPG" title="Restoration House " fit="cover">
 
->‘He calls the knaves, Jacks, this boy!’ 
+>‘He calls the knaves, Jacks, this boy!’  
 A child on the opposite bench clearly didn’t care what he called them and went on playing with a convenient oak leaf.
 'And what coarse hands he has! And what thick boots!’ 
 Pip detected guiltily looking at his feet. Distracted glance in our direction from mother of still indifferent child. Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
