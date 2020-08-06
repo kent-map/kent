@@ -149,8 +149,8 @@ Renewed and revitalised by this act of kindness, we were ready to infringe some 
 <param ve-image primary url="images/RestorationHouse.JPG" title="Restoration House " fit="cover">
 
 >‘He calls the knaves, Jacks, this boy!’  
-A child on the opposite bench clearly didn’t care what he called them and went on playing with a convenient oak leaf.
-'And what coarse hands he has! And what thick boots!’ 
+A child on the opposite bench clearly didn’t care what he called them and went on playing with a convenient oak leaf.  
+'And what coarse hands he has! And what thick boots!’  
 Pip detected guiltily looking at his feet. Distracted glance in our direction from mother of still indifferent child. Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
 
 It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella in the very [Guildhall](great-expectations-guildhall) (now a [museum](https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/) ) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
