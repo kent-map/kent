@@ -44,7 +44,7 @@ What follows is our attempt to capture something of this experience, one autobio
 ### David Copperfield
 
 What we are calling [David Copperfield: a curated walk](david-copperfield-curated-walk) is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been Dickens's idea of a good time. It had never been ours. So we took the softer option and began in [Broadstairs.](broadstairs)
-<param ve-image primary url="images/Broadstairs.jpg" title="Broadstairs">
+<param ve-image primary url="images/Broadstairs.jpg" title="Broadstairs" attribution="">
 
 We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [Fort House](dickens-fort-house), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like [Aunt Betsey’s cottage](david-copperfield-nuckells-place)  (it’s meant to be in [Dover](dickens-dover), but who’s counting?) - but why a later owner reinvented [Fort House](dickens-fort-house) as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
 <param ve-image primary url="images/Postcard of Bleak House 1909.jpg" title="Postcard of Bleak House 1909" attribution="">
