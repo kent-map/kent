@@ -27,6 +27,6 @@
 
 <img class="thumb" src="images/Chatham%20Dockyard.jpg">
 <p class="clearfix">
-**[Places associated with Dickens](dickens-biography)** Find out where Dickens visited and how he was influenced by Kent and its beautiful coast, towns and countryside.
+**[Finding Dickens Land](dickens-biography)** From Rochester to Broadstairs on the East coast – wherever you go you can be fairly certain that Dickens has been there before you. But much like Aunt Betsey’s donkeys, he can be elusive.
 </p>
 
