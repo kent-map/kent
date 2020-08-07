@@ -26,4 +26,4 @@ While in [Dover](19c-dover), the heroine works in Snargate Street, subsequently 
 
 ### Bibiliography
 
-https://ainsworthandfriends.wordpress.com/2013/02/13/the-man-who-wasnt-dickens/
+[Ainsworth and Friends Blog](https://ainsworthandfriends.wordpress.com/2013/02/13/the-man-who-wasnt-dickens/)
