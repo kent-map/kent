@@ -25,4 +25,8 @@
 **[David Copperfield: a Curated Walk](david-copperfield-curated-walk)** takes David through Kent and down the Dover Road to find answers to some vital questions. How do others see us? What does it mean to be in love? Where is home? It may not be obvious at first, but places can move around here, so you must be careful not to get lost.
 </p>
 
-[Places associated with Dickens](/dickens-places)
+<img class="thumb" src="images/Broadstairs.jpg">
+<p class="clearfix">
+**[Places associate with Dickens](/dickens-places)** takes David through Kent and down the Dover Road to find answers to some vital questions. How do others see us? What does it mean to be in love? Where is home? It may not be obvious at first, but places can move around here, so you must be careful not to get lost.
+</p>
+
