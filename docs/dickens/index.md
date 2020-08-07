@@ -27,6 +27,6 @@
 
 <img class="thumb" src="images/Chatham%20Dockyard.jpg">
 <p class="clearfix">
-**[Places associated with Dickens](/dickens-places)** Find out where Dickens visited and how he was influenced by Kent and its beautiful coast, towns and countryside.
+**[Places associated with Dickens](/dickens-biography)** Find out where Dickens visited and how he was influenced by Kent and its beautiful coast, towns and countryside.
 </p>
 
