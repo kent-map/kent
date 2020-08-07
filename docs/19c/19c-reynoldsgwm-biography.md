@@ -1,7 +1,5 @@
 <param ve-config style="article">
 
-https://ainsworthandfriends.wordpress.com/2013/02/13/the-man-who-wasnt-dickens/
-
 ## G. W. M. Reynolds (23 July 1814 – 19 June 1879) 
 
 ![Mary Price on Dover Beach](images/Mary Price on Dover Beach.jpg){: .right .dropshadow}
@@ -18,8 +16,14 @@ Prolific and popular early Victorian novelist, who is forgotten nowadays but in 
 
 ### Article
 
-Reynolds’s novel _Mary Price_ (1851–53) is a tale of two cities which takes its heroine once to Paris and more than once to London; but, just as Reynolds resets the novel’s timeframe to the years between 1826 (when the heroine is eleven) and 1835 (when she is a new bride), so he shifts its geographical centre of gravity to the area between Ashford and [Deal]. Mary Price herself repeatedly gravitates back to Kent, with the help at one point of the famous “Tally Ho” Canterbury coach which left from Gracechurch Street in London. Key scenes unfold in various inns and alehouses lost to us because long since reduced to rubble—the Saracen’s Head in Ashford, the Fountain and the Rose in Canterbury, Wright’s Hotel in [Dover](19c-dover) — and on Dover’s Shakespeare Cliff. While in [Dover](19c-dover), the heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala: [_The Streets of the World_](https://search.proquest.com/britishperiodicals/docview/6520718/fulltextPDF/88A85DA9A4A94A39PQ/3?accountid=9869) The action extends to Walmer and to Herne Bay, where Reynolds was soon to settle. At Hampton-on-Sea it takes in “a singular little colony of fishing people … [who] intermarry amongst themselves, and thus exist in a state of complete isolation, and almost inaccessible to every civilizing influence.”  Between [Sandwich] and [Deal] Mary Price passes with a shudder a stone marking the spot where on 25th August 1782 “Mary Rix, spinster, Aged 23 years, was murdered by Martin Lash, a foreigner, Who was executed for the same.” Reynolds here transfers to his heroine a grim observation of Baker Peter Smith’s (“A Journal of an Excursion Round the South-eastern Coast of England“ [London: Gilbert & Rivington, 1834], 64-65). The Kent of _Mary Price_ is not the Kent of _The Pickwick Papers_, a place for cricket and Christmas; it is equally a place for cruelty and crime.
+Reynolds’s novel _Mary Price_ (1851–53) is a tale of two cities which takes its heroine once to Paris and more than once to London; but, just as Reynolds resets the novel’s timeframe to the years between 1826 (when the heroine is eleven) and 1835 (when she is a new bride), so he shifts its geographical centre of gravity to the area between Ashford and [Deal]. Mary Price herself repeatedly gravitates back to Kent, with the help at one point of the famous “Tally Ho” Canterbury coach which left from Gracechurch Street in London. Key scenes unfold in various inns and alehouses lost to us because long since reduced to rubble—the Saracen’s Head in Ashford, the Fountain and the Rose in Canterbury, Wright’s Hotel in [Dover](19c-dover) — and on Dover’s Shakespeare Cliff. 
 
-![Joseph Mallord William Turner, ‘Dover ’, c.1825, Tate (D18154), digital image © Tate released under Creative Commons CC-BY-NC-ND (3.0 Unported)](/dickens/images/TurnerDoverD18185410.jpg){}
+![Joseph Mallord William Turner, ‘Dover ’, c.1825, Tate (D18154), digital image © Tate released under Creative Commons CC-BY-NC-ND (3.0 Unported)](/dickens/images/TurnerDoverD18185410.jpg){: .left .dropshadow}
+
+While in [Dover](19c-dover), the heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala: [_The Streets of the World_](https://search.proquest.com/britishperiodicals/docview/6520718/fulltextPDF/88A85DA9A4A94A39PQ/3?accountid=9869) The action extends to Walmer and to Herne Bay, where Reynolds was soon to settle. At Hampton-on-Sea it takes in “a singular little colony of fishing people … [who] intermarry amongst themselves, and thus exist in a state of complete isolation, and almost inaccessible to every civilizing influence.”  Between [Sandwich] and [Deal] Mary Price passes with a shudder a stone marking the spot where on 25th August 1782 “Mary Rix, spinster, Aged 23 years, was murdered by Martin Lash, a foreigner, Who was executed for the same.” Reynolds here transfers to his heroine a grim observation of Baker Peter Smith’s (“A Journal of an Excursion Round the South-eastern Coast of England“ [London: Gilbert & Rivington, 1834], 64-65). The Kent of _Mary Price_ is not the Kent of _The Pickwick Papers_, a place for cricket and Christmas; it is equally a place for cruelty and crime.
 
 **Article written by:** Peter Merchant
+
+## Bibiliography
+
+https://ainsworthandfriends.wordpress.com/2013/02/13/the-man-who-wasnt-dickens/
