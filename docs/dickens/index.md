@@ -27,6 +27,6 @@
 
 <img class="thumb" src="images/Chatham%20Dockyard.jpg">
 <p class="clearfix">
-**[Places associated with Dickens](/dickens-places)** takes David through Kent and down the Dover Road to find answers to some vital questions. How do others see us? What does it mean to be in love? Where is home? It may not be obvious at first, but places can move around here, so you must be careful not to get lost.
+**[Places associated with Dickens](/dickens-places)** Find out where Dickens visited and how he was influenced by Kent and its beautiful coast, towns and countryside.
 </p>
 
