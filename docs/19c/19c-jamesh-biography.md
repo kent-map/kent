@@ -16,5 +16,5 @@ James could hardly help seeing a good deal of Mrs Gracedew in William Waldorf As
 
 
 ### Bibliography 
-Ditchfield, P. H. and George Clinch. _Memorials of Old Kent._ London: Bemrose, 1907. 
+Ditchfield, P. H. and George Clinch. _Memorials of Old Kent._ London: Bemrose, 1907.   
 Thompson, Stephen. _Old English Homes: A Summer’s Sketch-Book._ London: Sampson Low, Marston, Low and Searle, 1876.
