@@ -4,10 +4,10 @@ Published in monthly instalments, March 1836-November 1837. Published in one vol
 
 **Places:** Rochester, Stroud, Chatham, Brompton, ‘Dingley Dell’.
 
-‘“Ah! fine place,” said the stranger, “glorious pile—frowning walls—tottering arches—dark nooks—crumbling staircases—Old cathedral too—earthy smell—pilgrims feet wore away the old steps—little Saxon doors—confessionals like money-takers’ boxes at theatres—queer customers those monks—Popes, and Lord Treasurers, and all sorts of old fellows, with great red faces, and broken noses, turning up every day—buff jerkins too—matchlocks—Sarcophagus—fine place—old legends too—strange stories: capital;” 
+>‘“Ah! fine place,” said the stranger, “glorious pile—frowning walls—tottering arches—dark nooks—crumbling staircases—Old cathedral too—earthy smell—pilgrims feet wore away the old steps—little Saxon doors—confessionals like money-takers’ boxes at theatres—queer customers those monks—Popes, and Lord Treasurers, and all sorts of old fellows, with great red faces, and broken noses, turning up every day—buff jerkins too—matchlocks—Sarcophagus—fine place—old legends too—strange stories: capital;” 
 Alfred Jingle describing Rochester Bridge, and Rochester Cathedral. 
 
-Charles Dickens’s first serial novel, _The Pickwick Papers_ is preoccupied with Kentish geographies almost as much as it is with scenes of London life. From Mr Wardle’s idyllic ‘Manor Farm’ in Dingley Dell to hastily scribbled notes on Stroud, Rochester, [Chatham]( dickens-chatham), and Brompton recovered from Mr Pickwick’s notebook, Kentish scenes have a place at the very heart of the serial.
+Charles Dickens’s first serial novel, _The Pickwick Papers_ is preoccupied with Kentish geographies almost as much as it is with scenes of London life. From Mr Wardle’s idyllic ‘Manor Farm’ in Dingley Dell to hastily scribbled notes on Stroud, Rochester, [Chatham](dickens-chatham), and Brompton recovered from Mr Pickwick’s notebook, Kentish scenes have a place at the very heart of the serial.
 
 Whilst [Dickens’s](dickens-biography) attachment to [Gad’s Hill Place](dickens-gads-hill) would result in many unequivocally fond representations of Kent in his later career, in _Pickwick_ his engagement with Kentish geographies, inhabitants and stereotypes is more variable. Both Dickens and his characters alternate between a genuine if snobbish admiration of Kent’s picturesque history and a savage satire of its inhabitants.
 
@@ -24,7 +24,7 @@ Bassett, Troy J., ‘Charles Dickens.’ _At the Circulating Library_, 2019, htt
 Dickens, Charles. _The Pickwick Papers_. Oxford World’s Classics, 2008.
 ‘The Posthumous Papers of the Pickwick Club: Chapman and Hall, London.’ Kentish Gazette, 7th June 1836, https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/18360607/005/0003. Accessed 14 August. 2019.
 
-Image(s) with location and copyright status
+Images with location and copyright status
 •	‘The Monthly Wrapper’ by Robert Seymour: http://www.victorianweb.org/art/illustration/seymour/ppwrapper.html
 •	‘Mr Pickwick in Chase of his Hat’ by Robert Seymour: http://www.victorianweb.org/art/illustration/seymour/6.html
 Image taken from the _Victorian Web_. Permission to reproduce under the following conditions:
