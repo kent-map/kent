@@ -13,7 +13,7 @@ In 1832, in order to escape the cholera epidemic in London, Mary Shelley moved t
 
 In 1830, a couple of years before relocating to Kent, Shelley published _The Fortunes of Perkin Warbeck_. The novel follows the story of Perkin Warbeck, historically viewed as a pretender set on claiming the throne. However, the novel follows the consensus that he was in fact the Duke of York, Prince Richard. The novel tells of the adventures and tribulations of Richard, but also focuses closely on the female characters. In volume II chapter nine Shelley describes in detail the importance of Canterbury and Hythe’s position and pays particular attention to the beauty of Hythe and its surrounding areas. She also looks at the social position of Hythe and its residents highlighting that “the people of Hythe, fishers, or such poor traders as supplied the fishermen with a few coarse necessaries, were rouzed from the usual monotony of their lives by the aspect of this fleet.”   She captures the importance of the south coast, whilst also drawing attention to its residence and landscapes. 
 
-**Article written by:**
+**Article written by:** Simone Blandford
 
 ### Bibliography 
 
