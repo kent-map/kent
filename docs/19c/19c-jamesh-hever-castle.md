@@ -2,7 +2,8 @@
 
 **Hever Castle** 1895-1907
 
-![Hever Castle from the Moat - circa 1850 - David Cox Jr. / Public domain](images/697px-Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg){: .right .dropshadow}
+![Hever Castle from the Moat - circa 1850 - David Cox Jr. / Public domain](images/697px-Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg){: .right .dropshadow}  
+
 
 
 By which famous Henry was Hever Castle put on the map?
