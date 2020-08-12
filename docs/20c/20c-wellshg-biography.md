@@ -6,13 +6,12 @@
 
 **Places:** Sandgate, Folkestone, Aldington, Ramsgate, Canterbury
 
-![Spade House - by permission of Alan Taylor, Folkestone Local History Society](images/Spade House.jpg){: .left .dropshadow}
-
 >“This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” 
 _Kipps_
 
 When Wells’ doctor Henry Hick suggested he move to the South-East coast of England a new chapter in his literary life began. Wells and his wife Jane stayed at The Swan in Hythe and The Homestead in Sandgate for a short period before renting Beach Cottage on the coast of Sandgate. In March 1899 Wells and Jane moved to Arnold House (also on the Sandgate coast), whilst their new home was being built. Both Beach Cottage (now known as Granville Cottage) and Arnold House (now known as 20 Castle Road) have plaques to commemorate Wells. Wells and Jane moved into the completed Spade House (now Wells House Nursing Home) in December 1900. 
 
+![Spade House - by permission of Alan Taylor, Folkestone Local History Society](images/Spade House.jpg){: .right .dropshadow}
 
 Wells had many connections to authors who spent time in and wrote about Kent. Around 1898 Joseph Conrad moved near Hythe and the two authors became acquainted. In 1901 T.S Eliot wrote a review for Wells’ novel _The First Men in the Moon_. Wells also dined, in March 1902, with Winston Churchill. But perhaps his most influential connection was to the illegitimate daughter of the late J.F Nisbet. Wells offered to fund her schooling and during a trip to the family home in Sandgate she became the inspiration behind _The Sea Lady_.    
 
