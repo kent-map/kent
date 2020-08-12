@@ -13,7 +13,7 @@ Whilst [Dickens’s](dickens-biography) attachment to [Gad’s Hill Place](dicke
 
 The first mention of Kent appears in Chapter 2, as the Pickwickians approach Rochester Bridge. Alfred Jingle, the narrative’s profligate wanderer, delivers a potted history of the bridge and other nearby landmarks (quoted above) in fragmented adjective phrases which rain upon the reader like cannon fire. Jingle’s description conjures an image of Kentish architecture as a palimpsest, with its feudal echoes continuing to shape and resonate in the nineteenth-century landscape. This depiction is later supplemented with flatteringly vivid description of Rochester Castle, and the cornfields, pastures and windmills situated on the banks of the Medway, with its ‘picturesque boats’.  Tracey Tupman will briefly take refuge in [The Leather Bottle](pickwick-papers-leather-bottle) in Cobham after being jilted by Rachel Wardle.
 
-![Pickwick Papers/ Scanned image and text by Philip V. Allingham](images/pickwick-papers-victorian-web.jpg){: .right .dropshadow}
+![Pickwick Papers/ Scanned image and text by Philip V. Allingham](images/pickwick-papers-victorian-web.jpg){: .right .dropshadow}  
 
 Interspersing these scenic impressions are some more practical musings. With an emotional disengagement that contrasts sharply with his revelling in Kentish scenery, Mr Pickwick describes to his companions the ‘principle productions’, of the Kentish towns they visit, which ‘appear to be soldiers, sailors, Jews, chalk, shrimps, officers, and dockyard men’ . Through the superior eye of the metropolitan gentleman, Kent and its inhabitants are reduced to a list of commodities.
 
@@ -22,9 +22,9 @@ Perhaps most scathing of all is [Dickens’s](dickens-biography) representation 
 The scathing caricature of the military and residents of Kent contrasts sharply with [Dickens’s](dickens-biography) descriptions of its scenery, which is perhaps why some local newspapers focussed on the latter when reviewing or reprinting extracts from the serial. For example, in 1836, the _Kentish Gazette_ delightedly writes that, ‘[t]o our general readers the Pickwick papers will be doubly acceptable, from the scenes being laid in Kent, where, intermingled with narrations of laughable adventures, are beautiful graphic descriptions of some of the magnificent remains of the feudal grandeur of the county’.
 
 ### Bibliography: 
-Bassett, Troy J., ‘Charles Dickens.’ _At the Circulating Library_, 2019, http://www.victorianresearch.org/atcl/index.php. Accessed 8 June. 2020.
-Dickens, Charles. _The Pickwick Papers_. Oxford World’s Classics, 2008.
-‘The Posthumous Papers of the Pickwick Club: Chapman and Hall, London.’ Kentish Gazette, 7th June 1836, https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/18360607/005/0003. Accessed 14 August. 2019.
+Bassett, Troy J., ‘Charles Dickens.’ _At the Circulating Library_, 2019, http://www.victorianresearch.org/atcl/index.php. Accessed 8 June. 2020.  
+Dickens, Charles. _The Pickwick Papers_. Oxford World’s Classics, 2008.  
+‘The Posthumous Papers of the Pickwick Club: Chapman and Hall, London.’ _Kentish Gazette_, 7th June 1836, https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/18360607/005/0003. Accessed 14 August. 2019.
 
 Images with location and copyright status
 •	‘The Monthly Wrapper’ by Robert Seymour: http://www.victorianweb.org/art/illustration/seymour/ppwrapper.html
