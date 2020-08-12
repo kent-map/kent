@@ -4,10 +4,7 @@
 
 >‘Belonging to the house, but unfortunately placed on the other side of the high road, was a shrubbery, well wooded though in desolate condition, in which stood two magnificent cedars; and having obtained, in 1859, the consent of the local authorities for the necessary underground work, Dickens constructed a passage beneath the road from his front lawn; and in the shrubbery thus rendered accessible, and which he then laid out very prettily, he placed afterwards a Swiss chalet presented to him by Mr Fechter, which arrived from Paris in ninety-four pieces fitting like the joints of a puzzle, but which proved to be somewhat costly in setting on its legs by means of a foundation of brickwork.’[^ref1] 
 
-<p align="center">
-  <img src="images/swiss chalet1.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">The Chalet at Gadshill Rochester, Kent Source: Forster, II, 153</span>
-</p>
+![The Chalet at Gadshill rochester, Kent Source: Forster II, 153](images/swiss chalet1.jpg){: .right .dropshadow}  
 
 
 Given to Dickens by his actor friend Charles Fechter for Christmas 1864, the two-storey wooden chalet was originally positioned at one end of an underground tunnel leading from [Gad's Hill](dickens-gads-hill) to a small field on the other side of the road outside the house. Dickens wrote the last words of _Edwin Drood_ here.
