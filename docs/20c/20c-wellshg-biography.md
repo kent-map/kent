@@ -6,7 +6,7 @@
 
 **Places:** Sandgate, Folkestone, Aldington, Ramsgate, Canterbury
 
-![Spade House](images/Spade House.jpg){: .left .dropshadow}
+![Spade House - by permission of Alan Taylor, Folkestone Local History Society](images/Spade House.jpg){: .left .dropshadow}
 
 “This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” 
 _Kipps_
@@ -22,7 +22,7 @@ In 1901 _The Sea Lady_ was published in _Pearson’s Magazine_ and then publishe
 
 During 1901 Wells embarked on a cycling tour of Kent, visiting Hill farm in Aldington to focus on his writing and then on to Ramsgate.  A few years later in 1904 Wells completed his novel _Kipps_ which was published in 1905. _Kipps_ , based mainly in Folkestone, is the rags-to-riches story of Kipps, a draper’s assistant (the inspiration arguably from Wells’ own experience as an apprentice at the family drapery ), who received a large, surprise inheritance. With his new-found wealth he is accepted into the higher classes of Folkestone but finds himself struggling to integrate. One scene shows Kipps desperately trying to educate himself in the [local library](/folkestone-free-library). This comic novel’s critics have claimed it has autobiographical moments and a sense of Wells’ own life.  
 
-![Spade House](images/Spade House 2 .jpg){: .left .dropshadow}
+![Spade House by permission of Alan Taylor, Folkestone Local History Society](images/Spade House 2 .jpg){: .left .dropshadow}
 
 In 1907 Wells’ became a Justice of the Peace for Folkestone,   received a visit from the author [Elizabeth von Armin](20c-vonarnim-biography) and a few years later, in 1910, published his novel The History of Mr. Polly. The History of Mr. Polly is the story of Alfred Polly, a shop keeper in the fictional town of Fishbourne in Kent, based on Sandgate.  It retells Mr. Polly’s history and, similar to Kipps, he begins as a draper’s assistant, hanging around with the Three Ps until he eventually receives an inheritance from his late father. After this he travels to Canterbury, has a short love affair which ends in heartbreak and settles on marrying Miriam (his first cousin) bringing the novel back into the present, revealing the reality of shop-owning life. Similar to _Kipps_  the novel feels somewhat autobiographical, a theme throughout Wells’ writing. Each of the novels Wells wrote while living in Sandgate gives its reader a small glimpse into the history of H.G Wells. 
 
