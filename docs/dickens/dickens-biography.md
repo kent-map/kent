@@ -1,3 +1,5 @@
+<param ve-config style="article">
+
 ## Charles Dickens
 **B(M)D**  Born 7.2.1812. Married Catherine Hogarth 1836. Died 9 June 1870.
 
