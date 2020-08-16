@@ -1,10 +1,9 @@
 <param ve-config style="article">
 
 ## Fort House (Bleak House)
+*Fort Road, Broadstairs*
 
 ![Bleak House -Fort House - as Dickens would have known it ©Elgate Postcards, Margate](images/Bleak House in the time of Dickens.JPG){: .right .dropshadow}
-
-*Fort Road, Broadstairs*
 
 **Event with dates** Holidays in 1837, 1840-43, 1845, 1847, 1849-51; parts of _David Copperfield_ written here.
 
@@ -25,9 +24,9 @@ The original name seems an obvious choice based on the striking appearance of th
 
 This creative confusion of different novels with the houses associated with Dickens is characteristic of the town’s history. In 1897 a precursor of the Dickens Festival saw Broadstairs transformed into a ‘Dickens Village’, complete with costumed figures and buildings such as Peggotty’s boat (from the Suffolk scenes of _David Copperfield_) and Defarge’s wine shop from _A Tale of Two Cities_ (Again, Paris is chosen over the [Dover Road](david-copperfield-dover-road) for representation). During the festival visitors were given a chance to make a tour of Bleak House. One journalist noted with amusement that ‘On one side of the panels of the nursery door is daubed a garish sprawling spray of apple-blossom. Above it is inscribed by a sacrilegious pencil, “Fillia de Carolus hoc tecit’(done by the daughter of Charles).[^ref2]
 
-**Article written by:** Professor Carolyn Oulton
+![Early 20C postcard of Bleak House (formerly Fort House)](images/Bleak_house_postcard.jpg){: .left .dropshadow}
 
-![Early 20C postcard of Bleak House (formerly Fort House)](images/Bleak_house_postcard.jpg){: .right .dropshadow}
+**Article written by:** Professor Carolyn Oulton
 
 ### Bibliography
 
