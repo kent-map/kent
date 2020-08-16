@@ -1,5 +1,6 @@
-# Ramsgate: Albion House 
+# Albion House, Ramsgate
 Links https://historicengland.org.uk/listing/the-list/list-entry/1085418 https://archive.historicengland.org.uk/SingleResult/Default.aspx?id=390346&t=Quick&l=all&cr=Albion+++ramsgate&io=False
+
 
 **Events:** 29 Sept 1835 – 11th Jan 1836
 
