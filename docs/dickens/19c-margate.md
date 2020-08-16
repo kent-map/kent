@@ -12,7 +12,7 @@ In the early 19th century visitors would have arrived by hoy boat, although this
 
 The light along this stretch of coast was famously applauded by the painter J. M. W. Turner, who painted a number of pictures in and of the town.
 
-Margate Sands railway station opened in 1846 and Margate West followed in 1863, although ironically the creation of more efficient transport links jeopardised the respectable status of the town as a [[seaside]] resort by making it accessible to a lower class of visitor. As early as 1837, when [Dickens](Dickens)’s Tuggs family come into money they refuse to visit the town on the grounds that there is ‘nobody there, but tradespeople.’  https://www.youtube.com/watch?v=74-HBaXX280 When [Dante and Christina Rossetti](Dante_Christina_Rossetti) visited Kent in 1882 in an abortive attempt to restore the former's health, they went not to Margate but to nearby Birchington.
+Margate Sands railway station opened in 1846 and Margate West followed in 1863, although ironically the creation of more efficient transport links jeopardised the respectable status of the town as a [seaside](19c-seaside) resort by making it accessible to a lower class of visitor. As early as 1837, when [Dickens](Dickens-biography)’s Tuggs family come into money they refuse to visit the town on the grounds that there is ‘nobody there, but tradespeople.’[^ref2] When [Dante and Christina Rossetti](Dante_Christina_Rossetti) visited Kent in 1882 in an abortive attempt to restore the former's health, they went not to Margate but to nearby Birchington.
 
 By the end of the century Margate itself had seemingly embraced its populist reputation. The establishment of ‘Lord’ George Sanger’s [Hall by the Sea](http://glorious-and-unknown.co.uk/margate-hall-by-the-sea/) (the origin of Dreamland) https://www.youtube.com/watch?v=461nK7mazNo in the disused Margate Sands railway station in 1874 signalled an investment in entertainment for the masses, at the very time that resorts such as [Folkestone](19c-folkestone) were insisting on their exclusivity and gentility. 
 
@@ -20,8 +20,8 @@ By the end of the century Margate itself had seemingly embraced its populist rep
 
 This ambivalence is brilliantly captured by 20th century author Pamela Wynne, when she sends a disdainful WW1 veteran to Margate to recover from shell shock. While the patient refers disparagingly to ‘a filthy place called Margate’  his valet remembers ‘all the trembling joy’ of his Victorian childhood holidays. ‘But as he stepped down onto the Margate platform he was majestic again. He had a position to keep up, and there would be a car to meet him.’[^ref2] 
 
-21st century visitors are still divided on the question 'Are the arts saving Margate?' <param ve-video id="wizsp07vs8sz" title="Are the arts saving Margate"></var>
-https://www.bbc.co.uk/programmes/p07vs8sz
+21st century visitors are still divided on the question ['Are the arts saving Margate?'](https://www.bbc.co.uk/programmes/p07vs8sz)<param ve-video id="wizsp07vs8sz" title="Are the arts saving Margate"></var>
+
 
 ### Bibliography
 
@@ -36,5 +36,6 @@ Wynne, Pamela. _Love in a Mist_. London: Philip Allen & Co., 1932.
 ### References
 
 [^ref1]: Jorrocks’s Jaunts and Jollities. 124.
-[^ref2]:  Love in a Mist. 101.
+[^ref2]: https://www.youtube.com/watch?v=74-HBaXX280  
+[^ref3]:  Love in a Mist. 101.
 
