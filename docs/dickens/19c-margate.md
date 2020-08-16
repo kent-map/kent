@@ -1,6 +1,6 @@
 <param ve-config style="article">
 
-## Margate in the ninetennth century
+## Margate in the nineteenth century
 
 ![A view at Margate - ©The British Library Board maps_k_top_17_4_d](images/AViewatMargatemaps_k_top_17_4_d.jpg){: .right .dropshadow}
 
