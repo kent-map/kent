@@ -1,4 +1,6 @@
-# Chatham 
+<param ve-config style="article">
+
+## Chatham 
 
 **Event:** 1816-1822 John Dickens based at [Chatham Dockyard](/19c-chatham-dockyard), working for the Naval Pay Office.
 
@@ -9,9 +11,6 @@ toy-like appearance, and the one red-coated sentry on duty over them was a mere 
   <img src="images/Chatham Dockyard.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Chatham Dock Yard, Kent" engraved by R.Roffe after a drawing by G.Shepherd, published in W.H.Ireland's The County of Kent, 1832. </span>
 </p>[Ancestry Images](https://www.ancestryimages.com/proddetail.php?prod=h4335)
-
-
-
 
 Charles Dickens’s Kent childhood, celebrated in both his journalism and his major fiction, was a direct result of his father’s move from Portsmouth to the [Chatham Dockyard](/19c-chatham-dockyard) in 1816. Visiting today it is impossible to recreate the sense of constant bustle and noise that would have pervaded the scene in Dickens’s time. But the layout of the buildings allows some sense of the docks as a micro-community, an exciting and at the same time familiar space for a child to explore in the aftermath of the Napoleonic Wars.
 
