@@ -29,5 +29,5 @@ Dickens, John. ‘Further Particulars.’ _The Times_. 4 Mar. 1820. ''The Times 
 
 
 ### Links
-https://lukemckernan.com/2020/06/08/day-dreams-and-bad-dreams/
+https://lukemckernan.com/2020/06/08/day-dreams-and-bad-dreams/   
 [Ancestry Images](https://www.ancestryimages.com/proddetail.php?prod=h4335)
