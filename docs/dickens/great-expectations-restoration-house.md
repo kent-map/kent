@@ -23,4 +23,4 @@ Looking for somewhere atmospheric to read the novel? Try [The Vines Gardens](htt
 ### Bibliography
 
 Dickens, Charles. _Great Expectations_. Oxford: Oxford World’s Classics, 1993.   
-[Victorian web](http://www.victorianweb.org/painting/haslehust/19.html)
+Restornation House - [Victorian web](http://www.victorianweb.org/painting/haslehust/19.html)
