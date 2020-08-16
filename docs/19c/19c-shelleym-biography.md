@@ -1,3 +1,5 @@
+<param ve-config style="article">
+
 ## Mary Wollstonecraft Shelley (1797-1851) 
 
 **Place:** Sandgate, Hythe, Canterbury 
