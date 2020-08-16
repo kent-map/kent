@@ -1,8 +1,10 @@
+<param ve-config style="article">
+
 ## Folkestone and World War 1
 
-![The Doorway of England](images/The Doorway of England A80069-72.jpg{: .right .dropshadow}
+![The Doorway of England -©The British Library Board. A80069-72 / Maps.C.1.a.9.(31) Images Online](images/The Doorway of England A80069-72.jpg{: .right .dropshadow}
 
-©The British Library Board. A80069-72 / Maps.C.1.a.9.(31) Images Online.
+
 
 The outbreak of war in August 1914 led to a transformation of this genteel resort. Folkestone, with its port and excellent rail and road links, became the main point of embarkation and return for the battlefields of France and Flanders. From August 1914 until the summer of 1919, nearly 10 million soldiers were safely transported across the English Channel. In addition, Folkestone witnessed the departure of over 1 million civilians to France, including large numbers of Red Cross nurses and other war workers. In the reverse direction, Folkestone received thousands of Belgian refugees who were provided with food and shelter before the majority were later dispersed around the country.
 
