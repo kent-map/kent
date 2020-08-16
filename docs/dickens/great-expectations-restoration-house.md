@@ -1,15 +1,10 @@
-# Restoration House
+<param ve-config style="article">
+
+## Restoration House (Satis House)
 
 >‘Within a quarter of an hour we came to Miss Havisham's house, which was of old brick, and dismal, and had a great many iron bars to it. Some of the windows had been walled up; of those that remained, all the lower were rustily barred. There was a court-yard in front, and that was barred; so, we had to wait, after ringing the bell, until some one should come to open it.’ _Great Expectations_ (1861).
 
-<p align="center">
-  <img src="images/RestorationHouseEWH.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">http://www.victorianweb.org/painting/haslehust/19.html
-Scanned image and text by Philip V. Allingham.</span>
-</p>
-
-
-
+![Restoration House - Scanned image and text by Philip V. Allingham, www.victorianweb.org](images/RestorationHouseEWH.JPG){: .right .dropshadow}
 
 As with [Fort House](/dickens-fort-house) in [Broadstairs](/dickens-broadstairs), Dickens's fiction bleeds across the real buildings of Rochester to create new associations. Satis House in Rochester both is and is not an ‘original’ for Miss Havisham’s forbidding domicile in _Great Expectations_, – because there really is a house by this name in the town, but it is not the Satis House of the novel. That distinction belongs to [Restoration House](https://www.restorationhouse.co.uk/the-house) in Crow Lane, just outside the city wall. Dickens’s appropriation of ‘Satis’ (enough) for the scene of Miss Havisham’s immolation, is deeply ironic. But certainly there is no promise of ‘restoration’ and indeed the house is last seen on the eve of its final demolition.
 
@@ -27,4 +22,5 @@ Looking for somewhere atmospheric to read the novel? Try [The Vines Gardens](htt
 
 ### Bibliography
 
-Dickens, Charles. _Great Expectations_. Oxford: Oxford World’s Classics, 1993.
+Dickens, Charles. _Great Expectations_. Oxford: Oxford World’s Classics, 1993.   
+[Victorian web](http://www.victorianweb.org/painting/haslehust/19.html)
