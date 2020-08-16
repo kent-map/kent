@@ -1,6 +1,6 @@
 <param ve-config style="article">
 
-## The Posthumous Papers of the Pickwick Club (_The Pickwick Papers_)  
+## The Posthumous Papers of the Pickwick Club - The Pickwick Papers  
 
 Published in monthly instalments, March 1836-November 1837. Published in one volume, 1837.
 
