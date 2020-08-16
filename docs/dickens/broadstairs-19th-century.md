@@ -12,7 +12,7 @@ An 1885 volume on ''How We Did Without Lodgings at the [Seaside](19c-seaside) ch
 
 The 1880 ‘[seaside](19c-seaside) number’ of Bow Bells Novelettes did its best to liven up the holiday market with ‘The Beauty of Broadstairs’, a story about a beautiful actress, an attempted murder, a stolen will and a tearful reunion. Meanwhile the Assembly Rooms were providing accessible entertainment such as conjuring and thought reading by the last decades of the century. George and Weedon [Grossmith](19c-grossmith-biography)s' Charles Pooter – who is understandably wary of Margate - expects his family to be safe in Broadstairs at least. It is typical of the enterprising Lupin that even in this most decorous of [seaside](19c-seaside) resorts he quickly discovers the appearance of Polly Presswell, ‘England’s Particular Spark’, at the Assembly Rooms.
 
-![EAlfred Capper ©The British Library Board c02908-08 / Evan.2795](images/AlfredCapper.jpg){: .right .dropshadow}
+![Alfred Capper ©The British Library Board c02908-08 / Evan.2795](images/AlfredCapper.jpg){: .right .dropshadow}
 
 But overall the image of the town remained decorous even in the tempestuous 1890s. Israel Zangwill captured the mood perfectly in a comic account of:
 
