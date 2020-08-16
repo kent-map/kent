@@ -29,7 +29,7 @@
 ### Places
 
 [Chatham Dockyard](19c-chatham-dockyard)  
-[Dover](/dickens/19c-dover)
+[Dover](/dickens/19c-dover)   
 [Folkestone](19c-folkestone)   
 [Folkestone Free Library](19c-folkestone-free-library)  
 
