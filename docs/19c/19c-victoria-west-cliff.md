@@ -9,5 +9,5 @@ The visit was marred by bad weather which prevented the Royal Highnesses from ta
 
 ### Bibliography
 
-[Amused by Kent](http://www.bbc.co.uk/kent/content/articles/2009/03/04/queen_victoria_history_feature.shtml)
+[Amused by Kent](http://www.bbc.co.uk/kent/content/articles/2009/03/04/queen_victoria_history_feature.shtml)   
 [2, West Cliff 225 years](http://ramsgate-society.org.uk/ramsgatematters/index.php/local-news/local-history/2-west-cliff-225-years)
