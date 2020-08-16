@@ -25,6 +25,7 @@
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
 [Mary Shelley](19c-shelleym-biography)  
 [Margaret Emily Shore](19c-shore.biography)  
+[Princess Victoria](19c-victoria-albion-house)  
 
 ### Places
 
