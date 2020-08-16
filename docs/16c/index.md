@@ -7,6 +7,6 @@
 
 <param ve-config title="19th Century Kent">
 
-### Persons
+### People
 
 [Arden of Faversham](16c-arden-faversham)  
