@@ -2,7 +2,7 @@
 
 ## Folkestone and World War 1
 
-![The Doorway of England -©The British Library Board. A80069-72 / Maps.C.1.a.9.(31) Images Online](images/The Doorway of England A80069-72.jpg{: .right .dropshadow}
+![The Doorway of England -©The British Library Board. A80069-72 / Maps.C.1.a.9.(31) Images Online](images/The Doorway of England A80069-72.jpg){: .right .dropshadow}
 
 
 
