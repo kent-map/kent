@@ -1,3 +1,5 @@
+<param ve-config style="article">
+
 ## Gladys Waterer (1885 - 1971)
 
 **Lived in:** 2 Nuckell’s Place (Dickens Museum) until death in 1971 
