@@ -16,7 +16,7 @@ On 1st July 1851, the _Gazette_ came under the proprietorship of Henry Ward, who
 
 In 1944, the Luftwaffe bombed Canterbury and destroyed the offices of the _Kentish Gazette_, although publication continued, and the next issue even contained a report on the bombing. In 1980, the _Gazette_ joined the Kent Media Group and still publishes today, winning ‘Newspaper of the Year’ in the 2019 Kent Press and Broadcast Awards.
 
-**Article written by:**
+**Article written by:** Katie Holdway
 
 ### Bibliography:
 Hannah Barker, _Newspapers, Politics and English Society 1695-1855_ (Essex: Pearson, 2000).   
