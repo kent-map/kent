@@ -1,9 +1,10 @@
 <param ve-config style="article">
 
 ## Fort House (Bleak House)
-*Fort Road, Broadstairs*
 
 ![Bleak House -Fort House - as Dickens would have known it ©Elgate Postcards, Margate](images/Bleak House in the time of Dickens.JPG){: .right .dropshadow}
+
+*Fort Road, Broadstairs*
 
 **Event with dates** Holidays in 1837, 1840-43, 1845, 1847, 1849-51; parts of _David Copperfield_ written here.
 
