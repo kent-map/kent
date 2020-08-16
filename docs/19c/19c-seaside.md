@@ -1,4 +1,4 @@
-# Seaside resorts
+## Seaside resorts
 
 <div align="center" style="float:right; margin: 64px 0 6px 24px;">
   <img src="images/Margatefromtheparade.jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
@@ -11,7 +11,7 @@ Women of all ages benefited from the greater freedom and healthier lifestyle of 
 
 By the early decades of the 20th century visitors would be able to enjoy a body of holiday fiction set in the resort they were visiting: _Maggie of Margate: a Seaside Sensation,_ _The Passenger to 'Folkestone_, _The Beauty of Broadstairs_ and _A Girl of Thanet_, to name but a few.
 
-## Bibliography
+### Bibliography
 
 Dicks, John. _The Beauty of Broadstairs_. Bow Bells Novelettes. Seaside number (82). Vol iv.  
 August 1880. 113-28.
