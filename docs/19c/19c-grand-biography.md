@@ -4,7 +4,7 @@
 
 **Place:** Lived in Tonbridge Wells 1898-1920
 
-![Sarah Grand's passport © International Centre for Victorian Women Writers](images/SG passport.jpeg){: .left .dropshadow}
+![Sarah Grand's passport © International Centre for Victorian Women Writers](images/SG passport.jpeg){: .right .dropshadow}
 
 Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920. Here she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies and was involved with the Women’s Volunteer Reserve Force during WW1.
 
