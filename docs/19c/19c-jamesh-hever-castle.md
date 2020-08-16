@@ -1,3 +1,5 @@
+<param ve-config style="article">
+
 ## Henry James 
 
 **Hever Castle** 1895-1907
