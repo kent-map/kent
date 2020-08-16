@@ -23,7 +23,7 @@ This ambivalence is brilliantly captured by 20th century author Pamela Wynne, wh
 21st century visitors are still divided on the question 'Are the arts saving Margate?' <param ve-video id="wizsp07vs8sz" title="Are the arts saving Margate"></var>
 https://www.bbc.co.uk/programmes/p07vs8sz
 
- ### Bibliography
+### Bibliography
 
 Dickens, Charles. ‘The Tuggses at Ramsgate’. Dickens’ Journalism. _Sketches by Boz and Other Early Papers 1833-39_. Ed Michael Slater. 327-344.
 
