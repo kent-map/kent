@@ -23,18 +23,13 @@ The sight of able bodied young men, of military age, perambulating along the Lea
 
 ### Bibliography and further reading
 
+[Kent in WW1](www. Kentww1.com)
+
+[Gateways to the First World War](blogs.kent.ac.uk/gateways/folkestone)
+
+[StepShort: Remembering the soldiers of WW1](www.stepshort.co.uk)
+
 Wynn, Stephen. _Folkestone in the Great War_. Barnsley: Pen and Sword 2017.
-
-See also: Folkestone Library
-
-www.stepshort.co.uk
-
-www. Kentww1.com
-
-blogs.kent.ac.uk/gateways/folkestone
-
-
-
 
 
 
