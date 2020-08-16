@@ -12,9 +12,7 @@
 
 Gladys Waterer, a minor novelist and playwright, was a founding member of the Dickens Fellowship in Broadstairs in 1937. She was involved with the annual festival for the rest of her life and dramatized every one of the novels bar _Oliver Twist_. 
 
-![Gladys Waterer as Mrs Squeers, Dickens Fesitval 1939](images/GettyImages-1053502770 Gladys Waterer1.jpg){: .left .dropshadow}
-
-### Article
+![Gladys Waterer as Mrs Squeers, Dickens Fesitval 1939](images/GettyImages-1053502770 Gladys Waterer1.jpg){: .right .dropshadow}
 
 Gladys Waterer was best known in her lifetime as a dramatist and leading light of the [Broadstairs] branch of the Dickens Fellowship from its inauguration in 1837. Little else is known about her , except that by the 1930s she was living with Dora Tatum at [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place), the original of Aunt Betsey’s cottage in _David Copperfield_. For the initial festival she adapted _Pickwick_ with Nina Boreham, followed by _David Copperfield_ (complete with donkeys) in 1938. By 1964 she had tackled every one of the major works bar _Oliver Twist_, which she candidly admitted she couldn’t face living with for the eight months it would have taken to prepare a suitable play. 
 
