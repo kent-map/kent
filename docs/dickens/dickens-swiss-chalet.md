@@ -16,6 +16,7 @@ Summer houses of various kinds featured prominently in the Victorian imagination
 
 The Swiss Chalet owned by Dickens was a somewhat extravagant Christmas present from his actor friend Charles Fechter in 1864. It was constructed in a piece of land opposite [Gad's Hill](dickens-gads-hill) and Dickens used it as a summer study, even having an underground passage built to avoid the necessity of crossing the road every morning. Five mirrors were added that served to ‘reflect and refract in all kinds of ways the leaves that are quivering at the windows, and the great fields of waving corn, and the sail dotted river. My room is up among the branches of the trees; and the birds and the butterflies fly in and out, and the green branches shoot in, at the open windows, and the lights and shadows of the clouds come and go with the rest of the company.’[^ref3] Like others who work from home – and not surprisingly with all this to look at - Dickens complained that on occasion ‘I sit in the chalet, like Mariana in the Moated Grange – and to as much purpose’.[^ref4]
 
+**Article written by:**
 
 ### Bibliography
 
