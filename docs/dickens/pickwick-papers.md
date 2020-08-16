@@ -1,3 +1,4 @@
+<param ve-config style="article">
 
 ## The Posthumous Papers of the Pickwick Club (_The Pickwick Papers_)  
 
