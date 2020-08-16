@@ -1,3 +1,5 @@
+<param ve-config style="article">
+
 ## Richborough: the Secret Port
 
 ![Richborough Ferry 1916-19](thumbnail_Richborough Ferry 1916-19 PC19-077.jpg){: .right .dropshadow}
