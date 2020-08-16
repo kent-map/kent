@@ -21,5 +21,5 @@ See also [Mobile Landscapes](mobile-landscape)
 
 ### References
 
-[^ref1]: Kitton, Frederick G. _The Dickens Country_. London: A. C. Black, 1925 [first published 1905], p.211.
+[^ref1]: Kitton, Frederick G. _The Dickens Country_. London: A. C. Black, 1925 [first published 1905], p.211.   
 [Leather Bottle - Scan by Philip V. Allingham](http://www.victorianweb.org/painting/haslehust/27.html)
