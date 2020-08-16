@@ -35,8 +35,9 @@
 [Folkestone Free Library](19c-folkestone-free-library)  
 [Margate](/dickens/19c-margate)   
 [Ramsgate](/dickens/19c-ramsgate)  
+[Seaside resorts](/dickens/19c-seaside)   
 
 ### Events
 
 [Hoodening](19c-hoodening)   
-[The Seaside](/dickens/19c-seaside)
+
