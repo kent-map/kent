@@ -33,6 +33,7 @@
 [Dover](/dickens/19c-dover)   
 [Folkestone](19c-folkestone)   
 [Folkestone Free Library](19c-folkestone-free-library)  
+[Margate](/dickens/19c-margate)   
 
 ### Traditions
 
