@@ -19,5 +19,5 @@ During her stay at Albion House Victoria was taken ill and is unable to write in
 **Article written by:** Dr Alyson Hunt
 
 ### Bibliography
-Links https://historicengland.org.uk/listing/the-list/list-entry/1085418   
+https://historicengland.org.uk/listing/the-list/list-entry/1085418   
 https://archive.historicengland.org.uk/SingleResult/Default.aspx?id=390346&t=Quick&l=all&cr=Albion+++ramsgate&io=False
