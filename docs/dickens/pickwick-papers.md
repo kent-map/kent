@@ -25,6 +25,8 @@ Perhaps most scathing of all is [Dickens’s](dickens-biography) representation 
 
 The scathing caricature of the military and residents of Kent contrasts sharply with [Dickens’s](dickens-biography) descriptions of its scenery, which is perhaps why some local newspapers focussed on the latter when reviewing or reprinting extracts from the serial. For example, in 1836, the _Kentish Gazette_ delightedly writes that, ‘[t]o our general readers the Pickwick papers will be doubly acceptable, from the scenes being laid in Kent, where, intermingled with narrations of laughable adventures, are beautiful graphic descriptions of some of the magnificent remains of the feudal grandeur of the county’.
 
+**Article written by:** Katie Holdway
+
 ### Bibliography: 
 Bassett, Troy J., ‘Charles Dickens.’ [_At the Circulating Library_](http://www.victorianresearch.org/atcl/index.php), 2019, Accessed 8 June. 2020.  
 Dickens, Charles. _The Pickwick Papers_. Oxford World’s Classics, 2008.  
