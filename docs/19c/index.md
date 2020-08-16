@@ -36,6 +36,7 @@
 [Margate](/dickens/19c-margate)   
 [Ramsgate](/dickens/19c-ramsgate)  
 
-### Traditions
+### Events
 
-[Hoodening](19c-hoodening)
+[Hoodening](19c-hoodening)   
+[The Seaside](/dickens/19c-seaside)
