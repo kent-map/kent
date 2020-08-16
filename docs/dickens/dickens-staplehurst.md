@@ -9,7 +9,7 @@ On 9 June 1865 Dickens was travelling back from France with Ellen Ternan (so imp
 **Article written by:** Professor Carolyn Oulton
 
 ### Bibliography
-http://thevictorianist.blogspot.com/2011/01/staplehurst-rail-crash-or-how-we-nearly.html   
+[The Staplehurst Rail Crash, Or; How We Nearly Lost Charles Dickens Early](http://thevictorianist.blogspot.com/2011/01/staplehurst-rail-crash-or-how-we-nearly.html)    
 Tomalin, Claire. _Charles Dickens: A Life._ London: Viking, 2011  
 
 ### References
