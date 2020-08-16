@@ -1,6 +1,6 @@
 ## West Cliff House, Ramsgate
 
-**Events:** Victoria visited 30th Sept 1836 – 29 Nov 1836
+**Events:** Princess Victoria visited 30th Sept 1836 – 29 Nov 1836
 
 **Places:** West Cliff House, Ramsgate
 
