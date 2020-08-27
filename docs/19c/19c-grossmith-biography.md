@@ -17,7 +17,7 @@ He begins enthusiastically enough, noting that he has secured ‘Very nice apart
 But the hapless Pooter is aghast to find that his son is frequenting the Assembly Rooms, where he sees ‘Polly Presswell, England's Particular Spark’. Pooter replies testily that I’ was proud to say I had never heard of her.’ But things get worse when the family go over to nearby [Margate](/dickens/19c-margate) (interestingly there is no commentary on [Ramsgate](/dickens/19c-ramsgate), where [Francis Burnand](19c-burnand-biography) lived) to visit their friends Cummings and Gowing:
 Cowing, as usual, overstepping the mark. He suggested we should play ‘Cutlets,’ a game we never heard of. He sat on a chair, and asked Carrie to sit on his lap, an invitation which dear Carrie rightly declined.
 
-When George Grossmith retired in 1909 he moved to [Folkestone](/19c/19c-folkestone), where [H. G. Wells](20c/20c-wellshg-biography) would have been a near neighbour, and died at 32 Manor Road on 1 March 1912. But like fellow authors W. M. Thackeray and Wilkie Collins he is buried in London, at Kensal Green Cemetery.
+When George Grossmith retired in 1909 he moved to [Folkestone](/19c/19c-folkestone), where [H. G. Wells](/20c/20c-wellshg-biography) would have been a near neighbour, and died at 32 Manor Road on 1 March 1912. But like fellow authors W. M. Thackeray and Wilkie Collins he is buried in London, at Kensal Green Cemetery.
 
 **Article written by:** Professor Carolyn Oulton 
 
