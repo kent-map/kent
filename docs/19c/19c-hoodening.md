@@ -6,7 +6,7 @@
 
 **Key dates:** 
 
-1839: a Hooden Horse in [Broadstairs](/broadstairs-19th-century) so frightened a lady that she collapsed and died. 
+1839: a Hooden Horse in [Broadstairs]([Broadstairs](/dickens/broadstairs-19th-century) so frightened a lady that she collapsed and died. 
 
 ![The author with East Kent Morris’s Hooden Horse, named Invicta after the county’s emblem and motto. Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.](images/jacqueline.jpg){: .right .dropshadow}
 
@@ -14,7 +14,7 @@
 
 Hop Hoodening Festival, to bless the hop harvest; second Saturday of September each year since 1957.
 
-[Broadstairs](broadstairs-19th-century) Folk Week: first full week of August each year since 1965.
+[Broadstairs](/dickens/broadstairs-19th-century)) Folk Week: first full week of August each year since 1965.
 
 ‘… at [Ramsgate](/19c-ramsgate), in Kent I found they begin the festivities of Christmas by a curious procession: a party of young people procure the head of a dead horse, which is affixed by pole about four feet in length; a string is affixed to the lower jaw; a horse-cloth is also attached to the whole, under which one of the party gets, and by frequently pulling on the string, keeps up a loud snapping noise, and is accompanied by the rest of the party, grotesquely habited, with handbells; they thus proceed from house to house, ringing their bells, and singing carols and songs; they are commonly gratified with beer and cake, or perhaps money. This is called, provincially, a Hodening, and … [i]t is I find, general in Thanet on Christmas Eve, and, as far as I can learn, nowhere else …’
 
