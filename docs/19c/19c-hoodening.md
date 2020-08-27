@@ -21,7 +21,7 @@ Hop Hoodening Festival, to bless the hop harvest; second Saturday of September e
 May 1807. _European Magazine_: 51 (May 1807) 558.
 
 
-"… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …" 
+"… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/dickens/19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …" 
 
 16 November 1907. _Keble’s [Margate](/dickens/19c-margate) and [Ramsgate](/dickens/19c-ramsgate) Gazette_.
 
