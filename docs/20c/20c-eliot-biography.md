@@ -24,13 +24,13 @@ Eliot, T. S et al. _The Letters of T.S. Eliot_. Yale University Press, 2011.
 McIntire, Gabrielle, ed. _The Cambridge Companion to The Waste Land_. Cambridge: 
 Cambridge UP, 2015. Print. Cambridge Companions to Literature.
 
-[_Nayland Rock Promenade Shelter , Thanet - 1393490 | Historic England_.](https://historicengland.org.uk/listing/the-list/list-entry/1393490.) Historicengland.Org.Uk, 2020, 
+[_Nayland Rock Promenade Shelter , Thanet - 1393490 | Historic England_.](https://historicengland.org.uk/listing/the-list/list-entry/1393490.) Historicengland.Org.Uk, 2020. 
 
 Rainey, Lawrence. Revisiting "_The Waste Land_", Yale University Press, 2005. ProQuest Ebook Central. (Accessed: 09/07/2020).
 
 Sherborne, Michael. _H.G. Wells: Another Kind of Life_, Peter Owen Publishers, 2013. ProQuest Ebook Central. (Accessed: 09/07/2020).
 
-[_The Waste Land_](https://www.poetryfoundation.org/poems/47311/the-waste-land.) by T. S. Eliot | Poetry Foundation". _Poetry Foundation_, 2020, 
+[_The Waste Land_](https://www.poetryfoundation.org/poems/47311/the-waste-land.) by T. S. Eliot | Poetry Foundation". _Poetry Foundation_, 2020. 
 
 
 
