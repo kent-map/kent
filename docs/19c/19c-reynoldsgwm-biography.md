@@ -4,7 +4,6 @@
 
 ![Mary Price on Dover Beach](images/Mary Price on Dover Beach.jpg){: .right .dropshadow}
 
-Prolific and popular early Victorian novelist, who is forgotten nowadays but in his day did much to shape the taste of the times. Disliked intensely by [Dickens](dickens-biography).
 
 **Events:** Birth in Sandwich; schooling in Ashford; serialisation of Kent-based novel Mary Price, 1851–53; purchase of Gothic House in Herne Bay, 1854 (residence 1854–58).
 
@@ -16,7 +15,7 @@ Prolific and popular early Victorian novelist, who is forgotten nowadays but in 
 
 ### Article
 
-Reynolds’s novel _Mary Price_ (1851–53) is a tale of two cities which takes its heroine once to Paris and more than once to London; but, just as Reynolds resets the novel’s timeframe to the years between 1826 (when the heroine is eleven) and 1835 (when she is a new bride), so he shifts its geographical centre of gravity to the area between Ashford and Deal. Mary Price herself repeatedly gravitates back to Kent, with the help at one point of the famous “Tally Ho” Canterbury coach which left from Gracechurch Street in London. Key scenes unfold in various inns and alehouses lost to us because long since reduced to rubble—the Saracen’s Head in Ashford, the Fountain and the Rose in Canterbury, Wright’s Hotel in [Dover](19c-dover) — and on Dover’s Shakespeare Cliff. 
+Reynolds’s novel _Mary Price_ (1851–53) is a tale of two cities which takes its heroine once to Paris and more than once to London; but, just as Reynolds resets the novel’s timeframe to the years between 1826 (when the heroine is eleven) and 1835 (when she is a new bride), so he shifts its geographical centre of gravity to the area between Ashford and Deal. Mary Price herself repeatedly gravitates back to Kent, with the help at one point of the famous “Tally Ho” Canterbury coach which left from Gracechurch Street in London. Key scenes unfold in various inns and alehouses lost to us because long since reduced to rubble—the Saracen’s Head in Ashford, the Fountain and the Rose in Canterbury, Wright’s Hotel in [Dover](/dickens/dickens-dover) — and on Dover’s Shakespeare Cliff. 
 
 ![Joseph Mallord William Turner, ‘Dover ’, c.1825, Tate (D18154), digital image © Tate released under Creative Commons CC-BY-NC-ND (3.0 Unported)](/dickens/images/TurnerDoverD18185410.jpg){: .left .dropshadow}
 
