@@ -7,6 +7,8 @@ But this picture of affluence and respectability is compromised by Dickens himse
 
 Feeling active? You may want to try this [walk from Pegwell Bay to Ramsgate](https://explorekent.org/activities/pegwell-bay-to-ramsgate-walk-romans-to-victoriana/)
 
+**Article written by:** Carolyn Oulton
+
 ### Bibliography
 Burnand, Frances Cowley, illustrated by Phil May. _The Z.Z.G., or Zig Zag Guide: Round and about the bold and beautiful Kentish coast._
 
