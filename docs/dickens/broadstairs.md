@@ -31,6 +31,8 @@ By the late nineteenth century Dickens’s association with the town was being h
 
 Feeling active? You may want to try this [Turner and Dickens walk](https://explorekent.org/activities/turner-dickens-walk/)
 
+**Article written by:** Ken Moffat and Carolyn Oulton
+
 ### Bibliography
 
 Dickens, Charles. [‘Our Watering Place’.](http://www.djo.org.uk/household-words/volume-iii/page-433.html) _Household Words_. 2 August 1851. 
