@@ -28,4 +28,4 @@ Chris made her home at Smallhythe Place until her death in 1960.
 
 St John, C. (1948) “Close-Up”, Adlard, E.(ed) Edy: Recollections of Edith Craig. Frederick Muller Ltd. 
 
-Holroyd, M. (2009) A Strange Eventful History: The Dramatic Lives of Ellen Terry, Henry Irving and their Remarkable Families. Vintage Books.  
+Holroyd, M. (2009) _A Strange Eventful History: The Dramatic Lives of Ellen Terry, Henry Irving and their Remarkable Families_. Vintage Books.  
