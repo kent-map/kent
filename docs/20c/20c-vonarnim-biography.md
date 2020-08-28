@@ -31,6 +31,6 @@ Walker, Jennifer. _Elizabeth of the German Garden: a Literary Journey._ Brighton
 ### References
 
 [^ref1]: Walker 99-103.
-[^ref2]: The Caravaners 246. 
-[^ref3]: The Caravaners 247.
-[^ref4]: ?
+[^ref2]: _The Caravaners_ 246. 
+[^ref3]: _The Caravaners_ 247.
+[^ref4]: _The Caravaners_ 31
