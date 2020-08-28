@@ -12,6 +12,7 @@
 [T.S. Eliot](20c-eliot-biography)   
 [Victoria Holt](20c-holt-biography)   
 [Somerset Maugham](20c-maugham-biography)  
+[Christopher St John](20c-st-john-biography)  
 [Elizabeth Von Arnim](20c-vonarnim-biography)   
 [Gladys Waterer](20c-waterer-biography)   
 [H.G. Wells](20c-wellshg-biography)   
