@@ -15,7 +15,7 @@ Opposite the house is a small park, where today there is a convenient bench with
 
 
 
-See also [Mobile Landscapes](/mobile-landscapes)
+See also [Mobile Landscapes](/dickens/mobile-landscapes
 
 Looking for somewhere atmospheric to read the novel? Try [The Vines Gardens](https://explorekent.org/activities/the-vines-gardens/)
 
