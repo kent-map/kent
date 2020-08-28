@@ -12,6 +12,8 @@ Whilst women had previously only been employed in the colour loft, making and re
 
 The last major work at Chatham was the reclaiming and building of St. Mary’s Island, between 1862 and 1885, which quadrupled the size of the dockyard. This was the largest civil engineering project ion South East England until the building of the Channel tunnel. On completion of this project Chatham became the naval dockyard of choice for the building of an y new class of battleship, but this pre-eminence only lasted for 20 years. This was due to the arrival of Admiral John ‘Jackie’ Fisher as First Sea Lord, and he preferred Portsmouth for the construction of HMS Dreadnought, the first of a revolutionary class of all big gun capital ship. Afterwards, Chatham was used to construct smaller warships and submarines and developed an extensive repair operation during the First World War.
 
+**Article written by:** Martin Watts
+
 ### Bibliography
 
 MacDougall, Philip, Chatham Dockyard. _The Rise and Fall of A Military Industrial Complex_. London: The History Press 2012.
