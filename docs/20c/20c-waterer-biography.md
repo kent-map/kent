@@ -19,7 +19,7 @@ But while her name appears only sporadically in newspapers and most often in con
 
 ### Bibliography
 
-Unattributed. ‘Gladys Waterer Talks Dickens at Broadstairs’. _Illustrated London News_. 11  March 1964. 90. 
+Unattributed. ‘Gladys Waterer Talks Dickens at Broadstairs’. _Illustrated London News_. 11  March 1964, 90. 
 
 Waterer, Gladys. _The Third Chance._ London: George Allen & Co., 1912. 
 
