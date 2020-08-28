@@ -20,7 +20,7 @@ In the novel the appalling behaviour of the boorish narrator Baron von Ottringel
 
 He observes at one point, with no sense of irony, that hop kilns ‘recurring at frequent intervals as one travels through the county of Kent, are striking and picturesque additions to the landscape, and as our guide book described them very fully I was able to talk a good deal about them.' [^ref4] By the end of the holiday he has learned little about the scenery - or about himself - but looks forward to sharing his written account of his travels with his friends and neighbours.
 
-**Article written by:**
+**Article written by:** Carolyn Oulton
 
 ### Bibliography
 
