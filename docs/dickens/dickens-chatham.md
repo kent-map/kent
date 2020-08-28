@@ -2,7 +2,7 @@
 
 ## Chatham 
 
-**Event:** 1816-1822 John Dickens based at [Chatham Dockyard](/19c-chatham-dockyard), working for the Naval Pay Office.
+**Event:** 1816-1822 John Dickens based at [Chatham Dockyard](/19c/19c-chatham-dockyard), working for the Naval Pay Office.
 
 >‘snug under hill-sides of corn-fields, hop gardens, and orchards; its great chimneys smoking with a quiet—almost a lazy—air, like giants smoking tobacco; and the great Shears moored off it, looking meekly and inoffensively out of proportion, like the Giraffe of the machinery of creation. The store of cannon on the neighbouring gun-wharf, had an innocent 
 toy-like appearance, and the one red-coated sentry on duty over them was a mere toy figure, with a clockwork movement. As the hot sunlight sparkled on him he might have passed for the identical little man who had the little gun, and whose bullets they were made of lead, lead, lead.’ ‘The Uncommercial Traveller’. _All the Year Round_. 29 August 1863.
