@@ -18,7 +18,7 @@ But as the London and Dover railway managers were keen to stress, historic churc
 
 Nor did the possibilities for travel end with the offer of a few weeks at the Kent [seaside](19c-seaside). For much of the 19th century British literary culture defined itself against the purportedly ‘unhealthy’ naturalism of French novels. But that is not to say there was no traffic between the two countries – [Dickens](dickens-biography) was one of the many travellers who embarked at Dover for prolonged trips to the continent. While ambitious plans to construct an underwater [tunnel](https://blog.nationalarchives.gov.uk/triumph-hope-evidence/) between Dover and Calais were finally abandoned in 1882,   it was of course possible to make the journey by sea, as Captain Matthew Webb proved in August 1875, when he became the first person to swim the channel.
 
-**Article written by:**
+**Article written by:** Caroly Oulton
 
 ### Bibliography
 
