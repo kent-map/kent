@@ -43,7 +43,7 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 </p>
 
 ### Carla Danella
-<img src="/images/carla.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<img src="/images/carla.JPG"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Carla Danella has a BA from Wellesley College (in the US) and recently completed her MA in English Literature at Canterbury Christ Church University, studying the writing and life of the English writer and eccentric, Christopher St John. When not creating occasional exhibitions for the National Trust at Smallhythe Place, or at her day job as web content manager, she can be found hiking in Kent with her dog Max.
 </p>
