@@ -5,6 +5,7 @@
 
 **Places:** Smallhythe and Ashford in Kent
 
+![Christopher St John - image taken from the print version of her play The Coronation published in 1912 -Photographed by Marie Leon](images/christopher.jpg){: .left .dropshadow}
 
 Although St John is today best known either as the one-time lover of author and gardener, Vita Sackville-West, or as a member of the “Smallhythe Trio” – her ménage à trois with the theatre director Edith “Edy” Craig and artist Claire “Tony” Atwood – she was a prolific writer whose work covered biography, suffrage and avant garde plays, experiments in life writing, and over thirty years of journalism for British newspapers and magazines, including The Lady and Time and Tide (then known as the “Sapphic Graphic”). Her writing spanned the late Victorian period through to the late 1950s and fits into the intersection of Victorian urban gothic fiction (with a particular focus on Oscar Wilde) and the introspection of modernist writers, such as Virginia Woolf.
 
