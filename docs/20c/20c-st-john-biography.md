@@ -14,7 +14,7 @@ St John maintained a flat with Edy Craig in London’s Covent Garden, from 1900,
 
 Kent locations feature in her fictionalised autobiography, Hungerheart, her many biographical works about Ellen Terry, and her essay about Edy in Eleanor Adlard’s collection of essays, “Edy: Recollections of Edith Craig”. 
 
-On Chris and Edy’s first visit to Smallhythe, sent to view the property by Ellen Terry. “We went there from London by road on our bicycles, spending the night at the Saracen, Ashford, on the way. …Edy was always quick to recognize the potentialities of a house, however dilapidated, however blemished by gimcrack repairs… I was charmed by the water-meadows round the farm, its beautiful out-houses, its vast canopy of sky, it’s authentic rural atmosphere, but when Edy said of a room upstairs, piled up to the ceiling with fleeces, ‘This will be mother’s bedroom,’ I gaped at her optimism.”
+On Chris and Edy’s first visit to Smallhythe, sent to view the property by Ellen Terry. “We went there from London by road on our bicycles, spending the night at the Saracen, Ashford, on the way. …Edy was always quick to recognize the potentialities of a house, however dilapidated, however blemished by gimcrack repairs… I was charmed by the water-meadows round the farm, its beautiful out-houses, its vast canopy of sky, it’s authentic rural atmosphere, but when Edy said of a room upstairs, piled up to the ceiling with fleeces, ‘This will be mother’s bedroom,’ I gaped at her optimism.”[^ref1]
 
 Smallhythe Place had a convivial atmosphere, and many literary, theatrical and artistic friends frequently visited, including the suffragettes Vera “Jacko” Holme and Sime Seruya, illustrator of the Rider Waite Tarot deck Pamela Colman Smith, playwright Cicely Hamilton, and the author, Radclyffe Hall and her life partner Una Troubridge.
 
@@ -26,8 +26,13 @@ Chris made her home at Smallhythe Place until her death in 1960.
 **Article written by:** Carla Danella
 
 
+### References
+
+[^ref1]:'Close-Up' 23.
+
+
 ### Bibliography
 
-St John, C. (1948) “Close-Up”, Adlard, E.(ed) Edy: Recollections of Edith Craig. Frederick Muller Ltd. 
+St John, C. (1948) 'Close-Up', Adlard, E.(ed) _Edy: Recollections of Edith Craig_. Frederick Muller Ltd. 
 
 Holroyd, M. (2009) _A Strange Eventful History: The Dramatic Lives of Ellen Terry, Henry Irving and their Remarkable Families_. Vintage Books.  
