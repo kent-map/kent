@@ -4,7 +4,7 @@
 
 **Event:** Visiting Smallhythe Place for the first time in 1900
 
-**Places:** Smallhythe and Ashford in Kent
+**Places:** Small Hythe and Ashford 
 
 ![Christopher St John - image taken from the print version of her play The Coronation published in 1912 -Photographed by Marie Leon](images/christopherstjohn.jpg){: .right .dropshadow}
 
