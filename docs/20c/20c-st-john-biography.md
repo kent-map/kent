@@ -1,3 +1,4 @@
+<param ve-config style="article">
 
 ## Christopher Marie St John (born Christabel Marshall) (24 October 1871 – 20 October 1960)
 
