@@ -1,8 +1,10 @@
+<param ve-config style="article">
+
 ## Margaret Emily Shore (1819-1839)
 
 <a title="Unknown author / Public domain" href="https://commons.wikimedia.org/wiki/File:Margaret_Emily_Shore_engraving.jpg"><img width="256" alt="Margaret Emily Shore engraving" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Margaret_Emily_Shore_engraving.jpg/256px-Margaret_Emily_Shore_engraving.jpg"></a>
 
-
+![Margaret Emily Shore, engraving circa 1838. Artist unknown/ Public domain](images/Margaret_Emily_Shore_engraving.jpg){: .right .dropshadow}
 
 Margaret Emily Shore, engraving circa 1838. Artist unknown.
 
