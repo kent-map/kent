@@ -24,3 +24,7 @@
 
 [Folkestone and World War One](20c-folkestone-ww1)   
 [Richborough: The Secret Port](20c-richborough)
+
+### Events
+
+[Ellen Terry's funeral](20c-terry-funeral)  
