@@ -4,7 +4,7 @@
 
 >‘The Hall was a queer place, I thought, with higher pews in it than a church - and with people hanging over the pews looking on - and with mighty Justices (one with a powdered head) leaning back in chairs, with folded arms, or taking snuff, or going to sleep, or writing, or reading the newspapers - and with some shining black portraits on the walls, which my unartistic eye regarded as a composition of hardbake and sticking-plaister. Here, in a corner, my indentures were duly signed and attested, and I was "bound;" Mr. Pumblechook holding me all the while as if we had looked in on our way to the scaffold, to have those little preliminaries disposed of.’ _Great Expectations_. Chapter 13.
 
-![The Guildhall - Reproduced from an original F. Frith & Co postcard.](images/Guildhall.JPG){: .right .dropshadow}
+![The Guildhall - Reproduced from an original F. Frith & Co postcard.](images/guildhallrochester.JPG){: .right .dropshadow}
 
 The Guild Hall in Rochester dates back to 1787. An imposing building, it is little wonder that Pip finds it intimidating  when his apprenticeship to Joe is formalised here in _Great Expectations_. His being ‘bound’ to particular characters and places, often against his will, is one of the keynotes of the novel. Ironic connections between himself and Magwitch infiltrate the scene, as a resentful Pip uses images of arrest and incarceration to depict his resignation to becoming a blacksmith:
 
