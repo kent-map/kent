@@ -21,7 +21,6 @@ Ellen Terry wrote about life with Edy at Smallhythe Place (then called The Farm)
 
 **Article written by:** Carla Danella
 
-### References
 
 [^ref1]: Smallhythe Place is in the hamlet of Small Hythe in Kent. Note that some authors quoted refer to the hamlet as Small Hythe and Smallhythe interchangeably. 
 
