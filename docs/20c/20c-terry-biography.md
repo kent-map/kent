@@ -21,22 +21,22 @@ Ellen Terry wrote about life with Edy at Smallhythe Place (then called The Farm)
 
 Article written by: Carla Danella
 
-[^ref1] Smallhythe Place is in the hamlet of Small Hythe in Kent. Note that some authors quoted refer to the hamlet as Small Hythe and Smallhythe interchangeably. 
+[^ref1]: Smallhythe Place is in the hamlet of Small Hythe in Kent. Note that some authors quoted refer to the hamlet as Small Hythe and Smallhythe interchangeably. 
 
-[^ref2] Auerbach 395.
+[^ref2]: Auerbach 395.
 
-[^ref3] Auerbach 149.
+[^ref3]: Auerbach 149.
 
-[^ref4] ET to GBS, Letter CCLXII, 14 June 1904, from what was then still called The Farm, Small Hythe rather than Smallhythe Place. Ellen Terry and George Bernard Shaw: A Correspondence 373.
+[^ref4]: ET to GBS, Letter CCLXII, 14 June 1904, from what was then still called The Farm, Small Hythe rather than Smallhythe Place. Ellen Terry and George Bernard Shaw: A Correspondence 373.
 
-[^ref5] St John, 354.
+[^ref5]: St John, 354.
 
 
-Bibliography:
+### Bibliography:
 
-Auerbach, Nina (1987) Ellen Terry, Player in Her Time. Phoenix House, J. M. Dent & Sons Ltd.
+Auerbach, Nina (1987) _Ellen Terry, Player in Her Time._ Phoenix House, J. M. Dent & Sons Ltd.  
 
-Holroyd, M. (2009) A Strange Eventful History: The Dramatic Lives of Ellen Terry, Henry Irving and their Remarkable Families. Vintage Books. 
-St John, C. (1931) (ed.) Ellen Terry and George Bernard Shaw: A Correspondence. Max Reinhardt. 
+Holroyd, M. (2009) _A Strange Eventful History: The Dramatic Lives of Ellen Terry, Henry Irving and their Remarkable Families._ Vintage Books. 
+St John, C. (1931) (ed.) _Ellen Terry and George Bernard Shaw: A Correspondence._ Max Reinhardt. 
 
-St John, C. (1933) (ed.) Ellen Terry's Memoirs. Victor Gollancz Ltd.
+St John, C. (1933) (ed.) _Ellen Terry's Memoirs._ Victor Gollancz Ltd.
