@@ -63,7 +63,7 @@ Carla Danella has a BA from Wellesley College (in the US) and recently completed
 Katie Holdway is a PhD researcher in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, Romance, Revolution & Reform and a member of the Dickens Society Communications Committee.
     
 ### Alyson Hunt
-<img src="/images/alysonhunt.JPG"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<img src="/images/Ice cream.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Alyson Hunt is a recent PhD survivor and long-time research associate of the International Centre for Victorian Women Writers at Canterbury Christ Church University. Her research interests include Victorian crime fiction and denigrating Dickens in favour of his [*contentious point*] much more interesting contemporary, Wilkie Collins.
     
