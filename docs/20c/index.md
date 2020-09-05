@@ -14,6 +14,7 @@
 [Victoria Holt](20c-holt-biography)   
 [Somerset Maugham](20c-maugham-biography)  
 [Christopher St John](20c-st-john-biography)  
+[Ellen Terry](20c-terry-biography)  
 [Elizabeth Von Arnim](20c-vonarnim-biography)   
 [Gladys Waterer](20c-waterer-biography)   
 [H.G. Wells](20c-wellshg-biography)   
