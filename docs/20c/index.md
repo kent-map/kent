@@ -9,6 +9,7 @@
 
 ### People
 
+[Edith Craig](20c-craig-biography)  
 [T.S. Eliot](20c-eliot-biography)   
 [Victoria Holt](20c-holt-biography)   
 [Somerset Maugham](20c-maugham-biography)  
