@@ -20,7 +20,7 @@ In 1929 Edy turned the 17th century thatched barn on the property into a theatre
 
  [Smallhythe Suffragettes](https://vimeo.com/393665654): video created by Carla Danella for the National Trust at Smallhythe.
 
-### Article written by: Carla Danella
+**Article written by:** Carla Danella
 
 ### Bibliography:
 
