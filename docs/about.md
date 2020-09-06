@@ -90,9 +90,10 @@ Jacquie is in the final year of a PhD in English Literature at Canterbury Christ
     
 ### Marnie Stanley
 <img src="/images/marnie1.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
-<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;"></p>
-
-    
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+Marnie Stanley is a student at Canterbury Christ Church University
+</p>
+   
 ### Christian Taylor
 <img src="/images/ctaylor.jpeg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
