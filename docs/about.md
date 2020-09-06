@@ -88,6 +88,11 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Jacquie is in the final year of a PhD in English Literature at Canterbury Christ Church University, where her research focuses on representations and perceptions of the Arctic in the Long-Nineteenth-Century. Her other interests include Cotswold and Molly Style Morris Dancing, the life and work of Charles Dickens, and the history of her adopted county of Kent.
     
+### Marnie Stanley
+<img src="/images/marnie1.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+
+    
 ### Christian Taylor
 <img src="/images/ctaylor.jpeg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
