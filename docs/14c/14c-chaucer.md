@@ -1,5 +1,7 @@
 ## Geoffrey Chaucer
 
+**Places:** Woolwich, Combe
+
 It is generally believed that Geoffrey Chaucer was born in the early 1340s, as in October 1386 he testified in the trial of Scrope v Grosvenor, claiming to be “forty and more” years old at the time. However, neither his exact place nor year of birth are known. Brought up in a family of prosperous wool and wine merchants, Chaucer has become one of England’s most famous poets.
 
 His best-known work must be _The Canterbury Tales_, which he wrote in the last decade of his life . This unfinished work posed problems for editors and critics alike. While the literary quality is undeniable, the running order of the text has been up for debate. Recent editors tend to follow the order of Ellesmere’s edition, which makes the most sense, but is topographically bizarre. Henry Bradshaw however, put it into geographical order.
