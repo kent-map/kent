@@ -1,6 +1,10 @@
+<param ve-config style="article">
+
 ## Geoffrey Chaucer
 
 **Places:** Woolwich, Combe
+
+![Geoffrey Chaucer Statue, Canterbury](images/chaucer.jpg){: .right .dropshadow}
 
 It is generally believed that Geoffrey Chaucer was born in the early 1340s, as in October 1386 he testified in the trial of Scrope v Grosvenor, claiming to be “forty and more” years old at the time. However, neither his exact place nor year of birth are known. Brought up in a family of prosperous wool and wine merchants, Chaucer has become one of England’s most famous poets.
 
