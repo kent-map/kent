@@ -4,6 +4,8 @@
 
 *Place:* Small Hythe [^ref1]
 
+![Ellen Terry ](images/thumbnail_ET-and-HI-72.jpg){: .right .dropshadow}
+
 Ellen Terry was the superstar English actress of the Victorian period. Born to a theatrical family, she first trod the boards aged eight in the part of Mamillius in The Winter’s Tale. She is best known for her long theatrical partnership with Sir Henry Irving, performing at the Lyceum Theatre, London, and throughout the UK and the US. 
 
 She is also known for her series of highly-acclaimed lectures about Shakespeare’s women (and the book that resulted – Four Lectures on Shakespeare – written by Ellen Terry and edited by her ‘literary henchman’ [Christopher St John](20c/20c-st-john-biography) ).
