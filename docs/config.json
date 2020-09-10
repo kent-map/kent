@@ -5,5 +5,6 @@
     "components": [
         {"name": "siteHeader", "src": "/components/Header.vue"},
         {"name": "siteFooter", "src": "/components/Footer.vue"}
-    ]
+    ],
+    "gaTrackingID": "UA-148268745-1"
 }
