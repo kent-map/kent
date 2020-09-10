@@ -17,6 +17,8 @@ authors such as Milward Kennedy at the same period.
 
 Pamela Wynne died at her son’s house in Sissinghurst, on the other side of the county, in 1959.
 
+**Article written by:** Carolyn Oulton
+
 ### Bibliography 
 'Deaths'. 18 March 1959. _The Times_. GALE   
 

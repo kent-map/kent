@@ -12,4 +12,4 @@
 
 ![](/images/Ramsgate map.jpg) **[20th century.](20c)**  Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
-![](/images/21c.png) **[21st century.](coming)**  Regeneration and the rise of the DFL.
+![](/images/thumbnail_Margate graffiti.jpg) **[21st century.](coming)**  Regeneration and the rise of the DFL.

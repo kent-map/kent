@@ -25,7 +25,9 @@ In October 1855 Dickens read _A Christmas Carol_ to the local Harveian Literary 
 
 Writing in 1914 Charles G. Harper commented that ‘the people who made holiday at [Folkestone](19c-folkestone) in his time were frankly people who “went to the seaside” and descended to the beach, and sometimes even paddled in the sea, and did the like undignified things.’  Now, he complained, visitors to the Leas had nothing to do with the working class trippers who stayed in lodgings near the beach. ‘The very bands understand to a nicety the differences of ideals and outlook, and render Grieg, Wagner and classical music above, while to the Lower Road audiences they discourse strains of a simpler and more popular kind’[^ref6].
 
-In 1865 Dickens was travelling on the Folkestone tidal train when he was involved in the rail disaster at [Staplehurst](Dickens/Staplehurst).
+In 1865 Dickens was travelling on the Folkestone tidal train when he was involved in the rail disaster at [Staplehurst](/dickens/dickens-staplehurst).
+
+**Article written by:** Ken Moffat and Carolyn Oulton
 
 ## Bibliography
 

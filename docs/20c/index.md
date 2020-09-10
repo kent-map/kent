@@ -9,9 +9,12 @@
 
 ### People
 
+[Edith Craig](20c-craig-biography)  
 [T.S. Eliot](20c-eliot-biography)   
 [Victoria Holt](20c-holt-biography)   
 [Somerset Maugham](20c-maugham-biography)  
+[Christopher St John](20c-st-john-biography)  
+[Ellen Terry](20c-terry-biography)  
 [Elizabeth Von Arnim](20c-vonarnim-biography)   
 [Gladys Waterer](20c-waterer-biography)   
 [H.G. Wells](20c-wellshg-biography)   
@@ -21,3 +24,7 @@
 
 [Folkestone and World War One](20c-folkestone-ww1)   
 [Richborough: The Secret Port](20c-richborough)
+
+### Events
+
+[Ellen Terry's funeral](20c-terry-funeral)  
