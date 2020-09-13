@@ -2,6 +2,7 @@
     "title": "Kent",
     "banner": "/images/Bleak_house_postcard.jpg",
     "bannerHeight": 400,
+    "mdRoot": "/content/docs",
     "components": [
         {"name": "siteHeader", "src": "/components/Header.vue"},
         {"name": "siteFooter", "src": "/components/Footer.vue"}
