@@ -5,18 +5,19 @@
       <v-layout justify-space-between column fill-height>
         <v-list dense v-cloak>
           <v-list-item v-for="(menuItem, i) in nav" :key="i" @click="menuItemClicked(menuItem.path)" v-if="menuItem.enabled">
-            <v-list-item-action><v-icon>{{menuItem.icon}}</v-icon></v-list-item-action>
-            <v-list-item-content><v-list-item-title>{{menuItem.title}}</v-list-item-title></v-list-item-content>
+             <v-list-item-action><v-icon>{{menuItem.icon}}</v-icon></v-list-item-action>
+              <v-list-item-content><v-list-item-title>{{menuItem.title}}</v-list-item-title></v-list-item-content>
           </v-list-item>
         </v-list>
+
         <v-list dense v-cloak justify-end>
-          <v-list-item><v-list-item-content style="font-size:0.8em;margin-top:36px;">App version: {{appVersion}}</v-list-item-content></v-list-item>        
-          <v-list-item><v-list-item-content style="font-size:0.8em;">Lib version: {{libVersion}}</v-list-item-content></v-list-item>
+          <v-divider></v-divider>
+
+          <v-list-item><v-list-item-content>App version: {{appVersion}}</v-list-item-content></v-list-item>        
+          <v-list-item><v-list-item-content>Lib version: {{libVersion}}</v-list-item-content></v-list-item>
           <v-divider></v-divider>
           <v-list-item>
-            <span @click="drawer=false; viewMarkdown()" style="padding-right:18px; cursor:pointer;"><v-icon>mdi-code-tags</v-icon></span>
-            <span @click="drawer=false; editMarkdown('default')" style="padding-right:18px; cursor:pointer;"><v-icon>mdi-pencil-outline</v-icon></span>
-            <!-- <span @click="drawer=false; editMarkdown('stackedit')" style="padding-right:18px; cursor:pointer;"><v-icon>mdi-pencil-outline</v-icon></span> -->
+            <span @click="drawer=false; editMarkdown('stackedit')" style="padding-right:18px; cursor:pointer;"><v-icon style="color:#ccc;">mdi-pencil-outline</v-icon></span>
           </v-list-item>
         </v-list> 
       </v-layout>
@@ -80,22 +81,19 @@
       lastHeight: undefined
     }),
     computed: {
-      banner() { return this.essayConfig.banner || this.siteConfig.banner },
-      bannerHeight() { return this.essayConfig.bannerHeight || this.siteConfig.bannerHeight || 400 },
-      title() { return  this.essayConfig.title || this.siteConfig.title },
-      author() { return this.essayConfig.author || '&nbsp;' },
-      numMaps() { return this.essayConfig['num-maps'] },
-      numImages() { return this.essayConfig['num-images'] },
-      numSpecimens() { return this.essayConfig['num-specimens']},
-      numPrimarySources() { return this.essayConfig['num-primary-sources'] },
-      hasStats() { return this.numMaps !== undefined || this.numImages !== undefined || this.numSpecimens !== undefined || this.numPrimarySources !== undefined }
-    },
-    created() {
-      console.log('Header.created')
+      essayConfigLoaded() { return this.essayConfig !== null },
+      banner() { return this.essayConfigLoaded ? (this.essayConfig.banner || this.siteConfig.banner) : null },
+      bannerHeight() { return this.essayConfig && this.essayConfig.bannerHeight || this.siteConfig.bannerHeight || 400 },
+      title() { return this.essayConfigLoaded ? (this.essayConfig.title || this.siteConfig.title) : null },
+      author() { return (this.essayConfigLoaded && this.essayConfig.author) || '&nbsp;' },
+      numMaps() { return (this.essayConfigLoaded && this.essayConfig['num-maps']) },
+      numImages() { return (this.essayConfigLoaded && this.essayConfig['num-images']) },
+      numSpecimens() { return (this.essayConfigLoaded && this.essayConfig['num-specimens']) },
+      numPrimarySources() { return (this.essayConfigLoaded && this.essayConfig['num-primary-sources']) },
+      hasStats() { return this.numMaps || this.numImages || this.numSpecimens || this.numPrimarySources }
     },
     mounted() {
       document.getElementById('header').addEventListener('wheel', this.throttle(this.scrollContent, 40))
-      console.log('Header.mounted')
     },
     methods: {
       onMutate(mutations) {
