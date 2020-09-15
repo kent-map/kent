@@ -4,6 +4,13 @@
 
 >‘Leaving the rest in the boat, I stepped ashore, and found the light to be in a window of a public-house. It was a dirty place enough, and I dare say not unknown to smuggling adventures; but there was a good fire in the kitchen, and there were eggs and bacon to eat, and various liquors to drink. Also, there were two double-bedded rooms – “such as they were”, the landlord said. No other company was in the house than the landlord, his wife, and a grizzled male creature, the “Jack” of the little causeway, who was as slimy and smeary as if he had been at low-water mark too.’ _Great Expectations_.
 
+<p align="center">
+  <img src="images/Ship and Lobster.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Ship and Lobster © Ken Moffat</span>
+</p>
+
+
+
 
 Dickens’s _Great Expectations_, like _David Copperfield_, is believed to be set in the 1820s in the last years of the [Bloody Code](/18c/18c-bloody-code). The brutality of this legal system had reached a peak around 1800, at around the time when Magwitch would have become involved with Compeyson and committed his first serious crime. Although a new Act of 1823 reduced executions from 2000 to 50, as a returned convict Magwitch would still have rendered himself liable to public execution. Having declared himself to Pip, the plan is for him to escape down the river from London to Kent and from there to take ship for Holland. But he is hunted down by his old enemy Compeyson just as he is being rowed down the Thames by Pip and his friends. 
 
@@ -20,3 +27,6 @@ Dickens, Charles. _Great Expectations_.  Oxford: Oxford World’s Classics, 1993
 ### References
 
 [^ref1]: _Great Expectations_ 4. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMzIwNTE0MTZdfQ==
+-->
