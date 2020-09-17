@@ -4,9 +4,15 @@
 
 **Event:** Dickens staying at Ship Inn 29 April – 2 May 1856.
 
+
+
 >‘It fell to my lot, this last bleak Spring, to find myself in a watering-place out of the Season. A vicious north-east squall blew me into it from foreign parts, and I tarried in it alone for three days, resolved to be exceedingly busy. On the first day, I began business by looking for two hours at the sea, and staring the Foreign Militia out of countenance. Having disposed of these important engagements, I sat down at one of the two windows of my room, intent on doing something desperate in the way of literary composition, and writing a chapter of unheard-of excellence...’ ‘Out of the Season’. _Household Words_ (1856).
 
-!['I was sitting on the step of an empty shop at a street corner, near the market-place' - David Copperfield](images/Dover postcard.jpg){: .right .dropshadow}
+![
+<p align="center">
+  <img src="images/Dover postcard.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">'I was sitting on the step of an empty shop at a street corner, near the market-place' - David Copperfield](images/Dover postcard.jpg){: .right .dropshadow}</span>
+</p>
 
 Dickens stayed in Dover (near [Deal](bleak-house-deal) on a number of occasions while travelling from London to the continent and he includes it in both _David Copperfield_ and _Little Dorrit_. During one visit to the town even Dickens suffered from writer’s block – sometimes known as procrastination, as he makes clear in an article of 1856.
 
@@ -21,7 +27,7 @@ In 1859 one writer saw nothing but ‘Bathing-machines – ugliest of objects, d
 
 Dickens, Charles. ‘Out of the Season’. 28 June 1856. _Household Words_.  
 Dickens, Charles. `Out of the Season'   
-_Household Words_, [Volume XIII]( http://www.djo.org.uk/media/downloads/articles/3239_Out%20of%20the%20Season.pdf), Magazine No. 327, 28 June 1856, Pages: 553-556. Accessed: 2 January 2019.    
+_Household Words_, [Volume XIII](, Magazine No. 327, 28 June 1856, Pages: 553-556. Available at: http://www.djo.org.uk/media/downloads/articles/3239_Out%20of%20the%20Season.pdf), Magazine No. 327, 28 June 1856, Pages: 553-556. Accessed: 2 January 2019.    
 Fowler, Frank. _The Dottings of a Lounger_. London: Routledge Warne & Routledge, 1859.  
 Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.  
 
@@ -29,3 +35,6 @@ Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: T
 
 [^ref1]: To Mary Boyle, 22 July 1852. Pilgrim 6. 720-1. 721. 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYzNzI2ODk3NV19
+-->

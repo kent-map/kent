@@ -16,7 +16,7 @@
           <v-list-item><v-list-item-content>App version: {{appVersion}}</v-list-item-content></v-list-item>        
           <v-list-item><v-list-item-content>Lib version: {{libVersion}}</v-list-item-content></v-list-item>
           <v-divider></v-divider>
-          <v-list-item>
+          <v-list-item v-if="siteConfig.branch !== 'master'">
             <span @click="drawer=false; editMarkdown('stackedit')" style="padding-right:18px; cursor:pointer;"><v-icon style="color:#ccc;">mdi-pencil-outline</v-icon></span>
           </v-list-item>
         </v-list> 
