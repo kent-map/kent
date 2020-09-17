@@ -8,7 +8,7 @@
 
 ![](/images/19c.png) **[19th century.](19c)**  Arrival of the railway. Development of recognisably modern tourist industry.   
 
-![](/dickens/images/dickens_head.jpg) **[Dickens.](/dickens)**  One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.![](/images/Ramsgatg) **[20th century.](/)**  Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
+![](/dickens/images/dickens_head.jpg) **[Dickens.](/dickens)**  One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 
 
 ![](/images/Ramsgate map.jpg) **[20th century.](/20c)**  Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.   
 
