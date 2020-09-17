@@ -30,7 +30,11 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 
 ### Claire Bartram
 
-### Laura Allen
+### Laura AllenKen Moffat
+<img src="/images/Dickens_House_PH.png"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
+</p>
 
 ### Michelle Crowther
 <img src="/images/michelle.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
@@ -82,7 +86,9 @@ Peter Merchant is Principal Lecturer in English at Canterbury Christ Church Univ
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 </p>
-
+Peter Merchant
+Peter Merchant is Principal Lecturer in English at Canterbury Christ Church University, and the U.K. member of the _Journal of Juvenilia Studies_ Editorial Advisory Board. His most recent foray into local literary studies is “The Life of Betty Trask (1893–1983): Fiction, Fame, and Frome,” in the _Frome Society Year Book_ 23 (2020): 70–78.
+    
 ### Jacquie Stamp
 <img src="/images/jstamp.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
@@ -114,3 +120,6 @@ Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History 
 <img src="/images/labs.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 </p>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAzODc0MTg1NF19
+-->
