@@ -1,4 +1,4 @@
-<param ve-config title="Kent"banner="/images/kent-map-header.jpg" style="index">
+<param ve-config title="Kent" banner="/images/kent-map-header.jpg" style="index">
 
 ![](/images/16c.png) **[16th century.](/16c)**  Establishment of Chatham Dockyard. Battle against the Spanish Armada. Industry includes textiles and iron production.
 
