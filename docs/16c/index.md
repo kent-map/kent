@@ -5,8 +5,11 @@
     a {color: #800000 !important; font-size: 1.2em;}
 </style>
 
-<param ve-config title="19th Century Kent">
+<param ve-config title="196th Century Kent">
 
 ### People
 
 [Arden of Faversham](16c-arden-faversham)  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjY2MTcwNTUyXX0=
+-->
