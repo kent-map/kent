@@ -6,7 +6,10 @@
 
 >‘Belonging to the house, but unfortunately placed on the other side of the high road, was a shrubbery, well wooded though in desolate condition, in which stood two magnificent cedars; and having obtained, in 1859, the consent of the local authorities for the necessary underground work, Dickens constructed a passage beneath the road from his front lawn; and in the shrubbery thus rendered accessible, and which he then laid out very prettily, he placed afterwards a Swiss chalet presented to him by Mr Fechter, which arrived from Paris in ninety-four pieces fitting like the joints of a puzzle, but which proved to be somewhat costly in setting on its legs by means of a foundation of brickwork.’[^ref1] 
 
-![The Chalet at Gadshill rochester, Kent Source: Forster II, 153](images/swiss chalet1.jpg){: .right .dropshadow}  
+![<p align="center">
+  <img src="images/swiss chalet1.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">The Chalet at Gadshill rRochester, Kent Source: Forster, II, 153](images/swiss chalet1.jpg){: .right .dropshadow}  </span>
+</p>
 
 
 Given to Dickens by his actor friend Charles Fechter for Christmas 1864, the two-storey wooden chalet was originally positioned at one end of an underground tunnel leading from [Gad's Hill](dickens-gads-hill) to a small field on the other side of the road outside the house. Dickens wrote the last words of _Edwin Drood_ here.
@@ -32,3 +35,6 @@ Graham Storey, ed. _The Pilgrim Edition: The Letters of Charles Dickens_. Volume
 [^ref2]: _David Copperfield_ 385.
 [^ref3]: To Mrs J. T. Fields 22 May 1868. Pilgrim 12. 118-120. 119./ 
 [^ref4]: To W. H. Wills. 9 August 1868. Pilgrim 12. 166-7. 167. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODc3NDI4MjMzXX0=
+-->
