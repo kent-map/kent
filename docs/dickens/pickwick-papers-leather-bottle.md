@@ -7,7 +7,10 @@ In this opinion also, both Mr Winkle and Mr Snodgrass expressed their concurrenc
 “Show the gentlemen into the parlour, Tom,” said the landlady.
 A stout country lad opened a door at the end of the passage, and the three friends entered a long, low-roofed room, furnished with a large number of high-backed leather-cushioned chairs, of fantastic shapes, and embellished with a great variety of old portraits and roughly-coloured prints of some antiquity. At the upper end of the room was a table, with a white cloth upon it, well covered with a roast fowl, bacon, ale, and et ceteras; and at the table sat Mr. Tupman, looking as unlike a man who had taken his leave of the world, as possible.’ _The Pickwick Papers_.
 
-![Leather Bottle - Scan by Philip V. Allingham, www.victorianweb.org.](images/leather-bottle.jpg){: .right .dropshadow}
+![L<p align="center">
+  <img src="images/leather B-bottle - Scan by Philip V. Allingham, www.victorianweb.org.](images/leather-bottle.jpg){: .right .dropshadow}.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Leather Bottle http://www.victorianweb.org/painting/haslehust/27.html Scan by Philip V. Allingham. </span>
+</p>
 
 A few miles away from Dickens’s final home [Gad's Hill](dickens-gads-hill), the [Leather Bottle](http://www.theleatherbottle.pub/) in Cobham  is a mediaeval timbered building described in _The Pickwick Papers_ as ‘a clean and commodious village ale-house’. After the novelist’s death it became one of the more attractive landmarks of Kentish ‘Dickens Country’ or ‘Dickens Land’, the area associated with Dickens and his characters. From the 1880s onwards a number of guides promoted this topography to literary tourists, urging them by the early twentieth century to walk or cycle in the fresh air for the sake of their health while literally seeing what Dickens had seen before them. 
 
@@ -23,3 +26,6 @@ See also [Mobile Landscapes](mobile-landscape)
 
 [^ref1]: Kitton, Frederick G. _The Dickens Country_. London: A. C. Black, 1925 [first published 1905], p.211.   
 [Leather Bottle - Scan by Philip V. Allingham](http://www.victorianweb.org/painting/haslehust/27.html)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAwNjg0NTYxOF19
+-->
