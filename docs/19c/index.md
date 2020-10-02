@@ -12,19 +12,22 @@
 [William Harrison Ainsworth](19c-ainsworth.biography)  
 [Jane Austen](19c-austen-biography)  
 [Robert Barr](19c-barr-biography)  
-[R. D. Blackmore](19c-blackmore-biography)  
+[R. D. Blackmore](19c-blackmore-biographyalice-lorraine-blackmore)  
 [F. C. Burnand](19c-burnand-biography)  
-[Joseph Conrad](19c-conrad-biography)   
+[Joseph Conrad](19c-conrad-biograph)  
+[Chatham Dockyard](19c-chatham-dockyard)  
+[Folkestone Free Library](19c-folkestone-free-library)   
 [Sir John Franklin](19c-franklin-biography)  
 [Sarah Grand](19c-grand-biography)   
 [George Grossmith](19c-grossmith-biography)  
 [Henry James](19c-jamesh-hever-castle)  
 [Jerome K. Jerome](19c-jerome-biography)   
 [Bessie Marchant](19c-marchantb-biography)  
-[G.W.M. Reynolds](19c-reynoldsgwm-biography)  
+[G.W.M. Reynolds](19c-reynoldsgwm)  
+[Bessie Marchant](19c-marchantb-biography)  
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
 [Mary Shelley](19c-shelleym-biography)  
-[Margaret Emily Shore](19c-shore-biography)  
+[Margaret Emily Shore](19c-shore-.biography)  
 [Princess Victoria](19c-victoria-albion-house)  
 
 ### Places
@@ -42,3 +45,6 @@
 
 [Hoodening](19c-hoodening)   
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIzMTk4NTY2MF19
+-->
