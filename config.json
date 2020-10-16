@@ -4,8 +4,12 @@
     "bannerHeight": 400,
     "mdRoot": "/docs",
     "components": [
-        {"name": "siteHeader", "src": "/components/Header.vue"},
         {"name": "siteFooter", "src": "/components/Footer.vue"}
+    ],
+    "nav": [
+        {"label": "Home", "icon": "home-alt", "path": "/"},
+        {"label": "About", "icon": "info", "path": "/about"},
+        {"label": "Help", "icon": "question", "path": "/help"}
     ],
     "gaTrackingID": "UA-148268745-1"
 }
