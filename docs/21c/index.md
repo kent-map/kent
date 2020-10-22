@@ -7,4 +7,8 @@
 
 <param ve-config title="21st Century Kent">
 
-[]()
+### People
+
+### Places
+
+### Events
