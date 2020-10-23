@@ -42,6 +42,8 @@ The next year in 1897 the Broadstairs Pier and Harbour Commissioners complained 
 
 Feeling active? You may want to try this [Turner and Dickens walk]( https://explorekent.org/activities/turner-dickens-walk/)
 
+## Article written by ## Professor Carolyn Oulton
+
 
 ## Bibliography
 
