@@ -1,6 +1,6 @@
 <param ve-config style="article">
 
-## Henry James 
+## Henry James (1863-1916)
 
 **Hever Castle** 1895-1907
 
@@ -22,7 +22,7 @@ In writing these works James is generally thought to have had Osterley Park, and
 
 James could hardly help seeing a good deal of Mrs Gracedew in William Waldorf Astor. Astor was also a figure in whom James saw a lot of himself, and with whom Van Wyck Brooks had explicitly compared him. In the same year, 1899, that brought Astor British citizenship, James had purchased (having previously rented) a historic property near the Kent-Sussex border: Lamb House in Rye. It is no wonder, as in an extensive rebuilding programme of his own James set about turning the short story that was previously a play back into drama again, that the fictional Covering End and the Boleyns’ Hever Castle came increasingly to coalesce.
 
-**Article written by:**
+**Article written by:** Dr Peter Merchant
 
 ### Bibliography 
 Ditchfield, P. H. and George Clinch. _Memorials of Old Kent._ London: Bemrose, 1907.   
