@@ -9,9 +9,9 @@ Hamilton and [Christopher St John]( 20c/20c-st-john-biography) co wrote the popu
 
 Hamilton wrote, ‘My personal revolt was feminist rather than suffragist; what I chiefly rebelled against was the dependence implied in the idea of  ‘destined’ marriage, ‘destined’ motherhood – the identification of success with marriage, of failure with spinsterhood, the artificial concentration of the hopes of girlhood on sexual attraction and maternity.’ [^ref2]
 
-Like her fellow writer [Christopher St John](20c/20c-st-john-biography), Cicely Hamilton began to have ‘doubts about unquestioning participating in political campaigns and unthinking obedience to political theatres’[^ref3]  (such as those organised by the main suffrage society the Women’s Social and Political Union). Both women remained dedicated to the cause of women’s suffrage and feminism, though in thinking about global politics throughout the 1930s Hamilton wrote, ‘it was in contact with the politics of pre-war days that I first began to realise its ugly moral possibilities’. CHECK REF
+Like her fellow writer [Christopher St John](20c/20c-st-john-biography), Cicely Hamilton began to have ‘doubts about unquestioning participating in political campaigns and unthinking obedience to political theatres’[^ref3]  (such as those organised by the main suffrage society the Women’s Social and Political Union). Both women remained dedicated to the cause of women’s suffrage and feminism, though in thinking about global politics throughout the 1930s Hamilton wrote, ‘it was in contact with the politics of pre-war days that I first began to realise its ugly moral possibilities’.[^ref4]
 
-Hamilton spent many holidays in Kent with the Trio – sometimes staying for months at a time – and occasionally used the remoteness of Small Hythe as an excuse to decline speaking engagements.  She wrote to a friend, ‘[We are] three miles from a light railway which eventually takes you to the South-Eastern.  It takes four hours or so to do the fifty or sixty miles from London.’ WHO IS THE CORRESPONDENT?
+Hamilton spent many holidays in Kent with the Trio – sometimes staying for months at a time – and occasionally used the remoteness of Small Hythe as an excuse to decline speaking engagements.  She wrote to a friend, ‘[We are] three miles from a light railway which eventually takes you to the South-Eastern.  It takes four hours or so to do the fifty or sixty miles from London.’ [^ref5]
 
 
 [_Smallhythe Suffragettes_](https://vimeo.com/393665654)
@@ -25,6 +25,10 @@ Hamilton spent many holidays in Kent with the Trio – sometimes staying for mon
 [^ref3]: Ibid 53.
 
 [^ref3]: Ibid 79.
+
+[^ref4]: Whitelaw, p 56.
+
+[^ref5]: Cicely Hamilton
 
 
 ### Bibliography:
