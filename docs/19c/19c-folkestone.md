@@ -16,6 +16,9 @@ But 'entertainments and distractions that might have attracted day trippers and 
 
 With characteristic irreverence, [Jerome K. Jerome](19c-jerome-biography) portrays the Leas as a setting for casual encounters of the kind that would have horrified its aristocratic vistors. In his account however it is not the morals of young women but the fate of his own bicycle that is to be lamented.
 
+
+**Article written by:** Professor Carolyn Oulton
+
 [^ref1]: Clunn 303.
 
 [^ref2]: Grandfield 67.
