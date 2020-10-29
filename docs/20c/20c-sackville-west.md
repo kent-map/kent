@@ -1,10 +1,9 @@
-<param ve-config title="Vita Sackville-West" author="Clare Nursey" layout="vtl" banner="URL here">
+<param ve-config title="Vita Sackville-West (1892-1962)" author="Clare Nursey" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/db/Sissinghurst_Castle%2C_Biddenden_Road%2C_Sissinghurst%2C_Kent_-_geograph.org.uk_-_1387067.jpg" attribution="Oast House Archive / Sissinghurst Castle, Biddenden Road, Sissinghurst, Kent">
 <param ve-entity eid="Q1971996">
 <param ve-entity eid="Q1285144">
 <param ve-entity eid="Q1547383">
 <param ve-entity eid="Q2204332">
 
-# Vita Sackville-West (1892-1962) 
 **Places** Sissinghurst, Knole, Long Barn, Groombridge Place
 
 >The autumn bonfire smokes across the woods
@@ -16,8 +15,6 @@ And the moon dwindled to her gibbous tithe
 ‘Sissinghurst’, 1930.
 <param ve-map primary center="Q1971996">
 <param ve-image iiif "https://raw.githubusercontent.com/kent-map/kent/develop/images/Sissinghurst%20Nursey.JPG" label="Sissinghurst Gardens, 2020" attribution="Clare Nursey">
-
-
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character. She was though a prolific and versatile writer herself - a celebrated poet (a candidate for the post of Poet Laureate in 1948) and author of fourteen novels, with those published in the 1930s proving both critically and commercially successful. Her poetry was unapologetically traditional in form, and her fiction too was largely traditional but with a distinctly poetic style.
 <param ve-map center="Q1971996">
