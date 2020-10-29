@@ -1,4 +1,3 @@
-CO to MC: images for this are ‘Sissinghurst ICVWW’ and ‘Sissinghurst Nursey’
 <param ve-config title="Vita Sackville-West" author="Clare Nursey" layout="vtl" banner="URL here">
 <param ve-entity eid="Q1971996">
 <param ve-entity eid="Q1285144">
@@ -16,6 +15,7 @@ And the moon dwindled to her gibbous tithe
 
 ‘Sissinghurst’, 1930.
 <param ve-map primary center="Q1971996">
+<param ve-image iiif "https://raw.githubusercontent.com/kent-map/kent/develop/images/Sissinghurst%20Nursey.JPG" label="Sissinghurst Gardens, 2020" attribution="Clare Nursey">
 
 
 
