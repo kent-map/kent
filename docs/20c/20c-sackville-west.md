@@ -8,8 +8,11 @@
 
 >The autumn bonfire smokes across the woods
 And reddens in the water of the moat;
+
 As red within the water burns the scythe 
+
 And the moon dwindled to her gibbous tithe
+
 	Follows the sunken sun afloat.
 
 ‘Sissinghurst’, 1930.
