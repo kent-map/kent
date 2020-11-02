@@ -22,7 +22,7 @@ You’ll need a map because there are no signposts...
 
 - author: Ken Moffat and Carolyn W. de la L. Oulton
 
-![](https://kent-map.github.io/kent/images/thumbnails/grammer-school-rochester.jpg)
+![](https://kent-map.github.io/kent/images/thumbnails/grammer-school-gate-rochester.jpg)
 
 The landscape Pip describes seems to alter as he moves across it.
 ##
