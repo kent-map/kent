@@ -1,5 +1,6 @@
 <param ve-config title="Kent"
        banner="/images/kent-map-header.jpg"
+       show-abstracts="true"
        layout="index">
 
 # Kent maps
@@ -34,14 +35,7 @@ The landscape Pip describes seems to alter as he moves across it.
 
 David Copperfield, like Pip in _Great Expectations_, shares the difficult story of what it means to become involuntarily fascinated, even obsessed: with grotesque figures, with landscapes, with the secrets of one’s own past.
 
-# Essays by period or theme
-
-##
-[**Dickens**](/dickens)
-
-![](https://kent-map.github.io/kent/images/thumbnails/dickens-head.jpg)
-
-One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
+# Essays by period
 
 ##
 [**16th century**](/16c)
@@ -84,3 +78,12 @@ Dover and Folkestone become the gateway to the Western Front during WW1. Seaside
 ![](https://kent-map.github.io/kent/images/thumbnails/21c.jpg)
 
 Regeneration and the rise of the DFL.
+
+# Featured Authors
+
+##
+[**Charles Dickens**](/dickens)
+
+![](https://kent-map.github.io/kent/images/thumbnails/dickens-head.jpg)
+
+One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
