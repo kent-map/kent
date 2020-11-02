@@ -20,6 +20,9 @@ Chaucer’s interest in Kent dates back to around 1375. In 1385 he was given per
 
 After Chaucer resigned from his role as “Clerk of the King’s Works” in 1391, he seems to have had some financial problems. His retirement in Kent could have provided access to different resources as well as distancing him from any reaction from the king for having quit his royal appointment.
 
-**Article written by:** Charli Worthington
+**Article written by:** Charlie Worthington
 
 ### Bibliography
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE3ODUwNTYyN119
+-->
