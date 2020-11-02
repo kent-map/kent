@@ -2,7 +2,7 @@
 
 ## Gladys Waterer (1885 - 1971)
 
-**Lived in:** 2 Nuckell’s Place (Dickens Museum) until death in 1971**  
+**Lived in:** 2 Nuckell’s Place (Dickens Museum) until death in 1971  
 
 **Place:** Broadstairs
 
@@ -14,7 +14,7 @@
 
 ### Article
 
-Gladys Waterer was best known in her lifetime as a dramatist and leading light of the [/dickens/bBroadstairs] branch of the Dickens Fellowship from its inauguration in 1837. Little else is known about her , except that by the 1930s she was living with Dora Tatum at [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place), the original of Aunt Betsey’s cottage in _David Copperfield_. For the initial festival she adapted _Pickwick_ with Nina Boreham, followed by _David Copperfield_ (complete with donkeys) in 1938. By 1964 she had tackled every one of the major works bar _Oliver Twist_, which she candidly admitted she couldn’t face living with for the eight months it would have taken to prepare a suitable play. 
+Gladys Waterer was best known in her lifetime as a dramatist and leading light of the [/dickens/broadstairs](Broadstairs) branch of the Dickens Fellowship from its inauguration in 1837. Little else is known about her , except that by the 1930s she was living with Dora Tatum at [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place), the original of Aunt Betsey’s cottage in _David Copperfield_. For the initial festival she adapted _Pickwick_ with Nina Boreham, followed by _David Copperfield_ (complete with donkeys) in 1938. By 1964 she had tackled every one of the major works bar _Oliver Twist_, which she candidly admitted she couldn’t face living with for the eight months it would have taken to prepare a suitable play. 
 
 But while her name appears only sporadically in newspapers and most often in connection with [Dickens](/dickens/dickens-biography), Waterer was herself the author of at least two novels, _The Third Chance_ (1912) and _The Lady in Mauve_ (1931). The earlier novel reflects her own interest in the politics of local amateur dramatic productions. Much of the tension devolves from the heroine Ethel’s triumphantly redemptive love for an alcoholic actor who once saved her from a teenage seduction and who is drafted in to make up the numbers in a provincial performance. Less than subtly disguised as Seagate, Eastgate and Haregate, the neighbouring towns of Margate, Ramsgate and Broadstairs provide an idyllic coastal setting, inflected with a keen and often witty observation of local culture. 
 
