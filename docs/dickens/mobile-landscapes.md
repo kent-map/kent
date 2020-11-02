@@ -216,6 +216,8 @@ Dickens is prone to moving places around; as a successful London author David te
 
 (1) 'One that is more tiring than one might imagine, and requires regular support in the shape of pies.'
 
+Carolyn talks to Katie Holdway about the research behind 'Mobile Landscapes' in a podcast for the Dickens Society [here](https://soundcloud.com/the-dickens-society?fbclid=IwAR3Vja7DvYKYBZYHbCti9pbGSOZGXkdPxPfIvvnWEUDwRDgidvy3R1xspjE)
+
 ### Bibliography
 
 Allbutt, R. (1886) _Rambles in Dickens land_
