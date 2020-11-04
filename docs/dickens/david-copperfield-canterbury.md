@@ -26,6 +26,8 @@ Dickens’ relationship with Canterbury was the basis of calls from locals such 
  
 Other landmarks still recognisable in the city include The Abode Hotel, (see [Mobile Landscapes](mobile-landscapes)) almost certainly the hotel Mr Dick stays in on his frequent visits to the city.
 
+Want to know more about [Dickens's links to Canterbury](https://www.canterbury.co.uk/info/24/history_and_heritage/63/canterburys_literary_links/2w)? Why not go for a walk round the city and find your own [Canterbury Connections](https://drive.google.com/file/d/1ijH_Pcg1JQ8KMtBShCS70j9IdLvth5i3/view)?
+
 ## Bibliography
 
 Dickens, Charles. _David Copperfield_. Oxford: World’s Classics, 1997.
