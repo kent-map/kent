@@ -7,7 +7,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Front_Facade_of_Godm
 
 >‘Are you pleased with Kent?’ 
 _Pride and Prejudice_
-<param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/794px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg">
+<param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/794px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg" label="Jane Austen">
 
 One of the greatest English novelists of all time, Jane Austen visited Kent regularly to see her brother, Edward Austen Knight, who lived first at Rowling House, near Goodnestone, where Austen stayed in 1794 and 1796, and later at the magnificent Godmersham Park, where Austen visited six times between 1798 and 1813.  During or shortly after her visit to Rowling in 1796, Austen began writing ‘First Impressions’, the story which was later published as _Pride and Prejudice_ in 1813.  The novel may reflect, in the figure of Lady Catherine De Bourgh, for example, some of the class snobbery Austen witnessed in mixing with what she termed “East Kent wealth”. 
 <param ve-entity eid="Q26324024">
