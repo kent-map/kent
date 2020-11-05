@@ -18,7 +18,7 @@ One of the greatest English novelists of all time, Jane Austen visited Kent regu
 During her extended stays with her brother, Austen enjoyed frequent trips to [Canterbury](19c-canterbury) as well as occasional outings to Ashford, Eastwell Manor, and [Ramsgate](/dickens/19c-ramsgate).  She often travelled into Kent via Dartford, where she and her family dined and lodged at the now-demolished Bull and George.  Her first experience of Kent, however, took place in 1788 on a visit to her great uncle Francis Austen in Sevenoaks.  At a grand meal he hosted at his stately Red House, Austen met the wealthiest branch of her family and, likely, drew inspiration for the dinner party at Grants’ rectory in _Mansfield Park_ (1814).[^ref1] (ODNB).  Visits to her brother also offered Austen access to his library, which comprised over 1200 books, among them biographical, historical, and religious writings, periodicals, dictionaries, and maps, as well as the latest novels of the day.[^ref2] (Reading with Austen).
 <param ve-entity eid="Q725261" aliases="Ashford">
 <param ve-entity eid="Q2540442" aliases="Eastwell Manor">
-<param ve-entity eid="Q17545495" aliases="The Red House, Sevenoaks">
+<param ve-entity eid="Q17545495" aliases="Red House">
 <param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/7/77/Eastwell_Manor_Hotel%2C_Boughton_Lees_-_geograph.org.uk_-_129089.jpg" label="Eastwell Manor Hotel, Boughton Lees - geograph.org.uk" attribution="Penny Mayes / Eastwell Manor Hotel, Boughton Lees">
 <param ve-map primary center="Q2540442" zoom="10">
 
