@@ -3,7 +3,7 @@
 
 ### c.1340s-1400
 
-**Places:** Woolwich, Combe, Canterbury
+**Places:** Canterbury, Woolwich
 
 >And specially, from every shires ende  
 Of Engelonde, to Canterbury they wende,  
