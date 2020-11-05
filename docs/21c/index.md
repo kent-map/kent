@@ -7,9 +7,7 @@
 
 <param ve-config title="21st Century Kent">
 
-
-### People  
-
+### People
 [David Seabrook](21c-seabrook-biography)  
 
 ### Places
