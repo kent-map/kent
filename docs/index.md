@@ -3,6 +3,7 @@
        show-abstracts="true"
        layout="index">
 
+# Kent Maps
 
 The site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
 
