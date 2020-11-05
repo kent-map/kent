@@ -26,4 +26,5 @@ After Chaucer resigned from his role as “Clerk of the King’s Works” in 139
 
 ### Bibliography
 
+Gray, D. "Geoffrey Chacuer." _Oxford Dictionary of National Biography_ 2004.
 Sanderlin, S. “Chaucer and Ricardian Politics.” _The Chaucer Review,_ vol. 22, no. 3, 1988, pp. 171–184. JSTOR, www.jstor.org/stable/25094045. Accessed 5 Nov. 2020.
