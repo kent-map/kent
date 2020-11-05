@@ -18,11 +18,11 @@ During her extended stays with her brother, Austen enjoyed frequent trips to [Ca
 <param ve-entity eid="Q29303">
 <param ve-entity eid="Q2540442">
 <param ve-entity eid="Q17545495">
-<param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/7/77/Eastwell_Manor_Hotel%2C_Boughton_Lees_-_geograph.org.uk_-_129089.jpg" attribution="Penny Mayes">
-<param ve-map primary center="Q2540442" zoom="8">
+<param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/7/77/Eastwell_Manor_Hotel%2C_Boughton_Lees_-_geograph.org.uk_-_129089.jpg" label="Eastwell Manor Hotel, Boughton Lees - geograph.org.uk" attribution="Penny Mayes / Eastwell Manor Hotel, Boughton Lees">
+<param ve-map primary center="Q2540442" zoom="10">
 
 Kent locations feature in several of Austen’s novels, and have been used as the sets for modern film and television adaptations as well.  Since at least the turn of the century, literary tourists have been interested in Jane Austen’s Kent connections, and books, guided walks, and place-related talks are now widely on offer. 
-<param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/3/31/The_Red_House%2C_Sevenoaks-geograph.org-3419824.jpg">
+<param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/3/31/The_Red_House%2C_Sevenoaks-geograph.org-3419824.jpg" label="The Red House, Sevenoaks -geograph.org" attribution="N. Chadwick / The Red House">
 
 ### Bibliography 
 Butler, Marilyn.  [Austen, Jane.](https://doi.org/10.1093/ref:odnb/904) [_Oxford Dictionary of National Biography._](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-904)
