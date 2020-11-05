@@ -1,7 +1,7 @@
 <param ve-config title="Jane Austen" author="Susan Civale" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Front_Facade_of_Godmersham_Park_-_geograph.org.uk_-_1490002.jpg">
 
-### Jane Austen - 16 December 1775 - 18 July 1817
+### 16 December 1775 - 18 July 1817
 
 **Places:** Ashford, Canterbury, Chilham, Dartford, Eastwell, Godmersham, Goodnestone & Rowling, Ramsgate, Sevenoaks, Tonbridge, Tunbridge Wells 
 
