@@ -73,7 +73,7 @@ Arrival of the railway. Development of recognisably modern tourist industry.
 Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
 ##
-[**21st century**](/coming)
+[**21st century**](/21c)
 
 ![](https://kent-map.github.io/kent/images/thumbnails/21c.jpg)
 
