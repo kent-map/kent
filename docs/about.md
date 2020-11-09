@@ -31,11 +31,6 @@ As the map grows so too will the capacity for making unforeseen connections. Whi
 Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. While carrying out research in Dickens Land she infringed enough bye laws to get herself hanged under the Bloody Code. But it was all Pip’s fault.
 
 ##
-**Ken Moffat**
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/Dickens_House_PH.png)
-
-Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 
 ##
 **Michelle Crowther**
