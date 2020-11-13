@@ -64,7 +64,7 @@ conveys a huge expanse. When he first meets the convict Magwitch in the churchya
 Little wonder that the route into Rochester seems more appealing. But here too there are obstacles and pitfalls. To reach Miss Havisham’s Satis House ‘up town’, Pip must first navigate the High Street. This means passing Pumblechook’s house and the provincial majesty of the Guildhall where he will feel like a convict himself when he is formally apprenticed to Joe, as well as braving the many watchful eyes of the town dwellers.
 <param ve-map center="Q26377461" zoom="14">
 
-At Satis House itself Pip’s initial reception is humiliating. Mocked by Estella for his coarse hands and thick boots, he determines to become a gentleman and rid himself of these outward signs of low status. Estella’s own pretension are undermined when it transpires that she is the daughter of a convict and a murderer. In a surreal twist to the story of this dignified young woman, Restoration House
+At Satis House itself Pip’s initial reception is humiliating. Mocked by Estella for his coarse hands and thick boots, he determines to become a gentleman and rid himself of these outward signs of low status. Estella’s own pretensions are undermined when it transpires that she is the daughter of a convict and a murderer. In a surreal twist to the story of this dignified young woman, Restoration House
 was bought and restored in the 1980s by entertainer Rod Hull and his irrepressible puppet Emu.
 <param ve-map center="Q26377461" zoom="13">
 <param ve-map-layer mapwarper active title="Kent 1820" mapwarper-id="38872">
