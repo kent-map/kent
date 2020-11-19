@@ -21,10 +21,8 @@ As the map grows so too will the capacity for making unforeseen connections. Whi
 ##
 **Carolyn Oulton**
 
-- twitter: @carolyn
-- facebook: @carolyn
-- linkedin: @carolyn
-- email: @carolyn
+- twitter: @cccu_humanities
+- email: carolyn.oulton@canterbury.ac.uk
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/CO_in_bookshop.jpg)
 
