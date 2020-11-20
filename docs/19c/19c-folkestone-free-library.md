@@ -8,10 +8,10 @@ Photo © Wayland Smith (cc-by-sa/2.0)  https://www.geograph.org.uk/photo/6441598
 Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act. Canterbury Museum and Public Library (now The Beaney) opened its doors in 1858, making it the first free library in England.
 Around twenty years later in 1879 the [Folkestone Free Library](https://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=32&uprn=50040690) was established on the Bayle,  although the initial catalogue was not published until 1881. The inclusion of blank pages to record any donations, coupled with the distinction between ‘Literature’ and ‘Novels and Fiction’ offers a clue to one of the challenges faced by librarian George Hills – many people objected to fiction being paid for out of public funds. The 1890 catalogue was arranged with the help of a deeply conservative local clergyman, the Rev. Hall, who personally eschewed all novelists later than [Dickens](https://kent-maps.online/dickens). Not surprisingly it has no separate heading for fiction at all. 
 
-When the library was moved from the Bayle to Grace Street in April 1888, it had the advantage of being in the same building as the town’s museum, and was able to provide a reading room, reference room, committee room and separate ladies’ room. One joker in 1893 suggested that the ‘Silence’ notice must have been hidden in the Ladies’ Reading Room;  nonetheless the library was employing female staff by at least 1896.  
-
 ![Image: Library Indicator ‘Kent Archive and Local History Service’ https://www.kentarchives.org.uk/
 ](images/library indicator1.jpg){: .right .dropshadow}
+
+When the library was moved from the Bayle to Grace Street in April 1888, it had the advantage of being in the same building as the town’s museum, and was able to provide a reading room, reference room, committee room and separate ladies’ room. One joker in 1893 suggested that the ‘Silence’ notice must have been hidden in the Ladies’ Reading Room;  nonetheless the library was employing female staff by at least 1896.  
 
 Determined to maintain its standards, the library had strict regulations, including ‘No person shall be admitted who is in an intoxicated or dirty condition…’  Presumably not for this reason, a separate children’s section was considered unnecessary until the twentieth century. 
 
