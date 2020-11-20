@@ -19,13 +19,13 @@ Nor was the open access system adopted until 1910. Before then anyone wanting to
 
 [H. G. Wells](/19c-wells-biography) sends Kipps to the Folkestone library in 1905, where he claims nervously, ‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather. I was just ‘aving a look at this Indicator. First-class idea. Tells you all you want to know’. 
 
-![Image: Kipps in Folkestone Library ‘Kent Archive and Local History Service’ https://www.kentarchives.org.uk/](images/kippsinfolkestonelibrary.jpg){: .right .dropshadow}
-
 In 1902 Rev. Hall and a group of ‘lady volunteers’ helped the librarian to re-catalogue the collection, taking the opportunity to purge it of obsolete volumes. Predictably some of the more sensational titles disappeared at this point. Nonetheless a slight spike in the acquisition of non-canonical Victorian fiction may speak to a moment of nostalgia either at the fin de siècle (the last extant catalogue is from 1896) or in the wake of Victoria’s death the year before. 
 
 Hill would doubtless have been relieved to know that in 1926 the library flatly refused one donation. Aylmer Maude’s _The Life of Dr Marie Stopes_ commemorating the famously controversial _Married Love_ author, contains no direct reference to birth control, but almost fifty years after the library first opened its doors it was still being careful about who came through them. 
 
 ### Bibliography
+
+![Image: Kipps in Folkestone Library ‘Kent Archive and Local History Service’ https://www.kentarchives.org.uk/](images/kippsinfolkestonelibrary.jpg){: .right .dropshadow}
 
 Catalogues of the Folkestone Free Library, 1881, 1896. Held in Folkestone Library.
 
