@@ -61,6 +61,9 @@ Carla Danella has a BA from Wellesley College (in the US) and recently completed
 ##
 **Katie Holdway**
 
+- twitter: @KatieVHoldway
+- email: K.V.Holdway@soton.ac.uk
+
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/katieholdway.JPG)
 
 Katie Holdway is a PhD researcher in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, Romance, Revolution & Reform and a member of the Dickens Society Communications Committee.
@@ -123,6 +126,8 @@ Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. S
 
 ##
 **Martin Watts**
+
+- email: martin.watts@canterbury.ac.uk
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/MartinWatts (2).JPG)
 
