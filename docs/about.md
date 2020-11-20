@@ -99,14 +99,16 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 ##
 **Jacquie Stamp**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/jstamp.jpg)
+- twitter: @jactweet99  
 
-Jacquie is in the final year of a PhD in English Literature at Canterbury Christ Church University, where her research focuses on representations and perceptions of the Arctic in the Long-Nineteenth-Century. Her other interests include Cotswold and Molly Style Morris Dancing, the life and work of Charles Dickens, and the history of her adopted county of Kent.
+https://c19arcticrepresentations.wordpress.com/ ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/jstamp.jpg)
+
+Jacquie Stamp is in the final stages of a PhD in English Literature at Canterbury Christ Church University, where her research focuses on representations and perceptions of the Arctic in the Long-Nineteenth-Century. Having gained an MA in Dickens and Victorian Culture at the University of Kent in 2016, she maintains an active interest in all things Dickensian as well as in the history and condition of her adopted county. In the summer months, however, she can often be found dancing either Cotswold or Molly Style Morris at a variety of locations around the UK – and beyond.    
     
 ##
 **Marnie Stanley**
 
-- twitter: @KatieVHoldwaymarnie_moonchild_ 
+- twitter: @marnie_moonchild_ 
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/marnie1.jpg)
 
