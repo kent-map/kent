@@ -15,7 +15,7 @@ In 1900, she bought her last home, Smallhythe Place, a Tudor farmhouse in the Ke
 
 Ellen Terry wrote of her new home: ‘It’s pretty rough at the Farmhouse! ‘The simple life’ indeed! But at least there’s a jolly big Bath there.’ [^ref3]
 
-She gifted the adjacent ‘Priest’s House’ to her daughter, Edith [‘Edy’ Craig](/20c-craig-biography), who lived in it with her life partners – the writer [Christopher St John](/20c-st-john-biography) (Christabel Marshall), and after 1916 with St John and the artist, Clare ‘Tony’ Atwood. 
+She gifted the adjacent ‘Priest’s House’ to her daughter, Edith [‘Edy’ Craig](20c-craig-biography), who lived in it with her life partners – the writer [Christopher St John](20c-st-john-biography) (Christabel Marshall), and after 1916 with St John and the artist, Clare ‘Tony’ Atwood. 
 
 Ellen Terry wrote about life with Edy at Smallhythe Place (then called The Farm) in a letter to George Bernard Shaw (14 June 1904), ‘Edy is here. Did I tell you she is my right hand, and still growing to be my left hand, and happy as a sandboy all the while? I fear to be too happy in her – I try to very quiet with it all. She has a cottage of her own here and we visit each other every day!’ [^ref4]
 
