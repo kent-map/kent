@@ -106,6 +106,8 @@ Jacquie is in the final year of a PhD in English Literature at Canterbury Christ
 ##
 **Marnie Stanley**
 
+- twitter: @KatieVHoldwaymarnie_moonchild_ 
+
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/marnie1.jpg)
 
 Marnie Stanley is a student at Canterbury Christ Church University
