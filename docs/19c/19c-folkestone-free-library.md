@@ -14,7 +14,9 @@ Determined to maintain its standards, the library had strict regulations, includ
 
 Nor was the open access system adopted until 1910. Before then anyone wanting to borrow a book would have to brave a possibly disapproving librarian, having first consulted the library ‘indicator’. This simple device – dividing titles firmly into categories - showed readers whether a book was available or in use. 
 
-Image: Library Indicator ‘Kent Archive and Local History Service’ https://www.kentarchives.org.uk/
+![Image: Library Indicator ‘Kent Archive and Local History Service’ https://www.kentarchives.org.uk/
+](images/library indicator1.jpg){: .right .dropshadow}
+
 
 [H. G. Wells](/19c-wells-biography) sends Kipps to the Folkestone library in 1905, where he claims nervously, ‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather. I was just ‘aving a look at this Indicator. First-class idea. Tells you all you want to know’. 
 
