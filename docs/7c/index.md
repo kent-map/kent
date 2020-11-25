@@ -5,16 +5,8 @@
     a {color: #800000 !important; font-size: 1.2em;}
 </style>
 
-<param ve-config title="21st Century Kent">
+<param ve-config title="Saxon Kent">
 
+### People
 
-### People  
-
-[David Seabrook](21c-seabrook-biography)  
-
-### Places
-
-### Events[]()
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTU2NTY0NF19
--->
+St Eanswythe

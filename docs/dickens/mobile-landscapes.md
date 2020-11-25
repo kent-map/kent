@@ -87,7 +87,7 @@ Buoyed by our success, we made our way back down the High Street, where it was c
 ##  (In which we don’t go to) Folkestone
 
 Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbury. [Jerome](/19c/19c-jerome-biography)’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is [Broadstairs](broadstairs), been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of [Folkestone](dickens-folkestone). Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
-<param ve-image mirador primary manifest="https://kent-map.github.io/kent/manifests/folkestone.json">
+<param ve-image iiifmirador primary manifest="https://kent-map.github.io/kent/manifests/folkestone.json">
 
 [Great Expectations: A curated walk](great-expectations-curated-walk)
 
@@ -97,7 +97,7 @@ Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbur
 In [Broadstairs](broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover](dickens-dover) ), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
  
 The day we went to find Pip Pirrip nothing was initially visible from anywhere. Finding Dickens’s local church when we weren’t actually looking felt like an achievement at the time, although with hindsight it just makes us look incompetent. In any case it was locked, so we wandered around outside for a few minutes, took a picture of a gargoyle and left.
-<param ve-image primary url="images/Chalk Church.jpg" title="Chalk Church ©Ken Moffat" fit="contain" rotate="90">
+<param ve-image iiif primary url="images/Chalk Church.jpg" title="Chalk Church ©Ken Moffat" fit="contain" rotate="90">
 
 But the real stumbling block was Joe Gargery’s forge. In our determination not to miss it we must have stopped at every plausible cottage in a five mile radius. Finally we found one called The Old Forge in Chalk, believed to be the village described in the book. There was no obvious place to park, and anyway it was raining. But we had come here to feel something, so we stashed the car a hundred yards down a narrow lane, marched back in single file and tried not to look like burglars as we stared wanly at the cladding on the walls and told each other it was typically Kentish. Pip arrives back at the forge from his encounter with Magwitch cold, damp and frightened. We were cold, damp and slightly inhibited by thinking what fools we’d feel if this turned out to be the wrong house.
 <param ve-image primary url="images/Forge Cottage Chalk.JPG" title="Forge Cottage, Chalk ©Ken Moffat">
@@ -105,7 +105,7 @@ But the real stumbling block was Joe Gargery’s forge. In our determination not
 ## Cooling
 
 And then the moment that somehow changed everything. Reading the first scene of the novel where it is meant to have happened, in the churchyard of [Cooling Church](great-expectations-cooling). The church porch is small with a bench on each side. Imagine sitting on one of these benches, legs pulled up in front of you, leaning back towards the church. From here you can see straight ahead into the churchyard. There is the tomb stone, just a few feet away, where Magwitch hoists Pip and demands a file and wittles. Imagine that facing you on the other bench someone is sitting with a scuffed paperback copy of the novel, open at the first page. They are not in your line of vision but you know that they can see you. You want them to see you, to register this book being written on your face. There is more than one voice here, you can hear the roughness of the man assuming rights over a child he has never met; the diffidence of the boy as he introduces his parents, the names of the dead who stand witness and can do nothing. You want to help, but it’s too late, and you know what will happen next but there’s nothing you can do. And you know how it will end – a fading away, the closing of the book, and silence. That will be thank you. You’ll have to move, look at each other, but that’s ok, you’ve done this before. And then you’re running through the rain, towards the river.
-<param ve-image primary url="images/Cooling churchyard.jpg" title="Cooling Churchyard" rotate="90" attribution="">
+<param ve-image iiif primary url="images/Cooling churchyard.jpg" title="Cooling Churchyard" rotate="90" attribution="">
 <param ve-map center="Q2649453" zoom="10">
 
 This is the river down which Pip will row so desperately in his abortive attempt to smuggle Magwitch out of the country from Gravesend. We nearly ended up in it when the sat nav helpfully directed us to the [Ship and Lobster](great-expectations-ship-and-lobster) via a small yard hemmed in by industrial buildings, and over a jetty. Convinced we had taken a wrong turning we reversed cautiously back out and down the back road by which we’d just arrived. For one moment it seemed that lunch was going to be a burger from a layby kiosk. But before we gave in it was worth approaching those men in luminous yellow – you did just address them as ‘mate’, didn’t you? – and asking if the pub was nearby. Some gesticulating, much nodding, a word that sounded like ‘mate’ repeated several times; by this point the driver feared she might be eating alone. (It’s an experience in itself observing a male bonding ritual and marvelling at how much mileage can seemingly be got out of this one word). And then we were moving slowly back in the direction of the yard.
@@ -154,13 +154,13 @@ A child on the opposite bench clearly didn’t care what he called them and went
 Pip detected guiltily looking at his feet. Distracted glance in our direction from mother of still indifferent child. Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
 
 It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella in the very [Guildhall](great-expectations-guildhall) (now a [museum](https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/) ) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/GuildhallRochester.jpg" title="Guild Hall, Rochester" attribution="Wikimedia Commons">
+<param ve-image primary url="https://upload.wikimedia.org/wikipedia/commons/7/70/GuildhallRochester.jpg" title="Guild Hall, Rochester" attribution="Wikimedia Commons">
 
 Back in the High Street it was clearly time for further refreshments. With only a cursory nod to the [Swiss Chalet](dickens-swiss-chalet), now held in the garden of the Nun’s House (otherwise [Eastgate House](edwin-drood-eastgate-house)) beloved of Rosa Budd in _The Mystery of Edwin Drood_ (as one email memorably put it around this time, ‘With a few minor exceptions, I would merrily strangle most Dickens heroines with my own hands’), we spotted a charming looking establishment, went through the door and straight into Estella. The real one this time. She was at least seven foot tall, immaculately turned out and quite determined that if she had to serve us at all, we were both going to have tea. Pip, who by this time had had about enough, calmly explained that while his friend was indeed having tea, he himself had endured as much abuse as he was going to take from a fictional character, and had in fact asked her for a glass of moët. 
 ‘So what,’ she demanded in icy tones, ‘am I meant to do with this tea?’
 ‘Drink it yourself’ suggested Pip promptly.
 Her expression as she poured it down the sink would have shaken anyone but a born teacher.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Eastgate_House%2C_Rochester_High_St.JPG" title="Eastgate House, Rochester High St." attribution="Wikimedia Commons">
+<param ve-image primary url="https://upload.wikimedia.org/wikipedia/commons/6/64/Eastgate_House%2C_Rochester_High_St.JPG" title="Eastgate House, Rochester High St." attribution="Wikimedia Commons">
 
 Gratifyingly we had a cool half hour in which to show that she didn’t scare _us_, before suddenly remembering the meter and making a less dignified exit than we might have chosen. 
 
@@ -234,5 +234,5 @@ Kitton, F. (1925) _The Dickens Country_ London: A. C. Black, [first published 19
 [^ref2]: Allbutt, R. (1886) _Rambles in Dickens land_
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgxNjUzNzNdfQ==
+eyJoaXN0b3J5IjpbLTQ3MDUyNDI5OSwtMTgzODE2NTM3M119
 -->
