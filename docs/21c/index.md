@@ -7,14 +7,9 @@
 
 <param ve-config title="21st Century Kent">
 
-
-### People  
-
+### People
 [David Seabrook](21c-seabrook-biography)  
 
 ### Places
 
-### Events[]()
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTU2NTY0NF19
--->
+### Events

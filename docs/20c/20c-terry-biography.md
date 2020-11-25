@@ -45,3 +45,4 @@ Holroyd, M. (2009) _A Strange Eventful History: The Dramatic Lives of Ellen Terr
 St John, C. (1931) (ed.) _Ellen Terry and George Bernard Shaw: A Correspondence._ Max Reinhardt. 
 
 St John, C. (1933) (ed.) _Ellen Terry's Memoirs._ Victor Gollancz Ltd.
+

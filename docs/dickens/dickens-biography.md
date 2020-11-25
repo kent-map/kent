@@ -29,6 +29,4 @@ His two most obviously autobiographical novels, _David Copperfield_ (1850) set p
 After his death the areas of Kent most closely associated with Dickens and his novels became the focus for numerous guide writers and literary '''pilgrims'''. As the fresh air movement took hold in the early years of the twentieth century, designated Dickens ‘rambles’ and cycling tours were promoted as a means of engaging with a revered writer while escaping the demands and pollution of London.
 
 **Article written by:** Professor Carolyn Oulton
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjUxMDY3NTZdfQ==
--->
+

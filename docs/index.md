@@ -1,9 +1,9 @@
-<param ve-config title="Kent"
+<param ve-config title="Kent Digital Map"
        banner="/images/kent-map-header.jpg"
        show-abstracts="true"
        layout="index">
 
-# Kent maps
+# Kent Maps
 
 The site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
 
@@ -73,7 +73,7 @@ Arrival of the railway. Development of recognisably modern tourist industry.
 Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
 ##
-[**21st century**](/coming)
+[**21st century**](/21c)
 
 ![](https://kent-map.github.io/kent/images/thumbnails/21c.jpg)
 

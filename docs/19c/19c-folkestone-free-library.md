@@ -1,6 +1,6 @@
 # Folkestone Free Library
 
-**Founded 1879
+**Founded 1879**
 
 ![Image: Folkestone Library
 Photo © Wayland Smith (cc-by-sa/2.0)  https://www.geograph.org.uk/photo/6441598](images/geograph-6441598-by-Wayland-Smith.jpg){: .right .dropshadow}
@@ -41,5 +41,3 @@ _Folkestone Visitors’ List and Society Journal_ [Holbein Visitors’ List and 
 Index to the Folkestone Chronicle 1855-1886. Held in Folkestone Library.
 
 Wells, H. G. _Kipps_. London: Weidenfeld and Nicolson, 2010.
-
-
