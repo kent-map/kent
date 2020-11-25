@@ -42,7 +42,7 @@ By the end of the century Margate itself had seemingly embraced its populist rep
 
 ![Joseph Mallord William Turner, ‘A Distant View of Margate After Sunset’, c.1840, Tate (N05239), digital image © Tate released under Creative Commons CC-BY-NC-ND (3.0 Unported)](images/distantMargate.jpg){: .right .dropshadow} 
 
-This ambivalence is brilliantly captured by 20th century author Pamela Wynne, when she sends a disdainful WW1 veteran to Margate to recover from shell shock. While the patient refers disparagingly to ‘a filthy place called Margate’  his valet remembers ‘all the trembling joy’ of his Victorian childhood holidays. ‘But as he stepped down onto the Margate platform he was majestic again. He had a position to keep up, and there would be a car to meet him.’[^ref32] 
+This ambivalence is brilliantly captured by 20th century author [Pamela Wynne](20c/20c-wynne-biography), when she sends a disdainful WW1 veteran to Margate to recover from shell shock. While the patient refers disparagingly to ‘a filthy place called Margate’  his valet remembers ‘all the trembling joy’ of his Victorian childhood holidays. ‘But as he stepped down onto the Margate platform he was majestic again. He had a position to keep up, and there would be a car to meet him.’[^ref32] 
 
 21st century visitors are still divided on the question ['Are the arts saving Margate?'](https://www.bbc.co.uk/programmes/p07vs8sz) <param ve-video id="wizsp07vs8sz" title="Are the arts saving Margate"></var>
 https://www.bbc.co.uk/programmes/p07vs8sz
