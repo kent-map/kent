@@ -8,10 +8,10 @@
 <param title="Charles Dickens" eid="Q5686">
 <param title="Chalk" eid="Q5068781" aliases="the village|the town">
 <param title="Chatham" eid="Q729006">
-<param title="Cooling Marshes" geojson="https://kent-map.github.io/dickens/geojson/marshes.json" fill-opacity="0.4" article="Cooling_marshes" aliases="the marshes">
+<param title="Cooling Marshes" geojson="/geojson/marshes.json" fill-opacity="0.4" article="Cooling_marshes" aliases="the marshes">
 <param title="Cooling" eid="Q2649453">
 <param title="Compeyson" eid="Q5156367" article="Compeyson">
-<param title="Dover Road" geojson="david-copperfield-dover-road">
+<param title="Dover Road" geojson="/geojson/david-copperfield-dover-road">
 <param title="Estella" eid="Q5400904" article="Estella">
 <param title="Folkestone" eid="Q375314">
 <param title="Gravesend" eid="Q676689">
