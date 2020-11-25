@@ -29,9 +29,3 @@ Belgian refugee Fredo Franzoni’s painting ‘Landing of the Belgian Refugees�
 
 
 Adapted from an exhibition in [Folkestone Museum](https://folkestonemuseum.co.uk/) curated by Maddie Pettit in 2018.
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTM0MDE3NzZdfQ==
--->
