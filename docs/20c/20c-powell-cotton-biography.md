@@ -1,3 +1,5 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+
 <param ve-config title="Diana and Tony Powell-Cotton" author="Janet Dunn" layout="vtl" banner="images/kent-map-header.jpg">
 
 <param ve-entity="Birchington" eid="Q865021">
