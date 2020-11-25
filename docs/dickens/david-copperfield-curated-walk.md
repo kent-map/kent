@@ -16,7 +16,7 @@
 <param title="David Copperfield" eid="Q189811">
 <param title="David Copperfield" eid="Q5232561" aliases="David" article="David">
 <param title="Dover" eid="Q179224">
-<param title="Edward Murdstone" eid="Q5344551" aliases="Mr Murdstone" article="Mr_Murstone">
+<param title="Edward Murdstone" eid="Q5344551" aliases="Mr Murdstone" article="Mr_Murdstone">
 <param title="Great Expectations" eid="Q219552">
 <param title="Greenwich" eid="Q179385">
 <param title="Kent" eid="Q23298">
