@@ -2,7 +2,10 @@
 banner="https://upload.wikimedia.org/wikipedia/commons/d/da/a photo to go on the banner strip.jpg">
 <param ve-entity eid="Q2019734" aliases="Goudhurst">
 <param ve-entity eid="Q4874056" aliases="Horsmonden">
-
+<param ve-entity eid="Q24660387" aliases="Sissinghurst">
+<param ve-entity eid="Q663588" aliases="Biddenden">
+<param ve-entity eid="Q69992873" aliases="Iden Green"
+<param ve-entity eid="Q2686542" aliases="Benenden">
 
 
 ### 1920-2001
