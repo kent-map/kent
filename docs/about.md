@@ -95,6 +95,16 @@ Peter Merchant is Principal Lecturer in English at Canterbury Christ Church Univ
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/Dickens_House_PH.png)
 
 Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
+
+##
+**Max Saunders**
+
+- twitter: @SaundersMax
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/maxsaunders.jpg)
+
+Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of Ford Madox Ford: A Dual Life (2 vols, 1996; paperback 2012); Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature (2010); and Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series, 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020).
+
     
 ##
 **Jacquie Stamp**
