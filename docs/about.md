@@ -45,7 +45,7 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 ##
 **Claire Bartram**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/clairebartram.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/claire bartram.jpg)
 
 ##
 **Simone Blandford**
@@ -115,7 +115,7 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 ##
 **Pete Orford**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/peteorford.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/peteorford.JPG)
 
 ##
 **Jeremy Page**
