@@ -40,8 +40,12 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 ##
 **Laura Allen**
 
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/lauraallen.jpg)
+
 ##
 **Claire Bartram**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/clairebartram.jpg)
 
 ##
 **Simone Blandford**
@@ -59,6 +63,9 @@ Susan is Senior Lecturer in Romanticism at Canterbury Christ Church University. 
 
 ##
 **Kaitlyn Cowling**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/kaitlyncowling.jpg)
+
 
 ##
 **Carla Danella**
@@ -108,8 +115,12 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 ##
 **Pete Orford**
 
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/peteorford.jpg)
+
 ##
 **Jeremy Page**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/jeremypage.jpg)
 
 ##
 **Max Saunders**
@@ -163,3 +174,8 @@ Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. S
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/MartinWatts (2).JPG)
 
 Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History at Canterbury Christ Church University. His research interests include the industrial revolution, welfare and the state, the two world wars and naval history. Martin has written courses covering the effect of the industrial revolution and the world wars upon society in Kent, with an emphasis on the strategic importance of the county to the defence of the United Kingdom.
+
+##
+**Charlie Worthington**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/charlieworthington.jpg)
