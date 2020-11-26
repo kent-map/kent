@@ -97,6 +97,13 @@ Alyson Hunt is a recent PhD survivor and long-time research associate of the Int
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/Mandyjones1.jpg)
 
 Mandy Jones is a PhD researcher at CCCU. She spends her time telling anyone who’ll listen (and even those who won’t) that Victoria Holt is an important but neglected author who needs reclaiming as a neo-Victorian novelist. She is thrilled that this project is literally putting Victoria Holt on the map.
+
+##
+**Helena Kelly**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/helenakelly.jpg)
+
+Helena Kelly holds a doctorate from the University of Oxford but is currently an independent scholar, her most recent academic position being a stipendiary lectureship at Mansfield College, Oxford. She is the author of a number of academic pieces on eighteenth and nineteenth century literature and of a popular book, _Jane Austen, the Secret Radical_ (2016). Her work on Charles Dickens includes articles (published and forthcoming) in The Dickensian, Dickens Quarterly, and Notes and Queries and a biography, which is still a work in progress. She grew up in the Medway Towns.
     
 ##
 **Peter Merchant**
