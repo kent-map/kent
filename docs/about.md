@@ -42,6 +42,8 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/lauraallen.jpg)
 
+Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eliza Haweis Fanclub. When she’s not busy reading advice on how to be a proper Victorian lady, you will likely find her in a quaint old pub with a Kentish cider and a battered old copy of Jane Eyre.
+
 ##
 **Claire Bartram**
 
