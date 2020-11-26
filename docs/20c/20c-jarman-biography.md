@@ -1,5 +1,9 @@
 <param ve-config title="Derek Jarman" author="Jeremy Page" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/d/da/a photo to go on the banner strip.jpg">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+<param ve-entity eid="Q2602144" aliases="Old Romney">
+<param ve-entity eid="Q911577" aliases="Dungeness">
+<param ve-entity eid="Q590422" aliases="Northwood">
 
 ### 1942-1994
 
