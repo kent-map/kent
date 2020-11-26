@@ -16,6 +16,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/d/da/a photo to go on the
 >‘It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen.  He had been born in Chicago, and served as a navigator in the US Army Air Force during the war.  He returned to study at the Art Institute of Chicago, where he won a travelling fellowship which took him to Paris for a year. He stayed for a decade. After a couple of successful exhibitions in London he moved there in 1960, producing a breakthrough series of large shimmering paintings of the Thames, followed by another sell-out exhibition of pictures on the theme of the Commedia dell’Arte. 
 
 In 1963, Cohen and his second wife Diana were looking for a studio. They drove to Kent to visit architect friends who had just bought an old mill near Goudhurst. On the way back they drove past a striking coach house of a grand Queen Anne-style red-brick mansion called Ballards, on the road to Horsmonden. The Coach House was for sale, and its stables offered plenty of studio space under the coachman’s quarters. 
+<param ve-map primary center="Q2019734" zoom="10">
 <param ve-image url="images/ballards.jpg" label="The Coach House, Ballards, Near Goudhurst, in 1963. Photo: Alfred Cohen Archive"> 
 
 >‘We drove to the estate agent’s office and bought it immediately, Diana Cohen recalled: ‘We then drove back to explore the nearby village of Goudhurst – which we hadn’t yet seen – and there we found one of the prettiest villages in Kent. We were enchanted’. 
@@ -32,6 +33,7 @@ From the mid-1960s Cohen’s paintings became more heavily worked, with increase
 <param ve-image url="images/neargoudhurst.jpg" label="Alfred Cohen, Near Goudhurst, 1965, oil on board, 9.75 x 11.in; 24.8 x 29.9 cm. © The Artist’s Estate. Collection: Diana Cohen. Photo: Peter Huggins"> 
 
 <param ve-image url="images/walmerlifeboat.jpg" label="Alfred Cohen, The Walmer Lifeboat and the Goodwin Sands, 1964, casein on board, 18 x 24 in; 45.7 x 61 cm. © The Artist’s Estate. Photo: Peter Huggins. Arts Council England"> 
+<param ve-map primary center="Q2551894" zoom="10">
 
 Cohen’s British landscapes were well-received, with critics continuing to praise his compositional intelligence. ‘He uses the inter-relationship of houses, trees, fields and roads as excitingly as any abstract painter’, said the Jewish Chronicle, adding that ‘the pictures are intensely alive both as paint and as nature’.  
 
@@ -43,7 +45,7 @@ To the Conoisseur, his ‘landscapes ha[d] the look of ancient stained glass’.
 
 In 1970 they sold the Coach House and moved eight miles away to a house off the road between Sissinghurst and Biddenden, just opposite Sissinghurst Castle, where Virginia Woolf’s lover [Vita Sackville-West]( 20c-sackville-west) and Harold Nicolson had lived, and made the gardens famous. Copden House was at this time a small gamekeeper’s cottage. It was built of attractive red brick alternating with black header bricks to make a chequered pattern. It was set in the middle of its own woodland of some nine-acres, with a long drive down from the road. At the other end the birch trees led down to a stream, with trout and even otters. They had felt Goudhurst was becoming increasingly suburbanised; Copden wood was remote and inaccessible; nobody was going to build near it. There was an old outbuilding that had originally been a game larder. The property been part of the Cornwallis estate. The second Baron Cornwallis had been the Lord Lieutenant of Kent, and had used it as a shooting or hunting lodge. Alfred decided the game larder would make a good studio. So the first thing they did was convert that so that he could work while they were doing up the rest of the house, which 
 needed plenty of work. He enjoyed visualising how to bring out a house’s full potential, and making sketches for the architects and builders to realise:
-
+<param ve-map primary center="Q24660387" zoom="10">
 <param ve-image url="images/titlehere.jpg" label="Copden House in 1970. Photo: Alfred Cohen Archives"> 
 
 <param ve-image url="images/titlehere.jpg" label="Copden House in 1974. Photo: Alfred Cohen Archive"> 
@@ -53,7 +55,7 @@ Cohen continued to show in London’s West End galleries, but the country now pr
 <param ve-image url="images/titlehere.jpg" label="Alfred Cohen, Folkestone, 1974, oil on hardboard, 16 x 20 in; 40.6 x 50.8 cm. © The Artist’s Estate. Private Collection. Photo: Peter Huggins"> 
 
 Creative conversions were to become a sideline. In the mid-70s the Cohens moved again. This time they had bought an unusual oast house – with a solitary, square oast – and eighteenth-century barn near Iden Green and Benenden. These were unconverted farm buildings, so they moved into another house in Iden Green they had converted but been unable to sell as the property market crashed. Scullsgate Oast nestled in a secluded corner well off a very quiet lane, and with beautiful views over sheep fields. But it proved a greater challenge than they’d imagined Though the beams of the barn were still sound, they had no foundations, so builders had to dig underneath the frame and fill trenches with concrete. The roof and cladding all needed replacing, and there were no facilities. It was like building a very large new house, only with the inconvenience of having to do it round the old oak structure. But it made a marvellous, dramatic open space, perfect for a large studio. They put in a balcony and a bathroom above, adjoining the master-bedroom in the top of the oast. 
-
+<param ve-map primary center="Q2686542" zoom="10">
 <param ve-image url="images/titlehere.jpg" label="Scullsgate Oast, Benenden, c. 1978. Photo: Alfred Cohen Archive"> 
  
 <param ve-image url="images/titlehere.jpg" label="Alfred Cohen in his studio at Scullsgate Oast, 1978. Photo: Alfred Cohen Archive."> 
