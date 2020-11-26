@@ -1,5 +1,9 @@
 <param ve-config title="Alfred Cohen" author="Professor Max Saunders" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/d/da/a photo to go on the banner strip.jpg">
+<param ve-entity eid="Q2019734" aliases="Goudhurst">
+<param ve-entity eid="Q4874056" aliases="Horsmonden">
+
+
 
 ### 1920-2001
 
