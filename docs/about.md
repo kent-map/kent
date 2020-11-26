@@ -101,7 +101,7 @@ Mandy Jones is a PhD researcher at CCCU. She spends her time telling anyone whoâ
 ##
 **Helena Kelly**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/helenakelly.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/helenakelly.JPG)
 
 Helena Kelly holds a doctorate from the University of Oxford but is currently an independent scholar, her most recent academic position being a stipendiary lectureship at Mansfield College, Oxford. She is the author of a number of academic pieces on eighteenth and nineteenth century literature and of a popular book, _Jane Austen, the Secret Radical_ (2016). Her work on Charles Dickens includes articles (published and forthcoming) in The Dickensian, Dickens Quarterly, and Notes and Queries and a biography, which is still a work in progress. She grew up in the Medway Towns.
     
