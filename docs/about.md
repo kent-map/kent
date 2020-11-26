@@ -38,6 +38,12 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 # Authors
 
 ##
+**Laura Allen**
+
+##
+**Claire Bartram**
+
+##
 **Simone Blandford**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/simoneblandford.jpg)
@@ -50,6 +56,9 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/susancivale.jpg)
 
 Susan is Senior Lecturer in Romanticism at Canterbury Christ Church University.  Her research focuses on women’s writing of the long nineteenth century, life writing, and authorial and textual afterlives.  Her monograph, Romantic Women's Life Writing: Reputation and Afterlife (Manchester University Press, 2019), explored how the publication of women’s ‘private’ lives, through diaries, auto/biographies, letters, and memoirs, influenced their literary afterlives.
+
+##
+**Kaitlyn Cowling**
 
 ##
 **Carla Danella**
@@ -95,6 +104,12 @@ Peter Merchant is Principal Lecturer in English at Canterbury Christ Church Univ
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/Dickens_House_PH.png)
 
 Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
+
+##
+**Pete Orford**
+
+##
+**Jeremy Page**
 
 ##
 **Max Saunders**
