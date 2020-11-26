@@ -1,3 +1,4 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Ford Madox Ford" author="Professor Max Saunders" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/d/da/a photo to go on the banner strip.jpg">
 <param ve-entity eid="Q642884" aliases="Bonnington">
