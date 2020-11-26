@@ -55,10 +55,10 @@ Unfortunately they were not able to finish the conversion before they ran out of
 
 ### Bibliography 
 
-www.alfredcohen.org
-https://en.wikipedia.org/wiki/Alfred_Cohen
-https://alfredcohen.benuricollection.org.uk
-https://blogs.kcl.ac.uk/maxsaunders/alfred-cohen-painter-1920-2001/
-www.instagram.com/alfredcohenofficial/
-www.facebook.com/AlfredCohenArtist
+www.alfredcohen.org  
+https://en.wikipedia.org/wiki/Alfred_Cohen  
+https://alfredcohen.benuricollection.org.uk  
+https://blogs.kcl.ac.uk/maxsaunders/alfred-cohen-painter-1920-2001/  
+www.instagram.com/alfredcohenofficial/  
+www.facebook.com/AlfredCohenArtist  
 
