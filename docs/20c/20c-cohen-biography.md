@@ -12,7 +12,6 @@ banner="https://upload.wikimedia.org/wikipedia/commons/d/da/a photo to go on the
 
 **Places:** Goudhurst 1963-70, Near Benenden 1970-74, Iden Green 1974-78
 
-
 >‘It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen.  He had been born in Chicago, and served as a navigator in the US Army Air Force during the war.  He returned to study at the Art Institute of Chicago, where he won a travelling fellowship which took him to Paris for a year. He stayed for a decade. After a couple of successful exhibitions in London he moved there in 1960, producing a breakthrough series of large shimmering paintings of the Thames, followed by another sell-out exhibition of pictures on the theme of the Commedia dell’Arte. 
 
 In 1963, Cohen and his second wife Diana were looking for a studio. They drove to Kent to visit architect friends who had just bought an old mill near Goudhurst. On the way back they drove past a striking coach house of a grand Queen Anne-style red-brick mansion called Ballards, on the road to Horsmonden. The Coach House was for sale, and its stables offered plenty of studio space under the coachman’s quarters. 
@@ -25,8 +24,7 @@ Alfred started painting the landscape immediately, but it was a new challenge, a
 
 >What hit me was an incredible feeling of privacy. Driving along a country road I felt the hedges crowding in on me. The leaves were so thick that they were like a wall. We passed a hedge-cutter and he glared at us as if we’d interrupted some ritual. Then he stepped down into the ditch and disappeared as though he’d been absorbed by the landscape. Everything was so impenetrably, all-over green that I could think of no way of getting into it as a painter. The way I’d been working simply wouldn’t do. 
 
-<param ve-image url="images/ballards.jpg" label="Alfred Cohen, Hedgecutting and Harvesting, 1969, oil on canvas, 40 x 28 in; 101.6 x 71.1 cm. © The Artist’s Estate. Believed to have been overpainted. Slide, Alfred Cohen Archive
-">  
+<param ve-image url="images/ballards.jpg" label="Alfred Cohen, Hedgecutting and Harvesting, 1969, oil on canvas, 40 x 28 in; 101.6 x 71.1 cm. © The Artist’s Estate. Believed to have been overpainted. Slide, Alfred Cohen Archive">  
 
 From the mid-1960s Cohen’s paintings became more heavily worked, with increased impasto; many of the effects achieved by working the paint with a palette knife. As journalist Philip Oakes explained: ‘He evolved a new style, using paint like a sculptor, laying down slabs of colour, carving it with his brush so that the fields and hedges and houses seemed to be hewn from the canvas’. 
 
