@@ -59,7 +59,7 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/susancivale.jpg)
 
-Susan is Senior Lecturer in Romanticism at Canterbury Christ Church University.  Her research focuses on women’s writing of the long nineteenth century, life writing, and authorial and textual afterlives.  Her monograph, Romantic Women's Life Writing: Reputation and Afterlife (Manchester University Press, 2019), explored how the publication of women’s ‘private’ lives, through diaries, auto/biographies, letters, and memoirs, influenced their literary afterlives.
+Susan is Senior Lecturer in Romanticism at Canterbury Christ Church University.  Her research focuses on women’s writing of the long nineteenth century, life writing, and authorial and textual afterlives.  Her monograph, _Romantic Women's Life Writing: Reputation and Afterlife_ (Manchester University Press, 2019), explored how the publication of women’s ‘private’ lives, through diaries, auto/biographies, letters, and memoirs, influenced their literary afterlives.
 
 ##
 **Kaitlyn Cowling**
@@ -82,7 +82,7 @@ Carla Danella has a BA from Wellesley College (in the US) and recently completed
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/katieholdway.JPG)
 
-Katie Holdway is a PhD researcher in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, Romance, Revolution & Reform and a member of the Dickens Society Communications Committee.
+Katie Holdway is a PhD researcher in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, _Romance, Revolution & Reform_ and a member of the Dickens Society Communications Committee.
     
 ##
 **Alyson Hunt**
@@ -115,14 +115,18 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 ##
 **Pete Orford**
 
+- twitter: @DrPeteOrford
+
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/peteorford.JPG)
+
+Pete Orford is Course Director of the MA in Dickens Studies at the University of Buckingham. His most recent publication is The Mystery of Edwin Drood: Charles Dickens' unfinished novel and our endless attempts to end it for Pen & Sword, and further details of Drood and its legion of solutions can be found on his website www.droodinquiry.com He is currently completing an edition of Pictures from Italy for the Oxford Dickens, writing a Dickens biography for the Blackwell Literary Lives series, and co-editing a volume of plays by Dickens for Edinburgh UP.
 
 ##
 **Jeremy Page**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/jeremypage.jpg)
 
-Jeremy Page has published several collections of poems, among them In and Out of the Dark Wood (HappenStance, 2010) and Closing Time (Pindrop, 2014), and translations of Catullus, Leopardi, Rimbaud, Verlaine and Boris Vian. His novella London Calling was published by Cultured Llama in 2018. He is the founding editor of The Frogmore Papers.
+Jeremy Page has published several collections of poems, among them In and Out of the Dark Wood (HappenStance, 2010) and Closing Time (Pindrop, 2014), and translations of Catullus, Leopardi, Rimbaud, Verlaine and Boris Vian. His novella London Calling was published by Cultured Llama in 2018. He is the founding editor of _The Frogmore Papers._
 
 ##
 **Max Saunders**
@@ -131,7 +135,7 @@ Jeremy Page has published several collections of poems, among them In and Out of
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/images/maxsaunders.jpg)
 
-Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of Ford Madox Ford: A Dual Life (2 vols, 1996; paperback 2012); Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature (2010); and Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series, 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020).
+Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of _Ford Madox Ford: A Dual Life_ (2 vols, 1996; paperback 2012); _Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature_ (2010); and _Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series,_ 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020).
 
     
 ##
