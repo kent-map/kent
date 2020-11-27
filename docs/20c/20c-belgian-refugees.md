@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="# Belgian WW1 Refungees" author="Maddie Pettit" layout="vtl" banner="URL here">
+<param ve-config title="Belgian WW1 Refugees" author="Maddie Pettit" layout="vtl" banner="URL here">
 <param ve-entity eid="Q8462986" zoom="5">
 <param ve-entity eid="Q12892">
 
