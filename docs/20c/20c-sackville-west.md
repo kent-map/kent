@@ -27,11 +27,12 @@ She was the only child of Lord and Lady Sackville-West, born at the family’s a
 
 She married Harold Nicolson in 1913, when he was a junior diplomat. They lived first in Constantinople, then moved back to England in 1914, buying Long Barn, a house near Knole, where they established their first English garden. They moved again in 1930, buying Sissinghurst Castle for £12,375, where they created a family home and the now world-famous garden among the ruins of a once magnificent Elizabethan manor house. Sissinghurst is the subject of Sackville-West’s poems ‘Sissinghurst’ (1930) and _The Garden_ and is precisely described as background to her novel _Family History_. Her nearest railway station, Staplehurst, was the scene of the famous 1865 [train crash]( /dickens/dickens-staplehurst) involving Dickens and Ellen Ternan.
 <param ve-image url="https://raw.githubusercontent.com/kent-map/kent/develop/images/sissinghurstpostcard.jpg" label="Sissinghurst Castle" attribution="Carolyn Oulton">
-<param ve-map primary center="Q1971996">
+<param ve-map primary center="Q1971996" zoom="10">
 
 The Nicolsons had a famously open marriage, with both enjoying many same sex relationships. As she grew older, Sackville-West increasingly withdrew from society but she continued to entertain lovers and other guests at Sissinghurst, including [Christopher St John](20c-st-john-biography) (partner of [Ellen Terry](20c-terry-biography)’s daughter [Edith Craig](20c-craig-biography).  
 
 Sackville-West died at Sissinghurst in 1962 and her ashes are interred in the family crypt at Withyham, Sussex. Her husband and two sons are buried at Trinity Church, overlooking the Sissinghurst estate.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trinity_Church%2C_Sissinghurst_-_geograph.org.uk_-_1803168.jpg" label="Trinity Church, Sissinghurst" attribution="Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
 <param ve-map primary center="Q283645" zoom="10">
 
 Both Sissinghurst and Knole are now owned by the [National Trust.](https://www.nationaltrust.org.uk/) 
