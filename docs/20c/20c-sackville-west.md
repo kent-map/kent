@@ -32,7 +32,7 @@ She married Harold Nicolson in 1913, when he was a junior diplomat. They lived f
 The Nicolsons had a famously open marriage, with both enjoying many same sex relationships. As she grew older, Sackville-West increasingly withdrew from society but she continued to entertain lovers and other guests at Sissinghurst, including [Christopher St John](20c-st-john-biography) (partner of [Ellen Terry](20c-terry-biography)’s daughter [Edith Craig](20c-craig-biography).  
 
 Sackville-West died at Sissinghurst in 1962 and her ashes are interred in the family crypt at Withyham, Sussex. Her husband and two sons are buried at Trinity Church, overlooking the Sissinghurst estate.  
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trinity_Church%2C_Sissinghurst_-_geograph.org.uk_-_1803168.jpg" label="Trinity Church, Sissinghurst" attribution="Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trinity_Church%2C_Sissinghurst_-_geograph.org.uk_-_1803168.jpg" label="Trinity Church, Sissinghurst" attribution="Nigel Chadwick, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0, via Wikimedia Commons">
 <param ve-map primary center="Q283645" zoom="10">
 
 Both Sissinghurst and Knole are now owned by the [National Trust.](https://www.nationaltrust.org.uk/) 
