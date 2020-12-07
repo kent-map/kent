@@ -8,7 +8,8 @@ David Cramer Smith. _Medway- (2019).
 Laurie Duggan. _The Crab and Winkle Way_ (2009).  
 Setareh Ebrahimi. [_Galloping Horses_](https://www.wordsmithery.info/setarehebrahimi) (2020).  
 Barry Fentiman-Hall. [_England, My Dandelion Heart_](https://www.wordsmithery.info/bfh-books) (2016).  
---. [_Sketches by Baz_](https://www.wordsmithery.info/bfh-books), (2020).  
+--. [_Sketches by Baz_](https://www.wordsmithery.info/bfh-books), (2020). 
+Maggie Gee. _Blood_ (2019).
 Abdulrazak Gurnah. _By the Sea_ (2001).  
 Maggie Harris. _Canterbury Tales on a Cockrow Morning_ (2012).  
 --. _In Margate by Lunchtime_ (2015).  
