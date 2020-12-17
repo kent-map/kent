@@ -19,9 +19,9 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She die
 
 ### Bibliography
 
-'Low-Heeled Shoes And No Cosmetics'. [Tonbridge Wells Advertiser, 13 March 1915]. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.
+'Low-Heeled Shoes And No Cosmetics'. [_Tonbridge Wells Advertiser_, 13 March 1915]. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.
 
-Sutton-Ramspeck, Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman. Ohio: Ohio University Press, 2004.
+Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman._ Ohio: Ohio University Press, 2004.
 
 Sarah Grand Archive. International Centre for Victorian Women Writers, Canterbury Christ Church University.
 
