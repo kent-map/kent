@@ -39,3 +39,17 @@ Takes David through Kent and down the Dover Road to find answers to some vital q
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/dickens/images/Chatham%20Dockyard.jpg)
 
 From Rochester to Broadstairs on the East coast – wherever you go you can be fairly certain that Dickens has been there before you. But much like Aunt Betsey’s donkeys, he can be elusive.
+
+##
+**[Dickens and Medway](dickens-medway)**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/dickens/images/Chatham%20Dockyard.jpg)
+
+From xxx.
+
+##
+**[Dickens and Rochester](dickens-rochester)**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/dickens/images/Chatham%20Dockyard.jpg)
+
+From xxxx.
