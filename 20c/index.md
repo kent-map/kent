@@ -30,7 +30,7 @@
 
 ### Events
 
-[Belgian Refugees](20c-belgian-refugees)
+[Belgian Refugees](20c-belgian-refugees)   
 [Ellen Terry's funeral](20c-terry-funeral)  
 
 <!--stackedit_data:
