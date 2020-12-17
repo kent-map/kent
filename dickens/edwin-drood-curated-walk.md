@@ -33,6 +33,7 @@ Further down the high street is [Eastgate house] (edwin-drood-eastgate-house). I
 ‘In the midst of Cloisterham stands the [Nuns’ House] (edwin-drood-eastgate-house): a venerable brick edifice, whose present appellation is doubtless derived from the legend of its conventual uses.  On the trim gate enclosing its old courtyard is a resplendent brass plate flashing forth the legend: ‘Seminary for Young Ladies.  Miss Twinkleton.’  The house-front is so old and worn, and the brass plate is so shining and staring, that the general result has reminded imaginative strangers of a battered old beau with a large modern eye-glass stuck in his blind eye.’
 Again, [Rochester] (dickens-medway) has celebrated the link with a teashop on the grounds called Miss Twinkleton’s Fine Coffee House. There is a nice example of circular influence here. [Eastgate house] (edwin-drood-eastgate-house) inspired Drood, Drood inspired my own website The Drood Inquiry, including new illustrations of characters, the one of Twinkleton in turn being used subsequently as the logo for Twinkleton’s café at [Eastgate House] (edwin-drood-eastgate-house).
 <param ve-image url="images/Fig 5 Miss Twinkleton's Fine Coffee House.jpg" label="Figure 5: Miss Twinkleton's Fine Coffee House">   
+<param ve-map center="Q26377461" zoom="14">
 
 Across the road from the [Nun’s house] (edwin-drood-eastgate-house), Dickens tells us, is Mr Sapsea’s home: ‘Mr. Sapsea’s premises are in the High-street, over against the [Nun’s house] (/dickens/edwin-drood-eastgate-house).  They are of about the period of the [Nun’s house] (edwin-drood-eastgate-house), irregularly modernised here and there, as steadily deteriorating generations found, more and more, that they preferred air and light to Fever and the Plague.  Over the doorway is a wooden effigy, about half life-size, representing Mr. Sapsea’s father, in a curly wig and toga, in the act of selling.  The chastity of the idea, and the natural appearance of the little finger, hammer, and pulpit, have been much admired.’
 
@@ -40,7 +41,6 @@ Not far from here, so far as we can tell, is where would have stood  The Travell
 
 Away from the high street is Minor Cannon Row, translated in Drood to Minor Cannon Corner, home to Septimus Crisparkle and his mother. Dickens describes this tranquil spot as ‘a quiet place in the shadow of the Cathedral, which the cawing of the rooks, the echoing footsteps of rare passers, the sound of the Cathedral bell, or the roll of the Cathedral organ, seemed to render more quiet than absolute silence.’
 <param ve-image url="images/Fig 6 Minor Cannon Row.jpg" label="Figure 6: Minor Cannon Row">   
-
 
 Returning to the Cathedral, we can see just beyond it the castle. While this features prominently on the [Rochester] (dickens-medway) skyline, it does not feature so prominently in Cloisterham, though Luke Fildes did provide an illustration of the castle for a frontispiece – could further misadventures have been planned upon the castle grounds? 
 <param ve-image url="images/Fig 7 1870 title page.jpg" label="Figure 7: 1870 Title page">    
