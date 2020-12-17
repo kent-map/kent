@@ -39,8 +39,8 @@ Across the road from the [Nun’s house] (edwin-drood-eastgate-house), Dickens t
 
 Not far from here, so far as we can tell, is where would have stood  The Traveller’s Twopenny – ‘a house all warped and distorted, like the morals of the travellers, with scant remains of a lattice-work porch over the door, and also of a rustic fence before its stamped-out garden’. The inn has not survived today.
 
-Away from the high street is Minor Cannon Row, translated in Drood to Minor Cannon Corner, home to Septimus Crisparkle and his mother. Dickens describes this tranquil spot as ‘a quiet place in the shadow of the Cathedral, which the cawing of the rooks, the echoing footsteps of rare passers, the sound of the Cathedral bell, or the roll of the Cathedral organ, seemed to render more quiet than absolute silence.’
-<param ve-image url="images/Fig 6 Minor Cannon Row.jpg" label="Figure 6: Minor Cannon Row">   
+Away from the high street is Minor Canon Row, translated in Drood to Minor Canon Corner, home to Septimus Crisparkle and his mother. Dickens describes this tranquil spot as ‘a quiet place in the shadow of the Cathedral, which the cawing of the rooks, the echoing footsteps of rare passers, the sound of the Cathedral bell, or the roll of the Cathedral organ, seemed to render more quiet than absolute silence.’
+<param ve-image url="images/Fig 6 Minor Cannon Row.jpg" label="Figure 6: Minor Canon Row">   
 
 Returning to the Cathedral, we can see just beyond it the castle. While this features prominently on the [Rochester] (dickens-medway) skyline, it does not feature so prominently in Cloisterham, though Luke Fildes did provide an illustration of the castle for a frontispiece – could further misadventures have been planned upon the castle grounds? 
 <param ve-image url="images/Fig 7 1870 title page.jpg" label="Figure 7: 1870 Title page">    
