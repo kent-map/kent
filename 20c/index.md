@@ -9,6 +9,7 @@
 
 ### People
 
+[Alfred Cohen](20c-cohen-biography)   
 [Edith Craig](20c-craig-biography)  
 [T.S. Eliot](20c-eliot-biography)   
 [Victoria Holt](20c-holt-biography)   
