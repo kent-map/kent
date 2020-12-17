@@ -5,7 +5,6 @@
 **Hever Castle** 1895-1907
 ![Hever Castle from the Moat - circa 1850 - David Cox Jr. / Public domain](images/697px-Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg){: .right .dropshadow}
 By which famous Henry was Hever Castle put on the map?
-
 In 1876, when armchair tourists could very enjoyably ensconce themselves in _Old English Homes: A Summer’s Sketch-Book_, by the photographer and essayist Stephen Thompson, there was only one possible answer to that question: “Hever Castle, as every one knows, … was the birthplace of Anne Boleyn, wife of Henry VIII., the abode in which she passed her girlhood, and her residence during the years of courtship preceding that fatal marriage.” The vignette into which Thompson’s chapter on Hever dissolves could not be more positive about putting the king at the scene: “Henry strides into the court-yard, Anne is in her lover’s arms; while the Royal Standard shakes out its heavy folds above the little tower of Hever.”
 
 Thompson would not live to see a second Henry, who when Old English Homes came out was not yet settled in Britain, lay the basis for an alternative answer. Henry James (1843–1916), not a monarch but to his fellow writers a genuinely Masterly defender of the faith, strode into the courtyard at Hever on an autumn day in 1890, accompanied by Isabella Stewart Gardner. He stored the memory of that visit until he was ready to turn it to literary account by offering a view of the old English home, noted and moated, which was very different from Stephen Thompson’s.
