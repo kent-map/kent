@@ -58,4 +58,4 @@ From Rochester to Broadstairs on the East coast – wherever you go you can be f
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/dickens/images/Chatham%20Dockyard.jpg)
 
-From xxxx.
+Rochester is proud to celebrate its Dickensian connections, and the most fascinating and intriguing connection is its inspiration for the fictional town of Cloisterham, backdrop to Dickens’s final novel The Mystery of Edwin Drood. 
