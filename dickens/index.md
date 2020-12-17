@@ -36,6 +36,8 @@ Takes David through Kent and down the Dover Road to find answers to some vital q
 ##
 **[Finding Dickens Land](dickens-biography)**
 
+- author: Carolyn W. de la L. Oulton
+
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/dickens/images/Chatham%20Dockyard.jpg)
 
 From Rochester to Broadstairs on the East coast – wherever you go you can be fairly certain that Dickens has been there before you. But much like Aunt Betsey’s donkeys, he can be elusive.
@@ -43,12 +45,16 @@ From Rochester to Broadstairs on the East coast – wherever you go you can be f
 ##
 **[Dickens and Medway](dickens-medway)**
 
+- author: Helena Kelly
+
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/dickens/images/Chatham%20Dockyard.jpg)
 
 From xxx.
 
 ##
 **[Dickens and Rochester](dickens-rochester)**
+
+- author: Peter Orford
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/dickens/images/Chatham%20Dockyard.jpg)
 
