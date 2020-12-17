@@ -52,7 +52,7 @@ From Rochester to Broadstairs on the East coast – wherever you go you can be f
 “Mudbank, mist, swamp … swamp, mist, and mudbank.”’ So says a convict in Great Expectations), describing the ‘marsh country’ in which Pip and Estella have grown up. I grew up here too, so did generations of my family before me. 
 
 ##
-**[Dickens and Rochester](dickens-rochester)**
+**[Edwin Drood: a Curated Walk](edwin-drood-curated-walk)**
 
 - author: Peter Orford
 
