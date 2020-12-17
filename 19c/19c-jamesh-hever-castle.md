@@ -5,7 +5,9 @@
 **Hever Castle** 1895-1907
 
 ![Hever Castle from the Moat - circa 1850 - David Cox Jr. / Public domain](images/697px-Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg){: .right .dropshadow} 
-By which famous Henry was Hever Castle put on the map? In 1876, when armchair tourists could very enjoyably ensconce themselves in _Old English Homes: A Summer’s Sketch-Book_, by the photographer and essayist Stephen Thompson, there was only one possible answer to that question: 
+By which famous Henry was Hever Castle put on the map? 
+
+In 1876, when armchair tourists could very enjoyably ensconce themselves in _Old English Homes: A Summer’s Sketch-Book_, by the photographer and essayist Stephen Thompson, there was only one possible answer to that question: 
 
 “Hever Castle, as every one knows, … was the birthplace of Anne Boleyn, wife of Henry VIII., the abode in which she passed her girlhood, and her residence during the years of courtship preceding that fatal marriage.” 
 
