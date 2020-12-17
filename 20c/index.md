@@ -14,7 +14,7 @@
 [T.S. Eliot](20c-eliot-biography)   
 [Ford Madox Ford](20c-fordmadoxford-biography)   
 [Victoria Holt](20c-holt-biography)   
-[Derek Jarman](20c-jarman-biography)
+[Derek Jarman](20c-jarman-biography)   
 [Somerset Maugham](20c-maugham-biography)  
 [Christopher St John](20c-st-john-biography)  
 [Diana & Tony Powell-Cotton](20c-powell-cotton-biography)   
