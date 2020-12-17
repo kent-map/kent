@@ -10,6 +10,4 @@
 ### People
 [David Seabrook](21c-seabrook-biography)  
 
-### Places
 
-### Events
