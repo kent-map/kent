@@ -23,7 +23,7 @@
 [Henry James](19c-jamesh-hever-castle)  
 [Jerome K. Jerome](19c-jerome-biography)   
 [Bessie Marchant](19c-marchantb-biography)  
-[G.W.M. Reynolds](19c-reynoldsgwm)  
+[G.W.M. Reynolds](19c-reynoldsgwm-biography)  
 [Bessie Marchant](19c-marchantb-biography)  
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
 [Mary Shelley](19c-shelleym-biography)  
