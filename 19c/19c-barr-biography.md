@@ -1,7 +1,6 @@
 <param ve-config style="article">
 
 ## Robert Barr (1849-1912)
-# Robert Barr
 **Event with dates:** Holiday 1890  
 **Place:** Folkestone  
 **Publication(s)** Occasional articles  
