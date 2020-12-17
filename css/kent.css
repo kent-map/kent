@@ -1,0 +1,19 @@
+/* CSS for documentation site */
+
+a {
+    color: #551A8B !important;
+}
+p a:link,
+p a:visited {
+    color: #551A8B !important;
+}
+a:focus {
+    outline: thin dotted;
+}
+a:active,
+a:hover {
+    outline: 0;
+    cursor: pointer;
+    color: #551A8B !important;
+    text-decoration: underline !important;
+}

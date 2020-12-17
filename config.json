@@ -2,14 +2,15 @@
     "title": "Kent",
     "banner": "/images/Bleak_house_postcard.jpg",
     "bannerHeight": 400,
-    "mdRoot": "/docs",
     "components": [
         {"name": "siteFooter", "src": "/components/Footer.vue"}
     ],
     "nav": [
-        {"label": "Home", "icon": "home-alt", "path": "/"},
-        {"label": "About", "icon": "info", "path": "/about"},
-        {"label": "Help", "icon": "question", "path": "/help"}
+        {"label": "About", "icon": "info", "path": "/about"}
     ],
-    "gaTrackingID": "UA-148268745-1"
+    "gaTrackingID": "UA-148268745-1",
+    "css": "https://raw.githubusercontent.com/kent-map/kent/main/css/kent.css",
+    "acct": "kent-map",
+    "repo": "kent",
+    "ref": "main"
 }
