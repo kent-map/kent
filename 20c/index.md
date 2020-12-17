@@ -15,6 +15,7 @@
 [Victoria Holt](20c-holt-biography)   
 [Somerset Maugham](20c-maugham-biography)  
 [Christopher St John](20c-st-john-biography)  
+[Diana & Tony Powell-Cotton](20c-powell-cotton-biography)
 [Ellen Terry](20c-terry-biography)  
 [Elizabeth Von Arnim](20c-vonarnim-biography)   
 [Gladys Waterer](20c-waterer-biography)   
