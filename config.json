@@ -9,6 +9,6 @@
         {"label": "About", "icon": "info", "path": "/about"}
     ],
     "gaTrackingID": "UA-148268745-1",
-    "css": "https://cdn.jsdelivr.net/gh/kent-map/kent@reorganized/css/kent.css",
+    "css": "https://raw.githubusercontent.com/kent-map/kent/reorganized/css/kent.css",
     "ref": "reorganized"
 }
