@@ -10,7 +10,7 @@ Like [Ramsgate](dickens/19c-ramsgate), Dover considered itself to be among the m
 
 The town had survived many threats over the course of centuries, but it is worth remembering that for all the historic ecstasies offered in guidebooks of the time:
 
-The church of St Mary in 1860 experienced a narrow escape from complete destruction by the War Office, and was only with difficulty rescued by dint of urgent protests from antiquaries. One author speculated that 'The Department ... doubtless wishes all antiquaries at the devil.'1  
+The church of St Mary in 1860 experienced a narrow escape from complete destruction by the War Office, and was only with difficulty rescued by dint of urgent protests from antiquaries. One author speculated that 'The Department ... doubtless wishes all antiquaries at the devil.'[^ref1]  
 
 But as the London and Dover railway managers were keen to stress, historic churches were not the only reason to visit the town. As well as the bands so memorably deplored by [Dickens](dickens/dickens-biography) there were amenities for the less vigorous walker in the form of ‘baths, with every accommodation for warm and sea bathing.’  
 
@@ -20,7 +20,7 @@ Nor did the possibilities for travel end with the offer of a few weeks at the Ke
 
 **Article written by:** Carolyn Oulton
 
-1. Charles Harper 276.
+
 
 ### Bibliography
 
@@ -31,6 +31,11 @@ Mackenzie, Walcott. _A Guide to the Coast of Kent, Descriptive of Scenery Histor
 Author unknown. _The Illustrated Ramble Book of the London and Dover Railway_. London: J. Mead, date not given.  
 
 Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.  
+
+### References
+
+[^ref1]: 1. Charles Harper 276.
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQ5MzgwNjI1MV19
 -->
