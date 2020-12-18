@@ -15,8 +15,6 @@
 [R. D. Blackmore](19c-blackmore-biography)  
 [F. C. Burnand](19c-burnand-biography)  
 [Joseph Conrad](19c-conrad-biography)  
-[Chatham Dockyard](19c-chatham-dockyard)  
-[Folkestone Free Library](19c-folkestone-free-library)   
 [Sir John Franklin](19c-franklin-biography)  
 [Sarah Grand](19c-grand-biography)   
 [George Grossmith](19c-grossmith-biography)  
