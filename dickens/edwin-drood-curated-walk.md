@@ -1,6 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Edwin Drood: a Curated Walk" author="Peter Orford" layout="vtl" 
-banner="image.jpg">
+<param ve-config title="Edwin Drood: a Curated Walk" author="Peter Orford" layout="vtl">
 
 <param title="Rochester" eid="Q507517">
 
