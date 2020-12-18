@@ -21,7 +21,7 @@ Ellen Terry wrote about life with Edy at Smallhythe Place (then called The Farm)
 
 [Christopher St John](20c-st-john-biography) characterised her early life with Ellen Terry and [Edy Craig](20c-craig-biography) at Smallhythe as ‘a lovely pleasant carefree existence’. They created beautiful gardens, went on moonlight drives to Bodiam Castle, and took the occasional pleasure cruise across the English Channel to Bruges.  
 
-[St John](20c-st-john-biography) wrote that the many ‘monuments’ to Ellen Terry –  her autobiography, letters, and lectures on Shakespeare ‘as well as her shrine at Smallhythe’ – were ‘something to inspire those who come after us with the same devotion to her memory.’[^ref5]
+[St John](20c-st-john-biography) wrote that the many ‘monuments’ to Ellen Terry – her autobiography, letters, and lectures on Shakespeare ‘as well as her shrine at Smallhythe’ – were ‘something to inspire those who come after us with the same devotion to her memory.’[^ref5]
 
 **Article written by:** Carla Danella
 
