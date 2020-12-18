@@ -1,5 +1,5 @@
 <param ve-config title="Dickens in the Medway" author="Helena Kelly" layout="vtl" banner="URL here">
-<param ve-map center="Q797782" zoom="6">
+<param ve-map center="Q729006" zoom="6">
 <param ve-entity eid="Q2635720">
 <param ve-entity eid="Q1808441">
 <param ve-entity eid="Q5068781">
