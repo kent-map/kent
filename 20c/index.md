@@ -9,11 +9,15 @@
 
 ### People
 
+[Alfred Cohen](20c-cohen-biography)   
 [Edith Craig](20c-craig-biography)  
 [T.S. Eliot](20c-eliot-biography)   
+[Ford Madox Ford](20c-fordmadoxford-biography)   
 [Victoria Holt](20c-holt-biography)   
+[Derek Jarman](20c-jarman-biography)   
 [Somerset Maugham](20c-maugham-biography)  
 [Christopher St John](20c-st-john-biography)  
+[Diana & Tony Powell-Cotton](20c-powell-cotton-biography)   
 [Ellen Terry](20c-terry-biography)  
 [Elizabeth Von Arnim](20c-vonarnim-biography)   
 [Gladys Waterer](20c-waterer-biography)   
@@ -27,7 +31,9 @@
 
 ### Events
 
-[Ellen Terry's funeral](20c-terry-funeral)  []()
+[Belgian Refugees](20c-belgian-refugees)   
+[Ellen Terry's funeral](20c-terry-funeral)  
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTU0NjU5MDMxN119
 -->
