@@ -4,8 +4,7 @@
 
 by Mandy Jones 
 
-**Born** 1.9.1906.  
-**Died** 19.1.1993.  
+**Born** 1.9.1906.  **Died** 19.1.1993.  
 
 **Occupation / significance** Prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense. 
 ![“The Goodwin Sands” image from Heroes of the Goodwin Sands by Thomas Stanley Treanor, 1904.](images/The Goodwin Sands img-019.jpg){: .right .dropshadow}
