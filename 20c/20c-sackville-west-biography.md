@@ -42,9 +42,9 @@ Both Sissinghurst and Knole are now owned by the [National Trust.](https://www.n
 
 
 ### Bibliography:
-Nicolson, Nigel, ed. Vita and Harold. The Letters of Vita Sackville-West and Harold Nicolson. USA: G. P. Putnam’s Sons, 1992. Print.   
-Sackville-West, Vita. Family History. St Ives: Vintage, 1996. Print.   
-Sackville-West, Vita. The Edwardians. St Ives: Vintage, 2016. Print.  
-Sackville-West, Vita. The Garden. Woking: Michael Joseph Ltd, (First pub 1946). Print.  
-Sackville-West, Vita. The Land. England: Frances Lincoln Ltd, 2004. Print.  
+Nicolson, Nigel, ed. Vita and Harold. _The Letters of Vita Sackville-West and Harold Nicolson._ USA: G. P. Putnam’s Sons, 1992. Print.   
+Sackville-West, Vita. _Family History._ St Ives: Vintage, 1996. Print.   
+Sackville-West, Vita. _The Edwardians_. St Ives: Vintage, 2016. Print.  
+Sackville-West, Vita. _The Garden._ Woking: Michael Joseph Ltd, (First pub 1946). Print.  
+Sackville-West, Vita. _The Land._ England: Frances Lincoln Ltd, 2004. Print.  
 
