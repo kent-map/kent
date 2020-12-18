@@ -12,12 +12,10 @@ D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-
 Half sea, half country side;
 A flat-shored sea of low-voiced creeping tide
 Over a chalky weedy mat.
-
 A hill of hillocks, flowery and kept green
 Round Crosses raised for hope,
 With many-tinted sunsets where the slope
 Faces the lingering western sheen.
-
 A lowly hope, a height that is but low,
 While Time sets solemnly,
 While the tide rises of Eternity,
@@ -30,7 +28,7 @@ Due to his declining health Dante Gabriel Rosetti came to stay at his close frie
 **Article written by:** Laura Allen
 
 ### Bibliography
-Rosetti, Christina. Birchington Churchyard: https://hellopoetry.com/poem/16025/birchington-churchyard/ Accessed 1 September 2020.
+Rosetti, Christina. [Birchington Churchyard](https://hellopoetry.com/poem/16025/birchington-churchyard/) Accessed 1 September 2020.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0NjU1MTQyOTJdfQ==
 -->
