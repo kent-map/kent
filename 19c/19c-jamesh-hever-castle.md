@@ -4,17 +4,22 @@
 
 **Hever Castle** 1895-1907
 
-![Hever Castle from the Moat - circa 1850 - David Cox Jr. / Public domain](images/697px-Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg){: .right .dropshadow}  
+![Hever Castle from the Moat - circa 1850 - David Cox Jr. / Public domain](images/697px-Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg){: .right .dropshadow} 
+By which famous Henry was Hever Castle put on the map? 
 
+In 1876, when armchair tourists could very enjoyably ensconce themselves in _Old English Homes: A Summer’s Sketch-Book_, by the photographer and essayist Stephen Thompson, there was only one possible answer to that question: 
 
+“Hever Castle, as every one knows, … was the birthplace of Anne Boleyn, wife of Henry VIII., the abode in which she passed her girlhood, and her residence during the years of courtship preceding that fatal marriage.” 
 
-By which famous Henry was Hever Castle put on the map?
+The vignette into which Thompson’s chapter on Hever dissolves could not be more positive about putting the king at the scene: 
 
-In 1876, when armchair tourists could very enjoyably ensconce themselves in _Old English Homes: A Summer’s Sketch-Book_, by the photographer and essayist Stephen Thompson, there was only one possible answer to that question: “Hever Castle, as every one knows, … was the birthplace of Anne Boleyn, wife of Henry VIII., the abode in which she passed her girlhood, and her residence during the years of courtship preceding that fatal marriage.” The vignette into which Thompson’s chapter on Hever dissolves could not be more positive about putting the king at the scene: “Henry strides into the court-yard, Anne is in her lover’s arms; while the Royal Standard shakes out its heavy folds above the little tower of Hever.”
+“Henry strides into the court-yard, Anne is in her lover’s arms; while the Royal Standard shakes out its heavy folds above the little tower of Hever.”
 
 Thompson would not live to see a second Henry, who when Old English Homes came out was not yet settled in Britain, lay the basis for an alternative answer. Henry James (1843–1916), not a monarch but to his fellow writers a genuinely Masterly defender of the faith, strode into the courtyard at Hever on an autumn day in 1890, accompanied by Isabella Stewart Gardner. He stored the memory of that visit until he was ready to turn it to literary account by offering a view of the old English home, noted and moated, which was very different from Stephen Thompson’s.
 
-The opportunity came in the form of a storyline idea which first occurred to James at the end of 1892 as a challenge to the stereotyping of American incomers as unable to understand English heritage except in terms of plunder and profit. He would make an American rather than an English character into a paradoxical embodiment of the values “of attachment to the past, of romance, of history, continuity and conservatism” . He decided, as he refined his idea, that he would do so by centring the plot upon a prize piece of historic real estate saved for the nation by a beneficent and munificent intervention from across the Atlantic which “repairs … redeems … rescues and restores” (Notebooks, 6 February 1895). He would emphasise the redemptive nature of the intervention by calling the deliverer Mrs Gracedew.
+The opportunity came in the form of a storyline idea which first occurred to James at the end of 1892 as a challenge to the stereotyping of American incomers as unable to understand English heritage except in terms of plunder and profit. He would make an American rather than an English character into a paradoxical embodiment of the values “of attachment to the past, of romance, of history, continuity and conservatism”. 
+
+He decided, as he refined his idea, that he would do so by centring the plot upon a prize piece of historic real estate saved for the nation by a beneficent and munificent intervention from across the Atlantic which “repairs … redeems … rescues and restores” (Notebooks, 6 February 1895). He would emphasise the redemptive nature of the intervention by calling the deliverer Mrs Gracedew.
 
 That plot served James on three separate occasions: in 1895, when he used it in a short play entitled Summersoft; in 1898, when he transferred it to a prose tale entitled [Covering End](https://en.wikisource.org/w/index.php?title=Special:ElectronPdf&page=Covering+End&action=show-download-screen) (which he coupled with The Turn of the Screw); and finally in a three-act comedy, [The High Bid](https://www.theguardian.com/stage/2020/aug/10/forgotten-plays-no-11-the-high-bid-1908-by-henry-james), that was written in 1907 and then played in Edinburgh in 1908 and London in 1909. The 1898 change to the title of the work resulted from the new name of the house—no longer Summersoft, as in 1895, but Covering End. Although in 1907 James refrains from renaming the house again, there are small but significant differences in what he visualises.
 

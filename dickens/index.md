@@ -36,6 +36,26 @@ Takes David through Kent and down the Dover Road to find answers to some vital q
 ##
 **[Finding Dickens Land](dickens-biography)**
 
+- author: Carolyn W. de la L. Oulton
+
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/dickens/images/Chatham%20Dockyard.jpg)
 
 From Rochester to Broadstairs on the East coast – wherever you go you can be fairly certain that Dickens has been there before you. But much like Aunt Betsey’s donkeys, he can be elusive.
+
+##
+**[Dickens and Medway](dickens-medway)**
+
+- author: Helena Kelly
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/dickens/images/Chatham%20Dockyard.jpg)
+
+“Mudbank, mist, swamp … swamp, mist, and mudbank.”’ So says a convict in Great Expectations), describing the ‘marsh country’ in which Pip and Estella have grown up. I grew up here too, so did generations of my family before me. 
+
+##
+**[Edwin Drood: a Curated Walk](edwin-drood-curated-walk)**
+
+- author: Peter Orford
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/master/dickens/images/Chatham%20Dockyard.jpg)
+
+Rochester is proud to celebrate its Dickensian connections, and the most fascinating and intriguing connection is its inspiration for the fictional town of Cloisterham, backdrop to Dickens’s final novel The Mystery of Edwin Drood. 
