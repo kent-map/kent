@@ -32,8 +32,3 @@ Set in the Victorian era, the shivering sands of the title are the Goodwin Sands
 Treanor, T.S. [_Heroes of the Goodwin Sands_](http://www.gutenberg.org/files/24685/24685-h/24685-h.htm#img-019). 1904.
 
 Holyoake, Gregory. “Romantic novelist set bestseller here”. _East Kent Mercury_. 08 Oct. 2015.  
-
-### References: 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjgwODc3ODRdfQ==
--->
