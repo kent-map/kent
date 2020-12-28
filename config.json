@@ -9,7 +9,7 @@
         {"label": "About", "icon": "info", "path": "/about"}
     ],
     "gaTrackingID": "UA-148268745-1",
-    "css": "https://raw.githubusercontent.com/kent-map/kent/main/css/kent.css",
+    "css": "https://kent-map.github.io//kent/css/kent.css",
     "acct": "kent-map",
     "repo": "kent",
     "ref": "main"
