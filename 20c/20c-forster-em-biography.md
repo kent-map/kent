@@ -41,9 +41,9 @@ https://commons.wikimedia.org/wiki/File:Tonbridge_School_-_geograph.org.uk_-_154
 
 ## References
 
-Dryhurst, Dry Hill Park Road, Tonbridge, Kent, TN10 3BN, United Kingdom 
-2 Forster, E.M. 1907. The Longest Journey. Penguin Classics, 2001. 
-3 Waterlow proposed to Virginia Woolf in 1911, but was refused. (Bell, Anne Olivier (1977). The Diary of Virginia Woolf: Volume One, 1915 - 1919. New York: Harcourt Brace Jovanovich, p.6. ISBN 0-15-626036-0.) 
-4 Von Arnim, Elizabeth. 1909. The Caravaners. Virago Press, 1996. 
-5 Usborne, Karen. ‘Elizabeth’: the Author of Elizabeth and Her German Garden. Bodley Head, 1986. p. 131 
-6 Forster, E.M. 1910. Howards End. Penguin Books, 2000, p.
+Dryhurst, Dry Hill Park Road, Tonbridge, Kent, TN10 3BN, United Kingdom   
+2 Forster, E.M. 1907. _The Longest Journey._ Penguin Classics, 2001.    
+3 Waterlow proposed to Virginia Woolf in 1911, but was refused. (Bell, Anne Olivier (1977). _The Diary of Virginia Woolf: Volume One, 1915 - 1919_. New York: Harcourt Brace Jovanovich, p.6.)    
+4 Von Arnim, Elizabeth. 1909. _The Caravaners_. Virago Press, 1996.    
+5 Usborne, Karen. ‘Elizabeth’: the Author of Elizabeth and Her German Garden. Bodley Head, 1986. p. 131    
+6 Forster, E.M. 1910. _Howards End._ Penguin Books, 2000, p.
