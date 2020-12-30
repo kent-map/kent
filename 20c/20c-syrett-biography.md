@@ -1,7 +1,9 @@
 ## Netta [Janet] Syrett  (17 March 1865-15 December 1943)
 **Event** Birthplace 1854
 **Place:** Ramsgate
-Images: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Yellow_Book_-_07.djvu/page1-349px-The_Yellow_Book_-_07.djvu.jpg 
+
+![The_Yellow_Book/ Wikimedia Commons](images/page1-349px-The_Yellow_Book_-_07.djvu.jpg) 
+
 
 Publications: best known for _Portrait of a Rebel_ (1929) which was made into the 1936 Katherine Hepburn film _A Woman Rebels._
 
