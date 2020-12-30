@@ -2,7 +2,7 @@
 **Event** Birthplace 1854
 **Place:** Ramsgate
 
-![The_Yellow_Book/ Wikimedia Commons](images/page1-349px-The_Yellow_Book_-_07.djvu.jpg) 
+![The_Yellow_Book/ Wikimedia Commons](images/page1-349px-The_Yellow_Book_-_07.djvu.jpg){: .right .dropshadow}
 
 
 Publications: best known for _Portrait of a Rebel_ (1929) which was made into the 1936 Katherine Hepburn film _A Woman Rebels._
