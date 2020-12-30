@@ -19,6 +19,7 @@
 [Christopher St John](20c-st-john-biography)  
 [Diana & Tony Powell-Cotton](20c-powell-cotton-biography)   
 [Vita Sackville-West](20c-sackville-west-biography)   
+[Netta Syrett](20c-syrett-biography)   
 [Ellen Terry](20c-terry-biography)  
 [Elizabeth Von Arnim](20c-vonarnim-biography)   
 [Gladys Waterer](20c-waterer-biography)   
