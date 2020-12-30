@@ -31,9 +31,9 @@ The music of that pipe rings plain
 
 Through places where ten shadows went;
 
-The shadows passed; but we remain. 5
+The shadows passed; but we remain.[^ref5]
 
-However, two years later, in Howards End, Forster would ask ‘Why has not England a great mythology? . . . Deep and true as the native imagination can be, it seems to have failed here.’6
+However, two years later, in Howards End, Forster would ask ‘Why has not England a great mythology? . . . Deep and true as the native imagination can be, it seems to have failed here.’[^ref6]
 
 Alas, our Kentish gods had failed to dominate the classical ones!
 
