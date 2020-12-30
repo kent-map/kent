@@ -1,3 +1,4 @@
+<param ve-config style="article">
 ## Hans Christian Andersen (1805-1875)
 **Places:** Gads Hill, Rochester. Knowle House, Sevenoaks. Chevening Church.
 Images: https://commons.wikimedia.org/wiki/Hans_Christian_Andersen#/media/File:HCA_by_Thora_Hallager_1869.jpg 
