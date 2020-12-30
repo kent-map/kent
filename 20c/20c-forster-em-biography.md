@@ -3,11 +3,11 @@
 <param ve-config title="E.M. Forster" author="Diana Hirst" layout="vtl" banner="images/kent-map-header.jpg">
 
 <param ve-entity="Tonbridge" eid="Q936183">
-<param ve-entity="Tonbridge" eid="Q936183">
 <param ve-entity="Trottiscliffe" eid="Q1920945">
 <param ve-entity="Weald" eid="Q2298322">
 <param ve-entity="Great Chart" eid="Q5598954">
 <param ve-entity="Borough Green" eid="Q2001391">
+<param ve-map primary center="Q936183">
 
 ## E.M. Forster
 
@@ -37,7 +37,7 @@ However, two years later, in Howards End, Forster would ask ‘Why has not Engla
 
 Alas, our Kentish gods had failed to dominate the classical ones!
 
-https://commons.wikimedia.org/wiki/File:Tonbridge_School_-_geograph.org.uk_-_1542050.jpg https://stanstedhistory.org/landmarks-trosley-towers/ https://commons.wikimedia.org/wiki/File:North_Downs_at_Trottiscliffe.jpg
+<param ve-image url="https://commons.wikimedia.org/wiki/File:Tonbridge_School_-_geograph.org.uk_-_1542050.jpg https://stanstedhistory.org/landmarks-trosley-towers/ https://commons.wikimedia.org/wiki/File:North_Downs_at_Trottiscliffe.jpg">
 
 ## References
 
