@@ -7,18 +7,20 @@
 <param ve-entity="Weald" eid="Q2298322">
 <param ve-entity="Great Chart" eid="Q5598954">
 <param ve-entity="Borough Green" eid="Q2001391">
-<param ve-map primary center="Q936183" zoom="8">
+<param ve-map="Q936183" zoom="8">
 
 ## E.M. Forster
 
 In 1893 E.M. Forster and his mother moved to Tonbridge  where they rented ‘Dryhurst’ in Dry Hill Park Road so that Forster might attend Tonbridge School as a day boy.[^ref1] Forster was unhappy here, although it is to Tonbridge that he owes the deep love of the classics on which he draws for many of his short stories and his two ‘English’ novels. He would base Sawston School, where Rickie Elliot teaches in _The Longest Journey_, on his Tonbridge experience.[^ref2]
 <param ve-map="Q936183" zoom="8">
+<param ve-image url="images/Tonbridge_School_-_geograph.org.uk_-_1542050.jpg" attribution="Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
 
 A few years later, through the Bloomsbury set, Forster met Sydney Waterlow.[^ref3] Waterlow’s family lived at Trosley Towers at Trottiscliffe on the chalk escarpment of the North Downs, with views over the Weald. Chalk topography plays an important role in Forster’s work, and he would have enjoyed his visits here, quite apart from his friendship with Sydney. Waterlow’s aunt was the [Countess von Arnim](20c-von-arnim-biography), the novelist then known as ‘Elizabeth of the German Garden’, and it was through Waterlow that Forster was offered the post of tutor to her daughters at Nassenheide in Pomerania, which he took up for the summer months of 1905.
 <param ve-map="Q1920945" zoom="8">
+<param ve-image url="images/North_Downs_at_Trottiscliffe.jpg" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
 In August 1907, just after the publication of _The Longest Journey_, Forster joined von Arnim and others of her former tutors, including Hugh Walpole, on the caravanning journey through the Weald during what was one of the wettest Augusts on record. Von Arnim would immortalise the holiday in her 1909 novel _The Caravaners_, though it is not evident which, if any, of the young men is based on Forster.[^ref4] Forster joined the party in a field at Great Chart but left before the end, travelling from Borough Green station back to London. He found the city ‘hummed strangely’ for, in a rare moment of sunshine, he had ‘heard a new song’ in the Kent countryside which he recorded in this poem.
-param ve-map="Q2001391" zoom="8">
+<param ve-map="Q2001391" zoom="8">
 
 Ten shadows flecked the sunlit road,
 
@@ -39,8 +41,6 @@ The shadows passed; but we remain.[^ref5]
 However, two years later, in Howards End, Forster would ask ‘Why has not England a great mythology? . . . Deep and true as the native imagination can be, it seems to have failed here.’[^ref6]
 
 Alas, our Kentish gods had failed to dominate the classical ones!
-
-<param ve-image url="https://commons.wikimedia.org/wiki/File:Tonbridge_School_-_geograph.org.uk_-_1542050.jpg https://stanstedhistory.org/landmarks-trosley-towers/ https://commons.wikimedia.org/wiki/File:North_Downs_at_Trottiscliffe.jpg">
 
 ## References
 
