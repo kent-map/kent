@@ -15,7 +15,7 @@ Her writing at this time could be described as part of the ‘New Woman’ movem
 From at least 1895 she was writing stories for [Jerome K. Jerome](19c/19c-jerome-biography)'s _Idler_ and featured in the Idler’s Club column along with authors such as Mary Elizabeth Braddon and Ella Hepworth-Dixon. She also published stories in periodicals such as _Belgravia, Temple Bar, Quiver, Argosy, The Girl’s Own Paper, the Women’s Penny Paper_ and _Hearth and Home_.
 In 1899, her love of socialism was portrayed in her novel _An Englishman_, however, her middle-class tradesman hero was viewed by some with scepticism. _The Evening Standard_ wrote: “There is so much careful and intelligent work in Miss Mary Pendered’s novel, …But the book is dull, and in a novel dullness is an unforgiveable sin.”[^ref12]
 
-Her 1905 publication, _The Truth about Man_ published anonymously ‘by a spinster’ was a little spicier, and was one of those books which simultaneously shocked but also appealed to those who denounced it; and its notoriety may have encouraged sales.  In it, Mary claimed to draw from her own personal experience, writing “I have been loved by three Americans, two Frenchmen, one German, one Irishman, one Swiss, three Scotsmen, and two or three Colonials, who do not count as they are so nearly English.”[^ref13]   The premise of the book was that women who have “a safe income, good friends, enough amusement and variety” do not need husbands. A reviewer from Yorkshire declared her a minx.
+Her 1905 publication, _The Truth about Man_ published anonymously ‘by a spinster’ was a little spicier, and was one of those books which simultaneously shocked but also appealed to those who denounced it; and its notoriety may have encouraged sales.  In it, Mary claimed to draw from her own personal experience, writing “I have been loved by three Americans, two Frenchmen, one German, one Irishman, one Swiss, three Scotsmen, and two or three Colonials, who do not count as they are so nearly English.”[^ref13]   The premise of the book was that women who have “a safe income, good friends, enough amusement and variety” do not need husbands. A reviewer from Yorkshire declared her a minx.[^ref14]
 
 It is not certain when she moved to Herne Bay, but on 3 November 1908, Mary wrote a letter from The Fold, Beltinge to the _Daily Mirror_ about women’s suffrage. She was to become the President of the Herne Bay Society for Women’s Suffrage. Five years later, and still at this address, Mary hotly debated women’s suffrage in the _Whitstable Times and Herne Bay Herald_ in the summer of 1913 with Jane Pemberton, a 55-year old woman of independent means living at Hunter’s Forstal. According to Mary “every organised body of industrial women … [was] crying out for the vote” and she accused Miss Pemberton of failing to understand the working woman because she was a “delicately nurtured and sheltered well to do women.”  She continued by arguing that anti-suffragists were people who had everything they needed and therefore didn’t care about the vote. Jane E. Pemberton replied: “As to the relative positions in the State of myself on the one hand and my lawn-mower and chimney sweep on the other, my vanity is not in the least wounded by the consideration that they have a vote, and I have not.”  
 
@@ -43,11 +43,12 @@ At some time in late 1916 or early 1917 Mary left Herne Bay for Wellingborough a
 [^ref10]:  _New Ulm review._ (New Ulm, Brown County, Minn.), February 12, 1896, Image 7   
 [^ref11]:  The Herald, April 21, 1895, Page 16.  
 [^ref12]: _London Evening Standard,_ Thursday 22 February 1900.
-[^ref13]:  BOOKS FOR HOLIDAY READING. _The Review of reviews; London_ Vol. 32, Iss. 188,  (Aug 1905): 204-207.   
-[^ref14]:  _The Whitstable Times and Tankerton Press,_ June 7, 1913, 8.   
-[^ref15]:  _The Whitstable and Herne Bay Herald,_ July 5, 1913, 7.   
-[^ref16]:  _Northampton Mercury_, 17 October 1913.   
-[^ref17]:  Copy Of The National Scheme Of Co-Ordination Of Voluntary Effort Resulting From The Formation Of The Director General Voluntary Organisations Dept. Appendices III And IV. Being A Detailed Record Of The Work Of The Recognized Associations. Charity Commission. War Charities Act. 1916. Benevolent Organisations Date: n.d. Manuscript Number: B.O.1 1/15 Source Library: Imperial War Museum   
-[^ref18]: _Illustrated London News_, Saturday 03 July 1915.   
+[^ref13]:  'Books for holiday reading'. _The Review of reviews; London_ Vol. 32, Iss. 188,  (Aug 1905): 204-207.   
+[^ref14]: 'Books for holiday reading'. _The Review of reviews; London_ Vol. 32, Iss. 188,  (Aug 1905): 204-207.   
+[^ref15]:  _The Whitstable Times and Tankerton Press,_ June 7, 1913, 8.   
+[^ref16]:  _The Whitstable and Herne Bay Herald,_ July 5, 1913, 7.   
+[^ref17]:  _Northampton Mercury_, 17 October 1913.   
+[^ref18]:  Copy Of The National Scheme Of Co-Ordination Of Voluntary Effort Resulting From The Formation Of The Director General Voluntary Organisations Dept. Appendices III And IV. Being A Detailed Record Of The Work Of The Recognized Associations. Charity Commission. War Charities Act. 1916. Benevolent Organisations Date: n.d. Manuscript Number: B.O.1 1/15 Source Library: Imperial War Museum   
+[^ref19]: _Illustrated London News_, Saturday 03 July 1915.   
 
 
