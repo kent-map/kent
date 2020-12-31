@@ -37,14 +37,14 @@ At some time in late 1916 or early 1917 Mary left Herne Bay for Wellingborough a
 [^ref4]:  _Northampton Mercury_, Friday 24 March 1933.   
 [^ref5]:  _Northampton Mercury_, Friday 24 August 1934.   
 [^ref6]:  _Aberdeen Evening Express_, Saturday 15 July 1893.   
-[^ref7]:  https://www.loc.gov/resource/dcmsiabooks.dustlaurelsstudy00pend/?sp=11&r=-0.696,0.409,2.392,0.818,0   
+[^ref7]:  [Dust and Laurels](https://www.loc.gov/resource/dcmsiabooks.dustlaurelsstudy00pend/?sp=11&r=-0.696,0.409,2.392,0.818,0)  
 [^ref8]:  _Aberdeen Evening Express_, Saturday 15 July 1893.   
 [^ref9]:  _Aberdeen Evening Express_, Saturday 15 July 1893.   
-[^ref10]:  _New Ulm review._ (New Ulm, Brown County, Minn.), February 12, 1896, Image 7   
-[^ref11]:  The Herald, April 21, 1895, Page 16.  
+[^ref10]:  _New Ulm review._ (New Ulm, Brown County, Minn.), February 12, 1896.    
+[^ref11]:  _The Herald._ (Los Angeles, Calif.), April 21, 1895, p. 16.  
 [^ref12]: _London Evening Standard,_ Thursday 22 February 1900.
-[^ref13]:  'Books for holiday reading'. _The Review of reviews; London_ Vol. 32, Iss. 188,  (Aug 1905): 204-207.   
-[^ref14]: 'Books for holiday reading'. _The Review of reviews; London_ Vol. 32, Iss. 188,  (Aug 1905): 204-207.   
+[^ref13]:  'Books for holiday reading'. _The Review of reviews; London_, vol. 32, iss. 188, August 1905, pp. 204-207.   
+[^ref14]: 'Books for holiday reading'. _The Review of reviews; London_, vol. 32, iss. 188, August 1905), pp. 204-207.   
 [^ref15]:  _The Whitstable Times and Tankerton Press,_ June 7, 1913, 8.   
 [^ref16]:  _The Whitstable and Herne Bay Herald,_ July 5, 1913, 7.   
 [^ref17]:  _Northampton Mercury_, 17 October 1913.   
