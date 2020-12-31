@@ -27,3 +27,25 @@ Throughout her time in Beltinge, Mary was writing and publishing as well as supp
 
 At some time in late 1916 or early 1917 Mary left Herne Bay for Wellingborough and in 1920 she advertised her bungalow in Beltinge to let. Six years later she was to influence the young H. E. Bates, who became a noted Kent author, whilst he working as a journalist on the Kettering Reminder. Mary Pendered was to remain in Northamptonshire where she continued writing until her death in 1940.  She made no mention of her life in Kent in later interviews, nor of her suffrage work. Her novels, of which there were around 20, like her time in Kent, are now largely forgotten, as is the cigarette-smoking, fun-loving woman who brought so much cheer to those who knew her.
 
+**Article Written by:** Michelle Crowther
+
+
+  _The Oxford Companion to Edwardian Fiction_   
+  _Aberdeen Evening Express_ - Saturday 15 July 1893   
+  Dean Baldwin _H.E. Bates: a literary life_ (Associated University Presses, 1987)   
+  _Northampton Mercury_ - Friday 24 March 1933   
+  _Northampton Mercury_ - Friday 24 August 1934   
+  _Aberdeen Evening Express_ - Saturday 15 July 1893.   
+  https://www.loc.gov/resource/dcmsiabooks.dustlaurelsstudy00pend/?sp=11&r=-0.696,0.409,2.392,0.818,0   
+  _Aberdeen Evening Express_ - Saturday 15 July 1893   
+  _Aberdeen Evening Express_ - Saturday 15 July 1893   
+  _New Ulm review._ (New Ulm, Brown County, Minn.), February 12, 1896, Image 7   
+  The herald. [microfilm reel], April 21, 1895, Page 16, Image 16   
+  BOOKS FOR HOLIDAY READING. The Review of reviews; London Vol. 32, Iss. 188,  (Aug 1905): 204-207.   
+  _The Whitstable Times and Tankerton Press,_ June 7, 1913, 8.   
+  _The Whitstable and Herne Bay Herald,_ July 5, 1913, 7.   
+  _Northampton Mercury_, 17 October 1913   
+  Copy Of The National Scheme Of Co-Ordination Of Voluntary Effort Resulting From The Formation Of The Director General Voluntary Organisations Dept. Appendices III And IV. Being A Detailed Record Of The Work Of The Recognized Associations. Charity Commission. War Charities Act. 1916. Benevolent Organisations Date: n.d. Manuscript Number: B.O.1 1/15 Source Library: Imperial War Museum   
+ _Illustrated London News_ - Saturday 03 July 1915   
+
+
