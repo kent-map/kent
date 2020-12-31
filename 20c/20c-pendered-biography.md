@@ -13,7 +13,7 @@ Her first novel _Dust and Laurels: a study in nineteenth century womenhood_ publ
 Her writing at this time could be described as part of the ‘New Woman’ movement and was seen as slightly shocking by some of the critics, which is surprising giving the later appraisal of her work.[^ref10]   In her 1895 novel ‘A Pastoral Played out’, which was described as a “London literary sensation”, readers were shocked when her heroine Gylda agreed to live with her lover Etheredge who declared that he didn’t believe in marriage.[^ref11] 
 
 From at least 1895 she was writing stories for [Jerome K. Jerome](19c/19c-jerome-biography)'s _Idler_ and featured in the Idler’s Club column along with authors such as Mary Elizabeth Braddon and Ella Hepworth-Dixon. She also published stories in periodicals such as _Belgravia, Temple Bar, Quiver, Argosy, The Girl’s Own Paper, the Women’s Penny Paper_ and _Hearth and Home_.
-In 1899, her love of socialism was portrayed in her novel _An Englishman_, however, her middle-class tradesman hero was viewed by some with scepticism. _The Evening Standard_ wrote: “There is so much careful and intelligent work in Miss Mary Pendered’s novel, …But the book is dull, and in a novel dullness is an unforgiveable sin.”
+In 1899, her love of socialism was portrayed in her novel _An Englishman_, however, her middle-class tradesman hero was viewed by some with scepticism. _The Evening Standard_ wrote: “There is so much careful and intelligent work in Miss Mary Pendered’s novel, …But the book is dull, and in a novel dullness is an unforgiveable sin.”[^ref12]
 
 Her 1905 publication _The Truth about Man_ published anonymously ‘by a spinster’ was a little spicier, and was one of those books which simultaneously shocked but also appealed to those who denounced it; and its notoriety may have encouraged sales.  In it, Mary claimed to draw from her own personal experience, writing “I have been loved by three Americans, two Frenchmen, one German, one Irishman, one Swiss, three Scotsmen, and two or three Colonials, who do not count as they are so nearly English.”   The premise of the book was that women who have “a safe income, good friends, enough amusement and variety” do not need husbands. A reviewer from Yorkshire declared her a minx.
 
@@ -41,12 +41,13 @@ At some time in late 1916 or early 1917 Mary left Herne Bay for Wellingborough a
 [^ref8]:  _Aberdeen Evening Express_, Saturday 15 July 1893.   
 [^ref9]:  _Aberdeen Evening Express_, Saturday 15 July 1893.   
 [^ref10]:  _New Ulm review._ (New Ulm, Brown County, Minn.), February 12, 1896, Image 7   
-[^ref11]:  The herald. [microfilm reel], April 21, 1895, Page 16, Image 16   
-[^ref12]:  BOOKS FOR HOLIDAY READING. _The Review of reviews; London_ Vol. 32, Iss. 188,  (Aug 1905): 204-207.   
-[^ref13]:  _The Whitstable Times and Tankerton Press,_ June 7, 1913, 8.   
-[^ref14]:  _The Whitstable and Herne Bay Herald,_ July 5, 1913, 7.   
-[^ref15]:  _Northampton Mercury_, 17 October 1913.   
-[^ref16]:  Copy Of The National Scheme Of Co-Ordination Of Voluntary Effort Resulting From The Formation Of The Director General Voluntary Organisations Dept. Appendices III And IV. Being A Detailed Record Of The Work Of The Recognized Associations. Charity Commission. War Charities Act. 1916. Benevolent Organisations Date: n.d. Manuscript Number: B.O.1 1/15 Source Library: Imperial War Museum   
-[^ref17]: _Illustrated London News_, Saturday 03 July 1915.   
+[^ref11]:  The Herald, April 21, 1895, Page 16.  
+[^ref12]: _London Evening Standard,_ Thursday 22 February 1900.
+[^ref13]:  BOOKS FOR HOLIDAY READING. _The Review of reviews; London_ Vol. 32, Iss. 188,  (Aug 1905): 204-207.   
+[^ref14]:  _The Whitstable Times and Tankerton Press,_ June 7, 1913, 8.   
+[^ref15]:  _The Whitstable and Herne Bay Herald,_ July 5, 1913, 7.   
+[^ref16]:  _Northampton Mercury_, 17 October 1913.   
+[^ref17]:  Copy Of The National Scheme Of Co-Ordination Of Voluntary Effort Resulting From The Formation Of The Director General Voluntary Organisations Dept. Appendices III And IV. Being A Detailed Record Of The Work Of The Recognized Associations. Charity Commission. War Charities Act. 1916. Benevolent Organisations Date: n.d. Manuscript Number: B.O.1 1/15 Source Library: Imperial War Museum   
+[^ref18]: _Illustrated London News_, Saturday 03 July 1915.   
 
 
