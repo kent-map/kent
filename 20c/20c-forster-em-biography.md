@@ -7,15 +7,18 @@
 <param ve-entity="Weald" eid="Q2298322">
 <param ve-entity="Great Chart" eid="Q5598954">
 <param ve-entity="Borough Green" eid="Q2001391">
-<param ve-map primary center="Q936183">
+<param ve-map primary center="Q936183" zoom="8">
 
 ## E.M. Forster
 
-In 1893 E.M. Forster and his mother moved to Tonbridge  where they rented ‘Dryhurst’ in Dry Hill Park Road so that Forster might attend Tonbridge School as a day boy.[^ref1] Forster was unhappy here, although it is to Tonbridge that he owes the deep love of the classics on which he draws for many of his short stories and his two ‘English’ novels. He would base Sawston School, where Rickie Elliot teaches in The Longest Journey, on his Tonbridge experience.[^ref2]
+In 1893 E.M. Forster and his mother moved to Tonbridge  where they rented ‘Dryhurst’ in Dry Hill Park Road so that Forster might attend Tonbridge School as a day boy.[^ref1] Forster was unhappy here, although it is to Tonbridge that he owes the deep love of the classics on which he draws for many of his short stories and his two ‘English’ novels. He would base Sawston School, where Rickie Elliot teaches in _The Longest Journey_, on his Tonbridge experience.[^ref2]
+<param ve-map="Q936183" zoom="8">
 
 A few years later, through the Bloomsbury set, Forster met Sydney Waterlow.[^ref3] Waterlow’s family lived at Trosley Towers at Trottiscliffe on the chalk escarpment of the North Downs, with views over the Weald. Chalk topography plays an important role in Forster’s work, and he would have enjoyed his visits here, quite apart from his friendship with Sydney. Waterlow’s aunt was the [Countess von Arnim](20c-von-arnim-biography), the novelist then known as ‘Elizabeth of the German Garden’, and it was through Waterlow that Forster was offered the post of tutor to her daughters at Nassenheide in Pomerania, which he took up for the summer months of 1905.
+<param ve-map="Q1920945" zoom="8">
 
 In August 1907, just after the publication of _The Longest Journey_, Forster joined von Arnim and others of her former tutors, including Hugh Walpole, on the caravanning journey through the Weald during what was one of the wettest Augusts on record. Von Arnim would immortalise the holiday in her 1909 novel _The Caravaners_, though it is not evident which, if any, of the young men is based on Forster.[^ref4] Forster joined the party in a field at Great Chart but left before the end, travelling from Borough Green station back to London. He found the city ‘hummed strangely’ for, in a rare moment of sunshine, he had ‘heard a new song’ in the Kent countryside which he recorded in this poem.
+param ve-map="Q2001391" zoom="8">
 
 Ten shadows flecked the sunlit road,
 
