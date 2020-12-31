@@ -16,6 +16,7 @@
 [Victoria Holt](20c-holt-biography)   
 [Derek Jarman](20c-jarman-biography)   
 [Somerset Maugham](20c-maugham-biography)  
+[Mary L. Pendered](20c-pendered-biography)   
 [Christopher St John](20c-st-john-biography)  
 [Diana & Tony Powell-Cotton](20c-powell-cotton-biography)   
 [Vita Sackville-West](20c-sackville-west-biography)   
