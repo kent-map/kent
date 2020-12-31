@@ -8,7 +8,7 @@ The daughter of a Northamptonshire auctioneer, Mary was an energetic and politic
 
 According to Mary, her parents opposed her decision to become a journalist and her father refused to support her. For a year she “battled for a place in the literary scheme of things in London, undaunted by the starvation wage of £1 a week”  working for _Life_ magazine, where she “did everything except sweep out the office’.  After this, she secured a position with the London edition of the _Detroit Free Press_ where she met Hall Caine and George Bernard Shaw and became “well-known to the denizens of Bohemia”.  She also joined the Fabian socialists. 
 
-Her first novel ‘Dust and Laurels: a study in nineteenth century womenhood’ published in 1893 was published whilst she was working in London, and is dedicated to “that hybrid complication, the woman of to-day, whose food is fruit of the tree of knowledge of good and evil, and whose drink is the intoxicating ether of freedom and independence,”  It must have been exhausting writing her first novel, often in the late hours, whilst simultaneously being on the staff of “more than one London paper and acting editress of a popular weekly.”   The newspapers described it as “one of the most adventurous books of the season.  
+Her first novel _Dust and Laurels: a study in nineteenth century womenhood_ published in 1893 was published whilst she was working in London, and is dedicated to “that hybrid complication, the woman of to-day, whose food is fruit of the tree of knowledge of good and evil, and whose drink is the intoxicating ether of freedom and independence,”  It must have been exhausting writing her first novel, often in the late hours, whilst simultaneously being on the staff of “more than one London paper and acting editress of a popular weekly.”   The newspapers described it as “one of the most adventurous books of the season.  
 
 Her writing at this time could be described as part of the ‘New Woman’ movement and was seen as slightly shocking by some of the critics, which is surprising giving the later appraisal of her work.   In her 1895 novel ‘A Pastoral Played out’, which was described as a “London literary sensation”, readers were shocked when her heroine Gylda agreed to live with her lover Etheredge who declared that he didn’t believe in marriage. 
 
@@ -29,23 +29,24 @@ At some time in late 1916 or early 1917 Mary left Herne Bay for Wellingborough a
 
 **Article Written by:** Michelle Crowther
 
+### References
 
-  _The Oxford Companion to Edwardian Fiction_   
-  _Aberdeen Evening Express_ - Saturday 15 July 1893   
-  Dean Baldwin _H.E. Bates: a literary life_ (Associated University Presses, 1987)   
-  _Northampton Mercury_ - Friday 24 March 1933   
-  _Northampton Mercury_ - Friday 24 August 1934   
-  _Aberdeen Evening Express_ - Saturday 15 July 1893.   
-  https://www.loc.gov/resource/dcmsiabooks.dustlaurelsstudy00pend/?sp=11&r=-0.696,0.409,2.392,0.818,0   
-  _Aberdeen Evening Express_ - Saturday 15 July 1893   
-  _Aberdeen Evening Express_ - Saturday 15 July 1893   
-  _New Ulm review._ (New Ulm, Brown County, Minn.), February 12, 1896, Image 7   
-  The herald. [microfilm reel], April 21, 1895, Page 16, Image 16   
-  BOOKS FOR HOLIDAY READING. The Review of reviews; London Vol. 32, Iss. 188,  (Aug 1905): 204-207.   
-  _The Whitstable Times and Tankerton Press,_ June 7, 1913, 8.   
-  _The Whitstable and Herne Bay Herald,_ July 5, 1913, 7.   
-  _Northampton Mercury_, 17 October 1913   
-  Copy Of The National Scheme Of Co-Ordination Of Voluntary Effort Resulting From The Formation Of The Director General Voluntary Organisations Dept. Appendices III And IV. Being A Detailed Record Of The Work Of The Recognized Associations. Charity Commission. War Charities Act. 1916. Benevolent Organisations Date: n.d. Manuscript Number: B.O.1 1/15 Source Library: Imperial War Museum   
- _Illustrated London News_ - Saturday 03 July 1915   
+[^ref1]:  _The Oxford Companion to Edwardian Fiction_   
+[^ref2]:  _Aberdeen Evening Express_, Saturday 15 July 1893.   
+[^ref3]:  Dean Baldwin _H.E. Bates: a literary life_ (Associated University Presses, 1987)   
+[^ref4]:  _Northampton Mercury_, Friday 24 March 1933.   
+[^ref5]:  _Northampton Mercury_, Friday 24 August 1934.   
+[^ref6]:  _Aberdeen Evening Express_, Saturday 15 July 1893.   
+[^ref7]:  https://www.loc.gov/resource/dcmsiabooks.dustlaurelsstudy00pend/?sp=11&r=-0.696,0.409,2.392,0.818,0   
+[^ref8]:  _Aberdeen Evening Express_, Saturday 15 July 1893.   
+[^ref9]:  _Aberdeen Evening Express_, Saturday 15 July 1893.   
+[^ref10]:  _New Ulm review._ (New Ulm, Brown County, Minn.), February 12, 1896, Image 7   
+[^ref11]:  The herald. [microfilm reel], April 21, 1895, Page 16, Image 16   
+[^ref12]:  BOOKS FOR HOLIDAY READING. _The Review of reviews; London_ Vol. 32, Iss. 188,  (Aug 1905): 204-207.   
+[^ref13]:  _The Whitstable Times and Tankerton Press,_ June 7, 1913, 8.   
+[^ref14]:  _The Whitstable and Herne Bay Herald,_ July 5, 1913, 7.   
+[^ref15]:  _Northampton Mercury_, 17 October 1913.   
+[^ref16]:  Copy Of The National Scheme Of Co-Ordination Of Voluntary Effort Resulting From The Formation Of The Director General Voluntary Organisations Dept. Appendices III And IV. Being A Detailed Record Of The Work Of The Recognized Associations. Charity Commission. War Charities Act. 1916. Benevolent Organisations Date: n.d. Manuscript Number: B.O.1 1/15 Source Library: Imperial War Museum   
+[^ref17]: _Illustrated London News_, Saturday 03 July 1915.   
 
 
