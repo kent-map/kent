@@ -15,7 +15,8 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 ‘The Haunted Battleship’ (_The Enchanted Road_) is an epic description of the demolition of the _Conqueror_ by commercial shipbreakers at Upnor on the Medway. The ship saw service at Jutland, but the hulk was, when Maxwell visited, being taken apart bit by bit to make ‘razor blades and mowing machines.’ His drawing and description provide dignity to the process. In the ruined wardroom ‘[v]istas of woodland landscape appeared through rents in the steel walls, an eerie compensation for the absence of pictorial decoration.’
 Older, abandoned sites of industry also attracted Maxwell’s attention. In _The Enchanted Road_ his chapter ‘The Valley of Dreams’ describes a landscape where ‘geography gets lost, where geology is suspended, and where even the laws of gravity are slightly modified’. This ‘valley enchanted’ is no natural phenomenon, but the site of a string of rag stone quarries dating back perhaps to Roman times, now ameliorated by the growth of vegetation. A similar treatment is provided for the Elizabethan iron foundry landscape of the Weald.
 Maxwell does, however, provide his fair share of the charming, quaint and the curious, for example his excursion to Colling to visit the ‘lozenge’ tombstones, the model for opening chapter of [_Great Expectations_](/dickens/great-expectations-curated-walk).
-Article Peter Vujakovic
+
+**Article written by:** Peter Vujakovic
 
 ### Bibliography
 
