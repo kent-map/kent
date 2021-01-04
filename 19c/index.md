@@ -10,6 +10,7 @@
 ### People
 
 [William Harrison Ainsworth](19c-ainsworth.biography)  
+[Hans Christian Andersen](19c-christian-andersen)   
 [Jane Austen](19c-austen-biography)  
 [Robert Barr](19c-barr-biography)  
 [R. D. Blackmore](19c-blackmore-biography)  

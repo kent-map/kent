@@ -12,7 +12,7 @@ Many were exhausted and few spoke English. Fishermen are likely to have been amo
 <pararm ve-image url="Belgian1.jpg" label="Belgian Refugees">
 <param ve-map center="Q7738972">
 
-In July 1915 [Folkestone](20c-folkestone-ww1)  declared a ‘Belgian Day’ to coincide with the Belgian national holiday. Some shopkeepers put up signs to say that French was spoken and a ‘literary circle’ was set up for locals and refugees to come together. The [Folkestone](/20c/20c-folkestone-ww1)  Refugees Committee and the Baptists’ Women’s League sent out regular supplies of clothing to those who needed them, while schools waived initial fees in order to provide education for the children. The War Refugees Committee was set up in 1914 and received 1,000 letters in one day in response to their appeal for hospitality for women and children.
+In July 1915 [Folkestone](/20c/20c-folkestone-ww1)  declared a ‘Belgian Day’ to coincide with the Belgian national holiday. Some shopkeepers put up signs to say that French was spoken and a ‘literary circle’ was set up for locals and refugees to come together. The [Folkestone](/20c/20c-folkestone-ww1)  Refugees Committee and the Baptists’ Women’s League sent out regular supplies of clothing to those who needed them, while schools waived initial fees in order to provide education for the children. The War Refugees Committee was set up in 1914 and received 1,000 letters in one day in response to their appeal for hospitality for women and children.
 <pararm ve-image url="Belgian2.jpg" label="Belgian Refugees">
 
 Belgian refugee Fredo Franzoni’s painting ‘Landing of the Belgian Refugees’ was presented to the town as a token of thanks in 1916.
