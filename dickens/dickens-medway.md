@@ -1,14 +1,15 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Dickens in the Medway" author="Helena Kelly" layout="vtl" banner="URL here">
 <!-- Kent with map centered at Rochester -->
-<param data-map center="51.254291, 0.876473" zoom="10">
+<param data-map center="51.254291, 0.876473" zoom="20">
        
-<param ve-entity eid="Q2635720">
-<param ve-entity eid="Q1808441">
-<param ve-entity eid="Q5068781">
-<param-ve entity eid="Q507517">
-<param-ve entity eid="Q1223395">
+<param ve-entity eid="Q2635720" alias="Rochester Cathedral">
+<param ve-entity eid="Q1808441" alias="Strood">
+<param ve-entity eid="Q5068781" alias="Chalk">
+<param-ve entity eid="Q507517" alias="Rochester">
+<param-ve entity eid="Q1223395" alias="Ellen Ternan">
 <param-ve entity eid="Q729006" alias="Chatham">
+<param-ve entity eid="Q676689" alias="Gravesend">
 
 ## Dickens in the Medway
 
