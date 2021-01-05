@@ -16,14 +16,10 @@ A year later, having resolved to abandon his medical career and become a full-ti
 
 ### Bibliography
 
-Barker, Nigel, et al. _Margate’s Seaside Heritage_. English Heritage, 2007. https://historicengland.org.uk/images-books/publications/margates-seaside-heritage/margates-seaside-heritage/
+Barker, Nigel, et al. _Margate’s Seaside Heritage_. English Heritage, 2007. https://historicengland.org.uk/images-books/publications/margates-seaside-heritage/margates-seaside-heritage/   
 
-Keats, John. _John Keats: The Complete Poems_. Edited by John Barnard. London: Penguin
+Keats, John. _John Keats: The Complete Poems_. Edited by John Barnard. London: Penguin Classics, 1977.   
 
-Classics, 1977.
+Keats, John. [_Letters of John Keats to His Family and Friends_](http://www.gutenberg.org/ebooks/35698). Edited by Sidney Colvin. Project Gutenberg, 1925.   
 
-Keats, John. [_Letters of John Keats to His Family and Friends_](http://www.gutenberg.org/ebooks/35698.
-
-). Edited by Sidney Colvin. Project Gutenberg, 1925.
-
-Motion, Andrew. Keats. London: Faber, 1997.
+Motion, Andrew. _Keats_. London: Faber, 1997.
