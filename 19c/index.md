@@ -21,6 +21,7 @@
 [George Grossmith](19c-grossmith-biography)  
 [Henry James](19c-jamesh-hever-castle)  
 [Jerome K. Jerome](19c-jerome-biography)   
+[John Keats](19c-keats-margate)   
 [Bessie Marchant](19c-marchantb-biography)  
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)  
 [Bessie Marchant](19c-marchantb-biography)  
