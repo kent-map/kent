@@ -2,7 +2,7 @@
 
 ## Margate in the nineteenth century
 
-![A view at Margate - ©The British Library Board maps_k_top_17_4_d](images/AViewatMargatemaps_k_top_17_4_d.jpg){: .right .dropshadow}
+![A view at Margate - ©The British Library Board maps_k_top_17_4_d](images/AViewatMargatemaps_k_top_17_4_d.jpg){: .left .dropshadow}
 
 The ‘modesty hood’, designed to screen naked bathers as they descended the steps of their horse-powered bathing machines, was invented in Margate in 1753 by Benjamin Beale, and the town’s credibility as a health resort was consolidated with the founding of a charitable [Royal Sea Bathing Infirmary](http://glorious-and-unknown.co.uk/margate-royal-sea-bathing-infirmary/) in 1792 for the treatment of scrofula. In 1820 writer Walley Chamberlain Oulton noted that due to the salubrious air ‘The temperate islander may be frequently seen, at the age of ninety, performing his domestic functions with all the activity and bustle of youth.’
 
