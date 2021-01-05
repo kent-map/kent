@@ -15,8 +15,8 @@ Burnand, Frances Cowley, illustrated by Phil May. _The Z.Z.G., or Zig Zag Guide:
 
 ### References
 
-[^ref1]: 'Mrs Brown at Margate' 153.
-[^ref2]: Westgate and Birchington are affluent late-Victorian developments on the outskirts of Margate.
-[^ref3]: To Thomas Beard. 14 July 1847. _Pilgrim_ 5. 128- 129. 128.
+[^ref1]: 'Mrs Brown at Margate' 153.   
+[^ref2]: Westgate and Birchington are affluent late-Victorian developments on the outskirts of Margate.   
+[^ref3]: To Thomas Beard. 14 July 1847. _Pilgrim_ 5. 128- 129. 128.   
 
 
