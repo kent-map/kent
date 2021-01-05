@@ -6,7 +6,9 @@
 
 The ‘modesty hood’, designed to screen naked bathers as they descended the steps of their horse-powered bathing machines, was invented in Margate in 1753 by Benjamin Beale, and the town’s credibility as a health resort was consolidated with the founding of a charitable [Royal Sea Bathing Infirmary](http://glorious-and-unknown.co.uk/margate-royal-sea-bathing-infirmary/) in 1792 for the treatment of scrofula. In 1820 writer Walley Chamberlain Oulton noted that due to the salubrious air ‘The temperate islander may be frequently seen, at the age of ninety, performing his domestic functions with all the activity and bustle of youth.’ 
 
-In the early 19th century visitors would have arrived by hoy boat, although this somewhat rickety form of transport had been superseded by the steam packet by the 1830s. On arrival from London visitors landed at Jarvis’ Landing Place (erected in 1824), where they might well feel bewildered by ‘the kissings of husbands and wives, the greetings of fathers and sons, the officiousness of porters, the calls of bathing-women, the programmes of librarians, and the rush and push of the inquisitive.’[^ref1]
+In the early 19th century visitors would have arrived by hoy boat, although this somewhat rickety form of transport had been superseded by the steam packet by the 1830s. 
+
+On arrival from London visitors landed at Jarvis’ Landing Place (erected in 1824), where they might well feel bewildered by ‘the kissings of husbands and wives, the greetings of fathers and sons, the officiousness of porters, the calls of bathing-women, the programmes of librarians, and the rush and push of the inquisitive.’[^ref1]
 
 ![Margate from the Parade - ©The British Library Board c11802-06 / Maps K.Top.17.4.e.](images/Margatefromtheparade.JPG){: .right .dropshadow}
 
