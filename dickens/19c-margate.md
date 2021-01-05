@@ -30,15 +30,15 @@ Dickens, Charles. ‘The Tuggses at Ramsgate’. Dickens’ Journalism. _Sketche
 
 Oulton, Walley Chamberlain. [_A Picture of Margate and Its Vicinity_.](https://books.google.com.gh/books?id=ExEHAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false) First published 1820.
 
-Surtees, R. S. ''Jorrocks’s Jaunts and Jollities.'' London Routledge: 1838 [1869 edition]. Chapter on ‘Aquatics: Mr Jorrocks at Margate’ 113-42.
+Surtees, R. S. _Jorrocks’s Jaunts and Jollities._ London Routledge: 1838 [1869 edition]. Chapter on ‘Aquatics: Mr Jorrocks at Margate’ 113-42.
 
 Wynne, Pamela. _Love in a Mist_. London: Philip Allen & Co., 1932.
 
 ### References
 
-[^ref1]: Jorrocks’s Jaunts and Jollities. 124.
+[^ref1]: _Jorrocks’s Jaunts and Jollities_. 124.
 [^ref2]: [Canterbury Tales: from the City to the Sea.](https://www.youtube.com/watch?v=461nK7mazNo)
-[^ref3]:  Love in a Mist. 101.
+[^ref3]: _Love in a Mist_. 101.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjI1OTM4MzU0XX0=
