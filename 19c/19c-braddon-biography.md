@@ -14,8 +14,9 @@ _Gerard, or, The World, The Flesh and The Devil_ (1891) whimsically suggests tha
 >I believe he invents a name and a Bad every summer, and then goes quietly and lives up the country between Broadstairs and Birchington, and basks all day upon some solitary stretch of sand, or on the edge of some lonely cliff, where the North sea breezes blow above the rippling whiteness of the wheat; and lies in the sunshine, and plans fresh impostures for the winter season.
 
 
-[_All Along the River_](http://www.gutenberg.org/files/57405/57405-h/57405-h.htm) (1893) invokes[Broadstairs](dickens/broadstairs-19th-century) only as a foil to the sublime Italian landscape.
-Do you see the height of those cliffs, terrace above terrace, hill above hill? Why, that level road at the very bottom is the top of a taller cliff than those I used to think so appalling at Broadstairs and Ramsgate!
+[_All Along the River_](http://www.gutenberg.org/files/57405/57405-h/57405-h.htm) (1893) invokes [Broadstairs](dickens/broadstairs-19th-century) only as a foil to the sublime Italian landscape. 
+
+>Do you see the height of those cliffs, terrace above terrace, hill above hill? Why, that level road at the very bottom is the top of a taller cliff than those I used to think so appalling at Broadstairs and Ramsgate!
 
 
 **Article by:**  Carolyn Oulton
