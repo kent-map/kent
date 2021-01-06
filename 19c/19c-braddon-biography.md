@@ -16,7 +16,7 @@ Do you see the height of those cliffs, terrace above terrace, hill above hill? W
 
 ### Bibliography
 
-Braddon, M. E. [_All Along the River_ (1893)]( https://www.gutenberg.org/files/57405/57405-h/57405-h.htm).
---. _Barbara 1880_.
---. _Gerard, or, The World, The Flesh and The Devil_ (1891).
-Cognard-Black, Jennifer and Elizabeth Macleod Walls, eds. _Kindred Hands: Letters on Writing by British and American Women Authors, 1865-1935_. Iowa: University of Iowa Press, 2006.
+Braddon, M. E. [_All Along the River_ (1893)]( https://www.gutenberg.org/files/57405/57405-h/57405-h.htm).   
+--. _Barbara 1880_.   
+--. _Gerard, or, The World, The Flesh and The Devil_ (1891).   
+Cognard-Black, Jennifer and Elizabeth Macleod Walls, eds. _Kindred Hands: Letters on Writing by British and American Women Authors, 1865-1935_. Iowa: University of Iowa Press, 2006.   
