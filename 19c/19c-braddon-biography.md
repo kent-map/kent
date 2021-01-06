@@ -2,7 +2,7 @@
 
 Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, [Mary Braddon]( https://maryelizabethbraddon.com/) is still best known for her 1862 sensation novel _Lady Audley’s Secret_ and only slightly less so for her unconventional domestic life as the unmarried partner of publisher John Maxwell. Having met in 1860, the couple were only able to marry in 1874 on the death of Maxwell’s insane first wife, making Braddon the legal stepmother of his five children. They also had six children together.
 
-![M.E. Braddon and family ©ICVWW](images/braddon.jpg){: .right}
+![M.E. Braddon and family ©ICVWW](images/braddon family.jpg){: .right}
 
 The family lived in Richmond, but in 1878 they were in Broadstairs ‘for a week or so with children who have been ill, & who are in need of strengthening breezes.’  Like the parents of [Emily Shore](19c/19c-shore-biography) almost half a century earlier, Braddon was clearly persuaded of the benefits of sea air as a restorative for invalids.  
 
