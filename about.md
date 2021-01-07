@@ -31,6 +31,8 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 ##
 **Michelle Crowther**
 
+- twitter: @HumLib_cccu
+
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/michelle.jpg)
 
 Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature.
@@ -45,9 +47,20 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eliza Haweis Fanclub. When she’s not busy reading advice on how to be a proper Victorian lady, you will likely find her in a quaint old pub with a Kentish cider and a battered old copy of Jane Eyre.
 
 ##
+**Sophie Baldock**
+
+- twitter: @SophieBaldock
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/sophiebaldock.jpg)
+
+Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive, one of the first hybrid (part-paper, part-digital) literary archives acquired by the Library. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). She grew up in Kent, and in the summer enjoys swimming in the sea along the east Kent coast.  
+
+##
 **Claire Bartram**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/claire bartram.jpg)
+
+Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
 
 ##
 **Simone Blandford**
@@ -66,8 +79,11 @@ Susan is Senior Lecturer in Romanticism at Canterbury Christ Church University. 
 ##
 **Kaitlyn Cowling**
 
+- twitter: @KaitlynMCowling
+
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/kaitlyncowling.jpg)
 
+Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from Canterbury Christ Church University. In 2019, Kaitlyn co-wrote a 'Murder Mystery Trail' event for the Being Human Festival. She has lived in Kent her whole life.
 
 ##
 **Carla Danella**
@@ -75,6 +91,11 @@ Susan is Senior Lecturer in Romanticism at Canterbury Christ Church University. 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/carla.JPG)
 
 Carla Danella has a BA from Wellesley College (in the US) and recently completed her MA in English Literature at Canterbury Christ Church University, studying the writing and life of the English writer and eccentric, Christopher St John. When not creating occasional exhibitions for the National Trust at Smallhythe Place, or at her day job as web content manager, she can be found hiking in Kent with her dog Max.
+
+##
+**Diana Hirst**
+
+Arriving in East Kent two days before her second birthday, Diana Hirst has been rooted in its landscape ever since. While in exile, first on London clay and subsequently on Suffolk clay, she has regularly returned to Deal. As a poet, much of her early work was about Kent, particularly its chalklands, and she was 2008 Deal and Dover Poet of the Year. Now at Canterbury Christ Church, she is writing a PhD on Elizabeth Bowen, a writer she’s been interested in since she first read Eva Trout in 1969 and discovered the heroine trampling over landscapes she had fondly imagined belonged to her alone. But this began to make sense when she discovered that Bowen, too, had put down roots in East Kent ...
 
 ##
 **Katie Holdway**
@@ -126,7 +147,7 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 
 - twitter: @DrPeteOrford
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/peteorford.JPG)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/peterorford.JPG)
 
 Pete Orford is Course Director of the MA in Dickens Studies at the University of Buckingham. His most recent publication is The Mystery of Edwin Drood: Charles Dickens' unfinished novel and our endless attempts to end it for Pen & Sword, and further details of Drood and its legion of solutions can be found on his website www.droodinquiry.com He is currently completing an edition of Pictures from Italy for the Oxford Dickens, writing a Dickens biography for the Blackwell Literary Lives series, and co-editing a volume of plays by Dickens for Edinburgh UP.
 
@@ -194,3 +215,5 @@ Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History 
 **Charlie Worthington**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/charlieworthington.jpg)
+
+Charlotte Worthington is currently a third-year history and French undergraduate, with the intention to go into translation. She was born in the UK but lived in the Lot in the south of France from the age of 11. A keen interest in literature has led her to do her work experience for one of the third-year French modules with the Kent Digital Map project.
