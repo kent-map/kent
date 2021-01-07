@@ -47,7 +47,7 @@ From Rochester to Broadstairs on the East coast – wherever you go you can be f
 
 - author: Helena Kelly
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Chatham%20Dockyard.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/1200px-2006SweepsCath1crop.jpg)
 
 “Mudbank, mist, swamp … swamp, mist, and mudbank.”’ So says a convict in Great Expectations), describing the ‘marsh country’ in which Pip and Estella have grown up. I grew up here too, so did generations of my family before me. 
 
@@ -58,4 +58,4 @@ From Rochester to Broadstairs on the East coast – wherever you go you can be f
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/1200px-Mystery_of_edwin_drood_0188.jpg)
 
-Rochester is proud to celebrate its Dickensian connections, and the most fascinating and intriguing connection is its inspiration for the fictional town of Cloisterham, backdrop to Dickens’s final novel The Mystery of Edwin Drood. 
+Rochester is proud to celebrate its Dickensian connections, and the most fascinating and intriguing connection is its inspiration for the fictional town of Cloisterham, backdrop to Dickens’s final novel _The Mystery of Edwin Drood._ 
