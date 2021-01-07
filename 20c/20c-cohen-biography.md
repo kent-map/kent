@@ -24,18 +24,14 @@ In 1963, Cohen and his second wife Diana were looking for a studio. They drove t
 Alfred started painting the landscape immediately, but it was a new challenge, and he realized he would need to transform his technique:
 
 >What hit me was an incredible feeling of privacy. Driving along a country road I felt the hedges crowding in on me. The leaves were so thick that they were like a wall. We passed a hedge-cutter and he glared at us as if we’d interrupted some ritual. Then he stepped down into the ditch and disappeared as though he’d been absorbed by the landscape. Everything was so impenetrably, all-over green that I could think of no way of getting into it as a painter. The way I’d been working simply wouldn’t do. 
-
 <param ve-image url="images/ballards.jpg" label="Alfred Cohen, Hedgecutting and Harvesting, 1969, oil on canvas, 40 x 28 in; 101.6 x 71.1 cm. © The Artist’s Estate. Believed to have been overpainted. Slide, Alfred Cohen Archive">  
 
 From the mid-1960s Cohen’s paintings became more heavily worked, with increased impasto; many of the effects achieved by working the paint with a palette knife. As journalist Philip Oakes explained: ‘He evolved a new style, using paint like a sculptor, laying down slabs of colour, carving it with his brush so that the fields and hedges and houses seemed to be hewn from the canvas’. 
-
 <param ve-image url="images/neargoudhurst.jpg" label="Alfred Cohen, Near Goudhurst, 1965, oil on board, 9.75 x 11.in; 24.8 x 29.9 cm. © The Artist’s Estate. Collection: Diana Cohen. Photo: Peter Huggins"> 
-
 <param ve-image url="images/walmerlifeboat.jpg" label="Alfred Cohen, The Walmer Lifeboat and the Goodwin Sands, 1964, casein on board, 18 x 24 in; 45.7 x 61 cm. © The Artist’s Estate. Photo: Peter Huggins. Arts Council England"> 
 <param ve-map primary center="Q2551894" zoom="10">
 
 Cohen’s British landscapes were well-received, with critics continuing to praise his compositional intelligence. ‘He uses the inter-relationship of houses, trees, fields and roads as excitingly as any abstract painter’, said the Jewish Chronicle, adding that ‘the pictures are intensely alive both as paint and as nature’.  
-
 <param ve-image url="images/redlandscape.jpg" label="Red Landscape in Kent, 1965, oil on canvas, 18 x 22 in; 45.7 x 55.9 cm. Alfred Cohen Art Foundation; gift of Michael and Jill Barrington. © The Artist’s Estate. Photo: Peter Huggins"> 
  
 To the Conoisseur, his ‘landscapes ha[d] the look of ancient stained glass’.  Pictures on Exhibit said: 
@@ -46,7 +42,6 @@ In 1970 they sold the Coach House and moved eight miles away to a house off the 
 needed plenty of work. He enjoyed visualising how to bring out a house’s full potential, and making sketches for the architects and builders to realise:
 <param ve-map primary center="Q24660387" zoom="10">
 <param ve-image url="images/copden.jpg" label="Copden House in 1970. Photo: Alfred Cohen Archives"> 
-
 <param ve-image url="images/copden1974.jpg" label="Copden House in 1974. Photo: Alfred Cohen Archive"> 
 
 Cohen continued to show in London’s West End galleries, but the country now provided his main subjects. While in France he had painted the Channel ports. In Kent he returned to the Channel coastline, now seen from both sides. 
@@ -56,7 +51,6 @@ Cohen continued to show in London’s West End galleries, but the country now pr
 Creative conversions were to become a sideline. In the mid-70s the Cohens moved again. This time they had bought an unusual oast house – with a solitary, square oast – and eighteenth-century barn near Iden Green and Benenden. These were unconverted farm buildings, so they moved into another house in Iden Green they had converted but been unable to sell as the property market crashed. Scullsgate Oast nestled in a secluded corner well off a very quiet lane, and with beautiful views over sheep fields. But it proved a greater challenge than they’d imagined Though the beams of the barn were still sound, they had no foundations, so builders had to dig underneath the frame and fill trenches with concrete. The roof and cladding all needed replacing, and there were no facilities. It was like building a very large new house, only with the inconvenience of having to do it round the old oak structure. But it made a marvellous, dramatic open space, perfect for a large studio. They put in a balcony and a bathroom above, adjoining the master-bedroom in the top of the oast. 
 <param ve-map primary center="Q2686542" zoom="10">
 <param ve-image url="images/scullsgate.jpg" label="Scullsgate Oast, Benenden, c. 1978. Photo: Alfred Cohen Archive"> 
- 
 <param ve-image url="images/cohenstudio.jpg" label="Alfred Cohen in his studio at Scullsgate Oast, 1978. Photo: Alfred Cohen Archive."> 
  
 Unfortunately they were not able to finish the conversion before they ran out of money, and were forced to sell it in 1978, and say goodbye to Kent. This time they found an old school house in Wighton, Norfolk, just inland from Wells-next-the-Sea, and determined to do it up much more slowly. They discovered later that it was where Henry Moore had lived when he was an art student. In 1983 Diana opened the prestigious School House Gallery there, showing not only Moore himself, but many other modern masters including Hockney, Eric Gill, David Jones, and a number of up-and-coming Norfolk artists.
