@@ -5,7 +5,6 @@
 **Place:** Broadstairs
 
 >‘”Who wants to know what everything means? Novels are not meant to be real life, only stories to amuse us. It is wrong to take such things seriously.” 
-
 “But you do take them seriously,” objected Ethel. “You read volumes and volumes of such stuff, and it’s bad for you. It fills you with all sorts of fancies and notions, that are worse than useless in this practical world.”’  _The Third Chance_, 1912. 
 
 ![Gladys Waterer, as Mrs Squeers, Dickens Festival 1939](images/GettyImages-1053502770 Gladys Waterer1.jpg){: .right .dropshadow} 
