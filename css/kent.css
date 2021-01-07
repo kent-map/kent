@@ -1,7 +1,7 @@
 /* CSS for documentation site */
 
 a {
-    color: #551A8B !important;
+    color: #3400ee !important;
 }
 p a:link,
 p a:visited {
@@ -16,4 +16,8 @@ a:hover {
     cursor: pointer;
     color: #551A8B !important;
     text-decoration: underline !important;
+}
+
+a.essay-card {
+    color: #444 !important;
 }
