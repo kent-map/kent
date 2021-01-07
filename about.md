@@ -159,6 +159,13 @@ Pete Orford is Course Director of the MA in Dickens Studies at the University of
 Jeremy Page has published several collections of poems, among them In and Out of the Dark Wood (HappenStance, 2010) and Closing Time (Pindrop, 2014), and translations of Catullus, Leopardi, Rimbaud, Verlaine and Boris Vian. His novella London Calling was published by Cultured Llama in 2018. He is the founding editor of _The Frogmore Papers._
 
 ##
+**Maddie Pettit**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maddiepettit.jpg)
+
+Madeleine Pettit is a History student at the University of Leeds. While in the sixth form at The Simon Langton Grammar School for Boys, she did her EPQ on Belgian refugees in Folkestone during WW1, which sparked her interest in local history. Researching the project gave her a good grounding in undertaking research, which she has since transferred to her studies at Leeds.
+
+##
 **Max Saunders**
 
 - twitter: @SaundersMax
