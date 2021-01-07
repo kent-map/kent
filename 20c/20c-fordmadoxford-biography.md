@@ -19,7 +19,11 @@ In _The Heart of the Country_ (1906) and later in _Return to Yesterday_ (1931) F
 
 In 1896 they moved to the Pent, a red-brick and tiled farmhouse on the Pilgrim's Way near Postling. It was only a couple of miles from Sandling Junction. The Pent was to be their home for two years. But Elsie found it depressing, and in 1898 they moved to Limpsfield (in Surrey) to be near their friends Edward and Constance Garnett. Ford was introduced to [Joseph Conrad](19c/19c-conrad-biography) that year by Garnett. [Conrad](19c/19c-conrad-biography) was looking for a collaborator. Ford had drafted a novel about an Englishman tried for piracy in the 1820s. [Conrad](19c/19c-conrad-biography)’s knowledge of the sea made him the ideal person to help knock it into shape. They worked closely together over a decade, and eventually published three books together.
 <param ve-map primary center="Q2309424" zoom="10">
-
+<param ve-image
+	   label="Pent Farm, Postling."
+	   attribution="Christopher Hilton / Pent Farm, Postling"
+	   license="Creative Commons Attribution Share-alike license 2.0"
+	   url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Pent_Farm%2C_Postling_%28geograph_3467328%29.jpg">
 
 With his characteristic generosity to other writers and artists, Ford immediately handed over the Pent to the Conrads – though it effectively his second home until the Conrads left in 1907. Ford and Elsie moved back to Kent to be nearby, taking a house called Stocks Hill, a coast guard's cottage perched under Aldington Knoll (Aldington being the next village to Bonnington). Ford grandly renamed the house as ‘Stock’s Hall’. But it was primitive, and too small for a couple who now had two daughters. The house is no longer standing.
 <param ve-map primary center="Q921173" zoom="10">
