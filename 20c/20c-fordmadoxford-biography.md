@@ -10,6 +10,11 @@ banner="https://upload.wikimedia.org/wikipedia/commons/d/da/a photo to go on the
 ### 1873-1939
 
 Ford was originally named ‘Ford Hermann Hueffer’. His father was the German émigré Wagnerian and music critic of the _Times_, Francis Hueffer; his mother, Catherine, was the daughter of Pre-Raphaelite painter Ford Madox Brown. But after the First World War Ford changed his name to ‘Ford Madox Ford’. He was born in Merton, and brought up in Hammersmith. But in 1894 he eloped with his childhood sweetheart Elsie Martindale, and they moved to the Romney Marsh, where Ford lived until they gradually separated from 1907-09. 
+<param ve-image
+	   label="Ford Madox Heuffer."
+	   attribution="not stated, Public domain, via Wikimedia Commons"
+	   license="Public Domain"
+	   url="https://upload.wikimedia.org/wikipedia/commons/6/67/Picture_of_Ford_Madox_Hueffer.jpg">
 <param ve-map primary center="Q1506093" zoom="10">
 
 Their first house in Kent was called Blomfield Villa, in Bonnington, by a spot called 'Hog Turd Green', and was the first of Ford's many houses to have little in the way of sanitation: there were no drains, and the drinking water had to be brought from a mile away. It was damp, because built over a stream. There was a well nearby into which Ford would lower their boots on a string to clean them, drying them afterwards in front of a fire. The Hueffers were in Bonnington from 1894. The house was later named 'Fir Trees Villa', and is just off the B2067, on the road between Priory Wood and Park Wood. 
