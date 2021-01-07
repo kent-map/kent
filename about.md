@@ -161,7 +161,7 @@ Jeremy Page has published several collections of poems, among them In and Out of
 ##
 **Maddie Pettit**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maddiepettit.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Maddie radio.jpg)
 
 Madeleine Pettit is a History student at the University of Leeds. While in the sixth form at The Simon Langton Grammar School for Boys, she did her EPQ on Belgian refugees in Folkestone during WW1, which sparked her interest in local history. Researching the project gave her a good grounding in undertaking research, which she has since transferred to her studies at Leeds.
 
