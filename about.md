@@ -77,8 +77,11 @@ Susan is Senior Lecturer in Romanticism at Canterbury Christ Church University. 
 ##
 **Kaitlyn Cowling**
 
+- twitter: @KaitlynMCowling
+
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/kaitlyncowling.jpg)
 
+Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from Canterbury Christ Church University. In 2019, Kaitlyn co-wrote a 'Murder Mystery Trail' event for the Being Human Festival. She has lived in Kent her whole life.
 
 ##
 **Carla Danella**
