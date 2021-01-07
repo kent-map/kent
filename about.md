@@ -201,6 +201,13 @@ Marnie Stanley is a student at Canterbury Christ Church University
 Dr Christian Taylor is Head of English at the Langton Grammar School for Boys, Canterbury.  He was born in Blackpool last century, slithered down to London to teach the scions of the well-heeled and double-barrelled, then slinked into Kent by a trap door in Ramsgate.  His research passions are singularly monomaniacal: all things Eliot (TS); anything Tony Harrison and Peter Reading; trying to prove to a cruel and dismissive world the truth of Calvin Hoffman's thesis that Christopher Marlowe wrote all the plays attributed to Shakespeare.  Yes.  All of them.
 
 ##
+**Peter Vujakovic**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/petervujakovic.jpg)
+
+Peter is Emeritus Professor of Geography at Canterbury Christ Church University. His research and publications cover cultural aspects of maps and mapping; landscape, heritage and ‘sense of place’; and landscape ecology (biogeography). For much of the last two decades he has lived close to the River Stour (near Wye) from where he has explored the world of Riddley Walker. He has also co-ordinated/written two series of popular articles on Kent’s landscape for Kent Life and is editor of the [Christ Church Heritage A to Z.](https://medium.com/the-christ-church-heritage-a-to-z)
+
+##
 **Elizabeth Waterman-Scrase**
 
 @ElizabethScrase 
@@ -208,14 +215,6 @@ Dr Christian Taylor is Head of English at the Langton Grammar School for Boys, C
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Elizabeth_WS.jpg)
 
 Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. She has spent almost 30 years rummaging about in museums and castles across the UK and Europe researching the human story, following the footsteps of our collective history. Elizabeth has taught history across Europe, built siege engines, cannons, and been shot with an arrow (it was believed to be an accident). As of 2016, Elizabeth has been studying at Canterbury Christ Church University, completing her BA (Hons) in Creative and Professional Writing. Elizabeth is now onto her Masters in Creative Writing and heading towards the study of a Ph.D.
-
-##
-**Peter Vujakovic**
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/petervujakovic.jpg)
-
-Peter is Emeritus Professor of Geography at Canterbury Christ Church University. His research and publications cover cultural aspects of maps and mapping; landscape, heritage and ‘sense of place’; and landscape ecology (biogeography). For much of the last two decades he has lived close to the River Stour (near Wye) from where he has explored the world of Riddley Walker. He has also co-ordinated/written two series of popular articles on Kent’s landscape for Kent Life and is editor of the [Christ Church Heritage A to Z.](https://medium.com/the-christ-church-heritage-a-to-z)
-
 
 ##
 **Martin Watts**
