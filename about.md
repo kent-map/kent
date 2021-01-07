@@ -213,3 +213,5 @@ Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History 
 **Charlie Worthington**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/charlieworthington.jpg)
+
+Charlotte Worthington is currently a third-year history and French undergraduate, with the intention to go into translation. She was born in the uk but lived in the Lot in the south of France from the age of 11. A keen interest in literature has led her to do her work experience for one of the third-year French modules with the Kent Digital Map project.
