@@ -145,7 +145,7 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 
 - twitter: @DrPeteOrford
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/peteorford.JPG)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/peterorford.JPG)
 
 Pete Orford is Course Director of the MA in Dickens Studies at the University of Buckingham. His most recent publication is The Mystery of Edwin Drood: Charles Dickens' unfinished novel and our endless attempts to end it for Pen & Sword, and further details of Drood and its legion of solutions can be found on his website www.droodinquiry.com He is currently completing an edition of Pictures from Italy for the Oxford Dickens, writing a Dickens biography for the Blackwell Literary Lives series, and co-editing a volume of plays by Dickens for Edinburgh UP.
 
