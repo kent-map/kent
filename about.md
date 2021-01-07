@@ -60,6 +60,8 @@ Sophie Baldock holds a PhD from the University of Sheffield. Her research focuse
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/claire bartram.jpg)
 
+Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
+
 ##
 **Simone Blandford**
 
