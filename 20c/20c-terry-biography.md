@@ -8,7 +8,7 @@
 
 Ellen Terry was the superstar English actress of the Victorian period. Born to a theatrical family, she first trod the boards aged eight in the part of Mamillius in _The Winter’s Tale_. She is best known for her long theatrical partnership with Sir Henry Irving, performing at the Lyceum Theatre, London, and throughout the UK and the US. 
 
-She is also known for her series of highly-acclaimed lectures about Shakespeare’s women (and the book that resulted – _Four Lectures on Shakespeare_ – written by Ellen Terry and edited by her ‘literary henchman’ [Christopher St John](20c-st-john-biography).
+She is also known for her series of highly-acclaimed lectures about Shakespeare’s women (and the book that resulted – _Four Lectures on Shakespeare_ – written by Ellen Terry and edited by her ‘literary henchman’ [Christopher St John](/20c/20c-st-john-biography).
 
 In 1900, she bought her last home, Smallhythe Place, a Tudor farmhouse in the Kent marshes outside Tenterden, as a retreat from her busy London theatrical life. Terry’s biographer, Nina Auerbach, called it ‘a pocket of eerie stillness in the Kentish countryside’. [^ref2]
  
