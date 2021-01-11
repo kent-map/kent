@@ -1,0 +1,49 @@
+## Elizabeth Bowen (1899-1973)
+
+**Places:** Hythe, Folkestone, Seabrook, Lyminge, Downe, Dymchurch, Broadstairs, Dover, the Cinque Ports, Romney, Sandwich.
+
+>‘Possibly it was England made me a novelist’
+
+Image for para 1. https://commons.wikimedia.org/wiki/File:The_Kent_coast_(IA_kentcoast00lewirich).pdf (the map from 1911, rather than the book cover)
+
+Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area (Q375314) as a child of seven she was immediately bewitched. The contrast between Ireland and her new home in terms of both architecture and topography could not have been greater. 
+
+Image for para 2.
+https://commons.wikimedia.org/w/index.php?search=dorothy+perkins+rose&title=Special%3ASearch&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Rosa_'Dorothy_Perkins'_01.jpg (Dorothy Perkins seems to have only been introduced in 1901, but in 1908, this rose won top honours at the Royal National Rose Society.)
+
+After the comparative sobriety of the buildings in Dublin (Q1761) and at Bowen’s Court in County Cork (Q60554258) the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography. 
+I was surfeited with the classical when we sailed for England – where release, to the point of delirium, awaited me. I found myself in a paradise of white balconies, ornate porches, verandahs festooned with Dorothy Perkins roses, bow windows protuberant as balloons, dream-childish attic bedrooms with tentlike ceilings, sublimated ivory-fretwork inglenooks inset with jujubes of tinted glass . . . and so on. 
+
+Image for para 3. https://www.folkestonehistory.org/ Upper Leas and Grand Hotel
+The Leas (Q26314321) summed up Folkestone (Q375314) for her. 
+
+Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.   
+Image for para 4. https://www.folkestonehistory.org/ The Landing Stage
+
+The landscape, too, entranced her with its ‘wide views, though also mysterious interstices.  Inside the sea-wall, the protected lands keep an illusory look of marine emptiness.’ Uphill it is ‘enticing, breathless and lush, with wandering dog-paths and choked thickets.’  At the same time, Kent’s history was almost part of its landscape, bursting ‘from under the contemporary surface at every point’, while its geology had a newness compared with that of Ireland.   And she realised how fiction can be set in the real world: reading _Kipps_ by [H.G. Wells]( /20c/20c-wellshg-biography), she was ‘made dizzy by the discovery that [she] had, for years, been living in two places, Hythe (Q967166) and Folkestone (Q375314), that were in a book.’  ,   
+Image for para 5. https://commons.wikimedia.org/wiki/File:Kipps.djvu
+
+For Bowen the child, ‘England’ _was Kent_, and ‘above all, Kent’s dramatisable coastline’.   Not only did she experience Kent as a gateway to England, she became aware that it was the gateway to a wider world when one day, walking along the Leas, she found to her amazement that France was a real place: it could be seen! Up till then it had existed as something abstract, in the language and _moeurs_ of her mother and her aunts, who had been brought up by a Swiss-French governess. 
+Image for para 6.
+https://commons.wikimedia.org/wiki/File:Down_House_RC.jpg
+ 
+Elizabeth Bowen at Downe House in 1916.
+For six years, between 1906 and 1912, she and her mother lived in rented houses in Folkestone (Q375314), Seabrook (Q7440217), Hythe (Q967166) and Lyminge (Q1870143). But in the summer of 1912 her mother died of cancer and she was given to the care of a ‘committee of aunts’, going to live with one of them in Hertfordshire. In 1914 she returned to Kent, when she was sent to Downe House School  (Q125344) in Charles Darwin’s former home, where the headmistress, Olive Willis, taught her ‘how not to write’. She wrote about her time there in a 1935 article _The Mulberry Tree_, but by the time she came to write the article the school had moved away, and the building had been ‘reinstated as some kind of shrine, for Charles Darwin lived there for some years. . . .  I have never liked scientific people very much, and it mortifies me to think of them trampling reverently around there on visiting days, thinking of Charles Darwin and ignorant of my own youth.’  
+Images for para 7.
+https://commons.wikimedia.org/wiki/Category:Viking_Bay,_Kent#/media/File:Bleak_House_and_Viking_Bay_beach_and_buildings_at_Broadstairs_Kent_England.jpg
+Bowen emphasised the importance of East Kent to her in _Pictures and Conversations_, which devotes much of its first chapter, ‘Origins’, to Bowen’s reactions on her arrival in Kent, glancing only briefly at her Anglo-Irish antecedents. She would draw on the roots which she put down in those six Folkestone years for the settings for episodes in five of her ten novels. _The House in Paris_ (1935) and _The Death of the Heart_ (1938) have episodes in Hythe; _The Little Girls_ (1964) in Folkestone and Dymchurch (Q2796278); _Eva Trout_(1969) in Broadstairs (Q922739); while her war novel _The Heat of Day_ (1949) has an envoi set in Hythe. 
+
+Image for para 8. 
+ 
+Towards the end of the Second World War Bowen visited East Kent on several occasions and wrote articles after these visits. The first was to Hythe in February 1944, and her pride for the town’s history and for the way it had suffered, yet survived, the war is evident.  Four months later she visited Dover (Q179224), writing for the Ministry of Information about D-Day preparations in the harbour. Since these preparations were phoney – she describes the mock invasion barges as having ‘a strange light air, almost of unreality’ – the article was obviously intended as a piece of diversionary propaganda.  A visit to Folkestone a year later reviewed in great detail the effects of the war on the town which had at one time been hailed as the ‘Queen of the South Coast’. She ends by warning Folkestone to ‘get going’. ‘War damage cannot account for everything; for years before this war she had been feeling the draught’.  Bowen would surely have welcomed the work of the de Haan family since the 1950s in changing the fortunes of the town.
+Images for para 9.
+https://commons.wikimedia.org/wiki/File:High_tide_on_the_River_Stour,_near_Gazen_Salts,_Sandwich_-_geograph.org.uk_-_736584.jpg
+https://commons.wikimedia.org/w/index.php?search=File%3ARomney+Marsh+from+Lympne.JPG&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Romney_Marsh_from_Lympne.JPG
+
+Each of those articles mentions the Cinque Ports (Q748895) in its opening paragraph. This part of East Kent’s history was evidently something very important to her, and she must have been very pleased to be invited to write the foreword to the 1952 Batsford Book, _The Cinque Ports_. ‘Few parts of the coast of England,’ she says ‘could offer a more ideal study for the historical geographer than does this, with its layer upon layer of extinct, eroded or shrunken civilisations’.  She pays tribute to the character of the landscape:  ‘the somnolent beauty of landlocked Romney (Q181071); Sandwich’s (Q26163) steep-roofed streets lit by estuarial gleams;  the changing light over Hythe, with its Great Marsh vista, (Q1506093) and Dover’s (Q179224) strange blend of the utilitarian, military and romantic.’   
+Images for para 10. https://commons.wikimedia.org/w/index.php?search=st+leonards+church+hythe&title=Special%3ASearch&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1
+In 1964 she moved back to Hythe and to her last home, a small red brick box of a house opposite St Leonards Church (Q17529941) on Church Path in Hythe, with views over the town to the Strait of Dover. This she named Carbery after her mother’s family home in Ireland. Here she wrote her final novel, _Eva Trout_. 
+11.In _Pictures and Conversations_, Bowen reflects that ‘Possibly it was England made me a novelist’.  Possibly it was East Kent made her a novelist?
+
+**Article written by** Diana Hirst
+
