@@ -4,6 +4,10 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q26314321" aliases="The Leas">
 <param ve-entity eid="Q967166" aliases="Hythe">
+<param ve-entity eid="Q7440217" aliases="Seabrook">
+<param ve-entity eid="Q1870143" aliases="Lyminge">
+<param ve-entity eid="Q125344" aliases="Downe House School">
+                                                 
 
 ### 1899-1973
 
@@ -23,16 +27,15 @@ The Leas summed up Folkestone for her.
 
 Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.   
 
-The landscape, too, entranced her with its ‘wide views, though also mysterious interstices.  Inside the sea-wall, the protected lands keep an illusory look of marine emptiness.’ Uphill it is ‘enticing, breathless and lush, with wandering dog-paths and choked thickets.’  At the same time, Kent’s history was almost part of its landscape, bursting ‘from under the contemporary surface at every point’, while its geology had a newness compared with that of Ireland.   And she realised how fiction can be set in the real world: reading _Kipps_ by [H.G. Wells](/20c/20c-wellshg-biography), she was ‘made dizzy by the discovery that [she] had, for years, been living in two places, Hythe (Q967166) and Folkestone, that were in a book.’  
+The landscape, too, entranced her with its ‘wide views, though also mysterious interstices.  Inside the sea-wall, the protected lands keep an illusory look of marine emptiness.’ Uphill it is ‘enticing, breathless and lush, with wandering dog-paths and choked thickets.’  At the same time, Kent’s history was almost part of its landscape, bursting ‘from under the contemporary surface at every point’, while its geology had a newness compared with that of Ireland.   And she realised how fiction can be set in the real world: reading _Kipps_ by [H.G. Wells](/20c/20c-wellshg-biography), she was ‘made dizzy by the discovery that [she] had, for years, been living in two places, Hythe and Folkestone, that were in a book.’  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/77/Kipps.djvu" label="H. G. Wells, Public domain, via Wikimedia Commons" attribution="H. G. Wells, Public domain, via Wikimedia Commons">
 <param ve-map primary center="Q375314" zoom="10">
 
 For Bowen the child, ‘England’ _was Kent_, and ‘above all, Kent’s dramatisable coastline’.   Not only did she experience Kent as a gateway to England, she became aware that it was the gateway to a wider world when one day, walking along the Leas, she found to her amazement that France was a real place: it could be seen! Up till then it had existed as something abstract, in the language and _moeurs_ of her mother and her aunts, who had been brought up by a Swiss-French governess. 
-Image for para 6.
-https://commons.wikimedia.org/wiki/File:Down_House_RC.jpg
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg" label="Down House" attribution="Duncharris at the English language Wikipedia, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons">
  
-Elizabeth Bowen at Downe House in 1916.
-For six years, between 1906 and 1912, she and her mother lived in rented houses in Folkestone (Q375314), Seabrook (Q7440217), Hythe (Q967166) and Lyminge (Q1870143). But in the summer of 1912 her mother died of cancer and she was given to the care of a ‘committee of aunts’, going to live with one of them in Hertfordshire. In 1914 she returned to Kent, when she was sent to Downe House School  (Q125344) in Charles Darwin’s former home, where the headmistress, Olive Willis, taught her ‘how not to write’. She wrote about her time there in a 1935 article _The Mulberry Tree_, but by the time she came to write the article the school had moved away, and the building had been ‘reinstated as some kind of shrine, for Charles Darwin lived there for some years. . . .  I have never liked scientific people very much, and it mortifies me to think of them trampling reverently around there on visiting days, thinking of Charles Darwin and ignorant of my own youth.’  
+**Elizabeth Bowen at Downe House in 1916.**
+For six years, between 1906 and 1912, she and her mother lived in rented houses in Folkestone, Seabrook, Hythe and Lyminge. But in the summer of 1912 her mother died of cancer and she was given to the care of a ‘committee of aunts’, going to live with one of them in Hertfordshire. In 1914 she returned to Kent, when she was sent to Downe House School in Charles Darwin’s former home, where the headmistress, Olive Willis, taught her ‘how not to write’. She wrote about her time there in a 1935 article _The Mulberry Tree_, but by the time she came to write the article the school had moved away, and the building had been ‘reinstated as some kind of shrine, for Charles Darwin lived there for some years. . . .  I have never liked scientific people very much, and it mortifies me to think of them trampling reverently around there on visiting days, thinking of Charles Darwin and ignorant of my own youth.’  
 Images for para 7.
 https://commons.wikimedia.org/wiki/Category:Viking_Bay,_Kent#/media/File:Bleak_House_and_Viking_Bay_beach_and_buildings_at_Broadstairs_Kent_England.jpg
 Bowen emphasised the importance of East Kent to her in _Pictures and Conversations_, which devotes much of its first chapter, ‘Origins’, to Bowen’s reactions on her arrival in Kent, glancing only briefly at her Anglo-Irish antecedents. She would draw on the roots which she put down in those six Folkestone years for the settings for episodes in five of her ten novels. _The House in Paris_ (1935) and _The Death of the Heart_ (1938) have episodes in Hythe; _The Little Girls_ (1964) in Folkestone and Dymchurch (Q2796278); _Eva Trout_(1969) in Broadstairs (Q922739); while her war novel _The Heat of Day_ (1949) has an envoi set in Hythe. 
