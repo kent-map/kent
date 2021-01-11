@@ -50,7 +50,22 @@ https://commons.wikimedia.org/w/index.php?search=File%3ARomney+Marsh+from+Lympne
 Each of those articles mentions the Cinque Ports (Q748895) in its opening paragraph. This part of East Kent’s history was evidently something very important to her, and she must have been very pleased to be invited to write the foreword to the 1952 Batsford Book, _The Cinque Ports_. ‘Few parts of the coast of England,’ she says ‘could offer a more ideal study for the historical geographer than does this, with its layer upon layer of extinct, eroded or shrunken civilisations’.  She pays tribute to the character of the landscape:  ‘the somnolent beauty of landlocked Romney (Q181071); Sandwich’s (Q26163) steep-roofed streets lit by estuarial gleams;  the changing light over Hythe, with its Great Marsh vista, (Q1506093) and Dover’s (Q179224) strange blend of the utilitarian, military and romantic.’   
 Images for para 10. https://commons.wikimedia.org/w/index.php?search=st+leonards+church+hythe&title=Special%3ASearch&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1
 In 1964 she moved back to Hythe and to her last home, a small red brick box of a house opposite St Leonards Church (Q17529941) on Church Path in Hythe, with views over the town to the Strait of Dover. This she named Carbery after her mother’s family home in Ireland. Here she wrote her final novel, _Eva Trout_. 
-11.In _Pictures and Conversations_, Bowen reflects that ‘Possibly it was England made me a novelist’.  Possibly it was East Kent made her a novelist?
+In _Pictures and Conversations_, Bowen reflects that ‘Possibly it was England made me a novelist’.  Possibly it was East Kent made her a novelist?
 
-**Article written by** Diana Hirst
+###References
+
+[^ref1]: _Pictures and Conversations_, p.28
+[^ref2]: _Pictures and Conversations_, p.32.
+[^ref3]: _Pictures and Conversations_, pp.3, 4.
+[^ref4]: _Pictures and Conversations_, p.25.
+[^ref5]: Wells, _H.G. Kipps_, London, Macmillan, 1905.
+[^ref6]: Bowen, Elizabeth. _‘Out of a Book’, 1946, The Mulberry Tree: Writings of Elizabeth Bowen,_ selected and introduced by Hermione Lee, Virago, London, 1986, p.48.
+[^ref7]: _Pictures and Conversations_, p.24.
+[^ref8]: Bowen, Elizabeth. _‘The Mulberry Tree’. Collected Impressions._ Longmans Green, 1950, pp. 193, 194.
+[^ref9]: Bowen, Elizabeth. _‘By the Unapproachable Sea’, People, Places, Things: Essays by Elizabeth Bowen_ edited by Allan Hepburn. Edinburgh U P, 2008, pp. 56-58.
+[^ref10]: Bowen, Elizabeth. _‘Dover: 1st June 1944’, Collected Impressions._ Longmans Green, 1950, pp. 221-225.
+[^ref11]: Bowen, Elizabeth. _‘Folkestone: July 1945’. Collected Impressions._ Longmans Green, 1950, pp. 225-230.
+[^ref12]: Bowen, Elizabeth. _‘Foreword’. The Cinque Ports._ R. & F. Jessup. Batsford, 1952, pp. 11-15.
+[^ref13]:_Pictures and Conversations_, p.23.
+
 
