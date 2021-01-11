@@ -7,6 +7,8 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 <param ve-entity eid="Q7440217" aliases="Seabrook">
 <param ve-entity eid="Q1870143" aliases="Lyminge">
 <param ve-entity eid="Q125344" aliases="Downe House School">
+<param ve-entity eid="Q181071" aliases="Romney">
+<param ve-entity eid="Q17529941" aliaases="St Leonard's Church"> 
                                                  
 
 ### 1899-1973
@@ -47,10 +49,14 @@ Images for para 9.
 https://commons.wikimedia.org/wiki/File:High_tide_on_the_River_Stour,_near_Gazen_Salts,_Sandwich_-_geograph.org.uk_-_736584.jpg
 https://commons.wikimedia.org/w/index.php?search=File%3ARomney+Marsh+from+Lympne.JPG&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Romney_Marsh_from_Lympne.JPG
 
-Each of those articles mentions the Cinque Ports (Q748895) in its opening paragraph. This part of East Kent’s history was evidently something very important to her, and she must have been very pleased to be invited to write the foreword to the 1952 Batsford Book, _The Cinque Ports_. ‘Few parts of the coast of England,’ she says ‘could offer a more ideal study for the historical geographer than does this, with its layer upon layer of extinct, eroded or shrunken civilisations’.  She pays tribute to the character of the landscape:  ‘the somnolent beauty of landlocked Romney (Q181071); Sandwich’s (Q26163) steep-roofed streets lit by estuarial gleams;  the changing light over Hythe, with its Great Marsh vista, (Q1506093) and Dover’s (Q179224) strange blend of the utilitarian, military and romantic.’   
+Each of those articles mentions the Cinque Ports (Q748895) in its opening paragraph. This part of East Kent’s history was evidently something very important to her, and she must have been very pleased to be invited to write the foreword to the 1952 Batsford Book, _The Cinque Ports_. ‘Few parts of the coast of England,’ she says ‘could offer a more ideal study for the historical geographer than does this, with its layer upon layer of extinct, eroded or shrunken civilisations’.  She pays tribute to the character of the landscape:  ‘the somnolent beauty of landlocked Romney; Sandwich’s (Q26163) steep-roofed streets lit by estuarial gleams;  the changing light over Hythe, with its Great Marsh vista, (Q1506093) and Dover’s (Q179224) strange blend of the utilitarian, military and romantic.’   
+
 Images for para 10. https://commons.wikimedia.org/w/index.php?search=st+leonards+church+hythe&title=Special%3ASearch&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1
-In 1964 she moved back to Hythe and to her last home, a small red brick box of a house opposite St Leonards Church (Q17529941) on Church Path in Hythe, with views over the town to the Strait of Dover. This she named Carbery after her mother’s family home in Ireland. Here she wrote her final novel, _Eva Trout_. 
+
+In 1964 she moved back to Hythe and to her last home, a small red brick box of a house opposite St Leonards Church on Church Path in Hythe, with views over the town to the Strait of Dover. This she named Carbery after her mother’s family home in Ireland. Here she wrote her final novel, _Eva Trout_. 
 In _Pictures and Conversations_, Bowen reflects that ‘Possibly it was England made me a novelist’.  Possibly it was East Kent made her a novelist?
+<param ve-map primary center="Q17529941" zoom="10">
+
 
 ###References
 
@@ -66,6 +72,6 @@ In _Pictures and Conversations_, Bowen reflects that ‘Possibly it was England 
 [^ref10]: Bowen, Elizabeth. _‘Dover: 1st June 1944’, Collected Impressions._ Longmans Green, 1950, pp. 221-225.   
 [^ref11]: Bowen, Elizabeth. _‘Folkestone: July 1945’. Collected Impressions._ Longmans Green, 1950, pp. 225-230.   
 [^ref12]: Bowen, Elizabeth. _‘Foreword’. The Cinque Ports._ R. & F. Jessup. Batsford, 1952, pp. 11-15.   
-[^ref13]:_Pictures and Conversations_, p.23.   
+[^ref13]: _Pictures and Conversations_, p.23.   
 
 
