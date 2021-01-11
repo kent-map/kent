@@ -14,6 +14,8 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 <param ve-entity eid="Q26163" aliaases="Sandwich"> 
 <param ve-entity eid="Q1506093" aliaases="Great Marsh"> 
 <param ve-entity eid="Q748895" aliases="Cinque Ports">
+<param ve-entity eid="Q2796278" aliases="Dymchurch">
+<param ve-entity eid="Q922739" aliases="Broadstairs">
                                                  
 
 ### 1899-1973
@@ -50,7 +52,7 @@ For six years, between 1906 and 1912, she and her mother lived in rented houses 
 <param ve-image url="xxxx" label="Bleak House and Viking Bay beach and buildings at Broadstairs Kent England" attribution="xxxx>, via Wikimedia Commons">
 <param ve-map primary center="Q922739" zoom="10">
  
-Bowen emphasised the importance of East Kent to her in _Pictures and Conversations_, which devotes much of its first chapter, ‘Origins’, to Bowen’s reactions on her arrival in Kent, glancing only briefly at her Anglo-Irish antecedents. She would draw on the roots which she put down in those six Folkestone years for the settings for episodes in five of her ten novels. _The House in Paris_ (1935) and _The Death of the Heart_ (1938) have episodes in Hythe; _The Little Girls_ (1964) in Folkestone and Dymchurch (Q2796278); _Eva Trout_(1969) in Broadstairs (Q922739); while her war novel _The Heat of Day_ (1949) has an envoi set in Hythe. 
+Bowen emphasised the importance of East Kent to her in _Pictures and Conversations_, which devotes much of its first chapter, ‘Origins’, to Bowen’s reactions on her arrival in Kent, glancing only briefly at her Anglo-Irish antecedents. She would draw on the roots which she put down in those six Folkestone years for the settings for episodes in five of her ten novels. _The House in Paris_ (1935) and _The Death of the Heart_ (1938) have episodes in Hythe; _The Little Girls_ (1964) in Folkestone and Dymchurch; _Eva Trout_(1969) in Broadstairs; while her war novel _The Heat of Day_ (1949) has an envoi set in Hythe. 
  
 Towards the end of the Second World War Bowen visited East Kent on several occasions and wrote articles after these visits. The first was to Hythe in February 1944, and her pride for the town’s history and for the way it had suffered, yet survived, the war is evident.  Four months later she visited Dover (Q179224), writing for the Ministry of Information about D-Day preparations in the harbour. Since these preparations were phoney – she describes the mock invasion barges as having ‘a strange light air, almost of unreality’ – the article was obviously intended as a piece of diversionary propaganda.  A visit to Folkestone a year later reviewed in great detail the effects of the war on the town which had at one time been hailed as the ‘Queen of the South Coast’. She ends by warning Folkestone to ‘get going’. ‘War damage cannot account for everything; for years before this war she had been feeling the draught’.  Bowen would surely have welcomed the work of the de Haan family since the 1950s in changing the fortunes of the town.
 Images for para 9.
