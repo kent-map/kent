@@ -1,19 +1,16 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Elizabeth Bowen" author="Diana Hirst" layout="vtl" 
-banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg" attribution="Duncharris at the English language Wikipedia, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons">
+banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 
 ### 1899-1973
 
 **Places:** Hythe, Folkestone, Seabrook, Lyminge, Downe, Dymchurch, Broadstairs, Dover, the Cinque Ports, Romney, Sandwich.
 
 >‘Possibly it was England made me a novelist’
-
-Image for para 1. https://commons.wikimedia.org/wiki/File:The_Kent_coast_(IA_kentcoast00lewirich).pdf (the map from 1911, rather than the book cover)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_Kent_coast_%28IA_kentcoast00lewirich%29.pdf" label="Lewis, Arthur D, Public domain, via Wikimedia Commons" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
 
 Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area (Q375314) as a child of seven she was immediately bewitched. The contrast between Ireland and her new home in terms of both architecture and topography could not have been greater. 
-
-Image for para 2.
-https://commons.wikimedia.org/w/index.php?search=dorothy+perkins+rose&title=Special%3ASearch&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Rosa_'Dorothy_Perkins'_01.jpg (Dorothy Perkins seems to have only been introduced in 1901, but in 1908, this rose won top honours at the Royal National Rose Society.)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Rosa_%27Dorothy_Perkins%27_01.jpg" label="Rosa 'Dorothy Perkins' (Jackson & Perkins, 1901) flowering in the garden for rose novelities on the Beutig hill in Baden Baden (Germany) (Dorothy Perkins seems to have only been introduced in 1901, but in 1908, this rose won top honours at the Royal National Rose Society.)" attribution="Wilrooij, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
 
 After the comparative sobriety of the buildings in Dublin (Q1761) and at Bowen’s Court in County Cork (Q60554258) the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography. 
 I was surfeited with the classical when we sailed for England – where release, to the point of delirium, awaited me. I found myself in a paradise of white balconies, ornate porches, verandahs festooned with Dorothy Perkins roses, bow windows protuberant as balloons, dream-childish attic bedrooms with tentlike ceilings, sublimated ivory-fretwork inglenooks inset with jujubes of tinted glass . . . and so on. 
