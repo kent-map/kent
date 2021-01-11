@@ -28,11 +28,13 @@ Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transpla
 <param ve-map primary center="Q375314" zoom="10">
 
 After the comparative sobriety of the buildings in Dublin and at Bowen’s Court in County Cork the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography. 
-I was surfeited with the classical when we sailed for England – where release, to the point of delirium, awaited me. I found myself in a paradise of white balconies, ornate porches, verandahs festooned with Dorothy Perkins roses, bow windows protuberant as balloons, dream-childish attic bedrooms with tentlike ceilings, sublimated ivory-fretwork inglenooks inset with jujubes of tinted glass . . . and so on. 
-The Leas summed up Folkestone for her. 
+
+>I was surfeited with the classical when we sailed for England – where release, to the point of delirium, awaited me. I found myself in a paradise of white balconies, ornate porches, verandahs festooned with Dorothy Perkins roses, bow windows protuberant as balloons, dream-childish attic bedrooms with tentlike ceilings, sublimated ivory-fretwork inglenooks inset with jujubes of tinted glass . . . and so on.[^ref1]
 <param ve-map primary center="Q26314321" zoom="10">
 
-Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.   
+The Leas summed up Folkestone for her. 
+
+>Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.[^ref2]   
 
 The landscape, too, entranced her with its ‘wide views, though also mysterious interstices.  Inside the sea-wall, the protected lands keep an illusory look of marine emptiness.’ Uphill it is ‘enticing, breathless and lush, with wandering dog-paths and choked thickets.’  At the same time, Kent’s history was almost part of its landscape, bursting ‘from under the contemporary surface at every point’, while its geology had a newness compared with that of Ireland.   And she realised how fiction can be set in the real world: reading _Kipps_ by [H.G. Wells](/20c/20c-wellshg-biography), she was ‘made dizzy by the discovery that [she] had, for years, been living in two places, Hythe and Folkestone, that were in a book.’  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/77/Kipps.djvu" label="H. G. Wells, Public domain, via Wikimedia Commons" attribution="H. G. Wells, Public domain, via Wikimedia Commons">
