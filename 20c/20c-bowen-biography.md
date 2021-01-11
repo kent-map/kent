@@ -1,6 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Elizabeth Bowen" author="Diana Hirst" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
+
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q26314321" aliases="The Leas">
 <param ve-entity eid="Q967166" aliases="Hythe">
@@ -9,6 +10,10 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 <param ve-entity eid="Q125344" aliases="Downe House School">
 <param ve-entity eid="Q181071" aliases="Romney">
 <param ve-entity eid="Q17529941" aliaases="St Leonard's Church"> 
+<param ve-entity eid="Q179224" aliaases="Dover"> 
+<param ve-entity eid="Q26163" aliaases="Sandwich"> 
+<param ve-entity eid="Q1506093" aliaases="Great Marsh"> 
+<param ve-entity eid="Q748895" aliases="Cinque Ports">
                                                  
 
 ### 1899-1973
@@ -49,7 +54,8 @@ Images for para 9.
 https://commons.wikimedia.org/wiki/File:High_tide_on_the_River_Stour,_near_Gazen_Salts,_Sandwich_-_geograph.org.uk_-_736584.jpg
 https://commons.wikimedia.org/w/index.php?search=File%3ARomney+Marsh+from+Lympne.JPG&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Romney_Marsh_from_Lympne.JPG
 
-Each of those articles mentions the Cinque Ports (Q748895) in its opening paragraph. This part of East Kent’s history was evidently something very important to her, and she must have been very pleased to be invited to write the foreword to the 1952 Batsford Book, _The Cinque Ports_. ‘Few parts of the coast of England,’ she says ‘could offer a more ideal study for the historical geographer than does this, with its layer upon layer of extinct, eroded or shrunken civilisations’.  She pays tribute to the character of the landscape:  ‘the somnolent beauty of landlocked Romney; Sandwich’s (Q26163) steep-roofed streets lit by estuarial gleams;  the changing light over Hythe, with its Great Marsh vista, (Q1506093) and Dover’s (Q179224) strange blend of the utilitarian, military and romantic.’   
+Each of those articles mentions the Cinque Ports in its opening paragraph. This part of East Kent’s history was evidently something very important to her, and she must have been very pleased to be invited to write the foreword to the 1952 Batsford Book, _The Cinque Ports_. ‘Few parts of the coast of England,’ she says ‘could offer a more ideal study for the historical geographer than does this, with its layer upon layer of extinct, eroded or shrunken civilisations’.  She pays tribute to the character of the landscape:  ‘the somnolent beauty of landlocked Romney; Sandwich’s steep-roofed streets lit by estuarial gleams;  the changing light over Hythe, with its Great Marsh vista, and Dover’s strange blend of the utilitarian, military and romantic.’   
+<param ve-map primary center="Q375314" zoom="8">
 
 Images for para 10. https://commons.wikimedia.org/w/index.php?search=st+leonards+church+hythe&title=Special%3ASearch&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1
 
