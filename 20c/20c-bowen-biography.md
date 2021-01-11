@@ -54,18 +54,18 @@ In _Pictures and Conversations_, Bowen reflects that ‘Possibly it was England 
 
 ###References
 
-[^ref1]: _Pictures and Conversations_, p.28
-[^ref2]: _Pictures and Conversations_, p.32.
-[^ref3]: _Pictures and Conversations_, pp.3, 4.
-[^ref4]: _Pictures and Conversations_, p.25.
-[^ref5]: Wells, _H.G. Kipps_, London, Macmillan, 1905.
-[^ref6]: Bowen, Elizabeth. _‘Out of a Book’, 1946, The Mulberry Tree: Writings of Elizabeth Bowen,_ selected and introduced by Hermione Lee, Virago, London, 1986, p.48.
-[^ref7]: _Pictures and Conversations_, p.24.
-[^ref8]: Bowen, Elizabeth. _‘The Mulberry Tree’. Collected Impressions._ Longmans Green, 1950, pp. 193, 194.
-[^ref9]: Bowen, Elizabeth. _‘By the Unapproachable Sea’, People, Places, Things: Essays by Elizabeth Bowen_ edited by Allan Hepburn. Edinburgh U P, 2008, pp. 56-58.
-[^ref10]: Bowen, Elizabeth. _‘Dover: 1st June 1944’, Collected Impressions._ Longmans Green, 1950, pp. 221-225.
-[^ref11]: Bowen, Elizabeth. _‘Folkestone: July 1945’. Collected Impressions._ Longmans Green, 1950, pp. 225-230.
-[^ref12]: Bowen, Elizabeth. _‘Foreword’. The Cinque Ports._ R. & F. Jessup. Batsford, 1952, pp. 11-15.
-[^ref13]:_Pictures and Conversations_, p.23.
+[^ref1]: _Pictures and Conversations_, p.28.      
+[^ref2]: _Pictures and Conversations_, p.32.   
+[^ref3]: _Pictures and Conversations_, pp.3, 4.   
+[^ref4]: _Pictures and Conversations_, p.25.   
+[^ref5]: Wells, _H.G. Kipps_, London, Macmillan, 1905.   
+[^ref6]: Bowen, Elizabeth. _‘Out of a Book’, 1946, The Mulberry Tree: Writings of Elizabeth Bowen,_ selected and introduced by Hermione Lee, Virago, London, 1986, p.48.   
+[^ref7]: _Pictures and Conversations_, p.24.   
+[^ref8]: Bowen, Elizabeth. _‘The Mulberry Tree’. Collected Impressions._ Longmans Green, 1950, pp. 193, 194.   
+[^ref9]: Bowen, Elizabeth. _‘By the Unapproachable Sea’, People, Places, Things: Essays by Elizabeth Bowen_ edited by Allan Hepburn. Edinburgh U P, 2008, pp. 56-58.   
+[^ref10]: Bowen, Elizabeth. _‘Dover: 1st June 1944’, Collected Impressions._ Longmans Green, 1950, pp. 221-225.   
+[^ref11]: Bowen, Elizabeth. _‘Folkestone: July 1945’. Collected Impressions._ Longmans Green, 1950, pp. 225-230.   
+[^ref12]: Bowen, Elizabeth. _‘Foreword’. The Cinque Ports._ R. & F. Jessup. Batsford, 1952, pp. 11-15.   
+[^ref13]:_Pictures and Conversations_, p.23.   
 
 
