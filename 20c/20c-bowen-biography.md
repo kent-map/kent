@@ -23,7 +23,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 **Places:** Hythe, Folkestone, Seabrook, Lyminge, Downe, Dymchurch, Broadstairs, Dover, the Cinque Ports, Romney, Sandwich.
 
 >‘Possibly it was England made me a novelist’
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_Kent_coast_%28IA_kentcoast00lewirich%29.pdf" label="Lewis, Arthur D, The Kent Coast" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
+<param ve-image url="images/The_Kent_coast_(IA_kentcoast00lewirich).jpg" label="Lewis, Arthur D, The Kent Coast" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
 
 Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area as a child of seven she was immediately bewitched. The contrast between Ireland and her new home in terms of both architecture and topography could not have been greater. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Rosa_%27Dorothy_Perkins%27_01.jpg" label="Rosa 'Dorothy Perkins' (Jackson & Perkins, 1901) flowering in the garden for rose novelities on the Beutig hill in Baden Baden (Germany) (Dorothy Perkins seems to have only been introduced in 1901, but in 1908, this rose won top honours at the Royal National Rose Society.)" attribution="Wilrooij, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
