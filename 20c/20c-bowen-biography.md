@@ -1,6 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Elizabeth Bowen" author="Diana Hirst" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q26314321" aliases="The Leas">
+<param ve-entity eid="Q967166" aliases="Hythe">
 
 ### 1899-1973
 
@@ -9,20 +12,20 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 >‘Possibly it was England made me a novelist’
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_Kent_coast_%28IA_kentcoast00lewirich%29.pdf" label="Lewis, Arthur D, Public domain, via Wikimedia Commons" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
 
-Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area (Q375314) as a child of seven she was immediately bewitched. The contrast between Ireland and her new home in terms of both architecture and topography could not have been greater. 
+Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area as a child of seven she was immediately bewitched. The contrast between Ireland and her new home in terms of both architecture and topography could not have been greater. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Rosa_%27Dorothy_Perkins%27_01.jpg" label="Rosa 'Dorothy Perkins' (Jackson & Perkins, 1901) flowering in the garden for rose novelities on the Beutig hill in Baden Baden (Germany) (Dorothy Perkins seems to have only been introduced in 1901, but in 1908, this rose won top honours at the Royal National Rose Society.)" attribution="Wilrooij, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
+<param ve-map primary center="Q375314" zoom="10">
 
-After the comparative sobriety of the buildings in Dublin (Q1761) and at Bowen’s Court in County Cork (Q60554258) the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography. 
+After the comparative sobriety of the buildings in Dublin and at Bowen’s Court in County Cork the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography. 
 I was surfeited with the classical when we sailed for England – where release, to the point of delirium, awaited me. I found myself in a paradise of white balconies, ornate porches, verandahs festooned with Dorothy Perkins roses, bow windows protuberant as balloons, dream-childish attic bedrooms with tentlike ceilings, sublimated ivory-fretwork inglenooks inset with jujubes of tinted glass . . . and so on. 
-
-Image for para 3. https://www.folkestonehistory.org/ Upper Leas and Grand Hotel
-The Leas (Q26314321) summed up Folkestone (Q375314) for her. 
+The Leas summed up Folkestone for her. 
+<param ve-map primary center="Q26314321" zoom="10">
 
 Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.   
-Image for para 4. https://www.folkestonehistory.org/ The Landing Stage
 
-The landscape, too, entranced her with its ‘wide views, though also mysterious interstices.  Inside the sea-wall, the protected lands keep an illusory look of marine emptiness.’ Uphill it is ‘enticing, breathless and lush, with wandering dog-paths and choked thickets.’  At the same time, Kent’s history was almost part of its landscape, bursting ‘from under the contemporary surface at every point’, while its geology had a newness compared with that of Ireland.   And she realised how fiction can be set in the real world: reading _Kipps_ by [H.G. Wells]( /20c/20c-wellshg-biography), she was ‘made dizzy by the discovery that [she] had, for years, been living in two places, Hythe (Q967166) and Folkestone (Q375314), that were in a book.’  ,   
-Image for para 5. https://commons.wikimedia.org/wiki/File:Kipps.djvu
+The landscape, too, entranced her with its ‘wide views, though also mysterious interstices.  Inside the sea-wall, the protected lands keep an illusory look of marine emptiness.’ Uphill it is ‘enticing, breathless and lush, with wandering dog-paths and choked thickets.’  At the same time, Kent’s history was almost part of its landscape, bursting ‘from under the contemporary surface at every point’, while its geology had a newness compared with that of Ireland.   And she realised how fiction can be set in the real world: reading _Kipps_ by [H.G. Wells](/20c/20c-wellshg-biography), she was ‘made dizzy by the discovery that [she] had, for years, been living in two places, Hythe (Q967166) and Folkestone, that were in a book.’  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/77/Kipps.djvu" label="H. G. Wells, Public domain, via Wikimedia Commons" attribution="H. G. Wells, Public domain, via Wikimedia Commons">
+<param ve-map primary center="Q375314" zoom="10">
 
 For Bowen the child, ‘England’ _was Kent_, and ‘above all, Kent’s dramatisable coastline’.   Not only did she experience Kent as a gateway to England, she became aware that it was the gateway to a wider world when one day, walking along the Leas, she found to her amazement that France was a real place: it could be seen! Up till then it had existed as something abstract, in the language and _moeurs_ of her mother and her aunts, who had been brought up by a Swiss-French governess. 
 Image for para 6.
