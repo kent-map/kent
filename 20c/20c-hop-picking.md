@@ -1,5 +1,8 @@
 ## Hop Picking and the Literary Imagination
 
+
+![Hop Picking by T.C. Dugdale, 1937 © Martin Crowther](/20c/images/Hop pickers.JPG){: .right}
+
 To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages were able to participate. Nonetheless there was considerable variety in their experience. In East Kent hops were measured in 5 bushel baskets, taking up more or less space depending on how sharply the basket was jerked; in West Kent the hops were scooped out of bins and into the baskets, with the compression of each scoop determining the measure. 
 
 The autumn hop picking season also saw a culture clash between diverse groups of people as local farming communities were joined by ‘ladies’ picking for charity, gypsies and tramps, as well as the religious campaigners come to keep an eye on their morals. But of all these unlikely co-workers, the most visible were the Londoners who came for a ‘holiday’ or simply to escape from the slums for a few weeks and earn money in the process.  The sharp division between villagers and seasonal workers is apparent in both nineteenth and twentieth century accounts. Oral history suggests that at the turn of the century ‘If one word could be singled out to describe most effectively what the villagers thought of Londoners, it would be “dirty”’.  
@@ -25,9 +28,10 @@ It took the incisive language of a George Orwell to deconstruct these airbrushed
 Dickens, Charles. The Uncommercial Traveller. http://elibrary.club/dickens-the-uncommercial-traveller/76
 
 Marchant, Bessie. _Yew Tree Farm: a story of a separate career._ London: SPCK, [1904].
+
 Maugham, Somerset. _Of Human Bondage_. London: Vintage 2000.
-Orwell. A Clergyman’s Daughter. London: Harvest, 1936.
-https://books.google.co.uk/books?id=LsKtkkz06RwC&printsec=frontcover&dq=vicar%27s+daughter+orwell&hl=en&sa=X&ved=2ahUKEwiI1_u8t53rAhXzQEEAHWI6Ad4Q6AEwAHoECAAQAg#v=onepage&q=hops&f=false
+
+Orwell. _A Clergyman’s Daughter_. London: Harvest, 1936.
 
 Pennell, Joseph and Elizabeth Robins Pennell. _A Canterbury Pilgrimage_. London: Seeley and Company, 1885.
 
