@@ -12,7 +12,7 @@ Her first novel _Dust and Laurels: a study in nineteenth century womenhood_ was 
 
 Her writing at this time could be described as part of the ‘New Woman’ movement and was seen as slightly shocking by some of the critics, which is surprising giving the later appraisal of her work.[^ref10]   In her 1895 novel _A Pastoral Played out_, touted as a “London literary sensation”, readers were shocked when her heroine Gylda agreed to live with her lover Etheredge who declared that he didn’t believe in marriage.[^ref11] 
 
-From at least 1895 she was writing stories for [Jerome K. Jerome](19c/19c-jerome-biography)'s _Idler_ and featured in the Idler’s Club column along with authors such as Mary Elizabeth Braddon and Ella Hepworth-Dixon. She also published stories in periodicals such as _Belgravia, Temple Bar, Quiver, Argosy, The Girl’s Own Paper, the Women’s Penny Paper_ and _Hearth and Home_.
+From at least 1895 she was writing stories for [Jerome K. Jerome](19c/19c-jerome-biography)'s _Idler_ and featured in the Idler’s Club column along with authors such as Mary Elizabeth [Braddon](/19c/19c-braddon-biography) and Ella Hepworth-Dixon. She also published stories in periodicals such as _Belgravia, Temple Bar, Quiver, Argosy, The Girl’s Own Paper, the Women’s Penny Paper_ and _Hearth and Home_.
 
 In 1899, her love of socialism was portrayed in her novel _An Englishman_, however, her middle-class tradesman hero was viewed by some with scepticism. _The Evening Standard_ wrote: “There is so much careful and intelligent work in Miss Mary Pendered’s novel, …But the book is dull, and in a novel dullness is an unforgiveable sin.”[^ref12]
 
