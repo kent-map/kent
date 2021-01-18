@@ -1,6 +1,5 @@
-
-![Hop Picking by T.C. Dugdale, 1937 © Martin Crowther](/20c/images/Hop pickers.jpg){: .right}
 ## Hop Picking and the Literary Imagination
+![Hop Picking by T.C. Dugdale, 1937 © Martin Crowther](/20c/images/Hop pickers.jpg){: .right}
 
 To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages were able to participate. Nonetheless, there was considerable variety in their experience. In East Kent hops were measured in 5 bushel baskets, taking up more or less space depending on how sharply the basket was jerked; in West Kent the hops were scooped out of bins and into the baskets, with the compression of each scoop determining the measure. 
 
