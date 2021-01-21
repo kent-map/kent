@@ -1,4 +1,4 @@
-<param ve-config title="Kent Digital Map" author="Janet Dunn" layout="vtl" banner="/images/kent-map-header.jpg">
+<param ve-config title="Kent Digital Map" author="Jan Dunn" layout="vtl" banner="/images/kent-map-header.jpg">
 
 <param ve-entity="Birchington" eid="Q865021">
 
