@@ -2,12 +2,12 @@
 
 <param ve-entity="Birchington" eid="Q865021">
 
-
 # Diana Powell-Cotton (1908-1986) & Tony (Antoinette) Powell-Cotton (1915-1997)
 
-Place:  Quex Park, Birchington, Kent
+**Place:**  Quex Park, Birchington, Kent
 
-Event: Two intrepid women from Quex Park, Kent travelled to the interior of Africa in the 1930s where they recorded the domestic lives of those they met and lived with. Arguably the first British women documentary filmmakers. 
+**Event:** Two intrepid women from Quex Park, Kent travelled to the interior of Africa in the 1930s where they recorded the domestic lives of those they met and lived with. Arguably the first British women documentary filmmakers. 
+<param ve-map center="Q865021" zoom="8">
 
 On a rainy day in February 1936 Diana Powell-Cotton was 28 years old and her sister Tony only 20 when they left their home [Quex House](https://www.historichouses.org/houses/house-listing/quex-house.html), Birchington to embark upon a trip to the interior of Africa. They had prepared by learning to drive and to speak Portuguese. On arrival in Angola, West Africa they would be picking up their two and a half ton truck Jemima, onto which would be loaded their significant and heavy filming equipment. 
 <param ve-map center="Q865021" zoom="8">
@@ -24,6 +24,6 @@ The women covered about 2000 miles.  They stopped sometimes briefly and sometime
 
 ### References
 
-[^ref1]: Hutchinson, Pamela (2019) Where To Begin With Early Women Filmmakers p. BFI  
-[^ref2]: Powell-Cotton, Diana Field Notes 23rd June 1936  
-[^ref3]: Powell-Cotton, Diana Field Notes 28th June 1936  
+[^ref1]: Hutchinson, Pamela (2019) _Where To Begin With Early Women Filmmakers_ p. BFI  
+[^ref2]: Powell-Cotton, Diana _Field Notes_ 23rd June 1936  
+[^ref3]: Powell-Cotton, Diana _Field Notes_ 28th June 1936  
