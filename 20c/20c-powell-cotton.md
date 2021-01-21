@@ -20,6 +20,7 @@ Diana with her fine art degree, would utilise this skill in writing detailed fie
 The reality of what it takes physically, the hard work as well as logistics, is all the more important when considering these women were filming in the isolated rural interior of Africa in the 1930s. Setting their work as filmmakers in historical context, what makes their story fascinating is that both in terms of film production, documentary and anthropology they were trailblazers.
 They lived amongst and made friends with a number of African women such as Shanika, a pot maker who was also a medicine woman. The Sisters spend time with her on a number of occasions and interview her alone and with her ex-husband, who Diana describes as ‘a sly looking brute”.[^ref2]  Diana writes how there are many people coming to the car to see them off but she is ‘Sad to see the last of Shanika, with her wrinkled bronze face, quick to anger but always laughing. Slower than anyone I’ve ever met and more vague but full of helpful wisdom. She came profoundly flapping in her newly acquired old canvas shoes.’[^ref3]   No doubt, a gift from Diana.
 The women covered about 2000 miles.  They stopped sometimes briefly and sometimes for several nights visiting around 50 villages and towns. The weather ranged from dry and hot to torrential down pours and everything in between.
+<param ve-image primary url="20c/images/1937 Angola Jemima stuck.jpg" label= "Tony gathering straw, Angola, 1937" attribution= "Quex Park Museum">
 
 ### References
 
