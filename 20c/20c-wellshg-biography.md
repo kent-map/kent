@@ -17,7 +17,7 @@ When Wells’ doctor Henry Hick suggested he move to the South-East coast of Eng
   <img src="images/Spade House.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Spade House</span> 
 
-Wells had many connections to authors who spent time in and wrote about Kent. Around 1898 [Joseph Conrad](/19c/19c-conrad-biography) moved near Hythe and the two authors became acquainted. In 1901 [T.S Eliot](20c-eliot-biography) wrote a review for Wells’ novel _The First Men in the Moon_. Wells also dined, in March 1902, with Winston Churchill. But perhaps his most influential connection was to the illegitimate daughter of the late J.F Nisbet. Wells offered to fund her schooling and during a trip to the family home in Sandgate she became the inspiration behind _The Sea Lady_.    
+Wells had many connections to authors who spent time in and wrote about Kent. Around 1898 [Joseph Conrad](/19c/19c-conrad-biography) moved near Hythe and the two authors became acquainted. In 1901 [T.S Eliot](/20c/20c-eliot-biography) wrote a review for Wells’ novel _The First Men in the Moon_. Wells also dined, in March 1902, with Winston Churchill. But perhaps his most influential connection was to the illegitimate daughter of the late J.F Nisbet. Wells offered to fund her schooling and during a trip to the family home in Sandgate she became the inspiration behind _The Sea Lady_.    
 
 <br/>
 
