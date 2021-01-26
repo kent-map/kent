@@ -12,5 +12,13 @@ A modest man, he was an Oxford blue, rowing in the 1920 and 1921 University Boat
 
 With thanks to Dr John Paull and Mrs Anne Kent.
 
+Northbourne, Lord. Look to the Land (1940). Sophia Perennis, 2003; 
+Paull, John. ‘Lord Northbourne, the man who invented organic farming, a biography’. Journal of Organic Systems, 9(1), 2014 https://orgprints.org/26547/12/26547.pdf
+Paull, John. ‘The Betteshanger Summer School: Missing Link between Biodynamic Agriculture and Organic Farming’. Journal of Organic Systems 6 (2) 2011, 13-26. https://orgprints.org/19511/
+https://northbourneblog.wordpress.com/
+
+  Paull 42; 36; 35.
+
+
 Para 2. https://commons.wikimedia.org/wiki/File:Betteshanger_House,_Northbourne_Geograph-3389049-by-Stephen-Richards.jpg
 Para 4. https://commons.wikimedia.org/wiki/File:Betteshanger_Church_-_geograph.org.uk_-_303684.jpg; https://www.kentchurches.info/church.asp?p=Betteshanger
