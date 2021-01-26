@@ -122,6 +122,13 @@ Alyson Hunt is a recent PhD survivor and long-time research associate of the Int
 Mandy Jones is a PhD researcher at CCCU. She spends her time telling anyone who’ll listen (and even those who won’t) that Victoria Holt is an important but neglected author who needs reclaiming as a neo-Victorian novelist. She is thrilled that this project is literally putting Victoria Holt on the map.
 
 ##
+**Miroslava Karaskova**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/miroslava.karaskova photo.jpg)
+
+Miroslava is an undergraduate student from Slovakia, studying combined honours History with Film, Radio & Television studies at Canterbury Christ Church University. She hopes to continue her academic journey focusing on cultural history and portrayal of history in film, while practising filmmaking in the form of documentaries. In her free time, she presents two radio shows on the Canterbury Community and Student Radio, and she is a die-hard arts and crafts enthusiast.
+
+##
 **Helena Kelly**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/helenakelly.JPG)
