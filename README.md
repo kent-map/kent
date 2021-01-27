@@ -91,6 +91,6 @@ One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816
 ##
 [**Geoffrey Chaucer**](/14c)
 
-![](https://kent-map.github.io/kent/images/thumbnails/chaucer.JPG)
+![](https://kent-map.github.io/kent/images/thumbnails/chaucer small.JPG)
 
 Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
