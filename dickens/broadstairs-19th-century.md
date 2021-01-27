@@ -8,7 +8,7 @@ Despite being the favoured holiday destination of no less a figure than [Charles
 
 ![Evanion ©The British Library Board c04022-09 / Evan.2668 Images Online](images/Evanion.jpg){: .right .dropshadow}
 
-Sensation author [Mary Braddon](19c-braddon-biography) visited in 1878, but for the sake of her children’s health rather than any excitement the town had on offer. It is very much the Victorian matron rather than the aider and abetter of Lady Audley who writes about the 'need of strengthening breezes' as a reason for the trip.
+Sensation author [Mary Braddon](/19c/19c-braddon-biography) visited in 1878, but for the sake of her children’s health rather than any excitement the town had on offer. It is very much the Victorian matron rather than the aider and abetter of Lady Audley who writes about the 'need of strengthening breezes' as a reason for the trip.
 
 An 1885 volume on '_How We Did Without Lodgings at the Seaside_ charts the successful efforts of a family in straitened circumstances to fend for themselves in a rented house in Broadstairs, a feat which the writer claims would have been impossible in a more fashionable resort such as Brighton. Unlike the overtly snooty [Folkestone](19c-folkestone), Broadstairs might almost have welcomed this appraisal. Certainly guides to the town were far from resenting [Dickens](/dickens-biography) for his picture of ['Our Watering Place'](https://www.djo.org.uk/household-words/volume-iii/page-433.html) as having 'been left somewhat high and dry. by the tide of years.'
 
