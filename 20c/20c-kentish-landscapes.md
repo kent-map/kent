@@ -19,7 +19,7 @@ Everitt adopted the French term _pays_ to describe the regional divisions he ide
 
 **Article written by:** Prof Peter Vujakovic
 
-###Bibliography
+### Bibliography
 
 Everitt, Alan (1986) _Continuity and Colonization: the evolution of the Kentish settlement_, Leicester Univ. Press: Leicester.
 
