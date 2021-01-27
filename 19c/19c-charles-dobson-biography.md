@@ -1,6 +1,6 @@
 ## Charles Henry Dobson
 
-Charles Henry Dobson, a [Canterbury](19c-canterbury) cathedral singer with 14 years of service (1825–1839) is not mentioned in the [Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) records, which is also odd because his name crops up repeatedly in newspaper reports covering everything else musical in this period. He and [James Shoubridge](19c-james-shoubridge-biography) are frequently found performing together, as here at the Catch Club in the nearby coastal town of Deal in 1833: ‘Messrs Shoubridge and Dobson were as usual quite ‘at home’ in the parts assigned them, and gave great satisfaction’.  
+Charles Henry Dobson, a [Canterbury](19c-canterbury) cathedral singer with 14 years of service (1825–1839) is not mentioned in the [Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) records, which is odd because his name crops up repeatedly in newspaper reports covering everything else musical in this period. He and [James Shoubridge](19c-james-shoubridge-biography) are frequently found performing together, as here at the Catch Club in the nearby coastal town of Deal in 1833: ‘Messrs Shoubridge and Dobson were as usual quite ‘at home’ in the parts assigned them, and gave great satisfaction’.  
 
 In 1834, the same singers joined the Ashford Catch and Glee Club in a meeting attended by ‘250 gentlemen of the town and neighbourhood, being the largest, and at the same time, the most respectable convivial meeting ever held within [the Assembly Rooms’] walls.’ The usual rules applied:
 
