@@ -16,5 +16,7 @@ The second point relates to the first: these clubs' popularity may be due in no 
 
 >When the program was concluded the early birds retired, and for some forty years the after evening was celebrated by amateur free and easy singing, the mirth growing fast and furious till the small hours. No Bruce [police] being then in existence, our grandfathers made a night, and often, too, a morning of it. 
 
+The ‘amateur free and easy singing’ of the ‘after evening’ Mr Mount describes probably included more comic songs from the leading lights of the club’s entertainment roster, but it is utterly beyond question that most of the music being enjoyed in these fiercely convivial evenings was the quintessentially participatory genre, the [catch](19c-catch-music). 
+
 **Article Written by:** Dr Chris Price
 
