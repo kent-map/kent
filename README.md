@@ -87,3 +87,10 @@ Regeneration and the rise of the DFL.
 ![](https://kent-map.github.io/kent/images/thumbnails/dickens-head.jpg)
 
 One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
+
+##
+[**Geoffrey Chaucer**](/14c)
+
+![](https://kent-map.github.io/kent/images/thumbnails/dickens-head.jpg)
+
+Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
