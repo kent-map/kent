@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Derek Jarman" author="Jeremy Page" layout="vtl" 
-banner="https://upload.wikimedia.org/wikipedia/commons/d/da/a photo to go on the banner strip.jpg">
+banner="jarman2.jpg">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 <param ve-entity eid="Q2602144" aliases="Old Romney">
 <param ve-entity eid="Q911577" aliases="Dungeness">
@@ -20,14 +20,10 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 By his own account, Jarman had no plans to build a garden, an improbable project in this ‘bleak and beautiful interzone’ (Olivia Laing), but following his purchase of Prospect Cottage for £450 (freehold) and his subsequent diagnosis as HIV positive, he set about creating the garden that would serve as ‘therapy and pharmacopoeia’ (_Derek Jarman’s Garden_). He came to see his garden as a paradise, contrasting it with other gardens he saw as ‘like bad children – spoilt by their parents, over-watered and covered with noxious chemicals’ (_Derek Jarman’s Garden_). Jarman’s garden merges imperceptibly with the beach and has no fences. ‘My garden’s boundaries are the horizon,’ he declares in _Modern Nature_.
 <param ve-image label="Dungeness."
 	   attribution="Jeremy Page"
-	   url=""images/jarman2.jpg">
+	   url=""images/jarman3.jpg">
 <param ve-map primary center="Q911577" zoom="10">
 
 The garden flourished in this harsh, inhospitable landscape, against the elements and the odds, but as it thrived, so Jarman’s condition worsened as AIDS tightened its grip. By 1990 his sight was failing as a result of toxoplasmosis. Typically, this prompted an obsession with colour, which would find expression in both his ‘book of colour’ _Chroma_ and his last film _Blue_.
-<param ve-image label="Dungeness"
-	   attribution="Jeremy Page"
-	   url="images/jarman3.jpg">
-<param ve-map primary center="Q911577" zoom="10">
 
 Derek Jarman’s creativity was truly extraordinary by virtue of its scope and its exuberance. Prospect Cottage, Dungeness and Romney Marsh collectively constitute a fitting memorial to the man, the life and the work.
 <param ve-image label="Dungeness"
