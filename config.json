@@ -8,6 +8,7 @@
     "nav": [
         {"label": "About", "icon": "info", "path": "/about"}
     ],
+    "favicon": "/images/favicon.ico",
     "gaTrackingID": "UA-148268745-1",
     "css": "https://kent-map.github.io//kent/css/kent.css",
     "acct": "kent-map",
