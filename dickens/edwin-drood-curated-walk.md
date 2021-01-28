@@ -18,12 +18,14 @@ The most prominent feature in both Cloisterham and Rochester is, of course, the 
 <param-ve-map>
 
 Inevitably, attention is drawn towards the crypt of the cathedral. This is the place where the stonemason Durdles takes Jasper on a night-time tour, at Jasper’s request, and it is during that tour that Durdles falls strangely tired, as though drugged, and ‘dreams’ of Jasper taking his keys. This has led many to assume that Jasper makes a copy of the keys, with the intention of entombing his unfortunate nephew somewhere within, most likely in the Sapsea tomb. Dickens describes that night-time tour of Durdles and Jasper in deliciously gothic tones:
-‘They enter, locking themselves in, descend the rugged steps, and are down in the Crypt.  The lantern is not wanted, for the moonlight strikes in at the groined windows, bare of glass, the broken frames for which cast patterns on the ground.  The heavy pillars which support the roof engender masses of black shade, but between them there are lanes of light.’
+
+>‘They enter, locking themselves in, descend the rugged steps, and are down in the Crypt.  The lantern is not wanted, for the moonlight strikes in at the groined windows, bare of glass, the broken frames for which cast patterns on the ground.  The heavy pillars which support the roof engender masses of black shade, but between them there are lanes of light.’
 <param ve-image url="images/Fig 2 The Crypt.jpg" label="Figure 2: The Crypt">  
 <param-ve-map>
 
 Alas, it is rather difficult for the modern visitor to quite capture the same gloomy sense of an eternity trapped in that tomb, since the crypt is now home to the cathedral café. But it is nice to imagine Edwin sipping a latte while all of Cloisterham scrambles to find him.
 Outside the cathedral, but not too far, the next prominent building is the cathedral’s gatehouse. This is where Jasper lives as tenant to the Topes, and where in turn Dick Datchery will also rent a room. 
+
 Mr. Tope’s official dwelling, communicating by an upper stair with Mr. Jasper’s (hence Mrs. Tope’s attendance on that gentleman), was of very modest proportions, and partook of the character of a cool dungeon…These two chambers, close as to their atmosphere, and swarthy as to their illumination by natural light, were the apartments which Mrs. Tope had so long offered to an unappreciative city.  Mr. Datchery, however, was more appreciative.  He found that if he sat with the main door open he would enjoy the passing society of all comers to and fro by the gateway, and would have light enough.
 <param ve-image url="images/Fig 3 The Gatehouse.jpg" label="Figure 3: The Gatehouse">  
 <param-ve-map>
