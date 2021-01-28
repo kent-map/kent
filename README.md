@@ -89,7 +89,7 @@ Regeneration and the rise of the DFL.
 One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
 
 ##
-[**Geoffrey Chaucer**](/14c)
+[**Geoffrey Chaucer**](/14c/14c-chaucer)
 
 ![](https://kent-map.github.io/kent/images/thumbnails/chaucersmall.JPG)
 
