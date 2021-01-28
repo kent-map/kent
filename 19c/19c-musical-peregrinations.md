@@ -1,4 +1,6 @@
-## Musical Peregrinations in Nineteenth Century Kent
+## Musical Peregrinations in Eighteenth Century Kent
+
+**Place:** Nethersole, near Canterbury (1783-7)
 
 According to the extensive journal of John Marsh (1752-1828), gentleman, barrister, and talented amateur musician, the few years (1783–7) he spent living at Nethersole, near [Canterbury](/19c/19c-Canterbury), were notable for the concerts in which he either played a leading role (as violinist, organist, composer, and/or organiser) or was an enthusiastic member of the audience. Occasionally he records a trip to London to sustain his study for the bar, though this seems by some way the less important part of his life. Apart from the prodigious musical energy of the man, the glimpses of the county's cultural life and the infrastructure – such as it was – which supported it are fascinating:
 
