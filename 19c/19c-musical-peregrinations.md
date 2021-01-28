@@ -8,7 +8,7 @@ A little later in the diary, Marsh notes that his musical activities were not al
 
 >These private concerts (to which Mrs M. not being a subscriber could not come) being always on dark nights I was necessitated on these nights to sleep at the inn and return home the next morning. After the public ones (it being moonlight) we always went home in the coach afterwards.
 
-The need to be able to see where one is going may strike us as (pun intended) blindingly obvious, but darkness was not the only obstacle. Over a century later, Sabine Baring-Gould reminisced about travel along England's country roads in the early nineteenth century. Their very construction, he notes, was a matter for contention:
+The need to be able to see where one is going may strike us as (pun intended) blindingly obvious, but darkness was not the only obstacle. Over a century later, Reverend Sabine Baring-Gould, collector of folk songs, reminisced about travel along England's country roads in the early nineteenth century. Their very construction, he notes, was a matter for contention:
 
 >Road-making was formerly intrusted [sic] to the parochial authorities, and there was no supervision. It was carried out in slovenly and always in an unsystematic manner. In adopting a direct or circuitous line of way, innumerable predilections interfered, and parishes not infrequently quarrelled about the roads. 
 
@@ -16,7 +16,7 @@ And the quality of engineering was as might be expected:
 
 >Formerly the roads were – not exactly paved, but made by the thrusting of big stones into holes which they more or less adequately filled. Then on top of all were put smaller stones, picked up from the fields, and not broken at all. [...] Even with systematic mending, the old roads were bad, for the true principle on which roads should be made was not known. 
 
-‘The wonder to me is, that chaises ever made any progress over these old roads without being splintered to atoms’ is Baring-Gould's conclusion, and Sydney Smith testifies to the problem: 
+‘The wonder to me is, that chaises ever made any progress over these old roads without being splintered to atoms’ is Baring-Gould's conclusion, and Sydney Smith, Anglican cleric and humourist, testifies to the problem: 
 
 >In going from Taunton to Bath I suffered between ten thousand and twelve thousand severe contusions before stone-breaking McAdam was born. I paid fifteen pounds in a single year for repair of carriage-springs on the pavement of London. […] I forgot to add, that as the basket of the stage-coaches in which luggage was then carried had no springs, your clothes were rubbed all to pieces; and that even in the best society, one-third of the gentlemen were always drunk. 
 
