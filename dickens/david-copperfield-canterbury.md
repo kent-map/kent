@@ -7,10 +7,7 @@
 >‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’ 
 _David Copperfield_
 
-![Little Inn, Dickens Land](<p align="center">
-  <img src="images/In Dickens Land. The Little Inn, Canterbury.JPG){: .right .dropshadow}" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Little Inn, Dickens Land</span>
-</p>
+![Little Inn, Dickens Land](images/In Dickens Land. The Little Inn, Canterbury.JPG){: .right .dropshadow} 
 
 When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
 very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below.,[^ref1]
@@ -20,7 +17,9 @@ a grave building in a courtyard, with a learned air about it that seemed very we
 
 Tradition places Dr Strong’s house at 1 Lady Wootton’s Green, although some remain sceptical. Not least among them, a 1928 guide writer insists that ‘I can give a dozen reasons as to the utter absurdity of it. Fancy the Head Master of the King’s School living by St Augustine’s College. He might as well have lived in Dover. Dr Strong lived in the Precincts. adjoining his school.’[^ref3]
 
-David's first impression though is of ‘the sunny street [Sun Street?] of Canterbury, dozing as it were in the hot light’.[^ref4] Though a plaque on the wall of the Sun Hotel claims it as Dickens’ ‘Little Inn’ it is more likely that the real progenitor of this is actually The Three Tuns by Castle St. And while we are on the subject of pubs, it is pleasant to imagine David passing the [Bat and Ball](http://www.dover-kent.com/Bat-and-Ball-Canterbury.html) by the cricket ground on his thankless walk along the Dover Road [Dover Road](david-copperfield-dover-road).
+David's first impression though is of ‘the sunny street [Sun Street?] of Canterbury, dozing as it were in the hot light’.[^ref4] 
+
+Though a plaque on the wall of the Sun Hotel claims it as Dickens’ ‘Little Inn’ it is more likely that the real progenitor of this is actually The Three Tuns by Castle St. And while we are on the subject of pubs, it is pleasant to imagine David passing the [Bat and Ball](http://www.dover-kent.com/Bat-and-Ball-Canterbury.html) by the cricket ground on his thankless walk along the Dover Road [Dover Road](david-copperfield-dover-road).
  
 Dickens’ relationship with Canterbury was the basis of calls from locals such as A. C. Turley for a local branch of the Dickens Society. But his response is actually somewhat ambivalent. A reader of _David Copperfield_ would revel in the fond, almost loving, evocation of a Cathedral town (compared with the much starker depiction of Cloisterham ([Rochester]) in _The Mystery of Edwin Drood_ ), but that is never repeated in his letters or other writings. While he took a friend 'in tow to Canterbury' in 1848.[^ref5] and took his American publisher and his wife on a 'Canterbury Pilgrimage' in 1869.[^ref6] the only other affectionate reference to the city is in his appreciation of the warmth of the crowd at a reading he gave at the Guildhall, in a letter to his daughter from the now destroyed Fountain Hotel.
  

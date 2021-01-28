@@ -18,7 +18,7 @@
 [Somerset Maugham](20c-maugham-biography)  
 [Mary L. Pendered](20c-pendered-biography)   
 [Christopher St John](20c-st-john-biography)  
-[Diana & Tony Powell-Cotton](20c-powell-cotton-biography)   
+[Diana & Tony Powell-Cotton](20c-powell-cotton)   
 [Vita Sackville-West](20c-sackville-west-biography)   
 [Netta Syrett](20c-syrett-biography)   
 [Ellen Terry](20c-terry-biography)  
@@ -36,6 +36,7 @@
 
 [Belgian Refugees](20c-belgian-refugees)   
 [Ellen Terry's funeral](20c-terry-funeral)  
+[Hop Picking and the Literary Imagination](20c-hop-picking)   
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTU0NjU5MDMxN119

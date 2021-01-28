@@ -1,9 +1,6 @@
 ## Seaside resorts
 
-<div align="center" style="float:right; margin: 64px 0 6px 24px;">
-  <img src="images/Margatefromtheparade.jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
-  <p style="padding-top:12px; font-size:0.8em;">©The British Library Board c11802-06 / Maps K.Top.17.4.e Images Online</p>
-</div>
+![Margate from the Parade ©The British Library Board c11802-06 / Maps K.Top.17.4.e Images Online](images/Margatefromtheparade.jpg){: .right}
 
 As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells moved coastwards in the late eighteenth and nineteenth centuries, so a number of obscure fishing villages reinvented themselves as seaside resorts. Kent was an obvious beneficiary of this trend, with Gravesend in the Medway area and no fewer than seven resorts along the East coast: while Whitstable and Herne Bay never offered serious competition to the Sussex resorts of Brighton and Eastbourne, visitors were drawn in large numbers to [Broadstairs](/dickens/broadstairs-19th-century), [Ramsgate](/dickens/19c-ramsgate) and [Margate](/dickens/19c-margate) in Thanet, and to [Folkestone](/19c/19c-folkestone) and [Dover](/dickens/19c-dover) in Sheppey. 
 

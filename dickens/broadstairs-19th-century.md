@@ -2,35 +2,23 @@
 
 ## Broadstairs in the nineteenth century
 
-![Broadstairs ©The British Library Boardc13874-68 ](images/c13874-68 Broadstairs.jpg){: .right .dropshadow}## Broadstairs
+![Broadstairs ©The British Library Boardc13874-68 ](images/c13874-68 Broadstairs.jpg){: .right .dropshadow}
 
-
-<p align="center">
-  <img src="images/c13874-68 Broadstairs.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> ©The British Library Boardc13874-68 Broadstairs.</span>
-</p>
- 
-
-Despite being the favoured holiday destination of no less a figure than Charles [Dickens](dDickens-biography), [Broadstairs](https://warnerbros.digitalpigeon.com/msg/CDUQoLnGEeqC8wbfE8cnCQ/VdDOxM7Jm4sxoAAhNTQ1ZQ) never aimed to compete with either the much-vaunted gentility of Ramsgate or the mass appeal of Margate. In 1831 the teenage diarist [Emily Shore](/19c/19c-shore-biography) recorded her mother's obvious disappointment at the lack of social amenities and for most of the century it kept out less elegant tourists by the simple expedient of ‘failing to provide facilities which would attract them – no public amusements or music halls. Just a small circulating library with old-fashioned assembly room attached, calculated to attract a steady flow of quiet respectable visitors.’  One journalist commented with patronising approval in 1864 that ‘Broadstairs is a quaint old place, and its inhabitants are still very primitive.’  
+Despite being the favoured holiday destination of no less a figure than [Charles Dickens](dDickens-biography), Broadstairs never aimed to compete with either the much-vaunted gentility of Ramsgate or the mass appeal of Margate. In 1831 the teenage diarist [Emily Shore](/19c/19c-shore-biography) recorded her mother's obvious disappointment at the lack of social amenities and for most of the century it kept out less elegant tourists by the simple expedient of ‘failing to provide facilities which would attract them – no public amusements or music halls. Just a small circulating library with old-fashioned assembly room attached, calculated to attract a steady flow of quiet respectable visitors.’  One journalist commented with patronising approval in 1864 that ‘Broadstairs is a quaint old place, and its inhabitants are still very primitive.’  
 
 ![Evanion ©The British Library Board c04022-09 / Evan.2668 Images Online](images/Evanion.jpg){: .right .dropshadow}
 
-An 1885 volume on ''How We Did Without Lodgings at the [Seaside](/19c/19c-seaside)" charts the successful efforts of a family in straitened circumstances to fend for themselves in a rented house in Broadstairs, a feat which the writer claims would have been impossible in a more fashionable resort such as Brighton. 
+Sensation author [Mary Braddon](/19c/19c-braddon-biography) visited in 1878, but for the sake of her children’s health rather than any excitement the town had on offer. It is very much the Victorian matron rather than the aider and abetter of Lady Audley who writes about the 'need of strengthening breezes' as a reason for the trip.
 
-The 1880 ‘[seaside](/19c/19c-seaside) number’ of Bow Bells Novelettes did its best to liven up the holiday market with ‘The Beauty of Broadstairs’, a story about a beautiful actress, an attempted murder, a stolen will and a tearful reunion. Meanwhile the Assembly Rooms were providing accessible entertainment such as conjuring and thought reading by the last decades of the century. George and Weedon [Grossmith](/19c/19c-grossmith-biography)s' Charles Pooter – who is understandably wary of Margate - expects his family to be safe in Broadstairs at least. It is typical of the enterprising Lupin that even in this most decorous of [seaside](/19c/19c-seaside) resorts he quickly discovers the appearance of Polly Presswell, ‘England’s Particular Spark’, at the Assembly Rooms.
+An 1885 volume on '_How We Did Without Lodgings at the Seaside_ charts the successful efforts of a family in straitened circumstances to fend for themselves in a rented house in Broadstairs, a feat which the writer claims would have been impossible in a more fashionable resort such as Brighton. Unlike the overtly snooty [Folkestone](19c-folkestone), Broadstairs might almost have welcomed this appraisal. Certainly guides to the town were far from resenting [Dickens](/dickens-biography) for his picture of ['Our Watering Place'](https://www.djo.org.uk/household-words/volume-iii/page-433.html) as having 'been left somewhat high and dry. by the tide of years.'
 
-![Alfred Capper
-<p align="center">
-  <img src="images/Evanion.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Evanion ©The British Library Board c029084022-089 / Evan.2795](images/AlfredCapper.jpg){: .right .dropshadow}668 Images Online.</span>
-</p>
+The 1880 ‘seaside number’ of _Bow Bells Novelettes_ did its best to liven up the holiday market with ‘The Beauty of Broadstairs’, a story about a beautiful actress, an attempted murder, a stolen will and a tearful reunion. Meanwhile the Assembly Rooms had changed little since since the 1850s, when [Dickens's](/dickens-biography) affectionate satire:
 
-<p align="center">
-  <img src="images/AlfredCapper.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Alfred Capper ©The British Library Board c02908-08 / Evan.2795.</span>
-</p>
+    Sometimes, a misguided wanderer of a Ventriloquist, or an Infant Phenomenon, or a Juggler, or somebody with an Orrery that is several stars behind the time,         takes the place for a night, and issues bills with the name of his last town lined out, and the name of ours ignominiously written in, but you may be sure this     never happens twice to the same unfortunate person.
+    
+The Assembly Rooms were still providing accessible entertainment such as conjuring and thought reading in the last decades of the century. George and Weedon [Grossmith](/19c/19c-grossmith-biography)s' Charles Pooter – who is understandably wary of Margate - expects his family to be safe in Broadstairs at least. It is somehow typical of the enterprising Lupin that even in this drowsiest of [seaside](/19c/19c-seaside) resorts he quickly discovers the appearance of Polly Presswell, ‘England’s Particular Spark’.
 
-
+![Alfred Capper ©The British Library Board c029084022-089 / Evan.2795](images/AlfredCapper.jpg){: .right .dropshadow}
 
 But overall the image of the town remained decorous even in the tempestuous 1890s. Israel Zangwill captured the mood perfectly in a comic account of:
 
@@ -42,21 +30,18 @@ The next year in 1897 the Broadstairs Pier and Harbour Commissioners complained 
 
 Feeling active? You may want to try this [Turner and Dickens walk]( https://explorekent.org/activities/turner-dickens-walk/)
 
-## Article written by 
-Professor Carolyn Oulton
+**Article written by:** Professor Carolyn Oulton
 
 
-## Bibliography
+### Bibliography
 
-Dicks, John. The Beauty of Broadstairs. Bow Bells Novelettes. _Seaside number_ (82). Vol iv.  
-August 1880. 113-28.
+Dicks, John. The Beauty of Broadstairs. Bow Bells Novelettes. _Seaside number_ (82). Vol iv.  August 1880. 113-28.   
 
 Grandfield, Yvette F. ‘The development of the seaside resort and the striving for `social tone', 1850-1899, with a particular examination of Margate and Folkestone : dissertation submitted in part fulfilment of the requirements for the degree of Master of Arts of the University of Kent at Canterbury’. (1994).
 
 Grossmith, George and Weedon. _The Diary of a Nobody_. First published 1892.
 
-Unattributed. How We Did Without Lodgings at the Seaside, Saved Our Money and Doubled 
-Our Pleasure. By the author of How We Managed Without Servants. [Reprint] London: 
+Unattributed. 'How We Did Without Lodgings at the Seaside, Saved Our Money and Doubled Our Pleasure'. By the author of How We Managed Without Servants. [Reprint] London: 
 Griffith, Farran, Okeden & Welsh, 1885.
 
 Unattributed. ‘Shrove Tuesday at Broadstairs’. _Penny Illustrated Weekly News_.  February 1864. 566. British Newspaper Archive.

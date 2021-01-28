@@ -1,13 +1,13 @@
-<param ve-config title="Kent Digital Map" author="Janet Dunn" layout="vtl" banner="/images/kent-map-header.jpg">
+<param ve-config title="Kent Digital Map" author="Jan Dunn" layout="vtl" banner="/images/kent-map-header.jpg">
 
 <param ve-entity="Birchington" eid="Q865021">
 
-
 # Diana Powell-Cotton (1908-1986) & Tony (Antoinette) Powell-Cotton (1915-1997)
 
-Place:  Quex Park, Birchington, Kent
+**Place:**  Quex Park, Birchington, Kent
 
-Event: Two intrepid women from Quex Park, Kent travelled to the interior of Africa in the 1930s where they recorded the domestic lives of those they met and lived with. Arguably the first British women documentary filmmakers. 
+**Event:** Two intrepid women from Quex Park, Kent travelled to the interior of Africa in the 1930s where they recorded the domestic lives of those they met and lived with. Arguably the first British women documentary filmmakers. 
+<param ve-map center="Q865021" zoom="8">
 
 On a rainy day in February 1936 Diana Powell-Cotton was 28 years old and her sister Tony only 20 when they left their home [Quex House](https://www.historichouses.org/houses/house-listing/quex-house.html), Birchington to embark upon a trip to the interior of Africa. They had prepared by learning to drive and to speak Portuguese. On arrival in Angola, West Africa they would be picking up their two and a half ton truck Jemima, onto which would be loaded their significant and heavy filming equipment. 
 <param ve-map center="Q865021" zoom="8">
@@ -20,9 +20,10 @@ Diana with her fine art degree, would utilise this skill in writing detailed fie
 The reality of what it takes physically, the hard work as well as logistics, is all the more important when considering these women were filming in the isolated rural interior of Africa in the 1930s. Setting their work as filmmakers in historical context, what makes their story fascinating is that both in terms of film production, documentary and anthropology they were trailblazers.
 They lived amongst and made friends with a number of African women such as Shanika, a pot maker who was also a medicine woman. The Sisters spend time with her on a number of occasions and interview her alone and with her ex-husband, who Diana describes as ‘a sly looking brute”.[^ref2]  Diana writes how there are many people coming to the car to see them off but she is ‘Sad to see the last of Shanika, with her wrinkled bronze face, quick to anger but always laughing. Slower than anyone I’ve ever met and more vague but full of helpful wisdom. She came profoundly flapping in her newly acquired old canvas shoes.’[^ref3]   No doubt, a gift from Diana.
 The women covered about 2000 miles.  They stopped sometimes briefly and sometimes for several nights visiting around 50 villages and towns. The weather ranged from dry and hot to torrential down pours and everything in between.
+<param ve-image primary url="20c/images/1937 Angola Jemima stuck.jpg" label= "Tony gathering straw, Angola, 1937" attribution= "Quex Park Museum">
 
 ### References
 
-[^ref1]: Hutchinson, Pamela (2019) Where To Begin With Early Women Filmmakers p. BFI  
-[^ref2]: Powell-Cotton, Diana Field Notes 23rd June 1936  
-[^ref3]: Powell-Cotton, Diana Field Notes 28th June 1936  
+[^ref1]: Hutchinson, Pamela (2019) _Where To Begin With Early Women Filmmakers_ p. BFI  
+[^ref2]: Powell-Cotton, Diana _Field Notes_ 23rd June 1936  
+[^ref3]: Powell-Cotton, Diana _Field Notes_ 28th June 1936  
