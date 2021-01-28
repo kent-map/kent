@@ -3,15 +3,6 @@
 
 <param title="Rochester" eid="Q507517">
 
-<!-- Kent with map centered at Rochester -->
-<param data-map center="51.254291, 0.876473" zoom="10">
-
-<!-- Historical map layers -->
-<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820">
-<param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860">
-<param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808">
-<param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
-
 [Rochester](/dickens/dickens-medway) is proud to celebrate its Dickensian connections, and the most fascinating and intriguing connection is its inspiration for the fictional town of Cloisterham, backdrop to Dickens’s final novel _The Mystery of Edwin Drood._ The unfinished state of this last novel has, if anything, generated even more interest in the real-life location for the story’s diabolical events, as amateur detectives and scholars alike have tried to assess whether any clues for Edwin’s fictional whereabouts may be gleaned from examination of the factual geography.
 The most prominent feature in both Cloisterham and Rochester is, of course, the cathedral. Dickens open the novel with talk of ‘An ancient English Cathedral town’, centring the building at the heart of the town’s identity. The Cathedral still stands today, and inside it we can imagine hearing the choir led by John Jasper.
 <param ve-image url="images/Fig 1 Rochester Cathedral.jpg" label="Figure 1: Rochester Cathedral"> 
