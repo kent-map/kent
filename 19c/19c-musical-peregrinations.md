@@ -1,4 +1,4 @@
-## Musical Peregrinations in Eighteenth Century Kent
+## Musical Peregrinations
 
 **Place:** Nethersole, near Canterbury (1783-7)
 
