@@ -29,6 +29,13 @@ As the map grows so too will the capacity for making unforeseen connections. Whi
 Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. While carrying out research in Dickens Land she infringed enough bye laws to get herself hanged under the Bloody Code. But it was all Pip’s fault.
 
 ##
+**Claire Bartram**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/claire bartram.jpg)
+
+Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
+
+##
 **Michelle Crowther**
 
 - twitter: @HumLib_cccu
@@ -37,14 +44,15 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 
 Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature.
 
-# Authors
 
 ##
 **Laura Allen**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/lauraallen.jpg)
 
-Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eliza Haweis Fanclub. When she’s not busy reading advice on how to be a proper Victorian lady, you will likely find her in a quaint old pub with a Kentish cider and a battered old copy of Jane Eyre.
+Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eliza Haweis Fanclub. When she’s not busy reading advice on how to be a proper Victorian lady, you will likely find her in a quaint old pub with a Kentish cider and a battered old copy of Jane Eyre
+
+# Authors
 
 ##
 **Sophie Baldock**
@@ -55,12 +63,6 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 
 Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive, one of the first hybrid (part-paper, part-digital) literary archives acquired by the Library. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). She grew up in Kent, and in the summer enjoys swimming in the sea along the east Kent coast.  
 
-##
-**Claire Bartram**
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/claire bartram.jpg)
-
-Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
 
 ##
 **Simone Blandford**
