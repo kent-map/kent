@@ -9,7 +9,7 @@
 
 ### People
 
-[William Harrison Ainsworth](19c-ainsworth.biography)  
+[William Harrison Ainsworth](19c-ainsworth-biography)  
 [Hans Christian Andersen](19c-christian-andersen)   
 [Jane Austen](19c-austen-biography)  
 [Robert Barr](19c-barr-biography)  
@@ -28,7 +28,8 @@
 [Bessie Marchant](19c-marchantb-biography)  
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
 [Mary Shelley](19c-shelleym-biography)  
-[Margaret Emily Shore](19c-shore-.biography)  
+[Margaret Emily Shore](19c-shore-biography)  
+[Netta Syrett](19c-netta-syrett-biography)   
 [Princess Victoria](19c-victoria-albion-house)  
 
 ### Places
