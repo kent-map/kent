@@ -18,7 +18,7 @@ A purple cloak I next clapped on, a sword lagged to my side, sirs,
 And mounted on a charger black, I to the town did ride, sirs.
 With my coal-black beard, &c.
 The people all flocked forth, amazed to see a man so hairy,
-Oh I such a sight had ne'er before been seen in [[Canterbury]]!
+Oh I such a sight had ne'er before been seen in Canterbury!
 My flowing robe, my flowing beard, my horse with flowing mane, sirs!
 They stared—the days of chivalry, they thought, were come again, sirs!
 With my coal-black beard, &c.”
