@@ -19,5 +19,5 @@ Poplawski, Paul.  _A Jane Austen Encyclopedia._  Westport, CT: Greenwood Press, 
 
 ### References
 
-[^ref1]: Paul Poplawski, 61.
-[^ref2]: Marilyn Butler, ODNB.
+[^ref1]: Paul Poplawski, 61.   
+[^ref2]: Marilyn Butler, ODNB.   
