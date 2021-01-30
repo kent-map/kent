@@ -30,7 +30,8 @@
 [Mary Shelley](19c-shelleym-biography)  
 [Margaret Emily Shore](19c-shore-biography)  
 [Netta Syrett](19c-netta-syrett-biography)   
-[Princess Victoria](19c-victoria-albion-house)  
+[Princess Victoria in Ramsgate](19c-victoria-albion-house)  
+[Princess Victoria in Walmer](19c-victoria-walmer-castle)  
 
 ### Places
 
