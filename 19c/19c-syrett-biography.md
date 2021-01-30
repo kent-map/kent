@@ -14,6 +14,6 @@ She wrote 38 novels, 20 children’s books, 4 plays and 18 short stories which w
 **Article written by:** Dr Alyson Hunt
 
 ## References: 
-Adams, Jad. English Literature in Transition, 1880-1920; Greensboro Vol. 62, Iss. 2,  (2019): 206-243.   
-Syrett, Netta. The Sheltering Tree. Geoffrey Bles, London. 1939. Via Internet Archive Online
+Adams, Jad. _English Literature in Transition, 1880-1920_; Greensboro Vol. 62, Iss. 2,  (2019): 206-243.   
+Syrett, Netta. _The Sheltering Tree_. Geoffrey Bles, London. 1939. Via Internet Archive Online
 

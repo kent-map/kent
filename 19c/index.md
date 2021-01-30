@@ -9,7 +9,7 @@
 
 ### People
 
-[William Harrison Ainsworth](19c-ainsworth.biography)  
+[William Harrison Ainsworth](19c-ainsworth-biography)  
 [Hans Christian Andersen](19c-christian-andersen)   
 [Jane Austen](19c-austen-biography)  
 [Robert Barr](19c-barr-biography)  
@@ -28,8 +28,10 @@
 [Bessie Marchant](19c-marchantb-biography)  
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
 [Mary Shelley](19c-shelleym-biography)  
-[Margaret Emily Shore](19c-shore-.biography)  
-[Princess Victoria](19c-victoria-albion-house)  
+[Margaret Emily Shore](19c-shore-biography)  
+[Netta Syrett](19c-netta-syrett-biography)   
+[Princess Victoria in Ramsgate](19c-victoria-albion-house)  
+
 
 ### Places
 
@@ -44,7 +46,8 @@
 
 ### Events
 
-[Hoodening](19c-hoodening)   
+[Hoodening](19c-hoodening)  
+[Leather and Dust](/dickens/19c-leather-and-dust)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTIzMTk4NTY2MF19
