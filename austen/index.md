@@ -24,7 +24,7 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 During visits to her brother Edward Austen Knight between 1794 and 1813, Austen frequently took day trips to Canterbury. In addition to making social calls, Austen enjoyed the other attractions Canterbury had to offer, including visits to the Cathedral, shopping, concerts, and balls.
 
 ##
-**[Chilham Castle](great-expectations-curated-walk)**
+**[Chilham Castle](austen-chilham-castle)**
 
 - author: Susan Civale
 
@@ -42,7 +42,7 @@ Jane Austen regularly visited Chilham Castle to attend dinner parties and evenin
 Austen stayed with her brother Edward Austen Knight at Godmersham Park six times between 1798 and 1813. During these visits she enjoyed seeing her family, taking day trips to a variety of Kent destinations, and making the most of his lavish library.
 
 ##
-**[Godmersham](austen-ramsgate)**
+**[Ramsgate](austen-ramsgate)**
 
 - author: Susan Civale
 
