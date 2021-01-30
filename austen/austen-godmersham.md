@@ -1,0 +1,12 @@
+## Jane Austen: Godmersham
+Stayed with brother Edward Austen Knight at Godmersham Park in 1798, 1803, 1805, 1808, 1809, and 1813.   
+Jane Austen stayed with her brother Edward Austen Knight (1767-1852) at Godmersham Park six times—in 1798, 1803, 1805, 1808, 1809, and 1813—and spent ten months there in all.   Her brother Edward, the third oldest son, was adopted by their father’s distant cousin Thomas Knight, from whom he inherited splendid estates in Kent and Hampshire (and whose name he eventually took as well).  Austen’s visits to Godmersham thus marked a change in lifestyle from that of her childhood at the Steventon rectory and especially from the more straitened conditions of the years after her father’s death in 1805.  Writing from Godmersham in an 1813 letter to her brother Francis (Frank), Austen remarks: ‘I have no occasion to think of the price of Bread or of Meat where I am now; let me shake off vulgar cares & conform to the happy Indifference of East Kent wealth’. 
+The luxurious existence at Godmersham was not its only attraction.  Visitors came frequently, and the Austens often received invitations to dine out, whether at Goodnestone, [Canterbury](/19c/19c-canterbury), Eastwell, Chilham, or elsewhere.  When Austen stayed at Godmersham, she took occasional day trips to Ashford or [Ramsgate](/dickens/19c-ramsgate), and made more frequent visits to [Canterbury](/19c/19c-canterbury), a favourite destination due to its proximity and its range of commercial, cultural, and social offerings.  
+Austen also relished the time she spent in her brother’s lavish library, which comprised over 1200 titles, and included historical, biographical, and theological writings, periodicals, dictionaries, and atlases, and the most fashionable novels of the day.   In her last visit to Godmersham in 1813, Austen wrote to her sister Cassandra, saying that she was delighted to ‘live in the Library except at Meals’ and, on occasion, to be ‘alone in the library, Mistress of all I survey’.  
+
+**Article written by:** Susan Civale
+
+###Bibliography
+
+Sabor, Peter.  [‘Reading with Austen.’](https://www.readingwithausten.com/index.html)
+
