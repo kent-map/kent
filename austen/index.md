@@ -6,34 +6,43 @@
 #
 
 ##
-**[Mobile Landscapes](mobile-landscapes)**
+**[Jane Austen](19c/19c-austen-biography)**
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/dickens_head.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
 
 Inspired by the literary pilgrimages made by Victorians themselves. Authors such as William Hughes and Frederick Kitton wrote enthusiastic accounts of their adventures as they tracked Dickens and his characters through Kent. This 21C experiment invites you to accompany two modern day Dickensians on their own journey of discovery, as they read the novels to each other from Broadstairs to Rochester.
 
 ##
-**[Great Expectations: a Curated Walk](great-expectations-curated-walk)**
+**[Canterbury](austen-canterbury)**
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Grammar_School_Gate_Rochester.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+
+Inspired by the literary pilgrimages made by Victorians themselves. Authors such as William Hughes and Frederick Kitton wrote enthusiastic accounts of their adventures as they tracked Dickens and his characters through Kent. This 21C experiment invites you to accompany two modern day Dickensians on their own journey of discovery, as they read the novels to each other from Broadstairs to Rochester.
+
+##
+**[Chilham Castle](great-expectations-curated-walk)**
+
+- author: Susan Civale
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
 
 Starts with Pip’s fateful encounter with Magwitch in the local churchyard. But what other secrets is he keeping? Meet the characters who shape his destiny or follow him around on a map and learn more about the real ‘marsh country’ of the 1820s. But remember – nothing here is quite what it seems.
 
 ##
-**[David Copperfield: a Curated Walk](david-copperfield-curated-walk)**
+**[Godmersham](austen-godmersham)**
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Broadstairs.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
 
 Takes David through Kent and down the Dover Road to find answers to some vital questions. How do others see us? What does it mean to be in love? Where is home? It may not be obvious at first, but places can move around here, so you must be careful not to get lost.
 
 ##
-**[Finding Dickens Land](dickens-biography)**
+**[Sevenoaks](austen-sevenoaks)**
 
 - author: Susan Civale
 
@@ -42,7 +51,7 @@ Takes David through Kent and down the Dover Road to find answers to some vital q
 From Rochester to Broadstairs on the East coast – wherever you go you can be fairly certain that Dickens has been there before you. But much like Aunt Betsey’s donkeys, he can be elusive.
 
 ##
-**[Dickens and Medway](dickens-medway)**
+**[Tunbridge Wells](austen-tunbridge-wells)**
 
 - author: Susan Civale
 
@@ -50,11 +59,4 @@ From Rochester to Broadstairs on the East coast – wherever you go you can be f
 
 “Mudbank, mist, swamp … swamp, mist, and mudbank.”’ So says a convict in Great Expectations), describing the ‘marsh country’ in which Pip and Estella have grown up. I grew up here too, so did generations of my family before me. 
 
-##
-**[Edwin Drood: a Curated Walk](edwin-drood-curated-walk)**
 
-- author: Susan Civale
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/1200px-Mystery_of_edwin_drood_0188.jpg)
-
-Rochester is proud to celebrate its Dickensian connections, and the most fascinating and intriguing connection is its inspiration for the fictional town of Cloisterham, backdrop to Dickens’s final novel _The Mystery of Edwin Drood._ 
