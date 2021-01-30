@@ -14,5 +14,5 @@ The parties at Chilham tended to be large and lively, and the Austens write of t
 
 **Article written by:** Susan Civale
 
-[^ref1]: To Cassandra Austen, 14 January 1801. 
-[^ref2]:  To Cassandra Austen, 6 November 1813.
+[^ref1]: To Cassandra Austen, 14 January 1801.   
+[^ref2]:  To Cassandra Austen, 6 November 1813.   
