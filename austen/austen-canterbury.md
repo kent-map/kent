@@ -13,3 +13,8 @@ The [Canterbury](/19c/19c-canterbury/) gaol also numbers among Canterbury places
 Harris, Jocelyn, “Jane Austen and the Subscription List to Camilla (1796).” _Persuasions Online_ 35:1 Winter 2014.
 Selwyn, David.  _Jane Austen and Leisure_. London: Hambledon Press, 1999.  
 
+### References
+
+[^ref1]: Harris.
+[^ref2]: David Selwyn, 113.
+[^ref3]: To Cassandra Austen, 3 November 1813. 
