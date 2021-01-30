@@ -12,7 +12,7 @@
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
 
-Inspired by the literary pilgrimages made by Victorians themselves. Authors such as William Hughes and Frederick Kitton wrote enthusiastic accounts of their adventures as they tracked Dickens and his characters through Kent. This 21C experiment invites you to accompany two modern day Dickensians on their own journey of discovery, as they read the novels to each other from Broadstairs to Rochester.
+Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. During these extended visits, Austen travelled to many other destinations in Kent for social calls or leisure outings.
 
 ##
 **[Canterbury](austen-canterbury)**
@@ -21,7 +21,7 @@ Inspired by the literary pilgrimages made by Victorians themselves. Authors such
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
 
-Inspired by the literary pilgrimages made by Victorians themselves. Authors such as William Hughes and Frederick Kitton wrote enthusiastic accounts of their adventures as they tracked Dickens and his characters through Kent. This 21C experiment invites you to accompany two modern day Dickensians on their own journey of discovery, as they read the novels to each other from Broadstairs to Rochester.
+During visits to her brother Edward Austen Knight between 1794 and 1813, Austen frequently took day trips to Canterbury. In addition to making social calls, Austen enjoyed the other attractions Canterbury had to offer, including visits to the Cathedral, shopping, concerts, and balls.
 
 ##
 **[Chilham Castle](great-expectations-curated-walk)**
@@ -30,7 +30,7 @@ Inspired by the literary pilgrimages made by Victorians themselves. Authors such
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
 
-Starts with Pip’s fateful encounter with Magwitch in the local churchyard. But what other secrets is he keeping? Meet the characters who shape his destiny or follow him around on a map and learn more about the real ‘marsh country’ of the 1820s. But remember – nothing here is quite what it seems.
+Jane Austen regularly visited Chilham Castle to attend dinner parties and evening balls while she was staying nearby with her brother Edward Austen Knight between 1796 and 1813. Social events at Chilham Castle offered opportunities to see old friends and to meet new people, and Jane and her sister wrote about them fondly in their letters to one another.
 
 ##
 **[Godmersham](austen-godmersham)**
@@ -39,24 +39,33 @@ Starts with Pip’s fateful encounter with Magwitch in the local churchyard. But
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
 
-Takes David through Kent and down the Dover Road to find answers to some vital questions. How do others see us? What does it mean to be in love? Where is home? It may not be obvious at first, but places can move around here, so you must be careful not to get lost.
+Austen stayed with her brother Edward Austen Knight at Godmersham Park six times between 1798 and 1813. During these visits she enjoyed seeing her family, taking day trips to a variety of Kent destinations, and making the most of his lavish library.
+
+##
+**[Godmersham](austen-ramsgate)**
+
+- author: Susan Civale
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+
+Austen visited Ramsgate in 1803 while staying at Godmersham Park with her brother Edward Austen Knight, and while another brother, Francis, was stationed there as a Royal Navy officer. In her published work, Ramsgate is associated with morally dubious characters such as George Wickham in Pride and Prejudice and Tom Bertram in Mansfield Park.
 
 ##
 **[Sevenoaks](austen-sevenoaks)**
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
 
-From Rochester to Broadstairs on the East coast – wherever you go you can be fairly certain that Dickens has been there before you. But much like Aunt Betsey’s donkeys, he can be elusive.
+Jane Austen’s first experience of Kent comprised a trip with her parents and sister to Sevenoaks to visit her great uncle Francis, her father’s guardian and benefactor. Francis hosted a grand dinner at his stately Red House in July of 1788, an event which may have provided the inspiration for a scene in her third novel, Mansfield Park (1814).
 
 ##
 **[Tunbridge Wells](austen-tunbridge-wells)**
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
 
-“Mudbank, mist, swamp … swamp, mist, and mudbank.”’ So says a convict in Great Expectations), describing the ‘marsh country’ in which Pip and Estella have grown up. I grew up here too, so did generations of my family before me. 
+Austen mentions the fashionable spa resort of Tunbridge Wells—often referred to as simply “Tunbridge”—in several of her novels, such as Northanger Abbey, Mansfield Park, Persuasion, and the unfinished Sanditon. She is also known to have had a Tunbridge ware box of the kind Harriet Smith has in Emma.
 
 
