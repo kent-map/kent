@@ -15,8 +15,8 @@ Sabor, Peter.  [‘Reading with Austen.’](https://www.readingwithausten.com/in
 
 ### References
 
-[^ref1]: Peter Sabor, ‘Reading with Austen’.
-[^ref2]: To Francis Austen, 25 September 1813.
-[^ref3]: Peter Sabor, ‘Reading with Austen’.
-[^ref4]: Letter to Cassandra Austen, 23 September 1813.
+[^ref1]: Peter Sabor, ‘Reading with Austen’.   
+[^ref2]: To Francis Austen, 25 September 1813.   
+[^ref3]: Peter Sabor, ‘Reading with Austen’.   
+[^ref4]: Letter to Cassandra Austen, 23 September 1813.   
 
