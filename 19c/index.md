@@ -30,7 +30,7 @@
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
 [Mary Shelley](19c-shelleym-biography)  
 [Margaret Emily Shore](19c-shore-biography)  
-[Netta Syrett](19c-netta-syrett-biography)   
+[Netta Syrett](19c-syrett-biography)   
 [Princess Victoria in Ramsgate](19c-victoria-albion-house)  
 
 
