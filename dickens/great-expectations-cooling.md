@@ -6,11 +6,11 @@
 
 ![Cooling ©The British Library Board ktc28b20f001r.](images/Cooling.JPG){: .right}
 
-In the opening scene of [_Great Expectations_](great-expectations-curated-walk) (published in 1861 but apparently set around the 1820s), a young Pip is famously terrified by a convict in leg irons while visiting the grave of his parents and five siblings. In fact the ‘five little stone lozenges’ recalled by Pip are derived from thirteen gravestones in the thirteenth century St James’s Church, Cooling, and appertain to two separate families. Nonetheless the church’s website notes that the children’s graves referenced in the novel are ‘now inevitably referred to as 'Pip's graves.' St Mary’s, Higham, from which it is possible to see a beacon, a gibbet and a battery, has been suggested as an additional model.[^ref1]
+In the opening scene of [_Great Expectations_](great-expectations-curated-walk) (published in 1861 but apparently set around the 1820s), a young Pip is famously terrified by a convict in leg irons while visiting the grave of his parents and five siblings. In fact the ‘five little stone lozenges’ recalled by Pip are derived from thirteen gravestones in the thirteenth century St James’s Church, Cooling, and appertain to two separate families. Nonetheless the church’s website notes that the children’s graves referenced in the novel are ‘now inevitably referred to as 'Pip's graves.' St Mary’s, Higham, from which it is possible to see a beacon, a gibbet and a battery, has been suggested by Shlicke as an additional model.
 
 Visiting St James’s where the graves are located, it is easy to imagine how vulnerable a child in this position would feel. A few feet away the church porch invites him to seek a legalised sanctuary that is just out of reach, while his parents’ inability to protect him is ironically registered through their physical presence – one of the most uncomfortable moments is the convict’s expression of relief at hearing they are dead, and at one point Pip is literally made to sit on their tombstone. Given the darkness of this imagining, it is extraordinary to think that Dickens brought family and friends to picnic here.
 
-![Cooling Churchyard](images/Cooling churchyard.jpg){: .right}
+![Cooling Churchyard](images/Cooling churchyard.jpg){: .left}
 
 To the child brought up to believe unquestioningly in adult authority, the convict’s threat that his confederate can infiltrate the home itself is intensely real. Even when Pip is duly sent home to find ‘wittles’ and a file, he knows that he can be kept under surveillance for miles as he moves through ‘dykes and mounds and gates’ with only the ‘scattered cattle’ to witness his terror.
 
@@ -30,9 +30,6 @@ Dickens, Charles. _Great Expectations_. Oxford: Oxford World’s Classics, 1993.
 
 [About St James' Church]( http://coolingchurch.org.uk/about/). Accessed 28 November 2018.
 
-Shlicke, Paul, ed. _The Oxford Companion to Charles Dickens: Anniversary edition_. Oxford: Oxford University Press, 2011.
+Shlicke, Paul, ed. _The Oxford Companion to Charles Dickens: Anniversary edition_. Oxford: Oxford University Press, 2011, 319.
 
-### References
-
-[^ref1]>: Shlicke 319.
 
