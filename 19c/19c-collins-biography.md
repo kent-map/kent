@@ -31,5 +31,5 @@ Peters, Catherine. "Collins, (William) Wilkie (1824–1889), writer." _Oxford Di
 
 ### References
 
-[^ref1]: Gasson 117.
+[^ref1]: Gasson 117.   
 [^ref2]: Peters.
