@@ -16,6 +16,7 @@
 [R. D. Blackmore](19c-blackmore-biography)  
 [M.E. Braddon](19c-braddon-biography)   
 [F. C. Burnand](19c-burnand-biography)  
+[Wilkie Collins](19c-collins-biography)   
 [Joseph Conrad](19c-conrad-biography)  
 [Sir John Franklin](19c-franklin-biography)  
 [Sarah Grand](19c-grand-biography)   
