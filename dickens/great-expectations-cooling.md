@@ -22,7 +22,7 @@ Feeling active? You may want to try this [Heron Cycle Trail](https://explorekent
 
 **Article written by:** Ken Moffat and Carolyn Oulton
 
-![Cooling Marshes](images/Cooling-Marshes.jpg){: .right}
+![Cooling Marshes](images/Cooling_Marshes.jpg){: .right}
 
 ## Bibliography.
 
