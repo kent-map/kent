@@ -8,7 +8,7 @@
 
 1839: a Hooden Horse in ([Broadstairs](/dickens/broadstairs-19th-century) so frightened a lady that she collapsed and died. 
 
-![The author with East Kent Morris’s Hooden Horse, named Invicta after the county’s emblem and motto. Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.](images/jacqueline.jpg){: .right .dropshadow}
+![The author with East Kent Morris’s Hooden Horse](images/jacqueline.jpg){: .right}
 
 1859: a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right for ever afterwards”.[^ref1]
 
@@ -62,3 +62,5 @@ https://vimeo.com/408562819/78b21d952c
 ### Notes
 
 [^ref1]: Maylam 53-54.
+
+Image1: The author with East Kent Morris’s Hooden Horse, named Invicta after the county’s emblem and motto. Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.
