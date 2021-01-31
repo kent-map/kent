@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Wilkie Collins" author="Alyson Hunt" layout="vtl" 
-banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Front_Facade_of_Godmersham_Park_-_geograph.org.uk_-_1490002.jpg">
+banner="dickens/images/broadstairs.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate"
 <param ve-entity eid="Q922739" aliases="Broadstairs"
