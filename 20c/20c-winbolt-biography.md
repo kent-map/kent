@@ -1,6 +1,6 @@
 ## S.E. Winbolt (1868-1944) 
 
->”Kent of all the counties of England, is thickest set with historical reminiscences, and he alone, who has tried, will fully realise how hard it is in writing of such a county to compress and select.” Bell’s Pocket Guide to Kent (1930)
+>”Kent of all the counties of England, is thickest set with historical reminiscences, and he alone, who has tried, will fully realise how hard it is in writing of such a county to compress and select.” _Bell’s Pocket Guide to Kent_ (1930)
 
 
 When Samuel Edward Winbolt, a classics and history teacher and writer of school textbooks, was holidaying in Folkestone in August 1923, he was to learn of a little-known site of archaeological interest on the East Cliff. It was here that Winbolt was to spend the next two holidays excavating the remains of a Roman villa.[^ref1]  
