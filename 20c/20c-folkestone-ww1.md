@@ -18,20 +18,11 @@ The sight of able bodied young men, of military age, perambulating along the Lea
 
 ### Bibliography and further reading
 
-Wynn, Stephen. _Folkestone in the Great War_. Barnsley: Pen and Sword 2017.
-
-See also: 
-
-Folkestone Library   
+Wynn, Stephen. _Folkestone in the Great War_. Barnsley: Pen and Sword 2017.  
 
 [Gateways to the First World War](blogs.kent.ac.uk/gateways/folkestone)
 
 [StepShort: Remembering the soldiers of WW1](www.stepshort.co.uk)
-
-Wynn, Stephen. _Folkestone in the Great War_. Barnsley: Pen and Sword 2017.
-
-
-
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjA5MTYyOTU5NV19
