@@ -15,7 +15,7 @@
 Strapline here.
 
 ##
-**[Canterbury](/landscape/scapes-and-)**
+**[Scapes and ](/landscape/scapes-and-)**
 
 - author: Peter Vujakovic
 
@@ -24,7 +24,7 @@ Strapline here.
 Strapline here.
 
 ##
-**[The Chalk: Stig of the Dump](/landscapes/stig)**
+**[Chalk Pits: Stig of the Dump](/landscapes/stig)**
 
 - author: Peter Vujakovic
 
