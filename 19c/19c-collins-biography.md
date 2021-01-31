@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Wilkie Collins" author="Alyson Hunt" layout="vtl" 
-banner="/dickens/images/broadstairs.jpg">
+banner="/dickens/images/Broadstairs.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
