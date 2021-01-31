@@ -5,7 +5,7 @@
 
 When Samuel Edward Winbolt, a classics and history teacher and writer of school textbooks, was holidaying in Folkestone in August 1923, he was to learn of a little-known site of archaeological interest on the East Cliff. It was here that Winbolt was to spend the next two holidays excavating the remains of a Roman villa.[^ref1]  
 
-During a three-week excavation at Easter, followed by five more weeks during the summer, Winbolt and a team of diggers and enthusiasts - including his daughter Rosalind, and Miss Thomas - excavated the site.[^ref2] 
+During a three-week [excavation](https://fmlearnwithobjects.co.uk/questions/romans-0-a-pile-of-old-stones/) at Easter, followed by five more weeks during the summer, Winbolt and a team of diggers and enthusiasts - including his daughter Rosalind, and Miss Thomas - excavated the site.[^ref2] 
 
 The town’s business men, councillors and guest house owners watched the developments with interest, hoping that Roman remains would draw visitors to the town. The walls of a villa, a hypocaust system, a small furnace, a late Celtic bowl and a coin minted in Lyons were quickly discovered.[^ref3]  
 
