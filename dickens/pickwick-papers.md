@@ -32,8 +32,10 @@ Bassett, Troy J., ‘Charles Dickens.’ [_At the Circulating Library_](http://w
 Dickens, Charles. _The Pickwick Papers_. Oxford World’s Classics, 2008.  
 ‘The Posthumous Papers of the Pickwick Club: Chapman and Hall, London.’ _Kentish Gazette_, 7th June 1836, British Newspaper Archive. Accessed 14 August. 2019.
 
-Images with location and copyright status
-•	‘The Monthly Wrapper’ by Robert Seymour: http://www.victorianweb.org/art/illustration/seymour/ppwrapper.html
-•	‘Mr Pickwick in Chase of his Hat’ by Robert Seymour: http://www.victorianweb.org/art/illustration/seymour/6.html
 Images taken from the _Victorian Web_. Permission to reproduce for scholarly or educational purposes.
+
+•	[‘The Monthly Wrapper’](http://www.victorianweb.org/art/illustration/seymour/ppwrapper.html) by Robert Seymour.    
+•	[‘Mr Pickwick in Chase of his Hat’](http://www.victorianweb.org/art/illustration/seymour/6.html) by Robert Seymour. 
+
+
 
