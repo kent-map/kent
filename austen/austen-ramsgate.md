@@ -12,29 +12,29 @@ When I knew Jane Austen I never suspected that she was an authoress.  But my eye
 
 Jane Austen and her siblings may have been particularly keen to visit around this time because their brother Francis was a Royal Navy officer and commanded the North Foreland Sea Fencibles here in 1803-4.  While stationed in [Ramsgate](/dickens/19c-ramsgate), Francis met a local woman, Mary Gibson, whom he married in 1806.   Jane Austen celebrated their nuptials in an unpublished poem written for her niece, Fanny Knight:
 
->See they come, post haste from Thanet,
-   Lovely couple, side by side;
-They've left behind them Richard Kennet
-   With the Parents of the Bride! 
-[Canterbury](/19c/19c-canterbury) they have passed through;
-   Next succeeded Stamford-bridge;
-Chilham village they came fast through;
-   Now they've mounted yonder ridge.
+See they come, post haste from Thanet,   
+   Lovely couple, side by side;   
+They've left behind them Richard Kennet   
+   With the Parents of the Bride!    
+[Canterbury](/19c/19c-canterbury) they have passed through;   
+   Next succeeded Stamford-bridge;   
+Chilham village they came fast through;   
+   Now they've mounted yonder ridge.   
 
-Down the hill they're swift proceeding,
-   Now they skirt the Park around;
-Lo! the Cattle sweetly feeding,
-   Scamper, startled, at the sound! 
+Down the hill they're swift proceeding,   
+   Now they skirt the Park around;   
+Lo! the Cattle sweetly feeding,   
+   Scamper, startled, at the sound!    
 
-Run, my Brothers, to the Pier gate!
-   Throw it open, very wide!
-Let it not be said that we're late
-   In welcoming my Uncle's Bride! 
+Run, my Brothers, to the Pier gate!   
+   Throw it open, very wide!   
+Let it not be said that we're late   
+   In welcoming my Uncle's Bride!    
 
-To the house the chaise advances;
-   Now it stops—They're here, they're here!
-How d'ye do, my Uncle Francis?
-   How does do your Lady dear? 
+To the house the chaise advances;   
+   Now it stops—They're here, they're here!   
+How d'ye do, my Uncle Francis?   
+   How does do your Lady dear?    
    
 In Austen’s published work, [Ramsgate](/dickens/19c-ramsgate)  is associated with less reputable male characters.  In _Pride and Prejudice_, the ostensibly charming militia officer George Wickham connives to seduce and elope with the young, impressionable, and very wealthy Georgiana Darcy at [Ramsgate](/dickens/19c-ramsgate).  In _Mansfield Park_, [Ramsgate](/dickens/19c-ramsgate)  becomes a destination for the selfish and profligate Tom Bertram.  In her private life, Austen also casts dispersions on the port, commenting in a letter to her sister: “Ed. Hussey is warned out of Pett, and talks of fixing at [Ramsgate](/dickens/19c-ramsgate).  Bad taste!  He is very fond of the sea, however. Some taste in that, and some judgment, too, in fixing on [Ramsgate](/dickens/19c-ramsgate), as being by the sea”.   Austen seems to have harboured reservations about the opportunities for loose or immoral behaviour in [seaside towns]( /19c/19c-seaside) such as [Ramsgate](/dickens/19c-ramsgate). 
 
