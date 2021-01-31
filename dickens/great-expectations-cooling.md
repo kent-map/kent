@@ -10,7 +10,7 @@ In the opening scene of [_Great Expectations_](great-expectations-curated-walk) 
 
 Visiting St James’s where the graves are located, it is easy to imagine how vulnerable a child in this position would feel. A few feet away the church porch invites him to seek a legalised sanctuary that is just out of reach, while his parents’ inability to protect him is ironically registered through their physical presence – one of the most uncomfortable moments is the convict’s expression of relief at hearing they are dead, and at one point Pip is literally made to sit on their tombstone. Given the darkness of this imagining, it is extraordinary to think that Dickens brought family and friends to picnic here.
 
-![Cooling Churchyard](images/Cooling churchyard.jpg){: .left}
+![Cooling Churchyard](images/Cooling churchyard.jpg){: .right}
 
 To the child brought up to believe unquestioningly in adult authority, the convict’s threat that his confederate can infiltrate the home itself is intensely real. Even when Pip is duly sent home to find ‘wittles’ and a file, he knows that he can be kept under surveillance for miles as he moves through ‘dykes and mounds and gates’ with only the ‘scattered cattle’ to witness his terror.
 
