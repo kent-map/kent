@@ -62,7 +62,7 @@ Lambert, A. _Franklin; Tragic Hero of Polar Navigation._ London: Faber and Faber
 ### References
 
 [^ref1]: Lambert, 2009, p. 167.   
-[^ref1]: Lambert, 2009, p. 159.   
+[^ref2]: Lambert, 2009, p. 159.   
 [^ref3]: Camra, 2019.   
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwOTEyMDgxMjRdfQ==
