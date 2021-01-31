@@ -24,8 +24,6 @@ Feeling active? You may want to try this [Heron Cycle Trail](https://explorekent
 
 ## Bibliography.
 
-![Cooling Marshes](images/Cooling_Marshes.jpg){: .right}
-
 Dickens, Charles. _Great Expectations_. Oxford: Oxford World’s Classics, 1993.
 
 [About St James' Church]( http://coolingchurch.org.uk/about/). Accessed 28 November 2018.
