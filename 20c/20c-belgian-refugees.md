@@ -17,7 +17,4 @@ In July 1915 [Folkestone](/20c/20c-folkestone-ww1)  declared a ‘Belgian Day’
 
 Belgian refugee Fredo Franzoni’s painting ‘Landing of the Belgian Refugees’ was presented to the town as a token of thanks in 1916.
 
-
 Adapted from an exhibition in [Folkestone Museum](https://folkestonemuseum.co.uk/) curated by Maddie Pettit in 2018.
-
-This exhibition in Folkestone Museum was curated by a local sixth form student.
