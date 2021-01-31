@@ -2,7 +2,7 @@
 
 ## Cooling 
 
-![Cooling ©The British Library Board ktc28b20f001r.](images/Cooling churchyard.jpg){: .right}
+![Cooling Churchyard](images/Cooling churchyard.jpg){: .right}
 
 >‘Ours was the marsh country, down by the river, within, as the river wound, twenty miles of the sea. My first most vivid and broad impression of the identity of things, seems to me to have been gained on a memorable raw afternoon towards evening. At such a time I found out for certain, that this bleak place overgrown with nettles was the churchyard; and that Philip Pirrip, late of this parish, and also Georgiana wife of the above, were dead and buried; and that Alexander, Bartholomew, Abraham, Tobias, and Roger, infant children of the aforesaid, were also dead and buried; and that the dark flat wilderness beyond the churchyard, intersected with dykes and mounds and gates, with scattered cattle feeding on it, was the marshes; and that the low leaden line beyond, was the river; and that the distant savage lair from which the wind was rushing, was the sea; and that the small bundle of shivers growing afraid of it all and beginning to cry, was Pip.’ _Great Expectations_.
 
@@ -22,7 +22,7 @@ Feeling active? You may want to try this [Heron Cycle Trail](https://explorekent
 
 **Article written by:** Ken Moffat and Carolyn Oulton
 
-![Cooling ©The British Library Board ktc28b20f002r .](images/Cooling-Marshes.jpg){: .right}
+![Cooling Marshes](images/Cooling-Marshes.jpg){: .right}
 
 ## Bibliography.
 
