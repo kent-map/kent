@@ -11,7 +11,7 @@ The town’s business men, councillors and guest house owners watched the develo
 
 On Monday 25th August 1924, nearly a thousand people visited the site, each paying three pence to view the excavations.  Was Folkestone about to experience Romanomania?
 
-Frank Fletcher, President of the Rotary Club, enthusiastically described Winbolt as having “done Folkestone a signal service in bringing the town before the reading public.”  Reports about the excavations had been widely reported in the British press  - The Graphic gave a whole page to the story, including illustrations - and the townsfolk must have been eager for an influx of visitors.  The first world war had impacted on the popularity of the town - the smart set who had filled the hotels had moved on and it now attracted a more middle class holiday-maker. Kentish seaside towns had to work hard to attract visitors.
+Frank Fletcher, President of the Rotary Club, enthusiastically described Winbolt as having “done Folkestone a signal service in bringing the town before the reading public.”  Reports about the excavations had been widely reported in the British press  - _The Graphic_ gave a whole page to the story, including illustrations - and the townsfolk must have been eager for an influx of visitors.  The first world war had impacted on the popularity of the town - the smart set who had filled the hotels had moved on and it now attracted a more middle class holiday-maker. Kentish seaside towns had to work hard to attract visitors.
 
 Winbolt claimed that the press were “most diligent - almost too diligent and they had given him no rest” to such an extent that it was interfering with his work.  In reality, he was more receptive to the press than he dissembled, and was keen to keep ‘Felix’ of the Folkestone Herald well supplied with stories and superlatives about the site.  Similarly the London newspapers were sent material by Winbolt himself. News articles stressed both the need to preserve but also advertise the site, recognising what a boon such a discovery could be to the town. 
 
@@ -21,14 +21,34 @@ Winbolt was also keen to curry favour from local archaeologists and spoke of his
 
 Winbolt was to combine his love of archaeology with his love for writing and in 1925 published a book on Roman Folkestone. He was keen that it should break ‘fresh ground’ and appeal to a wider audience than simply historians and archaeologists, he therefore included a chapter entitled “Some humours of excavating” in which he recounted stories from his conversations with diggers, helpers and souvenir-hunters.  A reviewer described it as full of “debatable matter.” 
 
-The villa site continued to receive visitors over the next few years, enriching the “romance of Kent” but with an increased entrance price of 6d . However, when some of the remains slipped down the cliff in the landslide of 1928, W.H.E  who was concerned that this significant site might be  lost, complained in the Folkestone, Hythe, Sandgate & Cheriton Herald that Winbolt had put too much effort into describing what life was like in Roman Folkestone rather than recording the buildings, leaving it “to the reader’s imagination as to what the buildings were like.”  Winbolt’s ‘fresh’ approach had clearly not appealed to the more serious reader and it is quite possible that, more used to his school boy audience, Winbolt had missed the mark.
+The villa site continued to receive visitors over the next few years, enriching the “romance of Kent” but with an increased entrance price of 6d . However, when some of the remains slipped down the cliff in the landslide of 1928, W.H.E  who was concerned that this significant site might be  lost, complained in the _Folkestone, Hythe, Sandgate & Cheriton Herald_ that Winbolt had put too much effort into describing what life was like in Roman Folkestone rather than recording the buildings, leaving it “to the reader’s imagination as to what the buildings were like.”  Winbolt’s ‘fresh’ approach had clearly not appealed to the more serious reader and it is quite possible that, more used to his school boy audience, Winbolt had missed the mark.
 
-Winbolt’s association with the county continued throughout the next decade. He wrote Bell’s Pocket Guide to Kent (1930), which “the tourist will find … an invaluable ally in his enjoyment of this beautiful county”and the [Penguin Guide to Kent, Surrey and Sussex in 1939](https://www.bbc.co.uk/news/stories-42425157).  He also presented a volume containing photographs and press cuttings about the dig to Folkestone Library in May 1934.  In his obituary in _The Times_, he was described as follows:
-“His eye for scenery made him also the author of small but acceptable guides to the Thames and the Cotswold country and to Kent, and he contributed numerous articles to this journal.”  - 64 to be precise! 
+Winbolt’s association with the county continued throughout the next decade. He wrote _Bell’s Pocket Guide to Kent_ (1930), which “the tourist will find … an invaluable ally in his enjoyment of this beautiful county”and the [_Penguin Guide to Kent, Surrey and Sussex_](https://www.bbc.co.uk/news/stories-42425157) in 1939.  He also presented a volume containing photographs and press cuttings about the dig to Folkestone Library in May 1934.  In his obituary in _The Times_, he was described as follows:
+
+>“His eye for scenery made him also the author of small but acceptable guides to the Thames and the Cotswold country and to Kent, and he contributed numerous articles to this journal.”  - 64 to be precise! 
 
 During his lifetime, S.E. Winbolt wrote and edited over 70 publications. His visit to Folkestone is only a small part of his archaeological and educational legacy, but an important one.
 
+### References
 
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 05 April 1924.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 02 August 1924.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 02 August 1924.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 30 August 1924.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 06 September 1924.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 20 September 1924.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 06 September 1924.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 06 September 1924.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 06 September 1924.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 06 September 1924.   
+[^ref1]: _The Times_ - Saturday 22 August 1925.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 15 August 1925.   
+[^ref1]: "Roman Folkestone", 1925, _Saturday review of politics, literature, science and art_, vol. 140, no. 3649, pp. 376.   
+[^ref1]: Ward Lock and Co (1928) _Folkestone, Sandgate, Hythe, Canterbury, Dymchurch_, p.34.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 20 October 1928.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 19 July 1930.   
+[^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 05 May 1934.   
+[^ref1]: _The Times_ - Monday 21 February 1944.
 
 
 
