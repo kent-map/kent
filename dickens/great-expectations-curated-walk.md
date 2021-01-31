@@ -84,3 +84,4 @@ Pip himself seems about to come full circle in returning to the marshes with Mag
 [^ref1]: http://www.literaturepage.com/read/greatexpectations-250.html
 [^ref2]: http://www.literaturepage.com/read/greatexpectations-273.html
 [^ref3]: http://www.literaturepage.com/read/greatexpectations-490.html
+Magwitch is tried under the [Bloody Code](/18c/18c-bloody-code)
