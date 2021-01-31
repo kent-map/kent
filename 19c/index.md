@@ -31,7 +31,8 @@
 [Mary Shelley](19c-shelleym-biography)  
 [Margaret Emily Shore](19c-shore-biography)  
 [Netta Syrett](19c-syrett-biography)   
-[Princess Victoria in Ramsgate](19c-victoria-albion-house)  
+[Princess Victoria in Ramsgate](19c-victoria-albion-house)   
+[Sir Hugh Walpole](19c-walpole-biography)
 
 
 ### Places
