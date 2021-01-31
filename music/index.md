@@ -9,6 +9,21 @@
 
 ### People
 
-[William Harrison Ainsworth](19c-ainsworth-biography)  
-[Hans Christian Andersen](19c-christian-andersen)   
-[Jane Austen](19c-austen-biography)  
+[Charles Dobson](19c-charles-dobson-biography)  
+[Thomas Goodban](19c-thomas-goodban-biography)   
+[William Longhust](19c-william-longhurst-biography)  
+[John Marsh](19c-john-marsh-biography)   
+[James Shoubridge](19c-james-shoubridge)   
+
+### Place
+
+[Canterbury](19c-music-canterbury)
+
+### Event
+
+[Catch Club](19c-catch-club)
+
+### Genre
+
+[Catch](19c-catch-music)
+[Cathedral Singing](19c-cathedral-singing)
