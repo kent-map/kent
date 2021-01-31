@@ -1,11 +1,11 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Wilkie Collins" author="Alyson Hunt" layout="vtl" 
-banner="dickens/images/broadstairs.jpg">
+banner="/dickens/images/broadstairs.jpg">
 
-<param ve-entity eid="Q736439" aliases="Ramsgate"
-<param ve-entity eid="Q922739" aliases="Broadstairs"
-<param ve-entity eid="Q26163" aliases="Sandwich"
-<param ve-entity eid="Q15680058" aliases="North Foreland"
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q922739" aliases="Broadstairs">
+<param ve-entity eid="Q26163" aliases="Sandwich">
+<param ve-entity eid="Q15680058" aliases="North Foreland">
 
 ### Wilkie [Willliam] Collins (1824-1889)
 **Places:** Broadstairs, Ramsgate, North Foreland, Sandwich
