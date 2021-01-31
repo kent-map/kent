@@ -6,9 +6,9 @@
 
 **Key dates:** 
 
-1839: a Hooden Horse in ([Broadstairs](/dickens/broadstairs-19th-century) so frightened a lady that she collapsed and died. 
-
 ![The author with East Kent Morris’s Hooden Horse](images/jacqueline.jpg){: .right}
+
+1839: a Hooden Horse in ([Broadstairs](/dickens/broadstairs-19th-century) so frightened a lady that she collapsed and died. 
 
 1859: a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right for ever afterwards”.[^ref1]
 
@@ -20,14 +20,11 @@ Hop Hoodening Festival, to bless the hop harvest; second Saturday of September e
 
 May 1807. _European Magazine_: 51 (May 1807) 558.
 
-
 "… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/dickens/19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …" 
 
 16 November 1907. _Keble’s [Margate](/dickens/19c-margate) and [Ramsgate](/dickens/19c-ramsgate) Gazette_.
 
 ![This Photo by Unknown Author is licensed under CC BY-SA. Hoodeners are still active in these villages today](images/hoodeners.jpg){: .right .dropshadow}
-
-https://www.facebook.com/hoodeners
 
 "… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …"
 
@@ -36,7 +33,7 @@ https://www.facebook.com/hoodeners
 Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, “the tradition appears to lie solely in the eastern part of the county” (Maylam, et al., 2009, p. 10)
 The above quotes from publications of 1807 and 1907 show that Hoodening was well-known in East Kent during the nineteenth century. Today it continues in towns and villages such as St Nicholas-at-Wade, Sarre, Wickhambreaux and Deal. Hop Hoodening in Canterbury Cathedral each September also upholds the tradition, and Hooden Horses feature prominently at the annual [Broadstairs](/dickens/broadstairs-19th-century) Folk Week and other local folk festivals. Many of Kent’s Morris sides now have a Hooden Horse, with that created in 1959 for East Kent Morris purported to be the first designed in an upright position, enabling him to join in the dancing.
 
-![©Carolyn Oulton](images/Hoodenhorse.jpg){: .right .dropshadow}
+![Hooden Horse ©Carolyn Oulton](images/Hoodenhorse.jpg){: .right .dropshadow}
 
 Victorian Hoodeners – usually stable hands or farmworkers needing money to see them through the winter – called at houses in their village around Christmas time. One, stooping and draped in a cloak, carried the skull of a dead horse on a pole. Another led this ‘horse’, while a third tried comically to mount him as he dodged and swayed; once the rider was astride, it was the sport of onlookers to try and knock him off again. In the 1840s, skulls were replaced with wooden heads after a resident of [Broadstairs](/dickens/broadstairs-19th-century) was literally frightened to death by a Hooden Horse at her door.
 
@@ -63,4 +60,4 @@ https://vimeo.com/408562819/78b21d952c
 
 [^ref1]: Maylam 53-54.
 
-Image1: The author with East Kent Morris’s Hooden Horse, named Invicta after the county’s emblem and motto. Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.
+Image 1: The author with East Kent Morris’s Hooden Horse, named Invicta after the county’s emblem and motto. Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.
