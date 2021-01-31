@@ -11,13 +11,13 @@ Alfred Jingle describing Rochester Bridge, and Rochester Cathedral.
 
 Charles Dickens’s first serial novel, _The Pickwick Papers_ is preoccupied with Kentish geographies almost as much as it is with scenes of London life. From Mr Wardle’s idyllic ‘Manor Farm’ in Dingley Dell to hastily scribbled notes on Stroud, Rochester, [Chatham](/dickens/dickens-chatham), and Brompton recovered from Mr Pickwick’s notebook, Kentish scenes have a place at the very heart of the serial.
 
-![‘The Monthly Wrapper’ by Robert Seymour](images/ppwrapper.jpg){: .left .dropshadow}  
+![‘The Monthly Wrapper’ by Robert Seymour](images/ppwrapper.jpg){: .right .dropshadow}  
 
 Whilst [Dickens’s](dickens-biography) attachment to [Gad’s Hill Place](/dickens/dickens-gads-hill) would result in many unequivocally fond representations of Kent in his later career, in _Pickwick_ his engagement with Kentish geographies, inhabitants and stereotypes is more variable. Both Dickens and his characters alternate between a genuine if snobbish admiration of Kent’s picturesque history and a savage satire of its inhabitants.
 
 The first mention of Kent appears in Chapter 2, as the Pickwickians approach Rochester Bridge. Alfred Jingle, the narrative’s profligate wanderer, delivers a potted history of the bridge and other nearby landmarks (quoted above) in fragmented adjective phrases which rain upon the reader like cannon fire. Jingle’s description conjures an image of Kentish architecture as a palimpsest, with its feudal echoes continuing to shape and resonate in the nineteenth-century landscape. This depiction is later supplemented with flatteringly vivid description of Rochester Castle, and the cornfields, pastures and windmills situated on the banks of the Medway, with its ‘picturesque boats’.  Tracey Tupman will briefly take refuge in [The Leather Bottle](/dickens/pickwick-papers-leather-bottle) in Cobham after being jilted by Rachel Wardle.
 
-![Pickwick Papers/ Scanned image and text by Philip V. Allingham](images/pickwick-papers-victorian-web.jpg){: .left .dropshadow}  
+![Pickwick Papers/ Scanned image and text by Philip V. Allingham](images/pickwick-papers-victorian-web.jpg){: .right .dropshadow}  
 
 Interspersing these scenic impressions are some more practical musings. With an emotional disengagement that contrasts sharply with his revelling in Kentish scenery, Mr Pickwick describes to his companions the ‘principle productions’, of the Kentish towns they visit, which ‘appear to be soldiers, sailors, Jews, chalk, shrimps, officers, and dockyard men’ . Through the superior eye of the metropolitan gentleman, Kent and its inhabitants are reduced to a list of commodities.
 
@@ -32,9 +32,10 @@ Bassett, Troy J., ‘Charles Dickens.’ [_At the Circulating Library_](http://w
 Dickens, Charles. _The Pickwick Papers_. Oxford World’s Classics, 2008.  
 ‘The Posthumous Papers of the Pickwick Club: Chapman and Hall, London.’ _Kentish Gazette_, 7th June 1836, British Newspaper Archive. Accessed 14 August. 2019.
 
-Images with location and copyright status
-•	‘The Monthly Wrapper’ by Robert Seymour: http://www.victorianweb.org/art/illustration/seymour/ppwrapper.html
-•	‘Mr Pickwick in Chase of his Hat’ by Robert Seymour: http://www.victorianweb.org/art/illustration/seymour/6.html
-Image taken from the _Victorian Web_. Permission to reproduce under the following conditions:
-“You may use this image without prior permission for any scholarly or educational purpose as long as you (1) credit the person who scanned the image and (2) link your document to this URL in a web document or cite the Victorian Web in a print one”. (Victorian Web)
+Images taken from the _Victorian Web_. Permission to reproduce for scholarly or educational purposes.
+
+•	[‘The Monthly Wrapper’](http://www.victorianweb.org/art/illustration/seymour/ppwrapper.html) by Robert Seymour. Scanned image and text by Philip V. Allingham.      
+•	[‘Mr Pickwick in Chase of his Hat’](http://www.victorianweb.org/art/illustration/seymour/6.html) by Robert Seymour. Scanned image and text by Philip V. Allingham.   
+
+
 
