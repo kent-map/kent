@@ -46,7 +46,7 @@ Austen stayed with her brother Edward Austen Knight at Godmersham Park six times
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/View of Ramsgate Town and Harbour.jpg)
 
 Austen visited Ramsgate in 1803 while staying at Godmersham Park with her brother Edward Austen Knight, and while another brother, Francis, was stationed there as a Royal Navy officer. In her published work, Ramsgate is associated with morally dubious characters such as George Wickham in Pride and Prejudice and Tom Bertram in Mansfield Park.
 
