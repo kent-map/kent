@@ -6,6 +6,8 @@ Publication(s) Pride and Prejudice, Mansfield Park
 
 >‘My sister, who is more than ten years my junior, was left to the guardianship of my mother's nephew, Colonel Fitzwilliam, and myself. About a year ago, she was taken from school, and an establishment formed for her in London; and last summer she went with the lady who presided over it, to Ramsgate; and thither also went Mr. Wickham, undoubtedly by design; […] he so far recommended himself to Georgiana, whose affectionate heart retained a strong impression of his kindness to her as a child, that she was persuaded to believe herself in love, and to consent to an elopement.’_Pride and Prejudice_ (1813)
 
+![View of Ramsgate Town and Harbour. © The British Library Board .003KTOP00000017U007B0000 / Maps K.Top.17.7.b Images Online.](/images/View of Ramsgate Town and Harbour.jpg){: .right}
+
 During the Regency period, [Ramsgate](/dickens/19c-ramsgate) blossomed from a small watering hole into an important garrison town and social destination.  Edward Austen Knight is known to have gone there with his family, and on one such occasion at least, Jane Austen accompanied him.  She may have visited at other times as well.  A family acquaintance, Sir Egerton Brydges, recalls seeing Austen there at this time:  
 
 When I knew Jane Austen I never suspected that she was an authoress.  But my eyes told me that she was fair and handsome, slight and elegant, with cheeks a little too full.  The last time, I think, I saw her was at [Ramsgate](/dickens/19c-ramsgate) in 1803.    
@@ -44,11 +46,4 @@ In Austen’s published work, [Ramsgate](/dickens/19c-ramsgate)  is associated w
 
 Selwyn, David, ed. _The Poetry of Jane Austen and the Austen Family_. Iowa City: University of Iowa Press, 1997.
 
-
-Note to MC:
-
 Image: View of Ramsgate Town and Harbour. © The British Library Board .003KTOP00000017U007B0000 / Maps K.Top.17.7.b Images Online
-We have iii manifest for this. It’s in Ron’s google spreadsheet ‘Kent Images’, kent-23.    This means we can annotate it? 
-
-
-![View of Ramsgate Town and Harbour. © The British Library Board .003KTOP00000017U007B0000 / Maps K.Top.17.7.b Images Online.](/images/View of Ramsgate Town and Harbour.jpg){: .right}
