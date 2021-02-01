@@ -84,7 +84,7 @@ Regeneration and the rise of the DFL.
 ##
 [**Jane Austen**](/19c/19c-austen-biography)
 
-![](https://kent-map.github.io/kent/images/thumbnails/Jane_Austen,_from_A_Memoir_of_Jane_Austen_(1870).jpg)
+![](https://kent-map.github.io/kent/images/thumbnails/JaneAustenCassandraWatercolour1.jpg)
 
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. During these extended visits, Austen travelled to many other destinations in Kent for social calls or leisure outings.
 
