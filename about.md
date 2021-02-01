@@ -63,6 +63,14 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 
 Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive, one of the first hybrid (part-paper, part-digital) literary archives acquired by the Library. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). She grew up in Kent, and in the summer enjoys swimming in the sea along the east Kent coast.  
 
+##
+**Alexa Barrett**
+
+- twitter: @Alexawriting
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Headshot Image .jpg)
+
+Alexa Barrett is an undergraduate English Literature and Creative and Professional Writing student at Canterbury Christ Church University. She has lived in Kent her whole life, getting involved in learning about Canterbury's history and reading Victorian novels in her spare time. She is currently focusing on her own creative writing projects with many set in the Victorian Era. 
 
 ##
 **Simone Blandford**
