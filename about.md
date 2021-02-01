@@ -63,6 +63,14 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 
 Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive, one of the first hybrid (part-paper, part-digital) literary archives acquired by the Library. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). She grew up in Kent, and in the summer enjoys swimming in the sea along the east Kent coast.  
 
+##
+**Alexa Barrett**
+
+- twitter: @Alexawriting
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Headshot Image .jpg)
+
+Alexa Barrett is an undergraduate English Literature and Creative and Professional Writing student at Canterbury Christ Church University. She has lived in Kent her whole life, getting involved in learning about Canterbury's history and reading Victorian novels in her spare time. She is currently focusing on her own creative writing projects with many set in the Victorian Era. 
 
 ##
 **Simone Blandford**
@@ -96,6 +104,8 @@ Carla Danella has a BA from Wellesley College (in the US) and recently completed
 
 ##
 **Diana Hirst**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/dianahirst.jpg)
 
 Arriving in East Kent two days before her second birthday, Diana Hirst has been rooted in its landscape ever since. While in exile, first on London clay and subsequently on Suffolk clay, she has regularly returned to Deal. As a poet, much of her early work was about Kent, particularly its chalklands, and she was 2008 Deal and Dover Poet of the Year. Now at Canterbury Christ Church, she is writing a PhD on Elizabeth Bowen, a writer she’s been interested in since she first read Eva Trout in 1969 and discovered the heroine trampling over landscapes she had fondly imagined belonged to her alone. But this began to make sense when she discovered that Bowen, too, had put down roots in East Kent ...
 
@@ -240,3 +250,12 @@ Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/charlieworthington.jpg)
 
 Charlotte Worthington is currently a third-year history and French undergraduate, with the intention to go into translation. She was born in the UK but lived in the Lot in the south of France from the age of 11. A keen interest in literature has led her to do her work experience for one of the third-year French modules with the Kent Digital Map project.
+
+# Design Team
+
+##
+**Heather Murdoch**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/heathermurdoch.jpg)
+
+Heather designed a favicon for the site.

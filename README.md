@@ -82,11 +82,11 @@ Regeneration and the rise of the DFL.
 # Featured Authors
 
 ##
-[**Charles Dickens**](/dickens)
+[**Jane Austen**](/19c/19c-austen-biography)
 
-![](https://kent-map.github.io/kent/images/thumbnails/dickens-head.jpg)
+![](https://kent-map.github.io/kent/images/thumbnails/Jane_Austen,_from_A_Memoir_of_Jane_Austen_(1870).jpg)
 
-One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
+Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. During these extended visits, Austen travelled to many other destinations in Kent for social calls or leisure outings.
 
 ##
 [**Geoffrey Chaucer**](/14c/14c-chaucer)
@@ -94,3 +94,10 @@ One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816
 ![](https://kent-map.github.io/kent/images/thumbnails/chaucersmall.JPG)
 
 Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
+
+##
+[**Charles Dickens**](/dickens)
+
+![](https://kent-map.github.io/kent/images/thumbnails/dickens-head.jpg)
+
+One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
