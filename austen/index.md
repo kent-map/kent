@@ -19,7 +19,7 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/CanterburyRoper1806 DETAIL.JPG)
 
 During visits to her brother Edward Austen Knight between 1794 and 1813, Austen frequently took day trips to Canterbury. In addition to making social calls, Austen enjoyed the other attractions Canterbury had to offer, including visits to the Cathedral, shopping, concerts, and balls.
 
