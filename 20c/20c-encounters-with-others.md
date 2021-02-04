@@ -32,8 +32,8 @@ For fictional accounts of hop picking see [Hop Picking and the Literary Imaginat
 
 ### Bibliography 
 
-Bateman, Ron (2012) Orwell and other writers’ treatment of hop-picking, The Orwell Society, https://orwellsociety.com/orwell-and-other-writers-on-hop-picking-by-ron-bateman/  
+Bateman, Ron (2012) _Orwell and other writers’ treatment of hop-picking,_ The Orwell Society, https://orwellsociety.com/orwell-and-other-writers-on-hop-picking-by-ron-bateman/  
 
-Church, Richard (1964) The Little Kingdom: A Kentish Collection (London: Hutchinson)   
+Church, Richard (1964) _The Little Kingdom: A Kentish Collection_ (London: Hutchinson)   
 
-Jeffreries, Richard (1885) The Open Air (London: Chatto & Windus); passage reprinted in Church (1964)   
+Jeffreries, Richard (1885) _The Open Air_ (London: Chatto & Windus); passage reprinted in Church (1964)   
