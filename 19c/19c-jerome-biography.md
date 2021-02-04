@@ -18,9 +18,9 @@
 
 ![By National Media Museum from UK - Jerome K. Jerome. Uploaded by mrjohncummings, No restrictions](images/Jerome_K._Jerome.jpg){: .right}
 
-Recalling their holiday in [Folkestone](19c-folkestone) in the summer of 1890, the writer [Robert Barr](19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around’
+Recalling their holiday in [Folkestone](19c-folkestone) in the summer of 1890, the writer [Robert Barr](/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around’
 
-_Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited for a bicycling holiday in the Black Forest, the price they pay being their wives’ demand for various home improvements and a female-only holiday in [Folkestone](19c-folkestone).
+_Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited for a bicycling holiday in the Black Forest, the price they pay being their wives’ demand for various home improvements and a female-only holiday in [Folkestone](/19c/19c-folkestone).
 
 In one of the best comic set pieces Jerome briefly references the ultra-respectable Leas, as the place where his alter ego J meets the man who will go on to destroy his bicycle by ‘overhauling’ it.
 	
