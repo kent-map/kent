@@ -1,3 +1,7 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Hop and fruit picking in the 20th century" author="Peter Vujakovic" layout="vtl" 
+banner="xxx">
+
 ### Hop and fruit picking in the 20th century
 
 Encounters with ‘other’ – ‘crime’s dark crew’
