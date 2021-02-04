@@ -14,7 +14,7 @@ Itinerant hop and fruit pickers are certainly seen as transient but archetypal c
 
 Similarly, Blunden, in his exoticised description of [hop pickers]( ](/20c-hop-picking)) in the poem quoted at the start, uses an incursion metaphor - of ‘tattered armies gathered to the spoil … fierce of eye and tongue’ 
 
-Maxwell is greeted with cheery good-nature and soon discovers an old acquaintance, a night-watchman from his time producing artwork for the Graphic. Maxwell’s reflects how many Londoners and locals remember ‘hopping’ as a positive community experience with elements of carnival. Maxwell notes:
+Maxwell is greeted with cheery good-nature and soon discovers an old acquaintance, a night-watchman from his time producing artwork for the _Graphic_. Maxwell’s reflects how many Londoners and locals remember ‘hopping’ as a positive community experience with elements of carnival. Maxwell notes:
 The scenes in these ‘vineyards of the north’ - although there is an element of squalor – are often ‘picturesque’, and the scenes at the time of picking comparable with the scenes in the wine countries of Southern Europe’.  
 
 Maxwell also describes the changes then taking place as farmers turned to local day-labour due to the cost of ‘raised standard of camping accommodation for the hoppers’ required by law . This sounds benign but bears comparison with George Orwell’s experience just a few years later (see below).
