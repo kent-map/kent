@@ -2,8 +2,7 @@
 
 Encounters with ‘other’ – ‘crime’s dark crew’
 
-The curious colours of the folk afield / The raven hair, the flamy silk, the blue / Washed purple with all weathers; crime’s dark crew; / Babes at the breast; old sailors chewing quids; / And hyacinth eyes beneath soon-dropt eyelids.
-A description of hop pickers in Edmund Blunden’s poem Old Homes (1922) reprinted in Church (1964; p.158)
+>The curious colours of the folk afield / The raven hair, the flamy silk, the blue / Washed purple with all weathers; crime’s dark crew; / Babes at the breast; old sailors chewing quids; / And hyacinth eyes beneath soon-dropt eyelids - A description of hop pickers in Edmund Blunden’s poem _Old Homes_ (1922) reprinted in Church (1964; p.158)
 
 The term ‘othering’ describes the classification of another person or group as belonging to a culturally or socially inferior category. The ‘other’ is different, the opposite of ‘self’, or ‘us’. Othering distances the ‘self’ from what it believes it is not – the crude, barbarous, uncivilised. This may include denigration, or romanticising of subaltern groups, for example rural labourers, the urban poor, itinerant workers. While othering may displace people to the margins of society, they may still be regarded as quintessential elements of place or shared landscapes.
 
@@ -12,6 +11,7 @@ Itinerant hop and fruit pickers are certainly seen as transient but archetypal c
 [Donald Maxwell](/20c-maxwelld-biography), in _The Enchanted Road_ (1927) sentimentalises his encounters in the hop gardens, despite characterising the pickers as ‘out of place’, as intruders into his idyll:
 
 >‘Being the first week in September, the land was full of nomadic Londoners, and the smoke from countless fires bore witness to the annual invasion.’  
+
 Similarly, Blunden, in his exoticised description of [hop pickers]( ](/20c-hop-picking)) in the poem quoted at the start, uses an incursion metaphor - of ‘tattered armies gathered to the spoil … fierce of eye and tongue’ 
 
 Maxwell is greeted with cheery good-nature and soon discovers an old acquaintance, a night-watchman from his time producing artwork for the Graphic. Maxwell’s reflects how many Londoners and locals remember ‘hopping’ as a positive community experience with elements of carnival. Maxwell notes:
