@@ -60,7 +60,7 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 
 - author: Clare Nursey
 
-![](https://kent-map.github.io/kent/20c/images/sissinghurstpostcard.jpg)
+![](https://kent-map.github.io/kent/20c/images/sissinghurst2.jpg)
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
