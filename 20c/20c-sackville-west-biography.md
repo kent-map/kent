@@ -12,8 +12,9 @@ And reddens in the water of the moat;
 As red within the water burns the scythe    
 And the moon dwindled to her gibbous tithe   
 Follows the sunken sun afloat. - ‘Sissinghurst’, 1930.   
-<param ve-image url="https://raw.githubusercontent.com/kent-map/kent/develop/images/Sissinghurst%20Nursey.JPG" label="Sissinghurst Gardens, 2020" attribution="Clare Nursey">
 <param ve-map center="Q1971996" zoom="10">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/05/Sissinghurst_castle.JPG" label="Sissinghurst Gardens" attribution="Klaus D. Peter, Wiehl, Germany, CC BY 2.0 DE <https://creativecommons.org/licenses/by/2.0/de/deed.en>, via Wikimedia Commons">
+
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character. She was though a prolific and versatile writer herself - a celebrated poet (a candidate for the post of Poet Laureate in 1948) and author of fourteen novels, with those published in the 1930s proving both critically and commercially successful. Her poetry was unapologetically traditional in form, and her fiction too was largely traditional but with a distinctly poetic style.
 <param ve-image url="https://raw.githubusercontent.com/kent-map/kent/develop/images/sissinghurstbookcover.jpg" label="image label" attribution="???">
@@ -36,6 +37,7 @@ Sackville-West died at Sissinghurst in 1962 and her ashes are interred in the fa
 Both Sissinghurst and Knole are now owned by the [National Trust.](https://www.nationaltrust.org.uk/) 
 [Long Barn](https://en.wikipedia.org/wiki/Long_Barn) is privately owned but occasionally opened to the public for charity. 
 [Groombridge Place](www.groombridgeplace.com) is open to the public as a commercial attraction. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/05/Sissinghurst_castle.JPG" label="Sissinghurst Gardens" attribution="Klaus D. Peter, Wiehl, Germany, CC BY 2.0 DE <https://creativecommons.org/licenses/by/2.0/de/deed.en>, via Wikimedia Commons">
 
 ### Bibliography:
 Nicolson, Nigel, ed. Vita and Harold. _The Letters of Vita Sackville-West and Harold Nicolson._ USA: G. P. Putnam’s Sons, 1992. Print.   
@@ -43,4 +45,5 @@ Sackville-West, Vita. _Family History._ St Ives: Vintage, 1996. Print.
 Sackville-West, Vita. _The Edwardians_. St Ives: Vintage, 2016. Print.  
 Sackville-West, Vita. _The Garden._ Woking: Michael Joseph Ltd, (First pub 1946). Print.  
 Sackville-West, Vita. _The Land._ England: Frances Lincoln Ltd, 2004. Print.  
+<param ve-image url="https://raw.githubusercontent.com/kent-map/kent/develop/images/sissinghurstcover.jpg" label="Cover of Sissinghurst by Vita Sackville-West">
 
