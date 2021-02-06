@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Alfred Cohen" author="Professor Max Saunders" layout="vtl" 
+<param ve-config title="Alfred Cohen 1920-2001" author="Professor Max Saunders" layout="vtl" 
 banner="/20c/images/sissinghurstpostcode.jpg">
 <param ve-entity eid="Q2019734" aliases="Goudhurst">
 <param ve-entity eid="Q4874056" aliases="Horsmonden">
@@ -7,9 +7,6 @@ banner="/20c/images/sissinghurstpostcode.jpg">
 <param ve-entity eid="Q663588" aliases="Biddenden">
 <param ve-entity eid="Q69992873" aliases="Iden Green">
 <param ve-entity eid="Q2686542" aliases="Benenden">
-
-
-### 1920-2001
 
 **Places:** Goudhurst 1963-70, Near Benenden 1970-74, Iden Green 1974-78
 
