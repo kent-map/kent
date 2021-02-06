@@ -27,14 +27,6 @@ You’ll need a map because there are no signposts...
 
 The landscape Pip describes seems to alter as he moves across it.
 
-##
-[**Alfred Cohen**](/20c/20c-cohen-biography)
-
-- author: Professor Max Saunders
-
-![](https://kent-map.github.io/kent/20c/images/redlandscape.jpg)
-
-It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
 ##
 [**David Copperfield - A curated walk**](/dickens/david-copperfield-curated-walk)
@@ -44,6 +36,15 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Broadstairs.jpg)
 
 David Copperfield, like Pip in _Great Expectations_, shares the difficult story of what it means to become involuntarily fascinated, even obsessed: with grotesque figures, with landscapes, with the secrets of one’s own past.
+
+##
+[**Alfred Cohen**](/20c/20c-cohen-biography)
+
+- author: Professor Max Saunders
+
+![](https://kent-map.github.io/kent/20c/images/redlandscape.jpg)
+
+It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
 # Essays by period
 
