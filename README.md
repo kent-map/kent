@@ -5,7 +5,7 @@
        
 # Welcome
 
-The site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
+This site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
 
 # Featured essays
 
@@ -45,6 +45,16 @@ David Copperfield, like Pip in _Great Expectations_, shares the difficult story 
 ![](https://kent-map.github.io/kent/20c/images/redlandscape.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
+
+##
+[**Derek Jarman**](/20c/20c-jarman-biography)
+
+- author: Jeremy Page
+
+![](https://kent-map.github.io/kent/20c/images/Jarman1.jpg)
+
+It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
+
 
 # Essays by period
 
