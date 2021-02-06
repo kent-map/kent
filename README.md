@@ -55,6 +55,14 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
 
+##
+[**Vita Sackville-West**](/20c/20c-sackville-west-biography)
+
+- author: Clare Nursey
+
+![](https://kent-map.github.io/kent/20c/images/sissinghurstpostcard.jpg)
+
+Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
 # Essays by period
 
