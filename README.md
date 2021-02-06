@@ -91,7 +91,7 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 ##
 [**Geoffrey Chaucer**](/14c/14c-chaucer)
 
-![](https://kent-map.github.io/kent/images/thumbnails/chaucersmall.JPG)
+![](https://kent-map.github.io/kent/images/thumbnails/thumbnailchaucer.jpg)
 
 Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
 
