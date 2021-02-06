@@ -31,7 +31,7 @@ The landscape Pip describes seems to alter as he moves across it.
 
 - author: Ken Moffat and Carolyn W. de la L. Oulton
 
-![](https://kent-map.github.io/kent/images/thumbnails/david-copperfield.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Broadstairs.jpg)
 
 David Copperfield, like Pip in _Great Expectations_, shares the difficult story of what it means to become involuntarily fascinated, even obsessed: with grotesque figures, with landscapes, with the secrets of one’s own past.
 
