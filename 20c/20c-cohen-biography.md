@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Alfred Cohen 1920-2001" author="Professor Max Saunders" layout="vtl" 
-banner="/20c/images/sissinghurstpostcode.jpg">
+banner="20c/images/sissinghurstpostcode.jpg">
 <param ve-entity eid="Q2019734" aliases="Goudhurst">
 <param ve-entity eid="Q4874056" aliases="Horsmonden">
 <param ve-entity eid="Q24660387" aliases="Sissinghurst">
