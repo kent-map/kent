@@ -7,11 +7,11 @@
 
 **Places** Sissinghurst, Knole, Long Barn, Groombridge Place
 
->The autumn bonfire smokes across the woods
-And reddens in the water of the moat;
-As red within the water burns the scythe 
-And the moon dwindled to her gibbous tithe
-	Follows the sunken sun afloat. - ‘Sissinghurst’, 1930.
+The autumn bonfire smokes across the woods   
+And reddens in the water of the moat;   
+As red within the water burns the scythe    
+And the moon dwindled to her gibbous tithe   
+Follows the sunken sun afloat. - ‘Sissinghurst’, 1930.   
 <param ve-image url="https://raw.githubusercontent.com/kent-map/kent/develop/images/Sissinghurst%20Nursey.JPG" label="Sissinghurst Gardens, 2020" attribution="Clare Nursey">
 <param ve-map center="Q1971996" zoom="10">
 
