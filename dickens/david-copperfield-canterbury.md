@@ -19,13 +19,13 @@ Tradition places Dr Strong’s house at 1 Lady Wootton’s Green, although some 
 
 David's first impression though is of ‘the sunny street [Sun Street?] of Canterbury, dozing as it were in the hot light’.[^ref4] 
 
-Though a plaque on the wall of the Sun Hotel claims it as Dickens’ ‘Little Inn’ it is more likely that the real progenitor of this is actually The Three Tuns by Castle St. And while we are on the subject of pubs, it is pleasant to imagine David passing the [Bat and Ball](http://www.dover-kent.com/Bat-and-Ball-Canterbury.html) by the cricket ground on his thankless walk along the Dover Road [Dover Road](/david-copperfield-dover-road).
+Though a plaque on the wall of the Sun Hotel claims it as Dickens’ ‘Little Inn’ it is more likely that the real progenitor of this is actually The Three Tuns by Castle St. And while we are on the subject of pubs, it is pleasant to imagine David passing the [Bat and Ball](http://www.dover-kent.com/Bat-and-Ball-Canterbury.html) by the cricket ground on his thankless walk along the Dover Road [Dover Road](/dickens/david-copperfield-dover-road).
  
 Dickens’ relationship with Canterbury was the basis of calls from locals such as A. C. Turley for a local branch of the Dickens Society. But his response is actually somewhat ambivalent. A reader of _David Copperfield_ would revel in the fond, almost loving, evocation of a Cathedral town (compared with the much starker depiction of Cloisterham ([Rochester]) in [_The Mystery of Edwin Drood_ )](/dickens/edwin-drood-curated-walk), but that is never repeated in his letters or other writings. While he took a friend 'in tow to Canterbury' in 1848.[^ref5] and took his American publisher and his wife on a 'Canterbury Pilgrimage' in 1869.[^ref6] the only other affectionate reference to the city is in his appreciation of the warmth of the crowd at a reading he gave at the Guildhall, in a letter to his daughter from the now destroyed Fountain Hotel.
  
-Other landmarks still recognisable in the city include The Abode Hotel, (see [Mobile Landscapes](/dickens/mobile-landscapess)) almost certainly the hotel Mr Dick stays in on his frequent visits to the city.
+Other landmarks still recognisable in the city include The Abode Hotel, (see [Mobile Landscapes](/dickens/mobile-landscapes) almost certainly the hotel Mr Dick stays in on his frequent visits to the city.
 
-Want to know more about [Dickens's links to Canterbury](https://www.canterbury.co.uk/info/24/history_and_heritage/63/canterburys_literary_links/2w)? Why not go for a walk round the city and find your own [Canterbury Connections](https://drive.google.com/file/d/1ijH_Pcg1JQ8KMtBShCS70j9IdLvth5i3/view)?
+Want to know more about Dickens's links to Canterbury? Why not go for a walk round the city and find your own [Canterbury Connections(https://drive.google.com/file/d/1ijH_Pcg1JQ8KMtBShCS70j9IdLvth5i3/view)?
 
 ## Bibliography
 

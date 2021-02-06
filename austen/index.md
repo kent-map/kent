@@ -10,7 +10,7 @@
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/JaneAustenCassandraWatercolour.jpg)
 
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. During these extended visits, Austen travelled to many other destinations in Kent for social calls or leisure outings.
 
@@ -19,7 +19,7 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/CanterburyRoper1806 DETAIL.JPG)
 
 During visits to her brother Edward Austen Knight between 1794 and 1813, Austen frequently took day trips to Canterbury. In addition to making social calls, Austen enjoyed the other attractions Canterbury had to offer, including visits to the Cathedral, shopping, concerts, and balls.
 
@@ -55,7 +55,7 @@ Austen visited Ramsgate in 1803 while staying at Godmersham Park with her brothe
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://visual-essays.app/thumbnail?size=400x260&url=https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Red_House%2C_Sevenoaks-geograph.org-3419824.jpg)
 
 Jane Austen’s first experience of Kent comprised a trip with her parents and sister to Sevenoaks to visit her great uncle Francis, her father’s guardian and benefactor. Francis hosted a grand dinner at his stately Red House in July of 1788, an event which may have provided the inspiration for a scene in her third novel, Mansfield Park (1814).
 

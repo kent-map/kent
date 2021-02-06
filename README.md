@@ -2,21 +2,21 @@
        banner="/images/kent-map-header.jpg"
        show-abstracts="true"
        layout="index">
+       
+# Welcome
 
-# Kent Maps
-
-The site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
+This site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
 
 # Featured essays
 
 ##
-[**Mobile Landscapes**](/dickens/mobile-landscapes)
+[**Mobile Landscapes - Finding Kent Dickensian**](/dickens/mobile-landscapes)
 
 - author: Ken Moffat and Carolyn W. de la L. Oulton
 
 ![](https://kent-map.github.io/kent/images/thumbnails/mobile-landscapes.jpg)
 
-You’ll need a map because there are no signposts...
+You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie.
 
 ##
 [**Great Expectations - A curated walk**](/dickens/great-expectations-curated-walk)
@@ -26,14 +26,43 @@ You’ll need a map because there are no signposts...
 ![](https://kent-map.github.io/kent/images/thumbnails/grammer-school-gate-rochester.jpg)
 
 The landscape Pip describes seems to alter as he moves across it.
+
+
 ##
 [**David Copperfield - A curated walk**](/dickens/david-copperfield-curated-walk)
 
 - author: Ken Moffat and Carolyn W. de la L. Oulton
 
-![](https://kent-map.github.io/kent/images/thumbnails/david-copperfield.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Broadstairs.jpg)
 
 David Copperfield, like Pip in _Great Expectations_, shares the difficult story of what it means to become involuntarily fascinated, even obsessed: with grotesque figures, with landscapes, with the secrets of one’s own past.
+
+##
+[**Alfred Cohen**](/20c/20c-cohen-biography)
+
+- author: Professor Max Saunders
+
+![](https://kent-map.github.io/kent/20c/images/redlandscape.jpg)
+
+It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
+
+##
+[**Derek Jarman**](/20c/20c-jarman-biography)
+
+- author: Jeremy Page
+
+![](https://kent-map.github.io/kent/20c/images/Jarman1.jpg)
+
+It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
+
+##
+[**Vita Sackville-West**](/20c/20c-sackville-west-biography)
+
+- author: Clare Nursey
+
+![](https://kent-map.github.io/kent/20c/images/sissinghurst2.jpg)
+
+Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
 # Essays by period
 
@@ -91,7 +120,7 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 ##
 [**Geoffrey Chaucer**](/14c/14c-chaucer)
 
-![](https://kent-map.github.io/kent/images/thumbnails/chaucersmall.JPG)
+![](https://kent-map.github.io/kent/images/thumbnails/thumbnailchaucer.jpg)
 
 Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
 
