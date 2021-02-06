@@ -3,20 +3,18 @@
        show-abstracts="true"
        layout="index">
 
-# Kent Maps
-
 The site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
 
 # Featured essays
 
 ##
-[**Mobile Landscapes**](/dickens/mobile-landscapes)
+[**Mobile Landscapes - Finding Kent Dickensian**](/dickens/mobile-landscapes)
 
 - author: Ken Moffat and Carolyn W. de la L. Oulton
 
 ![](https://kent-map.github.io/kent/images/thumbnails/mobile-landscapes.jpg)
 
-You’ll need a map because there are no signposts...
+You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie.
 
 ##
 [**Great Expectations - A curated walk**](/dickens/great-expectations-curated-walk)
