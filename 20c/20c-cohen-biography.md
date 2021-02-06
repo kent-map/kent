@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Alfred Cohen" author="Professor Max Saunders" layout="vtl" 
-banner="images/sissinghurstpostcode.jpg">
+banner="/20c/images/sissinghurstpostcode.jpg">
 <param ve-entity eid="Q2019734" aliases="Goudhurst">
 <param ve-entity eid="Q4874056" aliases="Horsmonden">
 <param ve-entity eid="Q24660387" aliases="Sissinghurst">
@@ -24,7 +24,6 @@ In 1963, Cohen and his second wife Diana were looking for a studio. They drove t
 Alfred started painting the landscape immediately, but it was a new challenge, and he realized he would need to transform his technique:
 
 >What hit me was an incredible feeling of privacy. Driving along a country road I felt the hedges crowding in on me. The leaves were so thick that they were like a wall. We passed a hedge-cutter and he glared at us as if we’d interrupted some ritual. Then he stepped down into the ditch and disappeared as though he’d been absorbed by the landscape. Everything was so impenetrably, all-over green that I could think of no way of getting into it as a painter. The way I’d been working simply wouldn’t do. 
-<param ve-image url="images/hedgecutting.JPG" label="Alfred Cohen, Hedgecutting and Harvesting, 1969, oil on canvas, 40 x 28 in; 101.6 x 71.1 cm. © The Artist’s Estate. Believed to have been overpainted. Slide, Alfred Cohen Archive">  
 <param ve-map primary center="Q2019734" zoom="10">
 
 From the mid-1960s Cohen’s paintings became more heavily worked, with increased impasto; many of the effects achieved by working the paint with a palette knife. As journalist Philip Oakes explained: ‘He evolved a new style, using paint like a sculptor, laying down slabs of colour, carving it with his brush so that the fields and hedges and houses seemed to be hewn from the canvas’. 
