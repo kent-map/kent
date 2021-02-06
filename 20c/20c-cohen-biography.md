@@ -30,7 +30,7 @@ What hit me was an incredible feeling of privacy. Driving along a country road I
 
 From the mid-1960s Cohen’s paintings became more heavily worked, with increased impasto; many of the effects achieved by working the paint with a palette knife. As journalist Philip Oakes explained: ‘He evolved a new style, using paint like a sculptor, laying down slabs of colour, carving it with his brush so that the fields and hedges and houses seemed to be hewn from the canvas’. 
 <param ve-image url="images/neargoudhurst.jpg" label="Alfred Cohen, Near Goudhurst, 1965, oil on board, 9.75 x 11.in; 24.8 x 29.9 cm. © The Artist’s Estate. Collection: Diana Cohen. Photo: Peter Huggins"> 
-<param ve-map center="Q2551894" zoom="10">
+<param ve-map center="Q24660387" zoom="10">
 
 Cohen’s British landscapes were well-received, with critics continuing to praise his compositional intelligence. ‘He uses the inter-relationship of houses, trees, fields and roads as excitingly as any abstract painter’, said the _Jewish Chronicle_, adding that ‘the pictures are intensely alive both as paint and as nature’.  
 <param ve-image url="images/redlandscape.jpg" label="Red Landscape in Kent, 1965, oil on canvas, 18 x 22 in; 45.7 x 55.9 cm. Alfred Cohen Art Foundation; gift of Michael and Jill Barrington. © The Artist’s Estate. Photo: Peter Huggins"> 
@@ -45,7 +45,7 @@ needed plenty of work. He enjoyed visualising how to bring out a house’s full 
 
 Cohen continued to show in London’s West End galleries, but the country now provided his main subjects. While in France he had painted the Channel ports. In Kent he returned to the Channel coastline, now seen from both sides. 
 <param ve-image url="images/folkestone.jpg" label="Alfred Cohen, Folkestone, 1974, oil on hardboard, 16 x 20 in; 40.6 x 50.8 cm. © The Artist’s Estate. Private Collection. Photo: Peter Huggins"> 
-<param ve-map center="Q24660387" zoom="10">
+<param ve-map center="Q2551894" zoom="10">
 
 Creative conversions were to become a sideline. In the mid-70s the Cohens moved again. This time they had bought an unusual oast house – with a solitary, square oast – and eighteenth-century barn near Iden Green and Benenden. These were unconverted farm buildings, so they moved into another house in Iden Green they had converted but been unable to sell as the property market crashed. Scullsgate Oast nestled in a secluded corner well off a very quiet lane, and with beautiful views over sheep fields. But it proved a greater challenge than they’d imagined Though the beams of the barn were still sound, they had no foundations, so builders had to dig underneath the frame and fill trenches with concrete. The roof and cladding all needed replacing, and there were no facilities. It was like building a very large new house, only with the inconvenience of having to do it round the old oak structure. But it made a marvellous, dramatic open space, perfect for a large studio. They put in a balcony and a bathroom above, adjoining the master-bedroom in the top of the oast. 
 <param ve-image url="images/scullsgate.jpg" label="Scullsgate Oast, Benenden, c. 1978. Photo: Alfred Cohen Archive"> 
