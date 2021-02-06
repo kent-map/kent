@@ -26,6 +26,16 @@ You’ll need a map because there are no signposts...
 ![](https://kent-map.github.io/kent/images/thumbnails/grammer-school-gate-rochester.jpg)
 
 The landscape Pip describes seems to alter as he moves across it.
+
+##
+[**Alfred Cohen**](/20c/20c-cohen-biography)
+
+- author: Professor Max Saunders
+
+![](https://kent-map.github.io/kent/20c/images/redlandscape.jpg)
+
+It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
+
 ##
 [**David Copperfield - A curated walk**](/dickens/david-copperfield-curated-walk)
 
