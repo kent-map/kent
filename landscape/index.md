@@ -21,7 +21,7 @@ Kent is a county of diverse landscapes - inspiring evocations of both rural idyl
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
 
-Strapline here.
+It has become all too fashionable to coin yet another ‘-scape’ (drosscape, playscape, smellscape), however, the root-term ‘landscape’ and some of its derivatives do provide useful means of discussing human and environment interactions and their artistic representations.
 
 ##
 **[The Kentish Chalk](/landscape/kentish-chalk)**
