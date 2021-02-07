@@ -12,7 +12,7 @@
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
 
-Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes (where Pip is terrified by Magwitch in Great Expectations) to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
+Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
 ##
 **[Scapes and Fringes](/landscape/scapes-and-)**
@@ -30,7 +30,7 @@ It has become all too fashionable to coin yet another ‘-scape’ (drosscape, p
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
 
-Strapline here.
+The chalk dust permeates numerous literary landscapes, including those of Dickens, Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and Jocelyn Brooke.
 
 ##
 **[Chalk Pits: Stig of the Dump](/landscapes/stig)**
