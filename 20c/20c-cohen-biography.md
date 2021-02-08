@@ -48,7 +48,7 @@ Creative conversions were to become a sideline. In the mid-70s the Cohens moved 
 <param ve-image url="images/scullsgate.jpg" label="Scullsgate Oast, Benenden, c. 1978. Photo: Alfred Cohen Archive"> 
 <param ve-map center="Q2686542" zoom="10">
  
-Unfortunately they were not able to finish the conversion before they ran out of money, and were forced to sell it in 1978, and say goodbye to Kent. This time they found an old school house in Wighton, Norfolk, just inland from Wells-next-the-Sea, and determined to do it up much more slowly. They discovered later that it was where Henry Moore had lived when he was an art student. In 1983 Diana opened the prestigious School House Gallery there, showing not only Moore himself, but many other modern masters including Hockney, Eric Gill, David Jones, and a number of up-and-coming Norfolk artists.
+Unfortunately they were not able to finish the conversion before they ran out of money, and were forced to sell it in 1978, and say goodbye to Kent. This time they found an old school house in Wighton, Norfolk, just inland from Wells-next-the-Sea, and determined to do it up much more slowly. They discovered later that it was where Henry Moore had lived when he was an art student. In 1983, Diana opened the prestigious School House Gallery there, showing not only Moore himself, but many other modern masters including Hockney, Eric Gill, David Jones, and a number of up-and-coming Norfolk artists.
 <param ve-image url="images/cohenstudio.jpg" label="Alfred Cohen in his studio at Scullsgate Oast, 1978. Photo: Alfred Cohen Archive."> 
 <param ve-map center="Q2686542" zoom="10">
 
