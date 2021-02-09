@@ -42,21 +42,20 @@ The chalk dust permeates numerous literary landscapes, including those of Dicken
 One day Barney tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia... This childhood freedom is evoked in Clive King’s classic 1963 children’s book 'Stig of the Dump'.
  
 ##
-**[Hop and fruit picking in the 20th century](/landscapes/20c-encounters-with-others)**
-
-- author: Peter Vujakovic
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
-
-Itinerant hop and fruit pickers are often seen as transient but archetypal characters within the landscapes of Kent. London families who helped with the hop harvest and other ‘travellers’ who followed the seasons and the fruit harvests often feature in the literature on Kent.
- 
-##
 **[Hop Picking and the Literary Imagination](/landscapes/stig)**
 
 - author: Carolyn Oulton
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/hoppicking.jpg)
 
-To this day the autumn hop picking season provides a potent image of Kent rural life. 
+To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages went 'hopping'.
 
+##
+**[Hop and Fruit Picking in the 20th century](/landscapes/20c-encounters-with-others)**
+
+- author: Peter Vujakovic
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
+
+Itinerant hop and fruit pickers are often seen as transient but archetypal characters within the landscapes of Kent. London families who helped with the hop harvest and other ‘travellers’ who followed the seasons and the fruit harvests often feature in the literature on Kent.
 
