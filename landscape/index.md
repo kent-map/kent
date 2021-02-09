@@ -46,7 +46,7 @@ One day Barney tumbles into an old chalk pit that is used as a local dumping gro
 
 - author: Carolyn Oulton
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/IllustratedhoppingMJC.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/IllustratedhoppingMJC1.JPG)
 
 To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages went 'hopping'.
 
