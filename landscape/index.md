@@ -10,7 +10,7 @@
 
 - author: Peter Vujakovic
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_3010.JPG)
 
 Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
