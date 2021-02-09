@@ -28,7 +28,7 @@ It has become all too fashionable to coin yet another ‘-scape’ (drosscape, p
 
 - author: Peter Vujakovic
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2985.JPG)
 
 The chalk dust permeates numerous literary landscapes, including those of Dickens, Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and Jocelyn Brooke.
 
