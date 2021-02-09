@@ -55,7 +55,7 @@ Itinerant hop and fruit pickers are often seen as transient but archetypal chara
 
 - author: Carolyn Oulton
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/hoppicking.jpg)
 
 To this day the autumn hop picking season provides a potent image of Kent rural life. 
 
