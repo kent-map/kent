@@ -53,7 +53,7 @@ Itinerant hop and fruit pickers are often seen as transient but archetypal chara
 ##
 **[Hop Picking and the Literary Imagination](/landscapes/stig)**
 
-- author: Peter Vujakovic
+- author: Carolyn Oulton
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
 
