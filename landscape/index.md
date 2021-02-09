@@ -33,7 +33,7 @@ It has become all too fashionable to coin yet another ‘-scape’ (drosscape, p
 The chalk dust permeates numerous literary landscapes, including those of Dickens, Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and Jocelyn Brooke.
 
 ##
-**[Chalk Pits](/landscapes/stig)**
+**[Chalk Pits](/landscapes/chalk-pits-stig)**
 
 - author: Peter Vujakovic
 
