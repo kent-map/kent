@@ -33,7 +33,7 @@ It has become all too fashionable to coin yet another ‘-scape’ (drosscape, p
 The chalk dust permeates numerous literary landscapes, including those of Dickens, Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and Jocelyn Brooke.
 
 ##
-**[Chalk Pits: Stig of the Dump](/landscapes/stig)**
+**[Chalk Pits](/landscapes/stig)**
 
 - author: Peter Vujakovic
 
@@ -51,14 +51,12 @@ One day Barney tumbles into an old chalk pit that is used as a local dumping gro
 text
  
 ##
-**[Chalk Pits](/landscapes/stig)**
+**[Hop Picking and the Literary Imagination](/landscapes/stig)**
 
 - author: Peter Vujakovic
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
 
-One day Barney tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia...
- 
-
+To this day the autumn hop picking season provides a potent image of Kent rural life. 
 
 
