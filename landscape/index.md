@@ -37,7 +37,7 @@ The chalk dust permeates numerous literary landscapes, including those of Dicken
 
 - author: Peter Vujakovic
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
 
 One day Barney tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia...
  
@@ -46,16 +46,16 @@ One day Barney tumbles into an old chalk pit that is used as a local dumping gro
 
 - author: Peter Vujakovic
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
 
 text
  
 ##
-**[Chalk Pits: Stig of the Dump](/landscapes/stig)**
+**[Chalk Pits](/landscapes/stig)**
 
 - author: Peter Vujakovic
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
 
 One day Barney tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia...
  
