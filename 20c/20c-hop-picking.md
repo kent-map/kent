@@ -1,10 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Hop Picking and the LIterary Imagination" author="Professor Carolyn Oulton" layout="vtl" 
-banner="20c/images/OasthousesMJC.jpg">
-<param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-entity eid="Q1006783" aliases="Ferne">
-<param ve-entity eid="Q29303" aliases="Canterbury">
 
+![The Hop Farm © Martin Crowther](/20c/images/Oasthouses.JPG){: .right}
 
 ## Hop Picking and the Literary Imagination
 
