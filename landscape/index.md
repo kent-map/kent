@@ -37,16 +37,16 @@ The chalk dust permeates numerous literary landscapes, including those of Dicken
 
 - author: Peter Vujakovic
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2546.JPG)
 
 One day Barney tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia... This childhood freedom is evoked in Clive King’s classic 1963 children’s book 'Stig of the Dump'.
  
 ##
-**[Hop Picking and the Literary Imagination](/landscapes/stig)**
+**[Hop Picking and the Literary Imagination](/20c/20c-hop-picking)**
 
 - author: Carolyn Oulton
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/hoppicking.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/IllustratedhoppingMJC.jpg)
 
 To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages went 'hopping'.
 
@@ -55,7 +55,7 @@ To this day the autumn hop picking season provides a potent image of Kent rural 
 
 - author: Peter Vujakovic
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/hoppicking.jpg)
 
 Itinerant hop and fruit pickers are often seen as transient but archetypal characters within the landscapes of Kent. London families who helped with the hop harvest and other ‘travellers’ who followed the seasons and the fruit harvests often feature in the literature on Kent.
 
