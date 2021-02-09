@@ -14,4 +14,4 @@ Conrad’s legacy lies in his storytelling and his capture of the human interest
 **Article written by:** 
 Dr Martin Watts
 
-In 1916 Conrad was the subject of a by fellow Kent author [Hugh Walpole](/20c/20c-walpole-biography). [Jospeh Conrad](https://www.gutenberg.org/files/52453/52453-h/52453-h.htm) was published in New York by Henry Holt and Company.
+In 1916 Conrad was the subject of a by fellow Kent author [Hugh Walpole](/19c/19c-walpole-biography). [Jospeh Conrad](https://www.gutenberg.org/files/52453/52453-h/52453-h.htm) was published in New York by Henry Holt and Company.

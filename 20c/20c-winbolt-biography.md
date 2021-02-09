@@ -29,6 +29,8 @@ Winbolt’s association with the county continued throughout the next decade. He
 
 During his lifetime, S.E. Winbolt wrote and edited over 70 publications. His visit to Folkestone is only a small part of his archaeological and educational legacy, but an important one.
 
+**Article written by:** Michelle Crowther
+
 ### References
 
 [^ref1]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 05 April 1924.   

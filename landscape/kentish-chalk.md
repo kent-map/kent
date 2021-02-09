@@ -11,7 +11,7 @@ Formed between 70 to 100 million years ago chalk is a soft, very pure form of li
 
 For those who know the chalk, this quotation from H E Bates, particularly the fine line about beech woods as ‘vast bearskins’, summons the seasons and the scenes, even today. It is taken from the short story ‘Now Sleeps the Crimson Petal’, a study of social transformation in post-war Kent (first published in _Harper's Bazaar_ in 1957) and its title from Tennyson’s poem of the same name:
 
-Sometimes in winter, when the trees were thinned of leaves, the chimneys of empty houses, the mansions of the late gentry, rose starkly from behind deep thick beechwoods that were thrown like vast bearskins across the chalk. In summer the chalk flowered into a hill garden of wild yellow rock-rose, wild marjoram, and countless waving mauve scabious covered on hot afternoons with nervous darting butter-flies.
+>Sometimes in winter, when the trees were thinned of leaves, the chimneys of empty houses, the mansions of the late gentry, rose starkly from behind deep thick beechwoods that were thrown like vast bearskins across the chalk. In summer the chalk flowered into a hill garden of wild yellow rock-rose, wild marjoram, and countless waving mauve scabious covered on hot afternoons with nervous darting butter-flies.
 
 The chalk dust permeates numerous literary landscapes, including those of Dickens, Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and Jocelyn Brooke.
 
