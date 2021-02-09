@@ -55,7 +55,7 @@ To this day the autumn hop picking season provides a potent image of Kent rural 
 
 - author: Peter Vujakovic
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/hop pickers.JPG)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Hop pickers.jpg)
 
 Itinerant hop and fruit pickers are often seen as transient but archetypal characters within the landscapes of Kent. London families who helped with the hop harvest and other ‘travellers’ who followed the seasons and the fruit harvests often feature in the literature on Kent.
 
