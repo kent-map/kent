@@ -1,6 +1,6 @@
 <param ve-config 
        title="Literary Landscapes"
-       banner="images/OasthousesMJC.jpg"
+       banner="20c/images/OasthousesMJC.jpg"
        layout="index">
 
 #
