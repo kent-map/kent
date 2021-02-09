@@ -42,13 +42,13 @@ The chalk dust permeates numerous literary landscapes, including those of Dicken
 One day Barney tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia...
  
 ##
-**[Chalk Pits: Stig of the Dump](/landscapes/stig)**
+**[Hop and fruit picking in the 20th century](/landscapes/20c-encounters-with-others)**
 
 - author: Peter Vujakovic
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
 
-One day Barney tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia...
+text
  
 ##
 **[Chalk Pits: Stig of the Dump](/landscapes/stig)**
