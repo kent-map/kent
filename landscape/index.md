@@ -39,7 +39,7 @@ The chalk dust permeates numerous literary landscapes, including those of Dicken
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/XXX.jpg)
 
-One day Barney tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia...
+One day Barney tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia... Clive King's 'Stig of the Dump' was inspired by a childhood visit to Ash.
  
 ##
 **[Hop and fruit picking in the 20th century](/landscapes/20c-encounters-with-others)**
