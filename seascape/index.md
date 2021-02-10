@@ -6,7 +6,7 @@
 #
 
 ##
-**[The Kentish Landscape](/landscape/kentish-landscape)**
+**[Seaside Resorts](/19c/19c-seaside)**
 
 - author: Peter Vujakovic
 
