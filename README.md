@@ -124,13 +124,6 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 
 The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
 
-##
-[**Musical Peregrinations**](/music)
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/seascape/thumbnailadmiraltychart1910.jpg)
-
-A glance through the pages of a local paper at any point in the eighteenth and nineteenth centuries will furnish ample evidence of lively entertainment on offer, at least to those who could afford it and could access it.
-
 # Featured Authors
 
 ##
