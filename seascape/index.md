@@ -10,10 +10,9 @@
 
 - author: Carolyn Oulton
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_3010.JPG)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/19c/images/Margatefromtheparade.jpg)
 
-Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
-
+As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells moved coastwards in the late eighteenth and nineteenth centuries, so a number of obscure Kentish fishing villages reinvented themselves as seaside resorts. 
 ##
 **[Chatham Dockyard](/19c/19c-chatham-dockyard)**
 
