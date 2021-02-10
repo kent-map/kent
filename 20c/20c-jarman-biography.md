@@ -15,13 +15,13 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 <param ve-image label="Prospect Cottage"
 	   attribution="Alexandra Loske"
 	   url="images/Jarman1.jpg">
-<param ve-map primary center="Q1506093" zoom="10">
+<param ve-map center="Q1506093" zoom="10">
 
 By his own account, Jarman had no plans to build a garden, an improbable project in this ‘bleak and beautiful interzone’ (Olivia Laing), but following his purchase of Prospect Cottage for £450 (freehold) and his subsequent diagnosis as HIV positive, he set about creating the garden that would serve as ‘therapy and pharmacopoeia’ (_Derek Jarman’s Garden_). He came to see his garden as a paradise, contrasting it with other gardens he saw as ‘like bad children – spoilt by their parents, over-watered and covered with noxious chemicals’ (_Derek Jarman’s Garden_). Jarman’s garden merges imperceptibly with the beach and has no fences. ‘My garden’s boundaries are the horizon,’ he declares in _Modern Nature_.
 <param ve-image label="Dungeness."
 	   attribution="Alexandra Loske"
 	   url="images/Jarman3.jpg">
-<param ve-map primary center="Q911577" zoom="10">
+<param ve-map center="Q911577" zoom="10">
 
 The garden flourished in this harsh, inhospitable landscape, against the elements and the odds, but as it thrived, so Jarman’s condition worsened as AIDS tightened its grip. By 1990 his sight was failing as a result of toxoplasmosis. Typically, this prompted an obsession with colour, which would find expression in both his ‘book of colour’ _Chroma_ and his last film _Blue_.
 
@@ -29,7 +29,7 @@ Derek Jarman’s creativity was truly extraordinary by virtue of its scope and i
 <param ve-image label="Dungeness"
 	   attribution="Alexandra Loske"
 	   url="images/Jarman4.jpg">
-<param ve-map primary center="Q911577" zoom="10">
+<param ve-map center="Q911577" zoom="10">
 
 ### Bibliography
 
