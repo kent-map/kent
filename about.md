@@ -103,6 +103,13 @@ Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from C
 Carla Danella has a BA from Wellesley College (in the US) and recently completed her MA in English Literature at Canterbury Christ Church University, studying the writing and life of the English writer and eccentric, Christopher St John. When not creating occasional exhibitions for the National Trust at Smallhythe Place, or at her day job as web content manager, she can be found hiking in Kent with her dog Max.
 
 ##
+**Laurie Duggan**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/duggan.JPG)
+
+Laurie Duggan was born in Melbourne and was involved in the poetry worlds of that city and Sydney through the 1970s and 80s. In 2006 he moved to England, living in Faversham, Kent until 2018 when he returned to Sydney.  His most recent books are Homer Street (Giramondo 2020), Selected Poems 1971-2017 (Shearsman 2018), No Particular Place To Go (Shearsman 2017).
+
+##
 **Diana Hirst**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/dianahirst.jpg)
