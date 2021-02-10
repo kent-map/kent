@@ -9,7 +9,7 @@ Journal extracts: Kent 2007-2018
 
 **15/1/2008**    A moment on the bus where the streaks of green and brown and the rain across the windows becomes the one and only moment. A strange happiness. Then I have to get off and walk through Canterbury. Collapsed umbrellas in bins.
 
-**15/2/2008 **    After two very foggy days it clears and gets colder. The first daffodil in the yard is out, plus a couple of snowdrops, shoots of bluebells and another as yet unplaced bulb. The climbing plants, seemingly dead, have come back to life.
+**15/2/2008**    After two very foggy days it clears and gets colder. The first daffodil in the yard is out, plus a couple of snowdrops, shoots of bluebells and another as yet unplaced bulb. The climbing plants, seemingly dead, have come back to life.
 
 **7/1/2009**  [Faversham] The snow from two nights back hasn’t melted. Interesting to see what plants seem to have survived well – lavender, thyme, oregano. Tarragon dies naturally in winter.
 
