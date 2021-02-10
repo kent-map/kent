@@ -129,7 +129,7 @@ The Kentish coast has inspired authors and artists throughout the centuries.
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/seascape/thumbnailadmiraltychart1910.jpg)
 
-Regeneration and the rise of the DFL.
+A glance through the pages of a local paper at any point in the eighteenth and nineteenth centuries will furnish ample evidence of lively entertainment on offer, at least to those who could afford it and could access it.
 
 # Featured Authors
 
