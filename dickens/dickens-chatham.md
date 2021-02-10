@@ -15,7 +15,7 @@ toy-like appearance, and the one red-coated sentry on duty over them was a mere 
 
 
 
-Charles Dickens’s Kent childhood, celebrated in both his journalism and his major fiction, was a direct result of his father’s move from Portsmouth to the [Chatham Dockyard](19c/19c-chatham-dockyard) in 1816. Visiting today it is impossible to recreate the sense of constant bustle and noise that would have pervaded the scene in Dickens’s time. But the layout of the buildings allows some sense of the docks as a micro-community, an exciting and at the same time familiar space for a child to explore in the aftermath of the Napoleonic Wars.
+Charles Dickens’s Kent childhood, celebrated in both his journalism and his major fiction, was a direct result of his father’s move from Portsmouth to the [Chatham Dockyard](/19c/19c-chatham-dockyard) in 1816. Visiting today it is impossible to recreate the sense of constant bustle and noise that would have pervaded the scene in Dickens’s time. But the layout of the buildings allows some sense of the docks as a micro-community, an exciting and at the same time familiar space for a child to explore in the aftermath of the Napoleonic Wars.
 
 Initially the family lived at 2 Ordnance Terrace, on the hills above the estuary. During these years John Dickens would sometimes take Charles and his sister Fanny aboard the Chatham, a small naval yacht in which he sailed to Sheerness and back. Claire Tomalin writes that ‘After hours of sailing, as they approached Sheerness and the Thames '''estuary''', the far Essex bank came into view five miles away across a world of water. This landscape and the sludge-coloured tidal rivers haunted him all his life and became part of the fabric of his later novels.’[^ref1] 
 
