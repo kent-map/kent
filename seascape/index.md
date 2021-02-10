@@ -19,7 +19,7 @@ Kent is a county of diverse landscapes - inspiring evocations of both rural idyl
 
 - author: Martin Watts
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/HopbinMJC.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/The_Medway_Chatham_England-LCCN2002711859.jpg)
 
 It has become all too fashionable to coin yet another ‘-scape’ (drosscape, playscape, smellscape), however, the root-term ‘landscape’ and some of its derivatives do provide useful means of discussing human and environment interactions and their artistic representations.
 
