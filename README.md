@@ -113,12 +113,23 @@ Regeneration and the rise of the DFL.
 ##
 [**Literary Landscapes**](/landscape)
 
+![](https://kent-map.github.io/kent/images/thumbnails/21c.jpg)
+
+Regeneration and the rise of the DFL.
+
 ##
 [**Seascapes**](/seascape)
 
-##
-[**Soundscapes**](/music)
+![](https://kent-map.github.io/kent/images/thumbnails/21c.jpg)
 
+Regeneration and the rise of the DFL.
+
+##
+[**Musical Peregrinations**](/music
+
+![](https://kent-map.github.io/kent/images/thumbnails/21c.jpg)
+
+Regeneration and the rise of the DFL.
 
 # Featured Authors
 
