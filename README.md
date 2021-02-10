@@ -113,7 +113,7 @@ Regeneration and the rise of the DFL.
 ##
 [**Literary Landscapes**](/landscape)
 
-![](https://kent-map.github.io/kent/images/thumbnails/21c.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2546.JPG)
 
 Regeneration and the rise of the DFL.
 
