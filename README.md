@@ -120,7 +120,7 @@ Regeneration and the rise of the DFL.
 ##
 [**Seascapes**](/seascape)
 
-![](https://kent-map.github.io/kent/images/thumbnails/21c.jpg)
+![](https://kent-map.github.io/kent/seascape/images/thumbnailadmiraltychart1910.jpg)
 
 Regeneration and the rise of the DFL.
 
