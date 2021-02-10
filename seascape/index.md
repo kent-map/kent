@@ -27,6 +27,6 @@ The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval
 
 - author: Jacquie Stamp
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/erebus.jpg)
 
 On the 19 May 1845 H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north", and to circumnavigate America.
