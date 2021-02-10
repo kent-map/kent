@@ -115,14 +115,14 @@ Regeneration and the rise of the DFL.
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2546.JPG)
 
-Regeneration and the rise of the DFL.
+Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
 ##
 [**Seascapes**](/seascape)
 
 ![](https://kent-map.github.io/kent/seascape/images/thumbnailadmiraltychart1910.jpg)
 
-Regeneration and the rise of the DFL.
+The Kentish coast has inspired authors and artists throughout the centuries.
 
 ##
 [**Musical Peregrinations**](/music)
