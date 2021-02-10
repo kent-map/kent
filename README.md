@@ -125,7 +125,7 @@ Regeneration and the rise of the DFL.
 Regeneration and the rise of the DFL.
 
 ##
-[**Musical Peregrinations**](/music
+[**Musical Peregrinations**](/music)
 
 ![](https://kent-map.github.io/kent/images/thumbnails/21c.jpg)
 
