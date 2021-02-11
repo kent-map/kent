@@ -6,7 +6,7 @@
 #
 
 ##
-**[The Kentish Landscape](/landscape/kentish-landscape)**
+**[The Kentish Landscape](/landscape/kentish-landscapes)**
 
 - author: Peter Vujakovic
 
