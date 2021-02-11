@@ -18,7 +18,7 @@ A landscape perspective must, however, be conscious of the larger scale, of regi
 
 **Article written by:** Prof Peter Vujakovic
 
-[^ref1]:  James Crowden (2005) ‘Landscape: Inscape or Escape?’, in Kate Dunbar (ed.) (2005) _Landscape and Literature: A Writers’ Anthology_, Green Books: Totnes.
-[^ref2]:  Tim Ingold (1993) 'The Temporality of the Landscape', _World Archaeology_, 25, 152-174
-[^ref3]:  W. G. Hoskins (1967) _Fieldwork in Local History_, London: Faber, 184; cited in Matthew Johnson (2007) _Ideas of Landscape_, Oxford: Blackwell, 41.
+[^ref1]:  James Crowden (2005) ‘Landscape: Inscape or Escape?’, in Kate Dunbar (ed.) (2005) _Landscape and Literature: A Writers’ Anthology_, Green Books: Totnes.   
+[^ref2]:  Tim Ingold (1993) 'The Temporality of the Landscape', _World Archaeology_, 25, 152-174.   
+[^ref3]:  W. G. Hoskins (1967) _Fieldwork in Local History_, London: Faber, 184; cited in Matthew Johnson (2007) _Ideas of Landscape_, Oxford: Blackwell, 41.   
 
