@@ -15,7 +15,7 @@
 Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
 ##
-**[Scapes and Fringes](/landscape/scapes-and-)**
+**[Scapes and Fringes](/landscape/scapes-and-fringes)**
 
 - author: Peter Vujakovic
 
