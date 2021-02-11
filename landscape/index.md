@@ -15,7 +15,7 @@
 Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
 ##
-**[Scapes and Fringes](/landscape/scapes-and-)**
+**[Scapes and Fringes](/landscape/scapes-and-fringes)**
 
 - author: Peter Vujakovic
 
@@ -33,7 +33,7 @@ It has become all too fashionable to coin yet another ‘-scape’ (drosscape, p
 The chalk dust permeates numerous literary landscapes, including those of Dickens, Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and Jocelyn Brooke.
 
 ##
-**[Chalk Pits, Ash and 'Stig of the Dump'](/landscapes/chalk-pits-stig)**
+**[Chalk Pits, Ash and 'Stig of the Dump'](/landscape/chalk-pits-stig)**
 
 - author: Peter Vujakovic
 
@@ -51,7 +51,7 @@ One day Barney tumbles into an old chalk pit that is used as a local dumping gro
 To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages went 'hopping'.
 
 ##
-**[Hop and Fruit Picking in the 20th century](/landscapes/20c-encounters-with-others)**
+**[Hop and Fruit Picking in the 20th century](/landscape/20c-encounters-with-others)**
 
 - author: Peter Vujakovic
 
