@@ -5,7 +5,7 @@
 >‘Margate is a place that grows on you. You arrive at it feeling vaguely contemptuous, and ready, if by any far distant chance you should meet anyone that you know, to explain that it is your first visit, and that you only came because your doctor so strongly recommended it. And then, after getting to feel steadily better and better, and more and more alive, and as if life still held something for you, you get to love it. Especially if you go there in May.’
 	_Love in a Mist_, 1932
 
-IMAGE: LOVE IN A MIST
+![Love in a Mist](images/lovemist.jpg){: .right}
 
 Both romance and crime fiction flourished in the 1930s holiday market, and Margate on the 
 East coast of Kent provided an obvious setting for middlebrow fiction. Set in the years after 
