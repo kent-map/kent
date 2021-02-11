@@ -120,7 +120,7 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 ##
 [**Seascapes**](/seascape)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/develop/seascape/images/Hay%20barges%20banner.jpg)
+![](https://kent-map.github.io/kent/seascape/images/thumbnailadmiraltychart1910.jpg)
 
 The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
 
