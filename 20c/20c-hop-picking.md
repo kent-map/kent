@@ -1,16 +1,14 @@
 
 ## Hop Picking and the Literary Imagination
 
-![The Hop Farm © Martin Crowther](/20c/images/OasthousesMJC.jpg){: .right}
-
 To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages were able to participate. Nonetheless, there was considerable variety in their experience. In East Kent hops were measured in 5 bushel baskets, taking up more or less space depending on how sharply the basket was jerked; in West Kent the hops were scooped out of bins and into the baskets, with the compression of each scoop determining the measure. 
 
 The autumn hop picking season also saw a culture clash between diverse groups of people as local farming communities were joined by ‘ladies’ picking for charity, gypsies and tramps, as well as the religious campaigners come to keep an eye on their morals. But of all these unlikely co-workers, the most visible were the Londoners who came for a ‘holiday’ or simply to escape from the slums for a few weeks and earn money in the process.  The sharp division between villagers and seasonal workers is apparent in both nineteenth and twentieth century accounts. Oral history suggests that at the turn of the century ‘If one word could be singled out to describe most effectively what the villagers thought of Londoners, it would be “dirty”’.  
 
-![Hops © Martin Crowther](/20c/images/Hops1MJC.jpg){: .right}
-
 With a characteristic splicing of verve and sharp observation, [Dickens](/dickens/dickens-biography) wrote in [_The Uncommercial Traveller_]( https://www.djo.org.uk/indexes/authors/charles-dickens/the-uncommercial-traveller.html) about the prevalence of casual labour in the countryside surrounding his home at [Gad’s Hill](/dickens/dickens-gads-hill):
 They crowd all the roads, and camp under all the hedges and on all the scraps of common-land, and live among and upon the hops until they are all picked, and the hop-gardens, so beautiful through the summer, look as if they had been laid waste by an invading army. Then, there is a vast exodus of tramps out of the country; and if you ride or drive round any turn of any road, at more than a foot pace, you will be bewildered to find that you have charged into the bosom of fifty families, and that there are splashing up all around you, in the utmost prodigality of confusion, bundles of bedding, babies, iron pots, and a good-humoured multitude of both sexes and all ages, equally divided between perspiration and intoxication. 
+
+![The Hop Farm © Martin Crowther](/20c/images/OasthousesMJC.jpg){: .right}
 
 On their ‘Canterbury Pilgrimage’ of 1885 American visitors Joseph Pennell and his wife, the writer Elizabeth Robins Pennell, came across:
 the large army of hop-pickers who, every autumn, come from London to make the Kentish roads unsafe after dark and the householder doubly watchful. Whitechapel and other low quarters are nearly emptied at this season. It is pleasant to know that at least once a year these people escape from their smoky, squalid streets, into green places where they can breathe pure air, but their coming is not welcomed in the country. 
