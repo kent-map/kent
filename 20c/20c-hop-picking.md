@@ -1,7 +1,7 @@
 
 ## Hop Picking and the Literary Imagination
 
-![The Hop Farm © Martin Crowther](/20c/images/Oasthouses.jpg){: .center}
+![The Hop Farm © Martin Crowther](/20c/images/OasthousesMJC.jpg){: .center}
 
 To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages were able to participate. Nonetheless, there was considerable variety in their experience. In East Kent hops were measured in 5 bushel baskets, taking up more or less space depending on how sharply the basket was jerked; in West Kent the hops were scooped out of bins and into the baskets, with the compression of each scoop determining the measure. 
 
@@ -13,7 +13,7 @@ They crowd all the roads, and camp under all the hedges and on all the scraps of
 On their ‘Canterbury Pilgrimage’ of 1885 American visitors Joseph Pennell and his wife, the writer Elizabeth Robins Pennell, came across:
 the large army of hop-pickers who, every autumn, come from London to make the Kentish roads unsafe after dark and the householder doubly watchful. Whitechapel and other low quarters are nearly emptied at this season. It is pleasant to know that at least once a year these people escape from their smoky, squalid streets, into green places where they can breathe pure air, but their coming is not welcomed in the country. 
 
-![Hops © Martin Crowther](/20c/images/Hop.jpg){: .right}
+![Hops © Martin Crowther](/20c/images/Hops1MJC.jpg){: .right}
 
 The presence of Londoners – or perhaps strangers in general -continued to be a source of tension in the early years of the twentieth century, as local author [Bessie Marchant](/19/19c-marchant-biography)’s 1904 _Yew Tree Farm_ makes clear. The story of three sisters who take up farming on their own account, the book is largely preoccupied crop and sheep management as well as the mechanics of negotiating prices at market. Hop picking appears only briefly, but tellingly the narrator the flags up a decided tension between local workers and those from further afield:
 
