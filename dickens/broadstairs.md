@@ -10,10 +10,7 @@
   The place seems to respond. Sky, sea, beach, and village, lie as still before us as if they were sitting for the picture. It is dead low-water. A ripple plays among the ripening corn upon the cliff, as if it were faintly trying from recollection to imitate the sea; and the world of butterflies hovering over the crop of radish-seed are as restless in their little way as the gulls are in their larger manner when the wind blows.’
 ‘Our Watering Place’. _Household Words_ 1851.
 
-<div align="center" style="float:left; margin: 0 24px 6px 0;">
-  <img src="images/Broadstairs from Bleak House.jpg" style="width:100%; max-width:600px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
-  <p style="padding-top:12px; font-size:1.2em;"><b>Early 20C postcard showing the view from Bleak House</b></p>
-</div>
+![Early 20C postcard showing the view from Bleak House](/20c/images/Broadstairs from Bleak House.jpg){: .right}
 
 Dickens was born in Portsmouth in 1812, before his father’s appointment to a post at the [Chatham](/dickens/dickens-chatham) Dockyard in 1816. While he spent most of his adult life in London, he was always drawn back to the coast, and in his many letters describing holidays in Kent with his growing family he is notably less interested in historic [Canterbury](/dickens/david-copperfield19c-canterbury) than in the sea, which he called ‘that old image of Eternity that I love so much’.[^ref1] Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’. [Broadstairs](/broadstairs-19th-century) is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words._](http://www.djo.org.uk/household-words/volume-iii/page-433.html) 
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
