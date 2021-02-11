@@ -22,9 +22,8 @@ Pamela Wynne died at her son’s house in Sissinghurst, on the other side of the
 **Article written by:** Carolyn Oulton
 
 ### Bibliography 
-'’Deaths'’. 18 March 1959. _The Times_. GALE   
-|CS202726514
-https://pamela-wynne.webs.com/biography.htm
+'’Deaths'’. 18 March 1959. _The Times_. GALE|CS202726514.   
+[Pamela Wynne, 20th Century Novelist](https://pamela-wynne.webs.com/biography.htm)   
 Wynne, Pamela. _Love in a Mist_. London: Philip Allen & Co., 1932
 
 
