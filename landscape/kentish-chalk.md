@@ -13,7 +13,7 @@ For those who know the chalk, this quotation from H E Bates, particularly the fi
 
 >Sometimes in winter, when the trees were thinned of leaves, the chimneys of empty houses, the mansions of the late gentry, rose starkly from behind deep thick beechwoods that were thrown like vast bearskins across the chalk. In summer the chalk flowered into a hill garden of wild yellow rock-rose, wild marjoram, and countless waving mauve scabious covered on hot afternoons with nervous darting butter-flies.
 
-The chalk dust permeates numerous literary landscapes, including those of Dickens, Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and Jocelyn Brooke.
+The chalk dust permeates numerous literary landscapes, including those of [Dickens](/dickens/dickens-biography), Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and Jocelyn Brooke.
 
 **Article written by:**  Prof Peter Vujakovic
 
