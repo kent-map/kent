@@ -20,3 +20,6 @@ The ‘amateur free and easy singing’ of the ‘after evening’ Mr Mount desc
 
 **Article Written by:** Dr Chris Price
 
+### Bibliography
+
+Goodban, T. (1818). _Goodban’s Game of Musical Characters_. GB-Lbl; 1042.e.25. 
