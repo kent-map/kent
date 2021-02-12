@@ -21,12 +21,6 @@ One of the most worldwide famous references to Canterbury on the mural are The C
 The character of Sherlock Holmes created by Sir Arthur Conan Doyle is connected to Canterbury in one story only - The Final Problem, which was published as a book in The Memoirs of Sherlock Holmes. The city is a backdrop to one scene only. Sherlock needed to travel to Switzerland to hide from his archenemy Professor Moriarty. He and Dr. Watson decided to take a train to Dover, unfortunately, Moriarty was on the very same train and therefore they got off in Canterbury to wait for another one.  The city does not seem to carry any significance in the story, but we can consider Doyle acknowledging Canterbury as the traditional link between London and the coast leading to the continental Europe. What we cannot deny, however, is Sherlock Holmes' substantial role as a representation of the English culture. Countless books, films, television programmes, attractions, even the signature tweeted coat, ʹdetectiveʹ hat and pipe still keep him alive, despite Doyle's decision to have Sherlock fall off a cliff in The Final Problem. In the late 1970s, even the Holmes-inspired literary tourism took off.  In this context, G. K. Chesterton notes that the popular fascination with Sherlock Holmes can lead to the future where some people genuinely believe that he was a real historical figure. Yet, David Hammer, an author of Sherlock-themed tours argues:
  ʹI never really believed that Holmes had lived. […] but I do believe that he was real; so real, in fact, that if he has not become a figure of history, he has of heritage, which surely constitutes a significant form of reality.ʹ 
 
-The main objective of this exhibition is to show how the artist uses the elements of local heritage in the design of the mural, to represent Canterbury to locals and tourists, and educate the audience further about the specific nature and literary references. As the target audience comprises of any age group and educational background, it is important that the exhibition catalogue uses the appropriate language that is understandable for all, yet still informative and built on scholarly resources. 
-The visual nature of the main object of the exhibit is a dominant strength, because it catches the attention and is simply interesting and engaging to look at. The layout of the exhibition mirrors the mural itself – the illustrations of Clematis, Rupert Bear, Copperfield, pilgrims and Sherlock lay on the virtual wall like they do on the walls of the bridge. And around them there are insects and silhouettes of children, adding dynamics and playfulness to the canvas. In a sense, it is an exhibition within an exhibition.
-
-The virtual nature of the exhibition adds to its accessibility, which is crucial as we have experienced in the past few months. The audience can visit the mural at their own leisure and their experience will be accompanied by a guide on their mobile devices.
-
- 
 ### Bibliography
 
 [“David Copperfield by Charles Dickens.”](http://www.literatureproject.com/david-copperfield/index.htm).   
@@ -37,11 +31,11 @@ Beck, J.,”Rupert Bear and the making of English Citizens.” New Review of Chi
 Bodenheimer, R., “Copperfield's Geographies.” Dickens Studies Annual  42 (2011): pp. 177-191.   
 Booth, A., “Time-Travel in Dickens' World.” In Literary Tourism and Nineteenth-Century Culture, ed. N. Watson, pp. 150-163. Pelgrave Macmillan UK, 2009.   
 Canterbury City Council Online Archived. “Museum of Canterbury with Rupert Bear Museum.” Available at: https://web.archive.org/web/20100323051120/http://www.canterbury.gov.uk/main.cfm?objectid=48 [last accessed: 15.11.2020].
-Canterbury Historical & Archaeological society. “Chaucer statue.” Available at: http://www.canterbury-archaeology.org.uk/chaucer-statue/4594466862 [last accessed: 15.11.2020].
-Canterbury Historical & Archaeological society. “Geoffrey Chaucer (1343-1400).” Available at: http://www.canterbury-archaeology.org.uk/chaucer/4590809466  [last accessed: 12.11.2020].
-Canterbury Historical & Archaeological society. “Mary Tourtel (1874-1948).” Available at: http://www.canterbury-archaeology.org.uk/tourtel/4590809564  [last accessed: 12.11.2020].
+Canterbury Historical & Archaeological society. [“Chaucer statue.”](http://www.canterbury-archaeology.org.uk/chaucer-statue/4594466862).
+Canterbury Historical & Archaeological society. [“Geoffrey Chaucer (1343-1400).”](http://www.canterbury-archaeology.org.uk/chaucer/4590809466).
+Canterbury Historical & Archaeological society. [“Mary Tourtel (1874-1948).”](http://www.canterbury-archaeology.org.uk/tourtel/4590809564).
 Canerbury Museums & Galleries. “Rupert Bear Centenary Celebration.” Available at: https://canterburymuseums.co.uk/events/rupert-bear-centenary-exhibition/ [last accessed: 12.11.2020].
-Curtis, C. C., “Powell and Pressburger's "A Canterbury Tale": New Pilgrims, Old Pilgrimage.” Literature/Film Quarterly, 36:1 (2008): pp. 68-77. 
+Curtis, C. C., “Powell and Pressburger's "A Canterbury Tale": New Pilgrims, Old Pilgrimage.” _Literature/Film Quarterly_, 36:1 (2008): pp. 68-77. 
 Hewison,  R., The Heritage Industry: Britain in a Climate of Decline (London: Methuen, 1987).
 Lyle, M., Book of Canterbury (Batsford: English Heritage, 1994).
 McLaughlin, D., “Holmes as heritage: readers, tourism and the making of Sherlock Holmes’s England.” In Creating Heritage For Tourism,  ed. C. Palmer and J. Tivers,  pp. 89-100. Online version pp. 1-18. London: Routledge, 2018. Available at: https://rb.gy/gcqumc  [last accessed: 12.11.2020].
