@@ -110,6 +110,13 @@ Carla Danella has a BA from Wellesley College (in the US) and recently completed
 Laurie Duggan was born in Melbourne and was involved in the poetry worlds of that city and Sydney through the 1970s and 80s. In 2006 he moved to England, living in Faversham, Kent until 2018 when he returned to Sydney.  His most recent books are Homer Street (Giramondo 2020), Selected Poems 1971-2017 (Shearsman 2018), No Particular Place To Go (Shearsman 2017).
 
 ##
+**Michaael Goodrum**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/goodrum.jpg)
+
+Michael Goodrum is a Senior Lecturer in Modern History at CCCU. His most recent book is Printing Terror (Manchester UP, 2021), co-authored with Philip Smith. His research interests include comics, superheroes, Cold War science fiction and horror, and the work of Capt. W.E. Johns.
+
+##
 **Diana Hirst**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/dianahirst.jpg)
