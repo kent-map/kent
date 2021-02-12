@@ -39,6 +39,12 @@ Thomas Goodban was not the only important character in Canterbury’s musical hi
 
 **Article written by:** Dr Chris Price
 
+### Bibliography
+
+Goodban, T. (1818). _Goodban’s Game of Musical Characters_. GB-Lbl; 1042.e.25. 
+
+### References
+
  [^ref1]: _Kentish Gazette_, pp. 25 November 1834, 3.   
  [^ref2]: Goodban, 1818, pp. Preface, ii–iii.   
  [^ref3]: KG; ‘__Kentish Gazette__ template’ __Kentish Gazette__, pp. 9 December 1845, 2.   
