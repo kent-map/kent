@@ -33,3 +33,10 @@ The improvement in travelling comfort in the first three or four decades of the 
 For much more prosaic reasons, [Canterbury's musicians](/19c/19c-music-canterbury) would certainly have appreciated the improvement in travelling conditions.
 
 **Article written by:** Dr Chris Price
+
+ [^ref1]: Baring-Gould, 1890, 210.   
+ [^ref2]: Baring-Gould, 1890, 202–212.   
+ [^ref3]: Baring-Gould, 1890, 217–8.   
+ [^ref4]: Baring-Gould, 1890, 212.  
+ [^ref5]:	__Kentish Gazette__, 6 May 1834, p. 3.   
+
