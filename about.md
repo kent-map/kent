@@ -112,7 +112,7 @@ Laurie Duggan was born in Melbourne and was involved in the poetry worlds of tha
 ##
 **Michaael Goodrum**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/goodrum.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/goodrum.JPG)
 
 Michael Goodrum is a Senior Lecturer in Modern History at CCCU. His most recent book is Printing Terror (Manchester UP, 2021), co-authored with Philip Smith. His research interests include comics, superheroes, Cold War science fiction and horror, and the work of Capt. W.E. Johns.
 
