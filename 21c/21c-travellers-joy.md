@@ -13,9 +13,6 @@ The local audience would certainly agree that the mural showcases their heritage
 **Clematis vitalba**
 The plant Clematis vitalba is one of the Kent’s five native woody climbers.  It has liana-like stems and prefers alkaline soils characteristic of the chalk hills of the Kent region. It is often found on fences, walls and hedgerows, and as a 'classic railway plant' it naturally covers large areas around the mural.  It might very well be this association with travelling and reaching a destination that dubbed the plant traveller’s joy. Or maybe we can imagine the joy of our ancestors who travelled through the wilderness, reaching a town with man-built walls covered in this plant. In the painting, Clematis is depicted in its seasonal forms. The winter form of the plant has clustered elongated seedpods covered in white fuzz which gave Clematis its other nickname – old man’s beard. There is not much known about the plant’s significance in history of the region, but it was used in traditional recipes to treat skin irritation and stress. The woody stems could also be used to make baskets. Clematis attracts a green moth Hemistola chrysoprasaria, which became a part of Canterbury’s green heritage and is referenced in the mural too. 
 
-**Sherlock Holmes & Dr. Watson**
-The character of Sherlock Holmes created by Sir Arthur Conan Doyle is connected to Canterbury in one story only - The Final Problem, which was published as a book in The Memoirs of Sherlock Holmes. The city is a backdrop to one scene only. Sherlock needed to travel to Switzerland to hide from his archenemy Professor Moriarty. He and Dr. Watson decided to take a train to Dover, unfortunately, Moriarty was on the very same train and therefore they got off in Canterbury to wait for another one.  The city does not seem to carry any significance in the story, but we can consider Doyle acknowledging Canterbury as the traditional link between London and the coast leading to the continental Europe. What we cannot deny, however, is Sherlock Holmes' substantial role as a representation of the English culture. Countless books, films, television programmes, attractions, even the signature tweeted coat, ʹdetectiveʹ hat and pipe still keep him alive, despite Doyle's decision to have Sherlock fall off a cliff in The Final Problem. In the late 1970s, even the Holmes-inspired literary tourism took off.  In this context, G. K. Chesterton notes that the popular fascination with Sherlock Holmes can lead to the future where some people genuinely believe that he was a real historical figure. Yet, David Hammer, an author of Sherlock-themed tours argues:
- ʹI never really believed that Holmes had lived. […] but I do believe that he was real; so real, in fact, that if he has not become a figure of history, he has of heritage, which surely constitutes a significant form of reality.ʹ 
 
 ### Bibliography
 
@@ -49,14 +46,7 @@ Visual material:
 David Copperfield in Canterbury painting:
 Reynolds, F., David reaches Canterbury. In Ch. Dickens The Personal History of David Copperfield (Toronto: Musson Book Co., 1910?) pp. 160-161. Available at: https://archive.org/details/personalhistoryo00dickuoft/page/184/mode/2up [last accessed: 15.11.2020].
 
-First edition of The Memoirs of Sherlock Holmes by Sir A. Conan Doyle:
-Raptis Rare Books.”The Memoirs of Sherlock Holmes.” Available at: https://www.raptisrarebooks.com/product/the-memoirs-of-sherlock-holmes-arthur-conan-doyle-first-edition-rare/ [last accessed: 12.11.2020].
 
-Geoffrey Chaucer in an illuminated manuscript:
-Canterbury Historical & Archaeological society. “Geoffrey Chaucer (1343-1400).” Available at: http://www.canterbury-archaeology.org.uk/chaucer/4590809466  [last accessed: 12.11.2020].
-
-Rupert Bear illustration by Mary Tourtel: 
-Canterbury Historical & Archaeological society. “Mary Tourtel (1874-1948).” Available at: http://www.canterbury-archaeology.org.uk/tourtel/4590809564  [last accessed: 12.11.2020].
 
 The Video:
 Karaskova, M., Piesova, S. Traveller's Joy Design - Love Where We Live Project. 11.6.2018. https://vimeo.com/274518215.
