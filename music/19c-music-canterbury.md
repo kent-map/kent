@@ -18,6 +18,13 @@ The second point relates to the first: these clubs' popularity may be due in no 
 
 The ‘amateur free and easy singing’ of the ‘after evening’ Mr Mount describes probably included more comic songs from the leading lights of the club’s entertainment roster, but it is utterly beyond question that most of the music being enjoyed in these fiercely convivial evenings was the quintessentially participatory genre, the [catch](19c-catch-music). 
 
+Notwithstanding all the comings and goings around the city in this period of about a century, the most important road for serious musicians was probably the one between [Canterbury and London](/dickens/david-copperfield-curated-walk). There are two main sources of evidence for this.
+The first is the enormous number of newspaper reports of convivial evenings which featured visiting performers from the capital. Indeed, this became a bone of contention for the [Canterbury Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) in the latter part of the nineteenth century, as they committed hefty chunks of members’ subscriptions to this aspect of the Club’s evenings. The Minutes for 12 March 1860 record:
+
+>A ‘star’ to be engaged for the last but one night of the season; carried. Proposal that the cost should not exceed £6.6.0. was put; amendment that it should not exceed £5.5.0 was carried.
+
+That would be about £500 in present-day value. It’s worth noting that the Mr. Macknay noted above had been paid the same amount in 1855. Given the Club’s declining membership, this was unsustainable. We have no way of knowing what most of the visitors charged for their appearances, but a safe bet is that one of the greatest musicians of the early nineteenth century would have charged a lot more for his appearance in 1834.
+
 **Article Written by:** Dr Chris Price
 
 ### Bibliography
