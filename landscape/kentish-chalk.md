@@ -3,7 +3,7 @@
 >Ah, God! One sniff of England — / To greet our flesh and blood — / To hear the traffic slurring / Once more through London mud! / Our towns of wasted honour — / Our streets of lost delight! / How stands the old Lord Warden? / Are Dover's cliffs still white?
 ‘The Broken Men’, Rudyard Kipling (1901)
 
-The magnificent Lord Warden Hotel (now offices) was one of the first sights to greet people landing at Dover’s Admiralty Pier. It stood close by Shakespeare’s Cliff (named for a scene in _King Lear_) and had clear views of the iconic white cliffs and castle to the north. Literary guests included [Dickens]( /dickens/dickens-biography), Thackeray, George Elliot, and M.R. James (born at nearby Goodnestone). 
+The magnificent Lord Warden Hotel (now offices) was one of the first sights to greet people landing at Dover’s Admiralty Pier. It stood close by Shakespeare’s Cliff (named for a scene in _King Lear_) and had clear views of the iconic white cliffs and castle to the north. Literary guests included [Dickens]( /dickens/dickens-biography), Thackeray, George Eliot, and M.R. James (born at nearby Goodnestone). 
 
 In his classic essay ‘On a Piece of Chalk’ (_Macmillan's Magazine_, 1868) Darwin’s ‘Bulldog’ Thomas Huxley observed ‘… on the shores of Kent it supplies that long line of white cliffs to which England owes her name of Albion.’ Huxley relates the story of the chalk’s formation and its geological importance in what is one of the most inspiring scientific essays ever written, originally given as a lecture (1868) to the working men of Norwich.
 
@@ -13,7 +13,7 @@ For those who know the chalk, this quotation from H E Bates, particularly the fi
 
 >Sometimes in winter, when the trees were thinned of leaves, the chimneys of empty houses, the mansions of the late gentry, rose starkly from behind deep thick beechwoods that were thrown like vast bearskins across the chalk. In summer the chalk flowered into a hill garden of wild yellow rock-rose, wild marjoram, and countless waving mauve scabious covered on hot afternoons with nervous darting butter-flies.
 
-The chalk dust permeates numerous literary landscapes, including those of Dickens, Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and Jocelyn Brooke.
+The chalk dust permeates numerous literary landscapes, including those of [Dickens](/dickens/dickens-biography), Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and Jocelyn Brooke.
 
 **Article written by:**  Prof Peter Vujakovic
 
