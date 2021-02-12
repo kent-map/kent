@@ -14,5 +14,13 @@ Almost all of these men were active members of the Catch Club, singing and/or pl
 
 **Article written by:** Dr Chris Price
 
+### Bibliography
+
+Jackson, W. (1795). On Catches. In Letters on Various Subjects (3 ed., pp. 61-71). London: T. Cadell, Jun., and W. Davies. 
+(1863). Obituary, Thomas Goodban. The Musical Times and Singing Class Circular, 11(244), 70-71. Retrieved from http://www.jstor.org/stable/3352133
+Scholes, P. (1920). The[Canterbury Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s). The Music Student, XII(8), 468-469. 
+
+
+
 [^ref1]: _Dean’s Book_. GB-CA; CCA-DCc-DB/8, p. 37
 
