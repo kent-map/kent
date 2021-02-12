@@ -41,7 +41,8 @@ Thomas Goodban was not the only important character in Canterbury’s musical hi
 
 ### Bibliography
 
-Goodban, T. (1818). _Goodban’s Game of Musical Characters_. GB-Lbl; 1042.e.25. 
+Goodban, T. (1818). _Goodban’s Game of Musical Characters_. GB-Lbl; 1042.e.25.   
+(1863). Obituary, Thomas Goodban. _The Musical Times and Singing Class Circular_, 11(244), 70-71. Retrieved from http://www.jstor.org/stable/3352133   
 
 ### References
 
