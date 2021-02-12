@@ -59,7 +59,7 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 
 - twitter: @SophieBaldock
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/sophiebaldock.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/upsidedownsophiebaldock.jpg)
 
 Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive, one of the first hybrid (part-paper, part-digital) literary archives acquired by the Library. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). She grew up in Kent, and in the summer enjoys swimming in the sea along the east Kent coast.  
 
@@ -87,15 +87,6 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 Susan is Senior Lecturer in Romanticism at Canterbury Christ Church University.  Her research focuses on women’s writing of the long nineteenth century, life writing, and authorial and textual afterlives.  Her monograph, _Romantic Women's Life Writing: Reputation and Afterlife_ (Manchester University Press, 2019), explored how the publication of women’s ‘private’ lives, through diaries, auto/biographies, letters, and memoirs, influenced their literary afterlives.
 
 ##
-**Kaitlyn Cowling**
-
-- twitter: @KaitlynMCowling
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/kaitlyncowling.jpg)
-
-Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from Canterbury Christ Church University. In 2019, Kaitlyn co-wrote a 'Murder Mystery Trail' event for the Being Human Festival. She has lived in Kent her whole life.
-
-##
 **Carla Danella**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/carla.JPG)
@@ -108,6 +99,13 @@ Carla Danella has a BA from Wellesley College (in the US) and recently completed
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/duggan.jpg)
 
 Laurie Duggan was born in Melbourne and was involved in the poetry worlds of that city and Sydney through the 1970s and 80s. In 2006 he moved to England, living in Faversham, Kent until 2018 when he returned to Sydney.  His most recent books are Homer Street (Giramondo 2020), Selected Poems 1971-2017 (Shearsman 2018), No Particular Place To Go (Shearsman 2017).
+
+##
+**Michaael Goodrum**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/goodrum.JPG)
+
+Michael Goodrum is a Senior Lecturer in Modern History at CCCU. His most recent book is Printing Terror (Manchester UP, 2021), co-authored with Philip Smith. His research interests include comics, superheroes, Cold War science fiction and horror, and the work of Capt. W.E. Johns.
 
 ##
 **Diana Hirst**
@@ -259,6 +257,15 @@ Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History 
 Charlotte Worthington is currently a third-year history and French undergraduate, with the intention to go into translation. She was born in the UK but lived in the Lot in the south of France from the age of 11. A keen interest in literature has led her to do her work experience for one of the third-year French modules with the Kent Digital Map project.
 
 # Design Team
+
+##
+**Kaitlyn Cowling**
+
+- twitter: @KaitlynMCowling
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/kaitlyncowling.jpg)
+
+Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from Canterbury Christ Church University. In 2019, Kaitlyn co-wrote a 'Murder Mystery Trail' event for the Being Human Festival. She has lived in Kent her whole life.
 
 ##
 **Heather Murdoch**
