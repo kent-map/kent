@@ -1,18 +1,13 @@
 ## Thomas Goodban (1784-1863)
-Thomas Goodban (1784–1863), the long-standing conductor of the [Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) Orchestra, was an entrepreneurial force in the club. In 1833, he advertised ‘Subscription Concerts’ – four per season, from December through to March, at a guinea for the lot (for which two tickets of admission per concert are purchased). The one in November 1834 is the most eye-catching, for it features Henry Rowley Bishop, one of the most significant musical personalities of the day – and his wife:
-  
-Figure 7: Newspaper advertisement for Goodban’s Subscription Concert, 17 November 1834 
 
-The programme looks very much like a Catch Club evening, each half starting with an overture with another as the finale and including songs and arias from the distinguished soloist (Mrs Bishop) and glees. Robert Nicolas-Charles Bochsa’s appearance as soloist, performing his own Grand Fantasia and Panorama Musicale should not be ignored; he would have been a big draw. It is a remarkable musical offering, and attracted ‘nearly 350 of the neighbouring and resident gentry,’ according to the local paper.  These concerts ran as a small series each year, apparently quite successfully, until 1838, after which Charles Goodban (Thomas’ son) is credited with their organisation for a few years more. It has to be said, though, that this was a cracking start to the project.
-The second witness to the musical traffic between London and Canterbury is another source important to musicologists: printed publications, and the subscription lists therein.
-Publications, and subscription lists 
-Composers and teachers were as keen then as they are now to broadcast their productions in the most efficient manner possible. 
-The most striking of Thomas Goodban’s published output dates from 1818: Goodban’s Game of Musical Characters is a musical game, played with a teetotum—a dice on a spindle—and counters on a most elaborate board measuring 531mm x 399mm. It is reproduced as Figure 8. To modern eyes, it’s a daunting conflation of Snakes and Ladders™ and the Associated Board Theory exams, with a system of randomly awarded fines and rewards to tempt—or goad—the young musician on. Goodban’s Preface shows an awareness of musical pedagogy which arguably puts him some way ahead of his time: without compromising on the need to understand the semiotics of musical notation, he is responding to a keenly observed appreciation of its challenges:
+Thomas Goodban (1784–1863), the long-standing conductor of the [Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) Orchestra, was an entrepreneurial force in the club. In 1833, he advertised ‘Subscription Concerts’ – four per season, from December through to March, at a guinea for the lot (for which two tickets of admission per concert are purchased). The one in November 1834 is the most eye-catching, for it features Henry Rowley Bishop, one of the most significant musical personalities of the day – and his wife.
+
+The programme looks very much like a Catch Club evening, each half starting with an overture with another as the finale and including songs and arias from the distinguished soloist (Mrs Bishop) and glees. Robert Nicolas-Charles Bochsa’s appearance as soloist, performing his own Grand Fantasia and Panorama Musicale should not be ignored; he would have been a big draw. It is a remarkable musical offering, and attracted ‘nearly 350 of the neighbouring and resident gentry,’ according to the local paper.[^ref1]  These concerts ran as a small series each year, apparently quite successfully, until 1838, after which Charles Goodban (Thomas’ son) is credited with their organisation for a few years more. It has to be said, though, that this was a cracking start to the project.
+
+Composers and teachers were as keen then as they are now to broadcast their productions in the most efficient manner possible. The most striking of Thomas Goodban’s published output dates from 1818: Goodban’s _Game of Musical Characters_ is a musical game, played with a teetotum—a dice on a spindle—and counters on a most elaborate board measuring 531mm x 399mm. To modern eyes, it’s a daunting conflation of Snakes and Ladders™ and the Associated Board Theory exams, with a system of randomly awarded fines and rewards to tempt—or goad—the young musician on. Goodban’s Preface shows an awareness of musical pedagogy which arguably puts him some way ahead of his time: without compromising on the need to understand the semiotics of musical notation, he is responding to a keenly observed appreciation of its challenges:
 
 >As the difficulties of adapting a species of entertainment for such a purpose, suited to the capacities and dispositions of all classes, have been anticipated, no pains or exertions have consequently been spared in the arrangement and formation of the game, to combine an amusement with instruction, in the use and application of it; and by the assistance which it is intended to enable learners, imperceptibly, as it were, to afford to each other—to create a spirit of emulation amongst them, without injuring their morals. 
  
-Figure 8: Goodban’s Game of Musical Characters CCA-U85/38/13; reproduced courtesy of the Chapter of Canterbury
-
 It is an attractive product: musical signs and symbols adorn the border, and a couple of merry little rhymes brighten the players’ progress down the board, such as:
 
 >If Praise you seek, take care of Time   
@@ -41,3 +36,13 @@ In between the Game and the Cards, as the _Musical Times_ records, Goodban had b
 All these creations were published in London: the Game by Goulding, D’Almaine, Potter, & Co. of 20, Soho Square; the Cards by Simpkin, Marshall and Co., Stationers Court and J. A. Novello, Dean Street, Soho and 24, Poultry; the Violin Tutor by Preston ‘at his Wholesale Warehouses, 97, Strand’; and the Piano Tutor by Coventry and Hollier, 71, Dean Street, Soho. Such an imprimatur would have ensured a distribution well beyond the city of Canterbury.
 
 Thomas Goodban was not the only important character in Canterbury’s musical history. Another was [William Henry Longhurst](19c-william-longhurst-biography) (1819–1904).
+
+**Article written by:** Dr Chris Price
+
+ [^ref1]: _Kentish Gazette_, pp. 25 November 1834, 3.   
+ [^ref2]: Goodban, 1818, pp. Preface, ii–iii.   
+ [^ref3]: KG; ‘__Kentish Gazette__ template’ __Kentish Gazette__, pp. 9 December 1845, 2.   
+ [^ref4]: Ibid.   
+ [^ref5]: Obituary, Thomas Goodban. The Musical Times and Singing Class Circular (1 June 1863), 11 (244).   
+ [^ref6]: KG; ‘__Kentish Gazette__ template’ __Kentish Gazette__, pp. 6 October 1840, 3.   
+
