@@ -2,7 +2,7 @@
 
 A glance through the pages of a local paper at any point in the eighteenth and nineteenth centuries will furnish ample evidence of lively entertainment on offer, at least to those who could afford it and could gain access to the environments in which it took place. _Stapleton's Directory of 1838_ lists two venues (the Assembly Rooms and a theatre) and two musical clubs, but this hardly does justice to the vitality of the cultural production and consumption at the time: newspaper reports testify on a weekly basis to the earnest pursuit of musical entertainment. The following news report is typical in its somewhat formulaic celebration, although the reporting of a newly invented instrument is exceptional; it is to be regretted that nothing more is known of the flautocufolicon. 
 
->On Wednesday evening the Canterbury Catch Club concert, under the direction of Mr Thomas Goodban, was exceedingly entertaining. The overtures were performed with much spirit, and the glees and songs elicited unbounded applause, particularly the inspiring song of ‘Blue Bonnets over the Border’ by Mr Beckwith, which was encored. In the course of the evening Mr Longhurst introduced a new instrument of his invention, which is a species of organ, and is an admirable accompaniment to that instrument and the pianoforte, and from its soft and melodious tones, we doubt not will soon become indispensable in every music room. It is termed the ‘Flautocufolicon’, and can be made to any size at a very moderate expense. The room was crowded, and the evening passed off with great eclat. 
+>On Wednesday evening the Canterbury Catch Club concert, under the direction of Mr Thomas Goodban, was exceedingly entertaining. The overtures were performed with much spirit, and the glees and songs elicited unbounded applause, particularly the inspiring song of ‘Blue Bonnets over the Border’ by Mr Beckwith, which was encored. In the course of the evening Mr Longhurst introduced a new instrument of his invention, which is a species of organ, and is an admirable accompaniment to that instrument and the pianoforte, and from its soft and melodious tones, we doubt not will soon become indispensable in every music room. It is termed the ‘Flautocufolicon’, and can be made to any size at a very moderate expense. The room was crowded, and the evening passed off with great eclat.[^ref1] 
 
 Founded in 1779 – of which it was very proud – and very self-consciously modelled on the grandfather of all such clubs, the London Nobleman and Gentlemen’s Catch (founded 1661), the [Canterbury Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) met every Wednesday evening throughout the winter season, from late September to March/April. In 1833, it seems, a friendly rival was set up: the Apollonian Glee Club met on Fridays. Which means that at this point in [Canterbury](/19c/19c-Canterbury) cultural history, the city's bourgeoisie could enjoy two weekly concerts of vocal and instrumental music which catered to an eclectic taste, throughout the winter months: records survive, showing a full evening's programme consisting of solo songs, glees, and instrumental music: overtures from the very latest operas of the day or, later in the nineteenth century, dance forms such as quadrilles and polkas. This is a level of cultural production and consumption which would be far beyond the wildest dreams of present-day arts organisers.
 
@@ -18,5 +18,19 @@ The second point relates to the first: these clubs' popularity may be due in no 
 
 The ‘amateur free and easy singing’ of the ‘after evening’ Mr Mount describes probably included more comic songs from the leading lights of the club’s entertainment roster, but it is utterly beyond question that most of the music being enjoyed in these fiercely convivial evenings was the quintessentially participatory genre, the [catch](19c-catch-music). 
 
+Notwithstanding all the comings and goings around the city in this period of about a century, the most important road for serious musicians was probably the one between [Canterbury and London](/dickens/david-copperfield-curated-walk). There are two main sources of evidence for this.
+The first is the enormous number of newspaper reports of convivial evenings which featured visiting performers from the capital. Indeed, this became a bone of contention for the [Canterbury Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) in the latter part of the nineteenth century, as they committed hefty chunks of members’ subscriptions to this aspect of the Club’s evenings. The Minutes for 12 March 1860 record:
+
+>A ‘star’ to be engaged for the last but one night of the season; carried. Proposal that the cost should not exceed £6.6.0. was put; amendment that it should not exceed £5.5.0 was carried.
+
+That would be about £500 in present-day value. It’s worth noting that the Mr. Macknay noted above had been paid the same amount in 1855. Given the Club’s declining membership, this was unsustainable. We have no way of knowing what most of the visitors charged for their appearances, but a safe bet is that one of the greatest musicians of the early nineteenth century would have charged a lot more for his appearance in 1834.
+
 **Article Written by:** Dr Chris Price
 
+### Bibliography
+
+Goodban, T. (1818). _Goodban’s Game of Musical Characters_. GB-Lbl; 1042.e.25. 
+
+### References
+
+[^ref1]: _Kentish Chronicle_, 17 November 1826, p. 4

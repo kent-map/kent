@@ -6,3 +6,6 @@ So a Catch Club evening was probably worth an hour or so in a bumpy coach, with 
 
 **Article written by:** Dr Chris Price
 
+### Bibliography
+
+Scholes, P. (1920). 'The Canterbury Catch Club'. _The Music Student_, XII(8), 468-469.  
