@@ -6,7 +6,7 @@
 #
 
 ##
-**[Music]**
+**Music**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_3010.JPG)
 
@@ -15,7 +15,7 @@
 [Catch Club](19c-catch-club)
 
 ##
-**[Musicians](/landscape/scapes-and-fringes)**
+**Musicians**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/HopbinMJC.jpg)
 
@@ -26,7 +26,7 @@
 [James Shoubridge](19c-james-shoubridge)  
 
 ##
-**[Place](/landscape/kentish-chalk)**
+**Place**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2985.JPG)
 
