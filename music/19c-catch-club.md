@@ -8,4 +8,4 @@ So a Catch Club evening was probably worth an hour or so in a bumpy coach, with 
 
 ### Bibliography
 
-Scholes, P. (1920). The[Canterbury Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s). The Music Student, XII(8), 468-469.  
+Scholes, P. (1920). 'The Canterbury Catch Club'. _The Music Student_, XII(8), 468-469.  
