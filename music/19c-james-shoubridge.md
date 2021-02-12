@@ -22,10 +22,10 @@ In another most serendipitous touch, James Shoubridge was replaced as Lay Clerk 
 
 **Article written by:** Dr Chris Price
 
-[^ref1]: _Dean’s Book_. GB-CA; CCA-DCc-DB/8, p. 111
-[^ref2]: Ibid., p. 238
-[^ref3]: _Precentor’s Book_. GB-CA; CCA-DCc-PB/7, p. inside front cover
-[^ref4]: KG; ‘__Kentish Gazette__ template’ __Kentish Gazette__, pp. 11 March 1834, 3
-[^ref5]: _Kentish Gazette_, pp. 3 March 1857, 4.  
-[^ref6]: _Precentor’s Book_. GB-CA; CCA-DCc-PB/7, p. inside front cover.  
+[^ref1]: _Dean’s Book_. GB-CA; CCA-DCc-DB/8, p. 111.   
+[^ref2]: Ibid., p. 238.   
+[^ref3]: _Precentor’s Book_. GB-CA; CCA-DCc-PB/7, p. inside front cover.   
+[^ref4]: KG; ‘__Kentish Gazette__ template’ _Kentish Gazette_, pp. 11 March 1834, 3.   
+[^ref5]: _Kentish Gazette_, pp. 3 March 1857, 4.   
+[^ref6]: _Precentor’s Book_. GB-CA; CCA-DCc-PB/7, p. inside front cover.   
 
