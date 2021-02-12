@@ -11,7 +11,7 @@ HAYDN’S CREATION, &c., &c., will be given by upwards of SEVENTY VOCAL and
 INSTRUMENTAL PERFORMERS,   
 On Monday evening, November 24, 1834.   
 
-The list of vocal soloists is practically identical to that of the Lay Clerks in that year: Longhurst, Eastes, Young, James Shoubridge and his brother William, William Palmer and Dobson. But Shoubridge conducts, and seems to be at the helm of the society for the rest of his time in Canterbury.
+The list of vocal soloists is practically identical to that of the Lay Clerks in that year: [Longhurst](/19c/19c-william-longhurst-biography), Eastes, Young, James Shoubridge and his brother William, William Palmer and [Dobson](/19c/19c-charles-dobson-biography). But Shoubridge conducts, and seems to be at the helm of the society for the rest of his time in Canterbury.
 This society seems to have outlasted Shoubridge by nearly twenty years, if the paper is accurate in its 1857 report that:
 
 >‘The Canterbury Sacred Harmonic Society, newly constituted as the ‘Glee and Madrigal Society,’ gave a performance on Tuesday evening at the Music Hall. To diversify the programme, Mr Macknay, the noted comic singer, was engaged; the band of the 79th Highlanders also assisted, and these varied entertainment attracted a large audience. […] Mr Lyon [Charles Lyon, another Lay Clerk] conducted on the occasion.’  
