@@ -23,6 +23,15 @@ As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells mov
 The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval dockyards, with its prime location and key participation in the industrial revolution.
 
 ##
+**[Richborough: The Secret Port](/20c/20c-richborough)
+
+- author: Martin Watts
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/thumbnail_Richborough Ferry 1916-19 PC19-077.jpg)
+
+Built in secret, the old Roman port of Richborough, was chosen for redevelopment during the first world war to supply the army for its 'last stand'.
+
+##
 **[Sir John Franklin](/19c/19c-franklin-biography)**
 
 - author: Jacquie Stamp
