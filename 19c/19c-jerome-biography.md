@@ -2,7 +2,7 @@
 
 # Jerome K. Jerome (1859-1927)
 
->*Place:* [Folkestone](19c-folkestone)
+>*Place:* [Folkestone](/19c/19c-folkestone)
 
 
 >“You’ll find when you get home,” I said, “she has thought of one other thing.”  
@@ -18,7 +18,7 @@
 
 ![By National Media Museum from UK - Jerome K. Jerome. Uploaded by mrjohncummings, No restrictions](images/Jerome_K._Jerome.jpg){: .right}
 
-Recalling their holiday in [Folkestone](19c-folkestone) in the summer of 1890, the writer [Robert Barr](/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around’
+Recalling their holiday in [Folkestone](/19c/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around’
 
 _Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited for a bicycling holiday in the Black Forest, the price they pay being their wives’ demand for various home improvements and a female-only holiday in [Folkestone](/19c/19c-folkestone).
 
@@ -44,4 +44,4 @@ By the end of it the hapless owner has lost all hope, and admits to the reader t
 
 Oulton, C. (2012) [Below the fairy city: a life of Jerome K. Jerome](https://www.victoriansecrets.co.uk/book/below-the-fairy-city-a-life-of-jerome-k-jerome/) Victorian Secrets.
 
-Sharp, Luke [Robert Barr](19c-barr-biography). ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.
+Sharp, Luke [Robert Barr](/19c/19c-barr-biography). ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.

@@ -37,7 +37,7 @@ Jane Austen regularly visited Chilham Castle to attend dinner parties and evenin
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
 
 Austen stayed with her brother Edward Austen Knight at Godmersham Park six times between 1798 and 1813. During these visits she enjoyed seeing her family, taking day trips to a variety of Kent destinations, and making the most of his lavish library.
 
