@@ -23,6 +23,15 @@ As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells mov
 The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval dockyards, with its prime location and key participation in the industrial revolution.
 
 ##
+**[Richborough: The Secret Port](/20c/20c-richborough)
+
+- author: Martin Watts
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/thumbnail_Richborough Ferry 1916-19 PC19-077.jpg)
+
+Built in secret, the old Roman port of Richborough, was chosen for redevelopment during the first world war to supply the army for its 'last stand'.
+
+##
 **[Sir John Franklin](/19c/19c-franklin-biography)**
 
 - author: Jacquie Stamp
@@ -30,3 +39,12 @@ The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/erebus.jpg)
 
 On the 19 May 1845 H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north", and to circumnavigate America.
+
+##
+**[The Shivering Sands](/20c/20c-holt-biography/)**
+
+- author Mandy Jones
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/The Goodwin Sands img-019.jpg)
+
+The Goodwin Sands provide an atmospheric backdrop to this shocking tale of crime, mystery and romance written by Victoria Holt and published in 1969.
