@@ -1,6 +1,6 @@
 <param ve-config 
        title="16th Century Kent"
-       banner="main/images/banner/16c.png"
+       banner="main/images/banner/16c.jpg"
        layout="index">
 
 #
@@ -10,6 +10,6 @@
 
 - author: Marnie Stanley
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/Ardenhouse.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/16c/images/thumbnails/Ardenhouse.jpg)
 
 On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn.
