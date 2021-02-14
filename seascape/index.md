@@ -1,6 +1,6 @@
 <param ve-config 
        title="Seascapes"
-       banner="20c/images/OasthousesMJC.jpg"
+       banner="images/Hay barges banner.jpg"
        layout="index">
 
 #
