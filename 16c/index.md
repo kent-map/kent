@@ -1,15 +1,15 @@
-<style>
-    .clearfix::after {content: ""; clear: both; display: table;}
-    .thumb {float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:150px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa; margin-bottom: 24px;}
-    p {font-size: 1.5rem;}
-    a {color: #800000 !important; font-size: 1.2em;}
-</style>
+<param ve-config 
+       title="16th Century Kent"
+       banner="main/images/banner/16c.png"
+       layout="index">
 
-<param ve-config title="16th Century Kent">
+#
 
-### People
+##
+**[Arden of Faversham](16c-arden-faversham)**
 
-[Arden of Faversham](16c-arden-faversham)  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2MTcwNTUyXX0=
--->
+- author: Marnie Stanley
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/Ardenhouse.jpg)
+
+On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn.
