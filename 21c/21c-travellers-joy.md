@@ -2,7 +2,7 @@
 
 **Exhibition**
 
-![Chaucer's Pilgrims by Gloria Treseder](/21c/images/pilgrimsMJC.jpg){: .right}
+![Chaucer's Pilgrims by Gloria Treseder](images/PigrimsMJC.jpg){: .right}
 
 When walking around the city of Canterbury, one quickly notices the amount of representation and references of the city’s rich cultural heritage. Promotional photos on shop windows, celebratory paintings in underpasses, an antiquarian bookshop named after [Geoffrey Chaucer](/14c/14c-chaucer-biography), and even a fish and chip shop called _The Canterbury Tales_. Murals are particularly popular, in the first thought to tackle the illegal graffiti, in the second to give a new look to some of the grimmer spots in the city. Their design refers to Canterbury’s past, architecture, and historical figures, which is not surprising as the last thirty years have seen a growing enthusiasm of the wider public for local and national history.  And as Robert Hewison claims: ʹthe impulse to preserve the past is part of the impulse to preserve the self.ʹ[^ref1] 
 
