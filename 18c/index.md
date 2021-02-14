@@ -10,7 +10,7 @@
 
 - author: Martin Watts
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/18c/images/Bloodycode.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/18c/images/1U8A1283-01.jpeg)
 
 The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
 
