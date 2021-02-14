@@ -14,7 +14,7 @@ In 2018 the Canterbury City Council commissioned a new mural to cover pillars of
 
 Treseder draws the inspiration for her art from nature so the central element of the mural is a plant Clematis vitalba, also called traveller’s joy, which gave its name to the mural. Its leaves and vines lead the eye to the references from literature – [Rupert Bear](20c-tourtel-biography), [David Copperfield](/dickens/david-copperfield-curated-walk/), the pilgrims from [Chaucer](/14c/14c-chaucer-biography)'s  _The Canterbury Tales_ and finally Sherlock Holmes with Dr. Watson. Painted around them are various insects like the native English bee or the English ladybird, and silhouettes of children representing joy and playfulness. Additionally, Treseder used bright colours and illustrative, slightly expressive brush strokes.
 
-![Sherlock Holmes by Gloria Tresder](/21c/images/SherlockMJC.jpg){: .right}
+![Sherlock Holmes by Gloria Tresder](images/SherlockMJC.jpg){: .right}
 
 The local audience would certainly agree that the mural showcases their heritage, but as Laurajane Smith points out: 'Heritage [is] a process of engagement, an act of communication and an act of making meaning in and for the present.'[^ref2]  It is us remembering and celebrating the following exhibits that makes them our heritage, and this mural establishes their cultural significance.
 
