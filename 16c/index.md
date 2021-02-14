@@ -1,6 +1,6 @@
 <param ve-config 
        title="16th Century Kent"
-       banner="images/banner/16c.jpg"
+       banner="kent/images/banners/16c.jpg"
        layout="index">
 
 #
