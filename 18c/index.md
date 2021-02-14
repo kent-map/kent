@@ -1,11 +1,26 @@
-<style>
-    .clearfix::after {content: ""; clear: both; display: table;}
-    .thumb {float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:150px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa; margin-bottom: 24px;}
-    p {font-size: 1.5rem;}
-    a {color: #800000 !important; font-size: 1.2em;}
-</style>
+<param ve-config 
+       title="18th Century Kent"
+       banner="/kent/images/banners/18c.jpg"
+       layout="index">
 
-<param ve-config title="18th Century Kent">
+#
 
-[The Bloody Code](18c-bloody-code)   
-[The Kentish Gazette](18c-kentish-gazette)
+##
+**[The Bloody Code](18c-bloody-code)**
+
+- author: Martin Watts
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/18c/images/1U8A1283-01.jpeg)
+
+The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
+
+##
+**[The Kentish Gazette](18c-kentish-gazette)**
+
+- author: Katie Holdway
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/18c/images/KentishGazetteMC.jpg)
+
+The Intelligence inserted in this Paper will be of the latest date, and selected from the most approved News Papers of London and other Parts of the Kingdom.
+
+
