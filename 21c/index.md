@@ -1,13 +1,24 @@
-<style>
-    .clearfix::after {content: ""; clear: both; display: table;}
-    .thumb {float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:150px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa; margin-bottom: 24px;}
-    p {font-size: 1.5rem;}
-    a {color: #800000 !important; font-size: 1.2em;}
-</style>
+<param ve-config 
+       title="21st Century"
+       banner="images/XXX.png"
+       layout="index">
 
-<param ve-config title="21st Century Kent">
+#
 
-### People
-[David Seabrook](21c-seabrook-biography)  
+##
+**[David Seabrook](21c-seabrook-biography)**
 
+- author: Dr Christian Taylor
 
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/21c.jpg)
+
+The word mystery comes to mind when approaching Seabrook and his work - a fitting word, given the author’s obsession with the local lore and hidden historical disjecta membra of Kent’s coastal towns.
+
+##
+**[Traveller's Joy](21c-travellers-joy)**
+
+- author: Miroslava Karasvoka
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/TravellersJoyMJC.jpg)
+
+When walking around the city of Canterbury, one quickly notices the amount of representation and references of the city’s rich cultural heritage. Murals are particularly popular, in the first thought to tackle the illegal graffiti, in the second to give a new look to some of the grimmer spots in the city. 
