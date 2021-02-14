@@ -7,7 +7,7 @@ Maxwell’s description of the giant paper pulp stacks at Sittingbourne Papermil
 
 ![“Its Architecture was Babylonian or Assyrian.”](images/maxwell1.jpg){: .right .dropshadow}
 
-Paul Tritton claims that Maxwell ‘did more than any other to inspire his and subsequent generations to explore the Kentish landscape, and view familiar places in a new light.’ His praise is fully justified, but Maxwell is now far less well-known than he deserves, and his vision of landscape is yet to be fully appreciated. Tritton noted that Maxwell saw form and beauty in the ‘commonplace’ and what others would regard as ‘eyesores’. Sadly, most people will still regard as carbuncles the quarries, industries and sites of dereliction that Maxwell eulogised and lovingly illustrated alongside the quaint and the picturesque.
+Paul Tritton claims that Maxwell ‘did more than any other to inspire his and subsequent generations to explore the [Kentish landscape](/landscape), and view familiar places in a new light.’ His praise is fully justified, but Maxwell is now far less well-known than he deserves, and his vision of landscape is yet to be fully appreciated. Tritton noted that Maxwell saw form and beauty in the ‘commonplace’ and what others would regard as ‘eyesores’. Sadly, most people will still regard as carbuncles the quarries, industries and sites of dereliction that Maxwell eulogised and lovingly illustrated alongside the quaint and the picturesque.
 
 ![“The Nearer East – A fantasy of Bluebell Hill.”](images/maxwell2.jpg){: .right .dropshadow}
 
