@@ -10,7 +10,7 @@
 
 - author: Dr Christian Taylor
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/JaneAustenCassandraWatercolour.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/21c.jpg)
 
 The word mystery comes to mind when approaching Seabrook and his work - a fitting word, given the author’s obsession with the local lore and hidden historical disjecta membra of Kent’s coastal towns.
 
@@ -19,6 +19,6 @@ The word mystery comes to mind when approaching Seabrook and his work - a fittin
 
 - author: Miroslava Karasvoka
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/CanterburyRoper1806 DETAIL.JPG)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/TravellersJoyMJC.jpg)
 
 When walking around the city of Canterbury, one quickly notices the amount of representation and references of the city’s rich cultural heritage. Murals are particularly popular, in the first thought to tackle the illegal graffiti, in the second to give a new look to some of the grimmer spots in the city. 
