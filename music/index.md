@@ -8,7 +8,7 @@
 ##
 **Music**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_3010.JPG)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Summer.jpg)
 
 [Catch](19c-catch-music)   
 [Cathedral Singing](19c-cathedral-singing)   
