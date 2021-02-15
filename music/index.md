@@ -28,7 +28,7 @@
 ##
 **Place**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2985.JPG)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/cathedralimage.jpg)
 
 [Canterbury](19c-music-canterbury)
 
