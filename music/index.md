@@ -17,7 +17,7 @@
 ##
 **Musicians**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/HopbinMJC.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney copy - Scaled and adjusted.jpg)
 
 [Charles Dobson](19c-charles-dobson-biography)  
 [Thomas Goodban](19c-thomas-goodban-biography)   
