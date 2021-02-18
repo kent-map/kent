@@ -10,6 +10,7 @@ Gary did a quick shufti round to see if it was him she was hailing.
 
 The car park was full. Summertime. Bare-feet, bare-headed, bare-assed. It wasn’t only the picnic baskets spilling over.   
 But no-one called Gary stepped up.   
+
 ‘Oi Gary!’ She shouted again. ‘Do you want a ride or not?’   
 
 Gary clocked her, carefully this time. Long hair. Adidas top, sunglasses, earpiece and a speaker phone. Oh, and tail, tucked in neatly on the scooter plate. The engine was running. Without a word he climbed on. She twiddled the handles with her fingers. For some reason Gary was glad about that; he had no idea how she’d kick-start the engine. He’d had a long journey and couldn’t be arsed to work out the machinations of a mermaid on a scooter. He glanced at her hands, though; happy to see they looked normal. Her fingernails were chipped, lime-green nail varnish flaking, and her knuckles were muddy. Bloody hell, he thought, don’t tek care of herself, does she? She’s either a mechanic or climbed her way out the grotto.
