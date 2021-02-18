@@ -1,4 +1,4 @@
-##The Mermaid Tour
+## The Mermaid Tour
 
 **Excerpt**, from [-In Margate by Lunchtime_](https://maggieharris.co.uk/books/in-margate-by-lunchtime/), Maggie Harris
 
