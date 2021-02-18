@@ -185,7 +185,11 @@ Down a steep slope then up another to view an earthwork, then down into Selling 
                     the minimum of drear infill
 
                                         §
+                                        
+                                        
 
 Our house was once one half of next door which is now half of the door after, if that makes sense. The original wide doors no longer open, due to subsidence. This is the origin of ‘flying freehold’ (their cupboard opens onto the wall of our stairs; the internal entry to the cellar is theirs, the external ours – a new internal built subsequently). The old beams mostly salvaged from ships, hence the curved shapes and the slots for cross timbers. The ships predating the building a century or more (deforestation already a problem?).
+
+©Laurie Duggan
 
 
