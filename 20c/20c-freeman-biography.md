@@ -34,8 +34,8 @@ Freeman, R. Austin. ‘The Echo of a Mutiny.’ Deep Waters: Mysteries on the Wa
 
 ### References
 
-[^ref1]:  ‘The Echo of a Mutiny’ 137-8.
-[^ref2]:  Inscription copy cited in Donaldson 153.
-[^ref3]:  _Mystery in the Channel_ 133.
+[^ref1]:  ‘The Echo of a Mutiny’ 137-8.   
+[^ref2]:  Inscription copy cited in Donaldson 153.   
+[^ref3]:  _Mystery in the Channel_ 133.   
 
 
