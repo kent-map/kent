@@ -65,4 +65,5 @@ snowdrops eaten by pheasant (partly)
 
 **17/10/2018**  The bar from this perspective would look good as an Edward Hopper painting. The silent regular sits to the right, displaced from his usual stool, with his dog sleeping on the floor. there are a few illuminated objects, shelf lights, taps. Glimmer from a bucket of ice. 
 
-Laurie Duggan
+©Laurie Duggan
+
