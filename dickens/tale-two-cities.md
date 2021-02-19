@@ -2,9 +2,9 @@
 
 >“It was the best of times, it was the worst of times…” (Dickens, 1875, p.1)
 
-The opening of [Charles Dickens](/dickens/dickens-biography)’ novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. The novel very quickly moves to Kent, with the Dover Mail reaching its destination in chapter four. Dickens spent several years living at [Gad's Hill](/dickens/dickens-gads-hill) in Kent, so it is unsurprising that he was a frequent visitor to France. Dickens used France and Kent as dual settings for some of his novels – maybe his love for Kent led him to love France too.
-
 ![The Dover Road: Annals of an Ancient Turnpike / Harper, Charles George, 1863-, Public domain, via Wikimedia Commons](images/doverroad.jpg){: .right}
+
+The opening of [Charles Dickens](/dickens/dickens-biography)’ novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. The novel very quickly moves to Kent, with the Dover Mail reaching its destination in chapter four. Dickens spent several years living at [Gad's Hill](/dickens/dickens-gads-hill) in Kent, so it is unsurprising that he was a frequent visitor to France. Dickens used France and Kent as dual settings for some of his novels – maybe his love for Kent led him to love France too.
 
 However, his novel which made the most references to France, _A Tale of Two Cities_, was not so popular there, and does not have as many French translations as his other works. Some suppose that the book is misunderstood in the French, and the first translation may support that idea by the use of the title _Paris et Londres en 1793_  (Paris and London in 1793)[^ref1], which seems to forget the starting point of 1775 and the events preceding 1793.
 
