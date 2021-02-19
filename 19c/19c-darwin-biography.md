@@ -36,6 +36,7 @@ Despite his own considerable writing abilities, he found, as he grew older, that
 >My mind seems to have become a kind of machine for grinding general laws out of large collections of facts, but why this should have caused the atrophy of the part of the brain alone, on which the higher tastes depend I cannot conceive.  
 >
 This makes Darwin’s profound influence on the arts, as well as the sciences, all the more interesting. Diana Donald, in a profound, multi-authored book on Darwin and the arts, states that he is now widely regarded as ‘an imaginative writer, whose construct of the workings of nature, expressed in metaphorical and even visionary language, deeply influenced novelists and poets’. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/74/Haeckel_Nepenthaceae.jpg" label="Pitcher plant (Nepenthaceae: insectivorous)/ Ernst Haeckel, Public domain, via Wikimedia Commons"> 
 
 **Article written by:** Peter Vujakovic 
 
@@ -50,5 +51,5 @@ Donald, Diana. Introduction in Donald, D & J. Munro, J. _Endless Forms: Charles 
 English Heritage – [History of Down House](https://www.english-heritage.org.uk/visit/places/home-of-charles-darwin-down-house/history/)   
 Jones, Steve. _Darwin’s Island: The Galapagos in the Garden of England_. London: Little, Brown, 2009.   
 Voss, Julia. ‘Monkeys, Apes and Evolutionary Theory: From Human Descent to King Kong’. Donald, D & J. Munro, J.   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/74/Haeckel_Nepenthaceae.jpg" label="Pitcher plant (Nepenthaceae: insectivorous)/ Ernst Haeckel, Public domain, via Wikimedia Commons"> 
+
 
