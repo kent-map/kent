@@ -18,7 +18,7 @@ Very early on in the novel, Dickens refers to the Dover Mail which would have ar
 >
 Dickens adds that such a journey in winter was “an achievement to congratulate an adventurous traveller upon”[^ref9] and even the condition of the coach was not something that would add comfort to such a journey, “The mildewy inside of the coach, with its damp and dirty straw, its disagreeable smell, and its obscurity, was rather like a larger dog-kennel”.[^ref10]
 
-There are several other novels that mention the journey between Kent and France, including Dickens’ story of _Little Dorrit_ which also includes the treacherous journey along the Dover Road between Dover and London, this time, by the Courier coach.
+There are several other novels that mention the journey between Kent and France, including Dickens’ story of _Little Dorrit_ which also includes the treacherous journey along the [Dover Road](/dickens/david-copperfield-dover-road/) between Dover and London, this time, by the Courier coach.
 
 ### Bibliography
 
