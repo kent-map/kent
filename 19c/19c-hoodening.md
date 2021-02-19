@@ -30,7 +30,8 @@ May 1807. _European Magazine_: 51 (May 1807) 558.
 
 7 December 1907, _Keble’s [Margate](/dickens/19c-margate) and [Ramsgate](/dickens/19c-ramsgate) Gazette._ 
 
-Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, “the tradition appears to lie solely in the eastern part of the county” (Maylam, et al., 2009, p. 10)
+Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, 'the tradition appears to lie solely in the eastern part of the county'[^ref1] 
+
 The above quotes from publications of 1807 and 1907 show that Hoodening was well-known in East Kent during the nineteenth century. Today it continues in towns and villages such as St Nicholas-at-Wade, Sarre, Wickhambreaux and Deal. Hop Hoodening in Canterbury Cathedral each September also upholds the tradition, and Hooden Horses feature prominently at the annual [Broadstairs](/dickens/broadstairs-19th-century) Folk Week and other local folk festivals. Many of Kent’s Morris sides now have a Hooden Horse, with that created in 1959 for East Kent Morris purported to be the first designed in an upright position, enabling him to join in the dancing.
 
 ![Hooden Horse ©Carolyn Oulton](images/Hoodenhorse.jpg){: .right .dropshadow}
@@ -59,5 +60,7 @@ https://vimeo.com/408562819/78b21d952c
 ### Notes
 
 [^ref1]: Maylam 53-54.
+
+[^ref2:Maylam et al 10.
 
 Image 1: The author with East Kent Morris’s Hooden Horse, named Invicta after the county’s emblem and motto. Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.
