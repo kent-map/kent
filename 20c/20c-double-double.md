@@ -1,6 +1,6 @@
 <param ve-config style="article">
 
-## _Double, Double_ by John Brunner
+## 'Double, Double' by John Brunner
 
 Margate, 1969.
 
