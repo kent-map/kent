@@ -14,7 +14,7 @@ The action in the novel very quickly moves to the county, with the Mail coach ar
 
 Dickens adds that such a journey in winter was “an achievement to congratulate an adventurous traveller upon”[^ref9] and even the condition of the coach was not something that would add comfort to such a journey, “The mildewy inside of the coach, with its damp and dirty straw, its disagreeable smell, and its obscurity, was rather like a larger dog-kennel”.[^ref10]
 
-On arrival in [Dover](/dickens/dickens-dover), Jarvis Lorry, who is travelling on business, takes a walk along the beach: 
+On arrival, Jarvis Lorry, who had made the perilous journey From London, takes a walk long the beach at [Dover](/dickens/dickens-dover): 
   
 >The little, narrow, crooked town […] hid itself away from the beach, and ran its head into the chalk cliffs, like a marine ostrich. The beach was a desert of heaps of sea and stones tumbling wildly about, and the sea did what it liked, and what it liked was destruction. It […] thundered at the cliffs, and brought the coast down, madly. The air among the houses was of so strong a piscatory flavour […]. A little fishing was done in the port, and a quantity of strolling about by night… [^ref2]
 
@@ -28,7 +28,7 @@ _A Tale of Two Cities_ is not the only Dickens's novel to include the treacherou
 
 It is clear that Dickens was writing from first-hand experience as he was a frequent visitor to France, a country he loved dearly. In a letter to Emile de la Rue in 1847 he described the French to be "the first people in the universe"[^ref1]. However, despite his love of the French, _A Tale of Two Cities_, was not very popular in France, and there are fewer French translations than his other works. Some suppose that the book is misunderstood in translation. The title of the first translation _Paris et Londres en 1793_  (Paris and London in 1793)[^ref1], seems to miss the point, ignoring the novel's start date of 1775, and this may account for its lack of popularity. 
 
-However by 1865, he was using the train to travel to France, as is evidenced by his involvement in the [Staplehurst](dickens/dickens-staplehurst/) rail crash.
+By 1865, Dickens was travelling to and from France by boat train via the more fashionable neighbouring town of [Folkestone](/19c/19c-folkestone). It is on one of these journeys that he was involved in the [Staplehurst](dickens/dickens-staplehurst/) rail crash, proving that rail journeys, although more comfortable could be as perilous.
 
 ### Bibliography
 
