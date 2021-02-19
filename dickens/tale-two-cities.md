@@ -1,4 +1,4 @@
-## A Tale of Two Cities - Dickens and France
+## Dickens, _A Tale of Two Cities_ and France
 
 >“It was the best of times, it was the worst of times…” (Dickens, 1875, p.1)
 
