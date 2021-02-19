@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="Charles Darwin 1809-1882" author="Peter Vujakovic" layout="vtl" banner="/19c/images/Down%20House%20banner.jpg"> 
+<param ve-config title="Charles Darwin 1809-1882" author="Peter Vujakovic" layout="vtl" banner="images/Down%20House%20banner.jpg"> 
 
 <param ve-entity eid="Q125344" aliases="Downe">
 <param ve-entity eid="Q3038318" aliases="Down House">
