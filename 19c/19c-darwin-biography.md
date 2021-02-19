@@ -11,7 +11,7 @@
 
 Lived in Kent 1842-1882
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Charles_Darwin_by_Julia_Margaret_Cameron_3.jpg" label="Charles Darwin/ Julia Margaret Cameron, Public domain, via Wikimedia Commons"> 
-<param ve-map center="Q2019734" zoom="8">
+<param data-map center="20210218 4e78384" zoom="10">
 
 Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. They may be aware of his _Journal and Remarks_ (generally known as _The Voyage of the Beagle_ (1839)), in which a youthful Darwin recounted his five years travelling the world. _Beagle_brought him fame and recognition and his name is forever tied to that of the Galapagos Islands. Most may only know (but have never read) On the Origin of Species (1859) in which he outlined his concept of ‘natural selection’. It was written while Darwin was resident in the village of Downe in Kent, where he also wrote _The Descent of Man_ (1871). The excerpt below demonstrates his ability to write with a lyrical passion for his subject:
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Charles_Darwin_by_Julia_Margaret_Cameron_3.jpg" label="Charles Darwin/ Julia Margaret Cameron, Public domain, via Wikimedia Commons"> 
@@ -23,6 +23,7 @@ His capacity to write with clarity and an ability to engage his readers is evide
 
 >As buds give rise by growth to fresh buds, and these, if vigorous, branch out and overtop on all sides many a feebler branch, so by generation I believe it has been with the great Tree of Life, which fills with its dead and broken branches the crust of the earth, and covers the surface with its ever branching and beautiful ramifications. From the final paragraph of Chapter IV, _On the Origin of Species_ (First Edition)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/Tree_of_life_by_Haeckel.jpg" label="Tree of Life/ Ernst Haeckel, Public domain, via Wikimedia Commons"> 
+<param ve-map center="Q2019734" zoom="8">
 
 This metaphor was enthusiastically adopted by one of Darwin’s key early supporters, Ernst Haekel, a very talented artist as well as a zoologist. Sadly, as Julia Voss has noted, Haekel’s image places ‘MAN’ [sic] at the top of the of his evolutionary tree with other apes ‘banished to lower branches’, while Darwin’s own sketch of the primate tree grants humans no exceptional status .
 
