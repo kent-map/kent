@@ -37,14 +37,14 @@ Whyman, John. _Kentish Sources: The Early Kentish Seaside_. 1985. Kent Archives 
 
 ### References
 
-[^ref1]: (Jones, McDonagh, and Mee, 2009).
-[^ref2]:  (Dickens, 1875, p.20).
-[^ref3]:  (Legendary Trips, 2021).
-[^ref4]:(MacCarthy, 2014, ch.17).
-[^ref5]:  (Birmingham, 1853).
-[^ref6]:  (Daily Advertiser, 1775, p.1).
-[^ref7]:  (Whyman, 1985, p.33).
-[^ref8]:  (Dickens, 1875, pp.5-6).
-[^ref9]:  (Dickens, 1875, p.17).
-[^ref10]:  Ibid.
+[^ref1]: (Jones, McDonagh, and Mee, 2009).  
+[^ref2]:  (Dickens, 1875, p.20).   
+[^ref3]:  (Legendary Trips, 2021).   
+[^ref4]:(MacCarthy, 2014, ch.17).   
+[^ref5]:  (Birmingham, 1853).  
+[^ref6]:  (Daily Advertiser, 1775, p.1).  
+[^ref7]:  (Whyman, 1985, p.33).  
+[^ref8]:  (Dickens, 1875, pp.5-6).  
+[^ref9]:  (Dickens, 1875, p.17).  
+[^ref10]:  Ibid.  
 
