@@ -23,7 +23,7 @@ Very early on in the novel, Dickens refers to the Dover Mail which would have ar
 ![Millenium Mural, Canterbury / Painted by Elisa Hudson](images/MilleniumMuralMJC.jpg){: .right}
 
 >He walked uphill in the mire by the side of the mail […] because the hill, and the harness, and the mud, and the mail were all so heavy, that the horses had three times already come to a stop, besides once drawing the coach across the road, with the mutinous intent of taking it back to Blackheath […] There was a steaming mist in all the hollows, and it had roamed in its forlornness up the hill, like an evil spirit, seeking rest and finding none. A clammy and intensely cold mist, it made its slow way through the air in ripples that visibly followed and overspread one another, as the waves of an unwholesome sea might do.[^ref8] 
->
+
 Dickens adds that such a journey in winter was “an achievement to congratulate an adventurous traveller upon”[^ref9] and even the condition of the coach was not something that would add comfort to such a journey, “The mildewy inside of the coach, with its damp and dirty straw, its disagreeable smell, and its obscurity, was rather like a larger dog-kennel”.[^ref10]
 
 There are several other novels that mention the journey between Kent and France, including Dickens’ story of _Little Dorrit_ which also includes the treacherous journey along the [Dover Road](/dickens/david-copperfield-dover-road/) between Dover and London, this time, by the Courier coach.
