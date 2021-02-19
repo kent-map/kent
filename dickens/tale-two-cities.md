@@ -6,7 +6,9 @@
 
 The opening of [Charles Dickens](/dickens/dickens-biography)’ novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dicken's [Swiss chalet](dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill](/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
 
-The action in the novel very quickly moves to the county, with the Mail coach arriving at [Dover](/dickens/dickens-dover) at six a.m., having set off from London at eight the previous evening.  Dickens’ description of the postal service is consistent with contemporary accounts and the passengers’ unwillingness to trust one another seems to reflect the dangerous nature of journeys reported in news articles from 1775, of robberies where highwaymen stopped coaches on their way into towns.[^ref6] The journey between Dover and London was a fairly popular one, which meant coaches made the journey everyday excepting Sundays.[^ref7] In Dickens’ description of the journey near Shooters Hill, however, it does not sound like a pleasant one:
+The action in the novel very quickly moves to the county, with the Mail coach arriving at [Dover](/dickens/dickens-dover) at six a.m., having set off from London at eight the previous evening.  Dickens’ description of the postal service is consistent with contemporary accounts and the passengers’ unwillingness to trust one another seems to reflect the dangerous nature of journeys reported in news articles from 1775, of robberies where highwaymen stopped coaches on their way into towns.[^ref6] 
+
+The journey between Dover and London was a fairly popular one, which meant coaches made the journey everyday excepting Sundays.[^ref7] In Dickens’ description of the journey near Shooters Hill, however, it does not sound like a pleasant one:
 
 ![Millenium Mural, Canterbury / Painted by Elisa Hudson](images/MilleniumMuralMJC.jpg){: .right}
 
