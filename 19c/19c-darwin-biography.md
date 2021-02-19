@@ -33,7 +33,7 @@ It is interesting to note that Darwin is one of several writers with a strong Ke
 Darwin, Charles. _On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life_. London: John Murray, 1859.   
 --. _The Descent of Man, and Selection in Relation to Sex_ . London: John Murray, 1871.   
 Donald, Diana. Introduction in Donald, D & J. Munro, J. _Endless Forms: Charles Darwin, Natural Science and the Visual Arts_. New Haven and London: Yale University Press, 2009. 1-27.   
-English Heritage – [HISTORY OF DOWN HOUSE](https://www.english-heritage.org.uk/visit/places/home-of-charles-darwin-down-house/history/)   
+English Heritage – [History of Down House](https://www.english-heritage.org.uk/visit/places/home-of-charles-darwin-down-house/history/)   
 Jones, Steve. _Darwin’s Island: The Galapagos in the Garden of England_. London: Little, Brown, 2009.   
 Voss, Julia. ‘Monkeys, Apes and Evolutionary Theory: From Human Descent to King Kong’. Donald, D & J. Munro, J.   
 
