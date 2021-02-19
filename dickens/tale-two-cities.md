@@ -14,7 +14,7 @@ The action in the novel very quickly moves to the county, with the Mail coach ar
 
 Dickens adds that such a journey in winter was “an achievement to congratulate an adventurous traveller upon”[^ref9] and even the condition of the coach was not something that would add comfort to such a journey, “The mildewy inside of the coach, with its damp and dirty straw, its disagreeable smell, and its obscurity, was rather like a larger dog-kennel”.[^ref10]
 
-On arrival, Jarvis Lorry, who had made the perilous journey From London, takes a walk long the beach at [Dover](/dickens/dickens-dover): 
+In the novel, Jarvis Lorry, who had made the perilous journey From London, takes a walk long the beach at [Dover](/dickens/dickens-dover): 
   
 >The little, narrow, crooked town […] hid itself away from the beach, and ran its head into the chalk cliffs, like a marine ostrich. The beach was a desert of heaps of sea and stones tumbling wildly about, and the sea did what it liked, and what it liked was destruction. It […] thundered at the cliffs, and brought the coast down, madly. The air among the houses was of so strong a piscatory flavour […]. A little fishing was done in the port, and a quantity of strolling about by night… [^ref2]
 
