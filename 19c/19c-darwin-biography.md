@@ -21,6 +21,9 @@ His capacity to write with clarity and an ability to engage his readers is evide
 This metaphor was enthusiastically adopted by one of Darwin’s key early supporters, Ernst Haekel, a very talented artist as well as a zoologist. Sadly, as Julia Voss has noted, Haekel’s image places ‘MAN’ [sic] at the top of the of his evolutionary tree with other apes ‘banished to lower branches’, while Darwin’s own sketch of the primate tree grants humans no exceptional status .
 
 Darwin moved to Kent in 1842 and this remained his home until his death forty years later. While resident at Down House Darwin wrote over a dozen science books and a handful of important monographs, many based on observations and experiments undertaken in his house and grounds. Darwin established ‘experimental beds’ in the kitchen garden and had a hothouse constructed next to his greenhouse to allow him to examine delicate and demanding plant species. His observations provided much of the material for several seminal works on plants and related themes, including: _The Movements and Habits of Climbing Plants_ (1875); _The Power of Movement in Plants_ (1880); and his wonderful examination of _The Formation of Vegetable Mould through the Action of Worms_(1881). The nature writer Richard Mabey describes Darwin as an ‘ingenious writer’ and notes that his work on _Insectivorous Plants_ (1875) was forensically researched and written with the ‘craft skills of a country-house thriller author’ in which the mystery of the ‘murderous flytrap, is a page turner’.
+<param ve-image url="images/ballards.jpg" label="The Coach House, Ballards, Near Goudhurst, in 1963. Photo: Alfred Cohen Archive"> 
+<param ve-map center="Q2019734" zoom="10">
+
 
 A doting father, Darwin was often helped in his research by his children, although sometimes they became the observed rather than observers. He took a scientific interest in his children’s development, using his observations to determine which expressions were instinctive and which learned (published in _The Expression of the Emotions in Man and Animals_ (1872)).
 
@@ -42,4 +45,5 @@ Donald, Diana. Introduction in Donald, D & J. Munro, J. _Endless Forms: Charles 
 English Heritage – [History of Down House](https://www.english-heritage.org.uk/visit/places/home-of-charles-darwin-down-house/history/)   
 Jones, Steve. _Darwin’s Island: The Galapagos in the Garden of England_. London: Little, Brown, 2009.   
 Voss, Julia. ‘Monkeys, Apes and Evolutionary Theory: From Human Descent to King Kong’. Donald, D & J. Munro, J.   
+<param ve-image url=https://commons.wikimedia.org/wiki/File:Haeckel_Nepenthaceae.jpg label="Pitcher plant (Nepenthaceae: insectivorous)/ Ernst Haeckel, Public domain, via Wikimedia Commons" 
 
