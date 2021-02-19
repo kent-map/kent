@@ -6,9 +6,9 @@
 
 The opening of [Charles Dickens](/dickens/dickens-biography)’ novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. The novel very quickly moves to Kent, with the Dover Mail reaching its destination in chapter four. 
 
-Dickens spent several years living at [Gad's Hill](/dickens/dickens-gads-hill) in Kent, so it is unsurprising that he was a frequent visitor to France. Dickens used France and Kent as dual settings for some of his novels – maybe his love for Kent led him to love France too.
+Dickens often visited France and declared the French to be "the first people in the universe"[^ref1]. _A Tale of Two Cities_ was written on the top floor of his [Swiss chalet](dickens/dickens-swiss-chalet) at [Gad's Hill](/dickens/dickens-gads-hill),and published just three years after he moved to Kent. 
 
-However, his novel which made the most references to France, _A Tale of Two Cities_, was not so popular there, and does not have as many French translations as his other works. Some suppose that the book is misunderstood in the French, and the first translation may support that idea by the use of the title _Paris et Londres en 1793_  (Paris and London in 1793)[^ref1], which seems to forget the starting point of 1775 and the events preceding 1793.
+However, despite his love of France, _A Tale of Two Cities_, was not very popular there, and there are fewer French translations than his other works. Some suppose that the book is misunderstood in translation. The title of the first translation _Paris et Londres en 1793_  (Paris and London in 1793)[^ref1], seems to forget the starting point of 1775 and the events preceding 1793 and may account for its lack of popularity.
 
 In _A Tale of Two Cities_, Jarvis Lorry goes for a walk on the beach at [Dover](/dickens/dickens-dover), which is described in great detail: 
   
@@ -40,11 +40,13 @@ Jones, C., McDonagh, J. and Mee, J. (ed.) (2009). _Charles Dickens, A Tale of Tw
 Legendary Trips (2021) _ Tale of Two Cities by Charles Dickens: a map of all the places in France and England._ Available at: https://www.legendarytrips.com/trip/a-tale-of-two-cities-dickens-map-places/#shiphotel(demolished),dover,england (Accessed: 27 January 2021).
 M, M. (2012) 'A Tale of Two Cities - Charles Dickens', _Lit Nerd Around the World, 29 October_. Available at: http://litnerdaroundtheworld.blogspot.com/2012/10/a-tale-of-two-cities-charles-dickens.html (Accessed: 3 February 2021).
 Pigot, J. (1824) _Pigot’s Directory of Kent, 1824_. Available at: http://specialcollections.le.ac.uk/digital/collection/p16445coll4/id/167102 (Accessed: 28 January 2021).
+Storey, G. and Fielding, K.J. (1981) _The Letters of Charles Dickens_. vol.V. Oxford: Clarendon Press, 1981, p. 42.
 Tomalin, C. (2012) _Charles Dickens: A Life._ London: Penguin Books.   
 Whyman, John. _Kentish Sources: The Early Kentish Seaside_. 1985. Kent Archives Office, Gloucester. Alan Sutton Publishing Limited. p.33.   
 
 ### References
 
+[ref1:] (Storey, G. and Fielding, K.J., 42).
 [^ref1]: (Jones, McDonagh, and Mee, 2009).  
 [^ref2]:  (Dickens, 1875, p.20).   
 [^ref3]:  (Legendary Trips, 2021).   
