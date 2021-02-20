@@ -20,6 +20,8 @@ As the mail coach trundles through Kent, nothing more is said of the towns and v
 
 >lowered the window, and looked out at the rising sun. There was a ridge of ploughed land, with a plough upon it where it had been left last night when the horses were unyoked; beyond, a quiet coppice-wood, in which many leaves of burning red and golden yellow still remained upon the trees. Though the earth was cold and wet, the sky was clear, and the sun rose bright, placid, and beautiful.
 
+It is a beautiful, hopeful description of the county that Dickens had made his home.
+
 On arrival at Dover, Mr Lorry takes a walk long the beach at [Dover](/dickens/dickens-dover): 
   
 >The little, narrow, crooked town […] hid itself away from the beach, and ran its head into the chalk cliffs, like a marine ostrich. The beach was a desert of heaps of sea and stones tumbling wildly about, and the sea did what it liked, and what it liked was destruction. It […] thundered at the cliffs, and brought the coast down, madly. The air among the houses was of so strong a piscatory flavour […]. A little fishing was done in the port, and a quantity of strolling about by night… [^ref2]
