@@ -6,15 +6,19 @@
 
 The opening of [Charles Dickens](/dickens/dickens-biography)’ novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dicken's [Swiss chalet](dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill](/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
 
-The action in the novel very quickly moves to the county, with the Mail coach arriving at [Dover](/dickens/dickens-dover) at six a.m., having set off from London at eight the previous evening.  Dickens’ description of the postal service is consistent with contemporary accounts and the passengers’ unwillingness to trust one another seems to reflect the dangerous nature of journeys reported in news articles from 1775, of robberies where highwaymen stopped coaches on their way into towns.[^ref6] 
+The action in the novel very quickly moves to the county, with the Mail coach arriving at [Dover](/dickens/dickens-dover) at six a.m., having set off from London at eight the previous evening.  Dickens’ description of the postal service is consistent with contemporary accounts and the passengers’ unwillingness to trust one another seems to reflect the dangerous nature of journeys reported in news articles from 1775, of robberies where highwaymen stopped coaches on their way into towns.[^ref6] The etymology of the place names on the route testify to this: "Shooters Hill, so called from the theivery there practiced" and Gad's Hill, from the "Gadd's of steel" or clubs used before fire arms.[^ref7]
 
-The journey between Dover and London was a fairly popular one, which meant coaches made the journey everyday excepting Sundays.[^ref7] In Dickens’ description of the journey near Shooters Hill, however, it does not sound like a pleasant one:
+The journey between Dover and London was a fairly popular one, with coaches making the journey everyday excepting Sundays.[^ref7] The route travelled through Dartford, Rochester, Sittingbourne, [Canterbury](/19c/19c-canterbury) and Faversham. In Dickens’ description of the journey near Shooters Hill, however, it does not sound like a pleasant one:
 
 ![Millenium Mural, Canterbury / Painted by Elisa Hudson](images/MilleniumMuralMJC.jpg){: .right}
 
 >He walked uphill in the mire by the side of the mail […] because the hill, and the harness, and the mud, and the mail were all so heavy, that the horses had three times already come to a stop, besides once drawing the coach across the road, with the mutinous intent of taking it back to Blackheath […] There was a steaming mist in all the hollows, and it had roamed in its forlornness up the hill, like an evil spirit, seeking rest and finding none. A clammy and intensely cold mist, it made its slow way through the air in ripples that visibly followed and overspread one another, as the waves of an unwholesome sea might do.[^ref8] 
 
 Dickens adds that such a journey in winter was “an achievement to congratulate an adventurous traveller upon”[^ref9] and even the condition of the coach was not something that would add comfort to such a journey, “The mildewy inside of the coach, with its damp and dirty straw, its disagreeable smell, and its obscurity, was rather like a larger dog-kennel”.[^ref10]
+
+As the mail coach trundles through Kent, nothing more is said of the towns and villages, shrouded in darkness. The county acts as a conduit and the story turns to the passengers and their conversation.  However as we approach Dover, Jarvis Lorry, 
+
+>lowered the window, and looked out at the rising sun. There was a ridge of ploughed land, with a plough upon it where it had been left last night when the horses were unyoked; beyond, a quiet coppice-wood, in which many leaves of burning red and golden yellow still remained upon the trees. Though the earth was cold and wet, the sky was clear, and the sun rose bright, placid, and beautiful.
 
 In the novel, Jarvis Lorry, who had made the perilous journey From London, takes a walk long the beach at [Dover](/dickens/dickens-dover): 
   
@@ -28,15 +32,18 @@ _A Tale of Two Cities_ is not the only Dickens's novel to include the treacherou
 
 >Next morning’s sun saw Mr Dorrit’s equipage upon the Dover road, where every red-jacketed postilion was the sign of a cruel house, established for the unmerciful plundering of travellers. The whole business of the human race, between London and Dover, being spoliation, Mr Dorrit was waylaid at Dartford, pillaged at Gravesend, rifled at Rochester, fleeced at Sittingbourne, and sacked at Canterbury. However, it being the Courier’s business to get him out of the hands of the banditti, the Courier brought him off at every stage; and so the red-jackets went gleaming merrily along the spring landscape, rising and falling to a regular measure, between Mr Dorrit in his snug corner and the next chalky rise in the dusty highway.
 
-It is clear that Dickens was writing from first-hand experience as he was a frequent visitor to France, a country he loved dearly. In a letter to Emile de la Rue in 1847 he described the French to be "the first people in the universe"[^ref1]. However, despite his love of the French, _A Tale of Two Cities_, was not very popular in France, and there are fewer French translations than his other works. Some suppose that the book is misunderstood in translation. The title of the first translation _Paris et Londres en 1793_  (Paris and London in 1793)[^ref1], seems to miss the point, ignoring the novel's start date of 1775, and this may account for its lack of popularity. 
+It is possible that Dickens was writing from first-hand experience as he was a frequent visitor to France, a country he loved dearly. In a letter to Emile de la Rue in 1847 he described the French to be "the first people in the universe"[^ref1]. However with the boat train available from the more fashionable neighbouring town of [Folkestone](/19c/19c-folkestone) from 1848, it is unlikley Dickens suffered the 
 
-By 1865, Dickens was travelling to and from France by boat train via the more fashionable neighbouring town of [Folkestone](/19c/19c-folkestone). It is on one of these journeys that he was involved in the [Staplehurst](/dickens/dickens-staplehurst/) rail crash, proving that rail journeys, although more comfortable could be as perilous.
+However, despite his love of the French, _A Tale of Two Cities_, was not very popular in France, and there are fewer French translations than his other works. Some suppose that the book is misunderstood in translation. The title of the first translation _Paris et Londres en 1793_  (Paris and London in 1793)[^ref1], seems to miss the point, ignoring the novel's start date of 1775, and this may account for its lack of popularity. 
+
+Neverthel, Dickens was travelling to and from France by boat train via the more fashionable neighbouring town of [Folkestone](/19c/19c-folkestone). It is on one of these journeys that he was involved in the [Staplehurst](/dickens/dickens-staplehurst/) rail crash, proving that rail journeys, although more comfortable could be as perilous.
 
 ### Bibliography
 
 Biography.com (2020) _Charles Dickens Biography_. Available at: https://www.biography.com/writer/charles-dickens (Accessed: 3 February 2021).   
 Birmingham, J. (1853) 'The Royal Ship Hotel Dover', _The South Eastern Gazette_, 4 October, p.8.   
 Daily Advertiser (1775) 'News', 3 January, p.1   
+Cruden, R. P. _The History of the Town of Gravesend in the County of Kent and of the Port of London_ 1843.
 Dickens, C. (1875) _A Tale of Two Cities_. Facsimile. London: GE Fabbri Publishing Ltd., 2003.   
 Edmondson, J. (ed.) (2006) _Dickens on France: Fiction, Journalism and Travel Writing_. Oxford: Signal Books Limited.   
 MacCarthy, F. (2014) _Byron: Life and Legend_. London: John Murray Press.     
