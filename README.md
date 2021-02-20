@@ -21,6 +21,8 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 ##
 [**Jane Austen**](/19c/19c-austen-biography)
 
+- author: Susan Civale
+
 ![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
 
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
@@ -120,6 +122,15 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 ![](https://kent-map.github.io/kent/images/thumbnails/thumbnailchaucer.jpg)
 
 Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
+
+##
+[**Jane Austen**](/19c/19c-austen-biography)
+
+- author: Susan Civale
+
+![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
+
+Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
 
 ##
 [**Charles Dickens**](/dickens)
