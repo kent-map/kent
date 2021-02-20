@@ -5,7 +5,7 @@
        
 # Welcome
 
-This site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
+This site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists.
 
 # Featured essays
 
@@ -19,23 +19,22 @@ This site provides a set of themed essays about Kent, a county in South East Eng
 You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie.
 
 ##
-[**Great Expectations - A curated walk**](/dickens/great-expectations-curated-walk)
+[**Jane Austen**](/19c/19c-austen-biography)
 
-- author: Ken Moffat and Carolyn W. de la L. Oulton
+- author: Susan Civale
 
-![](https://kent-map.github.io/kent/images/thumbnails/grammer-school-gate-rochester.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
 
-The landscape Pip describes seems to alter as he moves across it.
-
+Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
 
 ##
-[**David Copperfield - A curated walk**](/dickens/david-copperfield-curated-walk)
+[**Vita Sackville-West**](/20c/20c-sackville-west-biography)
 
-- author: Ken Moffat and Carolyn W. de la L. Oulton
+- author: Clare Nursey
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Broadstairs.jpg)
+![](https://kent-map.github.io/kent/20c/images/sissinghurst2.jpg)
 
-David Copperfield, like Pip in _Great Expectations_, shares the difficult story of what it means to become involuntarily fascinated, even obsessed: with grotesque figures, with landscapes, with the secrets of one’s own past.
+Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
 ##
 [**Alfred Cohen**](/20c/20c-cohen-biography)
@@ -54,15 +53,6 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 ![](https://kent-map.github.io/kent/20c/images/Jarman1.jpg)
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
-
-##
-[**Vita Sackville-West**](/20c/20c-sackville-west-biography)
-
-- author: Clare Nursey
-
-![](https://kent-map.github.io/kent/20c/images/sissinghurst2.jpg)
-
-Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
 # Essays by period
 
@@ -127,18 +117,20 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 # Featured Authors
 
 ##
-[**Jane Austen**](/19c/19c-austen-biography)
-
-![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
-
-Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
-
-##
 [**Geoffrey Chaucer**](/14c/14c-chaucer)
 
 ![](https://kent-map.github.io/kent/images/thumbnails/thumbnailchaucer.jpg)
 
 Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
+
+##
+[**Jane Austen**](/19c/19c-austen-biography)
+
+- author: Susan Civale
+
+![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
+
+Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
 
 ##
 [**Charles Dickens**](/dickens)
