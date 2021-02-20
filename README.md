@@ -5,7 +5,7 @@
        
 # Welcome
 
-This site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
+This site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists.
 
 # Featured essays
 
@@ -17,25 +17,6 @@ This site provides a set of themed essays about Kent, a county in South East Eng
 ![](https://kent-map.github.io/kent/images/thumbnails/mobile-landscapes.jpg)
 
 You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie.
-
-##
-[**Great Expectations - A curated walk**](/dickens/great-expectations-curated-walk)
-
-- author: Ken Moffat and Carolyn W. de la L. Oulton
-
-![](https://kent-map.github.io/kent/images/thumbnails/grammer-school-gate-rochester.jpg)
-
-The landscape Pip describes seems to alter as he moves across it.
-
-
-##
-[**David Copperfield - A curated walk**](/dickens/david-copperfield-curated-walk)
-
-- author: Ken Moffat and Carolyn W. de la L. Oulton
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Broadstairs.jpg)
-
-David Copperfield, like Pip in _Great Expectations_, shares the difficult story of what it means to become involuntarily fascinated, even obsessed: with grotesque figures, with landscapes, with the secrets of one’s own past.
 
 ##
 [**Alfred Cohen**](/20c/20c-cohen-biography)
