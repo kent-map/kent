@@ -7,6 +7,15 @@
 #
 
 ##
+**[Finding Dickens Land](dickens-biography)**
+
+- author: Carolyn W. de la L. Oulton
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Chatham%20Dockyard.jpg)
+
+From Rochester to Broadstairs on the East coast – wherever you go you can be fairly certain that Dickens has been there before you. But much like Aunt Betsey’s donkeys, he can be elusive.
+
+##
 **[Mobile Landscapes](mobile-landscapes)**
 
 - author: Ken Moffat and Carolyn W. de la L. Oulton
@@ -34,15 +43,6 @@ Starts with Pip’s fateful encounter with Magwitch in the local churchyard. But
 Takes David through Kent and down the Dover Road to find answers to some vital questions. How do others see us? What does it mean to be in love? Where is home? It may not be obvious at first, but places can move around here, so you must be careful not to get lost.
 
 ##
-**[Finding Dickens Land](dickens-biography)**
-
-- author: Carolyn W. de la L. Oulton
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Chatham%20Dockyard.jpg)
-
-From Rochester to Broadstairs on the East coast – wherever you go you can be fairly certain that Dickens has been there before you. But much like Aunt Betsey’s donkeys, he can be elusive.
-
-##
 **[Dickens and Medway](dickens-medway)**
 
 - author: Helena Kelly
@@ -59,3 +59,12 @@ From Rochester to Broadstairs on the East coast – wherever you go you can be f
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/1200px-Mystery_of_edwin_drood_0188.jpg)
 
 Rochester is proud to celebrate its Dickensian connections, and the most fascinating and intriguing connection is its inspiration for the fictional town of Cloisterham, backdrop to Dickens’s final novel _The Mystery of Edwin Drood._ 
+
+##
+**[Dickens, A Tale of Two Cities and France](tale-two-cities)**
+
+- author Bethia Carter
+
+![](https://dev.visual-essays.app/thumbnail?url=https://www.gutenberg.org/files/98/98-h/images/0414.jpg)
+
+Kent acted as a conduit for Dicken's many visits to France with the Dover Mail and its perilous journey described in several of his novels, including _A Tale of Two Cities_.
