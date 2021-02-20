@@ -38,6 +38,8 @@ It is possible that Dickens was writing from first-hand experience as he was a f
 
 However, despite his love of the French, _A Tale of Two Cities_, was not very popular in France, and there are fewer French translations than his other works. Some suppose that the book is misunderstood in translation. The title of the first translation _Paris et Londres en 1793_  (Paris and London in 1793)[^ref13], seems to miss the point, ignoring the novel's start date of 1775, and this may account for its lack of popularity. 
 
+**Article written by:** Bethia Carter
+
 
 ### Bibliography
 
