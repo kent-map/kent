@@ -6,45 +6,45 @@
 
 The opening of [Charles Dickens](/dickens/dickens-biography)’ novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dicken's [Swiss chalet](dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill](/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
 
-The action in the novel very quickly moves to the county, with the Mail coach arriving at [Dover](/dickens/dickens-dover) at six a.m., having set off from London at eight the previous evening.  Dickens’ description of the postal service is consistent with contemporary accounts and the passengers’ unwillingness to trust one another seems to reflect the dangerous nature of journeys reported in news articles from 1775, of robberies where highwaymen stopped coaches on their way into towns.[^ref6] The etymology of the place names en route testify to this: "Shooters Hill, so called from the theivery there practiced" and Gad's Hill, from the "Gadd's of steel" or clubs used before fire arms.[^ref7]
+The action in the novel very quickly moves to the county, with the Mail coach arriving at [Dover](/dickens/dickens-dover) at six a.m., having set off from London at eight the previous evening.  Dickens’ description of the postal service is consistent with contemporary accounts and the passengers’ unwillingness to trust one another seems to reflect the dangerous nature of journeys reported in news articles from 1775, of robberies where highwaymen stopped coaches on their way into towns.[^ref1] The etymology of the place names en route testify to this: "Shooters Hill, so called from the theivery there practiced" and Gad's Hill, from the "Gadd's of steel" or clubs used before fire arms.[^ref2]
 
-The journey between Dover and London was a fairly popular one, with coaches making the journey everyday excepting Sundays.[^ref7] The route travelled through Dartford, Rochester, Sittingbourne, [Canterbury](/19c/19c-canterbury) and Faversham. In Dickens’ description of the journey near Shooters Hill, however, it does not sound like a pleasant one:
+The journey between Dover and London was a fairly popular one, with coaches making the journey everyday excepting Sundays.[^ref3] The route travelled through Dartford, Rochester, Sittingbourne, [Canterbury](/19c/19c-canterbury) and Faversham. In Dickens’ description of the journey near Shooters Hill, however, it does not sound like a pleasant one:
 
 ![Millenium Mural, Canterbury / Painted by Elisa Hudson](images/MilleniumMuralMJC.jpg){: .right}
 
->He walked uphill in the mire by the side of the mail […] because the hill, and the harness, and the mud, and the mail were all so heavy, that the horses had three times already come to a stop, besides once drawing the coach across the road, with the mutinous intent of taking it back to Blackheath […] There was a steaming mist in all the hollows, and it had roamed in its forlornness up the hill, like an evil spirit, seeking rest and finding none. A clammy and intensely cold mist, it made its slow way through the air in ripples that visibly followed and overspread one another, as the waves of an unwholesome sea might do.[^ref8] 
+>He walked uphill in the mire by the side of the mail […] because the hill, and the harness, and the mud, and the mail were all so heavy, that the horses had three times already come to a stop, besides once drawing the coach across the road, with the mutinous intent of taking it back to Blackheath […] There was a steaming mist in all the hollows, and it had roamed in its forlornness up the hill, like an evil spirit, seeking rest and finding none. A clammy and intensely cold mist, it made its slow way through the air in ripples that visibly followed and overspread one another, as the waves of an unwholesome sea might do.[^ref4] 
 
-Dickens adds that such a journey in winter was “an achievement to congratulate an adventurous traveller upon”[^ref9] and even the condition of the coach was not something that would add comfort to such a journey, “The mildewy inside of the coach, with its damp and dirty straw, its disagreeable smell, and its obscurity, was rather like a larger dog-kennel”.[^ref10]
+Dickens adds that such a journey in winter was “an achievement to congratulate an adventurous traveller upon”[^ref5] and even the condition of the coach was not something that would add comfort to such a journey, “The mildewy inside of the coach, with its damp and dirty straw, its disagreeable smell, and its obscurity, was rather like a larger dog-kennel”.[^ref6]
 
 As the mail coach trundles through Kent, nothing more is said of the towns and villages, shrouded in darkness. The county acts as a conduit and the story turns to the passengers and their conversation.  However as we approach Dover, Jarvis Lorry, 
 
->lowered the window, and looked out at the rising sun. There was a ridge of ploughed land, with a plough upon it where it had been left last night when the horses were unyoked; beyond, a quiet coppice-wood, in which many leaves of burning red and golden yellow still remained upon the trees. Though the earth was cold and wet, the sky was clear, and the sun rose bright, placid, and beautiful.
+>lowered the window, and looked out at the rising sun. There was a ridge of ploughed land, with a plough upon it where it had been left last night when the horses were unyoked; beyond, a quiet coppice-wood, in which many leaves of burning red and golden yellow still remained upon the trees. Though the earth was cold and wet, the sky was clear, and the sun rose bright, placid, and beautiful.[^ref7]
 
 It is a beautiful, hopeful description of the county that Dickens had made his home.
 
 On arrival at Dover, Mr Lorry takes a walk long the beach at [Dover](/dickens/dickens-dover): 
   
->The little, narrow, crooked town […] hid itself away from the beach, and ran its head into the chalk cliffs, like a marine ostrich. The beach was a desert of heaps of sea and stones tumbling wildly about, and the sea did what it liked, and what it liked was destruction. It […] thundered at the cliffs, and brought the coast down, madly. The air among the houses was of so strong a piscatory flavour […]. A little fishing was done in the port, and a quantity of strolling about by night… [^ref2]
+>The little, narrow, crooked town […] hid itself away from the beach, and ran its head into the chalk cliffs, like a marine ostrich. The beach was a desert of heaps of sea and stones tumbling wildly about, and the sea did what it liked, and what it liked was destruction. It […] thundered at the cliffs, and brought the coast down, madly. The air among the houses was of so strong a piscatory flavour […]. A little fishing was done in the port, and a quantity of strolling about by night… [^ref8]
 
 ![Snargate Street, Dover, 1830/ Drawn by G. Shepherd](images/Snargate St Dover 1830.jpg){: .right}
 
-This is one of only a few references to [Dover](/dickens/dickens-dover). But Dickens does make reference to the Royal George Hotel where Mr Lorry stays before he leaves England. Jervis Lorry's stay sounds a comfortable one, even if the hotel's decor was a little funereal, as he enjoyed a bottle of claret by the fire. The real-life equivalent of this hotel is believed by some to be the Ship Hotel which was sadly demolished the year after Dickens published _A Tale of Two Cities_.[^ref3] Dickens stayed in this hotel in 1856 and this hotel was also frequented by other literati such as Lord Byron.[^ref4] For a time, this hotel bore a name slightly more similar to the one Dickens chose, when it was known as The Royal Ship Hotel.[^ref5] 
+This is one of only a few references to [Dover](/dickens/dickens-dover). But Dickens does make reference to the Royal George Hotel where Mr Lorry stays before he leaves England. Jervis Lorry's stay sounds a comfortable one, even if the hotel's decor was a little funereal, as he enjoyed a bottle of claret by the fire. The real-life equivalent of this hotel is believed by some to be the Ship Hotel which was sadly demolished the year after Dickens published _A Tale of Two Cities_.[^ref9] Dickens stayed in this hotel in 1856 and this hotel was also frequented by other literati such as Lord Byron.[^ref10] For a time, this hotel bore a name slightly more similar to the one Dickens chose, when it was known as The Royal Ship Hotel.[^ref11] 
 
 _A Tale of Two Cities_ is not the only Dickens's novel to include the treacherous journey along the [Dover Road](/dickens/david-copperfield-dover-road/). Both [David Copperfield](/dickens/david-copperfield-curated-walk) and _Little Dorrit_ (1856) include unfavourable accounts of the journey.  
 
 >Next morning’s sun saw Mr Dorrit’s equipage upon the Dover road, where every red-jacketed postilion was the sign of a cruel house, established for the unmerciful plundering of travellers. The whole business of the human race, between London and Dover, being spoliation, Mr Dorrit was waylaid at Dartford, pillaged at Gravesend, rifled at Rochester, fleeced at Sittingbourne, and sacked at Canterbury. However, it being the Courier’s business to get him out of the hands of the banditti, the Courier brought him off at every stage; and so the red-jackets went gleaming merrily along the spring landscape, rising and falling to a regular measure, between Mr Dorrit in his snug corner and the next chalky rise in the dusty highway.
 
-It is possible that Dickens was writing from first-hand experience as he was a frequent visitor to France, a country he loved dearly. In a letter to Emile de la Rue in 1847 he described the French to be "the first people in the universe"[^ref1]. However with the railway opening in Dover in 1844 and the boat train available from the more fashionable neighbouring town of [Folkestone](/19c/19c-folkestone) from 1848, it is more likely Dickens travelled by train. It is on one of these journeys that he was involved in the [Staplehurst](/dickens/dickens-staplehurst/) rail crash, proving that rail journeys, although more comfortable could be as perilous as the mail coach.
+It is possible that Dickens was writing from first-hand experience as he was a frequent visitor to France, a country he loved dearly. In a letter to Emile de la Rue in 1847 he described the French to be "the first people in the universe"[^ref12]. However with the railway opening in Dover in 1844 and the boat train available from the more fashionable neighbouring town of [Folkestone](/19c/19c-folkestone) from 1848, it is more likely Dickens travelled by train. It is on one of these journeys that he was involved in the [Staplehurst](/dickens/dickens-staplehurst/) rail crash, proving that rail journeys, although more comfortable could be as perilous as the mail coach.
 
-However, despite his love of the French, _A Tale of Two Cities_, was not very popular in France, and there are fewer French translations than his other works. Some suppose that the book is misunderstood in translation. The title of the first translation _Paris et Londres en 1793_  (Paris and London in 1793)[^ref1], seems to miss the point, ignoring the novel's start date of 1775, and this may account for its lack of popularity. 
+However, despite his love of the French, _A Tale of Two Cities_, was not very popular in France, and there are fewer French translations than his other works. Some suppose that the book is misunderstood in translation. The title of the first translation _Paris et Londres en 1793_  (Paris and London in 1793)[^ref13], seems to miss the point, ignoring the novel's start date of 1775, and this may account for its lack of popularity. 
 
 
 ### Bibliography
 
 Biography.com (2020) _Charles Dickens Biography_. Available at: https://www.biography.com/writer/charles-dickens (Accessed: 3 February 2021).   
 Birmingham, J. (1853) 'The Royal Ship Hotel Dover', _The South Eastern Gazette_, 4 October, p.8.   
-Daily Advertiser (1775) 'News', 3 January, p.1   
 Cruden, R. P. _The History of the Town of Gravesend in the County of Kent and of the Port of London_ 1843.
+Daily Advertiser (1775) 'News', 3 January, p.1   
 Dickens, C. (1875) _A Tale of Two Cities_. Facsimile. London: GE Fabbri Publishing Ltd., 2003.   
 Edmondson, J. (ed.) (2006) _Dickens on France: Fiction, Journalism and Travel Writing_. Oxford: Signal Books Limited.   
 MacCarthy, F. (2014) _Byron: Life and Legend_. London: John Murray Press.     
@@ -58,15 +58,16 @@ Whyman, John. _Kentish Sources: The Early Kentish Seaside_. 1985. Kent Archives 
 
 ### References
 
-[ref1:] (Storey, G. and Fielding, K.J., 42).
-[^ref1]: (Jones, McDonagh, and Mee, 2009).  
-[^ref2]:  (Dickens, 1875, p.20).   
-[^ref3]:  (Legendary Trips, 2021).   
-[^ref4]:(MacCarthy, 2014, ch.17).   
-[^ref5]:  (Birmingham, 1853).  
-[^ref6]:  (Daily Advertiser, 1775, p.1).  
-[^ref7]:  (Whyman, 1985, p.33).  
-[^ref8]:  (Dickens, 1875, pp.5-6).  
-[^ref9]:  (Dickens, 1875, p.17).  
-[^ref10]:  Ibid.  
-
+[^ref1]:  (Daily Advertiser, 1775, p.1).   
+[^ref2]:  (Cruden, 1843, 258)
+[^ref3]:  (Whyman, 1985, p.33).    
+[^ref4]:  (Dickens, 1875, pp.5-6).  
+[^ref5]:  (Dickens, 1875, p.17).   
+[^ref6]:  (Dickens, 1875, p.17).   
+[^ref7]:  (Dickens, 1875, ch. 3)   
+[^ref8]:  (Dickens, 1875, p.20).   
+[^ref9]:  (Legendary Trips, 2021).   
+[^ref10]: (MacCarthy, 2014, ch.17).   
+[^ref11]: (Birmingham, 1853).    
+[^ref12]: (Storey, G. and Fielding, K.J., 42).    
+[^ref13]: (Jones, McDonagh, and Mee, 2009).    
