@@ -1,6 +1,8 @@
 ## The Mermaid Tour
 
-**Excerpt**, from [-In Margate by Lunchtime_](https://maggieharris.co.uk/books/in-margate-by-lunchtime/), Maggie Harris
+![Chris Whippet / Northern Belle, Margate](https://upload.wikimedia.org/wikipedia/commons/9/93/Northern_Belle%2C_Margate_-_geograph.org.uk_-_1715327.jpg){: .right}
+
+**Excerpt**, from [_In Margate by Lunchtime_](https://maggieharris.co.uk/books/in-margate-by-lunchtime/), Maggie Harris
 
 There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist.   
 
