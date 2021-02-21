@@ -38,7 +38,7 @@
 **15/1/2008** -   A moment on the bus where the streaks of green and brown and the rain across the windows becomes the one and only moment. A strange happiness. Then I have to get off and walk through Canterbury. Collapsed umbrellas in bins.   
 **15/2/2008**  -  After two very foggy days it clears and gets colder. The first daffodil in the yard is out, plus a couple of snowdrops, shoots of bluebells and another as yet unplaced bulb. The climbing plants, seemingly dead, have come back to life.
 <param ve-map primary center="Q29303" zoom="10">
-<param ve-image url="21c/images/xxx" label="xxx">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/82/Canterbury_bus_interchange_-_geograph.org.uk_-_2910956.jpg" label="Oast House Archive / Canterbury bus interchange">
 
 ### 2009
 **7/1/2009** - [Faversham] The snow from two nights back hasn’t melted. Interesting to see what plants seem to have survived well – lavender, thyme, oregano. Tarragon dies naturally in winter.   
@@ -56,7 +56,7 @@ plant snowdrops
 snowdrops eaten by pheasant (partly)   
 **25/6/2010** - Just sit down in the quiet bar of my local when the madwoman of Faversham enters. She has a stock set of shouted phrases, usually animus toward a (long dead) partner, his drinking, being thrown out of the house. She repeats: ‘any more of that and we’re not coming for Christmas’. Further: ‘she’s a very good willing girl which you’re not Elizabeth’; ‘actually I’ve got some quite nice jewellery at home and I don’t give a damn’; ‘turn on her husband . . .right old cow he was’. Etcetera for however long.
 <param ve-map center="Q1000115" zoom="10">
-<param ve-image url="21c/images/xxx.jpeg" label="xxx">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Footpath_on_Monkshill_Road_-_geograph.org.uk_-_1559327.jpg" label="David Anstiss / Footpath on Monkshill Road">
 
 **6/7/2010** - At the Anchor: The vista from the bar down a corridor and through three rooms looks as though there must be a mirror somewhere; that it’s only half the length it appears. But the objects at the end aren’t reflections. The clientele: boatyard people and ‘women of a certain age’. Neither sex has a ‘use-by-date’. A wet looking long-haired greyhound and a black dog that drags its arse along the floor.    
 **9/7/2010** -  Last night – three ducklings in the yard. Today – eight, plus the duck. With the aid of neighbours the chicks are boxed (to take down to the lake) but the duck is uncatchable. It hangs around at a distance then (worryingly) disappears. I release the ducklings and luckily the duck returns. The pond will have to suffer.   
@@ -82,7 +82,7 @@ snowdrops eaten by pheasant (partly)
 **13/3/2015** - On the ‘two creeks’ circular walk from Faversham I notice a patch of colour in a bush beside the track. It is a laminated copy of William Blake’s ‘London’.   
 **25/6/2015** - I decide to travel back via London Victoria and catch the 3.05. At Farningham Road there are some bangs under my carriage (the second last) and shortly after the train stops on the viaduct. It stays there without power for two hours. Social media soon lets it out that someone had thrown themselves in front of the train from the platform of the Farningham Road station. The driver was a trainee and will certainly need counselling but no-one could have stopped the train in time. The metallic clanks meant that the body had bounced all the way under the train stripping the conducting ‘shoes’ down one side and cutting off the power. After a while police and emergency crews walk around and through the train. The body is apparently and understandably ‘not a pretty sight’. Eventually the train is shunted to the Medway where I change. I get home around seven. Last Friday when we went to Yorkshire our trans-Pennine train (Leeds – Hebden Bridge) was turned back because of an ‘incident’ (i.e. body on the tracks). This is a not infrequent cause for delay in the rail services and the companies have developed euphemisms to cover the tragedies. These just don’t work in a networked age.
 <param ve-map center="Q7074367" zoom="10">
-<param ve-image url="21c/images/xxx.jpeg" label="xxx">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/Faversham_Station_%2816485929108%29.jpg" label="Joshua Brown from Ashford, Kent, United Kingdom, CC BY-SA 2.0, via Wikimedia Commons">
 
 ### 2016
 **8/7/2016** - Breakfast out at The Yard (‘the usual at the usual’). Ken would like this place. There’s a cool wind through the open door. The coat hangers seem to have a permanent collection of coats – you would have to hang yours somewhere else. Ahead of me a bad portrait of Judi Dench. The strange sight of a man with a notebook (me) among others with iphones. We live to view our own obsolescence.   
