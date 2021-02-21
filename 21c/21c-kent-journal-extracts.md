@@ -30,8 +30,8 @@
 **1/10/2007**     I’ve just sent off the MS of ‘The Skies Over Thanet’ [the MS that subsequently became [Crab & Winkle](/21c/21c-crab-and-winkle)]. The title’s from a Turner quote and fortuitously there’s an item in today’s _Guardian_ about meteorologists taking note of Turner’s sunsets. Apparently, as JMWT was painting [in Kent] the atmosphere was affected by eruptions in Indonesia, half a world away.
 **15/10/2007**     Virginia Woolf was in Rough Common – at ‘Moat House’, addressed as Blean, but just off the R.C. road, in 1910, one of her early breakdowns. The house was rented by Clive and Vanessa. The ‘rest cure’ didn’t work and she went into hospital, but she did write a nice paragraph about the surrounds.
 **23/12/2007**     Dungeness – English Surrealist painters invariably dealt with the seaside. Surrealism was almost washed ashore from France. An anthology could be called ‘Flotsam’.
-<param ve-map center="Q7074367" zoom="10">
-<param ve-image url="21c/images/Oare Marshes.jpeg" label="Oare Marshes © Astrid Stilma">
+<param ve-map primary center="Q7074367" zoom="10">
+<param ve-image url="21c/images/dungeness.jpg" label="Dungeness © Michelle Crowther">
 
 **15/1/2008**    A moment on the bus where the streaks of green and brown and the rain across the windows becomes the one and only moment. A strange happiness. Then I have to get off and walk through Canterbury. Collapsed umbrellas in bins.
 **15/2/2008**    After two very foggy days it clears and gets colder. The first daffodil in the yard is out, plus a couple of snowdrops, shoots of bluebells and another as yet unplaced bulb. The climbing plants, seemingly dead, have come back to life.
