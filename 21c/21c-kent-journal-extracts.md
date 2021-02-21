@@ -49,8 +49,8 @@
 **2/9/2009** Paradoxically perhaps, I find myself the inhabitant of a county no-one I’ve met knows a lot about. A ‘home county’ but off the radar of many Brit. writers despite its history ([Ford](/20c/20c-fordmadoxford-biography), [Conrad](/19c/19c-conrad-biography) &c). History asserts itself in one particular: the Kent coast was for years accessible more by sea than by land. Hence association with smugglers, escaping Kings &c. And only an hour and a bit out of London, where they seem to know more about Yorkshire.
 
 **18/9/2009**   A puffin over the Oare Marshes (strayed from the north Pacific).
-<param ve-map ="Q7074367" zoom="10">
-<param ve-image url="20c/images/Oare Marshes.jpeg" label="Oare Marshes © Astrid Stilma">
+<param ve-map center="Q7074367" zoom="10">
+<param ve-image url="21c/images/Oare Marshes.jpeg" label="Oare Marshes © Astrid Stilma">
 
 **30/11/2009**  The backyard soil hasn’t dried out for weeks – it’s all sodden, though the primulas and various other plants seem to like it. The Xmas lights are on. The town adolescents are slightly mad. I actually welcome the darkness, the season. It makes sense of everything else.
 
