@@ -2,40 +2,30 @@
 <param ve-config title="Journal Extracts 2007-2018" author="Laurie Duggan" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/db/Sissinghurst_Castle%2C_Biddenden_Road%2C_Sissinghurst%2C_Kent_-_geograph.org.uk_-_1387067.jpg" attribution="Oast House Archive / Sissinghurst Castle, Biddenden Road, Sissinghurst, Kent">
 
 <param ve-entity eid="Q1752642" aliases="Thanet">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
+<param ve-entity eid="Q7370806" aliases="Rough Common">
+<param ve-entity eid="Q26621065" aliases="Moat House">
+<param ve-entity eid="Q2741069" aliases="Blean">
+<param ve-entity eid="Q911577" aliases="Dungeness">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q1000115" aliases="Faversham">
+<param ve-entity eid="Q26321951" aliases="Wilgate Green">
+<param ve-entity eid="Q2621037" aliases="Throwley">
+<param ve-entity eid="Q7125067" aliases="Painters Forstal">
+<param ve-entity eid="Q7074367" aliases="Oare Marshes">
+<param ve-entity eid="Q26587075" aliases="Monkshill">
+<param ve-entity eid="Q26627972" aliases="The Anchor">
+<param ve-entity eid="Q1500299" aliases="Sheppey">
+<param ve-entity eid="Q5241797" aliases="Davington Priory">
+<param ve-entity eid="Q19872" aliases="M25">
+<param ve-entity eid="Q964785" aliases="Whitstable">
+<param ve-entity eid="Q2927534" aliases="Allhallows">
+<param ve-entity eid="Q1321596" aliases="Hoo Peninsula">
+<param ve-entity eid="Q55590041" aliases="Grain">
+<param ve-entity eid="Q1003196" aliases="Sheerness">
+<param ve-entity eid="Q797782" aliases="Medway">
+<param ve-entity eid="Q1434222" aliases="river Medway">
+<param ve-entity eid="Q2195317" aliases="Goodnestone">
+<param ve-entity eid="Q507517" aliases="Rochester">
 
 ## Journal extracts: Kent 2007-2018
 
@@ -92,7 +82,7 @@ snowdrops eaten by pheasant (partly)
 
 **25/6/2015**  I decide to travel back via London Victoria and catch the 3.05. At Farningham Road there are some bangs under my carriage (the second last) and shortly after the train stops on the viaduct. It stays there without power for two hours. Social media soon lets it out that someone had thrown themselves in front of the train from the platform of the Farningham Road station. The driver was a trainee and will certainly need counselling but no-one could have stopped the train in time. The metallic clanks meant that the body had bounced all the way under the train stripping the conducting ‘shoes’ down one side and cutting off the power. After a while police and emergency crews walk around and through the train. The body is apparently and understandably ‘not a pretty sight’. Eventually the train is shunted to the Medway where I change. I get home around seven. Last Friday when we went to Yorkshire our trans-Pennine train (Leeds – Hebden Bridge) was turned back because of an ‘incident’ (i.e. body on the tracks). This is a not infrequent cause for delay in the rail services and the companies have developed euphemisms to cover the tragedies. These just don’t work in a networked age.
 
-**8/7/2016**  Breakfast out at The Yard (‘the usual at the usual’). Ken would like this place. There’s a cool wind through the open door. The coat hangers seem to have a permanent collection of coats – you would have to hang yours somewhere else. Ahead of me a bad portrait of Judi Densch. The strange sight of a man with a notebook (me) among others with iphones. We live to view our own obsolescence.
+**8/7/2016**  Breakfast out at The Yard (‘the usual at the usual’). Ken would like this place. There’s a cool wind through the open door. The coat hangers seem to have a permanent collection of coats – you would have to hang yours somewhere else. Ahead of me a bad portrait of Judi Dench. The strange sight of a man with a notebook (me) among others with iphones. We live to view our own obsolescence.
 
 **6/8/2016**  An afternoon walk to Goodnestone and back. En route, wheat, hops, barley, strawberries, blueberries – the strawberry rows with an intense odour. A young Polish girl tries to find the home of a lost dog. I finish off a notebook over a pint of stout in The Sun. 
 
