@@ -1,6 +1,6 @@
 <param ve-config 
        title="21st Century"
-       banner="images/XXX.png"
+       banner="images/Millenium Mural.jpg"
        layout="index">
 
 #
@@ -28,6 +28,6 @@ When walking around the city of Canterbury, one quickly notices the amount of re
 
 - author: Laurie Duggan
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham across Ham Marshes 1.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham across Ham Marshes 1.jpeg)
 
 Australian poet Laurie Duggan's journal extracts from his time living in Kent
