@@ -24,7 +24,7 @@ The word mystery comes to mind when approaching Seabrook and his work - a fittin
 When walking around the city of Canterbury, one quickly notices the amount of representation and references of the city’s rich cultural heritage. Murals are particularly popular, in the first thought to tackle the illegal graffiti, in the second to give a new look to some of the grimmer spots in the city. 
 
 ##
-**[Journal Extracts](21-journal-extracts)
+**[Journal Extracts](21c-kent-journal-extracts)
 
 - author: Laurie Duggan
 
