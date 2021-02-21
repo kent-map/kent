@@ -48,7 +48,7 @@
 **18/9/2009** -  A puffin over the Oare Marshes (strayed from the north Pacific).   
 **30/11/2009** - The backyard soil hasn’t dried out for weeks – it’s all sodden, though the primulas and various other plants seem to like it. The Xmas lights are on. The town adolescents are slightly mad. I actually welcome the darkness, the season. It makes sense of everything else.   
 <param ve-map primary center="Q7074367" zoom="10">
-<param ve-image url="21c/images/Oare Marshes.jpeg" label="Oare Marshes © Astrid Stilma">
+<param ve-image url="images/Oare Marshes.jpeg" label="Oare Marshes © Astrid Stilma">
 
 ### 2010
 **2/2/2010** - Yesterday, sunlight, a walk. Bitten by a dog near Monkshill.   
