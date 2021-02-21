@@ -68,7 +68,7 @@ snowdrops eaten by pheasant (partly)
 **3/10/2011** - On the walk back past Davington Priory the sound of a trumpet (played well), smoke drifting into the churchyard from the Geldof residence (from a barbecue?). A diagonal of sunlight illuminating gravestones.   
 **12/12/2011** - Storms expected, the night before departure for Seville. I hope the tiles stay on the roof. When R and I visited Britain in November 1987 we saw the effects of the ‘big wind’ which had flattened trees near the M25. The Kent cricket ground’s famous tree (within the boundary) was blown down.   
 <param ve-map center="Q7074367" zoom="10">
-<param ve-image url="21c/images/Oare Marshes.jpeg" label="Oare Marshes © Astrid Stilma">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/The_church_of_St.Mary_Magdalen%2C_Davington_-_geograph.org.uk_-_1276737.jpg" label="pam fray, CC BY-SA 2.0, via Wikimedia Commons">
 
 ### 2012-14
 **28/5/2012** - In the yard, three nests: pigeon (in pyrocanthus), blackbird (over the path trellis) and redbreast (in the brickwork of the back wall). A storm holds off. Maybe it hits London.    
