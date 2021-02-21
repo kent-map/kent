@@ -88,7 +88,7 @@ snowdrops eaten by pheasant (partly)
 **8/7/2016** - Breakfast out at The Yard (‘the usual at the usual’). Ken would like this place. There’s a cool wind through the open door. The coat hangers seem to have a permanent collection of coats – you would have to hang yours somewhere else. Ahead of me a bad portrait of Judi Dench. The strange sight of a man with a notebook (me) among others with iphones. We live to view our own obsolescence.   
 **6/8/2016** - An afternoon walk to Goodnestone and back. En route, wheat, hops, barley, strawberries, blueberries – the strawberry rows with an intense odour. A young Polish girl tries to find the home of a lost dog. I finish off a notebook over a pint of stout in The Sun.    
 <param ve-map center="Q7074367" zoom="10">
-<param ve-image url="21c/images/xxx" label="xxx">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7a/Footpath_to_Goodnestone_-_geograph.org.uk_-_1500091.jpg" label="pam fray / Footpath to Goodnestone">
 
 ### 2018
 **30/8/2018** - At Rochester new housing advertises itself as ‘The Home Of [Great Expectations](/dickens/great-expectations-curated-walk)’.   
