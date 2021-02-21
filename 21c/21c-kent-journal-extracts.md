@@ -61,7 +61,7 @@ snowdrops eaten by pheasant (partly)
 **6/7/2010** - At the Anchor: The vista from the bar down a corridor and through three rooms looks as though there must be a mirror somewhere; that it’s only half the length it appears. But the objects at the end aren’t reflections. The clientele: boatyard people and ‘women of a certain age’. Neither sex has a ‘use-by-date’. A wet looking long-haired greyhound and a black dog that drags its arse along the floor.    
 **9/7/2010** -  Last night – three ducklings in the yard. Today – eight, plus the duck. With the aid of neighbours the chicks are boxed (to take down to the lake) but the duck is uncatchable. It hangs around at a distance then (worryingly) disappears. I release the ducklings and luckily the duck returns. The pond will have to suffer.   
 <param ve-map center="Q7074367" zoom="10">
-<param ve-image url="21c/images/Oare Marshes.jpeg" label="Oare Marshes © Astrid Stilma">
+<param ve-image url="21c/images/https://upload.wikimedia.org/wikipedia/commons/0/00/The_Anchor_Public_House%2C_Faversham_-_geograph.org.uk_-_1728967.jpg" label="David Anstiss / The Anchor Public House, Faversham">
 
 ### 2011
 **7/1/2011** - [Flying back:] There’s a clear patch of sky over our part of the East Kent coast. The Faversham and Oare Creeks are visible at high tide in from the eastern end of Sheppey. Then it pours driving back through Surrey.   
