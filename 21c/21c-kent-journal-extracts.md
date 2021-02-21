@@ -32,7 +32,7 @@
 **15/10/2007**  -   Virginia Woolf was in Rough Common – at ‘Moat House’, addressed as Blean, but just off the R.C. road, in 1910, one of her early breakdowns. The house was rented by Clive and Vanessa. The ‘rest cure’ didn’t work and she went into hospital, but she did write a nice paragraph about the surrounds.   
 **23/12/2007**  -   Dungeness – English Surrealist painters invariably dealt with the seaside. Surrealism was almost washed ashore from France. An anthology could be called ‘Flotsam’.
 <param ve-map primary center="Q1752642" zoom="10">
-<param ve-image url="21c/images/dungeness.jpg" label="Dungeness © Michelle Crowther">
+<param ve-image url="2https://upload.wikimedia.org/wikipedia/commons/c/cb/Joseph_Mallord_William_Turner_%281775-1851%29_-_Margate_-_T03876_-_Tate.jpg" label="J. M. W. Turner, Public domain, via Wikimedia Commons">
 
 ### 2008
 **15/1/2008** -   A moment on the bus where the streaks of green and brown and the rain across the windows becomes the one and only moment. A strange happiness. Then I have to get off and walk through Canterbury. Collapsed umbrellas in bins.   
