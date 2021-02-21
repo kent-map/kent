@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Journal Extracts 2007-2018" author="Laurie Duggan" layout="vtl" banner=21c/images/"Faversham across Ham Marshes 1.jpeg" attribution="Faversham across Ham Marshes © Astrid Stilma">
+<param ve-config title="Journal Extracts 2007-2018" author="Laurie Duggan" layout="vtl" banner="images/Faversham across Ham Marshes 1.jpeg" attribution="Faversham across Ham Marshes © Astrid Stilma">
 
 <param ve-entity eid="Q1752642" aliases="Thanet">
 <param ve-entity eid="Q7370806" aliases="Rough Common">
