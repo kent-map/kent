@@ -33,7 +33,7 @@ When walking around the city of Canterbury, one quickly notices the amount of re
 Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
 ##
-**[In Margate by Lunchtime](21c-margate-lunch-time)**
+**[In Margate by Lunchtime](21c-margate-lunchtime)**
 
 - author: Maggie Harris
 
