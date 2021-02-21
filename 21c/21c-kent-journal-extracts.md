@@ -96,7 +96,7 @@ snowdrops eaten by pheasant (partly)
 **7/9/2018** - For a moment the barmaid in The Sun looks like the one in Manet’s painting.   
 **17/10/2018** - The bar from this perspective would look good as an Edward Hopper painting. The silent regular sits to the right, displaced from his usual stool, with his dog sleeping on the floor. there are a few illuminated objects, shelf lights, taps. Glimmer from a bucket of ice.    
 <param ve-map center="Q7074367" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/Edouard_Manet-Study_of_the_barmaid_for_Le_Bar_des_Folies_Bergeres_mg_1821.jpg" label="Édouard Manet, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg" label="Édouard Manet, Public domain, via Wikimedia Commons">
 
 ©Laurie Duggan
 
