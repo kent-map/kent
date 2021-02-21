@@ -80,6 +80,13 @@ Alexa Barrett is an undergraduate English Literature and Creative and Profession
 Simone Blandford is an undergraduate BA English Literature student at the University of Exeter. She’s an aspiring academic looking to continue her studies beyond her BA. She can usually be found researching authors in dusty old libraries or telling everyone who’ll listen fun-facts about said authors.
 
 ##
+**Bethia Carter**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/bethiacarter.jpg)
+
+ethia Carter is currently in her third year studying at Canterbury Christ Church University, for a BA (Hons) degree in English Language and Communication and French. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
+
+##
 **Susan Civale**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/susancivale.jpg)
