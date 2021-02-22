@@ -48,5 +48,5 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Margate statue.JPG)
 
-Once a popular seaside resort where Victorians came to take the air,
+Once a popular seaside resort where Victorians came to take the air, Margate was to suffer the fate of many other seaside towns: limping through the end of the last century with rising unemployment, dilapidated structures, organ music, and absent holiday makers.
 
