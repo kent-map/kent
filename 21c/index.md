@@ -37,6 +37,6 @@ Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
 - author: Maggie Harris
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/eliot 1.jpeg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Margate statue.JPG)
 
 There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist. ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’
