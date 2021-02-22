@@ -48,3 +48,5 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Margate statue.JPG)
 
+Once a popular seaside resort where Victorians came to take the air,
+
