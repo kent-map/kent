@@ -1,6 +1,8 @@
-## The Mermaid Tour
+<param ve-config style="article">
 
 ![Chris Whippet / Margate Clock Tower](https://upload.wikimedia.org/wikipedia/commons/4/43/Margate_Clock_Tower_-_geograph.org.uk_-_1715234.jpg){: .right}
+
+## The Mermaid Tour
 
 **Excerpt**, from [_In Margate by Lunchtime_](https://maggieharris.co.uk/books/in-margate-by-lunchtime/), Maggie Harris
 
