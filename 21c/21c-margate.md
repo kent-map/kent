@@ -12,7 +12,7 @@ But a very different Margate has arisen over the last twenty years due to consid
 
 It remains to be seen what impact Covid will make on the new creative industries, and small businesses on the whole. But the town’s success at evolving proves that adaptability, above all, is the key to meeting future challenges. 
 
-My book _In Margate by Lunchtime_ offers a bird’s eye view of Thanet from pre-Roman times to the 20th c. Just as our early ancestors would have found miraculous The Thanet Windfarm which stands now off the coast like sentinels  an act of magic, so might of a mermaid tour guide on a Vespa, except of course she’s real. 
+My book [_In Margate by Lunchtime_](/21c/21c-margate-lunchtime) offers a bird’s eye view of Thanet from pre-Roman times to the 20th c. Just as our early ancestors would have found miraculous The Thanet Windfarm which stands now off the coast like sentinels  an act of magic, so might of a mermaid tour guide on a Vespa, except of course she’s real. 
 
 **Article written by:** Maggie Harris. February 2021.
 
