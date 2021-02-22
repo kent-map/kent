@@ -3,65 +3,56 @@ from Crab & Winkle - April
 
 
 At the rear of West Street an old estate wall. The buildings impinge upon each other, a stairwell into the neighbour room, a cellar under a different space. What’s now the garage used to be a bakery (the house was a fishmongery).
-
-                                        §
-
+                                  
 From the Ham Marshes you can navigate by the church spire: Faversham’s open frame, visible from Hollowshore, the Shipwright pub.
-
-                                        §
-
+            
 In the stationers I view maps on the first floor, viewed myself by the security camera. The shop’s proprietor comes upstairs and pretends to do odd tasks but is really just making extra sure I don’t steal anything.
 
 Sometimes it seems this whole small world belongs to the National Trust and you will be able to buy preserves and tea-towels at the kiosk afterwards.
 
-                                        §
+back lanes to the Chart Gunpowder Mill                              
+following the creek through Davington   
+then uphill to the cricket ground   
+overlooking the Almshouses.   
+Davington Pond, the allotments,   
+the back of a supermarket   
 
-                           back lanes to the Chart Gunpowder Mill
-                           following the creek through Davington
-                           then uphill to the cricket ground
-                           overlooking the Almshouses.
-                           Davington Pond, the allotments,
-                           the back of a supermarket
+clear nettles and dead leaves from the path   
+(these leftovers from last year)   
+detach of their own accord when opened)   
 
-                           clear nettles and dead leaves from the path
-                           (these leftovers from last year)
-                           detach of their own accord when opened)
+at Knole, the weight of history,
+the rotting canopy of a four-poster
 
-
-                                        §
-
-                           at Knole, the weight of history,
-                           the rotting canopy of a four-poster
-
-                           those fearsome kings and clerics
-                           – enough to bury [Vita Sackville-West](/20c/20c-sackville-west-biography)
-                           were she given the chance
-                                                                           (how could Knole
-                           be regretted?
+those fearsome kings and clerics
+– enough to bury [Vita Sackville-West](/20c/20c-sackville-west-biography)
+were she given the chance
+(how could Knole
+be regretted?
 
 
-                                                            adjourn
-                           for lunch, Shoreham,
-                           a fold in the North Downs,
-                           the Darent
-                                                – no trace
-                           of Samuel Palmer, the most excellent
-                           Mr B.
-                                             a footpath, signed
-                           under ten feet of water
+adjourn
+for lunch, Shoreham,
+a fold in the North Downs,
+the Darent
+– no trace
+of Samuel Palmer, the most excellent
+Mr B.
+a footpath, signed
+under ten feet of water
 
-                           further up the road, 
-                                                               Lullingstone,
-                           its mosaics and hot baths out of place
-                           in this landscape
+further up the road, 
+Lullingstone,
+its mosaics and hot baths out of place
+in this landscape
 
-                                                            then, nowhere,
-                           the approach to Dartford,
-                           chapels lost with infill
+then, nowhere,
+the approach to Dartford,
+chapels lost with infill
 
-                           it’s Easter
+it’s Easter
  
-                           day of the exploding coffee-pot
+day of the exploding coffee-pot
 
                                         §
 
