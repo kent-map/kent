@@ -50,7 +50,7 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 - author: Professor Max Saunders
 
-![](https://kent-map.github.io/kent/20c/images/redlandscape.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
@@ -59,7 +59,7 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 - author: Jeremy Page
 
-![](https://kent-map.github.io/kent/20c/images/Jarman1.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Jarman1.jpg)
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
 
