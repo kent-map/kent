@@ -41,15 +41,16 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 - author: Peter Vujakovic
 
-![](https://kent-map.github.io/kent/20c/images/redlandscape.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
 
+Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. 
 
 ##
 [**Alfred Cohen**](/20c/20c-cohen-biography)
 
 - author: Professor Max Saunders
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
+![](https://kent-map.github.io/kent/20c/images/redlandscape.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
