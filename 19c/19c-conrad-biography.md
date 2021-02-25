@@ -27,7 +27,7 @@ Although a popular novelist and eventually recognised by the critics, Conrad did
 
 Conrad’s legacy lies in his storytelling and his capture of the human interest in what was, during his time, regarded as exotic and ordinary. Major feature films such as ‘Lord Jim’(1965), ‘Apocalypse Now’ (1979) and ‘An Outcast of the Islands’ (1952) provide testimony for the enduring humanity of his work. In 1916 Conrad was the subject of a by fellow Kent author [Hugh Walpole](/19c/19c-walpole-biography). [Jospeh Conrad](https://www.gutenberg.org/files/52453/52453-h/52453-h.htm) was published in New York by Henry Holt and Company.
 <param ve-image url="images/conradgrave.jpg" label="Joseph Conrad's grave © Kate Davies">
-param data-map primary center="Q29303" zoom="10">
+<param data-map primary center="Q29303" zoom="10">
 
 **Article written by:** 
 Dr Martin Watts
