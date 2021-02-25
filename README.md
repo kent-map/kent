@@ -37,6 +37,15 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
 ##
+[**Charles Darwin**](/19c/19c-darwin-biography)
+
+- author: Peter Vujakovic
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
+
+Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. 
+
+##
 [**Alfred Cohen**](/20c/20c-cohen-biography)
 
 - author: Professor Max Saunders
