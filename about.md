@@ -117,7 +117,7 @@ Michael Goodrum is a Senior Lecturer in Modern History at CCCU. His most recent 
 ##
 **Maggie Harris**
 
-![](ttps://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Maggie photo Westgate.jpg)
+![](ttps://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maggie photo Westgate.jpg)
 
 Maggie Harris is a Guyanese writer living in Kent. Winner of the Guyana Prize for Literature and Regional Winner of the Commonwealth Short Story Prize, she has taught Creative Writing at Kent and was International Fellow at Southampton University. Her poetry is published by Cane Arrow Press, and her short stories by Cultured Llama and Seren. Photo by Eleanor Marriot.
 
