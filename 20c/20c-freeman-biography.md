@@ -24,13 +24,13 @@ Not being a resident himself, Freeman is surely allowed to place a boatman in 3 
 
 ### Bibliography
 
-Donaldson, Norman. In Search of Dr Thorndyke. Ohio: Bowling Green University Popular Press, 1971.   
+Donaldson, Norman. _In Search of Dr Thorndyke._ Ohio: Bowling Green University Popular Press, 1971.   
 
-Freeman, R. Austin. ‘The Echo of a Mutiny.’ Deep Waters: Mysteries on the Waves. Ed. Martin Edwards. London: British Library, 2020. 107-149. First published 1912.
+Freeman, R. Austin. _‘The Echo of a Mutiny.’ Deep Waters: Mysteries on the Waves._ Ed. Martin Edwards. London: British Library, 2020. 107-149. First published 1912.
 
---. Mystery in the Channel. London: British Library, 2016. First published 1931.
+--. _Mystery in the Channel._ London: British Library, 2016. First published 1931.
 
-‘Obituary.’ 1 October 1943. Times. 7. The Times Digital Archive, link.gale.com/apps/doc/CS119618881/GDCS?u=ccc_uni&sid=GDCS&xid=c53573ce. Accessed 17 February 2021.
+‘Obituary.’ 1 October 1943. Times. 7. _The Times Digital Archive_, [Gale](link.gale.com/apps/doc/CS119618881/GDCS?u=ccc_uni&sid=GDCS&xid=c53573ce.) Accessed 17 February 2021.
 
 ### References
 
