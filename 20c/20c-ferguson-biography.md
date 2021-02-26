@@ -3,7 +3,7 @@
 Chaplain of Eversley School, Sandgate 1915 – 1939.
 
 >‘I wandered out on the Leas, amid the gay butterflies listening to the military band, which that afternoon was playing on the glorious headland. In the midst of all that kaleidoscope of colour and buzz of talk I had a sense of being separate and aloof.’
-_Stealthy Terror_ (1918)_
+_Stealthy Terror_ (1918)
 
 Scottish by birth, novelist and dramatist John Ferguson became chaplain of Eversley girls’ school in Sandgate in 1915.[^ref1] The following year he wrote a paper for the Folkestone War Refugees Committee on the town’s contribution in helping [Belgian refugees](/20c/20c-belgian-refugees).[^ref2] 
 
