@@ -25,13 +25,13 @@ Walpole, Hugh. _The Cathedral_. 1st World Publishing, Incorporated, United State
 
 ### References
 
-[^ref1]: [Manuscript of Hugh Walpole, The Hugh Walpole collection at the King’s School Canterbury, 1929](http://www.kings-archives.co.uk/books-about-kings/memories-of-kings/hugh-walpole/)
-[^ref2]: _The English Journal_ 530.
-[^ref3]:  _Diaries._ Stape 179.   
-[^ref4]:  Ibid.
-[^ref5]:  _The English Journal_ 533.
-[^ref6]:  Ibid.
-[^ref7]: _The Cathedral_ 7.
-[^ref8]:  Diaries, 170.
+[^ref1]: [Manuscript of Hugh Walpole, The Hugh Walpole collection at the King’s School Canterbury, 1929](http://www.kings-archives.co.uk/books-about-kings/memories-of-kings/hugh-walpole/)   
+[^ref2]: _The English Journal_ 530.   
+[^ref3]:  _Diaries._ Stape 179.    
+[^ref4]:  Ibid.   
+[^ref5]:  _The English Journal_ 533.   
+[^ref6]:  Ibid.   
+[^ref7]: _The Cathedral_ 7.   
+[^ref8]:  Diaries, 170.   
 
 
