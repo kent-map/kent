@@ -24,16 +24,16 @@ Julia Reidhead, Marian Johnson, Eds. _The Norton Anthology of English Literature
 
 ### References
 
-[^ref1]: _The Younger Brother_ 
-[^ref2]: Todd. 
-[^ref3]: Todd. 
-[^ref4]: Webb. 
-[^ref5]: Webb. 
-[^ref6]: Norton, 1034. 
-[^ref7]: _Britannica_ 
-[^ref8]: _Britannica_ 
-[^ref9]: Hughes 29. 
-[^ref10]: Todd. 
-[^ref11]: _Norton_ 1028. 
-[^ref12]: Hughes 29. 
-[^ref13]: _Norton_ 1027.
+[^ref1]: _The Younger Brother_    
+[^ref2]: Todd.   
+[^ref3]: Todd.   
+[^ref4]: Webb.   
+[^ref5]: Webb.   
+[^ref6]: Norton, 1034.   
+[^ref7]: _Britannica_   
+[^ref8]: _Britannica_   
+[^ref9]: Hughes 29.   
+[^ref10]: Todd.   
+[^ref11]: _Norton_ 1028.   
+[^ref12]: Hughes 29.   
+[^ref13]: _Norton_ 1027.  
