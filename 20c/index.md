@@ -13,6 +13,7 @@
 [Alfred Cohen](20c-cohen-biography)   
 [Edith Craig](20c-craig-biography)  
 [T.S. Eliot](20c-eliot-biography)   
+[John Ferguson](20c-ferguson-biography)   
 [Ford Madox Ford](20c-fordmadoxford-biography)   
 [R. Austin Freeman](20c-freeman-biography)   
 [Victoria Holt](20c-holt-biography)   
