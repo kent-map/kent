@@ -19,5 +19,5 @@ Ferguson, John. _Stealthy Terror._ London: Penguin, 1954.
 
 ### References
 
-[^ref1]: His address is given in local papes as 6 Devonshire Terrace. With thanks to Hilary Tolputt.
+[^ref1]: His address is given in local papes as 6 Devonshire Terrace. With thanks to Hilary Tolputt.   
 [^ref2]: With thanks to Hilary Tolputt.
