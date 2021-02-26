@@ -1,10 +1,10 @@
 ## Aphra Behn (1640? – 1689)
 
-Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born however, like much of her life, this is difficult to confirm. In a biography at the end of Behn’s play, _The Younger Brother_, it is recorded that depending on the ‘account you read- and there are many - Aphra was born in Harbledown, near Canterbury’.1 Her early life was in Kent, however there are deliberations as to where her exact birthplace was. Whilst ‘Colonel Thomas Colepeper declared in his manuscript “Adversaria” that she was born ‘at Sturry or Canterbury’,2 Anne Finch ‘states that she was reputed to be “Daughter to a Barber, who liv’d formerly at Wye a little market town (now much decay’d) in Kent”’3 and therefore Wye is an alternative for her place of birth. A further link to Kent later in Behn’s life is Jeffrey Boys, who was ‘a young lawyer’ and son of the ‘possessor of the manor of Betteshanger in Kent’4. He was ‘clearly acquainted’5 with Behn, suggesting her Kent connections continued beyond childhood, traced in Boys’ diary.
+Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born however, like much of her life, this is difficult to confirm. In a biography at the end of Behn’s play, _The Younger Brother_, it is recorded that depending on the ‘account you read- and there are many - Aphra was born in Harbledown, near Canterbury’.[^ref1] Her early life was in Kent, however there are deliberations as to where her exact birthplace was. Whilst ‘Colonel Thomas Colepeper declared in his manuscript “Adversaria” that she was born ‘at Sturry or Canterbury’,[^ref2] Anne Finch ‘states that she was reputed to be “Daughter to a Barber, who liv’d formerly at Wye a little market town (now much decay’d) in Kent”’[^ref3] and therefore Wye is an alternative for her place of birth. A further link to Kent later in Behn’s life is Jeffrey Boys, who was ‘a young lawyer’ and son of the ‘possessor of the manor of Betteshanger in Kent’[^ref4]. He was ‘clearly acquainted’[^ref5] with Behn, suggesting her Kent connections continued beyond childhood, traced in Boys’ diary.
 
-Much of Behn’s early life is hard to piece together, until later when she is living in London and her writing gives insight to potential life experiences. One of these is a possible trip to Surinam, alluded to in the novel _Oroonoko_ (1688), which begins with a letter stating, ‘this is a true story’.6 It is hard to tell how far this is factual, but _Oroonoko_ had ‘influence on the development of the English novel’7 with its hard-hitting account of slavery, regardless of how close it reflects on Behn’s own experience.
+Much of Behn’s early life is hard to piece together, until later when she is living in London and her writing gives insight to potential life experiences. One of these is a possible trip to Surinam, alluded to in the novel _Oroonoko_ (1688), which begins with a letter stating, ‘this is a true story’.[^ref6] It is hard to tell how far this is factual, but _Oroonoko_ had ‘influence on the development of the English novel’[^ref7] with its hard-hitting account of slavery, regardless of how close it reflects on Behn’s own experience.
 
-Additionally, Behn’s ‘wit and talent having brought her into high esteem’, led her to being ‘employed by King Charles II in secret service in the Netherlands in 1666’.8 After this she became a writer to support herself and ‘emerged as the first British woman to make a living as a creative writer’.9 During her time, she had ‘at least nineteen plays staged’10 and was responsible for _The Rover_ and _Emperor of the Moon_. As she became more successful, it was evident that, ‘Behn flourished in the cosmopolitan world of the playhouse and the court’ and ‘Dryden and other wits encouraged her’11 as she began to have an impact on the theatre. This was at a point where ‘actresses for the first time appeared on the public stage’12 and this bled into Behn’s work, writing plays with ‘casts that included women’.13 Behn’s work was ground-breaking and clearly impacted theatre’s future.
+Additionally, Behn’s ‘wit and talent having brought her into high esteem’, led her to being ‘employed by King Charles II in secret service in the Netherlands in 1666’.[^ref8] After this she became a writer to support herself and ‘emerged as the first British woman to make a living as a creative writer’.[^ref9] During her time, she had ‘at least nineteen plays staged’[^ref10] and was responsible for _The Rover_ and _Emperor of the Moon_. As she became more successful, it was evident that, ‘Behn flourished in the cosmopolitan world of the playhouse and the court’ and ‘Dryden and other wits encouraged her’[^ref11] as she began to have an impact on the theatre. This was at a point where ‘actresses for the first time appeared on the public stage’[^ref12] and this bled into Behn’s work, writing plays with ‘casts that included women’.[^ref13] Behn’s work was ground-breaking and clearly impacted theatre’s future.
 
 **Article written by:** Alexa Barrett.
 
@@ -21,3 +21,19 @@ Webb Mike. ‘Dancing all night with Aphra Behn: a recently acquired diary of Je
 Behn, Aphra. Julia Reidhead, Marian Johnson, Eds. ‘Oroonoko’. _The Norton Anthology of English Literature: The Major Authors_ Vol 1, 10th ed. 2019. United Sates of America. 1034.
 
 Julia Reidhead, Marian Johnson, Eds. _The Norton Anthology of English Literature: The Major Authors_ Vol 1, 10th
+
+### References
+
+[^ref1]: _The Younger Brother_ 
+[^ref2]: Todd. 
+[^ref3]: Todd. 
+[^ref4]: Webb. 
+[^ref5]: Webb. 
+[^ref6]: Norton, 1034. 
+[^ref7]: _Britannica_ 
+[^ref8]: _Britannica_ 
+[^ref9]: Hughes 29. 
+[^ref10]: Todd. 
+[^ref11]: _Norton_ 1028. 
+[^ref12]: Hughes 29. 
+[^ref13]: _Norton_ 1027.
