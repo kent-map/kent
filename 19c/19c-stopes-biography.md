@@ -12,13 +12,13 @@ In 1879 she married Henry Stopes, a keen palaeontologist and moved to Upper Norw
 
 Spending week days at her lodgings in Torrington Square, which was conveniently located near the British Museum, the weekends were spent at the Mansion House, Swanscombe “where with her two little girls she rusticates from Friday to Monday as a relief from the work of arduous literary research in London”.[^ref1]  The Mansion House was the Elizabethan Dower house belonging to the Manor of Swanscombe replete with oak panelling and provided a delightful bolt hole for the family who enjoyed “grubbing” around the potato fields and hop furrows for pre-historic flints".[^ref2]  
 
-Charlotte’s ground-breaking publication _British Freewomen: Their Historical Privilege_ published in 1894 outlined the historical right of women to vote, arguing that no law existed to prevent them and established her as a leading, if now often forgotten, member of the suffrage movement. One wonders whether it was written during a frenetic week in London or drafted using a pen dipped into Sir Walter Scott’s “grubby round inkstand” which she kept on her desk in Swanscombe.[^ref3] 
+Charlotte’s ground-breaking publication _British Freewomen: Their Historical Privilege_ published in 1894 outlined the historical right of women to vote, arguing that no law existed to prevent them and established her as a leading, if now often underestimated, member of the suffrage movement.[^ref3] One wonders whether it was written during a frenetic week in London or drafted using a pen dipped into Sir Walter Scott’s “grubby round inkstand” which she kept on her desk in Swanscombe.[^ref4] 
 
-Sarah Tooley who interviewed Charlotte for the _Women’s Penny Paper_ in 1895 describes the idyllic landscape around Charlotte’s home as she and Charlotte walked through “woods bright with bluebells and jubilant with birds, climbing five-barred gates and floundering in cart ruts.”[^ref4] Charlotte however played down its charms describing it as an “abandoned spot” which was “inhabited chiefly by miners who work in the adjacent [chalk pits](/landscape/chalk-pits-stig)”[^ref5] She said “I call this house my husband’s hunting-box, as the district is so rich in flints.”[^ref6] She did however enthuse about Kent’s connections with Shakespeare and “delights to think that the great William ofttimes with his company trod the [Dover Road](/dickens/dover-road) which runs East of her garden wall.” 
+Sarah Tooley who interviewed Charlotte for the _Women’s Penny Paper_ in 1895 describes the idyllic landscape around Charlotte’s home as she and Charlotte walked through “woods bright with bluebells and jubilant with birds, climbing five-barred gates and floundering in cart ruts.”[^ref5] Charlotte however played down its charms describing it as an “abandoned spot” which was “inhabited chiefly by miners who work in the adjacent [chalk pits](/landscape/chalk-pits-stig)”[^ref6] She said “I call this house my husband’s hunting-box, as the district is so rich in flints.”[^ref7] She did however enthuse about Kent’s connections with Shakespeare and “delights to think that the great William ofttimes with his company trod the [Dover Road](/dickens/dover-road) which runs East of her garden wall.” 
 
-After the death of her husband Henry Stopes at their home in Kent in 1902, Charlotte continued his work, giving a talk at the British Association on his discovery of palaeolithic implements at the Shelly Gravel pit in Swanscombe. 
+After the death of her husband Henry Stopes at their home in Kent in 1902, Charlotte continued his work, giving a talk at the British Association on his discovery of palaeolithic implements at the Shelly Gravel pit in Swanscombe.[^ref8] 
 
-Her daughter Marie, published a study of the botany of the dried-up Fleet river at Ebbsfleet in 1903. She was to go on to found the first birth control clinic in Britain and write _Married Love_ (1918). A biography of Marie's life was subsequently rejected by the committee of [Folkestone Library](/19c/19c-folkestone-free-library) for fears it might contain references to sex and birth control.[^ref7]   
+Her daughter Marie, published a study of the botany of the dried-up Fleet river at Ebbsfleet in 1903. She was to go on to found the first birth control clinic in Britain and write _Married Love_ (1918). A biography of Marie's life was subsequently rejected by the committee of [Folkestone Library](/19c/19c-folkestone-free-library) for fears it might contain references to sex and birth control.[^ref9]   
 
 
 
@@ -28,10 +28,13 @@ References
 
 [^ref1]: Tooley, S.A. ‘Flints, suffrage and higher education’, _Women's Penny Paper_ 3 (75), Thursday 6 June, 1895.   
 [^ref2]: Ibid.   
-[^ref3]: Ibid.   
-[^ref4]: Ibid.   
+[^ref3]: Green, S. (2009) 'The Serious Mrs Stopes: Gender, Writing and Scholarship in Late-Victorian Britain' Nineteenth Century Gender Studies 5(3). Available at: http://www.ncgsjournal.com/issue53/green.htm  
+[^ref4]: Tooley, S.A. ‘Flints, suffrage and higher education’, _Women's Penny Paper_ 3 (75), Thursday 6 June, 1895.    
 [^ref5]: Ibid.  
 [^ref6]: Ibid.   
-[^ref7]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 13 November 1926.
+[^ref7]: Ibid.
+[^ref8]: 
+[^ref9]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 13 November 1926.
+
 
 
