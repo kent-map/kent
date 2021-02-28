@@ -26,12 +26,12 @@ Her daughter Marie, published a study of the botany of the dried-up Fleet river 
 
 References
 
-[^ref1]: Tooley, S.A. ‘Flints, suffrage and higher education’, _Women's Penny Paper_ 3 (75), Thursday 6 June, 1895.
-[^ref2]: Ibid.
-[^ref3]: Ibid.
-[^ref4]: Ibid.
-[^ref5]: Ibid.
-[^ref6]: Ibid.
+[^ref1]: Tooley, S.A. ‘Flints, suffrage and higher education’, _Women's Penny Paper_ 3 (75), Thursday 6 June, 1895.   
+[^ref2]: Ibid.   
+[^ref3]: Ibid.   
+[^ref4]: Ibid.   
+[^ref5]: Ibid.  
+[^ref6]: Ibid.   
 [^ref7]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 13 November 1926.
 
 
