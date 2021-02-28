@@ -31,6 +31,7 @@
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
 [Mary Shelley](19c-shelleym-biography)  
 [Margaret Emily Shore](19c-shore-biography)  
+[Charlotte Carmichael Stopes](19c-stopes-biography)   
 [Netta Syrett](19c-syrett-biography)   
 [Princess Victoria in Ramsgate](19c-victoria-albion-house)   
 [Sir Hugh Walpole](19c-walpole-biography)

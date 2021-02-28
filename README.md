@@ -126,7 +126,7 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 ##
 [**Musical Peregrinations**](/music)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/seascape/images/Beaney copy - Scaled and adjusted.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney copy - Scaled and adjusted.jpg)
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
