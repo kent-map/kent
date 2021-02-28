@@ -1,6 +1,6 @@
 <param ve-config style="article">
 
-## Charlotte Carmichael Stopes (1840-1929)
+## Charlotte Brown Carmichael Stopes (1840-1929)
 
 **Place:** The Mansion House, Swanscombe, Kent (1894-1899), Hillside, Greenhithe
 
