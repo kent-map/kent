@@ -28,12 +28,12 @@ References
 
 [^ref1]: Tooley, S.A. ‘Flints, suffrage and higher education’, _Women's Penny Paper_ 3 (75), Thursday 6 June, 1895.   
 [^ref2]: Ibid.   
-[^ref3]: Green, S. (2009) 'The Serious Mrs Stopes: Gender, Writing and Scholarship in Late-Victorian Britain' Nineteenth Century Gender Studies 5(3). Available at: http://www.ncgsjournal.com/issue53/green.htm  
+[^ref3]: Green, S. (2009) 'The Serious Mrs Stopes: Gender, Writing and Scholarship in Late-Victorian Britain' Nineteenth Century Gender Studies 5(3). Available at: http://www.ncgsjournal.com/issue53/green.htm   
 [^ref4]: Tooley, S.A. ‘Flints, suffrage and higher education’, _Women's Penny Paper_ 3 (75), Thursday 6 June, 1895.    
-[^ref5]: Ibid.  
-[^ref6]: Ibid.   
-[^ref7]: Ibid.
-[^ref8]: 
+[^ref5]: Ibid.   
+[^ref6]: Ibid.    
+[^ref7]: Ibid.   
+[^ref8]: 'British Association', _The Times_ Monday 14 September, 1903.   
 [^ref9]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 13 November 1926.
 
 
