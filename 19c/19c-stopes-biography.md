@@ -2,7 +2,7 @@
 
 ## Charlotte Carmichael Stopes (1840-1929)
 
-**Place:** The Mansion House, Swanscombe, Kent
+**Place:** The Mansion House, Swanscombe, Kent (1894-1899), Hillside, Greenhithe
 
 Author, Shakespearian scholar and women’s rights campaigner
 
