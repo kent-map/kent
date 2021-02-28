@@ -16,9 +16,11 @@ Charlotte’s ground-breaking publication _British Freewomen: Their Historical P
 
 Sarah Tooley who interviewed Charlotte for the _Women’s Penny Paper_ in 1895 describes the idyllic landscape around Charlotte’s home as she and Charlotte walked through “woods bright with bluebells and jubilant with birds, climbing five-barred gates and floundering in cart ruts.”[^ref5] Charlotte however played down its charms describing it as an “abandoned spot” which was “inhabited chiefly by miners who work in the adjacent [chalk pits](/landscape/chalk-pits-stig)”[^ref6] She said “I call this house my husband’s hunting-box, as the district is so rich in flints.”[^ref7] She did however enthuse about Kent’s connections with Shakespeare and “delights to think that the great William ofttimes with his company trod the [Dover Road](/dickens/dover-road) which runs East of her garden wall.” 
 
-After the death of her husband in 1902 at Hillside, Greenhithe, Charlotte continued his work, giving a talk at the British Association on his discovery of palaeolithic implements at the Shelly gravel pit in Swanscombe.[^ref8] 
+The idyll that Sarah Tooley portrayed was the one that Charlotte wanted her to and belied the reality of her strained marriage. Sarah Green believes that "while [Charlotte and Henry's] correspondence suggests that a lasting comradeship developed between them, each found domestic life constraining and sought to pursue their interests on their own terms, sometimes spending lengthy periods apart." Swanscombe was Henry's space, one that Charlotte invaded.[^ref8]
 
-Her daughter Marie, published a study of the botany of the dried-up Fleet river at Ebbsfleet in 1903. She was to go on to found the first birth control clinic in Britain and write _Married Love_ (1918). A biography of Marie's life was subsequently rejected by the committee of [Folkestone Library](/19c/19c-folkestone-free-library) for fears it might contain references to sex and birth control.[^ref9]   
+After the death of her husband in 1902 at Hillside, Greenhithe, Charlotte continued his work, giving a talk at the British Association on his discovery of palaeolithic implements at the Shelly gravel pit in Swanscombe.[^ref9] 
+
+Her daughter Marie, published a study of the botany of the dried-up Fleet river at Ebbsfleet in 1903. She was to go on to found the first birth control clinic in Britain and write _Married Love_ (1918). A biography of Marie's life was subsequently rejected by the committee of [Folkestone Library](/19c/19c-folkestone-free-library) for fears it might contain references to sex and birth control.[^ref10]   
 
 
 
@@ -33,8 +35,9 @@ References
 [^ref5]: Ibid.   
 [^ref6]: Ibid.    
 [^ref7]: Ibid.   
-[^ref8]: 'British Association', _The Times_ Monday 14 September, 1903.   
-[^ref9]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 13 November 1926.
+[^ref8]: Green, S. (2017) 'The Public Life of Charlotte Carmichael Stopes', _Women's History Review_ 26 (3) pp. 350-362.. 
+[^ref9]: 'British Association', _The Times_ Monday 14 September, 1903.   
+[^ref10]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 13 November 1926.
 
 
 
