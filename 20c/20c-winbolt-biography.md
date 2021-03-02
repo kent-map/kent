@@ -2,10 +2,9 @@
 
 >”Kent of all the counties of England, is thickest set with historical reminiscences, and he alone, who has tried, will fully realise how hard it is in writing of such a county to compress and select.” _Bell’s Pocket Guide to Kent_ (1930)
 
+![Roman Folkestone by S.E. Winbolt](images/RomanFolkestone by Winbolt MJC.jpg){: .right}
 
 When Samuel Edward Winbolt, a classics and history teacher and writer of school textbooks, was holidaying in Folkestone in August 1923, he was to learn of a little-known site of archaeological interest on the East Cliff. It was here that Winbolt was to spend the next two holidays excavating the remains of a Roman villa.[^ref1]  
-
-![Roman Folkestone by S.E. Winbolt](images/RomanFolkestone by Winbolt MJC.jpg){: .right}
 
 During a three-week [excavation](https://fmlearnwithobjects.co.uk/questions/romans-0-a-pile-of-old-stones/) at Easter, followed by five more weeks during the summer, Winbolt and a team of diggers and enthusiasts - including his daughter Rosalind, and Miss Thomas - excavated the site.[^ref2] 
 
@@ -19,9 +18,9 @@ Winbolt claimed that the press were “most diligent - almost too diligent and t
 
 Indeed, Winbolt recognised that keeping the project in the limelight was important to securing the continued investment of the corporation, and was keen to stress that the eight weeks of excavation had given the town “not less than £2,000 worth of advertisement.” He said that if money were spent on improving the site, they could charge 6d instead of 3d and the weekly takings of around £40 could be doubled.  He was commercially astute, and keen to make the site a ‘paying concern’ so that work could continue.[^ref9]  
 
-Winbolt was also keen to curry favour from local archaeologists and spoke of his fondness for the county in a speech to the Kent Archaeological Society in September 1924. He is reported to have said that although he was a Sussex man, “if he had another choice he would be a Kentish man”[^ref10] (or, as Folkestone people would prefer him to say, a ‘Man of Kent’ - Winbolt clearly hadn’t done his homework!). He also took an interest in archaeological investigations in other parts of Kent, including St Radegund’s Abbey, Dover and described Richborough as “perhaps the most Roman piece of soil in Great Britain.”[^ref11]
-
 ![Roman Folkestone by S.E. Winbolt](images/Roman Folkestone inside MJC.jpg){: .right}
+
+Winbolt was also keen to curry favour from local archaeologists and spoke of his fondness for the county in a speech to the Kent Archaeological Society in September 1924. He is reported to have said that although he was a Sussex man, “if he had another choice he would be a Kentish man”[^ref10] (or, as Folkestone people would prefer him to say, a ‘Man of Kent’ - Winbolt clearly hadn’t done his homework!). He also took an interest in archaeological investigations in other parts of Kent, including St Radegund’s Abbey, Dover and described Richborough as “perhaps the most Roman piece of soil in Great Britain.”[^ref11]
 
 Winbolt was to combine his love of archaeology with his love for writing and in 1925 published a book on _Roman Folkestone_. He was keen that it should break ‘fresh ground’ and appeal to a wider audience than simply historians and archaeologists, he therefore included a chapter entitled “Some humours of excavating” in which he recounted stories from his conversations with diggers, helpers and souvenir-hunters.[^ref12]  A reviewer described it as full of “debatable matter.”[^ref13]
 
