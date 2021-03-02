@@ -7,6 +7,8 @@ When Samuel Edward Winbolt, a classics and history teacher and writer of school 
 
 During a three-week [excavation](https://fmlearnwithobjects.co.uk/questions/romans-0-a-pile-of-old-stones/) at Easter, followed by five more weeks during the summer, Winbolt and a team of diggers and enthusiasts - including his daughter Rosalind, and Miss Thomas - excavated the site.[^ref2] 
 
+![Roman Folkestone by S.E. Winbolt](images/RomanFolkestone by Winbolt MJC.jpg){: .right}
+
 The town’s business men, councillors and guest house owners watched the developments with interest, hoping that Roman remains would draw visitors to the town. The walls of a villa, a hypocaust system, a small furnace, a late Celtic bowl and a coin minted in Lyons were quickly discovered.[^ref3]  
 
 On Monday 25th August 1924, nearly a thousand people visited the site, each paying three pence to view the excavations.[^ref4]  Was Folkestone about to experience Romanomania?
@@ -20,6 +22,8 @@ Indeed, Winbolt recognised that keeping the project in the limelight was importa
 Winbolt was also keen to curry favour from local archaeologists and spoke of his fondness for the county in a speech to the Kent Archaeological Society in September 1924. He is reported to have said that although he was a Sussex man, “if he had another choice he would be a Kentish man”[^ref10] (or, as Folkestone people would prefer him to say, a ‘Man of Kent’ - Winbolt clearly hadn’t done his homework!). He also took an interest in archaeological investigations in other parts of Kent, including St Radegund’s Abbey, Dover and described Richborough as “perhaps the most Roman piece of soil in Great Britain.”[^ref11]
 
 Winbolt was to combine his love of archaeology with his love for writing and in 1925 published a book on _Roman Folkestone_. He was keen that it should break ‘fresh ground’ and appeal to a wider audience than simply historians and archaeologists, he therefore included a chapter entitled “Some humours of excavating” in which he recounted stories from his conversations with diggers, helpers and souvenir-hunters.[^ref12]  A reviewer described it as full of “debatable matter.”[^ref13]
+
+![Roman Folkestone by S.E. Winbolt](images/Roman Folkestone inside MJC.jpg){: .right}
 
 The villa site continued to receive visitors over the next few years, enriching the “romance of Kent” but with an increased entrance price of 6d.[^ref14] However, when some of the remains slipped down the cliff in the landslide of 1928, W.H.E  who was concerned that this significant site might be  lost, complained in the _Folkestone, Hythe, Sandgate & Cheriton Herald_ that Winbolt had put too much effort into describing what life was like in Roman Folkestone rather than recording the buildings, leaving it “to the reader’s imagination as to what the buildings were like.”[^ref15]  Winbolt’s ‘fresh’ approach had clearly not appealed to the more serious reader and it is quite possible that, more used to his school boy audience, Winbolt had missed the mark.
 
