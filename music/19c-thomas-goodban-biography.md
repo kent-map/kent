@@ -35,7 +35,7 @@ In between the Game and the Cards, as the _Musical Times_ records, Goodban had b
 
 All these creations were published in London: the Game by Goulding, D’Almaine, Potter, & Co. of 20, Soho Square; the Cards by Simpkin, Marshall and Co., Stationers Court and J. A. Novello, Dean Street, Soho and 24, Poultry; the Violin Tutor by Preston ‘at his Wholesale Warehouses, 97, Strand’; and the Piano Tutor by Coventry and Hollier, 71, Dean Street, Soho. Such an imprimatur would have ensured a distribution well beyond the city of Canterbury.
 
-Thomas Goodban was not the only important character in Canterbury’s musical history. Another was [William Henry Longhurst](19c-william-longhurst-biography) (1819–1904).
+Thomas Goodban was not the only important character in Canterbury’s musical history. Another was [William Henry Longhurst](/music/19c-william-longhurst-biography) (1819–1904).
 
 **Article written by:** Dr Chris Price
 
