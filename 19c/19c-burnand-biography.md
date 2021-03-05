@@ -6,7 +6,7 @@
 
 *Publication*: _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_, 1897. 
 
->The New Pier, many years old by now, for entrance to which, as being something superior, twopence is charged, is an instance of that kind of half-fulfilled promise whereof Ramsgate generally offers several evident examples. But while there is a pier there is hope, and it may yet occur to its proprietors, or to the local authorities, to say, after the manner of Mr Wemmick, out of office-hours, in Great Expectations, "Hello! Here’s a pier! Let’s do something with it!"’ _The Z.Z.G._
+>The New Pier, many years old by now, for entrance to which, as being something superior, twopence is charged, is an instance of that kind of half-fulfilled promise whereof Ramsgate generally offers several evident examples. But while there is a pier there is hope, and it may yet occur to its proprietors, or to the local authorities, to say, after the manner of Mr Wemmick, out of office-hours, in [Great Expectations](/dickens/great-expectations-curated-walk), "Hello! Here’s a pier! Let’s do something with it!"’ _The Z.Z.G._
 
 ![Frederick Tancock Palmer / Public domain](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Francis_Burnand.png/256px-Francis_Burnand.png){: .right .dropshadow}
 
