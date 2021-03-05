@@ -124,8 +124,6 @@ Maggie Harris is a Guyanese writer living in Kent. Winner of the Guyana Prize fo
 ##
 **Lisa Hawkins**
 
-- [Lisa Hawkins Fine Art](https://lisahawkinsfineart.wordpress.com/)
-
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/LisaHawkins.jpg)
 
 Lisa Hawkins has a first-class degree and an MA in Fine Art, her main subject is landscape as a vehicle to explore visually how it feels to “be” in the world. This interest in the interplay between the interior life and the external landscape led her to complete a second Master’s degree in Myth Cosmology and the Sacred an experience that fostered a deep and continuing interest in psychology and mythology. She works from life, memory and imagination – welding the spirit of place with an exploration of the human condition. Developing a relationship with a place is central to Lisa’s practice, as the memories of each subsequent visit changes her perceptions – the weather, her own moods, current affairs, together with personal and collective associations. This forms a kind of ‘alchemy’ which is played out both in the studio and in the landscape. The landscape of East Kent is a great inspiration to her work. Drawing daily is a pivotal practice in her art. She works in oil paint and her often large-scale works are semi-abstract with an emphasis on colour harmony.  
