@@ -23,6 +23,7 @@
 [Sarah Grand](19c-grand-biography)   
 [George Grossmith](19c-grossmith-biography)  
 [Henry James](19c-jamesh-hever-castle)  
+[Edith Katherine Spicer Jay](19c-spicer-jay-biography)   
 [Jerome K. Jerome](19c-jerome-biography)   
 [John Keats](19c-keats-margate)   
 [Bessie Marchant](19c-marchantb-biography)  
