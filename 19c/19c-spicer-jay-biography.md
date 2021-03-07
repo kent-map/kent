@@ -24,8 +24,8 @@ In later years Edith could be seen being pushed along in a bath chair by her sec
 [^ref4]: _Westminster Gazette_ - Tuesday 25 May 1897.   
 [^ref5]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 12 April 1902.   
 [^ref6]: _The Literary Year Book of 1902_.   
-[^ref7]: _The Apotheosis of Mr Tyrawley_
-[^ref8]: _The Apotheosis of Mr Tyrawley_ 
-[^ref9]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 27 May 1899. 
-[^ref10]: _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_ - Wednesday 18 December 1901. 
+[^ref7]: _The Apotheosis of Mr Tyrawley_, 166. 
+[^ref8]: _The Apotheosis of Mr Tyrawley_, 8.   
+[^ref9]: _Folkestone, Hythe, Sandgate & Cheriton Herald_ - Saturday 27 May 1899.   
+[^ref10]: _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_ - Wednesday 18 December 1901.  
 
