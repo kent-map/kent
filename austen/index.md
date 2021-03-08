@@ -1,6 +1,6 @@
 <param ve-config 
        title="Jane Austen's Kent"
-       banner="images/XXX.png"
+       banner="images/19c.jpg"
        layout="index">
 
 #
@@ -28,7 +28,7 @@ During visits to her brother Edward Austen Knight between 1794 and 1813, Austen 
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/Chilham Castle MJC.jpg)
 
 Jane Austen regularly visited Chilham Castle to attend dinner parties and evening balls while she was staying nearby with her brother Edward Austen Knight between 1796 and 1813. Social events at Chilham Castle offered opportunities to see old friends and to meet new people, and Jane and her sister wrote about them fondly in their letters to one another.
 
@@ -64,7 +64,7 @@ Jane Austen’s first experience of Kent comprised a trip with her parents and s
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f4/Chalybeate_Spring%2C_Tunbridge_Wells.jpg)
 
 Austen mentions the fashionable spa resort of Tunbridge Wells—often referred to as simply “Tunbridge”—in several of her novels, such as Northanger Abbey, Mansfield Park, Persuasion, and the unfinished Sanditon. She is also known to have had a Tunbridge ware box of the kind Harriet Smith has in Emma.
 
