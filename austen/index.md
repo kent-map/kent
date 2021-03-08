@@ -28,7 +28,7 @@ During visits to her brother Edward Austen Knight between 1794 and 1813, Austen 
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/XXX.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/Chilham Castle MJC.jpg)
 
 Jane Austen regularly visited Chilham Castle to attend dinner parties and evening balls while she was staying nearby with her brother Edward Austen Knight between 1796 and 1813. Social events at Chilham Castle offered opportunities to see old friends and to meet new people, and Jane and her sister wrote about them fondly in their letters to one another.
 
