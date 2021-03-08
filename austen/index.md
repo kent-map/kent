@@ -1,6 +1,6 @@
 <param ve-config 
        title="Jane Austen's Kent"
-       banner="images/19c.jpg"
+       banner="/images/19c.jpg"
        layout="index">
 
 #
