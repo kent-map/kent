@@ -12,4 +12,4 @@ It was also in the 20th century that Canterbury’s maps of earlier centuries we
 
 Throughout the 20th century the Cathedral remained conspicuous and prominent as the major icon of Canterbury and most important pole of attraction. The 15th century Bell Harry Tower was unchallenged as the city’s tallest structure. The Cathedral, as ever, dramatically dominates views wherever it is approached. Floodlit at night the effect is absolutely stunning.  
 
-  
+**Article written by:** Richard Maltby
