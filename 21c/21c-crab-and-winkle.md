@@ -1,7 +1,5 @@
 from [_Crab & Winkle_](https://www.shearsman.com/store/Laurie-Duggan-Crab-&-Winkle-p102838658) - April
 
-
-
 At the rear of West Street an old estate wall. The buildings impinge upon each other, a stairwell into the neighbour room, a cellar under a different space. What’s now the garage used to be a bakery (the house was a fishmongery).
                                   
 From the Ham Marshes you can navigate by the church spire: Faversham’s open frame, visible from Hollowshore, the Shipwright pub.
@@ -58,6 +56,8 @@ day of the exploding coffee-pot
 
 At Winchelsea, the site of a windmill destroyed in the storms of 1987, as the fallen trees of Knole, only a grindstone and some foundation slabs next to a trig point up above the marshes.
 
+<pre><code>
+
                            [Ford Madox Ford’s](/20c/20c-fordmadoxford-biography) house, 
                            in a back street (the town
                            strangely without shops; a pub
@@ -71,6 +71,7 @@ At Winchelsea, the site of a windmill destroyed in the storms of 1987, as the fa
                            from Rye Harbour, Camber Sands
                            dotted with bathers, the nuclear plant
                            at Dungeness
+</code></pre>
 
 
                                         §
