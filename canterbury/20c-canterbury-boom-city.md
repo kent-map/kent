@@ -1,10 +1,6 @@
 ### From a country town to boom city
 
- **The First World War**
-
 During the “Great War” of 1914-1918 Canterbury was mobilised as the garrison for the Royal East Kent Regiment (the Buffs) and the Kent and Sharp Shooters Yeomanry, with hospitals handed over to the army, and for the mustering and training of thousands of horses for the carnage of the western front. To commemorate those who paid the ultimate sacrifice the Canterbury War Memorial, erected in the Buttermarket just outside the Cathedral’s Christ Church Gate, was unveiled by Field Marshal Earl Haig and dedicated by Archbishop Randall Davidson on October 21st 1921. 
-
-**Suburban Development**
 
 In the early decades of the century, inspired by the Tudor Village design featured in the 1910 Ideal Home exhibition, Canterbury’s suburbs expanded from the Victorian terraces in response to demand for the popular “Tudorbethan” style. In the interwar years the slopes to the north and south sides of the city were developed to build new semi and detached houses with two storey bay windows, bricks clad in hanging tiles, fake timbering and pebbledash. Suburban expansion with private and council housing continued after [World War II](/canterbury/20c-canterbury-ww2), most obviously in the St Stephen’s area with the development of the former Hales Place estate. 
 
