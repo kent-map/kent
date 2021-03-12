@@ -1,58 +1,67 @@
-from [_Crab & Winkle_](https://www.shearsman.com/store/Laurie-Duggan-Crab-&-Winkle-p102838658) - April
+from Crab & Winkle - April
 
 
-
+<pre><code>
 At the rear of West Street an old estate wall. The buildings impinge upon each other, a stairwell into the neighbour room, a cellar under a different space. What’s now the garage used to be a bakery (the house was a fishmongery).
-                                  
+
+                                        §
+
 From the Ham Marshes you can navigate by the church spire: Faversham’s open frame, visible from Hollowshore, the Shipwright pub.
-            
+
+                                        §
+
 In the stationers I view maps on the first floor, viewed myself by the security camera. The shop’s proprietor comes upstairs and pretends to do odd tasks but is really just making extra sure I don’t steal anything.
 
 Sometimes it seems this whole small world belongs to the National Trust and you will be able to buy preserves and tea-towels at the kiosk afterwards.
 
-back lanes to the Chart Gunpowder Mill                              
-following the creek through Davington   
-then uphill to the cricket ground   
-overlooking the Almshouses.   
-Davington Pond, the allotments,   
-the back of a supermarket   
+                                        §
 
-clear nettles and dead leaves from the path   
-(these leftovers from last year)   
-detach of their own accord when opened)   
+                           back lanes to the Chart Gunpowder Mill
+                           following the creek through Davington
+                           then uphill to the cricket ground
+                           overlooking the Almshouses.
+                           Davington Pond, the allotments,
+                           the back of a supermarket
 
-at Knole, the weight of history,
-the rotting canopy of a four-poster
-
-those fearsome kings and clerics
-– enough to bury [Vita Sackville-West](/20c/20c-sackville-west-biography)
-were she given the chance
-(how could Knole
-be regretted?
+                           clear nettles and dead leaves from the path
+                           (these leftovers from last year)
+                           detach of their own accord when opened)
 
 
-adjourn
-for lunch, Shoreham,
-a fold in the North Downs,
-the Darent
-– no trace
-of Samuel Palmer, the most excellent
-Mr B.
-a footpath, signed
-under ten feet of water
+                                        §
 
-further up the road, 
-Lullingstone,
-its mosaics and hot baths out of place
-in this landscape
+                           at Knole, the weight of history,
+                           the rotting canopy of a four-poster
 
-then, nowhere,
-the approach to Dartford,
-chapels lost with infill
+                           those fearsome kings and clerics
+                           – enough to bury [Vita Sackville-West](/20c/20c-sackville-west-biography)
+                           were she given the chance
+                                                                           (how could Knole
+                           be regretted?
 
-it’s Easter
+
+                                                            adjourn
+                           for lunch, Shoreham,
+                           a fold in the North Downs,
+                           the Darent
+                                                – no trace
+                           of Samuel Palmer, the most excellent
+                           Mr B.
+                                             a footpath, signed
+                           under ten feet of water
+
+                           further up the road, 
+                                                               Lullingstone,
+                           its mosaics and hot baths out of place
+                           in this landscape
+
+                                                            then, nowhere,
+                           the approach to Dartford,
+                           chapels lost with infill
+
+                           it’s Easter
  
-day of the exploding coffee-pot
+                           day of the exploding coffee-pot
 
                                         §
 
@@ -176,11 +185,7 @@ Down a steep slope then up another to view an earthwork, then down into Selling 
                     the minimum of drear infill
 
                                         §
-                                        
-                                        
 
 Our house was once one half of next door which is now half of the door after, if that makes sense. The original wide doors no longer open, due to subsidence. This is the origin of ‘flying freehold’ (their cupboard opens onto the wall of our stairs; the internal entry to the cellar is theirs, the external ours – a new internal built subsequently). The old beams mostly salvaged from ships, hence the curved shapes and the slots for cross timbers. The ships predating the building a century or more (deforestation already a problem?).
-
-©Laurie Duggan
-
+</code></pre>
 
