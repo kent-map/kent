@@ -1,5 +1,5 @@
 <param ve-config 
-       title="Music"
+       title="Musical Peregrinations"
        banner="/images/banners/19c.jpg"
        layout="index">
 
