@@ -36,7 +36,7 @@ After the comparative sobriety of the buildings in Dublin and at Bowen’s Court
 The Leas summed up Folkestone for her. 
 
 >Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.[^ref2]   
-><param ve-image url="images/xxx.jpg" label="xxx" attribution="xxx">
+><param ve-image url="images/bowenfolkestone.jpg" label="Folkestone" attribution="Diana Hirst">
 
 The landscape, too, entranced her with its ‘wide views, though also mysterious interstices.  Inside the sea-wall, the protected lands keep an illusory look of marine emptiness.’ Uphill it is ‘enticing, breathless and lush, with wandering dog-paths and choked thickets.’[^ref3]  At the same time, Kent’s history was almost part of its landscape, bursting ‘from under the contemporary surface at every point’, while its geology had a newness compared with that of Ireland.[^ref4]   And she realised how fiction can be set in the real world: reading _Kipps_ by [H.G. Wells](/20c/20c-wellshg-biography), she was ‘made dizzy by the discovery that [she] had, for years, been living in two places, Hythe and Folkestone, that were in a book.’[^ref5][^ref6]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/77/Kipps.djvu" label="H. G. Wells, Public domain, via Wikimedia Commons" attribution="H. G. Wells, Public domain, via Wikimedia Commons">
