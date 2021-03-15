@@ -1,4 +1,4 @@
-**Mary Tourtel (1874-1948) and Rupert Bear**
+## Rupert Bear
 
 **Place:** Canterbury
 
