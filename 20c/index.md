@@ -9,6 +9,7 @@
 
 ### People
 
+[Elizabeth Bowen](20c-bowen-biography)   
 [John Brunner](20c-double-double)   
 [Alfred Cohen](20c-cohen-biography)   
 [Edith Craig](20c-craig-biography)  
