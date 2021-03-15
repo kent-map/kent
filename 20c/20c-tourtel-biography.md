@@ -1,8 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="Mary Tourtel (1874-1948)" author="Grace Conium" layout="vtl" banner="images/banners/19c.jpg"> 
+<param ve-config title="Mary Tourtel (1874-1948)" author="Grace Conium" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q7148079" aliases="Patrixbourne">
 
 ## Mary Tourtel (1874-1948)
 
