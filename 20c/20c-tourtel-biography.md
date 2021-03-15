@@ -1,19 +1,40 @@
-**Mary Tourtel (1874-1948) and Rupert Bear**
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-**Place:** Canterbury
+<param ve-config title="Mary Tourtel (1874-1948)" author="Grace Conium" layout="vtl" banner="images/banners/19c.jpg"> 
 
-![Traveller's Joy mural detail © Martin Crowther](/21c/images/RupertMJC.jpg){: .right}
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
-Rupert Bear is a children’s comic strip character first published on the 8th November 1920 in the _Daily Express_ newspaper.  He was created by the Canterbury-born illustrator Mary Tourtel and thus became firmly rooted within the public vision of the city’s literary heritage. Mary herself was strongly connected with Canterbury's heritage throughout her life. Her brother worked as a stained glass restorer for the Cathedral, she studied at the Sidney Cooper School of Art, and she lived in Canterbury towards the end of her life. The places of her stay in the city are marked by commemorating plaques.  
+## Mary Tourtel (1874-1948)
 
-![The Sidney Cooper Gallery © Martin Crowther](/20c/images/sidneycooper.jpg){: .right}
+Mary Tourtel (nee Caldwell) was the last child of Sarah and Samuel Caldwell. She was born and grew up in 52 Palace Street, Canterbury in 1874. Her father and one brother were stonemasons and stained-glass designers at Canterbury Cathedral. Her eldest brother, Edmund, was also an artist with an interest in painting animals. 
+<param ve-image url="images/tourtelcantmus.jpg" label="©Canterbury Museums and Galleries. Mary Tourtel at her home in Palace Street, Canterbury. Circa 1895."> 
+<param ve-map center="Q29303" zoom="8">
 
-Rupert Bear captured the heart of the nation and continued to feature in the _Daily Express_ throughout the 20th century and beyond. John Beck believes that Rupert Bear became a form of British citizenship training to the young audience (predominantly in the Rupert Annuals by Alfred Bestall), shaping a conception of Englishness, that positions individuals as loyal subjects within a socially integrated but monarchical society.  This adds another dimension to Rupert Bear in the context of heritage studies and it is worth exploring further. 
+Mary went to school in Canterbury. Like her father and brothers, she had an interest in art and attended the Sidney Cooper School of Art under Thomas Sidney Cooper. She had a particular fondness and ability for capturing the likenesses of animals. Before becoming the writer and illustrator of [Rupert Bear](/20c/20c-rupert-bear) for the Daily Express in 1920, she created characters and scenes more akin to the [Kentish landscape](/landscape/kentish-landscape). 
+<param ve-image url="/20c/images/sidneycooper.jpg" label="The Sidney Cooper Gallery © Martin Crowther"> 
 
-![Chaucer Hotel © Martin Crowther](/20c/images/chaucerhotel.jpg){: .right}
+Animal books for children featured greatly in Mary’s career as an illustrator. Her first publications ‘A Horse Book’ and ‘Three Little Foxes’ appeared in 1897 when she was only 23. The Rabbit Book are other examples of her early work. A handkerchief book, ‘When Animals Work’, was published in 1919 by Sefton. 
+<param ve-image url="images/tourtel4cantmus.jpg" label="©Canterbury Museums and Galleries. Three Little Foxes."> 
 
-The “Rupert Little Bear” outlived his creator in the form of books, television series, merchandise and collectors memorabilia, and has accumulated a cult following of children as well as adults.  He had a permanent exhibition in Canterbury, Paul McCartney wrote a song about him, and this year marks a hundred years since his first publication, to which a celebratory 50p coin was issued. His legacy is remembered in Canterbury in the [Traveller's Joy](/21c/21c-travellers-joy) mural painted by [Gloria Treseder](https://www.gtreseder.com/).
+The scenery drawn by Mary is idealist, often featuring vast green spaces, country cottages, and animals that can be seen in the Kentish countryside. Mary’s early life in the county of Kent and studying under the landscape and cattle artist Thomas Sidney Cooper has greatly influenced her work. 
+<param ve-image url="images/tourtel3cantmus.jpg" label="©Canterbury Museums and Galleries. Gentleness from ‘Horses at Work’."> 
 
-**Article written by:** Miroslava Karaskova
+This clear influence is highlighted in the diary of Herbert Tourtel, Mary’s husband. On 21st August 1899, he wrote of an outing with Portia (his nickname for Mary): 
 
-J. Beck, ”Rupert Bear and the making of English Citizens.” _New Review of Children's Literature and Librarianship_, 18:1 (2012): p.47, 63.
+“We came on to the Patrixbourne farm in the hope of sketching some carthorses, but just arrived as they were going into the stables for their dinner. We came on to my rooms, had lunch, then returned and Portia sketched the horses. One man was very fond of his horses & quite in rapture with a sketch of his head which Pet made.”
+<param ve-image url="images/tourtel2cantmus.jpg" label="©Canterbury Museums and Galleries. Kicking from ‘Horses at Work’."> 
+
+It was not only the natural landscapes that inspired Tourtel’s work. She also created artworks inspired by the architecture, including the Cathedral at Canterbury, where her father worked as a stonemason and stained-glass designer. This watercolour is entitled ‘Canterbury Cloisters,’ and was painted by Mary in 1894 when she was 20 years old. 
+<param ve-image url="images/tourtel5cantmus.jpg" label="©Canterbury Museums and Galleries. Canterbury Cloisters."> 
+ 
+With thanks to Canterbury Museums and Galleries for use of their collections and images. 
+
+### References
+
+Canterbury Historical and Archaeological Society (2015) Mary Tourtel (1874-1948): Illustrator & Author. Canterbury Historical and Archaeological Society. Accessed 26 February 2021. [http://www.canterbury-archaeology.org.uk/tourtel/4590809564].    
+Tourtel, Mary (1901) A Horse Book. London: Grant Richards.   
+Tourtel, Mary (1903) The Three Little Foxes. London: Grant Richards.   
+Tourtel, Mary (1904) The Rabbit Book. London: Anthony Treherne & Co. Ltd.   
+Tourtel, Mary (1919) When Animals Work. London: Sefton Fabrics.    
+
+
