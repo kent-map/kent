@@ -55,6 +55,13 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 # Authors
 
 ##
+**Pat Argar**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Pat Argar.jpg)
+
+Pat Argar has a PhD from Canterbury Christ Church University. Her research interests include the writing of Sheila Kaye-Smith, the family history of the Comport family and all things rural (especially with relation to Romney Marsh, where she lives). Before the Covid19 pandemic she regularly gave presentations and talks to groups and societies on local history and literature. She was born and grew up in East Sussex and spent most of her adult life as a teacher. Her pandemic “lockdown” diary can be found at [theruralwriterblog.wordpress.com](theruralwriterblog.wordpress.com)
+
+##
 **Sophie Baldock**
 
 - twitter: @SophieBaldock
