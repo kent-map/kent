@@ -26,6 +26,7 @@
 [Diana & Tony Powell-Cotton](20c-powell-cotton)   
 [Vita Sackville-West](20c-sackville-west-biography)    
 [Ellen Terry](20c-terry-biography)  
+[Mary Tourtel](20c-tourtel-biography)   
 [Elizabeth Von Arnim](20c-vonarnim-biography)   
 [Gladys Waterer](20c-waterer-biography)   
 [H.G. Wells](20c-wellshg-biography)   
