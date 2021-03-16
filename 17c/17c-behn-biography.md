@@ -8,8 +8,6 @@
 <param ve-entity eid="Q2173192" aliases="Sturry">
 <param ve-entity eid="Q4898591" aliases="Betteshanger">
 
-## Aphra Behn (1640? – 1689)
-
 Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born; however, like much of her life, this is difficult to confirm. In a biography at the end of Behn’s play, _The Younger Brother_, it is recorded that depending on the ‘account you read- and there are many - Aphra was born in Harbledown, near Canterbury’.[^ref1] Her early life was in Kent, however there are deliberations as to where her exact birthplace was. Whilst ‘Colonel Thomas Colepeper declared in his manuscript “Adversaria” that she was born ‘at Sturry or Canterbury’,[^ref2] Anne Finch ‘states that she was reputed to be “Daughter to a Barber, who liv’d formerly at Wye a little market town (now much decay’d) in Kent”’[^ref3] and therefore Wye is an alternative for her place of birth. A further link to Kent later in Behn’s life is Jeffrey Boys, who was ‘a young lawyer’ and son of the ‘possessor of the manor of Betteshanger in Kent’[^ref4]. He was ‘clearly acquainted’[^ref5] with Behn, suggesting her Kent connections continued beyond childhood, traced in Boys’ diary.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Aphra_Behn_by_Peter_Lely.jpg" label="Aphra Behn by Peter Lely, Public domain, via Wikimedia Commons"> 
 
