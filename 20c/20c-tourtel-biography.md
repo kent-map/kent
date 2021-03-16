@@ -11,7 +11,7 @@ Mary Tourtel (nee Caldwell) was the last child of Sarah and Samuel Caldwell. She
 <param ve-image url="images/tourtelcantmus.jpg" label="©Canterbury Museums and Galleries. Mary Tourtel at her home in Palace Street, Canterbury. Circa 1895."> 
 <param ve-map center="Q29303" zoom="8">
 
-Mary went to school in Canterbury. Like her father and brothers, she had an interest in art and attended the Sidney Cooper School of Art under Thomas Sidney Cooper. She had a particular fondness and ability for capturing the likenesses of animals. Before becoming the writer and illustrator of [Rupert Bear](/20c/20c-rupert-bear) for the _Daily Express_ in 1920, she created characters and scenes more akin to the [Kentish landscape](/landscape/kentish-landscape). 
+Mary went to school in Canterbury. Like her father and brothers, she had an interest in art and attended the Sidney Cooper School of Art under Thomas Sidney Cooper. She had a particular fondness and ability for capturing the likenesses of animals. Before becoming the writer and illustrator of [Rupert Bear](/20c/20c-rupert-bear) for the _Daily Express_ in 1920, she created characters and scenes more akin to the [Kentish landscape](/landscape/kentish-landscapes). 
 <param ve-image url="/20c/images/sidneycooper.jpg" label="The Sidney Cooper Gallery © Martin Crowther"> 
 
 Animal books for children featured greatly in Mary’s career as an illustrator. Her first publications _A Horse Book_ and _Three Little Foxes_ appeared in 1897 when she was only 23. _The Rabbit Book_ are other examples of her early work. A handkerchief book, _When Animals Work_, was published in 1919 by Sefton. 
