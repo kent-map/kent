@@ -4,8 +4,7 @@
 
 ## The Mermaid Tour
 
-**Excerpt**, from [_In Margate by Lunchtime_](https://maggieharris.co.uk/books/in-margate-by-lunchtime/)
-
+**Excerpt**, from [_In Margate by Lunchtime_](https://maggieharris.co.uk/books/in-margate-by-lunchtime/)   
 There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist.   
 ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’   
 Gary did a quick shufti round to see if it was him she was hailing.   
