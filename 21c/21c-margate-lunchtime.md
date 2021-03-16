@@ -2,8 +2,6 @@
 
 <param ve-config title="In Margate by Lunchtime" author="Maggie Harris" layout="vtl" banner="/images/banners/21c.jpg"> 
 
-<param ve-entity eid="Q618045" aliases="Margate">
-
 ## The Mermaid Tour
 
 **Excerpt**, from [_In Margate by Lunchtime_](https://maggieharris.co.uk/books/in-margate-by-lunchtime/)
