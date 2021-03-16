@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="In Margate by Lunchtime" author="Maggie Harris" layout="vtl" banner="/images/eliot5.JPG"> 
+<param ve-config title="In Margate by Lunchtime" author="Maggie Harris" layout="vtl" banner="images/eliot5.JPG"> 
 
 ## The Mermaid Tour
 
