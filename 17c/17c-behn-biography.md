@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="Aphra Behn (1640? – 1689)" author="Alexa Barrett" layout="vtl" banner="images/Kent map later 17c.jpeg"> 
+<param ve-config title="Aphra Behn (1640? – 1689)" author="Alexa Barrett" layout="vtl" banner="/images/banners/17c.jpg"> 
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q5654535" aliases="Harbledown">
@@ -12,7 +12,6 @@
 
 Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born; however, like much of her life, this is difficult to confirm. In a biography at the end of Behn’s play, _The Younger Brother_, it is recorded that depending on the ‘account you read- and there are many - Aphra was born in Harbledown, near Canterbury’.[^ref1] Her early life was in Kent, however there are deliberations as to where her exact birthplace was. Whilst ‘Colonel Thomas Colepeper declared in his manuscript “Adversaria” that she was born ‘at Sturry or Canterbury’,[^ref2] Anne Finch ‘states that she was reputed to be “Daughter to a Barber, who liv’d formerly at Wye a little market town (now much decay’d) in Kent”’[^ref3] and therefore Wye is an alternative for her place of birth. A further link to Kent later in Behn’s life is Jeffrey Boys, who was ‘a young lawyer’ and son of the ‘possessor of the manor of Betteshanger in Kent’[^ref4]. He was ‘clearly acquainted’[^ref5] with Behn, suggesting her Kent connections continued beyond childhood, traced in Boys’ diary.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Aphra_Behn_by_Peter_Lely.jpg" label="Aphra Behn by Peter Lely, Public domain, via Wikimedia Commons"> 
-
 
 Much of Behn’s early life is hard to piece together, until later when she is living in London and her writing gives insight to potential life experiences. One of these is a possible trip to Surinam, alluded to in the novel _Oroonoko_ (1688), which begins with a letter stating, ‘this is a true story’.[^ref6] It is hard to tell how far this is factual, but _Oroonoko_ had ‘influence on the development of the English novel’[^ref7] with its hard-hitting account of slavery, regardless of how close it reflects on Behn’s own experience.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/02/Behn_Oroonoko_title_page.1688.jpg" label="Oroonoko title page, 1688, ,via Wikimedia Commons">
