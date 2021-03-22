@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
 
-<param ve-config title="The secret war tunnels of Dover Castle"author="Brooke Altringham" layout="vtl"banner="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg" label=" Dover Castle" attribution="Suicasmo"url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg"> 
+<param ve-config title="The secret war tunnels of Dover Castle"author="Brooke Altringham" layout="vtl"banner="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg" label="Dover Castle" attribution="Suicasmo"url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg"> 
 
 <param ve-entity eid="Q950970" aliases="Dover Castle"> 
 
