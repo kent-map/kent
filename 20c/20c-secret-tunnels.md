@@ -18,10 +18,10 @@ During the Second World War, Dover Castle played a vital role in the strategic o
 <param ve-image url="images/brooke.jpg” label="Illustration of the secret war tunnels, Dover” attribution="Painting by Brooke Altringham "> 
 
 This secret network of underground tunnels were vital in the Evacuation of Dunkirk (Operation Dynamo) and in the key deception operations of the Second World War including Operation Fortitude South which was a top secret Allied deception campaign that aimed to deceive the Germans into believing that the invasion in Europe would take place in Calais.[^ref7]  
-<param ve-image <param ve url="https://upload.wikimedia.org/wikipedia/commons/5/54/Dummy_Vehicles_and_Equipment_USED_For_Deception_during_the_Second_World_War_H42531.jpg" label="Photograph of a dummy tank, Dover" attribution="War Office official photographer, Public domain, via Wikimedia Commons"> 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/Dummy_Vehicles_and_Equipment_USED_For_Deception_during_the_Second_World_War_H42531.jpg" label="Photograph of a dummy tank, Dover" attribution="War Office official photographer, Public domain, via Wikimedia Commons"> 
 
 In order to accomplish this, large volumes of coded fake messages to trick the Germans were passed throughout the county and British and Canadian units worked around the clock in the secret tunnels beneath Dover Castle to simulate the communications of the fictional army known as The First United States Army Group.[^ref8] Dover itself played a vital part in Fortitude as large numbers of dummy tanks and vehicles were deployed on Dover’s coasts and harbours to create the impression that FUSAG was preparing for the invasion of Calais. Ultimately, the D-Day Deception campaign (Operation Fortitude) based in Kent was successful in deceiving the Germans into believing that the Allied invasion of Europe would take place in Calais, the actual real invasion was in Normandy and the deception saved thousands of Allied lives and marked a major turning point in the war for the Allies.  
-<param ve-image url=" https://kent-map.github.io/kent/images/thumbnails/20c.jpg” label="illustration, Dover” attribution="Photograph of illustration"> 
+<param ve-image url="images/thumbnails/20c.jpg” label="illustration, Dover” attribution="Photograph of illustration"> 
 
 ### References 
 
