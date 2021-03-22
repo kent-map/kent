@@ -39,4 +39,4 @@ In order to accomplish this, large volumes of coded fake messages to trick the G
 
 [^ref7]: English Heritage.(2010) _D-Day Deception: Operation Fortitude South, Dover Castle_.   
 
-[^ref8]: English Heritage.(2010)_D-Day Deception: Operation Fortitude South, Dover Castle_.   
+[^ref8]: English Heritage.(2010) _D-Day Deception: Operation Fortitude South, Dover Castle_.   
