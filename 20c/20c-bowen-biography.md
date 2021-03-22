@@ -22,16 +22,16 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 **Places:** Hythe, Folkestone, Seabrook, Lyminge, Downe, Dymchurch, Broadstairs, Dover, the Cinque Ports, Romney, Sandwich.
 <param ve-image url="images/The_Kent_coast_(IA_kentcoast00lewirich).jpg" label="Lewis, Arthur D, The Kent Coast" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
 
-_‘Possibly it was England made me a novelist’_
+_‘Possibly it was England made me a novelist’_   
 Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area as a child of seven she was immediately bewitched. The contrast between Ireland and her new home in terms of both architecture and topography could not have been greater. 
 <param ve-map center="Q375314" zoom="10">
 
-After the comparative sobriety of the buildings in Dublin and at Bowen’s Court in County Cork the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography:
+After the comparative sobriety of the buildings in Dublin and at Bowen’s Court in County Cork the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography:   
 _I was surfeited with the classical when we sailed for England – where release, to the point of delirium, awaited me. I found myself in a paradise of white balconies, ornate porches, verandahs festooned with Dorothy Perkins roses, bow windows protuberant as balloons, dream-childish attic bedrooms with tentlike ceilings, sublimated ivory-fretwork inglenooks inset with jujubes of tinted glass._[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Rosa_%27Dorothy_Perkins%27_01.jpg" label="Rosa 'Dorothy Perkins' (Jackson & Perkins, 1901)" attribution="Wilrooij, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map center="Q26314321" zoom="10">
 
-The Leas summed up Folkestone for her:   
+The Leas summed up Folkestone for her:      
 _Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying._[^ref2]   
 <param ve-image url="images/bowenfolkestone.jpg" label="Folkestone" attribution="Diana Hirst">
 
@@ -41,7 +41,6 @@ The landscape, too, entranced her with its ‘wide views, though also mysterious
 
 For Bowen the child, ‘England’ _was Kent_, and ‘above all, Kent’s dramatisable coastline’.[^ref7]   Not only did she experience Kent as a gateway to England, she became aware that it was the gateway to a wider world when one day, walking along the Leas, she found to her amazement that France was a real place: it could be seen! Up till then it had existed as something abstract, in the language and _moeurs_ of her mother and her aunts, who had been brought up by a Swiss-French governess. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" label="The Leas, Folkeston" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
-
  
 **Elizabeth Bowen at Downe House in 1916.**
 
@@ -49,7 +48,6 @@ For six years, between 1906 and 1912, she and her mother lived in rented houses 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg" label="Down House" attribution="Duncharris at the English language Wikipedia, CC BY-SA 3.0, via Wikimedia Commons">
 <param ve-map center="Q3038318" zoom="10">
 
- 
 Bowen emphasised the importance of East Kent to her in _Pictures and Conversations_, which devotes much of its first chapter, ‘Origins’, to Bowen’s reactions on her arrival in Kent, glancing only briefly at her Anglo-Irish antecedents. She would draw on the roots which she put down in those six Folkestone years for the settings for episodes in five of her ten novels. _The House in Paris_ (1935) and _The Death of the Heart_ (1938) have episodes in Hythe; _The Little Girls_ (1964) in Folkestone and Dymchurch; _Eva Trout_ (1969) in Broadstairs; while her war novel _The Heat of Day_ (1949) has an envoi set in Hythe. 
 <param ve-image url="images/Bleak House Broadstairs MJC.jpg" label="Bleak House, Broadstairs" attribution="Photographed by Martin Crowther">
 <param ve-map center="Q922739" zoom="10">
