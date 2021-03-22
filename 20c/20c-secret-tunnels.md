@@ -25,18 +25,18 @@ In order to accomplish this, large volumes of coded fake messages to trick the G
 
 ### References 
 
-[^ref1]: English Heritage.(2010) _Dover Castle_.   
+[^ref1]: English Heritage (2010) _Dover Castle_.   
 
-[^ref2]: English Heritage.(2010) _Dover Castle_.   
+[^ref2]: English Heritage (2010) _Dover Castle_.   
 
-[^ref3]: Historic England.(1999) _Dover Castle_.   
+[^ref3]: Historic England (1999) _Dover Castle_.   
 
-[^ref4]: Historic England.(1999) _Dover Castle_.   
+[^ref4]: Historic England (1999) _Dover Castle_.   
 
-[^ref5]: BBC/Discover Kent.(2014) _Secret Tunnels of Dover Castle_.   
+[^ref5]: BBC/Discover Kent (2014) _Secret Tunnels of Dover Castle_.   
 
-[^ref6]: Cromwell-intl.com.(2021) _Military Tunnels in the White Cliffs of Dover_.   
+[^ref6]: Cromwell-intl.com (2021) _Military Tunnels in the White Cliffs of Dover_.   
 
-[^ref7]: English Heritage.(2010) _D-Day Deception: Operation Fortitude South, Dover Castle_.   
+[^ref7]: English Heritage (2010) _D-Day Deception: Operation Fortitude South, Dover Castle_.   
 
-[^ref8]: English Heritage.(2010) _D-Day Deception: Operation Fortitude South, Dover Castle_.   
+[^ref8]: English Heritage (2010) _D-Day Deception: Operation Fortitude South, Dover Castle_.   
