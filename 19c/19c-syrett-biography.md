@@ -1,4 +1,4 @@
-## Netta [Janet] Syrett  (17 March 1865-15 December 1943)
+## Netta Syrett  (17 March 1865-15 December 1943)
 **Event** Birthplace 1854
 **Place:** Ramsgate
 
