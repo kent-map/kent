@@ -29,7 +29,7 @@ After Chaucer resigned from his role as “Clerk of the King’s Works” in 139
 
 ### Bibliography
 
-Foreville, Raymonde. (1958) “Le jubilé de Saint Thomas Becket dans la perspective des indulgences médiévales.” Le jubilé de saint Thomas Becket, du XIIIe au XVe siècle, 1220-1470, étude et documents. Paris: S.E.V.P.E.N, 21-36. https://www.persee.fr/doc/crai_0065-0536_1956_num_100_1_10533  
+Foreville, Raymonde. (1958) [“Le jubilé de Saint Thomas Becket dans la perspective des indulgences médiévales.” Le jubilé de saint Thomas Becket, du XIIIe au XVe siècle, 1220-1470, étude et documents.](https://www.persee.fr/doc/crai_0065-0536_1956_num_100_1_10533) Paris: S.E.V.P.E.N, 21-36.  
 Gray, D. "Geoffrey Chacuer." _Oxford Dictionary of National Biography_ 2004.  
 Sanderlin, S. “Chaucer and Ricardian Politics.” _The Chaucer Review,_ vol. 22, no. 3, 1988, pp. 171–184. JSTOR, www.jstor.org/stable/25094045. Accessed 5 Nov. 2020.  
 <param ve-image url="images/The Pilgrims Guide to Canterbury - Copyright Martin Crowther.JPG" label="The Pilgrim's Guide to Canterbury" attribution="Photographed by Martin Crowther">
