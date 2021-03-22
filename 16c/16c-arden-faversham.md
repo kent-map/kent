@@ -30,7 +30,6 @@ The Flower-de-Luce building is now the Fleur-de-Lis Heritage Centre, a museum an
 
 ### Bibliography and Further Reading
 
-
 Adams, John Henry, ‘Agentive Objects and Protestant Idolatry in Arden of Faversham, _Studies in English Literature, 1500-1900,_ Vol. 57, Issue 2 (2007), pp. 231-251.
 
 _Arden of Faversham,_ with introduction by Tom Lockwood, Text Edited by Martin White (London; New York: Bloomsbury Methuen Drama, 1982 – revised edition 2007)
@@ -66,8 +65,4 @@ Sullivan Jr., Garrett A., _Arden of Faversham and the Early Modern Household, in
 Valerie-Lucas, R. _Puritan Preaching and the Politics of the Family, in The Renaissance Englishwoman in Print – Counterbalancing the Canon,_ edited by Anne H. Haselkorn and Betty S. Travitsky (Amherst; Mass.; London: University of Massachusetts Press, 1990).
 
 Wall, Wendy, _Staging Domesticity – Household Work and English Identity in Early Modern Drama_ (Cambridge; New York: Cambridge University Press, 2002, reprinted 2006).
-
-### References
-
-[^ref1]: [the] _Complaint and Lamentation of Mistresse Arden of [Fev]Ersham in Kent Who for the Loue of One Mosbie, Hired Certaine Ruffians and Villaines most Cruelly to Murder Her Husband; with the Fatall End of Her and Her Associats. to the Tune of, Fortune My Foe._ London, for C. Wright, 1633. ProQuest. Web. 20 July 2020.
 

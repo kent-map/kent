@@ -14,7 +14,7 @@ As red within the water burns the scythe
 And the moon dwindled to her gibbous tithe   
 Follows the sunken sun afloat. - ‘Sissinghurst’, 1930.   
 <param ve-map center="Q1971996" zoom="10">
-<param ve-image url="20c/images/sissinghurst2.jpg" label="Sissinghurst">
+<param ve-image url="images/sissinghurst2.jpg" label="Sissinghurst">
 
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character. She was though a prolific and versatile writer herself - a celebrated poet (a candidate for the post of Poet Laureate in 1948) and author of fourteen novels, with those published in the 1930s proving both critically and commercially successful. Her poetry was unapologetically traditional in form, and her fiction too was largely traditional but with a distinctly poetic style.
@@ -26,11 +26,11 @@ She was the only child of Lord and Lady Sackville-West, born at the family’s a
 <param ve-map center="Q18160916" zoom="10">
 
 She married Harold Nicolson in 1913, when he was a junior diplomat. They lived first in Constantinople, then moved back to England in 1914, buying Long Barn, a house near Knole, where they established their first English garden. They moved again in 1930, buying Sissinghurst Castle for £12,375, where they created a family home and the now world-famous garden among the ruins of a once magnificent Elizabethan manor house. Sissinghurst is the subject of Sackville-West’s poems ‘Sissinghurst’ (1930) and _The Garden_ and is precisely described as background to her novel _Family History_. Her nearest railway station, Staplehurst, was the scene of the famous 1865 [train crash]( /dickens/dickens-staplehurst) involving Dickens and Ellen Ternan.
-<param ve-image url="https://raw.githubusercontent.com/kent-map/kent/develop/images/sissinghurstpostcard.jpg" label="Sissinghurst Castle" attribution="Carolyn Oulton">
+<param ve-image url="images/sissinghurstpostcard.jpg" label="Sissinghurst Castle" attribution="Carolyn Oulton">
 <param ve-map primary center="Q1971996" zoom="10">
 
 The Nicolsons had a famously open marriage, with both enjoying many same sex relationships. As she grew older, Sackville-West increasingly withdrew from society but she continued to entertain lovers and other guests at Sissinghurst, including [Christopher St John](/20c-st-john-biography) (partner of [Ellen Terry](/20c-terry-biography)’s daughter [Edith Craig](/20c-craig-biography).  
-<param ve-image url="20c/images/christopherstjohn.jpg" label="Christopher St John" attribution="image taken from the print version of her play The Coronation published in 1912 -Photographed by Marie Leon">
+<param ve-image url="images/christopherstjohn.jpg" label="Christopher St John" attribution="image taken from the print version of her play The Coronation published in 1912 -Photographed by Marie Leon">
 
 Sackville-West died at Sissinghurst in 1962 and her ashes are interred in the family crypt at Withyham, Sussex. Her husband and two sons are buried at Trinity Church, overlooking the Sissinghurst estate.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trinity_Church%2C_Sissinghurst_-_geograph.org.uk_-_1803168.jpg" label="Trinity Church, Sissinghurst" attribution="Nigel Chadwick, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0, via Wikimedia Commons">
@@ -47,5 +47,5 @@ Sackville-West, Vita. _Family History._ St Ives: Vintage, 1996. Print.
 Sackville-West, Vita. _The Edwardians_. St Ives: Vintage, 2016. Print.  
 Sackville-West, Vita. _The Garden._ Woking: Michael Joseph Ltd, (First pub 1946). Print.  
 Sackville-West, Vita. _The Land._ England: Frances Lincoln Ltd, 2004. Print.  
-<param ve-image url="https://raw.githubusercontent.com/kent-map/kent/develop/images/sissinghurstcover.jpg" label="Cover of Sissinghurst by Vita Sackville-West">
+<param ve-image url="images/sissinghurstcover.jpg" label="Cover of Sissinghurst by Vita Sackville-West">
 

@@ -55,8 +55,8 @@ Unfortunately they were not able to finish the conversion before they ran out of
 
 [Alfred Cohen Art Foundation](www.alfredcohen.org)    
 [Alfred Cohen](https://en.wikipedia.org/wiki/Alfred_Cohen)    
-https://alfredcohen.benuricollection.org.uk  
-https://blogs.kcl.ac.uk/maxsaunders/alfred-cohen-painter-1920-2001/  
-www.instagram.com/alfredcohenofficial/  
-www.facebook.com/AlfredCohenArtist  
+[Benuri Collection]{https://alfredcohen.benuricollection.org.uk)    
+[Alfred Cohen Painter](https://blogs.kcl.ac.uk/maxsaunders/alfred-cohen-painter-1920-2001/)  
+[Alfred Cohen Official](www.instagram.com/alfredcohenofficial/)  
+[Alfred Cohen Facebook](www.facebook.com/AlfredCohenArtist)  
 <param ve-image url="images/walmerlifeboat.jpg" label="Alfred Cohen, The Walmer Lifeboat and the Goodwin Sands, 1964, casein on board, 18 x 24 in; 45.7 x 61 cm. © The Artist’s Estate. Photo: Peter Huggins. Arts Council England"> 

@@ -6,15 +6,9 @@
 <param ve-entity eid="Q3038318" aliases="Down House">
 <param data-map center="20210218 4e78384" zoom="10">
 
-
-## Charles Darwin 1809-1882
-
 >‘There is grandeur in this view of life’
 
-Lived in Kent 1842-1882
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Charles_Darwin_by_Julia_Margaret_Cameron_3.jpg" label="Charles Darwin/ Julia Margaret Cameron, Public domain, via Wikimedia Commons"> 
-<param data-map center="20210218 4e78384" zoom="10">
-
+**Lived in Kent** 1842-1882   
 Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. They may be aware of his _Journal and Remarks_ (generally known as _The Voyage of the Beagle_ (1839)), in which a youthful Darwin recounted his five years travelling the world. _Beagle_ brought him fame and recognition and his name is forever tied to that of the Galapagos Islands. Most may only know (but have never read) On the Origin of Species (1859) in which he outlined his concept of ‘natural selection’. It was written while Darwin was resident in the village of Downe in Kent, where he also wrote _The Descent of Man_ (1871). The excerpt below demonstrates his ability to write with a lyrical passion for his subject:
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Charles_Darwin_by_Julia_Margaret_Cameron_3.jpg" label="Charles Darwin/ Julia Margaret Cameron, Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q2019734" zoom="8">
@@ -42,10 +36,7 @@ Despite his own considerable writing abilities, he found, as he grew older, that
 This makes Darwin’s profound influence on the arts, as well as the sciences, all the more interesting. Diana Donald, in a profound, multi-authored book on Darwin and the arts, states that he is now widely regarded as ‘an imaginative writer, whose construct of the workings of nature, expressed in metaphorical and even visionary language, deeply influenced novelists and poets’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/74/Haeckel_Nepenthaceae.jpg" label="Pitcher plant (Nepenthaceae: insectivorous)/ Ernst Haeckel, Public domain, via Wikimedia Commons"> 
 
-**Article written by:** Peter Vujakovic 
-
 It is interesting to note that Darwin is one of several writers with a strong Kent connection to feature on a Bank of England bank note. He displaced [Charles Dickens]( /dickens/dickens-biography) from the £10 note, before being in turn displaced by [Jane Austen](/19c/19c-austen-biography) in 2017. The Austen note features [Godmersham Park](/austen/austen-godmersham), on the Great Stour (south of Canterbury) as the backdrop. The estate was inherited by her brother in 1794 and she became a regular visitor. The Dickens note also featured a (fictional) Kentish scene – the cricket match Dingley Dell against All Muggleton (Maidstone) from [_The Pickwick Papers_](/dickens/pickwick-papers). Other Kent literary and artistic connections include Sir Winston Churchill on the £5 note and J.M.W. Turner on the £20 note.
-
 
 ### References
 
