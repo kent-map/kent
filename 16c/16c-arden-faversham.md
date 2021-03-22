@@ -4,8 +4,6 @@
 
 <param ve-entity eid="Q1000115" aliases="Faversham"> 
 
-## Arden of Faversham (Author unknown) 
-
 On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn. The 1570s saw the rise in popularity of true crime narratives in print, and in c. 1590 the Arden murder was turned into a play. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Faversham_Abbey_Site_-_48474928356.jpg" label="Faversham Abbey" attribution="John K  Thorne, CC BY 2.0, via Wikimedia Commons">
 
