@@ -21,7 +21,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 
 **Places:** Hythe, Folkestone, Seabrook, Lyminge, Downe, Dymchurch, Broadstairs, Dover, the Cinque Ports, Romney, Sandwich.
 
->‘Possibly it was England made me a novelist’
+_‘Possibly it was England made me a novelist’_
 <param ve-image url="images/The_Kent_coast_(IA_kentcoast00lewirich).jpg" label="Lewis, Arthur D, The Kent Coast" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
 
 Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area as a child of seven she was immediately bewitched. The contrast between Ireland and her new home in terms of both architecture and topography could not have been greater. 
@@ -29,13 +29,13 @@ Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transpla
 
 After the comparative sobriety of the buildings in Dublin and at Bowen’s Court in County Cork the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography. 
 
->I was surfeited with the classical when we sailed for England – where release, to the point of delirium, awaited me. I found myself in a paradise of white balconies, ornate porches, verandahs festooned with Dorothy Perkins roses, bow windows protuberant as balloons, dream-childish attic bedrooms with tentlike ceilings, sublimated ivory-fretwork inglenooks inset with jujubes of tinted glass.[^ref1]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Rosa_%27Dorothy_Perkins%27_01.jpg" label="Rosa 'Dorothy Perkins' (Jackson & Perkins, 1901) flowering in the garden for rose novelities on the Beutig hill in Baden Baden (Germany) (Dorothy Perkins seems to have only been introduced in 1901, but in 1908, this rose won top honours at the Royal National Rose Society.)" attribution="Wilrooij, CC BY-SA 4.0, via Wikimedia Commons">
+_I was surfeited with the classical when we sailed for England – where release, to the point of delirium, awaited me. I found myself in a paradise of white balconies, ornate porches, verandahs festooned with Dorothy Perkins roses, bow windows protuberant as balloons, dream-childish attic bedrooms with tentlike ceilings, sublimated ivory-fretwork inglenooks inset with jujubes of tinted glass._[^ref1]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Rosa_%27Dorothy_Perkins%27_01.jpg" label="Rosa 'Dorothy Perkins' (Jackson & Perkins, 1901)" attribution="Wilrooij, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map center="Q26314321" zoom="10">
 
 The Leas summed up Folkestone for her. 
 
->Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.[^ref2]   
+_Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying._[^ref2]   
 <param ve-image url="images/bowenfolkestone.jpg" label="Folkestone" attribution="Diana Hirst">
 
 The landscape, too, entranced her with its ‘wide views, though also mysterious interstices.  Inside the sea-wall, the protected lands keep an illusory look of marine emptiness.’ Uphill it is ‘enticing, breathless and lush, with wandering dog-paths and choked thickets.’[^ref3]  At the same time, Kent’s history was almost part of its landscape, bursting ‘from under the contemporary surface at every point’, while its geology had a newness compared with that of Ireland.[^ref4]   And she realised how fiction can be set in the real world: reading _Kipps_ by [H.G. Wells](/20c/20c-wellshg-biography), she was ‘made dizzy by the discovery that [she] had, for years, been living in two places, Hythe and Folkestone, that were in a book.’[^ref5][^ref6]  
