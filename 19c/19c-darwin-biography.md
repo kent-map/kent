@@ -37,10 +37,7 @@ Despite his own considerable writing abilities, he found, as he grew older, that
 This makes Darwin’s profound influence on the arts, as well as the sciences, all the more interesting. Diana Donald, in a profound, multi-authored book on Darwin and the arts, states that he is now widely regarded as ‘an imaginative writer, whose construct of the workings of nature, expressed in metaphorical and even visionary language, deeply influenced novelists and poets’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/74/Haeckel_Nepenthaceae.jpg" label="Pitcher plant (Nepenthaceae: insectivorous)/ Ernst Haeckel, Public domain, via Wikimedia Commons"> 
 
-**Article written by:** Peter Vujakovic 
-
 It is interesting to note that Darwin is one of several writers with a strong Kent connection to feature on a Bank of England bank note. He displaced [Charles Dickens]( /dickens/dickens-biography) from the £10 note, before being in turn displaced by [Jane Austen](/19c/19c-austen-biography) in 2017. The Austen note features [Godmersham Park](/austen/austen-godmersham), on the Great Stour (south of Canterbury) as the backdrop. The estate was inherited by her brother in 1794 and she became a regular visitor. The Dickens note also featured a (fictional) Kentish scene – the cricket match Dingley Dell against All Muggleton (Maidstone) from [_The Pickwick Papers_](/dickens/pickwick-papers). Other Kent literary and artistic connections include Sir Winston Churchill on the £5 note and J.M.W. Turner on the £20 note.
-
 
 ### References
 
