@@ -9,10 +9,7 @@
 
 >‘There is grandeur in this view of life’
 
-Lived in Kent 1842-1882
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Charles_Darwin_by_Julia_Margaret_Cameron_3.jpg" label="Charles Darwin/ Julia Margaret Cameron, Public domain, via Wikimedia Commons"> 
-<param data-map center="20210218 4e78384" zoom="10">
-
+**Lived in Kent** 1842-1882   
 Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. They may be aware of his _Journal and Remarks_ (generally known as _The Voyage of the Beagle_ (1839)), in which a youthful Darwin recounted his five years travelling the world. _Beagle_ brought him fame and recognition and his name is forever tied to that of the Galapagos Islands. Most may only know (but have never read) On the Origin of Species (1859) in which he outlined his concept of ‘natural selection’. It was written while Darwin was resident in the village of Downe in Kent, where he also wrote _The Descent of Man_ (1871). The excerpt below demonstrates his ability to write with a lyrical passion for his subject:
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Charles_Darwin_by_Julia_Margaret_Cameron_3.jpg" label="Charles Darwin/ Julia Margaret Cameron, Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q2019734" zoom="8">
