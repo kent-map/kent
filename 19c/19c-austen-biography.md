@@ -6,7 +6,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Front_Facade_of_Godm
 
 **Places:** Ashford, [Canterbury](/austen/austen-canterbury), [Chilham](/austen/austen-chilham), Dartford, Eastwell, [Godmersham](/austen/austen-godmersham), Goodnestone & Rowling, [Ramsgate](/austen/austen-ramsgate), [Sevenoaks](/austen/austen-sevenoaks), Tonbridge, [Tunbridge Wells](/austen/austen-tunbridge-wells) 
 
->‘Are you pleased with Kent?’ 
+‘Are you pleased with Kent?’   
 _Pride and Prejudice_
 <param ve-image url="images/JaneAustenCassandraWatercolour.jpg" label="Jane Austen">
 
