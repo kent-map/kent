@@ -2,7 +2,14 @@
 <param ve-config title="Dora Jordan (1761-1816)" author="Michelle Crowther" layout="vtl" 
 banner="xxxx">
 
-Mrs Jordan was the foremost actress of her day and very much admired. She became the long-standing mistress of the Duke of Clarence, the future King William IV, with whom she lived for many years and had ten children. As well as performing in London, she toured the provinces extensively, making several visits to Kent, where she appeared at theatres including Canterbury, Margate, Ramsgate, Deal and Dover.
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q1626044" aliases="Sittingbourne">
+
+Mrs Dora Jordan was the foremost actress of her day and very much admired. She became the long-standing mistress of the Duke of Clarence, the future King William IV, with whom she lived for many years and had ten children. As well as performing in London, she toured the provinces extensively, making several visits to Kent, where she appeared at theatres including Canterbury, Margate, Ramsgate, Deal and Dover.
 
 Starting her career in Ireland at the age of 15, Dora toured Yorkshire, before taking London by storm with her performance of Peggy in _The Country Girl_ at Drury Lane Theatre in 1785.[^ref1] Known for her comedy performances, Dora was soon being talked about in the provinces, and theatre prints of her as Miss Lucy in Henry Fielding’s farce _The Virgin Unmasked_ were produced and sold by [Canterbury](/19c/19c-canterbury) printers Simmons and Kirkby, in 1791. [^ref2] 
 
@@ -12,7 +19,7 @@ Dora continued the run at [Margate](/19c/19c-margate) that year with a performan
 
 Four years later, Dora reprised her performance of Amanthis at Margate “playing for her brother who had put her under great embarrassments”[^ref7]  The theatre which could seat 700 brought in sizable revenues and the high fees she commanded helped pay off her brother George’s debts. The Duchess of Cumberland reserved 20 tickets and the Duchess of Devonshire asked for both stage boxes.[^ref8]  
 
-This was followed by two nights at the Theatre [Canterbury](/19c/19c-canterbury) in which she performed Amanthis and Maria in the farce of _The Citizen_. Mrs Sarah Baker, an actress and theatre manager, born in Milton, Kent, who established several of the counties grand theatres.[^ref9] was obliged to “inform the public, the price of admission on those nights to the Boxes, will be four shillings.”[^ref10] The  theatre was packed, although it was reported in the press that “the advance of the admission of the Pit was very displeasing to the public, and we trust for the credit of the manager it will never be attempted again.”.[^ref11] Mr Incledon, a popular ballad singer, was also on the bill.
+This was followed by two nights at the Theatre [Canterbury](/19c/19c-canterbury) in which she performed Amanthis and Maria in the farce of _The Citizen_. Mrs Sarah Baker, an actress and theatre manager, born in Milton, near Sittingbourne, who established several of the counties grand theatres.[^ref9] was obliged to “inform the public, the price of admission on those nights to the Boxes, will be four shillings.”[^ref10] The  theatre was packed, although it was reported in the press that “the advance of the admission of the Pit was very displeasing to the public, and we trust for the credit of the manager it will never be attempted again.”.[^ref11] Mr Incledon, a popular ballad singer, was also on the bill.
 
 On her return to Margate a year later, Dora continued to attract the crowds over an eight-night stay: “The boxes were all taken, many days previous; and the anxiety of the residents to gain admittance was so great, as to induce them to stand at the doors of the Theatre an hour before the usual time of opening the House.”[^ref12]  Once again the wealthy visitors to the town filled the boxes – including the Duchess of Devonshire and her daughters Ladies Harriet and Caroline Cavendish. During the last scene of a performance of _The Country Girl_, Dora was nearly burned alive when her dress caught fire on stage; valiantly she continued in her petticoat. [^ref13] 
 
