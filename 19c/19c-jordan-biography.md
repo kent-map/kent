@@ -23,34 +23,33 @@ This was followed by two nights at the Theatre [Canterbury](/19c/19c-canterbury)
 
 On her return to Margate a year later, Dora continued to attract the crowds over an eight-night stay: “The boxes were all taken, many days previous; and the anxiety of the residents to gain admittance was so great, as to induce them to stand at the doors of the Theatre an hour before the usual time of opening the House.”[^ref13]  Once again the wealthy visitors to the town filled the boxes – including the Duchess of Devonshire and her daughters Ladies Harriet and Caroline Cavendish. During the last scene of a performance of _The Country Girl_, Dora was nearly burned alive when her dress caught fire on stage; valiantly she continued in her petticoat. [^ref14] 
 
-In September 1804, Dora was back performing in Margate. The town had been quiet over the summer due to fears of invasion, but as the threat had subsided “bathing rooms, promenades and masquerades are as well attended, as if neither Bonaparte nor his flotilla were in existence.”[^ref15] The theatre seats were full and the audience rapturously applauded as she performed the Widow Belmour in _The Way to Keep Him_ an “elegant and pleasant work of the venerable dramatist, Arthur Murphy”.[^ref16] Mrs Jordan was clearly a crowd-pleaser and the theatre managers had been astute in inviting her back after the quiet summer. Dora’s fans hung around her lodgings waiting for a glimpse of the famous actress and she was often forced to slip around the back to avoid them.[^ref17] The theatre prints trade must have been doing a roaring business. On one of her visits to Kent her coach was held up by highwaymen near Sittingbourne.[^ref18] Her manservant was knocked off his horse, and she vowed not to travel at night again.[^ref19]
+In September 1804, Dora was back performing in Margate. The town had been quiet over the summer due to fears of invasion, but as the threat had subsided “bathing rooms, promenades and masquerades are as well attended, as if neither Bonaparte nor his flotilla were in existence.”[^ref15] The theatre seats were full and the audience rapturously applauded as she performed the Widow Belmour in _The Way to Keep Him_ an “elegant and pleasant work of the venerable dramatist, Arthur Murphy”.[^ref16] Mrs Jordan was clearly a crowd-pleaser and the theatre managers had been astute in inviting her back after the quiet summer. Dora’s fans hung around her lodgings waiting for a glimpse of the famous actress and she was often forced to slip around the back to avoid them.[^ref17] The theatre prints trade must have been doing a roaring business. On one of her visits to Kent her coach was held up by highwaymen near Sittingbourne.Her manservant was knocked off his horse, and she vowed not to travel at night again.[^ref18]
 
-In 1811, the Duke, now under pressure from the royal family to marry, separated from Mrs Jordan but agreed to pay her a stipend on condition that she gave up performing on stage to raise their children. However, three years later she broke this agreement with the Duke, when her son in law, Thomas Alsop, ran up debts and Dora tried to help her daughter. In August, she toured Margate and [Ramsgate](/19c/19c-ramsgate), “charming all around” with her performances of Widow Cheerly in The Soldier’s Daughter and Violante in The Wonder.[^ref20]  
+In 1811, the Duke, now under pressure from the royal family to marry, separated from Mrs Jordan but agreed to pay her a stipend on condition that she gave up performing on stage to raise their children. However, three years later she broke this agreement with the Duke, when her son in law, Thomas Alsop, ran up debts and Dora tried to help her daughter.[^ref19] In August, she toured Margate and [Ramsgate](/19c/19c-ramsgate), “charming all around” with her performances of Widow Cheerly in The Soldier’s Daughter and Violante in The Wonder.[^ref20]  
 
-In the following February, Dora toured [Dover](/19c/19c-dover) and [Deal](/19c/19c-deal), giving performances of Widow Cheerly, Violante, Letitia Hardy, and Lady Teazel in Sheridan’s The School for Scandal [^ref21] In the summer she gave 10 performances at Margate – these were to be her last.[^ref22] The Duke had  withdrawn his support and Mrs Jordan moved to the continent where she was to die in 1816. As well as acting, Dora wrote plays and songs, which she herself performed on stage, as well as encouraging work by other female playwrights.
+In the following February, Dora toured [Dover](/19c/19c-dover) and [Deal](/19c/19c-deal), giving performances of Widow Cheerly, Violante, Letitia Hardy, and Lady Teazel in Sheridan’s The School for Scandal In the summer she gave 10 performances at Margate – these were to be her last.[^ref21] The Duke had  withdrawn his support and Mrs Jordan moved to the continent where she was to die in 1816. As well as acting, Dora wrote plays and songs, which she herself performed on stage, as well as encouraging work by other female playwrights.
 
 ### References
 
-[^ref1]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994.
-[^ref2]: _Kentish Gazette_, 1791.
-[^ref3]: Whyman, J. _The Early Kentish Seaside._ Alan Sutton, 1985. p. 303
-[^ref4]: _The country girl: A comedy_. Altered from Wycherly, by David Garrick, Esq. Adapted for theatrical representation as performed at the Theatre-Royal. London: John Bell, 1791, p.vi. 
-[^ref5]: _Kentish Gazette_, Friday 01 September, 1797.
-[^ref6]: 'Memoir of the celebrated Mrs Jordan'._The Weekly review and dramatic critic_; Edinburgh Iss. 12,  (May 13, 1853): 145-151.
-[^ref7]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994.
-[^ref8]: _Kentish Gazette_ - Tuesday 01 September 1801
-[^ref9]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994. p.184
-[^ref10]: Baker, J. Sarah Baker and her Kentish Theatres 1737-1816: Challenging the Status Quo. 2020.
-[^ref11]: _Kentish Gazette_, 4 September, 1801.
-[^ref12]:
-[^ref13]:
-[^ref14]:
-[^ref15]:
-[^ref16]:
-[^ref17]:
-[^ref18]:
-[^ref19]:
-[^ref20]:
-[^ref21]:
-[^ref22]:
+[^ref1]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994.   
+[^ref2]: _Kentish Gazette_, 1791.   
+[^ref3]: Whyman, J. _The Early Kentish Seaside._ Alan Sutton, 1985. p. 303.   
+[^ref4]: _The country girl: A comedy_. Altered from Wycherly, by David Garrick, Esq. Adapted for theatrical representation as performed at the Theatre-Royal. London: John Bell, 1791, p.vi.  
+[^ref5]: _Kentish Gazette_, Friday 01 September, 1797.   
+[^ref6]: 'Memoir of the celebrated Mrs Jordan'._The Weekly review and dramatic critic_; Edinburgh Iss. 12,  (May 13, 1853): 145-151.   
+[^ref7]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994.   
+[^ref8]: _Kentish Gazette_ Tuesday 01 September, 1801.   
+[^ref9]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994. p.184.   
+[^ref10]: Baker, J. Sarah Baker and her Kentish Theatres 1737-1816: Challenging the Status Quo. 2020.   
+[^ref11]: _Kentish Gazette_, 4 September, 1801.   
+[^ref12]: _Kentish Gazette_, 4 September, 1801.  
+[^ref13]: _Kentish Weekly Post or Canterbury Journal_ Friday 10 September, 1802   
+[^ref14]: _Sun_ Tuesday 07 September 1802; Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994. p.185.
+[^ref15]: _Kentish Gazette_, September, 1804.
+[^ref16]: _Kentish Gazette_, September, 1804.
+[^ref17]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994. p.185.   
+[^ref18]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994. p.185.   
+[^ref19]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994. p.285.   
+[^ref20]: _London Courier and Evening Gazette_ Tuesday 16 August, 1814;  _Star_ Saturday 13 August, 1814.
+[^ref21]: _Kentish Gazette_, 1815; _Morning Post_ Tuesday 14 February, 1815.
 
