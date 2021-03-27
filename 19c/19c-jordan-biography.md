@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Dora Jordan (1761-1816)" author="Michelle and Martin Crowther" layout="vtl" 
-banner="images/banners/19c.jpg">
+banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q29303" aliases="Canterbury">
