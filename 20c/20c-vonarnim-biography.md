@@ -1,8 +1,8 @@
 ## Elizabeth von Arnim. Pseudonym of Mary Beauchamp (1866-1941)
 
-**Event:** caravanning holiday in Sussex and Kent in the summer of 1907.
+Caravanning holiday in Sussex and Kent in the summer of 1907.
 
-**Places:** 20 Chatham – Leeds Castle – 20 Sandgate – Great Chart – 20C Staplehurst – Sissinghurst –– Aylesford – 19C Ashford
+Chatham – Leeds Castle – 20 Sandgate – Great Chart – 20C Staplehurst – Sissinghurst –– Aylesford – 19C Ashford
 
 >‘We journeyed that day towards Canterbury, a town you, my friends, may or may not have heard of. That it is an English town I need not say, for if it were not would we have been going there? And it is chiefly noted, I remembered, for its archbishop.’
 
@@ -12,7 +12,7 @@ _The Caravaners_
 The Caravaners follows the German Baron von Ottringel on what is meant to be a month long holiday in Kent with his wife and a group of friends. His selfish behaviour and complete lack of self-awareness provide much of the humour of the novel, but also force his frustrated companions to abort the holiday after only a week.
 
 
-### Article
+
 
 Published in 1909, Elizabeth von Arnim’s comic novel The Caravaners is reminiscent of Jerome K. Jerome’s Three Men in a Boat in its loving depiction of holiday disaster. The real holiday on which it is based took place in the wet summer of 1907. The itinerary included 20 Chatham, Leeds Castle, 20C Sandgate (to see [H. G. Wells](20/20c-wellshg-biography))], Great Chart (where they were joined by E.M. Forster) 20C Staplehurst, 20C Sissinghurst, (later the home of [Vita Sackville-West](/20c/20c-sackville-west)), Aylesford and 20C Canterbury as well as parts of Sussex. [^ref1] 
 
