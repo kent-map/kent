@@ -1,6 +1,6 @@
-a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Dora Jordan (1761-1816)" author="Michelle Crowther" layout="vtl" 
-banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Front_Facade_of_Godmersham_Park_-_geograph.org.uk_-_1490002.jpg">
+banner="xxxx">
 
 Mrs Jordan was the foremost actress of her day and very much admired. She became the long-standing mistress of the Duke of Clarence, the future King William IV, with whom she lived for many years and had ten children. As well as performing in London, she toured the provinces extensively, making several visits to Kent, where she appeared at theatres including Canterbury, Margate, Ramsgate, Deal and Dover.
 
