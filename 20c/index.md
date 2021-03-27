@@ -36,7 +36,8 @@
 ### Places
 
 [Folkestone and World War One](20c-folkestone-ww1)   
-[Richborough: The Secret Port](20c-richborough)
+[Richborough: The Secret Port](20c-richborough)   
+[The secret war tunnels of Dover Castle](20c-secret-tunnels)   
 
 ### Events
 
