@@ -32,16 +32,16 @@ In the following February, Dora toured [Dover](/19c/19c-dover) and [Deal](/19c/1
 ### References
 
 [^ref1]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994.
-[^ref2]: Kentish Gazette, 1791.
-[^ref3]: Kentish Gazette - Tuesday 01 September 1801.
+[^ref2]: _Kentish Gazette_, 1791.
+[^ref3]: Whyman, J. _The Early Kentish Seaside._ Alan Sutton, 1985. p. 303
 [^ref4]: _The country girl: A comedy_. Altered from Wycherly, by David Garrick, Esq. Adapted for theatrical representation as performed at the Theatre-Royal. London: John Bell, 1791, p.vi. 
-[^ref5]:
-[^ref6]:
-[^ref7]:
-[^ref8]:
-[^ref9]:
-[^ref10]:
-[^ref11]:
+[^ref5]: _Kentish Gazette_, Friday 01 September, 1797.
+[^ref6]: 'Memoir of the celebrated Mrs Jordan'._The Weekly review and dramatic critic_; Edinburgh Iss. 12,  (May 13, 1853): 145-151.
+[^ref7]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994.
+[^ref8]: _Kentish Gazette_ - Tuesday 01 September 1801
+[^ref9]: Tomalin, C. _Mrs Jordan's Profession_. London: Viking, 1994. p.184
+[^ref10]: Baker, J. Sarah Baker and her Kentish Theatres 1737-1816: Challenging the Status Quo. 2020.
+[^ref11]: _Kentish Gazette_, 4 September, 1801.
 [^ref12]:
 [^ref13]:
 [^ref14]:
