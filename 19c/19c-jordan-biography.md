@@ -18,7 +18,7 @@ In September 1804, Dora was back performing in Margate. The town had been quiet 
 
 In 1811, the Duke, now under pressure from the royal family to marry, separated from Mrs Jordan but agreed to pay her a stipend on condition that she gave up performing on stage to raise their children. However, three years later she broke this agreement with the Duke, when her son in law, Thomas Alsop, married to her eldest daughter Frances, ran up debts and she felt a sense of obligation to clear them. In August, she toured Margate and Ramsgate, “charming all around” with her performances of Widow Cheerly in The Soldier’s Daughter and Violante in The Wonder.  
 
-In the following February, Dora toured Dover and Deal, giving performances of Widow Cheerly, Violante, Letitia Hardy, and Lady Teazel in Sheridan’s The School for Scandal [^ref10] In the summer she gave 10 performances at Margate – these were to be her last.[^ref11] The Duke had  withdrawn his support and Mrs Jordan moved to the continent where she was to die in 1816. As well as acting, Dora wrote plays and songs, which she herself performed on stage, as well as encouraging work by other female playwrights.
+In the following February, Dora toured [Dover](/19c/19c-dover) and [Deal](/19c/19c-deal), giving performances of Widow Cheerly, Violante, Letitia Hardy, and Lady Teazel in Sheridan’s The School for Scandal [^ref10] In the summer she gave 10 performances at Margate – these were to be her last.[^ref11] The Duke had  withdrawn his support and Mrs Jordan moved to the continent where she was to die in 1816. As well as acting, Dora wrote plays and songs, which she herself performed on stage, as well as encouraging work by other female playwrights.
 
 
 
