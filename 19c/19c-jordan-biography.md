@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Dora Jordan (1761-1816)" author="Michelle Crowther" layout="vtl" 
+<param ve-config title="Dora Jordan (1761-1816)" author="Michelle and Martin Crowther" layout="vtl" 
 banner="xxxx">
 
 <param ve-entity eid="Q618045" aliases="Margate">
@@ -10,7 +10,7 @@ banner="xxxx">
 <param ve-entity eid="Q1626044" aliases="Sittingbourne">
 
 Mrs Dora Jordan was the foremost actress of her day and very much admired. She became the long-standing mistress of the Duke of Clarence, the future King William IV, with whom she lived for many years and had ten children. As well as performing in London, she toured the provinces extensively, making several visits to Kent, where she appeared at theatres including Canterbury, Margate, Ramsgate, Deal and Dover. Starting her career in Ireland at the age of 15, Dora toured Yorkshire, before taking London by storm with her performance of Peggy in _The Country Girl_ at Drury Lane Theatre in 1785.[^ref1] Known for her comedy performances, Dora was soon being talked about in the provinces, and theatre prints of her as Miss Lucy in Henry Fielding’s farce _The Virgin Unmasked_ were produced and sold by [Kentish Gazette](/18c/18c-kentish-gazette) and Canterbury printers Simmons and Kirkby, in 1791. [^ref2] 
-<param ve-image url="images/jordan.JPG" label="Mrs Jordan as Fidelia in The Plain-dealer, 1798" attribution="Martin Crowther">
+<param ve-image url="images/Dorothy-Jordan-as-Lucy-in-the-Virgin-Unmasked" label="Dorothy Jordan as Lucy in 'The Virgin Unmasked' by Unknown artist, line engraving, published 1787 NPG D4418" attribution="© National Portrait Gallery, London">
 
 On the Kent coast, the proprietors of the Theatre Royal [Margate,](/19c/19c-margate) Messrs Grubb, Shaw and Wells, keen to attract celebrated performers from the London theatres, engaged Mrs Jordan for six nights in August 1797 for £300, raising ticket prices to defray this “extraordinary expense”[^ref3] . It was indeed an extraordinary amount; Dora had earned £4 a week for her first London performance twelve years earlier. She opened on Wednesday 30th August with her celebrated performance of Peggy, which had been described as “so powerful – every girlish trick so minutely and naturally delineated, that we pronounce the performance to be HER _chef d’oeuvre,_ and assuredly the boast of modern acting.”[^ref4]    
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3b/Theatre_Royal%2C_Margate-geograph.org.uk-2281466.jpg" label="Theatre Royal, Margate" attribution="David Anstiss/ Theatre Royal, Margate"> 
