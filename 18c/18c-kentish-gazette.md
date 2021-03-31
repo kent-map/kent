@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="kentish Gazette" author="Katie Holdway" layout="vtl" 
+<param ve-config title="Kentish Gazette" author="Katie Holdway" layout="vtl" 
 banner="/images/banners/18c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
@@ -24,13 +24,13 @@ In 1944, the Luftwaffe bombed Canterbury and destroyed the offices of the _Kenti
 
 ### Bibliography:
 Hannah Barker, _Newspapers, Politics and English Society 1695-1855_ (Essex: Pearson, 2000).   
-‘History’, _KM Media Group_ <https://www.kmmediagroup.co.uk/history/> [Accessed: 25/06/2020].   
-James Simmons, ‘To The Inhabitants of the County of Kent and City of Canterbury’, Kentish Gazette, Saturday 28 May 1768, p.1  <https://www.britishnewspaperarchive.co.uk/viewer/BL/0000234/17680528/001/0001> [Accessed 25/06/2020].
-‘Kentish Gazette’, _British Newspaper Archive_ <https://www.britishnewspaperarchive.co.uk/titles/kentish-gazette> [Accessed: 18/05/2020].   
-‘Kentish Gazette’, _Kent Online_ < https://www.kentonline.co.uk/contact-us/kentish-gazette-team/> [Accessed 18/05/2020].   
-‘Kent Press & Broadcast Awards Results’, _Kent Press and Broadcast Awards_ (2019) <https://www.kpbawards.co.uk/results> [Accessed: 25/06/2020].   
-Machado, Tina, ‘Kentish Gazette’, _Historic Canterbury_ (2007) <www.historiccanterbury.com> [Accessed: 25/06/2020].   
+‘History’, [_KM Media Group_](https://www.kmmediagroup.co.uk/history/) [Accessed: 25/06/2020].   
+James Simmons, ‘To The Inhabitants of the County of Kent and City of Canterbury’, [Kentish Gazette](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000234/17680528/001/0001), Saturday 28 May 1768, p.1  [Accessed 25/06/2020].
+‘Kentish Gazette’, [_British Newspaper Archive_](https://www.britishnewspaperarchive.co.uk/titles/kentish-gazette) [Accessed: 18/05/2020].   
+‘Kentish Gazette’,[ _Kent Online_](https://www.kentonline.co.uk/contact-us/kentish-gazette-team/) [Accessed 18/05/2020].   
+‘Kent Press & Broadcast Awards Results’, [_Kent Press and Broadcast Awards_](https://www.kpbawards.co.uk/results) (2019) [Accessed: 25/06/2020].   
+Machado, Tina, ‘Kentish Gazette’, [_Historic Canterbury_](www.historiccanterbury.com) (2007) [Accessed: 25/06/2020].   
 Mitchell, Charles, _The Newspaper Press Directory_ (London: Charles Mitchell, 1847)   
-_Northampton Mercury_, Saturday 29th October 1831, p.4 <https://www.britishnewspaperarchive.co.uk/viewer/BL/0000317/18311029/025/0004> [Accessed: 30/12/2019].   
-_Waterloo Directory of English Newspapers and Periodicals_ <http://www.victorianperiodicals.com/series3/index.asp> [Accessed: 30/12/2019]   
+[_Northampton Mercury_](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000317/18311029/025/0004), Saturday 29th October 1831, p.4 [Accessed: 30/12/2019].   
+[_Waterloo Directory of English Newspapers and Periodicals_](http://www.victorianperiodicals.com/series3/index.asp) [Accessed: 30/12/2019]   
 
