@@ -25,6 +25,7 @@
 [Henry James](19c-jamesh-hever-castle)  
 [Edith Katherine Spicer Jay](19c-spicer-jay-biography)   
 [Jerome K. Jerome](19c-jerome-biography)   
+[Dora Jordan](19c-jordan-biography)   
 [John Keats](19c-keats-margate)   
 [Bessie Marchant](19c-marchantb-biography)  
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)  
