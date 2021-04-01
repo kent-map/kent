@@ -1,10 +1,18 @@
-# R.D. Blackmore (1825-1900)
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="R.D. Blackmore (1825-1900)" author="Peter Merchant" layout="vtl" 
+banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q2740296" aliases="Wrotham">
+<param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q213180" aliases="Maidstone">
+<param ve-entity eid="Q939838" aliases="Sevenoaks">
+
+
+### 16 December 1775 - 18 July 1817   
 **Place:** Wrotham.
 
-Best known for _Lorna Doone_, novelist R. D. Blackmore (1825-1900) set part of his novel _Alice Lorraine_ (1874–75) in the Weald of Kent.
-
-
-It is on the fringes of Wrotham that, when the scene shifts from the Wen to the ''Weald'', R. D. Blackmore’s novel _Alice Lorraine_ (1874–75) finds its earthly paradise. The novel’s second instalment, which appeared in _Blackwood’s Edinburgh Magazine_ in April 1874, sees the heroine’s brother Hilary Lorraine and a fellow London law student going to Covent Garden Market on a sunny Saturday in June 1811. They hitch a ride on one of the waggons, now cleared of its cargo of cherries and carrots and cauliflowers, as it wends its way homeward. The third instalment then opens on the audible expressions of delight with which Hilary “enjoyed his sudden delivery from London.” 
+Best known for _Lorna Doone_, novelist R. D. Blackmore (1825-1900) set part of his novel _Alice Lorraine_ (1874–75) in the Weald of Kent. It is on the fringes of Wrotham that, when the scene shifts from the Wen to the 'Weald', R. D. Blackmore’s novel _Alice Lorraine_ (1874–75) finds its earthly paradise. The novel’s second instalment, which appeared in _Blackwood’s Edinburgh Magazine_ in April 1874, sees the heroine’s brother Hilary Lorraine and a fellow London law student going to Covent Garden Market on a sunny Saturday in June 1811. They hitch a ride on one of the waggons, now cleared of its cargo of cherries and carrots and cauliflowers, as it wends its way homeward. The third instalment then opens on the audible expressions of delight with which Hilary “enjoyed his sudden delivery from London.” 
+<param ve-image url="images/Richard-Doddridge-Blackmore.jpg" label="Richard Doddridge Blackmore by Frederick John Jenkins, published by Sampson Low, Marston & Co Ltd heliogravure, after 1885 NPG x7343" attribution="© National Portrait Gallery, London">
 
 Bypassing the novel’s better-known Kentish locations, such as “the good town of Tonbridge” with its Chequers Inn, Hilary has been carried to the northern edge of the Weald. He is on a farm situated “a few miles above Maidstone” and “five miles the other side” of the “pleasant town” of Sevenoaks. “Old Applewood farm contained altogether about six hundred acres, whereof at least two-thirds lay sweetly in the Vale of Medway, and could show root, stem, or bine against any other land in Kent, and, therefore, any in England. Here was no fear of the heat of the sun or the furious winter’s rages…” Nor is there any sense of what E. J. Clery has shown was “the explosive situation current in the years 1811 to 1812.” Eventually this will impinge; but nobody has yet thought to tell the good folk of Applewood farm, which is “a very old-fashioned place” where everything turns away quite leisurely from the disaster.
 
