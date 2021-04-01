@@ -19,7 +19,7 @@ By 1864 it was sometimes informally known as Bleak House, leading many visitors 
 <param ve-image url="images/HassamHIGHRES.jpg" label="Childe Hassam, 'Bleak House, Broadstairs'. 1889." attribution="Collection of the Canton Museum of Art, Purchased by the Canton Museum of Art, 2017.83">
 
 This creative confusion of different novels with the houses associated with Dickens is characteristic of the town’s history. In 1897 a precursor of the Dickens Festival saw Broadstairs transformed into a ‘Dickens Village’, complete with costumed figures and buildings such as Peggotty’s boat (from the Suffolk scenes of _David Copperfield_) and Defarge’s wine shop from _A Tale of Two Cities_ (Again, Paris is chosen over the [Dover Road](dickens/david-copperfield-dover-road) for representation). During the festival visitors were given a chance to make a tour of Bleak House. One journalist noted with amusement that ‘On one side of the panels of the nursery door is daubed a garish sprawling spray of apple-blossom. Above it is inscribed by a sacrilegious pencil, “Fillia de Carolus hoc tecit’(done by the daughter of Charles).[^ref2]
-<param ve-image url="images/broadstairs.jpg" label="Broadsatirs" attribution="Martin Crowther">
+<param ve-image url="images/Bleak House Broadstairs MJC.jpg" label="Broadsatirs" attribution="Martin Crowther">
 
 ### Bibliography
 
