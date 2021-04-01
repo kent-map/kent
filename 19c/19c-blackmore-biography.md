@@ -20,5 +20,4 @@ Hospitality in this world of fresh woods and “pastures of the deepest green”
 <param ve-image url="images/cherries.jpg" label="Kentish cherries" attribution="Michelle Crowther">
 
 The “poetic landscape-painting” of the Applewood sequence, according to _The Saturday Review_ on 15th May 1875, “bespeaks an artist who has thrown himself into his work.” A similarly admiring notice in _The Graphic_ a fortnight later terms it “a graceful and pretty idyll of which we should not care to lose a line.” Having wound the clock back to the pre-Dickensian world of 1811, as if to erase the many marks that the leading novelist of his lifetime had left on the area, Blackmore transforms the Vale of Medway into a land of pastoral Plenty.
-
-**Article written by:** Peter Merchant
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Wrotham_02.jpg" label="Wrotham" attribution="Immanuel Giel, CC BY-SA 4.0, via Wikimedia Commons">
