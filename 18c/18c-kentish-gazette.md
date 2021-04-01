@@ -20,6 +20,7 @@ By the 1830s, Robert Smithson had succeeded Simmons as both printer and publishe
 At about this time, the _Gazette_ can be described as Conservative and anti-Reform. This stance continued into the 1840s and beyond, with the 1846 _Newspaper Press Directory_ stating that the publication ‘[a]dvocates the agricultural interest chiefly. Is attached to the Church of England, and the friend of religious toleration’.  By this time the _Gazette_ was also circulating through Surrey and Sussex. On 1st July 1851, the _Gazette_ came under the proprietorship of Henry Ward, who reiterated the paper’s Conservative allegiance in an address in his inaugural issue. The paper remained in the Ward family for much of the nineteenth century: passed to Henry’s wife Jane Ward upon his death in December 1857, and subsequently to their daughter Mary Ann Ward in 1881.
 
 In 1944, the Luftwaffe bombed Canterbury and destroyed the offices of the _Kentish Gazette_, although publication continued, and the next issue even contained a report on the bombing. In 1980, the _Gazette_ joined the Kent Media Group and still publishes today, winning ‘Newspaper of the Year’ in the 2019 Kent Press and Broadcast Awards.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8d/St_George%27s_Tower_Canterbury_plaque.JPG" label="Commemorative plaque to the Bedeker Raid on Canterbury" attribution="Adam Bishop, CC BY-SA 3.0, via Wikimedia Commons">
 
 **Article written by:** Katie Holdway
 
