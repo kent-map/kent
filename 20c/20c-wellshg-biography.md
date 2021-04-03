@@ -21,7 +21,7 @@ When Wells’ doctor Henry Hick suggested he move to the South-East coast of Eng
 <param ve-image url="images/castlerd MJC.jpg" label="20, Castle Road" attribution="© Martin Crowther."> 
 
 Wells had many connections to authors who spent time in and wrote about Kent. Around 1898 [Joseph Conrad](/19c/19c-conrad-biography) moved near Hythe and the two authors became acquainted. In 1901 [T.S Eliot](/20c/20c-eliot-biography) wrote a review for Wells’ novel _The First Men in the Moon_. Wells also dined, in March 1902, with Winston Churchill. But perhaps his most influential connection was to the illegitimate daughter of the late J.F Nisbet. Wells offered to fund her schooling and during a trip to the family home in Sandgate she became the inspiration behind _The Sea Lady_.    
-<param ve-image url="images/Spade House.jpg" label="Spade House" ttribution="By permission of Alan Taylor, Folkestone Local History Society"> 
+<param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
 
 In 1901 _The Sea Lady_ was published in _Pearson’s Magazine_ and then published as a book in 1902.  The novel tells the story of a mermaid washed ashore in Sandgate who is taken in by a wealthy family. After becoming well known to the town and creating the myth of wanting to integrate into society, her real motives become clear – to seduce Harry Chatteris.
 <param ve-image url="images/Spade House 2.jpg" label="Spade House" ttribution="By permission of Alan Taylor, Folkestone Local History Society"> 
