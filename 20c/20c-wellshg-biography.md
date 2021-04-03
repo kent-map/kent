@@ -11,9 +11,11 @@ banner="/images/banners/20c.jpg">
 **16 December 1775 - 18 July 1817**   
 **Publications of Interest:** _The Sea Lady_ (1902), _Kipps_ (1905) and _The History of Mr. Polly_ (1910)   
 **Places:** Sandgate, Folkestone, Aldington, Ramsgate, Canterbury   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg" label=H.G. Wells" attribution="Library of the London School of Economics and Political Science, No restrictions, via Wikimedia Commons">
 
 “This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” _Kipps_
-<param ve-image url="images/castlerd MJC.jpg" label="Castle Road" attribution="© Martin Crowther."> 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/02/Sandgate%2C_Kent_%28BM_1892%2C0714.10%29.jpg" label="Sandgate, 1892" attribution="British Museum, Public domain, via Wikimedia Commons"> 
+<param ve-image url="images/castlerd MJC.jpg" label="20, Castle Road" attribution="© Martin Crowther."> 
 
 When Wells’ doctor Henry Hick suggested he move to the South-East coast of England a new chapter in his literary life began. Wells and his wife Jane stayed at The Swan in Hythe and The Homestead in Sandgate for a short period before renting Beach Cottage on the coast of Sandgate. In March 1899 Wells and Jane moved to Arnold House (also on the Sandgate coast), whilst their new home was being built. Both Beach Cottage (now known as Granville Cottage) and Arnold House (now known as 20 Castle Road) have plaques to commemorate Wells. Wells and Jane moved into the completed Spade House (now Wells House Nursing Home) in December 1900. 
 <param ve-image url="images/castlerd MJC.jpg" label="20, Castle Road" attribution="© Martin Crowther."> 
@@ -22,10 +24,10 @@ Wells had many connections to authors who spent time in and wrote about Kent. Ar
 <param ve-image url="images/Spade House.jpg" label="Spade House" ttribution="By permission of Alan Taylor, Folkestone Local History Society"> 
 
 In 1901 _The Sea Lady_ was published in _Pearson’s Magazine_ and then published as a book in 1902.  The novel tells the story of a mermaid washed ashore in Sandgate who is taken in by a wealthy family. After becoming well known to the town and creating the myth of wanting to integrate into society, her real motives become clear – to seduce Harry Chatteris.
-<param ve-image url="images/tourtelcantmus.jpg" label="©Canterbury Museums and Galleries. Mary Tourtel at her home in Palace Street, Canterbury. Circa 1895."> 
+<param ve-image url="images/Spade House 2.jpg" label="Spade House" ttribution="By permission of Alan Taylor, Folkestone Local History Society"> 
 
 During 1901 Wells embarked on a cycling tour of Kent, visiting Hill farm in Aldington to focus on his writing and then on to Ramsgate.  A few years later in 1904 Wells completed his novel _Kipps_ which was published in 1905. _Kipps_ , based mainly in Folkestone, is the rags-to-riches story of Kipps, a draper’s assistant (the inspiration arguably from Wells’ own experience as an apprentice at the family drapery ), who received a large, surprise inheritance. With his new-found wealth he is accepted into the higher classes of Folkestone but finds himself struggling to integrate. One scene shows Kipps desperately trying to educate himself in the [local library](/19c/19c-folkestone-free-library). This comic novel’s critics have claimed it has autobiographical moments and a sense of Wells’ own life.  
-<param ve-image url="images/Spade House 2 .jpg" label="Spade House." attribution="by permission of Alan Taylor, Folkestone Local History Society"> 
+<param ve-image url="images/Kipps MJC.jpg" label="Kipps Alehouse, Folkestone, 2021" attribution="© Michelle Crowther"> 
 
 In 1907, Wells’ became a Justice of the Peace for Folkestone,   received a visit from the author [Elizabeth von Armin](/20c/20c-vonarnim-biography) and a few years later, in 1910, published his novel _The History of Mr. Polly_. _The History of Mr. Polly_ is the story of Alfred Polly, a shop keeper in the fictional town of Fishbourne in Kent, based on Sandgate.  It retells Mr. Polly’s history and, similar to Kipps, he begins as a draper’s assistant, hanging around with the Three Ps until he eventually receives an inheritance from his late father. After this he travels to Canterbury, has a short love affair which ends in heartbreak and settles on marrying Miriam (his first cousin) bringing the novel back into the present, revealing the reality of shop-owning life. Similar to _Kipps_  the novel feels somewhat autobiographical, a theme throughout Wells’ writing. Each of the novels Wells wrote while living in Sandgate gives its reader a small glimpse into the history of H.G Wells. 
 <param ve-image url="images/Spade MJC.jpg" label="Spade House, 2021" attribution="© Martin Crowther"> 
@@ -34,4 +36,6 @@ In 1907, Wells’ became a Justice of the Peace for Folkestone,   received a vis
 
 Roberts, Adam. _H.G Wells: A literary Life_. Palgrave Macmillan, 2019. [Springer E-books](https://link.springer.com/book/10.1007%2F978-3-030-26421-5#about). Accessed 22/06/2020.   
 Scott, Bonnie Kime. “Tracing Garden Networks: Katherine Mansfield and Elizabeth Von Arnim.” _Kipps_ Katherine Mansfield and Elizabeth Von Arnim_Kipps_, Edinburgh University Press, 2019. [JSTOR](www.jstor.org/stable/10.3366/j.ctvrs90wt.8 ), Accessed 22/06/2020    
-Sherborne, Michael. _H.G. Wells: Another Kind of Life_, Peter Owen Publishers, 2013. _ProQuest Ebook Central_, Accessed 22/06/2020   
+Sherborne, Michael. _H.G. Wells: Another Kind of Life_, Peter Owen Publishers, 2013. _ProQuest Ebook Central_, Accessed 22/06/2020  
+<param ve-image url="images/Spade MJC.jpg" label="Spade House, 2021" attribution="© Martin Crowther"> 
+
