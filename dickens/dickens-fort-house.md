@@ -7,7 +7,7 @@ banner="/images/banners/19c.jpg">
 **Fort Road, Broadstairs**   
 **Event with dates** Holidays in 1837, 1840-43, 1845, 1847, 1849-51; parts of _David Copperfield_ written here.   
 **Publications of local interest** _David Copperfield_ (1848-50), 'Our Watering Place' (1851).   
-<param ve-image url="images/copperfield.jpg" label="Mr Peggoty's delightful house" attribution="Illustration by J. Barnard">
+<param ve-image url="images/broadstairsCO.JPG" label="Broadstairs">
 
 We have a pier – a queer old wooden pier, fortunately without the slightest pretensions to architecture, and very picturesque in consequence. Boats are hauled up upon it, ropes are coiled all over it; lobster-pots, nets, masts, oars, spars, sails, ballast, and rickety capstans, make a perfect labyrinth of it. For ever hovering about this pier, with their hands in their pockets, or leaning over the rough bulwark it opposes to the sea, gazing through telescopes which they carry about in the same profound receptacles, are the Boatmen of our watering-place. … These are among the bravest and most skilful mariners that exist. Let a gale arise and swell into a storm, let a sea run that might appal the stoutest heart that ever beat, let the Light-boat on these dangerous sands throw up a rocket in the night, or let them hear through the angry roar the signal-guns of a ship in distress, and these men spring up into activity so dauntless, so valiant, and heroic, that the world cannot surpass it.
 ‘Our Watering Place’. _Household Words_ 1851.
