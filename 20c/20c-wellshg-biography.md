@@ -13,10 +13,10 @@ banner="/images/banners/20c.jpg">
 **Places:** Sandgate, Folkestone, Aldington, Ramsgate, Canterbury   
 
 “This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” _Kipps_
-<param ve-image url="images/tourtelcantmus.jpg" label="©Canterbury Museums and Galleries. Mary Tourtel at her home in Palace Street, Canterbury. Circa 1895."> 
+<param ve-image url="images/castlerd MJC.jpg" label="Castle Road" attribution="© Martin Crowther."> 
 
 When Wells’ doctor Henry Hick suggested he move to the South-East coast of England a new chapter in his literary life began. Wells and his wife Jane stayed at The Swan in Hythe and The Homestead in Sandgate for a short period before renting Beach Cottage on the coast of Sandgate. In March 1899 Wells and Jane moved to Arnold House (also on the Sandgate coast), whilst their new home was being built. Both Beach Cottage (now known as Granville Cottage) and Arnold House (now known as 20 Castle Road) have plaques to commemorate Wells. Wells and Jane moved into the completed Spade House (now Wells House Nursing Home) in December 1900. 
-<param ve-image url="images/Spade House.jpg" label="Spade House" ttribution="By permission of Alan Taylor, Folkestone Local History Society"> 
+<param ve-image url="images/castlerd MJC.jpg" label="20, Castle Road" attribution="© Martin Crowther."> 
 
 Wells had many connections to authors who spent time in and wrote about Kent. Around 1898 [Joseph Conrad](/19c/19c-conrad-biography) moved near Hythe and the two authors became acquainted. In 1901 [T.S Eliot](/20c/20c-eliot-biography) wrote a review for Wells’ novel _The First Men in the Moon_. Wells also dined, in March 1902, with Winston Churchill. But perhaps his most influential connection was to the illegitimate daughter of the late J.F Nisbet. Wells offered to fund her schooling and during a trip to the family home in Sandgate she became the inspiration behind _The Sea Lady_.    
 <param ve-image url="images/Spade House.jpg" label="Spade House" ttribution="By permission of Alan Taylor, Folkestone Local History Society"> 
@@ -28,7 +28,7 @@ During 1901 Wells embarked on a cycling tour of Kent, visiting Hill farm in Aldi
 <param ve-image url="images/Spade House 2 .jpg" label="Spade House." attribution="by permission of Alan Taylor, Folkestone Local History Society"> 
 
 In 1907, Wells’ became a Justice of the Peace for Folkestone,   received a visit from the author [Elizabeth von Armin](/20c/20c-vonarnim-biography) and a few years later, in 1910, published his novel _The History of Mr. Polly_. _The History of Mr. Polly_ is the story of Alfred Polly, a shop keeper in the fictional town of Fishbourne in Kent, based on Sandgate.  It retells Mr. Polly’s history and, similar to Kipps, he begins as a draper’s assistant, hanging around with the Three Ps until he eventually receives an inheritance from his late father. After this he travels to Canterbury, has a short love affair which ends in heartbreak and settles on marrying Miriam (his first cousin) bringing the novel back into the present, revealing the reality of shop-owning life. Similar to _Kipps_  the novel feels somewhat autobiographical, a theme throughout Wells’ writing. Each of the novels Wells wrote while living in Sandgate gives its reader a small glimpse into the history of H.G Wells. 
-<param ve-image url="images/tourtelcantmus.jpg" label="©Canterbury Museums and Galleries. Mary Tourtel at her home in Palace Street, Canterbury. Circa 1895."> 
+<param ve-image url="images/Spade MJC.jpg" label="Spade House, 2021" attribution="© Martin Crowther"> 
 
 ### Bibliography 
 
