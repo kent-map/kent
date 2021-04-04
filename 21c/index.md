@@ -39,8 +39,7 @@ Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Waterstones rocking horses.jpg)
 
-
-
+In summer, I ate ice cream on the roof. It was a shop of dreams, I can still smell the combination of books and wood, and I dreamed vividly there when I afternoon-napped in my hammock in a basement cupboard.
 
 ##
 **[In Margate by Lunchtime](21c-margate-lunchtime)**
