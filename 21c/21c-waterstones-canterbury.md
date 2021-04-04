@@ -8,7 +8,7 @@ Somewhere in the TV archives is a 1991 film of Julian Barnes walking around [Can
 <param ve-image url="images/Waterstones March 2021 MJC.jpg" label="Waterstones, Rose Lane, Canterbury" attribution="Photogaphed by Martin Crowther, March 2021"> 
 
 [Canterbury](/20c/20c-Canterbury) did not disappoint. Unlike many ‘pretty’ UK cities it gets lots of worldwide visitors. The locals even moan about them, and they did that anciently too. Like or not, Canterbury belongs to the world, as much as Venice and Compostela. Poised between London and Paris, Roman and Christian, Catholic and Protestant,  it has a Triestian liminality which may not be apparent from its chain store facades.
-<param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/71/Canterbury%2C_High_Street_02.jpg" label="Canterbury High Street" attribution="Palickap, CC BY-SA 3.0 via Wikimedia Commons"> 
 
 A Japanese lady wrote from home for the scone recipe we used in our bookshop café. Gravitas-exuding courtly-mannered Germans in loden coats shopped regularly for piles of Art books and fiction. The Dutch humbled us with their courtesy, perfect English and knowledge of our literature. I discussed our lesser paper quality with Italian book-lovers, and loved the French, a lot. I learned that Romanians were particularly book-loving and charismatic. Russians were moved and astonished by the profusion of uncensored literature spread over three floors.
 <param ve-image url="images/Book display March 2021.jpg" label="Book Display, March 2021" attribution="Photograph by Martin Crowther"> 
@@ -23,7 +23,7 @@ Thousands of writers gave talks in Waterstones [Canterbury’s](/20c/20c-Canterb
 <param ve-image url="images/Waterstones Colin Dexter.jpg" label="Colin Dexter" attribution="Photograph by Matt McArdle"> 
 
 Three poets Laureate came and Ted Hughes told me one drunken evening he was going to – at least I have his signed book. Titans of mind-body connection spoke too: Deepak Chopra, John E Mack, Paulo Coelho and five separate Tibetan lamas, one of whom buried sacred ash with me in St Martin’s Churchyard, which he had identified as a global chakra-point. In that bookshop café authors also took audiences of 100+ into past-life regression, remote viewing, and Wiccan shape-shifting. Tears were shed, spines tingled, and one customer told me my shop must be a stargate. 
-<param ve-image url="images/Waterstones .jpg" label="Waterstones rocking horses"> 
+<param ve-image url="images/Waterstones Terence Stamp.jpg" label="Terence Stamp"> 
 
 After these outre gatherings I would often interview, say, Margaret Drabble the next night about her oeuvre to a completely different, staid-looking audience. There was little crossover, but I saw the wide spectrum of [Canterbury](/20c/20c-Canterbury) consciousness, especially when I include the talks by JK Rowling, Pullman, and Jacqueline Wilson, oh, and all the sci-fi/fantasy, then ignored culturally: Pratchett and Gaiman, Terry Brooks and Raymond Feist, who assured us his less famed mate ‘George’ would make it one day. He meant George RR Martin.
 <param ve-image url="images/Waterstones JK Rowling.jpg" label="JK Rowling" attribution="Photograph by Matt McArdle"> 
