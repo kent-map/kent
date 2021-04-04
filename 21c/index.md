@@ -33,6 +33,16 @@ When walking around the city of Canterbury, one quickly notices the amount of re
 Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
 ##
+**[Waterstones, Canterbury](21-waterstones)**
+
+- author: Dr Martin Latham
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Waterstones.jpg)
+
+
+
+
+##
 **[In Margate by Lunchtime](21c-margate-lunchtime)**
 
 - author: Maggie Harris
