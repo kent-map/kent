@@ -17,7 +17,7 @@ I chose the initial stock myself and then each bookseller ran a section under my
 <param ve-image url="images/Waterstones A. S. Byatt.JPG" label="A.S.Byatt" attribution="Photographed by Matt McArdle"> 
 
 Thousands of writers gave talks in Waterstones [Canterbury’s](/20c/20c-Canterbury)  café on both sites, to audiences totalling, in all, over 80,000 people. I know from feedback that people’s lives were changed. As well as the usual literati- Bradbury, Ishiguro, Lodge, Byatt, Cornwell, Chevalier, John Mortimer, Scarlett Thomas, Rendell, PD James, Hilary Mantel, and anyone else you have heard of – I welcomed politicians like John Major and Edward Heath, Roy Jenkins and Mandela’s old colleague Ronnie Kasrils. This last author got me a wave of hate mail, for Kasrils had engaged in armed resistance in his youth. 
-<param ve-image url="images/Waterstones Roy Jenkins.jpg" label="Roy Jenkins" attribution="Photographed by Matt McArdle"> 
+<param ve-image url="images/Waterstones Roy Jenkins.jpg" label="Roy Jenkins" attribution="Photograph by Matt McArdle"> 
 
 Three poets Laureate came and Ted Hughes told me one drunken evening he was going to – at least I have his signed book. Titans of mind-body connection spoke too: Deepak Chopra, John E Mack, Paulo Coelho and five separate Tibetan lamas, one of whom buried sacred ash with me in St Martin’s Churchyard, which he had identified as a global chakra-point. In that bookshop café authors also took audiences of 100+ into past-life regression, remote viewing, and Wiccan shape-shifting. Tears were shed, spines tingled, and one customer told me my shop must be a stargate. 
 <param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
@@ -26,7 +26,7 @@ After these outre gatherings I would often interview, say, Margaret Drabble the 
 <param ve-image url="images/Waterstones JK Rowling.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
 
 Many writers interacted with the shop. Spike Milligan answered the phone, to customers’ puzzlement, Ray Davies of The Kinks brought his guitar, Peter Ackroyd decided to make his talk an in-conversation with Jenny Uglow from the audience – I wish I’d taped that one - Humphrey Carpenter worked on his Britten biography for days in our café, Umberto Eco wanted to man the till for a day anonymously. I let him. His UK publisher had told me he would never come. I phoned his Italian one.
-<param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
+<param ve-image url="images/Waterstones ECO.jpg" label="Umberto Eco" attribution="Photograph by Matt McArdle"> 
 
 [David Seabrook](/21c/21c-seabrook-biography) just mooched about in the shop in his haunted way year after year, one of my private-mannered regulars. My process-minded Assistant Manager wanted to collar him as a shoplifter, on the basis of his general shiftiness. Silly. With great joy I hosted the launch of Seabrook’s now cult hymn to Kent, [_All the Devils are Here_](/21c/21c-seabrook-biography). Seabrook was predictably self-effacing at the event, but I much prefer that to the ego authors such as the American who asked me to check his teeth, or Julian Cope , who asked me to wear his drugs in case of a bust.
 <param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
