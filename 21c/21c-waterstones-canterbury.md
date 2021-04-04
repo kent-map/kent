@@ -11,7 +11,7 @@ Somewhere in the TV archives is a 1991 film of Julian Barnes walking around [Can
 <param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
 
 A Japanese lady wrote from home for the scone recipe we used in our bookshop café. Gravitas-exuding courtly-mannered Germans in loden coats shopped regularly for piles of Art books and fiction. The Dutch humbled us with their courtesy, perfect English and knowledge of our literature. I discussed our lesser paper quality with Italian book-lovers, and loved the French, a lot. I learned that Romanians were particularly book-loving and charismatic. Russians were moved and astonished by the profusion of uncensored literature spread over three floors.
-<param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
+<param ve-image url="images/Book display March 2021.jpg" label="Book Display, March 2021" attribution="Photograph by Martin Crowther"> 
 
 I chose the initial stock myself and then each bookseller ran a section under my tutelage; David Mitchell, future novelist, curated Fiction and had long and queue-holding-up conversations with customers. Since the shop opened, I have sold over £50 million of books. We sold nearly 200 copies of a £130 book on the Art of Florence. Publisher John Murray himself told me that was miles more than any shop anywhere. By luck and happenstance and with thanks to Tim Waterstone who hired me, I had created a shrine to books with a loyal worldwide following, which included authors. 
 <param ve-image url="images/Waterstones A. S. Byatt.JPG" label="A.S.Byatt" attribution="Photographed by Matt McArdle"> 
