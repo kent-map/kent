@@ -20,10 +20,10 @@ Thousands of writers gave talks in Waterstones [Canterbury’s](/20c/20c-Canterb
 <param ve-image url="images/Waterstones Roy Jenkins.jpg" label="Roy Jenkins" attribution="Photograph by Matt McArdle"> 
 
 Three poets Laureate came and Ted Hughes told me one drunken evening he was going to – at least I have his signed book. Titans of mind-body connection spoke too: Deepak Chopra, John E Mack, Paulo Coelho and five separate Tibetan lamas, one of whom buried sacred ash with me in St Martin’s Churchyard, which he had identified as a global chakra-point. In that bookshop café authors also took audiences of 100+ into past-life regression, remote viewing, and Wiccan shape-shifting. Tears were shed, spines tingled, and one customer told me my shop must be a stargate. 
-<param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
+<param ve-image url="images/Waterstones rocking horses.jpg" label="Waterstones rocking horses"> 
 
 After these outre gatherings I would often interview, say, Margaret Drabble the next night about her oeuvre to a completely different, staid-looking audience. There was little crossover, but I saw the wide spectrum of [Canterbury](/20c/20c-Canterbury) consciousness, especially when I include the talks by JK Rowling, Pullman, and Jacqueline Wilson, oh, and all the sci-fi/fantasy, then ignored culturally: Pratchett and Gaiman, Terry Brooks and Raymond Feist, who assured us his less famed mate ‘George’ would make it one day. He meant George RR Martin.
-<param ve-image url="images/Waterstones JK Rowling.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
+<param ve-image url="images/Waterstones JK Rowling.jpg" label="JK Rowling" attribution="Photograph by Matt McArdle"> 
 
 Many writers interacted with the shop. Spike Milligan answered the phone, to customers’ puzzlement, Ray Davies of The Kinks brought his guitar, Peter Ackroyd decided to make his talk an in-conversation with Jenny Uglow from the audience – I wish I’d taped that one - Humphrey Carpenter worked on his Britten biography for days in our café, Umberto Eco wanted to man the till for a day anonymously. I let him. His UK publisher had told me he would never come. I phoned his Italian one.
 <param ve-image url="images/Waterstones ECO.jpg" label="Umberto Eco" attribution="Photograph by Matt McArdle"> 
