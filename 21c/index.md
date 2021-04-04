@@ -33,7 +33,7 @@ When walking around the city of Canterbury, one quickly notices the amount of re
 Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
 ##
-**[Waterstones, Canterbury](21-waterstones-canterbury)**
+**[Waterstones, Canterbury](21c-waterstones-canterbury)**
 
 - author: Dr Martin Latham
 
