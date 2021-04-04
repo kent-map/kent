@@ -37,7 +37,7 @@ Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
 - author: Dr Martin Latham
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Waterstones.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Waterstones rocking horses.jpg)
 
 
 
