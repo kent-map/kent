@@ -7,7 +7,6 @@ banner="/images/banners/21c.jpg">
 Somewhere in the TV archives is a 1991 film of Julian Barnes walking around [Canterbury](/20c/20c-Canterbury) and talking in Waterstones. It’s one of many moments from the bookshop I have run in the city for 30 years, at 20-21 St Margaret’s Street, and since 2019 at 7-8 Rose Lane. I came here to open the shop because of the resonance ‘Canterbury’ has: of words, of pilgrimage, of longing and of some pan-European Boccaccian earthiness, a visionary mist my city of London had only in certain parts, on certain days.
 <param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
 
-
 [Canterbury](/20c/20c-Canterbury) did not disappoint. Unlike many ‘pretty’ UK cities it gets lots of worldwide visitors. The locals even moan about them, and they did that anciently too. Like or not, Canterbury belongs to the world, as much as Venice and Compostela. Poised between London and Paris, Roman and Christian, Catholic and Protestant,  it has a Triestian liminality which may not be apparent from its chain store facades.
 <param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
 
@@ -24,7 +23,7 @@ Three poets Laureate came and Ted Hughes told me one drunken evening he was goin
 <param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
 
 After these outre gatherings I would often interview, say, Margaret Drabble the next night about her oeuvre to a completely different, staid-looking audience. There was little crossover, but I saw the wide spectrum of [Canterbury](/20c/20c-Canterbury) consciousness, especially when I include the talks by JK Rowling, Pullman, and Jacqueline Wilson, oh, and all the sci-fi/fantasy, then ignored culturally: Pratchett and Gaiman, Terry Brooks and Raymond Feist, who assured us his less famed mate ‘George’ would make it one day. He meant George RR Martin.
-<param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
+<param ve-image url="images/Waterstones J K Rowling.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
 
 Many writers interacted with the shop. Spike Milligan answered the phone, to customers’ puzzlement, Ray Davies of The Kinks brought his guitar, Peter Ackroyd decided to make his talk an in-conversation with Jenny Uglow from the audience – I wish I’d taped that one - Humphrey Carpenter worked on his Britten biography for days in our café, Umberto Eco wanted to man the till for a day anonymously. I let him. His UK publisher had told me he would never come. I phoned his Italian one.
 <param ve-image url="images/Spade House.jpg" label="Spade House" attribution="By permission of Alan Taylor, Folkestone Local History Society"> 
