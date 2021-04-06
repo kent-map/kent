@@ -16,7 +16,7 @@ A number of his subsequent novels and stories, from the 1913 _The Unwilling Adve
 
 In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he was discharged in 1919. By 1921 the family was living in Darnley Road, Gravesend. It was here that Freeman wrote his story of a woman who disappears in Rochester, the suspiciously named _Mystery of Angelina Frood_(1924). He later admitted that ‘This book was written as a playful commentary on Dickens’s great story, [_The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk); but, as few people are now familiar with Goldsmith’s _Edwin and Angelina_, the mild joke fell flat.’[^ref2] 
 
-Freeman’s last two addresses were both in Gravesend, at 1 Portland Villas, West Hill (from 1926 to 1930) and at Rosemount, 94 Windmill St, where he lived until his death in 1943.
+Freeman’s last two addresses were both in Gravesend, at 1 Portland Villas, West Hill (from 1926 to 1930) and at Rosemount, 94 Windmill St, where he lived until his death in 1943. He was buried in Gravesend Cemetery, where a stone was erected by 'The friends of "Dr Thorndyke"' im 1979.
 
 Not being a resident himself, Freeman is surely allowed to place a boatman in 3 St Michael’s Lane (rather than Street), Folkestone in _The Mystery in the Channel_ in 1931, in which case the [Harbour Inn](http://www.dover-kent.com/Harbour-Inn-Folkestone.html) has a reasonable claim to being ‘the Angel tavern in Folkestone harbour’.[^ref3]  Enthusiasts who want to cover all bases may also want to stop off at [The Mariner]( http://www.dover-kent.com/Mariner-Folkestone.html) and [The Ship]( http://www.dover-kent.com/Ship-Inn-Folkestone.html)
 
