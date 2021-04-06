@@ -17,14 +17,18 @@ demanding husband, himself a war invalid. Her perspective as a resident and marr
 markedly different from the detached attitude of the London detective offered by crime 
 authors such as Milward Kennedy at the same period. 
 
-Pamela Wynne died at her son’s house in Sissinghurst, on the other side of the county, in 1959.
+Pamela Wynne died on the other side of the county at her son’s house, Mill Cottage in Sissinghurst, in 1959. Her estate amounted to just over £33,625, suggesting that her writing was still attracting a significant audience.
 
 **Article written by:** Carolyn Oulton
 
 ### Bibliography 
 '’Deaths'’. 18 March 1959. _The Times_. GALE|CS202726514.   
 [Pamela Wynne, 20th Century Novelist](https://pamela-wynne.webs.com/biography.htm)   
-Wynne, Pamela. _Love in a Mist_. London: Philip Allen & Co., 1932
+
+Principal Probate Registry. Calendar of the Grants of Probate and Letters of Administration made in the Probate Registries of the High Court of Justice in England. London, England © Crown copyright.
+Ancestry.com. England & Wales, National Probate Calendar (Index of Wills and Administrations), 1858-1995.
+
+Wynne, Pamela. _Love in a Mist_. London: Philip Allen & Co., 1932.
 
 
 <!--stackedit_data:
