@@ -10,7 +10,7 @@ _It gives us great pleasure to know that the Chilham ball was so agreeable, and 
 <param ve-image url="images/chilhamcastle.jpg" label="Chilham Castle" attribution="© Martin Crowther"> 
 
 On another occasion, Jane went to Chilham without Cassandra, and accordingly filled her in on the evening:  
-_We met only the Bretons at Chilham Castle, besides a Mr. and Mrs. Osborne and a Miss Lee staying in the house, and were only fourteen altogether.  My brother and Fanny thought it the pleasantest party that had ever known there, and I was very well entertained […] By-the-bye, as I must leave off being young, I find many _douceurs_ in being a sort of _chaperon_, for I am put on the sofa near the fire, and can drink as much wine as I like._[^ref2]    
+_We met only the Bretons at Chilham Castle, besides a Mr. and Mrs. Osborne and a Miss Lee staying in the house, and were only fourteen altogether.  My brother and Fanny thought it the pleasantest party that had ever known there, and I was very well entertained […] By-the-bye, as I must leave off being young, I find many douceurs in being a sort of chaperon, for I am put on the sofa near the fire, and can drink as much wine as I like._[^ref2]    
 The parties at Chilham tended to be large and lively, and the Austens write of them fondly.
 <param ve-image url="images/Chilham Castle MJC.jpg" label="Chilham Castle" attribution="© Martin Crowther"> 
 
