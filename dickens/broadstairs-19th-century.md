@@ -20,19 +20,15 @@ The Assembly Rooms were still providing accessible entertainment such as conjuri
 But overall the image of the town remained decorous even in the tempestuous 1890s. Israel Zangwill captured the mood perfectly in a comic account of:
 _a jolly old waterman, who paddles about apparently to pick up exhausted bathers. One morning as I was swimming past his boat he warned me back. “Any danger?” I asked. “Ladies,” he replied, ambiguously enough. It thus transpired that his function is to preserve a scientific frontier between the sexes.’_  
 
-The next year in 1897 the Broadstairs Pier and Harbour Commissioners complained that bye laws were being flagrantly disregarded and that one man bathing  only in a ‘clout’ (a loosely tied piece of cloth) had been approached by an official, ‘whereupon the gentleman’s wife told her husband to knock him down for meddling’. The meeting noted that ‘while mixed bathing might be favoured at a place like Margate’ (which it was not, incidentally)  ’they wanted to keep Broadstairs select’.
+The next year in 1897 the Broadstairs Pier and Harbour Commissioners complained that bye laws were being flagrantly disregarded and that one man bathing only in a ‘clout’ (a loosely tied piece of cloth) had been approached by an official, ‘whereupon the gentleman’s wife told her husband to knock him down for meddling’. The meeting noted that ‘while mixed bathing might be favoured at a place like Margate’ (which it was not, incidentally)  ’they wanted to keep Broadstairs select’.
 
 Feeling active? You may want to try this [Turner and Dickens walk]( https://explorekent.org/activities/turner-dickens-walk/)
 
 ### Bibliography
 
 Dicks, John. The Beauty of Broadstairs. Bow Bells Novelettes. _Seaside number_ (82). Vol iv.  August 1880. 113-28.   
-
-Grandfield, Yvette F. ‘The development of the seaside resort and the striving for 'social tone', 1850-1899, with a particular examination of Margate and Folkestone : dissertation submitted in part fulfilment of the requirements for the degree of Master of Arts of the University of Kent at Canterbury’. (1994).
-
-Grossmith, George and Weedon. _The Diary of a Nobody_. First published 1892.
-
+Grandfield, Yvette F. ‘The development of the seaside resort and the striving for 'social tone', 1850-1899, with a particular examination of Margate and Folkestone : dissertation submitted in part fulfilment of the requirements for the degree of Master of Arts of the University of Kent at Canterbury’. (1994).   
+Grossmith, George and Weedon. _The Diary of a Nobody_. First published 1892.   
 Unattributed. 'How We Did Without Lodgings at the Seaside, Saved Our Money and Doubled Our Pleasure'. By the author of How We Managed Without Servants. [Reprint] London: 
-Griffith, Farran, Okeden & Welsh, 1885.
-
-Unattributed. ‘Shrove Tuesday at Broadstairs’. _Penny Illustrated Weekly News_.  February 1864. 566. British Newspaper Archive.
+Griffith, Farran, Okeden & Welsh, 1885.   
+Unattributed. ‘Shrove Tuesday at Broadstairs’. _Penny Illustrated Weekly News_.  February 1864. 566. British Newspaper Archive.   
