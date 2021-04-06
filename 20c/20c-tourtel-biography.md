@@ -33,7 +33,7 @@ Tourtel, Mary (1901) _A Horse Book._ London: Grant Richards.
 Tourtel, Mary (1903) _The Three Little Foxes_. London: Grant Richards.   
 Tourtel, Mary (1904) _The Rabbit Book_. London: Anthony Treherne & Co. Ltd.   
 Tourtel, Mary (1919) _When Animals Work_. London: Sefton Fabrics.    
-
-With thanks to Canterbury Museums and Galleries for use of their collections and images. 
+With thanks to Canterbury Museums and Galleries for use of their collections and images.   
+<param ve-image url="images/tourtelgrave.jpg" label="© Martin Crowther"> 
 
 
