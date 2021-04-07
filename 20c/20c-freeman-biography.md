@@ -14,7 +14,7 @@ Freeman is rightly noted for his forensic attention to detail, but he occasional
 
 A number of his subsequent novels and stories, from the 1913 _The Unwilling Adventurer_, set in 18th century Gravesend, to the later Thorndyke stories, are set in carefully detailed locations. 
 
-In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he was discharged in 1919. By 1921 the family was living in Darnley Road, Gravesend. It was here that Freeman wrote his story of a woman who disappears in Rochester, the suspiciously named _Mystery of Angelina Frood_(1924). He later admitted that ‘This book was written as a playful commentary on Dickens’s great story, [_The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk); but, as few people are now familiar with Goldsmith’s _Edwin and Angelina_, the mild joke fell flat.’[^ref2] 
+In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he was discharged in 1919. By 1921 the family was living in Darnley Road, Gravesend. It was here that Freeman wrote his story of a woman who disappears in Rochester, the suspiciously named _Mystery of Angelina Frood_ (1924). He later admitted that ‘This book was written as a playful commentary on Dickens’s great story, [_The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk); but, as few people are now familiar with Goldsmith’s _Edwin and Angelina_, the mild joke fell flat.’[^ref2] 
 
 Freeman’s last two addresses were both in Gravesend, at 1 Portland Villas, West Hill (from 1926 to 1930) and at Rosemount, 94 Windmill St, where he lived until his death in 1943. He was buried in Gravesend Cemetery, where a stone was erected by 'The friends of "Dr Thorndyke"' in 1979.
 
