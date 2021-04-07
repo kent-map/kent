@@ -20,7 +20,7 @@ Edy created a shrine to her mother at Smallhythe Place, turning the home [Ellen 
 
 >‘...it was imagined that the legend of [Ellen Terry](/20c/20c-terry-biography)’s greatness in the English theatre...would suffice to inspire the English people to do their duty by her after her death. …The Memorial as it exists today is still more or less a makeshift for that national memorial we had such high hopes in 1928 of erecting on a firm and permanent basis. We are still honouring Ellen Terry on the cheap.’ 
 
-In 1929 Edy turned the 17th century thatched barn on the property into a theatre, as a way to keep her mother’s legacy alive. From its inception the Barn Theatre hosted theatrical, artistic and literary luminaries such as John Gielgud, Sybil Thorndike, Lewis Casson, Edith Evans, Clemence Dane, Lawrence Alma Tadema, Sir William Rothenstein, Lady Maud Warrender, Lena Ashwell, Vita Sackville-West and Harold Nicolson, and Harcourt Williams. The Barn Theatre continues to host performances during the summer of each year. 
+In 1929 Edy turned the 17th century thatched barn on the property into a theatre, as a way to keep her mother’s legacy alive. From its inception the Barn Theatre hosted theatrical, artistic and literary luminaries such as John Gielgud, Sybil Thorndike, Lewis Casson, Edith Evans, Clemence Dane, Lawrence Alma Tadema, Sir William Rothenstein, Lady Maud Warrender, Lena Ashwell, [Vita Sackville-West](/20c/20c-sackville-west-biography) and Harold Nicolson, and Harcourt Williams. The Barn Theatre continues to host performances during the summer of each year. 
 
  [Smallhythe Suffragettes](https://vimeo.com/393665654): video created by Carla Danella for the National Trust at Smallhythe.
 
