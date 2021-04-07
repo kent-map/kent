@@ -8,7 +8,7 @@
 
 ![Christopher St John - image taken from the print version of her play The Coronation published in 1912 -Photographed by Marie Leon](images/christopherstjohn.jpg){: .right .dropshadow}
 
-Although St John is today best known either as the one-time lover of author and gardener, [Vita Sackville-West](/20c/20c-sackville-west.md), or as a member of the “Smallhythe Trio” – her ménage à trois with the theatre director [Edith “Edy” Craig](/20c/20c-craig-biography) and artist Claire “Tony” Atwood – she was a prolific writer whose work covered biography, suffrage and avant garde plays, experiments in life writing, and over thirty years of journalism for British newspapers and magazines, including The Lady and Time and Tide (then known as the “Sapphic Graphic”). Her writing spanned the late Victorian period through to the late 1950s and fits into the intersection of Victorian urban gothic fiction (with a particular focus on Oscar Wilde) and the introspection of modernist writers, such as Virginia Woolf.
+Although St John is today best known either as the one-time lover of author and gardener, [Vita Sackville-West](/20c/20c-sackville-west.md), or as a member of the “Smallhythe Trio” – her ménage à trois with the theatre director [Edith “Edy” Craig](/20c/20c-craig-biography) and artist Claire “Tony” Atwood – she was a prolific writer whose work covered biography, suffrage and avant garde plays, experiments in life writing, and over thirty years of journalism for British newspapers and magazines, including _The Lady_ and _Time and Tide_ (then known as the “Sapphic Graphic”). Her writing spanned the late Victorian period through to the late 1950s and fits into the intersection of Victorian urban gothic fiction (with a particular focus on Oscar Wilde) and the introspection of modernist writers, such as Virginia Woolf.
 
 St John maintained a flat with [Edy Craig](/20c/20c-craig-biography) in London’s Covent Garden, from 1900, but she lived part of the year with Edy in the Priest’s House adjacent to Smallhythe Place, both of which had been purchased by Edy’s mother [Ellen Terry](20c/20c-terry-biography), the noted English Victorian actress. 
 
@@ -18,7 +18,7 @@ On Chris and Edy’s first visit to Smallhythe, sent to view the property by [El
 
 Smallhythe Place had a convivial atmosphere, and many literary, theatrical and artistic friends frequently visited, including the suffragettes Vera “Jacko” Holme and Sime Seruya, illustrator of the Rider Waite Tarot deck Pamela Colman Smith, playwright Cicely Hamilton, and the author, Radclyffe Hall and her life partner Una Troubridge.
 
-Hall and Troubridge once considered building a home for themselves on land adjacent to Smallhythe Place, to be closer to their friends, but reconsidered because the fallout from Christopher’s brief, disastrous affair with Vita Sackville-West had destabilised the Trio to such an extent that even the usually unflappable Tony firmly reject the idea with, “We can’t possibly have a house out here!”
+Hall and Troubridge once considered building a home for themselves on land adjacent to Smallhythe Place, to be closer to their friends, but reconsidered because the fallout from Christopher’s brief, disastrous affair with [Vita Sackville-West](/20c/20c-sackville-west-biography) had destabilised the Trio to such an extent that even the usually unflappable Tony firmly reject the idea with, “We can’t possibly have a house out here!”
 
 Chris made her home at Smallhythe Place until her death in 1960. 
 

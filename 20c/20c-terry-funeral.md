@@ -4,7 +4,7 @@
 
 **Places:** Smallhythe and Tenterden
 
-In the days before the great Victorian actress Ellen Terry died on 21 July 1928, the nation had been on tenterhooks for news of her health. An efficient ‘news bureau’, staffed with her daughter Edy Craig’s friends, had been set up in her house at Smallhythe Place to field press inquiries, but reporters descended nonetheless. 
+In the days before the great Victorian actress Ellen Terry died on 21 July 1928, the nation had been on tenterhooks for news of her health. An efficient ‘news bureau’, staffed with her daughter [Edy Craig](/20c/20c-craig-biography)’s friends, had been set up in her house at Smallhythe Place to field press inquiries, but reporters descended nonetheless. 
 
 One such friend was Velona Pilcher who wrote about the event in a chronicle titled ‘The Marvellous Death of Ellen Terry’:
 
