@@ -20,8 +20,8 @@ Andersen visited [Charles Dickens](/dickens/dickens-biography) at his [Gads Hill
 <param ve-map primary center="Q2336499" zoom="10">
 
 Andersen had apparently visited Kent before, staying with Dickens’s publisher Richard Bentley in Sevenoaks and visiting Knowle House and Chevening Church. Bentley describes Andersen’s love of “the glorious sylvan scenery” surrounding his house, prized above the man-made architecture of the church. Bentley’s description, included in Andersen’s recollections, portrays Andersen as a thoughtful man of simple pleasures, at odds with the descriptions of Andersen as eccentric and awkward which characterise Dickens’s own letters. The Dickens Museum at Gad’s Hill Place  features a note pinned to the wall declaring Hans (Christian) Andersen slept in this room for five weeks – which seemed to the family AGES! 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/Knowle_Lake_-_geograph.org.uk_-_1843108.jpg" label="Knowle Lake - geograph.org.uk - 1843108.jpg" attribution=" Knowle Lake by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
-<param ve-map primary center="Q939838" zoom="20">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/Knowle_Lake_-_geograph.org.uk_-_1843108.jpg" label="Knowle Lake - geograph.org.uk - 1843108.jpg" attribution=" Knowle Lake by Derek Harper, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-map primary center="Q939838" zoom="10">
 
 ## References:
 Andersen, Hans Christian. "A visit to Charles Dickens." _The Eclectic Magazine of Foreign Literature_ (1844-1898) 02 1871: 183. ProQuest.   
