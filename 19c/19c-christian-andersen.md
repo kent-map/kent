@@ -7,7 +7,7 @@
 **Places:** Gads Hill, Rochester. Knowle House, Sevenoaks. Chevening Church.
 
 _“Often, when we approached Rochester, the upper parts of the wide-stretching town lay shrouded in the morning mist; then the mist lifted, and forth stood the picturesque old castle ruins, with their ivied walls, and the massive Gothic cathedral. [..] It usually happened to be low tide; the ships lay on their sides, like dead fish, on the slimy ground.”_
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Rochester_Castle_from_the_east.jpg" label="Rochester Castle from the east.jpg" attribution="Michael Coppins, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Rochester_Castle_from_the_east.jpg" label="Rochester Castle from the east.jpg" attribution="Michael Coppins, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map primary center="Q507517" zoom="10">
 
 ![Hans_Christian_Andersen by Thora Hallager (1821–1884), Public domain, via Wikimedia Commons](images/HCA_by_Thora_Hallager_1869.jpg){: .right}
