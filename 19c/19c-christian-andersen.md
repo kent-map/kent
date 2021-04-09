@@ -1,11 +1,12 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Hans Christian Anderson" author="Dr Alyson Hunt" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/f1/Casa_onde_viveu_Hans_Christian_Andersen_em_Sintra_02.jpg"> 
 
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q1125527" aliases="castle">
+
 ## Hans Christian Andersen (1805-1875)
 **Places:** Gads Hill, Rochester. Knowle House, Sevenoaks. Chevening Church.
 
->“Often, when we approached Rochester, the upper parts of the wide-stretching town lay shrouded in the morning mist; then the mist lifted, and forth stood the picturesque old castle ruins, with their ivied walls, and the massive Gothic cathedral. [..] It usually happened to be low tide; the ships lay on their sides, like dead fish, on the slimy ground.”
-<param ve-entity eid="Q507517" aliases="Rochester">
-<param ve-entity eid="Q1125527" aliases="castle">
+_“Often, when we approached Rochester, the upper parts of the wide-stretching town lay shrouded in the morning mist; then the mist lifted, and forth stood the picturesque old castle ruins, with their ivied walls, and the massive Gothic cathedral. [..] It usually happened to be low tide; the ships lay on their sides, like dead fish, on the slimy ground.”_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Rochester_Castle_from_the_east.jpg" label="Rochester Castle from the east.jpg" attribution="Michael Coppins, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
 <param ve-map primary center="Q507517" zoom="10">
 
