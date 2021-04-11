@@ -3,6 +3,7 @@
 banner="/images/banners/20c.jpg">
 
 <param ve-entity eid="Q26163" aliases="Sandwich">
+<param ve-entity eid="Q2607619" aliases="Richborough">
 
 The battle of the Somme in the summer of 1916 demonstrated just how attritional and industrialised the war on the Western Front had become, with hundreds of thousands of human casualties accompanied by an unprecedented consumption of material. With nearly 2 million men in the field, the British and imperial army required a staggering amount of supplies just for daily living, and that was before the stockpiling of weapons and ammunition in preparation for yet another offensive. With the military ports of [Folkestone]( 20c-folkestone-ww1) and Southampton at capacity, the government had to develop another port to ensure the availability of sufficient manpower and machinery of war to defeat the German army.
 <param ve-image url="images/thumbnail_Richborough Ferry 1916-19 PC19-077.jpg" label="Richborough Ferry 1916-1919">
