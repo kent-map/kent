@@ -1,4 +1,4 @@
-<param ve-config title="20th-century Canterbury: Boom City" banner="images/Viking_Bay_Broadstairs.jpg" author="Richard Maltby" layout="vtl">
+<param ve-config title="20th-century Canterbury: Boom City" banner="images/Beaney 20C.JPG" author="Richard Maltby" layout="vtl">
        
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q361" aliases="Great War">
