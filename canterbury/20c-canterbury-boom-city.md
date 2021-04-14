@@ -18,8 +18,8 @@ In the early decades of the century, inspired by the Tudor Village design featur
 <param ve-map center="51.29554454192858, 1.0816383714621067" zoom="15"> 
 
 Many old terraced houses in the main part of the city succumbed to bulldozers in the early post war years. Wincheap, by contrast, largely escaped this fate and retains terraced housing which from the late 17th century which has been lost elsewhere. Modern housing pushing out from the centre has respected the historic character and picturesque setting of St Stephen’s Church (which dates from the 12th century), the Green, 16th century almshouses and Olde Beverlie Inn. Since 1967 the designation of Conservation areas by character and appearance for built and natural heritage, helps us to admire the commitment of late 20th century planning to preserving Canterbury’s rich architectural heritage. 
-<param ve-map center="Q8023755" zoom="15">
-<param ve-map center="51.2909332350301, 1.0776729982414386" zoom="15">
+<param ve-map center="Q8023755" zoom="13">
+<param ve-map center="51.2909332350301, 1.0776729982414386" zoom="13">
 
 Probably the most visionary concept in Canterbury’s suburban development was the planned council housing development of the late 1940s originally called New Harbledown. Designed as a village on the outskirts and overlooking the old city, roads were named after [Chaucer’s](/14c/14c-chaucer) pilgrims and the development was complete with a village shop, a pub called “The Gentile Knyght” and a primary school. But in 1952 the council reneged on the name, New Harbledown, and gave the new village the name by which it has since been known, the London Road Estate. Land donated by a farmer and former mayor, Frank Hooker, made possible the adjacent building of the former high school now called the [Canterbury Sports Academy]( https://www.canterbury.kent.sch.uk).
-<param ve-map center="51.2792311750802, 1.0577726261794358" zoom="15"
+<param ve-map center="51.2792311750802, 1.0577726261794358" zoom="15">
