@@ -22,7 +22,7 @@ Mr. Tope’s official dwelling, communicating by an upper stair with Mr. Jasper�
 <param-ve-map center="51.254291, 0.876473" zoom="10">
 
 Dickens tells us a of a door from which Datchery sits watching the world go by – sadly this door does not exist, with just one door in the gatehouse rather than one each for Jasper and Datchery’s homes. Dickens may well have been inspired by reality, but he was not beholden to it. Still, modern visitors may be cheered to know that the building next to the gatehouse, where the Topes live, is now a ‘Topes sweetshop’, commemorated by a plaque above the door advertising its fictional residents. 
-<param ve-image url="images/Fig 4 Eastgate House.jpg" label="Figure 4: Eastgate House">  
+<param ve-image url="https://stor.artstor.org/stor/4bcb5ff3-1a7b-4d15-943d-36c283e418e0" label="Eastgate House" attribution="Benjamin Mortley">  
 <param-ve-map center="51.254291, 0.876473" zoom="10">
  
 Further down the high street is [Eastgate house](/dickens/edwin-drood-eastgate-house). Its most prominent Dickensian feature is the [chalet](/dickens/dickens-swiss-chalett) in the back-garden; originally located at [Gads Hill](/dickens/dickens-gads-hill), it was in this chalet that Dickens wrote the last surviving pages of Drood on 8 June 1870, the day before he died. But Eastgate house is also immortalised as the location of the (Nun’s house)(/dickens/edwin-drood-eastgate-house), the school which Rosa Bud attended under the tuition of Miss Twinkleton: 
