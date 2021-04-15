@@ -11,7 +11,7 @@ The most prominent feature in both Cloisterham and Rochester is, of course, the 
 Inevitably, attention is drawn towards the crypt of the cathedral. This is the place where the stonemason Durdles takes Jasper on a night-time tour, at Jasper’s request, and it is during that tour that Durdles falls strangely tired, as though drugged, and ‘dreams’ of Jasper taking his keys. This has led many to assume that Jasper makes a copy of the keys, with the intention of entombing his unfortunate nephew somewhere within, most likely in the Sapsea tomb. Dickens describes that night-time tour of Durdles and Jasper in deliciously gothic tones:
 
 >‘They enter, locking themselves in, descend the rugged steps, and are down in the Crypt.  The lantern is not wanted, for the moonlight strikes in at the groined windows, bare of glass, the broken frames for which cast patterns on the ground.  The heavy pillars which support the roof engender masses of black shade, but between them there are lanes of light.’
-<param ve-image url="images/Fig 2 The Crypt.jpg" label="Figure 2: The Crypt">  
+<param ve-image url="images/Fig 2 The Crypt.jpg" label="The Crypt">  
 <param-ve-map center="51.254291, 0.876473" zoom="10">
 
 Alas, it is rather difficult for the modern visitor to quite capture the same gloomy sense of an eternity trapped in that tomb, since the crypt is now home to the cathedral café. But it is nice to imagine Edwin sipping a latte while all of Cloisterham scrambles to find him.
@@ -53,7 +53,6 @@ For those searching for Edwin beyond the coffeeshop/crypt, the next stop would b
  <param-ve-map center="51.254291, 0.876473" zoom="10">
  is a therefore a delightful spot to attempt to envision Drood – and the best place to do so  - but the surest clues remain in the text itself.
   
-
 **Article written by:** Dr Pete Orford.
 
 Inspired to go looking for the missing Edwin? You may enjoy this [Rochester walk]( https://explorekent.org/activities/rochester-walk-a-feast-of-fine-architecture/)   
