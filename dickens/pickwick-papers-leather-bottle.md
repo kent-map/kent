@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Leather Bottle, The Street, Cobham, Gravesend" author="Carolyn Oulton" layout="vtl">
+<param ve-config title="Leather Bottle, The Street, Cobham, Gravesend" author="Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param title="Cobham" eid="Q949561">
 <param title="Gravesend" eid="Q676689">
