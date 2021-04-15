@@ -6,7 +6,7 @@
 #
 
 ##
-**[Jane Austen](19c/19c-austen-biography)**
+**[Jane Austen](/19c/19c-austen-biography)**
 
 - author: Susan Civale
 
