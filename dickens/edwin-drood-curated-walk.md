@@ -2,7 +2,7 @@
 <param ve-config title="Edwin Drood: a Curated Walk" author="Peter Orford" layout="vtl">
 
 <param ve-entity eid="Q507517" aliases="Rochester">
-<param ve-entity eid="Q2635720" aliasses="Rochester Cathedral">
+<param ve-entity eid="Q2635720" aliases="Rochester Cathedral">
 <param ve-entity eid="Q16834512" alisases="Eastgate House">
 
 [Rochester](/dickens/dickens-medway) is proud to celebrate its Dickensian connections, and the most fascinating and intriguing connection is its inspiration for the fictional town of Cloisterham, backdrop to Dickens’s final novel _The Mystery of Edwin Drood._ The unfinished state of this last novel has, if anything, generated even more interest in the real-life location for the story’s diabolical events, as amateur detectives and scholars alike have tried to assess whether any clues for Edwin’s fictional whereabouts may be gleaned from examination of the factual geography.
@@ -53,7 +53,6 @@ For those searching for Edwin beyond the coffeeshop/crypt, the next stop would b
 [Rochester](/dickens/dickens-medway) offers a beguiling tour through Droodland, but it also comes with an advisory warning. We can imagine ourselves in Cloisterham, but never truly inhabit it – its location rests solely in Dickens’ own imagination. Perhaps in that sense the [chalet](/dickens/dickens-swiss-chalet) in [Eastgate House](/dickens/edwin-drood-eastgate-house) is the closest we can get to the fictional landscape of Dickens’ last novel – that after all where Cloisterham was created and developed. At the same time, there are clues and hints we can glean from [Rochester](/dickens/dickens-medway). That it inspired Cloisterham is without doubt, and therefore the argument can be made that key scenes may be played out with specific reference to [Rochester](/dickens/dickens-medway)’s geography. The danger is that we can never be truly sure which scenes, nor in turn which parts might have been embellished or changed by Dickens to suit his plot, such as Datchery’s non-existent door. [Rochester](/dickens/dickens-medway)   
  is a therefore a delightful spot to attempt to envision Drood – and the best place to do so  - but the surest clues remain in the text itself.
  <param-ve-map center="51.254291, 0.876473" zoom="10">
-
-  
+ 
 Inspired to go looking for the missing Edwin? You may enjoy this [Rochester walk]( https://explorekent.org/activities/rochester-walk-a-feast-of-fine-architecture/)   
 See also [Mobile Landscapes]( https://kent-maps.online/dickens/mobile-landscapes)
