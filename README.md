@@ -154,20 +154,3 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 ![](https://kent-map.github.io/kent/images/thumbnails/dickens-head.jpg)
 
 One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
-
-# Essays by Place
-
-##
-[**A-H**](/placesah)
-
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301)
-
-##
-[**I-P**](/placesip)
-
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/f0bec294-4bea-40c0-8161-a6c8c1f1cdde)
-
-##
-[**Q-Z**](/placesqz)
-
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/2dbb351f-a888-41cd-87ef-eba4780a11c9)
