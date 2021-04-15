@@ -23,10 +23,9 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 - author: Simone Blandford
 
-![](https://kent-map.github.io/kent/20c/images/sissinghurst2.jpg)
+![](https://kent-map.github.io/kent/20c/images/spade MJC.jpg)
 
-Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
-
+“This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” Kipps
 ##
 [**Vita Sackville-West**](/20c/20c-sackville-west-biography)
 
