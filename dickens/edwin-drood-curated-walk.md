@@ -1,4 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+
 <param ve-config title="Edwin Drood: a Curated Walk" author="Peter Orford" layout="vtl">
 
 <param ve-entity eid="Q507517" aliases="Rochester">
@@ -10,23 +11,22 @@ The most prominent feature in both Cloisterham and Rochester is, of course, the 
 <param ve-image url="https://stor.artstor.org/stor/44be2f2c-2f9a-48a2-8cc2-e009206ac344" label="Rochester Cathedral" attribution="Benjamin Mortley"> 
 <param-ve-map center="51.38892, 0.503517" zoom="15">
 
-Inevitably, attention is drawn towards the crypt of the cathedral. This is the place where the stonemason Durdles takes Jasper on a night-time tour, at Jasper’s request, and it is during that tour that Durdles falls strangely tired, as though drugged, and ‘dreams’ of Jasper taking his keys. This has led many to assume that Jasper makes a copy of the keys, with the intention of entombing his unfortunate nephew somewhere within, most likely in the Sapsea tomb. Dickens describes that night-time tour of Durdles and Jasper in deliciously gothic tones:   
-   
+Inevitably, attention is drawn towards the crypt of the cathedral. This is the place where the stonemason Durdles takes Jasper on a night-time tour, at Jasper’s request, and it is during that tour that Durdles falls strangely tired, as though drugged, and ‘dreams’ of Jasper taking his keys. This has led many to assume that Jasper makes a copy of the keys, with the intention of entombing his unfortunate nephew somewhere within, most likely in the Sapsea tomb. Dickens describes that night-time tour of Durdles and Jasper in deliciously gothic tones:    
 _‘They enter, locking themselves in, descend the rugged steps, and are down in the Crypt.  The lantern is not wanted, for the moonlight strikes in at the groined windows, bare of glass, the broken frames for which cast patterns on the ground.  The heavy pillars which support the roof engender masses of black shade, but between them there are lanes of light.’_
-<param ve-image url="images/Fig 2 The Crypt.jpg" label="The Crypt">  
-<param-ve-map center="51.254291, 0.876473" zoom="10">
-
 Alas, it is rather difficult for the modern visitor to quite capture the same gloomy sense of an eternity trapped in that tomb, since the crypt is now home to the cathedral café. But it is nice to imagine Edwin sipping a latte while all of Cloisterham scrambles to find him.
-Outside the cathedral, but not too far, the next prominent building is the cathedral’s gatehouse. This is where Jasper lives as tenant to the Topes, and where in turn Dick Datchery will also rent a room. 
+<param ve-image url="images/Fig 2 The Crypt.jpg" label="The Crypt">  
+<param-ve-map center="51.254291, 0.876473" zoom="15">
 
-Mr. Tope’s official dwelling, communicating by an upper stair with Mr. Jasper’s (hence Mrs. Tope’s attendance on that gentleman), was of very modest proportions, and partook of the character of a cool dungeon…These two chambers, close as to their atmosphere, and swarthy as to their illumination by natural light, were the apartments which Mrs. Tope had so long offered to an unappreciative city.  Mr. Datchery, however, was more appreciative.  He found that if he sat with the main door open he would enjoy the passing society of all comers to and fro by the gateway, and would have light enough.
-<param ve-image url="images/Fig 3 The Gatehouse.jpg" label="The Gatehouse">  
+Outside the cathedral, but not too far, the next prominent building is the cathedral’s gatehouse. This is where Jasper lives as tenant to the Topes, and where in turn Dick Datchery will also rent a room.  Mr. Tope’s official dwelling, communicating by an upper stair with Mr. Jasper’s (hence Mrs. Tope’s attendance on that gentleman), was of very modest proportions, and partook of the character of a cool dungeon…These two chambers, close as to their atmosphere, and swarthy as to their illumination by natural light, were the apartments which Mrs. Tope had so long offered to an unappreciative city.  Mr. Datchery, however, was more appreciative.  He found that if he sat with the main door open he would enjoy the passing society of all comers to and fro by the gateway, and would have light enough.
+<param ve-image url="https://stor.artstor.org/stor/4eeec435-8628-4798-b754-cdfb0f2a094e" label="The Gatehouse" attribution="Benjamin Mortley">  
 <param-ve-map center="51.3873, 0.506094" zoom="15">
 
 Dickens tells us a of a door from which Datchery sits watching the world go by – sadly this door does not exist, with just one door in the gatehouse rather than one each for Jasper and Datchery’s homes. Dickens may well have been inspired by reality, but he was not beholden to it. Still, modern visitors may be cheered to know that the building next to the gatehouse, where the Topes live, is now a ‘Topes sweetshop’, commemorated by a plaque above the door advertising its fictional residents. 
 <param-ve-map center="51.3873, 0.506094" zoom="15">
+<param ve-image url="https://stor.artstor.org/stor/bf19e774-7bbc-468e-b913-61257c0eb034" label="College Gate" attribution="Benjamin Mortley">  
  
 Further down the high street is [Eastgate house](/dickens/edwin-drood-eastgate-house). Its most prominent Dickensian feature is the [chalet](/dickens/dickens-swiss-chalett) in the back-garden; originally located at [Gads Hill](/dickens/dickens-gads-hill), it was in this chalet that Dickens wrote the last surviving pages of Drood on 8 June 1870, the day before he died. But Eastgate house is also immortalised as the location of the [Nun’s house](/dickens/edwin-drood-eastgate-house), the school which Rosa Bud attended under the tuition of Miss Twinkleton: 
+<param ve-image url="https://stor.artstor.org/stor/11fbd10c-4977-45e6-8713-df4c593a5574" label="Chalet" attribution="Benjamin Mortley"> 
    
 ‘In the midst of Cloisterham stands the [Nuns’ House](/dickens/edwin-drood-eastgate-house): a venerable brick edifice, whose present appellation is doubtless derived from the legend of its conventual uses.  On the trim gate enclosing its old courtyard is a resplendent brass plate flashing forth the legend: ‘Seminary for Young Ladies.  Miss Twinkleton.’  The house-front is so old and worn, and the brass plate is so shining and staring, that the general result has reminded imaginative strangers of a battered old beau with a large modern eye-glass stuck in his blind eye.’
 <param ve-image url="https://stor.artstor.org/stor/4bcb5ff3-1a7b-4d15-943d-36c283e418e0" label="Eastgate House" attribution="Benjamin Mortley">  
