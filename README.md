@@ -140,7 +140,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
 
 ##
-[**Jane Austen**](/19c/19c-austen-biography)
+[**Jane Austen**](/austen/index)
 
 - author: Susan Civale
 
