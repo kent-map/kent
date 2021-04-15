@@ -1,6 +1,6 @@
 <param ve-config 
        title="Jane Austen's Kent"
-       banner="/images/19c.jpg"
+       banner="/images/banners/19c.jpg"
        layout="index">
 
 #
@@ -10,7 +10,7 @@
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/JaneAustenCassandraWatercolour.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. During these extended visits, Austen travelled to many other destinations in Kent for social calls or leisure outings.
 
@@ -55,7 +55,7 @@ Austen visited Ramsgate in 1803 while staying at Godmersham Park with her brothe
 
 - author: Susan Civale
 
-![](https://visual-essays.app/thumbnail?size=400x260&url=https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Red_House%2C_Sevenoaks-geograph.org-3419824.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4c/Patrick_Nasmyth_%281787-1831%29_-_View_near_Sevenoaks%2C_Kent_-_N01178_-_National_Gallery.jpg)
 
 Jane Austen’s first experience of Kent comprised a trip with her parents and sister to Sevenoaks to visit her great uncle Francis, her father’s guardian and benefactor. Francis hosted a grand dinner at his stately Red House in July of 1788, an event which may have provided the inspiration for a scene in her third novel, Mansfield Park (1814).
 
