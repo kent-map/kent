@@ -55,7 +55,7 @@ Austen visited Ramsgate in 1803 while staying at Godmersham Park with her brothe
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Red_House%2C_Sevenoaks-geograph.org-3419824.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4c/Patrick_Nasmyth_%281787-1831%29_-_View_near_Sevenoaks%2C_Kent_-_N01178_-_National_Gallery.jpg)
 
 Jane Austen’s first experience of Kent comprised a trip with her parents and sister to Sevenoaks to visit her great uncle Francis, her father’s guardian and benefactor. Francis hosted a grand dinner at his stately Red House in July of 1788, an event which may have provided the inspiration for a scene in her third novel, Mansfield Park (1814).
 
