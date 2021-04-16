@@ -19,14 +19,13 @@ This site provides a set of themed essays about Kent, a county in South East Eng
 You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie.
 
 ##
-[**Jane Austen**](/19c/19c-austen-biography)
+[**H.G.Wells**](/20c/20c-wellshg-biography)
 
-- author: Susan Civale
+- author: Simone Blandford
 
-![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
+![](https://kent-map.github.io/kent/20c/images/spade MJC.jpg)
 
-Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
-
+“This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” Kipps
 ##
 [**Vita Sackville-West**](/20c/20c-sackville-west-biography)
 
@@ -140,7 +139,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
 
 ##
-[**Jane Austen**](/19c/19c-austen-biography)
+[**Jane Austen**](/austen/index)
 
 - author: Susan Civale
 

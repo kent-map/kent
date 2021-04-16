@@ -58,6 +58,7 @@ It is in a [Chatham](/dickens/dickens-chatham) slop shop that David falls foul o
 After further delays as he hides from ‘any of these people’ coming towards him, David’s first sight of [Canterbury](/dickens/david-copperfield-canterbury) with its ‘sunny street’ and ‘stately, grey Cathedral shows a city that is at once peaceful and notably at odds with his own state. Where the city is ‘dozing’ in the heat, David himself is both dusty and quite possibly dehydrated. He cannot stay here – or not yet – and makes his way through the main street and down the [Dover Road](/dickens/david-copperfield-dover-road.) (now the Old Dover Road) that leads directly on for another eighteen miles.
 <param ve-map center="Q29303" zoom="11">
 <param ve-map-overlay geojson url="geojson/david-copperfield-dover-road.json">
+<param ve-image="https://stor.artstor.org/stor/360206a8-3604-42df-806f-0059dbbf2b85" label="The Micawbers at Canterbury">
 
 On his arrival in [Dover](/dickens/dickens-dover) on the sixth day of his journey, David is immediately reminded of the obstacles that his unkempt condition has placed between himself and the sanctuary he is trying to attain. His appearance is not prepossessing and he struggles to be taken seriously by the townspeople:
 <param ve-map center="Q179224" zoom="11">
