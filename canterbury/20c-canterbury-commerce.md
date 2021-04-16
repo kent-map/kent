@@ -8,6 +8,7 @@
 <param ve-entity eid="Q20089350" aliases="Mayor of Canterbury">
 <param ve-entity eid="Q155639" aliases="Messerschmidt 109">
 <param ve-entity eid="Q669528" aliases="Baedeker Raid">
+<param ve-entity eid="51.29202871207598, 1.089396796387833" aliases="Broad Oak road">
 
 ## Commerce
 
@@ -33,9 +34,10 @@ The radio and electrical side of the business became established in Rose Lane, b
 <param ve-map center="51.27436263002541, 1.0683895656805509" zoom="15">
 
 Following a catastrophic fire in 1937 the premises in St Peter’s Street had to be rebuilt, but then the [Second World War](/canterbury/20c-canterbury-ww2) came to Barretts in 1940. To help a fund-raising project Barretts put a Messerschmidt 109, which had crash landed intact, on display for three weeks. The aircraft was then put in store to await disposal. On 14th October a German raider dropped bombs on the street. A bomb crashed through the garage roof, destroyed two buses and blew up the ME109. Barretts was not damaged in the Baedeker Raid of 1st June 1942. But it was bombed again in one of the last Luftwaffe strikes of the war. On 22nd January 1944 Barretts was totally destroyed by a single high explosive bomb.
-<param ve-image url="https://stor.artstor.org/stor/811dfc80-b02e-4166-a487-02892f44e4c5" label="Test">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Bundesarchiv_Bild_101I-662-6659-37%2C_Flugzeug_Messerschmitt_Me_109.jpg" label="Messerschmidt 109" attribution="Bundesarchiv, Bild 101I-662-6659-37 / Hebenstreit / CC-BY-SA 3.0">
 
 The 1950s brought more prosperous times as Barretts became the distributor in East Kent for Rover and Austin cars and car sales took off. To expand car servicing and the works area, Barretts acquired the former Malthouse brewery site, off Stephen’s Road, However, the rebuilding of a permanent showroom at St Peter’s Street was held up for years as a result of the planning controversies over proposed routes for the ring road at the Westgate Towers. In 1980 the new building was finally opened to much praise for its architectural design. A modern car showroom was successfully accommodated within a building which replicated the historic streetscape. The opening happily coincided with the launch of the Austin Mini Metro. By the mid ‘80s Jaguar and Land Rover had taken pride of place. For other dealerships, including BMW and Citroen, Barretts acquired facilities on the Broad Oak road.
 <param ve-map center="51.29202871207598, 1.089396796387833" zoom="15">
 
 On vacating St Peter’s Street in 2019, the 4th generation of the family, Paul and Shaun Barrett, directors since 1984, Barretts finally left the premises which their great grandfather had purchased in 1902. The car business, under the direction of Paul Barrett, now has two centres, in the showrooms on Broad Oak Road site and at Ashford in the Waterbrook Park. Shaun Barrett is today the director of the Digital World and electronic business.
+<param ve-map center="51.29202871207598, 1.089396796387833" zoom="15">
