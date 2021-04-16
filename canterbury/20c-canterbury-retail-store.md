@@ -1,4 +1,4 @@
-<param ve-config title="20th-century Canterbury: Overview" banner="images/Millennium Banner.jpg" author="Richard Maltby" layout="vtl">
+<param ve-config title="20th-century Canterbury: Retail Stores" banner="images/Millennium Banner.jpg" author="Richard Maltby" layout="vtl">
        
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q22101934" aliases="William Lefevre">
