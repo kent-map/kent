@@ -1,10 +1,11 @@
-## Dickens, A Tale of Two Cities and France
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Dickens, A Tale of Two Cities and France" author="Bethia Carter" layout="vtl" banner="/images/banners/19c.jpg">
 
->“It was the best of times, it was the worst of times…” (Dickens, 1875, p.1)
+<param ve-entity eid="Q5516441" aliases="Gads Hill Place">
 
+“It was the best of times, it was the worst of times…” (Dickens, 1875, p.1)   
+The opening of [Charles Dickens](/dickens/dickens-biography)’s novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dickens's [Swiss chalet](/dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill](/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
 ![The Dover Road: Annals of an Ancient Turnpike / Harper, Charles George, 1863-, Public domain, via Wikimedia Commons](images/doverroad.jpg){: .right}
-
-The opening of [Charles Dickens](/dickens/dickens-biography)’ novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dickens's [Swiss chalet](/dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill](/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
 
 The action in the novel very quickly moves to the county, with the Mail coach arriving at [Dover](/dickens/dickens-dover) at six a.m., having set off from London at eight the previous evening.  Dickens’s description of the postal service is consistent with contemporary accounts and the passengers’ unwillingness to trust one another seems to reflect the dangerous nature of journeys reported in news articles from 1775, of robberies where highwaymen stopped coaches on their way into towns.[^ref1] The etymology of the place names en route testify to this: "Shooters Hill, so called from the thievery there practiced" and Gad's Hill, from the "Gadd's of steel" used before fire arms.[^ref2]
 
