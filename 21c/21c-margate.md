@@ -12,11 +12,9 @@ But a very different Margate has arisen over the last twenty years due to consid
 <param ve-image url="https://stor.artstor.org/stor/08e67dca-f24b-42f5-80ac-d270d6756b99" label="Turner Contemporary" attribution= "Photography by Hufton and Crow, by kind permission of the Turner Contemporary"> 
 
 It remains to be seen what impact Covid will make on the new creative industries, and small businesses on the whole. But the town’s success at evolving proves that adaptability, above all, is the key to meeting future challenges. 
-<param ve-image url="/images/Margate statue.jpg" label="Another Time by Anthony Gormley, Margate"> 
+<param ve-image url="https://stor.artstor.org/stor/ee7f84dc-a5b0-4c36-ad58-bb9a01682e54" label="Another Time by Anthony Gormley, Margate"> 
 
 My book [_In Margate by Lunchtime_](/21c/21c-margate-lunchtime) offers a bird’s eye view of Thanet from pre-Roman times to the 21st century. Just as our early ancestors would have found miraculous the Thanet windfarm which stands now off the coast like sentinels  an act of magic, so might they of a mermaid tour guide on a Vespa, except of course she’s real. 
-<param ve-image url="images/Kent Maps Mermaid Transparent.jpg" label="Margate sign post"> 
-
-**Article written by:** Maggie Harris. February 2021.
+<param ve-image url="images/Kent Maps Mermaid Transparent.jpg" label="Margate Mermaid" attribution="Heather Murdoch"> 
 
 For more on the history of Dreamland see [‘Canterbury Tales: from the City to the Sea’](https://www.youtube.com/watch?v=461nK7mazNo)
