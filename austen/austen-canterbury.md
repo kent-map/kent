@@ -7,8 +7,6 @@ banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Front_Facade_of_Godm
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q29265" aliases="Canterbury Cathedral">
 
-
-Frequent visits between 1796 and 1813.    
 Jane Austen frequently visited Canterbury between 1794 and 1813 whenever she was staying with her brother Edward Austen-Knight, who lived nearby (first at Rowling House, and later at Godmersham Park).  Foremost among the social calls that Austen made in Canterbury were those to Edward’s adoptive mother, Catherine Knight.  Mrs Knight, as she was called by Austen, moved from Godmersham Park to White Friars in Canterbury in 1798.  Jane and her sister Cassandra had a close relationship with Mrs Knight, who was fond of both sisters and showed an interest in Jane’s writing.  In early 1811, she eagerly awaited the publication of _Sense and Sensibility_, and asked Cassandra about the novel’s progress when Jane was absent.  Austen also made other social calls around [Canterbury](/19c/19c-canterbury/) and in the Cathedral precincts.  One family who resided in [Canterbury](/19c/19c-canterbury/), the widowed Mrs. Charles Milles and her daughter Molly, are likely to have been the real-life models for the characters of Mrs. and Miss Bates in _Emma_ (1815).[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bb/Jane_Austen_1870.jpg" label="Jane Austen" attribution="James Andrews of Maidenhead, Public domain, via Wikimedia Commons">
 
