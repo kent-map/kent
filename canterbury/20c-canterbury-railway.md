@@ -2,7 +2,7 @@
        
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q5033707" aliases="Canterbury and Whitstable Railway">
-<param ve-entity eid="Q671106" aliases="Canterbury West station">
+<param ve-entity eid="Q671106" aliases="Canterbury West">
 <param ve-entity eid="Q26549468" aliases="Goods Shed">
 <param ve-entity eid="Q26534028" aliases="Weighbridge Cottage">
 
