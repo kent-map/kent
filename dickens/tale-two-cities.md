@@ -2,12 +2,20 @@
 <param ve-config title="Dickens, A Tale of Two Cities and France" author="Bethia Carter" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q5516441" aliases="Gads Hill Place">
+<param ve-entity eid="Q858775" aliases="Dartford">
+<param ve-entity eid="Q1000115" aliases="Faversham">
+<param ve-entity eid="Q1626044" aliases="Sittingbourne">
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q676689" aliases="Gravesend">
 
 “It was the best of times, it was the worst of times…” (Dickens, 1875, p.1)   
 The opening of [Charles Dickens](/dickens/dickens-biography)’s novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dickens's [Swiss chalet](/dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill](/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
-![The Dover Road: Annals of an Ancient Turnpike / Harper, Charles George, 1863-, Public domain, via Wikimedia Commons](images/doverroad.jpg){: .right}
+<param ve-image url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" label="Gads Hill" attribution="Benjamin Mortley">
 
 The action in the novel very quickly moves to the county, with the Mail coach arriving at [Dover](/dickens/dickens-dover) at six a.m., having set off from London at eight the previous evening.  Dickens’s description of the postal service is consistent with contemporary accounts and the passengers’ unwillingness to trust one another seems to reflect the dangerous nature of journeys reported in news articles from 1775, of robberies where highwaymen stopped coaches on their way into towns.[^ref1] The etymology of the place names en route testify to this: "Shooters Hill, so called from the thievery there practiced" and Gad's Hill, from the "Gadd's of steel" used before fire arms.[^ref2]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/79/The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820995540465%29.jpg" label="The Dover Road: Annals of an Ancient Turnpike" attribution="Harper, Charles George, 1863-1943, No restrictions, via Wikimedia Commons">
 
 The journey between Dover and London was a fairly popular one, with coaches making the journey everyday excepting Sundays.[^ref3] The route travelled through Dartford, Rochester, Sittingbourne, [Canterbury](/19c/19c-canterbury) and Faversham. In Dickens’ description of the journey near Shooters Hill, however, it does not sound like a pleasant one:
 
