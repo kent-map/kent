@@ -1,7 +1,7 @@
 <param ve-config title="20th-century Canterbury: Industrial heritage" banner="images/Beaney 20C.JPG" author="Richard Maltby" layout="vtl">
        
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q17529474" aliases="St Mildred's">
+<param ve-entity eid="Q17529474" aliases="St Mildred">
 <param ve-entity eid="Q3515239" aliases="tannery">
 <param ve-entity eid="Q20089350" aliases="mayor">
 <param ve-entity eid="Q62408" aliases="Houses of Parliament">
