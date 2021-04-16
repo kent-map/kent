@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="21st Century Margate " author="Maggie Harris" layout="vtl" 
-banner="/images/banners/21c.jpg">
+banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301">
 
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q3039291" alisases="Dreamland Margate">
