@@ -18,4 +18,4 @@ My book [_In Margate by Lunchtime_](/21c/21c-margate-lunchtime) offers a bird’
 <param ve-image url="images/Kent Maps Mermaid Transparent.jpg" label="Margate Mermaid" attribution="Heather Murdoch"> 
 
 For more on the history of Dreamland see [‘Canterbury Tales: from the City to the Sea’](https://www.youtube.com/watch?v=461nK7mazNo)
-<param ve-video id="https://www.youtube.com/watch?v=461nK7mazNo" title="Canterbury Tales: from the City to the Sea">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/65/Dreamland%2C_Margate_-_geograph.org.uk_-_1473130.jpg" label="Dreamland, Margate" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons"> 
