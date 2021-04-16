@@ -1,4 +1,4 @@
-<param ve-config title="20th-century Canterbury: Overview" banner="images/Milennium Mural.jpg" author="Richard Maltby" layout="vtl">
+<param ve-config title="20th-century Canterbury: Overview" banner="images/Millennium Banner.jpg" author="Richard Maltby" layout="vtl">
        
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q29265" aliases="Cathedral">
@@ -6,6 +6,9 @@
 <param ve-entity eid="Q669528" aliases="Baedeker Raid">
 <param ve-entity eid="Q7592538" aliases="St Augustine">
 <param ve-entity eid="Q105782453" aliases="Barton Manor">
+<param ve-entity eid="Q1516684" aliases="University of Kent">
+<param ve-entity eid="Q8023755" aliases="Wincheap">
+<param ve-entity eid="Q279963" aliases="Sturry Road">
 
 ## Overview
 
@@ -16,9 +19,13 @@ A population of 24,899 in 1901 actually fell back over the next three decades to
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/1920px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" label="Canterbury Cathedral" attribution="Hans Musil, CC-BY-SA 4.0">
 
 The maps of late-20th-century Canterbury therefore take in the phenomenal growth of Canterbury as a regional commercial, tourist and educational centre. The bombed part of the centre was twice rebuilt. Housing, schools and businesses were pushed out to new sites as the outskirts were developed. Vacant land pertaining to St Augustine’s College and Barton Manor estate became [Canterbury Christ Church University](https://www.canterbury.ac.uk) (founded 1962), Barton Court School (from 1945), Canterbury Technical College (from 1947) and the University for Creative Arts (from 1971). The [abbey ruins](https://www.english-heritage.org.uk/visit/places/st-augustines-abbey/) have been beautifully enhanced by English Heritage.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ruins_of_St_Augustines_Abbey.JPG/2560px-Ruins_of_St_Augustines_Abbey.JPG" label="Abbey Ruins" attribution="Nessy-Pic, CC-BY-SA 3.0">
 
 Between the 1950s and ‘70s housing, private and public, took over the fields from Northgate to the army barracks and beyond, between the army range of Old Park and the Sturry Road, extending the city’s boundary by 1½ miles NE from the centre. From the time the [University of Kent](www.kent.ac.uk) was opened (1965) the slopes of St Stephen’s also became prime housing development land. By the 1990s [retail](/Canterbury/20c-Canterbury-retail-store) and [trading parks](/Canterbury/20c-Canterbury-trading-estates) set along the A28 axial route had expanded Wincheap and engulfed the Sturry Road. Canterbury became hugely attractive to new residents, students, visitors and retailers. (Read more about [planning as the city grew](/Canterbury/20c-Canterbury-planning).)
+<param ve-map center="Q8023755" zoom="15">
 
-It was also in the 20th century that Canterbury’s maps of earlier centuries were drawn and redrawn. Excavations revealed layer upon layer of Canterbury’s Roman, Saxon and Medieval foundations. The transformational effects of the 20th century were not without their downside. Traffic congestion and air pollution on the incomplete ring road and Sturry Road passed into the 21st as an unresolved challenge. (Read more about Canterbury's transport](/Canterbury/20c-Canterbury-transport) and [railway](/Canterbury/20c-Canterbury-railway) infrastructures.)
+It was also in the 20th century that Canterbury’s maps of earlier centuries were drawn and redrawn. Excavations revealed layer upon layer of Canterbury’s Roman, Saxon and Medieval foundations. The transformational effects of the 20th century were not without their downside. Traffic congestion and air pollution on the incomplete ring road and Sturry Road passed into the 21st as an unresolved challenge. (Read more about Canterbury's [transport](/Canterbury/20c-Canterbury-transport) and [railway](/Canterbury/20c-Canterbury-railway) infrastructures.)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canterbury_map%2C_1610.png" label="John Speed's depiction of Canterbury and the city walls, around 1610" attribution="John Speed, Public Domain">
 
 Throughout the 20th century the Cathedral remained conspicuous and prominent as the major icon of Canterbury and most important pole of attraction. The 15th-century Bell Harry Tower was unchallenged as the city’s tallest structure. The Cathedral, as ever, dramatically dominates views wherever it is approached. Floodlit at night the effect is absolutely stunning.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/1920px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" label="Canterbury Cathedral" attribution="Hans Musil, CC-BY-SA 4.0">
