@@ -28,8 +28,7 @@ It is a beautiful, hopeful description of the county that Dickens had made his h
 
 On arrival at Dover, Mr Lorry takes a walk long the beach at [Dover](/dickens/dickens-dover):   
 "The little, narrow, crooked town […] hid itself away from the beach, and ran its head into the chalk cliffs, like a marine ostrich. The beach was a desert of heaps of sea and stones tumbling wildly about, and the sea did what it liked, and what it liked was destruction. It […] thundered at the cliffs, and brought the coast down, madly. The air among the houses was of so strong a piscatory flavour […]. A little fishing was done in the port, and a quantity of strolling about by night… "[^ref9]
-
-![Snargate Street, Dover, 1830/ Drawn by G. Shepherd](images/Snargate St Dover 1830.jpg){: .right}
+<param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate St, Dover, 1830" attribution="Drawn by G.Shepherd">
 
 This is one of only a few references to [Dover](/dickens/dickens-dover). But Dickens does make reference to the Royal George Hotel where Mr Lorry stays before he leaves England. Jervis Lorry's stay sounds a comfortable one, even if the hotel's decor was a little funereal, as he enjoys a bottle of claret by the fire. The real-life equivalent of this hotel is believed by some to be the Ship Hotel which was sadly demolished the year after Dickens published _A Tale of Two Cities_.[^ref10] Dickens stayed in this hotel in 1856 and this hotel was also frequented by other literati such as Lord Byron.[^ref11] For a time, this hotel bore a name slightly more similar to the one Dickens chose, when it was known as The Royal Ship Hotel.[^ref12] 
 
