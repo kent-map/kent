@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="William Harrison Ainsworth (1805-1882)" author="Laura Allen" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/93/Portret_van_William_Harrison_Ainsworth_William_Harrison_Ainsworth_%28titel_op_object%29%2C_RP-F-2001-7-235E-8.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="William Harrison Ainsworth (1805-1882)" author="Laura Allen" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q7074318" aliases="Kent County Lunatic Asylum">
@@ -11,7 +11,7 @@ Prolific author William (usually known as Harrison) Ainsworth, born on 4 Februar
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Rookwood_-_Frontispiece.jpg" label="Rookwood - Frontispiece.jpg" attribution="William Harrison AinsworthArtist Daniel Maclise, Public domain, via Wikimedia Commons">
 
 THE KNIGHT OF MALTA  
-_A Canterbury Tale_
+_A Canterbury Tale_   
 Come list to me, and you shall have, without a hem or haw, sirs,   
 A Canterbury pilgrimage, much better than old Chaucer's.   
 'Tis of a hoax I once played off upon that city clever,   
