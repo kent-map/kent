@@ -47,7 +47,7 @@ For Bowen the child, ‘England’ _was Kent_, and ‘above all, Kent’s dramat
 
 For six years, between 1906 and 1912, she and her mother lived in rented houses in Folkestone, Seabrook, Hythe and Lyminge. But in the summer of 1912 her mother died of cancer and she was given to the care of a ‘committee of aunts’, going to live with one of them in Hertfordshire. In 1914 she returned to Kent, when she was sent to Downe House School in [Charles Darwin](/19c/19c-darwin-biography)’s former home, where the headmistress, Olive Willis, taught her ‘how not to write’. She wrote about her time there in a 1935 article _The Mulberry Tree_, but by the time she came to write the article the school had moved away, and the building had been ‘reinstated as some kind of shrine, for Charles Darwin lived there for some years... I have never liked scientific people very much, and it mortifies me to think of them trampling reverently around there on visiting days, thinking of Charles Darwin and ignorant of my own youth.’[^ref8] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg" label="Down House" attribution="Duncharris at the English language Wikipedia, CC BY-SA 3.0, via Wikimedia Commons">
-<param ve-map center="Q3038318" zoom="10">
+<param ve-map center="Q3038318" zoom="20">
 
 Bowen emphasised the importance of East Kent to her in _Pictures and Conversations_, which devotes much of its first chapter, ‘Origins’, to Bowen’s reactions on her arrival in Kent, glancing only briefly at her Anglo-Irish antecedents. She would draw on the roots which she put down in those six Folkestone years for the settings for episodes in five of her ten novels. _The House in Paris_ (1935) and _The Death of the Heart_ (1938) have episodes in Hythe; _The Little Girls_ (1964) in Folkestone and Dymchurch; _Eva Trout_ (1969) in Broadstairs; while her war novel _The Heat of Day_ (1949) has an envoi set in Hythe. 
 <param ve-image url="images/Bleak House Broadstairs MJC.jpg" label="Bleak House, Broadstairs" attribution="Photographed by Martin Crowther">
@@ -64,7 +64,7 @@ Each of those articles mentions the Cinque Ports in its opening paragraph. This 
 In 1964 she moved back to Hythe and to her last home, a small red brick box of a house opposite St Leonards Church on Church Path in Hythe, with views over the town to the Strait of Dover. This she named Carbery after her mother’s family home in Ireland. Here she wrote her final novel, _Eva Trout_. 
 In _Pictures and Conversations_, Bowen reflects that ‘Possibly it was England made me a novelist’.[^ref13]  Possibly it was East Kent made her a novelist?
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/27/St_Leonard%27s_church%2C_Hythe.jpg" label="St Leonard's Church, Hythe" attribution="DeFacto, CC BY-SA 4.0, via Wikimedia Commons">
-
+<param ve-map center="Q967166" z>
 
 ### References
 
