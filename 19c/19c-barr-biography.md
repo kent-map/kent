@@ -12,7 +12,7 @@ In December 1889 the local journal _Folkestone Visitors’ List and Society Jour
 <param ve-map primary center="Q106436094" zoom="15">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/View_along_Tontine_Street%2C_Folkestone_-_geograph.org.uk_-_1579075.jpg" label="View along Tontine Street, Folkestone - geograph.org.uk - 1579075.jpg" attribution="Nick Smith / View along Tontine Street, Folkestone">
 
-Jerome would go on to co-edit Barr’s new publication _The Idler_ from 1892. While he later implied that they had had no previous relationship, he may have been remembering this very holiday in his account of [Folkestone](/19c/19c-folkestone) in _Three Men on the Bummel_ (1900).   
+Jerome would go on to co-edit Barr’s new publication _The Idler_ from 1892. While he later implied that they had had no previous relationship, he may have been remembering this very holiday in his account of [Folkestone](/19c/19c-folkestone) in _Three Men on the Bummel_ (1900):   
 _"There was a man at Folkestone; I used to meet him on the Lees.  He proposed one evening we should go for a long bicycle ride together on the following day, and I agreed.  I got up early, for me; I made an effort, and was pleased with myself.  He came half an hour late: I was waiting for him in the garden."_[^ref3]   
 While Barr fell out with Jerome and ultimately withdrew from his editorial role at _The Idler_, he would contribute occasional articles to the Folkestone _List_ until 1894.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" label="The Leas, Folkestone" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
