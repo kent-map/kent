@@ -18,6 +18,7 @@ Sir Francis Cowley Burnand (knighted in 1902) is best known as the editor of _Pu
 
 In the _Z.Z.G._ Burnand includes a number of knowing jokes about [Ramsgate](/dickens/19c-ramsgate) as well as [Margate](/dickens/19c-margate), [Broadstairs](/dickens/broadstairs-19th-century) and Sandwich as if from the standpoint of an itinerant tourist. In fact by 1883 he had ‘made his house at Ramsgate’, travelling to London once or twice a week. The 1887 Street Directory locates a Frederick Charles Burnand at 18 Royal Crescent (where Burnand died in 1917); the 1911 census shows that while Francis’s fifth son Philip was born in Middlesex (now part of London) in 1869, his fourth daughter Mary was born in Ramsgate in 1875.  Burnand died of bronchitis on 21 April 1917, and is buried in the cemetery attached to St Augustine's Abbey church in [Ramsgate](/dickens/19c-ramsgate).
 <param ve-map primary center="Q9033431" zoom="10">
+<param ve-image url="https://stor.artstor.org/stor/33ea5295-f1f5-4d3f-9724-352f18abcddf" label="Ramsgate Pavilion">
 
 ### Bibliography
 
