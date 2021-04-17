@@ -46,6 +46,7 @@ For Bowen the child, ‘England’ _was Kent_, and ‘above all, Kent’s dramat
 **Elizabeth Bowen at Downe House in 1916.**
 
 For six years, between 1906 and 1912, she and her mother lived in rented houses in Folkestone, Seabrook, Hythe and Lyminge. But in the summer of 1912 her mother died of cancer and she was given to the care of a ‘committee of aunts’, going to live with one of them in Hertfordshire. In 1914 she returned to Kent, when she was sent to Downe House School in [Charles Darwin](/19c/19c-darwin-biography)’s former home, where the headmistress, Olive Willis, taught her ‘how not to write’. She wrote about her time there in a 1935 article _The Mulberry Tree_, but by the time she came to write the article the school had moved away, and the building had been ‘reinstated as some kind of shrine, for Charles Darwin lived there for some years... I have never liked scientific people very much, and it mortifies me to think of them trampling reverently around there on visiting days, thinking of Charles Darwin and ignorant of my own youth.’[^ref8] 
+<param ve-image url="/19c/images/Down House banner.jpg">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg" label="Down House" attribution="Duncharris at the English language Wikipedia, CC BY-SA 3.0, via Wikimedia Commons">
 <param ve-map center="Q3038318" zoom="20">
 
