@@ -41,7 +41,7 @@ The landscape, too, entranced her with its ‘wide views, though also mysterious
 <param ve-map center="Q375314" zoom="10">
 
 For Bowen the child, ‘England’ _was Kent_, and ‘above all, Kent’s dramatisable coastline’.[^ref7]   Not only did she experience Kent as a gateway to England, she became aware that it was the gateway to a wider world when one day, walking along the Leas, she found to her amazement that France was a real place: it could be seen! Up till then it had existed as something abstract, in the language and _moeurs_ of her mother and her aunts, who had been brought up by a Swiss-French governess. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" label="The Leas, Folkeston" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" label="The Leas, Folkestone" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
  
 **Elizabeth Bowen at Downe House in 1916.**
 
