@@ -1,24 +1,17 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title=" " author=" " layout="vtl" banner=" ">
-
-<param ve-map primary center="Q" zoom="10">
-<param ve-image url="" label="" attribution="">
-<param ve-entity eid="Q" aliases="">
-
-/kent-map/kent/main/19c/19c-burnand-biography
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title=" F. C. Burnand (1836-1917)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png">
+</a> <param ve-config title="F. C. Burnand (1836-1917)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q26163" aliases="Sandwich">
-<param ve-entity eid="Q 106436730" aliases=" 18 Royal Crescent">
+<param ve-entity eid="Q 106436730" aliases="18 Royal Crescent">
 
 *Lived in Ramsgate from around 1875 - until death in 1917*
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Portrait_of_F._C._Burnand.jpg" label="Portrait of F. C. Burnand.jpg" attribution="Elliott & Fry, Public domain, via Wikimedia Commons">
 
-*Publication*: _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_, 1897. 
-
->The New Pier, many years old by now, for entrance to which, as being something superior, twopence is charged, is an instance of that kind of half-fulfilled promise whereof Ramsgate generally offers several evident examples. But while there is a pier there is hope, and it may yet occur to its proprietors, or to the local authorities, to say, after the manner of Mr Wemmick, out of office-hours, in [Great Expectations](/dickens/great-expectations-curated-walk), "Hello! Here’s a pier! Let’s do something with it!"’ _The Z.Z.G._
+*Publication*: _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_, 1897.   
+'The New Pier, many years old by now, for entrance to which, as being something superior, twopence is charged, is an instance of that kind of half-fulfilled promise whereof Ramsgate generally offers several evident examples. But while there is a pier there is hope, and it may yet occur to its proprietors, or to the local authorities, to say, after the manner of Mr Wemmick, out of office-hours, in [Great Expectations](/dickens/great-expectations-curated-walk), "Hello! Here’s a pier! Let’s do something with it!"’ _The Z.Z.G._
 <param ve-map primary center="Q736439" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/71/West_Pier_light%2C_Ramsgate_-_geograph.org.uk_-_155132.jpg" label="West Pier light, Ramsgate - geograph.org.uk - 155132.jpg" attribution="Penny Mayes / West Pier light, Ramsgate">
 
@@ -30,15 +23,10 @@ In the _Z.Z.G._ Burnand includes a number of knowing jokes about [Ramsgate](/dic
 
 ### Bibliography
 
-Burnand, Frances Cowley, illustrated by Phil May. _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_[ellipsis in original]. 1897.
-
-Stedman, ‘Burnand, Sir Francis Cowley (1836-1917). [_Dictionary of National Biography_](https://doi.org/10.1093/ref:odnb/32183), 2008. 
-
-‘Births’. _The Standard_. 25 April 1885. GALE|DX1900562963.
-
-‘Mr F. C. Burnand.’ _Bury and Norwich Post_. 6 February 1883. GALE.
-
-‘Mr F. C. Burnand in praise of Ramsgate as a winter resort’. _Penny Illustrated Paper_. 15 December 1888. p379. GALE.
-
-[Thanet Writers](https://thanetwriters.com/feature/spotlight/thanet-writers-spotlight-francis-burnand/)
+Burnand, Frances Cowley, illustrated by Phil May. _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_[ellipsis in original]. 1897.   
+Stedman, ‘Burnand, Sir Francis Cowley (1836-1917). [_Dictionary of National Biography_](https://doi.org/10.1093/ref:odnb/32183), 2008.    
+‘Births’. _The Standard_. 25 April 1885. GALE|DX1900562963.   
+‘Mr F. C. Burnand.’ _Bury and Norwich Post_. 6 February 1883. GALE.   
+‘Mr F. C. Burnand in praise of Ramsgate as a winter resort’. _Penny Illustrated Paper_. 15 December 1888. p379. GALE.   
+[Thanet Writers](https://thanetwriters.com/feature/spotlight/thanet-writers-spotlight-francis-burnand/)   
 
