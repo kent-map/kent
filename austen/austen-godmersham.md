@@ -1,5 +1,4 @@
 ## Jane Austen: Godmersham
-Stayed with brother Edward Austen Knight at Godmersham Park in 1798, 1803, 1805, 1808, 1809, and 1813.   
 
 Jane Austen stayed with her brother Edward Austen Knight (1767-1852) at Godmersham Park six times—in 1798, 1803, 1805, 1808, 1809, and 1813—and spent ten months there in all.[^ref1]  Her brother Edward, the third oldest son, was adopted by their father’s distant cousin Thomas Knight, from whom he inherited splendid estates in Kent and Hampshire (and whose name he eventually took as well).  Austen’s visits to Godmersham thus marked a change in lifestyle from that of her childhood at the Steventon rectory and especially from the more straitened conditions of the years after her father’s death in 1805.  Writing from Godmersham in an 1813 letter to her brother Francis (Frank), Austen remarks: ‘I have no occasion to think of the price of Bread or of Meat where I am now; let me shake off vulgar cares & conform to the happy Indifference of East Kent wealth’.[^ref2]
 
