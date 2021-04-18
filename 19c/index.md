@@ -51,7 +51,7 @@
 
 ### Events
 
-[Contagious Disesases Act](19c-contagious-diseases)   
+[Contagious Disesases Acts](19c-contagious-diseases)   
 [Hoodening](19c-hoodening)  
 [Leather and Dust](/dickens/19c-leather-and-dust)
 
