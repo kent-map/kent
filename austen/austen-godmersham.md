@@ -8,20 +8,18 @@ Jane Austen stayed with her brother Edward Austen Knight (1767-1852) at Godmersh
 <param ve-image url="https://stor.artstor.org/stor/6c1e5309-950a-423e-a8b6-00288674c2d5" label="Godmersham Park">
 
 The luxurious existence at Godmersham was not its only attraction.  Visitors came frequently, and the Austens often received invitations to dine out, whether at Goodnestone, [Canterbury](/austen/austen/-canterbury), Eastwell, Chilham, or elsewhere.  When Austen stayed at Godmersham, she took occasional day trips to Ashford or [Ramsgate](/austen/austen/-ramsgate), and made more frequent visits to [Canterbury](/austen/austen/-canterbury), a favourite destination due to its proximity and its range of commercial, cultural, and social offerings.  
-<param ve-image url="https://stor.artstor.org/stor/11ffc16b-6316-4c9f-8eb9-2b7d7488d768" label="Godmersham Park">
+<param ve-image url="https://stor.artstor.org/stor/a9fbde83-5a1f-41d3-9fcb-9ad86496be12" label="Godmersham Park">
 
 Austen also relished the time she spent in her brother’s lavish library, which comprised over 1200 titles, and included historical, biographical, and theological writings, periodicals, dictionaries, and atlases, and the most fashionable novels of the day.[^ref3]   In her last visit to Godmersham in 1813, Austen wrote to her sister Cassandra, saying that she was delighted to ‘live in the Library except at Meals’ and, on occasion, to be ‘alone in the library, Mistress of all I survey’.[^ref4]  
-<param ve-image url="https://stor.artstor.org/stor/a9fbde83-5a1f-41d3-9fcb-9ad86496be12" label="Godmersham Park">
+<param ve-image url="https://stor.artstor.org/stor/436d9c34-e028-42da-a033-65d1d24a46fe" label="Godmersham Park">
 
 ### Bibliography
 
 Sabor, Peter.  [‘Reading with Austen.’](https://www.readingwithausten.com/index.html)
-
+<param ve-image url="https://stor.artstor.org/stor/900e6a98-8038-402c-8cf1-f9446e1b192f" label="St Lawrence Church, Godmersham">
 ### References
 
 [^ref1]: Peter Sabor, ‘Reading with Austen’.   
 [^ref2]: To Francis Austen, 25 September 1813.   
 [^ref3]: Peter Sabor, ‘Reading with Austen’.   
 [^ref4]: Letter to Cassandra Austen, 23 September 1813.   
-<param ve-image url="https://stor.artstor.org/stor/900e6a98-8038-402c-8cf1-f9446e1b192f" label="St Lawrence Church, Godmersham">
-
