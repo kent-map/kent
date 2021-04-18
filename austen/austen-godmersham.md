@@ -11,7 +11,7 @@ The luxurious existence at Godmersham was not its only attraction.  Visitors cam
 <param ve-image url="https://stor.artstor.org/stor/11ffc16b-6316-4c9f-8eb9-2b7d7488d768" label="Godmersham Park">
 
 Austen also relished the time she spent in her brother’s lavish library, which comprised over 1200 titles, and included historical, biographical, and theological writings, periodicals, dictionaries, and atlases, and the most fashionable novels of the day.[^ref3]   In her last visit to Godmersham in 1813, Austen wrote to her sister Cassandra, saying that she was delighted to ‘live in the Library except at Meals’ and, on occasion, to be ‘alone in the library, Mistress of all I survey’.[^ref4]  
-<param ve-image url="https://stor.artstor.org/stor/a9fbde83-5a1f-41d3-9fcb-9ad86496be12 label="Godmersham Park">
+<param ve-image url="https://stor.artstor.org/stor/a9fbde83-5a1f-41d3-9fcb-9ad86496be12" label="Godmersham Park">
 
 ### Bibliography
 
