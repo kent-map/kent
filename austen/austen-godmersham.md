@@ -3,6 +3,8 @@
 banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc">
 
 <param ve-entity eid="Q17529295" aliases="Godmersham Park">
+<param ve-entity eid="Q725261" aliases="Ashford">
+<param ve-entity eid="Q2540442" aliases="Eastwell Manor">
 
 Jane Austen stayed with her brother Edward Austen Knight (1767-1852) at Godmersham Park six times—in 1798, 1803, 1805, 1808, 1809, and 1813—and spent ten months there in all.[^ref1]  Her brother Edward, the third oldest son, was adopted by their father’s distant cousin Thomas Knight, from whom he inherited splendid estates in Kent and Hampshire (and whose name he eventually took as well).  Austen’s visits to Godmersham thus marked a change in lifestyle from that of her childhood at the Steventon rectory and especially from the more straitened conditions of the years after her father’s death in 1805.  Writing from Godmersham in an 1813 letter to her brother Francis (Frank), Austen remarks: ‘I have no occasion to think of the price of Bread or of Meat where I am now; let me shake off vulgar cares & conform to the happy Indifference of East Kent wealth’.[^ref2]
 <param ve-image url="https://stor.artstor.org/stor/6c1e5309-950a-423e-a8b6-00288674c2d5" label="Godmersham Park">
