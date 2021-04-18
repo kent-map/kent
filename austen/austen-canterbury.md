@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Jane Austen, Canterbury" author="Susan Civale" layout="vtl" 
-banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Front_Facade_of_Godmersham_Park_-_geograph.org.uk_-_1490002.jpg">
+banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc">
 
 <param ve-entity eid="Q17529295" aliases="Godmersham Park">
 <param ve-entity eid="Q26324024" aliases="Rowling House">
