@@ -29,6 +29,3 @@ Conrad’s legacy lies in his storytelling and his capture of the human interest
 <param ve-image url="images/conradgrave.jpg" label="Joseph Conrad's grave © Kate Davies">
 <param data-map primary center="Q29303" zoom="10">
 
-**Article written by:** 
-Dr Martin Watts
-
