@@ -20,7 +20,7 @@ The [Canterbury](/19c/19c-canterbury/) gaol also numbers among Canterbury places
 
 Harris, Jocelyn, “Jane Austen and the Subscription List to Camilla (1796).” _Persuasions Online_ 35:1 Winter 2014.
 Selwyn, David.  _Jane Austen and Leisure_. London: Hambledon Press, 1999.  
-
+<param ve-image url="https://stor.artstor.org/stor/d1a32d46-90e4-4b12-81b5-c66c2c27322b" label="Bridge leading to Godmersham Park" attribution="Martin Crowther">
 ### References
 
 [^ref1]: Harris.   
