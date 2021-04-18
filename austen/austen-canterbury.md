@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Jane Austen, Canterbury" author="Susan Civale" layout="vtl" 
-banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Front_Facade_of_Godmersham_Park_-_geograph.org.uk_-_1490002.jpg">
+banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc">
 
 <param ve-entity eid="Q17529295" aliases="Godmersham Park">
 <param ve-entity eid="Q26324024" aliases="Rowling House">
@@ -20,7 +20,7 @@ The [Canterbury](/19c/19c-canterbury/) gaol also numbers among Canterbury places
 
 Harris, Jocelyn, “Jane Austen and the Subscription List to Camilla (1796).” _Persuasions Online_ 35:1 Winter 2014.
 Selwyn, David.  _Jane Austen and Leisure_. London: Hambledon Press, 1999.  
-
+<param ve-image url="https://stor.artstor.org/stor/d1a32d46-90e4-4b12-81b5-c66c2c27322b" label="Bridge leading to Godmersham Park" attribution="Martin Crowther">
 ### References
 
 [^ref1]: Harris.   

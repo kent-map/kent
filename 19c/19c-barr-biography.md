@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Robert Barr (1849-1912)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/4/46/The_harbor_Folkestone_England.jpg" attribution="Snapshots Of  The Past CC BY-SA 2.0, via Wikimedia Commons">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Robert Barr (1849-1912)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q106436094" aliases="Tontine Street">

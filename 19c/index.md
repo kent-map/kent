@@ -5,7 +5,7 @@
     a {color: #800000 !important; font-size: 1.2em;}
 </style>
 
-<param ve-config title="19th Century Kent">
+<param ve-config title="19th Century Kent" banner=/images/banners/19c.jpg>
 
 ### People
 
@@ -51,7 +51,7 @@
 
 ### Events
 
-[Contagious Disesases Act](19c-contagious-diseases)   
+[Contagious Disesases Acts](19c-contagious-diseases)   
 [Hoodening](19c-hoodening)  
 [Leather and Dust](/dickens/19c-leather-and-dust)
 

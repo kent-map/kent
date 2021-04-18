@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="Joseph Conrad (1857-1924)" author="Martin Watts" layout="vtl" banner="images/Rear of Oswalds - Bishopsbourne MJC.jpg"> 
+<param ve-config title="Joseph Conrad (1857-1924)" author="Martin Watts" layout="vtl" banner="https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20"> 
 
 <param ve-entity eid="Q866348" aliases="Bishopsbourne">
 <param ve-entity eid="Q29303" aliases="Canterbury">
@@ -28,7 +28,4 @@ Although a popular novelist and eventually recognised by the critics, Conrad did
 Conrad’s legacy lies in his storytelling and his capture of the human interest in what was, during his time, regarded as exotic and ordinary. Major feature films such as ‘Lord Jim’(1965), ‘Apocalypse Now’ (1979) and ‘An Outcast of the Islands’ (1952) provide testimony for the enduring humanity of his work. In 1916 Conrad was the subject of a by fellow Kent author [Hugh Walpole](/19c/19c-walpole-biography). [Jospeh Conrad](https://www.gutenberg.org/files/52453/52453-h/52453-h.htm) was published in New York by Henry Holt and Company.
 <param ve-image url="images/conradgrave.jpg" label="Joseph Conrad's grave © Kate Davies">
 <param data-map primary center="Q29303" zoom="10">
-
-**Article written by:** 
-Dr Martin Watts
 
