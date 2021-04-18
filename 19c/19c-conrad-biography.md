@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="Joseph Conrad (1857-1924)" author="Martin Watts" layout="vtl" banner="images/Rear of Oswalds - Bishopsbourne MJC.jpg"> 
+<param ve-config title="Joseph Conrad (1857-1924)" author="Martin Watts" layout="vtl" banner="https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20"> 
 
 <param ve-entity eid="Q866348" aliases="Bishopsbourne">
 <param ve-entity eid="Q29303" aliases="Canterbury">
