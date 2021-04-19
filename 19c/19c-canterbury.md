@@ -1,6 +1,9 @@
-### Canterbury in the 19th Century
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Canterbury in the 19th Century" author="Martin Watts" layout="vtl" banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
 One of the more surprising features of Canterbury is that, despite the cathedral being the home of the Church of England, no Archbishop of Canterbury was enthroned there until John Bird Sumner in 1848. In fact, until 1901, every Archbishop permanently resided in Lambeth Palace, close to the seat of power in Westminster, although this was somewhat ameliorated by the actions of Victoria’s last Archbishop, Frederick Temple (1896-1902). Archbishop Temple oversaw the rebuilding of the palace in the cathedral grounds, which initiative allowed subsequent primates to spend more time in the city of their cathedral. It should also be noted that Queen Victoria, the second longest serving head of the Church of England, only once visited the city during her reign, and did not grace the cathedral with her presence. 
+
 
 Such examples demonstrate that Canterbury, particularly in the first half of the 19th century, was very much seen as a provincial city, resembling, in effect, a relatively quiet market town, with a collection of small, family owned industries consisting of paper making, leather manufacture and a host of small breweries. One notable feature of Canterbury social life, involving the entrepreneurial and middle classes, was the [Canterbury Catch Club](/music/19c-catch-club). This was a musical society that brought together its members, usually on licensed premises, for the performance of song and, as portrayed in an 1826 lithograph, represented a male dominated, patriotic and provincial middle class. Chris Price has demonstrated that the [Catch Club](/music/19c-catch-club) combined a conservative middle class with a libertine element that distinguished the provinces from the metropolitan.[^ref1] 
 
