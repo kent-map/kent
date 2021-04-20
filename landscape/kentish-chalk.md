@@ -9,6 +9,7 @@ The magnificent Lord Warden Hotel (now offices) was one of the first sights to g
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Shakespeare_Cliff%2C_Dover_-_geograph.org.u_-_1898490.jpg" label="Shakespeare Cliff" attribution="Dover by Colin Smith, CC BY-SA 2.0, via Wikimedia Commons"> 
 
 In his classic essay ‘On a Piece of Chalk’ (_Macmillan's Magazine_, 1868) Darwin’s ‘Bulldog’ Thomas Huxley observed ‘… on the shores of Kent it supplies that long line of white cliffs to which England owes her name of Albion.’ Huxley relates the story of the chalk’s formation and its geological importance in what is one of the most inspiring scientific essays ever written, originally given as a lecture (1868) to the working men of Norwich.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/White_cliffs_of_dover_09_2004.jpg" label="White Cliffs of Dover" attribution="https://www.flickr.com/people/fanny/, CC BY-SA 2.0, via Wikimedia Commons">
 
 Formed between 70 to 100 million years ago chalk is a soft, very pure form of limestone, consisting of over ninety-five percent calcium carbonate. It is largely composed of coccoliths, minuscule calcareous platelets secreted by marine plankton that lived in the warm seas that covered much of Europe. Chalk forms one of the most impressive of the Kent landscapes, the North Downs (designated an Area of Outstanding Natural Beauty (AONB)). The southward facing scarp slope provides views across the Weald and is etched with steep sided coombes (dry valleys).
 
