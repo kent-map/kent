@@ -41,6 +41,7 @@
 ### Places
 
 [Broadstairs](/dickens/broadstairs-19th-century)   
+[Canterbury](19c-canterbury)   
 [Chatham Dockyard](19c-chatham-dockyard)  
 [Dover](/dickens/19c-dover)   
 [Folkestone](19c-folkestone)   
