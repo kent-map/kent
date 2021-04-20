@@ -1,4 +1,6 @@
-Ellen woz here
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Ellen woz here" author="Helena Kelly" layout="vtl" 
+banner="/images/banners/19c.jpg">
 
 People often talk about how much places you knew in childhood shrink as you grow up and it’s true, of course they do; wiser, perhaps, more widely travelled, taller, you have a different perspective on things. But the other reason they appear to shrink is, surely, because you did know them, and the past comes crowding in on you; there are buildings still visible to you though they vanished long ago, your former selves jostle for attention at your elbow. If I walk through Rochester now I find twenty of me already there beforehand. There I am in the Vines, standing on one of the trees that blew down in the storm of ’87. There I am, walking in a school crocodile with a ridiculous hat on; again, sloping disconsolately along in my early teens. When I take my son and my nieces to the pink sweetshop on the high street, there’s a little phantom with a wonky fringe standing next to them, looking on longingly. _They’re terrible for your teeth, I tell her. You’ll regret it, when you’re my age._
 
@@ -23,5 +25,3 @@ See Ellen as a baby; see her walking along Rochester High Street with her cousin
 The 1861 census records William Ternan living, widowed, but with some of his children, and a grandchild, in Strood. Strood lies across the river from Rochester, even closer to Dickens’ house at [Gad’s Hill](/dickens/dickens-gads-hill), not more than two miles distant. There is plenty of open country roundabout; easy enough for Ellen, visiting her uncle and cousins, to meet her lover secretly or as if by chance. See her there, striding towards him – no passive muse, she.
 
 Only how she felt, seeing her own memories trapped inside the glass dome of a novel, we have no way of knowing.
-
-Article by Helena Kelly
