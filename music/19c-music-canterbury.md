@@ -23,7 +23,7 @@ The second point relates to the first: these clubs' popularity may be due in no 
 
 The ‘amateur free and easy singing’ of the ‘after evening’ Mr Mount describes probably included more comic songs from the leading lights of the club’s entertainment roster, but it is utterly beyond question that most of the music being enjoyed in these fiercely convivial evenings was the quintessentially participatory genre, the [catch](19c-catch-music). 
 
-Notwithstanding all the comings and goings around the city in this period of about a century, the most important road for serious musicians was probably the one between [Canterbury and London](/dickens/david-copperfield-curated-walk). There are two main sources of evidence for this.
+Notwithstanding all the comings and goings around the city in this period of about a century, the most important road for serious musicians was probably the one between [Canterbury and London](/dickens/david-copperfield-dover-road). There are two main sources of evidence for this.
 The first is the enormous number of newspaper reports of convivial evenings which featured visiting performers from the capital. Indeed, this became a bone of contention for the [Canterbury Catch Club](/music/19c-catch-club) in the latter part of the nineteenth century, as they committed hefty chunks of members’ subscriptions to this aspect of the Club’s evenings. The Minutes for 12 March 1860 record:
 
 >A ‘star’ to be engaged for the last but one night of the season; carried. Proposal that the cost should not exceed £6.6.0. was put; amendment that it should not exceed £5.5.0 was carried.
