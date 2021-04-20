@@ -2,11 +2,11 @@
 <param ve-config title="The Kentish Chalk" author="Peter Vujakovic" layout="vtl" 
 banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
->Ah, God! One sniff of England — / To greet our flesh and blood — / To hear the traffic slurring / Once more through London mud! / Our towns of wasted honour — / Our streets of lost delight! / How stands the old Lord Warden? / Are Dover's cliffs still white?
+_Ah, God! One sniff of England — / To greet our flesh and blood — / To hear the traffic slurring / Once more through London mud! / Our towns of wasted honour — / Our streets of lost delight! / How stands the old Lord Warden? / Are Dover's cliffs still white?_   
 ‘The Broken Men’, Rudyard Kipling (1901)
 
 The magnificent Lord Warden Hotel (now offices) was one of the first sights to greet people landing at Dover’s Admiralty Pier. It stood close by Shakespeare’s Cliff (named for a scene in _King Lear_) and had clear views of the iconic white cliffs and castle to the north. Literary guests included [Dickens]( /dickens/dickens-biography), Thackeray, George Eliot, and M.R. James (born at nearby Goodnestone). 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Shakespeare_Cliff%2C_Dover_-_geograph.org.u_-_1898490.jpg" label="Shakespeare Cliff" attribution="Dover by Colin Smith, CC BY-SA 2.0, via Wikimedia Commons"> 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Shakespeare_Cliff%2C_Dover_-_geograph.org.u_-_1898490.jpg" label="Shakespeare Cliff, Dover" attribution="Colin Smith, CC BY-SA 2.0, via Wikimedia Commons"> 
 
 In his classic essay ‘On a Piece of Chalk’ (_Macmillan's Magazine_, 1868) Darwin’s ‘Bulldog’ Thomas Huxley observed ‘… on the shores of Kent it supplies that long line of white cliffs to which England owes her name of Albion.’ Huxley relates the story of the chalk’s formation and its geological importance in what is one of the most inspiring scientific essays ever written, originally given as a lecture (1868) to the working men of Norwich.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/White_cliffs_of_dover_09_2004.jpg" label="White Cliffs of Dover" attribution="https://www.flickr.com/people/fanny/, CC BY-SA 2.0, via Wikimedia Commons">
