@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="The Kentish Chalk" author="Peter Vujakovic" layout="vtl" 
+<param ve-config title="The Kentish Chalk" author="Prof Peter Vujakovic" layout="vtl" 
 banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
 _Ah, God! One sniff of England — / To greet our flesh and blood — / To hear the traffic slurring / Once more through London mud! / Our towns of wasted honour — / Our streets of lost delight! / How stands the old Lord Warden? / Are Dover's cliffs still white?_   
@@ -19,13 +19,9 @@ For those who know the chalk, this quotation from H E Bates, particularly the fi
 
 The chalk dust permeates numerous literary landscapes, including those of [Dickens](/dickens/dickens-biography), Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and Jocelyn Brooke.
 
-**Article written by:**  Prof Peter Vujakovic
-
 ### Bibliography 
 
-Huxley, Thomas (1868) On a Piece of Chalk, _Macmillan's Magazine_, Collected Essays VIII https://mathcs.clarku.edu/huxley/CE8/Chalk.html
-
-Readman, P. (2018) _Storied Ground: Landscape and the shaping of English National Identity_, Cambridge University Press.
-
-The Dover Historian, https://doverhistorian.com/2013/10/02/lord-warden-hotel-house/
+Huxley, Thomas (1868) On a Piece of Chalk, _Macmillan's Magazine_, Collected Essays VIII https://mathcs.clarku.edu/huxley/CE8/Chalk.html   
+Readman, P. (2018) _Storied Ground: Landscape and the shaping of English National Identity_, Cambridge University Press.   
+The Dover Historian, https://doverhistorian.com/2013/10/02/lord-warden-hotel-house/   
 
