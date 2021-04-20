@@ -5,7 +5,7 @@
     a {color: #800000 !important; font-size: 1.2em;}
 </style>
 
-<param ve-config title="20th Century Kent">
+<param ve-config title="20th Century Kent" banner="/images/banners/North Foreland Lighthouse.jpg">
 
 ### People
 
