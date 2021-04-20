@@ -18,6 +18,7 @@
 [Ford Madox Ford](20c-fordmadoxford-biography)   
 [R. Austin Freeman](20c-freeman-biography)   
 [Victoria Holt](20c-holt-biography)   
+[Walter James, the fourth Lord Northbourne](20c-northbourne-biography)   
 [Derek Jarman](20c-jarman-biography)   
 [Somerset Maugham](20c-maugham-biography)  
 [Donald Maxwell](20c-maxwelld-biography)   
