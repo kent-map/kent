@@ -25,5 +25,6 @@ Perhaps even _Our Mutual Friend_ should be rethought. The Haymens – Ellen’s 
 See Ellen as a baby; see her walking along Rochester High Street with her cousins, clinging onto childhood by her fingertips, fearing what might come. See her mother in Rochester theatre, her sisters dancing. Ellen’s ghosts, everywhere, crowding her, when she returned in adulthood, which it seems very probable that she did.
 
 The 1861 census records William Ternan living, widowed, but with some of his children, and a grandchild, in Strood. Strood lies across the river from Rochester, even closer to Dickens’ house at [Gad’s Hill](/dickens/dickens-gads-hill), not more than two miles distant. There is plenty of open country roundabout; easy enough for Ellen, visiting her uncle and cousins, to meet her lover secretly or as if by chance. See her there, striding towards him – no passive muse, she.
+<param ve-image url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" label="Rochester Bridge, 1828" attribution="Photographed by Astrid Stilma, by kind permission of Patrick Marrin">
 
 Only how she felt, seeing her own memories trapped inside the glass dome of a novel, we have no way of knowing.
