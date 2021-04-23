@@ -1,4 +1,4 @@
-<param ve-config title="20th-century Canterbury: Overview" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919">
+<param ve-config title="20th-Century Canterbury: Boom City" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q361" aliases="Great War">
