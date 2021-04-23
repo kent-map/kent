@@ -66,7 +66,7 @@ Pat Argar has a PhD from Canterbury Christ Church University. Her research inter
 
 - twitter: @SophieBaldock
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/upsidedownsophiebaldock.jpg)
+![](https://dev.visual-essays.app/thumbnail?rotate=180&url=https://raw.githubusercontent.com/kent-map/kent/main/images/sophiebaldock.jpg)
 
 Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive, one of the first hybrid (part-paper, part-digital) literary archives acquired by the Library. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). She grew up in Kent, and in the summer enjoys swimming in the sea along the east Kent coast.  
 
@@ -89,7 +89,7 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 ##
 **Bethia Carter**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Bethia Carter.JPG)
+![](https://dev.visual-essays.app/thumbnail?rotate=270&url=https://raw.githubusercontent.com/kent-map/kent/main/images/Bethia Carter.JPG)
 
 Bethia Carter is currently in her third year studying at Canterbury Christ Church University, for a BA (Hons) degree in English Language and Communication and French. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
 

@@ -1,3 +1,4 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="20th-Century Canterbury: Industrial" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
@@ -20,6 +21,7 @@ The owners of the business, the Williamson family, were great benefactors of the
 
 The motor car industry became a strong market for Canterbury leather, particularly for Rolls Royce cars, Bentleys, Daimlers and Jaguars, found its way into the Houses of Parliament and was used for the famous Mastermind chair. However, complaints about the stink of tannery processes grew exponentially with the expansion of the business and the site. Unloved because of the smells, from 1988 the business tried to mitigate the effects by concentrating on the dressing, softening and drying of hides. When it closed some of the tannery buildings were preserved for the new housing complex. A large warehouse on Stour Street near St Mildred’s church and, connected across the river by the tannery bridge, another building in the main site are successful conversions. With the stink gone the new housing and riverside apartments are attractive prospects. The development also recreates the line of the city wall where it had been destroyed during the 17th-century English Civil War.
 <param ve-map center="Q17529474" zoom="16">
+
 
 The sculptured figure of a cow standing alongside the ring road on the Tannery Field is a sadly symbolic reminder of the tannery. It is constructed of steel rails excavated from the tannery railway which before the war had transported waste to be disposed of in the field.
 
