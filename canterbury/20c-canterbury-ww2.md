@@ -1,4 +1,5 @@
-<param ve-config title="20th-century Canterbury: Overview" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="20th-Century Canterbury: World War II" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q669528" aliases="Baedeker">
