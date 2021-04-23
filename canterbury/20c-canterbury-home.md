@@ -2,7 +2,7 @@
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
-### 20th-century Canterbury mini-essays
+### Essays on 20th-Century Canterbury
 
 This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
 <param ve-map center="Q29303" zoom="15">
