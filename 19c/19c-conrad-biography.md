@@ -8,7 +8,7 @@
 <param data-map primary center="Q866348" zoom="10">
 
 Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century, lived the last decades of his life in Bishopsbourne, a village about six miles south of Canterbury in the Elham valley. Born in 1857 in Berdychiv, Ukraine, to Polish parents of noble birth who protested Russian rule of their homeland, Conrad had a disrupted childhood as his family was persecuted by the Russian authorities. Whilst this meant that he lost the opportunity of regular education, his father, Apollo, taught him at home and shared a love of literature with his son. Unfortunately, at the age of 11, Conrad lost his parents to tuberculosis and the orphan was sent to live with an uncle in Kracow, where he was schooled. 
-<param ve-image url="images/Bishopsbourne Village Hall - memorial plaque to Conrad 3 MJC.jpg" label="Bishopsbourne Village Hall Memorial Plaque © Martin Crowther"> 
+<param ve-image url="images/Bishopsbourne%20Village%20Hall%20-%20memorial%20plaque%20to%20Conrad%203%20MJC.jpg" label="Bishopsbourne Village Hall Memorial Plaque © Martin Crowther"> 
 <param data-map primary center="Q866348" zoom="10">
 
 The young Conrad was bright but lacked enthusiasm for study and began to dream of a career at sea, having been inspired by an account of the search for [Franklin’s](/19c/19c-franklin-biography) ships lost in the endeavour to discover the north-west passage. Despite his apparent lack of enthusiasm, Conrad retained a love of Polish Romantic literature and acquired French and the classical languages whilst in Kracow, and this enabled him to engage with both his first career at sea and then his second as a writer.
