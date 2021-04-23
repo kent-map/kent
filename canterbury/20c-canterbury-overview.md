@@ -1,5 +1,6 @@
-<param ve-config title="20th-century Canterbury: Overview" banner="images/Millennium Banner.jpg" author="Richard Maltby" layout="vtl">
-       
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="20th-Century Canterbury: Overview" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919">
+
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q29265" aliases="Cathedral">
 <param ve-entity eid="Q361" aliases="First World War">
@@ -10,7 +11,7 @@
 <param ve-entity eid="Q8023755" aliases="Wincheap">
 <param ve-entity eid="Q279963" aliases="Sturry Road">
 
-## Overview
+### Overview
 
 The 20th-century map of Canterbury has to combine both the reconstruction of the inner core of the historic city, which was one third destroyed by [World War II](/canterbury/20c-canterbury-ww2) bombing raids, and also the enlargement of the city in response to the expansion of population, education, tourism and [commerce](/Canterbury/20c-Canterbury-commerce) in the latter part of the century.
 <param ve-map center="Q29303" zoom="15">
@@ -29,3 +30,7 @@ It was also in the 20th century that Canterbury’s maps of earlier centuries we
 
 Throughout the 20th century the Cathedral remained conspicuous and prominent as the major icon of Canterbury and most important pole of attraction. The 15th-century Bell Harry Tower was unchallenged as the city’s tallest structure. The Cathedral, as ever, dramatically dominates views wherever it is approached. Floodlit at night the effect is absolutely stunning.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/1920px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" label="Canterbury Cathedral" attribution="Hans Musil, CC-BY-SA 4.0">
+
+***
+
+Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce](/Canterbury/20c-Canterbury-commerce) and [industrial heritage](/Canterbury/20c-Canterbury-industrial), its [retail industry](/Canterbury/20c-Canterbury-retail-store) and [trading estates](/Canterbury/20c-Canterbury-trading-estates), or Canterbury as a [boom city](/Canterbury/20c-Canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport](/Canterbury/20c-Canterbury-transport) infrastructure and the [railway](Canterbury/20c-Canterbury-railway), [planning](/Canterbury/20c-Canterbury-planning) decisions, as well as the significant [impact of the Second World War](/Canterbury/20c-Canterbury-ww2).

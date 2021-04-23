@@ -1,8 +1,9 @@
-<param ve-config title="20th-century Canterbury: Contents" banner="images/Beaney 20C.JPG" author="Richard Maltby" layout="vtl">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="20th-Century Canterbury: Home" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
-## 20th-century Canterbury mini-essays
+### Essays on 20th-Century Canterbury
 
 This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
 <param ve-map center="Q29303" zoom="15">

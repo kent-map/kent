@@ -1,5 +1,6 @@
-<param ve-config title="20th-century Canterbury: Commerce" banner="images/Beaney 20C.JPG" author="Richard Maltby" layout="vtl">
-       
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="20th-Century Canterbury: Commerce" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919">
+
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q29265" aliases="Cathedral">
 <param ve-entity eid="Q1434239" aliases="Watling Street">
@@ -10,26 +11,26 @@
 <param ve-entity eid="Q669528" aliases="Baedeker Raid">
 <param ve-entity eid="51.29202871207598, 1.089396796387833" aliases="Broad Oak road">
 
-## Commerce
+### Commerce
 
 In 1900 Canterbury had few small industries and was primarily a centre for rural commerce, to which the famous Cathedral attracted visitors. Between 1900 and 1950 this characterisation changed very little as the population remained virtually static at 24,000 in 1900 with an increase of just 3.5% to 24,850 in 1947. Well into the 1950s farmers were driving cattle to market, twice weekly, in Upper Bridge Street. A number of Canterbury businesses nonetheless grew from small beginnings in line with the advance of 20th century technology and production.
 <param ve-map center="Q26535561" zoom="15">
 
-### ParkerSteel
+#### ParkerSteel
 
-The growth of John Parker and sons to a multi-million business started in 1904 when John Parker, a devoted churchgoer who had moved from Whitehaven to the Cathedral city, opened his ironmongers shop at 18, The Parade. Parker diversified into stockholding iron to cater for the local farming community, acquiring a yard in Watling Street. Under the direction of the following two Parker family generations the business expanded. In 1970 Parker’s grandson moved [ParkerSteel](https://www.parkersteel.co.uk) to its premises in the Vauxhall Road Industrial Estate. By then the company supplied steel and aluminium products to industries across the south of England. John Parker’s great grandson, Guy Parker, is now a director of the £55,000,000 turnover business employing a staff of 60. 
+The growth of John Parker and sons to a multi-million business started in 1904 when John Parker, a devoted churchgoer who had moved from Whitehaven to the Cathedral city, opened his ironmongers shop at 18, The Parade. Parker diversified into stockholding iron to cater for the local farming community, acquiring a yard in Watling Street. Under the direction of the following two Parker family generations the business expanded. In 1970 Parker’s grandson moved [ParkerSteel](https://www.parkersteel.co.uk) to its premises in the Vauxhall Road Industrial Estate. By then the company supplied steel and aluminium products to industries across the south of England. John Parker’s great grandson, Guy Parker, is now a director of the £55,000,000 turnover business employing a staff of 60.
 <param ve-map center="Q26551400" zoom="15">
 <param ve-map center="Q1434239" zoom="15">
 
-### Barretts
+#### Barretts
 
 [Barretts of Canterbury](https://www.barrettskent.co.uk) (‘values of the past, cars of today’) became the most prominent and successful of Canterbury’s family businesses. In 1902 George R Barrett (1871-1943), a keen cyclist, started selling bicycles from a garage at the west end of St Peter’s Street by the Westgate Towers. In the 117 years which followed, Barretts experienced booms, slumps, fire, bombs and planning blight, as it weathered the events of the 20th century.
 <param ve-map center="Q104815065" zoom="15">
 
-By the First World War GR Barretts had become ‘The West End Garage and Motor Works’, utilising a large garage in the yard to the rear accessed from Pound Lane. George was well regarded for raising charitable funds after the Great War and, elected Mayor of Canterbury in 1927, started the Mayor’s Fund, which was first used to support people made homeless in the floods of that year. In the 1930s, on purchasing adjoining properties, George’s sons, Reg and John, took over a new Radio Shop. Barretts were then retailing and servicing the two most advanced technologies available – the internal combustion engine and radios. 
+By the First World War GR Barretts had become ‘The West End Garage and Motor Works’, utilising a large garage in the yard to the rear accessed from Pound Lane. George was well regarded for raising charitable funds after the Great War and, elected Mayor of Canterbury in 1927, started the Mayor’s Fund, which was first used to support people made homeless in the floods of that year. In the 1930s, on purchasing adjoining properties, George’s sons, Reg and John, took over a new Radio Shop. Barretts were then retailing and servicing the two most advanced technologies available – the internal combustion engine and radios.
 <param ve-map center="Q26551393" zoom="15">
 
-The radio and electrical side of the business became established in Rose Lane, becoming ‘Barretts Sound and Vision’ in the 1980s. In 1998 it became ‘Digital World’ as a superstore at Maynard Road in the Wincheap Industrial estate. 
+The radio and electrical side of the business became established in Rose Lane, becoming ‘Barretts Sound and Vision’ in the 1980s. In 1998 it became ‘Digital World’ as a superstore at Maynard Road in the Wincheap Industrial estate.
 <param ve-map center="51.27770423286278, 1.0804584694047312" zoom="15">
 <param ve-map center="51.27436263002541, 1.0683895656805509" zoom="15">
 
@@ -39,5 +40,9 @@ Following a catastrophic fire in 1937 the premises in St Peter’s Street had to
 The 1950s brought more prosperous times as Barretts became the distributor in East Kent for Rover and Austin cars and car sales took off. To expand car servicing and the works area, Barretts acquired the former Malthouse brewery site, off Stephen’s Road, However, the rebuilding of a permanent showroom at St Peter’s Street was held up for years as a result of the planning controversies over proposed routes for the ring road at the Westgate Towers. In 1980 the new building was finally opened to much praise for its architectural design. A modern car showroom was successfully accommodated within a building which replicated the historic streetscape. The opening happily coincided with the launch of the Austin Mini Metro. By the mid ‘80s Jaguar and Land Rover had taken pride of place. For other dealerships, including BMW and Citroen, Barretts acquired facilities on the Broad Oak road.
 <param ve-map center="51.29202871207598, 1.089396796387833" zoom="15">
 
-On vacating St Peter’s Street in 2019, the 4th generation of the family, Paul and Shaun Barrett, directors since 1984, Barretts finally left the premises which their great grandfather had purchased in 1902. The car business, under the direction of Paul Barrett, now has two centres, in the showrooms on Broad Oak Road site and at Ashford in the Waterbrook Park. Shaun Barrett is today the director of the Digital World and electronic business.
+On vacating St Peter’s Street in 2019, the 4th generation of the family, Paul and Shaun Barrett, directors since 1984, Barretts finally left the premises which their great grandfather had purchased in 1902. The [car business](https://www.barrettskent.co.uk/about-us/history/), under the direction of Paul Barrett, now has two centres, in the showrooms on Broad Oak Road site and at Ashford in the Waterbrook Park. Shaun Barrett is today the director of the Digital World and electronic business.
 <param ve-map center="51.29202871207598, 1.089396796387833" zoom="15">
+
+***
+
+Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or continue exploring Canterbury's economic growth through the essays on Canterbury's [industrial heritage](/Canterbury/20c-Canterbury-industrial), its [retail industry](/Canterbury/20c-Canterbury-retail-store) and [trading estates](/Canterbury/20c-Canterbury-trading-estates), or Canterbury as a [boom city](/Canterbury/20c-Canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport](/Canterbury/20c-Canterbury-transport) infrastructure and the [railway](Canterbury/20c-Canterbury-railway), [planning](/Canterbury/20c-Canterbury-planning) decisions, as well as the significant [impact of the Second World War](/Canterbury/20c-Canterbury-ww2).
