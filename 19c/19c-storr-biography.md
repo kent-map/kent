@@ -17,7 +17,7 @@ Revd Francis Storr (1808-1888) senior was vicar of All Saints’ church Brenchle
 Together father and son wrote anthologies of poetry.
 <param ve-image="https://upload.wikimedia.org/wikipedia/commons/5/58/All_Saints%2C_Brenchley%2C_Kent_-_geograph.org.uk_-_323900.jpg" label="All Saints, Brenchley, Kent"  attribution="John Salmon">
 
-_Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The Death of Horsa’ , which tells the story of the Battle of Aylesford, in 455CE, when Saxon invaders, led by brothers Hengist and Horsa, defeated ‘Great Vortigen’ on “Aylesford’s open plain’ and “Horsa’s death that bloody day, / A noble victory bought’.  The nod to Kent’s early history is, however, just one of the charms of this eclectic and enthusiastic miscellany of writings, compiled for the entertainment of its writers and their readers. The tantalising use of authorial initials, rather than names, presents another riddle besides those printed in its pages.
+_Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The Death of Horsa’ , which tells the story of the Battle of Aylesford, in 455CE, when Saxon invaders, led by brothers Hengist and Horsa, defeated ‘Great Vortigen’ on “Aylesford’s open plain’ and “Horsa’s death that bloody day, / A noble victory bought’.[^ref1]  The nod to Kent’s early history is, however, just one of the charms of this eclectic and enthusiastic miscellany of writings, compiled for the entertainment of its writers and their readers. The tantalising use of authorial initials, rather than names, presents another riddle besides those printed in its pages.
 
 The anthology begins with a poem addressed from ‘F.S., Jun.’ to ‘Mr. Editor’, asking him to ‘Please … excuse / For this number at least my appearance’ because the writer is suffering the after-effects of a ‘soirée’ attended the previous evening with ‘the élite / [o]f Brenchley’, at which ‘Youth, Harmony, Fashion, and Beauty’ prevailed, and the recollection of which might ‘make our fair hostess to blush’.
 
@@ -35,7 +35,7 @@ Or on the cheerless winter’s night,
 In fancy’s eye we fiercely fight   
 Our battle o’er again!   
 
-A handwritten note inside the scanned volume indicates that the ‘little selection of unpublished poems’ was given to Rev. Francis John Stainforth, an Anglican clergyman who ‘owned the largest private library of Anglophone women’s writing collected during the mid-nineteenth century’ in thanks for “the great trouble [he had] been to’ regarding some tickets. The note is signed by J. Knight Jennings and sent from 36 Harrington Square, London on 11 June 1861.  
+A handwritten note inside the scanned volume indicates that the ‘little selection of unpublished poems’ was given to Rev. Francis John Stainforth, an Anglican clergyman who ‘owned the largest private library of Anglophone women’s writing collected during the mid-nineteenth century’ in thanks for “the great trouble [he had] been to’ regarding some tickets. The note is signed by J. Knight Jennings and sent from 36 Harrington Square, London on 11 June 1861.[^ref2]
 
 ‘Enigma’ answer (resolved with the aid of handwritten notations in text): ‘Unanimous’.
 
@@ -48,3 +48,7 @@ Storr, Francis et al, _Minnows from Brenchley Brook_ [Verses, etc., by Francis S
 Storr, Francis et al. _Minnows of Brenchley Brook_, London, Richard Barrett, 1861   
 UK Census, 1861. [Online:](https://ancestry.co.uk) accessed 18/02/21   
 Wikitree Genealogy website. Online: https://www.wikitree.com/wiki/Storr-213 ac-cessed 16/02/21   
+
+[^ref1]: The anthology was edited by Bernard Bigsby - full name Bernard Edward Sulyard Drake Bigsby - who would later move to America, marry, publish a series of seminal texts on the English language and become an eminent philologist, journalist and author. In 1861, however, he was resident with the Storr family at the Vicarage in Brenchley, where the UK Census lists his occupation as Tutor. He was 26 years old, having been born in Derby in 1835, and an Oxford graduate.
+[^ref2]: James Knight Jennings (1813-1892), Oxford graduate, clergyman and author of The Dialect of the West of England, particularly Somersetshire (1869) is listed at this address on both the 1851 and 1861 census returns. His note to Stainforth draws his attention to two poems in particular: “- one by Mrs Frances [sic] Storr the vicars [sic] wife - the other by her little daughter”.  These poems are on pages 19-20 and 14-15 respectively.
+
