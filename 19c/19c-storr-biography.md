@@ -20,8 +20,7 @@ Together father and son wrote anthologies of poetry.
 
 _Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The Death of Horsa’ , which tells the story of the Battle of Aylesford, in 455CE, when Saxon invaders, led by brothers Hengist and Horsa, defeated ‘Great Vortigen’ on “Aylesford’s open plain’ and “Horsa’s death that bloody day, / A noble victory bought’.[^ref1]  The nod to Kent’s early history is, however, just one of the charms of this eclectic and enthusiastic miscellany of writings, compiled for the entertainment of its writers and their readers. The tantalising use of authorial initials, rather than names, presents another riddle besides those printed in its pages.
 
-The anthology begins with a poem addressed from ‘F.S., Jun.’ to ‘Mr. Editor’, asking him to ‘Please … excuse / For this number at least my appearance’ because the writer is suffering the after-effects of a ‘soirée’ attended the previous evening with ‘the élite / [o]f Brenchley’, at which ‘Youth, Harmony, Fashion, and Beauty’ prevailed, and the recollection of which might ‘make our fair hostess to blush’.
-
+The anthology begins with a poem addressed from ‘F.S., Jun.’ to ‘Mr. Editor’, asking him to ‘Please … excuse / For this number at least my appearance’ because the writer is suffering the after-effects of a ‘soirée’ attended the previous evening with ‘the élite / [o]f Brenchley’, at which ‘Youth, Harmony, Fashion, and Beauty’ prevailed, and the recollection of which might ‘make our fair hostess to blush’.   
 ‘F.S.’, or Francis Storr senior, provides the next poem. Entitled ‘Address’, it is a salutary tale of a moth burnt by flying too close to a flame; a warning to ‘the youthful authors … / Intent on fame and glory’ to heed ‘[t]heir sober mentor sage’ lest, like the moth:   
 _‘Your muse in manuscript may bask   
 On desk in album lying;   
