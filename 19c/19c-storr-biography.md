@@ -4,6 +4,7 @@
 <param ve-entity eid="Q793057" aliases="Aylesford">
 
 **Place**: Brenchley, near Tunbridge Wells.   
+         
 _My first is yourself, gentle reader,   
 My second the name of a goat,   
 My third is a great Latin leader.   
@@ -21,11 +22,11 @@ _Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The De
 
 The anthology begins with a poem addressed from ‘F.S., Jun.’ to ‘Mr. Editor’, asking him to ‘Please … excuse / For this number at least my appearance’ because the writer is suffering the after-effects of a ‘soirée’ attended the previous evening with ‘the élite / [o]f Brenchley’, at which ‘Youth, Harmony, Fashion, and Beauty’ prevailed, and the recollection of which might ‘make our fair hostess to blush’.
 
-‘F.S.’, or Francis Storr senior, provides the next poem. Entitled ‘Address’, it is a salutary tale of a moth burnt by flying too close to a flame; a warning to ‘the youthful authors … / Intent on fame and glory’ to heed ‘[t]heir sober mentor sage’ lest, like the moth:
+‘F.S.’, or Francis Storr senior, provides the next poem. Entitled ‘Address’, it is a salutary tale of a moth burnt by flying too close to a flame; a warning to ‘the youthful authors … / Intent on fame and glory’ to heed ‘[t]heir sober mentor sage’ lest, like the moth:   
 ‘Your muse in manuscript may bask   
-	On desk in album lying;   
+On desk in album lying;   
 ’Twill soon, if printed wings it ask,    
-	Be found the flames supplying.’ (p3)   
+Be found the flames supplying.’ (p3)   
 ’Conundrums’, on page 24, asserts that its answers will be ‘in our next’, but it seems that no ‘next’ was ever produced. This indicates again a project pursued purely for amusement - like the sports ‘on the field in front of the Vicarage’, which ‘presented a very gay scene’ and provided ‘a great deal of harmless fun.’  
 
 ‘A Lay of Modern Brenchley’, on pages 8-11, recounts the ‘battle’ of two football teams, one drawn from local men and one from incomers to the village. The latter team is led by no other than ‘Mr. Bigsby” - editor of the anthology - and his team includes: “Thomson, of the Borders’; “Francis Parker - / Now Taffy called was he’ (so, presumably, of Welsh descent); ‘Jerry Leycester - / Of Chester’; ‘Freddy Cross of Suffolk’; and ‘Rose of Buckingham’. In a game where handling the ball was complete-ly acceptable, the village team, under the leadership of ‘William Hayne of Brenchley’ and therefore known as ‘the Haynites’, is defeated but, as the ‘Lay’ concludes:
