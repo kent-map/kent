@@ -1,5 +1,8 @@
 ## Francis Storr the Elder and Younger
 
+Q2197855 aliases="Brenchley"
+Q793057 aliases="Aylesford"
+
 **Place**: Brenchley, near Tunbridge Wells.
 
 My first is yourself, gentle reader,   
