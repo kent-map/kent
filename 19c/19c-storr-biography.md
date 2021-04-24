@@ -45,6 +45,7 @@ Storr, Francis et al, _Minnows from Brenchley Brook_ [Verses, etc., by Francis S
 Storr, Francis et al. _Minnows of Brenchley Brook_, London, Richard Barrett, 1861   
 UK Census, 1861. [Online:](https://ancestry.co.uk) accessed 18/02/21   
 Wikitree Genealogy website. Online: https://www.wikitree.com/wiki/Storr-213 ac-cessed 16/02/21   
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/2/2e/All_Saint%27s_Church%2C_Brenchley_-_geograph.org.uk_-_1274895.jpg" label="All Saint's Church, Brenchley" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 
 [^ref1]: The anthology was edited by Bernard Bigsby - full name Bernard Edward Sulyard Drake Bigsby - who would later move to America, marry, publish a series of seminal texts on the English language and become an eminent philologist, journalist and author. In 1861, however, he was resident with the Storr family at the Vicarage in Brenchley, where the UK Census lists his occupation as Tutor. He was 26 years old, having been born in Derby in 1835, and an Oxford graduate.
 [^ref2]: James Knight Jennings (1813-1892), Oxford graduate, clergyman and author of The Dialect of the West of England, particularly Somersetshire (1869) is listed at this address on both the 1851 and 1861 census returns. His note to Stainforth draws his attention to two poems in particular: “- one by Mrs Frances [sic] Storr the vicars [sic] wife - the other by her little daughter”.  These poems are on pages 19-20 and 14-15 respectively.
