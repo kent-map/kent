@@ -1,7 +1,7 @@
-## Francis Storr the Elder and Younger
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Francis Storr the Elder and Younger" author="Jacqui Stamp" layout="vtl" banner="/images/banners/19c.jpg">
 
-Q2197855 aliases="Brenchley"
-Q793057 aliases="Aylesford"
+<param ve-entity eid="Q2197855" aliases="Brenchley">
+<param ve-entity eid="Q793057" aliases="Aylesford">
 
 **Place**: Brenchley, near Tunbridge Wells.   
 _My first is yourself, gentle reader,   
