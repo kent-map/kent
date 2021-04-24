@@ -11,7 +11,8 @@ My third is a great Latin leader.
 If without one dissentient vote   
 You agree in your answers all round,   
 My whole will be speedily found._   
-‘Conundrums’ - _Anthology of verses and other miscellaneous writings_, 1861.
+‘Conundrums’ - _Anthology of verses and other miscellaneous writings_, 1861.   
+‘Enigma’ answer (resolved with the aid of handwritten notations in text): ‘Unanimous’.
 <param ve-image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Lych_gate%2C_All_Saints%2C_Brenchley._-_geograph.org.uk_-_768719.jpg" label="Lych gate, ALl Saints, Brenchley, Kent" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 
 Revd Francis Storr (1808-1888) senior was vicar of All Saints’ church Brenchley in Kent from c.1854 until his death in 1888, assisted by his son, Revd Charles Storr, from 1876. He married (1) Caroline Storr, née Holland, 1814-1856; (2) Cecilia Grantham Storr, 1816-1896 (widow of Storr’s predecessor as the incumbent of All Saint’s, Brenchley and remembered on her gravestone as ‘wife of Richard Davis’). He had 5 sons, 3 daughters, 3 step-sons and 1 step-daughter. Francis Storr (1839-1919) junior was an author, biographer and translator who married Rose Storr, née Lloyd, in 1872 (Their daughter was Erica Violet Lindsay, née Storr, 1877-1962). Francis Storr junior graduated from Cambridge in 1860/61 and became well-known for his translations of the classics and his articles for the _Dictionary of National Biography_ and _Encyclopaedia Britannica_. 
@@ -37,8 +38,6 @@ In fancy’s eye we fiercely fight
 Our battle o’er again!   
 
 A handwritten note inside the scanned volume indicates that the ‘little selection of unpublished poems’ was given to Rev. Francis John Stainforth, an Anglican clergyman who ‘owned the largest private library of Anglophone women’s writing collected during the mid-nineteenth century’ in thanks for “the great trouble [he had] been to’ regarding some tickets. The note is signed by J. Knight Jennings and sent from 36 Harrington Square, London on 11 June 1861.[^ref2]
-
-‘Enigma’ answer (resolved with the aid of handwritten notations in text): ‘Unanimous’.
 
 ### Bibliography
 
