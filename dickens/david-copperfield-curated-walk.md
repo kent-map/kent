@@ -2,7 +2,6 @@
        title="David Copperfield - a curated walk" 
        banner="images/david-copperfield-banner.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
-       prefix-dickens="http://kent-map.github.io/dickens/entity/"
        layout="vtl">
 
 <!-- Global entities -->
