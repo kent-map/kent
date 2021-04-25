@@ -20,7 +20,7 @@ As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiti
 <param ve-image="https://stor.artstor.org/stor/2204efeb-42d0-40d9-b76e-ce129b2afd50" label="Pierremont House, Ramsgate" attribution="Dr Alyson Hunt">
 <param ve-map center="51.3319, 1.4183" zoom="15">
 
-Later, Victoria, Albert and their two young children stayed at the Duke of Wellington’s residence, [Walmer Castle](/19c/19c-victoria-walmer-castle). The couple also visited wounded military personnel in [Chatham](19c-victoria-fort-pitt).
+Later, Victoria, Albert and their two young children stayed at the Duke of Wellington’s residence, [Walmer Castle](/19c/19c-victoria-walmer-castle). The couple also visited wounded military personnel in Chatham.
 <param ve-image="hhttps://upload.wikimedia.org/wikipedia/commons/3/3a/Walmer_Castle_aerial_view.jpg" label="Walmer Castle, Aerial View" attribution="Lieven Smits, CC BY-SA 3.0, via Wikimedia Commons">
 
 ### Bibliography
