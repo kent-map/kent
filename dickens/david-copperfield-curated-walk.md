@@ -2,7 +2,6 @@
        title="David Copperfield - a curated walk" 
        banner="images/david-copperfield-banner.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
-
        layout="vtl">
 
 <!-- Global entities -->
