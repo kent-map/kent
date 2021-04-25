@@ -9,7 +9,7 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 
 **Occupation / significance** Queen, Empress of India, writer. Her father was the Duke of Kent.   
-**Kent events with dates:** Stayed at Ramsgate in Albion House 29 Sept 1835 – 11th Jan 1836 with her mother and visited Broadstairs, Margate and Canterbury.   
+**Kent events with dates:** Stayed at Ramsgate in Albion House 29 Sept 1835 – 11th Jan 1836 with her mother.   
 Stayed again 30th Sept 1836 – 29 Nov 1836 in West Cliff including overnight stay at an inn in Rochester.    
 Visited Dover with Albert and two children and stays at Walmer Castle (10th Nov 1842 – 3rd Dec 1842).    
 Visited Military Hospital in Chatham 1855 and 1856 (day trips).       
