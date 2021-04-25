@@ -7,6 +7,7 @@
 
 **Events with dates:** 10th Nov 1842 – 3rd Dec 1842   
 _'It is the most delightful sea-residence to be found anywhere, particularly for children. They can be out all day, on the ramparts and platforms quite dry, and the beautiful gardens and wood are enclosed and sheltered from the severe gales of wind.'_ The Duke of Wellington to Sir Robert Peel in a letter written from the castle on 26th October 1842.
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/3/3a/Walmer_Castle_aerial_view.jpg" label="Walmer Castle Aerial View" attribution="Lieven Smits, CC BY-SA 3.0, via Wikimedia Commons">
 
 Queen Victoria, Prince Albert and their two young children stayed at the Duke of Wellington’s residence, [Walmer Castle](https://www.english-heritage.org.uk/visit/places/walmer-castle-and-gardens/), in 1842. She records in her diary:
 _We have settled to go to Walmer Castle on the 10th, for 10 days, as there is still scarlet fever at Brighton. The Duke of Wellington has kindly lent us Walmer. Its situation is charming, & one can see quantites of ships, which one never does at Brighton, & it has the great advantage of being private, but the house is very small, which however, will be rather fine._[^ref1]
