@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Queen Victoria at Walmer Castle" author="Dr Alyson Hunt" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Queen Victoria at Walmer Castle" author="Dr Alyson Hunt and Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q2543161" aliases="Walmer Castle">
 
@@ -16,25 +16,13 @@ The journey had exhausted her and she felt 'very tired and headacy'.
 The next morning was wild and stormy but the Queen enjoyed the views of the sea during breakfast, which she describes as 'splendid, so close, so open, & so many ships to be seen'. H.M.S. _Thunderer_ which had fired a royal salute on her arrival was clearly visible from the window. After breakfast, the royal party took a walk along the beach towards Dover, for about a mile, but the wind was very fierce and they returned to read and write letters. They did not see a soul on the beach and the Queen muses: 'One is out in a moment, so different to Brighton; this is _so_ private.' 
 <param ve-image=" https://upload.wikimedia.org/wikipedia/commons/c/c2/Ebenezer_Landells_-_The_Thunderer%2C_Man-of-War_firing_a_Royal_Salute_on_her_Majesties_arrival_at_Walmer_Castle_-_1842.jpg" label="H.M.S Thunderer firing a Royal Salute on her Majesties arrival at Walmer Castle" attribution="Ebenezer Landells, Public domain, via Wikimedia Commons">
 
-The weather continued to be inclement, and on the next day they waited until the rain cleared before taking a walk along the footpath towards Deal. The Queen found the steeply shelved shingle beach difficult to walk on complaining that it was 'hard work scrambling up the bank again'. She was not impressed with Deal, which she described as 'not attractive, & the country about here decidedly not pretty'.
+The weather continued to be inclement, and on the next day they waited until the rain cleared before taking a walk along the footpath towards Deal. The Queen found the steeply shelved shingle beach difficult to walk on complaining that it was 'hard work scrambling up the bank again'. She was not impressed with Deal, which she described as 'not attractive, & the country about here decidedly not pretty'. Later in the visit, the royal party took a walk on the cliffs, which seems to have suited her more, as she wrote: 'We took a nice long walk along the Cliff & then, over the fields, on to the Downs, from whence one has a beautiful view'.
 
-On the Sunday, the weather was atrocious and 'dreadful pouring rain, with tremendous wind' meant they could not go out. However, on the following day, the weather broke and the royal party took a walk after breakfast.  The children played on the beach and Albert visited the _Thunderer_, whilst Victoria watched.  She records: 'The sea like a lake, & quite blue, & the sun shining on the white sails of the ships was lovely. I counted 80 ships, irrespective of fishing boats'. On the days that followed, passing ships such as the 'Hyacinth' and the 'Southampton' saluted and Victoria meticulously recorded this in her journal, along with the clear skies which afforded her views of France. On one morning she enthsues: 'a splendid sunrise, the sky & sea being all one glorious mass of crimson. The French coast has been clearly seen the last 2 days.'
+On the first Sunday, the weather was atrocious and 'dreadful pouring rain, with tremendous wind' meant they could not go out. However, on the following day, the weather broke and the royal party took a walk after breakfast.  The children played on the beach and Albert visited the _Thunderer_, whilst Victoria watched.  She records: 'The sea like a lake, & quite blue, & the sun shining on the white sails of the ships was lovely. I counted 80 ships, irrespective of fishing boats'. On the days that followed, passing ships such as the 'Hyacinth' and the 'Southampton' saluted and Victoria meticulously recorded this in her journal, along with the clear skies which afforded her views of France. On one morning she enthsues: 'a splendid sunrise, the sky & sea being all one glorious mass of crimson. The French coast has been clearly seen the last 2 days.'
 
-The weather continued to be changeable during their visit, but this was not to be unexpected on the Kent coast in November and the royal party either walked or read, played piano or cards. The Queen took her first 'shower bath with sea water' which she enjoyed very much and the Prince experienced his first fox hunt. Her visit was marred however by a sore throat and the children caught heavy colds.
+The weather continued to be changeable during their visit, but this was not to be unexpected on the Kent coast in November and the royal party either walked or read, played piano or cards. The Queen took her first 'shower bath with sea water' which she enjoyed very much and the Prince experienced his first fox hunt.  He also visited the Safety Beacon, on the 'Goodwin Lands'[sic] but the water was not low enough for him to walk on the sands. On the 24th November, the royal party visited Ramsgate, no doubt revisiting some of Victoria's 
 
-
-
-— We took a nice long walk along the Cliff & then, over the fields, on to the Downs, from whence one has a beautiful view.
-
-
-
-24 Nov At 12 we set off for Ramsgate, with the 2 Maids of Honour, the Equerries riding
-
-
-
-Albert visited the Safety Beacon, on the 'Goodwin Lands' but the water was not low enough for him to walk on the sands. 
-
-At the end of their visit, Victoria writes: 'Felt quite sorry this was our last night here. The bedroom was very small & dreadfully cold & draughty, but still I had formed an affection, for it all, & for the whole house, in spite of being small & cold, & I regret leaving the sea side, though I have suffered there so much'. 
+Her visit was marred however by a sore throat and the children caught heavy colds. At the end of their visit, Victoria writes: 'Felt quite sorry this was our last night here. The bedroom was very small & dreadfully cold & draughty, but still I had formed an affection, for it all, & for the whole house, in spite of being small & cold, & I regret leaving the sea side, though I have suffered there so much'. 
 
 ### Bibliography
 
