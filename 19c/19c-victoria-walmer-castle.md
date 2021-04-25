@@ -2,8 +2,8 @@
 <param ve-config title="Queen Victoria at Walmer Castle" author="Dr Alyson Hunt and Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q2543161" aliases="Walmer Castle">
-Dover
-Ramsgate
+<param ve-entity eid="Q179224"  aliases="Dover">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
 
 **Events with dates:** 10th Nov 1842 – 3rd Dec 1842   
 _'It is the most delightful sea-residence to be found anywhere, particularly for children. They can be out all day, on the ramparts and platforms quite dry, and the beautiful gardens and wood are enclosed and sheltered from the severe gales of wind.'_ The Duke of Wellington to Sir Robert Peel in a letter written from the castle on 26th October 1842.
