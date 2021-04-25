@@ -2,6 +2,8 @@
 <param ve-config title="Queen Victoria at Walmer Castle" author="Dr Alyson Hunt and Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q2543161" aliases="Walmer Castle">
+Dover
+Ramsgate
 
 **Events with dates:** 10th Nov 1842 – 3rd Dec 1842   
 _'It is the most delightful sea-residence to be found anywhere, particularly for children. They can be out all day, on the ramparts and platforms quite dry, and the beautiful gardens and wood are enclosed and sheltered from the severe gales of wind.'_ The Duke of Wellington to Sir Robert Peel in a letter written from the castle on 26th October 1842.
@@ -22,7 +24,7 @@ On the first Sunday, the weather was atrocious and 'dreadful pouring rain, with 
 
 The weather continued to be changeable during their visit, but this was not to be unexpected on the Kent coast in November and the royal party either walked or read, played piano or cards. The Queen took her first 'shower bath with sea water' which she enjoyed very much and the Prince experienced his first fox hunt at Betteshanger.  He also visited the Safety Beacon, on the 'Goodwin Lands'[sic] but the water was not low enough for him to walk on them. 
 
-During their visit, the royal party visited Dover and Ramsgate.  Although the Queen did not record her impressions of Dover in her journal, the report is carefully reported by the _Dover Telegraph and Cinque Ports General Advertiser_. The excitement was palpable as 'Flags were soon seen floating in the breeze at every point; and the Castle Hill and Road to Walmer were quickly thronged with anxious faces of both sexes, and of all ages, each desirous to catch a sight of their Queen, some on foot, and others in private carriages, flies and on horse-back.' The crowd was rewarded with gracious bowing from the Queen and Prince whose carriage took them through the streets of Dover.[^ref4]
+During their visit, the royal party visited [Dover](/19c/19c-dover) and [Ramsgate](/19c/19c-ramsgate).  Although the Queen did not record her impressions of Dover in her journal, the report is carefully reported by the _Dover Telegraph and Cinque Ports General Advertiser_. The excitement was palpable as 'Flags were soon seen floating in the breeze at every point; and the Castle Hill and Road to Walmer were quickly thronged with anxious faces of both sexes, and of all ages, each desirous to catch a sight of their Queen, some on foot, and others in private carriages, flies and on horse-back.' The crowd was rewarded with gracious bowing from the Queen and Prince whose carriage took them through the streets of Dover.[^ref4]
 
 Despite the wonderful seclusion and bracing sea air at Walmer, the Queen's holiday was marred by a sore throat and neuralgia and the children caught heavy colds. At the end of their visit, she writes: 'Felt quite sorry this was our last night here. The bedroom was very small & dreadfully cold & draughty, but still I had formed an affection, for it all, and for the whole house, in spite of being small & cold, and I regret leaving the sea side, though I have suffered there so much'. 
 
