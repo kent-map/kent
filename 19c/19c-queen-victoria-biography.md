@@ -24,7 +24,7 @@ As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiti
 <param ve-map center="51.3972, 0.5278" zoom="15">
 <param ve-map center="51.1227, 1.3077" zoom="15">
 
-Later, Victoria, Albert and their two young children stayed at the Duke of Wellington’s residence, Walmer Castle. The couple also visited wounded military personnel in Chatham.
+Later, Victoria, Albert and their two young children stayed at the Duke of Wellington’s residence, [Walmer Castle](/19c/19c-victoria-walmer-castle). The couple also visited wounded military personnel in Chatham.
 
 ### Bibliography
 
