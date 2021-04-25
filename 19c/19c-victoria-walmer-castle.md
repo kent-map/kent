@@ -31,8 +31,10 @@ The weather continued to be changeable during their visit, but this was not to b
 <param ve-image="https://upload.wikimedia.org/wikipedia/commons/f/f7/A_draught_of_the_Goodwin_Sands_Pl.XXII_P169_RMG_A8031-D.tiff" label="A draught of the Goodwin Sands" attribution="Unknown author, Public domain, via Wikimedia Commons, National Maritime Museum, Greenwich, London">
 
 During their visit, the royal party visited [Dover](/19c/19c-dover) and [Ramsgate](/19c/19c-ramsgate).  Although the Queen did not record her impressions of Dover in her journal, the report is carefully reported by the _Dover Telegraph and Cinque Ports General Advertiser_. The excitement was palpable as 'Flags were soon seen floating in the breeze at every point; and the Castle Hill and Road to Walmer were quickly thronged with anxious faces of both sexes, and of all ages, each desirous to catch a sight of their Queen, some on foot, and others in private carriages, flies and on horse-back.' The crowd was rewarded with gracious bowing from the Queen and Prince whose carriage took them through the streets of Dover.[^ref4]
+<param ve-image url="/dickens/images/Snargate St Dover 1830.jpg" label="Snargate St Dover c.1830" attribution="Drawn by G.Shepherd">
 
 Despite the wonderful seclusion and bracing sea air at Walmer, the Queen's holiday was marred by a sore throat and neuralgia and the children caught heavy colds. At the end of their visit, she writes: 'Felt quite sorry this was our last night here. The bedroom was very small & dreadfully cold & draughty, but still I had formed an affection, for it all, and for the whole house, in spite of being small & cold, and I regret leaving the sea side, though I have suffered there so much'. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Walmer_Castle_-_central_corridor.jpg" label="Walmer Castle central corridor" attribution="Ester Wetherveld https://www.flickr.com/photos/westher/, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons">
 
 ### Bibliography
 
