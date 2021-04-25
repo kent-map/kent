@@ -27,4 +27,5 @@ Later, Victoria, Albert and their two young children stayed at the Duke of Welli
 
 Journals at http://www.queenvictoriasjournals.org/home.do    
 The Letters of Queen Victoria (published 1907) https://archive.org/details/lettersofqueenvi01victuoft/page/n6    
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg" label="Ramsgate Sands" attribution="William Powell Frith, Public domain, via Wikimedia Commons">
  
