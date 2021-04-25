@@ -8,8 +8,6 @@
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q179224" aliases="Dover">
 
-Places and coordinates: Ramsgate 51.3319, 1.4183. Chatham 51.3972, 0.5278. Dover 51.1227, 1.3077.   
-
 **Occupation / significance** Queen, Empress of India, writer. Father was Duke of Kent.   
 **Kent events with dates:** Stayed at Ramsgate in Albion House 29 Sept 1835 – 11th Jan 1836 with her mother and visited Broadstairs, Margate and Canterbury.   
 Stayed again 30th Sept 1836 – 29 Nov 1836 in West Cliff including overnight stay at an inn in Rochester.    
@@ -25,6 +23,7 @@ As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiti
 <param ve-map center="51.1227, 1.3077" zoom="15">
 
 Later, Victoria, Albert and their two young children stayed at the Duke of Wellington’s residence, [Walmer Castle](/19c/19c-victoria-walmer-castle). The couple also visited wounded military personnel in [Chatham](19c-victoria-fort-pitt).
+<param ve-map center="51.3972, 0.5278" zoom="15">
 
 ### Bibliography
 
