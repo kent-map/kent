@@ -2,10 +2,11 @@
 </a> <param ve-config title="Queen Victoria 1819-1901" author="Alyson Hunt" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
-
-
-Journals at http://www.queenvictoriasjournals.org/home.do 
-The Letters of Queen Victoria (published 1907) https://archive.org/details/lettersofqueenvi01victuoft/page/n6 
+<param ve-entity eid="Q2543161" aliases="Walmer Castle">
+<param ve-entity eid="Q729006" aliases="Chatham">
+<param ve-entity eid="Q922739" aliases="Broadstairs">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q179224" aliases="Dover">
 
 **B(M)D** Born 24 May 1819. Married Francis Albert Augustus Charles Emmanuel 10 Feb 1840. Died 22 Jan 1901.
 **Occupation / significance** Queen, Empress of India, writer. Father was Duke of Kent.
@@ -14,10 +15,12 @@ Places and coordinates: Ramsgate 51.3319, 1.4183. Chatham 51.3972, 0.5278. Dover
 **Publication(s)** She wrote a detailed diary throughout her life of which 141 volumes survive, numbering 43,765 pages.
 
 
-Shared keywords Broadstairs, Ramsgate, Dover, Chatham, Canterbury, Walmer Castle, Crimean War, pier, childhood, holiday, illness, Queen Victoria
+
 
 As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiting the town in 1823 at the age of four. She particularly enjoyed walks along the pier and watching the ships in the harbour. Later, Victoria, Albert and their two young children stayed at the Duke of Wellington’s residence, Walmer Castle. The couple also visited wounded military personnel in Chatham.
 
+### Bibliography
 
-
+Journals at http://www.queenvictoriasjournals.org/home.do    
+The Letters of Queen Victoria (published 1907) https://archive.org/details/lettersofqueenvi01victuoft/page/n6    
  
