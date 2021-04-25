@@ -20,13 +20,16 @@ The weather continued to be inclement, and on the next day they waited until the
 
 On the first Sunday, the weather was atrocious and 'dreadful pouring rain, with tremendous wind' meant they could not go out. However, on the following day, the weather broke and the royal party took a walk after breakfast.  The children played on the beach and Albert visited the _Thunderer_, whilst Victoria watched.  She records: 'The sea like a lake, & quite blue, & the sun shining on the white sails of the ships was lovely. I counted 80 ships, irrespective of fishing boats'. On the days that followed, passing ships such as the 'Hyacinth' and the 'Southampton' saluted and Victoria meticulously recorded this in her journal, along with the clear skies which afforded her views of France. On one morning she enthuses: 'a splendid sunrise, the sky & sea being all one glorious mass of crimson. The French coast has been clearly seen the last 2 days.'
 
-The weather continued to be changeable during their visit, but this was not to be unexpected on the Kent coast in November and the royal party either walked or read, played piano or cards. The Queen took her first 'shower bath with sea water' which she enjoyed very much and the Prince experienced his first fox hunt.  He also visited the Safety Beacon, on the 'Goodwin Lands'[sic] but the water was not low enough for him to walk on them. On the 24th November, the royal party visited Ramsgate.
+The weather continued to be changeable during their visit, but this was not to be unexpected on the Kent coast in November and the royal party either walked or read, played piano or cards. The Queen took her first 'shower bath with sea water' which she enjoyed very much and the Prince experienced his first fox hunt at Betteshanger.  He also visited the Safety Beacon, on the 'Goodwin Lands'[sic] but the water was not low enough for him to walk on them. 
 
-Despite the wonderful seclusion and bracing sea air, the Queen's visit was marred by a sore throat and neuralgia and the children caught heavy colds. At the end of their visit, she writes: 'Felt quite sorry this was our last night here. The bedroom was very small & dreadfully cold & draughty, but still I had formed an affection, for it all, & for the whole house, in spite of being small & cold, & I regret leaving the sea side, though I have suffered there so much'. 
+During their visit, the royal party visited Dover and Ramsgate.  Although the Queen did not record her impressions of Dover in her journal, the report is carefully reported by the _Dover Telegraph and Cinque Ports General Advertiser_. The excitement was palpable as 'Flags were soon seen floating in the breeze at every point; and the Castle Hill and Road to Walmer ere quickly thronged with anxious faces of both sexes, and of all ages, each desirous to catch a sight of their Queen, some on foot, and others in private carriages, flies and on horse-back.' The crowd were rewarded with gracious bowing from the Queen and Prince whose carriage took them through the streets of Dover.[^ref2]
+
+Despite the wonderful seclusion and bracing sea air at Walmer, the Queen's holiday was marred by a sore throat and neuralgia and the children caught heavy colds. At the end of their visit, she writes: 'Felt quite sorry this was our last night here. The bedroom was very small & dreadfully cold & draughty, but still I had formed an affection, for it all, & for the whole house, in spite of being small & cold, & I regret leaving the sea side, though I have suffered there so much'. 
 
 ### Bibliography
 
 [from the Letters of Queen Victoria, Vol 1, ed Arthur Christopher Benson and Viscount Esher, online at Project Gutenberg]
 
-[^ref1]: Journal Entry : Tuesday 1st November 1842
+[^ref1]: Journal Entry : Tuesday 1st November 1842 http://www.queenvictoriasjournals.org/   
+[^ref2]: _Dover Telegraph and Cinque Ports General Advertiser_ - Saturday 19 November 1842
  
