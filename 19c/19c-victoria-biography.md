@@ -8,7 +8,7 @@
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q179224" aliases="Dover">
 
-**Occupation / significance** Queen, Empress of India, writer. Father was Duke of Kent.   
+**Occupation / significance** Queen, Empress of India, writer. Her father was the Duke of Kent.   
 **Kent events with dates:** Stayed at Ramsgate in Albion House 29 Sept 1835 – 11th Jan 1836 with her mother and visited Broadstairs, Margate and Canterbury.   
 Stayed again 30th Sept 1836 – 29 Nov 1836 in West Cliff including overnight stay at an inn in Rochester.    
 Visited Dover with Albert and two children and stays at Walmer Castle (10th Nov 1842 – 3rd Dec 1842).    
@@ -19,11 +19,8 @@ As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiti
 <param ve-image="https://upload.wikimedia.org/wikipedia/commons/e/ea/Queen_Victoria_-_Princess_Victoria_in_1836.png" label="Princess Victoria in 1836" attribution="Lytton StracheyArtist F. Winterhalter, Public domain, via Wikimedia Commons">
 <param ve-map center="51.3319, 1.4183" zoom="15">
 
-<param ve-map center="51.3972, 0.5278" zoom="15">
-<param ve-map center="51.1227, 1.3077" zoom="15">
-
 Later, Victoria, Albert and their two young children stayed at the Duke of Wellington’s residence, [Walmer Castle](/19c/19c-victoria-walmer-castle). The couple also visited wounded military personnel in [Chatham](19c-victoria-fort-pitt).
-<param ve-map center="51.3972, 0.5278" zoom="15">
+<param ve-image="hhttps://upload.wikimedia.org/wikipedia/commons/3/3a/Walmer_Castle_aerial_view.jpg" label="Walmer Castle, Aerial View" attribution="Lieven Smits, CC BY-SA 3.0, via Wikimedia Commons">
 
 ### Bibliography
 
