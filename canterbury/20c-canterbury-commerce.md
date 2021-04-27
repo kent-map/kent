@@ -11,6 +11,7 @@
 <param ve-entity eid="Q669528" aliases="Baedeker Raid">
 <param ve-entity eid="Q26535561" aliases="Upper Bridge Street">
 <param ve-entity eid="Q1012481" aliases="Whitehaven">
+<param ve-entity eid="Q8023755" aliases="Wincheap">
 
 ### Commerce
 
@@ -33,8 +34,8 @@ By the First World War GR Barretts had become ‘The West End Garage and Motor W
 <param ve-map center="Q26551393" zoom="15">
 
 The radio and electrical side of the business became established in Rose Lane, becoming ‘Barretts Sound and Vision’ in the 1980s. In 1998 it became ‘Digital World’ as a superstore at Maynard Road in the Wincheap Industrial estate.
-<param ve-map center="51.27770423286278, 1.0804584694047312" zoom="15">
-<param ve-map center="51.27436263002541, 1.0683895656805509" zoom="15">
+<param ve-image url="https://stor.artstor.org/stor/5dd13fa2-03ce-46d5-bd42-34901758643d" label="Wincheap Industrial Estate" attribution="Edward Crowther, by permission">
+<param ve-map center="Q8023755" zoom="15">
 
 Following a catastrophic fire in 1937 the premises in St Peter’s Street had to be rebuilt, but then the [Second World War](/canterbury/20c-canterbury-ww2) came to Barretts in 1940. To help a fund-raising project Barretts put a Messerschmidt 109, which had crash landed intact, on display for three weeks. The aircraft was then put in store to await disposal. On 14th October a German raider dropped bombs on the street. A bomb crashed through the garage roof, destroyed two buses and blew up the ME109. Barretts was not damaged in the Baedeker Raid of 1st June 1942. But it was bombed again in one of the last Luftwaffe strikes of the war. On 22nd January 1944 Barretts was totally destroyed by a single high explosive bomb.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Bundesarchiv_Bild_101I-662-6659-37%2C_Flugzeug_Messerschmitt_Me_109.jpg" label="Messerschmidt 109" attribution="Bundesarchiv, Bild 101I-662-6659-37 / Hebenstreit / CC-BY-SA 3.0">
