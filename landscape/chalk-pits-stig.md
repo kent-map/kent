@@ -1,4 +1,4 @@
-## Chalk pits: Stig of the Dump
+## Chalk pits, Ash and 'Stig of the Dump'
 
 The downland of Kent is pocked with small abandoned chalk pits. The chalk was converted to ‘lime’ and used to improve agricultural soils on clay. Lime burning was probably introduced during the Roman period, when lime was originally used in mortar and as a stabiliser for mud floors and render.
 
