@@ -49,10 +49,8 @@ At least, sort of. The ‘garrison-and-dockyard town’ on the route of the [Dov
 Chatham is scarcely ever mentioned in his letters, even those which refer to his childhood. It’s not mentioned once in A Child’s History, even when he describes the Dutch sailing up the Medway and burning the fleet at anchor there. In one apparently semi-autobiographical essay in his Uncommercial Traveller series he touches on his childhood ambition to own the house at [Gads Hill](/dickens/dickens-gads-hill), but the tale turns out to be either a ghost story or a daydream. In another he presents his ‘boyhood’s home’ as Dullborough, ‘a country town’, with Chatham’s railway station and Rochester’s High Street, bearing vanishingly little resemblance to the diverse, highly militarized dock-town-cum-small-cathedral-city it was in reality.
 <param ve-map center="51.254291, 0.876473" zoom="10">
 
-
 And in reality, and in spite of his psychological ties to the marsh country, there are reasons that [Dickens](/dickens/dickens-biography) might sometimes have been inclined to be vague when writing about it. The scandal which, in 1822, enveloped his father’s workplace still trails clouds of suspicion. We might wonder whether John Dickens was unaffected by the suicide of his boss, to whom he seems to have owed money; whether he can really have been unaware of the vast peculations taking place in the office where he worked with three other men, especially given that his own father-in-law had been convicted, in absentia, of the same crime.  Ellen Ternan’s local family connections may have produced the same desire for concealment we see in some of his other dealings with her.
 <param ve-map center="51.254291, 0.876473" zoom="10">
-
 
 The Guildhall Museum in Rochester is apparently planning a new exhibition, ‘The Making of Mr. Dickens’.  I wonder how permanent – and how exhaustive – it will prove, whether it will succeed in pinning [Dickens](/dickens/dickens-biography)  down here or whether, yet again, he will vanish into the marsh mists. 
 
