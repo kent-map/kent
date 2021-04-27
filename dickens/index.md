@@ -63,7 +63,7 @@ Rochester is proud to celebrate its Dickensian connections, and the most fascina
 ##
 **[Dickens, A Tale of Two Cities and France](tale-two-cities)**
 
-- author Bethia Carter
+- author: Bethia Carter
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://www.gutenberg.org/files/98/98-h/images/0414.jpg)
 
@@ -75,3 +75,5 @@ Kent acted as a conduit for Dicken's many visits to France with the Dover Mail a
 - author: Helena Kelly
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac)
+
+Ellen as a resident of Rochester, adds a whole other layer of links and memories, opens up a new set of possible interpretations for the novels Dickens wrote during their relationship.
