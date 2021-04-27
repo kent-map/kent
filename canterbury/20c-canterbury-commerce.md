@@ -9,7 +9,8 @@
 <param ve-entity eid="Q20089350" aliases="Mayor of Canterbury">
 <param ve-entity eid="Q155639" aliases="Messerschmidt 109">
 <param ve-entity eid="Q669528" aliases="Baedeker Raid">
-<param ve-entity eid="51.29202871207598, 1.089396796387833" aliases="Broad Oak road">
+<param ve-entity eid="Q26535561" aliases="Upper Bridge Street">
+<param ve-entity eid="Q1012481" aliases="Whitehaven">
 
 ### Commerce
 
@@ -39,14 +40,15 @@ Following a catastrophic fire in 1937 the premises in St Peter’s Street had to
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Bundesarchiv_Bild_101I-662-6659-37%2C_Flugzeug_Messerschmitt_Me_109.jpg" label="Messerschmidt 109" attribution="Bundesarchiv, Bild 101I-662-6659-37 / Hebenstreit / CC-BY-SA 3.0">
 
 The 1950s brought more prosperous times as Barretts became the distributor in East Kent for Rover and Austin cars and car sales took off. To expand car servicing and the works area, Barretts acquired the former Malthouse brewery site, off Stephen’s Road, However, the rebuilding of a permanent showroom at St Peter’s Street was held up for years as a result of the planning controversies over proposed routes for the ring road at the Westgate Towers. In 1980 the new building was finally opened to much praise for its architectural design. A modern car showroom was successfully accommodated within a building which replicated the historic streetscape. The opening happily coincided with the launch of the Austin Mini Metro. By the mid ‘80s Jaguar and Land Rover had taken pride of place. For other dealerships, including BMW and Citroen, Barretts acquired facilities on the Broad Oak road.
+<param ve-image url="https://stor.artstor.org/stor/5f170802-922a-4ff3-9636-011d3bc59c7e" label="Former Barretts showroom on St Peter's Street" attribution="Michelle Crowther, by permission">
 <param ve-map center="51.29202871207598, 1.089396796387833" zoom="15">
 
 On vacating St Peter’s Street in 2019, the 4th generation of the family, Paul and Shaun Barrett, directors since 1984, Barretts finally left the premises which their great grandfather had purchased in 1902. The [car business](https://www.barrettskent.co.uk/about-us/history/), under the direction of Paul Barrett, now has two centres, in the showrooms on Broad Oak Road site and at Ashford in the Waterbrook Park. Shaun Barrett is today the director of the Digital World and electronic business.
+<param ve-image url="https://stor.artstor.org/stor/62c0d182-6f60-4916-a824-c82f77e63c3a" label="Former Barretts showroom, now being renovated" attribution="Michelle Crowther, by permission">
 <param ve-image url="https://stor.artstor.org/stor/8acd68ee-34f3-4208-8d83-69407ebfe847" label="Site of former Barretts forecourt" attribution="Michelle Crowther, by permission">
 <param ve-map center="51.29202871207598, 1.089396796387833" zoom="15">
 
 ***
 
 Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or continue exploring Canterbury's economic growth through the essays on Canterbury's [industrial heritage](/Canterbury/20c-Canterbury-industrial), its [retail industry](/Canterbury/20c-Canterbury-retail-store) and [trading estates](/Canterbury/20c-Canterbury-trading-estates), or Canterbury as a [boom city](/Canterbury/20c-Canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport](/Canterbury/20c-Canterbury-transport) infrastructure and the [railway](Canterbury/20c-Canterbury-railway), [planning](/Canterbury/20c-Canterbury-planning) decisions, as well as the significant [impact of the Second World War](/Canterbury/20c-Canterbury-ww2).
-<param ve-image url="https://stor.artstor.org/stor/0f2de866-06f5-4ffa-a17b-bdf59b8003f2" label="Canterbury Cathedral"> 
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/1557px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" label="Canterbury Cathedral" attribution="Hans Musil, CC BY-SA 4.0"> 
