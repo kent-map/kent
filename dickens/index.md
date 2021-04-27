@@ -67,7 +67,7 @@ Rochester is proud to celebrate its Dickensian connections, and the most fascina
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://www.gutenberg.org/files/98/98-h/images/0414.jpg)
 
-Kent acted as a conduit for Dicken's many visits to France with the Dover Mail and its perilous journey described in several of his novels, including _A Tale of Two Cities_.
+Kent acted as a conduit for Dickens's many visits to France with the Dover Mail and its perilous journey described in several of his novels, including _A Tale of Two Cities_.
 
 ##
 **[Ellen woz here](/19c/19c-ternan-biography)**
