@@ -14,6 +14,7 @@
 ### Commerce
 
 In 1900 Canterbury had few small industries and was primarily a centre for rural commerce, to which the famous Cathedral attracted visitors. Between 1900 and 1950 this characterisation changed very little as the population remained virtually static at 24,000 in 1900 with an increase of just 3.5% to 24,850 in 1947. Well into the 1950s farmers were driving cattle to market, twice weekly, in Upper Bridge Street. A number of Canterbury businesses nonetheless grew from small beginnings in line with the advance of 20th century technology and production.
+<param ve-image url="https://stor.artstor.org/stor/5129a00d-b3c8-46f1-b40c-fe241d7d0479" label="Cattle market at Canterbury around 1900" attribution="">
 <param ve-map center="Q26535561" zoom="15">
 
 #### ParkerSteel
@@ -41,8 +42,11 @@ The 1950s brought more prosperous times as Barretts became the distributor in Ea
 <param ve-map center="51.29202871207598, 1.089396796387833" zoom="15">
 
 On vacating St Peter’s Street in 2019, the 4th generation of the family, Paul and Shaun Barrett, directors since 1984, Barretts finally left the premises which their great grandfather had purchased in 1902. The [car business](https://www.barrettskent.co.uk/about-us/history/), under the direction of Paul Barrett, now has two centres, in the showrooms on Broad Oak Road site and at Ashford in the Waterbrook Park. Shaun Barrett is today the director of the Digital World and electronic business.
+<param ve-image url="https://stor.artstor.org/stor/8acd68ee-34f3-4208-8d83-69407ebfe847" label="Site of former Barretts forecourt" attribution="Michelle Crowther, by permission">
 <param ve-map center="51.29202871207598, 1.089396796387833" zoom="15">
 
 ***
 
 Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or continue exploring Canterbury's economic growth through the essays on Canterbury's [industrial heritage](/Canterbury/20c-Canterbury-industrial), its [retail industry](/Canterbury/20c-Canterbury-retail-store) and [trading estates](/Canterbury/20c-Canterbury-trading-estates), or Canterbury as a [boom city](/Canterbury/20c-Canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport](/Canterbury/20c-Canterbury-transport) infrastructure and the [railway](Canterbury/20c-Canterbury-railway), [planning](/Canterbury/20c-Canterbury-planning) decisions, as well as the significant [impact of the Second World War](/Canterbury/20c-Canterbury-ww2).
+<param ve-image url="https://stor.artstor.org/stor/0f2de866-06f5-4ffa-a17b-bdf59b8003f2" label="Canterbury Cathedral"> 
+
