@@ -16,9 +16,11 @@ After the [war](/canterbury/20c-canterbury-ww2) fierce controversy raged over pl
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Dr._Charles_Holden%2C_architect%2C_1946_%28crop%29.jpg" label="Charles Holden, 1946" attribution="Photographer unknown, public domain">
 
 However, this meant clearing more old buildings, widening narrow streets and reorganising public spaces, with the general application of reinforced concrete. Holden’s scheme was opposed by an alliance of residents and business owners who formed the Canterbury Citizens' Defence Association (CCDA). Victory for the CCDA anti-planners in the municipal elections of November 1945 meant that no coherent scheme was carried through.
+<param ve-image url="https://stor.artstor.org/stor/de8f1c7f-cf4d-46ce-bf61-6513e8cd047a" label="The Holden Plan" attribution="Paul Crampton, by permission">
 
 A compromise plan of 1948 removed the ring road to outside the city walls, where later as a dual carriageway it was built but never completed as a full circuit. Some parts of the Holden plan which were realised can be seen, for instance in the transformation of Rose lane from a narrow lane to a broad boulevard which Holden intended to be the central section of his “Civic Way”. As no plan was fully implemented, Canterbury has been left as it is found today, a mix of partially implemented plans. Since local government reorganisation in 1974, greater sensitivity has been shown, one excellent result being the pedestrianisation of the city centre.
 <param ve-image url="images/Canterbury High Street.jpg" label="High Street" attribution="Martin Crowther">
+<param ve-map center="51.2775389648421, 1.0804745626367283" zoom="15">
 
 #### The building and rebuilding of the bombed city centre
 
@@ -32,6 +34,7 @@ The new Longmarket, comprising shops and a first-floor terrace courtyard, succes
 <param ve-map center="Q104815065" zoom="15">
 
 The Whitefriars, formerly the site of an Augustinian friary and later the Simon Langton Grammar Schools, though criticised for being oversized, is a model commercial centre of its kind. The bus and coach hub serves well where it was built on the only site in the city centre immediately adjacent to the primary retail development. A well concealed multi-storey car park replaced the 1960s monstrosity, built in the aptly named “brutalist” style. The Whitefriars incorporates residential apartments and has successfully created a new public square where the outline of archaeological excavations is etched into the paving.
+<param ve-image url="https://stor.artstor.org/stor/dfa23143-29ed-4551-b01f-7a93dfd04724" label="Simon Langtons" attribution="">
 <param ve-map center="Q17064998" zoom="15">
 
 #### Smaller scale developments in former bomb sites.
@@ -45,3 +48,4 @@ St Dunstan’s Street is one of the finest streets in Canterbury. For centuries 
 ***
 
 Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce](/Canterbury/20c-Canterbury-commerce) and [industrial heritage](/Canterbury/20c-Canterbury-industrial), its [retail industry](/Canterbury/20c-Canterbury-retail-store) and [trading estates](/Canterbury/20c-Canterbury-trading-estates), or Canterbury as a [boom city](/Canterbury/20c-Canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport](/Canterbury/20c-Canterbury-transport) infrastructure and the [railway](Canterbury/20c-Canterbury-railway), as well as the significant [impact of the Second World War](/Canterbury/20c-Canterbury-ww2).
+<param ve-image url="https://stor.artstor.org/stor/0f2de866-06f5-4ffa-a17b-bdf59b8003f2" label="Canterbury Cathedral">
