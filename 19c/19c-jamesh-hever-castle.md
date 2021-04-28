@@ -8,10 +8,9 @@
 <param ve-entity eid="Q1000717" aliases="Tewkesbury">
 <param ve-entity eid="Q1020800" aliases="Rye">
 
-**Hever Castle** 1895-1907
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/04/Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg" label="Cox-Jnr-98093 - Hever Castle from the Moat - circa 1850.jpg" attribution="David Cox Jr., Public domain, via Wikimedia Commons">
-
+**Hever Castle** 1895-1907   
 By which famous Henry was Hever Castle put on the map? 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/04/Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg" label="Cox-Jnr-98093 - Hever Castle from the Moat - circa 1850.jpg" attribution="David Cox Jr., Public domain, via Wikimedia Commons">
 
 In 1876, when armchair tourists could very enjoyably ensconce themselves in _Old English Homes: A Summer’s Sketch-Book_, by the photographer and essayist Stephen Thompson, there was only one possible answer to that question:
 <param ve-map primary center="Q1132683" zoom="10"> 
