@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="Sheila Kaye-Smith: Welcome to Delmonden" author="Dr Pat Argar" layout="vtl" banner=" https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
+<param ve-config title="Sheila Kaye-Smith: Welcome to Delmonden" author="Dr Pat Argar" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
 <param ve-entity eid="Q1889928" aliases="Newenden">
 <param ve-entity eid="Q1506209” aliases= “River Rother”>
