@@ -1,19 +1,14 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Henry James (1863-1916)" author="Dr Peter Merchant" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/David_Cox_Jnr_-_Cox-Jnr-98091_-_Hever_Castle_-_circa_1850.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Henry James (1863-1916)" author="Dr Peter Merchant" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/David_Cox_Jnr_-_Cox-Jnr-98091_-_Hever_Castle_-_circa_1850.jpg">
 
 <param ve-entity eid="Q1132683" aliases="Hever Castle">
-<param ve-entity eid="Q97" aliases="Atlantic">
-<param ve-entity eid="Q1441598" aliases="Osterley Park">
-<param ve-entity eid="Q19813" aliases="Hatfield House">
-<param ve-entity eid="Q514914" aliases="Blenheim">
-<param ve-entity eid="Q1000717" aliases="Tewkesbury">
-<param ve-entity eid="Q1020800" aliases="Rye">
+
 
 **Hever Castle** 1895-1907   
-By which famous Henry was Hever Castle put on the map? 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/04/Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg" label="Cox-Jnr-98093 - Hever Castle from the Moat - circa 1850.jpg" attribution="David Cox Jr., Public domain, via Wikimedia Commons">
-
+By which famous Henry was Hever Castle put on the map?    
 In 1876, when armchair tourists could very enjoyably ensconce themselves in _Old English Homes: A Summer’s Sketch-Book_, by the photographer and essayist Stephen Thompson, there was only one possible answer to that question:
-<param ve-map primary center="Q1132683" zoom="10"> 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/04/Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg" label="Cox-Jnr-98093 - Hever Castle from the Moat - circa 1850.jpg" attribution="David Cox Jr., Public domain, via Wikimedia Commons">
+<param ve-map center="Q1132683" zoom="15"> 
 
 “Hever Castle, as every one knows, … was the birthplace of Anne Boleyn, wife of Henry VIII., the abode in which she passed her girlhood, and her residence during the years of courtship preceding that fatal marriage.” 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/Anne_boleyn.jpg" label="Anne boleyn.jpg" attribution="National Portrait Gallery, Public domain, via Wikimedia Commons">
@@ -25,8 +20,7 @@ The vignette into which Thompson’s chapter on Hever dissolves could not be mor
 Thompson would not live to see a second Henry, who when Old English Homes came out was not yet settled in Britain, lay the basis for an alternative answer. Henry James (1843–1916), not a monarch but to his fellow writers a genuinely Masterly defender of the faith, strode into the courtyard at Hever on an autumn day in 1890, accompanied by Isabella Stewart Gardner. He stored the memory of that visit until he was ready to turn it to literary account by offering a view of the old English home, noted and moated, which was very different from Stephen Thompson’s.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Zorn%2C_Anders_-_Isabella_Stewart_Gardner_in_Venice_-_1894.jpg" label="Zorn, Anders - Isabella Stewart Gardner in Venice - 1894.jpg" attribution="Anders Zorn, Public domain, via Wikimedia Commons">
 
-The opportunity came in the form of a storyline idea which first occurred to James at the end of 1892 as a challenge to the stereotyping of American incomers as unable to understand English heritage except in terms of plunder and profit. He would make an American rather than an English character into a paradoxical embodiment of the values “of attachment to the past, of romance, of history, continuity and conservatism”. 
-
+The opportunity came in the form of a storyline idea which first occurred to James at the end of 1892 as a challenge to the stereotyping of American incomers as unable to understand English heritage except in terms of plunder and profit. He would make an American rather than an English character into a paradoxical embodiment of the values “of attachment to the past, of romance, of history, continuity and conservatism”.   
 He decided, as he refined his idea, that he would do so by centring the plot upon a prize piece of historic real estate saved for the nation by a beneficent and munificent intervention from across the Atlantic which “repairs … redeems … rescues and restores” (Notebooks, 6 February 1895). He would emphasise the redemptive nature of the intervention by calling the deliverer Mrs Gracedew.
 <param ve-map primary center="Q97" zoom="10">
 
@@ -39,13 +33,11 @@ In writing these works James is generally thought to have had Osterley Park, and
 <param ve-map primary center="Q1000717" zoom="10">
 <param ve-map primary center="Q1132683" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/77/A_Garden_In_Osterley_Park_-_London._%2836959321775%29.jpg" label="A Garden In Osterley Park - London. (36959321775).jpg" attribution="Jim Linwood from London, CC BY 2.0, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hatfield_House.jpg" label="Hatfield House.jpg" attribution=" Allan Engelhardt, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3b/The_Battle_of_Blenheim.jpg" label="The Battle of Blenheim.jpg" attribution="J. M. Jopling, Public domain, via Wikimedia Commons">
 
 James could hardly help seeing a good deal of Mrs Gracedew in William Waldorf Astor. Astor was also a figure in whom James saw a lot of himself, and with whom Van Wyck Brooks had explicitly compared him. In the same year, 1899, that brought Astor British citizenship, James had purchased (having previously rented) a historic property near the Kent-Sussex border: Lamb House in Rye. It is no wonder, as in an extensive rebuilding programme of his own James set about turning the short story that was previously a play back into drama again, that the fictional Covering End and the Boleyns’ Hever Castle came increasingly to coalesce.
 <param ve-map primary center="Q1020800" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/William_Waldorf_Astor.jpg" label="William Waldorf Astor.jpg" attribution="Bain News Service, publisher, Public domain, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/84/Lamb_House_Rye_%284910233302%29.jpg" label="Lamb House Rye (4910233302).jpg" attribution="Tony Hisgett from Birmingham, UK, CC BY 2.0, via Wikimedia Commons">
 
 ### Bibliography 
 Ditchfield, P. H. and George Clinch. _Memorials of Old Kent._ London: Bemrose, 1907.   
