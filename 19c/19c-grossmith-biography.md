@@ -1,5 +1,5 @@
-/kent-map/kent/main/19c/19c-grossmith-biography
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="George Grossmith (1847-1912)" author="Professor Carolyn Oulton" layout="vtl" banner=" https://upload.wikimedia.org/wikipedia/commons/2/2d/Weedon-and-George-Grossmith.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="George Grossmith (1847-1912)" author="Professor Carolyn Oulton" layout="vtl" banner=" https://upload.wikimedia.org/wikipedia/commons/2/2d/Weedon-and-George-Grossmith.jpg">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
