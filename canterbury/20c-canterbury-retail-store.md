@@ -26,7 +26,6 @@ The Canterbury Guildhall had stood on its site at the junction of Palace Street 
 <param ve-map center="Q17641331" zoom="15">
 
 [Commerce](/canterbury/20c-canterbury-commerce) has been combined with conservation. Conquest House, in Palace Street, a building of outstanding interest with an 11th-century stone cellar, reputedly where the four knights armed themselves before seeking out [Thomas Becket](https://en.wikipedia.org/wiki/Thomas_Becket), and a splendid, timber-framed 13th-century gallery, has been an antiques and upholstery shop.
-
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Canterbury_-_Conquest_House.jpg" label="Conquest House" attribution="Whn64, CC BY-SA 3.0">
 
 Zizzi’s Restaurant or Cogan House, in St Peter’s Street near the Westgate Towers, is one of the greatest architectural delights in Canterbury. Concealed behind the 19th-century red brick façade is an aisled timber-framed hall dating from 1160. The stone walls are over 2 feet thick. Cogan House is one of very few stone houses in England surviving from Norman times, unique in Kent and the only urban example of its early medieval type. Its wood panelling, staircases, and stuccoed plaster ceilings are of superb 16th-century craftsmanship, while the first floor preserves the 12th-century ambience. Why is this building featured in a 20th-century map of Canterbury? Because it was only in the late-20th century that conservation grants were available and as a restaurant Cogan House was open to customers to enjoy.
@@ -39,4 +38,4 @@ Does internet shopping and the closures accelerated by coronavirus signal the en
 ***
 
 Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce](/Canterbury/20c-Canterbury-commerce) and [industrial heritage](/Canterbury/20c-Canterbury-industrial), its [trading estates](/Canterbury/20c-Canterbury-trading-estates), or Canterbury as a [boom city](/Canterbury/20c-Canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport](/Canterbury/20c-Canterbury-transport) infrastructure and the [railway](Canterbury/20c-Canterbury-railway), [planning](/Canterbury/20c-Canterbury-planning) decisions, as well as the significant [impact of the Second World War](/Canterbury/20c-Canterbury-ww2).
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/1557px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" label="Canterbury Cathedral" attribution="Hans Musil, CC BY-SA 4.0"> 
