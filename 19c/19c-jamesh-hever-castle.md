@@ -18,8 +18,7 @@ In 1876, when armchair tourists could very enjoyably ensconce themselves in _Old
 “Hever Castle, as every one knows, … was the birthplace of Anne Boleyn, wife of Henry VIII., the abode in which she passed her girlhood, and her residence during the years of courtship preceding that fatal marriage.” 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/Anne_boleyn.jpg" label="Anne boleyn.jpg" attribution="National Portrait Gallery, Public domain, via Wikimedia Commons">
 
-The vignette into which Thompson’s chapter on Hever dissolves could not be more positive about putting the king at the scene: 
-
+The vignette into which Thompson’s chapter on Hever dissolves could not be more positive about putting the king at the scene:   
 “Henry strides into the court-yard, Anne is in her lover’s arms; while the Royal Standard shakes out its heavy folds above the little tower of Hever.”
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg" label="After Hans Holbein the Younger - Portrait of Henry VIII - Google Art Project.jpg" attribution="After Hans Holbein, Public domain, via Wikimedia Commons">
 
@@ -40,7 +39,7 @@ In writing these works James is generally thought to have had Osterley Park, and
 <param ve-map primary center="Q1000717" zoom="10">
 <param ve-map primary center="Q1132683" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/77/A_Garden_In_Osterley_Park_-_London._%2836959321775%29.jpg" label="A Garden In Osterley Park - London. (36959321775).jpg" attribution="Jim Linwood from London, CC BY 2.0, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hatfield_House.jpg" label=" Hatfield House.jpg" attribution=" Allan Engelhardt, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hatfield_House.jpg" label="Hatfield House.jpg" attribution=" Allan Engelhardt, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3b/The_Battle_of_Blenheim.jpg" label="The Battle of Blenheim.jpg" attribution="J. M. Jopling, Public domain, via Wikimedia Commons">
 
 James could hardly help seeing a good deal of Mrs Gracedew in William Waldorf Astor. Astor was also a figure in whom James saw a lot of himself, and with whom Van Wyck Brooks had explicitly compared him. In the same year, 1899, that brought Astor British citizenship, James had purchased (having previously rented) a historic property near the Kent-Sussex border: Lamb House in Rye. It is no wonder, as in an extensive rebuilding programme of his own James set about turning the short story that was previously a play back into drama again, that the fictional Covering End and the Boleyns’ Hever Castle came increasingly to coalesce.
