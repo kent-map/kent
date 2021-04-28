@@ -11,22 +11,19 @@ Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, [M
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Mary_Elizabeth_Maxwell_%28n%C3%A9e_Braddon%29_by_William_Powell_Frith.jpg" label="Mary Elizabeth Maxwell (née Braddon) by William Powell Frith.jpg" attribution="National Portrait Gallery, Public domain, via Wikimedia Commons">
 
 The family lived in Richmond, but in 1878 they were in Broadstairs ‘for a week or so with children who have been ill, & who are in need of strengthening breezes.’  Like the parents of [Emily Shore](/19c/19c-shore-biography) almost half a century earlier, Braddon was clearly persuaded of the benefits of sea air as a restorative for invalids.
-<param ve-image url="/19c/images/braddon family.jpg" label="![M.E. Braddon and family ©ICVWW " attribution=""> 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Broadstairs-beach.jpg" label="Broadstairs-beach.jpg" attribution="Le Deluge, CC BY-SA 3.0, via Wikimedia Commons">
-<param ve-map center="Q922739" zoom="10">
+<param ve-image url="/19c/images/braddon family.jpg" label="M.E. Braddon and family" attribution="©ICVWW "> 
+<param ve-map center="Q922739" zoom="15">
 
 But in her novels Thanet is referenced as a somewhat unadventurous holiday location. In the 1880 _Barbara_ a mother and daughter enjoy ‘a delightful change of air at quiet little Broadstairs, with alternations of gaiety at [Margate](/dickens/19c-margate) and [Ramsgate](/dickens/19c-ramsgate)’. 
-_Gerard, or, The World, The Flesh and The Devil_ (1891) whimsically suggests that a character who spends the summer in ‘some Bad in Bohemia’, identified only as ‘a Bad with a crackjaw name’, never gets further than the Thanet coast:
+_Gerard, or, The World, The Flesh and The Devil_ (1891) whimsically suggests that a character who spends the summer in ‘some Bad in Bohemia’, identified only as ‘a Bad with a crackjaw name’, never gets further than the Thanet coast:   
+_I believe he invents a name and a Bad every summer, and then goes quietly and lives up the country between Broadstairs and Birchington, and basks all day upon some solitary stretch of sand, or on the edge of some lonely cliff, where the North sea breezes blow above the rippling whiteness of the wheat; and lies in the sunshine, and plans fresh impostures for the winter season._
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Broadstairs-beach.jpg" label="Broadstairs-beach.jpg" attribution="Le Deluge, CC BY-SA 3.0, via Wikimedia Commons">
+<param ve-map center="Q5458845" zoom="15">
 
->I believe he invents a name and a Bad every summer, and then goes quietly and lives up the country between Broadstairs and Birchington, and basks all day upon some solitary stretch of sand, or on the edge of some lonely cliff, where the North sea breezes blow above the rippling whiteness of the wheat; and lies in the sunshine, and plans fresh impostures for the winter season.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Minster-in-Thanet%2C_Kent_02.jpg" label="Minster-in-Thanet, Kent 02.jpg" attribution="Simon Burchell, CC BY-SA 4.0, via Wikimedia Commons">
-<param ve-map center="Q5458845" zoom="10">
-
-[_All Along the River_](http://www.gutenberg.org/files/57405/57405-h/57405-h.htm) (1893) invokes [Broadstairs](/dickens/broadstairs-19th-century) only as a foil to the sublime Italian landscape. 
-
->Do you see the height of those cliffs, terrace above terrace, hill above hill? Why, that level road at the very bottom is the top of a taller cliff than those I used to think so appalling at Broadstairs and Ramsgate!
+[_All Along the River_](http://www.gutenberg.org/files/57405/57405-h/57405-h.htm) (1893) invokes [Broadstairs](/dickens/broadstairs-19th-century) only as a foil to the sublime Italian landscape.   
+_Do you see the height of those cliffs, terrace above terrace, hill above hill? Why, that level road at the very bottom is the top of a taller cliff than those I used to think so appalling at Broadstairs and Ramsgate!_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b7/North_Cliff%2C_near_Broadstairs_-_geograph.org.uk_-_185248.jpg" label="North Cliff, near Broadstairs - geograph.org.uk - 185248.jpg" attribution="Hywel Williams / North Cliff, near Broadstairs">
-<param ve-map center="Q84423629" zoom="10">
+<param ve-map center="Q84423629" zoom="15">
 
 ### Bibliography
 
