@@ -32,19 +32,11 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She die
 
 ### Bibliography
 
-'Low-Heeled Shoes And No Cosmetics'. [_Tunbridge Wells Advertiser_, 13 March 1915]. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/THE_WOMENS_VOLUNTEER_RESERVE_ON_THE_HOME_FRONT%2C_1914-1918_Q107999.jpg" label="THE WOMENS VOLUNTEER RESERVE ON THE HOME FRONT, 1914-1918 Q107999.jpg" attribution="British official photographer, Public domain, via Wikimedia Commons">
-
-Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman._ Ohio: Ohio University Press, 2004.
-
-Sarah Grand Archive. International Centre for Victorian Women Writers, Canterbury Christ Church University.
+'Low-Heeled Shoes And No Cosmetics'. [_Tunbridge Wells Advertiser_, 13 March 1915]. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.   
+Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman._ Ohio: Ohio University Press, 2004.   
+Sarah Grand Archive. International Centre for Victorian Women Writers, Canterbury Christ Church University.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/THE_WOMENS_VOLUNTEER_RESERVE_ON_THE_HOME_FRONT%2C_1914-1918_Q107999.jpg" label="THE WOMENS VOLUNTEER RESERVE ON THE HOME FRONT, 1914-1918 Q107999.jpg" attribution="British official photographer, Public domain, via Wikimedia Commons">   
 
 ### References
 
 [^ref1]: Sutton-Rampseck 11.
-
-
-
-The heavenly twins book, picture
-Not many pictures of tunbridge wells 
-Unsure about where lock hospitals are
