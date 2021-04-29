@@ -5,7 +5,9 @@
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 
-<param title="Charles Dickens" eid="Q5686">
+<param ve-entity eid="Q5686" aliases="Charles Dickens">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+
 
 **Event** Holidays 1852, 1855.   
 **Places:** Pavilion Hotel / 3 Albion Villas, Folkestone.   
@@ -18,7 +20,6 @@ Dickens stayed in [Folkestone](/19c/19c-folkestone) on several occasions, celebr
 
 Whilst he is more often associated with [Broadstairs](/dickens/broadstairs), Dickens wrote warmly about [Folkestone](/19c/19c-folkestone) in a number of letters from the 1840s. In 1849 he wrote to John Leech suggesting a trip to see the town, telling him that ‘I know the place itself to be a good one, and most accessible’[^ref2]. In a letter to Angela Burdett Coutts in 1852 Dickens told her that he was going to [Folkestone](/19c/19c-folkestone) for a few days to get away from letters of introduction (a reminder that the Victorian precursor of social media involved physically meeting total strangers based on nothing more than a ‘friend suggestion’). ‘I feel as if I had been thinking my brain into a sort of cabbage net’[^ref3]. 
 
-
 In the summer of 1855 he was staying at 3 Albion Villas on the Leas, with what was then an uninterrupted view of the harbour, working on the opening chapters of _Little Dorrit_ He wrote in ‘Out of Town’ that ‘At low water, we are a heap of mud, with an empty channel in it…  At that time, all the stranded fishing boats turn on their sides, as if they were dead marine monsters’. It is tempting to speculate that the harbour may also have suggested the opening scene of the novel, with its description of a hot day in Marseilles with ‘no wind to make a ripple on the foul water within the harbour, or on the beautiful sea without’ (_Little Dorrit_ 1).
 <param ve-image primary url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" label="3, Albion Villas" attribution="Martin Crowther>
 
@@ -30,6 +31,7 @@ In October 1855 Dickens read _A Christmas Carol_ to the local Harveian Literary 
 Writing in 1914 Charles G. Harper commented that ‘the people who made holiday at [Folkestone](19c-folkestone) in his time were frankly people who “went to the seaside” and descended to the beach, and sometimes even paddled in the sea, and did the like undignified things.’  Now, he complained, visitors to the Leas had nothing to do with the working class trippers who stayed in lodgings near the beach. ‘The very bands understand to a nicety the differences of ideals and outlook, and render Grieg, Wagner and classical music above, while to the Lower Road audiences they discourse strains of a simpler and more popular kind’[^ref6].
 
 In 1865 Dickens was travelling on the Folkestone tidal train when he was involved in the rail disaster at [Staplehurst](/dickens/dickens-staplehurst).
+<param ve-image primary url="/images/Staplehurst.jpg" label="Staplehurst" attribution="©The British Library Board (F60118-30 Images Online)">
 
 ## Bibliography
 
