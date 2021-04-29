@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="M. E. Braddon (1835-1915)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/96/Miss_Braddon_memorial.jpg">
+<param ve-config title="M. E. Braddon (1835-1915)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q1752642" aliases="Thanet">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
