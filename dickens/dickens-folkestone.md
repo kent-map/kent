@@ -31,8 +31,6 @@ Writing in 1914 Charles G. Harper commented that ‘the people who made holiday 
 
 In 1865 Dickens was travelling on the Folkestone tidal train when he was involved in the rail disaster at [Staplehurst](/dickens/dickens-staplehurst).
 
-**Article written by:** Ken Moffat and Carolyn Oulton
-
 ## Bibliography
 
 Dickens, Charles. _David Copperfield_. Oxford: Oxford World’s Classics, 1998.   
