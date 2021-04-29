@@ -1,14 +1,17 @@
-Elizabeth Carter (1717–1806) Peter Merchant
-Deal
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+
+<param ve-config title="Elizabeth Carter (1717–1806)" author="Peter Merchant" layout="vtl" 
+banner="/images/banners/18c.jpg">
+
+<param ve-entity eid="Q1011096" aliases="Deal">
 
 Long before Victoria was allegedly not amused, Elizabeth Carter projected a similar frostiness in the face of frivolity. According to her nephew, ‘she went once to a puppet-show at Deal, with some respectable friends, and Punch was uncommonly dull and serious, who was usually more jocose than delicate. “Why Punch,” says the showman, ‘what makes you so stupid.”—"I can’t talk my own talk,” answers Punch, “the famous Miss Carter is here.”’ 
 
 That day in Deal, Carter clearly enjoyed the show a lot less than she enjoyed her reputation as the epitome of earnestness. Yet the risk to the puppets was nothing like the threat posed by Zeal-of-the-Land Busy to the puppets of Jonson’s _Bartholomew Fair_, and with the amusements of others Carter was by no means a militant killjoy. It was only with herself that she was strict. The strictness seems to have come, moreover, from an intense thirst for the joy that she was keeping down:
-All-pow’rful Grace, exert thy gentle Sway,
-And teach my rebel Passions to obey:
-Lest lurking Folly with insidious Art
-Regain my volatile inconstant Heart. 
-
+_All-pow’rful Grace, exert thy gentle Sway,   
+And teach my rebel Passions to obey:   
+Lest lurking Folly with insidious Art   
+Regain my volatile inconstant Heart._    
 Blake’s adage that those who restrain desire do so because theirs is weak enough to be restrained does not appear to apply here.
 
 The fierce discipline to which Carter subjected herself is abundantly demonstrated by the arrangements she put in place to ensure that the crack of dawn would always find her already poring over her books. A letter of 1746 which is quoted by her nephew describes a device that might challenge comparison with Heath Robinson’s trumpet alarm clock: ‘There is a bell placed at the head of my bed, and to this is fastened a packthread and a piece of lead, which…is conveyed through a crevasse of my window into a garden below, pertaining to the Sexton, who gets up between four and five, and pulls the said packthread with as much heart and good will as if he was ringing my knell.’  It was thanks to this extraordinary dedication (and ingenuity) that Carter was able to complete, for publication in 1758, an acclaimed translation of ‘All the Works of Epictetus Which are Now Extant.’ It was as big a project, arguably, as Samuel Johnson’s _Dictionary of the English Language_ (with which it overlapped).
@@ -21,14 +24,14 @@ Two hundred years ago, compiling a ‘Series of Writers in English Poetry, Nativ
 
 All this points, for Freeman, to a life of stoic self-denial. Carter followed the precepts of the thinker, Epictetus, whose works she laboured to translate; and to that end she for a long while put poetry aside. One of the very few women writers admitted into Freeman’s pantheon is in the final analysis admirable for having thought and written like a man, and having chosen ‘not the soft and flower paths of literature, but the rough and thorny road of learning.’  Still, ‘should it ever again become a question whether the intellect of women be inferior to that of men, English ladies may triumphantly appeal to the illustrious name of Elizabeth Carter.’  Virginia Woolf would duly invoke it in 1929: ‘[Jane Austen](/19c/19c-austen-biography) should have laid a wreath upon the grave of Fanny Burney, and George Eliot done homage to the robust shade of Eliza Carter—the valiant old woman who tied a bell to her bedstead in order that she might wake early and learn Greek.’ 
 
-[^ref1]:  Montagu Pennington (ed.), _Memoirs of the Life of Mrs. Elizabeth Carter, with a New Edition of Her Poems_(London: F. C. and J. Rivington, 1807), 24.
-[^ref2]:  [Elizabeth Carter,] _Poems on Several Occasions_, 2e (London: John Rivington, 1766), 33.
-[^ref3]:  Pennington, 90-91.
-[^ref4]:  Pennington, 302, 303.
-[^ref5]:  _The Works of Samuel Johnson_, LL.D., ed. Sir John Hawkins, 11 vols (London, 1787), 11: 205.
-[^ref6]:  R. Freeman (ed.), _Kentish Poets_, 2 vols (Canterbury: G. Wood, 1821), 2: 235ff.
-[^ref7]:  Freeman, 240.
-[^ref8]:  Freeman, 236.
-[^ref9]:  Freeman, 240.
-[^ref10]: ibid.
-[^ref11]: Virginia Woolf, _A Room of One’s Own_ (London: Hogarth Press, 1929), 98.
+[^ref1]:  Montagu Pennington (ed.), _Memoirs of the Life of Mrs. Elizabeth Carter, with a New Edition of Her Poems_(London: F. C. and J. Rivington, 1807), 24.   
+[^ref2]:  [Elizabeth Carter,] _Poems on Several Occasions_, 2e (London: John Rivington, 1766), 33.   
+[^ref3]:  Pennington, 90-91.   
+[^ref4]:  Pennington, 302, 303.   
+[^ref5]:  _The Works of Samuel Johnson_, LL.D., ed. Sir John Hawkins, 11 vols (London, 1787), 11: 205.   
+[^ref6]:  R. Freeman (ed.), _Kentish Poets_, 2 vols (Canterbury: G. Wood, 1821), 2: 235ff.   
+[^ref7]:  Freeman, 240.   
+[^ref8]:  Freeman, 236.   
+[^ref9]:  Freeman, 240.   
+[^ref10]: ibid.   
+[^ref11]: Virginia Woolf, _A Room of One’s Own_ (London: Hogarth Press, 1929), 98.   
