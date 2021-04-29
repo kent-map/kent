@@ -13,7 +13,7 @@
 **Places:** Pavilion Hotel / 3 Albion Villas, Folkestone.   
 **Publication/s** Out of Town’, _Household Words_, 1855.   
 _‘At low water, we are a heap of mud, with an empty channel in it, where a couple of men in big boots always shovel and scoop, with what exact object I am unable to say. At that time, all the stranded fishing boats turn on their sides, as if they were dead marine monsters; the colliers and other shipping stick disconsolate in the mud; the steamers look as if their white chimneys would never turn again; the green sea-slime and weed upon the rough stones of obsolete high tides never more to flow; the flagstaff-halyards droop; the very little wooden lighthouse shrinks in the idle glare of the sun.’_ - ‘Out of Town’, _Household Words_, 29 September 1855[^ref1].  
-<param ve-image url="https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84" label="The Harbour, Folkestone, looking east by George Barnard" attribution= "By kind permission of Martin Crowther">
+<param ve-image url="https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84" label="The Harbour, Folkestone, looking east by George Barnard" attribution="By kind permission of Martin Crowther">
 
 Dickens stayed in [Folkestone](/19c/19c-folkestone) on several occasions, celebrating the Pavilion Hotel in ‘Out of Town’ in 1855, at the same time as beginning _Little Dorrit_ during a more prolonged stay at 3 Albion Villas on the Leas. The harbour may have provided inspiration for the famous opening passage of the novel, with its description of a hot day in Marseilles with ‘no wind to make a ripple on the foul water within the harbour, or on the beautiful sea without’ (_Little Dorrit_ 1). 
 <param ve-image url="https://stor.artstor.org/stor/d306de51-dc71-4369-9416-2306342424d1" label="Blue Plaque" attribution"Martin Crowther">
@@ -31,7 +31,7 @@ Writing in 1914 Charles G. Harper commented that ‘the people who made holiday 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Folkestone%2C_The_Leas%2C_Bandstand.jpg" label="Bandstand on the Leas, Folkestone" attribution="Fredfolkestonelondon, CC BY-SA 4.0, via Wikimedia Commons">
 
 In 1865 Dickens was travelling on the Folkestone tidal train when he was involved in the rail disaster at [Staplehurst](/dickens/dickens-staplehurst).
-<param ve-image url="/images/Staplehurst.jpg" label="Staplehurst" attribution="©The British Library Board - F60118-30 Images Online">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg" label="Illustrated London News" attribution="Public domain, via Wikimedia Commons">
 
 ## Bibliography
 
