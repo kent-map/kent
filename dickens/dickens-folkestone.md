@@ -34,23 +34,16 @@ In 1865 Dickens was travelling on the Folkestone tidal train when he was involve
 
 ## Bibliography
 
-Dickens, Charles. _David Copperfield_. Oxford: Oxford World’s Classics, 1998. 
-
---. _Little Dorrit_. Oxford: Oxford World’s Classics, 2008.
-
---. --. ‘Out of Town’. http://www.djo.org.uk/household-words/volume-xii/page-193.html Accessed 31 July 2018.
-
---. ‘Pavilionstone’. With an introduction by Percy Fitzgerald. London: the Frederick Hotels Ltd, 1902.
-
-Harper, Charles G. _The Kentish Coast_. [London: Chapman & Hall, 1914]. Classic Reprints, no details.
-
-Storey, Graham and K. J. Fielding, eds. ''The Pilgrim Edition: The Letters of Charles Dickens.'' Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.
-
-Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.
-
-Storey, Graham, Kathleen Tillotson and Angus Easson, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 7: 1853-1855_. Oxford: Clarendon Press, 1993.
-
-Unattributed. ‘The Rise of the Pavilion Hotel’. _Holbein Visitors’ List and Folkestone Journal._   29 April 1891. 13, 15.albio.
+Dickens, Charles. _David Copperfield_. Oxford: Oxford World’s Classics, 1998.   
+--. _Little Dorrit_. Oxford: Oxford World’s Classics, 2008.   
+--. --. ‘Out of Town’. http://www.djo.org.uk/household-words/volume-xii/page-193.html Accessed 31 July 2018.   
+--. ‘Pavilionstone’. With an introduction by Percy Fitzgerald. London: the Frederick Hotels Ltd, 1902.   
+Harper, Charles G. _The Kentish Coast_. [London: Chapman & Hall, 1914]. Classic Reprints, no details.   
+Storey, Graham and K. J. Fielding, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.   
+Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.   
+Storey, Graham, Kathleen Tillotson and Angus Easson, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 7: 1853-1855_. Oxford: Clarendon Press, 1993.   
+Unattributed. ‘The Rise of the Pavilion Hotel’. _Holbein Visitors’ List and Folkestone Journal._   29 April 1891. 13, 15.albio.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" label="The Leas, Folkestone" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 
 ### References
 
