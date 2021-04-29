@@ -20,6 +20,7 @@
 [Victoria Holt](20c-holt-biography)   
 [Walter James, the fourth Lord Northbourne](20c-northbourne-biography)   
 [Derek Jarman](20c-jarman-biography)   
+[Sheila Kaye-Smith](20c-kaye-smith-biography)   
 [Somerset Maugham](20c-maugham-biography)  
 [Donald Maxwell](20c-maxwelld-biography)   
 [Mary L. Pendered](20c-pendered-biography)   
