@@ -17,7 +17,6 @@ In _Shepherd’s In Sackcloth_ the village ‘lay between the church and the Rec
 
 Whatever the shortcomings of Kaye-Smith’s geographical locating of her village, her descriptions of and evocation of place are faultless. On a summer evening ‘the marshes were yellow with sunshine and buttercups, and on the hills the young woods lifted torches of green fire to the sky. The white of the hawthorn and the wild cherry flashed from their borders, and from the hedges … of the road that crossed the Rother at Delmonden bridge’. A grassy track is bordered by a ‘milky way of chervil and cow-parsley’, and swallows swooped ‘over the low, yellow fields’.  In March rain the hills of Kent become ‘leaden-grey, with iron-black woods and hedges’, in winter ‘frost snapped the leaves from green to red … blackened the roses’ and ‘Fogs hung salty and half frozen above the Rother’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8c/River_Rother_near_Newenden_Bridge_-_geograph.org.uk_-_1875440.jpg" label="River Rother near Newenden Bridge" attribution="David Anstiss, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-map center="Q1506209" zoom="15">
 
 ### Bibliography 
 Kaye-Smith, Sheila. Shepherds in Sackcloth. London: Cassell and Company Ltd, 1933.   
