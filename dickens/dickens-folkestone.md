@@ -22,7 +22,7 @@ Whilst he is more often associated with [Broadstairs](/dickens/broadstairs), Dic
 <param ve-image url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" label="3, Albion Villas" attribution="Martin Crowther">
 
 His affection for the town is obvious from his _Household Words_ article ‘Out of Town’, in which he renames [Folkestone](/19c/19c-folkestone) ‘Pavilionstone’ in honour of Mr Breach, the proprietor of the Pavilion Hotel where he had stayed on previous visits and which had improved considerably since its 1808 origins as a shipbuilder’s hut on the edge of the harbour wall. Breach had been ‘so extraordinarily kind to me when I was ill’ that when he proposed buying 500 copies of the number, Dickens arranged to make a present of them [^ref4]. In 1902 the hotel chain would reissue the article as a limited edition with a beautiful cover illustration, as ‘Pavilionstone’.
-<param ve-image url="/images/smaller pavilionstone.JPG" label="Pavilionstone" attribution="Published by the Frederick Hotels Group, 1902">
+<param ve-image url="images/smaller pavilionstone.JPG" label="Pavilionstone" attribution="Published by the Frederick Hotels Group, 1902">
 
 In October 1855 Dickens read _A Christmas Carol_ to the local Harveian Literary Insistute, insisting that the working men be given a lower ticket price. He must have enjoyed writing to his sub-editor in London a few weeks before this, ‘Scrooge is delighted to hear that Bob Cratchit is enjoying his holiday’[^ref5].
 <param ve-image url="https://stor.artstor.org/stor/2e5c30ff-5b87-40d2-9bae-52961b0a1a51" label="A Christmas Carol">
