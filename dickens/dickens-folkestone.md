@@ -11,7 +11,7 @@
 **Places:** Pavilion Hotel / 3 Albion Villas, Folkestone.   
 **Publication/s** Out of Town’, _Household Words_, 1855.   
 _‘At low water, we are a heap of mud, with an empty channel in it, where a couple of men in big boots always shovel and scoop, with what exact object I am unable to say. At that time, all the stranded fishing boats turn on their sides, as if they were dead marine monsters; the colliers and other shipping stick disconsolate in the mud; the steamers look as if their white chimneys would never turn again; the green sea-slime and weed upon the rough stones of obsolete high tides never more to flow; the flagstaff-halyards droop; the very little wooden lighthouse shrinks in the idle glare of the sun.’_ - ‘Out of Town’, _Household Words_, 29 September 1855[^ref1]. 
-
+<param ve-image primary url="https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84" label="The Harbour, Folkestone, looking east by George Barnard" attribution= "By kind permission of Martin Crowther">
 
 Dickens stayed in [Folkestone](/19c/19c-folkestone) on several occasions, celebrating the Pavilion Hotel in ‘Out of Town’ in 1855, at the same time as beginning _Little Dorrit_ during a more prolonged stay at 3 Albion Villas on the Leas. The harbour may have provided inspiration for the famous opening passage of the novel.  
 <param ve-image primary url="https://stor.artstor.org/stor/d306de51-dc71-4369-9416-2306342424d1" label="Blue Plaque" attribution"Martin Crowther">
@@ -20,7 +20,7 @@ Whilst he is more often associated with [Broadstairs](/dickens/broadstairs), Dic
 
 
 In the summer of 1855 he was staying at 3 Albion Villas on the Leas, with what was then an uninterrupted view of the harbour, working on the opening chapters of _Little Dorrit_ He wrote in ‘Out of Town’ that ‘At low water, we are a heap of mud, with an empty channel in it…  At that time, all the stranded fishing boats turn on their sides, as if they were dead marine monsters’. It is tempting to speculate that the harbour may also have suggested the opening scene of the novel, with its description of a hot day in Marseilles with ‘no wind to make a ripple on the foul water within the harbour, or on the beautiful sea without’ (_Little Dorrit_ 1).
-<param ve-image primary url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" label="3, Alibion Villas" attribution="Martin Crowther>
+<param ve-image primary url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" label="3, Albion Villas" attribution="Martin Crowther>
 
 His affection for the town is obvious from his _Household Words_ article ‘Out of Town’, in which he renames [Folkestone](/19c/19c-folkestone) ‘Pavilionstone’ in honour of Mr Breach, the proprietor of the Pavilion Hotel where he had stayed on previous visits and which had improved considerably since its 1808 origins as a shipbuilder’s hut on the edge of the harbour wall. Breach had been ‘so extraordinarily kind to me when I was ill’ that when he proposed buying 500 copies of the number, Dickens arranged to make a present of them [^ref4]. In 1902 the hotel chain would reissue the article as a limited edition with a beautiful cover illustration, as ‘Pavilionstone’.
 <param ve-image primary url="images/smaller pavilionstone.JPG" label="Pavilionstone" attribution="Published by the Frederick Hotels Group, 1902">
