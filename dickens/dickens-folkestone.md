@@ -6,9 +6,9 @@
 
 <param title="Charles Dickens" eid="Q5686">
 
-**Event** Holidays 1852, 1855.
-**Places:** Pavilion Hotel / 3 Albion Villas, Folkestone.
-**Publication/s** Out of Town’, _Household Words_, 1855.
+**Event** Holidays 1852, 1855.   
+**Places:** Pavilion Hotel / 3 Albion Villas, Folkestone.   
+**Publication/s** Out of Town’, _Household Words_, 1855.   
 _‘At low water, we are a heap of mud, with an empty channel in it, where a couple of men in big boots always shovel and scoop, with what exact object I am unable to say. At that time, all the stranded fishing boats turn on their sides, as if they were dead marine monsters; the colliers and other shipping stick disconsolate in the mud; the steamers look as if their white chimneys would never turn again; the green sea-slime and weed upon the rough stones of obsolete high tides never more to flow; the flagstaff-halyards droop; the very little wooden lighthouse shrinks in the idle glare of the sun.’_ - ‘Out of Town’, _Household Words_, 29 September 1855[^ref1]. 
 
 
