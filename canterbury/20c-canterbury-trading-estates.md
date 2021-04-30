@@ -12,6 +12,7 @@
 <param ve-entity eid="Q4789707" aliases="Argos">
 <param ve-entity eid="Q297410" aliases="Asda">
 <param ve-entity eid="Q707602" aliases="B&Q">
+<param ve-entity eid="Q106653436" aliases="superstore">
 
 ### Canterbury’s Trading Estates
 
@@ -29,10 +30,10 @@ The Wincheap Industrial Estate was the first and remains the largest of Canterbu
 
 #### The Sturry Road
 
-To the NE of the city centre, the first landmark is the main Sainsbury’s store opened in 1984. Very different in appearance from most supermarket barn or warehouse designs, the building relies on steel masts, from which the roof is suspended by cables. Some commentators joked that it would look good when the roof was put on. It was awarded the Civic Trust Award in 1986 and the Structural Steel Design Award in 1985.
+To the NE of the city centre, the first landmark is the main Sainsbury’s superstore opened in 1984. Very different in appearance from most supermarket barn or warehouse designs, the building relies on steel masts, from which the roof is suspended by cables. Some commentators joked that it would look good when the roof was put on. It was awarded the Civic Trust Award in 1986 and the Structural Steel Design Award in 1985.
 <param ve-image url="https://d1nvj7b44vmgv4.cloudfront.net/w800/bra/SA_BRA_7_C_6_10hr.jpg" label="Design for the award-winning Sainsbury's Canterbury branch" attribution="Sainsbury Archive, open access">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sainsbury%27s_Supermarket%2C_Canterbury_-_geograph.org.uk_-_1332508.jpg" label="Sainsbury's Canterbury Branch" attribution="Andy Parrett, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-map center="51.2847334655167, 1.0856330040435993" zoom="15">
+<param ve-map center="Q106653436" zoom="15">
 
 Across the road from Sainsbury’s and contiguous with the Sturry Road (A28), the city’s first large development of the 21st century is going up, the Riverside Centre. The centre will combine leisure facilities, including a multiplex cinema, with residential accommodation and promises high quality and specialist retailers, cafés and restaurants. If the Riverside successfully appeals to resident and visitor markets, will it release pressure on the commercial centre or hasten its end?
 <param ve-map center="51.2847334655167, 1.0856330040435993" zoom="15">
