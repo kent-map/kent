@@ -16,8 +16,8 @@ Born in Hungary in 1865, Emma Orczy de Orci, the author of the Scarlet Pimpernel
 The couple settled into their new home, Cleave [Cleve] Court, a manor house two miles north-east of Monkton Church. She wrote:   
 _Thanet is not a beautiful part of England. It is flat; there are no hills, few trees, only big fields and wide spaces with the tang and smell of the sea all around. We spent three very happy years there._   
 
-The area was to prove the perfect place for breaking in the five Transylvanian horses which she had imported from her uncle’s estate.   
-_We used to get up at five o’clock in the morning that first autumn, when, harnessed to a light wagonette which we had brought for the purpose, we first took those dear timorous things out on the roads between Acol and Minster, and many a scamper we had over fields at the first approach of a motor and its ominous honking….To say that we created a sensation in the sleepy backwater of Minster-in-Thanet would be to put it mildly_   
+The area was to prove the perfect place for breaking in the five Transylvanian horses which she had imported from her uncle’s estate:   
+_We used to get up at five o’clock in the morning that first autumn, when, harnessed to a light wagonette which we had brought for the purpose, we first took those dear timorous things out on the roads between Acol and Minster, and many a scamper we had over fields at the first approach of a motor and its ominous honking….To say that we created a sensation in the sleepy backwater of Minster-in-Thanet would be to put it mildly._   
 The local school master Mr Hawtry swore loudly whenever he met the team of horses being driven around the country lanes, shouting: _How many more of these abominable beasts are you going to drive about the place?_   
 It was in Thanet that she wrote _The Nest of the Sparrowhawk_ (1809), set in Acol in 1657. 
 
@@ -58,22 +58,22 @@ Her mother returned to Hungary. Not long after this Emma, suffering from a break
 ### References
 
 [^ref1]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
-[^ref1]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
-[^ref1]: East Kent Times and Mail - Wednesday 02 December 1908   
-[^ref1]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
-[^ref1]: East Kent Times and Mail - Wednesday 01 July 1908   
-[^ref1]: Orczy, E. Links in the Chain of Life http://gutenberg.net.au/ebooks20/2000341h.html   
-[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-[^ref1]: _Daily Mirror_ - Friday 04 September 1914   
-[^ref1]:  Kent Messenger & Gravesend Telegraph - Saturday 19 September 1914   
-[^ref1]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
-[^ref1]: Kent Messenger & Gravesend Telegraph - Saturday 07 November 1914   
-  Kent Messenger & Gravesend Telegraph - Saturday 07 November 1914   
-  Thanet Advertiser - Saturday 09 October 1915   
-   Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref2]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref3]: _East Kent Times and Mail_ - Wednesday 02 December 1908.   
+[^ref4]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref5]: _East Kent Times and Mail_ - Wednesday 01 July 1908.   
+[^ref6]: Orczy, E. Links in the Chain of Life http://gutenberg.net.au/ebooks20/2000341h.html   
+[^ref7]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref8]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref9]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref10]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref11]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref12]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref13]: _Daily Mirror_ - Friday 04 September 1914.   
+[^ref14]: _Kent Messenger & Gravesend Telegraph_ - Saturday 19 September 1914.   
+[^ref15]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref16]: _Kent Messenger & Gravesend Telegraph_ - Saturday 07 November 1914.   
+[^ref17]: _Kent Messenger & Gravesend Telegraph_ - Saturday 07 November 1914.   
+[^ref18]: _Thanet Advertiser_ - Saturday 09 October 1915.   
+[^ref19]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
 
