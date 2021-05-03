@@ -27,7 +27,8 @@ When the lease was up on Cleave Court, the couple decided to move to Bearsted, n
 Unlike Thanet, which she considered to be “interesting and romantic” ,  life at Bearsted was much busier, with football matches at Maidstone and cricket matches on Bearsted Green. The couple bought their first car and would motor up to London to see shows.  However, driving the wagonette with her team of Hungarian horses became impossible as _The Kentish roads round about us were narrow and twisting. Motor-cars soon increased in numbers and took possession of the roads to the detriment of peaceful driving which I loved._
 
 It was at this time that she wrote _Meadowsweet_ (1912) set in the ‘Old Manor farm’ Thanet, which was probably inspired by Cleve Court. 
-In the novel two young women, Olive and Boudicea are sent to live with their aunt in Thanet. Olive makes up her mind that: _she would not wear out her youth and her beauty at the Old Manor Farm in the company of Uncle Jasper’s stuffed abominations: and since Aunt Caroline could not afford to take her up to London, where she might have made a suitable match, she looked about her in Thanet itself._  [23] She fixes her attention on Sir Baldwin Jeffrey’s who has a large estate near Ashford and has _come down to the neighbourhood of Minster-in-Thanet for some fishing._  [23]
+In the novel two young women, Olive and Boudicea are sent to live with their aunt in Thanet. Olive makes up her mind that: _she would not wear out her youth and her beauty at the Old Manor Farm in the company of Uncle Jasper’s stuffed abominations: and since Aunt Caroline could not afford to take her up to London, where she might have made a suitable match, she looked about her in Thanet itself._  [23]    
+She fixes her attention on Sir Baldwin Jeffrey’s who has a large estate near Ashford and has _come down to the neighbourhood of Minster-in-Thanet for some fishing._  [23]
 
 The story describes the Garden of England, with its plums, cherries, strawberries and hot weather which leaves Olive’s 'young face, tanned by sun and sea, beaten by the breezes of Thanet'  [310] and one gets the sense that Orczy enjoyed the country life:   
 _At the back of Old Manor Farm, beyond the yard and all of the barns, there was a small orchard, with a strawberry bed that sloped to the south, and was in full bearing long before any other strawberry bed in the whole of Thanet._  [158] 
@@ -37,36 +38,41 @@ _Tomorrow she thought that she could persuade Aunt and Uncle to go back to dear 
 
 At the outbreak of the first world war, the Baroness founded the Women of England’s Active Service League (W.E.A.S.L), encouraging women to support their men to go to war:   
 _Women and girls of Britain, you cannot shoulder a rifle, but you can actively serve your country all the same. Give your country your sweetheart, she wants him; your son, your brother, she wants them all; your friends she wants them all._ 
-The acronym was it must be supposed intentional and the league quickly attracted supporters – as many as 15,000 by the middle of September. However, after some “White feather foolery” which she said was “absolutely contrary to the spirit and the letter of the league”. She wrote:   
-_My attention has been called to the fact; that some exceedingly foolish young people have wasted their time and tried the tempers of sensible persons by sending white feathers to certain young men in the neighbourhood who they consider ought to have enlisted before this._
+The acronym was it must be supposed intentional and the league quickly attracted supporters – as many as 15,000 by the middle of September. 
+
+However, after some “White feather foolery” which she said was “absolutely contrary to the spirit and the letter of the league”. She wrote:   
+_My attention has been called to the fact; that some exceedingly foolish young people have wasted their time and tried the tempers of sensible persons by sending white feathers to certain young men in the neighbourhood who they consider ought to have enlisted before this._   
 She pointed out that she in no way endorsed this “amateur press gang”.  
 
 The arrival of the [Belgian Refugees](/20c-belgian-refugees/) in October 1914 disturbed the tranquillity of the village; and although she helped out she wrote:   
 _what intruded most persistently on my consciousness was the ever-flowing stream of Belgian refugees which threatened to submerge our small towns and villages in this part of Kent. Hospitals could not, of course, cope with it; the stream overflowed into every house, every cottage, every stable and barn from Chatham to Rochester, to Maidstone, to Ashford._  
 
 In November 1914, she distributed prizes at Maidstone Girls Grammar School. The girls all dressed in virginal white were encouraged to do their best in life _whatever calling they cut out for themselves in life – whether industrial, professional, business, nursing, or scrubbing floors – they should set their minds to do it efficiently._  Considering the number of women who remained unmarried after the first world war, Orczy’s words were prescient. 
-In the following year, she presented prizes at Ramsgate Girls Grammar School, but this time her cheering words were more like a battle cry as she spoke in Darwinian terms of the survival of the fittest: _The world will have no further use for the ‘half-baked’ individual who can do twenty-three things badly and not one well; it makes no difference whether you sweep a crossing or write a novel. Determine to do whatever you take in hand just a shade better than it has ever be done before._  
+In the following year, she presented prizes at Ramsgate Girls Grammar School, but this time her cheering words were more like a battle cry as she spoke in Darwinian terms of the survival of the fittest:   
+_The world will have no further use for the ‘half-baked’ individual who can do twenty-three things badly and not one well; it makes no difference whether you sweep a crossing or write a novel. Determine to do whatever you take in hand just a shade better than it has ever be done before._  
 
-The couple lived in Kent until the end of the first world war, and built a 'dear little house' in the grounds for her mother, however in June 1918: _my poor dear mother got it into her head that she was doing us harm (especially to my husband) by living on our property. She was an ‘alien enemy’ and although the neighbours around, the police and the authorities were most kind, there were some village folk, either malicious or merely ignorant, who were not._  Her mother returned to Hungary. Not long after this Emma, suffering from a breakdown and worn out by the constant demands on her time to give talks and open fetes, moved with her husband to Monte Carlo. 
+The couple lived in Kent until the end of the first world war, and built a 'dear little house' in the grounds for her mother, however in June 1918:    
+_my poor dear mother got it into her head that she was doing us harm (especially to my husband) by living on our property. She was an ‘alien enemy’ and although the neighbours around, the police and the authorities were most kind, there were some village folk, either malicious or merely ignorant, who were not._     
+Her mother returned to Hungary. Not long after this Emma, suffering from a breakdown and worn out by the constant demands on her time to give talks and open fetes, moved with her husband to Monte Carlo. 
 
 ### References
 
 [^ref1]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
-[^ref1]:  Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
-[^ref1]:  East Kent Times and Mail - Wednesday 02 December 1908   
-[^ref1]:  Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
-[^ref1]:  East Kent Times and Mail - Wednesday 01 July 1908   
-[^ref1]:  Orczy, E. Links in the Chain of Life http://gutenberg.net.au/ebooks20/2000341h.html   
-[^ref1]:  Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-  Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-   Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-   Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-  Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-  Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
-  Daily Mirror - Friday 04 September 1914   
-  Kent Messenger & Gravesend Telegraph - Saturday 19 September 1914   
-  Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
-  Kent Messenger & Gravesend Telegraph - Saturday 07 November 1914   
+[^ref1]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref1]: East Kent Times and Mail - Wednesday 02 December 1908   
+[^ref1]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref1]: East Kent Times and Mail - Wednesday 01 July 1908   
+[^ref1]: Orczy, E. Links in the Chain of Life http://gutenberg.net.au/ebooks20/2000341h.html   
+[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref1]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
+[^ref1]: _Daily Mirror_ - Friday 04 September 1914   
+[^ref1]:  Kent Messenger & Gravesend Telegraph - Saturday 19 September 1914   
+[^ref1]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref1]: Kent Messenger & Gravesend Telegraph - Saturday 07 November 1914   
   Kent Messenger & Gravesend Telegraph - Saturday 07 November 1914   
   Thanet Advertiser - Saturday 09 October 1915   
    Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
