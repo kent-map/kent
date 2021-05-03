@@ -1,6 +1,18 @@
-Baroness Emmuska Orczy (1865-1947)
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-Thanet and Bearsted
+<param ve-config title="VBaroness Emmuska Orczy (1865-1947)" author="Michelle Crowther" layout="vtl" banner="/images/banners/20c.jpg">
+
+<param ve-entity eid="Q590422" aliases="Isle of Thanet">
+<param ve-entity eid="Q1917280" aliases="Monkton">
+<param ve-entity eid="Q2404354" aliases="Acol">
+<param ve-entity eid="Q9033431" aliases="Minster">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q213180" aliases="Maidstone">
+<param ve-entity eid="Q725261" aiases="Ashford">
+<param ve-entity eid="Q2065577" aliases="Bearsted">
+
+**Places:** Thanet and Bearsted
+
 Born in Hungary in 1865, Emma Orczy de Orci, the author of the Scarlet Pimpernel novels moved to Thanet in 1908 with her husband, the illustrator, Montague Barstow. She had already published nine novels including three of the Pimpernel stories. 
 The couple settled into their new home, Cleave [Cleve] Court, a manor house two miles north-east of Monkton Church. She wrote:
 “Thanet is not a beautiful part of England. It is flat; there are no hills, few trees, only big fields and wide spaces with the tang and smell of the sea all around. We spent three very happy years there.” 
@@ -11,7 +23,7 @@ We used to get up at five o’clock in the morning that first autumn, when, harn
 The local school master Mr Hawtry swore loudly whenever he met the team of horses being driven around the country lanes, shouting: “How many more of these abominable beasts are you going to drive about the place?”
 
 The Baroness quickly became involved in the life of the county, opening fetes, art exhibitions and acting as guest of honour at school prize givings. In December 1908, she presented prizes and certificates to the students of the Ramsgate County School for Girls delivering “a few bright, cheering and encouraging remarks to the girls.” 
-It was in Thanet that she wrote The Nest of the Sparrowhawk (1809), set in Acol in 1657. 
+It was in Thanet that she wrote _The Nest of the Sparrowhawk_ (1809), set in Acol in 1657. 
 When the lease was up on Cleave Court, the couple decided to move to Bearsted, near Maidstone buying Snowfield house which had twenty acres of garden. They planted the garden with rhodedendrons, flaming azaleas; she wrote: “We were passionate gardeners, both of us, and the making of that beautiful Kentish garden was one of the joys of our life.” 
 Unlike Thanet, which she considered to be “interesting and romantic”   life at Bearsted was much busier, with football matches at Maidstone and cricket matches on Bearsted Green. The couple bought their first car and would motor up to London to see shows. 
 However, driving the wagonette with her team of Hungarian horses became impossible as “The Kentish roads round about us were narrow and twisting. Motor-cars soon increased in numbers and took possession of the roads to the detriment of peaceful driving which I loved.” 
