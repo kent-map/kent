@@ -10,7 +10,7 @@
     ],
     "favicon": "/images/favicon.ico",
     "gaTrackingID": "UA-148268745-1",
-    "css": "/css/kent.css",
+    "css": "https://gitcdn.link/repo/kent-map/kent/main/css/kent.css",
     "acct": "kent-map",
     "repo": "kent",
     "ref": "main"
