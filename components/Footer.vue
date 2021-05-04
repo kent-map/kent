@@ -3,7 +3,7 @@
     <v-row>
       <v-col cols="12" nogutter>
         <span style="padding-bottom: 8px; font-weight: bold; display: block">A collaboration between:</span>
-        <img src="https://gitcdn.link/repo/kent-map/kent/main/images/CCCU-logo-2colour.svg" height="30px"> &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://gitcdn.link/repo/kent-map/kent/main/dickens/images/CCCU-logo-2colour.svg" height="30px"> &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://gitcdn.link/repo/kent-map/kent/main/images/labs.jpg" height="30px">
       </v-col>
     </v-row>
