@@ -17,6 +17,7 @@
 
 In 1900 Canterbury had few small industries and was primarily a centre for rural commerce, to which the famous Cathedral attracted visitors. Between 1900 and 1950 this characterisation changed very little as the population remained virtually static at 24,000 in 1900 with an increase of just 3.5% to 24,850 in 1947. Well into the 1950s farmers were driving cattle to market, twice weekly, in Upper Bridge Street. A number of Canterbury businesses nonetheless grew from small beginnings in line with the advance of 20th century technology and production.
 <param ve-image url="https://stor.artstor.org/stor/5129a00d-b3c8-46f1-b40c-fe241d7d0479" label="Cattle market at Canterbury around 1900" attribution="Public domain, photo from Léon et Lévy">
+<param ve-image url="https://stor.artstor.org/stor/03bbed1c-285e-4f1b-b03f-6169a6afca1c" label="Market area today" attribution="Connor Treston, by kind permission">
 <param ve-map center="Q26535561" zoom="15">
 
 #### ParkerSteel
