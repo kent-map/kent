@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Floods in Canterbury, 1909" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/20c.jpg">
+<param ve-config title="Floods in Canterbury, 1909" author="Professor Carolyn Oulton" layout="vtl" banner="https://stor.artstor.org/stor/b509124b-447a-48a4-b718-bc40372c947a">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="QQ2743911" aliases="Chartham">
