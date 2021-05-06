@@ -29,4 +29,4 @@ _The Cantuarian_. November 1909. 458.
 British Newspaper Archive. Accessed 28 April 2021.   
 _Langtonian. December 1909. 340.   
 ‘Queen’s Message of Sympathy’. _Canterbury Journal, Kentish Times and Farmers' Gazette_. 13 November 1909.   
-<param ve-image url="ihttps://stor.artstor.org/stor/a0bf9873-f3f9-4f74-99c8-a392e6ea8e47" label="Floods, Canterbury, 1909">
+<param ve-image url="https://stor.artstor.org/stor/a0bf9873-f3f9-4f74-99c8-a392e6ea8e47" label="Floods, Canterbury, 1909">
