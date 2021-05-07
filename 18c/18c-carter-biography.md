@@ -44,4 +44,4 @@ All this points, for Freeman, to a life of stoic self-denial. Carter followed th
 [^ref9]:  Freeman, 240.   
 [^ref10]: ibid.   
 [^ref11]: Virginia Woolf, _A Room of One’s Own_ (London: Hogarth Press, 1929), 98.   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Discourses_of_Epictetus_-_Elizabeth_Carter_-_1759_-_page_1.jpg" label="The Discourses of Epictetus" attribution="Elizabeth Carter, Public domain, via Wikimedia Commons">
+
