@@ -37,6 +37,7 @@
 
 ### Places
 
+[Canterbury](/canterbury/20c-canterbury)   
 [Folkestone and World War One](20c-folkestone-ww1)   
 [Richborough: The Secret Port](20c-richborough)   
 [The Secret War Tunnels of Dover Castle](20c-secret-tunnels)   
