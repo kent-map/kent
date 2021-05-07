@@ -23,6 +23,8 @@ The motor car industry became a strong market for Canterbury leather, particular
 <param ve-map center="Q17529474" zoom="16">
 
 The sculptured figure of a cow standing alongside the ring road on the Tannery Field is a sadly symbolic reminder of the tannery. It is constructed of steel rails excavated from the tannery railway which before the war had transported waste to be disposed of in the field.
+<param ve-image url="https://stor.artstor.org/stor/c2a24edf-49f6-48fd-9c29-11731fb15d16" label="Tannery Field bull" attribution="Martin Crowther, by kind permission">
+<param ve-image url="https://stor.artstor.org/stor/40ca319d-06b9-453b-8435-5cb7cf2a7946" label="Tannery Field bull" attribution="Martin Crowther, by kind permission">
 
 ***
 

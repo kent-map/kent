@@ -15,18 +15,21 @@
 ### Planners versus anti-Planners
 
 After the [war](/canterbury/20c-canterbury-ww2) fierce controversy raged over plans for the redevelopment of the city centre. In 1945 the distinguished architect, Charles Holden, whose most famous building is the University of London’s Senate House, was commissioned to put forward an all-encompassing plan for Canterbury. Holden’s master plan proposed an inner ring road to take traffic out of the High Street, a Civic Way through the bombed area to link the Cathedral to new civic buildings to be built in the Dane John Gardens, [transport](/Canterbury/20c-Canterbury-transport) hubs and a new [shopping](/Canterbury/20c-Canterbury-retail-store) centre. Holden said he did not want to destroy the heritage of the past but in “the city of the future” to enhance Canterbury’s heritage for the future.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Dr._Charles_Holden%2C_architect%2C_1946_%28crop%29.jpg" label="Charles Holden, 1946" attribution="Photographer unknown, public domain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Dr._Charles_Holden%2C_architect%2C_1946_%28crop%29.jpg" label="Charles Holden, 1946" attribution="Photographer unknown, public domain, via Wikimedia Commons">
+<param ve-image url="https://stor.artstor.org/stor/f7e87e07-6521-4ea5-99e3-6f2f6594b92b" label="Dane John Gardens, pre-1918" attribution="Postcard, Valentine's series, no known copyright">
 
 However, this meant clearing more old buildings, widening narrow streets and reorganising public spaces, with the general application of reinforced concrete. Holden’s scheme was opposed by an alliance of residents and business owners who formed the Canterbury Citizens' Defence Association (CCDA). Victory for the CCDA anti-planners in the municipal elections of November 1945 meant that no coherent scheme was carried through.
 <param ve-image url="https://stor.artstor.org/stor/de8f1c7f-cf4d-46ce-bf61-6513e8cd047a" label="The Holden Plan" attribution="Paul Crampton, by permission">
 
 A compromise plan of 1948 removed the ring road to outside the city walls, where later as a dual carriageway it was built but never completed as a full circuit. Some parts of the Holden plan which were realised can be seen, for instance in the transformation of Rose lane from a narrow lane to a broad boulevard which Holden intended to be the central section of his “Civic Way”. As no plan was fully implemented, Canterbury has been left as it is found today, a mix of partially implemented plans. Since local government reorganisation in 1974, greater sensitivity has been shown, one excellent result being the pedestrianisation of the city centre.
-<param ve-image url="images/Canterbury High Street.jpg" label="High Street" attribution="Martin Crowther">
+<param ve-image url="https://stor.artstor.org/stor/707a3d41-f05c-49d5-add1-dbc573efec4a" label="Canterbury High Street" attribution="Postcard, pre-1920">
+<param ve-image url="https://stor.artstor.org/stor/4492394e-fa2c-454b-99a9-0520c088b76d" label="Canterbury High Street" attribution="Calum Elliot and Emma Molford, by kind permission">
+<param ve-image url="images/Canterbury High Street.jpg" label="Canterbury High Street" attribution="Martin Crowther, by kind permission">
 <param ve-map center="51.2775389648421, 1.0804745626367283" zoom="15">
 
 #### The building and rebuilding of the bombed city centre
 
-The structures built in the 1950s and 1960s were at best mediocre and at worst a disgrace. The Burgate, the first street to be rebuilt, was an exception successfully retaining its historical character and interest. The poor post war developments, particularly in the Longmarket, St George’s Tower area and Whitefriars were demolished and rebuilt in the 1990s.
+The structures built in the 1950s and 1960s were at best mediocre and at worst a disgrace. The Burgate, the first street to be rebuilt, was an exception successfully retaining its historical character and interest. The poor post-war developments, particularly in the Longmarket, St George’s Tower area and Whitefriars were demolished and rebuilt in the 1990s.
 <param ve-map center="Q26370793" zoom="15">
 
 Butchery Lane is now a wonderful example of how well the heritage of the past and present can be successfully brought together. One side of the historic lane survived the bombing intact while the other side was destroyed. The medieval timber framed buildings with jettied upper storeys to the west side are enhanced and echoed by the assortment of features of the modern Longmarket centre built to the historic street line to the redeveloped east side. Butchery Lane consequently frames one of the most delightful views of the Cathedral’s Bell Harry Tower.
