@@ -5,8 +5,8 @@ banner="/images/banners/18c.jpg">
 
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q29303" aliases="Canterbury">
-Woodchurch
-Ham
+<param ve-entity eid="51.24366, 1.33130" aliases="Ham">
+<param ve-entity eid="Q1874946" aliases="Woodchurch">
 
 
 Long before Victoria was allegedly not amused, Elizabeth Carter projected a similar frostiness in the face of frivolity. According to her nephew, ‘she went once to a puppet-show at Deal, with some respectable friends, and Punch was uncommonly dull and serious, who was usually more jocose than delicate. “Why Punch,” says the showman, ‘what makes you so stupid.”—"I can’t talk my own talk,” answers Punch, “the famous Miss Carter is here.”’ 
