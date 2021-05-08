@@ -2,15 +2,13 @@
 <param ve-config title="The Posthumous Papers of the Pickwick Club" author="Katie Holdway" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q1971996" aliases="Sissinghurst">
-Rochester
-Stroud
-Chatham
-Brompton
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q1808441" aliases="Strood">
+<param ve-entity eid="Q729006" aliases="Chatham">
+<param ve-entity eid="Q4973747" aliases="Brompton">
 
-Published in monthly instalments, March 1836-November 1837. Published in one volume, 1837.
-
-**Places:** Rochester, Stroud, Chatham, Brompton, ‘Dingley Dell’.
-
+**Published** in monthly instalments, March 1836-November 1837. Published in one volume, 1837.   
+**Places:** Rochester, Stroud, Chatham, Brompton, ‘Dingley Dell’.   
 _‘“Ah! fine place,” said the stranger, “glorious pile—frowning walls—tottering arches—dark nooks—crumbling staircases—Old cathedral too—earthy smell—pilgrims feet wore away the old steps—little Saxon doors—confessionals like money-takers’ boxes at theatres—queer customers those monks—Popes, and Lord Treasurers, and all sorts of old fellows, with great red faces, and broken noses, turning up every day—buff jerkins too—matchlocks—Sarcophagus—fine place—old legends too—strange stories: capital;”_ 
 Alfred Jingle describing Rochester Bridge, and Rochester Cathedral. 
 <param ve-image url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" label="Rochester Bridge" attribution="1828 Adlard">
