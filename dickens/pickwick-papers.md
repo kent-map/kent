@@ -38,6 +38,6 @@ Dickens, Charles. _The Pickwick Papers_. Oxford World’s Classics, 2008.
 Images taken from the _Victorian Web_. Permission to reproduce for scholarly or educational purposes.   
 [‘The Monthly Wrapper’](http://www.victorianweb.org/art/illustration/seymour/ppwrapper.html) by Robert Seymour. Scanned image and text by Philip V. Allingham.      
 [‘Mr Pickwick in Chase of his Hat’](http://www.victorianweb.org/art/illustration/seymour/6.html) by Robert Seymour. Scanned image and text by Philip V. Allingham.   
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/22/Pickwick_Papers_Trial_1837.jpg" label="Pickwick Papers Trial" attribution="Hablot Knight Browne (1867), Public domain, via Wikimedia Commons">
 
 
