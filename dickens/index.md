@@ -70,6 +70,15 @@ Rochester is proud to celebrate its Dickensian connections, and the most fascina
 Kent acted as a conduit for Dickens's many visits to France with the Dover Mail and its perilous journey described in several of his novels, including _A Tale of Two Cities_.
 
 ##
+**[The Posthumous Papers of the Pickwick Club](pickwick-papers)**
+
+- author: Katie Holdway
+
+![](https://dev.visual-essays.app/thumbnail?url=https://www.gutenberg.org/files/98/98-h/images/0414.jpg)
+
+Charles Dickens’s first serial novel, The Pickwick Papers is preoccupied with Kentish geographies almost as much as it is with scenes of London life.
+
+##
 **[Ellen woz here](/19c/19c-ternan-biography)**
 
 - author: Helena Kelly
