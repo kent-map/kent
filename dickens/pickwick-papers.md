@@ -8,12 +8,12 @@
 <param ve-entity eid="Q4973747" aliases="Brompton">
 
 **Published** in monthly instalments, March 1836-November 1837. Published in one volume, 1837.   
-**Places:** Rochester, Stroud, Chatham, Brompton, ‘Dingley Dell’.   
+**Places:** Rochester, Strood, Chatham, Brompton, ‘Dingley Dell’.   
 _‘“Ah! fine place,” said the stranger, “glorious pile—frowning walls—tottering arches—dark nooks—crumbling staircases—Old cathedral too—earthy smell—pilgrims feet wore away the old steps—little Saxon doors—confessionals like money-takers’ boxes at theatres—queer customers those monks—Popes, and Lord Treasurers, and all sorts of old fellows, with great red faces, and broken noses, turning up every day—buff jerkins too—matchlocks—Sarcophagus—fine place—old legends too—strange stories: capital;”_ 
 Alfred Jingle describing Rochester Bridge, and Rochester Cathedral. 
 <param ve-image url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" label="Rochester Bridge" attribution="1828 Adlard">
 
-Charles Dickens’s first serial novel, _The Pickwick Papers_ is preoccupied with Kentish geographies almost as much as it is with scenes of London life. From Mr Wardle’s idyllic ‘Manor Farm’ in Dingley Dell to hastily scribbled notes on Stroud, Rochester, [Chatham](/dickens/dickens-chatham), and Brompton recovered from Mr Pickwick’s notebook, Kentish scenes have a place at the very heart of the serial.
+Charles Dickens’s first serial novel, _The Pickwick Papers_ is preoccupied with Kentish geographies almost as much as it is with scenes of London life. From Mr Wardle’s idyllic ‘Manor Farm’ in Dingley Dell to hastily scribbled notes on Strood, Rochester, [Chatham](/dickens/dickens-chatham), and Brompton recovered from Mr Pickwick’s notebook, Kentish scenes have a place at the very heart of the serial.
 <param ve-image url="images/ppwrapper.jpg" label="The Monthly Wrapper by Robert Seymour">
 
 Whilst [Dickens’s](dickens-biography) attachment to [Gad’s Hill Place](/dickens/dickens-gads-hill) would result in many unequivocally fond representations of Kent in his later career, in _Pickwick_ his engagement with Kentish geographies, inhabitants and stereotypes is more variable. Both Dickens and his characters alternate between a genuine if snobbish admiration of Kent’s picturesque history and a savage satire of its inhabitants.
