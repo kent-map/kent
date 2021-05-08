@@ -1,0 +1,21 @@
+St. Mary and St Eanswythe, Folkestone
+
+Kent is home to some of the oldest Christian missions known to exist in Britain. [St Eanswythe]( https://findingeanswythe.uk/) (also spelt Eanswith or Eanswid) was born around 630 AD, the granddaughter of King Ethelbert and Queen Bertha. Along with her father, King Eadbald’s, patronage Eanswythe founded what is believed to be the first convent for women in England. They followed a form of the Benedictine Rule, and lived simple lives serving the community. She is said to have made water run uphill, and to have trained her geese to chase away birds from eating their crops. 
+ (The mural depicting St Eanswythe which was painted onto the south wall of the south chancel chapel. She is said to have died in her early twenties.)PARAGRAPH 1
+
+The building that stands today is a hybrid of many centuries of destruction, reconstruction, and expansion.  However, it is still the fifth building to take its name. The first and fourth were destroyed by the collapsing cliff faces in Folkestone, the second by the Danes, and the third by Earl Godwin’s plundering. The current church was begun in 1138 by the local lord of the manor William d’Averanches. This small plain building (now the choir, east of the tower) was then extended with two aisles in the later twelfth century. As the wealth of Folkestone, and its lord, grew throughout the thirteenth century, the church was greatly expanded to include a central tower, chancel, transepts, four-bay nave, and four chapels. By 1236, the interior was more akin to that of a cathedral, which is believed to have been the intention of the then lord Warden of the Cinque Ports and Baron of Folkestone, Hamo de Crevequer, well-evidenced by the use of a central tower and transepts, unusual features in a simple parish church. 
+ 
+(The view of the church from the north east, showing the Victorian renovation of the nave and aisles.) PARAGRAPH 2
+After this however, the church remained much the same, surviving (although only just) through the reformation, until the great storm of 1705 tore the last two bays of the nave down. This was then replaced with a very basic, ‘barn-like’ structure, until 1851 when Matthew Woodward arrived as vicar. Over the next forty-seven years of service to the church, he saw the restoration and magnification of the building into its current state, employing some of the best and most famous craftsmen to do the work, including the architect R. C. Hussey, and the glass designer Charles Kempe. 
+ (The view of the church interior looking west from under the central tower down into the large nave and aisles.) PARAGRAPH 3
+The church itself holds the great and rare privilege of housing the relics of its own namesake. In 1885, in a small cavity in the north wall next to the high altar, workmen found a small lead casket containing the remains of a young woman. Upon further study it was found that they dated from around the seventh century, and were most likely the relics of [St Eanswythe]( https://findingeanswythe.uk/) herself, which had been transmuted between each church that had stood in Folkestone over the past millennium. They were re-interred in the same spot, and now sit behind ever-burning candles.
+ (The view of the high alter surrounded by beautifully carved marble which was added during Matthew Woodward’s restorations. In the bottom left-hand corner you can see two candles and a small portrait. These stand next to the reliquary of St Eanswythe.) PARAGRAPH 4
+
+
+Article By Andrew Vincent
+
+Bibliography:
+
+https://findingeanswythe.uk/ 
+
+Reader-Moore, Anthony. The Parish Church of St. Mary and St. Eanswythe, Folkestone. Leominster, Orphans, 2010. Print.
