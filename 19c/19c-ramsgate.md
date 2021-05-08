@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Ramsgate" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Ramsgate in the nineteenth century" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 
