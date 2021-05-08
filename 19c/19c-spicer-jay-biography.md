@@ -1,4 +1,7 @@
-## Edith Katherine Spicer Jay (6 March 1847- 3 December 1901) 
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Edith Katherine Spicer Jay (6 March 1847- 3 December 1901)" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q1000312" aliases="Sandgate">
+
 
 **Place:** Sandgate, Shorncliffe Barracks
 
@@ -9,6 +12,7 @@ Edith Katherine Spicer Jay, writer of popular military tales, lived in Sandgate 
 Although Edith had written stories from a child, it was only 'when, after a tolerably varied experience of men and things, sick and well, bad and good she found herself on her couch for the remainder of her days' that she began to write for publication.[^ref2]  Crippled with rheumatoid arthritis, she bought a house at Sandgate, a coastal village 'which prides itself on its amount of sunshine and its considerable immunity from sea-fogs'[^ref3] and it was here at Channel Bower, The Riviera Sandgate, that she wrote 18 novels of military adventure as well as stories for _Young Woman_ magazine. Within a few years, Sandgate was hailed as the 'author's haven of repose', being the home of writers such as [H.G. Wells](/20c/20c-wellshg-biography), Mrs Croker and Henry Hamilton.[^ref4]
 
 Given her military connections in London, it was not long before Edith took an active interest in Shorncliffe Barracks, situated not far from her house. Her novels, which involved plots of military men ‘made good’ were shared among the soldiers at Shorncliffe Barracks who enjoyed her 'realistic study of military life'[^ref5] such as _The Rip’s Redemption_ (1897); _Scarlet and Steel_ (1897); and _Redcoat Romances_ (1898). Her house was a home from home for the men, where she offered ‘smokes’ and refreshments. The ‘cavalry circle’, as they were known, could enjoy 'good wholesome literature from her well-stocked library', write letters, and listen to music played on her piano and Metzler organ.[^ref6]  She was also involved in men’s sport, being the president of three football and two cricket teams.[^ref7] 
+<para ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/da/The_First_Battalion%2C_Royal_Gurkha_Rifles%2C_Shorncliffe.jpg" label="Shorcliffe Barracks" attribution="David Anstiss / The First Battalion, Royal Gurkha Rifles">
 
 Many of Edith’s novels are set in barracks such as the Wellington Barracks, Westminster, the Regent’s Park Barracks and Hounslow, revealing how active she had been in military life before her life in Kent.  There is little sense of her adopted county in these novels, although there are glimpses in some of her other works. _The Apotheosis of Mr Tyrawley_ (1895), for example, is set in a fictional Claretown where the eponymous hero strikes out 'across a parade, down on to the solitary beach. All along the sea-front lights were flashing from the great terraces – dinner parties, home circles, gatherings. Carriages rattling along the wind-swept road; for winter is the season at Claretown.'[^ref8] We will never know whether this was inspired by the Kentish coast, but we can sense it as 'the wind sweeping from the downs cut like a knife, and the autumn mists lay low and chill.'[^ref9] 
 
