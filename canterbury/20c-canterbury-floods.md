@@ -24,9 +24,9 @@ The rains finally came to an end on Friday 5 November or ‘Bonfire Night’, an
 <param ve-image url="https://stor.artstor.org/stor/521f0909-d812-46b8-84f5-49c0328aba76" label="Causeway" attribution="Photographed by Horace Spence">
 
 ### Bibliography
-_The Cantuarian_. November 1909. 458.   
+_The Cantuarian_. November 1909. 458. With thanks to Peter Henderson.
 ‘Floods and Storm in Kent.’ _Canterbury Journal, Kentish Times and Farmers' Gazette._ 6 November 1909.   
 British Newspaper Archive. Accessed 28 April 2021.   
-_Langtonian. December 1909. 340.   
+_Langtonian_. December 1909. 340. With thanks to Janeen Barker.  
 ‘Queen’s Message of Sympathy’. _Canterbury Journal, Kentish Times and Farmers' Gazette_. 13 November 1909.   
 <param ve-image url="https://stor.artstor.org/stor/a0bf9873-f3f9-4f74-99c8-a392e6ea8e47" label="Floods, Canterbury, 1909" attribution="Photographed by Horace Spence">
