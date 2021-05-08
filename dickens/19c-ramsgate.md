@@ -18,7 +18,7 @@ Feeling active? You may want to try this [walk from Pegwell Bay to Ramsgate](htt
 
 ### Bibliography
 Burnand, Frances Cowley, illustrated by Phil May. _The Z.Z.G., or Zig Zag Guide: Round and about the bold and beautiful Kentish coast._
-<param ve-image url="https://stor.artstor.org/stor/d2f327c4-4385-46be-93f9-9d1ca740785a" label="Harbour Parade" attribution="By kind permission of Carolyn Oulton">
+<param ve-image url="https://stor.artstor.org/stor/d2f327c4-4385-46be-93f9-9d1ca740785a" label="Harbour Parade, Ramsgate" attribution="By kind permission of Carolyn Oulton">
 
 ### References
 
