@@ -31,9 +31,3 @@
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/cathedralimage.jpg)
 
 [Canterbury](19c-music-canterbury)
-
-
-
-
-
-
