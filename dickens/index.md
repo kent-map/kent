@@ -74,7 +74,7 @@ Kent acted as a conduit for Dickens's many visits to France with the Dover Mail 
 
 - author: Katie Holdway
 
-![](https://dev.visual-essays.app/thumbnail?url=https://www.gutenberg.org/files/98/98-h/images/0414.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418)
 
 Charles Dickens’s first serial novel, The Pickwick Papers is preoccupied with Kentish geographies almost as much as it is with scenes of London life.
 
