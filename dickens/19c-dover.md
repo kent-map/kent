@@ -1,4 +1,6 @@
-<param ve-config style="article">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Dover in the 19th century" author="Clare Nursey" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/db/Sissinghurst_Castle%2C_Biddenden_Road%2C_Sissinghurst%2C_Kent_-_geograph.org.uk_-_1387067.jpg" attribution="Oast House Archive / Sissinghurst Castle, Biddenden Road, Sissinghurst, Kent">
+<param ve-entity eid="Q1971996" aliases="Sissinghurst">
 
 ## Dover in the 19th century
 
