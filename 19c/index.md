@@ -44,7 +44,7 @@
 [Broadstairs](/dickens/broadstairs-19th-century)   
 [Canterbury](19c-canterbury)   
 [Chatham Dockyard](19c-chatham-dockyard)  
-[Dover](/dickens/19c-dover)   
+[Dover](19c-dover)   
 [Folkestone](19c-folkestone)   
 [Folkestone Free Library](19c-folkestone-free-library)  
 [Margate](/dickens/19c-margate)   
