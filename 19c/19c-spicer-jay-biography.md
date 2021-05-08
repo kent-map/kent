@@ -2,11 +2,8 @@
 
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 
-
-**Place:** Sandgate, Shorncliffe Barracks
-
-**Pseudonym:**  E. Livingston(e) Prescott
-
+**Place:** Sandgate, Shorncliffe Barracks   
+**Pseudonym:**  E. Livingston(e) Prescott   
 Edith Katherine Spicer Jay, writer of popular military tales, lived in Sandgate during the last ten years of her life.  Miss Jay, who wrote under the pseudonym E. Livingston Prescott was the daughter of a Scottish barrister and grew up in a large house in Norfolk Street, Park Lane, London. With five great uncles who had served in the military, and in her role as the Honourable Lady Superintendent of the London Soldiers’ Home and Guards’ Home, she was well placed to hear stories of military heroism and barrack room life.[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/02/Sandgate%2C_Kent_%28BM_1892%2C0714.10%29.jpg" label="Sandgate, 1892" attribution="British Museum, Public domain, via Wikimedia Commons"> 
 
@@ -17,10 +14,10 @@ Given her military connections in London, it was not long before Edith took an a
 <para ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/da/The_First_Battalion%2C_Royal_Gurkha_Rifles%2C_Shorncliffe.jpg" label="Shorcliffe Barracks" attribution="David Anstiss / The First Battalion, Royal Gurkha Rifles">
 
 Many of Edith’s novels are set in barracks such as the Wellington Barracks, Westminster, the Regent’s Park Barracks and Hounslow, revealing how active she had been in military life before her life in Kent.  There is little sense of her adopted county in these novels, although there are glimpses in some of her other works. _The Apotheosis of Mr Tyrawley_ (1895), for example, is set in a fictional Claretown where the eponymous hero strikes out 'across a parade, down on to the solitary beach. All along the sea-front lights were flashing from the great terraces – dinner parties, home circles, gatherings. Carriages rattling along the wind-swept road; for winter is the season at Claretown.'[^ref8] We will never know whether this was inspired by the Kentish coast, but we can sense it as 'the wind sweeping from the downs cut like a knife, and the autumn mists lay low and chill.'[^ref9] 
-<para ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/General_view_Sandgate_England.jpg" label="View of Sandgate" attribution="Snapshots Of  The Past, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0, via Wikimedia Commons">
+<para ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/General_view_Sandgate_England.jpg" label="View of Sandgate" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
 
 In later years Edith could be seen being pushed along in a bath chair by her secretary, Mr Cliff. She died on the 3rd December 1901 and was buried with military honours at Shorncliffe Camp. The hearse bearing her coffin was draped with the union flag and followed by a procession of Coastguards and Cavalry. The string band of the Dragoons played the funeral march.[^ref10] 
-<para ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/68/The_promenade_Sandgate_England.jpg" label="The Promenade, Sandgate" attribution="Snapshots Of  The Past, CC BY-SA 2.0 https://creativecommons.org/licenses/ by-sa/2.0, via Wikimedia Commons">
+<para ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/68/The_promenade_Sandgate_England.jpg" label="The Promenade, Sandgate" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
 
 ### References
 
