@@ -21,7 +21,7 @@ The Museum was closed in 2018. Most displays were transferred to the redeveloped
 
 The amazing Beaney Institute in the High Street, now redeveloped as the Beaney House of Art and Knowledge, was opened in 1899 thanks to the generosity of an Australian, Dr James Beaney, who was born in Canterbury. The Beaney served as Canterbury’s Royal Museum and Free Library throughout the 20th century. In recent years the building has been impressively enlarged and completely refurbished to transform this part of the city into “a vibrant, cultural quarter”, in conjunction with the rebuilding of the nearby Marlowe Theatre. 
 
-The Beaney has long been the place to admire the life sized paintings by Thomas Sidney Cooper (also known as “Cow Cooper”) of cattle and sheep, the huge painting of “Separated but not Divorced” or “Charlie the Bull” ruling the herd. It also houses the East Kent Regiment, the Buffs, museum. The redeveloped building now hosts exhibitions, provides a new home for the [Rupert the Bear]( /20c/20c-tourtel-biography), Bagpuss and Clangers displays, and runs a lively educational programme.
+The Beaney has long been the place to admire the life sized paintings by Thomas Sidney Cooper (also known as “Cow Cooper”) of cattle and sheep, the huge painting of “Separated but not Divorced” or “Charlie the Bull” ruling the herd. It also housed the East Kent Regiment, the Buffs, museum, although this was later moved. The redeveloped building now hosts exhibitions, provides a new home for the [Rupert the Bear]( /20c/20c-tourtel-biography), Bagpuss and Clangers displays, and runs a lively educational programme.
 
 **The Marlowe Theatre**
 
