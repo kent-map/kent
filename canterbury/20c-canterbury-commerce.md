@@ -28,7 +28,7 @@ The growth of John Parker and sons to a multi-million business started in 1904 w
 #### Barretts
 
 [Barretts of Canterbury](https://www.barrettskent.co.uk) (‘values of the past, cars of today’) became the most prominent and successful of Canterbury’s family businesses. In 1902 George R Barrett (1871-1943), a keen cyclist, started selling bicycles from a garage at the west end of St Peter’s Street by the Westgate Towers. In the 117 years which followed, Barretts experienced booms, slumps, fire, bombs and planning blight, as it weathered the events of the 20th century.
-<param ve-image url="https://stor.artstor.org/stor/d0564753-7dc5-4985-8e3f-2fbcab4ee5d6" label="St Peter's Street, pre-1918" attribution="Postcard, publisher unknown">
+<param ve-image url="https://stor.artstor.org/stor/d0564753-7dc5-4985-8e3f-2fbcab4ee5d6" label="St Peter's Street, pre-1918" attribution="Postcard, Léon & Levy">
 <param ve-map center="Q104815065" zoom="15">
 
 By the First World War GR Barretts had become ‘The West End Garage and Motor Works’, utilising a large garage in the yard to the rear accessed from Pound Lane. George was well regarded for raising charitable funds after the Great War and, elected Mayor of Canterbury in 1927, started the Mayor’s Fund, which was first used to support people made homeless in the floods of that year. In the 1930s, on purchasing adjoining properties, George’s sons, Reg and John, took over a new Radio Shop. Barretts were then retailing and servicing the two most advanced technologies available – the internal combustion engine and radios.
