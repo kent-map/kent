@@ -50,12 +50,12 @@ The couple lived in Kent until the end of the first world war, and built a 'dear
 
 ### References
 
-[^ref1]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
-[^ref2]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
-[^ref3]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref1]: Orczy, E. (1947) [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref2]: Orczy, E. (1947) [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref3]: Orczy, E. (1947) [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
 [^ref4]: _East Kent Times and Mail_ - Wednesday 02 December 1908.   
 [^ref5]: _East Kent Times and Mail_ - Wednesday 01 July 1908.   
-[^ref6]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref6]: Orczy, E. (1947) [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
 [^ref7]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
 [^ref8]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
 [^ref9]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
@@ -63,8 +63,8 @@ The couple lived in Kent until the end of the first world war, and built a 'dear
 [^ref11]: Orczy, E. (1912) [Meadowsweet](https://archive.org/details/meadowsweet00orcziala?ref=ol&view=theater)   
 [^ref12]: _Daily Mirror_ - Friday 04 September 1914.   
 [^ref13]: _Kent Messenger & Gravesend Telegraph_ - Saturday 19 September 1914.   
-[^ref14]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref14]: Orczy, E. (1947) [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
 [^ref15]: _Kent Messenger & Gravesend Telegraph_ - Saturday 07 November 1914.      
 [^ref16]: _Thanet Advertiser_ - Saturday 09 October 1915.   
-[^ref17]: Orczy, E. [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
+[^ref17]: Orczy, E. (1947) [Links in the Chain of Life](http://gutenberg.net.au/ebooks20/2000341h.html)   
 
