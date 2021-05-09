@@ -17,7 +17,7 @@ Opposite the house is a small park, where today there is a convenient bench with
 
 See also [Mobile Landscapes](dickens/mobile-landscapes)   
 
-[Ellen Ternan](/19c/19c-ternan-biography], sometimes believed to be the inspiration for Estella, also had connections with Rochester.
+[Ellen Ternan](/19c/19c-ternan-biography), sometimes believed to be the inspiration for Estella, also had connections with Rochester.
 
 Looking for somewhere atmospheric to read the novel? Try [The Vines Gardens](https://explorekent.org/activities/the-vines-gardens/)
 <param ve-image url="https://stor.artstor.org/stor/08a01877-5172-46fe-ba14-108ac56bf37b" label="Restoration House" attribution="Benjamin Mortley">
