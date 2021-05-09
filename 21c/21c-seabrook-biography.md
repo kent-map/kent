@@ -28,6 +28,8 @@ It’s a right old mystery.
 
 **Article written by:** Dr Christian Taylor
 
+For another impression of Seabrook see [Waterstones, Canterbury](21c/21c-waterstones-canterbury).
+
 ### Bibliography 
 
 Seabrook, David. _All the Devils are Here_. London: Granta
