@@ -40,7 +40,7 @@ Not far from here, so far as we can tell, is where would have stood  The Travell
 <param ve-map center="Q26377461" zoom="14">
 
 Away from the high street is Minor Canon Row, translated in Drood to Minor Canon Corner, home to Septimus Crisparkle and his mother. Dickens describes this tranquil spot as ‘a quiet place in the shadow of the Cathedral, which the cawing of the rooks, the echoing footsteps of rare passers, the sound of the Cathedral bell, or the roll of the Cathedral organ, seemed to render more quiet than absolute silence.’
-<param ve-image url="images/Fig 6 Minor Cannon Row.jpg" label="Minor Canon Row" Attribution="Michelle Crowther">   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Charles_Dickens_and_Rochester_%281880%29_%2814788137593%29.jpg" label="Minor Canon Row" Attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">   
 <param ve-map center="Q26377461" zoom="14">
 
 Returning to the Cathedral, we can see just beyond it the castle. While this features prominently on the [Rochester](/dickens/dickens-medway) skyline, it does not feature so prominently in Cloisterham, though Luke Fildes did provide an illustration of the castle for a frontispiece – could further misadventures have been planned upon the castle grounds? 
