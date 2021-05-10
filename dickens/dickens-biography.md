@@ -9,7 +9,7 @@
 <param ve-entity eid="Q507517" aliases="Rochester">
 
 **Born** 7.2.1812.    
-**Married** Catherine Hogarth 1836. 
+**Married** Catherine Hogarth 1836.   
 **Died** 9 June 1870.   
 Childhood (Chatham), Honeymoon (Chalk), Holiday (Broadstairs, Folkestone), Public reading (Canterbury), Residence (Rochester).   
 _Pickwick Papers_, _David Copperfield_, _A Tale of Two Cities_, _Great Expectations_, ‘Our English Watering Place’, ‘Out of Town’.  
@@ -17,7 +17,7 @@ _Pickwick Papers_, _David Copperfield_, _A Tale of Two Cities_, _Great Expectati
 
 _‘Kent, Sir – Every body knows Kent – apples, cherries, hops, and women.’ _The Pickwick Papers_.   
 Often seen as the greatest of the Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822 when his father was working in the Naval Pay Office at [Chatham Dockyard](/dickens/dickens-chatham), and again from 1856 to his death in 1870 (at [Gad’s Hill](/dickens/dickens-gads-hill), Higham). The surrounding area appears in his earliest novel [_The Pickwick Papers_](/dickens/pickwick-papers), which includes a lovingly evocative depiction of local inn the [Leather Bottle](/dickens/pickwick-papers-leather-bottle). [_Great Expectations_ ](/dickens/great-expectations-curated-walk) takes the reader through local scenes from [Cooling churchyard](/dickens/great-expectations-cooling) to Rochester with its [Guildhall](/dickens/great-expectations-guildhall) and - to Pip - equally awe inspiring [Satis House](/dickens/great-expectations-restoration-house). The hapless Magwitch will spend his last night of freedom just a few miles away at the sign of the ['Ship'](/dickens/great-expectations-ship-and-lobster).
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Charles_Dickens_and_Rochester_%281880%29_%2814581635499%29.jpg" label="Charles Dickens and Rochester" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Charles_Dickens_and_Rochester_%281880%29_%2814581635499%29.jpg" label="Satis House, Charles Dickens and Rochester (1880)" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
 Dickens's unfinished last novel _The Mystery of Edwin Drood_ is set largely in Rochester, and features landmarks such as the cathedral cloister and [Eastgate House](/dickens/edwin-drood-eastgate-house). He was working on the novel on the morning of his death in the [Swiss Chalet](/dickens/dickens-swiss-chalet) at [Gad's Hill](/dickens/dickens-gads-hill). This story of jealousy and intrigue has never been solved, although the obsessive behaviour of John Jasper continues to keep readers guessing. Just five years earlier Dickens's own reputation had been threatened when the carriage in which he was travelling with [Ellen Ternan](/19c/19c-ternan-biography) was destabilised in the [Staplehurst](/dickens/dickens-staplehurst) railway accident.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg" label="Staplehurst rail crash" attribution="Illustrated London News, Public domain, via Wikimedia Commons">
@@ -27,7 +27,7 @@ But while both Dickens's childhood and final homes were in West Kent, he spent m
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/79/The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820995540465%29.jpg" label="The Dover Road: Annals of an Ancient Turnpike" attribution="Harper, Charles George, 1863-1943, No restrictions, via Wikimedia Commons">
 
 His two most obviously autobiographical novels, _David Copperfield_ (1850) set partly in [Dover](/dickens/dickens-doverr) and [Canterbury](/dickens/david-copperfield-canterbury), and [_Great Expectations_](/dickens/great-expectations-curated-walk) (1861) with its powerful evocation of the estuary marshes, also return to a pre-railway era in their treatment of young men whose lives are shaped by the Kent landscape. His final novel, the uncompleted [_Mystery of Edwin Drood_](http://droodinquiry.com/)  offers a notably more modern representation of Rochester, one that is linked to the temptations of London opium dens and rendered dangerous by the urges of sexual jealousy.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Charles_Dickens_and_Rochester_%281880%29_%2814788137593%29.jpg" label="Charles Dickens and Rochester" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Charles_Dickens_and_Rochester_%281880%29_%2814788137593%29.jpg" label="Charles Dickens and Rochester (1880)" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
 After his death the areas of Kent most closely associated with Dickens and his novels became the focus for numerous guide writers and literary pilgrims. As the fresh air movement took hold in the early years of the twentieth century, designated Dickens ‘rambles’ and cycling tours were promoted as a means of engaging with a revered writer while escaping the demands and pollution of London.
 <param ve-image url="images/Dickens_Land_books.jpg">
