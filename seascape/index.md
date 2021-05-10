@@ -48,3 +48,11 @@ On the 19 May 1845 H. M. sloops "Erebus" and "Terror" left Greenhithe, on their 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/The Goodwin Sands img-019.jpg)
 
 The Goodwin Sands provide an atmospheric backdrop to this shocking tale of crime, mystery and romance written by Victoria Holt and published in 1969.
+
+**[The Goodwin Sands](/dickens/david-copperfield-goodwin-sands/)**
+
+- author Professor Carolyn Oulton
+
+![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/48/Captn._Bullock%27s_Safety_Beacon_on_the_Goodwin_Sands_%28BM_1871%2C0812.5365%29.jpg)
+
+The Goodwin Sands, the graveyard of many ships and seamen, is a haven for seals and is mentioned in David Copperfield.
