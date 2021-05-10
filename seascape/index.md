@@ -49,6 +49,7 @@ On the 19 May 1845 H. M. sloops "Erebus" and "Terror" left Greenhithe, on their 
 
 The Goodwin Sands provide an atmospheric backdrop to this shocking tale of crime, mystery and romance written by Victoria Holt and published in 1969.
 
+##
 **[The Goodwin Sands](/dickens/david-copperfield-goodwin-sands/)**
 
 - author Professor Carolyn Oulton
