@@ -15,6 +15,8 @@ While staying in [Fort House](dickens-fort-house), [Broadstairs](broadstairs) in
 
 The last chapters of _David Copperfield_ had been written in [Fort House](dickens-fort-house)  the year before, and it is tempting to think that the Yarmouth storm in which Ham and Steerforth both drown may have been inspired by Dickens’s observation of the Goodwins in tempestuous weather. David himself avers that ‘I have started up so vividly impressed by it, that its fury has yet seemed raging in my quiet room, in the still night. … I have an association between it and a stormy wind, or the lightest mention of a seashore, as strong as any of which my mind is conscious.’[^ref3]
 
+**Article written by:** Professor Carolyn Oulton
+
 ### Bibliography
 
 Dickens, Charles. _David Copperfield_ Oxford: Oxford World’s Classics, 1998.    
