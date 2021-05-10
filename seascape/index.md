@@ -55,4 +55,4 @@ The Goodwin Sands provide an atmospheric backdrop to this shocking tale of crime
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/48/Captn._Bullock%27s_Safety_Beacon_on_the_Goodwin_Sands_%28BM_1871%2C0812.5365%29.jpg)
 
-The Goodwin Sands, the graveyard of many ships and seamen, is a haven for seals and is mentioned in David Copperfield.
+The Goodwin Sands ‘whence floating lights perpetually wink after dark, as if they were carrying on intrigues with the servants'.
