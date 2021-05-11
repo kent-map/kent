@@ -37,7 +37,6 @@
 [Queen Victoria](19c-victoria-biography)   
 [Sir Hugh Walpole](19c-walpole-biography)
 
-#
 
 ##
 **Places**
@@ -52,7 +51,6 @@
 [Ramsgate](19c-ramsgate)  
 [Seaside resorts](19c-seaside)   
 
-#
 
 ##
 **Events**
