@@ -7,6 +7,7 @@
 
 ##
 **Persons**
+
 [William Harrison Ainsworth](19c-ainsworth-biography)  
 [Hans Christian Andersen](19c-christian-andersen)   
 [Jane Austen](19c-austen-biography)  
@@ -40,6 +41,7 @@
 
 ##
 **Places**
+
 [Broadstairs](/dickens/broadstairs-19th-century)   
 [Canterbury](19c-canterbury)   
 [Chatham Dockyard](19c-chatham-dockyard)  
@@ -54,6 +56,7 @@
 
 ##
 **Events**
+
 [Contagious Disesases Acts](19c-contagious-diseases)   
 [Hoodening](19c-hoodening)  
 [Leather and Dust](/dickens/19c-leather-and-dust)
