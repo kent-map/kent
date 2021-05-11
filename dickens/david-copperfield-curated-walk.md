@@ -73,16 +73,13 @@ At this point David is assimilated into the Kent landscape, moving between [Dove
 
 As a young man David will return triumphantly to London, where he duly engages in other rites of passage such as getting drunk with social superiors, failing to keep his lodgings in order and falling in love with his employer’s daughter. Like Pip he takes the coach on his visits to 
 [Canterbury](/dickens/david-copperfield-canterbury) to visit Agnes Wickfield, for whose sake he will triumphantly denounce Uriah Heep with the aid of Traddles and Mr Micawber. 
+<param ve-image url="images/Heep of Infamy M00002-10.jpg" Label="Uriah Heep">
 
-<p align="center">
-  <img src="images/Heep of Infamy M00002-10.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Uriah Heep</span>
-</p>
+Towards the end of the novel the Micawbers will anticipate Pip’s journey downriver to Gravesend. The night before Mr Micawber is inevitably arrested for debt and has to be baled out by David. But unlike Magwitch he is able to leave openly on the steamer from Hungerford Steps on his way to make his fortune in Australia. 
 
-Towards the end of the novel the Micawbers will anticipate Pip’s journey downriver to '''Gravesend.'''The night before Mr Micawber is inevitably arrested for debt and has to be baled out by David. But unlike Magwitch he is able to leave openly on the steamer from Hungerford Steps on his way to make his fortune in Australia. 
-
-Only once, in a desperate bid to avoid a tête á tête with Uriah, does David strike out in a new direction on the '''Ramsgate'''road. His failure to reference Thanet seems peculiar given its accessibility from [Canterbury](/dickens/david-copperfield-canterbury) and Dickens’s own love of the sea – indeed parts of the novel were written in [Fort House](dickens-fort-house) in [Broadstairs](/dickens/broadstairs). But beyond the pages of the novel itself David is keeping another secret – while his donkey-loathing aunt ostensibly lives in [Dover](/dickens/dickens-dover), the inspiration for her cottage is to be found in [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place) (now the [Dickens House Museum](https://www.visitkent.co.uk/attractions/dickens-house-museum-1999/) in 
+Only once, in a desperate bid to avoid a tête á tête with Uriah, does David strike out in a new direction on the Ramsgate road. His failure to reference Thanet seems peculiar given its accessibility from [Canterbury](/dickens/david-copperfield-canterbury) and Dickens’s own love of the sea – indeed parts of the novel were written in [Fort House](dickens-fort-house) in [Broadstairs](/dickens/broadstairs). But beyond the pages of the novel itself David is keeping another secret – while his donkey-loathing aunt ostensibly lives in [Dover](/dickens/dickens-dover), the inspiration for her cottage is to be found in [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place) (now the [Dickens House Museum](https://www.visitkent.co.uk/attractions/dickens-house-museum-1999/) in 
 [Broadstairs](/dickens/broadstairs). If David ultimately succeeds in working out where home is, this is not a secret he is prepared to share with the reader.
+
 
 ### References
 
