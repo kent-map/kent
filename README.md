@@ -32,7 +32,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 - author: Clare Nursey
 
-![](https://kent-map.github.io/kent/20c/images/sissinghurst2.jpg)
+![](/20c/images/sissinghurst2.jpg)
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
@@ -50,7 +50,7 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 - author: Professor Max Saunders
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](/20c/images/redlandscape.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
@@ -59,7 +59,7 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 - author: Jeremy Page
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Jarman1.jpg)
+![](/20c/images/Jarman1.jpg)
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
 
@@ -70,42 +70,42 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 ##
 [**16th century**](/16c)
 
-![](https://kent-map.github.io/kent/images/thumbnails/16c.jpg)
+![](/images/thumbnails/16c.jpg)
 
 Establishment of Chatham Dockyard. Battle against the Spanish Armada. Industry includes textiles and iron production.
 
 ##
 [**17th century**](/17c)
 
-![](https://kent-map.github.io/kent/images/thumbnails/17c.jpg)
+![](/images/thumbnails/17c.jpg)
 
 Industry includes production of malt for brewing. Civil Wars.
 
 ##
 [**18th century**](/18c)
 
-![](https://kent-map.github.io/kent/images/thumbnails/18c.jpg)
+![](/images/thumbnails/18c.jpg)
 
 Strategic position of the Medway in relation to European wars. New sea water ‘cures’ see the reinvention of Margate as a fashionable resort.
 
 ##
 [**19th century**](/19c)
 
-![](https://kent-map.github.io/kent/images/thumbnails/19c.jpg)
+![](/images/thumbnails/19c.jpg)
 
 Arrival of the railway. Development of recognisably modern tourist industry.
 
 ##
 [**20th century**](/20c)
 
-![](https://kent-map.github.io/kent/images/thumbnails/20c.jpg)
+![](/images/thumbnails/20c.jpg)
 
 Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
 ##
 [**21st century**](/21c)
 
-![](https://kent-map.github.io/kent/images/thumbnails/21c.jpg)
+![](/images/thumbnails/21c.jpg)
 
 Regeneration and the rise of the DFL.
 
@@ -141,7 +141,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 ##
 [**Geoffrey Chaucer**](/14c/14c-chaucer)
 
-![](https://kent-map.github.io/kent/images/thumbnails/thumbnailchaucer.jpg)
+![](/images/thumbnails/thumbnailchaucer.jpg)
 
 Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
 
@@ -157,7 +157,7 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 ##
 [**Charles Dickens**](/dickens)
 
-![](https://kent-map.github.io/kent/images/thumbnails/dickens-head.jpg)
+![](/images/thumbnails/dickens-head.jpg)
 
 One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
 
