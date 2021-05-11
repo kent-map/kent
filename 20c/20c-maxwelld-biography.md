@@ -17,7 +17,7 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 
 Older, abandoned sites of industry also attracted Maxwell’s attention. In _The Enchanted Road_ his chapter ‘The Valley of Dreams’ describes a landscape where ‘geography gets lost, where geology is suspended, and where even the laws of gravity are slightly modified’. This ‘valley enchanted’ is no natural phenomenon, but the site of a string of rag stone quarries dating back perhaps to Roman times, now ameliorated by the growth of vegetation. A similar treatment is provided for the Elizabethan iron foundry landscape of the Weald.
 
-Maxwell does, however, provide his fair share of the charming, quaint and the curious, for example his excursion to Colling to visit the ‘lozenge’ tombstones, the model for opening chapter of [_Great Expectations_](/dickens/great-expectations-curated-walk).
+Maxwell does, however, provide his fair share of the charming, quaint and the curious, for example his excursion to Cooling to visit the ‘lozenge’ tombstones, the model for opening chapter of [_Great Expectations_](/dickens/great-expectations-curated-walk).
 
 **Article written by:** Peter Vujakovic
 
