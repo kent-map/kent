@@ -39,8 +39,6 @@
 ##
 **Places**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney copy - Scaled and adjusted.jpg)
-
 [Canterbury](/canterbury/20c-canterbury-home)   
 [Folkestone and World War One](20c-folkestone-ww1)   
 [Richborough: The Secret Port](20c-richborough)   
@@ -48,9 +46,6 @@
 
 ##
 **Events**
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/cathedralimage.jpg)
-
 
 [Belgian Refugees](20c-belgian-refugees)   
 [Ellen Terry's funeral](20c-terry-funeral)  
