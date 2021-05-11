@@ -32,8 +32,6 @@
 <param title="Traddles" article="Traddles">
 <param title="Uriah Heep" article="Uriah_Heep">
 
-## David Copperfield - a curated walk
-
 <param ve-map center="Q729006" zoom="12">
 <param data-map-layer
        title="Kent 1904"
