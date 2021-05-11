@@ -41,15 +41,17 @@
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney copy - Scaled and adjusted.jpg)
 
-[Charles Dobson](19c-charles-dobson-biography)  
-[Thomas Goodban](19c-thomas-goodban-biography)   
-[William Longhust](19c-william-longhurst-biography)  
-[John Marsh](19c-john-marsh-biography)   
-[James Shoubridge](19c-james-shoubridge)  
+[Canterbury](/canterbury/20c-canterbury-home)   
+[Folkestone and World War One](20c-folkestone-ww1)   
+[Richborough: The Secret Port](20c-richborough)   
+[The Secret War Tunnels of Dover Castle](20c-secret-tunnels)   
 
 ##
 **Events**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/cathedralimage.jpg)
 
-[Canterbury](19c-music-canterbury)
+
+[Belgian Refugees](20c-belgian-refugees)   
+[Ellen Terry's funeral](20c-terry-funeral)  
+[Hop Picking and the Literary Imagination](20c-hop-picking)    
