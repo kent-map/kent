@@ -1,7 +1,6 @@
 <param ve-config title="Kent Digital Map"
        banner="/images/kent-map-header.jpg"
-       show-abstracts="true"
-       layout="index">
+       show-abstracts="true">
        
 # Welcome
 
@@ -9,12 +8,14 @@ This site provides a set of themed essays about Kent, a county in South East Eng
 
 # Featured essays
 
+# {.cards}
+
 ##
 [**Mobile Landscapes - Finding Kent Dickensian**](/dickens/mobile-landscapes)
 
 - author: Ken Moffat and Carolyn W. de la L. Oulton
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/mobile-landscapes.jpg)
+![](/images/thumbnails/mobile-landscapes.jpg)
 
 You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie.
 
@@ -23,7 +24,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 - author: Simone Blandford
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/20c/images/spade MJC.jpg)
+![](/20c/images/spade%20MJC.jpg)
 
 “This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” Kipps
 ##
@@ -31,7 +32,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 - author: Clare Nursey
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
+![](https://kent-map.github.io/kent/20c/images/sissinghurst2.jpg)
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
@@ -64,49 +65,53 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 
 # Essays by period
 
+# {.cards}
+
 ##
 [**16th century**](/16c)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/16c.jpg)
+![](https://kent-map.github.io/kent/images/thumbnails/16c.jpg)
 
 Establishment of Chatham Dockyard. Battle against the Spanish Armada. Industry includes textiles and iron production.
 
 ##
 [**17th century**](/17c)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/17c.jpg)
+![](https://kent-map.github.io/kent/images/thumbnails/17c.jpg)
 
 Industry includes production of malt for brewing. Civil Wars.
 
 ##
 [**18th century**](/18c)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/18c.jpg)
+![](https://kent-map.github.io/kent/images/thumbnails/18c.jpg)
 
 Strategic position of the Medway in relation to European wars. New sea water ‘cures’ see the reinvention of Margate as a fashionable resort.
 
 ##
 [**19th century**](/19c)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/19c.jpg)
+![](https://kent-map.github.io/kent/images/thumbnails/19c.jpg)
 
 Arrival of the railway. Development of recognisably modern tourist industry.
 
 ##
 [**20th century**](/20c)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/20c.jpg)
+![](https://kent-map.github.io/kent/images/thumbnails/20c.jpg)
 
 Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
 ##
 [**21st century**](/21c)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/21c.jpg)
+![](https://kent-map.github.io/kent/images/thumbnails/21c.jpg)
 
 Regeneration and the rise of the DFL.
 
 # Essays by theme
+
+# {.cards}
 
 ##
 [**Landscapes**](/landscape)
@@ -118,23 +123,25 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 ##
 [**Seascapes**](/seascape)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/seascape/images/Reculver towers and coast.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/seascape/images/Reculver%20towers%20and%20coast.jpg)
 
 The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
 
 ##
 [**Musical Peregrinations**](/music)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney copy - Scaled and adjusted.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney%20copy%20-%20Scaled%20and%20adjusted.jpg)
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
 # Featured Authors
 
+# {.cards}
+
 ##
 [**Geoffrey Chaucer**](/14c/14c-chaucer)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/thumbnailchaucer.jpg)
+![](https://kent-map.github.io/kent/images/thumbnails/thumbnailchaucer.jpg)
 
 Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
 
@@ -150,6 +157,7 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 ##
 [**Charles Dickens**](/dickens)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/dickens-head.jpg)
+![](https://kent-map.github.io/kent/images/thumbnails/dickens-head.jpg)
 
 One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
+
