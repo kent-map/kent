@@ -21,8 +21,6 @@ At about this time, the _Gazette_ can be described as Conservative and anti-Refo
 In 1944, the [Luftwaffe](/canterbury/20c-canterbury-ww2) bombed [Canterbury](/canterbury/20c-canterbury-home) and destroyed the offices of the _Kentish Gazette_, although publication continued, and the next issue even contained a report on the bombing. In 1980, the _Gazette_ joined the Kent Media Group and still publishes today, winning ‘Newspaper of the Year’ in the 2019 Kent Press and Broadcast Awards.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8d/St_George%27s_Tower_Canterbury_plaque.JPG" label="Commemorative plaque to the Bedeker Raid on Canterbury" attribution="Adam Bishop, CC BY-SA 3.0, via Wikimedia Commons">
 
-**Article written by:** Katie Holdway
-
 ### Bibliography:
 Hannah Barker, _Newspapers, Politics and English Society 1695-1855_ (Essex: Pearson, 2000).   
 ‘History’, [_KM Media Group_](https://www.kmmediagroup.co.uk/history/) [Accessed: 25/06/2020].   
