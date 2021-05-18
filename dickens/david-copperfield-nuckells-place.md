@@ -1,13 +1,23 @@
-<param ve-config style="article">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config
+       title="2 Nuckell’s Place, Victoria Parade, Broadstairs" 
+       banner="images/david-copperfield-banner.jpg"
+       author="Professor Carolyn W. de la L. Oulton"
+       layout="vtl">
 
-## 2 Nuckell’s Place, Victoria Parade, Broadstairs. 
+<param title="Bleak House" eid="Q4925737">
+<param title="Broadstairs" eid="Q922739">
+<param title="Canterbury" eid="Q29303">
+<param title="Charles Dickens" eid="Q5686">
+<param title="Chatham" eid="Q729006">
+<param title="David Copperfield" eid="Q189811">
 
 **The model for Betsey Trotwood’s cottage in _David Copperfield_.**
 
 **Publication** _David Copperfield_ (1848-50).
 
->‘I followed the young woman, and we soon came to a very neat little cottage with cheerful bow-windows: in front of it, a small square gravelled court or garden full of flowers, carefully tended, and smelling deliciously.
-“This is Miss Trotwood’s” said the young woman. “Now you know; and that’s all I have got to say.” With which words she hurried into the house, as if to shake off the responsibility of my appearance; and left me standing at the garden-gate, looking disconsolately over the top of it towards the parlor-window, where a muslin curtain partly undrawn in the middle, a large round green screen or fan fastened on to the window-sill, a small table, and a great chair, suggested to me that my aunt might be at that moment seated in awful state.’
+_‘I followed the young woman, and we soon came to a very neat little cottage with cheerful bow-windows: in front of it, a small square gravelled court or garden full of flowers, carefully tended, and smelling deliciously.   
+“This is Miss Trotwood’s” said the young woman. “Now you know; and that’s all I have got to say.” With which words she hurried into the house, as if to shake off the responsibility of my appearance; and left me standing at the garden-gate, looking disconsolately over the top of it towards the parlor-window, where a muslin curtain partly undrawn in the middle, a large round green screen or fan fastened on to the window-sill, a small table, and a great chair, suggested to me that my aunt might be at that moment seated in awful state.’_
 _David Copperfield_.
 
 ![<p align="center">
@@ -23,6 +33,4 @@ See also [David Copperfield: a curated walk](/dickens/david-copperfield-curated-
 Dickens, Charles. _David Copperfield_. Oxford: Oxford World’s Classics 1999.  
 
 ‘Gladys Waterer Talks Dickens at Broadstairs’. _Illustrated London News_. 4 April 1964. 90.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5ODMxOTQ1XX0=
--->
+
