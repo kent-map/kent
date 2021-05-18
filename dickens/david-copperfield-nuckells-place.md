@@ -26,4 +26,5 @@ See also [David Copperfield: a curated walk](/dickens/david-copperfield-curated-
 ## Bibliography
 Dickens, Charles. _David Copperfield_. Oxford: Oxford World’s Classics 1999.  
 ‘Gladys Waterer Talks Dickens at Broadstairs’. _Illustrated London News_. 4 April 1964. 90.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/David_Copperfield.jpg" label="David Copperfield" attribution="Wikimedia commons">
 
