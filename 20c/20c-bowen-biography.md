@@ -63,7 +63,7 @@ Each of those articles mentions the Cinque Ports in its opening paragraph. This 
 In 1964 she moved back to Hythe and to her last home, a small red brick box of a house opposite St Leonards Church on Church Path in Hythe, with views over the town to the Strait of Dover. This she named Carbery after her mother’s family home in Ireland. Here she wrote her final novel, _Eva Trout_. 
 In _Pictures and Conversations_, Bowen reflects that _‘Possibly it was England made me a novelist’_.[^ref13]  Possibly it was East Kent made her a novelist?
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/27/St_Leonard%27s_church%2C_Hythe.jpg" label="St Leonard's Church, Hythe" attribution="DeFacto, CC BY-SA 4.0, via Wikimedia Commons">
-<param ve-map center="Q17529941" zoom="15">>
+<param ve-map center="Q17529941" zoom="15">
 
 ### References
 
