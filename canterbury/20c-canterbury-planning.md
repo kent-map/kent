@@ -40,9 +40,6 @@ The new Longmarket, comprising shops and a first-floor terrace courtyard, succes
 
 The Whitefriars, formerly the site of an Augustinian friary and later the Simon Langton Grammar Schools, though criticised for being oversized, is a model commercial centre of its kind. The bus and coach hub serves well where it was built on the only site in the city centre immediately adjacent to the primary retail development. A well concealed multi-storey car park replaced the 1960s monstrosity, built in the aptly named “brutalist” style. The Whitefriars incorporates residential apartments and has successfully created a new public square where the outline of archaeological excavations is etched into the paving.
 <param ve-image url="https://stor.artstor.org/stor/c1364803-83ff-4c91-ad94-2c3903d4b135" label="Simon Langton Schools, Whitefriars">
-<param ve-image url="https://stor.artstor.org/stor/dfa23143-29ed-4551-b01f-7a93dfd04724" label="Simon Langton Grammar Schools when co-located" attribution="Public domain">
-<param ve-image url="https://stor.artstor.org/stor/a5222b83-766a-49ce-a3e5-6ff598aecee5" label="Simon Langton Girls' Grammar School">
-<param ve-image url="https://stor.artstor.org/stor/efb430e3-c025-4ddd-a976-bc985277273c" label="Simon Langton Boys' Grammar School">
 <param ve-map center="Q17064998" zoom="15">
 
 #### Smaller scale developments in former bomb sites.
