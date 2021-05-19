@@ -20,5 +20,5 @@ Article written by Andrew Vincent
 
 Bibliography:
 
--	Zeleny, Rachael Baitch. “Painting an Ethos: The Actress, the Angel in the House, and Pre-Raphaelite Ellen Terry.” Rhetoric Review, vol. 32, no. 4, 2013, pp. 397–418., www.jstor.org/stable/42003466. Accessed 29 April 2021.
--	THE BOOKLET FROM THE CHURCH HAS NO AUTHOR OR PRINTING INFORMATION BUT IT DOES HAVE A BIBLIOGRAPHY IN THE BACK, I AM UNSURE HOW TO REFERNCE IT.
+Taylor, A. H. _The Chapel of St John the Baptist, Smallhythe. Archaeologia Cantiana._ 30. 133-192. 1914. https://www.kentarchaeology.org.uk/arch-cant/vol/30/chapel-st-john-baptist-smallhythe Accessed 19 May 2021.
+Zeleny, Rachael Baitch. “Painting an Ethos: The Actress, the Angel in the House, and Pre-Raphaelite Ellen Terry.” Rhetoric Review, vol. 32, no. 4, 2013, pp. 397–418., www.jstor.org/stable/42003466. Accessed 29 April 2021.
