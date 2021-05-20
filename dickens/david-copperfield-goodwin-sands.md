@@ -11,12 +11,14 @@ While staying in [Fort House](dickens-fort-house), [Broadstairs](broadstairs) in
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Skeppsbrott_-_Sj%C3%B6historiska_museet_-_S_0902.tif/lossy-page1-3868px-Skeppsbrott_-_Sj%C3%B6historiska_museet_-_S_0902.tif.jpg" label="Goodwin Sands" attribution="Skeppsbrott - Sjöhistoriska museet, via Wikimedia Commons">
 
 The last chapters of _David Copperfield_ had been written in [Fort House](dickens-fort-house)  the year before, and it is tempting to think that the Yarmouth storm in which Ham and Steerforth both drown may have been inspired by Dickens’s observation of the Goodwins in tempestuous weather. David himself avers that ‘I have started up so vividly impressed by it, that its fury has yet seemed raging in my quiet room, in the still night. … I have an association between it and a stormy wind, or the lightest mention of a seashore, as strong as any of which my mind is conscious.’[^ref3]
+<param ve-image url="images/Bleak House in the time of Dickens.JPG" label="Bleak House -Fort House - as Dickens would have known it ©Elgate Postcards, Margate">
 
 ### Bibliography
 
 Dickens, Charles. _David Copperfield_ Oxford: Oxford World’s Classics, 1998.    
 House, Madeline, Graham Storey and Kathleen Tillotson, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 3: 1842-1843_. Oxford: Clarendon Press, 1974.   
 Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6d/A_thick_night_off_the_Goodwins_RMG_PX9959.jpg" label="A thick night off the Goodwin Sands,  the subject suggested by an article in _Household Words_" attribution="Lionel Percy Smythe, Public domain, via Wikimedia Commons">
 
 ### References
 
