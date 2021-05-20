@@ -32,7 +32,7 @@ H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervo
 
 - author: Brooke Altringham
 
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/35bc9f9f-8fd4-4164-8042-c0ddbae953b1)
+![](https://dev.visual-essays.app/thumbnail?url="images/brooke.jpg)
 
 Throughout History, Dover Castle has been used as a highly fortified military garrison to protect Britain’s shores from invaders. 
 
