@@ -1,6 +1,6 @@
 <param ve-config 
        title="The Built Environment"
-       banner="images/banners/19c.jpg"
+       banner="https://stor.artstor.org/stor/cc8a3415-e232-4db4-8a21-98b6d9539b2a"
        layout="index">
 
 #
