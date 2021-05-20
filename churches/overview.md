@@ -5,10 +5,13 @@
 <param ve-entity eid="Q2177468" aliases="Fordwich">
 <param ve-entity eid="Q3486845" aliases="Smallhythe">
 <param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q17546000" aliases="St Martin and St Eanswythe">
+<param ve-entity eid="Q840462" aliases="St Martin's Church">
 
 Kent is not only the garden of England, it is also the first landing site of Christianity in Britain. St Augustine began his mission to convert the Britons to Christianity in Canterbury, although he was not the first practicing Christian in the city. Queen Bertha first celebrated the mass at St Martin’s church around 580 AD. This makes St Martin’s priory, in the city of Canterbury, the first and oldest place of Christian worship in Britain. Kent is known for a number of famous and celebrated churches and cathedrals, but parochial Kent also includes some hidden gems with just as much to explore as the great Canterbury Cathedral. These churches are enveloped by rich local folklore, and often played major roles in the history of Britain. 
-<param ve-image url="
-<param ve-map center="
+<param ve-image url="https://stor.artstor.org/stor/5394b37b-30f1-4c6c-a751-990c98a13f1f" label="St Martin's Church, Canterbury">
+<param ve-map center=""Q840462" zoom="15">
 
 [St Peter and St Paul](stpandp-headcorn) in Headcorn, is a very old building on an even older site; there are many facets to this picturesque church and its grounds. Discover some of the local tales told about this landmark.
 <param ve-image url="https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99" label="St Peter and St Paul, Headcorn">
