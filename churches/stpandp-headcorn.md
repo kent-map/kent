@@ -2,11 +2,12 @@
 <param ve-config title="St. Peter and St. Paul’s, Headcorn" author="Andrew Vincent" layout="vtl" banner="xxx">
 
 <param ve-entity eid="Q743020" aliases="Headcorn">
+<param ve-entity eid="Q213180" aliases="Maidstone">
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
 The village of Headcorn in the Weald of Kent is home to many beautiful old buildings dating back many centuries. The oldest amongst these is the church of St. Peter and St Paul. Situated at the easternmost end of the village, where a building has stood for at least one thousand years, it sits at the centre of its cemetery. 
+<param ve-image url="https://stor.artstor.org/stor/e0e6b0c5-c739-48b5-99a0-3d94c3af0702" label="The view of the church from the east end, with the chancel and chapel windows and the vestry in the foreground." attribution="Andrew Vincent">
  
-(The view of the church from the east end, with the chancel and chapel windows and the vestry in the foreground.)PARAGRAPH 1
-
 The earliest written record of Headcorn is in the grant of Southolmenden (Southernden) to Christ Church Canterbury in the year 791 CE. It was a ‘den’ or clearing in the Great Wealden Forest, of which the great oak was believed to be a survivor. The earliest written record of a church at this site is in the Domesday Monachorum. The church of a place called ‘Hedekaruna’ (listed under the churches of Maidstone) is documented, meaning that there has been a church on this site since before 1100 CE. In the following centuries it has served well as a parish church, and has a very close relationship with many renowned families in the area, including the Culpepers of Preston Hall, who's coat of arms features on many of the church’s ornaments. 
 <param ve-image url="https://stor.artstor.org/stor/c9d907e6-b0ea-4ab8-94e1-79ab46c647ec" label="The view of the church from the west end, with the tower door and window, later additions to the older tower’s fabric" attribution="Andrew Vincent">
 
