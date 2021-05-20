@@ -5,7 +5,7 @@
 <param ve-entity eid="Q32520" aliases="St Augustine, Augustine of Canterbury">
 <param ve-entity eid="Q46098131" aliases="Cathedral Priory">
 <param ve-entity eid="Q38370" aliases="Henry VIII">
-<param ve-entity eid="Q3360332" aliases="King's School">
+<param ve-entity eid="Q3360332" aliases="King&#39s School">
 <param ve-entity eid="Q28975" aliases="Christopher Marlowe">
 <param ve-entity eid="Q7519171" aliases="Simon Langton Boys">
 <param ve-entity eid="Q7519165" aliases="sister school">
