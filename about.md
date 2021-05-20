@@ -18,6 +18,8 @@ As the map grows so too will the capacity for making unforeseen connections. Whi
 
 # Steering Group
 
+# {.cards}
+
 ##
 **Carolyn Oulton**
 
@@ -53,6 +55,8 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eliza Haweis Fanclub. When she’s not busy reading advice on how to be a proper Victorian lady, you will likely find her in a quaint old pub with a Kentish cider and a battered old copy of Jane Eyre
 
 # Authors
+
+# {.cards}
 
 ##
 **Pat Argar**
@@ -291,6 +295,8 @@ Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History 
 Charlotte Worthington is currently a third-year history and French undergraduate, with the intention to go into translation. She was born in the UK but lived in the Lot in the south of France from the age of 11. A keen interest in literature has led her to do her work experience for one of the third-year French modules with the Kent Digital Map project.
 
 # Design Team
+
+# {.cards}
 
 ##
 **Kaitlyn Cowling**
