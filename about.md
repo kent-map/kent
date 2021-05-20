@@ -186,7 +186,7 @@ Helena Kelly holds a doctorate from the University of Oxford but is currently an
 ##
 [**Martin Latham**]()
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Martin%20Latham%20for%20author%20page.JPG)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Martin%20Latham%20for%20author%20page.jpg)
 
     
 ##
