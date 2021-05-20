@@ -13,7 +13,7 @@ In the early winter of 1909 Canterbury was literally waterlogged, assailed by se
 <param ve-image url="https://stor.artstor.org/stor/8a73b8e9-398c-46dc-8669-7fab7d348202" label="St Peter's Lane" attribution="Horace Spence Collection.">
 
 As schools were closed down in the worst affected areas, students from the Simon Langton Boys’ Grammar School were still able to get in for their day’s lessons. But they seem to have made the best of this misfortune, as ‘It was quite fashionable to go down to the flooded districts and have free rides through the water. The mysterious examination of the playground by certain of “ours” was explained, when news came that certain schools were closing on account of the deluge'.  At the nearby King’s School the only casualty was, of all places, the drying room. 
-<param ve-image url="https://stor.artstor.org/stor/bf43a613-500a-415a-83d8-acef046c222d" label="North Lane" attribution="Horace Spence Collection">
+<param ve-image url="https://stor.artstor.org/stor/bf43a613-500a-415a-83d8-acef046c222d" label="Schools Closed sign" attribution="Horace Spence Collection">
 
 It was not just Canterbury that was affected by the floods. The rain ‘caused floods and havoc in all the low-lying districts of Kent, while Thursday night’s storm did enormous damage in places including Chartham, Wye, Maidstone and Ashford. In Romney Marsh scores of sheep were drowned. [Seaside towns]( /seascape) were also badly hit: relief parties in Folkestone were up to their necks in water; Farthingale Farm near Dover was ‘like a huge lake’; and Herne Bay suffered serious damage to the Parade.  
 <param ve-image url="https://stor.artstor.org/stor/b509124b-447a-48a4-b718-bc40372c947a" label="Floods at Fordwich" attribution="Horace Spence Collection">
