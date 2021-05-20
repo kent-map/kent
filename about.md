@@ -78,7 +78,7 @@ Sophie Baldock holds a PhD from the University of Sheffield. Her research focuse
 
 - twitter: @Alexawriting
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Headshot%20Image.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Headshot%20Image%20.jpg)
 
 Alexa Barrett is an undergraduate English Literature and Creative and Professional Writing student at Canterbury Christ Church University. She has lived in Kent her whole life, getting involved in learning about Canterbury's history and reading Victorian novels in her spare time. She is currently focusing on her own creative writing projects with many set in the Victorian Era. 
 
