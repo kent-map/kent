@@ -2,6 +2,7 @@
 <param ve-config title="St Mary the Virgin, Fordwich" author="Andrew Vincent" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q2177468" aliases="Fordwich">
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
 Just over two miles from Canterbury lies the smallest town in England, Fordwich. This picturesque town is at the highest navigable point of the Stour river, and is comprised almost entirely of listed buildings, including its beautiful little church. The church of St Mary the Virgin, near to the southern bank of the Stour, no longer holds regular worship, but still conducts significant events such as baptisms, weddings, and funerals. The building has been extended and altered many times during its long life. No one knows exactly when the church was built, but it is assumed that the main church, now the nave, was built in the mid-to-late eleventh century, although some believe that there is evidence of Anglo-Saxon workmanship in the nave’s fabric. Over the next three centuries, the north aisle would be added, the chancel extended, and the tower built onto the west end of the nave. 
 <param ve-image url="https://stor.artstor.org/stor/b19db3c3-6ab8-494d-b5eb-ae98c085602d" label="The view of St Mary’s from the east, with the chancel and north aisle chapel, with the tower and spire in the background" attribution="Andrew Vincent">
