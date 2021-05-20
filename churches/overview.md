@@ -22,7 +22,7 @@ Kent is not only the garden of England, it is also the first landing site of Chr
  <param ve-image url="https://stor.artstor.org/stor/b19db3c3-6ab8-494d-b5eb-ae98c085602d" label="St Mary the Virgin, Fordwich" attribution="Andrew Vincent">
  <param ve-map center="Q2177468" zoom="15">
 
-The church of [St John the Baptist](stjohn-smallhythe) in the village of Small Hythe (a village with a curious and unexpected history of its own) holds many precious relics, including the grave of [Ellen Terry]( /20c/20c-terry-biography), one of the most famous thespians of the modern age. 
+The church of St John the Baptist in the village of Small Hythe (a village with a curious and unexpected history of its own) holds many precious relics, including the grave of [Ellen Terry]( /20c/20c-terry-biography), one of the most famous thespians of the modern age. 
 <param ve-image url="https://stor.artstor.org/stor/62da9026-fd94-40de-9f54-ad63696fdc9e" label="St John the Baptist, Smallhythe" attribution="Andrew Vincent">
 <param ve-map center="Q3486845" zoom="15">
 
