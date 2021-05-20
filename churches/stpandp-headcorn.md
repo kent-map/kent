@@ -8,10 +8,7 @@ The village of Headcorn in the Weald of Kent is home to many beautiful old build
 (The view of the church from the east end, with the chancel and chapel windows and the vestry in the foreground.)PARAGRAPH 1
 
 The earliest written record of Headcorn is in the grant of Southolmenden (Southernden) to Christ Church Canterbury in the year 791 CE. It was a ‘den’ or clearing in the Great Wealden Forest, of which the great oak was believed to be a survivor. The earliest written record of a church at this site is in the Domesday Monachorum. The church of a place called ‘Hedekaruna’ (listed under the churches of Maidstone) is documented, meaning that there has been a church on this site since before 1100 CE. In the following centuries it has served well as a parish church, and has a very close relationship with many renowned families in the area, including the Culpepers of Preston Hall, who's coat of arms features on many of the church’s ornaments. 
-<param ve-image url="
-
-(The view of the church from the west end, with the tower door and window, later additions to the older tower’s fabric.)PARAGRAPH 2
-
+<param ve-image url="https://stor.artstor.org/stor/c9d907e6-b0ea-4ab8-94e1-79ab46c647ec" label="The view of the church from the west end, with the tower door and window, later additions to the older tower’s fabric" attribution="Andrew Vincent">
 
 This church, like many, has undergone significant change over its long lifetime, and many of these phases are still observable in the standing structure today. It is built from Bethersden marble, and is of a plain perpendicular style common in the fourteenth century. The current chancel of the church is believed to stand where the nave of the original church was. Its north and east walls are all that remain of this ancient building, and are the oldest part of the surviving structure. The church shows the ghostly traces of its long history, with the remains of lost windows and doors dotted around its fabric. The roof of the nave is celebrated as one of the finest examples of medieval timber working in Kent, and is still doing its job, impeccably preserved to this day.
 <param ve-image url="https://stor.artstor.org/stor/c6381b04-426f-4ec9-b281-c62d5f58a539" label="The view of the church interior, looking east towards the altar." attribution="Andrew Vincent">
