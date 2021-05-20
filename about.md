@@ -33,7 +33,7 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 ##
 [**Claire Bartram**]()
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/claire bartram.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/claire%20bartram.jpg)
 
 Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
 
@@ -60,7 +60,7 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 ##
 [**Pat Argar**]()
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Pat Argar.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Pat%20Argar.jpg)
 
 Pat Argar has a PhD from Canterbury Christ Church University. Her research interests include the writing of Sheila Kaye-Smith, the family history of the Comport family and all things rural (especially with relation to Romney Marsh, where she lives). Before the Covid19 pandemic she regularly gave presentations and talks to groups and societies on local history and literature. She was born and grew up in East Sussex and spent most of her adult life as a teacher. Her pandemic “lockdown” diary can be found at [theruralwriterblog.wordpress.com](theruralwriterblog.wordpress.com)
 
@@ -78,7 +78,7 @@ Sophie Baldock holds a PhD from the University of Sheffield. Her research focuse
 
 - twitter: @Alexawriting
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Headshot Image .jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Headshot%20Image.jpg)
 
 Alexa Barrett is an undergraduate English Literature and Creative and Professional Writing student at Canterbury Christ Church University. She has lived in Kent her whole life, getting involved in learning about Canterbury's history and reading Victorian novels in her spare time. She is currently focusing on her own creative writing projects with many set in the Victorian Era. 
 
@@ -92,7 +92,7 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 ##
 [**Bethia Carter**]()
 
-![](https://dev.visual-essays.app/thumbnail?rotate=270&url=https://raw.githubusercontent.com/kent-map/kent/main/images/Bethia Carter.JPG)
+![](https://dev.visual-essays.app/thumbnail?rotate=270&url=https://raw.githubusercontent.com/kent-map/kent/main/images/Bethia%20Carter.JPG)
 
 Bethia Carter is currently in her third year studying at Canterbury Christ Church University, for a BA (Hons) degree in English Language and Communication and French. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
 
@@ -127,7 +127,7 @@ Michael Goodrum is a Senior Lecturer in Modern History at CCCU. His most recent 
 ##
 [**Maggie Harris**]()
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maggie photo Westgate.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maggie%20photo%20Westgate.jpg)
 
 Maggie Harris is a Guyanese writer living in Kent. Winner of the Guyana Prize for Literature and Regional Winner of the Commonwealth Short Story Prize, she has taught Creative Writing at Kent and was International Fellow at Southampton University. Her poetry is published by Cane Arrow Press, and her short stories by Cultured Llama and Seren. Photo by Eleanor Marriot.
 
@@ -158,7 +158,7 @@ Katie Holdway is a PhD researcher in the Department of English at the University
 ##
 [**Alyson Hunt**]()
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Ice cream.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Ice%20cream.jpg)
 
 Alyson Hunt is a recent PhD survivor and long-time research associate of the International Centre for Victorian Women Writers at Canterbury Christ Church University. Her research interests include Victorian crime fiction and denigrating Dickens in favour of his [*contentious point*] much more interesting contemporary, Wilkie Collins.
     
@@ -172,7 +172,7 @@ Mandy Jones is a PhD researcher at CCCU. She spends her time telling anyone who�
 ##
 [**Miroslava Karaskova**]()
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/miroslava.karaskova photo.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/miroslava.karaskova%20photo.jpg)
 
 Miroslava is an undergraduate student from Slovakia, studying combined honours History with Film, Radio & Television studies at Canterbury Christ Church University. She hopes to continue her academic journey focusing on cultural history and portrayal of history in film, while practising filmmaking in the form of documentaries. In her free time, she presents two radio shows on the Canterbury Community and Student Radio, and she is a die-hard arts and crafts enthusiast.
 
@@ -186,7 +186,7 @@ Helena Kelly holds a doctorate from the University of Oxford but is currently an
 ##
 [**Martin Latham**]()
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Martin Latham for author page.JPG)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Martin%20Latham%20for%20author%20page.JPG)
 
     
 ##
@@ -282,7 +282,7 @@ Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. S
 
 - email: martin.watts@canterbury.ac.uk
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/MartinWatts (2).JPG)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/MartinWatts%20(2).JPG)
 
 Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History at Canterbury Christ Church University. His research interests include the industrial revolution, welfare and the state, the two world wars and naval history. Martin has written courses covering the effect of the industrial revolution and the world wars upon society in Kent, with an emphasis on the strategic importance of the county to the defence of the United Kingdom.
 
