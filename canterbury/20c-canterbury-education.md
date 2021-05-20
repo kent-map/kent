@@ -7,8 +7,8 @@
 <param ve-entity eid="Q38370" aliases="Henry VIII">
 <param ve-entity eid="Q3360332" aliases="King's School">
 <param ve-entity eid="Q28975" aliases="Christopher Marlowe">
-<param ve-entity eid="Q7519171" aliases="for boys">
-<param ve-entity eid="Q7519165" aliases="for girls">
+<param ve-entity eid="Q7519171" aliases="Simon Langton Boys">
+<param ve-entity eid="Q7519165" aliases="sister school">
 <param ve-entity eid="Q361" aliases="Great War">
 <param ve-entity eid="Q5340874" aliases="Education Act 1944">
 <param ve-entity eid="Q5496264" aliases="Canon Shirley">
@@ -21,11 +21,11 @@
 ### Education
 
 Education was at the heart of St Augustine, Augustine of Canterbury’s, mission to England in 597 and the great Benedictine monasteries of the Cathedral Priory and St Augustine’s were centres of teaching and learning in the middle ages. In view of the rich heritage of Christian learning it is not surprising that in the 20th century Canterbury became pre-eminent as a centre of education. Physically the expansion of schools and universities filled every vacant space in the city, pushed the physical boundaries to new limits and, in the maps of the Canterbury mind, took the example and influence of their alumni far beyond.
-<param ve-map centre="Q3360332" zoom="15">
 
 #### [The King's School](https://www.kings-school.co.uk)
 
-The tradition of education in Canterbury goes back to 597 when Augustine arrived to evangelize England. The education provided by the monastic foundation, and by the ancient school of the City of Canterbury, was in 1541 made the responsibility of the new Cathedral foundation of Henry VIII. Thanks to this the school became known as King’s School, but the school of Christopher Marlowe and William Harvey remained in the confines of the NW corner of the Precincts, in the Mint Yard, until the late-19th century. It was not until the coming of the [railways](/canterbury/20c-canterbury-railway) that King’s was able to open its doors to a wider public, became a Public School, built boarding houses, set rigorous academic standards for boys to win scholarships at Oxford and Cambridge and embraced organised sport. 
+The tradition of education in Canterbury goes back to 597 when Augustine arrived to evangelize England. The education provided by the monastic foundation, and by the ancient school of the City of Canterbury, was in 1541 made the responsibility of the new Cathedral foundation of Henry VIII. Thanks to this the school became known as King’s School, but the school of Christopher Marlowe and William Harvey remained in the confines of the NW corner of the Precincts, in the Mint Yard, until the late-19th century. It was not until the coming of the [railways](/canterbury/20c-canterbury-railway) that King’s was able to open its doors to a wider public, became a Public School, built boarding houses, set rigorous academic standards for boys to win scholarships at Oxford and Cambridge and embraced organised sport.
+<param ve-map centre="Q3360332" zoom="15">
 
 By 1900 the school had acquired Blore’s Field off St Stephen’s Road, named after George Blore (Headmaster 1873-86), where in 1990 the school’s Recreation Centre combining a swimming pool and sports hall with all the facilities of a municipal sports centre was opened. The King’s ‘Rec’ operates a membership scheme for the community. The school pushed out further from St Stephen’s road when in 1927 George Birley (Head Master 1927-35) bought 22 acres of farm land contiguous with the Canterbury West to Ramsgate railway. The playing fields known as Birley’s comprise six rugby pitches or three grass wicket squares and 26 cricket nets according to season, an artificial grass hockey pitch, hard courts for tennis and netball and a fine pavilion. Birley’s playing fields proved a farsighted acquisition when the surrounding land was sold for post war housing. 
 
@@ -38,6 +38,7 @@ Modernisation and further expansion continued apace from girls joining the schoo
 #### Simon Langton Grammar Schools (for boys and for girls)
 
 The Simon Langton Boys Grammar School, founded with its sister school in 1881, succeeded the Blue Coat Boys’ School which had been housed in the Poor Priests’ hospital. The two schools were built on the site of the Whitefriars (now the shopping centre) and were named after Simon Langton, Archdeacon of Canterbury (1227 until his death in 1228) who left endowments bequeathed to the schools, which nonetheless were non-denominational. 
+<param ve-map centre="Q7519171" zoom="15">
 
 No school was more tragically harmed by the two World Wars than Langton Boys. In the Great War (1914-1918) some 400 boys served on the western and eastern fronts, of whom 98 were killed. an exceptionally high proportion for any school. The house system is named after some of those boys who died in the service of their country. In the Second World War, while [King’s] was evacuated to a safe place in Cornwall, Langton boys and girls bore the brunt of the air raids. Following the severe damage to the Whitefriars buildings by the Baedeker Raid of June 1st 1942 schooling take place in shelters, huts and the open air.  The Butler Education Act (1944) set out the future for selective state grammar school, technical and secondary education, which in Canterbury (as with the county of Kent) has prevailed in a modified version until today.
 
@@ -45,11 +46,13 @@ After the war the Langton schools were rebuilt on farm land beyond the Kent coun
 
 #### St Anselm’s, the Archbishop’s and Canterbury High
 
-Built off the [Old Dover Road]( /dickens/david-copperfield-dover-road) on land between the Langtons, St Anselm’s Catholic School is a strong learning community, embracing the spiritual values of “Hope, Charity, Justice and Peace” for students of all academic abilities. Set in parkland at the foot of St Stephen’s hill, the Archbishop’s School (Church of England), also open to children of all abilities, became the Canterbury school in the post war decades which attracted most applications for places.  By the London Road Estate, founded as a secondary school in 1952 on land donated by Frank Hooker, Canterbury High School, which today has outstanding facilities as a specialist Sports Academy, draws more than 1000 students from across the city. [Canterbury High School Academy](https://www.canterbury.kent.sch.uk) (as now) works in partnership with Simon Langton Boys and shares the spacious campus and modern facilities with the Canterbury Adult Education Centre. 
+Built off the [Old Dover Road]( /dickens/david-copperfield-dover-road) on land between the Langtons, St Anselm’s Catholic School is a strong learning community, embracing the spiritual values of “Hope, Charity, Justice and Peace” for students of all academic abilities. Set in parkland at the foot of St Stephen’s hill, the Archbishop’s School (Church of England), also open to children of all abilities, became the Canterbury school in the post war decades which attracted most applications for places.  By the London Road Estate, founded as a secondary school in 1952 on land donated by Frank Hooker, Canterbury High School, which today has outstanding facilities as a specialist Sports Academy, draws more than 1000 students from across the city. [Canterbury High School Academy](https://www.canterbury.kent.sch.uk) (as now) works in partnership with Simon Langton Boys and shares the spacious campus and modern facilities with the Canterbury Adult Education Centre.
+<param ve-map centre="Q7721217" zoom="15">
 
 #### Barton Court
 
 Barton Court Grammar School started as the Girls’ Technical High. It occupied the site of the old hospital building in the grounds of St Augustine’s between 1937 and 1945 when the Technical High crossed the road to the grounds of the Barton Manor estate to re-open as Barton Court Grammar School for Girls. The 18th century manor house, gardens, playing field and lake, formerly used by the abbey as a fishery, must have seemed an idyllic place to learn. In the 1960s a brand new school building designed by city architect John Berbiers was built, part cantilevered over the pond. It was and still is called the ‘60’s Block’. In 1990 the school became co-educational and more buildings were developed around the lake as the school grew in numbers and ambition. Uniquely among Canterbury schools Barton Court took on the International Baccalaureate in place of A levels, with foreign languages a distinctive strength.  Today the Barton Court Academy Trust is busy with further expansion, taking over the adjoining site of the former Chaucer School in order to create a new ‘free school’ for children aged 11 to 18. 
+<param ve-map centre="Q4865609" zoom="15">
 
 #### Chaucer Technology College
 
