@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="St. Peter and St. Paul’s, Headcorn" author="Andrew Vincent" layout="vtl" banner="xxx">
+<param ve-config title="St. Peter and St. Paul’s, Headcorn" author="Andrew Vincent" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q743020" aliases="Headcorn">
 <param ve-entity eid="Q213180" aliases="Maidstone">
