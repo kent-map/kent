@@ -12,7 +12,7 @@
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/35bc9f9f-8fd4-4164-8042-c0ddbae953b1)
 
-Kent is home to some of the oldest Christian missions known to exist in Britain.
+Kent is not only the garden of England, it is also the first landing site of Christianity in Britain.
 
 
 
