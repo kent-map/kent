@@ -126,7 +126,7 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 ##
 [**The Built Environment**](/churches)
 
-![](https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
 
 A county of rich architecture; castles, churches, ports, forts and towers.
 
