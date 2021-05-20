@@ -33,3 +33,4 @@ Clunn, Harold. _Famous South Coast Pleasure Resorts Past and Present_. London: T
 Grandfield, Yvette F. ‘The development of the seaside resort and the striving for social tone', 1850-1899, with a particular examination of Margate and Folkestone : dissertation submitted in part fulfilment of the requirements for the degree of Master of Arts of the University of Kent at Canterbury’. (1994).   
 _The Kaleidoscope_.  15 August 1888. _Holbein Visitors’ List and Folkestone Journal._ 1.   
 Rever, J. C. ‘A domestic experiment’. 19 September 1888. _Holbein Visitors’ List and Folkestone Journal._ 17-18.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/The_beach_and_pier%2C_Folkestone%2C_England-LCCN2002696745.jpg" label="The Beach and Pier, Folkestone c.1890-1900" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
