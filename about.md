@@ -21,7 +21,7 @@ As the map grows so too will the capacity for making unforeseen connections. Whi
 # {.cards}
 
 ##
-**Carolyn Oulton**
+[**Carolyn Oulton**]()
 
 - twitter: @cccu_humanities
 - email: carolyn.oulton@canterbury.ac.uk
@@ -31,14 +31,14 @@ As the map grows so too will the capacity for making unforeseen connections. Whi
 Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. While carrying out research in Dickens Land she infringed enough bye laws to get herself hanged under the Bloody Code. But it was all Pip’s fault.
 
 ##
-**Claire Bartram**
+[**Claire Bartram**]()
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/claire bartram.jpg)
 
 Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
 
 ##
-**Michelle Crowther**
+[**Michelle Crowther**]()
 
 - twitter: @HumLib_cccu
 
