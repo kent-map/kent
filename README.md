@@ -130,6 +130,13 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
+##
+[**The Built Environment**](/churches)
+
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
+
+A county of rich architecture; castles, churches, ports, forts and towers.
+
 # Featured Authors
 
 ##
