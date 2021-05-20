@@ -1,6 +1,7 @@
-St. Peter and St. Paul’s, Headcorn
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="St. Peter and St. Paul’s, Headcorn" author="Andrew Vincent" layout="vtl" banner="xxx">
 
-
+<param ve-entity eid="Q743020" aliases="Headcorn">
 
 The village of Headcorn in the Weald of Kent is home to many beautiful old buildings dating back many centuries. The oldest amongst these is the church of St. Peter and St Paul. Situated at the easternmost end of the village, where a building has stood for at least one thousand years, it sits at the centre of its cemetery. 
  
@@ -15,8 +16,6 @@ This church, like many, has undergone significant change over its long lifetime,
 Many local legends exist about this church. The Old Oak, whose remains lie just outside the church porch, was believed to be a survivor of the great Wealden Forest, and to be over a thousand years old when it was tragically destroyed by a fire in 1989. It is said that both King John I and Queen Elizabeth I sat beneath its shade on their visits to Headcorn. The great tree is survived by its descendant, which stands in the same cemetery just 50 yards away. It is also believed that the Old Oak was used as a means of escape by a prisoner being held in the parvise, which was used as a prison cell for those awaiting transportation to the court at Maidstone or Canterbury. Another popular myth is that the roughly rectangular mound in the east of the cemetery is the remains of a plague pit. Every year countless daffodils bloom on top of the feature the fertility of the ground perhaps giving some credibility to this idea.
  
 (An old postcard of a colourised picture of the church with the Old Oak by its entrance.) PARAGRAPH 4
-
-Article by Andrew Vincent
 
 ### Bibliography 
 
