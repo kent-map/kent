@@ -47,7 +47,7 @@
 [Dover](19c-dover)   
 [Folkestone](19c-folkestone)   
 [Folkestone Free Library](19c-folkestone-free-library)  
-[Margate](/dickens/19c-margate)   
+[Margate](/19c/19c-margate)   
 [Ramsgate](19c-ramsgate)  
 [Seaside resorts](19c-seaside)   
 
