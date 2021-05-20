@@ -124,18 +124,18 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
 
 ##
-[**Musical Peregrinations**](/music)
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney copy - Scaled and adjusted.jpg)
-
-Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
-
-##
 [**The Built Environment**](/churches)
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
 
 A county of rich architecture; castles, churches, ports, forts and towers.
+
+##
+[**Musical Peregrinations**](/music)
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney copy - Scaled and adjusted.jpg)
+
+Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
 # Featured Authors
 
