@@ -26,6 +26,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 ![](https://raw.githubusercontent.com/kent-map/kent/main/20c/images/spade MJC.jpg)
 
 “This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” Kipps
+
 ##
 [**Vita Sackville-West**](/20c/20c-sackville-west-biography)
 
