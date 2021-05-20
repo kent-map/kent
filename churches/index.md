@@ -14,7 +14,6 @@
 
 Kent is not only the garden of England, it is also the first landing site of Christianity in Britain.
 
-#
 
 ##
 **[Folkestone Free Library](/19c/19c-folkestone-free-library/)**
@@ -25,7 +24,6 @@ Kent is not only the garden of England, it is also the first landing site of Chr
 
 H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervously, ‘I ‘aven’t got a ticket yet.
 
-#
 
 ##
 **[The Secret Tunnels War Tunnels of Dover Castle](20c/20c-secret-tunnels/)**
