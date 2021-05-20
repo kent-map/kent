@@ -1,4 +1,4 @@
-## James Shoubridge
+## James Shoubridge (c.1805-1872)
 
 The last name on the list of men who were Lay Clerks in 1825–6 is that of James Shoubridge. Shoubridge was clearly a model Lay Clerk: in 1830, it was ‘Resolved that £10 a year each be given during pleasure to [James] Shoubridge & [John Alexander] Longhurst, Lay Clerks.’[^ref1]  There followed another gratuity in 1839: ‘James Shoubridge received a grant of £10 in addition to his stipend from July 6,’[^ref2]  again for no specified reason. In the event, he resigned the following year ‘upon obtaining an appointment at the Foundling [Hospital]’, as was recorded in the Precentor’s Book for the period.[^ref3]  He had a long and successful career from there: in 1857 he became a Vicar Choral at St Paul’s Cathedral and conductor of the Cecilian Society, London, in 1852. 
 
