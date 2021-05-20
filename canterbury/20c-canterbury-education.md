@@ -13,10 +13,15 @@
 <param ve-entity eid="Q5340874" aliases="Education Act 1944">
 <param ve-entity eid="Q5496264" aliases="Canon Shirley">
 <param ve-entity eid="Q59632394" aliases="St Augustine's Abbey">
+<param ve-entity eid="Q7587039" aliases="St Anselm's">
+<param ve-entity eid="Q4785588" aliases="Archbishop's School">
+<param ve-entity eid="Q7721217" aliases="Canterbury High">
+<param ve-entity eid="Q4865609" aliases="Barton Court Grammar School">
 
 ### Education
 
 Education was at the heart of St Augustine, Augustine of Canterbury’s, mission to England in 597 and the great Benedictine monasteries of the Cathedral Priory and St Augustine’s were centres of teaching and learning in the middle ages. In view of the rich heritage of Christian learning it is not surprising that in the 20th century Canterbury became pre-eminent as a centre of education. Physically the expansion of schools and universities filled every vacant space in the city, pushed the physical boundaries to new limits and, in the maps of the Canterbury mind, took the example and influence of their alumni far beyond.
+<param ve-map centre="Q3360332" zoom="15">
 
 #### [The King's School](https://www.kings-school.co.uk)
 
