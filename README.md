@@ -26,6 +26,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 ![](https://raw.githubusercontent.com/kent-map/kent/main/20c/images/spade MJC.jpg)
 
 “This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” Kipps
+
 ##
 [**Vita Sackville-West**](/20c/20c-sackville-west-biography)
 
@@ -109,6 +110,13 @@ Regeneration and the rise of the DFL.
 # Essays by theme
 
 ##
+[**Seascapes**](/seascape)
+
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+
+The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
+
+##
 [**Landscapes**](/landscape)
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2546.JPG)
@@ -116,11 +124,11 @@ Regeneration and the rise of the DFL.
 Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
 ##
-[**Seascapes**](/seascape)
+[**The Built Environment**](/churches)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/seascape/images/Reculver towers and coast.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
 
-The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
+A county of rich architecture; castles, churches, ports, forts and towers.
 
 ##
 [**Musical Peregrinations**](/music)

@@ -1,5 +1,5 @@
 <param ve-config 
-       title="Churches"
+       title="The Built Environment"
        banner="images/banners/19c.jpg"
        layout="index">
 
@@ -10,15 +10,10 @@
 
 - author: Andrew Vincent
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/Margatefromtheparade.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/35bc9f9f-8fd4-4164-8042-c0ddbae953b1)
 
 Kent is home to some of the oldest Christian missions known to exist in Britain. St Eanswythe was born around 630 AD. 
 
-#
 
-##
-**[St John, Smallhythe](/churches/stjohn-smallhythe)**
-
-- author: Andrew Vincent
 
 
