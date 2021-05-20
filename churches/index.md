@@ -21,7 +21,7 @@ Kent is not only the garden of England, it is also the first landing site of Chr
 
 - author: Professor Carolyn Oulton
 
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/35bc9f9f-8fd4-4164-8042-c0ddbae953b1)
+![](https://dev.visual-essays.app/thumbnail?url=https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg)
 
 H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervously, ‘I ‘aven’t got a ticket yet.
 
@@ -32,7 +32,7 @@ H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervo
 
 - author: Brooke Altringham
 
-![](https://dev.visual-essays.app/thumbnail?url="images/brooke.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/b5454516-3f8b-49dc-ae11-fee1888c3292)
 
 Throughout History, Dover Castle has been used as a highly fortified military garrison to protect Britain’s shores from invaders. 
 
