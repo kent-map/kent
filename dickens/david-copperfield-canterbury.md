@@ -3,7 +3,7 @@
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
-**Publication** _David Copperfield_ (1850).
+**Publication** _David Copperfield_ (1850)
 
 _‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’_   
 _David Copperfield_
@@ -16,7 +16,7 @@ very old house bulging out over the road; a house with long low lattice-windows 
   
 It is here that the Wickfields live and from where David begins his new career as a student at Dr Strong’s Academy, widely believed to be based on the [King’s School](http://www.kings-archives.co.uk/books-about-kings/memories-of-kings/charles-dickens-david-copperfield/). A great relief after Salem House, David describes it as:
 a grave building in a courtyard, with a learned air about it that seemed very well suited to the stray rooks and jackdaws who came down from the Cathedral towers to walk with a clerkly bearing on the grass-plot…[^ref2]
-<param ve-compare url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" label="Mint Yard 12079 Kings School" attribiton=" By kind permission of Peter Henderson.">
+<param ve-image url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" label="Mint Yard 12079 Kings School" attribiton=" By kind permission of Peter Henderson.">
 
 Tradition places Dr Strong’s house at 1 Lady Wootton’s Green, although some remain sceptical. Not least among them, a 1928 guide writer insists that ‘I can give a dozen reasons as to the utter absurdity of it. Fancy the Head Master of the King’s School living by St Augustine’s College. He might as well have lived in Dover. Dr Strong lived in the Precincts. adjoining his school.’[^ref3]
 <param ve-compare curtain url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" label="St Augustine's College, Canterbury (2021)">
