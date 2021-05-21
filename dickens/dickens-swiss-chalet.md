@@ -7,7 +7,7 @@
 
 ## Swiss Chalet
 
-**Event**  Arrival of Swiss Chalet at Gad's Hill in 1864.
+**Event**  Arrival of Swiss Chalet at Gad's Hill in 1864.   
 _‘Belonging to the house, but unfortunately placed on the other side of the high road, was a shrubbery, well wooded though in desolate condition, in which stood two magnificent cedars; and having obtained, in 1859, the consent of the local authorities for the necessary underground work, Dickens constructed a passage beneath the road from his front lawn; and in the shrubbery thus rendered accessible, and which he then laid out very prettily, he placed afterwards a Swiss chalet presented to him by Mr Fechter, which arrived from Paris in ninety-four pieces fitting like the joints of a puzzle, but which proved to be somewhat costly in setting on its legs by means of a foundation of brickwork.’_[^ref1] 
 <param ve image url="images/swiss chalet1.jpg" label="The Chalet at Gadshill Rochester, Kent Source: Forster, II, 153">
 
