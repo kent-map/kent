@@ -5,7 +5,7 @@
 <param ve-entity eid="Q32520" aliases="St Augustine, Augustine of Canterbury">
 <param ve-entity eid="Q46098131" aliases="Cathedral Priory">
 <param ve-entity eid="Q38370" aliases="Henry VIII">
-<param ve-entity eid="Q3360332" aliases="King&#39s School">
+<param ve-entity eid="Q3360332" aliases="King's School">
 <param ve-entity eid="Q28975" aliases="Christopher Marlowe">
 <param ve-entity eid="Q7519171" aliases="Simon Langton Boys">
 <param ve-entity eid="Q7519165" aliases="sister school">
@@ -17,6 +17,8 @@
 <param ve-entity eid="Q4785588" aliases="Archbishop's School">
 <param ve-entity eid="Q7721217" aliases="Canterbury High">
 <param ve-entity eid="Q4865609" aliases="Barton Court Grammar School">
+<param ve-entity eid="Q7593000" aliases="St Edmund's">
+<param ve-entity eid="Q15235569" aliases="Kent College">
 
 ### Education
 
@@ -30,15 +32,15 @@ The tradition of education in Canterbury goes back to 597 when Augustine arrived
 
 By 1900 the school had acquired Blore’s Field off St Stephen’s Road, named after George Blore (Headmaster 1873-86), where in 1990 the school’s Recreation Centre combining a swimming pool and sports hall with all the facilities of a municipal sports centre was opened. The King’s ‘Rec’ operates a membership scheme for the community. The school pushed out further from St Stephen’s road when in 1927 George Birley (Head Master 1927-35) bought 22 acres of farm land contiguous with the Canterbury West to Ramsgate railway. The playing fields known as Birley’s comprise six rugby pitches or three grass wicket squares and 26 cricket nets according to season, an artificial grass hockey pitch, hard courts for tennis and netball and a fine pavilion. Birley’s playing fields proved a farsighted acquisition when the surrounding land was sold for post war housing.
 <param ve-image url="https://stor.artstor.org/stor/67a31a8c-c065-4747-a259-131c9d72eddc" label="South prospect at King's School" attribution="By kind permission of King's School, Canterbury">
-<param ve-image url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" label="Mint Yard" attribution="Mint Yard, Kings School, Canterbury, 1976. By kind permission of King's School, Canterbury">
 <param ve-image url="https://stor.artstor.org/stor/daff0204-9646-4c43-a2ec-5577eb6cca3e" label="Mint Yard" attribution="Mint Yard, Kings School, Canterbury, c. 1900. By kind permission of King's School, Canterbury">
 <param ve-image url="https://stor.artstor.org/stor/a257cc7a-42ea-4a6d-a510-a0d88c551690" label="Murray School House" attribution="Murray School House, Kings School, Canterbury, c. 1900. By kind permission of King's School, Canterbury">
 
 King’s scholars have included the novelists [Hugh Walpole]( /19c/19c-walpole-biography) (1884-1911) and [Somerset Maugham]( /20c/20c-maugham-biography) (1874-1965). Their contrasting experience of the school appears in Maughan’s semi-autobiographical _Of Human Bondage_, as the dismal place where Philip Carey endured his school days, and Walpole’s _The Cathedral_, which reveres the architecture and monuments around the only school where he felt happy. Walpole’s reputation as the bestselling author of the inter-war years took a blow from Maugham’s _Cakes and Ale_ (1930), in which a novelist of more pushy ambition than literary talent was widely taken to be Hugh Walpole. Despite Maugham’s depiction of his school and his emphatic atheism, his ashes were scattered in the Cathedral Precincts garden near the Norman Staircase.
 
 The modern development of the school was largely the achievement of Canon Shirley, who became Head Master in 1935, acquired and built more boarding houses in the Precincts, expanded the school in numbers, started the festival of music and drama at the end of the summer term known as ‘King’s Week’, and whose eponymous assembly and concert hall is a grandiose legacy.
+<param ve-image url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" label="Mint Yard" attribution="Mint Yard, Kings School, Canterbury, 1976. By kind permission of King's School, Canterbury">
 
-Modernisation and further expansion continued apace from girls joining the school in the sixth form. with the acquisition of St Augustine’s College next to the ruins of the medieval St Augustine’s Abbey and, in 1992, becoming fully co-educational as a school of 850. Today 13 boarding houses are scattered around the Precincts, Broad Street and St Augustine’s. In the process King’s has taken on the conservation and enhancement of the ancient buildings in the Precincts and St Augustine’s, which in 1988 were declared by UNESCO as part of the Canterbury World Heritage site. In addition the historic buildings of the Dominican Priory, St Alphege Church and, more recently, the Malthouse, a 19th century brewery converted into a state-of-the-art theatre, with the Shirley Hall, are made available by the school for community use.
+Modernisation and further expansion continued apace from girls joining the school in the sixth form. with the acquisition of St Augustine’s College next to the ruins of the medieval St Augustine’s Abbey and, in 1992, becoming fully co-educational as a school of 850. Today 13 boarding houses are scattered around the Precincts, Broad Street and St Augustine’s. In the process King’s has taken on the conservation and enhancement of the ancient buildings in the Precincts and St Augustine’s, which in 1988 were declared by UNESCO as part of the Canterbury World Heritage site. In addition the historic buildings of the Dominican Priory, St Alphege Church and, more recently, the Malthouse, a 19th-century brewery converted into a state-of-the-art theatre, with the Shirley Hall, are made available by the school for community use.
 
 #### Simon Langton Grammar Schools (for boys and for girls)
 
@@ -60,7 +62,8 @@ Built off the [Old Dover Road]( /dickens/david-copperfield-dover-road) on land b
 
 #### Barton Court
 
-Barton Court Grammar School started as the Girls’ Technical High. It occupied the site of the old hospital building in the grounds of St Augustine’s between 1937 and 1945 when the Technical High crossed the road to the grounds of the Barton Manor estate to re-open as Barton Court Grammar School for Girls. The 18th century manor house, gardens, playing field and lake, formerly used by the abbey as a fishery, must have seemed an idyllic place to learn. In the 1960s a brand new school building designed by city architect John Berbiers was built, part cantilevered over the pond. It was and still is called the ‘60’s Block’. In 1990 the school became co-educational and more buildings were developed around the lake as the school grew in numbers and ambition. Uniquely among Canterbury schools Barton Court took on the International Baccalaureate in place of A levels, with foreign languages a distinctive strength.  Today the Barton Court Academy Trust is busy with further expansion, taking over the adjoining site of the former Chaucer School in order to create a new ‘free school’ for children aged 11 to 18. 
+Barton Court Grammar School started as the Girls’ Technical High. It occupied the site of the old hospital building in the grounds of St Augustine’s between 1937 and 1945 when the Technical High crossed the road to the grounds of the Barton Manor estate to re-open as Barton Court Grammar School for Girls. The 18th century manor house, gardens, playing field and lake, formerly used by the abbey as a fishery, must have seemed an idyllic place to learn. In the 1960s a brand new school building designed by city architect John Berbiers was built, part cantilevered over the pond. It was and still is called the ‘60’s Block’. In 1990 the school became co-educational and more buildings were developed around the lake as the school grew in numbers and ambition. Uniquely among Canterbury schools Barton Court took on the International Baccalaureate in place of A levels, with foreign languages a distinctive strength. Today the Barton Court Academy Trust is busy with further expansion, taking over the adjoining site of the former Chaucer School in order to create a new ‘free school’ for children aged 11 to 18. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Barton_court.jpg/802px-Barton_court.jpg" label="Barton Court, main building" attribution="Photo credit Le Deluge, CC BY-SA 3.0, via Wikimedia Commons">
 <param ve-map centre="Q4865609" zoom="15">
 
 #### Chaucer Technology College
@@ -69,12 +72,13 @@ The Chaucer was Canterbury’s best example of a Technical School under the prov
 
 #### St Edmund’s School and Kent College
 
-Even with the array of educational excellence among Canterbury’s state schools, [King’s] is just one of three independent schools which have also developed and flourished over the past hundred years. Separated by just a few yards across the Whitstable Road, St Edmund’s School and Kent College have consistently enhanced their own educational identity.
+Even with the array of educational excellence among Canterbury’s state schools, King’s is just one of three independent schools which have also developed and flourished over the past hundred years. Separated by just a few yards across the Whitstable Road, St Edmund’s School and Kent College have consistently enhanced their own educational identity.
 <param ve-image url="https://stor.artstor.org/stor/0335f354-b193-43c7-859f-39df4b1965a1" label="Postcard of Kent College" attribution="Postcard of Kent College, c.1930. By kind permission of Kent College">
 
 The fine Victorian buildings of St Edmund’s School, built on parkland acquired in 1855 by the Reverend Dr. Samuel Warneford for the Clergy Orphans Foundation, overlook the city from the prominence of St Thomas’ Hill. In 1972 St Edmund’s took in the Cathedral Choristers Choir School which had existed as an entirely independent school within the Precincts. The choristers still live in the Choir School building by the Deanery known as Junior House, an enclave of St Edmund’s within King’s! The choristers are provided with minibus transport for main school lessons and activities. St Edmund’s as a day and boarding co-educational school combines all the best features of a caring, happy, successful academic community which is committed to educating the whole person, including some very talented members. 
+<param ve-map centre="Q7593000" zoom="15">
 
-[Kent College]( https://kentcollege.com), founded 1885 as the Wesleyan College, Canterbury, on land made available by a farmer, Edward Pillow, occupies a rural site on the Whitstable Road. As an independent day and boarding school Kent College more than kept pace with the 20th century in the expansion of buildings, facilities, and excellence in academic achievement, sport and music. The school also owns and manages the adjoining Moat Farm estate and students exhibit livestock each year at the Kent County Show. Sharing a common connection with the Methodist Church with thirteen independent “sister schools” in Great Britain and its own offspring, Kent College Dubai, Kent College aspires by its motto *Lux Tua Via Mea* (Let Your Light be My Way) to world class excellence.
+Kent College, founded 1885 as the Wesleyan College, Canterbury, on land made available by a farmer, Edward Pillow, occupies a rural site on the Whitstable Road. As an independent day and boarding school, the [College](https://kentcollege.com) more than kept pace with the 20th century in the expansion of buildings, facilities, and excellence in academic achievement, sport and music. The school also owns and manages the adjoining Moat Farm estate and students exhibit livestock each year at the Kent County Show. Sharing a common connection with the Methodist Church with thirteen independent “sister schools” in Great Britain and its own offspring, Kent College [Dubai](https://kentcollege.ae/), Kent College aspires by its motto *Lux Tua Via Mea* (Let Your Light be My Way) to world class excellence.
 
 ***
 
