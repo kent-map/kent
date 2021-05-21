@@ -40,7 +40,7 @@ Storey, Graham, ed. The Pilgrim Edition: _The Letters of Charles Dickens.'' Volu
 --. and and K. J. Fielding, eds. The Pilgrim Edition: _The Letters of Charles Dickens.'' Volume 5: 1847-1849_. Oxford: Clarendon Press, 1977.   
 Turley, A. C. ‘Charles Dickens and Canterbury’. [from] East Kent Scientific and Natural History Society's 'Report and transactions for the year ending September 30th, 1907. Series II. Vol. VII'.   
 Wilson, Stanley Gordon Francis. _Canterbury and Charles Dickens: a Little Guide for Pilgrims_. Canterbury: Canterbury & District Chamber of Trade, 1928.   
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg" label="David reaches Canterbury" attribution="Artwork by Frank Reynolds (1876-1853), Public domain, via Wikimedia Commons">
 
 ### References
 
