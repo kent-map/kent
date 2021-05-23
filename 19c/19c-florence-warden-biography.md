@@ -19,6 +19,7 @@ Both sisters obtained positions as governesses, and in her spare time Florence b
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/TheGovernessRebeccaSolomon.jpg" label="The Governess, Rebecca Solomon c.1851" attribution="Rebecca Solomon, Public domain, via Wikimedia Commons">
 
 Florence continued to write short stories, and eventually ‘King’s Combe’ (1877) was published in _All the Year Round_.  Her early novels were not hugely successful, however she made her name with her 1883 novel _The House on the Marsh_ which she rattled off in two months. This marked her out as a mystery writer, a genre from which she was never to escape; “unless a dead body and some blood were found on the garden path in the first chapter” no publisher would accept the novel.   
+
 Adapting _The House on the Marsh_ for the theatre, Florence then stage managed and acted in her own production, providing roles for her sister and her soon to be husband, George Edward James. It was hugely successful and “to meet the requirements of managers and to preclude the representation of piratical versions” she arranged for three touring companies to take the play across the country in 1885. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/19/G_Durand_Saturday_Night_at_the_Victoria_Theatre_BL.jpg" label="Saturday Night at the Victoria Theatre, wood-engraving, published in The Graphic, 26 October 1872" attribution="Godefroy Durand, Public domain, via Wikimedia Commons © The British Library Board">
 
