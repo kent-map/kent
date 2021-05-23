@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Florence Warden (Florence Alice James) (1857 – 1929)" author="Michelle Crowther" layout="vtl" 
-banner="images/banners/19c.jpg">
+banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
