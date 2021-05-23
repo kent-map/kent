@@ -1,4 +1,6 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="John Keats (1795-1821)" author="Dr Sophie Baldock" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+
+<param ve-config title="John Keats (1795-1821)" author="Dr Sophie Baldock" layout="vtl" banner="/images/banners/19c.jpg">
 
 **Place:** Margate 1816-1817   
 The Romantic poet John Keats, whose short but remarkable career and early death from tuberculosis at the age of twenty-five have made him one of the most known and best loved poets of all time, holidayed in [Margate](/dickens/19c-margate) on two occasions in the summer and early autumn of 1816 and again in the summer of 1817. Although both trips to [Margate](/dickens/19c-margate) lasted only a few weeks, they mark two crucial turning points in Keats’s career.
