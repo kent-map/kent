@@ -38,7 +38,7 @@ Whilst in Ramsgate, Florence attended sittings at the local police court, “whe
 <param ve-image url="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" label="Ramsgate Commemorative Map 1884-1934">
 
 Florence was not the only woman to attend the hearing, and “Ladies it was remarked, were present in considerable force – much it must be said to their own inconvenience… At one point Inspector Ross found it necessary to engage the services of some of his subordinates in endeavouring to assist fair spectators in danger of suffocation to a place of greater safety.”  Florence clearly didn’t waste the experience and in the following year the opening scene of her novel _A Sensational Case_ (1894) was set in a courtroom which: _“was crowded to suffocation, for a man was on trial for his life”._ She continued _“every available corner was filled with ladies”_.  Her literary output was phenomenal at this period, she wrote three more novels in this year, whilst also giving birth to her fourth child in six years.
-<param ve-map center="Q736439" zoom="15">
+<param ve-map center="https://map-view.nls.uk/iiif/2/10116%2F101168726/info.json" zoom="15">
 
 She was described as a “sprightly little lady, handsome and fluent in conversation”  and Ramsgate mourned her departure when it was announced in the _East Kent Times and Mail_ in April 1898 that “one of its literary celebrities” was moving to Sandgate. However it is possible that Florence had already visited Sandgate before that period, as her novels _Kitty’s Engagement_ (1895) and _A Spoilt Girl_ (1895) feature the fictional towns of Beachythe and Sandhythe. 
 
