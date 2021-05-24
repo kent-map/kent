@@ -6,12 +6,12 @@ banner="/images/banners/19c.jpg">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q2287962" aliases="Cliffsend">
 
-**Places:** Ramsgate, Sandgate   
 _“Beachythe!” he repeated, “Beachythe! I hope I am not betraying a very shocking ignorance of English geography, but I’m afraid I can’t remember for the moment, ever having heard the name before.”    
 “It’s a place on the South Coast,” said Clive rather shortly. “Not very far from Dover.”_    
 _Kitty’s Engagement_, 1895.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Hythe_seafront_-_geograph.org.uk_-_1960795.jpg" label="Hythe seafront" attribution="E Gammie, CC BY-SA 2.0, via Wikimedia Commons">
 
+**Places:** Ramsgate, Sandgate  
 Florence Warden (16 May 1857 – 11 May 1929), actor and writer lived at St Mildred’s Road, Ramsgate and later Beach Cottage, Sandgate during the late nineteenth century. Born Florence Alice Price, the daughter of stockbroker Charles Price, she had a privileged childhood, brought up _“in affluence and luxury”_  and educated by governesses, however when her father’s business failed, she and her sister Gertrude were thrown upon their own resources. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg" label="Portrait of Florence Warden" attribution="Rijksmuseum, CC0, via Wikimedia Commons">
 
@@ -19,6 +19,7 @@ Both sisters obtained positions as governesses, and in her spare time Florence b
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/TheGovernessRebeccaSolomon.jpg" label="The Governess, Rebecca Solomon c.1851" attribution="Rebecca Solomon, Public domain, via Wikimedia Commons">
 
 Florence continued to write short stories, and eventually ‘King’s Combe’ (1877) was published in _All the Year Round_.  Her early novels were not hugely successful, however she made her name with her 1883 novel _The House on the Marsh_ which she rattled off in two months. This marked her out as a mystery writer, a genre from which she was never to escape; _“unless a dead body and some blood were found on the garden path in the first chapter”_ no publisher would accept the novel.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3c/Dickensjunior-1874.jpg" label="Charles Dickens Jnr, April 1873, editor of All The Year Round" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 Adapting _The House on the Marsh_ for the theatre, Florence then stage managed and acted in her own production, providing roles for her sister and her soon to be husband, George Edward James. It was hugely successful and “to meet the requirements of managers and to preclude the representation of piratical versions” she arranged for three touring companies to take the play across the country in 1885. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/19/G_Durand_Saturday_Night_at_the_Victoria_Theatre_BL.jpg" label="Saturday Night at the Victoria Theatre, wood-engraving, published in The Graphic, 26 October 1872" attribution="Godefroy Durand, Public domain, via Wikimedia Commons © The British Library Board">
@@ -49,4 +50,4 @@ Florence was not entirely lost to [Ramsgate](/19c/19c-ramsgate). A year after he
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fa/%27Ramsgate%27_by_J._Buxton_Knight.jpg" label="Ramsgate by J. Buxton Knight, 1908" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
 In 1901, the James’s were back living at Addison Court Gardens and it is uncertain whether they returned to live in Kent after this period. Her 1920 novel _The Old House at the Corner_ mentions Hythe, suggesting possible continuing connections. She died at Oakfield Lodge, Sydenham in 1929 at the age of 71.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/The_sands%2C_Ramsgate%2C_Kent%2C_England%2C_ca._1899.jpg" label="The sands, Ramsgate, Kent, 1899" attribution="Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/The_sands%2C_Ramsgate%2C_Kent%2C_England%2C_ca._1899.jpg" label="The Sands, Ramsgate, Kent, 1899" attribution="Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
