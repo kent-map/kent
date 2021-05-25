@@ -36,7 +36,8 @@
 [Netta Syrett](19c-syrett-biography)   
 [Ellen Ternan](19c-ternan-biography)   
 [Queen Victoria](19c-victoria-biography)   
-[Sir Hugh Walpole](19c-walpole-biography)
+[Sir Hugh Walpole](19c-walpole-biography)   
+[Florence Warden](19c-florence-warden-biography)   
 
 
 ### Places
