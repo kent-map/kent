@@ -65,19 +65,19 @@ In 1901, the Jameses were back living at Addison Court Gardens and it is uncerta
 [^ref2]:  _Hull Packet_, Friday 16 October 1885.   
 [^ref3]:  'Miss Florence Warden.'  Saturday,  March 16, 1929.  _The Times_. Issue: 45153.   
 [^ref4]:  _The Stage_, Friday 22 May, 1885.   
-[^ref5]:  _Glasgow Evening Post - Monday 12 December 1892.   
-[^ref6]:  _Globe - Tuesday 02 June 1885.   
-[^ref7]:  _The Era - Saturday 07 March 1885.   
-[^ref8]: _South Wales Daily News - Tuesday 16 August 1881.   
-[^ref9]:  _Thanet Advertiser - Saturday 14 September 1895.   
-[^ref10]:  _East Kent Times, 23 September 1896.   
-[^ref11]:  Thanet Advertiser - Saturday 14 September 1895.   
-[^ref12]:  Monmouthshire Beacon - Saturday 23 March 1895-   
-[^ref13]:  Warden, F. (1894). Cliff's end farm. Temple Bar: With which is Incorporated Bentley's Miscellany, Jan.1882-may 1898, 103(406), 111-143. Retrieved from {Proquest](https://www.proquest.com/historical-periodicals/cliffs-end-farm/docview/6441776/se-2?accountid=9869)   
-[^ref14]:  _Thanet Advertiser - Friday 22 March 1929
-[^ref15]:  Thanet Advertiser - Saturday 27 May 1893
-[^ref16]:  Thanet Advertiser - Saturday 14 September 1895
-[^ref17]:  East Kent Times and Mail - Wednesday 27 April 1898
-[^ref18]:  London Evening Standard - Friday 02 August 1895
-[^ref19]:  Folkestone, Hythe, Sandgate & Cheriton Herald - Saturday 03 December 1898
-[^ref20]:  East Kent Times and Mail 1 Feb 1899
+[^ref5]:  _Glasgow Evening Post_, Monday 12 December 1892.   
+[^ref6]:  _Globe_, Tuesday 02 June 1885.   
+[^ref7]:  _The Era_, Saturday 07 March 1885.   
+[^ref8]: _South Wales Daily News_, Tuesday 16 August 1881.   
+[^ref9]:  _Thanet Advertiser_, Saturday 14 September 1895.   
+[^ref10]:  _East Kent Times_, 23 September 1896.   
+[^ref11]:  _hanet Advertiser_, Saturday 14 September 1895.   
+[^ref12]:  _Monmouthshire Beacon_, Saturday 23 March 1895.      
+[^ref13]:  Warden, F. (1894). 'Cliff's end farm.' _Temple Bar: With which is Incorporated Bentley's Miscellany,_ Jan.1882-may 1898, 103(406), 111-143. Retrieved from {Proquest](https://www.proquest.com/historical-periodicals/cliffs-end-farm/docview/6441776/se-2?accountid=9869)   
+[^ref14]:  _Thanet Advertiser_, Friday 22 March 1929.   
+[^ref15]:  _Thanet Advertiser_, Saturday 27 May 1893.   
+[^ref16]:  _Thanet Advertiser_, Saturday 14 September 1895.   
+[^ref17]:  _East Kent Times and Mail_, Wednesday 27 April 1898.   
+[^ref18]:  _London Evening Standard_, Friday 02 August 1895.   
+[^ref19]:  _Folkestone, Hythe, Sandgate & Cheriton Herald_, Saturday 03 December 1898.   
+[^ref20]:  _East Kent Times and Mail_, 1 Feb 1899.   
