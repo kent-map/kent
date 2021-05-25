@@ -61,6 +61,14 @@ Florence was not entirely lost to [Ramsgate](/19c/19c-ramsgate). A year after he
 In 1901, the Jameses were back living at Addison Court Gardens and it is uncertain whether they returned to live in Kent after this period. Her 1920 novel _The Old House at the Corner_ mentions Hythe, suggesting possible continuing connections. She died at Oakfield Lodge, Sydenham in 1929 at the age of 71.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/The_sands%2C_Ramsgate%2C_Kent%2C_England%2C_ca._1899.jpg" label="The Sands, Ramsgate, Kent, 1899" attribution="Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
 
+### Bibliography
+
+Warden, F. _A Sensational case_, 1894.   
+Warden, F. _Kitty's engagement_, 1895.   
+Warden, F. _A Spoilt girl_, 1895.    
+
+### References
+
 [^ref1]:  _Hull Packet_, Friday 16 October 1885.   
 [^ref2]:  _Hull Packet_, Friday 16 October 1885.   
 [^ref3]:  'Miss Florence Warden.'  Saturday,  March 16, 1929.  _The Times_. Issue: 45153.   
