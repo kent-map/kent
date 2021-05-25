@@ -61,23 +61,23 @@ Florence was not entirely lost to [Ramsgate](/19c/19c-ramsgate). A year after he
 In 1901, the Jameses were back living at Addison Court Gardens and it is uncertain whether they returned to live in Kent after this period. Her 1920 novel _The Old House at the Corner_ mentions Hythe, suggesting possible continuing connections. She died at Oakfield Lodge, Sydenham in 1929 at the age of 71.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/The_sands%2C_Ramsgate%2C_Kent%2C_England%2C_ca._1899.jpg" label="The Sands, Ramsgate, Kent, 1899" attribution="Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
 
-[^ref1]:  Hull Packet - Friday 16 October 1885
-[^ref1]:  Hull Packet - Friday 16 October 1885
-[^ref1]:  Miss Florence Warden.  Saturday,  Mar. 16, 1929  The Times. Issue: 45153
-[^ref1]:  The Stage, Friday 22 May, 1885.
-[^ref1]:  Glasgow Evening Post - Monday 12 December 1892
-[^ref1]:  Globe - Tuesday 02 June 1885
-[^ref1]:  The Era - Saturday 07 March 1885
-[^ref1]: South Wales Daily News - Tuesday 16 August 1881
-[^ref1]:  Thanet Advertiser - Saturday 14 September 1895
-[^ref1]:  East Kent Times, 23 September 1896.
-[^ref1]:  Thanet Advertiser - Saturday 14 September 1895
-[^ref1]:  Monmouthshire Beacon - Saturday 23 March 1895
-[^ref1]:  Warden, F. (1894). Cliff's end farm. Temple Bar: With which is Incorporated Bentley's Miscellany, Jan.1882-may 1898, 103(406), 111-143. Retrieved from https://www.proquest.com/historical-periodicals/cliffs-end-farm/docview/6441776/se-2?accountid=9869
-[^ref1]:  Thanet Advertiser - Friday 22 March 1929
-[^ref1]:  Thanet Advertiser - Saturday 27 May 1893
-[^ref1]:  Thanet Advertiser - Saturday 14 September 1895
-[^ref1]:  East Kent Times and Mail - Wednesday 27 April 1898
-[^ref1]:  London Evening Standard - Friday 02 August 1895
-[^ref1]:  Folkestone, Hythe, Sandgate & Cheriton Herald - Saturday 03 December 1898
-[^ref1]:  East Kent Times and Mail 1 Feb 1899
+[^ref1]:  _Hull Packet_, Friday 16 October 1885.   
+[^ref2]:  _Hull Packet_, Friday 16 October 1885.   
+[^ref3]:  'Miss Florence Warden.'  Saturday,  March 16, 1929.  _The Times_. Issue: 45153.   
+[^ref4]:  _The Stage_, Friday 22 May, 1885.   
+[^ref5]:  _Glasgow Evening Post - Monday 12 December 1892.   
+[^ref6]:  _Globe - Tuesday 02 June 1885.   
+[^ref7]:  _The Era - Saturday 07 March 1885.   
+[^ref8]: _South Wales Daily News - Tuesday 16 August 1881.   
+[^ref9]:  _Thanet Advertiser - Saturday 14 September 1895.   
+[^ref10]:  _East Kent Times, 23 September 1896.   
+[^ref11]:  Thanet Advertiser - Saturday 14 September 1895.   
+[^ref12]:  Monmouthshire Beacon - Saturday 23 March 1895-   
+[^ref13]:  Warden, F. (1894). Cliff's end farm. Temple Bar: With which is Incorporated Bentley's Miscellany, Jan.1882-may 1898, 103(406), 111-143. Retrieved from {Proquest](https://www.proquest.com/historical-periodicals/cliffs-end-farm/docview/6441776/se-2?accountid=9869)   
+[^ref14]:  _Thanet Advertiser - Friday 22 March 1929
+[^ref15]:  Thanet Advertiser - Saturday 27 May 1893
+[^ref16]:  Thanet Advertiser - Saturday 14 September 1895
+[^ref17]:  East Kent Times and Mail - Wednesday 27 April 1898
+[^ref18]:  London Evening Standard - Friday 02 August 1895
+[^ref19]:  Folkestone, Hythe, Sandgate & Cheriton Herald - Saturday 03 December 1898
+[^ref20]:  East Kent Times and Mail 1 Feb 1899
