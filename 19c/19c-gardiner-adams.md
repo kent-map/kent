@@ -8,6 +8,7 @@ banner="/images/banners/19c.jpg">
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-entity eid="Q5516441" aliases="Gad's Hill">
 <param ve-entity eid="Q301948" aliases="Boxley">
+<param ve-entity eid="Q1434222" aliases="Medway">
 
 _Many fair spots of sylvan beauty lie   
 Around thee, many old historic sites,   
@@ -16,10 +17,10 @@ And all wherein the fancy most delights,
 There the clear Medway glideth gently by,   
 And with a murmur sweet, the shading bough requites._   
 H. G. Adams. Sonnet to Tennyson
-<param ve-map primary center="Canterbury" zoom="15">
+<param ve-map primary center="Q1434222" zoom="15">
 
 Henry Gardiner Adams was born in Deal and must have left school by 1826, when he was apprenticed to a Canterbury firm of chemists at the age of 14. He appears as a stationer in local directories in 1832  (not necessarily an unusual combination at the time) and married in 1842. An ambitious, self-made man, his literary work includes _The Ocean Queen, and Other Poems_ (1836) and the 1854 _God’s Image in Ebony_, an edited anthology which ‘aims at disabusing a certain portion of the public mind of what we conceive to be a pernicious error, by shewing that the Negro is morally and intellectually, as well as physically, the equal of the white man.’  
-<param ve-map primary center="Canterbury" zoom="15">
+<param ve-map primary center="Q29303" zoom="15">
 
 By 1839 he was living in Chatham, and his poetry was appearing regularly in the _Maidstone Journal and Kentish Advertiser_.  In 1840 he set about establishing a new periodical of his own, to be called the _Kentish Coronal_. The periodical idea seems to have been short-lived, although it resulted in the publication of an attractive, gilt-edged volume of the same name in 1841 (with a frontispiece by up and coming artist Richard Dadd). More importantly, the scheme brought Adams into contact with local authors such as the [Canterbury](/19c/19c-canterbury) antiquarian and political campaigner John Brent; also more illustrious figures such as Tennyson (who was staying in Boxley at the time) and [Dickens](https://kent-maps.online/dickens/). Brent duly contributed two poems to the volume. While Tennyson was pleased enough by ‘two friendly sonnets’  in the _Maidstone Journal_, and agreed to subscribe, he slightly ruined the effect by saying, ‘I hope the publication will not be a very expensive one, as I am poorer than a church mouse.’ 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Kentish_Coronal_Dadd.jpg" label="Frontispiece to Kentish Coronal (1841) edited by Henry Gardiner Adams." attribution="Google Books via Wikimedia Commons">
