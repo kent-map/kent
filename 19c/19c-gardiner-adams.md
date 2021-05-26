@@ -6,6 +6,7 @@ banner="/images/banners/19c.jpg">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q5516441" aliases="Gad's Hill">
 
 _Many fair spots of sylvan beauty lie   
 Around thee, many old historic sites,   
@@ -17,15 +18,20 @@ And with a murmur sweet, the shading bough requites._
 **H. G. Adams. Sonnet to Tennyson.**  
 
 Henry Gardiner Adams was born in Deal and must have left school by 1826, when he was apprenticed to a Canterbury firm of chemists at the age of 14. He appears as a stationer in local directories in 1832  (not necessarily an unusual combination at the time) and married in 1842. An ambitious, self-made man, his literary work includes _The Ocean Queen, and Other Poems_ (1836) and the 1854 _God’s Image in Ebony_, an edited anthology which ‘aims at disabusing a certain portion of the public mind of what we conceive to be a pernicious error, by shewing that the Negro is morally and intellectually, as well as physically, the equal of the white man.’  
+<param ve-map primary center="Q1011096" zoom="15">
 
 By 1839 he was living in Chatham, and his poetry was appearing regularly in the _Maidstone Journal and Kentish Advertiser_.  In 1840 he set about establishing a new periodical of his own, to be called the _Kentish Coronal_. The periodical idea seems to have been short-lived, although it resulted in the publication of an attractive, gilt-edged volume of the same name in 1841 (with a frontispiece by up and coming artist Richard Dadd). More importantly, the scheme brought Adams into contact with local authors such as the [Canterbury](/19c/19c-canterbury) antiquarian and political campaigner John Brent; also more illustrious figures such as Tennyson (who was staying in Boxley at the time) and [Dickens](https://kent-maps.online/dickens/). Brent duly contributed two poems to the volume. While Tennyson was pleased enough by ‘two friendly sonnets’  in the _Maidstone Journal_, and agreed to subscribe, he slightly ruined the effect by saying, ‘I hope the publication will not be a very expensive one, as I am poorer than a church mouse.’ 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Kentish_Coronal_Dadd.jpg" label="Frontispiece to Kentish Coronal (1841) edited by Henry Gardiner Adams." attribution="Google Books via Wikimedia Commons">
+<param ve-map primary center="Q729006" zoom="15">
 
 [Dickens](https://kent-maps.online/dickens/) cried off any personal contribution, but was happy to subscribe on the basis of his ‘many happy recollections connected with Kent’.  In 1845 Adams wrote him too a sonnet. Their correspondence continued almost until the end of [Dickens](https://kent-maps.online/dickens/)’s life, and he agreed to read twice (in 1858 and 1861) for the benefit of the Chatham Mechanics’ Institute, of which Adams was Hon. Secretary.  
+<param ve-map primary center="Q729006" zoom="15">
 
 But by the mid-1860s Adams’s position was becoming precarious and he may well have become an embarrassment to the more famous author. He seems to have enquired about a position at _All the Year Round_ in 1866, a request Dickens politely turned down.  Rather poignantly, Adams apparently preserved this letter in a first edition copy of _The Pickwick Papers._  In June 1868 Dickens declined to give a final reading at the end of his farewell tour, a suggestion he deemed ‘quite impracticable’;  in August he seems to have fended off a request for an introduction to the American poet Longfellow.  Whatever their final relations, Dickens kept his copy of the _Kentish Coronal_, which was included in his library at [Gad’s Hill](/dickens/dickens-gads-hill) at the time of his death in June 1870.
+<param ve-map primary center="Q5516441" zoom="15">
 
 By 1872 Adams, now operating as a chemist in Canterbury, was in trouble with creditors and his business went into liquidation.  He applied for relief to the Royal Literary Fund in 1874, 1876 and 1880. He died a few miles from the more famous self-made man of letters whose birth year he shared, in Rochester in 1881.
+<param ve-map primary center="Q29303" zoom="15">
 
 ### Bibliography
 
