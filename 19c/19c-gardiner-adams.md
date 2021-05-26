@@ -33,4 +33,21 @@ Archive of the Royal Literary Fund. British Library. Loan 96 RLF. 1/1950/1: 14 S
 --. 1/1950/17: 6 May 1880.
 
 Bauman Rare Books catalogue. https://www.baumanrarebooks.com/rare-books/dickens-charles/posthumous-papers-of-the-pickwick-club/87766.aspx  Accessed 21 May 2021. 
+
+  Goulden 27.
+  ii
+  Maidstone Journal and Kentish Advertiser. Tuesday 14 January 1840. 4.
+
+  Alfred Tennyson to Henry Gardiner Adams. [Mid-August 1842]. 209. 
+  Alfred Tennyson to Henry Gardiner Adams. 1 May 1843. 218.
+  Letter from Dickens to H. G. Adams. 18 January 184
+Letter from Dickens to H. G. Adams. 18 January 1840. PAGE
+  Letter from Dickens to H. G. Adams. 30 November 1858. [PAGE].
+  Letter from Dickens to H. G. Adams. 6 October 1861. [PAGE] 
+  Letter from Dickens to H. G. Adams. 19 February 1866. 
+  
+  Letter from Dickens to H. G. Adams. 21 June 1868. Pilgrim 12. 135. 
+  Letter from Dickens to H. G. Adams. 25 August 1868. Pilgrim 12. 173.
+
+
 			
