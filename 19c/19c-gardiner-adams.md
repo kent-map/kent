@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Henry Gardiner Adams (1812-1881)" author="xxx" layout="vtl" 
+<param ve-config title="Henry Gardiner Adams (1812-1881)" author="Professor Carolyn Oulton" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
@@ -7,6 +7,7 @@ banner="/images/banners/19c.jpg">
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-entity eid="Q5516441" aliases="Gad's Hill">
+<param ve-entity eid="Q301948" aliases="Boxley">
 
 _Many fair spots of sylvan beauty lie   
 Around thee, many old historic sites,   
@@ -15,6 +16,7 @@ And all wherein the fancy most delights,
 There the clear Medway glideth gently by,   
 And with a murmur sweet, the shading bough requites._   
 H. G. Adams. Sonnet to Tennyson
+<param ve-map primary center="Canterbury" zoom="15">
 
 Henry Gardiner Adams was born in Deal and must have left school by 1826, when he was apprenticed to a Canterbury firm of chemists at the age of 14. He appears as a stationer in local directories in 1832  (not necessarily an unusual combination at the time) and married in 1842. An ambitious, self-made man, his literary work includes _The Ocean Queen, and Other Poems_ (1836) and the 1854 _God’s Image in Ebony_, an edited anthology which ‘aims at disabusing a certain portion of the public mind of what we conceive to be a pernicious error, by shewing that the Negro is morally and intellectually, as well as physically, the equal of the white man.’  
 <param ve-map primary center="Canterbury" zoom="15">
