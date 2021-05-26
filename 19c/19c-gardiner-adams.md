@@ -26,7 +26,7 @@ But by the mid-1860s Adams’s position was becoming precarious and he may well 
 
 By 1872 Adams, now operating as a chemist in Canterbury, was in trouble with creditors and his business went into liquidation.  He applied for relief to the Royal Literary Fund in 1874, 1876 and 1880. He died a few miles from the more famous self-made man of letters whose birth year he shared, in Rochester in 1881.
 
-Bibliography
+### Bibliography
 
 Adams, Henry Gardiner. ‘Sonnets to Alfred Tennyson, on learning that he was residing at Boxley.’ Maidstone Journal and Kentish Advertiser. 9 August 1842. 2. British Newspaper Archive. Accessed 21 May 2021.
 
@@ -40,20 +40,20 @@ Archive of the Royal Literary Fund. British Library. Loan 96 RLF. 1/1950/1: 14 S
 
 Bauman Rare Books catalogue. https://www.baumanrarebooks.com/rare-books/dickens-charles/posthumous-papers-of-the-pickwick-club/87766.aspx  Accessed 21 May 2021. 
 
-  Goulden 27.
-  ii
-  Maidstone Journal and Kentish Advertiser. Tuesday 14 January 1840. 4.
+### References
 
-  Alfred Tennyson to Henry Gardiner Adams. [Mid-August 1842]. 209. 
-  Alfred Tennyson to Henry Gardiner Adams. 1 May 1843. 218.
-  Letter from Dickens to H. G. Adams. 18 January 184
-Letter from Dickens to H. G. Adams. 18 January 1840. PAGE
-  Letter from Dickens to H. G. Adams. 30 November 1858. [PAGE].
-  Letter from Dickens to H. G. Adams. 6 October 1861. [PAGE] 
-  Letter from Dickens to H. G. Adams. 19 February 1866. 
-  
-  Letter from Dickens to H. G. Adams. 21 June 1868. Pilgrim 12. 135. 
-  Letter from Dickens to H. G. Adams. 25 August 1868. Pilgrim 12. 173.
+[^ref1] Goulden 27.   
+[^ref2] ibid., ii   
+[^ref3] Maidstone Journal and Kentish Advertiser. Tuesday 14 January 1840. 4.   
+[^ref4] Alfred Tennyson to Henry Gardiner Adams. [Mid-August 1842]. 209.    
+[^ref5] Alfred Tennyson to Henry Gardiner Adams. 1 May 1843. 218.   
+[^ref6] Letter from Dickens to H. G. Adams. 18 January 184.   
+[^ref7] Letter from Dickens to H. G. Adams. 18 January 1840.    
+[^ref8] Letter from Dickens to H. G. Adams. 30 November 1858.    
+[^ref9] Letter from Dickens to H. G. Adams. 6 October 1861.    
+[^ref10] Letter from Dickens to H. G. Adams. 19 February 1866.  
+[^ref11] Letter from Dickens to H. G. Adams. 21 June 1868. Pilgrim 12. 135.   
+[^ref12] Letter from Dickens to H. G. Adams. 25 August 1868. Pilgrim 12. 173.   
 
 
 			
