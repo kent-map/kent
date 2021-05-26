@@ -28,17 +28,12 @@ By 1872 Adams, now operating as a chemist in Canterbury, was in trouble with cre
 
 ### Bibliography
 
-Adams, Henry Gardiner. ‘Sonnets to Alfred Tennyson, on learning that he was residing at Boxley.’ Maidstone Journal and Kentish Advertiser. 9 August 1842. 2. British Newspaper Archive. Accessed 21 May 2021.
-
---. ‘Sonnets by H. G. Adams. 1: To Charles Dickens’. Kentish Independent. 19 April 1845. 5. [Reprinted from _Jerrold’s Magazine_]. Accessed 21 May 2021.
-
-Archive of the Royal Literary Fund. British Library. Loan 96 RLF. 1/1950/1: 14 Sep 1874.
---. Loan 96 RLF 1/1950/10 : 3 Jul 1876
-
-
---. 1/1950/17: 6 May 1880.
-
-Bauman Rare Books catalogue. https://www.baumanrarebooks.com/rare-books/dickens-charles/posthumous-papers-of-the-pickwick-club/87766.aspx  Accessed 21 May 2021. 
+Adams, Henry Gardiner. ‘Sonnets to Alfred Tennyson, on learning that he was residing at Boxley.’ Maidstone Journal and Kentish Advertiser. 9 August 1842. 2. British Newspaper Archive. Accessed 21 May 2021.   
+--. ‘Sonnets by H. G. Adams. 1: To Charles Dickens’. Kentish Independent. 19 April 1845. 5. [Reprinted from _Jerrold’s Magazine_]. Accessed 21 May 2021.   
+Archive of the Royal Literary Fund. British Library. Loan 96 RLF. 1/1950/1: 14 Sep 1874.   
+--. Loan 96 RLF 1/1950/10 : 3 Jul 1876   
+--. 1/1950/17: 6 May 1880.   
+Bauman Rare Books catalogue. https://www.baumanrarebooks.com/rare-books/dickens-charles/posthumous-papers-of-the-pickwick-club/87766.aspx  Accessed 21 May 2021.    
 
 ### References
 
