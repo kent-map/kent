@@ -306,3 +306,7 @@ Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from C
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/heathermurdoch.jpg)
 
 Heather designed a favicon for the site.
+
+# With thanks
+
+For photographs: Amelia Baring, Calum Elliot, Emma Molford, Becca Miller, Charli Salter-Mclean, Chloe Bartolo, Conor Murphy, Conor Treston, Judyta Socha, Megan Yeoman, Michael Stubbs, Ethan Dudley, Nat Lowden, Sara Gelencer, Benjamin Mortley, Martin Crowther.
