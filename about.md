@@ -16,9 +16,7 @@ But rather than simply recreating a historic experience, the research aims to pr
 
 As the map grows so too will the capacity for making unforeseen connections. While the project inevitably reflects the interests of the research team, it is highly collaborative and is not designed to showcase or privilege any one argument over another. Instead it will help you find your own answers to questions you haven’t thought of yet.
 
-# Steering Group
-
-# {.cards}
+# Steering Group {.cards}
 
 ##
 [**Carolyn Oulton**]()
@@ -53,9 +51,7 @@ Michelle Crowther is the Learning and Research Librarian for the School of Human
 
 Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eliza Haweis Fanclub. When she’s not busy reading advice on how to be a proper Victorian lady, you will likely find her in a quaint old pub with a Kentish cider and a battered old copy of Jane Eyre
 
-# Authors
-
-# {.cards}
+# Authors {.cards}
 
 ##
 [**Pat Argar**]()
