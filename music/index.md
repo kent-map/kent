@@ -1,6 +1,7 @@
 <param ve-config 
        title="Musical Peregrinations"
-       banner="/images/banners/19c.jpg">
+       banner="/images/banners/19c.jpg"
+       class="kent-index">
 
 # {.cards}
 
