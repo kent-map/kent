@@ -22,7 +22,7 @@ He is best known for _The Canterbury Tales_, which he wrote in the last decade o
 
 Chaucer’s interest in Kent dates back to around 1375. In 1385 he was given permission to employ deputies for the roles of controllers of wool and petty customs for the London port, perhaps because of his involvement in Kent. He was named a “member of the commission of the peace” on the 12th of October of the same year, as such he likely already had financial commitments in the area by this time, the role was renewed in 1386 . In October 1386 he was elected “Knight of the Shire” to represent Kent in the 'Wonderful Parliament' from 1 October to 18 November 1386. He was also a Justice of the Peace until 1389 dealing with crimes related to trespassing, ambushes and weights and measures violations and witnessed documents at Woolwich in May 1393. 
 <param ve-map center="Q1006232" zoom="12">
-<param ve-image url="images/IMG_2476.JPG" label="The End of the Pilgrim's Way" attribution="Photographed by Martin Crowther">
+<param ve-image url="https://stor.artstor.org/stor/ef31ef12-11c7-42bf-9db8-a2239051278e" label="The End of the Pilgrim's Way" attribution="Photographed by Martin Crowther">
 
 After Chaucer resigned from his role as “Clerk of the King’s Works” in 1391, he seems to have had some financial problems. His retirement in Kent could have provided access to different resources as well as distancing him from any reaction from the king for having quit his royal appointment.
 
