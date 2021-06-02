@@ -2,6 +2,7 @@
 <param ve-config title="The Battle of Crayford" author="Francesca Allfrey and Beth Whalley" layout="vtl" banner="xxx" attribution">
 
 <param ve-entity eid="Q207208" aliases="bexley">
+<param ve-entity eid="Q146676" aliases="Crayford">
 
 **5th century, Bexley**
 
