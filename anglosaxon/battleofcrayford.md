@@ -22,19 +22,10 @@ In 2018 the local history group Crayford Reminiscence and Youth (CRAY) sought to
 If you find yourself in Crayford, we’d encourage you to explore the town, walking from the train station to the ‘Cray Gardens’, a pocket of greenery by the river. There, we’d invite you to imagine that the delicious smells from the brightly-lit take-aways selling every possible cuisine are instead wafting from smaller cooking fires in a bustling market. Among the cars imagine the Romans, then Catholic missionaries, then newer arrivals from across the North Atlantic medieval world passing through on their way from the coast to London. Cross over the London Road then walk up the hill of the high street to St Paulinus Church, and try and imagine what of this view has changed, and what may be recognisable, to the people who wrote down a few lines of a chronicle, 1000 years ago.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bb/River_Cray_at_Crayford%2C_Kent_-_geograph.org.uk_-_137404.jpg" label="River Cray at Crayford, Kent" attribution="Dr Neil Clifton">
 
-Suggest images and captions
-
-https://drive.google.com/file/d/1EF9cnWqxcEZFnBuUAyuAGOdO-L3GlSkQ/view?usp=sharing 
-The 456AD entry ‘Abingdon Chronicle’ (British Library, Cotton Tiberius B. I., folio 118v [http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_tiberius_b_i_f118v]. This manuscript was compiled during the 11th and 12th centuries.
-
-https://drive.google.com/file/d/19MNfKh5Uoje6gCmaemduHBIcCuYJ1tRj/view?usp=sharing Hengist Road and Horsa Road, Bexley, as shown on Google Maps.
-
 ### Works cited
 
-[^ref1]: Anon. “Entry for year 456”. 1st half 11th century-2nd half 12th century. Folio 118v of Cotton Tiberius B. I. British Library, London. Manuscript. http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_tiberius_b_i_f118v. Web. Last access 1 June 2021. Translations our own.
-
-[^ref2]: Hasted, Edward. The History and Topographical Survey of the County of Kent. Volume 2. London: W. Bristow, 1797. Print. 267-268.
-
-[^ref3]: Daniel, Peter. “The Legend of Hengest”. Crayford History Online. November 2018 - February 2019. https://www.crayfordhistory.org.uk/category/projects/the-legend-of-hengest. Web. Last accessed 1 June 2021.
+[^ref1]: Anon. “Entry for year 456”. 1st half 11th century-2nd half 12th century. Folio 118v of Cotton Tiberius B. I. British Library, London. Manuscript.   http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_tiberius_b_i_f118v. Web. Last access 1 June 2021. Translations our own.   
+[^ref2]: Hasted, Edward. The History and Topographical Survey of the County of Kent. Volume 2. London: W. Bristow, 1797. Print. 267-268.   
+[^ref3]: Daniel, Peter. “The Legend of Hengest”. Crayford History Online. November 2018 - February 2019. https://www.crayfordhistory.org.uk/category/projects/the-legend-of-hengest. Web. Last accessed 1 June 2021.   
 
 
