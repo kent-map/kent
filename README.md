@@ -140,7 +140,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 # Featured Authors
 
 ##
-[**Geoffrey Chaucer**](/14c/14c-chaucer)
+[**Geoffrey Chaucer**](/medieval/14c-chaucer)
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/thumbnailchaucer.jpg)
 
