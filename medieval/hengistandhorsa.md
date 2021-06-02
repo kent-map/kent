@@ -1,8 +1,11 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="Hengest and Horsa" author="Francesca Allfrey and Beth Whalley" layout="vtl" banner="xxx" attribution=xxx">
+<param ve-config title="Hengest and Horsa" author="Francesca Allfrey and Beth Whalley" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg" attribution="Ron Strutt / Replica Viking ship "Hugin">
 
-<param ve-entity eid="Q1971996" aliases="Sissinghurst">
+<param ve-entity eid="Q793057" aliases="Aylesford">
+<param ve-entity eid="Q4222497" aliases="Kit's Coty House">
+<param ve-entity eid="Q7994824" aliases="White Horse Stone">
+<param ve-entity eid="Q729006" aliases="Chatham">
 
 _“Their first leaders are said to have been two brothers, Hengest and Horsa. Horsa was afterwards killed in battle by the Britons, and in the eastern part of Kent there is still a monument bearing his name. They were the sons of Wihtgisl, son of Witta, son of Wecta, son of Woden.”_   
 (Colgrave and Mynors edn, i.15)[^ref1]
@@ -16,7 +19,7 @@ The mid-sixth-century work of Gildas covers the same events as Bede, but makes n
 In Geoffrey’s inventive account, the story becomes a high-stakes drama of passion, betrayal and the supernatural; Vortigern marries Hengest’s daughter Renwein and, for his love, defects to the Saxon side when the British-Saxon alliance deteriorates. Vortigern’s son Vortimer becomes the new king of the British but is poisoned by Renwein, thus restoring Vortigern to the throne. Hengest, intent on the consolidation of his power, orders a massacre of Vortigern’s men during a peace conference in Amesbury. Both Vortigern and Hengest are ultimately killed by the Briton Aurelius Ambrosius; Vortigern is burnt alive for his betrayal of the Britons, while Hengest is executed following a defeat at the Battle of Maisbeli.
 
 
-Today, the two brothers have been thoroughly incorporated into Kentish myth. The county flag bears a white horse - ‘Hengest’ and ‘Horsa’ means ‘stallion’ and ‘horse’ in Old English - and place names across the area are also said to be named for the brothers: for instance, the Horsted Valley in Kent and Hengistbury Head in Dorset.
+Today, the two brothers have been thoroughly incorporated into Kentish myth. The county flag bears a white horse - ‘Hengest’ and ‘Horsa’ means ‘stallion’ and ‘horse’ in Old English - and place names across the area are also said to be named for the brothers: for instance, the Horsted Valley, near Chatham in Kent and Hengistbury Head in Dorset.
 
 Meanwhile, megaliths in the Medway area have become linked to the legend, including the ‘White Horse Stone’, and Kit’s Coty House, the latter said to commemorate Categern, one of the British leaders defeated by the brothers. But these associations are almost certainly post medieval inventions. In 1921, Nellie Slayton Aurner analysed eleven sources up to the 12th century, and found no mention of any monuments linked to either brother [^ref5].
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Kit%27s_Coty_House_05.jpg" label="Kit's Coty House" attribution="Simon Burchell, via Wikimedia Commons">
