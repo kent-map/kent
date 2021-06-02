@@ -32,12 +32,12 @@ https://drive.google.com/file/d/1SpyvE0AZ5PrvqW-TYl-azTD_kB6c1oGV/view?usp=shari
 
 Works cited
 
-[^ref1]: Bede. _The Ecclesiastical History of the English People_. Eds. Bertram Colgrave and R. A. B. Mynors. Oxford: Oxford University Press, 1969. Print.
-[^ref2]: Gildas. ‘Medieval Sourcebook: Gildas: from Concerning the Ruin of Britain (De Excidio Britanniae)’. _Internet History Sourcebooks Project_. Fordham University. Web <https://sourcebooks.fordham.edu/source/gildas.asp>. Last access 1 June 2021.
-[^ref3]: Nennius. ‘Medieval Sourcebook: Nennius: Historia Brittonum, 8th century’. _Internet History Sourcebooks Project_. Fordham University. Web <https://sourcebooks.fordham.edu/basis/nennius-full.asp>. Last access 1 June 2021.
-[^ref4]: Geoffrey of Monmouth. _The History of the Kings of Britain_. Ed. Lewis Thorpe. London: Penguin, 1973. Print.
-[^ref5]: Aurner, Nellie Slayton. _Hengest: A study in Early English hero legend_. Iowa: University of Iowa Humanistic Studies 2.1. Print.
-[^ref6]: Doyle White, Ethan. ‘Old stones, new rites: contemporary pagan interactions with the medway megaliths’. _Material Religion_ 12:3 (2016): 346-372. Online DOI: 10.1080/17432200.2016.1192152.
-[^ref7]: Rambaran-Olm, Mary. ‘Anglo-Saxon Studies [Early English Studies], Academia and White Supremacy’. _Medium_. 27 June 2018. Web. <https://mrambaranolm.medium.com/anglo-saxon-studies-academia-and-white-supremacy-17c87b360bf3>. Last access 1 June 2021.
-And @AxelFolio (Mary Rambaran-Olm). ‘Thread on misappropriated medieva/ pagan imagery’. Twitter.  30 May 2021. Web. <https://twitter.com/ISASaxonists/status/1399037263150002177>. Last accessed 1 June 2021.
-[^ref8]: Parul Jain. ‘Hengist and Horsa’. _Encyclopedia Britannica Online_. 10 February 2012. Web. <https://www.britannica.com/topic/Hengist>. Last access 1 June 2021.
+[^ref1]: Bede. _The Ecclesiastical History of the English People_. Eds. Bertram Colgrave and R. A. B. Mynors. Oxford: Oxford University Press, 1969. Print.   
+[^ref2]: Gildas. ‘Medieval Sourcebook: Gildas: from Concerning the Ruin of Britain (De Excidio Britanniae)’. _Internet History Sourcebooks Project_. Fordham University. Web <https://sourcebooks.fordham.edu/source/gildas.asp>. Last access 1 June 2021.   
+[^ref3]: Nennius. ‘Medieval Sourcebook: Nennius: Historia Brittonum, 8th century’. _Internet History Sourcebooks Project_. Fordham University. Web <https://sourcebooks.fordham.edu/basis/nennius-full.asp>. Last access 1 June 2021.   
+[^ref4]: Geoffrey of Monmouth. _The History of the Kings of Britain_. Ed. Lewis Thorpe. London: Penguin, 1973. Print.   
+[^ref5]: Aurner, Nellie Slayton. _Hengest: A study in Early English hero legend_. Iowa: University of Iowa Humanistic Studies 2.1. Print.   
+[^ref6]: Doyle White, Ethan. ‘Old stones, new rites: contemporary pagan interactions with the medway megaliths’. _Material Religion_ 12:3 (2016): 346-372. Online DOI: 10.1080/17432200.2016.1192152.   
+[^ref7]: Rambaran-Olm, Mary. ‘Anglo-Saxon Studies [Early English Studies], Academia and White Supremacy’. _Medium_. 27 June 2018. Web. <https://mrambaranolm.medium.com/anglo-saxon-studies-academia-and-white-supremacy-17c87b360bf3>. Last access 1 June 2021.      
+And @AxelFolio (Mary Rambaran-Olm). ‘Thread on misappropriated medieva/ pagan imagery’. Twitter.  30 May 2021. Web. <https://twitter.com/ISASaxonists/status/1399037263150002177>. Last accessed 1 June 2021.   
+[^ref8]: Parul Jain. ‘Hengist and Horsa’. _Encyclopedia Britannica Online_. 10 February 2012. Web. <https://www.britannica.com/topic/Hengist>. Last access 1 June 2021.   
