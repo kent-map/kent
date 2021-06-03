@@ -59,3 +59,11 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 
 Once a popular seaside resort where Victorians came to take the air, Margate was to suffer the fate of many other seaside towns: limping through the end of the last century with rising unemployment, dilapidated structures, organ music, and absent holiday makers.
 
+##
+**Starting University during the time of Covid**
+
+- author: Alexa Barrett
+
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/2b076d61-1920-4e76-aced-2a3b0d7e7512)
+
+
