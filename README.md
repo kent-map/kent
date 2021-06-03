@@ -25,16 +25,16 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/20c/images/spade MJC.jpg)
 
-“This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” Kipps
+“This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” Kipps.
 
 ##
-[**Vita Sackville-West**](/20c/20c-sackville-west-biography)
+[**Derek Jarman**](/20c/20c-jarman-biography)
 
-- author: Clare Nursey
+- author: Jeremy Page
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Jarman1.jpg)
 
-Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
+It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
 
 ##
 [**Charles Darwin**](/19c/19c-darwin-biography)
@@ -53,15 +53,6 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
-
-##
-[**Derek Jarman**](/20c/20c-jarman-biography)
-
-- author: Jeremy Page
-
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Jarman1.jpg)
-
-It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
 
 # Essays by period
 
@@ -154,11 +145,13 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 # Featured Authors
 
 ##
-[**Geoffrey Chaucer**](/medieval/14c-chaucer)
+[**Vita Sackville-West**](/20c/20c-sackville-west-biography)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/thumbnailchaucer.jpg)
+- author: Clare Nursey
 
-Known as the Father of English Literature, Geoffrey Chaucer wrote his poem _The Canterbury Tales_ about the County of Kent, but did he visit?
+![](https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
+
+Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
 ##
 [**Jane Austen**](/austen/index)
