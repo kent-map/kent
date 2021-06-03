@@ -64,9 +64,9 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum) existed from approximately the fifth or sixth century AD. It was absorbed into the Kingdom of Wessex in the late 9th century and after this into the Kingdom of England in the early 10th century.
 
 ##
-[**Medieval**](/medieval)
+[**Later Medieval**](/medieval)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/e9c0dbed-29a8-4693-8537-31fb21f19281)
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/1f93830d-4c30-4c54-b0fd-6e5d3783c439)
 
 The murder of Becket, the Black Death, Wat Tyler's rebellion, Canterbury pilgrims and Canterbury tales.
 

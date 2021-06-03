@@ -25,6 +25,7 @@
 [Somerset Maugham](20c-maugham-biography)  
 [Donald Maxwell](20c-maxwelld-biography)   
 [Baroness Orczy](20c-orczy-biography)   
+[Marian Fielding Peck](20c-peck-biography)   
 [Mary L. Pendered](20c-pendered-biography)   
 [Christopher St John](20c-st-john-biography)  
 [Diana & Tony Powell-Cotton](20c-powell-cotton)   
