@@ -290,6 +290,13 @@ Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. S
 Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History at Canterbury Christ Church University. His research interests include the industrial revolution, welfare and the state, the two world wars and naval history. Martin has written courses covering the effect of the industrial revolution and the world wars upon society in Kent, with an emphasis on the strategic importance of the county to the defence of the United Kingdom.
 
 ##
+**Beth Whalley**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/whalley.jpg)
+
+Beth Whalley received a PhD from King’s College London in 2020, and has recently undertaken a Postdoctoral Fellowship at Freie Universität Berlin. Her research focuses on early medieval literature and its contemporary reimaginings, and she is especially interested in literary engagements with place, space and the environment. She has articles forthcoming in Yearbook of English Studies and in edited collections on medieval ‘lost objects’ and the Chapel of St-Peter-on-the-Wall in Essex.
+
+##
 **Charlie Worthington**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/charlieworthington.jpg)
