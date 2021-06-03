@@ -5,8 +5,8 @@
     a {color: #800000 !important; font-size: 1.2em;}
 </style>
 
-<param ve-config title="Saxon Kent">
+<param ve-config title="14th Century Kent">
 
 ### People
 
-St Eanswythe
+[Hengest and Horsa](hengestandhorsa)   

@@ -66,6 +66,20 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 # Essays by period
 
 ##
+[**Anglo-Saxon**](/anglosaxon)
+
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/20604136-61ac-4aa6-a82e-99e97a44f66d)
+
+The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum) existed from approximately the fifth or sixth century AD. It was absorbed into the Kingdom of Wessex in the late 9th century and after this into the Kingdom of England in the early 10th century.
+
+##
+[**Medieval**](/medieval)
+
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/4422f81a-1554-4ec0-878a-81e2e415fdf7)
+
+The murder of Becket, the Black Death, Wat Tyler's rebellion, Canterbury pilgrims and Canterbury tales.
+
+##
 [**16th century**](/16c)
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/16c.jpg)
@@ -140,7 +154,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 # Featured Authors
 
 ##
-[**Geoffrey Chaucer**](/14c/14c-chaucer)
+[**Geoffrey Chaucer**](/medieval/14c-chaucer)
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/thumbnailchaucer.jpg)
 

@@ -45,6 +45,13 @@ Claire Bartram is the co-director of the Centre for Kent History and Heritage. H
 Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature.
 
 ##
+**Fran Allfrey**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran Allfrey.jpeg)
+
+Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity, and the emotional, social, and political stakes of these remakings.
+
+##
 **Laura Allen**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/lauraallen.jpg)
@@ -283,6 +290,13 @@ Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. S
 Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History at Canterbury Christ Church University. His research interests include the industrial revolution, welfare and the state, the two world wars and naval history. Martin has written courses covering the effect of the industrial revolution and the world wars upon society in Kent, with an emphasis on the strategic importance of the county to the defence of the United Kingdom.
 
 ##
+**Beth Whalley**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/whalley.jpg)
+
+Beth Whalley received a PhD from King’s College London in 2020, and has recently undertaken a Postdoctoral Fellowship at Freie Universität Berlin. Her research focuses on early medieval literature and its contemporary reimaginings, and she is especially interested in literary engagements with place, space and the environment. She has articles forthcoming in Yearbook of English Studies and in edited collections on medieval ‘lost objects’ and the Chapel of St-Peter-on-the-Wall in Essex.
+
+##
 **Charlie Worthington**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/charlieworthington.jpg)
@@ -301,8 +315,19 @@ Charlotte Worthington is currently a third-year history and French undergraduate
 Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from Canterbury Christ Church University. In 2019, Kaitlyn co-wrote a 'Murder Mystery Trail' event for the Being Human Festival. She has lived in Kent her whole life.
 
 ##
+**Dominique**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnail_DG.jpg)
+
+Dominique Gracia is a Project Manager with the Oxford Faculty of English and UK Administrative Director of the Collaborative Organization for Virtual Education. Her research focuses on Victorian poetry and short fiction, ekphrasis and the relationships between media, and the reuse and recurrence of the Victorian in twenty-first-century television.
+
+##
 **Heather Murdoch**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/heathermurdoch.jpg)
 
 Heather designed a favicon for the site.
+
+# With thanks
+
+For photographs: Amelia Baring, Calum Elliot, Emma Molford, Becca Miller, Charli Salter-Mclean, Chloe Bartolo, Conor Murphy, Conor Treston, Judyta Socha, Megan Yeoman, Michael Stubbs, Ethan Dudley, Nat Lowden, Sara Gelencer, Benjamin Mortley, Martin Crowther.

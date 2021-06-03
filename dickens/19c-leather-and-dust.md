@@ -23,6 +23,8 @@ The leather in shoes and manufacturing processes would be familiar today. Major 
 
 **Article written by:** Elizabeth Waterman-Scrase
 
+If that whet your appetite, you may enjoy Charles Harper's [_Dover Road_](https://www.gutenberg.org/files/36589/36589-h/36589-h.htm).
+
 ### Bibliography:
 
 _Moule’s County Maps, The East and South East of England_. (Moule, 1837).
