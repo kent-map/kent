@@ -75,7 +75,7 @@ The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum) existed from ap
 ##
 [**Medieval**](/medieval)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/4422f81a-1554-4ec0-878a-81e2e415fdf7)
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/e9c0dbed-29a8-4693-8537-31fb21f19281)
 
 The murder of Becket, the Black Death, Wat Tyler's rebellion, Canterbury pilgrims and Canterbury tales.
 
