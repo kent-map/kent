@@ -10,9 +10,3 @@
 ### People
 
 [Hengest and Horsa](hengestandhorsa)   
-
-### Event
-
-[Battle of Crayford](battleofcrayford)
-
-
