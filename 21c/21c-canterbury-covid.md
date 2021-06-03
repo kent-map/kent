@@ -1,13 +1,21 @@
 Starting university in the Covid year. 
+
 Starting University in 2020 was meant to bring freedom, doing the subject I cared most about on campus. The reality for myself and other students this year was somewhat different.
+
 On March 15th 2020 I was weeks away from A-level exams. By March 22nd Canterbury city centre was desolate. Cafes empty of life. I wore a paint-spraying face mask from my dad’s tool kit. Exams were cancelled, but it wasn’t just me going through change. The whole of Kent was going to reshape under the impact of the pandemic. 
+
 In September 2020, I began my University journey. I was more concerned about seeing people in real life than becoming a student. It ended my isolation, but I questioned what a campus would be like in a global health crisis. From canteens to lecture halls, they all had rules. Limited numbers, distancing, and masks meant it wasn’t just about having new surroundings to explore, but there was a completely new way of behaving to understand. University became about learning collaborative online software and one-way systems. 
 The city of Canterbury, home to two universities, was no longer a busy historical location full of student life. With shops closing in November, and many places shut for good, the city was changing and so was student identity. Retail jobs were not available like they usually were. People went outside more, walking in parks. The nightlife fell silent two months into the semester. Seaside areas like Herne Bay and Whitstable became unreachable with the stay-at-home rules. Rather than days out with new friends, the image of student social life shifted to online calls and occasional outdoor meetings. Society socials had moved online by November. 
+
 Before lockdown, Canterbury’s Butter Market was buzzing with international tourists. As we entered the spring of 2021 and my second semester was underway, I could access the Cathedral’s outdoor grounds without queueing amongst tourists. You could see a side to the city that felt more personal and intimate, being in an emptying university city. During Lent, the Cathedral marked the ‘deeply challenging time’ of lockdown that let us “reflect on deep questions of life, meaning, and faith‘ . I began to reconsider the history of the Cathedral as builders worked on it, and I wondered what [other great historical events it had survived]( https://kent-maps.online/canterbury/20c-canterbury-ww2/). 
+
 By March 2021, the order to stay at home was still in place. I’d still not seen a lot of university friends in real life, But _Kent Online_ reported in 2020 that ’the National Garden Scheme has come up with a creative way for people to access Kent’s beautiful gardens” through ’virtual tours‘ , allowing new ways to discover nature from our homes. Our gardens and parks became a hot spot for enjoyment. I became more aware, slowing down life momentarily. By April 2021 rules relaxed, and I had conversations in parks with other students about the nature around us, when I thought I’d have been inside the walls of a library. 
+
 Lockdown made me see and hear things I never wanted to. Discovering the Odeon in Canterbury was a vaccination centre in April 2021 was terrifying. I felt like I should be at the cinema with my new friends, not hearing people went there for an injection. Despite all this heartache, there’s a new identity for students emerging. We’re working online, connecting through chat boxes, and meeting others through a screen. My identity feels altered to a new definition based on self-motivation and isolation. Time slowed in lockdown and I thought less about the future and more about what was in front of me. When my A levels were cancelled overnight, it made me realise you have to enjoy what you have now. 
 
 Article by Alexa Barrett.
+
 Works Cited:
+
 Castle, Liane. “Coronavirus Kent: Gardens to remain open virtually during lockdown as part of National Garden Scheme appeal” 10th April 2020 https://www.kentonline.co.uk/kent/news/take-a-virtual-tour-of-kents-finest-gardens-225495/ Accessed: 19th May 2021.
 Unknown. “Lent, Life, and Lockdown at Canterbury” https://www.canterbury-cathedral.org/worship/lent-life-and-lockdown-at-canterbury/ Accessed: 19th May 2021.
