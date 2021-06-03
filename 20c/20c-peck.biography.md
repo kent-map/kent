@@ -2,7 +2,7 @@
 <param ve-config title="Marian Peck (1897-1974)" author="Charles Salmon" layout="vtl" 
 banner="images/xxx">
 
-**Designed maps of Kent and North East Kent, sold by Salmon Postcards from 1964-5.**
+**Designed maps of Kent and North East Kent, sold by Salmon Postcards from 1964-5.**   
 Marian Fielding Peck (always known as Maisie ) was born in Derbyshire in 1897 and attended Cheltenham Ladies College, where her love of art began. She started painting seriously in the 1920s and, as well as the beginnings of her map designs, she also specialised in calligraphy and miniatures, some of which were exhibited at the Royal Academy.
 <param ve-image url="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" attribution="©The Salmon Picture Library">
 
