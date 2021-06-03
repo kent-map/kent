@@ -301,6 +301,13 @@ Charlotte Worthington is currently a third-year history and French undergraduate
 Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from Canterbury Christ Church University. In 2019, Kaitlyn co-wrote a 'Murder Mystery Trail' event for the Being Human Festival. She has lived in Kent her whole life.
 
 ##
+**Dominique**
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnail_DG.jpg)
+
+Dominique Gracia is a Project Manager with the Oxford Faculty of English and UK Administrative Director of the Collaborative Organization for Virtual Education. Her research focuses on Victorian poetry and short fiction, ekphrasis and the relationships between media, and the reuse and recurrence of the Victorian in twenty-first-century television.
+
+##
 **Heather Murdoch**
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/heathermurdoch.jpg)
