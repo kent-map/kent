@@ -16,7 +16,8 @@ Lockdown made me see and hear things I never wanted to. Discovering the Odeon in
 
 Article by Alexa Barrett.
 
-Works Cited:
+### Works Cited
 
-Castle, Liane. “Coronavirus Kent: Gardens to remain open virtually during lockdown as part of National Garden Scheme appeal” 10th April 2020 https://www.kentonline.co.uk/kent/news/take-a-virtual-tour-of-kents-finest-gardens-225495/ Accessed: 19th May 2021.
-Unknown. “Lent, Life, and Lockdown at Canterbury” https://www.canterbury-cathedral.org/worship/lent-life-and-lockdown-at-canterbury/ Accessed: 19th May 2021.
+Castle, Liane. “Coronavirus Kent: Gardens to remain open virtually during lockdown as part of National Garden Scheme appeal” 10th April 2020 https://www.kentonline.co.uk/kent/news/take-a-virtual-tour-of-kents-finest-gardens-225495/ Accessed: 19th May 2021.   
+Unknown. “Lent, Life, and Lockdown at Canterbury” https://www.canterbury-cathedral.org/worship/lent-life-and-lockdown-at-canterbury/ Accessed: 19th May 2021.   
+<param ve-image url="https://stor.artstor.org/stor/24d208f8-0b96-4e08-85b3-c45a1558eb2b" label="Canterbury Odeon - Covid Vaccination Centre" attribution="Carolyn Oulton">
