@@ -1,51 +1,47 @@
 <template>
-  <v-container id="footer" ref="footer" v-mutate.attr="onMutate" style="z-index:100 !important;">
-    <v-row>
-      <v-col cols="12" nogutter>
-        <span style="padding-bottom: 8px; font-weight: bold; display: block">A collaboration between:</span>
-        <img src="https://gitcdn.link/repo/kent-map/kent/main/dickens/images/CCCU-logo-2colour.svg" height="30px"> &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://gitcdn.link/repo/kent-map/kent/main/images/labs.jpg" height="30px">
-      </v-col>
-    </v-row>
-  </v-container>
+  <div id="footer" :style="`max-width:${maxWidth}px; overflow:hidden;`">
+    <span style="padding-bottom: 8px; font-weight: bold; display: block">A collaboration between:</span>
+    <img :src="`${assetsBase}/dickens/images/CCCU-logo-2colour.svg`" style="height:30px;"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img :src="`${assetsBase}/images/labs.jpg`" height="30px">
+  </div>
 </template>
 
 <script>
+
   module.exports = {  
-    data: () => ({
-      height: undefined
-    }),
-    mounted() {
-      this.height = this.$refs.footer.clientHeight
-      this.$emit('footer-height', this.height)
+    name: 'Footer',
+    props: {
+      siteConfig: { type: Object, default: function(){ return {}} },
+      contentSource:  { type: Object, default: () => ({}) }
     },
-    methods: {
-      onMutate(mutations) {
-        const mutation = mutations[mutations.length - 1]
-        if (mutation.target && mutation.target.clientHeight !== this.height) {
-          this.height = mutation.target.clientHeight
-          this.$emit('footer-height', this.height)
-        }
-      }
-    }
+    data: () => ({}),
+    computed: {
+      maxWidth() { return window.innerWidth },
+      assetsBase() { return this.contentSource.assetsBaseUrl }
+    },
+    mounted() {},
+    methods: {},
+    watch: {}
   }
+
 </script>
 
-<style scoped>
+<style>
   
   [v-cloak] { display: none; }
+
   #footer {
-    border: 1px solid #ddd;
-    margin: 0;
-    max-width: none;
-    padding: 4px;
+    font-family: Roboto, sans-serif;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    font-size: .8rem;
+    font-weight: bold;
+    padding-left: 20px;
   } 
-  .site-footer, .row {
-    padding: 0;
-    margin: 0;
-  }
-  .col {
-    padding: 0 16px;
+  #footer img {
+    height: 30px;
+    margin: 0 12px;
   }
 
 </style>

@@ -46,7 +46,7 @@ David Copperfield, like Pip in _Great Expectations_, shares the difficult story 
 
 Unlike Pip the blacksmith’s boy, who must learn to challenge what it really means to be a ‘gentleman’, David is born into and then expelled from a secure middle class family. While Pip’s aspirations are bound up with escaping the Kent marshes and reaching London, David is packed off to the metropolis to work in a warehouse after his mother’s death. During this time he will become acquainted with ‘the meanest phases’ of London life, including pawn brokers, cheap lodgings and the debtors’ prison – his enduring sense of shame may even imply a precocious sexual awareness derived from what he sees on his way to and from work.  Both boys feel tainted by association and both are desperate to put as much distance as possible between themselves and the place of their humiliation. But David’s escape plan works in reverse as he makes his way down the [Dover Road](/dickens/david-copperfield-dover-road) to the coast.
 <param ve-map center="51.2, 0.9" zoom="10" title="Kent Marshes">
-<param ve-map-layer geojson active eid="dickens:dover-road" title="Dover Road" url="geojson/david-copperfield-dover-road.json">
+<param ve-map-layer geojson active eid="dickens:dover-road" title="Dover Road" url="/geojson/david-copperfield-dover-road.json">
 
 Neither David nor Pip ever quite gets the hang of making journeys without being ripped off at every stage. Young as he is, David has already learned how to budget on the six or seven shillings a week he is paid by his stepfather’s firm of wine merchants. But at the outset of his journey he trusts himself to a boy with a donkey cart who promptly steals his luggage and most of his money. Having pawned his waistcoat for ninepence somewhere near Greenwich, he makes his way on foot to Blackheath and sleeps under a haystack near his old school Salem House. The next morning he ‘crept away from the wall as Mr. Creakle's boys were getting up, and struck into the long dusty track which I had first known to be the [Dover Road](/dickens/david-copperfield-dover-road) when I was one of them, and when I little expected that any eyes would ever see me the wayfarer I was now, upon it.’
 <param ve-map center="Q179385" zoom="14">
@@ -58,7 +58,7 @@ It is in a [Chatham](/dickens/dickens-chatham) slop shop that David falls foul o
  
 After further delays as he hides from ‘any of these people’ coming towards him, David’s first sight of [Canterbury](/dickens/david-copperfield-canterbury) with its ‘sunny street’ and ‘stately, grey Cathedral shows a city that is at once peaceful and notably at odds with his own state. Where the city is ‘dozing’ in the heat, David himself is both dusty and quite possibly dehydrated. He cannot stay here – or not yet – and makes his way through the main street and down the [Dover Road](/dickens/david-copperfield-dover-road) (now the Old Dover Road) that leads directly on for another eighteen miles.
 <param ve-map center="Q29303" zoom="11">
-<param ve-map-overlay geojson url="geojson/david-copperfield-dover-road.json">
+<param ve-map-overlay geojson url="/geojson/david-copperfield-dover-road.json">
 <param ve-image url="https://stor.artstor.org/stor/360206a8-3604-42df-806f-0059dbbf2b85" label="The Micawbers at Canterbury">
 
 On his arrival in [Dover](/dickens/dickens-dover) on the sixth day of his journey, David is immediately reminded of the obstacles that his unkempt condition has placed between himself and the sanctuary he is trying to attain. His appearance is not prepossessing and he struggles to be taken seriously by the townspeople:
@@ -87,4 +87,3 @@ Only once, in a desperate bid to avoid a tête á tête with Uriah, does David s
 
 [^ref1]: https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm
 [^ref2]: https://literatureproject.com/david-copperfield/david-copperfield_chapter_14_-_my.htm
-
