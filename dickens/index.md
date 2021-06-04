@@ -1,10 +1,9 @@
 
 <param ve-config 
        title="Dickens Land"
-       banner="images/dickensland.png"
-       layout="index">
+       banner="images/dickensland.png">
 
-#
+# {.cards}
 
 ##
 **[Finding Dickens Land](dickens-biography)**
