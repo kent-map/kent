@@ -27,7 +27,7 @@
 <param title="Satis House" eid="Q26377461">
 
 <!-- Kent with map centered at Rochester -->
-<param data-map center="51.254291, 0.876473" zoom="10">
+<param ve-map center="51.254291, 0.876473" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820">
@@ -35,18 +35,20 @@
 <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808">
 <param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
 
+#
+
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the Hulks’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
 <param ve-image primary url="images/Cooling_Marshes.jpg" title="The marshes" fit="contain">
-<param data-map center="51.4, 0.50" zoom="11">
-<param ve-video id="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent">
+<param ve-map center="51.4, 0.50" zoom="11">
+<param ve-video vid="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent">
 
 A comparison of his carefully detailed account of his movements with a map drawn up in the 1820s reveals further optical illusions – the hulks Pip describes are almost certainly miles from where he places them and the finger post is also in the wrong place. But as his main reference points, the marshes and Rochester confirm the stark contrast he himself sets up between stifling gentility and brutal survival. Whether the 21st century visitor sets out on an actual ‘pilgrimage’ or follows Pip’s progress on a map, the fascination of these '[mobile landscapes](/dickens/mobile-landscapes)’ lies precisely in their ability to symbolise darkness and the guilt of impossible choices. The curated walk that follows offers one suggestion for how we might enter and interpret that lost world.
-<param data-map center="Q507517" zoom="12">
+<param ve-map center="Q507517" zoom="12">
 <param ve-map-layer mapwarper mapwarper-id="38872" title="Kent 1820" active>
 <param ve-image url="images/Rochester_1828.jpg" title="West View of the City of Rochester" fit="contain">
 
 Philip Pirrip tells us in his very name that he is trapped in language. Hardly surprisingly the child cannot perform this tongue twister and reduces his name to an inarticulate stutter: Pip.  According to this logic his full name must be pronounceable as ‘Pip Pip’, which would become a slang term for ‘goodbye’ in the twentieth century. As Joe will later say to him, ‘life is made of ever so many partings’[^ref1]. 
-<param data-map center="Q507517" zoom="12">
+<param ve-map center="Q507517" zoom="12">
 
 But the novel insists that Pip does have choices. He keeps his encounter with Magwitch a secret. He accepts the offer of a mysterious benefactor to transform him into a gentleman, largely in hopes of winning Estella. He puts up at the Blue Boar on his return from London rather than staying with Joe at the forge. The starkness of these choices is symbolised by the accusatory finger post at the end of the village. Pointing both towards town and in the opposite direction towards the marshes and the church, this signpost offers two mutually exclusive paths for Pip to take whenever he leaves the village. This road does not exist on maps of the time, or at least there is no road that obviously leads in both directions in the direct way that Pip suggests. The moral imperatives, which he will increasingly ignore, are symbolically mapped by the guilty character himself. 
 <param ve-map-layer geojson active title="Pips choice of routes" url="/geojson/chalk1.json" aliases="pip does have choices">
