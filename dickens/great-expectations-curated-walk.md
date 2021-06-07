@@ -8,20 +8,20 @@
 <param title="Charles Dickens" eid="Q5686">
 <param title="Chalk" eid="Q5068781" aliases="the village|the town">
 <param title="Chatham" eid="Q729006">
-<param title="Cooling Marshes" geojson="/geojson/marshes.json" fill-opacity="0.4" article="Cooling_marshes" aliases="the marshes">
+<param ve-entity label="Cooling Marshes" geojson="/geojson/marshes.json" fill-opacity="0.4" article="/articles/Cooling_marshes.md" aliases="the marshes">
 <param title="Cooling" eid="Q2649453">
-<param title="Compeyson" eid="Q5156367" article="Compeyson">
-<param title="Dover Road" geojson="/geojson/david-copperfield-dover-road">
-<param title="Estella" eid="Q5400904" article="Estella">
+<param title="Compeyson" eid="Q5156367" article="/articles/Compeyson.md">
+<param ve-entity title="Dover Road" geojson="/geojson/david-copperfield-dover-road">
+<param title="Estella" eid="Q5400904" article="/articles/Estella.md">
 <param title="Folkestone" eid="Q375314">
 <param title="Gravesend" eid="Q676689">
-<param title="Joe Gargery" article="Joe" aliases="Joe">
+<param ve-entity label="Joe Gargery" article="/articles/Joe.md" aliases="Joe">
 <param title="Guildhall" eid="Q15272878" aliases="Guildhall">
 <param title="Kent" eid="Q23298">
 <param title="London" eid="Q84" scope="local">
-<param title="Abel Magwitch" eid="Q4666596" aliases="Magwitch" article="Magwitch">
-<param title="Miss Havisham" eid="Q3316519" article="Miss_Havisham">
-<param title="Philip Pirrip" eid="Q7197170" article="Pip">
+<param title="Abel Magwitch" eid="Q4666596" aliases="Magwitch" article="/articles/Magwitch.md">
+<param title="Miss Havisham" eid="Q3316519" article="/articles/Miss_Havisham.md">
+<param title="Philip Pirrip" eid="Q7197170" article="/articles/Pip.md">
 <param title="Rochester" eid="Q507517">
 <param title="Rod Hull" eid="Q7356235">
 <param title="Satis House" eid="Q26377461">
