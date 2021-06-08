@@ -8,7 +8,7 @@
 <param ve-entity eid="Q729006" aliases="Chatham">
 
 _“Their first leaders are said to have been two brothers, Hengest and Horsa. Horsa was afterwards killed in battle by the Britons, and in the eastern part of Kent there is still a monument bearing his name. They were the sons of Wihtgisl, son of Witta, son of Wecta, son of Woden.”_   
-(Colgrave and Mynors edn, i.15)[^ref1]
+[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Hengest_and_Horsa_Verstegan.jpg" label="‘Hengist and Horsa arriving in Britain’, by Richard Rowlands (1605)." attribution="Richard Verstegan, Public domain, via Wikimedia Commons">
 
 These lines from Bede’s _Ecclesiastical History of the English People_ (AD 731) represent the earliest surviving reference to the legendary brothers, Hengest (sometimes spelled Hengist) and Horsa. According to Bede, they led the so-called ‘adventus Saxonum’, when the first wave of Germanic settlers, invited by the British king Vortigern, arrived in Kent in the year 449 to help fight against the Picts. Most historians agree that his account is a simplified version of a complex period of movement and migration, designed to provide an origin story for the English people as Bede wanted to define them.
