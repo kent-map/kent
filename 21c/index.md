@@ -1,9 +1,8 @@
 <param ve-config 
        title="21st Century"
-       banner="images/Millenium Mural.jpg"
-       layout="index">
+       banner="images/Millenium%20Mural.jpg">
 
-#
+# {.cards}
 
 ##
 **[David Seabrook](21c-seabrook-biography)**
