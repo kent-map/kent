@@ -1,9 +1,8 @@
 <param ve-config 
        title="21st Century"
-       banner="images/Millenium Mural.jpg"
-       layout="index">
+       banner="images/Millenium%20Mural.jpg">
 
-#
+# {.cards}
 
 ##
 **[David Seabrook](21c-seabrook-biography)**
@@ -28,7 +27,7 @@ When walking around the city of Canterbury, one quickly notices the amount of re
 
 - author: Laurie Duggan
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham across Ham Marshes 1.jpeg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham%20across%20Ham%20Marshes%201.jpeg)
 
 Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
@@ -37,7 +36,7 @@ Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
 - author: Dr Martin Latham
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Waterstones rocking horses.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Waterstones%20rocking%20horses.jpg)
 
 In summer, I ate ice cream on the roof. It was a shop of dreams, I can still smell the combination of books and wood, and I dreamed vividly there when I afternoon-napped in my hammock in a basement cupboard.
 
@@ -55,7 +54,7 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 
 - author: Maggie Harris
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Margate signs.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Margate%20signs.jpg)
 
 Once a popular seaside resort where Victorians came to take the air, Margate was to suffer the fate of many other seaside towns: limping through the end of the last century with rising unemployment, dilapidated structures, organ music, and absent holiday makers.
 

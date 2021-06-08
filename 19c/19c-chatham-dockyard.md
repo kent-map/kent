@@ -1,7 +1,7 @@
 <param ve-config style="article">
 
 ## Chatham Dockyard
-![The Medway, Chatham. Photochrom Print Collection, Public domain, via Wikimedia Commons](images/The_Medway_Chatham_England-LCCN2002711859.jpg){: .right}
+![The Medway, Chatham. Photochrom Print Collection, Public domain, via Wikimedia Commons](/19c/images/The_Medway_Chatham_England-LCCN2002711859.jpg) {.right}
 
 The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval dockyards, with its prime location and key participation in the industrial revolution. [John Dickens](/dickens/dickens-chatham) worked here for a few years when his son was a boy. Sheltered and with easy access to London, the docks in [Chatham](/dickens/dickens-medway) were considerably larger than those in the capital such as Blackwall and Deptford, and were therefore able to keep pace with the increasing size of warship required by the Royal Navy. A visit to the Dockyard today will show the transformation from the trade skills, timber and canvas of sailing ships to the heavy manufacturing skills, iron hull and steam engine driven warships.  HMS Gannet, on display at the yard, is a fine example of the way in which manufacture and materials were transformed in the mid 19th century. 
 
