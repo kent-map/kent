@@ -16,6 +16,8 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 <param ve-entity eid="Q748895" aliases="Cinque Ports">
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
+
+#
                                                 
 **Places:** Hythe, Folkestone, Seabrook, Lyminge, Downe, Dymchurch, Broadstairs, Dover, the Cinque Ports, Romney, Sandwich.
 <param ve-image url="images/The_Kent_coast_(IA_kentcoast00lewirich).jpg" label="Lewis, Arthur D, The Kent Coast" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
