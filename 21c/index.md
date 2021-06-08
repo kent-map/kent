@@ -27,7 +27,7 @@ When walking around the city of Canterbury, one quickly notices the amount of re
 
 - author: Laurie Duggan
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham%20across%20Ham Marshes%201.jpeg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham%20across%20Ham%20Marshes%201.jpeg)
 
 Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
@@ -36,7 +36,7 @@ Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
 - author: Dr Martin Latham
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Waterstones rocking horses.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Waterstones%20rocking%20horses.jpg)
 
 In summer, I ate ice cream on the roof. It was a shop of dreams, I can still smell the combination of books and wood, and I dreamed vividly there when I afternoon-napped in my hammock in a basement cupboard.
 
