@@ -27,7 +27,7 @@ When walking around the city of Canterbury, one quickly notices the amount of re
 
 - author: Laurie Duggan
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham across Ham Marshes 1.jpeg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham%20across%20Ham Marshes%201.jpeg)
 
 Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
@@ -54,7 +54,7 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 
 - author: Maggie Harris
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Margate signs.jpg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Margate%20signs.jpg)
 
 Once a popular seaside resort where Victorians came to take the air, Margate was to suffer the fate of many other seaside towns: limping through the end of the last century with rising unemployment, dilapidated structures, organ music, and absent holiday makers.
 
