@@ -2,6 +2,8 @@
 <param ve-config title="Ellen woz here" author="Helena Kelly" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
+#
+
 People often talk about how much places you knew in childhood shrink as you grow up and it’s true, of course they do; wiser, perhaps, more widely travelled, taller, you have a different perspective on things. But the other reason they appear to shrink is, surely, because you did know them, and the past comes crowding in on you; there are buildings still visible to you though they vanished long ago, your former selves jostle for attention at your elbow. If I walk through Rochester now I find twenty of me already there beforehand. There I am in the Vines, standing on one of the trees that blew down in the storm of ’87. There I am, walking in a school crocodile with a ridiculous hat on; again, sloping disconsolately along in my early teens. When I take my son and my nieces to the pink sweetshop on the high street, there’s a little phantom with a wonky fringe standing next to them, looking on longingly. _They’re terrible for your teeth, I tell her. You’ll regret it, when you’re my age._
 <param ve-image url="https://stor.artstor.org/stor/fdc76136-9469-4588-b33c-8cf665eaf476" label="Pink sweetshop" attribution="Benjamin Mortley">
 
