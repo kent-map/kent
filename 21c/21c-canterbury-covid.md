@@ -2,6 +2,8 @@
 <param ve-config title="Starting university in the Covid year" author="Alexa Barrett" layout="vtl" 
 banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
+#
+
 Starting University in 2020 was meant to bring freedom, doing the subject I cared most about on campus. The reality for myself and other students this year was somewhat different. On March 15th 2020, I was weeks away from A-level exams. By March 22nd Canterbury city centre was desolate. Cafes empty of life. I wore a paint-spraying face mask from my dad’s tool kit. Exams were cancelled, but it wasn’t just me going through change. The whole of Kent was going to reshape under the impact of the pandemic. 
 <param ve-image url="https://stor.artstor.org/stor/ccf163ea-b09d-4334-be4d-fd176d79a7eb" label="Delapidated Nasons" attribution="Martin Crowther">
 
