@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Staplehurst Railway Disaster 1865" author="Professor Carolyn Oulton" layout="vtl" banner="images/banners/19c.jpg">
+<param ve-config title="Staplehurst Railway Disaster 1865" author="Professor Carolyn Oulton" layout="vtl" banner="images/banner/19c.jpg">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 
