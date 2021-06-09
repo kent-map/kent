@@ -39,7 +39,10 @@
        mapwarper-id="45555" 
        active="true">
        
-<!-- Historical map layers --> <param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820"> <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860"> <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808"> <param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
+<!-- Historical map layers --> 
+<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820"> <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860"> <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808"> <param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
+
+#
 
 David Copperfield, like Pip in _Great Expectations_, shares the difficult story of what it means to become involuntarily fascinated, even obsessed: with grotesque figures, with landscapes, with the secrets of one’s own past. From the moment of meeting the chilling Mr Murdstone the child David finds it hard to take his eyes off him, and he will later find himself compelled to watch the slumbers of Uriah Heep, as he succumbs to what Dickens memorably termed ‘the fascination of repulsion’. In both cases David emphasises the way in which his home is invaded by these unwelcome figures. But just what home means – and where it is – proves elusive throughout the novel.
 <param ve-image url="images/Copperfield_cover_serial.jpg" fit="contain" title="Cover of serial, _David Copperfield_ by Charles Dickens">
