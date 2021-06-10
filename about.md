@@ -45,7 +45,7 @@ Claire Bartram is the co-director of the Centre for Kent History and Heritage. H
 Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature.
 
 ##
-**Fran Allfrey**
+[**Fran Allfrey**]()
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran Allfrey.jpeg)
 
