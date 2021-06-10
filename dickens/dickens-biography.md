@@ -8,6 +8,8 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q507517" aliases="Rochester">
 
+#
+
 **Born** 7.2.1812.    
 **Married** Catherine Hogarth 1836.   
 **Died** 9 June 1870.   
