@@ -37,7 +37,7 @@ Many of Edith’s novels are set in barracks such as the Wellington Barracks, We
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3b/Hounslow_West_Station.jpg" label="Hounslow West Station.jpg" attribution=" Unknown authorUnknown author, Public domain, via Wikimedia Commons">
 
 In later years Edith could be seen being pushed along in a bath chair by her secretary, Mr Cliff. She died on the 3rd December 1901 and was buried with military honours at Shorncliffe Camp. The hearse bearing her coffin was draped with the union flag and followed by a procession of Coastguards and Cavalry. The string band of the Dragoons played the funeral march.[^ref10] 
-<param ve-map primary center="Q7501508" zoom="10">
+<param ve-map center="Q7501508" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/34/The_Kent_Coast_%2849541586%29.jpeg" label="The Kent Coast (49541586).jpeg" attribution="Franco, CC BY 3.0, via Wikimedia Commons">
 
 ### References
