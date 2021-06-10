@@ -54,6 +54,3 @@ In later years Edith could be seen being pushed along in a bath chair by her sec
 [^ref9]: _The Apotheosis of Mr Tyrawley_, 8.   
 [^ref10]: _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_ - Wednesday 18 December 1901.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Cemetery_service_at_Shorncliffe_Military_Cemetery_near_Folkestone%2C_Kent_%2819705215018%29.jpg" label="Cemetery service at Shorncliffe Military Cemetery near Folkestone, Kent (19705215018).jpg" attribution="University of Victoria Libraries from Victoria, Canada, No restrictions, via Wikimedia Commons">
-
-
-![image](https://user-images.githubusercontent.com/82179711/121555107-a3b58c80-ca0a-11eb-83e6-5ed4c2da1bbf.png)
