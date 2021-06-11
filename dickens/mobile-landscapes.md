@@ -6,6 +6,7 @@
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 
+<param title="Broadstairs" eid="Q922739">
 <param title="Chalk" eid="Q5068781" aliases="the village">
 <param title="Chatham" eid="Q729006">
 <param title="Cooling" eid="Q2649453">
