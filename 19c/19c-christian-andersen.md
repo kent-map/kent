@@ -8,7 +8,8 @@
 <param ve-entity eid="Q17529916" aliases="Chevening Church"> 
 <param ve-entity eid="Q104082075" aliases="Gads Hill">
 
-## Hans Christian Andersen (1805-1875)
+#
+
 **Places:** Gads Hill, Rochester. Knowle House, Sevenoaks. Chevening Church.
 <param ve-image url="images/HCA_by_Thora_Hallager_1869.jpg" label="Hans_Christian_Andersen by Thora Hallager (1821–1884)" attribution="Public domain, via Wikimedia Commons">
 
