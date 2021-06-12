@@ -25,5 +25,5 @@ While Barr fell out with Jerome and ultimately withdrew from his editorial role 
 [^ref1]: 4 December 1889._The Kaleidoscope_.
 [^ref2]: Sharpe, Luke. ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.
 [^ref3]: [Three Men on a Bummel](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm)   
-Image of Fokestone Harbour - Snapshots Of  The Past [CC BY-SA 2.0 ](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons
+<param ve image url="https://upload.wikimedia.org/wikipedia/commons/f/fa/The_harbor%2C_Folkestone%2C_England-LCCN2002696749.jpg" label="Image of Fokestone Harbour" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 
