@@ -18,12 +18,12 @@ While Barr fell out with Jerome and ultimately withdrew from his editorial role 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" label="The Leas, Folkestone" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 
 ### Bibliography
-
 [Berte, Hal]. ‘The Kaleidoscope’. _Folkestone Visitors’ List and Society Journal_. 
+<param ve image url="https://upload.wikimedia.org/wikipedia/commons/f/fa/The_harbor%2C_Folkestone%2C_England-LCCN2002696749.jpg" label="Image of Fokestone Harbour" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 
 ### References
 [^ref1]: 4 December 1889._The Kaleidoscope_.
 [^ref2]: Sharpe, Luke. ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.
 [^ref3]: [Three Men on a Bummel](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm)   
-<param ve image url="https://upload.wikimedia.org/wikipedia/commons/f/fa/The_harbor%2C_Folkestone%2C_England-LCCN2002696749.jpg" label="Image of Fokestone Harbour" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
+
 
