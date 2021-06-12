@@ -18,7 +18,6 @@ The last major work at Chatham was the reclaiming and building of St. Mary’s I
 
 A visit to the Dockyard today will show the transformation from the trade skills, timber and canvas of sailing ships to the heavy manufacturing skills, iron hull and steam engine driven warships.  HMS Gannet, on display at the yard, is a fine example of the way in which manufacture and materials were transformed in the mid 19th century. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/50/The_Big_Shed_-_Chatham_-_geograph.org.uk_-_1962059.jpg" label="The Big Shed and HMS Gannet" attribution="The Big Shed - Chatham by Colin Babb, CC BY-SA 2.0, via Wikimedia Commons">
-**Article written by:** Martin Watts
 
 ### Bibliography
 
