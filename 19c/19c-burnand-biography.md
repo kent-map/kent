@@ -1,11 +1,11 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png">
-</a> <param ve-config title="F. C. Burnand (1836-1917)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="F. C. Burnand (1836-1917)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q26163" aliases="Sandwich">
-<param ve-entity eid="Q 106436730" aliases="18 Royal Crescent">
+<param ve-entity eid="Q106436730" aliases="18 Royal Crescent">
 
 *Lived in Ramsgate from around 1875 - until death in 1917*   
 *Publication*: _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_, 1897.   
@@ -14,7 +14,7 @@
 <param ve-map center="Q736439" zoom="10">
 
 Sir Francis Cowley Burnand (knighted in 1902) is best known as the editor of _Punch_ from 1880-1906, serialising the [Grossmiths](/19c/19c-grossmith-biography)’ runaway success _Diary of a Nobody_ in 1888. In 1897 he and _Punch_ artist Phil May adopted the Dickensian personae ‘T’other Guv’nor’ and ‘T’otherst Guv’nor’ for their collaboration on the comic but informative _Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_. Despite _Punch_’s habitual disdain of _Three Men in a Boat_ and its lower middle class author, May himself also worked with [Jerome K. Jerome](/19c/19c-jerome-biography) (who as editor of _The Idler_ complained bitterly of the illustrator’s shoddy attitude to deadlines).
-<param ve-image url="zigzag wikimedia.JPG" label="The ZZG or Zig Zag guide round and about the bold and beautiful Kentish Coast" attribution="Burnand, F. C. (Francis Cowley), Sir, 1836-1917, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/84/Image_taken_from_page_81_of_%27The_Z.Z.G.%2C_or_Zig_Zag_Guide_round_and_about_the_bold_and_beautiful_Kentish_coast_..._Illustrated_by_Phil_May%27_%2811296786325%29.jpg" label="The ZZG or Zig Zag guide round and about the bold and beautiful Kentish Coast" attribution="Burnand, F. C. (Francis Cowley), Sir, 1836-1917, The British Library, No restrictions, via Wikimedia Commons">
 
 In the _Z.Z.G._ Burnand includes a number of knowing jokes about [Ramsgate](/dickens/19c-ramsgate) as well as [Margate](/dickens/19c-margate), [Broadstairs](/dickens/broadstairs-19th-century) and Sandwich as if from the standpoint of an itinerant tourist. In fact by 1883 he had ‘made his house at Ramsgate’, travelling to London once or twice a week. The 1887 Street Directory locates a Frederick Charles Burnand at 18 Royal Crescent (where Burnand died in 1917); the 1911 census shows that while Francis’s fifth son Philip was born in Middlesex (now part of London) in 1869, his fourth daughter Mary was born in Ramsgate in 1875.  Burnand died of bronchitis on 21 April 1917, and is buried in the cemetery attached to St Augustine's Abbey church in [Ramsgate](/dickens/19c-ramsgate).
 <param ve-image url="https://stor.artstor.org/stor/33ea5295-f1f5-4d3f-9724-352f18abcddf" label="Ramsgate Pavilion">

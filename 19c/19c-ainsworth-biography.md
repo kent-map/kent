@@ -3,7 +3,6 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q7074318" aliases="Kent County Lunatic Asylum">
 <param ve-entity eid="Q 4870530" aliases="the Battle of Bossenden Wood">
-<param ve-entity eid="Q" aliases="">
 
 **Pseudonyms: ‘Thomas Hall’, ‘H A’, ‘W A’.**      
 Prolific author William (usually known as Harrison) Ainsworth, born on 4 February 1805, wrote for _The London Magazine_ and had plays and poetry published in numerous journals including _The Edinburgh Magazine_ and _The European Magazine_. His first success, however, came with the 1834 Gothic Romance _Rookwood_ (which invokes [Canterbury](/19c/19c-canterbury)). His literary circle included Samuel Taylor Coleridge, Robert Southey, William Makepeace Thackeray, and many more. He was also close friends with Charles [Dickens](/dickens/dickens-biography) in the 1830s. He died on 3 January 1882.
