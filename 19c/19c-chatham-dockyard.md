@@ -11,7 +11,7 @@ Two components of the industrial revolution transformed Chatham. Firstly, manage
 <param ve-image url="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" label="The Dockyard, Chatham">
 
 Whilst women had previously only been employed in the colour loft, making and repairing flags for the fleet, the mechanised Ropery introduced ‘outside women’ in 1864, employed at lower pay than men. They were called ‘outside’ because the ‘inside’ women in the loft, who enjoyed enhanced status and respect, were solely recruited from the widows and daughters of sailors lost at sea. Such respect was not granted to ‘outside’ women however, and to preserve dignity, their hours of work differed from those of the men, thus avoiding congestion of the sexes when entering and leaving the yard. In the same year Chatham became a pilot port for the notorious [Contagious Diseases Act](/19c/19c-contagious-diseases).
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/73/Chatham_Dockyard_ropery_6.jpg" label="Chatham Dockyard Ropery" attribution="Nilfanion, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/73/Chatham_Dockyard_ropery_6.jpg" label="Chatham Dockyard Ropery" attribution="Nilfanion, CC BY-SA 4.0, via Wikimedia Commons">
 
 The last major work at Chatham was the reclaiming and building of St. Mary’s Island, between 1862 and 1885, which quadrupled the size of the dockyard. This was the largest civil engineering project in South East England until the building of the Channel tunnel. On completion of this project Chatham became the naval dockyard of choice for the building of any new class of battleship, but this pre-eminence only lasted for 20 years. This was due to the arrival of Admiral John ‘Jackie’ Fisher as First Sea Lord, and he preferred Portsmouth for the construction of HMS Dreadnought, the first of a revolutionary class of all big gun capital ships. Afterwards, Chatham was used to construct smaller warships and submarines and developed an extensive repair operation during the First World War.
 <param ve-image url="https://stor.artstor.org/stor/4e856731-aff2-4d72-91b6-01e6e1ab812f" label="The Dockyard, Chatham">
@@ -22,6 +22,6 @@ A visit to the Dockyard today will show the transformation from the trade skills
 
 ### Bibliography
 
-MacDougall, Philip, Chatham Dockyard. _The Rise and Fall of A Military Industrial Complex_. London: The History Press 2012.
-
-Holden, Clive. _Chatham Naval Dockyard & Barracks Through Time_. Stroud: Amberley Publishing 2014.
+MacDougall, Philip, Chatham Dockyard. _The Rise and Fall of A Military Industrial Complex_. London: The History Press 2012.   
+Holden, Clive. _Chatham Naval Dockyard & Barracks Through Time_. Stroud: Amberley Publishing 2014.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Medway%2C_Chatham%2C_England-LCCN2002711859.jpg" label="The Medway at Chatham" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
