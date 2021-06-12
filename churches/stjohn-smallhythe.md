@@ -16,10 +16,10 @@ However, only eight years after this in 1515, a fire tore through Small Hythe, t
 <param ve-image url="https://stor.artstor.org/stor/68c5b8c3-5fec-4cab-893b-5edf940aa5a7" label="The view of the chancel screen and wainscotting from the high altar. Note how plain the carving is from this side of the screen, when viewed from the other side, it is highly decorative" attribution="Andrew Vincent">
 
 [Ellen Terry](/20c/20c-terry-biography) lived in Small Hythe for nearly thirty years, and attended the church. She died on the 23rd of July, 1928, at the age of 81. Her [funeral](/20c/20c-ellen-terry-funeral) was a happy occasion, where the attendees wore summer dresses and sang the jollier hymns. She was cremated, and placed in a silver urn in the actor’s church, St Paul’s, Covent Garden.
- (John Singer Sargent’s painting of Ellen Terry in her role as Lady Macbeth, which currently hangs in the Tate Britain in London.) PARAGRAPH 4
+<param ve-image url="https://stor.artstor.org/stor/29dd64d3-531b-479f-b993-f0fc7c206cef" label="Ellen Terry as Imogen">
 
 For such a small hamlet, Small Hythe has many attractions. [Small Hythe Place](https://www.nationaltrust.org.uk/smallhythe-place), preserved by the National Trust; remains of of the medieval ship-building yards and dry-docks; and of course the church of St John the Baptist.
- (The view of the church from the west, showing the entrance and porch, as well as the figure of St John the Baptist set into a niche above the west window.) PARAGRAPH 5
+<param ve-image url="https://stor.artstor.org/stor/e1a56162-96fa-4e4c-af51-a481569d773c" label="The view of the church from the west, showing the entrance and porch, as well as the figure of St John the Baptist set into a niche above the west window" attribution="Andrew Vincent">
 
 ### Bibliography:
 
