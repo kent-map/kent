@@ -30,6 +30,7 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She die
 ‘Ramsgate Congregational Institute, Broad Street. Session 1902-03.’ _Thanet Advertiser._ 18 October 1902. 4.   
 Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman._ Ohio: Ohio University Press, 2004.   
 [Sarah Grand Archive](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/icvww-research-projects-and-events/sarah-grand-collection.aspx). International Centre for Victorian Women Writers, Canterbury Christ Church University.  
+<param ve-image url="https://stor.artstor.org/stor/f37d719d-5638-49d9-973f-bcfc0995e197" label="Queen's Grove, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells">
 
 ### References
 
