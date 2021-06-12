@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="William Harrison Ainsworth (1805-1882)" author="Laura Allen" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="William Harrison Ainsworth (1805-1882)" author="Laura Allen" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q7074318" aliases="Kent County Lunatic Asylum">
