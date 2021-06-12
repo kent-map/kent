@@ -1,6 +1,11 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Edith Katherine Spicer Jay (6 March 1847- 3 December 1901)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/60/Sandgate_Castle.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Edith Katherine Spicer Jay (6 March 1847- 3 December 1901)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/60/Sandgate_Castle.jpg">
 
 <param ve-entity eid="Q1000312" aliases="Sandgate">
+<param ve-entity eid="Q26627906" aliases="Shorncliffe Barracks">
+<param ve-entity eid="Q7501508" aliases="Shorncliffe Camp">
+
+#
 
 **Place:** Sandgate, Shorncliffe Barracks   
 **Pseudonym:**  E. Livingston(e) Prescott   
