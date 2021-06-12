@@ -1,9 +1,10 @@
-<param ve-config style="article">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="The Hooden Horse: an East Kent tradition" author="Jacqui Stamp" layout="vtl" 
+banner="/images/banner/19c.jpg">
 
-## The Hooden Horse: an East Kent tradition.
+#
 
 **Place:** mainly around the Thanet, Deal and Canterbury areas
-
 **Key dates:** 
 
 ![The author with East Kent Morris’s Hooden Horse](images/jacqueline.jpg){: .right}
