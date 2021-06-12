@@ -1,11 +1,11 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png">
-</a> <param ve-config title="F. C. Burnand (1836-1917)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="F. C. Burnand (1836-1917)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q26163" aliases="Sandwich">
-<param ve-entity eid="Q 106436730" aliases="18 Royal Crescent">
+<param ve-entity eid="Q106436730" aliases="18 Royal Crescent">
 
 *Lived in Ramsgate from around 1875 - until death in 1917*   
 *Publication*: _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_, 1897.   
