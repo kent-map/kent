@@ -8,7 +8,7 @@
 ##
 **Music**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Summer.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Summer.jpg)
 
 - [Catch](19c-catch-music)
 - [Cathedral Singing](19c-cathedral-singing)
@@ -17,7 +17,7 @@
 ##
 **Musicians**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney%20copy%20-%20Scaled%20and%20adjusted.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney%20copy%20-%20Scaled%20and%20adjusted.jpg)
 
 - [Charles Dobson](19c-charles-dobson-biography)  
 - [Thomas Goodban](19c-thomas-goodban-biography)   
@@ -28,6 +28,6 @@
 ##
 **Place**
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/cathedralimage.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/cathedralimage.jpg)
 
 - [Canterbury](19c-music-canterbury)

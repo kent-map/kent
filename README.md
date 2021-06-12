@@ -1,5 +1,5 @@
 <param ve-config title="Kent Digital Map"
-       banner="/images/kent-map-header.jpg"
+       banner="https://iiif.juncture-digital.org/banner?url=https://raw.githubusercontent.com/kent-map/kent/main/images/kent-map-header.jpg"
        show-abstracts="true">
        
 # Welcome
@@ -24,7 +24,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 - author: Simone Blandford
 
-![](/20c/images/spade%20MJC.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/spade%20MJC.jpg)
 
 “This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” Kipps.
 
@@ -33,7 +33,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 - author: Jeremy Page
 
-![](/20c/images/Jarman1.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Jarman1.jpg)
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
 
@@ -42,7 +42,7 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 
 - author: Peter Vujakovic
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
 
 Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. 
 
@@ -51,7 +51,7 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 - author: Professor Max Saunders
 
-![](/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
@@ -60,18 +60,11 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 # {.cards}
 
 ##
-[**Anglo-Saxon**](/anglosaxon)
+[**Medieval**](/medieval)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/20604136-61ac-4aa6-a82e-99e97a44f66d)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/20604136-61ac-4aa6-a82e-99e97a44f66d)
 
-The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum) existed from approximately the fifth or sixth century AD. It was absorbed into the Kingdom of Wessex in the late 9th century and after this into the Kingdom of England in the early 10th century.
-
-##
-[**Later Medieval**](/medieval)
-
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/1f93830d-4c30-4c54-b0fd-6e5d3783c439)
-
-The murder of Becket, the Black Death, Wat Tyler's rebellion, Canterbury pilgrims and Canterbury tales.
+The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum), The murder of Becket, the Black Death, Wat Tyler's rebellion, Canterbury pilgrims and Canterbury tales.
 
 ##
 [**16th century**](/16c)
@@ -122,28 +115,28 @@ Regeneration and the rise of the DFL.
 ##
 [**Seascapes**](/seascape)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
 
 The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
 
 ##
 [**Landscapes**](/landscape)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2546.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2546.JPG)
 
 Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
 ##
 [**The Built Environment**](/churches)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
 
 A county of rich architecture; castles, churches, ports, forts and towers.
 
 ##
 [**Musical Peregrinations**](/music)
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney%20copy%20-%20Scaled%20and%20adjusted.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney%20copy%20-%20Scaled%20and%20adjusted.jpg)
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
@@ -156,7 +149,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 
 - author: Clare Nursey
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
@@ -165,7 +158,7 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 - author: Susan Civale
 
-![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
 
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
 
