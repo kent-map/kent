@@ -16,7 +16,7 @@ For such a small hamlet, Small Hythe has many attractions. [Small Hythe Place](h
  (The view of the church from the west, showing the entrance and porch, as well as the figure of St John the Baptist set into a niche above the west window.) PARAGRAPH 5
 
 
-Article written by Andrew Vincent
+y Andrew Vincent
 
 Bibliography:
 

@@ -45,13 +45,6 @@ Claire Bartram is the co-director of the Centre for Kent History and Heritage. H
 Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature.
 
 ##
-**Fran Allfrey**
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran Allfrey.jpeg)
-
-Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity, and the emotional, social, and political stakes of these remakings.
-
-##
 [**Laura Allen**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/lauraallen.jpg)
@@ -59,6 +52,13 @@ Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. S
 Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eliza Haweis Fanclub. When she’s not busy reading advice on how to be a proper Victorian lady, you will likely find her in a quaint old pub with a Kentish cider and a battered old copy of Jane Eyre
 
 # Authors {.cards}
+
+##
+[**Fran Allfrey**]()
+
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran Allfrey.jpeg)
+
+Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity, and the emotional, social, and political stakes of these remakings.
 
 ##
 [**Pat Argar**]()
