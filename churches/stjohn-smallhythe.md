@@ -2,9 +2,9 @@
 <param ve-config title="St. John the Baptist, Small Hythe" author="Andrew Vincent" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q614560" aliases="Tenterden">
-<param ve-entity eid="Q7488952" aliases="Cinque Ports">
+<param ve-entity eid="Q748895" aliases="Cinque Ports">
 <param ve-entity eid="Q265523" aliases="Isle of Oxney">
-<param ve-entity eid=""Q590422" aliases="Isle of Thanet">
+<param ve-entity eid="Q590422" aliases="Isle of Thanet">
 
 A short way from the historic town of Tenterden lies the village of Small Hythe.  This village, although now completely landlocked, had close ties to the Cinque Ports Confederation. Small Hythe was a famous shipyard in medieval times, using timber from the great Wealden Forest. Although it is difficult to imagine when looking at the modern landscape of Kent, the county used to be an archipelago of deep channels and small isles, the names of which exist to this day, such as the Isle of Thanet, and Small Hythe’s neighbour, the Isle of Oxney. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/St_John_the_Baptist_Church%2C_Small_Hythe%2C_Kent_-_geograph.org.uk_-_957959.jpg" label="St John the Baptist Church, Small Hythe" attribution="Oast House Archive via Wikimedia Commons">
