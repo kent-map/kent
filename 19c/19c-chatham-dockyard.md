@@ -5,6 +5,7 @@ banner="/images/banners/19c.jpg">
 #
 
 The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval dockyards, with its prime location and key participation in the industrial revolution. [John Dickens](/dickens/dickens-chatham) worked here for a few years when his son was a boy. Sheltered and with easy access to London, the docks in [Chatham](/dickens/dickens-medway) were considerably larger than those in the capital such as Blackwall and Deptford, and were therefore able to keep pace with the increasing size of warship required by the Royal Navy. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%281747-1821%29_-_Chatham_Dockyard_-_BHC1782_-_Royal_Museums_Greenwich.jpg" label="Joseph Farington (1747-1821) - Chatham Dockyard - BHC1782 - Royal Museums Greenwich" attribution="Joseph Farington, Public domain, via Wikimedia Commons">
 <param ve-image url="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" label="The Dockyard, Chatham">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bd/The_Medway%2C_Chatham%2C_England-LCCN2002711859.tif" label="The Medway, Chatham" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons")
 
