@@ -1,3 +1,8 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="St. John the Baptist, Small Hythe" author="Andrew Vincent" layout="vtl" banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Qxxx" aliases="xxx">
+
 St John the Baptist, Small Hythe
 
 A short way from the historic town of Tenterden lies the village of Small Hythe.  This small village, although now completely landlocked, had close ties to the Cinque Ports Confederation. Small Hythe was a famous shipyard in medieval times, using timber from the great Wealden Forest. Although it is difficult to imagine when looking at the modern landscape of Kent, the county used to be an archipelago of deep channels and small isles, the names of which exist to this day, such as the Isle of Thanet, and Small Hythe’s neighbour, the Isle of Oxney. 
