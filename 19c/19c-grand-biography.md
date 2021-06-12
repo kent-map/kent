@@ -14,7 +14,6 @@ Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like othe
 <param ve-image url="https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg" label="Sarah Grand's passport" attribution="Sarah Grand's passport © International Centre for Victorian Women Writers">
 
 By 1888 the marriage had broken down, the catalyst for Grand's move to London and the beginning of her literary career. McFall’s presence pervades the 1890s trilogy _Ideala_ (1888), _The Heavenly Twins_ (1893) and _The Beth Book_ (1897). A vocal opponent of the [Contagious Diseases Acts](/19c/19c-contagious-diseases), Grand transparently draws on her husband’s work at the notorious lock hospitals as well as his support of vivisection, in her portrayal of Dan McClure, the man Beth is coerced into marrying as a young woman. As Beth Sutton-Ramspeck bluntly puts it, ‘her novels portray some of the most unpleasant households in literary history’.[^ref1]  One of the most controversial novels of its time, The Heavenly Twins was published in 1893 and includes an emotive treatment of syphilitic death, attributed to the prevalent belief that young women should remain ‘innocent’ of sexual issues before marriage. Grand is also widely credited with coining the term ‘the New Woman’ in 1894.
-<param ve-entity eid="Q58752622" zoom="10">
 <param ve-map center="Q84" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/52/Sarah_Grand_by_Mendelssohn.jpg" label="Sarah Grand by Mendelssohn.jpg" attribution="Hayman Seleg Mendelssohn, Public domain, via Wikimedia Commons">
 
@@ -24,7 +23,6 @@ But like Beth McClure, Sarah Grand later transferred her energies from writing t
 In 1915 Grand also appears in connection with a proposed Women's Volunteer Reserve Movement. Seconding a vote of thanks, Grand confessed that she had come to the meeting with a ‘neutral’ mind, but having heard the arguments – including the benefits of healthy exercise and the fear that without an organised body, over enthusiastic women ‘should be going about ready to shoot at any moment’ – she thought the movement ‘admirable’.     
 Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She died in Wiltshire in 1943. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/THE_WOMENS_VOLUNTEER_RESERVE_ON_THE_HOME_FRONT%2C_1914-1918_Q107999.jpg" label="THE WOMENS VOLUNTEER RESERVE ON THE HOME FRONT, 1914-1918 Q107999.jpg" attribution="British official photographer, Public domain, via Wikimedia Commons">   
-<param ve-entity eid="Q894097" zoom="10">
 
 ### Bibliography
 
