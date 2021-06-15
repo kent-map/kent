@@ -3,7 +3,7 @@
        banner="images/Hay barges banner.jpg"
        layout="index">
 
-#
+# {.cards}
 
 ##
 **[Seaside Resorts](/19c/19c-seaside)**
