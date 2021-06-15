@@ -1,5 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png">
-</a> <param ve-config title="Queen Victoria (1819-1901)" author="Alyson Hunt" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Queen Victoria (1819-1901)" author="Alyson Hunt" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q2543161" aliases="Walmer Castle">
@@ -25,7 +25,7 @@ Later, Victoria, Albert and their two young children stayed at the Duke of Welli
 
 ### Bibliography
 
-Journals at http://www.queenvictoriasjournals.org/home.do    
-The Letters of Queen Victoria (published 1907) https://archive.org/details/lettersofqueenvi01victuoft/page/n6    
+[Queen Victoria's Journals](http://www.queenvictoriasjournals.org/home.do)   
+[The Letters of Queen Victoria (published 1907)](https://archive.org/details/lettersofqueenvi01victuoft/page/n6)       
 <param ve-image="https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg" label="Ramsgate Sands" attribution="William Powell Frith, Public domain, via Wikimedia Commons">
  
