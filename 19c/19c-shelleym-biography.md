@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Mary Wollstonecraft Shelley (1797-1851)" author="Simone Blandford" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/60/Sandgate_Castle.jpg">
+<param ve-config title="Mary Wollstonecraft Shelley (1797-1851)" author="Simone Blandford" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q967166" aliases="Hythe">
@@ -9,7 +9,7 @@
 #
 
 **Place:** Sandgate, Hythe, Canterbury    
-**Publication of Interest:** The Fortunes of Perkin Warbeck 
+**Publication of Interest:** The Fortunes of Perkin Warbeck    
 _“In the neighbourhood of Hythe a ravine, the bed of a stream, divides these acclivities, which on one side are abrupt, on the other softly rounded as they gradually disappear”_   
 _The Fortunes of Perkin Warbeck_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3c/Perkin_Warbeck.jpg" label="Perkin Warbeck" attribution="Unknown author, Public domain, via Wikimedia Commons">
