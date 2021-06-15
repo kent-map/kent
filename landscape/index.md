@@ -3,7 +3,7 @@
        banner="images/OasthousesMJC.jpg"
        layout="index">
 
-#
+# {.cards}
 
 ##
 **[The Kentish Landscape](/landscape/kentish-landscapes)**
