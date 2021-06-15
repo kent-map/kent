@@ -42,6 +42,7 @@ Maylam, P., 1909. _The Hooden Horse, an East Kent Christmas Custom._  Canterbury
 Maylam, R., Lynn, M. & Doel, G., 2009. _Percy Maylam’s The Kent Hooden Horse_. Stroud: The History Press.   
 Image 1: The author with East Kent Morris’s Hooden Horse, named Invicta after the county’s emblem and motto. Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.   
 https://vimeo.com/408562819/78b21d952c   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/en/5/5f/Walmer_hoodeners%2C_1907.jpg" label="A troupe of hoodeners from Walmer Court Farm in Walmer, Kent" attribution="Published in Percy Maylam's 1909 book The Hooden Horse">
 
 ### Notes
 
