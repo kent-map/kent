@@ -3,7 +3,7 @@
        banner="/images/banners/19c.jpg"
        layout="index">
 
-#
+# {.cards}
 
 ##
 **[Jane Austen](/19c/19c-austen-biography)**
