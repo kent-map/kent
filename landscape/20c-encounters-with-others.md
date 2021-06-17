@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Hop and fruit picking in the 20th century" author="Peter Vujakovic" layout="vtl" 
-banner="xxx">
+banner="https://stor.artstor.org/stor/40fd3c44-43fc-4930-9377-1960db48d73b">
 
 #
 
@@ -31,10 +31,9 @@ It is, however, the visceral hostility that Jefferies perceives the woman to hav
 Church’s own encounter is less threatening, but very much a critique of a subaltern group – semi-migrant pickers lingering in Kent between early fruit and ‘hop-season’. These pickers work for a neighbouring farmer, harvesting Kentish Cobs (a variety of hazel nut). Church declares ‘these chattering semi-gypsies [sic] … [show] no respect for person or distinction of class, if there is such a thing in this postwar world’,  nor is respect shown for his dog, at which they throw nut shells and pass loud remarks regarding his ancestral characteristics!
 <param ve-image url="   ">
 
-More ‘sociological’ treatments were provided by Jack London and George Orwell, both joined the ‘tramps’ and others from London desperately drawn to the ‘hopping’ for the wages. London’s book _People of the Abyss_ (1903) examined the slum conditions of the East End of London as he experienced them during 1902, including ‘hopping’ in Kent. Orwell encountered similarly poor conditions during 1931. At one farm he was refused work, as the farmer could not provide adequate accommodation and Government inspectors were actively checking conditions. This effectively meant large numbers of unemployed Londoners could not get crucial employment in the hop-fields.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/79/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22173.jpg" label="Hop picking in Yalding, Kent" attribution="Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons">
-
-For fictional accounts of hop picking see [Hop Picking and the Literary Imagination](20c-hop-picking)
+More ‘sociological’ treatments were provided by Jack London and George Orwell, both joined the ‘tramps’ and others from London desperately drawn to the ‘hopping’ for the wages. London’s book _People of the Abyss_ (1903) examined the slum conditions of the East End of London as he experienced them during 1902, including ‘hopping’ in Kent. Orwell encountered similarly poor conditions during 1931. At one farm he was refused work, as the farmer could not provide adequate accommodation and Government inspectors were actively checking conditions. This effectively meant large numbers of unemployed Londoners could not get crucial employment in the hop-fields.   
+For fictional accounts of hop picking see [Hop Picking and the Literary Imagination](20c-hop-picking)   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/79/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22173.jpg" label="Hop picking in Yalding, Kent, 1944" attribution="Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons">
 
 ### Bibliography 
 
