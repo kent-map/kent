@@ -12,7 +12,7 @@ The term ‘othering’ describes the classification of another person or group 
 <param ve-image url="   ">
 
 Itinerant hop and fruit pickers are certainly seen as transient but archetypal characters within the landscapes of Kent. Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests; these have been variously discussed in the [literature on Kent](/20c-hop-picking). 
-<param ve-image url="   ">
+<param ve-image url="https://stor.artstor.org/stor/8b2c869f-fca1-462c-9f35-0ec431e15266" label="Hopping" attribution="Private collection">
 
 [Donald Maxwell](/20c-maxwelld-biography), in _The Enchanted Road_ (1927) sentimentalises his encounters in the hop gardens, despite characterising the pickers as ‘out of place’, as intruders into his idyll:
 _‘Being the first week in September, the land was full of nomadic Londoners, and the smoke from countless fires bore witness to the annual invasion.’_     
@@ -22,7 +22,7 @@ Similarly, Blunden, in his exoticised description of [hop pickers]( ](/20c-hop-p
 Maxwell is greeted with cheery good-nature and soon discovers an old acquaintance, a night-watchman from his time producing artwork for the _Graphic_. Maxwell’s reflects how many Londoners and locals remember ‘hopping’ as a positive community experience with elements of carnival. Maxwell notes:
 The scenes in these ‘vineyards of the north’ - although there is an element of squalor – are often ‘picturesque’, and the scenes at the time of picking comparable with the scenes in the wine countries of Southern Europe’.     
 Maxwell also describes the changes then taking place as farmers turned to local day-labour due to the cost of ‘raised standard of camping accommodation for the hoppers’ required by law . This sounds benign but bears comparison with George Orwell’s experience just a few years later (see below).
-<param ve-image url="   ">
+<param ve-image url="https://stor.artstor.org/stor/22b087f4-554d-47c2-8131-3582d178ad1f" label="Hopping" attibution="T.C.Dugdale, private collection">
 
 Richard Church, in _The Little Kingdom: A Kentish Collection_, offers other perspectives, from his own patrician stance, to the harsh characterisation of pickers by Richard Jefferies. Jefferies, writing in the late nineteenth century, was renowned as a nature writer who understood the countryside and its people. In the passage reprinted in Church’s collection he pulls no punches in his depiction of three women fruit-pickers, one old, the others young, encountered on a dusty road. He starts with a description of the elder, in whose craggy face black shadows are gathering from too much exposure to sun. In contrast several pages are then given over to a soliloquy on the loveliness of the others; their grace of movement and their features transfigured by the summer light to that ‘golden-brown’ ‘… only found on the human face which has felt the sunshine continually’.  There is, yet, a brooding niggle, the effect of sun on the old woman has already been described as detrimental, and other passages remind us of mortal frailty - leaves on a hawthorn hedge ‘browned by the work of caterpillars’ . 
 <param ve-image url="   ">
