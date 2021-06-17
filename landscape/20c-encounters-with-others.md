@@ -6,7 +6,7 @@ banner="https://stor.artstor.org/stor/40fd3c44-43fc-4930-9377-1960db48d73b">
 
 Encounters with ‘other’ – ‘crime’s dark crew’   
 _The curious colours of the folk afield / The raven hair, the flamy silk, the blue / Washed purple with all weathers; crime’s dark crew; / Babes at the breast; old sailors chewing quids; / And hyacinth eyes beneath soon-dropt eyelids_ - A description of hop pickers in Edmund Blunden’s poem _Old Homes_ (1922) reprinted in Church (1964; p.158)
-<param ve-image url="   ">
+<param ve-image url="https://stor.artstor.org/stor/b8c85c59-97a0-45db-befb-36c7a779740c" label="Incidents of Hop gathering">
 
 The term ‘othering’ describes the classification of another person or group as belonging to a culturally or socially inferior category. The ‘other’ is different, the opposite of ‘self’, or ‘us’. Othering distances the ‘self’ from what it believes it is not – the crude, barbarous, uncivilised. This may include denigration, or romanticising of subaltern groups, for example rural labourers, the urban poor, itinerant workers. While othering may displace people to the margins of society, they may still be regarded as quintessential elements of place or shared landscapes.
 <param ve-image url="https://stor.artstor.org/stor/e20400b8-e3ad-4655-9f1c-ac49f1846682">
