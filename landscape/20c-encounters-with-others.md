@@ -9,7 +9,7 @@ _The curious colours of the folk afield / The raven hair, the flamy silk, the bl
 <param ve-image url="   ">
 
 The term ‘othering’ describes the classification of another person or group as belonging to a culturally or socially inferior category. The ‘other’ is different, the opposite of ‘self’, or ‘us’. Othering distances the ‘self’ from what it believes it is not – the crude, barbarous, uncivilised. This may include denigration, or romanticising of subaltern groups, for example rural labourers, the urban poor, itinerant workers. While othering may displace people to the margins of society, they may still be regarded as quintessential elements of place or shared landscapes.
-<param ve-image url="   ">
+<param ve-image url="https://stor.artstor.org/stor/e20400b8-e3ad-4655-9f1c-ac49f1846682">
 
 Itinerant hop and fruit pickers are certainly seen as transient but archetypal characters within the landscapes of Kent. Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests; these have been variously discussed in the [literature on Kent](/20c-hop-picking). 
 <param ve-image url="https://stor.artstor.org/stor/8b2c869f-fca1-462c-9f35-0ec431e15266" label="Hopping" attribution="Private collection">
@@ -29,7 +29,7 @@ Richard Church, in _The Little Kingdom: A Kentish Collection_, offers other pers
 
 It is, however, the visceral hostility that Jefferies perceives the woman to have for him, a person of seeming leisure, that is shocking. Although he is understanding, noting their lot is to toil from childhood ‘until limbs failed or life closed’.  Jefferies bizarrely returns to his soliloquy on beauty and his envy of their ‘health and hue’ and ‘glorious life’. All seems set for a hopeful conclusion as he re-encounters the women that evening and ‘shadow took away something of the coarseness of the group’,  only for a quarrel to commence and for the older woman to swear outrageously while the younger ones stagger drunk and incoherent – their coarse ‘otherness’ established.
 Church’s own encounter is less threatening, but very much a critique of a subaltern group – semi-migrant pickers lingering in Kent between early fruit and ‘hop-season’. These pickers work for a neighbouring farmer, harvesting Kentish Cobs (a variety of hazel nut). Church declares ‘these chattering semi-gypsies [sic] … [show] no respect for person or distinction of class, if there is such a thing in this postwar world’,  nor is respect shown for his dog, at which they throw nut shells and pass loud remarks regarding his ancestral characteristics!
-<param ve-image url="   ">
+<param ve-image url="https://stor.artstor.org/stor/637f0dd1-a51b-4b63-851c-5cd9ab8ffdc5">
 
 More ‘sociological’ treatments were provided by Jack London and George Orwell, both joined the ‘tramps’ and others from London desperately drawn to the ‘hopping’ for the wages. London’s book _People of the Abyss_ (1903) examined the slum conditions of the East End of London as he experienced them during 1902, including ‘hopping’ in Kent. Orwell encountered similarly poor conditions during 1931. At one farm he was refused work, as the farmer could not provide adequate accommodation and Government inspectors were actively checking conditions. This effectively meant large numbers of unemployed Londoners could not get crucial employment in the hop-fields.   
 For fictional accounts of hop picking see [Hop Picking and the Literary Imagination](20c-hop-picking)   
