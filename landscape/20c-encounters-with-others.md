@@ -17,7 +17,7 @@ Itinerant hop and fruit pickers are certainly seen as transient but archetypal c
 [Donald Maxwell](/20c-maxwelld-biography), in _The Enchanted Road_ (1927) sentimentalises his encounters in the hop gardens, despite characterising the pickers as ‘out of place’, as intruders into his idyll:
 _‘Being the first week in September, the land was full of nomadic Londoners, and the smoke from countless fires bore witness to the annual invasion.’_     
 Similarly, Blunden, in his exoticised description of [hop pickers]( ](/20c-hop-picking)) in the poem quoted at the start, uses an incursion metaphor - of ‘tattered armies gathered to the spoil … fierce of eye and tongue’ 
-<param ve-image url="   ">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/27/Hop_Picking_-_geograph.org.uk_-_2067737.jpg" label="Hop Picking" attribution="by Oast House Archive, CC BY-SA 2.0, via Wikimedia Commons">
 
 Maxwell is greeted with cheery good-nature and soon discovers an old acquaintance, a night-watchman from his time producing artwork for the _Graphic_. Maxwell’s reflects how many Londoners and locals remember ‘hopping’ as a positive community experience with elements of carnival. Maxwell notes:
 The scenes in these ‘vineyards of the north’ - although there is an element of squalor – are often ‘picturesque’, and the scenes at the time of picking comparable with the scenes in the wine countries of Southern Europe’.     
@@ -32,7 +32,7 @@ Church’s own encounter is less threatening, but very much a critique of a suba
 <param ve-image url="   ">
 
 More ‘sociological’ treatments were provided by Jack London and George Orwell, both joined the ‘tramps’ and others from London desperately drawn to the ‘hopping’ for the wages. London’s book _People of the Abyss_ (1903) examined the slum conditions of the East End of London as he experienced them during 1902, including ‘hopping’ in Kent. Orwell encountered similarly poor conditions during 1931. At one farm he was refused work, as the farmer could not provide adequate accommodation and Government inspectors were actively checking conditions. This effectively meant large numbers of unemployed Londoners could not get crucial employment in the hop-fields.
-<param ve-image url="   ">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/af/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22178.jpg" label="Hop picking in Yalding, Kent" attribution="Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons">
 
 **Article written by:** Peter Vujakovic
 
