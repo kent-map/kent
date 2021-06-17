@@ -2,7 +2,7 @@
 <param ve-config title="Hop and fruit picking in the 20th century" author="Peter Vujakovic" layout="vtl" 
 banner="xxx">
 
-### Hop and fruit picking in the 20th century
+#
 
 Encounters with ‘other’ – ‘crime’s dark crew’   
 _The curious colours of the folk afield / The raven hair, the flamy silk, the blue / Washed purple with all weathers; crime’s dark crew; / Babes at the breast; old sailors chewing quids; / And hyacinth eyes beneath soon-dropt eyelids_ - A description of hop pickers in Edmund Blunden’s poem _Old Homes_ (1922) reprinted in Church (1964; p.158)
@@ -32,16 +32,12 @@ Church’s own encounter is less threatening, but very much a critique of a suba
 <param ve-image url="   ">
 
 More ‘sociological’ treatments were provided by Jack London and George Orwell, both joined the ‘tramps’ and others from London desperately drawn to the ‘hopping’ for the wages. London’s book _People of the Abyss_ (1903) examined the slum conditions of the East End of London as he experienced them during 1902, including ‘hopping’ in Kent. Orwell encountered similarly poor conditions during 1931. At one farm he was refused work, as the farmer could not provide adequate accommodation and Government inspectors were actively checking conditions. This effectively meant large numbers of unemployed Londoners could not get crucial employment in the hop-fields.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/af/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22178.jpg" label="Hop picking in Yalding, Kent" attribution="Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons">
-
-**Article written by:** Peter Vujakovic
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/79/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22173.jpg" label="Hop picking in Yalding, Kent" attribution="Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons">
 
 For fictional accounts of hop picking see [Hop Picking and the Literary Imagination](20c-hop-picking)
 
 ### Bibliography 
 
-Bateman, Ron (2012) _Orwell and other writers’ treatment of hop-picking,_ The Orwell Society, https://orwellsociety.com/orwell-and-other-writers-on-hop-picking-by-ron-bateman/  
-
-Church, Richard (1964) _The Little Kingdom: A Kentish Collection_ (London: Hutchinson)   
-
-Jeffreries, Richard (1885) _The Open Air_ (London: Chatto & Windus); passage reprinted in Church (1964)   
+Bateman, Ron (2012) _Orwell and other writers’ treatment of hop-picking,_ [The Orwell Society](https://orwellsociety.com/orwell-and-other-writers-on-hop-picking-by-ron-bateman/)    
+Church, Richard (1964) _The Little Kingdom: A Kentish Collection_ (London: Hutchinson)     
+Jeffreries, Richard (1885) _The Open Air_ (London: Chatto & Windus); passage reprinted in Church (1964)     
