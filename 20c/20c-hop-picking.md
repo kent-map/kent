@@ -26,6 +26,8 @@ It took the incisive language of a George Orwell to deconstruct these airbrushed
 
 **Article by:** Carolyn Oulton
 
+For more on this see [Hop and fruit picking in the 20th century](https://kent-maps.online/landscape/20c-encounters-with-others/).
+
 ### Bibliography 
 
 Dickens, Charles. [The Uncommercial Traveller.](http://elibrary.club/dickens-the-uncommercial-traveller/76) 
