@@ -1,6 +1,6 @@
 <param ve-config 
        title="Seascapes"
-       banner="images/Hay barges banner.jpg"
+       banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301"
        layout="index">
 
 # {.cards}
@@ -13,17 +13,9 @@
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/Margatefromtheparade.jpg)
 
 As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells moved coastwards in the late eighteenth and nineteenth centuries, so a number of obscure Kentish fishing villages reinvented themselves as seaside resorts. 
-##
-**[Chatham Dockyard](/19c/19c-chatham-dockyard)**
-
-- author: Martin Watts
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/The_Medway_Chatham_England-LCCN2002711859.jpg)
-
-The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval dockyards, with its prime location and key participation in the industrial revolution.
 
 ##
-**[Richborough: The Secret Port](/20c/20c-richborough)
+**[Richborough: The Secret Port](/20c/20c-richborough)**
 
 - author: Martin Watts
 
