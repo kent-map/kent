@@ -22,14 +22,11 @@ In 1821 continued money difficulties forced a move to 18 St Mary’s Place, clos
 ### Bibliography 
 
 Dickens, Charles. ‘The Uncommercial Traveller.’ http://www.djo.org.uk/all-the-year-round/volume-x/page-12.html Accessed 14 November 2018.   
-Dickens, John. ‘Further Particulars.’ _The Times_. 4 Mar. 1820. ''The Times Digital Archive.'' Accessed 4 November 2018. Gale Document Number: CS34227812.
+Dickens, John. ‘Further Particulars.’ _The Times_. 4 Mar. 1820. ''The Times Digital Archive.'' Accessed 4 November 2018. Gale Document Number: CS34227812.   
+https://lukemckernan.com/2020/06/08/day-dreams-and-bad-dreams/   
+[Ancestry Images](https://www.ancestryimages.com/proddetail.php?prod=h4335) 
 
 ### References
 
 [^ref1]: Tomalin 13.
 [^ref2]: ‘Further Particulars’.
-
-### Links
-https://lukemckernan.com/2020/06/08/day-dreams-and-bad-dreams/   
-[Ancestry Images](https://www.ancestryimages.com/proddetail.php?prod=h4335)   
-
