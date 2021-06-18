@@ -1,4 +1,4 @@
-<param ve-config title="Kent Digital Map"
+<param ve-config title="Kent Maps Online"
        banner="https://iiif.juncture-digital.org/banner?url=https://raw.githubusercontent.com/kent-map/kent/main/images/kent-map-header.jpg"
        show-abstracts="true">
        
