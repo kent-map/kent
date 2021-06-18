@@ -17,17 +17,15 @@ To those unfamiliar with the world of cathedral musicians in the centuries betwe
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/The_Choir%2C_Canterbury_Cathedral_-_Google_Art_Project.jpg" label="The Choir, Canterbury Cathedral" attribution="Yale Center for British Art, Public domain, via Wikimedia Commons">
 
 Almost all of these men were active members of the [Catch Club](/music/19c-catch-club), singing and/or playing in the orchestra on a regular basis throughout their adult lives, so were prominent in the city’s musical life. Several, however, travelled further afield. Newspapers report the activities of nearby clubs; taken together, this paints a picture of the roads of Kent populated not only by the commerce of coaches, omnibuses, vans, post-chaises and carriages mentioned in the Directories, but by those peddling their cultural contributions around their corner of the country. 
-
-
-**Article written by:** Dr Chris Price
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/79/The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820995540465%29.jpg" label="The Dover Road: Annals of an Ancient Turnpike" attribution="Harper, Charles George, 1863-1943, No restrictions, via Wikimedia Commons">
 
 ### Bibliography
 
-Jackson, W. (1795). On Catches. In Letters on Various Subjects (3 ed., pp. 61-71). London: T. Cadell, Jun., and W. Davies. 
-(1863). Obituary, Thomas Goodban. The Musical Times and Singing Class Circular, 11(244), 70-71. Retrieved from http://www.jstor.org/stable/3352133
-Scholes, P. (1920). The[Canterbury Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s). The Music Student, XII(8), 468-469. 
+Jackson, W. (1795). On Catches. In Letters on Various Subjects (3 ed., pp. 61-71). London: T. Cadell, Jun., and W. Davies.   
+(1863). Obituary, Thomas Goodban. The Musical Times and Singing Class Circular, 11(244), 70-71. Retrieved from http://www.jstor.org/stable/3352133   
+Scholes, P. (1920). The[Canterbury Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s). The Music Student, XII(8), 468-469.  
 
-
+### References
 
 [^ref1]: _Dean’s Book_. GB-CA; CCA-DCc-DB/8, p. 37
 
