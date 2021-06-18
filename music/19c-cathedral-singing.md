@@ -1,4 +1,7 @@
-## Cathedral Singers
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Cathedral Singers" author="Dr Chris Price" layout="vtl" banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
 Since the dissolution of the monasteries in the 1540s, the new cathedrals constituted by statute had allowed unordained men to swell the ranks of the choir required to sing the two prescribed daily offices – Matins in the Morning and Evensong in the afternoon. Ordained men – so-called Minor Canons – sang alongside them, but it was a rare cathedral which could find enough to make up the alto, tenor and bass lines, so ‘Lay Clerks’ (or, in some places, ‘Lay Vicars’) were employed to do the job. [Canterbury](/music/19c-music-canterbury) had twelve of them (four of each voice), alongside the six Minor Canons and ten boy Choristers.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/52/Canterbury_Cathedral_Choir_%2840805457492%29.jpg" label="Canterbury Cathedral Choir" attribution="Michael D Beckwith, CC0, via Wikimedia Commons">
@@ -14,6 +17,7 @@ To those unfamiliar with the world of cathedral musicians in the centuries betwe
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/The_Choir%2C_Canterbury_Cathedral_-_Google_Art_Project.jpg" label="The Choir, Canterbury Cathedral" attribution="Yale Center for British Art, Public domain, via Wikimedia Commons">
 
 Almost all of these men were active members of the [Catch Club](/music/19c-catch-club), singing and/or playing in the orchestra on a regular basis throughout their adult lives, so were prominent in the city’s musical life. Several, however, travelled further afield. Newspapers report the activities of nearby clubs; taken together, this paints a picture of the roads of Kent populated not only by the commerce of coaches, omnibuses, vans, post-chaises and carriages mentioned in the Directories, but by those peddling their cultural contributions around their corner of the country. 
+
 
 **Article written by:** Dr Chris Price
 
