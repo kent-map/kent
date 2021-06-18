@@ -15,3 +15,4 @@ This infrastructure supported the newly constructed barge building work, includi
 <param ve-image url="images/thumbnail_Unloading Train Ferry 1919.jpg" label="Richborough Ferry 1916-19">
 
 Built in secret, the port was demolished in 1919 and, despite attempts at a commercial revival in the 1920s, the silt problem defeated all comers, and there remain just a few reminders of what was once a vital part of the war effort in 1918.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg" label="Richborough, 1917. A Cross-channel Ferry by John Lavery" attribution="John Lavery, Imperial War Museum, Public domain, via Wikimedia Commons">
