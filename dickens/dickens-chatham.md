@@ -1,8 +1,10 @@
-<param ve-config style="article">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Dickens and Chatham" author="Professor Carolyn Oulton" layout="vtl" banner="images/banners/19c.jpg">
 
-Sheerness
+<param ve-entity eid="Q729006" aliases="Chatham">
+<param ve-entity eid="Q1003196" aliases="Sheerness">
 
-## Dickens and Chatham 
+#
 
 **Event:** 1816-1822 John Dickens based at [Chatham Dockyard](/19c/19c-chatham-dockyard), working for the Naval Pay Office.   
 _‘snug under hill-sides of corn-fields, hop gardens, and orchards; its great chimneys smoking with a quiet—almost a lazy—air, like giants smoking tobacco; and the great Shears moored off it, looking meekly and inoffensively out of proportion, like the Giraffe of the machinery of creation. The store of cannon on the neighbouring gun-wharf, had an innocent toy-like appearance, and the one red-coated sentry on duty over them was a mere toy figure, with a clockwork movement. As the hot sunlight sparkled on him he might have passed for the identical little man who had the little gun, and whose bullets they were made of lead, lead, lead.’_ ‘The Uncommercial Traveller’. _All the Year Round_. 29 August 1863.
@@ -15,13 +17,9 @@ Initially the family lived at 2 Ordnance Terrace, on the hills above the estuary
 In 1821 continued money difficulties forced a move to 18 St Mary’s Place, closer to the dockyard, and in the same year John Dickens covered a major fire in Chatham for _The Times_. His concern for the residents most deeply affected by this catastrophe is easily lost in the feeling of déjà vu for anyone who remembers Mr Micawber in _David Copperfield_. The rhetorical flourish and the preoccupation with financial ruin are both familiar from the novel, in lines such as ‘several houses, and those, we understand, principally belonging to persons whose ruin must be the consequence, were wholly unensured [sic]’.[^ref2] In danger of financial ruin himself, by 1822 John Dickens had left his post at the Naval Pay Office and moved the family to London.
 <param ve-image url="/https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" label="Chatham Dockyard">
 
-**Article written by:** Carolyn Oulton
-
-
 ### Bibliography 
 
-Dickens, Charles. ‘The Uncommercial Traveller.’ http://www.djo.org.uk/all-the-year-round/volume-x/page-12.html Accessed 14 November 2018.
-
+Dickens, Charles. ‘The Uncommercial Traveller.’ http://www.djo.org.uk/all-the-year-round/volume-x/page-12.html Accessed 14 November 2018.   
 Dickens, John. ‘Further Particulars.’ _The Times_. 4 Mar. 1820. ''The Times Digital Archive.'' Accessed 4 November 2018. Gale Document Number: CS34227812.
 
 ### References
@@ -29,10 +27,7 @@ Dickens, John. ‘Further Particulars.’ _The Times_. 4 Mar. 1820. ''The Times 
 [^ref1]: Tomalin 13.
 [^ref2]: ‘Further Particulars’.
 
-
 ### Links
 https://lukemckernan.com/2020/06/08/day-dreams-and-bad-dreams/   
-[Ancestry Images](https://www.ancestryimages.com/proddetail.php?prod=h4335)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzM5NTIzMV19
--->
+[Ancestry Images](https://www.ancestryimages.com/proddetail.php?prod=h4335)   
+
