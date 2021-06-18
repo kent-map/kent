@@ -9,9 +9,9 @@
 
 ### Music
 
-[Catch](19c-catch-music)
-[Cathedral Singing](19c-cathedral-singing)
-[Catch Club](19c-catch-club)
+[Catch](19c-catch-music)   
+[Cathedral Singing](19c-cathedral-singing)   
+[Catch Club](19c-catch-club)   
 
 ### Musicians
 
