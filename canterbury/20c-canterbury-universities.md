@@ -12,7 +12,7 @@
 ### Universities
 
 By the end of the 20th century Canterbury was home to three universities, the University for the Creative Arts (founded as the Canterbury School of Art and Architecture 1948), [Canterbury Christ Church University](https://www.canterbury.ac.uk) (formerly College of Education founded 1962) and the largest and first to be a university, the [University of Kent](https://www.kent.ac.uk) (founded 1965). 
-<param ve-map center="Q3182956" zoom="11">
+<param ve-map center="Q1516684" zoom="15">
 
 #### The University of Kent
 
