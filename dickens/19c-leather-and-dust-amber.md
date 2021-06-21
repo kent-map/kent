@@ -1,7 +1,5 @@
 /kent-map/kent/main/dickens/19c-leather-and-dust
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Leather and dust: David Copperfield’s shoes and the Dover Road" author="Elizabeth Waterman-Scrase" layout="vtl" banner=" ">
-
-![Photograph of Macadam Road, Nicolaus, 1850S - Sutter County Library](/dickens/images/Macadam.jpg){: .right}
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Leather and dust: David Copperfield’s shoes and the Dover Road" author="Elizabeth Waterman-Scrase" layout="vtl" banner="[Photograph of Macadam Road, Nicolaus, 1850S - Sutter County Library](/dickens/images/Macadam.jpg)">
 
 <param ve-entity eid="Q23298" aliases="Kent">
 <param ve-entity eid="Q29303" aliases="Canterbury">
