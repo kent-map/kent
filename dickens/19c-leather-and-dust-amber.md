@@ -23,8 +23,6 @@ Developments to improve the original invention were to mix water and rock dust, 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820985678702%29.jpg" label="The Dover road - annals of an ancient turnpike (1922)" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Coaching_days_and_coaching_ways_%281893%29_%2814595227959%29.jpg" label="Coaching days and coaching ways (1893)" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
-![David Copperfield - shoes](/dickens/images/DCaunt.jpg){: .right}
-
 David Copperfield’s footwear plays a significant role in this part of his story. We know from what he tells us that they were pretty much destroyed by his journey’s end. Considering a work or military boot might last with little wear on such a walk, it highlights a question about David’s footwear. What was he wearing? 
 
 <param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/d/de/David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg" label="David reaches Canterbury, from David Copperfield art by Frank Reynolds" description="Canterbury, Mercery Lane (Pre 1876)" attribution="Artwork by Frank Reynolds (1876-1853), Public domain, via Wikimedia Commons">
@@ -35,6 +33,7 @@ From the original illustrations we can see David’s footwear is smooth soled an
 <param ve-image url="/dickens/images/DCshoeswaiter.jpg" label="David Copperfield - shoes" attribution="?">
 
 The leather in shoes and manufacturing processes would be familiar today. Major differences are the glues and synthetic sole compounds. Victorian soles were mostly leather, construction of sole the attachment might have been either furrow stitched (where you cut a furrow in the sole and the stiches would be inlaid, as shoes wear it’s normally the middle of the sole first) and the finish was variable. Soles were nailed on or sometimes tunnel stitched, and with work or walking boots there would be the addition of hobnails and cleats (like small horseshoes for people’s shoes). Hobs were not found in shoes used for town or house. David’s shoes seem likely to have a heel with not much more than layers of nailed or glued leather. No wonder they fell apart and gave him blisters!
+<param ve-image url="David Copperfield - shoes](/dickens/images/DCaunt.jpg)" label="David Copperfield - shoes" attribution="?">
 
 ### Bibliography:
 
