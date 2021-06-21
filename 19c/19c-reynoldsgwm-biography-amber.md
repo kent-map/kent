@@ -1,54 +1,55 @@
-/kent-map/kent/main/19c/19c-jerome-biography
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Jerome K. Jerome (1859-1927)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jerome_K._Jerome_%286150826011%29.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="G. W. M. Reynolds (1814 – 1879)" author="Peter Merchant" layout="vtl" banner=" https://upload.wikimedia.org/wikipedia/commons/7/76/G_W_M_Reynolds_The_Soldier%27s_Wife_military_flogging.jpg">
 
-<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q17647042" aliases="Dane John">
+<param ve-entity eid="Q26163" aliases="Sandwich">
+<param ve-entity eid="Q725261" aliases="Ashford">
+<param ve-entity eid="Q929286" aliases="Herne Bay">
+<param ve-entity eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q23298" aliases="Kent">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q5646148" aliases="Hampton-on-Sea">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q26550125" aliases="Snargate Street">
+<param ve-entity eid="Q2551894" aliases="Walmer">
 
->*Place:* [Folkestone](/19c/19c-folkestone)
-<param ve-map primary center="Q375314" zoom="10">
+/kent-map/kent/main/19c/19c-reynoldsgwm-biography
 
->“You’ll find when you get home,” I said, “she has thought of one other thing.”  
->“What’s that?” said Harris.  
->“A house at Folkestone for the season.”  
->“What should she want a house at Folkestone for?” said Harris.  
->"To live in,” I suggested, “during the summer months.”  
->“She’s going to her people in Wales,” said Harris, “for the holidays, with the children; we’ve had an invitation.”  
->“Possibly,” I said, “she’ll go to Wales before she goes to Folkestone, or maybe she’ll take Wales on her way home; but she’ll >want a house at Folkestone for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am — but I feel a >presentiment that I’m not.”  
->“This trip,” said Harris, “is going to be expensive.”  
->“It was an idiotic suggestion,” I said, “from the beginning.”  
-[_Three Men on the Bummel_](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm).
-<param ve-map primary center="Q375314" zoom="10">
+<param ve-image url="Mary Price on Dover Beach.jpg" label="Mary Price on Dover Beach" attribution="">
 
-Recalling their holiday in [Folkestone](/19c/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around’
-<param ve-map primary center="Q375314" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/11/Jerome_K._Jerome_%287893553318%29.jpg" label="Jerome K. Jerome" attribution="National Media Museum from UK, No restrictions, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Bandstand%2C_The_Leas%2C_Folkestone_-_geograph.org.uk_-_1980145.jpg" label="The Bandstand, The Leas, Folkestone" attribution="The Bandstand, The Leas, Folkestone by David P Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Photo_of_Robert_Barr.jpg" label="Robert Barr" attribution="not stated, Public domain, via Wikimedia Commons">
+**Events:** Birth in Sandwich; schooling in Ashford; serialisation of Kent-based novel Mary Price, 1851–53; purchase of Gothic House in Herne Bay, 1854 (residence 1854–58).
+<param ve-map primary center="Q26163" zoom="10">
+<param ve-map primary center="Q725261" zoom="10">
+<param ve-map primary center="Q929286" zoom="10">
 
-_Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited for a bicycling holiday in the Black Forest, the price they pay being their wives’ demand for various home improvements and a female-only holiday in [Folkestone](/19c/19c-folkestone).
-<param ve-map primary center="Q375314" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Jerome_Three_Men_in_a_Boat_First_edition_1889.jpg" label="Three Men in a Boat First edition" attribution="ReijiYamashina777, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
+**Publications:** _The Mysteries of London,_ 1845-50: _Mary Price_, 1851-53.
 
-In one of the best comic set pieces Jerome briefly references the ultra-respectable Leas, as the place where his alter ego J meets the man who will go on to destroy his bicycle by ‘overhauling’ it.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Lees_i.e._Leas_Folkestone_England.jpg" label="Folkestone Leas" attribution="Snapshots Of  The Past, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
-	
->‘He said: “This front wheel wobbles.”
->I said: “It doesn’t if you don’t wobble it.”  It didn’t wobble, as a matter of fact—nothing worth calling a wobble.
->He said: “This is dangerous; have you got a screw-hammer?”
->As J ruefully admits, ‘I ought to have been firm, but I thought that perhaps he really did know something about the business.’ 
 
-But 'Before I could stop him he had unscrewed something somewhere, and out rolled all over the path some dozen or so little balls.
-"Catch ’em!" he shouted; "catch ’em!  We mustn’t lose any of them."
-He was quite excited about them. We grovelled round for half an hour, and found sixteen.'
-Nothing daunted, J’s new acquaintance next proposes ‘that while he was about it he would see to the chain for me, and at once began taking off the gear-case.  I did try to persuade him from that.’ 
+>‘I had a couple of hours to dispose of as best I could. So I thought of taking a walk to the Dane John, which I may as well observe, for the benefit of those who are not acquainted with Canterbury, is a beautiful pleasure-ground, laid out in walks with avenues of trees, borders of flowers, and groups of shrubs. One side is bounded by a high rampart belonging to the old city-fortifications, and this is also a favourite promenade with the ladies and gentlemen of Canterbury. There is a very high mound, with winding walks ascending to the summit, on which stands a sort of monument or obelisk, with seats conveniently arranged round it. From this eminence there is a very beautiful view, not only of the city and its fine old cathedral with its three stately towers and numerous pinnacles, but likewise of the adjacent country for several miles round.’
+<param ve-map primary center="Q17647042" zoom="10">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/G_W_M_Reynolds_Author.jpg" label="G. W. M. Reynolds" attribution="White, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/Dane_John_gardens_-_geograph.org.uk_-_746465.jpg" label="Dane John gardens, Canterbury" attribution="david mills / Dane John gardens">
 
-By the end of it the hapless owner has lost all hope, and admits to the reader that ‘My pride in the machine he had killed.  My only interest lay now in seeing him scratch and bump and pinch himself.’ But his sarcastic comment that ‘It is not only your skill and dexterity that fascinates me, it is your cheery confidence in yourself, your inexplicable hopefulness, that does me good’ is clearly wasted on the author of his misfortunes, and finally the bicycle is sold off at a loss to a local dealer.
+Reynolds’s novel _Mary Price_ (1851–53) is a tale of two cities which takes its heroine once to Paris and more than once to London; but, just as Reynolds resets the novel’s timeframe to the years between 1826 (when the heroine is eleven) and 1835 (when she is a new bride), so he shifts its geographical centre of gravity to the area between Ashford and Deal. Mary Price herself repeatedly gravitates back to Kent, with the help at one point of the famous “Tally Ho” Canterbury coach which left from Gracechurch Street in London. Key scenes unfold in various inns and alehouses lost to us because long since reduced to rubble—the Saracen’s Head in Ashford, the Fountain and the Rose in Canterbury, Wright’s Hotel in [Dover](/dickens/19c-dover) — and on Dover’s Shakespeare Cliff. 
+<param ve-map primary center="Q725261" zoom="10">
+<param ve-map primary center="Q1011096" zoom="10">
+<param ve-map primary center="Q23298" zoom="10">
+<param ve-map primary center="Q29303" zoom="10">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Saracen%27s_Head_Inn_plaque_London.jpg" label="Saracen's Head Inn plaque" attribution="Man vyi, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/29/Shakespeare_Cliff%2C_Dover%2C_1849_RMG_BHC1212.tiff" label="Shakespeares Cliff, Dover" attribution="Clarkson Frederick Stanfield, Public domain, via Wikimedia Commons">
 
-[Victorian Secrets: Jerome K. Jerome](https://www.victoriansecrets.co.uk/authors/jerome-k-jerome-1859-1927/)
+![Joseph Mallord William Turner, ‘Dover ’, c.1825, Tate (D18154), digital image © Tate released under Creative Commons CC-BY-NC-ND (3.0 Unported)](/dickens/images/TurnerDoverD18185410.jpg){: .left .dropshadow}
 
-### Bibliography
+While in [Dover](/dickens/19c-dover), the heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala: [_The Streets of the World_](https://search.proquest.com/britishperiodicals/docview/6520718/fulltextPDF/88A85DA9A4A94A39PQ/3?accountid=9869) The action extends to Walmer and to Herne Bay, where Reynolds was soon to settle. At Hampton-on-Sea it takes in “a singular little colony of fishing people … [who] intermarry amongst themselves, and thus exist in a state of complete isolation, and almost inaccessible to every civilizing influence.”  Between Sandwich and Deal, Mary Price passes with a shudder a stone marking the spot where on 25th August 1782 “Mary Rix, spinster, Aged 23 years, was murdered by Martin Lash, a foreigner, Who was executed for the same.” Reynolds here transfers to his heroine a grim observation of Baker Peter Smith’s (“A Journal of an Excursion Round the South-eastern Coast of England“ [London: Gilbert & Rivington, 1834], 64-65). The Kent of _Mary Price_ is not the Kent of _The Pickwick Papers_, a place for cricket and Christmas; it is equally a place for cruelty and crime.
+<param ve-map primary center="Q26551025" zoom="10">
+<param ve-map primary center="Q2551894" zoom="10">
+<param ve-map primary center="Q179224" zoom="10">
+<param ve-map primary center="Q929286" zoom="10">
+<param ve-map primary center="Q5646148" zoom="10">
+<param ve-map primary center="Q26163" zoom="10">
+<param ve-map primary center="Q1011096" zoom="10">
+<param ve-image url="Snargate St Dover 1830 (1).jpg" label="Snargate Street Dover, 1830" attribution="Drawn by G. Shepherd">
 
-Oulton, C. (2012) [Below the fairy city: a life of Jerome K. Jerome](https://www.victoriansecrets.co.uk/book/below-the-fairy-city-a-life-of-jerome-k-jerome/) Victorian Secrets.
 
-Sharp, Luke [Robert Barr](/19c/19c-barr-biography). ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.
+### Bibiliography
 
-![image](https://user-images.githubusercontent.com/82179711/122744115-99538800-d27f-11eb-98e4-2d895137094d.png)
+[Ainsworth and Friends Blog](https://ainsworthandfriends.wordpress.com/2013/02/13/the-man-who-wasnt-dickens/)
