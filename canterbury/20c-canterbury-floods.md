@@ -21,6 +21,13 @@ It was not just Canterbury that was affected by the floods. The rain ‘caused f
 The rains finally came to an end on Friday 5 November or ‘Bonfire Night’, an irony that is unlikely to have been lost on residents. The situation was considered serious enough to elicit a message of sympathy from the Queen, described somewhat gratuitously by the _Canterbury Journal_, _Kentish Times_ and _Farmers' Gazette_ as ‘entirely spontaneous’. 1909 was not the only year that Canterbury was flooded by the Stour. For more on its history see [Historic Canterbury](http://www.machadoink.com/The%20River%20Stour.htm).
 <param ve-image url="https://stor.artstor.org/stor/521f0909-d812-46b8-84f5-49c0328aba76" label="Causeway" attribution="Horace Spence Collection">
 
+***
+
+Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce](/canterbury/20c-Canterbury-commerce) and [industrial heritage](/canterbury/20c-Canterbury-industrial), its [retail industry](/canterbury/20c-canterbury-retail-store) and [trading estates](/canterbury/20c-Canterbury-trading-estates), or Canterbury as a [boom city](/canterbury/20c-canterbury-boom-city). You can also learn more about Canterbury's [universities](/canterbury/20c-canterbury-universities) and its [education](/canterbury/20c-canterbury-education) system, and Canterbury has been shaped by other facets of its [transport](/canterbury/20c-canterbury-transport) infrastructure and the [railway](/canterbury/20c-canterbury-railway), [planning](/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War](/canterbury/20c-canterbury-ww2) and the [disastrous 1909 floods](/canterbury/20c-canterbury-floods).
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/1557px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" label="Canterbury Cathedral" attribution="Hans Musil, CC BY-SA 4.0"> 
+
+***
+
 ### Bibliography
 _The Cantuarian_. November 1909. 458. With thanks to Peter Henderson.
 ‘Floods and Storm in Kent.’ _Canterbury Journal, Kentish Times and Farmers' Gazette._ 6 November 1909.   
@@ -28,8 +35,3 @@ British Newspaper Archive. Accessed 28 April 2021.
 _Langtonian_. December 1909. 340. With thanks to Janeen Barker.  
 ‘Queen’s Message of Sympathy’. _Canterbury Journal, Kentish Times and Farmers' Gazette_. 13 November 1909.   
 <param ve-image url="https://stor.artstor.org/stor/a0bf9873-f3f9-4f74-99c8-a392e6ea8e47" label="Floods, Canterbury, 1909" attribution="Horace Spence Collection">
-
-***
-
-Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce](/canterbury/20c-Canterbury-commerce) and [industrial heritage](/canterbury/20c-Canterbury-industrial), its [retail industry](/canterbury/20c-canterbury-retail-store) and [trading estates](/canterbury/20c-Canterbury-trading-estates), or Canterbury as a [boom city](/canterbury/20c-canterbury-boom-city). You can also learn more about Canterbury's [universities](/canterbury/20c-canterbury-universities) and its [education](/canterbury/20c-canterbury-education) system, and Canterbury has been shaped by other facets of its [transport](/canterbury/20c-canterbury-transport) infrastructure and the [railway](/canterbury/20c-canterbury-railway), [planning](/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War](/canterbury/20c-canterbury-ww2) and the [disastrous 1909 floods](/canterbury/20c-canterbury-floods).
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/1557px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" label="Canterbury Cathedral" attribution="Hans Musil, CC BY-SA 4.0"> 
