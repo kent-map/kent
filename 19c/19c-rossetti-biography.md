@@ -40,4 +40,4 @@ Due to his declining health Dante Gabriel Rosetti came to stay at his close frie
 
 ### Bibliography
 Rosetti, Christina. [Birchington Churchyard](https://hellopoetry.com/poem/16025/birchington-churchyard/) Accessed 1 September 2020.
-<param ve-image url="images/eliot5.jpg" label="Margate" attribution="Martin Crowther">
+<param ve-image url="images/20c/eliot5.jpg" label="Margate" attribution="Martin Crowther">
