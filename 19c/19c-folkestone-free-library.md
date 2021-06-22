@@ -20,20 +20,21 @@ When the library was moved from the Bayle to Grace Street in April 1888, it had 
 <param ve-image url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" label="Folkestone Library" attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence.">
 
 Determined to maintain its standards, the library had strict regulations, including ‘No person shall be admitted who is in an intoxicated or dirty condition…’  Presumably not for this reason, a separate children’s section was considered unnecessary until the twentieth century. 
-<param ve-image url="/images/library indicator1.jpg" label="Library Indicator ‘Kent Archive and Local History Service" attribution="https://www.kentarchives.org.uk">
 
 Nor was the open access system adopted until 1910. Before then anyone wanting to borrow a book would have to brave a possibly disapproving librarian, having first consulted the library ‘indicator’. This simple device – dividing titles firmly into categories - showed readers whether a book was available or in use. 
+<param ve-image url="/images/library indicator1.jpg" label="Library Indicator attribution="Kent Archive and Local History Service"> 
 
 [H. G. Wells](/20c/20c-wellshg-biography) sends Kipps to the Folkestone library in 1905, where he claims nervously, ‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather. I was just ‘aving a look at this Indicator. First-class idea. Tells you all you want to know’. 
-
+<param ve-image url="/images/kippsinfolkestonelibrary.jpg"  label="Kipps in Folkestone Library" attribution="Kent Archive and Local History Service">
+                                                                   
 In 1902 Rev. Hall and a group of ‘lady volunteers’ helped the librarian to re-catalogue the collection, taking the opportunity to purge it of obsolete volumes. Predictably some of the more sensational titles disappeared at this point. Nonetheless a slight spike in the acquisition of non-canonical Victorian fiction may speak to a moment of nostalgia either at the fin de siècle (the last extant catalogue is from 1896) or in the wake of Victoria’s death the year before. 
 
 Hill would doubtless have been relieved to know that in 1926 the library flatly refused one donation. Aylmer Maude’s _The Life of Dr Marie Stopes_ commemorating the famously controversial _Married Love_ author, contains no direct reference to birth control, but almost fifty years after the library first opened its doors it was still being careful about who came through them. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Marie_Stopes_in_her_laboratory%2C_1904.jpg" label="Marie Stopes in her laboratory, 1904" attribution="Author unknown, Public domain, via Wikimedia Commons">
 
 
 ### Bibliography
 
-![Image: Kipps in Folkestone Library ‘Kent Archive and Local History Service’ https://www.kentarchives.org.uk/](images/kippsinfolkestonelibrary.jpg){: .right .dropshadow}
 Catalogues of the Folkestone Free Library, 1881, 1896. Held in Folkestone Library.   
 Cutting from Folkestone Herald 13 November 1926. Page unknown. Held in Folkestone Library.   
 Hannavy, J. L. _The Libraries of Dover and Folkestone_. Thesis approved for Fellowship of the Libraries Association. 1968.   
