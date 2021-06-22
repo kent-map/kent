@@ -1,10 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title=" " author=" " layout="vtl" banner=" ">
-<param ve-entity eid="Q" aliases="">
-<param ve-image url=" " label=" " attribution=" ">
-<param ve-map primary center="Q" zoom="10">
-
-/kent-map/kent/main/19c/19c-walpole-biography
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Sir Hugh Seymour Walpole (1884 - 1941)" author="Alexa Barrett" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/e/e7/Guide_to_St._Augustine%27s_monastery_and_missionary_college_%281902%29_%2814774887611%29.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Sir Hugh Seymour Walpole (1884 - 1941)" author="Alexa Barrett" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q3360332" aliases="Kings School">
 <param ve-entity eid="Q3360332" aliases="King’s School">
@@ -12,9 +6,10 @@
 <param ve-entity eid="Q29265" aliases="Cathedral">
 <param ve-entity eid="Q725261" aliases="Ashford">
 
-**Event:** Attended Kings School, Canterbury 1896 to 1898.
- 
->‘Adam Brandon was born at Little Empton in Kent in 1839. He was educated at the King’s School, Canterbury, and at Pembroke College, Cambridge. Ordained in 1863, he was first curate at St Martin’s, Portsmouth, then Chaplain to the Bishop of Worcester; in the year 1875 he accepted the living of Pomfret in Wiltshire and was there for twelve years. It was in 1887 that he came to our town; he was first Canon and afterwards Archdeacon.
+#
+
+**Event:** Attended Kings School, Canterbury 1896 to 1898.   
+_‘Adam Brandon was born at Little Empton in Kent in 1839. He was educated at the King’s School, Canterbury, and at Pembroke College, Cambridge. Ordained in 1863, he was first curate at St Martin’s, Portsmouth, then Chaplain to the Bishop of Worcester; in the year 1875 he accepted the living of Pomfret in Wiltshire and was there for twelve years. It was in 1887 that he came to our town; he was first Canon and afterwards Archdeacon._
 _The Cathedral_
 <param ve-map primary center="Q3360332" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Picture_of_Hugh_Walpole.jpg" label="Hugh Walpole" attribution="not stated, Public domain, via Wikimedia Commons">
