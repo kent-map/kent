@@ -5,10 +5,9 @@
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q26321366" aliases="Harbour Street">
 
-**Event** Born Ramsgate 
-**Publications:** best known for _Portrait of a Rebel_ (1929) which was made into the 1936 Katherine Hepburn film _A Woman Rebels._  
+**Publications:** best known for _Portrait of a Rebel_ (1929) which was made into the 1936 Katherine Hepburn film _A Woman Rebels._   
 Writer and playwright Netta [Janet] Syrett was born at 23 Harbour Street, [Ramsgate](/dickens/19c-ramsgate) in 1865 and  lived in the town to aged eleven, when she was sent off to school. Her connection with [Ramsgate](/dickens/19c-ramsgate) seems to have had little impact on her life though her memoirs record a happy childhood in a relatively prosperous family. She was the eldest of eleven children (two of her sisters, Mabel and Nellie (Ellen) Syrett became renowned artists who illustrated her works) and niece to the prolific writer and journalist Grant Allen.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ramsgate_Marina_-_geograph.org.uk_-_1907412.jpg" label="Ramsgate Marina" attribution="Ramsgate Marina by Don Barber, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ramsgate_Marina_-_geograph.org.uk_-_1907412.jpg" label="Ramsgate Marina" attribution="Ramsgate Marina by Don Barber, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Portrait_of_Grant_Allen_by_Walery.jpg" label="Grant Allen, Uncle of Netta Syrett" attribution="Walery, Public domain, via Wikimedia Commons">
 <param ve-map center="Q26321366" zoom="15">
 
