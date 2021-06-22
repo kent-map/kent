@@ -3,7 +3,6 @@
 <param ve-entity eid="Q3360332" aliases="Kings School">
 <param ve-entity eid="Q3360332" aliases="King’s School">
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q29265" aliases="Cathedral">
 <param ve-entity eid="Q725261" aliases="Ashford">
 
 #
@@ -35,6 +34,7 @@ Priestley, J. B. ‘Hugh Walpole.’ _The English Journal_ 17: 7 (1928). 529–5
 Stape, J. H. ‘Sketches from the Life: The Conrads in the Diaries of Hugh Walpole.’ _The Conradian_ 34(1): 2009. 163–184. JSTOR, www.jstor.org/stable/20873661. Accessed 6 Jan. 2021.    
 Steele, Elizabeth. ‘Walpole, Sir Hugh Seymour (1884–1941)’. https://doi.org/10.1093/ref:odnb/36711. Published in print: 23 September 2004 Published online: 23 September 2004 This version: 07 January, 2010.   
 Walpole, Hugh. _The Cathedral_. 1st World Publishing, Incorporated, United States, 2004. (Original publication, 1922).   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Hugh_Walpole%2C_1934.jpg" label="Hugh Walpole, 1934" attribution="Carl Van Vechten, Public domain, via Wikimedia Commons">
 
 ### References
 
