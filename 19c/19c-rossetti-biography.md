@@ -11,10 +11,7 @@
 **Place:** Birchington, Margate   
 **Events:** Death of Dante Gabriel Rossetti in Birchington-on-Sea in 1882; 'Birchington Churchyard’ written by Christina Rossetti in the same year.   
 D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-Raphaelite movement. He was one of the founders of the Pre-Raphaelite Brotherhood in 1848. His sister Christina was a poet associated with the Pre-Raphaelite literary movement. Her most famous collection was _Goblin Market and Other Poems_ (1862).
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Recollections_of_Dante_Gabriel_Rossetti_%281904%29_frontispiece.pn" label="Dante Gabriel Rossetti" attribution="Henry Treffry Dunn, Public domain, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Dante_Gabriel_Rossetti_-_Christina_Rossetti_%281848%29.jpg" label="Dante Gabriel Rossetti - Christina Rossetti (1848)" attribution="Dante Gabriel Rossetti, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Dante_Gabriel_Rossetti_-_Joan_of_Arc_%281882%29.jpg" label="Dante Gabriel Rossetti - Joan of Arc (1882)" attribution="Dante Gabriel Rossetti, Public domain, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/57/In_this_house_The_Pre-Raphaelite_Brotherhood_was_founded_in_1848.jpg" label="In this house The Pre-Raphaelite Brotherhood was founded in 1848" attribution="Spudgun67, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map center="Q865021" zoom="10">
 
 ‘Birchington Churchyard’
