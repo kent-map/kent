@@ -17,7 +17,6 @@ In 1879 she married Henry Stopes, a keen palaeontologist and moved to Upper Norw
 
 Spending week days at her lodgings in Torrington Square, which was conveniently located near the British Museum, the weekends were spent at the Mansion House, Swanscombe “where with her two little girls she rusticates from Friday to Monday as a relief from the work of arduous literary research in London”.[^ref1]  The Mansion House was the Elizabethan Dower house belonging to the Manor of Swanscombe replete with oak panelling and provided a delightful bolt hole for the family who enjoyed “grubbing” around the potato fields and hop furrows for pre-historic flints".[^ref2]
 <param ve-map center="Q6423437" zoom="10">  
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0c/Hand_Axe_Sculpture_in_Swanscombe_Heritage_Park_-_geograph.org.uk_-_1417150.jpg" label="Hand Axe Sculpture in Swanscombe Heritage Park" attribution="David Anstiss / Hand Axe Sculpture in Swanscombe Heritage Park">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Quarterly_journal_of_the_Geological_Society_of_London_%2813937160882%29.jpg" label="The Quarterly journal of the Geological Society of London" attribution="Geological Society of London, Public domain, via Wikimedia Commons">
 
 Charlotte’s ground-breaking publication _British Freewomen: Their Historical Privilege_ published in 1894 outlined the historical right of women to vote, arguing that no law existed to prevent them and established her as a prominent, if now often underestimated, member of the suffrage movement.[^ref3] One wonders whether it was written during a frenetic week in London or drafted using a pen dipped into Sir Walter Scott’s “grubby round inkstand” which she kept on her desk in Swanscombe.[^ref4] 
@@ -25,19 +24,17 @@ Charlotte’s ground-breaking publication _British Freewomen: Their Historical P
 
 Sarah Tooley who interviewed Charlotte for the _Women’s Penny Paper_ in 1895 describes the idyllic landscape around Charlotte’s home as she and Charlotte walked through “woods bright with bluebells and jubilant with birds, climbing five-barred gates and floundering in cart ruts.”[^ref5] Charlotte however played down its charms describing it as an “abandoned spot” which was “inhabited chiefly by miners who work in the adjacent [chalk pits](/landscape/chalk-pits-stig)”[^ref6] She said “I call this house my husband’s hunting-box, as the district is so rich in flints.”[^ref7] She did however enthuse about Kent’s connections with Shakespeare and “delights to think that the great William ofttimes with his company trod the [Dover Road](/dickens/dover-road) which runs East of her garden wall.” 
 <param ve-map primary center="Q1083051" zoom="10">
-<param ve-image url=" " label=" " attribution=" ">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Woodland_Path_at_Swanscombe_Heritage_Park.jpg" label="Woodland Path at Swanscombe Heritage Park" attribution="Ethan Doyle White, CC BY-SA 4.0, via Wikimedia Commons">
 
-The idyll of family life that Sarah Tooley portrayed in the _Women's Penny Paper_ may have belied the reality. Sarah Green believes that "while [Charlotte and Henry's] correspondence suggests that a lasting comradeship developed between them, each found domestic life constraining and sought to pursue their interests on their own terms, sometimes spending lengthy periods apart."[^ref8] Swanscombe was Henry's space, London was Charlotte's.
-<param ve-map center="Q" zoom="10">
-
+The idyll of family life that Sarah Tooley portrayed in the _Women's Penny Paper_ may have belied the reality. Sarah Green believes that "while [Charlotte and Henry's] correspondence suggests that a lasting comradeship developed between them, each found domestic life constraining and sought to pursue their interests on their own terms, sometimes spending lengthy periods apart."[^ref8] Swanscombe was Henry's space, London was Charlotte's.   
 After the death of her husband in 1902 at Hillside, Greenhithe, Charlotte continued his work, giving a talk at the British Association on his discovery of palaeolithic implements at the Shelly gravel pit in Swanscombe.[^ref9] 
-<param ve-map center="Q1083051" zoom="10">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0c/Hand_Axe_Sculpture_in_Swanscombe_Heritage_Park_-_geograph.org.uk_-_1417150.jpg" label="Hand Axe Sculpture in Swanscombe Heritage Park" attribution="David Anstiss / Hand Axe Sculpture in Swanscombe Heritage Park">
 <param ve-map center="Q3028239" zoom="10">
 
 Her daughter Marie, published a study of the botany of the dried-up Fleet river at Ebbsfleet in 1903. She was to go on to found the first birth control clinic in Britain and write _Married Love_ (1918). A biography of Marie's life was subsequently rejected by the committee of [Folkestone Library](/19c/19c-folkestone-free-library) for fears it might contain references to sex and birth control.[^ref10]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Marie_Stopes_in_her_laboratory%2C_1904.jpg" label="Marie Stopes in her laboratory, 1904" attribution="Author unknown, Public domain, via Wikimedia Commons">
 
-References
+### References
 
 [^ref1]: Tooley, S.A. ‘Flints, suffrage and higher education’, _Women's Penny Paper_ 3 (75), Thursday 6 June, 1895.   
 [^ref2]: Ibid.   
