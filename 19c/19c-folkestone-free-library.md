@@ -1,19 +1,27 @@
-# Folkestone Free Library
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Folkestone Free Library" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/c/cd/39_of_%27Property_Register%2C_Folkestone%27_%2811201985076%29.jpg">
 
-**Founded 1879**
+#
 
-![Image: Folkestone Library
-Photo © Wayland Smith (cc-by-sa/2.0)  https://www.geograph.org.uk/photo/6441598](images/geograph-6441598-by-Wayland-Smith.jpg){: .right .dropshadow}
+<param ve-entity eid="Q26370404" aliases="Canterbury Museum and Public Library">
+<param ve-entity eid="Q26314337" aliases="Folkestone Free Library">
+<param ve-entity eid="Q26627877" aliases="Bayle">
+<param ve-entity eid="Q107306323" aliases="Grace Street">
 
+**Founded 1879**   
 Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act. Canterbury Museum and Public Library (now The Beaney) opened its doors in 1858, making it the first free library in England.
 Around twenty years later in 1879 the [Folkestone Free Library](https://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=32&uprn=50040690) was established on the Bayle,  although the initial catalogue was not published until 1881. The inclusion of blank pages to record any donations, coupled with the distinction between ‘Literature’ and ‘Novels and Fiction’ offers a clue to one of the challenges faced by librarian George Hills – many people objected to fiction being paid for out of public funds. The 1890 catalogue was arranged with the help of a deeply conservative local clergyman, the Rev. Hall, who personally eschewed all novelists later than [Dickens](https://kent-maps.online/dickens). Not surprisingly it has no separate heading for fiction at all. 
-
-![Image: Library Indicator ‘Kent Archive and Local History Service’ https://www.kentarchives.org.uk/
-](images/library indicator1.jpg){: .right .dropshadow}
+<param ve-map primary center="Q26370404" zoom="10">
+<param ve-map primary center="Q26314337" zoom="10">
+<param ve-image url="https://www.geograph.org.uk/photo/6441598" label="Folkestone Library" attribution="Photo © Wayland Smith">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Canterbury_Library_main_entrance.jpg" label="Canterbury Library" attribution="DaKey2insight, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
 
 When the library was moved from the Bayle to Grace Street in April 1888, it had the advantage of being in the same building as the town’s museum, and was able to provide a reading room, reference room, committee room and separate ladies’ room. One joker in 1893 suggested that the ‘Silence’ notice must have been hidden in the Ladies’ Reading Room;  nonetheless the library was employing female staff by at least 1896.  
+<param ve-map primary center="Q26627877" zoom="10">
+<param ve-map primary center="Q107306323" zoom="10">
+<param ve-image url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" label="Folkestone Library" attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence.">
 
 Determined to maintain its standards, the library had strict regulations, including ‘No person shall be admitted who is in an intoxicated or dirty condition…’  Presumably not for this reason, a separate children’s section was considered unnecessary until the twentieth century. 
+<param ve-image url="(images/library indicator1.jpg)" label="Library Indicator ‘Kent Archive and Local History Service" attribution="https://www.kentarchives.org.uk/">
 
 Nor was the open access system adopted until 1910. Before then anyone wanting to borrow a book would have to brave a possibly disapproving librarian, having first consulted the library ‘indicator’. This simple device – dividing titles firmly into categories - showed readers whether a book was available or in use. 
 
@@ -26,18 +34,9 @@ Hill would doubtless have been relieved to know that in 1926 the library flatly 
 ### Bibliography
 
 ![Image: Kipps in Folkestone Library ‘Kent Archive and Local History Service’ https://www.kentarchives.org.uk/](images/kippsinfolkestonelibrary.jpg){: .right .dropshadow}
-
-Catalogues of the Folkestone Free Library, 1881, 1896. Held in Folkestone Library.
-
-Cutting from Folkestone Herald 13 November 1926. Page unknown. Held in Folkestone 
-  Library.
-
-Hannavy, J. L. _The Libraries of Dover and Folkestone_. Thesis approved for 
-  Fellowship of the Libraries Association. 1968.
-
-_Folkestone Visitors’ List and Society Journal_ [Holbein Visitors’ List and Court Directory 1887; 
-  Holbein Visitors’ List and Folkestone Journal 1887-91].
-
-Index to the Folkestone Chronicle 1855-1886. Held in Folkestone Library.
-
-Wells, H. G. _Kipps_. London: Weidenfeld and Nicolson, 2010.
+Catalogues of the Folkestone Free Library, 1881, 1896. Held in Folkestone Library.   
+Cutting from Folkestone Herald 13 November 1926. Page unknown. Held in Folkestone Library.   
+Hannavy, J. L. _The Libraries of Dover and Folkestone_. Thesis approved for Fellowship of the Libraries Association. 1968.   
+_Folkestone Visitors’ List and Society Journal_ Holbein Visitors’ List and Court Directory 1887; Holbein Visitors’ List and Folkestone Journal 1887-91.   
+Index to the Folkestone Chronicle 1855-1886. Held in Folkestone Library.   
+Wells, H. G. _Kipps_. London: Weidenfeld and Nicolson, 2010.   
