@@ -36,5 +36,6 @@ Due to his declining health Dante Gabriel Rosetti came to stay at his close frie
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a9/The_grave_of_Dante_Gabriel_Rossetti_in_the_churchyard_of_All_Saints%2C_Birchington-on-Sea.jpg" label="The grave of Dante Gabriel Rossetti in the churchyard of All Saints, Birchington-on-Sea" attribution="Tedster007, CC BY-SA 4.0, via Wikimedia Commons">
 
 ### Bibliography
+
 Rosetti, Christina. [Birchington Churchyard](https://hellopoetry.com/poem/16025/birchington-churchyard/) Accessed 1 September 2020.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Joseph_Mallord_William_Turner_%281775-1851%29_-_Margate_-_N02700_-_National_Gallery.jpg" label="Joseph Mallord William Turner (1775-1851) - Margate" attribution="J. M. W. Turner, Public domain, via Wikimedia Commons">
