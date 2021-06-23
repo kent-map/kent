@@ -12,7 +12,7 @@
 <param ve-entity eid="Q26550125" aliases="Snargate Street">
 <param ve-entity eid="Q2551894" aliases="Walmer">
 
-/kent-map/kent/main/19c/19c-reynoldsgwm-biography
+#
 
 <param ve-image url="Mary Price on Dover Beach.jpg" label="Mary Price on Dover Beach" attribution="">
 
