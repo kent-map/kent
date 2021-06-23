@@ -1,15 +1,13 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Leather and dust: David Copperfield’s shoes and the Dover Road" author="Elizabeth Waterman-Scrase" layout="vtl" banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q23298" aliases="Kent">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q5303515" aliases="Dover road">
 
 #
 
 David Copperfield's [curated walk](David_Copperfield_Curated_walk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can [smell](https://vimeo.com/408543370/5eccb2722a) as he enters rural Kent or quite why his feet are so damaged by the journey's end. 
-<param ve-image url=" http://imgzoom.cdlib.org/Fullscreen.ics?ark=ark:/13030/kt9t1nd641/z1&&brand=oac4" label="Macadam Road, Nicolaus, 1850S" attribution="Sutter County Library">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Uriah_Heep_1889_Dickens_David_Copperfield_character_by_Kyd_%28Joseph_Clayton_Clarke%29.jpg" label="Uriah Heep 1889 Dickens David Copperfield character by Kyd (Joseph Clayton Clarke)" attribution=" Kyd (Joseph Clayton Clarke), Public domain, via Wikimedia Commons">
-<param ve-map primary center="Q23298" zoom="10">
+<param ve-image url="http://imgzoom.cdlib.org/Fullscreen.ics?ark=ark:/13030/kt9t1nd641/z1&&brand=oac4" label="Macadam Road, Nicolaus, 1850S" attribution="Sutter County Library">
+<param ve-map center="Q23298" zoom="10">
 
 Maps can show us the route, but what of the road itself? We can surmise something from what we know about road surfaces during this period and mismanagement in an era that had turnpikes. As David leaves [Canterbury](/dickens/david-copperfield-curated-walk), he is likely to be on road surfaces that are well kept, the city is likely paved and cobbled. There are even accounts in 1838 of bitumen pavements in Canterbury. So, this part of the journey might be relatively easy compared with what he would encounter further on. The Victorian image of the cobbled road quickly fades to a road surface called McAdam. This type of road surface was cheaper and easier to lay and maintain. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Houghton_HEW_2.6.15_-_Dickens%2C_David_Copperfield.jpg" label=" " attribution="Houghton Library, Public domain, via Wikimedia Commons">
