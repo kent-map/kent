@@ -1,11 +1,10 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="G. W. M. Reynolds (1814 – 1879)" author="Peter Merchant" layout="vtl" banner=" https://upload.wikimedia.org/wikipedia/commons/7/76/G_W_M_Reynolds_The_Soldier%27s_Wife_military_flogging.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="G. W. M. Reynolds (1814 – 1879)" author="Peter Merchant" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q17647042" aliases="Dane John">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q725261" aliases="Ashford">
 <param ve-entity eid="Q929286" aliases="Herne Bay">
 <param ve-entity eid="Q1011096" aliases="Deal">
-<param ve-entity eid="Q23298" aliases="Kent">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q5646148" aliases="Hampton-on-Sea">
 <param ve-entity eid="Q29303" aliases="Canterbury">
