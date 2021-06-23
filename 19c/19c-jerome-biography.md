@@ -11,6 +11,7 @@ _“You’ll find when you get home,” I said, “she has thought of one other 
 “This trip,” said Harris, “is going to be expensive.”  
 “It was an idiotic suggestion,” I said, “from the beginning.”_   
 _Three Men on the Bummel_   
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/1/13/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.jpg" label="Folkestone The Leas Promenade and Bandstand" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 <param ve-map center="Q375314" zoom="15">
 
 Recalling their holiday in [Folkestone](/19c/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around’
