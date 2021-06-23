@@ -22,7 +22,7 @@ His spy novel _Stealthy Terror_ was published in 1918, but captures the mood of 
 
 The [library](/19c/19c-folkestone-free-library) holds rare copies of several of Ferguson’s books: _Campbell of Kilmhor_ (1915), _The King of Morven_ (1922), _The Secret Road_ (1925),  _The Man in the Dark_ (1928) and _Murder on the Marsh_ (1930).
 <param ve-image url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" label="Folkestone Library" attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence.">
-<param ve-map center="Q26627877" zoom="10">
+<param ve-map center="Q26627877" zoom="15">
 
 ### Bibliography 
 
