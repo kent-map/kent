@@ -13,15 +13,15 @@ _“You’ll find when you get home,” I said, “she has thought of one other 
 _Three Men on the Bummel_   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/13/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.jpg" label="Folkestone The Leas Promenade and Bandstand" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Bandstand%2C_The_Leas%2C_Folkestone_-_geograph.org.uk_-_1980145.jpg" label="The Bandstand, The Leas, Folkestone" attribution="The Bandstand, The Leas, Folkestone by David P Howard, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-map center="Q375314" zoom="12">
+<param ve-map center="Q375314" zoom="13">
 
 Recalling their holiday in [Folkestone](/19c/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around.’
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Photo_of_Robert_Barr.jpg" label="Robert Barr" attribution="not stated, Public domain, via Wikimedia Commons">
-<param ve-map center="Q375314" zoom="12">
+<param ve-map center="Q375314" zoom="13">
 
 _Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited for a bicycling holiday in the Black Forest, the price they pay being their wives’ demand for various home improvements and a female-only holiday in [Folkestone](/19c/19c-folkestone).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Jerome_Three_Men_in_a_Boat_First_edition_1889.jpg" label="Three Men in a Boat First edition" attribution="ReijiYamashina777, CC BY-SA 4.0, via Wikimedia Commons">
-<param ve-map center="Q375314" zoom="12">
+<param ve-map center="Q375314" zoom="13">
 
 In one of the best comic set pieces Jerome briefly references the ultra-respectable Leas, as the place where his alter ego J meets the man who will go on to destroy his bicycle by ‘overhauling’ it.   
 _‘He said: “This front wheel wobbles.”   
