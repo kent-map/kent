@@ -45,7 +45,7 @@ Mrs Shore appears not to have shared this fascination with the natural features 
 <param ve-map primary center="Q922739" zoom="10">
 
 She may have preferred [Ramsgate](/dickens/19c-ramsgate), described by Emily as ‘a large and rather handsome town, with a noble harbour and a great deal of shipping’[^ref6]  and where they went to see the printing going on at Burgess’s Library. Again Emily gives a long and detailed description of the process, from the wooden compartments containing letters, which she notes ‘are not arranged alphabetically, but according as they are most wanted, to the ‘roller, composed of glue, isinglass, and some other elastic materials’ used to ink the types which are then pressed on to the paper.[^ref7] On her return home Emily expended time and money on pasteboard and paints to make a model of the [Broadstairs](/dickens/broadstairs-19th-century) steam-packet, which she furnished and painted in punctilious detail. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Looking_into_Ramsgate_town_centre_from_the_Maritime_Museum_car_park_-_geograph.org.uk_-_2027998.jpg" label="Ramsgate town" attribution="Looking into Ramsgate town centre from the Maritime Museum car park by Robert Lamb, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://stor.artstor.org/stor/c7983b3e-e756-442c-81ad-5a75c9941c5f" label="Ramsgate, 1830">
 <param ve-map primary center="Q736439" zoom="10">
 <param ve-map primary center="Q922739" zoom="10">
 
