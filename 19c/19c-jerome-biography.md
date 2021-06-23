@@ -33,16 +33,15 @@ I said: “It doesn’t if you don’t wobble it.”  It didn’t wobble, as a m
 He said: “This is dangerous; have you got a screw-hammer?”   
 As J ruefully admits, ‘I ought to have been firm, but I thought that perhaps he really did know something about the business.’_   
 
-But 'Before I could stop him he had unscrewed something somewhere, and out rolled all over the path some dozen or so little balls.
-"Catch ’em!" he shouted; "catch ’em!  We mustn’t lose any of them."
-He was quite excited about them. We grovelled round for half an hour, and found sixteen.'
-Nothing daunted, J’s new acquaintance next proposes ‘that while he was about it he would see to the chain for me, and at once began taking off the gear-case.  I did try to persuade him from that.’ 
+_But 'Before I could stop him he had unscrewed something somewhere, and out rolled all over the path some dozen or so little balls.   
+"Catch ’em!" he shouted; "catch ’em!  We mustn’t lose any of them."   
+He was quite excited about them. We grovelled round for half an hour, and found sixteen.'   
+Nothing daunted, J’s new acquaintance next proposes ‘that while he was about it he would see to the chain for me, and at once began taking off the gear-case.  I did try to persuade him from that.’ _    
 
 By the end of it the hapless owner has lost all hope, and admits to the reader that ‘My pride in the machine he had killed.  My only interest lay now in seeing him scratch and bump and pinch himself.’ But his sarcastic comment that ‘It is not only your skill and dexterity that fascinates me, it is your cheery confidence in yourself, your inexplicable hopefulness, that does me good’ is clearly wasted on the author of his misfortunes, and finally the bicycle is sold off at a loss to a local dealer.
-
-[Victorian Secrets: Jerome K. Jerome](https://www.victoriansecrets.co.uk/authors/jerome-k-jerome-1859-1927/)
 
 ### Bibliography
 
 Oulton, C. (2012) [Below the fairy city: a life of Jerome K. Jerome](https://www.victoriansecrets.co.uk/book/below-the-fairy-city-a-life-of-jerome-k-jerome/) Victorian Secrets.   
 Sharp, Luke [Robert Barr](/19c/19c-barr-biography). ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.
+[Victorian Secrets: Jerome K. Jerome](https://www.victoriansecrets.co.uk/authors/jerome-k-jerome-1859-1927/)   
