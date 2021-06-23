@@ -16,14 +16,14 @@
 
 **Events:** Birth in Sandwich; schooling in Ashford; serialisation of Kent-based novel Mary Price, 1851–53; purchase of Gothic House in Herne Bay, 1854 (residence 1854–58).   
 **Publications:** _The Mysteries of London,_ 1845-50: _Mary Price_, 1851-53.   
-<param ve-image url="images/Mary Price on Dover Beach.jpg" label="Mary Price on Dover Beach">
+<param ve-image url="https://stor.artstor.org/stor/3087858b-da37-4628-9bf4-b8ea685e6b71" label="Sandwich">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/G_W_M_Reynolds_Author.jpg" label="G. W. M. Reynolds" attribution="White, Public domain, via Wikimedia Commons">
 <param ve-map center="Q26163" zoom="10">
 <param ve-map center="Q725261" zoom="10">
 <param ve-map center="Q929286" zoom="10">
 
->‘I had a couple of hours to dispose of as best I could. So I thought of taking a walk to the Dane John, which I may as well observe, for the benefit of those who are not acquainted with Canterbury, is a beautiful pleasure-ground, laid out in walks with avenues of trees, borders of flowers, and groups of shrubs. One side is bounded by a high rampart belonging to the old city-fortifications, and this is also a favourite promenade with the ladies and gentlemen of Canterbury. There is a very high mound, with winding walks ascending to the summit, on which stands a sort of monument or obelisk, with seats conveniently arranged round it. From this eminence there is a very beautiful view, not only of the city and its fine old cathedral with its three stately towers and numerous pinnacles, but likewise of the adjacent country for several miles round.’
+_‘I had a couple of hours to dispose of as best I could. So I thought of taking a walk to the Dane John, which I may as well observe, for the benefit of those who are not acquainted with Canterbury, is a beautiful pleasure-ground, laid out in walks with avenues of trees, borders of flowers, and groups of shrubs. One side is bounded by a high rampart belonging to the old city-fortifications, and this is also a favourite promenade with the ladies and gentlemen of Canterbury. There is a very high mound, with winding walks ascending to the summit, on which stands a sort of monument or obelisk, with seats conveniently arranged round it. From this eminence there is a very beautiful view, not only of the city and its fine old cathedral with its three stately towers and numerous pinnacles, but likewise of the adjacent country for several miles round.’_
 <param ve-map primary center="Q17647042" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/G_W_M_Reynolds_Author.jpg" label="G. W. M. Reynolds" attribution="White, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Londres%2C_Edimburgo%2C_Dubl%C3%ADn%2C_1886_107393_%284100573256%29.jpg" label=Dane John Gardens, 1886" attribution="Fondo Antiguo de la Biblioteca de la Universidad de Sevilla from Sevilla, España, CC BY 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/Dane_John_gardens_-_geograph.org.uk_-_746465.jpg" label="Dane John gardens, Canterbury" attribution="david mills / Dane John gardens">
 
@@ -32,6 +32,7 @@ Reynolds’s novel _Mary Price_ (1851–53) is a tale of two cities which takes 
 <param ve-map primary center="Q1011096" zoom="10">
 <param ve-map primary center="Q23298" zoom="10">
 <param ve-map primary center="Q29303" zoom="10">
+<param ve-image url="images/Mary Price on Dover Beach.jpg" label="Mary Price on Dover Beach">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/29/Shakespeare_Cliff%2C_Dover%2C_1849_RMG_BHC1212.tiff" label="Shakespeares Cliff, Dover" attribution="Clarkson Frederick Stanfield, Public domain, via Wikimedia Commons">
 <param ve-image url="/dickens/images/TurnerDoverD18185410.jpg" label="Joseph Mallord William Turner, ‘Dover ’, c.1825" attribution="digital image © Tate released under Creative Commons CC-BY-NC-ND">
 
