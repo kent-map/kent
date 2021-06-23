@@ -3,37 +3,35 @@
 <param ve-entity eid="Q375314" aliases="Folkestone">
 
 **Place:** Folkestone   
-<param ve-map primary center="Q375314" zoom="10">
-
->“You’ll find when you get home,” I said, “she has thought of one other thing.”  
->“What’s that?” said Harris.  
->“A house at Folkestone for the season.”  
->“What should she want a house at Folkestone for?” said Harris.  
->"To live in,” I suggested, “during the summer months.”  
->“She’s going to her people in Wales,” said Harris, “for the holidays, with the children; we’ve had an invitation.”  
->“Possibly,” I said, “she’ll go to Wales before she goes to Folkestone, or maybe she’ll take Wales on her way home; but she’ll >want a house at Folkestone for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am — but I feel a >presentiment that I’m not.”  
->“This trip,” said Harris, “is going to be expensive.”  
->“It was an idiotic suggestion,” I said, “from the beginning.”  
+_“You’ll find when you get home,” I said, “she has thought of one other thing.”   
+“What’s that?” said Harris.  
+“A house at Folkestone for the season.”  
+“What should she want a house at Folkestone for?” said Harris.  
+"To live in,” I suggested, “during the summer months.”  
+“She’s going to her people in Wales,” said Harris, “for the holidays, with the children; we’ve had an invitation.”  
+“Possibly,” I said, “she’ll go to Wales before she goes to Folkestone, or maybe she’ll take Wales on her way home; but she’ll >want a house at Folkestone for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am — but I feel a >presentiment that I’m not.”  
+“This trip,” said Harris, “is going to be expensive.”  
+“It was an idiotic suggestion,” I said, “from the beginning.”_   
 [_Three Men on the Bummel_](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm).
-<param ve-map primary center="Q375314" zoom="10">
+<param ve-map center="Q375314" zoom="10">
 
 Recalling their holiday in [Folkestone](/19c/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around’
-<param ve-map primary center="Q375314" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/11/Jerome_K._Jerome_%287893553318%29.jpg" label="Jerome K. Jerome" attribution="National Media Museum from UK, No restrictions, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Bandstand%2C_The_Leas%2C_Folkestone_-_geograph.org.uk_-_1980145.jpg" label="The Bandstand, The Leas, Folkestone" attribution="The Bandstand, The Leas, Folkestone by David P Howard, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Photo_of_Robert_Barr.jpg" label="Robert Barr" attribution="not stated, Public domain, via Wikimedia Commons">
+<param ve-map primary center="Q375314" zoom="10">
 
 _Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited for a bicycling holiday in the Black Forest, the price they pay being their wives’ demand for various home improvements and a female-only holiday in [Folkestone](/19c/19c-folkestone).
-<param ve-map primary center="Q375314" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Jerome_Three_Men_in_a_Boat_First_edition_1889.jpg" label="Three Men in a Boat First edition" attribution="ReijiYamashina777, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-map primary center="Q375314" zoom="10">
 
 In one of the best comic set pieces Jerome briefly references the ultra-respectable Leas, as the place where his alter ego J meets the man who will go on to destroy his bicycle by ‘overhauling’ it.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Lees_i.e._Leas_Folkestone_England.jpg" label="Folkestone Leas" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
 	
->‘He said: “This front wheel wobbles.”
->I said: “It doesn’t if you don’t wobble it.”  It didn’t wobble, as a matter of fact—nothing worth calling a wobble.
->He said: “This is dangerous; have you got a screw-hammer?”
->As J ruefully admits, ‘I ought to have been firm, but I thought that perhaps he really did know something about the business.’ 
+_‘He said: “This front wheel wobbles.”   
+I said: “It doesn’t if you don’t wobble it.”  It didn’t wobble, as a matter of fact—nothing worth calling a wobble.   
+He said: “This is dangerous; have you got a screw-hammer?”   
+As J ruefully admits, ‘I ought to have been firm, but I thought that perhaps he really did know something about the business.’_   
 
 But 'Before I could stop him he had unscrewed something somewhere, and out rolled all over the path some dozen or so little balls.
 "Catch ’em!" he shouted; "catch ’em!  We mustn’t lose any of them."
