@@ -14,15 +14,12 @@
 
 #
 
-<param ve-image url="Mary Price on Dover Beach.jpg" label="Mary Price on Dover Beach" attribution="">
-
-**Events:** Birth in Sandwich; schooling in Ashford; serialisation of Kent-based novel Mary Price, 1851–53; purchase of Gothic House in Herne Bay, 1854 (residence 1854–58).
-<param ve-map primary center="Q26163" zoom="10">
-<param ve-map primary center="Q725261" zoom="10">
-<param ve-map primary center="Q929286" zoom="10">
-
-**Publications:** _The Mysteries of London,_ 1845-50: _Mary Price_, 1851-53.
-
+**Events:** Birth in Sandwich; schooling in Ashford; serialisation of Kent-based novel Mary Price, 1851–53; purchase of Gothic House in Herne Bay, 1854 (residence 1854–58).   
+**Publications:** _The Mysteries of London,_ 1845-50: _Mary Price_, 1851-53.   
+<param ve-image url="images/Mary Price on Dover Beach.jpg" label="Mary Price on Dover Beach">
+<param ve-map center="Q26163" zoom="10">
+<param ve-map center="Q725261" zoom="10">
+<param ve-map center="Q929286" zoom="10">
 
 >‘I had a couple of hours to dispose of as best I could. So I thought of taking a walk to the Dane John, which I may as well observe, for the benefit of those who are not acquainted with Canterbury, is a beautiful pleasure-ground, laid out in walks with avenues of trees, borders of flowers, and groups of shrubs. One side is bounded by a high rampart belonging to the old city-fortifications, and this is also a favourite promenade with the ladies and gentlemen of Canterbury. There is a very high mound, with winding walks ascending to the summit, on which stands a sort of monument or obelisk, with seats conveniently arranged round it. From this eminence there is a very beautiful view, not only of the city and its fine old cathedral with its three stately towers and numerous pinnacles, but likewise of the adjacent country for several miles round.’
 <param ve-map primary center="Q17647042" zoom="10">
@@ -46,7 +43,7 @@ While in [Dover](/dickens/19c-dover), the heroine works in Snargate Street, subs
 <param ve-map primary center="Q5646148" zoom="10">
 <param ve-map primary center="Q26163" zoom="10">
 <param ve-map primary center="Q1011096" zoom="10">
-<param ve-image url="Snargate St Dover 1830 (1).jpg" label="Snargate Street Dover, 1830" attribution="Drawn by G. Shepherd">
+<param ve-image url="images/Snargate St Dover 1830 (1).jpg" label="Snargate Street Dover, 1830" attribution="Drawn by G. Shepherd">
 
 ### Bibiliography
 
