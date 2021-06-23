@@ -26,12 +26,10 @@ Emily’s first impressions of Thanet were not entirely favourable. On 6 July sh
 <param ve-map primary center="Q26532465" zoom="10">
 <param ve-map primary center="Q1752642" zoom="10">
  
-The journal includes detailed accounts of flora and fauna, a healthy interest that was actively encouraged among middle class girls of the time despite its scientific basis. Emily enthuses:
-
+The journal includes detailed accounts of flora and fauna, a healthy interest that was actively encouraged among middle class girls of the time despite its scientific basis. Emily enthuses:   
 A great deal of seaweed is to be found here. One sort is of a shining red brown, or a little like damson colour; it is shaped like a long strap of leather; the consistence of it is also leathery. Another grows like a plant on rocks; its peculiarity is that the leaves are covered with a singular kind of ball inflated with air, which when broken, snaps with a loud hollow noise. Another sort has similar excrescences, but which are oval and juicy, and of a jelly-like substance. A third sort is of nothing but a multitude of long, fine red hairs, unbranched, and growing from the same root all together. An extremely beautiful species looks like a collection of very small pink ribbons; this, if I remember right, is a little branched. Some of the hair-like kinds are branched, and there are some which are composed of jointed tubes.[^ref3]  
 
-She is equally conscientious about recording the flowers she finds, remarking somewhat unnecessarily that ‘I am very fond of botany.’ Despite her convalescent state, Emily is clearly an active scrambler over rocks and cliffs, writing in detail about her investigations:
-
+She is equally conscientious about recording the flowers she finds, remarking somewhat unnecessarily that ‘I am very fond of botany.’ Despite her convalescent state, Emily is clearly an active scrambler over rocks and cliffs, writing in detail about her investigations:   
 Though I have looked in vain for samphire and eryngo, which grow near the sea, yet the wild mignonette, which I never saw before, is plentiful on the rocks, as well as another flower, called the little Bermedick. It is a papilionaceous flower, of a yellow colour, and unbranched; the flowers grow in a large woolly tuft on the top of the stalk. The yellow toad’s-flax is also to be found, and I once saw, on the rock, a splendid scabious, or a rich crimson-purple colour, which is often seen in gardens, and has a strong sweet scent. Lastly, a sort of red valerian, a very pretty flower, grows on the cliffs.[^ref4]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Samphire_growing_at_the_high_tide_mark.jpg" label="Samphire" attribution="Gaoithe, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/60/Eryngium_Cawdor_03.jpg" label="Eryngo" attribution="Syrio, CC BY-SA 4.0, via Wikimedia Commons">
