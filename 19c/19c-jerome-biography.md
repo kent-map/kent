@@ -37,7 +37,7 @@ He was quite excited about them. We grovelled round for half an hour, and found 
 Nothing daunted, J’s new acquaintance next proposes ‘that while he was about it he would see to the chain for me, and at once began taking off the gear-case.  I did try to persuade him from that.’ _    
 
 By the end of it the hapless owner has lost all hope, and admits to the reader that ‘My pride in the machine he had killed.  My only interest lay now in seeing him scratch and bump and pinch himself.’ But his sarcastic comment that ‘It is not only your skill and dexterity that fascinates me, it is your cheery confidence in yourself, your inexplicable hopefulness, that does me good’ is clearly wasted on the author of his misfortunes, and finally the bicycle is sold off at a loss to a local dealer.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Vintage_bicycle_illustration_%2846733122262%29.jpg" label="Vintage bicycle illustration" attribution="Rawpixel Ltd, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Vintage_bicycle_illustration_%2846733122262%29.jpg" label="Vintage bicycle illustration" attribution="Rawpixel Ltd, CC BY 2.0, via Wikimedia Commons">
 
 ### Bibliography
 
