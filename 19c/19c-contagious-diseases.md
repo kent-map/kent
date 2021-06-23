@@ -1,4 +1,6 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Contagious Diseases Acts and Lock Hospitals" author="Dr Martin Watts" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+
+<param ve-config title="Contagious Diseases Acts and Lock Hospitals" author="Dr Martin Watts" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q676689" aliases="Gravesend">
