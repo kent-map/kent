@@ -1,7 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Jerome K. Jerome (1859-1927)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q375314" aliases="Folkestone">
-
 **Place:** Folkestone   
 _“You’ll find when you get home,” I said, “she has thought of one other thing.”   
 “What’s that?” said Harris.  
@@ -12,7 +10,7 @@ _“You’ll find when you get home,” I said, “she has thought of one other 
 “Possibly,” I said, “she’ll go to Wales before she goes to Folkestone, or maybe she’ll take Wales on her way home; but she’ll >want a house at Folkestone for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am — but I feel a >presentiment that I’m not.”  
 “This trip,” said Harris, “is going to be expensive.”  
 “It was an idiotic suggestion,” I said, “from the beginning.”_   
-[_Three Men on the Bummel_](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm).
+_Three Men on the Bummel_   
 <param ve-map center="Q375314" zoom="10">
 
 Recalling their holiday in [Folkestone](/19c/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around’
@@ -32,7 +30,6 @@ _‘He said: “This front wheel wobbles.”
 I said: “It doesn’t if you don’t wobble it.”  It didn’t wobble, as a matter of fact—nothing worth calling a wobble.   
 He said: “This is dangerous; have you got a screw-hammer?”   
 As J ruefully admits, ‘I ought to have been firm, but I thought that perhaps he really did know something about the business.’_   
-
 _But 'Before I could stop him he had unscrewed something somewhere, and out rolled all over the path some dozen or so little balls.   
 "Catch ’em!" he shouted; "catch ’em!  We mustn’t lose any of them."   
 He was quite excited about them. We grovelled round for half an hour, and found sixteen.'   
@@ -43,5 +40,6 @@ By the end of it the hapless owner has lost all hope, and admits to the reader t
 ### Bibliography
 
 Oulton, C. (2012) [Below the fairy city: a life of Jerome K. Jerome](https://www.victoriansecrets.co.uk/book/below-the-fairy-city-a-life-of-jerome-k-jerome/) Victorian Secrets.   
-Sharp, Luke [Robert Barr](/19c/19c-barr-biography). ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.
+Sharp, Luke [Robert Barr](/19c/19c-barr-biography). ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.   
+[_Three Men on the Bummel_](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm).    
 [Victorian Secrets: Jerome K. Jerome](https://www.victoriansecrets.co.uk/authors/jerome-k-jerome-1859-1927/)   
