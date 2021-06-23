@@ -19,10 +19,10 @@ Emily’s first impressions of Thanet were not entirely favourable. On 6 July sh
 <param ve-map primary center="Q736439" zoom="10">
 <param ve-map primary center="Q26532465" zoom="10">
 <param ve-map primary center="Q1752642" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Westgate_Bay_-_geograph.org.uk_-_1931362.jpg" label="Westgate Bay, Thanet" attribution="Westgate Bay by Oast House Archive, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b9/The_promenade_Margate_England.jpg" label="The promenade, Margate" attribution="Snapshots Of  The Past, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Broadstairs%2C_Viking_Bay_-_geograph.org.uk_-_2153560.jpg" label="Broadstairs, Viking Bay" attribution="Broadstairs; Viking Bay by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/90/Ramsgate_beach.JPG" label="Ramsgate beach" attribution="Adem Djemil, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Westgate_Bay_-_geograph.org.uk_-_1931362.jpg" label="Westgate Bay, Thanet" attribution="Westgate Bay by Oast House Archive, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b9/The_promenade_Margate_England.jpg" label="The promenade, Margate" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Broadstairs%2C_Viking_Bay_-_geograph.org.uk_-_2153560.jpg" label="Broadstairs, Viking Bay" attribution="Broadstairs; Viking Bay by Colin Park, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/90/Ramsgate_beach.JPG" label="Ramsgate beach" attribution="Adem Djemil, CC BY-SA 3.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/From_the_cliffs%2C_Broadstairs%2C_England-LCCN2002696430.jpg" label="From the cliffs, Broadstairs" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
  
 The journal includes detailed accounts of flora and fauna, a healthy interest that was actively encouraged among middle class girls of the time despite its scientific basis. Emily enthuses:
@@ -33,13 +33,13 @@ She is equally conscientious about recording the flowers she finds, remarking so
 
 Though I have looked in vain for samphire and eryngo, which grow near the sea, yet the wild mignonette, which I never saw before, is plentiful on the rocks, as well as another flower, called the little Bermedick. It is a papilionaceous flower, of a yellow colour, and unbranched; the flowers grow in a large woolly tuft on the top of the stalk. The yellow toad’s-flax is also to be found, and I once saw, on the rock, a splendid scabious, or a rich crimson-purple colour, which is often seen in gardens, and has a strong sweet scent. Lastly, a sort of red valerian, a very pretty flower, grows on the cliffs.[^ref4]
 <param ve-map primary center="Q26532465" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Samphire_growing_at_the_high_tide_mark.jpg" label="Samphire" attribution="Gaoithe, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/60/Eryngium_Cawdor_03.jpg" label="Eryngo" attribution="Syrio, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wild_Mignonette._Reseda_lutea_%2834976002624%29.jpg" label="Wild Mignonette" attribution="gailhampshire from Cradley, Malvern, U.K, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/11/%D0%A0%D0%B0%D1%81%D1%82%D1%83%D1%89%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BC%D0%BD%D1%8F%D1%85.jpg" label="Little Bermedick" attribution="Vadim E. Rutkovsky, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Samphire_growing_at_the_high_tide_mark.jpg" label="Samphire" attribution="Gaoithe, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/60/Eryngium_Cawdor_03.jpg" label="Eryngo" attribution="Syrio, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wild_Mignonette._Reseda_lutea_%2834976002624%29.jpg" label="Wild Mignonette" attribution="gailhampshire from Cradley, Malvern, U.K, CC BY 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/11/%D0%A0%D0%B0%D1%81%D1%82%D1%83%D1%89%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BC%D0%BD%D1%8F%D1%85.jpg" label="Little Bermedick" attribution="Vadim E. Rutkovsky, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/The_flowering_plants%2C_grasses%2C_sedges%2C_and_ferns_of_Great_Britain_%28Pl._160%29_%288517612401%29.jpg" label=" 5: YELLOW TOAD FLAX" attribution="Pratt, Anne; Step, Edward, Public domain, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/Scabious_-_geograph.org.uk_-_496055.jpg" label="Scabious" attribution="Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/RedValerian.jpg" label="Red Valerian" attribution="Jerzy Strzelecki, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/Scabious_-_geograph.org.uk_-_496055.jpg" label="Scabious" attribution="Trish Steel, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/RedValerian.jpg" label="Red Valerian" attribution="Jerzy Strzelecki, CC BY-SA 3.0, via Wikimedia Commons">
 
 Mrs Shore appears not to have shared this fascination with the natural features of Thanet, her only recorded comment on [Broadstairs](/dickens/broadstairs-19th-century) being that ‘it has not enough company to make it lively, but it has too much to make it retired.’[^ref5] 
 <param ve-map primary center="Q1752642" zoom="10">
@@ -53,7 +53,7 @@ She may have preferred [Ramsgate](/dickens/19c-ramsgate), described by Emily as 
 It comes as no surprise to find her back in Kent in 1835, eagerly following the work going on in [Chatham Dockyard](/19c/19c-chatham-dockyard), from the hammering of the fluke of an anchor to the steam-engine in the suffocatingly hot saw-room. She comments too on a visit to Cobham Hall and the sentimental story of the widowed heron who ‘used to walk for hours before the windows of the orange-house, looking at itself in the glass.’[^ref9]  But it is the machinery rather than the tame bird that has captured her imagination, and the dockyard that features as ‘perhaps the most interesting and wonderful place I have seen since I left Woodbury’.[^ref9]
 <param ve-map primary center="Q10668204" zoom="10">
 <param ve-map primary center="Q5138885" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/50/The_Big_Shed_-_Chatham_-_geograph.org.uk_-_1962059.jpg" label="Chatham Dockyard" attribution="The Big Shed - Chatham by Colin Babb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/50/The_Big_Shed_-_Chatham_-_geograph.org.uk_-_1962059.jpg" label="Chatham Dockyard" attribution="The Big Shed - Chatham by Colin Babb, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/Brunel_Engine_House%2C_steam_pumping_engine_-_geograph.org.uk_-_1654054.jpg" label="Steam pumping engine" attribution="Chris Allen / Brunel Engine House, steam pumping engine">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/CobhamHall_Kent_1868.xcf" label="Cobham Hall" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons">
 
