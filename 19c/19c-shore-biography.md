@@ -18,8 +18,8 @@ Emily’s first impressions of Thanet were not entirely favourable. On 6 July sh
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b9/The_promenade_Margate_England.jpg" label="The promenade, Margate" attribution="Snapshots Of The Past, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Westgate_Bay_-_geograph.org.uk_-_1931362.jpg" label="Westgate Bay, Thanet" attribution="Westgate Bay by Oast House Archive, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Broadstairs%2C_Viking_Bay_-_geograph.org.uk_-_2153560.jpg" label="Broadstairs, Viking Bay" attribution="Broadstairs; Viking Bay by Colin Park, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/90/Ramsgate_beach.JPG" label="Ramsgate beach" attribution="Adem Djemil, CC BY-SA 3.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/From_the_cliffs%2C_Broadstairs%2C_England-LCCN2002696430.jpg" label="From the cliffs, Broadstairs" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/90/Ramsgate_beach.JPG" label="Ramsgate beach" attribution="Adem Djemil, CC BY-SA 3.0, via Wikimedia Commons">
 <param ve-map primary center="Q618045" zoom="10">
 <param ve-map primary center="Q922739" zoom="10">
 <param ve-map primary center="Q736439" zoom="10">
