@@ -1,9 +1,8 @@
-/kent-map/kent/main/19c/19c-jerome-biography
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Jerome K. Jerome (1859-1927)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jerome_K._Jerome_%286150826011%29.jpg">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 
->*Place:* [Folkestone](/19c/19c-folkestone)
+**Place:** Folkestone   
 <param ve-map primary center="Q375314" zoom="10">
 
 >“You’ll find when you get home,” I said, “she has thought of one other thing.”  
@@ -47,6 +46,5 @@ By the end of it the hapless owner has lost all hope, and admits to the reader t
 
 ### Bibliography
 
-Oulton, C. (2012) [Below the fairy city: a life of Jerome K. Jerome](https://www.victoriansecrets.co.uk/book/below-the-fairy-city-a-life-of-jerome-k-jerome/) Victorian Secrets.
-
+Oulton, C. (2012) [Below the fairy city: a life of Jerome K. Jerome](https://www.victoriansecrets.co.uk/book/below-the-fairy-city-a-life-of-jerome-k-jerome/) Victorian Secrets.   
 Sharp, Luke [Robert Barr](/19c/19c-barr-biography). ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.
