@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Leather and dust: David Copperfield’s shoes and the Dover Road" author="Elizabeth Waterman-Scrase" layout="vtl" banner="[Photograph of Macadam Road, Nicolaus, 1850S - Sutter County Library](/dickens/images/Macadam.jpg)">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Leather and dust: David Copperfield’s shoes and the Dover Road" author="Elizabeth Waterman-Scrase" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q23298" aliases="Kent">
 <param ve-entity eid="Q29303" aliases="Canterbury">
@@ -25,7 +25,7 @@ Developments to improve the original invention were to mix water and rock dust, 
 <param ve-map primary center="Q5302515" zoom="10">
 
 David Copperfield’s footwear plays a significant role in this part of his story. We know from what he tells us that they were pretty much destroyed by his journey’s end. Considering a work or military boot might last with little wear on such a walk, it highlights a question about David’s footwear. What was he wearing? 
-
+[Photograph of Macadam Road, Nicolaus, 1850S - Sutter County Library](/dickens/images/Macadam.jpg)
 <param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/d/de/David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg" label="David reaches Canterbury, from David Copperfield art by Frank Reynolds" description="Canterbury, Mercery Lane (Pre 1876)" attribution="Artwork by Frank Reynolds (1876-1853), Public domain, via Wikimedia Commons">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Canterbury%2C_Mercery_Lane.jpg" label="Canterbury, Mercery Lane" description="Canterbury, Mercery Lane (2011)" license="Palickap, CC BY-SA 3.0, via Wikimedia Commons">
 
