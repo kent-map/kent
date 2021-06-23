@@ -10,8 +10,6 @@
 
 Emily Shore was an observant and precocious diarist. She was born and brought up in Suffolk, but in 1831, as she explains in a preface to her journal from this year, she and her four siblings were ‘taken ill at once with a most dreadful fever, and were all very dangerously ill. When we were all recovered in some degree, so as to be able to walk, and were nearly as strong in health, papa and mamma determined to take us to [Broadstairs](/dickens/broadstairs-19th-century), to spend the summer holidays by the seaside.’[^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Margaret_Emily_Shore_engraving.jpg" label="Margaret Emily Shore engraving, 1838" attribution="Unknown author, Public domain, via Wikimedia Commons">
-<param ve-image url="https://stor.artstor.org/stor/c5128fb0-fda9-44dc-adda-4573ed973526" label="Broadstairs">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Broadstairs_%2834812144202%29.jpg" label="Broadstairs Seaside" attribution="Alex Liivet from Chester, United Kingdom, CC0, via Wikimedia Commons">
 <param ve-map primary center="Q922739" zoom="15">
 
 Emily’s first impressions of Thanet were not entirely favourable. On 6 July she writes, ‘The country about [Margate](/dickens/19c-margate), [Broadstairs](/dickens/broadstairs-19th-century), and [Ramsgate](/dickens/19c-ramsgate) is odious. The soil is chalky, scarce a tree is to be seen, and a hill would be a wonder. The cliffs of [chalk](/landscape/kentish-chalk) have not a broken edge anywhere, and are perfectly the same for miles’. But if the countryside was disappointing and the journey ‘very hot, dusty and fatiguing’,  [Broadstairs](/dickens/broadstairs-19th-century) itself offered a more picturesque view and Emily was immediately captivated by the sea, which none of the children had ever seen before, ‘indeed it broke most beautifully on our sight, of the brightest blue, and perfectly calm.’[^ref2]
@@ -42,6 +40,7 @@ Though I have looked in vain for samphire and eryngo, which grow near the sea, y
 <param ve-map primary center="Q26532465" zoom="10">
 
 Mrs Shore appears not to have shared this fascination with the natural features of Thanet, her only recorded comment on [Broadstairs](/dickens/broadstairs-19th-century) being that ‘it has not enough company to make it lively, but it has too much to make it retired.’[^ref5] 
+<param ve-image url="https://stor.artstor.org/stor/c5128fb0-fda9-44dc-adda-4573ed973526" label="Broadstairs">
 <param ve-map primary center="Q1752642" zoom="10">
 <param ve-map primary center="Q922739" zoom="10">
 
