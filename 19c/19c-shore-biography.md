@@ -1,4 +1,3 @@
-/kent-map/kent/main/19c/19c-shore-biography
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Margaret Emily Shore (1819-1839)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/d1/Emily_Shore_journal_6_October_1936.jpg">
 
 <param ve-entity eid="Q922739" aliases="Broadstairs">
