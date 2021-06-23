@@ -36,6 +36,3 @@ The leather in shoes and manufacturing processes would be familiar today. Major 
 _Moule’s County Maps, The East and South East of England_. (Moule, 1837).   
 _An Historical Atlas of Kent_. (Lawson et al. 2004).   
 _Britain’s Tudor Maps County by County_, John Speed. National Library of Scotland, 2019.   
-
-Images:
-Photograph of Macadam Road, Nicolaus, 1850S. https://calisphere.org/item/ark:/13030/kt9t1nd641/. Sutter County Library.
