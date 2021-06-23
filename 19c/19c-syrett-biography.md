@@ -1,9 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Netta Syrett  (17 March 1865-15 December 1943)" author="Dr Alyson Hunt" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/c/c0/Dream_days_%281922%29_%2814773133082%29.jpg">
 
-#
-
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q26321366" aliases="Harbour Street">
+
+#
 
 **Publications:** best known for _Portrait of a Rebel_ (1929) which was made into the 1936 Katherine Hepburn film _A Woman Rebels._   
 Writer and playwright Netta [Janet] Syrett was born at 23, Harbour Street, [Ramsgate](/dickens/19c-ramsgate) in 1865 and  lived in the town to aged eleven, when she was sent off to school. Her connection with [Ramsgate](/dickens/19c-ramsgate) seems to have had little impact on her life though her memoirs record a happy childhood in a relatively prosperous family. She was the eldest of eleven children (two of her sisters, Mabel and Nellie (Ellen) Syrett became renowned artists who illustrated her works) and niece to the prolific writer and journalist Grant Allen.

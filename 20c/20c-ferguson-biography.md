@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="John Ferguson (1871-1952)" author="Professor Carolyn Oulton" layout="vtl" 
-banner="xxx">
+banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q26314321" aliases="The Leas">
