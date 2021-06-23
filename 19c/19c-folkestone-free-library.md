@@ -20,7 +20,7 @@ Nor was the open access system adopted until 1910. Before then anyone wanting to
 <param ve-image url="images/library indicator1.jpg" label="Library Indicator" attribution="Kent Archive and Local History Service"> 
 <param ve-map center="Q107306323" zoom="10">
 
-[H. G. Wells](/20c/20c-wellshg-biography) sends Kipps to the Folkestone library in 1905, where he claims nervously, ‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather. I was just ‘aving a look at this Indicator. First-class idea. Tells you all you want to know’. 
+[H. G. Wells](/20c/20c-wellshg-biography) sends Kipps to the Folkestone library in 1905, where he claims nervously, _‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather. I was just ‘aving a look at this Indicator. First-class idea. Tells you all you want to know’._ 
 <param ve-image url="images/kippsinfolkestonelibrary.jpg"  label="Kipps in Folkestone Library" attribution="Kent Archive and Local History Service">
                                                                    
 In 1902 Rev. Hall and a group of ‘lady volunteers’ helped the librarian to re-catalogue the collection, taking the opportunity to purge it of obsolete volumes. Predictably some of the more sensational titles disappeared at this point. Nonetheless a slight spike in the acquisition of non-canonical Victorian fiction may speak to a moment of nostalgia either at the fin de siècle (the last extant catalogue is from 1896) or in the wake of Victoria’s death the year before.    
