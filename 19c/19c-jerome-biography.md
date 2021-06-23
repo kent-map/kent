@@ -24,17 +24,16 @@ _Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Jerome_Three_Men_in_a_Boat_First_edition_1889.jpg" label="Three Men in a Boat First edition" attribution="ReijiYamashina777, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map primary center="Q375314" zoom="15">
 
-In one of the best comic set pieces Jerome briefly references the ultra-respectable Leas, as the place where his alter ego J meets the man who will go on to destroy his bicycle by ‘overhauling’ it.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Lees_i.e._Leas_Folkestone_England.jpg" label="Folkestone Leas" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
-	
+In one of the best comic set pieces Jerome briefly references the ultra-respectable Leas, as the place where his alter ego J meets the man who will go on to destroy his bicycle by ‘overhauling’ it.   
 _‘He said: “This front wheel wobbles.”   
 I said: “It doesn’t if you don’t wobble it.”  It didn’t wobble, as a matter of fact—nothing worth calling a wobble.   
 He said: “This is dangerous; have you got a screw-hammer?”   
-As J ruefully admits, ‘I ought to have been firm, but I thought that perhaps he really did know something about the business.’_   
-_But 'Before I could stop him he had unscrewed something somewhere, and out rolled all over the path some dozen or so little balls.   
+As J ruefully admits, ‘I ought to have been firm, but I thought that perhaps he really did know something about the business.’   
+But 'Before I could stop him he had unscrewed something somewhere, and out rolled all over the path some dozen or so little balls.   
 "Catch ’em!" he shouted; "catch ’em!  We mustn’t lose any of them."   
 He was quite excited about them. We grovelled round for half an hour, and found sixteen.'   
 Nothing daunted, J’s new acquaintance next proposes ‘that while he was about it he would see to the chain for me, and at once began taking off the gear-case.  I did try to persuade him from that.’ _    
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Lees_i.e._Leas_Folkestone_England.jpg" label="Folkestone Leas" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
 
 By the end of it the hapless owner has lost all hope, and admits to the reader that ‘My pride in the machine he had killed.  My only interest lay now in seeing him scratch and bump and pinch himself.’ But his sarcastic comment that ‘It is not only your skill and dexterity that fascinates me, it is your cheery confidence in yourself, your inexplicable hopefulness, that does me good’ is clearly wasted on the author of his misfortunes, and finally the bicycle is sold off at a loss to a local dealer.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Vintage_bicycle_illustration_%2846733122262%29.jpg" label="Vintage bicycle illustration" attribution="Rawpixel Ltd, CC BY 2.0, via Wikimedia Commons">
