@@ -37,7 +37,7 @@ Reynolds’s novel _Mary Price_ (1851–53) is a tale of two cities which takes 
 <param ve-map center="Q29303" zoom="10">
 
 While in [Dover](/dickens/19c-dover), the heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala: [_The Streets of the World_](https://search.proquest.com/britishperiodicals/docview/6520718/fulltextPDF/88A85DA9A4A94A39PQ/3?accountid=9869) The action extends to Walmer and to Herne Bay, where Reynolds was soon to settle. At Hampton-on-Sea it takes in “a singular little colony of fishing people … [who] intermarry amongst themselves, and thus exist in a state of complete isolation, and almost inaccessible to every civilizing influence.”  Between Sandwich and Deal, Mary Price passes with a shudder a stone marking the spot where on 25th August 1782 “Mary Rix, spinster, Aged 23 years, was murdered by Martin Lash, a foreigner, Who was executed for the same.” Reynolds here transfers to his heroine a grim observation of Baker Peter Smith’s.,[^ref1] The Kent of _Mary Price_ is not the Kent of _The Pickwick Papers_, a place for cricket and Christmas; it is equally a place for cruelty and crime.
-<param ve-image url="images/Snargate St Dover 1830 (1).jpg" label="Snargate Street Dover, 1830" attribution="Drawn by G. Shepherd">
+<param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate Street Dover, 1830" attribution="Drawn by G. Shepherd">
 <param ve-map center="Q26551025" zoom="10">
 <param ve-map center="Q2551894" zoom="10">
 <param ve-map center="Q179224" zoom="10">
