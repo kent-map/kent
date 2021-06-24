@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="G. W. M. Reynolds (1814 – 1879)" author="Peter Merchant" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="G. W. M. Reynolds (1814 – 1879)" author="Peter Merchant" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q17647042" aliases="Dane John">
 <param ve-entity eid="Q26163" aliases="Sandwich">
