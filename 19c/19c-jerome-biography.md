@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Jerome K. Jerome (1859-1927)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Jerome K. Jerome (1859-1927)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
 
 **Place:** Folkestone   
 _“You’ll find when you get home,” I said, “she has thought of one other thing.”   
