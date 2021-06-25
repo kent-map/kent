@@ -43,3 +43,14 @@ In the story, Hervey becomes enchanted by Lilith, a young girl of about 15 who _
 
 It is unlikely that Gertrude’s stay was as long as her protagonist, but her sorrow was probably as real. In 1899 she married Auguste Devot de Quillacq, a long-standing family friend, who was 18 years older than her and they moved to Monaco, where she enjoyed life on the Riviera, and became acquainted with [Baroness Orczy](/20c/20c-orczy-biography).  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/Baroness_Emma_Orczy_%28Bassano%29.jpg" label="Baroness Orczy" attribution="Bassano Ltd, Public domain, via Wikimedia Commons">
+
+[^ref1]:  _The Sketch_, Wednesday 20 November
+[^ref2]:   _Illustrated Sporting and Dramatic News_- Saturday 12 March 1892
+[^ref3]:   _The Sketch_, Wednesday 20 November
+[^ref4]:   _Cardiff Times_ - Saturday 11 August 1888
+[^ref5]:   _The Stage_ - Thursday 04 March 1897
+[^ref6]:    _The Sketch_, Wednesday 20 November
+[^ref7]:  _The Era_ - Saturday 06 March 1897
+[^ref8]:   _The Sketch_- Wednesday 20 November 1895
+[^ref9]:   _The Bystander_ - Wednesday 29 November 1922, The Bystander - Wednesday 26 November 1924
+
