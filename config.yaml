@@ -16,10 +16,10 @@ ref: v1.1.0
 ######################################################
 nav:
 - label: About
-  icon: info
+  icon: fas fa-info
   path: /about
 - label: Contact Us
-  icon: envelope
+  icon: fas fa-envelope
   path: "/contact-us"
 
 # If the /contact-us path is defined for the nav menu a contact form will be enabled
