@@ -1,11 +1,16 @@
-## Pamela Wynne (Winifred Mary Scott, née Watson) 1879-1959
+/kent-map/kent/main/20c/20c-wynne-biography
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Pamela Wynne (Winifred Mary Scott, née Watson) 1879-1959" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/32/The_harbor_I._Margate_England.jpg">
+
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q15063189" aliases="Sissinghurst">
+<param ve-entity eid="Q107338949" aliases="Mill Cottage">
 
 **Places:** Margate, Sissinghurst 
 
 >‘Margate is a place that grows on you. You arrive at it feeling vaguely contemptuous, and ready, if by any far distant chance you should meet anyone that you know, to explain that it is your first visit, and that you only came because your doctor so strongly recommended it. And then, after getting to feel steadily better and better, and more and more alive, and as if life still held something for you, you get to love it. Especially if you go there in May.’
 	_Love in a Mist_, 1932
-
-![Love in a Mist © Estate of of R. John Holmgren](images/lovemist.jpg){: .right}
+<param ve-map primary center="Q618045" zoom="10">
+<param ve-image url="(images/lovemist.jpg)" label="Love in a Mist" attribution="Estate of of R. John Holmgren">
 
 Both romance and crime fiction flourished in the 1930s holiday market, and Margate on the 
 East coast of Kent provided an obvious setting for middlebrow fiction. Set in the years after 
@@ -16,10 +21,13 @@ it is the scene of her domestic drudgery, where she cooks and cleans as well as 
 demanding husband, himself a war invalid. Her perspective as a resident and married woman is 
 markedly different from the detached attitude of the London detective offered by crime 
 authors such as Milward Kennedy at the same period. 
+<param ve-map primary center="Q618045" zoom="10">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0f/The_harbor_II._Margate_England.jpg" label="Margate Habour" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
 
 Pamela Wynne died on the other side of the county at her son’s house, Mill Cottage in Sissinghurst, in 1959. Her estate amounted to just over £33,625, suggesting that her writing was still attracting a significant audience.
-
-**Article written by:** Carolyn Oulton
+<param ve-map primary center="Q15063189" zoom="10">
+<param ve-map primary center="Q107338949" zoom="10">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Street%2C_Sissinghurst%2C_Cranbrook%2C_Kent.jpg" label="The Street, Sissinghurst, Cranbrook, Kent" attribution="Nathaniel Lloyd (1867-1933), Public domain, via Wikimedia Commons">
 
 ### Bibliography 
 '’Deaths'’. 18 March 1959. _The Times_. GALE|CS202726514.   
