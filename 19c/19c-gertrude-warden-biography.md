@@ -2,7 +2,6 @@
 <param ve-config title="Gertrude Warden (Gertrude Isabel Price) (1859-1925)" author="Michelle Crowther" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q2056118" aliases="Lympne">
@@ -11,8 +10,11 @@ banner="/images/banners/19c.jpg">
 #
 
 _“The air was laden with the scent of hay after the recent heavy rain; down the grassy cliff-side fat Kentish sheep and lambs were contentedly munching the short herbage; all sights and scents, and even the rushing and rustling of the wind through the little trees that bordered the canal soothed my discontented spirit.”_ (p.36) _The Wooing of a Fairy_ (1897)
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/0/0b/LympneCastle1830.jpg" label=Lympne Castle, 1830" Attribution="Verne Equinox at English Wikipedia., Public domain, via Wikimedia Commons">
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/8/85/Lympne_Castle%2C_Kent_-_geograph.org.uk_-_730491.jpg" label="Lympne Castle, Kent" attribution="John Mavin">
 
-Gertrude Warden, actor and writer, was born in Brixton in 1859. The daughter of Charles and Alice Price, Gertrude enjoyed a life of privilege with her siblings [Florence](/19c/19c-florence-warden-biography) and Percy, until her father’s business failed. Forced to leave her finishing school in Brighton, along with her sister, Gertrude sought to make her way in the world working as a governess for two years before taking to the stage. She appeared as one of the school girls in the Bancrofts’ revival of 'The School for Scandal' and later took roles in both London and provincial theatres, as well as touring America with Mrs Langtry. In her sister’s production, 'The House on the Marsh' (1885), she played the “disagreeable” Mrs Rayner. 
+
+Gertrude Warden, actor and writer, was born in Brixton in 1859. The daughter of Charles and Alice Price, Gertrude enjoyed a life of privilege with her siblings Florence and Percy, until her father’s business failed. Forced to leave her finishing school in Brighton, along with her sister, Gertrude sought to make her way in the world working as a governess for two years before taking to the stage. She appeared as one of the school girls in the Bancrofts’ revival of 'The School for Scandal' and later took roles in both London and provincial theatres, as well as touring America with Mrs Langtry. In her sister, [Florence Warden](/19c/19c-florence-warden-biography)'s production, 'The House on the Marsh' (1885), she played the “disagreeable” Mrs Rayner. 
 
 In September 1887, Gertrude appeared in Henry Arthur Jones’s play 'Heart of Hearts' at the Vaudeville Theatre, and it was after this performance, that she became type cast as the vindictive young lady of fashion.    Eventually she grew tired of the relentlessness: “I got sick of doing the hack work of touring, and took up my pen to write, and was successful from the start”  Her first novel _As a Bird to the Snare_, described as a “deeply interesting story” was published in 1888.  She was to go on to write over 30 romance and mystery novels.
 
@@ -23,10 +25,12 @@ After the death of her husband in March 1897, Gertrude would “have probably ha
 In the novel, Adrian Hervey, an artist who has been unwell, heads to Kent on the recommendation of his friend Collars who says; _“I have discovered the jolliest little place you ever saw. No railway, five miles from anywhere, and a mile from the sea. Stuck on a cliff – you can live like a fighting cock at a shilling a day, and never see a soul.”_ However, Collars is dismissive of the locals, calling them stupid. Hervey who was “tired and wanted to think” (p4) determines to set off: _“It was the worst of all weathers in which to leave town, but I was more of less indifferent to rain as my friend the sea often looks its best under a drenching downpour from the skies.”_ 
 
 On arrival in the village of Lythinge (a hybrid of Lympne, Lyminge and Hythe) via the railway station at Cranling (a hybrid of Cranbrook and Sandling) Hervey has to _“tramp it two miles and a half to the village of Lythinge on the brow of the hill.”_ It is likely the village is Lympne as the description of church with its _“short square tower”_ crowns the summit of a grassy hill, and it is two and half miles to Sandling. Hervey stands _“for over an hour gazing over the wide-spreading marshes to the angry line of the sea beyond. And the charm and strangeness of the place sank deep into my heart”._  It is possible Gertrude had sought solace in the countryside after the death of her husband and that she is describing her own feelings here.
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/f/f0/St_Stephen%2C_Lympne%2C_Kent_-_geograph.org.uk_-_326052.jpg" label="St Stephen, Lympne, Kent" attribution="John Salmon">
 
 According to the landlady at the Rose and Crown, where Hervey stays, _“Life at Lythinge was ‘so dull’ she complained, and her former existence in a tiny marsh hamlet was one of wild dissipation and delight by comparison, barring the ague.”_ (p.34).  The hotel is not all it was cracked up to be and the landlady stood in dread of the _“occasional soldiers who came over from Sandhythe”_ These would have been the soldiers at the School of Musketry in Hythe.
 
 Warden’s description of the area suggests that she had visited Lympne, as it is intimate and not styled on a travel book description: _“a vast panorama of marshland, intersected by canals and dotted here and there by tiny villages, bordered by a row of Martello towers, which looked at this distance like children’s overturned sand pails and the sea.”_ (p.35)  She said in her earlier interview in the Sketch: _“Locality has a great effect on me. What I mean is that an old castle, or a moated grange at once seem peopled by a variety of characters as I walk round the building; but I never want to go inside – the interior I prefer to invent; the exterior I generally describe in detail.”_ 
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/0/06/Port_Lympne_%2837%29.JPG" label="Lympne" attribution="Serge Ottaviani, CC BY-SA 4.0, via Wikimedia Commons">
 
 As Hervey walks, we can imagine Gertrude’s daily walks as she comes to terms with her husband’s sudden death:
 _“I wandered between the lines of sand dunes and waves , until a very keen country hunger made me turn inland again, and struggle in the teeth of the wind up the rugged cliff side towards the church tower.”_(p.37) 
