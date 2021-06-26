@@ -5,9 +5,12 @@ Canterbury
 Canterbury in the Olden Time (1860)
 
 Author, poet, campaigner and antiquarian John Brent was born in Rotherhithe in 1808, to a shipbuilder and his wife Susannah. The latter was from Sturry, and the family moved back to [Canterbury](/19c/19c-canterbury) in around 1821. John’s father would become an Alderman and Chief Magistrate, and was Mayor at the time of a tragic incident in 1838, when a former inmate of Barming Asylum, calling himself William Courtenay, announced to a crowd in Canterbury that he was the risen Christ. Courtenay led a procession around Goodnestone, Newnham, Throwley, Selling and Sittingbourne, before shooting a constable who was advancing with a warrant for his arrest.  At Brent’s request, a detachment of troops was sent from [Dover](/19c/19c-dover)  and eight people (including Courtenay) were killed.
+
 John Brent was himself a political campaigner from a young age, becoming a member of the Anti-Slavery Association, and secretary of the local branch of the Polish Association, set up to support refugees after the suppression of the 1831 uprising. He addressed public meetings on the Whig side in support of the 1832 Reform Bill, and it was noted at his death that he was a persuasive platform speaker, albeit hampered by the lack of a strong voice. Weeks before his death he organised an anti-vivisection meeting in [Canterbury](/19c/19c-canterbury).  Like his father, he became Mayor (in 1831, 1844 and 1849).
+
 It is unclear what formal education Brent received; but having begun work as a miller, he soon turned instead to literature and antiquarian pursuits. By the age of 26 he had published The Sea Wolf, a Romance (1834), followed by Lays of Poland in 1836 and [_Lays and Legends of Kent_]( https://books.googleusercontent.com/books/content?req=AKW5QadY0R5Cm4VnasEGIr2yjX6hcxRy5WKamnyzV88Kz5friiGL12cnFDMqmTJB5MTx89mslYp10DO_ZUws8fJWJDXT8eDF11Z4gMJ4rM2PbH87qyk2cH2YE7BWY_j7p8P8CeSgbH_LhpfR6aJ84ruTXzaeMXF7zqND_csLrvBp9mRjVaaQ8LlG6YDZJIhjRpE-Y8UD3J4HE8JOFANoGM0KFaBlpgwkEM7_uylI76SJD9D4mzOn28pPgFTkGwpXCzdCwfwm_LrtNrAZeJRQkayR0jBRQsas_tiR6j2trshM3eiaUCqK6YY)
 and Guillemette La Delanasse (both published in 1840). In the same year he contributed to the [_Kentish Coronal_](https://www.google.co.uk/books/edition/The_Kentish_coronal_original_prose_and_p/oraka2LFkaAC?hl=en&gbpv=1), edited by [Henry Gardiner Adams](LINK). Further literary work was to follow, including The Battle Cross: A Romance of the Fourteenth Century and further volumes of poetry and fiction.
+
 Brent became a fellow of the Society of Antiquaries in April 1853, and was a member of the British Archaeological Association and the Kent Archaeological Society. He is best remembered for his 1860 [Canterbury in the Olden Time](https://babel.hathitrust.org/cgi/pt?id=uc1.31175001958167&view=1up&seq=9).  A fan of that quintessential self-made man [Charles Dickens](/dickens), it is tempting to think that Brent was present at his public reading at the Fountain Hotel in Canterbury in 1861. What is certain is that like [Henry Adams](LINK), he would succumb to a fatal urge to address a poem to the great author. An otherwise accomplished poet, he marked Dickens’s death in lines that are not among his best, such as:
 [The hand which down the chords of feeling sent
 Once sweetest music – now is stilled and cold]( https://books.google.co.uk/books?id=Ds8IAAAAQAAJ&pg=PA99&dq=%22Dickens%22+and+%22John+Brent%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjKrP-csNbwAhUPExQKHQhIDSQQ6AEwAHoECAAQAg#v=onepage&q=%22Dickens%22%20and%20%22John%20Brent%22&f=false).
@@ -21,16 +24,12 @@ Article by Carolyn Oulton
 
 For more of Brent’s work see [_The Online Books Page_](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Brent%2C%20John%2C%201808-1882)
 
-Bibliography 
-Adams, Henry Gardiner. [A Kentish Coronal]( https://www.google.co.uk/books/edition/The_Kentish_coronal_original_prose_and_p/oraka2LFkaAC?hl=en&gbpv=1). 1840.
+### Bibliography 
 
-Brent, John. ‘Charles Dickens’. The Poetical Works of the Late John Brent, F.S.A. Revised edition: vol 2. London: W. Kent & Co. 1884.
-
-‘Death of Mr John Brent, FSA.’ 29 April 1882. Thanet Advertiser. 4. British Newspaper Archive. Accessed 25 June 2021.
-
-Goodwin, Gorden. Revised Shirly Burgoyne Black. Brent, John. Oxford Dictionary of National Biography. 2004. https://doi.org/10.1093/ref:odnb/3323
-
+Adams, Henry Gardiner. [A Kentish Coronal]( https://www.google.co.uk/books/edition/The_Kentish_coronal_original_prose_and_p/oraka2LFkaAC?hl=en&gbpv=1). 1840.   
+Brent, John. ‘Charles Dickens’. The Poetical Works of the Late John Brent, F.S.A. Revised edition: vol 2. London: W. Kent & Co. 1884.   
+‘Death of Mr John Brent, FSA.’ 29 April 1882. Thanet Advertiser. 4. British Newspaper Archive. Accessed 25 June 2021.   
+Goodwin, Gorden. Revised Shirly Burgoyne Black. Brent, John. Oxford Dictionary of National Biography. 2004. https://doi.org/10.1093/ref:odnb/3323   
 Kent Archaeological Society
-https://www.kentarchaeology.org.uk/sites/default/files/archcant/1946%2058%20Miscellaneous_1.pdf
-
-‘Riot at Canterbury’. 11 September 1832. Morning Post. British Newspaper Archive. Accessed 19 May 2021.
+https://www.kentarchaeology.org.uk/sites/default/files/archcant/1946%2058%20Miscellaneous_1.pdf   
+‘Riot at Canterbury’. 11 September 1832. Morning Post. British Newspaper Archive. Accessed 19 May 2021.   
