@@ -1,8 +1,11 @@
-John Brent (1808-1882)
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="John Brent (1808-1882)" author="Professor Carolyn Oulton" layout="vtl" 
+banner="/images/banners/19c.jpg">
+
 Canterbury 
 
-‘The privilege of electing a mayor seems to have been somewhat tardily conceded to a city so important as Canterbury.’
-Canterbury in the Olden Time (1860)
+_‘The privilege of electing a mayor seems to have been somewhat tardily conceded to a city so important as Canterbury.’_   
+_Canterbury in the Olden Time_ (1860)
 
 Author, poet, campaigner and antiquarian John Brent was born in Rotherhithe in 1808, to a shipbuilder and his wife Susannah. The latter was from Sturry, and the family moved back to [Canterbury](/19c/19c-canterbury) in around 1821. John’s father would become an Alderman and Chief Magistrate, and was Mayor at the time of a tragic incident in 1838, when a former inmate of Barming Asylum, calling himself William Courtenay, announced to a crowd in Canterbury that he was the risen Christ. Courtenay led a procession around Goodnestone, Newnham, Throwley, Selling and Sittingbourne, before shooting a constable who was advancing with a warrant for his arrest.  At Brent’s request, a detachment of troops was sent from [Dover](/19c/19c-dover)  and eight people (including Courtenay) were killed.
 
@@ -19,8 +22,6 @@ Still, it must be confessed that many readers of [Edwin Drood](/edwin-drood-cura
 [A Mystery Death forbade thee to unfold 
 – Yet Death’s own secret is now solved by thee]( https://books.google.co.uk/books?id=Ds8IAAAAQAAJ&pg=PA99&dq=%22Dickens%22+and+%22John+Brent%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjKrP-csNbwAhUPExQKHQhIDSQQ6AEwAHoECAAQAg#v=onepage&q=%22Dickens%22%20and%20%22John%20Brent%22&f=false).
 Brent himself died of heart disease at his house, 8 Dane John Grove, on 23 April 1882.
-
-Article by Carolyn Oulton
 
 For more of Brent’s work see [_The Online Books Page_](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Brent%2C%20John%2C%201808-1882)
 
