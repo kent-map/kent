@@ -57,12 +57,12 @@ It is unlikely that Gertrude’s stay was as long as her protagonist, but her so
 [^ref8]:  _The Era_ - Saturday 06 March 1897
 [^ref9]:   _The Sketch_- Wednesday 20 November 1895
 [^ref10]:   _The Bystander_ - Wednesday 29 November 1922, The Bystander - Wednesday 26 November 1924
-[^ref11]: Warden, G. (1897) _The Wooing of a Fairy_
-[^ref12]: Warden, G. (1897) _The Wooing of a Fairy_
-[^ref13]: Warden, G. (1897) _The Wooing of a Fairy_
-[^ref14]: Warden, G. (1897) _The Wooing of a Fairy_
-[^ref15]: Warden, G. (1897) _The Wooing of a Fairy_
-[^ref16]: Warden, G. (1897) _The Wooing of a Fairy_
-[^ref17]: Warden, G. (1897) _The Wooing of a Fairy_
-[^ref18]: Warden, G. (1897) _The Wooing of a Fairy_
-[^ref19]: Warden, G. (1897) _The Wooing of a Fairy_
+[^ref11]: Warden, G. (1897) _The Wooing of a Fairy_ p.
+[^ref12]: Warden, G. (1897) _The Wooing of a Fairy_ p.
+[^ref13]: Warden, G. (1897) _The Wooing of a Fairy_ p.
+[^ref14]: Warden, G. (1897) _The Wooing of a Fairy_ p.
+[^ref15]: Warden, G. (1897) _The Wooing of a Fairy_ p.
+[^ref16]: Warden, G. (1897) _The Wooing of a Fairy_ p.
+[^ref17]: Warden, G. (1897) _The Wooing of a Fairy_ p.
+[^ref18]: Warden, G. (1897) _The Wooing of a Fairy_ p.
+[^ref19]: Warden, G. (1897) _The Wooing of a Fairy_ p.
