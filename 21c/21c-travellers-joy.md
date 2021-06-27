@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Traveller's Joy" author="Miroslava Karaskova" layout="vtl" banner="xxx">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Traveller's Joy" author="Miroslava Karaskova" layout="vtl" banner="https://stor.artstor.org/stor/fd719478-3910-46cb-bd69-61d1451904ce">
 
 <param ve-entity eid="Q26551755" aliases="Lansdown Road">
 <param ve-entity eid="Q4381575" aliases="East Station">
@@ -14,11 +14,10 @@ In 2018 the Canterbury City Council commissioned a new mural to cover pillars of
 <param ve-map primary center="Q4381574" zoom="10">
 <param ve-map primary center="Q26551755" zoom="10">
 <param ve-map primary center="Q26369737" zoom="10">
-<param ve-image url="images/railwaybridge2.JPG" label="Traveller's Joy by Gloria Treseder" attribution="© Miroslava Karaskova">
+<param ve-image url="images/TravellersJoyMJC.jpg" label="Traveller's Joy by Gloria Treseder" attribution="Martin Crowther">
 
 Treseder draws the inspiration for her art from nature so the central element of the mural is a plant Clematis vitalba, also called traveller’s joy, which gave its name to the mural. Its leaves and vines lead the eye to the references from literature – [Rupert Bear](/20c/20c-tourtel-biography), [David Copperfield](/dickens/david-copperfield-curated-walk/), the pilgrims from [Chaucer](/14c/14c-chaucer)'s  _The Canterbury Tales_ and finally Sherlock Holmes with Dr. Watson. Painted around them are various insects like the native English bee or the English ladybird, and silhouettes of children representing joy and playfulness. Additionally, Treseder used bright colours and illustrative, slightly expressive brush strokes.
-<param ve-image url="images/TravellersJoyMJC.jpg" label="Traveller's Joy by Gloria Treseder" attribution="Martin Crowther">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Traveller%27s_Joy_%28Clematis_vitalba%29_-_geograph.org.uk_-_2060096.jpg" label="Travellers Joy/ Clematis vitalba" attribution="Traveller's Joy (Clematis vitalba) by Maigheach-gheal, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="images/TravellersJoyMJC.jpg" label="Traveller's Joy by Gloria Treseder" attribution="Martin Crowther"><param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Traveller%27s_Joy_%28Clematis_vitalba%29_-_geograph.org.uk_-_2060096.jpg" label="Travellers Joy/ Clematis vitalba" attribution="Traveller's Joy (Clematis vitalba) by Maigheach-gheal, CC BY-SA 2.0, via Wikimedia Commons">
 
 The local audience would certainly agree that the mural showcases their heritage, but as Laurajane Smith points out: 'Heritage [is] a process of engagement, an act of communication and an act of making meaning in and for the present.'[^ref2]  It is us remembering and celebrating the following exhibits that makes them our heritage, and this mural establishes their cultural significance.
 
