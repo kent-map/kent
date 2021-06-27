@@ -50,9 +50,8 @@ The villa site continued to receive visitors over the next few years, enriching 
 Winbolt’s association with the county continued throughout the next decade. He wrote _Bell’s Pocket Guide to Kent_ (1930), which “the tourist will find … an invaluable ally in his enjoyment of this beautiful county”and the [_Penguin Guide to Kent, Surrey and Sussex_](https://www.bbc.co.uk/news/stories-42425157) in 1939.[^ref16]  He also presented a volume containing photographs and press cuttings about the dig to [Folkestone Library](19c/19c-folkestone-free-library/) in May 1934.[^ref17]  In his obituary in _The Times_, he was described as follows:   
 _“His eye for scenery made him also the author of small but acceptable guides to the Thames and the Cotswold country and to Kent, and he contributed numerous articles to this journal.”_[^ref18]  - 64 to be precise!    
 During his lifetime, S.E. Winbolt wrote and edited over 70 publications. His visit to Folkestone is only a small part of his archaeological and educational legacy, but an important one.
-
-<param ve-map primary center="Q375314" zoom="10">
-<param ve-map primary center="Q26314337" zoom="10">
+<param ve-image url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" label="Folkestone Library" attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence.">
+<param ve-map center="Q26627877" zoom="15">
 
 ### References
 
