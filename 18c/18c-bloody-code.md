@@ -1,10 +1,8 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
 <param ve-config title="The Bloody Code" author="Martin Watts" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/Westgate_055.jpg">
 
-<param ve-image url="/18c/images/Death warrant.jpeg" label="Death warrant" attribution="© Astrid Stilma By permission of Patrick Marrin. No record of this execution has been found">
-
 The Bloody Code is a term applied to the English criminal code and its excessive and savage punishments before reform in the 19th century.  The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping. The 18th century had seen a marked increase in laws that demanded a capital sentence, leading to the adoption of the phrase, but the overwhelming majority of capital punishments continued to be applied to laws dating back to the Tudors. To keep the criminal code of the 18th century in context, it should be noted that the number of capital punishments carried out was greater in the late 16th and early 17th centuries; that it was the more detailed codification of specific offences, in 18th century legislation, that was responsible for the attribution of the term Bloody Code.  
-<param ve-image url="/18c/images/1U8A1283-01.jpeg" label="Wax seal" attribution="© Astrid Stilma By permission of Patrick Marrin">
+<param ve-image url="/18c/images/Death warrant.jpeg" label="Death warrant" attribution="© Astrid Stilma By permission of Patrick Marrin. No record of this execution has been found">
 
 Public perception and recognition of the injustice of the Bloody Code was heavily influenced by the increase in the number of capital crimes that it represented.  In 1688, the number of capital offences in English law was 50, and by the end of the Napoleonic Wars in 1815 this had risen to 215, including crimes such as sheep stealing, rabbit stealing, wrecking a fishpond, and having a blackened face at night when outside. In addition, many thefts came with a penalty related to the value of the goods stolen; pickpockets, for example, could be hung if the value of their ill-gotten gains was worth one shilling or more. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Examining_a_Sheep_Stealer_%28BM_1948%2C0214.406%29.jpg" label="Examining a sheep stealer, 1797" attribution="British Museum, Public domain, via Wikimedia Commons">
@@ -20,3 +18,4 @@ See also [Magwitch](/dickens/great-expectations-curated-walk)
 
 Emsley, Clive, _Crime and society in England 1750-1900_  4th Ed. Harlow: Pearson, 2010.   
 See also [National Justice Museum](nationaljusticemuseum.org.uk)
+<param ve-image url="/18c/images/1U8A1283-01.jpeg" label="Wax seal" attribution="© Astrid Stilma By permission of Patrick Marrin">
