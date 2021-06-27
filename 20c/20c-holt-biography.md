@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Victoria Holt (1906-1993), a pseudonym of Eleanor Hibbert" author="Mandy Jones" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/3c/Richborough_Castle_14.jpg">
+<param ve-config title="Victoria Holt (1906-1993), a pseudonym of Eleanor Hibbert" author="Mandy Jones" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q26163" aliases="Sandwich">
