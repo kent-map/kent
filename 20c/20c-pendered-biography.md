@@ -17,7 +17,7 @@ According to Mary, her parents opposed her decision to become a journalist and h
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a6/George_Bernard_Shaw.jpg" label="George Bernard Shaw" attribution="Bain News Service, publisher, Public domain, via Wikimedia Commons">
 
 Her first novel _Dust and Laurels: a study in nineteenth century womenhood_ was published in 1893 whilst she was working in London, and is dedicated to “that hybrid complication, the woman of to-day, whose food is fruit of the tree of knowledge of good and evil, and whose drink is the intoxicating ether of freedom and independence.”[^ref7]  It must have been exhausting writing her first novel, often in the late hours, whilst simultaneously being on the staff of “more than one London paper and acting editress of a popular weekly.”[^ref8]   The newspapers described it as “one of the most adventurous books of the season."[^ref9]  
-<param ve-image url="http://iiif.io/api/presentation/2/context.json" label="Dust and Laurels" attribution="Library of Congress">
+<param ve-image url="https://tile.loc.gov/image-services/iiif/service:gdc:dcmsiabooks:du:st:la:ur:el:ss:tu:dy:00:pe:nd:dustlaurelsstudy00pend:dustlaurelsstudy00pend_0005/96,0,1964,3292/259,/0/default.jpg" label="Dust and Laurels" attribution="Library of Congress">
 
 Her writing at this time could be described as part of the ‘New Woman’ movement and was seen as slightly shocking by some of the critics, which is surprising giving the later appraisal of her work.[^ref10]   In her 1895 novel _A Pastoral Played out_, touted as a “London literary sensation”, readers were shocked when her heroine Gylda agreed to live with her lover Etheredge who declared that he didn’t believe in marriage.[^ref11] 
 
