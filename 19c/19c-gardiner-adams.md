@@ -37,6 +37,7 @@ But by the mid-1860s Adams’s position was becoming precarious and he may well 
 
 By 1872 Adams, now operating as a chemist in Canterbury, was in trouble with creditors and his business went into liquidation.  He applied for relief to the Royal Literary Fund in 1874, 1876 and 1880. He died a few miles from the more famous self-made man of letters whose birth year he shared, in Rochester in 1881.
 <param ve-map center="Q29303" zoom="15">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Charles_Dickens_and_Rochester_%281880%29_%2814768272425%29.jpg" label="Charles Dickens and Rochester (1880)" attribution="Robert Langton, Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
 ### Bibliography
 
