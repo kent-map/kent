@@ -49,20 +49,20 @@ It is unlikely that Gertrude’s stay was as long as her protagonist, but her so
 
 [^ref1]: Warden, G. (1897) _The Wooing of a Fairy_ p.36.
 [^ref2]: _The Sketch_, Wednesday 20 November
-[^ref2]:   _Illustrated Sporting and Dramatic News_- Saturday 12 March 1892
-[^ref3]:   _The Sketch_, Wednesday 20 November
-[^ref4]:   _Cardiff Times_ - Saturday 11 August 1888
-[^ref5]:   _The Stage_ - Thursday 04 March 1897
-[^ref6]:    _The Sketch_, Wednesday 20 November
-[^ref7]:  _The Era_ - Saturday 06 March 1897
-[^ref8]:   _The Sketch_- Wednesday 20 November 1895
-[^ref9]:   _The Bystander_ - Wednesday 29 November 1922, The Bystander - Wednesday 26 November 1924
-[^ref9]:
-[^ref9]:
-[^ref9]:
-[^ref9]:
-[^ref9]:
-[^ref9]:
-[^ref9]:
-[^ref9]:
-[^ref9]:
+[^ref3]:   _Illustrated Sporting and Dramatic News_- Saturday 12 March 1892
+[^ref4]:   _The Sketch_, Wednesday 20 November
+[^ref5]:   _Cardiff Times_ - Saturday 11 August 1888
+[^ref6]:   _The Stage_ - Thursday 04 March 1897
+[^ref7]:    _The Sketch_, Wednesday 20 November
+[^ref8]:  _The Era_ - Saturday 06 March 1897
+[^ref9]:   _The Sketch_- Wednesday 20 November 1895
+[^ref10]:   _The Bystander_ - Wednesday 29 November 1922, The Bystander - Wednesday 26 November 1924
+[^ref11]: Warden, G. (1897) _The Wooing of a Fairy_
+[^ref12]: Warden, G. (1897) _The Wooing of a Fairy_
+[^ref13]: Warden, G. (1897) _The Wooing of a Fairy_
+[^ref14]: Warden, G. (1897) _The Wooing of a Fairy_
+[^ref15]: Warden, G. (1897) _The Wooing of a Fairy_
+[^ref16]: Warden, G. (1897) _The Wooing of a Fairy_
+[^ref17]: Warden, G. (1897) _The Wooing of a Fairy_
+[^ref18]: Warden, G. (1897) _The Wooing of a Fairy_
+[^ref19]: Warden, G. (1897) _The Wooing of a Fairy_
