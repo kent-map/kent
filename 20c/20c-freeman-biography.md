@@ -1,35 +1,77 @@
-## R. Austin Freeman (1862-1943)
+/kent-map/kent/main/20c/20c-freeman-biography
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title=" R. Austin Freeman (1862-1943)" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/18/College_Road%2C_Maidstone%2C_1866.jpg">
+
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q676689" aliases="Gravesend">
+<param ve-entity eid="Q213180" aliases="Maidstone">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q590422" aliases="The Isle of Thanet">
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q922739" aliases="Broadstairs">
+<param ve-entity eid="Q7595373" aliases="St Peter’s">
+<param ve-entity eid="Q107339017" aliases="9 Vale Square">
+<param ve-entity eid="Q838965" aliases="Northfleet">
+<param ve-entity eid="Q107339038" aliases="Darnley Road">
+<param ve-entity eid="Q107339044" aliases="Portland Villas, West Hill">
+<param ve-entity eid="Q107339048" aliases=" Rosemount, 94 Windmill St">
+<param ve-entity eid="Q107339052" aliases="Gravesend Cemetery">
+<param ve-entity eid="Q107339062" aliases="Harbour Inn">
+<param ve-entity eid="Q107339066" aliases="The Mariner">
+<param ve-entity eid="Q107339071" aliases="The Ship">
 
 **Places:** Visited or lived in Folkestone, Gravesend, Maidstone, Ramsgate, Rochester.
 
 >‘The Isle of Thanet has a certain peculiar charm which lingers even to this day, despite the too successful efforts of the speculative builder to annihilate it. A few years ago … before the unlovely suburban streets had arisen to disfigure it, the north eastern quarter of the island wore a pleasant air of remoteness that disguised its proximity to busy Margate and prosperous Broadstairs.’ 
 [‘The Great Portrait Mystery’](http://gutenberg.net.au/ebooks05/0500471.txt) (1918)
+<param ve-map primary center="Q590422" zoom="10">
+<param ve-map primary center="Q618045" zoom="10">
+<param ve-map primary center="Q922739" zoom="10">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Isle_of_Thanet_-_Rutupiae.jpg" label="Isle of Thanet" attribution="William Barlow, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f8/The_fort%2C_Margate%2C_England-LCCN2002697071.jpg" label="The Fort, Margate" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Broadstairs.jpg" label="Broadstairs Harbour" attribution="User: (WT-shared) Bh518 at  wts wikivoyage, Public domain, via Wikimedia Commons">
+
 
 Doctor and pioneering crime writer R. Austin Freeman is widely credited with the invention of the ‘inverted’ crime story (later popularised by tv detective Lieutenant Columbo). Born in London, he lived at a series of Kent addresses with his wife Annie and their two children after being invalided out of the Colonial Service in 1891.
 His first Kent address was in St Peter’s, just outside Broadstairs, from 1896. Around 1900 the family moved to 9 Vale Square, Ramsgate.  
+<param ve-map primary center="Q84" zoom="10">
+<param ve-map primary center="Q7595373" zoom="10">
+<param ve-map primary center="Q922739" zoom="10">
+<param ve-map primary center="Q107339017" zoom="10">
 
 Freeman is rightly noted for his forensic attention to detail, but he occasionally indulges himself with lines of pure poetry, as in this account of a train journey from London to the Goodwins, from ‘The Echo of a Mutiny’ (1912):
 
 >The chimneys of Northfleet, the clustering roofs of Gravesend, the populous anchorage and the lurking batteries, were left behind, and, as we swung out of the Lower Hope, the wide expanse of sea spread out before us like a great sheet of blue-shot satin.[^ref1] 
+<param ve-map primary center="Q838965" zoom="10">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Northfleet_Power_Station2.jpg" label="The chimneys of Northfleet" attribution="Pterre, CC BY-SA 3.0, via Wikimedia Commons">
 
 A number of his subsequent novels and stories, from the 1913 _The Unwilling Adventurer_, set in 18th century Gravesend, to the later Thorndyke stories, are set in carefully detailed locations. 
+<param ve-map primary center="Q676689" zoom="10">
 
 In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he was discharged in 1919. By 1921 the family was living in Darnley Road, Gravesend. It was here that Freeman wrote his story of a woman who disappears in Rochester, the suspiciously named _Mystery of Angelina Frood_ (1924). He later admitted that ‘This book was written as a playful commentary on Dickens’s great story, [_The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk); but, as few people are now familiar with Goldsmith’s _Edwin and Angelina_, the mild joke fell flat.’[^ref2] 
+<param ve-map primary center="Q213180" zoom="10">
+<param ve-map primary center="Q107339038" zoom="10">
+<param ve-map primary center="Q507517" zoom="10">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/The_History_of_the_Maidstone_Companies%2C_Royal_Army_Medical_Corps_%28Volunteers%29_-_by_Frederick_J._Wood_%281907%29_%2814598183990%29.jpg" label="The History of the Maidstone Companies, Royal Army Medical Corps (Volunteers) - by Frederick J. Wood (1907)" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Gravesend_Clock_Tower_postcard.jpg" label="Gravesend Clock Tower Postcard, 7 august 1907" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 Freeman’s last two addresses were both in Gravesend, at 1 Portland Villas, West Hill (from 1926 to 1930) and at Rosemount, 94 Windmill St, where he lived until his death in 1943. He was buried in Gravesend Cemetery, where a stone was erected by 'The friends of "Dr Thorndyke"' in 1979.
+<param ve-map primary center="Q107339044" zoom="10">
+<param ve-map primary center="Q107339048" zoom="10">
+<param ve-map primary center="Q107339052" zoom="10">
 
 Not being a resident himself, Freeman is surely allowed to place a boatman in 3 St Michael’s Lane (rather than Street), Folkestone in _The Mystery in the Channel_ in 1931, in which case the [Harbour Inn](http://www.dover-kent.com/Harbour-Inn-Folkestone.html) has a reasonable claim to being ‘the Angel tavern in Folkestone harbour’.[^ref3]  Enthusiasts who want to cover all bases may also want to stop off at [The Mariner]( http://www.dover-kent.com/Mariner-Folkestone.html) and [The Ship]( http://www.dover-kent.com/Ship-Inn-Folkestone.html)
-
-**Article written by:** Carolyn Oulton
+<param ve-map primary center="Q375314" zoom="10">
+<param ve-map primary center="Q107339062" zoom="10">
+<param ve-map primary center="Q107339066" zoom="10">
+<param ve-map primary center="Q107339071" zoom="10">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/Folkestone%2C_Fishmarket_Road_-_geograph.org.uk_-_2208361.jpg" label="Folkestone, Fishmarket Road" attribution="Folkestone, Fishmarket Road by Helmut Zozmann, CC BY-SA 2.0, via Wikimedia Commons">
 
 ### Bibliography
 
 Donaldson, Norman. _In Search of Dr Thorndyke._ Ohio: Bowling Green University Popular Press, 1971.   
-
-Freeman, R. Austin. _‘The Echo of a Mutiny.’ Deep Waters: Mysteries on the Waves._ Ed. Martin Edwards. London: British Library, 2020. 107-149. First published 1912.
-
---. _Mystery in the Channel._ London: British Library, 2016. First published 1931.
-
+Freeman, R. Austin. _‘The Echo of a Mutiny.’ Deep Waters: Mysteries on the Waves._ Ed. Martin Edwards. London: British Library, 2020. 107-149. First published 1912.   
+--. _Mystery in the Channel._ London: British Library, 2016. First published 1931.   
 ‘Obituary.’ 1 October 1943. Times. 7. _The Times Digital Archive_, [Gale](link.gale.com/apps/doc/CS119618881/GDCS?u=ccc_uni&sid=GDCS&xid=c53573ce.) Accessed 17 February 2021.
 
 ### References
@@ -37,5 +79,3 @@ Freeman, R. Austin. _‘The Echo of a Mutiny.’ Deep Waters: Mysteries on the W
 [^ref1]:  ‘The Echo of a Mutiny’ 137-8.   
 [^ref2]:  Inscription copy cited in Donaldson 153.   
 [^ref3]:  _Mystery in the Channel_ 133.   
-
-
