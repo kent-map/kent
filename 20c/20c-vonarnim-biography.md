@@ -19,10 +19,8 @@ Chatham – Leeds Castle – Sandgate – Great Chart – Staplehurst – Sissin
 _‘We journeyed that day towards Canterbury, a town you, my friends, may or may not have heard of. That it is an English town I need not say, for if it were not would we have been going there? And it is chiefly noted, I remembered, for its archbishop.’_
 <param ve-map primary center="Q29303" zoom="10">
 
-_The Caravaners_   
-The Caravaners follows the German Baron von Ottringel on what is meant to be a month long holiday in Kent with his wife and a group of friends. His selfish behaviour and complete lack of self-awareness provide much of the humour of the novel, but also force his frustrated companions to abort the holiday after only a week.
-
-Published in 1909, Elizabeth von Arnim’s comic novel _The Caravaners_ is reminiscent of [Jerome K. Jerome](/19c/19c-jerome-biography)’s _Three Men in a Boat_ in its loving depiction of holiday disaster. The real holiday on which it is based took place in the wet summer of 1907. The itinerary included Chatham, Leeds Castle, Sandgate (to see [H. G. Wells](20/20c-wellshg-biography)), Great Chart (where they were joined by [E.M. Forster](/20c/20c-forster-em-biography) Staplehurst, Sissinghurst, (later the home of [Vita Sackville-West](/20c/20c-sackville-west)), Aylesford and Canterbury as well as parts of Sussex. [^ref1] 
+_The Caravaners_ follows the German Baron von Ottringel on what is meant to be a month long holiday in Kent with his wife and a group of friends. His selfish behaviour and complete lack of self-awareness provide much of the humour of the novel, but also force his frustrated companions to abort the holiday after only a week.   
+Published in 1909, Elizabeth von Arnim’s comic novel _The Caravaners_ is reminiscent of [Jerome K. Jerome](/19c/19c-jerome-biography)’s _Three Men in a Boat_ in its loving depiction of holiday disaster. The real holiday on which it is based took place in the wet summer of 1907. The itinerary included Chatham, Leeds Castle, Sandgate (to see [H. G. Wells](20/20c-wellshg-biography)), Great Chart (where they were joined by [E.M. Forster](/20c/20c-forster-em-biography)) Staplehurst, Sissinghurst, (later the home of [Vita Sackville-West](/20c/20c-sackville-west)), Aylesford and Canterbury as well as parts of Sussex. [^ref1] 
 <param ve-map primary center="Q729006" zoom="10">
 <param ve-map primary center="Q746876" zoom="10">
 <param ve-map primary center="Q1000312" zoom="10">
@@ -50,6 +48,7 @@ In the novel the appalling behaviour of the boorish narrator Baron von Ottringel
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" label="Canterbury Cathedral" attribution="Hans Musil, CC BY-SA 4.0, via Wikimedia Commons">
 
 He observes at one point, with no sense of irony, that hop kilns ‘recurring at frequent intervals as one travels through the county of Kent, are striking and picturesque additions to the landscape, and as our guide book described them very fully I was able to talk a good deal about them.' [^ref4] By the end of the holiday he has learned little about the scenery - or about himself - but looks forward to sharing his written account of his travels with his friends and neighbours.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Oast_House_at_Kiln_Way%2C_Paddock_Wood%2C_Kent_-_geograph.org.uk_-_322542.jpg" label="Oast House at Kiln Way, Paddock Wood, Kent" attribution="Oast House Archive">
 
 
 ### Bibliography
