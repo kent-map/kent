@@ -38,13 +38,13 @@ Although Mary was living in Kent at this time, it has been argued that her pasto
 
 At the outbreak of the First World War, Mary became involved in running a Soldier’s Club at Beltinge, converting a garage into a space for the soldiers. It was here that she indulged her other love, entertaining. Singing around the piano became a nightly event, with coffee and biscuits served to the men. Later, with a generous donation of a bungalow, the club was able to offer a place for the soldiers to unwind from 10 am to 10 pm, providing a writing and cards room, bagatelle, billiard table and a piano.[^ref18]  In the following year, she supported the formation of the Herne Bay District Voluntary Association which made 6,119 articles of clothing for sick and wounded troops.    
 <param ve-image url="https://stor.artstor.org/stor/8009bc63-bac6-4da4-93e1-2da9a8313cb7" label="Site of the Soldier's Home on Lismore Road, Beltinge" attribution="Martin Crowther">
-<param ve-map primary center="Q4884748" zoom="10">
+<param ve-map primary center="Q4884748" zoom="15">
 
 Throughout her time in Beltinge, Mary was writing and publishing as well as supporting the war effort. Her novel _Plain Jill_ (1915) published when she was 56 was considered old fashioned and “notably unconcerned with actualities.”[^ref19]  The _Illustrated London News_ wrote: “A noble Earl, a simple maiden, a ghost or two, and a haughty Countess are ingredients strange to find in a novel of 1915.”[^ref20] In the following year, Mary injected some realism into her next novel _The Secret Sympathy_ (1916) mentioning the war in the closing chapters.  It was not however, set in Kent, but in Sussex where the heroine Katherine Knollys fell in love with a chauffeur, who is the long-lost heir of a peer and also a German spy. Published in the same year, _The Book of Common Joys: written in autumn sunshine for those who have left summer behind_ (1916) was a series of reflections on reading, gardening, hobbies and other common joys.  It was a departure from her novel writing, but gives an insight into the life that she enjoyed in Kent.
-<param ve-map primary center="Q4884748" zoom="10">
+<param ve-map primary center="Q4884748" zoom="15">
 
 At some time in late 1916 or early 1917 Mary left Herne Bay for Wellingborough and in 1920 she advertised her bungalow in Beltinge to let. Six years later she was to influence the young H. E. Bates, who became a noted Kent author, whilst he was working as a journalist on the _Kettering Reminder_. Mary Pendered was to remain in Northamptonshire where she continued writing until her death in 1940.  She made no mention of her life in Kent in later interviews, nor of her suffrage work. Her novels, of which there were around 20, like her time in Kent, are now largely forgotten, as is the cigarette-smoking, fun-loving woman who brought so much cheer to those who knew her.
-<param ve-map primary center="Q4884748" zoom="10">
+<param ve-map primary center="Q4884748" zoom="15">
 
 ### References
 
