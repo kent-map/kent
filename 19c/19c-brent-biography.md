@@ -17,14 +17,13 @@ and Guillemette La Delanasse (both published in 1840). In the same year he contr
 Brent became a fellow of the Society of Antiquaries in April 1853, and was a member of the British Archaeological Association and the Kent Archaeological Society. He is best remembered for his 1860 [Canterbury in the Olden Time](https://babel.hathitrust.org/cgi/pt?id=uc1.31175001958167&view=1up&seq=9).  A fan of that quintessential self-made man [Charles Dickens](/dickens), it is tempting to think that Brent was present at his public reading at the Fountain Hotel in Canterbury in 1861. What is certain is that like [Henry Adams](LINK), he would succumb to a fatal urge to address a poem to the great author. An otherwise accomplished poet, he marked Dickens’s death in lines that are not among his best, such as:
 [The hand which down the chords of feeling sent
 Once sweetest music – now is stilled and cold]( https://books.google.co.uk/books?id=Ds8IAAAAQAAJ&pg=PA99&dq=%22Dickens%22+and+%22John+Brent%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjKrP-csNbwAhUPExQKHQhIDSQQ6AEwAHoECAAQAg#v=onepage&q=%22Dickens%22%20and%20%22John%20Brent%22&f=false).
-<param ve-image url="https://stor.artstor.org/stor/8170ce97-3fe7-4dac-b063-ff35b17faecb" label="Canterbury in Olden Times">
+<param ve-image url="https://stor.artstor.org/stor/8170ce97-3fe7-4dac-b063-ff35b17faecb" label="Canterbury in the Olden Time">
 
 Still, it must be confessed that many readers of [Edwin Drood](/edwin-drood-curated-walk) would sympathise with Brent’s mixed frustration and awe, at:
 [A Mystery Death forbade thee to unfold 
 – Yet Death’s own secret is now solved by thee]( https://books.google.co.uk/books?id=Ds8IAAAAQAAJ&pg=PA99&dq=%22Dickens%22+and+%22John+Brent%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjKrP-csNbwAhUPExQKHQhIDSQQ6AEwAHoECAAQAg#v=onepage&q=%22Dickens%22%20and%20%22John%20Brent%22&f=false).
 Brent himself died of heart disease at his house, 8 Dane John Grove, on 23 April 1882.
-
-For more of Brent’s work see [_The Online Books Page_](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Brent%2C%20John%2C%201808-1882)
+<param ve-image url="https://stor.artstor.org/stor/000006fe-369e-488c-909b-955d19db4123" label="Don John Grove, with Brent's house on the far left" attribution="Martin Crowther">
 
 ### Bibliography 
 
@@ -35,3 +34,4 @@ Goodwin, Gorden. Revised Shirly Burgoyne Black. Brent, John. Oxford Dictionary o
 Kent Archaeological Society
 https://www.kentarchaeology.org.uk/sites/default/files/archcant/1946%2058%20Miscellaneous_1.pdf   
 ‘Riot at Canterbury’. 11 September 1832. Morning Post. British Newspaper Archive. Accessed 19 May 2021.   
+For more of Brent’s work see [_The Online Books Page_](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Brent%2C%20John%2C%201808-1882)
