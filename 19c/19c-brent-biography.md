@@ -18,6 +18,7 @@ Brent became a fellow of the Society of Antiquaries in April 1853, and was a mem
 [The hand which down the chords of feeling sent
 Once sweetest music – now is stilled and cold]( https://books.google.co.uk/books?id=Ds8IAAAAQAAJ&pg=PA99&dq=%22Dickens%22+and+%22John+Brent%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjKrP-csNbwAhUPExQKHQhIDSQQ6AEwAHoECAAQAg#v=onepage&q=%22Dickens%22%20and%20%22John%20Brent%22&f=false).
 <param ve-image url="https://stor.artstor.org/stor/8170ce97-3fe7-4dac-b063-ff35b17faecb" label="Canterbury in the Olden Time">
+<param ve-image url="https://stor.artstor.org/stor/3e7c4e22-8283-443a-8ae0-da685ef246bf" label="Illustration of enamelled brooches from Canterbury in the Olden Time" attribution="John Brent">
 
 Still, it must be confessed that many readers of [Edwin Drood](/edwin-drood-curated-walk) would sympathise with Brent’s mixed frustration and awe, at:
 [A Mystery Death forbade thee to unfold 
@@ -35,3 +36,4 @@ Kent Archaeological Society
 https://www.kentarchaeology.org.uk/sites/default/files/archcant/1946%2058%20Miscellaneous_1.pdf   
 ‘Riot at Canterbury’. 11 September 1832. Morning Post. British Newspaper Archive. Accessed 19 May 2021.   
 For more of Brent’s work see [_The Online Books Page_](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Brent%2C%20John%2C%201808-1882)
+<param ve-image url="https://stor.artstor.org/stor/129ae304-a3f9-4021-856a-0c6d4ce1c3bc" label="Canterbury in the Olden Time signed by the author">
