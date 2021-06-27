@@ -15,9 +15,9 @@ _”Kent of all the counties of England, is thickest set with historical reminis
 <param ve-image url="images/RomanFolkestone by Winbolt MJC.jpg" label="Roman Folkestone by S.E. Winbolt">
 
 When Samuel Edward Winbolt, a classics and history teacher and writer of school textbooks, was holidaying in Folkestone in August 1923, he was to learn of a little-known site of archaeological interest on the East Cliff. It was here that Winbolt was to spend the next two holidays excavating the remains of a Roman villa.[^ref1]  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/be/Folkestone_Roman_Villa%2C_Wear_Bay_Road_%28geograph_2573346%29.jpg" label="Folkestone Roman Villa, Wear Bay Road" attribution="Lesley Smith / Folkestone Roman Villa, Wear Bay Road">
 <param ve-map primary center="Q375314" zoom="10">
 <param ve-map primary center="Q60108798" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/be/Folkestone_Roman_Villa%2C_Wear_Bay_Road_%28geograph_2573346%29.jpg" label="Folkestone Roman Villa, Wear Bay Road" attribution="Lesley Smith / Folkestone Roman Villa, Wear Bay Road">
 
 During a three-week [excavation](https://fmlearnwithobjects.co.uk/questions/romans-0-a-pile-of-old-stones/) at Easter, followed by five more weeks during the summer, Winbolt and a team of diggers and enthusiasts - including his daughter Rosalind, and Miss Sybil Thomas - excavated the site.[^ref2] Miss Thomas was a teacher at the Duke of Yorks School in Dover and had studied a two year course in archaeology.
 <param ve-map primary center="Q179224" zoom="10">
@@ -27,8 +27,8 @@ The town’s business men, councillors and guest house owners watched the develo
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Mosaic_fragment._%28FindID_69499%29.jpg" label="Mosaic fragment" attribution="The Portable Antiquities Scheme/ The Trustees of the British Museum, CC BY-SA 2.0, via Wikimedia Commons">
 
 On Monday 25th August 1924, nearly a thousand people visited the site, each paying three pence to view the excavations.[^ref4]  Was Folkestone about to experience Romanomania?
-<param ve-map primary center="Q375314" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Across_the_site_of_the_Roman_villa_-_panoramio.jpg" label="Across the site of the Roman villa" attribution="Mutzy, CC BY-SA 3.0, via Wikimedia Commons">
+<param ve-map primary center="Q375314" zoom="10">
 
 Frank Fletcher, President of the Rotary Club, enthusiastically described Winbolt as having “done Folkestone a signal service in bringing the town before the reading public.”[^ref5]  Reports about the excavations had been widely reported in the British press  - _The Graphic_ gave a whole page to the story, including illustrations - and the townsfolk must have been eager for an influx of visitors.[^ref6]  The [first world war](20c/20c-folkestone-ww1/) had impacted on the popularity of the town - the smart set who had filled the hotels had moved on and it now attracted a more middle class holiday-maker. Kentish seaside towns had to work hard to attract visitors.
 <param ve-map primary center="Q107339143" zoom="10">
@@ -38,11 +38,11 @@ Indeed, Winbolt recognised that keeping the project in the limelight was importa
 <param ve-image url="images/Roman Folkestone inside MJC.jpg" label="Roman Folkestone by S.E. Winbolt">
 
 Winbolt was also keen to curry favour from local archaeologists and spoke of his fondness for the county in a speech to the Kent Archaeological Society in September 1924. He is reported to have said that although he was a Sussex man, “if he had another choice he would be a Kentish man”[^ref10] (or, as Folkestone people would prefer him to say, a ‘Man of Kent’ - Winbolt clearly hadn’t done his homework!). He also took an interest in archaeological investigations in other parts of Kent, including St Radegund’s Abbey, Dover and described [Richborough](/20c/20c-richborough) as “perhaps the most Roman piece of soil in Great Britain.”[^ref11]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Farmhouse%2C_St_Radigund%27s_Abbey_Farm_%28geograph_4901835%29.jpg" label="Farm House at St Radegund’s Abbey" attribution="Ian Capper / Farmhouse, St Radigund's Abbey Farm">
 <param ve-map primary center="Q23346" zoom="10">
 <param ve-map primary center="Q7591573" zoom="10">
 <param ve-map primary center="Q179224" zoom="10">
 <param ve-map primary center="Q2607619" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Farmhouse%2C_St_Radigund%27s_Abbey_Farm_%28geograph_4901835%29.jpg" label="Farm House at St Radegund’s Abbey" attribution="Ian Capper / Farmhouse, St Radigund's Abbey Farm">
 
 Winbolt was to combine his love of archaeology with his love for writing and in 1925 published a book on _Roman Folkestone_. He was keen that it should break ‘fresh ground’ and appeal to a wider audience than simply historians and archaeologists, he therefore included a chapter entitled “Some humours of excavating” in which he recounted stories from his conversations with diggers, helpers and souvenir-hunters.[^ref12]  A reviewer described it as full of “debatable matter.”[^ref13]   
 The villa site continued to receive visitors over the next few years, enriching the “romance of Kent” but with an increased entrance price of 6d.[^ref14] However, when some of the remains slipped down the cliff in the landslide of 1928, W.H.E  who was concerned that this significant site might be  lost, complained in the _Folkestone, Hythe, Sandgate & Cheriton Herald_ that Winbolt had put too much effort into describing what life was like in Roman Folkestone rather than recording the buildings, leaving it “to the reader’s imagination as to what the buildings were like.”[^ref15]  Winbolt’s ‘fresh’ approach had clearly not appealed to the more serious reader and it is quite possible that, more used to his school boy audience, Winbolt had missed the mark.
