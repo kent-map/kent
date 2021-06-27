@@ -22,6 +22,7 @@ In September 1887, Gertrude appeared in Henry Arthur Jones’s play 'Heart of He
 
 In 1889, she married John William (Wilton) Jones, playwright and journalist who was known for writing light-hearted comedies, melodramas and pantomimes.  As well as playwriting, he contributed poetry and was sub-editor for _Town and Country_ magazine, and even started a short-lived magazine called _The Vaudeville_. He was described by his friend Horace Lennard as “a long awkward fellow, with a heart as big as a lion’s and an everlasting smile.”[^ref5]   The couple settled in Fulham and enjoyed a good working relationship, frequently co-writing and acting together, e.g. 'Woman’s Proper Place' (1896)  and 'The Cruel City' (1896).  In 'A chat with Mr and Mrs Wilton Jones' (The Sketch, 1895) the couple described how they discussed their plays together on their walks to Richmond Park often “wrangling” over the dialogue together.[^ref6]
 
+
 After the death of her husband in March 1897, Gertrude would “have probably have broken down under the terrible strain” if her sister, Florence had not been there to comfort her at her house in West Kensington.[^ref7]  It is possible that Gertrude spent some time with her sister in Kent during the summer where her sister was living. This would certainly explain the setting for her 1897 book _The Wooing of a Fairy._ 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg" label="Florence Warden" attribution="Rijksmuseum, CC0, via Wikimedia Commons">
 
@@ -43,6 +44,7 @@ As Hervey walks, we can imagine Gertrude’s daily walks as she comes to terms w
 _“I wandered between the lines of sand dunes and waves , until a very keen country hunger made me turn inland again, and struggle in the teeth of the wind up the rugged cliff side towards the church tower.”_[^ref16] 
 
 In the story, Hervey becomes enchanted by Lilith, a young girl of about 15 who _“appeared at first more like a fairylike emanation of the sunset than a living and breathing creature”_.[^re17] Although he seeks to rescue her from her poverty, his infatuation is ultimately unrewarded, and at the end of the book, Hervey, now a broken man, ponders upon the fifteen months he _“watched the changing seasons over the marshes, hugging my sorrow and living upon memories.”_ [^ref18]. 
+<param ve-image url="https://stor.artstor.org/stor/e0d0f20a-3c3f-48db-ba79-f8fc85a1d38e" label="Illustration on the front cover of The Wooing of a Fairy" attribution="British library, public domain">
 
 It is unlikely that Gertrude’s stay was as long as her protagonist, but her sorrow was probably as real. In 1899 she married Auguste Devot de Quillacq, a long-standing family friend, who was 18 years older than her and they moved to Monaco, where she enjoyed life on the Riviera, and became acquainted with [Baroness Orczy](/20c/20c-orczy-biography).[^ref19] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/Baroness_Emma_Orczy_%28Bassano%29.jpg" label="Baroness Orczy" attribution="Bassano Ltd, Public domain, via Wikimedia Commons">
