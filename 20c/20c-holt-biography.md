@@ -31,10 +31,9 @@ Set in the Victorian era, the shivering sands of the title are the Goodwin Sands
 <param ve-map center="Q1011096" zoom="10">
 
 Caroline Verlaine, the first-person narrator, is widowed at an early age and she goes to stay with her sister in Kent, in an effort to overcome her grief. Together they visit some of the places of interest around [Folkestone](/19c/19c-folkestone) including Caesar’s Camp, Sugar Loaf Hill, St Thomas’s Well and Richborough Castle. Much cheered by these excursions, Caroline departs, but she returns to Kent when her sister goes missing. The beauty of the countryside is revealed on her journey through Kent, which she calls the “Garden of England”. She delights in the “blossoming cherry, plum and apple” trees as well as the “hopfields and cowled oast houses” along her route. She stays in the fictional village of Lovat Mill, somewhere between [Dover](/dickens/19c-dover) and [Folkestone](/19c/19c-folkestone), which Holyoake suggests is based on Martin Mill. He further suggests that the fictional house where Caroline gives music lessons, Lovat Stacy, is modelled on Oxney Court. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Richborough_Castle_02.jpg" label="Richborough Castle" attribution="Nilfanion, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d0/Beside_Caesar%27s_Camp_-_geograph.org.uk_-_2075938.jpg" label="Beside Caesar’s Camp" attribution=" Beside Caesar's Camp by Chris Heaton, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bc/Sugarloaf_Hill_-_geograph.org.uk_-_685635.jpg" label="Sugar Loaf Hill" attribution="Nigel Thornton / Sugarloaf Hill">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Ugly_Duckling%2C_Station_Road%2C_Martin_Mill%2C_Kent_-_geograph.org.uk_-_982446.jpg" label="The Ugly Duckling, Station Road, Martin Mill, Kent" attribution="Oast House Archive / The Ugly Duckling, Station Road, Martin Mill, Kent">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Richborough_Castle_02.jpg" label="Richborough Castle" attribution="Nilfanion, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map center="Q375314" zoom="10">
 <param ve-map center="Q107343977" zoom="10">
 <param ve-map center="Q107343985" zoom="10">
@@ -46,8 +45,8 @@ Caroline Verlaine, the first-person narrator, is widowed at an early age and she
 
 During her time at Lovat Stacy, Caroline learns something of the history of Sandown, Deal and Walmer castles and she hears the local legend of the ghostly Grey Lady. But it is the Goodwin Sands which return again and again. They create an ominous sense of foreboding, with their submerged wrecks and their “desolate” atmosphere. They form an increasingly sinister background to the shocking tale of crime, mystery and romance that unfolds as Caroline finally learns the fate of her sister.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Sandown_Castle_1853.png" label="Sandown Castle, Kent" attribution="John Leech (1817-1864), Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/The_castle%2C_Deal%2C_England-LCCN2002696656.jpg" label="Deal Castle" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Walmer_Castle_from_the_west.jpg" label="Walmer castle" attribution="DeFacto, CC BY-SA 4.0, via Wikimedia Commons">
-<param ve-map center="Q516605" zoom="10">
 <param ve-map center="Q1011096" zoom="10">
 <param ve-map center="Q2543161" zoom="10">
 <param ve-map center="Q7416497" zoom="15">
