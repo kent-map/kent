@@ -22,9 +22,6 @@ Her writing at this time could be described as part of the ‘New Woman’ movem
 
 From at least 1895 she was writing stories for [Jerome K. Jerome](/19c/19c-jerome-biography)'s _Idler_ and featured in the Idler’s Club column along with authors such as Mary Elizabeth [Braddon](/19c/19c-braddon-biography), Sarah [Grand](/19c/19c-grand-biography) and Ella Hepworth-Dixon. She also published stories in periodicals such as _Belgravia, Temple Bar, Quiver, Argosy, The Girl’s Own Paper, the Women’s Penny Paper_ and _Hearth and Home_.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/11/Jerome_K._Jerome_%287893553318%29.jpg" label="Jerome K. Jerome" attribution="National Media Museum from UK, No restrictions, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Mary_Elizabeth_Maxwell_%28n%C3%A9e_Braddon%29_by_William_Powell_Frith.jpg" label="Mary Elizabeth Braddon" attribution="National Portrait Gallery, Public domain, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Sarah_Grand_profile.jpg" label="Hayman Seleg Mendelssohn" attribution="Public domain, via Wikimedia Commons">
-
 
 In 1899, her love of socialism was portrayed in her novel _An Englishman_, however, her middle-class tradesman hero was viewed by some with scepticism. _The Evening Standard_ wrote: “There is so much careful and intelligent work in Miss Mary Pendered’s novel, …But the book is dull, and in a novel dullness is an unforgiveable sin.”[^ref12]
 
