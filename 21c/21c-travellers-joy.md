@@ -3,14 +3,13 @@
 <param ve-entity eid="Q26551755" aliases="Lansdown Road">
 <param ve-entity eid="Q4381575" aliases="East Station">
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q26369737" aliases="Oxford Street">
 
 **Exhibition**   
 When walking around the city of Canterbury, one quickly notices the representation and referencing of the city’s rich cultural heritage. Promotional photos on shop windows, celebratory paintings in underpasses, an antiquarian bookshop named after [Geoffrey Chaucer](/14c/14c-chaucer), and even a fish and chip shop called _The Canterbury Tales_. Murals are particularly popular, in the first thought to tackle the illegal graffiti, in the second to give a new look to some of the grimmer spots in the city. Their design refers to Canterbury’s past, architecture, and historical figures, which is not surprising as the last thirty years have seen a growing enthusiasm of the wider public for local and national history.  And as Robert Hewison claims: ʹthe impulse to preserve the past is part of the impulse to preserve the self.ʹ[^ref1] 
 <param ve-image url="images/PigrimsMJC.jpg" label="Chaucer's Pilgrims by Gloria Treseder" attribution="Martin Crowther">
 <param ve-map primary center="Q29303" zoom="15">
 
-In 2018 the Canterbury City Council commissioned a new mural to cover pillars of the footbridge over the railway line next to the East Station which leads from the Lansdown Road Path to Oxford Street. The requirement was to make the neglected area more appealing, welcoming to the tourists, and generating a sense of pride for the locals. The winning design from the American artist [Gloria Treseder](https://www.gtreseder.com/), studying in Canterbury in that time, accomplished this mission by choosing a different direction than the other murals – she based it around the nature and literary references native to the Kent and Canterbury region.
+In 2018 the Canterbury City Council commissioned a new mural to cover pillars of the footbridge over the railway line next to the East Station which leads from the Lansdown Road Path to Oxford Road. The requirement was to make the neglected area more appealing, welcoming to the tourists, and generating a sense of pride for the locals. The winning design from the American artist [Gloria Treseder](https://www.gtreseder.com/), studying in Canterbury in that time, accomplished this mission by choosing a different direction than the other murals – she based it around the nature and literary references native to the Kent and Canterbury region.
 <param ve-image url="images/TravellersJoyMJC.jpg" label="Traveller's Joy by Gloria Treseder" attribution="Martin Crowther">
 <param ve-map center="Q4381574" zoom="15">
 <param ve-map center="Q26551755" zoom="15">
@@ -23,6 +22,7 @@ Treseder draws the inspiration for her art from nature so the central element of
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Traveller%27s_Joy_%28Clematis_vitalba%29_-_geograph.org.uk_-_2060096.jpg" label="Travellers Joy/ Clematis vitalba" attribution="Traveller's Joy (Clematis vitalba) by Maigheach-gheal, CC BY-SA 2.0, via Wikimedia Commons">
 
 The local audience would certainly agree that the mural showcases their heritage, but as Laurajane Smith points out: 'Heritage [is] a process of engagement, an act of communication and an act of making meaning in and for the present.'[^ref2]  It is us remembering and celebrating the following exhibits that makes them our heritage, and this mural establishes their cultural significance.
+<param ve-image url="https://stor.artstor.org/stor/3682a5ad-c995-4ad6-bf5c-a24da1b86d05" label="Traveller's Joy by Gloria Treseder">
 
 ### References
 
