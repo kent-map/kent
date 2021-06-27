@@ -2,7 +2,7 @@
 <param ve-config title="John Brent (1808-1882)" author="Professor Carolyn Oulton" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
 _‘The privilege of electing a mayor seems to have been somewhat tardily conceded to a city so important as Canterbury.’_   
 _Canterbury in the Olden Time_ (1860)
