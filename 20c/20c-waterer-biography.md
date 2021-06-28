@@ -1,5 +1,5 @@
-/kent-map/kent/main/20c/20c-waterer-biography
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Gladys Waterer (1885 - 1971)" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a6/Dickens-museum.jpg">
+s://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Gladys Waterer (1885 - 1971)" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a6/Dickens-museum.jpg">
 
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q107337170" aliases="35 Northdown Way">
