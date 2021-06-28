@@ -10,11 +10,12 @@
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q179224" aliases="Dover">
 
-_‘But what’s wrong with this city? Why the long face on the cathedral clock? Whose shadow darkens the sundial?
-I check my dates. Thirteen decades have passed. The removal of mourning rings may require soap if Rochester ever recovers (which looks doubtful)._
-<param ve-map primary center="Q507517" zoom="10">
+#
 
-‘It’s hard to rationalise what I’m seeing today on my afternoon stroll: flint walling, personalised number plates, a QPR sticker in a bedroom window. Spindrift, Winday Bay, Lindisfarne – houses which clamber on top of one another like mad-eyed toads in a jar.’
+_‘But what’s wrong with this city? Why the long face on the cathedral clock? Whose shadow darkens the sundial?
+I check my dates. Thirteen decades have passed. The removal of mourning rings may require soap if Rochester ever recovers (which looks doubtful)._   
+_‘It’s hard to rationalise what I’m seeing today on my afternoon stroll: flint walling, personalised number plates, a QPR sticker in a bedroom window. Spindrift, Winday Bay, Lindisfarne – houses which clamber on top of one another like mad-eyed toads in a jar.’_
+<param ve-map primary center="Q507517" zoom="10">
 
 _All the Devils are Here_, 2002.   
 The word mystery comes to mind when approaching Seabrook and his work - a fitting word, given the author’s obsession with the local lore and hidden historical disjecta membra of Kent’s coastal towns, and intertextually apposite given Seabrook’s extended analysis of Drood in _All the Devils Are Here_ (2002), where he offers Richard Dadd (he of the unfinished Fairy Feller’s Master-Stroke) as the inspiration for [Dickens’s](/dickens/dickens-biography) eponym, whose cruel parricide, Seabrook opines, served as fodder for the (probable) fate of the forever-deferred [Edwin](/dickens/edwin-drood-curated-walk).
@@ -39,10 +40,8 @@ _Devils_ begins in [Margate](/21c/21c-margate), where Seabrook connects [Eliot](
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Deal_beach.jpg" label="Deal" attribution="Felvalen, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Dover_Eastern_Docks.jpg" label="Dover Docks" attribution="DeFacto, CC BY-SA 4.0, via Wikimedia Commons">
 
-_All the Devils Are Here_ is an essential addition to any library of the odd and uncommon.  Put Seabrook on a shelf with Kafka, Lovecraft, Beckett, Hoffmann, [Eco](/21c/21c-waterstones-canterbury) and Borges, and he fits right in: liminal, disruptive, hard to pin down.
-
-Final words?  Perhaps best to end with those from the _Observer_ review, ominously appended to the back page of the Granta edition: to know _Devils_, we are told, ‘is somehow not to know anything at all.’
-
+_All the Devils Are Here_ is an essential addition to any library of the odd and uncommon.  Put Seabrook on a shelf with Kafka, Lovecraft, Beckett, Hoffmann, [Eco](/21c/21c-waterstones-canterbury) and Borges, and he fits right in: liminal, disruptive, hard to pin down.    
+Final words?  Perhaps best to end with those from the _Observer_ review, ominously appended to the back page of the Granta edition: to know _Devils_, we are told, _‘is somehow not to know anything at all.’_   
 It’s a right old mystery.
 
 ### Bibliography 
