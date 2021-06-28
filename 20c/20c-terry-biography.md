@@ -27,7 +27,7 @@ She gifted the adjacent ‘Priest’s House’ to her daughter, Edith [‘Edy’
 <param ve-map center="Q17556849" zoom="15">
 
 Ellen Terry wrote about life with Edy at Smallhythe Place (then called The Farm) in a letter to George Bernard Shaw (14 June 1904), _‘Edy is here. Did I tell you she is my right hand, and still growing to be my left hand, and happy as a sandboy all the while? I fear to be too happy in her – I try to very quiet with it all. She has a cottage of her own here and we visit each other every day!’_ [^ref4]
-<param ve-map center="Q7543679" zoom="10">
+<param ve-map center="Q7543679" zoom="15">
 
 [Christopher St John](/20c/20c-st-john-biography) characterised her early life with Ellen Terry and [Edy Craig](/20c/20c-craig-biography) at Smallhythe as ‘a lovely pleasant carefree existence’. They created beautiful gardens, went on moonlight drives to Bodiam Castle, and took the occasional pleasure cruise across the English Channel to Bruges.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7b/Bodiam-castle-10My8-1185.jpg" label="Bodiam Castle" attribution="WyrdLight-McCallum Photography www.wyrdlight.eu, CC BY-SA 3.0, via Wikimedia Commons">
@@ -35,7 +35,7 @@ Ellen Terry wrote about life with Edy at Smallhythe Place (then called The Farm)
 <param ve-map center="Q639208" zoom="10">
 
 [St John](/20c/20c-st-john-biography) wrote that the many ‘monuments’ to Ellen Terry – her autobiography, letters, and lectures on Shakespeare ‘as well as her shrine at Smallhythe’ – were ‘something to inspire those who come after us with the same devotion to her memory.’[^ref5]
-<param ve-map center="Q7543679" zoom="10">
+<param ve-map center="Q7543679" zoom="15">
 
 ### Bibliography:
 
