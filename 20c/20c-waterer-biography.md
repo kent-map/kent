@@ -23,12 +23,10 @@ Gladys Waterer was best known in her lifetime as a dramatist and leading light o
 
 The 1939 census places Gladys back at 35 Northdown Way, presumably helping to look after her father, who is described as 'incapacitated'. Emmeline Waterer would die two years later at the age of 81, and Clarence in 1943, aged 85.   
 But from at least 1937 Gladys had been living with Dora Tatum at [2 Nuckell’s Place](david-copperfield-nuckells-place), the original of Aunt Betsey’s cottage in _David Copperfield_. For the initial Dickens festival she adapted _Pickwick_ with Nina Boreham, followed by _David Copperfield_ (complete with donkeys) in 1938. By 1964 she had tackled every one of the major works bar _Oliver Twist_, which she candidly admitted she couldn’t face living with for the eight months it would have taken to prepare a suitable play. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d0/Betsey_propose_l%27%C3%A9migration_%28David_Copperfield%29.jpeg" label="Betsey propose l'émigration (David Copperfield)" attribution="Hablot Knight Browne (Phiz), Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/David_Copperfield_%281850%29_%2814593575778%29.jpg" label="David Copperfield, 1850" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 <param ve-map primary center="Q107337170" zoom="10">
 
-
-While her name appears only sporadically in newspapers and most often in connection with [Dickens](/dickens/dickens-biography), Waterer was herself the author of at least two novels, _The Third Chance_ (1912) and _The Lady in Mauve_ (1931). 
-
+While her name appears only sporadically in newspapers and most often in connection with [Dickens](/dickens/dickens-biography), Waterer was herself the author of at least two novels, _The Third Chance_ (1912) and _The Lady in Mauve_ (1931).    
 _The Third Chance_ reflects her own interest in the politics of local amateur dramatic productions. Much of the tension devolves from the heroine Ethel’s triumphantly redemptive love for an alcoholic actor who once saved her from a teenage seduction and who is drafted in to make up the numbers in a provincial performance. Less than subtly disguised as Seagate, Eastgate and Haregate, the neighbouring towns of Margate, Ramsgate and Broadstairs provide an idyllic coastal setting, inflected with a keen and often witty observation of local culture. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ramsgate_Marina_-_geograph.org.uk_-_1907412.jpg" label="Ramsgate Marina" attribution="Ramsgate Marina by Don Barber, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-map center="Q618045" zoom="10">
