@@ -15,17 +15,17 @@ _‘”Who wants to know what everything means? Novels are not meant to be real 
 “But you do take them seriously,” objected Ethel. “You read volumes and volumes of such stuff, and it’s bad for you. It fills you with all sorts of fancies and notions, that are worse than useless in this practical world.”’_  _The Third Chance_, 1912. 
 <param ve-image url="images/GettyImages-1053502770 Gladys Waterer1.jpg" label="Gladys Waterer, as Mrs Squeers, Dickens Festival 1939">
 
-Gladys Waterer was best known in her lifetime as a dramatist and leading light of the [Broadstairs](/dickens/broadstairs) branch of the Dickens Fellowship from its inauguration in 1837. Her parents Clarence and Emmeline Waterer were from Surrey, where they had married in 1884. Gladys was born in Addlestone on 17 March 1885, around three years before her brother Clarence. By 1901 the family was living at 35 Northdown Way in Margate. 
+Gladys Waterer was best known in her lifetime as a dramatist and leading light of the [Broadstairs](/dickens/broadstairs) branch of the Dickens Fellowship from its inauguration in 1887. Her parents Clarence and Emmeline Waterer were from Surrey, where they had married in 1884. Gladys was born in Addlestone on 17 March 1885, around three years before her brother Clarence. By 1901 the family was living at 35 Northdown Way in Margate. 
 <param ve-entity eid="Q" aliases="922739">
 <param ve-entity eid="Q" aliases="618045">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/Broadstairs_bandstand_performance_-_geograph.org.uk_-_2053865.jpg" label="Broadstairs" attribution=" Broadstairs bandstand performance by Phillip Perry, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/49/Margate_parade_1904.jpg" label="Margate Parade 1904" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons">
 
-The 1939 census places Gladys back at 35 Northdown Way, presumably helping to look after her father, who is described as 'incapacitated'. Emmeline Waterer would die two years later at the age of 81, and Clarence in 1943, aged 85.
-<param ve-map primary center="Q107337170" zoom="10">
-
+The 1939 census places Gladys back at 35 Northdown Way, presumably helping to look after her father, who is described as 'incapacitated'. Emmeline Waterer would die two years later at the age of 81, and Clarence in 1943, aged 85.   
 But from at least 1937 Gladys had been living with Dora Tatum at [2 Nuckell’s Place](david-copperfield-nuckells-place), the original of Aunt Betsey’s cottage in _David Copperfield_. For the initial Dickens festival she adapted _Pickwick_ with Nina Boreham, followed by _David Copperfield_ (complete with donkeys) in 1938. By 1964 she had tackled every one of the major works bar _Oliver Twist_, which she candidly admitted she couldn’t face living with for the eight months it would have taken to prepare a suitable play. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d0/Betsey_propose_l%27%C3%A9migration_%28David_Copperfield%29.jpeg" label="Betsey propose l'émigration (David Copperfield)" attribution="Hablot Knight Browne (Phiz), Public domain, via Wikimedia Commons">
+<param ve-map primary center="Q107337170" zoom="10">
+
 
 While her name appears only sporadically in newspapers and most often in connection with [Dickens](/dickens/dickens-biography), Waterer was herself the author of at least two novels, _The Third Chance_ (1912) and _The Lady in Mauve_ (1931). 
 
