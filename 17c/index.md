@@ -5,7 +5,7 @@
     a {color: #800000 !important; font-size: 1.2em;}
 </style>
 
-<param ve-config title="17th Century Kent" banners="/images/banners/17c.jpg>
+<param ve-config title="17th Century Kent" banner="/images/banners/17c.jpg>
 
 ### People
 
