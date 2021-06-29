@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Hans Christian Anderson" author="Dr Alyson Hunt" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/f1/Casa_onde_viveu_Hans_Christian_Andersen_em_Sintra_02.jpg"> 
+<param ve-config title="Hans Christian Anderson" author="Dr Alyson Hunt" layout="vtl" banner="'images/banners/19c.jpg"> 
 
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-entity eid="Q1125527" aliases="castle">
