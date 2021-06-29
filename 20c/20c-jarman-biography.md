@@ -1,15 +1,14 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Derek Jarman" author="Jeremy Page" layout="vtl" 
+<param ve-config title="Derek Jarman (1942-1994)" author="Jeremy Page" layout="vtl" 
 banner="images/Jarman2.jpg">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 <param ve-entity eid="Q2602144" aliases="Old Romney">
 <param ve-entity eid="Q911577" aliases="Dungeness">
 <param ve-entity eid="Q590422" aliases="Northwood">
 
-### 1942-1994
+#
 
-**Places:** Lived in Dungeness 1986-1994
-
+**Places:** Lived in Dungeness 1986-1994   
 Derek Jarman, painter, poet, film-maker, was born in 1942 in Northwood, Thanet (not quite ‘behind the great white cliffs of Dover’ as stated by Jarman in Chroma), and died at St Bartholomew’s Hospital, Smithfield in the City of London in 1994. In the last volume of his diaries _Smiling in Slow Motion_, Jarman poignantly records a fall of snow at Dungeness on 20 December 1993 and his relief at the receipt of a letter from the Reverend Ford confirming he can be buried at St Clement’s Churchyard, Old Romney.
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness in general and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the _Ingoldsby Legends_ – in 1986 at the age of 44. He would later be moved to declare: ‘Dungeness, Dungeness, your beauty is the best, forget the hills and valleys’ (in _Derek Jarman’s Garden_, his last book) and was even able to detect ‘wonderment’ in the nuclear power station.
 <param ve-image label="Prospect Cottage"

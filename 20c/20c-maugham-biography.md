@@ -1,8 +1,11 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title=" William Somerset Maugham (1874-1965)" author=" Laura Allen" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1f/W._Somerset_Maugham_signature.svg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title=" William Somerset Maugham (1874-1965)" author=" Laura Allen" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1f/W._Somerset_Maugham_signature.svg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q964785" aliases="Whitstable">
 <param ve-entity eid="Q3360332" aliases="King’s School">
+
+#
 
 An English playwright, novelist, and short story writer born in Paris, Maugham is seen as one of the most popular writers of the inter-war period.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/William_Somerset_Maugham_1965.jpg" label="William Somerset Maugham 1965" attribution="Anefo, CC0, via Wikimedia Commons">
