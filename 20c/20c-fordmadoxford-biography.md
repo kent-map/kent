@@ -1,13 +1,13 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Ford Madox Ford" author="Professor Max Saunders" layout="vtl" 
-banner="https://upload.wikimedia.org/wikipedia/commons/d/da/a photo to go on the banner strip.jpg">
+<param ve-config title="Ford Madox Ford (1873-1939)" author="Professor Max Saunders" layout="vtl" 
+banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 <param ve-entity eid="Q642884" aliases="Bonnington">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 <param ve-entity eid="Q2309424" aliases="Postling">
 <param ve-entity eid="Q1863660" aliases="Sandling Junction">
 <param ve-entity eid="Q921173" aliases="Aldington Knoll">
 
-### 1873-1939
+#
 
 Ford was originally named ‘Ford Hermann Hueffer’. His father was the German émigré Wagnerian and music critic of the _Times_, Francis Hueffer; his mother, Catherine, was the daughter of Pre-Raphaelite painter Ford Madox Brown. But after the First World War Ford changed his name to ‘Ford Madox Ford’. He was born in Merton, and brought up in Hammersmith. But in 1894 he eloped with his childhood sweetheart Elsie Martindale, and they moved to the Romney Marsh, where Ford lived until they gradually separated from 1907-09. 
 <param ve-image
@@ -39,5 +39,6 @@ Ford befriended a group of extraordinary writers in the area, whom he was the fi
 
 >They had just run into a bank of solid fog that seemed to encounter them with a soft, ubiquitous blow. It was blinding; it was deadening to sounds; it was in a sense mournful; but it was happy, too, in its romantic unusualness. They couldn’t see the gleam of the lamps; they could hardly hear the step of the horse; the horse had fallen at once to a walk. They agreed that neither of them could be responsible for losing the way; in the circumstances that was impossible. Fortunately the horse would take them somewhere; it had belonged to a local higgler: a man that used the roads buying poultry for re-sale. . . . They agreed that they had no responsibilities; and after that went on for unmeasured hours in silence; the mist growing, but very, very gradually, more luminous. . . . Once or twice, at a rise in the road, they saw again the stars and the moon, but mistily. On the fourth occasion they had emerged into the silver lake; like mermen rising to the surface of a tropical sea. . . .[^ref1]
 
+### References
 
 [^ref1]: Ford, _Some Do Not_ . . ., ed. Max Saunders (Manchester: Carcanet, 2010), 170-71.
