@@ -1,8 +1,11 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Ellen Terry’s funeral, 24 July 1928" author="Carla Danella" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/02/Small_Hythe_Place_-_geograph.org.uk_-_171263.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Ellen Terry’s funeral, 24 July 1928" author="Carla Danella" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/02/Small_Hythe_Place_-_geograph.org.uk_-_171263.jpg">
 
 <param ve-entity eid="Q614560" aliases="Tenterden">
 <param ve-entity eid="Q3486845" aliases="SmallHythe">
 <param ve-entity eid="Q7543679" aliases="Smallhythe Place">
+
+#
 
 In the days before the great Victorian actress Ellen Terry died on 21 July 1928, the nation had been on tenterhooks for news of her health. An efficient ‘news bureau’, staffed with her daughter [Edy Craig](/20c/20c-craig-biography)’s friends, had been set up in her house at Smallhythe Place to field press inquiries, but reporters descended nonetheless. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/51/Hayman_Seleg_Mendelssohn%2C_Ellen_Terry_1886.jpg" label="Ellen Terry, 1886" attribution="Hayman Seleg Mendelssohn, Public domain, via Wikimedia Commons">
