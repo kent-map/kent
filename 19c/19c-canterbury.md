@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Canterbury in the 19th Century" author="Martin Watts" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Canterbury in the 19th Century" author="Martin Watts" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
