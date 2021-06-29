@@ -26,6 +26,8 @@ country of barracks; but only here and there a soldier.’[^ref3]
 The Victorian era will always be associated with the railways, and the present station of Canterbury West lies close to the terminus of the first railway to the City. This was the Canterbury and Whitstable Railway – or [Crab and Winkle Line](/canterbury/20c-canterbury-railway) – which was opened in 1830. The line was developed to give Canterbury access to the ‘new’ working port at Whitstable, as navigation on the River Stour had become very restricted by heavy silting. The C & WR was the first railway in Britain to run a scheduled passenger service and offer season tickets to its regular travellers. It was joined to the South Eastern Railway at Canterbury West in 1846.
 <param ve-image url="https://stor.artstor.org/stor/c968b1f6-1fe2-4b97-ba54-488194230fed" label="The Crab and Winkle Railway" attribution="Astrid Stilma, by kind permission of Patrick Marrin"> 
 
+### References
+
 [^ref1]: Price, Chris, The Canterbury Catch Club 1826: Music in the Frame, Cambridge Scholars Publishing, 2019.   
 [^ref2]: See Canterbury Historical & Archaeological Society Notebook pages at www.canterbury-archaeology.org.uk   
 [^ref3]: Cobbett, William. _Rural Rides_.  ed George Woodcock. Penguin: London, 1985. 207-8.   
