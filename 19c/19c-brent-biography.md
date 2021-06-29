@@ -30,7 +30,6 @@ Still, it must be confessed that many readers of [Edwin Drood](/edwin-drood-cura
 Brent himself died of heart disease at his house, 8 Dane John Grove, on 23 April 1882.
 <param ve-image url="https://stor.artstor.org/stor/000006fe-369e-488c-909b-955d19db4123" label="Don John Grove, with Brent's house on the far left" attribution="Martin Crowther">
 
-### Article by Prof Carolyn Oulton 
 
 ### Bibliography 
 
