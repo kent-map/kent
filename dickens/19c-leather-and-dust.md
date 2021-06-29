@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Leather and dust: David Copperfield’s shoes and the Dover Road" author="Elizabeth Waterman-Scrase" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Leather and dust: David Copperfield’s shoes and the Dover Road" author="Elizabeth Waterman-Scrase" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q5303515" aliases="Dover road">
