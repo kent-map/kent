@@ -2,6 +2,8 @@
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
+#
+
 One of the more surprising features of Canterbury is that, despite the cathedral being the home of the Church of England, no Archbishop of Canterbury was enthroned there until John Bird Sumner in 1848. In fact, until 1901, every Archbishop permanently resided in Lambeth Palace, close to the seat of power in Westminster, although this was somewhat ameliorated by the actions of Victoria’s last Archbishop, Frederick Temple (1896-1902). Archbishop Temple oversaw the rebuilding of the palace in the cathedral grounds, which initiative allowed subsequent primates to spend more time in the city of their cathedral. It should also be noted that Queen Victoria, the second longest serving head of the Church of England, only once visited the city during her reign, and did not grace the cathedral with her presence. 
 <param ve-image url="https://stor.artstor.org/stor/0f2de866-06f5-4ffa-a17b-bdf59b8003f2" label="Canterbury Cathedral"> 
 
