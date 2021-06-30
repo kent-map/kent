@@ -191,6 +191,13 @@ Helena Kelly holds a doctorate from the University of Oxford but is currently an
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Martin%20Latham%20for%20author%20page.jpg)
 
+##
+[**Richard Maltby**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/richardmaltby.JPG)
+
+Richard Maltby, retired head of history at The King’s School in Canterbury and author of an illustrated history of Canterbury (Pevensey Press, 1994), takes us through the growth of Canterbury in the 20th century to become the foremost commercial, educational and tourist centre in the south-east outside London. He takes us through the maps of the human and physical impact of two world wars and the accelerating economic pressures of the late 20th century upon the historic and spiritual character of England’s most ancient cathedral city. A section to be completed offsets the 20th century urban and commercial expansion of the city by the successful preservation of recreational areas and the green spaces along the banks and islands of the river Sour as it divides through the city.
+
     
 ##
 [**Peter Merchant**]()
