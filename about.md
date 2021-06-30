@@ -192,7 +192,7 @@ Helena Kelly holds a doctorate from the University of Oxford but is currently an
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Martin%20Latham%20for%20author%20page.jpg)
 
 ##
-[**Richard Maltby**]
+[**Richard Maltby**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/richardmaltby.JPG)
 
