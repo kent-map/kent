@@ -36,6 +36,5 @@ Ferguson, John. _Stealthy Terror._ London: Penguin, 1954.
 [^ref1]: His address is given in local papes as 6 Devonshire Terrace. With thanks to Hilary Tolputt.   
 [^ref2]: With thanks to Hilary Tolputt.
 [^ref3]: _Folkestone, Hythe, Sandgate & Cheriton Herald_. 2 December 1933. 8.
-                                          
 [^ref4]: _Folkestone, Hythe, Sandgate & Cheriton Herald_. 6 July 1935. 10.  
 [^ref5]: With thanks to Mary Annetts, St Barbe Museum.
