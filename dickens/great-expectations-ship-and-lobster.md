@@ -1,7 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config 
        title="The Ship and Lobster" 
-       banner="images/Grammar_School_Gate_Rochester.jpg"
+       banner="images/banners/19c.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 
