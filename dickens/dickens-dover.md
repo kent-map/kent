@@ -2,6 +2,7 @@
 <param ve-config 
        title="Dickens and Dover" 
        author="Professor Carolyn Oulton"
+       banner="/images/banners/19c.jpg"
        layout="vtl">
 
 
