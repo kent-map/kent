@@ -34,14 +34,15 @@ In the opening scene of [_Great Expectations_](/dickens/great-expectations-curat
 <param ve-image url="/images/Cooling churchyard.jpg" label="Cooling Churchyard">
 
 Visiting St James’s where the graves are located, it is easy to imagine how vulnerable a child in this position would feel. A few feet away the church porch invites him to seek a legalised sanctuary that is just out of reach, while his parents’ inability to protect him is ironically registered through their physical presence – one of the most uncomfortable moments is the convict’s expression of relief at hearing they are dead, and at one point Pip is literally made to sit on their tombstone. Given the darkness of this imagining, it is extraordinary to think that Dickens brought family and friends to picnic here.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9e/Porch_of_St._James_Church%2C_Cooling_-_geograph.org.uk_-_1364156.jpg" label="Porch of St James's Church, Cooling" attribution="Paul Farmer, CC BY-SA 2.0, via Wikimedia Commons">
 
-To the child brought up to believe unquestioningly in adult authority, the convict’s threat that his confederate can infiltrate the home itself is intensely real. Even when Pip is duly sent home to find ‘wittles’ and a file, he knows that he can be kept under surveillance for miles as he moves through ‘dykes and mounds and gates’ with only the ‘scattered cattle’ to witness his terror.
-
+To the child brought up to believe unquestioningly in adult authority, the convict’s threat that his confederate can infiltrate the home itself is intensely real. Even when Pip is duly sent home to find ‘wittles’ and a file, he knows that he can be kept under surveillance for miles as he moves through ‘dykes and mounds and gates’ with only the ‘scattered cattle’ to witness his terror.   
 The full tragedy of the scenario may strike an adult – reading this passage in the church porch on a damp day, the hopelessness of Magwitch’s plight resonates in his very speech, despite his initial treatment of Pip. To look out across the ‘dark flat wilderness beyond the churchyard’ on such a day is to realise that there is no shelter for either child or convict. By the time he tells his story the narrating Pip is deeply conscious of this. But as his reticence on this point reminds us, it is here that the child first learns what it means to keep a guilty secret.    
 See also [Mobile Landscapes](/dickens/mobile-landscapes)   
 Feeling active? You may want to try this [Heron Cycle Trail](https://explorekent.org/activities/heron-cycle-trail-the-hoo-peninsula/)   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Cooling_Marshes_-_geograph.org.uk_-_1116640.jpg" label="Cooling Marshes" attribution="David Anstiss">
 
-###Bibliography.
+### Bibliography.
 
 Dickens, Charles. _Great Expectations_. Oxford: Oxford World’s Classics, 1993.   
 [About St James' Church]( http://coolingchurch.org.uk/about/). Accessed 28 November 2018.   
