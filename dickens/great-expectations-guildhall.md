@@ -1,8 +1,27 @@
-<param ve-config style="article">
+<param ve-config 
+       title="The Guildhall, Rochester"
+       banner="/mages/banners/19c.jpg"
+       author="Ken Moffat and Carolyn W. de la L. Oulton"
+       layout="vtl">
 
-## The Guildhall
+<!-- Global entities -->
+<param title="Charles Dickens" eid="Q5686">
+<param title="Rochester" eid="Q507517">
+<param title="Rod Hull" eid="Q7356235">
+<param title="Satis House" eid="Q26377461">
 
->‘The Hall was a queer place, I thought, with higher pews in it than a church - and with people hanging over the pews looking on - and with mighty Justices (one with a powdered head) leaning back in chairs, with folded arms, or taking snuff, or going to sleep, or writing, or reading the newspapers - and with some shining black portraits on the walls, which my unartistic eye regarded as a composition of hardbake and sticking-plaister. Here, in a corner, my indentures were duly signed and attested, and I was "bound;" Mr. Pumblechook holding me all the while as if we had looked in on our way to the scaffold, to have those little preliminaries disposed of.’ _Great Expectations_. Chapter 13.
+<!-- Kent with map centered at Rochester -->
+<param ve-map center="51.254291, 0.876473" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820">
+<param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860">
+<param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808">
+<param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
+
+#
+
+_The Hall was a queer place, I thought, with higher pews in it than a church - and with people hanging over the pews looking on - and with mighty Justices (one with a powdered head) leaning back in chairs, with folded arms, or taking snuff, or going to sleep, or writing, or reading the newspapers - and with some shining black portraits on the walls, which my unartistic eye regarded as a composition of hardbake and sticking-plaister. Here, in a corner, my indentures were duly signed and attested, and I was "bound;" Mr. Pumblechook holding me all the while as if we had looked in on our way to the scaffold, to have those little preliminaries disposed of.’_ _Great Expectations_. Chapter 13.
 
 ![The Guildhall - Reproduced from an original F. Frith & Co postcard.](images/guildhallrochester.jpg){: .right}
 
@@ -12,17 +31,11 @@ The Justices were sitting in the Town Hall near at hand, and we at once went ove
 
 This scene anticipates a moment much later in the novel, when Pip will release himself from his own guilt by showing public support to Magwitch at his trial. 
 
-The Guildhall itself does not feature again in the novel, but Pip would have to pass it on his many journeys through the town, when staying at the Blue Boar inn, paying his respects to Miss Havisham at Satis House or making his less frequent visits to Joe at the forge.
+The Guildhall itself does not feature again in the novel, but Pip would have to pass it on his many journeys through the town, when staying at the Blue Boar inn, paying his respects to Miss Havisham at Satis House or making his less frequent visits to Joe at the forge.   
+See also [Mobile Landscapes](/dickens/mobile-landscapes)   
+Want to see Pip's local town for yourself? You may want to try this [Rochester Walk](https://explorekent.org/activities/rochester-walk-a-feast-of-fine-architecture/)   
 
+### Bibliography
 
-See also [Mobile Landscapes](/dickens/mobile-landscapes)
+Dickens, Charles. _Great Expectations_ 
 
-Want to see Pip's local town for yourself? You may want to try this [Rochester Walk](https://explorekent.org/activities/rochester-walk-a-feast-of-fine-architecture/)
-
-**Article written by:** Ken Moffat and Carolyn Oulton
-
-## Bibliography
-Dickens, Charles. _Great Expectations_ ''Great Expectations.''
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA1NTkwNjddfQ==
--->
