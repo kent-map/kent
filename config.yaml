@@ -9,8 +9,7 @@ customCSS: /css/custom.css
 # the account and repository name
 acct: kent-map
 repo: kent
-
-ref: v1.1.0
+# ref: v1.1.0
 
 ######################################################
 # Defines options shown in the header navigation menu
@@ -29,7 +28,7 @@ nav:
 contactForm:
   toEmail:
   - ron.snyder@ithaka.org
-  - carolyn.oulton@canterbury.ac.uk
+  # - carolyn.oulton@canterbury.ac.uk
   subject: Kent Digital Map Contact
 
 #######################################################
