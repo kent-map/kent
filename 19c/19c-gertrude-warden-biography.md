@@ -41,7 +41,7 @@ Warden’s description of the area suggests that she had visited Lympne, as it i
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/06/Port_Lympne_%2837%29.JPG" label="Lympne" attribution="Serge Ottaviani, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bc/Martello_Towers_14_and_15.jpg" label="Martello Towers near Hythe Ranges" attribution="Michael Coppins, CC BY-SA 4.0, via Wikimedia Commons">
 
-As Hervey walks, we can imagine Gertrude’s daily walks as she comes to terms with her husband’s sudden death:
+As Hervey walks, we can imagine Gertrude’s daily outings as she comes to terms with her husband’s sudden death:
 “I wandered between the lines of sand dunes and waves , until a very keen country hunger made me turn inland again, and struggle in the teeth of the wind up the rugged cliff side towards the church tower.”[^ref16] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/88/St_Stephen%2C_Lympne_2.JPG" label="St Stepehn's Church, Lympne" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
