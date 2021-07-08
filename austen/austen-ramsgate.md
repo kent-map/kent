@@ -7,11 +7,11 @@ banner="/images/banners/19c.jpg">
 Visited at least once, in 1803.   
 **Publication(s)** _Pride and Prejudice_, _Mansfield Park_
 ‘My sister, who is more than ten years my junior, was left to the guardianship of my mother's nephew, Colonel Fitzwilliam, and myself. About a year ago, she was taken from school, and an establishment formed for her in London; and last summer she went with the lady who presided over it, to Ramsgate; and thither also went Mr. Wickham, undoubtedly by design; […] he so far recommended himself to Georgiana, whose affectionate heart retained a strong impression of his kindness to her as a child, that she was persuaded to believe herself in love, and to consent to an elopement.’_Pride and Prejudice_ (1813)
-<param ve-image url="/images/View of Ramsgate Town and Harbour.jpg" label="View of Ramsgate Town and Harbour." attribution="© The British Library Board .003KTOP00000017U007B0000 / Maps K.Top.17.7.b Images Online.">
+<param ve-image url="/images/View of Ramsgate Town and Harbour.jpg" label="View of Ramsgate Town and Harbour" attribution="© The British Library Board .003KTOP00000017U007B0000 / Maps K.Top.17.7.b Images Online">
 
 During the Regency period, [Ramsgate](/dickens/19c-ramsgate) blossomed from a small watering hole into an important garrison town and social destination.  Edward Austen Knight is known to have gone there with his family, and on one such occasion at least, Jane Austen accompanied him.  She may have visited at other times as well.  A family acquaintance, Sir Egerton Brydges, recalls seeing Austen there at this time:    
 'When I knew Jane Austen I never suspected that she was an authoress.  But my eyes told me that she was fair and handsome, slight and elegant, with cheeks a little too full.  The last time, I think, I saw her was at [Ramsgate](/dickens/19c-ramsgate) in 1803.'[^ref1]   
-<param ve-image url="hhttps://stor.artstor.org/stor/20f1480d-349c-4c15-b57e-86a67db8eed2" label="Marine Library, Ramsgate">
+<param ve-image url="https://stor.artstor.org/stor/20f1480d-349c-4c15-b57e-86a67db8eed2" label="Marine Library, Ramsgate">
 
 Jane Austen and her siblings may have been particularly keen to visit around this time because their brother Francis was a Royal Navy officer and commanded the North Foreland Sea Fencibles here in 1803-4.  While stationed in [Ramsgate](/dickens/19c-ramsgate), Francis met a local woman, Mary Gibson, whom he married in 1806.[^ref2]   Jane Austen celebrated their nuptials in an unpublished poem written for her niece, Fanny Knight:
 
@@ -23,17 +23,17 @@ Canterbury they have passed through;
    Next succeeded Stamford-bridge;   
 Chilham village they came fast through;   
    Now they've mounted yonder ridge.   
-
+   
 Down the hill they're swift proceeding,   
    Now they skirt the Park around;   
 Lo! the Cattle sweetly feeding,   
    Scamper, startled, at the sound!    
-
+   
 Run, my Brothers, to the Pier gate!   
    Throw it open, very wide!   
 Let it not be said that we're late   
    In welcoming my Uncle's Bride!    
-
+   
 To the house the chaise advances;   
    Now it stops—They're here, they're here!   
 How d'ye do, my Uncle Francis?   
