@@ -1,5 +1,6 @@
 title: Kent Digital Map
 tagline: 
+description: This site provides a set of themed essays about Kent, a county in South East England. Kent has a rich history and provided inspiration for a number of writers and artists.
 banner: /images/Bleak_house_postcard.jpg
 favicon: /images/favicon.ico
 customCSS: /css/custom.css
@@ -17,10 +18,11 @@ ref: v1.1.0
 nav:
 - label: About
   icon: fas fa-info
+  action: load-page
   path: /about
 - label: Contact Us
   icon: fas fa-envelope
-  path: "/contact-us"
+  action: contact-us
 
 # If the /contact-us path is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
