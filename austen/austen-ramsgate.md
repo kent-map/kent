@@ -14,7 +14,8 @@ During the Regency period, [Ramsgate](/dickens/19c-ramsgate) blossomed from a sm
 <param ve-image url="https://stor.artstor.org/stor/20f1480d-349c-4c15-b57e-86a67db8eed2" label="Marine Library, Ramsgate">
 
 Jane Austen and her siblings may have been particularly keen to visit around this time because their brother Francis was a Royal Navy officer and commanded the North Foreland Sea Fencibles here in 1803-4.  While stationed in [Ramsgate](/dickens/19c-ramsgate), Francis met a local woman, Mary Gibson, whom he married in 1806.[^ref2]   Jane Austen celebrated their nuptials in an unpublished poem written for her niece, Fanny Knight:
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8a/Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_Mr._Denny_entreated_permission_to_introduce_his_friend.jpg" label="Avec Wickham" attribution="C. E. Brock  (died 1938), Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e3/P%26P41-Avec_Wickham_%28BrockNB%29.JPG
+label="Avec Wickham" attribution="C. E. Brock  (died 1938), Public domain, via Wikimedia Commons">
 
 See they come, post haste from Thanet,   
    Lovely couple, side by side;   
@@ -39,7 +40,7 @@ How d'ye do, my Uncle Francis?
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg" label="Godmersham, 1799" attribution="Unknown author, Public domain, via Wikimedia Commons">
    
 In Austen’s published work, [Ramsgate](/dickens/19c-ramsgate)  is associated with less reputable male characters.  In _Pride and Prejudice_, the ostensibly charming militia officer George Wickham connives to seduce and elope with the young, impressionable, and very wealthy Georgiana Darcy at [Ramsgate](/dickens/19c-ramsgate).  In _Mansfield Park_, [Ramsgate](/dickens/19c-ramsgate)  becomes a destination for the selfish and profligate Tom Bertram.  In her private life, Austen also casts dispersions on the port, commenting in a letter to her sister: “Ed. Hussey is warned out of Pett, and talks of fixing at [Ramsgate](/dickens/19c-ramsgate).  Bad taste!  He is very fond of the sea, however. Some taste in that, and some judgment, too, in fixing on [Ramsgate](/dickens/19c-ramsgate), as being by the sea”.[^ref4]   Austen seems to have harboured reservations about the opportunities for loose or immoral behaviour in [seaside towns]( /19c/19c-seaside) such as [Ramsgate](/dickens/19c-ramsgate). 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/35/PrideandPrejudiceCH15.jpg" label="Pride and Prejudice" attribution="C. E. Brock, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8a/Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_Mr._Denny_entreated_permission_to_introduce_his_friend.jpg" " label="Pride and Prejudice" attribution="C. E. Brock, Public domain, via Wikimedia Commons">
 
 ### Bibliography 
 Selwyn, David, ed. _The Poetry of Jane Austen and the Austen Family_. Iowa City: University of Iowa Press, 1997.   
