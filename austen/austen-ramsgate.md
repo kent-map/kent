@@ -5,7 +5,7 @@ banner="/images/banners/19c.jpg">
 #
 
 Visited at least once, in 1803.   
-**Publication(s)** _Pride and Prejudice_, _Mansfield Park_
+**Publication(s)** _Pride and Prejudice_, _Mansfield Park_   
 ‘My sister, who is more than ten years my junior, was left to the guardianship of my mother's nephew, Colonel Fitzwilliam, and myself. About a year ago, she was taken from school, and an establishment formed for her in London; and last summer she went with the lady who presided over it, to Ramsgate; and thither also went Mr. Wickham, undoubtedly by design; […] he so far recommended himself to Georgiana, whose affectionate heart retained a strong impression of his kindness to her as a child, that she was persuaded to believe herself in love, and to consent to an elopement.’_Pride and Prejudice_ (1813)
 <param ve-image url="/images/View of Ramsgate Town and Harbour.jpg" label="View of Ramsgate Town and Harbour" attribution="© The British Library Board .003KTOP00000017U007B0000 / Maps K.Top.17.7.b Images Online">
 
@@ -22,18 +22,15 @@ They've left behind them Richard Kennet
 Canterbury they have passed through;   
    Next succeeded Stamford-bridge;   
 Chilham village they came fast through;   
-   Now they've mounted yonder ridge.   
-   
+   Now they've mounted yonder ridge.      
 Down the hill they're swift proceeding,   
    Now they skirt the Park around;   
 Lo! the Cattle sweetly feeding,   
-   Scamper, startled, at the sound!    
-   
+   Scamper, startled, at the sound!       
 Run, my Brothers, to the Pier gate!   
    Throw it open, very wide!   
 Let it not be said that we're late   
-   In welcoming my Uncle's Bride!    
-   
+   In welcoming my Uncle's Bride!       
 To the house the chaise advances;   
    Now it stops—They're here, they're here!   
 How d'ye do, my Uncle Francis?   
