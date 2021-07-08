@@ -14,7 +14,7 @@ During the Regency period, [Ramsgate](/dickens/19c-ramsgate) blossomed from a sm
 <param ve-image url="https://stor.artstor.org/stor/20f1480d-349c-4c15-b57e-86a67db8eed2" label="Marine Library, Ramsgate">
 
 Jane Austen and her siblings may have been particularly keen to visit around this time because their brother Francis was a Royal Navy officer and commanded the North Foreland Sea Fencibles here in 1803-4.  While stationed in [Ramsgate](/dickens/19c-ramsgate), Francis met a local woman, Mary Gibson, whom he married in 1806.[^ref2]   Jane Austen celebrated their nuptials in an unpublished poem written for her niece, Fanny Knight:
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e3/P%26P41-Avec_Wickham_%28BrockNB%29.JPG" label="Avec Wickham" attribution="C. E. Brock  (died 1938), Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8a/Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_Mr._Denny_entreated_permission_to_introduce_his_friend.jpg" label="Avec Wickham" attribution="C. E. Brock  (died 1938), Public domain, via Wikimedia Commons">
 
 See they come, post haste from Thanet,   
    Lovely couple, side by side;   
