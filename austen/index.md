@@ -19,7 +19,7 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 
 - author: Susan Civale
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/CanterburyRoper1806 DETAIL.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d5de25a-71d0-4a9a-b60c-05cdc4417817)
 
 During visits to her brother Edward Austen Knight between 1794 and 1813, Austen frequently took day trips to Canterbury. In addition to making social calls, Austen enjoyed the other attractions Canterbury had to offer, including visits to the Cathedral, shopping, concerts, and balls.
 
@@ -46,7 +46,7 @@ Austen stayed with her brother Edward Austen Knight at Godmersham Park six times
 
 - author: Susan Civale
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/austen/images/View of Ramsgate Town and Harbour.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e8/View_of_Ramsgate_Town_and_Harbour_by_James_Ward_1799.jpg)
 
 Austen visited Ramsgate in 1803 while staying at Godmersham Park with her brother Edward Austen Knight, and while another brother, Francis, was stationed there as a Royal Navy officer. In her published work, Ramsgate is associated with morally dubious characters such as George Wickham in Pride and Prejudice and Tom Bertram in Mansfield Park.
 
