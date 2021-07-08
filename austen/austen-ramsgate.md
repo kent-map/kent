@@ -42,11 +42,9 @@ In Austen’s published work, [Ramsgate](/dickens/19c-ramsgate)  is associated w
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/35/PrideandPrejudiceCH15.jpg" label="Pride and Prejudice" attribution="C. E. Brock, Public domain, via Wikimedia Commons">
 
 ### Bibliography 
-
 Selwyn, David, ed. _The Poetry of Jane Austen and the Austen Family_. Iowa City: University of Iowa Press, 1997.   
 
 ### References
-
 [^ref1]: Egerton Brydges, Autobiography of Sir Egerton Brydges. 41.   
 [^ref2]:  Paul Poplawski, 63.   
 [^ref3]:Lines Written by Jane Austen for the Amusement of a Niece, (afterwards Lady Knatchbull) on the arrival of Captn & Mrs Austen at Godmersham Park after their marriage July 1806.’ _The Poetry of Jane Austen and the Austen Family_ 4.   
