@@ -88,3 +88,4 @@ Warden, F. _A Spoilt girl_, 1895.
 [^ref18]:  _London Evening Standard_, Friday 02 August 1895.   
 [^ref19]:  _Folkestone, Hythe, Sandgate & Cheriton Herald_, Saturday 03 December 1898.   
 [^ref20]:  _East Kent Times and Mail_, 1 Feb 1899.   
+[^ref21]: _The Oxford Companion to Edwardian Fiction_
