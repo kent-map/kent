@@ -43,6 +43,7 @@ In Austen’s published work, [Ramsgate](/dickens/19c-ramsgate)  is associated w
 
 ### Bibliography 
 Selwyn, David, ed. _The Poetry of Jane Austen and the Austen Family_. Iowa City: University of Iowa Press, 1997.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/82/Thomson-PP09.jpg" label="The Officers of the shire" attribution="Hugh Thomson (1860-1920), Public domain, via Wikimedia Commons">
 
 ### References
 [^ref1]: Egerton Brydges, Autobiography of Sir Egerton Brydges. 41.   
