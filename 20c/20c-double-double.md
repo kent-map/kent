@@ -1,16 +1,18 @@
-<param ve-config style="article">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Double Double, by John Brunner " author="Dr Michael Goodrum" layout="vtl" 
+banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301">
 
-## 'Double, Double' by John Brunner
+<param ve-entity eid="Q618045" aliases="Margate">
 
-Margate, 1969.
+#
 
-It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition… 
-
+Margate, 1969.   
+It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition…    
 Bruno and his band drive down from London in search of a venue for an “open-air freakout,” a suitable beach with white cliffs, which fellow band member, an American called Glenn, had seen at 7.15am from the deck of the Antwerp ferry (which, in 1969, ran thrice weekly to the Albert Docks). While searching for the beach, the band encounter a particularly groovy marine biologist couple, Tom and Netta Reedwall, who are undertaking research on fish at a nearby facility and who plan to take time off to enjoy the psychedelic sounds of the band, which they have previously heard on the radio, should the gig take place. In an act of clunky foreshadowing, the band's hit single is called ‘Seadeath’, which is precisely what they encounter while having a picnic on the beach. A test pilot has crashed and died in the waters off the coast but the band seemingly encounter him emerging from the sea. Rather than a miraculous survival, the ‘pilot’ turns out to be a fish capable of consuming and then doubling everything it encounters. The plot is subsequently thickened by an elderly lady who lives alone in a fire-damaged cottage by the sea, a coastal chemical facility, a biology lab, a mental institution, a pirate radio station off the coast of Margate, and a drunken journalist who senses his chance for one last shot at the big time. Carnage unfolds around the strange creature from the oceanic depths terrorising this rural part of Kent. Nothing can stop the psychedelic sounds of Bruno and the Hermetic Tradition, who are being booked into a range of holiday resorts along the Kent coast; a week’s paid gig at the fictional resort of Coastley is the band’s reward for their part in hunting down the creature, though a residency at Margate is not off the cards, should they play them correctly.
+<param ve-image url="https://stor.artstor.org/stor/c5a69374-84aa-4934-a9d4-4469d7e40ace" label="Scuba" attribution="Thomas Crowther">
 
 Notes on the landscape might seem extraneous given all the other details but, truthfully, the best thing about the book is its descriptions of the Kent countryside. Fellow science fiction author, Spider Robinson, thought so little of the book that he lamented that “it’s a shame that writers have to do this stuff to stay alive.” A critical reader might suggest that authors would do rather better doing less of this, and more of things that people might actually want to read. The conclusion, where the battle between the police, Tom Reedwall, and the final fish creature (in half-human, half-dog form) finishes with a bang as nitric acid, fire, and pyrotechnics mix, with fatal consequences for the creature truly is a final ‘Seadeath’.
+<param ve-image url="https://stor.artstor.org/stor/d56de85e-015f-4305-9adb-9ddb12601fcc" label="Multiplying" attribution="Thomas Crowther">
 
 _Double, Double_ is not very good, and it has not aged well. The language of the 1960s pop scene has obviously dated, and the novel also exposes the values of its time. Apart from the elderly Miss Beeding, the women are all young and attractive and seem to spend an unnessary amount of time in their underwear – there is talk of them ‘wiggling their hips’ to get their way, and a policeman spends longer than necessary looking at the scantily clad sleeping girls travelling with the band. Brunner’s attempts to appear progressive by having a Caribbean band member are clunky – though it is perhaps unfair to judge him by this novel, when it sits in his bibliography between _Stand on Zanzibar_ (1968), which won both the Hugo and British Science Fiction Association awards in 1969, and _The Jagged Orbit_ (1970), which also won the BSFA. What the novel does achieve, at least to some extent, is a sense of driving through North Kent in the late 1960s, winding through small towns to holiday camps, and of watching the Kent coast unfurl from onboard a ferry travelling up to London from the continent. On the whole, the book might be regrettable but at least Kent comes out of it well.
-
-**Article written by:** Michael Goodrum
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Waldens%27_Caravan_Park%2C_Seasalter_-_geograph.org.uk_-_772645.jpg" label="Walden's Caravan Park, Seasalter" attribution="Elliott Simpsonr">
