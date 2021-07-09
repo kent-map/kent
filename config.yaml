@@ -9,7 +9,7 @@ customCSS: /css/custom.css
 # the account and repository name
 acct: kent-map
 repo: kent
-# ref: main
+ref: main
 
 ######################################################
 # Defines options shown in the header navigation menu
