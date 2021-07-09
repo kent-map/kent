@@ -26,7 +26,7 @@ By 1839 he was living in Chatham, and his poetry was appearing regularly in the 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Kentish_Coronal_Dadd.jpg" label="Frontispiece to Kentish Coronal (1841) edited by Henry Gardiner Adams" attribution="Google Books via Wikimedia Commons">
 <param ve-map center="Q729006" zoom="15">
 
-[Dickens](https://kent-maps.online/dickens/) cried off any personal contribution, but was happy to subscribe on the basis of his ‘many happy recollections connected with Kent’.  In 1845 Adams wrote him too a sonnet. Their correspondence continued almost until the end of [Dickens](https://kent-maps.online/dickens/)’s life, and he agreed to read twice (in 1858 and 1861) for the benefit of the Chatham Mechanics’ Institute, of which Adams was Hon. Secretary.  
+[Dickens](https://kent-maps.online/dickens/) cried off any personal contribution, but was happy to subscribe on the basis of his ‘many happy recollections connected with Kent’.  In 1845 Adams wrote him too a sonnet. Their correspondence continued almost until the end of [Dickens](https://kent-maps.online/dickens/)’s life, and he agreed to read twice (in 1858 and 1861) for the benefit of the Chatham Mechanics’ Institute, of which Adams was Hon. Secretary. Adams treads carefully in an article of 1857, making no claims to the great author's acquaintance as he notes that 'Perhaps the circumstance of having passed much of his youth in [Chatham](/dickens/dickens-chatham), induced Dickens to select this spot'.[^ref10]
 <param ve-map center="Q729006" zoom="15">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/01/The_English_Bodley_family_%281900%29_%2814781259085%29.jpg" label="Charles Dickens reading a story" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/24/Charles_Dickens%2C_public_reading%2C_1867.jpg" label="Charles Dickens, public reading, 1867" attribution="Charles A. Barry, Public domain, via Wikimedia Commons">
@@ -41,7 +41,8 @@ By 1872 Adams, now operating as a chemist in Canterbury, was in trouble with cre
 
 ### Bibliography
 
-Adams, Henry Gardiner. ‘Sonnets to Alfred Tennyson, on learning that he was residing at Boxley.’ Maidstone Journal and Kentish Advertiser. 9 August 1842. 2. British Newspaper Archive. Accessed 21 May 2021.   
+Adams, Henry Gardiner. 'Among the Rhododendrons.' _The Ladies' Cabinet of Fashion, Music and Romance_. 1 July 1857. 39-40. Nineteenth Century UK Periodicals. link.gale.com/apps/doc/DX1902063877/NCUK?u=ccc_uni&sid=bookmark-NCUK&xid=52c22fa2. 
+--.Sonnets to Alfred Tennyson, on learning that he was residing at Boxley.’ Maidstone Journal and Kentish Advertiser. 9 August 1842. 2. British Newspaper Archive. Accessed 21 May 2021.   
 --. ‘Sonnets by H. G. Adams. 1: To Charles Dickens’. Kentish Independent. 19 April 1845. 5. [Reprinted from _Jerrold’s Magazine_]. Accessed 21 May 2021.   
 Archive of the Royal Literary Fund. British Library. Loan 96 RLF. 1/1950/1: 14 Sep 1874.   
 --. Loan 96 RLF 1/1950/10 : 3 Jul 1876   
@@ -59,7 +60,8 @@ Bauman Rare Books catalogue. https://www.baumanrarebooks.com/rare-books/dickens-
 [^ref7]: Letter from Dickens to H. G. Adams. 18 January 1840.    
 [^ref8]: Letter from Dickens to H. G. Adams. 30 November 1858.    
 [^ref9]: Letter from Dickens to H. G. Adams. 6 October 1861.    
-[^ref10]: Letter from Dickens to H. G. Adams. 19 February 1866.  
-[^ref11]: Letter from Dickens to H. G. Adams. 21 June 1868. Pilgrim 12. 135.   
-[^ref12]: Letter from Dickens to H. G. Adams. 25 August 1868. Pilgrim 12. 173.   
+[^ref10]: 'Among the Rhododendrons'. 40.
+[^ref11]: Letter from Dickens to H. G. Adams. 19 February 1866.  
+[^ref12]:Letter from Dickens to H. G. Adams. 21 June 1868. Pilgrim 12. 135.   
+[^ref13: Letter from Dickens to H. G. Adams. 25 August 1868. Pilgrim 12. 173.   
 			
