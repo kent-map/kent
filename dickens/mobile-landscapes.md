@@ -44,7 +44,7 @@ You’ll need a map because there are no signposts. There are witnesses of cours
 
 Of course at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At Gravesend we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the sea? [Broadstairs](/dickens/broadstairs-19th-century) or [Dover](/dickens/dickens-dover), it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
 <param ve-image url="https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467" label="Baynes's Map of the Environs of Gravesend, 1864" attribution="by kind permission of Patrick Marrin">
-<param ve-map center="Q676689" zoom="15">>
+<param ve-map center="Q676689" zoom="15">
 
 ## The adventure begins
 
