@@ -56,7 +56,7 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 ##
 [**Fran Allfrey**]()
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran Allfrey.jpeg)
+![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran%20Allfrey.jpeg)
 
 Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity, and the emotional, social, and political stakes of these remakings.
 
@@ -72,7 +72,7 @@ Pat Argar has a PhD from Canterbury Christ Church University. Her research inter
 
 - twitter: @SophieBaldock
 
-![](https://iiif.juncture-digital.org/thumbnail?rotate=180&url=https://raw.githubusercontent.com/kent-map/kent/main/images/sophiebaldock.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?rotation=180&url=https://raw.githubusercontent.com/kent-map/kent/main/images/sophiebaldock.jpg)
 
 Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive, one of the first hybrid (part-paper, part-digital) literary archives acquired by the Library. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). She grew up in Kent, and in the summer enjoys swimming in the sea along the east Kent coast.  
 
@@ -95,7 +95,7 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 ##
 [**Bethia Carter**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?rotate=270&url=https://raw.githubusercontent.com/kent-map/kent/main/images/Bethia%20Carter.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?rotation=90&url=https://raw.githubusercontent.com/kent-map/kent/main/images/Bethia%20Carter.JPG)
 
 Bethia Carter is currently in her third year studying at Canterbury Christ Church University, for a BA (Hons) degree in English Language and Communication and French. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
 
