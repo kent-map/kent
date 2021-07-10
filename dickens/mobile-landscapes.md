@@ -38,7 +38,7 @@
 <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808">
 <param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
 
-## Welcome to Dickens Land!
+### Welcome to Dickens Land!
 
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
 <param ve-image url="images/Dickens_Land_books.jpg">
@@ -47,7 +47,7 @@ Of course at this point you don’t exactly know where you are, let alone where 
 <param ve-image url="https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467" label="Baynes's Map of the Environs of Gravesend, 1864" attribution="by kind permission of Patrick Marrin">
 <param ve-map center="Q676689" zoom="15">
 
-## The adventure begins
+### The adventure begins
 
 The study where parts of _David Copperfield_ were written. The view from the [Swiss chalet](//dickens/dickens-swiss-chalet) where Dickens was working on the morning of his death. The churchyard where Pip first meets Magwitch. Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of Dickens’s novels, including  _David Copperfield_ – are huge. No one wants to stomp round Canterbury on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
 <param title="Chatham" eid="Q729006">
@@ -84,7 +84,7 @@ It is a far cry from the grandeur of [Fort House](/dickens/dickens-fort-house), 
 
 We had of course planned to have lunch at the Albion, but like Dickens when the hotel’s kitchen boy made off with the last of the cold chicken, we were thwarted by circumstances. And if we had not gone to Wyatt and Jones instead, we might never have thought to go for the pie (wrong novel but who cared), nor would we have met the man at the window table who sat and beamed like Dr Strong, almost certainly without seeing us. We got lost on the way back, of course we did. But we were still [singing](https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408) when we reached Canterbury. 
 
-## Canterbury
+### Canterbury
 
 Our next adventure began in the Canterbury Christ Church University library, where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
 <param ve-compare curtain url="images/In Dickens Land. The Little Inn, Canterbury.JPG" title="Little Inn, Dickens Land" attribution="tbd">
@@ -113,12 +113,12 @@ We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old)
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Abode_Hotel_Canterbury.jpg" label="The Abode Hotel, Canterbury" attribution="DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons">
 
-##  (In which we don’t go to) Folkestone
+###  (In which we don’t go to) Folkestone
 
 Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbury. [Jerome](/19c/19c-jerome-biography)’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is [Broadstairs](/dickens/broadstairs), been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of [Folkestone](/dickens/dickens-folkestone). Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](/dickens/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
 <param ve-image iiifmirador primary manifest="https://raw.githubusercontent.com/kent-map/kent/main/manifests/folkestone.json">
 
-## Chalk
+### Chalk
 
 In [Broadstairs](/dickens/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover](/dickens/dickens-dover) ), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
  
@@ -128,7 +128,7 @@ The day we went to find Pip Pirrip nothing was initially visible from anywhere. 
 But the real stumbling block was Joe Gargery’s forge. In our determination not to miss it we must have stopped at every plausible cottage in a five mile radius. Finally we found one called The Old Forge in Chalk, believed to be the village described in the book. There was no obvious place to park, and anyway it was raining. But we had come here to feel something, so we stashed the car a hundred yards down a narrow lane, marched back in single file and tried not to look like burglars as we stared wanly at the cladding on the walls and told each other it was typically Kentish. Pip arrives back at the forge from his encounter with Magwitch cold, damp and frightened. We were cold, damp and slightly inhibited by thinking what fools we’d feel if this turned out to be the wrong house.
 <param ve-image primary url="images/Forge Cottage Chalk.JPG" title="Forge Cottage, Chalk" attribution="©Ken Moffat">
 
-## Cooling
+### Cooling
 
 And then the moment that somehow changed everything. Reading the first scene of the novel where it is meant to have happened, in the churchyard of [Cooling Church](/dickens/great-expectations-cooling). The church porch is small with a bench on each side. Imagine sitting on one of these benches, legs pulled up in front of you, leaning back towards the church. From here you can see straight ahead into the churchyard. There is the tomb stone, just a few feet away, where Magwitch hoists Pip and demands a file and wittles. Imagine that facing you on the other bench someone is sitting with a scuffed paperback copy of the novel, open at the first page. They are not in your line of vision but you know that they can see you. You want them to see you, to register this book being written on your face. There is more than one voice here, you can hear the roughness of the man assuming rights over a child he has never met; the diffidence of the boy as he introduces his parents, the names of the dead who stand witness and can do nothing. You want to help, but it’s too late, and you know what will happen next but there’s nothing you can do. And you know how it will end – a fading away, the closing of the book, and silence. That will be thank you. You’ll have to move, look at each other, but that’s ok, you’ve done this before. And then you’re running through the rain, towards the river.
 <param ve-image url="images/Cooling churchyard.jpg" title="Cooling Churchyard" attribution="">
@@ -157,7 +157,7 @@ The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectat
 <param ve-image url="http://www.victorianweb.org/authors/dickens/gallery/111.jpg" title="Cobham, Kent: The Leather Bottle" fit="cover" attribution="http://www.victorianweb.org/authors/dickens/gallery/111.html">
 <param ve-map center="Q949561" zoom="15">
 
-## Great Expectations Part 2. Rochester.
+### Great Expectations Part 2. Rochester.
 
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
 
@@ -196,7 +196,7 @@ Revving.
 
 And then we got lost again, but at least Estella wasn’t there to see it.
 
-## Gad’s Hill: Journey’s End.
+### Gad’s Hill: Journey’s End.
 
 Honestly. Parents.   
 > _Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up._  
@@ -222,7 +222,7 @@ Oh come on, you didn't think we - two respectable middle-aged people in broad da
 <param ve-image url="images/Gads1864067463.jpg" title="Gads1866" attribution="©The British Library Board Maps 67463">
 <param ve-image url="images/CDMamieKatie.jpg">
 
-## Conclusion: in which we justify all this gadding about by insisting that it was serious work.
+### Conclusion: in which we justify all this gadding about by insisting that it was serious work.
 
 So – as any teacher worth their salt would want to be assured – what did we actually learn from this experience? Well for one thing, that neither of us has missed our vocation in the car industry. 
 
