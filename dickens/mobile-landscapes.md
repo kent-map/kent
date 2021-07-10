@@ -13,7 +13,14 @@
 <param title="Gravesend" eid="Q676689">
 <param title="Cobham" eid="Q949561">
 
+<!-- Kent with map centered at Rochester -->
 <param ve-map center="Q1094104" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820">
+<param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860">
+<param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808">
+<param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
 
 ## Welcome to Dickens Land!
 
