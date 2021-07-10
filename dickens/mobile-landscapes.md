@@ -12,6 +12,23 @@
 <param title="Cooling" eid="Q2649453">
 <param title="Gravesend" eid="Q676689">
 <param title="Cobham" eid="Q949561">
+<param title="Charles Dickens" eid="Q5686">
+<param title="Chalk" eid="Q5068781" aliases="the village|the town">
+<param ve-entity label="Cooling Marshes" geojson="/geojson/marshes.json" fill-opacity="0.4" article="/articles/Cooling_marshes.md" aliases="the marshes">
+<param ve-entity title="Dover Road" geojson="/geojson/david-copperfield-dover-road">
+<param title="Estella" eid="Q5400904" article="/articles/Estella.md">
+<param title="Folkestone" eid="Q375314">
+<param title="Gravesend" eid="Q676689">
+<param ve-entity label="Joe Gargery" article="/articles/Joe.md" aliases="Joe">
+<param title="Guildhall" eid="Q15272878" aliases="Guildhall">
+<param title="Kent" eid="Q23298">
+<param title="London" eid="Q84" scope="local">
+<param title="Abel Magwitch" eid="Q4666596" aliases="Magwitch" article="/articles/Magwitch.md">
+<param title="Miss Havisham" eid="Q3316519" article="/articles/Miss_Havisham.md">
+<param title="Philip Pirrip" eid="Q7197170" article="/articles/Pip.md">
+<param title="Rochester" eid="Q507517">
+<param title="Rod Hull" eid="Q7356235">
+<param title="Satis House" eid="Q26377461">
 
 <!-- Kent with map centered at Rochester -->
 <param ve-map center="Q1094104" zoom="10">
