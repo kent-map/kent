@@ -21,12 +21,15 @@ You’ll need a map because there are no signposts. There are witnesses of cours
 <param ve-image url="images/Dickens_Land_books.jpg">
 
 Of course at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At Gravesend we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the sea? [Broadstairs](/dickens/broadstairs-19th-century) or [Dover](/dickens/dickens-dover), it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
+<param ve-image url="https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467" label="Baynes's Map of the Environs of Gravesend, 1864" attribution="by kind permission of Patrick Marrin">
 
 ## The adventure begins
 
 The study where parts of _David Copperfield_ were written. The view from the [Swiss chalet](//dickens/dickens-swiss-chalet) where Dickens was working on the morning of his death. The churchyard where Pip first meets Magwitch. Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of Dickens’s novels, including  _David Copperfield_ – are huge. No one wants to stomp round Canterbury on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
 <param title="Chatham" eid="Q729006">
- 
+<param ve-compare curtain url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="The House of Agnes" attribution="Nat Lowden and Sara Gelencer">
+<param ve-compare url="https://stor.artstor.org/stor/d4255b03-4d19-411c-b6b5-cd6e7632fe73" label="The House of Agnes">
+
 Enter the literary tour guide – portable, readable and the inspiration for this account of our own peregrinations. From the 1880s onwards guides to Dickens’s Kent provided helpful advice on where to go, how to get there, and what to feel on arrival. The more enterprising, such as Robert Allbut’s 1886 _Rambles in Dickens-Land_, even included helpful extracts from the novels so that the literary pilgrim could orient themselves on arrival. But 150 years after Dickens’s death, what is it like to revisit these places, tracking both the author and his characters where he has told us we will find them, to read the books in the places where they are set? And what does it mean to engage in this apparently naïve activity with someone else who is also old enough to know better?
 
 Much like authors William Hughes and Frederic Kitton, who visited Kent around 1890 looking for Dickens Land, we began with considerable enthusiasm, vague expectations and a delicious sense that we could ramble around the countryside pretending to be fictional characters and legitimately call it work.
@@ -62,10 +65,10 @@ We had of course planned to have lunch at the Albion, but like Dickens when the 
 ## Canterbury
 
 Our next adventure began in the Canterbury Christ Church University library, where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
-<param ve-image primary url="images/In Dickens Land. The Little Inn, Canterbury.JPG" title="Little Inn, Dickens Land" attribution="tbd">
+<param ve-compare curtain url="images/In Dickens Land. The Little Inn, Canterbury.JPG" title="Little Inn, Dickens Land" attribution="tbd">
+<param ve-compare url="https://stor.artstor.org/stor/540e3df7-9640-4a34-bdd0-0db1e789a285" label="The Sun Hotel: Micawber's Little Inn, Canterbury" attribution="Not known">
 
-At this point the narrative is interrupted while a brief debate ensues:
-
+At this point the narrative is interrupted while a brief debate ensues:   
 > _I have wasp spray. Show me the place._  
 > _I’m not taking my trousers off._  
 > _Don’t be so wet._  
@@ -76,6 +79,8 @@ Spot which one of us went to boarding school as a child (bath nights Wednesday a
 The three flights of stairs proved to be an interesting challenge, but healthier than using the lift. The real problem was that the volumes of letters are extremely heavy - and did we mention there were twelve of them? Didn’t Dickens have anything else to do with his time? But it just so happens that he really, really liked Broadstairs. Lucky neither of us is writing a PhD on Canterbury (which barely gets a mention). Oh. Clearly it was time for lunch and further immersive research into pies.
 
 Revived and reanimated (for one of us at least elderflower jelly would become a symbol of all that is worth having in this life) we set off to find Dr Strong’s house, which we knew was on Lady Wootton’s Green because we’d read it somewhere. Although clearly not in the 1928 _Canterbury and Charles Dickens_, which could have told us that the whole idea was ‘absurd’.
+<param ve-compare curtain url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" label="Lady Wootton's Green, Canterbury (2021)">
+<param ve-compare url="https://stor.artstor.org/stor/deb8a6fd-bc51-42fb-8ac2-28b556c482ab" label="Lady Wootton's Green, Canterbury (1905 or earlier)">
 
 With hindsight, a recurring feature of these expeditions was our enthusiasm for engaging passersby in conversation, something in the manner of the ancient mariner. As a rule they treated us as harmless eccentrics, which made us feel more than ever like Aunt Betsey and Mr Dick. But on this occasion an old man kindly got off his bike and directed us immediately and with confidence  to the very spot where Dr Strong’s dictionary took shape. We all stared in awe for a while, took it in turns to identify conclusive architectural features and pontificate – we had, surely we all felt this, been drawn together in a shared experience that we would not lightly forget. It only occurred to us some weeks later that we had no idea who it was we’d been talking to and no reason whatsoever to believe that we had been looking at the right house. 
 
@@ -91,7 +96,6 @@ Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbur
 [Great Expectations: A curated walk](great-expectations-curated-walk)
 
 ## Chalk
-
 
 In [Broadstairs](/dickens/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover](/dickens/dickens-dover) ), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
  
