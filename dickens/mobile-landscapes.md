@@ -157,8 +157,7 @@ The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectat
 
 ### Great Expectations Part 2. Rochester.
 
-As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
-
+As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday.    
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).  
 <param ve-image url="images/Bull-Hotel-postcard-Rochester.jpg" title="Bull Inn" fit="cover" attribution="">
 
@@ -177,10 +176,10 @@ Pip detected guiltily looking at his feet. Distracted glance in our direction fr
 It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella in the very [Guildhall](/dickens/great-expectations-guildhall) (now a [museum](https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/) ) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/GuildhallRochester.jpg" title="Guild Hall, Rochester" attribution="Wikimedia Commons">
 
-Back in the High Street it was clearly time for further refreshments. With only a cursory nod to the [Swiss Chalet](/dickens/dickens-swiss-chalet), now held in the garden of the Nun’s House (otherwise [Eastgate House](/dickens/edwin-drood-eastgate-house)) beloved of Rosa Budd in _The Mystery of Edwin Drood_ (as one email memorably put it around this time, ‘With a few minor exceptions, I would merrily strangle most Dickens heroines with my own hands’), we spotted a charming looking establishment, went through the door and straight into Estella. The real one this time. She was at least seven foot tall, immaculately turned out and quite determined that if she had to serve us at all, we were both going to have tea. Pip, who by this time had had about enough, calmly explained that while his friend was indeed having tea, he himself had endured as much abuse as he was going to take from a fictional character, and had in fact asked her for a glass of moët. 
-‘So what,’ she demanded in icy tones, ‘am I meant to do with this tea?’
-‘Drink it yourself’ suggested Pip promptly.
-Her expression as she poured it down the sink would have shaken anyone but a born teacher.
+Back in the High Street it was clearly time for further refreshments. With only a cursory nod to the [Swiss Chalet](/dickens/dickens-swiss-chalet), now held in the garden of the Nun’s House (otherwise [Eastgate House](/dickens/edwin-drood-eastgate-house)) beloved of Rosa Budd in _The Mystery of Edwin Drood_ (as one email memorably put it around this time, ‘With a few minor exceptions, I would merrily strangle most Dickens heroines with my own hands’), we spotted a charming looking establishment, went through the door and straight into Estella. The real one this time. She was at least seven foot tall, immaculately turned out and quite determined that if she had to serve us at all, we were both going to have tea. Pip, who by this time had had about enough, calmly explained that while his friend was indeed having tea, he himself had endured as much abuse as he was going to take from a fictional character, and had in fact asked her for a glass of moët.    
+‘So what,’ she demanded in icy tones, ‘am I meant to do with this tea?’   
+‘Drink it yourself’ suggested Pip promptly.   
+Her expression as she poured it down the sink would have shaken anyone but a born teacher.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Eastgate_House%2C_Rochester_High_St.JPG" title="Eastgate House, Rochester High St." attribution="Wikimedia Commons">
 
 Gratifyingly we had a cool half hour in which to show that she didn’t scare _us_, before suddenly remembering the meter and making a less dignified exit than we might have chosen.   
