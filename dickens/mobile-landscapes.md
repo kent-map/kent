@@ -45,12 +45,12 @@ You’ll need a map because there are no signposts. There are witnesses of cours
 
 Of course at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At Gravesend we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the sea? [Broadstairs](/dickens/broadstairs-19th-century) or [Dover](/dickens/dickens-dover), it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
 <param ve-image url="https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467" label="Baynes's Map of the Environs of Gravesend, 1864" attribution="by kind permission of Patrick Marrin">
-<param ve-map center="Q676689" zoom="15">
+<param ve-map center="Q676689" zoom="10">
 
 ### The adventure begins
 
 The study where parts of _David Copperfield_ were written. The view from the [Swiss chalet](//dickens/dickens-swiss-chalet) where Dickens was working on the morning of his death. The churchyard where Pip first meets Magwitch. Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of Dickens’s novels, including  _David Copperfield_ – are huge. No one wants to stomp round Canterbury on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
-<param ve-map center="Q729006" zoom="15">
+<param ve-map center="Q729006" zoom="10">
 
 Enter the literary tour guide – portable, readable and the inspiration for this account of our own peregrinations. From the 1880s onwards guides to Dickens’s Kent provided helpful advice on where to go, how to get there, and what to feel on arrival. The more enterprising, such as Robert Allbut’s 1886 _Rambles in Dickens-Land_, even included helpful extracts from the novels so that the literary pilgrim could orient themselves on arrival. But 150 years after Dickens’s death, what is it like to revisit these places, tracking both the author and his characters where he has told us we will find them, to read the books in the places where they are set? And what does it mean to engage in this apparently naïve activity with someone else who is also old enough to know better?
 
@@ -136,7 +136,7 @@ And then the moment that somehow changed everything. Reading the first scene of 
 
 This is the river down which Pip will row so desperately in his abortive attempt to smuggle Magwitch out of the country from Gravesend. We nearly ended up in it when the sat nav helpfully directed us to the [Ship and Lobster](/dickens/great-expectations-ship-and-lobster) via a small yard hemmed in by industrial buildings, and over a jetty. Convinced we had taken a wrong turning we reversed cautiously back out and down the back road by which we’d just arrived. For one moment it seemed that lunch was going to be a burger from a layby kiosk. But before we gave in it was worth approaching those men in luminous yellow – you did just address them as ‘mate’, didn’t you? – and asking if the pub was nearby. Some gesticulating, much nodding, a word that sounded like ‘mate’ repeated several times; by this point the driver feared she might be eating alone. (It’s an experience in itself observing a male bonding ritual and marvelling at how much mileage can seemingly be got out of this one word). And then we were moving slowly back in the direction of the yard.
 <param ve-image url="images/Ship and Lobster.JPG" title="Ship and Lobster *©Ken Moffat*">
-<param ve-map center="Q676689" zoom="15">
+<param ve-map center="Q676689" zoom="10">
 
 Pies. We’d been opting for them consistently since [Broadstairs](/dickens/broadstairs). ‘I’m sorry to say I’ve eat your’ - by now it would have felt like treachery to order anything else. This one came with chips or alternatively, was it salad? The juke box was new since Magwitch’s day, the paint job possibly not. But the landlady herself had so clearly stepped out of (whichever Dickens novel you like) and our need of wittles was by this point so intense, that we were by no means inclined to be critical.
 
@@ -153,7 +153,7 @@ The next half hour was spent in restrained disagreement over whether to rev the 
 
 The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectations-ship-and-lobster) and a substantial cream tea at the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) in Cobham  may seem to the reader inadequate. All we can suggest is that the reader gets stuck in a fjord for half an hour and sees how they like it. Besides, the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) is a living museum of Dickensiana, from newspaper cuttings to cigarette cards. It would have been a crime to miss it out. Sitting at a corner table, listening to the chuckling of the teapot over china cups, while peering myopically over each other’s heads the better to read framed autographs and old advertisements — there was no need to say another word.
 <param ve-image url="http://www.victorianweb.org/authors/dickens/gallery/111.jpg" title="Cobham, Kent: The Leather Bottle" attribution="http://www.victorianweb.org/authors/dickens/gallery/111.html">
-<param ve-map center="Q949561" zoom="15">
+<param ve-map center="Q949561" zoom="10">
 
 ### Great Expectations Part 2. Rochester.
 
