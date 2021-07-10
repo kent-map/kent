@@ -17,6 +17,7 @@
 <param ve-entity label="Cooling Marshes" geojson="/geojson/marshes.json" fill-opacity="0.4" article="/articles/Cooling_marshes.md" aliases="the marshes">
 <param ve-entity title="Dover Road" geojson="/geojson/david-copperfield-dover-road">
 <param title="Estella" eid="Q5400904" article="/articles/Estella.md">
+<param title="Dover" eid="Q179224">
 <param title="Folkestone" eid="Q375314">
 <param title="Gravesend" eid="Q676689">
 <param ve-entity label="Joe Gargery" article="/articles/Joe.md" aliases="Joe">
@@ -130,12 +131,12 @@ But the real stumbling block was Joe Gargery’s forge. In our determination not
 ## Cooling
 
 And then the moment that somehow changed everything. Reading the first scene of the novel where it is meant to have happened, in the churchyard of [Cooling Church](/dickens/great-expectations-cooling). The church porch is small with a bench on each side. Imagine sitting on one of these benches, legs pulled up in front of you, leaning back towards the church. From here you can see straight ahead into the churchyard. There is the tomb stone, just a few feet away, where Magwitch hoists Pip and demands a file and wittles. Imagine that facing you on the other bench someone is sitting with a scuffed paperback copy of the novel, open at the first page. They are not in your line of vision but you know that they can see you. You want them to see you, to register this book being written on your face. There is more than one voice here, you can hear the roughness of the man assuming rights over a child he has never met; the diffidence of the boy as he introduces his parents, the names of the dead who stand witness and can do nothing. You want to help, but it’s too late, and you know what will happen next but there’s nothing you can do. And you know how it will end – a fading away, the closing of the book, and silence. That will be thank you. You’ll have to move, look at each other, but that’s ok, you’ve done this before. And then you’re running through the rain, towards the river.
-<param ve-image iiif primary url="images/Cooling churchyard.jpg" title="Cooling Churchyard" attribution="">
+<param ve-image url="images/Cooling churchyard.jpg" title="Cooling Churchyard" attribution="">
 <param ve-map center="Q2649453" zoom="10">
 
 This is the river down which Pip will row so desperately in his abortive attempt to smuggle Magwitch out of the country from Gravesend. We nearly ended up in it when the sat nav helpfully directed us to the [Ship and Lobster](/dickens/great-expectations-ship-and-lobster) via a small yard hemmed in by industrial buildings, and over a jetty. Convinced we had taken a wrong turning we reversed cautiously back out and down the back road by which we’d just arrived. For one moment it seemed that lunch was going to be a burger from a layby kiosk. But before we gave in it was worth approaching those men in luminous yellow – you did just address them as ‘mate’, didn’t you? – and asking if the pub was nearby. Some gesticulating, much nodding, a word that sounded like ‘mate’ repeated several times; by this point the driver feared she might be eating alone. (It’s an experience in itself observing a male bonding ritual and marvelling at how much mileage can seemingly be got out of this one word). And then we were moving slowly back in the direction of the yard.
-<param ve-image primary url="images/Ship and Lobster.JPG" title="Ship and Lobster *©Ken Moffat*">
-<param ve-map center="Q676689" zoom="10">
+<param ve-image url="images/Ship and Lobster.JPG" title="Ship and Lobster *©Ken Moffat*">
+<param ve-map center="Q676689" zoom="15">
 
 Pies. We’d been opting for them consistently since [Broadstairs](/dickens/broadstairs). ‘I’m sorry to say I’ve eat your’ - by now it would have felt like treachery to order anything else. This one came with chips or alternatively, was it salad? The juke box was new since Magwitch’s day, the paint job possibly not. But the landlady herself had so clearly stepped out of (whichever Dickens novel you like) and our need of wittles was by this point so intense, that we were by no means inclined to be critical.
 
@@ -150,25 +151,25 @@ And then we stalled right in the middle of it, on one of those bends that only t
 Nothing if not practical, that’s us.   
 The next half hour was spent in restrained disagreement over whether to rev the engine and risk flooding it, or sit in a foot of water playing gently with the accelerator from time to time to let the car ‘breathe’. The monotony of these discussions was broken up by a succession of motorists coming the other way. One by one they came alongside, wound down the window and asked if we were all right. 
 
-'We’ve stalled'' we would explain on each occasion, at which point the other driver would say indignantly, ''Well there’s nothing I can do about it'', and spray us with water as they disappeared down the hill.
+'We’ve stalled' we would explain on each occasion, at which point the other driver would say indignantly, 'Well there’s nothing I can do about it', and spray us with water as they disappeared down the hill.
 
 The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectations-ship-and-lobster) and a substantial cream tea at the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) in Cobham  may seem to the reader inadequate. All we can suggest is that the reader gets stuck in a fjord for half an hour and sees how they like it. Besides, the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) is a living museum of Dickensiana, from newspaper cuttings to cigarette cards. It would have been a crime to miss it out. Sitting at a corner table, listening to the chuckling of the teapot over china cups, while peering myopically over each other’s heads the better to read framed autographs and old advertisements — there was no need to say another word.
-<param ve-map center="Q949561" zoom="10">
-<param ve-image primary url="http://www.victorianweb.org/authors/dickens/gallery/111.jpg" title="Cobham, Kent: The Leather Bottle" fit="cover" attribution="http://www.victorianweb.org/authors/dickens/gallery/111.html">
+<param ve-image url="http://www.victorianweb.org/authors/dickens/gallery/111.jpg" title="Cobham, Kent: The Leather Bottle" fit="cover" attribution="http://www.victorianweb.org/authors/dickens/gallery/111.html">
+<param ve-map center="Q949561" zoom="15">
 
 ## Great Expectations Part 2. Rochester.
 
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
 
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).  
-<param ve-image primary url="images/Bull-Hotel-postcard-Rochester.jpg" title="Bull Inn" fit="cover" attribution="">
+<param ve-image url="images/Bull-Hotel-postcard-Rochester.jpg" title="Bull Inn" fit="cover" attribution="">
 
 Whenever he leaves the forge Pip is confronted with a choice between the marshy expanse of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the Blue Boar on his visits from London, rather than stay with Joe at the forge. 
 
 We were forced to question his decision when – having assumed we would find the inn without effort – we found ourselves in a startlingly empty, neon blue and purple bar, trying not to notice the prevalence of cocktail umbrellas or to look each other in the eye. Immediately we found ourselves speaking in whispers, as if we had been kidnapped or inadvertently walked into the wrong meeting. Clearly this was never going to do, but we spent several minutes plotting our escape in a kind of semaphore (which was odd, as there were apparently no staff to be offended, and the door was wide open), before finally bolting back into the sunshine and agreeing never to speak of this again. The actual Blue Boar was of course shut, so we took refuge in a quaintly oak-beamed pub a few doors down, where a motherly woman, almost certainly descended from Joe and Biddy’s children, took one look at our still ashen faces and put some extra gravy on the pie.
 
 Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [Restoration House](/dickens/great-expectations-restoration-house). 
-<param ve-image primary url="images/RestorationHouse.JPG" title="Restoration House " fit="cover">
+<param ve-image url="images/RestorationHouse.JPG" title="Restoration House">
 
 [‘He calls the knaves, Jacks, this boy!’](http://www.literatureproject.com/great-expectations/great_8.htm)  
 A child on the opposite bench clearly didn’t care what he called them and went on playing with a convenient oak leaf.  
@@ -176,13 +177,13 @@ A child on the opposite bench clearly didn’t care what he called them and went
 Pip detected guiltily looking at his feet. Distracted glance in our direction from mother of still indifferent child. Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
 
 It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella in the very [Guildhall](/dickens/great-expectations-guildhall) (now a [museum](https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/) ) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
-<param ve-image primary url="https://upload.wikimedia.org/wikipedia/commons/7/70/GuildhallRochester.jpg" title="Guild Hall, Rochester" attribution="Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/GuildhallRochester.jpg" title="Guild Hall, Rochester" attribution="Wikimedia Commons">
 
 Back in the High Street it was clearly time for further refreshments. With only a cursory nod to the [Swiss Chalet](/dickens/dickens-swiss-chalet), now held in the garden of the Nun’s House (otherwise [Eastgate House](/dickens/edwin-drood-eastgate-house)) beloved of Rosa Budd in _The Mystery of Edwin Drood_ (as one email memorably put it around this time, ‘With a few minor exceptions, I would merrily strangle most Dickens heroines with my own hands’), we spotted a charming looking establishment, went through the door and straight into Estella. The real one this time. She was at least seven foot tall, immaculately turned out and quite determined that if she had to serve us at all, we were both going to have tea. Pip, who by this time had had about enough, calmly explained that while his friend was indeed having tea, he himself had endured as much abuse as he was going to take from a fictional character, and had in fact asked her for a glass of moët. 
 ‘So what,’ she demanded in icy tones, ‘am I meant to do with this tea?’
 ‘Drink it yourself’ suggested Pip promptly.
 Her expression as she poured it down the sink would have shaken anyone but a born teacher.
-<param ve-image primary url="https://upload.wikimedia.org/wikipedia/commons/6/64/Eastgate_House%2C_Rochester_High_St.JPG" title="Eastgate House, Rochester High St." attribution="Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Eastgate_House%2C_Rochester_High_St.JPG" title="Eastgate House, Rochester High St." attribution="Wikimedia Commons">
 
 Gratifyingly we had a cool half hour in which to show that she didn’t scare _us_, before suddenly remembering the meter and making a less dignified exit than we might have chosen.   
 Technically it still had a minute to run when we saw the traffic warden, but this was no time to take risks.   
@@ -201,12 +202,12 @@ Honestly. Parents.
 > _Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up._  
 > _Maybe there really is a secret tunnel in your bedroom cupboard._  
 > _If you work hard perhaps you will even live at [Gad’s Hill](/dickens/dickens-gads-hill) one day._  
-> <param ve-image primary url="images/Gadshill In Dickens Land.JPG" title="Gad's Hill In Dickens Land " fit="cover">
+> <param ve-image url="images/Gadshill In Dickens Land.JPG" title="Gad's Hill In Dickens Land">
 
 If you really feel that your child is destined to become one of the country’s greatest writers, you might want to try the third of these. It worked for John Dickens, as his son Charles was the first to acknowledge. Anyone currently studying English GCSE at [Gad’s Hill](/dickens/dickens-gads-hill) School, you may also be interested to learn that Dickens left formal education by the age of 15. He’s probably on your syllabus now. Funny how life works out.
  
 It was October half term when we found ourselves gazing over the very lawn where Dickens was photographed reading to his daughters Mamie and Katey in the last few years of his life. And if he could do it…
-<param ve-image primary url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters" fit="cover">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters" fit="cover">
 
 To repeat. It was half term. The school was very much closed. Memories of an unfortunate encounter with a geography teacher when late for an outreach meeting and spotted climbing a fence. But still.
 
@@ -218,20 +219,18 @@ To repeat. It was half term. The school was very much closed. Memories of an unf
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 
 Oh come on, you didn't think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like David Copperfield before us, made our way back towards the [Dover Road](/dickens/david-copperfield-dover-road)
-<param ve-image primary url="images/Gads1864067463.jpg" title="Gads1866. ©The British Library Board Maps 67463" fit="cover">
-<param ve-image primary url="images/CDMamieKatie.jpg" fit="cover">
+<param ve-image url="images/Gads1864067463.jpg" title="Gads1866" attribution="©The British Library Board Maps 67463">
+<param ve-image url="images/CDMamieKatie.jpg">
 
 ## Conclusion: in which we justify all this gadding about by insisting that it was serious work.
 
 So – as any teacher worth their salt would want to be assured – what did we actually learn from this experience? Well for one thing, that neither of us has missed our vocation in the car industry. 
 
-But we also started to understand that the Victorians read aloud to each other – much as we read to children today  –  for one very good reason. Shared reading promotes familial, friendship and even romantic bonds because it is extraordinarily intimate (no there isn’t a ‘Knew it!’ twist coming up, this isn’t Strictly Come Dancing). When one adult reads to another they are helping to recover a meaningful tradition (1) with  - so the latest research suggests - demonstrable benefits to wellbeing.
+But we also started to understand that the Victorians read aloud to each other – much as we read to children today  –  for one very good reason. Shared reading promotes familial, friendship and even romantic bonds because it is extraordinarily intimate (no there isn’t a ‘Knew it!’ twist coming up, this isn’t Strictly Come Dancing). When one adult reads to another they are helping to recover a meaningful tradition with  - so the latest research suggests - demonstrable benefits to wellbeing.[^ref3]
 
 To add to that, looking for the ‘original’ place known only from a novel – an activity that was until recently much derided by academics – can throw up exciting questions about the fictional world, even the nature of creativity itself. Sometimes the topography doesn’t match up but the symbolism does, as when Pip makes his stark choice between decency and status (village or town). Or the reading experience is intensified by seeing what a character sees – just try being alone with someone on an isolated marsh while they growl something about ripping out your liver. Really, there’s nothing quite like it.
 
 Dickens is prone to moving places around; as a successful London author David tells us that he can ‘be’ in [Dover](/dickens/dickens-dover) again just by remembering it, ‘As I laid down my pen, a moment since, to think of it, the air from the sea came blowing in again’.  But reading Dickens literally ‘in place’ is particularly rewarding, not least as an acute reminder of how environment becomes character in his novels. Again and again landscape is mobilised to trap, rescue or change characters. To walk through these places, book in hand, can make us feel closer to generations of Davids and Pips, to the friendly strangers of our own chance encounters, and maybe even to each other. 
-
-(1) 'One that is more tiring than one might imagine, and requires regular support in the shape of pies.'
 
 Carolyn talks to Katie Holdway about the research behind 'Mobile Landscapes' in a podcast for the Dickens Society [here](https://soundcloud.com/the-dickens-society?fbclid=IwAR3Vja7DvYKYBZYHbCti9pbGSOZGXkdPxPfIvvnWEUDwRDgidvy3R1xspjE)
 
@@ -246,3 +245,4 @@ Kitton, F. (1925) _The Dickens Country_ London: A. C. Black, [first published 19
 
 [^ref1]: [The Literature Project](https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm)_    
 [^ref2]: Allbutt, R. (1886) _Rambles in Dickens land_   
+[^ref3]: 'One that is more tiring than one might imagine, and requires regular support in the shape of pies.'
