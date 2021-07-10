@@ -110,7 +110,7 @@ The day we went to find Pip Pirrip nothing was initially visible from anywhere. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Chalk_Church%2C_Kent.jpg" label="Chalk Church" attribution="Glen, CC BY 2.0, via Wikimedia Commons">
 
 But the real stumbling block was Joe Gargery’s forge. In our determination not to miss it we must have stopped at every plausible cottage in a five mile radius. Finally we found one called The Old Forge in Chalk, believed to be the village described in the book. There was no obvious place to park, and anyway it was raining. But we had come here to feel something, so we stashed the car a hundred yards down a narrow lane, marched back in single file and tried not to look like burglars as we stared wanly at the cladding on the walls and told each other it was typically Kentish. Pip arrives back at the forge from his encounter with Magwitch cold, damp and frightened. We were cold, damp and slightly inhibited by thinking what fools we’d feel if this turned out to be the wrong house.
-<param ve-image primary url="images/Forge Cottage Chalk.JPG" title="Forge Cottage, Chalk ©Ken Moffat">
+<param ve-image primary url="images/Forge Cottage Chalk.JPG" title="Forge Cottage, Chalk" attribution="©Ken Moffat">
 
 ## Cooling
 
@@ -145,13 +145,12 @@ The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectat
 
 ## Great Expectations Part 2. Rochester.
 
-<param ve-image primary url="images/Bull-Hotel-postcard-Rochester.jpg" title="Bull Inn" fit="cover" attribution="">
-
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
 
-So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' (otherwise the [Bull Inn](https://www.rvbhotel.com/)).  
+So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).  
+<param ve-image primary url="images/Bull-Hotel-postcard-Rochester.jpg" title="Bull Inn" fit="cover" attribution="">
 
-Whenever he leaves the forge Pip is confronted with a choice between the marshy expanse of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the ''Blue Boar'' on his visits from London, rather than stay with Joe at the forge. 
+Whenever he leaves the forge Pip is confronted with a choice between the marshy expanse of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the Blue Boar on his visits from London, rather than stay with Joe at the forge. 
 
 We were forced to question his decision when – having assumed we would find the inn without effort – we found ourselves in a startlingly empty, neon blue and purple bar, trying not to notice the prevalence of cocktail umbrellas or to look each other in the eye. Immediately we found ourselves speaking in whispers, as if we had been kidnapped or inadvertently walked into the wrong meeting. Clearly this was never going to do, but we spent several minutes plotting our escape in a kind of semaphore (which was odd, as there were apparently no staff to be offended, and the door was wide open), before finally bolting back into the sunshine and agreeing never to speak of this again. The actual Blue Boar was of course shut, so we took refuge in a quaintly oak-beamed pub a few doors down, where a motherly woman, almost certainly descended from Joe and Biddy’s children, took one look at our still ashen faces and put some extra gravy on the pie.
 
@@ -172,11 +171,9 @@ Back in the High Street it was clearly time for further refreshments. With only 
 Her expression as she poured it down the sink would have shaken anyone but a born teacher.
 <param ve-image primary url="https://upload.wikimedia.org/wikipedia/commons/6/64/Eastgate_House%2C_Rochester_High_St.JPG" title="Eastgate House, Rochester High St." attribution="Wikimedia Commons">
 
-Gratifyingly we had a cool half hour in which to show that she didn’t scare _us_, before suddenly remembering the meter and making a less dignified exit than we might have chosen. 
-
-Technically it still had a minute to run when we saw the traffic warden, but this was no time to take risks.
-
-Revving. 
+Gratifyingly we had a cool half hour in which to show that she didn’t scare _us_, before suddenly remembering the meter and making a less dignified exit than we might have chosen.   
+Technically it still had a minute to run when we saw the traffic warden, but this was no time to take risks.   
+Revving.  
 
 > _Has she seen us?_  
 > _Just put your foot down, that way, quick._  
@@ -187,19 +184,16 @@ And then we got lost again, but at least Estella wasn’t there to see it.
 
 ## Gad’s Hill: Journey’s End.
 
-<param ve-image primary url="images/Gadshill In Dickens Land.JPG" title="Gad's Hill In Dickens Land " fit="cover">
-
-Honestly. Parents.
-
+Honestly. Parents.   
 > _Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up._  
 > _Maybe there really is a secret tunnel in your bedroom cupboard._  
 > _If you work hard perhaps you will even live at [Gad’s Hill](/dickens/dickens-gads-hill) one day._  
+> <param ve-image primary url="images/Gadshill In Dickens Land.JPG" title="Gad's Hill In Dickens Land " fit="cover">
 
 If you really feel that your child is destined to become one of the country’s greatest writers, you might want to try the third of these. It worked for John Dickens, as his son Charles was the first to acknowledge. Anyone currently studying English GCSE at [Gad’s Hill](/dickens/dickens-gads-hill) School, you may also be interested to learn that Dickens left formal education by the age of 15. He’s probably on your syllabus now. Funny how life works out.
  
 It was October half term when we found ourselves gazing over the very lawn where Dickens was photographed reading to his daughters Mamie and Katey in the last few years of his life. And if he could do it…
 <param ve-image primary url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters" fit="cover">
-
 
 To repeat. It was half term. The school was very much closed. Memories of an unfortunate encounter with a geography teacher when late for an outreach meeting and spotted climbing a fence. But still.
 
@@ -230,13 +224,10 @@ Carolyn talks to Katie Holdway about the research behind 'Mobile Landscapes' in 
 
 ### Bibliography
 
-Allbutt, R. (1886) _Rambles in Dickens land_
-
-Helliar, A. (1924) _A Most strange and curious guide to Broadstairs_. 
-
-Hughes, W. (1893) _A week's tramp in Dickens land_, [first published 1891]
-
-Kitton, F. (1925) _The Dickens Country_ London: A. C. Black, [first published 1905]
+Allbutt, R. (1886) _Rambles in Dickens land_   
+Helliar, A. (1924) _A Most strange and curious guide to Broadstairs_.    
+Hughes, W. (1893) _A week's tramp in Dickens land_, [first published 1891]   
+Kitton, F. (1925) _The Dickens Country_ London: A. C. Black, [first published 1905]   
 
 ### Footnotes
 
