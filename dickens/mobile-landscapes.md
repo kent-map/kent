@@ -110,14 +110,12 @@ We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old)
 <param ve-compare url="https://stor.artstor.org/stor/d4255b03-4d19-411c-b6b5-cd6e7632fe73" label="The House of Agnes">
 
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
-<param ve-image="https://upload.wikimedia.org/wikipedia/commons/6/6f/Abode_Hotel_Canterbury.jpg" label="The Abode Hotel, Canterbury" attribution="DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Abode_Hotel_Canterbury.jpg" label="The Abode Hotel, Canterbury" attribution="DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons">
 
 ##  (In which we don’t go to) Folkestone
 
 Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbury. [Jerome](/19c/19c-jerome-biography)’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is [Broadstairs](/dickens/broadstairs), been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of [Folkestone](/dickens/dickens-folkestone). Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](/dickens/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
 <param ve-image iiifmirador primary manifest="https://raw.githubusercontent.com/kent-map/kent/main/manifests/folkestone.json">
-
-[Great Expectations: A curated walk](great-expectations-curated-walk)
 
 ## Chalk
 
@@ -172,7 +170,7 @@ We were forced to question his decision when – having assumed we would find th
 Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [Restoration House](/dickens/great-expectations-restoration-house). 
 <param ve-image primary url="images/RestorationHouse.JPG" title="Restoration House " fit="cover">
 
->[‘He calls the knaves, Jacks, this boy!’](http://www.literatureproject.com/great-expectations/great_8.htm)  
+[‘He calls the knaves, Jacks, this boy!’](http://www.literatureproject.com/great-expectations/great_8.htm)  
 A child on the opposite bench clearly didn’t care what he called them and went on playing with a convenient oak leaf.  
 'And what coarse hands he has! And what thick boots!’  
 Pip detected guiltily looking at his feet. Distracted glance in our direction from mother of still indifferent child. Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
@@ -244,19 +242,12 @@ Carolyn talks to Katie Holdway about the research behind 'Mobile Landscapes' in 
 
 ### Bibliography
 
-Allbutt, R. (1886) _Rambles in Dickens land_
-
-Helliar, A. (1924) _A Most strange and curious guide to Broadstairs_. 
-
-Hughes, W. (1893) _A week's tramp in Dickens land_, [first published 1891]
-
-Kitton, F. (1925) _The Dickens Country_ London: A. C. Black, [first published 1905]
+Allbutt, R. (1886) _Rambles in Dickens land_   
+Helliar, A. (1924) _A Most strange and curious guide to Broadstairs_.    
+Hughes, W. (1893) _A week's tramp in Dickens land_, [first published 1891]   
+Kitton, F. (1925) _The Dickens Country_ London: A. C. Black, [first published 1905]   
 
 ### Footnotes
 
-[^ref1]: [The Literature Project](https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm)_ 
-[^ref2]: Allbutt, R. (1886) _Rambles in Dickens land_
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDUyNDI5OSwtMTgzODE2NTM3M119
--->
+[^ref1]: [The Literature Project](https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm)_    
+[^ref2]: Allbutt, R. (1886) _Rambles in Dickens land_   
