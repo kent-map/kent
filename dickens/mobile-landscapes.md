@@ -21,8 +21,6 @@
 <param title="Gravesend" eid="Q676689">
 <param ve-entity label="Joe Gargery" article="/articles/Joe.md" aliases="Joe">
 <param title="Guildhall" eid="Q15272878" aliases="Guildhall">
-<param title="Kent" eid="Q23298">
-<param title="London" eid="Q84" scope="local">
 <param title="Abel Magwitch" eid="Q4666596" aliases="Magwitch" article="/articles/Magwitch.md">
 <param title="Miss Havisham" eid="Q3316519" article="/articles/Miss_Havisham.md">
 <param title="Philip Pirrip" eid="Q7197170" article="/articles/Pip.md">
@@ -46,13 +44,12 @@ You’ll need a map because there are no signposts. There are witnesses of cours
 
 Of course at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At Gravesend we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the sea? [Broadstairs](/dickens/broadstairs-19th-century) or [Dover](/dickens/dickens-dover), it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
 <param ve-image url="https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467" label="Baynes's Map of the Environs of Gravesend, 1864" attribution="by kind permission of Patrick Marrin">
+<param ve-map center="Q676689" zoom="15">>
 
 ## The adventure begins
 
 The study where parts of _David Copperfield_ were written. The view from the [Swiss chalet](//dickens/dickens-swiss-chalet) where Dickens was working on the morning of his death. The churchyard where Pip first meets Magwitch. Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of Dickens’s novels, including  _David Copperfield_ – are huge. No one wants to stomp round Canterbury on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
 <param title="Chatham" eid="Q729006">
-<param ve-compare curtain url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="The House of Agnes" attribution="Nat Lowden and Sara Gelencer">
-<param ve-compare url="https://stor.artstor.org/stor/d4255b03-4d19-411c-b6b5-cd6e7632fe73" label="The House of Agnes">
 
 Enter the literary tour guide – portable, readable and the inspiration for this account of our own peregrinations. From the 1880s onwards guides to Dickens’s Kent provided helpful advice on where to go, how to get there, and what to feel on arrival. The more enterprising, such as Robert Allbut’s 1886 _Rambles in Dickens-Land_, even included helpful extracts from the novels so that the literary pilgrim could orient themselves on arrival. But 150 years after Dickens’s death, what is it like to revisit these places, tracking both the author and his characters where he has told us we will find them, to read the books in the places where they are set? And what does it mean to engage in this apparently naïve activity with someone else who is also old enough to know better?
 
@@ -109,8 +106,11 @@ Revived and reanimated (for one of us at least elderflower jelly would become a 
 With hindsight, a recurring feature of these expeditions was our enthusiasm for engaging passersby in conversation, something in the manner of the ancient mariner. As a rule they treated us as harmless eccentrics, which made us feel more than ever like Aunt Betsey and Mr Dick. But on this occasion an old man kindly got off his bike and directed us immediately and with confidence  to the very spot where Dr Strong’s dictionary took shape. We all stared in awe for a while, took it in turns to identify conclusive architectural features and pontificate – we had, surely we all felt this, been drawn together in a shared experience that we would not lightly forget. It only occurred to us some weeks later that we had no idea who it was we’d been talking to and no reason whatsoever to believe that we had been looking at the right house. 
 
 We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old) Dover Road in the Westgate, just as David describes. Sadly we could only get in if we requested a room for the night, which seemed excessive. But we peered determinedly through the windows and fingered the door handle – Agnes, or at least her representatives, spend much time polishing a door handle much like this one, which removed any lingering vestige of doubt.
+<param ve-compare curtain url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="The House of Agnes" attribution="Nat Lowden and Sara Gelencer">
+<param ve-compare url="https://stor.artstor.org/stor/d4255b03-4d19-411c-b6b5-cd6e7632fe73" label="The House of Agnes">
 
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/6/6f/Abode_Hotel_Canterbury.jpg" label="The Abode Hotel, Canterbury" attribution="DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons">
 
 ##  (In which we don’t go to) Folkestone
 
@@ -141,8 +141,7 @@ This is the river down which Pip will row so desperately in his abortive attempt
 
 Pies. We’d been opting for them consistently since [Broadstairs](/dickens/broadstairs). ‘I’m sorry to say I’ve eat your’ - by now it would have felt like treachery to order anything else. This one came with chips or alternatively, was it salad? The juke box was new since Magwitch’s day, the paint job possibly not. But the landlady herself had so clearly stepped out of (whichever Dickens novel you like) and our need of wittles was by this point so intense, that we were by no means inclined to be critical.
 
-It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were: 
-
+It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were:   
 > _Hurrah, a fjord – I love fjords!_  
 
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.
@@ -150,8 +149,7 @@ And then we stalled right in the middle of it, on one of those bends that only t
 > _So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?_  
 > _Never mind that, does either of us have a toothbrush?_  
 
-Nothing if not practical, that’s us.
-
+Nothing if not practical, that’s us.   
 The next half hour was spent in restrained disagreement over whether to rev the engine and risk flooding it, or sit in a foot of water playing gently with the accelerator from time to time to let the car ‘breathe’. The monotony of these discussions was broken up by a succession of motorists coming the other way. One by one they came alongside, wound down the window and asked if we were all right. 
 
 'We’ve stalled'' we would explain on each occasion, at which point the other driver would say indignantly, ''Well there’s nothing I can do about it'', and spray us with water as they disappeared down the hill.
@@ -162,13 +160,12 @@ The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectat
 
 ## Great Expectations Part 2. Rochester.
 
-<param ve-image primary url="images/Bull-Hotel-postcard-Rochester.jpg" title="Bull Inn" fit="cover" attribution="">
-
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
 
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' (otherwise the [Bull Inn](https://www.rvbhotel.com/)).  
 
-Whenever he leaves the forge Pip is confronted with a choice between the marshy expanse of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the ''Blue Boar'' on his visits from London, rather than stay with Joe at the forge. 
+Whenever he leaves the forge Pip is confronted with a choice between the marshy expanse of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the Blue Boar on his visits from London, rather than stay with Joe at the forge. 
+<param ve-image primary url="images/Bull-Hotel-postcard-Rochester.jpg" title="Bull Inn" fit="cover" attribution="">
 
 We were forced to question his decision when – having assumed we would find the inn without effort – we found ourselves in a startlingly empty, neon blue and purple bar, trying not to notice the prevalence of cocktail umbrellas or to look each other in the eye. Immediately we found ourselves speaking in whispers, as if we had been kidnapped or inadvertently walked into the wrong meeting. Clearly this was never going to do, but we spent several minutes plotting our escape in a kind of semaphore (which was odd, as there were apparently no staff to be offended, and the door was wide open), before finally bolting back into the sunshine and agreeing never to speak of this again. The actual Blue Boar was of course shut, so we took refuge in a quaintly oak-beamed pub a few doors down, where a motherly woman, almost certainly descended from Joe and Biddy’s children, took one look at our still ashen faces and put some extra gravy on the pie.
 
