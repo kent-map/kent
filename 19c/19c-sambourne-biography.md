@@ -31,6 +31,7 @@ In order to create his black and white cartoons, Sambourne purchased studio port
 Sambourne also visited [Folkestone](/19c/19c-folkestone). In 1882 he made “a sort of Jules Verne journey into the bowels of the earth” to visit the Channel Tunnel Works, where he toasted the health of her Majesty half a mile from the shore with a party of press men. In September 1906, he returned staying at the Pavilion Hotel, where [Charles Dickens](/dickens/dickens-folkestone) had been a frequent visitor. He records: “Took camera and went up to the Lees. High wind. Missed 2 pretty girls. Got nursemaid.” He met the suffragette Fanny Streatfield and his friend Woodruff walking along the Lees. His candid shots of day trippers included young women on the beach and 21 people in the wind. He lunched at the Grand Hotel where he had a fair lunch, followed by coffee at the Metropole. 
 
 In the winter of 1910, Sambourne, who was suffering ill health, stayed at the Granville Hotel, Ramsgate in order to convalesce. He enjoyed good salt baths, breakfasts and sun, but was having trouble breathing and sleeping and used a bath chair to go to the West Cliff and the marina. He felt ‘wretched and depressed’  taking days out in the motor. Sambourne died on the 3rd August 1910 and his ashes were interred at St Peter’s Churchyard, Thanet.
+<param ve-image url="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" label="Granville Hotel, Ramsgate">
 
 ### References
 
