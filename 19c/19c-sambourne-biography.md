@@ -1,38 +1,50 @@
-Edward Linley Sambourne (1844 or 45-1910)
-Cartoonist
-Ramsgate, Folkestone
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Edward Linley Sambourne (1844-1910)" author="Michelle Crowther" layout="vtl" banner="/iamges/banners/19c.jpg">
+
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q922739" aliases="Broadstairs">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+
+#
+
+**Cartoonist**   
 ‘Where’s Ramsgate/ Where I’ve often seen   
 Both S-MB-RNE and DU M-R-ER,   
 When I have gone by 3.15   
 Granville Express, Victori_er._’ 
+
 Edward Linley Sambourne, cartoonist, began his career as a marine draughtsman at Messrs Penn and Sons of Greenwich. In 1867 he sent a few of his drawings to Mark Lemon, the editor of Punch who encouraged him to take art lessons; he joined the magazine in 1871.
 <param ve-image url=”https://upload.wikimedia.org/wikipedia/commons/6/64/Edward_Linley_Sambourne%2C_self_portrait_1891.png” label=”Edward Linley Sambourne” attribution=”Public domain, via Wikimedia Commons”>
+
 A few years later, after inheriting from his aunt, Sambourne married Marion Herapath at St Peter’s Church, Thanet in 1874. His bride was the daughter of Spencer Herapath, a wealthy London stockbroker who had built Westwood Lodge as a holiday home. The wedding attracted visitors from London and “a more imposing and pretty wedding has never been witnessed in the Isle of Thanet.” Special trains brought the visitors to Broadstairs station which was decorated with evergreens and flowers.  [Francis Burnand](/19c/19c-burnand-biography), one of the illustrators and later editor at Punch, who lived in Ramsgate, attended the wedding. He and his wife were to become lifelong friends of the couple. 
+
 Although primarily living in London, Edward and Marion spent their summer holidays in Thanet, taking lodgings at Prospect Terrace, West Cliff, Ramsgate, where Edward could enjoy a sea view whilst sketching or staying at the Granville Hotel. They were often seen riding or walking around Ramsgate   On one occasion, Sambourne took the train to [Canterbury](/19c/19c-canterbury) and cycled across Thanet. Setting off at 10.25 from Canterbury station, he arrived at [Burnand](/19c/19c-burnand-biography)’s house at 12.45. After a short stop, he continued on to artist, Sir Samuel Luke Fildes’ home where he enjoyed a longer stay before returning on the 5.12 train crammed next to “a brute of a publican” who spoiled his journey home. 
+
 The Sambournes moved in artistic and literary circles. In 1884 Edward met [Henry James](/19c/19c-james-biography) at a dinner party  and 1908 he attended the Dover Pageant on County Day along with Sir Francis Burnand and Rudyard Kipling. 
+
 In order to create his black and white cartoons, Sambourne purchased studio portraits and collected cuttings of subjects from which he drew inspiration. In 1883 he began taking his own photographs, inviting models to his house whilst his wife was away.   He often used a small camera to take surreptitious shots of women and girls. In March 1906, he took the train to [Ramsgate](/19c/19c-ramsgate) where he was met by Sir Francis and Lady [Burnand](/19c/19c-burnand-biography). He walked to the Granville Hotel, but was “very much winded in climbing up steps”  They had an ‘indifferent lunch’ at Cliftonville and a ‘poor dinner’ followed by a “lovely walk rounds the sands by Margate”  He records taking a dozen shots of a fair-haired girl at Ramsgate and three dozen on the sands. The next day he took a dozen shots on the pier and records that he “just missed a ladies’ school going down steps”, revealing his somewhat unnerving obsession with young women.  
-
-
-
-
 <param ve-image url=”https://upload.wikimedia.org/wikipedia/commons/0/01/Edward_Linley_Sambourne_modelling_10_Jan_1895.jpg” label=”Self portrait of Linley Sambourne modelling for a Punch cartoon 'Quite English, You Know!'published Vol 108, Jan 19, 1895, pg 26.” attribution=”Heritage123 at English Wikipedia, Public domain, via Wikimedia Commons”>
 
 
 
 <param ve-image url=”https://upload.wikimedia.org/wikipedia/commons/8/82/Edward_Linley_Sambourne_Vanity_Fair_1892-01-16.jpg” label=”Caricature of Mr EL Sambourne ("Sammy") c 1891 Published in Vanity Fair, 16 January 1892, as "Men of the Day" Number 528” attribution=”Leslie Ward, Public domain, via Wikimedia Commons”>
-Sambourne also visited [Folkestone](/19c/19c-folkestone). In 1882 he made “a sort of Jules Verne journey into the bowels of the earth” to visit the Channel Tunnel Works, where he toasted the health of her Majesty half a mile from the shore with a party of press men. In September 1906, he returned staying at the Pavilion Hotel, where [Charles Dickens](/dickens/dickens-folkestone) had been a frequent visitor. He records: “Took camera and went up to the Lees. High wind. Missed 2 pretty girls. Got nursemaid.” He met the suffragette Fanny Streatfield and his friend Woodruff walking along the Lees. His candid shots of day trippers included young women on the beach and 21 people in the wind. He lunched at the Grand Hotel where he had a fair lunch, followed by coffee at the Metropole. 
-In the winter of 1910, Sambourne, who was suffering ill health, stayed at the Granville Hotel, Ramsgate in order to convalesce. He enjoyed good salt baths, breakfasts and sun, but was having trouble breathing and sleeping and used a bath chair to go to the West Cliff and the marina. He felt ‘wretched and depressed’  taking days out in the motor. 
-Sambourne died on the 3rd August 1910 and his ashes were interred at St Peter’s Churchyard, Thanet 
 
-  "WHERE'S RAMSGATE?" Punch, or the London Charivari, vol. XCIV, 11 Feb. 1888, p. 70. Nineteenth Century UK Periodicals, link.gale.com/apps/doc/DX1901933694/NCUK?u=ccc_uni&sid=bookmark-NCUK&xid=e7b764c4. Accessed 13 July 2021.
-  Thanet Advertiser – October 24 1874
-  Thanet Advertiser - Saturday 22 September 1894
-  https://www.rbkc.gov.uk/pdf/LSH1896v3.pdf
-  https://www.spectator.co.uk/article/fine-artist-but-a-dirty-old-man
-  Dover Express - Friday 17 July 1908
-  https://www.rbkc.gov.uk/subsites/museums/18staffordterrace/theworkoflinleysambourne/photography/thefemalemodel.aspx
-  https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf
-  https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf
-  https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf
-  https://www.rbkc.gov.uk/pdf/LSH1910v3.pdf
-  The East Kent Times - 10 August 1910
+Sambourne also visited [Folkestone](/19c/19c-folkestone). In 1882 he made “a sort of Jules Verne journey into the bowels of the earth” to visit the Channel Tunnel Works, where he toasted the health of her Majesty half a mile from the shore with a party of press men. In September 1906, he returned staying at the Pavilion Hotel, where [Charles Dickens](/dickens/dickens-folkestone) had been a frequent visitor. He records: “Took camera and went up to the Lees. High wind. Missed 2 pretty girls. Got nursemaid.” He met the suffragette Fanny Streatfield and his friend Woodruff walking along the Lees. His candid shots of day trippers included young women on the beach and 21 people in the wind. He lunched at the Grand Hotel where he had a fair lunch, followed by coffee at the Metropole. 
+
+In the winter of 1910, Sambourne, who was suffering ill health, stayed at the Granville Hotel, Ramsgate in order to convalesce. He enjoyed good salt baths, breakfasts and sun, but was having trouble breathing and sleeping and used a bath chair to go to the West Cliff and the marina. He felt ‘wretched and depressed’  taking days out in the motor. Sambourne died on the 3rd August 1910 and his ashes were interred at St Peter’s Churchyard, Thanet.
+
+### References
+
+[^ref1]:  "Where's Ramsgate?" Punch, or the London Charivari, vol. XCIV, 11 Feb. 1888, p. 70. Nineteenth Century UK Periodicals, link.gale.com/apps/doc/DX1901933694/NCUK?u=ccc_uni&sid=bookmark-NCUK&xid=e7b764c4. Accessed 13 July 2021.  
+[^ref1]:   _Thanet Advertiser_ – October 24 1874.   
+[^ref1]:   _Thanet Advertiser_ - Saturday 22 September 1894.    
+[^ref1]:   https://www.rbkc.gov.uk/pdf/LSH1896v3.pdf
+[^ref1]:   https://www.spectator.co.uk/article/fine-artist-but-a-dirty-old-man
+[^ref1]:   _Dover Express - Friday 17 July 1908.   
+[^ref1]:   https://www.rbkc.gov.uk/subsites/museums/18staffordterrace/theworkoflinleysambourne/photography/thefemalemodel.aspx
+[^ref1]:   https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf
+[^ref1]:   https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf
+[^ref1]:   https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf
+[^ref1]:   https://www.rbkc.gov.uk/pdf/LSH1910v3.pdf
+[^ref1]:   _The East Kent Times_ - 10 August 1910.   
