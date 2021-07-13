@@ -29,21 +29,22 @@ In order to create his black and white cartoons, Sambourne purchased studio port
 <param ve-image url=”https://upload.wikimedia.org/wikipedia/commons/0/01/Edward_Linley_Sambourne_modelling_10_Jan_1895.jpg” label=”Self portrait of Linley Sambourne modelling for a Punch cartoon 'Quite English, You Know!'published Vol 108, Jan 19, 1895, pg 26.” attribution=”Heritage123 at English Wikipedia, Public domain, via Wikimedia Commons”>
 
 Sambourne also visited [Folkestone](/19c/19c-folkestone). In 1882 he made “a sort of Jules Verne journey into the bowels of the earth” to visit the Channel Tunnel Works, where he toasted the health of her Majesty half a mile from the shore with a party of press men. In September 1906, he returned staying at the Pavilion Hotel, where [Charles Dickens](/dickens/dickens-folkestone) had been a frequent visitor. He records: “Took camera and went up to the Lees. High wind. Missed 2 pretty girls. Got nursemaid.” He met the suffragette Fanny Streatfield and his friend Woodruff walking along the Lees. His candid shots of day trippers included young women on the beach and 21 people in the wind. He lunched at the Grand Hotel where he had a fair lunch, followed by coffee at the Metropole. 
+<param ve-image url=”https://upload.wikimedia.org/wikipedia/commons/d/df/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.tif" label="Promenade and Bandstand, Folkestone, c.1890-1900" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 
 In the winter of 1910, Sambourne, who was suffering ill health, stayed at the Granville Hotel, Ramsgate in order to convalesce. He enjoyed good salt baths, breakfasts and sun, but was having trouble breathing and sleeping and used a bath chair to go to the West Cliff and the marina. He felt ‘wretched and depressed’  taking days out in the motor. Sambourne died on the 3rd August 1910 and his ashes were interred at St Peter’s Churchyard, Thanet.
 <param ve-image url="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" label="Granville Hotel, Ramsgate">
 
 ### References
 
-[^ref1]:  "Where's Ramsgate?" Punch, or the London Charivari, vol. XCIV, 11 Feb. 1888, p. 70. Nineteenth Century UK Periodicals, link.gale.com/apps/doc/DX1901933694/NCUK?u=ccc_uni&sid=bookmark-NCUK&xid=e7b764c4. Accessed 13 July 2021.  
-[^ref2]:   _Thanet Advertiser_ – October 24 1874.   
-[^ref3]:   _Thanet Advertiser_ - Saturday 22 September 1894.    
-[^ref4]:   https://www.rbkc.gov.uk/pdf/LSH1896v3.pdf
-[^ref5]:   https://www.spectator.co.uk/article/fine-artist-but-a-dirty-old-man
-[^ref6]:   _Dover Express - Friday 17 July 1908.   
-[^ref7]:   https://www.rbkc.gov.uk/subsites/museums/18staffordterrace/theworkoflinleysambourne/photography/thefemalemodel.aspx
-[^ref8]:   https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf
-[^ref9]:   https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf
-[^ref10]:   https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf
-[^ref11]:   https://www.rbkc.gov.uk/pdf/LSH1910v3.pdf
-[^ref12]:   _The East Kent Times_ - 10 August 1910.   
+[^ref1]: "Where's Ramsgate?" Punch, or the London Charivari, vol. XCIV, 11 Feb. 1888, p. 70. Nineteenth Century UK Periodicals, link.gale.com/apps/doc/DX1901933694/NCUK?u=ccc_uni&sid=bookmark-NCUK&xid=e7b764c4. Accessed 13 July 2021.  
+[^ref2]: _Thanet Advertiser_ – October 24 1874.   
+[^ref3]: _Thanet Advertiser_ - Saturday 22 September 1894.    
+[^ref4]: [Linley Sambourne's Diary](https://www.rbkc.gov.uk/pdf/LSH1896v3.pdf)
+[^ref5]: https://www.spectator.co.uk/article/fine-artist-but-a-dirty-old-man
+[^ref6]: _Dover Express - Friday 17 July 1908.   
+[^ref7]: https://www.rbkc.gov.uk/subsites/museums/18staffordterrace/theworkoflinleysambourne/photography/thefemalemodel.aspx
+[^ref8]: [Linley Sambourne's Diary](https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf)
+[^ref9]: [Linley Sambourne's Diary](https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf)
+[^ref10]: [Linley Sambourne's Diary](https://www.rbkc.gov.uk/pdf/LSH1906v2.pdf)
+[^ref11]: [Linley Sambourne's Diary](https://www.rbkc.gov.uk/pdf/LSH1910v3.pdf)
+[^ref12]: _The East Kent Times_ - 10 August 1910.   
