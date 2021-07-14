@@ -28,7 +28,6 @@ A few years later, after inheriting from his aunt, Sambourne married Marion Hera
 
 Although primarily living in London, Edward and Marion spent their summer holidays in Thanet, taking lodgings at Prospect Terrace, West Cliff, Ramsgate, where Edward could enjoy a sea view whilst sketching, or staying at the Granville Hotel. They were often seen riding or walking around Ramsgate.[^ref3]   On one occasion, Sambourne took the train to [Canterbury](/19c/19c-canterbury) and cycled across Thanet. Setting off at 10.25 from Canterbury station, he arrived at [Burnand](/19c/19c-burnand-biography)’s house at 12.45. After a short stop, he continued on to artist, Sir Samuel Luke Fildes’ home where he enjoyed a longer stay before returning on the 5.12 train crammed next to 'a brute of a publican' who spoiled his journey home.[^ref4] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/New_Road%2C_Ramsgate%2C_England-LCCN2002708073.jpg" label="New Road, Ramsgate" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
-<param ve-map center="Q693450" zoom="10">
 
 The Sambournes moved in artistic and literary circles. In 1884 Edward met [Henry James](/19c/19c-james-biography) at a dinner party[^ref5]  and in 1908 he attended the Dover Pageant on County Day along with Sir [Francis Burnand](/19c/19c-burnand-biography) and Rudyard Kipling.[^ref6] At another dinner party, Oscar Wilde managed to spill claret all over Marion's dress.[^ref7]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg" label="Oscar Wilde" attribution="Portrait by Napoleon Sarony, Public domain, via Wikimedia Commons">
@@ -41,11 +40,11 @@ In order to create his black and white cartoons, Sambourne purchased studio port
 
 Sambourne also visited [Folkestone](/19c/19c-folkestone). In 1882 he made 'a sort of Jules Verne journey into the bowels of the earth' to visit the Channel Tunnel Works, where he toasted the health of her Majesty half a mile from the shore with a party of press men. In September 1906, he returned staying at the Pavilion Hotel, where [Charles Dickens](/dickens/dickens-folkestone) had been a frequent visitor. He records: 'Took camera and went up to the Lees. High wind. Missed 2 pretty girls. Got nursemaid.' He met the suffragette Fanny Streatfield and her friend Woodruff walking along the Lees. His candid shots of day trippers included young women on the beach and twety-one people in the wind. He lunched at the Grand Hotel where he had a fair lunch, followed by coffee at the Metropole. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.tif" label="Promenade and Bandstand, Folkestone, c.1890-1900" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
-<param ve-map center="Q375314" zoom="10">
+<param ve-map center="Q375314" zoom="15">
 
 In the winter of 1910, Sambourne, who was suffering ill health, stayed at the Granville Hotel, Ramsgate in order to convalesce. He enjoyed good salt baths, breakfasts and sun, but was having trouble breathing and sleeping and used a bath chair to go to the West Cliff and the marina. He felt ‘wretched and depressed’[^ref12]  taking days out in the motor. Sambourne died on the 3rd August 1910 and his ashes were interred at St Peter’s Churchyard, Thanet.[^ref13]
 <param ve-image url="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" label="Granville Hotel, Ramsgate">
-<param ve-map center="Q736439" zoom="10">
+<param ve-map center="Q736439" zoom="15">
 
 ### References
 
