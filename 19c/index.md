@@ -9,12 +9,14 @@
 
 ### People
 
-[William Harrison Ainsworth](19c-ainsworth-biography)  
+[Henry Gardiner Adams](19c-gardiner-adams-biography)   
+[William Harrison Ainsworth](19c-ainsworth-biography)     
 [Hans Christian Andersen](19c-christian-andersen)   
 [Jane Austen](19c-austen-biography)  
 [Robert Barr](19c-barr-biography)  
 [R. D. Blackmore](19c-blackmore-biography)  
 [M.E. Braddon](19c-braddon-biography)   
+[John Brent](19c-brent-biography)   
 [F. C. Burnand](19c-burnand-biography)  
 [Wilkie Collins](19c-collins-biography)   
 [Joseph Conrad](19c-conrad-biography)  
@@ -30,6 +32,7 @@
 [Bessie Marchant](19c-marchantb-biography)  
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)  
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
+[Edward Linley Sambourne](19c-sambourne-biography)   
 [Mary Shelley](19c-shelleym-biography)  
 [Margaret Emily Shore](19c-shore-biography)  
 [Charlotte Carmichael Stopes](19c-stopes-biography)   
@@ -38,6 +41,7 @@
 [Queen Victoria](19c-victoria-biography)   
 [Sir Hugh Walpole](19c-walpole-biography)   
 [Florence Warden](19c-florence-warden-biography)   
+[Gertrude Warden](19c-gertrude-warden-biography)   
 
 
 ### Places
@@ -58,6 +62,3 @@
 [Hoodening](19c-hoodening)  
 [Leather and Dust](/dickens/19c-leather-and-dust)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTk4NTY2MF19
--->

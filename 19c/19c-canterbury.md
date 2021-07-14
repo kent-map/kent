@@ -1,6 +1,9 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Canterbury in the 19th Century" author="Martin Watts" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Canterbury in the 19th Century" author="Martin Watts" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
+
+#
 
 One of the more surprising features of Canterbury is that, despite the cathedral being the home of the Church of England, no Archbishop of Canterbury was enthroned there until John Bird Sumner in 1848. In fact, until 1901, every Archbishop permanently resided in Lambeth Palace, close to the seat of power in Westminster, although this was somewhat ameliorated by the actions of Victoria’s last Archbishop, Frederick Temple (1896-1902). Archbishop Temple oversaw the rebuilding of the palace in the cathedral grounds, which initiative allowed subsequent primates to spend more time in the city of their cathedral. It should also be noted that Queen Victoria, the second longest serving head of the Church of England, only once visited the city during her reign, and did not grace the cathedral with her presence. 
 <param ve-image url="https://stor.artstor.org/stor/0f2de866-06f5-4ffa-a17b-bdf59b8003f2" label="Canterbury Cathedral"> 
@@ -23,6 +26,8 @@ country of barracks; but only here and there a soldier.’[^ref3]
 
 The Victorian era will always be associated with the railways, and the present station of Canterbury West lies close to the terminus of the first railway to the City. This was the Canterbury and Whitstable Railway – or [Crab and Winkle Line](/canterbury/20c-canterbury-railway) – which was opened in 1830. The line was developed to give Canterbury access to the ‘new’ working port at Whitstable, as navigation on the River Stour had become very restricted by heavy silting. The C & WR was the first railway in Britain to run a scheduled passenger service and offer season tickets to its regular travellers. It was joined to the South Eastern Railway at Canterbury West in 1846.
 <param ve-image url="https://stor.artstor.org/stor/c968b1f6-1fe2-4b97-ba54-488194230fed" label="The Crab and Winkle Railway" attribution="Astrid Stilma, by kind permission of Patrick Marrin"> 
+
+### References
 
 [^ref1]: Price, Chris, The Canterbury Catch Club 1826: Music in the Frame, Cambridge Scholars Publishing, 2019.   
 [^ref2]: See Canterbury Historical & Archaeological Society Notebook pages at www.canterbury-archaeology.org.uk   

@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Sir Hugh Seymour Walpole (1884 - 1941)" author="Alexa Barrett" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Sir Hugh Seymour Walpole (1884 - 1941)" author="Alexa Barrett" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q3360332" aliases="Kings School">
 <param ve-entity eid="Q3360332" aliases="King’s School">
