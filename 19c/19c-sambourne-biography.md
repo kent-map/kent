@@ -8,6 +8,7 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q375314" aliases="Folkestone">
 
 #
  
@@ -38,7 +39,7 @@ The Sambournes moved in artistic and literary circles. In 1884 Edward met [Henry
 
 In order to create his black and white cartoons, Sambourne purchased studio portraits and collected cuttings of subjects from which he drew inspiration. In 1883 he began taking his own photographs, inviting models to his house whilst his wife was away.[^ref8]   He often used a small camera to take surreptitious shots of women and girls. In March 1906, he took the train to [Ramsgate](/19c/19c-ramsgate) where he was met by Sir Francis and Lady [Burnand](/19c/19c-burnand-biography). He walked to the Granville Hotel, but was 'very much winded in climbing up steps.'[^ref9]  They had an ‘indifferent lunch’ at Cliftonville and a ‘poor dinner’ followed by a 'lovely walk rounds the sands by Margate.'[^ref10]  He records taking a dozen shots of a fair-haired girl at Ramsgate and three dozen on the sands. The next day he took a dozen shots on the pier and records that he 'just missed a ladies’ school going down steps', revealing his somewhat unnerving obsession with young women.[^ref11]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/01/Edward_Linley_Sambourne_modelling_10_Jan_1895.jpg" label="Self portrait of Linley Sambourne modelling for a Punch cartoon Quite English, You Know! published Vol 108, Jan 19, 1895, pg 26." attribution="Heritage123 at English Wikipedia, Public domain, via Wikimedia Commons">
-<param ve-map center="Q693450" zoom="10">
+<param ve-map center="Q736439" zoom="10">
 
 Sambourne also visited [Folkestone](/19c/19c-folkestone). In 1882 he made 'a sort of Jules Verne journey into the bowels of the earth' to visit the Channel Tunnel Works, where he toasted the health of her Majesty half a mile from the shore with a party of press men. In September 1906, he returned staying at the Pavilion Hotel, where [Charles Dickens](/dickens/dickens-folkestone) had been a frequent visitor. He records: 'Took camera and went up to the Lees. High wind. Missed 2 pretty girls. Got nursemaid.' He met the suffragette Fanny Streatfield and her friend Woodruff walking along the Lees. His candid shots of day trippers included young women on the beach and twety-one people in the wind. He lunched at the Grand Hotel where he had a fair lunch, followed by coffee at the Metropole. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.tif" label="Promenade and Bandstand, Folkestone, c.1890-1900" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
