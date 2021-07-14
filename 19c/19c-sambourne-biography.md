@@ -26,7 +26,7 @@ A few years later, after inheriting from his aunt, Sambourne married Marion Hera
 <param ve-map center="Q590422" zoom="10">
 
 Although primarily living in London, Edward and Marion spent their summer holidays in Thanet, taking lodgings at Prospect Terrace, West Cliff, Ramsgate, where Edward could enjoy a sea view whilst sketching, or staying at the Granville Hotel. They were often seen riding or walking around Ramsgate.[^ref3]   On one occasion, Sambourne took the train to [Canterbury](/19c/19c-canterbury) and cycled across Thanet. Setting off at 10.25 from Canterbury station, he arrived at [Burnand](/19c/19c-burnand-biography)’s house at 12.45. After a short stop, he continued on to artist, Sir Samuel Luke Fildes’ home where he enjoyed a longer stay before returning on the 5.12 train crammed next to 'a brute of a publican' who spoiled his journey home.[^ref4] 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/82/Edward_Linley_Sambourne_Vanity_Fair_1892-01-16.jpg" label="Caricature of Mr EL Sambourne ("Sammy") c 1891 Published in Vanity Fair, 16 January 1892, as Men of the Day Number 528" attribution="Leslie Ward, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/New_Road%2C_Ramsgate%2C_England-LCCN2002708073.jpg" label="New Road, Ramsgate" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 <param ve-map center="Q693450" zoom="10">
 <param ve-map center="Q29303" zoom="10">
 <param ve-map center="Q736439" zoom="10">
