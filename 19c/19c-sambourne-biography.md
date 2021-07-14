@@ -32,6 +32,7 @@ Although primarily living in London, Edward and Marion spent their summer holida
 <param ve-map center="Q736439" zoom="10">
 
 The Sambournes moved in artistic and literary circles. In 1884 Edward met [Henry James](/19c/19c-james-biography) at a dinner party[^ref5]  and in 1908 he attended the Dover Pageant on County Day along with Sir [Francis Burnand](/19c/19c-burnand-biography) and Rudyard Kipling.[^ref6] At another dinner party, Oscar Wilde managed to spill claret all over Marion's dress.[^ref7]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg" label="Oscar Wilde" attribution="Portrait by Napoleon Sarony, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Punch_-_Oscar_Wilde.svg/356px-Punch_-_Oscar_Wilde.svg.png" label="Oscar Wilde" attribution="Linley Sambourne ; editor: Eugenio Hansen, OFS, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map center="Q179224" zoom="15">
 
