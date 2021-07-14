@@ -2,7 +2,6 @@
 <param ve-config title="Edward Linley Sambourne (1844-1910)" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q693450" aliases="Greenwich">
-<param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q375314" aliases="Folkestone">
@@ -13,6 +12,8 @@ _‘Where’s Ramsgate/ Where I’ve often seen
 Both S-MB-RNE and DU M-R-ER,   
 When I have gone by 3.15   
 Granville Express, Victorier’_[^ref1]    
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/The_sands%2C_Ramsgate%2C_Kent%2C_England%2C_ca._1899.jpg" label="The sands, Ramsgate, Kent. c.1899" attribution="Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
+
 Edward Linley Sambourne, cartoonist, began his career as a marine draughtsman at Messrs Penn and Sons of Greenwich. In 1867 he sent a few of his drawings to Mark Lemon, the editor of _Punch_ who encouraged him to take art lessons; he joined the magazine in 1871.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Edward_Linley_Sambourne%2C_self_portrait_1891.png” label=”Edward Linley Sambourne” attribution=”Public domain, via Wikimedia Commons”>
 
