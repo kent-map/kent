@@ -16,11 +16,10 @@ Both S-MB-RNE and DU M-R-ER,
 When I have gone by 3.15   
 Granville Express, Victorier’_[^ref1]    
 Punch, 1888
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/The_sands%2C_Ramsgate%2C_Kent%2C_England%2C_ca._1899.jpg" label="The sands, Ramsgate, Kent. c.1899" attribution="Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Edward_Linley_Sambourne%2C_self_portrait_1891.png" label="Edward Linley Sambourne" attribution="Public domain, via Wikimedia Commons">
 
 Edward Linley Sambourne, cartoonist, began his career as a marine draughtsman at Messrs Penn and Sons of Greenwich. In 1867 he sent a few of his drawings to Mark Lemon, the editor of _Punch_ who encouraged him to take art lessons; he joined the magazine in 1871.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Edward_Linley_Sambourne%2C_self_portrait_1891.png" label="Edward Linley Sambourne" attribution="Public domain, via Wikimedia Commons">
-<param ve-map center="Q693450" zoom="10">
+<param ve-map center="Q693450" zoom="15">
 
 A few years later, after inheriting from his aunt, Sambourne married Marion Herapath at St Peter’s Church, Thanet in 1874. His bride was the daughter of Spencer Herapath, a wealthy London stockbroker who had built Westwood Lodge as a holiday home. The wedding attracted visitors from London and 'a more imposing and pretty wedding has never been witnessed in the Isle of Thanet.' Special trains brought the visitors to Broadstairs station which was decorated with evergreens and flowers.[^ref2]  [Francis Burnand](/19c/19c-burnand-biography), one of the illustrators and later editor at _Punch_, who lived in [Ramsgate](/19c/19c-ramsgate), attended the wedding. He and his wife were to become lifelong friends of the couple. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/St_Peters_Church%2C_Broadstairs.jpg" label="St Peter's Church, Broadstairs" attribution="Graham Pritchard, CC BY-SA 2.0, via Wikimedia Commons">
