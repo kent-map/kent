@@ -59,7 +59,7 @@ Bauman Rare Books catalogue. https://www.baumanrarebooks.com/rare-books/dickens-
 [^ref6]: Letter from Dickens to H. G. Adams. 18 January 184.   
 [^ref7]: Letter from Dickens to H. G. Adams. 18 January 1840.    
 [^ref8]: Letter from Dickens to H. G. Adams. 30 November 1858.    
-[^ref9]: Letter from Dickens to H. G. Adams. 6 October 1861.    
+[^ref9]: Letter from Dickens to H. G. Adams. 6 October 1861. Pilgrim 11. 158-9.   
 [^ref10]: 'Among the Rhododendrons'. 40.
 [^ref11]: Letter from Dickens to H. G. Adams. 19 February 1866.  
 [^ref12]:Letter from Dickens to H. G. Adams. 21 June 1868. Pilgrim 12. 135.   
