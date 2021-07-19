@@ -56,7 +56,7 @@ Bauman Rare Books catalogue. https://www.baumanrarebooks.com/rare-books/dickens-
 [^ref3]: Maidstone Journal and Kentish Advertiser. Tuesday 14 January 1840. 4.   
 [^ref4]: Alfred Tennyson to Henry Gardiner Adams. [Mid-August 1842]. 209.    
 [^ref5]: Alfred Tennyson to Henry Gardiner Adams. 1 May 1843. 218.   
-[^ref6]: Letter from Dickens to H. G. Adams. 18 January 184.   
+[^ref6]: Letter from Dickens to H. G. Adams. 18 January 1840. Pilgrim 2. 11-12.
 [^ref7]: Letter from Dickens to H. G. Adams. 18 January 1840.    
 [^ref8]: Letter from Dickens to H. G. Adams. 30 November 1858.    
 [^ref9]: Letter from Dickens to H. G. Adams. 6 October 1861. Pilgrim 11. 158-9.   
