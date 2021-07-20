@@ -12,12 +12,12 @@ h1 {
 }
 
 /* Code for columns */
-#essay-component > section {
+.century-essay-component > section {
     float: left;
     width: 33%;
 }
 @media (max-width: 500px) {
-    #essay-component > section {
+    #century-essay-component > section {
         float: none;
         width: 100%;
     }

@@ -1,6 +1,6 @@
 <template>
   <div id="default" :class="{'fixed-header': fixedHeader}">
-
+    <link rel = "stylesheet" href = "../css/ustom.css">
     <header v-if="fixedHeader" class="header">
       <img class="logo" @click="doMenuAction({action:'load-page', path:'/'})" :src="logo">
       <input class="menu-btn" type="checkbox" id="menu-btn"/>
@@ -95,6 +95,7 @@
           </template>
 
           <template v-else>
+            <link rel = "stylesheet" href = "https://raw.githubusercontent.com/kent-map/kent/develop/css/custom.css">
             <div v-for="(card, cidx) in section.cards.content" :key="`${sidx}-${cidx}`" :id="card.id" :class="card.classes.join(' ')">
               <div v-if="card.media" class="media" v-html="card.media"></div>
               <h2 v-if="card.heading" v-html="card.heading"></h2>
