@@ -6,7 +6,8 @@
         {"name": "siteFooter", "src": "/components/Footer.vue"}
     ],
     "nav": [
-        {"label": "About", "icon": "info", "path": "/about"}
+        {"label": "About", "icon": "info", "path": "/about"},
+        {"label": "How to use", "icon": "life-ring", "path": "/how"}
     ],
     "favicon": "/images/favicon.ico",
     "gaTrackingID": "UA-148268745-1",
