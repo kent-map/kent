@@ -8,6 +8,7 @@
 
 **Event:** Dickens staying at Ship Inn 29 April – 2 May 1856.   
 _‘It fell to my lot, this last bleak Spring, to find myself in a watering-place out of the Season. A vicious north-east squall blew me into it from foreign parts, and I tarried in it alone for three days, resolved to be exceedingly busy. On the first day, I began business by looking for two hours at the sea, and staring the Foreign Militia out of countenance. Having disposed of these important engagements, I sat down at one of the two windows of my room, intent on doing something desperate in the way of literary composition, and writing a chapter of unheard-of excellence...’_ ‘Out of the Season’. _Household Words_ (1856).
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/James_Webb_Anlandende_Fischerboote_im_Hafen_von_Dover_1867.jpg" label="Fisherboats in Dover" attribution="James Webb, Public domain, via Wikimedia Commons">
 
 Dickens stayed in Dover (near [Deal](/dickens/bleak-house-deal)) on a number of occasions while travelling from London to the continent and he includes it in both _David Copperfield_ and _Little Dorrit_. During one visit to the town even Dickens suffered from writer’s block – sometimes known as procrastination, as he makes clear in an article of 1856.
 <param ve-image url="https://stor.artstor.org/stor/5fd29544-ad48-4ef4-8e7a-74cb1f11165f">
