@@ -1,3 +1,4 @@
+<link rel = "stylesheet" href = "https://raw.githubusercontent.com/kent-map/kent/develop/css/custom.css">
 <style>
     .clearfix::after {content: ""; clear: both; display: table;}
     .thumb {float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:150px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa; margin-bottom: 24px;}
@@ -9,7 +10,7 @@
 
 ### People
 
-[Henry Gardiner Adams](19c-gardiner-adams-biography)   
+[Henry Gardiner Adams](19c-gardiner-adams-biography)
 [William Harrison Ainsworth](19c-ainsworth-biography)     
 [Hans Christian Andersen](19c-christian-andersen)   
 [Jane Austen](19c-austen-biography)  

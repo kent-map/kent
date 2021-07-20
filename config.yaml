@@ -19,6 +19,10 @@ nav:
   icon: fas fa-info
   action: load-page
   path: /about
+- label: How to Use Site
+  icon: fas fa-book
+  action: load-page
+  path: /howto
 - label: Contact Us
   icon: fas fa-envelope
   action: contact-us
