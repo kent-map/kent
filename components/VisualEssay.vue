@@ -2,7 +2,7 @@
 
   <div v-if="centuryPage">
   
-    <link rel = "stylesheet" href = "../css/custom.css">
+    <link rel = "stylesheet" href = "https://raw.githubusercontent.com/kent-map/kent/develop/css/custom.css">
     <div id="essay-component" ref="essay" v-html="processedHtml" :class="{'century-essay-component': centuryPage === 'true'}"></div>
 
     <!-- Entity infobox popup -->
