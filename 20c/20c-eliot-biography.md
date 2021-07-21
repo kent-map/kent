@@ -6,10 +6,10 @@ banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301">
 
 **Place:** Margate   
 **Publication of interest:** _The Waste Land_ (1922)
-_On Margate Sands.   
+>On Margate Sands.   
 I can connect   
-Nothing with nothing._   
--	The Waste Land 
+Nothing with nothing.  
+_The Waste Land_
 <param ve-image url="https://stor.artstor.org/stor/bf760fe0-4461-43e7-abf2-231fef1033d4" label="Blue Plaque at Nayland Rock Shelter" attribution="© Martin Crowther">
 
 After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover.  It was there he wrote “The Fire Sermon,” part three of the hugely influential poem 'The Waste Land'.   Eliot wrote to Sydney Schiff from the Albemarle Hotel in Cliftonville on November 4th 1921 stating: “I have done a rough draft of part of part III [of The Waste Land], but I do not know whether it will do, and must wait for Vivien’s opinion as to whether it is printable. I have done this while sitting in a shelter on the front – as I am out all day except when taking rest.”  The Nayland Rock promenade Shelter is a grade II listed building on the coast of Margate and widely believed to be the shelter T.S Eliot wrote about in his letter to Schiff.  Eliot also had an earlier connection to Kent, through the author [H.G Wells](/20c/20c-wellshg-biography), by writing a review for him in 1901, while Wells was living in Sandgate.  
