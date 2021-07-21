@@ -6,5 +6,6 @@ William Henry Longhurst, a singer and composer, gave 14 years of service to Cant
 ![Map showing the locations of subscribers to the 2 volume edition of works by John Wall Calcott](/music/images/callcott.jpg){: .right}
 
 Other publications in the Canterbury collection testify to the journeys music could make across the nation in the eighteenth and nineteenth centuries.  Subscription lists are often simply a list of names, but will, not infrequently, give a location. The geographical reach is remarkable. A two-volume set of music by the much-loved John Wall Callcott, edited by his son-in-law, the composer William Horsley, and published in London by Birchall, Lonsdale, and Mills in 1824, is probably the jewel in the Canterbury Collection; the map shows in graphic form how far afield Callcott’s music travelled.
+<param ve-image="https://stor.artstor.org/stor/1eb60c5c-a15e-4f20-82f3-8a124803bf10" label="Map showing the locations of subscribers to the 2 volume edition of works by John Wall Calcott" attribution="Chris Price">
 
-**Article written by:** Dr Chris Price
+
