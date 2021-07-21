@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Henry James (1863-1916)" author="Dr Peter Merchant" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/David_Cox_Jnr_-_Cox-Jnr-98091_-_Hever_Castle_-_circa_1850.jpg">
+<param ve-config title="Henry James (1843-1916)" author="Dr Peter Merchant" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/David_Cox_Jnr_-_Cox-Jnr-98091_-_Hever_Castle_-_circa_1850.jpg">
 
 <param ve-entity eid="Q1132683" aliases="Hever Castle">
 
