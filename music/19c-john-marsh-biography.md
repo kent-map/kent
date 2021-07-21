@@ -34,9 +34,11 @@ For much more prosaic reasons, [Canterbury's musicians](/music) would certainly 
 
 **Article written by:** Dr Chris Price
 
+### References
+
  [^ref1]: Baring-Gould, 1890, 210.   
  [^ref2]: Baring-Gould, 1890, 202–212.   
  [^ref3]: Baring-Gould, 1890, 217–8.   
  [^ref4]: Baring-Gould, 1890, 212.  
- [^ref5]:	__Kentish Gazette__, 6 May 1834, p. 3.   
+ [^ref5]:	_Kentish Gazette_, 6 May 1834, p. 3.   
 
