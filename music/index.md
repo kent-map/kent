@@ -17,7 +17,7 @@
 
 [Charles Dobson](19c-charles-dobson-biography)  
 [Thomas Goodban](19c-thomas-goodban-biography)   
-[William Longhust](19c-william-longhurst-biography)  
+[William Longhust](19c-william-longhurst-biography)   
 [John Marsh](19c-john-marsh-biography)   
 [James Shoubridge](19c-james-shoubridge)  
 

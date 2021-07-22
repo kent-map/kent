@@ -1,5 +1,5 @@
 <param ve-config 
-       title="18th Century Kent"
+       title="17th Century Kent"
        banner="/images/banners/17c.jpg"
        layout="index">
 

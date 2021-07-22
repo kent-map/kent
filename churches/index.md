@@ -26,7 +26,7 @@ H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervo
 
 
 ##
-**[The Secret War Tunnels of Dover Castle](20c/20c-secret-tunnels/)**
+**[The Secret War Tunnels of Dover Castle](/20c/20c-secret-tunnels/)**
 
 - author: Brooke Altringham
 

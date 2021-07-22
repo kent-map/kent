@@ -22,6 +22,8 @@ In another most serendipitous touch, James Shoubridge was replaced as Lay Clerk 
 
 **Article written by:** Dr Chris Price
 
+### References
+
 [^ref1]: _Dean’s Book_. GB-CA; CCA-DCc-DB/8, p. 111.   
 [^ref2]: Ibid., p. 238.   
 [^ref3]: _Precentor’s Book_. GB-CA; CCA-DCc-PB/7, p. inside front cover.   
