@@ -62,7 +62,9 @@ module.exports = {
     title = title_bar.getElementsByClassName('title')[0]
     title_text = title.innerText.toLowerCase()
     
-    if (title_text.includes('century') || title_text.includes('medieval')) {
+    const validCenturyHeadings = ['medieval kent', '16th century kent', '17th century kent', '18th century kent', '19th century kent', '20th century kent', '21st century kent']
+
+    if (validCenturyHeadings.includes(title_text)) {
         this.centuryPage = 'true'
     }
     else {
@@ -74,7 +76,7 @@ module.exports = {
 
     for (var i = 0; i < bibliography_header.length; i++) {
       var text = bibliography_header[i].innerText
-      if (text.toLowerCase() === 'bibliography') {
+      if ((text.toLowerCase() === 'bibliography') || (text.toLowerCase() === 'references')) {
         this.visualEssayPage = 'true'
       }
     }
