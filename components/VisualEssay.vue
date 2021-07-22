@@ -1,6 +1,15 @@
 <template>
 
   <div v-if="centuryPage">
+
+    <button class = "pageLink" @click="mapMode = 'true'" :class="{'hide': (this.mapMode === 'true') || (this.homePage === 'false')}">View map</button>
+    <button class = "pageLink" @click="mapMode = 'false'" :class="{'hide': (this.mapMode === 'false') || (this.homePage === 'false')}">Hide map</button>
+    <button class = "pageLink" onclick="window.location.href='/howto';" :class="{'hide': this.homePage === 'false'}">How to use this site</button>
+
+    <div id = "map-container" :class="{'hide': this.mapMode === 'false'}">
+      <h1>Map</h1>
+      <ve-map></ve-map>
+    </div>
   
     <link rel = "stylesheet" href = "https://raw.githubusercontent.com/kent-map/kent/develop/css/custom.css">
     
@@ -43,6 +52,8 @@ module.exports = {
     active: null,
     centuryPage: 'false',
     visualEssayPage: 'false',
+    homePage: 'false',
+    mapMode: 'true',
     referenceStart: '',
     referenceItalic: 'Kent Maps Online',
     referenceMiddle: '',
@@ -71,7 +82,7 @@ module.exports = {
         this.centuryPage = 'false'
     }
 
-    // Detects if visual page or not (for if )
+    // Detects if visual essay page or not (for if referencing button should be added)
     bibliography_header = document.getElementsByTagName('h3')
 
     for (var i = 0; i < bibliography_header.length; i++) {
@@ -79,6 +90,11 @@ module.exports = {
       if ((text.toLowerCase() === 'bibliography') || (text.toLowerCase() === 'references')) {
         this.visualEssayPage = 'true'
       }
+    }
+
+    // Detects of home page or not  (for if how to use site and view map links should be added)
+    if (title_text === 'kent maps online') {
+      this.homePage = 'true'
     }
 
   },
@@ -383,11 +399,29 @@ module.exports = {
 </script>
 
 <style>
+  h1 {
+    font-family: Roboto, 'sans-serif';
+  }
+
+  #map-container {
+    height: 60vh;
+  }
+
   #reference-button {
     font-size: 1em;
     padding: 10px;
     border-radius: 15px;
     margin-bottom: 4vh;
+    cursor: pointer;
+  }
+
+  .pageLink {
+    font-size: 1em;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 4vh;
+    cursor: pointer;
+  }
   }
 
   #reference-para {
