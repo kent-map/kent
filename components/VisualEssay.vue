@@ -7,18 +7,17 @@
     <button class = "pageLink" onclick="window.location.href='/howto';" :class="{'hide': this.homePage === 'false'}">How to use this site</button>
 
     <!--
-    <div id = "map-container" :class="{'hide': this.mapMode === 'false'}">
+    <div id = "map-container" :class="{'hide': (this.mapMode === 'false') || (this.homePage === 'false')}">
       <h1>Map</h1>
-      <ve-map></ve-map>
-    </div>
-    -->
+      <ve-map2></ve-map2>
+    </div>-->
   
     <link rel = "stylesheet" href = "https://raw.githubusercontent.com/kent-map/kent/develop/css/custom.css">
-    
-    <button :class="{'hide': this.visualEssayPage === 'false' || this.generateReference == 'true'}" id = "reference-button" type = "button" @click="makeReference()">Generate MLA 7 Reference</button>
-    <p :class="{'hide': (this.visualEssayPage === 'false' || this.generateReference == 'false')}"  id = "reference-para">{{ referenceStart }}<i>{{ referenceItalic }}</i>{{ referenceMiddle }}<a href = '{{ referenceUrl }}'>{{ referenceLink }}</a>{{ referenceEnd }}</p>
 
     <div id="essay-component" ref="essay" v-html="processedHtml" :class="{'century-essay-component': centuryPage === 'true'}"></div>
+
+    <button :class="{'hide': this.visualEssayPage === 'false' || this.generateReference == 'true'}" id = "reference-button" type = "button" @click="makeReference()">Generate MLA 7 Reference</button>
+    <p :class="{'hide': (this.visualEssayPage === 'false' || this.generateReference == 'false')}"  id = "reference-para">{{ referenceStart }}<i>{{ referenceItalic }}</i>{{ referenceMiddle }}<a href = '{{ referenceUrl }}'>{{ referenceLink }}</a>{{ referenceEnd }}</p>
 
     <!-- Entity infobox popup -->
     <div style="display:none;">
@@ -75,7 +74,7 @@ module.exports = {
     title = title_bar.getElementsByClassName('title')[0]
     title_text = title.innerText.toLowerCase()
     
-    const validCenturyHeadings = ['medieval kent', '16th century kent', '17th century kent', '18th century kent', '19th century kent', '20th century kent', '21st century kent']
+    const validCenturyHeadings = ['medieval kent', '17th century kent', '19th century kent', '20th century kent']
 
     if (validCenturyHeadings.includes(title_text)) {
         this.centuryPage = 'true'
@@ -401,12 +400,21 @@ module.exports = {
 </script>
 
 <style>
-  h1 {
-    font-family: Roboto, 'sans-serif';
+  /* Code for columns */
+  .century-essay-component > section {
+      float: left;
+      width: 25%;
   }
 
-  #map-container {
-    height: 60vh;
+  @media (max-width: 700px) {
+      .century-essay-component > section {
+          float: none;
+          width: 100%;
+      }
+  }
+
+  h1 {
+    font-family: Roboto, 'sans-serif';
   }
 
   #reference-button {

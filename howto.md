@@ -6,17 +6,12 @@
 
 ## Navigation Menu
 
-The 'Navigation Menu' can be found by clicking on the burger menu in the top left corner.
-
-Clicking on the 'Home' button will take you to the home page.
-
-Clicking on the 'About' button will take you to our about page.
-
-Clicking on the 'Contact Us' button will show a form which you can fill in to send us feedback.
-
-Clicking on the 'View page source' button will show you the original Markdown code used to generate the page you are viewing. More information on how to use Markdown can be found <a href = "https://www.markdownguide.org/getting-started/">here</a>.
-
-Clicking on the 'Juncture User Guide' will take you to an external page on how to use Juncture. This is useful if you are creating a similar Juncture site.
+- The 'Navigation Menu' can be found by clicking on the burger menu in the top left corner.
+- Clicking on the 'Home' button will take you to the home page.
+- Clicking on the 'About' button will take you to our about page.
+- Clicking on the 'Contact Us' button will show a form which you can fill in to send us feedback.
+- Clicking on the 'View page source' button will show you the original Markdown code used to generate the page you are viewing. More information on how to use Markdown can be found <a href = "https://www.markdownguide.org/getting-started/">here</a>.
+- Clicking on the 'Juncture User Guide' will take you to an external page on how to use Juncture. This is useful if you are creating a similar Juncture site.
 
 ## Home Page
 
