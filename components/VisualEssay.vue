@@ -1,8 +1,21 @@
 <template>
 
   <div v-if="centuryPage">
+
+    <button class = "pageLink" @click="mapMode = 'true'" :class="{'hide': (this.mapMode === 'true') || (this.homePage === 'false')}">View map</button>
+    <button class = "pageLink" @click="mapMode = 'false'" :class="{'hide': (this.mapMode === 'false') || (this.homePage === 'false')}">Hide map</button>
+    <button class = "pageLink" onclick="window.location.href='/howto';" :class="{'hide': this.homePage === 'false'}">How to use this site</button>
+
+    <div id = "map-container" :class="{'hide': this.mapMode === 'false'}">
+      <h1>Map</h1>
+      <ve-map></ve-map>
+    </div>
   
     <link rel = "stylesheet" href = "https://raw.githubusercontent.com/kent-map/kent/develop/css/custom.css">
+    
+    <button :class="{'hide': this.visualEssayPage === 'false' || this.generateReference == 'true'}" id = "reference-button" type = "button" @click="makeReference()">Generate MLA 7 Reference</button>
+    <p :class="{'hide': (this.visualEssayPage === 'false' || this.generateReference == 'false')}"  id = "reference-para">{{ referenceStart }}<i>{{ referenceItalic }}</i>{{ referenceMiddle }}<a href = '{{ referenceUrl }}'>{{ referenceLink }}</a>{{ referenceEnd }}</p>
+
     <div id="essay-component" ref="essay" v-html="processedHtml" :class="{'century-essay-component': centuryPage === 'true'}"></div>
 
     <!-- Entity infobox popup -->
@@ -37,7 +50,17 @@ module.exports = {
     processedHtml: '',
     hoverEntity: null,
     active: null,
-    centuryPage: 'false'
+    centuryPage: 'false',
+    visualEssayPage: 'false',
+    homePage: 'false',
+    mapMode: 'true',
+    referenceStart: '',
+    referenceItalic: 'Kent Maps Online',
+    referenceMiddle: '',
+    referenceUrl: '',
+    referenceLink: '',
+    referenceEnd: '',
+    generateReference: 'false'
   }),
   computed: {
     items() { return this.active ? this.paramsInScope(document.querySelector(`[data-id="${this.active}"] p`)) : [] },
@@ -50,11 +73,28 @@ module.exports = {
     title = title_bar.getElementsByClassName('title')[0]
     title_text = title.innerText.toLowerCase()
     
-    if (title_text.includes('century') || title_text.includes('medieval')) {
+    const validCenturyHeadings = ['medieval kent', '16th century kent', '17th century kent', '18th century kent', '19th century kent', '20th century kent', '21st century kent']
+
+    if (validCenturyHeadings.includes(title_text)) {
         this.centuryPage = 'true'
     }
     else {
         this.centuryPage = 'false'
+    }
+
+    // Detects if visual essay page or not (for if referencing button should be added)
+    bibliography_header = document.getElementsByTagName('h3')
+
+    for (var i = 0; i < bibliography_header.length; i++) {
+      var text = bibliography_header[i].innerText
+      if ((text.toLowerCase() === 'bibliography') || (text.toLowerCase() === 'references')) {
+        this.visualEssayPage = 'true'
+      }
+    }
+
+    // Detects of home page or not  (for if how to use site and view map links should be added)
+    if (title_text === 'kent maps online') {
+      this.homePage = 'true'
     }
 
   },
@@ -83,6 +123,88 @@ module.exports = {
           this.active = segments.length > 0 ? segments[0].dataset.id : null
         }
       })
+    },
+
+    formatName(fullName) {
+      var wordsInName = String(fullName).split(' ')
+
+      // Remove empty strings from array
+      var wordsInName = wordsInName.filter(function (el) {
+        return (el != "");
+      });
+
+      // Removing 'and's from array
+      var wordsInName = wordsInName.filter(function (el) {
+        return (el != "and");
+      });  
+
+      const fornameExceptions = ['Professor', 'Dr', 'Mr', "Mrs", "Ms", "Miss"]
+
+      // Title
+      if (fornameExceptions.includes(wordsInName[0])) {
+        // Middle name
+        if (wordsInName.length > 3) {
+          return (wordsInName[2] + ", " + wordsInName[1] + " " + wordsInName[3] + ".")
+        }
+
+        // No middle name
+        else { 
+          return (wordsInName[2] + ", " + wordsInName[1])
+        }
+      }
+
+      // No titles
+      else {
+
+        // Middle name
+        if (wordsInName.length > 3) {
+          return (wordsInName[2] + ", " + wordsInName[1] + " " + wordsInName[3] + ".")
+        }
+
+        else {
+
+          // No middle name
+          if (wordsInName.length === 2) {
+            return (wordsInName[1] + ", " + wordsInName[0])
+          }
+          else {
+            return "?"
+          }
+        }
+      }
+    },
+
+    makeReference() {
+      var fullName = document.getElementsByClassName('author')[0].innerText
+
+      var name = ''
+      if (fullName.includes('et al')) { // Many authors
+        var nameOne = fullName.split('and')[0]
+        name = this.formatName(nameOne) + " et al"
+      }
+      else if (fullName.includes('and')) { // 2 authors
+        var nameOne = fullName.split('and')[0]
+        var nameTwo = fullName.split('and')[1]
+        name = this.formatName(nameOne) + " and " + this.formatName(nameTwo) 
+      }
+      else { // 1 author
+        name = this.formatName(fullName) + ''
+      }
+
+      var title = document.getElementsByClassName('title')[0].innerText
+
+      this.referenceUrl = document.URL
+      this.referenceLink = this.referenceUrl.replace("https://", "").replace("http://", "")
+
+      const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+      var today = new Date()
+      var date = today.getDate() + " " + monthNames[today.getMonth()] + " " + today.getFullYear()
+
+      this.referenceStart = (name + ". '" + title + "' ")
+      this.referenceMiddle = (". Web. " + date + ". <")
+      this.referenceEnd = ">"
+
+      this.generateReference = 'true'
     },
 
     doCustomFormatting(elem) {
@@ -277,6 +399,41 @@ module.exports = {
 </script>
 
 <style>
+  h1 {
+    font-family: Roboto, 'sans-serif';
+  }
+
+  #map-container {
+    height: 60vh;
+  }
+
+  #reference-button {
+    font-size: 1em;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 4vh;
+    cursor: pointer;
+  }
+
+  .pageLink {
+    font-size: 1em;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 4vh;
+    cursor: pointer;
+  }
+  }
+
+  #reference-para {
+    background-color: white;
+    border-radius: 25px;
+    border: 2px solid grey;
+  }
+
+  .hide {
+    display: none;
+  }
+
   .cards {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr) );

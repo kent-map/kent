@@ -1,0 +1,372 @@
+#hours {
+	color: #000;
+}
+
+#askUsWrap {
+	height:85px;
+	background:#00529b;
+	margin:0 0 0 20px;
+	border:2px solid #000;
+	position:relative;
+	}
+	/* CSS3 Ask us badge =================== */
+	#aUContainer, #aU{font-family: Arial, Helvetica, sans-serif;font-weight: bold;}
+	#aUContainer{float: left;position: relative;margin: -2px 0 10px -13px;}
+	#aU {padding:0;margin:0;background:url(../images/askus/askusBG.png);height:85px;width:95px;position:relative;z-index:1;float:left;}
+	#ask {color:#333;font-size:200%;text-align:center;margin:5px 0 -15px 0;}
+	#us {color:#78a7d5;font-size:300%;text-align:center;margin:0;}
+	#askHow {float:left;margin:0 0 0 -8px;color:#fff;position:absolute;left:60px;z-index:1;font-size:95%;line-height:100%;padding:6px 2px 0 10px;height:79px;width:10em;}
+	#askHow ul li{margin:0;padding:0 0 2px 0;list-style:none;}
+	#askHow a:link, #askHow a:visited{	color:#fff;text-decoration:none;}
+	#askHow a:hover{color:#ffd503;}
+	
+h2 {font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+	font-size: 25px;
+    line-height: 1.1;
+    color: #646464;
+	margin-top: 26px;
+    margin-bottom: 13px;
+}
+
+/* AJAX Tabs --------------------------- */
+
+#Tabs {margin:0;padding:0;list-style:none;}
+#Tabs li {float:left;cursor:pointer;padding:11px 10px;margin:0 2px 0 0; list-style-type:none; font-weight: bold;}
+.Tabs li {background:#f4f4f4;text-decoration:none;margin-bottom:0;}
+.Tabs li.selected {background-color:#06559e; color:#fff;}
+.Tabs li:hover {background-color: #ccc; }
+.Tabs a	{display: block; color: #000;text-decoration:none;}
+.Tabs li a	{color: #000;}
+.Tabs li a:visited	{color: #000;}
+.Tabs li.selected a	{ /*selected main tab style*/ color: #fff;}
+.Tabs li.selected:hover{ background-color: #06559e; text-decoration: none;}
+.Tabs a.selected:hover{ background-color: #06559e; color: #000; text-decoration: none;}
+
+/* AJAX Nested Tabs --------------------- */ 
+.Tabs2{clear: both;margin: 0;padding: 0;list-style-type: none;text-align: left; /*set to left, center, or right to align the menu as desired */ }
+.Tabs2 ul {list-style-type: none; border-bottom: 1px solid #ccc;}
+.Tabs2 li{float: left; display: inline; margin: 0; padding: 0 0 10px 0; text-decoration: none;}
+.Tabs2 a{display: block;padding: 5px 10px 4px 0;color: #666;}
+.Tabs2 li a	{color: #06559e;}
+.Tabs2 li a:visited{color: #06559e;}
+.Tabs2 li a:hover{color: #000;text-decoration:none;}
+.Tabs2 a:hover{color: #000;}
+.Tabs2 li.selected{ /*selected main tab style*/color: #000;font-weight: bold;}
+.Tabs2 li.selected a{ /*selected main tab style */position: relative;color: #000;font-weight: bold;}
+.Tabs2 li a.selected:hover{ /*selected main tab style */text-decoration: none;}
+
+#results a{ /* I don't know where the styles actually are for the Ajax results, but this bit of CSS is working to make them display right in this page*/
+	display:block;
+	text-align:left;	
+	}
+
+#tabsdivcontainer, #searchContainer {
+	background:#fff;
+	position:relative;
+	z-index:1;
+	min-height:130px;
+	margin:0; 
+	clear: both; 
+	}
+
+#tabsdivcontainer {
+			padding: 5px;
+		}
+
+/* this is the button bg color */ 
+.searchContainer div {display:none;} 
+.searchContainer {display:block;}
+.searchContainer div.show {display:block;color:#000;}
+
+@media only screen and (max-width: 479px){
+    .TabContainer .Tabs li{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .TabContainer .tab-content{ margin-top: 0; }
+}	
+	
+/*
+	================================
+	= Standard Form Settings
+	================================
+*/
+.Standard fieldset {
+	clear: both;
+	position: relative; 
+	background: #f2efe9; 
+	line-height: 1.5em;
+	/*margin: 1em;
+	padding-bottom: 1em;*/
+	border: solid 1px #ccc;
+	}
+	
+.Standard fieldset legend {
+	line-height: 1.3 /* note this line-height value */;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 100%;
+	font-weight: bold;
+	color: #000;
+	padding: 0 0.25em 0 0.25em;
+	}
+
+.Standard div	{
+	clear: both;
+	padding: 0 0 0.75em 0;
+	height: 1%;
+	}
+	
+.Editor div	{
+	padding-bottom: 0.1em;
+}
+
+.Standard label	{
+	font-size: 80%;
+	font-weight: bold;
+	float: left;
+	padding-right: 1.5em;
+	width: 25%; /*width of labels. Should be smaller than left column to create some right margin*/
+	text-align: right;
+	}
+.Standard input	{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 90%;
+}
+.Standard input[type="radio"]	{
+	margin-left: -2px;
+}
+.Standard input.Submit	{
+	margin-left: 27%;
+	width: 10em;
+	}
+.Standard input.Reset	{
+	width: 10em;
+	}
+.Standard textarea	{
+	width: 60%;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 90%;
+	}
+.Standard select	{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 90%;
+	}
+.Submit	{
+	font-size: 90%;
+	width: 150px;
+	}
+.cellEmphasize	{	
+	color: #000; background: #FBE5A8;
+	}
+.fieldRequired	{	
+	color: #f00; background: transparent;
+	}
+.Standard span	{
+	font-size: 90%;
+	}
+	
+.Standard p	{
+	margin: 0 0 0 26%;
+	width: 60%;
+	text-align: left;
+	}
+form .Editor	{
+	float: right;
+	margin-top: -0.1em;
+	margin-right: 1em;
+	text-align: left;
+	width: 72%;
+	}
+				
+/* Targets IE6 fieldset, legend and 3pixel bug */
+
+* html .threepxfix	{
+	margin-left: -5px;
+	}
+* html fieldset	{ 
+	position: relative; 
+	margin-top: 1em; 
+	padding-top: 3em; 
+	}
+* html legend	{ 
+	position:absolute; 
+	top: -.5em; left: .5em; 
+	}
+
+	
+ /* IE7 fix */ 
+	
+ *:first-child+html legend {
+	float: left; position: relative; 
+	margin-top: -1em;
+	}
+	
+#IndexesLinks {
+	float: right;
+	font-size: 100%;
+	text-align: right;
+	padding-bottom: 1em;
+}
+
+#Indexes table {
+	clear: right;
+	width: 100%;
+}
+
+#Indexes th {
+	text-align: left;
+	padding-bottom: 1em;
+}
+#Indexes td, p {
+	vertical-align: top;
+	padding: 0.5em;
+	margin: 0;
+	text-align: left;
+}
+
+#Feedback {
+	padding: 15px 0 0 0;
+	text-align: center;
+}
+
+.panel-title a[aria-expanded="true"]:after {
+    font-family:Fontawesome;
+    content:'\f077';
+    float:right;
+    font-size:100%;
+    font-weight:300;
+	}
+.panel-title a[aria-expanded="false"]:after {
+    font-family:Fontawesome;
+    content:'\f078';
+	}
+
+
+/* RSS Feeds */
+.rss-items {
+	list-style:none;
+	margin:0;
+	padding: 0;
+	font-size: 100%;
+	}
+	
+.rss-item {
+	padding-bottom: 15px;
+}
+
+.RSSlink {
+	text-align: right;
+	font-size: 95%;
+}
+
+
+.footer-unit .container {
+    border-top: 1px solid #ccc;
+}
+
+.dropdown-menu a {
+    padding: 0 0 0 0;
+}
+
+.nav>li>a { padding: 7px 10px !important; }
+
+ /* Main nav bar adjustments */ 
+#unit-nav ul.dropdown-menu li a {
+    padding-top: 2px !important;
+    padding-bottom: 3px !important;
+} 
+
+
+/*
+	Emergency notice container
+*/
+.emergency {
+	color:#000;
+	text-align:center;
+	margin:0 0 10px 0;
+	border: 2px solid #000;
+	padding:10px;
+	background: #e4a0a5;
+	font-weight: bold;
+}
+/*
+	Alternating row colours for listings
+*/
+.even {background-color: #f5f5f5 !important;}
+.odd {background-color: none !important;}
+
+/*
+	Styles used in LibraryH3lp FAQ Module
+*/
+
+.label, .badge {
+    font-size: 11.844px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #ffffff;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    background-color: #999999;
+}
+
+@media screen and (min-width: 992px) {
+	.nest {width: 97%;}
+}
+
+/* SOCIAL MEDIA ICONS */
+#block-uleth-helper-uleth-footer-global i {
+	margin-right: 3px;
+}
+.social-media {
+	text-align: right;
+	padding-right: 1em;
+}
+.social-icon-st0 {
+    fill: #fff;
+}
+.social-media a svg.social-icon {
+    background-color: #afafaf;
+    border-radius: 2px;
+    max-width: 37px;
+    max-height: 37px;
+}
+.social-media a svg.social-icon:hover,
+.social-media a svg.social-icon:focus {
+    background-color: #fff;
+}
+.social-media a svg.social-icon:hover .social-icon-st0#facebook-logo,
+.social-media a svg.social-icon:focus .social-icon-st0#facebook-logo {
+    fill: #4267b2;
+}
+.social-media a svg.social-icon:hover .social-icon-st0#twitter-logo,
+.social-media a svg.social-icon:focus .social-icon-st0#twitter-logo {
+    fill: #1da1f2;
+}
+.social-media a svg.social-icon:hover .social-icon-st0.instagram-logo-path,
+.social-media a svg.social-icon:focus .social-icon-st0.instagram-logo-path {
+    fill: #d93175;
+}
+.social-media a svg.social-icon:hover .social-icon-st0#youtube-logo,
+.social-media a svg.social-icon:focus .social-icon-st0#youtube-logo {
+    fill: #ff0000;
+}
+.social-media a svg.social-icon:hover .social-icon-st0#linkedin-square,
+.social-media a svg.social-icon:focus .social-icon-st0#linkedin-square {
+    fill: #007bb5;
+}
+.social-media a svg.social-icon:hover .social-icon-st0#linkedin-trademark,
+.social-media a svg.social-icon:focus .social-icon-st0#linkedin-trademark {
+    fill: #000;
+}
+
+/* Adjustments to System Setting for Modal Popups */
+.modal-title {
+    width: 90%;
+    float: left;
+}
+.modal-header .close {
+    display: inline;
+}
