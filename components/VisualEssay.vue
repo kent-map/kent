@@ -14,11 +14,11 @@
     -->
   
     <link rel = "stylesheet" href = "https://raw.githubusercontent.com/kent-map/kent/develop/css/custom.css">
-    
-    <button :class="{'hide': this.visualEssayPage === 'false' || this.generateReference == 'true'}" id = "reference-button" type = "button" @click="makeReference()">Generate MLA 7 Reference</button>
-    <p :class="{'hide': (this.visualEssayPage === 'false' || this.generateReference == 'false')}"  id = "reference-para">{{ referenceStart }}<i>{{ referenceItalic }}</i>{{ referenceMiddle }}<a href = '{{ referenceUrl }}'>{{ referenceLink }}</a>{{ referenceEnd }}</p>
 
     <div id="essay-component" ref="essay" v-html="processedHtml" :class="{'century-essay-component': centuryPage === 'true'}"></div>
+
+    <button :class="{'hide': this.visualEssayPage === 'false' || this.generateReference == 'true'}" id = "reference-button" type = "button" @click="makeReference()">Generate MLA 7 Reference</button>
+    <p :class="{'hide': (this.visualEssayPage === 'false' || this.generateReference == 'false')}"  id = "reference-para">{{ referenceStart }}<i>{{ referenceItalic }}</i>{{ referenceMiddle }}<a href = '{{ referenceUrl }}'>{{ referenceLink }}</a>{{ referenceEnd }}</p>
 
     <!-- Entity infobox popup -->
     <div style="display:none;">
