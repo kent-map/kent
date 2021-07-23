@@ -75,7 +75,7 @@ module.exports = {
     title = title_bar.getElementsByClassName('title')[0]
     title_text = title.innerText.toLowerCase()
     
-    const validCenturyHeadings = ['medieval kent', '16th century kent', '17th century kent', '18th century kent', '19th century kent', '20th century kent', '21st century kent']
+    const validCenturyHeadings = ['medieval kent', '17th century kent', '19th century kent', '20th century kent']
 
     if (validCenturyHeadings.includes(title_text)) {
         this.centuryPage = 'true'
@@ -401,6 +401,19 @@ module.exports = {
 </script>
 
 <style>
+  /* Code for columns */
+  .century-essay-component > section {
+      float: left;
+      width: 25%;
+  }
+
+  @media (max-width: 700px) {
+      .century-essay-component > section {
+          float: none;
+          width: 100%;
+      }
+  }
+
   h1 {
     font-family: Roboto, 'sans-serif';
   }
