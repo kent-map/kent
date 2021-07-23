@@ -7,11 +7,10 @@
     <button class = "pageLink" onclick="window.location.href='/howto';" :class="{'hide': this.homePage === 'false'}">How to use this site</button>
 
     <!--
-    <div id = "map-container" :class="{'hide': this.mapMode === 'false'}">
+    <div id = "map-container" :class="{'hide': (this.mapMode === 'false') || (this.homePage === 'false')}">
       <h1>Map</h1>
-      <ve-map></ve-map>
-    </div>
-    -->
+      <ve-map2></ve-map2>
+    </div>-->
   
     <link rel = "stylesheet" href = "https://raw.githubusercontent.com/kent-map/kent/develop/css/custom.css">
 
@@ -416,10 +415,6 @@ module.exports = {
 
   h1 {
     font-family: Roboto, 'sans-serif';
-  }
-
-  #map-container {
-    height: 60vh;
   }
 
   #reference-button {

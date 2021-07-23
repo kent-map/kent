@@ -6,6 +6,12 @@
 
 This site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists.
 
+# Map
+<param ve-map center="Q1094104" zoom="10">
+<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820">
+
+<var data-map data-basemap="Esri_WorldPhysical" center="Q72259" zoom="7"></var>
+
 # Featured essays
 
 # {.cards}
@@ -168,25 +174,3 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 ![](/images/thumbnails/dickens-head.jpg)
 
 One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
-
-
-<div class = 'hide' id = 'map-locations'>
-
-# ##################################### #
-#                                       #
-# ADD LOCATIONS FOR MAP HERE IN FORMAT: #
-# name: example name                    #
-# coords: longitude, latitude           #
-#                                       #
-# ##################################### #
-
-name: St Augustine's Abbey
-coords: 51.278128, 1.088206
-
-name: Canterbury
-coords: 51.278333, 1.0775
-
-name: Chartham
-coords: 51.255, 1.0205
-
-</div>
