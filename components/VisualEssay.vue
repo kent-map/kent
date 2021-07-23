@@ -6,10 +6,12 @@
     <button class = "pageLink" @click="mapMode = 'false'" :class="{'hide': (this.mapMode === 'false') || (this.homePage === 'false')}">Hide map</button>
     <button class = "pageLink" onclick="window.location.href='/howto';" :class="{'hide': this.homePage === 'false'}">How to use this site</button>
 
+    <!--
     <div id = "map-container" :class="{'hide': this.mapMode === 'false'}">
       <h1>Map</h1>
       <ve-map></ve-map>
     </div>
+    -->
   
     <link rel = "stylesheet" href = "https://raw.githubusercontent.com/kent-map/kent/develop/css/custom.css">
     
