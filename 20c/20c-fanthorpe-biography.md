@@ -1,4 +1,6 @@
-U. A. Fanthorpe (Ursula Askham Fanthorpe) (1929-2009) 
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="U. A. Fanthorpe (Ursula Askham Fanthorpe) (1929-2009)" author="Professor Carolyn Oulton" layout="vtl" 
+banner="/banners/20c.jpg">
 
 Places: Lewisham, Bromley 
 
