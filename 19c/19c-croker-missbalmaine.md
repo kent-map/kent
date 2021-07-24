@@ -8,7 +8,7 @@ banner="/images/banners/19c.jpg">
 
 #
 
-“Down in a desolate part of the South of England, bordering on the celebrated “Romney Marsh” and between that and the sea, there is what we should call a village, but its inhabitants dignify by the name of a “town”. _Miss Balmaine’s Past_ (Croker, 1898, p.1)    
+“Down in a desolate part of the South of England, bordering on the celebrated “Romney Marsh” and between that and the sea, there is what we should call a village, but its inhabitants dignify by the name of a “town”. _Miss Balmaine’s Past_ (Croker, 1898, p.1)
 <param ve-image url="https://commons.wikimedia.org/wiki/File:The_description_of_Romney_Marsh_RMG_K1030-001.jpg" label="The description of Romney Marsh" attribution="Tucker, Elhanan, Public domain, via Wikimedia Commons">
 
 ‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel _Miss Balmaine’s Past_. Bithia Croker (c.1848-1920), a successful novelist, was born in Ireland and known mainly for her army stories set in India. She moved to Sandgate with her husband, a retired lieutenant colonel in 1897 and lived at 10 Radnor Cliff, until at least 1911.[^ref1] It was there that she gained inspiration for her novel.
@@ -37,7 +37,7 @@ The arrival of Rosamund’s step sister at Balmaine Court spells trouble as Mrs 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/96/Robert_Payton_Reid_-_Little_Tea_%26_Gossip.jpg" label="Little tea and Gossip" attribution="Robert Payton Reid, Public domain, via Wikimedia Commons">
 
 Rosamund, who is still in the dark about her husband, is accosted by her step-brother whilst out on a walk, who he is determined to blackmail her into marrying him for her money.  Ronald who is riding by, sees the pair arguing  and comes to her rescue, much as he did when she was affronted by Ted at the opera in Paris.  However, this time, Rosamund is much more self-assured and able to rebuff Ted’s advances and resents Ronald’s intrusion. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b1/Edmund_Blair_Leighton_-_The_question.jpg" label="The Question" attribution="Edmund Leighton, Public domain, via Wikimedia Commons"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b1/Edmund_Blair_Leighton_-_The_question.jpg" label="The Question" attribution="Edmund Leighton, Public domain, via Wikimedia Commons">
 
 Rosamund determines to go to Horton to avoid the public gaze that is now upon her, although her mother begs her not to go saying: “Why it’s enough to drive anyone to suicide, with those miles of marsh and shingle, and dreary grey sea, with an occasional body on the beach.” Ronald sets off after her, although he has to ask directions of Colonel Brice’s butler who is “an uncommonly clever fellow at Bradshaw” (Did Croker forget that Ronald had surveyed the area for the railway!)  and he arrives to stay at the Merry Sailor. Ronald decides to visit the church with its spire “as good as a lighthouse”  and spots Rosamund in the graveyard. He follows her and tells her the truth and the couple are reconciled. Ronald says he will take her away from this bleak spot never to return, but she says that she can never forget the marshes as this is where she met him and gave birth to Tommy, and this is where they were both returned to her. She also admits that her dog Roy is fond of the place, and who can ignore a dog’s wishes!
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/St_Nicholas%2C_New_Romney%2C_Kent_-_geograph.org.uk_-_323009.jpg" label="St Nicholas, New Romney, Kent" attribution="John Salmon">
@@ -55,4 +55,4 @@ Croker, B. (1898) [_Miss Balmain'e Past_.](http://access.bl.uk/item/viewer/ark:/
 ### References
 
 [^ref1]: The Blue plaque states that Bethia Croker lived at 10 Radnor Cliff until 1908, but she and her husband appear here in the 1911 census (RG 66 12 1).
-{^ref2]: [Sandgate Society Archive](http://archive.sandgatesociety.com/uploads/document/5cfe41f2aa233.pdf#page=12)
+[^ref2]: [Sandgate Society Archive](http://archive.sandgatesociety.com/uploads/document/5cfe41f2aa233.pdf#page=12)
