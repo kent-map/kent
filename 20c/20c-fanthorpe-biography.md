@@ -4,28 +4,26 @@ banner="/banners/20c.jpg">
 
 <param ve-entity eid="Q215030" aliases="Lewisham">
 <param ve-entity eid="Q208201" aliases="Bromley">
-
+<param ve-entity eid="Q6512849" aliases="Lee">
+<param ve-entity eid="Q1431935" aliases="Biggin Hill">
+<param ve-entity eid="Q24660387" aliases="Sissinghurst Castle">
+<param ve-entity eid="Q1285144" aliases="Knole">
 
 #
 
-Places: Lewisham, Bromley 
-
-Poems with a Kent setting in:
-_Side Effect_ (1978), 
-
-_A Watching Brief_ (1987) 
-
-
-“My father’s mother from Kent to be forgiven.
-She came, and was. And came again” 
-
+“My father’s mother from Kent to be forgiven.   
+She came, and was. And came again”    
 ‘At Averham’
 
 Ursula Askham Fanthorpe (more commonly known as U. A. Fanthorpe) was born in the town of Lee, Lewisham on 22nd July 1929.   According to Fanthorpe, her parents were ‘middle class but honest” people.  Her father, Richard Fanthorpe, was a notable barrister and judge, and inspired her sense of justice, a topic that runs throughout her poetry. Fanthorpe’s childhood spent in Bromley would become significant to her work in later life. With her brother David, she spent time exploring Kent by bicycle and stopping at historical sites. However, with the arrival of the Second World War, and Bromley being near the Biggin Hill airfield, Fanthorpe was sent away to escape repeated bombings of the area. From the age of ten, her childhood continued at a boarding school in Surrey. Her time in Kent was cut short and the implications of war would later be identifiable in her work. 
 
-At fifty, Fanthorpe published her first poetry collection entitled _Side Effects_ (1978). There are notable mentions of Kent within the collection, including ‘Earthed’, where Fanthorpe describes ‘the chalky / Kent mud’.  During her childhood Fanthorpe enjoyed reading about English landscapes and it is clear that the Kentish landscape specifically has permeated her work.  Her relationship with Kent continues in her collection _A Watching Brief_ (1987) where we can identify a link between the implications of war and Fanthorpe’s childhood spent in Kent. In ‘A Wartime Education’ the speaker of the poem describes ‘A father in uniform conferred status. Mine / Camping it up with the Home Guard in Kent / On summer nights, too human for heroics.’  The poem harbours a feeling of detachment from the places and people of childhood especially, for example, in the line break after ‘Mine’. 
+At fifty, Fanthorpe published her first poetry collection entitled _Side Effects_ (1978). There are notable mentions of Kent within the collection, including ‘Earthed’, where Fanthorpe describes ‘the chalky / Kent mud’.  During her childhood Fanthorpe enjoyed reading about English landscapes and it is clear that the [Kentish landscape](/landscape/kentish-landscapes/) specifically has permeated her work.  Her relationship with Kent continues in her collection _A Watching Brief_ (1987) where we can identify a link between the implications of war and Fanthorpe’s childhood spent in Kent. In ‘A Wartime Education’ the speaker of the poem describes ‘A father in uniform conferred status. Mine / Camping it up with the Home Guard in Kent / On summer nights, too human for heroics.’  The poem harbours a feeling of detachment from the places and people of childhood especially, for example, in the line break after ‘Mine’. 
 
 Fanthorpe’s relationship with Kent, as identified above, didn’t end with her move to Surrey. In 1993 she wrote about the acclaimed writer [Vita Sackville-West](/20c/20c-sackville-west-biography)’s Kent homes: Sissinghurst Castle and Knole. A clear admiration for the landscape and history of Kent is discernible throughout the essay. Fanthorpe writes that Sackville-West’s work is permeated by her life lived at Knole in _The Edwardians_ (1930).  Fanthorpe’s work, like Sackville-West’s, is richly influenced by Kent’s landscape. 
+
+Poetry anthologies including a Kent setting:   
+_Side Effect_ (1978),   
+_A Watching Brief_ (1987)   
 
 ### Bibliography 
 
