@@ -10,7 +10,7 @@ banner="/images/banners/19c.jpg">
 
 “Down in a desolate part of the South of England, bordering on the celebrated “Romney Marsh” and between that and the sea, there is what we should call a village, but its inhabitants dignify by the name of a “town”. _Miss Balmaine’s Past_ (Croker, 1898, p.1)    
 
-‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel Miss Balmaine’s Past. Bithia Croker (c.1848-1920), a successful novelist, was born in Ireland and known mainly for her army stories set in India. She moved to Sandgate with her husband, a retired lieutenant colonel in 1897 and lived at 10 Radnor Cliff, until at least 1911.[^ref1] It was there that she gained inspiration for her novel.
+‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel _Miss Balmaine’s Past_. Bithia Croker (c.1848-1920), a successful novelist, was born in Ireland and known mainly for her army stories set in India. She moved to Sandgate with her husband, a retired lieutenant colonel in 1897 and lived at 10 Radnor Cliff, until at least 1911.[^ref1] It was there that she gained inspiration for her novel.
 
 The novel paints a dismal portrait of the Kentish town, where there was “no shopping, no lending library – not even a clothing club.” (p.8); very different from the present-day town which has a supermarket, library and charity shops. The countryside and the marshes around the town, however, provide a wild and romantic location for Rosamund Balmaine, who runs “with hasty, elastic steps over the green turf across “the Marshes.” To meet, of course, a young man.” 
 
