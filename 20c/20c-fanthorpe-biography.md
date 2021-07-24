@@ -22,7 +22,7 @@ At fifty, Fanthorpe published her first poetry collection entitled _Side Effects
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d5/King_George_VI_talking_to_a_member_of_the_Home_Guard_during_an_inspection_in_Kent%2C_10_August_1940._H2936.jpg" label="King George VI talking to a member of the Home Guard during an inspection in North Kent, 10 August 1940." attribution="Imperial War Museum, Horton (Capt), War Office official photographer, Public domain, via Wikimedia Commons">
 
 Fanthorpe’s relationship with Kent, as identified above, didn’t end with her move to Surrey. In 1993 she wrote about the acclaimed writer [Vita Sackville-West](/20c/20c-sackville-west-biography)’s Kent homes: Sissinghurst Castle and Knole. A clear admiration for the landscape and history of Kent is discernible throughout the essay. Fanthorpe writes that Sackville-West’s work is permeated by her life lived at Knole in _The Edwardians_ (1930).  Fanthorpe’s work, like Sackville-West’s, is richly influenced by Kent’s landscape. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/The_four_storey_gate-tower.jpg" label="The Four Storey Gate Tower, Sissinghurst Castle" attribution="Nathaniel Lloyd (1867-1933), Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a9/SISSINGHURST_CASTLE_GARDEN_The_Prospect_Tower_and_lawn.JPG" label="Sissinghurst Castle Garden, The Prospect Tower and Lawn" attribution="HARTLEPOOLMARINA2014, CC BY-SA 4.0, via Wikimedia Commons">
 
 Poetry anthologies including a Kent setting:   
 _Side Effect_ (1978),   
