@@ -23,12 +23,12 @@ At fifty, Fanthorpe published her first poetry collection entitled _Side Effects
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d5/King_George_VI_talking_to_a_member_of_the_Home_Guard_during_an_inspection_in_Kent%2C_10_August_1940._H2936.jpg" label="King George VI talking to a member of the Home Guard during an inspection in North Kent, 10 August 1940." attribution="Imperial War Museum, Horton (Capt), War Office official photographer, Public domain, via Wikimedia Commons">
 
 Fanthorpe’s relationship with Kent, as identified above, didn’t end with her move to Surrey. In 1993 she wrote about the acclaimed writer [Vita Sackville-West](/20c/20c-sackville-west-biography)’s Kent homes: Sissinghurst Castle and Knole. A clear admiration for the landscape and history of Kent is discernible throughout the essay. Fanthorpe writes that Sackville-West’s work is permeated by her life lived at Knole in _The Edwardians_ (1930).  Fanthorpe’s work, like Sackville-West’s, is richly influenced by Kent’s landscape. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a9/SISSINGHURST_CASTLE_GARDEN_The_Prospect_Tower_and_lawn.JPG" label="Sissinghurst Castle Garden, The Prospect Tower and Lawn" attribution="HARTLEPOOLMARINA2014, CC BY-SA 4.0, via Wikimedia Commons">
-
+<br>
+<br>
 Poetry anthologies including a Kent setting:   
 _Side Effect_ (1978),   
 _A Watching Brief_ (1987)   
-<param ve-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Saint_George_and_the_Dragon_by_Paolo_Uccello_%28London%29_01.jpg" label="Saint George and the Dragon, used on the front cover of 'Side Effects'" attribution="Paolo Uccello, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a9/SISSINGHURST_CASTLE_GARDEN_The_Prospect_Tower_and_lawn.JPG" label="Sissinghurst Castle Garden, The Prospect Tower and Lawn" attribution="HARTLEPOOLMARINA2014, CC BY-SA 4.0, via Wikimedia Commons">
 
 ### Bibliography 
 
@@ -36,3 +36,5 @@ Sandie, Elizabeth. ‘Fanthorpe, Ursula Askham (1929–2009), poet.’ _Oxford D
 Fanthorpe, U. A. _A Watching Brief._ Peterloo Poets, 1987. Archive.org, accessed 23/07/2021.   
 Fanthorpe, U. A. _Side Effect._ Peterloo Poets, 1978. Archive.org, accessed 23/07/2021.   
 Fanthorpe, U. A. ‘Vita Sackville-West.’ _Writers and their houses: a guide to the writers' houses of England, Scotland, Wales, and Ireland : essays by modern writers._ Edited by, Marsh, Kate. Archive.org, accessed 23/07/2021.   
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Saint_George_and_the_Dragon_by_Paolo_Uccello_%28London%29_01.jpg" label="Saint George and the Dragon, used on the front cover of 'Side Effects'" attribution="Paolo Uccello, Public domain, via Wikimedia Commons">
+
