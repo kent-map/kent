@@ -9,7 +9,7 @@ banner="/images/banners/19c.jpg">
 #
 
 “Down in a desolate part of the South of England, bordering on the celebrated “Romney Marsh” and between that and the sea, there is what we should call a village, but its inhabitants dignify by the name of a “town”. _Miss Balmaine’s Past_ (Croker, 1898, p.1)
-<param ve-image url="https://commons.wikimedia.org/wiki/File:The_description_of_Romney_Marsh_RMG_K1030-001.jpg" label="The description of Romney Marsh" attribution="Tucker, Elhanan, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg" label="The description of Romney Marsh" attribution="Tucker, Elhanan, Public domain, via Wikimedia Commons">
 
 ‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel _Miss Balmaine’s Past_. Bithia Croker (c.1848-1920), a successful novelist, was born in Ireland and known mainly for her army stories set in India. She moved to Sandgate with her husband, a retired lieutenant colonel in 1897 and lived at 10 Radnor Cliff, until at least 1911.[^ref1] It was there that she gained inspiration for her novel.
 <param ve-image url="hhttps://stor.artstor.org/stor/5454fc2e-1081-496d-b102-fed7f892e003" label="Blue Plaque, 10 Radnor Cliff" attribution="Martin Crowther">
@@ -25,7 +25,7 @@ After the death of her grandmother, Rosamund marries Ronald, before her mother, 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c6/Romney_Sands_Holiday_Village_-_geograph.org.uk_-_1323059.jpg" label="Romney Sands Holiday village" attribution="Simon Carey">
 
 When her mother, step-father and step-sister return from India, Rosamund is swept off to London where she lives unhappily under their roof hiding her marriage from her parents. When her step-brother, Ted, turns up she recognises him as the man at the opera and he tells her parents that Rosamund was running around Paris with a known roué. They convince her that Ronald is dishonourable and that her marriage is a sham. Rosamund gives birth to Ronald’s child, but to protect her honour her family farm the child out, telling Rosamund that the baby boy is dead. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9b/St_Nicholas_churchyard%2C_New_Romney.jpg" label="St Nicholas churchyard, New Romney" attribution="Jowaninpensans, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e0/GarnierOperaParis.jpg" label="Paris Opera" attribution="Louis Béroud, Public domain, via Wikimedia Commons">
 
 Meanwhile Ronald has been shipwrecked and is eeking out an existence on a remote island; it is four years before he can return to England. On his return, he discovers that his cousin has died and he has inherited the title of Lord Airdrie. He rushes to Horton where nothing has changed: “There were apparently the identical people standing in their doorways, the same cocks and hens and dogs promenading the High Street, the same venerable white horse in the ‘bus and the Marshes were precisely as he had last seen them.” (p.110) 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/38/High_Street_-_geograph.org.uk_-_445251.jpg" label="High Street, New Romney" attribution="Simon Carey">
