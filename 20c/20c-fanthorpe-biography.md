@@ -36,5 +36,5 @@ Sandie, Elizabeth. ‘Fanthorpe, Ursula Askham (1929–2009), poet.’ _Oxford D
 Fanthorpe, U. A. _A Watching Brief._ Peterloo Poets, 1987. Archive.org, accessed 23/07/2021.   
 Fanthorpe, U. A. _Side Effect._ Peterloo Poets, 1978. Archive.org, accessed 23/07/2021.   
 Fanthorpe, U. A. ‘Vita Sackville-West.’ _Writers and their houses: a guide to the writers' houses of England, Scotland, Wales, and Ireland : essays by modern writers._ Edited by, Marsh, Kate. Archive.org, accessed 23/07/2021.   
-<param ve-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Saint_George_and_the_Dragon_by_Paolo_Uccello_%28London%29_01.jpg" label="Saint George and the Dragon, used on the front cover of 'Side Effects'" attribution="Paolo Uccello, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Saint_George_and_the_Dragon_by_Paolo_Uccello_%28London%29_01.jpg" label="Saint George and the Dragon, used on the front cover of 'Side Effects'" attribution="Paolo Uccello, Public domain, via Wikimedia Commons">
 
