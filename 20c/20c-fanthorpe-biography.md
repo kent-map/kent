@@ -14,7 +14,7 @@ banner="/banners/20c.jpg">
 “My father’s mother from Kent to be forgiven.   
 She came, and was. And came again”    
 ‘At Averham’
-
+<br>
 Ursula Askham Fanthorpe (more commonly known as U. A. Fanthorpe) was born in the town of Lee, Lewisham on 22nd July 1929.   According to Fanthorpe, her parents were ‘middle class but honest” people.  Her father, Richard Fanthorpe, was a notable barrister and judge, and inspired her sense of justice, a topic that runs throughout her poetry. Fanthorpe’s childhood spent in Bromley would become significant to her work in later life. With her brother David, she spent time exploring Kent by bicycle and stopping at historical sites. However, with the arrival of the Second World War, and Bromley being near the Biggin Hill airfield, Fanthorpe was sent away to escape repeated bombings of the area. From the age of ten, her childhood continued at a boarding school in Surrey. Her time in Kent was cut short and the implications of war would later be identifiable in her work. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Royal_Air_Force-_the_Air_Training_Corps%2C_1941-1945._CH9567.jpg" label="Cadets of No 228 Bromley Squadron ATC receive instruction in firing the .303 Lee-Enfield rifle on the firing range at RAF Biggin Hill, Kent." attribution="Miller (P/O), Royal Air Force official photographer, Public domain, via Wikimedia Commons">
 
@@ -27,6 +27,7 @@ Fanthorpe’s relationship with Kent, as identified above, didn’t end with her
 Poetry anthologies including a Kent setting:   
 _Side Effect_ (1978),   
 _A Watching Brief_ (1987)   
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Saint_George_and_the_Dragon_by_Paolo_Uccello_%28London%29_01.jpg" label="Saint George and the Dragon, used on the front cover of 'Side Effects'" attribution="Paolo Uccello, Public domain, via Wikimedia Commons">
 
 ### Bibliography 
 
