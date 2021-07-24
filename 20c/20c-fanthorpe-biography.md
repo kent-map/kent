@@ -2,6 +2,12 @@
 <param ve-config title="U. A. Fanthorpe (Ursula Askham Fanthorpe) (1929-2009)" author="Professor Carolyn Oulton" layout="vtl" 
 banner="/banners/20c.jpg">
 
+<param ve-entity eid="Q215030" aliases="Lewisham">
+<param ve-entity eid="Q208201" aliases="Bromley">
+
+
+#
+
 Places: Lewisham, Bromley 
 
 Poems with a Kent setting in:
