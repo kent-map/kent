@@ -45,7 +45,7 @@ Rosamund determines to go to Horton to avoid the public gaze that is now upon he
 Mrs Croker described New Romney and the Marshes as timeless and tedious, but also as a place where her characters could be themselves, free of the trammels of society and where love could blossom, where a rose could be wild, not like a hot-house flower despatched to Covent Garden. The wilds of the marshes offers the potential for secret but chaste love, a purer love than the formalised setting of Sandshire and London.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wild_rose_-_geograph.org.uk_-_459566.jpg" label="Wild rose" attribution="Nick Smith">
 
-Bithia Croker continued to write until her death in 1920, although she returned to her much-loved themes of Anglo-India. She wrote at least 16 novels whilst in Sandgate.[^ref2] Other noted Sandgate writers at this period include [Florence Warden](/19c/19-clorence-warden-biography) and [H.G.Wells](/19c/19c-wellshg-biography).
+Bithia Croker continued to write until her death in 1920, although she returned to her much-loved themes of Anglo-India. She wrote at least 16 novels whilst in Sandgate.[^ref2] Other noted Sandgate writers at this period include [Florence Warden](/19c/19-florence-warden-biography) and [H.G.Wells](/20c/20c-wellshg-biography/).
 <param ve-image url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" label="10 Radnor Cliff, Sandgate" attribution="Martin Crowther">
 
 ### Bibliography
