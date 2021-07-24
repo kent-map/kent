@@ -18,9 +18,11 @@ She came, and was. And came again”
 <br>
 Ursula Askham Fanthorpe (more commonly known as U. A. Fanthorpe) was born in the town of Lee, Lewisham on 22nd July 1929.   According to Fanthorpe, her parents were ‘middle class but honest” people.  Her father, Richard Fanthorpe, was a notable barrister and judge, and inspired her sense of justice, a topic that runs throughout her poetry. Fanthorpe’s childhood spent in Bromley would become significant to her work in later life. With her brother David, she spent time exploring Kent by bicycle and stopping at historical sites. However, with the arrival of the Second World War, and Bromley being near the Biggin Hill airfield, Fanthorpe was sent away to escape repeated bombings of the area. From the age of ten, her childhood continued at a boarding school in Surrey. Her time in Kent was cut short and the implications of war would later be identifiable in her work. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Royal_Air_Force-_the_Air_Training_Corps%2C_1941-1945._CH9567.jpg" label="Cadets of No 228 Bromley Squadron ATC receive instruction in firing the .303 Lee-Enfield rifle on the firing range at RAF Biggin Hill, Kent." attribution="Miller (P/O), Royal Air Force official photographer, Public domain, via Wikimedia Commons">
+<param ve-map center="Q6512849" zoom="15">
 
 At fifty, Fanthorpe published her first poetry collection entitled _Side Effects_ (1978). There are notable mentions of Kent within the collection, including ‘Earthed’, where Fanthorpe describes ‘the chalky / Kent mud’.  During her childhood Fanthorpe enjoyed reading about English landscapes and it is clear that the [Kentish landscape](/landscape/kentish-landscapes/) specifically has permeated her work.  Her relationship with Kent continues in her collection _A Watching Brief_ (1987) where we can identify a link between the implications of war and Fanthorpe’s childhood spent in Kent. In ‘A Wartime Education’ the speaker of the poem describes ‘A father in uniform conferred status. Mine / Camping it up with the Home Guard in Kent / On summer nights, too human for heroics.’  The poem harbours a feeling of detachment from the places and people of childhood especially, for example, in the line break after ‘Mine’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d5/King_George_VI_talking_to_a_member_of_the_Home_Guard_during_an_inspection_in_Kent%2C_10_August_1940._H2936.jpg" label="King George VI talking to a member of the Home Guard during an inspection in North Kent, 10 August 1940." attribution="Imperial War Museum, Horton (Capt), War Office official photographer, Public domain, via Wikimedia Commons">
+<param ve-map center="Q208201" zoom="15">
 
 Fanthorpe’s relationship with Kent, as identified above, didn’t end with her move to Surrey. In 1993 she wrote about the acclaimed writer [Vita Sackville-West](/20c/20c-sackville-west-biography)’s Kent homes: Sissinghurst Castle and Knole. A clear admiration for the landscape and history of Kent is discernible throughout the essay. Fanthorpe writes that Sackville-West’s work is permeated by her life lived at Knole in _The Edwardians_ (1930).  Fanthorpe’s work, like Sackville-West’s, is richly influenced by Kent’s landscape. 
 <br>
@@ -29,6 +31,7 @@ Poetry anthologies including a Kent setting:
 _Side Effect_ (1978),   
 _A Watching Brief_ (1987)   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a9/SISSINGHURST_CASTLE_GARDEN_The_Prospect_Tower_and_lawn.JPG" label="Sissinghurst Castle Garden, The Prospect Tower and Lawn" attribution="HARTLEPOOLMARINA2014, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-map center="Q24660387" zoom="15">
 
 ### Bibliography 
 
