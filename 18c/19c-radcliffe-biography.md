@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Ann Radcliffe" author="Dr Michael Goodrum" layout="vtl" 
+<param ve-config title="Ann Radcliffe (1764 – 1823)" author="Dr Michael Goodrum" layout="vtl" 
 banner="/images/banners/18c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
@@ -15,6 +15,7 @@ banner="/images/banners/18c.jpg">
 “One of the richest green landscapes, with woods and villages, I ever saw”: Ann Radcliffe’s trip to Kent in September 1797.
 
 Ann Radcliffe might not necessarily spring readily to mind in connection with Kent. The ‘mighty enchantress’ was a defining figure of the eighteenth century Gothic romance, with literary sensations such as _The Mysteries of Udolpho_ (1794) and _The Italian_ (1796). Both of these are set in the exotic climate of southern Europe, a key part of the contemporary ‘Grand Tour’ for wealthy English people. Ann Radcliffe never went to Italy, though; even better than that, in the September of 1797, she came to Kent.
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/6/61/Ann_Radcliffe.jpg" label="Ann Radcliffe" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons">
 
 Although no longer publishing by this stage (_The Italian_ was the last of her novels to be published in her lifetime), Radcliffe continued to describe the countryside in a style familiar to her legion of readers – as Richard Davenport-Hines notes, “landscape was Radcliffe’s paramount interest.” In extracts from her journal appended to the posthumous Gaston De Blondeville (1826), the journey between Gravesend and Rochester is described as follows: “the distant hills run out into long ridges, and fold one behind the other. The river often seen between green-dipping hills, and then opening in vast majesty.” After the Arcadian, the sudden injection of the Gothic: “Descended towards Rochester: solemn appearance of the castle, with its square ghastly walls and their hollow eyes, rising over a bank of the Medway, grey and massive and floorless; nothing remaining but the shell.” To those familiar with Radcliffe’s charged descriptions of luminous landscapes and all the images they conjure, it feels a little odd to have the more familiar environs of Kent so described.
 <param ve-image="https://upload.wikimedia.org/wikipedia/commons/b/ba/Edward_Dayes_-_Rochester_-_Google_Art_Project.jpg" label="Rochester, 1799" attribution="Yale Center for British Art, Public domain, via Wikimedia Commons">
