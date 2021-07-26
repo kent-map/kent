@@ -6,9 +6,21 @@
 #
 
 ##
+**[Elizabeth Carter](18c-carter-biography)**
+
+- author:
+
+
+##
+**[Ann Radcliffe](18c-radcliffe-biography)**
+
+- author: Dr Michael Goodrum
+
+
+##
 **[The Bloody Code](18c-bloody-code)**
 
-- author: Martin Watts
+- author: Dr Martin Watts
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/18c/images/1U8A1283-01.jpeg)
 
