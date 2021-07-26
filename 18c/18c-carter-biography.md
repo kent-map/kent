@@ -11,7 +11,7 @@ banner="/images/banners/18c.jpg">
 #
 
 Long before Victoria was allegedly not amused, Elizabeth Carter projected a similar frostiness in the face of frivolity. According to her nephew, ‘she went once to a puppet-show at Deal, with some respectable friends, and Punch was uncommonly dull and serious, who was usually more jocose than delicate. “Why Punch,” says the showman, ‘what makes you so stupid.”—"I can’t talk my own talk,” answers Punch, “the famous Miss Carter is here.”’ 
-<br>
+<br><br>
 That day in Deal, Carter clearly enjoyed the show a lot less than she enjoyed her reputation as the epitome of earnestness. Yet the risk to the puppets was nothing like the threat posed by Zeal-of-the-Land Busy to the puppets of Jonson’s _Bartholomew Fair_, and with the amusements of others Carter was by no means a militant killjoy. It was only with herself that she was strict. The strictness seems to have come, moreover, from an intense thirst for the joy that she was keeping down:  
 <br>
 _All-pow’rful Grace, exert thy gentle Sway,   
