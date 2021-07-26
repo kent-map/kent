@@ -13,6 +13,7 @@ banner="/images/banners/18c.jpg">
 <param ve-entity eid="Q676689" aliases="Gravesend">
 
 “One of the richest green landscapes, with woods and villages, I ever saw”: Ann Radcliffe’s trip to Kent in September 1797.   
+<br><br>
 Ann Radcliffe might not necessarily spring readily to mind in connection with Kent. The ‘mighty enchantress’ was a defining figure of the eighteenth century Gothic romance, with literary sensations such as _The Mysteries of Udolpho_ (1794) and _The Italian_ (1796). Both of these are set in the exotic climate of southern Europe, a key part of the contemporary ‘Grand Tour’ for wealthy English people. Ann Radcliffe never went to Italy, though; even better than that, in the September of 1797, she came to Kent.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/83/Ilustracja_do_powiesci_Ann_Radcliffe_%22The_Mysteries_of_Udolpho%22_1793_%28120174439%29.jpg" label="The Mysteries of Udolpho, 1793" attribution="National Library of Poland, Public domain, via Wikimedia Commons">
 
