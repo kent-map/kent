@@ -77,10 +77,10 @@ module.exports = {
     const validCenturyHeadings = ['medieval kent', '17th century kent', '19th century kent', '20th century kent']
 
     if (validCenturyHeadings.includes(title_text)) {
-        this.centuryPage = 'true'
+        this.centuryPage = true
     }
     else {
-        this.centuryPage = 'false'
+        this.centuryPage = false
     }
 
     // Detects if visual essay page or not (for if referencing button should be added)
