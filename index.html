@@ -188,13 +188,13 @@
     console.log(window.location)
     const ENV = window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod') > 0 ? 'DEV' : 'PROD'
     let isJuncture = window.location.hostname.indexOf('juncture-digital.org') === 0 || ENV === 'DEV'
-    const junctureVersion = 'v0.3.1'
+    const junctureVersion = 'v0.3.2'
     let junctureVersionHash
 
     const referrerUrl = document.referrer
     if (referrerUrl) {
       const referrer = parseUrl(referrerUrl)
-      if (referrer.host === 'github.com') {
+      if (referrer.host === 'github.com' && referrer.pathname.indexOf('/jstor-labs/juncture/wiki') < 0) {
         const referrerPath = referrer.pathname.slice(1).split('/')
         const ghAcct = referrerPath[0]
         const ghRepo = referrerPath[1]
@@ -331,7 +331,7 @@
     
     // GLobal variables used to initialize Vue
     let siteConfig, contentSource, componentsList, ghUnscopedToken, oauthAccessToken, gcApiKey, gcAuthDomain, gaPropertyID, fontawesome
-    let loginsEnabled = false
+    let oauthCredsFound = false
     let authenticatedUser = null
     
     const componentsRoot = 'components'
@@ -419,14 +419,18 @@
         el.content = siteConfig.description
         document.querySelector('head').appendChild(el)
       }
-      let attrsWithUrls = ['banner', 'favicon', 'logo']        
-      headRef(contentSource.acct, contentSource.repo, contentSource.ref).then(headHash => {
-        if (headHash) {
-          contentSource.hash = headHash.slice(0,7)
-          contentSource.assetsBaseUrl = `https://raw.githubusercontent.com/${contentSource.acct}/${contentSource.repo}/${contentSource.hash}`
-          attrsWithUrls.forEach(attr => { if (config[attr]) config[attr] = convertURL(config[attr]) })
-        }
-      })
+      let attrsWithUrls = ['banner', 'favicon', 'logo']
+      if (window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod.io') > 0 ) {
+        attrsWithUrls.forEach(attr => { if (config[attr]) config[attr] = convertURL(config[attr]) })
+      } else {
+        headRef(contentSource.acct, contentSource.repo, contentSource.ref).then(headHash => {
+          if (headHash) {
+            contentSource.hash = headHash.slice(0,7)
+            contentSource.assetsBaseUrl = `https://raw.githubusercontent.com/${contentSource.acct}/${contentSource.repo}/${contentSource.hash}`
+            attrsWithUrls.forEach(attr => { if (config[attr]) config[attr] = convertURL(config[attr]) })
+          }
+        })
+      }
         
       return config
     })
@@ -506,7 +510,7 @@
           selectedItem: undefined,
           actions: {},
           authenticatedUser,
-          loginsEnabled,
+          oauthCredsFound,
           externalWindow: null,
           newRepo: null,
           newPage: null,
@@ -538,7 +542,8 @@
           viewersEnabled() { 
             let viewers = this.items.filter(item => this.availableViewers.indexOf(item.viewer) >= 0).map(item => item.viewer)
             return viewers.filter((viewer, index) => viewers.indexOf(viewer) === index)
-          }
+          },
+          loginsEnabled() { return this.oauthCredsFound && (!this.essayConfig || !this.essayConfig['logins-disabled']) }
         },
         mounted() {
           this.anchor = window.location.href.indexOf('#') >= 0 ? window.location.href.split('#').pop() : null
@@ -699,7 +704,7 @@
           },
 
           async getMarkdown(path) {
-            if (window.location.hostname === 'localhost' || window.location.hostname.indexOf('8080') === 0 ) {
+            if (window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod.io') > 0 ) {
               let url = `${contentSource.baseUrl}${contentSource.basePath}${path}`
               let resp = await fetch(url)
               if (resp.ok) return await resp.text()
@@ -1401,7 +1406,7 @@
                 } else {
                   if (pathElems[0] === contentSource.acct && pathElems[1] === contentSource.repo) pathElems = pathElems.slice(2)
                 }
-                target = parsedUrl.hash === '' ? `/${pathElems.join('/')}/` : parsedUrl.hash.split('?')[0]
+                target = parsedUrl.hash === '' ? `/${pathElems.join('/')}${pathElems.length > 0 ? '/' : ''}` : parsedUrl.hash.split('?')[0]
               }
               link.removeAttribute('href')
               link.setAttribute('data-target', target)
@@ -1490,14 +1495,14 @@
       resp = await fetch(`https://api.github.com/repos/${config.acct || contentSource.acct}/${config.repo || contentSource.repo}/contents/config.yaml?ref=${config.ref || contentSource.ref}`, ghToken ? {headers: {Authorization:`Token ${ghToken}`}} : {})
       if (resp.ok) {
         resp = await resp.json()
-        config = {...config, ...YAML.parse(atob(resp.content))}
+        config = {...YAML.parse(atob(resp.content)), ...config}
       }
 
       if (config.gcApiKey) gcApiKey = atob(config.gcApiKey)
       if (config.gcAuthDomain) gcAuthDomain = atob(config.gcAuthDomain)
       if (config.gaPropertyID) gaPropertyID = config.gaPropertyID
       if (config.fontawesome) fontawesome = config.fontawesome
-      loginsEnabled = gcApiKey !== undefined && gcAuthDomain !== undefined
+      oauthCredsFound = gcApiKey !== undefined && gcAuthDomain !== undefined
       return config
     }
 
@@ -1574,28 +1579,30 @@
       let ref = contentSource.acct === 'jstor-labs' && contentSource.repo === 'juncture' ? junctureVersionHash : contentSource.ref
 
       if (window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod') > 0) {
+
         componentsList = [...componentsList, ...await listComponents(
         `${contentSource.baseUrl}${contentSource.isGhpSite ? contentSource.basePath : ''}`, 'custom/components')]
         componentsList = [...componentsList, ...await listComponents(
         `${contentSource.baseUrl}${contentSource.isGhpSite ? contentSource.basePath : ''}`, 'components')]
-      }
+      
+      } else {
+        
+        if (contentSource.repo !== 'juncture' || contentSource.acct !== 'jstor-labs') {
+          componentsList = [...componentsList, ...await listComponents(
+            `https://api.github.com/repos/${contentSource.acct}/${contentSource.repo}/git/trees/${ref}`,
+            'custom/components',
+            `https://raw.githubusercontent.com/${contentSource.acct}/${contentSource.repo}/${ref}`)]
+          componentsList = [...componentsList, ...await listComponents(
+            `https://api.github.com/repos/${contentSource.acct}/${contentSource.repo}/git/trees/${ref}`,
+            'components',
+            `https://raw.githubusercontent.com/${contentSource.acct}/${contentSource.repo}/${ref}`)]
+        }
 
-      if (contentSource.repo !== 'juncture' || contentSource.acct !== 'jstor-labs') {
-        componentsList = [...componentsList, ...await listComponents(
-          `https://api.github.com/repos/${contentSource.acct}/${contentSource.repo}/git/trees/${ref}`,
-          'custom/components',
-          `https://raw.githubusercontent.com/${contentSource.acct}/${contentSource.repo}/${ref}`)]
-        componentsList = [...componentsList, ...await listComponents(
-          `https://api.github.com/repos/${contentSource.acct}/${contentSource.repo}/git/trees/${ref}`,
-          'components',
-          `https://raw.githubusercontent.com/${contentSource.acct}/${contentSource.repo}/${ref}`)]
-      }
-
-      if (window.location.hostname !== 'localhost' && window.location.hostname.indexOf('gitpod') < 0) {
         componentsList = [...componentsList, ...await listComponents(
           `${contentSource.baseUrl}${contentSource.isGhpSite ? contentSource.basePath : ''}`, 'custom/components')]
         componentsList = [...componentsList, ...await listComponents(
           `${contentSource.baseUrl}${contentSource.isGhpSite ? contentSource.basePath : ''}`, 'components')]
+
       }
 
       componentsList = [...componentsList, ...await listComponents(
@@ -1603,7 +1610,7 @@
         'components',
         `https://raw.githubusercontent.com/jstor-labs/juncture/${junctureVersionHash}`)]
         
-        return componentsList
+      return componentsList
     }
   
     function parseUrl(href) {
