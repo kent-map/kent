@@ -1,8 +1,19 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Ann Radcliffe" author="Dr Michael Goodrum" layout="vtl" 
+banner="/images/banners/18c.jpg">
+
+<param ve-entity eid="Q29303" aliases="Canterbury">
+Rochester
+Dover
+Sittingbourne
+Folkestone
+Sandgate
+Hythe
+Chatham
+
 “One of the richest green landscapes, with woods and villages, I ever saw”: Ann Radcliffe’s trip to Kent in September 1797.
 
-Michael Goodrum
-
-Ann Radcliffe might not necessarily spring readily to mind in connection with Kent. The ‘mighty enchantress’ was a defining figure of the eighteenth century Gothic romance, with literary sensations such as The Mysteries of Udolpho (1794) and The Italian (1796). Both of these are set in the exotic climate of southern Europe, a key part of the contemporary ‘Grand Tour’ for wealthy English people. Ann Radcliffe never went to Italy, though; even better than that, in the September of 1797, she came to Kent.
+Ann Radcliffe might not necessarily spring readily to mind in connection with Kent. The ‘mighty enchantress’ was a defining figure of the eighteenth century Gothic romance, with literary sensations such as _The Mysteries of Udolpho_(1794) and _The Italian_(1796). Both of these are set in the exotic climate of southern Europe, a key part of the contemporary ‘Grand Tour’ for wealthy English people. Ann Radcliffe never went to Italy, though; even better than that, in the September of 1797, she came to Kent.
 
 Although no longer publishing by this stage (The Italian was the last of her novels to be published in her lifetime), Radcliffe continued to describe the countryside in a style familiar to her legion of readers – as Richard Davenport-Hines notes, “landscape was Radcliffe’s paramount interest.” In extracts from her journal appended to the posthumous Gaston De Blondeville (1826), the journey between Gravesend and Rochester is described as follows: “the distant hills run out into long ridges, and fold one behind the other. The river often seen between green-dipping hills, and then opening in vast majesty.” After the Arcadian, the sudden injection of the Gothic: “Descended towards Rochester: solemn appearance of the castle, with its square ghastly walls and their hollow eyes, rising over a bank of the Medway, grey and massive and floorless; nothing remaining but the shell.” To those familiar with Radcliffe’s charged descriptions of luminous landscapes and all the images they conjure, it feels a little odd to have the more familiar environs of Kent so described.
 
@@ -10,6 +21,6 @@ Radcliffe’s tour of Kent continued for some days, moving through Chatham (“a
 
 Why, then, was such material added to her posthumous novel? Well, as Nick Groom states, “after writing The Italian, Ann Radcliffe reputedly went mad… But Ann Radcliffe had lost neither her wits nor her life to her art: financially independent and jaded by criticism of her work, in the wake of the publication of The Italian she had, at the age of 32, simply retired into genteel affluence and obscurity.” Beyond that, as Alison Milbank puts it, “very little is known of Ann Radcliffe’s life.” The journal extracts add some background and demonstrate that, far from succumbing to the demands her novels had made of her, Radcliffe retired from public life on the money with which they, and other legacies, provided her.
 
-Ann Radcliffe’s journals of her trip to places such as Kent, Southampton, and the Isle of Wight therefore seem to be attempts to show that she was perfectly well – that, like her heroines, after the exertions of her early life, she had retired into marital tranquillity. More than that, while Jane Austen could assert in Northanger Abbey (1818) that, “charming as were all Mrs Radcliffe’s works, charming even as were the works of all her imitators, it was not in them, perhaps, that human nature, at least in the midland counties, was to be looked for,” these journals show an intertwining of heightened emotion, landscape, and their situation within a setting more readily accessible to those in the midland, and indeed southern, counties of England.
+Ann Radcliffe’s journals of her trip to places such as Kent, Southampton, and the Isle of Wight therefore seem to be attempts to show that she was perfectly well – that, like her heroines, after the exertions of her early life, she had retired into marital tranquillity. More than that, while [ane Austen](/austen/19c-austen-biography) could assert in _Northanger Abbey_(1818) that, “charming as were all Mrs Radcliffe’s works, charming even as were the works of all her imitators, it was not in them, perhaps, that human nature, at least in the midland counties, was to be looked for,” these journals show an intertwining of heightened emotion, landscape, and their situation within a setting more readily accessible to those in the midland, and indeed southern, counties of England.
 
 
