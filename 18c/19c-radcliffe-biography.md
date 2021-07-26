@@ -10,6 +10,7 @@ banner="/images/banners/18c.jpg">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q729006" aliases="Chatham">
+<param ve-entity eid="Q676689" aliases="Gravesend">
 
 “One of the richest green landscapes, with woods and villages, I ever saw”: Ann Radcliffe’s trip to Kent in September 1797.
 
