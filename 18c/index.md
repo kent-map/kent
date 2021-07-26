@@ -8,14 +8,16 @@
 ##
 **[Elizabeth Carter](18c-carter-biography)**
 
-- author:
+- author: Dr Peter Merchant
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff22cb41-5bde-4bf8-a335-3fbffef0264a)
 
 ##
 **[Ann Radcliffe](18c-radcliffe-biography)**
 
 - author: Dr Michael Goodrum
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41)
 
 ##
 **[The Bloody Code](18c-bloody-code)**
