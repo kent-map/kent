@@ -40,6 +40,7 @@ _'a magnificent coal-black beard decorated the chin of this worthy; but this was
 
 Courtenay was a wine-merchant, and after unsuccessfully standing for parliament in [Canterbury](/19c/19c-canterbury) was involved with smuggling. He was then tried and committed to the Kent County Lunatic Asylum. Courtenay was largely believed to be insane even before his incarceration in the asylum, his chief delusion that he would be elected into parliament. Ainsworth captures this in the poem as the knight of Malta sings “For surely I the fittest was, and very proper, very,/To represent the wisdom and the wit of [Canterbury](19c-canterbury).” After his release Courtenay gathered a small band of followers and incited what is known as the Battle of Bossenden Wood (1838) by killing a constable. The battle, otherwise known as ‘The Courtenay Uprising’, took place in a village between [Canterbury](/19c/19c-canterbury) and Faversham and is largely considered to be one the of the last battles fought on English soil.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/80/Bossenden_Wood_-_geograph.org.uk_-_437865.jpg" label="Bossenden Wood - geograph.org.uk - 437865.jpg" attribution="Paul Plumb / Bossenden Wood">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/William_Harrison_Ainsworth_-_AUTHOR_OF_ROOKWOOD.png" label="William Harrison Ainsworth - AUTHOR OF ROOKWOOD.png" attribution="Author William Bates, Illustrator Daniel Maclise, Public domain, via Wikimedia Commons">
 <param ve-map center="Q5315106" zoom="15"> 
 
 ### Bibliography
@@ -47,4 +48,4 @@ Courtenay was a wine-merchant, and after unsuccessfully standing for parliament 
 Ainsworth, William Harrison. [_Rookwood._](http://www.gutenberg.org/ebooks/23564) Project Gutenberg, Retrieved April 2020. Project Gutenberg, Retrieved April 2020 from http://www.gutenberg.org/ebooks/23564   
 For more information on [The Battle of Bossenden Wood](https://favershamlife.org/the-battle-of-bossenden-wood-1838/)   
 For more information on [The Courtenay Uprising](http://www.kentpast.co.uk/the%20courtenay%20uprising.html)    
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/William_Harrison_Ainsworth_-_AUTHOR_OF_ROOKWOOD.png" label="William Harrison Ainsworth - AUTHOR OF ROOKWOOD.png" attribution="Author William Bates, Illustrator Daniel Maclise, Public domain, via Wikimedia Commons">
+
