@@ -11,7 +11,7 @@
 ### People
 
 [Henry Gardiner Adams](19c-gardiner-adams-biography)   
-[William Harrison Ainsworth](19c-ainsworth-biography)     
+[William Harrison Ainsworth](19c-whainsworth-biography)     
 [Hans Christian Andersen](19c-christian-andersen)   
 [Jane Austen](19c-austen-biography)  
 [Robert Barr](19c-barr-biography)  
