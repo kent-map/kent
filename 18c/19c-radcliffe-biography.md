@@ -3,13 +3,13 @@
 banner="/images/banners/18c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
-Rochester
-Dover
-Sittingbourne
-Folkestone
-Sandgate
-Hythe
-Chatham
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q1626044" aliases="Sittingbourne">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q1000312" aliases="Sandgate">
+<param ve-entity eid="Q967166" aliases="Hythe">
+<param ve-entity eid="Q729006" aliases="Chatham">
 
 “One of the richest green landscapes, with woods and villages, I ever saw”: Ann Radcliffe’s trip to Kent in September 1797.
 
