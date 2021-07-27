@@ -19,6 +19,8 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41)
 
+Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, with literary sensations such as The Mysteries of Udolpho (1794) and The Italian (1796). Both of these are set in the exotic climate of southern Europe. However, Ann Radcliffe never went to Italy, even better than that, she came to Kent.
+
 ##
 **[The Bloody Code](18c-bloody-code)**
 

@@ -10,14 +10,14 @@ banner="/images/banners/18c.jpg">
 
 #
 
-Long before Victoria was allegedly not amused, Elizabeth Carter projected a similar frostiness in the face of frivolity. According to her nephew, ‘she went once to a puppet-show at Deal, with some respectable friends, and Punch was uncommonly dull and serious, who was usually more jocose than delicate. “Why Punch,” says the showman, ‘what makes you so stupid.”—"I can’t talk my own talk,” answers Punch, “the famous Miss Carter is here.”’ 
+Long before Victoria was allegedly not amused, Elizabeth Carter projected a similar frostiness in the face of frivolity. According to her nephew, ‘she went once to a puppet-show at Deal, with some respectable friends, and Punch was uncommonly dull and serious, who was usually more jocose than delicate. “Why Punch,” says the showman, ‘what makes you so stupid.” — "I can’t talk my own talk,” answers Punch, “the famous Miss Carter is here.”’ 
 <br><br>
 That day in Deal, Carter clearly enjoyed the show a lot less than she enjoyed her reputation as the epitome of earnestness. Yet the risk to the puppets was nothing like the threat posed by Zeal-of-the-Land Busy to the puppets of Jonson’s _Bartholomew Fair_, and with the amusements of others Carter was by no means a militant killjoy. It was only with herself that she was strict. The strictness seems to have come, moreover, from an intense thirst for the joy that she was keeping down:  
 <br>
-_All-pow’rful Grace, exert thy gentle Sway,   
+All-pow’rful Grace, exert thy gentle Sway,   
 And teach my rebel Passions to obey:   
 Lest lurking Folly with insidious Art   
-Regain my volatile inconstant Heart._    
+Regain my volatile inconstant Heart.    
 <br>
 Blake’s adage that those who restrain desire do so because theirs is weak enough to be restrained does not appear to apply here.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/76/Elizabeth_Carter.jpg" label="Elizabeth Carter" attribution="Joseph Brown, Public domain, via Wikimedia Commons">
@@ -30,12 +30,12 @@ Carter could by this time have been commanding, had she chosen, a profile as hig
 
 That final comment, like the puppet-show anecdote, may risk creating a false impression of Carter’s personality and attitudes. She in fact vigorously promoted the education of women, although she did not want it to be at the expense of domestic accomplishments. Nor did Samuel Johnson:   
 <br>
-_'My old friend, Mrs. Carter, said he, could make a pudding, as well as translate Epictetus from the Greek, and work a handkerchief as well as compose a poem.’  Faint though that praise now seems—and bestowed on the back of a colossal condescension (‘A man is in general better pleased when he has a good dinner upon his table, than when his wife talks Greek’)—making puddings and translating Epictetus at least blazed a rather brighter trail than the consummation so devoutly to be deprecated in _Jane Eyre_, _‘making puddings and knitting stockings.'_
+'My old friend, Mrs. Carter, said he, could make a pudding, as well as translate Epictetus from the Greek, and work a handkerchief as well as compose a poem.’  Faint though that praise now seems — and bestowed on the back of a colossal condescension (‘A man is in general better pleased when he has a good dinner upon his table, than when his wife talks Greek’) — making puddings and translating Epictetus at least blazed a rather brighter trail than the consummation so devoutly to be deprecated in _Jane Eyre_, ‘making puddings and knitting stockings.'
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/92/Samuel_Johnson_by_Joshua_Reynolds_2.jpg" label="Samuel Johnson" attribution="Joshua Reynolds, Public domain, via Wikimedia Commons">
 
 Two hundred years ago, compiling a ‘Series of Writers in English Poetry, Natives of or Residents in the County of Kent; with Specimens of their Compositions, and Some Account of their Lives and Writings,’ Rowland Freeman proposed a mainly male roll of honour. After Elizabeth I, Mary Sidney Herbert, and [Aphra Behn](/17c/17c-behn-biography), Carter was the fourth and final female poet admitted to the hall of fame. Her impeccable Kentish credentials are laid at once before the reader:   
 <br>
-_‘This learned and excellent lady was born at Deal, where her father, the Rev. Nicholas Carter, D.D., was curate of the episcopal chapel; he was also rector of Woodchurch and Ham, and one of the six preachers in the cathedral of Canterbury.’  When in 1762 she was able to move up the property ladder, her ambitions extended no further than South Street in Deal; and ‘she continued to occupy the same residence at Deal to the end of her life, dividing her time between that town and London, where she generally passed the winter.’_   
+‘This learned and excellent lady was born at Deal, where her father, the Rev. Nicholas Carter, D.D., was curate of the episcopal chapel; he was also rector of Woodchurch and Ham, and one of the six preachers in the cathedral of Canterbury.’  When in 1762 she was able to move up the property ladder, her ambitions extended no further than South Street in Deal; and ‘she continued to occupy the same residence at Deal to the end of her life, dividing her time between that town and London, where she generally passed the winter.’   
 <br>
 A life of nearly ninety years, made up according to Freeman of twenty-hour working days, gave her a lot of time to divide: ‘She…consumed in severe application to books, the hours which should have been devoted to repose. She accustomed herself to rise at four o’clock in the morning, and did not usually retire to rest until past midnight; to prevent sleep during this long period, she not only acquired the disgusting practice of snuff-taking, but she was also accustomed to chew green tea and coffee, and even to bind a wet towel round her head, or apply it to the region of the stomach.’ 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/37/Buildings_on_the_S_side_of_South_Street_-_geograph.org.uk_-_967133.jpg" label="Buildings on the South side of South Street, Deal" attribution="Nick Smith">
