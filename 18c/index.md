@@ -12,6 +12,8 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff22cb41-5bde-4bf8-a335-3fbffef0264a)
 
+Elizabeth Carter was an English poet, classicist, writer, translator, and linguist who was born in Deal.  
+
 ##
 **[Ann Radcliffe](18c-radcliffe-biography)**
 
