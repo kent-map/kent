@@ -3,7 +3,7 @@
        banner="/images/banners/18c.jpg"
        layout="index">
 
-#
+# {.cards}
 
 ##
 **[Elizabeth Carter](18c-carter-biography)**
