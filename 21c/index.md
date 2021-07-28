@@ -36,7 +36,7 @@ Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
 - author: Dr Martin Latham
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Waterstones%20rocking%20horses.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9c9505ef-6725-4b6d-a116-ede530595639)
 
 In summer, I ate ice cream on the roof. It was a shop of dreams, I can still smell the combination of books and wood, and I dreamed vividly there when I afternoon-napped in my hammock in a basement cupboard.
 
