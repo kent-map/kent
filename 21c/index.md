@@ -1,5 +1,5 @@
 <param ve-config 
-       title="21st Century"
+       title="21st Century Kent"
        banner="images/Millenium%20Mural.jpg">
 
 # {.cards}
