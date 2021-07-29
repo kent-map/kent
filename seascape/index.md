@@ -28,7 +28,7 @@ Built in secret, the old Roman port of Richborough, was chosen for redevelopment
 
 - author: Jacquie Stamp
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/erebus.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/9d/%27Erebus%27_and_%27Terror%27_in_the_Antarctic_RMG_BHC1215.tiff)
 
 On the 19 May 1845 H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north", and to circumnavigate America.
 
