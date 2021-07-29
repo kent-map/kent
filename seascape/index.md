@@ -28,7 +28,7 @@ Built in secret, the old Roman port of Richborough, was chosen for redevelopment
 
 - author: Jacquie Stamp
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/erebus.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/9d/%27Erebus%27_and_%27Terror%27_in_the_Antarctic_RMG_BHC1215.tiff)
 
 On the 19 May 1845 H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north", and to circumnavigate America.
 
@@ -37,7 +37,7 @@ On the 19 May 1845 H. M. sloops "Erebus" and "Terror" left Greenhithe, on their 
 
 - author Mandy Jones
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/The Goodwin Sands img-019.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/6d/A_thick_night_off_the_Goodwins_RMG_PX9959.jpg)
 
 The Goodwin Sands provide an atmospheric backdrop to this shocking tale of crime, mystery and romance written by Victoria Holt and published in 1969.
 
