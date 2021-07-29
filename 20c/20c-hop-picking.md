@@ -1,5 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png">
-</a> <param ve-config title="Hop Picking and the Literary Imagination" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/4/44/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22170.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Hop Picking and the Literary Imagination" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/4/44/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22170.jpg">
 
 <param ve-entity eid="Q7985606" aliases="West Kent">
 <param ve-entity eid="Q104082075" aliases="Gads Hill">
