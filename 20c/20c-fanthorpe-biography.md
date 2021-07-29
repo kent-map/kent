@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="U. A. Fanthorpe (Ursula Askham Fanthorpe) (1929-2009)" author="Professor Carolyn Oulton" layout="vtl" 
+<param ve-config title="U. A. Fanthorpe (Ursula Askham Fanthorpe) (1929-2009)" author="Simone Blandford" layout="vtl" 
 banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
 <param ve-entity eid="Q215030" aliases="Lewisham">
@@ -32,6 +32,9 @@ _Side Effect_ (1978),
 _A Watching Brief_ (1987)   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a9/SISSINGHURST_CASTLE_GARDEN_The_Prospect_Tower_and_lawn.JPG" label="Sissinghurst Castle Garden, The Prospect Tower and Lawn" attribution="HARTLEPOOLMARINA2014, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map center="Q24660387" zoom="15">
+
+###Article by Simone Blandford
+
 
 ### Bibliography 
 
