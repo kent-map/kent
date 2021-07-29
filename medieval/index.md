@@ -12,7 +12,7 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4422f81a-1554-4ec0-878a-81e2e415fdf7)
 
-Elizabeth Carter was an English poet, classicist, writer, translator, and linguist who was born in Deal.  
+Chaucer has become one of England’s most famous poets. He is best known for The Canterbury Tales, which he wrote in the last decade of his life. 
 
 ##
 **[Hengest and Horsa](hengestandhorsa)**
@@ -30,4 +30,4 @@ Whether or not Hengest and Horsa ever existed, the fact remains that they are pa
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cd/BL_Cotton_Tiberius_B_I_f._118r.png)
 
-Elizabeth Carter was an English poet, classicist, writer, translator, and linguist who was born in Deal.  
+A short entry in the Anglo-Saxon Chronicle documents a little-known event which took place in the mid fifth century, on the slopes above the modern-day town of Crayford.
