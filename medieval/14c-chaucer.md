@@ -1,10 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Geoffrey Chaucer" author="Charlie Worthington" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg/1024px-Blake_Canterbury_Pilgrims_engraving.jpg">
+<param ve-config title="Geoffrey Chaucer c.1340s-1400" author="Charlie Worthington" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg/1024px-Blake_Canterbury_Pilgrims_engraving.jpg">
+
 <param ve-entity eid="Q5654535">
 
-### c.1340s-1400
-
-**Places:** Canterbury, Woolwich
+#
 
 >And specially, from every shires ende  
 Of Engelonde, to Canterbury they wende,  
