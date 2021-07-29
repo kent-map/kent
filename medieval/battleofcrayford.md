@@ -7,8 +7,6 @@
 
 #
 
-**5th century, Bexley**
-
 A short entry in the Anglo-Saxon Chronicle documents a little-known event which took place in the mid fifth century, on the slopes above the modern-day town of Crayford in the London Borough of Bexley:   
 _CCCCLVI Her Hengest 7 Æsc his sunu fuhton wiþ Bryttas on þære stowe þe is gecueden Creacganford 7 þær ofslogon iiiim. wera, 7 þa Bryttas þa forleton Kentlond 7 mid myclum ege flugon to Lundenbyrg._   
 A.D. 456. This year Hengest and Ash his son fought with the Britons on the spot that is called Crecganford [Crayford], and there slew 4,000 men, and the Britons then left the land of Kent, and in great fear fled to London.[^ref1]
