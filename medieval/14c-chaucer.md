@@ -5,10 +5,10 @@
 
 #
 
->And specially, from every shires ende  
-Of Engelonde, to Canterbury they wende,  
-The holy blisful martir for to seeke,  
-That them hath holpen whan that they were seeke.  
+And specially, from every shires ende   
+Of Engelonde, to Canterbury they wende,   
+The holy blisful martir for to seeke,   
+That them hath holpen whan that they were seeke.   
  _Chaucer's Prologue_
 <param ve-image url="https://stor.artstor.org/stor/115f208d-182b-44f6-bf4d-8f481eea236d" label="Geoffrey Chaucer Statue, Canterbury - sculpted by Sam Holland and Lynn O'Dowd, 2018" attribution="Martin Crowther">
 <param ve-map center="Q29303" zoom="12">
