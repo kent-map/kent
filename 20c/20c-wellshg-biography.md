@@ -8,7 +8,6 @@ banner="/images/banners/20c.jpg">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q921173" aliases="Aldington">
 
-**16 December 1775 - 18 July 1817**   
 **Publications of Interest:** _The Sea Lady_ (1902), _Kipps_ (1905) and _The History of Mr. Polly_ (1910)   
 **Places:** Sandgate, Folkestone, Aldington, Ramsgate, Canterbury   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg" label=H.G. Wells" attribution="Library of the London School of Economics and Political Science, No restrictions, via Wikimedia Commons">
