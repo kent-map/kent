@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Geoffrey Chaucer c.1340s-1400" author="Charlie Worthington" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg/1024px-Blake_Canterbury_Pilgrims_engraving.jpg">
+<param ve-config title="Geoffrey Chaucer c.1340s-1400" author="Charlotte Worthington" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg/1024px-Blake_Canterbury_Pilgrims_engraving.jpg">
 
 <param ve-entity eid="Q5654535">
 
@@ -14,7 +14,12 @@ That them hath holpen whan that they were seeke.
 <param ve-map center="Q29303" zoom="12">
 
 It is generally believed that Geoffrey Chaucer was born in the early 1340s, as in October 1386 he testified in the trial of Scrope v Grosvenor, claiming to be “forty and more” years old at the time. However, neither his exact place nor year of birth are known. Brought up in a family of prosperous wool and wine merchants, Chaucer has become one of England’s most famous poets.
-He is best known for _The Canterbury Tales_, which he wrote in the last decade of his life.  The Tales are a collection of stories told by a group of pilgrims travelling to Canterbury to visit the Shrine of Thomas Becket. However, despite the title, the loquacious pilgrims arrive in the village of Harbledown on the outskirts of Canterbury (Woot ye nat where ther stant a litel toun/ Which that ycleped is Bobbe-up-and-doun/Under the Blee, in Caunterbury Weye?- _The Manciple's Prologue_), and it is only in a later 15th century work _Tale of Beryn_ by an unknown author that the pilgrims actually reach Canterbury.  Whether Chaucer visited Canterbury himself is uncertain, although Robert Foreville believes that Chaucer may have visited during the 150-year jubilee of Becket's reburial (known as his translation) in the Trinity Chapel. In the _Tale of Beryn_ the pilgrims stay at the Cheker of Hope, on the corner of the High Street and Mercery Lane, which is the inn where Christopher Marlowe over a century later attacked William Corkine with a staff and dagger.
+He is best known for _The Canterbury Tales_, which he wrote in the last decade of his life.  The Tales are a collection of stories told by a group of pilgrims travelling to Canterbury to visit the Shrine of Thomas Becket. However, despite the title, the loquacious pilgrims arrive in the village of Harbledown on the outskirts of Canterbury (Woot ye nat where ther stant a litel toun/ Which that ycleped is Bobbe-up-and-doun/Under the Blee, in Caunterbury Weye?- _The Manciple's Prologue_), and it is only in a later 15th century work _Tale of Beryn_ by an unknown author that the pilgrims actually reach Canterbury.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Interesting_buildings_in_Harbledown_-_geograph.org.uk_-_1291639.jpg" label="Harbledown" attribution="Elliott Simpson / Interesting buildings in Harbledown">
+<param ve-map center="Q5654535" zoom="15">
+
+
+Whether Chaucer visited Canterbury himself is uncertain, although Robert Foreville believes that Chaucer may have visited during the 150-year jubilee of Becket's reburial (known as his translation) in the Trinity Chapel. In the _Tale of Beryn_ the pilgrims stay at the Cheker of Hope, on the corner of the High Street and Mercery Lane, which is the inn where Christopher Marlowe over a century later attacked William Corkine with a staff and dagger.
 <param ve-image url="https://stor.artstor.org/stor/16808a03-82ab-4ab2-8e9d-94922488e13c" label="Site of the Cheker of Hope, Canterbury" attribution="Martin Crowther">
 <param ve-map center="Q5654535" zoom="14">
 
