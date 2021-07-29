@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="U. A. Fanthorpe (Ursula Askham Fanthorpe) (1929-2009)" author="Professor Carolyn Oulton" layout="vtl" 
+<param ve-config title="U. A. Fanthorpe (Ursula Askham Fanthorpe) (1929-2009)" author="Simone Blandford" layout="vtl" 
 banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
 <param ve-entity eid="Q215030" aliases="Lewisham">
