@@ -31,7 +31,7 @@ The media shown can vary. The media includes:
 
 - Still images which you cannot interact with
 - Images where you can hold left-click and move your cursor to view different parts of the image and pinch in on your trackpad or touchscreen device or scroll forward on your mouse to zoom into the image.
-- Images where you can move your curosr from left to right to view the modern-day image on the left and the original image on the right. You can also pinch in on your trackpad or touchscreen device or scroll forward on your mouse to zoom into the image.
+- Images where you can move your cursor from left to right to view the modern-day image on the left and the original image on the right. You can also pinch in on your trackpad or touchscreen device or scroll forward on your mouse to zoom into the image.
 - Multiple images, which you can swap between by clicking on the relevant image at the bottom left of the image.
 - Maps where you can zoom in/out using the + and - symbols in the top left corner and hold left-click and move your cursor to view different parts of the image.
 - Videos
