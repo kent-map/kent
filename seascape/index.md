@@ -37,7 +37,7 @@ On the 19 May 1845 H. M. sloops "Erebus" and "Terror" left Greenhithe, on their 
 
 - author Mandy Jones
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/The Goodwin Sands img-019.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/6d/A_thick_night_off_the_Goodwins_RMG_PX9959.jpg)
 
 The Goodwin Sands provide an atmospheric backdrop to this shocking tale of crime, mystery and romance written by Victoria Holt and published in 1969.
 
