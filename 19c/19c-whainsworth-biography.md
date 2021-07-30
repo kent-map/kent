@@ -3,7 +3,7 @@
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q7074318" aliases="Kent County Lunatic Asylum">
-<param ve-entity eid="Q 4870530" aliases="the Battle of Bossenden Wood">
+<param ve-entity eid="Q4870530" aliases="the Battle of Bossenden Wood">
 
 #
 
