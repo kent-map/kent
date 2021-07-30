@@ -6,12 +6,6 @@
 
 This site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists.
 
-# Map
-<param ve-map center="Q1094104" zoom="10">
-<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820">
-
-<var data-map data-basemap="Esri_WorldPhysical" center="Q72259" zoom="7"></var>
-
 # Featured essays
 
 # {.cards}

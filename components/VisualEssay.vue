@@ -2,22 +2,19 @@
 
   <div v-if="centuryPage">
 
-    <button class = "pageLink" @click="mapMode = 'true'" :class="{'hide': (this.mapMode === 'true') || (this.homePage === 'false')}">View map</button>
+    <button class = "pageLink" @click="mapMode = 'true'; createMainMap()" :class="{'hide': (this.mapMode === 'true') || (this.homePage === 'false')}">View map</button>
     <button class = "pageLink" @click="mapMode = 'false'" :class="{'hide': (this.mapMode === 'false') || (this.homePage === 'false')}">Hide map</button>
     <button class = "pageLink" onclick="window.location.href='/howto';" :class="{'hide': this.homePage === 'false'}">How to use this site</button>
 
-    <!--
-    <div id = "map-container" :class="{'hide': (this.mapMode === 'false') || (this.homePage === 'false')}">
-      <h1>Map</h1>
-      <ve-map2></ve-map2>
-    </div>-->
+    <div id = 'mapContainer' :class="{'hide': (this.mapMode === 'false') || (this.homePage === 'false')}">
+      <ve-mapmain width = '100%' height = '70%' id = "map" v-if="mapMode === 'true'" :locations="locations" @do-action="doAction"></ve-mapmain>
+    </div>
+    <div v-if="mapMode === 'false'" id="essay-component" ref="essay" v-html="processedHtml" :class="{'century-essay-component': centuryPage === 'true'}"></div>
+      
+    <button :class="{'hide': this.visualEssayPage === 'false' || this.generateReference == 'true'}" id = "reference-button" type = "button" @click="makeReference()">Generate MLA 7 Reference</button>
+    <p :class="{'hide': (this.visualEssayPage === 'false' || this.generateReference == 'false')}"  id = "reference-para">{{ referenceStart }}<i>{{ referenceItalic }}</i>{{ referenceMiddle }}<a :href="referenceUrl">{{ referenceLink }}</a>{{ referenceEnd }}</p>
   
     <link rel = "stylesheet" href = "https://raw.githubusercontent.com/kent-map/kent/develop/css/custom.css">
-
-    <div id="essay-component" ref="essay" v-html="processedHtml" :class="{'century-essay-component': centuryPage === 'true'}"></div>
-
-    <button :class="{'hide': this.visualEssayPage === 'false' || this.generateReference == 'true'}" id = "reference-button" type = "button" @click="makeReference()">Generate MLA 7 Reference</button>
-    <p :class="{'hide': (this.visualEssayPage === 'false' || this.generateReference == 'false')}"  id = "reference-para">{{ referenceStart }}<i>{{ referenceItalic }}</i>{{ referenceMiddle }}<a href = '{{ referenceUrl }}'>{{ referenceLink }}</a>{{ referenceEnd }}</p>
 
     <!-- Entity infobox popup -->
     <div style="display:none;">
@@ -34,6 +31,12 @@
 </template>
 
 <script>
+
+const dependencies = [
+  'https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css',
+  'https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js',
+  'http://harrywood.co.uk/maps/examples/leaflet/leaflet/leaflet.js'
+]
 
 module.exports = {  
   name: 'Essay',
@@ -54,7 +57,7 @@ module.exports = {
     centuryPage: 'false',
     visualEssayPage: 'false',
     homePage: 'false',
-    mapMode: 'true',
+    mapMode: 'false',
     referenceStart: '',
     referenceItalic: 'Kent Maps Online',
     referenceMiddle: '',
@@ -124,6 +127,10 @@ module.exports = {
           this.active = segments.length > 0 ? segments[0].dataset.id : null
         }
       })
+    },
+
+    doAction(options) {
+      if (options.action === 'load-page') this.$emit('do-action', 'load-page', options.path)
     },
 
     formatName(fullName) {
@@ -400,18 +407,33 @@ module.exports = {
 </script>
 
 <style>
-  /* Code for columns */
-  .century-essay-component > section {
-      float: left;
-      width: 25%;
+
+#mapContainer {
+  width: 100%;
+  height: 70vh;
+  border: 1px solid black;
+}
+
+.pageLink {
+    font-size: 1em;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 4vh;
+    cursor: pointer;
   }
 
-  @media (max-width: 700px) {
-      .century-essay-component > section {
-          float: none;
-          width: 100%;
-      }
-  }
+/* Code for columns */
+.century-essay-component > section {
+    float: left;
+    width: 25%;
+}
+
+@media (max-width: 700px) {
+    .century-essay-component > section {
+        float: none;
+        width: 100%;
+    }
+}
 
   h1 {
     font-family: Roboto, 'sans-serif';
@@ -423,15 +445,6 @@ module.exports = {
     border-radius: 15px;
     margin-bottom: 4vh;
     cursor: pointer;
-  }
-
-  .pageLink {
-    font-size: 1em;
-    padding: 10px;
-    border-radius: 15px;
-    margin-bottom: 4vh;
-    cursor: pointer;
-  }
   }
 
   #reference-para {
