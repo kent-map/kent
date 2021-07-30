@@ -11,7 +11,7 @@
 ### People
 
 [Henry Gardiner Adams](19c-gardiner-adams-biography)   
-[William Harrison Ainsworth](19c-ainsworth-biography)     
+[William Harrison Ainsworth](19c-whainsworth-biography)     
 [Hans Christian Andersen](19c-christian-andersen)   
 [Jane Austen](19c-austen-biography)  
 [Robert Barr](19c-barr-biography)  
@@ -63,19 +63,7 @@
 [Hoodening](19c-hoodening)  
 [Leather and Dust](/dickens/19c-leather-and-dust)
 
-### Have you read?
+### Texts
 
-William Harrison Ainsworth. _Rookwood_ (1834).  
-Barham, Rev. R. H. _The Ingoldsby Legends_ (1837).  
-F. C. Burnand. _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_ (1897).  
-Butler, Samuel. _The Way of All Flesh_ (1903 [published posthumously]).   
-Wilkie Collins. _The Law and the Lady_ (1875).  
-Charles Dickens. _David Copperfield_ (1850).  
---. _Edwin Drood_ (1870).  
---. _Great Expectations_ (1860).  
-George and Weedon Grossmith. _The Diary of a Nobody_ (1892).  
-Jerome K. Jerome. _Three Men on the Bummel_ (1900).  
-Christina Rossetti. ‘Birchington Churchyard’ (1882)  
-Mary Shelley. _The Fortunes of Perkin Warbeck_ (1830).  
-William Thackeray. _The Virginians_ (1859).  
+[Miss Balmaine's Past by Bithia Croker](19c-croker-missbalmaine)   
 

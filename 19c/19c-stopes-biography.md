@@ -8,6 +8,7 @@
 
 **Place:** The Mansion House, Swanscombe, Kent (1894-1899), Hillside, Greenhithe   
 **Known as:** Author, Shakespearian scholar and women’s rights campaigner   
+<br>
 Charlotte Carmichael was born in Edinburgh and attended Mr Oliphant’s mixed school. Frustrated by the exclusion of women from universities, she joined the Ladies' Edinburgh Debating Society in 1866 and submitted poems and articles to _The Attempt_ magazine under the pen name “lutea reseda” (wild mignonette). When university classes were offered to women in 1874, Charlotte began to attend lectures and became the first woman to gain a Certificate in Arts from the University of Edinburgh.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wild_Mignonette._Reseda_lutea_%2834976002624%29.jpg" label="Wild Mignonette, Reseda lutea" attribution="gailhampshire from Cradley, Malvern, U.K, CC BY 2.0, via Wikimedia Commons">
 <param ve-map center="Q1083051" zoom="15">
@@ -25,7 +26,8 @@ Charlotte’s ground-breaking publication _British Freewomen: Their Historical P
 Sarah Tooley who interviewed Charlotte for the _Women’s Penny Paper_ in 1895 describes the idyllic landscape around Charlotte’s home as she and Charlotte walked through “woods bright with bluebells and jubilant with birds, climbing five-barred gates and floundering in cart ruts.”[^ref5] Charlotte however played down its charms describing it as an “abandoned spot” which was “inhabited chiefly by miners who work in the adjacent [chalk pits](/landscape/chalk-pits-stig)”[^ref6] She said “I call this house my husband’s hunting-box, as the district is so rich in flints.”[^ref7] She did however enthuse about Kent’s connections with Shakespeare and “delights to think that the great William ofttimes with his company trod the [Dover Road](/dickens/dover-road) which runs East of her garden wall.” 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Woodland_Path_at_Swanscombe_Heritage_Park.jpg" label="Woodland Path at Swanscombe Heritage Park" attribution="Ethan Doyle White, CC BY-SA 4.0, via Wikimedia Commons">
 
-The idyll of family life that Sarah Tooley portrayed in the _Women's Penny Paper_ may have belied the reality. Sarah Green believes that "while [Charlotte and Henry's] correspondence suggests that a lasting comradeship developed between them, each found domestic life constraining and sought to pursue their interests on their own terms, sometimes spending lengthy periods apart."[^ref8] Swanscombe was Henry's space, London was Charlotte's.   
+The idyll of family life that Sarah Tooley portrayed in the _Women's Penny Paper_ may have belied the reality. Sarah Green believes that "while [Charlotte and Henry's] correspondence suggests that a lasting comradeship developed between them, each found domestic life constraining and sought to pursue their interests on their own terms, sometimes spending lengthy periods apart."[^ref8] Swanscombe was Henry's space, London was Charlotte's.  
+<br>
 After the death of her husband in 1902 at Hillside, Greenhithe, Charlotte continued his work, giving a talk at the British Association on his discovery of palaeolithic implements at the Shelly gravel pit in Swanscombe.[^ref9] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0c/Hand_Axe_Sculpture_in_Swanscombe_Heritage_Park_-_geograph.org.uk_-_1417150.jpg" label="Hand Axe Sculpture in Swanscombe Heritage Park" attribution="David Anstiss / Hand Axe Sculpture in Swanscombe Heritage Park">
 <param ve-map center="Q3028239" zoom="10">
