@@ -18,6 +18,7 @@ By March 2021, the order to stay at home was still in place. I’d still not see
 Lockdown made me see and hear things I never wanted to. Discovering the Odeon in Canterbury was a vaccination centre in April 2021 was terrifying. I felt like I should be at the cinema with my new friends, not hearing people went there for an injection. Despite all this heartache, there’s a new identity for students emerging. We’re working online, connecting through chat boxes, and meeting others through a screen. My identity feels altered to a new definition based on self-motivation and isolation. Time slowed in lockdown and I thought less about the future and more about what was in front of me. When my A levels were cancelled overnight, it made me realise you have to enjoy what you have now. 
 <param ve-image url="https://stor.artstor.org/stor/6babbfb7-29be-4fe3-bc13-fffffd71c75f" label="Canterbury Odeon - Covid Vaccination Centre" attribution="Carolyn Oulton">
 
+
 ### Works Cited
 
 Castle, Liane. [“Coronavirus Kent: Gardens to remain open virtually during lockdown as part of National Garden Scheme appeal”] (https://www.kentonline.co.uk/kent/news/take-a-virtual-tour-of-kents-finest-gardens-225495/) 10th April 2020. Accessed: 19th May 2021.   
