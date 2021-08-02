@@ -4,7 +4,7 @@ banner="/images/banners/18c.jpg">
 
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="51.24366, 1.33130" aliases="Ham">
+<!-- <param ve-entity eid="51.24366, 1.33130" aliases="Ham"> -->
 <param ve-entity eid="Q1874946" aliases="Woodchurch">
 
 #
