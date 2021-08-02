@@ -1,5 +1,4 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-
 <param ve-config title="Elizabeth Carter (1717–1806)" author="Peter Merchant" layout="vtl" 
 banner="/images/banners/18c.jpg">
 
