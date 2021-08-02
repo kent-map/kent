@@ -17,3 +17,5 @@ There are also essays on Canterbury's [universities](/canterbury/20c-canterbury-
 
 You can also learn more about how Canterbury has been shaped by its [transport](/canterbury/20c-canterbury-transport) and [railway](/canterbury/20c-canterbury-railway) infrastructures, as well as changing approaches to [planning as the city grew](/canterbury/20c-canterbury-planning), the significant [impact of the Second World War](/canterbury/20c-canterbury-ww2), and the [disastrous 1909 floods](/canterbury/20c-canterbury-floods).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Bundesarchiv_Bild_101I-662-6659-37%2C_Flugzeug_Messerschmitt_Me_109.jpg" label="Messerschmitt" attribution="Bundesarchiv, Bild 101I-662-6659-37 / Hebenstreit / CC-BY-SA 3.0">
+
+After that, why not take a [virtual tour](https://www.youtube.com/watch?v=hDP7rcFTexU) with a series of films by Jeremy Vaughan?

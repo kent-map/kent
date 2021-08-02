@@ -10,3 +10,11 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-color: black;
 }
+
+.pageLink {
+    font-size: 1em;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 4vh;
+    cursor: pointer;
+  }
