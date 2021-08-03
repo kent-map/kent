@@ -18,7 +18,8 @@ Rosemary McLeish. _Defragmentation_ (2020).
 --. _I am a Field_ (2019).  
 Edward Marston. _A Christmas Railway Mystery_ (2017).  
 Carolyn Oulton. [_Accidental Fruit_](https://www.worplepress.com/accidental-fruit/?fbclid=IwAR0iMTicaIsO_Ae8HdZ08m0KgQSvmjydKumvlC5uE1KUtVJb6sX7WMbuZag) (2016).  
-Sonia Overall. _The Realm of Shells_ (2006).  
+Sonia Overall. _The Realm of Shells_ (2006).
+Prescott, Victoria. _Inheritance of Secrets_
 Janet Pywell. _Book of Hours_ (a Mikky dos Santos Thriller) (2017).  
 Danny Rhodes. _Asboville_ (2006).  
 David Seabrook. _All the Devils Are Here_ (2002).  
