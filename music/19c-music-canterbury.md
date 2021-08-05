@@ -32,7 +32,7 @@ The first is the enormous number of newspaper reports of convivial evenings whic
 'A ‘star’ to be engaged for the last but one night of the season; carried. Proposal that the cost should not exceed £6.6.0. was put; amendment that it should not exceed £5.5.0 was carried.'
 <br><br>
 That would be about £500 in present-day value. It’s worth noting that the Mr. Macknay noted above had been paid the same amount in 1855. Given the Club’s declining membership, this was unsustainable. We have no way of knowing what most of the visitors charged for their appearances, but a safe bet is that one of the greatest musicians of the early nineteenth century would have charged a lot more for his appearance in 1834.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c6/The_London_to_Dover_Coach%2C_1750-1890.jpg" label="The London to Dover Coach, 1750-1890" attribution="Unattributed, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5e/Thomas_Rowlandson_-_The_Canterbury-Dover_Coach_Passing_Vanbrugh_Castle_-_Google_Art_Project.jpg" label="The Canterbury-Dover Coach passing Vanbrugh Castle" attribution="Thomas Rowlandson, Public domain, via Wikimedia Commons">
 
 ### Bibliography
 
