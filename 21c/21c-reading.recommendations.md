@@ -19,6 +19,7 @@ Rosemary McLeish. _Defragmentation_ (2020).
 Edward Marston. _A Christmas Railway Mystery_ (2017).  
 Carolyn Oulton. [_Accidental Fruit_](https://www.worplepress.com/accidental-fruit/?fbclid=IwAR0iMTicaIsO_Ae8HdZ08m0KgQSvmjydKumvlC5uE1KUtVJb6sX7WMbuZag) (2016).  
 Sonia Overall. _The Realm of Shells_ (2006).
+Matthew Pearl, _The Last Dickens_ (2009).
 Prescott, Victoria. _Inheritance of Secrets_
 Janet Pywell. _Book of Hours_ (a Mikky dos Santos Thriller) (2017).  
 Danny Rhodes. _Asboville_ (2006).  
