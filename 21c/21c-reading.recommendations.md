@@ -29,7 +29,6 @@ Fiona Sinclair. _Ladies Who Lunch_(https://sites.google.com/a/lapwingpublication
 [_The Time Travellers’ Picnic_](https://www.dempseyandwindle.com/fionasinclair.html) (2019).  
 Jonathan Terranova [_ Longing for more_]( https://www.wordsmithery.info/longing-for-more) (2015).  
 Scarlett Thomas. _The End of Mr Y_ (2006).
-
 Julie Wassmer. _Whitstable Pearl_ 7 book series (2015-2020). 
 
 
