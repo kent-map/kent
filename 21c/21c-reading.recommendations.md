@@ -18,7 +18,9 @@ Rosemary McLeish. _Defragmentation_ (2020).
 --. _I am a Field_ (2019).  
 Edward Marston. _A Christmas Railway Mystery_ (2017).  
 Carolyn Oulton. [_Accidental Fruit_](https://www.worplepress.com/accidental-fruit/?fbclid=IwAR0iMTicaIsO_Ae8HdZ08m0KgQSvmjydKumvlC5uE1KUtVJb6sX7WMbuZag) (2016).  
-Sonia Overall. _The Realm of Shells_ (2006).  
+Sonia Overall. _The Realm of Shells_ (2006).
+Matthew Pearl, _The Last Dickens_ (2009).
+Prescott, Victoria. _Inheritance of Secrets_
 Janet Pywell. _Book of Hours_ (a Mikky dos Santos Thriller) (2017).  
 Danny Rhodes. _Asboville_ (2006).  
 David Seabrook. _All the Devils Are Here_ (2002).  
@@ -27,6 +29,8 @@ Fiona Sinclair. _Ladies Who Lunch_(https://sites.google.com/a/lapwingpublication
 [_The Time Travellers’ Picnic_](https://www.dempseyandwindle.com/fionasinclair.html) (2019).  
 Jonathan Terranova [_ Longing for more_]( https://www.wordsmithery.info/longing-for-more) (2015).  
 Scarlett Thomas. _The End of Mr Y_ (2006).
+
+Julie Wassmer. _Whitstable Pearl_ 7 book series (2015-2020). 
 
 
 
