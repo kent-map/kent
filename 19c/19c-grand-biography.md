@@ -4,7 +4,7 @@
 <param ve-entity eid="Q894097" aliases="Tunbridge Wells">
 <param ve-entity eid="Q58752622" aliases="lock hospitals">
 
-**Place:** Lived in Tunbridge Wells 1898-1920   
+**Places:** Visit to Ramsgate in 1894. Lived in Tunbridge Wells 1898-1920   
 Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920. Here she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies and was involved with the Women’s Volunteer Reserve Force during WW1.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8a/The_Pantiles%2C_%28Royal%29_Tunbridge_Wells%2C_Kent%2C_England%2C_ca._1895.jpg" label="The Pantiles, (Royal) Tunbridge Wells, Kent, England, ca. 1895.jpg" attribution=" Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
 <param ve-map center="Q894097" zoom="10">
@@ -13,7 +13,7 @@ Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like othe
 <param ve-map center="Q190684" zoom="10">
 <param ve-image url="https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg" label="Sarah Grand's passport" attribution="Sarah Grand's passport © International Centre for Victorian Women Writers">
 
-By 1888 the marriage had broken down, the catalyst for Grand's move to London and the beginning of her literary career. McFall’s presence pervades the 1890s trilogy _Ideala_ (1888), _The Heavenly Twins_ (1893) and _The Beth Book_ (1897). A vocal opponent of the [Contagious Diseases Acts](/19c/19c-contagious-diseases), Grand transparently draws on her husband’s work at the notorious lock hospitals as well as his support of vivisection, in her portrayal of Dan McClure, the man Beth is coerced into marrying as a young woman. As Beth Sutton-Ramspeck bluntly puts it, ‘her novels portray some of the most unpleasant households in literary history’.[^ref1]  One of the most controversial novels of its time, The Heavenly Twins was published in 1893 and includes an emotive treatment of syphilitic death, attributed to the prevalent belief that young women should remain ‘innocent’ of sexual issues before marriage. Grand is also widely credited with coining the term ‘the New Woman’ in 1894.
+By 1888 the marriage had broken down, the catalyst for Grand's move to London and the beginning of her literary career. McFall’s presence pervades the 1890s trilogy _Ideala_ (1888), _The Heavenly Twins_ (1893) and _The Beth Book_ (1897). A vocal opponent of the [Contagious Diseases Acts](/19c/19c-contagious-diseases), Grand transparently draws on her husband’s work at the notorious lock hospitals as well as his support of vivisection, in her portrayal of Dan McClure, the man Beth is coerced into marrying as a young woman. As Beth Sutton-Ramspeck bluntly puts it, ‘her novels portray some of the most unpleasant households in literary history’.[^ref1]  One of the most controversial novels of its time, The Heavenly Twins was published in 1893 and includes an emotive treatment of syphilitic death, attributed to the prevalent belief that young women should remain ‘innocent’ of sexual issues before marriage. Grand is also widely credited with coining the term ‘the New Woman’ in 1894. During this year she was suffering from nervous exhaustion and recuperated in [Ramsgate](/19c/19c-ramsgate) on the orders of her doctor.[^ref1]
 <param ve-map center="Q84" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/52/Sarah_Grand_by_Mendelssohn.jpg" label="Sarah Grand by Mendelssohn.jpg" attribution="Hayman Seleg Mendelssohn, Public domain, via Wikimedia Commons">
 
@@ -26,6 +26,7 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She die
 
 ### Bibliography
 
+Kersley, Gillian. _Darling Madame : Sarah Grand and Devoted Friend._ London: Virago, 1983.
 'Low-Heeled Shoes And No Cosmetics'. [_Tunbridge Wells Advertiser_, 13 March 1915]. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.   
 ‘Ramsgate Congregational Institute, Broad Street. Session 1902-03.’ _Thanet Advertiser._ 18 October 1902. 4.   
 Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman._ Ohio: Ohio University Press, 2004.   
@@ -35,3 +36,4 @@ Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward
 ### References
 
 [^ref1]: Sutton-Rampseck 11.
+[^ref1]: Kersley 86.
