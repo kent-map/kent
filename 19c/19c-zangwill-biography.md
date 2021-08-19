@@ -2,6 +2,9 @@
 <param ve-config title="Israel Zangwill (21 January 1864 - 1 August 1926)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q922739" aliases="Broadstairs">
+<param ve-entity eid="Q618045" aliases="Margate">
 
 **Holidays in Ramsgate, Margate, Broadstairs and Dover**  
 <br><br>
