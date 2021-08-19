@@ -9,7 +9,7 @@
 
 
 **Holidays in Ramsgate, Margate, Broadstairs and Dover**  
-<br><br>
+<br>
 'And a little to the left twinkled ‘The Green Man’— no friendly public-house, but a danger-signal from behind the [Goodwin Sands](/dickens/david-copperfield-goodwin-sands), likewise visible but by miracle.
 <br><br>
 And as we marvelled at these jewels of the night, that shamed the absentee stars, the brake stood still with a jolt and a shock that threw our gay company into momentary alarm. But it was nothing. Only a horse fallen down dead! One of our overworked wheelers had suddenly sunk upon the earth, a carcase. Dust to dust! Who shall tell of the daylong agony of the dumb beast as he plodded pertinaciously through the heat, ministering to the pleasures of his masters?'    
