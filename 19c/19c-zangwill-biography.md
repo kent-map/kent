@@ -20,26 +20,26 @@ He was however taken with [Broadstairs](/dickens/broadstairs-19th-century), ‘w
 Zangwill was in [Dover](/19c/19c-dover) (with no dynamite incidents) in July 1904, working on his play _Jinny the Carrier_ . It was also from here that he wrote in November 1905 to thank the _Labour Leader_ for an article expressing ‘sympathy with me and my people’, which he had ‘received with sad pleasure’.  It is indeed not always easy to remember that, in Zangwill’s own words, ‘a serious man may be humorous, still less that a humorous man is always serious.’ 
 
 ### Bibliography
-Jerome, Jerome K. Letter to J. W. Arrowsmith. 15 August 1893. Bristol Record Office. 40145/P/12 a.
-Oulton. Below the Fairy City: a Life of Jerome K. Jerome. 
-Rochelson, Meri-Jane. A Jew in the Public Arena: The Career of Israel Zangwill. Wayne State University Press, 2010.
-‘Supposed Dynamite Outrage at Broadstairs’. _Birmingham Daily Post_24 July 1893. Gale Document Number: GALE|BB3201366841
-Zangwill, Israel. The Celibates’ Club. Being the United Stories of The Bachelors’ Club and The Old Maids’ Club. London: William Heinemann 1898. 
---. ‘The Premier and the Painter.’ My First Book. Ed Jerome K. Jerome London: Chatto & Windus, 1894. 163-79.
---. Without Prejudice’ VI. _Pall Mall Magazine_: 1 (May-Oct 1893) 901-08.
+Jerome, Jerome K. Letter to J. W. Arrowsmith. 15 August 1893. Bristol Record Office. 40145/P/12 a.   
+Oulton. Below the Fairy City: a Life of Jerome K. Jerome.    
+Rochelson, Meri-Jane. A Jew in the Public Arena: The Career of Israel Zangwill. Wayne State University Press, 2010.   
+‘Supposed Dynamite Outrage at Broadstairs’. _Birmingham Daily Post_ 24 July 1893. Gale Document Number: GALE|BB3201366841   
+Zangwill, Israel. _The Celibates’ Club. Being the United Stories of The Bachelors’ Club and The Old Maids’ Club._ London: William Heinemann 1898.    
+--. ‘The Premier and the Painter.’ My First Book. Ed Jerome K. Jerome London: Chatto & Windus, 1894. 163-79.   
+--. Without Prejudice’ VI. _Pall Mall Magazine_: 1 (May-Oct 1893) 901-08.   
 
 ### References
 
-[^ref1]:  ‘The Premier and the Painter’ 163.
-[^ref2]:  ‘The Premier and the Painter’ 166.
-[^ref3]:  ‘Without Prejudice’ 901.
-[^ref4]:  ‘Without Prejudice’ 902.
-[^ref5]:  ‘Without Prejudice’ 902.
-[^ref6]:  ‘Supposed Dynamite Outrage at Broadstairs’.  Zangwill refers in his ‘Without Prejudice’ column in 1893 to having been in Broadstairs at the time of the ‘dynamite mystery’. 
-[^ref7]:  ‘Without Prejudice’ 902.
-[^ref8]:  Rochelson 85. Jerome wrote to his publisher Arrowsmith from London, on 15 August, saying that he could not get to Bristol, but would try to come for a day towards the end of the month. It is possible that he joined Zangwill in September.
-[^ref9]:  Rochelson. Chronology.
-[^ref10]:  ‘Swiss Second Ballot’. _Labour Leader_. 24 November 1905. 9.
-[^ref11]:  Preface to the sixth edition of The Bachelors’ Club (xii).
+[^ref1]: ‘The Premier and the Painter’ 163.
+[^ref2]: ‘The Premier and the Painter’ 166.
+[^ref3]: ‘Without Prejudice’ 901.
+[^ref4]: ‘Without Prejudice’ 902.
+[^ref5]: ‘Without Prejudice’ 902.
+[^ref6]: ‘Supposed Dynamite Outrage at Broadstairs’.  Zangwill refers in his ‘Without Prejudice’ column in 1893 to having been in Broadstairs at the time of the ‘dynamite mystery’. 
+[^ref7]: ‘Without Prejudice’ 902.
+[^ref8]: Rochelson 85. Jerome wrote to his publisher Arrowsmith from London, on 15 August, saying that he could not get to Bristol, but would try to come for a day towards the end of the month. It is possible that he joined Zangwill in September.
+[^ref9]: Rochelson. Chronology.
+[^ref10]: ‘Swiss Second Ballot’. _Labour Leader_. 24 November 1905. 9.
+[^ref11]: Preface to the sixth edition of _The Bachelors’ Club_ (xii).
 
 
