@@ -43,7 +43,7 @@
 [Sir Hugh Walpole](19c-walpole-biography)   
 [Florence Warden](19c-florence-warden-biography)   
 [Gertrude Warden](19c-gertrude-warden-biography)   
-
+[Israel Zangwill](19c-zangwill-biography)   
 
 ### Places
 
