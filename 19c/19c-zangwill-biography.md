@@ -36,6 +36,7 @@ Rochelson, Meri-Jane. _A Jew in the Public Arena: The Career of Israel Zangwill.
 Zangwill, Israel. _The Celibates’ Club. Being the United Stories of The Bachelors’ Club and The Old Maids’ Club._ London: William Heinemann 1898.    
 --. ‘The Premier and the Painter.’ My First Book. Ed Jerome K. Jerome London: Chatto & Windus, 1894. 163-79.   
 --. Without Prejudice’ VI. _Pall Mall Magazine_: 1 (May-Oct 1893) 901-08.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Israel_Zangwill_1905.jpg" label="Israel Zangwill, 1905" attribution="James Edward Purdy, Public domain, via Wikimedia Commons">
 
 ### References
 [^ref1]: ‘The Premier and the Painter’ 163.   
