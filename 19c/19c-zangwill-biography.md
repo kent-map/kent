@@ -34,16 +34,14 @@ Zangwill, Israel. _The Celibates’ Club. Being the United Stories of The Bachel
 
 ### References
 
-[^ref1]: ‘The Premier and the Painter’ 163.
-[^ref2]: ‘The Premier and the Painter’ 166.
-[^ref3]: ‘Without Prejudice’ 901.
-[^ref4]: ‘Without Prejudice’ 902.
-[^ref5]: ‘Without Prejudice’ 902.
-[^ref6]: ‘Supposed Dynamite Outrage at Broadstairs’.  Zangwill refers in his ‘Without Prejudice’ column in 1893 to having been in Broadstairs at the time of the ‘dynamite mystery’. 
-[^ref7]: ‘Without Prejudice’ 902.
-[^ref8]: Rochelson 85. Jerome wrote to his publisher Arrowsmith from London, on 15 August, saying that he could not get to Bristol, but would try to come for a day towards the end of the month. It is possible that he joined Zangwill in September.
-[^ref9]: Rochelson. Chronology.
-[^ref10]: ‘Swiss Second Ballot’. _Labour Leader_. 24 November 1905. 9.
-[^ref11]: Preface to the sixth edition of _The Bachelors’ Club_ (xii).
-
-
+[^ref1]: ‘The Premier and the Painter’ 163.   
+[^ref2]: ‘The Premier and the Painter’ 166.   
+[^ref3]: ‘Without Prejudice’ 901.   
+[^ref4]: ‘Without Prejudice’ 902.   
+[^ref5]: ‘Without Prejudice’ 902.   
+[^ref6]: ‘Supposed Dynamite Outrage at Broadstairs’.  Zangwill refers in his ‘Without Prejudice’ column in 1893 to having been in Broadstairs at the time of the ‘dynamite mystery’.    
+[^ref7]: ‘Without Prejudice’ 902.   
+[^ref8]: Rochelson 85. Jerome wrote to his publisher Arrowsmith from London, on 15 August, saying that he could not get to Bristol, but would try to come for a day towards the end of the month. It is possible that he joined Zangwill in September.   
+[^ref9]: Rochelson. Chronology.   
+[^ref10]: ‘Swiss Second Ballot’. _Labour Leader_. 24 November 1905. 9.   
+[^ref11]: Preface to the sixth edition of _The Bachelors’ Club_ (xii).   
