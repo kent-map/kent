@@ -8,11 +8,12 @@
 
 **Holidays in Ramsgate, Margate, Broadstairs and Dover**  
 <br><br>
-'And a little to the left twinkled ‘The Green Man’—no friendly public-house, but a danger-signal from behind the [Goodwin Sands](/dickens/david-copperfield-goodwin-sands), likewise visible but by miracle.
+'And a little to the left twinkled ‘The Green Man’— no friendly public-house, but a danger-signal from behind the [Goodwin Sands](/dickens/david-copperfield-goodwin-sands), likewise visible but by miracle.
 <br><br>
 And as we marvelled at these jewels of the night, that shamed the absentee stars, the brake stood still with a jolt and a shock that threw our gay company into momentary alarm. But it was nothing. Only a horse fallen down dead! One of our overworked wheelers had suddenly sunk upon the earth, a carcase. Dust to dust! Who shall tell of the daylong agony of the dumb beast as he plodded pertinaciously through the heat, ministering to the pleasures of his masters?'    
-_‘Without Prejudice’, 1893_
-<br><br>
+_‘Without Prejudice’_, 1893
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1a/True_tales_of_travel_and_adventure%2C_valour_and_virtue_%281884%29_%2814597787058%29.jpg" label="True tales of travel and adventure, valour and virtue (1884)" attribution="Macaulay, James, 1817-1902, No restrictions, via Wikimedia Commons">
+
 Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of _Children of the Ghetto_ ‘was wandering about the [Ramsgate](/19c/19c-ramsgate) sands’[^ref1]  when he spotted a writing competition, advertised in an abandoned issue of _Society_ magazine. Years later he was delighted to be told by the judge that a number of well-known authors had entered against his winning story ‘Professor Grimmer’.[^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/The_sands%2C_Ramsgate%2C_Kent%2C_England%2C_ca._1899.jpg" label="The Sands at Ramsgate, 1899" attribution="Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
 
@@ -28,16 +29,15 @@ Zangwill was in [Dover](/19c/19c-dover) (with no dynamite incidents) in July 190
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sea_front%2C_Dover%2C_England-LCCN2002696721.jpg" label="Dover Seafront c. 1905" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 
 ### Bibliography
-Jerome, Jerome K. Letter to J. W. Arrowsmith. 15 August 1893. Bristol Record Office. 40145/P/12 a.   
-Oulton. Below the Fairy City: a Life of Jerome K. Jerome.    
-Rochelson, Meri-Jane. A Jew in the Public Arena: The Career of Israel Zangwill. Wayne State University Press, 2010.   
+Jerome, Jerome K. 'Letter to J. W. Arrowsmith'. 15 August 1893. Bristol Record Office. 40145/P/12 a.   
+Oulton, C. _Below the Fairy City: a Life of Jerome K. Jerome._    
+Rochelson, Meri-Jane. _A Jew in the Public Arena: The Career of Israel Zangwill._ Wayne State University Press, 2010.   
 ‘Supposed Dynamite Outrage at Broadstairs’. _Birmingham Daily Post_ 24 July 1893. Gale Document Number: GALE|BB3201366841   
 Zangwill, Israel. _The Celibates’ Club. Being the United Stories of The Bachelors’ Club and The Old Maids’ Club._ London: William Heinemann 1898.    
 --. ‘The Premier and the Painter.’ My First Book. Ed Jerome K. Jerome London: Chatto & Windus, 1894. 163-79.   
 --. Without Prejudice’ VI. _Pall Mall Magazine_: 1 (May-Oct 1893) 901-08.   
 
 ### References
-
 [^ref1]: ‘The Premier and the Painter’ 163.   
 [^ref2]: ‘The Premier and the Painter’ 166.   
 [^ref3]: ‘Without Prejudice’ 901.   
