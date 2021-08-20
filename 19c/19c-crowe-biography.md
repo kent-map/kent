@@ -6,6 +6,7 @@
 <param ve-entity eid="Q2001391" aliases="Borough Green">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
+<param ve-entity eid="Q2740296" aliases="Wrotham">
 
 #
 
