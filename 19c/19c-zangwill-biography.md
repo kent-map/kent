@@ -17,7 +17,7 @@ _‘Without Prejudice’_, 1893
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1a/True_tales_of_travel_and_adventure%2C_valour_and_virtue_%281884%29_%2814597787058%29.jpg" label="True tales of travel and adventure, valour and virtue (1884)" attribution="Macaulay, James, 1817-1902, No restrictions, via Wikimedia Commons">
 <param ve-map center="Q1494482" zoom="10">
 
-Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of _Children of the Ghetto_ ‘was wandering about the [Ramsgate](/19c/19c-ramsgate) sands’[^ref1]  when he spotted a writing competition, advertised in an abandoned issue of _Society_ magazine. Years later he was delighted to be told by the judge that a number of well-known authors had entered against his winning story ‘Professor Grimmer’.[^ref2] 
+The Jewish author Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of _Children of the Ghetto_ ‘was wandering about the [Ramsgate](/19c/19c-ramsgate) sands’[^ref1]  when he spotted a writing competition, advertised in an abandoned issue of _Society_ magazine. Years later he was delighted to be told by the judge that a number of well-known authors had entered against his winning story ‘Professor Grimmer’.[^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Sands_Ramsgate_England.jpg" label="The Sands at Ramsgate, c.1890-1900" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-map center="Q736439" zoom="15">
 
