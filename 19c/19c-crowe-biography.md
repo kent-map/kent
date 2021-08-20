@@ -13,12 +13,14 @@
 #
 
 
-**Places:** Ivy Hatch, Borough Green, [Folkestone](/19c/19c-folkestone), Sandwich, Romney Marsh
+**Places:** Ivy Hatch, Borough Green, Folkestone, Sandwich, Romney Marsh
+<br>
 <br>
 ‘There’s nothing to be made of the land … It will grow nothing but heath and furze’    
-Best known for her 1848 collection of ‘real’ ghost stories _The Night Side of Nature: or of Ghosts and Ghost Seers_, which documented ordinary people’s ‘actual’ brushes with ghosts and the supernatural and was highly praised by [Dickens](/dickens), Crowe shot to public and literary fame during the 1840s and 50s. That which brought her fame however also brought her ridicule and she suffered a brief psychotic breakdown in 1854. Dickens described her 1854 as ‘a Medium and an Ass, and I don’t know what else. The other day she was discovered walking down her own street in Edinburgh, not only stark mad but stark naked too’ .
+<br><br>
+Best known for her 1848 collection of ‘real’ ghost stories _The Night Side of Nature: or of Ghosts and Ghost Seers_, which documented ordinary people’s ‘actual’ brushes with ghosts and the supernatural and was highly praised by [Dickens](/dickens), Crowe shot to public and literary fame during the 1840s and 50s. That which brought her fame however also brought her ridicule and she suffered a brief psychotic breakdown in 1854. Dickens described her 1854 as ‘a Medium and an Ass, and I don’t know what else. The other day she was discovered walking down her own street in Edinburgh, not only stark mad but stark naked too’.
 
-Crowe lived and was educated in Kent in Borough Green during her early life and did not leave until she married at age 32 in 1822. In her declining years, after many adventures in Edinburgh, London and abroad, Crowe joined her son Willy and his family at [Folkstone](/19c/19c-folkestone) and passed away peacefully there. 
+Crowe lived and was educated in Kent in Borough Green during her early life and did not leave until she married at age 32 in 1822. In her declining years, after many adventures in Edinburgh, London and abroad, Crowe joined her son Willy and his family at [Folkestone](/19c/19c-folkestone) and passed away peacefully there. 
 
 Crowe’s unofficial biographer Geoffrey Larken traced the connections between Crowe and Kent. He says, ‘It is a well-known fact in the history of smuggling that freetraders flourished there and were especially active during the late 18th and early 19th centuries. Illicit cargoes landed on the Kentish coast off Sandwich, Deal and the sands of Romney Marsh were run inland and concealed in hides or depts., which formed a ring around Ivy Hatch and Borough Green. Wrotham was in fact the last halt on the passage to London, and the area comprising Gallows Hill, Wrotham Heath and the Hurst Woods afforded excellent coverage for hides’ 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/93/Smugglers_by_John_Atkinson.jpg" label="Smugglers" attribution="Atkinson, John Augustus (artist); Miller, William (engraver); Walker, James (publisher), Public domain, via Wikimedia Commons">
