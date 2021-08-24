@@ -79,6 +79,9 @@ Pip himself seems about to come full circle in returning to the marshes with Mag
 <param ve-map center="Q26377259" zoom="12">
 <param ve-image url="images/Ship_and_Lobster.jpg" fit="contain">
 
+
+This curated walk is also available as a [video](https://www.youtube.com/watch?v=meumYGqMQLc&t=11s].
+
 ### References
 
 [^ref1]: http://www.literaturepage.com/read/greatexpectations-250.html
