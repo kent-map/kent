@@ -2,7 +2,7 @@
 
 <param ve-entity="Birchington" eid="Q865021">
 
-# Diana Powell-Cotton (1908-1986) & Tony (Antoinette) Powell-Cotton (1915-1997)
+# Diana Powell-Cotton (1908-1986) & Tony (Antoinette) Powell-Cotton (1913-1997)
 
 **Place:**  Quex Park, Birchington, Kent
 
