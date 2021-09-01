@@ -46,7 +46,6 @@ And in reality, and in spite of his psychological ties to the marsh country, the
 <param ve-image url="/dickens/images/Chatham Dockyard.jpg" label="Chatham Dock Yard, engraved by R.Roffe after a drawing by G.Shepherd, published in W.H.Ireland's The County of Kent, 1832." attribution="Copyright Ancestryimages.com n4335">
 
 The Guildhall Museum in Rochester is apparently planning a new exhibition, ‘The Making of Mr. Dickens’.  I wonder how permanent – and how exhaustive – it will prove, whether it will succeed in pinning [Dickens](/dickens/dickens-biography) down here or whether, yet again, he will vanish into the marsh mists. 
-<param ve-image url="https://stor.artstor.org/stor/5f118363-1cb7-4377-9fdf-d6983e5f0307">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1c/Rochester_Guildhall_Museum%2C_High_Street_5231.jpg" label="Rochester Guildhall Museum" attribution="ClemRutter, CC BY-SA 4.0, via Wikimedia Commons">
 
 ### References
