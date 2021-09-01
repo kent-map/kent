@@ -1,4 +1,17 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Edith Nesbit" author="xxx" layout="vtl" banner="/images/banner/19c.jpg">
+<param ve-config title="Edith Nesbit (1858-1924)" author="xxx" layout="vtl" banner="/images/banner/19c.jpg">
 
-<param ve-entity eid="Q729006" aliases="Chatham">
+<param ve-entity eid="Q2035885" aliases="Halstead">
+<param ve-entity eid="Q1227477" aliases="Penshurst">
+<param ve-entity eid="Q797782" aliases="Medway">
+<param ve-entity eid="Q2796278" aliases="Dymchurch">
+<param ve-entity eid="Q7594245" aliases="St Mary’s Bay">
+<param ve-entity eid="Q939838" aliases="Sevenoaks">
+
+**Places:** Halstead, Penshurst, Medway, Dymchurch, St Mary’s Bay 
+
+English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. It was there that she began writing poetry, and she was living there when her work was published for the first time. Several of her best-loved stories for children, including _The Wouldbegoods_ and _The Phoenix and the Carpet_, include descriptions of her childhood home. Although she left in her late teens, she never lost her love of the village and its beautiful surroundings, and she returned there to take woodland walks year after year.  
+
+Nesbit spent much of her adult life living in boroughs in Greater London that border onto Kent; Lewisham and Lee among them. She was a regular visitor to the neighbouring county, and it continued to inspire her work. Descriptions of the beautiful countryside lying either side of the River Medway, which she admired while boating along its length, are included in several of her novels for adults, most notably _The Incredible Honeymoon_ and _Salome and the Head_. Nesbit’s best loved holiday destination was the seaside village of Dymchurch, which she renamed Lymchurch in her books. She returned there every summer for years, and it was there that she invented the unforgettable Ugly-Wuglies.  
+
+During the final years of her life, Nesbit lived with her second husband, Tommy Tucker, in St Mary’s Bay, situated in the borderland between Kent and East Sussex, close to St Mary in the Marsh, but even closer to the sea. They bought two decommissioned huts, formerly used by the British Air Force, at the end of a cul-de-sac behind Jesson Farm. Although her health was poor, she lived there happily until she died, aged 65, surrounded by family and friends.  
