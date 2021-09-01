@@ -19,9 +19,10 @@
 ‘There’s nothing to be made of the land … It will grow nothing but heath and furze’    
 <br>
 Best known for her 1848 collection of ‘real’ ghost stories [_The Night Side of Nature: or of Ghosts and Ghost Seers_](https://www.gutenberg.org/files/54532/54532-h/54532-h.htm), which documented ordinary people’s ‘actual’ brushes with ghosts and the supernatural and was highly praised by [Dickens](/dickens/dickens-biography), Crowe shot to public and literary fame during the 1840s and 50s. That which brought her fame however also brought her ridicule and she suffered a brief psychotic breakdown in 1854. Dickens described her 1854 as ‘a Medium and an Ass, and I don’t know what else. The other day she was discovered walking down her own street in Edinburgh, not only stark mad but stark naked too’.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/05/7_of_%27%28The_Night_Side_of_Nature-_or%2C_Ghosts_and_ghost_seers.%29%27_%2811152605346%29.jpg" label="The Night side of Nature" attribution="The British Library, No restrictions, via Wikimedia Commons">
 
 Crowe lived and was educated in Kent in Borough Green during her early life and did not leave until she married at age 32 in 1822. In her declining years, after many adventures in Edinburgh, London and abroad, Crowe joined her son Willy and his family at [Folkestone](/19c/19c-folkestone) and passed away peacefully there. 
-<param ve-map center="Q2001391" zoom="15">
+<param ve-map center="Q2001391" zoom="10">
 
 Crowe’s unofficial biographer Geoffrey Larken traced the connections between Crowe and Kent. He says, ‘It is a well-known fact in the history of smuggling that freetraders flourished there and were especially active during the late 18th and early 19th centuries. Illicit cargoes landed on the Kentish coast off Sandwich, Deal and the sands of Romney Marsh were run inland and concealed in hides or depts., which formed a ring around Ivy Hatch and Borough Green. Wrotham was in fact the last halt on the passage to London, and the area comprising Gallows Hill, Wrotham Heath and the Hurst Woods afforded excellent coverage for hides’ 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/93/Smugglers_by_John_Atkinson.jpg" label="Smugglers" attribution="Atkinson, John Augustus (artist); Miller, William (engraver); Walker, James (publisher), Public domain, via Wikimedia Commons">
@@ -30,6 +31,7 @@ Crowe’s father was a wine merchant and ran a coffee house in London where his 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3c/Byron_1813_by_Phillips.jpg" label="Lord Byron, 1813" attribution="Thomas Phillips, Public domain, via Wikimedia Commons">
 
 Lucy Sussex says, ‘The child Catherine was reared in rural, coastal Kent, which could have been for reasons of her health.’ However, she continues perhaps ‘John Stevens had an ulterior motive. His stock in trade was luxuries, the port and champagnes whose import was risky, given the ongoing wars between England and first Revolutionary, then Napoleonic France. If he needed reasons to visit an area well known for smuggling, or “Kentish freetrading”, then a daughter was a useful cover’. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg" label="The description of Romney Marsh" attribution="Tucker, Elhanan, Public domain, via Wikimedia Commons">
 
 We will of course never really know. However, the bleak and rugged Kentish countryside is prominent in Crowe’s novels. Larken states that ‘‘Incidents, locations and events from the formative years spent at Ivy Hatch and Borough Green are often reflected in Mrs. Crowe’s novels’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ivy_Hatch_-_geograph.org.uk_-_2207279.jpg" label="Ivy Hatch" attribution="by Roger Smith, CC BY-SA 2.0, via Wikimedia Commons">
@@ -42,7 +44,6 @@ Crowe, Catherine, _The Story of Lilly Dawson_. Edited by Ruth Heholt. Brighton: 
 Larken, Geoffrey. N.d. _The Ghost Fancier: A Life of the Victorian Authoress, Mrs. Catherine Crowe._ MS. Crowe Archive. Templeman Library, University of Kent. UKC–CROWE–BOOK.F191870   
 Storey, Graham, Kathleen Tillotson and Angus Easson, eds. _The Letters of Charles Dickens_. Volume 7, 1853–1885. 1993. Oxford: Clarendon Press, 1993.   
 Sussex, _Lucy, Women Writers and Detectives in Nineteenth-Century Crime Fiction: The Mothers of the Mystery Genre_. Basingstoke: Palgrave, 2010.   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg" label="The description of Romney Marsh" attribution="Tucker, Elhanan, Public domain, via Wikimedia Commons">
 
 ### References
 [^ref1]: Crowe, _The Story of Lilly Dawson_, 23.
