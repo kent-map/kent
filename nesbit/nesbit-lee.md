@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Edith Nesbit (1858-1924)" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banner/19c.jpg">
+<param ve-config title="Edith Nesbit, Lee" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banner/19c.jpg">
 
 "LEE, a parish in the hundred of Blackheath, lathe of Sutton-at-Hone, county Kent, 6 miles S.E. of London, its post town, and 1 mile from the Blackheath station on the North Kent railway. The parish formerly consisted only of a few detached houses, but now contains many residences, chiefly inhabited by London merchants. Very great additions have recently been made to the village, which is connected with Blackheath Park by one continuous line of villas called Lee Park.” from The National Gazetteer of Great Britain and Ireland 1868
  
