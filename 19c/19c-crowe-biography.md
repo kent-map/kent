@@ -42,6 +42,7 @@ Crowe, Catherine, _The Story of Lilly Dawson_. Edited by Ruth Heholt. Brighton: 
 Larken, Geoffrey. N.d. _The Ghost Fancier: A Life of the Victorian Authoress, Mrs. Catherine Crowe._ MS. Crowe Archive. Templeman Library, University of Kent. UKC–CROWE–BOOK.F191870   
 Storey, Graham, Kathleen Tillotson and Angus Easson, eds. _The Letters of Charles Dickens_. Volume 7, 1853–1885. 1993. Oxford: Clarendon Press, 1993.   
 Sussex, _Lucy, Women Writers and Detectives in Nineteenth-Century Crime Fiction: The Mothers of the Mystery Genre_. Basingstoke: Palgrave, 2010.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg" label="The description of Romney Marsh" attribution="Tucker, Elhanan, Public domain, via Wikimedia Commons">
 
 ### References
 [^ref1]: Crowe, _The Story of Lilly Dawson_, 23.
