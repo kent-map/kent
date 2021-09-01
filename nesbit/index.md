@@ -8,7 +8,7 @@
 ##
 **[Edith Nesbit](/19c/19c-nesbit-biography)**
 
-- author: 
+- author: Eleanor Fitzsimons
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
@@ -17,43 +17,43 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 ##
 **[Penshurst](/nesbit/nesbit-penshurst)**
 
-- author: 
+- author: Eleanor Fitzsimons
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d5de25a-71d0-4a9a-b60c-05cdc4417817)
 
 During visits to her brother Edward Austen Knight between 1794 and 1813, Austen frequently took day trips to Canterbury. In addition to making social calls, Austen enjoyed the other attractions Canterbury had to offer, including visits to the Cathedral, shopping, concerts, and balls.
 
 ##
-**[Chilham Castle](/nesbit/austen-chilham-castle)**
+**[Halstead](/nesbit/nesbit-halstead)**
 
-- author: 
+- author: Eleanor Fitzsimons
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/dd818686-5568-4dcf-81c2-169573607ab1)
 
 Jane Austen regularly visited Chilham Castle to attend dinner parties and evening balls while she was staying nearby with her brother Edward Austen Knight between 1796 and 1813. Social events at Chilham Castle offered opportunities to see old friends and to meet new people, and Jane and her sister wrote about them fondly in their letters to one another.
 
 ##
-**[Godmersham](/nesbit/austen-godmersham)**
+**[Lee](/nesbit/nesbit-lee)**
 
-- author: 
+- author: Eleanor Fitzsimons
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
 
 Austen stayed with her brother Edward Austen Knight at Godmersham Park six times between 1798 and 1813. During these visits she enjoyed seeing her family, taking day trips to a variety of Kent destinations, and making the most of his lavish library.
 
 ##
-**[Ramsgate](/nesbit/austen-ramsgate)**
+**[Scotney Castle](/nesbit/nesbit-scotney)**
 
-- author: 
+- author: Eleanor Fitzsimons
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e8/View_of_Ramsgate_Town_and_Harbour_by_James_Ward_1799.jpg)
 
 Austen visited Ramsgate in 1803 while staying at Godmersham Park with her brother Edward Austen Knight, and while another brother, Francis, was stationed there as a Royal Navy officer. In her published work, Ramsgate is associated with morally dubious characters such as George Wickham in Pride and Prejudice and Tom Bertram in Mansfield Park.
 
 ##
-**[Sevenoaks](/nesbit/austen-sevenoaks)**
+**[Dymchurcn](/nesbit/nesbit-dymchurch)**
 
-- author: 
+- author: Eleanor Fitzsimons
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4c/Patrick_Nasmyth_%281787-1831%29_-_View_near_Sevenoaks%2C_Kent_-_N01178_-_National_Gallery.jpg)
 
@@ -62,7 +62,7 @@ Jane Austen’s first experience of Kent comprised a trip with her parents and s
 ##
 **[Tunbridge Wells](/nesbit/austen-tunbridge-wells)**
 
-- author: Susan Civale
+- author: Eleanor Fitzsimons
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f4/Chalybeate_Spring%2C_Tunbridge_Wells.jpg)
 
