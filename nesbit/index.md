@@ -12,7 +12,7 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
-Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. During these extended visits, Austen travelled to many other destinations in Kent for social calls or leisure outings.
+Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent.
 
 ##
 **[Penshurst](/nesbit/nesbit-penshurst)**
