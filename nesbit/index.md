@@ -6,18 +6,18 @@
 # {.cards}
 
 ##
-**[Jane Austen](/nesbit/19c-austen-biography)**
+**[Edith Nesbit](/19c/19c-nesbit-biography)**
 
-- author: Susan Civale
+- author: 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. During these extended visits, Austen travelled to many other destinations in Kent for social calls or leisure outings.
 
 ##
-**[Canterbury](/nesbit/austen-canterbury)**
+**[Penshurst](/nesbit/nesbit-penshurst)**
 
-- author: Susan Civale
+- author: 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d5de25a-71d0-4a9a-b60c-05cdc4417817)
 
@@ -26,7 +26,7 @@ During visits to her brother Edward Austen Knight between 1794 and 1813, Austen 
 ##
 **[Chilham Castle](/nesbit/austen-chilham-castle)**
 
-- author: Susan Civale
+- author: 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/dd818686-5568-4dcf-81c2-169573607ab1)
 
@@ -35,7 +35,7 @@ Jane Austen regularly visited Chilham Castle to attend dinner parties and evenin
 ##
 **[Godmersham](/nesbit/austen-godmersham)**
 
-- author: Susan Civale
+- author: 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
 
@@ -44,7 +44,7 @@ Austen stayed with her brother Edward Austen Knight at Godmersham Park six times
 ##
 **[Ramsgate](/nesbit/austen-ramsgate)**
 
-- author: Susan Civale
+- author: 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e8/View_of_Ramsgate_Town_and_Harbour_by_James_Ward_1799.jpg)
 
@@ -53,7 +53,7 @@ Austen visited Ramsgate in 1803 while staying at Godmersham Park with her brothe
 ##
 **[Sevenoaks](/nesbit/austen-sevenoaks)**
 
-- author: Susan Civale
+- author: 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4c/Patrick_Nasmyth_%281787-1831%29_-_View_near_Sevenoaks%2C_Kent_-_N01178_-_National_Gallery.jpg)
 
