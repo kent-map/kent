@@ -1,9 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Edith Nesbit, Scotney Castle" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banner/19c.jpg">
 
-Brenchley
-Scotney Castle
-Dover Castle
+<param ve-entity eid="Q2197855" aliases="Brenchley">
+<param ve-entity eid="Q7435720" aliases="Scotney Castle">
+<param ve-entity eid="Q950970" aliases="Dover Castle">
 
 During a day trip to Scotney Castle in Kent, Nesbit’s friend Oswald Barron, for whom Oswald Bastable was named, suggested that ‘Old Cyrals’, a knot of houses to the southwest of the village of Brenchley, might be a corruption of the Breton name Kyriels. This inspired Nesbit’s novel for adults _The Secret of Kyriels_ (1889). Barron is also believed to have suggested the plot for _The Railway Children_. 
 [Scotney Castle](https://www.nationaltrust.org.uk/scotney-castle), a National Trust property, is an English country house with beautiful formal gardens located to the south-east of Lamberhurst in the valley of the River Bewl in Kent. 
