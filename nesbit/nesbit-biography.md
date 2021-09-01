@@ -17,4 +17,4 @@ Nesbit spent much of her adult life living in boroughs in Greater London that bo
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/da/Dymchurch_Seafront_-_geograph.org.uk_-_2071943.jpg" label="Dymchurch Seafront" attribution="by Chris Whippet, CC BY-SA 2.0, via Wikimedia Commons">
 
 During the final years of her life, Nesbit lived with her second husband, Tommy Tucker, in St Mary’s Bay, situated in the borderland between Kent and East Sussex, close to St Mary in the Marsh, but even closer to the sea. They bought two decommissioned huts, formerly used by the British Air Force, at the end of a cul-de-sac behind Jesson Farm. Although her health was poor, she lived there happily until she died, aged 65, surrounded by family and friends.  
-ht<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/St_Mary%27s_Bay%2C_Dec_2020_01.jpg" label="St Mary's Bay" attribution="Poliphilo, CC0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/St_Mary%27s_Bay%2C_Dec_2020_01.jpg" label="St Mary's Bay" attribution="Poliphilo, CC0, via Wikimedia Commons">
