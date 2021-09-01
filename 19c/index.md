@@ -21,6 +21,7 @@
 [F. C. Burnand](19c-burnand-biography)  
 [Wilkie Collins](19c-collins-biography)   
 [Joseph Conrad](19c-conrad-biography)  
+[Catherine Ann Crowe](19c-crowe-biography)   
 [Charles Darwin](19c-darwin-biography)   
 [Sir John Franklin](19c-franklin-biography)  
 [Sarah Grand](19c-grand-biography)   
