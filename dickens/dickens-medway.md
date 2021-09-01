@@ -1,5 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Dickens in the Medway" author="Helena Kelly" layout="vtl" banner="URL here">
+<param ve-config title="Dickens in the Medway" author="Helena Kelly" layout="vtl" banner="/images/banners/19c.jpg">
+
 <!-- Kent with map centered at Rochester -->
 <param data-map center="Q729006" zoom="20">
        
