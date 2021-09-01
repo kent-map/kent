@@ -17,8 +17,8 @@
 <br>
 <br>
 ‘There’s nothing to be made of the land … It will grow nothing but heath and furze’    
-<br><br>
-Best known for her 1848 collection of ‘real’ ghost stories _The Night Side of Nature: or of Ghosts and Ghost Seers_, which documented ordinary people’s ‘actual’ brushes with ghosts and the supernatural and was highly praised by [Dickens](/dickens), Crowe shot to public and literary fame during the 1840s and 50s. That which brought her fame however also brought her ridicule and she suffered a brief psychotic breakdown in 1854. Dickens described her 1854 as ‘a Medium and an Ass, and I don’t know what else. The other day she was discovered walking down her own street in Edinburgh, not only stark mad but stark naked too’.
+<br>
+Best known for her 1848 collection of ‘real’ ghost stories _The Night Side of Nature: or of Ghosts and Ghost Seers_, which documented ordinary people’s ‘actual’ brushes with ghosts and the supernatural and was highly praised by [Dickens](/dickens/dickens-biography), Crowe shot to public and literary fame during the 1840s and 50s. That which brought her fame however also brought her ridicule and she suffered a brief psychotic breakdown in 1854. Dickens described her 1854 as ‘a Medium and an Ass, and I don’t know what else. The other day she was discovered walking down her own street in Edinburgh, not only stark mad but stark naked too’.
 
 Crowe lived and was educated in Kent in Borough Green during her early life and did not leave until she married at age 32 in 1822. In her declining years, after many adventures in Edinburgh, London and abroad, Crowe joined her son Willy and his family at [Folkestone](/19c/19c-folkestone) and passed away peacefully there. 
 
