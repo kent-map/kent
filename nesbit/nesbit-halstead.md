@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Edith Nesbit (1858-1924)" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banner/19c.jpg">
+<param ve-config title="Edith Nesbit, Halstead" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banner/19c.jpg">
 
 On 30 November 1871, Edith Nesbit’s older sister Mary lost her battle with TB, the disease that had blighted her life. She was staying with friends in Normandy at the time. Sarah Nesbit, Edith’s mother, decided to return to England and settle in the picturesque village of Halstead, near Sevenoaks, with her surviving children. In _My School Days_, Nesbit described her “Kentish home” as “dearer to me than all”. She wrote:
 <br>
