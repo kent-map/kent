@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Edith Nesbit (1858-1924)" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banner/19c.jpg">
+<param ve-config title="Edith Nesbit, Penshurst" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banner/19c.jpg">
 
 When she was thirteen, Edith Nesbit stayed for a time in the village of Penshurst, near Sevenoaks. In _My School Days_, her memoir of childhood, which was serialised in _The Girl's Own Paper_ from October 1896 to September 1897, she wrote: 
 <br>
