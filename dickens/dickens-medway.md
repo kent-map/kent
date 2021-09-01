@@ -50,3 +50,4 @@ The Guildhall Museum in Rochester is apparently planning a new exhibition, ‘Th
 [^ref2]: As recorded, for example, in the Newcastle Chronicle, 29 September 1888, page 16.
 [^ref3]: ‘Dullborough Town’ (Uncommercial Traveller), All the Year Round, June 1860. Chatham and Rochester had a fairly substantial and well-established Jewish population and a number of people of colour are also recorded as living in the area together with immigrants from various European countries.
 [^ref4]: Charles Barrow, Charles Dickens’ maternal grandfather, who also worked at the Navy Pay Office, was accused of embezzlement. Rather than contest the charge he absconded, spending the last years of his life in the Isle of Man. 
+[^ref5]: [Sir John Falstaff](http://www.discovergravesham.co.uk/higham/sir-john-falstaff.html)
