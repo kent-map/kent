@@ -28,9 +28,9 @@ They sped on; through Dymchurch, where the great sea-wall is, and where the hous
 A staunch Martello tower stands sentinel behind the sea wall, one of seventy-four built along the south coast between 1805 and 1812 in order to repel a French invasion. Katherine describes it in _The Incredible Honeymoon_: 
 <br><br>
 Wouldn’t you like to live in a Martello tower? They have one beautiful big room with a Norman-looking pillar in the middle, and a down-stairs part for kitchens, and an up-stairs, where the big gun is, that you could roof in for bedrooms. I should like a Martello! Don’t you want to buy one? You know they built them to keep out Napoleon – and the canal as well – but no one uses them now. They just keep fishing-nets in them and wheelbarrows and eel-spears. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Martello_Tower_24%2C_Dymchurch_1.jpg" label="Martello Tower no. 24" attribution="Nilfanion, CC BY-SA 4.0, via Wikimedia Commons">
- 
+<br><br> 
 Katherine’s companion, Edward, suggests that it is haunted: “A soldier’s ghost walks there; the village people say, ‘it’s one of them there Roman soldiers that lived here when them towers was built in old ancient Roman times’.” 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Martello_Tower_24%2C_Dymchurch_1.jpg" label="Martello Tower no. 24" attribution="Nilfanion, CC BY-SA 4.0, via Wikimedia Commons">
 
 During the seventeenth and eighteenth centuries, Dymchurch was a haven for smugglers. In _The New Treasure Seekers_, an old man relates this dark history to the Bastable children: 
 <br><br>
