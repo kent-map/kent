@@ -8,6 +8,7 @@
 <param ve-entity eid="Q2740296" aliases="Wrotham">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q375314" aliases="Folkestone">
 
 #
 
