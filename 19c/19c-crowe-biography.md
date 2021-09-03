@@ -1,7 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
 <param ve-config title="Catherine Ann Crowe (née Stevens) (1790-1872)" author="Dr Ruth Heholt" layout="vtl" banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q550991332" aliases="Ivy Hatch">
 <param ve-entity eid="Q2001391" aliases="Borough Green">
 <param ve-entity eid="Q26163" aliases="Sandwich">
