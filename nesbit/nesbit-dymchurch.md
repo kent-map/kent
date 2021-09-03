@@ -47,12 +47,12 @@ Although Nesbit enjoyed the seclusion she found in Dymchurch, two years after sh
 We heard afterwards that poor, worthy Mr Sandal had climbed a scaffolding to give a workman a tract about drink, and he didn’t know the proper part of the scaffolding to stand on (the workman did, of course) so he fetched down half a dozen planks and the workman, and if a dust-cart hadn’t happened to be passing just under so that they fell into it their lives would not have been spared. 
 
 It was while she was in Dymchurch that Edith invented her terrifying Ugly-Wuglies when a scene they were acting out required more characters than they had people. She painted paper faces and mounted them on coat hangers that were hung with clothes, just as her children did in _The Enchanted Castle_.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Enchanted_Castle_Page_214.jpg" label="A painted pointed paper face peered out - The Enchanted Castle p.214" attribution="Harold Robert Millar, Public domain, via Wikimedia Commons">
 
 During her holidays, Nesbit explored the surrounding countryside by bicycle and dogcart. Several of the stories in her collection _Grim Tales_ (1893) are set in and around Romney Marsh, including the exceptionally chilling ‘Man-size in Marble’ which unfolds in St Eanswith’s Church in the village of Brenzett, which lies just eight miles inland. Her eerie, animated marble knights were suggested by the tomb chest of John Fagge and his son, which dominates the North Chapel. One of these figures rests on his elbow as if he is about to rise. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/St_Eanswith%2C_Brenzett%2C_Kent_-_Tomb_chest_-_geograph.org.uk_-_322971.jpg" label="St Eanswith, Brenzett, Kent - Tomb chest" attribution="John Salmon">
    
-Nesbit put Dymchurch into several of her stories, but she usually renamed it ‘Lymchurch’. ‘Tomorrow,’ says a wise woman in _The House of Arden_ (1910), ‘the French shall land in Lymchurch Bay.’    
-In _Oswald Bastable and Others_, Lymchurch is home to Miss Sandal: 
+Nesbit put Dymchurch into several of her stories, but she usually renamed it ‘Lymchurch’. ‘Tomorrow,’ says a wise woman in _The House of Arden_ (1910), ‘the French shall land in Lymchurch Bay.’  In _Oswald Bastable and Others_, Lymchurch is home to Miss Sandal: 
 <br><br>
 It was the seaside so, of course, there was a beach, and besides that the marsh – big green fields with sheep all about, and wet dykes with sedge growing, and mud, and eels in the mud, and winding white roads that all look the same, and all very interesting, as though they might lead to almost anything that you didn’t expect. Really, of course, they lead to Ashford and Romney and Ivy Church, and real live places like that. But they don’t look it. 
 
