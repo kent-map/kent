@@ -45,7 +45,9 @@ Although Nesbit enjoyed the seclusion she found in Dymchurch, two years after sh
 We heard afterwards that poor, worthy Mr Sandal had climbed a scaffolding to give a workman a tract about drink, and he didn’t know the proper part of the scaffolding to stand on (the workman did, of course) so he fetched down half a dozen planks and the workman, and if a dust-cart hadn’t happened to be passing just under so that they fell into it their lives would not have been spared. 
 
 It was while she was in Dymchurch that Edith invented her terrifying Ugly-Wuglies when a scene they were acting out required more characters than they had people. She painted paper faces and mounted them on coat hangers that were hung with clothes, just as her children did in _The Enchanted Castle_.
+
 During her holidays, Nesbit explored the surrounding countryside by bicycle and dogcart. Several of the stories in her collection _Grim Tales_ (1893) are set in and around Romney Marsh, including the exceptionally chilling ‘Man-size in Marble’ which unfolds in St Eanswith’s Church in the village of Brenzett, which lies just eight miles inland. Her eerie, animated marble knights were suggested by the tomb chest of John Fagge and his son, which dominates the North Chapel. One of these figures rests on his elbow as if he is about to rise. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/St_Eanswith%2C_Brenzett%2C_Kent_-_Tomb_chest_-_geograph.org.uk_-_322971.jpg" label="St Eanswith, Brenzett, Kent - Tomb chest" attribution="John Salmon">
    
 Nesbit put Dymchurch into several of her stories, but she usually renamed it ‘Lymchurch’. ‘Tomorrow,’ says a wise woman in _The House of Arden_ (1910), ‘the French shall land in Lymchurch Bay.’    
 In _Oswald Bastable and Others_, Lymchurch is home to Miss Sandal: 
@@ -58,16 +60,16 @@ The tide was low, the long lines of the sandbanks shone yellow in the sun – ye
 Her fictional Rosamund ‘watched the seagulls and shrimpers from under the sea-wall of Lymchurch’ while Andrew Dornington, a young poet seated beside her, celebrated the landscape in verse: 
 <br><br>
 Now the vexed clouds, wind-driven, spread wings of white,    
-Long leaning wings across the sea and land; 
-The waves creep back, bequeathing to our sight 
-The treasure-house of their deserted sand; 
+Long leaning wings across the sea and land;
+The waves creep back, bequeathing to our sight
+The treasure-house of their deserted sand;
 And where the nearer waves curl white and low, 
 Knee-deep in swirling brine the slow-foot shrimpers go. 
 Pale breadth of sand where clamorous gulls confer 
 Marked with broad arrows by their planted feet, 
 White rippled pools where late deep waters were, 
-And ever the white waves marshalled in retreat, 
-And the grey wind in sole supremacy 
+And ever the white waves marshalled in retreat,
+And the grey wind in sole supremacy
 O’er opal and amber cold of darkening sky and sea.
 
 This Rosamund is staying in ‘a little house behind the sea- wall’. Its door ‘opened straight from the street into the sitting-room, after the primitive fashion of Lymchurch’. Andrew Dornington is at The Ship, a genuine Dymchurch inn. ‘The trees, still gold in calmer homes, stood almost leafless in wild, windy Lymchurch,’ he observes:
