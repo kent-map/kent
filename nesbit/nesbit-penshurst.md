@@ -2,11 +2,11 @@
 <param ve-config title="Edith Nesbit, Penshurst" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banners/19c.jpg">
 
 When she was thirteen, Edith Nesbit stayed for a time in the village of Penshurst, near Sevenoaks. In _My School Days_, her memoir of childhood, which was serialised in _The Girl's Own Paper_ from October 1896 to September 1897, she wrote: 
-<br>
+<br><br>
 I wandered up through Penshurst churchyard, and through a little wicket-gate into the park, where the splendour of a blaze of buttercups, burst upon me. The may-trees were silver-white, the skylarks singing overhead; I sat down under a white may-tree. The spirit of the spring breathed softly round me, and when I got up to go back I was in love and charity with all men and all women except Mrs. ——-. 
-<br>
+<br><br>
 "I am sorry if I have been naughty," I said to my sister; "I didn't mean to be, but-" "That will do," she said, skillfully stopping my confidences; "now I do hope you are going to try and be a good girl, and not make dear mamma unhappy." 
-<br>
+<br><br>
 "I will be good," I said; " oh, I will indeed! " And as long as I stayed among the golden buttercups and silver may-bushes, I believe I was moderately good. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/26/The_Formal_Gardens_at_Penshurst_Place_-_geograph.org.uk_-_1295893.jpg" label="The Formal Gardens at Penshurst Place" attribution="Paul Farmer">
 
