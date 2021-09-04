@@ -10,7 +10,7 @@ On 30 November 1871, Edith Nesbit’s older sister Mary lost her battle with TB,
 After many wanderings, my mother took a house at Halstead, ‘The Hall’ it was called but the house itself did not lend itself to the pretensions of its name. A long, low, red-brick house, that might have been common-place but for the roses and ivy which clung to the front of it, and the rich, heavy jasmine which covered the side. There was a smooth lawn with chest- nut-trees round it and a big garden, where flowers and fruit and vegetables grew together, as they should, without jealousy or class-distinction. There never were such peonies as grew among our currant-bushes, nor such apricots as hung among the leaves on the sunny south wall. From a laburnum-tree in a corner of the lawn we children slung an improvised hammock, and there I used to read and dream, and watch the swaying green gold of leaf and blossom.
 <br><br>
 When falling sugar prices stimulated the jam industry, fruit farms had proliferated in Halstead. Local woodland was grubbed up to make way for strawberries, and damson trees, known locally as ‘skegs’, lined the hedgerows. Smallholder’s huts, erected hurriedly, were soon replaced with stone cottages. Boisterous groups of itinerant pickers spent their wages in the village pubs, the Rose and Crown, and the Cock Inn. Both are still trading.
-<param ve-map center="Q2035885" zoom="15">
+<param ve-map center="Q2035885" zoom="14">
 
 In _My School Days_, Nesbit described the glorious days she spent exploring the countryside around Halstead with her older brothers, Alfred and Harry: 
 <br><br>
