@@ -3,7 +3,7 @@
 <param ve-map center="Q375314" zoom="10">
 <param ve-entity eid="Q12892">
 
-### Belgian WW1 Refugees
+#
 
 As many as 250,000 Belgians from all layers of society sought refuge in Britain after the fall of Antwerp on 6 October 1914. The initial refugee population in [Folkestone](/20c/20c-folkestone-ww1) has been estimated at 15-20,000 in 1914, falling to 1,500 by mid-1916.
 <param ve-image url="images/arrivalofbelgiansFMuseum.jpg" label="Belgian Refugees" attribution="Folkestone Museum">

@@ -52,6 +52,6 @@
 
 ### Texts
 
-[Delmonden by Sheila Kaye-Smith](20c-kaye-smith-delmonden)   
+[Shepherds in Sackcloth by Sheila Kaye-Smith](20c-kaye-smith-delmonden)   
 [Double Double by John Brunner](20c-double-double)   
 
