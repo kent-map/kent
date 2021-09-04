@@ -47,7 +47,7 @@ During the seventeenth and eighteenth centuries, Dymchurch was a haven for smugg
 
 When Nesbit arrived in the summer of 1893, the village still had a windmill, but it had stopped working in 1882, and it was demolished in 1905. One of the first properties she rented was Mill House on Mill Street. She put it into _The New Treasure Seekers_ as the home of Miss Sandal and Oswald Bastable describes it to readers: ‘It is before you come to the village, and it is a little square white house. There is a big old windmill at the back of it. It is not used any more for grinding corn, but fishermen keep their nets in it.’ 
 <param ve-image url"https://upload.wikimedia.org/wikipedia/commons/0/07/Mill_Road%2C_Dymchurch%2C_Kent_-_geograph.org.uk_-_1360315.jpg" label="Mill Road, Dymnchuch, Kent" attribution="Peter Trimming">
-<param ve-map center="51.024498365102495, 0.9924857693740737" zoom="20">
+<param ve-map center="51.024498365102495, 0.9924857693740737" zoom="17">
 
 That first summer, Edith took rooms in a house on Marine Terrace. Once she had settled in, she sent for the rest of her family. Hubert’s beloved mother, Mary Ann Bland, had just died so he welcomed the opportunity of a long seaside holiday. In late October, he sent a note to Edward Pease asking if he might be excused from the next Fabian meeting: ‘We are having a very good time down here, shrimping, eeling, swimming, etc.,’ he wrote.
 
