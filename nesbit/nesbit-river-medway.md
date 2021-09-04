@@ -94,12 +94,12 @@ Nesbit stayed in several of the pubs and inns that punctuated the river- bank. T
 In _Salome and the Head_, Nesbit wrote:  
 <br>
 If you go to Yalding you may stay at the George, and be comfortable in a little village that owns a haunted churchyard, a fine church, and one of the most beautiful bridges in Europe. Or you may stay at the Anchor, and be comfortable on the very lip of the river.  
-<param ve=image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/The_George_Pub%2C_Yalding_-_geograph.org.uk_-_1143857.jpg" label="The George Pub, Yalding" attribution="David Anstiss">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/The_George_Pub%2C_Yalding_-_geograph.org.uk_-_1143857.jpg" label="The George Pub, Yalding" attribution="David Anstiss">
 
 Templar, her protagonist, stays at the Anchor, where Nesbit stayed many times. She included a description of breakfast there in _Salome and the Head_:  
 <br>
 At the Anchor you breakfast either in a little room whose door opens directly on that part of the garden which is adorned by two round flower- beds edged with the thickest, greenest box you ever saw – this is next door to breakfasting in the garden itself – or you do breakfast in the garden. Once upon a time you used to breakfast in a hornbeam arbour, but now that is given over to bargees. The landlord of the Anchor is a just man, and apportions the beauty of his grounds fairly among his clients.  
-<param ve=image url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Footbridge_over_the_River_Medway_to_the_Anchor_Inn_-_geograph.org.uk_-_1200333.jpg" label="Footbridge over the River Medway to the Anchor Inn" attribution="David Anstiss">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Footbridge_over_the_River_Medway_to_the_Anchor_Inn_-_geograph.org.uk_-_1200333.jpg" label="Footbridge over the River Medway to the Anchor Inn" attribution="David Anstiss">
 
 The morning being a prince of mornings, even for June, Mr Templar ate his eggs and bacon in the garden, drank there his three cups of tea, and there leaned back and smoked the after-breakfast pipe. There were birds singing in the alders opposite; the river, decorated with sunlight, looked warm and brown, like the shallow pools whose warmness quite shocks you when you dangle your feet in them from seaweed-covered rocks.  
 
