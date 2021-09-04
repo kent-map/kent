@@ -1,4 +1,9 @@
-Jesson
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Edith Nesbit, Romney Marsh" author="Eleanor Fitzsimon" layout="vtl" 
+banner="images/banners/19c.jpg">
+
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+
 Early in 1922, Nesbit was confronted with the harsh reality that her income from writing was dwindling. Although she sought other sources of income, even selling vegetables, eggs and flowers to her neighbours, she was unable to generate enough revenue to keep her family and maintain Well Hall, her sprawling rented home in Eltham. She had grown disillusioned with the encroaching suburbs too. In _Wings and the Child_, her non-fiction manual for a happy childhood, she described how the wild and lovely spot she had moved to as the last century was ending had changed over time: 
 <br><br>
 Once the road from Eltham to Woolwich was a grassy lane with hedges and big trees in the hedges, and wild pinks and Bethlehem stars, and ragged robin and campion. Now the trees are cut down and there are no more flowers. It is asphalt all the way, and here and there seats divided by iron rods so that tired tramps should not sleep on them.
@@ -19,30 +24,27 @@ English playwright, composer, director, actor and singer Noël Coward was a clos
 Nesbit’s final years in Romney Marsh were happy ones, but her time there was blighted by ill health. Even though she was ill, and in great pain, she seemed tranquil, buoyant even, towards the end. ‘What things there are still to see and to do, and to think and to be and to grow into and to grow out of!’ wrote to her friend and protégée, the writer Berta Ruck, in March 1924. Towards the end, a great friend from Dymchurch, Agnes Thorndike, who was mother to the actress Sybil and writer Russell, presented her with a contraption that allowed her to sit up and admire ‘the marsh and the hills behind those superb sunsets that all us marsh people love so’, as Sybil put it. 
 Edith wrote her a poem of thanks: 
 
-On bed of state long since a Queen 
-Would wake to morning’s starry beams 
-Silvering the arras blue and green 
-That hung her walls with cloth-of dreams; 
-And, where the fluted valance drooped 
-Above the curtains’ broidered posies, 
-The pretty caravan cupids trooped 
-Festooning all her bed with roses. 
-Mother of Stars! Enthroned I lie 
-On the high bed your kindness sent, 
-And see between the marsh and sky 
-The little lovely hills of Kent; 
-And, ’mid the memories old and new 
-That bless me as the curtain closes, 
-Come troops of pretty thoughts of you... 
-And mine, too, is a bed of roses.
+On bed of state long since a Queen   
+Would wake to morning’s starry beams   
+Silvering the arras blue and green   
+That hung her walls with cloth-of dreams;   
+And, where the fluted valance drooped    
+Above the curtains’ broidered posies,     
+The pretty caravan cupids trooped    
+Festooning all her bed with roses.    
+Mother of Stars! Enthroned I lie   
+On the high bed your kindness sent,    
+And see between the marsh and sky    
+The little lovely hills of Kent;   
+And, ’mid the memories old and new    
+That bless me as the curtain closes,    
+Come troops of pretty thoughts of you...    
+And mine, too, is a bed of roses.   
 
 Edith Nesbit died on 4 May 1924, at the age of sixty-five, officially of ‘bronchiectasis and cardiac dilatation,’ although lung cancer is now suspected. Her husband Tommy, live-in companion Olive Hill, daughter Iris, and son Paul kept vigil by her bedside, and she died in Iris’s arms. 
 
 In accordance with her wishes, she was buried in a plain oak coffin in the peaceful, country churchyard of St Mary in the Marsh, under the protective shade of a majestic elm that stood close to the road. At Tommy’s request, a short funeral service concluded with a reading of the final section from his wife’s novel _Dormant_ (1911). 
 <br><br>
 ‘It seems such waste, such stupid senseless waste,’ said Bats. ‘His great thoughts, his fine body that loved life, all the friendship, the aspiration, the love... all thrown away, gone, wasted for ever.’ ‘Who says that it is wasted?’ said the Jew. ‘It is his body that has served its turn and is cast away. The great thoughts, the friendship, the aspiration, the love; can we say that these die? Nay, rather, these shall not die. These shall live in the Courts of the Lord, forever.’
-The _Nottingham Evening Post_ reported: ‘E. Nesbit (Mrs Hubert Bland), the famous writer of children’s and other stories, directed that a wooden tablet bearing her name should be the only memorial over her grave.’ In response, Tommy carved the simple wooden monument that marks her grave. 
- 
-Image: "Grave of Edith Nesbit at St Mary the Virgin church" from https://theromneymarsh.net/edithnesbit - Inscription reads “Resting, E. Nesbit, Mrs Bland-Tucker, Poet and Author died 4th May 1924 Aged 65” (I have requested permission to use this but you may have an alternative)
-The muddy track leading to her home for the final two years of her life, the only home she ever owned, was renamed Nesbit Road. 
+The _Nottingham Evening Post_ reported: ‘E. Nesbit (Mrs Hubert Bland), the famous writer of children’s and other stories, directed that a wooden tablet bearing her name should be the only memorial over her grave.’ In response, Tommy carved the simple wooden monument that marks her grave. Inscription reads “Resting, E. Nesbit, Mrs Bland-Tucker, Poet and Author died 4th May 1924 Aged 65” The muddy track leading to her home for the final two years of her life, the only home she ever owned, was renamed Nesbit Road. 
 <param ve-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/E_Nesbit%27s_Grave_-_St_Mary_In_The_Marsh_Churchyard.jpg" label="E. Nesbit's grave, St Mary in the Marsh Churchyard" attribution="Ian Dunster, CC BY-SA 3.0, via Wikimedia Commons">
