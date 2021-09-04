@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Edith Nesbit, St Mary's Bay" author="Eleanor Fitzsimon" layout="vtl" 
+<param ve-config title="Edith Nesbit, the Romney Marsh and St Mary's Bay" author="Eleanor Fitzsimon" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
