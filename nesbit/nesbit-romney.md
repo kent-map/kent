@@ -44,3 +44,4 @@ The _Nottingham Evening Post_ reported: ‘E. Nesbit (Mrs Hubert Bland), the fam
  
 Image: "Grave of Edith Nesbit at St Mary the Virgin church" from https://theromneymarsh.net/edithnesbit - Inscription reads “Resting, E. Nesbit, Mrs Bland-Tucker, Poet and Author died 4th May 1924 Aged 65” (I have requested permission to use this but you may have an alternative)
 The muddy track leading to her home for the final two years of her life, the only home she ever owned, was renamed Nesbit Road. 
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/E_Nesbit%27s_Grave_-_St_Mary_In_The_Marsh_Churchyard.jpg" label="E. Nesbit's grave, St Mary in the Marsh Churchyard" attribution="Ian Dunster, CC BY-SA 3.0, via Wikimedia Commons">
