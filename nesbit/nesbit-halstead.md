@@ -39,7 +39,7 @@ The roof is beams and tiles. Slits of light show through the tiles here and ther
 The window of Nesbit’s own bright little bedroom facing westward over a garden filled with roses, shrubs and fruit trees. In her short story ‘The Brute’ (_The Literary Sense_, 1903) a large-eyed, dark-haired girl, with a passion for poetry, leans out of her window:
 <br><br>
 The pearl of dawn was not yet dissolved in the gold cup of the sunshine, but in the northwest the dripping opal waves were ebbing fast to the horizon, and the sun was already half risen from his couch of dull crimson. She leaned out of her window. By fortunate chance it was a jasmine-muffled lattice window, as a girl’s window should be, and looked down on the dewy stillness of the garden. The cloudy shadows that had clung in the earliest dawn about the lilac bushes and rhododendrons had faded like grey ghosts, and slowly on lawn and bed and path new black shadows were deepening and intensifying. 
-<br>
+<br><br>
 This young girl is ‘full of the anxious, trembling longing that is youth’s unnecessary joy.’ 
 
 Underneath her bedroom window stood an old mahogany bookcase with a deep top drawer that let down to form a writing table. There, she would scribble away at her poetry, locking it away if her brothers were about. In ‘When I was a Girl’, an article she wrote for _John O’London’s Weekly_, she described the adolescent style of her early poems, which she signed ‘D. Nesbit’, D for Daisy: 
@@ -48,11 +48,11 @@ I don’t know whether it was the influence of the poetry I read or merely a ten
 
 Sarah sent several of these early poems to Alexander Hay Japp, literary adviser to publishers Alexander Strahan, and a member of the editing team on _Good Words_ and the _Sunday Magazine_. He agreed to publish them. Edith described her joy at seeing her work in print: 
 <br><br>
-The first poem I ever had published was a non-committal set of verses about dawn, with a moral tag. It was printed in the Sunday Magazine. When I got the proof I ran round the garden shouting ‘Hooray!’ at the top of my voice, to the scandal of the village and the vexation of my family. 
+The first poem I ever had published was a non-committal set of verses about dawn, with a moral tag. It was printed in the _Sunday Magazine_. When I got the proof I ran round the garden shouting ‘Hooray!’ at the top of my voice, to the scandal of the village and the vexation of my family. 
 
 Sarah Nesbit gave up the lease on Halstead Hall in the autumn of 1875. In _My School Days_, Nesbit wrote: 
 <br><br>
-My book of memories lies open always at the page where are the pictures of Kentish cherry orchards, field and farm and gold-dim woodlands starred with primroses, light copses where the blue-bells and wind-flowers grow. 
+My book of memories lies open always at the page where are the pictures of Kentish cherry orchards, field and farm and gold-dim woodlands starred with primroses, light copses where the blue-bells and wild-flowers grow. 
 
 Early in their relationship, Nesbit brought Hubert Bland, her husband-to-be, to her beloved Halstead. They wandered through the woods and had lunch in a ‘funny, old-fashioned Inn’. She recaptures that idyllic day in her short story ‘A Holiday’ (_The Literary Sense_, 1903). A fictional couple, strangers to each, other spend sublime hours strolling through lush green parkland in Halstead ‘where tall red sorrel and white daisies grew high among the grass that was up for hay’. They ‘talked of all things under the sun’. While they are there, ‘[the] gold sun shone, the blue sky arched over a world of green and glory’. ‘It seemed,’ Nesbit wrote, ‘that the green country was enchanted land, and they under a spell that could never break.’ 
 
