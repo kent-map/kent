@@ -89,8 +89,10 @@ Who call the Medway ours.
 Long passages in _The Incredible Honeymoon_ (1921) and _Salome and the Head_ (1909) two of Nesbit’s novels for adults, describe the river’s beauty. In _Salome and the Head_, she wrote:  
 <br>
 The Medway just above the Anchor (at Yalding, Kent) is a river of dreams. The grey and green of willows and alders mirror themselves in the still water in images hardly less solid-seeming than their living realities. There is pink loosestrife there, and meadow-sweet creamy and fragrant, forget- me-nots wet and blue, and a tangle of green weeds and leaves and stems that only botanists know the names of.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bb/The_Anchor_Inn%2C_Yalding_on_Medway_Valley_Walk_-_geograph.org.uk_-_1200328.jpg" label="The Anchor Inn, Yalding on Medway Valley Walk" attribution="David Anstiss">
 
 Nesbit stayed in several of the pubs and inns that punctuated the river- bank. The real Anchor, which has been renamed the Boathouse, is a quaint fourteenth-century pub that stands just across the river from the medieval Twyford Bridge and weir.   In _The Englishman’s Country_ (1945), poet and nature writer Walter James Turner described the Anchor as a ‘beautiful inn with its nooks and corners answering no particular scheme of architecture’. Its origin was as a bargeman’s inn, but it became ‘a favourite anchorage for anglers, who have miles of water, swift or slow to yield them sport’. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/07/Bridge_over_the_River_Medway%2C_Yalding_-_geograph.org.uk_-_1158969.jpg" label="Bridge over the River Medway at Yalding" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 
 In _Salome and the Head_, Nesbit wrote:  
 <br>
