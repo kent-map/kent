@@ -1,4 +1,10 @@
-## Folkestone and World War 1
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Folkestone and World War 1" author="Martin Watts" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
+
+<param ve-map center="Q375314" zoom="10">
+<param ve-entity eid="Q12892">
+
+#
 
 ![The Doorway of England ©The British Library Board. A80069-72 / Maps.C.1.a.9.(31) Images Online](images/The Doorway of England A80069-72.jpg){: .right}
 
@@ -19,11 +25,6 @@ The sight of able bodied young men, of military age, perambulating along the Lea
 ### Bibliography and further reading
 
 Wynn, Stephen. _Folkestone in the Great War_. Barnsley: Pen and Sword 2017.  
+[Gateways to the First World War](blogs.kent.ac.uk/gateways/folkestone)   
+[StepShort: Remembering the soldiers of WW1](www.stepshort.co.uk)   
 
-[Gateways to the First World War](blogs.kent.ac.uk/gateways/folkestone)
-
-[StepShort: Remembering the soldiers of WW1](www.stepshort.co.uk)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTYyOTU5NV19
--->
