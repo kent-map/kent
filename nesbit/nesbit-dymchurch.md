@@ -87,5 +87,5 @@ Nesbit’s friend Edgar Jepson recalled:
 <br><br>
 In the summers we still went to Dymchurch, where we always found the Blands. In those days Dymchurch was just a village. No strangers came to it for weeks on end, and if you wished to go to any place from it, you had to walk, drive, or bicycle... In those summers there was very good lawn tennis and bridge at the house of the Squire. 
 Another writer friend, Berta Ruck, described these holidays too: ‘We bathed, we tramped, we played rounders with her on the sands’. Ruck dubbed the houses they rented ‘an annexe to Well Hall [Nesbit’s home in Eltham]’, and the little weather-boarded cottage on the High Street, which they shared with the village post office, became ‘Well Cottage’. 
-<param ve-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/E_Nesbit%27s_Grave_-_St_Mary_In_The_Marsh_Churchyard.jpg" label="E. Nesbit's grave, St Mary in the Marsh Churchyard" attribution="Ian Dunster, CC BY-SA 3.0, via Wikimedia Commons">
+
 
