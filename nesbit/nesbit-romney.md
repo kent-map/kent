@@ -8,6 +8,7 @@ Romney Marsh had a reputation for witchcraft and lawlessness. Visitors avoided i
 
 Nesbit settled on the hamlet of Jesson, which was likely named after Jesson Farm. Renamed St Mary’s Bay in 1935, it is situated in the borderland between Kent and East Sussex, close to St Mary in the Marsh, but even closer to the sea. At the end of a cul-de-sac behind Jesson Farm stood two decommissioned brick-built huts, once used by the British Air Force as a photographic laboratory and a storehouse for medical materials. The whole structure required a great deal of renovation to make it habitable, and the couple completed much of this themselves. The huts were connected by a passage they named ‘The Suez Canal’ and they christened them ‘The Longboat’ and ‘The Jollyboat’. From their windows, they could gaze out across the marshes towards the sea wall. 
 Edith brightened their walls with lithographs by Gerald Spencer Pryse, and with H.R. Miller’s brilliant depiction of the Queen of Babylon from _The Story of the Amulet_. Her writing room became ‘the magic room’. She dedicated her final novel, _The Lark_
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/99/Pg_082--The_story_of_the_amulet.png" label="The Story of the Amulet" attribution="Harold Robert Millar, Edith Nesbit, Public domain, via Wikimedia Commons">
  
 Nesbit wrote ‘occasional joyful letters’ to her friend Mavis Carter, describing how the Long Boat was taking shape; it was ’full of shavings and carpenters’. Now she reassured Mavis:
 <br><br>
