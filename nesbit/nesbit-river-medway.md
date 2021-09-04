@@ -13,11 +13,12 @@ E. NESBIT.
 KENT, March 1896.
 
 ‘Coals of Fire’, the final story in the collection, features river dwellers who sail barges along the River Medway between London and Tonbridge. Nesbit opens: 
-
+<br><br>
 All my life I've lived on a barge. My father, he worked a barge from London to Tonbridge, and 'twas on a barge I first see the light when my mother's time come. I used to wish sometimes as I could 'ave lived in a cottage with a few bits of flowers in the front, but I think if I'd been put to it I should have chose the barge rather than the finest cottage ever I see. 
+<param ve-image url="https://stor.artstor.org/stor/3077e656-5d0a-4310-b7ca-c69a16417e07" label="Estuary of the Thames and the Medway by A. Fullarton & Co." attribution="Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
 Nesbit, a keen oarswoman and swimmer, took many boating holidays on the Medway with family and friends. William Archer noted that she had ‘a real love for English nature and a keen eye for it’. Nowhere is this more evident than in her descriptions of the lovely Kent countryside lying either side of the lazy River Medway. In _The Wouldbegoods_, she wrote:  
-
+<br><br>
 We went along the towing path; it is shady with willows, aspens, elders, oaks, and other trees. On the banks are flowers – yarrow, meadow-sweet, willow herb, loose-strife, and lady’s bed-straw.  
 
 As dusk fell, she would play her guitar, sometimes strumming a song of her own composition. Her ‘Medway Song’ goes as follows:  
@@ -92,6 +93,7 @@ The Kentish fields and flowers,
 We waste no dreams on other streams 
 <br><br>
 Who call the Medway ours. 
+<param ve-image url="https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c" label="The Medway at Tonbridge">
 
 Long passages in _The Incredible Honeymoon_ (1921) and _Salome and the Head_ (1909) two of Nesbit’s novels for adults, describe the river’s beauty. In _Salome and the Head_, she wrote:  
 
@@ -99,17 +101,17 @@ The Medway just above the Anchor (at Yalding, Kent) is a river of dreams. The gr
 
 Nesbit stayed in several of the pubs and inns that punctuated the river- bank. The real Anchor, which has been renamed the Boathouse, is a quaint fourteenth-century pub that stands just across the river from the medieval Twyford Bridge and weir.  
 
-Here it is in Nesbit’s time (circa 1910) and in its modern incarnation (I have emailed the pub for permission to use the second one). 
-
 In _The Englishman’s Country_ (1945), poet and nature writer Walter James Turner described the Anchor as a ‘beautiful inn with its nooks and corners answering no particular scheme of architecture’. Its origin was as a bargeman’s inn, but it became ‘a favourite anchorage for anglers, who have miles of water, swift or slow to yield them sport’. 
 
 In _Salome and the Head_, Nesbit wrote:  
-
+<br><br>
 If you go to Yalding you may stay at the George, and be comfortable in a little village that owns a haunted churchyard, a fine church, and one of the most beautiful bridges in Europe. Or you may stay at the Anchor, and be comfortable on the very lip of the river.  
+<param ve=image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/The_George_Pub%2C_Yalding_-_geograph.org.uk_-_1143857.jpg" label="The George Pub, Yalding" attribution="David Anstiss">
 
 Templar, her protagonist, stays at the Anchor, where Nesbit stayed many times. She included a description of breakfast there in _Salome and the Head_:  
-
+<br><br>
 At the Anchor you breakfast either in a little room whose door opens directly on that part of the garden which is adorned by two round flower- beds edged with the thickest, greenest box you ever saw – this is next door to breakfasting in the garden itself – or you do breakfast in the garden. Once upon a time you used to breakfast in a hornbeam arbour, but now that is given over to bargees. The landlord of the Anchor is a just man, and apportions the beauty of his grounds fairly among his clients.  
+<param ve=image url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Footbridge_over_the_River_Medway_to_the_Anchor_Inn_-_geograph.org.uk_-_1200333.jpg" label="Footbridge over the River Medway to the Anchor Inn" attribution="David Anstiss">
 
 The morning being a prince of mornings, even for June, Mr Templar ate his eggs and bacon in the garden, drank there his three cups of tea, and there leaned back and smoked the after-breakfast pipe. There were birds singing in the alders opposite; the river, decorated with sunlight, looked warm and brown, like the shallow pools whose warmness quite shocks you when you dangle your feet in them from seaweed-covered rocks.  
 
