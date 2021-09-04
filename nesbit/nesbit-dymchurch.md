@@ -73,16 +73,16 @@ The tide was low, the long lines of the sandbanks shone yellow in the sun – ye
 Her fictional Rosamund ‘watched the seagulls and shrimpers from under the sea-wall of Lymchurch’ while Andrew Dornington, a young poet seated beside her, celebrated the landscape in verse: 
 <br><br>
 Now the vexed clouds, wind-driven, spread wings of white,    
-Long leaning wings across the sea and land;
-The waves creep back, bequeathing to our sight
-The treasure-house of their deserted sand;
-And where the nearer waves curl white and low, 
-Knee-deep in swirling brine the slow-foot shrimpers go. 
-Pale breadth of sand where clamorous gulls confer 
-Marked with broad arrows by their planted feet, 
-White rippled pools where late deep waters were, 
-And ever the white waves marshalled in retreat,
-And the grey wind in sole supremacy
+Long leaning wings across the sea and land;   
+The waves creep back, bequeathing to our sight   
+The treasure-house of their deserted sand;   
+And where the nearer waves curl white and low,    
+Knee-deep in swirling brine the slow-foot shrimpers go.    
+Pale breadth of sand where clamorous gulls confer    
+Marked with broad arrows by their planted feet,    
+White rippled pools where late deep waters were,    
+And ever the white waves marshalled in retreat,   
+And the grey wind in sole supremacy   
 O’er opal and amber cold of darkening sky and sea.
 
 This Rosamund is staying in ‘a little house behind the sea- wall’. Its door ‘opened straight from the street into the sitting-room, after the primitive fashion of Lymchurch’. Andrew Dornington is at The Ship, a genuine Dymchurch inn. ‘The trees, still gold in calmer homes, stood almost leafless in wild, windy Lymchurch,’ he observes:
@@ -106,5 +106,7 @@ Another writer friend, Berta Ruck, described these holidays too: ‘We bathed, w
 
 ### Bibliography
                                          
-Nesbit, E. [_The Incredible Honeymoon_](https://www.gutenberg.org/ebooks/41354)
-Nesbit, E. [_The New Treasure Seekers_](https://www.gutenberg.org/ebooks/25496)                                        
+Nesbit, E. [_The Incredible Honeymoon_](https://www.gutenberg.org/ebooks/41354)   
+Nesbit, E. [_The New Treasure Seekers_](https://www.gutenberg.org/ebooks/25496)   
+Nesbit, E. [_The House of Arden_](https://www.gutenberg.org/ebooks/57799)   
+Nesbit, E. [_Oswald Bastable and Others_](https://www.gutenberg.org/ebooks/28804)
