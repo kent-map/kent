@@ -107,3 +107,4 @@ Another writer friend, Berta Ruck, described these holidays too: ‘We bathed, w
 ### Bibliography
                                          
 Nesbit, E. [_The Incredible Honeymoon_](https://www.gutenberg.org/ebooks/41354)
+Nesbit, E. [_The New Treasure Seekers_](https://www.gutenberg.org/ebooks/25496)                                        
