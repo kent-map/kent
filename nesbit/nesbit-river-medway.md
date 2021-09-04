@@ -110,6 +110,7 @@ The morning being a prince of mornings, even for June, Mr Templar ate his eggs a
 Edward and Katherine, her couple from _The Incredible Honeymoon_, stand ‘on the landing-stage of the Anchor, looking down on a sort of Sargasso Sea of small craft that stretched along below the edge of the Anchor garden’. When they take to the water on the next page, Nesbit uses this as an opportunity to condemn the hideously utilitarian architecture encroaching on this beloved landscape, a theme she returned to again and again:  
 <br>
 A few strokes took them out of sight of the Anchor, its homely, flowered garden, its thatched house, its hornbeam arbor; they passed, too, the ugly, bare house that some utilitarian misdemeanant has built next to it, then nothing but depths of willow copse, green and grey, and the grassy curves of the towing-path where the loosestrife grows, and the willow herb, the yellow yarrow, and the delicate plumes of the meadow-sweet.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boats_Moored_near_Yalding%2C_River_Medway_-_geograph.org.uk_-_1267438.jpg" label="Boats moored near Yalding, River Medway" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 
 The George in Yalding, a riverside inn dating back to 1642, provided an alternative to the Anchor. Templar enjoys a drink there in _Salome and the Head_: 
 <br><br>
