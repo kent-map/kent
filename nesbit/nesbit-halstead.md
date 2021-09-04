@@ -16,6 +16,7 @@ When falling sugar prices stimulated the jam industry, fruit farms had prolifera
 In _My School Days_, Nesbit described the glorious days she spent exploring the countryside around Halstead with her older brothers, Alfred and Harry: 
 <br><br>
 Oh, those dewy mornings – the resurrection of light and life in the woods and fields! Would that it were possible for all children to live in the country where they may drink in, consciously or unconsciously, the dear delights of green meadow and dappled woodland! The delight in green things growing, in the tender beauty of the evening light on grey pastures, the glorious splendour of the noonday sun on meadows golden with buttercups, the browns and purples of winter woodlands.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7b/23_of_%27Spring_%28Summer-Autumn-Winter%29_songs_and_sketches%27_%2811306335426%29.jpg" label="Spring songs and sketches p.23, 1886" attribution="The British Library, No restrictions, via Wikimedia Commons">
 
 Sarah Nesbit leased Halstead Hall, a substantial detached house located in the village and reputed to be haunted. Long before the Nesbits arrived, the local rector had carried out a ceremony of exorcism on the stairway and this may have informed Edith’s horror story ‘The Shadow’ (1905):
 <br><br>
