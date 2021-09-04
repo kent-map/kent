@@ -1,16 +1,16 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Edith Nesbit, River Medway" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banners/19c.jpg">
 
-In 1896, as part of his avant-garde Keynotes series, John Lane published Nesbit’s _In Homespun_, a collection of short stories set in the South Kent villages and ‘out away among the Sussex downs’. Here is Nesbit’s introduction to these ten tales, written in Kentish dialect. 
-
+In 1896, as part of his avant-garde Keynotes series, John Lane published Nesbit’s _In Homespun_, a collection of short stories set in the South Kent villages and ‘out away among the Sussex downs’. Here is Nesbit’s introduction to these ten tales, written in Kentish dialect.   
+<br>
 THESE tales are written in an English dialect—none the less a dialect for that it lacks uniformity in the misplacement of aspirates, and lacks, too, strange words misunderstanded of the reader.
 <br><br>
 In South Kent villages with names ending in 'den,' and out away on the Sussex downs where villages end in 'hurst,' live the plain people who talk this plain speech—a speech that should be sweeter in English ears than the implacable consonants of a northern kail-yard, or the soft one-vowelled talk of western hillsides.
 <br><br>
 All through the summer nights the market carts creak along the London road; to London go the wild young man and the steady young man who 'betters' himself. To London goes the girl seeking a 'place.' The 'beano' comes very near to this land—so near that across its marches you may hear the sackbut and shawm from the breaks. Once a year come the hoppers. And so the cup of the hills holds no untroubled pool of pastoral speech. This book therefore is of no value to a Middle English scholar, and needs no glossary.
 <br><br>
-E. NESBIT.
-KENT, March 1896.
+E. NESBIT.   
+KENT, March 1896.   
 
 ‘Coals of Fire’, the final story in the collection, features river dwellers who sail barges along the River Medway between London and Tonbridge. Nesbit opens: 
 <br><br>
@@ -102,7 +102,7 @@ If you go to Yalding you may stay at the George, and be comfortable in a little 
 Templar, her protagonist, stays at the Anchor, where Nesbit stayed many times. She included a description of breakfast there in _Salome and the Head_:  
 <br>
 At the Anchor you breakfast either in a little room whose door opens directly on that part of the garden which is adorned by two round flower- beds edged with the thickest, greenest box you ever saw – this is next door to breakfasting in the garden itself – or you do breakfast in the garden. Once upon a time you used to breakfast in a hornbeam arbour, but now that is given over to bargees. The landlord of the Anchor is a just man, and apportions the beauty of his grounds fairly among his clients.  
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Footbridge_over_the_River_Medway_to_the_Anchor_Inn_-_geograph.org.uk_-_1200333.jpg" label="Footbridge over the River Medway to the Anchor Inn" attribution="David Anstiss">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Anchor%2C_Yalding.JPG" label="The Anchor, Yalding" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
 The morning being a prince of mornings, even for June, Mr Templar ate his eggs and bacon in the garden, drank there his three cups of tea, and there leaned back and smoked the after-breakfast pipe. There were birds singing in the alders opposite; the river, decorated with sunlight, looked warm and brown, like the shallow pools whose warmness quite shocks you when you dangle your feet in them from seaweed-covered rocks.  
 
@@ -113,6 +113,8 @@ A few strokes took them out of sight of the Anchor, its homely, flowered garden,
 The George in Yalding, a riverside inn dating back to 1642, provided an alternative to the Anchor. Templar enjoys a drink there in _Salome and the Head_: 
 <br><br>
 But he walked up to Yalding and leaned on the bridge and looked down into the mysterious shadowy depths that by daylight are green-water-meadows; saw two white owls fly out from the church tower; heard the church clock strike nine; had a drink at the George and a pleasant word with the George’s good landlord; and went back over the broad, deserted green space, tree-bordered, which Yalding calls the Leas, to that other bridge which is almost as beautiful as Yalding’s, and so to bed in a little bungalow close to the water, and there fell asleep with the sound of the weir soothing him like a lullaby.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Yalding_from_bridge.JPG" label="Yalding from Bridge" attribution="Poliphilo, CC0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/St_Peter_and_St_Paul%2C_Yalding%2C_the_tower_2.JPG" label="The tower, St Peter and St Paul, Yalding" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
 In 1905 Edith sent a note to [H.G. Wells](/20c/20c-wellshg-biography), who was due to join them: ‘I can’t remember whether you were told that our inn at Yalding is the _George_ – it would be dreadful if you were to seek us vainly at the _Bull_ or the _Anchor_, she wrote.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg" label="H.G. Wells, c. 1890" attribution="Library of the London School of Economics and Political Science, No restrictions, via Wikimedia Commons">
