@@ -86,25 +86,25 @@ Who call the Medway ours.
 <param ve-image url="https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c" label="The Medway at Tonbridge">
 
 Long passages in _The Incredible Honeymoon_ (1921) and _Salome and the Head_ (1909) two of Nesbit’s novels for adults, describe the river’s beauty. In _Salome and the Head_, she wrote:  
-<br><br>
+<br>
 The Medway just above the Anchor (at Yalding, Kent) is a river of dreams. The grey and green of willows and alders mirror themselves in the still water in images hardly less solid-seeming than their living realities. There is pink loosestrife there, and meadow-sweet creamy and fragrant, forget- me-nots wet and blue, and a tangle of green weeds and leaves and stems that only botanists know the names of.  
 
 Nesbit stayed in several of the pubs and inns that punctuated the river- bank. The real Anchor, which has been renamed the Boathouse, is a quaint fourteenth-century pub that stands just across the river from the medieval Twyford Bridge and weir.   In _The Englishman’s Country_ (1945), poet and nature writer Walter James Turner described the Anchor as a ‘beautiful inn with its nooks and corners answering no particular scheme of architecture’. Its origin was as a bargeman’s inn, but it became ‘a favourite anchorage for anglers, who have miles of water, swift or slow to yield them sport’. 
 
 In _Salome and the Head_, Nesbit wrote:  
-<br><br>
+<br>
 If you go to Yalding you may stay at the George, and be comfortable in a little village that owns a haunted churchyard, a fine church, and one of the most beautiful bridges in Europe. Or you may stay at the Anchor, and be comfortable on the very lip of the river.  
 <param ve=image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/The_George_Pub%2C_Yalding_-_geograph.org.uk_-_1143857.jpg" label="The George Pub, Yalding" attribution="David Anstiss">
 
 Templar, her protagonist, stays at the Anchor, where Nesbit stayed many times. She included a description of breakfast there in _Salome and the Head_:  
-<br><br>
+<br>
 At the Anchor you breakfast either in a little room whose door opens directly on that part of the garden which is adorned by two round flower- beds edged with the thickest, greenest box you ever saw – this is next door to breakfasting in the garden itself – or you do breakfast in the garden. Once upon a time you used to breakfast in a hornbeam arbour, but now that is given over to bargees. The landlord of the Anchor is a just man, and apportions the beauty of his grounds fairly among his clients.  
 <param ve=image url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Footbridge_over_the_River_Medway_to_the_Anchor_Inn_-_geograph.org.uk_-_1200333.jpg" label="Footbridge over the River Medway to the Anchor Inn" attribution="David Anstiss">
 
 The morning being a prince of mornings, even for June, Mr Templar ate his eggs and bacon in the garden, drank there his three cups of tea, and there leaned back and smoked the after-breakfast pipe. There were birds singing in the alders opposite; the river, decorated with sunlight, looked warm and brown, like the shallow pools whose warmness quite shocks you when you dangle your feet in them from seaweed-covered rocks.  
 
 Edward and Katherine, her couple from _The Incredible Honeymoon_, stand ‘on the landing-stage of the Anchor, looking down on a sort of Sargasso Sea of small craft that stretched along below the edge of the Anchor garden’. When they take to the water on the next page, Nesbit uses this as an opportunity to condemn the hideously utilitarian architecture encroaching on this beloved landscape, a theme she returned to again and again:  
-<br><br>
+<br>
 A few strokes took them out of sight of the Anchor, its homely, flowered garden, its thatched house, its hornbeam arbor; they passed, too, the ugly, bare house that some utilitarian misdemeanant has built next to it, then nothing but depths of willow copse, green and grey, and the grassy curves of the towing-path where the loosestrife grows, and the willow herb, the yellow yarrow, and the delicate plumes of the meadow-sweet.  
 
 The George in Yalding, a riverside inn dating back to 1642, provided an alternative to the Anchor. Templar enjoys a drink there in _Salome and the Head_: 
