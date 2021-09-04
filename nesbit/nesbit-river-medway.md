@@ -99,8 +99,6 @@ The Medway just above the Anchor (at Yalding, Kent) is a river of dreams. The gr
 
 Nesbit stayed in several of the pubs and inns that punctuated the river- bank. The real Anchor, which has been renamed the Boathouse, is a quaint fourteenth-century pub that stands just across the river from the medieval Twyford Bridge and weir.  
 
-Text Box 
-
 Here it is in Nesbit’s time (circa 1910) and in its modern incarnation (I have emailed the pub for permission to use the second one). 
 
 In _The Englishman’s Country_ (1945), poet and nature writer Walter James Turner described the Anchor as a ‘beautiful inn with its nooks and corners answering no particular scheme of architecture’. Its origin was as a bargeman’s inn, but it became ‘a favourite anchorage for anglers, who have miles of water, swift or slow to yield them sport’. 
@@ -128,4 +126,4 @@ In 1905 Edith sent a note to [H.G. Wells](/20c/20c-wellshg-biography), who was d
 ### Biblioography
 
 Nesbit, E. [_In Homespun_](https://www.gutenberg.org/files/4378/4378-h/4378-h.htm), 1896. 
-Nesbit, E. [_The Wouldbegoods_](https://www.gutenberg.org/ebooks/794), 1901.
+Nesbit, E. [_The Wouldbegoods_](https://www.gutenberg.org/ebooks/794), 1901, ch. 5. 
