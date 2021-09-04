@@ -10,7 +10,7 @@
 
 - author: Eleanor Fitzsimons
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
 
 Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent.
 
@@ -19,53 +19,8 @@ Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of K
 
 - author: Eleanor Fitzsimons
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d5de25a-71d0-4a9a-b60c-05cdc4417817)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8070a760-99ba-4a8a-bf1c-dbc551d3f83c)
 
-During visits to her brother Edward Austen Knight between 1794 and 1813, Austen frequently took day trips to Canterbury. In addition to making social calls, Austen enjoyed the other attractions Canterbury had to offer, including visits to the Cathedral, shopping, concerts, and balls.
-
-##
-**[Halstead](/nesbit/nesbit-halstead)**
-
-- author: Eleanor Fitzsimons
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/dd818686-5568-4dcf-81c2-169573607ab1)
-
-Jane Austen regularly visited Chilham Castle to attend dinner parties and evening balls while she was staying nearby with her brother Edward Austen Knight between 1796 and 1813. Social events at Chilham Castle offered opportunities to see old friends and to meet new people, and Jane and her sister wrote about them fondly in their letters to one another.
-
-##
-**[Lee](/nesbit/nesbit-lee)**
-
-- author: Eleanor Fitzsimons
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
-
-Austen stayed with her brother Edward Austen Knight at Godmersham Park six times between 1798 and 1813. During these visits she enjoyed seeing her family, taking day trips to a variety of Kent destinations, and making the most of his lavish library.
-
-##
-**[Scotney Castle](/nesbit/nesbit-scotney)**
-
-- author: Eleanor Fitzsimons
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e8/View_of_Ramsgate_Town_and_Harbour_by_James_Ward_1799.jpg)
-
-Austen visited Ramsgate in 1803 while staying at Godmersham Park with her brother Edward Austen Knight, and while another brother, Francis, was stationed there as a Royal Navy officer. In her published work, Ramsgate is associated with morally dubious characters such as George Wickham in Pride and Prejudice and Tom Bertram in Mansfield Park.
-
-##
-**[Dymchurcn](/nesbit/nesbit-dymchurch)**
-
-- author: Eleanor Fitzsimons
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4c/Patrick_Nasmyth_%281787-1831%29_-_View_near_Sevenoaks%2C_Kent_-_N01178_-_National_Gallery.jpg)
-
-Jane Austen’s first experience of Kent comprised a trip with her parents and sister to Sevenoaks to visit her great uncle Francis, her father’s guardian and benefactor. Francis hosted a grand dinner at his stately Red House in July of 1788, an event which may have provided the inspiration for a scene in her third novel, Mansfield Park (1814).
-
-##
-**[Tunbridge Wells](/nesbit/austen-tunbridge-wells)**
-
-- author: Eleanor Fitzsimons
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f4/Chalybeate_Spring%2C_Tunbridge_Wells.jpg)
-
-Austen mentions the fashionable spa resort of Tunbridge Wells—often referred to as simply “Tunbridge”—in several of her novels, such as Northanger Abbey, Mansfield Park, Persuasion, and the unfinished Sanditon. She is also known to have had a Tunbridge ware box of the kind Harriet Smith has in Emma.
+When she was thirteen, Edith Nesbit stayed for a time in the village of Penshurst, near Sevenoaks. 
 
 
