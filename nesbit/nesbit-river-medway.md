@@ -86,12 +86,10 @@ Who call the Medway ours.
 <param ve-image url="https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c" label="The Medway at Tonbridge">
 
 Long passages in _The Incredible Honeymoon_ (1921) and _Salome and the Head_ (1909) two of Nesbit’s novels for adults, describe the river’s beauty. In _Salome and the Head_, she wrote:  
-
+<br><br>
 The Medway just above the Anchor (at Yalding, Kent) is a river of dreams. The grey and green of willows and alders mirror themselves in the still water in images hardly less solid-seeming than their living realities. There is pink loosestrife there, and meadow-sweet creamy and fragrant, forget- me-nots wet and blue, and a tangle of green weeds and leaves and stems that only botanists know the names of.  
 
-Nesbit stayed in several of the pubs and inns that punctuated the river- bank. The real Anchor, which has been renamed the Boathouse, is a quaint fourteenth-century pub that stands just across the river from the medieval Twyford Bridge and weir.  
-
-In _The Englishman’s Country_ (1945), poet and nature writer Walter James Turner described the Anchor as a ‘beautiful inn with its nooks and corners answering no particular scheme of architecture’. Its origin was as a bargeman’s inn, but it became ‘a favourite anchorage for anglers, who have miles of water, swift or slow to yield them sport’. 
+Nesbit stayed in several of the pubs and inns that punctuated the river- bank. The real Anchor, which has been renamed the Boathouse, is a quaint fourteenth-century pub that stands just across the river from the medieval Twyford Bridge and weir.   In _The Englishman’s Country_ (1945), poet and nature writer Walter James Turner described the Anchor as a ‘beautiful inn with its nooks and corners answering no particular scheme of architecture’. Its origin was as a bargeman’s inn, but it became ‘a favourite anchorage for anglers, who have miles of water, swift or slow to yield them sport’. 
 
 In _Salome and the Head_, Nesbit wrote:  
 <br><br>
@@ -114,6 +112,7 @@ The George in Yalding, a riverside inn dating back to 1642, provided an alternat
 But he walked up to Yalding and leaned on the bridge and looked down into the mysterious shadowy depths that by daylight are green-water-meadows; saw two white owls fly out from the church tower; heard the church clock strike nine; had a drink at the George and a pleasant word with the George’s good landlord; and went back over the broad, deserted green space, tree-bordered, which Yalding calls the Leas, to that other bridge which is almost as beautiful as Yalding’s, and so to bed in a little bungalow close to the water, and there fell asleep with the sound of the weir soothing him like a lullaby.  
 
 In 1905 Edith sent a note to [H.G. Wells](/20c/20c-wellshg-biography), who was due to join them: ‘I can’t remember whether you were told that our inn at Yalding is the _George_ – it would be dreadful if you were to seek us vainly at the _Bull_ or the _Anchor_, she wrote.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg" label="H.G. Wells, c. 1890" attribution="Library of the London School of Economics and Political Science, No restrictions, via Wikimedia Commons">
 
 ### Biblioography
 
