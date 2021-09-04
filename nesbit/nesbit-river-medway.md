@@ -11,6 +11,7 @@ All through the summer nights the market carts creak along the London road; to L
 <br><br>
 E. NESBIT.   
 KENT, March 1896.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22171.jpg" label="Hop-picking in Yalding, Kent" attribution="Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons">
 
 ‘Coals of Fire’, the final story in the collection, features river dwellers who sail barges along the River Medway between London and Tonbridge. Nesbit opens: 
 <br><br>
@@ -102,9 +103,9 @@ If you go to Yalding you may stay at the George, and be comfortable in a little 
 Templar, her protagonist, stays at the Anchor, where Nesbit stayed many times. She included a description of breakfast there in _Salome and the Head_:  
 <br>
 At the Anchor you breakfast either in a little room whose door opens directly on that part of the garden which is adorned by two round flower- beds edged with the thickest, greenest box you ever saw – this is next door to breakfasting in the garden itself – or you do breakfast in the garden. Once upon a time you used to breakfast in a hornbeam arbour, but now that is given over to bargees. The landlord of the Anchor is a just man, and apportions the beauty of his grounds fairly among his clients.  
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Anchor%2C_Yalding.JPG" label="The Anchor, Yalding" attribution="Poliphilo, CC0, via Wikimedia Commons">
-
+<br>
 The morning being a prince of mornings, even for June, Mr Templar ate his eggs and bacon in the garden, drank there his three cups of tea, and there leaned back and smoked the after-breakfast pipe. There were birds singing in the alders opposite; the river, decorated with sunlight, looked warm and brown, like the shallow pools whose warmness quite shocks you when you dangle your feet in them from seaweed-covered rocks.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Anchor%2C_Yalding.JPG" label="The Anchor, Yalding" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
 Edward and Katherine, her couple from _The Incredible Honeymoon_, stand ‘on the landing-stage of the Anchor, looking down on a sort of Sargasso Sea of small craft that stretched along below the edge of the Anchor garden’. When they take to the water on the next page, Nesbit uses this as an opportunity to condemn the hideously utilitarian architecture encroaching on this beloved landscape, a theme she returned to again and again:  
 <br>
@@ -114,7 +115,6 @@ The George in Yalding, a riverside inn dating back to 1642, provided an alternat
 <br><br>
 But he walked up to Yalding and leaned on the bridge and looked down into the mysterious shadowy depths that by daylight are green-water-meadows; saw two white owls fly out from the church tower; heard the church clock strike nine; had a drink at the George and a pleasant word with the George’s good landlord; and went back over the broad, deserted green space, tree-bordered, which Yalding calls the Leas, to that other bridge which is almost as beautiful as Yalding’s, and so to bed in a little bungalow close to the water, and there fell asleep with the sound of the weir soothing him like a lullaby.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Yalding_from_bridge.JPG" label="Yalding from Bridge" attribution="Poliphilo, CC0, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/St_Peter_and_St_Paul%2C_Yalding%2C_the_tower_2.JPG" label="The tower, St Peter and St Paul, Yalding" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
 In 1905 Edith sent a note to [H.G. Wells](/20c/20c-wellshg-biography), who was due to join them: ‘I can’t remember whether you were told that our inn at Yalding is the _George_ – it would be dreadful if you were to seek us vainly at the _Bull_ or the _Anchor_, she wrote.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg" label="H.G. Wells, c. 1890" attribution="Library of the London School of Economics and Political Science, No restrictions, via Wikimedia Commons">
