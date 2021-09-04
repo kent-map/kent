@@ -26,72 +26,63 @@ As dusk fell, she would play her guitar, sometimes strumming a song of her own c
 MEDWAY SONG (Air: Carnaval de Venise)
 
 Let Housman sing of Severn shore, 
-
-Of Thames let Arnold sing, In 1896, as part of his avant-garde Keynotes series, John Lane published Nesbit’s _In Homespun_, a collection of short stories set in the South Kent villages and ‘out away among the Sussex downs’. Here is Nesbit’s introduction to these ten tales, written in Kentish dialect.  
-
-‘Coals of Fire’, the final story in the collection, features river dwellers who sail barges along the River Medway between London and Tonbridge. Nesbit opens:  
-<br><br>
-All my life I've lived on a barge. My father, he worked a barge from London to Tonbridge, and 'twas on a barge I first 
-
-But we will sing no river more 
-
+Of Thames let Arnold sing, 
+But we will sing no river more   
 Save this where crowbars ring. 
+<br><br>
 Let others sing of Henley, 
 Of fashion and renown, 
 But we will sing the thirteen locks 
-<br><br>
 That lead to Tonbridge town! 
+<br><br>
 Then sing the Kentish river, 
 The Kentish fields and flowers, 
 We waste no dreams on other streams 
-<br><br>
 Who call the Medway ours. 
+<br><br>
 When on the level golden meads 
 The evening sunshine lies, 
 The little voles among the reeds 
-<br><br>
 Look out with wondering eyes. 
+<br><br>
 The patient anglers linger 
 The placid stream beside, 
 Where still with towering tarry prow 
-<br><br>
 The stately barges glide. 
+<br><br>
 Then sing the Kentish river, 
 The Kentish fields and flowers, 
 We waste no dreams on other streams 
-<br><br>
 Who call the Medway ours. 
-On Medway banks the May droops white, 
 <br><br>
+On Medway banks the May droops white, 
 The wild rose blossoms fair, 
 O’er meadow-sweet and loosestrife bright, 
-<br><br>
 For water nymphs to wear. 
+<br><br>
 And mid the blowing rushes 
 Pan pipes a joyous song, 
 And woodland things peep from the shade 
-<br><br>
 As soft we glide along. 
+<br><br>
 Then sing the Kentish river, 
 The Kentish fields and flowers, 
 We waste no dreams on other streams 
-<br><br>
 Who call the Medway ours. 
-You see no freight on Medway boats 
 <br><br>
+You see no freight on Medway boats 
 Of fashions fine and rare, 
 But happy men in shabby coats, 
 And girls with wind-kissed hair. 
-The world’s a pain forgotten, 
 <br><br>
+The world’s a pain forgotten, 
 And very far away, 
 The stream that flows, the boat that goes – 
-<br><br>
 These are our world to-day. 
+<br><br>
 Then sing the Kentish river, 
 The Kentish fields and flowers, 
 We waste no dreams on other streams 
-<br><br>
 Who call the Medway ours. 
 <param ve-image url="https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c" label="The Medway at Tonbridge">
 
