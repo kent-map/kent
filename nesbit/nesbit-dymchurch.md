@@ -39,6 +39,7 @@ Wouldn’t you like to live in a Martello tower? They have one beautiful big roo
 <br><br> 
 Katherine’s companion, Edward, suggests that it is haunted: “A soldier’s ghost walks there; the village people say, ‘it’s one of them there Roman soldiers that lived here when them towers was built in old ancient Roman times’.” 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Martello_Tower_24%2C_Dymchurch_1.jpg" label="Martello Tower no. 24" attribution="Nilfanion, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-map center="Q17361844" zoom="15">
 
 During the seventeenth and eighteenth centuries, Dymchurch was a haven for smugglers. In _The New Treasure Seekers_, an old man relates this dark history to the Bastable children: 
 <br><br>
@@ -46,7 +47,7 @@ During the seventeenth and eighteenth centuries, Dymchurch was a haven for smugg
 
 When Nesbit arrived in the summer of 1893, the village still had a windmill, but it had stopped working in 1882, and it was demolished in 1905. One of the first properties she rented was Mill House on Mill Street. She put it into _The New Treasure Seekers_ as the home of Miss Sandal and Oswald Bastable describes it to readers: ‘It is before you come to the village, and it is a little square white house. There is a big old windmill at the back of it. It is not used any more for grinding corn, but fishermen keep their nets in it.’ 
 <param ve-image url"https://upload.wikimedia.org/wikipedia/commons/0/07/Mill_Road%2C_Dymchurch%2C_Kent_-_geograph.org.uk_-_1360315.jpg" label="Mill Road, Dymnchuch, Kent" attribution="Peter Trimming">
-<param ve-map center="51.024498365102495, 0.9924857693740737" zoom="13">
+<param ve-map center="51.024498365102495, 0.9924857693740737" zoom="20">
 
 That first summer, Edith took rooms in a house on Marine Terrace. Once she had settled in, she sent for the rest of her family. Hubert’s beloved mother, Mary Ann Bland, had just died so he welcomed the opportunity of a long seaside holiday. In late October, he sent a note to Edward Pease asking if he might be excused from the next Fabian meeting: ‘We are having a very good time down here, shrimping, eeling, swimming, etc.,’ he wrote.
 
@@ -86,10 +87,12 @@ O’er opal and amber cold of darkening sky and sea.
 
 This Rosamund is staying in ‘a little house behind the sea- wall’. Its door ‘opened straight from the street into the sitting-room, after the primitive fashion of Lymchurch’. Andrew Dornington is at The Ship, a genuine Dymchurch inn. ‘The trees, still gold in calmer homes, stood almost leafless in wild, windy Lymchurch,’ he observes:
 <br><br>
-In ‘Rack and Thumbscrew’ from _Man and Maid_ (1906), Milly describes Lymchurch as ‘a glorious place to work’, adding: ‘Father did reams down there.’ Nesbit too worked well in Dymchurch. She was not alone. Romney Marsh was a magnet for writers. [Henry James](19c-jamesh-hever-castle/), whose writing she emulated in _The Literary Sense_, lived just sixteen miles away in Lamb House in Rye. [Joseph Conrad](/19c/19c-conrad-biography) lived all over Kent and Edgar Jepson remembered meeting him in Dymchurch ‘one hot summer when he came from his home in the hills above the marsh, bringing his family, to spend the day with [author and journalist] Perceval Gibbon’. In 1901, [Ford Madox Ford](/20c/20c-fordmadoxford-biography) moved to Winchelsea, just a twenty-mile cycle along the narrow lanes leading from Dymchurch. That same year, [H.G. Wells](/20c/20c-wellshg-biography), who was plagued by ill-health but found relief after being treated by a doctor in Kent, moved to the coastal village of Sandgate near Folkestone with his wife Jane and their two young sons. They lived in Spade House, a home built to his specifications. Wells was delighted to learn that Edith and Hubert could often be found in nearby Dymchurch, just a few miles along the coast. [Wells](/20c/20c-wellshg-biography) celebrated the area in his novel _Kipps_: 
+In ‘Rack and Thumbscrew’ from _Man and Maid_ (1906), Milly describes Lymchurch as ‘a glorious place to work’, adding: ‘Father did reams down there.’ 
+                                          
+Nesbit too worked well in Dymchurch. She was not alone. Romney Marsh was a magnet for writers. [Henry James](19c-jamesh-hever-castle/), whose writing she emulated in _The Literary Sense_, lived just sixteen miles away in Lamb House in Rye. [Joseph Conrad](/19c/19c-conrad-biography) lived all over Kent and Edgar Jepson remembered meeting him in Dymchurch ‘one hot summer when he came from his home in the hills above the marsh, bringing his family, to spend the day with [author and journalist] Perceval Gibbon’. In 1901, [Ford Madox Ford](/20c/20c-fordmadoxford-biography) moved to Winchelsea, just a twenty-mile cycle along the narrow lanes leading from Dymchurch. That same year, [H.G. Wells](/20c/20c-wellshg-biography), who was plagued by ill-health but found relief after being treated by a doctor in Kent, moved to the coastal village of Sandgate near Folkestone with his wife Jane and their two young sons. They lived in Spade House, a home built to his specifications. Wells was delighted to learn that Edith and Hubert could often be found in nearby Dymchurch, just a few miles along the coast. [Wells](/20c/20c-wellshg-biography) celebrated the area in his novel _Kipps_: 
 <br><br>
 There were glorious days of ‘mucking about’ along the beach, the siege of unresisting Martello towers, the incessant interest of the mystery and motion of windmills, the windy excursions with boarded feet over the yielding shingle to Dungeness lighthouse... wandering in the hedgeless, reedy marsh.
-<param ve-map center="Q1020800" zoom="10">
+<param ve-map center="Q1506093" zoom="10">
 
 In 1903 and 1904, Nesbit received a series of heartwarming letters from Rudyard Kipling, praising her stories for children. Kipling too took inspiration from the coastal Kent landscape. In ‘Dymchurch Flit’, included in his fantasy _Puck of Pook’s Hill_ (1906), he wrote about Old Hobden’s wife, one of the ‘Marsh folk’, who hails from ‘Dymchurch under the Wall’.
  
