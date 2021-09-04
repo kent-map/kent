@@ -106,6 +106,7 @@ Another writer friend, Berta Ruck, described these holidays too: ‘We bathed, w
 
 ### Bibliography
                                          
+Nesbit, E. [_The Book of Dragons_](https://www.gutenberg.org/ebooks/23661), 1901.   
 Nesbit, E. [_The New Treasure Seekers_](https://www.gutenberg.org/ebooks/25496), 1904.   
 Nesbit, E. [_Oswald Bastable and Others_](https://www.gutenberg.org/ebooks/28804), 1905.   
 Nesbit, E. [_Man and Maid_](https://www.gutenberg.org/ebooks/33028), 1906.   
