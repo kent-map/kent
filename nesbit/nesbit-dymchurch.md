@@ -106,8 +106,8 @@ Another writer friend, Berta Ruck, described these holidays too: ‘We bathed, w
 
 ### Bibliography
                                          
-Nesbit, E. [_The Incredible Honeymoon_](https://www.gutenberg.org/ebooks/41354)   
-Nesbit, E. [_The New Treasure Seekers_](https://www.gutenberg.org/ebooks/25496)   
-Nesbit, E. [_The House of Arden_](https://www.gutenberg.org/ebooks/57799)   
-Nesbit, E. [_Oswald Bastable and Others_](https://www.gutenberg.org/ebooks/28804)
-Nesbit, E. [_Man and Maid_](https://www.gutenberg.org/ebooks/33028)
+Nesbit, E. [_The New Treasure Seekers_](https://www.gutenberg.org/ebooks/25496), 1904.   
+Nesbit, E. [_Oswald Bastable and Others_](https://www.gutenberg.org/ebooks/28804), 1905.   
+Nesbit, E. [_Man and Maid_](https://www.gutenberg.org/ebooks/33028), 1906.   
+Nesbit, E. [_The House of Arden_](https://www.gutenberg.org/ebooks/57799), 1908.      
+Nesbit, E. [_The Incredible Honeymoon_](https://www.gutenberg.org/ebooks/41354), 1916.   
