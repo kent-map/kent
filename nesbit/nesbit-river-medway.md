@@ -124,3 +124,4 @@ In 1905 Edith sent a note to [H.G. Wells](/20c/20c-wellshg-biography), who was d
 
 Nesbit, E. [_In Homespun_](https://www.gutenberg.org/files/4378/4378-h/4378-h.htm), 1896.    
 Nesbit, E. [_The Wouldbegoods_](https://www.gutenberg.org/ebooks/794), 1901, ch. 5. 
+Nesbit, E. [_The Incredible Honeymoon_](https://www.gutenberg.org/ebooks/41354), 1916.      
