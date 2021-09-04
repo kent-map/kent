@@ -18,9 +18,8 @@ All my life I've lived on a barge. My father, he worked a barge from London to T
 <param ve-image url="https://stor.artstor.org/stor/3077e656-5d0a-4310-b7ca-c69a16417e07" label="Estuary of the Thames and the Medway by A. Fullarton & Co." attribution="Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
 Nesbit, a keen oarswoman and swimmer, took many boating holidays on the Medway with family and friends. William Archer noted that she had ‘a real love for English nature and a keen eye for it’. Nowhere is this more evident than in her descriptions of the lovely Kent countryside lying either side of the lazy River Medway. In _The Wouldbegoods_, she wrote:  
-<br><br>
+<br>
 We went along the towing path; it is shady with willows, aspens, elders, oaks, and other trees. On the banks are flowers – yarrow, meadow-sweet, willow herb, loose-strife, and lady’s bed-straw.  
-
 As dusk fell, she would play her guitar, sometimes strumming a song of her own composition. Her ‘Medway Song’ goes as follows:  
 
 MEDWAY SONG (Air: Carnaval de Venise)
