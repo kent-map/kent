@@ -61,5 +61,5 @@ Early in their relationship, Nesbit brought Hubert Bland, her husband-to-be, to 
 
 ### Bibliography
 
-Nesbit, E. [_The Wouldbegoods_](https://www.gutenberg.org/ebooks/32466), 1901.
+Nesbit, E. [_The Wouldbegoods_](https://www.gutenberg.org/ebooks/32466), 1901.   
 Nesbit, E. [_The Phoenix and the Carpet_](https://www.gutenberg.org/ebooks/836), 1904.
