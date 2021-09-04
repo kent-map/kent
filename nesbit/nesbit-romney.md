@@ -1,12 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Edith Nesbit, Romney Marsh" author="Eleanor Fitzsimon" layout="vtl" 
-banner="images/banners/19c.jpg">
+banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
-St Mary in the Marsh
-Eltham
-Woolwich
-Jesson
+<param ve-entity eid="Q7594628" aliases="St Mary in the Marsh">
 
 Early in 1922, Nesbit was confronted with the harsh reality that her income from writing was dwindling. Although she sought other sources of income, even selling vegetables, eggs and flowers to her neighbours, she was unable to generate enough revenue to keep her family and maintain Well Hall, her sprawling rented home in Eltham. She had grown disillusioned with the encroaching suburbs too. In _Wings and the Child_, her non-fiction manual for a happy childhood, she described how the wild and lovely spot she had moved to as the last century was ending had changed over time: 
 <br><br>
@@ -14,8 +11,10 @@ Once the road from Eltham to Woolwich was a grassy lane with hedges and big tree
 Accompanied by Tommy Tucker, her second husband, she moved to a quirky new home in Romney Marsh on the south-east coast. 
 
 Romney Marsh had a reputation for witchcraft and lawlessness. Visitors avoided it in ancient times, fearing its unwholesome air might carry plague. In _Return to Yesterday_, [Ford Madox Ford](/20c/20c-fordmadoxford-biography), who lived on its fringes, called it “an infectious and holding neighbourhood,” wrote: ‘In the Middle Ages they used to say: “These be the four quarters of the World: Europe, Asia, Africa and the Romney Marsh.”’ He knew how captivating it could be too, and warned: ‘Once you go there you are apt there to stay.’
+<param ve-entity eid="https://upload.wikimedia.org/wikipedia/commons/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg" label="The description of Romney Marsh c.1617" attribution="Tucker, Elhanan, Public domain, via Wikimedia Commons">
 
 Nesbit settled on the hamlet of Jesson, which was likely named after Jesson Farm. Renamed St Mary’s Bay in 1935, it is situated in the borderland between Kent and East Sussex, close to St Mary in the Marsh, but even closer to the sea. At the end of a cul-de-sac behind Jesson Farm stood two decommissioned brick-built huts, once used by the British Air Force as a photographic laboratory and a storehouse for medical materials. The whole structure required a great deal of renovation to make it habitable, and the couple completed much of this themselves. The huts were connected by a passage they named ‘The Suez Canal’ and they christened them ‘The Longboat’ and ‘The Jollyboat’. From their windows, they could gaze out across the marshes towards the sea wall. 
+
 Edith brightened their walls with lithographs by Gerald Spencer Pryse, and with H.R. Miller’s brilliant depiction of the Queen of Babylon from _The Story of the Amulet_. Her writing room became ‘the magic room’. She dedicated her final novel, _The Lark_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/99/Pg_082--The_story_of_the_amulet.png" label="The Story of the Amulet" attribution="Harold Robert Millar, Edith Nesbit, Public domain, via Wikimedia Commons">
  
@@ -49,6 +48,7 @@ And mine, too, is a bed of roses.
 Edith Nesbit died on 4 May 1924, at the age of sixty-five, officially of ‘bronchiectasis and cardiac dilatation,’ although lung cancer is now suspected. Her husband Tommy, live-in companion Olive Hill, daughter Iris, and son Paul kept vigil by her bedside, and she died in Iris’s arms. In accordance with her wishes, she was buried in a plain oak coffin in the peaceful, country churchyard of St Mary in the Marsh, under the protective shade of a majestic elm that stood close to the road. At Tommy’s request, a short funeral service concluded with a reading of the final section from his wife’s novel _Dormant_ (1911). 
 <br><br>
 ‘It seems such waste, such stupid senseless waste,’ said Bats. ‘His great thoughts, his fine body that loved life, all the friendship, the aspiration, the love... all thrown away, gone, wasted for ever.’ ‘Who says that it is wasted?’ said the Jew. ‘It is his body that has served its turn and is cast away. The great thoughts, the friendship, the aspiration, the love; can we say that these die? Nay, rather, these shall not die. These shall live in the Courts of the Lord, forever.’
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a8/St_Mary%2C_St_Mary_in_the_Marsh.JPG" label="St Mary, St Mary in the Marsh" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
 The _Nottingham Evening Post_ reported: ‘E. Nesbit (Mrs Hubert Bland), the famous writer of children’s and other stories, directed that a wooden tablet bearing her name should be the only memorial over her grave.’ In response, Tommy carved the simple wooden monument that marks her grave. Inscription reads “Resting, E. Nesbit, Mrs Bland-Tucker, Poet and Author died 4th May 1924 Aged 65” The muddy track leading to her home for the final two years of her life, the only home she ever owned, was renamed Nesbit Road. 
-<param ve-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/E_Nesbit%27s_Grave_-_St_Mary_In_The_Marsh_Churchyard.jpg" label="E. Nesbit's grave, St Mary in the Marsh Churchyard" attribution="Ian Dunster, CC BY-SA 3.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9e/E_Nesbit%27s_Grave_-_St_Mary_In_The_Marsh_Churchyard.jpg" label="E. Nesbit's grave, St Mary in the Marsh Churchyard" attribution="Ian Dunster, CC BY-SA 3.0, via Wikimedia Commons">
