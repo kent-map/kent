@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Folkestone and World War 1" author="Martin Watts" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
+<param ve-config title="Folkestone and World War 1" author="Martin Watts" layout="vtl" banner="/images/banners/20c.jpg">
 
 <param ve-map center="Q375314" zoom="10">
 <param ve-entity eid="Q12892">
