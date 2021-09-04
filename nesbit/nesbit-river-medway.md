@@ -1,8 +1,20 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Edith Nesbit, River Medway" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banner/19c.jpg">
+<param ve-config title="Edith Nesbit, River Medway" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banners/19c.jpg">
 
-see the light when my mother's time come. I used to wish sometimes as I could 'ave lived in a cottage with a few bits of flowers in the front, but I think if I'd been put to it I should have chose the barge rather than the finest cottage ever I see. 
+In 1896, as part of his avant-garde Keynotes series, John Lane published Nesbit’s _In Homespun_, a collection of short stories set in the South Kent villages and ‘out away among the Sussex downs’. Here is Nesbit’s introduction to these ten tales, written in Kentish dialect. 
 
+THESE tales are written in an English dialect—none the less a dialect for that it lacks uniformity in the misplacement of aspirates, and lacks, too, strange words misunderstanded of the reader.
+<br><br>
+In South Kent villages with names ending in 'den,' and out away on the Sussex downs where villages end in 'hurst,' live the plain people who talk this plain speech—a speech that should be sweeter in English ears than the implacable consonants of a northern kail-yard, or the soft one-vowelled talk of western hillsides.
+<br><br>
+All through the summer nights the market carts creak along the London road; to London go the wild young man and the steady young man who 'betters' himself. To London goes the girl seeking a 'place.' The 'beano' comes very near to this land—so near that across its marches you may hear the sackbut and shawm from the breaks. Once a year come the hoppers. And so the cup of the hills holds no untroubled pool of pastoral speech. This book therefore is of no value to a Middle English scholar, and needs no glossary.
+<br><br>
+E. NESBIT.
+KENT, March 1896.
+
+‘Coals of Fire’, the final story in the collection, features river dwellers who sail barges along the River Medway between London and Tonbridge. Nesbit opens: 
+
+All my life I've lived on a barge. My father, he worked a barge from London to Tonbridge, and 'twas on a barge I first see the light when my mother's time come. I used to wish sometimes as I could 'ave lived in a cottage with a few bits of flowers in the front, but I think if I'd been put to it I should have chose the barge rather than the finest cottage ever I see. 
 
 Nesbit, a keen oarswoman and swimmer, took many boating holidays on the Medway with family and friends. William Archer noted that she had ‘a real love for English nature and a keen eye for it’. Nowhere is this more evident than in her descriptions of the lovely Kent countryside lying either side of the lazy River Medway. In _The Wouldbegoods_, she wrote:  
 
@@ -112,3 +124,7 @@ The George in Yalding, a riverside inn dating back to 1642, provided an alternat
 But he walked up to Yalding and leaned on the bridge and looked down into the mysterious shadowy depths that by daylight are green-water-meadows; saw two white owls fly out from the church tower; heard the church clock strike nine; had a drink at the George and a pleasant word with the George’s good landlord; and went back over the broad, deserted green space, tree-bordered, which Yalding calls the Leas, to that other bridge which is almost as beautiful as Yalding’s, and so to bed in a little bungalow close to the water, and there fell asleep with the sound of the weir soothing him like a lullaby.  
 
 In 1905 Edith sent a note to [H.G. Wells](/20c/20c-wellshg-biography), who was due to join them: ‘I can’t remember whether you were told that our inn at Yalding is the _George_ – it would be dreadful if you were to seek us vainly at the _Bull_ or the _Anchor_, she wrote.  
+
+### Biblioography
+
+Nesbit, E. [In Homespun](https://www.gutenberg.org/files/4378/4378-h/4378-h.htm), 1896. 
