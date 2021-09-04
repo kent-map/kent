@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Edith Nesbit, Halstead" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banner/19c.jpg">
+<param ve-config title="Edith Nesbit, Halstead" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q2035885" aliases="Halstead">
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
