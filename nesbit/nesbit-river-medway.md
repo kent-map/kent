@@ -23,7 +23,7 @@ We went along the towing path; it is shady with willows, aspens, elders, oaks, a
 As dusk fell, she would play her guitar, sometimes strumming a song of her own composition. Her ‘Medway Song’ goes as follows:  
 
 MEDWAY SONG (Air: Carnaval de Venise)
-
+<br>
 Let Housman sing of Severn shore, 
 Of Thames let Arnold sing, 
 But we will sing no river more   
