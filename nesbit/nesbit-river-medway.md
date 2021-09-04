@@ -21,6 +21,7 @@ Nesbit, a keen oarswoman and swimmer, took many boating holidays on the Medway w
 <br>
 We went along the towing path; it is shady with willows, aspens, elders, oaks, and other trees. On the banks are flowers – yarrow, meadow-sweet, willow herb, loose-strife, and lady’s bed-straw.  
 As dusk fell, she would play her guitar, sometimes strumming a song of her own composition. Her ‘Medway Song’ goes as follows:  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/38/Wouldbegoods-nesbit_0123.jpg" label="Dicky Dragged the Two Heavy Bars, The Wouldbegoods" attribution="Reginald B. Birch, Public domain, via Wikimedia Commons">
 
 MEDWAY SONG (Air: Carnaval de Venise)
 <br>
