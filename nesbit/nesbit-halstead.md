@@ -57,8 +57,9 @@ Sarah Nesbit gave up the lease on Halstead Hall in the autumn of 1875. In _My Sc
 My book of memories lies open always at the page where are the pictures of Kentish cherry orchards, field and farm and gold-dim woodlands starred with primroses, light copses where the blue-bells and wild-flowers grow. 
 
 Early in their relationship, Nesbit brought Hubert Bland, her husband-to-be, to her beloved Halstead. They wandered through the woods and had lunch in a ‘funny, old-fashioned Inn’. She recaptures that idyllic day in her short story ‘A Holiday’ (_The Literary Sense_, 1903). A fictional couple, strangers to each, other spend sublime hours strolling through lush green parkland in Halstead ‘where tall red sorrel and white daisies grew high among the grass that was up for hay’. They ‘talked of all things under the sun’. While they are there, ‘[the] gold sun shone, the blue sky arched over a world of green and glory’. ‘It seemed,’ Nesbit wrote, ‘that the green country was enchanted land, and they under a spell that could never break.’ 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/21/Hubert_Bland_-_Project_Gutenberg_eText_13715.png" label="Hubert Bland" attribution="The History of the Fabian Society by Edward R. Pease, See page for author, Public domain, via Wikimedia Commons">
 
 ### Bibliography
 
-Nesbit, E. [_The Phoenix and the Carpet_]
-Nesbit, E. [_The Wouldbegoods_]
+Nesbit, E. [_The Wouldbegoods_](https://www.gutenberg.org/ebooks/32466), 1901.
+Nesbit, E. [_The Phoenix and the Carpet_](https://www.gutenberg.org/ebooks/836), 1904.
