@@ -1,6 +1,11 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Edith Nesbit, River Medway" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banners/19c.jpg">
 
+<param ve-entity eid="Q797782" aliases="Medway">
+<param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q2051722" aliases="Yalding">
+<param ve-entity eid="Q17641439" aliases="Twyford Bridge">
+
 In 1896, as part of his avant-garde Keynotes series, John Lane published Nesbit’s _In Homespun_, a collection of short stories set in the South Kent villages and ‘out away among the Sussex downs’. Here is Nesbit’s introduction to these ten tales, written in Kentish dialect.   
 <br>
 THESE tales are written in an English dialect—none the less a dialect for that it lacks uniformity in the misplacement of aspirates, and lacks, too, strange words misunderstanded of the reader.
@@ -17,6 +22,7 @@ KENT, March 1896.
 <br><br>
 All my life I've lived on a barge. My father, he worked a barge from London to Tonbridge, and 'twas on a barge I first see the light when my mother's time come. I used to wish sometimes as I could 'ave lived in a cottage with a few bits of flowers in the front, but I think if I'd been put to it I should have chose the barge rather than the finest cottage ever I see. 
 <param ve-image url="https://stor.artstor.org/stor/3077e656-5d0a-4310-b7ca-c69a16417e07" label="Estuary of the Thames and the Medway by A. Fullarton & Co." attribution="Photo by Astrid Stilma. By permission of Patrick Marrin.">
+<param ve-map center="Q936183" zoom="8">
 
 Nesbit, a keen oarswoman and swimmer, took many boating holidays on the Medway with family and friends. William Archer noted that she had ‘a real love for English nature and a keen eye for it’. Nowhere is this more evident than in her descriptions of the lovely Kent countryside lying either side of the lazy River Medway. In _The Wouldbegoods_, she wrote:  
 <br>
@@ -91,9 +97,11 @@ Long passages in _The Incredible Honeymoon_ (1921) and _Salome and the Head_ (19
 <br>
 The Medway just above the Anchor (at Yalding, Kent) is a river of dreams. The grey and green of willows and alders mirror themselves in the still water in images hardly less solid-seeming than their living realities. There is pink loosestrife there, and meadow-sweet creamy and fragrant, forget- me-nots wet and blue, and a tangle of green weeds and leaves and stems that only botanists know the names of.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bb/The_Anchor_Inn%2C_Yalding_on_Medway_Valley_Walk_-_geograph.org.uk_-_1200328.jpg" label="The Anchor Inn, Yalding on Medway Valley Walk" attribution="David Anstiss">
+<param ve-map center="51.22312394033697, 0.4188703306878291" zoom="14">
 
-Nesbit stayed in several of the pubs and inns that punctuated the river- bank. The real Anchor, which has been renamed the Boathouse, is a quaint fourteenth-century pub that stands just across the river from the medieval Twyford Bridge and weir.   In _The Englishman’s Country_ (1945), poet and nature writer Walter James Turner described the Anchor as a ‘beautiful inn with its nooks and corners answering no particular scheme of architecture’. Its origin was as a bargeman’s inn, but it became ‘a favourite anchorage for anglers, who have miles of water, swift or slow to yield them sport’. 
+Nesbit stayed in several of the pubs and inns that punctuated the river- bank. The real Anchor, which has been renamed the Boathouse, is a quaint fourteenth-century pub that stands just across the river from the medieval Twyford Bridge and weir. In _The Englishman’s Country_ (1945), poet and nature writer Walter James Turner described the Anchor as a ‘beautiful inn with its nooks and corners answering no particular scheme of architecture’. Its origin was as a bargeman’s inn, but it became ‘a favourite anchorage for anglers, who have miles of water, swift or slow to yield them sport’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/YaldingTwyford0529.JPG" label="Twyford Bridge over the River Medway at Yalding" attribution="Clem Rutter, Rochester, Kent., CC BY-SA 3.0, via Wikimedia Commons">
+<param ve-map center="Q17641439" zoom="14">
 
 In _Salome and the Head_, Nesbit wrote:  
 <br>
@@ -116,6 +124,7 @@ The George in Yalding, a riverside inn dating back to 1642, provided an alternat
 <br><br>
 But he walked up to Yalding and leaned on the bridge and looked down into the mysterious shadowy depths that by daylight are green-water-meadows; saw two white owls fly out from the church tower; heard the church clock strike nine; had a drink at the George and a pleasant word with the George’s good landlord; and went back over the broad, deserted green space, tree-bordered, which Yalding calls the Leas, to that other bridge which is almost as beautiful as Yalding’s, and so to bed in a little bungalow close to the water, and there fell asleep with the sound of the weir soothing him like a lullaby.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Yalding_from_bridge.JPG" label="Yalding from Bridge" attribution="Poliphilo, CC0, via Wikimedia Commons">
+<param ve-map center="51.22340252406306, 0.4293744136337939" zoom="15">
 
 In 1905 Edith sent a note to [H.G. Wells](/20c/20c-wellshg-biography), who was due to join them: ‘I can’t remember whether you were told that our inn at Yalding is the _George_ – it would be dreadful if you were to seek us vainly at the _Bull_ or the _Anchor_, she wrote.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg" label="H.G. Wells, c. 1890" attribution="Library of the London School of Economics and Political Science, No restrictions, via Wikimedia Commons">
