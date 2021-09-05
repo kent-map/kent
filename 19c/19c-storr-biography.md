@@ -1,5 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png">
-</a> <param ve-config title="Francis Storr the Elder and Younger" author="Jacqui Stamp" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Francis Storr the Elder and Younger" author="Jacqui Stamp" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q2197855" aliases="Brenchley">
 <param ve-entity eid="Q793057" aliases="Aylesford">
@@ -14,7 +14,7 @@ You agree in your answers all round,
 My whole will be speedily found._   
 <br>
 ‘Conundrums’ - _Anthology of verses and other miscellaneous writings_, 1861. (The ‘Enigma’ answer which was resolved with the aid of handwritten notations in text is ‘Unanimous’).
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Lych_gate%2C_All_Saints%2C_Brenchley._-_geograph.org.uk_-_768719.jpg" label="Lych gate, ALl Saints, Brenchley, Kent" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Lych_gate%2C_All_Saints%2C_Brenchley._-_geograph.org.uk_-_768719.jpg" label="Lych gate, All Saints, Brenchley, Kent" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 
 Revd Francis Storr (1808-1888) senior was vicar of All Saints’ church Brenchley in Kent from c.1854 until his death in 1888, assisted by his son, Revd Charles Storr, from 1876. He married (1) Caroline Storr, née Holland, 1814-1856; (2) Cecilia Grantham Storr, 1816-1896 (widow of Storr’s predecessor as the incumbent of All Saint’s, Brenchley and remembered on her gravestone as ‘wife of Richard Davis’). He had 5 sons, 3 daughters, 3 step-sons and 1 step-daughter. Francis Storr (1839-1919) junior was an author, biographer and translator who married Rose Storr, née Lloyd, in 1872 (Their daughter was Erica Violet Lindsay, née Storr, 1877-1962). Francis Storr junior graduated from Cambridge in 1860/61 and became well-known for his translations of the classics and his articles for the _Dictionary of National Biography_ and _Encyclopaedia Britannica_. 
 Together father and son wrote anthologies of poetry.
@@ -46,9 +46,9 @@ A handwritten note inside the scanned volume indicates that the ‘little select
 
 ### Bibliography
 
-Gravestone Photographic Resource (GPR) International Directory of Grave, Tomb, War and other Death Memorials. [Online:] (https://www.gravestonephotos.com/search/fullnamesearch.php) accessed 16/02/21    
+Gravestone Photographic Resource (GPR) International Directory of Grave, Tomb, War and other Death Memorials. [Online:](https://www.gravestonephotos.com/search/fullnamesearch.php) accessed 16/02/21    
 Hoare, Edward et al, Memorials of Francis Storr, London, William Rice, 1888; ebook edition 2016; [online:](https:/www.gutenberg.org/files/52768/52768-h/52768-h.htm) accessed 16/02/21   
-_Kelly’s Directory of Kent 1903_ (extract). Online:https://forebears.io/england/kent/brenchley/matfield accessed 18/02/2021 Stainforth Library of Women’s Writing, Santa Clara University, USA. Online: https://www.stainforth.scu.edu accessed 17/02/21
+_Kelly’s Directory of Kent 1903_ (extract). [Online:](https://forebears.io/england/kent/brenchley/matfield) accessed 18/02/2021 Stainforth Library of Women’s Writing, Santa Clara University, USA. [Online:](https://www.stainforth.scu.edu) accessed 17/02/21
 Storr, Francis et al, _Minnows from Brenchley Brook_ [Verses, etc., by Francis Storr the elder, Francis Storr the younger, and others. Edited by Bernard Bigsby.] MS.notes; British Library Historical Collection edition, nd.   
 Storr, Francis et al. _Minnows of Brenchley Brook_, London, Richard Barrett, 1861   
 UK Census, 1861. [Online:](https://ancestry.co.uk) accessed 18/02/21   
