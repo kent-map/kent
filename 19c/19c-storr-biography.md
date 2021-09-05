@@ -45,6 +45,7 @@ Our battle o’er again!_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6a/Centre_of_Brenchley_-_geograph.org.uk_-_2515080.jpg" label="Centre of Brenchley" attribution="by N Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 
 A handwritten note inside the scanned volume indicates that the ‘little selection of unpublished poems’ was given to Rev. Francis John Stainforth, an Anglican clergyman who ‘owned the largest private library of Anglophone women’s writing collected during the mid-nineteenth century’ in thanks for “the great trouble [he had] been to’ regarding some tickets. The note is signed by J. Knight Jennings and sent from 36 Harrington Square, London on 11 June 1861.[^ref2]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/20/Churchyard_yews%2C_Brenchley.JPG" label="Churchyard Yews, Brenchley" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
 ### Bibliography
 
