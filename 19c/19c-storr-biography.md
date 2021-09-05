@@ -33,7 +33,7 @@ On desk in album lying;
 Be found the flames supplying.’_ (p3)   
 <br>
 ’Conundrums’, on page 24, asserts that its answers will be ‘in our next’, but it seems that no ‘next’ was ever produced. This indicates again a project pursued purely for amusement - like the sports ‘on the field in front of the Vicarage’, which ‘presented a very gay scene’ and provided ‘a great deal of harmless fun.’  
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6a/Centre_of_Brenchley_-_geograph.org.uk_-_2515080.jpg" label="Centre of Brenchley" attribution="by N Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Old_Vicarage%2C_Brenchley_-_geograph.org.uk_-_1467749.jpg" label="The Old Vicarage, Brenchley" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 
 ‘A Lay of Modern Brenchley’, on pages 8-11, recounts the ‘battle’ of two football teams, one drawn from local men and one from incomers to the village. The latter team is led by no other than ‘Mr. Bigsby” - editor of the anthology - and his team includes: “Thomson, of the Borders’; “Francis Parker - / Now Taffy called was he’ (so, presumably, of Welsh descent); ‘Jerry Leycester - / Of Chester’; ‘Freddy Cross of Suffolk’; and ‘Rose of Buckingham’. In a game where handling the ball was complete-ly acceptable, the village team, under the leadership of ‘William Hayne of Brenchley’ and therefore known as ‘the Haynites’, is defeated but, as the ‘Lay’ concludes:   
 <br>
@@ -42,6 +42,7 @@ In days of wet and rain,
 Or on the cheerless winter’s night,   
 In fancy’s eye we fiercely fight   
 Our battle o’er again!_  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6a/Centre_of_Brenchley_-_geograph.org.uk_-_2515080.jpg" label="Centre of Brenchley" attribution="by N Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 
 A handwritten note inside the scanned volume indicates that the ‘little selection of unpublished poems’ was given to Rev. Francis John Stainforth, an Anglican clergyman who ‘owned the largest private library of Anglophone women’s writing collected during the mid-nineteenth century’ in thanks for “the great trouble [he had] been to’ regarding some tickets. The note is signed by J. Knight Jennings and sent from 36 Harrington Square, London on 11 June 1861.[^ref2]
 
