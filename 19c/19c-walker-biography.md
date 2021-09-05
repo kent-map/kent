@@ -1,7 +1,6 @@
 Place: Canterbury, 12-13 June 1834
 
-
-The landowner and diarist [Ann Walker](https://en.wikipedia.org/wiki/Ann_Walker_(landowner)) of Lightcliffe in Yorkshire passed through [Canterbury](/19c/19c-canterbury) (and Kent) with [Anne Lister](https://yorkcivictrust.co.uk/heritage/civic-trust-plaques/anne-lister-1791-1840/) of [Shibden Hall, Halifax](https://museums.calderdale.gov.uk/visit/shibden-hall) on their way to France and Switzerland in the summer of 1834. Their relationship and (not legally recognised) [marriage](https://yorkcivictrust.co.uk/heritage/civic-trust-plaques/anne-lister-1791-1840/) is the subject of the recent BBC/Lookout Point TV drama series [“Gentleman Jack”.](https://www.bbc.co.uk/programmes/m00059m9). Although her stay in [Canterbury](/19c/19c-canterbury) was short, Ann Walker wrote a long account of it in her recently discovered and fully transcribed [journal.](https://www.catalogue.wyjs.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=WYAS4971%2f7%2f1%2f5%2f1). Anne Lister also noted details of their stay in Canterbury (and Kent) in her own diary.
+The landowner and diarist [Ann Walker](https://en.wikipedia.org/wiki/Ann_Walker_(landowner)) of Lightcliffe in Yorkshire passed through [Canterbury](/19c/19c-canterbury) (and Kent) with [Anne Lister](https://yorkcivictrust.co.uk/heritage/civic-trust-plaques/anne-lister-1791-1840/) of [Shibden Hall, Halifax](https://museums.calderdale.gov.uk/visit/shibden-hall) on their way to France and Switzerland in the summer of 1834. Their relationship and (not legally recognised) [marriage](https://yorkcivictrust.co.uk/heritage/civic-trust-plaques/anne-lister-1791-1840/) is the subject of the recent BBC/Lookout Point TV drama series [“Gentleman Jack”.](https://www.bbc.co.uk/programmes/m00059m9). Although her stay in [Canterbury](/19c/19c-canterbury) was short, Ann Walker wrote a long account of it in her recently discovered and fully transcribed [journal](https://www.catalogue.wyjs.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=WYAS4971%2f7%2f1%2f5%2f1). Anne Lister also noted details of their stay in Canterbury (and Kent) in her own diary.
 
 On 12 June 18341 Ann Walker and Anne Lister arrived in [Canterbury](/19c/19c-canterbury) late at night, in their carriage, with two of their servants. Ann notes in her diary how they missed out on seeing Rochester Cathedral on the way due to rain. They booked rooms at The Fountain [http://www.machadoink.com/Royal%20Fountain%20Hotel.htm] in St Margaret's Street, which had been claimed to be one of the oldest coaching inns in the country, but was sadly destroyed in air raids in 1942. 
 
@@ -21,73 +20,35 @@ The [In Search of Ann Walker](https://insearchofannwalker.com/) research collabo
 
 Notes
 
-1 Diary Comparison Portal, https://insearchofannwalker.com/thursday-12th-june-1834/  
-
-2 Diary Comparison Portal, https://insearchofannwalker.com/friday-13th-june-1834/ 
-
+1 [Diary Comparison Portal](https://insearchofannwalker.com/thursday-12th-june-1834/)  
+2 [Diary Comparison Portal](https://insearchofannwalker.com/friday-13th-june-1834/)    
 3 Canterbury Cathedral, https://www.canterbury-cathedral.org/ 
-
-4 William Gostling: A Walk In and About the City of Canterbury, https://archive.org/details/walkinaboutcityo00gost/page/n7/mode/2up 
-
+4 William Gostling: [A Walk In and About the City of Canterbury](https://archive.org/details/walkinaboutcityo00gost/page/n7/mode/2up)
 5 Dane John Gardens, http://www.canterbury-archaeology.org.uk/dane/4590809480 
-
 6 The Dane John / Dungeon, http://www.machadoink.com/Dane%20John.htm 
-
 7 Canterbury Castle, http://www.canterbury-archaeology.org.uk/castle/4590809462 
-
 8 Packet Service I to 1854, https://doverhistorian.com/2015/03/21/packet-service-to-1854/ 
-
 9 Diary Comparison Portal, https://insearchofannwalker.com/tuesday-26th-august-1834/ 
 
 
 
-
-
-
-
 Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825. No known copyright restrictions.
 
-
-
-
 Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825. No known copyright restrictions.
-
-
-
 
  Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825. No known copyright restrictions.
 
-
-
-
 Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825. No known copyright restrictions.
-
-
-
 
 Canterbury Castle, from A Walk In and About the City of Canterbury by William Gostling, 1825.
 No known copyright restrictions
 
-
-
-
 Dane John Gardens, from A Walk In and About the City of Canterbury by William Gostling, 1825.
 No known copyright restrictions
-
-
-
-
 
 Canterbury street, from A Walk In and About the City of Canterbury by William Gostling, 1825.
 No known copyright restrictions
 
-
-
 Shibden Hall, Halifax, Credit: Calderdale Museums 
-
-
-
-
-
 
 Rainbow plaque at Holy Trinity church, Goodramgate, York.  Credit: Ivana Nika
