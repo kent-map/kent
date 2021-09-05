@@ -38,6 +38,7 @@
 [Mary Shelley](19c-shelleym-biography)  
 [Margaret Emily Shore](19c-shore-biography)  
 [Charlotte Carmichael Stopes](19c-stopes-biography)   
+[Francis Storr](19c-storr-biography)    
 [Netta Syrett](19c-syrett-biography)   
 [Ellen Ternan](19c-ternan-biography)   
 [Queen Victoria](19c-victoria-biography)   
