@@ -24,4 +24,4 @@ The de Criol, Kyriel or Kyriell family, which originated from Criel-sur-Mer, Sei
 
 “Old Cryals” farmhouse, a grade II listed building dating back to the early fourteenth century can be found in Brenchley in the borough of Tunbridge Wells. After the Norman Conquest in 1066, the land around the village was given to Richard FitzGilbert, cousin of William the Conqueror. The current All Saints church was built around 1233, most likely on the site of an old wooden structure. The village has many very attractive old timbered and shuttered buildings with a beautiful high street and village centre by the church. The nearest station is Paddock Wood, where trains from Ashford to London run frequently.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Pond%2C_Cryals_Farm_-_geograph.org.uk_-_1745032.jpg" label="The Pond, Cryals Farm" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-map center="Q26554237" zoom="15">
+<param ve-map center="Q26554237" zoom="12">
