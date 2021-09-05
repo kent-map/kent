@@ -33,6 +33,7 @@ On desk in album lying;
 Be found the flames supplying.’_ (p3)   
 <br>
 ’Conundrums’, on page 24, asserts that its answers will be ‘in our next’, but it seems that no ‘next’ was ever produced. This indicates again a project pursued purely for amusement - like the sports ‘on the field in front of the Vicarage’, which ‘presented a very gay scene’ and provided ‘a great deal of harmless fun.’  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6a/Centre_of_Brenchley_-_geograph.org.uk_-_2515080.jpg" label="Centre of Brenchley" attribution="by N Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 
 ‘A Lay of Modern Brenchley’, on pages 8-11, recounts the ‘battle’ of two football teams, one drawn from local men and one from incomers to the village. The latter team is led by no other than ‘Mr. Bigsby” - editor of the anthology - and his team includes: “Thomson, of the Borders’; “Francis Parker - / Now Taffy called was he’ (so, presumably, of Welsh descent); ‘Jerry Leycester - / Of Chester’; ‘Freddy Cross of Suffolk’; and ‘Rose of Buckingham’. In a game where handling the ball was complete-ly acceptable, the village team, under the leadership of ‘William Hayne of Brenchley’ and therefore known as ‘the Haynites’, is defeated but, as the ‘Lay’ concludes:   
 <br>
