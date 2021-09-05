@@ -5,6 +5,7 @@
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q2051722" aliases="Yalding">
 <param ve-entity eid="Q17641439" aliases="Twyford Bridge">
+<param ve-entity eid="Q84" aliases="London">
 
 In 1896, as part of his avant-garde Keynotes series, John Lane published Nesbit’s _In Homespun_, a collection of short stories set in the South Kent villages and ‘out away among the Sussex downs’. Here is Nesbit’s introduction to these ten tales, written in Kentish dialect.   
 <br>
@@ -97,11 +98,11 @@ Long passages in _The Incredible Honeymoon_ (1921) and _Salome and the Head_ (19
 <br>
 The Medway just above the Anchor (at Yalding, Kent) is a river of dreams. The grey and green of willows and alders mirror themselves in the still water in images hardly less solid-seeming than their living realities. There is pink loosestrife there, and meadow-sweet creamy and fragrant, forget- me-nots wet and blue, and a tangle of green weeds and leaves and stems that only botanists know the names of.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bb/The_Anchor_Inn%2C_Yalding_on_Medway_Valley_Walk_-_geograph.org.uk_-_1200328.jpg" label="The Anchor Inn, Yalding on Medway Valley Walk" attribution="David Anstiss">
-<param ve-map center="51.22312394033697, 0.4188703306878291" zoom="14">
+<param ve-map center="51.22312394033697, 0.4188703306878291" zoom="15">
 
 Nesbit stayed in several of the pubs and inns that punctuated the river- bank. The real Anchor, which has been renamed the Boathouse, is a quaint fourteenth-century pub that stands just across the river from the medieval Twyford Bridge and weir. In _The Englishman’s Country_ (1945), poet and nature writer Walter James Turner described the Anchor as a ‘beautiful inn with its nooks and corners answering no particular scheme of architecture’. Its origin was as a bargeman’s inn, but it became ‘a favourite anchorage for anglers, who have miles of water, swift or slow to yield them sport’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/YaldingTwyford0529.JPG" label="Twyford Bridge over the River Medway at Yalding" attribution="Clem Rutter, Rochester, Kent., CC BY-SA 3.0, via Wikimedia Commons">
-<param ve-map center="Q17641439" zoom="14">
+<param ve-map center="Q17641439" zoom="16">
 
 In _Salome and the Head_, Nesbit wrote:  
 <br>
