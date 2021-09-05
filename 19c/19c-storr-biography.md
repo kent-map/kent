@@ -48,13 +48,13 @@ A handwritten note inside the scanned volume indicates that the ‘little select
 
 ### Bibliography
 
-Gravestone Photographic Resource (GPR) International Directory of Grave, Tomb, War and other Death Memorials. [Online:](https://www.gravestonephotos.com/search/fullnamesearch.php) accessed 16/02/21    
-Hoare, Edward et al, Memorials of Francis Storr, London, William Rice, 1888; ebook edition 2016; [online:](https:/www.gutenberg.org/files/52768/52768-h/52768-h.htm) accessed 16/02/21   
-_Kelly’s Directory of Kent 1903_ (extract). [Online:](https://forebears.io/england/kent/brenchley/matfield) accessed 18/02/2021 Stainforth Library of Women’s Writing, Santa Clara University, USA. [Online:](https://www.stainforth.scu.edu) accessed 17/02/21
-Storr, Francis et al, _Minnows from Brenchley Brook_ [Verses, etc., by Francis Storr the elder, Francis Storr the younger, and others. Edited by Bernard Bigsby.] MS.notes; British Library Historical Collection edition, nd.   
-Storr, Francis et al. _Minnows of Brenchley Brook_, London, Richard Barrett, 1861   
-UK Census, 1861. [Online:](https://ancestry.co.uk) accessed 18/02/21   
-Wikitree Genealogy website. [Online:](https://www.wikitree.com/wiki/Storr-213) accessed 16/02/21.   
+Gravestone Photographic Resource (GPR) International Directory of Grave, Tomb, War and other Death Memorials. [Online:](https://www.gravestonephotos.com/search/fullnamesearch.php) accessed 16/02/21.       
+Hoare, Edward et al, Memorials of Francis Storr, London, William Rice, 1888; ebook edition 2016; [online:](https:/www.gutenberg.org/files/52768/52768-h/52768-h.htm) accessed 16/02/21.      
+_Kelly’s Directory of Kent 1903_ (extract). [Online:](https://forebears.io/england/kent/brenchley/matfield) accessed 18/02/2021 Stainforth Library of Women’s Writing, Santa Clara University, USA. [Online:](https://www.stainforth.scu.edu) accessed 17/02/21.   
+Storr, Francis et al, _Minnows from Brenchley Brook_ [Verses, etc., by Francis Storr the elder, Francis Storr the younger, and others. Edited by Bernard Bigsby.] MS.notes; British Library Historical Collection edition, nd.    
+Storr, Francis et al. _Minnows of Brenchley Brook_, London, Richard Barrett, 1861.      
+UK Census, 1861. [Online:](https://ancestry.co.uk) accessed 18/02/21      
+Wikitree Genealogy website. [Online:](https://www.wikitree.com/wiki/Storr-213) accessed 16/02/21.    
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/All_Saint%27s_Church%2C_Brenchley_-_geograph.org.uk_-_1274895.jpg" label="All Saint's Church, Brenchley" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 
 [^ref1]: The anthology was edited by Bernard Bigsby - full name Bernard Edward Sulyard Drake Bigsby - who would later move to America, marry, publish a series of seminal texts on the English language and become an eminent philologist, journalist and author. In 1861, however, he was resident with the Storr family at the Vicarage in Brenchley, where the UK Census lists his occupation as Tutor. He was 26 years old, having been born in Derby in 1835, and an Oxford graduate.
