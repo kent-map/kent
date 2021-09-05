@@ -1,5 +1,10 @@
-Place: Canterbury, 12-13 June 1834
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Ann Walker (1791-1840)" author="Ivana Nika" layout="vtl" banner="/images/banners/19c.jpg">
 
+<param ve-entity eid="Q29303" aliases="Canterbury">
+
+**Place:** Canterbury, 12-13 June 1834   
+<br>
 The landowner and diarist [Ann Walker](https://en.wikipedia.org/wiki/Ann_Walker_(landowner)) of Lightcliffe in Yorkshire passed through [Canterbury](/19c/19c-canterbury) (and Kent) with [Anne Lister](https://yorkcivictrust.co.uk/heritage/civic-trust-plaques/anne-lister-1791-1840/) of [Shibden Hall, Halifax](https://museums.calderdale.gov.uk/visit/shibden-hall) on their way to France and Switzerland in the summer of 1834. Their relationship and (not legally recognised) [marriage](https://yorkcivictrust.co.uk/heritage/civic-trust-plaques/anne-lister-1791-1840/) is the subject of the recent BBC/Lookout Point TV drama series [“Gentleman Jack”.](https://www.bbc.co.uk/programmes/m00059m9). Although her stay in [Canterbury](/19c/19c-canterbury) was short, Ann Walker wrote a long account of it in her recently discovered and fully transcribed [journal](https://www.catalogue.wyjs.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=WYAS4971%2f7%2f1%2f5%2f1). Anne Lister also noted details of their stay in Canterbury (and Kent) in her own diary.
 
 On 12 June 18341 Ann Walker and Anne Lister arrived in [Canterbury](/19c/19c-canterbury) late at night, in their carriage, with two of their servants. Ann notes in her diary how they missed out on seeing Rochester Cathedral on the way due to rain. They booked rooms at The Fountain [http://www.machadoink.com/Royal%20Fountain%20Hotel.htm] in St Margaret's Street, which had been claimed to be one of the oldest coaching inns in the country, but was sadly destroyed in air raids in 1942. 
@@ -15,8 +20,6 @@ After a stroll down [Canterbury](/19c/19c-canterbury) streets, Walker and Lister
 On their return journey from the Continent, Ann stopped writing in her journal once they arrived in Calais. We, however, do know from Lister's diary that after their return to England on the packet boat Firefly on 26 August9, they passed through [Dover](/19c/19c-dover) and [Canterbury](/19c/19c-canterbury) without stopping. They spent a night in Rochester (at Wright’s Hotel) on their way to London, before ultimately travelling to their home – Shibden Hall in Halifax.
 
 The [In Search of Ann Walker](https://insearchofannwalker.com/) research collaborative works on bringing to light all aspects of Ann's life.
-
-
 
 Notes
 
