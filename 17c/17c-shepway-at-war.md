@@ -1,9 +1,8 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Sheppey at war in the 17th century" author="Dr Melanie Caiazza" layout="vtl" banner="/images/banners/16c.jpg"> 
+<param ve-config title="Sheppey at war in the 17th century" author="Dr Melanie Caiazza" layout="vtl" banner="/images/banners/17c.jpg"> 
 
 <param ve-entity eid="Q1500299" aliases="Sheppey"> 
-<param ve-entity eid="Q105782444" aliases="Shurland Manor">
-<param ve-entity eid="Q609390" aliases="Minster">
+<param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q17643879" aliases="Queenborough Castle">
 
 The Island of Sheppey was at the centre of the famous Medway attack during the Anglo Dutch War (c.1664-1667).  The Isle of Sheppey was in a vulnerable position at the entrance to both the Medway and Thames Rivers.  The British Library Map 1240 of the Dutch Invasion of the Medway by General Bouttate, c.1666 is misleading since the Dutch invasion of the Medway took place between the 12th and the 14th June 1667, a year after the map was produced.  According to the mapmaker, Sheppey’s northern coastline appeared to be heavily under fire with Sheerness Fort captured on the Dutch approach to the Medway and a second battle taking place on the way back when the Dutch held provisions on the northern half of Sheppey to secure its base in the southeast.  Samuel Pepys records in his diary dated 10th June 1667 that Sheerness and Gravesend witnessed the exodus of local people as they fled in fear of the Dutch.  The taking of Sheerness was most likely very easy since there was no army to defend it and military support was not adequately provided by the Crown, in addition to the ruinous state of the castle at Queenborough that was destroyed during the Commonwealth period.
