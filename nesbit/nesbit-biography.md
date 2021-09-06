@@ -11,7 +11,7 @@
 
 **Places:** Halstead, Penshurst, Medway, Dymchurch, St Mary’s Bay 
 <br><br>
-English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of [Halstead](/nesbit/nesbit-lee), in the Sevenoaks District of Kent. It was there that she began writing poetry, and she was living there when her work was published for the first time. Several of her best-loved stories for children, including _The Wouldbegoods_ and _The Phoenix and the Carpet_, include descriptions of her childhood home. Although she left in her late teens, she never lost her love of the village and its beautiful surroundings, and she returned there to take woodland walks year after year.  
+English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of [Halstead](/nesbit/nesbit-halstead), in the Sevenoaks District of Kent. It was there that she began writing poetry, and she was living there when her work was published for the first time. Several of her best-loved stories for children, including _The Wouldbegoods_ and _The Phoenix and the Carpet_, include descriptions of her childhood home. Although she left in her late teens, she never lost her love of the village and its beautiful surroundings, and she returned there to take woodland walks year after year.  
 <param ve-image url="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" label="Kent" attribution="John Salmon Postcards">
 <param ve-map center="Q2035885" zoom="12">
 
