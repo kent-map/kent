@@ -27,6 +27,6 @@ The village of Penshurst developed around Penshurst Place, the ancestral home of
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Penshurst_Place%2C_Kent.jpg" label="Penshurst Place" attribution="Nessy-Pic, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map center="Q7164746" zoom="15">
 
-There are two walking trails across the estate, the Parkland and the Riverside Walks. Regional cycle route no. 12 from Tonbridge to [Penshurst Place](www.penshurstplace.com), which is mostly off road, also goes through the estate.  Cycle from Penshurst Place to Tonbridge Castle with this [Guide](https://www.penshurstplace.com/public/uploads/browser/files/Cycle%20Route.pdf)
+There are two walking trails across the estate, the Parkland and the Riverside Walks. Regional cycle route no. 12 from Tonbridge to [Penshurst Place](https://www.penshurstplace.com), which is mostly off road, also goes through the estate.  Cycle from Penshurst Place to Tonbridge Castle with this [Guide](https://www.penshurstplace.com/public/uploads/browser/files/Cycle%20Route.pdf)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/21/Penshurst_Place%2C_2012_%283%29.JPG" label="Penshurst Place" attribution="Elisa.rolle, CC BY-SA 3.0, via Wikimedia Commons">
 <param ve-map center="Q7820768" zoom="16">
