@@ -16,7 +16,7 @@
 [U.A. Fanthorpe](20c-fanthorpe-biography)   
 [John Ferguson](20c-ferguson-biography)   
 [Ford Madox Ford](20c-fordmadoxford-biography)   
-{E.M. Forster](20c-forsterem-biography)   
+{E.M. Forster](20c-forster-em-biography)   
 [R. Austin Freeman](20c-freeman-biography)   
 [Cicely Hamilton](20c-hamilton-biography)   
 [Victoria Holt](20c-holt-biography)   
