@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Sheppey at war in the 16th century" author="Dr Melanie Caizza" layout="vtl" banner="/images/banners/16c.jpg"> 
+<param ve-config title="Sheppey at war in the 16th century" author="Dr Melanie Caiazza" layout="vtl" banner="/images/banners/16c.jpg"> 
 
 <param ve-entity eid="Q1500299" aliases="Sheppey"> 
 <param ve-entity eid="Q105782444" aliases="Shurland Manor">
@@ -14,6 +14,7 @@ The Anglo Dutch War was not the first time that Sheppey inhabitants suffered due
 	mustered Sheppey souldiours…well taught and trayned up to the use 
 	and handling of their severall sortes of weapons, at suche times as we
 	 shalbe thereunto by then…’  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Queenborough_Castle_1784.png" label=Queenborough Castle, 1784" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 However, the second half of his report reveals concern for the inhabitants of the island and the impact the defensive programmes might be having on the wellbeing of everyday life on the island:
 <br>
@@ -30,5 +31,6 @@ However, the second half of his report reveals concern for the inhabitants of th
 	same at the least.’ 
 
 Overall, Hoby’s account provides a complex insight into the tensions between the Crown’s military agenda and the everyday hardship of the local islanders, particularly in Eastchurch parish.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Sheppey_Cliff_Top_-_geograph.org.uk_-_389427.jpg" label="Sheppey CLiff top" attribution="Glyn Baker, CC BY-SA 2.0, via Wikimedia Commons">
 
 
