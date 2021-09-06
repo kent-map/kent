@@ -21,7 +21,8 @@ However, the second half of his report reveals concern for the inhabitants of th
 	‘…and whereas lately divers the poore inhabitants of this Islae have 
 	been greatly oppressed with the loss of their lambes, capons, hennes, 
 	chikins, and suche ordinary provisions of householde, by her Majesties 
-	takers, the breading of theis veing the greatest parte of some of their livinges 	because I have alwaies found them willing to abide, whatsoever chardge 
+	takers, the breading of theis veing the greatest parte of some of their livinges 	
+	because I have alwaies found them willing to abide, whatsoever chardge 
 	was layed upon them for the furtheranuce of her Majesties service, and 
 	that if they sustayne by few more the like losses, they shall not be able 
 	to maintaine that furniture with now they do; this are in their behalf most 
@@ -29,8 +30,10 @@ However, the second half of his report reveals concern for the inhabitants of th
 	therof, and that no inhabitante within this Isle, may be herafter pressed for 
 	any the said provisions, unless he occupy 300 acres of fresh land within the 
 	same at the least.’ 
+<param ve-image url="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" label="Detail of Sheppey, John Speed map of Kent, 1611">
+
 
 Overall, Hoby’s account provides a complex insight into the tensions between the Crown’s military agenda and the everyday hardship of the local islanders, particularly in Eastchurch parish.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Sheppey_Cliff_Top_-_geograph.org.uk_-_389427.jpg" label="Sheppey CLiff top" attribution="Glyn Baker, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Sheppey_Cliff_Top_-_geograph.org.uk_-_389427.jpg" label="Sheppey Cliff top" attribution="Glyn Baker, CC BY-SA 2.0, via Wikimedia Commons">
 
 
