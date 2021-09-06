@@ -10,5 +10,3 @@ The Island of Sheppey was at the centre of the famous Medway attack during the A
 
 Samuel Pepys records in his diary dated 10th June 1667 that Sheerness and Gravesend witnessed the exodus of local people as they fled in fear of the Dutch.  The taking of Sheerness was most likely very easy since there was no army to defend it and military support was not adequately provided by the Crown, in addition to the ruinous state of the castle at Queenborough that was destroyed during the Commonwealth period.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/85/Dutch_Attack_on_the_Medway%2C_9-14_June_1667_RMG_BHC0293.tiff" label="Dutch Attack on the Medway, 9-14th June" attribution="Peter van de Velde, Public domain, via Wikimedia Commons">
-
-
