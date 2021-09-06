@@ -56,7 +56,7 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
 ##
-[**Edith Nesbit**](/nesbit/nesbit-biography)
+[**Edith Nesbit**](/nesbit/index)
 
 - author: Eleanor Fitzsimons
 
