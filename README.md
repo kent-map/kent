@@ -62,8 +62,7 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
 
-Edith Nesbit
-
+Edith Nesbit lived in Kent during her childhood and then again in later life and her stories are inspired by the Kent countryside.
 
 # Essays by period
 
