@@ -39,6 +39,8 @@ Paull, John. ‘Lord Northbourne, the man who invented organic farming, a biogra
 Paull, John. ‘The Betteshanger Summer School: Missing Link between Biodynamic Agriculture and Organic Farming’. [_Journal of Organic Systems_](https://orgprints.org/19511/) (2) 2011, 13-26.   
 [Northbourne Sources](https://northbourneblog.wordpress.com/)   
 With thanks to Dr John Paull and Mrs Anne Kent.   
+<br>
+You can hear Dr John Paull talking about Lord Northbourne on the Kent Maps YouTube Channel: [When Kent invented organic farming](https://youtu.be/apVjloO_MYY)
 
 ### References
 

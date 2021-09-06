@@ -39,6 +39,8 @@ Sackville-West died at Sissinghurst in 1962 and her ashes are interred in the fa
 Both Sissinghurst and Knole are now owned by the [National Trust.](https://www.nationaltrust.org.uk/) 
 [Long Barn](https://en.wikipedia.org/wiki/Long_Barn) is privately owned but occasionally opened to the public for charity. 
 [Groombridge Place](www.groombridgeplace.com) is open to the public as a commercial attraction. 
+<br>
+<br> You can hear more about Vita Sackville-West on the Kent Maps Online YouTube channel: [Dr Sophie Baldock. “Out-of-date rubbishy”? Revisiting Vita Sackville-West’s “The Land”](https://youtu.be/8h-0Z0HY_kU)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/05/Sissinghurst_castle.JPG" label="Sissinghurst Gardens" attribution="Klaus D. Peter, Wiehl, Germany, CC BY 2.0 DE <https://creativecommons.org/licenses/by/2.0/de/deed.en>, via Wikimedia Commons">
 
 ### Bibliography:
