@@ -21,5 +21,5 @@ On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversh
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d)
 
-In 1588 that concerns about the Spanish Armada, approaching London via the Kent coast, caused the Crown to invest in fortifications at Queenborough Castle and Minster.  
+In 1588 concerns about the Spanish Armada approaching London via the Kent coast caused the Crown to invest in fortifications at Queenborough Castle and Minster.  
 
