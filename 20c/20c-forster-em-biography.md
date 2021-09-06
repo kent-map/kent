@@ -7,7 +7,6 @@
 <param ve-entity="Weald" eid="Q2298322">
 <param ve-entity="Great Chart" eid="Q5598954">
 <param ve-entity="Borough Green" eid="Q2001391">
-<param ve-map="Q936183" zoom="8">
 
 #
 
