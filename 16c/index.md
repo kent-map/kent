@@ -3,7 +3,7 @@
        banner="/images/banners/16c.jpg"
        layout="index">
 
-#
+# {.cards}
 
 ##
 **[Arden of Faversham](16c-arden-faversham)**
