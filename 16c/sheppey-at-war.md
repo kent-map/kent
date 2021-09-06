@@ -2,6 +2,9 @@
 <param ve-config title="Sheppey at war in the 16th century" author="Dr Melanie Caizza" layout="vtl" banner="/images/banners/16c.jpg"> 
 
 <param ve-entity eid="Q1500299" aliases="Sheppey"> 
+<param ve-entity eid="Q105782444" aliases="Shurland Manor">
+<param ve-entity eid="Q609390" aliases="Minster">
+<param ve-entity eid="Q17643879" aliases="Queenborough Castle">
 
 #
 
