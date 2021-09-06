@@ -21,3 +21,5 @@ Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown 
 - author: Dr Melanie Caiazza
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d)
+
+The Island of Sheppey was at the centre of the famous Medway attack during the Anglo Dutch War (c.1664-1667).
