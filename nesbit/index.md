@@ -23,4 +23,12 @@ Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of K
 
 When she was thirteen, Edith Nesbit stayed for a time in the village of Penshurst, near Sevenoaks. 
 
+##
+**[River Medway](/nesbit/nesbit-river-medway)**
+
+- author: Eleanor Fitzsimons
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c)
+
+Nesbit, a keen oarswoman and swimmer, took many boating holidays on the Medway with family and friends.
 

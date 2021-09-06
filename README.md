@@ -55,6 +55,15 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
+##
+[**Edith Nesbit**](/nesbit/nesbit-biography)
+
+- author: Eleanor Fitzsimons
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
+
+Edith Nesbit lived in Kent during her childhood and then again in later life and her stories are inspired by the Kent countryside.
+
 # Essays by period
 
 # {.cards}
