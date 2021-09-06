@@ -6,7 +6,7 @@
 # {.cards}
 
 ##
-**[Edith Nesbit](/19c/19c-nesbit-biography)**
+**[Edith Nesbit](/nesbit/nesbit-biography)**
 
 - author: Eleanor Fitzsimons
 
