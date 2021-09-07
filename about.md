@@ -16,6 +16,8 @@ But rather than simply recreating a historic experience, the research aims to pr
 
 As the map grows so too will the capacity for making unforeseen connections. While the project inevitably reflects the interests of the research team, it is highly collaborative and is not designed to showcase or privilege any one argument over another. Instead it will help you find your own answers to questions you haven’t thought of yet.
 
+The project team hosts an annual [Kent Digital Maps Symposium](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/seminar-series/kent-maps-online-symposium.aspx) and has their own YouTube channel: [Kent Maps Online](https://www.youtube.com/channel/UCAIbFfzsJzaeYwVNuCeF50w).
+
 # Steering Group {.cards}
 
 ##
@@ -326,14 +328,14 @@ Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from C
 ##
 [**Dominique Gracia**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/dominique.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ac5eca54-0b25-4120-b9fb-4dd9258afc7b)
 
 Dominique Gracia is a Project Manager with the Oxford Faculty of English and UK Administrative Director of the Collaborative Organization for Virtual Education. Her research focuses on Victorian poetry and short fiction, ekphrasis and the relationships between media, and the reuse and recurrence of the Victorian in twenty-first-century television.
 
 ##
 [**Logan Miller**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/IMG_20201206_123913-01.jpeg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/691ce515-ef4d-4b7b-a8b8-5fff79894a1e)
 
 Logan Miller is 3rd year Computer Science BSc student at the University of Sheffield who has a keen interest in Software Development.
 
