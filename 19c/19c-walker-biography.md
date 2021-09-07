@@ -12,7 +12,9 @@ On 12 June 1834[^ref1] Ann Walker and Anne Lister arrived in [Canterbury](/19c/1
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/18/Frederick_Nash_-_Rochester_Cathedral_and_Castle_-_Google_Art_Project.jpg" label="Rochester Cathedral and Castle, 1825, by Frederick Nash" attribution="Public domain, via Wikimedia Commons">
 
 On 13 June 1834[^ref2]  Ann Walker wrote a detailed account of the day. In the morning Anne and Ann visited Canterbury Cathedral, in the afternoon strolled down Dane John Gardens, briefly saw Canterbury castle, and climbed up Dane John Mound. 
-<param ve=image url="https://stor.artstor.org/stor/e70a6523-0d4d-42da-a07a-699c3f2aa1ea" label="Dane John Gardens, from A Walk In and About the City of Canterbury by William Gostling" attribution="No known copyright restrictions"> 
+<param ve-image url="https://stor.artstor.org/stor/e70a6523-0d4d-42da-a07a-699c3f2aa1ea" label="Dane John Gardens, from A Walk In and About the City of Canterbury by William Gostling" attribution="No known copyright restrictions"> 
+<param ve-compare url="https://stor.artstor.org/stor/04dc1444-cdd0-445b-8041-b2dd02ed0f58" label="Dane John Gardens, Canterbury (2021)" attribution="Calum Elliot and Emma Molford">
+<param ve-compare url="https://stor.artstor.org/stor/3cb447d3-c9cf-47a9-aac5-f019f2f745aa" label="Dane John Gardens, Canterbury - 1905 or earlier">
 
 Canterbury Cathedral is described in great detail in Ann Walker’s journal, which includes many historical facts about its chapels, aisles, shrines, tombs, and monuments dedicated to former archbishops.[^ref3] Judging by the similarities of syntax and detail, some sentences in her journal might have been copied or adapted from _A Walk In and About the City of Canterbury_,[^ref4]  a book compiled by William Gostling, which had seen several editions by 1834.
 <param ve-image url="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" label="Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825" attribution="No known copyright restrictions.">
