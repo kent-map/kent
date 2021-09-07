@@ -23,7 +23,7 @@ Similarly, she provides a detailed account – including extensive information o
 <param ve-image url="https://stor.artstor.org/stor/d3328173-c9b0-43ad-9fc2-dfeaa3505793" label="Canterbur Castle in Canterbury in Olden Times" attribution="by John Brent">
 
 After a stroll down [Canterbury](/19c/19c-canterbury) streets, Walker and Lister finally left for [Dover](/19c/19c-dover), where they took lodgings at the [Ship Inn](http://www.dover-kent.com/Ship-Hotel.html), which, as Walker mentions, had just changed hands (passing from a Mr. C. Wright to a Mr. Worthington). Before dinner, Ann Walker played the inn’s piano, and the next morning the two women took passage on a packet boat “Ferret” to Calais.[^ref8]
-<param ve-image url="https://stor.artstor.org/stor/f9da5877-5856-47f5-8469-84de059a2536" label="The Picturesque Beauties of Great Britain: Kent. Shakespeare's Cliff, Dover" attribution="George Virtue, Photo by Astrid Stilma. By permission of Patrick Marrin.">
+<param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate Street, Dover, 1830" attribution="Drawn by George Shepherd">
 
 On their return journey from the Continent, Ann stopped writing in her journal once they arrived in Calais. We, however, do know from Lister's diary that after their return to England on the packet boat 'Firefly' on 26 August,[^ref9] they passed through [Dover](/19c/19c-dover) and [Canterbury](/19c/19c-canterbury) without stopping. They spent a night in Rochester (at Wright’s Hotel) on their way to London, before ultimately travelling to their home – Shibden Hall in Halifax.
 <br><br>
