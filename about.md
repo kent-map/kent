@@ -335,7 +335,7 @@ Dominique Gracia is a Project Manager with the Oxford Faculty of English and UK 
 ##
 [**Logan Miller**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/IMG_20201206_123913-01.jpeg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/691ce515-ef4d-4b7b-a8b8-5fff79894a1e)
 
 Logan Miller is 3rd year Computer Science BSc student at the University of Sheffield who has a keen interest in Software Development.
 
