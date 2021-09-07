@@ -36,26 +36,3 @@ Notes
 7 Canterbury Castle, http://www.canterbury-archaeology.org.uk/castle/4590809462 
 8 Packet Service I to 1854, https://doverhistorian.com/2015/03/21/packet-service-to-1854/ 
 9 Diary Comparison Portal, https://insearchofannwalker.com/tuesday-26th-august-1834/ 
-
-
-
-Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825. No known copyright restrictions.
-
-Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825. No known copyright restrictions.
-
- Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825. No known copyright restrictions.
-
-Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825. No known copyright restrictions.
-
-Canterbury Castle, from A Walk In and About the City of Canterbury by William Gostling, 1825.
-No known copyright restrictions
-
-Dane John Gardens, from A Walk In and About the City of Canterbury by William Gostling, 1825.
-No known copyright restrictions
-
-Canterbury street, from A Walk In and About the City of Canterbury by William Gostling, 1825.
-No known copyright restrictions
-
-Shibden Hall, Halifax, Credit: Calderdale Museums 
-
-Rainbow plaque at Holy Trinity church, Goodramgate, York.  Credit: Ivana Nika
