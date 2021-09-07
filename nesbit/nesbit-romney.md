@@ -24,7 +24,7 @@ Nesbit settled on the hamlet of Jesson, which was likely named after Jesson Farm
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cf/Jesson_Outfall_-_geograph.org.uk_-_449530.jpg" label="Jesson Outfall" attribution="Simon Carey">
 <param ve-map center="Q7594245" zoom="12">
 
-Edith brightened their walls with lithographs by Gerald Spencer Pryse, and with H.R. Miller’s brilliant depiction of the Queen of Babylon from _The Story of the Amulet_. Her writing room became ‘the magic room’. She dedicated her final novel, _The Lark_
+Edith brightened their walls with lithographs by Gerald Spencer Pryse, and with H.R. Miller’s brilliant depiction of the Queen of Babylon from _The Story of the Amulet_. Her writing room became ‘the magic room’. She dedicated her final novel, _The Lark_ 'To T.T. Tucker, With Love. Jesson St. Mary's, Romney, Kent.'
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/99/Pg_082--The_story_of_the_amulet.png" label="The Story of the Amulet" attribution="Harold Robert Millar, Edith Nesbit, Public domain, via Wikimedia Commons">
  
 Nesbit wrote ‘occasional joyful letters’ to her friend Mavis Carter, describing how the Long Boat was taking shape; it was ’full of shavings and carpenters’. Now she reassured Mavis:
