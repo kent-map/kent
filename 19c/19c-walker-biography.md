@@ -17,12 +17,13 @@ Canterbury Cathedral is described in great detail in Ann Walker’s journal, whi
 <param ve-image url="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" label="Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825" attribution="No known copyright restrictions.">
 
 Similarly, she provides a detailed account – including extensive information on its dimensions – of the promenade in the Dane John Gardens,[^ref5] which was created between 1790-1803  when the gardens were gifted to the town by [Aldermann James Simmons](https://en.wikipedia.org/wiki/James_Simmons_(1741%E2%80%931807)), and to whom the memorial on the top of the mound was erected in 1803 by public subscription.[^ref6] The Norman castle, which unsurprisingly “has no appearance of Roman antiquity” is also described.[^ref7] Afterwards Ann Walker praises [Canterbury](/19c/19c-canterbury) shops, which were at the time famous for their trade in silk and [brawn](https://en.wikipedia.org/wiki/Head_cheese), and buys some oranges. 
+<param ve-image url="https://stor.artstor.org/stor/d3328173-c9b0-43ad-9fc2-dfeaa3505793" label="Canterbur Castle in Canterbury in Olden Times" attribution="by John Brent">
 
 After a stroll down [Canterbury](/19c/19c-canterbury) streets, Walker and Lister finally left for [Dover](/19c/19c-dover), where they took lodgings at the [Ship Inn](http://www.dover-kent.com/Ship-Hotel.html), which, as Walker mentions, had just changed hands (passing from a Mr. C. Wright to a Mr. Worthington). Before dinner, Ann Walker played the inn’s piano, and the next morning the two women took passage on a packet boat “Ferret” to Calais.[^ref8]
+<param ve-image url="https://stor.artstor.org/stor/f9da5877-5856-47f5-8469-84de059a2536" label="The Picturesque Beauties of Great Britain: Kent. Shakespeare's Cliff, Dover" attribution="George Virtue, Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
-
-On their return journey from the Continent, Ann stopped writing in her journal once they arrived in Calais. We, however, do know from Lister's diary that after their return to England on the packet boat Firefly on 26 August,[^ref9] they passed through [Dover](/19c/19c-dover) and [Canterbury](/19c/19c-canterbury) without stopping. They spent a night in Rochester (at Wright’s Hotel) on their way to London, before ultimately travelling to their home – Shibden Hall in Halifax.
-
+On their return journey from the Continent, Ann stopped writing in her journal once they arrived in Calais. We, however, do know from Lister's diary that after their return to England on the packet boat Firefly on 26 August,[^ref9] they passed through [Dover](/19c/19c-dover) and [Canterbury](/19c/19c-canterbury) without stopping. They spent a night in Rochester (at Wright’s Hotel) on their way to London, before ultimately tra">velling to their home – Shibden Hall in Halifax.
+<br><br>
 The [In Search of Ann Walker](https://insearchofannwalker.com/) research collaborative works on bringing to light all aspects of Ann's life.
 
 ### References
