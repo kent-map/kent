@@ -16,6 +16,8 @@ But rather than simply recreating a historic experience, the research aims to pr
 
 As the map grows so too will the capacity for making unforeseen connections. While the project inevitably reflects the interests of the research team, it is highly collaborative and is not designed to showcase or privilege any one argument over another. Instead it will help you find your own answers to questions you haven’t thought of yet.
 
+The project team hosts an annual [Kent Digital Maps Symposium](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/seminar-series/kent-maps-online-symposium.aspx) and has their own YouTube channel: [Kent Maps Online](https://www.youtube.com/channel/UCAIbFfzsJzaeYwVNuCeF50w).
+
 # Steering Group {.cards}
 
 ##
