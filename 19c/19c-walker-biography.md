@@ -30,12 +30,12 @@ The [In Search of Ann Walker](https://insearchofannwalker.com/) research collabo
 
 ### References
 
-[^ref1]: [Diary Comparison Portal](https://insearchofannwalker.com/thursday-12th-june-1834/)  
-[^ref2]: [Diary Comparison Portal](https://insearchofannwalker.com/friday-13th-june-1834/)    
-[^ref3]: [Canterbury Cathedral](https://www.canterbury-cathedral.org/) 
-[^ref4]: William Gostling: [A Walk In and About the City of Canterbury](https://archive.org/details/walkinaboutcityo00gost/page/n7/mode/2up)
-[^ref5]: [Dane John Gardens](http://www.canterbury-archaeology.org.uk/dane/4590809480)
-[^ref6]: [The Dane John / Dungeon](http://www.machadoink.com/Dane%20John.htm)
-[^ref7]: [Canterbury Castle](http://www.canterbury-archaeology.org.uk/castle/4590809462) 
-[^ref8]: [Packet Service I to 1854](https://doverhistorian.com/2015/03/21/packet-service-to-1854/) 
-[^ref9]: [Diary Comparison Portal](https://insearchofannwalker.com/tuesday-26th-august-1834/) 
+[^ref1]: [Diary Comparison Portal](https://insearchofannwalker.com/thursday-12th-june-1834/)   
+[^ref2]: [Diary Comparison Portal](https://insearchofannwalker.com/friday-13th-june-1834/)     
+[^ref3]: [Canterbury Cathedral](https://www.canterbury-cathedral.org/)    
+[^ref4]: William Gostling: [A Walk In and About the City of Canterbury](https://archive.org/details/walkinaboutcityo00gost/page/n7/mode/2up)    
+[^ref5]: [Dane John Gardens](http://www.canterbury-archaeology.org.uk/dane/4590809480)    
+[^ref6]: [The Dane John / Dungeon](http://www.machadoink.com/Dane%20John.htm)    
+[^ref7]: [Canterbury Castle](http://www.canterbury-archaeology.org.uk/castle/4590809462)     
+[^ref8]: [Packet Service I to 1854](https://doverhistorian.com/2015/03/21/packet-service-to-1854/)    
+[^ref9]: [Diary Comparison Portal](https://insearchofannwalker.com/tuesday-26th-august-1834/)     
