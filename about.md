@@ -328,7 +328,7 @@ Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from C
 ##
 [**Dominique Gracia**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/dominique.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ac5eca54-0b25-4120-b9fb-4dd9258afc7b)
 
 Dominique Gracia is a Project Manager with the Oxford Faculty of English and UK Administrative Director of the Collaborative Organization for Virtual Education. Her research focuses on Victorian poetry and short fiction, ekphrasis and the relationships between media, and the reuse and recurrence of the Victorian in twenty-first-century television.
 
