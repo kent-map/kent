@@ -22,18 +22,19 @@ Similarly, she provides a detailed account – including extensive information o
 After a stroll down [Canterbury](/19c/19c-canterbury) streets, Walker and Lister finally left for [Dover](/19c/19c-dover), where they took lodgings at the [Ship Inn](http://www.dover-kent.com/Ship-Hotel.html), which, as Walker mentions, had just changed hands (passing from a Mr. C. Wright to a Mr. Worthington). Before dinner, Ann Walker played the inn’s piano, and the next morning the two women took passage on a packet boat “Ferret” to Calais.[^ref8]
 <param ve-image url="https://stor.artstor.org/stor/f9da5877-5856-47f5-8469-84de059a2536" label="The Picturesque Beauties of Great Britain: Kent. Shakespeare's Cliff, Dover" attribution="George Virtue, Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
-On their return journey from the Continent, Ann stopped writing in her journal once they arrived in Calais. We, however, do know from Lister's diary that after their return to England on the packet boat Firefly on 26 August,[^ref9] they passed through [Dover](/19c/19c-dover) and [Canterbury](/19c/19c-canterbury) without stopping. They spent a night in Rochester (at Wright’s Hotel) on their way to London, before ultimately tra">velling to their home – Shibden Hall in Halifax.
+On their return journey from the Continent, Ann stopped writing in her journal once they arrived in Calais. We, however, do know from Lister's diary that after their return to England on the packet boat 'Firefly' on 26 August,[^ref9] they passed through [Dover](/19c/19c-dover) and [Canterbury](/19c/19c-canterbury) without stopping. They spent a night in Rochester (at Wright’s Hotel) on their way to London, before ultimately travelling to their home – Shibden Hall in Halifax.
 <br><br>
 The [In Search of Ann Walker](https://insearchofannwalker.com/) research collaborative works on bringing to light all aspects of Ann's life.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/The_castle%2C_Rochester%2C_England-LCCN2002708076.jpg" label=The Castle Rochester c.1890" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 
 ### References
 
 [^ref1]: [Diary Comparison Portal](https://insearchofannwalker.com/thursday-12th-june-1834/)  
 [^ref2]: [Diary Comparison Portal](https://insearchofannwalker.com/friday-13th-june-1834/)    
-[^ref3]: Canterbury Cathedral, https://www.canterbury-cathedral.org/ 
+[^ref3]: [Canterbury Cathedral](https://www.canterbury-cathedral.org/) 
 [^ref4]: William Gostling: [A Walk In and About the City of Canterbury](https://archive.org/details/walkinaboutcityo00gost/page/n7/mode/2up)
-[^ref5]: Dane John Gardens, http://www.canterbury-archaeology.org.uk/dane/4590809480 
-[^ref6]: The Dane John / Dungeon, http://www.machadoink.com/Dane%20John.htm 
-[^ref7]: Canterbury Castle, http://www.canterbury-archaeology.org.uk/castle/4590809462 
-[^ref8]: Packet Service I to 1854, https://doverhistorian.com/2015/03/21/packet-service-to-1854/ 
-[^ref9]: Diary Comparison Portal, https://insearchofannwalker.com/tuesday-26th-august-1834/ 
+[^ref5]: [Dane John Gardens](http://www.canterbury-archaeology.org.uk/dane/4590809480)
+[^ref6]: [The Dane John / Dungeon](http://www.machadoink.com/Dane%20John.htm)
+[^ref7]: [Canterbury Castle](http://www.canterbury-archaeology.org.uk/castle/4590809462) 
+[^ref8]: [Packet Service I to 1854](https://doverhistorian.com/2015/03/21/packet-service-to-1854/) 
+[^ref9]: [Diary Comparison Portal](https://insearchofannwalker.com/tuesday-26th-august-1834/) 
