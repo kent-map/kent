@@ -9,6 +9,7 @@ The landowner and diarist [Ann Walker](https://en.wikipedia.org/wiki/Ann_Walker_
 <param ve-image url="https://stor.artstor.org/stor/fb97b8a2-50de-4cae-b35b-7aedb06de42b" label="Canterbury street, from A Walk In and About the City of Canterbury by William Gostling" attribution="No known copyright restrictions"> 
 
 On 12 June 1834[^ref1] Ann Walker and Anne Lister arrived in [Canterbury](/19c/19c-canterbury) late at night, in their carriage, with two of their servants. Ann notes in her diary how they missed out on seeing Rochester Cathedral on the way due to rain. They booked rooms at [The Fountain](http://www.machadoink.com/Royal%20Fountain%20Hotel.htm) in St Margaret's Street, which had been claimed to be one of the oldest coaching inns in the country, but was sadly destroyed in air raids in 1942. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/18/Frederick_Nash_-_Rochester_Cathedral_and_Castle_-_Google_Art_Project.jpg" label="Rochester Cathedral and Castle, 1825, by Frederick Nash" attribution="Public domain, via Wikimedia Commons">
 
 On 13 June 1834[^ref2]  Ann Walker wrote a detailed account of the day. In the morning Anne and Ann visited Canterbury Cathedral, in the afternoon strolled down Dane John Gardens, briefly saw Canterbury castle, and climbed up Dane John Mound. 
 <param ve=image url="https://stor.artstor.org/stor/e70a6523-0d4d-42da-a07a-699c3f2aa1ea" label="Dane John Gardens, from A Walk In and About the City of Canterbury by William Gostling" attribution="No known copyright restrictions"> 
@@ -25,7 +26,7 @@ After a stroll down [Canterbury](/19c/19c-canterbury) streets, Walker and Lister
 On their return journey from the Continent, Ann stopped writing in her journal once they arrived in Calais. We, however, do know from Lister's diary that after their return to England on the packet boat 'Firefly' on 26 August,[^ref9] they passed through [Dover](/19c/19c-dover) and [Canterbury](/19c/19c-canterbury) without stopping. They spent a night in Rochester (at Wright’s Hotel) on their way to London, before ultimately travelling to their home – Shibden Hall in Halifax.
 <br><br>
 The [In Search of Ann Walker](https://insearchofannwalker.com/) research collaborative works on bringing to light all aspects of Ann's life.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/The_castle%2C_Rochester%2C_England-LCCN2002708076.jpg" label=The Castle Rochester c.1890" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
+<param ve-image url="https://stor.artstor.org/stor/ab25bcd6-9bdf-4d71-8385-1ea957703c5a" label="The Picturesque Beauties of Great Britain: Kent. Rochester Bridge, 1829" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin">
 
 ### References
 
