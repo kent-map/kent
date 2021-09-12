@@ -32,7 +32,7 @@ When Alfred Nesbit shot a fox, mistaking it for a rabbit, and hid the corpse in 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/52/Wouldbegoods-nesbit_0225.jpg" label="What does that mean? The Wouldbegoods" attribution="Reginald B. Birch, Public domain, via Wikimedia Commons">
 
 While she lived in Halstead, Edith would run down Cadlocks Hill to the railway track at its base and walk the railway line with her brothers. The fictional railway line in _The Railway Children_, her most celebrated novel for children, is a pastiche of several but appears to draw on memories of Halstead since it runs along the field at the end of the children’s garden.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/19/Footpath_to_Cadlocks_Hill_-_geograph.org.uk_-_1574685.jpg" label="Footpaht to Cadlocks Hill" attribution="David Anstiss">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/19/Footpath_to_Cadlocks_Hill_-_geograph.org.uk_-_1574685.jpg" label="Footpath to Cadlocks Hill" attribution="David Anstiss">
 <param ve-map center="51.344163347233376, 0.13627557317754357" zoom="16">
  
 Nesbit included this roof space in several of her books including _The Wouldbegoods_ (1901) and _The Phoenix and The Carpet_ (1903). In _The Wouldbegoods_, Oswald Bastable, equipped with ‘a book and a few apples’, enters ‘a square trapdoor in the ceiling of the linen room’ to reach ‘the wonderful, mysterious place between the ceiling and the roof of the house’: 
