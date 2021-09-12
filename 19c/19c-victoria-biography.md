@@ -1,12 +1,10 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
 <param ve-config title="Queen Victoria (1819-1901)" author="Alyson Hunt" layout="vtl" banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q2543161" aliases="Walmer Castle">
 <param ve-entity eid="Q729006" aliases="Chatham">
-<param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q507517" aliases="Rochester">
 
 **Occupation / significance** Queen, Empress of India, writer. Her father was the Duke of Kent.   
 **Kent events with dates:** Stayed at Ramsgate in Albion House 29 Sept 1835 – 11th Jan 1836 with her mother.   
