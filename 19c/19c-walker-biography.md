@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Ann Walker (1791-1840)" author="Ivana Nika" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Ann Walker (1803-1854)" author="Ivana Nika" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
