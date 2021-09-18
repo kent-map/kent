@@ -33,3 +33,4 @@ Everitt adopted the French term _pays_ to describe the regional divisions he ide
 Everitt, Alan (1986) _Continuity and Colonization: the evolution of the Kentish settlement_, Leicester Univ. Press: Leicester.   
 Ingoldsby, Thomas (1889) _The Ingoldsby Legends or Mirth and Marvels_, Frederick Wrane and Co., London - [Project Gutenberg](http://www.gutenberg.org/files/59236/59236-h/59236-h.htm)   
 Lawson, Terence and Killingray, David (2004) _An Historical Atlas of Kent_, Phillimore: Chichester (see 1. The Physical Setting, by Chris Young, pp. 1-6)   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg" label="The description of Romney Marsh" attribution="Tucker, Elhanan, Public domain, via Wikimedia Commons">
