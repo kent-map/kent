@@ -3,6 +3,12 @@
 <param ve-config title="Kentish literary landscapes and pays" author="Professor Peter Vujakovic" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
 <param ve-entity eid="Q1889928" aliases="Newenden">
+<param ve-entity eid="Q5360119" aliases="Elham Valley">
+<param ve-entity eid="Q1500299" aliases="Isle of Sheppey">
+<param ve-entity eid="Q5327881" aliases="Blean">
+<param ve-entity eid="Q16902864" aliases="Walland Marsh">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+<param ve-entity eid="Q16988605" alliases="Denge Marsh">
 
 #
 
