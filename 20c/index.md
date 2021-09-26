@@ -27,6 +27,7 @@
 [Baroness Orczy](20c-orczy-biography)   
 [Marian Fielding Peck](20c-peck-biography)   
 [Mary L. Pendered](20c-pendered-biography)   
+[J.G. Sarasin](20c-salmon-biography)   
 [Christopher St John](20c-st-john-biography)  
 [Diana & Tony Powell-Cotton](20c-powell-cotton)   
 [Vita Sackville-West](20c-sackville-west-biography)    
