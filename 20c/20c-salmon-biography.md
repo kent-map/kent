@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Nora Geraldine Gordon Salmon (pseud. J.G. Sarasin) (19 Jan 1897 – 21 Aug 1976)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg" attribution="Canterbury Tail at the English-language Wikipedia">
+<param ve-config title="Nora Geraldine Gordon Salmon (pseud. J.G. Sarasin) (1897 – 1976)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg" attribution="Canterbury Tail at the English-language Wikipedia">
 
 <param ve-entity eid="Q5654535" aliases="Harbledown">
 <param ve-entity eid="Q29303" aliases="Canterbury">
