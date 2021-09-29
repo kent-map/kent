@@ -85,3 +85,17 @@ Charles Dickens’s first serial novel, The Pickwick Papers is preoccupied with 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac)
 
 Ellen as a resident of Rochester, adds a whole other layer of links and memories, opens up a new set of possible interpretations for the novels Dickens wrote during their relationship.
+
+##
+**[Dickens and the Staplehurst Rail Crash](/dickens/dickens-staplehurst)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg)
+
+##
+**[The Comports of Cooling](/dickens/great-expectations-comports)**
+
+- author: Pat Agar
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/78/You_young_dog%2C_said_the_man%2C_John_McLenan%27s_Harper%27s_Weekly_Illustrations.jpeg)
