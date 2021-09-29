@@ -93,6 +93,8 @@ Ellen as a resident of Rochester, adds a whole other layer of links and memories
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg)
 
+On 9 June 1865 Dickens was travelling back from France with Ellen Ternan and her mother. They had joined the tidal train from Folkestone to Charing Cross and had reached Staplehurst when the train dramatically crashed.
+
 ##
 **[The Comports of Cooling](/dickens/great-expectations-comports)**
 
