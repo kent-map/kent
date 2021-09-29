@@ -99,3 +99,10 @@ Ellen as a resident of Rochester, adds a whole other layer of links and memories
 - author: Pat Agar
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/78/You_young_dog%2C_said_the_man%2C_John_McLenan%27s_Harper%27s_Weekly_Illustrations.jpeg)
+
+##
+**[Leather and dust: David Copperfield’s shoes and the Dover Road](/dickens/19c-leather-and-dust)**
+
+- author Elizabeth Waterman-Scrase
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/91/David-Copperfield-Bartholomew.jpg)
