@@ -100,6 +100,8 @@ Ellen as a resident of Rochester, adds a whole other layer of links and memories
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/78/You_young_dog%2C_said_the_man%2C_John_McLenan%27s_Harper%27s_Weekly_Illustrations.jpeg)
 
+My first encounter with Great Expectations was as an eleven year old, watching the 1946 David Lean film in a school hall. I was spell bound and terrified in equal measure as Magwitch appeared from behind the tomb to menace the young Pip. I was there, I was Pip.
+
 ##
 **[Leather and dust: David Copperfield’s shoes and the Dover Road](/dickens/19c-leather-and-dust)**
 
