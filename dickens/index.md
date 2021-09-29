@@ -93,6 +93,8 @@ Ellen as a resident of Rochester, adds a whole other layer of links and memories
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg)
 
+On 9 June 1865 Dickens was travelling back from France with Ellen Ternan and her mother. They had joined the tidal train from Folkestone to Charing Cross and had reached Staplehurst when the train dramatically crashed.
+
 ##
 **[The Comports of Cooling](/dickens/great-expectations-comports)**
 
@@ -100,9 +102,13 @@ Ellen as a resident of Rochester, adds a whole other layer of links and memories
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/78/You_young_dog%2C_said_the_man%2C_John_McLenan%27s_Harper%27s_Weekly_Illustrations.jpeg)
 
+My first encounter with Great Expectations was as an eleven year old, watching the 1946 David Lean film in a school hall. I was spell bound and terrified in equal measure as Magwitch appeared from behind the tomb to menace the young Pip. I was there, I was Pip.
+
 ##
 **[Leather and dust: David Copperfield’s shoes and the Dover Road](/dickens/19c-leather-and-dust)**
 
 - author Elizabeth Waterman-Scrase
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/91/David-Copperfield-Bartholomew.jpg)
+
+David Copperfield's curated walk can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can smell as he enters rural Kent or quite why his feet are so damaged by the journey's end.
