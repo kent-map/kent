@@ -106,3 +106,5 @@ Ellen as a resident of Rochester, adds a whole other layer of links and memories
 - author Elizabeth Waterman-Scrase
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/91/David-Copperfield-Bartholomew.jpg)
+
+David Copperfield's curated walk can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can smell as he enters rural Kent or quite why his feet are so damaged by the journey's end.
