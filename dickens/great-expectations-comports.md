@@ -1,6 +1,31 @@
-<param ve-config style="article">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config 
+       title="Comports of Cooling and Great Expectations" 
+       banner="/images/banners/19c.jpg"
+       author="Pat Agar"
+       layout="vtl">
 
-## Comports of Cooling and Great Expectations
+<!-- Global entities -->
+<param title="Charles Dickens" eid="Q5686">
+<param ve-entity label="Cooling Marshes" geojson="/geojson/marshes.json" fill-opacity="0.4" article="/articles/Cooling_marshes.md" aliases="the marshes">
+<param title="Cooling" eid="Q2649453">
+<param title="Compeyson" eid="Q5156367" article="/articles/Compeyson.md">
+<param title="Gravesend" eid="Q676689">
+<param title="Abel Magwitch" eid="Q4666596" aliases="Magwitch" article="/articles/Magwitch.md">
+<param title="Miss Havisham" eid="Q3316519" article="/articles/Miss_Havisham.md">
+<param title="Philip Pirrip" eid="Q7197170" article="/articles/Pip.md">
+<param title="Rochester" eid="Q507517">
+
+<!-- Kent with map centered at Rochester -->
+<param ve-map center="51.254291, 0.876473" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820">
+<param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860">
+<param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808">
+<param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
+
+#
 
 My first encounter with _Great Expectations_ was as an eleven year old, watching the 1946 David Lean film in a school hall. I was spell bound and terrified in equal measure as Magwitch appeared from behind the tomb to menace the young Pip. I was there, I was Pip.
 
