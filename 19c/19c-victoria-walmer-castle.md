@@ -38,7 +38,7 @@ Despite the wonderful seclusion and bracing sea air at Walmer, the Queen's holid
 
 ### Bibliography
 
-[from the Letters of Queen Victoria, Vol 1, ed Arthur Christopher Benson and Viscount Esher, online at Project Gutenberg]
+From the Letters of Queen Victoria, Vol 1, ed Arthur Christopher Benson and Viscount Esher, online at Project Gutenberg
 
 [^ref1]: Journal Entry : Tuesday 1st November 1842 http://www.queenvictoriasjournals.org/   
 [^ref2]: Journal Entry : Thursday 10th November 1842 http://www.queenvictoriasjournals.org/  
