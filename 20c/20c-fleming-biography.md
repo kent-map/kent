@@ -32,7 +32,7 @@ During Bond and Gala’s golden afternoon walk along the shoreline towards St Ma
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Dog_On_St._Margaret%27s_Bay_Beach.jpg" label="St Margaret's Bay Beach" attribution="TedQuackenbush, CC BY-SA 3.0, via Wikimedia Commons">
 
 In Fleming’s hands, the White Cliffs become both symbol of Britain’s seeming impregnability (“They scrambled down a steep cliff-path to the beach and turned to the right beside the deserted small-arms range of the Royal Marine Garrison at Deal . . . until they came to the two-mile stetch of shingle that runs at low tide beneath the towering white cliffs to St Margaret’s Bay.”[^ref7]) and would-be means of Bond and Gala’s death “ . . . there was a puff of black smoke and a soft boom from the top of the cliff and a great section of white chalk directly above Bond and Gala seemed to sway outwards, zigzag cracks snaking down its face . . . the air was full of thunder  . . . his breath was stifled . . . the sun had gone out.  His back was numb and aching under a great weight and in his left ear, besides the echo of thunder, there was the sound of a choking scream.”[^ref8]. 
-<br>
+<br><br>
 This, then, is Fleming immersing his creation, the secret agent James Bond, in his world.  In the two previous novels, Fleming had already introduced Bond to Royale-les-Eaux/Deauville (_Casino Royale_) and Jamaica (_Live and Let Die_), both of which Fleming was familiar with, but this is Fleming bringing Bond into his home and introducing him to his family.  It’s Fleming finally admitting to Bond, “You’re me, like it or not,” and Bond shrugging his shoulders and accepting it.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/74/Looking_S_along_Undercliffe_Road%2C_Kingsdown_-_geograph.org.uk_-_485185.jpg" label="Looking along Undercliffe Road, Kingsdown" attribution="Nick Smith">
 
@@ -60,4 +60,4 @@ This was Fleming’s philosophy as much as Bond’s.  He didn’t try to prolong
 [^ref7]: Fleming, I. _Moonraker_ (Jonathan Cape, 1955, p154).    
 [^ref8]: Fleming, I. _Moonraker_ (Jonathan Cape, 1955, p162).    
 [^ref9]: Fleming, I. _Moonraker_ (Jonathan Cape, 1959, p90).   
-[^ref9]: Fleming, I. _Moonraker_ (Jonathan Cape, 1964, pp 240 – 243).    
+[^ref10]: Fleming, I. _Moonraker_ (Jonathan Cape, 1964, pp 240 – 243).    
