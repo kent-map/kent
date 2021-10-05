@@ -102,6 +102,13 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 Bethia Carter is currently in her third year studying at Canterbury Christ Church University, for a BA (Hons) degree in English Language and Communication and French. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
 
 ##
+[**Carina Chan**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?rotation=90&url=https://stor.artstor.org/stor/8de1e1fb-58d2-4b55-86e5-866a39d13c4c)
+
+Carina is a 2nd year undergraduate Civil Engineering student at the University of Sheffield. She aspires to travel around the world and share her engineering skillset throughout other countries to improve other peoples’ quality of life. She also wants to help create a sustainable future and believes that learning from history is vital to unlocking this theoretical utopia. Her inspirations are derived from historical figures and past events, as tragic as they can be, there are great lessons to be learnt from them. 
+
+##
 [**Susan Civale**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/susancivale.jpg)
