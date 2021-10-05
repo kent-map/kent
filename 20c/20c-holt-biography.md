@@ -17,13 +17,13 @@
 
 **Dates** 1.9.1906 - 19.1.1993.    
 **Occupation / significance** Prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense. 
-<param ve-image url="(images/The Goodwin Sands img-019.jpg)" label="“The Goodwin Sands” image from Heroes of the Goodwin Sands by Thomas Stanley Treanor, 1904." attribution="?">
+<param ve-image url="(images/The Goodwin Sands img-019.jpg)" label="“The Goodwin Sands” image from Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904">
 **Publication** _ of The _Shivering Sands_, set near the Goodwin Sands, 1969.   
 **Place** Stayed in Deal late 1960s. Purchased and restored a house in Sandwich, known as The King’s Lodging, in the 1970s.  
-<param ve-image url="(images/The Goodwin Sands img-019.jpg)" label="“The Goodwin Sands” image from Heroes of the Goodwin Sands by Thomas Stanley Treanor, 1904." attribution="?">
+<param ve-image url="(images/The Goodwin Sands img-019.jpg)" label="“The Goodwin Sands” image from Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904">
 
-_‘”the sand moves as you watch and forms itself into strange shapes, like monsters some of them . . . with claws . . . waiting to catch anyone who wandered there and pull them down. There were gulls circling overhead. Their cries were so mournful, Mrs Verlaine. Oh, it was frightening, so lonely, so desolate. They say the sands are haunted. I’ve talked to one of the men from the North Goodwins Lightship and he says that when he’s on watch he sometimes hears wild heart-rending cries from the sands. They used to say it was the gulls, but he wasn’t so sure. Terrible things have happened there”’._ 
-
+'the sand moves as you watch and forms itself into strange shapes, like monsters some of them . . . with claws . . . waiting to catch anyone who wandered there and pull them down. There were gulls circling overhead. Their cries were so mournful, Mrs Verlaine. Oh, it was frightening, so lonely, so desolate. They say the sands are haunted. I’ve talked to one of the men from the North Goodwins Lightship and he says that when he’s on watch he sometimes hears wild heart-rending cries from the sands. They used to say it was the gulls, but he wasn’t so sure. Terrible things have happened there.'
+<br><br>
 Set in the Victorian era, the shivering sands of the title are the Goodwin Sands in Kent. Gregory Holyoake, writing in the _East Kent Mercury_, notes that Holt stayed with friends in north Deal in the late 1960s, where she became intrigued by the history of the Goodwin Sands. She went on to use them as an atmospheric backdrop, and essential element, of her novel. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/94/Deal_seafront_-_geograph.org.uk_-_2029661.jpg" label="Deal Seafront" attribution="Deal seafront by Chris Whippet, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/18/Battle_of_Goodwin_Sands.jpg" label="Battle of Goodwin Sands" attribution="James Grant, Public domain, via Wikimedia Commons">
