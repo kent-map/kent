@@ -207,6 +207,12 @@ Helena Kelly holds a doctorate from the University of Oxford but is currently an
 
 Richard Maltby, retired head of history at The King’s School in Canterbury and author of an illustrated history of Canterbury (Pevensey Press, 1994), takes us through the growth of Canterbury in the 20th century to become the foremost commercial, educational and tourist centre in the south-east outside London. He takes us through the maps of the human and physical impact of two world wars and the accelerating economic pressures of the late 20th century upon the historic and spiritual character of England’s most ancient cathedral city. A section to be completed offsets the 20th century urban and commercial expansion of the city by the successful preservation of recreational areas and the green spaces along the banks and islands of the river Sour as it divides through the city.
 
+##
+[**Fred Marsh**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6611c800-48cf-4104-a1fb-1fb1a278d363)
+
+Fred is a retired civil servant and lives in Norfolk with his wife and their small terrier.
     
 ##
 [**Peter Merchant**]()
