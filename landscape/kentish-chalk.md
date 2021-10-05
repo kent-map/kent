@@ -25,4 +25,4 @@ The chalk dust permeates numerous literary landscapes, including those of [Dicke
 
 Huxley, Thomas (1868) On a Piece of Chalk, _Macmillan's Magazine_, Collected Essays VIII https://mathcs.clarku.edu/huxley/CE8/Chalk.html   
 Readman, P. (2018) _Storied Ground: Landscape and the shaping of English National Identity_, Cambridge University Press.   
-The Dover Historian, https://doverhistorian.com/2013/10/02/lord-warden-hotel-house/   
+[The Dover Historian](https://doverhistorian.com/2013/10/02/lord-warden-hotel-house/)   
