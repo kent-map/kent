@@ -21,7 +21,7 @@ Together father and son wrote anthologies of poetry.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/58/All_Saints%2C_Brenchley%2C_Kent_-_geograph.org.uk_-_323900.jpg" label="All Saints, Brenchley, Kent"  attribution="John Salmon">
 
 _Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The Death of Horsa’ , which tells the story of the Battle of Aylesford, in 455CE, when Saxon invaders, led by brothers [Hengest and Horsa](/medieval/hengestandhorsa), defeated ‘Great Vortigen’ on “Aylesford’s open plain’ and “Horsa’s death that bloody day, / A noble victory bought’.[^ref1]  The nod to Kent’s early history is, however, just one of the charms of this eclectic and enthusiastic miscellany of writings, compiled for the entertainment of its writers and their readers. The tantalising use of authorial initials, rather than names, presents another riddle besides those printed in its pages.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Aylesford%2C_Kent_11.jpg" label=Aylesford, Kent" attribution="Simon Burchell, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Aylesford%2C_Kent_11.jpg" label="Aylesford, Kent" attribution="Simon Burchell, CC BY-SA 4.0, via Wikimedia Commons">
 
 The anthology begins with a poem addressed from ‘F.S., Jun.’ to ‘Mr. Editor’, asking him to ‘Please … excuse / For this number at least my appearance’ because the writer is suffering the after-effects of a ‘soirée’ attended the previous evening with ‘the élite / [o]f Brenchley’, at which ‘Youth, Harmony, Fashion, and Beauty’ prevailed, and the recollection of which might ‘make our fair hostess to blush’. 
 <br>
@@ -57,6 +57,8 @@ Storr, Francis et al. _Minnows of Brenchley Brook_, London, Richard Barrett, 186
 UK Census, 1861. [Online:](https://ancestry.co.uk) accessed 18/02/21      
 Wikitree Genealogy website. [Online:](https://www.wikitree.com/wiki/Storr-213) accessed 16/02/21.    
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/All_Saint%27s_Church%2C_Brenchley_-_geograph.org.uk_-_1274895.jpg" label="All Saint's Church, Brenchley" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
+
+### References
 
 [^ref1]: The anthology was edited by Bernard Bigsby - full name Bernard Edward Sulyard Drake Bigsby - who would later move to America, marry, publish a series of seminal texts on the English language and become an eminent philologist, journalist and author. In 1861, however, he was resident with the Storr family at the Vicarage in Brenchley, where the UK Census lists his occupation as Tutor. He was 26 years old, having been born in Derby in 1835, and an Oxford graduate.
 [^ref2]: James Knight Jennings (1813-1892), Oxford graduate, clergyman and author of The Dialect of the West of England, particularly Somersetshire (1869) is listed at this address on both the 1851 and 1861 census returns. His note to Stainforth draws his attention to two poems in particular: “- one by Mrs Frances [sic] Storr the vicars [sic] wife - the other by her little daughter”.  These poems are on pages 19-20 and 14-15 respectively.
