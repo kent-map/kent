@@ -59,5 +59,5 @@ This was Fleming’s philosophy as much as Bond’s.  He didn’t try to prolong
 [^ref6]: Fleming, I. _Moonraker_ (Jonathan Cape, 1955, p153).   
 [^ref7]: Fleming, I. _Moonraker_ (Jonathan Cape, 1955, p154).    
 [^ref8]: Fleming, I. _Moonraker_ (Jonathan Cape, 1955, p162).    
-[^ref9]: Fleming, I. _Moonraker_ (Jonathan Cape, 1959, p90).   
-[^ref10]: Fleming, I. _Moonraker_ (Jonathan Cape, 1964, pp 240 – 243).    
+[^ref9]: Fleming, I. _Goldfinger_ (Jonathan Cape, 1959, p90).   
+[^ref10]: Fleming, I. _You only live twice_ (Jonathan Cape, 1964, pp 240 – 243).    
