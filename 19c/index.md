@@ -24,6 +24,7 @@
 [Catherine Ann Crowe](19c-crowe-biography)   
 [Charles Darwin](19c-darwin-biography)   
 [Sir John Franklin](19c-franklin-biography)  
+[Elizabeth Gould](19c-gould-biography)   
 [Sarah Grand](19c-grand-biography)   
 [George Grossmith](19c-grossmith-biography)  
 [Henry James](19c-jamesh-hever-castle)  
