@@ -102,6 +102,13 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 Bethia Carter is currently in her third year studying at Canterbury Christ Church University, for a BA (Hons) degree in English Language and Communication and French. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
 
 ##
+[**Carina Chan**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?rotation=90&url=https://stor.artstor.org/stor/8de1e1fb-58d2-4b55-86e5-866a39d13c4c)
+
+Carina is a 2nd year undergraduate Civil Engineering student at the University of Sheffield. She aspires to travel around the world and share her engineering skillset throughout other countries to improve other peoples’ quality of life. She also wants to help create a sustainable future and believes that learning from history is vital to unlocking this theoretical utopia. Her inspirations are derived from historical figures and past events, as tragic as they can be, there are great lessons to be learnt from them. 
+
+##
 [**Susan Civale**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/susancivale.jpg)
@@ -200,6 +207,12 @@ Helena Kelly holds a doctorate from the University of Oxford but is currently an
 
 Richard Maltby, retired head of history at The King’s School in Canterbury and author of an illustrated history of Canterbury (Pevensey Press, 1994), takes us through the growth of Canterbury in the 20th century to become the foremost commercial, educational and tourist centre in the south-east outside London. He takes us through the maps of the human and physical impact of two world wars and the accelerating economic pressures of the late 20th century upon the historic and spiritual character of England’s most ancient cathedral city. A section to be completed offsets the 20th century urban and commercial expansion of the city by the successful preservation of recreational areas and the green spaces along the banks and islands of the river Sour as it divides through the city.
 
+##
+[**Fred Marsh**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6611c800-48cf-4104-a1fb-1fb1a278d363)
+
+Fred is a retired civil servant and lives in Norfolk with his wife and their small terrier.
     
 ##
 [**Peter Merchant**]()
