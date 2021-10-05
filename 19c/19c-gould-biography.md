@@ -20,7 +20,6 @@
 <param ve-entity eid="Q1035"> <!-- Charles Darwin -->
 <param ve-entity eid="Q375946"> <!-- The Zoology of the Voyage of H.M.S. Beagle - Part III Birds -->
 <param ve-entity eid="Q967304"> <!-- Birds of Australia -->
-<param ve-entity eid="Q746681"> <!-- Egham, Surrey -->
 
 
 On the 18th of July in 1804, in the seaside town of Ramsgate, Mr Nicholas Coxen and Elizabeth Coxen (nee Tomkins) welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and three brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were "firmly middle class" through "links to the military" and we can imagine that she lived a typical life fitting for the era [^1].The sons pursued careers as scientists or military personnel, whilst Elizabeth studied subjects that were typical for women of her class and age, including languages, music, and art [^2]. In spite of her relatively ordinary upbringing, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
