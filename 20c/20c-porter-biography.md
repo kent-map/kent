@@ -15,7 +15,7 @@ Developing an interest in psychical research, Bertha became friendly with Edmund
 <br><br>
 'We — the operators — were requested to keep our minds a blank as far as possible and follow the first involuntary motion of the Planchette. In three out of five cases it wrote the name or initial or some word descriptive of the selected portrait. We also obtained the signatures to letters selected in the same manner. We both knew perfectly well that we were writing — not the spirits, as the rest of the company persist to this day in believing.'[^ref6]
 <br><br>
-In Gurney and Myers book _Phantasms of the Living_ vol. 1, Bertha is given the authors "warmest thanks for her well-directed, patient and energetic assistance" (p.10) for searching 260 books on witchcraft with "rare zeal and intelligence."[^ref7] She also reported the sighting of an apparition witnessed by Fraulein Wilhelmine Ivens.
+In Gurney and Myers book _Phantasms of the Living_ vol. 1, Bertha is given the authors "warmest thanks for her well-directed, patient and energetic assistance" for searching 260 books on witchcraft with "rare zeal and intelligence."[^ref7] She also reported the sighting of an apparition witnessed by Fraulein Wilhelmine Ivens.
 <br>
 By volume 2, published in 1886, Bertha was taking a much more active role in Gurney and Myers psychical research, recording accounts of visions from a range of friends and family including her servant Ellen Greaney, Mrs Amos of Hythe, Miss C., Mrs Banister and her cousins Mrs Harnett and Frances Moberly.[^ref8]  Myers was later accused of an unhealthy interest in his young female proteges. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Frederic_Myers_Photograph.png" label="Frederic Myers" attribution="S. R. Morgan., Public domain, via Wikimedia Commons">
@@ -39,7 +39,7 @@ With the death of her mother in 1912, Bertha’s connections with Hythe ended. I
 [^ref4]: _Phantasms of the Living_.Vol 1, p.10. 
 [^ref5]:  _Carlisle Express and Examiner_ - Saturday 01 January 1876. 
 [^ref6]: From Proceedings S.P.R., vol. ii. p. 235. (May 9, 1884) in [_Human Personality And Its Survival Of Bodily Death_] (https://archive.org/details/in.ernet.dli.2015.150966 ) (1920)    
-[^ref7]: _Phantasms of the Living_.Vol 1, p.172. 
+[^ref7]: _Phantasms of the Living_.Vol 1, p.10, p.172. 
 [^ref8]: _Phantasms of the Living_.Vol 2, p54-5
 [^ref9]: Atkinson, J. (2010) _Victorian Biography: reconsidered_. Oxford: Oxford University Press. p.242.
 [^ref10]:  _Morning Post_ - Wednesday 05 April 1899.   
