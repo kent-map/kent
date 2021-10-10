@@ -38,7 +38,7 @@ With the death of her mother in 1912, Bertha’s connections with Hythe ended. I
 [^ref3]: -The Persistent Scribblers Society_ Canterbury Cathedral Archives.CCA-CC-W/28/6/6.  
 [^ref4]: _Phantasms of the Living_.Vol 1, p.10. 
 [^ref5]:  _Carlisle Express and Examiner_ - Saturday 01 January 1876. 
-[^ref6]: From Proceedings S.P.R., vol. ii. p. 235. (May 9, 1884) in [_Human Personality And Its Survival Of Bodily Death_] (https://archive.org/details/in.ernet.dli.2015.150966 ) (1920)    
+[^ref6]: From Proceedings S.P.R., vol. ii. p. 235. (May 9, 1884) in [_Human Personality And Its Survival Of Bodily Death_](https://archive.org/details/in.ernet.dli.2015.150966) (1920)    
 [^ref7]: _Phantasms of the Living_.Vol 1, p.10, p.172. 
 [^ref8]: _Phantasms of the Living_.Vol 2, p54-5
 [^ref9]: Atkinson, J. (2010) _Victorian Biography: reconsidered_. Oxford: Oxford University Press. p.242.
