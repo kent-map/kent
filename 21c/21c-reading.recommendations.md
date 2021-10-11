@@ -1,3 +1,4 @@
+<href>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148268745-1"></script>
 <script>
@@ -7,7 +8,7 @@
 
   gtag('config', 'UA-148268745-1');
 </script>
-
+</href>
 
 ### 21C reading recommendations
 
