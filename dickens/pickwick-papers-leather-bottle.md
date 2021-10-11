@@ -26,11 +26,12 @@ Writers of the Dickens Country often merged passages from the novels with the ex
 <param ve-image url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" label="Leather Bottle" attribution="Benjamin Mortley">  
 
 The Leather Bottle is still recognisable both from the description in _The Pickwick Papers_ and from Kitton’s later account of it as a museum full of Dickensiana. Despite fears that a fire on Good Friday 1887 might have destroyed the Pickwick Room, the collection was preserved. To this day it includes numerous framed illustrations, engravings and ephemera such as cigarette cards that have now become heritage items in themselves. The plethora of artefacts on every wall create a sense of intimacy, and visitors may well feel that they have been invited to see a private collection assembled by a fellow ‘pilgrim’. Clearly the potential appeal of an old inn that can engage imaginative visitors with Dickens’s characters while also providing bodily refreshment has not been lost on proprietors from the late Victorian period to the present.    
-<param ve-image url="https://stor.artstor.org/stor/e3cea4a0-257a-41c5-836a-6a9a7e73be07" label="Leather Bottle" attribution="Benjamin Mortley">  
-
+<br>
  See also [Mobile Landscapes](/dickens/mobile-landscape)   
 [Leather Bottle - Scan by Philip V. Allingham](http://www.victorianweb.org/painting/haslehust/27.html)   
- For more images of the Leather Bottle see [dover-kent.com](http://www.dover-kent.com/2014-project/Leather-Bottle-Inn-Cobham.html)
+For more images of the Leather Bottle see [dover-kent.com](http://www.dover-kent.com/2014-project/Leather-Bottle-Inn-Cobham.html)
+<param ve-image url="https://stor.artstor.org/stor/e3cea4a0-257a-41c5-836a-6a9a7e73be07" label="Leather Bottle" attribution="Benjamin Mortley">  
+
                                                                                                                                                                                                                                                                                 
 ### References
 
