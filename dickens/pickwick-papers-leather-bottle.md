@@ -4,11 +4,15 @@
 <param title="Cobham" eid="Q949561">
 <param title="Gravesend" eid="Q676689">
 
+#
+
 ”And really”, added Mr Pickwick, after half an hour’s walking had brought them to the village, “really for a misanthrope’s choice, this is one of the prettiest and most desirable places of residence, I ever met with.”   
 In this opinion also, both Mr Winkle and Mr Snodgrass expressed their concurrence; and having been directed to the Leather Bottle, a clean and commodious village ale-house, the three travellers entered, and at once inquired for a gentleman of the name of Tupman.   
 “Show the gentlemen into the parlour, Tom,” said the landlady.   
 A stout country lad opened a door at the end of the passage, and the three friends entered a long, low-roofed room, furnished with a large number of high-backed leather-cushioned chairs, of fantastic shapes, and embellished with a great variety of old portraits and roughly-coloured prints of some antiquity. At the upper end of the room was a table, with a white cloth upon it, well covered with a roast fowl, bacon, ale, and et ceteras; and at the table sat Mr. Tupman, looking as unlike a man who had taken his leave of the world, as possible.’ _The Pickwick Papers_.   
 <param ve-image url="images/leather-bottle.jpg" label="Leather Bottle" attribution="Scan by Philip V. Allingham, www.victorianweb.org">  
+<param ve-entity eid="Q949561" title="Cobham">
+<param ve-map center="Q949561" title="Cobham" zoom="11" prefer-geojson>
 
 A few miles away from Dickens’s final home [Gad's Hill](/dickens-gads-hill), the [Leather Bottle](http://www.theleatherbottle.pub/) in Cobham  is a mediaeval timbered building described in _The Pickwick Papers_ as ‘a clean and commodious village ale-house’. After the novelist’s death it became one of the more attractive landmarks of Kentish ‘Dickens Country’ or ‘Dickens Land’, the area associated with Dickens and his characters. From the 1880s onwards a number of guides promoted this topography to literary tourists, urging them by the early twentieth century to walk or cycle in the fresh air for the sake of their health while literally seeing what Dickens had seen before them. 
 <param ve-image url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" label="Leather Bottle" attribution="Benjamin Mortley"> One landlord recalled 'American captains slipping away from their ships as they lay at anchor at Gravesend would ask for “the room” and reverentially take off their hats in that trystying-place of literary pilgrims.'[^ref1]
