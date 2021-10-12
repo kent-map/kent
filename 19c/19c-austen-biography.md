@@ -4,11 +4,11 @@ banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc">
 
 #
 
-### 16 December 1775 - 18 July 1817
+**16 December 1775 - 18 July 1817**    
 **Places:** Ashford, [Canterbury](/austen/austen-canterbury), [Chilham](/austen/austen-chilham), Dartford, Eastwell, [Godmersham](/austen/austen-godmersham), Goodnestone & Rowling, [Ramsgate](/austen/austen-ramsgate), [Sevenoaks](/austen/austen-sevenoaks), Tonbridge, [Tunbridge Wells](/austen/austen-tunbridge-wells)   
 ‘Are you pleased with Kent?’   
 _Pride and Prejudice_
-<param ve-image url="images/JaneAustenCassandraWatercolour.jpg" label="Jane Austen">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/JaneAustenCassandraWatercolour.jpg" label="Jane Austen">
 
 One of the greatest English novelists of all time, Jane Austen visited Kent regularly to see her brother, Edward Austen Knight, who lived first at Rowling House, near Goodnestone, where Austen stayed in 1794 and 1796, and later at the magnificent [Godmersham Park](/austen/austen-godmersham), where Austen visited six times between 1798 and 1813.  During or shortly after her visit to Rowling in 1796, Austen began writing ‘First Impressions’, the story which was later published as _Pride and Prejudice_ in 1813.  The novel may reflect, in the figure of Lady Catherine De Bourgh, for example, some of the class snobbery Austen witnessed in mixing with what she termed “East Kent wealth”. 
 <param ve-entity eid="Q26324024">
