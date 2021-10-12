@@ -14,6 +14,7 @@
 <param ve-entity eid="Q7416497" aliases="Sandown">
 <param ve-entity eid="Q2343161" aliases="Walmer">
 
+#
 
 **Dates** 1.9.1906 - 19.1.1993.    
 **Occupation / significance** Prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense. 
