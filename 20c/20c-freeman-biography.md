@@ -20,6 +20,8 @@
 <param ve-entity eid="Q107339066" aliases="The Mariner">
 <param ve-entity eid="Q107339071" aliases="The Ship">
 
+#
+
 **Places:** Visited or lived in Folkestone, Gravesend, Maidstone, Ramsgate, Rochester.
 _‘The Isle of Thanet has a certain peculiar charm which lingers even to this day, despite the too successful efforts of the speculative builder to annihilate it. A few years ago … before the unlovely suburban streets had arisen to disfigure it, the north eastern quarter of the island wore a pleasant air of remoteness that disguised its proximity to busy Margate and prosperous Broadstairs.’_    
 [‘The Great Portrait Mystery’](http://gutenberg.net.au/ebooks05/0500471.txt) (1918)   
