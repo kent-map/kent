@@ -9,6 +9,8 @@
 <param ve-entity eid="Q4898591" aliases="Betteshanger">
 <param ve-entity eid="Q17557759" aliases="Betteshanger School">
 
+#
+
 Walter James (1896-1982), the fourth Lord Northbourne, is credited with the creation of the term ‘organic farming’ in his seminal 1940 work _Look to the Land_.  Eighty years on, his ideas still have freshness and immediacy. Relevant sentences jump off almost every page – he is concerned with many things such as the effects of deforestation and flooding, the importance of renewing the land with organic matter, the danger of using chemicals, the challenge facing the farmer when he must choose between concentrating on marketing or on production, and the question of whether Britain could or ought to be self-supporting in food.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/Walter_James.jpg" label="Walter James" attribution="not identified, Public domain, via Wikimedia Commons">
 
