@@ -15,6 +15,5 @@ The visit was marred by bad weather which prevented the Royal Highnesses from ta
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/The_Marine_sketch_book_by_H._Moses_1826._RMG_PU7929.jpg" label="The Marine sketch book by H. Moses, 1826" attribution="Henry Moses, Public domain, via Wikimedia Commons">
 
 ### Bibliography
-
 [Amused by Kent](http://www.bbc.co.uk/kent/content/articles/2009/03/04/queen_victoria_history_feature.shtml)   
 [West Cliff 225 years](http://ramsgate-society.org.uk/ramsgatematters/index.php/local-news/local-history/2-west-cliff-225-years)
