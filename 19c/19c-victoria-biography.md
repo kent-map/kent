@@ -6,6 +6,8 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q507517" aliases="Rochester">
 
+#
+
 **Occupation / significance** Queen, Empress of India, writer. Her father was the Duke of Kent.   
 **Kent events with dates:** Stayed at Ramsgate in Albion House 29 Sept 1835 – 11th Jan 1836 with her mother.   
 Stayed again 30th Sept 1836 – 29 Nov 1836 in West Cliff including overnight stay at an inn in Rochester.    
