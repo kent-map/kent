@@ -6,9 +6,6 @@
 
 #
 
-**Place:** The Mansion House, Swanscombe, Kent (1894-1899), Hillside, Greenhithe   
-**Known as:** Author, Shakespearian scholar and women’s rights campaigner   
-<br>
 Charlotte Carmichael was born in Edinburgh and attended Mr Oliphant’s mixed school. Frustrated by the exclusion of women from universities, she joined the Ladies' Edinburgh Debating Society in 1866 and submitted poems and articles to _The Attempt_ magazine under the pen name “lutea reseda” (wild mignonette). When university classes were offered to women in 1874, Charlotte began to attend lectures and became the first woman to gain a Certificate in Arts from the University of Edinburgh.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wild_Mignonette._Reseda_lutea_%2834976002624%29.jpg" label="Wild Mignonette, Reseda lutea" attribution="gailhampshire from Cradley, Malvern, U.K, CC BY 2.0, via Wikimedia Commons">
 <param ve-map center="Q1083051" zoom="15">
