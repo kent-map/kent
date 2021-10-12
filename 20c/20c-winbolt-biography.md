@@ -11,6 +11,8 @@
 <param ve-entity eid="Q23346" aliases="Sussex">
 <param ve-entity eid="Q26314337" aliases="Folkestone Free Library">
 
+#
+
 'Kent of all the counties of England, is thickest set with historical reminiscences, and he alone, who has tried, will fully realise how hard it is in writing of such a county to compress and select.' _Bell’s Pocket Guide to Kent_ (1930)
 <param ve-image url="images/RomanFolkestone by Winbolt MJC.jpg" label="Roman Folkestone by S.E. Winbolt">
 
