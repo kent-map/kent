@@ -7,7 +7,6 @@
 
 #
 
-**Place:** Beltinge, Herne Bay   
 Although primarily associated with her home county of Northamptonshire, Mary L. Pendered, who is remembered as the author of ‘coy pastoral tales’  spent several years in Herne Bay, where she was the President of the local branch of the National Union of Women’s Suffrage Societies.[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Herne_Bay_College%2C_Herne_Bay_Kent.jpg" label="Herne Bay, 1914" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <param ve-map center="Q929286" zoom="15">
