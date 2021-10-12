@@ -25,16 +25,17 @@ Hamilton spent many holidays in Kent with the Trio – sometimes staying for mon
 [_Smallhythe Suffragettes_](https://vimeo.com/393665654)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Smallhythe_Place_-_geograph.org.uk_-_1059773.jpg" label="Smallhythe Place" attribution="Graham Taylor">
 
+### Bibliography:
+
+Adlard, E., ed. _Edy: Recollections of Edith Craig_. Frederick Muller Ltd., 1948.  
+Whitelaw,  L., _The Life and Rebellious Times of Cicely Hamilton._ The Women's Press, 1990.   
+
 ### References
+
 [^ref1]: Smallhythe Place is in the hamlet of Small Hythe in Kent. Note that some authors quoted refer to the hamlet as Small Hythe and Smallhythe interchangeably.   
 [^ref2]: Whitelaw 64.   
 [^ref3]: Ibid 53.   
 [^ref3]: Ibid 79.   
 [^ref4]: Whitelaw, p 56.   
-[^ref5]: Cicely Hamilton   
-
-### Bibliography:
-
-Adlard, E., ed. _Edy: Recollections of Edith Craig_. Frederick Muller Ltd., 1948.  
-Whitelaw,  L., _The Life and Rebellious Times of Cicely Hamilton._ The Women's Press, 1990.   
+[^ref5]: Cicely Hamilton  
 
