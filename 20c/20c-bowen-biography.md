@@ -19,11 +19,9 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 
 #
                                                 
-**Places:** Hythe, Folkestone, Seabrook, Lyminge, Downe, Dymchurch, Broadstairs, Dover, the Cinque Ports, Romney, Sandwich.
-<param ve-image url="images/The_Kent_coast_(IA_kentcoast00lewirich).jpg" label="Lewis, Arthur D, The Kent Coast" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
-
 _‘Possibly it was England made me a novelist’_   
 Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area as a child of seven she was immediately bewitched. The contrast between Ireland and her new home in terms of both architecture and topography could not have been greater. 
+<param ve-image url="images/The_Kent_coast_(IA_kentcoast00lewirich).jpg" label="Lewis, Arthur D, The Kent Coast" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
 <param ve-map center="Q375314" zoom="15">
 
 After the comparative sobriety of the buildings in Dublin and at Bowen’s Court in County Cork the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography:   
@@ -43,8 +41,7 @@ The landscape, too, entranced her with its _‘wide views, though also mysteriou
 For Bowen the child, ‘England’ _was Kent_, and _‘above all, Kent’s dramatisable coastline’_.[^ref7]   Not only did she experience Kent as a gateway to England, she became aware that it was the gateway to a wider world when one day, walking along the Leas, she found to her amazement that France was a real place: it could be seen! Up till then it had existed as something abstract, in the language and _moeurs_ of her mother and her aunts, who had been brought up by a Swiss-French governess. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" label="The Leas, Folkestone" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
  
-**Elizabeth Bowen at Downe House in 1916.**
-
+**Elizabeth Bowen at Downe House in 1916.**   
 For six years, between 1906 and 1912, she and her mother lived in rented houses in Folkestone, Seabrook, Hythe and Lyminge. But in the summer of 1912 her mother died of cancer and she was given to the care of a _‘committee of aunts’_, going to live with one of them in Hertfordshire. In 1914 she returned to Kent, when she was sent to Downe House School in [Charles Darwin](/19c/19c-darwin-biography)’s former home, where the headmistress, Olive Willis, taught her _‘how not to write’_. She wrote about her time there in a 1935 article _The Mulberry Tree_, but by the time she came to write the article the school had moved away, and the building had been ‘reinstated as some kind of shrine, for Charles Darwin lived there for some years... I have never liked scientific people very much, and it mortifies me to think of them trampling reverently around there on visiting days, thinking of Charles Darwin and ignorant of my own youth.’[^ref8] 
 <param ve-image url="/19c/images/Down House banner.jpg">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg" label="Down House" attribution="Duncharris at the English language Wikipedia, CC BY-SA 3.0, via Wikimedia Commons">
@@ -82,5 +79,3 @@ In _Pictures and Conversations_, Bowen reflects that _‘Possibly it was England
 [^ref11]: Bowen, Elizabeth. _‘Folkestone: July 1945’. Collected Impressions._ Longmans Green, 1950, pp. 225-230.   
 [^ref12]: Bowen, Elizabeth. _‘Foreword’. The Cinque Ports._ R. & F. Jessup. Batsford, 1952, pp. 11-15.   
 [^ref13]: _Pictures and Conversations_, p.23.   
-
-
