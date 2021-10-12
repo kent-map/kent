@@ -3,6 +3,8 @@
 
 <param ve-entity eid="Q1971996" aliases="Sissinghurst">
 
+#
+
 **Bessie Marchant Comfort, Mrs J. A. Comfort.**   
 **Pen-name** John Comfort   
 **Place** Born at Debden Court Farm, Petham, Canterbury on 12 December 1862.   
