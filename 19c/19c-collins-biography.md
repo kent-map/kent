@@ -7,6 +7,8 @@ banner="/dickens/images/Broadstairs.jpg">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q15680058" aliases="North Foreland">
 
+#
+
 >‘”We don’t think much of Ramsgate here,” I went on, “Not even two hundred years old! And hasn’t got a mayor and corporation!”’ 
 ‘How I Married Him’
 
