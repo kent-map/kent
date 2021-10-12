@@ -13,7 +13,6 @@
 
 #
 
-**Places:** Thanet and Bearsted   
 Born in Hungary in 1865, Emma Orczy de Orci, the author of the Scarlet Pimpernel novels moved to Thanet in 1908 with her husband, the illustrator, Montague Barstow. She had already published nine novels including three of the Pimpernel stories. 
 The couple settled into their new home, Cleave [Cleve] Court, a manor house two miles northeast of Monkton Church. She wrote: _Thanet is not a beautiful part of England. It is flat; there are no hills, few trees, only big fields and wide spaces with the tang and smell of the sea all around. We spent three very happy years there._[^ref1]   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/Baroness_Emma_Orczy_%28Bassano%29.jpg"  label="Baroness Emma Orczy" attribution="Bassano Ltd, Public domain, via Wikimedia Commons">
