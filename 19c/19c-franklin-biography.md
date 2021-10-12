@@ -2,6 +2,8 @@
        title="Sir John Franklin (16 April 1786 – 11 June 1847)"
        layout="vtl" banner="/images/banners/19c.jpg">
 
+#
+
 **Married** 1823-1825, to the poet Eleanor Anne Porden (1795-1825); 1828-1847, to Jane Griffin, better known as Lady Franklin (1791-1875)   
 **Event:** 19th May 1845 - Departure of Franklin’s final expedition to the Arctic regions, in search of a north-west passage.   
 **Place:** Greenhithe, Kent.   

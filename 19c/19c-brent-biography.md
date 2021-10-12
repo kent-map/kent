@@ -4,6 +4,8 @@ banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
+#
+
 _‘The privilege of electing a mayor seems to have been somewhat tardily conceded to a city so important as Canterbury.’_   
 _Canterbury in the Olden Time_ (1860)
 <param ve-image url="https://stor.artstor.org/stor/bd59ff4f-a8f7-4728-95f7-cacbfafb3e00" label="The Westgate, Canterbury">

@@ -1,6 +1,8 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
 <param ve-config title="The Bloody Code" author="Martin Watts" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/Westgate_055.jpg">
 
+#
+
 The Bloody Code is a term applied to the English criminal code and its excessive and savage punishments before reform in the 19th century.  The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping. The 18th century had seen a marked increase in laws that demanded a capital sentence, leading to the adoption of the phrase, but the overwhelming majority of capital punishments continued to be applied to laws dating back to the Tudors. To keep the criminal code of the 18th century in context, it should be noted that the number of capital punishments carried out was greater in the late 16th and early 17th centuries; that it was the more detailed codification of specific offences, in 18th century legislation, that was responsible for the attribution of the term Bloody Code.  
 <param ve-image url="/18c/images/Death warrant.jpeg" label="Death warrant" attribution="© Astrid Stilma By permission of Patrick Marrin. No record of this execution has been found">
 

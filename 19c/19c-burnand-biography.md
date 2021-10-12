@@ -7,6 +7,8 @@
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q106436730" aliases="18 Royal Crescent">
 
+#
+
 *Lived in Ramsgate from around 1875 - until death in 1917*   
 *Publication*: _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_, 1897.   
 'The New Pier, many years old by now, for entrance to which, as being something superior, twopence is charged, is an instance of that kind of half-fulfilled promise whereof Ramsgate generally offers several evident examples. But while there is a pier there is hope, and it may yet occur to its proprietors, or to the local authorities, to say, after the manner of Mr Wemmick, out of office-hours, in [Great Expectations](/dickens/great-expectations-curated-walk), "Hello! Here’s a pier! Let’s do something with it!"’ _The Z.Z.G._

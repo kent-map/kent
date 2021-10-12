@@ -6,6 +6,8 @@ banner="/images/banners/19c.jpg">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q2287962" aliases="Cliffsend">
 
+#
+
 _“Beachythe!”_    he repeated, _“Beachythe! I hope I am not betraying a very shocking ignorance of English geography, but I’m afraid I can’t remember for the moment, ever having heard the name before.”       
 “It’s a place on the South Coast,”_ said Clive rather shortly. _“Not very far from Dover.”_    
 _Kitty’s Engagement_, 1895.   

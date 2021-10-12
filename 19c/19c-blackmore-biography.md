@@ -7,6 +7,7 @@ banner="/images/banners/19c.jpg">
 <param ve-entity eid="Q213180" aliases="Maidstone">
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
 
+#
 
 ### 16 December 1775 - 18 July 1817   
 **Place:** Wrotham.   

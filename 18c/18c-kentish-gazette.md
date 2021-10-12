@@ -4,6 +4,8 @@ banner="/images/banners/18c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
+#
+
 **Place:** Canterbury
 Bi-weekly (then weekly) provincial newspaper, circulating in Kent and the surrounding counties. Founded in 1768, merged with the Kentish Post (founded in 1717), remains in print.
 

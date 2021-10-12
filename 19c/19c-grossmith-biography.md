@@ -7,6 +7,8 @@
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 
+#
+
 **Dramatist and author.**   
 **Event:** Lived in Folkestone 1909-1912.   
 AUGUST 20.— _I am glad our last day at the seaside was fine, though clouded overhead. We went over to Cummings' (at Margate) in the evening, and as it was cold, we stayed in and played games; Cowing, as usual, overstepping the mark. He suggested we should play "Cutlets," a game we never heard of. He sat on a chair, and asked Carrie to sit on his lap, an invitation which dear Carrie rightly declined._ The Diary of a Nobody (1892). 

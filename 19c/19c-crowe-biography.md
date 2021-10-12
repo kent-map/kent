@@ -11,7 +11,6 @@
 
 #
 
-
 **Places:** Ivy Hatch, Borough Green, Folkestone, Sandwich, Romney Marsh
 <br>
 <br>

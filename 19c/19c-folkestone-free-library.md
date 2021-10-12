@@ -1,11 +1,11 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
 <param ve-config title="Folkestone Free Library" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/c/c2/West_Cliff%2C_Folkestone%2C_England-LCCN2002696751.jpg">
 
-#
-
 <param ve-entity eid="Q26370404" aliases="Canterbury Museum and Public Library">
 <param ve-entity eid="Q26314337" aliases="Folkestone Free Library">
 <param ve-entity eid="Q107306323" aliases="Grace Street">
+
+#
 
 Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act. Canterbury Museum and Public Library (now The Beaney) opened its doors in 1858, making it the first free library in England.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Canterbury_Library_main_entrance.jpg" label="Canterbury Library" attribution="DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons">

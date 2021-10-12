@@ -3,6 +3,8 @@
 
 <param ve-entity eid="Q967166" aliases="Hythe">
 
+#
+
 Bertha Porter, biographer, and Egyptologist was born in Bloomsbury on April 9th, 1852. Her father, a noted architect, designed the Union Bank of London on Chancery Lane in 1865, and Bertha spent a very privileged childhood living in Charlotte Street and later Russell Square, where she became acquainted with [Charles Dickens](/dickens/dickens-biography), Thomas and Jane Carlyle, and Robert and Elizabeth Barrett Browning.[^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg" label="Charles Dickens c.1867-8" attribution="Jeremiah Gurney, Public domain, via Wikimedia Commons">
 

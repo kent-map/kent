@@ -6,6 +6,8 @@
 <param ve-entity eid="Q3038318" aliases="Down House">
 <param data-map center="20210218 4e78384" zoom="10">
 
+#
+
 >‘There is grandeur in this view of life’
 
 **Lived in Kent** 1842-1882   
