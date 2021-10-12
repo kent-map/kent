@@ -3,6 +3,8 @@
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
+#
+
 **Place:** Canterbury, 12-13 June 1834   
 <br>
 The landowner and diarist [Ann Walker](https://en.wikipedia.org/wiki/Ann_Walker_(landowner)) of Lightcliffe in Yorkshire passed through [Canterbury](/19c/19c-canterbury) (and Kent) with [Anne Lister](https://en.wikipedia.org/wiki/Anne_Lister) of [Shibden Hall, Halifax](https://museums.calderdale.gov.uk/visit/shibden-hall) on their way to France and Switzerland in the summer of 1834. Their relationship and (not legally recognised) [marriage](https://yorkcivictrust.co.uk/heritage/civic-trust-plaques/anne-lister-1791-1840/) is the subject of the recent BBC/Lookout Point TV drama series [“Gentleman Jack”.](https://www.bbc.co.uk/programmes/m00059m9). Although her stay in [Canterbury](/19c/19c-canterbury) was short, Ann Walker wrote a long account of it in her recently discovered and fully transcribed [journal](https://www.catalogue.wyjs.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=WYAS4971%2f7%2f1%2f5%2f1). Anne Lister also noted details of their stay in Canterbury (and Kent) in her own diary.
