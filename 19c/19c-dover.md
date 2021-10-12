@@ -3,6 +3,8 @@
 
 <param ve-entity eid="Q179224" aliases="Dover">
 
+#
+
 Like [Ramsgate](dickens/19c-ramsgate), Dover considered itself to be among the more genteel of the 19th century [seaside](/19c/19c-seaside) resorts. Despite sending David Copperfield down the [Dover Road](dickens/david-copperfield-dover-road) from [Canterbury](dickens/david-copperfield-canterbury), [Dickens](dickens/dickens-biography) himself found the town ‘too bandy (I mean musically, no reference to its legs), and infinitely too genteel.’ But he was forced to admit that ‘the sea is very fine, and the walks are quite remarkable’.   He may well have been thinking of its famous castle and still more famous white cliffs, which remain among its most obvious attractions. As one admiring visitor put it in 1859, ‘No town in England presents a more brilliant perspective, for imposing and grand landscape.’  Other writers with a connection to the town include [Dickens](dickens-biography)'s rival [G. W. Reynolds](19c/19c-reynoldsgwm-biography) and Matthew Arnold.
 <param ve-image url="/dickens/images/DoverCastle.jpg" label="Dover Castle" attribution="©The British Library Board c13874-64">
 
