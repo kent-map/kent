@@ -2,6 +2,8 @@
 <param ve-config title="Jane Austen" author="Susan Civale" layout="vtl" 
 banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc">
 
+#
+
 ### 16 December 1775 - 18 July 1817
 **Places:** Ashford, [Canterbury](/austen/austen-canterbury), [Chilham](/austen/austen-chilham), Dartford, Eastwell, [Godmersham](/austen/austen-godmersham), Goodnestone & Rowling, [Ramsgate](/austen/austen-ramsgate), [Sevenoaks](/austen/austen-sevenoaks), Tonbridge, [Tunbridge Wells](/austen/austen-tunbridge-wells)   
 ‘Are you pleased with Kent?’   
