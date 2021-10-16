@@ -16,7 +16,7 @@ The Town Council did its best to encourage the tourism by sponsoring band concer
 <param ve-image url="https://stor.artstor.org/stor/864eb83b-2fc9-44e6-9668-a3a4ec717619" label="Tourist Guides" attribution="By kind permission of Andrew Sargeant">
 
 On the other hand there was never any shortage of public houses. Indeed Deal had more pubs per head of population than almost any other town in Kent. In 1872 there were 26 pubs and beerhouses on Beach Street alone - one every 32 yards.
-<br>
+<br><br>
 Deal pier was damaged and pulled down in the Second World War but a replacement was built in 1957 (according to Dover District Council “the first seaside pleasure pier of any size to be built since 1910”). Tourist guides promoted Deal as place for the discerning visitor, quirky but very rewarding.
 <br>
 The same, many feel, remains true today.
