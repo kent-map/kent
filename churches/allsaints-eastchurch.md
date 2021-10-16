@@ -1,0 +1,13 @@
+All Saints parish church of Eastchurch, Isle of Sheppey
+
+Dr Melanie Caizza
+
+All Saints church in Eastchurch has an interesting late medieval and early modern history on the Isle of Sheppey due to its links to the Cheney family at nearby Shurland Manor and its relationship to the Minster Church on the isle.  In 1431, royal license was granted for All Saints to perform all duties of a parish church, yet wealthy inhabitants of the island that left wills have shown that they did not want burial to take place at their parish church, as per the usual custom by this period.  As a prominent and wealthy landowning family of the Isle of Sheppey, the Cheneys all requested burial at the Minster rather than their local Eastchurch parish church.  
+
+Some of the interesting burial requests found in last will and testaments from Eastchurch parishioners including the following:   
+•	In 1472, Richard Reade of Eastchurch, requested burial in the churchyard of 	St. Sexburga ‘at the Minster’ by the cross ‘that standeth by the wey beside John the Baptist Chapel’  
+•	In 1524, Sir John Male, a priest of Eastchurch, requested burial within the chapel of St. John the Baptist ‘in the churchyard of Minster’
+•	John Collens, a farmer of Sir Thomas Cheney, who lived in Eastchurch parish, requested burial in the churchyard of St. Sexburga ‘called the Minster’ and in 1559, Sir Thomas Cheney stated in his will that ‘my bodye to be buryed at the Minster in the Isle of Shepey’.
+
+Religious bequests overall to Eastchurch parish church give us an insight into the devotional space and how it was used by local people but also into the close relationship they had with SS Mary and Sexburga church in Minster.  Last wills and testaments dated from between c.1460-1559 reveal that the most popular bequest was first to the Prioress of Minster, Sheppey and then the ‘nuns of Minster’.  The ‘high cross’ at Minster was the third most popular religious bequest left in wills before the Eastchurch parishioners left anything for their own parish church.  Eastchurch parish church received mostly bequests for church repairs and lights within the church that were dedicated to ‘Our Lady’ in the ‘high choir’, in ‘the south chancel’, the high cross or rood light, the trinity and St. Catherine, in addition to new vestments and altar cloths.
+
