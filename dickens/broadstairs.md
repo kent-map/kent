@@ -4,7 +4,7 @@ banner="/images/banners/19c.jpg">
 
 #
 
-**Event with dates** Holiday. 1837, 1840-43, 1845, 1847, 1849-51.   
+**Event** Holiday. 1837, 1840-43, 1845, 1847, 1849-51.   
 **Publication(s)** ‘Our Watering Place’ (1851), _David Copperfield_ (1848-50).   
 ‘Half awake and half asleep, this idle morning in our sunny window on the edge of a chalk-cliff in the old-fashioned Watering-Place to which we are a faithful resorter, we feel a lazy inclination to sketch its picture.
 <br>
@@ -21,10 +21,10 @@ Like other East Kent resorts, the town had developed from its origins as a fishi
 <br>
 'the chosen resort and retreat of jaded intellect and exhausted nature; being, as this Deponent further saith it is, far removed from the sights and noises of the busy world, and filled with the delicious murmur and repose of the broad ocean; the said broad ocean being (as this Deponent further saith and fearlessly asserteth) the finest feature (when you are off it) in the whole creation.'[^ref2]
 
-He wrote part of Barnaby Rudge while staying at Lawn House in 1841. Parts of _David Copperfield_ (1848-50) were written in [Fort House](/dickens/dickens-fort-house) and Aunt Betsey’s cottage (although set in Dover) was actually inspired by the nearby 2 [Nuckell’s Place](/dickens/david-copperfield-nuckells-place), now the [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/). At different times he also stayed in Ballard’s, later the Albion Hotel. A plaque commemorates the dates of these visits: 1839, 1840, 1845, 1849 and 1859 [_Watering-Place_](https://thanetwriters.com/poem/watering-place-by-carolyn-oulton/)
+He wrote part of _Barnaby Rudge_ while staying at Lawn House in 1841. Parts of _David Copperfield_ (1848-50) were written in [Fort House](/dickens/dickens-fort-house) and Aunt Betsey’s cottage (although set in Dover) was actually inspired by the nearby 2 [Nuckell’s Place](/dickens/david-copperfield-nuckells-place), now the [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/). At different times he also stayed in Ballard’s, later the Albion Hotel. A plaque commemorates the dates of these visits: 1839, 1840, 1845, 1849 and 1859 [_Watering-Place_](https://thanetwriters.com/poem/watering-place-by-carolyn-oulton/)
 A boy employed at Ballard’s later remembered surreptitiously entering the pantry and consuming a plate of leftover chicken, only to hear the landlord telling Dickens that he could give him ‘a nice portion of cold chicken’ for his lunch. The boy was greatly relieved when Dickens looked at him and said laughingly, ‘there have been more mysterious disappearances. Somebody has doubtless enjoyed it.’[^ref3]. Assuming this story to be true, it is tempting to link it to Magwitch’s ‘I’m sorry to say, I’ve eat your pie’ in _Great Expectations._
+<param ve-image url="https://stor.artstor.org/stor/0badef45-31a2-4639-9599-ec3aa2bd4d42" label="Early 20C postcard showing the view from Bleak House">
 
-![Early 20C postcard showing the view from Bleak House](/dickens/images/Broadstairs from Bleak House.jpg){: .right}
 
 While Dickens complained in 1847 that ‘Unless it pours of rain, I cannot write half an hour without the most excruciating organs, fiddles, bells, or glee-singers, [^ref4] Broadstairs was considerably quieter and less populist than neighbouring [Ramsgate](/dickens/19c-ramsgate) and [Margate](/dickens/19c-margate). Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’.[^ref5]  Broadstairs is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words_.](http://www.djo.org.uk/household-words/volume-iii/page-433.html)
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
