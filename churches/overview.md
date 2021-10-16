@@ -30,5 +30,5 @@ The church of [St Mary and St Eanswythe](/churches/steanswythe-folkestone) sits 
 <param ve-image url="https://stor.artstor.org/stor/35bc9f9f-8fd4-4164-8042-c0ddbae953b1" label="St Mary and St Eanswythe, Folkestone" attribution="Andrew Vincent">
 <param ve-map center="Q17546000" zoom="15">
 
-[All Saints church in Eastchurch](/churhces/allsaints-eastchurch) has an interesting late medieval and early modern history on the Isle of Sheppey due to its links to the Cheney family at nearby Shurland Manor and its relationship to the Minster Church on the isle.
+[All Saints church in Eastchurch](/churches/allsaints-eastchurch) has an interesting late medieval and early modern history on the Isle of Sheppey due to its links to the Cheney family at nearby Shurland Manor and its relationship to the Minster Church on the isle.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/39/Eastchurch_Sheppey_9223.JPG" label="Eastchurch, Sheppey" attribution="Clem Rutter, Rochester, Kent., CC BY-SA 3.0, via Wikimedia Commons">
