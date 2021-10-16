@@ -18,7 +18,7 @@ By the late nineteenth century Dickens’s association with the town was being h
 The Dickens family visited [Broadstairs](/dickens/broadstairs-19th-century) regularly for the summer between 1837 and 1851, entertaining numerous friends including Wilkie Collins. 
 
 Like other East Kent resorts, the town had developed from its origins as a fishing village to become a key tourist destination by the nineteenth century. Dickens was prone to seasickness when travelling by boat, but wrote to William Macready in 1842 that Broadstairs was:
-<br>
+<br><br>
 'the chosen resort and retreat of jaded intellect and exhausted nature; being, as this Deponent further saith it is, far removed from the sights and noises of the busy world, and filled with the delicious murmur and repose of the broad ocean; the said broad ocean being (as this Deponent further saith and fearlessly asserteth) the finest feature (when you are off it) in the whole creation.'[^ref2]
 
 He wrote part of _Barnaby Rudge_ while staying at Lawn House in 1841. Parts of _David Copperfield_ (1848-50) were written in [Fort House](/dickens/dickens-fort-house) and Aunt Betsey’s cottage (although set in Dover) was actually inspired by the nearby 2 [Nuckell’s Place](/dickens/david-copperfield-nuckells-place), now the [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/). At different times he also stayed in Ballard’s, later the Albion Hotel. A plaque commemorates the dates of these visits: 1839, 1840, 1845, 1849 and 1859 [_Watering-Place_](https://thanetwriters.com/poem/watering-place-by-carolyn-oulton/)
