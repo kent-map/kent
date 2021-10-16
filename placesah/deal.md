@@ -5,8 +5,9 @@ The town of Deal first developed a mile or so inland. But in seventeenth century
 By the 1880s, with steam now replacing sail, boatman faced hard times. It was clear that the prosperity of the town would increasingly depend on attracting visitors and holiday makers.
 
 Deal could not hope to complete with the Thanet towns in terms of the number of visitors it attracted. But many holiday makers were nonetheless drawn to the town during the summer to enjoy the sea breezes, the bustle of sea-front and the comings and goings of vessels in the Downs.
-
+<br>
 The Town Council did its best to encourage the tourism by sponsoring band concerts and various kinds of entertainment at the end of the pier. But it was hard going at times. There was so much opposition to spending money on a new concert hall on the site of an old roller-skating rink that it was a full 30 years before the “Pavilion” was opened. Only five years later it had to be leased as a cinema.
+<param ve-image url="https://stor.artstor.org/stor/864eb83b-2fc9-44e6-9668-a3a4ec717619" label="Tourist Guides" attribution="By kind permission of Andrew Sargeant">
 
 On the other hand there was never any shortage of public houses. Indeed Deal had more pubs per head of population than almost any other town in Kent. In 1872 there were 26 pubs and beerhouses on Beach Street alone - one every 32 yards.
 
