@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Deal by the sea" author="Andrew Sargeant" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/8/82/Deal_Beach_bw_%284945195955%29.jpg" attribution="Tony Hisgett from Birmingham, UK, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons">
+<param ve-config title="Deal by the sea" author="Andrew Sargeant" layout="vtl" banner="xx">
 
 #
 
@@ -33,5 +33,5 @@ For the social history of Deal pubs and pub life in Victorian and Edwardian Deal
 A detailed history of individual pubs can be found Steve Glover and Michael Rogers, _The Old Pubs of Deal and Walmer (with Kingsdown and Mongeham)_ (Whitstable, 2010)  
 <br>
 A recent illustrated history of Deal as a whole is Gregory Holyoake _Secret Deal and Walmer_ (Amberley, 2021)    
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/82/Deal_Beach_bw_%284945195955%29.jpg" label="Deal Beach" attribution="Tony Hisgett from Birmingham, UK, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons
  
