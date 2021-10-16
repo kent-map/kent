@@ -14,8 +14,9 @@ The place seems to respond. Sky, sea, beach, and village, lie as still before us
 Dickens was born in Portsmouth in 1812, before his father’s appointment to a post at the [Chatham](/dickens/dickens-chatham) Dockyard in 1816. While he spent most of his adult life in London, he was always drawn back to the coast, and in his many letters describing holidays in Kent with his growing family he is notably less interested in historic [Canterbury](/dickens/david-copperfield-canterbury) than in the sea, which he called ‘that old image of Eternity that I love so much’.[^ref1] Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’. [Broadstairs](/dickens/broadstairs-19th-century) is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words._](http://www.djo.org.uk/household-words/volume-iii/page-433.html) 
 
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
-
+<br>
 The Dickens family visited [Broadstairs](/dickens/broadstairs-19th-century) regularly for the summer between 1837 and 1851, entertaining numerous friends including Wilkie Collins. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Harvard_Theatre_Collection_-_Wilkie_Collins_TCS_1.5553.jpg" label="Wilkie COllins, Harvard Theatre Collection" attribution="Houghton Library, Public domain, via Wikimedia Commons">
 
 Like other East Kent resorts, the town had developed from its origins as a fishing village to become a key tourist destination by the nineteenth century. Dickens was prone to seasickness when travelling by boat, but wrote to William Macready in 1842 that Broadstairs was:
 <br><br>
@@ -28,10 +29,8 @@ A boy employed at Ballard’s later remembered surreptitiously entering the pant
 
 While Dickens complained in 1847 that ‘Unless it pours of rain, I cannot write half an hour without the most excruciating organs, fiddles, bells, or glee-singers, [^ref4] Broadstairs was considerably quieter and less populist than neighbouring [Ramsgate](/dickens/19c-ramsgate) and [Margate](/dickens/19c-margate). Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’.[^ref5]  Broadstairs is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words_.](http://www.djo.org.uk/household-words/volume-iii/page-433.html)
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
-<br>
+<br><br>
 Feeling active? You may want to try this [Turner and Dickens walk](https://explorekent.org/activities/turner-dickens-walk/)
-
-[Mobile Landscapes](/dickens/mobile-landscapes)
 
 ### Bibliography
 
