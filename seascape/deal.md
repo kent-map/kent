@@ -16,7 +16,7 @@ The Town Council did its best to encourage the tourism by sponsoring band concer
 <param ve-image url="https://stor.artstor.org/stor/864eb83b-2fc9-44e6-9668-a3a4ec717619" label="Tourist Guides" attribution="By kind permission of Andrew Sargeant">
 
 On the other hand there was never any shortage of public houses. Indeed Deal had more pubs per head of population than almost any other town in Kent. In 1872 there were 26 pubs and beerhouses on Beach Street alone - one every 32 yards.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9c/Kings_Head%2C_Deal_-_geograph.org.uk_-_1407071.jpg" "King's Head, Deal" attribution="Philip Halling">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/29/Guest_house_and_restaurant_on_Beach_Street_-_geograph.org.uk_-_967176.jpg" label="Guest house and restaurant on Beach Street" attribution="Nick Smith / Guest house and restaurant on Beach Street">
 
 Deal pier was damaged and pulled down in the Second World War but a replacement was built in 1957 (according to Dover District Council “the first seaside pleasure pier of any size to be built since 1910”). Tourist guides promoted Deal as place for the discerning visitor, quirky but very rewarding.
 <br>
@@ -27,8 +27,11 @@ The same, many feel, remains true today.
 
 Andrew Sargent and Colin Varrall, _From the Rink to the Regent: Seafront Entertainment in Deal since the 1870_ (BooksEast, 2020)
 tells the story of entertainment on a site which had once been part of the Naval Yard.    
+<br>
 For the social history of Deal pubs and pub life in Victorian and Edwardian Deal see Andrew Sargent, _Drinking in Deal: Beer, Pubs and Temperance in an East Kent Town 1830 – 1914_ (BooksEast, 2016)     
-A detailed history of individual pubs can be found Steve Glover and Michael Rogers, _The Old Pubs of Deal and Walmer (with Kingsdown and Mongeham)_ (Whitstable, 2010)   
+<br>
+A detailed history of individual pubs can be found Steve Glover and Michael Rogers, _The Old Pubs of Deal and Walmer (with Kingsdown and Mongeham)_ (Whitstable, 2010)  
+<br>
 A recent illustrated history of Deal as a whole is Gregory Holyoake _Secret Deal and Walmer_ (Amberley, 2021)    
 
  
