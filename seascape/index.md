@@ -51,7 +51,7 @@ The Goodwin Sands provide an atmospheric backdrop to this shocking tale of crime
 The Goodwin Sands ‘whence floating lights perpetually wink after dark, as if they were carrying on intrigues with the servants'.
 
 ##
-**[Deal by the sea](/seascape/deal/)""
+**[Deal by the sea](/seascape/deal/)**
 
 - author Andrew Sargeant
 
