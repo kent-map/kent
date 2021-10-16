@@ -1,11 +1,12 @@
 Deal by the sea
 
 The town of Deal first developed a mile or so inland. But in seventeenth century “Lower Deal”, a network of streets running north of Deal Castle, began to call the shots. Deal boatmen became famous for their bravery, enterprise and – so it was said - avarice in fetching and carrying for ships at anchor in the Downs.  
-
+<br>
 By the 1880s, with steam now replacing sail, boatman faced hard times. It was clear that the prosperity of the town would increasingly depend on attracting visitors and holiday makers.
+<param ve-image url="https://stor.artstor.org/stor/f958882b-3914-448a-a35c-fca8e966a0fd" label="The Deal Band Stand" attribution="By kind permission of Andrew Sargeant">
 
 Deal could not hope to complete with the Thanet towns in terms of the number of visitors it attracted. But many holiday makers were nonetheless drawn to the town during the summer to enjoy the sea breezes, the bustle of sea-front and the comings and goings of vessels in the Downs.
-<br>
+<br><br>
 The Town Council did its best to encourage the tourism by sponsoring band concerts and various kinds of entertainment at the end of the pier. But it was hard going at times. There was so much opposition to spending money on a new concert hall on the site of an old roller-skating rink that it was a full 30 years before the “Pavilion” was opened. Only five years later it had to be leased as a cinema.
 <param ve-image url="https://stor.artstor.org/stor/864eb83b-2fc9-44e6-9668-a3a4ec717619" label="Tourist Guides" attribution="By kind permission of Andrew Sargeant">
 
