@@ -15,13 +15,16 @@ Dickens was born in Portsmouth in 1812, before his father’s appointment to a p
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
 <br>
 The Dickens family visited [Broadstairs](/dickens/broadstairs-19th-century) regularly for the summer between 1837 and 1851, entertaining numerous friends including Wilkie Collins. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Harvard_Theatre_Collection_-_Wilkie_Collins_TCS_1.5553.jpg" label="Wilkie COllins, Harvard Theatre Collection" attribution="Houghton Library, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Harvard_Theatre_Collection_-_Wilkie_Collins_TCS_1.5553.jpg" label="Wilkie Collins, Harvard Theatre Collection" attribution="Houghton Library, Public domain, via Wikimedia Commons">
 
 Like other East Kent resorts, the town had developed from its origins as a fishing village to become a key tourist destination by the nineteenth century. Dickens was prone to seasickness when travelling by boat, but wrote to William Macready in 1842 that Broadstairs was:
 <br><br>
 'the chosen resort and retreat of jaded intellect and exhausted nature; being, as this Deponent further saith it is, far removed from the sights and noises of the busy world, and filled with the delicious murmur and repose of the broad ocean; the said broad ocean being (as this Deponent further saith and fearlessly asserteth) the finest feature (when you are off it) in the whole creation.'[^ref2]
+<param ve-image url="https://stor.artstor.org/stor/887cf466-0aa5-4989-a3ba-02c786a5d29d" label="Bleak House, Broadstairs">
 
 He wrote part of _Barnaby Rudge_ while staying at Lawn House in 1841. Parts of _David Copperfield_ (1848-50) were written in [Fort House](/dickens/dickens-fort-house) and Aunt Betsey’s cottage (although set in Dover) was actually inspired by the nearby 2 [Nuckell’s Place](/dickens/david-copperfield-nuckells-place), now the [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/). At different times he also stayed in Ballard’s, later the Albion Hotel. A plaque commemorates the dates of these visits: 1839, 1840, 1845, 1849 and 1859 [_Watering-Place_](https://thanetwriters.com/poem/watering-place-by-carolyn-oulton/)
+<param ve-image url="https://stor.artstor.org/stor/14998065-2aae-464e-9015-45036a05a19b" label="Dickens House, Broadstairs">
+
 A boy employed at Ballard’s later remembered surreptitiously entering the pantry and consuming a plate of leftover chicken, only to hear the landlord telling Dickens that he could give him ‘a nice portion of cold chicken’ for his lunch. The boy was greatly relieved when Dickens looked at him and said laughingly, ‘there have been more mysterious disappearances. Somebody has doubtless enjoyed it.’[^ref3]. Assuming this story to be true, it is tempting to link it to Magwitch’s ‘I’m sorry to say, I’ve eat your pie’ in _Great Expectations._
 <param ve-image url="https://stor.artstor.org/stor/0badef45-31a2-4639-9599-ec3aa2bd4d42" label="Early 20C postcard showing the view from Bleak House">
 
