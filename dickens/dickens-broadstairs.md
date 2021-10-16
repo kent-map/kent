@@ -27,13 +27,13 @@ He wrote part of _Barnaby Rudge_ while staying at Lawn House in 1841. Parts of _
 <param ve-image url="https://stor.artstor.org/stor/14998065-2aae-464e-9015-45036a05a19b" label="Dickens' House, Broadstairs">
 
 A boy employed at Ballard’s later remembered surreptitiously entering the pantry and consuming a plate of leftover chicken, only to hear the landlord telling Dickens that he could give him ‘a nice portion of cold chicken’ for his lunch. The boy was greatly relieved when Dickens looked at him and said laughingly, ‘there have been more mysterious disappearances. Somebody has doubtless enjoyed it.’[^ref3]. Assuming this story to be true, it is tempting to link it to Magwitch’s ‘I’m sorry to say, I’ve eat your pie’ in _Great Expectations._
-<param ve-image url="https://stor.artstor.org/stor/0badef45-31a2-4639-9599-ec3aa2bd4d42" label="Early 20C postcard showing the view from Bleak House">
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Broadstairs%2C_The_Royal_Albion_Hotel_-_geograph.org.uk_-_460266.jpg" label="Broadstairs, the Royal Albion Hotel, formerly Ballard's" attribution="Nigel Cox">
 
 While Dickens complained in 1847 that ‘Unless it pours of rain, I cannot write half an hour without the most excruciating organs, fiddles, bells, or glee-singers, [^ref4] Broadstairs was considerably quieter and less populist than neighbouring [Ramsgate](/dickens/19c-ramsgate) and [Margate](/dickens/19c-margate). Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’.[^ref5]  Broadstairs is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words_.](http://www.djo.org.uk/household-words/volume-iii/page-433.html)
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
 <br><br>
 Feeling active? You may want to try this [Turner and Dickens walk](https://explorekent.org/activities/turner-dickens-walk/)
+<param ve-image url="https://stor.artstor.org/stor/0badef45-31a2-4639-9599-ec3aa2bd4d42" label="Early 20C postcard showing the view from Bleak House">
 
 ### Bibliography
 
