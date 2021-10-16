@@ -16,11 +16,12 @@ The Town Council did its best to encourage the tourism by sponsoring band concer
 <param ve-image url="https://stor.artstor.org/stor/864eb83b-2fc9-44e6-9668-a3a4ec717619" label="Tourist Guides" attribution="By kind permission of Andrew Sargeant">
 
 On the other hand there was never any shortage of public houses. Indeed Deal had more pubs per head of population than almost any other town in Kent. In 1872 there were 26 pubs and beerhouses on Beach Street alone - one every 32 yards.
-<br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9c/Kings_Head%2C_Deal_-_geograph.org.uk_-_1407071.jpg" "King's Head, Deal" attribution="Philip Halling">
+
 Deal pier was damaged and pulled down in the Second World War but a replacement was built in 1957 (according to Dover District Council “the first seaside pleasure pier of any size to be built since 1910”). Tourist guides promoted Deal as place for the discerning visitor, quirky but very rewarding.
 <br>
 The same, many feel, remains true today.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Pier-of-Deal-03.jpg" label="Deal Pier" attribution="Immanuel Giel, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Pier-of-Deal-03.jpg" label="Deal Pier" attribution="Immanuel Giel, CC BY-SA 4.0, via Wikimedia Commons">
 
 ### Bibliography
 
