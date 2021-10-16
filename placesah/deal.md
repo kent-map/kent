@@ -14,17 +14,15 @@ Deal pier was damaged and pulled down in the Second World War but a replacement 
 
 The same, many feel, remains true today.
 
-[318 words]
+### Bibliography
 
-
-Andrew Sargent and Colin Varrall, From the Rink to the Regent: Seafront Entertainment in Deal since the 1870 (BooksEast, 2020)
+Andrew Sargent and Colin Varrall, _From the Rink to the Regent: Seafront Entertainment in Deal since the 1870_ (BooksEast, 2020)
 tells the story of entertainment on a site which had once been part of the Naval Yard.
 
-For the social history of Deal pubs and pub life in Victorian and Edwardian Deal see Andrew Sargent, Drinking in Deal: Beer, Pubs and Temperance in an East Kent Town 1830 – 1914 (BooksEast, 2016)  
+For the social history of Deal pubs and pub life in Victorian and Edwardian Deal see Andrew Sargent, _Drinking in Deal: Beer, Pubs and Temperance in an East Kent Town 1830 – 1914_ (BooksEast, 2016)  
 
-A detailed history of individual pubs can be found Steve Glover and Michael Rogers, The Old Pubs of Deal and Walmer (with Kingsdown and Mongeham (Whitstable, 2010)
+A detailed history of individual pubs can be found Steve Glover and Michael Rogers, _The Old Pubs of Deal and Walmer (with Kingsdown and Mongeham)_ (Whitstable, 2010)
 
-A recent illustrated history of Deal as a whole is Gregory Holyoake
-Secret Deal and Walmer (Amberley, 2021) 
+A recent illustrated history of Deal as a whole is Gregory Holyoake _Secret Deal and Walmer_ (Amberley, 2021) 
 
  
