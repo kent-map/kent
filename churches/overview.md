@@ -29,3 +29,6 @@ The church of [St John the Baptist](/churches/stjohn-smallhythe) in the village 
 The church of [St Mary and St Eanswythe](/churches/steanswythe-folkestone) sits atop the cliffs of Folkestone. This ancient building has existed in many iterations, and not always in the same place. A conglomerate of buildings from many centuries, hosting some very special remains, it is a sight you can see from all over Folkestone.  
 <param ve-image url="https://stor.artstor.org/stor/35bc9f9f-8fd4-4164-8042-c0ddbae953b1" label="St Mary and St Eanswythe, Folkestone" attribution="Andrew Vincent">
 <param ve-map center="Q17546000" zoom="15">
+
+[All Saints church in Eastchurch](/churhces/allsaints-eastchurch) has an interesting late medieval and early modern history on the Isle of Sheppey due to its links to the Cheney family at nearby Shurland Manor and its relationship to the Minster Church on the isle.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/39/Eastchurch_Sheppey_9223.JPG" label="Eastchurch, Sheppey" attribution="Clem Rutter, Rochester, Kent., CC BY-SA 3.0, via Wikimedia Commons">
