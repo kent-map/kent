@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Deal by the sea" author="Andrew Sargeant" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Deal by the sea" author="Andrew Sargeant" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/8/82/Deal_Beach_bw_%284945195955%29.jpg" attribution="Tony Hisgett from Birmingham, UK, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons">
 
 #
 
