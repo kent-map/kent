@@ -49,3 +49,10 @@ The Goodwin Sands provide an atmospheric backdrop to this shocking tale of crime
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/48/Captn._Bullock%27s_Safety_Beacon_on_the_Goodwin_Sands_%28BM_1871%2C0812.5365%29.jpg)
 
 The Goodwin Sands ‘whence floating lights perpetually wink after dark, as if they were carrying on intrigues with the servants'.
+
+##
+**[Deal by the sea](/seascape/deal/)""
+
+- author Andrew Sargeant
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/551e553e-279c-4516-bd54-4d5b78366bce)
