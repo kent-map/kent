@@ -14,7 +14,7 @@ The Anglo Dutch War was not the first time that Sheppey inhabitants suffered due
 	mustered Sheppey souldiours…well taught and trayned up to the use 
 	and handling of their severall sortes of weapons, at suche times as we
 	 shalbe thereunto by then…’[^ref2]  
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Queenborough_Castle_1784.png" label=Queenborough Castle, 1784" attribution="Unknown author, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Queenborough_Castle_1784.png" label="Queenborough Castle, 1784" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 However, the second half of his report reveals concern for the inhabitants of the island and the impact the defensive programmes might be having on the wellbeing of everyday life on the island:
 <br>
@@ -33,7 +33,7 @@ However, the second half of his report reveals concern for the inhabitants of th
 <param ve-image url="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" label="Detail of Sheppey, John Speed map of Kent, 1611">
 
 Overall, Hoby’s account provides a complex insight into the tensions between the Crown’s military agenda and the everyday hardship of the local islanders, particularly in Eastchurch parish.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Sheppey_Cliff_Top_-_geograph.org.uk_-_389427.jpg" label="Sheppey Cliff top" attribution="Glyn Baker, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Sheppey_Cliff_Top_-_geograph.org.uk_-_389427.jpg" label="Sheppey Cliff top" attribution="Glyn Baker, CC BY-SA 2.0, via Wikimedia Commons" licence="CC BY-SA 2.0">
 
 ### References
 
