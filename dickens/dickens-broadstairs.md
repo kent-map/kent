@@ -12,6 +12,7 @@ banner="/images/banners/19c.jpg">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/From_the_cliffs%2C_Broadstairs%2C_England-LCCN2002696430.jpg" label="From the cliffs, Broadstairs" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 
 Dickens was born in Portsmouth in 1812, before his father’s appointment to a post at the [Chatham](/dickens/dickens-chatham) Dockyard in 1816. While he spent most of his adult life in London, he was always drawn back to the coast, and in his many letters describing holidays in Kent with his growing family he is notably less interested in historic [Canterbury](/dickens/david-copperfield-canterbury) than in the sea, which he called ‘that old image of Eternity that I love so much’.[^ref1] Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’. [Broadstairs](/dickens/broadstairs-19th-century) is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words._](http://www.djo.org.uk/household-words/volume-iii/page-433.html) 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Hassam_-_bleakk-house-broadstairs.jpg" label="Bleak House, Broadstairs" attribution="Childe Hassam, Public domain, via Wikimedia Commons">
 
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
 <br>
