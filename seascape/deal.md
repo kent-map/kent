@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Deal by the sea" author="Andrew Sargeant" layout="vtl" banner="xx">
+<param ve-config title="Deal by the sea" author="Andrew Sargeant" layout="vtl" banner="https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4">
 
 #
 
