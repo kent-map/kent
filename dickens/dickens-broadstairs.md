@@ -6,6 +6,7 @@ banner="/images/banners/19c.jpg">
 
 **Event** Holiday. 1837, 1840-43, 1845, 1847, 1849-51.   
 **Publication(s)** ‘Our Watering Place’ (1851), _David Copperfield_ (1848-50).   
+<br>
 ‘Half awake and half asleep, this idle morning in our sunny window on the edge of a chalk-cliff in the old-fashioned Watering-Place to which we are a faithful resorter, we feel a lazy inclination to sketch its picture.
 <br>
 The place seems to respond. Sky, sea, beach, and village, lie as still before us as if they were sitting for the picture. It is dead low-water. A ripple plays among the ripening corn upon the cliff, as if it were faintly trying from recollection to imitate the sea; and the world of butterflies hovering over the crop of radish-seed are as restless in their little way as the gulls are in their larger manner when the wind blows.’
