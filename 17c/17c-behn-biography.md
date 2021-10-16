@@ -12,10 +12,10 @@ Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Aphra_Behn_by_Peter_Lely.jpg" label="Aphra Behn by Peter Lely, Public domain, via Wikimedia Commons"> 
 
 Much of Behn’s early life is hard to piece together, until later when she is living in London and her writing gives insight to potential life experiences. One of these is a possible trip to Surinam, alluded to in the novel _Oroonoko_ (1688), which begins with a letter stating, ‘this is a true story’.[^ref6] It is hard to tell how far this is factual, but _Oroonoko_ had ‘influence on the development of the English novel’[^ref7] with its hard-hitting account of slavery, regardless of how closely it reflects on Behn’s own experience.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/02/Behn_Oroonoko_title_page.1688.jpg" label="Oroonoko title page, 1688, ,via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/02/Behn_Oroonoko_title_page.1688.jpg" label="Oroonoko title page, 1688, via Wikimedia Commons">
 
 Additionally, Behn’s ‘wit and talent having brought her into high esteem’, led her to being ‘employed by King Charles II in secret service in the Netherlands in 1666’.[^ref8] After this she became a writer to support herself and ‘emerged as the first British woman to make a living as a creative writer’.[^ref9] During her time, she had ‘at least nineteen plays staged’[^ref10] and was responsible for _The Rover_ and _Emperor of the Moon_. As she became more successful, it was evident that, ‘Behn flourished in the cosmopolitan world of the playhouse and the court’ and ‘Dryden and other wits encouraged her’[^ref11] as she began to have an impact on the theatre. This was at a point where ‘actresses for the first time appeared on the public stage’[^ref12] and this bled into Behn’s work, writing plays with ‘casts that included women’.[^ref13] Behn’s work was ground-breaking and clearly impacted theatre’s future.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d0/Aphra_Behn.jpg" label=Aphra Behn, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d0/Aphra_Behn.jpg" label="Aphra Behn, via Wikimedia Commons">
 
 ### Bibliography
 
