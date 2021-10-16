@@ -23,8 +23,8 @@ Deal pier was damaged and pulled down in the Second World War but a replacement 
 The same, many feel, remains true today.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Pier-of-Deal-03.jpg" label="Deal Pier" attribution="Immanuel Giel, CC BY-SA 4.0, via Wikimedia Commons" license="CC BY-SA 4.0">
 
-### Bibliography
-
+**Bibliography**
+<br>
 Andrew Sargent and Colin Varrall, _From the Rink to the Regent: Seafront Entertainment in Deal since the 1870_ (BooksEast, 2020)
 tells the story of entertainment on a site which had once been part of the Naval Yard.    
 <br>
@@ -33,5 +33,5 @@ For the social history of Deal pubs and pub life in Victorian and Edwardian Deal
 A detailed history of individual pubs can be found Steve Glover and Michael Rogers, _The Old Pubs of Deal and Walmer (with Kingsdown and Mongeham)_ (Whitstable, 2010)  
 <br>
 A recent illustrated history of Deal as a whole is Gregory Holyoake _Secret Deal and Walmer_ (Amberley, 2021)    
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/82/Deal_Beach_bw_%284945195955%29.jpg" label="Deal Beach" attribution="Tony Hisgett from Birmingham, UK, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/82/Deal_Beach_bw_%284945195955%29.jpg" label="Deal Beach" attribution="Tony Hisgett from Birmingham, UK, CC BY 2.0, via Wikimedia Commons" license="CC BY 2.0">
  
