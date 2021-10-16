@@ -16,15 +16,14 @@ The Town Council did its best to encourage the tourism by sponsoring band concer
 <param ve-image url="https://stor.artstor.org/stor/864eb83b-2fc9-44e6-9668-a3a4ec717619" label="Tourist Guides" attribution="By kind permission of Andrew Sargeant">
 
 On the other hand there was never any shortage of public houses. Indeed Deal had more pubs per head of population than almost any other town in Kent. In 1872 there were 26 pubs and beerhouses on Beach Street alone - one every 32 yards.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/82/Colourful_pub_seating_area_on_Beach_Street_-_geograph.org.uk_-_967186.jpg" label="Colourful pub seating area on Beach Street" attribution="Nick Smith" licence="CC BY-SA 2.0">
-
+<br>
 Deal pier was damaged and pulled down in the Second World War but a replacement was built in 1957 (according to Dover District Council “the first seaside pleasure pier of any size to be built since 1910”). Tourist guides promoted Deal as place for the discerning visitor, quirky but very rewarding.
 <br>
 The same, many feel, remains true today.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Pier-of-Deal-03.jpg" label="Deal Pier" attribution="Immanuel Giel, CC BY-SA 4.0, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 **Bibliography**
-<br>
+<br><br>
 Andrew Sargent and Colin Varrall, _From the Rink to the Regent: Seafront Entertainment in Deal since the 1870_ (BooksEast, 2020)
 tells the story of entertainment on a site which had once been part of the Naval Yard.    
 <br>
