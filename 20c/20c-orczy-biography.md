@@ -42,9 +42,9 @@ Nevertheless, despite its barbarity, there is a simplicity and pureness about Th
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Cherry_Blossom_-_geograph.org.uk_-_418920.jpg" label="Cherry Blossom" attribution="Colin Smith / Cherry Blossom">
 
 At the outbreak of the first world war, the Baroness founded the Women of England’s Active Service League (W.E.A.S.L), encouraging women to support their men to go to war:
-<br>
+<br><br>
 'Women and girls of Britain, you cannot shoulder a rifle, but you can actively serve your country all the same. Give your country your sweetheart, she wants him; your son, your brother, she wants them all; your friends she wants them all.'[^ref12]
-<br>
+<br><br>
 The acronym was it must be supposed intentional and the league quickly attracted supporters – as many as 15,000 by the middle of September. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e4/7_Collection_Eybl_Great_Britain_-_E._Kealey_-_Women_of_Britain_say_%E2%80%93_GO.jpg" label="Women of Britain say 'Go!', 1915" attribution="Eybl, Plakatmuseum Wien/Wikimedia Commons">
 
