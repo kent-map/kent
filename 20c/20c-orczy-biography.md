@@ -60,9 +60,9 @@ In the following year, she presented prizes at Ramsgate Girls Grammar School, bu
 <param ve-image url="https://stor.artstor.org/stor/3e492cf1-989d-4c1d-9cda-e61b89ed1677" label="Maidstone Grammar School for Girls at Albion Place" attribution="By kind permission of Maidstone Grammar School for Girls">
 
 The couple lived in Kent until the end of the first world war, and built a 'dear little house' in the grounds for her mother, however in June 1918: 
-<br>
-'My poor dear mother got it into her head that she was doing us harm (especially to my husband) by living on our property. She was an ‘alien enemy’ and although the neighbours around, the police and the authorities were most kind, there were some village folk, either malicious or merely ignorant, who were not.'[^ref17]  
 <br><br>
+'My poor dear mother got it into her head that she was doing us harm (especially to my husband) by living on our property. She was an ‘alien enemy’ and although the neighbours around, the police and the authorities were most kind, there were some village folk, either malicious or merely ignorant, who were not.'[^ref17]  
+<br>
 Her mother returned to Hungary. Not long after this Emma, suffering from a breakdown and worn out by the constant demands on her time to give talks and open fetes, moved with her husband to Monte Carlo. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/05/Ca._1914_World_War_I_propaganda%2C_pictorial_map_of_the_British_Isles.jpg" label="World War One Propaganda" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons">
 
