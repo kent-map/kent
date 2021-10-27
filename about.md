@@ -104,7 +104,7 @@ Bethia Carter is currently in her third year studying at Canterbury Christ Churc
 ##
 [**Carina Chan**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?rotation=90&url=https://stor.artstor.org/stor/8de1e1fb-58d2-4b55-86e5-866a39d13c4c)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f10f06ec-cf28-4dc0-ad80-797fcaa60c0c)
 
 Carina is a 2nd year undergraduate Civil Engineering student at the University of Sheffield. She aspires to travel around the world and share her engineering skillset throughout other countries to improve other peoples’ quality of life. She also wants to help create a sustainable future and believes that learning from history is vital to unlocking this theoretical utopia. Her inspirations are derived from historical figures and past events, as tragic as they can be, there are great lessons to be learnt from them. 
 
@@ -250,6 +250,13 @@ Jeremy Page has published several collections of poems, among them In and Out of
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/MaddieP.JPG)
 
 Madeleine Pettit is a History student at the University of Leeds. While in the sixth form at The Simon Langton Grammar School for Boys, she did her EPQ on Belgian refugees in Folkestone during WW1, which sparked her interest in local history. Researching the project gave her a good grounding in undertaking research, which she has since transferred to her studies at Leeds.
+
+##
+[**Andrew Sargent**]
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e0ada393-075f-448d-9299-fc137df0f7ae)
+
+Andrew Sargent has written about Deal for many years. He is the author of "Drinking in Deal: Beer, Pubs and Temperance in an East Kent Town 1830 - 1914". Profits from his latest book ("From the Rink to the Regent: Seafront Entertainment in Deal since the 1870s", with Colin Varrall) are being donated to the Deal Museum and the Timeball Tower Museum. Andrew is also a regular contributor to the "Mercury Memories" page of the East Kent Mercury.
 
 ##
 [**Max Saunders**]()
