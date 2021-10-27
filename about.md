@@ -252,6 +252,13 @@ Jeremy Page has published several collections of poems, among them In and Out of
 Madeleine Pettit is a History student at the University of Leeds. While in the sixth form at The Simon Langton Grammar School for Boys, she did her EPQ on Belgian refugees in Folkestone during WW1, which sparked her interest in local history. Researching the project gave her a good grounding in undertaking research, which she has since transferred to her studies at Leeds.
 
 ##
+[**Andrew Sargent**]
+
+![](https://stor.artstor.org/stor/e0ada393-075f-448d-9299-fc137df0f7ae)
+
+Andrew Sargent has written about Deal for many years. He is the author of "Drinking in Deal: Beer, Pubs and Temperance in an East Kent Town 1830 - 1914". Profits from his latest book ("From the Rink to the Regent: Seafront Entertainment in Deal since the 1870s", with Colin Varrall) are being donated to the Deal Museum and the Timeball Tower Museum. Andrew is also a regular contributor to the "Mercury Memories" page of the East Kent Mercury.
+
+##
 [**Max Saunders**]()
 
 - twitter: @SaundersMax
