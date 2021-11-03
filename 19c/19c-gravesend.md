@@ -23,5 +23,6 @@ Two piers in Gravesend were also constructed during the nineteenth century: Grav
 [^ref3]: F. Anstey, _The Tinted Venus_ (New York and London: Harper and Publishers, repr. 1898 [1885]), pp. 14–15.   
 [^ref4]: [Gravesnd Town Pier](https://piers.org.uk/piers/gravesend-town-pier/)    
 [^ref5]: [Historic England](https://historicengland.org.uk/listing/the-list/list-entry/1341489)   
+<br>
 For more on Rosherville Gardens, see Jonathan Peacock, ‘Rosherville Gardens – an Epitome of Victorian England’, _Garden History_39: 1 (2011). 64–82.
 
