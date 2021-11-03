@@ -8,6 +8,8 @@
 ##
 **Places**
 
+https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e
+
 [Broadstairs](/dickens/broadstairs-19th-century)   
 [Canterbury](19c-canterbury)   
 [Chatham Dockyard](19c-chatham-dockyard)  
