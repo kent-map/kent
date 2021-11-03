@@ -3,18 +3,55 @@
        banner="/images/banners/19c.jpg"
        layout="index">
 
-#
+# {.cards}
 
 ##
-**Places**
+**[Broadstairs](/dickens/broadstairs-19th-century)**
 
-https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e
+- author: Carolyn Oulton
 
-[Broadstairs](/dickens/broadstairs-19th-century)   
-[Canterbury](19c-canterbury)   
-[Chatham Dockyard](19c-chatham-dockyard)  
-[Deal](deal)   
-[Dover](19c-dover)   
-[Folkestone](19c-folkestone)   
-[Folkestone Free Library](19c-folkestone-free-library)  
-  
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Canterbury](19c-canterbury)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+
+**[Chatham](19c-chatham-dockyard)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Deal](deal)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Dover](/19c-dover)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Folkestone](19c-folkestone)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Gravesend](  )**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+
+**[Hythe](19c-folkestone)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
