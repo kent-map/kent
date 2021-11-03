@@ -6,57 +6,57 @@
 # {.cards}
 
 ##
-**[Ashford](/dickens/broadstairs-19th-century)**
+**[Ashford](/placesah/ashford-overview)**
 
 - author: Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
 
-**[Broadstairs](/dickens/broadstairs-19th-century)**
+**[Broadstairs](/placesah/broadstairs-overview)**
 
 - author: Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
 
-**[Canterbury](19c-canterbury)**
-
-- author: Carolyn Oulton
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
-
-
-**[Chatham](19c-chatham-dockyard)**
-
-- author: Carolyn Oulton
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
-
-**[Deal](deal)**
-
-- author: Carolyn Oulton
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
-
-**[Dover](/19c-dover)**
-
-- author: Carolyn Oulton
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
-
-**[Folkestone](19c-folkestone)**
-
-- author: Carolyn Oulton
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
-
-**[Gravesend](  )**
+**[Canterbury](/placesah/canterbury-overview)**
 
 - author: Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
 
 
-**[Hythe](19c-folkestone)**
+**[Chatham](/placesah/chatham-overview)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Deal](/placesah/deal-overview)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Dover](/placesah/dover-overview)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Folkestone](/placesah/folkestone-overview)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Gravesend](/placesah/gravesend-overview)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+
+**[Hythe](/placesah/hythe-overview)**
 
 - author: Carolyn Oulton
 
