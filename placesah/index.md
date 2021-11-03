@@ -6,6 +6,12 @@
 # {.cards}
 
 ##
+**[Ashford](/dickens/broadstairs-19th-century)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
 **[Broadstairs](/dickens/broadstairs-19th-century)**
 
 - author: Carolyn Oulton
