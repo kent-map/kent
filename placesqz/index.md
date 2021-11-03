@@ -6,19 +6,38 @@
 # {.cards}
 
 ##
-**[Ashford](/placesah/ashford-overview)**
+**[Ramsgate](/placesqz/ramsgate-overview)**
 
 - author: Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
 
-**[Broadstairs](/placesah/broadstairs-overview)**
+
+**[Sandgate](/placesqz/sandgate-overview)**
 
 - author: Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
 
-**[Canterbury](/placesah/canterbury-overview)**
+**[Sevenoaks](/placesqz/sittingbourne-overview)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Sittingbourne](/placesqz/sittingbourne-overview)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Tonbridge](/placesqz/tonbridge-overview)**
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+
+**[Tunbridge Wells](/placesqz/tunbridge-wells-overview)**
 
 - author: Carolyn Oulton
 
