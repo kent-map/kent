@@ -60,7 +60,7 @@
 [Gravesend](19c-gravesend)   
 [Margate](19c-margate)   
 [Ramsgate](19c-ramsgate)  
-[Sandgate](19c-sandgate-overview)    
+[Sandgate](/placesqz/sandgate-overview)    
 [Seaside resorts](19c-seaside)   
 
 ### Events
