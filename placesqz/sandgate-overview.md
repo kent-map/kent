@@ -1,24 +1,27 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
 <param ve-config title="Sandgate" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Qxxx" aliases="Hythe">
-<param ve-entity eid="Qxxx" aliases="Folkestone">
-<param ve-entity eid="Qxxx" aliases="">
-<param ve-entity eid="Qxxx" aliases="Hythe">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q967166" aliases="Hythe">
 
 #
 
 Sandgate, a coastal village near the outskirts of Folkestone, has been hailed as the 'author's haven of repose' and can claim association with several well-known authors.[^ref1] 
+<param ve-imge url="https://stor.artstor.org/stor/04780929-4966-4142-b325-12a69d7ab094" label="English's Guide to Folkestone, Sandgate, Hythe">
 
 It was visited by Fanny Burney in 1813 who “avoided going to the library the general rendezvous of the social or upon the pier” and Mary Shelley in 1832, who wrote “I think this place the healthiest in the world (though a little windy and cold).”[^ref2] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/60/Frances_d%27Arblay_%28%27Fanny_Burney%27%29_by_Edward_Francisco_Burney.jpg" label="Fanny Burney" attribution="Edward Francis Burney, Public domain, via Wikimedia Commons">
 
 The journalist and author, George Augustus Sala visited Kent in September 1886 and was particularly taken with Sandgate, he wrote: “And then the drives to Beechborough, to Shorncliffe, to Hythe, and [Deal](/seascapes/deal), and to Caesar’s Camp, to Westenhanger, to [Dover](/19c/19c-dover) if you like, or even to Canterbury. My favourite excursion by fly is to Sandgate, because there I found a pretty, smiling, friendly hotel called the “Royal Kent” with a green garden, stretching down to the sea. The “Nobs” had discovered the prettiness and geniality of the “Royal Kent” and had taken possession of it so that I could not obtain rooms there, but I shall call occasionally to take tea in the garden and contemplate the upper classes from a respectable distance.”[^ref3]  
 
 The art critic and writer, John Ruskin visited the ‘Kent Hotel’ a year later to “cool down” after a row at the National Gallery about works by J.M. W. Turner.[^ref4]  He was suffering from depression and stayed in Sandgate until the following summer, sometimes able to write, but at other times unable to pick up his pen. He invited Henrietta Eliza Vaughan Stannard who wrote under the pseudonym John Strange Winter, to visit him and was clearly enchanted by her work, however his mental instability was evident as he demanded that she give him statistics on the armament of British troops which she was unable to supply. In the morning he said sweetly “You never gave me those statistics I asked you for, John” after which a very lively debate ensued.[^ref5]   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/GeorgeAugustusSala1828-1895.jpg" label="George Augustus Sala" attribution="Allister, CC BY 2.0, via Wikimedia Commons" licence="<https://creativecommons.org/licenses/by/2.0>">
 
 [Edith Katherine Spicer Jay]( https://kent-maps.online/19c/19c-spicer-jay-biography/) moved to the south coast for the climate in the 1890s and was inspired by the soldiers at Shorncliffe Barracks to write tales of military life. [Florence Warden]( https://kent-maps.online/19c/19c-florence-warden-biography/) former actress turned writer spent some time here at the same period.  
+<param ve-image url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" label="1st Royal Scots Regt. at the Shorncliffe Barracks"> 
 
 Not long after this, [H.G. Wells](https://kent-maps.online/20c/20c-wellshg-biography/ ) moved to Beach Cottage  on the advice of his doctors, then later Arnold House, before commissioning his own house near the Riviera. He entertained many of the leading writers of the day here, including George Bernard Shaw, Henry James, Arnold Bennett, and [Joseph Conrad]( https://kent-maps.online/19c/19c-conrad-biography/).[^ref6]  His novel _The Sea Lady_ is set in Sandgate.
+<param ve-image url="https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/spade%20MJC.jpg" label="Spade House" attribution="Photographed by Martin Crowther">
 
 Bithia Croker, writer of military life in India, lived at 10, Radnor Cliffe, not far from Wells and set her novel [Miss Balmaine’s Past]( https://kent-maps.online/19c/19c-croker-missbalmaine/) in the nearby Romney Marshes and the playwright Henry Hamilton lived at The Haven until his death on 4 September 1918. He sang his ‘world-famous’ song “Tommy Atkins” from the musical play A Gaiety Girl at Hythe Town Hall in February 1900.[^ref7] 
 <param ve-image url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" label="Home of Bithia Croker" attribution="Photographed by Martin Crowther">
