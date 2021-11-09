@@ -1,7 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
 <param ve-config title="Edith Katherine Spicer Jay (6 March 1847- 3 December 1901)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/60/Sandgate_Castle.jpg">
 
-<param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q26627906" aliases="Shorncliffe Barracks">
 <param ve-entity eid="Q7501508" aliases="Shorncliffe Camp">
 
@@ -9,7 +8,7 @@
 
 **Place:** Sandgate, Shorncliffe Barracks   
 **Pseudonym:**  E. Livingston(e) Prescott   
-Edith Katherine Spicer Jay, a writer of popular military tales, lived in Sandgate during the last ten years of her life.  Miss Jay, who wrote under the pseudonym E. Livingston Prescott was the daughter of a Scottish barrister and grew up in a large house in Norfolk Street, Park Lane, London. With five great uncles who had served in the military, and in her role as the Honourable Lady Superintendent of the London Soldiers’ Home and Guards’ Home, she was well placed to hear stories of military heroism and barrack-room life.[^ref1]  
+Edith Katherine Spicer Jay, a writer of popular military tales, lived in [Sandgate](/placesqz/sandgate-overview) during the last ten years of her life.  Miss Jay, who wrote under the pseudonym E. Livingston Prescott was the daughter of a Scottish barrister and grew up in a large house in Norfolk Street, Park Lane, London. With five great uncles who had served in the military, and in her role as the Honourable Lady Superintendent of the London Soldiers’ Home and Guards’ Home, she was well placed to hear stories of military heroism and barrack-room life.[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/02/Sandgate%2C_Kent_%28BM_1892%2C0714.10%29.jpg" label="Sandgate, 1892" attribution="British Museum, Public domain, via Wikimedia Commons"> 
 
 Although Edith had written stories from a child, it was only 'when, after a tolerably varied experience of men and things, sick and well, bad and good she found herself on her couch for the remainder of her days' that she began to write for publication.[^ref2]  Crippled with rheumatoid arthritis, she bought a house at Sandgate, a coastal village 'which prides itself on its amount of sunshine and its considerable immunity from sea-fogs'[^ref3] and it was here at Channel Bower, The Riviera Sandgate, that she wrote 18 novels of military adventure as well as stories for _Young Woman_ magazine. Within a few years, Sandgate was hailed as the 'author's haven of repose', being the home of writers such as [H.G. Wells](/20c/20c-wellshg-biography), Mrs Croker and Henry Hamilton.[^ref4]

@@ -2,7 +2,6 @@
 <param ve-config title="Miss Balmaine's Past by Bithia Croker" author="Michelle Crowther" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q181071" aliases="New Romney">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 
@@ -11,7 +10,7 @@ banner="/images/banners/19c.jpg">
 “Down in a desolate part of the South of England, bordering on the celebrated “Romney Marsh” and between that and the sea, there is what we should call a village, but its inhabitants dignify by the name of a “town”. _Miss Balmaine’s Past_ (Croker, 1898, p.1)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg" label="The description of Romney Marsh" attribution="Tucker, Elhanan, Public domain, via Wikimedia Commons">
 
-‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel _Miss Balmaine’s Past_. Bithia Croker (c.1848-1920), a successful novelist, was born in Ireland and known mainly for her army stories set in India. She moved to Sandgate with her husband, a retired lieutenant colonel in 1897 and lived at 10 Radnor Cliff, until at least 1911.[^ref1] It was there that she gained inspiration for her novel.
+‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel _Miss Balmaine’s Past_. Bithia Croker (c.1848-1920), a successful novelist, was born in Ireland and known mainly for her army stories set in India. She moved to [Sandgate](/placesqz/sandgate-overview) with her husband, a retired lieutenant colonel in 1897 and lived at 10 Radnor Cliff, until at least 1911.[^ref1] It was there that she gained inspiration for her novel.
 <param ve-image url="https://stor.artstor.org/stor/5454fc2e-1081-496d-b102-fed7f892e003" label="Blue Plaque, 10 Radnor Cliff" attribution="Martin Crowther">
 
 The novel paints a dismal portrait of Horton, where there was “no shopping, no lending library – not even a clothing club.” (p.8); very different from the present-day New Romney which has a supermarket, library and charity shops. The countryside and the marshes around the town, however, provide a wild and romantic location for Rosamund Balmaine, who runs “with hasty, elastic steps over the green turf across “the Marshes.” To meet, of course, a young man.” 

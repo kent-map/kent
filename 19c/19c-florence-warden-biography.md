@@ -3,7 +3,6 @@
 banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
-<param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q2287962" aliases="Cliffsend">
 
 #
@@ -13,7 +12,7 @@ _“Beachythe!”_    he repeated, _“Beachythe! I hope I am not betraying a ve
 _Kitty’s Engagement_, 1895.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Hythe_seafront_-_geograph.org.uk_-_1960795.jpg" label="Hythe seafront" attribution="E Gammie, CC BY-SA 2.0, via Wikimedia Commons">
 
-Florence Warden (16 May 1857 – 11 May 1929), actor and writer lived at St Mildred’s Road, Ramsgate and later Beach Cottage, Sandgate during the late nineteenth century. Born Florence Alice Price, the daughter of stockbroker Charles Price, she had a privileged childhood, brought up _'in affluence and luxury'_[^ref1] and educated by governesses, however, when her father’s business failed, she and her sister Gertrude were thrown upon their own resources. 
+Florence Warden (16 May 1857 – 11 May 1929), actor and writer lived at St Mildred’s Road, Ramsgate and later Beach Cottage, [Sandgate](/placesqz/sandgate-overview) during the late nineteenth century. Born Florence Alice Price, the daughter of stockbroker Charles Price, she had a privileged childhood, brought up _'in affluence and luxury'_[^ref1] and educated by governesses, however, when her father’s business failed, she and her sister Gertrude were thrown upon their own resources. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg" label="Portrait of Florence Warden" attribution="Rijksmuseum, CC0, via Wikimedia Commons">
 
 Both sisters obtained positions as governesses, and in her spare time Florence began writing short stories and novelettes, however Florence quickly tired of her life as a governess: _“it’s consistent dulness [sic], embittered by constant failure with my pen;”_[^ref2] and after two years, both she and her sister took up acting, against the advice of their friends.  Adopting the stage names Florence and Gertrude Warden, they worked at the Haymarket and Vaudeville theatres and also toured the provinces, living in digs together in Marylebone.
