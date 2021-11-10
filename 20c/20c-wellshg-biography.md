@@ -10,7 +10,7 @@ banner="/images/banners/20c.jpg">
 
 **Publications of Interest:** _The Sea Lady_ (1902), _Kipps_ (1905) and _The History of Mr. Polly_ (1910)   
 **Places:** Sandgate, Folkestone, Aldington, Ramsgate, Canterbury   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg" label=H.G. Wells" attribution="Library of the London School of Economics and Political Science, No restrictions, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg" label="H.G. Wells" attribution="Library of the London School of Economics and Political Science, No restrictions, via Wikimedia Commons">
 
 “This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” _Kipps_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/02/Sandgate%2C_Kent_%28BM_1892%2C0714.10%29.jpg" label="Sandgate, 1892" attribution="British Museum, Public domain, via Wikimedia Commons"> 
