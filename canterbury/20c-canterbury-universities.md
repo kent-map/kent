@@ -4,7 +4,7 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q3182956" aliases="Canterbury Christ Church|CCCU">
 <param ve-entity eid="Q1516684" aliases="University of Kent">
-<parma ve-entity eid="Q24678086" aliases="Tonbridge">
+<param ve-entity eid="Q24678086" aliases="Tonbridge">
 <param ve-entity eid="Q24673953" aliases="University for the Creative Arts">
 <param ve-entity eid="Q5033707" aliases="Canterbury and Whitstable Railway">
 <param ve-entity eid="Q5033636" aliases="Canterbury College">
