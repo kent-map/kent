@@ -2,7 +2,7 @@
 <param ve-config title="20th-Century Canterbury: Universities" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q3182956" aliases="Canterbury Christ Church" "CCCU">
+<param ve-entity eid="Q3182956" aliases="Canterbury Christ Church|CCCU">
 <param ve-entity eid="Q1516684" aliases="University of Kent">
 <parma ve-entity eid="Q24678086" aliases="Tonbridge">
 <param ve-entity eid="Q24673953" aliases="University for the Creative Arts">
