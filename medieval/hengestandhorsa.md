@@ -24,7 +24,7 @@ In Geoffrey’s inventive account, the story becomes a high-stakes drama of pass
 
 Today, the two brothers have been thoroughly incorporated into Kentish myth. The county flag bears a white horse - ‘Hengest’ and ‘Horsa’ means ‘stallion’ and ‘horse’ in Old English - and place names across the area are also said to be named for the brothers: for instance, the Horsted Valley, near Chatham in Kent and Hengistbury Head in Dorset.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FlagOfKent.svg/2560px-FlagOfKent.svg.png" label="Flag of Kent" attribution="Hogweard, Public domain, via Wikimedia Commons">
-<param ve-map center="Q729006" zoom="15">
+<param ve-map center="Q729006" zoom="10">
 
 Meanwhile, megaliths in the Medway area have become linked to the legend, including the ‘White Horse Stone’, and Kit’s Coty House, the latter said to commemorate Categern, one of the British leaders defeated by the brothers. But these associations are almost certainly post medieval inventions. In 1921, Nellie Slayton Aurner analysed eleven sources up to the 12th century, and found no mention of any monuments linked to either brother [^ref5].
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fc/Upper_White_Horse_Stone.jpg" label="White Horse Stone" attribution="Roger Smith / White Horse Stone, Pilgrims Way">
