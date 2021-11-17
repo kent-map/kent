@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="William Dyce (1806-1864) "
-       author="Prof Christiana Payne"
+       author="Professor Christiana Payne"
        banner="https://i.imgur.com/T74Vdh9.jpg" 
        layout="vertical"
        num-maps="2"
