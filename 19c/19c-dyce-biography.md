@@ -56,8 +56,7 @@ Dyce’s painting was shown at the Royal Academy exhibition in 1860, where revie
     attribution="Maidstone Museum and Bentlif Art Gallery, Maidstone (https://artuk.org/discover/artworks/at-the-seaside-pegwell-bay-near-ramsgate-kent-76676/view_as/grid/search/keyword:kent-pegwell-bay--referrer:global-search/page/1)"
     url="https://d3d00swyhr67nd.cloudfront.net/w944h944/collection/KT/MMB/KT_MMB_B_MAI_46514-001.jpg">
 
-The Dyces did not go back to  <span data-mouseover-map-flyto="51.4, 1.43">Ramsgate</span> in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in <span data-mouseover-map-flyto="55.6, -5.23">Arran</span>, in 1860 in <span data-mouseover-map-flyto="52.9, -3.66">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
-<param ve-map title="Dyce's holiday destinations" center="Q736439" zoom="12" prefer-geojson show-labels>
+The Dyces did not go back to Ramsgate in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in Arran, in 1860 in North Wales, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
 
 ### Bibliography
 ---
