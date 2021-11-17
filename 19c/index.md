@@ -23,6 +23,7 @@
 [Joseph Conrad](19c-conrad-biography)  
 [Catherine Ann Crowe](19c-crowe-biography)   
 [Charles Darwin](19c-darwin-biography)   
+[William Dyce](19c-dyce-biography)   
 [Sir John Franklin](19c-franklin-biography)  
 [Elizabeth Gould](19c-gould-biography)   
 [Sarah Grand](19c-grand-biography)   
