@@ -17,7 +17,7 @@ The people liberal, valiant, active, wealthy.
 
 This epigraph, which clearly underlines his affection for and pride in Kent, was given by John Boys to _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_ which he prepared for the Board of Agriculture and which appeared in 1796. His original version had appeared in 1794, and this was an expanded and revised edition in line with the uniform model provided by the Board of Agriculture, so that ‘information respecting the State of the kingdom, and Agricultural Knowledge in general, will be attainable with every possible advantage’ (Boys 1796, ix). It is possible that he was invited to compile this report because he was one of the Stewards of the Kent Society for the Encouragement of Agriculture and Industry, established in Canterbury a few years earlier in January 1793. https://vufind.org/advanced_demo/Record/1028040  (1)
 
-**Betteshanger**v   
+**Betteshanger**    
 Boys farmed at Betteshanger Home Farm, about five miles inland from Deal. He was a scion of the Boys family who had arrived with William the Conqueror, and whose members had lived in East Kent since at least the fourteenth century, notably at Fredville near Nonington between the fifteenth and seventeenth centuries, as well as at Betteshanger from the early seventeenth century.  However, Boys was a tenant farmer, rather than an owner. An earlier, distantly related Boys, Edward Grotius (1679-1706), had died without issue and bequeathed the Betteshanger estate to a cousin who sold it the Morrice family in about 1713, from whom John Boys leased the property.  
 The Morrice family sold the Betteshanger estate in 1850 to Sir Walter James, who in 1884 became Lord Northbourne. His descendent, the fourth [Lord Northbourne](/20c/20c-northbourne-biography), would follow in Boys’ footsteps, confirming Betteshanger as an important crucible of agricultural wisdom and innovation when he held the 1939 Betteshanger Summer School and Conference on Bio-dynamic Farming, and by coining the term ‘organic farming’ in _Look to the Land_,  his seminal work of 1940. http://www.dover-kent.com/VILLAGES/24-Betteshanger.html 
  https://commons.wikimedia.org/wiki/File:Home_Farm_and_Home_Farm_cottages,_Little_Betteshanger._-_geograph.org.uk_-_304375.jpg
@@ -48,9 +48,10 @@ Boys begins his chapter on ‘Improvements’ with a section on drainage, saying
 His other sections include paring and burning, and manuring: as well as dung he advocates seaweed which is plentiful around the coast. He lists waste lands, neglected woods, and impoverished commons, and says he is taking the liberty of suggesting to the Board of Agriculture that they should approach the legislature with the view to introducing an act of inclosure, in order to put these lands under proper systems of management.
 In a short concluding chapter, Boys lists the principle obstacles to the general improvement of the county which include the payment of tithes in kind, the corn-laws, and the prohibition to export wool in its raw state. He also lists the rights of commonage on heathlands as being an obstacle to their improvement, along with short leases which offer no incentive to improve the land.
 
-**Highways**
+**Highways**   
 Boys considers the highways, and observes that while the principal road in the county, from London to Canterbury, is ‘kept in excellent order by the commissioners’, it is ‘somewhat extraordinary that their power is not extended eastward to Deal, where there is such a resort of shipping’  (Boys was writing shortly before the Napoleonic wars when Admiral Lord Nelson would set up his shore Headquarters in what is now the Royal Hotel in Deal). He notes that the turnpike roads are in general good, apart from some in the Weald which are very frequently impassable in winter. In the first version of his Review he tells us that the difference between the shoulders of the axle trees of waggons and carts is two inches greater in the eastern part of Kent than it is in Sittingbourne, and two inches less in the western part of Kent, making it difficult for carriages from one part of the district to pass in the deep channels of the other.  
-BOYS THE INNOVATOR
+
+**Boys the innovator**   
 Boys was an innovator. Not only did he design the threshing mill described above, he also experimented with the long-term preservation of potatoes by drying, both in slices and as meal. The potatoes were then transported in kegs to St Helena, and were pronounced on arrival to ‘retain the essential qualities of the potatoe [sic], unimpaired, though somewhat altered in colour’.  
 
 **Boys' reputation**   
@@ -61,13 +62,9 @@ Boys and his wife later moved from Betteshanger to Each End, between Ash and Win
 
 ### References
 
-Boys, John. _General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_. P. Norbury, 1794. (There is a copy in the Historical Collection in the Augustine House Library of CCCU, class mark 333.76094223 BOY.)
-
---. _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_. G. Nicol, 1796.
-
-Cobbett, William. _Rural Rides_. 1830. Penguin Classics, 1985.
-
+Boys, John. _General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_. P. Norbury, 1794. (There is a copy in the Historical Collection in the Augustine House Library of CCCU, class mark 333.76094223 BOY.)   
+--. _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_. G. Nicol, 1796.   
+Cobbett, William. _Rural Rides_. 1830. Penguin Classics, 1985.   
 Hasted, Edward. 'Parishes: Northborne', in _The History and Topographical Survey of the County of Kent:_ Volume 9 (Canterbury, 1800). 583-604.
-
   
 https://www.wikitree.com/photo/jpg/Boys-333  (1)
