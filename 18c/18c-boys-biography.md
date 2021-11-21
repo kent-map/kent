@@ -60,8 +60,9 @@ Hay is usually set up in stacks, either in the marshes near a foddering lodge, o
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
 **Woodlands, hops and orchards**   
-Boys reproduces a table detailing various woodlands in the county.  He tells us that the woodlands between Chatham Hill and Charing provide poles, stakes and binders of various lengths. The best are cut from chestnut, ash, willow and maple, while the second best are cut from oak, gascoign (a form of wild cherry), red birch, beech and hornbeam. Stakes and binders are also cut from hazel. Props to be used in the coal-mines at Newcastle are cut from oak and birch, six feet four or five inches long.  
-Other poles would be used for hops. The Hop Grounds in the vicinity of Canterbury and Maidstone are the principle ones in the county, with those of Canterbury superior to those of Maidstone.  This contemporary hop field lies between Ash and Wingham, just south of Canterbury and two or three miles from Each End where Boys moved to when he left Betteshanger and somewhere he would have known well. (4) 
+Boys reproduces a table detailing various woodlands in the county.[^ref13]  He tells us that the woodlands between Chatham Hill and Charing provide poles, stakes and binders of various lengths. The best are cut from chestnut, ash, willow and maple, while the second best are cut from oak, gascoign (a form of wild cherry), red birch, beech and hornbeam. Stakes and binders are also cut from hazel. Props to be used in the coal-mines at Newcastle are cut from oak and birch, six feet four or five inches long.[^ref14]
+
+Other poles would be used for hops. The Hop Grounds in the vicinity of Canterbury and Maidstone are the principle ones in the county, with those of Canterbury superior to those of Maidstone.[^ref15]  This contemporary hop field lies between Ash and Wingham, just south of Canterbury and two or three miles from Each End where Boys moved to when he left Betteshanger and somewhere he would have known well.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/73/Hop_Fields_along_Pedding_Lane_-_geograph.org.uk_-_1974865.jpg" label="Hop Fields along Pedding Lane" attribution="Oast House Archive" license="CC BY-SA 2.0">
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
@@ -70,22 +71,22 @@ The area around Maidstone has plenty of orchards, principally apples and cherrie
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
 **Livestock**   
-Boys devotes a chapter to livestock, starting with cattle, saying there is ‘no particular breed which may be allowed the appellation of Kentish Cattle’.  The beef cattle are bought in from Wales by graziers to be fattened on the Kent marshes until they are fit for the butcher. For the most part, dairy cows are selected from the Welsh droves, but in recent years a few dairy cows, remarkable for the richness of their milk, have been brought from Alderney and Guernsey ‘for the use of the dairies of gentlemens [sic] families’.  Moving on to sheep, he observes that Kent has long been famous for the Romney Marsh breed, known at Smithfield Market as Kent sheep, valuable not only for their meat, but for their very long fine wool. While Boys himself seems to have had a reputation for his South Downs sheep, being complimented on five South Down ewes which he exhibited at Lord Somerville’s Spring Cattle Show in 1809, he makes little mention of this breed in his Survey, apart from the illustration of ‘A Small South Down Ram belonging to Mr. Boys’.  Cobbett comments on how, when having travelled across East Kent he arrives near Tonbridge where he begins to see South Down sheep again for the first since he left Tenterden, implying that he saw none in the area east of those towns.  Apart from sheep, the main livestock production of the county at large includes horses, hogs, poultry, rabbits, pigeons and bees.  (6)
+Boys devotes a chapter to livestock, starting with cattle, saying there is ‘no particular breed which may be allowed the appellation of Kentish Cattle’.[^ref16]  The beef cattle are bought in from Wales by graziers to be fattened on the Kent marshes until they are fit for the butcher. For the most part, dairy cows are selected from the Welsh droves, but in recent years a few dairy cows, remarkable for the richness of their milk, have been brought from Alderney and Guernsey ‘for the use of the dairies of gentlemens [sic] families’.[^ref17]  Moving on to sheep, he observes that Kent has long been famous for the Romney Marsh breed, known at Smithfield Market as Kent sheep, valuable not only for their meat, but for their very long fine wool. While Boys himself seems to have had a reputation for his South Downs sheep, being complimented on five South Down ewes which he exhibited at Lord Somerville’s Spring Cattle Show in 1809, he makes little mention of this breed in his Survey, apart from the illustration of ‘A Small South Down Ram belonging to Mr. Boys’.[^ref18]  Cobbett comments on how, when having travelled across East Kent he arrives near Tonbridge where he begins to see South Down sheep again for the first since he left Tenterden, implying that he saw none in the area east of those towns.[^ref19]  Apart from sheep, the main livestock production of the county at large includes horses, hogs, poultry, rabbits, pigeons and bees.
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
 **Land Improvement/Obstacles to improvement**   
-Boys begins his chapter on ‘Improvements’ with a section on drainage, saying that this is a subject of infinite importance to the prosperity of the kingdom, and he describes the various methods of draining. As one of Kent’s commissioners for sewers, dealing with land drainage and flood defence, Boys was involved in the drainage of the marshes around Eastry and Finglesham Brooks, streams which break through the chalk ridge at Hacklinge between Deal and Sandwich, and feed into the North Stream and thence into the Stour. He describes a pump driven by a wind mill installed at Cottington, on the seaward side of the ridge. Mill pumps of this kind had been found in the Cambridgeshire Fens from the later sixteenth century, but the manner in which Boys singles this out suggests it is an innovation in East Kent.  https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Boys,_John_(1749-1824)
+Boys begins his chapter on ‘Improvements’ with a section on drainage, saying that this is a subject of infinite importance to the prosperity of the kingdom, and he describes the various methods of draining. As one of Kent’s commissioners for sewers, dealing with land drainage and flood defence, Boys was involved in the drainage of the marshes around Eastry and Finglesham Brooks, streams which break through the chalk ridge at Hacklinge between Deal and Sandwich, and feed into the North Stream and thence into the Stour. He describes a pump driven by a wind mill installed at Cottington, on the seaward side of the ridge. Mill pumps of this kind had been found in the Cambridgeshire Fens from the later sixteenth century, but the manner in which Boys singles this out suggests it is an innovation in East Kent.[^ref20]  https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Boys,_John_(1749-1824)
 (7) https://commons.wikimedia.org/wiki/Category:Hacklinge#/media/File:View_along_the_North_Stream,_Ham_-_geograph.org.uk_-_578537.jpg
 His other sections include paring and burning, and manuring: as well as dung he advocates seaweed which is plentiful around the coast. He lists waste lands, neglected woods, and impoverished commons, and says he is taking the liberty of suggesting to the Board of Agriculture that they should approach the legislature with the view to introducing an act of inclosure, in order to put these lands under proper systems of management.
 In a short concluding chapter, Boys lists the principle obstacles to the general improvement of the county which include the payment of tithes in kind, the corn-laws, and the prohibition to export wool in its raw state. He also lists the rights of commonage on heathlands as being an obstacle to their improvement, along with short leases which offer no incentive to improve the land.
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
 **Highways**   
-Boys considers the highways, and observes that while the principal road in the county, from London to Canterbury, is ‘kept in excellent order by the commissioners’, it is ‘somewhat extraordinary that their power is not extended eastward to Deal, where there is such a resort of shipping’  (Boys was writing shortly before the Napoleonic wars when Admiral Lord Nelson would set up his shore Headquarters in what is now the Royal Hotel in Deal). He notes that the turnpike roads are in general good, apart from some in the Weald which are very frequently impassable in winter. In the first version of his Review he tells us that the difference between the shoulders of the axle trees of waggons and carts is two inches greater in the eastern part of Kent than it is in Sittingbourne, and two inches less in the western part of Kent, making it difficult for carriages from one part of the district to pass in the deep channels of the other.  
+Boys considers the highways, and observes that while the principal road in the county, from London to Canterbury, is ‘kept in excellent order by the commissioners’, it is ‘somewhat extraordinary that their power is not extended eastward to Deal, where there is such a resort of shipping’[^ref21]  (Boys was writing shortly before the Napoleonic wars when Admiral Lord Nelson would set up his shore Headquarters in what is now the Royal Hotel in Deal). He notes that the turnpike roads are in general good, apart from some in the Weald which are very frequently impassable in winter. In the first version of his Review he tells us that the difference between the shoulders of the axle trees of waggons and carts is two inches greater in the eastern part of Kent than it is in Sittingbourne, and two inches less in the western part of Kent, making it difficult for carriages from one part of the district to pass in the deep channels of the other.[^ref22]  
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
 **Boys the innovator**   
-Boys was an innovator. Not only did he design the threshing mill described above, he also experimented with the long-term preservation of potatoes by drying, both in slices and as meal. The potatoes were then transported in kegs to St Helena, and were pronounced on arrival to ‘retain the essential qualities of the potatoe [sic], unimpaired, though somewhat altered in colour’.  #
+Boys was an innovator. Not only did he design the threshing mill described above, he also experimented with the long-term preservation of potatoes by drying, both in slices and as meal. The potatoes were then transported in kegs to St Helena, and were pronounced on arrival to ‘retain the essential qualities of the potatoe [sic], unimpaired, though somewhat altered in colour’.[^ref23]
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
 **Boys' reputation**   
@@ -103,24 +104,24 @@ John Boys first appears on page 40, and his descendants start at page 60. Other 
 [^ref3]: https://www.british-history.ac.uk/survey-kent/vol10/pp44-49 
 [^ref4]: http://www.dover-kent.com/VILLAGES/24-Betteshanger.html 
 [^ref5]: https://www.agriculturalmuseumbrook.org.uk/explore/collections/plough
-[^ref6]:  Boys 1796, 51.
-[^ref7]: https://www.moorgatebooks.com/
-[^ref8]:  Boys 1796, 57-61.
-[^ref9]: Cobbett, 205.
-[^ref10]: Cobbett, 196.  
-[^ref11]: Boys 1796, 4.
-[^ref12]:  Boys 1796, 110.
-[^ref1]:  Boys 1796, between 126 and 127.
-[^ref1]:  Here Boys is citing R. Tilden, 1796, 125.
-[^ref1]:  Boys 1796, 117.
-[^ref1]:    Boys 1796, 147.
-[^ref1]:  Boys 1796, 148.
-[^ref1]:  Boys 1796, facing page 24.
-[^ref1]:  Cobbett, 213.
-[^ref1]:  Boys, 1796 132-133.
-[^ref1]:Boys 1796, 168.
-[^ref1]:  Boys 1794, 90.
-[^ref1]:  Boys, 198-199.This was twenty years before Napoleon arrived on St Helena. By coincidence, John Boys’ fourth son, Richard, was a chaplain in the East India Company, serving at St Helena at the time of Napoleon’s exile.
+[^ref6]:  Boys 1796, 51.   
+[^ref7]: https://www.moorgatebooks.com/   
+[^ref8]:  Boys 1796, 57-61.   
+[^ref9]: Cobbett, 205.   
+[^ref10]: Cobbett, 196.   
+[^ref11]: Boys 1796, 4.   
+[^ref12]: Boys 1796, 110.   
+[^ref13]: Boys 1796, between 126 and 127.   
+[^ref14]: Here Boys is citing R. Tilden, 1796, 125.   
+[^ref15]: Boys 1796, 117.   
+[^ref16]: Boys 1796, 147.   
+[^ref17]: Boys 1796, 148.   
+[^ref18]: Boys 1796, facing page 24.   
+[^ref19]: Cobbett, 213.   
+[^ref20]: Boys, 1796 132-133.   
+[^ref21]: Boys 1796, 168.   
+[^ref22]: Boys 1794, 90.   
+[^ref23]: Boys, 198-199.This was twenty years before Napoleon arrived on St Helena. By coincidence, John Boys’ fourth son, Richard, was a chaplain in the East India Company, serving at St Helena at the time of Napoleon’s exile.
 
 
 
