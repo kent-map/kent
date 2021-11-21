@@ -6,6 +6,15 @@
 # {.cards}
 
 ##
+**[John Boys](18c-boys-biography)**
+
+- author: Diana Hirst
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
+
+John Boys, agriculturalist, was well known for his breed of South Down sheep.  
+
+##
 **[Elizabeth Carter](18c-carter-biography)**
 
 - author: Dr Peter Merchant
