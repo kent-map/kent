@@ -16,8 +16,16 @@ banner="/images/banners/18c.jpg">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
-
-#
+<param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q614560" aliases="Tenterden">
+<param ve-entity eid="Q3072600" aliases="Finglesham">
+<param ve-entity eid="Q5330905" aliases="Eastry">
+<param ve-entity eid="Q5637324" aliases="Hacklinge">
+<param ve-entity eid="Q26163" aliases="Sandwich">
+<param ve-entity eid="Q26530206" aliases="Cottington">
+<param ve-entity eid="Q1540243" aliases="Stour">
+                      
+#                      
 
 Kent, in the Commentaries Caesar writ,   
 Is term’d the civill’st place of all this isle:   
