@@ -33,7 +33,7 @@ Is term’d the civill’st place of all this isle:
 Sweet is the country, because full of riches;   
 The people liberal, valiant, active, wealthy.   
 (Shakespeare, _Second Part of King Henry VI_, Act V, Scene 7)   
-
+<br>
 This epigraph, which clearly underlines his affection for and pride in Kent, was given by John Boys to _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_ which he prepared for the Board of Agriculture and which appeared in 1796. His original version had appeared in 1794, and this was an expanded and revised edition in line with the uniform model provided by the Board of Agriculture, so that ‘information respecting the State of the kingdom, and Agricultural Knowledge in general, will be attainable with every possible advantage’ (Boys 1796, ix). It is possible that he was invited to compile this report because he was one of the Stewards of the Kent Society for the Encouragement of Agriculture and Industry, established in Canterbury a few years earlier in January 1793.[^ref1]
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
