@@ -14,6 +14,8 @@ banner="/images/banners/18c.jpg">
 <param ve-entity eid="Q2632094" aliases="Wingham">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
 
 #
 
@@ -24,6 +26,7 @@ The people liberal, valiant, active, wealthy.
 (Shakespeare, _Second Part of King Henry VI_, Act V, Scene 7)   
 
 This epigraph, which clearly underlines his affection for and pride in Kent, was given by John Boys to _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_ which he prepared for the Board of Agriculture and which appeared in 1796. His original version had appeared in 1794, and this was an expanded and revised edition in line with the uniform model provided by the Board of Agriculture, so that ‘information respecting the State of the kingdom, and Agricultural Knowledge in general, will be attainable with every possible advantage’ (Boys 1796, ix). It is possible that he was invited to compile this report because he was one of the Stewards of the Kent Society for the Encouragement of Agriculture and Industry, established in Canterbury a few years earlier in January 1793.[^ref1]
+<param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
 **Betteshanger**    
 Boys farmed at Betteshanger Home Farm, about five miles inland from Deal. He was a scion of the Boys family who had arrived with William the Conqueror, and whose members had lived in East Kent since at least the fourteenth century, notably at Fredville near Nonington between the fifteenth and seventeenth centuries, as well as at Betteshanger from the early seventeenth century.[^ref2]  However, Boys was a tenant farmer, rather than an owner. An earlier, distantly related Boys, Edward Grotius (1679-1706), had died without issue and bequeathed the Betteshanger estate to a cousin who sold it the Morrice family in about 1713, from whom John Boys leased the property.[^ref3]  
