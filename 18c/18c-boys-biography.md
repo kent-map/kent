@@ -75,8 +75,9 @@ Boys devotes a chapter to livestock, starting with cattle, saying there is ‘no
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
 **Land Improvement/Obstacles to improvement**   
-Boys begins his chapter on ‘Improvements’ with a section on drainage, saying that this is a subject of infinite importance to the prosperity of the kingdom, and he describes the various methods of draining. As one of Kent’s commissioners for sewers, dealing with land drainage and flood defence, Boys was involved in the drainage of the marshes around Eastry and Finglesham Brooks, streams which break through the chalk ridge at Hacklinge between Deal and Sandwich, and feed into the North Stream and thence into the Stour. He describes a pump driven by a wind mill installed at Cottington, on the seaward side of the ridge. Mill pumps of this kind had been found in the Cambridgeshire Fens from the later sixteenth century, but the manner in which Boys singles this out suggests it is an innovation in East Kent.[^ref20]  https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Boys,_John_(1749-1824)
-(7) https://commons.wikimedia.org/wiki/Category:Hacklinge#/media/File:View_along_the_North_Stream,_Ham_-_geograph.org.uk_-_578537.jpg
+Boys begins his chapter on ‘Improvements’ with a section on drainage, saying that this is a subject of infinite importance to the prosperity of the kingdom, and he describes the various methods of draining. As one of Kent’s commissioners for sewers, dealing with land drainage and flood defence, Boys was involved in the drainage of the marshes around Eastry and Finglesham Brooks, streams which break through the chalk ridge at Hacklinge between Deal and Sandwich, and feed into the North Stream and thence into the Stour. He describes a pump driven by a wind mill installed at Cottington, on the seaward side of the ridge. Mill pumps of this kind had been found in the Cambridgeshire Fens from the later sixteenth century, but the manner in which Boys singles this out suggests it is an innovation in East Kent.[^ref20] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/71/View_along_the_North_Stream%2C_Ham_-_geograph.org.uk_-_578537.jpg" label="View along the North Stream, Ham" attribution="Nick Smith" license="CC BY-SA 2.0">
+
 His other sections include paring and burning, and manuring: as well as dung he advocates seaweed which is plentiful around the coast. He lists waste lands, neglected woods, and impoverished commons, and says he is taking the liberty of suggesting to the Board of Agriculture that they should approach the legislature with the view to introducing an act of inclosure, in order to put these lands under proper systems of management.
 In a short concluding chapter, Boys lists the principle obstacles to the general improvement of the county which include the payment of tithes in kind, the corn-laws, and the prohibition to export wool in its raw state. He also lists the rights of commonage on heathlands as being an obstacle to their improvement, along with short leases which offer no incentive to improve the land.
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
@@ -90,9 +91,11 @@ Boys was an innovator. Not only did he design the threshing mill described above
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
 **Boys' reputation**   
-According to Gentleman’s Magazine for 1825, Boys’ report was ‘accorded the palm amongst County reports of agriculture, “for soundness of judgment and enlightened practical views”’. https://en.wikisource.org/wiki/Men_of_Kent_and_Kentishmen/John_Boys,_of_Betshanger
+According to Gentleman’s Magazine for 1825, Boys’ report was ‘accorded the palm amongst County reports of agriculture, “for soundness of judgment and enlightened practical views”’.[^ref24] 
 At times Boys quotes extensively from Edward Hasted’s _History and Topographical Survey of the County of Kent_ and Hasted returns the compliment in his 1800 edition, saying:
-The house [pertaining to the estate of Little Betteshanger] is large, and has been the residence of gentlemen; a family of the name of Boys has inhabited it for many years, Mr. John Boys now resides in it, a gentleman, whose scientific knowledge in husbandry is well known, especially by the publication of the Agricultural Society of the state of it, and its improvements in this county, for which they are, I believe, wholly indebted to him. (https://www.british-history.ac.uk/survey-kent/vol9/pp583-604)
+<br>
+The house [pertaining to the estate of Little Betteshanger] is large, and has been the residence of gentlemen; a family of the name of Boys has inhabited it for many years, Mr. John Boys now resides in it, a gentleman, whose scientific knowledge in husbandry is well known, especially by the publication of the Agricultural Society of the state of it, and its improvements in this county, for which they are, I believe, wholly indebted to him.[^ref25]
+<br>
 Boys and his wife later moved from Betteshanger to Each End, between Ash and Wingham. He is buried at St Mary the Virgin, Wingham, where there is a memorial to him. (8)
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
@@ -122,6 +125,8 @@ John Boys first appears on page 40, and his descendants start at page 60. Other 
 [^ref21]: Boys 1796, 168.   
 [^ref22]: Boys 1794, 90.   
 [^ref23]: Boys, 198-199.This was twenty years before Napoleon arrived on St Helena. By coincidence, John Boys’ fourth son, Richard, was a chaplain in the East India Company, serving at St Helena at the time of Napoleon’s exile.
+[^ref24]: https://en.wikisource.org/wiki/Men_of_Kent_and_Kentishmen/John_Boys,_of_Betshanger
+[^ref25]: https://www.british-history.ac.uk/survey-kent/vol9/pp583-604
 
 
 
@@ -131,5 +136,6 @@ Boys, John. _General View of the Agriculture of the County of Kent, with Observa
 --. _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_. G. Nicol, 1796.   
 Cobbett, William. _Rural Rides_. 1830. Penguin Classics, 1985.   
 Hasted, Edward. 'Parishes: Northborne', in _The History and Topographical Survey of the County of Kent:_ Volume 9 (Canterbury, 1800). 583-604.
+'John Boys' [_Dictionary of National Biography_](https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Boys,_John_(1749-1824))
   
 https://www.wikitree.com/photo/jpg/Boys-333  (1)
