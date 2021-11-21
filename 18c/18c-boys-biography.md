@@ -35,6 +35,7 @@ The people liberal, valiant, active, wealthy.
 (Shakespeare, _Second Part of King Henry VI_, Act V, Scene 7)   
 <br>
 This epigraph, which clearly underlines his affection for and pride in Kent, was given by John Boys to _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_ which he prepared for the Board of Agriculture and which appeared in 1796. His original version had appeared in 1794, and this was an expanded and revised edition in line with the uniform model provided by the Board of Agriculture, so that ‘information respecting the State of the kingdom, and Agricultural Knowledge in general, will be attainable with every possible advantage’ (Boys 1796, ix). It is possible that he was invited to compile this report because he was one of the Stewards of the Kent Society for the Encouragement of Agriculture and Industry, established in Canterbury a few years earlier in January 1793.[^ref1]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1d/%27Taking_in_New_Hay_and_stacking_it_Jun_74%27_%28Bray_album%29_RMG_PT1977.tiff" label="Taking in new hay and stacking it, possibly Kent, June 1774" attribution="Gabriel Bray, Public domain, via Wikimedia Commons">
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
 **Betteshanger**    
@@ -54,9 +55,9 @@ Boys describes implements used, singling out the Kent turn-wrest plough. For all
 
 **Crops: rotation and fallowing**   
 Boys is writing fifty years after ‘Turnip’ Townshend’s introduction of the Norfolk four-course rotation scheme whereby instead of a fallow year turnips and clover are planted alternately with wheat and other cereals to replenish the nitrogen in the soil. He remarks that ‘[t]here is not any part of agriculture which has occasioned more discussion and controversy among writers on husbandry, than this subject of Fallowing’.[^ref8] In all he lists nine different systems found in the county, rotating over periods of three to seven years. He details the various crops: most commonly grown are wheat, barley, beans, oats, peas, canary seed, radish seed, turnips and cole (rape) seed, while some less often grown include tares (a vetch), clover, trefoil, sainfoin, lucern, burnet, spinach, kidney beans, cress, potatoes, flax, cabbage, and two plants used for dyeing, woad and madder. However, while he is even-handed, from his detailed instructions on how to make a good fallow, it is difficult not to believe that he himself favoured fallowing. Nevertheless, twenty-five years later William Cobbett would find very few fallow fields in Thanet, writing: ‘When I got upon the corn land in the Isle of Thanet, I got into a garden indeed. There is hardly any fallow; comparatively few turnhips [sic]. It is a country of corn’.[^ref9]  Cobbett frequently remarks on the excellence of the wheat crop when in early September 1823 he passes from Folkestone via Dover to Thanet, ‘that spot so famous for corn’.[^ref10]  Here Cobbett is echoing Boys who remarks: 
-<br>
+<br><br>
 In short, is there another district in Great Britain, or in the World, of the same extent, in such a perfect state of cultivation, where the Farmers are so wealthy and intelligent, where land, naturally of so inferior a quality, is let for so much money and produces such abundant crops?[^ref11]
-<br>
+<br><br>
 Hay is usually set up in stacks, either in the marshes near a foddering lodge, or in farm-yards near the marshes for fattening bullock. Boys gives a hint of the burgeoning importance of Thanet as a resort from the mid-eighteenth century when he notes that hay is sold to innkeepers at Margate or Ramsgate.[^ref12]  
 <param ve-map title="Thanet" center="Q1752642" zoom="12" prefer-geojson show-labels>
 
