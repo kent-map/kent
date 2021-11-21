@@ -25,6 +25,9 @@ banner="/images/banners/18c.jpg">
 <param ve-entity eid="Q26530206" aliases="Cottington">
 <param ve-entity eid="Q1540243" aliases="Stour">
 <param ve-entity eid="Q4898591" aliases="Betteshanger">
+
+<!-- Historical map layers -->
+<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820">
                       
 #                      
 
@@ -36,15 +39,15 @@ The people liberal, valiant, active, wealthy.
 <br>
 This epigraph, which clearly underlines his affection for and pride in Kent, was given by John Boys to _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_ which he prepared for the Board of Agriculture and which appeared in 1796. His original version had appeared in 1794, and this was an expanded and revised edition in line with the uniform model provided by the Board of Agriculture, so that ‘information respecting the State of the kingdom, and Agricultural Knowledge in general, will be attainable with every possible advantage’ (Boys 1796, ix). It is possible that he was invited to compile this report because he was one of the Stewards of the Kent Society for the Encouragement of Agriculture and Industry, established in Canterbury a few years earlier in January 1793.[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1d/%27Taking_in_New_Hay_and_stacking_it_Jun_74%27_%28Bray_album%29_RMG_PT1977.tiff" label="Taking in new hay and stacking it, possibly Kent, June 1774" attribution="Gabriel Bray, Public domain, via Wikimedia Commons">
-<param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
+<param ve-map title="Canterbury" center="Q29303" zoom="12">
 
 **Betteshanger**    
 Boys farmed at Betteshanger Home Farm, about five miles inland from Deal. He was a scion of the Boys family who had arrived with William the Conqueror, and whose members had lived in East Kent since at least the fourteenth century, notably at Fredville near Nonington between the fifteenth and seventeenth centuries, as well as at Betteshanger from the early seventeenth century.[^ref2]  However, Boys was a tenant farmer, rather than an owner. An earlier, distantly related Boys, Edward Grotius (1679-1706), had died without issue and bequeathed the Betteshanger estate to a cousin who sold it the Morrice family in about 1713, from whom John Boys leased the property.[^ref3]  
-<param ve-map title="Betteshanger" center="Q4898591" zoom="12" prefer-geojson show-labels>
+<param ve-map title="Betteshanger" center="Q4898591" zoom="12">
 
 The Morrice family sold the Betteshanger estate in 1850 to Sir Walter James, who in 1884 became Lord Northbourne. His descendent, the fourth [Lord Northbourne](/20c/20c-northbourne-biography), would follow in Boys’ footsteps, confirming Betteshanger as an important crucible of agricultural wisdom and innovation when he held the 1939 Betteshanger Summer School and Conference on Bio-dynamic Farming, and by coining the term ‘organic farming’ in _Look to the Land_,  his seminal work of 1940.[^ref4] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Home_Farm_and_Home_Farm_cottages%2C_Little_Betteshanger._-_geograph.org.uk_-_304375.jpg" label="Home Farm and Home Farm cottages, Little Betteshanger" attribution="Nick Smith" license="CC BY-SA 2.0">
-<param ve-map title="Betteshanger" center="Q4898591" zoom="12" prefer-geojson show-labels>
+<param ve-map title="Betteshanger" center="Q4898591" zoom="12">
  
 **A General view of the agriculture of the county of Kent**   
 Boys’ report extends to over 200 pages, and he begins by describing the county of Kent, giving its location and dimensions, and then moves on to a description of its [geography](/landscape): the two chains of hills, the Isles of Thanet and Sheppey, the Weald, and Romney Marsh. He highlights the many different types of soil which account for the various systems of management and production, and describes the types of buildings and the modes of occupation of farms, including leases, tithes, rents and poor rates. 
