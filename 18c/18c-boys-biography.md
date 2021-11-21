@@ -15,12 +15,13 @@ Sweet is the country, because full of riches;
 The people liberal, valiant, active, wealthy.   
 (Shakespeare, _Second Part of King Henry VI_, Act V, Scene 7)   
 
-This epigraph, which clearly underlines his affection for and pride in Kent, was given by John Boys to _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_ which he prepared for the Board of Agriculture and which appeared in 1796. His original version had appeared in 1794, and this was an expanded and revised edition in line with the uniform model provided by the Board of Agriculture, so that ‘information respecting the State of the kingdom, and Agricultural Knowledge in general, will be attainable with every possible advantage’ (Boys 1796, ix). It is possible that he was invited to compile this report because he was one of the Stewards of the Kent Society for the Encouragement of Agriculture and Industry, established in Canterbury a few years earlier in January 1793. https://vufind.org/advanced_demo/Record/1028040  (1)
+This epigraph, which clearly underlines his affection for and pride in Kent, was given by John Boys to _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_ which he prepared for the Board of Agriculture and which appeared in 1796. His original version had appeared in 1794, and this was an expanded and revised edition in line with the uniform model provided by the Board of Agriculture, so that ‘information respecting the State of the kingdom, and Agricultural Knowledge in general, will be attainable with every possible advantage’ (Boys 1796, ix). It is possible that he was invited to compile this report because he was one of the Stewards of the Kent Society for the Encouragement of Agriculture and Industry, established in Canterbury a few years earlier in January 1793.[^ref1]
 
 **Betteshanger**    
 Boys farmed at Betteshanger Home Farm, about five miles inland from Deal. He was a scion of the Boys family who had arrived with William the Conqueror, and whose members had lived in East Kent since at least the fourteenth century, notably at Fredville near Nonington between the fifteenth and seventeenth centuries, as well as at Betteshanger from the early seventeenth century.  However, Boys was a tenant farmer, rather than an owner. An earlier, distantly related Boys, Edward Grotius (1679-1706), had died without issue and bequeathed the Betteshanger estate to a cousin who sold it the Morrice family in about 1713, from whom John Boys leased the property.  
+
 The Morrice family sold the Betteshanger estate in 1850 to Sir Walter James, who in 1884 became Lord Northbourne. His descendent, the fourth [Lord Northbourne](/20c/20c-northbourne-biography), would follow in Boys’ footsteps, confirming Betteshanger as an important crucible of agricultural wisdom and innovation when he held the 1939 Betteshanger Summer School and Conference on Bio-dynamic Farming, and by coining the term ‘organic farming’ in _Look to the Land_,  his seminal work of 1940. http://www.dover-kent.com/VILLAGES/24-Betteshanger.html 
- https://commons.wikimedia.org/wiki/File:Home_Farm_and_Home_Farm_cottages,_Little_Betteshanger._-_geograph.org.uk_-_304375.jpg
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Home_Farm_and_Home_Farm_cottages%2C_Little_Betteshanger._-_geograph.org.uk_-_304375.jpg" label="Home Farm and Home Farm cottages, Little Betteshanger" attribution="Nick Smith" license="CC BY-SA 2.0">
  
 **A General view of the agriculture of the county of Kent**   
 Boys’ report extends to over 200 pages, and he begins by describing the county of Kent, giving its location and dimensions, and then moves on to a description of its [geography](/landscape): the two chains of hills, the Isles of Thanet and Sheppey, the Weald, and Romney Marsh. He highlights the many different types of soil which account for the various systems of management and production, and describes the types of buildings and the modes of occupation of farms, including leases, tithes, rents and poor rates. 
@@ -61,6 +62,33 @@ The house [pertaining to the estate of Little Betteshanger] is large, and has be
 Boys and his wife later moved from Betteshanger to Each End, between Ash and Wingham. He is buried at St Mary the Virgin, Wingham, where there is a memorial to him. (8)
 
 ### References
+
+[^ref1]: https://vufind.org/advanced_demo/Record/1028040
+[^ref2]: An extensive Boys pedigree is found at https://www.kent-opc.org/families/BOYSMediaeval30.pdf
+John Boys first appears on page 40, and his descendants start at page 60. Other Betteshanger Boys, many of whom have memorials in the Church of St Mary the Virgin, Betteshanger, are found on page 25. See also https://www.kentarchaeology.org.uk/Research/Pub/ArchCant/Vol.079%20-%201964/079-04.pdf
+[^ref3]: https://www.british-history.ac.uk/survey-kent/vol10/pp44-49 
+[^ref4]: http://www.dover-kent.com/VILLAGES/24-Betteshanger.html 
+[^ref1]:  Boys 1796, 51.
+[^ref1]:  Boys 1796, 57-61.
+[^ref1]:Cobbett, 205.
+[^ref1]:  Cobbett, 196.  
+[^ref1]:  Boys 1796, 4.
+[^ref1]:  Boys 1796, 110.
+[^ref1]:  Boys 1796, between 126 and 127.
+[^ref1]:  Here Boys is citing R. Tilden, 1796, 125.
+[^ref1]:  Boys 1796, 117.
+[^ref1]:    Boys 1796, 147.
+[^ref1]:  Boys 1796, 148.
+[^ref1]:  Boys 1796, facing page 24.
+[^ref1]:  Cobbett, 213.
+[^ref1]:  Boys, 1796 132-133.
+[^ref1]:Boys 1796, 168.
+[^ref1]:  Boys 1794, 90.
+[^ref1]:  Boys, 198-199.This was twenty years before Napoleon arrived on St Helena. By coincidence, John Boys’ fourth son, Richard, was a chaplain in the East India Company, serving at St Helena at the time of Napoleon’s exile.
+
+
+
+### Bibliography
 
 Boys, John. _General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_. P. Norbury, 1794. (There is a copy in the Historical Collection in the Augustine House Library of CCCU, class mark 333.76094223 BOY.)   
 --. _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_. G. Nicol, 1796.   
