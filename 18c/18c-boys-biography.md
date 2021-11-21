@@ -24,6 +24,7 @@ banner="/images/banners/18c.jpg">
 <param ve-entity eid="Q26530206" aliases="Cottington">
 <param ve-entity eid="Q1540243" aliases="Stour">
 <param ve-entity eid="Q4898591" aliases="Betteshanger">
+<param ve-entity eid="Q3141352" aliases="Nonington">
                      
 #                      
 
@@ -31,7 +32,7 @@ Kent, in the Commentaries Caesar writ,
 Is term’d the civill’st place of all this isle:   
 Sweet is the country, because full of riches;   
 The people liberal, valiant, active, wealthy.   
-(Shakespeare, _Second Part of King Henry VI_, Act V, Scene 7)   
+(Shakespeare, _Second Part of King Henry VI_, Act V, Sc. 7)   
 <br>
 This epigraph, which clearly underlines his affection for and pride in Kent, was given by John Boys to _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_ which he prepared for the Board of Agriculture and which appeared in 1796. His original version had appeared in 1794, and this was an expanded and revised edition in line with the uniform model provided by the Board of Agriculture, so that ‘information respecting the State of the kingdom, and Agricultural Knowledge in general, will be attainable with every possible advantage’ (Boys 1796, ix). It is possible that he was invited to compile this report because he was one of the Stewards of the Kent Society for the Encouragement of Agriculture and Industry, established in Canterbury a few years earlier in January 1793.[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1d/%27Taking_in_New_Hay_and_stacking_it_Jun_74%27_%28Bray_album%29_RMG_PT1977.tiff" label="Taking in new hay and stacking it, possibly Kent, June 1774" attribution="Gabriel Bray, Public domain, via Wikimedia Commons">
@@ -58,7 +59,7 @@ Boys is writing fifty years after ‘Turnip’ Townshend’s introduction of the
 In short, is there another district in Great Britain, or in the World, of the same extent, in such a perfect state of cultivation, where the Farmers are so wealthy and intelligent, where land, naturally of so inferior a quality, is let for so much money and produces such abundant crops?[^ref11]
 <br><br>
 Hay is usually set up in stacks, either in the marshes near a foddering lodge, or in farm-yards near the marshes for fattening bullock. Boys gives a hint of the burgeoning importance of Thanet as a resort from the mid-eighteenth century when he notes that hay is sold to innkeepers at Margate or Ramsgate.[^ref12]  
-<param ve-map center="Q1752642" zoom="12">
+<param ve-map center="Q1752642" zoom="10">
 
 **Woodlands, hops and orchards**   
 Boys reproduces a table detailing various woodlands in the county.[^ref13]  He tells us that the woodlands between Chatham Hill and Charing provide poles, stakes and binders of various lengths. The best are cut from chestnut, ash, willow and maple, while the second best are cut from oak, gascoign (a form of wild cherry), red birch, beech and hornbeam. Stakes and binders are also cut from hazel. Props to be used in the coal-mines at Newcastle are cut from oak and birch, six feet four or five inches long.[^ref14]
@@ -67,7 +68,7 @@ Boys reproduces a table detailing various woodlands in the county.[^ref13]  He t
 
 Other poles would be used for hops. The Hop Grounds in the vicinity of Canterbury and Maidstone are the principle ones in the county, with those of Canterbury superior to those of Maidstone.[^ref15]  This contemporary hop field lies between Ash and Wingham, just south of Canterbury and two or three miles from Each End where Boys moved to when he left Betteshanger and somewhere he would have known well.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/73/Hop_Fields_along_Pedding_Lane_-_geograph.org.uk_-_1974865.jpg" label="Hop Fields along Pedding Lane" attribution="Oast House Archive" license="CC BY-SA 2.0">
-<param ve-map center="Q2632094" zoom="12">
+<param ve-map center="Q2632094" zoom="10">
 
 The area around Maidstone has plenty of orchards, principally apples and cherries, as it does today, as well as filbert plantations. Apples are grown both for cider and for domestic use, and among those Boys lists are varieties still grown commercially today such as royal russet and Ribstone pippin, while others are still available from specialist nurseries. Apples were shipped along the Medway and thence to London and also to Newcastle in returning colliers. The bulk of the filbert harvest was shipped to London. The area around Sandwich also had plenty of orchards.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/38/Cherry_orchard_-_geograph.org.uk_-_4704.jpg" label="Cherry Orchard near Torry Hill, Sittingbourne" attribution="Penny Mayes" license="CC BY-SA 2.0">
@@ -75,7 +76,7 @@ The area around Maidstone has plenty of orchards, principally apples and cherrie
 
 **Livestock**   
 Boys devotes a chapter to livestock, starting with cattle, saying there is ‘no particular breed which may be allowed the appellation of Kentish Cattle’.[^ref16]  The beef cattle are bought in from Wales by graziers to be fattened on the Kent marshes until they are fit for the butcher. For the most part, dairy cows are selected from the Welsh droves, but in recent years a few dairy cows, remarkable for the richness of their milk, have been brought from Alderney and Guernsey ‘for the use of the dairies of gentlemens [sic] families’.[^ref17]  Moving on to sheep, he observes that Kent has long been famous for the Romney Marsh breed, known at Smithfield Market as Kent sheep, valuable not only for their meat, but for their very long fine wool. While Boys himself seems to have had a reputation for his South Downs sheep, being complimented on five South Down ewes which he exhibited at Lord Somerville’s Spring Cattle Show in 1809, he makes little mention of this breed in his Survey, apart from the illustration of ‘A Small South Down Ram belonging to Mr. Boys’.[^ref18]  Cobbett comments on how, when having travelled across East Kent he arrives near Tonbridge where he begins to see South Down sheep again for the first since he left Tenterden, implying that he saw none in the area east of those towns.[^ref19]  Apart from sheep, the main livestock production of the county at large includes horses, hogs, poultry, rabbits, pigeons and bees.
-<param ve-map center="Q1506093" zoom="12">
+<param ve-map center="Q1506093" zoom="10">
 
 **Land Improvement/Obstacles to improvement**   
 Boys begins his chapter on ‘Improvements’ with a section on drainage, saying that this is a subject of infinite importance to the prosperity of the kingdom, and he describes the various methods of draining. As one of Kent’s commissioners for sewers, dealing with land drainage and flood defence, Boys was involved in the drainage of the marshes around Eastry and Finglesham Brooks, streams which break through the chalk ridge at Hacklinge between Deal and Sandwich, and feed into the North Stream and thence into the Stour. He describes a pump driven by a wind mill installed at Cottington, on the seaward side of the ridge. Mill pumps of this kind had been found in the Cambridgeshire Fens from the later sixteenth century, but the manner in which Boys singles this out suggests it is an innovation in East Kent.[^ref20] 
