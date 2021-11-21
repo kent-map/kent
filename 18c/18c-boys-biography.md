@@ -63,6 +63,7 @@ Hay is usually set up in stacks, either in the marshes near a foddering lodge, o
 
 **Woodlands, hops and orchards**   
 Boys reproduces a table detailing various woodlands in the county.[^ref13]  He tells us that the woodlands between Chatham Hill and Charing provide poles, stakes and binders of various lengths. The best are cut from chestnut, ash, willow and maple, while the second best are cut from oak, gascoign (a form of wild cherry), red birch, beech and hornbeam. Stakes and binders are also cut from hazel. Props to be used in the coal-mines at Newcastle are cut from oak and birch, six feet four or five inches long.[^ref14]
+<param ve-image url="https://stor.artstor.org/stor/c7b86f66-bc0f-474f-9257-c9a742e4c6fe" label="Hop picking in the early 19th century" attribution="Copyright Martin Crowther">
 <param ve-map title="Charing" center="Q2005288" zoom="12" prefer-geojson show-labels>
 
 Other poles would be used for hops. The Hop Grounds in the vicinity of Canterbury and Maidstone are the principle ones in the county, with those of Canterbury superior to those of Maidstone.[^ref15]  This contemporary hop field lies between Ash and Wingham, just south of Canterbury and two or three miles from Each End where Boys moved to when he left Betteshanger and somewhere he would have known well.
