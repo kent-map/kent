@@ -25,10 +25,7 @@ banner="/images/banners/18c.jpg">
 <param ve-entity eid="Q26530206" aliases="Cottington">
 <param ve-entity eid="Q1540243" aliases="Stour">
 <param ve-entity eid="Q4898591" aliases="Betteshanger">
-
-<!-- Historical map layers -->
-<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820">
-                      
+                     
 #                      
 
 Kent, in the Commentaries Caesar writ,   
@@ -92,6 +89,7 @@ In a short concluding chapter, Boys lists the principle obstacles to the general
 
 **Highways**   
 Boys considers the highways, and observes that while the principal road in the county, from London to Canterbury, is ‘kept in excellent order by the commissioners’, it is ‘somewhat extraordinary that their power is not extended eastward to Deal, where there is such a resort of shipping’[^ref21]  (Boys was writing shortly before the Napoleonic wars when Admiral Lord Nelson would set up his shore Headquarters in what is now the Royal Hotel in Deal). He notes that the turnpike roads are in general good, apart from some in the Weald which are very frequently impassable in winter. In the first version of his Review he tells us that the difference between the shoulders of the axle trees of waggons and carts is two inches greater in the eastern part of Kent than it is in Sittingbourne, and two inches less in the western part of Kent, making it difficult for carriages from one part of the district to pass in the deep channels of the other.[^ref22]  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Royal_Hotel%2C_Beach_Street%2C_Deal_-_geograph.org.uk_-_957769.jpg" label="The Royal Hotel, Beach Street, Deal" attribution="John Salmon" license="CC BY-SA 2.0">
 <param ve-map center="Q1011096" zoom="12">
 
 **Boys the innovator**   
@@ -106,6 +104,14 @@ The house [pertaining to the estate of Little Betteshanger] is large, and has be
 Boys and his wife later moved from Betteshanger to Each End, between Ash and Wingham. He is buried at St Mary the Virgin, Wingham, where there is a memorial to him.
 <param ve-image url="https://stor.artstor.org/stor/6b64c68c-189f-4cdf-af16-519319fcf8a1" label="Boys' memorial in St Mary the Virgin, Wingham" attribution="Steve Sheath">
 <param ve-map center="Q2632094" zoom="12">
+
+### Bibliography
+
+Boys, John. _General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_. P. Norbury, 1794. (There is a copy in the Historical Collection in the Augustine House Library of CCCU, class mark 333.76094223 BOY.)   
+--. _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_. G. Nicol, 1796.   
+Cobbett, William. _Rural Rides_. 1830. Penguin Classics, 1985.   
+Hasted, Edward. 'Parishes: Northborne', in _The History and Topographical Survey of the County of Kent:_ Volume 9 (Canterbury, 1800). 583-604.
+'John Boys' [_Dictionary of National Biography_](https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Boys,_John_(1749-1824))
 
 ### References
 
@@ -135,15 +141,3 @@ John Boys first appears on page 40, and his descendants start at page 60. Other 
 [^ref23]: Boys, 198-199.This was twenty years before Napoleon arrived on St Helena. By coincidence, John Boys’ fourth son, Richard, was a chaplain in the East India Company, serving at St Helena at the time of Napoleon’s exile.
 [^ref24]: https://en.wikisource.org/wiki/Men_of_Kent_and_Kentishmen/John_Boys,_of_Betshanger
 [^ref25]: https://www.british-history.ac.uk/survey-kent/vol9/pp583-604
-
-
-
-### Bibliography
-
-Boys, John. _General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_. P. Norbury, 1794. (There is a copy in the Historical Collection in the Augustine House Library of CCCU, class mark 333.76094223 BOY.)   
---. _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_. G. Nicol, 1796.   
-Cobbett, William. _Rural Rides_. 1830. Penguin Classics, 1985.   
-Hasted, Edward. 'Parishes: Northborne', in _The History and Topographical Survey of the County of Kent:_ Volume 9 (Canterbury, 1800). 583-604.
-'John Boys' [_Dictionary of National Biography_](https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Boys,_John_(1749-1824))
-  
-https://www.wikitree.com/photo/jpg/Boys-333  (1)
