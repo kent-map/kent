@@ -26,7 +26,7 @@ Inside, it was a glorious home for us, with its great old-fashioned hall with da
 Oh, it was a delightful house! But very terrible at dusk. Then we would not have gone along alone those long, dark passages for worlds; for we knew that the bogies, and other strange things of which our old nurse told us, would be sure to be lurking and upon the watch.
 <br><br>
 It was a wonderful house for echoes, and at night we would steal from our beds and creep to the top of the grand staircase, and listen, with hushed breath, to the almost preternaturally loud tick of the old clock in the hall, which seemed to us to get louder and louder, till at last the terrors of the place would be almost too much for us, and, at the sound of some mouse running behind the wainscoting, we would scamper off to our beds, and bury our heads beneath the clothes, falling into a troubled sleep, from which we woke, with terrified starts, until the welcome approach of day, when, as the sun shone brightly in, we would pluck up courage and laugh at our night's fright.
-<param ve-image url="https://stor.artstor.org/stor/d3ceda43-3d48-4edf-9311-29b33c73085f" label="Mulberry Court from the Stour" attribution="Edward Crowther">
+<param ve-image url="https://stor.artstor.org/stor/aa53f9c0-4744-413f-af77-9f8212fe68ed" label="Mulberry Court from the Stour" attribution="Edward Crowther">
 
 Further information on Henty and Canterbury can be found in issue 138 of [_The Henty Society Bulletin_](http://www.hentysociety.org/publications.html) pub. July 2016.
 
