@@ -1,11 +1,17 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="John Boys (1749-1824)" author="Diana" layout="vtl" 
+<param ve-config title="John Boys (1749-1824)" author="Diana Hirst" layout="vtl" 
 banner="/images/banners/18c.jpg">
 
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<!-- <param ve-entity eid="51.24366, 1.33130" aliases="Ham"> -->
-<param ve-entity eid="Q1874946" aliases="Woodchurch">
+<param ve-entity eid="Q1752642" aliases="Thanet">
+<param ve-entity eid="Q1500299" aliases="Sheppey">
+<param ve-entity eid="Q2005288" aliases="Charing">
+<param ve-entity eid="Q213180" aliases="Maidstone">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+<param ve-entity eid="Q1626044" aliases="Sittingbourne">
+<param ve-entity eid="Q4804328" aliases="Ash">
+<param ve-entity eid="Q2632094" aliases="Wingham">
 
 #
 
