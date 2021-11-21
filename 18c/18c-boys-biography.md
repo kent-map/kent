@@ -97,6 +97,7 @@ Boys considers the highways, and observes that while the principal road in the c
 
 **Boys the innovator**   
 Boys was an innovator. Not only did he design the threshing mill described above, he also experimented with the long-term preservation of potatoes by drying, both in slices and as meal. The potatoes were then transported in kegs to St Helena, and were pronounced on arrival to ‘retain the essential qualities of the potatoe [sic], unimpaired, though somewhat altered in colour’.[^ref23]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/38/Potato_stack.jpg" label="Potato stack" attribution="David Adam Kess" license="CC BY-SA 4.0">
 
 **Boys' reputation**   
 According to Gentleman’s Magazine for 1825, Boys’ report was ‘accorded the palm amongst County reports of agriculture, “for soundness of judgment and enlightened practical views”’.[^ref24] 
