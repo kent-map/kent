@@ -48,14 +48,15 @@ The Morrice family sold the Betteshanger estate in 1850 to Sir Walter James, who
 Boys’ report extends to over 200 pages, and he begins by describing the county of Kent, giving its location and dimensions, and then moves on to a description of its [geography](/landscape): the two chains of hills, the Isles of Thanet and Sheppey, the Weald, and Romney Marsh. He highlights the many different types of soil which account for the various systems of management and production, and describes the types of buildings and the modes of occupation of farms, including leases, tithes, rents and poor rates. 
 
 **Implements**
-Boys describes implements used, singling out the Kent turn-wrest plough. For all sorts of soils, and for all required depths of ploughing, it is the best he has ever seen and tried.[^ref5] He moves on to machines for seed drilling, harrows, and carriages called hutches for carrying corn to market. He tells us wheat is reaped with a toothed sickle, while barley and oats are mown with a long scythe and cradle. He describes a threshing mill which he himself designed, and which requires four horses, eight men and four boys to operate, ‘threshing every kind of corn cleaner that it is usually done by the common mode’.  For hop grounds, an oast, built substantially with the ‘requisite stowage room’ is necessary.
+Boys describes implements used, singling out the Kent turn-wrest plough. For all sorts of soils, and for all required depths of ploughing, it is the best he has ever seen and tried.[^ref5] He moves on to machines for seed drilling, harrows, and carriages called hutches for carrying corn to market. He tells us wheat is reaped with a toothed sickle, while barley and oats are mown with a long scythe and cradle. He describes a threshing mill which he himself designed, and which requires four horses, eight men and four boys to operate, ‘threshing every kind of corn cleaner that it is usually done by the common mode’.[^ref6]  For hop grounds, an oast, built substantially with the ‘requisite stowage room’ is necessary.[^ref7]
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
-(3)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moorgatebooks.com%2F09%2Fanne-de-bourgh-heiress-landowner-change-leader%2Fturn-wrest-plow-boys-1796-pdf-p-71-jpeg%2F&psig=AOvVaw0zsZ8ybzOaepMSEKSSYEPy&ust=1633445945162000&source=images&cd=vfe&ved=2ahUKEwimsOu7grHzAhVI-4UKHYjeBp4Qr4kDegQIARBF
 
 **Crops: rotation and fallowing**   
-Boys is writing fifty years after ‘Turnip’ Townshend’s introduction of the Norfolk four-course rotation scheme whereby instead of a fallow year turnips and clover are planted alternately with wheat and other cereals to replenish the nitrogen in the soil. He remarks that ‘[t]here is not any part of agriculture which has occasioned more discussion and controversy among writers on husbandry, than this subject of Fallowing’.  In all he lists nine different systems found in the county, rotating over periods of three to seven years. He details the various crops: most commonly grown are wheat, barley, beans, oats, peas, canary seed, radish seed, turnips and cole (rape) seed, while some less often grown include tares (a vetch), clover, trefoil, sainfoin, lucern, burnet, spinach, kidney beans, cress, potatoes, flax, cabbage, and two plants used for dyeing, woad and madder. However, while he is even-handed, from his detailed instructions on how to make a good fallow, it is difficult not to believe that he himself favoured fallowing. Nevertheless, twenty-five years later William Cobbett would find very few fallow fields in Thanet, writing: ‘When I got upon the corn land in the Isle of Thanet, I got into a garden indeed. There is hardly any fallow; comparatively few turnhips [sic]. It is a country of corn’.  Cobbett frequently remarks on the excellence of the wheat crop when in early September 1823 he passes from Folkestone via Dover to Thanet, ‘that spot so famous for corn’.  Here Cobbett is echoing Boys who remarks: 
-In short, is there another district in Great Britain, or in the World, of the same extent, in such a perfect state of cultivation, where the Farmers are so wealthy and intelligent, where land, naturally of so inferior a quality, is let for so much money and produces such abundant crops? 
-Hay is usually set up in stacks, either in the marshes near a foddering lodge, or in farm-yards near the marshes for fattening bullock. Boys gives a hint of the burgeoning importance of Thanet as a resort from the mid-eighteenth century when he notes that hay is sold to innkeepers at Margate or Ramsgate.  
+Boys is writing fifty years after ‘Turnip’ Townshend’s introduction of the Norfolk four-course rotation scheme whereby instead of a fallow year turnips and clover are planted alternately with wheat and other cereals to replenish the nitrogen in the soil. He remarks that ‘[t]here is not any part of agriculture which has occasioned more discussion and controversy among writers on husbandry, than this subject of Fallowing’.[^ref8] In all he lists nine different systems found in the county, rotating over periods of three to seven years. He details the various crops: most commonly grown are wheat, barley, beans, oats, peas, canary seed, radish seed, turnips and cole (rape) seed, while some less often grown include tares (a vetch), clover, trefoil, sainfoin, lucern, burnet, spinach, kidney beans, cress, potatoes, flax, cabbage, and two plants used for dyeing, woad and madder. However, while he is even-handed, from his detailed instructions on how to make a good fallow, it is difficult not to believe that he himself favoured fallowing. Nevertheless, twenty-five years later William Cobbett would find very few fallow fields in Thanet, writing: ‘When I got upon the corn land in the Isle of Thanet, I got into a garden indeed. There is hardly any fallow; comparatively few turnhips [sic]. It is a country of corn’.[^ref9]  Cobbett frequently remarks on the excellence of the wheat crop when in early September 1823 he passes from Folkestone via Dover to Thanet, ‘that spot so famous for corn’.[^ref10]  Here Cobbett is echoing Boys who remarks: 
+<br>
+In short, is there another district in Great Britain, or in the World, of the same extent, in such a perfect state of cultivation, where the Farmers are so wealthy and intelligent, where land, naturally of so inferior a quality, is let for so much money and produces such abundant crops?[^ref11]
+<br>
+Hay is usually set up in stacks, either in the marshes near a foddering lodge, or in farm-yards near the marshes for fattening bullock. Boys gives a hint of the burgeoning importance of Thanet as a resort from the mid-eighteenth century when he notes that hay is sold to innkeepers at Margate or Ramsgate.[^ref12]  
 <param ve-map title="Canterbury" center="Q29303" zoom="12" prefer-geojson show-labels>
 
 **Woodlands, hops and orchards**   
@@ -102,12 +103,13 @@ John Boys first appears on page 40, and his descendants start at page 60. Other 
 [^ref3]: https://www.british-history.ac.uk/survey-kent/vol10/pp44-49 
 [^ref4]: http://www.dover-kent.com/VILLAGES/24-Betteshanger.html 
 [^ref5]: https://www.agriculturalmuseumbrook.org.uk/explore/collections/plough
-[^ref1]:  Boys 1796, 51.
-[^ref1]:  Boys 1796, 57-61.
-[^ref1]:Cobbett, 205.
-[^ref1]:  Cobbett, 196.  
-[^ref1]:  Boys 1796, 4.
-[^ref1]:  Boys 1796, 110.
+[^ref6]:  Boys 1796, 51.
+[^ref7]: https://www.moorgatebooks.com/
+[^ref8]:  Boys 1796, 57-61.
+[^ref9]: Cobbett, 205.
+[^ref10]: Cobbett, 196.  
+[^ref11]: Boys 1796, 4.
+[^ref12]:  Boys 1796, 110.
 [^ref1]:  Boys 1796, between 126 and 127.
 [^ref1]:  Here Boys is citing R. Tilden, 1796, 125.
 [^ref1]:  Boys 1796, 117.
