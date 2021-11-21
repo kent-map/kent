@@ -12,6 +12,8 @@ banner="/images/banners/18c.jpg">
 <param ve-entity eid="Q1626044" aliases="Sittingbourne">
 <param ve-entity eid="Q4804328" aliases="Ash">
 <param ve-entity eid="Q2632094" aliases="Wingham">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q179224" aliases="Dover">
 
 #
 
@@ -24,16 +26,16 @@ The people liberal, valiant, active, wealthy.
 This epigraph, which clearly underlines his affection for and pride in Kent, was given by John Boys to _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_ which he prepared for the Board of Agriculture and which appeared in 1796. His original version had appeared in 1794, and this was an expanded and revised edition in line with the uniform model provided by the Board of Agriculture, so that ‘information respecting the State of the kingdom, and Agricultural Knowledge in general, will be attainable with every possible advantage’ (Boys 1796, ix). It is possible that he was invited to compile this report because he was one of the Stewards of the Kent Society for the Encouragement of Agriculture and Industry, established in Canterbury a few years earlier in January 1793.[^ref1]
 
 **Betteshanger**    
-Boys farmed at Betteshanger Home Farm, about five miles inland from Deal. He was a scion of the Boys family who had arrived with William the Conqueror, and whose members had lived in East Kent since at least the fourteenth century, notably at Fredville near Nonington between the fifteenth and seventeenth centuries, as well as at Betteshanger from the early seventeenth century.  However, Boys was a tenant farmer, rather than an owner. An earlier, distantly related Boys, Edward Grotius (1679-1706), had died without issue and bequeathed the Betteshanger estate to a cousin who sold it the Morrice family in about 1713, from whom John Boys leased the property.  
+Boys farmed at Betteshanger Home Farm, about five miles inland from Deal. He was a scion of the Boys family who had arrived with William the Conqueror, and whose members had lived in East Kent since at least the fourteenth century, notably at Fredville near Nonington between the fifteenth and seventeenth centuries, as well as at Betteshanger from the early seventeenth century.[^ref2]  However, Boys was a tenant farmer, rather than an owner. An earlier, distantly related Boys, Edward Grotius (1679-1706), had died without issue and bequeathed the Betteshanger estate to a cousin who sold it the Morrice family in about 1713, from whom John Boys leased the property.[^ref3]  
 
-The Morrice family sold the Betteshanger estate in 1850 to Sir Walter James, who in 1884 became Lord Northbourne. His descendent, the fourth [Lord Northbourne](/20c/20c-northbourne-biography), would follow in Boys’ footsteps, confirming Betteshanger as an important crucible of agricultural wisdom and innovation when he held the 1939 Betteshanger Summer School and Conference on Bio-dynamic Farming, and by coining the term ‘organic farming’ in _Look to the Land_,  his seminal work of 1940. http://www.dover-kent.com/VILLAGES/24-Betteshanger.html 
+The Morrice family sold the Betteshanger estate in 1850 to Sir Walter James, who in 1884 became Lord Northbourne. His descendent, the fourth [Lord Northbourne](/20c/20c-northbourne-biography), would follow in Boys’ footsteps, confirming Betteshanger as an important crucible of agricultural wisdom and innovation when he held the 1939 Betteshanger Summer School and Conference on Bio-dynamic Farming, and by coining the term ‘organic farming’ in _Look to the Land_,  his seminal work of 1940.[^ref4] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Home_Farm_and_Home_Farm_cottages%2C_Little_Betteshanger._-_geograph.org.uk_-_304375.jpg" label="Home Farm and Home Farm cottages, Little Betteshanger" attribution="Nick Smith" license="CC BY-SA 2.0">
  
 **A General view of the agriculture of the county of Kent**   
 Boys’ report extends to over 200 pages, and he begins by describing the county of Kent, giving its location and dimensions, and then moves on to a description of its [geography](/landscape): the two chains of hills, the Isles of Thanet and Sheppey, the Weald, and Romney Marsh. He highlights the many different types of soil which account for the various systems of management and production, and describes the types of buildings and the modes of occupation of farms, including leases, tithes, rents and poor rates. 
 
 **Implements**
-Boys describes implements used, singling out the Kent turn-wrest plough. For all sorts of soils, and for all required depths of ploughing, it is the best he has ever seen and tried. https://www.agriculturalmuseumbrook.org.uk/explore/collections/plough He moves on to machines for seed drilling, harrows, and carriages called hutches for carrying corn to market. He tells us wheat is reaped with a toothed sickle, while barley and oats are mown with a long scythe and cradle. He describes a threshing mill which he himself designed, and which requires four horses, eight men and four boys to operate, ‘threshing every kind of corn cleaner that it is usually done by the common mode’.  For hop grounds, an oast, built substantially with the ‘requisite stowage room’ is necessary.
+Boys describes implements used, singling out the Kent turn-wrest plough. For all sorts of soils, and for all required depths of ploughing, it is the best he has ever seen and tried.[^ref5] He moves on to machines for seed drilling, harrows, and carriages called hutches for carrying corn to market. He tells us wheat is reaped with a toothed sickle, while barley and oats are mown with a long scythe and cradle. He describes a threshing mill which he himself designed, and which requires four horses, eight men and four boys to operate, ‘threshing every kind of corn cleaner that it is usually done by the common mode’.  For hop grounds, an oast, built substantially with the ‘requisite stowage room’ is necessary.
 (3)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moorgatebooks.com%2F09%2Fanne-de-bourgh-heiress-landowner-change-leader%2Fturn-wrest-plow-boys-1796-pdf-p-71-jpeg%2F&psig=AOvVaw0zsZ8ybzOaepMSEKSSYEPy&ust=1633445945162000&source=images&cd=vfe&ved=2ahUKEwimsOu7grHzAhVI-4UKHYjeBp4Qr4kDegQIARBF
 
 **Crops: rotation and fallowing**   
@@ -74,6 +76,7 @@ Boys and his wife later moved from Betteshanger to Each End, between Ash and Win
 John Boys first appears on page 40, and his descendants start at page 60. Other Betteshanger Boys, many of whom have memorials in the Church of St Mary the Virgin, Betteshanger, are found on page 25. See also https://www.kentarchaeology.org.uk/Research/Pub/ArchCant/Vol.079%20-%201964/079-04.pdf
 [^ref3]: https://www.british-history.ac.uk/survey-kent/vol10/pp44-49 
 [^ref4]: http://www.dover-kent.com/VILLAGES/24-Betteshanger.html 
+[^ref5]: https://www.agriculturalmuseumbrook.org.uk/explore/collections/plough
 [^ref1]:  Boys 1796, 51.
 [^ref1]:  Boys 1796, 57-61.
 [^ref1]:Cobbett, 205.
