@@ -49,7 +49,7 @@ The Morrice family sold the Betteshanger estate in 1850 to Sir Walter James, who
  
 **A General view of the agriculture of the county of Kent**   
 Boys’ report extends to over 200 pages, and he begins by describing the county of Kent, giving its location and dimensions, and then moves on to a description of its [geography](/landscape): the two chains of hills, the Isles of Thanet and Sheppey, the Weald, and Romney Marsh. He highlights the many different types of soil which account for the various systems of management and production, and describes the types of buildings and the modes of occupation of farms, including leases, tithes, rents and poor rates. 
-<param ve-image url="https://stor.artstor.org/stor/28f41aa7-4b9e-481f-a997-c8d43f536e94" label="Map engraved for John Boys">
+<param ve-image url="https://stor.artstor.org/stor/28f41aa7-4b9e-481f-a997-c8d43f536e94" label="Map engraved for John Boys" attribution="© Augustine House Library, Canterbury Christ Church University">
 
 **Implements**   
 Boys describes implements used, singling out the Kent turn-wrest plough. For all sorts of soils, and for all required depths of ploughing, it is the best he has ever seen and tried.[^ref5] He moves on to machines for seed drilling, harrows, and carriages called hutches for carrying corn to market. He tells us wheat is reaped with a toothed sickle, while barley and oats are mown with a long scythe and cradle. He describes a threshing mill which he himself designed, and which requires four horses, eight men and four boys to operate, ‘threshing every kind of corn cleaner that it is usually done by the common mode’.[^ref6]  For hop grounds, an oast, built substantially with the ‘requisite stowage room’ is necessary.[^ref7]
@@ -57,7 +57,7 @@ Boys describes implements used, singling out the Kent turn-wrest plough. For all
 
 **Crops: rotation and fallowing**   
 Boys is writing fifty years after ‘Turnip’ Townshend’s introduction of the Norfolk four-course rotation scheme whereby instead of a fallow year turnips and clover are planted alternately with wheat and other cereals to replenish the nitrogen in the soil. He remarks that ‘[t]here is not any part of agriculture which has occasioned more discussion and controversy among writers on husbandry, than this subject of Fallowing’.[^ref8] In all he lists nine different systems found in the county, rotating over periods of three to seven years. He details the various crops: most commonly grown are wheat, barley, beans, oats, peas, canary seed, radish seed, turnips and cole (rape) seed, while some less often grown include tares (a vetch), clover, trefoil, sainfoin, lucern, burnet, spinach, kidney beans, cress, potatoes, flax, cabbage, and two plants used for dyeing, woad and madder. However, while he is even-handed, from his detailed instructions on how to make a good fallow, it is difficult not to believe that he himself favoured fallowing. 
-<param ve-image url="https://stor.artstor.org/stor/439a71e9-2c05-4dcf-b3f6-9a5448eed90d" label="Crop rotation" attribution="John Boys">
+<param ve-image url="https://stor.artstor.org/stor/439a71e9-2c05-4dcf-b3f6-9a5448eed90d" label="Crop rotation, John Boys" attribution="© Augustine House Library, Canterbury Christ Church University">
 <param ve-map center="Q1752642" zoom="10">
 
 
@@ -88,7 +88,7 @@ Boys devotes a chapter to livestock, starting with cattle, saying there is ‘no
 <param ve-map center="Q614560" zoom="10">
 
 While Boys himself seems to have had a reputation for his South Downs sheep, being complimented on five South Down ewes which he exhibited at Lord Somerville’s Spring Cattle Show in 1809, he makes little mention of this breed in his Survey, apart from the illustration of ‘A Small South Down Ram belonging to Mr. Boys’.[^ref18]  Cobbett comments on how, when having travelled across East Kent he arrives near Tonbridge where he begins to see South Down sheep again for the first since he left Tenterden, implying that he saw none in the area east of those towns.[^ref19]  Apart from sheep, the main livestock production of the county at large includes horses, hogs, poultry, rabbits, pigeons and bees.
-<param ve-image url="https://stor.artstor.org/stor/88d2f112-4ba0-4117-a87a-238e090cd846" label="A small south down ram belonging to Mr Boys" attribution="H.Boys fecit">
+<param ve-image url="https://stor.artstor.org/stor/88d2f112-4ba0-4117-a87a-238e090cd846" label="A small south down ram belonging to Mr Boys" attribution="H.Boys fecit © Augustine House Library, Canterbury Christ Church University">
 <param ve-map center="Q614560" zoom="10">
 
 **Land Improvement/Obstacles to improvement**   
@@ -99,7 +99,7 @@ Boys begins his chapter on ‘Improvements’ with a section on drainage, saying
 His other sections include paring and burning, and manuring: as well as dung he advocates seaweed which is plentiful around the coast. He lists waste lands, neglected woods, and impoverished commons, and says he is taking the liberty of suggesting to the Board of Agriculture that they should approach the legislature with the view to introducing an act of inclosure, in order to put these lands under proper systems of management.
 <br>
 In a short concluding chapter, Boys lists the principle obstacles to the general improvement of the county which include the payment of tithes in kind, the corn-laws, and the prohibition to export wool in its raw state. He also lists the rights of commonage on heathlands as being an obstacle to their improvement, along with short leases which offer no incentive to improve the land.
-<param ve-image url="https://stor.artstor.org/stor/2b7f39a7-b9a8-4bf5-9eb8-bce9bd32ddb8" label="Survey of Woods" attribution="John Boys">
+<param ve-image url="https://stor.artstor.org/stor/2b7f39a7-b9a8-4bf5-9eb8-bce9bd32ddb8" label="Survey of Woods by John Boys" attribution="© Augustine House Library, Canterbury Christ Church University">
 <param ve-map center="Q5637324" zoom="12">
 
 **Highways**   
