@@ -7,7 +7,7 @@ banner="/images/banners/19c.jpg">
 #
 
 George Alfred Henty who wrote as G A Henty was a Crimean War correspondent as well as a prolific author. In his day his books sold millions of copies. He wrote more than 100, and most, though not all, of his writing is for boys. The books for boys are mainly Historical Fiction covering time periods from the Punic Wars to the practically contemporary settlement by the British of countries like Argentina. Today many of his stories are seen for what they are – Imperialist – but for the most part Henty is simply reflecting the British establishment’s view of the world in Victorian times. 
-<param ve-image url="https://stor.artstor.org/stor/82c3499a-ede2-4442-a0bb-ec3ccd531e99" label="Novels by G.A. Henty" attribution="Augustine House Library, CCCU">
+<param ve-image url="https://stor.artstor.org/stor/82c3499a-ede2-4442-a0bb-ec3ccd531e99" label="Novels by G.A. Henty" attribution="© Augustine House Library, Canterbury Christ Church University">
 
 Henty’s connection with Canterbury is mentioned in his biography by G M Fenn entitled ‘Story of an Active Life’ published in 1907. Fenn advises that Henty came to live in Canterbury when he was five, staying for five years. Research has shown that the Henty family came to live in Canterbury in the winter of 1837/8. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/34/Portrait_of_G._A._Henty.jpg" label="George A. Henty" attribution="Elliott & Fry, Public domain, via Wikimedia Commons">
