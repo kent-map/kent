@@ -49,6 +49,7 @@ The Morrice family sold the Betteshanger estate in 1850 to Sir Walter James, who
  
 **A General view of the agriculture of the county of Kent**   
 Boys’ report extends to over 200 pages, and he begins by describing the county of Kent, giving its location and dimensions, and then moves on to a description of its [geography](/landscape): the two chains of hills, the Isles of Thanet and Sheppey, the Weald, and Romney Marsh. He highlights the many different types of soil which account for the various systems of management and production, and describes the types of buildings and the modes of occupation of farms, including leases, tithes, rents and poor rates. 
+<param ve-image url="https://stor.artstor.org/stor/28f41aa7-4b9e-481f-a997-c8d43f536e94" label="Map engraved for John Boys">
 <param ve-image url="https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41" label="Alexander Hogg's Map of Kent, 1784" attribution="Engraved by Thomas Conder. Fron  Walpole's The New British Traveller, Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
 **Implements**   
