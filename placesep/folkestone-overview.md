@@ -1,5 +1,7 @@
 Folkestone
 
+https://kent-maps.online/churches/steanswythe-folkestone/
+
 https://kent-maps.online/19c/19c-folkestone/
 
 https://kent-maps.online/dickens/dickens-folkestone/
