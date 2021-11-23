@@ -1,5 +1,5 @@
 <param ve-config 
-       title="Places I-P"
+       title="Places E-P"
        banner="/images/banners/19c.jpg"
        layout="index">
 
