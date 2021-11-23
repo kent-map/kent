@@ -35,6 +35,6 @@
 
 - author: Carolyn Oulton
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d08f6d96-830c-4102-97a5-c96b9eb64ef2)
 
 
