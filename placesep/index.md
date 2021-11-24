@@ -12,12 +12,14 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b6683cdb-1799-4a34-b5b4-bf77e9da197d)
 
+##
 **[Gravesend in the 19th century](/19c/19c-gravesend/)**
 
 - author: Hayley Smith
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467)
 
+##
 **[Gravesend in the 20th century](/placesah/gravesend-overview)**
 
 - author: Hayley Smith
