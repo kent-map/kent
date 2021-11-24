@@ -23,7 +23,7 @@
 
 - author: Richard Maltby and Carolyn Oulton
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fb97b8a2-50de-4cae-b35b-7aedb06de42b)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/000006fe-369e-488c-909b-955d19db4123)
 
 
 **[Deal](/seascape/deal/)**
@@ -36,6 +36,6 @@
 
 - author: Carolyn Oulton
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f9da5877-5856-47f5-8469-84de059a2536)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5681241b-c069-45f0-8da5-fecdb173465a)
 
 
