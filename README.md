@@ -117,6 +117,31 @@ Dover and Folkestone become the gateway to the Western Front during WW1. Seaside
 
 Regeneration and the rise of the DFL.
 
+# Essays by place
+
+# {.cards}
+
+##
+[**Places A-D**](/placesad)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573)
+
+Shingly beaches, white cliffs and ferries.
+
+##
+[**Places E-P**](/placesep)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84)
+
+Towns of grandeur.
+
+##
+[**Places Q-Z**](/placesqz)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
+
+Seaside resorts.
+
 # Essays by theme
 
 # {.cards}
