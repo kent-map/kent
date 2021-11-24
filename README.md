@@ -138,7 +138,7 @@ Folkestone and Gravesend
 ##
 [**Places Q-Z**](/placesqz)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
 
 Ramsgate and Sandgate.
 
