@@ -17,14 +17,14 @@ One of the greatest English novelists of all time, Jane Austen visited Kent regu
 <param ve-entity eid="Q17529295" aliases="Godmersham Park">
 
 During her extended stays with her brother, Austen enjoyed frequent trips to [Canterbury](/austen/austen/-canterbury) as well as occasional outings to Ashford, Eastwell Manor, and [Ramsgate](/austen/austen-ramsgate).  She often travelled into Kent via Dartford, where she and her family dined and lodged at the now-demolished Bull and George.  Her first experience of Kent, however, took place in 1788 on a visit to her great uncle Francis Austen in [Sevenoaks](/austen/austen-sevenoaks).  At a grand meal he hosted at his stately Red House, Austen met the wealthiest branch of her family and, likely, drew inspiration for the dinner party at Grants’ rectory in _Mansfield Park_ (1814).[^ref1] (ODNB).  Visits to her brother also offered Austen access to his library, which comprised over 1200 books, among them biographical, historical, and religious writings, periodicals, dictionaries, and maps, as well as the latest novels of the day.[^ref2] (Reading with Austen).
-<param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/7/77/Eastwell_Manor_Hotel%2C_Boughton_Lees_-_geograph.org.uk_-_129089.jpg" label="Eastwell Manor Hotel, Boughton Lees - geograph.org.uk" attribution="Penny Mayes / Eastwell Manor Hotel, Boughton Lees">
+<param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/7/77/Eastwell_Manor_Hotel%2C_Boughton_Lees_-_geograph.org.uk_-_129089.jpg" label="Eastwell Manor Hotel, Boughton Lees - geograph.org.uk" attribution="Penny Mayes / Eastwell Manor Hotel, Boughton Lees" license="CC BY-SA 2.0">
 <param ve-map primary center="Q2540442" zoom="10">
 <param ve-entity eid="Q725261" aliases="Ashford">
 <param ve-entity eid="Q2540442" aliases="Eastwell Manor">
 <param ve-entity eid="Q17545495" aliases="Red House">
 
 Kent locations feature in several of Austen’s novels, and have been used as the sets for modern film and television adaptations as well.  Since at least the turn of the century, literary tourists have been interested in Jane Austen’s Kent connections, and books, guided walks, and place-related talks are now widely on offer. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/31/The_Red_House%2C_Sevenoaks-geograph.org-3419824.jpg" label="The Red House, Sevenoaks -geograph.org" attribution="N. Chadwick / The Red House">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/31/The_Red_House%2C_Sevenoaks-geograph.org-3419824.jpg" label="The Red House, Sevenoaks -geograph.org" attribution="N. Chadwick / The Red House" license="CC BY-SA 2.0">
 
 ### Bibliography 
 Butler, Marilyn.  [Austen, Jane.](https://doi.org/10.1093/ref:odnb/904) [_Oxford Dictionary of National Biography._](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-904)   
