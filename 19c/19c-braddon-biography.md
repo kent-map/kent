@@ -24,7 +24,7 @@ _I believe he invents a name and a Bad every summer, and then goes quietly and l
 
 [_All Along the River_](http://www.gutenberg.org/files/57405/57405-h/57405-h.htm) (1893) invokes [Broadstairs](/dickens/broadstairs-19th-century) only as a foil to the sublime Italian landscape.   
 _Do you see the height of those cliffs, terrace above terrace, hill above hill? Why, that level road at the very bottom is the top of a taller cliff than those I used to think so appalling at Broadstairs and Ramsgate!_
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b7/North_Cliff%2C_near_Broadstairs_-_geograph.org.uk_-_185248.jpg" label="North Cliff, near Broadstairs - geograph.org.uk - 185248.jpg" attribution="Hywel Williams / North Cliff, near Broadstairs">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b7/North_Cliff%2C_near_Broadstairs_-_geograph.org.uk_-_185248.jpg" label="North Cliff, near Broadstairs - geograph.org.uk - 185248.jpg" attribution="Hywel Williams / North Cliff, near Broadstairs" license="CC BY-SA 2.0">
 <param ve-map center="Q84423629" zoom="15">
 
 ### Bibliography
