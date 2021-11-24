@@ -122,21 +122,21 @@ Regeneration and the rise of the DFL.
 # {.cards}
 
 ##
-[**Places A-E**](/seascape)
+[**Places A-D**](/placesad)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
 
 The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
 
 ##
-[**Places **](/seascape)
+[**Places E-P **](/placesep)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
 
 The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
 
 ##
-[**Places**](/seascape)
+[**Places Q-Z**](/placesqz)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
 
