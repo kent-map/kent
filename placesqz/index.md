@@ -10,7 +10,7 @@
 
 - author: Carolyn Oulton
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/274fbd10-415b-4fb3-8a79-3ebaac90a101)
 
 **[Sandgate](/placesqz/sandgate-overview)**
 
