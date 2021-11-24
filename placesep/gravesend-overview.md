@@ -10,7 +10,7 @@ It would be wrong to assume that Gravesend’s national and international connec
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Gravesendmap_1946.jpg" label="Gravesend, 1946" attribution="OS, Public domain, via Wikimedia Commons">
 
 Windmill Hill – a nineteenth century tourist hotspot named after its former windmills and offering visitors extensive views over the Thames – also suffered during the First World War when it was bombed by an Imperial German Navy airship. Today it is possible to see three markers where these bombs hit the site. 
-<br>
+<br><br>
 The first windmill was built on the hill during the reign of Queen Elizabeth I and positioned at the highest point in Gravesend. Unfortunately the mills were destroyed over the years, but Windmill Hill remains one of twenty-four conservation areas in Gravesham. Visitors travelling to Windmill Hill will find the aforementioned markers of the World War I zeppelin bombs alongside a beacon erected on the 400th anniversary of the advance of the Spanish Armada. This beacon was raised and lit in 1988 and resembles the original beacon constructed in 1377 – under King Richard II’s reign – when the Hill was known as ‘Rouge Hill’.[^ref2]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/View_from_Windmill_Hill%2C_Gravesend_-_geograph.org.uk_-_1319868.jpg" label="View from Windmill Hill, Gravesend" attribution="Julia MG" licence="CC BY-SA 2.0">
 
