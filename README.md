@@ -117,6 +117,31 @@ Dover and Folkestone become the gateway to the Western Front during WW1. Seaside
 
 Regeneration and the rise of the DFL.
 
+# Essays by place
+
+# {.cards}
+
+##
+[**Places A-E**](/seascape)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+
+The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
+
+##
+[**Places **](/seascape)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+
+The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
+
+##
+[**Places**](/seascape)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+
+The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
+
 # Essays by theme
 
 # {.cards}
