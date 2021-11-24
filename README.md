@@ -124,23 +124,23 @@ Regeneration and the rise of the DFL.
 ##
 [**Places A-D**](/placesad)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573)
 
-The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
+Dover, Deal and .
 
 ##
-[**Places E-P **](/placesep)
+[**Places E-P**](/placesep)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
 
-The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
+Folkestone and Gravesend
 
 ##
 [**Places Q-Z**](/placesqz)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
 
-The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
+Ramsgate and Sandgate.
 
 # Essays by theme
 
