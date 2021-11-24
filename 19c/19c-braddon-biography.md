@@ -19,7 +19,7 @@ The family lived in Richmond, but in 1878 they were in Broadstairs ‘for a week
 But in her novels Thanet is referenced as a somewhat unadventurous holiday location. In the 1880 _Barbara_ a mother and daughter enjoy ‘a delightful change of air at quiet little Broadstairs, with alternations of gaiety at [Margate](/dickens/19c-margate) and [Ramsgate](/dickens/19c-ramsgate)’. 
 _Gerard, or, The World, The Flesh and The Devil_ (1891) whimsically suggests that a character who spends the summer in ‘some Bad in Bohemia’, identified only as ‘a Bad with a crackjaw name’, never gets further than the Thanet coast:   
 _I believe he invents a name and a Bad every summer, and then goes quietly and lives up the country between Broadstairs and Birchington, and basks all day upon some solitary stretch of sand, or on the edge of some lonely cliff, where the North sea breezes blow above the rippling whiteness of the wheat; and lies in the sunshine, and plans fresh impostures for the winter season._
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Broadstairs-beach.jpg" label="Broadstairs-beach.jpg" attribution="Le Deluge, CC BY-SA 3.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Broadstairs-beach.jpg" label="Broadstairs-beach.jpg" attribution="Le Deluge, via Wikimedia Commons" license="CC BY-SA 3.0">
 <param ve-map center="Q5458845" zoom="15">
 
 [_All Along the River_](http://www.gutenberg.org/files/57405/57405-h/57405-h.htm) (1893) invokes [Broadstairs](/dickens/broadstairs-19th-century) only as a foil to the sublime Italian landscape.   
