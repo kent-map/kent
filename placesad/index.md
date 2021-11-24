@@ -26,7 +26,7 @@
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/000006fe-369e-488c-909b-955d19db4123)
 
 
-**[Deal](/seascape/deal/)**
+**[Deal by the Sea](/seascape/deal/)**
 
 - author: Andrew Sargent
 
