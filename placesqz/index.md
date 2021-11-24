@@ -12,6 +12,7 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/274fbd10-415b-4fb3-8a79-3ebaac90a101)
 
+##
 **[Sandgate](/placesqz/sandgate-overview)**
 
 - author: Michelle Crowther
