@@ -9,7 +9,7 @@
 
 **Pseudonyms: ‘Thomas Hall’, ‘H A’, ‘W A’.**      
 Prolific author William (usually known as Harrison) Ainsworth, born on 4 February 1805, wrote for _The London Magazine_ and had plays and poetry published in numerous journals including _The Edinburgh Magazine_ and _The European Magazine_. His first success, however, came with the 1834 Gothic Romance _Rookwood_ (which invokes [Canterbury](/19c/19c-canterbury)). His literary circle included Samuel Taylor Coleridge, Robert Southey, William Makepeace Thackeray, and many more. He was also close friends with Charles [Dickens](/dickens/dickens-biography) in the 1830s. He died on 3 January 1882.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Rookwood_-_Frontispiece.jpg" label="Rookwood - Frontispiece.jpg" attribution="William Harrison AinsworthArtist Daniel Maclise, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Rookwood_-_Frontispiece.jpg" label="Rookwood - Frontispiece.jpg" attribution="William Harrison Ainsworth, Artist Daniel Maclise, Public domain, via Wikimedia Commons">
 <param ve-map center="Q29303" zoom="15">
 
 THE KNIGHT OF MALTA  
@@ -39,7 +39,7 @@ _'a magnificent coal-black beard decorated the chin of this worthy; but this was
 <param ve-image url="https://www.bl.uk/britishlibrary/~/media/bl/global/dl%20romantics%20and%20victorians/collection-item-images/a/i/n/ainsworth%20w%20h%20rookwood%20m00006%2057.jpg" label="Rookwood; The fourth edition" attribution="Usage terms Public Domain">
 
 Courtenay was a wine-merchant, and after unsuccessfully standing for parliament in [Canterbury](/19c/19c-canterbury) was involved with smuggling. He was then tried and committed to the Kent County Lunatic Asylum. Courtenay was largely believed to be insane even before his incarceration in the asylum, his chief delusion that he would be elected into parliament. Ainsworth captures this in the poem as the knight of Malta sings “For surely I the fittest was, and very proper, very,/To represent the wisdom and the wit of [Canterbury](19c-canterbury).” After his release Courtenay gathered a small band of followers and incited what is known as the Battle of Bossenden Wood (1838) by killing a constable. The battle, otherwise known as ‘The Courtenay Uprising’, took place in a village between [Canterbury](/19c/19c-canterbury) and Faversham and is largely considered to be one the of the last battles fought on English soil.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/80/Bossenden_Wood_-_geograph.org.uk_-_437865.jpg" label="Bossenden Wood - geograph.org.uk - 437865.jpg" attribution="Paul Plumb / Bossenden Wood">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/80/Bossenden_Wood_-_geograph.org.uk_-_437865.jpg" label="Bossenden Wood - geograph.org.uk - 437865.jpg" attribution="Paul Plumb / Bossenden Wood" license="CC BY-SA 2.0">
 <param ve-map center="Q5315106" zoom="15"> 
 
 ### Bibliography
