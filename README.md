@@ -126,21 +126,21 @@ Regeneration and the rise of the DFL.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573)
 
-Dover, Deal and .
+Shingly beaches, white cliffs and ferries.
 
 ##
 [**Places E-P**](/placesep)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84)
 
-Folkestone and Gravesend
+Towns of grandeur.
 
 ##
 [**Places Q-Z**](/placesqz)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
 
-Ramsgate and Sandgate.
+Seaside resorts.
 
 # Essays by theme
 
