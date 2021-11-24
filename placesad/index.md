@@ -6,38 +6,33 @@
 # {.cards}
 
 ##
-**[Ashford](/placesah/ashford-overview)**
+
+**[Broadstairs in the 19th century](/dickens/broadstairs-19th-century/)**
 
 - author: Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
 
-**[Broadstairs](/placesah/broadstairs-overview)**
-
-- author: Carolyn Oulton
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
-
-**[Canterbury](/placesah/canterbury-overview)**
+**[Canterbury in the 19th century](/19c/19c-canterbury/)**
 
 - author: Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fb97b8a2-50de-4cae-b35b-7aedb06de42b)
 
+**[Canterbury in the 20th century](/canterbury/20c-canterbury-home/)**
 
-**[Chatham](/placesah/chatham-overview)**
+- author: Richard Maltby and Carolyn Oulton
 
-- author: Carolyn Oulton
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fb97b8a2-50de-4cae-b35b-7aedb06de42b)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4e856731-aff2-4d72-91b6-01e6e1ab812f)
 
-**[Deal](/placesah/deal-overview)**
+**[Deal](/seascape/deal/)**
 
-- author: Carolyn Oulton
+- author: Andrew Sargent
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/551e553e-279c-4516-bd54-4d5b78366bce)
 
-**[Dover](/placesah/dover-overview)**
+**[Dover in the 19th century](/19c/19c-dover/)**
 
 - author: Carolyn Oulton
 
