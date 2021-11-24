@@ -18,12 +18,3 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ea765a89-16c2-4c5c-8860-b0bc08f507d9)
 
-**[Sheppey](/placesqz/sheppey-overview)**
-
-- author: Carolyn Oulton
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e)
-
-
-
-
