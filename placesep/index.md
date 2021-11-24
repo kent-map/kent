@@ -22,5 +22,5 @@
 
 - author: Hayley Smith
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/19/Gravesend_%2834842865191%29.jpg)
 
