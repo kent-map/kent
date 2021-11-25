@@ -22,6 +22,7 @@
 [Wilkie Collins](19c-collins-biography)   
 [Joseph Conrad](19c-conrad-biography)  
 [Catherine Ann Crowe](19c-crowe-biography)   
+[Richard Dadd](19c-dadd-biography)   
 [Charles Darwin](19c-darwin-biography)   
 [William Dyce](19c-dyce-biography)   
 [Sir John Franklin](19c-franklin-biography)  
