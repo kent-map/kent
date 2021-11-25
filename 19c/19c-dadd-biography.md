@@ -27,3 +27,18 @@ Dadd, Stephen. Letter to David Roberts. 3 September 1843. Bethlem Museum of the 
 ‘Dreadful Murder at Cobham Park’. Standard. 1 September 1843. British Library Newspapers, link.gale.com/apps/doc/R3212181159/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=af98cdb3.Accessed 24 November 2021.   
 Hughes, William R. A Week’s Tramp in Dickens Land. London: Chapman and Hall, 1893. First published 1891.   
 ‘The Murder at Cobham.’ Morning Chronicle. 2 September 1843. British Library Newspapers, link.gale.com/apps/doc/BA3207656880/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=452e85d8. Accessed 24 Nov. 2021.   
+  ‘Richard Dadd, the Parricide’. Standard. 30 July 1844. British Library Newspapers, link.gale.com/apps/doc/R3212190290/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=c1b39431. Accessed 24 Nov. 2021.
+
+### References
+
+  Stephen Dadd to David Roberts. 3 September 1843.
+  Stephen Dadd to David Roberts. 3 September 1843.
+  Stephen Dadd to David Roberts. 3 September 1843.
+  ‘Dreadful Murder at Cobham Park’.
+  ‘Dreadful Murder at Cobham Park’.
+  Stephen Dadd to David Roberts. 3 September 1843.
+  ‘Richard Dadd, the Parricide.
+  Hughes 396. Hughes wrongly gives Dadd’s place and time of death as Bethlem, 1887. 
+
+
+
