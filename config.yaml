@@ -3,7 +3,6 @@ tagline:
 description: This site provides a set of themed essays about Kent, a county in South East England. Kent has a rich history and provided inspiration for a number of writers and artists.
 banner: /images/Bleak_house_postcard.jpg
 favicon: /images/favicon.ico
-customCSS: /css/custom.css
 
 # When using a custom domain these fields must be updated to match
 # the account and repository name
@@ -48,16 +47,7 @@ siteAdmins:
 - rsnyder
 - DigiHum1
 
-######################################################
-# Optional credentials used for GitHub API and OAuth integration
-######################################################
-
-# GitHub upscoped API token used for content retrivals
-#ghUnscopedToken: <Base64 encoded GitHub unscoped token>
-
-# Google Cloud OAuth settings for GithHub login via Juncture
-#gcAuthDomain: <Base64-encoded Google Cloud OAuth domain>
-#gcApiKey: <Base64-encoded restricted access Google Cloud API key>
+gaPropertyID: UA-148268745-1
 
 oneTrustSiteKey: 08d331f7-d077-46de-aab3-d92135d132d5
 enableOneTrust: true
