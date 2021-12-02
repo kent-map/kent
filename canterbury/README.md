@@ -1,9 +1,8 @@
 <param ve-config 
        title="Canterbury"
-       banner="images/20c.jpg"
-       layout="index">
+       banner="/images/20c.jpg">
 
-#
+# {.cards}
 
 ##
 **[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**
