@@ -13,7 +13,7 @@ Following public concern over an increase in prostitution and venereal disease, 
 <param ve-map center="Q729006" zoom="15">
 <param ve-image url="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" label="Chatham Dockyard">
 
-Chatham’s purpose built Lock hospital was constructed in 1869, and was used to treat those arrested under the Act from Chatham, Gravesend, Maidstone and Sheerness. The use of the Lock Hospital reduced prostitution in these towns, although this reduction coincided with increased police observation of suspected brothels.
+Chatham’s purpose built Lock hospital was constructed in 1869, and was used to treat those arrested under the Act from Chatham, [Gravesend](/19c/19c-gravesend), Maidstone and Sheerness. The use of the Lock Hospital reduced prostitution in these towns, although this reduction coincided with increased police observation of suspected brothels.
 <param ve-map center="Q729006" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d7/RochesterStBarts4245.JPG" label="St Bart's Hospital, Rochester, which contained 30 beds in the lock wing" attribution="Clem Rutter, Rochester Kent, CC BY-SA 3.0, via Wikimedia Commons">
 
