@@ -10,7 +10,8 @@ banner="/images/banners/18c.jpg">
 <br><br>
 The exceptional Elizabeth Burgess was born in Canterbury as Elizabeth Smith. In 1817 she and her brothers celebrated their lives with a dinner described in the _Kentish Gazette_ as follows:
 <br><br>
-‘A remarkable instance of longevity in one family. Five brothers and one sister dined together at the Eight Bells, in King-street, when the following five brothers and one sister, whose ages amounted to 442 years, dined together at that house: —Mrs. Burgess 80; John Smith 78; Edward Smith 76; Andrew Smith 72; Benjamin Smith 69; Henry Smith 67.’ 
+‘A remarkable instance of longevity in one family. Five brothers and one sister dined together at the Eight Bells, in King-street, when the following five brothers and one sister, whose ages amounted to 442 years, dined together at that house: —Mrs. Burgess 80; John Smith 78; Edward Smith 76; Andrew Smith 72; Benjamin Smith 69; Henry Smith 67.’
+<param ve-image url="https://stor.artstor.org/stor/24ee11de-7f17-4c68-8455-8c0cc4339c11" label="Eight Bells" attribution="Edward Crowther">
 
 They were baptised at St Alphege, Canterbury, children of Benjamin Smith and Elizabeth Wootton (married 1734 St Andrews), and Elizabeth married Edward Burgess (1726-1807), a Freeman silk weaver, at St Alphege in 1765. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canterbury_-_St_Alphege.jpg" label="St Alphege" attribution="Whn64, via Wikimedia Commons" license="CC BY-SA 3.0">
@@ -19,6 +20,7 @@ In 1762 an Edward Burgess, living near the Eight Bells, St Alphege, now 43 King 
 <br><br>
 ELIZABETH BURGESS, MANTUA-MAKER, FROM St. ALPHAGE’S, TAKES this Opportunity to inform her Friends, that she has taken the House of Mr Farr, in St. GEORGE’S, CANTERBURY: Where she continues to make, as usual, all Sorts of SACKS, SLIPS, and GOWNS, after the newest Fashion. – She hopes the Ladies will continue their Favours, which will be gratefully acknowledged, By their humble Servant E. BURGESS.<br>
 Genteel Lodgings to be Let ready-furnish’d, during the Race-week
+<param ve-image url="https://stor.artstor.org/stor/4dc963f3-29e3-4756-b974-a4e1a4aad62e" label="43, King Street" attribution="Edward Crowther">
 
 In 1772 Kentish Gazette advises that Mr Burgess next door to the Post Office is selling tickets for the Theatre (Post Office then in St George’s Street and described in 1794 as ‘Opposite the White Friars Gateway by St George’s Church’), and in the same year the following appears:
 <br><br>
