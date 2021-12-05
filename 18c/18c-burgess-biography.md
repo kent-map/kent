@@ -10,7 +10,7 @@ banner="/images/banners/18c.jpg">
 #
 
 **Wife, Mother, Mantua Maker (Dress-Maker), Pastry Maker, Registry Office Keeper for Servants, Playwright and Author.**
-<br>
+<br><br>
 The exceptional Elizabeth Burgess was born in Canterbury as Elizabeth Smith. In 1817 she and her brothers celebrated their lives with a dinner described in the _Kentish Gazette_ as follows:
 <br><br>
 ‘A remarkable instance of longevity in one family. Five brothers and one sister dined together at the Eight Bells, in King-street, when the following five brothers and one sister, whose ages amounted to 442 years, dined together at that house: —Mrs. Burgess 80; John Smith 78; Edward Smith 76; Andrew Smith 72; Benjamin Smith 69; Henry Smith 67.’ 
