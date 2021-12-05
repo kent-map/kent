@@ -9,22 +9,21 @@ banner="/images/banners/18c.jpg">
 
 #
 
-
 **Wife, Mother, Mantua Maker (Dress-Maker), Pastry Maker, Registry Office Keeper for Servants, Playwright and Author.**
-
-The exceptional Elizabeth Burgess was born in Canterbury as Elizabeth Smith. In 1817 she and her brothers celebrated their lives with a dinner described in the _Kentish Gazette_ as follows:
 <br>
+The exceptional Elizabeth Burgess was born in Canterbury as Elizabeth Smith. In 1817 she and her brothers celebrated their lives with a dinner described in the _Kentish Gazette_ as follows:
+<br><br>
 ‘A remarkable instance of longevity in one family. Five brothers and one sister dined together at the Eight Bells, in King-street, when the following five brothers and one sister, whose ages amounted to 442 years, dined together at that house: —Mrs. Burgess 80; John Smith 78; Edward Smith 76; Andrew Smith 72; Benjamin Smith 69; Henry Smith 67.’ 
 
 They were baptised at St Alphege, Canterbury, children of Benjamin Smith and Elizabeth Wootton (married 1734 St Andrews), and Elizabeth married Edward Burgess (1726-1807), a Freeman silk weaver, at St Alphege in 1765. 
 <br>
 In 1762 an Edward Burgess, living near the Eight Bells, St Alphege, now 43 King Street, is mentioned in Kentish Gazette as one of those selling tickets for a concert, and in 1770 Elizabeth Burgess placed a large advert in that newspaper:
-
+<br><br>
 ELIZABETH BURGESS, MANTUA-MAKER, FROM St. ALPHAGE’S, TAKES this Opportunity to inform her Friends, that she has taken the House of Mr Farr, in St. GEORGE’S, CANTERBURY: Where she continues to make, as usual, all Sorts of SACKS, SLIPS, and GOWNS, after the newest Fashion. – She hopes the Ladies will continue their Favours, which will be gratefully acknowledged, By their humble Servant E. BURGESS.<br>
 Genteel Lodgings to be Let ready-furnish’d, during the Race-week
 
 In 1772 Kentish Gazette advises that Mr Burgess next door to the Post Office is selling tickets for the Theatre (Post Office then in St George’s Street and described in 1794 as ‘Opposite the White Friars Gateway by St George’s Church’), and in the same year the following appears:
-<br>
+<br><br>
 ELIZABETH BURGESS Begs Leave to inform the PUBLIC, That she has opened a SHOP, in St. GEORGE’S STREET, CANTERBURY; Where are MADE and SOLD all Sorts of PASTRY and CONFECTIONARY.<br>
 Those Gentlemen and Ladies who please to favor her with their Commands, may be served with RICH CAKES, MADE-DISHES, JELLIES, SOUPS, HAMS, POTTED and COLLARED MEATS, etc.
 In the neatest and genteelest Manner, and their Favors gratefully acknowledged.<br>
@@ -42,11 +41,11 @@ The ‘Red Lion’ innkeeper’s overcharging of the Duke de Nivernois, the Fren
 For the next twenty years any further literary output is unknown. The Thespian Dictionary in 1802 has an entry: BURGESS, (Mrs.) is author of a comedy, called “The Oaks; or, Beauties of Canterbury”, 1780, several times acted in that city, where she keeps a shop in St. George's Street. 
 
 A family website, no longer live, advised that:
-<br>
+<br><br>
 ‘My great grandmother was privately a very charitable woman as far as her means would allow.  Among other cases I have heard, that she was so kind to the poor French prisoners of war, that when they were released by exchange, they desired to be marched past her house and cheered her calling out in both languages “God Bless Mrs. Burgess”.  I believe my father witnessed the above.  Being a good cook, she knew how to make French soups and also provided them with soup and the ingredients for them to make that and other French dishes.  She used to entertain some of the officers on parole at her house and kept good society.’
 
 The same site advised that she was very tall (around 6ft) and lends credence to a pleasing self-mockery of her own ‘awkwardness’ in her Prologue to ‘The Oaks’:
-<br>
+<br><br>
 What is this play wrote by Burgess the Pastry Cook;   
 To thrive she’s turn’d her Hand a thousand ways,   
 But why attempt such things as writing Plays;   
