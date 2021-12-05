@@ -202,3 +202,32 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 ![](/images/thumbnails/dickens-head.jpg)
 
 One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
+
+# Featured Texts
+
+# {.cards}
+
+##
+[**Double Double**](/20c/20c-brunner-biography)
+
+- author: Michael Goodrum
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
+
+Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
+
+[**In Margate by Lunchtime**](/21c/21c-margate-lunchtime)
+
+- author: Maggie Harris
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
+
+Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific an
+
+[**Miss Balmaine's Past**](/19c/19c-croker-missbalmaine)
+
+- author: Michelle Crowther
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
+
+Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific an
