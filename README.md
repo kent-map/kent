@@ -208,7 +208,7 @@ One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816
 # {.cards}
 
 ##
-[**Double Double**](/20c/20c-brunner-biography)
+[**Double Double**](/20c/20c-double-double)
 
 - author: Michael Goodrum
 
