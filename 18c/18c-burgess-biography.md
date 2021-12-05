@@ -62,7 +62,7 @@ Then in 1805 she published a book called _The Life and History of Betty Bolaine_
 When Elizabeth Burgess died in 1825 the _Kentish Gazette_ has:
 <br><br>
 ‘Aged 88. Blessed with a strong mind, the deceased, many years ago, produced a satirical piece, called _The Maid of the Oaks_,* which was acted on our stage. The incidents, on the first representation, being known to the audience, it received considerable applause: a few years since, it was again performed, but the love for scandal, and allusion to the parties, having diminished with the growth of time, the prominent features of the play were lost — At the death of a female, familiarly known by the name of _Betty Bolaine_, Mrs. B. again exerted her talents, in writing a history of the old lady's life, and depicting, in very glowing colours, her penurious and eccentric manners. Implicit faith was placed upon this production; although it was known that the writer pretty liberally bestowed vituperation upon her names, in consequence of the disappointments she experienced in not participating in the wealth which the old niggard had amassed.—The work had a great sale. Mrs. B. for many years was in the habit of selling cakes in the city, and latterly kept a registry-office for servants.’
-
+<br><br>
 *The Maid of the Oaks was a different play; it should read The Oaks.
 
 ### Bibliography
