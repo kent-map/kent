@@ -13,7 +13,8 @@ The exceptional Elizabeth Burgess was born in Canterbury as Elizabeth Smith. In 
 ‘A remarkable instance of longevity in one family. Five brothers and one sister dined together at the Eight Bells, in King-street, when the following five brothers and one sister, whose ages amounted to 442 years, dined together at that house: —Mrs. Burgess 80; John Smith 78; Edward Smith 76; Andrew Smith 72; Benjamin Smith 69; Henry Smith 67.’ 
 
 They were baptised at St Alphege, Canterbury, children of Benjamin Smith and Elizabeth Wootton (married 1734 St Andrews), and Elizabeth married Edward Burgess (1726-1807), a Freeman silk weaver, at St Alphege in 1765. 
-<br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canterbury_-_St_Alphege.jpg" label="St Alphege" attribution="Whn64, via Wikimedia Commons" license="CC BY-SA 3.0">
+<br><br>
 In 1762 an Edward Burgess, living near the Eight Bells, St Alphege, now 43 King Street, is mentioned in Kentish Gazette as one of those selling tickets for a concert, and in 1770 Elizabeth Burgess placed a large advert in that newspaper:
 <br><br>
 ELIZABETH BURGESS, MANTUA-MAKER, FROM St. ALPHAGE’S, TAKES this Opportunity to inform her Friends, that she has taken the House of Mr Farr, in St. GEORGE’S, CANTERBURY: Where she continues to make, as usual, all Sorts of SACKS, SLIPS, and GOWNS, after the newest Fashion. – She hopes the Ladies will continue their Favours, which will be gratefully acknowledged, By their humble Servant E. BURGESS.<br>
