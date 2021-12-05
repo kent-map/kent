@@ -27,6 +27,7 @@ Those Gentlemen and Ladies who please to favor her with their Commands, may be s
 In the neatest and genteelest Manner, and their Favors gratefully acknowledged.<br>
 RICH SOUPS ready every MONDAY, WEDNESDAY, and FRIDAY, from Twelve till Two.
 TURTLE-SOUP on MONDAY next.
+<param ve-image url="https://stor.artstor.org/stor/a921a8a8-c5d2-43f3-aefd-6f4e505770f9" label="St George's Street c. early 20th century">
 
 Meanwhile Edward and Elizabeth had at least four children: Edward 1765, George 1770, Thomas 1773, William Smith 1778.
 <br><br>
