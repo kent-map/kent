@@ -59,17 +59,17 @@ Quite impolite – her education common.
 
 Then in 1805 she published a book called _The Life and History of Betty Bolaine_ – a notorious miser who had just died aged 85. It sold well and went through several editions over the next 30 years. Elizabeth (Betty) Bolaine was sister to a well-regarded Canterbury surgeon and apothecary Noah Bolaine, who in 1753 published a repost to Mr Delafaye’s, Rector of St Mildreds and All Saints, denial of the efficacy of inoculation in the prevention of smallpox. The account of her life runs to over 60 pages including illustrative verse by Elizabeth Burgess. On reading it one cannot but be horrified by Betty’s avarice, but perhaps there is also a streak of admiration for another woman determined like Elizabeth to do her own thing. They were not alone. Mrs Sarah Baker, who managed an East Kent Company of Actors and built the new Canterbury Theatre in Orange-Street that opened in time for Race Week on 24th August 1789, was another.
 
-When Elizabeth Burgess died in 1825 the Kentish Gazette has:
-<br>
+When Elizabeth Burgess died in 1825 the _Kentish Gazette_ has:
+<br><br>
 ‘Aged 88. Blessed with a strong mind, the deceased, many years ago, produced a satirical piece, called _The Maid of the Oaks_,* which was acted on our stage. The incidents, on the first representation, being known to the audience, it received considerable applause: a few years since, it was again performed, but the love for scandal, and allusion to the parties, having diminished with the growth of time, the prominent features of the play were lost — At the death of a female, familiarly known by the name of _Betty Bolaine_, Mrs. B. again exerted her talents, in writing a history of the old lady's life, and depicting, in very glowing colours, her penurious and eccentric manners. Implicit faith was placed upon this production; although it was known that the writer pretty liberally bestowed vituperation upon her names, in consequence of the disappointments she experienced in not participating in the wealth which the old niggard had amassed.—The work had a great sale. Mrs. B. for many years was in the habit of selling cakes in the city, and latterly kept a registry-office for servants.’
 
 *The Maid of the Oaks was a different play; it should read The Oaks.
 
 ### References
 
-[^ref1]: The Oaks, or The Beauties of Canterbury’. A Comedy, as performed at the Theatre in Canterbury by Mrs. Burgess printed by Simmons and Kirkby Canterbury 1780.
-[^ref2]: The Life and History of Betty Bolaine, Late of Canterbury, printed and sold for the Author by J. Saffery, Canterbury 1805.
-[^ref3]: The Thespian Dictionary printed by J. Cundee Ivy Lane for T Hurst Paternoster-Row London 1802
+[^ref1]: _The Oaks, or The Beauties of Canterbury. A Comedy_, as performed at the Theatre in Canterbury by Mrs. Burgess printed by Simmons and Kirkby Canterbury 1780.
+[^ref2]: _The Life and History of Betty Bolaine, Late of Canterbury_, printed and sold for the Author by J. Saffery, Canterbury 1805.
+[^ref3]: _The Thespian Dictionary_ printed by J. Cundee Ivy Lane for T Hurst Paternoster-Row London 1802
 [^ref4]: Inoculation an indefensible practice: a sermon preached at the United Parish-Churches of St. Mildred's and All-Saints, in the City of Canterbury, on the third and twenty-fourth of June, 1753 by Theodore Delafaye. Printed for M. Cooper London 1753.
 [^ref5]: A letter to the Rev. Mr. Delafaye, in answer to his sermon, lately publish'd, intitled, Inoculation an indefensible practice: By N. Bolaine, Surgeon. Printed for R. Baldwin, at the Rose, in Pater-noster-Row, London 1753.
 [^ref6]:	A vindication of a sermon, entitled, inoculation an indefensible practice. In which Dr. Kirkpatrick's Arguments in Favour of the Operation, together with his and a certain Letter-Writer's Objections to the Sermon, are distinctly consider'd and reply'd to; and the Practice demonstrated, in the amplest Manner, highly culpable in a Moral, extremely absurd in a Physical View. By Theodore Delafaye, A.M. Rector of St. Mildred's and All-Saints, in the City of Canterbury Printed for S. and E. Ballard, at the Blue-Ball, in Little-Britain, London 1754.
