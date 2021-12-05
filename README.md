@@ -216,6 +216,7 @@ One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816
 
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition…
 
+##
 [**In Margate by Lunchtime**](/21c/21c-margate-lunchtime)
 
 - author: Maggie Harris
@@ -224,6 +225,7 @@ It was 1969, and in the fictional coastal North Kent town of Brindown, things wo
 
 There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist. ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’
 
+##
 [**Miss Balmaine's Past**](/19c/19c-croker-missbalmaine)
 
 - author: Michelle Crowther
