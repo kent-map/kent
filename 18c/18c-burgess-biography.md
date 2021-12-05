@@ -65,15 +65,13 @@ When Elizabeth Burgess died in 1825 the _Kentish Gazette_ has:
 
 *The Maid of the Oaks was a different play; it should read The Oaks.
 
-### References
+### Bibliography
 
-[^ref1]: _The Oaks, or The Beauties of Canterbury. A Comedy_, as performed at the Theatre in Canterbury by Mrs. Burgess printed by Simmons and Kirkby Canterbury 1780.
-[^ref2]: _The Life and History of Betty Bolaine, Late of Canterbury_, printed and sold for the Author by J. Saffery, Canterbury 1805.
-[^ref3]: _The Thespian Dictionary_ printed by J. Cundee Ivy Lane for T Hurst Paternoster-Row London 1802
-[^ref4]: Inoculation an indefensible practice: a sermon preached at the United Parish-Churches of St. Mildred's and All-Saints, in the City of Canterbury, on the third and twenty-fourth of June, 1753 by Theodore Delafaye. Printed for M. Cooper London 1753.
-[^ref5]: A letter to the Rev. Mr. Delafaye, in answer to his sermon, lately publish'd, intitled, Inoculation an indefensible practice: By N. Bolaine, Surgeon. Printed for R. Baldwin, at the Rose, in Pater-noster-Row, London 1753.
-[^ref6]:	A vindication of a sermon, entitled, inoculation an indefensible practice. In which Dr. Kirkpatrick's Arguments in Favour of the Operation, together with his and a certain Letter-Writer's Objections to the Sermon, are distinctly consider'd and reply'd to; and the Practice demonstrated, in the amplest Manner, highly culpable in a Moral, extremely absurd in a Physical View. By Theodore Delafaye, A.M. Rector of St. Mildred's and All-Saints, in the City of Canterbury Printed for S. and E. Ballard, at the Blue-Ball, in Little-Britain, London 1754.
-[^ref7]:	Remarks on the Rev. Mr. Delafaye's vindication of his sermon, intitled, inoculation an indefensible practice. By N. Bolaine, surgeon. Printed for R. Baldwin, in Pater-noster-Row; and sold by Mess. Flackton, in Canterbury, 1754.
-[^ref8]:	Some Remarks on the Rev. Mr Delafaye's vindication of his sermon against Inoculation. In a letter to a friend. By a regular Physician. [Signed, Philalethes.] Printed for Mr T. Smith Bookseller in Canterbury 1754.
-
-
+ _The Oaks, or The Beauties of Canterbury. A Comedy_, as performed at the Theatre in Canterbury by Mrs. Burgess printed by Simmons and Kirkby Canterbury 1780.   
+_The Life and History of Betty Bolaine, Late of Canterbury_, printed and sold for the Author by J. Saffery, Canterbury 1805.   
+_The Thespian Dictionary_ printed by J. Cundee Ivy Lane for T Hurst Paternoster-Row London 1802.   
+Inoculation an indefensible practice: a sermon preached at the United Parish-Churches of St. Mildred's and All-Saints, in the City of Canterbury, on the third and twenty-fourth of June, 1753 by Theodore Delafaye. Printed for M. Cooper London 1753.   
+A letter to the Rev. Mr. Delafaye, in answer to his sermon, lately publish'd, intitled, Inoculation an indefensible practice: By N. Bolaine, Surgeon. Printed for R. Baldwin, at the Rose, in Pater-noster-Row, London 1753.   
+A vindication of a sermon, entitled, inoculation an indefensible practice. In which Dr. Kirkpatrick's Arguments in Favour of the Operation, together with his and a certain Letter-Writer's Objections to the Sermon, are distinctly consider'd and reply'd to; and the Practice demonstrated, in the amplest Manner, highly culpable in a Moral, extremely absurd in a Physical View. By Theodore Delafaye, A.M. Rector of St. Mildred's and All-Saints, in the City of Canterbury Printed for S. and E. Ballard, at the Blue-Ball, in Little-Britain, London 1754.   
+Remarks on the Rev. Mr. Delafaye's vindication of his sermon, intitled, inoculation an indefensible practice. By N. Bolaine, surgeon. Printed for R. Baldwin, in Pater-noster-Row; and sold by Mess. Flackton, in Canterbury, 1754.   
+Some Remarks on the Rev. Mr Delafaye's vindication of his sermon against Inoculation. In a letter to a friend. By a regular Physician. [Signed, Philalethes.] Printed for Mr T. Smith Bookseller in Canterbury 1754.   
