@@ -31,7 +31,7 @@ RICH SOUPS ready every MONDAY, WEDNESDAY, and FRIDAY, from Twelve till Two.
 TURTLE-SOUP on MONDAY next.
 
 Meanwhile Edward and Elizabeth had at least four children: Edward 1765, George 1770, Thomas 1773, William Smith 1778.
-<br>
+<br><br>
 Then in April 1780 Elizabeth Burgess is announced in the _Kentish Gazette_ as Author of a Comedy (never acted) called ‘The Oaks or The Beauties of Canterbury’. ‘Written by Mrs Burgess. The Prologues to be spoken by Mr Miell and the Epilogue by Mrs Dawes’. The play was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate, and seems to have been very successful. It was printed at her own expense and survives in full. In May she is announced as Author of a new Prelude called ‘The Freemen of Canterbury, Or, Preface to the Election’, which features Mr Miell in the role of Nimbletongue, a hairdresser. Unfortunately this and the following pieces announced for Friday 17th August 1781 do not: ‘The Oddities, or the Canterbury Races’ and also for a ‘new Prologue she has written for a Comic Opera called The Wedding Ring’ to be performed on the same evening. It was of course no coincidence that this performance took place during ‘Canterbury Races Week’, an annual event on Barham Downs.
 
 The Oaks is a very light comedy that revolves around various romances. There is perhaps only one really memorable line, ‘In your way here from the Cathedral there is, Sir, a place called the Oaks. Sir, it is a genteel walk, frequented by the ladies in the morning, and by the other sort of ladies in the evening’, spoken by the inn landlord.
