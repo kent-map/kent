@@ -17,7 +17,7 @@ In the weeks leading up to the Spanish offensive, a series of beacons had been e
 
 On the 20th July 1588, the Spanish fleet sailed past Plymouth where they were bombarded by cannon fired from English ships under the command of Lord Howard of Effingham and Sir Francis Drake. Drake, who was second in command, had spent his boyhood in Kent, living on the hull of a ship moored on the Medway. Drake’s father who was preaching at Chatham Dockyard at this time had met an elderly sailor who taught Francis navigation and took him sailing on the English Channel.[^ref7] 
 
-After escaping the English fleet, the Spanish galleons headed on towards the Kent coast, but after skirmishes at Portland and in the Solent, they were forced to head to Calais to provision. In Kent, plans to avert the invasion were confused. Sir John Norris who was in charge of commanding the South East planned to concentrate his forces at Canterbury, whereas Thomas Scott, former MP for Kent, who had been appointed to raise an army, wanted to spread out along the coast.[^ref8] 
+After escaping the English fleet, the Spanish galleons headed on towards the Kent coast, but after skirmishes at Portland and in the Solent, they were forced to head to Calais to provision. In Kent, plans to avert the invasion were confused. Sir John Norris who was in charge of commanding the South East, mustered the Kent militia at Rochester, planning to concentrate his forces at Canterbury, whereas Thomas Scott, former MP for Kent, who had been appointed to raise an army, wanted to spread out along the coast.[^ref8] 
 
 https://upload.wikimedia.org/wikipedia/commons/8/85/Sir_Thomas_Scott_%281535-1594%29.jpg 
 
