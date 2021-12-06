@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="The Spanish Armada and Kent " author="Researched by Arnav, Charlie, Conrad, Hannah, Lewis and Max" layout="vtl" banner="/images/banners/16c.jpg"> 
+<param ve-config title="The Spanish Armada and Kent " author="Michelle Crowther" layout="vtl" banner="/images/banners/16c.jpg"> 
 
 <param ve-entity eid="Q179224" aliases="Dover"> 
 
@@ -31,16 +31,18 @@ Instead, the town of Margate saw an influx of English sailors who having contrac
 
 At the 400-year anniversary of the Armada, beacons were erected and lit again at towns and villages across Kent including sites of the original beacons at St Margaret’s at Cliffe, Sandwich, Tankerton and Birchington. 
 
+This article was researched by Arnav, Charlie, Conrad, Hannah, Lewis and Max whilst undertaking volunteering on the Kent Maps as part of their Duke of Edinburgh Award.
+
 ### References
 
 [^ref1]: Tilbury Speech
-[^ref1]: PARKER, GEOFFREY. “IF THE ARMADA HAD LANDED.” History, vol. 61, no. 203, Wiley, 1976, pp. 358–68, http://www.jstor.org/stable/24409924. 
-[^ref1]:Pages vii-lxviii Calendar of State Papers, Spain (Simancas), Volume 4, 1587-1603. Originally published by Her Majesty's Stationery Office, London, 1899. 
+[^ref1]: Parker, G. “If the Armada had landed.” _History_, vol. 61, no. 203, Wiley, 1976, pp. 358–68, http://www.jstor.org/stable/24409924. 
+[^ref1]: Pages vii-lxviii Calendar of State Papers, Spain (Simancas), Volume 4, 1587-1603. Originally published by Her Majesty's Stationery Office, London, 1899. 
 [^ref1]: Ashbee, J. ’History of Rochester Castle’ English Heritage.
-Armada 1988.
-Armada 1988
-[^ref1]:  White, T.H. ’The beacon system in Kent,” Archaeologia Cantiana 46, 1934.
-[^ref1]:  PARKER, GEOFFREY. “IF THE ARMADA HAD LANDED.” History, vol. 61, no. 203, Wiley, 1976, pp. 358–68, http://www.jstor.org/stable/24409924. 
-[^ref1]:YOUNGER, NEIL. “If the Armada Had Landed: A Reappraisal of England’s Defences in 1588.” History, vol. 93, no. 3 (311), Wiley, 2008, pp. 328–54, http://www.jstor.org/stable/24428393.
+_Armada_ 1988.
+_Armada_ 1988
+[^ref1]: White, T.H. ’The beacon system in Kent,” _Archaeologia Cantiana_ 46, 1934.
+[^ref1]: Parker, G. “If the Armada had landed.” _History_, vol. 61, no. 203, Wiley, 1976, pp. 358–68, http://www.jstor.org/stable/24409924. 
+[^ref1]: Younger, Neil. “If the Armada Had Landed: A Reappraisal of England’s Defences in 1588.” _History_, vol. 93, no. 3 (311), Wiley, 2008, pp. 328–54, http://www.jstor.org/stable/24428393.
 [^ref1]:
 [^ref10]: Letter from Sir Thomas Scott to Burghley, 5 August 1588.
