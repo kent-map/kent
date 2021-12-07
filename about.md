@@ -247,7 +247,7 @@ Jeremy Page has published several collections of poems, among them In and Out of
 ##
 [**Christiana Payne**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Christiana Payne.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Christiana%Payne.jpg)
 
 Christiana Payne is Professor Emerita of History of Art at Oxford Brookes University. Exhibitions that she has curated or co-curated include A Walk in the Woods: A Celebration of Trees in British Art (Higgins Art Gallery and Museum, Bedford, 2017-18) and Pre-Raphaelites: Drawings and Watercolours (Ashmolean Museum, Oxford, 2021). She is currently working on an exhibition on the theme of Earth, to be held at the Royal West of England Academy, Bristol, in 2022.
 
