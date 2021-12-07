@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="The Spanish Armada and Kent " author="Michelle Crowther" layout="vtl" banner="/images/banners/16c.jpg"> 
+<param ve-config title="The Spanish Armada and Kent " author="Duke of Edinburgh Scheme Participants" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/La_batalla_de_Gravelinas%2C_por_Nicholas_Hilliard.jpg"> 
 
 <param ve-entity eid="Q179224" aliases="Dover"> 
 <param title="Folkestone" eid="Q375314">
@@ -53,7 +53,7 @@ Over the period of a day, Scott had assembled 4000 men at Dover paying for their
 
 The English attacked the Armada near Gravelines on the 8th August, driving the Spanish galleons further up the coast and away from Kent, leaving the Spanish unable to rendezvous off Cape Margate.  Instead, the town of Margate saw an influx of English sailors who having contracted typhus after the battle of Gravelines were left to die of disease and starvation.[^ref13] An ignoble and pitiful end for these brave fighters. The armies in Kent and Tilbury were gradually disbanded and Elizabeth I did not have lie down among the blood and the dust of her people. 
 <br><br>
-This article was researched by Arnav, Charlie, Conrad, Hannah, Lewis and Max whilst undertaking volunteering on the Kent Maps as part of their Duke of Edinburgh Award.
+This article was researched by Arnav, Charlie, Conrad, Hannah, Lewis and Max whilst undertaking volunteering on the Kent Maps as part of their Duke of Edinburgh Award. It was collated and written up by Eloise Lewis and Michelle Crowther.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Loutherbourg-Spanish_Armada.jpg" label="Spanish Armada, 8th August 1588" attribution="Philip James de Loutherbourg, Public domain, via Wikimedia Commons">
 <param ve-map center="Q618045" zoom="10">
 
