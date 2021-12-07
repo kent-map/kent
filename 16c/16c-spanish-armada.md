@@ -38,8 +38,8 @@ This article was researched by Arnav, Charlie, Conrad, Hannah, Lewis and Max whi
 [^ref1]: Parker, G. “If the Armada had landed.” _History_, vol. 61, no. 203, Wiley, 1976, pp. 358–68, http://www.jstor.org/stable/24409924. 
 [^ref1]: Pages vii-lxviii Calendar of State Papers, Spain (Simancas), Volume 4, 1587-1603. Originally published by Her Majesty's Stationery Office, London, 1899. 
 [^ref1]: Ashbee, J. ’History of Rochester Castle’ English Heritage.
-_Armada_ 1988.
-_Armada_ 1988
+Armada 1588-1988 : an international exhibition to commemorate the Spanish Armada ; the official catalogue
+Armada 1588-1988 : an international exhibition to commemorate the Spanish Armada ; the official catalogue
 [^ref1]: White, T.H. ’The beacon system in Kent,” _Archaeologia Cantiana_ 46, 1934.
 [^ref1]: Parker, G. “If the Armada had landed.” _History_, vol. 61, no. 203, Wiley, 1976, pp. 358–68, http://www.jstor.org/stable/24409924. 
 [^ref1]: Younger, Neil. “If the Armada Had Landed: A Reappraisal of England’s Defences in 1588.” _History_, vol. 93, no. 3 (311), Wiley, 2008, pp. 328–54, http://www.jstor.org/stable/24428393.
