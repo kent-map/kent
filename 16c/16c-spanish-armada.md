@@ -18,10 +18,7 @@ In the weeks leading up to the Spanish offensive, a series of beacons had been e
 On the 20th July 1588, the Spanish fleet sailed past Plymouth where they were bombarded by cannon fired from English ships under the command of Lord Howard of Effingham and Sir Francis Drake. Drake, who was second in command, had spent his boyhood in Kent, living on the hull of a ship moored on the Medway. Drake’s father who was preaching at Chatham Dockyard at this time had met an elderly sailor who taught Francis navigation and took him sailing on the English Channel.[^ref7] 
 
 After escaping the English fleet, the Spanish galleons headed on towards the Kent coast, but after skirmishes at Portland and in the Solent, they were forced to head to Calais to provision. In Kent, plans to avert the invasion were confused. Sir John Norris who was in charge of commanding the South East, mustered the Kent militia at Rochester, planning to concentrate his forces at Canterbury, whereas Thomas Scott, former MP for Kent, who had been appointed to raise an army, wanted to spread out along the coast.[^ref8] 
-
-https://upload.wikimedia.org/wikipedia/commons/8/85/Sir_Thomas_Scott_%281535-1594%29.jpg 
-
-Samuel De Wilde, Public domain, via Wikimedia Commons 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/85/Sir_Thomas_Scott_%281535-1594%29.jpg " label="Sir Thomas Scott" attribution="Samuel De Wilde, Public domain, via Wikimedia Commons">
 
 At midnight on 28 July, the English unleashed eight ‘hellburners’- tar filled ships, which threatened to destroy the Spanish fleet, leading to chaos and confusion in the channel. Sir Thomas Scott wrote to Lord Burghley on the 5th August informing him that the Armada had been seen off Boulogne. His letter was carried by horseman through the night, passing through Sittingbourne at 4 a.m. Thirty ensigns of infantry and three cornets of horse were assembled on the Downs "to make a shewe ... to the Enymye".[^ref10] Over the period of a day, Scott assembled 4000 men at Dover paying for their services with his own money, however on seeing the magnificent Spanish galleons massing in the channel, the callow and unprepared troops began to panic, many fleeing their positions.[^ref9] Meanwhile the commanding officers for Thanet, Wotton and Fane, were on duty elsewhere.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/Invincible_Armada.jpg" label="Invincible Armada" attribution="Royal Museums Greenwich, Public domain, via Wikimedia Commons">
@@ -29,6 +26,7 @@ At midnight on 28 July, the English unleashed eight ‘hellburners’- tar fille
 The English attacked the Armada near Gravelines on the 8th August, driving the Spanish galleons further up the coast, away from Kent and the Spanish were unable to rendezvous off Cape Margate.
 <br><br>
 Instead, the town of Margate saw an influx of English sailors who having contracted typhus after the battle of Gravelines were left to die of disease and starvation. An ignoble and pitiful end for these brave fighters. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Loutherbourg-Spanish_Armada.jpg" label="Spanish Armada, 8th August 1588" attribution="Philip James de Loutherbourg, Public domain, via Wikimedia Commons">
 
 At the 400-year anniversary of the Armada, beacons were erected and lit again at towns and villages across Kent including sites of the original beacons at St Margaret’s at Cliffe, Sandwich, Tankerton and Birchington. 
 
