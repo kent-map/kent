@@ -25,16 +25,6 @@ In 1588 concerns about the Spanish Armada approaching London via the Kent coast 
 
 
 ##
-**[Sheppey at War](16c-sheppey-at-war)**
-
-- author: Dr Melanie Caiazza
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d)
-
-In 1588 concerns about the Spanish Armada approaching London via the Kent coast caused the Crown to invest in fortifications at Queenborough Castle and Minster.  
-
-
-##
 **[Spanish Armada](16c-spanish-armada)**
 
 - author: Various
