@@ -38,12 +38,12 @@ This article was researched by Arnav, Charlie, Conrad, Hannah, Lewis and Max whi
 
 ### References
 
-[^ref1]: 'Tilbury Speech' in Damrosh, David, et al. The Longman Anthology of British Literature, Volume 1B: The Early Modern Period. Third ed. New York: Pearson Longman, 2006.
+[^ref1]: 'Tilbury Speech' in Damrosh, David, et al. _The Longman Anthology of British Literature, Volume 1B: The Early Modern Period._ 3rd ed. New York: Pearson Longman, 2006.
 [^ref2]: Parker, G. 'If the Armada had landed.' _History_, vol. 61, no. 203, Wiley, 1976, pp. 358–68, http://www.jstor.org/stable/24409924. 
 [^ref3]: Ashbee, J. 'History of Rochester Castle’ English Heritage.
 [^ref4]: National Maritime Museum. _Armada 1588-1988 : an international exhibition to commemorate the Spanish Armada; the official catalogue_
 [^ref5]: Calendar of State Papers, Spain (Simancas), Volume 4, 1587-1603. Originally published by Her Majesty's Stationery Office, London, 1899. Pages vii-lxviii.
-[^ref6]: Jensen, De Lamar. “The Spanish Armada: The Worst-Kept Secret in Europe.” _The Sixteenth Century Journal_, vol. 19, no. 4, _The Sixteenth Century Journal_, 1988, pp. 621–41, https://doi.org/10.2307/2540990.
+[^ref6]: Jensen, De Lamar. 'The Spanish Armada: The Worst-Kept Secret in Europe.' _The Sixteenth Century Journal_, vol. 19, no. 4, _The Sixteenth Century Journal_, 1988, pp. 621–41, https://doi.org/10.2307/2540990.
 [^ref7]: Calendar of State Papers, Spain (Simancas), Volume 4, 1587-1603. Originally published by Her Majesty's Stationery Office, London, 1899. Pages vii-lxviii.
 [^ref8]: White, T.H. 'The beacon system in Kent,' _Archaeologia Cantiana_ 46, 1934; Mc Gurk, J.M. 'Armarda preparations in Kent and arrangements made after the defeat (1587-1589) _Archaeologia Cantiana_ 85, 1977.
 [^ref9]: 'Sir Francis Drake' _Oxford Dictionary of National Biography_.
