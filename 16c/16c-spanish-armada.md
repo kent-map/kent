@@ -4,23 +4,21 @@
 <param ve-entity eid="Q179224" aliases="Dover"> 
 <param title="Folkestone" eid="Q375314">
 <param title="Gravesend" eid="Q676689">
-<param ve-entity eid=" aliases="Sittingbourne">
-<param ve-entity eid=" aliases="Canterbury">
-<param ve-entity eid=" aliases="Walmer">
-<param ve-entity eid=" aliases="Deal">
-<param ve-entity eid=" aliases="Sandown">
-<param ve-entity eid=" aliases="Margate">
-<param ve-entity eid=" aliases="Sandgate">
-<param ve-entity eid=" aliases="Upnor">
-<param ve-entity eid=" aliases="Rochester">
-<param ve-entity eid=" aliases="Medway">
-<param ve-entity eid=" aliases="Gravesend">
-<param ve-entity eid=" aliases="Hoo">
-<param ve-entity eid=" aliases="Sheppey">
-<param ve-entity eid=" aliases="Dymchurch">
-<param ve-entity eid=" aliases="Upchurch">
-<param ve-entity eid=" aliases="Northbourne">
-<param ve-entity eid=" aliases="Thanet">
+<param ve-entity eid="Q1626044" aliases="Sittingbourne">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q2551894" aliases="Walmer">
+<param ve-entity eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q7416497" aliases="Sandown">
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q1000312" aliases="Sandgate">
+<param ve-entity eid="Q7898392" aliases="Upnor">
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q1434222" aliases="Medway">
+<param ve-entity eid="Q1500299" aliases="Sheppey">
+<param ve-entity eid="Q2796278" aliases="Dymchurch">
+<param ve-entity eid="Q2483544" aliases="Upchurch">
+<param ve-entity eid="Q2455830" aliases="Northbourne">
+<param ve-entity eid="Q590422" aliases="Thanet">
 
 #
 
