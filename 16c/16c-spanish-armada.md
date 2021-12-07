@@ -24,6 +24,7 @@ https://upload.wikimedia.org/wikipedia/commons/8/85/Sir_Thomas_Scott_%281535-159
 Samuel De Wilde, Public domain, via Wikimedia Commons 
 
 At midnight on 28 July, the English unleashed eight ‘hellburners’- tar filled ships, which threatened to destroy the Spanish fleet, leading to chaos and confusion in the channel. Sir Thomas Scott wrote to Lord Burghley on the 5th August informing him that the Armada had been seen off Boulogne. His letter was carried by horseman through the night, passing through Sittingbourne at 4 a.m. Thirty ensigns of infantry and three cornets of horse were assembled on the Downs "to make a shewe ... to the Enymye".[^ref10] Over the period of a day, Scott assembled 4000 men at Dover paying for their services with his own money, however on seeing the magnificent Spanish galleons massing in the channel, the callow and unprepared troops began to panic, many fleeing their positions.[^ref9] Meanwhile the commanding officers for Thanet, Wotton and Fane, were on duty elsewhere.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/Invincible_Armada.jpg" label="Invincible Armada" attribution="Royal Museums Greenwich, Public domain, via Wikimedia Commons">
 
 The English attacked the Armada near Gravelines on the 8th August, driving the Spanish galleons further up the coast, away from Kent and the Spanish were unable to rendezvous off Cape Margate.
 <br><br>
@@ -46,3 +47,4 @@ _Armada_ 1988
 [^ref1]: Younger, Neil. “If the Armada Had Landed: A Reappraisal of England’s Defences in 1588.” _History_, vol. 93, no. 3 (311), Wiley, 2008, pp. 328–54, http://www.jstor.org/stable/24428393.
 [^ref1]:
 [^ref10]: Letter from Sir Thomas Scott to Burghley, 5 August 1588.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7b/Elizabeth_I_%28Armada_Portrait%29.jpg" label="Elizabeth I, Armada Portrait" attribution="Formerly attributed to George Gower, Public domain, via Wikimedia Commons">
