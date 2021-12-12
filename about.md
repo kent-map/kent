@@ -282,7 +282,7 @@ Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at 
 
 - twitter: @jactweet99  
 
-https://c19arcticrepresentations.wordpress.com/ ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/jstamp.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/jstamp.jpg)
 
 Jacquie Stamp is in the final stages of a PhD in English Literature at Canterbury Christ Church University, where her research focuses on representations and perceptions of the Arctic in the Long-Nineteenth-Century. Having gained an MA in Dickens and Victorian Culture at the University of Kent in 2016, she maintains an active interest in all things Dickensian as well as in the history and condition of her adopted county. In the summer months, however, she can often be found dancing either Cotswold or Molly Style Morris at a variety of locations around the UK – and beyond.    
     
