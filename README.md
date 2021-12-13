@@ -54,7 +54,7 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
 ##
-[**Edith Nesbit**](/nesbit/index)
+[**Edith Nesbit**](/nesbit)
 
 - author: Eleanor Fitzsimons
 
@@ -186,7 +186,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
 ##
-[**Jane Austen**](/austen/index)
+[**Jane Austen**](/austen)
 
 - author: Susan Civale
 
