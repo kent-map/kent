@@ -1,4 +1,15 @@
-John Wallis (1616-1703)
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+
+<param ve-config title="John Wallis (1616-1703)" author="Barnaby Russell and Michelle Crowther" layout="vtl" banner="/images/banners/17c.jpg"> 
+
+<param ve-entity eid="Q725261" aliases="Ashford">
+<param ve-entity eid="Q632173" aliases="Godmersham">
+<param ve-entity eid="Q26326056" aliases="Leigh Green">
+<param ve-entity eid="Q614560" aliases="Tenterden">
+
+
+
+#
 
 The mathematician, John Wallis, was born in Ashford on the 23rd of November 1616. His father, Reverend John Wallis (1567-1622), who was the vicar of St Mary’s died a week after John’s sixth birthday. His mother, Joanna Chapman, was from Godmersham, six miles north-east of Ashford.
 
