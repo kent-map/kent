@@ -29,6 +29,6 @@ In 1667 Wallis wrote a letter “concerning the variety of the high-tydes as to 
 After the Glorious revolution of 1688, Wallis worked for William III, deciphering correspondence which was thought to shed light on the birth of the Prince of Wales (James Francis Edward Stuart).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Portrait_of_William_III_%284672159%29.jpg" label="William III" attribution="William Holl, Public domain, via Wikimedia Commons">
 
-He died at Oxford in 1703. Today, the John Wallis Academy, a primary school and a pub in Ashford are named after him.
+He died at Oxford in 1703. Today, the John Wallis Academy in Ashford is named after him.
 
-Wallis is not the only mathematician associated with Kent. John Edensor Littlewood, who researched Diophantine analysis and the Riemann zeta function was born in Rochester and Ada Lovelace lived in xxx
+Wallis is not the only mathematician associated with Kent. John Edensor Littlewood, who researched Diophantine analysis and the Riemann zeta function was born in Rochester and Ada Lovelace spent her summers in Kent.
