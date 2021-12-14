@@ -25,7 +25,8 @@ At the restoration of the monarchy in 1660, Wallis was keen to refute any clams 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/John_Wallis_by_Sir_Godfrey_Kneller%2C_Bt.jpg" label="John Wallis by Sir Godfrey Kneller, Bt" attribution="After Godfrey Kneller, Public domain, via Wikimedia Commons">
 
 In 1667 Wallis wrote a letter “concerning the variety of the high-tydes as to several places; with respect to his own hypothesis”. In it he said that further to his assertion that the annual high tides were not on the two equinoxes of 11 March and September, nor on the winter and summer solstices but at a middle time: “and particularly for the Coast of Kent (and consequently the Rivers of Thames and Medway) about the beginning of November and February”, sea currents were north-easterly and this contributed to the regional variations in high tides observed by others. It was written from Oxford, and it is unlikely that he visited Kent at this time.
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Tidal_mud%2C_River_Medway_-_geograph.org.uk_-_2139864.jpg" label="Tidal mud, River Medway" attribution="N Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0"> 
+       
 After the Glorious revolution of 1688, Wallis worked for William III, deciphering correspondence which was thought to shed light on the birth of the Prince of Wales (James Francis Edward Stuart).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Portrait_of_William_III_%284672159%29.jpg" label="William III" attribution="William Holl, Public domain, via Wikimedia Commons">
 
