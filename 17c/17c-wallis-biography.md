@@ -26,7 +26,7 @@ At the restoration of the monarchy in 1660, Wallis was keen to refute any clams 
 
 In 1667 Wallis wrote a letter “concerning the variety of the high-tydes as to several places; with respect to his own hypothesis”. In it he said that further to his assertion that the annual high tides were not on the two equinoxes of 11 March and September, nor on the winter and summer solstices but at a middle time: “and particularly for the Coast of Kent (and consequently the Rivers of Thames and Medway) about the beginning of November and February”, sea currents were north-easterly and this contributed to the regional variations in high tides observed by others. It was written from Oxford, and it is unlikely that he visited Kent at this time.
 
-After the revolution, Wallis worked for William III, deciphering correspondence which was thought to shed light on the birth of the Prince of Wales.
+After the Glorious revolution of 1688, Wallis worked for William III, deciphering correspondence which was thought to shed light on the birth of the Prince of Wales (James Francis Edward Stuart).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Portrait_of_William_III_%284672159%29.jpg" label="William III" attribution="William Holl, Public domain, via Wikimedia Commons">
 
 He died at Oxford in 1703. Today, the John Wallis Academy, a primary school and a pub in Ashford are named after him.
