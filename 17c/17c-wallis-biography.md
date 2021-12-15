@@ -36,4 +36,4 @@ He is not the only mathematician associated with Kent. John Edensor Littlewood, 
 
 ### Bibliography
 
-Clerke, A.M. 'John Wallis (1616-1703)', Dictionary of National Biography 1885-1900, vol.59.
+Clerke, A.M. 'John Wallis (1616-1703)', _Dictionary of National Biography 1885-1900_, vol.59.
