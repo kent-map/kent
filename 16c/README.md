@@ -23,6 +23,7 @@ On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversh
 
 In 1588 concerns about the Spanish Armada approaching London via the Kent coast caused the Crown to invest in fortifications at Queenborough Castle and Minster.  
 
+##
 **[Spanish Armada](16c-spanish-armada)**
 
 - author: Various
@@ -30,3 +31,6 @@ In 1588 concerns about the Spanish Armada approaching London via the Kent coast 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f1/A_Map_of_the_Beacons_in_Kent_%28BM_1872%2C0113.1137%29.jpg)
 
 With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected?  
+
+
+

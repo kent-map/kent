@@ -1,15 +1,13 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Waterstones, Canterbury, 1990 to 2020" author="Dr. Martin Latham" layout="vtl" 
-banner="/images/banners/21c.jpg">
-
-<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-config title="Waterstones, Canterbury, 1990 to 2020" author="Dr. Martin Latham" layout="vtl" banner="/images/banners/21c.jpg">
 
 #
+
+<param ve-entity eid="Q29303">
 
 Somewhere in the TV archives is a 1991 film of Julian Barnes walking around Canterbury and talking in Waterstones. It’s one of many moments from the bookshop I have run in the city for 30 years, at 20-21 St Margaret’s Street, and since 2019 at 7-8 Rose Lane. I came here to open the shop because of the resonance ‘Canterbury’ has: of words, of pilgrimage, of longing and of some pan-European Boccaccian earthiness, a visionary mist my city of London had only in certain parts, on certain days.
 <param ve-image url="images/Waterstones March 2021 MJC.jpg" label="Waterstones, Rose Lane, Canterbury" attribution="Photogaphed by Martin Crowther, March 2021"> 
 
-[Canterbury](/20c/20c-Canterbury) did not disappoint. Unlike many ‘pretty’ UK cities it gets lots of worldwide visitors. The locals even moan about them, and they did that anciently too. Like or not, Canterbury belongs to the world, as much as Venice and Compostela. Poised between London and Paris, Roman and Christian, Catholic and Protestant,  it has a Triestian liminality which may not be apparent from its chain store facades.
+[Canterbury](/canterbury) did not disappoint. Unlike many ‘pretty’ UK cities it gets lots of worldwide visitors. The locals even moan about them, and they did that anciently too. Like or not, Canterbury belongs to the world, as much as Venice and Compostela. Poised between London and Paris, Roman and Christian, Catholic and Protestant,  it has a Triestian liminality which may not be apparent from its chain store facades.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/71/Canterbury%2C_High_Street_02.jpg" label="Canterbury High Street" attribution="Palickap, CC BY-SA 3.0 via Wikimedia Commons"> 
 
 A Japanese lady wrote from home for the scone recipe we used in our bookshop café. Gravitas-exuding courtly-mannered Germans in loden coats shopped regularly for piles of Art books and fiction. The Dutch humbled us with their courtesy, perfect English and knowledge of our literature. I discussed our lesser paper quality with Italian book-lovers, and loved the French, a lot. I learned that Romanians were particularly book-loving and charismatic. Russians were moved and astonished by the profusion of uncensored literature spread over three floors.
@@ -37,4 +35,3 @@ Many writers interacted with the shop. Spike Milligan answered the phone, to cus
 
 In summer, I ate ice cream on the roof. It was a shop of dreams, I can still smell the combination of books and wood, and I dreamed vividly there when I afternoon-napped in my hammock in a basement cupboard. I happily sacrificed that bedroom to get the Roman Bath-house floor excavated via the biggest petty cash claim in Waterstones’ history. Head Office called it a pile of rubble, but I am proud to say that is now a Scheduled Ancient Monument with finds on display. Though now in the basement of a successor shop at 20-21 St Margaret’s Street, the occupants are legally bound to show the remains on request. I thought the Rose Lane relocation would never have the magic, but the books and customers have quickly proved me wrong. Like an unfinished Chaucerian pilgrimage, the contrapuntal dance between Canterbury and the written word, which before me figured [Chaucer](/14c/14c-chaucer), Marlowe, Somner and [Conrad](/19c/19c-conrad-biography), just goes on as it will when I lie in Kent’s earthy earth.
 <param ve-image url="images/Former site of Waterstones March 2021 MJC.jpg" label="20-21 St Margaret's Street" attribution="Photogaphed by Martin Crowther, March 2021"> 
-
