@@ -43,4 +43,4 @@ Hutchinson, John (1892). "John Wallis" . _Men of Kent and Kentishmen_. Canterbur
 ### References
 
 [^ref1]: Kent History and Library Centre U317/T2/11
-[^ref1]: Correspondence of John Wallis (1616-1703). Volume I (1641-1659). Eds. Philip Beeley and Christoph J. Scriba. Oxford: OUP, 2003. 121.
+[^ref2]: Correspondence of John Wallis (1616-1703). Volume I (1641-1659). Eds. Philip Beeley and Christoph J. Scriba. Oxford: OUP, 2003. 121.
