@@ -15,7 +15,6 @@
 John Boys, agriculturalist, was well known for his breed of South Down sheep.  
 
 ##
-
 **[Elizabeth Carter](18c-carter-biography)**
 
 - author: Dr Peter Merchant
@@ -23,6 +22,15 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff22cb41-5bde-4bf8-a335-3fbffef0264a)
 
 Elizabeth Carter was an English poet, classicist, writer, translator, and linguist who was born in Deal.  
+
+##
+**[Elizabeth Burgess](18c-burgess-biography)**
+
+- author: Stephen Williamson
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41)
+
+Playwright and pastry-maker.
 
 ##
 **[Ann Radcliffe](18c-radcliffe-biography)**
