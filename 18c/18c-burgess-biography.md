@@ -35,7 +35,6 @@ Those Gentlemen and Ladies who please to favor her with their Commands, may be s
 In the neatest and genteelest Manner, and their Favors gratefully acknowledged.<br>
 RICH SOUPS ready every MONDAY, WEDNESDAY, and FRIDAY, from Twelve till Two.
 TURTLE-SOUP on MONDAY next.
-<param ve-image url="https://stor.artstor.org/stor/a921a8a8-c5d2-43f3-aefd-6f4e505770f9" label="St George's Street c. early 20th century">
 <param ve-image url="https://stor.artstor.org/stor/4fda5de2-62ed-4549-a66d-201350544e47" label="View from Whitefriars looking towards the St George's Clock tower">
 
 Meanwhile Edward and Elizabeth had at least four children: Edward 1765, George 1770, Thomas 1773, William Smith 1778.
@@ -43,6 +42,7 @@ Meanwhile Edward and Elizabeth had at least four children: Edward 1765, George 1
 Then in April 1780 Elizabeth Burgess is announced in the _Kentish Gazette_ as Author of a Comedy (never acted) called ‘The Oaks or The Beauties of Canterbury’. ‘Written by Mrs Burgess. The Prologues to be spoken by Mr Miell and the Epilogue by Mrs Dawes’. The play was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate, and seems to have been very successful. It was printed at her own expense and survives in full. 
 <br><br>
 In May she is announced as Author of a new Prelude called ‘The Freemen of Canterbury, Or, Preface to the Election’, which features Mr Miell in the role of Nimbletongue, a hairdresser. Unfortunately this and the following pieces announced for Friday 17th August 1781 do not: ‘The Oddities, or the Canterbury Races’ and also for a ‘new Prologue she has written for a Comic Opera called The Wedding Ring’ to be performed on the same evening. It was of course no coincidence that this performance took place during ‘Canterbury Races Week’, an annual event on Barham Downs.
+<param ve-map center="619029, 152812" zoom="15">
 
 The Oaks is a very light comedy that revolves around various romances. There is perhaps only one really memorable line, ‘In your way here from the Cathedral there is, Sir, a place called the Oaks. Sir, it is a genteel walk, frequented by the ladies in the morning, and by the other sort of ladies in the evening’, spoken by the inn landlord.
 <br>
@@ -68,7 +68,7 @@ But she is such an awkward clumsy Woman,
 Quite impolite – her education common.   
 
 Then in 1805 she published a book called _The Life and History of Betty Bolaine_ – a notorious miser who had just died aged 85. It sold well and went through several editions over the next 30 years. Elizabeth (Betty) Bolaine was sister to a well-regarded Canterbury surgeon and apothecary Noah Bolaine, who in 1753 published a repost to Mr Delafaye’s, Rector of St Mildreds and All Saints, denial of the efficacy of inoculation in the prevention of smallpox. The account of her life runs to over 60 pages including illustrative verse by Elizabeth Burgess. On reading it one cannot but be horrified by Betty’s avarice, but perhaps there is also a streak of admiration for another woman determined like Elizabeth to do her own thing. They were not alone. Mrs Sarah Baker, who managed an East Kent Company of Actors and built the new Canterbury Theatre in Orange-Street that opened in time for Race Week on 24th August 1789, was another.
-<param ve-image url="images/orangestreet MJC.jpg" label="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther">
+<param ve-image url="/19c/images/orangestreet MJC.jpg" label="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther">
 <param ve-map center="Q26534254" zoom="15">
 
 The _Kentish Gazette_ records Elizabeth Burgess's death in 1825 with the following words:
@@ -76,6 +76,7 @@ The _Kentish Gazette_ records Elizabeth Burgess's death in 1825 with the followi
 ‘Aged 88. Blessed with a strong mind, the deceased, many years ago, produced a satirical piece, called _The Maid of the Oaks_,* which was acted on our stage. The incidents, on the first representation, being known to the audience, it received considerable applause: a few years since, it was again performed, but the love for scandal, and allusion to the parties, having diminished with the growth of time, the prominent features of the play were lost — At the death of a female, familiarly known by the name of _Betty Bolaine_, Mrs. B. again exerted her talents, in writing a history of the old lady's life, and depicting, in very glowing colours, her penurious and eccentric manners. Implicit faith was placed upon this production; although it was known that the writer pretty liberally bestowed vituperation upon her names, in consequence of the disappointments she experienced in not participating in the wealth which the old niggard had amassed.—The work had a great sale. Mrs. B. for many years was in the habit of selling cakes in the city, and latterly kept a registry-office for servants.’
 <br><br>
 *The Maid of the Oaks was a different play; it should read The Oaks.
+<param ve-image url="https://stor.artstor.org/stor/a921a8a8-c5d2-43f3-aefd-6f4e505770f9" label="St George's Street c. early 20th century">
 
 ### Bibliography
 <br>
