@@ -33,6 +33,7 @@ After the Glorious revolution of 1688, Wallis worked for William III, decipherin
 John Wallis died at Oxford in 1703. An autobiographical account of his life is held at the Kent Archives. Today, the John Wallis Academy in Ashford is named after him.
 <br><br>
 He is not the only mathematician associated with Kent. John Edensor Littlewood, who researched Diophantine analysis and the Riemann zeta function was born in Rochester and Ada Lovelace spent her summers in Kent.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Christchurch_School%2C_Ashford_-_geograph.org.uk_-_1726560.jpg" label="Christchurch School (Now the John Wallis Academy), Ashford Kent" attribution="David Anstiss / Christchurch School, Ashford" license="CC BY-SA 2.0">
 
 ### Bibliography
 
