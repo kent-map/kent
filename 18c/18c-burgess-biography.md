@@ -35,15 +35,14 @@ Those Gentlemen and Ladies who please to favor her with their Commands, may be s
 In the neatest and genteelest Manner, and their Favors gratefully acknowledged.<br>
 RICH SOUPS ready every MONDAY, WEDNESDAY, and FRIDAY, from Twelve till Two.
 TURTLE-SOUP on MONDAY next.
-<param ve-image url="https://stor.artstor.org/stor/4fda5de2-62ed-4549-a66d-201350544e47" label="View from Whitefriars looking towards the St George's Clock tower">
+<param ve-image url="https://stor.artstor.org/stor/4fda5de2-62ed-4549-a66d-201350544e47" label="View from Whitefriars looking towards the St George's Clock tower" attribution="Edward Crowther">
 
 Meanwhile Edward and Elizabeth had at least four children: Edward 1765, George 1770, Thomas 1773, William Smith 1778.
 <br><br>
 Then in April 1780 Elizabeth Burgess is announced in the _Kentish Gazette_ as Author of a Comedy (never acted) called ‘The Oaks or The Beauties of Canterbury’. ‘Written by Mrs Burgess. The Prologues to be spoken by Mr Miell and the Epilogue by Mrs Dawes’. The play was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate, and seems to have been very successful. It was printed at her own expense and survives in full. 
 <br><br>
 In May she is announced as Author of a new Prelude called ‘The Freemen of Canterbury, Or, Preface to the Election’, which features Mr Miell in the role of Nimbletongue, a hairdresser. Unfortunately this and the following pieces announced for Friday 17th August 1781 do not: ‘The Oddities, or the Canterbury Races’ and also for a ‘new Prologue she has written for a Comic Opera called The Wedding Ring’ to be performed on the same evening. It was of course no coincidence that this performance took place during ‘Canterbury Races Week’, an annual event on Barham Downs.
-<param ve-image url="https://stor.artstor.org/stor/30bd6d3e-aaf5-4273-98ea-5ad2a813039f" label="Christchurch Gate">
-<param ve-map center="619029, 152812" zoom="15">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Christ_Church_Gate_-Joseph_Mallord_William_Turner.png" label="Christchurch Gate, 1792" attribution="Joseph Mallord William Turner, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 The Oaks is a very light comedy that revolves around various romances. There is perhaps only one really memorable line, ‘In your way here from the Cathedral there is, Sir, a place called the Oaks. Sir, it is a genteel walk, frequented by the ladies in the morning, and by the other sort of ladies in the evening’, spoken by the inn landlord.
 <br>
@@ -83,12 +82,12 @@ The _Kentish Gazette_ records Elizabeth Burgess's death in 1825 with the followi
 
 ### Bibliography
 
- _The Oaks, or The Beauties of Canterbury. A Comedy_, as performed at the Theatre in Canterbury by Mrs. Burgess printed by Simmons and Kirkby Canterbury 1780. 
-_The Life and History of Betty Bolaine, Late of Canterbury_, printed and sold for the Author by J. Saffery, Canterbury 1805.   
+ _The Oaks, or The Beauties of Canterbury. A Comedy_, as performed at the Theatre in Canterbury by Mrs. Burgess printed by Simmons and Kirkby Canterbury 1780.    
+_The Life and History of Betty Bolaine, Late of Canterbury_, printed and sold for the Author by J. Saffery, Canterbury 1805.     
 _The Thespian Dictionary_ printed by J. Cundee Ivy Lane for T Hurst Paternoster-Row London 1802.   
 Inoculation an indefensible practice: a sermon preached at the United Parish-Churches of St. Mildred's and All-Saints, in the City of Canterbury, on the third and twenty-fourth of June, 1753 by Theodore Delafaye. Printed for M. Cooper London 1753.   
-A letter to the Rev. Mr. Delafaye, in answer to his sermon, lately publish'd, intitled, Inoculation an indefensible practice: By N. Bolaine, Surgeon. Printed for R. Baldwin, at the Rose, in Pater-noster-Row, London 1753.   
-A vindication of a sermon, entitled, inoculation an indefensible practice. In which Dr. Kirkpatrick's Arguments in Favour of the Operation, together with his and a certain Letter-Writer's Objections to the Sermon, are distinctly consider'd and reply'd to; and the Practice demonstrated, in the amplest Manner, highly culpable in a Moral, extremely absurd in a Physical View. By Theodore Delafaye, A.M. Rector of St. Mildred's and All-Saints, in the City of Canterbury Printed for S. and E. Ballard, at the Blue-Ball, in Little-Britain, London 1754.   
-Remarks on the Rev. Mr. Delafaye's vindication of his sermon, intitled, inoculation an indefensible practice. By N. Bolaine, surgeon. Printed for R. Baldwin, in Pater-noster-Row; and sold by Mess. Flackton, in Canterbury, 1754.   
-Some Remarks on the Rev. Mr Delafaye's vindication of his sermon against Inoculation. In a letter to a friend. By a regular Physician. [Signed, Philalethes.] Printed for Mr T. Smith Bookseller in Canterbury 1754.   
+'A letter to the Rev. Mr. Delafaye, in answer to his sermon, lately publish'd, intitled, Inoculation an indefensible practice', By N. Bolaine, Surgeon. Printed for R. Baldwin, at the Rose, in Pater-noster-Row, London 1753.   
+'A vindication of a sermon, entitled, inoculation an indefensible practice. In which Dr. Kirkpatrick's Arguments in Favour of the Operation, together with his and a certain Letter-Writer's Objections to the Sermon, are distinctly consider'd and reply'd to; and the Practice demonstrated, in the amplest Manner, highly culpable in a Moral, extremely absurd in a Physical View', By Theodore Delafaye, A.M. Rector of St. Mildred's and All-Saints, in the City of Canterbury Printed for S. and E. Ballard, at the Blue-Ball, in Little-Britain, London 1754.   
+'Remarks on the Rev. Mr. Delafaye's vindication of his sermon, intitled, inoculation an indefensible practice', By N. Bolaine, surgeon. Printed for R. Baldwin, in Pater-noster-Row; and sold by Mess. Flackton, in Canterbury, 1754.   
+'Some Remarks on the Rev. Mr Delafaye's vindication of his sermon against Inoculation In a letter to a friend'' By a regular Physician. [Signed, Philalethes.] Printed for Mr T. Smith Bookseller in Canterbury 1754.   
 
