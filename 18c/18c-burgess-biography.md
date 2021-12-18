@@ -78,7 +78,7 @@ The _Kentish Gazette_ records Elizabeth Burgess's death in 1825 with the followi
 *The Maid of the Oaks was a different play; it should read The Oaks.
 
 ### Bibliography
-
+<br>
  _The Oaks, or The Beauties of Canterbury. A Comedy_, as performed at the Theatre in Canterbury by Mrs. Burgess printed by Simmons and Kirkby Canterbury 1780. 
  <br>
 _The Life and History of Betty Bolaine, Late of Canterbury_, printed and sold for the Author by J. Saffery, Canterbury 1805.   
