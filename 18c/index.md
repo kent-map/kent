@@ -21,7 +21,7 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c8270a90-11bb-4a80-aa86-c01accee9063)
 
-A woman of extraordinary talents.
+A woman of extraordinary talents - Mantua Maker, Pastry Maker, Registry Office Keeper for Servants, Playwright and Author.
 
 ##
 **[Elizabeth Carter](18c-carter-biography)**
