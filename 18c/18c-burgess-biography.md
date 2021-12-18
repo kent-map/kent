@@ -41,8 +41,9 @@ In May she is announced as Author of a new Prelude called ‘The Freemen of Cant
 The Oaks is a very light comedy that revolves around various romances. There is perhaps only one really memorable line, ‘In your way here from the Cathedral there is, Sir, a place called the Oaks. Sir, it is a genteel walk, frequented by the ladies in the morning, and by the other sort of ladies in the evening’, spoken by the inn landlord.
 
 The ‘Red Lion’ innkeeper’s overcharging of the Duke de Nivernois, the French Ambassador recently arrived at Dover, that caused the populace of Canterbury so much amusement in 1762 (and is mentioned with amusement in the letter of Madame de Pompadour to the Duke in the same year) is referred to, as is a more recent small fire that apparently caused a stampede in the Canterbury theatre when the famed Mr Palmer from the Drury Lane Theatre London was performing. These lines were no doubt well received by the Canterbury audiences. However one can but conclude that this is a competent rather than a brilliant piece of work.
-
+<br><br>
 For the next twenty years any further literary output is unknown. _The Thespian Dictionary_ in 1802 has an entry: BURGESS, (Mrs.) is author of a comedy, called “The Oaks; or, Beauties of Canterbury”, 1780, several times acted in that city, where she keeps a shop in St. George's Street. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Louis-Jules_Mancini-Mazarini.jpg" label="Louis-Jules Mancini-Mazarini, the Duc de Nivernois" attribution="Jean-Antoine Houdon, Public domain, via Wikimedia Commons">
 
 A family website, no longer live, advised that:
 <br><br>
