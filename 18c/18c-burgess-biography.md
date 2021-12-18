@@ -42,8 +42,7 @@ Meanwhile Edward and Elizabeth had at least four children: Edward 1765, George 1
 Then in April 1780 Elizabeth Burgess is announced in the _Kentish Gazette_ as Author of a Comedy (never acted) called ‘The Oaks or The Beauties of Canterbury’. ‘Written by Mrs Burgess. The Prologues to be spoken by Mr Miell and the Epilogue by Mrs Dawes’. The play was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate, and seems to have been very successful. It was printed at her own expense and survives in full. 
 <br><br>
 In May she is announced as Author of a new Prelude called ‘The Freemen of Canterbury, Or, Preface to the Election’, which features Mr Miell in the role of Nimbletongue, a hairdresser. Unfortunately this and the following pieces announced for Friday 17th August 1781 do not: ‘The Oddities, or the Canterbury Races’ and also for a ‘new Prologue she has written for a Comic Opera called The Wedding Ring’ to be performed on the same evening. It was of course no coincidence that this performance took place during ‘Canterbury Races Week’, an annual event on Barham Downs.
-<param ve-image url="https://stor.artstor.org/stor/30bd6d3e-aaf5-4273-98ea-5ad2a813039f" label="Christchurch Gate">
-<param ve-map center="619029, 152812" zoom="15">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Christ_Church_Gate_-Joseph_Mallord_William_Turner.png" label="Christchurch Gate, 1792" attribution="Joseph Mallord William Turner, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 The Oaks is a very light comedy that revolves around various romances. There is perhaps only one really memorable line, ‘In your way here from the Cathedral there is, Sir, a place called the Oaks. Sir, it is a genteel walk, frequented by the ladies in the morning, and by the other sort of ladies in the evening’, spoken by the inn landlord.
 <br>
