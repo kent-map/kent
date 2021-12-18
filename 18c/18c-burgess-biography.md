@@ -2,6 +2,9 @@
 <param ve-config title="Mrs Elizabeth Burgess (1737-1825)" author="Stephen Williamson" layout="vtl" 
 banner="/images/banners/18c.jpg">
 
+<!-- Kent with map centered at Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808">
 
@@ -25,7 +28,7 @@ ELIZABETH BURGESS, MANTUA-MAKER, FROM St. ALPHAGE’S, TAKES this Opportunity to
 Genteel Lodgings to be Let ready-furnish’d, during the Race-week
 <param ve-image url="https://stor.artstor.org/stor/4dc963f3-29e3-4756-b974-a4e1a4aad62e" label="43, King Street" attribution="Edward Crowther">
 
-In 1772 Kentish Gazette advises that Mr Burgess next door to the Post Office is selling tickets for the Theatre (Post Office then in St George’s Street and described in 1794 as ‘Opposite the White Friars Gateway by St George’s Church’), and in the same year the following appears:
+In 1772 [Kentish Gazette](/18c/18c-kentish-gazette) advises that Mr Burgess next door to the Post Office is selling tickets for the Theatre (Post Office then in St George’s Street and described in 1794 as ‘Opposite the White Friars Gateway by St George’s Church’), and in the same year the following appears:
 <br><br>
 ELIZABETH BURGESS Begs Leave to inform the PUBLIC, That she has opened a SHOP, in St. GEORGE’S STREET, CANTERBURY; Where are MADE and SOLD all Sorts of PASTRY and CONFECTIONARY.<br>
 Those Gentlemen and Ladies who please to favor her with their Commands, may be served with RICH CAKES, MADE-DISHES, JELLIES, SOUPS, HAMS, POTTED and COLLARED MEATS, etc.
@@ -42,7 +45,7 @@ Then in April 1780 Elizabeth Burgess is announced in the _Kentish Gazette_ as Au
 In May she is announced as Author of a new Prelude called ‘The Freemen of Canterbury, Or, Preface to the Election’, which features Mr Miell in the role of Nimbletongue, a hairdresser. Unfortunately this and the following pieces announced for Friday 17th August 1781 do not: ‘The Oddities, or the Canterbury Races’ and also for a ‘new Prologue she has written for a Comic Opera called The Wedding Ring’ to be performed on the same evening. It was of course no coincidence that this performance took place during ‘Canterbury Races Week’, an annual event on Barham Downs.
 
 The Oaks is a very light comedy that revolves around various romances. There is perhaps only one really memorable line, ‘In your way here from the Cathedral there is, Sir, a place called the Oaks. Sir, it is a genteel walk, frequented by the ladies in the morning, and by the other sort of ladies in the evening’, spoken by the inn landlord.
-
+<br>
 The ‘Red Lion’ innkeeper’s overcharging of the Duke de Nivernois, the French Ambassador recently arrived at Dover, that caused the populace of Canterbury so much amusement in 1762 (and is mentioned with amusement in the letter of Madame de Pompadour to the Duke in the same year) is referred to, as is a more recent small fire that apparently caused a stampede in the Canterbury theatre when the famed Mr Palmer from the Drury Lane Theatre London was performing. These lines were no doubt well received by the Canterbury audiences. However one can but conclude that this is a competent rather than a brilliant piece of work.
 <br><br>
 For the next twenty years any further literary output is unknown. _The Thespian Dictionary_ in 1802 has an entry: BURGESS, (Mrs.) is author of a comedy, called “The Oaks; or, Beauties of Canterbury”, 1780, several times acted in that city, where she keeps a shop in St. George's Street. 
