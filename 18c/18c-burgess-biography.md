@@ -68,7 +68,7 @@ It surely must be shocking Stuff; however,
 To write a Play, she should be something clever,   
 But she is such an awkward clumsy Woman,    
 Quite impolite – her education common.   
-<param ve-image url="https://stor.artstor.org/stor/79a30b48-ac51-4a64-a949-de2b726c7ae7" label="Woodcut illustrating St George's Church with St George's Gate in the distance">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Old_woman_scouring_a_cooking_pot_in_front_of_large_kitchen_fire._Lady_handing_menu%28%3F%29_to_cook_LCCN2002705911.jpg" label="Old woman scouring a cooking pot" attribution="Miscellaneous Items in High Demand, PPOC, Library of Congress, Public domain, via Wikimedia Commons">
 
 Then in 1805 she published a book called _The Life and History of Betty Bolaine_ – a notorious miser who had just died aged 85. It sold well and went through several editions over the next 30 years. Elizabeth (Betty) Bolaine was sister to a well-regarded Canterbury surgeon and apothecary Noah Bolaine, who in 1753 published a repost to Mr Delafaye’s, Rector of St Mildreds and All Saints, denial of the efficacy of inoculation in the prevention of smallpox. The account of her life runs to over 60 pages including illustrative verse by Elizabeth Burgess. On reading it one cannot but be horrified by Betty’s avarice, but perhaps there is also a streak of admiration for another woman determined like Elizabeth to do her own thing. They were not alone. Mrs Sarah Baker, who managed an East Kent Company of Actors and built the new Canterbury Theatre in Orange-Street that opened in time for Race Week on 24th August 1789, was another.
 <param ve-image url="https://stor.artstor.org/stor/8ad09547-c0f0-47b8-84f8-748c62ad20eb" label="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther">
@@ -98,3 +98,4 @@ A vindication of a sermon, entitled, inoculation an indefensible practice. In wh
 Remarks on the Rev. Mr. Delafaye's vindication of his sermon, intitled, inoculation an indefensible practice. By N. Bolaine, surgeon. Printed for R. Baldwin, in Pater-noster-Row; and sold by Mess. Flackton, in Canterbury, 1754.   
  <br>
 Some Remarks on the Rev. Mr Delafaye's vindication of his sermon against Inoculation. In a letter to a friend. By a regular Physician. [Signed, Philalethes.] Printed for Mr T. Smith Bookseller in Canterbury 1754.   
+<param ve-image url="https://stor.artstor.org/stor/79a30b48-ac51-4a64-a949-de2b726c7ae7" label="Woodcut illustrating St George's Church with St George's Gate in the distance">
