@@ -68,7 +68,7 @@ But she is such an awkward clumsy Woman,
 Quite impolite – her education common.   
 
 Then in 1805 she published a book called _The Life and History of Betty Bolaine_ – a notorious miser who had just died aged 85. It sold well and went through several editions over the next 30 years. Elizabeth (Betty) Bolaine was sister to a well-regarded Canterbury surgeon and apothecary Noah Bolaine, who in 1753 published a repost to Mr Delafaye’s, Rector of St Mildreds and All Saints, denial of the efficacy of inoculation in the prevention of smallpox. The account of her life runs to over 60 pages including illustrative verse by Elizabeth Burgess. On reading it one cannot but be horrified by Betty’s avarice, but perhaps there is also a streak of admiration for another woman determined like Elizabeth to do her own thing. They were not alone. Mrs Sarah Baker, who managed an East Kent Company of Actors and built the new Canterbury Theatre in Orange-Street that opened in time for Race Week on 24th August 1789, was another.
-<param ve-image url="/19c/images/orangestreet MJC.jpg" label="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther">
+<param ve-image url="https://stor.artstor.org/stor/8ad09547-c0f0-47b8-84f8-748c62ad20eb" label="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther">
 <param ve-map center="Q26534254" zoom="15">
 
 The _Kentish Gazette_ records Elizabeth Burgess's death in 1825 with the following words:
