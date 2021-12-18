@@ -29,7 +29,7 @@ In 1667, whilst investigating high tides, Wallis argued that annual high tides w
 After the Glorious revolution of 1688, Wallis worked for William III, deciphering correspondence which was thought to shed light on the birth of the Prince of Wales (James Francis Edward Stuart). Later, his grandson William Blencoe, whom he had taught, became a government cryptographer.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Portrait_of_William_III_%284672159%29.jpg" label="William III" attribution="William Holl, Public domain, via Wikimedia Commons">
 
-John Wallis died at Oxford in 1703. Today, the John Wallis Academy in Ashford is named after him.
+John Wallis died at Oxford in 1703. An autobiographical account of his life is held at the Kent Archives. Today, the John Wallis Academy in Ashford is named after him.
 <br><br>
 He is not the only mathematician associated with Kent. John Edensor Littlewood, who researched Diophantine analysis and the Riemann zeta function was born in Rochester and Ada Lovelace spent her summers in Kent.
 
