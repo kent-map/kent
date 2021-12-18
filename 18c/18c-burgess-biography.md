@@ -79,23 +79,16 @@ The _Kentish Gazette_ records Elizabeth Burgess's death in 1825 with the followi
 ‘Aged 88. Blessed with a strong mind, the deceased, many years ago, produced a satirical piece, called _The Maid of the Oaks_,* which was acted on our stage. The incidents, on the first representation, being known to the audience, it received considerable applause: a few years since, it was again performed, but the love for scandal, and allusion to the parties, having diminished with the growth of time, the prominent features of the play were lost — At the death of a female, familiarly known by the name of _Betty Bolaine_, Mrs. B. again exerted her talents, in writing a history of the old lady's life, and depicting, in very glowing colours, her penurious and eccentric manners. Implicit faith was placed upon this production; although it was known that the writer pretty liberally bestowed vituperation upon her names, in consequence of the disappointments she experienced in not participating in the wealth which the old niggard had amassed.—The work had a great sale. Mrs. B. for many years was in the habit of selling cakes in the city, and latterly kept a registry-office for servants.’
 <br><br>
 *The Maid of the Oaks was a different play; it should read The Oaks.
-<param ve-image url="https://stor.artstor.org/stor/a921a8a8-c5d2-43f3-aefd-6f4e505770f9" label="St George's Street c. early 20th century">
+<param ve-image url="https://stor.artstor.org/stor/79a30b48-ac51-4a64-a949-de2b726c7ae7" label="Woodcut illustrating St George's Church with St George's Gate in the distance">
 
 ### Bibliography
-<br>
+
  _The Oaks, or The Beauties of Canterbury. A Comedy_, as performed at the Theatre in Canterbury by Mrs. Burgess printed by Simmons and Kirkby Canterbury 1780. 
- <br>
 _The Life and History of Betty Bolaine, Late of Canterbury_, printed and sold for the Author by J. Saffery, Canterbury 1805.   
- <br>
 _The Thespian Dictionary_ printed by J. Cundee Ivy Lane for T Hurst Paternoster-Row London 1802.   
- <br>
 Inoculation an indefensible practice: a sermon preached at the United Parish-Churches of St. Mildred's and All-Saints, in the City of Canterbury, on the third and twenty-fourth of June, 1753 by Theodore Delafaye. Printed for M. Cooper London 1753.   
- <br>
 A letter to the Rev. Mr. Delafaye, in answer to his sermon, lately publish'd, intitled, Inoculation an indefensible practice: By N. Bolaine, Surgeon. Printed for R. Baldwin, at the Rose, in Pater-noster-Row, London 1753.   
- <br>
 A vindication of a sermon, entitled, inoculation an indefensible practice. In which Dr. Kirkpatrick's Arguments in Favour of the Operation, together with his and a certain Letter-Writer's Objections to the Sermon, are distinctly consider'd and reply'd to; and the Practice demonstrated, in the amplest Manner, highly culpable in a Moral, extremely absurd in a Physical View. By Theodore Delafaye, A.M. Rector of St. Mildred's and All-Saints, in the City of Canterbury Printed for S. and E. Ballard, at the Blue-Ball, in Little-Britain, London 1754.   
- <br>
 Remarks on the Rev. Mr. Delafaye's vindication of his sermon, intitled, inoculation an indefensible practice. By N. Bolaine, surgeon. Printed for R. Baldwin, in Pater-noster-Row; and sold by Mess. Flackton, in Canterbury, 1754.   
- <br>
 Some Remarks on the Rev. Mr Delafaye's vindication of his sermon against Inoculation. In a letter to a friend. By a regular Physician. [Signed, Philalethes.] Printed for Mr T. Smith Bookseller in Canterbury 1754.   
-<param ve-image url="https://stor.artstor.org/stor/79a30b48-ac51-4a64-a949-de2b726c7ae7" label="Woodcut illustrating St George's Church with St George's Gate in the distance">
+
