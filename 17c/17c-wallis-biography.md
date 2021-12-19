@@ -30,7 +30,7 @@ In 1666, John's brother Henry died leaving his Kentish estates to John, with a �
 
 A year later, a publication on high tides, further reveals Wallis's connectedness with Kent. Wallis argued that annual high tides were not on the two equinoxes, nor on the winter and summer solstices but at a middle time: “and particularly for the Coast of Kent (and consequently the Rivers of Thames and Medway) about the beginning of November and February”.[^ref12] These observations were not his own, but sent to him. Two years later in 1669/70 he received letters from Hythe recording one of the highest tides they had had in a while. We do not know who these were from but we do know that Wallis had relatives in Hythe (his niece Anne married Julius Deedes, whose father was the captain of the Hythe militia during the Commonwealth).[^ref13] According to Henning, Julius married into a "leading Cinque Ports family"[^ref14] which suggests that the Wallis family were able to make good marriages. John's father had been a school master at Saltwood, and later curate for Hythe and Aldington before becoming vicar in Ashford,[^ref15] so had strong connections with the area.  John's sister Helen had married Richard Bate of Lydd, a gentleman. 
 
-During the months of April and May 1670, Wallis is known to have visited Kent  with his son John who fell ill of "a very desperate malignant fever ... which after did degenerate into a Chronick desease (of which part was a Kentish ague)".[^ref16] Wallis records: "After a considerable stay where I was; til I saw him begin (as wee hoped) to amend; I was fain (being called home) to leave him there behind mee." It is clear that Wallis considered Oxford not Kent as his home, despite his many ties there.[^ref5]
+During the months of April and May 1670, Wallis is known to have visited Kent  with his son John who fell ill of "a very desperate malignant fever ... which after did degenerate into a Chronick desease (of which part was a Kentish ague)".[^ref16] Wallis records: "After a considerable stay where I was; til I saw him begin (as wee hoped) to amend; I was fain (being called home) to leave him there behind mee."[^ref17] It is clear that Wallis considered Oxford not Kent as his home, despite his many ties there.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Tidal_mud%2C_River_Medway_-_geograph.org.uk_-_2139864.jpg" label="Tidal mud, River Medway" attribution="N Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0"> 
        
 After the Glorious revolution of 1688, Wallis worked for William III, deciphering correspondence which was thought to shed light on the birth of the Prince of Wales (James Francis Edward Stuart). Later, his grandson, William Blencoe, became a government cryptographer. John Wallis died at Oxford in 1703. An autobiographical account of his life is held at the Kent Archives. 
@@ -61,12 +61,8 @@ Hutchinson, John (1892). "John Wallis" . _Men of Kent and Kentishmen_. Canterbur
 [^ref10]: Life of Dr. John Barwick, p. 251, quoted in Clerke, A.M. 'John Wallis (1616-1703)', _Dictionary of National Biography 1885-1900_, vol.59. 
 [^ref11]: Rampelt, Jason M. _Distinctions of Reason and Reasonable Distinctions The Academic Life of John Wallis (1616–1703)_, 2019.  
 [^ref12]: Wallis, John. “An Essay of Dr. John Wallis, Exhibiting His Hypothesis about the Flux and Reflux of the Sea, Taken from the Consideration of the Common Center of Gravity of the Earth and Moon; Together with an Appendix of the Same, Containing an Answer to Some Objections, Made by Severall Persons against That Hypothesis.” Philosophical Transactions (1665-1678), vol. 1, The Royal Society, 1665, pp. 263–81, http://www.jstor.org/stable/101507.   
-
-[^ref14]: The History of Parliament: the House of Commons 1660-1690, ed. B.D. Henning, 1983
-[^ref3]: _Correspondence of John Wallis (1616-1703). Volume I (1641-1659)_. Eds. Philip Beeley and Christoph J. Scriba. Oxford: OUP, 2003. 121.
-[ref1]: Distinctions of Reason and Reasonable Distinctions The Academic Life of John Wallis (1616–1703) By Jason M. Rampelt · 2019. Google Books CHECK
-[^ref4]: _The Correspondence of John Wallis: 1672-April 1675_ By John Wallis, Christoph J. Scriba, Philip Beeley · 2003
-Distinctions of Reason and Reasonable Distinctions The Academic Life of John Wallis (1616–1703) By Jason M. Rampelt · 2019. Google Books CHECK
-
-[^ref5]: Eales, J. _Alan Everitt and the Community of Kent revisited in The county community in seventeenth century England and Wales._ CHECK 
-[^ref6]: _Correspondence of John Wallis (1616-1703) Volume III (October 1668-1671)_ By John Wallis, Christoph J. Scriba, Philip Beeley · 2012
+[^ref13]: Scriba, Christoph J. _Correspondence of John Wallis (1616-1703) Volume III (October 1668-1671) by John Wallis_, Philip Beeley, 2012, p.336.
+[^ref14]: Henning, D.D. ed. _The History of Parliament: the House of Commons 1660-1690_, 1983.
+[^ref15]: [Clergy of the Church of England Database](https://theclergydatabase.org.uk/)
+[^ref16]: Scriba, Christoph J. _Correspondence of John Wallis (1616-1703) Volume III (October 1668-1671) by John Wallis_, Philip Beeley, 2012, p.390.
+[^ref17]: Scriba, Christoph J. _Correspondence of John Wallis (1616-1703) Volume III (October 1668-1671) by John Wallis_, Philip Beeley, 2012, p.390.
