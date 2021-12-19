@@ -15,6 +15,15 @@
 Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born; however, like much of her life, this is difficult to confirm.
 
 ##
+**[John Wallis](17c-wallis-biography)**
+
+- author: Michelle Crowther
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+
+Mathematician and cryptographer, Wallis is known for his pioneering work in infinitesimal calculus.
+
+##
 
 **[Sheppey at War](17c-sheppey-at-war)**
 
