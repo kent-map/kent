@@ -7,6 +7,10 @@
 <param ve-entity eid="Q614560" aliases="Tenterden">
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q2313624" aliases="Rolvenden">
+<param ve-entity eid="Q4406028" aliases="Ruckinge">
+<param ve-entity eid="Q921173" aliases="Aldington">
+<param ve-entity eid="Q1639689" aliases="Lydd">
+<param ve-entity eid="Q2621103" aliases="Saltwood">
 
 
 
@@ -34,13 +38,15 @@ How much time Wallis spent in Kent at this period is uncertain, although he stil
 At the restoration of the monarchy in 1660, Wallis was keen to refute any clams that he had deciphered Charles I’s correspondence in such a way that might have harmed the king and in fact implied that he “could have discovered a great deal”.[^ref10] In recognition that he had signed the remonstrance against the king’s execution in 1648, he was allowed to keep his posts and was also nominated a royal chaplain. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/John_Wallis_by_Sir_Godfrey_Kneller%2C_Bt.jpg" label="John Wallis by Sir Godfrey Kneller, Bt" attribution="After Godfrey Kneller, Public domain, via Wikimedia Commons">
 
-In 1666, John's brother Henry died leaving his Kentish estates to John, with a £60 annuity for his widow.[^ref11] As there were debts to pay, this may not have swelled John's income considerably, but it did bind him further to the county. Henry also left house and lands in Ruckinge, which he had bought in the previous year. to his cousin Julius Deedes. This consisted of "a messuage with barn 17 pieces of land of 65 acres. Pasture & wood called Adrians, land called "Howards" all in Ruckinge".[^ref12] 
+In 1666, John's brother Henry died leaving his Kentish estates to John, with a £60 annuity for his widow.[^ref11] As there were debts to pay, this may not have swelled John's income considerably, but it did bind him further to the county. Henry also left house and lands in Ruckinge, which he had bought in the previous year to his cousin Julius Deedes. This consisted of "a messuage with barn 17 pieces of land of 65 acres. Pasture & wood called Adrians, land called "Howards" all in Ruckinge".[^ref12] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/View_north_towards_Ruckinge_-_geograph.org.uk_-_2150798.jpg" label="View north towards Ruckinge" attribution="David Anstiss, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 A year later, a publication on high tides, further reveals Wallis's connectedness with Kent. Wallis argued that annual high tides were not on the two equinoxes, nor on the winter and summer solstices but at a middle time: “and particularly for the Coast of Kent (and consequently the Rivers of Thames and Medway) about the beginning of November and February”.[^ref12] These observations were not his own, but sent to him. Two years later in 1669/70 he received letters from Hythe recording one of the highest tides they had had in a while. We do not know who these were from but we do know that Wallis had relatives in Hythe (his niece Anne had married Julius Deedes, of Newington next Hythe, whose father was the captain of the Hythe militia during the Commonwealth).[^ref13] Julius had settled lands in lands in Lyminge and Hythe on Anne at their marriage.[^ref14] According to Henning, Julius married into a "leading Cinque Ports family"[^ref15] (the Bates) which suggests that the Wallis family were able to make good marriages. John's father had been a school master at Saltwood, and later curate for Hythe and Aldington before becoming vicar in Ashford,[^ref16] so had strong connections with the area; his sister Helen married Richard Bate of Lydd. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Tidal_mud%2C_River_Medway_-_geograph.org.uk_-_2139864.jpg" label="Tidal mud, River Medway" attribution="N Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 During the months of April and May 1670, Wallis is known to have visited Kent  with his son John who fell ill of "a very desperate malignant fever ... which after did degenerate into a Chronick desease (of which part was a Kentish ague)".[^ref17] Wallis records: "After a considerable stay where I was; til I saw him begin (as wee hoped) to amend; I was fain (being called home) to leave him there behind mee."[^ref18] It is clear that Wallis considered Oxford not Kent as his home, despite his many ties there.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Tidal_mud%2C_River_Medway_-_geograph.org.uk_-_2139864.jpg" label="Tidal mud, River Medway" attribution="N Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0"> 
-       
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg" label="New Map of Kent actually surveyed and deleniated by His Majesties Cosmographer, John Ogilby Esq, 1672" attribution="John Ogilby, Public domain, via Wikimedia Commons">
+      
 After the Glorious revolution of 1688, Wallis worked for William III, deciphering correspondence which was thought to shed light on the birth of the Prince of Wales (James Francis Edward Stuart). Later, his grandson, William Blencoe, became a government cryptographer. John Wallis died at Oxford in 1703. An autobiographical account of his life is held at the Kent Archives. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Portrait_of_William_III_%284672159%29.jpg" label="William III" attribution="William Holl, Public domain, via Wikimedia Commons">
 
