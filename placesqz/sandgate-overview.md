@@ -19,7 +19,7 @@ The art critic and writer, John Ruskin visited the ‘Kent Hotel’ a year later
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b5/John_Ruskin%2C_1882.jpg" label="John Ruskin, 1882" attribution="Wellcome Library, London, Public domain, via Wikimedia Commons">
 
 The antiquarian and writer, Wilfred Cripps (1841-1903), regularly visited Farleigh House throughout the 1870s-1890s.
-<br>
+<br><br>
 [Edith Katherine Spicer Jay]( https://kent-maps.online/19c/19c-spicer-jay-biography/) moved to the south coast for the climate in the 1890s and was inspired by the soldiers at Shorncliffe Barracks to write tales of military life. [Florence Warden]( https://kent-maps.online/19c/19c-florence-warden-biography/) former actress turned writer spent some time here at the same period.  
 <param ve-image url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" label="1st Royal Scots Regt. at the Shorncliffe Barracks"> 
 
