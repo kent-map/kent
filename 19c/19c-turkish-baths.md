@@ -1,5 +1,11 @@
-Victorian Turkish baths
-Malcolm Shifrin
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Victorian Turkish baths" author="Malcolm Shifrin" layout="vtl" banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q618045" aliases="Margate">
+
+#
+
 The early and mid-19th century outbreaks of cholera helped to concentrate the public mind on hygiene. The impact of the 1832 epidemic led an Irish physician, Dr Richard Barter, to become interested in the ‘water cure’ and open St Ann’s Hydropathic Establishment at Blarney, Co. Cork. 
 Barter discovered the Islamic hammams of Morocco and Turkey in a quirky travel book called The Pillars of Hercules by the Scottish politician and former diplomat David Urquhart. Barter immediately recognised the therapeutic potential of these baths, and invited Urquhart to St Anne’s to help him build one. Barter also realised that hot dry air would be more therapeutically beneficial, especially in cases of complaints such as rheumatism and gout, than the steamy vapour of the hammam, and went back to the ancient Roman baths for inspiration. 
 His first ‘improved’ Turkish bath, using relatively dry hot air, was available to his patients in 1856. The following year, Urquhart helped build the first such bath in Manchester. While Barter was responsible for its rapid spread throughout Ireland, Urquhart, concentrating more on the value of the bath as a cleansing agent to improve personal hygiene, was responsible for its spread throughout the rest of the United Kingdom, the Empire, and the United States.
