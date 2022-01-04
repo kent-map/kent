@@ -8,7 +8,7 @@
 
 The early and mid-19th century outbreaks of cholera helped to concentrate the public mind on hygiene. The impact of the 1832 epidemic led an Irish physician, Dr Richard Barter, to become interested in the ‘water cure’ and open St Ann’s Hydropathic Establishment at Blarney, Co. Cork. 
 
-Barter discovered the Islamic hammams of Morocco and Turkey in a quirky travel book called The Pillars of Hercules by the Scottish politician and former diplomat David Urquhart. Barter immediately recognised the therapeutic potential of these baths, and invited Urquhart to St Anne’s to help him build one. Barter also realised that hot dry air would be more therapeutically beneficial, especially in cases of complaints such as rheumatism and gout, than the steamy vapour of the hammam, and went back to the ancient Roman baths for inspiration. 
+Barter discovered the Islamic hammams of Morocco and Turkey in a quirky travel book called _The Pillars of Hercules_ by the Scottish politician and former diplomat David Urquhart. Barter immediately recognised the therapeutic potential of these baths, and invited Urquhart to St Anne’s to help him build one. Barter also realised that hot dry air would be more therapeutically beneficial, especially in cases of complaints such as rheumatism and gout, than the steamy vapour of the hammam, and went back to the ancient Roman baths for inspiration. 
 
 His first ‘improved’ Turkish bath, using relatively dry hot air, was available to his patients in 1856. The following year, Urquhart helped build the first such bath in Manchester. While Barter was responsible for its rapid spread throughout Ireland, Urquhart, concentrating more on the value of the bath as a cleansing agent to improve personal hygiene, was responsible for its spread throughout the rest of the United Kingdom, the Empire, and the United States.
 
@@ -18,7 +18,7 @@ This is the bath which became known as the Victorian Turkish Bath. By 1860—a p
 While simpler versions were soon to be found in the country and town houses of the wealthy, larger commercial ones were opened by companies, family businesses and individual proprietors. The 1846 Baths and Washhouses Act had allowed local authorities to build hot and cold slipper baths and uncovered swimming pools; several of these later had Turkish baths added. During the following 150 years many hundreds of Victorian, or Victorian style Turkish baths were opened in the British Isles, but in 2021 only twelve of these remain open.
 
 While Kent had fewer Turkish baths than many northern counties, they were no less interesting than those built elsewhere. Many well-known people used them including 
-F C Burnand, Wilkie Collins, and Edward Linley Sambourne, while George Grossmith not only used them, but also owned shares in one of them, The Savoy.
+[F C Burnand](/19c/19c-burnand-biography/), [Wilkie Collins](/19c/19c-collins-biography/), and [Edward Linley Sambourne](/19c/19c-sambourne-biography/), while [George Grossmith](/19c/19c-grossmith-biography/) not only used them, but also owned shares in one of them, The Savoy.
 
 The first Turkish bath we hear of in Kent was a private one in Bifrons Mansion House at Patrixbourne.[2]  Its foundation stone was laid in March 1860 by the Dowager Marchioness Conyngham but, apart from a decorator’s bill which included painting the bath,[3]  little else is so far known about it.
 
