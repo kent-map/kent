@@ -11,7 +11,7 @@ banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
 Ford was originally named ‘Ford Hermann Hueffer’. His father was the German émigré Wagnerian and music critic of the _Times_, Francis Hueffer; his mother, Catherine, was the daughter of Pre-Raphaelite painter Ford Madox Brown. But after the First World War Ford changed his name to ‘Ford Madox Ford’. He was born in Merton, and brought up in Hammersmith. But in 1894 he eloped with his childhood sweetheart Elsie Martindale, and they moved to the Romney Marsh, where Ford lived until they gradually separated from 1907-09. 
 <param ve-image
-	   label="Ford Madox Heuffer."
+	   label="Ford Madox Heuffer"
 	   attribution="not stated, Public domain, via Wikimedia Commons"
 	   license="Public Domain"
 	   url="https://upload.wikimedia.org/wikipedia/commons/6/67/Picture_of_Ford_Madox_Hueffer.jpg">
