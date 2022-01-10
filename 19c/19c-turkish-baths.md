@@ -40,13 +40,13 @@ Beamish, Richard.  _The cold water cure: as practised by Vincent Priessnitz, at 
 Urquhart, David.  _The Pillars of Hercules, or, a narrative of travels in Spain & Morocco in 1848_ (London : Bentley, 1850) Vol.2; pp.9-60
 
 ### References and notes
-[ref1]: Shifrin, Malcolm. Victorian Turkish Baths (Swindon: Historic England, 2015) p.3    
-[ref2]: Cork Daily Herald   (23 Mar 1860)   p.3   
-[ref3]: Thomas, B M. A History of Bifrons Mansion House   (Kent Archaeological Society, 2017)   p.324   
-[ref4]: At least ten references to correspondence in the columns of the Folkestone Chronicle and the South Eastern Gazette between 1860 and 1863 have been found in the British Newspaper Archive under the heading ‘Folkestone Turkish bath’   
-[ref5]: ‘Proposed establishment of public baths and wash-houses’   Thanet Advertiser   (8 Dec 1866) p.3;
+[^ref1]: Shifrin, Malcolm. Victorian Turkish Baths (Swindon: Historic England, 2015) p.3    
+[^ref2]: Cork Daily Herald   (23 Mar 1860)   p.3   
+[^ref3]: Thomas, B M. A History of Bifrons Mansion House   (Kent Archaeological Society, 2017)   p.324   
+[^ref4]: At least ten references to correspondence in the columns of the Folkestone Chronicle and the South Eastern Gazette between 1860 and 1863 have been found in the British Newspaper Archive under the heading ‘Folkestone Turkish bath’   
+[^ref5]: ‘Proposed establishment of public baths and wash-houses’   Thanet Advertiser   (8 Dec 1866) p.3;
 ‘Proposed public baths and washhouses for Margate’   Folkestone Chronicle   (15 Dec 1866)  p.5   
-[ref6]: Rochester, Chatham & Gillingham Journal   (13 May 1876)   p.2   
-[ref7]: ‘The Dover Bathing Establishment’   Whitstable Times   (21 Apr 1877)   p.3   
-[ref8]: ‘The Saline Spa [advertisement]’   East Kent Times and Mail   (15 Dec 1870)   p.2   
+[^ref6]: Rochester, Chatham & Gillingham Journal   (13 May 1876)   p.2   
+[^ref7]: ‘The Dover Bathing Establishment’   Whitstable Times   (21 Apr 1877)   p.3   
+[^ref8]: ‘The Saline Spa [advertisement]’   East Kent Times and Mail   (15 Dec 1870)   p.2   
 
