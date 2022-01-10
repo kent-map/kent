@@ -37,7 +37,7 @@ All Kent’s Victorian and Victorian style Turkish baths had closed before the b
 Such baths rapidly became fashionable and popular because 19th century medicine was unable to cure or even alleviate the pain of many complaints, and at a time when few homes had even basic washing facilities. That has increasingly changed as the century changed. And in the case of the more expensive establishments, there were fewer patrons with time to spare after the major social changes brought about by the 1914-18 War. 
 
 ### Bibliography:
-Beamish, Richard.  _The cold water cure: as practised by Vincent Priessnitz, at Gräfenberg, in Silesia_ (London: Highley, 1843)
+Beamish, Richard.  _The cold water cure: as practised by Vincent Priessnitz, at Gräfenberg, in Silesia_ (London: Highley, 1843)   
 Urquhart, David.  _The Pillars of Hercules, or, a narrative of travels in Spain & Morocco in 1848_ (London : Bentley, 1850) Vol.2; pp.9-60
 
 ### References and notes
