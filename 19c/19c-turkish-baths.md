@@ -39,8 +39,7 @@ Such baths rapidly became fashionable and popular because 19th century medicine 
 Beamish, Richard.  _The cold water cure: as practised by Vincent Priessnitz, at Gräfenberg, in Silesia_ (London: Highley, 1843)
 Urquhart, David.  _The Pillars of Hercules, or, a narrative of travels in Spain & Morocco in 1848_ (London : Bentley, 1850) Vol.2; pp.9-60
 
-References and notes
-_____________________________________
+### References and notes
 [ref1]: Shifrin, Malcolm. Victorian Turkish Baths (Swindon: Historic England, 2015) p.3    
 [ref2]: Cork Daily Herald   (23 Mar 1860)   p.3   
 [ref3]: Thomas, B M. A History of Bifrons Mansion House   (Kent Archaeological Society, 2017)   p.324   
