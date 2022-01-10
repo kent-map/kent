@@ -24,6 +24,7 @@ While Kent had fewer Turkish baths than many northern counties, they were no les
 The first Turkish bath we hear of in Kent was a private one in Bifrons Mansion House at Patrixbourne.[^ref2]  Its foundation stone was laid in March 1860 by the Dowager Marchioness Conyngham but, apart from a decorator’s bill which included painting the bath,[^ref3]  little else is so far known about it.
 <br><br>
 A number of baths were proposed but never progressed any further. Between 1860 and 1863, for example, there was much campaigning in the local newspaper correspondence columns on the need for Turkish baths in Folkestone,[^ref4]  but to no avail.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Jan_Wyck_-_Bifrons_Park%2C_Kent_-_Google_Art_Project.jpg" label="An early portrait of Bifrons Park, by Jan Wyck between 1695 and 1705">
       
 More hopefully, in 1877, the Dover Harbour Board approved plans for baths designed by J T Anson for a Mr Adcock which were expected to open the following year, but the scheme fell through. The three-floor building, its frontage ‘style being ornamental Byzantine’, was to have included a swimming pool, slipper baths, Turkish bath, and a flat for the proprietor or manager.[^ref7]
 
@@ -32,7 +33,7 @@ The first Victorian Turkish bath in Kent successfully to open to the public was 
 
 This was followed by baths in Tunbridge Wells (1875), Folkestone (1895), Dover (1903), and two in Margate (1904 and 1927)
 All Kent’s Victorian and Victorian style Turkish baths had closed before the beginning of the Second World War. Their relatively short lifespan is no different from that in most other counties. 
-
+<br><br>
 Such baths rapidly became fashionable and popular because 19th century medicine was unable to cure or even alleviate the pain of many complaints, and at a time when few homes had even basic washing facilities. That has increasingly changed as the century changed. And in the case of the more expensive establishments, there were fewer patrons with time to spare after the major social changes brought about by the 1914-18 War. 
 
 ### Bibliography:
