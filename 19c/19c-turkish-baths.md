@@ -16,6 +16,7 @@ This is the bath which became known as the Victorian Turkish Bath. By 1860—a p
 <param ve-image url="https://iiif.wellcomecollection.org/image/L0005395/full/full/0/default.jpg" Label="Punch, or, the London Charivari" attribution="Credit: Wellcome Collection. Public Domain Mark" license="CC BY 4.0">
 
 While simpler versions were soon to be found in the country and town houses of the wealthy, larger commercial ones were opened by companies, family businesses and individual proprietors. The 1846 Baths and Washhouses Act had allowed local authorities to build hot and cold slipper baths and uncovered swimming pools; several of these later had Turkish baths added. During the following 150 years many hundreds of Victorian, or Victorian style Turkish baths were opened in the British Isles, but in 2021 only twelve of these remain open.
+<param ve-image url="https://iiif.wellcomecollection.org/image/V0047654/full/full/0/default.jpg" label="A man visiting a health resort is sitting in a steam box. Engraving, May 1869" attribution="Wellcome Collection">
 
 While Kent had fewer Turkish baths than many northern counties, they were no less interesting than those built elsewhere. Many well-known people used them including 
 [F C Burnand](/19c/19c-burnand-biography/), [Wilkie Collins](/19c/19c-collins-biography/), and [Edward Linley Sambourne](/19c/19c-sambourne-biography/), while [George Grossmith](/19c/19c-grossmith-biography/) not only used them, but also owned shares in one of them, The Savoy.
