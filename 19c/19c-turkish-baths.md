@@ -19,6 +19,7 @@ While simpler versions were soon to be found in the country and town houses of t
 
 While Kent had fewer Turkish baths than many northern counties, they were no less interesting than those built elsewhere. Many well-known people used them including 
 [F C Burnand](/19c/19c-burnand-biography/), [Wilkie Collins](/19c/19c-collins-biography/), and [Edward Linley Sambourne](/19c/19c-sambourne-biography/), while [George Grossmith](/19c/19c-grossmith-biography/) not only used them, but also owned shares in one of them, The Savoy.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Edward_Linley_Sambourne%2C_self_portrait_1891.png" label="Edward Linley Sambourne" attribution="Public domain, via Wikimedia Commons">
 
 The first Turkish bath we hear of in Kent was a private one in Bifrons Mansion House at Patrixbourne.[^ref2]  Its foundation stone was laid in March 1860 by the Dowager Marchioness Conyngham but, apart from a decorator’s bill which included painting the bath,[^ref3]  little else is so far known about it.
 <br><br>
