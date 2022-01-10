@@ -22,9 +22,9 @@ While Kent had fewer Turkish baths than many northern counties, they were no les
 
 The first Turkish bath we hear of in Kent was a private one in Bifrons Mansion House at Patrixbourne.[^ref2]  Its foundation stone was laid in March 1860 by the Dowager Marchioness Conyngham but, apart from a decorator’s bill which included painting the bath,[^ref3]  little else is so far known about it.
 
-A number of baths were proposed but never progressed any further. Between 1860 and 1863, for example, there was much campaigning in the local newspaper correspon-dence columns on the need for Turkish baths in Folkestone,[^ref4]  but to no avail.
-
-In 1866, unsuccessful attempts were made to set up a limited liability company to open baths in Margate.[^ref5]  Ten years later, the local council considered setting up Turkish baths in Rochester[^ref6]  but, put to the vote, there was no majority.
+A number of baths were proposed but never progressed any further. Between 1860 and 1863, for example, there was much campaigning in the local newspaper correspondence columns on the need for Turkish baths in Folkestone,[^ref4]  but to no avail.
+<param ve image url="https://goo.gl/maps/UCKB4zRdqFnqBJP27" label="Site of the Folkestone Turkish & General Baths Company Limited" attribution="Google Maps"
+       <iframe src="https://www.google.com/maps/embed?pb=!4v1641841353077!6m8!1m7!1sBmB36H4za6lZxaOJ9ozBsw!2m2!1d51.07947905130344!2d1.172597915847719!3f159.1173184742239!4f2.773430136997007!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 More hopefully, in 1877, the Dover Harbour Board approved plans for baths designed by J T Anson for a Mr Adcock which were expected to open the following year, but the scheme fell through. The three-floor building, its frontage ‘style being ornamental Byzantine’, was to have included a swimming pool, slipper baths, Turkish bath, and a flat for the proprietor or manager.[^ref7]
 
