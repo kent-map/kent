@@ -26,6 +26,7 @@
 [Charles Darwin](19c-darwin-biography)   
 [William Dyce](19c-dyce-biography)   
 [Sir John Franklin](19c-franklin-biography)  
+[Thomas Frost](19c-frost-biography)   
 [Elizabeth Gould](19c-gould-biography)   
 [Sarah Grand](19c-grand-biography)   
 [George Grossmith](19c-grossmith-biography)  
