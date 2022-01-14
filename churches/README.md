@@ -29,7 +29,7 @@ H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervo
 
 - author: Malcolm Shifrin
 
-
+![](https://iiif.wellcomecollection.org/image/L0005395/full/full/0/default.jpg)
 
 While Kent had fewer Turkish baths than many northern counties, they were no less interesting than those built elsewhere.
 
