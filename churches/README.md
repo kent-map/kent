@@ -31,6 +31,8 @@ H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervo
 
 
 
+While Kent had fewer Turkish baths than many northern counties, they were no less interesting than those built elsewhere.
+
 ##
 **[The Secret War Tunnels of Dover Castle](/20c/20c-secret-tunnels/)**
 
