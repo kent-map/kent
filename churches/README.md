@@ -27,7 +27,7 @@ H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervo
 ##
 **[Victorian Turkish Baths](/19c/19c-turkish-baths/)**
 
-- author 
+- author: Malcolm Shifrin
 
 
 
