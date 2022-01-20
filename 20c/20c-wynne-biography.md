@@ -25,6 +25,7 @@ Pamela Wynne died on the other side of the county at her son’s house, Mill Cot
 _Deaths_. 18 March 1959. _The Times_. GALE|CS202726514.   
 [Pamela Wynne, 20th Century Novelist](https://pamela-wynne.webs.com/biography.htm)   
 Principal Probate Registry. Calendar of the Grants of Probate and Letters of Administration made in the Probate Registries of the High Court of Justice in England. London, England © Crown copyright.   
-Ancestry.com. England & Wales, National Probate Calendar (Index of Wills and Administrations), 1858-1995.   
+Ancestry.com. England & Wales, National Probate Calendar (Index of Wills and Administrations), 1858-1995.  
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Wynne, Pamela. _Love in a Mist_. London: Philip Allen & Co., 1932.   
 
