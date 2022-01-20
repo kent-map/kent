@@ -39,6 +39,7 @@ Dickens, Charles. _David Copperfield_. Oxford: Oxford World’s Classics, 1998.
 --. _Little Dorrit_. Oxford: Oxford World’s Classics, 2008.   
 --. --. ‘Out of Town’. http://www.djo.org.uk/household-words/volume-xii/page-193.html Accessed 31 July 2018.   
 --. ‘Pavilionstone’. With an introduction by Percy Fitzgerald. London: the Frederick Hotels Ltd, 1902.   
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Harper, Charles G. _The Kentish Coast_. [London: Chapman & Hall, 1914]. Classic Reprints, no details.   
 Storey, Graham and K. J. Fielding, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.   
 Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.   
