@@ -30,6 +30,7 @@ This ambivalence is brilliantly captured by 20th century author [Pamela Wynne](2
 ### Bibliography
 
 Dickens, Charles. ‘The Tuggses at Ramsgate’. Dickens’ Journalism. _Sketches by Boz and Other Early Papers 1833-39_. Ed Michael Slater. 327-344.   
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Oulton, Walley Chamberlain. [_A Picture of Margate and Its Vicinity_.](https://books.google.com.gh/books?id=ExEHAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false) First published 1820.   
 Surtees, R. S. _Jorrocks’s Jaunts and Jollities._ London Routledge: 1838 [1869 edition]. Chapter on ‘Aquatics: Mr Jorrocks at Margate’ 113-42.   
 Wynne, Pamela. _Love in a Mist_. London: Philip Allen & Co., 1932.   
