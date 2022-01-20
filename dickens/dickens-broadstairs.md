@@ -39,7 +39,8 @@ Feeling active? You may want to try this [Turner and Dickens walk](https://explo
 ### Bibliography
 
 Dickens, Charles. [‘Our Watering Place’.](http://www.djo.org.uk/household-words/volume-iii/page-433.html) _Household Words_. 2 August 1851.    
-House, Madeline, Graham Storey and Kathleen Tillotson, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 3: 1842-1843. Oxford:  Clarendon Press, 1974.   
+House, Madeline, Graham Storey and Kathleen Tillotson, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 3: 1842-1843. Oxford:  Clarendon Press, 1974. 
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Storey, Graham and K. J. Fielding, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.   
 Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 6: 1850-1852. Oxford: Clarendon Press, 1988.   
 
