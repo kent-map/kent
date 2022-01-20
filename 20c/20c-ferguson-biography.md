@@ -32,7 +32,8 @@ Ferguson was present at the presentation of a bouquet of rosebuds to the retirin
 
 Bertie, David M. _Scottish Episcopal Clergy 1689-2000_. Edinburgh: T. and C. Clark, 2000.   
 Ferguson, John. _Stealthy Terror._ London: Penguin, 1954.   
-
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
+                                          
 ### References
 
 [^ref1]: His address is given in local papes as 6 Devonshire Terrace. With thanks to Hilary Tolputt.   
