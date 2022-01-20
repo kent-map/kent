@@ -39,5 +39,6 @@ General Register Office; United Kingdom; Volume: 2a; Page: 815. Ancestry.com. En
 General Register Office; United Kingdom; Volume: 2a; Page: 534. Ancestry.com. England & Wales, Civil Registration Death Index, 1916-2007.   
 The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of England and Wales, 1911. Ancestry.com. 1911 England Census.   
 The National Archives; Kew, London, England; 1939 Register; Reference: RG 101/1756G. Ancestry.com. 1939 England and Wales Register.   
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Unattributed. ‘Gladys Waterer Talks Dickens at Broadstairs’. _Illustrated London News_. 11  March 1964,. 90.    
 Waterer, Gladys. _The Third Chance._ London: George Allen & Co., 1912.    
