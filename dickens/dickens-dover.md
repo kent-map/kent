@@ -30,6 +30,7 @@ Dickens, Charles. ‘Out of the Season’. 28 June 1856. _Household Words_.
 Dickens, Charles. 'Out of the Season'   
 [_Household Words_](http://www.djo.org.uk/media/downloads/articles/3239_Out%20of%20the%20Season.pdf), Volume XIII Magazine No. 327, 28 June 1856, Pages: 553-556., Magazine No. 327, 28 June 1856, Pages: 553-556. Accessed: 2 January 2019.    
 Fowler, Frank. _The Dottings of a Lounger_. London: Routledge Warne & Routledge, 1859.    
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.   
 
 ### References
