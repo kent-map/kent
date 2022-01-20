@@ -38,6 +38,7 @@ When George Grossmith retired in 1909 he moved to [Folkestone](/19c/19c-folkesto
 Grossmith, George and Weedon. [_The Diary of a Nobody._](https://en.wikisource.org/wiki/The_Diary_of_a_Nobody/Chapter_6)   
 Joseph, Tony. ‘Grossmith, George (1847-1912).’ [_Oxford Dictionary of National Biography_](https://doi.org/10.1093/ref:odnb/33590). 3 January 2008.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/46/Diary_of_a_Nobody_first.jpg" label="Diary of a Nobody first.jpg" attribution="Unknown author, Public domain, via Wikimedia Commons">
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 
 ### References
 
