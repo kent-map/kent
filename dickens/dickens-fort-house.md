@@ -26,6 +26,7 @@ This creative confusion of different novels with the houses associated with Dick
 
 Kitton, Frederic G. _The Dickens Country_. London: A. C. Black, 1925 [first published 1905].
 --. Scrapbook 2 (p80). Dickens House Museum.
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 
 ### References
 
