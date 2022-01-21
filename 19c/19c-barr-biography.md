@@ -23,6 +23,8 @@ While Barr fell out with Jerome and ultimately withdrew from his editorial role 
 ### Bibliography
 [Berte, Hal]. ‘The Kaleidoscope’. _Folkestone Visitors’ List and Society Journal_.   
 <param ve image url="https://upload.wikimedia.org/wikipedia/commons/f/fa/The_harbor%2C_Folkestone%2C_England-LCCN2002696749.jpg" label="Image of Fokestone Harbour" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
+Oulton, Carolyn W. de la L. _Below the Fairy City: A Life of Jerome K. Jerome_ Brighton: Victorian Secrets, 2012.
+Oulton, Carolyn W. de la L. _Down From London: Seaside Reading in the Railway Age._ Liverpool: Liverpool University Press, 2022.
 
 ### References
 [^ref1]: 4 December 1889._The Kaleidoscope_.
