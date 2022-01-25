@@ -1,8 +1,12 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
 <param ve-config title="The Great Storm of 1987" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_White_Cliffs_of_Dover_%2848904125611%29.jpg">
 
-<param ve-entity eid="Q24638363" aliases="St Margaret's Bay">
 <param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q725261" aliases="Ashford">
+<param ve-entity eid="Q939838" aliases="Sevenoaks">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q1067909" aliases="Chartwell">
+<param ve-entity eid="Q3536087" aliases="Toys Hill">
 
 #
 
