@@ -39,6 +39,7 @@ Zangwill stayed in [Dover](/19c/19c-dover) (with no dynamite incidents) in July 
 ### Bibliography
 Jerome, Jerome K. 'Letter to J. W. Arrowsmith'. 15 August 1893. Bristol Record Office. 40145/P/12 a.   
 Oulton, C. _Below the Fairy City: a Life of Jerome K. Jerome._    
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Rochelson, Meri-Jane. _A Jew in the Public Arena: The Career of Israel Zangwill._ Wayne State University Press, 2010.   
 ‘Supposed Dynamite Outrage at Broadstairs’. _Birmingham Daily Post_ 24 July 1893. Gale Document Number: GALE|BB3201366841   
 Zangwill, Israel. _The Celibates’ Club. Being the United Stories of The Bachelors’ Club and The Old Maids’ Club._ London: William Heinemann 1898.    

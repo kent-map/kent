@@ -34,4 +34,5 @@ Grandfield, Yvette F. ‘The development of the seaside resort and the striving 
 Grossmith, George and Weedon. _The Diary of a Nobody_. First published 1892.   
 Unattributed. 'How We Did Without Lodgings at the Seaside, Saved Our Money and Doubled Our Pleasure'. By the author of How We Managed Without Servants. [Reprint] London: 
 Griffith, Farran, Okeden & Welsh, 1885.   
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Unattributed. ‘Shrove Tuesday at Broadstairs’. _Penny Illustrated Weekly News_.  February 1864. 566. British Newspaper Archive.   

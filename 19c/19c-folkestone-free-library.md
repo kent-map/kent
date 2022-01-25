@@ -35,4 +35,5 @@ Cutting from Folkestone Herald 13 November 1926. Page unknown. Held in Folkeston
 Hannavy, J. L. _The Libraries of Dover and Folkestone_. Thesis approved for Fellowship of the Libraries Association. 1968.   
 _Folkestone Visitors’ List and Society Journal_ Holbein Visitors’ List and Court Directory 1887; Holbein Visitors’ List and Folkestone Journal 1887-91.   
 Index to the Folkestone Chronicle 1855-1886. Held in Folkestone Library.   
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Wells, H. G. _Kipps_. London: Weidenfeld and Nicolson, 2010.   

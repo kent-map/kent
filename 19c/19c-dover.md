@@ -20,6 +20,7 @@ Nor did the possibilities for travel end with the offer of a few weeks at the Ke
 Harper, Charles G. _The Kent Coast_. London: Chapman and Hall, 1914.  
 Mackenzie, Walcott. _A Guide to the Coast of Kent, Descriptive of Scenery Historical, Legendary and Archaeological_. London: Edward Stanford, 1859.  
 Author unknown. _The Illustrated Ramble Book of the London and Dover Railway_. London: J. Mead, date not given.  
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.  
 <param ve-image url="/dickens/images/FortAmherst.jpg" label="Fort Amherst -[sic] actually Archcliff Fort" attribution="©The British Library Board maps_k_top_16_48_g">
 
