@@ -2,7 +2,7 @@
 <param ve-config title="Sandgate" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-entity eid="Q967166" aliases="Hythe">" 
+<param ve-entity eid="Q967166" aliases="Hythe"> 
 <param ve-entity eid="Q16900107" aliases="Shorncliffe">
 
 #
