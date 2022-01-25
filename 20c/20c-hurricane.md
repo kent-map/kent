@@ -7,6 +7,7 @@
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q1067909" aliases="Chartwell">
 <param ve-entity eid="Q3536087" aliases="Toys Hill">
+<param ve-entity eid="Q4881598" aliases="Bekesbourne">
 
 #
 
