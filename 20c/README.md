@@ -53,6 +53,7 @@
 [Belgian Refugees](20c-belgian-refugees)   
 [Ellen Terry's funeral](20c-terry-funeral)  
 [Hop Picking and the Literary Imagination](20c-hop-picking)   
+[The Great Storm of 1987](20c-hurricane)   
 
 ### Texts
 
