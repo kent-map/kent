@@ -10,10 +10,11 @@ The early and mid-19th century outbreaks of cholera helped to concentrate the pu
 <param ve-image url="https://stor.artstor.org/stor/bb4edc13-7c73-4c21-a5fe-ed7f69fb9b8d" label="Dr Richard Barter" attribution="By kind permission of M.R. Shifrin">
 
 Barter discovered the Islamic hammams of Morocco and Turkey in a quirky travel book called _The Pillars of Hercules_ by the Scottish politician and former diplomat David Urquhart. Barter immediately recognised the therapeutic potential of these baths, and invited Urquhart to St Ann’s to help him build one. Barter also realised that hot dry air would be more therapeutically beneficial, especially in cases of complaints such as rheumatism and gout, than the steamy vapour of the hammam, and went back to the ancient Roman baths for inspiration. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/55/David_Urquhart_%281805-1877%29.jpg" label="David Urquhart" attribution="Unknown author, Public domain, via Wikimedia Commons">
+<param ve-image url="https://iiif.wellcomecollection.org/image/b29351066_0002_0007.jp2/full/full/0/default.jpg" label="The Pillars of Hercules, or, A narrative of travels in Spain and Morocco in 1848 / By David Urquhart" attribution="The Wellcome Collection, no known copyright">
 
 His first ‘improved’ Turkish bath, using relatively dry hot air, was available to his patients in 1856. The following year, Urquhart helped build the first such bath in Manchester. While Barter was responsible for its rapid spread throughout Ireland, Urquhart, concentrating more on the value of the bath as a cleansing agent to improve personal hygiene, was responsible for its spread throughout the rest of the United Kingdom, the Empire, and the United States.
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/55/David_Urquhart_%281805-1877%29.jpg" label="David Urquhart" attribution="Unknown author, Public domain, via Wikimedia Commons">
+
 This is the bath which became known as the Victorian Turkish Bath. By 1860—a period of less than five years—its exemplar was already considered to be ‘a type of bath in which the bather sweats freely in a room heated by hot dry air (or in a series of two or three such rooms maintain-ed at progressively higher temperatures), usually followed by a cold plunge, a full body wash and massage, and a final period of relaxation in a cooling-room.’[^ref1]  In Victorian Turkish baths, the body wash and massage, taken together, were known as shampooing.
 <param ve-image url="https://iiif.wellcomecollection.org/image/L0005395/full/full/0/default.jpg" Label="Punch, or, the London Charivari" attribution="Credit: Wellcome Collection. Public Domain Mark" license="CC BY 4.0">
 
@@ -43,7 +44,6 @@ Such baths rapidly became fashionable and popular because 19th century medicine 
 ### Bibliography:
 Beamish, Richard.  _The cold water cure: as practised by Vincent Priessnitz, at Gräfenberg, in Silesia_ (London: Highley, 1843)   
 Urquhart, David.  _The Pillars of Hercules, or, a narrative of travels in Spain & Morocco in 1848_ (London : Bentley, 1850) Vol.2; pp.9-60
-<param ve-image url="https://iiif.wellcomecollection.org/image/b29351066_0002_0007.jp2/full/full/0/default.jpg" label="The Pillars of Hercules, or, A narrative of travels in Spain and Morocco in 1848 / By David Urquhart" attribution="The Wellcome Collection, no known copyright">
 
 ### References and notes
 [^ref1]: Shifrin, Malcolm. Victorian Turkish Baths (Swindon: Historic England, 2015) p.3    
