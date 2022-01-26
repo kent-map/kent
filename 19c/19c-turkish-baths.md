@@ -10,7 +10,7 @@ The early and mid-19th century outbreaks of cholera helped to concentrate the pu
 <param ve-image url="https://stor.artstor.org/stor/bb4edc13-7c73-4c21-a5fe-ed7f69fb9b8d" label="Dr Richard Barter" attribution="By kind permission of M.R. Shifrin">
 
 Barter discovered the Islamic hammams of Morocco and Turkey in a quirky travel book called _The Pillars of Hercules_ by the Scottish politician and former diplomat David Urquhart. Barter immediately recognised the therapeutic potential of these baths, and invited Urquhart to St Ann’s to help him build one. Barter also realised that hot dry air would be more therapeutically beneficial, especially in cases of complaints such as rheumatism and gout, than the steamy vapour of the hammam, and went back to the ancient Roman baths for inspiration. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/55/David_Urquhart_%281805-1877%29.jpg" label="Unknown author, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/55/David_Urquhart_%281805-1877%29.jpg" label="David Urquhart" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 His first ‘improved’ Turkish bath, using relatively dry hot air, was available to his patients in 1856. The following year, Urquhart helped build the first such bath in Manchester. While Barter was responsible for its rapid spread throughout Ireland, Urquhart, concentrating more on the value of the bath as a cleansing agent to improve personal hygiene, was responsible for its spread throughout the rest of the United Kingdom, the Empire, and the United States.
 <br><br>
