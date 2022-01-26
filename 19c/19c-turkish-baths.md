@@ -7,9 +7,10 @@
 #
 
 The early and mid-19th century outbreaks of cholera helped to concentrate the public mind on hygiene. The impact of the 1832 epidemic led an Irish physician, Dr Richard Barter, to become interested in the ‘water cure’ and open St Ann’s Hydropathic Establishment at Blarney, Co. Cork. 
-<br><br>
-Barter discovered the Islamic hammams of Morocco and Turkey in a quirky travel book called _The Pillars of Hercules_ by the Scottish politician and former diplomat David Urquhart. Barter immediately recognised the therapeutic potential of these baths, and invited Urquhart to St Anne’s to help him build one. Barter also realised that hot dry air would be more therapeutically beneficial, especially in cases of complaints such as rheumatism and gout, than the steamy vapour of the hammam, and went back to the ancient Roman baths for inspiration. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/55/David_Urquhart_%281805-1877%29.jpg" label="Unknown author, Public domain, via Wikimedia Commons">
+<param ve-image url="https://stor.artstor.org/stor/bb4edc13-7c73-4c21-a5fe-ed7f69fb9b8d" label="Dr Richard Barter" attribution="By kind permission of M.R. Shifrin">
+
+Barter discovered the Islamic hammams of Morocco and Turkey in a quirky travel book called _The Pillars of Hercules_ by the Scottish politician and former diplomat David Urquhart. Barter immediately recognised the therapeutic potential of these baths, and invited Urquhart to St Ann’s to help him build one. Barter also realised that hot dry air would be more therapeutically beneficial, especially in cases of complaints such as rheumatism and gout, than the steamy vapour of the hammam, and went back to the ancient Roman baths for inspiration. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/55/David_Urquhart_%281805-1877%29.jpg" label="David Urquhart" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 His first ‘improved’ Turkish bath, using relatively dry hot air, was available to his patients in 1856. The following year, Urquhart helped build the first such bath in Manchester. While Barter was responsible for its rapid spread throughout Ireland, Urquhart, concentrating more on the value of the bath as a cleansing agent to improve personal hygiene, was responsible for its spread throughout the rest of the United Kingdom, the Empire, and the United States.
 <br><br>
@@ -37,7 +38,7 @@ This was followed by baths in Tunbridge Wells (1875), Folkestone (1895), Dover (
 All Kent’s Victorian and Victorian style Turkish baths had closed before the beginning of the Second World War. Their relatively short lifespan is no different from that in most other counties. 
 <br><br>
 Such baths rapidly became fashionable and popular because 19th century medicine was unable to cure or even alleviate the pain of many complaints, and at a time when few homes had even basic washing facilities. That has increasingly changed as the century changed. And in the case of the more expensive establishments, there were fewer patrons with time to spare after the major social changes brought about by the 1914-18 War. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Demuth%2C_Charles_%281883-1935%29_-_1915_-_Turkish_bath.jpg" label="Turkish Bath, 1915" attribution="Charles Demuth, Public domain, via Wikimedia Commons">
+<param ve-image url="https://stor.artstor.org/stor/73026e16-50c4-4401-94c3-8980a2eb39b1" label="Victorian Turkish baths" attribution="By kind permission of M.R.Shifrin">
 
 ### Bibliography:
 Beamish, Richard.  _The cold water cure: as practised by Vincent Priessnitz, at Gräfenberg, in Silesia_ (London: Highley, 1843)   
