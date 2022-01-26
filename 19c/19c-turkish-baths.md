@@ -3,6 +3,10 @@
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q7148079" aliases="Patrixbourne">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 
 #
 
