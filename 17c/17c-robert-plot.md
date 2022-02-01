@@ -19,7 +19,7 @@
 <param ve-entity eid="Q5774502" aliases="Historiographer Royal">
 <param ve-entity eid="Q1230771" aliases="Thomas Shadwell">
 
-Born in 1640 in Borden, Kent to Robert and Rebecca, née  Patenden, Robert Plot was educated at Wye Free School and Magdalen Hall, University of Oxford, now Hertford College.
+Born in 1640 in Borden, Kent to Robert and Rebecca, née  Patenden, Robert Plot was educated at Wye Free School and Magdalen Hall, University of Oxford, now Hertford College. Although he spent much of his career in Oxford, as a student, then an academic, Plot retired to Kent in 1690, where he lived with his wife and sons until his death in 1696.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Portrait_of_Robert_Plot_D_D_by_Sylvester_Harding.jpg" label="Robert Plot by Sylvester Harding, Public domain, via Wikimedia Commons"> 
 
 ## Career and positions of note
@@ -48,9 +48,15 @@ Plot died in 1696 from kidney stones and is buried in Borden Churchyard. When he
 ### Bibliography
 
 Greenslade M. W. _The Staffordshire Historians._ 1982.
+
 Owen, Richard. _A History of British Fossil Reptiles, Vol. II (plates). 1849-1884.
+
 'Magdalen Hall.' Magdalen College, University of Oxford. Accessed 1/2/22. https://www.magd.ox.ac.uk/libraries-and-archives/archives/magdalen-hall/
+
 Seccombe, Thomas. 'Plot, Robert (1640–1696).' _Oxford Dictionary of National Biography_. 1895. Accessed 25/1/22. https://www.oxforddnb.com/view/10.1093/odnb/9780192683120.001.0001/odnb-9780192683120-e-22385 
+
 Sherwood Taylor, F. _Alchemical Papers of Dr. Robert Plot_. 1949. DOI: 10.1179/amb.1949.4.1-2.67.
+
 'Sutton Baron and Sutton Baron Hall.' Historic England. Accessed 25/1/22. https://historicengland.org.uk/listing/the-list/list-entry/1069392 
+
 Turner, A. J. 'Plot, Robert (bap. 1640, d. 1696), naturalist and antiquary.' _Oxford Dictionary of National Biography_. 2004. Accessed 25/1/22. https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-22385 
