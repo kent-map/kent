@@ -31,12 +31,15 @@ Plot did write on Kent, however, such as in ‘An Account of some Antiquities in
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Britannia_by_William_Camden_Title_page.jpg" label="Title page of the first map edition of illiam Camden's _Britannia_ (1607). Public domain, via Wikimedia Commons">
 
 Plot was an early member of the Royal Society of London, the UK's national academy of sciences, founded in 1660. He was elected to the Society in 1677 and served as its second secretary (from 30 November 1682 until 29 November 1684). Plot was also the first keeper of the Ashmolean Museum, living, teaching, and gathering collections at the Museum from its opening in 1683 until 1690. During that time, Plot was appointed to various other establishment positions. In 1687, the seventh Duke of Norfolk appointed Plot registrar to the Court of Chivalry, and the Archbishop of Canterbury made Plot a notary public. He was appointed Historiographer Royal the following year, although lost this position rapidly to Thomas Shadwell.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6d/Ashmolean_Museum_in_July_2014.jpg" label="Ashmolean Museum, 2014" attribution="Lewis Clarke via Wikimedia Commons, CC BY-SA 2.0">
 
 ## Retirement in Kent
 
-Plot retired in 1690 to live in his family property Sutton Barne in Borden, marrying Rebecca Burman, a widow, with whom he had two sons, Robert and Ralph. His stepson, John Burman, would edit the second edition of Plot’s Oxfordshire.
+Plot retired in 1690 to live in his family property Sutton Barne in Borden, marrying Rebecca Burman, a widow, with whom he had two sons, Robert and Ralph. His stepson, John Burman, would edit the second edition of Plot’s _Oxfordshire_.
+<param ve-map center="Q26322356", zoom="14">
 
-When Plot returned to Kent after retirement, he extended the family property, as well as enclosing the front court and laying out a new kitchen garden. Plot’s home is now divided into two cottages, Sutton Baron Hall and Sutton Baron . They are an example of the Wealden hall house type, which is a distinctive type of medieval timber-framed halls most commonly seen in Kent and surrounding areas.
+When Plot returned to Kent after retirement, he extended the family property, as well as enclosing the front court and laying out a new kitchen garden. Plot’s home is now divided into two cottages, Sutton Baron Hall and Sutton Baron. They are an example of the Wealden hall house type, which is a distinctive type of medieval timber-framed halls most commonly seen in Kent and surrounding areas.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/en/e/e1/Bayleaf_dismantling.gif" label="Photo of Bayleaf farmhouse, a medieval hall house, being dismantled, Ide Hill, Kent, via Wikimedia Commons">
 
 Plot died in 1696 from kidney stones and is buried in Borden Churchyard. When he died, he was in the process of completing a study of Kent and Middlesex, begun in his retirement. 
 <param ve-map center="Q2437595", zoom="14">
