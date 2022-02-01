@@ -27,7 +27,7 @@ Born in 1640 in Borden, Kent to Robert and Rebecca, née  Patenden, Robert Plot 
 Plot was an English naturalist and first Professor of Chemistry at Oxford, who became known as the ‘Learned Dr Plot’. Interested in natural history and antiquities, Plot allied the two fields. His patron was John Fell, Bishop of Oxford, who encouraged him to study and collect artefacts from the Oxford countryside, finding rocks, minerals and fossils, and also making the first known illustration of a dinosaur bone — a femur of a megalosaurus (though not described thus). Plot hoped to document the natural history of counties, rather than writing about vast areas of land. He wrote _The Natural History of Staffordshire_ (1686) and _The Natural History of Oxfordshire_ (1676). 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Megalosaurus_femur.jpg" label="Plate showing a Megalosaurus femur, from Richard Owen's _A History of British Reptiles_ (Dinosauria Plate 29). Public domain, via Wikimedia Commons"> 
 
-Plot did write on Kent, however, such as in ‘An Account of some Antiquities in the County of Kent,’ printed in John Nichols’s _Bibliotheca Topographica_. Plot revised William Camden’s chapter on Kent in _Britannia_ (1586), the first chorographical survey of the islands of Great Britain and Ireland, and also gathered information first-hand after a trip in the autumn of 1693. His work and methods were commended by [John Wallis](/17c/17c-John-Wallis).
+Plot did write on Kent, however, such as in ‘An Account of some Antiquities in the County of Kent,’ printed in John Nichols’s _Bibliotheca Topographica_. Plot revised William Camden’s chapter on Kent in _Britannia_ (1586), the first chorographical survey of the islands of Great Britain and Ireland, and also gathered information first-hand after a trip in the autumn of 1693. His work and methods were commended by [John Wallis](/17c/17c-wallis-biography).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Britannia_by_William_Camden_Title_page.jpg" label="Title page of the first map edition of illiam Camden's _Britannia_ (1607). Public domain, via Wikimedia Commons">
 
 Plot was an early member of the Royal Society of London, the UK's national academy of sciences, founded in 1660. He was elected to the Society in 1677 and served as its second secretary (from 30 November 1682 until 29 November 1684). Plot was also the first keeper of the Ashmolean Museum, living, teaching, and gathering collections at the Museum from its opening in 1683 until 1690. During that time, Plot was appointed to various other establishment positions. In 1687, the seventh Duke of Norfolk appointed Plot registrar to the Court of Chivalry, and the Archbishop of Canterbury made Plot a notary public. He was appointed Historiographer Royal the following year, although lost this position rapidly to Thomas Shadwell.
@@ -36,13 +36,13 @@ Plot was an early member of the Royal Society of London, the UK's national acade
 ## Retirement in Kent
 
 Plot retired in 1690 to live in his family property Sutton Barne in Borden, marrying Rebecca Burman, a widow, with whom he had two sons, Robert and Ralph. His stepson, John Burman, would edit the second edition of Plot’s _Oxfordshire_.
-<param ve-map center="Q26322356", zoom="14">
+<param ve-map center="Q26322356" zoom="14">
 
 When Plot returned to Kent after retirement, he extended the family property, as well as enclosing the front court and laying out a new kitchen garden. Plot’s home is now divided into two cottages, Sutton Baron Hall and Sutton Baron. They are an example of the Wealden hall house type, which is a distinctive type of medieval timber-framed halls most commonly seen in Kent and surrounding areas.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/en/e/e1/Bayleaf_dismantling.gif" label="Photo of Bayleaf farmhouse, a medieval hall house, being dismantled, Ide Hill, Kent, via Wikimedia Commons">
 
 Plot died in 1696 from kidney stones and is buried in Borden Churchyard. When he died, he was in the process of completing a study of Kent and Middlesex, begun in his retirement. 
-<param ve-map center="Q2437595", zoom="14">
+<param ve-map center="Q2437595" zoom="14">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3b/Church_of_St_Peter_and_St_Paul%2C_Borden_-_geograph.org.uk_-_655985.jpg" label="Church of St Peter and St Paul, Borden" attribution="Richard Dorrell via Wikimedia Commons, CC BY-SA 2.0">
 
 ### Bibliography
