@@ -49,7 +49,7 @@ Plot died in 1696 from kidney stones and is buried in Borden Churchyard. When he
 
 Greenslade M. W. _The Staffordshire Historians._ 1982.
 
-Owen, Richard. _A History of British Fossil Reptiles, Vol. II (plates). 1849-1884.
+Owen, Richard. _A History of British Fossil Reptiles, Vol. II (plates)._ 1849-1884.
 
 'Magdalen Hall.' Magdalen College, University of Oxford. Accessed 1/2/22. https://www.magd.ox.ac.uk/libraries-and-archives/archives/magdalen-hall/
 
