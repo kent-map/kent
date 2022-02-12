@@ -19,7 +19,7 @@ Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of K
 
 - author: Eleanor Fitzsimons
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8070a760-99ba-4a8a-bf1c-dbc551d3f83c)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/79fb2d02-04f1-4a1b-b03a-c3315d2c1787)
 
 When she was thirteen, Edith Nesbit stayed for a time in the village of Penshurst, near Sevenoaks. 
 
