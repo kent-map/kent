@@ -5,7 +5,7 @@ banner="/images/banners/19c.jpg">
 ### 16 December 1775 - 18 July 1817
 
 **Fort Road, Broadstairs**   
-**Event with dates** Holidays in 1837, 1840-43, 1845, 1847, 1849-51; parts of _David Copperfield_ written here.   
+**Event with dates** Holidays in Broadstairs 1840-43, 1845, 1847, 1849-51; usually spent at Fort House from late 1840s, and parts of _David Copperfield_ written here.   
 **Publications of local interest** _David Copperfield_ (1848-50), 'Our Watering Place' (1851).   
 <param ve-image url="images/broadstairsCO.JPG" label="Broadstairs">
 

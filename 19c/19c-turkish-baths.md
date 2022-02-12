@@ -39,7 +39,7 @@ More hopefully, in 1877, the Dover Harbour Board approved plans for baths design
 The first Victorian Turkish bath in Kent successfully to open to the public was part of the Saline Spa designed by Edward Pugin, son of the more famous Augustus Welby Pugin, as part of the Granville Hotel in Ramsgate.[^ref8]  This opened on 24 September 1870, was still open in 1938, and possibly even later.
 <param ve-image url="https://stor.artstor.org/stor/3c62d8de-ea92-4d3e-abcc-efc9d1b39728" label="Advertisement in The Globe for the Granville Hotel">
 
-This was followed by baths in Tunbridge Wells (1875), Folkestone (1895), Dover (1903), and two in Margate (1904 and 1927)
+This was followed by baths in Tunbridge Wells (1875), Woolwich* (1876), Folkestone (1895), Dover (1903), and two in Margate (1904 and 1927)
 All Kent’s Victorian and Victorian style Turkish baths had closed before the beginning of the Second World War. Their relatively short lifespan is no different from that in most other counties. 
 <br><br>
 Such baths rapidly became fashionable and popular because 19th century medicine was unable to cure or even alleviate the pain of many complaints, and at a time when few homes had even basic washing facilities. That has increasingly changed as the century changed. And in the case of the more expensive establishments, there were fewer patrons with time to spare after the major social changes brought about by the 1914-18 War. 
@@ -60,3 +60,4 @@ Urquhart, David.  _The Pillars of Hercules, or, a narrative of travels in Spain 
 [^ref7]: ‘The Dover Bathing Establishment’   Whitstable Times   (21 Apr 1877)   p.3   
 [^ref8]: ‘The Saline Spa [advertisement]’   East Kent Times and Mail   (15 Dec 1870)   p.2   
 
+*Woolwich was within the Kent boundary at the time.
