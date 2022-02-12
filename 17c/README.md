@@ -39,7 +39,7 @@ xxx.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
-xxx.
+Botanist and gardener, John Tradescant the Younger was born
 
 ##
 **[John Wallis](17c-wallis-biography)**
