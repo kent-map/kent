@@ -33,7 +33,7 @@ xxx.
 xxx.
 
 ##
-**[John Tradescant](17c-john-tradescant)**
+**[John Tradescant the Younger](17c-john-tradescant-younger)**
 
 - author: Dominique Gracia and
 
