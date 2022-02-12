@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="William Harvey (1578 – 1657)" author="Dominique Gracia and Arnav Sharma" layout="vtl" banner="banner="/images/banners/17c.jpg">
+<param ve-config title="William Harvey (1578 – 1657)" author="Dominique Gracia and Arnav Sharma" layout="vtl" banner="/images/banners/17c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q375314" aliases="Folkestone">
@@ -49,7 +49,7 @@ Harvey's research was furthered through the dissection of animals. He himself no
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Portrait_of_Galen_Wellcome_L0000098.jpg/925px-Portrait_of_Galen_Wellcome_L0000098.jpg" label="Portrait of Galen" attribution="Wellcome Trust, CY-BY-4.0, via Wikimedia Commons">
 
 In 1628, Harvey published his theories in a book entitled _Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus_ (_An Anatomical Study of the Motion of the Heart and of the Blood in Animals_), where he explained how the heart propelled the blood in a circular course through the body. As younger generations of doctors entered the College, an eventual consensus began to grow in favour of Harvey’s ideas, and other thinkers, such as René Descartes, began to accept his ideas, with Descartes using Harvey’s proposal for how circulation worked as an example in his _Discourse on Method_ (1637).
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_René_Descartes.jpg" label="Portrait of René Descartes by Frans Hals, held in the Louvre Museum" attribution="Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg?20070918183619" label="Portrait of René Descartes by Frans Hals, held in the Louvre Museum" attribution="Public domain, via Wikimedia Commons">
 
 ### Later Career at Court and Death
 
