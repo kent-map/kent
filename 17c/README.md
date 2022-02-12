@@ -26,7 +26,7 @@ xxx.
 ##
 **[Robert Plot](17c-robert-plot)**
 
-- author: Dominique Gracia and
+- author: Dominique Gracia and Hannah Jennison
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
