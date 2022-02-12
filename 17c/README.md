@@ -35,7 +35,7 @@ xxx.
 ##
 **[John Tradescant the Younger](17c-john-tradescant-younger)**
 
-- author: Dominique Gracia and
+- author: Dominique Gracia and Hannah Jennison
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
