@@ -57,6 +57,7 @@ Tradescant published the 183-page _Museum Tradescantianum_ catalogue in 1656, pr
 <param ve-image url="https://thegardenstrustblog.files.wordpress.com/2020/04/screenshot-92.png" label="The title page of the _Museum Tradescantianum_ catalogue, featuring John Tradescant the Elder" attribution="Public domain, via The Garden’s Trust">
 
 In 1659, Tradescant began to consider who would have the collection after he died, as his only son, John, had died in 1652 at age 19, drawing up a deed of gift to leave the collection to Ashmole. This transfer was not entirely straightforward. It is likely the collection was taken more so than given, after Ashmole had falsely claimed that he would allow Hester to also own the museum if the deed was signed. Tradescant drew up two separate wills following the deed of gift. The first bequeathed the collection to the King; the second to either the University of Oxford or the University of Cambridge, at the discretion of his wife, as executor.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Elias_Ashmole_by_John_Riley.jpg/968px-Elias_Ashmole_by_John_Riley.jpg?20101017112849" label="Elias Ashmole, c.1687-c.1689, after John Riley" attribution="Public domain, via Wikimedia Commons">
 
 These documents were only produced after Tradescant’s death at Lambeth on 22 April 1662. Shortly after Tradescant’s death, Ashmole took the widowed Hester to court. The case was brought before the Lord Chancellor, the Earl of Clarendon, in May 1664, who found in favour of Ashmole. The property remained in Hester’s possession, however, and she and Ashmole seemed to have found a compromise, until in 1674 he bought the property next to The Ark, and she accused him of harassment. Eventually, Hester had Ashmole take some of the collection into his own property, and upon her death on 4 April 1678 (by drowning in the garden pond), Ashmole took possession of the remainder.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Edward_Hyde%2C_1st_Earl_of_Clarendon_by_Adriaen_Hanneman.jpg/612px-Edward_Hyde%2C_1st_Earl_of_Clarendon_by_Adriaen_Hanneman.jpg?20091204062317" label="Edward Hyde, 1st Earl of Clarendon, c.1671, by Adriaen Hanneman" attribution="Public domain, via Wikimedia Commons">
@@ -65,6 +66,7 @@ A few years later, in 1683, Ashmole used the Tradescant collection as part of th
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6d/Ashmolean_Museum_in_July_2014.jpg" label="Ashmolean Museum, 2014" attribution="Lewis Clarke via Wikimedia Commons, CC BY-SA 2.0">
 
 Tradescant is buried beside his father in churchyard at St-Mary-at-Lambeth, now the location of the Garden Museum.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/London_garden_museum_-20_garden_and_church.JPG/1496px-London_garden_museum_-20_garden_and_church.JPG?20120416072103" label="Knot Garden and St Mary's Church Lambeth" attribution="Rosakoalaglitzereinhorn via Wikimedia Commons, CC BY-SA 3.0">
 
 ### Bibliography
 
