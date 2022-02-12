@@ -17,7 +17,7 @@ Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown 
 ##
 **[William Harvey](17c-william-harvey)**
 
-- author: Dominique Gracia and 
+- author: Dominique Gracia and Arnav Sharma
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
