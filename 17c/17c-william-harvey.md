@@ -28,6 +28,7 @@
 ### Early Life and Education
 
 William Harvey was born in Folkestone, Kent on 1 April 1578, the eldest child of a farmer and carrier, Thomas Harvey and his second wife, Joan, née Halke. He had six brothers and three sisters, and his brothers were successful merchants and courtiers who provided him material assistance during his career.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Harvey-in-Folkestone.JPG" label="Statue of William Harvey in Folkestone" attribution="Immanuel Giel, via Wikimedia Commons" license="CC BY-SA 3.0">
 <param ve-map center="Q375314" zoom="10">
 
 Harvey was educated at The King’s School, Canterbury and then at Gonville and Caius College, Cambridge. His studies were supported by a Matthew Parker scholarship, founded by the Archbishop of Canterbury to support someone born in Kent and educated at King’s to study medicine.
