@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Jane Austen and Sevenoaks" author="Susan Civale" layout="vtl" 
-banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc">
+banner="/images/banners/19c.jpg">
 
 # 
 
@@ -11,7 +11,7 @@ Austen’s first trip into Kent took place in 1788, at the age of 12, when she t
 
 Jane seems to have found the experience trying.  She may have drawn inspiration from it for the dinner party that takes place at the Grants’ rectory in her third novel, _Mansfield Park_ (1814),[^ref2]  during which the timid protagonist, Fanny Price, attempts to avoid social interaction:     
 <br><br>
->In the drawing-room Mr. Crawford certainly was, having been just long enough arrived to be ready for dinner; and the smiles and pleased looks of the three others standing round him, shewed how welcome was his sudden resolution of coming to them for a few days on leaving Bath. A very cordial meeting passed between him and Edmund; and with the exception of Fanny, the pleasure was general; and even to _her_ there might be some advantage in his presence, since every addition to the party must rather forward her favourite indulgence of being suffered to sit silent and unattended to. 
+'In the drawing-room Mr. Crawford certainly was, having been just long enough arrived to be ready for dinner; and the smiles and pleased looks of the three others standing round him, shewed how welcome was his sudden resolution of coming to them for a few days on leaving Bath. A very cordial meeting passed between him and Edmund; and with the exception of Fanny, the pleasure was general; and even to _her_ there might be some advantage in his presence, since every addition to the party must rather forward her favourite indulgence of being suffered to sit silent and unattended to.' 
 _Mansfield Park_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/af/MansfieldParkTitlePage.jpg" label="Mansfield Park" attribution="Jane Austen (1775 - 1817), Public domain, via Wikimedia Commons">
 
