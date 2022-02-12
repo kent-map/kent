@@ -76,4 +76,3 @@ Bennell, John. ‘Browne, Lancelot (d. 1605)’. _Oxford Dictionary of National 
 French, Roger. ‘Harvey, William (1578-1657)’. _Oxford Dictionary of National Biography_. 23 September 2004. Date accessed 4 February 2022. https://ezproxy-prd.bodleian.ox.ac.uk:2102/10.1093/ref:odnb/12531 
 
 Pelling, Margaret, and Frances White. ‘HARVEY, William.’ Physicians and Irregular Medical Practitioners in London 1550-1640 Database. London: Centre for Metropolitan History, 2004. British History Online. Web. Date accessed 8 February 2022. http://www.british-history.ac.uk/no-series/london-physicians/1550-1640/harvey-william. 
-![image](https://user-images.githubusercontent.com/25114140/153714194-6c7cd768-4121-4125-a62f-a0453953aee8.png)
