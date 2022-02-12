@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="John Tradescant the Younger (1608 – 1662)" author="Dominique Gracia and Hannah Jennison" layout="vtl" banner="banner="/images/banners/17c.jpg">
+<param ve-config title="John Tradescant the Younger (1608 – 1662)" author="Dominique Gracia and Hannah Jennison" layout="vtl" banner="/images/banners/17c.jpg">
 
 <param ve-entity eid="Q3133261" aliases="Meopham">
 <param ve-entity eid="Q1701960" aliases="John Tradescant the Younger">
