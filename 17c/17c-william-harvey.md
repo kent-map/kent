@@ -1,3 +1,5 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+
 <param ve-config title="William Harvey (1578 – 1657)" author="Dominique Gracia and Arnav Sharma" layout="vtl" banner="banner="/images/banners/17c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
