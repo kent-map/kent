@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Donald Maxwell (1877-1936)" author="Professor Peter Vujakovic" layout="vtl" 
-banner="xxx">
+banner="https://upload.wikimedia.org/wikipedia/commons/e/e1/Firle_Beacon_2.jpg">
 
 <param ve-entity eid="Q4946691" aliases="Borstal">
 <param ve-entity eid="Q507517" aliases="Rochester">
