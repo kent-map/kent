@@ -21,7 +21,7 @@ Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
-xxx.
+Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
 
 ##
 **[Robert Plot](17c-robert-plot)**
@@ -30,7 +30,7 @@ xxx.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
-xxx.
+Naturalist and chemist, Plot was born at Borden in Kent.
 
 ##
 **[John Tradescant the Younger](17c-john-tradescant-younger)**
