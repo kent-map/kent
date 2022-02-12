@@ -28,6 +28,7 @@
 ### Early Life and Education
 
 William Harvey was born in Folkestone, Kent on 1 April 1578, the eldest child of a farmer and carrier, Thomas Harvey and his second wife, Joan, née Halke. He had six brothers and three sisters, and his brothers were successful merchants and courtiers who provided him material assistance during his career.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Harvey-in-Folkestone.JPG" label="Statue of William Harvey in Folkestone" attribution="Immanuel Giel, via Wikimedia Commons" license="CC BY-SA 3.0">
 <param ve-map center="Q375314" zoom="10">
 
 Harvey was educated at The King’s School, Canterbury and then at Gonville and Caius College, Cambridge. His studies were supported by a Matthew Parker scholarship, founded by the Archbishop of Canterbury to support someone born in Kent and educated at King’s to study medicine.
@@ -70,9 +71,6 @@ Harvey died, likely from a stroke, on 2 June 1657 at the house of his brother El
 <param ve-map center="Q17534618" zoom="13">
 
 ### Bibliography
-
-Bennell, John. ‘Browne, Lancelot (d. 1605)’. _Oxford Dictionary of National Biography_. 23 September 2004. Date accessed 4 February 2022. https://ezproxy-prd.bodleian.ox.ac.uk:2102/10.1093/ref:odnb/3686 
-
-French, Roger. ‘Harvey, William (1578-1657)’. _Oxford Dictionary of National Biography_. 23 September 2004. Date accessed 4 February 2022. https://ezproxy-prd.bodleian.ox.ac.uk:2102/10.1093/ref:odnb/12531 
-
-Pelling, Margaret, and Frances White. ‘HARVEY, William.’ Physicians and Irregular Medical Practitioners in London 1550-1640 Database. London: Centre for Metropolitan History, 2004. British History Online. Web. Date accessed 8 February 2022. http://www.british-history.ac.uk/no-series/london-physicians/1550-1640/harvey-william. 
+Bennell, John. ‘Browne, Lancelot (d. 1605)’. _Oxford Dictionary of National Biography_. 23 September 2004. Date accessed 4 February 2022.   
+French, Roger. ‘Harvey, William (1578-1657)’. _Oxford Dictionary of National Biography_. 23 September 2004. Date accessed 4 February 2022.   
+Pelling, Margaret, and Frances White. ‘HARVEY, William.’ [_Physicians and Irregular Medical Practitioners in London 1550-1640 Database_](http://www.british-history.ac.uk/no-series/london-physicians/1550-1640/harvey-william). London: Centre for Metropolitan History, 2004. _British History Online_. Web. Date accessed 8 February 2022. . 

@@ -15,6 +15,33 @@
 Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born; however, like much of her life, this is difficult to confirm.
 
 ##
+**[William Harvey](17c-william-harvey)**
+
+- author: Dominique Gracia and Arnav Sharma
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+
+Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
+
+##
+**[Robert Plot](17c-robert-plot)**
+
+- author: Dominique Gracia and Hannah Jennison
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+
+Naturalist and chemist, Plot was born at Borden in Kent.
+
+##
+**[John Tradescant the Younger](17c-john-tradescant-younger)**
+
+- author: Dominique Gracia and Hannah Jennison
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+
+Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
+
+##
 **[John Wallis](17c-wallis-biography)**
 
 - author: Michelle Crowther
