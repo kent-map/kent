@@ -15,6 +15,33 @@
 Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born; however, like much of her life, this is difficult to confirm.
 
 ##
+**[William Harvey](17c-william-harvey)**
+
+- author: Dominique Gracia and 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+
+xxx.
+
+##
+**[Robert Plot](17c-robert-plot)**
+
+- author: Dominique Gracia and
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+
+xxx.
+
+##
+**[John Tradescant](17c-john-tradescant)**
+
+- author: Dominique Gracia and
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+
+xxx.
+
+##
 **[John Wallis](17c-wallis-biography)**
 
 - author: Michelle Crowther
