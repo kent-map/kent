@@ -16,7 +16,6 @@ _Mansfield Park_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/af/MansfieldParkTitlePage.jpg" label="Mansfield Park" attribution="Jane Austen (1775 - 1817), Public domain, via Wikimedia Commons">
 
 ### Bibliography 
-
 Butler, Marilyn.  _Oxford Dictionary of National Biography_. 7 January 2010.    
 Poplawski, Paul.  _A Jane Austen Encyclopedia._  Westport, CT: Greenwood Press, 1998.    
 
