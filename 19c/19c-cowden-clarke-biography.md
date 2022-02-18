@@ -10,7 +10,7 @@
 
 #
 
-Mary Cowden Clarke (nee Novello) (1809-1898), author and Shakespeare scholar, was the eldest daughter of musician Vincent Novello and Mary Hehl. Her parents were friends with the poets Charles and Mary Lamb, Leigh Hunt, Shelley and [John Keats]( /19c-keats-margate/), and Mary recalls watching in awe as Keats listened attentively to her father playing the organ. The family, although living in London, sought “healthful changes” by visiting the seaside. (p18) Mary visited Kent on at least three occasions which she describes in her autobiography _My Long Life_.
+Mary Cowden Clarke (née Novello) (1809-1898), author and Shakespeare scholar, was the eldest daughter of musician Vincent Novello and Mary Hehl. Her parents were friends with the poets Charles and Mary Lamb, Leigh Hunt, Shelley and [John Keats]( /19c-keats-margate/), and Mary recalls watching in awe as Keats listened attentively to her father playing the organ. The family, although living in London, sought “healthful changes” by visiting the seaside. (p18) Mary visited Kent on at least three occasions which she describes in her autobiography _My Long Life_.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mary_Victoria_Cowden_Clarke_%28nee_Novello%29%2C_ca._1870s.jpg" label="Mary Victoria Cowden Clarke" attribution="G.B. Sciutto & Co., Public domain, via Wikimedia Commons, © National Portrait Gallery, London">
 
 Mary’s first visit to Kent was during her childhood, when her parents decided to take their young family on the Margate Hoy. 
