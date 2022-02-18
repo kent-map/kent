@@ -3,6 +3,8 @@
 banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q665489" aliases="Tunbridge Wells">
+<param ve-entity eid="Q2744669" aliases="Hawkhurst">
 
 #
 
