@@ -38,6 +38,7 @@
 [Dora Jordan](19c-jordan-biography)   
 [John Keats](19c-keats-margate)   
 [Bessie Marchant](19c-marchantb-biography)  
+[George Meredith](19c-meredith-biography)   
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)  
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
 [Edward Linley Sambourne](19c-sambourne-biography)   
