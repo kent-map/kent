@@ -31,7 +31,7 @@ However, not all Mary’s recollections of Kent are tinged by transport delays a
 <param ve-image url="https://commons.wikimedia.org/wiki/File:%27Blackberries%27_by_John_F._Francis.jpg" label="Blackberries" attribution="John F. Francis, Public domain, via Wikimedia Commons">
 <param ve-map center="Q665489" zoom="10">
 
-Mary married childhood friend Charles Cowden Clarke, who was also a Shakespearian scholar. Charles, whose father had taught John Keats, spent some of his youth in Kent after his father's retirement. Charles recalled bumping into Samuel Taylor Coleridge on the East Cliff at [Ramsgate](https://kent-maps.online/19c/19c-ramsgate/), who for an hour and a half 'gave utterance to some of the grandest thoughts [Clarke] ever heard from the mouth of man'.[^ref5] 
+Mary married childhood friend Charles Cowden Clarke, who was also a Shakespearian scholar. Charles, whose father had taught [John Keats](/19c-keats-margate/), spent some of his youth in Kent after his father's retirement. Charles recalled bumping into Samuel Taylor Coleridge on the East Cliff at [Ramsgate](https://kent-maps.online/19c/19c-ramsgate/), who for an hour and a half 'gave utterance to some of the grandest thoughts [Clarke] ever heard from the mouth of man'.[^ref5] 
 <param ve-image url="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" label="Ramsgate, East Cliff Promenade" attribution="Kent Maps Online Collection">
 <param ve-map center="Q736439" zoom="10">
 
