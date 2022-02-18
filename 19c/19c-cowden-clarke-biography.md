@@ -25,7 +25,7 @@ Another trip to Kent (this time en route to Boulogne), was also mired with misha
 <param ve-image url="/dickens/images/Snargate St Dover 1830.jpg" label="Snargate St Dover c.1830" attribution="Drawn by G.Shepherd">
 <param ve-map center="Q179224" zoom="15">
 
-However, not all Mary’s recollections of Kent are tinged by transport delays and disasters. A holiday at a farmhouse near Tunbridge was recalled fondly:
+However, not all Mary’s recollections of Kent are tinged by transport delays and disasters. A holiday at a farmhouse near Tonbridge was recalled fondly:
 <br><br>
 'Delightful were those early mornings when I was despatched to another farm about half a mile off, that I might drink new milk from the cow, after a walk through green lanes before breakfast. In those matutinal walks I was invariably accompanied by a kitten, who had taken a fancy to me, or perhaps knew that she was to have a saucer of milk given to her when we arrived ... Nutting and blackberrying for hours of an afternoon were delights to me. Glorious were those baking days, when feasts of new-made bread, a Kentish delicacy called ‘huffkins’ – a sort of muffin plentifully buttered and eaten hot, - and a superb pork pie, containing alternate layers of potato, sage and dairy-fed pork formed the delicious periodically-appointed cates.’[^ref4]
 <param ve-image url="https://commons.wikimedia.org/wiki/File:%27Blackberries%27_by_John_F._Francis.jpg" label="Blackberries" attribution="John F. Francis, Public domain, via Wikimedia Commons">
