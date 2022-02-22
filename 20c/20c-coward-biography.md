@@ -1,6 +1,17 @@
-Noël Coward
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Noël Coward" author="Daniel Vince" layout="vtl" banner="xxx">
 
-Daniel Vince.
+<param ve-entity eid=“Q2051722” aliases=“Yalding”>
+<param ve-entity eid=“Q921173" aliases=“Aldington”>
+<param ve-entity eid=“Q2796278" aliases=“Dymchurch”>
+<param ve-entity eid=“Q1506093" aliases=“Romney Marsh”>
+<param ve-entity eid=“Q7594628" aliases=“St Mary in the Marsh”>
+<param ve-entity eid=“Q24638363" aliases=“St Margaret's”>
+<param ve-entity eid=“Q179224" aliases=“Dover”>
+<param ve-entity eid=“Q1011096" aliases=“Deal”>
+<param ve-entity eid=“Q375314" aliases=“Folkestone”>
+
+#
 
 Sir Noël Peirce Coward (1899-1973) was born in Teddington, south-west London, on December 16th, 1899. His father, Arthur Coward was a piano salesman for Metzlers and his mother, Violet, frequented the local theatres. From the age of four, he sang and performed in school concerts and productions; six years later, Coward had his first professional performance, appearing in children’s musical play _The Goldfish_ and had great success in his role as Prince Mussel. Many childhood performances followed and kicked off his career in show business. Juvenile performances included parts in _Where the Rainbow Ends_ in 1911 and in 1912, Coward had his directorial debut, bringing _The Daisy Chain_ to the Savoy Theatre, London.
 
