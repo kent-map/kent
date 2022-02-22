@@ -143,14 +143,13 @@ viewed through nine silenced rectangles of double-glazing.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/39/Rothko_Paper_Works.jpg" label="Mark Rothko Paper Works" attribution="via Wikimedia Commons" license="CC BY-SA 4.0">
 
 ***
-
  
 The sea is hammered to a blue steel pan.   
 A scattering of snippets from the moon   
 slither on its shiny metal surface,   
 playing the pan like a snare drum   
 stroked by a soft brush.   
-<br><br>
+<br>
 Hissing ceaselessly, a silver snake   
 slithers on its path towards me.   
 Its scales glitter out a warning   
@@ -178,13 +177,13 @@ A parabolic cloud conceals a focus
 from which soft lines of light   
 radiate at equal angles,   
 imposing a protractor on the sky.   
-<br><br>
+<br>
 This hidden light-source puckers up the sea,   
 gilds the hollows of ellipses   
 flowing in kinetic motion   
 diagonally towards the point   
 where x (the pier) meets y (the shore).   
-<br><br>
+<br>
 A silver horizontal bar is scored,   
 division line with sky the upper integer,   
 and sea the lower one.   
