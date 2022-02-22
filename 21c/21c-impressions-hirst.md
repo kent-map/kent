@@ -107,13 +107,13 @@ Knobbled waves in rows
 knit one, drop one, cast one on,   
 as they purl, plain, purl their way,   
 moss-stitching to the shore.   
-
+<br><br>
 Ferries slash this grey-blue knitting,   
 dragging huge white quills behind   
 which slowly moss back into stitches.   
 The knitting’s top edge, bound in darker grey,   
 gives a soupçon of French style.   
-
+<br><br>
 Above, oblivious to graft and beauty,   
 cumulus clouds chug along importantly,   
 itching to destroy this work   
@@ -150,7 +150,7 @@ A scattering of snippets from the moon
 slither on its shiny metal surface,   
 playing the pan like a snare drum   
 stroked by a soft brush.   
-
+<br><br>
 Hissing ceaselessly, a silver snake   
 slithers on its path towards me.   
 Its scales glitter out a warning   
@@ -164,7 +164,7 @@ near the marshes lying outside town
 it had snowed tiny cauliflowers   
 onto fields where green cabbages   
 were already fighting to be seen.   
-
+<br><br>
 Now, from the east   
 a trail of Barbie-pink puff-clouds begins,   
 drifting nonchalant as summer candyfloss   
@@ -178,13 +178,13 @@ A parabolic cloud conceals a focus
 from which soft lines of light   
 radiate at equal angles,   
 imposing a protractor on the sky.   
-
+<br><br>
 This hidden light-source puckers up the sea,   
 gilds the hollows of ellipses   
 flowing in kinetic motion   
 diagonally towards the point   
 where x (the pier) meets y (the shore).   
-
+<br><br>
 A silver horizontal bar is scored,   
 division line with sky the upper integer,   
 and sea the lower one.   
