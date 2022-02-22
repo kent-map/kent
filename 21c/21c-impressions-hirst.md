@@ -12,6 +12,7 @@ Deal pier waddles seawards
 towards France,   
 a concrete centipede on rigid legs   
 straddling the falling tide   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Deal_Pier_-_geograph.org.uk_-_2845204.jpg" label="Deal Pier" attribution="Oast House Archive  via Wikimedia Commons" license="CC BY-SA 2.0">
 
 On the pebbled beach   
 white gulls watch,   
@@ -20,6 +21,7 @@ for rhythmic rippling silk,
 which ends its dove-grey journey   
 in white lace frills   
 on the shushing, singing shingle   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Coastline_near_Deal_castle_%282012%29_-_panoramio.jpg" label="Coastline near Deal Castle" attribution="Alexander Kachkaev via Wikimedia Commons" license="CC BY 3.0">
 
 Rising tide. North wind.   
 Now the sea runs back from France   
@@ -45,6 +47,7 @@ Tonight the pier is gaudy.  Its orange sodium lights
 are giddy in the off-shore breeze.  They look all set   
 for hours of rollicking and roistering.   
 Alas, the new café is closed.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/72/Pier-of-Deal-07.jpg" label="Pier of Deal" attribution="Immanuel Giel, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 With golden shimmers in dark sky over France   
 modern commerce mimics ancient battlefields.   
@@ -86,6 +89,7 @@ dark grey tarmac and dirty off-white kerb
 are stacked below the pale beige pavement;   
 beyond, the nearer pebbles are surprised   
 white-frosted on the beach.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Sea-front_in_Deal_%282012%29_-_panoramio.jpg" label="Sea-front in Deal" attribution="Alexander Kachkaev, via Wikimedia Commons" license="CC BY 3.0">
 
 Frost washed off, colours start to warm.   
 The amber, garnet shingle shines,   
@@ -136,6 +140,7 @@ a dumbshow for drizzle-driven windows.
 Apart from these small interruptions,   
 the picture is Mark Rothko in Grey and Grey   
 viewed through nine silenced rectangles of double-glazing.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/39/Rothko_Paper_Works.jpg" label="Mark Rothko Paper Works" attribution="via Wikimedia Commons" license="CC BY-SA 4.0">
 
 ***
 
