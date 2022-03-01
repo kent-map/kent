@@ -7,7 +7,7 @@
 #
 
 Henrietta Vaughan Stannard [Pseud. John Strange Winter]
-Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was a popular British novelist who wrote tales of military life. During a career spanning thirty years, she wrote approximately 112 books and contributed 42 short stories to the Family Herald under the pseudonym of 'Violet Whyte'. Like Edith Katherine Spicer Jay,  Stannard used a male pseudonym, as her publisher, Chatto and Windus, believed that if Cavalry Life, her collection of stories published in 1881 was known to be the work of a woman, it would “prejudice its success”.  Her cover was eventually blown, when she was invited to a Greenwich fish dinner by the editor of the Cornhill Magazine, but declined on the grounds that as ““J.S.Winter” was of the sex requiring chaperones, she must decline the invitation.” 
+Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was a popular British novelist who wrote tales of military life. During a career spanning thirty years, she wrote approximately 112 books and contributed 42 short stories to the Family Herald under the pseudonym of 'Violet Whyte'. Like Edith Katherine Spicer Jay,  Stannard used a male pseudonym, as her publisher, Chatto and Windus, believed that if Cavalry Life, her collection of stories published in 1881 was known to be the work of a woman, it would “prejudice its success”.  Her cover was eventually blown, when she was invited to a Greenwich fish dinner by the editor of the _Cornhill Magazine_, but declined on the grounds that as ““J.S.Winter” was of the sex requiring chaperones, she must decline the invitation.” 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/John_Strange_Winter_0001.jpg" attribution="Barrauds Ltd., London, (1892-1904) Reference:Michael Pritchard (1994) A Directory of London Photographers 1841-1908, Public domain, via Wikimedia Commons">
 <param data-map primary center="Q865021" zoom="10">
 
@@ -42,7 +42,7 @@ In the The Queen - Saturday 09 November 1895 a reviewer praised Stannard for her
 Stannard did not draw on the Kent landscape in her fiction.  Her novel The Strange Story of My Life (1896) which she was writing at Birchington in the summer of 1895, is set on the continent and when her heroine Miss Massingham is asked “You would like … to go over and see a little of the English coast?” she replies: “I know nobody in England, I don’t feel in any way drawn towards it.”  Furthermore, in The truth-tellers (1896) the pleasures of the Kent coast are described as the sort of place where servants can enjoy themselves, hinting that they have no appeal for sophisticated society. Miss Mortimer’s manservant James idea of enjoying the sea “was to spend a fortnight in Margate when his mistress was safely taking a cure at Homburg or Schwalbach. Then the faithful James might have been seen by such as knew him, arrayed in a suit of light check dittoes, with a straw hat upon his respectable head, sunning himself along the arid front, or in more select fashion enjoying the delights of the health-giving breezes at the extreme end of the pier, —the part where you pay twopence.  “. p109-10
 After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to return to London.  She had just completed The Strange Story of My Life
 
-Birmingham Daily Post - Saturday 02 November 1895 – it is announced that Mrs Arthur Stannard has returned to London after a six month stay at Montague House, Birchington and will be at home to many of her literary friends in Palace Gardens Terrace, Kensington next week. 
+**Birmingham Daily Post** - Saturday 02 November 1895 – it is announced that Mrs Arthur Stannard has returned to London after a six month stay at Montague House, Birchington and will be at home to many of her literary friends in Palace Gardens Terrace, Kensington next week. 
 
 In 1896 the family moved to France for Arthur’s health. The family were to remain in Dieppe for the next 5 years. The Stannards’ three summers at Birchington have been largely forgotten.
 The Boer War (1899-1902) “practically ruined the book trade”  With the bankruptcy of her publisher, and now in debt, Stannard concentrated on her toiletry range to keep the family afloat. The Stannards were keen to keep up appearances and hid their financial problems from the public. Returning to London in 1901
@@ -62,6 +62,7 @@ Request for £3 https://explore.library.leeds.ac.uk/special-collections-explore/
 
 "Independent in Thought and Expression, Kindly and Tolerant in Tone": Henrietta Stannard, "Golden Gates", and Gender Controversies in "Fin-de-Siècle" Periodicals Author(s): Molly Youngkin Source: Victorian Periodicals Review , Fall, 2005, Vol. 38, No. 3 (Fall, 2005), pp. 307-329 Published by: The Johns Hopkins University Press on behalf of the Research Society for Victorian Periodicals Stable URL: https://www.jstor.org/stable/20084072
 
+### Bibliography
 
 Mrs Arthur Stannard at Home, Woman’s World, p.340
   Mrs Arthur Stannard at Home, Woman’s World, p.340
