@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="Joseph Conrad (1857-1924)" author="Martin Watts" layout="vtl" banner="https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20"> 
+<param ve-config title="Henrietta Vaughan Stannard [Pseud. John Strange Winter]" author="Michelle Crowther" layout="vtl" banner="/banners/images/19c.jpg"> 
 
 <param ve-entity eid="Q865021" aliases="Birchington">
 
@@ -8,16 +8,26 @@
 
 Henrietta Vaughan Stannard [Pseud. John Strange Winter]
 Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was a popular British novelist who wrote tales of military life. During a career spanning thirty years, she wrote approximately 112 books and contributed 42 short stories to the Family Herald under the pseudonym of 'Violet Whyte'. Like Edith Katherine Spicer Jay,  Stannard used a male pseudonym, as her publisher, Chatto and Windus, believed that if Cavalry Life, her collection of stories published in 1881 was known to be the work of a woman, it would “prejudice its success”.  Her cover was eventually blown, when she was invited to a Greenwich fish dinner by the editor of the Cornhill Magazine, but declined on the grounds that as ““J.S.Winter” was of the sex requiring chaperones, she must decline the invitation.” 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/John_Strange_Winter_0001.jpg" attribution="Barrauds Ltd., London, (1892-1904) Reference:Michael Pritchard (1994) A Directory of London Photographers 1841-1908, Public domain, via Wikimedia Commons">
+<param data-map primary center="Q865021" zoom="10">
+
 After the success of her first novel, Henrietta continued to write military tales, including the popular novel Bootles Baby (1885) which sold two million copies within the first ten years of its publication. It was at around this time that she attracted the admiration of John Ruskin. Henrietta had written to Ruskin thanking him for a lecture which he had given which had inspired a “thoroughness” in her writing. (She had rewritten Bootles Baby nine times before she was satisfied with it).  On reading the letter, Ruskin invited Henrietta with her husband Arthur, to visit him in Sandgate where he was staying in 1887. During their visit, Ruskin, who was suffering from depression. became angry about British armaments and decided to write a letter about the topic to the Daily Telegraph. He asked Henrietta to supply him with figures on the number of “bayonets that twisted, and the swords that snapped.” Henrietta said in an interview for The Young Woman magazine years later: “I didn’t know what to do, and nearly had a fit; I didn’t know anything about statistics.”  The following day, “after a warm controversy”, Ruskin decided not to write about armaments, instead choosing to write about Henrietta herself. He described her as "the author to whom we owe the most finished and faithful rendering ever yet given of the character of the British soldier". (FN? Lee?)  Their friendship was to endure, despite its strange beginnings. She was heavily pregnant with twins, at the time of her visit, and a few months later asked Ruskin to be Violet and Eliot’s godfather. 
 In 1890 Stannard became involved with the launch of The Gentlewoman, a new illustrated journal. She contributed an article entitled “Other People’s children” whilst her sister-in-law, Bessie Sala, the wife of George Augustus Sala, contributed “Famous people I have met”.  It is possible that her ability to headline a journal encouraged her to embark in 1891, on the “treacherous and adventuresome” enterprise of establishing Golden Gates a penny weekly magazine, (its name was later changed to Winter's Weekly as it was felt that the former name had religious connotations) . However, the magazine was not a success. Her husband Arthur said: “we lost heavily over the weekly magazine which we started in 1891. We kept it going for four years, and it was just beginning to turn the corner and pay us when in 1895 my health broke down and we had to go to Dieppe.” However, how far Arthur’s health contributed to the decision to step away from the magazine is debatable, and it may be that Henrietta’s own ill-health was the problem.
+
  In January 1893, Stannard revealed to her readers that she had rheumatic pains in her knees in an advertisement for an “electropoise”. ( Winters Weekly Jan 7th 1893). She wrote: “since June I have suffered agony steadily getting worse and worse, so that I have to slide out of a carriage or railway compartment.”  She also recommended the “electropoise” for children writing: “My youngest girl [4-year-old Violet] did not recover very well after diphtheria, and was nervous, irritable and fretful.”   Despite the aches and pains that she publicly talked about, she set up the No crinoline league in January 1893 and gained 5,589 women members within one week and 15,000 by March 1893 (Stannard, "Outside Edge" 49). See Victorian Periodicals Review 38:3 Fall 2005 p.316. Seeney points out that: “Once engaged in a cause she was indefatigable.” However, this energetic commitment came at a cost to her health.  In March 1893, Stannard renewed her endorsement of the “electropoise” telling her readers that her words were not an “advertisement puff” as she would not promote any product in which she did not believe. She argued: “A moment’s thought should convince anyone that it would be simply ruin to my reputation if any advertiser could truthfully say that my good word had been purchased!  I am not yet a “John Strange How- Much”!”  
+ 
 The unravelling of the family finances becomes evident during this period. Up until 1892, the Stannards had spent their summers at The White House, Wix, Manningtree, Essex, a sizable house with three sitting rooms, 9 bedrooms, conservatory, garden, stabling and 200 acres of shooting.    On March 7th 1893, Stannard wrote to Leonard Phillips telling him that “she was very far from well” adding that she was “not sure the future may see me worse before better” and saying that she was going to “spend the summer by the sea in comparative idleness”. The place that the couple chose was Montague House, Birchington on Sea, a much smaller house. (An advertisement for the house in 1888 describes it as having six bedrooms, three reception rooms and a bathroom and “the usual domestic offices”. London Evening Standard - Thursday 17 May 1888)  It is possible that the Stannards had to cut their cloth to suit their means and could no longer afford to lease the house at Wix due to the losses they incurred on Golden Gates. In April 1893, Wix House was let for £35.  The Stannards may also have been avoiding Essex for other reasons. Henrietta had been sued by an Ipswich tailor for £11 11s “being £5 5s for a superfine grey montana jacket with silk sleeves, trimmed a la militaire and £6 6s for a superfine grey montana costume complete, braided in black” which she had refused to pay for. She claimed that that the clothes did not fit, but the judge ruled that she should have given the tailor the opportunity to make alterations.  The report of the court case which appeared in the East Anglian Daily Times in February 1892, ran to three and a half columns and portrayed Henrietta as bad-tempered and difficult. 
+
 It is possible that Mrs Charlotte Talbot Coke, a fellow Yorkshire woman, an army wife, and contributor to Winter’s Weekly  had recommended Birchington-on-Sea to Henrietta. Talbot Coke had visited Birchington in 1891  and this had inspired her to think about buying a seaside cottage where she might entertain guests and give “change and rest (rent free) to friends unable to afford seaside jaunts”.  Whether she did or not is uncertain, but she returns to this theme in later articles as she describes ideas for decorating a seaside home. What is known is that Stannard and Coke were working together on Hearth and Home magazine, which was launched in May 1891. The magazine’s aim was to be “bright and original, fearless and outspoken, broad and comprehensive in its scope”  and to give a voice to women’s concerns. They wrote: “We do not profess to desire what the ignorant term “Emancipation” of our sex, but we do desire freedom, justice, and even generous consideration.” 
+
 The need for sea-air was given as the reason for the switch to the summer home in Birchington with Stannard expressing the desire that the bracing air would improve the health of her husband Arthur and eldest daughter Audrey (known as Baeufie).   The air at "Bungalow Birchington" as it was nicknamed was said to be beneficial for those suffering with “exhausted nerves” as it was more sheltered than places like Margate and Ramsgate which were “charged with the southerly breezes that sweep round the head of Thanet.”  Its shore was “not good for bathers who do not swim, but for swimmers it is perfect, affording plentiful opportunities for a header into deep water.” However, the stench of the seaweed “was an objectionable drawback” which poisoned the air “with a potency suggestive of typhoid fever or other miasma”[ according to “Eothen”]. Dante Gabriel Rossetti had stayed for a few months at Westcliff Bungalow in 1882 to convalesce, after a seizure, but had died whilst staying there.  
+
 During that summer, Henrietta took a break from editing Winter’s Weekly, resuming the editorship in August. Later that year, she endorsed Bromo-Phosph, the new brain food. she reveals “Had I been in town I should have gone to Dr Maitland King, who did so marvellously for my nerves a few months ago, but I was simply unable to spare the necessary time, being very much pressed with work.”  She also fed it to her family, who “felt better for it.”  The stay in Birchington stretched into the autumn. On 9 October 1893, she wrote to Charlotte Mary Yonge from Montague House saying: “I feel very strongly about the birds, especially the ospreys. I convicted and converted a very fashionable lady down here the other day on that point.”  revealing that despite her ill-health, Stannard was still indefatigable in campaigning for what she believed in. 
 On the x of October 1893 {around the 12], Henrietta was still enjoying the “bracing air of Birchington” and missed the Institute of Journalists’s conference week in London, although husband Arthur attended. This seems at odds with the image that Stannard has portrayed to the public of her ailing husband. 
 Against this backdrop of financial losses and illness, Henrietta was still working as hard as ever. Her 1894 novel _A Blameless Woman_ was probably written this summer. Her heroine Margaret North spends time “by the side of the sea” on her doctor’s orders where “it was very quiet and very delightful. They had no trouble, no worry, no anxiety, nothing to do but rest and regain their strength” (p.78) This seems very different from Henrietta’s own experience and a description of her stay at Birchington the following summer reveals that the author was still keeping up her busy schedule.
+
 “Mrs Stannard does not think it wise to remain in the same house the year round, even though it be delightfully situated in the suburbs, so when Spring comes the family migrate to Montague House, Birchington Bay where they have the benefit of sea air. Still at the seashore, she keeps up her work, disappearing regularly with her shorthand writer in the morning and keeping closed doors until work is finished, when she gives herself up to romping with the children or entertaining guests for there is nearly always someone staying at the house.” by LBS in the San Francisco Chronicle.
+
 She has two governesses and a stenographer.  by LBS in the San Francisco Chronicle.
 By September 1894, Stannard had written a farewell to her Winter Weekly readers, pleading ill health and  the editorship was handed over to Florence White. Nevertheless, despite her continuing health problems, Henrietta was keen to keep her name in the public eye during the winter of 1894. In a newspaper article in October 1894 [Halifax Comet - Saturday 13 October 1894] she is described as “John Strange Winter only from the commencement of the day until three o’clock in the afternoon: the rest of her time is given to husband, children and friends. This rule has few exceptions, for she carries it out most faithfully throughout the entire summer in her country house at Wix, the cosiest little village in Essex.” Did Stannard really spend the summer of 1894 in Wix and not Kent as “LBS” had recounted, or is that what she wanted people to believe? 
 In February 1895 Stannard was on top form, enjoying her life in London. She was described as an “entertaining raconteuse” at a charity event at the Mansion House. “For about twenty minutes she kept her hearers in continuous laughter” (Thursday,  Feb. 7, 1895 Hearth and Home (UKP) (London, England)Volume: 8 , Issue: 195). 
@@ -52,3 +62,53 @@ Request for £3 https://explore.library.leeds.ac.uk/special-collections-explore/
 
 "Independent in Thought and Expression, Kindly and Tolerant in Tone": Henrietta Stannard, "Golden Gates", and Gender Controversies in "Fin-de-Siècle" Periodicals Author(s): Molly Youngkin Source: Victorian Periodicals Review , Fall, 2005, Vol. 38, No. 3 (Fall, 2005), pp. 307-329 Published by: The Johns Hopkins University Press on behalf of the Research Society for Victorian Periodicals Stable URL: https://www.jstor.org/stable/20084072
 
+
+Mrs Arthur Stannard at Home, Woman’s World, p.340
+  Mrs Arthur Stannard at Home, Woman’s World, p.340
+  A popular novelist Penrith Observer - Tuesday 06 May 1890 p6
+  Mr Ruskin and Mrs Stannard. Manchester Courier and Lancashire General Advertiser - Saturday 07 July 1894 Also Percy L. Parker Young Woman - Friday 02 February 1894 p.162
+  Thursday, 10th July [1890] Periodical Prospectus. John Johnson Collection 
+  Notable women authors of the day by Black, Helen C
+  JOHN STRANGE WINTER
+Date: Thursday,  June 1, 1893
+Publication: Hearth and Home (UKP) (London, England)
+Volume: 5 , Issue: 107 
+  JOHN STRANGE WINTER
+Date: Thursday,  June 1, 1893
+Publication: Hearth and Home (UKP) (London, England)
+Volume: 5 , Issue: 107
+  4 October 1892 – To Miss EE Dickinson (Hon Sec). Letter on black-edged paper, unclear hand-writing, written from The White House, Wix, Manningtree, [Essex]. Will be moving house and unable to come to the Club on Friday. Says she will miss Miss Dickinson 'horribly' and hopes Miss Dickinson will still be an Honorary member of the Committee - she will write suggesting it. Women’s Library
+  East Anglian Daily Times - Thursday 26 May 1892
+  Essex Standard - Saturday 01 April 1893
+  Chelmsford Chronicle - Friday 19 February 1892
+  Whitstable Times and Herne Bay Herald - Saturday 05 December 1891
+  Author: Talbot CokeDate: Friday,  June 1, 1894
+Publication: Myra's Journal of Dress and Fashion (London, England)Volume: XX , Issue: [6]
+  FROM CASTLE TO COTTAGE
+Author: TALBOT COKE
+Date: Thursday,  Apr. 20, 1899
+Publication: Hearth and Home (UKP) (London, England)
+Volume: XVI , Issue: 414
+  HEARTH AND HOME
+Date: Thursday,  May 21, 1891
+Publication: Hearth and Home (UKP) (London, England)
+Volume: I , Issue: 1
+  HEARTH AND HOME
+Date: Thursday,  May 21, 1891
+Publication: Hearth and Home (UKP) (London, England)
+Volume: I , Issue: 1
+  In Northampton Chronicle and Echo - Monday 25 September 1893
+  TS UCLA collection 100 box 119/13
+
+  THE HOME OF JOHN STRANGE WINTER.
+Date: Saturday,  June 16, 1894
+Publication: Newcastle Courant (1803) (Newcastle-upon-Tyne, England)Issue: 11448
+  P.175 The duty of discontent
+  THE WORLD OF WOMEN
+Author: MARGUERITEDate: Saturday,  June 15, 1895
+Publication: The Penny Illustrated Paper (London, England)Volume: 68 , Issue: 1777
+The Vagabond CLub.
+  “John Strange Winter’s book sales: the curtain lifted” St Andrews’s Citizen, 27 January 1912.
+  Janet Robinson. Birchington Heritage Trust Newsletter. 58. Nov. 2016.
+  Advertisements. http://johnjohnson.chadwyck.co.uk/search/results.do
+  http://specialcollections.le.ac.uk/digital/collection/p16445coll4/id/184910/rec/2
