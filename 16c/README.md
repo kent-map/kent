@@ -28,7 +28,7 @@ In 1588 concerns about the Spanish Armada approaching London via the Kent coast 
 
 - author: Various
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f1/A_Map_of_the_Beacons_in_Kent_%28BM_1872%2C0113.1137%29.jpg")
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f1/A_Map_of_the_Beacons_in_Kent_%28BM_1872%2C0113.1137%29.jpg)
 
 With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected?  
 
