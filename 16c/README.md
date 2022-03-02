@@ -27,9 +27,10 @@ In 1588 concerns about the Spanish Armada approaching London via the Kent coast 
 **[Spanish Armada](16c-spanish-armada)**
 
 - author: Various
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f1/A_Map_of_the_Beacons_in_Kent_%28BM_1872%2C0113.1137%29.jpg)
-
+<!-- Hyperlink to the visual article -->
+<a href="https://github.com/kent-map/kent/blob/fe09e221b655b35090ec7f5a6d3ffa6c305fa20d/16c/16c-spanish-armada.md">
+![](<img src="https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f1/A_Map_of_the_Beacons_in_Kent_%28BM_1872%2C0113.1137%29.jpg" alt="Spanish Armada")
+</a>
 With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected?  
 
 
