@@ -57,11 +57,13 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 [**Edith Nesbit**](/nesbit)
 
 - author: Eleanor Fitzsimons
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
+- 
+ <!-- Hyperlink to the visual page -->
+ <a href="https://github.com/kent-map/kent/blob/940c4eb2fff654289bbbf509d84e893c6c4c1dbe/nesbit/README.md">
+![](<img src="https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" alt="Edith Nesbit">)
 
 Edith Nesbit lived in Kent during her childhood and then again in later life and her stories are inspired by the Kent countryside.
-
+</a>
 # Essays by period
 
 # {.cards}
