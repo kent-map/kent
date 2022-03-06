@@ -48,7 +48,21 @@ In February 1895 Stannard was on top form, enjoying her life in London. She was 
 Two months later, however it is reported in the newspapers that  “The many admirers of Mrs Arthur Stannard may be interested in hearing that she is located at Montague House, Birchington on Sea, for the summer, having let her picturesque ivy-clad house at Merton Park. The severe strain of the popular novelist’s literary labours and the condition of her health render absolute quiet imperative, and by the doctor’s orders she will not appear at any social functions this season.” Henrietta was pregnant and may have been having a challenging first trimester. However despite “doctor’s orders” she appears at the Vagabond Club dinner “just up from her house in Birchington-on-Sea” and looking “remarkably well” two months later. The Vagabond dinner was attended by over 300 people including many noted female authors, including [Sarah Grand](/19c/19c-grand-biography). 
 <param ve-image url="https://stor.artstor.org/stor/53a636b7-822e-4430-bb05-b26f9936675a" label="Birchington-on-Sea">
 
+Stannard was keen to project ill-health on her family to deflect from her own battles with her nerves. In the _Women's Penny magazine_, it was reported that “she has passed a considerable portion of the last few years in the depths of the country, for the sake of her children’s health.”[^ref14]
+
 Stannard had suffered a still birth in [whatyear] and it is possible that between the birth of the twins in 1888 and the birth of Olive Nancy in 1895 that Stannard suffered misscarriages. It would explain her flights to the seaside on "doctors orders".
+
+In The Queen in November 1895 reviewer praised Stannard for her novel _I married a wife_ saying:
+<br>Mbr>
+“I am told that this is the first work she did at Birchington this year, when she was full of exhilaration and buoyancy at the thought that she had seen the last of depressing and much hated Merton” (853) the The Queen - Saturday 09 November 1895 
+
+Her previous book “The Magnificent Young Man” which had come out in the summer had already run into its fourth edition.
+
+Florence Fenwick Miller describes meeting her in the summer of 1895:
+<br><br>
+'when I went to see her last summer,, busy though she was, and herself in delicate health, she was preparing every day a rather elaborate infant’s food to send to keep the life in the wasting child of a poor woman in the village. The value of this food greatly depended on the trouble taken in blending the ingredients, and she would allow no other hands to prepare it, so long as the child’s life was in danger.'
+<br>
+This sounds like the response of a compassionate woman who clearly loved children, unlike the image that had been portrayed in her relations with the tailor. However it also appears that Stannard took the responsibility for other's health in a slightly obsessive way.
 
 ### Bibliography
 
@@ -98,3 +112,5 @@ The Vagabond CLub.
   
   [^ref11]: Drogheda Argus and Leinster Journal - Saturday 01 July 1893
 [^ref13]: Woman's Signal - Thursday 12 March 1896
+[^ref14]: FLORENCE FENWICK MILLER Jan. 30, 1896 Women's Penny Paper (London, England)Volume: V , Issue: 109
+
