@@ -126,21 +126,21 @@ Regeneration and the rise of the DFL.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573)
 
-Shingly beaches, white cliffs and ferries.
+Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Canterbury, Deal and Dover.
 
 ##
 [**Places E-P**](/placesep)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84)
 
-Towns of grandeur.
+Towns of grandeur. Articles on Folkestone, Gravesend and Margate
 
 ##
 [**Places Q-Z**](/placesqz)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
 
-Seaside resorts.
+Seaside resorts such as Ramsgate and Sandgate.
 
 # Essays by theme
 
