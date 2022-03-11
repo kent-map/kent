@@ -57,11 +57,13 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 [**Edith Nesbit**](/nesbit)
 
 - author: Eleanor Fitzsimons
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
+- 
+ <!-- Hyperlink to the visual page -->
+ <a href="https://github.com/kent-map/kent/blob/940c4eb2fff654289bbbf509d84e893c6c4c1dbe/nesbit/README.md">
+![](<img src="https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" alt="Edith Nesbit">)
 
 Edith Nesbit lived in Kent during her childhood and then again in later life and her stories are inspired by the Kent countryside.
-
+</a>
 # Essays by period
 
 # {.cards}
@@ -124,21 +126,21 @@ Regeneration and the rise of the DFL.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573)
 
-Shingly beaches, white cliffs and ferries.
+Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Canterbury, Deal and Dover.
 
 ##
 [**Places E-P**](/placesep)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84)
 
-Towns of grandeur.
+Towns of grandeur. Articles on Folkestone, Gravesend and Margate
 
 ##
 [**Places Q-Z**](/placesqz)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
 
-Seaside resorts.
+Seaside resorts such as Ramsgate and Sandgate.
 
 # Essays by theme
 
