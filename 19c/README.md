@@ -41,6 +41,7 @@
 [George Meredith](19c-meredith-biography)   
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)  
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
+[George Augustus Sala](19c-sala-biography)   
 [Edward Linley Sambourne](19c-sambourne-biography)   
 [Mary Shelley](19c-shelleym-biography)  
 [Margaret Emily Shore](19c-shore-biography)  
