@@ -24,7 +24,7 @@ The journalist and author, George Augustus Sala visited Kent in September 1886 a
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/GeorgeAugustusSala1828-1895.jpg" label="George Augustus Sala" attribution="Allister, via Wikimedia Commons" license="CC BY 2.0">
 
 The art critic and writer, John Ruskin visited the ‘Kent Hotel’ a year later to “cool down” after a row at the National Gallery about works by J.M. W. Turner.[^ref5]  He was suffering from depression and stayed in Sandgate until the following summer, sometimes able to write, but at other times unable to pick up his pen. He invited Henrietta Eliza Vaughan Stannard who wrote under the pseudonym John Strange Winter, to visit him and was clearly enchanted by her work, however his mental instability was evident as he demanded that she give him statistics on the armament of British troops which she was unable to supply. In the morning he said sweetly “You never gave me those statistics I asked you for, John” after which a very lively debate ensued.[^ref6]. 
-<br.<br>
+<br><br>
 In a letter to Kate Greenaway, dated 19 February 1888, Ruskin wrote: "This is the dismallest day I've seen at Sandgate." He also said that he was working his way through the circulating library.[^ref7]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b5/John_Ruskin%2C_1882.jpg" label="John Ruskin, 1882" attribution="Wellcome Library, London, Public domain, via Wikimedia Commons">
 
