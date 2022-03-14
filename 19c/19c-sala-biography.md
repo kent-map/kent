@@ -9,6 +9,7 @@ banner="/images/banners/19c.jpg">
 #
 
 Author and journalist, George Augustus Sala was born in London in 1828, the son of Madame Sala, a woman of colour. At the age of 11, he was sent to study in Paris, where he stayed at a lodging house with his older “much-dreaded” brother, Frederic.[^ref1] However, in 1840, with anti-British sentiment running high, his mother, fearing war between Britain and France, removed her family from Paris and departed “bag and baggage” to [Dover](19c/19c-dover). 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/63/Madame_Sala.png" label="Madame Sala, stage name of Henrietta Catharina Florentina (née Simon) Sala, British actress and singer fl 1827-1859 and mother of George Augustus Sala" attribution="Thomas Woolnoth (1785–1857), National Galleries Scotland via Wikimedia Commons">
 
 Sala describes their arrival in England in the winter of 1840:
 <br><br>
