@@ -45,13 +45,12 @@ The proceeds from the ball at the Appolonian enabled Madame Sala to equip hersel
 Sala admits that he remembers nothing of Herne Bay “save a prodigiously protracted pier, very soon to be immortalised in the pages of the not yet nascent _Punch_.”[^ref24] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/1st_Herne_Bay_Pier_1837.jpg" label="Herne Bay Pier, 1837" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
-<br><br>
 During his time at Dover, the thirteen-year-old Sala wrote his first novel entitled “Jemmy Jenkins: or, the Adventures of a Sweep” which was subsequently lost, revealing his early ambitions as a writer.[^ref25] His mother's connections with the stage brought him into the company of men of letters and in 1851 he attracted the attention of [Charles Dickens](dickens/dickens-biography).
 <br><br>
 Sala began to write for _Household Words_ in 1851 and in 1856 travelled to Russia as a special correspondent. It was during this time that he wrote _A Journey due North: being notes on a residence in Russia_. Dickens embargoed the work which caused some bitterness between the two men. However in 1858, Dickens removed the embargo and Sala sent it to Richard Bentley who agreed to publish it.[^ref26] 
 <br><br>
 Returning from his visit to the continent, Sala read a review of his book at the Lord Warden Hotel, Dover, having decided to spend the day “at the venerable Kentish watering place” after a rather rough passage from Calais. The reviewer had described the book as “a bundle of impertinences” and insinuated that Sala was “an idiot, a libeller and a snob”. Sala “read and re-read it, quite forgetting my breakfast.”[^ref27] The review did not damage his reputation however, and a second edition was produced. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Lord_Warden_Square%2C_Dover-geograph-4258137-by-Chris-Whippet.jpg" label="Lord Warden Hotel, Dover" attribution="Chris Whippet / Lord Warden Square, Dover" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Charles_Dickens_circa_1860.jpg" label="Charles Dickens, c.1860" attribution="J. & C. Watkins, Public domain, via Wikimedia Commons">
 
 Sala retained a fondness for Dover and wrote about it in his article 'The Streets of the World' published in _Temple Bar_ in 1864, describing his mother's practice of reading liturgy to her children from "a little brown-covered, battered, yellow-stained, dog's-eared book" in the mornings and evenings in their home in Snargate Street.[^ref28] 
 <br><br>
