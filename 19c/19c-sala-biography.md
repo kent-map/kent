@@ -21,8 +21,10 @@ Hipgrave’s Victoria and Gun Hotel and Commercial Inn, adjoined the Custom Hous
 On arriving in Dover, Madame Sala placed an advertisement in the _Dover Telegraph_ announcing that she had “the honour to acquaint the Nobility, Gentry and her friends, Residents and Visitors in Dover, that she is just returned from Paris, in consequence of the unsettled state of that city, and will remain in Dover during the Winter, for the purpose of giving lessons in singing.”  George’s older brother Frederic accompanied her on the piano.[^ref5]
 <br><br>
 The Salas received much support from friends at this time, including Lady Fitzroy Somerset who arranged a benefit concert for Madame Sala in December, which “elicited the warmest applause from a crowded and fashionable audience”.[^ref6] Sala also remembers meeting the Duke of Wellington, who was walking along Snargate Street, with Lord Fitzroy Somerset. The Duke patted him on the head and “hoped that I was good to my mother”.[^ref7] George was "immensely delighted" and set off to write a "compendious biography of the Duke of Wellington on a slate".[^ref8] 
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Arthur_Wellesley%2C_1st_Duke_of_Wellington_by_John_Jackson_cropped.jpg" label="Arthur Wellesley, 1st Duke of Wellington" attribution="John Jackson, Public domain, via Wikimedia Commons">
+
 The family moved into furnished first floor apartments at 64, Snargate Street, which Sala described as “opposite the Heights, the little summer-houses on the gentle slopes of which used to fill me with huge delight.”[^ref9] The land-lady gave the children "Fleet cakes" - "thin, brown, crisp parallelopipeds, into the composition of which hog's lard enters somewhat too largely".[^ref10] 
+<param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate Street, Dover c.1830." attribution="Drawn by G.Shepherd">
 
 In December, despite her failing eyesight, a consequence of suffering smallpox in 1838, Madame Sala “kindly consented” to act as Miss Wyndham in 'The Culprit' and as Mrs Gregory in 'The Two Gregories' and also performed arias at the Theatre Royal. The Theatre which was at 87, Snargate Street [^ref11] was being run by Miss Caroline Darling “a tall and attenuated young lady, who was supposed to excel in “pantaloon parts.” [^ref12] 
 <br><br>
