@@ -1,8 +1,16 @@
-George Augustus Sala (1828 –1895) 
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="George Augustus Sala (1828 –1895)" author="Michelle Crowther" layout="vtl" 
+banner="/images/banners/19c.jpg">
 
-Author and journalist, George Augustus Sala was born in London in 1828, the son of a concert singer. At the age of 11, he was sent to study in Paris, where he stayed at a lodging house with his older “much-dreaded” brother, Frederic. However, in 1840, with anti-British sentiment running high, his mother, fearing war between Britain and France, removed her family from Paris and departed “bag and baggage” to Dover. 
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q179224" aliases="Dover">
+
+#
+
+Author and journalist, George Augustus Sala was born in London in 1828, the son of a concert singer. At the age of 11, he was sent to study in Paris, where he stayed at a lodging house with his older “much-dreaded” brother, Frederic.[^ref1] However, in 1840, with anti-British sentiment running high, his mother, fearing war between Britain and France, removed her family from Paris and departed “bag and baggage” to [Dover](19c/19c-dover). 
+
 Sala describes their arrival in England in the winter of 1840:
-
+<br><br>
 “There was no Lord Warden Hotel at Dover in those days; and the railway to London although considerable progress had been made in the work, was, in 1841, very far from completion. It was, I think, at a cosy, old-fashioned hostelry by the side of “The Gun”, kept by an old-fashioned worthy named Hipgrave, that we first took up our quarter…”
 Hipgrave’s Victoria and Gun Hotel and Commercial Inn, adjoined the Custom House and prided itself on its “comfort, convenience and economy” Dover Chronicle - Saturday 23 October 1841 It offered accommodation on “extra moderate terms” which was exactly what Madame Sala needed as she had arrived with little money, having spent a considerable sum on the journey.
 
@@ -24,5 +32,18 @@ Sala admits that he remembers nothing of Herne Bay “save a prodigiously protra
 Attracting the notice of Charles Dickens, Sala began to write for Household Words and in 1856 travelled to Russia as a special correspondent. It was during this time that he wrote “Journey due North”. Dickens embargoed the work which caused some bitterness between the two men. However in 1858, Charles Dickens removed the embargo and Sala sent it to Richard Bentley who agreed to publish it. 
 
 Sala describes the agony of reading a review of his book Journey due North” at the Lord Warden Hotel, Dover on his return from the continent. Having decided to spend the day “at the venerable Kentish watering place” after a rather rough passage from Calais he “read and re-read it, quite forgetting my breakfast.” The reviewer had described the book as “a bundle of impertinences” [p391] and insinuated that Sala was “an idiot, a libeller and a snob”. The review worked in Sala’s favour and as a result of demand a second edition was produced. 
+
+### Bibliography
+
+[^ref1]:
+[^ref2]:
+[^ref3]:
+[^ref4]:
+[^ref5]:
+[^ref6]:
+[^ref7]:
+[^ref8]:
+[^ref9]:
+[^ref10]:
 
 
