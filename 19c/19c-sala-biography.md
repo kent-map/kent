@@ -33,11 +33,12 @@ Sala also remembers meeting the Duke of Wellington, who was Lord Warden of the C
 During his time at Dover, the thirteen-year-old Sala wrote a novel which was subsequently lost entitled “Jemmy Jenkins: or, the Adventures of a Sweep”, revealing his early ambitions as a writer. 
 
 Leaving Dover, for London, with the proceeds made from the ball, Sala recalls “we were fain to be very frugal in our journey to the metropolis.” They travelled from Dover to Canterbury by stage-coach, after which, Madame Sala and Charles took a postchaise to Herne Bay; “and we children followed in an anomalous vehicle drawn by two horses which .was half a coach and half a fly; the driver of the vehicle seeming himself somewhat diffident in defining its character. He spoke of it as “conveyance.”” At Herne Bay steam packets sailed to London Bridge Wharf on Mondays, Wednesdays and Fridays for a fare of 5 or 6 shillings. Dover Telegraph and Cinque Ports General Advertiser - Saturday 28 November 1840
-
+<br><br>
 Sala admits that he remembers nothing of Herne Bay “save a prodigiously protracted pier, very soon to be immortalised in the pages of the not yet nascent Punch.” 
-Attracting the notice of Charles Dickens, Sala began to write for Household Words and in 1856 travelled to Russia as a special correspondent. It was during this time that he wrote “Journey due North”. Dickens embargoed the work which caused some bitterness between the two men. However in 1858, Charles Dickens removed the embargo and Sala sent it to Richard Bentley who agreed to publish it. 
 
-Sala describes the agony of reading a review of his book Journey due North” at the Lord Warden Hotel, Dover on his return from the continent. Having decided to spend the day “at the venerable Kentish watering place” after a rather rough passage from Calais he “read and re-read it, quite forgetting my breakfast.” The reviewer had described the book as “a bundle of impertinences” [p391] and insinuated that Sala was “an idiot, a libeller and a snob”. The review worked in Sala’s favour and as a result of demand a second edition was produced. 
+Attracting the notice of Charles Dickens, Sala began to write for Household Words and in 1856 travelled to Russia as a special correspondent. It was during this time that he wrote “Journey due North”. Dickens embargoed the work which caused some bitterness between the two men. However in 1858, Charles Dickens removed the embargo and Sala sent it to Richard Bentley who agreed to publish it. 
+<br><br>
+Sala read a review of his book at the Lord Warden Hotel, Dover on his return from the continent. Having decided to spend the day “at the venerable Kentish watering place” after a rather rough passage from Calais he “read and re-read it, quite forgetting my breakfast.” The reviewer had described the book as “a bundle of impertinences” [p391] and insinuated that Sala was “an idiot, a libeller and a snob”. The review worked in Sala’s favour and as a result of demand a second edition was produced. 
 
 ### Bibliography
 
