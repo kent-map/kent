@@ -8,7 +8,9 @@ banner="/images/banners/19c.jpg">
 
 #
 
-Author and journalist, George Augustus Sala was born in London in 1828, the son of Henrietta Simon Sala, a concert singer and woman of colour. After the death of his legal father in 1829, his mother taught singing to help support her family of five children.  At the age of 11, George was sent to study in Paris, where he stayed at a lodging house with his older “much-dreaded” brother, Frederic.[^ref1] However, in 1840, with anti-British sentiment running high, his mother, fearing war between Britain and France, removed her family from Paris and departed “bag and baggage” to [Dover](19c/19c-dover).[^ref2] 
+Author and journalist, George Augustus Sala was born in London in 1828, the son of Henrietta Simon Sala, a concert singer and woman of colour. After the death of his legal father in 1829, his mother taught singing to help support her family of five children.  
+<br><br>
+At the age of 11, George was sent to study in Paris, where he stayed at a lodging house with his older “much-dreaded” brother, Frederic.[^ref1] However, in 1840, with anti-British sentiment running high, his mother, fearing war between Britain and France, removed her family from Paris and departed “bag and baggage” to [Dover](19c/19c-dover).[^ref2] 
 <br><br>
 George describes their arrival in England in the winter of 1840:
 <br><br>
