@@ -50,19 +50,19 @@ Sala, George Augustus. "The Streets of the World." Temple bar : a London magazin
 
 ### Bibliography
 
-[^ref1]:
-[^ref2]: Sala, G.A. _The Life and Adventures of George Augustus Sala_ Vol. 1, 1895, 161
+[^ref1]: Sala, G.A. _The Life and Adventures of George Augustus Sala_ Vol. 1, 1895, 117.
+[^ref2]: Sala, G.A. _The Life and Adventures of George Augustus Sala_ Vol. 1, 1895, 161.
 [^ref3]: _Dover Chronicle_ - Saturday 23 October 1841.      
 [^ref4]: _Dover Telegraph and Cinque Ports General Advertiser_ - Saturday 21 November 1840.   
-[^ref5]: _Dover Chronicle_ - Saturday 05 December 1840   
+[^ref5]: _Dover Chronicle_ - Saturday 05 December 1840.   
 [^ref6]:
 [^ref7]: _Dover Telegraph and Cinque Ports General Advertiser_ - Saturday 05 December 1840.   
-[^ref8]: p.164
+[^ref8]: Sala, G.A. _The Life and Adventures of George Augustus Sala_ Vol. 1, 1895p.164
 [^ref9]: _Dover Telegraph and Cinque Ports General Advertiser_ - Saturday 16 January 1841
 [^ref10]:
-[^ref11]: [p.141] Dover Telegraph and Cinque Ports General Advertiser - Saturday 27 February 1841
-[^ref12]: [p.164]
-[^ref13]: [p.142]
+[^ref11]: Sala, G.A. _The Life and Adventures of George Augustus Sala_ Vol. 1, 1895[p.141] Dover Telegraph and Cinque Ports General Advertiser - Saturday 27 February 1841
+[^ref12]: Sala, G.A. _The Life and Adventures of George Augustus Sala_ Vol. 1, 1895[p.164]
+[^ref13]: Sala, G.A. _The Life and Adventures of George Augustus Sala_ Vol. 1, 1895[p.142]
 [^ref14]:
 [^ref15]:
 
