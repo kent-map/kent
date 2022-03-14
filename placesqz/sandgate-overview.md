@@ -10,7 +10,9 @@
 Sandgate, a coastal village near the outskirts of Folkestone, has been hailed as the 'author's haven of repose' and can claim association with several well-known authors.[^ref1] 
 <param ve-image url="https://stor.artstor.org/stor/04780929-4966-4142-b325-12a69d7ab094" label="English's Guide to Folkestone, Sandgate, Hythe">
 
-It was visited by Fanny Burney in 1813 who “avoided going to the library, the general rendezvous of the social, or upon the pier” and [Mary Shelley](https://kent-maps.online/19c/19c-shelleym-biography/) in 1832, who wrote “I think this place the healthiest in the world (though a little windy and cold).”[^ref2] 
+Ann Thicknesse (1737-1824) author of _Sketches of the Lives and Writings of the Ladies of France_ which she "Addressed to Mrs [Elizabeth Carter](/18c/18c-carter-biography) moved to Sandgate in 1789 where she enjoyed a house with a sea view.
+<br><br>
+Fanny Burney (1752–1840) visited the town in 1813 and “avoided going to the library, the general rendezvous of the social, or upon the pier”. [Mary Shelley](https://kent-maps.online/19c/19c-shelleym-biography/) came in 1832, writing: “I think this place the healthiest in the world (though a little windy and cold).”[^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/60/Frances_d%27Arblay_%28%27Fanny_Burney%27%29_by_Edward_Francisco_Burney.jpg" label="Fanny Burney" attribution="Edward Francis Burney, Public domain, via Wikimedia Commons">
 
 [Sarah Grand](/19c/19c-grand-biography), writer, feminist campaigner and proponent of sex education for girls, lived happily at Sandate after her marriage to David Chambers McFall. McFall, an army surgeon, was stationed at Shorncliffe Barracks in the Spring of 1871. It was here that Sarah "concentrated on the host of new experiences in her life" and gave birth to her only son on the 7 October 1871.[^ref3]
@@ -22,6 +24,8 @@ The journalist and author, George Augustus Sala visited Kent in September 1886 a
 The art critic and writer, John Ruskin visited the ‘Kent Hotel’ a year later to “cool down” after a row at the National Gallery about works by J.M. W. Turner.[^ref5]  He was suffering from depression and stayed in Sandgate until the following summer, sometimes able to write, but at other times unable to pick up his pen. He invited Henrietta Eliza Vaughan Stannard who wrote under the pseudonym John Strange Winter, to visit him and was clearly enchanted by her work, however his mental instability was evident as he demanded that she give him statistics on the armament of British troops which she was unable to supply. In the morning he said sweetly “You never gave me those statistics I asked you for, John” after which a very lively debate ensued.[^ref6]. In a letter to Kate Greenaway, dated 19 February 1888, Ruskin wrote: "This is the dismallest day I've seen at Sandgate." He also said that he was working his way through the circulating library.[^ref7]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b5/John_Ruskin%2C_1882.jpg" label="John Ruskin, 1882" attribution="Wellcome Library, London, Public domain, via Wikimedia Commons">
 
+In 1888, Evelyn Underhill was a pupil at Sandgate House boarding school. She would later write _Mysticism: a study in the Nature and Development of Man's Spiritual Consciousness_ (1911).
+<br><br>
 The antiquarian and writer, Wilfred Cripps (1841-1903), regularly visited Farleigh House throughout the 1870s-1890s.
 <br><br>
 [Edith Katherine Spicer Jay]( https://kent-maps.online/19c/19c-spicer-jay-biography/) moved to the south coast for the climate in the 1890s and was inspired by the soldiers at Shorncliffe Barracks to write tales of military life. [Florence Warden]( https://kent-maps.online/19c/19c-florence-warden-biography/) former actress turned writer spent some time here at the same period.  
