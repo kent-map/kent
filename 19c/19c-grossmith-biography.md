@@ -29,7 +29,7 @@ But the hapless Pooter is aghast to find that his son is frequenting the Assembl
 <param ve-map center="Q618045" zoom="10">
 <param ve-map center="Q736439" zoom="10">
 
-When George Grossmith retired in 1909 he moved to [Folkestone](/19c/19c-folkestone), where [H. G. Wells](/20c/20c-wellshg-biography) would have been a near neighbour, and died at 32 Manor Road on 1 March 1912. But like fellow authors W. M. Thackeray and Wilkie Collins he is buried in London, at Kensal Green Cemetery.
+When George Grossmith retired in 1909 he moved to [Folkestone](/19c/19c-folkestone), where [H. G. Wells](/20c/20c-wellshg-biography) would have been a near neighbour, and died at 32 Manor Road on 1 March 1912. But like fellow authors W. M. Thackeray and [Wilkie Collins](/19c/19c-collins-biography) he is buried in London, at Kensal Green Cemetery.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3c/West_Cliff_Folkestone_England.jpg" label="West Cliff Folkestone England.jpg" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-map center="Q375314" zoom="10">
 
