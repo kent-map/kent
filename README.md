@@ -53,15 +53,6 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
-##
-[**Edith Nesbit**](/nesbit)
-
-- author: Eleanor Fitzsimons
- 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
-
-Edith Nesbit lived in Kent during her childhood and then again in later life and her stories are inspired by the Kent countryside.
-
 # Essays by period
 
 # {.cards}
@@ -177,15 +168,6 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 # {.cards}
 
 ##
-[**Vita Sackville-West**](/20c/20c-sackville-west-biography)
-
-- author: Clare Nursey
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
-
-Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
-
-##
 [**Jane Austen**](/austen)
 
 - author: Susan Civale
@@ -195,11 +177,38 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
 
 ##
+[**Joseph Conrad**](/19c/19c-conrad-biography/)
+
+- author: Martin Watts
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f117483d-65cb-464e-828a-486c8a83ac53)
+
+Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century, lived the last decades of his life in Bishopsbourne.
+
+##
 [**Charles Dickens**](/dickens)
 
 ![](/images/thumbnails/dickens-head.jpg)
 
 One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
+
+##
+[**Edith Nesbit**](/nesbit)
+
+- author: Eleanor Fitzsimons
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
+
+Edith Nesbit lived in Kent during her childhood and then again in later life and her stories are inspired by the Kent countryside.
+
+##
+[**Vita Sackville-West**](/20c/20c-sackville-west-biography)
+
+- author: Clare Nursey
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
+
+Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
 # Featured Texts
 
