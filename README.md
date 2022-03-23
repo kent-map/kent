@@ -195,6 +195,15 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
 
 ##
+[**Joseph Conrad**](/19c/19c-conrad-biography/)
+
+- author: Martin Watts
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
+
+Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century, lived the last decades of his life in Bishopsbourne.
+
+##
 [**Charles Dickens**](/dickens)
 
 ![](/images/thumbnails/dickens-head.jpg)
