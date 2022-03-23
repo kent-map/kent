@@ -17,7 +17,7 @@ George describes their arrival in England in the winter of 1840:
 “There was no Lord Warden Hotel at [Dover](19c/19c-dover) in those days; and the railway to London although considerable progress had been made in the work, was, in 1841, very far from completion. It was, I think, at a cosy, old-fashioned hostelry by the side of “The Gun”, kept by an old-fashioned worthy named Hipgrave, that we first took up our quarter…”[^ref3]
 <br><br>
 Hipgrave’s Victoria and Gun Hotel and Commercial Inn, adjoined the Custom House and prided itself on its “comfort, convenience and economy.” It offered accommodation on “extra moderate terms” which was exactly what Madame Sala needed having spent a considerable sum on the journey.[^ref4]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Landing_at_Dover_from_the_Steam_Packet_RMG_BHC1791.tiff" label="landing at Dover from the Steam Packet" attribution="Michael William Sharp, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Landing_at_Dover_from_the_Steam_Packet_RMG_BHC1791.tiff" label="Landing at Dover from the Steam Packet" attribution="Michael William Sharp, Public domain, via Wikimedia Commons">
 
 On arriving in [Dover](19c/19c-dover), Madame Sala placed an advertisement in the _Dover Telegraph_ announcing that she had “the honour to acquaint the Nobility, Gentry and her friends, Residents and Visitors in [Dover](19c/19c-dover), that she is just returned from Paris, in consequence of the unsettled state of that city, and will remain in [Dover](19c/19c-dover) during the Winter, for the purpose of giving lessons in singing.”  George’s older brother Frederic accompanied her on the piano.[^ref5]
 <br><br>

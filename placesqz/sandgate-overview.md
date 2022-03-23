@@ -40,10 +40,10 @@ The antiquarian and writer, Wilfred Cripps (1841-1903), regularly visited Farlei
 Not long after this, [H.G. Wells](https://kent-maps.online/20c/20c-wellshg-biography/ ) moved to Beach Cottage  on the advice of his doctors, then later Arnold House, before commissioning his own house near the Riviera. He entertained many of the leading writers of the day here, including George Bernard Shaw, Henry James, Arnold Bennett, and [Joseph Conrad]( https://kent-maps.online/19c/19c-conrad-biography/).[^ref8]  His novel _The Sea Lady_ is set in Sandgate.
 <param ve-image url="/images/spade%20MJC.jpg" label="Spade House" attribution="Photographed by Martin Crowther">
 
-Bithia Croker, writer of military life in India, lived at 10, Radnor Cliffe, not far from Wells and set her novel [Miss Balmaine’s Past]( https://kent-maps.online/19c/19c-croker-missbalmaine/) in the nearby Romney Marshes and the playwright Henry Hamilton lived at The Haven until his death on 4 September 1918. He sang his ‘world-famous’ song “Tommy Atkins” from the musical play A Gaiety Girl at Hythe Town Hall in February 1900.[^ref9] 
+Bithia Croker, writer of military life in India, lived at 10, Radnor Cliffe, not far from Wells and set her novel [Miss Balmaine’s Past]( https://kent-maps.online/19c/19c-croker-missbalmaine/) in the nearby Romney Marshes and the playwright Henry Hamilton lived at The Haven until his death on 4 September 1918. He sang his ‘world-famous’ song “Tommy Atkins” from the musical play 'A Gaiety Girl' at Hythe Town Hall in February 1900.[^ref9] 
 <param ve-image url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" label="Home of Bithia Croker" attribution="Photographed by Martin Crowther">
 
-The Chaplain of Eversley School, Sandgate, [John Ferguson](/20c/20c-ferguson-biography/) wrote _Campbell of Kilmhor_ (1915), _Stealthy Terror_(1918), _The King of Morven_ (1922), _The Secret Road_ (1925), _The Man in the Dark_ (1928) and _Murder on the Marsh_ (1930) whilst working at the school.
+The Chaplain of Eversley School, Sandgate, [John Ferguson](/20c/20c-ferguson-biography/) wrote _Campbell of Kilmhor_ (1915), _Stealthy Terror_ (1918), _The King of Morven_ (1922), _The Secret Road_ (1925), _The Man in the Dark_ (1928) and _Murder on the Marsh_ (1930) whilst working at the school.
 
 ### References
 
