@@ -19,11 +19,12 @@ Additionally, Behn’s ‘wit and talent having brought her into high esteem’,
 
 ### Bibliography
 
-Britannica, T. Editors of Encyclopaedia. ‘Aphra Behn’. April 12, 2020. [_Encyclopaedia Britannica_]( https://www.britannica.com/biography/Aphra-Behn). Accessed 25/02/2012.
+‘Aphra Behn’. April 12, 2020. [_Encyclopaedia Britannica_]( https://www.britannica.com/biography/Aphra-Behn). Accessed 25/02/2012.
 <br>
 Todd, Janet. ‘Behn, Aphra [Aphara] (1640?–1689), writer.’ _Oxford Dictionary of National Biography_. September 23, 2004. Oxford University Press. Accessed 09/02/2021. https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-1961
 <br>
 Hughs, Derek. Janet Todd eds. ‘Aphra Behn and the Restoration theatre’. _The Cambridge Companion to Aphra Behn_ Cambridge: Cambridge University Press, 2004. 29.
+<br>
 Webb Mike. [‘Dancing all night with Aphra Behn: a recently acquired diary of Jeffrey Boys of Betteshanger, 1667’](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/tag/aphra-behn/ ). 12 Oct 2017. Accessed 25/ 02/2021.  
 <br>
 Behn, Aphra. Julia Reidhead, Marian Johnson, Eds. ‘Oroonoko’. _The Norton Anthology of English Literature: The Major Authors_ Vol 1, 10th ed. 2019. United Sates of America. 1034.   
