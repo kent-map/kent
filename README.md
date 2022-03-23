@@ -53,15 +53,6 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
-##
-[**Edith Nesbit**](/nesbit)
-
-- author: Eleanor Fitzsimons
- 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
-
-Edith Nesbit lived in Kent during her childhood and then again in later life and her stories are inspired by the Kent countryside.
-
 # Essays by period
 
 # {.cards}
@@ -200,6 +191,15 @@ Joseph Conrad, an extraordinary and significant Polish British literary figure o
 ![](/images/thumbnails/dickens-head.jpg)
 
 One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
+
+##
+[**Edith Nesbit**](/nesbit)
+
+- author: Eleanor Fitzsimons
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
+
+Edith Nesbit lived in Kent during her childhood and then again in later life and her stories are inspired by the Kent countryside.
 
 ##
 [**Vita Sackville-West**](/20c/20c-sackville-west-biography)
