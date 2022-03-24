@@ -240,3 +240,12 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg)
 
 Bithia Croker's novel is set on the Romney Marshes. Rosamund Balmaine finds love when Ronald Gordon arrives to survey the area for a new railway.
+
+##
+[**Shepherds in Sackcloth**](/20c/20c-kaye-smith-delmonden)
+
+- author: Pat Agar
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
+
+Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith.
