@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Double Double, by John Brunner " author="Dr Michael Goodrum" layout="vtl" 
+<param ve-config title="Double Double by John Brunner " author="Dr Michael Goodrum" layout="vtl" 
 banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301">
 
 <param ve-entity eid="Q618045" aliases="Margate">
