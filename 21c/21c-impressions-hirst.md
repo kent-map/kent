@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Impressions" author="Diana Hirst" layout="vtl" 
-banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301">
+banner="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6">
 
 <param ve-entity eid="Q1011096" aliases="Deal">
 
