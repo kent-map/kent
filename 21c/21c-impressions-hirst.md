@@ -156,6 +156,7 @@ slithers on its path towards me.
 Its scales glitter out a warning   
 to shipping lights on the horizon,   
 which slink away.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/English_Channel_%2820562846383%29.jpg" label="English Channel" attribution="Markus Trienke, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ***
 
