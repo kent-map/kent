@@ -125,13 +125,13 @@ The window frames are white
 and form nine silent rectangles   
 of double-glazed double-greyness.   
 No sea-sound, no whirr of wind.   
-<br><br>
+<br>
 In the lower left-hand corner of this silent seascape   
 mist-mizzle and seaspray have drenched   
 Deal pier’s wood and concrete,   
 etching dark graffiti   
 across swathes of grey sea and grey sky.   
-<br><br>
+<br>
 From time to time a herring gull   
 slices through the greyness,   
 lemon bill mouthing sour mews,      
@@ -196,7 +196,8 @@ As the weight of the falling sun
 plummets behind the day’s-end town,   
 the shadows of the Timeball Tower   
 and the great houses on the front   
-slither out to sea.   
+slither out to sea.  
+<br>
 Like giant black piano keys they extend,   
 along the pebbled beach,   
 playing a pentatonic waltz,   
