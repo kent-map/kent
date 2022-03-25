@@ -5,11 +5,13 @@
 # {.cards}
 
 ##
-**[First Impressions](21-impressions-hirst)**
+**[Impressions](21c-impressions-hirst)**
 
 - author: Diana Hirst
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/21c.jpg)
+
+
 
 ##
 **[David Seabrook](21c-seabrook-biography)**
