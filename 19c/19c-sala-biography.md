@@ -8,13 +8,16 @@ banner="/images/banners/19c.jpg">
 
 <param ve-map center="Q179224" zoom="12">
 <param data-map-layer
-       title="Kent 1904"
+       title="Kent Topo Survey 1860"
        type="mapwarper"
-       mapwarper-id="37387" 
+       mapwarper-id="44832" 
        active="true">
        
 <!-- Historical map layers --> 
-<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820"> <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860"> <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808"> <param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
+<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820"> 
+<param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860"> 
+<param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808"> 
+<param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
 
 #
 
