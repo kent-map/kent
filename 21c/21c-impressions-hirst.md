@@ -171,6 +171,7 @@ drifting nonchalant as summer candyfloss
 against the backcloth of a sky   
 which drops, air-force blue,    
 to a sea of sheen like a magpie’s wing.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Frozen_Cabbage_-_geograph.org.uk_-_2181989.jpg" label="Frozen Cabbage" attribution="by David Anstiss via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ***
 
