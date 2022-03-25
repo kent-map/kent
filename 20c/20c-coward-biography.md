@@ -37,4 +37,4 @@ Hoare, Philip. _Noël Coward: A Biography_. 1st ed., Sinclair-Stevenson, 1995.
 
 ### References
 
-[^ref1]: [Noel Coward Diaries, Payn and Morley](https://www.abebooks.co.uk/servlet/BookDetailsPL?bi=22867993691&cm_mmc=ggl-_-UK_Shopp_RareStandard-_-product_id=bi%3A%2022867993691-_-keyword=&gclid=CjwKCAiAksyNBhAPEiwAlDBeLBY0t8Xj2Zw37CfCaxgaF4uNvpNPIqTcPj-0wsrbFjyKuDHJ153mrxoCU34QAvD_BwE]
+[^ref1]: [Noel Coward Diaries, Payn and Morley](https://www.abebooks.co.uk/servlet/BookDetailsPL?bi=22867993691&cm_mmc=ggl-_-UK_Shopp_RareStandard-_-product_id=bi%3A%2022867993691-_-keyword=&gclid=CjwKCAiAksyNBhAPEiwAlDBeLBY0t8Xj2Zw37CfCaxgaF4uNvpNPIqTcPj-0wsrbFjyKuDHJ153mrxoCU34QAvD_BwE)
