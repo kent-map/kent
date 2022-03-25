@@ -83,6 +83,7 @@ the sea is shivering as it rolls to shore.
 At the far end of the hammer-headed pier.   
 seagulls form a dole queue on the café roof.   
 It is too cold for them to fish, too cold for fish to rise.   
+<param ve-image url="https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d" label="Deal Pier" attribution="Martin Crowther">
 
 Cold colours rise in strata,   
 dark grey tarmac and dirty off-white kerb   
@@ -188,6 +189,7 @@ A silver horizontal bar is scored,
 division line with sky the upper integer,   
 and sea the lower one.   
 A sum to which there’s no solution.   
+<param ve-image url="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6" label="Deal Pier" attribution="Martin Crowther">
 
 ***
 
