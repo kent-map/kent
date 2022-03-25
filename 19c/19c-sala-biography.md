@@ -6,6 +6,16 @@ banner="/images/banners/19c.jpg">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q929286" aliases="Herne Bay">
 
+<param ve-map center="Q179224" zoom="12">
+<param data-map-layer
+       title="Kent 1904"
+       type="mapwarper"
+       mapwarper-id="37387" 
+       active="true">
+       
+<!-- Historical map layers --> 
+<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820"> <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860"> <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808"> <param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
+
 #
 
 Author and journalist, George Augustus Sala was born in London in 1828, the son of Henrietta Simon Sala, a concert singer and woman of colour. After the death of his legal father in 1829, his mother taught singing to help support her family of five children.  
@@ -18,6 +28,7 @@ George describes their arrival in England in the winter of 1840:
 <br><br>
 Hipgrave’s Victoria and Gun Hotel and Commercial Inn, adjoined the Custom House and prided itself on its “comfort, convenience and economy.” It offered accommodation on “extra moderate terms” which was exactly what Madame Sala needed having spent a considerable sum on the journey.[^ref4]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Landing_at_Dover_from_the_Steam_Packet_RMG_BHC1791.tiff" label="Landing at Dover from the Steam Packet" attribution="Michael William Sharp, Public domain, via Wikimedia Commons">
+<param ve-map center="Q179224" zoom="11">
 
 On arriving in [Dover](19c/19c-dover), Madame Sala placed an advertisement in the _Dover Telegraph_ announcing that she had “the honour to acquaint the Nobility, Gentry and her friends, Residents and Visitors in [Dover](19c/19c-dover), that she is just returned from Paris, in consequence of the unsettled state of that city, and will remain in [Dover](19c/19c-dover) during the Winter, for the purpose of giving lessons in singing.”  George’s older brother Frederic accompanied her on the piano.[^ref5]
 <br><br>
@@ -25,9 +36,11 @@ The Salas received much support from friends at this time, including Lady Fitzro
 <br><br>
 Sala also remembers meeting the Duke of Wellington, who was walking along Snargate Street, with Lord Fitzroy Somerset. The Duke patted him on the head and “hoped that I was good to my mother”.[^ref7] George was "immensely delighted" and set off to write a "compendious biography of the Duke of Wellington on a slate".[^ref8] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Arthur_Wellesley%2C_1st_Duke_of_Wellington_by_John_Jackson_cropped.jpg" label="Arthur Wellesley, 1st Duke of Wellington" attribution="John Jackson, Public domain, via Wikimedia Commons">
+<param ve-map center="Q179224" zoom="15">
 
 The family moved into furnished first floor apartments at 64, Snargate Street, which Sala described as “opposite the Heights, the little summer-houses on the gentle slopes of which used to fill me with huge delight.”[^ref9] The land-lady gave the children "Fleet cakes" - "thin, brown, crisp parallelopipeds, into the composition of which hog's lard enters somewhat too largely".[^ref10] 
 <param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate Street, Dover c.1830." attribution="Drawn by G.Shepherd">
+<param ve-map center="Q179224" zoom="15">
 
 In December, despite her failing eyesight, a consequence of suffering smallpox in 1838, Madame Sala “kindly consented” to act as Miss Wyndham in 'The Culprit' and as Mrs Gregory in 'The Two Gregories' and also performed arias at the Theatre Royal. The Theatre which was at 87, Snargate Street [^ref11] was being run by Miss Caroline Darling “a tall and attenuated young lady, who was supposed to excel in “pantaloon parts.” [^ref12] 
 <br><br>
@@ -35,17 +48,20 @@ Sala’s older brother Charles who was “anxious to enact Hamlet the Dane ” p
 <br><br>
 Early in 1841, Madadme Sala along with Mrs Reignolds, hosted a grand ball at the Apollonion Hall, a newly built hall and tavern, on the corner of Snargate Street.  Tickets were 6s for the gentlemen and 5 shillings for the ladies.[^ref16] and the entertainment included a quadrille band, refreshments and card room.  The ball proved to be very popular and Snargate Street was “blocked with travelling carriages and postchaises”[^ref17] It was attended by the officers of the garrison as well as the county families from [Folkestone](/19c/19c-folkestone), Hythe and [Sandgate](/placesqz/sandgate-overview). 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/63/Madame_Sala.png" label="Madame Sala, stage name of Henrietta Catharina Florentina (née Simon) Sala, British actress and singer fl 1827-1859 and mother of George Augustus Sala" attribution="Thomas Woolnoth (1785–1857), National Galleries Scotland via Wikimedia Commons">
+<param ve-map center="Q179224" zoom="15">
 
 The military would have been ever present during Sala's time at [Dover](19c/19c-dover), with the garrison stationed at the Western Heights on the cliffs above Snargate Street. Sala observed
 the funeral cortege of an twenty-six year old assistant surgeon from his drawing room window in Snargate Street: “the dead man’s cocked hat and sword lying on the Union Jack which was the pall of his coffin”. [^ref18] Dr Everard had been killed in a brawl outside the Grand Shaft and his funeral left a deep impression on the young Sala.[^ref19] 
 <br><br>
 Describing Snargate Street years later, Sala wrote "when I saw the entrance to the shaft, and the red-jacketed soldiers lounging about - the officers wore blue frogged surtouts, and not scarlet shell-jackets in my time, - I felt reassured, and recognised in all their pristine freshness, the beloved scenes of my youth."[^ref20]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Dover_2010_08_14_0074.jpg" label="The Grand Shaft, Dover" attribution="Harvey Barrison via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-map center="Q179224" zoom="15">
 
 The proceeds from the ball at the Appolonian enabled Madame Sala to equip herself for the London season.[^ref21] Leaving Dover, for London,  Sala recalls “we were fain to be very frugal in our journey to the metropolis.” They travelled from [Dover](19c/19c-dover) to [Canterbury](19c/19c-canterbury) by stage-coach, after which, Madame Sala and Charles took a postchaise to Herne Bay; “and we children followed in an anomalous vehicle drawn by two horses which was half a coach and half a fly; the driver of the vehicle seeming himself somewhat diffident in defining its character. He spoke of it as “conveyance.””[^ref22] At Herne Bay steam packets sailed to London Bridge Wharf on Mondays, Wednesdays and Fridays for a fare of 5 or 6 shillings.[^ref23]
 <br><br>
 Sala admits that he remembers nothing of Herne Bay “save a prodigiously protracted pier, very soon to be immortalised in the pages of the not yet nascent _Punch_.”[^ref24] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/1st_Herne_Bay_Pier_1837.jpg" label="Herne Bay Pier, 1837" attribution="Unknown author, Public domain, via Wikimedia Commons">
+<param ve-map center="Q929286" zoom="15">
 
 During his time at Dover, the thirteen-year-old Sala wrote his first novel entitled “Jemmy Jenkins: or, the Adventures of a Sweep” which was subsequently lost, revealing his early ambitions as a writer.[^ref25] His mother's connections with the stage brought him into the company of men of letters and in 1851 he attracted the attention of [Charles Dickens](dickens/dickens-biography).
 <br><br>
