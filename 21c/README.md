@@ -11,7 +11,7 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/21c.jpg)
 
-
+Low tide. Light breeze. To the north Deal pier waddles seawards towards France, a concrete centipede on rigid legs straddling the falling tide.
 
 ##
 **[David Seabrook](21c-seabrook-biography)**
