@@ -118,6 +118,7 @@ Above, oblivious to graft and beauty,
 cumulus clouds chug along importantly,   
 itching to destroy this work   
 with tiny hail- and rain-seeds.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/Waves_%281793045566%29.jpg" label="Deal Beach" attribution="allen watkin from London, UK, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ***
 
