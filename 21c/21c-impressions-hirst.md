@@ -21,7 +21,7 @@ for rhythmic rippling silk,
 which ends its dove-grey journey   
 in white lace frills   
 on the shushing, singing shingle   
-<br><br>
+<br>
 Rising tide. North wind.   
 Now the sea runs back from France   
 seeking shelter in the Downs.   
@@ -30,7 +30,7 @@ the frills are farther out.
 These white-tufted choppers   
 relentlessly advance   
 as they mow the Goodwin Sands.   
-<br><br>
+<br>
 Dark craft loom   
 anonymous on the horizon,   
 shadows in the shipping lane   
@@ -47,17 +47,17 @@ Tonight the pier is gaudy.  Its orange sodium lights
 are giddy in the off-shore breeze.  They look all set   
 for hours of rollicking and roistering.   
 Alas, the new café is closed.   
-<br><br>
+<br>
 With golden shimmers in dark sky over France   
 modern commerce mimics ancient battlefields.   
 The amber necklace of the Channel ports is fizzing   
 up the Belgian coast-line like a firework fuse.   
-<br><br>
+<br>
 Anchored centre stage, all Son et Lumière,   
 a vessel in the guise of a rococo barque,   
 with stippled light on fore and aft accommodation,   
 swings swags of lights along its gunwales.   
-<br><br>
+<br>
 Blue-white halogen flashlights weave erratically   
 as anglers set up camp on the shingle.   
 White-lighthouses on the Cote d’Opale flash   
@@ -65,12 +65,12 @@ out of time with one another, out of time
 with white-lightships moored by the Goodwin Sands.   
 Equally unwilling to keep time,   
 lighted ferries sneak out of our field of vision.   
-<br><br>
+<br>
 A single red light on an inshore buoy    
 attempts to regiment this visual cacophony,   
 by beating strictly march time,    
 but without success.   
-<br><br>
+<br>
 Above some shifting stars, an absent moon.   
 Only Venus to the east seems constant.   
 Just for tonight?   
@@ -203,7 +203,7 @@ along the pebbled beach,
 playing a pentatonic waltz,   
 lusting for the shining cliffs of France   
 and the techniques of Debussy.   
-<br><br>
+<br>
 The sunny white keys in between   
 catch the frisk of the onshore breeze   
 in the thinning evening light.   
@@ -213,5 +213,4 @@ and, skipping along to Beach Street,
 whisks at skirts, teases headgear,   
 skids lolly litter into the gutter,   
 and sashays into the bar at the Royal Hotel.   
-
-***
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/94/Royal_Hotel_-_geograph.org.uk_-_2852587.jpg" label="Royal Hotel by Oast House Archive via Wikimedia Commons" license="CC BY-SA 2.0">
