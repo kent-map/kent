@@ -163,7 +163,7 @@ near the marshes lying outside town
 it had snowed tiny cauliflowers   
 onto fields where green cabbages   
 were already fighting to be seen.   
-<br><br>
+<br>
 Now, from the east   
 a trail of Barbie-pink puff-clouds begins,   
 drifting nonchalant as summer candyfloss   
