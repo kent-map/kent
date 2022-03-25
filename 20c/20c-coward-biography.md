@@ -35,15 +35,13 @@ Coward, Noel, and Graham Payn. _The Noël Coward Diaries_. 1st ed., Da Capo Pre
 <br>
 Hoare, Philip. _Noël Coward: A Biography_. 1st ed., Sinclair-Stevenson, 1995.
 <br>
-https://theromneymarsh.net/noelcoward
+[Romneymarsh.net](https://theromneymarsh.net/noelcoward)
 <br>
-https://www.npg.org.uk/collections/search/portrait/mw07251/Nol-Coward?
+[Britannica](https://www.britannica.com/biography/Noel-Coward)
 <br>
-https://www.britannica.com/biography/Noel-Coward
+[St Margaret's History](https://www.stmargaretshistory.org.uk/people/famous-residents/noel-coward)
 <br>
-https://www.stmargaretshistory.org.uk/people/famous-residents/noel-coward
-<br>
-https://www.noelcoward.com/timeline
+[Noel Coward timeline](https://www.noelcoward.com/timeline)
 
 ### References
 
