@@ -9,7 +9,7 @@
 
 - author: Diana Hirst
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/21c.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d)
 
 Low tide. Light breeze. To the north Deal pier waddles seawards towards France, a concrete centipede on rigid legs straddling the falling tide.
 
