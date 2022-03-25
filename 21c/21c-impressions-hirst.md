@@ -12,8 +12,7 @@ Deal pier waddles seawards
 towards France,   
 a concrete centipede on rigid legs   
 straddling the falling tide   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Deal_Pier_-_geograph.org.uk_-_2845204.jpg" label="Deal Pier" attribution="Oast House Archive  via Wikimedia Commons" license="CC BY-SA 2.0">
-
+<br>
 On the pebbled beach   
 white gulls watch,   
 production line inspectors   
@@ -40,6 +39,7 @@ the sea is silvered by a secret sun.
 A pregnant cloud droops luminosity,   
 suspending gloom, suspending rain.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Coastline_near_Deal_castle_%282012%29_-_panoramio.jpg" label="Coastline near Deal Castle" attribution="Alexander Kachkaev via Wikimedia Commons" license="CC BY 3.0">
+<param ve-image url="https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d" label="Deal Pier" attribution="Martin Crowther">
 
 ***
 
@@ -83,14 +83,13 @@ the sea is shivering as it rolls to shore.
 At the far end of the hammer-headed pier.   
 seagulls form a dole queue on the café roof.   
 It is too cold for them to fish, too cold for fish to rise.   
-<param ve-image url="https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d" label="Deal Pier" attribution="Martin Crowther">
-
+<br>
 Cold colours rise in strata,   
 dark grey tarmac and dirty off-white kerb   
 are stacked below the pale beige pavement;   
 beyond, the nearer pebbles are surprised   
 white-frosted on the beach.   
-<br><br>
+<br>
 Frost washed off, colours start to warm.   
 The amber, garnet shingle shines,   
 tumbles under white-frilled waves   
@@ -108,13 +107,13 @@ Knobbled waves in rows
 knit one, drop one, cast one on,   
 as they purl, plain, purl their way,   
 moss-stitching to the shore.   
-<br><br>
+<br>
 Ferries slash this grey-blue knitting,   
 dragging huge white quills behind   
 which slowly moss back into stitches.   
 The knitting’s top edge, bound in darker grey,   
 gives a soupçon of French style.   
-<br><br>
+<br>
 Above, oblivious to graft and beauty,   
 cumulus clouds chug along importantly,   
 itching to destroy this work   
