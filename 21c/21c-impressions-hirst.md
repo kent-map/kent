@@ -41,8 +41,6 @@ suspending gloom, suspending rain.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Coastline_near_Deal_castle_%282012%29_-_panoramio.jpg" label="Coastline near Deal Castle" attribution="Alexander Kachkaev via Wikimedia Commons" license="CC BY 3.0">
 <param ve-image url="https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d" label="Deal Pier" attribution="Martin Crowther">
 
-***
-
 Tonight the pier is gaudy.  Its orange sodium lights   
 are giddy in the off-shore breeze.  They look all set   
 for hours of rollicking and roistering.   
@@ -76,8 +74,6 @@ Only Venus to the east seems constant.
 Just for tonight?   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/72/Pier-of-Deal-07.jpg" label="Pier of Deal" attribution="Immanuel Giel, via Wikimedia Commons" license="CC BY-SA 4.0">
 
-***
-
 Even though the sun is warming up its pathway   
 the sea is shivering as it rolls to shore.   
 At the far end of the hammer-headed pier.   
@@ -101,8 +97,6 @@ whose blueness hardens into steel
 as it stretches to its zenith.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Sea-front_in_Deal_%282012%29_-_panoramio.jpg" label="Sea-front in Deal" attribution="Alexander Kachkaev, via Wikimedia Commons" license="CC BY 3.0">
 
-***
- 
 Knobbled waves in rows   
 knit one, drop one, cast one on,   
 as they purl, plain, purl their way,   
@@ -119,8 +113,6 @@ cumulus clouds chug along importantly,
 itching to destroy this work   
 with tiny hail- and rain-seeds.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/Waves_%281793045566%29.jpg" label="Deal Beach" attribution="allen watkin from London, UK, via Wikimedia Commons" license="CC BY-SA 2.0">
-
-***
 
 The window frames are white   
 and form nine silent rectangles   
@@ -143,8 +135,6 @@ the picture is Mark Rothko in Grey and Grey
 viewed through nine silenced rectangles of double-glazing.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/39/Rothko_Paper_Works.jpg" label="Mark Rothko Paper Works" attribution="via Wikimedia Commons" license="CC BY-SA 4.0">
 
-***
- 
 The sea is hammered to a blue steel pan.   
 A scattering of snippets from the moon   
 slither on its shiny metal surface,   
@@ -157,8 +147,6 @@ Its scales glitter out a warning
 to shipping lights on the horizon,   
 which slink away.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/English_Channel_%2820562846383%29.jpg" label="English Channel" attribution="Markus Trienke, via Wikimedia Commons" license="CC BY-SA 2.0">
-
-***
 
 Earlier this afternoon,    
 near the marshes lying outside town   
@@ -173,8 +161,6 @@ against the backcloth of a sky
 which drops, air-force blue,    
 to a sea of sheen like a magpie’s wing.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Frozen_Cabbage_-_geograph.org.uk_-_2181989.jpg" label="Frozen Cabbage" attribution="by David Anstiss via Wikimedia Commons" license="CC BY-SA 2.0">
-
-***
 
 A parabolic cloud conceals a focus   
 from which soft lines of light   
@@ -192,8 +178,6 @@ division line with sky the upper integer,
 and sea the lower one.   
 A sum to which there’s no solution.   
 <param ve-image url="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6" label="Deal Pier" attribution="Martin Crowther">
-
-***
 
 As the weight of the falling sun   
 plummets behind the day’s-end town,   
