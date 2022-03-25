@@ -21,8 +21,7 @@ for rhythmic rippling silk,
 which ends its dove-grey journey   
 in white lace frills   
 on the shushing, singing shingle   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Coastline_near_Deal_castle_%282012%29_-_panoramio.jpg" label="Coastline near Deal Castle" attribution="Alexander Kachkaev via Wikimedia Commons" license="CC BY 3.0">
-
+<br><br>
 Rising tide. North wind.   
 Now the sea runs back from France   
 seeking shelter in the Downs.   
@@ -31,7 +30,7 @@ the frills are farther out.
 These white-tufted choppers   
 relentlessly advance   
 as they mow the Goodwin Sands.   
-
+<br><br>
 Dark craft loom   
 anonymous on the horizon,   
 shadows in the shipping lane   
@@ -40,6 +39,7 @@ To the south
 the sea is silvered by a secret sun.   
 A pregnant cloud droops luminosity,   
 suspending gloom, suspending rain.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Coastline_near_Deal_castle_%282012%29_-_panoramio.jpg" label="Coastline near Deal Castle" attribution="Alexander Kachkaev via Wikimedia Commons" license="CC BY 3.0">
 
 ***
 
@@ -47,18 +47,17 @@ Tonight the pier is gaudy.  Its orange sodium lights
 are giddy in the off-shore breeze.  They look all set   
 for hours of rollicking and roistering.   
 Alas, the new café is closed.   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/72/Pier-of-Deal-07.jpg" label="Pier of Deal" attribution="Immanuel Giel, via Wikimedia Commons" license="CC BY-SA 4.0">
-
+<br><br>
 With golden shimmers in dark sky over France   
 modern commerce mimics ancient battlefields.   
 The amber necklace of the Channel ports is fizzing   
 up the Belgian coast-line like a firework fuse.   
-
+<br><br>
 Anchored centre stage, all Son et Lumière,   
 a vessel in the guise of a rococo barque,   
 with stippled light on fore and aft accommodation,   
 swings swags of lights along its gunwales.   
-
+<br><br>
 Blue-white halogen flashlights weave erratically   
 as anglers set up camp on the shingle.   
 White-lighthouses on the Cote d’Opale flash   
@@ -66,15 +65,16 @@ out of time with one another, out of time
 with white-lightships moored by the Goodwin Sands.   
 Equally unwilling to keep time,   
 lighted ferries sneak out of our field of vision.   
-
+<br><br>
 A single red light on an inshore buoy    
 attempts to regiment this visual cacophony,   
 by beating strictly march time,    
 but without success.   
-
+<br><br>
 Above some shifting stars, an absent moon.   
 Only Venus to the east seems constant.   
 Just for tonight?   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/72/Pier-of-Deal-07.jpg" label="Pier of Deal" attribution="Immanuel Giel, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 ***
 
@@ -90,8 +90,7 @@ dark grey tarmac and dirty off-white kerb
 are stacked below the pale beige pavement;   
 beyond, the nearer pebbles are surprised   
 white-frosted on the beach.   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Sea-front_in_Deal_%282012%29_-_panoramio.jpg" label="Sea-front in Deal" attribution="Alexander Kachkaev, via Wikimedia Commons" license="CC BY 3.0">
-
+<br><br>
 Frost washed off, colours start to warm.   
 The amber, garnet shingle shines,   
 tumbles under white-frilled waves   
@@ -101,6 +100,7 @@ underscore the butter-pink horizon
 which melts upwards into a sky   
 whose blueness hardens into steel   
 as it stretches to its zenith.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Sea-front_in_Deal_%282012%29_-_panoramio.jpg" label="Sea-front in Deal" attribution="Alexander Kachkaev, via Wikimedia Commons" license="CC BY 3.0">
 
 ***
  
@@ -126,18 +126,18 @@ The window frames are white
 and form nine silent rectangles   
 of double-glazed double-greyness.   
 No sea-sound, no whirr of wind.   
-
+<br><br>
 In the lower left-hand corner of this silent seascape   
 mist-mizzle and seaspray have drenched   
 Deal pier’s wood and concrete,   
 etching dark graffiti   
 across swathes of grey sea and grey sky.   
-
+<br><br>
 From time to time a herring gull   
 slices through the greyness,   
 lemon bill mouthing sour mews,      
 a dumbshow for drizzle-driven windows.
-
+<br><br>
 Apart from these small interruptions,   
 the picture is Mark Rothko in Grey and Grey   
 viewed through nine silenced rectangles of double-glazing.   
@@ -203,7 +203,7 @@ along the pebbled beach,
 playing a pentatonic waltz,   
 lusting for the shining cliffs of France   
 and the techniques of Debussy.   
-
+<br><br>
 The sunny white keys in between   
 catch the frisk of the onshore breeze   
 in the thinning evening light.   
