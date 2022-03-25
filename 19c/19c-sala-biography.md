@@ -6,7 +6,7 @@ banner="/images/banners/19c.jpg">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q929286" aliases="Herne Bay">
 
-<param ve-map center="Q179224" zoom="12">
+<param ve-map="Q19224" zoom="12">
 <param data-map-layer
        title="Kent Topo Survey 1860"
        type="mapwarper"
@@ -15,7 +15,6 @@ banner="/images/banners/19c.jpg">
        
 <!-- Historical map layers --> 
 <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860"> 
-
 
 #
 
