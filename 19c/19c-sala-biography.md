@@ -6,6 +6,16 @@ banner="/images/banners/19c.jpg">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q929286" aliases="Herne Bay">
 
+<param ve-map center="Q179224" zoom="12">
+<param data-map-layer
+       title="Kent 1904"
+       type="mapwarper"
+       mapwarper-id="37387" 
+       active="true">
+       
+<!-- Historical map layers --> 
+<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820"> <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860"> <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808"> <param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
+
 #
 
 Author and journalist, George Augustus Sala was born in London in 1828, the son of Henrietta Simon Sala, a concert singer and woman of colour. After the death of his legal father in 1829, his mother taught singing to help support her family of five children.  
