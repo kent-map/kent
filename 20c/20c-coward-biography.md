@@ -30,21 +30,20 @@ His friendship with [Ian Fleming](/20c/20c-fleming-biography) began when Coward 
 ### Works Cited
 
 Coward, Noel, and Graham Payn. _The Noël Coward Diaries_. 1st ed., Da Capo Press, 2000.
-
+<br>
 [‘Noel Coward | Biography, Plays, & Facts’](https://www.britannica.com/biography/Noel-Coward]. _Encyclopedia Britannica_, 2021.
-
+<br>
 Hoare, Philip. _Noël Coward: A Biography_. 1st ed., Sinclair-Stevenson, 1995.
-
+<br>
 https://theromneymarsh.net/noelcoward
-
+<br>
 https://www.npg.org.uk/collections/search/portrait/mw07251/Nol-Coward?
-
+<br>
 https://www.britannica.com/biography/Noel-Coward
-
+<br>
 https://www.stmargaretshistory.org.uk/people/famous-residents/noel-coward
-
+<br>
 https://www.noelcoward.com/timeline
-
 
 ### References
 
