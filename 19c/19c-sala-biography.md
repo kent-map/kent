@@ -11,8 +11,11 @@ banner="/images/banners/19c.jpg">
        title="Kent Topo Survey 1860"
        type="mapwarper"
        mapwarper-id="44832" 
-       active="true">
+       active="true">     
        
+<!-- Historical map layers --> 
+<param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860"> 
+
 #
 
 Author and journalist, George Augustus Sala was born in London in 1828, the son of Henrietta Simon Sala, a concert singer and woman of colour. After the death of his legal father in 1829, his mother taught singing to help support her family of five children.  
