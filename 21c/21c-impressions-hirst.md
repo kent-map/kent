@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Impressions" author="Diana Hirst" layout="vtl" 
+<param ve-config title="Impressions from a Bolthole Window" author="Diana Hirst" layout="vtl" 
 banner="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6">
 
 <param ve-entity eid="Q1011096" aliases="Deal">
