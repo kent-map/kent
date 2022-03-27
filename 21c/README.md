@@ -5,7 +5,7 @@
 # {.cards}
 
 ##
-**[Impressions](21c-impressions-hirst)**
+**[Impressions from a Bolthole Window](21c-impressions-hirst)**
 
 - author: Diana Hirst
 

@@ -11,6 +11,7 @@
 
 [Elizabeth Bowen](20c-bowen-biography)   
 [Alfred Cohen](20c-cohen-biography)   
+[Noel Coward](20c-coward-biography)   
 [Edith Craig](20c-craig-biography)  
 [T.S. Eliot](20c-eliot-biography)   
 [U.A. Fanthorpe](20c-fanthorpe-biography)   
