@@ -1,15 +1,15 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Noël Coward" author="Daniel Vince" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/8/81/St_Margaret%27s_Bay%2C_May_2021_02.jpg">
 
-<param ve-entity eid=“Q2051722” aliases=“Yalding”>
-<param ve-entity eid=“Q921173" aliases=“Aldington”>
-<param ve-entity eid=“Q2796278" aliases=“Dymchurch”>
-<param ve-entity eid=“Q1506093" aliases=“Romney Marsh”>
-<param ve-entity eid=“Q7594628" aliases=“St Mary in the Marsh”>
-<param ve-entity eid=“Q24638363" aliases=“St Margaret's”>
-<param ve-entity eid=“Q179224" aliases=“Dover”>
-<param ve-entity eid=“Q1011096" aliases=“Deal”>
-<param ve-entity eid=“Q375314" aliases=“Folkestone”>
+<param ve-entity eid="Q2051722" aliases="Yalding">
+<param ve-entity eid="Q921173" aliases="Aldington">
+<param ve-entity eid="Q2796278" aliases="Dymchurch">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+<param ve-entity eid="Q7594628" aliases="St Mary in the Marsh">
+<param ve-entity eid="Q24638363" aliases="St Margaret's">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q375314" aliases="Folkestone">
 
 #
 
