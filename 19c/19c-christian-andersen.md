@@ -13,7 +13,7 @@
 **Places:** Gads Hill, Rochester. Knowle House, Sevenoaks. Chevening Church.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/75/HCA_by_Thora_Hallager_1869.jpg" label="Hans_Christian_Andersen by Thora Hallager (1821–1884)" attribution="Public domain, via Wikimedia Commons">
 
-_'Often, when we approached Rochester, the upper parts of the wide-stretching town lay shrouded in the morning mist; then the mist lifted, and forth stood the picturesque old castle ruins, with their ivied walls, and the massive Gothic cathedral... It usually happened to be low tide; the ships lay on their sides, like dead fish, on the slimy ground.'_
+'Often, when we approached Rochester, the upper parts of the wide-stretching town lay shrouded in the morning mist; then the mist lifted, and forth stood the picturesque old castle ruins, with their ivied walls, and the massive Gothic cathedral... It usually happened to be low tide; the ships lay on their sides, like dead fish, on the slimy ground.'
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Rochester_Castle_from_the_east.jpg" label="Rochester Castle from the east" attribution="Michael Coppins, via Wikimedia Commons" license="CC-BY-SA 4.0">
 <param ve-map center="Q507517" zoom="10">
 
@@ -25,7 +25,8 @@ Andersen had apparently visited Kent before, staying with Dickens’s publisher 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/Knowle_Lake_-_geograph.org.uk_-_1843108.jpg" label="Knowle Lake" attribution="Derek Harper, via Wikimedia Commons" license="CC-BY-SA 2.0">
 <param ve-map center="Q939838" zoom="10">
 
-## References:
+### References
+
 Andersen, Hans Christian. "A visit to Charles Dickens." _The Eclectic Magazine of Foreign Literature_ (1844-1898) 02 1871: 183. ProQuest.   
 [Dickens Museum Blog](https://dickensmuseum.com/blogs/charles-dickens-museum/hans-christian-andersen-the-eccentric-guest)  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/St_Botolph%27s_Church%2C_Chevening_%28Geograph_Image_1888106_b4cefa87%29.jpg" label="St Botolph's Church, Chevening (Geograph Image 1888106 b4cefa87).jpg" attribution="Ian Capper, via Wikimedia Commons" license="CC-BY-SA 2.0">
