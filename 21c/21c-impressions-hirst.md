@@ -95,7 +95,7 @@ underscore the butter-pink horizon
 which melts upwards into a sky   
 whose blueness hardens into steel   
 as it stretches to its zenith.   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Sea-front_in_Deal_%282012%29_-_panoramio.jpg" label="Sea-front in Deal" attribution="Alexander Kachkaev, via Wikimedia Commons" license="CC BY 3.0">
+<param ve-image url="https://stor.artstor.org/stor/d1087754-5201-4025-a7c8-2c8fec21d2f9" label="Sea-front at Deal" attribution="Elizabeth Waterman-Scrase">
 
 Knobbled waves in rows   
 knit one, drop one, cast one on,   
