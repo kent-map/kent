@@ -32,7 +32,7 @@ In a letter to Kate Greenaway, dated 19 February 1888, Ruskin wrote: "This is th
 
 In 1888, Evelyn Underhill (1875-1941) was a pupil at Sandgate House boarding school. She would later write _Mysticism: a study in the Nature and Development of Man's Spiritual Consciousness_ (1911).
 <br><br>
-The antiquarian and writer, Wilfred Cripps (1841-1903), regularly visited Farleigh House throughout the 1870s-1890s. He was known for his writing on antique silver plate and wrote _Old English Plate_. 
+The antiquarian and writer, Wilfred Cripps (1841-1903), regularly visited Farleigh House throughout the 1870s-1890s. He was known for his writing on antique silver plate. 
 <br><br>
 [Edith Katherine Spicer Jay]( https://kent-maps.online/19c/19c-spicer-jay-biography/) moved to the south coast for the climate in the 1890s and was inspired by the soldiers at Shorncliffe Barracks to write tales of military life. 
 <br><br>
