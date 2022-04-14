@@ -1,6 +1,9 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Jocelyn Brooke (1908-1966) " author="Carolyn Oulton" layout="vtl" banner="xxx">
+<param ve-map center="Q375314" zoom="10">
+<param ve-entity eid="Q12892">
 
-
-Jocelyn Brooke (1908-1966) 
+#
 
 Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, which lies some 5 miles or so south-east of [Canterbury](/canterbury/20c-canterbury-home), concealed like a secret in the Elham Valley, where it is washed (and occasionally flooded) by the intermittent waters of the Nailbourne. He remains an obscure and neglected figure, best known, if at all, for _The Orchid Trilogy_, which comprises _The Military Orchid_ (1948), _A Mine of Serpents_ (1949) and _The Goose Cathedral_ (1950), and _The Dog at Clambercrown_(1955), strange, haunting and digressive works which mix fictionalised autobiography, literary criticism, psychology and botany. In these, and his novels such as _The Scapegoat_ (1948) and _The Image of a Drawn Sword_ (1950), he portrays his ‘own mythopoeic vision of [his] favourite landscapes’ [1] or ‘a country of the mind,’ [2] a transfigured version of his beloved Bishopsbourne and its surroundings, by turns Edenic and disturbing.
 Brooke was born into a well-to-do family in [Sandgate](/placesqz/sandgate-overview). In 1911 they started spending holidays in a cottage in Bishopsbourne, which his father later bought. Jocelyn’s nanny, of whom he was excessively fond, went to live in Ivy Cottage in around 1923, and the young Jocelyn was a frequent visitor. From 1938 onwards he lived there more or less permanently, apart from spells in the armed forces during and immediately following the Second World War. 
