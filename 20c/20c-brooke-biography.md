@@ -28,17 +28,15 @@ Brooke also makes reference to Old England’s Hole, a landscape feature halfway
 <param ve-image url="https://stor.artstor.org/stor/9e1002aa-5107-4453-b598-4bbbf31790f4" label="Bishopsbourne" attribution="Martin Crowther">
 
 ### References
-[^ref1]: Jocelyn Brooke, The Orchid Trilogy (Harmondsworth: Penguin Books, 1981) 257.
-[^ref2]: Jocelyn Brooke, The Dog at Clambercrown (London: The Bodley Head, 1955) 256. 
-[^ref3]: Brooke, Orchid 26.
-[^ref4]: Brooke, Orchid 30
-[^ref5]: Brooke, Orchid 183-184.
-[^ref6]: Brooke, Orchid 184.
-[^ref7]: Brooke, Clambercrown, 65.
-[^ref8]: Brooke, Clambercrown 193.
-[^ref9]: Jocelyn Brooke, The Image of a Drawn Sword (London: The Bodley Head, 1950) 181.
-[^ref10]: Jocelyn Brooke, December Spring: Poems (London: John Lane The Bodley Head, 1946) 25.
-[^ref11]: Brooke, Orchid 261-262.
-
-### Further Reading
-Christopher Scoble, Letters from Bishopsbourne: Three Writers in an English Village (Cheltenham: BMM, 2010).
+[^ref1]: Jocelyn Brooke, _The Orchid Trilogy_ (Harmondsworth: Penguin Books, 1981) 257.
+[^ref2]: Jocelyn Brooke, _The Dog at Clambercrown_ (London: The Bodley Head, 1955) 256. 
+[^ref3]: Brooke, _Orchid_ 26.
+[^ref4]: Brooke, _Orchid_ 30.
+[^ref5]: Brooke, _Orchid_ 183-184.
+[^ref6]: Brooke, _Orchid_ 184.
+[^ref7]: Brooke, _Clambercrown_, 65.
+[^ref8]: Brooke, _Clambercrown_ 193.
+[^ref9]: Jocelyn Brooke, _The Image of a Drawn Sword_ (London: The Bodley Head, 1950) 181.
+[^ref10]: Jocelyn Brooke, _December Spring: Poems_ (London: John Lane The Bodley Head, 1946) 25.
+[^ref11]: Brooke, _Orchid_ 261-262.
+Christopher Scoble, _Letters from Bishopsbourne: Three Writers in an English Village_ (Cheltenham: BMM, 2010).
