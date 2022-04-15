@@ -4,10 +4,14 @@
 <param ve-entity eid="Q866348" aliases="Bishopbourne">
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
 <param ve-entity eid="Q5360120" aliases="Elham Valley Railway">
+<param ve-entity eid="Q2790263" aliases="Adisham">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q2302642" aliases="Bridge">
 
 #
 
-Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, which lies some 5 miles or so south-east of [Canterbury](/canterbury/20c-canterbury-home), concealed like a secret in the Elham Valley, where it is washed (and occasionally flooded) by the intermittent waters of the Nailbourne. He remains an obscure and neglected figure, best known, if at all, for _The Orchid Trilogy_, which comprises _The Military Orchid_ (1948), _A Mine of Serpents_ (1949) and _The Goose Cathedral_ (1950), and _The Dog at Clambercrown_(1955), strange, haunting and digressive works which mix fictionalised autobiography, literary criticism, psychology and botany. In these, and his novels such as _The Scapegoat_ (1948) and _The Image of a Drawn Sword_ (1950), he portrays his ‘own mythopoeic vision of [his] favourite landscapes’ [^ref1] or ‘a country of the mind,’ [^ref2] a transfigured version of his beloved Bishopsbourne and its surroundings, by turns Edenic and disturbing.
+Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, which lies some 5 miles or so south-east of [Canterbury](/canterbury/20c-canterbury-home), concealed like a secret in the Elham Valley, where it is washed (and occasionally flooded) by the intermittent waters of the Nailbourne. He remains an obscure and neglected figure, best known, if at all, for _The Orchid Trilogy_, which comprises _The Military Orchid_ (1948), _A Mine of Serpents_ (1949) and _The Goose Cathedral_ (1950), and _The Dog at Clambercrown_ (1955), strange, haunting and digressive works which mix fictionalised autobiography, literary criticism, psychology and botany. In these, and his novels such as _The Scapegoat_ (1948) and _The Image of a Drawn Sword_ (1950), he portrays his ‘own mythopoeic vision of [his] favourite landscapes’ [^ref1] or ‘a country of the mind,’ [^ref2] a transfigured version of his beloved Bishopsbourne and its surroundings, by turns Edenic and disturbing.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Jocelyn_Brooke.jpg" label="Jocelyn Brooke" attribution="idem, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 Brooke was born into a well-to-do family in [Sandgate](/placesqz/sandgate-overview). In 1911 they started spending holidays in a cottage in Bishopsbourne, which his father later bought. Jocelyn’s nanny, of whom he was excessively fond, went to live in Ivy Cottage in around 1923, and the young Jocelyn was a frequent visitor. From 1938 onwards he lived there more or less permanently, apart from spells in the armed forces during and immediately following the Second World War. 
