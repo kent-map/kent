@@ -40,6 +40,7 @@ This makes Darwin’s profound influence on the arts, as well as the sciences, a
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/74/Haeckel_Nepenthaceae.jpg" label="Pitcher plant (Nepenthaceae: insectivorous)/ Ernst Haeckel, Public domain, via Wikimedia Commons"> 
 
 It is interesting to note that Darwin is one of several writers with a strong Kent connection to feature on a Bank of England bank note. He displaced [Charles Dickens]( /dickens/dickens-biography) from the £10 note, before being in turn displaced by [Jane Austen](/19c/19c-austen-biography) in 2017. The Austen note features [Godmersham Park](/austen/austen-godmersham), on the Great Stour (south of Canterbury) as the backdrop. The estate was inherited by her brother in 1794 and she became a regular visitor. The Dickens note also featured a (fictional) Kentish scene – the cricket match Dingley Dell against All Muggleton (Maidstone) from [_The Pickwick Papers_](/dickens/pickwick-papers). Other Kent literary and artistic connections include [Sir Winston Churchill](/20c/20c-churchill-chartwell) on the £5 note and J.M.W. Turner on the £20 note.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Charles_Darwin%2C_English_naturlist%2C_colored.jpg" label="Charles Darwin, English Naturalist" attribution="Julius Jääskeläinen, via Wikimedia Commons" license="CC BY 2.0">
 
 ### References
 
