@@ -159,7 +159,7 @@ A county of rich architecture; castles, churches, ports, forts and towers.
 ##
 [**Musical Peregrinations**](/music)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/music/images/Beaney%20copy%20-%20Scaled%20and%20adjusted.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/61826c52-f5b7-4a39-bece-68dcf6d6539e)
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
