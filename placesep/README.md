@@ -20,7 +20,7 @@
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467)
 
 ##
-**[Gravesend in the 20th century](/placesah/gravesend-overview)**
+**[Gravesend in the 20th century](/placesep/gravesend-overview)**
 
 - author: Hayley Smith
 
