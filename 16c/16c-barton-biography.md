@@ -38,14 +38,16 @@ Barton posed a threat to Henry’s reign and the stability of the monarchy, Parl
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Tyburn_tree.jpg" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons"> 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5e/Women_hanged_for_witchcraft_Newcastle_1655.png"attribution="Ralph Gardiner, Public domain, via Wikimedia Commons"> 
 
-[^ref1]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 15. 
+### References
+
+[^ref1]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” _Archaeologia Cantiana_. 86 (1971): 15. 
 [^ref2]: ibid. 
-[^ref3]: Cheney, Denton A. ‘The Holy Maid of Kent,’ Transaction of the Royal Historical Society, 18 (1904): 109.
+[^ref3]: Cheney, Denton A. ‘The Holy Maid of Kent,’ _Transaction of the Royal Historical Society,_ 18 (1904): 109.
 [^ref4]: ibid.
-[^ref5]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 16. 
+[^ref5]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” _Archaeologia Cantiana_. 86 (1971): 16. 
 [^ref6]: ibid., p, 15.
-[^ref7]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 214. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
-[^ref8]: Lambard, William. A Perambulation of Kent: Conteining the Description, Hystorie, and Customes of that Shire. (1576; reprint, London: Chatham 1826), 172, available from https://archive.org/details/perambulationofk00lambuoft (accessed March 14, 2022). Original spelling and punctuation are maintained in all primary source quotations used in this article.
+[^ref7]: Collins, A. H. (1910). “The Holy Maid of Kent.” _The Antiquary_, 6, 6, (1910) 214. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
+[^ref8]: Lambard, William. _A Perambulation of Kent: Conteining the Description, Hystorie, and Customes of that Shire._ (1576; reprint, London: Chatham 1826), 172, available from https://archive.org/details/perambulationofk00lambuoft (accessed March 14, 2022). Original spelling and punctuation are maintained in all primary source quotations used in this article.
 [^ref9]: Collins, A. H.  
 [^ref10]: ibid.
 [^ref11]: Cheney, Denton A., p,109.
@@ -64,50 +66,41 @@ Barton posed a threat to Henry’s reign and the stability of the monarchy, Parl
 [^ref24]: ibid.
 [^ref25]: Diane Watt., p,140.
 [^ref26]: “The History Press, When Henry VIII Met the Holy Maid of Kent."
-[^ref27]: Sharon L. Jansen, Dangerous Talk and Strange Behavior: Women and Popular Resistance to the Reforms of Henry VIII, (New York: St. Martin‟s Press, 1996), 41-55.
+[^ref27]: Sharon L. Jansen, _Dangerous Talk and Strange Behavior: Women and Popular Resistance to the Reforms of Henry VIII_, (New York: St. Martin‟s Press, 1996), 41-55.
 [^ref28]: Sharon L. Jansen.
 [^ref29]: ibid.
 [^ref30]: ibid.
-[^ref31]: United Kingdom, Statutes of the Realm. Edited by A. Luders and others. 11 vols. London: HMSO 1810-28. http://heinonline.org/HOL/Welcome, accessed March 14, 2022.
-[^ref32]: G.R. Elton, “The Law of Treason in the Early Reformation,” The Historical Journal 11, no. 2 (1968): 214.
+[^ref31]: United Kingdom, _Statutes of the Realm_. Edited by A. Luders and others. 11 vols. London: HMSO 1810-28. http://heinonline.org/HOL/Welcome, accessed March 14, 2022.
+[^ref32]: G.R. Elton, “The Law of Treason in the Early Reformation,” _The Historical Journal_ 11, no. 2 (1968): 214.
 [^ref33]: Sharon L. Jansen.
-[^ref34]: Sarah Farha, “Her Intollerable Arrogancy: Comparing the Martyrdoms of Anne Askew and Elizabeth Barton Under Henry VIII,” Western Illinois Historical Review, Vol. III, Spring 2011, (2011): 14.
-[^ref35]: Shagan, Popular Politics and the English Reformation (Cambridge: Cambridge University Press, 2003), 62. Peter Marshall discusses Barton in conjunction with the broader agenda to eliminate religious fraud (prophecy, miracles, and relics) that also discounted the monasteries during the period of the suppression. See “Forgeries and Miracles in the Reign of Henry VIII,” Past and Present 178 (2003): 39-73.
+[^ref34]: Sarah Farha, “Her Intollerable Arrogancy: Comparing the Martyrdoms of Anne Askew and Elizabeth Barton Under Henry VIII,” _Western Illinois Historical Review_, Vol. III, Spring 2011, (2011): 14.
+[^ref35]: Shagan, _Popular Politics and the English Reformation_ (Cambridge: Cambridge University Press, 2003), 62. Peter Marshall discusses Barton in conjunction with the broader agenda to eliminate religious fraud (prophecy, miracles, and relics) that also discounted the monasteries during the period of the suppression. See “Forgeries and Miracles in the Reign of Henry VIII,” Past and Present 178 (2003): 39-73.
 [^ref36]: Sarah Farha., p, 18.
-[^ref37]: L.E. Whatmore, ed. 'The Sermon against the Holy Maid of Kent and her Adherents, delivered at Paul's Cross, November the 23rd, 1533, and at Canterbury, December the 7th." English Historical Review, 58 (1943): 474.
+[^ref37]: L.E. Whatmore, ed. 'The Sermon against the Holy Maid of Kent and her Adherents, delivered at Paul's Cross, November the 23rd, 1533, and at Canterbury, December the 7th." _English Historical Review,_ 58 (1943): 474.
 [^ref38]: Diane Watt., p,159.
 
+### Bibliography
 
+Cheney, Denton A. ‘The Holy Maid of Kent,’ _Transaction of the Royal Historical Society_, 18 (1904): 107-29.
+<br>
+ Collins, A. H. (1910). “The Holy Maid of Kent.” _The Antiquary_, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
+<br>
+Elton, G.R. “The Law of Treason in the Early Reformation.” _The Historical Journal_ 11, no. 2 (1968): 212-22. 
+<br>
+Farha, Sarah. “Her Intollerable Arrogancy: Comparing the Martyrdoms of Anne Askew and Elizabeth Barton Under Henry VIII.” _Western Illinois Historical Review,_ Vol. III, Spring 2011, (2011): 1-21.
+<br>
+Jansen, Sharon L. _Dangerous Talk and Strange Behavior: Women and Popular Resistance to the Reforms of Henry VIII._ New York: St. Martin‟s Press, 1996.
 
-
-
-
-
-
-***Bibliography***
-
-
-
-Cheney, Denton A. ‘The Holy Maid of Kent,’ Transaction of the Royal Historical Society, 18 (1904): 107-29.
-
- Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
-
-Elton, G.R. “The Law of Treason in the Early Reformation.” The Historical Journal 11, no. 2 (1968): 212-22. 
-
-Farha, Sarah. “Her Intollerable Arrogancy: Comparing the Martyrdoms of Anne Askew and Elizabeth Barton Under Henry VIII.” Western Illinois Historical Review, Vol. III, Spring 2011, (2011): 1-21.
-
-Jansen, Sharon L. Dangerous Talk and Strange Behavior: Women and Popular Resistance to the Reforms of Henry VIII. New York: St. Martin‟s Press, 1996.
-
-Lambard, William. A Perambulation of Kent: Conteining the Description, Hystorie, and Customes of that Shire. (1576; reprint, London: Chatham 1826), 172, available from https://archive.org/details/perambulationofk00lambuoft (accessed March 14, 2022). Original spelling and punctuation are maintained in all primary source quotations used in this article.
-
-Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 15-34. 
-
+Lambard, William. _A Perambulation of Kent: Conteining the Description, Hystorie, and Customes of that Shire_. (1576; reprint, London: Chatham 1826), 172, available from https://archive.org/details/perambulationofk00lambuoft (accessed March 14, 2022). Original spelling and punctuation are maintained in all primary source quotations used in this article.
+<br>
+Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” _Archaeologia Cantiana_. 86 (1971): 15-34. 
+<br>
 Petrie, Anne. “The History Press, When Henry VIII Met the Holy Maid of Kent.” Accessed March 15, 2022. https://www.thehistorypress.co.uk/articles/when-henry-viii-met-the-holy-maid-of-kent/.
-
-Shagan, Ethan. Popular Politics and the English Reformation. Cambridge: Cambridge University Press, 2003.
-
-Watt, Diane. “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” Renaissance Quarterly 50, no. 1 (1997): 136–63. https://doi.org/10.2307/3039331.
-
+<br>
+Shagan, Ethan. _Popular Politics and the English Reformation_. Cambridge: Cambridge University Press, 2003.
+<br>
+Watt, Diane. “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” _Renaissance Quarterly_ 50, no. 1 (1997): 136–63. https://doi.org/10.2307/3039331.
+<br>
 United Kingdom. Statutes of the Realm. Edited by A. Luders and others. 11 vols. London: HMSO 1810-28. http://heinonline.org/HOL/Welcome. Accessed March 14, 2022.
-
-Whatmore, L.E., ed. “The Sermon against the Holy Maid of Kent and her Adherents, delivered at Paul's Cross, November the 23rd, 1533, and at Canterbury, December the 7th." English Historical Review. 58 (1943): 463-75
+<br>
+Whatmore, L.E., ed. “The Sermon against the Holy Maid of Kent and her Adherents, delivered at Paul's Cross, November the 23rd, 1533, and at Canterbury, December the 7th." _English Historical Review_. 58 (1943): 463-75
