@@ -43,6 +43,31 @@ Barton’s life illustrates the chaotic and complicated nature of the Henrician 
 The public hanging was intended as a symbolic act, and her body and those of her supporters were left on display to show that she was nothing but a venerable, broken and impure person.[^ref29]  Her execution  was on the same day that citizens were required to swear the Oath of Succession, revealing the government’s determination to silence those who publically criticized Henry VIII’s policies and reforms.[^ref30]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Elizabeth-Barton.jpg" label="Elizabeth Barton" attribution="most probably Thomas Holloway (1748–1827) based on a painting by Henry Tresham, Public domain, via Wikimedia Commons"> 
 
+### Bibliography
+Cheney, Denton A. ‘The Holy Maid of Kent,’ _Transaction of the Royal Historical Society_, 18 (1904): 107-29.
+<br>
+ Collins, A. H. (1910). “The Holy Maid of Kent.” _The Antiquary_, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
+<br>
+Elton, G.R. “The Law of Treason in the Early Reformation.” _The Historical Journal_ 11, no. 2 (1968): 212-22. 
+<br>
+Farha, Sarah. “Her Intollerable Arrogancy: Comparing the Martyrdoms of Anne Askew and Elizabeth Barton Under Henry VIII.” _Western Illinois Historical Review,_ Vol. III, Spring 2011, (2011): 1-21.
+<br>
+Jansen, Sharon L. _Dangerous Talk and Strange Behavior: Women and Popular Resistance to the Reforms of Henry VIII._ New York: St. Martin‟s Press, 1996.
+<br>
+Lambard, William. _A Perambulation of Kent: Conteining the Description, Hystorie, and Customes of that Shire_. (1576; reprint, London: Chatham 1826), 172, available from https://archive.org/details/perambulationofk00lambuoft (accessed March 14, 2022). Original spelling and punctuation are maintained in all primary source quotations used in this article.
+<br>
+Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” _Archaeologia Cantiana_. 86 (1971): 15-34. 
+<br>
+Petrie, Anne. “The History Press, When Henry VIII Met the Holy Maid of Kent.” Accessed March 15, 2022. https://www.thehistorypress.co.uk/articles/when-henry-viii-met-the-holy-maid-of-kent/.
+<br>
+Shagan, Ethan. _Popular Politics and the English Reformation_. Cambridge: Cambridge University Press, 2003.
+<br>
+Watt, Diane. “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” _Renaissance Quarterly_ 50, no. 1 (1997): 136–63. https://doi.org/10.2307/3039331.
+<br>
+United Kingdom. Statutes of the Realm. Edited by A. Luders and others. 11 vols. London: HMSO 1810-28. http://heinonline.org/HOL/Welcome. Accessed March 14, 2022.
+<br>
+Whatmore, L.E., ed. “The Sermon against the Holy Maid of Kent and her Adherents, delivered at Paul's Cross, November the 23rd, 1533, and at Canterbury, December the 7th." _English Historical Review_. 58 (1943): 463-75
+
 ### References
 [^ref1]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” _Archaeologia Cantiana_. 86 (1971): 16. 
 [^ref2]: ibid., p, 15.
@@ -75,27 +100,3 @@ The public hanging was intended as a symbolic act, and her body and those of her
 [^ref29]: L.E. Whatmore, ed. 'The Sermon against the Holy Maid of Kent and her Adherents, delivered at Paul's Cross, November the 23rd, 1533, and at Canterbury, December the 7th." _English Historical Review,_ 58 (1943): 474.
 [^ref30]: Diane Watt., p,159.
 
-### Bibliography
-Cheney, Denton A. ‘The Holy Maid of Kent,’ _Transaction of the Royal Historical Society_, 18 (1904): 107-29.
-<br>
- Collins, A. H. (1910). “The Holy Maid of Kent.” _The Antiquary_, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
-<br>
-Elton, G.R. “The Law of Treason in the Early Reformation.” _The Historical Journal_ 11, no. 2 (1968): 212-22. 
-<br>
-Farha, Sarah. “Her Intollerable Arrogancy: Comparing the Martyrdoms of Anne Askew and Elizabeth Barton Under Henry VIII.” _Western Illinois Historical Review,_ Vol. III, Spring 2011, (2011): 1-21.
-<br>
-Jansen, Sharon L. _Dangerous Talk and Strange Behavior: Women and Popular Resistance to the Reforms of Henry VIII._ New York: St. Martin‟s Press, 1996.
-<br>
-Lambard, William. _A Perambulation of Kent: Conteining the Description, Hystorie, and Customes of that Shire_. (1576; reprint, London: Chatham 1826), 172, available from https://archive.org/details/perambulationofk00lambuoft (accessed March 14, 2022). Original spelling and punctuation are maintained in all primary source quotations used in this article.
-<br>
-Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” _Archaeologia Cantiana_. 86 (1971): 15-34. 
-<br>
-Petrie, Anne. “The History Press, When Henry VIII Met the Holy Maid of Kent.” Accessed March 15, 2022. https://www.thehistorypress.co.uk/articles/when-henry-viii-met-the-holy-maid-of-kent/.
-<br>
-Shagan, Ethan. _Popular Politics and the English Reformation_. Cambridge: Cambridge University Press, 2003.
-<br>
-Watt, Diane. “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” _Renaissance Quarterly_ 50, no. 1 (1997): 136–63. https://doi.org/10.2307/3039331.
-<br>
-United Kingdom. Statutes of the Realm. Edited by A. Luders and others. 11 vols. London: HMSO 1810-28. http://heinonline.org/HOL/Welcome. Accessed March 14, 2022.
-<br>
-Whatmore, L.E., ed. “The Sermon against the Holy Maid of Kent and her Adherents, delivered at Paul's Cross, November the 23rd, 1533, and at Canterbury, December the 7th." _English Historical Review_. 58 (1943): 463-75
