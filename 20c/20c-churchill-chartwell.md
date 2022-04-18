@@ -28,8 +28,9 @@ As well as residing in Kent, Churchill visited other areas of the county on nume
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/Winston_Churchill_studies_after_action_reports_with_Vice_Admiral_Sir_Bertram_Ramsay%2C_Flag_Officer_Comanding_Dover%2C_28_August_1940._H3508.jpg" label="Churchill and Vice Admiral Sir Bertram Ramsay at the Secret Wartime Tunnels at Dover Castle" attribution="War Office official photographer, Horton (Capt), Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7b/War_Office_Second_World_War_Official_Collection_H3509.jpg" label="Winston Churchill at Dover Castle Secret Wartime Tunnels" attribution="War Office official photographer, Horton (Capt), Public domain, via Wikimedia Commons">
 
-Churchill is remembered in Kent through two statues. One is located in Westerham on The Green,[^ref13] the other at St. Margaret’s Bay, Dover looking out towards the Dover Patrol Memorial on the white cliffs.[^ref14]
+Churchill is remembered in Kent through three statues. One is located in Westerham on The Green,[^ref13], another at Chartwell and the third at St. Margaret’s Bay, Dover looking out towards the Dover Patrol Memorial on the white cliffs.[^ref14]
 <param ve-image url="https://stor.artstor.org/stor/9120880e-e4bc-4374-9a8e-a552e6f8d549" label="Churchill Statue in Westerham" attribution="Martin Crowther">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Chartwell%2C_Churchills%27_statue.jpg" label="Statue of Winston and Clementine Churchill at Chartwell" attribution="Gaius Cornelius, via Wikimedia Commons" license="CC BY-SA 3.0"> 
 
 ### References 
 
