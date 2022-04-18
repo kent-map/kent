@@ -44,6 +44,7 @@ The public hanging was intended as a symbolic act, and her body and those of her
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Elizabeth-Barton.jpg" label="Elizabeth Barton" attribution="most probably Thomas Holloway (1748–1827) based on a painting by Henry Tresham, Public domain, via Wikimedia Commons"> 
 
 ### Bibliography
+<br>
 Cheney, Denton A. ‘The Holy Maid of Kent,’ _Transaction of the Royal Historical Society_, 18 (1904): 107-29.
 <br>
  Collins, A. H. (1910). “The Holy Maid of Kent.” _The Antiquary_, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
