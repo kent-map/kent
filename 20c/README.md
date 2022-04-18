@@ -10,6 +10,7 @@
 ### People
 
 [Elizabeth Bowen](20c-bowen-biography)   
+[Jocelyn Brooke](20c-brooke-biography)   
 [Winston Churchill](20c-churchill-chartwell)   
 [Alfred Cohen](20c-cohen-biography)   
 [Noel Coward](20c-coward-biography)   
