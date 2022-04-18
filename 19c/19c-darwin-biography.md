@@ -33,7 +33,7 @@ A doting father, Darwin was often helped in his research by his children, althou
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c7/The_expression_of_the_emotions_in_man_and_animals_%281872%29_%2814762147996%29.jpg" label="The Expressions of the Emotions in Man and Animals" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
 Despite his own considerable writing abilities, he found, as he grew older, that reading of anything except factual material (and ‘silly’ romantic novels) became a chore or worse; he found reading Shakespeare to be exceedingly dull and nauseating. This lack of interest or worse extended to the arts more generally, he could, for example see ‘absolutely nothing’ of merit in Turner’s watercolours. He acknowledged this as a failing of sorts:
-<br>
+<br><br>
 'My mind seems to have become a kind of machine for grinding general laws out of large collections of facts, but why this should have caused the atrophy of the part of the brain alone, on which the higher tastes depend I cannot conceive.'  
 <br>
 This makes Darwin’s profound influence on the arts, as well as the sciences, all the more interesting. Diana Donald, in a profound, multi-authored book on Darwin and the arts, states that he is now widely regarded as ‘an imaginative writer, whose construct of the workings of nature, expressed in metaphorical and even visionary language, deeply influenced novelists and poets’. 
