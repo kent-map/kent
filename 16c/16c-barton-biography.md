@@ -12,7 +12,7 @@ Elizabeth Barton, 'The Holy Maid of Kent' was born in Aldington in 1506 [^ref1].
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/af/Cobbs_Hall_Aldington_Kent_Geograph-2117504-by-David-Anstiss.jpg" label="Cobb's Hall" attribution="David Anstiss / Cobb's Hall"> 
 <param ve-map center="Q921173" zoom="15">
 
-Astonished with Barton’s knowledge of the unseen world and future, Thomas Cobb invited the parish priest Richard Masters to visit Barton and hear some of her revelations for himself, after which Masters communicated 'of the prophetess Elizabeth Barton' to Archbishop Warham.[^ref8]  Upon hearing the news, Archbishop Warham sent an ecclesiastical commission led by Edward Bocking, a monk form the Benedictine house of Christ Church, Canterbury to examine Barton.[^ref9]  She was questioned, and the commission found her orthodox on the points of faith. 
+Astonished with Barton’s knowledge of the unseen world and future, Thomas Cobb invited the parish priest Richard Masters to visit Barton and hear some of her revelations for himself, after which Masters communicated 'of the prophetess Elizabeth Barton' to Archbishop Warham.[^ref8]  Upon hearing the news, Archbishop Warham sent an ecclesiastical commission led by Edward Bocking, a monk from the Benedictine house of Christ Church, Canterbury to examine Barton.[^ref9]  She was questioned, and the commission found her orthodox on the points of faith. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/William_Warham.jpg" label="William Warham" attribution="After Hans Holbein the Younger, Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q29303" zoom="15">
 
