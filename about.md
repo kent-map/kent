@@ -332,7 +332,14 @@ Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/whalley.jpg)
 
-Beth Whalley received a PhD from King’s College London in 2020, and has recently undertaken a Postdoctoral Fellowship at Freie Universität Berlin. Her research focuses on early medieval literature and its contemporary reimaginings, and she is especially interested in literary engagements with place, space and the environment. She has articles forthcoming in Yearbook of English Studies and in edited collections on medieval ‘lost objects’ and the Chapel of St-Peter-on-the-Wall in Essex.
+Beth Whalley received a PhD from King’s College London in 2020, and has recently undertaken a Postdoctoral Fellowship at Freie Universität Berlin. Her research focuses on early medieval literature and its contemporary reimaginings, and she is especially interested in literary engagements with place, space and the environment. She has articles forthcoming in Yearbook of English Studies and in edited collections on medieval ‘lost objects’ and the Chapel of St-Peter-on-the-Wall in Essex..
+
+##
+[**Dr Simon Wilson**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6336dfc2-5df4-4b6d-af0f-4fb4f23bf9c7)
+
+Simon Wilson is a Senior Lecturer in the Faculty of Arts, Humanities and Education at Canterbury Christ Church University, and an elected member of the Institute for Orthodox Christian Studies in Cambridge. He has a special interest in landscape, co-creation, love of learning, and the theology of the Orthodox Church. His latest publication is “The Fierce Urgency of Now and Forever and unto Ages of Ages: Study and the Restoration of Paradise on Earth”, International Journal of Sustainability in Higher Education, vol. 23 no. 1 (2022), pp. 29-40. 
 
 ##
 [**Charlie Worthington**]()
