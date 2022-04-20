@@ -170,7 +170,7 @@ Katie Holdway is a PhD researcher in the Department of English at the University
 ##
 [**Alyson Hunt**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Ice%20cream.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/43418490-dbc9-4018-aa51-9b11c4b623ad)
 
 Alyson Hunt is a recent PhD survivor and long-time research associate of the International Centre for Victorian Women Writers at Canterbury Christ Church University. Her research interests include Victorian crime fiction and denigrating Dickens in favour of his [*contentious point*] much more interesting contemporary, Wilkie Collins.
     
