@@ -15,7 +15,7 @@
 ##
 **[Canterbury in the 19th century](/19c/19c-canterbury/)**
 
-- author: Carolyn Oulton
+- author: Martin Watts
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fb97b8a2-50de-4cae-b35b-7aedb06de42b)
 
