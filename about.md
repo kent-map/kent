@@ -65,7 +65,7 @@ Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. S
 ##
 [**Pat Argar**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Pat%20Argar.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/05320be6-9e97-4649-b095-d150533ae47a)
 
 Pat Argar has a PhD from Canterbury Christ Church University. Her research interests include the writing of Sheila Kaye-Smith, the family history of the Comport family and all things rural (especially with relation to Romney Marsh, where she lives). Before the Covid19 pandemic she regularly gave presentations and talks to groups and societies on local history and literature. She was born and grew up in East Sussex and spent most of her adult life as a teacher. Her pandemic “lockdown” diary can be found at [theruralwriterblog.wordpress.com](theruralwriterblog.wordpress.com)
 
@@ -97,7 +97,7 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 ##
 [**Bethia Carter**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?rotation=90&url=https://raw.githubusercontent.com/kent-map/kent/main/images/Bethia%20Carter.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?rotation=90&url=https://stor.artstor.org/stor/f63a7f45-4b8c-4081-af74-2e7911a34063)
 
 Bethia Carter is currently in her third year studying at Canterbury Christ Church University, for a BA (Hons) degree in English Language and Communication and French. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
 
@@ -184,7 +184,7 @@ Mandy Jones is a PhD researcher at CCCU. She spends her time telling anyone who�
 ##
 [**Miroslava Karaskova**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/miroslava.karaskova%20photo.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/addee311-f0b8-4c15-abf2-88546226a7df)
 
 Miroslava is an undergraduate student from Slovakia, studying combined honours History with Film, Radio & Television studies at Canterbury Christ Church University. She hopes to continue her academic journey focusing on cultural history and portrayal of history in film, while practising filmmaking in the form of documentaries. In her free time, she presents two radio shows on the Canterbury Community and Student Radio, and she is a die-hard arts and crafts enthusiast.
 
@@ -198,7 +198,7 @@ Helena Kelly holds a doctorate from the University of Oxford but is currently an
 ##
 [**Martin Latham**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Martin%20Latham%20for%20author%20page.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b8a2fa4f-75f3-4a94-ad46-79dec2ef7e06)
 
 ##
 [**Richard Maltby**]()
