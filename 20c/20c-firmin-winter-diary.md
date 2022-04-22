@@ -14,5 +14,6 @@ A constant theme of _The Winter Diary_ is the importance of stories in shaping o
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3e/St_Augustines_Abbey%2C_Canterbury_4.jpg" label="St Augustine's Abbey, Canterbury" attribution="Nilfanion, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 Firmin’s book is a further addition to these stories which narrate a place into life. It invites readers to join this enchantment and explore Old Palace Road, Patrixbourne and all the other spots through the eyes of Branwell and his pal Lukin. Believe me, you don’t have to be a child to immerse yourself in this transformed realm.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Court_Lodge_on_Old_Palace_Road_-_geograph.org.uk_-_1776450.jpg" label="Court Lodge on Old Palace Road" attribution="David Anstiss" license="CC BY-SA 2.0">
 
 1. Peter Firmin, _The Winter Diary of a Country Rat_ (Kingswood: Kaye and Ward, 1981) 41.
