@@ -23,6 +23,7 @@ By his own account, Jarman had no plans to build a garden, an improbable project
 <param ve-map center="Q911577" zoom="10">
 
 The garden flourished in this harsh, inhospitable landscape, against the elements and the odds, but as it thrived, so Jarman’s condition worsened as AIDS tightened its grip. By 1990 his sight was failing as a result of toxoplasmosis. Typically, this prompted an obsession with colour, which would find expression in both his ‘book of colour’ _Chroma_ and his last film _Blue_.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a6/Prospect_Cottage-_Derek_Jarman%27s_home%2C_Dungeness.jpg" label="Prospect Cottage, Derek Jarman's home, Dungeness" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
 Derek Jarman’s creativity was truly extraordinary by virtue of its scope and its exuberance. Prospect Cottage, Dungeness and Romney Marsh collectively constitute a fitting memorial to the man, the life and the work.
 <param ve-image label="Dungeness"
