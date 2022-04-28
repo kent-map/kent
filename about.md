@@ -33,7 +33,7 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 ##
 [**Claire Bartram**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/claire%20bartram.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1da3cc93-932d-4422-b389-9af7e562dd10)
 
 Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
 
@@ -61,6 +61,13 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran%20Allfrey.jpeg)
 
 Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity, and the emotional, social, and political stakes of these remakings.
+
+##
+[**Brooke Altringham**]()
+
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/1e16ac05-bfcf-48cf-a136-194d77bed904)
+
+Brooke Altringham is a history student with a passion for twentieth century history.
 
 ##
 [**Pat Argar**]()
@@ -323,7 +330,7 @@ Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. S
 
 - email: martin.watts@canterbury.ac.uk
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/MartinWatts%20(2).JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b84e8e80-b9c9-42c1-9d0c-c215df81f997)
 
 Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History at Canterbury Christ Church University. His research interests include the industrial revolution, welfare and the state, the two world wars and naval history. Martin has written courses covering the effect of the industrial revolution and the world wars upon society in Kent, with an emphasis on the strategic importance of the county to the defence of the United Kingdom.
 
