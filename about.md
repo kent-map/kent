@@ -330,7 +330,7 @@ Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. S
 
 - email: martin.watts@canterbury.ac.uk
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/MartinWatts%20(2).JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b84e8e80-b9c9-42c1-9d0c-c215df81f997)
 
 Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History at Canterbury Christ Church University. His research interests include the industrial revolution, welfare and the state, the two world wars and naval history. Martin has written courses covering the effect of the industrial revolution and the world wars upon society in Kent, with an emphasis on the strategic importance of the county to the defence of the United Kingdom.
 
