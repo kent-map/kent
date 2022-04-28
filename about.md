@@ -33,7 +33,7 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 ##
 [**Claire Bartram**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/claire%20bartram.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1da3cc93-932d-4422-b389-9af7e562dd10)
 
 Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
 
