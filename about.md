@@ -65,7 +65,7 @@ Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. S
 ##
 [**Brooke Altringham**]()
 
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/1e16ac05-bfcf-48cf-a136-194d77bed904)
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/acf6f2e4-49ee-4f4a-a658-4c9a030016a6)
 
 Brooke Altringham is a history student with a passion for twentieth century history.
 
