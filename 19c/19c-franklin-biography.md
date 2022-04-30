@@ -1,3 +1,4 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
        title="Sir John Franklin (16 April 1786 – 11 June 1847)"
        layout="vtl" banner="/images/banners/19c.jpg">
