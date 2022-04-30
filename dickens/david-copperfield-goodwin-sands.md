@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Goodwin Sands" author="Professor Carolyn Oulton" layout="vtl" banner="images/banners/19c.jpg">
+<param ve-config title="Goodwin Sands" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q1494482" aliases="Goodwin Sands">
 
@@ -11,7 +11,7 @@ While staying in [Fort House](dickens-fort-house), [Broadstairs](broadstairs) in
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Skeppsbrott_-_Sj%C3%B6historiska_museet_-_S_0902.tif/lossy-page1-3868px-Skeppsbrott_-_Sj%C3%B6historiska_museet_-_S_0902.tif.jpg" label="Goodwin Sands" attribution="Skeppsbrott - Sjöhistoriska museet, via Wikimedia Commons">
 
 The last chapters of _David Copperfield_ had been written in [Fort House](dickens-fort-house)  the year before, and it is tempting to think that the Yarmouth storm in which Ham and Steerforth both drown may have been inspired by Dickens’s observation of the Goodwins in tempestuous weather. David himself avers that ‘I have started up so vividly impressed by it, that its fury has yet seemed raging in my quiet room, in the still night. … I have an association between it and a stormy wind, or the lightest mention of a seashore, as strong as any of which my mind is conscious.’[^ref3]
-<param ve-image url="images/Bleak House in the time of Dickens.JPG" label="Bleak House -Fort House - as Dickens would have known it ©Elgate Postcards, Margate">
+<param ve-image url="https://stor.artstor.org/stor/d301f78e-3342-4822-82ad-c1d5b428d6db" label="Bleak House -Fort House - as Dickens would have known it" attribution="©Elgate Postcards, Margate">
 
 ### Bibliography
 

@@ -1,16 +1,14 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config title="The secret war tunnels of Dover Castle"author="Brooke Altringham" layout="vtl"banner="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg" label="Dover Castle" attribution="Suicasmo"url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg"> 
 
 <param ve-entity eid="Q950970" aliases="Dover Castle"> 
 
-### 1940-1945 
-
 Throughout History, Dover Castle has been used as a highly fortified military garrison to protect Britain’s shores from invaders. Originally the Castle’s foundations, built by the Romans, resembled a hillfort and a lighthouse was also later erected on Castle Hill. This fort known as Dubris, was demolished in AD 215 [^ref1] and the lighthouse was reused for the construction of the church of St Mary in Castro around AD 1000. The Castle was remodelled in 1180 into the one we recognise today; the rebuilding was established by Henry II who created the most advanced castle design in Europe.[^ref2]  
 <param ve-image url="images/Roman Pharos.jpg" label="Roman Pharos, Dover" attribution="Postcard c.1920s"> 
 
 By the 1800s, the castle had become a formidable artillery fortress and barracks. During the Georgian period when the secret war tunnels were first established, these tunnels were known as the Casemates and they served as an underground barracks for the army until the 1840’s when they were abandoned.[^ref3] Consequently the nation’s defences were in an abysmal state, and the port of Dover and its coasts were susceptible to invasion due to the weaknesses of the fortifications.  
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/George_Chambers_%281803-40%29_-_A_View_of_Dover_-_RCIN_405276_-_Royal_Collection.jpg" label="George Chambers (1803-40) - A View of Dover - RCIN 405276 - Royal Collection" attribution="George Chambers, Public domain, via Wikimedia Commons"> 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/George_Chambers_%281803-40%29_-_A_View_of_Dover_-_RCIN_405276_-_Royal_Collection.jpg" label="George Chambers 1803-40 - A View of Dover - RCIN 405276 - Royal Collection" attribution="George Chambers, Public domain, via Wikimedia Commons"> 
 
 Following this crisis of the nation’s defences a series of vital improvements were made to the castle, these consisted of the structural strengthening of the inner bailey and great tower in 1853. In order to improve the weaknesses of the existing barracks a new set of buildings for the Army were established in the years 1856-1870. These included: The Officer’s New Barracks (1856), The Regimental Institute (1868) and The Garrison School (1870). [^ref4] These new buildings and improvements to the existing infrastructure of the underground barracks and the secret network of tunnels would prove to be vital in the most important stages of the Second World War. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/16/Dover_Castle_005.jpg" label="Dover Castle, Officer's Mess" attribution="Sakralamn, CC BY-SA 4.0, via Wikimedia Commons"> 
