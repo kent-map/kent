@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Seaside resorts" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q676689" aliases="Gravesend">
@@ -17,7 +17,7 @@ Women of all ages benefited from the greater freedom and healthier lifestyle of 
 
 The bye-laws in these resorts were notoriously confusing, and not everyone adhered to them, as [Israel Zangwill](/19c/19c-zangwill-biography) noticed in 1893:
 <br>
- At [Folkestone](/19c/19c-folkestone), where the machine-people are dreadfully set against ladies and gentlemen using the same water, promiscuous bathing flourishes more nakedly than anywhere on the Continent; and the gentlemen have neither tents nor costumes. In [Margate](/19c/19c-margate) the machines are of either sex, and the gentlemen are clad in coloured pocket-handkerchiefs. At Birchington I bathed from a boat which was  besieged by a bevy of wandering water-nymphs, begging me to let them dive from it.
+ At [Folkestone](/19c/19c-folkestone), where the machine-people are dreadfully set against ladies and gentlemen using the same water, promiscuous bathing flourishes more nakedly than anywhere on the Continent; and the gentlemen have neither tents nor costumes. In [Margate](/19c/19c-margate) the machines are of either sex, and the gentlemen are clad in coloured pocket-handkerchiefs. At Birchington, I bathed from a boat which was  besieged by a bevy of wandering water-nymphs, begging me to let them dive from it.
   
 The more restrained [Broadstairs](/dickens/broadstairs-19th-century) on the other hand, had 'a jolly old waterman, who paddles about apparently to pick up exhausted bathers. One morning as I was swimming past his boat he warned me back. “Any danger?” I asked. “Ladies,” he replied, ambiguously enough. It thus transpired that his function is to preserve a scientific frontier between the sexes.'
 
