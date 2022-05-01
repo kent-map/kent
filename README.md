@@ -253,6 +253,8 @@ Delmonden is a village in Kent that doesn’t actually exist except in Shepherds
 ##
 [**The Winter Diary of a Country Rat by Peter Firmin**](/20c/20c-firmin-winter-diary)
 
-- author: Dr Simon 
+- author: Dr Simon Wilson
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b)
+
+The adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
