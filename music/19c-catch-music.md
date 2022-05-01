@@ -19,10 +19,11 @@ It is difficult to overstate the popularity of the English glee in the late eigh
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/50/Peltro_William_Tomkins_-_Sir_Andrew_Aguecheek%2C_Sir_Toby_Belch_and_the_Clown_-_%22Twelfth_Night%22%2C_Act_II%2C_Scene_III_-_B1976.1.205_-_Yale_Center_for_British_Art.jpg" label="Twelfth Night" attribution="Peltro William Tomkins, CC0, via Wikimedia Commons">
 
 In the end, none of this could ensure the survival of the glee beyond the end of the nineteenth century, though echoes can be heard in some Gilbert and Sullivan choruses and there is one report of a Glee Club behind the lines in World War 1. By then, though, the repertoire is indistinguishable from the choruses and part songs which had become popularised in the volumes of music aimed at the enthusiastic amateur, middle-class, domestic music-making which had grown up alongside the advent of readily available pianos for the home.
- 
+
 In its heyday, the glee was a rather more demanding genre requiring a level of vocal dexterity and musical training not normally associated with amateur music-making. The men who sang the glees at a Catch Club evening were more likely to be professional singers. Fortunately for [Canterbury](/music/19c-music-canterbury) – and for every other cathedral city throughout the land, and for the nearby towns who may also have and a Catch or Glee Club to which these musicians could travel along the rapidly-improving roads of the nineteenth century – there was a ready supply of such talent in the local [cathedral choir](/music/19c-cathedral-singing). 
 <br><br>
 You can watch this video to find out more [Christ Price and the Canterbury Catch Club](https://youtu.be/dbKAb18w72c)
+<param ve-image url="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" label="Canterbury Cathedral, from A Walk In and About the City of Canterbury" attribution="by William Gostling, 1825. no known copyright restrictions.">
 
 ### Bibliography
 
