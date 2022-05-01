@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="The Winter Diary of a Country Rat by Peter Firmin" author="Dr Simon Wilson" layout="vtl" banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994">
+<param ve-config title="The Winter Diary of a Country Rat by Peter Firmin" author="Dr Simon Wilson" layout="vtl" banner="https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b">
 <param ve-map center="Q866348" zoom="10">
 
 #
