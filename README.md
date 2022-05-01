@@ -215,7 +215,7 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 # {.cards}
 
 ##
-[**Double Double**](/20c/20c-double-double)
+[**Double Double by John Brunner**](/20c/20c-double-double)
 
 - author: Michael Goodrum
 
@@ -224,7 +224,7 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition…
 
 ##
-[**In Margate by Lunchtime**](/21c/21c-margate-lunchtime)
+[**In Margate by Lunchtime by Maggie Harris**](/21c/21c-margate-lunchtime)
 
 - author: Maggie Harris
 
@@ -233,7 +233,7 @@ It was 1969, and in the fictional coastal North Kent town of Brindown, things wo
 There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist. ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’
 
 ##
-[**Miss Balmaine's Past**](/19c/19c-croker-missbalmaine)
+[**Miss Balmaine's Past by Bithia Croker**](/19c/19c-croker-missbalmaine)
 
 - author: Michelle Crowther
 
@@ -249,3 +249,10 @@ Bithia Croker's novel is set on the Romney Marshes. Rosamund Balmaine finds love
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
 
 Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith.
+
+##
+[**The Winter Diary of a Country Rat by Peter Firmin**](/20c/20c-firmin-winter-diary)
+
+- author: Dr Simon 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b)
