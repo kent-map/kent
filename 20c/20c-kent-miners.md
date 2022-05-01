@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Mapping radical dissent: the Kent Miners, militancy and workers’ education" author="Professor Emeritus Linden West" layout="vtl" banner="xxx">
+<param ve-config title="Mapping radical dissent: the Kent Miners, militancy and workers’ education" author="Professor Emeritus Linden West" layout="vtl" banner="https://stor.artstor.org/stor/6e4cd3c3-771e-43b2-a9e8-90384590672d">
 <param ve-map center="Q866348" zoom="10">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
