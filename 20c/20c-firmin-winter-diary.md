@@ -2,6 +2,12 @@
 <param ve-config title="The Winter Diary of a Country Rat by Peter Firmin" author="Dr Simon Wilson" layout="vtl" banner="https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b">
 <param ve-map center="Q866348" zoom="10">
 
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q2741069" aliases="Blean">
+<param ve-entity eid="Q1836548" aliases="Barham">
+<param ve-entity eid="Q7148079" aliases="Patrixbourne">
+
+
 #
 
 _The Winter Diary of a Country Rat_ (1981) is an enchanting book written and illustrated by Peter Firmin (1928-2018). Firmin was best known as co-creator, with Oliver Postgate, of such classic children’s television programmes as _Ivor the Engine_, _Clangers and Bagpuss_, all of which were made at his home in Blean. _The Winter Diary_ is testament to his love and knowledge of the countryside around Canterbury. It follows the adventures of Branwell, the titular country rat, and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne (referred to as ‘the Zoo’ in the book), via Patrixbourne and the North Downs Way, to [Canterbury](/canterbury/20c-canterbury-home).
