@@ -20,7 +20,8 @@ _‘We drove to the estate agent’s office and bought it immediately, Diana Coh
 <param ve-image url="images/ballards.jpg" label="The Coach House, Ballards, Near Goudhurst, in 1963. Photo: Alfred Cohen Archive"> 
 <param ve-map center="Q2019734" zoom="10">
 
-Alfred started painting the landscape immediately, but it was a new challenge, and he realized he would need to transform his technique:   
+Alfred started painting the landscape immediately, but it was a new challenge, and he realized he would need to transform his technique:
+<br><br>
 _'What hit me was an incredible feeling of privacy. Driving along a country road I felt the hedges crowding in on me. The leaves were so thick that they were like a wall. We passed a hedge-cutter and he glared at us as if we’d interrupted some ritual. Then he stepped down into the ditch and disappeared as though he’d been absorbed by the landscape. Everything was so impenetrably, all-over green that I could think of no way of getting into it as a painter. The way I’d been working simply wouldn’t do.'_ 
 <param ve-image url="images/hedgecutting.JPG" label="Alfred Cohen, Hedgecutting and Harvesting, 1969, oil on canvas, 40 x 28 in; 101.6 x 71.1 cm. © The Artist’s Estate. Believed to have been overpainted. Slide, Alfred Cohen Archive">  
 <param ve-map center="Q2019734" zoom="10">
