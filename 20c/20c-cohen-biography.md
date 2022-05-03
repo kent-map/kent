@@ -12,7 +12,7 @@
 
 **Places:** Goudhurst 1963-70, Near Benenden 1970-74, Iden Green 1974-78   
 _‘It was Kent that engaged my feelings more fiercely than any other place I can remember’_, said the American artist Alfred Cohen.  He had been born in Chicago, and served as a navigator in the US Army Air Force during the war.  He returned to study at the Art Institute of Chicago, where he won a travelling fellowship which took him to Paris for a year. He stayed for a decade. After a couple of successful exhibitions in London, he moved there in 1960, producing a breakthrough series of large shimmering paintings of the Thames, followed by another sell-out exhibition of pictures on the theme of the Commedia dell’Arte. 
-<param ve-map center="Q2019734" zoom="10">
+<param ve-map center="Q2019734" zoom="15">
 
 In 1963, Cohen and his second wife Diana were looking for a studio. They drove to Kent to visit architect friends who had just bought an old mill near Goudhurst. On the way back they drove past a striking coach house of a grand Queen Anne-style red-brick mansion called Ballards, on the road to Horsmonden. The Coach House was for sale, and its stables offered plenty of studio space under the coachman’s quarters. 
 <br><br>
