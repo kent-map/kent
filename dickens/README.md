@@ -10,7 +10,7 @@
 
 - author: Carolyn W. de la L. Oulton
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Chatham%20Dockyard.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0ca370cd-4c10-4a07-928a-be8227f38e5e)
 
 From Rochester to Broadstairs on the East coast – wherever you go you can be fairly certain that Dickens has been there before you. But much like Aunt Betsey’s donkeys, he can be elusive.
 
