@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Battle of Britain Memorial" author="Amy Green" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/3f/Capel-le-Ferne%2C_Kent.jpg">
+<param ve-config title="Battle of Britain Memorial" author="Amy Green" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/2/22/BBMF_spits_and_hurricane.JPG">
 
 <param ve-entity eid="Q1006783" aliases="Capel-le-Ferne">
 <param ve-entity eid="Q179224" aliases="Dover">
@@ -16,8 +16,7 @@ The area around Capel-le-Ferne was of strategic significance during both world w
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/76/Observation_post.jpg" label="Observation Post, Hougham Battery" attribution="David Anstiss, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 The idea for a Memorial to “the Few” was the brain child of Wing Commander Geoffrey Page who had been involved in the Battle of Britain. Page was awarded the Distinguished flying Cross (DFC) and the Distinguished Service Order (DSO) serving with the RAF until 1948. Years later, he realised there was no memorial to his comrades who had fought in the battle.
-<param ve-image url="https://commons.wikimedia.org/wiki/File:Geoffrey_Page.3.jpg"><img width="256" alt="Geoffrey Page.3" label="Geoffrey Page">
-
+<br><br>
 Geoffrey established the Battle of Britain trust which raised more than £1 million for the memorial. The central statue was designed and carved by Harry Gray who was inspired by the reflective pose of a work colleague during a break. The figure wears an Irvin jacket which hides the airman’s uniform thus disguising the rank and nationality of the airman. The reason for this is simple but poignant, as it does not privilege any rank or unit. It could be a British officer or it could be a Gunner, who is to say? The memorial was unveiled in 1993 by the HM Queen Elizabeth the Queen Mother.  
 <param ve-image url="https://commons.wikimedia.org/wiki/File:Capel_le_Ferne_Jamie_Buchanan_Harry_Gray_Battle_of_Britain_Monument_04.jpg" label="Capel Le Ferne Jamie Buchanan Harry Gray Battle of Britain Monument" attribution="© Ad Meskens, Wikimedia Commons" license="CC BY-SA 4.0">
 
