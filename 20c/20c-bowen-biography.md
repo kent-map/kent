@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Elizabeth Bowen (1899-1973)" author="Diana Hirst" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 

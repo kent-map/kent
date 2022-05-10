@@ -6,6 +6,15 @@
 # {.cards}
 
 ##
+**[The Battle of Britain Memorial](/20c/20c-battle-of-britain-memorial)**
+
+- author: Amy Green
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+
+The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'
+
+##
 **[The Hidden Gems of Parochial Kent](/churches/overview)**
 
 - author: Andrew Vincent
