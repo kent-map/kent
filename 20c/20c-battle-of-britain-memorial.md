@@ -27,7 +27,7 @@ In 2015, the final touches were added to the visitor centre, renamed The Wing du
 
 The memorial in its entity, is a very poignant reminder of what Britain faced in those final years of war with Germany. 
 In the very famous words of Sir Winston Churchill; “Never in the field of human conflict was so much owed by so many to so few”
-<param ve-image url="https://commons.wikimedia.org/wiki/File:Capel_le_Ferne_Entrance_Battle_of_Britain_Memorial_03.jpg" label="Capel Le Ferne Entrance Battle of Britain Memorial, 2019" attribution="© Ad Meskens / Wikimedia Commons" license="CC BY-SA 4.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/Winston_Churchill_studies_after_action_reports_with_Vice_Admiral_Sir_Bertram_Ramsay%2C_Flag_Officer_Comanding_Dover%2C_28_August_1940._H3508.jpg" label="Winston Churchill studies after action reports with Vice Admiral Sir Bertram Ramsay, Flag Officer Comanding Dover, 28 August 1940" attribution="War Office official photographer, Horton (Capt), Public domain, via Wikimedia Commons, This is photograph H 3508 from the collections of the Imperial War Museums">
 
 ### Bibliography
 
