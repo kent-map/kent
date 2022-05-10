@@ -38,4 +38,3 @@ GAL [The Wing](http://gal-ltd.co.uk/case-studies/capel-le-ferne), accessed May 9
 Harry Gray [Battle of Britain.](https://www.harrygray.co.uk/battle-of-britain), accessed May 8, 2022, .   
 IWM, [The Foxley-Norris Memorial](https://www.iwm.org.uk/memorials/item/memorial/73109), accessed May 9, 2022.   
 Kent County Council[ Exploring Kent's Past](https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=%27mke16509%27), accessed May 8, 2022 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg" label="Battle of Britain Memorial" attribution="MilborneOne, Public domain, via Wikimedia Commons">
