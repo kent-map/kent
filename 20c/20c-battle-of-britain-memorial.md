@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config title="Battle of Britain Memorial" author="Amy Green" layout="vtl" banner="xxx">
 
@@ -28,11 +28,9 @@ The statue was unveiled in 1993 by the HM Queen Elizabeth the Queen Mother.
 Image Three: The airman 
 
 The memorial wall was unveiled in 2005 by HRH Prince Michael. The wall contains the names of all those who fought during the Battle of Britain including those who survived the war.  The wall memorial could not have been erected if not for the raising of the funds by one of the few and the first president of the Battle of Britain trust Sir Christopher Foxley-Norris, which is where the memorial wall has got its name as tribute.  The poem which can be seen on the left hand side of the memorial wall is by William Walker, a Battle of Britain veteran shared the copyright to the trust to create an anthology of William’s poetry dedicated to his absent friends and experiences of wartime, another touching tribute to the memorial. 
-<param ve-image url="
+<param ve-image url="https://commons.wikimedia.org/wiki/File:Capel-le-Ferne_-_Battle_of_britain_memorial_02.JPG" label="Capel-le-Ferne, Battle of Britain Memorial" attribution="Ottaviani Serge via Wikimedia Commons" license="CC BY-SA 4.0">
 
-Image Four: The Wall 
 
-Image Five: Poem by William Walker 
 
 In 2015, the final touches were added to the new visitor centre at the site, now renamed The Wing due to its unique design in the shape of a Spitfire wing d. It was designed by a local architectural practice named Godden Allen Lawn.  The Wing is not a museum but an experience and hands on attraction which includes visual and audial effects to show what the Few perhaps experienced in those days during the Summer of 1940. Complete with a further education room, two replica aircraft, a spitfire and hurricane in the grounds, complete with a very quaint and quiet tearoom room with a balcony offering the stunning views the white cliffs provide. 
 The memorial in its entity, is a very poignant reminder of what Britain faced in those final years of war with Germany. 
@@ -55,5 +53,4 @@ Banner Image : Whippet Chris, Battle of Britain, 2010, digital photograph, acces
 Image one:  “Site Map” accessed May 9, 2022, http://www.capelbattery.com/site-map.html
 Image Two: Unknown, Geoffrey Page  132 Squadron, 1944, digital photograph, accessed May 9, 2022,https://commons.wikimedia.org/wiki/File:Geoffrey_Page.3.jpg.
 Image Three: Meskens Ad, Harry Gray Battle of Britain, 2019, digital photograph, accessed May 9, 2022, https://commons.wikimedia.org/wiki/File:Capel_le_Ferne_Jamie_Buchanan_Harry_Gray_Battle_of_Britain_Monument_04.jpg.
-Image Four:  Ottaviani Serge, Capel le Ferne, 2014, digital photograph, accessed May 9, 2022,https://commons.wikimedia.org/wiki/File:Capel-le-Ferne_-_Battle_of_britain_memorial_02.JPG
-Image Five: "Battle of Britain Memorial ," accessed May 9, 2022 .https://www.hmdb.org/m.asp?m=123862
+
