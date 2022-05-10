@@ -10,7 +10,7 @@
 #
 
 The Battle of Britain Memorial is situated on top of the White Cliffs at Capel-le-Ferne, near Folkestone. Dedicated to Churchill’s Few, it occupies a special place in the hearts and minds of those who have visited the site. It commemorates the Battle of Britain which took place in the skies above London and the South East between 10 July – 31 October 1940.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg" label="Battle of Britain Memorial" attribution="MilborneOne, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Battle_of_Britain_Memorial.jpg" label="The Battle of Britain Memorial" attribution="User: (WT-shared) Travelmech at  wts wikivoyage, Public domain, via Wikimedia Commons">
 
 The area around Capel-le-Ferne was of strategic significance during both world wars. RNAS (Royal Naval Air Station) Capel, which later became RAF Folkestone, was a First World War airship station operational from April 1915 until 1919. It had had three airship sheds and a large grass landing area.  Being close to Dover, it was an ideal location for patrolling the Channel. The airships spotted enemy u-boats and escorted shipping across the channel. During the Second World War, two 8-inch-high performance guns were positioned on top of the cliffs - one at Capel-le-Ferne and the other at Hougham. These provided anti-shipping defensive fire in the Channel and were successful in engaging enemy shipping targets at the range of 28,030 metres.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/76/Observation_post.jpg" label="Observation Post, Hougham Battery" attribution="David Anstiss, via Wikimedia Commons" license="CC BY-SA 3.0">
@@ -38,3 +38,4 @@ GAL [The Wing](http://gal-ltd.co.uk/case-studies/capel-le-ferne), accessed May 9
 Harry Gray [Battle of Britain.](https://www.harrygray.co.uk/battle-of-britain), accessed May 8, 2022, .   
 IWM, [The Foxley-Norris Memorial](https://www.iwm.org.uk/memorials/item/memorial/73109), accessed May 9, 2022.   
 Kent County Council[ Exploring Kent's Past](https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=%27mke16509%27), accessed May 8, 2022 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg" label="Battle of Britain Memorial" attribution="MilborneOne, Public domain, via Wikimedia Commons">
