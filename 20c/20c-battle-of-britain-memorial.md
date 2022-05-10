@@ -10,6 +10,7 @@
 #
 
 The Battle of Britain Memorial is situated on top of the White Cliffs at Capel-le-Ferne, near Folkestone. Dedicated to Churchill’s Few, it occupies a special place in the hearts and minds of those who have visited the site. It commemorates the Battle of Britain which took place in the skies above London and the South East between 10 July – 31 October 1940.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg" label="Battle of Britain Memorial" attribution="MilborneOne, Public domain, via Wikimedia Commons">
 <param ve-image url="https://commons.wikimedia.org/wiki/File:Battle_of_Britain_memorial,_Capel-le-Ferne_-_geograph.org.uk_-_2033916.jpg" label="Battle of Britain Memorial, Capel-le-Ferne" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 
 The area around Capel-le-Ferne was of strategic significance during both world wars. RNAS (Royal Naval Air Station) Capel, which later became RAF Folkestone, was a First World War airship station operational from April 1915 until 1919. It had had three airship sheds and a large grass landing area.  Being close to Dover, it was an ideal location for patrolling the Channel. The airships spotted enemy u-boats and escorted shipping across the channel. During the Second World War, two 8-inch-high performance guns were positioned on top of the cliffs - one at Capel-le-Ferne and the other at Hougham. These provided anti-shipping defensive fire in the Channel and were successful in engaging enemy shipping targets at the range of 28,030 metres.
