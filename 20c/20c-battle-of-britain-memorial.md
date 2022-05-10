@@ -27,7 +27,7 @@ In 2015, the final touches were added to the visitor centre, renamed "The Wing" 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Capel-le-Ferne%2C_Battle_of_Britain_Memorial_-_geograph.org.uk_-_2207729.jpg" label="Capel-le-Ferne, Battle of Britain Memorial" attribution="Helmut Zozmann" license="CC BY-SA 2.0">
 
 The memorial in its entirety, is a very poignant reminder of what Britain faced during the Second World War. 
-In the very famous words of Sir Winston Churchill; “Never in the field of human conflict was so much owed by so many to so few”
+In the very famous words of Sir Winston Churchill: “Never in the field of human conflict was so much owed by so many to so few.”
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/Winston_Churchill_studies_after_action_reports_with_Vice_Admiral_Sir_Bertram_Ramsay%2C_Flag_Officer_Comanding_Dover%2C_28_August_1940._H3508.jpg" label="Winston Churchill studies after action reports with Vice Admiral Sir Bertram Ramsay, Flag Officer Comanding Dover, 28 August 1940" attribution="War Office official photographer, Horton (Capt), Public domain, via Wikimedia Commons, This is photograph H 3508 from the collections of the Imperial War Museums">
 
 ### Bibliography
