@@ -3,7 +3,7 @@
 <param ve-config 
        title="M. R. James OM FBA (1 August 1862 – 12 June 1936)"
        author="Danny Rhodes"
-       banner="/banners/images/19c.jpg" 
+       banner="/images/banners/19c.jpg"
        layout="vertical"
        num-maps="2"
        num-images="4">
@@ -24,7 +24,7 @@ Despite this reticence, he is widely known and referred to as the 'master of the
 A number of James's ghost stories have been adapted for television and film. Following the 1968 adaptation of _Whistle and I'll Come to You_ (1968) directed by Jonathan Miller and starring Michael Hordern as Professor Parkin, the BBC broadcast the series _A Ghost Story for Christmas_ between 1971 and 1978, dramatising five MR James stories _The Stalls of Barchester Cathedral_ (1971), _A Warning to the Curious_ (1972), _Lost Hearts_ (1973), _The Treasure of Abbot Thomas_ (1974) and _The Ash Tree_ (1975). More recent BBC adaptations are _A View From a Hill_ (2005), _Number 13_ (2006), _Whistle and I'll Come to You_ (2010), _The Tractate Middoth_ (2013) and _Martin's Close_ (2019).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/18/Whistle_and_I%27ll_come_to_you_illustration.jpg" label="Whistle and I'll come to you" attribution="James McBryde, Public domain, via Wikimedia Commons">
 
-James's story _Casting the Runes_ inspired the film _Night of the Demon_ (1957). In the story Karswell, an alchemist and occultist, takes the train to Dover en route to the Continent. As he arrives in Dover, the ghostly apparition of John Harrington, a book reviewer who died in a freak accident after he was cursed by Karswell, is spotted by a railway official. When the official calls out: 'You, sir, beg pardon, did the other gentleman show his ticket?' Karswell snarls angrily: 'What the devil do you mean by the other gentleman?' The railway official puzzles about what he has seen and 'In five minutes more there was nothing but the lessening lights of the boat, the long line of the Dover lamps, the night breeze, and the moon.'
+James's story _Casting the Runes_ inspired the film _Night of the Demon_ (1957). In the story, Karswell, an alchemist and occultist, takes the train to Dover en route to the Continent. As he arrives in Dover, the ghostly apparition of John Harrington, a book reviewer who died in a freak accident after he was cursed by Karswell, is spotted by a railway official. When the official calls out: 'You, sir, beg pardon, did the other gentleman show his ticket?' Karswell snarls angrily: 'What the devil do you mean by the other gentleman?' The railway official puzzles about what he has seen and 'In five minutes more there was nothing but the lessening lights of the boat, the long line of the Dover lamps, the night breeze, and the moon.'
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/The_former_Marine_Station%2C_Dover_-_geograph.org.uk_-_735239.jpg" label="The former marine station" attribution="John Mavin, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ### Notable works (Ghost stories)  
