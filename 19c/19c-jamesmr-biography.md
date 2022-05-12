@@ -17,8 +17,8 @@ He was an eminent medieval scholar, a writer of ghost stories, Provost of King's
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MRJames1900.jpg/330px-MRJames1900.jpg" label="M.R. James, 1900" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 A number of James's ghost stories have been adapted for television and film. Following the 1968 adaptation of _Whistle and I'll Come to You_ (1968) directed by Jonathan Miller and starring Michael Hordern as Professor Parkin, the BBC broadcast the series _A Ghost Story for Christmas_ between 1971 and 1978, dramatising five MR James stories _The Stalls of Barchester Cathedral_ (1971), _A Warning to the Curious_ (1972), _Lost Hearts_ (1973), _The Treasure of Abbot Thomas_ (1974) and _The Ash Tree_ (1975). More recent BBC adaptations are _A View From a Hill_ (2005), _Number 13_ (2006), _Whistle and I'll Come to You_ (2010), _The Tractate Middoth_ (2013) and _Martin's Close_ (2019).
-<br>
-James's story _Casting the Runes_ inspired the film _Night of the Demon_ (1957).
+<br><br>
+James's story _Casting the Runes_ inspired the film _Night of the Demon_ (1957). In the story Karswell, an alchemist and occultist, takes the train to Dover en route to the Continent. As he arrives in Dover, the ghostly apparition of John Harrington, a book reviewer who died in a freak accident after he was cursed by Karswell, is spotted by a railway official. When the official calls out: 'You, sir, beg pardon, did the other gentleman show his ticket?' Karswell snarls angrily: 'What the devil do you mean by the other gentleman?' The railway official puzzles about what he has seen and 'In five minutes more there was nothing but the lessening lights of the boat, the long line of the Dover lamps, the night breeze, and the moon.'
 
 A prolific academic, James largely dismissed his tales. 'These stories are meant to please and amuse us,' he writes in his essay Ghosts -- Treat Them Gently (Evening News – 17th April 1931). 'If they do so, well; but, if not, let us relegate them to the top shelf and say no more about it.'
 <br>
