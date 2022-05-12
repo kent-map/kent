@@ -1,15 +1,17 @@
-Wateringbury
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<param ve-config title="Wateringbury" author="Nathalie Pietersen" layout="vtl" banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q375314" aliases="Folkestone">
+
+
+#
 
 Wateringbury is a quaint village close to Maidstone. The views are exquisite and the cottages will have you standing in awe. Everywhere you look there is another beautiful thing hidden away down a country road. Wandering its streets, it is not difficult to imagine how things might have been years ago, and the scattering of wrought iron gates hint of wonders within. As you walk the paths others have trodden for hundreds of years, Wateringbury will simply charm your socks off.
 
  
-
-
 Opposite you will see an illustrated, interactive map of Wateringbury. Clicking on the illustrations on the map will open up specific information and photographs relating to each landmark. See the key below for an explanation of what each icon relates too:
 
-The Lock up and Stocks
- 
- 
+**The Lock up and Stocks**   
 Previously known as the village cage and stocks, before 1846, this was a wooden structure used to hold disturbers of the peace. In 1846 it was upgraded to a sturdier brick building, after a ‘tramp’ (who had been detained for stealing cherries from the Reverend’s garden) had been broken out and escaped to freedom. Once the County Police was established the building was seldom used as Prisoners were taken to Malling where the station was situated. These two items set up echoes of a different time. A harder time. Almost two hundred years ago. Can you imagine wandering past an unfortunate soul with his head and arms in the stocks?
 Below is an image of the previous structure as remembered by Rev Henry Harris around 1840:
  
@@ -19,29 +21,21 @@ George Newman was a boy when both the Lock Up and Stocks were in use and says:
 Later in the 1850’s, the Lock Up is recorded to have been used to house a hand cart used by the person who was to look after the streetlights and keep the village tidy. 
 
 
-Library phone box
+**Library phone box**   
 Here you will find a British red phone box, although inside you will find no phone, just shelves of books. Like the Tardis, there is no telling where it may sweep you off to. Chose a book and allow yourself to be taken elsewhere. Why not take one and wander into the countryside to sit and read, or head off to the café close by and read while you sip your tea. To return, just drop your book in the ‘returns bin’ provided to the left.
 
-  
-
-Café
+**Café**   
 On the cross roads you will find a charming café called ‘Where Memories Meet.’ It houses a tea room and an antiques/vintage centre. Inside this quaint tea shop you can sit for hours, soaking up the ambience. The vintage style of items scattered around add to the ancient aroma. No less charming than the rest of the village, just with a delicious menu for added dimension.
  
 
 
-Pipeline
- 
+**Pipeline**   
 This relic of wartime Britain is buried underground, but it pulls you deeper into history.
 
-Pillbox
+**Pillbox**   
 On first glance it just looks like an old wall, but once you know it is there you can imagine the opening, now overgrown, and the soldiers inside it, guns ready, watching over the crossroads. Imagine, if you will, a convoy of tanks making its way across and passing by wartime Britain.
 
- 
-
-
-
-Footpath
- 
+**Footpath**
 Up this track there is a footpath which takes you along a narrow track, through fruit orchards. If you have a sharp eye, you might glimpse some beehives. As you walk gently uphill you can look back over the valley. You will come to a footpath crossing. 
  
 If you take the left path, you will pass a disused oast house. The path then joins with Canon Road. Turn left back down to the main street. 
@@ -49,12 +43,7 @@ If you take the left path, you will pass a disused oast house. The path then joi
 The footpath to the right will take you through Red Hill Farm, passing a pop-up wine bar on your way through and meeting with the road on Red Hill where you turn right and meet the main street again.
  Or go straight on to see where the forest leads. Bring your walking shoes though, there is some distance to be covered here.
 
- 
-
-
-Mattias Prime Lucas
-
- 
+**Mattias Prime Lucas**   
 Beside an impressive wrought iron gate you will see a blue plaque mounted to the left gate post. This is the home of Mattias Prime Lucas. From the gate and stretching off to the left is a large stone wall, topped with Victorian iron railings. It stretches on and on, right to Canon Road. A look through the gate reveals rugged countryside, a dotting of trees and the drive leading to the main house. If you walk along the grand outer wall, you might snatch a glimpse here and there of the gardens which lie within. A pond, stone garden steps, manicured lawns... Standing outside you can almost feel the energy of wealth and grandeur within. And what would you expect from a man who was the Mayor of London? 
 Below is a 19th century photograph of what lies behind the gates. Wateringbury Place.
  
@@ -68,29 +57,19 @@ Mattias became a part of The Watermans Company and in 1798 (at age 37) when news
 This rallied group of volunteer defenders of their country went on to become the Corps or River Fencibles, a militia which grew into multiple districts. Mattias, who became commander of the river fencibles, was involved in organising the river procession which escorted the barge carrying the body of Lord Nelson to the Admiralty. He was elected Sheriff of London in 1822 (at 61 years old) and in 1827 become the Lord Mayor (age 66). In 1841 he signed the Lee Petition, one of the movements attempting to abolish slavery. Mattias invested heavily in Wateringbury and many of the buildings today are down to his investment. He also built a school for the poorer inhabitants of the town.
 
 
-William Rutter Dawes
-
- 
-
- 
-
+**William Rutter Dawes**   
 Between 1850 and 1857 William Rutter Dawes occupied one of the residencies of Wateringbury. His name can be seen on a plaque marking his home just off the point where Mill Lane and Love Lane meet. William was known for his Astronomical discoveries. A Physician by profession, he later gave up this practice to manage his own private observatories. William was known for his extensive measurements of double stars, an early discovery of Jupiter’s red spot, exceptionally accurate drawings of Mars, and as one of the discoverers of one of the dark rings of Saturn. In 1855 he was awarded the Gold Medal of the Royal Astronomical Society, their highest award.
  
 (mikeoates, 2022)
 
 
-Mill Pond
+**Mill Pond**
 A pond quietly rests, surrounded by domestic relics. Another gem in Wateringbury’s trove, peacefully hidden away down Love Lane. There are a cluster of historic houses just opposite.
- 
 
-
-
-Footpath
-
+**Footpath**   
 As you get to the end of Love Lane and continue past the place where it meets with Mill Lane, you will find this footpath leading off into the country.
  
-
-The Thatched house
+**The Thatched house**
  
 (Wikipedia, 2022)
 At the end of Mill Lane is an intriguing building which looks like as if it belonged on a white sandy beach. The Thatched House, previously known as ‘The Swiss Cottage’, was inspired by a Swiss chalet and one of Mattias Prime Lucas’ contributions to the Village. On the gate post you will see a blue plaque depicting the name Lady Lena Campbell Login.
@@ -101,7 +80,8 @@ Scottish by birth, Lena went to visit her brother who was serving in India. Year
 (Whiting, 2013)
 
 Lena, having been very close to the action, wrote a book about what she had witnessed and experienced surrounding Duleep and the koh-i- noor diamond while living in the Thatched House in around 1900. A book aptly titled ‘Sir John Logan and Duleep Singh.’
-Dame Ellen Terry
+
+**Dame Ellen Terry**
  
 (Britannica.com, 2022)
 
@@ -122,17 +102,8 @@ As her acting career began to run its course Ellen began a tour lecturing on Sha
 Dame [Ellen Terry]( /20c/20c-terry-biography) died in 1928 at the age of 81 but her legacy lives on. She is celebrated and remembered. Joanna Lumley remarked that in a time when being an actress was little more than being a whore, she transformed that stigma and made acting into a respectful art and a fine and aspirational thing to do. REF?
 There are numerous works in cinema, painting and poetry which survive on, keeping the memory of Dame Ellen Terry alive. A remarkable woman, Ellen would not be contained and repressed by an unfair cultural expectation, but made her own way, and in so doing, prepared a way for other women to break free and follow their own hearts.
 
-
-
-
-
-   John Beal Jude
- 
+**John Beal Jude**
 John Beal Jude was the founder of the Kent brewery, one of the two significant breweries in Wateringbury. Quite the businessman, John also branched out into coal and farming. He founded Kent brewery in 1833 which was then situated on Bow Road but no longer stands. In 1857 John purchased the Broomcrofts estate on Cannon Lane, and grew to be a wealthy land and property owner.
-
-
-
-
 
 John Beal Jude:
  
@@ -209,10 +180,9 @@ Bow Bridge now:
 
 
 
-Bibliography
+### Bibliography
 
-
-Boissoneault. L. “Smithsonian Magazine”, The True Story of the Kooh-i-noor Diamond – and Why the British Wont Give it Back, 2017, https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/
+Boissoneault. L. “Smithsonian Magazine”, [The True Story of the Kooh-i-noor Diamond – and Why the British Wont Give it Back, 2017,]( https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)
 
 “Amazon”, Sir John Login and Duleep Singh, 2022, www.amazon.co.uk/Sir-John-Login-Duleep-Singh/dp/1298539706 Edition needed
 Gillham.J, Wateringbury Remembered, 2008, wateringbury.blogspot.com/search?q=Bow+Road
@@ -220,15 +190,11 @@ Gillham.J, Wateringbury Remembered, 2008, wateringbury.blogspot.com/search?q=Bow
 Hall. G, “Mike Oates”, William Rutter Dawes (1799 – 1868), mikeoates.org/astro-history/dawes.htm
 “Wikipedia”, Lena, Lady Login, 2022, en.wikipedia.org/wiki/Lena,_Lady_Login Alternative source?
 
-
-“National Acrhives”, Sea Fencibles Pay list, 2022, discovery.nationalarchives.gov.uk/details/r/C1737
+“National Archives”, [Sea Fencibles Pay list](discovery.nationalarchives.gov.uk/details/r/C1737), 2022, 
 
 “National Trust”, Joanna Lumley Honours Actress Ellen Terry at the National Trust’s Barn Theatre, Youtube, www.youtube.com/watch?v=Wgj9RE2mmxQ
 
-
 Stewart. J.I.M, Weintraub. S, “Britannica”, International Importance of George Bernard Shaw, www.britannica.com/biography/George-Bernard-Shaw/International-importance Alternative source?
-
-
 
 “The Royal Society”, Fellows, 2022, royalsociety.org/fellows/?gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VvVdyjQVx13xbXVoH7u5Z3LiYwiIzNf-fnkIrlC79JQiH___qZivIAaAkEYEALw_wcB
 
@@ -237,17 +203,8 @@ Manvel. R, “Britannica”, Ellen Terry,  www.britannica.com/biography/Ellen-Te
 
 “Watts Gallery”, Ellen Terry The Painters Actress, Youtube, 2014, www.youtube.com/watch?v=yQnqHpfoZLk
 
-
 “Watts Gallery”, The Watts Story, 2022, https://www.wattsgallery.org.uk/about-us/watts-story/#:~:text=George%20Frederic%20Watts%20OM%2C%20RA,him%20the%20title%20England's%20Michelangelo 
-
 
 “Where Memories Meet.com”, Welcome to where memories meet, 2022, www.wherememoriesmeet.com/
 
-
 Whiting, D. “Wateringbury, In the Steps of George Newman and Beyond.” Mike Whiting, 2013
-
-
-
-
-,
-
