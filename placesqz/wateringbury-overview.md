@@ -1,8 +1,7 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Wateringbury" author="Nathalie Pietersen" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="Wateringbury" author="Natalie Pietersen" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
-
 
 #
 
