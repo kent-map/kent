@@ -15,10 +15,8 @@ Montague Rhodes James was born at Goodnestone Parsonage on the 1 August 1862, th
 
 He was an eminent medieval scholar, a writer of ghost stories, Provost of King's College, Cambridge (1905-1918) and Eton College (1918-1936) and Vice-Chancellor of the University of Cambridge (1913-1915).
 
-A tenuous Kent link perhaps as James moved to Great Livermere, Suffolk aged 3. His father was a clergyman and took up a new post there.
-
 A number of James's stories have been adapted for television and film. Following the 1968 adaptation of Whistle and I'll Come to You (1968) directed by Jonathan Miller and starring Michael Hordern as Professor Parkin, the BBC broadcast the series A Ghost Story for Christmas between 1971 and 1978, dramatising five MR James stories _The Stalls of Barchester Cathedral_ (1971), _A Warning to the Curious_ (1972), _Lost Hearts_ (1973), _The Treasure of Abbot Thomas_ (1974) and _The Ash Tree_ (1975). More recent BBC adaptations are _A View From a Hill_ (2005), _Number 13_ (2006), _Whistle and I'll Come to You_ (2010), _The Tractate Middoth_ (2013) and _Martin's Close_ (2019).
-
+<br>
 James's story _Casting the Runes_ inspired the film _Night of the Demon_ (1957).
 
 A prolific academic, James largely dismissed his tales. 'These stories are meant to please and amuse us,' he writes in his essay Ghosts -- Treat Them Gently (Evening News – 17th April 1931). 'If they do so, well; but, if not, let us relegate them to the top shelf and say no more about it.'
