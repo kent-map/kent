@@ -7,6 +7,7 @@
 
 Wateringbury is a quaint village close to Maidstone. The views are exquisite and the cottages will have you standing in awe. Everywhere you look there is another beautiful thing hidden away down a country road. Wandering its streets, it is not difficult to imagine how things might have been years ago, and the scattering of wrought iron gates hint of wonders within. As you walk the paths others have trodden for hundreds of years, Wateringbury will simply charm your socks off.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Wateringbury_Village_Sign_-_geograph.org.uk_-_2490156.jpg" label="Waterbingbury Village Sign" attribution="David Anstiss via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-map url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
  
 **The Lock up and Stocks**   
 Previously known as the village cage and stocks, before 1846, this was a wooden structure used to hold disturbers of the peace. In 1846 it was upgraded to a sturdier brick building, after a ‘tramp’ (who had been detained for stealing cherries from the Reverend’s garden) had been broken out and escaped to freedom. Once the County Police was established the building was seldom used as Prisoners were taken to Malling where the station was situated. These two items set up echoes of a different time. A harder time. Almost two hundred years ago. Can you imagine wandering past an unfortunate soul with his head and arms in the stocks?
@@ -16,9 +17,9 @@ George Newman was a boy when both the Lock Up and Stocks were in use and says:
 ‘I well remember them both, and though I never saw anyone in the stocks, I used often to go with other boys and look through the little barred window of the cage at someone who had been confined there for drunkenness or other misdemeanour.’ (Whiting, 2013)
 Later in the 1850’s, the Lock Up is recorded to have been used to house a hand cart used by the person who was to look after the streetlights and keep the village tidy. 
 
-
 **Library phone box**   
 Here you will find a British red phone box, although inside you will find no phone, just shelves of books. Like the Tardis, there is no telling where it may sweep you off to. Chose a book and allow yourself to be taken elsewhere. Why not take one and wander into the countryside to sit and read, or head off to the café close by and read while you sip your tea. To return, just drop your book in the ‘returns bin’ provided to the left.
+<param ve-image url="https://stor.artstor.org/stor/fc3cbba7-3546-4450-b830-e4b25a675640" attribution="Natalie Pietersen">
 
 **Café**   
 On the cross roads you will find a charming café called ‘Where Memories Meet.’ It houses a tea room and an antiques/vintage centre. Inside this quaint tea shop you can sit for hours, soaking up the ambience. The vintage style of items scattered around add to the ancient aroma. No less charming than the rest of the village, just with a delicious menu for added dimension.
@@ -39,9 +40,7 @@ The footpath to the right will take you through Red Hill Farm, passing a pop-up 
 
 **Mattias Prime Lucas**   
 Beside an impressive wrought iron gate you will see a blue plaque mounted to the left gate post. This is the home of Mattias Prime Lucas. From the gate and stretching off to the left is a large stone wall, topped with Victorian iron railings. It stretches on and on, right to Canon Road. A look through the gate reveals rugged countryside, a dotting of trees and the drive leading to the main house. If you walk along the grand outer wall, you might snatch a glimpse here and there of the gardens which lie within. A pond, stone garden steps, manicured lawns... Standing outside you can almost feel the energy of wealth and grandeur within. And what would you expect from a man who was the Mayor of London? 
-Below is a 19th century photograph of what lies behind the gates. Wateringbury Place.
- 
-(Whiting, 2013)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wateringbury_Place-geograph.org-2985200.jpg" label="Wateringbury Place" attribution="Robin Webster, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Mattias was born in London in 1761. In 1776 (at age 15) he began as an apprentice lighterman working on the Thames. He did this with his Father, the lighterman trade being mostly a job passed down the family line. This job involved transferring goods from import ships to the dock. Mattias was said to have been a hard worker and here began the accumulation of his wealth:
 ‘Through his industrious habits and success in business, Mattias started to realise an immense fortune.’ (Newman, 2013)
