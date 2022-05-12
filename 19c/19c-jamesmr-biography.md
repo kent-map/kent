@@ -11,6 +11,7 @@
 <param ve-entity eid="Q2095630" title="William Dyce" aliases="Dyce’s">
 
 Montague Rhodes James was born at Goodnestone Parsonage on the 1 August 1862, the son of a   a clergyman. (The parsonage was once owned by Joanna Lumley, who claimed it was haunted). The family moved to Great Livermere, Suffolk when M.R. James was aged 3. when his father took up a new post.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4e/View_of_the_interior_of_Holy_Cross_church_-_geograph.org.uk_-_2570881.jpg" label="View of the interior of Holy Cross Church, Goodnestone" attribution="Nick Smith, via Wikimedia Commons" attribution="CC BY-SA 2.0">
 
 He was an eminent medieval scholar, a writer of ghost stories, Provost of King's College, Cambridge (1905-1918) and Eton College (1918-1936) and Vice-Chancellor of the University of Cambridge (1913-1915).
 
