@@ -30,6 +30,6 @@ On February 23rd 2012 the Royal Mail released a stamp featuring James as part it
 
 _Ghost Stories of an Antiquary_ (1904)   
 _More Ghost Stories_ (1911)   
-_A Thin Ghost and Others_ (1919)
+_A Thin Ghost and Others_ (1919)   
 _A Warning to the Curious and Other Ghost Stories_ (1925)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/A_Thin_Ghost_and_Others_-_MR_James.jpg" label="A Thin Ghost and Others" attribution="M.R James, Public domain, via Wikimedia Commons">
