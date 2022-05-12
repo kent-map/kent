@@ -6,16 +6,13 @@
 #
 
 Wateringbury is a quaint village close to Maidstone. The views are exquisite and the cottages will have you standing in awe. Everywhere you look there is another beautiful thing hidden away down a country road. Wandering its streets, it is not difficult to imagine how things might have been years ago, and the scattering of wrought iron gates hint of wonders within. As you walk the paths others have trodden for hundreds of years, Wateringbury will simply charm your socks off.
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Wateringbury_Village_Sign_-_geograph.org.uk_-_2490156.jpg" label="Waterbingbury Village Sign" attribution="David Anstiss via Wikimedia Commons" license="CC BY-SA 2.0">
  
-Opposite you will see an illustrated, interactive map of Wateringbury. Clicking on the illustrations on the map will open up specific information and photographs relating to each landmark. See the key below for an explanation of what each icon relates too:
-
 **The Lock up and Stocks**   
 Previously known as the village cage and stocks, before 1846, this was a wooden structure used to hold disturbers of the peace. In 1846 it was upgraded to a sturdier brick building, after a ‘tramp’ (who had been detained for stealing cherries from the Reverend’s garden) had been broken out and escaped to freedom. Once the County Police was established the building was seldom used as Prisoners were taken to Malling where the station was situated. These two items set up echoes of a different time. A harder time. Almost two hundred years ago. Can you imagine wandering past an unfortunate soul with his head and arms in the stocks?
-Below is an image of the previous structure as remembered by Rev Henry Harris around 1840:
- 
-(Whiting, 2013)
+<br><br>
 George Newman was a boy when both the Lock Up and Stocks were in use and says:
+<br><br>
 ‘I well remember them both, and though I never saw anyone in the stocks, I used often to go with other boys and look through the little barred window of the cage at someone who had been confined there for drunkenness or other misdemeanour.’ (Whiting, 2013)
 Later in the 1850’s, the Lock Up is recorded to have been used to house a hand cart used by the person who was to look after the streetlights and keep the village tidy. 
 
@@ -26,8 +23,6 @@ Here you will find a British red phone box, although inside you will find no pho
 **Café**   
 On the cross roads you will find a charming café called ‘Where Memories Meet.’ It houses a tea room and an antiques/vintage centre. Inside this quaint tea shop you can sit for hours, soaking up the ambience. The vintage style of items scattered around add to the ancient aroma. No less charming than the rest of the village, just with a delicious menu for added dimension.
  
-
-
 **Pipeline**   
 This relic of wartime Britain is buried underground, but it pulls you deeper into history.
 
