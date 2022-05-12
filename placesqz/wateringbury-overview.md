@@ -68,7 +68,7 @@ As you get to the end of Love Lane and continue past the place where it meets wi
 At the end of Mill Lane is an intriguing building which looks like as if it belonged on a white sandy beach. The Thatched House, previously known as ‘The Swiss Cottage’, was inspired by a Swiss chalet and one of Mattias Prime Lucas’ contributions to the Village. On the gate post you will see a blue plaque depicting the name Lady Lena Campbell Login.
 
  
-Scottish by birth, Lena went to visit her brother who was serving in India. Year? There she met and married a Dr. John Login. John would become the guardian of the child ruler of the Sikhs in Punjab. The last maharaja, 10-year-old Duleep Singh. Lena assisted in the care of Duleep and became one of his tutors. Duleep had in his possession a diamond. A coveted diamond with a bloody history. The Koh-I-Noor, this relic had a story of its own. It had changed hands between some powerful rulers and was seen as a symbol of the highest status. Somehow, it ended up in the hands of Queen Victoria, to whom was presented it personally by Duleep. It is a controversial topic and there are rumours that 10-year-old Duleep was forced to give up his diamond by a bullying Britain. The Koh – i – Noor diamond is now a part of the crown jewels.
+Scottish by birth, Lena went to visit her brother who was serving in India. Year? There she met and married a Dr. John Login. John would become the guardian of the child ruler of the Sikhs in Punjab. The last maharaja, 10-year-old Duleep Singh. Lena assisted in the care of Duleep and became one of his tutors. Duleep had in his possession a diamond. A coveted diamond with a bloody history. The Koh-I-Noor, this relic had a story of its own. It had changed hands between some powerful rulers and was seen as a symbol of the highest status. Somehow, it ended up in the hands of [Queen Victoria](19c/19c-victoria-biography), to whom was presented it personally by Duleep. It is a controversial topic and there are rumours that 10-year-old Duleep was forced to give up his diamond by a bullying Britain. The Koh – i – Noor diamond is now a part of the crown jewels.
  
 (Whiting, 2013)
 
@@ -78,7 +78,7 @@ Lena, having been very close to the action, wrote a book about what she had witn
  
 (Britannica.com, 2022)
 
-Alice [Ellen Terry]( /20c/20c-terry-biography) was said to be the most popular actress of her time.
+Alice [Ellen Terry](/20c/20c-terry-biography) was said to be the most popular actress of her time.
 Born into showbusiness in 1847, Ellen hit the ground running, becoming a famous childhood star and rumoured to have been the inspiration for Lewis Carroll’s Alice in Wonderland.
 Her beauty caught the creative eye of several noteworthy artists whom included her in their work. In 1864, at just 16 years of age, she gave up her acting career to marry 47-year-old G. F. Watts, a famous artist of the day who was given the title of ‘England’s Michelangelo.’ Their paths crossed when she had posed of one of his models and he went on to paint a collection of works centered around her. Sadly, the marriage lasted only ten months.
  
@@ -92,7 +92,7 @@ Ellen as Lady Macbeth by John Singer Sargent:
 In around 1890, Ellen worked with playwriter George Bernard Shaw, producing and starring in a number of his productions. Their affiliation blossomed into a written romance exchanged through numerous letters known as ‘the paper courtship’, said to have been ‘one of the most brilliant correspondences in British letter writing.’ (Britannica, 2022)
 In 1907 as Ellen reached 60 she married James Carew, an American actor half her age. This sadly also did not last although they remained friends.
 As her acting career began to run its course Ellen began a tour lecturing on Shakespeare’s heroines.
-Dame [Ellen Terry]( /20c/20c-terry-biography) died in 1928 at the age of 81 but her legacy lives on. She is celebrated and remembered. Joanna Lumley remarked that in a time when being an actress was little more than being a whore, she transformed that stigma and made acting into a respectful art and a fine and aspirational thing to do. REF?
+Dame [Ellen Terry](/20c/20c-terry-biography) died in 1928 at the age of 81 but her legacy lives on. She is celebrated and remembered. Joanna Lumley remarked that in a time when being an actress was little more than being a whore, she transformed that stigma and made acting into a respectful art and a fine and aspirational thing to do. REF?
 There are numerous works in cinema, painting and poetry which survive on, keeping the memory of Dame Ellen Terry alive. A remarkable woman, Ellen would not be contained and repressed by an unfair cultural expectation, but made her own way, and in so doing, prepared a way for other women to break free and follow their own hearts.
 
 **John Beal Jude**
