@@ -74,130 +74,43 @@ Scottish by birth, Lena went to visit her brother who was serving in India. Year
 
 Lena, having been very close to the action, wrote a book about what she had witnessed and experienced surrounding Duleep and the koh-i- noor diamond while living in the Thatched House in around 1900. A book aptly titled ‘Sir John Logan and Duleep Singh.’
 
-**Dame Ellen Terry**
+**Dame Ellen Terry**   
+ Alice [Ellen Terry](/20c/20c-terry-biography) was said to be the most popular actress of her time.
+Born into showbusiness in 1847, Ellen hit the ground running, becoming a famous childhood star and rumoured to have been the inspiration for Lewis Carroll’s Alice in Wonderland. Her beauty caught the creative eye of several noteworthy artists whom included her in their work. In 1864, at just 16 years of age, she gave up her acting career to marry 47-year-old G. F. Watts, a famous artist of the day who was given the title of ‘England’s Michelangelo.’ Their paths crossed when she had posed of one of his models and he went on to paint a collection of works centered around her. Sadly, the marriage lasted only ten months.
  
-(Britannica.com, 2022)
-
-Alice [Ellen Terry](/20c/20c-terry-biography) was said to be the most popular actress of her time.
-Born into showbusiness in 1847, Ellen hit the ground running, becoming a famous childhood star and rumoured to have been the inspiration for Lewis Carroll’s Alice in Wonderland.
-Her beauty caught the creative eye of several noteworthy artists whom included her in their work. In 1864, at just 16 years of age, she gave up her acting career to marry 47-year-old G. F. Watts, a famous artist of the day who was given the title of ‘England’s Michelangelo.’ Their paths crossed when she had posed of one of his models and he went on to paint a collection of works centered around her. Sadly, the marriage lasted only ten months.
- 
-(National Portrait Gallery, 2022)
 Following this unhappy start Ellen eloped with architect and stage designer Edward Godwin with whom she had two children. This lasted three years, then, in 1877, at age 30 she married actor Charles Kelly which also fizzled out after a short while.
 unlike her marital life, Ellen’s acting career hit a high note in 1878 at age 31 when she became the leading lady for Sir Henry Irving, a renowned actor who had been knighted for bringing social acceptance to acting before going on to manage his own theatre, the renowned Lyceum. She remained working with Henry for 24 years.
 Ellen as Lady Macbeth by John Singer Sargent:
  
-(Tate, 2022)
+In around 1890, Ellen worked with playwriter George Bernard Shaw, producing and starring in a number of his productions. Their affiliation blossomed into a written romance exchanged through numerous letters known as ‘the paper courtship’, said to have been ‘one of the most brilliant correspondences in British letter writing.’ 
 
-In around 1890, Ellen worked with playwriter George Bernard Shaw, producing and starring in a number of his productions. Their affiliation blossomed into a written romance exchanged through numerous letters known as ‘the paper courtship’, said to have been ‘one of the most brilliant correspondences in British letter writing.’ (Britannica, 2022)
 In 1907 as Ellen reached 60 she married James Carew, an American actor half her age. This sadly also did not last although they remained friends.
 As her acting career began to run its course Ellen began a tour lecturing on Shakespeare’s heroines.
 Dame [Ellen Terry](/20c/20c-terry-biography) died in 1928 at the age of 81 but her legacy lives on. She is celebrated and remembered. Joanna Lumley remarked that in a time when being an actress was little more than being a whore, she transformed that stigma and made acting into a respectful art and a fine and aspirational thing to do. REF?
+
 There are numerous works in cinema, painting and poetry which survive on, keeping the memory of Dame Ellen Terry alive. A remarkable woman, Ellen would not be contained and repressed by an unfair cultural expectation, but made her own way, and in so doing, prepared a way for other women to break free and follow their own hearts.
 
 **John Beal Jude**
 John Beal Jude was the founder of the Kent brewery, one of the two significant breweries in Wateringbury. Quite the businessman, John also branched out into coal and farming. He founded Kent brewery in 1833 which was then situated on Bow Road but no longer stands. In 1857 John purchased the Broomcrofts estate on Cannon Lane, and grew to be a wealthy land and property owner.
 
-John Beal Jude:
- 
-(Newman, 2022)
-Train Station
-Wateringbury Train Station in 1914:
- 
-(Whiting, 2013)
-Wateringbury Train Station now:
- 
 The first train to land in Wateringbury was in the year 1844. There was a grand celebration with guests including Alderman Mattias Lucas and the band of 16th lancers, a cavalry regiment in the British Army. Around 6 years later the train station was built in the Tudor Gothic style and is now a grade II listed building. The station still holds much of its historic charm and overlooks the countryside. Even if you have no train to catch, its worth the walk down Bow Road to see this splendid building and take in the views.
  
-
 Wateringbury in an intriguing place, whose patrons are as intriguing as its architecture. For more information on Wateringbury see Dail Whiting’s book: In the steps George Newman and Beyond, or see the website ‘Wateringbury Remembered’.
-
-
-Then and Now
-Gransden 1912:
- 
-(Whiting, 2013)
-Gransden now:
- 
-
-
-
-
-
-
-Church 1904:
- 
-(Whiting, 2013)
-Church now:
- 
-
-
-
-Thatched House in the 1940’s:
-
- 
-(Whiting, 2013)
-
-Thatched House now:
- 
-
-
-Bow Road 1915:
- 
-(Whiting, 2013)
-Bow Road now:
- 
-
-
-
-
-
-Victorian Houses 1916:
- (Whiting, 2013)
-
-Victorian Houses now:
- 
-
-
-
-
-
-Bow Bridge 1906:
- 
-(Whiting, 2013)
-Bow Bridge early 20th Centuary:
- 
-Bow Bridge now:
- 
-
-
-
 
 ### Bibliography
 
-Boissoneault. L. “Smithsonian Magazine”, [The True Story of the Kooh-i-noor Diamond – and Why the British Wont Give it Back, 2017,]( https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)
-
+Boissoneault. L. “Smithsonian Magazine”, [The True Story of the Kooh-i-noor Diamond – and Why the British Wont Give it Back, 2017,]( https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)   
 “Amazon”, Sir John Login and Duleep Singh, 2022, www.amazon.co.uk/Sir-John-Login-Duleep-Singh/dp/1298539706 Edition needed
-Gillham.J, Wateringbury Remembered, 2008, wateringbury.blogspot.com/search?q=Bow+Road
-
+Gillham.J, Wateringbury Remembered, 2008, wateringbury.blogspot.com/search?q=Bow+Road   
 Hall. G, “Mike Oates”, William Rutter Dawes (1799 – 1868), mikeoates.org/astro-history/dawes.htm
-“Wikipedia”, Lena, Lady Login, 2022, en.wikipedia.org/wiki/Lena,_Lady_Login Alternative source?
-
-“National Archives”, [Sea Fencibles Pay list](discovery.nationalarchives.gov.uk/details/r/C1737), 2022, 
-
-“National Trust”, Joanna Lumley Honours Actress Ellen Terry at the National Trust’s Barn Theatre, Youtube, www.youtube.com/watch?v=Wgj9RE2mmxQ
-
-Stewart. J.I.M, Weintraub. S, “Britannica”, International Importance of George Bernard Shaw, www.britannica.com/biography/George-Bernard-Shaw/International-importance Alternative source?
-
-“The Royal Society”, Fellows, 2022, royalsociety.org/fellows/?gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VvVdyjQVx13xbXVoH7u5Z3LiYwiIzNf-fnkIrlC79JQiH___qZivIAaAkEYEALw_wcB
-
-“Wateringbury Local History Society”, Wateringbury Boy at Trafalgar 1805, 2013, sites.google.com/site/wateringburylocalhistory/topics/people/wateringbury-boy-at-trafalgar1805
-Manvel. R, “Britannica”, Ellen Terry,  www.britannica.com/biography/Ellen-Terry
-
-“Watts Gallery”, Ellen Terry The Painters Actress, Youtube, 2014, www.youtube.com/watch?v=yQnqHpfoZLk
-
+“Wikipedia”, Lena, Lady Login, 2022, en.wikipedia.org/wiki/Lena,_Lady_Login Alternative source?   
+“National Archives”, [Sea Fencibles Pay list](discovery.nationalarchives.gov.uk/details/r/C1737), 2022,    
+“National Trust”, Joanna Lumley Honours Actress Ellen Terry at the National Trust’s Barn Theatre, Youtube, www.youtube.com/watch?v=Wgj9RE2mmxQ   
+Stewart. J.I.M, Weintraub. S, “Britannica”, International Importance of George Bernard Shaw, www.britannica.com/biography/George-Bernard-Shaw/International-importance Alternative source?   
+“The Royal Society”, Fellows, 2022, royalsociety.org/fellows/?gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VvVdyjQVx13xbXVoH7u5Z3LiYwiIzNf-fnkIrlC79JQiH___qZivIAaAkEYEALw_wcB   
+“Wateringbury Local History Society”, Wateringbury Boy at Trafalgar 1805, 2013, sites.google.com/site/wateringburylocalhistory/topics/people/wateringbury-boy-at-trafalgar1805   
+Manvel. R, “Britannica”, Ellen Terry,  www.britannica.com/biography/Ellen-Terry   
+“Watts Gallery”, Ellen Terry The Painters Actress, Youtube, 2014, www.youtube.com/watch?v=yQnqHpfoZLk   
 “Watts Gallery”, The Watts Story, 2022, https://www.wattsgallery.org.uk/about-us/watts-story/#:~:text=George%20Frederic%20Watts%20OM%2C%20RA,him%20the%20title%20England's%20Michelangelo 
-
-“Where Memories Meet.com”, Welcome to where memories meet, 2022, www.wherememoriesmeet.com/
-
-Whiting, D. “Wateringbury, In the Steps of George Newman and Beyond.” Mike Whiting, 2013
+“Where Memories Meet.com”, Welcome to where memories meet, 2022, www.wherememoriesmeet.com/   
+Whiting, D. “Wateringbury, In the Steps of George Newman and Beyond.” Mike Whiting, 2013   
