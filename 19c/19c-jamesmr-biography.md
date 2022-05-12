@@ -10,10 +10,10 @@
 
 <param ve-entity eid="Q2095630" title="William Dyce" aliases="Dyce’s">
 
-Montague Rhodes James was born at Goodnestone Parsonage on the 1 August 1862, the son of a   a clergyman. (The parsonage was once owned by Joanna Lumley, who claimed it was haunted). The family moved to Great Livermere, Suffolk when M.R. James was aged 3. when his father took up a new post.
+Montague Rhodes James was born at Goodnestone Parsonage on the 1 August 1862, the son of Herbert James, a clergyman and Mary Emily (née Horton). (The parsonage was once owned by Joanna Lumley, who claimed it was haunted). The family moved to Great Livermere, Suffolk when M.R. James was aged 3. when his father took up a new post.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4e/View_of_the_interior_of_Holy_Cross_church_-_geograph.org.uk_-_2570881.jpg" label="View of the interior of Holy Cross Church, Goodnestone" attribution="Nick Smith, via Wikimedia Commons" attribution="CC BY-SA 2.0">
 
-He was an eminent medieval scholar, a writer of ghost stories, Provost of King's College, Cambridge (1905-1918) and Eton College (1918-1936) and Vice-Chancellor of the University of Cambridge (1913-1915).
+He was an eminent medieval scholar, a writer of ghost stories, Provost of King's College, Cambridge (1905-1918) and Eton College (1918-1936) and Vice-Chancellor of the University of Cambridge (1913-1915). His work _The ancient libraries of Canterbury and Dover. The catalogues of the libraries of Christ church priory and St. Augustine's abbey at Canterbury and of St. Martin's priory at Dover_ was published in 1903.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MRJames1900.jpg/330px-MRJames1900.jpg" label="M.R. James, 1900" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 A number of James's stories have been adapted for television and film. Following the 1968 adaptation of _Whistle and I'll Come to You_ (1968) directed by Jonathan Miller and starring Michael Hordern as Professor Parkin, the BBC broadcast the series _A Ghost Story for Christmas_ between 1971 and 1978, dramatising five MR James stories _The Stalls of Barchester Cathedral_ (1971), _A Warning to the Curious_ (1972), _Lost Hearts_ (1973), _The Treasure of Abbot Thomas_ (1974) and _The Ash Tree_ (1975). More recent BBC adaptations are _A View From a Hill_ (2005), _Number 13_ (2006), _Whistle and I'll Come to You_ (2010), _The Tractate Middoth_ (2013) and _Martin's Close_ (2019).
