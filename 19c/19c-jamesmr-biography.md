@@ -14,8 +14,9 @@ Montague Rhodes James was born at Goodnestone Parsonage on the 1 August 1862, th
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4e/View_of_the_interior_of_Holy_Cross_church_-_geograph.org.uk_-_2570881.jpg" label="View of the interior of Holy Cross Church, Goodnestone" attribution="Nick Smith, via Wikimedia Commons" attribution="CC BY-SA 2.0">
 
 He was an eminent medieval scholar, a writer of ghost stories, Provost of King's College, Cambridge (1905-1918) and Eton College (1918-1936) and Vice-Chancellor of the University of Cambridge (1913-1915).
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MRJames1900.jpg/330px-MRJames1900.jpg" label="M.R. James, 1900" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
-A number of James's stories have been adapted for television and film. Following the 1968 adaptation of Whistle and I'll Come to You (1968) directed by Jonathan Miller and starring Michael Hordern as Professor Parkin, the BBC broadcast the series A Ghost Story for Christmas between 1971 and 1978, dramatising five MR James stories _The Stalls of Barchester Cathedral_ (1971), _A Warning to the Curious_ (1972), _Lost Hearts_ (1973), _The Treasure of Abbot Thomas_ (1974) and _The Ash Tree_ (1975). More recent BBC adaptations are _A View From a Hill_ (2005), _Number 13_ (2006), _Whistle and I'll Come to You_ (2010), _The Tractate Middoth_ (2013) and _Martin's Close_ (2019).
+A number of James's stories have been adapted for television and film. Following the 1968 adaptation of _Whistle and I'll Come to You_ (1968) directed by Jonathan Miller and starring Michael Hordern as Professor Parkin, the BBC broadcast the series _A Ghost Story for Christmas_ between 1971 and 1978, dramatising five MR James stories _The Stalls of Barchester Cathedral_ (1971), _A Warning to the Curious_ (1972), _Lost Hearts_ (1973), _The Treasure of Abbot Thomas_ (1974) and _The Ash Tree_ (1975). More recent BBC adaptations are _A View From a Hill_ (2005), _Number 13_ (2006), _Whistle and I'll Come to You_ (2010), _The Tractate Middoth_ (2013) and _Martin's Close_ (2019).
 <br>
 James's story _Casting the Runes_ inspired the film _Night of the Demon_ (1957).
 
@@ -27,7 +28,8 @@ On February 23rd 2012 the Royal Mail released a stamp featuring James as part it
 
 **Notable works (Ghost stories)**  
 
-Ghost Stories of an Antiquary (1904)   
-More Ghost Stories (1911)   
-A Thin Ghost and Others (1919)   
-A Warning to the Curious and Other Ghost Stories (1925)
+_Ghost Stories of an Antiquary_ (1904)   
+_More Ghost Stories_ (1911)   
+_A Thin Ghost and Others_ (1919)
+_A Warning to the Curious and Other Ghost Stories_ (1925)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/A_Thin_Ghost_and_Others_-_MR_James.jpg" label="A Thin Ghost and Others" attribution="M.R James, Public domain, via Wikimedia Commons">
