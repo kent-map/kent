@@ -24,6 +24,7 @@
 [R. Austin Freeman](20c-freeman-biography)   
 [Cicely Hamilton](20c-hamilton-biography)   
 [Victoria Holt](20c-holt-biography)   
+[M.R. James](20c-jamesmr-biography)   
 [Walter James, the fourth Lord Northbourne](20c-northbourne-biography)   
 [Derek Jarman](20c-jarman-biography)   
 [Somerset Maugham](20c-maugham-biography)  
