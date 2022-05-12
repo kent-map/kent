@@ -1,8 +1,15 @@
-Montague Rhodes James OM FBA
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-British.
+<param ve-config 
+       title="Montague Rhodes James OM FBA (1 August 1862 – 12 June 1936)"
+       author="Danny Rhodes"
+       banner="https://i.imgur.com/T74Vdh9.jpg" 
+       layout="vertical"
+       num-maps="2"
+       num-images="4">
 
-(1 August 1862 – 12 June 1936)
+<param ve-entity eid="Q2095630" title="William Dyce" aliases="Dyce’s">
+
 
 Goodnestone Parsonage. (The parsonage was once owned by Joanna Lumley, who claimed it was haunted).
 
