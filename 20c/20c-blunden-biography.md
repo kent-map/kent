@@ -37,10 +37,8 @@ Blunden had a complicated personal life, marrying several times and moving frequ
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/VE_DAY_Piccadily_1945.jpg" label="Piccadilly Square pictured as supporters celebrate VE Day, May 08, 1945. Photo taken by Sgt. James A. Spence, during his service in World War II." attribution="Mrjspence at English Wikipedia, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 **Bibliography**   
-Poetry Foundation. 2021. Edmund Blunden | Poetry Foundation. [online] Available at: <https://www.poetryfoundation.org/poets/edmund-blunden> [Accessed 10 May 2021].    
-Blunden, E., 2021. Edmund Blunden - Poems by the Famous Poet - All Poetry. [online] Allpoet-ry.com. Available at: <https://allpoetry.com/Edmund-Blunden> [Accessed 11 May 2021].    
-Morrell, L., Whistler, R. and Rothenstein, W., 2019. Search media - Wikimedia Commons. [online] Commons.wikimedia.org. Available at: <https://commons.wikimedia.org/w/index.php?search=edmund+blunden&title=Special:MediaSearch&go=Go&type=image> [Accessed 11 May 2021].   
-My Poetic Side. 2021. Edmund Blunden Poems. [online] Available at: <https://mypoeticside.com/poets/edmund-blunden-poems> [Accessed 16 June 2021].  
+Poetry Foundation. 2021. [Edmund Blunden](https://www.poetryfoundation.org/poets/edmund-blunden). Accessed 10 May 2021. 
+My Poetic Side. 2021. [Edmund Blunden Poems](https://mypoeticside.com/poets/edmund-blunden-poems). Accessed 16 June 2021.  
 Banner image: Manna Oast, Oast Court, Yalding, Kent by Oast House Archive, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
 
 ### References
