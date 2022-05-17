@@ -23,17 +23,19 @@ In 1904, his parents decided to move to Congelow, a larger property just outside
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/YaldingTwyford0529.JPG" label="Twyford Bridge, Yalding" attribution="Clem Rutter, Rochester, Kent, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 In August 1915, Blunden enlisted in the army and experienced the horrors of trench warfare.  He wrote some poetry of his experiences in WW1, but most of his work came in the decades after the war, including his memoir  _Undertones Of War_ in 1928. His poetry focused on the destruction of the French countryside, which reminded him of his native Kent. 
-
+<br><br>
 After the war, Blunden decided to move to London where he began a career in literary journalism. It was at this period that he met Siegfried Sassoon, who was the literary editor at the _Daily Herald_. Sassoon was a fellow poet and war survivor who was born in Matfield, Kent and who shared his love of cricket.  They became life-long friends. He also met Leonard and Virginia Woolf. In 1919 he took up a place at Oxford, but found it difficult to adjust to academic life, and so he returned to work in London. Nevertheless, he was later to return to academia, becoming a professor of English literature at Tokyo University, Hong Kong University and later Professor of Poetry at Oxford.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Siegfried_Sassoon_by_Glyn_Warren_Philpot_1917.jpeg" label="Siegfried_Sassoon by Glyn Warren Philpot 1917" attribution="Glyn Warren Philpot, Public domain, via Wikimedia Commons">
 
 In 1931, Blunden's parents retired to Yalding, leasing Cleave House,[^ref8] and for a few months Blunden stayed with them whilst he edited the poems of war poet Wilfred Owen. He was to spend his university vacations in Yalding over the next few years. Later, his parents moved to The Cottage, Vicarage Road.[^ref9]
-
+<br><br>
 In 1945, his book _English Villages_ was published, in which he described Yalding vividly:
 <br><br>
 'And here, among abundance of chestnuts and elms and cedars and acacias, the village streets begin. They are by no means mathematically planned, but that is a general feature of these villages, resulting in rather more of detached beauty than of entire and immediately observable design. Another characteristic is that many of the best houses are concealed, or partly so, beyond high red walls or thick shrubberies of cherry laurel and boxtree, so that it takes time and a good deal of peeping to find out the pleasures of this parish.'[^ref9]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Close-up_of_Yalding_Village_Sign_%282012%29_-_geograph.org.uk_-_3164900.jpg" label="Yalding Village Sign, 2012" attribution="David Anstiss, via Wikimedia Commons" license=" CC BY-SA 2.0"> 
 
 Blunden had a complicated personal life, marrying several times and moving frequently with work. He spent a short time in Chatham and also Tonbridge where he wrote 'VE Day', which was published after his death. He retired from teaching in 1964 and died ten years later. He is buried in Long Melford, Suffolk.
-<param ve-map center=“Q23111” zoom=“15”>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/VE_DAY_Piccadily_1945.jpg" label="Piccadilly Square pictured as supporters celebrate VE Day, May 08, 1945. Photo taken by Sgt. James A. Spence, during his service in World War II." attribution="Mrjspence at English Wikipedia, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 **Bibliography**   
 Poetry Foundation. 2021. Edmund Blunden | Poetry Foundation. [online] Available at: <https://www.poetryfoundation.org/poets/edmund-blunden> [Accessed 10 May 2021].    
