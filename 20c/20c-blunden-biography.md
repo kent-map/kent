@@ -13,7 +13,7 @@ Edmund Blunden, poet, author and critic, was born on the 1st of November 1896, i
 'Two influences stand out clearly and unmistakably; that of Kent, his native countryside, and that of the war. Mr Blunden is a thorough Kentishman. That probably is why he succeeds so admirably in recreating the very soul and atmosphere of the southern counties.'[^ref1]
 <param ve-map center=“Q2051722” zoom=“15”>
 
-In August 1915, Blunden enlisted in the army and experienced the horrors of trench warfare.  He wrote some poetry of his experiences in WW1, but most of his work came in the decades after the war, including his memoir  _Undertones Of War in 1928_. His poetry focused on the destruction of the French countryside, which reminded him of his native Kent. He also acknowledged that there were moments of happiness even among the slaughter.
+In August 1915, Blunden enlisted in the army and experienced the horrors of trench warfare.  He wrote some poetry of his experiences in WW1, but most of his work came in the decades after the war, including his memoir  _Undertones Of War_ in 1928. His poetry focused on the destruction of the French countryside, which reminded him of his native Kent. He also acknowledged that there were moments of happiness even among the slaughter.
 
 On his return from the front, Blunden was stationed in Suffolk, where he met and married Mary Daines. His Parents continued to live in Yalding at Cleave's House during the 1930s and The Cottage, Vicarage Road in the 1940s, so he still had strong ties to the county.[^ref2] 
 
