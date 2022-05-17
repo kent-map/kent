@@ -49,20 +49,16 @@ Mattias became a part of The Watermans Company and in 1798 (at age 37) when news
 (Whiting, 2013)
 This rallied group of volunteer defenders of their country went on to become the Corps or River Fencibles, a militia which grew into multiple districts. Mattias, who became commander of the river fencibles, was involved in organising the river procession which escorted the barge carrying the body of Lord Nelson to the Admiralty. He was elected Sheriff of London in 1822 (at 61 years old) and in 1827 become the Lord Mayor (age 66). In 1841 he signed the Lee Petition, one of the movements attempting to abolish slavery. Mattias invested heavily in Wateringbury and many of the buildings today are down to his investment. He also built a school for the poorer inhabitants of the town.
 
-
 **William Rutter Dawes**   
 Between 1850 and 1857 William Rutter Dawes occupied one of the residencies of Wateringbury. His name can be seen on a plaque marking his home just off the point where Mill Lane and Love Lane meet. William was known for his Astronomical discoveries. A Physician by profession, he later gave up this practice to manage his own private observatories. William was known for his extensive measurements of double stars, an early discovery of Jupiter’s red spot, exceptionally accurate drawings of Mars, and as one of the discoverers of one of the dark rings of Saturn. In 1855 he was awarded the Gold Medal of the Royal Astronomical Society, their highest award.
  
-(mikeoates, 2022)
-
-
 **Mill Pond**
 A pond quietly rests, surrounded by domestic relics. Another gem in Wateringbury’s trove, peacefully hidden away down Love Lane. There are a cluster of historic houses just opposite.
 
 **Footpath**   
 As you get to the end of Love Lane and continue past the place where it meets with Mill Lane, you will find this footpath leading off into the country.
  
-**The Thatched house**
+**The Thatched house**   
 At the end of Mill Lane is an intriguing building which looks like as if it belonged on a white sandy beach. The Thatched House, previously known as ‘The Swiss Cottage’, was inspired by a Swiss chalet and one of Mattias Prime Lucas’ contributions to the Village. On the gate post you will see a blue plaque depicting the name Lady Lena Campbell Login. Scottish by birth, Lena went to visit her brother who was serving in India. Year? There she met and married a Dr. John Login. John would become the guardian of the child ruler of the Sikhs in Punjab. The last maharaja, 10-year-old Duleep Singh. Lena assisted in the care of Duleep and became one of his tutors. Duleep had in his possession a diamond. A coveted diamond with a bloody history. The Koh-I-Noor, this relic had a story of its own. It had changed hands between some powerful rulers and was seen as a symbol of the highest status. Somehow, it ended up in the hands of [Queen Victoria](19c/19c-victoria-biography), to whom was presented it personally by Duleep. It is a controversial topic and there are rumours that 10-year-old Duleep was forced to give up his diamond by a bullying Britain. The Koh – i – Noor diamond is now a part of the crown jewels.   
 <br>
 Lena, having been very close to the action, wrote a book about what she had witnessed and experienced surrounding Duleep and the koh-i- noor diamond while living in the Thatched House in around 1900. A book aptly titled ‘Sir John Logan and Duleep Singh.’
