@@ -63,19 +63,12 @@ A pond quietly rests, surrounded by domestic relics. Another gem in Wateringbury
 As you get to the end of Love Lane and continue past the place where it meets with Mill Lane, you will find this footpath leading off into the country.
  
 **The Thatched house**
- 
-(Wikipedia, 2022)
-At the end of Mill Lane is an intriguing building which looks like as if it belonged on a white sandy beach. The Thatched House, previously known as ‘The Swiss Cottage’, was inspired by a Swiss chalet and one of Mattias Prime Lucas’ contributions to the Village. On the gate post you will see a blue plaque depicting the name Lady Lena Campbell Login.
-
- 
-Scottish by birth, Lena went to visit her brother who was serving in India. Year? There she met and married a Dr. John Login. John would become the guardian of the child ruler of the Sikhs in Punjab. The last maharaja, 10-year-old Duleep Singh. Lena assisted in the care of Duleep and became one of his tutors. Duleep had in his possession a diamond. A coveted diamond with a bloody history. The Koh-I-Noor, this relic had a story of its own. It had changed hands between some powerful rulers and was seen as a symbol of the highest status. Somehow, it ended up in the hands of [Queen Victoria](19c/19c-victoria-biography), to whom was presented it personally by Duleep. It is a controversial topic and there are rumours that 10-year-old Duleep was forced to give up his diamond by a bullying Britain. The Koh – i – Noor diamond is now a part of the crown jewels.
- 
-(Whiting, 2013)
-
+At the end of Mill Lane is an intriguing building which looks like as if it belonged on a white sandy beach. The Thatched House, previously known as ‘The Swiss Cottage’, was inspired by a Swiss chalet and one of Mattias Prime Lucas’ contributions to the Village. On the gate post you will see a blue plaque depicting the name Lady Lena Campbell Login. Scottish by birth, Lena went to visit her brother who was serving in India. Year? There she met and married a Dr. John Login. John would become the guardian of the child ruler of the Sikhs in Punjab. The last maharaja, 10-year-old Duleep Singh. Lena assisted in the care of Duleep and became one of his tutors. Duleep had in his possession a diamond. A coveted diamond with a bloody history. The Koh-I-Noor, this relic had a story of its own. It had changed hands between some powerful rulers and was seen as a symbol of the highest status. Somehow, it ended up in the hands of [Queen Victoria](19c/19c-victoria-biography), to whom was presented it personally by Duleep. It is a controversial topic and there are rumours that 10-year-old Duleep was forced to give up his diamond by a bullying Britain. The Koh – i – Noor diamond is now a part of the crown jewels.   
+<br>
 Lena, having been very close to the action, wrote a book about what she had witnessed and experienced surrounding Duleep and the koh-i- noor diamond while living in the Thatched House in around 1900. A book aptly titled ‘Sir John Logan and Duleep Singh.’
 
 **Dame Ellen Terry**   
- Alice [Ellen Terry](/20c/20c-terry-biography) was said to be the most popular actress of her time.
+Alice [Ellen Terry](/20c/20c-terry-biography) was said to be the most popular actress of her time.
 Born into showbusiness in 1847, Ellen hit the ground running, becoming a famous childhood star and rumoured to have been the inspiration for Lewis Carroll’s Alice in Wonderland. Her beauty caught the creative eye of several noteworthy artists whom included her in their work. In 1864, at just 16 years of age, she gave up her acting career to marry 47-year-old G. F. Watts, a famous artist of the day who was given the title of ‘England’s Michelangelo.’ Their paths crossed when she had posed of one of his models and he went on to paint a collection of works centered around her. Sadly, the marriage lasted only ten months.
  
 Following this unhappy start Ellen eloped with architect and stage designer Edward Godwin with whom she had two children. This lasted three years, then, in 1877, at age 30 she married actor Charles Kelly which also fizzled out after a short while.
@@ -98,7 +91,6 @@ The first train to land in Wateringbury was in the year 1844. There was a grand 
 Wateringbury in an intriguing place, whose patrons are as intriguing as its architecture. For more information on Wateringbury see Dail Whiting’s book: In the steps George Newman and Beyond, or see the website ‘Wateringbury Remembered’.
 
 ### Bibliography
-
 Boissoneault. L. “Smithsonian Magazine”, [The True Story of the Kooh-i-noor Diamond – and Why the British Wont Give it Back, 2017,]( https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)   
 “Amazon”, Sir John Login and Duleep Singh, 2022, www.amazon.co.uk/Sir-John-Login-Duleep-Singh/dp/1298539706 Edition needed
 Gillham.J, Wateringbury Remembered, 2008, wateringbury.blogspot.com/search?q=Bow+Road   
@@ -111,6 +103,6 @@ Stewart. J.I.M, Weintraub. S, “Britannica”, International Importance of Geor
 “Wateringbury Local History Society”, Wateringbury Boy at Trafalgar 1805, 2013, sites.google.com/site/wateringburylocalhistory/topics/people/wateringbury-boy-at-trafalgar1805   
 Manvel. R, “Britannica”, Ellen Terry,  www.britannica.com/biography/Ellen-Terry   
 “Watts Gallery”, Ellen Terry The Painters Actress, Youtube, 2014, www.youtube.com/watch?v=yQnqHpfoZLk   
-“Watts Gallery”, The Watts Story, 2022, https://www.wattsgallery.org.uk/about-us/watts-story/#:~:text=George%20Frederic%20Watts%20OM%2C%20RA,him%20the%20title%20England's%20Michelangelo 
-“Where Memories Meet.com”, Welcome to where memories meet, 2022, www.wherememoriesmeet.com/   
+“Watts Gallery”, [The Watts Story](https://www.wattsgallery.org.uk/about-us/watts-story/#:~:text=George%20Frederic%20Watts%20OM%2C%20RA,him%20the%20title%20England's%20Michelangelo), 2022, 
+“Where Memories Meet.com”, [Welcome to where memories meet]( www.wherememoriesmeet.com/), 2022,
 Whiting, D. “Wateringbury, In the Steps of George Newman and Beyond.” Mike Whiting, 2013   
