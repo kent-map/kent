@@ -1,11 +1,10 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Edmund Blunden" author="Alice Sellors and Michelle Crowther" layout="vtl" banner="xxx">
+<param ve-config title="Edmund Blunden" author="Alice Sellors and Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Court%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2369693.jpg" attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" license="CC BY-SA 2.0">
 
 <param ve-entity eid=“Q2051722” aliases=“Yalding”>
 <param ve-entity eid=“Q936183” aliases=“Tonbridge”>
 <param ve-entity eid=“Q1000312” aliases=“Sandgate”>
 <param ve-entity eid=“Q729006” aliases=“Chatham”>
-
 
 #
 
@@ -42,6 +41,7 @@ Poetry Foundation. 2021. Edmund Blunden | Poetry Foundation. [online] Available 
 Blunden, E., 2021. Edmund Blunden - Poems by the Famous Poet - All Poetry. [online] Allpoet-ry.com. Available at: <https://allpoetry.com/Edmund-Blunden> [Accessed 11 May 2021].    
 Morrell, L., Whistler, R. and Rothenstein, W., 2019. Search media - Wikimedia Commons. [online] Commons.wikimedia.org. Available at: <https://commons.wikimedia.org/w/index.php?search=edmund+blunden&title=Special:MediaSearch&go=Go&type=image> [Accessed 11 May 2021].   
 My Poetic Side. 2021. Edmund Blunden Poems. [online] Available at: <https://mypoeticside.com/poets/edmund-blunden-poems> [Accessed 16 June 2021].  
+Banner image: Manna Oast, Oast Court, Yalding, Kent by Oast House Archive, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
 
 ### References
 
