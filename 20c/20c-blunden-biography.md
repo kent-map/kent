@@ -8,16 +8,19 @@
 
 #
 
-**Early Life**   
 Edmund Blunden, poet, author and critic, was born on the 1st of November 1896, in London. His sister Charlotte was born three years later at [Sandgate](/placesqz/sandgate-overview), but by 1901 the family had moved to Yalding where his parents taught at the village school. It is here that Blunden developed his love of the English countryside and appreciation of nature. A reviewer of his 1931 poetry anthology _Poems 1914-1930_ wrote:
-<br>
+<br><br>
 'Two influences stand out clearly and unmistakably; that of Kent, his native countryside, and that of the war. Mr Blunden is a thorough Kentishman. That probably is why he succeeds so admirably in recreating the very soul and atmosphere of the southern counties.'[^ref1]
 <param ve-map center=“Q2051722” zoom=“15”>
 
-Instead of accepting a scholarship to study Classics at Queens College in Oxford, Blunden decided to enlist in the army in World War 1. He became the longest serving war poet after surviving two years in the trenches. During this time, he wrote some poetry of his experiences in WW1, but most of his work came in the decades after the war. He also developed a long-lasting friendship with Siegfried Sassoon, a fellow poet and war survivor who was born in Matfield, Kent and who shared his love of cricket. His most popular piece of writing was _Undertones Of War in 1928_ a memoir of active service during WW1. He is largely underestimated today as a war poet; this may be because he worked beside other great poets such as Wilfred Owen, Isaac Rosenberg, and Siegfried Sassoon. A unique feature of his poetry that neither Owen, Rosenberg nor Sassoon wrote about was his dismay at the destruction of the French countryside, again displaying his love for nature. He also acknowledged that there were moments of happiness even among all the slaughter during the war.
+Instead of accepting a scholarship to study Classics at Queens College in Oxford, Blunden enlisted in the army in World War 1. During this time, he wrote some poetry of his experiences in WW1, but most of his work came in the decades after the war. He also developed a long-lasting friendship with Siegfried Sassoon, a fellow poet and war survivor who was born in Matfield, Kent and who shared his love of cricket. 
+<br><br>
+His most popular piece of writing was _Undertones Of War in 1928_ a memoir of active service during WW1. His poetry focused on the destruction of the French countryside, again displaying his love for nature. He also acknowledged that there were moments of happiness even among all the slaughter during the war.
 <br>
-After the war, Blunden lived in Suffolk in England where he married. His Parents continued to live in Yalding at Cleave's House during the 1930s and The Cottage, Vicarage Road in the 1940s.[^ref2]He eventually relocated to London and began a career in literary journalism. During this time, he assisted in founding the English Reading Society. This new job allowed him to travel globally to places such as Japan, Hong Kong, and South America for teaching posts, which permitted him to help train a generation of Japanese scholars. In 1945 his book _English Villages_ was published in which he described Yalding:
-<br>
+After the war, Blunden lived in Suffolk in England where he married. His Parents continued to live in Yalding at Cleave's House during the 1930s and The Cottage, Vicarage Road in the 1940s, so he still had strong ties to the county.[^ref2] 
+<br><br>
+Blunden eventually relocated to London and began a career in literary journalism. During this time, he assisted in founding the English Reading Society. This new job allowed him to travel globally to places such as Japan, Hong Kong, and South America for teaching posts, which permitted him to help train a generation of Japanese scholars. In 1945 his book _English Villages_ was published in which he described Yalding:
+<br><br>
 'And here, among abundance of chestnuts and elms and cedars and acacias, the village streets begin. They are by no means mathematically planned, but that is a general feature of these villages, resulting in rather more of detached beauty than of entire and immediately observable design. Another characteristic is that many of the best houses are concealed, or partly so, beyond high red walls or thick shrubberies of cherry laurel and boxtree, so that it takes time and a good deal of peeping to find out the pleasures of this parish.'[^ref3]
 
 He lived in Tonbridge during his later years where he wrote 'VE Day', which was published after 75 years in 2021. 
