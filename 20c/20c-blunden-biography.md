@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Edmund Blunden" author="xxx" layout="vtl" banner="xxx">
+<param ve-config title="Edmund Blunden" author="Alice Sellors and Michelle Crowther" layout="vtl" banner="xxx">
 
 <param ve-entity eid=“Q2051722” aliases=“Yalding”>
 <param ve-entity eid=“Q936183” aliases=“Tonbridge”>
