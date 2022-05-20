@@ -11,9 +11,6 @@ Wateringbury is a quaint village close to Maidstone. The views are exquisite and
 **The Lock up and Stocks**   
 Previously known as the village cage and stocks, before 1846, this was a wooden structure used to hold disturbers of the peace. In 1846 it was upgraded to a sturdier brick building, after a ‘tramp’ (who had been detained for stealing cherries from the Reverend’s garden) had been broken out and escaped to freedom. Once the County Police was established the building was seldom used as Prisoners were taken to Malling where the station was situated. These two items set up echoes of a different time. A harder time. Almost two hundred years ago. Can you imagine wandering past an unfortunate soul with his head and arms in the stocks?
 <br><br>
-George Newman was a boy when both the Lock Up and Stocks were in use and says:
-<br><br>
-‘I well remember them both, and though I never saw anyone in the stocks, I used often to go with other boys and look through the little barred window of the cage at someone who had been confined there for drunkenness or other misdemeanour.’ (Whiting, 2013)
 Later in the 1850’s, the Lock Up is recorded to have been used to house a hand cart used by the person who was to look after the streetlights and keep the village tidy. 
 
 **Library phone box**   
@@ -46,18 +43,17 @@ Beside an impressive <span data-mouseover-image-zoomto="72,115,1658,1109">wrough
 Mattias was born in London in 1761. In 1776 (at age 15) he began as an apprentice lighterman working on the Thames. He did this with his Father, the lighterman trade being mostly a job passed down the family line. This job involved transferring goods from import ships to the dock. Mattias was said to have been a hard worker and here began the accumulation of his wealth:
 ‘Through his industrious habits and success in business, Mattias started to realise an immense fortune.’ (Newman, 2013)
 Mattias became a part of The Watermans Company and in 1798 (at age 37) when news of a Napoleonic invasion reached him, he rallied his fellow watermen to fight. They appointed him Commadore.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Lord_Mayors_dinner_%28BM_Ii%2C3.92%29.jpg" label="The Lord Mayor's Dinner held by William Thompson in honour of his predecessor Matthias Prime Lucas" attribution="British Museum, Public domain, via Wikimedia Commons">
  
 This rallied group of volunteer defenders of their country went on to become the Corps or River Fencibles, a militia which grew into multiple districts. Mattias, who became commander of the river fencibles, was involved in organising the river procession which escorted the barge carrying the body of Lord Nelson to the Admiralty. He was elected Sheriff of London in 1822 (at 61 years old) and in 1827 become the Lord Mayor (age 66). In 1841 he signed the Lee Petition, one of the movements attempting to abolish slavery. Mattias invested heavily in Wateringbury and many of the buildings today are down to his investment. He also built a school for the poorer inhabitants of the town.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Lord_Mayors_dinner_%28BM_Ii%2C3.92%29.jpg" label="The Lord Mayor's Dinner held by William Thompson in honour of his predecessor Matthias Prime Lucas" attribution="British Museum, Public domain, via Wikimedia Commons">
 
 **William Rutter Dawes**   
 Between 1850 and 1857 William Rutter Dawes occupied one of the residencies of Wateringbury. His name can be seen on a plaque marking his home just off the point where Mill Lane and Love Lane meet. William was known for his Astronomical discoveries. A Physician by profession, he later gave up this practice to manage his own private observatories. William was known for his extensive measurements of double stars, an early discovery of Jupiter’s red spot, exceptionally accurate drawings of Mars, and as one of the discoverers of one of the dark rings of Saturn. In 1855 he was awarded the Gold Medal of the Royal Astronomical Society, their highest award.
  
 **Mill Pond**
 A pond quietly rests, surrounded by domestic relics. Another gem in Wateringbury’s trove, peacefully hidden away down Love Lane. There are a cluster of historic houses just opposite.
-
-**Footpath**   
-As you get to the end of <span data-mouseover-image-zoomto="950,573,1283,859">Love Lane</span> and continue past the place where it meets with <span data-mouseover-image-zoomto="949,573,1283,858">Mill Lane</span>, you will find this footpath leading off into the country.
+<br><br> 
+As you get to the end of <span data-mouseover-image-zoomto="950,573,1283,859">Love Lane</span> and continue past the place where it meets with <span data-mouseover-image-zoomto="949,573,1283,858">Mill Lane</span>, you will find a footpath leading off into the country.
  <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
  
 **The Thatched house**   
@@ -85,8 +81,8 @@ There are numerous works in cinema, painting and poetry which survive on, keepin
 John Beal Jude was the founder of the Kent brewery, one of the two significant breweries in Wateringbury. Quite the businessman, John also branched out into coal and farming. He founded Kent brewery in 1833 which was then situated on Bow Road but no longer stands. In 1857 John purchased the Broomcrofts estate on Cannon Lane, and grew to be a wealthy land and property owner.
 
 The first train to land in Wateringbury was in the year 1844. There was a grand celebration with guests including Alderman Mattias Lucas and the band of 16th lancers, a cavalry regiment in the British Army. Around 6 years later the train station was built in the Tudor Gothic style and is now a grade II listed building. The station still holds much of its historic charm and overlooks the countryside. Even if you have no train to catch, its worth the walk down Bow Road to see this splendid building and take in the views.
- 
-Wateringbury in an intriguing place, whose patrons are as intriguing as its architecture. For more information on Wateringbury see Dail Whiting’s book: In the steps George Newman and Beyond, or see the website ‘Wateringbury Remembered’.
+<br><br> 
+Wateringbury in an intriguing place, whose patrons are as intriguing as its architecture. 
 
 ### Bibliography
 Boissoneault. L. “Smithsonian Magazine”, [The True Story of the Kooh-i-noor Diamond – and Why the British Wont Give it Back, 2017,]( https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)   
