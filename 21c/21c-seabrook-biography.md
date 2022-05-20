@@ -25,23 +25,22 @@ Fragments shored against ruins.
 <param ve-map primary center="Q29303" zoom="10">
 
 _Devils_ begins in [Margate](/21c/21c-margate), where Seabrook connects [Eliot](/20c/20c-eliot-biography) with a series of mysterious, or recently erased, locales: the Victorian shelter overlooking the sands where he composed what was to become parts of ‘The Fire Sermon’, the Albermarle hotel (on the Eastern Esplanade in Cliftonville - gone), and, improbably, Dreamland, which had opened in 1920, and whose name looks forward to Seabrook’s second, obsessive chapter, ‘Daddlands’.  Taking in Ramsgate, Broadstairs (where Seabrook is less concerned with the obvious - because well attested - Dickensian links, and more keen to explore the scandalous backwaters linking George Curzon, John Buchan and Frank Richards), Deal and Dover - this is a local book for local people.  Or for DFL’s like me, who plump for life in cinque port semi-solitude, and who are therefore seldom exposed to the Seabrookian topoi of death, dirt, disease, murder.  And mystery.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/65/Dreamland%2C_Margate_-_geograph.org.uk_-_1473130.jpg" label="Dreamland, Margate" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Broadstairs_-_landscape_2.jpg" label="Broadstairs" attribution="Emőke Dénes, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Deal_beach.jpg" label="Deal" attribution="Felvalen, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Dover_Eastern_Docks.jpg" label="Dover Docks" attribution="DeFacto, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map primary center="Q618045" zoom="10">
 <param ve-map primary center="Q3039291" zoom="10">
 <param ve-map primary center="Q736439" zoom="10">
 <param ve-map primary center="Q922739" zoom="10">
 <param ve-map primary center="Q1011096" zoom="10">
 <param ve-map primary center="Q179224" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/DREAMLAND_CINEMA_EXTERIOR_AT_NIGHT.jpg" label="Dreamland Cinema at Night" attribution="KIDDY SUNSET, via Wikimedia Commons" license="CC BY-SA 4.0">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/65/Dreamland%2C_Margate_-_geograph.org.uk_-_1473130.jpg" label="Dreamland, Margate" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9e/New_Road_Ramsgate_England.jpg" label="Ramsgate" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Broadstairs_-_landscape_2.jpg" label="Broadstairs" attribution="Emőke Dénes, CC BY-SA 4.0, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Deal_beach.jpg" label="Deal" attribution="Felvalen, CC BY-SA 4.0, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Dover_Eastern_Docks.jpg" label="Dover Docks" attribution="DeFacto, CC BY-SA 4.0, via Wikimedia Commons">
 
 _All the Devils Are Here_ is an essential addition to any library of the odd and uncommon.  Put Seabrook on a shelf with Kafka, Lovecraft, Beckett, Hoffmann, [Eco](/21c/21c-waterstones-canterbury) and Borges, and he fits right in: liminal, disruptive, hard to pin down.    
 <br>
 Final words?  Perhaps best to end with those from the _Observer_ review, ominously appended to the back page of the Granta edition: to know _Devils_, we are told, _‘is somehow not to know anything at all.’_   
 It’s a right old mystery.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/DREAMLAND_CINEMA_EXTERIOR_AT_NIGHT.jpg" label="Dreamland Cinema at Night" attribution="KIDDY SUNSET, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 ### Bibliography 
 
