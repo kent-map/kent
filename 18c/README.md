@@ -55,7 +55,7 @@ The Bloody Code applied death sentences to a growing number of crimes, while oth
 
 - author: Katie Holdway
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/18c/images/KentishGazetteMC.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/45c339b3-6234-4096-827e-8cce6681e0fe)
 
 The Intelligence inserted in this Paper will be of the latest date, and selected from the most approved News Papers of London and other Parts of the Kingdom.
 
