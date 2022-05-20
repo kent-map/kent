@@ -57,7 +57,7 @@ Between 1850 and 1857 William Rutter Dawes occupied one of the residencies of Wa
 A pond quietly rests, surrounded by domestic relics. Another gem in Wateringbury’s trove, peacefully hidden away down Love Lane. There are a cluster of historic houses just opposite.
 
 **Footpath**   
-As you get to the end of Love Lane and continue past the place where it meets with <span data-mouseover-image-zoomto="949,573,1283,858">Mill Lane</span>, you will find this footpath leading off into the country.
+As you get to the end of <span data-mouseover-image-zoomto="950,573,1283,859">Love Lane</span> and continue past the place where it meets with <span data-mouseover-image-zoomto="949,573,1283,858">Mill Lane</span>, you will find this footpath leading off into the country.
  <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
  
 **The Thatched house**   
