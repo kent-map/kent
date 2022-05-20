@@ -24,7 +24,6 @@ The Wiki page, the flyleaf to the Granta edition of Devils: same story.  Found d
 Fragments shored against ruins.
 <param ve-map primary center="Q29303" zoom="10">
 
-_Mystery_.   
 _Devils_ begins in [Margate](/21c/21c-margate), where Seabrook connects [Eliot](/20c/20c-eliot-biography) with a series of mysterious, or recently erased, locales: the Victorian shelter overlooking the sands where he composed what was to become parts of ‘The Fire Sermon’, the Albermarle hotel (on the Eastern Esplanade in Cliftonville - gone), and, improbably, Dreamland, which had opened in 1920, and whose name looks forward to Seabrook’s second, obsessive chapter, ‘Daddlands’.  Taking in Ramsgate, Broadstairs (where Seabrook is less concerned with the obvious - because well attested - Dickensian links, and more keen to explore the scandalous backwaters linking George Curzon, John Buchan and Frank Richards), Deal and Dover - this is a local book for local people.  Or for DFL’s like me, who plump for life in cinque port semi-solitude, and who are therefore seldom exposed to the Seabrookian topoi of death, dirt, disease, murder.  And mystery.
 <param ve-map primary center="Q618045" zoom="10">
 <param ve-map primary center="Q3039291" zoom="10">
