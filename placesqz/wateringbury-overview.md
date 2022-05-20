@@ -80,6 +80,7 @@ John Beal Jude was the founder of the Kent brewery, one of the two significant b
 The first train to land in Wateringbury was in the year 1844. There was a grand celebration with guests including Alderman Mattias Lucas and the band of 16th lancers, a cavalry regiment in the British Army. Around 6 years later the train station was built in the Tudor Gothic style and is now a grade II listed building. The station still holds much of its historic charm and overlooks the countryside. Even if you have no train to catch, its worth the walk down Bow Road to see this splendid building and take in the views.
 <br><br> 
 Wateringbury in an intriguing place, whose inhabitants are as intriguing as its architecture. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1c/Wateringbury_railway_station%2C_EG02%2C_August_2013.JPG" label="Wateringbury Station" attribution="Edgepedia, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 ### Bibliography
 Boissoneault. L. “Smithsonian Magazine”, [The True Story of the Kooh-i-noor Diamond – and Why the British Wont Give it Back, 2017,]( https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)   
