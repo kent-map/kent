@@ -31,6 +31,7 @@ _Devils_ begins in [Margate](/21c/21c-margate), where Seabrook connects [Eliot](
 <param ve-map primary center="Q922739" zoom="10">
 <param ve-map primary center="Q1011096" zoom="10">
 <param ve-map primary center="Q179224" zoom="10">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/DREAMLAND_CINEMA_EXTERIOR_AT_NIGHT.jpg" label="Dreamland Cinema at Night" attribution="KIDDY SUNSET, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/65/Dreamland%2C_Margate_-_geograph.org.uk_-_1473130.jpg" label="Dreamland, Margate" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9e/New_Road_Ramsgate_England.jpg" label="Ramsgate" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Broadstairs_-_landscape_2.jpg" label="Broadstairs" attribution="Emőke Dénes, CC BY-SA 4.0, via Wikimedia Commons">
