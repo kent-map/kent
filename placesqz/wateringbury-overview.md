@@ -17,8 +17,9 @@ George Newman was a boy when both the Lock Up and Stocks were in use and says:
 Later in the 1850’s, the Lock Up is recorded to have been used to house a hand cart used by the person who was to look after the streetlights and keep the village tidy. 
 
 **Library phone box**   
-Here you will find a British red phone box, although inside you will find no phone, just shelves of books. Like the Tardis, there is no telling where it may sweep you off to. Chose a book and allow yourself to be taken elsewhere. Why not take one and wander into the countryside to sit and read, or head off to the café close by and read while you sip your tea. To return, just drop your book in the ‘returns bin’ provided to the left.
+Here you will find a <span data-mouseover-image-zoomto="1828,777,1194,798">British red phone box</span>, although inside you will find no phone, just shelves of books. Like the Tardis, there is no telling where it may sweep you off to. Chose a book and allow yourself to be taken elsewhere. Why not take one and wander into the countryside to sit and read, or head off to the café close by and read while you sip your tea. To return, just drop your book in the ‘returns bin’ provided to the left.
 <param ve-image url="https://stor.artstor.org/stor/fc3cbba7-3546-4450-b830-e4b25a675640" attribution="Natalie Pietersen">
+ <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
 
 **Café**   
 On the cross roads you will find a charming café called ‘Where Memories Meet.’ It houses a tea room and an antiques/vintage centre. Inside this quaint tea shop you can sit for hours, soaking up the ambience. The vintage style of items scattered around add to the ancient aroma. No less charming than the rest of the village, just with a delicious menu for added dimension.
