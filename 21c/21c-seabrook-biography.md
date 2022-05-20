@@ -12,13 +12,12 @@
 
 #
 
-_‘But what’s wrong with this city? Why the long face on the cathedral clock? Whose shadow darkens the sundial?
-I check my dates. Thirteen decades have passed. The removal of mourning rings may require soap if Rochester ever recovers (which looks doubtful)._   
+‘But what’s wrong with this city? Why the long face on the cathedral clock? Whose shadow darkens the sundial?
+I check my dates. Thirteen decades have passed. The removal of mourning rings may require soap if Rochester ever recovers (which looks doubtful).  
 <br>
-_‘It’s hard to rationalise what I’m seeing today on my afternoon stroll: flint walling, personalised number plates, a QPR sticker in a bedroom window. Spindrift, Winday Bay, Lindisfarne – houses which clamber on top of one another like mad-eyed toads in a jar.’_
+‘It’s hard to rationalise what I’m seeing today on my afternoon stroll: flint walling, personalised number plates, a QPR sticker in a bedroom window. Spindrift, Winday Bay, Lindisfarne – houses which clamber on top of one another like mad-eyed toads in a jar.’ _All the Devils are Here_, 2002.   
 <param ve-map primary center="Q507517" zoom="10">
 
-_All the Devils are Here_, 2002.   
 The word mystery comes to mind when approaching Seabrook and his work - a fitting word, given the author’s obsession with the local lore and hidden historical disjecta membra of Kent’s coastal towns, and intertextually apposite given Seabrook’s extended analysis of Drood in _All the Devils Are Here_ (2002), where he offers [Richard Dadd](/19c/19c-dadd-biography) (he of the unfinished Fairy Feller’s Master-Stroke) as the inspiration for [Dickens’s](/dickens/dickens-biography) eponym, whose cruel parricide, Seabrook opines, served as fodder for the (probable) fate of the forever-deferred [Edwin](/dickens/edwin-drood-curated-walk).
 
 The Wiki page, the flyleaf to the Granta edition of Devils: same story.  Found dead in his Canterbury lodgings, ‘there is unconfirmed speculation that Seabrook was murdered’; his writings, we learn, are ‘mysterious, incandescent’, and, life again mirroring art, Seabrook’s own literary fate matching that of the many scattered scraps he pursues in _Devils_, they ‘are now considered lost’.   
