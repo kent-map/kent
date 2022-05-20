@@ -36,7 +36,7 @@ When walking around the city of Canterbury, one quickly notices the amount of re
 
 - author: Laurie Duggan
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham%20across%20Ham%20Marshes%201.jpeg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/53022ed5-5d29-45c7-bc97-f06325a1661b)
 
 Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
@@ -54,7 +54,7 @@ In summer, I ate ice cream on the roof. It was a shop of dreams, I can still sme
 
 - author: Maggie Harris
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/eliot5.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c81626c5-5018-4699-88ab-60dfef0b4acc)
 
 There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist. ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’
 
