@@ -5,6 +5,7 @@
 <param ve-entity eid=“Q936183” aliases=“Tonbridge”>
 <param ve-entity eid=“Q1000312” aliases=“Sandgate”>
 <param ve-entity eid=“Q729006” aliases=“Chatham”>
+<param data-map center="Q2051722" zoom="15">
 
 #
 
