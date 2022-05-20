@@ -63,7 +63,7 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 
 - author: Maggie Harris
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Margate%20signs.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/a1a47ab9-b7e5-4e64-9e2e-703827012850)
 
 Once a popular seaside resort where Victorians came to take the air, Margate was to suffer the fate of many other seaside towns: limping through the end of the last century with rising unemployment, dilapidated structures, organ music, and absent holiday makers.
 
