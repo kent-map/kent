@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> <param ve-config title="Traveller's Joy" author="Miroslava Karaskova" layout="vtl" banner="https://stor.artstor.org/stor/fd719478-3910-46cb-bd69-61d1451904ce">
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="Traveller's Joy" author="Miroslava Karaskova" layout="vtl" banner="https://stor.artstor.org/stor/fd719478-3910-46cb-bd69-61d1451904ce">
 
 <param ve-entity eid="Q26551755" aliases="Lansdown Road">
 <param ve-entity eid="Q4381575" aliases="East Station">
@@ -6,11 +7,11 @@
 
 **Exhibition**   
 When walking around the city of Canterbury, one quickly notices the representation and referencing of the city’s rich cultural heritage. Promotional photos on shop windows, celebratory paintings in underpasses, an antiquarian bookshop named after [Geoffrey Chaucer](/14c/14c-chaucer), and even a fish and chip shop called _The Canterbury Tales_. Murals are particularly popular, in the first thought to tackle the illegal graffiti, in the second to give a new look to some of the grimmer spots in the city. Their design refers to Canterbury’s past, architecture, and historical figures, which is not surprising as the last thirty years have seen a growing enthusiasm of the wider public for local and national history.  And as Robert Hewison claims: ʹthe impulse to preserve the past is part of the impulse to preserve the self.ʹ[^ref1] 
-<param ve-image url="images/PigrimsMJC.jpg" label="Chaucer's Pilgrims by Gloria Treseder" attribution="Martin Crowther">
+<param ve-image url="/images/PigrimsMJC.jpg" label="Chaucer's Pilgrims by Gloria Treseder" attribution="Martin Crowther">
 <param ve-map primary center="Q29303" zoom="15">
 
 In 2018 the Canterbury City Council commissioned a new mural to cover pillars of the footbridge over the railway line next to the East Station which leads from the Lansdown Road Path to Oxford Road. The requirement was to make the neglected area more appealing, welcoming to the tourists, and generating a sense of pride for the locals. The winning design from the American artist [Gloria Treseder](https://www.gtreseder.com/), studying in Canterbury in that time, accomplished this mission by choosing a different direction than the other murals – she based it around the nature and literary references native to the Kent and Canterbury region.
-<param ve-image url="images/TravellersJoyMJC.jpg" label="Traveller's Joy by Gloria Treseder" attribution="Martin Crowther">
+<param ve-image url="/images/TravellersJoyMJC.jpg" label="Traveller's Joy by Gloria Treseder" attribution="Martin Crowther">
 <param ve-map center="Q4381574" zoom="15">
 <param ve-map center="Q26551755" zoom="15">
 <param ve-map center="Q26369737" zoom="15">
