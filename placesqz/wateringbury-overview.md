@@ -19,9 +19,10 @@ Here you will find a <span data-mouseover-image-zoomto="1828,777,1194,798">Briti
 
 **Café**   
 On the cross roads you will find a charming café called ‘Where Memories Meet.’ It houses a tea room and an antiques/vintage centre. Inside this quaint tea shop you can sit for hours, soaking up the ambience. The vintage style of items scattered around add to the ancient aroma. No less charming than the rest of the village, just with a delicious menu for added dimension.
+<param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
  
 **War time relics**   
-A pipeline, a relic of wartime Britain, is buried underground, but it pulls you deeper into history. Whilst the Pillbox, which on first glance looks like an old wall, its entrance now overgrown, holds the memories of the soldiers inside it, guns ready, watching over the crossroads. Imagine, if you will, a convoy of tanks passing through Wateringbury.
+A pipeline, a relic of wartime Britain, is buried underground, but it pulls you deeper into history. Whilst the Pillbox, which on first glance looks like an old wall, its entrance now overgrown, holds the memories of the soldiers inside it, guns ready, watching over the crossroads. Imagine, if you will, a convoy of tanks rumbling by.
 
 **Footpath**
 Up this track there is a footpath which takes you along a narrow track, through fruit orchards. If you have a sharp eye, you might glimpse some beehives. As you walk gently uphill you can look back over the valley. You will come to a footpath crossing. 
