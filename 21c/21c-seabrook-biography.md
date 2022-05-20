@@ -14,7 +14,7 @@
 
 _‘But what’s wrong with this city? Why the long face on the cathedral clock? Whose shadow darkens the sundial?
 I check my dates. Thirteen decades have passed. The removal of mourning rings may require soap if Rochester ever recovers (which looks doubtful)._   
-<br><br>
+<br>
 _‘It’s hard to rationalise what I’m seeing today on my afternoon stroll: flint walling, personalised number plates, a QPR sticker in a bedroom window. Spindrift, Winday Bay, Lindisfarne – houses which clamber on top of one another like mad-eyed toads in a jar.’_
 <param ve-map primary center="Q507517" zoom="10">
 
@@ -40,6 +40,7 @@ _Devils_ begins in [Margate](/21c/21c-margate), where Seabrook connects [Eliot](
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Dover_Eastern_Docks.jpg" label="Dover Docks" attribution="DeFacto, CC BY-SA 4.0, via Wikimedia Commons">
 
 _All the Devils Are Here_ is an essential addition to any library of the odd and uncommon.  Put Seabrook on a shelf with Kafka, Lovecraft, Beckett, Hoffmann, [Eco](/21c/21c-waterstones-canterbury) and Borges, and he fits right in: liminal, disruptive, hard to pin down.    
+<br>
 Final words?  Perhaps best to end with those from the _Observer_ review, ominously appended to the back page of the Granta edition: to know _Devils_, we are told, _‘is somehow not to know anything at all.’_   
 It’s a right old mystery.
 
