@@ -34,7 +34,7 @@ Up this track there is a footpath which takes you along a narrow track, through 
 <br><br>
 If you take the left path, you will pass a disused oast house. The path then joins with <span data-mouseover-image-zoomto="698,1,1283,859">Canon Lane</span>. Turn left back down to the main street. 
 <br><br> 
-The footpath to the right will take you through Red Hill Farm, passing a pop-up wine bar on your way through and meeting with the road on Red Hill where you turn right and meet the main street again.
+The footpath to the right will take you through Red Hill Farm, passing a pop-up wine bar on your way through and meeting with the road on <span data-mouseover-image-zoomto="1820,1,1599,1069">Red Hill</span> where you turn right and meet the main street again.
  Or go straight on to see where the forest leads. Bring your walking shoes though, there is some distance to be covered here.
  <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
  
