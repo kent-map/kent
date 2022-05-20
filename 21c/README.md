@@ -36,7 +36,7 @@ When walking around the city of Canterbury, one quickly notices the amount of re
 
 - author: Laurie Duggan
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham%20across%20Ham%20Marshes%201.jpeg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/53022ed5-5d29-45c7-bc97-f06325a1661b)
 
 Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
