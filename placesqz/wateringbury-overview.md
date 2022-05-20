@@ -20,11 +20,8 @@ Here you will find a <span data-mouseover-image-zoomto="1828,777,1194,798">Briti
 **Café**   
 On the cross roads you will find a charming café called ‘Where Memories Meet.’ It houses a tea room and an antiques/vintage centre. Inside this quaint tea shop you can sit for hours, soaking up the ambience. The vintage style of items scattered around add to the ancient aroma. No less charming than the rest of the village, just with a delicious menu for added dimension.
  
-**Pipeline**   
-This relic of wartime Britain is buried underground, but it pulls you deeper into history.
-
-**Pillbox**   
-On first glance it just looks like an old wall, but once you know it is there you can imagine the opening, now overgrown, and the soldiers inside it, guns ready, watching over the crossroads. Imagine, if you will, a convoy of tanks making its way across and passing by wartime Britain.
+**War time relics**   
+A pipeline, a relic of wartime Britain, is buried underground, but it pulls you deeper into history. Whilst the Pillbox, which on first glance looks like an old wall, its entrance now overgrown, holds the memories of the soldiers inside it, guns ready, watching over the crossroads. Imagine, if you will, a convoy of tanks passing through Wateringbury.
 
 **Footpath**
 Up this track there is a footpath which takes you along a narrow track, through fruit orchards. If you have a sharp eye, you might glimpse some beehives. As you walk gently uphill you can look back over the valley. You will come to a footpath crossing. 
@@ -35,7 +32,6 @@ The footpath to the right will take you through Red Hill Farm, passing a pop-up 
  Or go straight on to see where the forest leads. Bring your walking shoes though, there is some distance to be covered here.
  <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
  
-
 **Mattias Prime Lucas**   
 Beside an impressive wrought iron gate you will see a blue plaque mounted to the left gate post. This is the home of Mattias Prime Lucas. From the gate and stretching off to the left is a large stone wall, topped with Victorian iron railings. It stretches on and on, right to Canon Road. A look through the gate reveals rugged countryside, a dotting of trees and the drive leading to the main house. If you walk along the grand outer wall, you might snatch a glimpse here and there of the gardens which lie within. A pond, stone garden steps, manicured lawns... Standing outside you can almost feel the energy of wealth and grandeur within. And what would you expect from a man who was the Mayor of London? 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wateringbury_Place-geograph.org-2985200.jpg" label="Wateringbury Place" attribution="Robin Webster, via Wikimedia Commons" license="CC BY-SA 2.0">
@@ -82,7 +78,7 @@ John Beal Jude was the founder of the Kent brewery, one of the two significant b
 
 The first train to land in Wateringbury was in the year 1844. There was a grand celebration with guests including Alderman Mattias Lucas and the band of 16th lancers, a cavalry regiment in the British Army. Around 6 years later the train station was built in the Tudor Gothic style and is now a grade II listed building. The station still holds much of its historic charm and overlooks the countryside. Even if you have no train to catch, its worth the walk down Bow Road to see this splendid building and take in the views.
 <br><br> 
-Wateringbury in an intriguing place, whose patrons are as intriguing as its architecture. 
+Wateringbury in an intriguing place, whose inhabitants are as intriguing as its architecture. 
 
 ### Bibliography
 Boissoneault. L. “Smithsonian Magazine”, [The True Story of the Kooh-i-noor Diamond – and Why the British Wont Give it Back, 2017,]( https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)   
