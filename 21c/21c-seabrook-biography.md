@@ -1,5 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="David Seabrook (1960-2009)" author="Dr Christian Taylor" layout="vtl" banner="xxx">
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="David Seabrook (1960-2009)" author="Dr Christian Taylor" layout="vtl" banner="https://stor.artstor.org/stor/2251af4a-a56d-45f0-b9b1-361ba46aaf4d">
 
 <param ve-entity eid="Q3039291" aliases="Dreamland">
 <param ve-entity eid="Q507517" aliases="Rochester">
@@ -14,6 +14,7 @@
 
 _‘But what’s wrong with this city? Why the long face on the cathedral clock? Whose shadow darkens the sundial?
 I check my dates. Thirteen decades have passed. The removal of mourning rings may require soap if Rochester ever recovers (which looks doubtful)._   
+<br><br>
 _‘It’s hard to rationalise what I’m seeing today on my afternoon stroll: flint walling, personalised number plates, a QPR sticker in a bedroom window. Spindrift, Winday Bay, Lindisfarne – houses which clamber on top of one another like mad-eyed toads in a jar.’_
 <param ve-map primary center="Q507517" zoom="10">
 
