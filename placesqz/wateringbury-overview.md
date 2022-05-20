@@ -32,7 +32,7 @@ On first glance it just looks like an old wall, but once you know it is there yo
 **Footpath**
 Up this track there is a footpath which takes you along a narrow track, through fruit orchards. If you have a sharp eye, you might glimpse some beehives. As you walk gently uphill you can look back over the valley. You will come to a footpath crossing. 
 <br><br>
-If you take the left path, you will pass a disused oast house. The path then joins with Canon Road. Turn left back down to the main street. 
+If you take the left path, you will pass a disused oast house. The path then joins with <span data-mouseover-image-zoomto="949,573,1283,858">Canon Road</span>. Turn left back down to the main street. 
 <br><br> 
 The footpath to the right will take you through Red Hill Farm, passing a pop-up wine bar on your way through and meeting with the road on Red Hill where you turn right and meet the main street again.
  Or go straight on to see where the forest leads. Bring your walking shoes though, there is some distance to be covered here.
