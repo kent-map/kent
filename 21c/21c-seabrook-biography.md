@@ -19,6 +19,7 @@ I check my dates. Thirteen decades have passed. The removal of mourning rings ma
 <param ve-map primary center="Q507517" zoom="10">
 
 The word mystery comes to mind when approaching Seabrook and his work - a fitting word, given the author’s obsession with the local lore and hidden historical disjecta membra of Kent’s coastal towns, and intertextually apposite given Seabrook’s extended analysis of Drood in _All the Devils Are Here_ (2002), where he offers [Richard Dadd](/19c/19c-dadd-biography) (he of the unfinished Fairy Feller’s Master-Stroke) as the inspiration for [Dickens’s](/dickens/dickens-biography) eponym, whose cruel parricide, Seabrook opines, served as fodder for the (probable) fate of the forever-deferred [Edwin](/dickens/edwin-drood-curated-walk).
+<param ve-image url="https://stor.artstor.org/stor/711b2c87-7604-4f8d-a6e6-fd3f9463aecf" label="Richard Dadd at his easel, 1850s" attribution="In copyright. By permission of Bethlem Museum of the Mind">
 
 The Wiki page, the flyleaf to the Granta edition of Devils: same story.  Found dead in his Canterbury lodgings, ‘there is unconfirmed speculation that Seabrook was murdered’; his writings, we learn, are ‘mysterious, incandescent’, and, life again mirroring art, Seabrook’s own literary fate matching that of the many scattered scraps he pursues in _Devils_, they ‘are now considered lost’.   
 Fragments shored against ruins.
