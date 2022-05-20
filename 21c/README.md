@@ -54,7 +54,7 @@ In summer, I ate ice cream on the roof. It was a shop of dreams, I can still sme
 
 - author: Maggie Harris
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/eliot5.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c81626c5-5018-4699-88ab-60dfef0b4acc)
 
 There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist. ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’
 
