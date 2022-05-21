@@ -229,15 +229,13 @@ Dickens is prone to moving places around; as a successful London author David te
 <br><br>
 Carolyn talks to Katie Holdway about the research behind 'Mobile Landscapes' in a podcast for the Dickens Society [here](https://soundcloud.com/the-dickens-society?fbclid=IwAR3Vja7DvYKYBZYHbCti9pbGSOZGXkdPxPfIvvnWEUDwRDgidvy3R1xspjE)
 
-### Bibliography
-
+**Bibliography**
 Allbutt, R. (1886) _Rambles in Dickens land_   
 Helliar, A. (1924) _A Most strange and curious guide to Broadstairs_.    
 Hughes, W. (1893) _A week's tramp in Dickens land_, [first published 1891]   
 Kitton, F. (1925) _The Dickens Country_ London: A. C. Black, [first published 1905]   
 
 ### Footnotes
-
 [^ref1]: [The Literature Project](https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm)       
 [^ref2]: Allbutt, R. (1886) _Rambles in Dickens land_   
 [^ref3]: 'One that is more tiring than one might imagine, and requires regular support in the shape of pies.'
