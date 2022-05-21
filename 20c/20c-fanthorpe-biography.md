@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="U. A. Fanthorpe (Ursula Askham Fanthorpe) (1929-2009)" author="Simone Blandford" layout="vtl" 
 banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
