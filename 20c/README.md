@@ -63,6 +63,7 @@
 
 ### Texts
 
+[Rupert Bear by Mary Tourtel](20c-rupert-bear)   
 [Shepherds in Sackcloth by Sheila Kaye-Smith](20c-kaye-smith-delmonden)   
 [Double Double by John Brunner](20c-double-double)   
 
