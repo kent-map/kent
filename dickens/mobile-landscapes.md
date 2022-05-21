@@ -48,9 +48,11 @@ Of course at this point you don’t exactly know where you are, let alone where 
 
 **The adventure begins**   
 The study where parts of _David Copperfield_ were written. The view from the [Swiss chalet](//dickens/dickens-swiss-chalet) where Dickens was working on the morning of his death. The churchyard where Pip first meets Magwitch. Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of Dickens’s novels, including  _David Copperfield_ – are huge. No one wants to stomp round Canterbury on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
-<br><br>
+<param ve-image url="https://stor.artstor.org/stor/11fbd10c-4977-45e6-8713-df4c593a5574" label="Swiss Chalet" attribution="Benjamin Mortley">
+
 Enter the literary tour guide – portable, readable and the inspiration for this account of our own peregrinations. From the 1880s onwards guides to Dickens’s Kent provided helpful advice on where to go, how to get there, and what to feel on arrival. The more enterprising, such as Robert Allbut’s 1886 _Rambles in Dickens-Land_, even included helpful extracts from the novels so that the literary pilgrim could orient themselves on arrival. But 150 years after Dickens’s death, what is it like to revisit these places, tracking both the author and his characters where he has told us we will find them, to read the books in the places where they are set? And what does it mean to engage in this apparently naïve activity with someone else who is also old enough to know better?
-<br><br>
+<param ve-image url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="House of Agnes" attribution="Nat Lowden and Sara Gelencer">
+
 Much like authors William Hughes and Frederic Kitton, who visited Kent around 1890 looking for Dickens Land, we began with considerable enthusiasm, vague expectations and a delicious sense that we could ramble around the countryside pretending to be fictional characters and legitimately call it work.   
 In this frame of mind it was inevitable that we should see Dickens everywhere. And it is only fitting that comestibles should have featured prominently – he invented ‘the fat boy’, we did not. What we had not foreseen was how these forays would transform not us alone, but the landscape itself. Landladies and local officials, unimpressed toddlers and workers on the roads – all were co-opted into our imaginative panorama, flickering across the scene at the oddest moments. ‘Like something from Dickens’ became a key marker of approbation for our more eccentric encounters.  And the places where these things befell us somehow became different, hyper real. No longer small country towns, but focused stage sets, where anything might happen. Leaving Rochester one autumn afternoon we finally got it.
 <br>
@@ -60,6 +62,7 @@ In this frame of mind it was inevitable that we should see Dickens everywhere. A
 > _Dickensed it of course._  
 <br>
 What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
+<param ve-image url="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" label="Benjamin High Street" attribution="Benjamin Mortley">
 <param ve-map center="Q729006" zoom="10">
 
 **David Copperfield**   
@@ -76,32 +79,31 @@ The museum parlour is a complete reconstruction of the room where David is rando
 <param ve-image primary url="images/Dickens_House_PH.png" title="Aunt Betsey's parlour © Carolyn Oulton" attribution="tbd">
 
 It is a far cry from the grandeur of [Fort House](/dickens/dickens-fort-house), where Dickens wrote part of the novel and where he had Wilkie Collins and other friends to stay. When we went a chirpy billboard suggested that visitors should come in and see Dickens’s study and then recover from the emotion with a cream tea. 
-<param ve-image primary url="images/Cream tea BH.jpg" title="Cream tea" attribution="tbd">
-
+<br><br>
 We had of course planned to have lunch at the Albion, but like Dickens when the hotel’s kitchen boy made off with the last of the cold chicken, we were thwarted by circumstances. And if we had not gone to Wyatt and Jones instead, we might never have thought to go for the pie (wrong novel but who cared), nor would we have met the man at the window table who sat and beamed like Dr Strong, almost certainly without seeing us. We got lost on the way back, of course we did. But we were still [singing](https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408) when we reached Canterbury. 
+<param ve-image url="images/Cream tea BH.jpg" title="Cream tea" attribution="Carolyn Oulton">
 
 **Canterbury**   
 Our next adventure began in the Canterbury Christ Church University library, where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
-<param ve-compare curtain url="https://stor.artstor.org/stor/f4b4c004-85c4-4ab4-beeb-6939c4cab796" label="The Sun Hotel">
-<param ve-compare url="https://stor.artstor.org/stor/540e3df7-9640-4a34-bdd0-0db1e789a285" label="The Sun Hotel: Micawber's Little Inn, Canterbury">
-
+<br><br>
 At this point the narrative is interrupted while a brief debate ensues:   
 > _I have wasp spray. Show me the place._  
 > _I’m not taking my trousers off._  
 > _Don’t be so wet._  
 > _We’re in the middle of a library, for [unprintable epithet] sake._
-
+<br><br>
 Spot which one of us went to boarding school as a child (bath nights Wednesday and Sunday, three at a time, one bar of soap. Since you ask). Silver resolves the issue by seizing the spray, then disappears for a few minutes and hobbles determinedly back.  Narrative resumes.
+<param ve-image url="https://stor.artstor.org/stor/6680eb0e-67fe-4e0a-bd39-f2ab91fdaa61" label="Augustine House Library" attribution="Michelle Crowther">
 
 The three flights of stairs proved to be an interesting challenge, but healthier than using the lift. The real problem was that the volumes of letters are extremely heavy - and did we mention there were twelve of them? Didn’t Dickens have anything else to do with his time? But it just so happens that he really, really liked Broadstairs. Lucky neither of us is writing a PhD on Canterbury (which barely gets a mention). Oh. Clearly it was time for lunch and further immersive research into pies.
-<param ve-image url="images/In Dickens Land. The Little Inn, Canterbury.JPG" title="Little Inn, Dickens Land" attribution="tbd">
+<param ve-image url="https://stor.artstor.org/stor/8ad860c5-4218-42f0-b939-4fc5a13e84ed" title="Augustine House interior" attribution="Michelle Crowther">
 
 Revived and reanimated (for one of us at least elderflower jelly would become a symbol of all that is worth having in this life) we set off to find Dr Strong’s house, which we knew was on Lady Wootton’s Green because we’d read it somewhere. Although clearly not in the 1928 _Canterbury and Charles Dickens_, which could have told us that the whole idea was ‘absurd’.
 <param ve-compare curtain url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" label="Lady Wootton's Green, Canterbury (2021)">
 <param ve-compare url="https://stor.artstor.org/stor/deb8a6fd-bc51-42fb-8ac2-28b556c482ab" label="Lady Wootton's Green, Canterbury (1905 or earlier)">
 
 With hindsight, a recurring feature of these expeditions was our enthusiasm for engaging passersby in conversation, something in the manner of the ancient mariner. As a rule they treated us as harmless eccentrics, which made us feel more than ever like Aunt Betsey and Mr Dick. But on this occasion an old man kindly got off his bike and directed us immediately and with confidence  to the very spot where Dr Strong’s dictionary took shape. We all stared in awe for a while, took it in turns to identify conclusive architectural features and pontificate – we had, surely we all felt this, been drawn together in a shared experience that we would not lightly forget. It only occurred to us some weeks later that we had no idea who it was we’d been talking to and no reason whatsoever to believe that we had been looking at the right house. 
-
+<br><br>
 We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old) Dover Road in the Westgate, just as David describes. Sadly we could only get in if we requested a room for the night, which seemed excessive. But we peered determinedly through the windows and fingered the door handle – Agnes, or at least her representatives, spend much time polishing a door handle much like this one, which removed any lingering vestige of doubt.
 <param ve-compare curtain url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="The House of Agnes" attribution="Nat Lowden and Sara Gelencer">
 <param ve-compare url="https://stor.artstor.org/stor/d4255b03-4d19-411c-b6b5-cd6e7632fe73" label="The House of Agnes" attribution="By kind permission of Carolyn Oulton">
