@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="All Saints parish church of Eastchurch, Isle of Sheppey" author="Dr Melanie Caizza" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q2661688" aliases="Eastchurch">

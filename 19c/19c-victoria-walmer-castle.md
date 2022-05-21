@@ -1,5 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Queen Victoria at Walmer Castle" author="Dr Alyson Hunt and Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="Queen Victoria at Walmer Castle" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q2543161" aliases="Walmer Castle">
 <param ve-entity eid="Q179224"  aliases="Dover">
@@ -38,10 +38,10 @@ During their visit, the royal party visited [Dover](/19c/19c-dover) and [Ramsgat
 Despite the wonderful seclusion and bracing sea air at Walmer, the Queen's holiday was marred by a sore throat and neuralgia and the children caught heavy colds. At the end of their visit, she writes: 'Felt quite sorry this was our last night here. The bedroom was very small & dreadfully cold & draughty, but still I had formed an affection, for it all, and for the whole house, in spite of being small & cold, and I regret leaving the sea side, though I have suffered there so much'. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Walmer_Castle_-_central_corridor.jpg" label="Walmer Castle central corridor" attribution="Ester Wetherveld https://www.flickr.com/photos/westher/, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons">
 
-### Bibliography
-
+**Bibliography**  
 From the Letters of Queen Victoria, Vol 1, ed Arthur Christopher Benson and Viscount Esher, online at Project Gutenberg
 
+### References
 [^ref1]: Journal Entry : Tuesday 1st November 1842 http://www.queenvictoriasjournals.org/   
 [^ref2]: Journal Entry : Thursday 10th November 1842 http://www.queenvictoriasjournals.org/  
 [^ref3]: Journal Entry : Friday 11th November 1842 http://www.queenvictoriasjournals.org/   

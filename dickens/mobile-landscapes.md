@@ -139,7 +139,7 @@ This is the river down which Pip will row so desperately in his abortive attempt
 <param ve-map center="Q676689" zoom="10">
 
 Pies. We’d been opting for them consistently since [Broadstairs](/dickens/broadstairs). ‘I’m sorry to say I’ve eat your’ - by now it would have felt like treachery to order anything else. This one came with chips or alternatively, was it salad? The juke box was new since Magwitch’s day, the paint job possibly not. But the landlady herself had so clearly stepped out of (whichever Dickens novel you like) and our need of wittles was by this point so intense, that we were by no means inclined to be critical.
-
+<br><br>
 It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were:   
 > _Hurrah, a fjord – I love fjords!_  
 
@@ -229,7 +229,7 @@ Dickens is prone to moving places around; as a successful London author David te
 <br><br>
 Carolyn talks to Katie Holdway about the research behind 'Mobile Landscapes' in a podcast for the Dickens Society [here](https://soundcloud.com/the-dickens-society?fbclid=IwAR3Vja7DvYKYBZYHbCti9pbGSOZGXkdPxPfIvvnWEUDwRDgidvy3R1xspjE)
 
-**Bibliography**
+**Bibliography**   
 Allbutt, R. (1886) _Rambles in Dickens land_   
 Helliar, A. (1924) _A Most strange and curious guide to Broadstairs_.    
 Hughes, W. (1893) _A week's tramp in Dickens land_, [first published 1891]   
