@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Pamela Wynne (Winifred Mary Scott, née Watson) 1879-1959" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/32/The_harbor_I._Margate_England.jpg">
 
 <param ve-entity eid="Q618045" aliases="Margate">
