@@ -109,7 +109,7 @@ We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old)
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Abode_Hotel_Canterbury.jpg" label="The Abode Hotel, Canterbury" attribution="DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons">
 
-**(In which we don’t go to) Folkestone**
+**(In which we don’t go to) Folkestone**   
 Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbury. [Jerome](/19c/19c-jerome-biography)’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is [Broadstairs](/dickens/broadstairs), been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of [Folkestone](/dickens/dickens-folkestone). Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](/dickens/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
 <param ve-image iiifmirador primary manifest="https://raw.githubusercontent.com/kent-map/kent/main/manifests/folkestone.json">
 
@@ -148,7 +148,7 @@ The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectat
 <param ve-image url="http://www.victorianweb.org/authors/dickens/gallery/111.jpg" title="Cobham, Kent: The Leather Bottle" attribution="http://www.victorianweb.org/authors/dickens/gallery/111.html">
 <param ve-map center="Q949561" zoom="10">
 
-**Great Expectations Part 2. Rochester**   
+**Great Expectations Part 2. Rochester**     
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday.    
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).  
 <param ve-image url="images/Bull-Hotel-postcard-Rochester.jpg" title="Bull Inn" fit="cover" attribution="">
@@ -185,7 +185,7 @@ Revving.
 
 And then we got lost again, but at least Estella wasn’t there to see it.
 
-**Gad’s Hill: Journey’s End** 
+**Gad’s Hill: Journey’s End**    
 Honestly. Parents.   
 > _Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up._  
 > _Maybe there really is a secret tunnel in your bedroom cupboard._  
@@ -210,7 +210,7 @@ Oh come on, you didn't think we - two respectable middle-aged people in broad da
 <param ve-image url="images/Gads1864067463.jpg" title="Gads1866" attribution="©The British Library Board Maps 67463">
 <param ve-image url="images/CDMamieKatie.jpg">
 
-**Conclusion: in which we justify all this gadding about by insisting that it was serious work**   
+**Conclusion: in which we justify all this gadding about by insisting that it was serious work**    
 So – as any teacher worth their salt would want to be assured – what did we actually learn from this experience? Well for one thing, that neither of us has missed our vocation in the car industry. 
 <br><br>
 But we also started to understand that the Victorians read aloud to each other – much as we read to children today  –  for one very good reason. Shared reading promotes familial, friendship and even romantic bonds because it is extraordinarily intimate (no there isn’t a ‘Knew it!’ twist coming up, this isn’t Strictly Come Dancing). When one adult reads to another they are helping to recover a meaningful tradition with  - so the latest research suggests - demonstrable benefits to wellbeing.[^ref3]
@@ -218,7 +218,7 @@ But we also started to understand that the Victorians read aloud to each other �
 To add to that, looking for the ‘original’ place known only from a novel – an activity that was until recently much derided by academics – can throw up exciting questions about the fictional world, even the nature of creativity itself. Sometimes the topography doesn’t match up but the symbolism does, as when Pip makes his stark choice between decency and status (village or town). Or the reading experience is intensified by seeing what a character sees – just try being alone with someone on an isolated marsh while they growl something about ripping out your liver. Really, there’s nothing quite like it.
 
 Dickens is prone to moving places around; as a successful London author David tells us that he can ‘be’ in [Dover](/dickens/dickens-dover) again just by remembering it, ‘As I laid down my pen, a moment since, to think of it, the air from the sea came blowing in again’.  But reading Dickens literally ‘in place’ is particularly rewarding, not least as an acute reminder of how environment becomes character in his novels. Again and again landscape is mobilised to trap, rescue or change characters. To walk through these places, book in hand, can make us feel closer to generations of Davids and Pips, to the friendly strangers of our own chance encounters, and maybe even to each other. 
-
+<br><br>
 Carolyn talks to Katie Holdway about the research behind 'Mobile Landscapes' in a podcast for the Dickens Society [here](https://soundcloud.com/the-dickens-society?fbclid=IwAR3Vja7DvYKYBZYHbCti9pbGSOZGXkdPxPfIvvnWEUDwRDgidvy3R1xspjE)
 
 ### Bibliography
