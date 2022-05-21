@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Edith Nesbit, the Romney Marsh and St Mary's Bay" author="Eleanor Fitzsimon" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
