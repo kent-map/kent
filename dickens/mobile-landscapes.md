@@ -179,12 +179,12 @@ Her expression as she poured it down the sink would have shaken anyone but a bor
 Gratifyingly we had a cool half hour in which to show that she didn’t scare _us_, before suddenly remembering the meter and making a less dignified exit than we might have chosen.   
 Technically it still had a minute to run when we saw the traffic warden, but this was no time to take risks.   
 Revving.  
-
+<br><br>
 > _Has she seen us?_  
 > _Just put your foot down, that way, quick._  
 > _It’s a one way system, we’re not allowed to do this._  
 > _What do you think she’s going to do, chase us?_  
-
+<br><br>
 And then we got lost again, but at least Estella wasn’t there to see it.
 
 **Gad’s Hill: Journey’s End**    
@@ -200,14 +200,14 @@ It was October half term when we found ourselves gazing over the very lawn where
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters" fit="cover">
 
 To repeat. It was half term. The school was very much closed. Memories of an unfortunate encounter with a geography teacher when late for an outreach meeting and spotted climbing a fence. But still.
-
+<br><br>
 > _You’re a head teacher. If we’re caught that will make it all right._  
 > _No it won’t. It will make it worse._  
 > _I could stand on your shoulders and get over the wall._  
 > _No you couldn’t._  
-
+<br><br>
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
-
+<br><br>
 Oh come on, you didn't think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like David Copperfield before us, made our way back towards the [Dover Road](/dickens/david-copperfield-dover-road)
 <param ve-image url="images/Gads1864067463.jpg" title="Gads1866" attribution="©The British Library Board Maps 67463">
 <param ve-image url="images/CDMamieKatie.jpg">
