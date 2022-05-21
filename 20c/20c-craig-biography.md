@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Edith “Edy” Craig (9 December 1869 – 27 March 1947)" author="Carla Danella" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg">
 
 <param ve-entity eid="Q107325931" aliases="Priest’s House">
