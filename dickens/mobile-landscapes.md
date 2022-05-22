@@ -100,14 +100,13 @@ The three flights of stairs proved to be an interesting challenge, but healthier
 <param ve-image url="https://stor.artstor.org/stor/48b30422-8835-4e77-892d-50a1a82b35c2" title="Augustine House interior" attribution="©Michelle Crowther">
 
 Revived and reanimated (for one of us at least elderflower jelly would become a symbol of all that is worth having in this life) we set off to find Dr Strong’s house, which we knew was on Lady Wootton’s Green because we’d read it somewhere. Although clearly not in the 1928 _Canterbury and Charles Dickens_, which could have told us that the whole idea was ‘absurd’.
-<param ve-compare curtain url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" label="Lady Wootton's Green, Canterbury (2021)">
-<param ve-compare url="https://stor.artstor.org/stor/deb8a6fd-bc51-42fb-8ac2-28b556c482ab" label="Lady Wootton's Green, Canterbury (1905 or earlier)">
+<param ve-image url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" label="Lady Wootton's Green, Canterbury, 2021">
+
 
 With hindsight, a recurring feature of these expeditions was our enthusiasm for engaging passersby in conversation, something in the manner of the ancient mariner. As a rule they treated us as harmless eccentrics, which made us feel more than ever like Aunt Betsey and Mr Dick. But on this occasion an old man kindly got off his bike and directed us immediately and with confidence  to the very spot where Dr Strong’s dictionary took shape. We all stared in awe for a while, took it in turns to identify conclusive architectural features and pontificate – we had, surely we all felt this, been drawn together in a shared experience that we would not lightly forget. It only occurred to us some weeks later that we had no idea who it was we’d been talking to and no reason whatsoever to believe that we had been looking at the right house. 
 <br><br>
 We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old) Dover Road in the Westgate, just as David describes. Sadly we could only get in if we requested a room for the night, which seemed excessive. But we peered determinedly through the windows and fingered the door handle – Agnes, or at least her representatives, spend much time polishing a door handle much like this one, which removed any lingering vestige of doubt.
-<param ve-compare curtain url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="The House of Agnes" attribution="Nat Lowden and Sara Gelencer">
-<param ve-compare url="https://stor.artstor.org/stor/d4255b03-4d19-411c-b6b5-cd6e7632fe73" label="The House of Agnes" attribution="By kind permission of Carolyn Oulton">
+<param ve-image url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="The House of Agnes" attribution="Nat Lowden and Sara Gelencer">
 
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Abode_Hotel_Canterbury.jpg" label="The Abode Hotel, Canterbury" attribution="DaKey2insight, via Wikimedia Commons" license="CC BY-SA 4.0">
@@ -155,20 +154,20 @@ The next half hour was spent in restrained disagreement over whether to rev the 
 'We’ve stalled' we would explain on each occasion, at which point the other driver would say indignantly, 'Well there’s nothing I can do about it', and spray us with water as they disappeared down the hill.
 
 The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectations-ship-and-lobster) and a substantial cream tea at the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) in Cobham  may seem to the reader inadequate. All we can suggest is that the reader gets stuck in a fjord for half an hour and sees how they like it. Besides, the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) is a living museum of Dickensiana, from newspaper cuttings to cigarette cards. It would have been a crime to miss it out. Sitting at a corner table, listening to the chuckling of the teapot over china cups, while peering myopically over each other’s heads the better to read framed autographs and old advertisements — there was no need to say another word.
-<param ve-image url="http://www.victorianweb.org/authors/dickens/gallery/111.jpg" title="Cobham, Kent: The Leather Bottle" attribution="http://www.victorianweb.org/authors/dickens/gallery/111.html">
+<param ve-image url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" title="Cobham, Kent: The Leather Bottle" attribution="Benjamin Mortley">
 <param ve-map center="Q949561" zoom="10">
 
 **Great Expectations Part 2. Rochester**     
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday.    
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).  
-<param ve-image url="images/Bull-Hotel-postcard-Rochester.jpg" title="Bull Inn" fit="cover">
-
+<br><br>
 Whenever he leaves the forge Pip is confronted with a choice between the marshy expanse of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the Blue Boar on his visits from London, rather than stay with Joe at the forge. 
+<param ve-image url="https://stor.artstor.org/stor/71d79942-8b89-4986-93c1-26ac1891d108" title="Bull Hotel" fit="cover" attribution="Benjamin Mortley">
 
 We were forced to question his decision when – having assumed we would find the inn without effort – we found ourselves in a startlingly empty, neon blue and purple bar, trying not to notice the prevalence of cocktail umbrellas or to look each other in the eye. Immediately we found ourselves speaking in whispers, as if we had been kidnapped or inadvertently walked into the wrong meeting. Clearly this was never going to do, but we spent several minutes plotting our escape in a kind of semaphore (which was odd, as there were apparently no staff to be offended, and the door was wide open), before finally bolting back into the sunshine and agreeing never to speak of this again. The actual Blue Boar was of course shut, so we took refuge in a quaintly oak-beamed pub a few doors down, where a motherly woman, almost certainly descended from Joe and Biddy’s children, took one look at our still ashen faces and put some extra gravy on the pie.
-
+<br><br>
 Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [Restoration House](/dickens/great-expectations-restoration-house). 
-<param ve-image url="images/RestorationHouse.JPG" title="Restoration House">
+<param ve-image url="https://stor.artstor.org/stor/08a01877-5172-46fe-ba14-108ac56bf37b" title="Restoration House" attribution="Benjamin Mortley">
 
 [‘He calls the knaves, Jacks, this boy!’](http://www.literatureproject.com/great-expectations/great_8.htm)  
 <br>
@@ -193,12 +192,12 @@ Her expression as she poured it down the sink would have shaken anyone but a bor
 Gratifyingly we had a cool half hour in which to show that she didn’t scare _us_, before suddenly remembering the meter and making a less dignified exit than we might have chosen.   
 Technically it still had a minute to run when we saw the traffic warden, but this was no time to take risks.   
 Revving.  
-<br><br>
+<br>
 > _Has she seen us?_  
 > _Just put your foot down, that way, quick._  
 > _It’s a one way system, we’re not allowed to do this._  
-> _What do you think she’s going to do, chase us?_  
-<br><br>
+> _What do you think she’s going to do, chase us?_   
+<br>
 And then we got lost again, but at least Estella wasn’t there to see it.
 
 **Gad’s Hill: Journey’s End**    
