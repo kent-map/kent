@@ -57,7 +57,7 @@ In this frame of mind it was inevitable that we should see Dickens everywhere. A
 > _Did the High Street look like this when we arrived this morning?_  
 > _No, definitely different._  
 > _Thought so. What have we done to it?_  
-> _Dickensed it of course._  
+> _Dickensed it of course._    
 <br>
 What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 <param ve-image url="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" label="Benjamin High Street" attribution="Benjamin Mortley">
@@ -70,7 +70,7 @@ What we are calling [David Copperfield: a curated walk](/dickens/david-copperfie
 We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [Fort House](/dickens/dickens-fort-house) ), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like [Aunt Betsey’s cottage](/dickens/david-copperfield-nuckells-place)  (it’s meant to be in [Dover](/dickens/dickens-dover), but who’s counting?) - but why a later owner reinvented [Fort House](/dickens/dickens-fort-house) as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
 <param ve-image primary url="https://stor.artstor.org/stor/e8ea25b0-76d8-4eac-93e6-d1c2838da651" title="Dickens Museum" attribution="©Martin Crowther">
 
-All three buildings are within sight of each other, and of the sea where Dickens swam like ‘a kind of salmon-coloured porpoise’ in the late summer of 1843. We began – almost – with the museum. But there was something we had to do first. By all means try this at home, your child’s teacher will love you for it, for a start. But two adults standing in a gateway, one declaring to the other that he has ‘been slighted, and taught nothing, and thrown upon myself, and put to work not fit for me’ is not quite what that teacher means by ‘reading together’.  Little wonder that Aunt Betsey stared in desperate silence as she was told that ‘I was robbed at first setting out, and have walked all the way, and have never slept in a bed since I began the journey.'[^ref1](Actually David, you came in a Citroen Picasso and you’ve graciously offered to take your aunt to lunch). But if she then ‘got up in a great hurry, collared me, and took me into the parlour’, getting further into character with a series of energetic pokes in the ribs, at least she wasn’t shouting ‘DONKEYS!’ and upsetting the neighbours.
+All three buildings are within sight of each other at Broadstairs, and of the sea where Dickens swam like ‘a kind of salmon-coloured porpoise’ in the late summer of 1843. We began – almost – with the museum. But there was something we had to do first. By all means try this at home, your child’s teacher will love you for it, for a start. But two adults standing in a gateway, one declaring to the other that he has ‘been slighted, and taught nothing, and thrown upon myself, and put to work not fit for me’ is not quite what that teacher means by ‘reading together’.  Little wonder that Aunt Betsey stared in desperate silence as she was told that ‘I was robbed at first setting out, and have walked all the way, and have never slept in a bed since I began the journey.'[^ref1](Actually David, you came in a Citroen Picasso and you’ve graciously offered to take your aunt to lunch). But if she then ‘got up in a great hurry, collared me, and took me into the parlour’, getting further into character with a series of energetic pokes in the ribs, at least she wasn’t shouting ‘DONKEYS!’ and upsetting the neighbours.
 <param ve-image primary url="images/HassamHIGHRES.jpg" title="Bleak House, Broadstairs, 1889" attribution="Childe Hassam (American, 1859-1935). Watercolor on paper, 13 1/2 x 9 3/4 in. Canton Museum of Art Collection, Canton, Ohio, USA, 2017.83">
 
 The museum parlour is a complete reconstruction of the room where David is randomly dosed with a series of bottles from a corner cupboard - we have never been quite sure that we too did not taste ‘aniseed water, anchovy sauce, and salad dressing’. More disturbingly David is later made to confront the Murdstones in this small space, in which there is barely room for the three of them as well as his aunt and Mr Dick.
@@ -144,12 +144,13 @@ It was just as well we had refreshed ourselves, because what happened next could
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.   
 > _So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?_  
 > _Never mind that, does either of us have a toothbrush?_  
-
+<br>
 Nothing if not practical, that’s us.   
 <br>
 The next half hour was spent in restrained disagreement over whether to rev the engine and risk flooding it, or sit in a foot of water playing gently with the accelerator from time to time to let the car ‘breathe’. The monotony of these discussions was broken up by a succession of motorists coming the other way. One by one they came alongside, wound down the window and asked if we were all right.   
 <br>
 'We’ve stalled' we would explain on each occasion, at which point the other driver would say indignantly, 'Well there’s nothing I can do about it', and spray us with water as they disappeared down the hill.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/A_Kentish_byway_in_Autumn_-_geograph.org.uk_-_1025007.jpg" label="A Kentish byway in Autumn" attribution-"Nigel Chadwick, via Wikimedia Commons" attribution="CC BY-SA 2.0">
 
 The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectations-ship-and-lobster) and a substantial cream tea at the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) in Cobham  may seem to the reader inadequate. All we can suggest is that the reader gets stuck in a fjord for half an hour and sees how they like it. Besides, the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) is a living museum of Dickensiana, from newspaper cuttings to cigarette cards. It would have been a crime to miss it out. Sitting at a corner table, listening to the chuckling of the teapot over china cups, while peering myopically over each other’s heads the better to read framed autographs and old advertisements — there was no need to say another word.
 <param ve-image url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" title="Cobham, Kent: The Leather Bottle" attribution="Benjamin Mortley">
@@ -197,6 +198,7 @@ Revving.
 > _What do you think she’s going to do, chase us?_   
 <br>
 And then we got lost again, but at least Estella wasn’t there to see it.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/87/With_Estella_after_all%2C_by_Marcus_Stone.jpg" label="With Estella after all" attribution="Marcus Stone, Public domain, via Wikimedia Commons">
 
 **Gad’s Hill: Journey’s End**    
 Honestly. Parents.   
