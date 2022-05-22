@@ -176,7 +176,10 @@ A child on the opposite bench clearly didn’t care what he called them and went
 <br>
 'And what coarse hands he has! And what thick boots!’  
 <br>
-Pip detected guiltily looking at his feet. Distracted glance in our direction from mother of still indifferent child. Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
+Pip detected guiltily looking at his feet. Distracted glance in our direction from mother of still indifferent child. 
+<br>
+Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ac/Estellapip.jpg" label="Estella and Pip" attribution="F. A. Fraser., Public domain, via Wikimedia Commons">
 
 It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella in the very [Guildhall](/dickens/great-expectations-guildhall) (now a [museum](https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/) ) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/GuildhallRochester.jpg" title="Guild Hall, Rochester" attribution="Wikimedia Commons">
