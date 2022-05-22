@@ -34,7 +34,7 @@
 <param ve-map center="Q1094104" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860">
+<param ve-map-layer active mapwarper-id="44832" title="Kent Topo Survey 1860">
 
 **Welcome to Dickens Land!**   
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
