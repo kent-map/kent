@@ -148,7 +148,9 @@ And then we stalled right in the middle of it, on one of those bends that only t
 > _Never mind that, does either of us have a toothbrush?_  
 
 Nothing if not practical, that’s us.   
+<br>
 The next half hour was spent in restrained disagreement over whether to rev the engine and risk flooding it, or sit in a foot of water playing gently with the accelerator from time to time to let the car ‘breathe’. The monotony of these discussions was broken up by a succession of motorists coming the other way. One by one they came alongside, wound down the window and asked if we were all right.   
+<br>
 'We’ve stalled' we would explain on each occasion, at which point the other driver would say indignantly, 'Well there’s nothing I can do about it', and spray us with water as they disappeared down the hill.
 
 The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectations-ship-and-lobster) and a substantial cream tea at the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) in Cobham  may seem to the reader inadequate. All we can suggest is that the reader gets stuck in a fjord for half an hour and sees how they like it. Besides, the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) is a living museum of Dickensiana, from newspaper cuttings to cigarette cards. It would have been a crime to miss it out. Sitting at a corner table, listening to the chuckling of the teapot over china cups, while peering myopically over each other’s heads the better to read framed autographs and old advertisements — there was no need to say another word.
@@ -168,9 +170,11 @@ Renewed and revitalised by this act of kindness, we were ready to infringe some 
 <param ve-image url="images/RestorationHouse.JPG" title="Restoration House">
 
 [‘He calls the knaves, Jacks, this boy!’](http://www.literatureproject.com/great-expectations/great_8.htm)  
+<br>
 A child on the opposite bench clearly didn’t care what he called them and went on playing with a convenient oak leaf.  
+<br>
 'And what coarse hands he has! And what thick boots!’  
-<br><br>
+<br>
 Pip detected guiltily looking at his feet. Distracted glance in our direction from mother of still indifferent child. Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
 
 It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella in the very [Guildhall](/dickens/great-expectations-guildhall) (now a [museum](https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/) ) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
