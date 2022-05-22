@@ -21,7 +21,7 @@
 **Occupation / significance** Prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense.    
 **Publication** _ of The _Shivering Sands_, set near the Goodwin Sands, 1969.   
 **Place** Stayed in Deal late 1960s. Purchased and restored a house in Sandwich, known as The King’s Lodging, in the 1970s.  
-<param ve-image url="(images/The Goodwin Sands img-019.jpg)" label="“The Goodwin Sands” image from Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904">
+<param ve-image url="https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f" label="“The Goodwin Sands” image from Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904">
 
 'the sand moves as you watch and forms itself into strange shapes, like monsters some of them . . . with claws . . . waiting to catch anyone who wandered there and pull them down. There were gulls circling overhead. Their cries were so mournful, Mrs Verlaine. Oh, it was frightening, so lonely, so desolate. They say the sands are haunted. I’ve talked to one of the men from the North Goodwins Lightship and he says that when he’s on watch he sometimes hears wild heart-rending cries from the sands. They used to say it was the gulls, but he wasn’t so sure. Terrible things have happened there.'
 <br><br>
