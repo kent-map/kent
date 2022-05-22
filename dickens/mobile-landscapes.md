@@ -142,6 +142,7 @@ Pies. We’d been opting for them consistently since [Broadstairs](/dickens/broa
 <br><br>
 It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were:   
 > _Hurrah, a fjord – I love fjords!_  
+<param ve-image url="https://stor.artstor.org/stor/bfce798e-18d9-4e1b-bd73-b375747cb320" label="Pies" attribution="Michelle Crowther">
 
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.   
 > _So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?_  
