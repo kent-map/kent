@@ -6,7 +6,8 @@
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 
-<param title="Broadstairs" eid="Q922739">
+<param title="Broadstairs" eid="Q29303">
+<param title="Canterbury" eid="Q922739">
 <param title="Chalk" eid="Q5068781" aliases="the village">
 <param title="Chatham" eid="Q729006">
 <param title="Cooling" eid="Q2649453">
@@ -33,10 +34,7 @@
 <param ve-map center="Q1094104" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820">
 <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860">
-<param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808">
-<param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
 
 **Welcome to Dickens Land!**   
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
