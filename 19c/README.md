@@ -26,6 +26,7 @@
 [Richard Dadd](19c-dadd-biography)   
 [Charles Darwin](19c-darwin-biography)   
 [William Dyce](19c-dyce-biography)   
+[George Eliot](19c-eliot-george-biography)   
 [Sir John Franklin](19c-franklin-biography)  
 [Thomas Frost](19c-frost-biography)   
 [Elizabeth Gould](19c-gould-biography)   
