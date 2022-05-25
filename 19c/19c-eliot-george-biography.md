@@ -1,5 +1,12 @@
-George Eliot 
-Mary Ann/ Marian Evans [pseud. George Eliot] (1819 –1880)
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
+<param ve-config 
+       title="Mary Ann/ Marian Evans [pseud. George Eliot] (1819 –1880)"
+       author="Michelle Crowther"
+       banner="xxx" 
+       layout="vertical">
+
+#
 
 “I warn you against Ramsgate which is a strip of London come out for an airing. Broadstairs is perfect, and I have the snuggest little lodgings conceivable with a motherly good woman and a nice little damsel of 14 to wait on me.”
 Marian Evans, later known as the novelist, George Eliot, visited Broadstairs in the summer of 1852. She had moved to London two years earlier, with the intention of becoming a writer and had gained work as assistant editor of the Westminster Review, but the work depressed her, and by July 1852 she was “sadly in want of the change.” She wrote to her friend Sara Hennell that she felt “bothered to death with article-reading and scrap work of all sorts: it is clear my poor head will never produce anything under these circumstances; but I am patient.” She was also suffering from unrequited love, having recently been spurned by philosopher and biologist Herbert Spencer whom she had met through her friend, the publisher John Chapman.
