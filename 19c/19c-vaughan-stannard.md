@@ -25,6 +25,7 @@ Nevertheless, family finances were unravelling at this period. Up until 1892, th
 The Stannards may also have been avoiding Essex for other reasons. Henrietta had been sued by an Ipswich tailor for £11 11s “being £5 5s for a superfine grey montana jacket with silk sleeves, trimmed a la militaire and £6 6s for a superfine grey montana costume complete, braided in black” which she had refused to pay for. She claimed that that the clothes did not fit, but the judge ruled that she should have given the tailor the opportunity to make alterations.  The report of the court case which appeared in the _East Anglian Daily Times_ in February 1892, ran to three and a half columns and portrayed Henrietta as bad-tempered and difficult. Although the family still visited in the summer of 1892, this was to be their last visit. In October Henrietta wrote to the Honorary Secretary of the [which] club, Miss E.E. Dickinson, from Wix to say that she "will be moving house and unable to come to the Club on Friday."
 
 It is possible that Mrs Charlotte Talbot Coke, a fellow Yorkshire woman, an army wife, and contributor to _Winter’s Weekly_  had recommended Birchington-on-Sea to Henrietta. Talbot Coke had visited Birchington in 1891 and this had inspired her to think about buying a seaside cottage where she might entertain guests and give “change and rest (rent free) to friends unable to afford seaside jaunts”.  Whether she did or not is uncertain, but she returns to this theme in later articles as she describes ideas for decorating a seaside home. What is known is that Stannard and Coke were working together on _Hearth and Home_ magazine, which was launched in May 1891. 
+<param ve-image url="https://stor.artstor.org/stor/15f9c416-969a-4d55-bf7a-bdea6a14b886" label="Birchington on Sea, The Square">
 
 Expressing the hope that the bracing air would improve the health of her husband Arthur and eldest daughter Audrey (known as Baeufie), Stannard took her family to Birchington in the summer of 1893.   The air at "Bungalow Birchington" as it was nicknamed was said to be beneficial for those suffering with “exhausted nerves” as it was more sheltered than places like [Margate](/19c/19c-margate) and [Ramsgate](/19c/19c-ramsgate) which were “charged with the southerly breezes that sweep round the head of Thanet.”  The air was certainly bracing, but the stench of the seaweed “was an objectionable drawback” which poisoned the air “with a potency suggestive of typhoid fever or other miasma”[^ref1]. [Dante Gabriel Rossetti](/19c/19c-rossetti-biography) had stayed for a few months at Westcliff Bungalow in 1882 to convalesce, after a seizure, but had died whilst staying there.  
 <param ve-image url="https://stor.artstor.org/stor/09022d7a-17ba-48e8-8429-10f7fcbb6a46" label="The Cliffs and Bungalows, Birchington-on-sea" attribution="T. Pointer, Stationer, Birchington on Sea c.1909">
@@ -88,11 +89,7 @@ JOHN STRANGE WINTER Thursday,  June 1, 1893 Hearth and Home (UKP) (London, Engla
 [^ref1]:  _Whitstable Times and Herne Bay Herald_ - Saturday 05 December 1891
   Author: Talbot CokeDate: Friday,  June 1, 1894
 Publication: Myra's Journal of Dress and Fashion (London, England)Volume: XX , Issue: [6]
-  FROM CASTLE TO COTTAGE
-Author: TALBOT COKE
-Date: Thursday,  Apr. 20, 1899
-Publication: Hearth and Home (UKP) (London, England)
-Volume: XVI , Issue: 414
+TALBOT COKE. FROM CASTLE TO COTTAGE. Thursday,  Apr. 20, 1899 _Hearth and Home_ (UKP) (London, England) Volume: XVI , Issue: 414
   HEARTH AND HOME
 Date: Thursday,  May 21, 1891
 Publication: Hearth and Home (UKP) (London, England)
@@ -117,7 +114,7 @@ The Vagabond CLub.
   Advertisements. http://johnjohnson.chadwyck.co.uk/search/results.do
   http://specialcollections.le.ac.uk/digital/collection/p16445coll4/id/184910/rec/2
   
-  [^ref11]: Drogheda Argus and Leinster Journal - Saturday 01 July 1893
+[^ref11]: Drogheda Argus and Leinster Journal - Saturday 01 July 1893
 [^ref13]: Woman's Signal - Thursday 12 March 1896
 [^ref14]: FLORENCE FENWICK MILLER Jan. 30, 1896 Women's Penny Paper (London, England)Volume: V , Issue: 109
 
