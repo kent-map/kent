@@ -28,7 +28,7 @@ ELIZABETH BURGESS, MANTUA-MAKER, FROM St. ALPHAGE’S, TAKES this Opportunity to
 Genteel Lodgings to be Let ready-furnish’d, during the Race-week
 <param ve-image url="https://stor.artstor.org/stor/4dc963f3-29e3-4756-b974-a4e1a4aad62e" label="43, King Street" attribution="Edward Crowther">
 
-In 1772 [Kentish Gazette](/18c/18c-kentish-gazette) advises that Mr Burgess next door to the Post Office is selling tickets for the Theatre (Post Office then in St George’s Street and described in 1794 as ‘Opposite the White Friars Gateway by St George’s Church’), and in the same year the following appears:
+In 1772 [Kentish Gazette](/18c/18c-kentish-gazette) advises that Mr Burgess next door to the Post Office is selling tickets for the Theatre (Post Office then in St George’s Street and described in 1794 as ‘Opposite the White Friars Gateway by St George’s Church’ but probably from 1768 till about 1790 between the Corn Market (now Longmarket) and Butchery Lane), and in the same year the following appears:
 <br><br>
 ELIZABETH BURGESS Begs Leave to inform the PUBLIC, That she has opened a SHOP, in St. GEORGE’S STREET, CANTERBURY; Where are MADE and SOLD all Sorts of PASTRY and CONFECTIONARY.<br>
 Those Gentlemen and Ladies who please to favor her with their Commands, may be served with RICH CAKES, MADE-DISHES, JELLIES, SOUPS, HAMS, POTTED and COLLARED MEATS, etc.
