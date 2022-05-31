@@ -20,7 +20,7 @@ The year 1944 was one of devastating human loss for Kent, in part due to the imp
        license="Creative Commons Attribution Share-Alike 3.0 Unported" 
        url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Kent_UK_location_map.svg">
 
-Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians. Tonbridge which was "bang on the routes of several 'bomb lanes' went through a period of anxiety and stress"[^ref1] recording 100 doodlebug incidents[^ref2]. However for others the doodlebug was an object of curiosity and opportunities to view a Doodlebug were given to residents of Herne Bay at xxx[^ref2]  and Whitstable at the Auction Mart. Adults were charged 6d and children 3d to view the bomb, with the funds going towards the Fund for the 'few'. [^ref3]  At the bank holiday fete in Canterbury one of the popular side shows was "an almost complete specimen of the Hun's terror weapon",[^ref4]
+Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians. Tonbridge which was "bang on the routes of several 'bomb lanes' went through a period of anxiety and stress"[^ref1] recording 100 doodlebug incidents[^ref2]. However for others the doodlebug was an object of curiosity and opportunities to view a Doodlebug were given to residents of Herne Bay at Woolworths[^ref2]  and Whitstable at the Auction Mart. Adults were charged 6d and children 3d to view the bomb, with the funds going towards the Fund for the 'few'. [^ref3]  At the bank holiday fete in Canterbury one of the popular side shows was "an almost complete specimen of the Hun's terror weapon",[^ref4]
 <param ve-image 
        label="V-1 flying bomb" 
        description="The Fiesler 103R bomb" 
@@ -41,7 +41,7 @@ Though the decision to change the path of the bombs saved many lives in London, 
 # References
 [^ref1]: Tonbridge Free Press - Friday 15 September 1944
 [^ref2]: Tonbridge Free Press - Friday 26 January 1945
-[^ref3]:
+[^ref3]: Whitstable Times and Herne Bay Herald - Saturday 16 September 1944
 [^ref4]: Whitstable Times and Herne Bay Herald - Saturday 12 August 1944
 [^ref3]: Whitstable Times and Herne Bay Herald - Saturday 26 August 1944
 [^ref2]: (Cook)
