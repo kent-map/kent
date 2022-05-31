@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config title="E.M. Forster" author="Diana Hirst" layout="vtl" banner="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50">
 
