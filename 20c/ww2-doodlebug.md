@@ -20,7 +20,7 @@ The year 1944 was one of wide and devastating humanitarian loss for Kent, partic
        license="Creative Commons Attribution Share-Alike 3.0 Unported" 
        url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Kent_UK_location_map.svg">
 
-Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians. Tonbridge which was "bang on the routes of several 'bomb lanes' went through a period of anxiety and stress" however this was largely unfounded as the bombs were headed towards London.[^ref1]
+Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians. Tonbridge which was "bang on the routes of several 'bomb lanes' went through a period of anxiety and stress".[^ref1] However for others there was a curiosity about the new weapon and opportunities to view a Doodlebug were given to residents of Herne Bay at xxx[^ref2]  and Whitstable at the Auction Mart. Adults were charged 6d and children 3d to view the bomb, with the funds going towards the Fund for the 'few'.[^ref3]
 <param ve-image 
        label="V-1 flying bomb" 
        description="The Fiesler 103R bomb" 
@@ -31,7 +31,7 @@ A map in ‘The Kent Messenger’ from the Summer of 1944 shows the extent of th
 
 However, with heavy bombing on the capital massively impacting public morale, the British government decided to leak false information to the Germans in an effort to redirect doodlebugs away from the centre of London towards Kent, and thus minimise civilian deaths.[^ref4] This calculation, as Professor Eric Grove explains, aimed to 'sacrifice lives in the countryside to avoid heavier casualties in London'.[^ref5] Double agents working for the Allies deceived the Germans into thinking the doodlebugs were landing too far north, and the deception was successful in changing the course of the bombs to hit Kent and the south of London instead. 
 
-Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. By the end of the war, doodlebugs had killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref6]
+Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. It is estimated that doodlebugs killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref6] Dartford and Sevenoaks were the worst hit towns in Kent, with 5,350 bombs falling on Dartford and 3,250 in Sevenoaks.[^ref7]
 <param ve-image 
        label="Orpington" 
        description="An image of the high street" 
@@ -40,8 +40,11 @@ Though the decision to change the path of the bombs saved many lives in London, 
 
 # References
 [^ref1]: Tonbridge Free Press - Friday 15 September 1944
+[^ref2]:
+[^ref3]: Whitstable Times and Herne Bay Herald - Saturday 26 August 1944
 [^ref2]: (Cook)
 [^ref3]: Sevenoaks Chronicle and Kentish Advertiser - Friday 19 July 1946
 [^ref4]: ("Doodlebugs 'Diverted' To Save London")
 [^ref5]: Ibid.
-[^ref6]: ("Where The Doodle Bugs Crashed In Kent. Summer 1944. | Maps")
+[^ref6]: "Where The Doodle Bugs Crashed In Kent. Summer 1944. Maps"
+[^ref7]: _The County Administration in War_ cited in _East Kent Times and Mail_ - Wednesday 28 May 1947
