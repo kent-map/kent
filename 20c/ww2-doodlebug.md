@@ -20,7 +20,7 @@ The year 1944 was one of wide and devastating humanitarian loss for Kent, partic
        license="Creative Commons Attribution Share-Alike 3.0 Unported" 
        url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Kent_UK_location_map.svg">
 
-Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians. The eerie noise accompanying a doodlebug’s flight and the buzzing noise signalling that the bomb was about to fall. Tonbridge which was "bang on the routes of several 'bomb lanes' went through a period of anxiety and stress" however this was largely unfounded as the bombs continued beyond the town heading for London.[^ref1]
+Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians. Tonbridge which was "bang on the routes of several 'bomb lanes' went through a period of anxiety and stress" however this was largely unfounded as the bombs were headed towards London.[^ref1]
 <param ve-image 
        label="V-1 flying bomb" 
        description="The Fiesler 103R bomb" 
