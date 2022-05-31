@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config title="E.M. Forster" author="Diana Hirst" layout="vtl" banner="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50">
 
@@ -18,14 +18,14 @@ A few years later, through the Bloomsbury set, Forster met Sydney Waterlow.[^ref
 
 In August 1907, just after the publication of _The Longest Journey_, Forster joined von Arnim and others of her former tutors, including Hugh Walpole, on the caravanning journey through the Weald during what was one of the wettest Augusts on record. Von Arnim would immortalise the holiday in her 1909 novel _The Caravaners_, though it is not evident which, if any, of the young men is based on Forster.[^ref4] Forster joined the party in a field at Great Chart but left before the end, travelling from Borough Green station back to London. He found the city ‘hummed strangely’ for, in a rare moment of sunshine, he had ‘heard a new song’ in the Kent countryside which he recorded in this poem.   
 <br>
-Ten shadows flecked the sunlit road,
-Ten shadows passed, yet we remain
-Still marching to the Dorian Mode
-Still summoning the gods to reign.
-Gods of the country! Still in Kent
-The music of that pipe rings plain
-Through places where ten shadows went;
-The shadows passed; but we remain.[^ref5]
+'Ten shadows flecked the sunlit road,   
+Ten shadows passed, yet we remain   
+Still marching to the Dorian Mode   
+Still summoning the gods to reign.   
+Gods of the country! Still in Kent   
+The music of that pipe rings plain   
+Through places where ten shadows went;   
+The shadows passed; but we remain.'[^ref5]
 <br><br>
 However, two years later, in Howards End, Forster would ask ‘Why has not England a great mythology? . . . Deep and true as the native imagination can be, it seems to have failed here.’[^ref6]
 <br><br>
