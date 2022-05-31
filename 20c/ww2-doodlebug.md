@@ -20,18 +20,18 @@ The year 1944 was one of wide and devastating humanitarian loss for Kent, partic
        license="Creative Commons Attribution Share-Alike 3.0 Unported" 
        url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Kent_UK_location_map.svg">
 
-Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians, both across the period in which these bombs were heavily utilised, and the immediate instance in which they appeared in the sky. This immediate sense of terror was conjured by the eerie noise accompanying a doodlebug’s flight and the anticipation involved in listening for its buzzing noise to stop momentarily, which meant the bomb was about to fall. 
+Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians. The eerie noise accompanying a doodlebug’s flight and the buzzing noise signalling that the bomb was about to fall. Tonbridge which was "bang on the routes of several 'bomb lanes' went through a period of anxiety and stress" however this was largely unfounded as the bombs continued beyond the town heading for London.[^ref1]
 <param ve-image 
        label="V-1 flying bomb" 
        description="The Fiesler 103R bomb" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Fieseler_Fi_103R_Reichenberg.jpg">
 
-A map in ‘The Kent Messenger’ from the Summer of 1944 shows the extent of the bombing in the Kent Section of the South East of England, providing a visual explanation for the name ‘Bomb Alley’ that was given to Kent during the Blitz.[^ref1] Kent’s location on route to the more densely populated city of London, which was the Germans’ main target, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead.
+A map in ‘The Kent Messenger’ from the Summer of 1944 shows the extent of the bombing in the Kent Section of the South East of England, providing a visual explanation for the name ‘Bomb Alley’ that was given to Kent during the Blitz.[^ref2] Kent’s location en route to the more densely populated city of London, which was the Germans’ main target, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead. The Roman Catholic Church in Sevenoaks sustained damage from a doodlebug which hit nearby South Park in July 1944.[^ref3]
 
-However, with heavy bombing on the capital massively impacting public morale, the British government decided to leak false information to the Germans in an effort to redirect doodlebugs away from the centre of London towards Kent, and thus minimise civilian deaths.[^ref2] This calculation, as Professor Eric Grove explains, aimed to 'sacrifice lives in the countryside to avoid heavier casualties in London'.[^ref3] Double agents working for the Allies deceived the Germans into thinking the doodlebugs were landing too far north, and the deception was successful in changing the course of the bombs to hit Kent and the south of London instead. 
+However, with heavy bombing on the capital massively impacting public morale, the British government decided to leak false information to the Germans in an effort to redirect doodlebugs away from the centre of London towards Kent, and thus minimise civilian deaths.[^ref4] This calculation, as Professor Eric Grove explains, aimed to 'sacrifice lives in the countryside to avoid heavier casualties in London'.[^ref5] Double agents working for the Allies deceived the Germans into thinking the doodlebugs were landing too far north, and the deception was successful in changing the course of the bombs to hit Kent and the south of London instead. 
 
-Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. By the end of the war, doodlebugs had killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref4]
+Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. By the end of the war, doodlebugs had killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref6]
 <param ve-image 
        label="Orpington" 
        description="An image of the high street" 
@@ -39,7 +39,9 @@ Though the decision to change the path of the bombs saved many lives in London, 
        url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Orpington_High_Street_with_bus.jpg">
 
 # References
-[^ref1]: (Cook)
-[^ref2]: ("Doodlebugs 'Diverted' To Save London")
-[^ref3]: Ibid.
-[^ref4]: ("Where The Doodle Bugs Crashed In Kent. Summer 1944. | Maps")
+[^ref1]: Tonbridge Free Press - Friday 15 September 1944
+[^ref2]: (Cook)
+[^ref3]: Sevenoaks Chronicle and Kentish Advertiser - Friday 19 July 1946
+[^ref4]: ("Doodlebugs 'Diverted' To Save London")
+[^ref5]: Ibid.
+[^ref6]: ("Where The Doodle Bugs Crashed In Kent. Summer 1944. | Maps")
