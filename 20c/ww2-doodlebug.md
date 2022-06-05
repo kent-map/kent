@@ -12,6 +12,13 @@
 <param ve-entity title="British Government" eid="Q6063">
 <param ve-entity title="Britain" eid="Q145">
 <param ve-entity title="Orpington" eid="Q123977">
+<param ve-entity title="Orpington" eid="Q123977">
+<param ve-entity title="Orpington" eid="Q123977">
+<param ve-entity title="Orpington" eid="Q123977">
+<param ve-entity title="Orpington" eid="Q123977">
+<param ve-entity title="Orpington" eid="Q123977">
+<param ve-entity title="Orpington" eid="Q123977">
+<param ve-entity title="Orpington" eid="Q123977">
 
 The year 1944 was one of devastating human loss for Kent, in part due to the impact of a newly invented ‘revenge weapon’ (Vergeltungswaffen) used by the Germans. The V-1 flying bomb, also known as the doodlebug because of its erratic movement and buzzing noise, was powered by a jet engine and carried a ton of explosive in its nose. The bombs were launched from the Pas de Calais and Picardy during the summer of 1944, with most passing over the Kent coast between Hythe and Dungeness, their destination, London.[^ref1] 
 <param ve-image 
@@ -63,7 +70,7 @@ Kent with 2,400 doodlebugs in the Summer of 1944 lead to the period becoming kno
 [^ref1]: Ogley, B. _Kent: a chronicle of the century. vol. 2: 1925-1949._ Westerham: Froglets Publication, 1997. p.151.
 [^ref2]: _Tonbridge Free Press_ - Friday 15 September 1944
 [^ref3]: [National Archives](https://www.nationalarchives.gov.uk/education/resources/british-response-v1-and-v2/)
-[^ref4]  _Kent & Sussex Courier_ - Friday 15 September 1944
+[^ref4]:  _Kent & Sussex Courier_ - Friday 15 September 1944
 [^ref5]: _Kent & Sussex Courier_ - Friday 15 September 1944
 [^ref6]: Commons sitting of Thursday, 13 July, 1944.
 [^ref7]: https://www.history.co.uk/article/the-death-of-the-doodlebug-the-rise-and-fall-of-hitler%25E2%2580%2599s-v-weapons
