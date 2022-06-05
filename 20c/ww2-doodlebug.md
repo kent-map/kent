@@ -13,16 +13,20 @@
 <param ve-entity title="Swanscombe" eid="Q1083051">
 <param ve-entity title="Tonbridge" eid="Q936183">
 <param ve-entity title="Lympne" eid="Q2056118">
-<param ve-entity title="Capel" eid="Q1006783">
+<param ve-entity title="Capel-le-Ferne" eid="Q1006783">
 <param ve-entity title="Rolvenden" eid="Q2313624">
+<param ve-entity title="Brabourne" eid="Q3144592">
+<param ve-entity title="Whitstable" eid="Q964785">
+<param ve-entity title="Herne Bay" eid="Q929286">
+<param ve-entity title="Canterbury" eid="Q29303">
 
 The year 1944 was one of devastating human loss for Kent, in part due to the impact of a newly invented ‘revenge weapon’ (Vergeltungswaffen) used by the Germans. The V-1 flying bomb, also known as the doodlebug because of its erratic movement and buzzing noise, was powered by a jet engine and carried a ton of explosive in its nose. The bombs were launched from the Pas de Calais and Picardy during the summer of 1944, with most passing over the Kent coast between Hythe and Dungeness, their destination, London.[^ref1] 
 <param ve-image centre="Q967166" zoom="10">
 
-Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians; for the residents of Tonbridge which was on the flight of the 'bomb lane' it was a period of anxiety and stress.[^ref2]. The first bomb dropped on Swanscombe on the 13th June.[^ref3] Four days later, the first civilian casualities were recorded at Benenden when a flying bomb demolished a cottage and damaged two more, as well as causing extensive damage to the sanitorium.[^ref4] As the summer wore on, there were more civilian casualties in the Kent villages of Lympne, Capel, Rolvenden, and Brabourne.[^ref5] In the House of Commons, Tom Driberg, called for more Morrison shelters to protect people in rural areas.[^ref6]
+Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians; for the residents of Tonbridge which was on the flight of the 'bomb lane' it was a period of anxiety and stress.[^ref2]. The first bomb dropped on Swanscombe on the 13th June.[^ref3] Four days later, the first civilian casualities were recorded at Benenden when a flying bomb demolished a cottage and damaged two more, as well as causing extensive damage to the sanitorium.[^ref4] As the summer wore on, there were more civilian casualties in the Kent villages of Lympne, Capel-le-Ferne, Rolvenden, and Brabourne.[^ref5] In the House of Commons, Tom Driberg, called for more Morrison shelters to protect people in rural areas.[^ref6]
 <param ve-image centre="Q2313624" zoom="10">
 
-The doodlebug became an object of curiosity during 'Doodlebug Summer'. At the bank holiday fete in Canterbury "an almost complete specimen of the Hun's terror weapon" was one of the side shows.[^ref7]. In Herne Bay residents could view a Doodlebug at Woolworths[^ref8] and in Whitstable at the local Auction Mart. Adults were charged 6d and children 3d to view the weapon, with the funds going towards the Fund for the 'few' who had fought in the [Battle of Britain](/20c/20c-battle-of-britain-memorial/). [^ref9]  
+The doodlebug became an object of curiosity during 'Doodlebug Summer' particularly for those areas where very few bombs fell. At the bank holiday fete in Canterbury "an almost complete specimen of the Hun's terror weapon" was one of the side shows.[^ref7]. In Herne Bay residents could view a Doodlebug at Woolworths[^ref8] and in Whitstable at the local Auction Mart. Adults were charged 6d and children 3d to view the weapon, with the funds going towards the Fund for the 'few' who had fought in the [Battle of Britain](/20c/20c-battle-of-britain-memorial/). [^ref9]  
 <param ve-image 
        label="V-1 flying bomb" 
        description="The Fiesler 103R bomb" 
@@ -34,16 +38,13 @@ A map in _The Kent Messenger_ from the Summer of 1944 shows the extent of the bo
 
 With heavy bombing on the capital massively impacting public morale, the British government decided to leak false information to the Germans in an effort to redirect doodlebugs away from the centre of London towards Kent, and thus minimise civilian deaths.[^ref11] This calculation, as Professor Eric Grove explains, aimed to 'sacrifice lives in the countryside to avoid heavier casualties in London'.[^ref12] Double agents working for the Allies deceived the Germans into thinking the doodlebugs were landing too far north, and the deception was successful in changing the course of the bombs to hit Kent and the south of London instead. 
 <param ve-image 
-       label="V2 tipped over by a Spitfire"
-       description="A spitfire tipping a V2 with its wing" 
+       label="V1 tipped over by a Spitfire"
+       description="A spitfire tipping a V1 with its wing" 
        license="Joseph Quincy Adams. Image credit C. W. Redwood, formerly technical artist at Cornell University, Public domain, via Wikimedia Commons" 
        url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Spitfire-Tipping-V-1-Flying-Bomb-wiki.jpg">
 
 Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. It is estimated that doodlebugs killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref13] Squadron Leader H.E. Bates, who was serving with the R.A.F. during the second world war, was commissioned to write _The Battle of the Flying Bomb_ but the publication was cancelled. He would later move to Little Chart, where he wrote _The Darling Buds of May_.[^ref14]
-<param ve-image label="V2 rocket"
-       description="A V2" 
-       license="https://upload.wikimedia.org/wikipedia/commons/e/e9/V-2_Rocket_Flying_Heritage_Collection%28Side%29.jpg" 
-      url="https://upload.wikimedia.org/wikipedia/commons/e/e9/V-2_Rocket_Flying_Heritage_Collection%28Side%29.jpg">
+
 
 # References
 [^ref1]: Ogley, B. _Kent: a chronicle of the century. vol. 2: 1925-1949._ Westerham: Froglets Publication, 1997. p.151.
