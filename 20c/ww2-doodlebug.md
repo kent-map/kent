@@ -47,8 +47,7 @@ With heavy bombing on the capital massively impacting public morale, the British
 Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. It is estimated that doodlebugs killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref13] Squadron Leader H.E. Bates, who was serving with the R.A.F. during the second world war, was commissioned to write _The Battle of the Flying Bomb_ but the publication was cancelled. He would later move to Little Chart, where he wrote _The Darling Buds of May_.[^ref14]
 <param ve-map center="Q123977" zoom="15">
 
-
-# References
+### References
 [^ref1]: Ogley, B. _Kent: a chronicle of the century. vol. 2: 1925-1949._ Westerham: Froglets Publication, 1997. p.151.
 [^ref2]: _Tonbridge Free Press_ - Friday 15 September 1944
 [^ref3]: [National Archives](https://www.nationalarchives.gov.uk/education/resources/british-response-v1-and-v2/)
