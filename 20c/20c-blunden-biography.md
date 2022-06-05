@@ -17,7 +17,7 @@ Edmund Blunden, poet, author and critic, was born on the 1st of November 1896, i
 'Two influences stand out clearly and unmistakably; that of Kent, his native countryside, and that of the war. Mr Blunden is a thorough Kentishman. That probably is why he succeeds so admirably in recreating the very soul and atmosphere of the southern counties.'[^ref3]
 <br><br>
 Yalding was to inspire over 50 of his poems[^ref4] including 'Midnight Skaters' (1968) which Webb (1990) described as "a kaleidoscope of Yalding impressions: skaters against a background of hop-gardens, with death itself lurking beneath the surface in place of the pike."[^ref5]
-<param ve-map center=“Q2051722” zoom=“15”>
+<param ve-map center="Q2051722" zoom="15">
 
 In 1904, his parents decided to move to Congelow, a larger property just outside the village to accommodate their growing family. It was a rambling farmhouse with applelofts, dairy and brewery which suited the imaginative boy.[^ref6] However by 1908, due to financial difficulties, the family had to move to cheaper accommodation, living in two cottages next to the Anchor Inn at Twyford Bridge, which Blunden hated.[^ref7] In 1909, he left the village to board at Christ's Hospital School, Horsham, although he experienced waves of homesickness for his beloved Yalding.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/YaldingTwyford0529.JPG" label="Twyford Bridge, Yalding" attribution="Clem Rutter, Rochester, Kent, via Wikimedia Commons" license="CC BY-SA 3.0">
