@@ -160,7 +160,7 @@ Lisa Hawkins has a first-class degree and an MA in Fine Art, her main subject is
 ##
 [**Debbie Hickman**]()
 
-![](https://stor.artstor.org/stor/afd98a40-01d8-49ec-a67e-1fa264d8d5ff)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/afd98a40-01d8-49ec-a67e-1fa264d8d5ff)
 
 Debbie Hickman spent four years as Operations Manager for the Brogdale Horticultural Trust, before setting up and running her own businesses at Brogdale for twelve years. She embarked on a degree in Creative and Professional Writing at Canterbury Christ Church University at the grand old age of 58, and now divides her time between various writing projects and working for a national charity. She lives in Whitstable.
 
