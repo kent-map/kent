@@ -21,13 +21,13 @@ The year 1944 was one of devastating human loss for Kent, in part due to the imp
        url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Kent_UK_location_map.svg">
 <param ve-image centre="    " zoom="15">
 
-Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians; for the residents of Tonbridge which was on the flight of the 'bomb lane' it was a period of anxiety and stress.[^ref2]. The first casualties were at Benenden on the 17th June when a flying bomb demolished a cottage and damaged two more, as well as causing extensive damage to the sanitorium.[^ref3] As the summer wore on, there were more civilian casualties in the Kent villages of Lympne, Capel, Rolvenden, and Brabourne.[^ref4] In the House of Commons, Tom Driberg, called for more Morrison shelters to protect people in rural areas.[^ref5]
+Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians; for the residents of Tonbridge which was on the flight of the 'bomb lane' it was a period of anxiety and stress.[^ref2]. The first bomb dropped on Swanscombe on the 13th June.[^ref3] Four days later, the first civilian casualities were recorded at Benenden when a flying bomb demolished a cottage and damaged two more, as well as causing extensive damage to the sanitorium.[^ref4] As the summer wore on, there were more civilian casualties in the Kent villages of Lympne, Capel, Rolvenden, and Brabourne.[^ref5] In the House of Commons, Tom Driberg, called for more Morrison shelters to protect people in rural areas.[^ref6]
 
-A map in _The Kent Messenger_ from the Summer of 1944 shows the extent of the bombing in Kent. Kent’s location en route to the more densely populated city of London, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead. [Winston Churchill](/20c/20c-churchill-chartwell/) speaking in parliament in the summer of 1944, said 'The flying bomb is a weapon literally and essentially indiscriminate in its nature, purpose, and effect.’
+A map in _The Kent Messenger_ from the Summer of 1944 shows the extent of the bombing in Kent. Kent’s location en route to the more densely populated city of London, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead. [Winston Churchill](/20c/20c-churchill-chartwell/) speaking in parliament in the summer of 1944, said 'The flying bomb is a weapon literally and essentially indiscriminate in its nature, purpose, and effect.’[^ref7]
 <param ve-image url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" label="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg"> 
 <param ve-image centre="    " zoom="15">
 
-With heavy bombing on the capital massively impacting public morale, the British government decided to leak false information to the Germans in an effort to redirect doodlebugs away from the centre of London towards Kent, and thus minimise civilian deaths.[^ref4] This calculation, as Professor Eric Grove explains, aimed to 'sacrifice lives in the countryside to avoid heavier casualties in London'.[^ref5] Double agents working for the Allies deceived the Germans into thinking the doodlebugs were landing too far north, and the deception was successful in changing the course of the bombs to hit Kent and the south of London instead. 
+With heavy bombing on the capital massively impacting public morale, the British government decided to leak false information to the Germans in an effort to redirect doodlebugs away from the centre of London towards Kent, and thus minimise civilian deaths.[^ref8] This calculation, as Professor Eric Grove explains, aimed to 'sacrifice lives in the countryside to avoid heavier casualties in London'.[^ref9] Double agents working for the Allies deceived the Germans into thinking the doodlebugs were landing too far north, and the deception was successful in changing the course of the bombs to hit Kent and the south of London instead. 
 <param ve-image 
        label="V2 tipped over by a Spitfire"
        description="A spitfire tipping a V2 with its wing" 
@@ -39,7 +39,7 @@ With heavy bombing on the capital massively impacting public morale, the British
       url="https://upload.wikimedia.org/wikipedia/commons/e/e9/V-2_Rocket_Flying_Heritage_Collection%28Side%29.jpg">
 <param ve-image centre="    " zoom="15">
 
-Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. It is estimated that doodlebugs killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref6] Dartford and Sevenoaks were the worst hit towns in Kent, followed by Ramsgate and Folkestone. Along the coast from New Romney to Dover, many doodlebugs were brought down into the sea.[^ref7]   
+Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. It is estimated that doodlebugs killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref10] Dartford and Sevenoaks were the worst hit towns in Kent, followed by Ramsgate and Folkestone. Along the coast from New Romney to Dover, many doodlebugs were brought down into the sea.[^ref7]   
 
 The Roman Catholic Church in Sevenoaks sustained damage from a doodlebug which hit nearby South Park in July 1944.[^ref3]
 
@@ -62,17 +62,20 @@ Kent with 2,400 doodlebugs in the Summer of 1944 lead to the period becoming kno
 # References
 [^ref1]: Ogley, B. _Kent: a chronicle of the century. vol. 2: 1925-1949._ Westerham: Froglets Publication, 1997. p.151.
 [^ref2]: _Tonbridge Free Press_ - Friday 15 September 1944
-[^ref3]: Kent & Sussex Courier - Friday 15 September 1944
-[^ref4]: Ogley, B. _Kent: a chronicle of the century. vol. 2: 1925-1949._ Westerham: Froglets Publication, 1997. p.151.
-[^ref4]: _Kent & Sussex Courier_ - Friday 15 September 1944
-[^ref5]: Commons sitting of Thursday, 13 July, 1944.
-[^ref4]: _Tonbridge Free Press_ - Friday 26 January 1945
+[^ref3]: [National Archives](https://www.nationalarchives.gov.uk/education/resources/british-response-v1-and-v2/)
+[^ref4]  _Kent & Sussex Courier_ - Friday 15 September 1944
+[^ref5]: _Kent & Sussex Courier_ - Friday 15 September 1944
+[^ref6]: Commons sitting of Thursday, 13 July, 1944.
+[^ref7]: https://www.history.co.uk/article/the-death-of-the-doodlebug-the-rise-and-fall-of-hitler%25E2%2580%2599s-v-weapons
+[^ref8]: _Tonbridge Free Press_ - Friday 26 January 1945
+[^ref9]: (Cook)
+[^ref10]: ("Doodlebugs 'Diverted' To Save London")
 [^ref5]: _Whitstable Times and Herne Bay Herald_ - Saturday 16 September 1944
 [^ref6]: _Whitstable Times and Herne Bay Herald_ - Saturday 12 August 1944
 [^ref7]: _Whitstable Times and Herne Bay Herald_ - Saturday 26 August 1944
-[^ref2]: (Cook)
+
 [^ref3]: _Sevenoaks Chronicle and Kentish Advertiser_ - Friday 19 July 1946
-[^ref4]: ("Doodlebugs 'Diverted' To Save London")
+
 [^ref5]: Ibid.
 [^ref6]: "Where The Doodle Bugs Crashed In Kent. Summer 1944. Maps"
 [^ref7]: _The County Administration in War_ cited in _East Kent Times and Mail_ - Wednesday 28 May 1947
