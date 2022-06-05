@@ -158,6 +158,13 @@ Maggie Harris is a Guyanese writer living in Kent. Winner of the Guyana Prize fo
 Lisa Hawkins has a first-class degree and an MA in Fine Art, her main subject is landscape as a vehicle to explore visually how it feels to “be” in the world. This interest in the interplay between the interior life and the external landscape led her to complete a second Master’s degree in Myth Cosmology and the Sacred an experience that fostered a deep and continuing interest in psychology and mythology. She works from life, memory and imagination – welding the spirit of place with an exploration of the human condition. Developing a relationship with a place is central to Lisa’s practice, as the memories of each subsequent visit changes her perceptions – the weather, her own moods, current affairs, together with personal and collective associations. 
 
 ##
+[**Debbie Hickman**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/afd98a40-01d8-49ec-a67e-1fa264d8d5ff)
+
+Debbie Hickman spent four years as Operations Manager for the Brogdale Horticultural Trust, before setting up and running her own businesses at Brogdale for twelve years. She embarked on a degree in Creative and Professional Writing at Canterbury Christ Church University at the grand old age of 58, and now divides her time between various writing projects and working for a national charity. She lives in Whitstable.
+
+##
 [**Diana Hirst**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/dianahirst.jpg)
