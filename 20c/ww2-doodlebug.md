@@ -2,7 +2,7 @@
 
 <param ve-config
     title="Doodlebugs in Kent"
-    author="Hannah, Alfie and Jonathan"
+    author="Hannah Jennison, Alfie Forsyth and Jonathan Baker"
     banner="https://upload.wikimedia.org/wikipedia/commons/9/9e/Fieseler_Fi_103R_side.JPG"
     layout="vtl">
 <param ve-entity title="V-1 flying bomb" eid="Q153348" aliases="V-1"> <!-- V-1 flying bomb -->
