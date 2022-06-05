@@ -59,7 +59,7 @@ Though the decision to change the path of the bombs saved many lives in London, 
 [^ref8]: _Whitstable Times and Herne Bay Herald_ - Saturday 12 August 1944
 [^ref9]: _Whitstable Times and Herne Bay Herald_ - Saturday 26 August 1944
 [^ref10]: https://www.history.co.uk/article/the-death-of-the-doodlebug-the-rise-and-fall-of-hitler%25E2%2580%2599s-v-weapons
-[^ref11]: (Cook)
-[^ref12]: ("Doodlebugs 'Diverted' To Save London")
-[^ref13]: Ibid.
+[^ref11]: "Doodlebugs 'Diverted' To Save London." BBC News. 2014. Web. 1 Apr. 2022.
+[^ref12]: "Doodlebugs 'Diverted' To Save London." BBC News. 2014. Web. 1 Apr. 2022.
+[^ref13]: "Where The Doodle Bugs Crashed In Kent. Summer 1944. | Maps." Daniel Crouch Rare Books - Antique and Vintage Maps, Rare Books, Charts and Atlases. _The Kent Messenger_, 1944. Web. 6 Apr. 2022.
 [^ref14]: Ogley, B. _Kent: a chronicle of the century. vol. 2: 1925-1949._ Westerham: Froglets Publication, 1997. p.151.
