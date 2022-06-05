@@ -21,7 +21,7 @@ The year 1944 was one of devastating human loss for Kent, in part due to the imp
        url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Kent_UK_location_map.svg">
 <param ve-image centre="    " zoom="15">
 
-Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians. The first three casualties were at Benenden on the 17th June.[^ref2] and Tonbridge which was on the routes of several 'bomb lanes' went through a period of anxiety and stress"[^ref3] recording 100 doodlebug incidents[^ref4]. 
+Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians; for the residents of Tonbridge which was on the route of several 'bomb lanes' it was a period of anxiety and stress"[^ref3]. The first three casualties were at Benenden on the 17th June.[^ref2] 
 
 The doodlebug became an object of curiosity. At the bank holiday fete in Canterbury "an almost complete specimen of the Hun's terror weapon" was one of the side shows.[^ref5]. In Herne Bay residents could view a Doodlebug at Woolworths[^ref6] and in Whitstable at the Auction Mart. Adults were charged 6d and children 3d to view the weapon, with the funds going towards the Fund for the 'few'. [^ref7]  
 <param ve-image 
