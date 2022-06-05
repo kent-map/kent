@@ -19,6 +19,7 @@ The year 1944 was one of devastating human loss for Kent, in part due to the imp
        description="A map of the area" 
        license="Creative Commons Attribution Share-Alike 3.0 Unported" 
        url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Kent_UK_location_map.svg">
+<param ve-image centre="    " zoom="15">
 
 Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians. Tonbridge which was "bang on the routes of several 'bomb lanes' went through a period of anxiety and stress"[^ref1] recording 100 doodlebug incidents[^ref2]. However for others the doodlebug was an object of curiosity and opportunities to view a Doodlebug were given to residents of Herne Bay at Woolworths[^ref2]  and Whitstable at the Auction Mart. Adults were charged 6d and children 3d to view the bomb, with the funds going towards the Fund for the 'few'. [^ref3]  At the bank holiday fete in Canterbury one of the popular side shows was "an almost complete specimen of the Hun's terror weapon",[^ref4]
 <param ve-image 
@@ -26,10 +27,13 @@ Despite its somewhat light-hearted nickname, the doodlebug was a source of great
        description="The Fiesler 103R bomb" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Fieseler_Fi_103R_Reichenberg.jpg">
+<param ve-image centre="    " zoom="15">
 
 A map in ‘The Kent Messenger’ from the Summer of 1944 shows the extent of the bombing in the Kent Section of the South East of England, providing a visual explanation for the name ‘Bomb Alley’ that was given to Kent during the Blitz.[^ref2] Kent’s location en route to the more densely populated city of London, which was the Germans’ main target, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead. The Roman Catholic Church in Sevenoaks sustained damage from a doodlebug which hit nearby South Park in July 1944.[^ref3]
+<param ve-image centre="    " zoom="15">
 
 However, with heavy bombing on the capital massively impacting public morale, the British government decided to leak false information to the Germans in an effort to redirect doodlebugs away from the centre of London towards Kent, and thus minimise civilian deaths.[^ref4] This calculation, as Professor Eric Grove explains, aimed to 'sacrifice lives in the countryside to avoid heavier casualties in London'.[^ref5] Double agents working for the Allies deceived the Germans into thinking the doodlebugs were landing too far north, and the deception was successful in changing the course of the bombs to hit Kent and the south of London instead. 
+<param ve-image centre="    " zoom="15">
 
 Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. It is estimated that doodlebugs killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref6] Dartford and Sevenoaks were the worst hit towns in Kent, followed by Ramsgate and Folkestone. Along the coast from New Romney to Dover, many doodlebugs were brought down into the sea.[^ref7]
 <param ve-image 
@@ -37,15 +41,16 @@ Though the decision to change the path of the bombs saved many lives in London, 
        description="An image of the high street" 
        license="Creative Commons Attribution-Share Alike 4.0 International" 
        url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Orpington_High_Street_with_bus.jpg">
+<param ve-image centre="    " zoom="15">
 
 # References
-[^ref1]: Tonbridge Free Press - Friday 15 September 1944
-[^ref2]: Tonbridge Free Press - Friday 26 January 1945
-[^ref3]: Whitstable Times and Herne Bay Herald - Saturday 16 September 1944
-[^ref4]: Whitstable Times and Herne Bay Herald - Saturday 12 August 1944
-[^ref3]: Whitstable Times and Herne Bay Herald - Saturday 26 August 1944
+[^ref1]: _Tonbridge Free Press_ - Friday 15 September 1944
+[^ref2]: _Tonbridge Free Press_ - Friday 26 January 1945
+[^ref3]: _Whitstable Times and Herne Bay Herald_ - Saturday 16 September 1944
+[^ref4]: _Whitstable Times and Herne Bay Herald_ - Saturday 12 August 1944
+[^ref3]: _Whitstable Times and Herne Bay Herald_ - Saturday 26 August 1944
 [^ref2]: (Cook)
-[^ref3]: Sevenoaks Chronicle and Kentish Advertiser - Friday 19 July 1946
+[^ref3]: _Sevenoaks Chronicle and Kentish Advertiser_ - Friday 19 July 1946
 [^ref4]: ("Doodlebugs 'Diverted' To Save London")
 [^ref5]: Ibid.
 [^ref6]: "Where The Doodle Bugs Crashed In Kent. Summer 1944. Maps"
