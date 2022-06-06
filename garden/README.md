@@ -1,6 +1,6 @@
 <param ve-config 
        title="The Garden of England"
-       banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301"
+       banner="https://stor.artstor.org/stor/0304f113-bb27-49ec-998f-15329c201526"
        layout="index">
 
 # {.cards}
