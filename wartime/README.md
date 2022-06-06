@@ -8,16 +8,16 @@
 ##
 **[Belgian Refugees](/20c/20c-belgian-refugees)**
 
-- author: xxx
+- author: Maddie Pettit
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/Margatefromtheparade.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/495520bf-2478-482c-b29a-6a57c4ff51e4)
 
 As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells moved coastwards in the late eighteenth and nineteenth centuries, so a number of obscure Kentish fishing villages reinvented themselves as seaside resorts. 
 
 ##
 **[Folkestone and World War 1](/20c/folkestone-ww1)**
 
-- author: Martin Watts
+- author: Dr Martin Watts
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fa237685-57ab-43b3-8cac-aa7e7e8fba08)
 
@@ -26,7 +26,7 @@ The outbreak of war in August 1914 led to a transformation of this genteel resor
 ##
 **[Richborough: The Secret Port](/20c/20c-richborough)**
 
-- author: Martin Watts
+- author: Dr Martin Watts
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg)
 
@@ -46,7 +46,7 @@ The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'T
 
 - author: Hannah, Alfie and Jonathan
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/91/Royal_Air_Force_1939-1945-_Fighter_Command_CH13428.jpg)
 
 The year 1944 was one of devastating human loss for Kent, in part due to the impact of a newly invented ‘revenge weapon’ (Vergeltungswaffen) used by the Germans.
 
