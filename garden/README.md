@@ -24,7 +24,7 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 Inventor of Organic Farming.
 
 ##
-**[Hop and Fruit Picking in the 20th century](/20c-encounters-with-others/)**
+**[Hop and Fruit Picking in the 20th century](/20c/20c-encounters-with-others/)**
 
 - author: Professor Peter Vujakovic
 
