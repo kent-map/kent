@@ -15,7 +15,7 @@
 As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells moved coastwards in the late eighteenth and nineteenth centuries, so a number of obscure Kentish fishing villages reinvented themselves as seaside resorts. 
 
 ##
-**[Folkestone and World War 1](/20c/folkestone-ww1)**
+**[Folkestone and World War 1](/20c/20c-folkestone-ww1)**
 
 - author: Dr Martin Watts
 
