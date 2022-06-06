@@ -19,7 +19,7 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 
 - author: Diana Hirst
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f2/Cabbage_close_up_%2849200263532%29.jpg)
 
 Inventor of Organic Farming.
 
@@ -28,6 +28,6 @@ Inventor of Organic Farming.
 
 - author: Professor Peter Vujakovic
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/637f0dd1-a51b-4b63-851c-5cd9ab8ffdc5)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/36ae75f3-b601-4695-ba8e-efb2e99630fc)
 
 Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests.
