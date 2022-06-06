@@ -152,7 +152,7 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 ##
 [**The Garden of England**](/garden)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c7b86f66-bc0f-474f-9257-c9a742e4c6fe)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/af58512e-cbf4-4f26-8776-3560de893011)
 
 Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth.
 
@@ -164,18 +164,18 @@ Famed for its cherries, hops and fruit, organic farming, and the modern day gree
 A county of rich architecture; castles, churches, ports, forts and towers.
 
 ##
-[**Wartime Kent**](/wartime)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
-
-On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars. 
-
-##
 [**Musical Peregrinations**](/music)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/61826c52-f5b7-4a39-bece-68dcf6d6539e)
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
+
+##
+[**Wartime Kent**](/wartime)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
+
+On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars. 
 
 # Featured Authors
 
