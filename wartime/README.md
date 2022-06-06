@@ -1,6 +1,6 @@
 <param ve-config 
        title="Wartime Kent"
-       banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301"
+       banner="https://stor.artstor.org/stor/bee89f45-ed57-468c-bbbb-e706bd015859"
        layout="index">
 
 # {.cards}
@@ -35,16 +35,16 @@ Built in secret, the old Roman port of Richborough, was chosen for redevelopment
 ##
 **[Battle of Britain Memorial](/20c/20c-battle-of-britain-memorial)**
 
-- author: Martin Watts
+- author: Amy Green
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Battle_of_Britain_Memorial.jpg)
 
-Built in secret, the old Roman port of Richborough, was chosen for redevelopment during the first world war to supply the army for its 'last stand'.
+The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'.
 
 ##
 **[Doodlebugs in Kent](/20c/ww2-doodlebug)**
 
-- author: Martin Watts
+- author: Hannah, Alfie and Jonathan
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg)
 
@@ -54,18 +54,18 @@ Built in secret, the old Roman port of Richborough, was chosen for redevelopment
 ##
 **[Sir Winston Churchill ](/20c/20c-churchill-chartwell)**
 
-- author: Martin Watts
+- author: Michelle Witham
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg)
 
-Built in secret, the old Roman port of Richborough, was chosen for redevelopment during the first world war to supply the army for its 'last stand'.
+War-time Prime Minister Winston Churchill has several connections to Kent. Most importantly he was a resident of Kent, living at Chartwell, a country house near Westerham.
 
 ##
 **[Secret Wartime Tunnels](/20c/20c-secret-tunnels)**
 
-- author: Martin Watts
+- author: Brooke Altringham
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg)
 
-Built in secret, the old Roman port of Richborough, was chosen for redevelopment during the first world war to supply the army for its 'last stand'.
+The secret network of underground tunnels at Dover Castle were vital in the Evacuation of Dunkirk and in key deception operations of the Second World War.
 
