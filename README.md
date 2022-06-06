@@ -150,11 +150,25 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
 ##
+[**The Garden of England**](/garden)
+
+
+
+Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth.
+
+##
 [**The Built Environment**](/churches)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
 
 A county of rich architecture; castles, churches, ports, forts and towers.
+
+##
+[**Wartime Kent**](/worldwar)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
+
+On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars. 
 
 ##
 [**Musical Peregrinations**](/music)
