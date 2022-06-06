@@ -6,20 +6,28 @@
 # {.cards}
 
 ##
-**[Seaside Resorts](/19c/19c-seaside)**
+**[John Boys](/18c/18c-boys-biography/)**
 
-- author: Carolyn Oulton
+- author: Diana Hirst
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/Margatefromtheparade.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
 
-As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells moved coastwards in the late eighteenth and nineteenth centuries, so a number of obscure Kentish fishing villages reinvented themselves as seaside resorts. 
+John Boys, agriculturalist, was well known for his breed of South Down sheep. 
 
 ##
-**[Richborough: The Secret Port](/20c/20c-richborough)**
+**[Walter James, Fourth Lord Northbourne](/20c/20c-northbourne-biography/)**
 
-- author: Martin Watts
+- author: Diana Hirst
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg)
 
-Built in secret, the old Roman port of Richborough, was chosen for redevelopment during the first world war to supply the army for its 'last stand'.
+Inventor of Organic Farming.
 
+##
+**[Hop and Fruit Picking in the 20th century](/20c-encounters-with-others/)**
+
+- author: Professor Peter Vujakovic
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg)
+
+Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests.
