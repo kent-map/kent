@@ -28,6 +28,6 @@ Inventor of Organic Farming.
 
 - author: Professor Peter Vujakovic
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/637f0dd1-a51b-4b63-851c-5cd9ab8ffdc5)
 
 Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests.
