@@ -152,7 +152,7 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 ##
 [**The Garden of England**](/garden)
 
-
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c7b86f66-bc0f-474f-9257-c9a742e4c6fe)
 
 Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth.
 
@@ -164,7 +164,7 @@ Famed for its cherries, hops and fruit, organic farming, and the modern day gree
 A county of rich architecture; castles, churches, ports, forts and towers.
 
 ##
-[**Wartime Kent**](/worldwar)
+[**Wartime Kent**](/wartime)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
 
