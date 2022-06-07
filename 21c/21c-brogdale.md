@@ -11,6 +11,9 @@
 <param ve-entity eid="Q1626044" title="Sittingbourne">
 <param ve-entity eid="Q590063" title="Wye">
 <param ve-entity eid="Q7125067" title="Painters Forstal">
+<param ve-entity eid="Q1865570" title="Teynham">
+<param ve-entity eid="Q507517" title="Rochester">
+<param ve-entity eid="Q29303" title="Canterbury">
 
 #
 
