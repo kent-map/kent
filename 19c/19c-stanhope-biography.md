@@ -3,7 +3,7 @@
 <param ve-config 
        title="Lady Hester Stanhope (1776-1839)"
        author="Diana Hirst"
-       banner="https://stor.artstor.org/stor/2251af4a-a56d-45f0-b9b1-361ba46aaf4d" 
+       banner="/images/banners/19c.jpg" 
        layout="vertical">
        
 <param ve-entity eid="Q939838" title="Sevenoaks">
@@ -27,7 +27,7 @@ When Pitt returned to Walmer he caught a glance of the improvements through a wi
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bb/Walmer_Castle_%26_Gardens_%28EH%29_20-04-2012_%287188985016%29.jpg" label="Walmer Castle and Gardens" attribution="Karen Roe from Bury St Edmunds, Suffolk, UK, via Wikimedia Commons" license="CC BY 2.0">
 
 Pitt died in January 1806, eleven days after his often-quoted remark following Napoleon’s victory at Austerlitz: ‘Roll up that map [of Europe], it will not be needed these ten years’. Knowing that Hester would otherwise be destitute he had arranged for a government pension of £1,200 a year, as a way of thanking her for her support. Four years later, then approaching the age of 34, Hester began the travels which would take her to the Ottoman Empire. She never returned to England.
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/25/OlderPittThe_Younger_crop.jpg" label="William Pitt The Younger" attribution="John Hoppner, Public domain, via Wikimedia Commons">
                      
 ### References
 
@@ -36,16 +36,4 @@ Childs, Virginia. _Lady Hester Stanhope_. Weidenfeld and Nicolson, 1990.
 Gibb, Lorna. _Lady Hester: Queen of the East_. Faber, 2005.
 Kinglake, Alexander. _Eōthen._ Blackie’s Library of Famous Books, u.d.
 Kent Archives has several holdings relating to Lady Hester. https://www.kentarchives.org.uk/
-Images
  
-Chevening in 1830, with at least one turkey!
-https://commons.wikimedia.org/wiki/File:Chevening_2.jpg
- https://commons.wikimedia.org/wiki/File:Lady_Hester_Stanhope_on_horseback_Wellcome_L0041138.jpg
- 
-https://commons.wikimedia.org/w/index.php?search=william+pitt+at+walmer&title=Special:MediaSearch&go=Go
-
-
-
-
-
-
