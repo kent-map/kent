@@ -11,6 +11,7 @@
 <param ve-entity eid="Q2551894" title="Walmer">
 <param ve-entity eid="Q2543161" title="Walmer Castle">
 <param ve-entity eid="Q179224" title="Dover">
+<param ve-entity eid="Q950970" title="Dover Castle">
 
 
 Lady Hester Stanhope is probably best known today as ‘Queen of the Desert’ or ‘Queen of the East’ from her near-legendary life travelling in the Ottoman Empire before settling in present-day Lebanon, but much of her early life was spent in Kent.
@@ -31,9 +32,9 @@ Pitt died in January 1806, eleven days after his often-quoted remark following N
                      
 ### References
 
-Armstrong, Martin. _Lady Hester Stanhope_. 1928. Cedric Chivers, 1970. 
-Childs, Virginia. _Lady Hester Stanhope_. Weidenfeld and Nicolson, 1990.
-Gibb, Lorna. _Lady Hester: Queen of the East_. Faber, 2005.
-Kinglake, Alexander. _Eōthen._ Blackie’s Library of Famous Books, u.d.
-Kent Archives has several holdings relating to Lady Hester. https://www.kentarchives.org.uk/
+Armstrong, Martin. _Lady Hester Stanhope_. 1928. Cedric Chivers, 1970.    
+Childs, Virginia. _Lady Hester Stanhope_. Weidenfeld and Nicolson, 1990.   
+Gibb, Lorna. _Lady Hester: Queen of the East_. Faber, 2005.   
+Kinglake, Alexander. _Eōthen._ Blackie’s Library of Famous Books, u.d.   
+[Kent Archives](https://www.kentarchives.org.uk/) has several holdings relating to Lady Hester.   
  
