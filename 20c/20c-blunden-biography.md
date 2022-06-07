@@ -9,7 +9,7 @@
 
 #
 
-'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised atimpious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!' - Letter to Siegried Sassoon, 1927[^ref1]
+'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!' - Letter to Siegried Sassoon, 1927[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/High_Street%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2431758.jpg" label="High Street, Yalding, Kent" attribution="nick macneill, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Edmund Blunden, poet, author and critic, was born on the 1st of November 1896, in London. His sister Charlotte was born two years later at [Sandgate](/placesqz/sandgate-overview/) where their father was working as a supply teacher, but shortly after this the family moved to Yalding, near Maidstone where his parents both taught at the village school. He described the village with affection, saying "I could wish that every child had such a place to grow up in."[^ref2] It was here that he developed his love of the English countryside and appreciation of nature. A reviewer of his 1931 poetry anthology _Poems 1914-1930_ wrote:
