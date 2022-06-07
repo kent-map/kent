@@ -41,14 +41,14 @@ Although the land itself has been under private ownership since the late 1990s, 
 By Debbie Hickman, former Operations Manager for the Brogdale Horticultural Trust.
 
 ### References
-[Brogdale Collections](https://brogdalecollections.org)
-[Fruit Advisory Services Team Ltd](https://www.fastllp.com/)
-[Faversham Society](www.favershamsociety.org)
-[Faversham tourist information](https://www.visit-swale.co.uk/experience-swale/welcome-to-visit-faversham/)
-[Magna Carta Faversham Charter](https://www.visit-swale.co.uk/visit-swale-blog/faversham-charters/)
-Morgan, Dr. Joan. _The New Book of Apples_. Ebury, 2002.
-Morgan, Dr. Joan. _The New Book of Pears_. Ebury, 2015.
-National Fruit Collections (Reading University): https://www.nationalfruitcollection.org.uk/
-Shepherd Neame Brewery: https://www.shepherdneame.co.uk/
-Teynham history:  http://teynham.org/
-Thames Barges:  https://thamesbarge.org.uk/
+[Brogdale Collections](https://brogdalecollections.org)   
+[Fruit Advisory Services Team Ltd](https://www.fastllp.com/)   
+[Faversham Society](www.favershamsociety.org)   
+[Faversham tourist information](https://www.visit-swale.co.uk/experience-swale/welcome-to-visit-faversham/)   
+[Magna Carta Faversham Charter](https://www.visit-swale.co.uk/visit-swale-blog/faversham-charters/)   
+Morgan, Dr. Joan. _The New Book of Apples_. Ebury, 2002.   
+Morgan, Dr. Joan. _The New Book of Pears_. Ebury, 2015.   
+[National Fruit Collections](https://www.nationalfruitcollection.org.uk/) (Reading University): 
+[Shepherd Neame Brewery](https://www.shepherdneame.co.uk/)
+[Teynham history](http://teynham.org/)
+[Thames Barges](https://thamesbarge.org.uk/)
