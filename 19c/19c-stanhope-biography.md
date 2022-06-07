@@ -6,7 +6,11 @@
        banner="https://stor.artstor.org/stor/2251af4a-a56d-45f0-b9b1-361ba46aaf4d" 
        layout="vertical">
        
-<param ve-entity eid="Q736439" title="Ramsgate">
+<param ve-entity eid="Q939838" title="Sevenoaks">
+<param ve-entity eid="Q2297876" title="Chevening">
+<param ve-entity eid="Q2551894" title="Walmer">
+<param ve-entity eid="Q2543161" title="Walmer Castle">
+<param ve-entity eid="Q179224" title="Dover">
 
 
 Lady Hester Stanhope is probably best known today as ‘Queen of the Desert’ or ‘Queen of the East’ from her near-legendary life travelling in the Ottoman Empire before settling in present-day Lebanon, but much of her early life was spent in Kent.
