@@ -1,4 +1,18 @@
-The National Fruit Collections at Brogdale: an Insider View
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
+<param ve-config 
+       title="The National Fruit Collections at Brogdale: an Insider View"
+       author="Debbie Hickman"
+       banner="xxx" 
+       layout="vertical">
+       
+<param ve-entity eid="Q1000115" title="Faversham">
+<param ve-entity eid="Q5166773" title="Conyer">
+<param ve-entity eid="Q1626044" title="Sittingbourne">
+<param ve-entity eid="Q590063" title="Wye">
+<param ve-entity eid="Q7125067" title="Painters Forstal">
+
+#
 
 The pretty, medieval market town of Faversham on the North Kent coast has much to recommend it to visitors.  It can boast of more than 300 listed buildings, a picturesque creek housing iconic Thames Barges, a thriving artisan food community, regular arts and crafts markets and a history reaching back to the Domesday Book and beyond.  It was the nation’s capital for gunpowder production at the time of the [Spanish Armada](/16c/16c-spanish-armada), holds one of only six genuine Magna Carta charter documents, and is the home of Britain’s first commercial brewery, Shepherd Neame (established in 1698, although the town’s true brewing history is said to be centuries older).  Sitting on the outskirts of the town, as you head towards the village of Painters Forstal, is a true national treasure, a living museum of horticultural and historical note: Brogdale Farm, the home of the National Fruit Collections - the largest collection of fruit varieties held on a single site, as listed in the Guinness Book of Records.
 
