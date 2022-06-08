@@ -61,18 +61,20 @@ Lena, having been very close to the action, wrote a book about what she had witn
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/60/Lena_Login_from_a_miniature_by_Fisher%2C_1850.jpg" label="Lena Login from a miniature by Fisher, 1850" attribution="Fisher, Public domain, via Wikimedia Commons">
 
 **Dame Ellen Terry**   
-Alice [Ellen Terry](/20c/20c-terry-biography) was said to be the most popular actress of her time.
-Born into showbusiness in 1847, Ellen hit the ground running, becoming a famous childhood star and rumoured to have been the inspiration for Lewis Carroll’s Alice in Wonderland. Her beauty caught the creative eye of several noteworthy artists whom included her in their work. In 1864, at just 16 years of age, she gave up her acting career to marry 47-year-old G. F. Watts, a famous artist of the day who was given the title of ‘England’s Michelangelo.’ Their paths crossed when she had posed of one of his models and he went on to paint a collection of works centered around her. Sadly, the marriage lasted only ten months.
+Alice [Ellen Terry](/20c/20c-terry-biography) who was said to be the most popular actress of her time spent her 80th birthday at the Red House as the guest of Lady Mabel Egerton. Born into showbusiness in 1847, Ellen hit the ground running, becoming a famous childhood star and rumoured to have been the inspiration for Lewis Carroll’s Alice in Wonderland. Her beauty caught the creative eye of several noteworthy artists whom included her in their work. In 1864, at just 16 years of age, she gave up her acting career to marry 47-year-old G. F. Watts, a famous artist of the day who was given the title of ‘England’s Michelangelo.’ Their paths crossed when she had posed of one of his models and he went on to paint a collection of works centered around her. Sadly, the marriage lasted only ten months.
  
 Following this unhappy start Ellen eloped with architect and stage designer Edward Godwin with whom she had two children. This lasted three years, then, in 1877, at age 30 she married actor Charles Kelly which also fizzled out after a short while.
 unlike her marital life, Ellen’s acting career hit a high note in 1878 at age 31 when she became the leading lady for Sir Henry Irving, a renowned actor who had been knighted for bringing social acceptance to acting before going on to manage his own theatre, the renowned Lyceum. She remained working with Henry for 24 years.
-Ellen as Lady Macbeth by John Singer Sargent:
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Ellen_Terry_as_Lady_Macbeth.jpg" label="Ellen as Lady Macbeth by John Singer Sargent" attribution="John Singer Sargent, Public domain, via Wikimedia Commons">
  
 In around 1890, Ellen worked with playwriter George Bernard Shaw, producing and starring in a number of his productions. Their affiliation blossomed into a written romance exchanged through numerous letters known as ‘the paper courtship’, said to have been ‘one of the most brilliant correspondences in British letter writing.’ 
-
+<br><br>
 In 1907 as Ellen reached 60 she married James Carew, an American actor half her age. This sadly also did not last although they remained friends.
 As her acting career began to run its course Ellen began a tour lecturing on Shakespeare’s heroines.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Ellen_Terry_LCCN2014698965.jpg" label="Ellen Terry in 1915" attribution="Bain News Service, publisher, Public domain, via Wikimedia Commons">
+
 Dame [Ellen Terry](/20c/20c-terry-biography) died in 1928 at the age of 81 but her legacy lives on. She is celebrated and remembered. Joanna Lumley remarked that in a time when being an actress was little more than being a whore, she transformed that stigma and made acting into a respectful art and a fine and aspirational thing to do. REF?
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Ellen_Terry_1922.jpg" label="Ellen Terry at Walmer Castle, 1922" attribution="International Photo, Public domain, via Wikimedia Commons">
 
 There are numerous works in cinema, painting and poetry which survive on, keeping the memory of Dame Ellen Terry alive. A remarkable woman, Ellen would not be contained and repressed by an unfair cultural expectation, but made her own way, and in so doing, prepared a way for other women to break free and follow their own hearts.
 
