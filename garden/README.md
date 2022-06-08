@@ -39,4 +39,4 @@ Traditionally London families helped with the hop harvest as a â€˜paid holidayâ€
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/70b7d425-bbd9-423a-8cd1-e086a00a57f0)
 
-The National Fruit Collections have been sited at Brogdale near Faversham since 1951.
+The National Fruit Collection has been sited at Brogdale near Faversham since 1951.
