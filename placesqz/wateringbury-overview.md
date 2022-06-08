@@ -5,7 +5,7 @@
 
 #
 
-Wateringbury is a quaint village close to Maidstone. The views are exquisite and the cottages will have you standing in awe. Everywhere you look there is another beautiful thing hidden away down a country road. Wandering its streets, it is not difficult to imagine how things might have been years ago, and the scattering of wrought iron gates hint of wonders within. As you walk the paths others have trodden for hundreds of years, Wateringbury will simply charm your socks off.
+Wateringbury is an historic village close to Maidstone. The views are exquisite and the cottages will have you standing in awe. Everywhere you look there is another beautiful thing hidden away down a country road. Wandering its streets, it is not difficult to imagine how things might have been years ago, and the scattering of wrought iron gates hint of wonders within. As you walk the paths others have trodden for hundreds of years, Wateringbury will simply charm your socks off. Hover over the highlighted text to take a tour of the village.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Wateringbury_Village_Sign_-_geograph.org.uk_-_2490156.jpg" label="Waterbingbury Village Sign" attribution="David Anstiss via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **The Lock up and Stocks**   
@@ -51,7 +51,7 @@ Between 1850 and 1857 William Rutter Dawes occupied one of the residencies of Wa
 **Mill Pond**
 A pond quietly rests, surrounded by domestic relics. Another gem in Wateringbury’s trove, peacefully hidden away down Love Lane. There are a cluster of historic houses just opposite.
 <br><br> 
-As you get to the end of <span data-mouseover-image-zoomto="950,573,1283,859">Love Lane</span> and continue past the place where it meets with <span data-mouseover-image-zoomto="949,573,1283,858">Mill Lane</span>, you will find a footpath leading off into the country.
+As you get to the end of <span data-mouseover-image-zoomto="950,573,1283,859">Love Lane</span> and continue past the place where it meets with <span data-mouseover-image-zoomto="1173,741,642,430">Mill Lane</span>, you will find a footpath leading off into the country.
  <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
  
 **The Thatched house**   
@@ -77,7 +77,7 @@ Dame [Ellen Terry](/20c/20c-terry-biography) died in 1928 at the age of 81 but h
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Ellen_Terry_1922.jpg" label="Ellen Terry at Walmer Castle, 1922" attribution="International Photo, Public domain, via Wikimedia Commons">
 
 **John Beal Jude**
-John Beal Jude was the founder of the Kent brewery, one of the two significant breweries in Wateringbury. Quite the businessman, John also branched out into coal and farming. He founded Kent brewery in 1833 which was then situated on <span data-mouseover-image-zoomto="950,573,1283,859">Bow Road</span> but no longer stands. In 1857 John purchased the Broomcrofts estate on <span data-mouseover-image-zoomto="537,1,1285,859">Canon Lane</span>, and grew to be a wealthy land and property owner.
+John Beal Jude was the founder of the Kent brewery, one of the two significant breweries in Wateringbury. Quite the businessman, John also branched out into coal and farming. He founded Kent brewery in 1833 which was then situated on Bow Road but no longer stands. In 1857 John purchased the Broomcrofts estate on <span data-mouseover-image-zoomto="537,1,1285,859">Canon Lane</span>, and grew to be a wealthy land and property owner.
  <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
 
 The first train to land in Wateringbury was in the year 1844. There was a grand celebration with guests including Alderman Mattias Lucas and the band of 16th lancers, a cavalry regiment in the British Army. Around 6 years later the train station was built in the Tudor Gothic style and is now a grade II listed building. The station still holds much of its historic charm and overlooks the countryside. Even if you have no train to catch, its worth the walk down Bow Road to see this splendid building and take in the views.
