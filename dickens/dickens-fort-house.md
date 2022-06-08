@@ -25,12 +25,12 @@ This creative confusion of different novels with the houses associated with Dick
 
 ### Bibliography
 
-Kitton, Frederic G. _The Dickens Country_. London: A. C. Black, 1925 [first published 1905].
---. Scrapbook 2 (p80). Dickens House Museum.
-Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
+Kitton, Frederic G. _The Dickens Country_. London: A. C. Black, 1925 [first published 1905].   
+--. Scrapbook 2 (p80). Dickens House Museum.   
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.   
 
 ### References
 
-[^ref1]: A plan from August 1883 gives the name as Fort House (Kitton Scrapbook 80). The 1885 Directory for Broadstairs and St Peter’s gives the name as Bleak House (165).   
-[^ref2]: Kitton (195-6).    
+[^ref1]: A plan from August 1883 gives the name as Fort House (Kitton Scrapbook 80). The 1885 Directory for Broadstairs and St Peter’s gives the name as Bleak House (165).
+[^ref2]: Kitton (195-6).
 [^ref3]: 'A Dickens Village at Broadstairs. In Memory of the Great Novelist’. _Pall Mall Gazette_. 8 June 1897. 7. British Newspaper Archive.   
