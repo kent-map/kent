@@ -35,6 +35,8 @@ Traditionally London families helped with the hop harvest as a â€˜paid holidayâ€
 ##
 **[Brogdale National Fruit Collection](/21c/21c-brogdale/)**
 
-- author: 
+- author: Debbie Hickman
+-
+![](https://iiif.juncture-digital.org/thumbnail?url=[images/cherries.jpg"](https://stor.artstor.org/stor/70b7d425-bbd9-423a-8cd1-e086a00a57f0)
 
 The National Fruit Collections have been sited at Brogdale near Faversham since 1951.
