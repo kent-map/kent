@@ -87,9 +87,13 @@ Wateringbury in an intriguing place, whose inhabitants are as intriguing as its 
 
 ### Bibliography
 Boissoneault. L. “Smithsonian Magazine”, [The True Story of the Kooh-i-noor Diamond – and Why the British Wont Give it Back, 2017,]( https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)   
-“Amazon”, Sir John Login and Duleep Singh, 2022, www.amazon.co.uk/Sir-John-Login-Duleep-Singh/dp/1298539706 Edition needed
+<br>
+Login, L. [_Sir John Login and Duleep Singh_](https://archive.org/stream/sirjohnloginand00logigoog/sirjohnloginand00logigoog_djvu.txt)  
+<br>
 Gillham.J, Wateringbury Remembered, 2008, wateringbury.blogspot.com/search?q=Bow+Road     
+<br>
 Hall. G, “Mike Oates”, William Rutter Dawes (1799 – 1868), mikeoates.org/astro-history/dawes.htm   
+<br>
 “Wikipedia”, Lena, Lady Login, 2022, en.wikipedia.org/wiki/Lena,_Lady_Login Alternative source?      
 “National Archives”, [Sea Fencibles Pay list](discovery.nationalarchives.gov.uk/details/r/C1737), 2022,       
 “National Trust”, Joanna Lumley Honours Actress Ellen Terry at the National Trust’s Barn Theatre, Youtube, www.youtube.com/watch?v=Wgj9RE2mmxQ      
