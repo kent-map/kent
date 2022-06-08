@@ -1,14 +1,18 @@
-<div align="center" style="float:right; margin: 64px 0 6px 24px;">
-  <img src="images/1820_map_of_Kent_EK_U133_image_1.jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
-  <p style="padding-top:12px; font-size:0.8em;">©The British Library Board 004971858  </p>
-</div>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
+<param ve-config 
+       title="Overview of the Nineteenth Century"
+       author="Carolyn Oulton"
+       banner="https://stor.artstor.org/stor/2251af4a-a56d-45f0-b9b1-361ba46aaf4d" 
+       layout="vertical">
+       
+<param ve-entity eid="Q736439" title="Ramsgate">
+<param ve-entity eid="Q922739" title="Broadstairs">
 
-
-
-# Overview
+# 
 
 During the 19th century Kent was connected to the metropolis through hoy and steam boats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from [Folkestone](19c-folkestone) and [Dover](19c-dover). It attracted the attention of numerous writers across the century. Coleridge, Keats and Jane Austen (19c-austen-biography) were among the most famous of Kent’s Georgian visitors, while [Dickens](dickens-biography), Thackeray and Wilkie Collins all stayed and wrote here in the early to mid-Victorian period. At the fin de siècle George and Weedon [Grossmith](19c-grossmith-biography) (authors of The Diary of a Nobody) and New Humourists such as [Jerome K. Jerome](19c-jerome-biography) had a rich comic tradition to draw on for their tales of hapless tourists who get into scrapes at the [seaside](19c-seaside).
+
 But notwithstanding its celebrated status as a holiday destination, Kent was also a focal point for political controversy. In the 1860s Chatham was a pilot town for the infamous Contagious Diseases Acts, designed to stop the spread of venereal disease among the navy by the compulsory ‘treatment’ of [infected prostitutes](http://glorious-and-unknown.co.uk/chatham-lock-hospital/). This legislation was forcibly opposed by feminists such as [Sarah Grand](19c-grand-biography) (later a resident and suffrage leader in Tunbridge Wells). 
 
 The gloomy [Canterbury prison](https://www.youtube.com/watch?time_continue=8&v=wzwQM0cGo_4&feature=emb_title) 

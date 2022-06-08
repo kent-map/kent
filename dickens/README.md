@@ -42,6 +42,15 @@ Starts with Pip’s fateful encounter with Magwitch in the local churchyard. But
 Takes David through Kent and down the Dover Road to find answers to some vital questions. How do others see us? What does it mean to be in love? Where is home? It may not be obvious at first, but places can move around here, so you must be careful not to get lost.
 
 ##
+**[Dickens and Broadstairs](dickens-broadstairs)**
+
+- author: Ken Moffat and Carolyn W. de la L. Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d301f78e-3342-4822-82ad-c1d5b428d6db)
+
+
+
+##
 **[Dickens and Medway](dickens-medway)**
 
 - author: Helena Kelly
