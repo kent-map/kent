@@ -90,18 +90,27 @@ Boissoneault. L. “Smithsonian Magazine”, [The True Story of the Kooh-i-noor 
 <br>
 Login, L. [_Sir John Login and Duleep Singh_](https://archive.org/stream/sirjohnloginand00logigoog/sirjohnloginand00logigoog_djvu.txt)  
 <br>
-Gillham.J, Wateringbury Remembered, 2008, wateringbury.blogspot.com/search?q=Bow+Road     
+Gillham.J, [Wateringbury Remembered](https://wateringbury.blogspot.com/search?q=Bow+Road), 2008.     
 <br>
-Hall. G, “Mike Oates”, William Rutter Dawes (1799 – 1868), mikeoates.org/astro-history/dawes.htm   
+[William Rutter Dawes (1799 – 1868)](http://mikeoates.org/astro-history/dawes.htm).
 <br>
-“Wikipedia”, Lena, Lady Login, 2022, en.wikipedia.org/wiki/Lena,_Lady_Login Alternative source?      
-“National Archives”, [Sea Fencibles Pay list](discovery.nationalarchives.gov.uk/details/r/C1737), 2022,       
+“Wikipedia”, Lena, Lady Login, 2022, en.wikipedia.org/wiki/Lena,_Lady_Login Alternative source?    
+<br>
+“National Archives”, [Sea Fencibles Pay list](discovery.nationalarchives.gov.uk/details/r/C1737), 2022,    
+<br>
 “National Trust”, Joanna Lumley Honours Actress Ellen Terry at the National Trust’s Barn Theatre, Youtube, www.youtube.com/watch?v=Wgj9RE2mmxQ      
+<br>
 Stewart. J.I.M, Weintraub. S, “Britannica”, International Importance of George Bernard Shaw, www.britannica.com/biography/George-Bernard-Shaw/International-importance Alternative source?      
+<br>
 “The Royal Society”, Fellows, 2022, royalsociety.org/fellows/?gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VvVdyjQVx13xbXVoH7u5Z3LiYwiIzNf-fnkIrlC79JQiH___qZivIAaAkEYEALw_wcB   
 “Wateringbury Local History Society”, Wateringbury Boy at Trafalgar 1805, 2013, sites.google.com/site/wateringburylocalhistory/topics/people/wateringbury-boy-at-trafalgar1805      
-Manvel. R, “Britannica”, Ellen Terry,  www.britannica.com/biography/Ellen-Terry      
-“Watts Gallery”, Ellen Terry The Painters Actress, Youtube, 2014, www.youtube.com/watch?v=yQnqHpfoZLk      
-“Watts Gallery”, [The Watts Story](https://www.wattsgallery.org.uk/about-us/watts-story/#:~:text=George%20Frederic%20Watts%20OM%2C%20RA,him%20the%20title%20England's%20Michelangelo), 2022,    
+<br>
+Manvel. R, “Britannica”, Ellen Terry,  www.britannica.com/biography/Ellen-Terry    
+<br>
+“Watts Gallery”, Ellen Terry The Painters Actress, Youtube, 2014, www.youtube.com/watch?v=yQnqHpfoZLk     
+<br>
+“Watts Gallery”, [The Watts Story](https://www.wattsgallery.org.uk/about-us/watts-story/#:~:text=George%20Frederic%20Watts%20OM%2C%20RA,him%20the%20title%20England's%20Michelangelo), 2022,   
+<br>
 “Where Memories Meet.com”, [Welcome to where memories meet]( www.wherememoriesmeet.com/), 2022,   
+<br>
 Whiting, D. “Wateringbury, In the Steps of George Newman and Beyond.” Mike Whiting, 2013      
