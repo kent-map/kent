@@ -77,7 +77,7 @@ Dame [Ellen Terry](/20c/20c-terry-biography) died in 1928 at the age of 81 but h
 There are numerous works in cinema, painting and poetry which survive on, keeping the memory of Dame Ellen Terry alive. A remarkable woman, Ellen would not be contained and repressed by an unfair cultural expectation, but made her own way, and in so doing, prepared a way for other women to break free and follow their own hearts.
 
 **John Beal Jude**
-John Beal Jude was the founder of the Kent brewery, one of the two significant breweries in Wateringbury. Quite the businessman, John also branched out into coal and farming. He founded Kent brewery in 1833 which was then situated on <span data-mouseover-image-zoomto="950,573,1283,859">Bow Road</span> but no longer stands. In 1857 John purchased the Broomcrofts estate on <span data-mouseover-image-zoomto="950,573,1283,859">Cannon Lane</span>, and grew to be a wealthy land and property owner.
+John Beal Jude was the founder of the Kent brewery, one of the two significant breweries in Wateringbury. Quite the businessman, John also branched out into coal and farming. He founded Kent brewery in 1833 which was then situated on <span data-mouseover-image-zoomto="950,573,1283,859">Bow Road</span> but no longer stands. In 1857 John purchased the Broomcrofts estate on <span data-mouseover-image-zoomto="537,1,1285,859">Canon Lane</span>, and grew to be a wealthy land and property owner.
  <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
 
 The first train to land in Wateringbury was in the year 1844. There was a grand celebration with guests including Alderman Mattias Lucas and the band of 16th lancers, a cavalry regiment in the British Army. Around 6 years later the train station was built in the Tudor Gothic style and is now a grade II listed building. The station still holds much of its historic charm and overlooks the countryside. Even if you have no train to catch, its worth the walk down Bow Road to see this splendid building and take in the views.
@@ -88,16 +88,16 @@ Wateringbury in an intriguing place, whose inhabitants are as intriguing as its 
 ### Bibliography
 Boissoneault. L. “Smithsonian Magazine”, [The True Story of the Kooh-i-noor Diamond – and Why the British Wont Give it Back, 2017,]( https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)   
 “Amazon”, Sir John Login and Duleep Singh, 2022, www.amazon.co.uk/Sir-John-Login-Duleep-Singh/dp/1298539706 Edition needed
-Gillham.J, Wateringbury Remembered, 2008, wateringbury.blogspot.com/search?q=Bow+Road   
-Hall. G, “Mike Oates”, William Rutter Dawes (1799 – 1868), mikeoates.org/astro-history/dawes.htm
-“Wikipedia”, Lena, Lady Login, 2022, en.wikipedia.org/wiki/Lena,_Lady_Login Alternative source?   
-“National Archives”, [Sea Fencibles Pay list](discovery.nationalarchives.gov.uk/details/r/C1737), 2022,    
-“National Trust”, Joanna Lumley Honours Actress Ellen Terry at the National Trust’s Barn Theatre, Youtube, www.youtube.com/watch?v=Wgj9RE2mmxQ   
-Stewart. J.I.M, Weintraub. S, “Britannica”, International Importance of George Bernard Shaw, www.britannica.com/biography/George-Bernard-Shaw/International-importance Alternative source?   
+Gillham.J, Wateringbury Remembered, 2008, wateringbury.blogspot.com/search?q=Bow+Road     
+Hall. G, “Mike Oates”, William Rutter Dawes (1799 – 1868), mikeoates.org/astro-history/dawes.htm   
+“Wikipedia”, Lena, Lady Login, 2022, en.wikipedia.org/wiki/Lena,_Lady_Login Alternative source?      
+“National Archives”, [Sea Fencibles Pay list](discovery.nationalarchives.gov.uk/details/r/C1737), 2022,       
+“National Trust”, Joanna Lumley Honours Actress Ellen Terry at the National Trust’s Barn Theatre, Youtube, www.youtube.com/watch?v=Wgj9RE2mmxQ      
+Stewart. J.I.M, Weintraub. S, “Britannica”, International Importance of George Bernard Shaw, www.britannica.com/biography/George-Bernard-Shaw/International-importance Alternative source?      
 “The Royal Society”, Fellows, 2022, royalsociety.org/fellows/?gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VvVdyjQVx13xbXVoH7u5Z3LiYwiIzNf-fnkIrlC79JQiH___qZivIAaAkEYEALw_wcB   
-“Wateringbury Local History Society”, Wateringbury Boy at Trafalgar 1805, 2013, sites.google.com/site/wateringburylocalhistory/topics/people/wateringbury-boy-at-trafalgar1805   
-Manvel. R, “Britannica”, Ellen Terry,  www.britannica.com/biography/Ellen-Terry   
-“Watts Gallery”, Ellen Terry The Painters Actress, Youtube, 2014, www.youtube.com/watch?v=yQnqHpfoZLk   
-“Watts Gallery”, [The Watts Story](https://www.wattsgallery.org.uk/about-us/watts-story/#:~:text=George%20Frederic%20Watts%20OM%2C%20RA,him%20the%20title%20England's%20Michelangelo), 2022, 
-“Where Memories Meet.com”, [Welcome to where memories meet]( www.wherememoriesmeet.com/), 2022,
-Whiting, D. “Wateringbury, In the Steps of George Newman and Beyond.” Mike Whiting, 2013   
+“Wateringbury Local History Society”, Wateringbury Boy at Trafalgar 1805, 2013, sites.google.com/site/wateringburylocalhistory/topics/people/wateringbury-boy-at-trafalgar1805      
+Manvel. R, “Britannica”, Ellen Terry,  www.britannica.com/biography/Ellen-Terry      
+“Watts Gallery”, Ellen Terry The Painters Actress, Youtube, 2014, www.youtube.com/watch?v=yQnqHpfoZLk      
+“Watts Gallery”, [The Watts Story](https://www.wattsgallery.org.uk/about-us/watts-story/#:~:text=George%20Frederic%20Watts%20OM%2C%20RA,him%20the%20title%20England's%20Michelangelo), 2022,    
+“Where Memories Meet.com”, [Welcome to where memories meet]( www.wherememoriesmeet.com/), 2022,   
+Whiting, D. “Wateringbury, In the Steps of George Newman and Beyond.” Mike Whiting, 2013      
