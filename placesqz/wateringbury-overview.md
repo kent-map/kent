@@ -67,7 +67,7 @@ Following this unhappy start Ellen eloped with architect and stage designer Edwa
 unlike her marital life, Ellen’s acting career hit a high note in 1878 at age 31 when she became the leading lady for Sir Henry Irving, a renowned actor who had been knighted for bringing social acceptance to acting before going on to manage his own theatre, the renowned Lyceum. She remained working with Henry for 24 years.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Ellen_Terry_as_Lady_Macbeth.jpg" label="Ellen as Lady Macbeth by John Singer Sargent" attribution="John Singer Sargent, Public domain, via Wikimedia Commons">
  
-In around 1890, Ellen worked with playwriter George Bernard Shaw, producing and starring in a number of his productions. Their affiliation blossomed into a written romance exchanged through numerous letters known as ‘the paper courtship’, said to have been ‘one of the most brilliant correspondences in British letter writing.’ 
+In around 1890, Ellen worked with playwriter George Bernard Shaw, producing and starring in a number of his productions. Their affiliation blossomed into a written romance exchanged through numerous letters known as ‘the paper courtship’.
 <br><br>
 In 1907 as Ellen reached 60 she married James Carew, an American actor half her age. This sadly also did not last although they remained friends.
 As her acting career began to run its course Ellen began a tour lecturing on Shakespeare’s heroines.
@@ -94,9 +94,9 @@ Gillham.J, [Wateringbury Remembered](https://wateringbury.blogspot.com/search?q=
 <br>
 [William Rutter Dawes (1799 – 1868)](http://mikeoates.org/astro-history/dawes.htm).
 <br>
-“National Archives”, [Sea Fencibles Pay list](discovery.nationalarchives.gov.uk/details/r/C1737), 2022.    
+“National Archives”, [Sea Fencibles Pay list](discovery.nationalarchives.gov.uk/details/r/C1737), 2022.     
 <br>
-“The Royal Society”, Fellows, 2022, royalsociety.org/fellows/?gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VvVdyjQVx13xbXVoH7u5Z3LiYwiIzNf-fnkIrlC79JQiH___qZivIAaAkEYEALw_wcB  
+“The Royal Society”, [Fellows, 2022](royalsociety.org/fellows/?gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VvVdyjQVx13xbXVoH7u5Z3LiYwiIzNf-fnkIrlC79JQiH___qZivIAaAkEYEALw_wcB)  
 <br>
 Wateringbury Local History Society [Wateringbury Boy at Trafalgar 1805, 2013](sites.google.com/site/wateringburylocalhistory/topics/people/wateringbury-boy-at-trafalgar1805)      
 <br>
