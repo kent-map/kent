@@ -33,7 +33,7 @@ Depictions of Tudor banquets bear testimony to how much Old Harry liked his frui
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Cherry_Blossom%2C_Brogdale_-_geograph.org.uk_-_418932.jpg" label="Cherry Blossom" attribution="Colin Smith / Cherry Blossom, Brogdale" license="CC BY-SA 2.0">
 
 A few years later, Henry’s dissolution of the monasteries brought about an unforeseen social disaster, in that many of the nation’s poorer subjects had relied on these establishments for employment, education, food, medicines and general sustenance.  Monastic kitchen gardens, with their established crops of fruit, vegetables, honey and herbs, disappeared.  Famine befell large swathes of the population, and Henry began to show remorse for his short-sightedness in doing away with what were essentially social economic and welfare hubs.  In an effort to right this wrong, market gardens and estate farms were expanded and re-established, and Richard Harrys enjoyed royal patronage and support for his propagation, plant-collecting and conservation efforts.  His Teynham orchards, containing many old and new varieties - the original National Fruit Collection - thrived.  
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Orchards_below_Teynham_Church_-_geograph.org.uk_-_272608.jpg" label="Orchards below Teynhma Church" attribution="Penny Mayes" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Orchards_below_Teynham_Church_-_geograph.org.uk_-_272608.jpg" label="Orchards below Teynham Church" attribution="Penny Mayes" license="CC BY-SA 2.0">
 
 Over the 17th and 18th centuries the area between Rochester and Canterbury became known as the Faversham Fruit Belt, and Kent’s reputation as the Garden of England was strengthened.  By the middle of the twentieth century, however, consumer habits started to change.  Supermarkets began to spring up around the country, with their swish, central-supply logistics, demanding uniform-looking (and tasting) fruit that both travelled and stored well – characteristics lacking in most old varieties.  Growers grubbed up older, less reliable crops to make way for new, disease-resistant and commercially-viable varieties, fruit that stood up to the rigours of transportation and longer-term cold storage.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c9/-2019-08-14_Fruit_and_vegtable_display%2C_Coop_supermarket%2C_Cromer.JPG" label="Fruit and vegetable display" attribution="Kolforn, via Wikimedia Commons" license="CC BY-SA 4.0">
@@ -45,11 +45,11 @@ At least two trees or plants of each variety are maintained, in case one should 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/Cross_section_of_Merlyn%2C_National_Fruit_Collection_%28acc._1999-025%29.jpg" label="English:  National Fruit Collection, Brogdale, via Wikimedia Commons" license="OGL 2">
 
 Biochemist Dr Joan Morgan, the UK’s leading pomologist (apple specialist), was the driving force for the formation of the Brogdale Horticultural Trust when the collections once again came under threat in the late 1980s.  Dr Morgan’s own extensive works _The New Book of Apples_ (Ebury Press 2002) and _The New Book Of Pears_ (Ebury Press 2015) are beautifully illustrated, coffee-table-worthy tomes - a must for anyone wanting to discover more about this integral part of the UK’s national, historical, cultural and scientific heritage.  
-<param ve-image url="
-
+<br><br>
 Although the land itself has been under private ownership since the late 1990s, DEFRA have a secure lease for the orchards housing the National Fruit Collections.  This will ensure these 4,000+ fruit varieties will continue to be preserved, in the best possible environment for them, for generations to come.  
-                     
-By Debbie Hickman, former Operations Manager for the Brogdale Horticultural Trust.
+<br><br>                     
+Debbie Hickman is the former Operations Manager for the Brogdale Horticultural Trust.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/50/Arlet_on_tree%2C_National_Fruit_Collection_%28acc._1994-040%29.jpg" label="Arlet on tree: National Fruit Collection" attribution="English:  National Fruit Collection, Brogdale, via Wikimedia Commons" license="OGL 2">
 
 ### References
 [Brogdale Collections](https://brogdalecollections.org)   
@@ -59,7 +59,7 @@ By Debbie Hickman, former Operations Manager for the Brogdale Horticultural Trus
 [Magna Carta Faversham Charter](https://www.visit-swale.co.uk/visit-swale-blog/faversham-charters/)   
 Morgan, Dr. Joan. _The New Book of Apples_. Ebury, 2002.   
 Morgan, Dr. Joan. _The New Book of Pears_. Ebury, 2015.   
-[National Fruit Collections](https://www.nationalfruitcollection.org.uk/) (Reading University): 
-[Shepherd Neame Brewery](https://www.shepherdneame.co.uk/)
-[Teynham history](http://teynham.org/)
-[Thames Barges](https://thamesbarge.org.uk/)
+[National Fruit Collections](https://www.nationalfruitcollection.org.uk/) (Reading University)   
+[Shepherd Neame Brewery](https://www.shepherdneame.co.uk/)   
+[Teynham history](http://teynham.org/)   
+[Thames Barges](https://thamesbarge.org.uk/)   
