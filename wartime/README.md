@@ -48,7 +48,7 @@ The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'T
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2d/Bomb_damage_Canterbury_1940.jpg)
 
-Canterbury in the bombing.
+Canterbury suffered from bombing raids during the second world war and many parts of the historic city were destroyed.
 
 ##
 **[Doodlebugs in Kent](/20c/ww2-doodlebug)**
