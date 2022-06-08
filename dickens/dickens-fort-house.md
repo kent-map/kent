@@ -2,7 +2,7 @@
 <param ve-config title="Fort House (Bleak House)" author="Carolyn Oulton" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-### 16 December 1775 - 18 July 1817
+#
 
 **Fort Road, Broadstairs**   
 **Event with dates** Holidays in Broadstairs 1840-43, 1845, 1847, 1849-51; usually spent at Fort House from late 1840s, and parts of _David Copperfield_ written here.   
