@@ -37,4 +37,4 @@ Traditionally London families helped with the hop harvest as a â€˜paid holidayâ€
 
 - author: 
 
-
+The National Fruit Collections have been sited at Brogdale near Faversham since 1951.
