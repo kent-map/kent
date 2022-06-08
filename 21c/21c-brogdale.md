@@ -46,8 +46,8 @@ At least two trees or plants of each variety are maintained, in case one should 
 
 Biochemist Dr Joan Morgan, the UK’s leading pomologist (apple specialist), was the driving force for the formation of the Brogdale Horticultural Trust when the collections once again came under threat in the late 1980s.  Dr Morgan’s own extensive works _The New Book of Apples_ (Ebury Press 2002) and _The New Book Of Pears_ (Ebury Press 2015) are beautifully illustrated, coffee-table-worthy tomes - a must for anyone wanting to discover more about this integral part of the UK’s national, historical, cultural and scientific heritage.  
 <br>
-Although the land itself has been under private ownership since the late 1990s, DEFRA have a secure lease for the orchards housing the National Fruit Collections.  This will ensure these 4,000+ fruit varieties will continue to be preserved, in the best possible environment for them, for generations to come.  
-<br>                    
+Although the land itself has been under private ownership since the late 1990s, DEFRA have a secure lease for the orchards housing the National Fruit Collections.  This will ensure these 4,000+ fruit varieties will continue to be preserved, in the best possible environment for them, for generations to come.
+<br>                  
 Debbie Hickman is the former Operations Manager for the Brogdale Horticultural Trust.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/50/Arlet_on_tree%2C_National_Fruit_Collection_%28acc._1994-040%29.jpg" label="Arlet on tree: National Fruit Collection" attribution="English:  National Fruit Collection, Brogdale, via Wikimedia Commons" license="OGL 2">
 
