@@ -48,7 +48,7 @@ Takes David through Kent and down the Dover Road to find answers to some vital q
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d301f78e-3342-4822-82ad-c1d5b428d6db)
 
-
+‘Half awake and half asleep, this idle morning in our sunny window on the edge of a chalk-cliff in the old-fashioned Watering-Place to which we are a faithful resorter, we feel a lazy inclination to sketch its picture'.
 
 ##
 **[Dickens and Medway](dickens-medway)**
