@@ -9,7 +9,7 @@ Wateringbury is a quaint village close to Maidstone. The views are exquisite and
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Wateringbury_Village_Sign_-_geograph.org.uk_-_2490156.jpg" label="Waterbingbury Village Sign" attribution="David Anstiss via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **The Lock up and Stocks**   
-Previously known as the village cage and stocks, before 1846, this was a wooden structure used to hold disturbers of the peace. In 1846 it was upgraded to a sturdier brick building, after a ‘tramp’ (who had been detained for stealing cherries from the Reverend’s garden) had been broken out and escaped to freedom. Once the County Police was established the building was seldom used as Prisoners were taken to Malling where the station was situated. These two items set up echoes of a different time. A harder time. Almost two hundred years ago. Can you imagine wandering past an unfortunate soul with his head and arms in the <span data-mouseover-image-zoomto="1739,898,859,575">stocks</span>?
+Previously known as the village cage and <span data-mouseover-image-zoomto="1739,898,859,575">stocks</span>, before 1846, this was a wooden structure used to hold disturbers of the peace. In 1846 it was upgraded to a sturdier brick building, after a ‘tramp’ (who had been detained for stealing cherries from the Reverend’s garden) had been broken out and escaped to freedom. Once the County Police was established the building was seldom used as Prisoners were taken to Malling where the station was situated. These two items set up echoes of a different time. A harder time. Almost two hundred years ago. Can you imagine wandering past an unfortunate soul with his head and arms in the stocks?
 <br><br>
 Later in the 1850’s, the Lock Up is recorded to have been used to house a hand cart used by the person who was to look after the streetlights and keep the village tidy. 
 <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
@@ -62,7 +62,7 @@ Lena, having been very close to the action, wrote a book about what she had witn
 
 **Dame Ellen Terry**   
 Alice [Ellen Terry](/20c/20c-terry-biography) who was said to be the most popular actress of her time spent her 80th birthday at the Red House as the guest of Lady Mabel Egerton. Born into showbusiness in 1847, Ellen hit the ground running, becoming a famous childhood star and rumoured to have been the inspiration for Lewis Carroll’s Alice in Wonderland. Her beauty caught the creative eye of several noteworthy artists whom included her in their work. In 1864, at just 16 years of age, she gave up her acting career to marry 47-year-old G. F. Watts, a famous artist of the day who was given the title of ‘England’s Michelangelo.’ Their paths crossed when she had posed of one of his models and he went on to paint a collection of works centered around her. Sadly, the marriage lasted only ten months.
- 
+<br><br> 
 Following this unhappy start Ellen eloped with architect and stage designer Edward Godwin with whom she had two children. This lasted three years, then, in 1877, at age 30 she married actor Charles Kelly which also fizzled out after a short while.
 unlike her marital life, Ellen’s acting career hit a high note in 1878 at age 31 when she became the leading lady for Sir Henry Irving, a renowned actor who had been knighted for bringing social acceptance to acting before going on to manage his own theatre, the renowned Lyceum. She remained working with Henry for 24 years.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Ellen_Terry_as_Lady_Macbeth.jpg" label="Ellen as Lady Macbeth by John Singer Sargent" attribution="John Singer Sargent, Public domain, via Wikimedia Commons">
@@ -73,10 +73,8 @@ In 1907 as Ellen reached 60 she married James Carew, an American actor half her 
 As her acting career began to run its course Ellen began a tour lecturing on Shakespeare’s heroines.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Ellen_Terry_LCCN2014698965.jpg" label="Ellen Terry in 1915" attribution="Bain News Service, publisher, Public domain, via Wikimedia Commons">
 
-Dame [Ellen Terry](/20c/20c-terry-biography) died in 1928 at the age of 81 but her legacy lives on. She is celebrated and remembered. Joanna Lumley remarked that in a time when being an actress was little more than being a whore, she transformed that stigma and made acting into a respectful art and a fine and aspirational thing to do. REF?
+Dame [Ellen Terry](/20c/20c-terry-biography) died in 1928 at the age of 81 but her legacy lives on. A remarkable woman, Ellen would not be contained and repressed by an unfair cultural expectation, but made her own way, and in so doing, prepared a way for other women to break free and follow their own hearts.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Ellen_Terry_1922.jpg" label="Ellen Terry at Walmer Castle, 1922" attribution="International Photo, Public domain, via Wikimedia Commons">
-
-There are numerous works in cinema, painting and poetry which survive on, keeping the memory of Dame Ellen Terry alive. A remarkable woman, Ellen would not be contained and repressed by an unfair cultural expectation, but made her own way, and in so doing, prepared a way for other women to break free and follow their own hearts.
 
 **John Beal Jude**
 John Beal Jude was the founder of the Kent brewery, one of the two significant breweries in Wateringbury. Quite the businessman, John also branched out into coal and farming. He founded Kent brewery in 1833 which was then situated on <span data-mouseover-image-zoomto="950,573,1283,859">Bow Road</span> but no longer stands. In 1857 John purchased the Broomcrofts estate on <span data-mouseover-image-zoomto="537,1,1285,859">Canon Lane</span>, and grew to be a wealthy land and property owner.
