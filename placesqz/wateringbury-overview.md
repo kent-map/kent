@@ -9,16 +9,17 @@ Wateringbury is a quaint village close to Maidstone. The views are exquisite and
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Wateringbury_Village_Sign_-_geograph.org.uk_-_2490156.jpg" label="Waterbingbury Village Sign" attribution="David Anstiss via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **The Lock up and Stocks**   
-Previously known as the village cage and stocks, before 1846, this was a wooden structure used to hold disturbers of the peace. In 1846 it was upgraded to a sturdier brick building, after a ‘tramp’ (who had been detained for stealing cherries from the Reverend’s garden) had been broken out and escaped to freedom. Once the County Police was established the building was seldom used as Prisoners were taken to Malling where the station was situated. These two items set up echoes of a different time. A harder time. Almost two hundred years ago. Can you imagine wandering past an unfortunate soul with his head and arms in the stocks?
+Previously known as the village cage and stocks, before 1846, this was a wooden structure used to hold disturbers of the peace. In 1846 it was upgraded to a sturdier brick building, after a ‘tramp’ (who had been detained for stealing cherries from the Reverend’s garden) had been broken out and escaped to freedom. Once the County Police was established the building was seldom used as Prisoners were taken to Malling where the station was situated. These two items set up echoes of a different time. A harder time. Almost two hundred years ago. Can you imagine wandering past an unfortunate soul with his head and arms in the <span data-mouseover-image-zoomto="1739,898,859,575">stocks</span>?
 <br><br>
 Later in the 1850’s, the Lock Up is recorded to have been used to house a hand cart used by the person who was to look after the streetlights and keep the village tidy. 
+<param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
 
 **Library phone box**   
 Here you will find a <span data-mouseover-image-zoomto="1828,777,1194,798">British red phone box</span>, although inside you will find no phone, just shelves of books. Like the Tardis, there is no telling where it may sweep you off to. Chose a book and allow yourself to be taken elsewhere. Why not take one and wander into the countryside to sit and read, or head off to the café close by and read while you sip your tea. To return, just drop your book in the ‘returns bin’ provided to the left.
 <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
 
 **Café**   
-On the cross roads you will find a charming café called ‘Where Memories Meet.’ It houses a tea room and an antiques/vintage centre. Inside this quaint tea shop you can sit for hours, soaking up the ambience. The vintage style of items scattered around add to the ancient aroma. No less charming than the rest of the village, just with a delicious menu for added dimension.
+On the cross roads you will find a charming <span data-mouseover-image-zoomto="1693,292,1381,924">café</span> called ‘Where Memories Meet.’ It houses a tea room and an antiques/vintage centre. Inside this quaint tea shop you can sit for hours, soaking up the ambience. The vintage style of items scattered around add to the ancient aroma. No less charming than the rest of the village, just with a delicious menu for added dimension.
 <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
  
 **War time relics**   
