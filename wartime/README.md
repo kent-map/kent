@@ -42,6 +42,15 @@ Built in secret, the old Roman port of Richborough, was chosen for redevelopment
 The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'.
 
 ##
+**[Canterbury in WW2](20c-canterbury-ww2)**
+
+- author: Richard Maltby
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2d/Bomb_damage_Canterbury_1940.jpg)
+
+Canterbury suffered from bombing raids during the second world war and many parts of the historic city were destroyed.
+
+##
 **[Doodlebugs in Kent](/20c/ww2-doodlebug)**
 
 - author: Hannah, Alfie and Jonathan

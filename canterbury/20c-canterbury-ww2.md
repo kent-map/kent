@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="20th-Century Canterbury: World War II" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
@@ -14,8 +14,7 @@
 <param ve-entity eid="Q40472386" aliases="Odeon">
 <param ve-entity eid="Q3360332" aliases="King's School">
 
-### Bombing in World War II (1939-45)
-
+**Bombing in World War II (1939-45)**   
 The destruction of World War II came to Canterbury in the night of 1 June 1942, the worst of a series of air raids, when high explosive and incendiary bombs rained down on the old city.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Bundesarchiv_Bild_101I-662-6659-37%2C_Flugzeug_Messerschmitt_Me_109.jpg" label="Messerschmitt" attribution="Bundesarchiv, Bild 101I-662-6659-37 / Hebenstreit / CC-BY-SA 3.0">
 
@@ -34,6 +33,7 @@ The Cathedral was the Luftwaffe’s target, the Cathedral Library received a dir
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/1920px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" label="Canterbury Cathedral" attribution="Hans Musil, CC-BY-SA 4.0">
 
 The Regal Cinema, now the Odeon (by the St George’s roundabout), was also fortunate. A high explosive bomb destroyed the side of the building. Rather than rebuild, the debris was cleared to widen the public footway and a new wall to the reduced building rendered up. This accounts for the cinema’s unsymmetrical appearance to this day. No-one was in the building at the time but that was the end of the film then showing, *Gone with the Wind*.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Bomb_damage_Canterbury_1940.jpg" label="Bomb damage Canterbury 1940" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <param ve-map center="Q40472386" zoom="15">
 
 ***
