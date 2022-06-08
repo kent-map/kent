@@ -42,7 +42,7 @@ Built in secret, the old Roman port of Richborough, was chosen for redevelopment
 The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'.
 
 ##
-**[Canterbury in WW2](20c-canterbury-ww2)**
+**[Canterbury in WW2](/canterbury/20c-canterbury-ww2)**
 
 - author: Richard Maltby
 
