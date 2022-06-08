@@ -4,7 +4,6 @@
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
-<param ve-entity eid="Q10668204" aliases="Chatham Dockyard">
 <param ve-entity eid="Q1752642" aliases="Thanet">
 <param ve-entity eid="Q5138885" aliases="Cobham Hall">
 
