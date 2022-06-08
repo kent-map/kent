@@ -31,3 +31,10 @@ Inventor of Organic Farming.
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/36ae75f3-b601-4695-ba8e-efb2e99630fc)
 
 Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests.
+
+##
+**[Brogdale National Fruit Collection](/21c/21c-brogdale/)**
+
+- author: 
+
+
