@@ -31,3 +31,12 @@ Inventor of Organic Farming.
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/36ae75f3-b601-4695-ba8e-efb2e99630fc)
 
 Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests.
+
+##
+**[Brogdale National Fruit Collection](/21c/21c-brogdale/)**
+
+- author: Debbie Hickman
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/70b7d425-bbd9-423a-8cd1-e086a00a57f0)
+
+The National Fruit Collections have been sited at Brogdale near Faversham since 1951.

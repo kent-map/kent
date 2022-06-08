@@ -102,7 +102,7 @@ Wateringbury Local History Society [Wateringbury Boy at Trafalgar 1805, 2013](si
 <br>
 Manvel. R, “Britannica”, Ellen Terry,  www.britannica.com/biography/Ellen-Terry    
 <br>
-“Watts Gallery”, Ellen Terry The Painters Actress, Youtube, 2014, www.youtube.com/watch?v=yQnqHpfoZLk     
+“Watts Gallery”, Ellen Terry The Painters Actress, [Youtube](www.youtube.com/watch?v=yQnqHpfoZLk),2014.     
 <br>
 [The Watts Story](https://www.wattsgallery.org.uk/about-us/watts-story/#:~:text=George%20Frederic%20Watts%20OM%2C%20RA,him%20the%20title%20England's%20Michelangelo), 2022.   
 <br>
