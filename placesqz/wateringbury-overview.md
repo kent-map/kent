@@ -37,10 +37,11 @@ Or go straight on to see where the forest leads. Bring your walking shoes though
  
 **Mattias Prime Lucas**   
 Beside an impressive wrought iron gate you will see a blue plaque mounted to the left gate post. This is the home of Mattias Prime Lucas. From the gate and stretching off to the left is a large stone wall, topped with Victorian iron railings. It stretches on and on, right to Canon Road. A look through the gate reveals rugged countryside, a dotting of trees and the drive leading to the main house. If you walk along the grand outer wall, you might snatch a glimpse here and there of the gardens which lie within. A pond, stone garden steps, manicured lawns... Standing outside you can almost feel the energy of wealth and grandeur within. And what would you expect from a man who was the Mayor of London? 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wateringbury_Place-geograph.org-2985200.jpg" label="Wateringbury Place" attribution="Robin Webster, via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
 
 Mattias was born in London in 1761. In 1776 (at age 15) he began as an apprentice lighterman working on the Thames. He did this with his Father, the lighterman trade being mostly a job passed down the family line. This job involved transferring goods from import ships to the dock. Mattias was said to have been a hard worker and here began the accumulation of his wealth: ‘Through his industrious habits and success in business, Mattias started to realise an immense fortune.’ (Newman, 2013) Mattias became a part of The Watermans Company and in 1798 (at age 37) when news of a Napoleonic invasion reached him, he rallied his fellow watermen to fight. They appointed him Commadore.
- 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wateringbury_Place-geograph.org-2985200.jpg" label="Wateringbury Place" attribution="Robin Webster, via Wikimedia Commons" license="CC BY-SA 2.0">
+
 This rallied group of volunteer defenders of their country went on to become the Corps or River Fencibles, a militia which grew into multiple districts. Mattias, who became commander of the river fencibles, was involved in organising the river procession which escorted the barge carrying the body of Lord Nelson to the Admiralty. He was elected Sheriff of London in 1822 (at 61 years old) and in 1827 become the Lord Mayor (age 66). In 1841 he signed the Lee Petition, one of the movements attempting to abolish slavery. Mattias invested heavily in Wateringbury and many of the buildings today are down to his investment. He also built a school for the poorer inhabitants of the town.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Lord_Mayors_dinner_%28BM_Ii%2C3.92%29.jpg" label="The Lord Mayor's Dinner held by William Thompson in honour of his predecessor Matthias Prime Lucas" attribution="British Museum, Public domain, via Wikimedia Commons">
 
@@ -92,7 +93,7 @@ Login, L. [_Sir John Login and Duleep Singh_](https://archive.org/stream/sirjohn
 <br>
 Gillham.J, [Wateringbury Remembered](https://wateringbury.blogspot.com/search?q=Bow+Road), 2008.     
 <br>
-[William Rutter Dawes (1799 – 1868)](http://mikeoates.org/astro-history/dawes.htm).
+[William Rutter Dawes (1799 – 1868)](http://mikeoates.org/astro-history/dawes.htm).   
 <br>
 “National Archives”, [Sea Fencibles Pay list](discovery.nationalarchives.gov.uk/details/r/C1737), 2022.     
 <br>
