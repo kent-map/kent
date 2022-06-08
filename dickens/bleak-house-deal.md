@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
 <param ve-config title="Dickens and Deal" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
      
 <param ve-entity eid="Q1011096" alias="Deal">
