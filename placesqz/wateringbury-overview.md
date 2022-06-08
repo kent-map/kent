@@ -32,8 +32,8 @@ Up this track there is a footpath which takes you along a narrow track, through 
 If you take the left path, you will pass a disused oast house. The path then joins with <span data-mouseover-image-zoomto="698,1,1283,859">Canon Lane</span>. Turn left back down to the main street. 
 <br><br> 
 The footpath to the right will take you through Red Hill Farm, passing a pop-up wine bar on your way through and meeting with the road on <span data-mouseover-image-zoomto="1820,1,1599,1069">Red Hill</span> where you turn right and meet the main street again.
- Or go straight on to see where the forest leads. Bring your walking shoes though, there is some distance to be covered here.
- <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
+Or go straight on to see where the forest leads. Bring your walking shoes though, there is some distance to be covered here.
+<param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
  
 **Mattias Prime Lucas**   
 Beside an impressive wrought iron gate you will see a blue plaque mounted to the left gate post. This is the home of Mattias Prime Lucas. From the gate and stretching off to the left is a large stone wall, topped with Victorian iron railings. It stretches on and on, right to Canon Road. A look through the gate reveals rugged countryside, a dotting of trees and the drive leading to the main house. If you walk along the grand outer wall, you might snatch a glimpse here and there of the gardens which lie within. A pond, stone garden steps, manicured lawns... Standing outside you can almost feel the energy of wealth and grandeur within. And what would you expect from a man who was the Mayor of London? 
@@ -77,7 +77,8 @@ Dame [Ellen Terry](/20c/20c-terry-biography) died in 1928 at the age of 81 but h
 There are numerous works in cinema, painting and poetry which survive on, keeping the memory of Dame Ellen Terry alive. A remarkable woman, Ellen would not be contained and repressed by an unfair cultural expectation, but made her own way, and in so doing, prepared a way for other women to break free and follow their own hearts.
 
 **John Beal Jude**
-John Beal Jude was the founder of the Kent brewery, one of the two significant breweries in Wateringbury. Quite the businessman, John also branched out into coal and farming. He founded Kent brewery in 1833 which was then situated on Bow Road but no longer stands. In 1857 John purchased the Broomcrofts estate on Cannon Lane, and grew to be a wealthy land and property owner.
+John Beal Jude was the founder of the Kent brewery, one of the two significant breweries in Wateringbury. Quite the businessman, John also branched out into coal and farming. He founded Kent brewery in 1833 which was then situated on <span data-mouseover-image-zoomto="950,573,1283,859">Bow Road</span> but no longer stands. In 1857 John purchased the Broomcrofts estate on <span data-mouseover-image-zoomto="950,573,1283,859">Cannon Lane</span>, and grew to be a wealthy land and property owner.
+ <param ve-image url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d">
 
 The first train to land in Wateringbury was in the year 1844. There was a grand celebration with guests including Alderman Mattias Lucas and the band of 16th lancers, a cavalry regiment in the British Army. Around 6 years later the train station was built in the Tudor Gothic style and is now a grade II listed building. The station still holds much of its historic charm and overlooks the countryside. Even if you have no train to catch, its worth the walk down Bow Road to see this splendid building and take in the views.
 <br><br> 
