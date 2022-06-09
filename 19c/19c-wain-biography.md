@@ -78,3 +78,4 @@ Napsbury Hospital on 4 June 1939, aged 78, after more years of penury and mental
 Cemetery in north London.
 <br><br>
 In his more lucid moments he would continue to draw his beloved cats - and no doubt dream of his halcyon days dancing with them along the promenade at Westgate.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Bethlem_Royal_Hospital_Main_building_view_1.jpg" label="Bethlem Royal Hospital" attribution="SLaMNHSFT, via Wikimedia Commons" license="CC BY-SA 3.0">
