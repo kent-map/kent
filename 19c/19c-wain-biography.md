@@ -9,7 +9,7 @@
 Louis Wain, illustrator of cats, lived for many years in Westgate on Sea. He was born in Clerkenwell in London on 5 August 1860, and by his own account, had a strange childhood.  Born with a cleft lip, he was a sickly child and prone to wandering the streets and docks of London on his own.  He was tormented by recurring dreams and nightmares.
 <br><br>
 In 1899 he wrote: “The days of my childhood were terrifying in the  extreme.  I seemed to live hundreds of years and to see thousands of mental pictures of extraordinary complexity, pictures that were so vivid that I can recall many of them in the present day.”
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/95/Louis_Wain_-_Lascelles.jpg" label="Louis Wain" attribution="Lascelles and Co., in The Book of the Cat by Frances Simpson, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Louis_Wain_-_Lascelles.png" label="Louis Wain" attribution="Lascelles and Co., in The Book of the Cat by Frances Simpson, Public domain, via Wikimedia Commons">
 
 In 1882 his mother Julia hired Emily Richardson as governess to her youngest daughter.  Louis and Emily, 10 years his senior, fell in love and, much against his widowed mother’s wishes, were married in January 1884.
 <br><br>
