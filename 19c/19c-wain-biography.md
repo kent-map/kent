@@ -1,19 +1,17 @@
 Cat lovers all over the world owe a debt of gratitude to a tall, pale young widower of 26 years old who moved to Westgate from London with his mother and five younger, unmarried sisters.
 
-Cats had not always been household pets in Britain having been out of favour since the days of witch-hunting and were regarded only as a necessity to keep down mice.
+Cats had not always been household pets in Britain, having been out of favour since the days of witch-hunting, and were regarded only as a necessity to keep down mice.
 
 Louis Wain changed all that. His fame was founded on his rare ability to draw cats of all sizes as well as happy cats, sad cats and eccentric cats.
 
-From his days in Westgate when he would try and pay off debts with cat sketches to modern times when his original work costs thousands of pounds, his feline pictures have endeared the species and pinpointed their characteristics. 
-
-Louis was born in Clerkenwell in London on 5 August 1860.  By his own account, Louis had a strange childhood.  Born with a cleft lip, he was a sickly child 
+Louis was born in Clerkenwell in London on 5 August 1860.  By his own account, he had a strange childhood.  Born with a cleft lip, he was a sickly child 
 and prone to wandering the streets and docks of London on his own.  He was tormented by recurring dreams and nightmares.
 
 In 1899 he wrote: “The days of my childhood were terrifying in the  extreme.  I seemed to live hundreds of years and to see thousands of mental pictures of extraordinary complexity, pictures that were so vivid that I can recall many of them in the present day.”
 
 In 1882 his mother Julia hired Emily Richardson as governess to her youngest daughter.  Louis and Emily, 10 years his senior, fell in love and, much against his widowed mother’s wishes, were married in January 1884.
 
-Their marriage was short-lived. Emily died of cancer just three years after their wedding.  Louis took it badly, withdrawing from the world with only Peter, his wife’s black and white cat, for company.  Peter had been Emily’s companion and Louis had sat for many hours beside them, sketching the kitten to humour Emily.  It was Emily’s suggestion that he send the sketches to the Illustrated London News that ultimately saw him get a job on the paper, one of the Victorian era’s most successful publications.
+Their marriage was short-lived. Emily died of cancer just three years after their wedding.  Louis took it badly, withdrawing from the world with only Peter, his wife’s black and white cat, for company.  Peter had been Emily’s companion and Louis had sat for many hours beside them, sketching the kitten to humour Emily.  It was Emily’s suggestion that he send the sketches to the _Illustrated London News_ that ultimately saw him get a job on the paper, one of the Victorian era’s most successful publications.
 
 Louis proved to be a competent commercial artist drawing a wide variety of illustrations as needed.  In 1886, ILN’s owner Sir William Ingram, realising the originality of Louis’ feline sketches, suggested a two page spread of a cats’ Christmas party for the festive number.  In barely any time at all Louis had 
 produced a picture containing some 150 cats, each with its own expression and doing something different.  The Louis Wain cat had arrived.
@@ -36,7 +34,7 @@ productive and celebrated.  Often working 14 hours a
 day his popularity was universal.  He became President 
 of the National Cat Club, produced a number of Louis 
 Wain cat annuals, drew cartoons for Randolph Hearst’s 
-New York American and conceived the first animated 
+_New York American_ and conceived the first animated 
 cartoon cat called Pussyfoot.
 
 It was also the heyday of the picture postcard to which Wain contributed several series, including Raphael 
@@ -50,7 +48,7 @@ personal sadness and joy at the public’s acclaim.
 As the only male in the household, the girls were proud of their famous brother.   Though disorganised and, at times, tyrannical, he escorted them to the assembly rooms and to tennis parties, all basking in his reflected glory.
 
 His sister Marie’s deteriorating mental health had caused great concern for many years and she was eventually admitted to St Augustine’s Hospital at
-Chartham, near Canterbury, in 1901 after being certified insane.  She would die there in 1913.
+Chartham, near [Canterbury](/canterbury/20c-canterbury-home), in 1901 after being certified insane.  She would die there in 1913.
 
 Louis’ own behaviour, not thought to be anything more than harmless eccentricity, was nonetheless 
 strange.  He would be seen dancing along the local 
@@ -63,21 +61,21 @@ table.  Others would be visited by Louis at their own
 homes and watch in incredulity as he took off his shoes 
 to dance on their tables, often ignoring pleas to stop! 
 As his fame spread, so he would be interviewed by 
-visiting journalists.  One from the Daily Express 
+visiting journalists.  One from the _Daily Express_ 
 wrote that Louis was nothing like he expected him 
 to be, describing Louis as ‘a quiet, rather sad-faced 
 man with a singularly charming manner’. 
-The article went on to say: “He loves cats and cats 
+The article went on to say: 'He loves cats and cats 
 love him and he is often to be seen wandering about 
 the beach at Westgate-On-Sea with his four cats 
 quietly walking behind him.  He is now busy 
 preparing for the great ‘Cats meat dinner’ at which 
-he will take the chair.”
+he will take the chair.'
 
 Louis should have been rich - the more so after 
 travelling to America in 1910 to talk about his art, 
 give lectures on cats and, for a time, working on the 
-New York Journal.  He had no business acumen, publishers plagiarised his work, royalties were few 
+_New York Journal_.  He had no business acumen, publishers plagiarised his work, royalties were few 
 and far between and after his mother died in 1910, 
 life generally became more difficult.  Louis and his 
 surviving sisters began to pay their bills with 
@@ -90,7 +88,7 @@ proved too much, prompting a move back to Kilburn
 in north London.
 
 By 1925 Louis was certified insane with schizophrenia and confined in a pauper’s asylum at Springfield Hospital, Tooting, 
-the county asylum for Middlesex. His plight was discovered and science fiction writer HG Wells made a radio appeal to help raise money forhis ongoing care.
+the county asylum for Middlesex. His plight was discovered and science fiction writer [H. G. Wells](/20c/20c-wellshg-biography) made a radio appeal to help raise money forhis ongoing care.
 
 As a result Louis was transferred to the Bethlem Royal Hospital 
 in Southwark where he spent the next five years.  He died at 
