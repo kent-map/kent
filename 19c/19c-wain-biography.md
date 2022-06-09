@@ -17,7 +17,7 @@ Their marriage was short-lived. Emily died of cancer just three years after thei
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c7/Our_artists_-_past_and_present_-_ILN_1892-0514-0016.jpg" label="Various Illustrated London News staff, 1892" attribution="Public domain, via Wikimedia Commons">
 
 Louis proved to be a competent commercial artist drawing a wide variety of illustrations as needed.  In 1886, the _Illustrated London News’s_ owner Sir William Ingram, realising the originality of Louis’ feline sketches, suggested a two page spread of a cats’ Christmas party for the festive number.  In barely any time at all Louis had produced a picture containing some 150 cats, each with its own expression and doing something different.  The Louis Wain cat had arrived.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2b/A_group_of_cats_engaged_in_a_cycle-race_in_Hyde_Park%2C_London_Wellcome_V0023074.jpg" label="A group of cats engaged in a cycle race in Hyde Park" attribution="See page for author, via Wikimedia Commons" label="CC BY 4.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2b/A_group_of_cats_engaged_in_a_cycle-race_in_Hyde_Park%2C_London_Wellcome_V0023074.jpg" label="A group of cats engaged in a cycle race in Hyde Park, London Wellcome V0023074" attribution="See page for author, via Wikimedia Commons" label="CC BY 4.0">
 
 Julia and her daughters were only too aware of Louis’ growing fame as his work began to appear in magazines and newspapers. 
 But they were still estranged.  Sir William saw Louis as a sad and lonely figure and suggested a move to the quiet atmosphere of 
@@ -26,19 +26,11 @@ Louis and family arrived in Westgate in 1894.  By now, Julia and her daughters C
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Wain_cat_--_representative.jpg" label="A cat by Louis Wain" attribution="Louis Wain, Public domain, via Wikimedia Commons">
 
 They lived first at 16 Adrian Square, later moving around the corner to 7 Collingwood Terrace, which was absorbed into 
-Westgate Bay Avenue in 1946 and became number 23.  The family lived there from 1895 to 1906.  Their third move saw 
-them take on 10 Collingwood Terrace (now 29 Westgate Bay Avenue) until they would return to London in 1917.
-Each property was named Bendigo and it is thought all were owned by Sir Willliam.
+Westgate Bay Avenue in 1946 and became number 23.  The family lived there from 1895 to 1906.  Their third move saw them take on 10 Collingwood Terrace (now 29 Westgate Bay Avenue) until they would return to London in 1917. Each property was named Bendigo and it is thought all were owned by Sir Willliam.
 
-Louis’ years in Westgate would prove to be his most 
-productive and celebrated.  Often working 14 hours a 
-day his popularity was universal.  He became President 
-of the National Cat Club, produced a number of Louis 
-Wain cat annuals, drew cartoons for Randolph Hearst’s 
-_New York American_ and conceived the first animated 
-cartoon cat called Pussyfoot.
-
-It was also the heyday of the picture postcard to which Wain contributed several series, including Raphael 
+Louis’ years in Westgate would prove to be his most productive and celebrated.  Often working 14 hours a day his popularity was universal.  He became President 
+of the National Cat Club, produced a number of Louis Wain cat annuals, drew cartoons for Randolph Hearst’s _New York American_ and conceived the first animated 
+cartoon cat called Pussyfoot. It was also the heyday of the picture postcard to which Wain contributed several series, including Raphael 
 Tuck’s ‘Louis Wain’s Cats’.
 
 His life in Westgate, where he would walk with his own cats on the beach at dusk and, with his sisters, enter 
@@ -58,9 +50,7 @@ The article went on to say: 'He loves cats and cats love him and he is often to 
 quietly walking behind him.  He is now busy preparing for the great ‘Cats meat dinner’ at which he will take the chair.'
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ec/L._Wain%27s_kaleidoscope_cat_II.jpg" label="Kaleidoscope Cat, 1910s" attribution="Louis Wain, Public domain, via Wikimedia Commons"
 
-Louis should have been rich - the more so after travelling to America in 1910 to talk about his art, 
-give lectures on cats and, for a time, working on the _New York Journal_.  He had no business acumen, publishers plagiarised his work, royalties were few 
-and far between and after his mother died in 1910, life generally became more difficult.  Louis and his surviving sisters began to pay their bills with paintings to a point where few households of note in the town were without a Louis Wain in the lounge. They endured more disappointment and embarrassment in Westgate until late 1917 when enemy activity and clamouring creditors finally proved too much, prompting a move back to Kilburn in north London."
+Louis should have been rich - the more so after travelling to America in 1910 to talk about his art, give lectures on cats and, for a time, working on the _New York Journal_.  He had no business acumen, publishers plagiarised his work, royalties were few and far between and after his mother died in 1910, life generally became more difficult.  Louis and his surviving sisters began to pay their bills with paintings to a point where few households of note in the town were without a Louis Wain in the lounge. They endured more disappointment and embarrassment in Westgate until late 1917 when enemy activity and clamouring creditors finally proved too much, prompting a move back to Kilburn in north London.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Carol_Singing_by_Louis_William_Wain%2C_watercolor.jpg" label="Carol singing by Louis William Wain" attribution="Louis William Wain, Public domain, via Wikimedia Commons"> 
 
 By 1925 Louis was certified insane with schizophrenia and confined in a pauper’s asylum at Springfield Hospital, Tooting, 
@@ -70,6 +60,7 @@ the county asylum for Middlesex. His plight was discovered and science fiction w
 As a result Louis was transferred to the Bethlem Royal Hospital in Southwark where he spent the next five years.  He died at 
 Napsbury Hospital on 4 June 1939, aged 78, after more years of penury and mental ill health.  He is buried at Kensal Green 
 Cemetery in north London.
-<br><br>
-In his more lucid moments he would continue to draw his beloved cats - and no doubt dream of his halcyon days dancing with them along the promenade at Westgate.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Bethlem_Royal_Hospital_Main_building_view_1.jpg" label="Bethlem Royal Hospital" attribution="SLaMNHSFT, via Wikimedia Commons" license="CC BY-SA 3.0">
+
+In his more lucid moments he would continue to draw his beloved cats - and no doubt dream of his halcyon days dancing with them along the promenade at Westgate.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Three_cats_singing._Gouache_by_Louis_Wain%2C_1925-1939._Wellcome_L0026168.jpg" label="Three cats singing. Gouache by Louis Wain 1925-1939. Wellcome Loo26168" attribution="See page for author, via Wikimedia Commons" license="CC BY 4.0"> 
