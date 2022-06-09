@@ -23,7 +23,7 @@ Julia and her daughters were only too aware of Louis’ growing fame as his work
 But they were still estranged.  Sir William saw Louis as a sad and lonely figure and suggested a move to the quiet atmosphere of 
 Westgate as a way of making a reunion.  Owning several properties in the town, Sir William was able to offer them a house. 
 Louis and family arrived in Westgate in 1894.  By now, Julia and her daughters Caroline, Josephine, Marie, Claire and Felicie, increasingly needed Louis as head of the family and breadwinner.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Wain_cat_--_representative.jpg" label="A cat by Louis Wain" attribution="Louis Wain, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Carol_Singing_by_Louis_William_Wain%2C_watercolor.jpg" label="Carol Singing" attribution="Louis Wain, Public domain, via Wikimedia Commons">
 
 They lived first at 16 Adrian Square, later moving around the corner to 7 Collingwood Terrace, which was absorbed into 
 Westgate Bay Avenue in 1946 and became number 23.  The family lived there from 1895 to 1906.  Their third move saw them take on 10 Collingwood Terrace (now 29 Westgate Bay Avenue) until they would return to London in 1917. Each property was named Bendigo and it is thought all were owned by Sir Willliam.
@@ -32,6 +32,7 @@ Louis’ years in Westgate would prove to be his most productive and celebrated.
 of the National Cat Club, produced a number of Louis Wain cat annuals, drew cartoons for Randolph Hearst’s _New York American_ and conceived the first animated 
 cartoon cat called Pussyfoot. It was also the heyday of the picture postcard to which Wain contributed several series, including Raphael 
 Tuck’s ‘Louis Wain’s Cats’.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c7/1905-04-04_front_Cat_car_crash.jpg" label="Cat car crash, 1905" attribution="Louis Wain, Public domain, via Wikimedia Commons">
 
 His life in Westgate, where he would walk with his own cats on the beach at dusk and, with his sisters, enter 
 into Westgate’s late Victorian society, was a mixture of personal sadness and joy at the public’s acclaim. As the only male in the household, the girls were proud of their famous brother. Though disorganised and, at times, tyrannical, he escorted them to the assembly rooms and to tennis parties, all basking in his reflected glory.
