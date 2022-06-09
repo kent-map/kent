@@ -68,8 +68,8 @@ enemy activity and clamouring creditors finally proved too much, prompting a mov
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Carol_Singing_by_Louis_William_Wain%2C_watercolor.jpg" label="Carol singing by Louis William Wain" attribution="Louis William Wain, Public domain, via Wikimedia Commons"> 
 
 By 1925 Louis was certified insane with schizophrenia and confined in a pauper’s asylum at Springfield Hospital, Tooting, 
-the county asylum for Middlesex. His plight was discovered and science fiction writer [H. G. Wells](/20c/20c-wellshg-biography) made a radio appeal to help raise money forhis ongoing care.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Louis_wain_cats.png" label="6 paintings of cats by Louis Wain with an increasing degree of abstractedness, attributed by some to his suffering from schizophrenia c. 1886 - 1939" attribution="Louis Wain, Public domain, via Wikimedia Commons">
+the county asylum for Middlesex. His plight was discovered and science fiction writer [H. G. Wells](/20c/20c-wellshg-biography) made a radio appeal to help raise money for his ongoing care.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d6/A_cat_in_%22gothic%22_style._Gouache_by_Louis_Wain%2C_1925-1939._Wellcome_L0026931.jpg" label="A cat in gothic style. Gouache by Louis Wain, 1925-1939. Wellcome L0026931" attribution="See page for author, via Wikimedia Commons" license="CC BY 4.0">
 
 As a result Louis was transferred to the Bethlem Royal Hospital in Southwark where he spent the next five years.  He died at 
 Napsbury Hospital on 4 June 1939, aged 78, after more years of penury and mental ill health.  He is buried at Kensal Green 
