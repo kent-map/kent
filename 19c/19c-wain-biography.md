@@ -61,10 +61,7 @@ quietly walking behind him.  He is now busy preparing for the great ‘Cats meat
 
 Louis should have been rich - the more so after travelling to America in 1910 to talk about his art, 
 give lectures on cats and, for a time, working on the _New York Journal_.  He had no business acumen, publishers plagiarised his work, royalties were few 
-and far between and after his mother died in 1910, life generally became more difficult.  Louis and his 
-surviving sisters began to pay their bills with paintings to a point where few households of note in 
-the town were without a Louis Wain in the lounge. They endured more disappointment and embarrassment in Westgate until late 1917 when 
-enemy activity and clamouring creditors finally proved too much, prompting a move back to Kilburn in north London."  
+and far between and after his mother died in 1910, life generally became more difficult.  Louis and his surviving sisters began to pay their bills with paintings to a point where few households of note in the town were without a Louis Wain in the lounge. They endured more disappointment and embarrassment in Westgate until late 1917 when enemy activity and clamouring creditors finally proved too much, prompting a move back to Kilburn in north London."
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Carol_Singing_by_Louis_William_Wain%2C_watercolor.jpg" label="Carol singing by Louis William Wain" attribution="Louis William Wain, Public domain, via Wikimedia Commons"> 
 
 By 1925 Louis was certified insane with schizophrenia and confined in a pauper’s asylum at Springfield Hospital, Tooting, 
