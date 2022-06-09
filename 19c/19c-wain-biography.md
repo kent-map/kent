@@ -28,10 +28,9 @@ They lived first at 16 Adrian Square, later moving around the
 corner to 7 Collingwood Terrace, which was absorbed into 
 Westgate Bay Avenue in 1946 and became number 23.  The 
 family lived there from 1895 to 1906.  Their third move saw 
-them take on 10 Collingwood Terrace (now 29 Westgate Bay
-
-Avenue) until they would return to London in 1917.
+them take on 10 Collingwood Terrace (now 29 Westgate Bay Avenue) until they would return to London in 1917.
 Each property was named Bendigo and it is thought all were owned by Sir Willliam.
+
 Louis’ years in Westgate would prove to be his most 
 productive and celebrated.  Often working 14 hours a 
 day his popularity was universal.  He became President 
@@ -39,20 +38,21 @@ of the National Cat Club, produced a number of Louis
 Wain cat annuals, drew cartoons for Randolph Hearst’s 
 New York American and conceived the first animated 
 cartoon cat called Pussyfoot.
+
 It was also the heyday of the picture postcard to which Wain contributed several series, including Raphael 
 Tuck’s ‘Louis Wain’s Cats’.
+
 His life in Westgate, where he would walk with his
 own cats on the beach at dusk and, with his sisters, enter 
 into Westgate’s late Victorian society, was a mixture of 
 personal sadness and joy at the public’s acclaim.
+
 As the only male in the household, the girls were proud of their famous brother.   Though disorganised and, at times, tyrannical, he escorted them to the assembly rooms and to tennis parties, all basking in his reflected glory.
-His sister Marie’s deteriorating mental health had
-caused great concern for many years and she was
-eventually admitted to St Augustine’s Hospital at
+
+His sister Marie’s deteriorating mental health had caused great concern for many years and she was eventually admitted to St Augustine’s Hospital at
 Chartham, near Canterbury, in 1901 after being certified insane.  She would die there in 1913.
 
-Louis’ own behaviour, not thought to be anything 
-more than harmless eccentricity, was nonetheless 
+Louis’ own behaviour, not thought to be anything more than harmless eccentricity, was nonetheless 
 strange.  He would be seen dancing along the local 
 promenade followed more leisurely by his cats.  He 
 would dance or run back to Adrian Square after 
@@ -73,12 +73,11 @@ the beach at Westgate-On-Sea with his four cats
 quietly walking behind him.  He is now busy 
 preparing for the great ‘Cats meat dinner’ at which 
 he will take the chair.”
+
 Louis should have been rich - the more so after 
 travelling to America in 1910 to talk about his art, 
 give lectures on cats and, for a time, working on the 
-New York Journal.  He had no business acumen,
-
-publishers plagiarised his work, royalties were few 
+New York Journal.  He had no business acumen, publishers plagiarised his work, royalties were few 
 and far between and after his mother died in 1910, 
 life generally became more difficult.  Louis and his 
 surviving sisters began to pay their bills with 
@@ -89,29 +88,14 @@ embarrassment in Westgate until late 1917 when
 enemy activity and clamouring creditors finally 
 proved too much, prompting a move back to Kilburn 
 in north London.
-By 1925 Louis was certified insane with
-schizophrenia and
-confined in a
-pauper’s asylum 
-at Springfield
-Hospital, Tooting, 
-the county
-asylum for
-Middlesex.
-His plight was 
-discovered and
-	science fiction
-	writer HG Wells
-	made a radio
-	appeal to help
-	raise money for
-	his ongoing care.
 
+By 1925 Louis was certified insane with schizophrenia and confined in a pauper’s asylum at Springfield Hospital, Tooting, 
+the county asylum for Middlesex. His plight was discovered and science fiction writer HG Wells made a radio appeal to help raise money forhis ongoing care.
 
 As a result Louis was transferred to the Bethlem Royal Hospital 
 in Southwark where he spent the next five years.  He died at 
 Napsbury Hospital on 4 June 1939, aged 78, after more years of 
 penury and mental ill health.  He is buried at Kensal Green 
 Cemetery in north London.
-In his more lucid moments he would continue to draw his
-beloved cats - and no doubt dream of his halcyon days dancing with them along the promenade at Westgate.
+
+In his more lucid moments he would continue to draw his beloved cats - and no doubt dream of his halcyon days dancing with them along the promenade at Westgate.
