@@ -9,7 +9,7 @@
 Louis Wain, illustrator of cats, lived for many years in Westgate on Sea. He was born in Clerkenwell in London on 5 August 1860, and by his own account, had a strange childhood.  Born with a cleft lip, he was a sickly child and prone to wandering the streets and docks of London on his own.  He was tormented by recurring dreams and nightmares.
 <br><br>
 In 1899 he wrote: “The days of my childhood were terrifying in the  extreme.  I seemed to live hundreds of years and to see thousands of mental pictures of extraordinary complexity, pictures that were so vivid that I can recall many of them in the present day.”
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Louis_Wain_-_Lascelles.png" label="Louis Wain" attribution="Lascelles and Co., in The Book of the Cat by Frances Simpson, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Catwithacigar.jpg" label="Cat with a cigar" attribution="Louis Wain, Public domain, via Wikimedia Commons">
 
 In 1882 his mother Julia hired Emily Richardson as governess to her youngest daughter.  Louis and Emily, 10 years his senior, fell in love and, much against his widowed mother’s wishes, were married in January 1884.
 <br><br>
@@ -17,13 +17,12 @@ Their marriage was short-lived. Emily died of cancer just three years after thei
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c7/Our_artists_-_past_and_present_-_ILN_1892-0514-0016.jpg" label="Various Illustrated London News staff, 1892" attribution="Public domain, via Wikimedia Commons">
 
 Louis proved to be a competent commercial artist drawing a wide variety of illustrations as needed.  In 1886, the _Illustrated London News’s_ owner Sir William Ingram, realising the originality of Louis’ feline sketches, suggested a two page spread of a cats’ Christmas party for the festive number.  In barely any time at all Louis had produced a picture containing some 150 cats, each with its own expression and doing something different.  The Louis Wain cat had arrived.
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2b/A_group_of_cats_engaged_in_a_cycle-race_in_Hyde_Park%2C_London_Wellcome_V0023074.jpg" label="A group of cats engaged in a cycle race in Hyde Park" attribution="See page for author, via Wikimedia Commons" label="CC BY 4.0">
 
 Julia and her daughters were only too aware of Louis’ growing fame as his work began to appear in magazines and newspapers. 
 But they were still estranged.  Sir William saw Louis as a sad and lonely figure and suggested a move to the quiet atmosphere of 
 Westgate as a way of making a reunion.  Owning several properties in the town, Sir William was able to offer them a house. 
-Louis and family arrived in Westgate in 1894.  By now, Julia and her daughters Caroline, Josephine, Marie, Claire and 
-Felicie, increasingly needed Louis as head of the family and breadwinner.
+Louis and family arrived in Westgate in 1894.  By now, Julia and her daughters Caroline, Josephine, Marie, Claire and Felicie, increasingly needed Louis as head of the family and breadwinner.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Wain_cat_--_representative.jpg" label="A cat by Louis Wain" attribution="Louis Wain, Public domain, via Wikimedia Commons">
 
 They lived first at 16 Adrian Square, later moving around the corner to 7 Collingwood Terrace, which was absorbed into 
