@@ -52,7 +52,6 @@ Louis should have been rich - the more so after travelling to America in 1910 to
 By 1925 Louis was certified insane with schizophrenia and confined in a pauper’s asylum at Springfield Hospital, Tooting, 
 the county asylum for Middlesex. His plight was discovered and science fiction writer [H. G. Wells](/20c/20c-wellshg-biography) made a radio appeal to help raise money for his ongoing care.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d6/A_cat_in_%22gothic%22_style._Gouache_by_Louis_Wain%2C_1925-1939._Wellcome_L0026931.jpg" label="A cat in gothic style. Gouache by Louis Wain, 1925-1939. Wellcome L0026931" attribution="See page for author, via Wikimedia Commons" license="CC BY 4.0">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Wain_Cats_--_The_Fire_of_the_Mind_Agitates_the_Atmosphere.jpg" label="The Fire of the Mind Agitates the Atmosphere" attribution="Louis Wain, via Wikipedia Commons">
 
 As a result Louis was transferred to the Bethlem Royal Hospital in Southwark where he spent the next five years.  He died at 
 Napsbury Hospital on 4 June 1939, aged 78, after more years of penury and mental ill health.  He is buried at Kensal Green 
