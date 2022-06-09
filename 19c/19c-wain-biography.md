@@ -47,6 +47,7 @@ into Westgate’s late Victorian society, was a mixture of personal sadness and 
 <br><br>
 His sister Marie’s deteriorating mental health had caused great concern for many years and she was eventually admitted to St Augustine’s Hospital at
 Chartham, near [Canterbury](/canterbury/20c-canterbury-home), in 1901 after being certified insane.  She would die there in 1913.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/33/St._Augstines_Hospital_-_geograph.org.uk_-_1806075.jpg" label="St Augustine's Hospital, Chartham" attribution="David Anstiss" license="CC BY-SA 2.0">
 
 Louis’ own behaviour, not thought to be anything more than harmless eccentricity, was nonetheless strange.  He would be seen dancing along the local 
 promenade followed more leisurely by his cats.  He would dance or run back to Adrian Square after journeys to London to see his publishers and he developed the peculiar habit of giving dancing demonstrations to his mother’s guests on the kitchen table.  Others would be visited by Louis at their own 
@@ -55,23 +56,18 @@ As his fame spread, so he would be interviewed by visiting journalists.  One fro
 wrote that Louis was nothing like he expected him to be, describing Louis as ‘a quiet, rather sad-faced man with a singularly charming manner’. 
 The article went on to say: 'He loves cats and cats love him and he is often to be seen wandering about the beach at Westgate-On-Sea with his four cats 
 quietly walking behind him.  He is now busy preparing for the great ‘Cats meat dinner’ at which he will take the chair.'
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ec/L._Wain%27s_kaleidoscope_cat_II.jpg" label="Kaleidoscope Cat, 1910s" attribution="Louis Wain, Public domain, via Wikimedia Commons"
 
 Louis should have been rich - the more so after travelling to America in 1910 to talk about his art, 
 give lectures on cats and, for a time, working on the _New York Journal_.  He had no business acumen, publishers plagiarised his work, royalties were few 
-and far between and after his mother died in 1910, 
-life generally became more difficult.  Louis and his 
-surviving sisters began to pay their bills with 
-paintings to a point where few households of note in 
-the town were without a Louis Wain in the lounge. 
-They endured more disappointment and 
-embarrassment in Westgate until late 1917 when 
-enemy activity and clamouring creditors finally 
-proved too much, prompting a move back to Kilburn 
-in north London.
+and far between and after his mother died in 1910, life generally became more difficult.  Louis and his 
+surviving sisters began to pay their bills with paintings to a point where few households of note in 
+the town were without a Louis Wain in the lounge. They endured more disappointment and embarrassment in Westgate until late 1917 when 
+enemy activity and clamouring creditors finally proved too much, prompting a move back to Kilburn in north London.
 
 By 1925 Louis was certified insane with schizophrenia and confined in a pauper’s asylum at Springfield Hospital, Tooting, 
 the county asylum for Middlesex. His plight was discovered and science fiction writer [H. G. Wells](/20c/20c-wellshg-biography) made a radio appeal to help raise money forhis ongoing care.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Wain_cats_6.jpg" label="6 paintings of cats by Louis Wain with an increasing degree of abstractedness, attributed by some to his suffering from schizophrenia c. 1886 - 1939" attribution="Louis Wain, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Louis_wain_cats.png" label="6 paintings of cats by Louis Wain with an increasing degree of abstractedness, attributed by some to his suffering from schizophrenia c. 1886 - 1939" attribution="Louis Wain, Public domain, via Wikimedia Commons">
 
 As a result Louis was transferred to the Bethlem Royal Hospital in Southwark where he spent the next five years.  He died at 
 Napsbury Hospital on 4 June 1939, aged 78, after more years of penury and mental ill health.  He is buried at Kensal Green 
