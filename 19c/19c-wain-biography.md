@@ -44,7 +44,8 @@ Tuck’s ‘Louis Wain’s Cats’.
 
 His life in Westgate, where he would walk with his own cats on the beach at dusk and, with his sisters, enter 
 into Westgate’s late Victorian society, was a mixture of personal sadness and joy at the public’s acclaim. As the only male in the household, the girls were proud of their famous brother. Though disorganised and, at times, tyrannical, he escorted them to the assembly rooms and to tennis parties, all basking in his reflected glory.
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Westgate_Bay_-_geograph.org.uk_-_1931362.jpg" label="Westgate Bay" attribution="Oast House Archive, via Wikimedia Commons" license="CC BY-SA 2.0">
+
 His sister Marie’s deteriorating mental health had caused great concern for many years and she was eventually admitted to St Augustine’s Hospital at
 Chartham, near [Canterbury](/canterbury/20c-canterbury-home), in 1901 after being certified insane.  She would die there in 1913.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/33/St._Augstines_Hospital_-_geograph.org.uk_-_1806075.jpg" label="St Augustine's Hospital, Chartham" attribution="David Anstiss" license="CC BY-SA 2.0">
