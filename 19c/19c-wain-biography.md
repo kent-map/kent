@@ -36,19 +36,14 @@ Tuck’s ‘Louis Wain’s Cats’.
 
 His life in Westgate, where he would walk with his own cats on the beach at dusk and, with his sisters, enter 
 into Westgate’s late Victorian society, was a mixture of personal sadness and joy at the public’s acclaim. As the only male in the household, the girls were proud of their famous brother. Though disorganised and, at times, tyrannical, he escorted them to the assembly rooms and to tennis parties, all basking in his reflected glory.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Westgate_Bay_-_geograph.org.uk_-_1931362.jpg" label="Westgate Bay" attribution="Oast House Archive, via Wikimedia Commons" license="CC BY-SA 2.0">
-
+<br><br>
 His sister Marie’s deteriorating mental health had caused great concern for many years and she was eventually admitted to St Augustine’s Hospital at
 Chartham, near [Canterbury](/canterbury/20c-canterbury-home), in 1901 after being certified insane.  She would die there in 1913.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/33/St._Augustines_Hospital_-_geograph.org.uk_-_1806075.jpg" label="St Augustine's Hospital, Chartham" attribution="David Anstiss" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Westgate_Bay_-_geograph.org.uk_-_1931362.jpg" label="Westgate Bay" attribution="Oast House Archive, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Louis’ own behaviour, not thought to be anything more than harmless eccentricity, was nonetheless strange.  He would be seen dancing along the local 
 promenade followed more leisurely by his cats.  He would dance or run back to Adrian Square after journeys to London to see his publishers and he developed the peculiar habit of giving dancing demonstrations to his mother’s guests on the kitchen table.  Others would be visited by Louis at their own 
-homes and watch in incredulity as he took off his shoes to dance on their tables, often ignoring pleas to stop! 
-As his fame spread, so he would be interviewed by visiting journalists.  One from the _Daily Express_ 
-wrote that Louis was nothing like he expected him to be, describing Louis as ‘a quiet, rather sad-faced man with a singularly charming manner’. 
-The article went on to say: 'He loves cats and cats love him and he is often to be seen wandering about the beach at Westgate-On-Sea with his four cats 
-quietly walking behind him.  He is now busy preparing for the great ‘Cats meat dinner’ at which he will take the chair.'
+homes and watch in incredulity as he took off his shoes to dance on their tables, often ignoring pleas to stop! As his fame spread, so he would be interviewed by visiting journalists.  One from the _Daily Express_ wrote that Louis was nothing like he expected him to be, describing Louis as ‘a quiet, rather sad-faced man with a singularly charming manner’. The article went on to say: 'He loves cats and cats love him and he is often to be seen wandering about the beach at Westgate-On-Sea with his four cats quietly walking behind him.  He is now busy preparing for the great ‘Cats meat dinner’ at which he will take the chair.'
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ec/L._Wain%27s_kaleidoscope_cat_II.jpg" label="Kaleidoscope Cat, 1910s" attribution="Louis Wain, Public domain, via Wikimedia Commons">
 
 Louis should have been rich - the more so after travelling to America in 1910 to talk about his art, give lectures on cats and, for a time, working on the _New York Journal_.  He had no business acumen, publishers plagiarised his work, royalties were few and far between and after his mother died in 1910, life generally became more difficult.  Louis and his surviving sisters began to pay their bills with paintings to a point where few households of note in the town were without a Louis Wain in the lounge. They endured more disappointment and embarrassment in Westgate until late 1917 when enemy activity and clamouring creditors finally proved too much, prompting a move back to Kilburn in north London.
