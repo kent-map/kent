@@ -33,7 +33,7 @@ Painter of fairies, the supernatural, and Oriental scenes.
 William Dyce (1806-1864) took his young family on holiday to Ramsgate in 1858, and painted Pegwell Bay - a Recollection of October 5th 1858.
 
 ##
-**[Elizabeth Gould](19c-gould-biography)**
+**[Elizabeth Gould](/19c/19c-gould-biography)**
 
 - author: Carina Chan
 
@@ -42,7 +42,16 @@ William Dyce (1806-1864) took his young family on holiday to Ramsgate in 1858, a
 Gould, who was born in Ramsgate, contributed invaluably to the world of ornithological illustration. 
 
 ##
-**[Dante Gabriel Rossetti](19c-rossetti-biography)**
+**[Donald Maxwell](/20c/20c-maxwelld-biography/)**
+
+- author: Professor Peter Vujakovic
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/45/%27Our_fathers_have_told_us%27_%2C_HMS_%27Actaeon%27%2C_1918_RMG_PU6219.jpg)
+
+Maxwell used his writing and illustration to infuse the industrial and everyday with a sense of the exotic or the magical. 
+
+##
+**[Dante Gabriel Rossetti](/19c/19c-rossetti-biography)**
 
 - author: Laura Allen
 
@@ -51,7 +60,7 @@ Gould, who was born in Ramsgate, contributed invaluably to the world of ornithol
 Painter, and illustrator of the Pre-Raphaelite movement.
 
 ##
-**[Edward Linley Sambourne](/19cc/19c-sambourne-biography)**
+**[Edward Linley Sambourne](/19c/19c-sambourne-biography)**
 
 - author: Michelle Crowther
 
