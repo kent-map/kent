@@ -46,7 +46,7 @@ Gould, who was born in Ramsgate, contributed invaluably to the world of ornithol
 
 - author: Laura Allen
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09022d7a-17ba-48e8-8429-10f7fcbb6a46)
 
 Painter, and illustrator of the Pre-Raphaelite movement.
 
@@ -55,7 +55,7 @@ Painter, and illustrator of the Pre-Raphaelite movement.
 
 - author: Michelle Crowther
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8)
 
 Satirical cartoonist for _Punch_ magazine.
 
