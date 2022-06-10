@@ -6,6 +6,15 @@
 # {.cards}
 
 ##
+**[Alfred Cohen](/20c/20c-cohen-biography)**
+
+- author: Christiana Payne
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+
+The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'
+
+##
 **[William Dyce](/19cc/19c-dyce-biography)**
 
 - author: Christiana Payne
