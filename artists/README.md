@@ -15,6 +15,13 @@
 The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'
 
 ##
+**[Richard Dadd](/19c/19c-dadd-biography)**
+
+- author: Melissa Campbell-Oulton
+
+Painter of fairies, the supernatural, and Oriental scenes.
+
+##
 **[William Dyce](/19cc/19c-dyce-biography)**
 
 - author: Christiana Payne
