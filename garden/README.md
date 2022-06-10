@@ -24,6 +24,15 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 Inventor of Organic Farming.
 
 ##
+**[John Tradescant](/17c/17c-john-tradescant-younger/)**
+
+- author: Dominique Gracia and Hannah Jennison
+
+
+
+Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
+
+##
 **[Hop and Fruit Picking in the 20th century](/20c/20c-encounters-with-others/)**
 
 - author: Professor Peter Vujakovic
