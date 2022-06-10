@@ -157,6 +157,13 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth.
 
 ##
+[**Artists and Illustrators**](/artists)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301)
+
+Painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
+
+##
 [**The Built Environment**](/churches)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
