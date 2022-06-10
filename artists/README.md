@@ -8,18 +8,18 @@
 ##
 **[Alfred Cohen](/20c/20c-cohen-biography)**
 
-- author: Christiana Payne
+- author: Professor Max Saunders
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
-The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'
+It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
 ##
 **[Richard Dadd](/19c/19c-dadd-biography)**
 
 - author: Melissa Campbell-Oulton
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/be/Richard_Dadd_-_Fish_Market_by_the_Sea_-_Google_Art_Project.jpg)
 
 Painter of fairies, the supernatural, and Oriental scenes.
 
@@ -28,7 +28,7 @@ Painter of fairies, the supernatural, and Oriental scenes.
 
 - author: Christiana Payne
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3b/William_Dyce_-_Pegwell_Bay%2C_Kent_-_a_Recollection_of_October_5th_1858_-_Google_Art_Project.jpg)
 
 The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'
 
