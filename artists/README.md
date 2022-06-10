@@ -55,7 +55,7 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 
 - author: Laura Allen
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f2/Dante_Gabriel_Rossetti_-_Mariana_%281868%29.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7b/Dante_Gabriel_Rossetti_005.jpg)
 
 Painter, and illustrator of the Pre-Raphaelite movement.
 
