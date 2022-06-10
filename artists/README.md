@@ -30,14 +30,16 @@ Painter of fairies, the supernatural, and Oriental scenes.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3b/William_Dyce_-_Pegwell_Bay%2C_Kent_-_a_Recollection_of_October_5th_1858_-_Google_Art_Project.jpg)
 
-The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'
+William Dyce (1806-1864) took his young family on holiday to Ramsgate in 1858, and painted Pegwell Bay - a Recollection of October 5th 1858.
 
 ##
 **[Elizabeth Gould](19c-gould-biography)**
 
 - author: Carina Chan
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Ptilonorynchus_maculatus_The_Birds_of_Australia_Vol_IV.jpg)
+
+Gould, who was born in Ramsgate, contributed invaluably to the world of ornithological illustration. 
 
 ##
 **[Dante Gabriel Rossetti](19c-rossetti-biography)**
@@ -49,20 +51,20 @@ The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'T
 Painter, and illustrator of the Pre-Raphaelite movement.
 
 ##
-**[Linley Sambourne](/19cc/19c-dyce-biography)**
+**[Edward Linley Sambourne](/19cc/19c-sambourne-biography)**
 
-- author: Christiana Payne
+- author: Michelle Crowther
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
 
-The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'
+Satirical cartoonist for _Punch_ magazine.
 
 ##
 **[Louis Wain](/19cc/19c-wain-biography)**
 
 - author: Nick Evans
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cc/Wain_cat_profile.jpg)
 
-The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'
+Famed for his anthropomorphic paintings of cats in amusing situations.
 
