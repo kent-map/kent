@@ -55,7 +55,7 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 
 - author: Laura Allen
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09022d7a-17ba-48e8-8429-10f7fcbb6a46)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f2/Dante_Gabriel_Rossetti_-_Mariana_%281868%29.jpg)
 
 Painter, and illustrator of the Pre-Raphaelite movement.
 
@@ -96,7 +96,7 @@ Writer and illustrator of the cartoon strip _Rupert Bear_ for the _Daily Express
 Mural inspired by the plants and literature of Canterbury.
 
 ##
-**[Louis Wain](/19cc/19c-wain-biography)**
+**[Louis Wain](/19c/19c-wain-biography)**
 
 - author: Nick Evans
 
