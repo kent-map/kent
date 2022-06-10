@@ -28,7 +28,7 @@ Inventor of Organic Farming.
 
 - author: Dominique Gracia and Hannah Jennison
 
-
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
 
