@@ -19,16 +19,34 @@ The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'T
 
 - author: Melissa Campbell-Oulton
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+
 Painter of fairies, the supernatural, and Oriental scenes.
 
 ##
-**[William Dyce](/19cc/19c-dyce-biography)**
+**[William Dyce](/19c/19c-dyce-biography)**
 
 - author: Christiana Payne
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
 
 The Battle of Britain Memorial at Capel-le-Ferne near Folkestone commemorates 'The Few'
+
+##
+**[Elizabeth Gould](19c-gould-biography)**
+
+- author: Carina Chan
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+
+##
+**[Dante Gabriel Rossetti](19c-rossetti-biography)**
+
+- author: Laura Allen
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/Bob-mem1.jpg)
+
+Painter, and illustrator of the Pre-Raphaelite movement.
 
 ##
 **[Linley Sambourne](/19cc/19c-dyce-biography)**
