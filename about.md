@@ -104,7 +104,7 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 ##
 [**Bethia Carter**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?rotation=90&url=https://stor.artstor.org/stor/c5f17152-59c7-49d7-b7ee-f9af280d84ff)
+![](https://iiif.juncture-digital.org/thumbnail?rotation=90&url=https://stor.artstor.org/stor/3ec7e0e2-6ec3-4851-ae2e-126902e13255)
 
 Bethia Carter is currently in her third year studying at Canterbury Christ Church University, for a BA (Hons) degree in English Language and Communication and French. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
 
@@ -135,6 +135,16 @@ Carla Danella has a BA from Wellesley College (in the US) and recently completed
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/duggan.jpg)
 
 Laurie Duggan was born in Melbourne and was involved in the poetry worlds of that city and Sydney through the 1970s and 80s. In 2006 he moved to England, living in Faversham, Kent until 2018 when he returned to Sydney.  His most recent books are Homer Street (Giramondo 2020), Selected Poems 1971-2017 (Shearsman 2018), No Particular Place To Go (Shearsman 2017).
+
+##
+[**Nick Evans**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/13729e93-a1e8-40aa-a707-31aa49bbb69d)
+
+Nick Evans has been a career journalist for more than 45 years, working mainly in the specialist arenas of public relations and internal communications.
+He grew up in Birchington during the 1960s and 1970s.  His first foray into journalism came in 1977 when he left school, aged 17, to become a trainee reporter with the Isle of Thanet Gazette in Margate.
+He has since worked for large corporations, public sector organisations, PR agencies and newspapers, in a range of writing, design and production roles.
+While resident in Whitstable for 34 years, Nick has long been interested in the county’s social evolution.  He has written several local books, most notably about the histories of Broadstairs, Birchington, Cliftonville and Westgate as well as the Dreamland amusement park in Margate.  Another of his recent works has explored the history of British petrol stations which will be followed in 2023 by a new book about popular classic cars.
 
 ##
 [**Michaael Goodrum**]()
@@ -273,6 +283,13 @@ Publications: Where the Sea meets the Land: Artists on the Coast in Nineteenth-c
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/MaddieP.JPG)
 
 Madeleine Pettit is a History student at the University of Leeds. While in the sixth form at The Simon Langton Grammar School for Boys, she did her EPQ on Belgian refugees in Folkestone during WW1, which sparked her interest in local history. Researching the project gave her a good grounding in undertaking research, which she has since transferred to her studies at Leeds.
+
+##
+[**Natalie Pietersen**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/bfe3a043-646e-4c72-97ec-8683a5b1713a)
+
+Natalie Pietersen is a creative writing student at Canterbury Christ Church University with a talent for illustration.
 
 ##
 [**Andrew Sargent**]()
