@@ -69,6 +69,33 @@ Painter, and illustrator of the Pre-Raphaelite movement.
 Satirical cartoonist for _Punch_ magazine.
 
 ##
+**[Marian Peck](/20c/20c-peck-biography)**
+
+- author: Charles Salmon
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
+
+Artist specialising in maps, calligraphy and miniatures.
+
+##
+**[Mary Tourtel](/20c/20c-tourtel-biography)**
+
+- author: Grace Conium
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/23/De_avonturen_van_Bruintje_Beer_-_Dertiende_serie_-_Omslag.jpg)
+
+Writer and illustrator of the cartoon strip _Rupert Bear_ for the _Daily Express_, Mary had a particular fondness and ability for capturing the likenesses of animals.
+
+##
+**[Traveller's Joy by Gloria Treseder](/21c/21c-travellers-joy/)**
+
+- author: Miroslava Karaskova
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fae476ff-29d2-4cf1-aa56-9bc77eebb358)
+
+Mural inspired by the plants and literature of Canterbury.
+
+##
 **[Louis Wain](/19cc/19c-wain-biography)**
 
 - author: Nick Evans
