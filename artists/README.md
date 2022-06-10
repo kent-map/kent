@@ -1,6 +1,6 @@
 <param ve-config 
        title="Artists and Illustrators"
-       banner="https://stor.artstor.org/stor/cc8a3415-e232-4db4-8a21-98b6d9539b2a"
+       banner="https://stor.artstor.org/stor/f0bec294-4bea-40c0-8161-a6c8c1f1cdde"
        layout="index">
 
 # {.cards}
