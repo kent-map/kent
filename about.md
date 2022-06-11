@@ -196,14 +196,14 @@ Katie Holdway is a PhD researcher in the Department of English at the University
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/43418490-dbc9-4018-aa51-9b11c4b623ad)
 
-Alyson Hunt is a recent PhD survivor and long-time research associate of the International Centre for Victorian Women Writers at Canterbury Christ Church University. Her research interests include Victorian crime fiction and denigrating Dickens in favour of his [*contentious point*] much more interesting contemporary, Wilkie Collins.
+Dr Alyson Hunt is a recent PhD survivor and long-time research associate of the International Centre for Victorian Women Writers at Canterbury Christ Church University. Her research interests include Victorian crime fiction and denigrating Dickens in favour of his [*contentious point*] much more interesting contemporary, Wilkie Collins.
     
 ##
 [**Mandy Jones**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Mandyjones1.jpg)
 
-Mandy Jones is a PhD researcher at CCCU. She spends her time telling anyone who’ll listen (and even those who won’t) that Victoria Holt is an important but neglected author who needs reclaiming as a neo-Victorian novelist. She is thrilled that this project is literally putting Victoria Holt on the map.
+Dr Mandy Jones has completed a PhD at CCCU entitled _Unjustly neglected: reclaiming Victoria Holt as a pioneer of Neo-Victorian fiction._ She spends her time telling anyone who’ll listen (and even those who won’t) that Victoria Holt is an important but neglected author who needs reclaiming as a neo-Victorian novelist. She is thrilled that this project is literally putting Victoria Holt on the map.
 
 ##
 [**Miroslava Karaskova**]()
@@ -217,7 +217,7 @@ Miroslava is an undergraduate student from Slovakia, studying combined honours H
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/helenakelly.JPG)
 
-Helena Kelly holds a doctorate from the University of Oxford but is currently an independent scholar, her most recent academic position being a stipendiary lectureship at Mansfield College, Oxford. She is the author of a number of academic pieces on eighteenth and nineteenth century literature and of a popular book, _Jane Austen, the Secret Radical_ (2016). Her work on Charles Dickens includes articles (published and forthcoming) in The Dickensian, Dickens Quarterly, and Notes and Queries and a biography, which is still a work in progress. She grew up in the Medway Towns.
+Dr Helena Kelly holds a doctorate from the University of Oxford but is currently an independent scholar, her most recent academic position being a stipendiary lectureship at Mansfield College, Oxford. She is the author of a number of academic pieces on eighteenth and nineteenth century literature and of a popular book, _Jane Austen, the Secret Radical_ (2016). Her work on Charles Dickens includes articles (published and forthcoming) in The Dickensian, Dickens Quarterly, and Notes and Queries and a biography, which is still a work in progress. She grew up in the Medway Towns.
 
 ##
 [**Martin Latham**]()
@@ -243,7 +243,7 @@ Fred is a retired civil servant and lives in Norfolk with his wife and their sma
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/petermerchant.JPG)
 
-Peter Merchant is Principal Lecturer in English at Canterbury Christ Church University, and the U.K. member of the _Journal of Juvenilia Studies_ Editorial Advisory Board. His most recent foray into local literary studies is “The Life of Betty Trask (1893–1983): Fiction, Fame, and Frome,” in the _Frome Society Year Book_ 23 (2020): 70–78.
+Dr Peter Merchant is Principal Lecturer in English at Canterbury Christ Church University, and the U.K. member of the _Journal of Juvenilia Studies_ Editorial Advisory Board. His most recent foray into local literary studies is “The Life of Betty Trask (1893–1983): Fiction, Fame, and Frome,” in the _Frome Society Year Book_ 23 (2020): 70–78.
 
 ##
 [**Ken Moffat**]()
@@ -259,7 +259,7 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/peterorford.JPG)
 
-Pete Orford is Course Director of the MA in Dickens Studies at the University of Buckingham. His most recent publication is The Mystery of Edwin Drood: Charles Dickens' unfinished novel and our endless attempts to end it for Pen & Sword, and further details of Drood and its legion of solutions can be found on his website www.droodinquiry.com He is currently completing an edition of Pictures from Italy for the Oxford Dickens, writing a Dickens biography for the Blackwell Literary Lives series, and co-editing a volume of plays by Dickens for Edinburgh UP.
+Dr Pete Orford is Course Director of the MA in Dickens Studies at the University of Buckingham. His most recent publication is The Mystery of Edwin Drood: Charles Dickens' unfinished novel and our endless attempts to end it for Pen & Sword, and further details of Drood and its legion of solutions can be found on his website www.droodinquiry.com He is currently completing an edition of Pictures from Italy for the Oxford Dickens, writing a Dickens biography for the Blackwell Literary Lives series, and co-editing a volume of plays by Dickens for Edinburgh UP.
 
 ##
 [**Jeremy Page**]()
@@ -305,7 +305,7 @@ Andrew Sargent has written about Deal for many years. He is the author of "Drink
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maxsaunders.jpg)
 
-Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of _Ford Madox Ford: A Dual Life_ (2 vols, 1996; paperback 2012); _Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature_ (2010); and _Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series,_ 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020).
+Professor Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of _Ford Madox Ford: A Dual Life_ (2 vols, 1996; paperback 2012); _Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature_ (2010); and _Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series,_ 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020).
 
     
 ##
@@ -315,7 +315,7 @@ Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/jstamp.jpg)
 
-Jacquie Stamp is in the final stages of a PhD in English Literature at Canterbury Christ Church University, where her research focuses on representations and perceptions of the Arctic in the Long-Nineteenth-Century. Having gained an MA in Dickens and Victorian Culture at the University of Kent in 2016, she maintains an active interest in all things Dickensian as well as in the history and condition of her adopted county. In the summer months, however, she can often be found dancing either Cotswold or Molly Style Morris at a variety of locations around the UK – and beyond.    
+Dr Jacquie Stamp has completed a PhD in English Literature at Canterbury Christ Church University, where her research focuses on representations and perceptions of the Arctic in the Long-Nineteenth-Century. Having gained an MA in Dickens and Victorian Culture at the University of Kent in 2016, she maintains an active interest in all things Dickensian as well as in the history and condition of her adopted county. In the summer months, however, she can often be found dancing either Cotswold or Molly Style Morris at a variety of locations around the UK – and beyond.    
     
 ##
 [**Marnie Stanley**]()
@@ -338,7 +338,7 @@ Dr Christian Taylor is Head of English at the Langton Grammar School for Boys, C
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/petervujakovic.jpg)
 
-Peter is Emeritus Professor of Geography at Canterbury Christ Church University. His research and publications cover cultural aspects of maps and mapping; landscape, heritage and ‘sense of place’; and landscape ecology (biogeography). For much of the last two decades he has lived close to the River Stour (near Wye) from where he has explored the world of Riddley Walker. He has also co-ordinated/written two series of popular articles on Kent’s landscape for Kent Life and is editor of the [Christ Church Heritage A to Z.](https://medium.com/the-christ-church-heritage-a-to-z)
+Professor Peter Vujakovic is Emeritus Professor of Geography at Canterbury Christ Church University. His research and publications cover cultural aspects of maps and mapping; landscape, heritage and ‘sense of place’; and landscape ecology (biogeography). For much of the last two decades he has lived close to the River Stour (near Wye) from where he has explored the world of Riddley Walker. He has also co-ordinated/written two series of popular articles on Kent’s landscape for Kent Life and is editor of the [Christ Church Heritage A to Z.](https://medium.com/the-christ-church-heritage-a-to-z)
 
 ##
 [**Elizabeth Waterman-Scrase**]()
@@ -356,21 +356,21 @@ Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. S
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b84e8e80-b9c9-42c1-9d0c-c215df81f997)
 
-Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History at Canterbury Christ Church University. His research interests include the industrial revolution, welfare and the state, the two world wars and naval history. Martin has written courses covering the effect of the industrial revolution and the world wars upon society in Kent, with an emphasis on the strategic importance of the county to the defence of the United Kingdom.
+Dr Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History at Canterbury Christ Church University. His research interests include the industrial revolution, welfare and the state, the two world wars and naval history. Martin has written courses covering the effect of the industrial revolution and the world wars upon society in Kent, with an emphasis on the strategic importance of the county to the defence of the United Kingdom.
 
 ##
 [**Beth Whalley**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/whalley.jpg)
 
-Beth Whalley received a PhD from King’s College London in 2020, and has recently undertaken a Postdoctoral Fellowship at Freie Universität Berlin. Her research focuses on early medieval literature and its contemporary reimaginings, and she is especially interested in literary engagements with place, space and the environment. She has articles forthcoming in Yearbook of English Studies and in edited collections on medieval ‘lost objects’ and the Chapel of St-Peter-on-the-Wall in Essex..
+Dr Beth Whalley received a PhD from King’s College London in 2020, and has recently undertaken a Postdoctoral Fellowship at Freie Universität Berlin. Her research focuses on early medieval literature and its contemporary reimaginings, and she is especially interested in literary engagements with place, space and the environment. She has articles forthcoming in Yearbook of English Studies and in edited collections on medieval ‘lost objects’ and the Chapel of St-Peter-on-the-Wall in Essex..
 
 ##
-[**Dr Simon Wilson**]()
+[**Simon Wilson**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6336dfc2-5df4-4b6d-af0f-4fb4f23bf9c7)
 
-Simon Wilson is a Senior Lecturer in the Faculty of Arts, Humanities and Education at Canterbury Christ Church University, and an elected member of the Institute for Orthodox Christian Studies in Cambridge. He has a special interest in landscape, co-creation, love of learning, and the theology of the Orthodox Church. His latest publication is “The Fierce Urgency of Now and Forever and unto Ages of Ages: Study and the Restoration of Paradise on Earth”, International Journal of Sustainability in Higher Education, vol. 23 no. 1 (2022), pp. 29-40. 
+Dr Simon Wilson is a Senior Lecturer in the Faculty of Arts, Humanities and Education at Canterbury Christ Church University, and an elected member of the Institute for Orthodox Christian Studies in Cambridge. He has a special interest in landscape, co-creation, love of learning, and the theology of the Orthodox Church. His latest publication is “The Fierce Urgency of Now and Forever and unto Ages of Ages: Study and the Restoration of Paradise on Earth”, International Journal of Sustainability in Higher Education, vol. 23 no. 1 (2022), pp. 29-40. 
 
 ##
 [**Charlie Worthington**]()
@@ -397,7 +397,7 @@ Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from C
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ac5eca54-0b25-4120-b9fb-4dd9258afc7b)
 
-Dominique Gracia is a Project Manager with the Oxford Faculty of English and UK Administrative Director of the Collaborative Organization for Virtual Education. Her research focuses on Victorian poetry and short fiction, ekphrasis and the relationships between media, and the reuse and recurrence of the Victorian in twenty-first-century television.
+Dr Dominique Gracia is a Project Manager with the Oxford Faculty of English and UK Administrative Director of the Collaborative Organization for Virtual Education. Her research focuses on Victorian poetry and short fiction, ekphrasis and the relationships between media, and the reuse and recurrence of the Victorian in twenty-first-century television.
 
 ##
 [**Logan Miller**]()
