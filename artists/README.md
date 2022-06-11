@@ -26,7 +26,7 @@ Painter of fairies, the supernatural, and Oriental scenes.
 ##
 **[William Dyce](/19c/19c-dyce-biography)**
 
-- author: Christiana Payne
+- author: Professor Christiana Payne
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3b/William_Dyce_-_Pegwell_Bay%2C_Kent_-_a_Recollection_of_October_5th_1858_-_Google_Art_Project.jpg)
 
