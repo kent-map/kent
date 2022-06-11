@@ -35,7 +35,7 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1da3cc93-932d-4422-b389-9af7e562dd10)
 
-Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
+Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
 
 ##
 [**Michelle Crowther**]()
@@ -60,7 +60,7 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran%20Allfrey.jpeg)
 
-Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity, and the emotional, social, and political stakes of these remakings.
+Dr Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity, and the emotional, social, and political stakes of these remakings.
 
 ##
 [**Brooke Altringham**]()
@@ -74,7 +74,7 @@ Brooke Altringham is a history student with a passion for twentieth century hist
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/05320be6-9e97-4649-b095-d150533ae47a)
 
-Pat Argar has a PhD from Canterbury Christ Church University. Her research interests include the writing of Sheila Kaye-Smith, the family history of the Comport family and all things rural (especially with relation to Romney Marsh, where she lives). Before the Covid19 pandemic she regularly gave presentations and talks to groups and societies on local history and literature. She was born and grew up in East Sussex and spent most of her adult life as a teacher. Her pandemic “lockdown” diary can be found at [theruralwriterblog.wordpress.com](theruralwriterblog.wordpress.com)
+Dr Pat Argar has a PhD from Canterbury Christ Church University. Her research interests include the writing of Sheila Kaye-Smith, the family history of the Comport family and all things rural (especially with relation to Romney Marsh, where she lives). Before the Covid19 pandemic she regularly gave presentations and talks to groups and societies on local history and literature. She was born and grew up in East Sussex and spent most of her adult life as a teacher. Her pandemic “lockdown” diary can be found at [theruralwriterblog.wordpress.com](theruralwriterblog.wordpress.com)
 
 ##
 [**Sophie Baldock**]()
@@ -83,7 +83,7 @@ Pat Argar has a PhD from Canterbury Christ Church University. Her research inter
 
 ![](https://iiif.juncture-digital.org/thumbnail?rotation=180&url=https://raw.githubusercontent.com/kent-map/kent/main/images/sophiebaldock.jpg)
 
-Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive, one of the first hybrid (part-paper, part-digital) literary archives acquired by the Library. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). She grew up in Kent, and in the summer enjoys swimming in the sea along the east Kent coast.  
+Dr Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive, one of the first hybrid (part-paper, part-digital) literary archives acquired by the Library. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). She grew up in Kent, and in the summer enjoys swimming in the sea along the east Kent coast.  
 
 ##
 [**Alexa Barrett**]()
@@ -120,7 +120,7 @@ Carina is a 2nd year undergraduate Civil Engineering student at the University o
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/susancivale.jpg)
 
-Susan is Senior Lecturer in Romanticism at Canterbury Christ Church University.  Her research focuses on women’s writing of the long nineteenth century, life writing, and authorial and textual afterlives.  Her monograph, _Romantic Women's Life Writing: Reputation and Afterlife_ (Manchester University Press, 2019), explored how the publication of women’s ‘private’ lives, through diaries, auto/biographies, letters, and memoirs, influenced their literary afterlives.
+Dr Susan Civale is Senior Lecturer in Romanticism at Canterbury Christ Church University.  Her research focuses on women’s writing of the long nineteenth century, life writing, and authorial and textual afterlives.  Her monograph, _Romantic Women's Life Writing: Reputation and Afterlife_ (Manchester University Press, 2019), explored how the publication of women’s ‘private’ lives, through diaries, auto/biographies, letters, and memoirs, influenced their literary afterlives.
 
 ##
 [**Carla Danella**]()
@@ -151,7 +151,7 @@ While resident in Whitstable for 34 years, Nick has long been interested in the 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/goodrum.JPG)
 
-Michael Goodrum is a Senior Lecturer in Modern History at CCCU. His most recent book is Printing Terror (Manchester UP, 2021), co-authored with Philip Smith. His research interests include comics, superheroes, Cold War science fiction and horror, and the work of Capt. W.E. Johns.
+Dr Michael Goodrum is a Senior Lecturer in Modern History at CCCU. His most recent book is Printing Terror (Manchester UP, 2021), co-authored with Philip Smith. His research interests include comics, superheroes, Cold War science fiction and horror, and the work of Capt. W.E. Johns.
 
 ##
 [**Maggie Harris**]()
@@ -179,7 +179,7 @@ Debbie Hickman spent four years as Operations Manager for the Brogdale Horticult
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/dianahirst.jpg)
 
-Arriving in East Kent two days before her second birthday, Diana Hirst has been rooted in its landscape ever since. While in exile, first on London clay and subsequently on Suffolk clay, she has regularly returned to Deal. As a poet, much of her early work was about Kent, particularly its chalklands, and she was 2008 Deal and Dover Poet of the Year. Now at Canterbury Christ Church, she is writing a PhD on Elizabeth Bowen, a writer she’s been interested in since she first read Eva Trout in 1969 and discovered the heroine trampling over landscapes she had fondly imagined belonged to her alone. But this began to make sense when she discovered that Bowen, too, had put down roots in East Kent ...
+Arriving in East Kent two days before her second birthday, Diana Hirst has been rooted in its landscape ever since. While in exile, first on London clay and subsequently on Suffolk clay, she has regularly returned to Deal. As a poet, much of her early work was about Kent, particularly its chalklands, and she was 2008 Deal and Dover Poet of the Year. Now at Canterbury Christ Church, she has completed a PhD on Elizabeth Bowen, a writer she’s been interested in since she first read Eva Trout in 1969 and discovered the heroine trampling over landscapes she had fondly imagined belonged to her alone. But this began to make sense when she discovered that Bowen, too, had put down roots in East Kent ...
 
 ##
 [**Katie Holdway**]()
@@ -189,7 +189,7 @@ Arriving in East Kent two days before her second birthday, Diana Hirst has been 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/katieholdway.JPG)
 
-Katie Holdway is a PhD researcher in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, _Romance, Revolution & Reform_ and a member of the Dickens Society Communications Committee.
+Dr Katie Holdway is a Research Fellow in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, _Romance, Revolution & Reform_ and a member of the Dickens Society Communications Committee.
     
 ##
 [**Alyson Hunt**]()
