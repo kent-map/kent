@@ -34,6 +34,7 @@ At the turn of the century, Bertha studied Egyptian hieroglyphics at University 
 With the death of her mother in 1912, Bertha’s connections with Hythe ended. It is likely due to her studies and research that she spent little time in Kent, only visiting at weekends or for holidays. In all the censuses, until 1911, she was living in London, apart from 1891, when her whereabouts is unknown. It is possible that she is the Miss Porter who sailed on P.S. Rameses on the Cook's Nile service. The ship sailed from Cairo on January 21st 1890, travelling to Luxor and Assouan.[^ref19] During the first world war Bertha undertook war work, although the nature of this is not known. She later moved to Oxford where she took lodgings in the Banbury Road. She died on the 17th January, 1941 at 11, Crick Road. She was described as 'musical, widely read, a good raconteur, and full of imagination, courage and cheerfulness, even when at last her sight failed her and reading became impossible.'[^ref20] 
 <param ve-image url="https://stor.artstor.org/stor/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8" label="Marine Parade, Hythe with Moyle Tower c.1914" attribution="Kent Maps Online Postcard Collection">
 
+
 ### References
 
 [^ref1]:  "Obituaries." Times, 22 Jan. 1941, p. 7. [_The Times Digital Archive_,](link.gale.com/apps/doc/CS119355446/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=07417704). Accessed 2 Oct. 2021.

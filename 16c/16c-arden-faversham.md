@@ -49,4 +49,3 @@ Sturgess, Keith, _Three Elizabethan Domestic Tragedies,_ edited with an introduc
 Sullivan Jr., Garrett A., _Arden of Faversham and the Early Modern Household, in Early Modern English Drama – A Critical Companion,_ edited by Garrett A. Sullivan Jr., Patrick Cheney and Andrew Hadfield (Oxford; New York: Oxford University Press, 2006).   
 Valerie-Lucas, R. _Puritan Preaching and the Politics of the Family, in The Renaissance Englishwoman in Print – Counterbalancing the Canon,_ edited by Anne H. Haselkorn and Betty S. Travitsky (Amherst; Mass.; London: University of Massachusetts Press, 1990).   
 Wall, Wendy, _Staging Domesticity – Household Work and English Identity in Early Modern Drama_ (Cambridge; New York: Cambridge University Press, 2002, reprinted 2006).
-
