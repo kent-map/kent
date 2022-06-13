@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Vita Sackville-West (1892-1962)" author="Clare Nursey" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/db/Sissinghurst_Castle%2C_Biddenden_Road%2C_Sissinghurst%2C_Kent_-_geograph.org.uk_-_1387067.jpg" attribution="Oast House Archive / Sissinghurst Castle, Biddenden Road, Sissinghurst, Kent">
 <param ve-entity eid="Q1971996" aliases="Sissinghurst">
 <param ve-entity eid="Q1285144">
@@ -18,7 +18,7 @@ Follows the sunken sun afloat. - ‘Sissinghurst’, 1930.
 
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character. She was though a prolific and versatile writer herself - a celebrated poet (a candidate for the post of Poet Laureate in 1948) and author of fourteen novels, with those published in the 1930s proving both critically and commercially successful. Her poetry was unapologetically traditional in form, and her fiction too was largely traditional but with a distinctly poetic style.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Hon_Mrs_Nicholson_cropped.jpg" label="Hon Mrs Nicholson" attribution="George Grantham Bain Collection (Library of Congress)., Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Hon_Mrs_Nicholson_cropped.jpg" label="Hon Mrs Nicholson" attribution="George Grantham Bain Collection (Library of Congress), Public domain, via Wikimedia Commons">
 <param ve-map center="Q1971996" zoom="10">
 
 She was the only child of Lord and Lady Sackville-West, born at the family’s ancestral home, Knole in Sevenoaks. She had a fairly solitary childhood at Knole, and it was here that she developed her deep love of the Kent countryside, both for its natural beauty and the traditions it inspired. As a female she was not able to inherit Knole, and she considered this the great tragedy of her life, writing thirty years later that “Knole should have been mine, mine, mine. We were meant for each other”  . Her prize-winning poem The Land (seen as a riposte to [T S Eliot](/20/20c-eliot-biography)’s _The Wasteland_) is an homage to Knole, which provides the background to her most successful novel The Edwardians. Sackville-West’s passion for both the natural and built environment permeated her writing from the start, with an early novel (_The Heir_) being inspired by a visit to Groombridge Place, used as the Bennets’ home in the 2005 film of [Jane Austen](/19c/19c-austen-biography)’s _Pride and Prejudice_. 
@@ -41,7 +41,7 @@ Both Sissinghurst and Knole are now owned by the [National Trust.](https://www.n
 [Groombridge Place](www.groombridgeplace.com) is open to the public as a commercial attraction. 
 <br>
 <br> You can hear more about Vita Sackville-West on the Kent Maps Online YouTube channel: [Dr Sophie Baldock. “Out-of-date rubbishy”? Revisiting Vita Sackville-West’s “The Land”](https://youtu.be/8h-0Z0HY_kU)
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/05/Sissinghurst_castle.JPG" label="Sissinghurst Gardens" attribution="Klaus D. Peter, Wiehl, Germany, CC BY 2.0 DE <https://creativecommons.org/licenses/by/2.0/de/deed.en>, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/05/Sissinghurst_castle.JPG" label="Sissinghurst Gardens" attribution="Klaus D. Peter, Wiehl, Germany, via Wikimedia Commons" license="CC BY 2.0 DE">
 
 ### Bibliography:
 Nicolson, Nigel, ed. Vita and Harold. _The Letters of Vita Sackville-West and Harold Nicolson._ USA: G. P. Putnam’s Sons, 1992. Print.   
