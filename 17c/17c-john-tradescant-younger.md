@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config title="John Tradescant the Younger (1608 – 1662)" author="Dominique Gracia and Hannah Jennison" layout="vtl" banner="/images/banners/17c.jpg">
 
@@ -24,15 +24,13 @@
 <param ve-entity eid="Q217217" aliases="Lord Chancellor">
 <param ve-entity eid="Q335173" aliases="Earl of Clarendon">
 
-### Early life and education
-
+**Early life and education**   
 John Tradescant the Younger was born on 4 August 1608 in Meopham, Kent, at the home of his grandparents. The son of John Tradescant the Elder, also a botanist and gardener, and his wife, Elizabeth née Day, he was educated at The King’s School, Canterbury. Tradescant married Jane Hurte in February 1628 and they had two children: Frances (b. 1628) and John (b. 1633). His wife died fairly soon after their son was born, in 1635.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/46/John_Tradescant_the_Younger.jpg?20071209122527" label="John Tradescant the Younger, unknown artist, painted 1652" attribution="Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/57/John_Tradescant_the_elder.jpg?20190619065813" label="John Tradescant the Elder, attributed to Cornelis de Neve, 1638-1665" attribution="Public domain, via Wikimedia Commons">
 <param ve-map center="Q3133261" zoom="10">
 
-### Career
-
+**Career**   
 Tradescant followed his father into a career in gardening and botany, and the father-son pair worked closely together in managing the family home in Lambeth, Turret House, also called The Ark. Also known as filled the Museum Tradescantianum, it was filled with curiosities, including birds, fish, shells, insects, minerals, coins, medals and unusual plants, mostly collected by John Tradescant the Elder, but with a few contributions from the son. The author abbreviation Trad. is applied to species associated with either him or his father.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tradescant%27s_Ark.jpg/1600px-Tradescant%27s_Ark.jpg?20140331201243" label="The Ark, Lambeth, depicted in Thomas Allen’s _The History and Antiquities of the Parish of Lambeth, and the Archiepiscopal Palace, in the County of Surrey_ (1827)" attribution="Public domain, via Wikimedia Commons">
 <param ve-map center="51.47855067478189, -0.12226579754576553" zoom="10">
@@ -51,8 +49,7 @@ The Ark, where the Tradescants lived, was the first museum in Britain to be open
 In 1642, on the eve of the Civil War, Tradescant again travelled to Virginia for a short period, returning with further botanical samples. He continued his duties as gardener at Oatlands, likely until its sale for demolition in 1650, and around that same time considered selling the collection from The Ark. However, this did not come to pass. Tradescant returned to Virginia for a third and final time in 1653–4.
 <param ve-map center="Q1370" zoom="4">
 
-### Later career and death
-
+**Later career and death**
 Tradescant published the 183-page _Museum Tradescantianum_ catalogue in 1656, prompted (and funded) by Elias Ashmole. It was the first museum catalogue to appear in England, and much of it was written by either Ashmole or Thomas Wharton, a renowned physician and anatomist, and the text itself was dedicated to the President and Fellows of the Royal College of Physicians. It is likely that there had been discussions about the College establishing a physic garden, founded in part on the medicinal plants in the Tradescant collection, but this also never came to pass.
 <param ve-image url="https://thegardenstrustblog.files.wordpress.com/2020/04/screenshot-92.png" label="The title page of the _Museum Tradescantianum_ catalogue, featuring John Tradescant the Elder" attribution="Public domain, via The Garden’s Trust">
 

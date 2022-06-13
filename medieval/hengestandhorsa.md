@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config title="Hengest and Horsa" author="Francesca Allfrey and Beth Whalley" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg" attribution="Ron Strutt / Replica Viking ship Hugin">
 
@@ -15,7 +15,7 @@ _“Their first leaders are said to have been two brothers, Hengest and Horsa. H
 <param ve-map centre="Q3425604" zoom="15">                                             
 
 These lines from Bede’s _Ecclesiastical History of the English People_ (AD 731) represent the earliest surviving reference to the legendary brothers, Hengest (sometimes spelled Hengist) and Horsa. According to Bede, they led the so-called ‘adventus Saxonum’, when the first wave of Germanic settlers, invited by the British king Vortigern, arrived in Kent in the year 449 to help fight against the Picts. Most historians agree that his account is a simplified version of a complex period of movement and migration, designed to provide an origin story for the English people as Bede wanted to define them.
-<param ve-image url="https://stor.artstor.org/stor/ae074fc0-6b07-4cb0-b2a9-ca4ace42cc2e" label="The Hugin, replica Viking longship, Pegwell Bay" attributino="Michelle Crowther">
+<param ve-image url="https://stor.artstor.org/stor/ae074fc0-6b07-4cb0-b2a9-ca4ace42cc2e" label="The Hugin, replica Viking longship, Pegwell Bay" attribution="Michelle Crowther">
 <param ve-map centre="Q3425604" zoom="15">  
 
 The mid-sixth-century work of Gildas covers the same events as Bede, but makes no mention of Hengest or Horsa [^ref2]. But Bede’s account was influential: the 9th century pseudo-Nennius, the ‘Anglo-Saxon Chronicle’ (C9th-12th) [^ref3], and Geoffrey of Monmouth’s 12th-century _Historia regum Britannia_ [^ref4], among other texts, all repeated and remixed the story. The _Chronicle_ adds the detail that Horsa was slain at _Ægels-threp_ [Aylesford] in battle against Vortigern, but that Hengest became king of Kent.
@@ -40,7 +40,7 @@ These myths can inspire communities to think more deeply about local histories, 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6d/Kit%27s_Coty%2C_Kent.jpg" label="Kit's Coty" attribution="Tony Grist, Public domain, via Wikimedia Commons">
 
 Whether or not Hengest and Horsa ever existed, the fact remains that they are part of the folk myths of the area and are established characters in local and national stories of the past. There is even a replica ‘Viking’ ship on display in Pegwell Bay, the Hugin, which was installed to commemorate the 1500th anniversary of the landing of Hengest and Horsa. Remarkably, the [Encylopaedia Britannica](https://www.britannica.com/topic/Hengist) categorises the names under ‘Philosophy and Religion’ and ‘Ancient Religions and Mythology’, which goes to demonstrate how lines between truth and fiction, historical events and imagined, symbolic realities become blurred [^ref8].
-<param ve-image url="https://stor.artstor.org/stor/05d3fd9a-d78d-45b0-9baa-4eadde612f7a" label="The Hugin, Pegwell Bay" attribution"Michelle Crowther">
+<param ve-image url="https://stor.artstor.org/stor/05d3fd9a-d78d-45b0-9baa-4eadde612f7a" label="The Hugin, Pegwell Bay" attribution="Michelle Crowther">
 
 ### Works cited
 
