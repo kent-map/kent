@@ -1,4 +1,4 @@
-nt-maps.online/19c/19c-dyce-biography/
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config title="Joseph Conrad (1857-1924)" author="Martin Watts" layout="vtl" banner="https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20"> 
 
