@@ -1,6 +1,6 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="William Harvey (1578 – 1657)" author="Dominique Gracia and Arnav Sharma" layout="vtl" banner="/images/banners/17c.jpg">
+<param ve-config title="William Harvey (1578 – 1657)" author="Dr Dominique Gracia and Arnav Sharma" layout="vtl" banner="/images/banners/17c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q375314" aliases="Folkestone">
@@ -25,8 +25,7 @@
 <param ve-entity eid="Q3174344" aliases="Jean Riolan">
 <param ve-entity eid="Q17534618" aliases="Church of St Andrew">
 
-### Early Life and Education
-
+**Early Life and Education**   
 William Harvey was born in Folkestone, Kent on 1 April 1578, the eldest child of a farmer and carrier, Thomas Harvey and his second wife, Joan, née Halke. He had six brothers and three sisters, and his brothers were successful merchants and courtiers who provided him material assistance during his career.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Harvey-in-Folkestone.JPG" label="Statue of William Harvey in Folkestone" attribution="Immanuel Giel, via Wikimedia Commons" license="CC BY-SA 3.0">
 <param ve-map center="Q375314" zoom="10">
@@ -38,8 +37,7 @@ Harvey was educated at The King’s School, Canterbury and then at Gonville and 
 After completing his degree at Cambridge, Harvey studied medicine at the University of Padua in Italy, obtaining his MD degree in 1602. At Padua, he was tutored by the scientist and surgeon Hieronymus Fabricius (Girolamo Fabrizi of Acquapendente). Fabricius, who was fascinated by anatomy, recognised that veins in the human body had one-way valves, but was puzzled as to their function. Harvey would take the foundation of Fabricius's teaching and go on to find out what part the valves played in the circulation of blood through the body.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Girolamo_Fabrizi_d%27Acquapendente.jpg/1185px-Girolamo_Fabrizi_d%27Acquapendente.jpg" label="Girolamo Fabrizi d’Acquapendente (1537-1619)" attribution="Public domain, via Wikimedia Commons">
 
-### Medical Career
-
+**Medical Career**   
 Returning from Italy in 1602, Harvey established himself as a physician in London. He was not admitted to the Royal College of Physicians until 1604, having initially failed in his admission examinations. Having finally gained admission, in 1604 he married Elizabeth Browne, daughter of Lancelot Browne, one of the physicians to Elizabeth I and James I of England, at St Sepulchre’s.
 <param ve-map center=" Q26534074" zoom="13">
 
@@ -52,8 +50,7 @@ Harvey's research was furthered through the dissection of animals. He himself no
 In 1628, Harvey published his theories in a book entitled _Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus_ (_An Anatomical Study of the Motion of the Heart and of the Blood in Animals_), where he explained how the heart propelled the blood in a circular course through the body. As younger generations of doctors entered the College, an eventual consensus began to grow in favour of Harvey’s ideas, and other thinkers, such as René Descartes, began to accept his ideas, with Descartes using Harvey’s proposal for how circulation worked as an example in his _Discourse on Method_ (1637).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg?20070918183619" label="Portrait of René Descartes by Frans Hals, held in the Louvre Museum" attribution="Public domain, via Wikimedia Commons">
 
-### Later Career at Court and Death
-
+**Later Career at Court and Death**   
 As physician to King Charles I, Harvey played a significant role at Court in the 1630s. He attended the coronation, examined ‘witches’ (he and the other examiners found them ‘normal’), and travelled both with the King and with his ambassadors. One of these trips to Germany allowed him to provide a demonstration on the circulation of blood to one of his two principal opponents, Caspar Hofmann, although Hofmann maintained that the doctrine of circulation had no medical use.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Caspar_Hofmann._Line_engraving._Wellcome_V0002831.jpg/985px-Caspar_Hofmann._Line_engraving._Wellcome_V0002831.jpg" label="Line engraving of Caspar Hofmann" attribution="Wellcome Trust, CY-BY-4.0, via Wikimedia Commons">
 
