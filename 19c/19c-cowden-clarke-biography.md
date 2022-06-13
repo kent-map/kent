@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
 <param ve-config title="Mary Cowden Clarke" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
@@ -16,7 +17,7 @@ Mary Cowden Clarke (née Novello) (1809-1898), author and Shakespeare scholar, w
 Mary’s first visit to Kent was during her childhood, when her parents decided to take their young family on the [Margate](/19c/19c-margate) Hoy. 
 <br><br>
 'As the steamer left the London Docks, I heard a man in a wherry bawl out jeeringly, - “I say! bile up yere kettle!” We had made some way down the river when a portion of the machinery broke, and there was much confusion and alarm on deck among the passengers. My dear mother bade me hide my head in her lap and remain still. I did so, and she praised me for my quiet and obedience. The vessel managed to reach the shore; we disembarked; and I remember my father carrying the then baby in his arms while we all walked across the fields towards Milton or Sittingbourne, at one of which places, on the Kentish High Road, we had to stay till next day, when we could proceed on our journey by the stage-coach.'[^ref2]
-<param ve-image url="https://commons.wikimedia.org/wiki/File:Scene_aboard_a_Margate_hoy.jpg" label="A Scene on board a Margate Hoy as described by Dibden, 1804" attribution="National Maritime Museum, Greenwich">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/46/Scene_aboard_a_Margate_hoy.jpg" label="A Scene on board a Margate Hoy as described by Dibden, 1804" attribution="Published by John Fairburn, National Maritime Museum, Greenwich, Public domain, via Wikimedia Commons">
 <param ve-map center="Q686094" zoom="15">
 
 Another trip to Kent (this time en route to Boulogne), was also mired with mishap: 
@@ -28,7 +29,7 @@ Another trip to Kent (this time en route to Boulogne), was also mired with misha
 However, not all Mary’s recollections of Kent are tinged by transport delays and disasters. A holiday at a farmhouse near Tonbridge was recalled fondly:
 <br><br>
 'Delightful were those early mornings when I was despatched to another farm about half a mile off, that I might drink new milk from the cow, after a walk through green lanes before breakfast. In those matutinal walks I was invariably accompanied by a kitten, who had taken a fancy to me, or perhaps knew that she was to have a saucer of milk given to her when we arrived ... Nutting and blackberrying for hours of an afternoon were delights to me. Glorious were those baking days, when feasts of new-made bread, a Kentish delicacy called ‘huffkins’ – a sort of muffin plentifully buttered and eaten hot, - and a superb pork pie, containing alternate layers of potato, sage and dairy-fed pork formed the delicious periodically-appointed cates.’[^ref4]
-<param ve-image url="https://commons.wikimedia.org/wiki/File:%27Blackberries%27_by_John_F._Francis.jpg" label="Blackberries" attribution="John F. Francis, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/43/%27Blackberries%27_by_John_F._Francis.jpg" label="Blackberries" attribution="John F. Francis, Public domain, via Wikimedia Commons">
 <param ve-map center="Q665489" zoom="10">
 
 Mary married childhood friend Charles Cowden Clarke, who was also a Shakespearian scholar. Charles, whose father had taught [John Keats](/19c-keats-margate/), spent some of his youth in Kent after his father's retirement. Charles recalled bumping into Samuel Taylor Coleridge on the East Cliff at [Ramsgate](https://kent-maps.online/19c/19c-ramsgate/), who for an hour and a half 'gave utterance to some of the grandest thoughts [Clarke] ever heard from the mouth of man'.[^ref5] 
