@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
 <param ve-config title="John Brent (1808-1882)" author="Professor Carolyn Oulton" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
@@ -8,7 +9,7 @@ banner="/images/banners/19c.jpg">
 
 _‘The privilege of electing a mayor seems to have been somewhat tardily conceded to a city so important as Canterbury.’_   
 _Canterbury in the Olden Time_ (1860)
-<param ve-image url="https://stor.artstor.org/stor/bd59ff4f-a8f7-4728-95f7-cacbfafb3e00" label="The Westgate, Canterbury">
+<param ve-image url="https://stor.artstor.org/stor/bd59ff4f-a8f7-4728-95f7-cacbfafb3e00" label="The Westgate, Canterbury" attribution="Kent Maps Online Postcard Collection">
 
 Author, poet, campaigner and antiquarian John Brent was born in Rotherhithe in 1808, to a shipbuilder and his wife Susannah. The latter was from Sturry, and the family moved back to [Canterbury](/19c/19c-canterbury) in around 1821. John’s father would become an Alderman and Chief Magistrate, and was Mayor at the time of a tragic incident in 1838, when a former inmate of Barming Asylum, calling himself William Courtenay, announced to a crowd in [Canterbury](/19c/19c-canterbury) that he was the risen Christ. Courtenay led a procession around Goodnestone, Newnham, Throwley, Selling and Sittingbourne, before shooting a constable who was advancing with a warrant for his arrest.  At Brent’s request, a detachment of troops was sent from [Dover](/19c/19c-dover)  and eight people (including Courtenay) were killed.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/The_parish_church%2C_Sturry%2C_Kent_-_geograph.org.uk_-_480705.jpg" label="The Parish Church, Sturry, Kent" attribution="David Mills" license="CC BY-SA 2.0">
@@ -23,7 +24,7 @@ and Guillemette La Delanasse (both published in 1840). In the same year he contr
 Brent became a fellow of the Society of Antiquaries in April 1853, and was a member of the British Archaeological Association and the Kent Archaeological Society. He is best remembered for his 1860 [Canterbury in the Olden Time](https://babel.hathitrust.org/cgi/pt?id=uc1.31175001958167&view=1up&seq=9).  A fan of that quintessential self-made man [Charles Dickens](/dickens), it is tempting to think that Brent was present at his public reading at the Fountain Hotel in [Canterbury](/19c/19c-canterbury) in 1861. What is certain is that like [Henry Adams](/19c/19c-gardiner-adams-biography), he would succumb to a fatal urge to address a poem to the great author. An otherwise accomplished poet, he marked Dickens’s death in lines that are not among his best, such as:
 [The hand which down the chords of feeling sent /
 Once sweetest music – now is stilled and cold]( https://books.google.co.uk/books?id=Ds8IAAAAQAAJ&pg=PA99&dq=%22Dickens%22+and+%22John+Brent%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjKrP-csNbwAhUPExQKHQhIDSQQ6AEwAHoECAAQAg#v=onepage&q=%22Dickens%22%20and%20%22John%20Brent%22&f=false).
-<param ve-image url="https://stor.artstor.org/stor/8170ce97-3fe7-4dac-b063-ff35b17faecb" label="Canterbury in the Olden Time">
+<param ve-image url="https://stor.artstor.org/stor/8170ce97-3fe7-4dac-b063-ff35b17faecb" label="Canterbury in the Olden Time" attribution="John Brent">
 <param ve-image url="https://stor.artstor.org/stor/3e7c4e22-8283-443a-8ae0-da685ef246bf" label="Illustration of enamelled brooches from Canterbury in the Olden Time" attribution="John Brent">
 
 Still, it must be confessed that many readers of [Edwin Drood](/edwin-drood-curated-walk) would sympathise with Brent’s mixed frustration and awe, at:
