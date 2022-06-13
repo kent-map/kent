@@ -6,11 +6,13 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q4690189" aliases="Hougham">
+<param ve-entity eid="Q811006" aliases="Battle of Britain Memorial">
 
 #
 
 The Battle of Britain Memorial is situated on top of the White Cliffs at Capel-le-Ferne, near Folkestone. Dedicated to [Churchill’s](/20c/20c-churchill-chartwell) Few, it occupies a special place in the hearts and minds of those who have visited the site. It commemorates the Battle of Britain which took place in the skies above London and the South East between 10 July – 31 October 1940.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Battle_of_Britain_Memorial.jpg" label="The Battle of Britain Memorial" attribution="User: (WT-shared) Travelmech at  wts wikivoyage, Public domain, via Wikimedia Commons">
+<param ve-image center="Q811006" zoom="15">
 
 The area around Capel-le-Ferne was of strategic significance during both world wars. RNAS (Royal Naval Air Station) Capel, which later became RAF Folkestone, was a First World War airship station operational from April 1915 until 1919. It had had three airship sheds and a large grass landing area.  Being close to Dover, it was an ideal location for patrolling the Channel. The airships spotted enemy u-boats and escorted shipping across the channel. During the Second World War, two 8-inch-high performance guns were positioned on top of the cliffs - one at Capel-le-Ferne and the other at Hougham. These provided anti-shipping defensive fire in the Channel and were successful in engaging enemy shipping targets at a maximum range of 17 miles.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/76/Observation_post.jpg" label="Observation Post, Hougham Battery" attribution="David Anstiss, via Wikimedia Commons" license="CC BY-SA 3.0">
