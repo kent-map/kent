@@ -37,7 +37,7 @@ In the autumn of 1587, Philip II of Spain had written to the Duke of Parma, the 
 <br><br>
 Six thousand Spanish infantry were sent by ship to increase Parma's fighting power so that a surprise attack could be launched from the Netherlands.[^ref6] A series of events in the English Channel, however, foiled the Spanish plans to "join hands" off Margate.[^ref7] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/The_track_of_the_Armada_around_Britain_and_Ireland_RMG_L8270.jpg" label"The track of the Armada around Britian and Ireland" attribution="Augustine Ryther, Public domain, via Wikimedia Commons">
-<param ve-map center="Q618045" zoom="10">
+<param ve-map center="Q618045" zoom="15">
 
 In the weeks leading up to the Spanish offensive, a series of beacons had been erected to act as a warning system along the southern coast. These were filled with tar and the first one lit as soon as the Spanish galleons were spotted off Cornwall; each town then played its part relaying the impending danger to London. Kent had a well-established system of beacons; and watches were arranged at Hoo, Sheppey, Graystones, Elmes, Dymchurch and Sandgate.[^ref8] As soon as the beacon was lit at Fairlight in Sussex, Kent would have received its warning.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/A_Map_of_the_Beacons_in_Kent_%28BM_1872%2C0113.1137%29.jpg" label="A Map of the Beacons in Kent (BM 1872,0113.1137)" attribution="British Museum, Public domain, via Wikimedia Commons">
