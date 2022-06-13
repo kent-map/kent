@@ -92,7 +92,7 @@ Then sing the Kentish river,
 The Kentish fields and flowers, 
 We waste no dreams on other streams 
 Who call the Medway ours. 
-<param ve-image url="https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c" label="The Medway at Tonbridge">
+<param ve-image url="https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c" label="The Medway at Tonbridge" attribution="Rapheal Tuck and Son's Postcard 7182 pre.1905">
 
 Long passages in _The Incredible Honeymoon_ (1921) and _Salome and the Head_ (1909) two of Nesbit’s novels for adults, describe the river’s beauty. In _Salome and the Head_, she wrote:  
 <br>
@@ -101,7 +101,7 @@ The Medway just above the Anchor (at Yalding, Kent) is a river of dreams. The gr
 <param ve-map center="51.22312394033697, 0.4188703306878291" zoom="15">
 
 Nesbit stayed in several of the pubs and inns that punctuated the river- bank. The real Anchor, which has been renamed the Boathouse, is a quaint fourteenth-century pub that stands just across the river from the medieval Twyford Bridge and weir. In _The Englishman’s Country_ (1945), poet and nature writer Walter James Turner described the Anchor as a ‘beautiful inn with its nooks and corners answering no particular scheme of architecture’. Its origin was as a bargeman’s inn, but it became ‘a favourite anchorage for anglers, who have miles of water, swift or slow to yield them sport’. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/YaldingTwyford0529.JPG" label="Twyford Bridge over the River Medway at Yalding" attribution="Clem Rutter, Rochester, Kent., CC BY-SA 3.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/YaldingTwyford0529.JPG" label="Twyford Bridge over the River Medway at Yalding" attribution="Clem Rutter, Rochester, Kent., via Wikimedia Commons" license=" CC BY-SA 3.0">
 <param ve-map center="Q17641439" zoom="16">
 
 In _Salome and the Head_, Nesbit wrote:  
@@ -130,7 +130,7 @@ But he walked up to Yalding and leaned on the bridge and looked down into the my
 In 1905 Edith sent a note to [H.G. Wells](/20c/20c-wellshg-biography), who was due to join them: ‘I can’t remember whether you were told that our inn at Yalding is the _George_ – it would be dreadful if you were to seek us vainly at the _Bull_ or the _Anchor_, she wrote.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg" label="H.G. Wells, c. 1890" attribution="Library of the London School of Economics and Political Science, No restrictions, via Wikimedia Commons">
 
-### Biblioography
+### Bibliography
 
 Nesbit, E. [_In Homespun_](https://www.gutenberg.org/files/4378/4378-h/4378-h.htm), 1896.    
 Nesbit, E. [_The Wouldbegoods_](https://www.gutenberg.org/ebooks/794), 1901, ch. 5. 
