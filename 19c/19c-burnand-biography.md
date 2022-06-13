@@ -17,10 +17,10 @@ Sir Francis Cowley Burnand (knighted in 1902) is best known as the editor of _Pu
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/84/Image_taken_from_page_81_of_%27The_Z.Z.G.%2C_or_Zig_Zag_Guide_round_and_about_the_bold_and_beautiful_Kentish_coast_..._Illustrated_by_Phil_May%27_%2811296786325%29.jpg" label="The ZZG or Zig Zag guide round and about the bold and beautiful Kentish Coast" attribution="Sir Francis Cowley Burnand, 1836-1917, The British Library, No restrictions, via Wikimedia Commons">
 
 In the _Z.Z.G._ Burnand includes a number of knowing jokes about [Ramsgate](/dickens/19c-ramsgate) as well as [Margate](/dickens/19c-margate), [Broadstairs](/dickens/broadstairs-19th-century) and Sandwich as if from the standpoint of an itinerant tourist. In fact by 1883 he had ‘made his house at Ramsgate’, travelling to London once or twice a week. The 1887 Street Directory locates a Frederick Charles Burnand at 18 Royal Crescent (where Burnand died in 1917); the 1911 census shows that while Francis’s fifth son Philip was born in Middlesex (now part of London) in 1869, his fourth daughter Mary was born in Ramsgate in 1875.  
-<param ve-image url="https://stor.artstor.org/stor/33ea5295-f1f5-4d3f-9724-352f18abcddf" label="Ramsgate Pavilion">
+<param ve-image url="https://stor.artstor.org/stor/33ea5295-f1f5-4d3f-9724-352f18abcddf" label="Ramsgate Pavilion" attribution="Kent Maps Online Postcard Collection">
 
 Burnand died of bronchitis on 21 April 1917, and is buried in the cemetery attached to St Augustine's Abbey church in [Ramsgate](/dickens/19c-ramsgate).
-<param ve-image url="https://stor.artstor.org/stor/39bd98f7-5bb3-4079-ad90-4c63abc93774" label="Burnand's grave">
+<param ve-image url="https://stor.artstor.org/stor/39bd98f7-5bb3-4079-ad90-4c63abc93774" label="Burnand's grave" attribution="Martin Crowther">
 
 
 ### Bibliography
