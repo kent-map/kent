@@ -5,9 +5,8 @@
 <param ve-entity eid="Q2204332">
 <param ve-entity eid="Q1547383" aliases="Groombridge Place">
 
-**Places** Sissinghurst, Knole, Long Barn, Groombridge Place
-<param ve-map center="Q1971996" zoom="10">
-
+**Places** Sissinghurst, Knole, Long Barn, Groombridge Place   
+<br>
 The autumn bonfire smokes across the woods   
 And reddens in the water of the moat;   
 As red within the water burns the scythe    
