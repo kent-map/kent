@@ -10,9 +10,7 @@
 <param ve-entity title="Sophia" eid="Q26921368">
 <param ve-entity title="Thomas Coutts" eid="Q7788650">
 <param ve-entity title="1837" eid="Q7608">
-<param ve-entity title="Princess Victoria" eid="Q9439" aliases="Princess Victoria|Queen Victoria">
 <param ve-entity title="Duke of Wellington" eid="Q131691">
-<param ve-entity title="Dickens" eid="Q5686" aliases="Dickens's">
 <param ve-entity title="Walmer Castle" eid="Q2543161">
 <param ve-entity title="London" eid="Q84">
 <param ve-entity title="Kent" eid="Q23298">
@@ -21,7 +19,6 @@
 <param ve-entity title="Broadstairs" eid="Q922739">
 <param ve-entity title="1847" eid="Q7644">
 <param ve-entity title="Sandgate" eid="Q1000312">
-<param ve-entity title="Hans Christian Andersen" eid="Q5673" aliases="Andersen">
 <param ve-entity title="Ramsgate" eid="Q736439">
 <param ve-entity title="Gad's Hill" eid="Q5516441">
 <param ve-entity title="1857" eid="Q7680">
@@ -30,7 +27,6 @@
 <param ve-entity title="Maidstone" eid="Q213180">
 <param ve-entity title="Rochester" eid="Q507517">
 <param ve-entity title="1850" eid="Q7653">
-<param ve-entity title="David Copperfield" eid="Q189811">
 <param ve-entity title="Fort House" eid="Q4925737">
 <param ve-entity title="Ramsgate" eid="Q736439">
 <param ve-entity title="Thanet" eid="Q1752642">
@@ -42,7 +38,7 @@
 <param ve-entity title="William Bartlett" eid="Q8006140" aliases="William Burdett-Coutts-Bartlett|Bartlett">
 <param ve-entity title="Canterbury" eid="Q29303">
 <param ve-entity title="Ashford" eid="Q725261">
-<param ve-entity title="Westminster Abbey" eid="Q5933">
+
 
 Angela Burdett was the daughter of Sir Francis Burdett and his wife Sophia (whose father was Thomas Coutts the banker). Angela’s accession to the fabulous Coutts fortune, as well as the family name, in 1837 led to her becoming one of the most admired as well as one of the most generous philanthropists of her time. It also coincided with the still more memorable coronation of another wealthy young woman, [Princess Victoria](/19c/19c-victoria-biography). Burdett-Coutts – or Miss Coutts, as she was often known – would become the intimate friend (although rejected suitor) of the considerably older Duke of Wellington, whom she visited on several occasions at Walmer Castle. For many years she also worked closely with [Dickens](/dickens) on his ‘home for homeless women’ in London.
 <param ve-image 
@@ -68,11 +64,7 @@ Burdett-Coutts would return to Kent in person in 1881 on her marriage to the 29 
 <param ve-map center="Q725261" zoom="10">
 
 In her lifetime Angela Burdett-Coutts ‘set a new standard in philanthropy: prompt and practical, her charity was given with style and without condescension.’[^ref6] On her death 5 years after [Queen Victoria](/19c/19c-victoria-biography), she was buried in Westminster Abbey, becoming once again a near neighbour of [Dickens](/dickens).
-<param ve-image 
-       label="Westminster Abbey" 
-       description="Image of Westminster Abbey" 
-       license="Creative Commons Attribution-Share Alike 3.0 Unported" 
-       url="https://upload.wikimedia.org/wikipedia/commons/2/2c/Westminster_Abbey._City_of_Westminster.jpg">
+
 
 
 # Bibliography
