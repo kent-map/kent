@@ -8,7 +8,6 @@
 
 Charlotte Carmichael was born in Edinburgh and attended Mr Oliphant’s mixed school. Frustrated by the exclusion of women from universities, she joined the Ladies' Edinburgh Debating Society in 1866 and submitted poems and articles to _The Attempt_ magazine under the pen name “lutea reseda” (wild mignonette). When university classes were offered to women in 1874, Charlotte began to attend lectures and became the first woman to gain a Certificate in Arts from the University of Edinburgh.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wild_Mignonette._Reseda_lutea_%2834976002624%29.jpg" label="Wild Mignonette, Reseda lutea" attribution="gailhampshire from Cradley, Malvern, U.K, CC BY 2.0, via Wikimedia Commons">
-<param ve-map center="Q1083051" zoom="15">
 
 In 1879 she married Henry Stopes, a keen palaeontologist and moved to Upper Norwood, but bankruptcy in 1892 forced them to sell their home and she returned to Edinburgh in the hopes of attaining a masters. Her plans were thwarted by a timetable clash and she returned to London leaving her daughters, Marie and Winifred at school in Edinburgh whilst she pursued her passion for Shakespearean research. She had already refuted the claim that Francis Bacon was the author of Shakespeare’s plays in 1888 and she was to write at least a further nine publications on Shakespeare’s life and works.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Somer_Francis_Bacon.jpg" label="Francis Bacon" attribution="Paul van Somer I, Public domain, via Wikimedia Commons">
