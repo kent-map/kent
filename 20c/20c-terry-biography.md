@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
 <param ve-config title="Dame (Alice) Ellen Terry (27 February 1847 – 21 July 1928)" author="Carla Danella" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dame_%28Alice%29_Ellen_Terry_%28%27Choosing%27%29_by_George_Frederic_Watts.jpg">
 
 <param ve-entity eid="Q7543679" aliases="Smallhythe Place">
