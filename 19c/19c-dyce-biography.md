@@ -19,7 +19,7 @@
 William Dyce (1806-1864) took his young family on holiday to [Ramsgate](/19c/19c-ramsgate) in 1858, probably from mid-September until the end of October. London, where he was working on wall paintings in the Houses of Parliament, was not good for his health. As soon as the weather became too cold and damp for fresco painting, he set off in search of sea or country air. His wife Jane must have been in need of a holiday too. They had married in 1850, when she was nineteen and William was forty-three, and she had produced four children in quick succession between 1851 and 1855.
 <param ve-image
     fit="contain"
-    title="Photograph of William Dyce" 
+    label="Photograph of William Dyce" 
     description="by John Watkins in albumen carte-de-visite, 1860-1864" 
     attribution="National Portrait Gallery (https://www.npg.org.uk/collections/search/portrait/mw111900/William-Dyce?)"
     license="CC BY-NC-ND 3.0"
@@ -29,7 +29,7 @@ On this holiday, they were joined by Jane’s sisters, <span data-mouseover-imag
 sky behind them.
 <param ve-image
     fit="contain" 
-    title="Pegwell Bay, Kent - a Recollection of October 5th 1858" 
+    label="Pegwell Bay, Kent - a Recollection of October 5th 1858" 
     description="oil painting by William Dyce, 1858"
     license="CC BY-NC-ND 3.0" 
     attribution="Tate (https://www.tate.org.uk/art/artworks/dyce-pegwell-bay-kent-a-recollection-of-october-5th-1858-n01407)"
