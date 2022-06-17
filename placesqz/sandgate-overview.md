@@ -20,7 +20,7 @@ Fanny Burney (1752–1840) visited the town in 1813 and “avoided going to the 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/60/Frances_d%27Arblay_%28%27Fanny_Burney%27%29_by_Edward_Francisco_Burney.jpg" label="Fanny Burney" attribution="Edward Francis Burney, Public domain, via Wikimedia Commons">
 
 [Sarah Grand](/19c/19c-grand-biography), writer, feminist campaigner and proponent of sex education for girls, lived happily at Sandate after her marriage to David Chambers McFall. McFall, an army surgeon, was stationed at Shorncliffe Barracks in the Spring of 1871. It was here that Sarah "concentrated on the host of new experiences in her life" and gave birth to her only son on the 7 October 1871.[^ref4]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Sarah_Grand_profile.jpg" label="Sarah Grand by Hayman Seleg Mendelssohn, attribution="Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Sarah_Grand_profile.jpg" label="Sarah Grand by Hayman Seleg Mendelssohn" attribution="Public domain, via Wikimedia Commons">
 
 The journalist and author, [George Augustus Sala](/19c/19c-sala-biography) visited Kent in September 1886 and was particularly taken with Sandgate, he wrote: “My favourite excursion by fly is to Sandgate, because there I found a pretty, smiling, friendly hotel called the “Royal Kent” with a green garden, stretching down to the sea. The “Nobs” had discovered the prettiness and geniality of the “Royal Kent” and had taken possession of it so that I could not obtain rooms there, but I shall call occasionally to take tea in the garden and contemplate the upper classes from a respectable distance.”[^ref5]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/GeorgeAugustusSala1828-1895.jpg" label="George Augustus Sala" attribution="Allister, via Wikimedia Commons" license="CC BY 2.0">
@@ -35,7 +35,7 @@ In 1888, Evelyn Underhill (1875-1941) was a pupil at Sandgate House boarding sch
 The antiquarian and writer, Wilfred Cripps (1841-1903), regularly visited Farleigh House throughout the 1870s-1890s. He was known for his writing on antique silver plate. 
 <br><br>
 [Edith Katherine Spicer Jay]( https://kent-maps.online/19c/19c-spicer-jay-biography/) moved to the south coast for the climate in the 1890s and was inspired by the soldiers at Shorncliffe Barracks to write tales of military life. [Florence Warden]( https://kent-maps.online/19c/19c-florence-warden-biography/) former actress turned writer spent some time here at the same period.  
-<param ve-image url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" label="1st Royal Scots Regt. at the Shorncliffe Barracks"> 
+<param ve-image url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" label="1st Royal Scots Regt. at the Shorncliffe Barracks" attribution="Kent Maps Online Postcard Collection"> 
 
 Not long after this, [H.G. Wells](https://kent-maps.online/20c/20c-wellshg-biography/ ) moved to Beach Cottage  on the advice of his doctors, then later Arnold House, before commissioning his own house near the Riviera. He entertained many of the leading writers of the day here, including George Bernard Shaw, Henry James, Arnold Bennett, and [Joseph Conrad]( https://kent-maps.online/19c/19c-conrad-biography/).[^ref9]  His novel _The Sea Lady_ is set in Sandgate.
 <param ve-image url="/images/spade%20MJC.jpg" label="Spade House" attribution="Photographed by Martin Crowther">

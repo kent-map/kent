@@ -1,4 +1,5 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
 <param ve-config title="Henry Gardiner Adams (1812-1881)" author="Professor Carolyn Oulton" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
@@ -21,7 +22,7 @@ H. G. Adams. Sonnet to Tennyson
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Francis_Wheatley_-_The_Medway_at_Rochester_-_Google_Art_Project.jpg" label="The Medway at Rochester" attribution="Francis Wheatley, 1776, Yale Center for British Art, Public domain, via Wikimedia Commons">
 
 Henry Gardiner Adams was born in [Deal](/seascape/deal) and must have left school by 1826, when he was apprenticed to a [Canterbury](/19c/19c-canterbury) firm of chemists at the age of 14. He appears as a stationer in local directories in 1832 [^ref1] (not necessarily an unusual combination at the time) and married in 1842. An ambitious, self-made man, his literary work includes _The Ocean Queen, and Other Poems_ (1836) and the 1854 _God’s Image in Ebony_, an edited anthology which ‘aims at disabusing a certain portion of the public mind of what we conceive to be a pernicious error, by shewing that the Negro is morally and intellectually, as well as physically, the equal of the white man.’ [^ref2] 
-<param ve-image url="https://stor.artstor.org/stor/be26a7b9-01e8-423d-9934-50efe93590d3" label="Canterbury High Street">
+<param ve-image url="https://stor.artstor.org/stor/be26a7b9-01e8-423d-9934-50efe93590d3" label="Canterbury High Street" attribution="Kent Maps Online Postcard Collection">
 <param ve-map center="Q29303" zoom="15">
 
 By 1839 he was living in Chatham, and his poetry was appearing regularly in the _Maidstone Journal and Kentish Advertiser_.[^ref3]  In 1840 he set about establishing a new periodical of his own, to be called the _Kentish Coronal_. The periodical idea seems to have been short-lived, although it resulted in the publication of an attractive, gilt-edged volume of the same name in 1841 (with a frontispiece by up and coming artist [Richard Dadd](/19c/19c-dadd-biography) ). More importantly, the scheme brought Adams into contact with local authors such as the [Canterbury](/19c/19c-canterbury) antiquarian and political campaigner [John Brent](/19c/19c-brent-biography); also more illustrious figures such as Tennyson (who was staying in Boxley at the time) and [Dickens](https://kent-maps.online/dickens/). Brent duly contributed two poems to the volume. While Tennyson was pleased enough by ‘two friendly sonnets’[^ref4]  in the _Maidstone Journal_, and agreed to subscribe, he slightly ruined the effect by saying, ‘I hope the publication will not be a very expensive one, as I am poorer than a church mouse.’[^ref5] 

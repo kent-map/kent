@@ -13,7 +13,7 @@
 
 'A Kentish hop-garden, in the month of September, is one of the prettiest scenes to be witnessed in any part of the country.' 
 
-Thomas Frost, author of _In Kent With Charles Dickens_.
+[Thomas Frost](/19c/19c-frost-biography), author of _In Kent With Charles Dickens_.
 
 To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages were able to participate. Nonetheless, there was considerable variety in their experience. In East Kent hops were measured in 5 bushel baskets, taking up more or less space depending on how sharply the basket was jerked; in West Kent the hops were scooped out of bins and into the baskets, with the compression of each scoop determining the measure. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/Hop-Picking_in_Kent_by_Stephen_Thompson_1875.jpg" label="Hop-Picking in Kent by Stephen Thompson 1875" attribution="Stephen Thompson, Public domain, via Wikimedia Commons">

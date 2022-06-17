@@ -1,8 +1,9 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
 <param ve-config title="Dame (Alice) Ellen Terry (27 February 1847 – 21 July 1928)" author="Carla Danella" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dame_%28Alice%29_Ellen_Terry_%28%27Choosing%27%29_by_George_Frederic_Watts.jpg">
 
 <param ve-entity eid="Q7543679" aliases="Smallhythe Place">
-<param ve-entity eid="Q3486845" aliases="Small Hythe">
+<param ve-entity eid="Q3486845" aliases="Small Hythe|Smallhythe">
 <param ve-entity eid="Q614560" aliases="Tenterden">
 <param ve-entity eid="Q17556849" aliases="Priest’s House">
 <param ve-entity eid="Q639208" aliases="Bodiam Castle">
@@ -18,8 +19,8 @@ In 1900, she bought her last home, Smallhythe Place, a Tudor farmhouse in the Ke
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg" label="Smallhythe Place" attribution="Poliphilo, CC0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/37/The_Woolpack_Hotel%2C_Tenterden_-_geograph.org.uk_-_2123859.jpg" label="Tenterden" attribution="The Woolpack Hotel, Tenterden by Oast House Archive, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/95/Wealden_countryside_3194.JPG" label="Kentish countryside" attribution=" Photograph by Clem Rutter, Rochester, Kent. (www.clemrutter.net)., CC BY-SA 4.0, via Wikimedia Commons">
-<param ve-map center="Q7543679" zoom="10">
-<param ve-map center="Q614560" zoom="10">
+<param ve-map center="Q7543679" zoom="15">
+<param ve-map center="Q614560" zoom="15">
 
 Ellen Terry wrote of her new home: _‘It’s pretty rough at the Farmhouse! ‘The simple life’ indeed! But at least there’s a jolly big Bath there.’_ [^ref3]   
 She gifted the adjacent ‘Priest’s House’ to her daughter, Edith [‘Edy’ Craig](/20c/20c-craig-biography), who lived in it with her life partners – the writer [Christopher St John](/20c/20c-st-john-biography) (Christabel Marshall), and after 1916 with St John and the artist, Clare ‘Tony’ Atwood. 
