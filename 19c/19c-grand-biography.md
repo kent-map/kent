@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Sarah Grand 1854-1943" author=" Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/34/The_Common%2C_Tunbridge_Wells._%28NBY_438791%29.jpg">
 
 <param ve-entity eid="Q894097" aliases="Tunbridge Wells">
