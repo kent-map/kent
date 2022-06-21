@@ -1,5 +1,9 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="The Kentish Cinq Ports" author="Sheila Sweetinburgh" layout="vtl" banner="xxx">
 
+<param ve-entity eid="Q26163" aliases="Sandwich">
 
+#
 
 Canterbury has many fascinating medieval buildings. Among these are St Mildred’s church that contains great stones (see the south-west and south-east corners of the nave) which probably came from the Roman theatre, the church constructed in the early 11th century. Also cutting edge for its time (c. 1485) is the queen-strut roof with clasp-side purlins in the roof of the vestry. This can be viewed from outside the church (north-east corner) and looks somewhat like a set of football goalposts. 
 
