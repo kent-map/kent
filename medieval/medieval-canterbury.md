@@ -1,5 +1,6 @@
 
-Hidden medieval Canterbury
+
+
 Canterbury has many fascinating medieval buildings. Among these are St Mildred’s church that contains great stones (see the south-west and south-east corners of the nave) which probably came from the Roman theatre, the church constructed in the early 11th century. Also cutting edge for its time (c. 1485) is the queen-strut roof with clasp-side purlins in the roof of the vestry. This can be viewed from outside the church (north-east corner) and looks somewhat like a set of football goalposts. 
 
 Before the advent of chimneys, smoke from the fire in open halls would either go out through the rafters or through louvres in the roof. However, there was also another way and Canterbury boasts the rare survival of a smoke bay situated at the rear of the late medieval section of Pizza Express and visible from the courtyard. This meant the house did not need to have a detached kitchen, instead it was part of the main building.
