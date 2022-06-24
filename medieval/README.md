@@ -15,6 +15,11 @@
 Chaucer has become one of England’s most famous poets. He is best known for The Canterbury Tales, which he wrote in the last decade of his life. 
 
 ##
+**[Cinque Ports](cinque-ports)**
+
+- author: Dr Sheila Sweetinburgh
+
+##
 **[Hengest and Horsa](hengestandhorsa)**
 
 - author: Francesca Allfrey and Beth Whalley
