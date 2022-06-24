@@ -1,10 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="The Cinq Ports" author="Sheila Sweetinburgh" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Edward_the_Confessor_Ee.3.59_fol.7r_%28part1%29.jpg">
+<param ve-config title="The Cinq Ports" author="Sheila Sweetinburgh" layout="vtl" banner="xxx">
 
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q967166" aliases="Hythe">
-<param ve-entity eid="Q2602144" aliases="Romney">
 <param ve-entity eid="Q1639689" aliases="Lydd">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q2177468" aliases="Fordwich">
