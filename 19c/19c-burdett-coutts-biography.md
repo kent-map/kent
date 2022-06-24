@@ -35,6 +35,7 @@ Like [Dickens](/dickens), Burdett-Coutts clearly felt an affection for the seasc
 <param ve-map center="Q1752642" zoom="11">
 
 Burdett-Coutts would return to Kent in person in 1881 on her marriage to the 29 year old William Bartlett, who then became William Burdett-Coutts-Bartlett. The newspapers stuck closely to the more conventional aspects of this union, noting that the newly married pair went to Ashford Church, where the bride was ‘affable, and talked to everybody she met there. Late in the afternoon the Baroness and her husband left for [Canterbury](/19c/19c-canterbury)’ so that she could be closer to her medical attendant (‘Local intelligence’), before spending the rest of the honeymoon at Bartlett’s home of Ingledon in Ashford.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/St_Mary%2C_Ashford%2C_June_2021.jpg" label="St Mary's, Ashford" attribution="Poliphilo, CC0, via Wikimedia Commons">
 <param ve-map center="Q725261" zoom="10">
 
 In her lifetime Angela Burdett-Coutts ‘set a new standard in philanthropy: prompt and practical, her charity was given with style and without condescension.’[^ref6] On her death 5 years after [Queen Victoria](/19c/19c-victoria-biography), she was buried in Westminster Abbey, becoming once again a near neighbour of [Dickens](/dickens).
