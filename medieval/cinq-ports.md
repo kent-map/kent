@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="The Cinq Ports" author="Sheila Sweetinburgh" layout="vtl" banner="xxx">
+<param ve-config title="The Cinq Ports" author="Sheila Sweetinburgh" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Edward_the_Confessor_Ee.3.59_fol.7r_%28part1%29.jpg">
 
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q179224" aliases="Dover">
