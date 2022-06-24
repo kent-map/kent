@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="The Cinq Ports" author="Dr Sheila Sweetinburgh" layout="vtl" banner="https://stor.artstor.org/stor/6adc1223-2266-4fe5-8c65-d0924627f6c7">
+<param ve-config title="The Cinque Ports" author="Dr Sheila Sweetinburgh" layout="vtl" banner="https://stor.artstor.org/stor/6adc1223-2266-4fe5-8c65-d0924627f6c7">
 
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q179224" aliases="Dover">
