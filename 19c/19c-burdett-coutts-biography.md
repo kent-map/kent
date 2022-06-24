@@ -5,22 +5,11 @@
     author="Professor Carolyn Oulton"
     banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/Burdett-Coutts_sundial_mosaics_-_geograph.org.uk_-_475598.jpg"
     layout="vtl">
-<param ve-entity title="Angela Burdett-Coutts" eid="Q137680" aliases="Angela Burdett|Angela|Burdett-Coutts|Miss Coutts|Baroness">
-<param ve-entity title="Duke of Wellington" eid="Q131691">
+
 <param ve-entity title="Walmer Castle" eid="Q2543161">
-<param ve-entity title="Broadstairs" eid="Q922739">
-<param ve-entity title="Sandgate" eid="Q1000312">
-<param ve-entity title="Ramsgate" eid="Q736439">
-<param ve-entity title="Gad's Hill" eid="Q5516441">
-<param ve-entity title="Folkestone" eid="Q375314">
 <param ve-entity title="Maidstone" eid="Q213180">
 <param ve-entity title="Rochester" eid="Q507517">
-<param ve-entity title="Fort House" eid="Q4925737">
-<param ve-entity title="Ramsgate" eid="Q736439">
 <param ve-entity title="Thanet" eid="Q1752642">
-<param ve-entity title="Goodwin Sands" eid="Q1494482">
-<param ve-entity title="Margate" eid="Q618045">
-<param ve-entity title="Canterbury" eid="Q29303">
 <param ve-entity title="Ashford" eid="Q725261">
 
 #
