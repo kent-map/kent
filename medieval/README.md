@@ -19,6 +19,10 @@ Chaucer has become one of England’s most famous poets. He is best known for Th
 
 - author: Dr Sheila Sweetinburgh
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6adc1223-2266-4fe5-8c65-d0924627f6c7)
+
+
+
 ##
 **[Hengest and Horsa](hengestandhorsa)**
 
