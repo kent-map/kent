@@ -2,43 +2,17 @@
 
 <param ve-config
     title="Angela Burdett-Coutts, 1814-1906"
-    author="Carolyn Oulton"
+    author="Professor Carolyn Oulton"
     banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/Burdett-Coutts_sundial_mosaics_-_geograph.org.uk_-_475598.jpg"
     layout="vtl">
-<param ve-entity title="Angela Burdett-Coutts" eid="Q137680" aliases="Angela Burdett|Angela|Burdett-Coutts|Miss Coutts|Baroness">
-<param ve-entity title="Sir Francis Burdett" eid="Q334207">
-<param ve-entity title="Sophia" eid="Q26921368">
-<param ve-entity title="Thomas Coutts" eid="Q7788650">
-<param ve-entity title="1837" eid="Q7608">
-<param ve-entity title="Duke of Wellington" eid="Q131691">
+
 <param ve-entity title="Walmer Castle" eid="Q2543161">
-<param ve-entity title="London" eid="Q84">
-<param ve-entity title="Kent" eid="Q23298">
-<param ve-entity title="mid-1840s" eid="Q38324">
-<param ve-entity title="early-1850s" eid="Q40927">
-<param ve-entity title="Broadstairs" eid="Q922739">
-<param ve-entity title="1847" eid="Q7644">
-<param ve-entity title="Sandgate" eid="Q1000312">
-<param ve-entity title="Ramsgate" eid="Q736439">
-<param ve-entity title="Gad's Hill" eid="Q5516441">
-<param ve-entity title="1857" eid="Q7680">
-<param ve-entity title="Folkestone" eid="Q375314">
-<param ve-entity title="John Leech" eid="Q1374807" aliases="Leech">
 <param ve-entity title="Maidstone" eid="Q213180">
 <param ve-entity title="Rochester" eid="Q507517">
-<param ve-entity title="1850" eid="Q7653">
-<param ve-entity title="Fort House" eid="Q4925737">
-<param ve-entity title="Ramsgate" eid="Q736439">
 <param ve-entity title="Thanet" eid="Q1752642">
-<param ve-entity title="Goodwin Sands" eid="Q1494482">
-<param ve-entity title="1859" eid="Q7687">
-<param ve-entity title="Margate" eid="Q618045">
-<param ve-entity title="W. H. Wills" eid="Q15092885">
-<param ve-entity title="1881" eid="Q7808">
-<param ve-entity title="William Bartlett" eid="Q8006140" aliases="William Burdett-Coutts-Bartlett|Bartlett">
-<param ve-entity title="Canterbury" eid="Q29303">
 <param ve-entity title="Ashford" eid="Q725261">
 
+#
 
 Angela Burdett was the daughter of Sir Francis Burdett and his wife Sophia (whose father was Thomas Coutts the banker). Angela’s accession to the fabulous Coutts fortune, as well as the family name, in 1837 led to her becoming one of the most admired as well as one of the most generous philanthropists of her time. It also coincided with the still more memorable coronation of another wealthy young woman, [Princess Victoria](/19c/19c-victoria-biography). Burdett-Coutts – or Miss Coutts, as she was often known – would become the intimate friend (although rejected suitor) of the considerably older Duke of Wellington, whom she visited on several occasions at Walmer Castle. For many years she also worked closely with [Dickens](/dickens) on his ‘home for homeless women’ in London.
 <param ve-image 
@@ -61,13 +35,12 @@ Like [Dickens](/dickens), Burdett-Coutts clearly felt an affection for the seasc
 <param ve-map center="Q1752642" zoom="11">
 
 Burdett-Coutts would return to Kent in person in 1881 on her marriage to the 29 year old William Bartlett, who then became William Burdett-Coutts-Bartlett. The newspapers stuck closely to the more conventional aspects of this union, noting that the newly married pair went to Ashford Church, where the bride was ‘affable, and talked to everybody she met there. Late in the afternoon the Baroness and her husband left for [Canterbury](/19c/19c-canterbury)’ so that she could be closer to her medical attendant (‘Local intelligence’), before spending the rest of the honeymoon at Bartlett’s home of Ingledon in Ashford.
+<br><br>
+In her lifetime Angela Burdett-Coutts ‘set a new standard in philanthropy: prompt and practical, her charity was given with style and without condescension.’[^ref6] On her death 5 years after [Queen Victoria](/19c/19c-victoria-biography), she was buried in Westminster Abbey, becoming once again a near neighbour of [Dickens](/dickens).
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/St_Mary%2C_Ashford%2C_June_2021.jpg" label="St Mary's, Ashford" attribution="Poliphilo, CC0, via Wikimedia Commons">
 <param ve-map center="Q725261" zoom="10">
 
-In her lifetime Angela Burdett-Coutts ‘set a new standard in philanthropy: prompt and practical, her charity was given with style and without condescension.’[^ref6] On her death 5 years after [Queen Victoria](/19c/19c-victoria-biography), she was buried in Westminster Abbey, becoming once again a near neighbour of [Dickens](/dickens).
-
-
-
-# Bibliography
+### Bibliography
 Andersen, Jens. _Hans Christian Andersen: A New Life_. London: Duckworth, 2005.   
 Healey, Edna. Angela Georgina Burdett. _Oxford Dictionary of National Biography_. https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-32175  Accessed 29 May 2022.   
 --. _Lady Unknown: The Life of Angela Burdett-Coutts_. Sidgwick and Jackson, 1978.   

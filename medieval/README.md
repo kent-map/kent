@@ -15,6 +15,15 @@
 Chaucer has become one of England’s most famous poets. He is best known for The Canterbury Tales, which he wrote in the last decade of his life. 
 
 ##
+**[Cinque Ports](cinque-ports)**
+
+- author: Dr Sheila Sweetinburgh
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6adc1223-2266-4fe5-8c65-d0924627f6c7)
+
+For England, what might be considered a unique confederation of medium-sized and small port towns was initiated in Edward the Confessor’s reign and is still valued by these urban communities today.
+
+##
 **[Hengest and Horsa](hengestandhorsa)**
 
 - author: Francesca Allfrey and Beth Whalley
