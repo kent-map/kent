@@ -22,5 +22,5 @@ On 4 November, a week before the Armistice was signed, he met his death near Ors
 On Remembrance Day 2018, his portrait was raked into the sand on the beach at Folkestone as part of Danny Boyle’s [Pages of the Sea](https://youtu.be/aMgUE2Lg79E) project. Crowds gathered to watch as it was washed away by the tide.
 
 ### Bibliography
-Hibberd, Dominic. Wilfred Owen: a new biography. London: Weidenfeld & Nicholson, 2002
-Owen, Wilfred. Selected Letters. Edited by John Bell. Oxford: Oxford University Press, 1998
+Hibberd, Dominic. Wilfred Owen: a new biography. London: Weidenfeld & Nicholson, 2002.   
+Owen, Wilfred. Selected Letters. Edited by John Bell. Oxford: Oxford University Press, 1998.
