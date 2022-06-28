@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Wilfred Owen" author="xxx" layout="vtl" banner="xxx" attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" license="CC BY-SA 2.0">
+<param ve-config title="Wilfred Owen" author="Jeremy Page" layout="vtl" banner="xxx" attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" license="CC BY-SA 2.0">
 
 <param ve-entity eid=“Q2051722” aliases=“Yalding”>
 
