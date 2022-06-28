@@ -20,6 +20,7 @@ Owen made his brief return to [Folkestone](/20c/20c-folkestone-ww1) in August 19
 On 4 November, a week before the Armistice was signed, he met his death near Ors. His biographer Dominic Hibberd notes: ‘Owen would have survived the war if the attempted canal crossing at Ors had been called off. Ten minutes might have been enough.’ Tragically, he would never know the high regard in which his poetry would come to be held, or the enduring legacy of his work.
 <br><br>
 On Remembrance Day 2018, his portrait was raked into the sand on the beach at Folkestone as part of Danny Boyle’s Pages of the Sea project. Crowds gathered to watch as it was washed away by the tide.
+<param ve-video url="https://youtu.be/aMgUE2Lg79E">
 
 ### Bibliography
 Hibberd, Dominic. Wilfred Owen: a new biography. London: Weidenfeld & Nicholson, 2002
