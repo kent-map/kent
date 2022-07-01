@@ -9,8 +9,6 @@ from bs4 import BeautifulSoup
 import markdown as markdown_parser
 from nbformat import write
 
-# fields = ['ready', 'folder', 'essay', 'thumbnail', 'manifest', 'height', 'width', 'format', 'iiif-url', 'attribution', 'source', 'author', 'description', 'license', 'label', 'url', 'attribution-url']
-# field_names_map = {'title': 'label'}
 rows = []
 
 ATTRIBUTES_IN_COLUMNS = ['attribution', 'description', 'label', 'license', 'manifest', 'title', 'url']
@@ -33,7 +31,7 @@ def getChrFromValue(value):
 # Gets the last column for the given row
 def getLastColumn(row):
 
-    numColumns = len(row[0])
+    numColumns = len(row)
 
     # If more than 26 columns column will be 2 characters (e.g. 'AZ' or 'BH')
     if (numColumns > 26):
@@ -45,44 +43,25 @@ def getLastColumn(row):
     else:
         return getChrFromValue(numColumns)
 
-
-# Gets next worksheet and creates a new one if it doesn't already exist
-def getWorksheet(gSheet, worksheetNum):
-
-    try:
-        worksheet = gSheet[worksheetNum]
-        worksheet.clear()
-    except Exception:
-        gSheet.add_worksheet("Sheet{}".format(worksheetNum + 1))
-        worksheet = gSheet[worksheetNum]
-
-    return worksheet
-
 def writeToGSheet(gSheet, rows):
+    print("Writing to gSheet")
 
+    lastRow = len(rows)
     lastColumn = getLastColumn(rows[0])
 
-    worksheetNum = 0
-    worksheet = getWorksheet(gSheet, worksheetNum)
+    worksheet = gSheet.sheet1
 
-    rowNum = 1
-    for i in range(len(rows)):
+    worksheet.clear()
 
-        row = rows[i]
+    worksheet.rows = lastRow
+    worksheet.columns = len(rows[0])
 
-        # GSheets has maximum of 1000 rows per worksheet, so start new worksheet if required
-        if (rowNum > 999):
-            worksheetNum += 1
-            worksheet = getWorksheet(gSheet, worksheetNum)
-            rowNum = 1
+    cellRange = ("A1:{}{}".format(lastColumn, lastRow))
 
-        cellRange = ("A{}:{}{}".format(rowNum, lastColumn, rowNum + 1))
-
-        worksheet.update_values(cellRange, row)
-
-        rowNum += 1
+    worksheet.update_values(cellRange, rows) 
 
 def writeToTSV(fileName, rows):
+    print("Writing to TSV")
 
     # Clear file
     file = open(fileName, "w")
@@ -108,7 +87,9 @@ if __name__ == '__main__':
     row = []
     for attr in COLUMN_NAMES:
         row.append(attr)
-    rows.append([row])
+    rows.append(row)
+
+    print("Scraping data")
     
     for dirName, subdirList, fileList in os.walk(rootDir):
     
@@ -146,18 +127,12 @@ if __name__ == '__main__':
                             else:
                                 row.append("")
 
-                        rows.append([row])
-        
-                # Don't think this code is necessary
-                # html = markdown_parser.markdown(markdown, output_format='html5')
-                # htmlSoup = BeautifulSoup(html, 'html5lib')
-                # for tag in htmlSoup.find_all('img'):
-                #     if 've-button.png' in tag.attrs['src']:                        
-                #         data = {'folder': '/'.join(dirName.split('/')[1:]), 'essay': essay, 'url': tag.attrs['src']}
-                #         rec = [data.get(f,'') for f in fields]
+                        rows.append(row)
 
+    print("Connecting to gSheet")
     gClient = pygsheets.authorize()
     gSheet = gClient.open_by_key(G_SHEET_KEY)
+    
     writeToGSheet(gSheet, rows)
     
     # writeToTSV("output.tsv", rows)
