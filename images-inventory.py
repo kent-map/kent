@@ -54,7 +54,7 @@ def writeToGSheet(gSheet, rows):
     worksheet.clear()
 
     worksheet.rows = lastRow
-    worksheet.columns = len(rows[0])
+    worksheet.cols = len(rows[0])
 
     cellRange = ("A1:{}{}".format(lastColumn, lastRow))
 
