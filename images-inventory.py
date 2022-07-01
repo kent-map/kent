@@ -12,7 +12,7 @@ from nbformat import write
 rows = []
 
 ATTRIBUTES_IN_COLUMNS = ['attribution', 'description', 'label', 'license', 'manifest', 'title', 'url']
-COLUMN_NAMES = ['Essay', 'Attribution', 'Description', 'Label', 'License', 'Manifest', 'Title', 'URL']
+COLUMN_NAMES = ['Essay', 'Essay Folder', 'Attribution', 'Description', 'Label', 'License', 'Manifest', 'Title', 'URL']
 G_SHEET_KEY = "1I_kj9EYWFJc5iR6Pxd32hV11GO86NW1vJR58D-ZcxHA"
 
 
@@ -110,10 +110,12 @@ if __name__ == '__main__':
                 # For all <param> tags in markdown
                 for tag in markdownSoup.find_all('param'):
     
-                    # If tag contains ve-image attribute add image attributes to spreadsheet ????
+                    # If tag contains ve-image attribute add image attributes to spreadsheet
                     if 've-image' in tag.attrs:
     
-                        row = [essay]
+                        essayFolder = dirName[2:]
+
+                        row = [essay, essayFolder]
 
                         for attr in ATTRIBUTES_IN_COLUMNS:
 
@@ -128,11 +130,11 @@ if __name__ == '__main__':
                                 row.append("")
 
                         rows.append(row)
-
+    
     print("Connecting to gSheet")
     gClient = pygsheets.authorize()
     gSheet = gClient.open_by_key(G_SHEET_KEY)
-    
+
     writeToGSheet(gSheet, rows)
     
-    # writeToTSV("output.tsv", rows)
+    writeToTSV("output.tsv", rows)
