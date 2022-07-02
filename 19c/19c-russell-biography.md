@@ -7,9 +7,9 @@
        layout="vertical">
 
 <param ve-entity eid="Q2095630" title="William Dyce" aliases="Dyce’s">
-Ramsgate
-Deal
-Sheerness
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q1003196" aliases="Sheerness">
 
 #
 
@@ -20,19 +20,17 @@ Composer and musician, Henry Russell was born in Sheerness on the Isle of Sheppe
 
 An Ashkenazi Orthodox Jewish community had settled in Sheerness from at least the late eighteenth century establishing a synagogue in the town. With the rise of the port during the Napoleonic era, the Jewish community grew up around the dockyards and garrison, with several members licensed as navy agents. This led to antisemitic feeling among some of the townsfolk and in 1810 a wild cat was thrown through the synagogue window during a service.[^ref4] The temptations of the port is evident and records of the London Beth-Din reveal that in 1812 members of the Sheerness community, whilst collecting debts from the seamen broke the laws of the Sabbath by selling merchandise on board a man-of-war.[^ref5]
 
-In 1811, the year before Russell was born, a new synagogue was built in the Blue Town area, between Sheppey Street and King Street, to accommodate the growing community (now about 30)[^ref6]. It was only a wooden structure, but members of the Westminster Congregation were invited to its opening and a band played music which “was perhaps as grand as has been witnessed”[^ref7]. The early nineteenth century was a period of increasing interest in Jewish music. Lord Byron wrote 30 _Hebrew Melodies_ to accompany the [Canterbury](/19c/19c-canterbury) born composer Isaac Nathan’s music in 1815. Although Nathan’s melodies were inspired by European folk tradition and not strictly traditional Jewish music, Byron’s collaboration with Nathan reveals a genuine sympathy and interest in Jewish culture at this period.
+In 1811, the year before Russell was born, a new synagogue was built in the Blue Town area, between Sheppey Street and King Street, to accommodate the growing community[^ref6]. It was only a wooden structure, but members of the Westminster Congregation were invited to its opening and a band played music which “was perhaps as grand as has been witnessed”[^ref7]. The early nineteenth century was a period of increasing interest in Jewish music. Lord Byron wrote 30 _Hebrew Melodies_ to accompany the [Canterbury](/19c/19c-canterbury) born composer Isaac Nathan’s music in 1815. Although Nathan’s melodies were inspired by European folk tradition and not strictly traditional Jewish music, Byron’s collaboration with Nathan reveals a genuine sympathy and interest in Jewish culture at this period. Russell’s family were at the heart of the Sheerness Jewish community and these early memories of the bustling port, “on the brink of the salt sea itself”[^ref8] and overlooking the expanse of ocean coupled with the synagogue music may have influenced the young Henry. 
 
-Russell’s family were at the heart of the Sheerness Jewish community and these early memories of the bustling port, “on the brink of the salt sea itself”[^ref8] and overlooking the expanse of ocean coupled with the synagogue music may have influenced the young Henry. 
-
-After the Napoleonic Wars the Jewish Community in Sheerness began to dwindle, as the community sought opportunities in other seafaring towns such as Glasgow.[^ref9] By 1847 there were only 13 Jewish people in Sheerness, with larger communities in Ramsgate and Canterbury.[^ref10]   In October 1816, the petition of Moses Russell, shopseller, fruiterer and general dealer late of Sheerness, a prisoner for debt in the King’s bench Prison was heard at the Guildhall in the City of Westminster.[^ref11]
+After the Napoleonic Wars the Jewish Community in Sheerness began to dwindle, as the community sought opportunities in other seafaring towns such as Glasgow.[^ref9] By 1847 there were only 13 Jewish people in Sheerness, with larger communities in Ramsgate and Canterbury.[^ref10]   In October 1816, the petition of Moses Russell, shopseller, fruiterer and general dealer late of Sheerness, a prisoner for debt in the King’s bench Prison was heard at the Guildhall in the City of Westminster.[^ref11] It is possible that this is Russell's father.
 
 The Russell family moved to London, where Henry studied music in Seven dials for six pence a lesson, before joining a Children’s Opera and performing in front of George IV 'who was so delighted that he took him on his knee and kissed his cheek'.[^ref12] The King’s brothers the Dukes of Cumberland, Sussex and Cambridge had visited the Great Synagogue in 1809 where Henry’s great uncle had led the service and were sympathetic to the Jewish people, so it’s possible that George IV was aware of Henry’s lineage.[^ref13] At the age of ten Henry began working at a chemist’s shop. He did not have any aptitude for the business and recalls giving a customer who 'asked for Epsom salts enough poison to kill fifty persons'.[^ref14]
 
-At the age of twelve, Russell travelled to Italy to study at the Bologna Conservatory where he met Rossini, Donizetti and Bellini. He then went to Paris and at the age of 20 sought his fortune in Canada but struggled to find work in Toronto and so turned to theatrical work in New York debuting at Mitchell’s Olympic theatre. He describes this time as one of “jealousy and opposition” and he decided to abandon this work to concentrate on composing ballads.[^ref15] 
+At the age of twelve, Russell travelled to Italy to study at the Bologna Conservatory where he met Rossini, Donizetti and Bellini. He then went to Paris and at the age of 20 sought his fortune in Toronto, Canada but struggled to find work. Moving on to New York, he debuted at Mitchell’s Olympic theatre. He describes this time as one of “jealousy and opposition” and he decided to abandon this work to concentrate on composing ballads.[^ref15] Russell composed between 600-800 songs, many tackling social injustice including slavery.
 
-On returning to London, he took up a post as chorus master at the King’s Theatre[^ref16], where he trained singers for operas such as Rossini's Trancredi (July 1832 23 Morning Post), L'assedio di Corinto (1834), Otello (20 July 1835) and Donizetti’s 'Marino Faliero'. It was at this time that he married a Quaker, Isabella Lloyd, from the Lloyd banking family, with whom he had at least six children, including the novelist William Clark Russell (1844–1911), who later lived at Ramsgate and Deal.
+On returning to London, he took up a post as chorus master at the King’s Theatre[^ref16], where productions of Rossini's 'Trancredi', 'L'assedio di Corinto', Otello  and Donizetti’s 'Marino Faliero' were performed. It was at this time that he married a Quaker, Isabella Lloyd, from the Lloyd banking family, with whom he had at least six children, including the novelist William Clark Russell (1844–1911), who later lived in Ramsgate and Deal.[^ref17]
 
-Maintaining ties with the US, where he toured and performed, Russell composed between 600-800 songs, many tackling social injustice including slavery. His song “The Fine Old English Gentleman”  which was published in 1835 and later parodied by [Charles Dickens](/dickens/dickens-biography) in a political attack on the Conservative Party, was in itself ironic as "the poor old English gentleman" who "kept a brave old mansion / At a bountiful old rate" was far from his own background (Poem of the week: The Fine Old English Gentleman by Charles Dickens, Carol rumens, The Guardian 14 May 2012)
+Russell's song “The Fine Old English Gentleman”  which was published in 1835 and later parodied by [Charles Dickens](/dickens/dickens-biography) in a political attack on the Conservative Party, was an ironic description of "the poor old English gentleman" who "kept a brave old mansion / At a bountiful old rate" and was far from his own background[^ref18]
 
 The two men, whose father’s had both worked in the dockland communities of Kent (Dicken’s father [John](/dickens/chatham-dockyard) had worked at Chatham Dockyard), struck up a working relationship and in 1838 'I Care Not For Spring on His Fickle Wing' -from the _Posthumous Papers of the Pickwick Club_ and the Christmas melody 'The Ivy Green' written by Dickens were published with music composed By Henry Russell. According to Russell, Dickens was also fulsome in his praise for another of his songs “The Maniac” (1840) which “… had done as much in exposing the great social evil as any of his writing” [Huddersfield Daily Chronicle - Monday 21 November 1892]
 
@@ -58,8 +56,8 @@ Roth, C. _The Rise of Provincial Jewry. The early history of the Jewish communit
 [^ref3]: Rubinstein, Hilary L. "Hirschell [Hirschel, Herschell], Solomon (1762–1842), chief rabbi." Oxford Dictionary of National Biography.  08. Oxford University Press. Date of access 2 Jul. 2022, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13363>   
 [^ref4]: Roth, C.  _The Rise of Provincial Jewry. The early history of the Jewish communities in the English countryside, 1740-1840._ Reprinted from “The Jewish Monthly.” With plates, pp.97-98.    
 [^ref5]: Roth, C.  _The Rise of Provincial Jewry. The early history of the Jewish communities in the English countryside, 1740-1840._ Reprinted from “The Jewish Monthly.” With plates, pp.97-98.    
-{^ref6]:
-[^ref7]:
+{^ref6]: Roth, C.  _The Rise of Provincial Jewry. The early history of the Jewish communities in the English countryside, 1740-1840._ Reprinted from “The Jewish Monthly.” With plates, pp.97-98.   
+[^ref7]: Roth, C.  _The Rise of Provincial Jewry. The early history of the Jewish communities in the English countryside, 1740-1840._ Reprinted from “The Jewish Monthly.” With plates, pp.97-98.   
 [^ref8]: M, A.W. _Guide to Sheerness on Sea and the Isle of Sheppey_, Sheerness: S. Cole, 1881.
 [^ref9]: Roth, C.  _The Rise of Provincial Jewry. The early history of the Jewish communities in the English countryside, 1740-1840._ Reprinted from “The Jewish Monthly.” With plates,  pp.97-98.   
 [^ref10]: Roth, C.  _The Rise of Provincial Jewry. The early history of the Jewish communities in the English countryside, 1740-1840._ Reprinted from “The Jewish Monthly.” With plates, pp. 100-11.   
@@ -69,3 +67,5 @@ Roth, C. _The Rise of Provincial Jewry. The early history of the Jewish communit
 [^ref14]: _The Era_ - 8 Dec 1900. 
 [^ref15]: _The Era_ - 8 Dec 1900.
 [^ref16]: Lamb, Andrew. "Russell, Henry (1812?–1900), song writer and entertainer." Oxford Dictionary of National Biography.  19. Oxford University Press. Date of access 2 Jul. 2022, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-24312>    
+[^ref17]:
+[^ref18]: Rumens, C. 'Poem of the week: The Fine Old English Gentleman by Charles Dickens', _The Guardian_ 14 May 2012.
