@@ -19,7 +19,6 @@
 [Thomas Goodban](19c-thomas-goodban-biography)   
 [William Longhust](19c-william-longhurst-biography)   
 [John Marsh](19c-john-marsh-biography)   
-[Henry Russell](19c-russel-biography)   
 [James Shoubridge](19c-james-shoubridge)  
 
 ### Place
