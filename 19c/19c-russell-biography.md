@@ -3,7 +3,7 @@
 <param ve-config 
        title="Henry Russell (1812-1900)"
        author="Michelle Crowther"
-       banner="xxx" 
+       banner="/images/banners/19c.jpg"
        layout="vertical">
 
 <param ve-entity eid="Q2095630" title="William Dyce" aliases="Dyce’s">
