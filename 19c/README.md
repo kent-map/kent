@@ -35,6 +35,7 @@
 [George Alfred Henty](19c-henty-biography)   
 [Henry James](19c-jamesh-hever-castle)  
 [Edith Katherine Spicer Jay](19c-spicer-jay-biography)   
+[Douglas William Jerrold](19c-jerrold-biography)   
 [Jerome K. Jerome](19c-jerome-biography)   
 [Dora Jordan](19c-jordan-biography)   
 [John Keats](19c-keats-margate)   
