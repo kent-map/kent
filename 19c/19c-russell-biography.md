@@ -6,7 +6,6 @@
        banner="/images/banners/19c.jpg"
        layout="vertical">
 
-<param ve-entity eid="Q2095630" title="William Dyce" aliases="Dyce’s">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q1003196" aliases="Sheerness">
