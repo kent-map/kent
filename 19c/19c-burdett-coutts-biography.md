@@ -11,6 +11,9 @@
 <param ve-entity title="Rochester" eid="Q507517">
 <param ve-entity title="Thanet" eid="Q1752642">
 <param ve-entity title="Ashford" eid="Q725261">
+<param ve-entity title="Ramsgate" eid="Q736439">
+<param ve-entity title="Broadstairs" eid="Q922739">
+<param ve-entity title="Folkestone" eid="Q375314">
 
 #
 
