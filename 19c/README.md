@@ -18,6 +18,7 @@
 [R. D. Blackmore](19c-blackmore-biography)  
 [M.E. Braddon](19c-braddon-biography)   
 [John Brent](19c-brent-biography)   
+[Angela Burdett-Coutts](19c-burdett-coutts-biography)   
 [F. C. Burnand](19c-burnand-biography)  
 [Mary Cowden Clarke](19c-cowden-clarke-biography)   
 [Wilkie Collins](19c-collins-biography)   
