@@ -9,7 +9,8 @@ Like [Ramsgate](dickens/19c-ramsgate), Dover considered itself to be among the m
 <param ve-image url="/dickens/images/DoverCastle.jpg" label="Dover Castle" attribution="©The British Library Board c13874-64">
 
 The town had survived many threats over the course of centuries, but it is worth remembering that for all the historic ecstasies offered in guidebooks of the time:   
-_'The church of St Mary in 1860 experienced a narrow escape from complete destruction by the War Office, and was only with difficulty rescued by dint of urgent protests from antiquaries. One author speculated that 'The Department ... doubtless wishes all antiquaries at the devil._'[^ref1]   
+_'The church of St Mary in 1860 experienced a narrow escape from complete destruction by the War Office, and was only with difficulty rescued by dint of urgent protests from antiquaries. One author speculated that 'The Department ... doubtless wishes all antiquaries at the devil._'[^ref1]  
+
 But as the London and Dover railway managers were keen to stress, historic churches were not the only reason to visit the town. As well as the bands so memorably deplored by [Dickens](dickens/dickens-biography) there were amenities for the less vigorous walker in the form of ‘baths, with every accommodation for warm and sea bathing.’  
 <param ve-image url="/dickens/images/DoverfromShakespearsCliff.jpg" label="Dover from Shakespeare Cliff" attribution="©The British Library Board c13874-63">
 
