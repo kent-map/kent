@@ -7,8 +7,10 @@
 
 'At half-past two, we drove with Lady Catherine & Lehzen to Piermont House at Broadstairs & payed Princess Sophia Matilda a short visit' - Queen Victoria's Journal, Tuesday 4th October 1836
 
-Pierremont House was built in 1785 for Thomas Forsyth (1744-1810) of Empingham Hall, Rutland and 4 Upper Wimpole Street, London. It was designed by Samuel Pepys Cockerell, the architect who also designed Gore Court, near Sittingbourne.[^ref]
+Pierremont House was built in 1785 for Thomas Forsyth (1744-1810) of Empingham Hall, Rutland and 4 Upper Wimpole Street, London. Forsyth was the Sheriff of Rutland.  It was designed by Samuel Pepys Cockerell, the architect who also designed Gore Court, near Sittingbourne.[^ref]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Samuel_Pepys_Cockerell_by_George_Dance_1793.jpg" label="Samuel Pepyc Cockerell">
+
+Princess Victoria visited the house with her mother the Duchess of Kent as a child. She had piano lessons in the music room which was detached from the main house and local legend has it that on one occasion after being corrected by her music mistress, Victoria shut the piano, locked it and refused to continue.[^ref]
 
 Lady Sophia Foy (1780-1845) was staying with the Princess at the time of Princes Victoria's visit. 
 
@@ -26,3 +28,4 @@ Hibbert, Christopher (2000). _Queen Victoria: A Personal History._ HarperCollins
 ### References
 
 [^ref] Cust, L.H. 'Samuel Pepys Cockerell', _Dictionary of National Biography , 1885-1900_.
+[^ref] The Sketch - Wednesday 21 September 1898
