@@ -18,6 +18,8 @@ The Duchess of Kent, Princess Victoria and Prince Charles and royal entourage, a
 
 On the 3 November 1829, Victoria and her mother left Broadstairs, after their three month stay, attended by Lady Catherine Jenkinson, Baroness Lehzen and Sir John Conroy (who had also rented a house in Broadstairs for the season) to visit Eastwell Park, near Ashford, the home of the Earl of Winchelsea, and after this, newspapers locate them at Cobham Hall, the seat of the Earl of Darnley and the Earl of Liverpool (Charles Jenkinon's) home, Buxted Park, Uckfield.[^ref]
 
+In 1835, the Duchess took her daughter to Ramsgate for the season, and the fashionable flocked there, Princess Sophia Matilda stayed in Broadstairs at this time.[^ref] In September 1836, the Duchess returned to Pierremont House.
+
 Lady Sophia Foy (1780-1845) was staying with the Princess at the time of Princes Victoria's visit. 
 
 Baroness Lehzen (3 October 1784 – 9 September 1870) was her governess. According to Hibbert (2000) Lehzen instilled distrust in Victoria's mind against her mother.
@@ -42,3 +44,4 @@ Hibbert, Christopher (2000). _Queen Victoria: A Personal History._ HarperCollins
 [^ref]: _Morning Post_ - Tuesday 04 August 1829
 [^ref]: _Sun_ (London) - Wednesday 19 August 1829
 [^ref4]: _Dover Telegraph and Cinque Ports General Advertiser_ - Saturday 30 June 1838
+[^ref4]: Kentish Gazette - Tuesday 08 September 1835
