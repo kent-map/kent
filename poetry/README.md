@@ -1,5 +1,12 @@
 Who to add
 
-Owen
-Sassoon
+
+Henry Gardiner Adams
 Blunden
+Crab and Winkle
+Impressions
+Keats
+Owen
+Rossetti
+Sassoon
+Storr
