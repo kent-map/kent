@@ -7,7 +7,7 @@
 
 'At half-past two, we drove with Lady Catherine & Lehzen to Piermont House at Broadstairs & payed Princess Sophia Matilda a short visit' - Queen Victoria's Journal, Tuesday 4th October 1836
 
-Pierremont House was built in 1785 for Thomas Forsyth (1744-1810) of Empingham Hall, Rutland and 4 Upper Wimpole Street, London. Forsyth was the Sheriff of Rutland.  It was designed by Samuel Pepys Cockerell, the architect who also designed Gore Court, near Sittingbourne.[^ref]
+Pierremont House was built in 1785 for Thomas Forsyth (1744-1810) of Rutland. It was designed by Samuel Pepys Cockerell, who also designed Gore Court, near Sittingbourne.[^ref] In July 1821, the house was advertised to let as a marine residence for the season, with a 13 acre garden containing shrubberies, hot house, fruit trees and vegetable garden. There was also a billiard room and stabling for eight horses. Tickets to view the residence could be obtained from Mr Barfield at the Library, Broadstairs.[^ref]  The house was owned by a Scottish gentleman, Edward Fletcher (c.1762-1846) from at least 1839-1846.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Samuel_Pepys_Cockerell_by_George_Dance_1793.jpg" label="Samuel Pepyc Cockerell">
 
 Princess Victoria visited the house with her mother the Duchess of Kent as a child. She had piano lessons in the music room which was detached from the main house and local legend has it that on one occasion after being corrected by her music mistress, Victoria shut the piano, locked it and refused to continue.[^ref]
@@ -27,5 +27,6 @@ Hibbert, Christopher (2000). _Queen Victoria: A Personal History._ HarperCollins
 
 ### References
 
-[^ref] Cust, L.H. 'Samuel Pepys Cockerell', _Dictionary of National Biography , 1885-1900_.
-[^ref] The Sketch - Wednesday 21 September 1898
+[^ref]: Cust, L.H. 'Samuel Pepys Cockerell', _Dictionary of National Biography , 1885-1900_.
+[^ref]: _Kentish Weekly Post or Canterbury Journal_ - Friday 06 July 1821
+[^ref]: _The Sketch_ - Wednesday 21 September 1898
