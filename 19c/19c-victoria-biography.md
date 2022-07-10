@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Queen Victoria (1819-1901)" author="Alyson Hunt" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q729006" aliases="Chatham">
