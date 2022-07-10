@@ -1,10 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Queen Victoria (1819-1901)" author="Alyson Hunt" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Queen Victoria (1819-1901)" author="Alyson Hunt" layout="vtl" banner="https://stor.artstor.org/stor/a7e4f0ee-5b60-4e8d-857a-c567e4976d15">
 
-<param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
-<param ve-entity eid="Q179224" aliases="Dover">
-<param ve-entity eid="Q507517" aliases="Rochester">
 
 #
 
