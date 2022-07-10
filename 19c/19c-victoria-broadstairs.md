@@ -7,3 +7,8 @@
 <param ve-entity eid="Q507517" aliases="Rochester">
 
 #
+
+Pierremont House
+<param ve-image url="xxx" label="Pierremont House" attribution="Photographed by Martin Crowther">
+
+
