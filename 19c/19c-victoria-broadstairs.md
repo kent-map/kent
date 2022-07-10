@@ -14,7 +14,11 @@ The house was owned by a Scottish gentleman, Edward Fletcher (c.1762-1846) from 
 
 Princess Victoria visited the house with her mother the Duchess of Kent as a child. She had piano lessons in the music room which was detached from the main house and local legend has it that on one occasion after being corrected by her music mistress, Victoria shut the piano, locked it and refused to continue.[^ref]
 
-At the end of October 1829, Victoria and her mother left Broadstairs for the Earl of Winchelsea's seat in Kent.[^ref]
+The royal entourage arrived in Broadstairs on the 1 August 1829 at 7.00 pm. They were greeted with ringing church bells and an amateur band playing national airs on the lawn of Pierremont House. In the evening, the village was partly illuminated to mark the occasion.[^ref] Two weeks later, the Morning Post - Friday 17 July 1829 report that the royal presence has caused an "unusual demand for houses" in Broadstairs for the season.
+
+On 17 August 1829 the residents of Broadstairs celebrated the Duchess of Kent's birthday with triumphal arches and illuminations.
+
+On the 3 November 1829, Victoria and her mother left Broadstairs, after their three month stay, attended by Lady Catherine Jenkinson, Baroness Lehzen and Sir John Conroy to visit Eastwell Park, near Ashford, the home of the Earl of Winchelsea, and after this, newspapers locate them at Cobham Hall, the seat of the Earl of Darnley and the Earl of Liverpool (Charles Jenkinon's) home, Buxted Park, Uckfield.[^ref]
 
 Lady Sophia Foy (1780-1845) was staying with the Princess at the time of Princes Victoria's visit. 
 
@@ -35,6 +39,7 @@ Hibbert, Christopher (2000). _Queen Victoria: A Personal History._ HarperCollins
 [^ref]: _Kentish Weekly Post or Canterbury Journal_ - Friday 06 July 1821
 [^ref]: _Morning Post_ - Monday 12 July 1830
 [^ref]: _Sun_ (London) - Saturday 07 September 1833
-[^ref]: Globe - Tuesday 03 November 1829
+[^ref]: _Globe_ - Tuesday 03 November 1829; _London Packet and New Lloyd's Evening Post_ - Friday 06 November 1829; _New Times_ (London) - Monday 09 November 1829
 [^ref]: _The Sketch_ - Wednesday 21 September 1898
+[^ref]: _Morning Post_ - Tuesday 04 August 1829
 [^ref4]: _Dover Telegraph and Cinque Ports General Advertiser_ - Saturday 30 June 1838
