@@ -10,7 +10,8 @@ banner="/images/banners/18c.jpg">
 #
 
 Long before [Victoria](/19c/19c-victoria-biography) was allegedly not amused, Elizabeth Carter projected a similar frostiness in the face of frivolity. According to her nephew, ‘she went once to a puppet-show at Deal, with some respectable friends, and Punch was uncommonly dull and serious, who was usually more jocose than delicate. “Why Punch,” says the showman, ‘what makes you so stupid.” — "I can’t talk my own talk,” answers Punch, “the famous Miss Carter is here.”’[^ref1]
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/76/Elizabeth_Carter.jpg" label="Elizabeth Carter" attribution="Joseph Brown, Public domain, via Wikimedia Commons">
+
 That day in Deal, Carter clearly enjoyed the show a lot less than she enjoyed her reputation as the epitome of earnestness. Yet the risk to the puppets was nothing like the threat posed by Zeal-of-the-Land Busy to the puppets of Jonson’s _Bartholomew Fair_, and with the amusements of others Carter was by no means a militant killjoy. It was only with herself that she was strict. The strictness seems to have come, moreover, from an intense thirst for the joy that she was keeping down:  
 <br>
 All-pow’rful Grace, exert thy gentle Sway,   
@@ -19,7 +20,7 @@ Lest lurking Folly with insidious Art
 Regain my volatile inconstant Heart.[^ref2]   
 <br>
 Blake’s adage that those who restrain desire do so because theirs is weak enough to be restrained does not appear to apply here.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/76/Elizabeth_Carter.jpg" label="Elizabeth Carter" attribution="Joseph Brown, Public domain, via Wikimedia Commons">
+<param ve-image url="https://stor.artstor.org/stor/ff1d90fe-ce99-46f4-af0a-657279e644f4" label="Map of Deal" attribution="By kind permission of Augustine House Library">
 
 The fierce discipline to which Carter subjected herself is abundantly demonstrated by the arrangements she put in place to ensure that the crack of dawn would always find her already poring over her books. A letter of 1746 which is quoted by her nephew describes a device that might challenge comparison with Heath Robinson’s trumpet alarm clock: ‘There is a bell placed at the head of my bed, and to this is fastened a packthread and a piece of lead, which…is conveyed through a crevasse of my window into a garden below, pertaining to the Sexton, who gets up between four and five, and pulls the said packthread with as much heart and good will as if he was ringing my knell.’[^ref3]  It was thanks to this extraordinary dedication (and ingenuity) that Carter was able to complete, for publication in 1758, an acclaimed translation of ‘All the Works of Epictetus Which are Now Extant.’ It was as big a project, arguably, as Samuel Johnson’s _Dictionary of the English Language_ (with which it overlapped).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/27/The_Discourses_of_Epictetus_-_Elizabeth_Carter_-_1758_-_title_page.jpg" label="The Discourses of Epictetus" attribution="Elizabeth Carter, Public domain, via Wikimedia Commons">
