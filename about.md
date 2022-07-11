@@ -334,6 +334,13 @@ Dr Jacquie Stamp has completed a PhD in English Literature at Canterbury Christ 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/marnie1.jpg)
 
 Marnie Stanley is a student at Canterbury Christ Church University
+
+##
+[**Sheila Sweetinburgh**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/10374744-325d-4b60-993e-8f4a083ade67)
+
+Dr Sheila Sweetinburgh’s book on English medieval hospitals looks especially at the hospitals of Sandwich, Dover, and Canterbury. She has also edited four books and written numerous articles on a wide variety of medieval and early modern social history topics that use case studies from Kent, ranging from late medieval rebellion to immigration in fifteenth-century Kent. She is particularly interested in medieval towns and their townspeople, and she uses such studies in her postgraduate teaching at Canterbury Christ Church University and at the University of Kent.
    
 ##
 [**Christian Taylor**]()
