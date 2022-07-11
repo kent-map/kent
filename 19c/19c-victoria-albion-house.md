@@ -6,7 +6,6 @@
 #
 
 **Events:** 29 Sept 1835 – 11th Jan 1836.   
-**Places:** St Lawrence [Laurence] Church, Ramsgate Pier, Piermont House Broadstairs, [Canterbury Cathedral](/19c/19c-canterbury)    
 <br>
 'The streets were ornamented with arches of flowers and flags. The open, free, boundless (to the eye), ocean looked very refreshing. There is nothing between us and France but the sea, here. We have got a small but very nice house, overlooking the sea quite close.' (29th Sept 1835).
 <br>

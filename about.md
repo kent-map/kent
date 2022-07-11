@@ -307,6 +307,15 @@ Andrew Sargent has written about Deal for many years. He is the author of "Drink
 
 Professor Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of _Ford Madox Ford: A Dual Life_ (2 vols, 1996; paperback 2012); _Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature_ (2010); and _Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series,_ 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020).
 
+##
+[**Hayley Smith**]()
+
+- twitter: @HayleySmith001
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c961a36c-9e4d-49e6-92aa-f422faeef95a)
+
+Hayley Smith is a PhD student at Canterbury Christ Church University. Her research seeks to recover and re-examine the life and literary career of a neglected Victorian author, Thomas Anstey Guthrie (1856-1934), who wrote under the pen name “F. Anstey”. Her research interests include Victorian popular fiction, nineteenth-century children’s literature, the Gothic, and contemporary horror films.
+
     
 ##
 [**Jacquie Stamp**]()
@@ -325,6 +334,13 @@ Dr Jacquie Stamp has completed a PhD in English Literature at Canterbury Christ 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/marnie1.jpg)
 
 Marnie Stanley is a student at Canterbury Christ Church University
+
+##
+[**Sheila Sweetinburgh**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/10374744-325d-4b60-993e-8f4a083ade67)
+
+Dr Sheila Sweetinburgh’s book on English medieval hospitals looks especially at the hospitals of Sandwich, Dover, and Canterbury. She has also edited four books and written numerous articles on a wide variety of medieval and early modern social history topics that use case studies from Kent, ranging from late medieval rebellion to immigration in fifteenth-century Kent. She is particularly interested in medieval towns and their townspeople, and she uses such studies in her postgraduate teaching at Canterbury Christ Church University and at the University of Kent.
    
 ##
 [**Christian Taylor**]()
