@@ -6,7 +6,7 @@
 #
 
 The ‘modesty hood’, designed to screen naked bathers as they descended the steps of their horse-powered bathing machines, was invented in Margate in 1753 by Benjamin Beale, and the town’s credibility as a health resort was consolidated with the founding of a charitable [Royal Sea Bathing Infirmary](http://glorious-and-unknown.co.uk/margate-royal-sea-bathing-infirmary/) in 1792 for the treatment of scrofula. In 1820 writer Walley Chamberlain Oulton noted that due to the salubrious air ‘The temperate islander may be frequently seen, at the age of ninety, performing his domestic functions with all the activity and bustle of youth.’ 
-<param ve-image url="https://iiif.wellcomecollection.org/image/L0017751/full/full/0/default.jpg"  label="Margate, Kent: a woman diving off a bathing wagon in to the sea. Coloured etching, ca. 1800." attribution"Wellcome Collection: Public Domain Mark">
+<param ve-image url="https://iiif.wellcomecollection.org/image/L0017751/full/full/0/default.jpg"  label="Margate, Kent: a woman diving off a bathing wagon in to the sea. Coloured etching, ca. 1800." attribution="Wellcome Collection: Public Domain Mark">
 
 In the early 19th century visitors such as [Keats](/19c/19c-keats-margate/) would have arrived by hoy boat, although this somewhat rickety form of transport had been superseded by the steam packet by the 1830s. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/46/Scene_aboard_a_Margate_hoy.jpg" label="Scene aboard a Margate Hoy, 1804" attribution="Published by John Fairburn, Public domain, via Wikimedia Commons">
