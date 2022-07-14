@@ -10,7 +10,7 @@
 #
 
 **Place:** Smallhythe Place[^ref1]   
-Cicely Hamilton was a feminist actress, writer and playwright. She co-founded the Women Writers’ Suffrage League and was a vigorous campaigner for women’s suffrage.  She was a close friend of the Smallhythe Trio – Edy Craig, [Christopher St John](20c/20c-st-john-biography) and Clare ‘Tony’ Atwood.
+Cicely Hamilton was a feminist actress, writer and playwright. She co-founded the Women Writers’ Suffrage League and was a vigorous campaigner for women’s suffrage.  She was a close friend of the Smallhythe Trio – [Edy Craig](/20c/20c-craig-biography), [Christopher St John](20c/20c-st-john-biography) and Clare ‘Tony’ Atwood.
 <br>
 Hamilton and [Christopher St John]( 20c/20c-st-john-biography) co wrote the popular suffrage plays, _How the Vote Was Won_ and _Pot and Kettle_. Edy Craig conceived the idea for _The Pageant of Great Women_, considered one of the most important suffrage propaganda productions, and convinced Hamilton to write the script (Edy produced and directed). Hamilton also wrote the words to the suffrage anthem, _ The March of the Women_(to music by the English composer, Ethel Smyth).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/13/Cicely_Hamilton_by_Lena_Connell_1910s.png" label="Cicely Hamilton" attribution="Lena Connell, Public domain, via Wikimedia Commons">
