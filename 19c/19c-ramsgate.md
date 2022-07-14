@@ -16,7 +16,7 @@ But this picture of affluence and respectability is compromised by Dickens himse
 <param ve-image url="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" label="Ramsgate, East Cliff Promenade" attribution="By kind permission of Carolyn Oulton">
 
 Feeling active? You may want to try this [walk from Pegwell Bay to Ramsgate](https://explorekent.org/activities/pegwell-bay-to-ramsgate-walk-romans-to-victoriana/)
-<param ve-image url="https://stor.artstor.org/stor/8aeaee15-e48f-420f-9638-961e6c2a86b7" label="Landing the fare at Pegwell Bay" attribution"By kind permission of Martin Crowther">
+<param ve-image url="https://stor.artstor.org/stor/8aeaee15-e48f-420f-9638-961e6c2a86b7" label="Landing the fare at Pegwell Bay" attribution="By kind permission of Martin Crowther">
 
 ### Bibliography
 Burnand, Frances Cowley, illustrated by Phil May. _The Z.Z.G., or Zig Zag Guide: Round and about the bold and beautiful Kentish coast._
