@@ -44,7 +44,7 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 ##
 **[John Wallis](17c-wallis-biography)**
 
-- author: Michelle Crowther
+- author: Michelle Crowther and Charlie Badsey-Ellis
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
