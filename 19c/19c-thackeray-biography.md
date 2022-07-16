@@ -11,12 +11,15 @@ banner="/images/banners/19c.jpg">
 <br><br>
 
 Educated at Charterhouse and Cambridge, W. M. Thackeray is remembered by many as the author of _Vanity Fair_ (1847) and by some for suggesting that it takes three generations to make a gentleman. He was born in India in 1811, returning to England at the age of 5. As a securely upper-middle class child, he enjoyed a childhood holiday in fashionable Tunbridge Wells in 1823,  just after his near contemporary [Dickens](/dickens), had begun his downward trajectory following the loss of his [father’s](/dickens/dickens-chatham) job at [Chatham Dockyard](/19c/19c-chatham-dockyard).
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/WilliamThackeray.jpg" label="William Thackeray" attribution="Public domain, via Wikimedia Commons">
 
 Thackeray married Isabella Shawe in 1836. Their first child Anne (Annie) was born in 1837 and later became a successful novelist in her own right. Jane, born in 1838, survived only eight months, and Thackeray’s strained description of ‘gadding to [Gravesend](/19c/19c-gravesend)’  with Isabella in the spring of 1839 was clearly intended to reassure his mother that they were coping. Harriet Marian, born in 1840 and known as Minnie, would become the first wife of Leslie Stephen (later the father of Virginia Woolf).
+<param ve-image url="https://stor.artstor.org/stor/785f9c80-c739-479d-85b3-29b9ff37d967" label="The Picturesque Beauties of Great Britain: Kent. The Baths at Gravesend, 1829" attribution="George Virtue. Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
 In the summer of 1840 Thackeray and his young family spent three weeks at 1 Bridge Terrace in [Margate](/19c/19c-margate),  where he wrote _A Shabby Genteel Story_, about a libertine who tricks a naïve young woman into a false marriage. The teasing narrative voice plays on readers’ desire for gossip:
 <br><br>
 'Up to this point, I say, I have had a right to accompany the fat lady and Miss Runt; but whether, on arriving at Mr Fincham’s, they turned to the left, in the direction of the Royal Hotel, or to the right, by the beach, the bathing-machines, and queer rickety old row of houses, called Buenos Ayres, no power on earth shall induce me to say; suffice it, they went to Mrs Gann’s. why should we set all the world gadding to a particular street, to know where that lady lives?'  
+<param ve-image url="https://stor.artstor.org/stor/0515f138-ee47-4cc9-906b-51cd54fad21c" label="The Picturesque Beauties of Great Britain: Kent. Margate: the Pier and New Lighthouse" attribution="George Virtue. Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
 But while the town was a thriving resort in the 1840s, Ushashi Dasgupta comments that ‘Thackeray’s Margate feels wrong from the very beginning’,  and as readers have noted, the story ends somewhat abruptly. The reason is that Isabella started to show alarming signs of madness. Many years later Annie told her father that on her mother had attempted to drown her in the sea in a moment of mental aberration.  
 
