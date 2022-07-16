@@ -24,6 +24,7 @@ A little later in the diary, Marsh notes that his musical activities were not al
 The need to be able to see where one is going may strike us as (pun intended) blindingly obvious, but darkness was not the only obstacle. Over a century later, Reverend Sabine Baring-Gould, collector of folk songs, reminisced about travel along England's country roads in the early nineteenth century. Their very construction, he notes, was a matter for contention:
 <br><br>
 Road-making was formerly intrusted [sic] to the parochial authorities, and there was no supervision. It was carried out in slovenly and always in an unsystematic manner. In adopting a direct or circuitous line of way, innumerable predilections interfered, and parishes not infrequently quarrelled about the roads.[^ref1]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/79/The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820995540465%29.jpg" label="The Dover Road: Annals of an Ancient Turnpike" attribution="Harper, Charles George, 1863-1943, No restrictions, via Wikimedia Commons">
 
 And the quality of engineering was as might be expected:
 <br><br>
