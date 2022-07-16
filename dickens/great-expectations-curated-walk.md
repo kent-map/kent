@@ -1,3 +1,4 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config 
        title="Great Expectations - a curated walk" 
        banner="images/Grammar_School_Gate_Rochester.jpg"
