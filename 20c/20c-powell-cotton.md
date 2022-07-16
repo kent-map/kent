@@ -1,14 +1,14 @@
+a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="Diana Powell-Cotton (1908-1986) & Tony (Antoinette) Powell-Cotton (1913-1997)" author="Jan Dunn" layout="vtl" banner="/images/banners/19c.jpg">
+
 <param ve-config title="Kent Digital Map" author="Jan Dunn" layout="vtl" banner="/images/kent-map-header.jpg">
 
 <param ve-entity="Birchington" eid="Q865021">
 
-# Diana Powell-Cotton (1908-1986) & Tony (Antoinette) Powell-Cotton (1913-1997)
+# 
 
-**Place:**  Quex Park, Birchington, Kent
-
-**Event:** Two intrepid women from Quex Park, Kent travelled to the interior of Africa in the 1930s where they recorded the domestic lives of those they met and lived with. Arguably the first British women documentary filmmakers. 
-<param ve-map center="Q865021" zoom="8">
-
+**Event:** Two intrepid women from Quex Park, Kent travelled to the interior of Africa in the 1930s where they recorded the domestic lives of those they met and lived with. Arguably the first British women documentary filmmakers.
+<br><br>
 On a rainy day in February 1936 Diana Powell-Cotton was 28 years old and her sister Tony only 20 when they left their home [Quex House](https://www.historichouses.org/houses/house-listing/quex-house.html), Birchington to embark upon a trip to the interior of Africa. They had prepared by learning to drive and to speak Portuguese. On arrival in Angola, West Africa they would be picking up their two and a half ton truck Jemima, onto which would be loaded their significant and heavy filming equipment. 
 <param ve-image primary url="images/Tony Archaeologist.jpg" label= "Tony" attribution= "Quex Park Museum">
 <param ve-map center="Q865021" zoom="8">
