@@ -20,6 +20,7 @@ According to the extensive journal of John Marsh, gentleman, barrister, and tale
 A little later in the diary, Marsh notes that his musical activities were not always so accommodating:
 <br><br>
 'These private concerts (to which Mrs M. not being a subscriber could not come) being always on dark nights I was necessitated on these nights to sleep at the inn and return home the next morning. After the public ones (it being moonlight) we always went home in the coach afterwards.'
+<param ve-imge url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Edward_Villiers_Rippingille_%281798-1859%29_-_The_Stage-Coach_Breakfast_-_624187_-_National_Trust.jpg" label="The Stage Coach Breakfast, 1824" attribution="National Trust Collections, Edward Villiers Rippingille, Public domain, via Wikimedia Commons">
 
 The need to be able to see where one is going may strike us as (pun intended) blindingly obvious, but darkness was not the only obstacle. Over a century later, Reverend Sabine Baring-Gould, collector of folk songs, reminisced about travel along England's country roads in the early nineteenth century. Their very construction, he notes, was a matter for contention:
 <br><br>
@@ -33,10 +34,12 @@ And the quality of engineering was as might be expected:
 ‘The wonder to me is, that chaises ever made any progress over these old roads without being splintered to atoms’ is Baring-Gould's conclusion, and Sydney Smith, Anglican cleric and humourist, testifies to the problem: 
 <br><br>
 'In going from Taunton to Bath I suffered between ten thousand and twelve thousand severe contusions before stone-breaking McAdam was born. I paid fifteen pounds in a single year for repair of carriage-springs on the pavement of London. […] I forgot to add, that as the basket of the stage-coaches in which luggage was then carried had no springs, your clothes were rubbed all to pieces; and that even in the best society, one-third of the gentlemen were always drunk.'[^ref3] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/94/William_Hogarth_-_The_Stage_Coach_-_1998.351_-_Cleveland_Museum_of_Art.jpg" label="The Stage Coach" attribution="William Hogarth, Cleveland Museum of Art, CC0, via Wikimedia Commons">
 
 Levels of intoxication, as will be noted, probably remained an issue, but at least roads improved:  Smith's ‘stone-breaking McAdam’ was John Loudon McAdam (1756–1836): the engineer who wrought a transformation in this lamentable state of affairs. Baring-Gould explains his road-building method quite accurately: 
 <br><br>
 'McAdam's principle was this. Make all roads with the highest point in the middle, then the water runs off it, instead of – as in the old roads – lodging in the middle. Next, do not pave the road at all, but lay in a bottom – metal it – with broken stones, to the depth of six or eight inches, and then cover these with another layer, broken smaller, to the depth of two or three inches. Then all will be welded together into a compact and smooth mass.'[^ref4] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/99/Franz_Laktanz_Firmian_-_Mann_mit_Rotwein.jpg" label="Mann mit Rotwein, late 18th century" attribution="Franz Laktanz Firmian, Public domain, via Wikimedia Commons">
 
 The improvement in travelling comfort in the first three or four decades of the nineteenth century, as McAdam's method of road building was adopted across the nation, must have been wondrous at the time. Some sense of that wonder may be found in the newspaper report below: in reporting the stunt pulled off by a local actor-manager, the [_Kentish Gazette_](/18c/18c-kentish-gazette) clearly found the travelling more remarkable than the acting, since the report gives no clue as to what piece or pieces, exactly, Mr Sloman performed:
 <br><br>
