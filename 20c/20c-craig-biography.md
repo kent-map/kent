@@ -9,7 +9,8 @@
 
 #
 
-Edith ‘Edy” Craig was a trailblazing theatrical director, producer, costumier and actress. She was a founder of the Pioneer Players, a theatrical group dedicated to creating and producing plays of ‘interest and ideas’ dealing with social, political and moral issues, and continued her theatrical work throughout her life. She was also committed to the fight for equality for women (and, as an extension of that, to the cause of women’s suffrage).   
+Edith ‘Edy” Craig was a trailblazing theatrical director, producer, costumier and actress. She was a founder of the Pioneer Players, a theatrical group dedicated to creating and producing plays of ‘interest and ideas’ dealing with social, political and moral issues, and continued her theatrical work throughout her life. She was also committed to the fight for equality for women (and, as an extension of that, to the cause of women’s suffrage).
+<br><br>
 Edy lived in London and at the Priest’s House at Smallhythe, in a ménage à trois with the two women she loved, the writer [Christopher St John](/20c/20c-st-john-biography) 
 and the artist Claire “Tony” Atwood.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Edith_Ailsa_Geraldine_Craig%2C_1895.jpg" label="Edith Craig" attribution="Alfred Ellis (active 1884-1899), Public domain, via Wikimedia Commons">
