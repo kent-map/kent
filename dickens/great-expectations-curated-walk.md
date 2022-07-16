@@ -80,7 +80,7 @@ Pip himself seems about to come full circle in returning to the [marshes](/lands
 <param ve-image url="images/Ship_and_Lobster.jpg" fit="contain">
 
 
-This curated walk is also available as a [video](https://www.youtube.com/watch?v=meumYGqMQLc&t=11s].
+This curated walk is also available as a [video](https://www.youtube.com/watch?v=meumYGqMQLc&t=11s).
 
 ### References
 
