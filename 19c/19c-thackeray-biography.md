@@ -8,7 +8,7 @@ banner="/images/banners/19c.jpg">
 #
 
 ‘the pleasantest greenest place in the world, pleasant woods close at hand, fields on the other side very quiet and happy to walk in’.[^ref1] - Thackeray on Southborough, near Tunbridge Wells.
-<br><br>
+<param ve-image url="https://stor.artstor.org/stor/99141c27-93ca-4f9d-bfef-56a29b4bc3f3" label="In the Woods near Tunbridge Wells" attribtuion="A. R. Quinton, J. Salmon, Sevenoaks">
 
 Educated at Charterhouse and Cambridge, W. M. Thackeray is remembered by many as the author of _Vanity Fair_ (1847) and by some for suggesting that it takes three generations to make a gentleman. He was born in India in 1811, returning to England at the age of 5. As a securely upper-middle class child, he enjoyed a childhood holiday in fashionable Tunbridge Wells in 1823,[^ref2]  just after his near contemporary [Dickens](/dickens), had begun his downward trajectory following the loss of his [father’s](/dickens/dickens-chatham) job at [Chatham Dockyard](/19c/19c-chatham-dockyard).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/WilliamThackeray.jpg" label="William Thackeray" attribution="Public domain, via Wikimedia Commons">
@@ -22,10 +22,13 @@ In the summer of 1840 Thackeray and his young family spent three weeks at 1 Brid
 <param ve-image url="https://stor.artstor.org/stor/0515f138-ee47-4cc9-906b-51cd54fad21c" label="The Picturesque Beauties of Great Britain: Kent. Margate: the Pier and New Lighthouse" attribution="George Virtue. Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
 But while the town was a thriving resort in the 1840s, Ushashi Dasgupta comments that ‘Thackeray’s Margate feels wrong from the very beginning’,[^ref6]  and as readers have noted, the story ends somewhat abruptly. The reason is that Isabella started to show alarming signs of madness. Many years later Annie told her father that on this holiday her mother had attempted to drown her in the sea in a moment of mental aberration.[^ref7]  
+<param ve-image url="https://stor.artstor.org/stor/f77ff676-dd33-47aa-90bf-4590fcb5349a" label="Margate, 1845" attribution="Fullarton's Ports and Harbours of the South East Coast of England">
 
 It soon became too difficult to look after Isabella at home, and a letter of 1842 sees Thackeray living apart from his wife and seeking solace in memories of his own childhood. On a working holiday in Southborough, near Tunbridge Wells, he enthused to his mother about ‘the pleasantest greenest place in the world, pleasant woods close at hand, fields on the other side very quiet and happy to walk in’. Sadly the cottage where they had stayed in Tunbridge Wells twenty years before had ‘gone to heaven’.[^ref8]  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/55/Southborough_Common_-_geograph.org.uk_-_2740147.jpg" label="Southborough Common" attribution="N Chadwick  via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Thackeray satirises 18th century Tunbridge Wells in _The Virginians_, set around 30 years before [Jane Austen](/austen/austen-tunbridge-wells) described its ‘long ascent, half rock, half sand’;[^ref9]  as a first response to the news of a family mésalliance, one character ‘had fits and ran off to the solitude of her dear rocks at Tunbridge Wells, where she did not see above forty people of a night at cards.’[^ref10]  But his regret is palpable in ‘Tunbridge Toys’, an article written towards the end of his life. ‘As I look up from my desk, I see Tunbridge Wells Common and the rocks, the strange familiar place which I remember forty years ago.’[^ref11] Readers surely empathise with  the middle-aged author when, like [Dickens](/dickens) revisiting the [Rochester](/dickens/dickens-medway) of his own childhood, he finds that everything has changed and the place no longer knows him.
+<param ve-image url="https://stor.artstor.org/stor/1b674697-28d5-4f4c-b603-89bfd74b0245" label="Tunbridge Wells Common" attribution="Kent Maps Online">
 
 ### Bibliography 
 Austen, Jane. _Sanditon_. _Northanger Abbey Lady Susan the Watsons Sanditon._ Oxford: OUP, 2008.   
