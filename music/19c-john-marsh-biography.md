@@ -2,6 +2,11 @@
 <param ve-config title="John Marsh (1752-1828)" author="Dr Chris Price" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q213180" aliases="Maidstone">
+<param ve-entity eid="Q1000115" aliases="Faversham">
+<param ve-entity eid="Q26372738" aliases="Nethersole">
+
 
 
 **Place:** Nethersole, near Canterbury (1783-7)
@@ -9,6 +14,7 @@
 According to the extensive journal of John Marsh, gentleman, barrister, and talented amateur musician, the few years he spent living at Nethersole, near [Canterbury](/music/19c-music-canterbury), were notable for the concerts in which he either played a leading role (as violinist, organist, composer, and/or organiser) or was an enthusiastic member of the audience. Occasionally he records a trip to London to sustain his study for the bar, though this seems by some way the less important part of his life. Apart from the prodigious musical energy of the man, the glimpses of the county's cultural life and the infrastructure – such as it was – which supported it are fascinating:
 <br><br>
 'As the moon was now in its last quarter and the evening turned out to be very dark, we all found it expedient to stay till 11 o’clock, by which time the moon became of sufficient height to enlighten us on our road home. On this account, after Michaelmas it was usual for all dinner and evening engagements to be fixed for the moonlight nights, in consequence of which our engagements came so thick during the second and third quarters of the moon that we were always rather glad than otherwise when the dark nights came that we might have a few evenings to ourselves. On this account also it was usual for families settling and arranging their engagements etc., at this time of year to ask how they stood engaged during the present or the next moon.'
+<param ve-map center="Q26372738" zoom="10">
 
 A little later in the diary, Marsh notes that his musical activities were not always so accommodating:
 <br><br>
