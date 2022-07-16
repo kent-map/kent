@@ -1,3 +1,4 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config 
        title="Great Expectations - a curated walk" 
        banner="images/Grammar_School_Gate_Rochester.jpg"
@@ -80,7 +81,7 @@ Pip himself seems about to come full circle in returning to the [marshes](/lands
 <param ve-image url="images/Ship_and_Lobster.jpg" fit="contain">
 
 
-This curated walk is also available as a [video](https://www.youtube.com/watch?v=meumYGqMQLc&t=11s].
+This curated walk is also available as a [video](https://www.youtube.com/watch?v=meumYGqMQLc&t=11s).
 
 ### References
 

@@ -1,14 +1,12 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="S.E. Winbolt (1868-1944)" author="Michelle Crowther" layout="vtl" banner="/images/banners/20c.jpg">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q60108798" aliases="Roman Villa">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q26672887" aliases="the Duke of Yorks School">
-<param ve-entity eid="Q107339143" aliases="Rotary Club">
 <param ve-entity eid="Q2607619" aliases="Richborough">
 <param ve-entity eid="Q7591573" aliases="St Radegund’s Abbey">
-<param ve-entity eid="Q23346" aliases="Sussex">
 <param ve-entity eid="Q26314337" aliases="Folkestone Free Library">
 
 #
@@ -41,9 +39,7 @@ Indeed, Winbolt recognised that keeping the project in the limelight was importa
 
 Winbolt was also keen to curry favour from local archaeologists and spoke of his fondness for the county in a speech to the Kent Archaeological Society in September 1924. He is reported to have said that although he was a Sussex man, 'if he had another choice he would be a Kentish man'[^ref10] (or, as Folkestone people would prefer him to say, a ‘Man of Kent’ - Winbolt clearly hadn’t done his homework!). He also took an interest in archaeological investigations in other parts of Kent, including St Radegund’s Abbey, Dover and described [Richborough](/20c/20c-richborough) as “perhaps the most Roman piece of soil in Great Britain.”[^ref11]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Farmhouse%2C_St_Radigund%27s_Abbey_Farm_%28geograph_4901835%29.jpg" label="Farm House at St Radegund’s Abbey" attribution="Ian Capper / Farmhouse, St Radigund's Abbey Farm">
-<param ve-map center="Q23346" zoom="10">
 <param ve-map center="Q7591573" zoom="10">
-<param ve-map center="Q179224" zoom="10">
 <param ve-map center="Q2607619" zoom="10">
 
 Winbolt was to combine his love of archaeology with his love for writing and in 1925 published a book on _Roman Folkestone_. He was keen that it should break ‘fresh ground’ and appeal to a wider audience than simply historians and archaeologists, he, therefore, included a chapter entitled 'Some humours of excavating' in which he recounted stories from his conversations with diggers, helpers and souvenir-hunters.[^ref12]  A reviewer described it as full of “debatable matter.”[^ref13]   
