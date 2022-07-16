@@ -27,3 +27,18 @@ Taylor, D. J. _Thackeray_. London: Vintage, 2011.
 Thackeray, W. M. _Selected Letters of William Makepeace Thackeray_. Ed. Edgar F. Harden. Basingstoke: Palgrave, 1996.   
 --. ‘Tunbridge Toys.’ 312-17. London: Everyman. _A Shabby Genteel Story and Other Writings_. 1993.   
 --. [_The Virginians_](https://archive.org/details/in.ernet.dli.2015.207951/mode/2up?q=%22had+fits+and+ran+off+to+the+solitude+of+her%22). Oxford: Oxford University Press [1918].
+
+### References
+
+To Mrs Henry Carmichael-Smyth. 11? June 1842. 100 – 102.
+  Taylor 31.
+  To Mrs Henry Carmichael-Smyth. March 1839. Harden 46-47.
+  To Mrs Henry Carmichael-Smyth. 20-21 August 1840. Harden 67-8.
+_A Shabby Genteel Story’ 84.
+  Dasgupta 198.
+  Taylor 155.
+  To Mrs Henry Carmichael-Smyth. 11? June 1842. 100 – 102.
+  [_Sanditon_]( https://en.wikisource.org/wiki/Page:Austen_Sanditon_and_other_miscellanea.djvu/31)
+  [_The Virginians_](https://archive.org/details/in.ernet.dli.2015.207951/mode/2up?q=%22had+fits+and+ran+off+to+the+solitude+of+her%22) 741.
+  ‘Tunbridge Toys’ 316.
+  
