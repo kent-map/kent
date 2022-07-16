@@ -27,6 +27,7 @@ In the summer of 1840 Thackeray and his young family spent three weeks at 1 Brid
 <br><br>
 'Up to this point, I say, I have had a right to accompany the fat lady and Miss Runt; but whether, on arriving at Mr Fincham’s, they turned to the left, in the direction of the Royal Hotel, or to the right, by the beach, the bathing-machines, and queer rickety old row of houses, called Buenos Ayres, no power on earth shall induce me to say; suffice it, they went to Mrs Gann’s. why should we set all the world gadding to a particular street, to know where that lady lives?'[^ref5]  
 <param ve-image url="https://stor.artstor.org/stor/0515f138-ee47-4cc9-906b-51cd54fad21c" label="The Picturesque Beauties of Great Britain: Kent. Margate: the Pier and New Lighthouse" attribution="George Virtue. Photo by Astrid Stilma. By permission of Patrick Marrin.">
+<param ve-map center="Q618045" zoom="15">
 
 But while the town was a thriving resort in the 1840s, Ushashi Dasgupta comments that ‘Thackeray’s Margate feels wrong from the very beginning’,[^ref6]  and as readers have noted, the story ends somewhat abruptly. The reason is that Isabella started to show alarming signs of madness. Many years later Annie told her father that on this holiday her mother had attempted to drown her in the sea in a moment of mental aberration.[^ref7]  
 <param ve-image url="https://stor.artstor.org/stor/f77ff676-dd33-47aa-90bf-4590fcb5349a" label="Margate, 1845" attribution="Fullarton's Ports and Harbours of the South East Coast of England">
@@ -36,6 +37,7 @@ It soon became too difficult to look after Isabella at home, and a letter of 184
 
 Thackeray satirises 18th century Tunbridge Wells in _The Virginians_, set around 30 years before [Jane Austen](/austen/austen-tunbridge-wells) described its ‘long ascent, half rock, half sand’;[^ref9]  as a first response to the news of a family mésalliance, one character ‘had fits and ran off to the solitude of her dear rocks at Tunbridge Wells, where she did not see above forty people of a night at cards.’[^ref10]  But his regret is palpable in ‘Tunbridge Toys’, an article written towards the end of his life. ‘As I look up from my desk, I see Tunbridge Wells Common and the rocks, the strange familiar place which I remember forty years ago.’[^ref11] Readers surely empathise with  the middle-aged author when, like [Dickens](/dickens) revisiting the [Rochester](/dickens/dickens-medway) of his own childhood, he finds that everything has changed and the place no longer knows him.
 <param ve-image url="https://stor.artstor.org/stor/1b674697-28d5-4f4c-b603-89bfd74b0245" label="Tunbridge Wells Common" attribution="Kent Maps Online">
+<param ve-map center="Q49218" zoom="15">
 
 ### Bibliography 
 Austen, Jane. _Sanditon_. _Northanger Abbey Lady Susan the Watsons Sanditon._ Oxford: OUP, 2008.   
