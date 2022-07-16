@@ -18,11 +18,11 @@ The French Revolutionary and Napoleonic wars with France gave Canterbury an esta
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6a/Thomas_Sidney_Cooper_-_Schafe_und_Kuh_auf_der_Weide.jpg" label="Sheep and Cow" attribution="Thomas Sidney Cooper, Public domain, via Wikimedia Commons">
 
 The transitory nature of the military population reflected the changing demands for defence in the 19th century, and the decline following demobilisation after Waterloo was commented upon by William Cobbett, in his rural ride through Kent in the 1820’s.
-
+<br><br>
 ‘…considerable as the City of Canterbury is, that city, within 
 its gates, stands upon less ground than those horrible erections, the barracks of PITT, DUDDAS and PERCEVAL. 
-They are perfectly enormous; but thanks be unto God, they begin to crumble down… …Here are horse-barracks, foot-barracks, artillery-barracks, engineer-barracks; a whole 
-country of barracks; but only here and there a soldier.’[^ref3]
+They are perfectly enormous; but thanks be unto God, they begin to crumble down… …Here are horse-barracks, foot-barracks, artillery-barracks, engineer-barracks; a whole country of barracks; but only here and there a soldier.’[^ref3]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Royal_Cavalry_Barracks_Canterbury.jpg" label="Royal Cavalry Barracks, Canterbury" attribution="British Library, No restrictions, via Wikimedia Commons">
 
 The Victorian era will always be associated with the railways, and the present station of Canterbury West lies close to the terminus of the first railway to the City. This was the Canterbury and Whitstable Railway – or [Crab and Winkle Line](/canterbury/20c-canterbury-railway) – which was opened in 1830. The line was developed to give Canterbury access to the ‘new’ working port at Whitstable, as navigation on the River Stour had become very restricted by heavy silting. The C & WR was the first railway in Britain to run a scheduled passenger service and offer season tickets to its regular travellers. It was joined to the South Eastern Railway at Canterbury West in 1846.
 <param ve-image url="https://stor.artstor.org/stor/c968b1f6-1fe2-4b97-ba54-488194230fed" label="The Crab and Winkle Railway" attribution="Astrid Stilma, by kind permission of Patrick Marrin"> 

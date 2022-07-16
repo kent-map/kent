@@ -54,6 +54,7 @@
 [Francis Storr](19c-storr-biography)    
 [Netta Syrett](19c-syrett-biography)   
 [Ellen Ternan](19c-ternan-biography)   
+[William Makepeace Thackeray](19c-thackeray-biography)   
 [Queen Victoria](19c-victoria-biography)   
 [Louis Wain](19c-wain-biography)   
 [Ann Walker](19c-walker-biography)   
