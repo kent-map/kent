@@ -14,12 +14,12 @@
 <param ve-entity eid="Q639208" aliases="Bodiam Castle">
 <param ve-entity eid="Q2152461" aliases="Paddock Wood">
 
-Caravanning holiday in Sussex and Kent in the summer of 1907.   
+Caravanning holiday in Sussex and Kent in the summer of 1907.
 <br><br> 
 _‘We journeyed that day towards Canterbury, a town you, my friends, may or may not have heard of. That it is an English town I need not say, for if it were not would we have been going there? And it is chiefly noted, I remembered, for its archbishop.’_
 <param ve-map primary center="Q29303" zoom="10">
 
-_The Caravaners_ follows the German Baron von Ottringel on what is meant to be a month long holiday in Kent with his wife and a group of friends. His selfish behaviour and complete lack of self-awareness provide much of the humour of the novel, but also force his frustrated companions to abort the holiday after only a week.   
+_The Caravaners_ follows the German Baron von Ottringel on what is meant to be a month long holiday in Kent with his wife and a group of friends. His selfish behaviour and complete lack of self-awareness provide much of the humour of the novel, but also force his frustrated companions to abort the holiday after only a week.
 <br><br>
 Published in 1909, Elizabeth von Arnim’s comic novel _The Caravaners_ is reminiscent of [Jerome K. Jerome](/19c/19c-jerome-biography)’s _Three Men in a Boat_ in its loving depiction of holiday disaster. The real holiday on which it is based took place in the wet summer of 1907. The itinerary included Chatham, Leeds Castle, [Sandgate](/placesqz/sandgate-overview/) (to see [H. G. Wells](/20/20c-wellshg-biography)), Great Chart (where they were joined by [E.M. Forster](/20c/20c-forster-em-biography)) Staplehurst, Sissinghurst, (later the home of [Vita Sackville-West](/20c/20c-sackville-west)), Aylesford and Canterbury as well as parts of Sussex. [^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/24/Waterfront_Way%2C_Chatham_-_geograph.org.uk_-_1816619.jpg" label="Chatham" attribution="Waterfront Way, Chatham by Richard Gadsby, CC BY-SA 2.0, via Wikimedia Commons">
