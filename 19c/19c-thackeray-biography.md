@@ -21,7 +21,7 @@ In the summer of 1840 Thackeray and his young family spent three weeks at 1 Brid
 'Up to this point, I say, I have had a right to accompany the fat lady and Miss Runt; but whether, on arriving at Mr Fincham’s, they turned to the left, in the direction of the Royal Hotel, or to the right, by the beach, the bathing-machines, and queer rickety old row of houses, called Buenos Ayres, no power on earth shall induce me to say; suffice it, they went to Mrs Gann’s. why should we set all the world gadding to a particular street, to know where that lady lives?'  
 <param ve-image url="https://stor.artstor.org/stor/0515f138-ee47-4cc9-906b-51cd54fad21c" label="The Picturesque Beauties of Great Britain: Kent. Margate: the Pier and New Lighthouse" attribution="George Virtue. Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
-But while the town was a thriving resort in the 1840s, Ushashi Dasgupta comments that ‘Thackeray’s Margate feels wrong from the very beginning’,  and as readers have noted, the story ends somewhat abruptly. The reason is that Isabella started to show alarming signs of madness. Many years later Annie told her father that on her mother had attempted to drown her in the sea in a moment of mental aberration.  
+But while the town was a thriving resort in the 1840s, Ushashi Dasgupta comments that ‘Thackeray’s Margate feels wrong from the very beginning’,  and as readers have noted, the story ends somewhat abruptly. The reason is that Isabella started to show alarming signs of madness. Many years later Annie told her father that on this holiday her mother had attempted to drown her in the sea in a moment of mental aberration.  
 
 It soon became too difficult to look after Isabella at home, and a letter of 1842 sees Thackeray living apart from his wife and seeking solace in memories of his own childhood. On a working holiday in Southborough, near Tunbridge Wells, he enthused to his mother about ‘the pleasantest greenest place in the world, pleasant woods close at hand, fields on the other side very quiet and happy to walk in’. Sadly the cottage where they had stayed in Tunbridge Wells twenty years before had ‘gone to heaven’.  
 
@@ -29,7 +29,8 @@ Thackeray satirises 18th century Tunbridge Wells in _The Virginians_, set around
 
 ### Bibliography 
 Austen, Jane. _Sanditon_. _Northanger Abbey Lady Susan the Watsons Sanditon._ Oxford: OUP, 2008.   
-Dasgupta, Ushashi. _Charles Dickens and the Properties of Fiction: the Lodger World_. Oxford: OUP, 2020.   
+Dasgupta, Ushashi. _Charles Dickens and the Properties of Fiction: the Lodger World_. Oxford: OUP, 2020.      
+Oulton, Carolyn W. de la L. Down From London: Seaside Reading in the Railway Age. Liverpool: LUP, 2022.   
 Taylor, D. J. _Thackeray_. London: Vintage, 2011.   
 Thackeray, W. M. _Selected Letters of William Makepeace Thackeray_. Ed. Edgar F. Harden. Basingstoke: Palgrave, 1996.   
 --. ‘Tunbridge Toys.’ 312-17. London: Everyman. _A Shabby Genteel Story and Other Writings_. 1993.   
