@@ -6,7 +6,7 @@
 <param ve-entity eid="Q213180" aliases="Maidstone">
 <param ve-entity eid="Q1000115" aliases="Faversham">
 <param ve-entity eid="Q26372738" aliases="Nethersole">
-
+<param ve-entity eid="Q1626044" aliases="Sittingbourne">
 
 
 **Place:** Nethersole, near Canterbury (1783-7)
@@ -43,6 +43,11 @@ The improvement in travelling comfort in the first three or four decades of the 
 'Mr Sloman's professional feat. On Thursday evening Mr Sloman, the spirited manager of this circuit [of theatres], completed his undertaking to perform in three pieces at the Canterbury, Rochester, and Maidstone theatres, within the hours of seven and 12 o'clock. The time of performing in the pieces, at the three theatres, took one hour and 48 minutes, and the time of travelling from Canterbury to Rochester, and from thence to Maidstone (36 post miles), two hours and 27 minutes, making together four hours and 15 minutes. His performances at Canterbury commenced at 7 o'clock, and closed at Maidstone at a quarter past eleven, thus completing his task in 45 minutes less than the time given. Mr Sloman was supplied with horses at the Lion Hotel, Canterbury; the Ship Inn, Faversham; the Rose Inn, Sittingbourne; and the Bull Inn, Rochester. The travelling was done at the rate of nearly 15 miles an hour, over ground by no means the most favourable for travelling. Mr Sloman was warmly greeted and cheered at the different towns he passed through, as also on his arrival at Maidstone, where he had the gratification of finishing his task to a house filled to the ceiling.'[^ref5]
 <br><br>
 For much more prosaic reasons, [Canterbury's musicians](/music) would certainly have appreciated the improvement in travelling conditions.
+<param ve-map center="Q29303" zoom="10">
+<param ve-map center="Q507517" zoom="10">
+<param ve-map center="Q213180" zoom="10">
+<param ve-map center="Q1000115" zoom="10">
+<param ve-map center="Q1626044" zoom="10">
 
 ### References
 
