@@ -1,8 +1,11 @@
-William Makepeace Thackeray (1811-1863)
-By Professor Carolyn Oulton
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="William Makepeace Thackeray (1811-1863)" author="Professor Carolyn Oulton" layout="vtl" 
+banner="/images/banners/19c.jpg">
 
-‘the pleasantest greenest place in the world, pleasant woods close at hand, fields on the other side very quiet and happy to walk in’. 
-		Thackeray on Southborough, near Tunbridge Wells.
+#
+
+‘the pleasantest greenest place in the world, pleasant woods close at hand, fields on the other side very quiet and happy to walk in’. - Thackeray on Southborough, near Tunbridge Wells.
+<br><br>
 
 Educated at Charterhouse and Cambridge, W. M. Thackeray is remembered by many as the author of Vanity Fair (1847) and by some for suggesting that it takes three generations to make a gentleman. He was born in India in 1811, returning to England at the age of 5. As a securely upper-middle class child, he enjoyed a childhood holiday in fashionable Tunbridge Wells in 1823,  just after his near contemporary [Dickens](/dickens), had begun his downward trajectory following the loss of his [father’s](/dickens/dickens-chatham) job at [Chatham Dockyard](/19c/19c-chatham-dockyard).
 Thackeray married Isabella Shawe in 1836. Their first child Anne (Annie) was born in 1837 and later became a successful novelist in her own right. Jane, born in 1838, survived only eight months, and Thackeray’s strained description of ‘gadding to [Gravesend](/19c/19c-gravesend)’  with Isabella in the spring of 1839 was clearly intended to reassure his mother that they were coping. Harriet Marian, born in 1840 and known as Minnie, would become the first wife of Leslie Stephen (later the father of Virginia Woolf).
