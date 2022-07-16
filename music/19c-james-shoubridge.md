@@ -15,10 +15,10 @@ Guildhall concert rooms, Canterbury
 A grand selection of SACRED MUSIC, from HANDEL’S Oratorio of the MESSIAH;    
 HAYDN’S CREATION, &c., &c., will be given by upwards of SEVENTY VOCAL and    
 INSTRUMENTAL PERFORMERS,   
-On Monday evening, November 24, 1834.   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/High_Street%2C_Canterbury%2C_Kent_%28cropped%29.jpg" label="High Street, Canterbury with the Guildhall" attribution="Unknown author, Public domain, via Wikimedia Commons">
-
+On Monday evening, November 24, 1834.
+<br><br>
 The list of vocal soloists is practically identical to that of the Lay Clerks in that year: John Alexander Longhurst, Eastes, Young, James Shoubridge and his brother William, William Palmer and [Dobson](/music/19c-charles-dobson-biography). But Shoubridge conducts, and seems to be at the helm of the society for the rest of his time in [Canterbury](/19c/19c-canterbury).
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/High_Street%2C_Canterbury%2C_Kent_%28cropped%29.jpg" label="High Street, Canterbury with the Guildhall" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 This society seems to have outlasted Shoubridge by nearly twenty years, if the paper is accurate in its 1857 report that:
 <br><br>
@@ -27,7 +27,7 @@ This society seems to have outlasted Shoubridge by nearly twenty years, if the p
 The extent to which this society was able to move with the changing tastes of the times should have been a lesson to the [Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s).
 
 In another most serendipitous touch, James Shoubridge was replaced as Lay Clerk in 1841 by [William Henry Longhurst](/music/19c-william-longhurst-biography), who went on to play such an important role there and in the [Catch Club](/music/19c-catch-club). In fact, this was a technicality, since Longhurst had been ‘admitted to the Choir as Supernumerary & Assistant to Mr Jones, as Master of the Choristers’ in 1836,[^ref6]  continuing unbroken his service to the cathedral since joining as a chorister in 1828.
-
+<param ve-image url="images/Beaney copy - Scaled and adjusted.jpg" label="The Canterbury Catch Club" attribution="Canterbury City Museums">
 
 ### References
 
