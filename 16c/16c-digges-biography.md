@@ -20,7 +20,7 @@ Leonard is credited with the invention of the theodolite, a surveying instrument
 <br><br>
 He is also credited with independently inventing the reflecting telescope, or refracting telescope as part of his theodolite to improve accuracy over long distances of his surveying work.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Pantometria_by_Leonard_Digges_1591.jpg" label="Pantometria by Leonard Digges 1591" attribution="Leonard Digges. Engraver unknown. Printed by Abell Jeffes, London., Public domain, via Wikimedia Commons"> 
-<param ve-map center="Q1836548" zoom="15">
+<param ve-map center="Q1836548" zoom="10">
 
 Digges had responsibility for coastal defence between Dover and Folkestone in 1545 and took part in the unsuccessful rebellion led by the Protestant Thomas Wyatt. He was convicted of high treason and sentenced to death for his part in the rebellion, but he received a pardon in April 1554. His land and goods were taken and he was fined 400 marks.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/09/SirThomasWyatt01.jpg" label="Thomas Wyatt" attribution="Francesco Bartolozzi, Public domain, via Wikimedia Commons">
