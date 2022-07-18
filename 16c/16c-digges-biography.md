@@ -16,7 +16,7 @@
 
 Leonard Digges (c.1515 – c.1559), mathematician and cartographer, was born at Wootton, near Canterbury, the son of James Digges of Digges Court, Barham, and Philippa Egham of Chart. His family were well connected landowners within the county.
 <br><br>
-Leonard is credited with the invention of the theodolite, a surveying instrument that is usually mounted on a tripod with adjustable legs. It is used to obtain precise angular measurements for triangulation and is traditionally used in surveying land, but now has uses in meteorology and rocket launching, as well as building and infrastructure construction. He also invented the reflecting telescope, or refracting telescope as part of his theodolite to improve accuracy over long distances of his surveying work.
+Leonard is credited with the invention of the theodolite, a surveying instrument used to obtain precise angular measurements for triangulation and traditionally used in surveying land. He also invented the reflecting telescope, or refracting telescope as part of his theodolite to improve accuracy over long distances of his surveying work.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Pantometria_by_Leonard_Digges_1591.jpg" label="Pantometria by Leonard Digges 1591" attribution="Leonard Digges. Engraver unknown. Printed by Abell Jeffes, London., Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q1836548" zoom="10">
 
