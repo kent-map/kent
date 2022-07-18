@@ -5,12 +5,12 @@
 <param ve-entity eid="Q8034080" aliases="Wootton">
 <param ve-entity eid="Q2160826" aliases="Cranbrook">
 <param ve-entity eid="Q1836548" aliases="Barham">
-Hartridge
-Dover
-Folkestone
-Chart
-Brome
-Chevening
+<param ve-entity eid="Q26369368" aliases="Hartridge">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q2470003" aliases="Chart">
+<param ve-entity eid="Q105776177" aliases="Brome">
+<param ve-entity eid="Q2297876" aliases="Chevening">
 
 #
 
