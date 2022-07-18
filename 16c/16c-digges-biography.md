@@ -31,3 +31,8 @@ Thomas Digges was the first to explain the Copernican system (an astronomical mo
 
 He was also the first to postulate the dark night sky paradox, which says that if there is an infinite number of stars distributed in an infinitely large space then such a universe would be bright rather than dark e.g. any line of sight from the Earth would end on the surface of a star and so the night sky should be completely illuminated and bright.
 
+### Bibliography
+
+Johnston, Stephen. 'Leonard Digges' _Oxford Dictionary of National Biography_. 2004.
+Johnston, Stephen. 'Thomas Digges' _Oxford Dictionary of National Biography_. 2009.
+
