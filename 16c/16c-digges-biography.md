@@ -15,7 +15,7 @@
 #
 
 **Leonard Digges**   
-Leonard Digges (c.1515 – c.1559), mathematician and cartographer, was the son of James Digges of Digges Court and Brome, Barham, and Philippa Egham of Chart. His father was the High Sheriff of Kent between 1510-11 and his family were substantial landowners. [His father's will https://discovery.nationalarchives.gov.uk/details/r/D949652]
+Leonard Digges (c.1515 – c.1559), mathematician and cartographer, was the son of James Digges of Digges Court and Brome, Barham, and Philippa Egham of Chart. His father was the High Sheriff of Kent between 1510-11 and owned property in Adisham, Ash next Sandwich, Bishopsbourne, Canterbury, Elham, Ewell, Frinsted, Hackington, Kingston, Lenham, Patrixbourne, Sandwich, Sturry, Sutton next Northbourne and Wingham.[^ref1] [His father's will https://discovery.nationalarchives.gov.uk/details/r/D949652]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Pantometria_by_Leonard_Digges_1591.jpg" label="Pantometria by Leonard Digges 1591" attribution="Leonard Digges. Engraver unknown. Printed by Abell Jeffes, London., Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q1836548" zoom="10">
 
@@ -48,6 +48,7 @@ Johnston, Stephen. 'Thomas Digges' _Oxford Dictionary of National Biography_. 20
 
 ### References
 
+[^ref1]: Shoreham Deanery Medieval & Tudor Wills - Book 5
 [^ref]: Johnston, Stephen. 'Leonard Digges' _Oxford Dictionary of National Biography_. 2004.
 [^ref]:  Macdonald, A. 'Plans of Dover Harbour in the Sixteenth century', _Archaeologia Cantiana_ 49. 1937, p.116.
 [^ref]: Johnston, Stephen. 'Thomas Digges' _Oxford Dictionary of National Biography_. 2009.
