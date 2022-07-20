@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Anna Atkins" author="Trinity Barber" layout="vtl" banner="/images/banners/19c.jpg>">
+<param ve-config title="Anna Atkins" author="Trinity Barber" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
@@ -26,7 +26,7 @@ Anna began working with her father in her early 20s, illustrating her father’s
 <param ve-map center="Q6226" zoom="10">
 <param ve-map center="Q26645227" zoom="10">
 
-Through her father's link to the Royal Society, Anna was acquainted with photographer, William Henry Fox Talbot and mathematician, Sir John Herschel who visited her at Halstead Place. Anna was given a camera in 1841, although none of the photos taken with this camera have survived. In 1842, Hershel invented the cyanotype, a photographic process, which later became known as blueprints. Anna began to make cyanotope prints of plants and later published these in her book _Photographs of British Algae: Cyanotype Impressions_ (1843).
+Through her father's link to the Royal Society, Anna was acquainted with photographer, William Henry Fox Talbot and mathematician, Sir John Herschel who visited her at Halstead Place and this ignited her interest in photography. Anna was given a camera in 1841, although none of the photos taken with this camera have survived. In 1842, Hershel invented the cyanotype, a photographic process, which later became known as blueprints. Anna began to make cyanotope prints of plants and later published these in her book _Photographs of British Algae: Cyanotype Impressions_ (1843). She was one of the first women photographers. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" label="Anna Atkins" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
