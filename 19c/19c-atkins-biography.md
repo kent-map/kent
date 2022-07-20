@@ -10,14 +10,14 @@
 
 #
 
-Anna Atkins, botanist, photographer and author, was born on the 16 March 1799, in Tonbridge, the daughter of John George Children, chemist, mineralogist and zoologist and Hester Anna Holwell (1777-1800). Anna's mother died when she was very young and therefore she was raised by her father.
+Anna Atkins, botanist, photographer and author, was born on the 16 March 1799, in Tonbridge, the daughter of John George Children and Hester Anna Holwell. Her father's family had been established in the Tunbridge area from at least the early seventeenth century, with property at Nether Street, Hildenborough and Ferox Hall, Tonbridge. Her mother's familly lived at Southborough, although Hester was raised by her aunt and uncle at Bishop Down's Grove, Tunbridge Wells. [^ref1] Anna's mother died when she was very young and therefore she was raised by her father.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anna_Atkins_1861.jpg" label="Anna Atkins, 1861" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
 
-Anna's father, John George Children (1777-1852) was a respected member of the scientific community, Hhaving even turning his parent’s home, Ferox Hall in Tonbridge, into a laboratory with the aid of his father, then proceeding to construct a large voltaic battery as to test how electricity can be used in chemical analysis. The work he did had brought him into contact with Humphry Davy, one of the greatest scientists of the time, who conducted many experiments as Ferox Hall for 4 years. John Children had made the largest galvanic battery of the time, with each of the plates being 32 square feet in surface. This was recorded in the Phil. Trans in 1815, and Children later received the Royal Institution medal in 1828 for this experiment. Later he then discovered a method of extracting silver from ore without the need for mercury, he was also the founding president of the Royal Entomological Society in 1833 in St Albans and is recognised for their scientific contributions even today. The society was open to all and was even frequented by [Charles Darwin](/19c/darwin-biography) after returning from a voyage, having 117 honorary members and 10 full members in 1849, allowing women to join and even have the same rights as men within the society.
+Anna's father, John George Children (1777-1852) was a  chemist, mineralogist and zoologist and a highly regarded member of the scientific community, Hhaving even turning his parent’s home, Ferox Hall in Tonbridge, into a laboratory with the aid of his father, then proceeding to construct a large voltaic battery as to test how electricity can be used in chemical analysis. The work he did had brought him into contact with Humphry Davy, one of the greatest scientists of the time, who conducted many experiments as Ferox Hall for 4 years. John Children had made the largest galvanic battery of the time, with each of the plates being 32 square feet in surface. This was recorded in the Phil. Trans in 1815, and Children later received the Royal Institution medal in 1828 for this experiment. Later he then discovered a method of extracting silver from ore without the need for mercury, he was also the founding president of the Royal Entomological Society in 1833 in St Albans and is recognised for their scientific contributions even today. The society was open to all and was even frequented by [Charles Darwin](/19c/darwin-biography) after returning from a voyage, having 117 honorary members and 10 full members in 1849, allowing women to join and even have the same rights as men within the society.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" label="John George Children" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
@@ -27,6 +27,8 @@ Anna's father, John George Children (1777-1852) was a respected member of the sc
 
 Anna began working with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck. With her father's link to the Royal Society, she was well acquainted with William Henry Fox Talbot and Sir John Herschel, the inventor of the calotype processes, used famously by Anna Atkins in botany studies, and the photographic process. 
 
+Anna married John Pelly Atkins in Middlesex on 22 August 1825. He was later to become sheriff of Kent.
+
 Anna was gifted a camera in 1841, although none of the photos taken with the camera has survived. Though calotype was of greater interest to Anna, as she implemented calotype into her work in botany, making calotype prints of plants. Anna later self-published these works in 1843 in her book _Photographs of British Algae: Cyanotype Impressions_.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" label="Anna Atkins" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6373" zoom="10">
@@ -34,8 +36,6 @@ Anna was gifted a camera in 1841, although none of the photos taken with the cam
 
 Anna had become the first person to develop a book with photographic images through the use of her calotypes. Not only that, but Anna also catalogued an extensive range of algae and other plants, notably producing three volumes of her book, and supplying specimens to Kew Gardens for a renowned botanist. Books published by Anna are rare as they were published personally and then distributed to the recipients who then bound them themselves. The Horniman is an example of this, being bound into 4 books for each volume that only has seventeen copies that still exist, these being held in places such as the British Library, the Royal Society and Kew Gardens.
 <br><br>
-Anna married John Pelly Atkins in 1825. 
-
 Atkins wrote five novels between 1852 and 1863 including _The Perils of Fashion_, _Murder will Out: a story of real life_, and _A Page from the Peerage_.
 
 Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks. She is buried in St. Margaret's Churchyard.
@@ -46,6 +46,7 @@ Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks. She is buried i
 
 ### References
 
+[^ref1]: Memoir of J. G. Children, esq. ...: including some unpublished poetry by Atkins, Anna, 1799-1871
 [^ref1]: [Photography pioneer: Anna Atkins' algae cyanotypes](https://www.europeana.eu/en/blog/photography-pioneer-anna-atkins-algae-cyanotypes)
 [^ref2]: 'Anna Atkins' [Natural History Museum](https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html#:~:text=Anna%20was%20born%20in%20Kent,worked%20at%20the%20British%20Museum.&text='She%20lost%20her%20mother%20very,her%20father%2C'%20Andrea%20says)
 [^ref3]: 'Anna Atkins' [Britannica.com](https://www.britannica.com/biography/Anna-Atkins)
