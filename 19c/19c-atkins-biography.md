@@ -38,7 +38,7 @@ Anna married John Pelly Atkins in 1825.
 
 Atkins wrote five novels between 1852 and 1863 including _The Perils of Fashion_, _Murder will Out: a story of real life_, and _A Page from the Peerage_.
 
-Anna died on the 9 June 1871, at Halstead Place. She is buried in St. Margaret Churchyard, Halstead
+Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks. She is buried in St. Margaret's Churchyard.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/St_Margaret%27s_Church%2C_Halstead.JPG" label="St Margaret's Church, Halstead" attribution="Jackarias, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-map center="Q188617" zoom="10">
 <param ve-map center="Q23308" zoom="10">
