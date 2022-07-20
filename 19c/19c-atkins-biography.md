@@ -36,6 +36,9 @@ With Anna’s fathers link to the Royal Society, she was well acquainted with Wi
 Anna had become the first person to develop a book with photographic images through the use of her calotypes. Not only that, but Anna also catalogued an extensive range of algae and other plants, notably producing three volumes of her book, and supplying specimens to Kew Gardens for a renowned botanist. Books published by Anna are rare as they were published personally and then distributed to the recipients who then bound them themselves. The Horniman is an example of this, being bound into 4 books for each volume that only has seventeen copies that still exist, these being held in places such as the British Library, the Royal Society and Kew Gardens.
 <br><br>
 Anna married John Pelly Atkins in 1825. 
+
+Atkins wrote five novels between 1852 and 1863 including _The Perils of Fashion_, _Murder will Out: a story of real life_, and _A Page from the Peerage_.
+
 Anna died on the 9 June 1871, in Halstead Place. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3c/Royal_Botanical_Gardens%2C_Kew_20160831.jpg" attribution="Suicasmo, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
 <param ve-map center="Q188617" zoom="10">
