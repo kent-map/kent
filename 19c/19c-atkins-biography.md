@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Anna Atkins" author="Trinity Barber" layout="vtl" banner="/images/banners/16c.jpg">
+<param ve-config title="Anna Atkins" author="Trinity Barber" layout="vtl" banner="/images/banners/19c.jpg>">
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
@@ -14,9 +14,7 @@
 
 #
 
-**Anna Atkins**
-<br><br>
-Anna Atkins, botanist and photographer, was born on the 16 March 1799, in Tonbridge. After her mother’s death when she was young, Anna became close to her father, John George Children, who was a respected scientist.
+Anna Atkins, botanist and photographer, was born on the 16 March 1799, in Tonbridge, the daughter of John George Children (1777-1852), a chemist, mineralogist and zoologist and Hester Anna Holwell (1777-1800). Anna's mother died when she was very young and therefore Anna was raised by her father.
 <br><br>
 Anna first worked with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck. Although scientific work was mostly inaccessible to women of the time, due to her father’s link to the Royal Society and his work at the British Museum she was able to have access to work within botany, as well as due to botany being more open to women than other sciences. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anna_Atkins_1861.jpg" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons">
@@ -41,7 +39,7 @@ Anna died on the 9 June 1871, in Halstead Place.
 
 **John George Children**
 <br><br>
-John George Children, Anna Atkins’s father, was a chemist, mineralogist and zoologist born on the 18 May 1777 in Tonbridge and died on the 1 January 1852 in Halstead. In 1789 he married Hester Anna Holwell, born on the 25 March 1777 in Timberscombe and died 15 November 1800 in Tonbridge, shortly after the birth of Anna Atkins. John then remarried in 1809 to Caroline, the daughter of George Furlong Wise of Woolston but died the following year.Then once again marrying in 1819 to a Mrs. Towers who died in 1839.
+ John then remarried in 1809 to Caroline, the daughter of George Furlong Wise of Woolston but died the following year.Then once again marrying in 1819 to a Mrs. Towers who died in 1839.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
