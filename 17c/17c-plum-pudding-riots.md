@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Plum Pudding Riots" author="Hannah Jennison" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/8/8c/Military_Odyssey_2007_English_Civil_War_Reenactment_-_1259557156.jpg">
 
@@ -11,7 +11,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/8/8c/Military_Odyssey_200
 <param ve-entity title="Parliamentarians" eid="Q1130553">
 <param ve-entity title="battle of Maidstone" eid="Q4871639">
 
-**Christmas conflict forms between the people of Canterbury and the Lord Mayor over new British Puritan rule**
+**Christmas conflict forms between the people of Canterbury and the Lord Mayor over new British Puritan rule**   
 Shopkeepers forced to keep their shops open on Christmas Day fought back against the new rule imposed by the Puritans. The enforced closure, part of the Puritan aim to cancel Christmas, was a rule that was championed by the Lord Mayor of Canterbury, who walked along the streets to encourage shopkeepers to stay open.
 <param ve-image 
        label="Whitefriars Street, Canterbury" 
