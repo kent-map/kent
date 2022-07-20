@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Anna Atkins" author="Trinity Barber" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Anna Atkins (1799-1871)" author="Trinity Barber and Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
@@ -26,12 +26,12 @@ Anna began working with her father in her early 20s, illustrating her father’s
 <param ve-map center="Q6226" zoom="10">
 <param ve-map center="Q26645227" zoom="10">
 
-Through her father's link to the Royal Society, Anna was acquainted with photographer, William Henry Fox Talbot and mathematician, Sir John Herschel who visited her at Halstead Place and this ignited her interest in photography. Anna was given a camera in 1841, although none of the photos taken with this camera have survived. In 1842, Hershel invented the cyanotype, a photographic process, which later became known as blueprints. Anna began to make cyanotope prints of plants and later published these in her book _Photographs of British Algae: Cyanotype Impressions_ (1843). She was one of the first women photographers. 
+Through her father's link to the Royal Society, Anna was acquainted with photographer, William Henry Fox Talbot and mathematician, Sir John Herschel who visited her at Halstead Place and this ignited her interest in photography. Anna was given a camera in 1841, although none of the photos taken with this camera have survived. In 1842, Hershel invented the cyanotype, a photographic process, which later became known as blueprints. Anna began to make cyanotope prints of plants and later published these in her book _Photographs of British Algae: Cyanotype Impressions_ (1843). She was one of the first women photographers and a pioneer of the use of photography in book production.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" label="Anna Atkins" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
 
-Notwithstanding her contribution to photography, Atkins also wrote five novels between 1852 and 1863 including _The Perils of Fashion_, _Murder will Out: a story of real life_, and _A Page from the Peerage_.
+Notwithstanding her contribution to photography, Atkins also wrote five novels between 1852 and 1863 including _The Perils of Fashion_ (1852), which was described by one reviewer as "three volumes of trash that ever brought discredit upon a circulating library"[^ref8], _The Colonel_ (1853)  _Murder will Out: a story of real life_, and _A Page from the Peerage_.
 
 Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks. She is buried in St. Margaret's Churchyard.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/St_Margaret%27s_Church%2C_Halstead.JPG" label="St Margaret's Church, Halstead" attribution="Jackarias, via Wikimedia Commons" license="CC BY-SA 4.0">
@@ -48,6 +48,7 @@ Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks. She is buried i
 [^ref5]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.125-6
 [^ref6]: Schaaf, Larry J. "Atkins [née Children], Anna (1799–1871), botanist and photographic artist." Oxford Dictionary of National Biography.  23. Oxford University Press. Date of access 20 Jul. 2022, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37132>
 [^ref7]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.255.
+[^ref8]: _Wilts and Gloucestershire Standard_ - Saturday 08 May 1852.
 [^ref3]: https://www.royensoc.co.uk/about-us/history/
 [^ref1]: [Photography pioneer: Anna Atkins' algae cyanotypes](https://www.europeana.eu/en/blog/photography-pioneer-anna-atkins-algae-cyanotypes)
 [^ref2]: 'Anna Atkins' [Natural History Museum](https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html#:~:text=Anna%20was%20born%20in%20Kent,worked%20at%20the%20British%20Museum.&text='She%20lost%20her%20mother%20very,her%20father%2C'%20Andrea%20says)
