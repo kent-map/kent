@@ -10,7 +10,7 @@
 
 #
 
-Anna Atkins, botanist and photographer, was born on the 16 March 1799, in Tonbridge, the daughter of John George Children, a chemist, mineralogist and zoologist and Hester Anna Holwell (1777-1800). Anna's mother died when she was very young and therefore Anna was raised by her father.
+Anna Atkins, botanist, photographer and author, was born on the 16 March 1799, in Tonbridge, the daughter of John George Children, chemist, mineralogist and zoologist and Hester Anna Holwell (1777-1800). Anna's mother died when she was very young and therefore she was raised by her father.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anna_Atkins_1861.jpg" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
