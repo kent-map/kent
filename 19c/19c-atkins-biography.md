@@ -11,14 +11,14 @@
 #
 
 Anna Atkins, botanist, photographer and author, was born on the 16 March 1799, in Tonbridge, the daughter of John George Children, chemist, mineralogist and zoologist and Hester Anna Holwell (1777-1800). Anna's mother died when she was very young and therefore she was raised by her father.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anna_Atkins_1861.jpg" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anna_Atkins_1861.jpg" label="Anna Atkins, 1861" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
 
 Anna's father, John George Children (1777-1852) was a respected member of the scientific community, Hhaving even turning his parent’s home, Ferox Hall in Tonbridge, into a laboratory with the aid of his father, then proceeding to construct a large voltaic battery as to test how electricity can be used in chemical analysis. The work he did had brought him into contact with Humphry Davy, one of the greatest scientists of the time, who conducted many experiments as Ferox Hall for 4 years. John Children had made the largest galvanic battery of the time, with each of the plates being 32 square feet in surface. This was recorded in the Phil. Trans in 1815, and Children later received the Royal Institution medal in 1828 for this experiment. Later he then discovered a method of extracting silver from ore without the need for mercury, he was also the founding president of the Royal Entomological Society in 1833 in St Albans and is recognised for their scientific contributions even today. The society was open to all and was even frequented by [Charles Darwin](/19c/darwin-biography) after returning from a voyage, having 117 honorary members and 10 full members in 1849, allowing women to join and even have the same rights as men within the society.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" label="John George Children" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/TransEntSocLond1850Plate10.jpg" attribution="Hewitson 1850, Public domain, via Wikimedia Commons">
