@@ -21,7 +21,7 @@ When Anna was six, her father developed an interested in mineralogy and construc
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10"> 
 
-Anna began working with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck.[^ref6] She married John Pelly Atkins on 22 August 1825. The couple lived in London and Halstead. Like his wife, Atkins shared an interest in science, particularly pneumatic chemistry[^ref7] and supported a proposal to build an atmospheric railway through Kent to be known as the Landowners' Line.[^ref8]
+Anna began working with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck.[^ref6] She married a wealthy merchant John Pelly Atkins on 22 August 1825 who owned land in Halstead, Knockholt and Pratts Bottom. The couple lived in London and Halstead Place. Like his wife, Atkins shared an interest in science, particularly pneumatic chemistry[^ref7] and supported a proposal to build an atmospheric railway through Kent to be known as the Landowners' Line.[^ref8]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/TransEntSocLond1850Plate10.jpg" label="TransEntSocLond1850Plate10" attribution="Hewitson 1850, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6226" zoom="10">
 <param ve-map center="Q26645227" zoom="10">
