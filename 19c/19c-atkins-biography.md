@@ -25,10 +25,9 @@ Anna's father, John George Children (1777-1852) was a respected member of the sc
 <param ve-map center="Q6226" zoom="10">
 <param ve-map center="Q26645227" zoom="10">
 
-Anna first worked with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck. Although scientific work was mostly inaccessible to women of the time, due to her father’s link to the Royal Society and his work at the British Museum she was able to have access to work within botany, as well as due to botany being more open to women than other sciences. 
+Anna began working with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck. With her father's link to the Royal Society, she was well acquainted with William Henry Fox Talbot and Sir John Herschel, the inventor of the calotype processes, used famously by Anna Atkins in botany studies, and the photographic process. 
 
-
-With Anna’s fathers link to the Royal Society, she was well acquainted with William Henry Fox Talbot and Sir John Herschel, the inventor of the calotype processes, used famously by Anna Atkins in botany studies, and the photographic process. Anna was gifted a camera in 1841, although none of the photos taken with the camera has survived. Though calotype was of greater interest to Anna, as she implemented calotype into her work in botany, making calotype prints of plants. Anna later self-published these works in 1843 in her book Photographs of British Algae: Cyanotype Impressions.
+Anna was gifted a camera in 1841, although none of the photos taken with the camera has survived. Though calotype was of greater interest to Anna, as she implemented calotype into her work in botany, making calotype prints of plants. Anna later self-published these works in 1843 in her book _Photographs of British Algae: Cyanotype Impressions_.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" label="Anna Atkins" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
