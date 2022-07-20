@@ -21,7 +21,7 @@ When Anna was six, her father developed an interested in mineralogy and construc
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10"> 
 
-Anna began working with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck.[^ref6] She married John Pelly Atkins on 22 August 1825. The couple lived in London and Halstead. Like his wife, Atkins shared an interest in science, particularly pneumatic chemistry.[^ref7]
+Anna began working with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck.[^ref6] She married John Pelly Atkins on 22 August 1825. The couple lived in London and Halstead. Like his wife, Atkins shared an interest in science, particularly pneumatic chemistry[^ref7] and supported a proposal to build an atmospheric railway through Kent to be known as the Landowners' Line.[^ref8]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/TransEntSocLond1850Plate10.jpg" label="TransEntSocLond1850Plate10" attribution="Hewitson 1850, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6226" zoom="10">
 <param ve-map center="Q26645227" zoom="10">
@@ -31,7 +31,7 @@ Through her father's link to the Royal Society, Anna was acquainted with photogr
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
 
-Notwithstanding her contribution to photography, Atkins also wrote five novels between 1852 and 1863 including _The Perils of Fashion_ (1852), which was described by one reviewer as "three volumes of trash that ever brought discredit upon a circulating library"[^ref8], _The Colonel_ (1853)  _Murder will Out: a story of real life_ (1859), and _A Page from the Peerage_ (1863).
+Notwithstanding her contribution to photography, Atkins also wrote five novels between 1852 and 1863 including _The Perils of Fashion_ (1852), which was described by one reviewer as "three volumes of trash that ever brought discredit upon a circulating library"[^ref9], _The Colonel_ (1853)  _Murder will Out: a story of real life_ (1859), and _A Page from the Peerage_ (1863).
 <br><br>
 Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks. She is buried in St. Margaret's Churchyard.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/St_Margaret%27s_Church%2C_Halstead.JPG" label="St Margaret's Church, Halstead" attribution="Jackarias, via Wikimedia Commons" license="CC BY-SA 4.0">
@@ -48,7 +48,8 @@ Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks. She is buried i
 [^ref5]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.125-6
 [^ref6]: Schaaf, Larry J. "Atkins [née Children], Anna (1799–1871), botanist and photographic artist." Oxford Dictionary of National Biography.  23. Oxford University Press. Date of access 20 Jul. 2022, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37132>
 [^ref7]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.255.
-[^ref8]: _Wilts and Gloucestershire Standard_ - Saturday 08 May 1852.
+[^ref8]: Kent Archives Catalogue https://www.kentarchives.org.uk/collections/getrecord/GB51_U969
+[^ref9]: _Wilts and Gloucestershire Standard_ - Saturday 08 May 1852.
 [^ref3]: https://www.royensoc.co.uk/about-us/history/
 [^ref1]: [Photography pioneer: Anna Atkins' algae cyanotypes](https://www.europeana.eu/en/blog/photography-pioneer-anna-atkins-algae-cyanotypes)
 [^ref2]: 'Anna Atkins' [Natural History Museum](https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html#:~:text=Anna%20was%20born%20in%20Kent,worked%20at%20the%20British%20Museum.&text='She%20lost%20her%20mother%20very,her%20father%2C'%20Andrea%20says)
