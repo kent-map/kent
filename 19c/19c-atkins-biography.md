@@ -33,28 +33,23 @@ With Anna’s fathers link to the Royal Society, she was well acquainted with Wi
 Anna had become the first person to develop a book with photographic images through the use of her calotypes. Not only that, but Anna also catalogued an extensive range of algae and other plants, notably producing three volumes of her book, and supplying specimens to Kew Gardens for a renowned botanist. Books published by Anna are rare as they were published personally and then distributed to the recipients who then bound them themselves. The Horniman is an example of this, being bound into 4 books for each volume that only has seventeen copies that still exist, these being held in places such as the British Library, the Royal Society and Kew Gardens.
 <br><br>
 Anna married John Pelly Atkins in 1825. 
+Anna died on the 9 June 1871, in Halstead Place. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3c/Royal_Botanical_Gardens%2C_Kew_20160831.jpg" attribution="Suicasmo, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
 <param ve-map center="Q188617" zoom="10">
 <param ve-map center="Q23308" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
 
-
 **John George Children**
 <br><br>
 John George Children, Anna Atkins’s father, was a chemist, mineralogist and zoologist born on the 18 May 1777 in Tonbridge and died on the 1 January 1852 in Halstead. In 1789 he married Hester Anna Holwell, born on the 25 March 1777 in Timberscombe and died 15 November 1800 in Tonbridge, shortly after the birth of Anna Atkins. John then remarried in 1809 to Caroline, the daughter of George Furlong Wise of Woolston but died the following year.Then once again marrying in 1819 to a Mrs. Towers who died in 1839.
-
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
-<br><br>
 
 John George Children was a respected member of the scientific community, Having even turning his parent’s home, Ferox Hall, into a laboratory with the aid of his father, then proceeding to construct a large voltaic battery as to test how electricity can be used in chemical analysis. The work he did had brought him into contact with Humphry Davy, one of the greatest scientists of the time, who conducted many experiments as Ferox Hall for 4 years. John Children had made the largest galvanic battery of the time, with each of the plates being 32 square feet in surface. This was recorded in the Phil. Trans in 1815, and Children later received the Royal Institution medal in 1828 for this experiment. Later he then discovered a method of extracting silver from ore without the need for mercury, he was also the founding president of the Royal Entomological Society in 1833 in St Albans and is recognised for their scientific contributions even today. The society was open to all and was even frequented by [Charles Darwin](/19c/darwin-biography) after returning from a voyage, having 117 honorary members and 10 full members in 1849, allowing women to join and even have the same rights as men within the society.
-<br><br>
-Anna died on the 9 June 1871, in Halstead Place. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/TransEntSocLond1850Plate10.jpg" attribution="Hewitson 1850, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6226" zoom="10">
 <param ve-map center="Q26645227" zoom="10">
-
 
 ### References
 
