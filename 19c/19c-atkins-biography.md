@@ -21,7 +21,7 @@ Anna's father, John George Children (1777-1852) was a respected member of the sc
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" label="John George Children" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/TransEntSocLond1850Plate10.jpg" attribution="Hewitson 1850, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/TransEntSocLond1850Plate10.jpg" label="TransEntSocLond1850Plate10" attribution="Hewitson 1850, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6226" zoom="10">
 <param ve-map center="Q26645227" zoom="10">
 
@@ -29,7 +29,7 @@ Anna first worked with her father in her early 20s, illustrating her father’s 
 
 
 With Anna’s fathers link to the Royal Society, she was well acquainted with William Henry Fox Talbot and Sir John Herschel, the inventor of the calotype processes, used famously by Anna Atkins in botany studies, and the photographic process. Anna was gifted a camera in 1841, although none of the photos taken with the camera has survived. Though calotype was of greater interest to Anna, as she implemented calotype into her work in botany, making calotype prints of plants. Anna later self-published these works in 1843 in her book Photographs of British Algae: Cyanotype Impressions.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" label="Anna Atkins" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
 
