@@ -19,27 +19,19 @@ Anna Atkins, botanist, photographer and author, was born on the 16 March 1799, i
 When Anna was six, her father developed an interested in mineralogy and constructed a large voltaic battery to test how electricity can be used in chemical analysis at Ferox Hall. Along with the scientist, Humphry Davy, Children conducted many experiments at his home between 1808-12,[^ref3] eventually creating a large galvanic battery with plates measuring 32 square feet. Davy also describes "some experiments made on the action of tellurium and potassium in the laboratory of my friend John George Children, Esq., of Tunbridge" which he conducted in 1809.[^ref4] At around this time Anna was sent away to school. After 1812, the failure of the Tonbridge Bank impacted heavily on Children's work and he set up a gunpowder business with Davy to help pay the bills. Davy nearly met with an accident when the "new and very extraordinary detonating compound" he had created exploded.[^ref5] A gunpowder mill was opened at Ramhurst, however, a disagreement between the two men led Davy to withdraw from the business and Children was declared bankrupt. It was about this time that Anna was withdrawn from school after an illness. In 1816, Anna's family home, Ferox Hall, was sold. Children took the post of assistant librarian in the department of antiquities at the British Museum in London. Anna went to stay with relatives at Hickling in Nottinghamshire until a family home was established in Chelsea.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" label="John George Children" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
-<param ve-map center="Q99678204" zoom="10" 
+<param ve-map center="Q99678204" zoom="10"> 
 
-Anna began working with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck.[^ref6] She married John Pelly Atkins on 22 August 1825. Like his wife, Atkins shared an interest in science, particularly pneumatic chemistry.[^ref7]
-       
-Anna become a member of the Botanical Society of London.[^ref6]
-
+Anna began working with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck.[^ref6] She married John Pelly Atkins on 22 August 1825. The couple lived in London and Halstead. Like his wife, Atkins shared an interest in science, particularly pneumatic chemistry.[^ref7]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/TransEntSocLond1850Plate10.jpg" label="TransEntSocLond1850Plate10" attribution="Hewitson 1850, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6226" zoom="10">
 <param ve-map center="Q26645227" zoom="10">
 
-
-
-Anna was given a camera in 1841, although none of the photos taken with this camera have survived. Through her father's link to the Royal Society, she was well acquainted with William Henry Fox Talbot and Sir John Herschel, who invented the cyanotype in 1842, and who visited her at her home.
-Though calotype was of greater interest to Anna, as she implemented calotype into her work in botany, making calotype prints of plants. Anna later self-published these works in 1843 in her book _Photographs of British Algae: Cyanotype Impressions_.
+Through her father's link to the Royal Society, Anna was acquainted with photographer, William Henry Fox Talbot and mathematician, Sir John Herschel who visited her at Halstead Place. Anna was given a camera in 1841, although none of the photos taken with this camera have survived. In 1842, Hershel invented the cyanotype, a photographic process, which later became known as blueprints. Anna began to make cyanotope prints of plants and later published these in her book _Photographs of British Algae: Cyanotype Impressions_ (1843).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" label="Anna Atkins" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
 
-Anna had become the first person to develop a book with photographic images through the use of her calotypes. Not only that, but Anna also catalogued an extensive range of algae and other plants, notably producing three volumes of her book, and supplying specimens to Kew Gardens for a renowned botanist. 
-<br><br>
-Atkins wrote five novels between 1852 and 1863 including _The Perils of Fashion_, _Murder will Out: a story of real life_, and _A Page from the Peerage_.
+Notwithstanding her contribution to photography, Atkins also wrote five novels between 1852 and 1863 including _The Perils of Fashion_, _Murder will Out: a story of real life_, and _A Page from the Peerage_.
 
 Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks. She is buried in St. Margaret's Churchyard.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/St_Margaret%27s_Church%2C_Halstead.JPG" label="St Margaret's Church, Halstead" attribution="Jackarias, via Wikimedia Commons" license="CC BY-SA 4.0">
