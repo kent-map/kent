@@ -1,30 +1,17 @@
-<param ve-config 
-       title="Plum Pudding Riots: Chaos in Canterbury"
-       author="Hannah"
-       banner="https://upload.wikimedia.org/wikipedia/commons/8/8c/Military_Odyssey_2007_English_Civil_War_Reenactment_-_1259557156.jpg" 
-       layout="vertical">
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Plum Pudding Riots" author="Hannah Jennison" layout="vtl" 
+banner="https://upload.wikimedia.org/wikipedia/commons/8/8c/Military_Odyssey_2007_English_Civil_War_Reenactment_-_1259557156.jpg">
+
+#
 
 <param ve-entity title="Canterbury" eid="Q29303">
-<param ve-entity title="Christmas Day" eid="Q2703710">
-<param ve-entity title="1647" eid="Q6935">
-<param ve-entity title="Christmas" eid="Q19809">
-<param ve-entity title="Lord Mayor" eid="Q11902879">
-<param ve-entity title="British" eid="Q842438">
-<param ve-entity title="Puritan" eid="Q137073">
 <param ve-entity title="pikemen" eid="Q1778520">
 <param ve-entity title="Oliver Cromwell" eid="Q44279">
-<param ve-entity title="Roman Catholic" eid="Q7361618">
-<param ve-entity title="Norwich" eid="Q130191">
-<param ve-entity title="Ipswich" eid="Q184775">
-<param ve-entity title="Kent" eid="Q23298">
-<param ve-entity title="grand jury" eid="Q1323789">
 <param ve-entity title="Royalists" eid="Q2284765">
 <param ve-entity title="Parliamentarians" eid="Q1130553">
 <param ve-entity title="battle of Maidstone" eid="Q4871639">
 
-## Christmas Day 1647
-### Christmas conflict forms between the people of Canterbury and the Lord Mayor over new British Puritan rule
-
+**Christmas conflict forms between the people of Canterbury and the Lord Mayor over new British Puritan rule**
 Shopkeepers forced to keep their shops open on Christmas Day fought back against the new rule imposed by the Puritans. The enforced closure, part of the Puritan aim to cancel Christmas, was a rule that was championed by the Lord Mayor of Canterbury, who walked along the streets to encourage shopkeepers to stay open.
 <param ve-image 
        label="Whitefriars Street, Canterbury" 
