@@ -31,8 +31,8 @@ Through her father's link to the Royal Society, Anna was acquainted with photogr
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
 
-Notwithstanding her contribution to photography, Atkins also wrote five novels between 1852 and 1863 including _The Perils of Fashion_ (1852), which was described by one reviewer as "three volumes of trash that ever brought discredit upon a circulating library"[^ref8], _The Colonel_ (1853)  _Murder will Out: a story of real life_, and _A Page from the Peerage_.
-
+Notwithstanding her contribution to photography, Atkins also wrote five novels between 1852 and 1863 including _The Perils of Fashion_ (1852), which was described by one reviewer as "three volumes of trash that ever brought discredit upon a circulating library"[^ref8], _The Colonel_ (1853)  _Murder will Out: a story of real life_ (1859), and _A Page from the Peerage_ (1863).
+<br><br>
 Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks. She is buried in St. Margaret's Churchyard.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/St_Margaret%27s_Church%2C_Halstead.JPG" label="St Margaret's Church, Halstead" attribution="Jackarias, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-map center="Q188617" zoom="10">
