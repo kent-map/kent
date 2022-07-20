@@ -4,24 +4,23 @@
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
-<param ve-entity eid="Q6373" aliases="the British Museum">
 <param ve-entity eid="Q2035885" aliases="Halstead">
 <param ve-entity eid="Q26645227" aliases="Ferox Hall">
 
 #
 
-Anna Atkins, botanist, photographer and author, was born on the 16 March 1799, in Tonbridge, the daughter of John George Children (1777-1852) and Hester Anna Holwell. Her father's family had been established in the Tunbridge area from at least the early seventeenth century, with property at Nether Street, Hildenborough and Ferox Hall, Tonbridge. Her mother's family lived at Southborough, although Hester was raised by her aunt and uncle at Bishop Down's Grove, Tunbridge Wells. [^ref1] Anna's birth was difficult and afterwards Hester was "conveyed in a bed carriage to Hastings, from whence she never returned alive".[^ref2] At the age of 20 months old, Anna was motherless; her father in his grief went travelling, leaving her with family for two years. 
+Anna Atkins, botanist, photographer and author, was born on the 16 March 1799, in Tonbridge, the daughter of John George Children (1777-1852) and Hester Anna Holwell. Her father's family had been established in the Tunbridge area from at least the early seventeenth century, with property at Nether Street, Hildenborough and Ferox Hall, Tonbridge. Her mother's family lived at Southborough, although Hester was raised by her aunt and uncle at Bishop Down's Grove, Tunbridge Wells. [^ref1] Anna's birth was difficult and afterwards Hester was "conveyed in a bed carriage to Hastings, from whence she never returned alive".[^ref2] At the age of 20 months old, Anna was motherless; her father in his grief went travelling, leaving her with her grandfather during the early years of her life. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anna_Atkins_1861.jpg" label="Anna Atkins, 1861" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
 
-When Anna was six, her father developed an interested in mineralogy and constructed a large voltaic battery to test how electricity can be used in chemical analysis. Along with the scientist, Humphry Davy, Children conducted many experiments at Ferox Hall between 1808-12[^ref3], eventually creating a large galvanic battery with plates measuring 32 square feet. Davy also describes "some experiments made on the action of tellurium and potassium in the laboratory of my friend John George Children, Esq., of Tunbridge" which he conducted in 1809.[^ref4] After 1812, the failure of the Tonbridge Bank impacted heavily on Children's work and he set up a gunpowder business with Davy to help pay the bills. However, a disagreement between the two men led to Davy withdrawing from the business and Children was declared bankrupt. In 1816, Anna's family home, Ferox Hall, was sold.
+When Anna was six, her father developed an interested in mineralogy and constructed a large voltaic battery to test how electricity can be used in chemical analysis at Ferox Hall. Along with the scientist, Humphry Davy, Children conducted many experiments at his home between 1808-12,[^ref3] eventually creating a large galvanic battery with plates measuring 32 square feet. Davy also describes "some experiments made on the action of tellurium and potassium in the laboratory of my friend John George Children, Esq., of Tunbridge" which he conducted in 1809.[^ref4] At around this time Anna was sent away to school. After 1812, the failure of the Tonbridge Bank impacted heavily on Children's work and he set up a gunpowder business with Davy to help pay the bills. Davy nearly met with an accident when the "new and very extraordinary detonating compound" he had created exploded.[^ref5] A gunpowder mill was opened at Ramhurst, however, a disagreement between the two men led Davy to withdraw from the business and Children was declared bankrupt. It was about this time that Anna was withdrawn from school after an illness. In 1816, Anna's family home, Ferox Hall, was sold. Children took the post of assistant librarian in the department of antiquities at the British Museum in London. Anna went to stay with relatives in Nottinghamshire until a family home was established at Staines, then shortly after this at Long Acre, then later Chelsea.
 
-In 1828,  Children received the Royal Institution medal for this experiment. Later he discovered a method of extracting silver from ore without the need for mercury.  He  was the founding president of the Royal Entomological Society which was established in 1833 for the promotion of the science of entomology.[^ref4] The society allowed female members, received a visit from [Charles Darwin](/19c/darwin-biography) after returning from a voyage, having 117 honorary members and 10 full members in 1849, allowing women to join and even have the same rights as men within the society.and in 1807 he became a Fellow of the Royal Society. He was to inspire Anna's love of science.
+Anna began working with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck. She married John Pelly Atkins on 22 August 1825, but continued her interest in science, becoming a member of the Botanical Society of London.[^ref6]
 
-Anna's father, John George Children (1777-1852) was a  chemist, mineralogist and zoologist and a highly regarded member of the scientific community, Hhaving even turning his parent’s home, Ferox Hall in Tonbridge, into a laboratory with the aid of his father, 
+He  was the founding president of the Royal Entomological Society which was established in 1833 for the promotion of the science of entomology.[^ref4] The society allowed female members, received a visit from [Charles Darwin](/19c/darwin-biography) after returning from a voyage, having 117 honorary members and 10 full members in 1849, allowing women to join and even have the same rights as men within the society.and in 1807 he became a Fellow of the Royal Society. He was to inspire Anna's love of science.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" label="John George Children" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
@@ -29,8 +28,7 @@ Anna's father, John George Children (1777-1852) was a  chemist, mineralogist and
 <param ve-map center="Q6226" zoom="10">
 <param ve-map center="Q26645227" zoom="10">
 
-Anna married John Pelly Atkins, who was later to become sheriff of Kent on 22 August 1825.  
-Anna began working with her father in her early 20s, illustrating her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck. 
+
 
 Anna was given a camera in 1841, although none of the photos taken with this camera have survived. Through her father's link to the Royal Society, she was well acquainted with William Henry Fox Talbot and Sir John Herschel, who invented the cyanotype in 1842, and who visited her at her home.
 Though calotype was of greater interest to Anna, as she implemented calotype into her work in botany, making calotype prints of plants. Anna later self-published these works in 1843 in her book _Photographs of British Algae: Cyanotype Impressions_.
@@ -54,6 +52,8 @@ Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks. She is buried i
 [^ref2]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.29.
 [^ref3]: Forgan, Sophie. "Children, John George (1777–1852), chemist." [Oxford Dictionary of National Biography](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5299)  Oxford University Press. Date of access 20 Jul. 2022, 
 [^ref4]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.72.
+[^ref5]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.125-6
+[^ref6]: Schaaf, Larry J. "Atkins [née Children], Anna (1799–1871), botanist and photographic artist." Oxford Dictionary of National Biography.  23. Oxford University Press. Date of access 20 Jul. 2022, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37132>
 [^ref3]: https://www.royensoc.co.uk/about-us/history/
 [^ref1]: [Photography pioneer: Anna Atkins' algae cyanotypes](https://www.europeana.eu/en/blog/photography-pioneer-anna-atkins-algae-cyanotypes)
 [^ref2]: 'Anna Atkins' [Natural History Museum](https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html#:~:text=Anna%20was%20born%20in%20Kent,worked%20at%20the%20British%20Museum.&text='She%20lost%20her%20mother%20very,her%20father%2C'%20Andrea%20says)
