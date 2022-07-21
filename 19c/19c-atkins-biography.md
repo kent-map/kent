@@ -38,7 +38,7 @@ Developing an interest in algae after reading _Manual of British Algae_ (1841) b
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
 
-Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks and is buried in St. Margaret's Churchyard. Sir John Hershell, her friend and inspiration, had died a month earlier at his home Collingwood, near Hawkhurst.  Anna's obituary describes her as an "amiable and benevolent lady"[^ref15], but her early experimentation in photography is not mentioned.
+Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks and is buried in St. Margaret's Churchyard. Sir John Hershel, her friend and inspiration, had died a month earlier at his home Collingwood, near Hawkhurst.  Anna's obituary describes her as an "amiable and benevolent lady"[^ref15], but her early experimentation in photography is not mentioned.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/St_Margaret%27s_Church%2C_Halstead.JPG" label="St Margaret's Church, Halstead" attribution="Jackarias, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-map center="Q188617" zoom="15">
 <param ve-map center="Q23308" zoom="15">
