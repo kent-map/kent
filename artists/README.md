@@ -42,13 +42,22 @@ William Dyce (1806-1864) took his young family on holiday to Ramsgate in 1858, a
 Gould, who was born in Ramsgate, contributed invaluably to the world of ornithological illustration. 
 
 ##
-**[Donald Maxwell](/20c/20c-maxwelld-biography/)**
+**[Donald Maxwell](/20c/20c-maxwelld-biography)**
 
 - author: Professor Peter Vujakovic
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/45/%27Our_fathers_have_told_us%27_%2C_HMS_%27Actaeon%27%2C_1918_RMG_PU6219.jpg)
 
 Maxwell used his writing and illustration to infuse the industrial and everyday with a sense of the exotic or the magical. 
+
+##
+**[Paul Nash](20c-nash-biography)**
+
+- author: Professor 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/45/%27Our_fathers_have_told_us%27_%2C_HMS_%27Actaeon%27%2C_1918_RMG_PU6219.jpg)
+
+
 
 ##
 **[Dante Gabriel Rossetti](/19c/19c-rossetti-biography)**
