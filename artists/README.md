@@ -53,11 +53,11 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 ##
 **[Paul Nash](20c-nash-biography)**
 
-- author: Professor 
+- author: Professor Phil Hubbard
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/45/%27Our_fathers_have_told_us%27_%2C_HMS_%27Actaeon%27%2C_1918_RMG_PU6219.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/95/Dymchurch_-_The_Strange_Coast_by_Paul_Nash_-_Paul_Nash_-_ABDAG000153.jpg)
 
-
+Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. 
 
 ##
 **[Dante Gabriel Rossetti](/19c/19c-rossetti-biography)**
