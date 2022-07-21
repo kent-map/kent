@@ -30,6 +30,7 @@
 [Derek Jarman](20c-jarman-biography)   
 [Somerset Maugham](20c-maugham-biography)  
 [Donald Maxwell](20c-maxwelld-biography)   
+[Paul Nash](20c-nash-biography)   
 [Baroness Orczy](20c-orczy-biography)   
 [Marian Fielding Peck](20c-peck-biography)   
 [Mary L. Pendered](20c-pendered-biography)   

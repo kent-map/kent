@@ -190,6 +190,13 @@ Arriving in East Kent two days before her second birthday, Diana Hirst has been 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/katieholdway.JPG)
 
 Dr Katie Holdway is a Research Fellow in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, _Romance, Revolution & Reform_ and a member of the Dickens Society Communications Committee.
+
+##
+[**Phil Hubbard**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5f1913f8-1060-4587-b31d-aedaa3f90007)
+
+Phil Hubbard is Professor of Urban Studies and leader of the Urban Futures group at King’s College London. His work bridges sociology, geography and legal studies, and has focused on issues of urban social change, with a recent focus on the Kent coast. _Borderland: identity and belonging at the edge of England_ was published in June 2022 by Manchester University Press, with his royalty going to the Kent Refugee Action Network.
     
 ##
 [**Alyson Hunt**]()
