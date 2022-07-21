@@ -10,7 +10,7 @@
 <param ve-entity eid="Q2220232" aliases="Hildenborough">
 <param ve-entity eid="Q2048526" aliases="Southborough">
 <param ve-entity eid="Q2744669" aliases="Hawkhurst">
-<param ve-entity eid="Q17545758 " aliases="Ramhurst">
+<param ve-entity eid="Q17545758" aliases="Ramhurst">
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
 
