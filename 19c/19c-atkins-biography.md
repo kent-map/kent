@@ -7,7 +7,9 @@
 <param ve-entity eid="Q2035885" aliases="Halstead">
 <param ve-entity eid="Q26645227" aliases="Ferox Hall">
 <param ve-entity eid="Q122384" aliases="Pratts Bottom">
-<param ve-entity eid="Q2050835" aliases=Knockholt">
+<param ve-entity eid="Q2050835" aliases="Knockholt">
+Q2220232 Hildenborough
+Southborough
 
 #
 
