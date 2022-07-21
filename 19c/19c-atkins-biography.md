@@ -10,7 +10,7 @@
 <param ve-entity eid="Q2220232" aliases="Hildenborough">
 <param ve-entity eid="Q2048526" aliases="Southborough">
 <param ve-entity eid="Q2744669" aliases="Hawkhurst">
-<param ve-entity eid="Q17545758 " aliases="Ramhurst">
+<param ve-entity eid="Q17545758" aliases="Ramhurst">
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
 
@@ -18,10 +18,10 @@
 
 Anna Atkins, botanist, photographer and author, was born on the 16 March 1799, in Tonbridge, the daughter of John George Children (1777-1852) and Hester Anna Holwell. Her father's family had been established in the Tunbridge area from at least the early seventeenth century, with property at Nether Street, Hildenborough and Ferox Hall, Tonbridge. Her mother's family lived at Southborough, although Hester was raised by her aunt and uncle at Bishop Down's Grove, Tunbridge Wells. [^ref1] Anna's birth was difficult and afterwards Hester was "conveyed in a bed carriage to Hastings, from whence she never returned alive".[^ref2] At the age of 20 months old, Anna was motherless; her father in his grief went travelling, leaving her with her grandfather during the early years of her life. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anna_Atkins_1861.jpg" label="Anna Atkins, 1861" attribution="Unknown author, Public domain, via Wikimedia Commons">
-<param ve-map center="Q936183" zoom="10">
-<param ve-map center="Q99678204" zoom="10">
-<param ve-map center="Q2220232" zoom="10">
-<param ve-map center="Q2048526" zoom="10">
+<param ve-map center="Q936183" zoom="12">
+<param ve-map center="Q99678204" zoom="12">
+<param ve-map center="Q2220232" zoom="12">
+<param ve-map center="Q2048526" zoom="12">
 
 When Anna was six, her father developed an interested in mineralogy and constructed a large voltaic battery to test how electricity can be used in chemical analysis at Ferox Hall. Along with the scientist, Humphry Davy, Children conducted many experiments at his home between 1808-12,[^ref3] eventually creating a large galvanic battery with plates measuring 32 square feet. Davy also describes "some experiments made on the action of tellurium and potassium in the laboratory of my friend John George Children, Esq., of Tunbridge" which he conducted in 1809.[^ref4] At around this time Anna was sent away to school. After 1812, the failure of the Tonbridge Bank impacted heavily on Children's work and he set up a gunpowder business with Davy to help pay the bills. Davy nearly met with an accident when the 'new and very extraordinary detonating compound' he had created exploded.[^ref5] A gunpowder mill was opened at Ramhurst, however, a disagreement between the two men led Davy to withdraw from the business and Children was declared bankrupt. It was about this time that Anna was withdrawn from school after an illness. In 1816, Anna's family home, Ferox Hall, was sold. Children took the post of assistant librarian in the department of antiquities at the British Museum in London. Anna went to stay with relatives at Hickling in Nottinghamshire until a family home was established in Chelsea.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" label="John George Children" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
