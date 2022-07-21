@@ -33,12 +33,12 @@ Anna began working with her father in her early 20s, producing 250 engravings fo
 <param ve-map center="Q6226" zoom="10">
 <param ve-map center="Q26645227" zoom="10">
 
-Developing an interest in algae after reading _Manual of British Algae_ (1841) by William Henry Harvey, Anna decided to illustrate the work for family and friends.[^ref9] Through her father's link to the Royal Society, Anna was acquainted with photographer, William Henry Fox Talbot and mathematician, Sir John Herschel who visited her at Halstead Place and this ignited her interest in photography. It is quite possible that she was inspired by Fox Talbot who said that paper photography might allow “every man” to be his own printer/publisher.[^ref9] Anna was given a camera by her father in 1841, although none of the photos taken with this camera have survived.[^ref10] In 1842, Hershel invented the cyanotype, a photographic process, which later became known as blueprints. Recognising the difficulty of accurately drawing algae and confervae[^ref10],  Anna began to make cyanotope prints of seaweed and plants and later published these in her book _Photographs of British Algae: Cyanotype Impressions_ (1843). She continued this work over the next decade, making prints of ferns and foreign speices.  She was one of the first women photographers and a pioneer of the use of photography in book production. Her friendship with the Herschel family continued throughout her life and Hershell's daughter Margaret, who was an artist, visited Anna in 1861.[^ref11]
+Developing an interest in algae after reading _Manual of British Algae_ (1841) by William Henry Harvey, Anna decided to illustrate the work for family and friends.[^ref9] Through her father's link to the Royal Society, Anna was acquainted with photographer, William Henry Fox Talbot and mathematician, Sir John Herschel who visited her at Halstead Place and this ignited her interest in photography. It is quite possible that she was inspired by Fox Talbot who said that paper photography might allow “every man” to be his own printer/publisher.[^ref10] Anna was given a camera by her father in 1841, although none of the photos taken with this camera have survived.[^ref11] In 1842, Hershel invented the cyanotype, a photographic process, which later became known as blueprints. Recognising the difficulty of accurately drawing algae and confervae[^ref12],  Anna began to make cyanotope prints of seaweed and plants and later published these in her book _Photographs of British Algae: Cyanotype Impressions_ (1843). She continued this work over the next decade, making prints of ferns and foreign speices.  She was one of the first women photographers and a pioneer of the use of photography in book production.[^ref13] Her friendship with the Herschel family continued throughout her life and Hershell's daughter Margaret, who was an artist, visited Anna in 1861.[^ref14]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" label="Anna Atkins" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6373" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
 
-Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks and is buried in St. Margaret's Churchyard. Sir John Hershell, her friend and inspiration, had died a month earlier at his home Collingwood, near Hawkhurst.  Anna's obituary describes her as an "amiable and benevolent lady"[^ref13], but her early experimentation in photography is not mentioned.
+Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks and is buried in St. Margaret's Churchyard. Sir John Hershell, her friend and inspiration, had died a month earlier at his home Collingwood, near Hawkhurst.  Anna's obituary describes her as an "amiable and benevolent lady"[^ref15], but her early experimentation in photography is not mentioned.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/St_Margaret%27s_Church%2C_Halstead.JPG" label="St Margaret's Church, Halstead" attribution="Jackarias, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-map center="Q188617" zoom="15">
 <param ve-map center="Q23308" zoom="15">
@@ -54,17 +54,10 @@ Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks and is buried in
 [^ref6]: Schaaf, Larry J. "Atkins [née Children], Anna (1799–1871), botanist and photographic artist." [Oxford Dictionary of National Biography](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37132). Oxford University Press. Accessed: 20 July 2022. 
 [^ref7]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.255.
 [^ref8]: Kent Archives Catalogue https://www.kentarchives.org.uk/collections/getrecord/GB51_U969
-[^ref9]:
-[^ref9]: _Artweek_  1986-12-27: Vol 17 Iss 44. 
-[^ref10]:
-[^ref10]: Snyder, Laura J. _The Philiosophical Breakfast Club_ New York: Random House, 2011, p.288.  
-[^ref11]: 1861 Census
-[^ref12]: _Wilts and Gloucestershire Standard_ - Saturday 08 May 1852.
-[^ref13]: _Maidstone Journal and Kentish Advertiser_ - Monday 19 June 1871
-
-[^ref13]: https://www.royensoc.co.uk/about-us/history/
-[^ref1]: [Photography pioneer: Anna Atkins' algae cyanotypes](https://www.europeana.eu/en/blog/photography-pioneer-anna-atkins-algae-cyanotypes)
-[^ref2]: 'Anna Atkins' [Natural History Museum](https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html#:~:text=Anna%20was%20born%20in%20Kent,worked%20at%20the%20British%20Museum.&text='She%20lost%20her%20mother%20very,her%20father%2C'%20Andrea%20says)
-
-[^ref5]: 'Celebrating WOmen in Science' [Honiman Museum](https://www.horniman.ac.uk/story/celebrating-women-in-science-anna-atkins/)
-
+[^ref9]: 'Celebrating Women in Science' [Honiman Museum](https://www.horniman.ac.uk/story/celebrating-women-in-science-anna-atkins/)
+[^ref10]: _Artweek_  1986-12-27: Vol 17 Iss 44. 
+[^ref11]: 'Anna Atkins' [Natural History Museum](https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html#:~:text=Anna%20was%20born%20in%20Kent,worked%20at%20the%20British%20Museum.&text='She%20lost%20her%20mother%20very,her%20father%2C'%20Andrea%20says)
+[^ref12]: Snyder, Laura J. _The Philosophical Breakfast Club_ New York: Random House, 2011, p.288.  
+[^ref13]: [Photography pioneer: Anna Atkins' algae cyanotypes](https://www.europeana.eu/en/blog/photography-pioneer-anna-atkins-algae-cyanotypes)
+[^ref14]: "England and Wales Census, 1861," database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q2MP-8V4T) : 3 March 2021, Ann Atkins in household of John P Atkins, Halstead, Kent, England, United Kingdom; from "1861 England, Scotland and Wales census," database and images, [findmypast] (http://www.findmypast.com) : n.d.; citing PRO RG 9, The National Archives, Kew, Surrey.
+[^ref15]: _Maidstone Journal and Kentish Advertiser_ - Monday 19 June 1871
