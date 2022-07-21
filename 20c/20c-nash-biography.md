@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Paul Nash (1889 - 1946)" author="Professor Phil Hubbard" layout="vtl" banner="xxx">
+<param ve-config title="Paul Nash (1889 - 1946)" author="Professor Phil Hubbard" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/8/87/Paul_Nash_-_The_Edge_of_a_Wood_-_1925_-_10341.jpg">
 
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 
@@ -14,6 +14,7 @@ Nash was a formidable painter of ‘soil and sea’ whose sometimes abstract and
 Renting a former Dymchurch pub, Rose Cottage, with his wife Margaret in 1920, Nash found himself a war artist with no war to paint. Instead, he turned to the sea wall as subject matter, producing a remarkable series of sketches and paintings that pitched nature against culture in an elemental battle of sea against land, as if opponents in a war. These were remarkable, perspectival images, Dymchurch wall frequently viewed as if from above, an angular, massive modern structure attempting to hold out the more fluid sea. Often the sky is dark and threatening, holding portents of impending disaster. For Nash, this landscape clearly resonated with the battlefields of the first world war, as Andrew Causey notes:
 <br><br>
 'The waterlogged Flanders landscape had been a danger apart from the fighting, with the risk to men and horses of becoming trapped in mud and even drowning, and at Dymchurch there is a possible reading of the wall both as a defensive and protective element against the sea and also as a reprise, more solidly constructed, of the fragile lines of duckboards across the Flanders wastes.'[^ref2]
+<param ve-map center="Q2796278" zoom="15">
 
 Given these intimations of conflict, and his own fear of water (he reportedly nearly drowned as a child) it is perhaps not surprising that Nash referred to Dymchurch as the ‘strange coast’, rendering it a stark borderland between life and death.[^ref3] For Nash, the sea wall stood on the threshold of past and present, his paintings alluding to the ways that the sea threatened to return him to the nightmares of his youth. In his autobiography, Nash described the seas off Dymchurch as ‘cold and cruel waters, usually in a threatening mood, pounding and rattling along the shore’.[^ref4] He left for East Sussex in 1925, writing of his time documenting the Dymchurch shoreline that ‘I shall never work there anymore... a place like that and its effect on me – one’s effect on it. It’s a curious record formally and psychologically when you see the whole set of designs together.’[^ref5]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/95/Dymchurch_-_The_Strange_Coast_by_Paul_Nash_-_Paul_Nash_-_ABDAG000153.jpg" label="The Strange Coast by Paul Nash" attribution="Aberdeen Art Gallery, Public domain, via Wikimedia Commons">
