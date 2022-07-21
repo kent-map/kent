@@ -51,7 +51,7 @@ Gould, who was born in Ramsgate, contributed invaluably to the world of ornithol
 Maxwell used his writing and illustration to infuse the industrial and everyday with a sense of the exotic or the magical. 
 
 ##
-**[Paul Nash](20c-nash-biography)**
+**[Paul Nash](/20c/20c-nash-biography)**
 
 - author: Professor Phil Hubbard
 
