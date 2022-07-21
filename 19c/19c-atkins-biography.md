@@ -46,18 +46,18 @@ Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks and is buried in
 
 ### References
 
-[^ref1]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.1 and p.19.
-[^ref2]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.29.
+[^ref1]: _Memoir of J. G. Children, esq: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.1 and p.19.
+[^ref2]: _Memoir of J. G. Children, esq: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.29.
 [^ref3]: Forgan, Sophie. "Children, John George (1777–1852), chemist." [Oxford Dictionary of National Biography](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5299)  Oxford University Press. Accessed: 20 July 2022. 
-[^ref4]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.72.
+[^ref4]: _Memoir of J. G. Children, esq: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.72.
 [^ref5]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.125-6
 [^ref6]: Schaaf, Larry J. "Atkins [née Children], Anna (1799–1871), botanist and photographic artist." [Oxford Dictionary of National Biography](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37132). Oxford University Press. Accessed: 20 July 2022. 
-[^ref7]: _Memoir of J. G. Children, esq. ...: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.255.
+[^ref7]: _Memoir of J. G. Children, esq: including some unpublished poetry_ by Atkins, Anna, 1799-1871, p.255.
 [^ref8]: Kent Archives Catalogue https://www.kentarchives.org.uk/collections/getrecord/GB51_U969
 [^ref9]: 'Celebrating Women in Science' [Honiman Museum](https://www.horniman.ac.uk/story/celebrating-women-in-science-anna-atkins/)
 [^ref10]: _Artweek_  1986-12-27: Vol 17 Iss 44. 
 [^ref11]: 'Anna Atkins' [Natural History Museum](https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html#:~:text=Anna%20was%20born%20in%20Kent,worked%20at%20the%20British%20Museum.&text='She%20lost%20her%20mother%20very,her%20father%2C'%20Andrea%20says)
 [^ref12]: Snyder, Laura J. _The Philosophical Breakfast Club_ New York: Random House, 2011, p.288.  
 [^ref13]: [Photography pioneer: Anna Atkins' algae cyanotypes](https://www.europeana.eu/en/blog/photography-pioneer-anna-atkins-algae-cyanotypes)
-[^ref14]: "England and Wales Census, 1861," database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q2MP-8V4T) : 3 March 2021, Ann Atkins in household of John P Atkins, Halstead, Kent, England, United Kingdom; from "1861 England, Scotland and Wales census," database and images, [findmypast] (http://www.findmypast.com) : n.d.; citing PRO RG 9, The National Archives, Kew, Surrey.
+[^ref14]: "England and Wales Census, 1861," database with images, [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:Q2MP-8V4T): 3 March 2021, Ann Atkins in household of John P Atkins, Halstead, Kent, England, United Kingdom; from "1861 England, Scotland and Wales census," database and images, [findmypast] (http://www.findmypast.com) : n.d.; citing PRO RG 9, The National Archives, Kew, Surrey.
 [^ref15]: _Maidstone Journal and Kentish Advertiser_ - Monday 19 June 1871
