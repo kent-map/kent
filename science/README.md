@@ -42,7 +42,7 @@ Darwin wrote over a dozen science books and a handful of important monographs, m
 Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
 
 ##
-**[Walter James](/20c/20c-northbourne-biography)
+**[Walter James](/20c/20c-northbourne-biography)**
 
 - Diana Hirst
 
