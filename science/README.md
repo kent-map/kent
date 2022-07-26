@@ -15,7 +15,7 @@
 Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of scientist John George Children (1777-1852).
 
 ##
-**[John Boys](18c-boys-biography)**
+**[John Boys](/18c/18c-boys-biography)**
 
 - author: Diana Hirst
 
@@ -33,7 +33,7 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 Darwin wrote over a dozen science books and a handful of important monographs, many based on observations and experiments undertaken in his house and gardens in Kent.
 
 ##
-**[William Harvey](17c-william-harvey)**
+**[William Harvey](/17c/17c-william-harvey)**
 
 - author: Dominique Gracia and Arnav Sharma
 
@@ -52,7 +52,7 @@ Inventor of organic farming
 
 
 ##
-**[Robert Plot](17c-robert-plot)**
+**[Robert Plot](/17c/17c-robert-plot)**
 
 - author: Dominique Gracia and Hannah Jennison
 
@@ -61,7 +61,7 @@ Inventor of organic farming
 Naturalist and chemist, Plot was born at Borden in Kent.
 
 ##
-**[John Tradescant the Younger](17c-john-tradescant-younger)**
+**[John Tradescant the Younger](/17c/17c-john-tradescant-younger)**
 
 - author: Dominique Gracia and Hannah Jennison
 
@@ -70,7 +70,7 @@ Naturalist and chemist, Plot was born at Borden in Kent.
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
 
 ##
-**[John Wallis](17c-wallis-biography)**
+**[John Wallis](/17c/17c-wallis-biography)**
 
 - author: Michelle Crowther and Charlie Badsey-Ellis
 
