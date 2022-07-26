@@ -15,6 +15,15 @@
 Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of scientist John George Children (1777-1852).
 
 ##
+**[John Boys](18c-boys-biography)**
+
+- author: Diana Hirst
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
+
+John Boys, agriculturalist, was well known for his breed of South Down sheep.  
+
+##
 [**Charles Darwin**](/19c/19c-darwin-biography)
 
 - author: Peter Vujakovic
@@ -31,6 +40,16 @@ Darwin wrote over a dozen science books and a handful of important monographs, m
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
 Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
+
+##
+**[Walter James](/20c/20c-northbourne-biography)**
+
+- Diana Hirst
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/14/CabbageBG.JPG)
+
+Inventor of organic farming
+
 
 ##
 **[Robert Plot](17c-robert-plot)**
