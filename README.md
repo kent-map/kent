@@ -164,6 +164,13 @@ Famed for its cherries, hops and fruit, organic farming, and the modern day gree
 Painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 
 ##
+[**Mathematicians and Scientists**](/science)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
+
+Botanists, chemists and naturalists abound in the beautiful garden of England.
+
+##
 [**The Built Environment**](/churches)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
