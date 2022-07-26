@@ -10,7 +10,7 @@
 
 - author: Trinity Barber and Michelle Crowther
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/33/Anna_Atkins_Cystoseira_foeniculacea.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
 
 Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of scientist John George Children (1777-1852).
 
