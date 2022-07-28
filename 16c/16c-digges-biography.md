@@ -11,27 +11,41 @@
 <param ve-entity eid="Q2470003" aliases="Chart">
 <param ve-entity eid="Q105776177" aliases="Brome">
 <param ve-entity eid="Q2297876" aliases="Chevening">
+<param ve-entity eid="Q2790263" aliases="Adisham"> 
+<param ve-entity eid="Q4804328" aliases="Ash next Sandwich"> 
+<param ve-entity eid="Q866348" aliases="Bishopsbourne"> 
+<param ve-entity eid="Q29303" aliases="Canterbury"> 
+<param ve-entity eid="Q1981740" aliases="Elham">
+<param ve-entity eid="Q2703021" aliases="Ewell">
+<param ve-entity eid="Q5504627" aliases="Frinsted"> 
+<param ve-entity eid="Q2747104" aliases="Hackington">
+<param ve-entity eid="Q2749435" aliases="Kingston"> 
+<param ve-entity eid="Q28339447" aliases="Lenham"> 
+<param ve-entity eid="Q7148079" aliases="Patrixbourne">
+<param ve-entity eid="Q26163" aliases="Sandwich">
+<param ve-entity eid="Q2173192" aliases="Sturry"> 
+<param ve-entity eid="Q2455830" aliases="Sutton next Northbourne"> 
+<param ve-entity eid="Q2632094" aliases="Wingham">
 
 #
 
 **Leonard Digges**   
-Leonard Digges (c.1515 – c.1559), mathematician and cartographer, was the son of James Digges of Digges Court and Brome, Barham, and Philippa Egham of Chart. His father was the High Sheriff of Kent between 1510-11 and owned property in Adisham, Ash next Sandwich, Bishopsbourne, Canterbury, Elham, Ewell, Frinsted, Hackington, Kingston, Lenham, Patrixbourne, Sandwich, Sturry, Sutton next Northbourne and Wingham.[^ref1] [His father's will https://discovery.nationalarchives.gov.uk/details/r/D949652]
+Leonard Digges (c.1515 – c.1559), mathematician and cartographer, was the son of James Digges of Digges Court and Brome, Barham, and Philippa Egham of Chart. His father was the High Sheriff of Kent between 1510-11 and owned property in Adisham, Ash next Sandwich, Bishopsbourne, Canterbury, Elham, Ewell, Frinsted, Hackington, Kingston, Lenham, Patrixbourne, Sandwich, Sturry, Sutton next Northbourne and Wingham.[^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Pantometria_by_Leonard_Digges_1591.jpg" label="Pantometria by Leonard Digges 1591" attribution="Leonard Digges. Engraver unknown. Printed by Abell Jeffes, London., Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q1836548" zoom="10">
 
-At the age of 30, Leonard was charged with responsibility for coastal defence between Dover and Folkestone in 1545 and took part in the unsuccessful rebellion led by the Protestant Thomas Wyatt. He was convicted of high treason and sentenced to death for his part in the rebellion, but he received a pardon in April 1554. His land and goods were taken and he was fined 400 marks. It was to take him almost to the end of his life to pay this off.
+At the age of 30, Leonard was charged with responsibility for coastal defence between Dover and Folkestone. In 1545 he took part in the unsuccessful rebellion led by the Protestant Thomas Wyatt. He was convicted of high treason and sentenced to death for his part in the rebellion, but he received a pardon in April 1554. His land and goods were taken and he was fined 400 marks. It was to take him almost to the end of his life to pay this off.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/09/SirThomasWyatt01.jpg" label="Thomas Wyatt" attribution="Francesco Bartolozzi, Public domain, via Wikimedia Commons">
 
 Leonard married Bridget Wilford of Hartridge, near Cranbrook and had several children, including Thomas who expanded on much of his father's works and made many contributions to astronomy.
-
+<br><br>
 Leonard published an almanac entitled _A prognostication of Right Good Effect, Fructfully Augmented_ of which there are surviving fragments of a sheet for Kent dated 1556. [^ref]
 
 Leonard is credited with the invention of the theodolite, a surveying instrument used to obtain precise angular measurements for triangulation and also according to his son, the reflecting telescope, or refracting telescope as part of his theodolite to improve accuracy over long distances of his surveying work.
-
 <param ve-map center="Q8034080" zoom="15">
 
 **Thomas Digges**   
-Thomas Digges (1546–1595) probably grew up on his father's estate at Wootton, near Canterbury, until his father's land was confiscated in 1554. Although the land was eventually restored to his father, Thomas's right to inherit the land was withheld.
+Thomas Digges (1546–1595), the son of Leonard and Bridget Digges, probably grew up on his father's estate at Wootton, near Canterbury, until his father's land was confiscated in 1554. Although the land was eventually restored to his father, Thomas's right to inherit the land was withheld.
 
 In 1582, Thomas was appointed commissioner for Dover Harbour and advised on its construction, recommending 'earth bayes' rather than 'planked wourkes' after Folkestone, which had been supplying stone to Dover, refused to send any more.[^ref] It was his foresight that saved the town around 5,000 marks.
 
