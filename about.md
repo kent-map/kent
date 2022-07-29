@@ -423,6 +423,13 @@ Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from C
 Dr Dominique Gracia is a Project Manager with the Oxford Faculty of English and UK Administrative Director of the Collaborative Organization for Virtual Education. Her research focuses on Victorian poetry and short fiction, ekphrasis and the relationships between media, and the reuse and recurrence of the Victorian in twenty-first-century television.
 
 ##
+[**Angela Iredia**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e445639c-c64e-4b76-9ff7-03123109d289)
+
+Angela Iredia is a 2nd year Digital Media Computing student at Birmingham City University. She has different interests, from history and art to computing and media. She has lived in Italy for many years before moving to the UK.
+
+##
 [**Logan Miller**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/691ce515-ef4d-4b7b-a8b8-5fff79894a1e)
