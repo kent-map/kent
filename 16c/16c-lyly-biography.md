@@ -4,24 +4,18 @@
 
 <param ve-entity eid="Q29303" aliases="Canterbury"> 
 
-ckground 
+#
 
-- born 1554, Kent
-- author, considered the first English prose stylist
-- educated at Magdalen College, Oxford in 1575
-- went to London in 1576 where he was famed for publishing two prose romances, 'Euphues: The Anatomy of Wit' (1578) and 'Euphues and His England' (1580). Very quickly popular, gaining him the reputation of England's most fashionable writer of 1580s
+It is believed that John Lyly, who is considered the first English prose stylist, was born in Canterbury in 1554, as his father Peter was the registrar for the Archbishop of Canterbury, Matthew Parker, in the year of his birth. Baptism registers of St Alphege church contain the names of 6 of the 8 children born to Peter and Jane Lyly, suggesting John was also baptised here - however Peter Lyly also acted as a lawyer in Rochester in 1550, so other sources name this instead[^ref1] - It is likely that John attended the King's School in Canterbury with Christopher Marlowe as his brothers William and Peter are known to have attended the school.
+John's childhood home was possibly the 'Splayed Eagle' in Sun or Palace Street, quite close to the cathedral.
+
+After studying at Magdalen College, Oxford in 1575, Lyly went to London in 1576 where he was famed for publishing two prose romances, 'Euphues: The Anatomy of Wit' (1578) and 'Euphues and His England' (1580). He very quickly gained the reputation of England's most fashionable writer of the 1580s
+
 - after 1580, devoted himself to comedies and was also a Member of Parliament
 - in 1583 took charge of Blackfriars Theatre, producing his early plays 'Campaspe' and 'Sapho and Phao'. His other more popular plays include 'Gallathea' (1584) and 'Endimion' (1591), called his 'masterpiece' by Daniel. All his plays were performed privately for Queen Elizabeth as well as to the public
 - growing popularity of Thomas Kyd, Christopher Marlowe and William Shakespeare led to decline in Lyly's popularity and financial difficulties
 - his desperate appeals for a job were not answered by Queen Elizabeth and he was outlived by Edmund Tilney for the post of Master of the Revels
 - died 1606, London as a poor man. Buried in St Bartholomew the Less
-
-Links to Kent
-
-- Probably born in Canterbury - his father Peter was the registrar for the Archbishop of Canterbury Matthew Parker in the year of his birth 
-- Baptism registers of St Alphege church contain the names of 6 of the 8 children born to Peter and Jane Lyly, suggesting John was also baptised here - however Peter Lyly acted as a lawyer in Rochester in 1550, so other sources (Dictionary of National Biography) name this instead
-- Likely attended King's School of Canterbury with Christopher Marlowe - his brothers William and Peter did
-- His childhood home was possibly known as the 'Splayed Eagle' in the central Sun or Palace Street in the city, another possible place of birth
 
 Literary style
 
@@ -38,4 +32,6 @@ http://elizabethandrama.org/the-playwrights/john-lyly/introduction-to-john-lyly/
 https://kentliterature.com/john-lyly-shakespeares-canterbury-mentor/
 http://www.canterbury-archaeology.org.uk/lyly/4590809501
 
-- Hannah, 30/12/21
+
+
+[^ref1]: Dictionary of National Biography
