@@ -41,5 +41,14 @@ In 1588 concerns about the Spanish Armada approaching London via the Kent coast 
 
 With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected?  
 
+##
+**[Leonard and Thomas Digges](16c-digges-biography)**
+
+- author: Arnav Sharma and Michelle Crowther
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4d/Bodleian_Libraries%2C_Cantii%2C_Southsexiae%2C_Surriae_et_Middlesexiae_Comitat_Vera_Descriptio.jpg)
+
+Father and son who were learned mathematicians in Kent in the sixteenth century.
+
 
 
