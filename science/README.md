@@ -33,6 +33,15 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 Darwin wrote over a dozen science books and a handful of important monographs, many based on observations and experiments undertaken in his house and gardens in Kent.
 
 ##
+**[Leonard and Thomas Digges](/16c/16c-digges-biography)**
+
+- author: Arnav Sharma and Michelle Crowther
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4d/Bodleian_Libraries%2C_Cantii%2C_Southsexiae%2C_Surriae_et_Middlesexiae_Comitat_Vera_Descriptio.jpg)
+
+Father and son who were learned mathematicians in Kent in the sixteenth century.
+
+##
 **[William Harvey](/17c/17c-william-harvey)**
 
 - author: Dominique Gracia and Arnav Sharma
