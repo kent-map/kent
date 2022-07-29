@@ -31,7 +31,7 @@
 
 **Leonard Digges**   
 Leonard Digges (c.1515 – c.1559), mathematician and cartographer, was the son of James Digges of Digges Court, Barham and Philippa Engham of Chart. His father was the High Sheriff of Kent between 1510-11 and owned property in Adisham, Ash next Sandwich, Bishopsbourne, Brome, Canterbury, Elham, Ewell, Frinsted, Hackington, Kingston, Lenham, Patrixbourne, Sandwich, Sturry, Sutton next Northbourne and Wingham.[^ref1] 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Pantometria_by_Leonard_Digges_1591.jpg" label="Pantometria by Leonard Digges 1591" attribution="Leonard Digges. Engraver unknown. Printed by Abell Jeffes, London., Public domain, via Wikimedia Commons"> 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Pantometria_by_Leonard_Digges_1591.jpg" label="Pantometria by Leonard Digges, revised by Thomas Digges, 1591" attribution="Leonard Digges. Engraver unknown. Printed by Abell Jeffes, London., Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q1836548" zoom="10">
 
 At the age of 30, Leonard was charged with responsibility for coastal defence between Dover and Folkestone. In 1554 he took part in the unsuccessful rebellion led by the Protestant Thomas Wyatt. He was convicted of high treason and sentenced to death for his part in the rebellion, but he received a pardon in April 1554. His land and goods were taken and he was fined 400 marks. It was to take him almost to the end of his life to pay this off.
