@@ -53,7 +53,7 @@ It comes as no surprise to find her back in Kent in 1835, eagerly following the 
 
 ### References
 
-[^ref1]: https://rotunda.upress.virginia.edu/EmilyShore/make-page.xqy?id=jes-intro
+[^ref1]: [Journal of Emily Shore](https://rotunda.upress.virginia.edu/EmilyShore/make-page.xqy?id=jes-intro)
 [^ref2]: 6 July. 4.
 [^ref3]: 7 July. 5-6.
 [^ref4]: 8 July. 6.
