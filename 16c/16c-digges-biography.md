@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Leonard and Thomas Digges" author="Arnav Sharma" layout="vtl" banner="/images/banners/16c.jpg"> 
+<param ve-config title="Leonard and Thomas Digges" author="Arnav Sharma and Michelle Crowther" layout="vtl" banner="/images/banners/16c.jpg"> 
 
 <param ve-entity eid="Q8034080" aliases="Wootton">
 <param ve-entity eid="Q2160826" aliases="Cranbrook">
@@ -50,10 +50,9 @@ His first publication was _Pantometria_ (1571), an edition of his father's manus
 
 In 1582, Thomas was employed by the Commissioners of Dover Harbour as an engineer to advise on the restoration of the harbour. He recommended 'earth bayes' rather than 'planked wourkes' after Folkestone, which had been supplying stone to Dover, refused to send any more.[^ref4] It was his foresight that saved the town around 5,000 marks. A plan of Dover Castle, Town and Harbour; drawn in the year 1581 on vellum, by or for the use of Thomas Digges, Esq., of Wootton in Kent, Muster Master General of Queen Elizabeth's forces in the Netherlands is held in the British Library. 
 <br><br>
-When fears of a [Spanish invasion](/16c/16c-spanish-armada/) gripped the county in 1588 Digges wrote: "I am farre off from allowing of any confused disorderly running to the seaside to encounter a select trained well disciplined Enemie invading."[^ref5]  He recommended delay tactics whilst a larger force could be mustered and the harvest destroyed.[^ref6] In 1588, his political and military career came to an end with a dispute over his accounts and he returned to his mathematical work, living at his estate in Chevening and also his house in London
+When fears of a [Spanish invasion](/16c/16c-spanish-armada/) gripped the county in 1588, Digges wrote: 'I am farre off from allowing of any confused disorderly running to the seaside to encounter a select trained well disciplined Enemie invading.'[^ref5]  He recommended delay tactics whilst a larger force could be mustered and the harvest destroyed.[^ref6] In 1588, his political and military career came to an end with a dispute over his accounts and he returned to his mathematical work, living at his estate in Chevening and also his house in London
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/Invincible_Armada.jpg" label="Invincible Armada" attribution="Royal Museums Greenwich, Public domain, via Wikimedia Commons">
 <param ve-map center="Q179224" zoom="10">
-
 
 ### Bibliography
 
@@ -66,6 +65,5 @@ Johnston, Stephen. 'Thomas Digges' _Oxford Dictionary of National Biography_. 20
 [^ref2]: Johnston, Stephen. 'Leonard Digges' _Oxford Dictionary of National Biography_. 2004.   
 [^ref3]: Johnston, Stephen. 'Thomas Digges' _Oxford Dictionary of National Biography_. 2009.   
 [^ref4]:  Macdonald, A. 'Plans of Dover Harbour in the Sixteenth century', _Archaeologia Cantiana_ 49. 1937, p.116.   
-[^ref5]: Digges, Thomas_A Brief Discourse What Orders were Best For Repulsing of Forraine Force if at any time they should invade us by Sea in Kent or Elsewhere_(London, 1590; reprint London, 1801), pp. 6, 16-17.   
+[^ref5]: Digges, Thomas _A Brief Discourse What Orders were Best For Repulsing of Forraine Force if at any time they should invade us by Sea in Kent or Elsewhere_ (London, 1590; reprint London, 1801), p. 6. cited in Nolan.   
 [^ref6]:  Nolan,  John S. 'The muster of 1588, _Albion: A Quarterly Journal Concerned with British Studies_ , Autumn, 1991, Vol. 23, No. 3 (Autumn, 1991), pp. 387-407.   
-
