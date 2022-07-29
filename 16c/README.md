@@ -10,7 +10,7 @@
 
 - author: Marnie Stanley
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/16c/images/Ardenhouse.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/38/Arden%27s_House%2C_Faversham.JPG)
 
 On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn.
 
