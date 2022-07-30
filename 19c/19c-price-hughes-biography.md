@@ -3,14 +3,17 @@
 <param ve-config title="Hugh Price Hughes (1847 – 1902)" author="Sue Boulden and Michelle Crowther" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q4983275" aliases="Buckland">
+<param ve-entity eid="Q26550125" aliases="Snargate Street">
+<param ve-entity eid="Q26656370" aliases="Grand Shaft">
 
 #
 
 Windswept Dover, sheltering beneath the beetling crag on which the castle stands, is more like a grey town in the canny north than a southern watering-place. Like Ithaca of old it was framed in its ruggedness to be an excellent nurse to the youthful soul, and the ruggedness lay not so much in the environment of nature as in those sharp problems of everyday life with which he found it to abound. – _The Life of Hugh Price Hughes_, 1904
 
 Reverend Hugh Price Hughes, Wesleyan minister and religious reformer was appointed to the Dover Methodist circuit in 1869. Aged twenty-two and fresh from Richmond Theological College, the ‘pale bespectacled’ young man  was to become a key figure in the Dover temperance movement.[^ref1]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Hugh_Price_Hughes3.jpg" label="Hugh Price Hughes" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 On arrival in Dover, Hughes took up lodgings at 1, Buckland Terrace, next door to the Buckland Street Chapel.[^ref2] It was a poor area of the town where the townsfolk “surged on the pavement rather than in the narrow confines of their homes”[^ref3] page 73]. The chapel raised up from the main street, was built in 1839 and had a galleried interior, Romanesque front elevation and doric columns. 
 <param ve-image url=”  “ label=”  “ attribution=”  “>
@@ -33,6 +36,7 @@ A purpose-built lock hospital had been established in Chatham in 1869, but more 
 
 In the Spring of 1870 Hughes and Rees invited speakers from London to a public meeting in Dover to establish a local association to work towards repeal. 
 Josephine Butler, feminist and social reformer arrived in Dover, staying at the home of Rowland Rees. She was the leader of the repeal movement and although originally planning to speak to a large meeting of women, she was also invited to speak to a group of men. On the platform at this meeting was the chair of the Dover Circuit Superintendent Minister the Rev John Knowles, Rowland Rees and the Rev Hugh Price Hughes. Josephine Butler spoke for an hour with her main theme being ‘the poor and outcast women at the hands of immoral men’. The _Dover Express_, while not being sympathetic with the repeal movement reported that Hughes had become a ‘highly talented speaker’ whilst they branded Butler a “screamer”[^ref14]  Supporters of the Act argued that the hospitals offered health care and reform, opponents that they were invasive and unfair as only women were subject to checks. Both [Sarah Grand](/19c/19c-grand-biography) and Florence Nightinagle were campaigners for repeal.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Josephine_Butler_%2826576753145%29.jpg" label="Josephine Butler" attribution="LSE Library, No restrictions, via Wikimedia Commons">
 
 At a Dover council meeting in April 1870, Councillor Robinson asked the town surveyor , Mr Hanvey, whether rumours were true that a lock hospital was being built at Dover. Mr Hanvey denied it, saying that a 'convalescent hospital' had been established. Robinson replied that 'he supposed that “Convalescent” and 'Lock' were synonymous terms'.[^ref15] The convalescent home was in the former Ship Hotel, on Custom House Quay which was managed by Mrs Rusher.[^ref16] 
 
