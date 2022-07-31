@@ -35,6 +35,7 @@ On 4th January 1870 Hughes lectured again on 'Total Abstinence in its social, me
 <param ve-image url="https://stor.artstor.org/stor/2a4299f6-d952-4311-8ca5-503daf1d0667" label="Poster of the Snargate Street Wesleyan Band of Hope, 1874" attribution="Dover Wesleyan Methodist Scrapbook">
  
 Touched by the plight of ordinary people, Hughes also campaigned with Rowland Rees an architect, alderman and 'red-hot radical'[^ref10] against the [Contagious Diseases Act](/19c/19c-contagious-diseases) which had been introduced in 1866. The Act which was designed to regulate the 'common prostitute'[^ref11]  and prevent the spread of sexually transmitted diseases among soldiers and sailors had been introduced rapidly with little consultation.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/James_Webb_Anlandende_Fischerboote_im_Hafen_von_Dover_1867.jpg" label="Fishing boat in Dover Habour, 1867" attribution="James Webb, Public domain, via Wikimedia Commons">
 
 As a garrison town, the Act allowed the local police in Dover to organise medical examinations of women who were thought to be prostitutes. These women were expected to sign a register and those found to have venereal diseases were sent to ‘Lock Hospitals’ to be cured. An examination of a woman in Seven Star Street attracted a gathering of 500 people outside the house. [^ref12]
 
