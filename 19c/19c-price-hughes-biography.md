@@ -38,7 +38,7 @@ Touched by the plight of ordinary people, Hughes also campaigned with Rowland Re
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/James_Webb_Anlandende_Fischerboote_im_Hafen_von_Dover_1867.jpg" label="Fishing boat in Dover Habour, 1867" attribution="James Webb, Public domain, via Wikimedia Commons">
 
 As a garrison town, the Act allowed the local police in Dover to organise medical examinations of women who were thought to be prostitutes. These women were expected to sign a register and those found to have venereal diseases were sent to ‘Lock Hospitals’ to be cured. An examination of a woman in Seven Star Street attracted a gathering of 500 people outside the house. [^ref12]
-
+<br><br>
 A purpose-built lock hospital had been established in Chatham in 1869, but more locally a wooden hut was used at the Military Hospital at Shorncliffe.[^ref13]  In March 1870 it was reported in the papers that approximately 100 women 'whose presence here would have been a source of a frightful epidemic'[^ref14] had been forcibly taken from Dover to lock hospitals in other parts of Kent. 
 
 In the Spring of 1870 Hughes and Rees invited speakers from London to a public meeting in Dover to establish a local association to work towards repeal. 
