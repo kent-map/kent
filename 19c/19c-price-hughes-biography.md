@@ -12,21 +12,25 @@ banner="/images/banners/19c.jpg">
 
 Windswept Dover, sheltering beneath the beetling crag on which the castle stands, is more like a grey town in the canny north than a southern watering-place. Like Ithaca of old it was framed in its ruggedness to be an excellent nurse to the youthful soul, and the ruggedness lay not so much in the environment of nature as in those sharp problems of everyday life with which he found it to abound. – _The Life of Hugh Price Hughes_, 1904
 <param ve-image url="https://stor.artstor.org/stor/1cb66dda-70f7-465c-8a67-b61a92931e9b" label="Dover Castle" attribution="By kind permission of Marrin Books">
+<param ve-map center="Q179224" zoom="15">
 
 Reverend Hugh Price Hughes, Wesleyan minister and religious reformer was appointed to the Dover Methodist circuit in 1869. Aged twenty-two and fresh from Richmond Theological College, the ‘pale bespectacled’ young man  was to become a key figure in the Dover temperance movement.[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Hugh_Price_Hughes3.jpg" label="Hugh Price Hughes" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 On arrival in Dover, Hughes took up lodgings at 1, Buckland Terrace, next door to the Buckland Street Chapel.[^ref2] It was a poor area of the town where the townsfolk “surged on the pavement rather than in the narrow confines of their homes”.[^ref3] The chapel raised up from the main street, was built in 1839 and had a galleried interior, Romanesque front elevation and doric columns. 
 <param ve-image url="https://stor.artstor.org/stor/806a5042-aa22-4c78-a1dc-f70ad0798ec2" label="Buckland Chapel" attribution="Martin Crowther">
+<param ve-map center="Q4983275" zoom="15">
 
 Hughes preached his first sermon at the Snargate Street Chapel which had been opened in 1834. The congregation were so overwhelmed by his earnest and charismatic preaching that 18 people came forward to dedicate their lives to Christ.[^ref4] 
 <param ve-image url="https://stor.artstor.org/stor/f3afaf5c-646f-47c9-8c92-4ce0e72c8170" label="Snargate Street Chapel" attribution="Souvenir Programme of Centenary Celebrations">
 
 Snargate Street was at the heart of the commercial and dockland centre of the town. A description from Robert Folkestone Williams novel _Jack Scudamore's Daughter_ (1865)  gives us a sense of the area: 'from the busy ship-chandlers on the quays to the fashionable drapery establishments in Snargate Street, there flowed along the pavement like a tide a fast-increasing throng of soldiers, sailors, officers of the army and navy, captains and mates of merchantmen, porters, tradesmen, ladies, hawkers, mechanics, and all the other ingredients of a seaport population.'[^ref5] 
 <param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate Street c. 1830s" attribution="Drawn by G. Shepherd">
+<param ve-map center="Q26550125" zoom="15">
 
 The Chapel was next to the Grand Shaft, a triple spiral staircase, which led to the barracks on the Western Heights. Hughes estimates that there were 5 or 6,000 troops at Dover at this time comprising infantry, engineers and artillery and as a Wesleyan minister he had access to all the barracks.[^ref6] The Franco-Prussian War which began in 1870 may have accounted for this, as although Britain remained neutral, a position of "armed neutrality"[^ref7] was vital. A new coastal defence battery with three guns was constructed at the Western Heights between 1871-4 and the population of Dover grew by 5,663 between 1861 and 1871. 
 <param ve-image url="https://stor.artstor.org/stor/50147d2d-d96b-4f66-96e0-27378459552c" label="Grand Shaft Barracks and Granville Dock" attribution="Invicta Album of Dover and District">
+<param ve-map center="Q26656370" zoom="15">
  
 Recognising the impact that drinking was having on the life of the community (there were over 220 pubs)[^ref8], Hughes advocated total abstinence at a lecture at the Young Men’s Christian Association in October 1869.  However, transforming the drinking habits of a port, would be a challenge: 'For ordinary men to give up drinking intoxicants for Christ-like or patriotic reasons was, he knew, an innovation. He might as well have expected some of them to give up eating beef.'[^ref9] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/ff/A_drunken_man_surrounded_by_women_in_a_dingy_alehouse._Litho_Wellcome_V0019393.jpg" label="A drunken man surrounded by women in a dingy alehouse" attribution="Wellcome Institute, c. 1840, after T. Wilson, via Wikimedia Commons" license="CC BY 4.0">
