@@ -16,13 +16,11 @@ Windswept Dover, sheltering beneath the beetling crag on which the castle stands
 Reverend Hugh Price Hughes, Wesleyan minister and religious reformer was appointed to the Dover Methodist circuit in 1869. Aged twenty-two and fresh from Richmond Theological College, the ‘pale bespectacled’ young man  was to become a key figure in the Dover temperance movement.[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Hugh_Price_Hughes3.jpg" label="Hugh Price Hughes" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
-On arrival in Dover, Hughes took up lodgings at 1, Buckland Terrace, next door to the Buckland Street Chapel.[^ref2] It was a poor area of the town where the townsfolk “surged on the pavement rather than in the narrow confines of their homes”[^ref3] page 73]. The chapel raised up from the main street, was built in 1839 and had a galleried interior, Romanesque front elevation and doric columns. 
-<param ve-image url="https://stor.artstor.org/stor/806a5042-aa22-4c78-a1dc-f70ad0798ec2" label="Buckland Chapel attribution="Martin Crowther">
+On arrival in Dover, Hughes took up lodgings at 1, Buckland Terrace, next door to the Buckland Street Chapel.[^ref2] It was a poor area of the town where the townsfolk “surged on the pavement rather than in the narrow confines of their homes”.[^ref3] The chapel raised up from the main street, was built in 1839 and had a galleried interior, Romanesque front elevation and doric columns. 
+<param ve-image url="https://stor.artstor.org/stor/806a5042-aa22-4c78-a1dc-f70ad0798ec2" label="Buckland Chapel" attribution="Martin Crowther">
 
-Hughes preached his first sermon at the Snargate Street Chapel which had been opened in 1834. The congregation made up of fisherfolk, were so overwhelmed by his earnest and charismatic preaching that 18 people came forward to dedicate their lives to Christ.[^ref4] 
-
-insert image of Wesley’s chair]
-
+Hughes preached his first sermon at the Snargate Street Chapel which had been opened in 1834. The congregation were so overwhelmed by his earnest and charismatic preaching that 18 people came forward to dedicate their lives to Christ.[^ref4] 
+<param ve-image url="https://stor.artstor.org/stor/f3afaf5c-646f-47c9-8c92-4ce0e72c8170" label="Snargate Street Chapel" attribution="Souvenir Programme of Centenary Celebrations">
 
 Snargate Street was at the heart of the commercial and dockland centre of the town. A description from Robert Folkestone Williams novel _Jack Scudamore's Daughter_ (1865)  gives us a sense of the area: 'from the busy ship-chandlers on the quays to the fashionable drapery establishments in Snargate Street, there flowed along the pavement like a tide a fast-increasing throng of soldiers, sailors, officers of the army and navy, captains and mates of merchantmen, porters, tradesmen, ladies, hawkers, mechanics, and all the other ingredients of a seaport population.'[^ref5] 
 
@@ -56,7 +54,7 @@ In August 1871, Hughes was ordained. A year later, he moved to Brighton to the d
 [^ref1]: Hughes, Dorothea Price (1904) _The life of Hugh Price Hughes_ London : Hodder and Stoughton, p.73.
 [^ref2]: Brooks, A. (1999) 'Hugh Price Hughes and Methodism in Dover', _The Dover Society Newsletter_ no.36 Dec 1999, p28-31 . http://www.dover-kent.com/Dover-Society1/036/036.pdf
 [^ref3]: Hughes, Dorothea Price (1904) _The life of Hugh Price Hughes_ London : Hodder and Stoughton, p.73.
-[^ref4]: ibid.
+[^ref4]: Souvenir Programme of Centenary Celebrations: Snargate Street Methodist Church Dover, 1834-1934.
 [^ref5]: Williams Robert Folkestone (1865) _Jack Scudamore's Daughter_ Historica Texts. JISC.
 [^ref6]: Hughes, Dorothea Price (1904) _The life of Hugh Price Hughes_ London : Hodder and Stoughton, p.89.
 [^ref7]: Disraeli
@@ -67,7 +65,7 @@ In August 1871, Hughes was ordained. A year later, he moved to Brighton to the d
 [^ref12]: Brooks, A. (1999) 'Hugh Price Hughes and Methodism in Dover', _The Dover Society Newsletter_ no.36 Dec 1999, p28-31 . http://www.dover-kent.com/Dover-Society1/036/036.pdf
 [^ref13]: Galloway, J. (1902) _Report of a visit to the hospital at Shorncliffe_. http://www.scarletfinders.co.uk/176.html 
 [^ref14]: Dover Chronicle - Saturday 26 March 1870.
-[^ref15: Dover Express - Thursday 21 April 1870.
+[^ref15]: Dover Express - Thursday 21 April 1870.
 [^ref16]: Dover Chronicle - Saturday 30 April 1870
 [^ref17]: Dover Express - Friday 02 August 1872
 [^ref18]: Whyman, John. 'Rise and decline: Dover and Deal in the nineteenth century', _Archaeologia Cantiana_ 084, LXXXIV.
