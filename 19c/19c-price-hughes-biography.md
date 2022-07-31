@@ -17,7 +17,7 @@ Reverend Hugh Price Hughes, Wesleyan minister and religious reformer was appoint
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Hugh_Price_Hughes3.jpg" label="Hugh Price Hughes" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 On arrival in Dover, Hughes took up lodgings at 1, Buckland Terrace, next door to the Buckland Street Chapel.[^ref2] It was a poor area of the town where the townsfolk “surged on the pavement rather than in the narrow confines of their homes”[^ref3] page 73]. The chapel raised up from the main street, was built in 1839 and had a galleried interior, Romanesque front elevation and doric columns. 
-<param ve-image url=”  “ label=”  “ attribution=”  “>
+<param ve-image url="https://stor.artstor.org/stor/806a5042-aa22-4c78-a1dc-f70ad0798ec2" label="Buckland Chapel attribution="Martin Crowther">
 
 Hughes preached his first sermon at the Snargate Street Chapel which had been opened in 1834. The congregation made up of fisherfolk, were so overwhelmed by his earnest and charismatic preaching that 18 people came forward to dedicate their lives to Christ.[^ref4] 
 
