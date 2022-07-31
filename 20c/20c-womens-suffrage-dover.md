@@ -2,7 +2,8 @@
 
 <param ve-config title="Women's Suffrage In Dover" author="Madeleine Byatt and Anneliese Woodhouse" layout="vtl" banner="xxx">
 
-<param ve-entity eid="Q2051722" aliases="Yalding">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q15243899" aliases="Maison Dieu">
 
 In 1909 Cicely Hamilton’s play ‘How the Vote Was Won’ was performed at the Dover Town Hall, following a performance in London a few months previously. 
 
@@ -10,19 +11,17 @@ First performed in London in April 1909 and set in the home of a married couple 
 
 ‘How the Vote Was Won’ was performed here at the Maison Dieu on the 16 July 1909, nine years before the socially upheaving Representation of the People Act of 1918 which finally gave women the right to vote, although it wasn’t until the 1928 Equal Franchise Act that the right to vote became entirely equal.
 
-If you read ‘Suffragettes of Kent’, and we very much recommend that you do, then you come across the Dover cast list for this performance, and it is as follows:
-
 The cast list of the play:
-Horace Cole: Mr. E. Chitty
-Ethel Cole: Miss Adams
-Winifred (Ethel’s sister): Mrs Jellicoe
-Agatha Cole (Horace’s sister): Miss Crookewit
-Molly (his niece): Miss Bishop
-Madame Christine (distant relative): Miss Marchant
-Maudie Spark (his first cousin): Miss Fry
-Miss Lizzie Wilkins (his aunt): Mrs. Carson
-Lily (the maid): Miss Villiers
-Gerald Williams (a neighbour): Mr Wigley 
+Horace Cole: Mr. E. Chitty   
+Ethel Cole: Miss Adams   
+Winifred (Ethel’s sister): Mrs Jellicoe   
+Agatha Cole (Horace’s sister): Miss Crookewit   
+Molly (his niece): Miss Bishop   
+Madame Christine (distant relative): Miss Marchant   
+Maudie Spark (his first cousin): Miss Fry   
+Miss Lizzie Wilkins (his aunt): Mrs. Carson   
+Lily (the maid): Miss Villiers   
+Gerald Williams (a neighbour): Mr Wigley[^ref1] 
 
 Hamilton herself was a feminist writer, playwright and actress, co-writing popular suffrage plays such as ‘How the Vote Was Won’ with Christopher St John, which was performed here at the Maison Dieu in July 1909, following its performance in London three months before. Like Virginia Woolf, Hamilton believed sexual stereotyping and economic discrimination were more basic issues than disenfranchisement. However, unlike Woolf, Hamilton was active in the Suffragette Movement and co-founded the Women's Writers’ Suffrage League. Additionally, Hamilton was persuaded by Edy Craig to write the script for ‘The Pageant of Great Women’ which is considered one of the most important pieces of suffrage propaganda, as well as writing the lyrics to Ethel Smyth’s suffrage anthem ‘The March of the Women’. 
 
@@ -35,3 +34,6 @@ As well as these connections, the Maison Dieu also accommodated many suffrage me
 
 The Maison Dieu’s connections with the suffrage movement led us to search in the newspaper archives for further evidence of support for women’s rights throughout Dover. We found this image from a mass rally held in Dover in June 1911. In this image the suffragists are wearing medieval costumes, which was a common image throughout the suffrage movement. This was intended to make the issue appear more distant and so that women did not seem like a threat to contemporary gender roles. 
 
+### References
+
+[^ref1]: Godfrey, J. 'Suffragettes of Kent’
