@@ -47,6 +47,7 @@ At a Dover council meeting in April 1870, Councillor Robinson asked the town sur
 Hughes was known for his sharp wit and was not afraid of speaking up. When an older member of the YMCA rebuked him for his opinions, crying: “Young man, I was putting resolutions when you were in swaddling clothes”, he replied “I am aware that there is childhood at both ends of life"[^ref19]. He viewed the YMCA as “too much given to the singing of hymns and too little to the good of this present world” and when the association banned the publication _Punch_ from its reading room for its contemptuous regard for religious matters in 1871, he defended the publication and its contributors such as Mark Lemon and [W.M. Thackeray](/19c/19c-thackeray) arguing that the prophets and even Christ indulged in satire.[^ref20] He also campaigned for more varied reading in the reading room, to include Shakespeare and Milton. 
 
 In August 1871, Hughes was ordained. A year later, he moved to Brighton to the disappointment of his parishioners, who gave him “pincushions and all manner of queer presents”.[^ref21] By the time he left Dover, the Circuit roll had increased by 100.[^ref22]
+<param ve-image url="https://stor.artstor.org/stor/912348f7-294e-40f1-a5d8-f6510448e2b8" label="Hymns to be sung at the farewell service of Hugh Price Hughes" attribution="Dover Wesleyan Methodist Scrapbook">
 
 
 ### References
