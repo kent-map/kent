@@ -25,5 +25,5 @@ On Remembrance Day 2018, his [portrait](https://www.sandinyoureye.co.uk/pages-of
 <param ve-image url="https://stor.artstor.org/stor/df3b9666-7ba5-4197-9ab8-a0223a7cb5aa" label="Road of Remembrance, Folkestone" attribution="Michelle Crowther">
 
 ### Bibliography
-Hibberd, Dominic. Wilfred Owen: a new biography. London: Weidenfeld & Nicholson, 2002.   
-Owen, Wilfred. Selected Letters. Edited by John Bell. Oxford: Oxford University Press, 1998.
+Hibberd, Dominic. _Wilfred Owen: a new biography_. London: Weidenfeld & Nicholson, 2002.   
+Owen, Wilfred. _Selected Letters_. Edited by John Bell. Oxford: Oxford University Press, 1998.
