@@ -78,3 +78,12 @@ War-time Prime Minister Winston Churchill has several connections to Kent. Most 
 
 The secret network of underground tunnels at Dover Castle were vital in the Evacuation of Dunkirk and in key deception operations of the Second World War.
 
+##
+**[Wilfred Owen](/20c/20c-owen-biography)**
+
+- author: Jeremy Page
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0b09061e-c9c4-4d43-9946-f9fb9741d3d7)
+
+First world war poet, Wilfred Owen, passed through Folkestone on his way to the front.
+
