@@ -21,7 +21,7 @@ After this he began writing comedies and was also a Member of Parliament
 
 In 1583 he took charge of Blackfriars Theatre, producing his early plays 'Campaspe' and 'Sapho and Phao'. His other more popular plays include 'Gallathea' (1584) and 'Endimion' (1591), called his 'masterpiece' by Daniel. All his plays were performed privately for Queen Elizabeth as well as to the public.
 
-In 1589, Lyly was hired by the government to write 'Pappe with an hatchet. Alias, a figge for my godson. or Cracke me this nut' (1589) as a reply to the seditious Martin Mar-prelate tracts that had illegally circulated England in 1588 and 1589 and which were highly critical of the episcopacy. He wrote: 'These Martins were hatcht of addle egges, els could they not haue such idle heads'.[^ref8] He accuses Martin of insincerity saying 'I sawe through his paper coffen, that it was but a cosening corse, and one that had learnde of the holie maid of Kent', [Elizabeth Barton](/medieval/barton-biography), who had been executed for her condemnatory prophecies against Henry VIII and Anne Boleyn.
+In 1589, Lyly was hired by the government to write 'Pappe with an hatchet. Alias, a figge for my godson. or Cracke me this nut' (1589) as a reply to the seditious Martin Mar-prelate tracts that had illegally circulated England in 1588 and 1589 and which were highly critical of the episcopacy. He wrote: 'These Martins were hatcht of addle egges, els could they not haue such idle heads'.[^ref8] He accuses Martin of insincerity saying 'I sawe through his paper coffen, that it was but a cosening corse, and one that had learnde of the holie maid of Kent',[^ref9] [Elizabeth Barton](/medieval/barton-biography), who had been executed for her condemnatory prophecies against Henry VIII and Anne Boleyn.
 
 
 The growing popularity of Thomas Kyd, Christopher Marlowe and William Shakespeare led to decline in Lyly's popularity and Lyly began to struggle financially.
@@ -62,6 +62,7 @@ He died in 1606, London as a poor man and is buried at St Bartholomew the Less.
 [^ref3]: Hunter, G.K. _John Lyly: The humanist as courtier._ Routledge, 2022.
 
 [^ref8]: Nashe, T. ANSELMENT: MARTIN MARPRELATE, _The Review of English Studies_, Volume XVII, Issue 67, August 1966, Pages 258–267, https://doi.org/10.1093/res/XVII.67.258
+[^ref9]: Lyly, J., 1554?-1606. (1589). Pappe with an hatchet alias, a figge for my god sonne. or cracke me this nut. or a countrie cuffe, that is, a sound boxe of the eare, for the idiot martin to hold his peace, seeing the patch will take no warning. VVritten by one that dares call a dog, a dog, and made to preuent martins dog daies. London: Retrieved from https://www.proquest.com/books/pappe-with-hatchet-alias-figge-my-god-sonne/docview/2248515915/se-2
 
 https://www.britannica.com/biography/John-Lyly
 http://elizabethandrama.org/the-playwrights/john-lyly/introduction-to-john-lyly/
