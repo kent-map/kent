@@ -9,9 +9,8 @@
 It is believed that John Lyly, dramatist, courtier, and parliamentarian, was born in Canterbury in 1554, as his father Peter was the registrar for the Archbishop of Canterbury, Matthew Parker, in the year of his birth. Baptism registers of St Alphege church contain the names of 6 of the 8 children born to Peter and Jane Lyly, suggesting John was also baptised here - however Peter Lyly also acted as a lawyer in Rochester in 1550, so other sources name this instead[^ref1] It is likely that John attended the King's School in Canterbury with Christopher Marlowe as his brothers William and Peter are known to have attended the school.
 John's childhood home was possibly the 'Splayed Eagle' in Sun or Palace Street, quite close to the cathedral.
 
-After studying at Magdalen College, Oxford, Lyly went to London in 1576 where he was famed for publishing two prose romances, 'Euphues: The Anatomy of Wit' (1578) and 'Euphues and His England' (1580). The latter makes reference to Kent
+After studying at Magdalen College, Oxford, Lyly went to London in 1576 where he was famed for publishing two prose romances, 'Euphues: The Anatomy of Wit' (1578) and 'Euphues and His England' (1580). 'Euphues and His England' is a comedy which follows the journey of Euphues and Philautus who travel to England from Athens. Euphues tells Philautus on the way that England ‘is in fashion three cornered, where-off one side is toward Fraunce, the one corner of this side which is Kent, wher for the most part Ships ariue out of Fraunce…Of all the Inhabitaunts of this Isse, the Kentishmen are most ciuilest [civilest], the which country marcheth altogether vpon the Sea, & differeth not greatly from the manner of Fraunce.’ Whilst in England, one of the characters they meet is a ‘fatherly and friendly Sire’ named Fidus, who tells them he is a beekeeper from Kent. 
 
-corner of this side which is Kent, wher for the most part Ships ariue out of ...
 ...kenne of Douer, which the Maister espying with a chéerefull voyce waking them,...
 ...white Cliffes which easely you may perceiue, are Douer hills, wherevnto is..
 
@@ -28,7 +27,7 @@ After this he began writing comedies
 - growing popularity of Thomas Kyd, Christopher Marlowe and William Shakespeare led to decline in Lyly's popularity and financial difficulties
 - his desperate appeals for a job were not answered by Queen Elizabeth and he was outlived by Edmund Tilney for the post of Master of the Revels
 
-His drama 'Mother Bombie' (15940
+His drama 'Mother Bombie' (1594) is set in Rochester, Kent, and is a comedy about two sets of couples and their respective fathers’ meddling in their matches.
 
 heere in Kent at Ashford...
 ...liue in christendome as well as in Kent...
