@@ -27,7 +27,7 @@ In 1589, Lyly was hired by the government to write 'Pappe with an hatchet. Alias
 The growing popularity of Thomas Kyd, Christopher Marlowe and William Shakespeare led to decline in Lyly's popularity and Lyly began to struggle financially.
 His desperate appeals for a job were not answered by Queen Elizabeth and he was outlived by Edmund Tilney for the post of Master of the Revels
 
-His drama 'Mother Bombie' (1594) is set in Rochester, Kent, and is a comedy about two sets of couples and their respective fathers’ meddling in their matches.
+His drama 'Mother Bombie' (1594) is set in Rochester, Kent, and is a bawdy comedy about two couples and their fathers who are meddling in their matches. One of the daughters, Livia, says 'Pop three knaues in a sheath, Ile make it a right Tunbridge case and be the bodkin' to which Riscio replies 'Nay , the bodkin is here already ; you must be the knife'. Lloyd (1913) has linked this to small-scale cutlery production but Tydeman (1984) argues is puzzling as Tonbridge did not have a metal industry.
 
 heere in Kent at Ashford...
 ...liue in christendome as well as in Kent...
@@ -61,6 +61,13 @@ He died in 1606, London as a poor man and is buried at St Bartholomew the Less.
 
 [^ref8]: Nashe, T. ANSELMENT: MARTIN MARPRELATE, _The Review of English Studies_, Volume XVII, Issue 67, August 1966, Pages 258–267, https://doi.org/10.1093/res/XVII.67.258
 [^ref9]: Lyly, J., 1554?-1606. (1589). Pappe with an hatchet alias, a figge for my god sonne. or cracke me this nut. or a countrie cuffe, that is, a sound boxe of the eare, for the idiot martin to hold his peace, seeing the patch will take no warning. VVritten by one that dares call a dog, a dog, and made to preuent martins dog daies. London: Retrieved from https://www.proquest.com/books/pappe-with-hatchet-alias-figge-my-god-sonne/docview/2248515915/se-2
+
+The Cutlery Trades: An Historical Essay in the Economics of Small-scale Production
+Front Cover
+Godfrey Isaac Howard Lloyd
+Longmans, Green, and Company, 1913 - Cutlery - 493 pages
+
+[^ref1]: Tydeman, William. _Four Tudor comedies_ p.413.
 
 https://www.britannica.com/biography/John-Lyly
 http://elizabethandrama.org/the-playwrights/john-lyly/introduction-to-john-lyly/
