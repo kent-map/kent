@@ -21,11 +21,7 @@ After this he began writing comedies and was also a Member of Parliament
 
 In 1583 he took charge of Blackfriars Theatre, producing his early plays 'Campaspe' and 'Sapho and Phao'. His other more popular plays include 'Gallathea' (1584) and 'Endimion' (1591), called his 'masterpiece' by Daniel. All his plays were performed privately for Queen Elizabeth as well as to the public.
 
-Lyly's book 'Pappe with an hatchet. Alias, a figge for my godson. or Cracke me this nut' (1589) was a reply to the seditious Martin Mar-prelate tracts that had illegally circulated England in 1588 and 1589 and which were highly critical of the episcopacy. He wrote: 'These Martins were hatcht of addle egges, els could they not haue such idle heads'. 
-
-'I sawe through his paper coffen, that it was but a cosening corse, and one that had learnde of the holie maid of Kent, to lie in a trance, before he had brought foorth his lie; drawing his mouth awri, that could neuer speake right; goggling with his eyes that watred with strong wine; licking his lips, and gaping, as though he should loose his childes nose..'
-
-and one that had learnde of the holie maid of Kent, to lie in a trance, before
+Lyly's book 'Pappe with an hatchet. Alias, a figge for my godson. or Cracke me this nut' (1589) was a reply to the seditious Martin Mar-prelate tracts that had illegally circulated England in 1588 and 1589 and which were highly critical of the episcopacy. He wrote: 'These Martins were hatcht of addle egges, els could they not haue such idle heads'.[^ref8] His respect for the church may be linked to his childhood experiences in Canterbury. He accuses Martins of insincerity saying 'I sawe through his paper coffen, that it was but a cosening corse, and one that had learnde of the holie maid of Kent', [Elizabeth Barton](/medieval/barton-biography).
 
 
 The growing popularity of Thomas Kyd, Christopher Marlowe and William Shakespeare led to decline in Lyly's popularity and Lyly began to struggle financially.
@@ -64,6 +60,8 @@ He died in 1606, London as a poor man and is buried at St Bartholomew the Less.
 [^ref1]: Dictionary of National Biography
 [^ref2]: 
 [^ref3]: Hunter, G.K. _John Lyly: The humanist as courtier._ Routledge, 2022.
+
+[^ref8]: Nashe, T. ANSELMENT: MARTIN MARPRELATE, _The Review of English Studies_, Volume XVII, Issue 67, August 1966, Pages 258–267, https://doi.org/10.1093/res/XVII.67.258
 
 https://www.britannica.com/biography/John-Lyly
 http://elizabethandrama.org/the-playwrights/john-lyly/introduction-to-john-lyly/
