@@ -13,6 +13,7 @@ Lyly studied at Magdalen College, Oxford, where his matriculation entry describe
 ...kenne of Douer, which the Maister espying with a chéerefull voyce waking them,...
 ...white Cliffes which easely you may perceiue, are Douer hills, wherevnto is..
 
+Philatus who suffers from sea-sickness scarcely hears his companion's chatter and is ‘more ready to tell what wood the ship was made of than to answer to Euphues’ discourse’.
 
 He quickly gained the reputation of England's most fashionable writer of the 1580s. 
 
@@ -39,7 +40,9 @@ heere in hitKent at Ashford...
 ...muttering of marry-ages in hitRochester, my conscience which these eighteene yeeres...
 .... Heres a wedding in hitRochester, and twas tolde me first that Sperantus son...
 
-His book 'Pappe with an hatchet. Alias, a figge for my godson. or Cracke me this nut' was a reply to Martin Mar-prelate
+His book 'Pappe with an hatchet. Alias, a figge for my godson. or Cracke me this nut' was a reply to the seditious Martin Mar-prelate tracts that had illegally circulated England in 1588 and 1589. He wrote: 'Martins are mad martirs, some of them burnt seauen yeares agoe'
+
+I sawe through his paper coffen, that it was but a cosening corse, and one that had learnde of the holie maid of Kent, to lie in a trance, before he had brought foorth his lie; drawing his mouth awri, that could neuer speake right; goggling with his eyes that watred with strong wine; licking his lips, and gaping, as though he should loose his childes nose
 
 and one that had learnde of the holie maid of Kent, to lie in a trance, before
 
