@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="TLiterary Encounters Along the River Stour" author="Dr Diana Hirst" layout="vtl" 
 banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
