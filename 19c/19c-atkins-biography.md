@@ -23,7 +23,7 @@ Anna Atkins, botanist and photographer, was born on the 16 March 1799, in Tonbri
 <param ve-map center="Q2220232" zoom="12">
 <param ve-map center="Q2048526" zoom="12">
 
-When Anna was six, her father developed an interested in mineralogy and constructed a large voltaic battery to test how electricity can be used in chemical analysis at Ferox Hall. Along with the scientist, Humphry Davy, Children conducted many experiments at his home between 1808-12,[^ref3] eventually creating a large galvanic battery with plates measuring 32 square feet. Davy also describes "some experiments made on the action of tellurium and potassium in the laboratory of my friend John George Children, Esq., of Tunbridge" which he conducted in 1809.[^ref4] At around this time Anna was sent away to school. 
+When Anna was six, her father developed an interest in mineralogy and constructed a large voltaic battery to test how electricity can be used in chemical analysis at Ferox Hall. Along with the scientist, Humphry Davy, Children conducted many experiments at his home between 1808-12,[^ref3] eventually creating a large galvanic battery with plates measuring 32 square feet. Davy also describes "some experiments made on the action of tellurium and potassium in the laboratory of my friend John George Children, Esq., of Tunbridge" which he conducted in 1809.[^ref4] At around this time Anna was sent away to school. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" label="John George Children" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="15">
 <param ve-map center="Q99678204" zoom="15"> 
