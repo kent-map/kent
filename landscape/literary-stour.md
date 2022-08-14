@@ -5,28 +5,27 @@ banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 <param ve-entity eid="Q17529295" aliases="Godmersham Park">
 <param ve-entity eid="Q725261" aliases="Ashford">
 <param ve-entity eid="Q1004824" aliases="Chilham">
-<param ve-entity eid=" " aliases="Maidstone">
-<param ve-entity eid="  aliases="Lenham">
-<param ve-entity eid="  aliases="Postling">
-<param ve-entity eid="  aliases="Lyminge">
-<param ve-entity eid="  aliases="Pegwell Bay">
-<param ve-entity eid="  aliases="Canterbury">
-<param ve-entity eid="  aliases="Little Chart">
-<param ve-entity eid="  aliases="Pluckley">
-<param ve-entity eid="  aliases="Charing">
-<param ve-entity eid="  aliases="Brook">
-<param ve-entity eid="  aliases="Wye">
-<param ve-entity eid="  aliases="Great Dixter">
-<param ve-entity eid="  aliases="Chartham">
-<param ve-entity eid="  aliases="Rochester">
-<param ve-entity eid="  aliases="Bigbury">
-<param ve-entity eid="  aliases="Fordwich">
-<param ve-entity eid="  aliases="Bekesbourne">
-<param ve-entity eid="  aliases="Bishopsbourne">
-<param ve-entity eid="  aliases="Elham">
-<param ve-entity eid="  aliases="Littlebourne">
-<param ve-entity eid="  aliases="Plucks Gutter">
-<param ve-entity eid="  aliases="Sandwich">
+<param ve-entity eid="Q213180" aliases="Maidstone">
+<param ve-entity eid="Q28339447" aliases="Lenham">
+<param ve-entity eid="Q2309424" aliases="Postling">
+<param ve-entity eid="Q1870143" aliases="Lyminge">
+<param ve-entity eid="Q3425604" aliases="Pegwell Bay">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q2470003" aliases="Little Chart">
+<param ve-entity eid="Q683598" aliases="Pluckley">
+<param ve-entity eid="Q2005288" aliases="Charing">
+<param ve-entity eid="Q2090880" aliases="Brook">
+<param ve-entity eid="Q590063" aliases="Wye">
+<param ve-entity eid="Q2743911" aliases="Chartham">
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q2800432" aliases="Bigbury">
+<param ve-entity eid="Q2177468" aliases="Fordwich">
+<param ve-entity eid="Q4881598" aliases="Bekesbourne">
+<param ve-entity eid="Q866348" aliases="Bishopsbourne">
+<param ve-entity eid="Q1981740" aliases="Elham">
+<param ve-entity eid="Q2680610" aliases="Littlebourne">
+<param ve-entity eid="Q3392603" aliases="Plucks Gutter">
+<param ve-entity eid="Q26163" aliases="Sandwich">
 
 #
 
@@ -91,7 +90,7 @@ She was twenty-four, a ravishing and sonnet-begetting beauty and I can see her n
 The film producer Michael Powell was the son of a hop-farmer at nearby Bekesbourne, on the Nailbourne – of which more later. His 1944 black-and-white film [_A Canterbury Tale_](/canterbury/20c-canterbury-tales-film) (which obviously takes its title from [Chaucer](/medieval/14c-chaucer)), was the first of two collaborations with Emeric Pressburger. Set during the [Second World War](/canterbury/20c-canterbury-ww2), three modern-day incarnations of [Chaucer’s](/medieval/14c-chaucer) pilgrims—a melancholy Land Girl, a plainspoken American GI, and a resourceful British sergeant—are waylaid in the English countryside en route to [Canterbury](/canterbury/20c-canterbury-ww2) and forced to solve a bizarre village crime: the action was filmed in and around Bekesbourne. Another film producer Carol Reed (_The Third Man_, etc.) was at King’s, and even Judy Garland passed by in 1962 when she made a film with Dirk Bogarde. In _I Could Go on Singing_ she visits her son at his school: while Canon Shirley, the formidable headmaster at the time, forbade filming on the school grounds, it took place around the Cathedral. During filming Garland sat demurely on a chair – somehow not in the lively character as we know her - outside the Choir School, but intently watching the filming which she would presumably later join. Someone else who played a peripheral part in all this was the former Children’s Laureate Michael Morpurgo, who was at King’s from 1957-1962 when ‘[w]e wore strange uniforms, wing collars, black jackets, boaters [the same as Leigh-Fermor had worn nearly thirty years previously]. And when I was older I got to wear a scarlet gown which made me feel very important’. No wonder, then, that as school captain in 1962, Morpurgo caused filming to be suspended for a while, when he raised the number of extras who were wearing the school uniform with the film’s director, saying that this was a discredit to the school. A complaint was made by the chairman of governors and Dean of Canterbury Cathedral, Dr Hewlett Johnson, who said that ‘the “boys” looked very scruffy. [. . .] I hope they will be kept out of the film.’ Eventually the problem was resolved. 
 
 We can’t leave Canterbury without talking a little more about Hewlett Johnson, Canterbury’s other turbulent priest known as the Red Dean, whose left-wing ideas led to him being a supporter of Communism from the 1930s. His influence spread surreptitiously beyond the Cathedral, assisted by his one-time secretary A.T. D’Eye, a lifelong companion and mentor on socialism. D’Eye was an Oxford Extramural Resident Tutor and taught in the Kent coalfield and one of his most successful classes - on International Relations – began at [Betteshanger Colliery](/20c/20c-kent-miners) in the 1930s. There are suggestions that this particular class had a role among miners’ leaders in pursuing the 1942 strike, in wrestling with the issues it raised, and in representing the strike to the wider world. A huge CND banner was spread across the roof of the Red Dean’s house in the Precincts in the early 1960s, and he would attend CND meetings, sitting with his gaitered legs crossed, and beadily eying younger members of the audience as possible recruits for his politics.
-	
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5f/Hewlett_Johnson_by_Jacob_Epstein_02.JPG" label="Hewlett Johnson by Jacob Epstein" attribution="Jonathan Cardy, via Wikimedia Commons" license="CC BY-SA 3.0">															      
 A couple of miles downstream we come to Britain’s smallest town, Fordwich, which marks the tidal limit. It has never boasted more than a few hundred inhabitants, but its right to style itself a town dates from 1184, when King Henry II granted it a Merchant Gild Charter, reflecting its importance as the de facto port for Canterbury. Fordwich opens Chapter 4 of Isaak Walton’s [_The Compleat Angler_](http://www.kellscraft.com/CompleatAngler/CompleatanglerCh04.html):
 <br><br>
 'I know a little Brook in Kent, that breeds them (trout) to a number incredible, and you may take them twenty or forty in an hour, but none greater than about the size of a Gudgion: There is also in Kent near to Canterbury, a trout: (called there a Fordidge trout) a trout (that bears the name of the Town, where it is usually caught) that is accounted the rarest of Fish, many of them near the bignesse of a Salmon, but known by their different colour, and in their best season cut very white; and none of these have been known to be caught with an Angle, unless it were one that was caught by Sir George Hastings (an excellent Angler, and now with God), and he hath told me, he thought that trout bit not for hunger but wantonness; and it is the rather to be believed, because both he then, and many others before him, have been curious to search into their bellies, what the food was by which they lived; and have found out nothing by which they might satisfie their curiosity. He ends: And so much for these Fordidge trouts, which never afford an Angler sport, but either live their time of being in the fresh water by their meat formerly gotten in the Sea, (not unlike the Swallow or Frog) or by the vertue of the fresh water only; or as the birds of Paradise, and the Camelion are said to live by the Sun and the aire.' 
