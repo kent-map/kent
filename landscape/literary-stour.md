@@ -151,6 +151,7 @@ Pegwell Bay has unstable areas at low tide amongst the otherwise firm sands, and
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/Strand_Street%2C_King%27s_Lodging_-_geograph.org.uk_-_703683.jpg" label="King's Lodging, Strand Street, Sandwich" attribution="pam fray / Strand Street, King's Lodging" license="CC BY-SA 2.0">
 
 'the sand moves as you watch and forms itself into strange shapes, like monsters some of them . . . with claws . . . waiting to catch anyone who wandered there and pull them down. There were gulls circling overhead. Their cries were so mournful, Mrs Verlaine. Oh, it was frightening, so lonely, so desolate. They say the sands are haunted. I’ve talked to one of the men from the North Goodwins Lightship and he says that when he’s on watch he sometimes hears wild heart-rending cries from the sands. They used to say it was the gulls, but he wasn’t so sure. Terrible things have happened there.' 
+<param ve-image url="https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f" label="Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904">
 
 And we end with a summing up of those terrible things, alluded to by the German poet and novelist Theodor Fontane in this 1857 poem.
 <br><br>
