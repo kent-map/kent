@@ -2,6 +2,32 @@
 <param ve-config title="Literary Encounters Along the River Stour" author="Dr Diana Hirst" layout="vtl" 
 banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 
+<param ve-entity eid="Q17529295" aliases="Godmersham Park">
+<param ve-entity eid="Q725261" aliases="Ashford">
+<param ve-entity eid="Q1004824" aliases="Chilham">
+<param ve-entity eid=" " aliases="Maidstone">
+<param ve-entity eid="  aliases="Lenham">
+<param ve-entity eid="  aliases="Postling">
+<param ve-entity eid="  aliases="Lyminge">
+<param ve-entity eid="  aliases="Pegwell Bay">
+<param ve-entity eid="  aliases="Canterbury">
+<param ve-entity eid="  aliases="Little Chart">
+<param ve-entity eid="  aliases="Pluckley">
+<param ve-entity eid="  aliases="Charing">
+<param ve-entity eid="  aliases="Brook">
+<param ve-entity eid="  aliases="Wye">
+<param ve-entity eid="  aliases="Great Dixter">
+<param ve-entity eid="  aliases="Chartham">
+<param ve-entity eid="  aliases="Rochester">
+<param ve-entity eid="  aliases="Bigbury">
+<param ve-entity eid="  aliases="Fordwich">
+<param ve-entity eid="  aliases="Bekesbourne">
+<param ve-entity eid="  aliases="Bishopsbourne">
+<param ve-entity eid="  aliases="Elham">
+<param ve-entity eid="  aliases="Littlebourne">
+<param ve-entity eid="  aliases="Plucks Gutter">
+<param ve-entity eid="  aliases="Sandwich">
+
 #
 
 Before we start our literary exploration of Kent’s River Stour, here is some housekeeping. Since this is a virtual exploration, wellingtons and waders are not necessary, nor is a fly swat, umbrella or sunhat, and whether you pack your bag with haslet-filled huffkins along with your bottle of Bing or Fremlins Elephant Pale Ale, a bagful of Kentish Naps and a handful of Sharps toffees is up to you. One final point: you may pronounce it ‘Stoor’ or ‘Stower’, whichever you wish: it will answer to both!
@@ -26,8 +52,7 @@ The next stopping place is Wye, which used to be home to an agricultural college
 [Walter James, Lord Northbourne](/20c/20c-northbourne-biography), was Provost of Wye College for many years. He coined the term ‘organic farming’ in his seminal 1940 ‘Look to the Land’ and eighty years on, his ideas still have freshness and immediacy. Relevant sentences jump off almost every page – he is concerned with many things such as the effects of deforestation and flooding, the importance of renewing the land with organic matter, the danger of using chemicals, the challenge facing the farmer when he must choose between concentrating on marketing or on production, and the question of whether Britain could or ought to be self-supporting in food.  
 
 A little further on and we come to Godmersham Park, a Grade I listed house, set on the slope which rises above the river. [Jane Austen](/19c/19c-austen-biography) visited her brother, Edward Austen Knight, who lived here, six times between 1798 and 1813. The house is depicted behind her portrait on the Bank of England £10 note issued in 2017. Writing in _The Times_ in 1983 Geraldine Norman identifies Godmersham Park as the model for _Mansfield Park_.  Certainly some of the topography of Mansfield Park is reminiscent of that of Godmersham: ‘by walking fifty yards from the hall door, [Fanny Price can] look down on the park and command a view of the parsonage and all its demesnes, gently rising beyond the village road’. 
-
-Austen relished the time she spent in her brother’s lavish library, which comprised over 1200 titles, and included historical, biographical, and theological writings, periodicals, dictionaries, and atlases, and the most fashionable novels of the day. In her last visit to [Godmersham Park](/austen/austen-godmersham) in 1813, Austen wrote to her sister Cassandra, saying that she was delighted to ‘live in the Library except at Meals’ and, on occasion, to be ‘alone in the library, Mistress of all I survey’. 
+<param ve-image url="https://stor.artstor.org/stor/53bfab26-7b85-492e-bd79-ed01cd4f8020" label="The Stour at Godmersham" attribution="Michelle Crowther">
 
 And now to Canterbury we wend, passing by the villages of Chilham and Chartham. The city of Canterbury is forever associated with [Geoffrey Chaucer](/medieval/14c-chaucer) and his Pilgrims. Canterbury was their intended destination though they would not have come along the Stour and indeed they never reach Canterbury. Under [Chaucer’s](/medieval/14c-chaucer) pen they travel from Southwark via Rochester along Watling Street, which is roughly along the route of today’s A2 but they only reach Harbledown, on a chalk hill above the city: for some reason Chaucer never finished the poem.  
 
@@ -43,7 +68,7 @@ Canterbury is the birthplace of [Aphra Behn](/17c/17c-behn-biography), the first
 
 Canterbury was also the birthplace of [Mary Tourtel](/20c/20c-tourtel-biography), the creator of Rupert Bear, who was born in 1874 into an artistic family. Her father and one of her brothers were stonemasons and stained-glass designers at Canterbury Cathedral and her eldest brother, Edmund, was an artist with an interest in painting animals. Mary attended the Sidney Cooper School of Art in Canterbury and before becoming the writer and illustrator of Rupert Bear for the Daily Express between 1920 and 1935 created characters and scenes akin to the Kentish landscape:  the jury is out on the location of Nutwood, the idyllic village where Rupert lives with his parents. 
 
-Edward Hasted, the 18th century historian whose [_History and Topographical Survey of the County of Kent_]((https://www.british-history.ac.uk/survey-kent/vol11/pp67-69) is a document in which the Stour is discussed from time to time. 
+Edward Hasted, the 18th century historian whose [_History and Topographical Survey of the County of Kent_](https://www.british-history.ac.uk/survey-kent/vol11/pp67-69) is a document in which the Stour is discussed from time to time. 
 <br><br>
 The City of Canterbury is situated in a pleasant valley about two miles wide, surrounded by hills of a moderate height, and easy ascent, with several springs of fine water rising from them. Besides which the river Stour runs through it, the streams of which, by often dividing and meeting again, water it still more plentifully, and forming islands of various sizes, in one of which the western part of the city stands, contribute to purify the air, and make the soil fertile. Such a situation could hardly be destitute of inhabitants, nor was any spot more likely to unite numbers together to form a city, than one so well prepared by nature as well for defence as cultivation.
 
