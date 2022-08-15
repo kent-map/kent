@@ -18,7 +18,7 @@ banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 <param ve-entity eid="Q590063" aliases="Wye">
 <param ve-entity eid="Q2743911" aliases="Chartham">
 <param ve-entity eid="Q507517" aliases="Rochester">
-<param ve-entity eid="Q2800432" aliases="Bigbury">
+<param ve-entity eid="Q15199222" aliases="Bigbury Camp">
 <param ve-entity eid="Q2177468" aliases="Fordwich">
 <param ve-entity eid="Q4881598" aliases="Bekesbourne">
 <param ve-entity eid="Q866348" aliases="Bishopsbourne">
