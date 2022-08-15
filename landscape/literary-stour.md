@@ -177,3 +177,12 @@ And where they surface in the gloom
 they are crosses over the tomb.   
 This is a churchyard, half sea, half land, -   
 these are the shoals of the Goodwin Sands.
+
+### References
+
+[^ref1]: https://bbm.org.uk/of-interest/art-and-literature/hebates/
+[^ref1]:Norman, Geraldine (13 April 1983). "Jane Austen's "Mansfield Park" for sale". The Times. No. 61505. London. col C-F, p. 12.
+[^ref1]:Belloc, Hilaire. 1904. _The Old Road_. Constable, 1952, pp. 273-274.
+[^ref1]: Leigh-Fermor, Patrick. _A Time of Gifts_. Penguin 1977, p.15
+[^ref1]: Leigh-Fermor, pp. 17-18.
+[^ref1]: http://www.josephconradsociety.org/conradian_review_lester2.htm
