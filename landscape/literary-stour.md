@@ -176,4 +176,4 @@ Mast-spikes stick up here and there
 And where they surface in the gloom   
 they are crosses over the tomb.   
 This is a churchyard, half sea, half land, -   
-these are the shoals of the G   
+these are the shoals of the Goodwin Sands.
