@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Literary Encounters Along the River Stour" author="Dr Diana Hirst" layout="vtl" 
-banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
+banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994">
 
 <param ve-entity eid="Q17529295" aliases="Godmersham Park">
 <param ve-entity eid="Q725261" aliases="Ashford">
@@ -38,7 +38,7 @@ The [Kentish Stour Countryside Partnership](https://kentishstour.org.uk/) tells 
 <param ve-map center="Q29303" zoom="15">
 
 No writers seem to have perched on the banks of the East Stour or the West Stour, and so our first stopping point is Little Chart just south of Ashford. This was the home for many years of H.E. Bates, best known for _The Darling Buds of May_, set in a fictional village in this area. The 1990s film series with David Jason as Pa Larkin was actually filmed in the village of Pluckley, a little further south. Bates wrote the Darling Buds books in the years after the Second World War, but he was well known as a short story writer before and he also wrote about the countryside, especially the Kent countryside: _In the Heart of the Country, Through the Woods, The Happy Countryman_. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg" label="H.E. Bates. Photo taken by the author's wife, Marjorie Bates, C1932 at their home in Kent." attribution="Pipplepop, via Wikimedia Commons" license="CC BY-SA 4.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg" label="H.E. Bates. Photo taken by the author's wife, Marjorie Bates, C1932 at their home in Kent" attribution="Pipplepop, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-map center="Q2470003" zoom="15">
 
 At the time of the Battle of Britain H.E. Bates's brother-in-law comes to visit, and they decide:
@@ -74,6 +74,7 @@ From there they would have looked down at a Cathedral which would have looked ve
 <param ve-map center="Q29303" zoom="15">
 
 Belloc picks up the Stour at Charing and his route takes him round the north of Godmersham Park, and then past Chilham Park. A few miles from [Canterbury](/canterbury/20c-canterbury-home) Belloc tells how he comes ‘to the old earthwork which was at once the last and the greatest of the prehistoric remains upon the Old Road, and the first to be connected with written history’. Near here he sits on the gravelly bank of the Stour, and looks eastward towards the city, recalling the first Roman invasion when the British were defeated at Bigberry [sic] Camp, above ‘that dignified little stream the Stour, rolling an even tide below’.  He then joins Watling Street, and crosses into [Canterbury](/canterbury/20c-canterbury-home) through the Westgate.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/35/Bigbury_Camp_Digital_Terrain_Model.jpg" label="Bigbury Camp Digital Terrain Model" attribution="Rouven Meidlinger, via Wikimedia Commons" license="CC BY-SA 4.0"> 
 <param ve-map center="Q29303" zoom="15">
 
 The major reason for pilgrimage to [Canterbury](/canterbury/20c-canterbury-home) was to visit the shrine of Thomas A Becket, the Archbishop murdered on the 29th of December 1174 by four knights of King Henry II, who had unwisely exclaimed ‘Will no one rid me of this turbulent priest!’ on hearing that Becket had excommunicated some bishops with the words ‘May they all be damned by Jesus Christ!’ The Hospital of St Thomas the Martyr of Eastbridge was founded in the 12th century to provide overnight accommodation for poor pilgrims to Becket’s shrine. It is now one of the ten almshouses still providing accommodation for elderly citizens of Canterbury - cite_note-Hill-1 and is a grade I listed building. The decades after the Black Death (1346-1353) saw an increase in the popularity of pilgrimage, and several other large inns to accommodate visitors to the city were built at this time. Huge numbers certainly visited the city in the 1420s for the fifth fifty-year jubilee of Becket’s martyrdom. 
@@ -171,7 +172,7 @@ and summoned its strength to bear down on the boar
 and flailed at the beast with spangled wings    
 battering and pulping the grizzly boar   
 till it floated as flotsam on the winnowing waves.   
-<br><br>
+<br>
 The king was fearful for this dreadful dream    
 and sought out soothsayers to learn the meaning:   
 They told how the boar betokened a tyrant   
@@ -224,8 +225,8 @@ these are the shoals of the Goodwin Sands.
 ### References
 
 [^ref1]: https://bbm.org.uk/of-interest/art-and-literature/hebates/
-[^ref2]:Norman, Geraldine (13 April 1983). "Jane Austen's "Mansfield Park" for sale". The Times. No. 61505. London. col C-F, p. 12.
-[^ref3]:Belloc, Hilaire. 1904. _The Old Road_. Constable, 1952, pp. 273-274.
+[^ref2]: orman, Geraldine (13 April 1983). "Jane Austen's "Mansfield Park" for sale". The Times. No. 61505. London. col C-F, p. 12.
+[^ref3]: Belloc, Hilaire. 1904. _The Old Road_. Constable, 1952, pp. 273-274.
 [^ref4]: Leigh-Fermor, Patrick. _A Time of Gifts_. Penguin 1977, p.15
 [^ref5]: Leigh-Fermor, pp. 17-18.
 [^ref6]: http://www.josephconradsociety.org/conradian_review_lester2.htm
