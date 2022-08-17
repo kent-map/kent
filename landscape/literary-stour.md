@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Literary Encounters Along the River Stour" author="Dr Diana Hirst" layout="vtl" 
-banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994">
+banner="xxx">
 
 <param ve-entity eid="Q17529295" aliases="Godmersham Park">
 <param ve-entity eid="Q725261" aliases="Ashford">
