@@ -220,6 +220,7 @@ And where they surface in the gloom
 they are crosses over the tomb.   
 This is a churchyard, half sea, half land, -   
 these are the shoals of the Goodwin Sands.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/07/Wrecks_of_the_Britannia%2C_and_Admiral_Gardner%2C_East_Indiamen%2C_on_the_Goodwin_Sands%2C_24_Jan_1809_RMG_PU6386.tiff" label="Wrecks of the Britannia and Admiral Gardner East Indiamen on the Goodwin Sands 24 January 1809" attribution="Unknown author, Royal Museums Greenwich, Public domain, via Wikimedia Commons">
 <param ve-map center="Q29303" zoom="15">
 
 ### References
