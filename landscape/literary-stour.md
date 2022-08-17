@@ -26,6 +26,7 @@ banner="xxx">
 <param ve-entity eid="Q2680610" aliases="Littlebourne">
 <param ve-entity eid="Q3392603" aliases="Plucks Gutter">
 <param ve-entity eid="Q26163" aliases="Sandwich">
+<param ve-entity eid="Q1494482" aliases="Goodwin Sands">
 
 #
 
@@ -203,7 +204,7 @@ Pegwell Bay has unstable areas at low tide amongst the otherwise firm sands, and
 
 'the sand moves as you watch and forms itself into strange shapes, like monsters some of them . . . with claws . . . waiting to catch anyone who wandered there and pull them down. There were gulls circling overhead. Their cries were so mournful, Mrs Verlaine. Oh, it was frightening, so lonely, so desolate. They say the sands are haunted. I’ve talked to one of the men from the North Goodwins Lightship and he says that when he’s on watch he sometimes hears wild heart-rending cries from the sands. They used to say it was the gulls, but he wasn’t so sure. Terrible things have happened there.' 
 <param ve-image url="https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f" label="Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904">
-<param ve-map center="Q29303" zoom="15">
+<param ve-map center="Q1494482" zoom="15">
 
 And we end with a summing up of those terrible things, alluded to by the German poet and novelist Theodor Fontane in this 1857 poem.
 <br><br>
@@ -226,7 +227,7 @@ they are crosses over the tomb.
 This is a churchyard, half sea, half land, -   
 these are the shoals of the Goodwin Sands.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/07/Wrecks_of_the_Britannia%2C_and_Admiral_Gardner%2C_East_Indiamen%2C_on_the_Goodwin_Sands%2C_24_Jan_1809_RMG_PU6386.tiff" label="Wrecks of the Britannia and Admiral Gardner East Indiamen on the Goodwin Sands 24 January 1809" attribution="Unknown author, Royal Museums Greenwich, Public domain, via Wikimedia Commons">
-<param ve-map center="Q29303" zoom="15">
+<param ve-map center="Q1494482" zoom="15">
 
 ### References
 
