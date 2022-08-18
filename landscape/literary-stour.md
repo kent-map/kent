@@ -14,7 +14,6 @@ banner="https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_
 <param ve-entity eid="Q2470003" aliases="Little Chart">
 <param ve-entity eid="Q683598" aliases="Pluckley">
 <param ve-entity eid="Q2005288" aliases="Charing">
-<param ve-entity eid="Q2090880" aliases="Brook">
 <param ve-entity eid="Q590063" aliases="Wye">
 <param ve-entity eid="Q2743911" aliases="Chartham">
 <param ve-entity eid="Q507517" aliases="Rochester">
@@ -27,6 +26,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_
 <param ve-entity eid="Q3392603" aliases="Plucks Gutter">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q1494482" aliases="Goodwin Sands">
+<param ve-entity eid="Q5331558" aliases="Ebbsfleet">
 
 #
 
@@ -47,7 +47,7 @@ No writers seem to have perched on the banks of the East Stour or the West Stour
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg" label="H.E. Bates. Photo taken by the author's wife, Marjorie Bates, C1932 at their home in Kent" attribution="Pipplepop, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-map center="Q2470003" zoom="15">
 
-At the time of the Battle of Britain H.E. Bates's brother-in-law comes to visit, and they decide:
+At the time of the Battle of Britain, H.E. Bates's brother-in-law came to visit, and they decided:
 <br><br>
 'We would go fishing. I myself hadn’t fished for years and neither of us had a hook or line to our name. Accordingly we went out and spent some magnificent sum, about two pounds I imagine, on the two cheapest rods we could find, hooks, lines, floats and shot. We dug vast quantities of worms and mixed great puddings of paste. We then armed ourselves with beer, cheese and sandwiches and set off finally for the two pretty little lakes that lie in the centre of the village, one of them containing an island of quince trees, with the limpid narrow young River Stour running alongside them by woods of alder and hazel and here and there under big old horse chestnuts and half drowned ancient willows.
 <br><br>
@@ -97,7 +97,7 @@ Canterbury is the birthplace of [Aphra Behn](/17c/17c-behn-biography), the first
 <param ve-map center="Q29303" zoom="15">
 
 Canterbury was also the birthplace of [Mary Tourtel](/20c/20c-tourtel-biography), the creator of Rupert Bear, who was born in 1874 into an artistic family. Her father and one of her brothers were stonemasons and stained-glass designers at Canterbury Cathedral and her eldest brother, Edmund, was an artist with an interest in painting animals. Mary attended the Sidney Cooper School of Art in Canterbury and before becoming the writer and illustrator of Rupert Bear for the Daily Express between 1920 and 1935 created characters and scenes akin to the Kentish landscape:  the jury is out on the location of Nutwood, the idyllic village where Rupert lives with his parents. 
-<param ve-image url="images/tourtel2cantmus.jpg" label="Kicking from ‘Horses at Work’" attribution="©Canterbury Museums and Galleries"> 
+<param ve-image url="/images/tourtel2cantmus.jpg" label="Kicking from ‘Horses at Work’" attribution="©Canterbury Museums and Galleries"> 
 <param ve-map center="Q29303" zoom="15">
 
 Edward Hasted, the 18th century historian whose [_History and Topographical Survey of the County of Kent_](https://www.british-history.ac.uk/survey-kent/vol11/pp67-69) is a document in which the Stour is discussed from time to time. 
@@ -196,7 +196,7 @@ to be slain by the king and his noble knights.
 These wise words set free Arthur’s burden.   
 The King was cheered and hoisted his standard   
 to bid his fleet take the swan’s road to Flanders.   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/Vignette_from_Le_Morte_d%E2%80%99Arthur_-_Beardsley_-_Early_Works_plate_74.svg" label="Vignette from Le Morte d'Arthur" attribution="Arthur Beardsley, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Charles_Ernest_Butler_-_King_Arthur.jpg" label="King Arthur" attribution="Charles Ernest Butler, Public domain, via Wikimedia Commons">
 
 Sandwich later gained significantly from the skills brought to the town by many Flemish settlers, who were granted the right to settle by letters patent from Elizabeth I. Sandwich was the only town in England that housed more so-called ‘strangers’ than native Englishmen in the 16th century. Historian Marcel Backhouse estimated there were at least 2,400 Flemish and 500 Walloon exiles living in Sandwich at the time. The population today is only 6,600. Techniques of silk manufacture were imported, enhancing the Kent cloth industry. As well as weaving, these settlers brought with them techniques of market gardening, and were responsible for growing the first English celery, which was already - and still is - very popular in Flanders. The Huguenot refugees also brought over Flemish architectural techniques, that are now as much a part of Kent as the thatched cottage. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/St_Peter%27s_South_Vestry_%2819043443164%29.jpg" label="The south vestry of St Peter's Church in Sandwich, showing the curved Dutch gable. This dates from the 16th century" attribution="Garry Knight from London, England, via Wikimedia Commons" license="CC BY 2.0">
