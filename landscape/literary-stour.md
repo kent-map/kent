@@ -30,7 +30,8 @@ banner="https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_
 
 #
 
-Before we start our literary exploration of Kent’s River Stour, here is some housekeeping. Since this is a virtual exploration, wellingtons and waders are not necessary, nor is a fly swat, umbrella or sunhat, and whether you pack your bag with haslet-filled huffkins along with your bottle of Bing or Fremlins Elephant Pale Ale, a bagful of Kentish Naps and a handful of Sharps toffees is up to you. One final point: you may pronounce it ‘Stoor’ or ‘Stower’, whichever you wish: it will answer to both!
+Before we start our literary exploration of Kent’s River Stour, here is some housekeeping. Since this is a virtual exploration, wellingtons and waders are not necessary, nor is a fly swat, umbrella or sunhat, and whether you pack your bag with haslet-filled huffkins along with your bottle of Bing or Fremlins Elephant Pale Ale, a bagful of Kentish Naps and a handful of Sharps toffees is up to you. One final point: you may pronounce it ‘Stoor’ or ‘Stower’, whichever you wish: it will answer to both! 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f7/ProductImage2018.jpg" label="Image by Marc Holmes, product logo artwork originally designed by Silver Spring Mineral Water Company Limited, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 The River Stour has the second largest catchment area of Kent, after the Medway. It rises near Lenham just south east of Maidstone and flows south east parallel to the chalk escarpment of the North Downs and the greensand ridge, and then broadens out into a valley where it meets the East Stour, which flows north west from Postling near Folkestone. The upper section of the river, above its confluence with the East Stour at Ashford is sometimes known as the Upper Great Stour or West Stour. 
 
