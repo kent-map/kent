@@ -115,7 +115,6 @@ He moved forward a few steps: the house was so dark behind him, the world so dim
 <br><br>
 That is the section the optometrist knows off by heart: it is as far as most people get.
 <param ve-image url="https://stor.artstor.org/stor/eff29696-dbaa-473f-b1c7-2287a6add0e7" label="Canterbury Cathedral" attribution="Kent Maps Online">
-<param ve-map center="Q29303" zoom="15">
 
 The travel writer Patrick Leigh Fermor was expelled from King’s for holding hands with a greengrocer’s daughter, after which, in December 1933, he set out on his long journey across Europe to Constantinople. He later recollected his time at the school: 
 <br><br>
