@@ -8,16 +8,23 @@
 ##
 **[The Kentish Landscape](/landscape/kentish-landscapes)**
 
-- author: Peter Vujakovic
+- author: Professor Peter Vujakovic
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_3010.JPG)
 
 Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
 ##
+**[Literary Encounters along the Stour](/landscape/literary-stour)**
+
+- author: Dr Diana Hirst
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_%288270473878%29.jpg)
+
+##
 **[Scapes and Fringes](/landscape/scapes-and-fringes)**
 
-- author: Peter Vujakovic
+- author: Professor Peter Vujakovic
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/HopbinMJC.jpg)
 
@@ -26,7 +33,7 @@ It has become all too fashionable to coin yet another ‘-scape’ (drosscape, p
 ##
 **[The Kentish Chalk](/landscape/kentish-chalk)**
 
-- author: Peter Vujakovic
+- author: Professor Peter Vujakovic
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2985.JPG)
 
@@ -35,7 +42,7 @@ The chalk dust permeates numerous literary landscapes, including those of Dicken
 ##
 **[Chalk Pits, Ash and 'Stig of the Dump'](/landscape/chalk-pits-stig)**
 
-- author: Peter Vujakovic
+- author: Professor Peter Vujakovic
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2546.JPG)
 
@@ -44,7 +51,7 @@ One day Barney tumbles into an old chalk pit that is used as a local dumping gro
 ##
 **[Hop Picking and the Literary Imagination](/20c/20c-hop-picking)**
 
-- author: Carolyn Oulton
+- author: Professor Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/IllustratedhoppingMJC1.JPG)
 
@@ -53,7 +60,7 @@ To this day the autumn hop picking season provides a potent image of Kent rural 
 ##
 **[Hop and Fruit Picking in the 20th century](/landscape/20c-encounters-with-others)**
 
-- author: Peter Vujakovic
+- author: Professor Peter Vujakovic
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8b2c869f-fca1-462c-9f35-0ec431e15266)
 
