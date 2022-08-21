@@ -15,11 +15,13 @@
 Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
 ##
-**[Literary Encounters along the Stour](/landscape/literary-stour)**
+**[Literary Encounters along the River Stour](/landscape/literary-stour)**
 
 - author: Dr Diana Hirst
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_%288270473878%29.jpg)
+
+In Roman and medieval times the River Stour was a major transport route, connecting Canterbury with mainland Europe. Its beauty has inspired authors across time.
 
 ##
 **[Scapes and Fringes](/landscape/scapes-and-fringes)**
