@@ -19,7 +19,7 @@ Kent is a county of diverse landscapes - inspiring evocations of both rural idyl
 
 - author: Dr Diana Hirst
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_%288270473878%29.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_%288270473878%29.jpg)
 
 ##
 **[Scapes and Fringes](/landscape/scapes-and-fringes)**
