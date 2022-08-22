@@ -15,7 +15,7 @@ Lyly studied at Magdalen College, Oxford, where his matriculation entry describe
 
 Philatus who suffers from sea-sickness scarcely hears his companion's chatter and is ‘more ready to tell what wood the ship was made of than to answer to Euphues’ discourse’.
 
-He quickly gained the reputation of England's most fashionable writer of the 1580s. 
+He quickly gained the reputation of England's most fashionable writer of the 1580s. He dedicated 'Eupheus and His England' to Edward de Vere, 17th Earl of Oxford, who fell out of favour with Queen Elizabeth I in the early 1580s.
 
 After this he began writing comedies and was also a Member of Parliament
 
