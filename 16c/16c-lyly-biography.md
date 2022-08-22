@@ -46,7 +46,7 @@ In 1601, Lyly petitioned Elizabeth for the post of Master of Revels writing: 'Th
 [^ref12]: Lyly, J., 1554?-1606. (1589). Pappe with an hatchet alias, a figge for my god sonne. or cracke me this nut. or a countrie cuffe, that is, a sound boxe of the eare, for the idiot martin to hold his peace, seeing the patch will take no warning. VVritten by one that dares call a dog, a dog, and made to preuent martins dog daies. London: Retrieved from https://www.proquest.com/books/pappe-with-hatchet-alias-figge-my-god-sonne/docview/2248515915/se-2
 [^ref13]: Mother Bombie (1594)
 [^ref14]: Mother Bombie (1594)
-[^ref15]: Clarkson, L.A. 'The Leather Crafts in Tudor and Stuart England.' _Agricultural History Review_. p29-39. p.35
+[^ref15]: Clarkson, L.A. 'The Leather Crafts in Tudor and Stuart England.' _Agricultural History Review_, 1966, 35.
 [^ref16]: Mother Bombie (1594)
 [^ref17]: Mother Bombie (1594)
 [^ref18]: Peter Beal. "John Lyly". Catalogue of English Literary Manuscripts 1450-1700. 
