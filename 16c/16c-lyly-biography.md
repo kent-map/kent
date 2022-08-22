@@ -8,18 +8,16 @@
 
 'My heart throbbes, my eares tingle, my minde misgiues mee, since I heare such muttering of marry-ages in Rochester' - Vicinia in _Mother Bombie_ (1894)
 <br>
-John Lyly, dramatist, courtier, and parliamentarian, was born in Rochester or Canterbury in 1554. His father Peter was the registrar for Matthew Parker, the Archbishop of Canterbury, in the year of his birth and baptism registers of St Alphege church in the city of Canterbury contain the names of 6 of the 8 children born to Peter and Jane Lyly. However Peter Lyly also acted as a lawyer in Rochester in 1550, so other sources name this as John's birthplace.[^ref1] Peter owned the 'Splayed Eagle' in Sun or Palace Street, quite close to Canterbury cathedral, and at least two of his younger sons William and Peter attended the King's School in Canterbury at the same time as Christopher Marlowe (c.1578-80).
+John Lyly, dramatist, courtier, and parliamentarian, was born in Rochester or Canterbury in 1554. His father Peter was the registrar for Matthew Parker, the Archbishop of Canterbury, in the year of his birth and baptism registers of St Alphege church in the city of Canterbury contain the names of 6 of the 8 children born to Peter and Jane Lyly. However Peter Lyly also acted as a lawyer in Rochester in 1550, so other sources name this as John's birthplace.[^ref1] Peter owned the 'Splayed Eagle' in Sun or Palace Street, quite close to Canterbury cathedral, and at least two of his younger sons William and Peter attended the King's School in Canterbury at the same time as Christopher Marlowe (c.1578-80) whose plays would later eclipse Lyly's.
 
-Lyly studied at Magdalen College, Oxford, where his matriculation entry describes him as a Kentishman.[^ref3] In 1576, he moved to London where he was famed for publishing two prose romances, 'Euphues: The Anatomy of Wit' (1578) and 'Euphues and His England' (1580). He quickly gained a reputation as England's most fashionable writer.'Euphues and His England' was dedicated to Edward de Vere, 17th Earl of Oxford, and follows the journey of Euphues and Philautus from Athens to England. Euphues describes England as ‘is in fashion three cornered, where-off one side is toward Fraunce, the one corner of this side which is Kent, wher for the most part Ships ariue out of Fraunce… Of all the Inhabitaunts of this Isse, the Kentishmen are most ciuilest, the which country marcheth altogether vpon the Sea, & differeth not greatly from the manner of Fraunce.’ Whilst in England, they meet a ‘fatherly and friendly Sire’ named Fidus, who tells them he is a beekeeper from Kent. 
+Lyly studied at Magdalen College, Oxford, where his matriculation entry describes him as a Kentishman.[^ref3] In 1576, he moved to London where he was famed for publishing two prose romances, 'Euphues: The Anatomy of Wit' (1578) and 'Euphues and His England' (1580). He quickly gained a reputation as England's most fashionable writer.'Euphues and His England' was dedicated to Edward de Vere, 17th Earl of Oxford, and follows the journey of Euphues and Philautus from Athens to England. On their journey, Euphues describes England as ‘in fashion three cornered, where-off one side is toward Fraunce, the one corner of this side which is Kent, wher for the most part Ships ariue out of Fraunce… Of all the Inhabitaunts of this Isse, the Kentishmen are most ciuilest, the which country marcheth altogether vpon the Sea, and differeth not greatly from the manner of Fraunce.’ Philatus who suffers from sea-sickness scarcely listens to his companion's chatter and is ‘more ready to tell what wood the ship was made of than to answer to Euphues’ discourse’. As they approach the coastline, the Master of the ship points out: 'the Yonder white Cliffes which easely you may perceiue, are Douer hills, wherevnto is adioyning a strong and famous Castle, into the which Iulius Caesar dyd enter, wher you shal view many goodly monuments, both strange and auncient.' The two men arrive exhausted from their journey and although desirous of sleep feel obliged to provide supper for the sailors:  'therefore suppose them now in Douer Towne, in ye noble Isle of England, somwhat benighted, & more apt to sléepe then suppe: yet for manners sake they enterteyned their Maister and the rest of the Marchaunts and Marriners, wher hauing in due time both recorded their trauailes past, and ended their repast, euery one went to his lodging, wher I will leaue them soundly sléeping, vntill the next day.' After three or four days rest during which they "spent in viewing the Castell of Douer, the Pyre, the Cliffes, the Road, and Towne, receiuing as much pleasure by the sight of auncient monuments, as by their curteous entertainment, no lesse praising the persons for their good minds, then the place for the goodly buildings" they continued to Canterbury before heading to London.
 
-...kenne of Douer, which the Maister espying with a chéerefull voyce waking them,...
-...white Cliffes which easely you may perceiue, are Douer hills, wherevnto is..
+Whilst in England, Euphues and Philautus meet a ‘fatherly and friendly Sire’ named Fidus, who tells them he is a beekeeper who was 'borne in the wilde of Kent, of honest parents'.
 
-Philatus who suffers from sea-sickness scarcely hears his companion's chatter and is ‘more ready to tell what wood the ship was made of than to answer to Euphues’ discourse’.
+
 
 Edward de Vere, 17th Earl of Oxford, who fell out of favour with Queen Elizabeth I in the early 1580s.
 
-He quickly gained the reputation of England's most fashionable writer of the 1580s. He dedicated 'Eupheus and His England' to Edward de Vere, 17th Earl of Oxford, who fell out of favour with Queen Elizabeth I in the early 1580s.
 
 After this he began writing comedies and was also a Member of Parliament
 
@@ -52,11 +50,10 @@ In 1601, Lyly petitioned Elizabeth for the post of Master of Revels writing: "Th
 
 - developed unusual and pioneering style known as "euphuism": described by Britannica as "an elegant Elizabethan literary style marked by excessive use of balance, antithesis, and alliteration and by frequent use of similes drawn from mythology and nature."
 
-name derived from the name of the character of his first two prose romances, Euphues
-- light, fanciful, 'artificial'
+
 - style was highly influential, being used by Robert Greene and William Shakespeare; yet was also mocked by such writers and fell out of fashion
 - comedic dramas also draw from classical mythology and characters engage in euphuistic dialogue, and can be seen to have influenced several of Shakespeare's
-- plays were all acted by children, and all were written in prose apart from 'The Woman in the Moon' 
+- plays were all acted by children, 
 - his plays, which would come to be criticised for their euphuistic style, could be argued to be of the style which the Queen preferred
 
 He died in 1606, London as a poor man and is buried at St Bartholomew the Less.
