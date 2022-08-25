@@ -3,6 +3,7 @@
 .DS_Store
 venv
 .venv
+creds.yaml
 node_modules
 package-lock.json
 CNAME

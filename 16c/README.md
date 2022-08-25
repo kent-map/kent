@@ -24,6 +24,15 @@ On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversh
 The 'Holy Maid of Kent', Elizabeth Barton, prophesized that Henry VIII would die if he were to marry Anne Boleyn.
 
 ##
+**[John Lyly](16c-lyly-biography)**
+
+- author: Hannah Jennison and Michelle Crowther
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/de/John_Lyly%27s_signature_%28from_a_letter_to_Sir_Robert_Cecil%2C_Feb._4_1602-3%3B_from_original_MS._in_Hatfield_Library%29.png)
+
+Playwright, author and courtier, John Lyly was a Kentishman famed for his euphuistic writing.
+
+##
 **[Sheppey at War](16c-sheppey-at-war)**
 
 - author: Dr Melanie Caiazza
