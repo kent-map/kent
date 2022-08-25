@@ -28,7 +28,7 @@ The 'Holy Maid of Kent', Elizabeth Barton, prophesized that Henry VIII would die
 
 - author: Hannah Jennison and Michelle Crowther
 
-![](https://iiif.juncture-digital.org/thumbnail?url=/images/banners/16c.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/de/John_Lyly%27s_signature_%28from_a_letter_to_Sir_Robert_Cecil%2C_Feb._4_1602-3%3B_from_original_MS._in_Hatfield_Library%29.png)
 
 Playwright, author and courtier, John Lyly was a Kentishman famed for his euphuistic writing.
 
