@@ -2,6 +2,7 @@
 <param ve-config title="Princess Victoria at Broadstairs" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/a7e4f0ee-5b60-4e8d-857a-c567e4976d15">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q2540442" aliases="Eastwell Park">
 
 #
 
@@ -37,8 +38,6 @@ Princess Sophia Matilda stayed in Broadstairs at this time.[^ref] In September 1
 Lady Sophia Foy (1780-1845) was staying with the Princess at the time of Princes Victoria's visit. 
 
 Baroness Lehzen (3 October 1784 – 9 September 1870) was her governess. According to Hibbert (2000) Lehzen instilled distrust in Victoria's mind against her mother.
-
-Princess Sophia Matilda 
 
 Princess Sophia Matilda of Gloucester (29 May 1773 – 29 November 1844) was unmarried and 62 years old, Lady Sophia Foy was 56 (Unless it was her daughter) Princess Victoria was 17 and so the short visit may simply have been a curtesy call to an older relative. 
 <param ve-image url="https://stor.artstor.org/stor/8538611a-a4ed-4003-a5d6-fd5168d378cf" label="Blue Plaque at Pierremont House" attribution="Photographed by Martin Crowther">
