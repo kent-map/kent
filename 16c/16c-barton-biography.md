@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="The Maid of Kent: Elizabeth Barton" author="Amber Potter" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/b/bd/Binsfeld%2C_witches.jpg">
 
@@ -41,6 +41,8 @@ Barton’s life illustrates the chaotic and complicated nature of the Henrician 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Tyburn_tree.jpg" label="Tyburn Tree" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons"> 
 
 The public hanging was intended as a symbolic act, and her body and those of her supporters were left on display to show that she was nothing but a venerable, broken and impure person.[^ref29]  Her execution  was on the same day that citizens were required to swear the Oath of Succession, revealing the government’s determination to silence those who publically criticized Henry VIII’s policies and reforms.[^ref30]
+<br><br>
+This article was published: 30 April 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Elizabeth-Barton.jpg" label="Elizabeth Barton" attribution="most probably Thomas Holloway (1748–1827) based on a painting by Henry Tresham, Public domain, via Wikimedia Commons"> 
 
 ### Bibliography   
