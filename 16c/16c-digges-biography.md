@@ -50,7 +50,9 @@ His first publication was _Pantometria_ (1571), an edition of his father's manus
 
 In 1582, Thomas was employed by the Commissioners of Dover Harbour as an engineer to advise on the restoration of the harbour. He recommended 'earth bayes' rather than 'planked wourkes' after Folkestone, which had been supplying stone to Dover, refused to send any more.[^ref4] It was his foresight that saved the town around 5,000 marks. A plan of Dover Castle, Town and Harbour; drawn in the year 1581 on vellum, by or for the use of Thomas Digges, Esq., of Wootton in Kent, Muster Master General of Queen Elizabeth's forces in the Netherlands is held in the British Library. 
 <br><br>
-When fears of a [Spanish invasion](/16c/16c-spanish-armada/) gripped the county in 1588, Digges wrote: 'I am farre off from allowing of any confused disorderly running to the seaside to encounter a select trained well disciplined Enemie invading.'[^ref5]  He recommended delay tactics whilst a larger force could be mustered and the harvest destroyed.[^ref6] In 1588, his political and military career came to an end with a dispute over his accounts and he returned to his mathematical work, living at his estate in Chevening and also his house in London
+When fears of a [Spanish invasion](/16c/16c-spanish-armada/) gripped the county in 1588, Digges wrote: 'I am farre off from allowing of any confused disorderly running to the seaside to encounter a select trained well disciplined Enemie invading.'[^ref5]  He recommended delay tactics whilst a larger force could be mustered and the harvest destroyed.[^ref6] In 1588, his political and military career came to an end with a dispute over his accounts and he returned to his mathematical work, living at his estate in Chevening and also his house in London.
+<br><br>
+This article was published: 22 July 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/Invincible_Armada.jpg" label="Invincible Armada" attribution="Royal Museums Greenwich, Public domain, via Wikimedia Commons">
 <param ve-map center="Q179224" zoom="10">
 

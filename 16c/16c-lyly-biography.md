@@ -41,6 +41,8 @@ Although the main action of _Mother Bombie_ takes place in Rochester, Ashford an
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3b/Eduard_von_Gr%C3%BCtzner_-_Falstaff_%281906%29.jpg" label="Falstaff" attribution="Eduard on Grutzner, 1906">
 
 In 1601, Lyly hoping for advancement petitioned Elizabeth for the post of Master of Revels writing: 'Thirteen yeres your highnes servant but yet nothing. Twenty friends that though they saye they will be sure, I finde them sure to be slowe. A thousand hopes, but all nothing; a hundred promises but yet nothing. Thus casting up the inventory of my friends, hopes, promises and tymes, the summa totalis amounteth to just nothing.'[^ref18] It was his second of three petitions for the post, but by this time he had fallen out of popularity with the court. He died in 1606 and is buried at St Bartholomew the Less, in the city of London.
+<br><br>
+This article was published: 24 August 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/John_Lyly%27s_signature_%28from_a_letter_to_Sir_Robert_Cecil%2C_Feb._4_1602-3%3B_from_original_MS._in_Hatfield_Library%29.png" label="John Lyly signature from a letter to Sir Robert Cecil, 1602" attribution="Facsimile of a MS. in Hatfield Library; included in “The Complete Works of John Lyly”, edited by R. Warwick Bond, Oxford, 1902, Public domain, via Wikimedia Commons">
 
 ### References
