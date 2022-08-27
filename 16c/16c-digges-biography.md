@@ -52,7 +52,7 @@ In 1582, Thomas was employed by the Commissioners of Dover Harbour as an enginee
 <br><br>
 When fears of a [Spanish invasion](/16c/16c-spanish-armada/) gripped the county in 1588, Digges wrote: 'I am farre off from allowing of any confused disorderly running to the seaside to encounter a select trained well disciplined Enemie invading.'[^ref5]  He recommended delay tactics whilst a larger force could be mustered and the harvest destroyed.[^ref6] In 1588, his political and military career came to an end with a dispute over his accounts and he returned to his mathematical work, living at his estate in Chevening and also his house in London.
 <br><br>
-This article was published: 24 August 2022.
+This article was published: 22 July 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/Invincible_Armada.jpg" label="Invincible Armada" attribution="Royal Museums Greenwich, Public domain, via Wikimedia Commons">
 <param ve-map center="Q179224" zoom="10">
 
