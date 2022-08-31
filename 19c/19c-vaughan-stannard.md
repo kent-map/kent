@@ -74,16 +74,16 @@ After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to re
 
 ### Bibliography
 
-[^ref1]: Mrs Arthur Stannard at Home, _Woman’s World_, p.340
-[^ref1]:  Mrs Arthur Stannard at Home, _Woman’s World_, p.340
-[^ref1]:  A popular novelist _Penrith Observer_ - Tuesday 06 May 1890 p6
-[^ref1]:  Mr Ruskin and Mrs Stannard. _Manchester Courier and Lancashire General Advertiser_ - Saturday 07 July 1894 Also Percy L. Parker Young Woman - Friday 02 February 1894 p.162
-[^ref1]:  Thursday, 10th July [1890] Periodical Prospectus. John Johnson Collection 
+[^ref1]: Mrs Arthur Stannard at Home, _Woman’s World_, p.340.   
+[^ref1]:  Mrs Arthur Stannard at Home, _Woman’s World_, p.340.   
+[^ref1]:  A popular novelist _Penrith Observer_ - Tuesday 06 May 1890 p6.   
+[^ref1]:  Mr Ruskin and Mrs Stannard. _Manchester Courier and Lancashire General Advertiser_ - Saturday 07 July 1894 Also Percy L. Parker Young Woman - Friday 02 February 1894 p.162.   
+[^ref1]:  Thursday, 10th July [1890] Periodical Prospectus. John Johnson Collection.   
 [^ref1]:  Notable women authors of the day by Black, Helen C 
 JOHN STRANGE WINTER Thursday,  June 1, 1893 Hearth and Home (UKP) (London, England) Volume: 5 , Issue: 107 
 JOHN STRANGE WINTER Thursday,  June 1, 1893 Hearth and Home (UKP) (London, England) Volume: 5 , Issue: 107
   4 October 1892 – To Miss EE Dickinson (Hon Sec). Letter on black-edged paper, unclear hand-writing, written from The White House, Wix, Manningtree, [Essex]. Will be moving house and unable to come to the Club on Friday. Says she will miss Miss Dickinson 'horribly' and hopes Miss Dickinson will still be an Honorary member of the Committee - she will write suggesting it. Women’s Library
-[^ref1]:  _East Anglian Daily Times_ - Thursday 26 May 1892
+[^ref1]:  _East Anglian Daily Times_ - Thursday 26 May 1892.   
 [^ref1]:  _Essex Standard_ - Saturday 01 April 1893
 [^ref1]:  _Chelmsford Chronicle_ - Friday 19 February 1892
 [^ref1]:  _Whitstable Times and Herne Bay Herald_ - Saturday 05 December 1891
