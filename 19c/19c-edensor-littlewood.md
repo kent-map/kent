@@ -14,6 +14,6 @@ The family moved to Dover in 1887, where his father took up a post at Dover Coll
 
 In 1891, John and his siblings went to live with their grandparents whilst their parents prepared for a move to Africa and in the following year the family moved to Wynberg in the Cape Colony. His father took up a post at the High School there, where he continued to teach until 1918.  John spent the next eight years in Africa where he went to school and attended some lectures at Cape Town University, despite his very young age.
 
-At the age of 15, John returned to England to live with his uncle who was a master at St Paul's School in London, where he himself became a pupil.  John thrived under the tutelage of mathematics master Francis Sowerby Macaulay and in 1903/4 he went up to [ ] Cambridge. In 1912, he published a series of papers with G.H. Hardy on Diophantine analysis, divergent series summation, Fourier series, the Riemann zeta function and the distribution of primes.
+At the age of 15, John returned to England to live with his uncle who was a master at St Paul's School in London, where he himself became a pupil.  John thrived under the tutelage of mathematics master Francis Sowerby Macaulay and in 1903 he went up to Trinity College, Cambridge. In 1912, he published the first of a series of papers with G.H. Hardy, a collaboration which was to last 35 years. The two mathematicians published articles on on Diophantine analysis, divergent series summation, Fourier series, the Riemann zeta function and the distribution of primes.
 
 
