@@ -23,6 +23,7 @@ During the First World War, John served as a second lieutenant in the Royal Garr
 In 1938, Littlewood began working with Mary Cartwright on non-linear differential equations to advance research into radio enginnering as a result of an appeal from the Radio Research Board. They spent 20 years working on equations such as van der Pol's equation.
 
 Sir Henry Dale described John as "the man most likely to storm and smash a really deep and formidable problem; there was no one else who could command such a combination of insight, technique and power".[^ref] He died on the 6 September 1877 in Cambridge.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/John_Edensor_Littlewood.jpg" label="John Edensor Littlewood" attribution="no conegut, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 ### References
 
