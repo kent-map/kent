@@ -7,3 +7,5 @@
 #
 
 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' - JOhn Edensor Littlewood.
+
+John Edensor Littlewood, mathematician was born in Rochester on 9 June 1885.
