@@ -8,7 +8,7 @@
 
 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' - John Edensor Littlewood.
 <br><br>
-John Edensor Littlewood, mathematician was born in Rochester on 9 June 1885. He lived with his parents Sylvia and Edward Thornton Littlewood at 4, Clevedon Terrace, Roebuck Lane. His father who had been Ninth Wrangler in the Mathematical Tripos at Cambridge three years earlier, was a mathematics master at Rochester Cathedral Grammar School.
+John Edensor Littlewood, mathematician was born in Rochester on 9 June 1885. He lived with his parents Sylvia and Edward Thornton Littlewood at 4, Clevedon Terrace, Roebuck Lane.[^ref] His father who had been Ninth Wrangler in the Mathematical Tripos at Cambridge three years earlier, was a mathematics master at Rochester Cathedral Grammar School.[^ref]
 
 The family moved to Dover in 1887, where his father took up a post at Dover College. It was here that John's two brothers Martin and Leslie were born. His parents took in boarders, so home life would have been lively with babies and young boys.[^ref] His uncle Francis taught/attended Dover College in 1890 but tragically drowned (where) two years later.
 
@@ -27,7 +27,8 @@ Sir Henry Dale described John as "the man most likely to storm and smash a reall
 ### References
 
 [^ref]: Bollobás, Béla. "Littlewood, John Edensor (1885–1977), mathematician." Oxford Dictionary of National Biography.  23. Oxford University Press. Date of access 1 Sep. 2022, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-31368>
-[^ref]: The Spectator, 1890
+[^ref]: _Rochester Diocesan Directory_ 1884.
+[^ref]: _The Spectator_, 1890
 [^ref]: Littlewood, John Endensor. _Littlewood's Miscellany_. Cambridge: Cambridge University Press, 1986.
 
 
