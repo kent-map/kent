@@ -16,6 +16,13 @@ In 1891, John and his siblings went to live with their grandparents whilst their
 
 At the age of 15, John returned to England to live with his uncle who was a master at St Paul's School in London, where he himself became a pupil.  John thrived under the tutelage of mathematics master Francis Sowerby Macaulay and in 1903 he went up to Trinity College, Cambridge. In 1912, he published the first of a series of papers with G.H. Hardy, a collaboration which was to last 35 years. The two mathematicians published articles on on Diophantine analysis, divergent series summation, Fourier series, the Riemann zeta function and the distribution of primes.
 
-During the First World War, John served as a second lieutenant in the Royal Garrison Artillery working on ballistics.
+During the First World War, John served as a second lieutenant in the Royal Garrison Artillery working on and furthering research into ballistics. 
+
+In 1943, Sir Henry Dale described John as "the man most likely to storm and smash a really deep and formidable problem; there was no one else who could command such a combination of insight, technique and power".[^ref]
+
+### References
+
+[^ref]: Littlewood, John Endensor. _Littlewood's Miscellany_. Cambridge: Cambridge University Press, 1986.
+
 
 
