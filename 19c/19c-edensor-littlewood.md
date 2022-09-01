@@ -6,8 +6,8 @@
 
 #
 
-'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' - JOhn Edensor Littlewood.
+'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' - John Edensor Littlewood.
 
 John Edensor Littlewood, mathematician was born in Rochester on 9 June 1885. He lived with his parents Sylvia and Edward Thornton Littlewood at 4, Clevedon Terrace, Roebuck Lane. His father who had been Ninth Wrangler in the Mathematical Tripos at Cambridge three years earlier, was a mathematics master at Rochester Cathedral Grammar School.
 
-The family moved to Dover in 1887, where his father took up a post at Dover College. It was here that John's two brothers Martin and Leslie were born. His parents also took in boarders, so the house would have been lively with babies and boys.
+The family moved to Dover in 1887, where his father took up a post at Dover College. It was here that John's two brothers Martin and Leslie were born. His uncle Francis was at the college and his parents took in boarders, so home life would have been lively with babies and young boys.
