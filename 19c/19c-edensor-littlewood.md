@@ -19,7 +19,7 @@ At the age of 15, John returned to England to live with his uncle who was a mast
 
 In 1912, he published the first of a series of papers with G.H. Hardy, a collaboration which was to last 35 years. The two mathematicians published articles on Diophantine analysis, divergent series summation, Fourier series, the Riemann zeta function and the distribution of primes.
 
-During the First World War, John served as a second lieutenant in the Royal Garrison Artillery working on and furthering research into ballistics. 
+During the First World War, John served as a second lieutenant in the Royal Garrison Artillery working on and furthering research into ballistics. He was able to predict with accuracy missile trajectories.[^ref6]
 
 In 1938, Littlewood began working with Mary Cartwright on non-linear differential equations to advance research into radio enginnering as a result of an appeal from the Radio Research Board. They spent 20 years working on equations such as van der Pol's equation.
 
@@ -33,4 +33,5 @@ Sir Henry Dale described John as "the man most likely to storm and smash a reall
 [^ref3]: _The Spectator_, 1890.
 [^ref4]: Littlewood's Law of Miracles, p.4
 [^ref5]: Littlewood's Law of Miracles, p.5
+[^ref6]: Littlewood's Law of Miracles, p.6
 [^ref]: Littlewood, John Endensor. _Littlewood's Miscellany_. Cambridge: Cambridge University Press, 1986.
