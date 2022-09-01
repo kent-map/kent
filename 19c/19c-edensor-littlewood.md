@@ -11,3 +11,5 @@
 John Edensor Littlewood, mathematician was born in Rochester on 9 June 1885. He lived with his parents Sylvia and Edward Thornton Littlewood at 4, Clevedon Terrace, Roebuck Lane. His father who had been Ninth Wrangler in the Mathematical Tripos at Cambridge three years earlier, was a mathematics master at Rochester Cathedral Grammar School.
 
 The family moved to Dover in 1887, where his father took up a post at Dover College. It was here that John's two brothers Martin and Leslie were born. His uncle Francis was at the college and his parents took in boarders, so home life would have been lively with babies and young boys.
+
+In 1891, John and his siblings went to live with their grandparents whilst their parents prepared for a move to Africa and in the following year the family moved to Wynberg in the Cape Colony.
