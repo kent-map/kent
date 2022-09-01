@@ -22,6 +22,7 @@ In 1943, Sir Henry Dale described John as "the man most likely to storm and smas
 
 ### References
 
+[^ref]: Bollobás, Béla. "Littlewood, John Edensor (1885–1977), mathematician." Oxford Dictionary of National Biography.  23. Oxford University Press. Date of access 1 Sep. 2022, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-31368>
 [^ref]: Littlewood, John Endensor. _Littlewood's Miscellany_. Cambridge: Cambridge University Press, 1986.
 
 
