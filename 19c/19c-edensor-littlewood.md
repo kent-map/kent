@@ -7,7 +7,7 @@
 #
 
 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' - John Edensor Littlewood.
-
+<br><br>
 John Edensor Littlewood, mathematician was born in Rochester on 9 June 1885. He lived with his parents Sylvia and Edward Thornton Littlewood at 4, Clevedon Terrace, Roebuck Lane. His father who had been Ninth Wrangler in the Mathematical Tripos at Cambridge three years earlier, was a mathematics master at Rochester Cathedral Grammar School.
 
 The family moved to Dover in 1887, where his father took up a post at Dover College. It was here that John's two brothers Martin and Leslie were born. His parents took in boarders, so home life would have been lively with babies and young boys. His uncle Francis taught/attended Dover College in 1890 but tragically drowned (where) two years later.
@@ -18,7 +18,7 @@ At the age of 15, John returned to England to live with his uncle who was a mast
 
 During the First World War, John served as a second lieutenant in the Royal Garrison Artillery working on and furthering research into ballistics. 
 
-In 1943, Sir Henry Dale described John as "the man most likely to storm and smash a really deep and formidable problem; there was no one else who could command such a combination of insight, technique and power".[^ref]
+In 1943, Sir Henry Dale described John as "the man most likely to storm and smash a really deep and formidable problem; there was no one else who could command such a combination of insight, technique and power".[^ref] He died on the 6 September 1877 in Cambridge.
 
 ### References
 
