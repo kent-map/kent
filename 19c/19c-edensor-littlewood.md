@@ -12,4 +12,6 @@ John Edensor Littlewood, mathematician was born in Rochester on 9 June 1885. He 
 
 The family moved to Dover in 1887, where his father took up a post at Dover College. It was here that John's two brothers Martin and Leslie were born. His uncle Francis was at the college and his parents took in boarders, so home life would have been lively with babies and young boys.
 
-In 1891, John and his siblings went to live with their grandparents whilst their parents prepared for a move to Africa and in the following year the family moved to Wynberg in the Cape Colony.
+In 1891, John and his siblings went to live with their grandparents whilst their parents prepared for a move to Africa and in the following year the family moved to Wynberg in the Cape Colony. His father took up a post at the High School there, where he continued to teach until 1918.  John spent the next eight years in Africa where he was able to attend lectures
+
+At the age of 15, John returned to England to live with his uncle who was a master at St Paul's School in London, where he became a pupil.  He thrived under the tutelage of mathematics master Francis Sowerby Macaulay.
