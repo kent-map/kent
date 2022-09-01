@@ -32,6 +32,3 @@ Sir Henry Dale described John as "the man most likely to storm and smash a reall
 [^ref]: _Rochester Diocesan Directory_ 1884.
 [^ref]: _The Spectator_, 1890
 [^ref]: Littlewood, John Endensor. _Littlewood's Miscellany_. Cambridge: Cambridge University Press, 1986.
-
-
-
