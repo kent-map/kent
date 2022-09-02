@@ -29,6 +29,8 @@ After the death of her husband in 1902 at Hillside, Greenhithe, Charlotte contin
 <param ve-map center="Q3028239" zoom="10">
 
 Her daughter Marie, published a study of the botany of the dried-up Fleet river at Ebbsfleet in 1903. She was to go on to found the first birth control clinic in Britain and write _Married Love_ (1918). A biography of Marie's life was subsequently rejected by the committee of [Folkestone Library](/19c/19c-folkestone-free-library) for fears it might contain references to sex and birth control.[^ref10]  
+<br><br>
+This article was published: 9 October 2021.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Marie_Stopes_in_her_laboratory%2C_1904.jpg" label="Marie Stopes in her laboratory, 1904" attribution="Author unknown, Public domain, via Wikimedia Commons">
 
 ### References
