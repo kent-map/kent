@@ -42,6 +42,7 @@
 [Douglas William Jerrold](19c-jerrold-biography)   
 [Dora Jordan](19c-jordan-biography)   
 [John Keats](19c-keats-margate)   
+[John Edensor Littlewood](19c-edensor-littlewood)   
 [Bessie Marchant](19c-marchantb-biography)  
 [George Meredith](19c-meredith-biography)   
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)  
