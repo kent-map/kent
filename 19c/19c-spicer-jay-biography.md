@@ -24,6 +24,8 @@ In later years Edith could be seen being pushed along in a bath chair by her sec
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/68/The_promenade_Sandgate_England.jpg" label="The Promenade, Sandgate" attribution="Snapshots Of The Past, CC BY-SA 2.0, via Wikimedia Commons">
 
 She died on the 3rd December 1901 and was buried with military honours at Shorncliffe Camp. The hearse bearing her coffin was draped with the union flag and followed by a procession of Coastguards and Cavalry. The string band of the Dragoons played the funeral march.[^ref10] 
+<br><br>
+This article was published: 1 August 2020.
 <param ve-image url="https://stor.artstor.org/stor/290a020f-939a-4095-afcb-7b7c33f19237" label="Shorncliffe Camp" attribution="Kent Maps Online Postcard Collection">
 
 
