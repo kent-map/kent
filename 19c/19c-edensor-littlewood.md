@@ -24,7 +24,7 @@ During the First World War, John served as a second lieutenant in the Royal Garr
 
 In 1938, Littlewood began working with Mary Cartwright on non-linear differential equations to advance research into radio enginnering as a result of an appeal from the Radio Research Board. They spent 12 years working on equations such as van der Pol's equation.
 <br><br>
-Sir Henry Dale described John as "the man most likely to storm and smash a really deep and formidable problem; there was no one else who could command such a combination of insight, technique and power".[^ref10] John loved holidaying in Cornwall where he enjoyed walking and sea swimming. In 1934, he assisted Dr Raymond Streatfeild when two swimmers were almost drowned at Porthcurno, which must have been a reminder of his only family's tragedies.[^ref11] He died on the 6 September 1977 in Cambridge.
+Sir Henry Dale described John as "the man most likely to storm and smash a really deep and formidable problem; there was no one else who could command such a combination of insight, technique and power".[^ref10] John loved holidaying in Cornwall where he enjoyed walking and sea swimming. In 1934, he assisted Dr Raymond Streatfeild when two swimmers were almost drowned at Porthcurno, which must have been a reminder of his own family's tragedies.[^ref11] He died on the 6 September 1977 in Cambridge.
 <br><br>
 This article was researched with the help of Fanta as part of the Duke of Edinburgh award. It was published: 3 September 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/John_Edensor_Littlewood.jpg" label="John Edensor Littlewood" attribution="no conegut, via Wikimedia Commons" license="CC BY-SA 3.0">
