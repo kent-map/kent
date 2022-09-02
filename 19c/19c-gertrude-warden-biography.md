@@ -51,7 +51,9 @@ In the story, Hervey becomes enchanted by Lilith, a young girl of about 15 who �
 <param ve-image url="https://stor.artstor.org/stor/e0d0f20a-3c3f-48db-ba79-f8fc85a1d38e" label="Illustration on the front cover of The Wooing of a Fairy" attribution="British library, public domain">
 <param ve-map center="Q2056118" zoom="15">
 
-It is unlikely that Gertrude’s stay in Kent was as long as her protagonist's, but her sorrow was probably as real. In 1899 she married Auguste Devot de Quillacq, a long-standing family friend, who was 18 years older than her and they moved to Monaco, where she enjoyed life on the Riviera and became acquainted with [Baroness Orczy](/20c/20c-orczy-biography).[^ref19] She was a member of the Women's Writers' Suffrage League, along with [Sarah Grand](/19c/19c-grand-biography)
+It is unlikely that Gertrude’s stay in Kent was as long as her protagonist's, but her sorrow was probably as real. In 1899 she married Auguste Devot de Quillacq, a long-standing family friend, who was 18 years older than her and they moved to Monaco, where she enjoyed life on the Riviera and became acquainted with [Baroness Orczy](/20c/20c-orczy-biography).[^ref19] She was a member of the Women's Writers' Suffrage League, along with [Sarah Grand](/19c/19c-grand-biography).
+<br><br>
+This article was published: 25 September 2021.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/Baroness_Emma_Orczy_%28Bassano%29.jpg" label="Baroness Orczy" attribution="Bassano Ltd, Public domain, via Wikimedia Commons">
 
 ### References
