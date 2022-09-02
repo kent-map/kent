@@ -34,7 +34,7 @@ In 1811, the Duke, now under pressure from the royal family to marry, separated 
 
 In the following February, Dora toured [Dover](/19c/19c-dover) and [Deal](/19c/19c-deal), giving performances of Widow Cheerly, Violante, Letitia Hardy, and Lady Teazel in Sheridan’s _The School for Scandal_. In the summer she gave 10 performances at Margate – these were to be her last.[^ref21] The Duke had  withdrawn his support and Mrs Jordan moved to the continent where she was to die in 1816. As well as acting, Dora wrote plays and songs, which she performed on stage, as well as encouraging work by other female playwrights.
 <br><br>
-This article was published: 18 October 2022.
+This article was published: 18 October 2020.
 <param ve-image url="/dickens/images/Snargate St Dover 1830.jpg" label="Snargate St Dover c.1830" attribution="Drawn by G.Shepherd">
 
 ### References
