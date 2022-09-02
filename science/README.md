@@ -53,7 +53,7 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 ##
 **[Walter James](/20c/20c-northbourne-biography)**
 
-- Diana Hirst
+- author: Diana Hirst
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/14/CabbageBG.JPG)
 
@@ -62,7 +62,7 @@ Inventor of organic farming
 ##
 **[John Edensor Littlewood](/19c/19c-edensor-littlewood)**
 
-- Michelle Crowther
+- author: Michelle Crowther
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/44be2f2c-2f9a-48a2-8cc2-e009206ac344)
 
