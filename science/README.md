@@ -66,7 +66,7 @@ Inventor of organic farming
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/44be2f2c-2f9a-48a2-8cc2-e009206ac344)
 
-Mathematician known for his work on analysis, number theory, and differential equations.
+Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations.
 
 ##
 **[Robert Plot](/17c/17c-robert-plot)**
