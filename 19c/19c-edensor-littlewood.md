@@ -20,12 +20,11 @@ At the age of 15, John returned to England to live with his aunt and uncle and b
 
 In 1912, he published the first of a series of papers with G.H. Hardy, a collaboration which was to last 35 years. The two mathematicians published articles on Diophantine analysis, divergent series summation, Fourier series, the Riemann zeta function and the distribution of primes.
 <br><br>
-During the First World War, John served as a second lieutenant in the Royal Garrison Artillery working on and furthering research into ballistics. He was able to predict with accuracy missile trajectories, for which he gained much respect and he was allowed certain privileges such as carrying his umbrella whilst in uniform.[^ref8]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/88/9.2inchHowitzer91stBatteryRGAArras1April1917.jpg" label="Royal Garrison Artillery, Arras, 1 April 1917" attribution="John Warwick Brooke, Public domain, via Wikimedia Commons">
+During the First World War, John served as a second lieutenant in the Royal Garrison Artillery working on and furthering research into ballistics. He was able to predict with accuracy missile trajectories, for which he gained much respect and he was allowed certain privileges such as carrying his umbrella whilst in uniform.[^ref8]. This work improved the accuracy of anti-aircraft range tables.[^ref9]
 
 In 1938, Littlewood began working with Mary Cartwright on non-linear differential equations to advance research into radio enginnering as a result of an appeal from the Radio Research Board. They spent 12 years working on equations such as van der Pol's equation.
 <br><br>
-Sir Henry Dale described John as "the man most likely to storm and smash a really deep and formidable problem; there was no one else who could command such a combination of insight, technique and power".[^ref9] John loved holidaying in Cornwall where he enjoyed walking and sea swimming. In 1934, he assisted Dr Raymond Streatfeild when two swimmers were almost drowned at Porthcurno, which must have been a reminder of his only family's tragedies.[^ref10] He died on the 6 September 1977 in Cambridge.
+Sir Henry Dale described John as "the man most likely to storm and smash a really deep and formidable problem; there was no one else who could command such a combination of insight, technique and power".[^ref10] John loved holidaying in Cornwall where he enjoyed walking and sea swimming. In 1934, he assisted Dr Raymond Streatfeild when two swimmers were almost drowned at Porthcurno, which must have been a reminder of his only family's tragedies.[^ref11] He died on the 6 September 1977 in Cambridge.
 <br><br>
 This article was researched with the help of Fanta as part of the Duke of Edinburgh award. It was published: 3 September 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/John_Edensor_Littlewood.jpg" label="John Edensor Littlewood" attribution="no conegut, via Wikimedia Commons" license="CC BY-SA 3.0">
@@ -40,5 +39,6 @@ This article was researched with the help of Fanta as part of the Duke of Edinbu
 [^ref6]: Venn, John. _Alumni Cantabrigienses: A Biographical List of All Known Students, Graduates and Holders of Office at the University of Cambridge, from the Earliest Times to 1900_. Cambridge: Cambridge University Press, 2011.
 [^ref7]: MSAC Philosophy Group _Littlewood's Law of Miracles_, p.5
 [^ref8]: MSAC Philosophy Group _Littlewood's Law of Miracles_, p.6
-[^ref9]: Littlewood, John Endensor. _Littlewood's Miscellany_. Cambridge: Cambridge University Press, 1986.
-[^ref10]: "Thriling Rescue near Porthcurno." Cornishman, 13 Sept. 1934, p. 4. British Library Newspapers, link.gale.com/apps/doc/IG3223742098/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=29c969ca. Accessed 2 Sept. 2022.
+[^ref9]: O'Connor, J.J. and Robertson, E.F. _John Edensor Littlewood_ https://mathshistory.st-andrews.ac.uk/Biographies/Littlewood/ , 2003.
+[^ref10]: Littlewood, John Endensor. _Littlewood's Miscellany_. Cambridge: Cambridge University Press, 1986.
+[^ref11]: "Thriling Rescue near Porthcurno." Cornishman, 13 Sept. 1934, p. 4. British Library Newspapers, link.gale.com/apps/doc/IG3223742098/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=29c969ca. Accessed 2 Sept. 2022.
