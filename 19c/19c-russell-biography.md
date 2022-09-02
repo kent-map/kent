@@ -41,6 +41,8 @@ Russell composed between 600-800 songs, many tackling social injustice including
 Russell moved with his family to Boulogne in 1857 where he acted as a moneylender and bill broker.[^ref21] On the death of his wife in 1887, Russell aged 75, married his mistress, Hannah de Lara, with whom he already had two teenage sons. He died in 1900 at his home in Maida Vale and is buried in Kensal Green Cemetery. His gravestone is shaped like an arm chair in tribute to one of his songs. His obituary states that 'Henry Russell was fortunate in having for his collaborators such writers as Eliza Cook, [Charles Dickens](/dickens/dickens-biography), [Thackeray](/19c/19c-thackeray-biography), Longfellow, Tennyson, Dr Mackay and others, whose compositions went far towards helping him to achieve his reputation as a story-teller in song.'[^ref22] 
 <br><br>
 Russell is rememberd today as the man who wrote the music for Epes Sargent’s poem ‘A life on the Ocean Wave’, and as a result is considered an important figure in American popular song tradition. The song was adopted as the [regimental march](https://youtu.be/wgr7RWyDp-E) of the British Royal Marines in 1889, whose school of music was based at [Deal](/seascape/deal) until 1996.
+<br><br>
+This article was published: 26 June 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/33/George_Augustus_Sala_-_A_Life_on_the_Ocean_Wave_-_B1979.12.880_-_Yale_Center_for_British_Art.jpg" label="A life on the Ocean Wave" attribution="Yale Center for British Art, Drawing by George Augustus Sala, CC0, via Wikimedia Commons"> 
 
 ### Bibliography
