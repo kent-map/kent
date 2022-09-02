@@ -21,6 +21,7 @@ At the age of 15, John returned to England to live with his aunt and uncle and b
 In 1912, he published the first of a series of papers with G.H. Hardy, a collaboration which was to last 35 years. The two mathematicians published articles on Diophantine analysis, divergent series summation, Fourier series, the Riemann zeta function and the distribution of primes.
 <br><br>
 During the First World War, John served as a second lieutenant in the Royal Garrison Artillery working on and furthering research into ballistics. He was able to predict with accuracy missile trajectories, for which he gained much respect and he was allowed certain privileges such as carrying his umbrella whilst in uniform.[^ref8]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/88/9.2inchHowitzer91stBatteryRGAArras1April1917.jpg" label="Royal Garrison Artillery, Arras, 1 April 1917" attribution="John Warwick Brooke, Public domain, via Wikimedia Commons">
 
 In 1938, Littlewood began working with Mary Cartwright on non-linear differential equations to advance research into radio enginnering as a result of an appeal from the Radio Research Board. They spent 12 years working on equations such as van der Pol's equation.
 <br><br>
