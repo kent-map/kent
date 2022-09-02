@@ -41,6 +41,7 @@ By the middle of August, Evans was considering a return to London. She wrote: �
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/2019-07-22_Coccinellidae_1.jpg" label="Ladybird" attribution="Bernard Ladenthin, via Wikimedia Commons" license="CC BY 4.0">
 
 Evans spent a further six weeks in Kent on her return from a trip to Weimar and Berlin in 1855. She had been visiting Germany with George Henry Lewes, who was researching Goethe. Lewes was already married, but in an open relationship with his wife, and so the couple began to live together, however on their return to England “the practical implications of their liaison”[^ref26] became apparent. Evans stayed at the Lord Warden Hotel [Dover](/19c/19c-dover) for six weeks whilst Lewes made arrangements in London.  She spent the time writing _Recollections of Berlin_ and translating Spinoza. 
+<br><br>This article was published: 26 March 2022.
 <param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate Street, Dover, 1830">
 
 ### References

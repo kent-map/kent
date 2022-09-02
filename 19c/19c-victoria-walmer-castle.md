@@ -36,6 +36,8 @@ During their visit, the royal party visited [Dover](/19c/19c-dover) and [Ramsgat
 <param ve-image url="/dickens/images/Snargate St Dover 1830.jpg" label="Snargate St Dover c.1830" attribution="Drawn by G.Shepherd">
 
 Despite the wonderful seclusion and bracing sea air at Walmer, the Queen's holiday was marred by a sore throat and neuralgia and the children caught heavy colds. At the end of their visit, she writes: 'Felt quite sorry this was our last night here. The bedroom was very small & dreadfully cold & draughty, but still I had formed an affection, for it all, and for the whole house, in spite of being small & cold, and I regret leaving the sea side, though I have suffered there so much'. 
+<br><br>
+This article was published: 10 July 2021.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Walmer_Castle_-_central_corridor.jpg" label="Walmer Castle central corridor" attribution="Ester Wetherveld https://www.flickr.com/photos/westher/, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons">
 
 **Bibliography**  

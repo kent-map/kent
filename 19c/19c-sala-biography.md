@@ -81,6 +81,8 @@ Even those passengers who spend a night at a hotel rarely see the town: "They ma
 Returning to [Dover](/19c/19c-dover) years later, Sala discovered that his childhood home had been gutted and transformed into a haberdasher's shop.
 <br><br>
 Sala also visited [Canterbury](/19c/19c-canterbury) and [Sandgate](/placesqz/sandgate-overview/).
+<br><br>
+This article was published: 13 November 2021.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/GeorgeAugustusSala1828-1895.jpg" label="George Augustus Sala" attribution="Allister  via Wikimedia Commons" license="CC BY 2.0">
 <param ve-map center="Q179224" zoom="11">
 

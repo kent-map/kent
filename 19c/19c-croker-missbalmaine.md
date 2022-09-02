@@ -45,6 +45,8 @@ Mrs Croker described New Romney and the Marshes as timeless and tedious, but als
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wild_rose_-_geograph.org.uk_-_459566.jpg" label="Wild rose" attribution="Nick Smith">
 
 Bithia Croker continued to write until she died in 1920, although she returned to her much-loved themes of Anglo-India. She wrote at least 16 novels whilst in Sandgate.[^ref2] Other noted Sandgate writers at this period include [Florence Warden](/19c/19c-florence-warden-biography) and [H.G.Wells](/20c/20c-wellshg-biography/).
+<br><br>
+This article was published: 4 December 2021.
 <param ve-image url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" label="10 Radnor Cliff, Sandgate" attribution="Martin Crowther">
 
 ### Bibliography
