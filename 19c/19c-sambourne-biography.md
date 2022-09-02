@@ -43,6 +43,8 @@ Sambourne also visited [Folkestone](/19c/19c-folkestone). In 1882 he made 'a sor
 <param ve-map center="Q375314" zoom="15">
 
 In the winter of 1910, Sambourne, who was suffering from ill health, stayed at the Granville Hotel, [Ramsgate](/19c/19c-ramsgate) to convalesce. He enjoyed good salt baths, breakfasts and sun, but was having trouble breathing and sleeping and used a bath chair to go to the West Cliff and the marina. He felt ‘wretched and depressed’[^ref12]  taking days out in the motor. Sambourne died on the 3rd August 1910 and his ashes were interred at St Peter’s Churchyard, Thanet.[^ref13]
+<br><br>
+This article was published: 5 March 2022.
 <param ve-image url="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" label="Granville Hotel, Ramsgate">
 <param ve-map center="Q736439" zoom="15">
 
