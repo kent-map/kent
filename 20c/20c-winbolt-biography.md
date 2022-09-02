@@ -50,6 +50,8 @@ Winbolt’s association with the county continued throughout the next decade. He
 <br>
 'His eye for scenery made him also the author of small but acceptable guides to the Thames and the Cotswold country and to Kent, and he contributed numerous articles to this journal'.[^ref18]  - 64 to be precise!    
 During his lifetime, S.E. Winbolt wrote and edited over 70 publications. His visit to Folkestone is only a small part of his archaeological and educational legacy, but an important one.
+<br><br>
+This article was published: 10 July 2021.
 <param ve-image url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" label="Folkestone Library" attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence.">
 <param ve-map center="Q26627877" zoom="15">
 
