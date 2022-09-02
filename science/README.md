@@ -59,6 +59,14 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 
 Inventor of organic farming
 
+##
+**[John Edensor Littlewood](/19c/19c-edensor-littlewood)**
+
+- Michelle Crowther
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/44be2f2c-2f9a-48a2-8cc2-e009206ac344)
+
+Mathematician known for his work on analysis, number theory, and differential equations.
 
 ##
 **[Robert Plot](/17c/17c-robert-plot)**
