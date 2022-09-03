@@ -89,11 +89,9 @@ JOHN STRANGE WINTER Thursday,  June 1, 1893 Hearth and Home (UKP) (London, Engla
 [^ref1]:  _Whitstable Times and Herne Bay Herald_ - Saturday 05 December 1891
   Author: Talbot CokeDate: Friday,  June 1, 1894
 Publication: Myra's Journal of Dress and Fashion (London, England)Volume: XX , Issue: [6]
-TALBOT COKE. FROM CASTLE TO COTTAGE. Thursday,  Apr. 20, 1899 _Hearth and Home_ (UKP) (London, England) Volume: XVI , Issue: 414
+Talbot Coke. From castle to cottage. Thursday,  Apr. 20, 1899 _Hearth and Home_ (UKP) (London, England) Volume: XVI , Issue: 414
   HEARTH AND HOME
-Date: Thursday,  May 21, 1891
-Publication: Hearth and Home (UKP) (London, England)
-Volume: I , Issue: 1
+Thursday,  May 21, 1891  _Hearth and Home_ Volume: I , Issue: 1
   HEARTH AND HOME
 Date: Thursday,  May 21, 1891
 Publication: Hearth and Home (UKP) (London, England)
@@ -101,8 +99,7 @@ Volume: I , Issue: 1
   In Northampton Chronicle and Echo - Monday 25 September 1893
   TS UCLA collection 100 box 119/13
 
-  THE HOME OF JOHN STRANGE WINTER.
-Date: Saturday,  June 16, 1894
+THE HOME OF JOHN STRANGE WINTER. Saturday,  June 16, 1894
 Publication: Newcastle Courant (1803) (Newcastle-upon-Tyne, England)Issue: 11448
   P.175 The duty of discontent
   THE WORLD OF WOMEN
