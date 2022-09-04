@@ -2,7 +2,6 @@
 <param ve-config title="Convicts in Kent" author="Dr Ben Bethell" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q4946691" aliases="Borstal">
 <param ve-entity eid="Q507517" aliases="Rochester">
