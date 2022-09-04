@@ -29,9 +29,9 @@ By the early decades of the 20th century visitors would be able to enjoy a body 
 
 Dicks, John. _The Beauty of Broadstairs_. Bow Bells Novelettes. Seaside number (82). Vol iv. August 1880. 113-28.   
 Fletcher, J. S. _The Passenger to Folkestone_. London: Herbert Jenkins [1927].   
-Oulton, Carolyn W. de la L. _Down from London: Seaside Reading in the Railway Age._ Liverpool: Liverpool University Press, 2022.
+Oulton, Carolyn W. de la L. _Down from London: Seaside Reading in the Railway Age._ Liverpool: Liverpool University Press, 2022.   
 Reed, Marcus. _A Girl of Thanet_. London: Andrew Melrose [1917].   
 Wodnil, Gabrielle. _Maggie of Margate: a Seaside Sensation_. London: Stanley Paul & Co., 1912.   
+Zangwill, Israel. 'Without Prejudice’ VI. _Pall Mall Magazine_: 1 (May-Oct 1893) 901-08.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/05/From_the_gardens%2C_Broadstairs%2C_England-LCCN2002696431.jpg" label="From the gardens, Broadstairs" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
-Zangwill, Israel. 'Without Prejudice’ VI. _Pall Mall Magazine_: 1 (May-Oct 1893) 901-08.
 

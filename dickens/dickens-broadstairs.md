@@ -16,7 +16,7 @@ Dickens was born in Portsmouth in 1812, before his father’s appointment to a p
 
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
 <br>
-The Dickens family visited [Broadstairs](/dickens/broadstairs-19th-century) regularly for the summer between 1837 and 1851, entertaining numerous friends including [Wilkie Collins](/19c/19c-collins-biography). 
+The Dickens family visited [Broadstairs](/dickens/broadstairs-19th-century) regularly for the summer between 1837 and 1851, entertaining numerous friends including [Wilkie Collins](/19c/19c-collins-biography), [Hans Christian Andersen](/19c/19c-christian-andersen) and [Angela Burdett Coutts](/19c/19c-burdett-coutts-biography). 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Harvard_Theatre_Collection_-_Wilkie_Collins_TCS_1.5553.jpg" label="Wilkie Collins, Harvard Theatre Collection" attribution="Houghton Library, Public domain, via Wikimedia Commons">
 
 Like other East Kent resorts, the town had developed from its origins as a fishing village to become a key tourist destination by the nineteenth century. Dickens was prone to seasickness when travelling by boat, but wrote to William Macready in 1842 that Broadstairs was:
