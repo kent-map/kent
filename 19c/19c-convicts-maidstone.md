@@ -2,17 +2,13 @@
 <param ve-config title="Maidstone Convict Prison" author="Dr Ben Bethell" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve-entity eid=" " aliases="Canterbury">
-<param ve-entity eid=" " aliases="Chatham">
 <param ve-entity eid="Q213180" aliases="Maidstone">
-<param ve-entity eid=" " aliases="Sheerness">
-Borstal
-Dover
-Rochester
+
 
 #
 
-Maidstone convict prison opened in 1909, built alongside the town’s nineteenth-century local jail. In an unusual arrangement, the two establishments shared a perimeter wall but were run entirely separately. At the jail, prisoners served sentences of no more than two years, whereas the convict prison held men sentenced to penal servitude for a minimum term of three years, and often far longer. Over time, the convict prison encroached gradually on its neighbour, eventually occupying the entire site, including the older buildings, once the jail closed in 1930. 
+Maidstone convict prison opened in 1909, built alongside the town’s nineteenth-century local jail. In an unusual arrangement, the two establishments shared a perimeter wall but were run entirely separately. At the jail, prisoners served sentences of no more than two years, whereas the convict prison held men sentenced to penal servitude for a minimum term of three years, and often far longer. Over time, the convict prison encroached gradually on its neighbour, eventually occupying the entire site, including the older buildings, once the jail closed in 1930.
+<param ve-image url="https://stor.artstor.org/stor/3adcbddb-8d19-4bda-a8a0-5a4bdfcb70e2" label="Maidstone Gaol, 1829" attribution="The Picturesque Beauties of Great Britain: Kent. The Gaol, Maidstone">
 
 The convict prison’s population was also atypical. Much smaller than its ‘[public works’ predecessors], with capacity for upwards of 300 men, it was reserved for ‘star class’ convicts. These were men sent to prison for a first offence, though one serious enough to merit a sentence of penal servitude. Largely absent at Maidstone were the ‘career’ thieves, burglars, and bank robbers to be found in other convict establishments. Instead, its ‘star men’ included many ‘white collar’ criminals – disgraced bank managers, bent solicitors, high-profile fraudsters – and an equally high proportion of sex offenders (a category that at the time included men sentenced under England’s sodomy laws for consensual sex with men). There were also abortionists, arsonists, bigamists and blackmailers, as well as prisoners sentenced to death for murder but then reprieved. The latter were mainly men who had committed ‘crimes of passion’ or killed their wives during domestic incidents. As such, they were more likely to receive clemency, and as they were often first offenders, Maidstone became famous for its concentration of ‘lifers’.
 
