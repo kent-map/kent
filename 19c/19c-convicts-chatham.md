@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Convicts in Kent" author="Dr Ben Bethell" layout="vtl" 
+<param ve-config title="Chatham Convict Prison" author="Dr Ben Bethell" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve-entity eid=" " aliases="Chatham">
+<param ve-entity eid="Q729006" aliases="Chatham">
 
 #
 
