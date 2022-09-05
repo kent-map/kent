@@ -21,7 +21,7 @@ The Bloody Code applied death sentences to a growing number of crimes, while oth
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
 
-Kentish prisons, like those in many English counties, include establishments that date to the early nineteenth century.
+A part of Kent’s penal legacy is its role in the domestic convict system that replaced transportation.
 
 ##
 **[Chatham Convict Prison](/19c/19c-convicts-chatham)**
