@@ -6,7 +6,7 @@
 # {.cards}
 
 ##
-**[Bloody Code](/19c/19c-atkins-biography)**
+**[Bloody Code](/18c/18c-bloody-code)**
 
 - author: Dr Martin Watts
 
@@ -15,7 +15,7 @@
 Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of scientist John George Children (1777-1852).
 
 ##
-**[Anna Atkins](/19c/19c-atkins-biography)**
+**[Convicts in Kent](/19c/19c-convicts-overview)**
 
 - author: Dr Ben Bethell
 
@@ -24,7 +24,7 @@ Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of s
 Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of scientist John George Children (1777-1852).
 
 ##
-**[Anna Atkins](/19c/19c-atkins-biography)**
+**[Chatham Convict Prison](/19c/19c-convicts-chatham)**
 
 - author: Dr Ben Bethell
 
@@ -33,7 +33,7 @@ Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of s
 Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of scientist John George Children (1777-1852).
 
 ##
-**[Anna Atkins](/19c/19c-atkins-biography)**
+**[Maidstone Convict Prison](/19c/19c-convicts-maidstone)**
 
 - author: Dr Ben Bethell
 
