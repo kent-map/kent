@@ -10,9 +10,9 @@
 
 - author: Dr Martin Watts
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/18c/images/1U8A1283-01.jpeg)
 
-Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of scientist John George Children (1777-1852).
+The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
 
 ##
 **[Convicts in Kent](/19c/19c-convicts-overview)**
