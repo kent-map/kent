@@ -185,6 +185,13 @@ A county of rich architecture; castles, churches, ports, forts and towers.
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
 ##
+[**Prisons and Discipline**](/prisons)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8b87d15d-5d86-4784-ab72-8dad919689c2)
+
+An exploration of Kent's penal system including the Bloody Code, convicts, transportation and prison hulks.
+
+##
 [**Wartime Kent**](/wartime)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
