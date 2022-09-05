@@ -19,7 +19,7 @@ The Bloody Code applied death sentences to a growing number of crimes, while oth
 
 - author: Dr Ben Bethell
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8b87d15d-5d86-4784-ab72-8dad919689c2)
 
 A part of Kent’s penal legacy is its role in the domestic convict system that replaced transportation.
 
