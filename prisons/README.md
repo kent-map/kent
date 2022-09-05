@@ -28,7 +28,7 @@ A part of Kent’s penal legacy is its role in the domestic convict system that 
 
 - author: Dr Ben Bethell
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9e1c76ab-77fc-46cb-b9d9-a86944d21f0c)
 
 Chatham convict prison opened in 1856. It was a ‘public works’ prison, built to accommodate convicts who would hitherto have been sentenced to transportation.
 
@@ -37,6 +37,6 @@ Chatham convict prison opened in 1856. It was a ‘public works’ prison, built
 
 - author: Dr Ben Bethell
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/21af9984-a677-4747-b491-d5b18f8bbe3d)
 
 Maidstone convict prison opened in 1909, built alongside the town’s nineteenth-century local jail.
