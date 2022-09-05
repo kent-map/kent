@@ -58,7 +58,7 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 ##
 [**Fran Allfrey**]()
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran%20Allfrey.jpeg)
+![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/593ded5c-9fb5-475a-9a34-dff8fc77d0d1)
 
 Dr Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity, and the emotional, social, and political stakes of these remakings.
 
