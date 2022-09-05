@@ -95,6 +95,13 @@ Dr Sophie Baldock holds a PhD from the University of Sheffield. Her research foc
 Alexa Barrett is an undergraduate English Literature and Creative and Professional Writing student at Canterbury Christ Church University. She has lived in Kent her whole life, getting involved in learning about Canterbury's history and reading Victorian novels in her spare time. She is currently focusing on her own creative writing projects with many set in the Victorian Era. 
 
 ##
+[**Ben Bethell**]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5cb012a6-5dba-4f24-8426-cc9f43863441)
+
+Ben Bethell received a PhD in history from the University of London in 2020. He is Lecturer in Cultural Histories at Central Saint Martins, University of the Arts London. His first book, _‘Star Men’ in English Convict Prisons, 1879-1948_, published in 2022, examines prison history through converging lenses of class, sexuality, and labour.
+
+##
 [**Simone Blandford**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/simoneblandford.jpg)
