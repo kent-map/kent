@@ -39,4 +39,4 @@ Chatham convict prison opened in 1856. It was a ‘public works’ prison, built
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
 
-Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of scientist John George Children (1777-1852).
+Maidstone convict prison opened in 1909, built alongside the town’s nineteenth-century local jail.
