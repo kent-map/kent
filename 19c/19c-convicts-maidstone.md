@@ -27,7 +27,7 @@ In 1939, Maidstone’s ‘star men’ were evacuated to the Isle of Wight. The p
 
 ### Bibliography
 Victor Bailey, The Rise and Fall of the Rehabilitative Ideal, 1895-1970, London: Routledge, 2019.   
-Ben Bethell, ‘Star Men’ in English Convict Prisons, 1879-1948, London: Routledge, 2022.   
+Ben Bethell, ‘Star Men’ in English Convict Prisons, 1879-1948, London: Routledge, 2023.   
 
 ### References
 [^ref1]: John Vidler and Michael Wolff, _If Freedom Fail_, London: Macmillan, 1964, p.78.
