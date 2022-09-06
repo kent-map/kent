@@ -26,7 +26,7 @@ In 1892, once work on the new dockyard reached an end, the prison closed and its
 
 ### Bibliography
 
-Bethell, Ben. _‘Star Men’ in English Convict Prisons, 1879-1948_. London: Routledge, 2022.   
+Bethell, Ben. _‘Star Men’ in English Convict Prisons, 1879-1948_. London: Routledge, 2023.   
 Brown, Alyson. _English Society and the Prison: Time, Culture and Politics in the Development of the Modern Prison, 1850-1920_. Woodbridge: Boydell, 2003.   
 
 ### References
