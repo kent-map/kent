@@ -1,12 +1,10 @@
-<param ve-config 
-       title="Seascapes"
-       banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301"
-       layout="index">
+.ve-header "Seascapes" https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301 sticky=true
+    - [Home](/)
+    - [About](/about)
 
-# {.cards}
+# &nbsp; {.cards}
 
-##
-**[Seaside Resorts](/19c/19c-seaside)**
+## Seaside Resorts {href=/19c/19c-seaside}
 
 - author: Carolyn Oulton
 
@@ -14,8 +12,7 @@
 
 As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells moved coastwards in the late eighteenth and nineteenth centuries, so a number of obscure Kentish fishing villages reinvented themselves as seaside resorts. 
 
-##
-**[Richborough: The Secret Port](/20c/20c-richborough)**
+## Richborough: The Secret Port {href=/20c/20c-richborough}
 
 - author: Martin Watts
 
@@ -23,8 +20,7 @@ As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells mov
 
 Built in secret, the old Roman port of Richborough, was chosen for redevelopment during the first world war to supply the army for its 'last stand'.
 
-##
-**[Sir John Franklin](/19c/19c-franklin-biography)**
+## Sir John Franklin {href=/19c/19c-franklin-biography}
 
 - author: Jacquie Stamp
 
@@ -32,8 +28,7 @@ Built in secret, the old Roman port of Richborough, was chosen for redevelopment
 
 On the 19 May 1845 H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north", and to circumnavigate America.
 
-##
-**[The Shivering Sands](/20c/20c-holt-biography/)**
+## The Shivering Sands {href=/20c/20c-holt-biography/}
 
 - author: Mandy Jones
 
@@ -41,8 +36,7 @@ On the 19 May 1845 H. M. sloops "Erebus" and "Terror" left Greenhithe, on their 
 
 The Goodwin Sands provide an atmospheric backdrop to this shocking tale of crime, mystery and romance written by Victoria Holt and published in 1969.
 
-##
-**[The Goodwin Sands](/dickens/david-copperfield-goodwin-sands/)**
+## The Goodwin Sands {href=/dickens/david-copperfield-goodwin-sands/}
 
 - author: Professor Carolyn Oulton
 
@@ -50,8 +44,7 @@ The Goodwin Sands provide an atmospheric backdrop to this shocking tale of crime
 
 The Goodwin Sands ‘whence floating lights perpetually wink after dark, as if they were carrying on intrigues with the servants'.
 
-##
-**[Deal by the sea](/seascape/deal/)**
+## Deal by the sea {href=/seascape/deal/}
 
 - author: Andrew Sargeant
 

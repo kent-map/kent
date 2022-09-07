@@ -3,10 +3,9 @@
        banner="https://stor.artstor.org/stor/f0bec294-4bea-40c0-8161-a6c8c1f1cdde"
        layout="index">
 
-# {.cards}
+# &nbsp; {.cards}
 
-##
-**[Alfred Cohen](/20c/20c-cohen-biography)**
+## Alfred Cohen {href=/20c/20c-cohen-biography}
 
 - author: Professor Max Saunders
 
@@ -14,8 +13,7 @@
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
-##
-**[Richard Dadd](/19c/19c-dadd-biography)**
+## Richard Dadd {href=/19c/19c-dadd-biography}
 
 - author: Melissa Campbell-Oulton
 
@@ -23,8 +21,7 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 Painter of fairies, the supernatural, and Oriental scenes.
 
-##
-**[William Dyce](/19c/19c-dyce-biography)**
+## William Dyce {href=/19c/19c-dyce-biography}
 
 - author: Professor Christiana Payne
 
@@ -32,8 +29,7 @@ Painter of fairies, the supernatural, and Oriental scenes.
 
 William Dyce (1806-1864) took his young family on holiday to Ramsgate in 1858, and painted Pegwell Bay - a Recollection of October 5th 1858.
 
-##
-**[Elizabeth Gould](/19c/19c-gould-biography)**
+## Elizabeth Gould {href=/19c/19c-gould-biography}
 
 - author: Carina Chan
 
@@ -41,8 +37,7 @@ William Dyce (1806-1864) took his young family on holiday to Ramsgate in 1858, a
 
 Gould, who was born in Ramsgate, contributed invaluably to the world of ornithological illustration. 
 
-##
-**[Donald Maxwell](/20c/20c-maxwelld-biography)**
+## Donald Maxwell {href=/20c/20c-maxwelld-biography/}
 
 - author: Professor Peter Vujakovic
 
@@ -50,8 +45,7 @@ Gould, who was born in Ramsgate, contributed invaluably to the world of ornithol
 
 Maxwell used his writing and illustration to infuse the industrial and everyday with a sense of the exotic or the magical. 
 
-##
-**[Paul Nash](/20c/20c-nash-biography)**
+## Paul Nash {href=/20c/20c-nash-biography}
 
 - author: Professor Phil Hubbard
 
@@ -68,8 +62,7 @@ Paul Nash was a war artist and photographer who became an important influence in
 
 Painter, and illustrator of the Pre-Raphaelite movement.
 
-##
-**[Edward Linley Sambourne](/19c/19c-sambourne-biography)**
+## Edward Linley Sambourne {href=/19c/19c-sambourne-biography}
 
 - author: Michelle Crowther
 
@@ -77,8 +70,7 @@ Painter, and illustrator of the Pre-Raphaelite movement.
 
 Satirical cartoonist for _Punch_ magazine.
 
-##
-**[Marian Peck](/20c/20c-peck-biography)**
+## Marian Peck {href=/20c/20c-peck-biography}
 
 - author: Charles Salmon
 
@@ -86,8 +78,7 @@ Satirical cartoonist for _Punch_ magazine.
 
 Artist specialising in maps, calligraphy and miniatures.
 
-##
-**[Mary Tourtel](/20c/20c-tourtel-biography)**
+## Mary Tourtel {href=/20c/20c-tourtel-biography}
 
 - author: Grace Conium
 
@@ -95,8 +86,7 @@ Artist specialising in maps, calligraphy and miniatures.
 
 Writer and illustrator of the cartoon strip _Rupert Bear_ for the _Daily Express_, Mary had a particular fondness and ability for capturing the likenesses of animals.
 
-##
-**[Traveller's Joy by Gloria Treseder](/21c/21c-travellers-joy/)**
+## Traveller's Joy by Gloria Treseder {href=/21c/21c-travellers-joy/}
 
 - author: Miroslava Karaskova
 
@@ -104,8 +94,7 @@ Writer and illustrator of the cartoon strip _Rupert Bear_ for the _Daily Express
 
 Mural inspired by the plants and literature of Canterbury.
 
-##
-**[Louis Wain](/19c/19c-wain-biography)**
+## Louis Wain {href=/19c/19c-wain-biography}
 
 - author: Nick Evans
 

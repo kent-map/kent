@@ -1,11 +1,10 @@
-<param ve-config 
-       title="21st Century Kent"
-       banner="images/Millenium%20Mural.jpg">
+.ve-header "21st Century Kent" gh:kent-map/kent/images/Millenium%20Mural.jpg sticky=true
+    - [Home](/)
+    - [About](/about)
 
-# {.cards}
+# &nbsp; {.cards}
 
-##
-**[Impressions from a Bolthole Window](21c-impressions-hirst)**
+## Impressions from a Bolthole Window {href=21c-impressions-hirst}
 
 - author: Diana Hirst
 
@@ -13,8 +12,7 @@
 
 Low tide. Light breeze. To the north Deal pier waddles seawards towards France, a concrete centipede on rigid legs straddling the falling tide.
 
-##
-**[David Seabrook](21c-seabrook-biography)**
+## David Seabrook {href=21c-seabrook-biography}
 
 - author: Dr Christian Taylor
 
@@ -22,8 +20,7 @@ Low tide. Light breeze. To the north Deal pier waddles seawards towards France, 
 
 The word mystery comes to mind when approaching Seabrook and his work - a fitting word, given the author’s obsession with the local lore and hidden historical disjecta membra of Kent’s coastal towns.
 
-##
-**[Traveller's Joy](21c-travellers-joy)**
+## Traveller's Joy {href=21c-travellers-joy}
 
 - author: Miroslava Karasvoka
 
@@ -31,8 +28,7 @@ The word mystery comes to mind when approaching Seabrook and his work - a fittin
 
 When walking around the city of Canterbury, one quickly notices the amount of representation and references of the city’s rich cultural heritage. Murals are particularly popular, in the first thought to tackle the illegal graffiti, in the second to give a new look to some of the grimmer spots in the city. 
 
-##
-**[Journal Extracts](21c-kent-journal-extracts)**
+## Journal Extracts {href=21c-kent-journal-extracts}
 
 - author: Laurie Duggan
 
@@ -40,8 +36,7 @@ When walking around the city of Canterbury, one quickly notices the amount of re
 
 Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
-##
-**[Waterstones, Canterbury](21c-waterstones-canterbury)**
+## Waterstones, Canterbury {href=21c-waterstones-canterbury}
 
 - author: Dr Martin Latham
 
@@ -49,8 +44,7 @@ Australian poet Laurie Duggan's journal extracts from his time living in Kent
 
 In summer, I ate ice cream on the roof. It was a shop of dreams, I can still smell the combination of books and wood, and I dreamed vividly there when I afternoon-napped in my hammock in a basement cupboard.
 
-##
-**[In Margate by Lunchtime](21c-margate-lunchtime)**
+## In Margate by Lunchtime {href=21c-margate-lunchtime}
 
 - author: Maggie Harris
 
@@ -58,8 +52,7 @@ In summer, I ate ice cream on the roof. It was a shop of dreams, I can still sme
 
 There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist. ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’
 
-##
-**[Margate](21c-margate)**
+## Margate {href=21c-margate}
 
 - author: Maggie Harris
 
@@ -67,8 +60,7 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 
 Once a popular seaside resort where Victorians came to take the air, Margate was to suffer the fate of many other seaside towns: limping through the end of the last century with rising unemployment, dilapidated structures, organ music, and absent holiday makers.
 
-##
-**[Starting University in the Covid Year](21c-canterbury-covid)**
+## Starting University in the Covid Year {href=21c-canterbury-covid}
 
 - author: Alexa Barrett
 

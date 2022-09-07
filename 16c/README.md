@@ -1,21 +1,18 @@
-<param ve-config 
-       title="16th Century Kent"
-       banner="/images/banners/16c.jpg"
-       layout="index">
+.ve-header "16th Century Kent" gh:kent-map/kent/images/banners/16c.jpg sticky=true
+    - [Home](/)
+    - [About](/about)
 
-# {.cards}
+# &nbsp; {.cards}
 
-##
-**[Arden of Faversham](16c-arden-faversham)**
+## Arden of Faversham {href=16c-arden-faversham}
 
 - author: Marnie Stanley
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/38/Arden%27s_House%2C_Faversham.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/16c/images/Ardenhouse.jpg)
 
 On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn.
 
-##
-**[Elizabeth Barton](16c-barton-biography)**
+## Elizabeth Barton {href=16c-barton-biography}
 
 - author: Amber Potter
 
@@ -23,8 +20,7 @@ On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversh
 
 The 'Holy Maid of Kent', Elizabeth Barton, prophesized that Henry VIII would die if he were to marry Anne Boleyn.
 
-##
-**[John Lyly](16c-lyly-biography)**
+## John Lyly {href=16c-lyly-biography}
 
 - author: Hannah Jennison and Michelle Crowther
 
@@ -41,8 +37,7 @@ Playwright, author and courtier, John Lyly was a Kentishman famed for his euphui
 
 In 1588 concerns about the Spanish Armada approaching London via the Kent coast caused the Crown to invest in fortifications at Queenborough Castle and Minster.  
 
-##
-**[Spanish Armada](16c-spanish-armada)**
+## Spanish Armada {href=16c-spanish-armada}
 
 - author: Various
 
@@ -50,8 +45,7 @@ In 1588 concerns about the Spanish Armada approaching London via the Kent coast 
 
 With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected?  
 
-##
-**[Leonard and Thomas Digges](16c-digges-biography)**
+## Leonard and Thomas Digges {href=16c-digges-biography}
 
 - author: Arnav Sharma and Michelle Crowther
 

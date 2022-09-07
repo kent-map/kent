@@ -1,12 +1,10 @@
-<param ve-config 
-       title="The Garden of England"
-       banner="https://stor.artstor.org/stor/0304f113-bb27-49ec-998f-15329c201526"
-       layout="index">
+.ve-header "The Garden of England" https://stor.artstor.org/stor/0304f113-bb27-49ec-998f-15329c201526 sticky=true
+    - [Home](/)
+    - [About](/about)
 
-# {.cards}
+# &nbsp; {.cards}
 
-##
-**[John Boys](/18c/18c-boys-biography/)**
+## John Boys {href=/18c/18c-boys-biography/}
 
 - author: Diana Hirst
 
@@ -14,8 +12,7 @@
 
 John Boys, agriculturalist, was well known for his breed of South Down sheep. 
 
-##
-**[Walter James, Fourth Lord Northbourne](/20c/20c-northbourne-biography/)**
+## Walter James, Fourth Lord Northbourne {href=/20c/20c-northbourne-biography/}
 
 - author: Diana Hirst
 
@@ -23,8 +20,7 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 
 Inventor of Organic Farming.
 
-##
-**[John Tradescant](/17c/17c-john-tradescant-younger/)**
+## John Tradescant {href=/17c/17c-john-tradescant-younger/}
 
 - author: Dominique Gracia and Hannah Jennison
 
@@ -32,8 +28,7 @@ Inventor of Organic Farming.
 
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
 
-##
-**[Hop and Fruit Picking in the 20th century](/20c/20c-encounters-with-others/)**
+## Hop and Fruit Picking in the 20th century {href=/20c/20c-encounters-with-others/}
 
 - author: Professor Peter Vujakovic
 
@@ -41,8 +36,7 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests.
 
-##
-**[Brogdale National Fruit Collection](/21c/21c-brogdale/)**
+## Brogdale National Fruit Collection {href=/21c/21c-brogdale/}
 
 - author: Debbie Hickman
 

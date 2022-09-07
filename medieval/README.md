@@ -1,12 +1,10 @@
-<param ve-config 
-       title="Medieval Kent"
-       banner="https://stor.artstor.org/stor/05d3fd9a-d78d-45b0-9baa-4eadde612f7a"
-       layout="index">
+.ve-header "Medieval Kent" https://stor.artstor.org/stor/05d3fd9a-d78d-45b0-9baa-4eadde612f7a sticky=true
+    - [Home](/)
+    - [About](/about)
 
-# {.cards}
+# &nbsp; {.cards}
 
-##
-**[Geoffrey Chaucer](14c-chaucer)**
+## Geoffrey Chaucer {href=14c-chaucer}
 
 - author: Charlotte Worthington
 
@@ -14,8 +12,7 @@
 
 Chaucer has become one of England’s most famous poets. He is best known for The Canterbury Tales, which he wrote in the last decade of his life. 
 
-##
-**[Cinque Ports](cinque-ports)**
+## Cinque Ports {href=cinque-ports}
 
 - author: Dr Sheila Sweetinburgh
 
@@ -32,8 +29,7 @@ For England, what might be considered a unique confederation of medium-sized and
 
 Whether or not Hengest and Horsa ever existed, the fact remains that they are part of the folk myths of Kent and are established characters in local and national stories of the past. 
 
-##
-**[Battle of Crayford](battleofcrayford)**
+## Battle of Crayford {href=battleofcrayford}
 
 - author: Francesca Allfrey and Beth Whalley
 
