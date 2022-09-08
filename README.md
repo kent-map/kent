@@ -1,4 +1,4 @@
-.ve-header "Kent Maps Online" gh:kent-map/images/Kent_Maps.jpg sticky=true contact=carolyn.oulton@canterbury.ac.uk search-domain="dev.kent-maps.online" search-filters="16c:16c,17c:17c,18c:18c,19c:19c,20c:20c,21c:21c,austen:Jane Austen,canterbury:Canterbury,churches:Churches,dickens:Dickens"
+.ve-header "Kent Maps Online" gh:kent-map/images/Kent_Maps.jpg sticky=true contact=carolyn.oulton@canterbury.ac.uk search-domain="kent-maps.online" search-filters="16c:16c,17c:17c,18c:18c,19c:19c,20c:20c,21c:21c,austen:Jane Austen,canterbury:Canterbury,churches:Churches,dickens:Dickens"
     - [Home](/)
     - [About](/about)
     - Contact Us
