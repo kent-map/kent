@@ -15,7 +15,9 @@ During the decades that followed, incidents of violence and disorder continued: 
 
 Even worse was brickmaking, the task to which the American fraudster Austin Bidwell was assigned upon arriving at the prison in 1874. In a memoir, he recalled his first sight of Chatham’s vast public works: ‘Mud, mud everywhere, with groups of weary men with shovel, or shovel and barrow, working in it.’ His work party made their way along a ‘sort of road had been made over the mud with ashes and cinders … for about a mile until we came to the clay banks or pits’, where clay and sand were mixed for bricks in a steam mill called a ‘pug’. 
 <br><br>
-Our duty was ‘to keep the pug going’ - keep it full of clay to the top. The clay was in a high bank; we dug into it from the bottom with our spades, and filled it as fast as possible into our barrows. In front of each man was a ‘run,’ formed by a line of planks only eight inches in width, and all converging toward and meeting near the ‘pug.’ The distance we were wheeling was from thirty to forty yards, and the incline was really very steep … One had no period of rest between the filling of one's barrow and the start up the run.[^ref6] 
+  Our duty was ‘to keep the pug going’ - keep it full of clay to the top. The clay was in a high bank; we dug into it from the bottom with our spades, and filled it as   fast as possible into our barrows. In front of each man was a ‘run,’ formed by a line of planks only eight inches in width, and all converging toward and meeting  
+  near the ‘pug.’ The distance we were wheeling was from thirty to forty yards, and the incline was really very steep … One had no period of rest between the filling
+  of one's barrow and the start up the run.[^ref6] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/14/Trial_of_the_1873_Bank_of_England_forgers_2.jpg" label="Trial of the 1873 Bank of England forgers, 1897, of whom one was Bidwell" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 Faced with toil of this kind, often for years on end, some convicts deliberately placed their arms or legs in the way of moving carts in the hope of transfer to an invalid prison. An ‘epidemic’ of self-injury at Chatham peaked in 1871, its medical officer performing thirty-three amputations that year. Convicts would judge a vehicle’s load as it approached ‘because the unloaded waggons would merely give them a pinch, whereas the loaded waggons would crush or sever the limb.’ To prevent this, a civilian engineer reported, when a traction locomotive neared a work party, ‘the whole of the men are faced right about, and are made to stop their work and to remain in that position until the engine has passed, so that they shall not be able to throw themselves so easily under'.[^ref7] 
@@ -26,7 +28,7 @@ In 1892, once work on the new dockyard reached an end, the prison closed and its
 
 ### Bibliography
 
-Bethell, Ben. _‘Star Men’ in English Convict Prisons, 1879-1948_. London: Routledge, 2022.   
+Bethell, Ben. _‘Star Men’ in English Convict Prisons, 1879-1948_. London: Routledge, 2023.   
 Brown, Alyson. _English Society and the Prison: Time, Culture and Politics in the Development of the Modern Prison, 1850-1920_. Woodbridge: Boydell, 2003.   
 
 ### References

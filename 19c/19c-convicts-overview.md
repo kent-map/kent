@@ -29,7 +29,7 @@ Penal servitude was abolished in 1948, bringing to an end England’s domestic c
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Dover_Langdon_Cliffs_0326.JPG" label="Dover Langdon Cliffs" attribution="Clem Rutter, Rochester, Kent, via Wikimedia Commons" license="CC BY 3.0">
      
 ### Bibliography
-Bethell, Ben. _‘Star Men’ in English Convict Prisons, 1879-1948_. London: Routledge, 2022.   
+Bethell, Ben. _‘Star Men’ in English Convict Prisons, 1879-1948_. London: Routledge, 2023.   
 Johnson, W. Branch. _The English Prison Hulks_. Chichester: Phillimore, 1970.   
 Johnston, Helen, Barry Godfrey and David J. Cox. _Penal Servitude: Convicts and Long-Term Imprisonment._ Montreal, QC and Kingston, ON: McGill Queen’s University Press, 2022.   
 McConville, Seán. _A History of English Prison Administration: Volume I 1750-1877._ London: Routledge & Kegan Paul, 1981.   
