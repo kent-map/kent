@@ -38,7 +38,7 @@ def handler(event, context):
 
 API_ENDPOINT = 'https://api.juncture-digital.org'
 PREFIX = 'kent-map/kent'   # Prefix for site content, typically Github username/repo
-REF = 'staging'                # Github ref (branch)
+REF = ''                # Github ref (branch)
 LOCAL_CONTENT_ROOT = None
 
 SEARCH_CACHE = ExpiringDict(max_len=1000, max_age_seconds=24 * 60 * 60)
