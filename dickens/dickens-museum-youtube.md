@@ -2,7 +2,7 @@
 
 # Dickens Museum
 
-.ve-video https://raw.githubusercontent.com/kent-map/images/main/videos/Dickens_Museum.mp4 sticky
+.ve-video https://www.youtube.com/watch?v=aPFN14CPISk sticky
 
 Dickens House, Dickens Museum, Aunt Betsey’s Cottage. 2 Nuckell’s Place has had many names since becoming home to the fairy godmother of David Copperfield.
 {enter=1,2}
