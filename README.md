@@ -53,6 +53,16 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
+##
+[**Vita Sackville-West**](/20c/20c-sackville-west-biography)
+
+- author: Clare Nursey
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
+
+Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
+
+
 # Essays by period
 
 # {.cards}
@@ -91,6 +101,13 @@ Strategic position of the Medway in relation to European wars. New sea water ‘
 ![](/images/thumbnails/19c.jpg)
 
 Arrival of the railway. Development of recognisably modern tourist industry.
+
+##
+[**Wartime Kent**](/wartime)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
+
+On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars. 
 
 ##
 [**20th century**](/20c)
@@ -191,12 +208,6 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 
 An exploration of Kent's penal system including the Bloody Code, convicts, transportation and prison hulks.
 
-##
-[**Wartime Kent**](/wartime)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
-
-On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars. 
 
 # Featured Authors
 
@@ -236,14 +247,6 @@ One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816
 
 Edith Nesbit lived in Kent during her childhood and then again in later life and her stories are inspired by the Kent countryside.
 
-##
-[**Vita Sackville-West**](/20c/20c-sackville-west-biography)
-
-- author: Clare Nursey
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
-
-Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
 # Featured Texts
 
