@@ -13,6 +13,8 @@ logger = logging.getLogger()
 
 import os
 SCRIPT_DIR = os.path.abspath(os.path.dirname(__file__))
+BASEDIR = os.path.dirname(SCRIPT_DIR)
+logger.info(f'SCRIPT_DIR={SCRIPT_DIR} BASEDIR={BASEDIR}')
 
 import yaml
 CONFIG = yaml.load(open(f'{SCRIPT_DIR}/config.yaml', 'r').read(), Loader=yaml.FullLoader)
@@ -30,16 +32,17 @@ from bs4 import BeautifulSoup
 import requests
 logging.getLogger('requests').setLevel(logging.WARNING)
 
-app = Flask(__name__)
+API_ENDPOINT = 'https://api.juncture-digital.org'
+PREFIX = 'kent-map/kent'   # Prefix for site content, typically Github username/repo
+REF = ''                # Github ref (branch)
+LOCAL_CONTENT_ROOT = BASEDIR
+
+# app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static', static_folder=LOCAL_CONTENT_ROOT)
 CORS(app)
 
 def handler(event, context):
   return handle_request(app, event, context)
-
-API_ENDPOINT = 'https://api.juncture-digital.org'
-PREFIX = 'kent-map/kent'   # Prefix for site content, typically Github username/repo
-REF = ''                # Github ref (branch)
-LOCAL_CONTENT_ROOT = None
 
 SEARCH_CACHE = ExpiringDict(max_len=1000, max_age_seconds=24 * 60 * 60)
 
@@ -152,6 +155,7 @@ if __name__ == '__main__':
   args = parser.parse_args()
   API_ENDPOINT = args.api
   PREFIX = args.prefix
-  LOCAL_CONTENT_ROOT = os.path.abspath(args.content) if args.content else None
-  print(f'\nAPI_ENDPOINT: {API_ENDPOINT}\nPREFIX: {PREFIX}\LOCAL_CONTENT_ROOT: {LOCAL_CONTENT_ROOT}\n')
+  LOCAL_CONTENT_ROOT = os.path.abspath(args.content) if args.content else BASEDIR
+  app.static_folder = LOCAL_CONTENT_ROOT
+  print(f'\nAPI_ENDPOINT: {API_ENDPOINT}\nPREFIX: {PREFIX}\nLOCAL_CONTENT_ROOT: {LOCAL_CONTENT_ROOT}\n')
   app.run(debug=True, host='0.0.0.0', port=args.port)

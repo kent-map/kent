@@ -157,7 +157,7 @@ Famed for its cherries, hops and fruit, organic farming, and the modern day gree
 
 Painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 
-## Mathematicians and Scientists** {href=science}
+## Mathematicians and Scientists {href=science}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
 
@@ -176,7 +176,7 @@ A county of rich architecture; castles, churches, ports, forts and towers.
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
-## Prisons and Discipline** {href=prisons}
+## Prisons and Discipline {href=prisons}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8b87d15d-5d86-4784-ab72-8dad919689c2)
 
@@ -272,10 +272,18 @@ Bithia Croker's novel is set on the Romney Marshes. Rosamund Balmaine finds love
 Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith.
 
 
-## he Winter Diary of a Country Rat by Peter Firmin {href=20c/20c-firmin-winter-diary}
+## The Winter Diary of a Country Rat by Peter Firmin {href=20c/20c-firmin-winter-diary}
 
 - Author: Dr Simon Wilson
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b)
 
 The adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
+
+.ve-footer sticky
+    - ![](/static/images/Centre_for_Kent_History_and_Heritage_logo_1.jpg)
+    - [![](https://raw.githubusercontent.com/kent-map/kent/develop/images/twitter.png)](https://twitter.com/KentMaps1)
+    - [![DoE participants' showcase](/static/images/dofe-logo.png)](https://dofe.kent-maps.online)
+    - A collaboration between: ![CCCU](/static/dickens/images/CCCU-logo-2colour.svg) [![JSTOR Labs](/static/images/labs.jpg)](https://labs.jstor.org)
+    {.push}
+    
