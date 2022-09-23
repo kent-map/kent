@@ -93,7 +93,7 @@ Ellen as a resident of Rochester, adds a whole other layer of links and memories
 
 On 9 June 1865 Dickens was travelling back from France with Ellen Ternan and her mother. They had joined the tidal train from Folkestone to Charing Cross and had reached Staplehurst when the train dramatically crashed.
 
-## Charles Dickens's Friends
+## Charles Dickens's Friends {href=/dickens/dickens-friends}
 
 - author: Carolyn Oulton
 
