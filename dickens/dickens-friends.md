@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Charles Dickens's friends" author="Professor Carolyn Oulton" layout="vtl" banner="images/Grammar_School_Gate_Rochester.jpg">
 
 <param ve-entity eid="Q729006" aliases="Chatham">
@@ -28,12 +28,7 @@ Gad would ultimately become a focus for literary pilgrims such as [Thomas Frost]
 
 Andersen, Hans Christian. [‘A Visit to Charles Dickens’](https://books.google.co.uk/books?id=0j88AQAAMAAJ&newbks=0&printsec=frontcover&pg=PA28&dq=VISIT+GADSHILL&hl=en&redir_esc=y#v=onepage&q=VISIT%20GADSHILL&f=false). _Temple Bar_ 31. March 1871. 27-46.    
 Booth, Alison. [‘Author Country: Longfellow, the Brontës, and Anglophone Homes and Haunts.’]( https://www.erudit.org/en/journals/ravon/1900-v1-n1-ravon1979/017438ar/) _Romanticism and Victorianism on the Net._48: November 2007.   
-Collins, Philip. _Dickens: Interviews and Recollections. 2 vols_. Basingstoke: Palgrave, 1981.
-
-Curry, George. ‘Charles Dickens and Annie Fields’. _Huntington Library Quarterly_. 51:1 (Winter 1988). 1-71.
-
-Dolby, George. _Charles Dickens as I Knew Him_. Cambridge: Cambridge UP, 2012.
-
-Fitzgerald, Percy. _The Life of Charles Dickens as Revealed in His Writings_. 2 vols. London: Chatto&Windus, 1905.
-
-
+Collins, Philip. _Dickens: Interviews and Recollections. 2 vols_. Basingstoke: Palgrave, 1981.   
+Curry, George. ‘Charles Dickens and Annie Fields’. _Huntington Library Quarterly_. 51:1 (Winter 1988). 1-71.   
+Dolby, George. _Charles Dickens as I Knew Him_. Cambridge: Cambridge UP, 2012.   
+Fitzgerald, Percy. _The Life of Charles Dickens as Revealed in His Writings_. 2 vols. London: Chatto&Windus, 1905.   
