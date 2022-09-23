@@ -93,6 +93,15 @@ Ellen as a resident of Rochester, adds a whole other layer of links and memories
 
 On 9 June 1865 Dickens was travelling back from France with Ellen Ternan and her mother. They had joined the tidal train from Folkestone to Charing Cross and had reached Staplehurst when the train dramatically crashed.
 
+## Charles Dickens's Friends
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418)
+
+Gad's Hill caught the imagination of writers from Dickens’s friend and biographer John Forster to controversial journalist and novelist Eliza Lynn Linton and a number of the journalists known as ‘Dickens’s Young Men’, including Percy Fitzgerald and Edmund Yates, were asked for weekends.  
+
+
 ## The Comports of Cooling {href=/dickens/great-expectations-comports}
 
 - author: Pat Agar
