@@ -280,9 +280,9 @@ Delmonden is a village in Kent that doesn’t actually exist except in Shepherds
 The adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
 
 .ve-footer
-    - ![](/static/images/Centre_for_Kent_History_and_Heritage_logo_1.jpg)
-    - [![](https://raw.githubusercontent.com/kent-map/kent/develop/images/twitter.png)](https://twitter.com/KentMaps1)
-    - [![DoE participants' showcase](/static/images/dofe-logo.png)](https://dofe.kent-maps.online)
-    - A collaboration between: ![CCCU](/static/dickens/images/CCCU-logo-2colour.svg) [![JSTOR Labs](/static/images/labs.jpg)](https://labs.jstor.org)
+    - ![](https://raw.githubusercontent.com/kent-map/kent/main/images/Centre_for_Kent_History_and_Heritage_logo_1.jpg)
+    - [![](https://raw.githubusercontent.com/kent-map/kent/main/images/twitter.png)](https://twitter.com/KentMaps1)
+    - [![DoE participants' showcase](https://raw.githubusercontent.com/kent-map/kent/main/images/dofe-logo.png)](https://dofe.kent-maps.online)
+    - A collaboration between: ![CCCU](https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/CCCU-logo-2colour.svg) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/kent/main/images/labs.jpg)](https://labs.jstor.org)
     {.push}
     

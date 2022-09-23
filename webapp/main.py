@@ -35,7 +35,7 @@ logging.getLogger('requests').setLevel(logging.WARNING)
 API_ENDPOINT = 'https://api.juncture-digital.org'
 PREFIX = 'kent-map/kent'   # Prefix for site content, typically Github username/repo
 REF = ''                # Github ref (branch)
-LOCAL_CONTENT_ROOT = BASEDIR
+LOCAL_CONTENT_ROOT = None
 
 # app = Flask(__name__)
 app = Flask(__name__, static_url_path='/static', static_folder=LOCAL_CONTENT_ROOT)
