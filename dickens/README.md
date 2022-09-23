@@ -73,7 +73,7 @@ Kent acted as a conduit for Dickens's many visits to France with the Dover Mail 
 
 - author: Katie Holdway
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/70df50f9-5a41-4e07-a39c-41d9facf59ad)
 
 Charles Dickens’s first serial novel, The Pickwick Papers is preoccupied with Kentish geographies almost as much as it is with scenes of London life.
 
@@ -92,6 +92,15 @@ Ellen as a resident of Rochester, adds a whole other layer of links and memories
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg)
 
 On 9 June 1865 Dickens was travelling back from France with Ellen Ternan and her mother. They had joined the tidal train from Folkestone to Charing Cross and had reached Staplehurst when the train dramatically crashed.
+
+## Charles Dickens's Friends
+
+- author: Carolyn Oulton
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418)
+
+Gad's Hill caught the imagination of writers from Dickens’s friend and biographer John Forster to controversial journalist and novelist Eliza Lynn Linton and a number of the journalists known as ‘Dickens’s Young Men’, including Percy Fitzgerald and Edmund Yates, were asked for weekends.  
+
 
 ## The Comports of Cooling {href=/dickens/great-expectations-comports}
 
