@@ -33,14 +33,9 @@
 <param title="Uriah Heep" article="Uriah_Heep">
 
 <param ve-map center="Q729006" zoom="12">
-<param data-map-layer
-       title="Kent 1904"
-       type="mapwarper"
-       mapwarper-id="45555" 
-       active="true">
-       
+
 <!-- Historical map layers --> 
-<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820"> <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860"> <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808"> <param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
+<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860" />
 
 #
 
