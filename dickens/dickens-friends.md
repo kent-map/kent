@@ -20,12 +20,14 @@ While he lived within a few miles of the famous author and successfully solicite
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/65/George_Augustus_Sala_%28Waddy%2C_1872%29.jpg" label="George Augustus Sala" attribution="Frederick Waddy, Public domain, via Wikimedia Commons">
 
 Collins himself was a regular visitor, as was his artist brother Charles, who married Dickens’s daughter (and later artist) Kate in 1860. Other artist friends included Marcus Stone, Holman Hunt and W. P. Frith. It was John Everett Millais who painted the famous death mask of Dickens in 1870.
-
+<br><br>
 Kate’s godfather the actor William Macready stayed even during his later, reclusive years. It was another actor, Charles Fechter, who gave [Dickens](/dickens) the iconic [Swiss Chalet](/dickens/dickens-swiss-chalet) as a Christmas present in 1864.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/49/Charles_Dickens_and_Charles_Fechter.jpg" label="Charles Dickens and Charles Fechter" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
 Friends from Dickens’s last years included George Dolby, the manager of his reading tours and his American publisher James Fields, whose wife Annie left a vivid account of their visit. After the breakdown of the Dickens marriage Catherine remained in London and would not set foot in the house again during her husband’s lifetime. [Ellen Ternan](/19c/19c-ternan-biography) visited Georgina Hogarth here, probably only after Dickens’s death.
 <br><br>
 Gad would ultimately become a focus for literary pilgrims such as [Thomas Frost](/19c/19c-frost-biography) and of course the writer of this article. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/33/Ellen_Ternan.jpeg" label="Ellen Ternan" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 ### Bibliography
 
@@ -35,3 +37,12 @@ Collins, Philip. _Dickens: Interviews and Recollections. 2 vols_. Basingstoke: P
 Curry, George. ‘Charles Dickens and Annie Fields’. _Huntington Library Quarterly_. 51:1 (Winter 1988). 1-71.   
 Dolby, George. _Charles Dickens as I Knew Him_. Cambridge: Cambridge UP, 2012.   
 Fitzgerald, Percy. _The Life of Charles Dickens as Revealed in His Writings_. 2 vols. London: Chatto&Windus, 1905.   
+
+### References
+
+[^ref1]:  Booth para 14.
+[^ref2]:  I need to find a source for this!
+[^ref3]:  Andersen 31.
+[^ref4]:  [Dicken’s Life at Gadshill](https://www.google.co.uk/books/edition/Pitman_s_Journal_of_Commercial_Education/U64UAAAAYAAJ?hl=en&gbpv=1&dq=%22G.+A.+SALA%22+AND+%22GAD%27S+HILL%22+AND++WILKIE&pg=PA542&printsec=frontcover).
+[^ref5]: See [‘Mobile Landscapes’](/dickens/mobile-landscapes)
+
