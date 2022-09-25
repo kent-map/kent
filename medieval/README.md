@@ -1,4 +1,4 @@
-.ve-header "Medieval Kent" https://stor.artstor.org/stor/05d3fd9a-d78d-45b0-9baa-4eadde612f7a sticky=true
+.ve-header "Medieval Kent" gh:kent-map/images/medieval/Ship sticky=true
     - [Home](/)
     - [About](/about)
 
