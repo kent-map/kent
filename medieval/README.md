@@ -20,8 +20,7 @@ Chaucer has become one of England’s most famous poets. He is best known for Th
 
 For England, what might be considered a unique confederation of medium-sized and small port towns was initiated in Edward the Confessor’s reign and is still valued by these urban communities today.
 
-##
-**[Hengest and Horsa](hengestandhorsa)**
+## Hengest and Horsa {href=hengestandhorsa}
 
 - author: Francesca Allfrey and Beth Whalley
 
