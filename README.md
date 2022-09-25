@@ -5,11 +5,9 @@
     - [About](/about)
     - Contact Us
 
-# Kent Maps
-
 This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists.
 
-# Featured essays {.cards}
+## Featured essays {.cards}
 
 ## Mobile Landscapes - Finding Kent Dickensian {href=/dickens/mobile-landscapes}
 
@@ -49,13 +47,21 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 ## Alfred Cohen {href=20c/20c-cohen-biography}
 
-- Author: Professor Max Saunders
+- Author: Max Saunders
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
-# Essays by period {.cards}
+## Paul Nash {href=20c/20c-nash-biography}
+
+- Author: Phil Hubbard
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/eb/Battle_of_Britain_%28Paul_Nash%29.png)
+
+Nash was a formidable painter of ‘soil and sea’ who was inspired by the Dymchurch landscape.
+
+## Essays by period {.cards}
 
 ## Medieval {href=medieval}
 
@@ -91,19 +97,17 @@ Strategic position of the Medway in relation to European wars. New sea water ‘
 
 Arrival of the railway. Development of recognisably modern tourist industry.
 
-## Wartime Kent {href=wartime}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
-
-On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars. 
-
-
 ## 20th century {href=20c}
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/20c.jpg)
 
 Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
+## Wartime Kent {href=wartime}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
+
+On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars. 
 
 ## 21st century {href=21c}
 
@@ -112,7 +116,7 @@ Dover and Folkestone become the gateway to the Western Front during WW1. Seaside
 Regeneration and the rise of the DFL.
 
 
-# Essays by place {.cards}
+## Essays by place {.cards}
 
 ## Places A-D {href=placesad}
 
@@ -135,7 +139,7 @@ Towns of grandeur. Articles on Folkestone, Gravesend and Margate
 Seaside resorts such as Ramsgate and Sandgate.
 
 
-# Essays by theme {.cards}
+## Essays by theme {.cards}
 
 ## Seascapes {href=seascape}
 
@@ -190,7 +194,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 An exploration of Kent's penal system including the Bloody Code, convicts, transportation and prison hulks.
 
 
-# Featured Authors {.cards}
+## Featured Authors {.cards}
 
 ## Jane Austen {href=austen}
 
@@ -216,6 +220,14 @@ Joseph Conrad, an extraordinary and significant Polish British literary figure o
 
 One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
 
+## T.S. Eliot {href=20c/20c-eliot-biography}
+
+- Author: Simone Blandford
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3732a411-bdb3-4fe9-a464-1aeb2ac8d7ad)
+
+After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. 
+
 
 ## Edith Nesbit {href=nesbit}
 
@@ -233,7 +245,6 @@ Edith Nesbit lived in Kent during her childhood and then again in later life and
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
-
 
 # Featured Texts {.cards}
 
