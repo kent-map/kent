@@ -1,4 +1,4 @@
-.ve-meta name="Kent Maps Online" description="This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists."
+.ve-meta title="Kent Maps Online" description="This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists."
 
 .ve-header "Kent Maps Online" gh:kent-map/images/Kent_Maps.jpg sticky contact=carolyn.oulton@canterbury.ac.uk search-domain=kent-maps.online
     - [Home](/)
