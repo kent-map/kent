@@ -5,8 +5,6 @@ import os
 SCRIPT_DIR = os.path.abspath(os.path.dirname(__file__))
 BASEDIR = os.path.dirname(SCRIPT_DIR)
 
-print(BASEDIR)
-
 if __name__ == '__main__':
     
     for root, dirs, files in os.walk(BASEDIR):
