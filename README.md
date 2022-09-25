@@ -1,6 +1,6 @@
-.ve-meta name="Kent Maps Online" description="This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists."
+.ve-meta title="Kent Maps Online" description="This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists."
 
-.ve-header "Kent Maps Online" gh:kent-map/images/Kent_Maps.jpg sticky=true contact=carolyn.oulton@canterbury.ac.uk search-domain="kent-maps.online" search-filters="16c:16c,17c:17c,18c:18c,19c:19c,20c:20c,21c:21c,austen:Jane Austen,canterbury:Canterbury,churches:Churches,dickens:Dickens"
+.ve-header "Kent Maps Online" gh:kent-map/images/Kent_Maps.jpg sticky contact=carolyn.oulton@canterbury.ac.uk search-domain=kent-maps.online
     - [Home](/)
     - [About](/about)
     - Contact Us
