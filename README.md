@@ -5,8 +5,6 @@
     - [About](/about)
     - Contact Us
 
-# Kent Maps
-
 This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists.
 
 # Featured essays {.cards}
@@ -49,11 +47,19 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 ## Alfred Cohen {href=20c/20c-cohen-biography}
 
-- Author: Professor Max Saunders
+- Author: Max Saunders
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
+
+## Paul Nash {href=20c/20c-nash-biography}
+
+- Author: Phil Hubbard
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/45/Paul_Nash_woodcut_CONTEMPORARY_BRITISH_ARTISTS_1923_cropped.jpg)
+
+Nash was a formidable painter of ‘soil and sea’ who was inspired by the Dymchurch landscape.
 
 # Essays by period {.cards}
 
