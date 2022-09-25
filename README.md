@@ -247,8 +247,6 @@ Edith Nesbit lived in Kent during her childhood and then again in later life and
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
 
-
-
 # Featured Texts {.cards}
 
 ## Double Double by John Brunner {href=20c/20c-double-double}
