@@ -6,12 +6,12 @@
 
 #
 
-'At half-past two, we drove with Lady Catherine & Lehzen to Piermont House at Broadstairs & payed Princess Sophia Matilda a short visit' - _Queen Victoria's Journal_, Tuesday 4th October 1836
+"It Is well known that for many years past the Isle of Thanet has been the favourite autumnal retreat of the Duchess of Kent and her illustrious daughter, now Queen of England. Thither they regularly went, accompanied, for their exalted station, by a small retinue, and during the stay throwing aside much of the cumbersome and formal constraints and chilling ceremonials of royalty, they entered into free intercourse with the respectable resident families 'and were constautly to be seen passing, almost unattended along the public streets or parades of the principal towns of the island." _Morning Chronicle_ - Friday 23 June 1837.
 <br><br>
 Princess Victoria visited Thanet for the first time with her mother the Duchess of Kent in 1824, but it was two years later [check!] before the royal family stayed at [Broadstairs](/dickens/broadstairs-19th-century) where they rented Pierremont (or Pier Mont) House.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Queen_Victoria_as_a_young_woman%2C_by_F.W._Wilkin_Wellcome_L0012031.jpg" label="Queen Victoria as a young woman, by F.W. Wilkin" attribution="Wellcome Collection Attribution 4.0 International (CC BY 4.0), via Wikimedia Commons">
 
-Pierremont House had 26 bedrooms, a library, a billiard room, a 13 acre garden containing shrubberies, hot house, fruit trees, vegetable garden, a 100 foot long grapery, melon ground and stabling for eight horses. It was built in 1785 for Thomas Forsyth (1744-1810) of Rutland and was designed by Samuel Pepys Cockerell, who also designed Gore Court, near Sittingbourne.   In the 1820s, it was let for the season as a marine residence and tickets could be obtained to view it from Mr Barfield at the Library, Broadstairs.[^ref] The Duchess of Kent took the house in 1829 bringing her young daughter Princess Victoria.[^ref] 
+Pierremont House had 26 bedrooms, a library, a billiard room, a 13 acre garden containing shrubberies, hot house, fruit trees, vegetable garden, a 100 foot long grapery, melon ground and stabling for eight horses. It was built in 1785 for Thomas Forsyth (1744-1810) of Rutland and was designed by Samuel Pepys Cockerell, who also designed Gore Court, near Sittingbourne. After the death of Forsyth it was owned by T.W. Payler but by the the 1820s, it was let for the season as a marine residence. Tickets could be obtained to view the house from Mr Barfield at the town Library.[^ref] The Duchess of Kent took the house in 1829 bringing her young daughter Princess Victoria.[^ref] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Samuel_Pepys_Cockerell_by_George_Dance_1793.jpg" label="Samuel Pepys Cockerell">
 
 https://discovery.nationalarchives.gov.uk/details/r/D212079
@@ -33,7 +33,7 @@ In 1835, the Duchess took Princess Victoria to Ramsgate for the season, and the 
 
 Princess Sophia Matilda stayed in Broadstairs at this time.[^ref] In September 1836, the Duchess returned to Pierremont House, as did Princess Sophia?
 
-"It Is well known that for many years past the Isle of Thanet has been the favourite autumnal retreat of the Duchess of Kent and her illustrious daughter, now Queen of England. Thither they regularly went, accompanied, for their ealte staion, by a small retinue, and during the stay throwing aside much of the cumbersome and formal constraints and chilling ceremonials of royalty, they entered into free intercourse with the respectable resident families 'and were constautly to be seen passing, almost unattended along the public streets or parades of the principal towns of the island." Morning Chronicle - Friday 23 June 1837
+'At half-past two, we drove with Lady Catherine & Lehzen to Piermont House at Broadstairs & payed Princess Sophia Matilda a short visit' - _Queen Victoria's Journal_, Tuesday 4th October 1836
 
 Lady Sophia Foy (1780-1845) was staying with the Princess at the time of Princes Victoria's visit. 
 
