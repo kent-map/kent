@@ -3,6 +3,7 @@
 .ve-header "Kent Maps Online" gh:kent-map/images/Kent_Maps.jpg sticky contact=carolyn.oulton@canterbury.ac.uk search-domain=kent-maps.online
     - [Home](/)
     - [About](/about)
+    - [Duke of Edinburgh award site](https://dofe.kent-maps.online)
     - Contact Us
 
 This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists.
@@ -294,9 +295,8 @@ Delmonden is a village in Kent that doesn’t actually exist except in Shepherds
 The adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
 
 .ve-footer
-    - ![](https://raw.githubusercontent.com/kent-map/kent/main/images/Centre_for_Kent_History_and_Heritage_logo_1.jpg)
-    - [![](https://raw.githubusercontent.com/kent-map/kent/main/images/twitter.png)](https://twitter.com/KentMaps1)
-    - [![DoE participants' showcase](https://raw.githubusercontent.com/kent-map/kent/main/images/dofe-logo.png)](https://dofe.kent-maps.online)
     - A collaboration between: ![CCCU](https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/CCCU-logo-2colour.svg) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/kent/main/images/labs.jpg)](https://labs.jstor.org)
+    - [![](https://raw.githubusercontent.com/kent-map/kent/main/images/twitter.png)](https://twitter.com/KentMaps1)
     {.push}
-    
+    - [![DoE participants' showcase](https://raw.githubusercontent.com/kent-map/kent/main/images/dofe-logo.png)](https://dofe.kent-maps.online)    - ![](https://raw.githubusercontent.com/kent-map/kent/main/images/Centre_for_Kent_History_and_Heritage_logo_1.jpg)
+
