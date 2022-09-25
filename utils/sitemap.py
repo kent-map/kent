@@ -13,8 +13,7 @@ if __name__ == '__main__':
         for file in files:
             if file.endswith('md'):
                 file = file[:-3]
-                f'https://kent-maps.online{root}'
                 if file == 'README':
-                    print(f'https://kent-maps.online{root}/')
+                    print(f'https://www.kent-maps.online{root}/')
                 elif file not in ('index', 'howto', 'test'):
-                    print(f'https://kent-maps.online{root}/{file}/')
+                    print(f'https://www.kent-maps.online{root}/{file}/')
