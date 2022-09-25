@@ -7,7 +7,7 @@
 
 This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists.
 
-## Featured essays {.cards}
+# Featured essays {.cards}
 
 ## Mobile Landscapes - Finding Kent Dickensian {href=/dickens/mobile-landscapes}
 
@@ -61,7 +61,7 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 Nash was a formidable painter of ‘soil and sea’ who was inspired by the Dymchurch landscape.
 
-## Essays by period {.cards}
+# Essays by period {.cards}
 
 ## Medieval {href=medieval}
 
@@ -116,7 +116,7 @@ On the frontline of England's defence, Kent played a pivitol role in both the Fi
 Regeneration and the rise of the DFL.
 
 
-## Essays by place {.cards}
+# Essays by place {.cards}
 
 ## Places A-D {href=placesad}
 
@@ -139,7 +139,7 @@ Towns of grandeur. Articles on Folkestone, Gravesend and Margate
 Seaside resorts such as Ramsgate and Sandgate.
 
 
-## Essays by theme {.cards}
+# Essays by theme {.cards}
 
 ## Seascapes {href=seascape}
 
@@ -194,7 +194,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 An exploration of Kent's penal system including the Bloody Code, convicts, transportation and prison hulks.
 
 
-## Featured Authors {.cards}
+# Featured Authors {.cards}
 
 ## Jane Austen {href=austen}
 

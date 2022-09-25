@@ -44,6 +44,7 @@ CORS(app)
 def handler(event, context):
   return handle_request(app, event, context)
 
+HTML_CACHE = ExpiringDict(max_len=1000, max_age_seconds=24 * 60 * 60)
 SEARCH_CACHE = ExpiringDict(max_len=1000, max_age_seconds=24 * 60 * 60)
 
 def _add_link(soup, href, attrs=None):
@@ -89,6 +90,7 @@ def _get_local_content(path):
   logger.warn(f'Local content not found: path={path}')
 
 def _get_html(path, base_url, ref=REF, **kwargs):
+  logger.info(f'_get_html: path={path} base_url={base_url} ref={ref} kwargs={kwargs}')
   html = ''
   status_code = 404
   if LOCAL_CONTENT_ROOT:
@@ -99,10 +101,19 @@ def _get_html(path, base_url, ref=REF, **kwargs):
       status_code, html =  resp.status_code, resp.text if resp.status_code == 200 else ''
   else:
     api_url = f'{API_ENDPOINT}/html{path}?prefix={PREFIX}&base={base_url}'
-    resp = requests.get(api_url + (f'&ref={ref}' if ref else ''))
-    status_code, html =  resp.status_code, resp.text if resp.status_code == 200 else ''
-  if status_code == 200 and 'localhost' in API_ENDPOINT:
-    html = html.replace('https://unpkg.com/visual-essays/dist/visual-essays','http://localhost:3333/build')
+    if ref: api_url += f'&ref={ref}'
+    if api_url in HTML_CACHE and 'refresh' not in kwargs:
+      html = HTML_CACHE[api_url]
+      status_code = 200
+    else:
+      resp = requests.get(api_url )
+      status_code, html =  resp.status_code, resp.text if resp.status_code == 200 else ''
+      if status_code == 200:
+        HTML_CACHE[api_url] = html
+  if status_code == 200:
+    html = _customize_response(html)
+    if 'localhost' in API_ENDPOINT:
+      html = html.replace('https://unpkg.com/visual-essays/dist/visual-essays','http://localhost:3333/build')
   return status_code, html
 
 @app.route('/favicon.ico')
@@ -130,8 +141,6 @@ def render_html(path=None):
   if base_url != '/' and not base_url.endswith('/'): base_url += '/'
   path = f'/{path}' if path else '/'
   status, html = _get_html(path, base_url, **qargs)
-  if status == 200:
-    html = _customize_response(html)
   logger.debug(f'render: api_endpoint={API_ENDPOINT} base_url={base_url} \
   prefix={PREFIX} path={path} status={status} elapsed={round(now()-start, 3)}')
   return html, status
