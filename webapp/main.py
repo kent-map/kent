@@ -20,7 +20,7 @@ import yaml
 CONFIG = yaml.load(open(f'{SCRIPT_DIR}/config.yaml', 'r').read(), Loader=yaml.FullLoader)
 
 from time import time as now
-from flask import Flask, request, send_from_directory
+from flask import Flask, Response, request, send_from_directory
 from flask_cors import CORS
 from serverless_wsgi import handle_request
 import argparse
@@ -57,11 +57,11 @@ def _add_script(soup, src, attrs=None):
   soup.body.append(script)
 
 def _set_favicon(soup):
+  logger.info('_set_favicon')
   # Remove default favicon
   for el in soup.find_all('link', {'rel':'icon'}): el.decompose()
   # Add custom favicon
-  # _add_link(soup, '/static/images/favicon.svg', {'rel': 'icon', 'type':'image/svg+xml'})
-  # _add_link(soup, '/static/images/favicon.ico', {'rel':'icon', 'type':'image/png'})
+  _add_link(soup, 'https://raw.githubusercontent.com/kent-map/kent/main/images/favicon.ico', {'rel':'icon', 'type':'image/png'})
 
 def _set_style(soup):
   # Remove default favicon
@@ -75,7 +75,7 @@ def _customize_response(html):
   #   https://beautiful-soup-4.readthedocs.io/en/latest/
   soup = BeautifulSoup(html, 'html5lib')
   # perform custom updates to api-generated html
-  # _set_favicon(soup)
+  _set_favicon(soup)
   # _set_style(soup)
   return str(soup)
 
@@ -107,15 +107,18 @@ def _get_html(path, base_url, ref=REF, **kwargs):
 
 @app.route('/favicon.ico')
 def favicon():
-  return send_from_directory(os.path.join(app.root_path, 'static'), 'favicon.ico', mimetype='image/vnd.microsoft.icon')
+  favicon = requests.get('https://raw.githubusercontent.com/kent-map/kent/main/images/favicon.ico').content
+  return Response(favicon, mimetype='image/png')
 
 @app.route('/robots.txt')
 def robots_txt():
-  return send_from_directory(os.path.join(app.root_path, 'static'), 'robots.txt', mimetype='text/plain')
+  robots = requests.get('https://raw.githubusercontent.com/kent-map/kent/main/robots.txt').text
+  return Response(robots, mimetype='text/plain')
 
 @app.route('/sitemap.txt')
 def sitemap_txt():
-  return send_from_directory(os.path.join(app.root_path, 'static'), 'sitemap.txt', mimetype='text/plain')
+  sitemap = requests.get('https://raw.githubusercontent.com/kent-map/kent/main/sitemap.txt').text
+  return Response(sitemap, mimetype='text/plain')
 
 @app.route('/<path:path>')
 @app.route('/<path:path>/')
