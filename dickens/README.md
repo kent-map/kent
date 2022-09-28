@@ -1,5 +1,5 @@
 
-.ve-header "Dickens Land" gh:kent-map/kent/dickens/images/Grammar_School_Gate_Rochester.jpg sticky=true
+.ve-header "Dickens Land" gh:kent-map/images/dickens/grammargateroch sticky=true
     - [Home](/)
     - [About](/about)
 
