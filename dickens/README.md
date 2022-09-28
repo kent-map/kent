@@ -1,5 +1,5 @@
 
-.ve-header "Dickens Land" https://iiif.juncture-digital.org/banner?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/dickensland.png sticky=true
+.ve-header "Dickens Land" gh:kent-map/kent/dickens/images/Grammar_School_Gate_rochester.jpg sticky=true
     - [Home](/)
     - [About](/about)
 
