@@ -1,4 +1,4 @@
-.ve-header "21st Century Kent" gh:kent-map/kent/images/Millenium%20Mural.jpg sticky=true
+.ve-header "21st Century Kent" gh:kent-map/images/21c/canterburyhighst sticky=true
     - [Home](/)
     - [About](/about)
 
