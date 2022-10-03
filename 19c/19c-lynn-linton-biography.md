@@ -2,15 +2,13 @@
 <param ve-config title="Eliza Lynn Linton and Gad’s Hill" author="Juan Pedro Martín Villarreal" layout="vtl" banner="images/Grammar_School_Gate_Rochester.jpg">
 
 <param ve-entity eid="Q729006" aliases="Chatham">
-<param ve-entity eid="Q5068781" aliases="Chalk">
-<param ve-entity eid="Q922739" aliases="Broadstairs">
-<param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q507517" aliases="Rochester">
 
 #
 
-Gad’s Hill Place in Higham is well-known for being the country home of [Charles Dickens](/dickens/dickens-biography), but this is not its only literary connection, since it belonged to the family of Eliza Lynn Linton, one of the most prolific writers of her time who is known for being the first female salaried journalist in Britain. The house was built in 1780 for a former Mayor of Rochester, Thomas Stephens, and it is said that it caught the eye of the young [Charles Dickens](/dickens/dickens-biography), who fantasised about owning it one day while walking with his [father](/dickens/dickens-chatham) from Chatham.[^ref1] 
+Gad’s Hill Place in Higham is well-known for being the country home of [Charles Dickens](/dickens/dickens-biography), but this is not its only literary connection, since it belonged to the family of Eliza Lynn Linton, one of the most prolific writers of her time who is known for being the first female salaried journalist in Britain. The house was built in 1780 for a former Mayor of Rochester, Thomas Stephens, and it is said that it caught the eye of the young [Charles Dickens](/dickens/dickens-biography), who fantasised about owning it one day while walking with his [father](/dickens/dickens-chatham) from Chatham.[^ref1]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Eliza_Lynn_Linton_by_Downey.png" label="Eliza Lynn Linton" attribution="W.&D. Downey, London, Public domain, via Wikimedia Commons">
 
 Although Eliza Lynn Linton was born in Keswick in 1822, she spent part of her childhood in Gad’s Hill after her father (Rev. James Lynn, vicar of Crosthwaite) took a five-year leave of absence from his clerical duties in 1831, when she was nine years old. Rev Lynn probably moved to Kent for health reasons, but Eliza liked to think it was because of the nostalgia for the memory of her deceased mother, Charlotte. Life at Gad’s Hill was pleasant for the young Eliza. She loved to stroll through the gardens, which were decorated with statuary of Greek gods, and she also delighted in observing the coaches, the private carriages, and the people that passed by Chatham[^ref2]  while she also read the classics. In 1836 they moved back to Keswick.
 
