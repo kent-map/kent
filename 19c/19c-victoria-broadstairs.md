@@ -6,14 +6,15 @@
 
 #
 
-"It Is well known that for many years past the Isle of Thanet has been the favourite autumnal retreat of the Duchess of Kent and her illustrious daughter, now Queen of England. Thither they regularly went, accompanied, for their exalted station, by a small retinue, and during the stay throwing aside much of the cumbersome and formal constraints and chilling ceremonials of royalty, they entered into free intercourse with the respectable resident families 'and were constantly to be seen passing, almost unattended along the public streets or parades of the principal towns of the island." _Morning Chronicle_ - Friday 23 June 1837.
+'It Is well known that for many years past the Isle of Thanet has been the favourite autumnal retreat of the Duchess of Kent and her illustrious daughter, now Queen of England. Thither they regularly went, accompanied, for their exalted station, by a small retinue, and during the stay throwing aside much of the cumbersome and formal constraints and chilling ceremonials of royalty, they entered into free intercourse with the respectable resident families 'and were constantly to be seen passing, almost unattended along the public streets or parades of the principal towns of the island.' _Morning Chronicle_ - Friday 23 June 1837.
 <br><br>
 In 1829, The Duchess of Kent rented Pierremont (or Pier Mont) House in Broadstairs for the autumn.[^ref] It was a 26 bedroom house, with a library, a billiard room, a 13 acre garden containing shrubberies, hot house, fruit trees, vegetable garden, a 100 foot long grapery, melon ground and stabling for eight horses.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/68/Duchess_of_Kent_and_Victoria_by_Henry_Bone.jpg" label="Duchess of Kent and Victoria c. 1824/5" attribution="Henry Bone, Public domain, via Wikimedia Commons">
 
-The Duchess of Kent, Princess Victoria and Prince Charles and royal entourage, arrived in the town on the 1 August 1829 at 7.00 pm. They were greeted by pealing church bells and an amateur band playing national airs on the lawn of Pierremont House and in the evening, the village was partly illuminated to mark the occasion.[^ref]
+The Duchess of Kent, her young daughter Princess Victoria and the royal entourage, arrived in the town on the 1 August 1829 at 7.00 pm. They were greeted by pealing church bells and an amateur band playing national airs on the lawn of Pierremont House. In the evening, the village was partly illuminated to mark the occasion.[^ref]
 
 The royal presence caused an "unusual demand for houses" in Broadstairs for the season. [Two weeks later, the Morning Post - Friday 17 July 1829 reports that t] On 17 1829, the residents of Broadstairs celebrated the Duchess of Kent's birthday with triumphal arches and illuminations. His Royal Highness, Prince Leopold visited his sister, the Duchess, and the royal party "honour the town with a visit." Three miles away in Ramsgate there are still houses to be let, although there are aristocratic visitors and the Misses Burdett.
+<param ve-image url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" label="The Picturesque Beauties of Great Britain: Kent. Broadstairs." label="George Virtue, 1829. Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
 Pierremont House was built in 1785 for Thomas Forsyth (1744-1810) of Rutland and designed by Samuel Pepys Cockerell, who also designed Gore Court, near Sittingbourne. After the death of Forsyth it was owned by T.W. Payler but by the the 1820s, it was being let for the season as a marine residence. Tickets could be obtained to view the house from Mr Barfield at the town Library.[^ref] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Samuel_Pepys_Cockerell_by_George_Dance_1793.jpg" label="Samuel Pepys Cockerell">
@@ -22,13 +23,13 @@ https://discovery.nationalarchives.gov.uk/details/r/D212079 - sign in to get it 
 
 
 <br><br>
-Princess Victoria described her childhood as one of simplicity: "I was brought up very simply — never had a room to my- self till I was nearly grown up — always slept in my Mother's room till I came to the Throne. At Claremont, and in the small houses at the bathing-places, I sat and took my lessons in my Governess's bedroom. I was not fond of learning as a little child — and baffled every attempt to teach me my letters up to 5 years old — when I consented to learn them by their being written down before me."[^ref p.11 The letters of Queen Victoria : a selection from Her Majesty's correspondence between the years 1837 and 1861 : published by authority of His Majesty the king 1907] At Pierremont, she had piano lessons in the music room which was detached from the main house and enjoyed walking along the pier or parade.[^ref]
-<param ve-image url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" label="The Picturesque Beauties of Great Britain: Kent. Broadstairs." label="George Virtue, 1829. Photo by Astrid Stilma. By permission of Patrick Marrin.">
+Princess Victoria described her childhood as one of simplicity: "I was brought up very simply — never had a room to my- self till I was nearly grown up — always slept in my Mother's room till I came to the Throne. At Claremont, and in the small houses at the bathing-places, I sat and took my lessons in my Governess's bedroom. I was not fond of learning as a little child — and baffled every attempt to teach me my letters up to 5 years old — when I consented to learn them by their being written down before me."[^ref p.11 The letters of Queen Victoria : a selection from Her Majesty's correspondence between the years 1837 and 1861 : published by authority of His Majesty the king 1907] Baroness Lehzen (3 October 1784 – 9 September 1870) who was her governess, encouraged the young princess to distrust her mother and depend solely on her (Hibbert, 2000). At Pierremont, Princess Victorian had piano lessons in the music room which was detached from the main house and enjoyed walking along the pier or parade.[^ref]
+<param ve-image url="https://stor.artstor.org/stor/2a68391b-9297-4e72-9a29-4c897cdda117" label="The Pier at Broadstairs" attribution="Kent Maps Online">
 
 On the 3 November 1829, Victoria and her mother left Broadstairs, after their three month stay, attended by Lady Catherine Jenkinson, Baroness Lehzen and Sir John Conroy to visit Eastwell Park, near Ashford, the home of the Earl of Winchelsea.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Gatehouse_to_Eastwell_Park_-_geograph.org.uk_-_68280.jpg" label="Gatehouse to Eastwell Park" attribution="Guy Erwood" license="CC BY-SA 2.0">
 
-In 1833, H.R.H. Princess Sophia rented Pierremont house from Edward Fletcher for the summer and again in 1838, after the coronation.[^ref]
+In 1833, H.R.H. Princess Sophia Matilda of Gloucester (29 May 1773 – 29 November 1844)  rented Pierremont house from Edward Fletcher for the summer and again in 1838, after the coronation.[^ref]
 The house was owned by a Scottish gentleman, Edward Fletcher (c.1762-1846) from at least 1833-1846, but on his death it was auctioned off and parts of the estate sold to build new housing.
 
 In 1835, the Duchess took Princess Victoria to Ramsgate for the season, and the fashionable members of society followed them. _Bell's New Weekly Messenger_ mocked the disappointed Broad-starers who stared at all newcomers "to little or no purpose" and advised them to be "content, for they have the Princess Sophia of Gloucester among them, and the Earls Aylesford and Dartmouth, and several other Midland Lords and Ladies who, wherever they are, always make point of existing unmixed with baser matter." It was a stinging remark. Victoria visited Princess Sophia at Broadstairs during her stay at Ramsgate and wrote: "It began to rain and we got into the carriage and drove to Broadstairs to pay Princess Sophia Matilda a visit. We all walked with the Princess on the sort of Parade at Broadstairs and then got into our carriage and drove home."[^ref Victoria's Journal Thursday 1st October 1835]
@@ -37,12 +38,6 @@ In 1835, the Duchess took Princess Victoria to Ramsgate for the season, and the 
 Princess Sophia Matilda stayed in Broadstairs at this time.[^ref] In September 1836, the Duchess returned to Pierremont House, as did Princess Sophia?
 
 'At half-past two, we drove with Lady Catherine & Lehzen to Piermont House at Broadstairs & payed Princess Sophia Matilda a short visit' - _Queen Victoria's Journal_, Tuesday 4th October 1836
-
-Lady Sophia Foy (1780-1845) was staying with the Princess at the time of Princes Victoria's visit. 
-
-Baroness Lehzen (3 October 1784 – 9 September 1870) was her governess. According to Hibbert (2000) Lehzen instilled distrust in Victoria's mind against her mother.
-
-Princess Sophia Matilda of Gloucester (29 May 1773 – 29 November 1844) was unmarried and 62 years old, Lady Sophia Foy was 56 (Unless it was her daughter) Princess Victoria was 17 and so the short visit may simply have been a curtesy call to an older relative. 
 <param ve-image url="https://stor.artstor.org/stor/8538611a-a4ed-4003-a5d6-fd5168d378cf" label="Blue Plaque at Pierremont House" attribution="Photographed by Martin Crowther">
 
 ### Bibliography

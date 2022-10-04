@@ -1,18 +1,15 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Plum Pudding Riots" author="Hannah Jennison" layout="vtl" 
-banner="https://upload.wikimedia.org/wikipedia/commons/8/8c/Military_Odyssey_2007_English_Civil_War_Reenactment_-_1259557156.jpg">
+banner="/images/banners/17c.jpg">
 
 #
 
 <param ve-entity title="Canterbury" eid="Q29303">
-<param ve-entity title="pikemen" eid="Q1778520">
-<param ve-entity title="Oliver Cromwell" eid="Q44279">
-<param ve-entity title="Royalists" eid="Q2284765">
-<param ve-entity title="Parliamentarians" eid="Q1130553">
 <param ve-entity title="battle of Maidstone" eid="Q4871639">
 
-**Christmas conflict forms between the people of Canterbury and the Lord Mayor over new British Puritan rule**   
-Shopkeepers forced to keep their shops open on Christmas Day fought back against the new rule imposed by the Puritans. The enforced closure, part of the Puritan aim to cancel Christmas, was a rule that was championed by the Lord Mayor of Canterbury, who walked along the streets to encourage shopkeepers to stay open.
+Christmas conflict formed between the people of Canterbury and the Lord Mayor over new British Puritan rule.
+<br><br>
+Shopkeepers forced to keep their shops open on Christmas Day fought back against the new rule imposed by the Puritans. The enforced closure, part of the Puritan aim to cancel Christmas, was a rule that was championed by the Lord Mayor of Canterbury, William Bridge, who walked along the streets encouraging shopkeepers to stay open.
 <param ve-image 
        label="Whitefriars Street, Canterbury" 
        license="Creative Commons Attribution-Share Alike 2.0 Generic" 
@@ -26,8 +23,9 @@ As he moved through the streets, the Lord Mayor was affronted by a gathering cro
 
 A shopkeeper who closed his shop was told by the Lord Mayor to stay open under the threat of the stocks. The mob retaliated by throwing the Lord Mayor to the ground, where he was covered in mud and his clothes ruined. After getting to his feet and silencing the crowd, a game of football broke out in the streets with two inflated pig bladders!
 
-The festivities of Christmas were believed by the Puritan government under Oliver Cromwell to be a Roman Catholic celebration and to encourage unnecessary celebration and debauchery. The riots were a ‘last-straw’ reaction against all the restrictions imposed upon the citizens of Canterbury, including the removal of food thought to be for feasts by soldiers. Similar riots took place in Norwich and Ipswich.
-<param ve-map center="Q184775" zoom="8">
+The festivities of Christmas were believed by the Puritan government under Oliver Cromwell to be a Roman Catholic celebration and to encourage unnecessary celebration and debauchery. The riots were a ‘last-straw’ reaction against all the restrictions imposed upon the citizens of Canterbury, including the removal of food thought to be for feasts by soldiers. Canterbury citizens shouted "For God, King Charles and Kent!"[^ref1]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg" label="Oliver Cromwell" attribution="After Samuel Cooper, Public domain, via Wikimedia Commons">
+<param ve-map center="Q29303" zoom="8">
 
 The aftermath was that the citizens were to be tried and punished – however Kent’s grand jury refused to indict them. The following celebrations and protests led to a petition hoping to reconcile the Royalists and the Parliamentarians, which did not succeed. The spirit of rebellion continued and would lead to the battle of Maidstone, which ended in a terrible defeat for the people of Kent and the Royalist cause.
 <param ve-image 
@@ -35,3 +33,7 @@ The aftermath was that the citizens were to be tried and punished – however Ke
        description="A pike charge during a re-enactment of the Battle of Maidstone"
        license="Creative Commons Attribution-Share Alike 3.0 Unported" 
        url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Pike_Charge_Battle_of_Maidstone_Military_Odyssey.jpg">
+       
+### References
+
+[^ref1]: Chandler, John W. (2019) 'Keeping it in the family: Interdisciplinary kinship and association studies of the Stanley family within the corporation oligarchy in seventeenth century Canterbury', _The Journal of Genealogy and Family History_, Vol. 3, No. 1, pp. 79-96.
