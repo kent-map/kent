@@ -1,4 +1,4 @@
-.ve-header "The Garden of England" https://stor.artstor.org/stor/0304f113-bb27-49ec-998f-15329c201526 sticky=true
+.ve-header "The Garden of England" gh:kent-map/images/landscapes/oasthouses sticky=true
     - [Home](/)
     - [About](/about)
 
