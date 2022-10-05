@@ -20,11 +20,15 @@
 
 **Testing**
 
-Chemist, Dr [Robert Plot](/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows.[^ref1] 
+Samuel Pepys stayed at the Salutation Tavern in 1661 where he was entertained with "with wine and oysters and other things".[^ref1] Six years later, he stayed at the White Harte Inn in 1667 but complained that he could get "no sheets to our bed, only linen to our mouths".[^ref2] 
+
+Chemist, Dr [Robert Plot](/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows.[^ref3] 
 <param ve-image url="https://github.com/kent-map/images/blob/main/maps/Dickens_Rochester_Chatham.jpg">
 
 ### References
 
-[^ref1]: Aubrey, John 'Letters written by eminent persons in the 17th and 18th centuries : to which are added, Hearne's Journeys to Reading, and to Whaddon Hall, the seat of Browne Willis, Esq., and Lives of eminent men.' London: Longman, Hurst, Rees, Orme, And Brown, 1813. 
+[^ref1]: Pepys, Samuel. https://www.pepysdiary.com/diary/1661/04/10/
+[^ref2]: Pepys, Samuel. https://www.pepysdiary.com/diary/1667/06/30/
+[^ref3]: Aubrey, John 'Letters written by eminent persons in the 17th and 18th centuries : to which are added, Hearne's Journeys to Reading, and to Whaddon Hall, the seat of Browne Willis, Esq., and Lives of eminent men.' London: Longman, Hurst, Rees, Orme, And Brown, 1813. 
 
 
