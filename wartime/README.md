@@ -1,4 +1,4 @@
-.ve-header "Wartime Kent" https://stor.artstor.org/stor/bee89f45-ed57-468c-bbbb-e706bd015859 sticky=true
+.ve-header "Wartime Kent" gh:kent-map/images/wartime/road2 sticky=true
     - [Home](/)
     - [About](/about)
 
