@@ -20,15 +20,16 @@
 
 **Testing**
 
-Samuel Pepys stayed at the Salutation Tavern in 1661 where he was entertained with "with wine and oysters and other things".[^ref1] Six years later, he stayed at the White Harte Inn in 1667 but complained that he could get "no sheets to our bed, only linen to our mouths".[^ref2] 
+Samuel Pepys, the diarist, was appointed the Clerk of the Acts of the Navy Board and visited the Medway towns as part of his work. In 1661, he stayed at the Salutation Tavern where he was entertained with "with wine and oysters and other things".[^ref1] On subsequent visits (1662, 1665 and 1667), he visited the Crown   for wine, supper and making merry. It was during one of these visits that he walked to the castle ruins and "there going up I did upon the stairs overtake three pretty mayds or women and took them up with me, and I did ‘baiser sur mouches et toucher leur mains’ and necks to my great pleasure".[^ref2]  In June 1667, He stayed at the White Harte Inn but complained that he could get "no sheets to our bed, only linen to our mouths".[^ref3] 
 
-Chemist, Dr [Robert Plot](/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows.[^ref3] 
+Chemist, Dr [Robert Plot](/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows.[^ref4] 
 <param ve-image url="https://github.com/kent-map/images/blob/main/maps/Dickens_Rochester_Chatham.jpg">
 
 ### References
 
 [^ref1]: Pepys, Samuel. https://www.pepysdiary.com/diary/1661/04/10/
-[^ref2]: Pepys, Samuel. https://www.pepysdiary.com/diary/1667/06/30/
-[^ref3]: Aubrey, John 'Letters written by eminent persons in the 17th and 18th centuries : to which are added, Hearne's Journeys to Reading, and to Whaddon Hall, the seat of Browne Willis, Esq., and Lives of eminent men.' London: Longman, Hurst, Rees, Orme, And Brown, 1813. 
+[^ref2]: Pepys, Samuel. https://www.pepysdiary.com/diary/1665/10/02/
+[^ref3]: Pepys, Samuel. https://www.pepysdiary.com/diary/1667/06/30/
+[^ref4]: Aubrey, John 'Letters written by eminent persons in the 17th and 18th centuries : to which are added, Hearne's Journeys to Reading, and to Whaddon Hall, the seat of Browne Willis, Esq., and Lives of eminent men.' London: Longman, Hurst, Rees, Orme, And Brown, 1813. 
 
 
