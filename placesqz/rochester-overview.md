@@ -20,5 +20,11 @@
 
 **Testing**
 
-Chemist, Dr [Robert Plot](/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows. 
+Chemist, Dr [Robert Plot](/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows.[^ref1] 
 <param ve-image url="https://github.com/kent-map/images/blob/main/maps/Dickens_Rochester_Chatham.jpg">
+
+### References
+
+[^ref1]: Aubrey, John 'Letters written by eminent persons in the 17th and 18th centuries : to which are added, Hearne's Journeys to Reading, and to Whaddon Hall, the seat of Browne Willis, Esq., and Lives of eminent men.' London: Longman, Hurst, Rees, Orme, And Brown, 1813. 
+
+
