@@ -20,5 +20,5 @@
 
 **Testing**
 
-Rochester
+Chemist, Dr [Robert Plot](/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows. 
 <param ve-image url="https://github.com/kent-map/images/blob/main/maps/Dickens_Rochester_Chatham.jpg">
