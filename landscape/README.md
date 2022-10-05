@@ -1,4 +1,4 @@
-.ve-header "Literary Landscapes" gh:kent-map/kent/images/banners/OasthousesMJC.jpg sticky=true
+.ve-header "Literary Landscapes" gh:kent-map/images/landscapes/oasthouses sticky=true
     - [Home](/)
     - [About](/about)
 
