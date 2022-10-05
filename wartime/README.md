@@ -4,6 +4,8 @@
 
 # &nbsp; {.cards}
 
+#
+
 ## Belgian Refugees {href=/20c/20c-belgian-refugees}
 
 - author: Maddie Pettit
@@ -69,7 +71,7 @@ War-time Prime Minister Winston Churchill has several connections to Kent. Most 
 
 The secret network of underground tunnels at Dover Castle were vital in the Evacuation of Dunkirk and in key deception operations of the Second World War.
 
-## Wilfred Owen href={20c/20c-owen-biography}
+## Wilfred Owen {href=/20c/20c-owen-biography}
 
 - author: Jeremy Page
 
