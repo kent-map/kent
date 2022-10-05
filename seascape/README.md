@@ -1,4 +1,4 @@
-.ve-header "Seascapes" https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301 sticky=true
+.ve-header "Seascapes" gh:kent-map/images/seascapes/botanybay sticky=true
     - [Home](/)
     - [About](/about)
 
