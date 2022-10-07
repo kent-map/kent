@@ -33,11 +33,19 @@ Sarah Dixon who wrote _Poems on Several Occasions_ was baptised in Rochester, in
 Chemist, Dr [Robert Plot](/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows.[^ref4] 
 <param ve-image url="https://github.com/kent-map/images/blob/main/maps/Dickens_Rochester_Chatham.jpg">
 
+Friend and mentor of [Charles Darwin](/19c/19c-darwin-biography), John Stevens Henslow, botanist and geologist was born in Rochester in 1796.
+
 Artist, [Richard Dadd](/19c/19c-dadd-biography) was educated at the King's School.
 
 [Ellen Ternan](/19c/19c-ternan-biography), actress, was born in Rochester in 1839.
 
-Russell Thorndike, actor and novelist known for his _Dr Syn_ stories set in Romney Marsh, was born in Rochester in 1885. Mathematician, [John Edensor Littlewood](/19c/19c-edensor-littlewood-biography) whose father taught at the King's School, was born in the same year.
+ Thomas Aveling, iron founder and agricultural engineer was mayor of the city and has a school named after him.
+
+Sybil Thorndike, actor, was born in Rochester in 1882. Her brother Russell, actor and novelist known for his _Dr Syn_ stories set in Romney Marsh, was born three years later. Mathematician, [John Edensor Littlewood](/19c/19c-edensor-littlewood-biography) whose father taught at the King's School, was also born in this year, but later moved to Dover. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/46/Sybil_Thorndike%2C_English_actress%2C_1932_-_The_Falk_Studios_%286480135843%29.jpg" label="Sybil Thorndike, 1932" attribution="State Library of New South Wales collection, No restrictions, via Wikimedia Commons">
+
+Enid Bagnold, author of _National Velvet_ was born in Rochester in 1889, although she did not live in the city for long.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/%27Enid_Bagnold_Age_c.25%27_by_Maurice_Asselin.jpg" label="Enid Bagnold" attribution="Maurice Asselin, Public domain, via Wikimedia Commons">
 
 ### References
 
