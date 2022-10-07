@@ -18,7 +18,7 @@
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860">
 
-**Testing**
+" Magnificent ruin ! " said Mr. Augustus Snodgrass, with all the poetic fervour that distinguished him, when they came in sight of the fine old castle. "What a study for an antiquarian," were the very words which fell from Mr. Pickwick's mouth, as he applied his telescope to his eye. _Pickwick Papers_
 
 Rochester has had many illustrious visitors. Henry VIII met Ann of Cleves in the town. ELizabeth I stayed there.
 
@@ -33,5 +33,3 @@ Chemist, Dr [Robert Plot](/17c/17c-robert-plot) wrote to Dr Charlett from Roches
 [^ref2]: Pepys, Samuel. https://www.pepysdiary.com/diary/1665/10/02/
 [^ref3]: Pepys, Samuel. https://www.pepysdiary.com/diary/1667/06/30/
 [^ref4]: Aubrey, John 'Letters written by eminent persons in the 17th and 18th centuries : to which are added, Hearne's Journeys to Reading, and to Whaddon Hall, the seat of Browne Willis, Esq., and Lives of eminent men.' London: Longman, Hurst, Rees, Orme, And Brown, 1813. 
-
-
