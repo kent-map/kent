@@ -3,7 +3,7 @@
     - [Home](/)
     - [About](/about)
 
-# &nbsp; {.cards}
+# Essays {.cards}
 
 ## Finding Dickens Land {href=dickens-biography}
 
