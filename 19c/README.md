@@ -8,6 +8,8 @@
 
 <param ve-config title="19th Century Kent" banner=/images/banners/19c.jpg>
 
+[Overview](19c-kent)
+
 ### People
 
 [Henry Gardiner Adams](19c-gardiner-adams-biography)   
