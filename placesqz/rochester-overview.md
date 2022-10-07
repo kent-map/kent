@@ -21,6 +21,7 @@
 'Bright and pleasant was the sky, balmy the air, and beautiful the appearance of every object around, as Mr. Pickwick leaned over the balustrades of Rochester Bridge, contemplating nature, and waiting for breakfast. The scene was indeed one which might well have charmed a far less reflective mind, than that to which it was presented'. _Pickwick Papers_
 
 Rochester has had many illustrious visitors. Henry VIII met Ann of Cleves in the town. ELizabeth I stayed there.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/18/Frederick_Nash_-_Rochester_Cathedral_and_Castle_-_Google_Art_Project.jpg" label="Rochester Cathedral and Castle" attribution="Frederick Nash, Public domain, via Wikimedia Commons">
 
 The dramatist and courtier, [John Lyly](/16c/16c-lyly-biography), may have been born in Rochester c. 155 and set his comedy 'Mother Bombie' in the town.
 
@@ -42,6 +43,7 @@ Artist, [Richard Dadd](/19c/19c-dadd-biography) was educated at the King's Schoo
 Thomas Aveling, iron founder and agricultural engineer was mayor of the city and has a school named after him.
  
 Phyllis Bottome, novelist and short story writer was born in Rochester and inspired James Bond author [Ian Fleming](/20c/20c-fleming-biography).
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/The_castle%2C_Rochester%2C_England-LCCN2002708076.jpg" label="The castle, Rochester" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 
 Sybil Thorndike, actor, moved to Rochester at the age two. Her brother Russell, actor and novelist known for his _Dr Syn_ stories set in Romney Marsh, was born in in the city in 1885. Mathematician, [John Edensor Littlewood](/19c/19c-edensor-littlewood-biography) whose father taught at the King's School, was also born in this year, but later moved to Dover. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/46/Sybil_Thorndike%2C_English_actress%2C_1932_-_The_Falk_Studios_%286480135843%29.jpg" label="Sybil Thorndike, 1932" attribution="State Library of New South Wales collection, No restrictions, via Wikimedia Commons">
