@@ -39,9 +39,11 @@ Artist, [Richard Dadd](/19c/19c-dadd-biography) was educated at the King's Schoo
 
 [Ellen Ternan](/19c/19c-ternan-biography), actress, was born in Rochester in 1839.
 
- Thomas Aveling, iron founder and agricultural engineer was mayor of the city and has a school named after him.
+Thomas Aveling, iron founder and agricultural engineer was mayor of the city and has a school named after him.
+ 
+Phyllis Bottome, novelist and short story writer was born in Rochester and inspired James Bond author [Ian Fleming](/20c/20c-fleming-biography).
 
-Sybil Thorndike, actor, was born in Rochester in 1882. Her brother Russell, actor and novelist known for his _Dr Syn_ stories set in Romney Marsh, was born three years later. Mathematician, [John Edensor Littlewood](/19c/19c-edensor-littlewood-biography) whose father taught at the King's School, was also born in this year, but later moved to Dover. 
+Sybil Thorndike, actor, moved to Rochester at the age two. Her brother Russell, actor and novelist known for his _Dr Syn_ stories set in Romney Marsh, was born in in the city in 1885. Mathematician, [John Edensor Littlewood](/19c/19c-edensor-littlewood-biography) whose father taught at the King's School, was also born in this year, but later moved to Dover. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/46/Sybil_Thorndike%2C_English_actress%2C_1932_-_The_Falk_Studios_%286480135843%29.jpg" label="Sybil Thorndike, 1932" attribution="State Library of New South Wales collection, No restrictions, via Wikimedia Commons">
 
 Enid Bagnold, author of _National Velvet_ was born in Rochester in 1889, although she did not live in the city for long.
