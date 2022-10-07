@@ -18,7 +18,7 @@
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860">
 
-" Magnificent ruin ! " said Mr. Augustus Snodgrass, with all the poetic fervour that distinguished him, when they came in sight of the fine old castle. "What a study for an antiquarian," were the very words which fell from Mr. Pickwick's mouth, as he applied his telescope to his eye. _Pickwick Papers_
+'Bright and pleasant was the sky, balmy the air, and beautiful the appearance of every object around, as Mr. Pickwick leaned over the balustrades of Rochester Bridge, contemplating nature, and waiting for breakfast. The scene was indeed one which might well have charmed a far less reflective mind, than that to which it was presented'. _Pickwick Papers_
 
 Rochester has had many illustrious visitors. Henry VIII met Ann of Cleves in the town. ELizabeth I stayed there.
 
