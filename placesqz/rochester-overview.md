@@ -35,7 +35,7 @@ Chemist, Dr [Robert Plot](/17c/17c-robert-plot) wrote to Dr Charlett from Roches
 
 Artist, [Richard Dadd](/19c/19c-dadd-biography) was educated at the King's School.
 
-[Ellen Ternan](/19c/19c-ter)nan-biography), actress, was born in Rochester in 1839.
+[Ellen Ternan](/19c/19c-ternan-biography), actress, was born in Rochester in 1839.
 
 Russell Thorndike, actor and novelist known for his _Dr Syn_ stories set in Romney Marsh, was born in Rochester in 1885. Mathematician, [John Edensor Littlewood](/19c/19c-edensor-littlewood-biography) whose father taught at the King's School, was born in the same year.
 
