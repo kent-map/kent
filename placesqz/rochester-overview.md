@@ -2,8 +2,8 @@
 
 <param ve-config
        title="Rochester"
-       banner="xxx"
-       author="xxx"
+       banner="https://upload.wikimedia.org/wikipedia/commons/c/ce/Jonathan_Skelton_-_The_Bridge_and_Castle_at_Rochester_-_B1975.4.2000_-_Yale_Center_for_British_Art.jpg"
+       author="Michelle Crowther"
        layout="vtl">
 
 
