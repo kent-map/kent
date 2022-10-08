@@ -1,4 +1,4 @@
-.ve-header "Places A-H" gh:kent-map/kent/images/banners/19c.jpg sticky=true
+.ve-header "Places A-D" gh:kent-map/kent/images/banners/19c.jpg sticky=true
     - [Home](/)
     - [About](/about)
 
