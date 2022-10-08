@@ -7,7 +7,7 @@
 
 ## Finding Dickens Land {href=dickens-biography}
 
-- author: Carolyn W. de la L. Oulton
+- author: Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0ca370cd-4c10-4a07-928a-be8227f38e5e)
 
@@ -15,7 +15,7 @@ From Rochester to Broadstairs on the East coast – wherever you go you can be f
 
 ## Mobile Landscapes {href=mobile-landscapes}
 
-- author: Ken Moffat and Carolyn W. de la L. Oulton
+- author: Ken Moffat and Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/dickens_head.jpg)
 
@@ -23,7 +23,7 @@ Inspired by the literary pilgrimages made by Victorians themselves. Authors such
 
 ## Great Expectations: a Curated Walk {href=great-expectations-curated-walk}
 
-- author: Ken Moffat and Carolyn W. de la L. Oulton
+- author: Ken Moffat and Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Grammar_School_Gate_Rochester.jpg)
 
@@ -31,7 +31,7 @@ Starts with Pip’s fateful encounter with Magwitch in the local churchyard. But
 
 ## David Copperfield: a Curated Walk {href=david-copperfield-curated-walk}
 
-- author: Ken Moffat and Carolyn W. de la L. Oulton
+- author: Ken Moffat and Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/Broadstairs.jpg)
 
@@ -39,7 +39,7 @@ Takes David through Kent and down the Dover Road to find answers to some vital q
 
 ## Dickens and Broadstairs {href=dickens-broadstairs}
 
-- author: Ken Moffat and Carolyn W. de la L. Oulton
+- author: Ken Moffat and Carolyn Oulton
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d301f78e-3342-4822-82ad-c1d5b428d6db)
 
@@ -110,7 +110,7 @@ Gad's Hill caught the imagination of writers from Dickens’s friend and biograp
 
 My first encounter with Great Expectations was as an eleven year old, watching the 1946 David Lean film in a school hall. 
 
-## Leather and dust: David Copperfield’s shoes and the Dover Road {href=/dickens/19c-leather-and-dust}
+## Leather and dust {href=/dickens/19c-leather-and-dust}
 
 - author Elizabeth Waterman-Scrase
 
