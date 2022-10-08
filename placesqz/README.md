@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)
 
+Seaside resorts such as Ramsgate and Sandgate.
+
 # &nbsp; {.cards}
 
 ## Ramsgate in the 19th century {href=/19c/19c-ramsgate/}
