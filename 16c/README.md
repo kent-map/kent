@@ -2,7 +2,7 @@
     - [Home](/)
     - [About](/about)
 
-<br>
+Establishment of Chatham Dockyard. Battle against the Spanish Armada. Industry includes textiles and iron production.
 
 # &nbsp; {.cards}
 
