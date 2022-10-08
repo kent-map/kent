@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)
 
+Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Canterbury, Deal and Dover.
+
 # &nbsp; {.cards}
 
 ## Broadstairs in the 19th century {href=/dickens/broadstairs-19th-century/}
