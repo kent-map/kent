@@ -2,7 +2,7 @@
     - [Home](/)
     - [About](/about)
 
-# Essays {.cards}
+## Essays {.cards}
 
 ## John Boys {href=18c-boys-biography}
 
