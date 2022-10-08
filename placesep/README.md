@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)
 
+Towns of grandeur. Articles on Folkestone, Gravesend and Margate.
+
 # &nbsp; {.cards}
 
 ## Folkestone in the 19th century {href=/19c/19c-folkestone/}
