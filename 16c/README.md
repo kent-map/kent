@@ -2,7 +2,7 @@
     - [Home](/)
     - [About](/about)
 
-<br><br>
+<br>
 
 # &nbsp; {.cards}
 
