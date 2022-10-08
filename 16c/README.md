@@ -2,7 +2,9 @@
     - [Home](/)
     - [About](/about)
 
-# Essays {.cards}
+<br><br>
+
+# &nbsp; {.cards}
 
 ## Arden of Faversham {href=16c-arden-faversham}
 
