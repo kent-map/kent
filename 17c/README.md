@@ -1,7 +1,9 @@
 .ve-header "17th Century Kent" gh:kent-map/kent/images/banners/17c.jpg sticky=true
     - [Home](/)
     - [About](/about)
-       
+
+Industry includes production of malt for brewing. The English Civil War.
+
 # &nbsp; {.cards}
 
 ## Aphra Behn {href=17c-behn-biography}
