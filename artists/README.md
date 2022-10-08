@@ -3,6 +3,8 @@
        banner="https://stor.artstor.org/stor/f0bec294-4bea-40c0-8161-a6c8c1f1cdde"
        layout="index">
 
+Painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
+
 # &nbsp; {.cards}
 
 ## Alfred Cohen {href=/20c/20c-cohen-biography}
