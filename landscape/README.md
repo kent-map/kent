@@ -14,7 +14,7 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 
 Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
-## Literary Encounters along the River Stour {href=landscape/literary-stour}
+## Literary Encounters along the River Stour {href=/landscape/literary-stour}
 
 - author: Dr Diana Hirst
 
@@ -22,7 +22,7 @@ Kent is a county of diverse landscapes - inspiring evocations of both rural idyl
 
 In Roman and medieval times the River Stour was a major transport route, connecting Canterbury with mainland Europe. Its beauty has inspired authors across time.
 
-## Scapes and Fringes {href=landscape/scapes-and-fringes}
+## Scapes and Fringes {href=/landscape/scapes-and-fringes}
 
 - author: Peter Vujakovic
 
@@ -61,4 +61,8 @@ To this day the autumn hop picking season provides a potent image of Kent rural 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8b2c869f-fca1-462c-9f35-0ec431e15266)
 
 Itinerant hop and fruit pickers are often seen as transient but archetypal characters within the landscapes of Kent. London families who helped with the hop harvest and other ‘travellers’ who followed the seasons and the fruit harvests often feature in the literature on Kent.
+
+## Writers of the Romney Marshes {href/landscape/romney-writers}
+
+- author: Dr Pat Agar
 
