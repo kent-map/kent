@@ -1,15 +1,12 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Kentish literary landscapes and pays" author="Professor Peter Vujakovic" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
+<param ve-config title="Writers of Romney Marsh" author="Dr Pat Argar" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 <param ve-entity eid="xx" aliases="Aldington">
 <param ve-entity eid="xx" aliases="Dymchurch">
 <param ve-entity eid="xx" aliases="Dungeness">
 <param ve-entity eid="Q16902864" aliases="Walland Marsh">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 <param ve-entity eid="Q16988605" alliases="Denge Marsh">
-
-Writers of Romney Marsh 
-Dr Pat Argar
 
 A number of writers of the Edwardian era and the years between the World Wars chose to depict Romney Marsh in their work. Not least among them was [Henry James](/19c/19c-jamesh-hever-castle), who never featured the area in his novels but found the Marsh a very special place. 
  The Marsh itself evokes a ‘small thrill’ when Henry James sees ‘little lonely farms, red and gray, little mouse-coloured churches; little villages that seem made only for long shadows and summer afternoons … when summer deepens, the shadows fall, … you find in the mild English marsh a recall of the Roman Compagna’.  
@@ -35,12 +32,24 @@ Russell Thorndike’s _Dr Syn_ (1915)  is a smuggling tale set on Romney Marsh. 
 
 Everything was vivid - either very dark or very light. Such grass as they came to was black grass; such roadways as they crossed were white roads; the sky was brightly starlit, but the mountainous clouds were black; the edges of the great dyke sluices were pitch black, but the water and thin mud were silver steel, reflecting the light of the sky.   
  
- 
-James, Henry. 
-[English Hours](https://archive.org/details/englishhours1905jame/page/n11/mode/2up). Boston: Houghton, 1905. First publication 1875.
-Jepson, Edgar. _The Murder in Romney Marsh_. Bath: Lythway Press Ltd, 1929.
-Conrad, Joseph. ‘Amy Foster’. Wroclaw, 2020. First publication 1901.
-Wells, H. G.. _Kipps_. New York: Charles Scribner, 1905.
-Hall, Radclyffe. _The Sixth Beatitude_. London: William Heinemann Ltd, 1936.
-Thorndike, Russell. _Dr Syn_. London: Arrow, 1972. First publication 1915.
+### Bibliography
+James, Henry. [English Hours](https://archive.org/details/englishhours1905jame/page/n11/mode/2up). Boston: Houghton, 1905. First publication 1875.   
+Jepson, Edgar. _The Murder in Romney Marsh_. Bath: Lythway Press Ltd, 1929.   
+Conrad, Joseph. ‘Amy Foster’. Wroclaw, 2020. First publication 1901.   
+Wells, H. G.. _Kipps_. New York: Charles Scribner, 1905.   
+Hall, Radclyffe. _The Sixth Beatitude_. London: William Heinemann Ltd, 1936.   
+Thorndike, Russell. _Dr Syn_. London: Arrow, 1972. First publication 1915.   
 
+### References
+
+[^ref1]: _English Hours’ 314-15.
+[^ref2]: Shail 387
+[^ref3]: The Murder in Romney Marsh 71
+[^ref4]: The Murder in Romney Marsh 71
+[^ref5]: Amy Foster 1
+[^ref6]: Kipps 16
+[^ref7]: The Sixth Beatitude 18
+[^ref8]: The Sixth Beatitude 18 
+[^ref9]: The Sixth Beatitude 61
+[^ref10]: The Sixth Beatitude 100
+[^ref11]: Dr Syn 52
