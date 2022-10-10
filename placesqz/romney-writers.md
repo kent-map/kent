@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config title="Writers of Romney Marsh" author="Dr Pat Argar" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/c/c1/Charles_Sims--The_Sands_at_Dymchurch--c1920-2--Tate.jpg">
-<param ve-entity eid="Q921173 aliases="Aldington">
+<param ve-entity eid="Q921173" aliases="Aldington">
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 <param ve-entity eid="Q911577" aliases="Dungeness">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
@@ -10,13 +10,15 @@ A number of writers of the Edwardian era and the years between the World Wars ch
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/Harold_Gilman_-_Romney_Marsh_-_B1975.4.330_-_Yale_Center_for_British_Art.jpg" label="Romney Marsh" attribution="Harold Gilman, CC0, via Wikimedia Commons">
 
 Among those drawn to the Romney Marsh was [Joseph Conrad](/19c/19c-conrad-biography), who for a while lived at Aldington overlooking the Marsh. A much lesser-known novelist who wrote less literary works - Edgar Jepson - recalled a day spent in Dymchurch with Conrad and another acquaintance.  
-
+<br><br>
 Jepson noted that they spent most of the afternoon ‘on Dymchurch wall, and they talked and talked of the number and colour of the funnels of steamers that came round Dungeness point and passed us, and of the number and colour of the rings round the funnels, for these told them which line they came from. . .  it was a summer afternoon’.[^ref2]  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ordnance_Survey_Drawings_-_Dungeness%2C_Kent_%28OSD_104-2%29.jpg" label="Dungeness Point" attribution="British Library, OGL v1.0OGL v1.0, via Wikimedia Commons">
 
 Jepson and [Joseph Conrad](/19c/19c-conrad-biography), judging by their respective works, were not particularly enamoured of the Marsh - certainly the descriptions they give us tend towards the gloomy. In Jepson’s _The Murder in Romney Marsh_ (1929) - a drug smuggling and murder mystery - he describes the Marsh as almost cheerful but then ‘a bank of heavy cloud drifted over its grey and drab flatness’ and when it became dark ‘it grew uncommonly eerie’ while in winter it is a  ‘bleak and bitter place’.[^ref3]   However he does admit that he could see ‘clear across the Marsh to the mist-wrapped  hills … six or seven miles away’. He is at one with Conrad in his opinion of the inhabitants of the Marsh too. Jepson notes that the people of the Marsh are somewhat standoffish to strangers and view them as ‘foreigners’.[^ref4]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/98/Harold_Gilman_-_Romney_Marsh_-_B1975.4.329_-_Yale_Center_for_British_Art.jpg" label="Romney Marsh" attribution="Harold Gilman, CC0, via Wikimedia Commons">
 
 Conrad’s tale set on the Marsh is a short story entitled ‘Amy Foster’ (1901). The narrative tells of a man from the Carpathians who is the sole survivor of a shipwreck washed up on the shores at Dymchurch. Based on the 1775 wrecking of the _City of London_,  which resulted in much loss of life Conrad’s tells a very gloomy tale of misery and ultimately death. The Marsh is a place of ‘gorgeous and sombre aspect’ where  a ‘penetrating sadness … disengaged itself from the silence of the fields’. The people are ‘slow, unsmiling, with downcast eyes’ and above all totally unfriendly. The shoreline has a ‘dilapidated windmill’ with ‘shattered arms’ and a Martello tower ‘squatting at the water’s edge’.[^ref5] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b1/New_Romney_Old_pre_1905.jpg" label="Old Mill, New Romney pre-1905" attribution="Valentine's, Dundee, Public domain, via Wikimedia Commons">
 
 In Kipps (1905) [H. G.  Wells’s](/20c/20c-wellshg-biography) picture of the Marsh is one seen through the eyes of young boys inhabiting an idyllic world:
 <br><br>
