@@ -62,7 +62,7 @@ To this day the autumn hop picking season provides a potent image of Kent rural 
 
 Itinerant hop and fruit pickers are often seen as transient but archetypal characters within the landscapes of Kent. London families who helped with the hop harvest and other ‘travellers’ who followed the seasons and the fruit harvests often feature in the literature on Kent.
 
-## Writers of the Romney Marshes {href/landscape/romney-writers}
+## Writers of the Romney Marshes {href=/landscape/romney-writers}
 
 - author: Dr Pat Agar
 
