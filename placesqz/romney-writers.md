@@ -28,6 +28,7 @@ Radclyffe Hall in _The Sixth Beatitude_ (1936) likewise depicts the Marsh as a u
 A heron …heavy powerful wings beating with dignity, slender powerful legs stretched out stiffly behind him … Plovers circled and screamed above their young; moor-hens paddled in and out of the rushes; larks dropped like plummets then soared up and up, seeming to shatter themselves with singing; while the thorn trees … were so heavy with blossom that their boughs were hidden.[^ref9]  
 <br>
 The Marsh is not without its romance though – ‘an August moon silvered the quiet water of the dykes … a patch of pale marsh mist lay like a ghost of the vanished sea’.[^ref10]   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Fairfield_Church%2C_Romney_Marsh_-_geograph.org.uk_-_228870.jpg" label="Fairfield CHurch, Romney Marsh" attribution="Stephen Nunney / Fairfield Church, Romney Marsh" license="CC BY-SA 2.0">
 
 Russell Thorndike’s _Dr Syn_ (1915)  is a smuggling tale set on Romney Marsh. Thorndike was an actor and writer who had spent many holidays of his childhood with his, arguably more famous sister, Sybil Thorndike, at Dymchurch. Supposedly the exciting tale of daring do and smuggling came about as a distraction when the pair were in New York and someone was murdered outside their hotel. There is little descriptive writing of the Marsh but the eerie atmosphere of the Marsh at night is amply conveyed when on a ‘weird night’:
 <br><br>
