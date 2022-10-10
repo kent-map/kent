@@ -1,15 +1,12 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Writers of Romney Marsh" author="Dr Pat Argar" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
-<param ve-entity eid="xx" aliases="Aldington">
-<param ve-entity eid="xx" aliases="Dymchurch">
-<param ve-entity eid="xx" aliases="Dungeness">
-<param ve-entity eid="Q16902864" aliases="Walland Marsh">
+<param ve-config title="Writers of Romney Marsh" author="Dr Pat Argar" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/c/c1/Charles_Sims--The_Sands_at_Dymchurch--c1920-2--Tate.jpg">
+<param ve-entity eid="Q921173 aliases="Aldington">
+<param ve-entity eid="Q2796278" aliases="Dymchurch">
+<param ve-entity eid="Q911577" aliases="Dungeness">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
-<param ve-entity eid="Q16988605" alliases="Denge Marsh">
 
-A number of writers of the Edwardian era and the years between the World Wars chose to depict Romney Marsh in their work. Not least among them was [Henry James](/19c/19c-jamesh-hever-castle), who never featured the area in his novels but found the Marsh a very special place. 
- The Marsh itself evokes a ‘small thrill’ when Henry James sees ‘little lonely farms, red and gray, little mouse-coloured churches; little villages that seem made only for long shadows and summer afternoons … when summer deepens, the shadows fall, … you find in the mild English marsh a recall of the Roman Compagna’.[^ref1]  
+A number of writers of the Edwardian era and the years between the World Wars chose to depict Romney Marsh in their work. Not least among them was [Henry James](/19c/19c-jamesh-hever-castle), who never featured the area in his novels but found the Marsh a very special place. The Marsh itself evokes a ‘small thrill’ when Henry James sees ‘little lonely farms, red and gray, little mouse-coloured churches; little villages that seem made only for long shadows and summer afternoons … when summer deepens, the shadows fall, … you find in the mild English marsh a recall of the Roman Compagna’.[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/Harold_Gilman_-_Romney_Marsh_-_B1975.4.330_-_Yale_Center_for_British_Art.jpg" label="Romney Marsh" attribution="Harold Gilman, CC0, via Wikimedia Commons">
 
 Among those drawn to the Romney Marsh was [Joseph Conrad](/19c/19c-conrad-biography), who for a while lived at Aldington overlooking the Marsh. A much lesser-known novelist who wrote less literary works - Edgar Jepson - recalled a day spent in Dymchurch with Conrad and another acquaintance.  
