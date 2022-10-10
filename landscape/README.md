@@ -66,3 +66,7 @@ Itinerant hop and fruit pickers are often seen as transient but archetypal chara
 
 - author: Dr Pat Agar
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/98/Harold_Gilman_-_Romney_Marsh_-_B1975.4.329_-_Yale_Center_for_British_Art.jpg)
+
+A number of writers of the Edwardian era and the years between the World Wars chose to depict Romney Marsh in their work. Not least among them was Henry James, who never featured the area in his novels but found the Marsh a very special place. 
+
