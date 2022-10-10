@@ -22,6 +22,8 @@ Kent is a county of diverse landscapes - inspiring evocations of both rural idyl
 
 In Roman and medieval times the River Stour was a major transport route, connecting Canterbury with mainland Europe. Its beauty has inspired authors across time.
 
+## 
+
 - author: Peter Vujakovic
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/HopbinMJC.jpg)
