@@ -10,7 +10,7 @@
 
 A number of writers of the Edwardian era and the years between the World Wars chose to depict Romney Marsh in their work. Not least among them was [Henry James](/19c/19c-jamesh-hever-castle), who never featured the area in his novels but found the Marsh a very special place. 
  The Marsh itself evokes a ‘small thrill’ when Henry James sees ‘little lonely farms, red and gray, little mouse-coloured churches; little villages that seem made only for long shadows and summer afternoons … when summer deepens, the shadows fall, … you find in the mild English marsh a recall of the Roman Compagna’.  
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/Harold_Gilman_-_Romney_Marsh_-_B1975.4.330_-_Yale_Center_for_British_Art.jpg" label="Romeny Marsh" attribution="Harold Gilman, CC0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/Harold_Gilman_-_Romney_Marsh_-_B1975.4.330_-_Yale_Center_for_British_Art.jpg" label="Romney Marsh" attribution="Harold Gilman, CC0, via Wikimedia Commons">
 
 Among those drawn to the Romney Marsh was [Joseph Conrad](/19c/19c-conrad-biography), who for a while lived at Aldington overlooking the Marsh. A much lesser-known novelist who wrote less literary works - Edgar Jepson - recalled a day spent in Dymchurch with Conrad and another acquaintance.  
 
@@ -31,8 +31,9 @@ A heron …heavy powerful wings beating with dignity, slender powerful legs stre
 The Marsh is not without its romance though – ‘an August moon silvered the quiet water of the dykes … a patch of pale marsh mist lay like a ghost of the vanished sea’.   
 
 Russell Thorndike’s _Dr Syn_ (1915)  is a smuggling tale set on Romney Marsh. Thorndike was an actor and writer who had spent many holidays of his childhood with his, arguably more famous sister, Sybil Thorndike, at Dymchurch. Supposedly the exciting tale of daring do and smuggling came about as a distraction when the pair were in New York and someone was murdered outside their hotel. There is little descriptive writing of the Marsh but the eerie atmosphere of the Marsh at night is amply conveyed when on a ‘weird night’:
-
+<br><br>
 Everything was vivid - either very dark or very light. Such grass as they came to was black grass; such roadways as they crossed were white roads; the sky was brightly starlit, but the mountainous clouds were black; the edges of the great dyke sluices were pitch black, but the water and thin mud were silver steel, reflecting the light of the sky.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/76/Doctor_Syn_1915_Doubleday_cover.png" label="Dr Syn" attribution="Doubleday Cover. Unknown author, Public domain, via Wikimedia Commons">
  
 ### Bibliography
 James, Henry. [English Hours](https://archive.org/details/englishhours1905jame/page/n11/mode/2up). Boston: Houghton, 1905. First publication 1875.   
