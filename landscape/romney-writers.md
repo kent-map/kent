@@ -10,8 +10,8 @@ A number of writers of the Edwardian era and the years between the World Wars ch
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/Harold_Gilman_-_Romney_Marsh_-_B1975.4.330_-_Yale_Center_for_British_Art.jpg" label="Romney Marsh" attribution="Harold Gilman, CC0, via Wikimedia Commons">
 
 Among those drawn to the Romney Marsh was [Joseph Conrad](/19c/19c-conrad-biography), who for a while lived at Aldington overlooking the Marsh. A much lesser-known novelist who wrote less literary works - Edgar Jepson - recalled a day spent in Dymchurch with Conrad and another acquaintance.  
-<br>
 <param ve-map center="Q2796278" zoom="10">
+
 Jepson noted that they spent most of the afternoon ‘on Dymchurch wall, and they talked and talked of the number and colour of the funnels of steamers that came round Dungeness point and passed us, and of the number and colour of the rings round the funnels, for these told them which line they came from. . .  it was a summer afternoon’.[^ref2]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ordnance_Survey_Drawings_-_Dungeness%2C_Kent_%28OSD_104-2%29.jpg" label="Dungeness Point" attribution="British Library, OGL v1.0OGL v1.0, via Wikimedia Commons">
 
