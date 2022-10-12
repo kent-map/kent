@@ -1,4 +1,4 @@
-.ve-header "The Garden of England" gh:kent-map/images/landscapes/oasthouses sticky=true
+.ve-header "The Garden of England" gh:kent-map/images/gardenofeng/nrseasalter sticky=true
     - [Home](/)
     - [About](/about)
 
