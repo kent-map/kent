@@ -1,6 +1,8 @@
-.ve-header "Places R-Z" gh:kent-map/kent/images/banners/19c.jpg sticky=true
+.ve-header "Places Q-Z" gh:kent-map/kent/images/banners/19c.jpg sticky=true
     - [Home](/)
     - [About](/about)
+
+Seaside resorts such as Ramsgate and Sandgate.
 
 # &nbsp; {.cards}
 

@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)
 
+Strategic position of the Medway in relation to European wars. New sea water ‘cures’ see the reinvention of Margate as a fashionable resort.
+
 # &nbsp; {.cards}
 
 ## John Boys {href=18c-boys-biography}

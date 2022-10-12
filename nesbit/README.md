@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)
 
+Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent.
+
 # &nbsp; {.cards}
 
 ## Edith Nesbit {href=/nesbit/nesbit-biography}
@@ -10,7 +12,7 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
 
-Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent.
+Edith Nesbit, spent formative years in the village of Halstead, in the Sevenoaks District of Kent.
 
 ## Penshurst {href=/nesbit/nesbit-penshurst}
 

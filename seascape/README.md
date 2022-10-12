@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)
 
+The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
+
 # &nbsp; {.cards}
 
 ## Seaside Resorts {href=/19c/19c-seaside}

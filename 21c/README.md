@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)
 
+Regeneration and the rise of the DFL.
+
 # &nbsp; {.cards}
 
 ## Impressions from a Bolthole Window {href=21c-impressions-hirst}

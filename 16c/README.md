@@ -2,7 +2,9 @@
     - [Home](/)
     - [About](/about)
 
-# Essays {.cards}
+Establishment of Chatham Dockyard. Battle against the Spanish Armada. Industry includes textiles and iron production.
+
+# &nbsp; {.cards}
 
 ## Arden of Faversham {href=16c-arden-faversham}
 

@@ -2,8 +2,10 @@
 .ve-header "Dickens Land" gh:kent-map/images/dickens/grammargateroch sticky=true
     - [Home](/)
     - [About](/about)
+    
+One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
 
-## Essays {.cards}
+# &nbsp; {.cards}
 
 ## Finding Dickens Land {href=dickens-biography}
 

@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)
 
+Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
+
 # &nbsp; {.cards}
 
 ## The Kentish Landscape {href=/landscape/kentish-landscapes}
@@ -12,13 +14,15 @@
 
 Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
-## Literary Encounters along the River Stour {href=landscape/literary-stour}
+## Literary Encounters along the River Stour {href=/landscape/literary-stour}
 
 - author: Dr Diana Hirst
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_%288270473878%29.jpg)
 
 In Roman and medieval times the River Stour was a major transport route, connecting Canterbury with mainland Europe. Its beauty has inspired authors across time.
+
+## Scapes and Fringes {href=/landscape/scapes-and-fringes}
 
 - author: Peter Vujakovic
 
@@ -58,3 +62,10 @@ To this day the autumn hop picking season provides a potent image of Kent rural 
 
 Itinerant hop and fruit pickers are often seen as transient but archetypal characters within the landscapes of Kent. London families who helped with the hop harvest and other ‘travellers’ who followed the seasons and the fruit harvests often feature in the literature on Kent.
 
+## Writers of the Romney Marshes {href=/landscape/romney-writers}
+
+- author: Dr Pat Agar
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/98/Harold_Gilman_-_Romney_Marsh_-_B1975.4.329_-_Yale_Center_for_British_Art.jpg)
+
+A number of writers of the Edwardian era and the years between the World Wars chose to depict Romney Marsh in their work. Not least among them was Henry James, who never featured the area in his novels but found the Marsh a very special place. 

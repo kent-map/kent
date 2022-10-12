@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)
 
+Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth.
+
 # &nbsp; {.cards}
 
 ## John Boys {href=/18c/18c-boys-biography/}
