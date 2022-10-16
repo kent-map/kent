@@ -7,7 +7,7 @@ The Bloody Code, Contagious Diseases Acts, Lock Hospitals and Convict prisons.
 # &nbsp; {.cards}
 
 ##
-**Bloody Code {/18c/18c-bloody-code/}
+**Bloody Code {href=/18c/18c-bloody-code/}
 
 - author: Dr Martin Watts
 
@@ -16,7 +16,7 @@ The Bloody Code, Contagious Diseases Acts, Lock Hospitals and Convict prisons.
 The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
 
 ##
-**Contagious Diseases Acts {/19c/19c-contagious-diseases/}
+**Contagious Diseases Acts {href=/19c/19c-contagious-diseases/}
 
 - author: Dr Martin Watts
 
@@ -25,7 +25,7 @@ The Bloody Code applied death sentences to a growing number of crimes, while oth
 Following public concern over an increase in prostitution and venereal disease, reflecting the rapid rise in population, urban living and increased mobility, Parliament passed the Contagious Diseases Act in 1864
 
 ##
-**Convicts in Kent {/19c/19c-convicts-overview/}
+**Convicts in Kent {href=/19c/19c-convicts-overview/}
 
 - author: Dr Ben Bethell
 
@@ -34,7 +34,7 @@ Following public concern over an increase in prostitution and venereal disease, 
 A part of Kent’s penal legacy is its role in the domestic convict system that replaced transportation.
 
 ##
-**Chatham Convict Prison {/19c/19c-convicts-chatham/}
+**Chatham Convict Prison {href=/19c/19c-convicts-chatham/}
 
 - author: Dr Ben Bethell
 
@@ -43,7 +43,7 @@ A part of Kent’s penal legacy is its role in the domestic convict system that 
 Chatham convict prison opened in 1856. It was a ‘public works’ prison, built to accommodate convicts who would hitherto have been sentenced to transportation.
 
 ##
-**Maidstone Convict Prison {/19c/19c-convicts-maidstone/}
+**Maidstone Convict Prison {href=/19c/19c-convicts-maidstone/}
 
 - author: Dr Ben Bethell
 
