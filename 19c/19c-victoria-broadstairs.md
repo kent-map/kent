@@ -15,10 +15,10 @@ In 1829, The Duchess of Kent rented Pierremont House in Broadstairs for the autu
 The Duchess of Kent arrived in the town on the evening of 1 August 1829 with her young daughter Princess Victoria and the royal entourage. They were greeted by pealing church bells and an amateur band playing national airs on the lawn of Pierremont House. In the evening, the village was partly illuminated to mark the occasion.[^ref4]
 <param ve-image url="https://stor.artstor.org/stor/a7e4f0ee-5b60-4e8d-857a-c567e4976d15" label="Pierremont House" attribution="Martin Crowther">
 
-The royal presence caused an "unusual demand for houses" in Broadstairs that autumn.[^ref5] On 17 August, the residents of Broadstairs celebrated the Duchess of Kent's birthday with triumphal arches and illuminations. His Royal Highness, Prince Leopold visited his sister, the Duchess, and the royal party "honour the town with a visit." Three miles away in Ramsgate there are still houses to be let, although there were aristocratic visitors and the Misses Burdett.[^ref6]
+The royal presence caused an "unusual demand for houses" in Broadstairs that autumn.[^ref5] On 17 August, the residents of Broadstairs celebrated the Duchess of Kent's birthday with triumphal arches and illuminations. His Royal Highness, Prince Leopold visited his sister, the Duchess, and the royal party "honour the town with a visit." Three miles away in Ramsgate there were still houses to be let, although there were aristocratic visitors and the Misses Burdett.[^ref6] W.H. Harrison in his book _The Humourist_ (1831) describes the popularity of the seaside towns at this time: "...to go to Brighton, Ramsgate, Broadstairs, or to any other place whither the industrious bees of the metropolis are wont to swarm, would be to encounter the same eternal round of faces with which I had become sufficiently familiar in London".[^ref7]
 <param ve-image url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" label="The Picturesque Beauties of Great Britain: Kent. Broadstairs." label="George Virtue, 1829. Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
-Princess Victoria described her childhood as one of simplicity: "I was brought up very simply — never had a room to my- self till I was nearly grown up — always slept in my Mother's room till I came to the Throne. At Claremont, and in the small houses at the bathing-places, I sat and took my lessons in my Governess's bedroom. I was not fond of learning as a little child — and baffled every attempt to teach me my letters up to 5 years old — when I consented to learn them by their being written down before me."[^ref7] Baroness Lehzen who was her governess, encouraged the young princess to distrust her mother and depend solely on her.[^ref8]. At Pierremont, Princess Victorian had piano lessons in the music room which was detached from the main house and also enjoyed walking along the pier or parade.[^ref9]
+Later, Queen Victoria wrote of her childhood: "I was brought up very simply — never had a room to my- self till I was nearly grown up — always slept in my Mother's room till I came to the Throne. At Claremont, and in the small houses at the bathing-places, I sat and took my lessons in my Governess's bedroom. I was not fond of learning as a little child — and baffled every attempt to teach me my letters up to 5 years old — when I consented to learn them by their being written down before me."[^ref8] Baroness Lehzen who was her governess, encouraged the young princess to distrust her mother and depend solely on her.[^ref9]. At Pierremont, Princess Victoria had piano lessons in the music room which was detached from the main house and also enjoyed walking along the pier or parade.
 <param ve-image url="https://stor.artstor.org/stor/2a68391b-9297-4e72-9a29-4c897cdda117" label="The Pier at Broadstairs" attribution="Kent Maps Online">
 
 On the 3 November 1829, Victoria and her mother left Broadstairs, after a three month stay, attended by Lady Catherine Jenkinson, Baroness Lehzen and Sir John Conroy. They travelled to Eastwell Park, near Ashford, the home of the Earl of Winchelsea.[^ref10]
@@ -47,11 +47,11 @@ Hibbert, Christopher (2000). _Queen Victoria: A Personal History._ HarperCollins
 [^ref4]: _Morning Post_ - Tuesday 04 August 1829
 [^ref5]: _Sun_ (London) - Wednesday 19 August 1829
 [^ref6]: _Sun_ (London) - Wednesday 19 August 1829
-[^ref7]: _The letters of Queen Victoria : a selection from Her Majesty's correspondence between the years 1837 and 1861 : published by authority of His Majesty the king 1907_, 11.
-[^ref8]:  Hibbert, 2000.
-[^ref9]:
+[^ref7]:  Harrison, W.H. _The humourist, a companion for the Christmas fireside_, London: Ackermann, 1831, 191.
+[^ref8]: _The Letters of Queen Victoria : a selection from Her Majesty's correspondence between the years 1837 and 1861 : published by authority of His Majesty the king 1907_, 11.
+[^ref9]:  Hibbert, 2000.
 [^ref10]:
-[^ref11]: 
+[^ref11]:
 [^ref12]: Bell's New Weekly Messenger 1835
 [^ref13]: Victoria's Journal, Thursday 1st October 1835
 
