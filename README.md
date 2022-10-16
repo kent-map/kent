@@ -283,7 +283,7 @@ Bithia Croker's novel is set on the Romney Marshes. Rosamund Balmaine finds love
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
 
-Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith.
+Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
 
 
 ## The Winter Diary of a Country Rat by Peter Firmin {href=20c/20c-firmin-winter-diary}
