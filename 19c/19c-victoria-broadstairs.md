@@ -7,17 +7,16 @@
 #
 
 'It Is well known that for many years past the Isle of Thanet has been the favourite autumnal retreat of the Duchess of Kent and her illustrious daughter, now Queen of England. Thither they regularly went, accompanied, for their exalted station, by a small retinue, and during the stay throwing aside much of the cumbersome and formal constraints and chilling ceremonials of royalty, they entered into free intercourse with the respectable resident families 'and were constantly to be seen passing, almost unattended along the public streets or parades of the principal towns of the island.' _Morning Chronicle_ - Friday 23 June 1837.
-<br><br>
-In 1829, The Duchess of Kent rented Pierremont (or Pier Mont) House in Broadstairs for the autumn.[^ref] It was a 26 bedroom house, with a library, a billiard room, a 13 acre garden containing shrubberies, hot house, fruit trees, vegetable garden, a 100 foot long grapery, melon ground and stabling for eight horses.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/68/Duchess_of_Kent_and_Victoria_by_Henry_Bone.jpg" label="Duchess of Kent and Victoria c. 1824/5" attribution="Henry Bone, Public domain, via Wikimedia Commons">
 
-The Duchess of Kent, with her young daughter Princess Victoria and the royal entourage, arrived in the town on the 1 August 1829 at 7.00 pm. They were greeted by pealing church bells and an amateur band playing national airs on the lawn of Pierremont House. In the evening, the village was partly illuminated to mark the occasion.[^ref]
-
-The royal presence caused an "unusual demand for houses" in Broadstairs for the season. On 17 [ ] 1829, the residents of Broadstairs celebrated the Duchess of Kent's birthday with triumphal arches and illuminations. His Royal Highness, Prince Leopold visited his sister, the Duchess, and the royal party "honour the town with a visit." Three miles away in Ramsgate there are still houses to be let, although there are aristocratic visitors and the Misses Burdett.
-<param ve-image url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" label="The Picturesque Beauties of Great Britain: Kent. Broadstairs." label="George Virtue, 1829. Photo by Astrid Stilma. By permission of Patrick Marrin.">
-
-Pierremont House was built in 1785 for Thomas Forsyth (1744-1810) of Rutland and designed by Samuel Pepys Cockerell, who also designed Gore Court, near Sittingbourne. After the death of Forsyth it was owned by T.W. Payler but by the the 1820s, it was being let for the season as a marine residence. Tickets could be obtained to view the house from Mr Barfield at the town Library.[^ref] 
+In 1829, The Duchess of Kent rented Pierremont House in Broadstairs for the autumn.[^ref] It was a 26 bedroom house, with a library, a billiard room, a 13 acre garden containing shrubberies, hot house, fruit trees, vegetable garden, a 100 foot long grapery, melon ground and stabling for eight horses. It had been built in 1785 for Thomas Forsyth (1744-1810) of Rutland and designed by Samuel Pepys Cockerell, who also designed Gore Court, near Sittingbourne. After the death of Forsyth it was owned by T.W. Payler but by the the 1820s, it was being let for the season as a marine residence. Tickets could be obtained to view the house from Mr Barfield at the town Library.[^ref] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Samuel_Pepys_Cockerell_by_George_Dance_1793.jpg" label="Samuel Pepys Cockerell">
+
+The Duchess of Kent arrived in the town on the evening of 1 August 1829 with her young daughter Princess Victoria and the royal entourage. They were greeted by pealing church bells and an amateur band playing national airs on the lawn of Pierremont House. In the evening, the village was partly illuminated to mark the occasion.[^ref]
+<param ve-image url="https://stor.artstor.org/stor/a7e4f0ee-5b60-4e8d-857a-c567e4976d15" label="Pierremont House" attribution="Martin Crowther">
+
+The royal presence caused an "unusual demand for houses" in Broadstairs. On 17 August, the residents of Broadstairs celebrated the Duchess of Kent's birthday with triumphal arches and illuminations. His Royal Highness, Prince Leopold visited his sister, the Duchess, and the royal party "honour the town with a visit." Three miles away in Ramsgate there are still houses to be let, although there are aristocratic visitors and the Misses Burdett.
+<param ve-image url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" label="The Picturesque Beauties of Great Britain: Kent. Broadstairs." label="George Virtue, 1829. Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
 https://discovery.nationalarchives.gov.uk/details/r/D212079 - sign in to get it for free.
 
@@ -31,6 +30,7 @@ On the 3 November 1829, Victoria and her mother left Broadstairs, after their th
 
 In 1833, H.R.H. Princess Sophia Matilda of Gloucester (29 May 1773 – 29 November 1844)  rented Pierremont house from Edward Fletcher for the summer and again in 1838, after the coronation.[^ref]
 The house was owned by a Scottish gentleman, Edward Fletcher (c.1762-1846) from at least 1833-1846, but on his death it was auctioned off and parts of the estate sold to build new housing.
+<param ve-image url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" label="Broadstairs">
 
 In 1835, the Duchess took Princess Victoria to Ramsgate for the season, and the fashionable members of society followed them. _Bell's New Weekly Messenger_ mocked the disappointed Broad-starers who stared at all newcomers "to little or no purpose" and advised them to be "content, for they have the Princess Sophia of Gloucester among them, and the Earls Aylesford and Dartmouth, and several other Midland Lords and Ladies who, wherever they are, always make point of existing unmixed with baser matter." It was a stinging remark. Victoria visited Princess Sophia at Broadstairs during her stay at Ramsgate and wrote: "It began to rain and we got into the carriage and drove to Broadstairs to pay Princess Sophia Matilda a visit. We all walked with the Princess on the sort of Parade at Broadstairs and then got into our carriage and drove home."[^ref Victoria's Journal Thursday 1st October 1835]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/HRH_Princess_Sophia_-_Andrew_Robertson_-_ABDAG008244.jpg" label="Princess Sophia of Gloucester" attribution="Andrew Robertson, Aberdeen Art Gallery, Public domain, via Wikimedia Common">
