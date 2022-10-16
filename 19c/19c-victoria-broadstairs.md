@@ -32,9 +32,7 @@ In 1835, the Duchess of Kent took Princess Victoria to Ramsgate for the season, 
 Victoria visited Princess Sophia at Broadstairs during her stay at Ramsgate and wrote: "It began to rain and we got into the carriage and drove to Broadstairs to pay Princess Sophia Matilda a visit. We all walked with the Princess on the sort of Parade at Broadstairs and then got into our carriage and drove home."[^ref13] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/HRH_Princess_Sophia_-_Andrew_Robertson_-_ABDAG008244.jpg" label="Princess Sophia of Gloucester" attribution="Andrew Robertson, Aberdeen Art Gallery, Public domain, via Wikimedia Common">
 
- In September 1836, the Duchess returned to Pierremont House, as did Princess Sophia?
-
-'At half-past two, we drove with Lady Catherine & Lehzen to Piermont House at Broadstairs & payed Princess Sophia Matilda a short visit' - _Queen Victoria's Journal_, Tuesday 4th October 1836
+A year later, she visited her aunt again: 'At half-past two, we drove with Lady Catherine & Lehzen to Piermont House at Broadstairs & payed Princess Sophia Matilda a short visit' - _Queen Victoria's Journal_, Tuesday 4th October 1836
 <param ve-image url="https://stor.artstor.org/stor/8538611a-a4ed-4003-a5d6-fd5168d378cf" label="Blue Plaque at Pierremont House" attribution="Photographed by Martin Crowther">
 
 ### Bibliography
