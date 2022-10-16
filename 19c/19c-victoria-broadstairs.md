@@ -18,18 +18,18 @@ The Duchess of Kent arrived in the town on the evening of 1 August 1829 with her
 The royal presence caused an "unusual demand for houses" in Broadstairs that autumn.[^ref5] On 17 August, the residents of Broadstairs celebrated the Duchess of Kent's birthday with triumphal arches and illuminations. His Royal Highness, Prince Leopold visited his sister, the Duchess, and the royal party "honour the town with a visit." Three miles away in Ramsgate there were still houses to be let, although there were aristocratic visitors and the Misses Burdett.[^ref6] W.H. Harrison in his book _The Humourist_ (1831) describes the popularity of the seaside towns at this time: "...to go to Brighton, Ramsgate, Broadstairs, or to any other place whither the industrious bees of the metropolis are wont to swarm, would be to encounter the same eternal round of faces with which I had become sufficiently familiar in London".[^ref7]
 <param ve-image url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" label="The Picturesque Beauties of Great Britain: Kent. Broadstairs." label="George Virtue, 1829. Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
-Later, Queen Victoria wrote of her childhood: "I was brought up very simply — never had a room to my- self till I was nearly grown up — always slept in my Mother's room till I came to the Throne. At Claremont, and in the small houses at the bathing-places, I sat and took my lessons in my Governess's bedroom. I was not fond of learning as a little child — and baffled every attempt to teach me my letters up to 5 years old — when I consented to learn them by their being written down before me."[^ref8] Baroness Lehzen who was her governess, encouraged the young princess to distrust her mother and depend solely on her.[^ref9]. At Pierremont, Princess Victoria had piano lessons in the music room which was detached from the main house and also enjoyed walking along the pier or parade.
+Later, Queen Victoria wrote of her childhood: "I was brought up very simply — never had a room to my- self till I was nearly grown up — always slept in my Mother's room till I came to the Throne. At Claremont, and in the small houses at the bathing-places, I sat and took my lessons in my Governess's bedroom. I was not fond of learning as a little child — and baffled every attempt to teach me my letters up to 5 years old — when I consented to learn them by their being written down before me."[^ref8] Baroness Lehzen who was her governess, encouraged the young princess to distrust her mother and depend solely on her.[^ref9]. At Pierremont, Princess Victoria had piano lessons in the music room which was detached from the main house and also enjoyed walking along the pier or parade.[^ref10]
 <param ve-image url="https://stor.artstor.org/stor/2a68391b-9297-4e72-9a29-4c897cdda117" label="The Pier at Broadstairs" attribution="Kent Maps Online">
 
-On the 3 November 1829, Victoria and her mother left Broadstairs, after a three month stay, attended by Lady Catherine Jenkinson, Baroness Lehzen and Sir John Conroy. They travelled to Eastwell Park, near Ashford, the home of the Earl of Winchelsea.[^ref10]
+On the 3 November 1829, Victoria and her mother left Broadstairs, after a three month stay, attended by Lady Catherine Jenkinson, Baroness Lehzen and Sir John Conroy. They travelled to Eastwell Park, near Ashford, the home of the Earl of Winchelsea.[^ref11]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Gatehouse_to_Eastwell_Park_-_geograph.org.uk_-_68280.jpg" label="Gatehouse to Eastwell Park" attribution="Guy Erwood" license="CC BY-SA 2.0">
 
-Four years later, Princess Victoria's aunt, H.R.H. Princess Sophia Matilda of Gloucester rented Pierremont house for the summer. At this period, it was owned by a Scottish gentleman called Edward Fletcher, but by his death in 1846, the house was auctioned off and parts of the estate sold to build new housing.  Princess Sophia rented it again in 1835 and 1838, after the coronation of her niece.[^ref11]
+Four years later, Princess Victoria's aunt, H.R.H. Princess Sophia Matilda of Gloucester rented Pierremont house for the summer. At this period, it was owned by a Scottish gentleman called Edward Fletcher, but by his death in 1846, the house was auctioned off and parts of the estate sold to build new housing.  Princess Sophia rented it again in 1835 and 1838, after the coronation of her niece.[^ref12]
 <param ve-image url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" label="Broadstairs">
 
-In 1835, the Duchess of Kent took Princess Victoria to Ramsgate for the season, and the fashionable members of society followed them. _Bell's New Weekly Messenger_ mocked the disappointed Broad-starers who stared at all newcomers "to little or no purpose" and advised them to be "content, for they have the Princess Sophia of Gloucester among them, and the Earls Aylesford and Dartmouth, and several other Midland Lords and Ladies who, wherever they are, always make point of existing unmixed with baser matter."[^ref12] This was a stinging remark aimed at Broadstairs, but more specifically at Princess Sophia whose mother's illegitimacy had created difficulties for her in her early life.
+In 1835, the Duchess of Kent took Princess Victoria to Ramsgate for the season, and the fashionable members of society followed them. _Bell's New Weekly Messenger_ mocked the disappointed Broad-starers who stared at all newcomers "to little or no purpose" and advised them to be "content, for they have the Princess Sophia of Gloucester among them, and the Earls Aylesford and Dartmouth, and several other Midland Lords and Ladies who, wherever they are, always make point of existing unmixed with baser matter."[^ref13] This was a stinging remark aimed at Broadstairs, but more specifically at Princess Sophia whose mother's illegitimacy had created difficulties for her in her early life.
 
-Victoria visited Princess Sophia at Broadstairs during her stay at Ramsgate and wrote: "It began to rain and we got into the carriage and drove to Broadstairs to pay Princess Sophia Matilda a visit. We all walked with the Princess on the sort of Parade at Broadstairs and then got into our carriage and drove home."[^ref13] 
+Victoria visited Princess Sophia at Broadstairs during her stay at Ramsgate and wrote: "It began to rain and we got into the carriage and drove to Broadstairs to pay Princess Sophia Matilda a visit. We all walked with the Princess on the sort of Parade at Broadstairs and then got into our carriage and drove home."[^ref14] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/HRH_Princess_Sophia_-_Andrew_Robertson_-_ABDAG008244.jpg" label="Princess Sophia of Gloucester" attribution="Andrew Robertson, Aberdeen Art Gallery, Public domain, via Wikimedia Common">
 
 A year later, she visited her aunt again: 'At half-past two, we drove with Lady Catherine & Lehzen to Piermont House at Broadstairs & payed Princess Sophia Matilda a short visit' - _Queen Victoria's Journal_, Tuesday 4th October 1836
@@ -50,16 +50,8 @@ Hibbert, Christopher (2000). _Queen Victoria: A Personal History._ HarperCollins
 [^ref7]:  Harrison, W.H. _The humourist, a companion for the Christmas fireside_, London: Ackermann, 1831, 191.
 [^ref8]: _The Letters of Queen Victoria : a selection from Her Majesty's correspondence between the years 1837 and 1861 : published by authority of His Majesty the king 1907_, 11.
 [^ref9]:  Hibbert, 2000.
-[^ref10]:
-[^ref11]:
-[^ref12]: Bell's New Weekly Messenger 1835
-[^ref13]: Victoria's Journal, Thursday 1st October 1835
-
-[^ref]: _Morning Post_ - Monday 12 July 1830
-[^ref]: _Sun_ (London) - Saturday 07 September 1833
-[^ref]: _Globe_ - Tuesday 03 November 1829; _London Packet and New Lloyd's Evening Post_ - Friday 06 November 1829; _New Times_ (London) - Monday 09 November 1829
-[^ref]: _The Sketch_ - Wednesday 21 September 1898
-[^ref]: Morning Chronicle - Friday 23 June 1837
-
-[^ref4]: _Dover Telegraph and Cinque Ports General Advertiser_ - Saturday 30 June 1838
-[^ref4]: Kentish Gazette - Tuesday 08 September 1835
+[^ref10]: _The Sketch_ - Wednesday 21 September 1898
+[^ref11]: _Globe_ - Tuesday 03 November 1829; _London Packet and New Lloyd's Evening Post_ - Friday 06 November 1829; _New Times_ (London) - Monday 09 November 1829
+[^ref12]: _Sun_ (London) - Saturday 07 September 1833
+[^ref13]: _Bell's New Weekly Messenger_, October 1835.
+[^ref14]: Victoria's Journal, Thursday 1st October 1835.
