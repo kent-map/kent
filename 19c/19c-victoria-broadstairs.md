@@ -28,7 +28,7 @@ On the 3 November 1829, Victoria and her mother left Broadstairs, after a three 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Gatehouse_to_Eastwell_Park_-_geograph.org.uk_-_68280.jpg" label="Gatehouse to Eastwell Park" attribution="Guy Erwood" license="CC BY-SA 2.0">
 
 Four years later, Princess Victoria's aunt, H.R.H. Princess Sophia Matilda of Gloucester rented Pierremont house for the summer. At this period, it was owned by a Scottish gentleman called Edward Fletcher, but by his death in 1846, the house was auctioned off and parts of the estate sold to build new housing.  Princess Sophia rented it again in 1835 and 1838, after the coronation of her niece.[^ref13]
-<param ve-image url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" label="Broadstairs">
+<param ve-image url="https://stor.artstor.org/stor/077213e1-ee34-4966-a7eb-64fb7cf89d8d" label="Map of Broadstairs, 1824" attribution="by kind permission of Broadstairs Dickens Museum">
 
 In 1835, the Duchess of Kent took Princess Victoria to Ramsgate for the season, and the fashionable members of society followed them. _Bell's New Weekly Messenger_ mocked the disappointed Broad-starers who stared at all newcomers "to little or no purpose" and advised them to be "content, for they have the Princess Sophia of Gloucester among them, and the Earls Aylesford and Dartmouth, and several other Midland Lords and Ladies who, wherever they are, always make point of existing unmixed with baser matter."[^ref14] This was a stinging remark aimed at Broadstairs, but more specifically at Princess Sophia whose mother's illegitimacy had created difficulties for her in early life.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/HRH_Princess_Sophia_-_Andrew_Robertson_-_ABDAG008244.jpg" label="Princess Sophia of Gloucester" attribution="Andrew Robertson, Aberdeen Art Gallery, Public domain, via Wikimedia Common">
@@ -52,7 +52,7 @@ Hibbert, Christopher (2000). _Queen Victoria: A Personal History._ HarperCollins
 [^ref6]: _Sun_ (London) - Wednesday 19 August 1829
 [^ref7]: _Sun_ (London) - Wednesday 19 August 1829
 [^ref8]:  Harrison, W.H. _The humourist, a companion for the Christmas fireside_, London: Ackermann, 1831, 191.
-[^ref89]: _The Letters of Queen Victoria : a selection from Her Majesty's correspondence between the years 1837 and 1861 : published by authority of His Majesty the king 1907_, 11.
+[^ref9]: _The Letters of Queen Victoria : a selection from Her Majesty's correspondence between the years 1837 and 1861 : published by authority of His Majesty the king 1907_, 11.
 [^ref10]:  Hibbert, 2000.
 [^ref11]: _The Sketch_ - Wednesday 21 September 1898
 [^ref12]: _Globe_ - Tuesday 03 November 1829; _London Packet and New Lloyd's Evening Post_ - Friday 06 November 1829; _New Times_ (London) - Monday 09 November 1829
