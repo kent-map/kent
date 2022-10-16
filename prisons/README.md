@@ -15,6 +15,15 @@
 The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
 
 ##
+**[Contagious Diseases Acts](/19c/19c-contagious-diseases)**
+
+- author: Dr Martin Watts
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/A_drunken_man_surrounded_by_women_in_a_dingy_alehouse._Litho_Wellcome_V0019393.jpg")
+
+Following public concern over an increase in prostitution and venereal disease, reflecting the rapid rise in population, urban living and increased mobility, Parliament passed the Contagious Diseases Act in 1864
+
+##
 **[Convicts in Kent](/19c/19c-convicts-overview)**
 
 - author: Dr Ben Bethell
