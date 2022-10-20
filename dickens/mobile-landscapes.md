@@ -164,7 +164,7 @@ The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectat
 
 **Great Expectations Part 2. Rochester**     
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday.    
-So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).  
+So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).
 <br><br>
 Whenever he leaves the forge Pip is confronted with a choice between the [marshy expanse](/landscape/kentish-landscapes) of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the Blue Boar on his visits from London, rather than stay with Joe at the forge. 
 <param ve-image url="https://stor.artstor.org/stor/71d79942-8b89-4986-93c1-26ac1891d108" title="Bull Hotel" fit="cover" attribution="Benjamin Mortley">
