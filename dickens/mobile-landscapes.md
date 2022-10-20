@@ -13,7 +13,6 @@
 <param title="Cooling" eid="Q2649453">
 <param title="Gravesend" eid="Q676689">
 <param title="Cobham" eid="Q949561">
-<param title="Charles Dickens" eid="Q5686">
 <param title="Chalk" eid="Q5068781" aliases="the village|the town">
 <param ve-entity label="Cooling Marshes" geojson="/geojson/marshes.json" fill-opacity="0.4" article="/articles/Cooling_marshes.md" aliases="the marshes">
 <param ve-entity title="Dover Road" geojson="/geojson/david-copperfield-dover-road">
