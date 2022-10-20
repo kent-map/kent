@@ -54,7 +54,7 @@ Enter the literary tour guide – portable, readable and the inspiration for thi
 
 Much like authors William Hughes and Frederic Kitton, who visited Kent around 1890 looking for Dickens Land, we began with considerable enthusiasm, vague expectations and a delicious sense that we could ramble around the countryside pretending to be fictional characters and legitimately call it work.   
 In this frame of mind it was inevitable that we should see Dickens everywhere. And it is only fitting that comestibles should have featured prominently – he invented ‘the fat boy’, we did not. What we had not foreseen was how these forays would transform not us alone, but the landscape itself. Landladies and local officials, unimpressed toddlers and workers on the roads – all were co-opted into our imaginative panorama, flickering across the scene at the oddest moments. ‘Like something from Dickens’ became a key marker of approbation for our more eccentric encounters.  And the places where these things befell us somehow became different, hyper real. No longer small country towns, but focused stage sets, where anything might happen. Leaving Rochester one autumn afternoon we finally got it.
-<br>
+<br><br>
  _Did the High Street look like this when we arrived this morning?_  
  _No, definitely different._  
  _Thought so. What have we done to it?_  
@@ -88,6 +88,7 @@ We had of course planned to have lunch at the Albion, but like Dickens when the 
 Our next adventure began in the [Canterbury Christ Church University library](https://www.canterbury.ac.uk/library/library-services.aspx), where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
 <br><br>
 At this point the narrative is interrupted while a brief debate ensues:   
+<br>
  _I have wasp spray. Show me the place._  
  _I’m not taking my trousers off._  
  _Don’t be so wet._  
@@ -140,10 +141,12 @@ This is the river down which Pip will row so desperately in his abortive attempt
 Pies. We’d been opting for them consistently since [Broadstairs](/dickens/broadstairs). ‘I’m sorry to say I’ve eat your’ - by now it would have felt like treachery to order anything else. This one came with chips or alternatively, was it salad? The juke box was new since Magwitch’s day, the paint job possibly not. But the landlady herself had so clearly stepped out of (whichever Dickens novel you like) and our need of wittles was by this point so intense, that we were by no means inclined to be critical.
 <br><br>
 It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were:   
+<br>
  _Hurrah, a fjord – I love fjords!_  
 <param ve-image url="https://stor.artstor.org/stor/bfce798e-18d9-4e1b-bd73-b375747cb320" label="Pies" attribution="Michelle Crowther">
 
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.   
+<br>
 _So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?_  
 _Never mind that, does either of us have a toothbrush?_  
 <br>
