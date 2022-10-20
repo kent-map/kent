@@ -16,6 +16,8 @@ The study at [Gad’s Hill](/dickens/dickens-gads-hill) still features a wall of
 Gad’s caught the imagination of writers from Dickens’s friend and biographer John Forster to controversial journalist and novelist [Eliza Lynn Linton](/19c/19c-lynn-linton-biography) (who was never asked to visit after selling the house to [Dickens](/dickens) in the first place). The American poet Henry Wadsworth Longfellow ‘traded amicable visits’[^ref1]  with Dickens; [Hans Christian Andersen](/19c/19c-christian-andersen) whose five week stay ‘seemed to the family AGES’,[^ref2]  described the countryside as ‘Danish scenery, but richer and more highly cultivated’.[^ref3]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Henry_Wadsworth_Longfellow%2C_photographed_by_Julia_Margaret_Cameron_in_1868.jpg" label="Henry Wadsworth Longfellow" attribution="Julia Margaret Cameron, Public domain, via Wikimedia Commons">
 
+The novelist and amateur actress Mary Boyle first met Dickens in 1849 and left a vivid account of her later visits to Gad's. Notably she recalled her sense of achievement when she kept up with him on a walk, a feat she describes as 'almost miraculous'.
+
 While he lived within a few miles of the famous author and successfully solicited his time as a public speaker, the opportunist poet and journalist [Henry Gardener Adams](/19c/19c-gardiner-adams-biography) seems not to have been invited to the house. But other minor writers such as H. F. Chorley and a number of the journalists known as ‘Dickens’s Young Men’, including Percy Fitzgerald and Edmund Yates, were asked for weekends. So of course was the faithful W. H. Wills (sub-editor of Household Words and subsequently private secretary to [Angela Burdett Coutts](/19c/19c-burdett-coutts-biography)). [G. A. Sala](/19c/19c-sala-biography) described the ‘military time’ of meals and the expectation that guests would spend designated hours at work – during one visit with [Wilkie Collins](/19c/19c-collins-biography) Sala apparently doodled with a spare set of proofs to avoid offending his host.[^ref4]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/65/George_Augustus_Sala_%28Waddy%2C_1872%29.jpg" label="George Augustus Sala" attribution="Frederick Waddy, Public domain, via Wikimedia Commons">
 
@@ -33,6 +35,7 @@ Gad would ultimately become a focus for literary pilgrims such as [Thomas Frost]
 
 Andersen, Hans Christian. [‘A Visit to Charles Dickens’](https://books.google.co.uk/books?id=0j88AQAAMAAJ&newbks=0&printsec=frontcover&pg=PA28&dq=VISIT+GADSHILL&hl=en&redir_esc=y#v=onepage&q=VISIT%20GADSHILL&f=false). _Temple Bar_ 31. March 1871. 27-46.    
 Booth, Alison. [‘Author Country: Longfellow, the Brontës, and Anglophone Homes and Haunts.’]( https://www.erudit.org/en/journals/ravon/1900-v1-n1-ravon1979/017438ar/) _Romanticism and Victorianism on the Net._48: November 2007.   
+Boyle, Mary L. [_Mary Boyle: Her Book_](https://www.gutenberg.org/files/63748/63748-h/63748-h.htm). London: John Murray, 1901.
 Collins, Philip. _Dickens: Interviews and Recollections. 2 vols_. Basingstoke: Palgrave, 1981.   
 Curry, George. ‘Charles Dickens and Annie Fields’. _Huntington Library Quarterly_. 51:1 (Winter 1988). 1-71.   
 Dolby, George. _Charles Dickens as I Knew Him_. Cambridge: Cambridge UP, 2012.   
