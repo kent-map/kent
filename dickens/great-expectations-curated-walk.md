@@ -31,10 +31,8 @@
 <param ve-map center="51.254291, 0.876473" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820">
-<param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860">
-<param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808">
-<param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
+<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Topo Survey 1860">
+<param ve-map-layer  allmaps allmaps-id="0d13de43a9570166" title="Kent 1820">
 
 #
 
