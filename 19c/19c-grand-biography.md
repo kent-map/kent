@@ -6,12 +6,12 @@
 
 #
 
-**Places:** Visit to Ramsgate in 1894. Lived in Tunbridge Wells 1898-1920   
+**Places:** Resident in Sandgate in the 1870s. Visit to Ramsgate in 1894. Lived in Tunbridge Wells 1898-1920   
 Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920. Here she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies and was involved with the Women’s Volunteer Reserve Force during WW1.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8a/The_Pantiles%2C_%28Royal%29_Tunbridge_Wells%2C_Kent%2C_England%2C_ca._1895.jpg" label="The Pantiles, (Royal) Tunbridge Wells, Kent, England, ca. 1895.jpg" attribution=" Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
 <param ve-map center="Q894097" zoom="10">
 
-Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation she was denied an education comparable to her brothers’, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1870 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in Sandgate: there was a lock hospital in nearby Shorncliffe, where the Contagious Diseases Act had come into force in 1868.
+Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation she was denied an education comparable to her brothers’, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1870 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in Sandgate: there was a lock hospital in nearby Shorncliffe, where the [Contagious Diseases Act](/19c/19c-contagious-diseases) had come into force in 1868.
 <param ve-map center="Q190684" zoom="10">
 <param ve-image url="https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg" label="Sarah Grand's passport" attribution="Sarah Grand's passport © International Centre for Victorian Women Writers">
 
