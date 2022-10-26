@@ -60,7 +60,7 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/eb/Battle_of_Britain_%28Paul_Nash%29.png)
 
-Nash was a formidable painter of ‘soil and sea’ who was inspired by the Dymchurch landscape.
+Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. Suffering post-traumatic stress disorder after World War One, Nash moved to Dymchurch where he recuperated whilst repeatedly painting seascapes in which the sea wall was a central motif.
 
 # Essays by period {.cards}
 
