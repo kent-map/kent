@@ -43,7 +43,7 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
 
-Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. 
+Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. Although, they may be aware of his Journal and Remarks, generally known as The Voyage of the Beagle (1839), in which a youthful Darwin recounted his five years travelling the world. 
 
 
 ## Alfred Cohen {href=20c/20c-cohen-biography}
