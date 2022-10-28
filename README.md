@@ -236,8 +236,7 @@ After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside
  
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
 
-Edith Nesbit lived in Kent during her childhood and then again in later life and her stories are inspired by the Kent countryside.
-
+English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. 
 
 ## Vita Sackville-West {href=20c/20c-sackville-west-biography}
 
