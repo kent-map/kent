@@ -227,7 +227,7 @@ One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3732a411-bdb3-4fe9-a464-1aeb2ac8d7ad)
 
-After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. 
+After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. It was there he wrote “The Fire Sermon,” part three of the hugely influential poem 'The Waste Land'. 
 
 
 ## Edith Nesbit {href=nesbit}
@@ -236,7 +236,7 @@ After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside
  
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
 
-English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. 
+English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. Several of her best-loved stories for children include descriptions of her childhood home.
 
 ## Vita Sackville-West {href=20c/20c-sackville-west-biography}
 
