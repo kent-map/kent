@@ -6,12 +6,12 @@
 
 #
 
-**Places:** Resident in Sandgate in the 1870s. Visit to Ramsgate in 1894. Lived in Tunbridge Wells 1898-1920   
+**Places:** Resident in Sandgate in the early 1870s. Visit to Ramsgate in 1894. Lived in Tunbridge Wells 1898-1920   
 Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920. Here she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies and was involved with the Women’s Volunteer Reserve Force during WW1.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8a/The_Pantiles%2C_%28Royal%29_Tunbridge_Wells%2C_Kent%2C_England%2C_ca._1895.jpg" label="The Pantiles, (Royal) Tunbridge Wells, Kent, England, ca. 1895.jpg" attribution=" Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
 <param ve-map center="Q894097" zoom="10">
 
-Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation she was denied an education comparable to her brothers’, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1870 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in Sandgate: there was a lock hospital in nearby Shorncliffe, where the [Contagious Diseases Act](/19c/19c-contagious-diseases) had come into force in 1868.
+Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation she was denied an education comparable to her brothers’, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1871 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in Sandgate: there was a lock hospital in nearby Shorncliffe, where the [Contagious Diseases Act](/19c/19c-contagious-diseases) had come into force in 1868.
 <param ve-map center="Q190684" zoom="10">
 <param ve-image url="https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg" label="Sarah Grand's passport" attribution="Sarah Grand's passport © International Centre for Victorian Women Writers">
 
@@ -32,11 +32,17 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She die
 ### Bibliography
 
 Hill, Berkeley. ['Statistical Results of the Contagious Diseases Act.'](https://www.jstor.org/stable/pdf/2338849.pdf?refreqid=excelsior%3Aed2e8c490a44370a22979ceafd395737&ab_segments=&origin=&acceptTC=1) _Journal of the Statistical Society of London_. 33:4. December f1870. 463-485.
+
 Kersley, Gillian. _Darling Madame : Sarah Grand and Devoted Friend._ London: Virago, 1983.
+
 'Low-Heeled Shoes And No Cosmetics'. [_Tunbridge Wells Advertiser_, 13 March 1915]. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054. 
+
 Orlando. 'Sarah Grand'. https://orlando.cambridge.org/index.php/people/98e3f429-aaa4-4010-b51b-e390bab56a09.
+
 ‘Ramsgate Congregational Institute, Broad Street. Session 1902-03.’ _Thanet Advertiser._ 18 October 1902. 4.   
-Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman._ Ohio: Ohio University Press, 2004.   
+
+Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman._ Ohio: Ohio University Press, 2004.
+
 [Sarah Grand Archive](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/icvww-research-projects-and-events/sarah-grand-collection.aspx). International Centre for Victorian Women Writers, Canterbury Christ Church University.  
 <param ve-image url="https://stor.artstor.org/stor/f37d719d-5638-49d9-973f-bcfc0995e197" label="Queen's Grove, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells">
 
