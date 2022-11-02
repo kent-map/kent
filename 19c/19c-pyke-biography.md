@@ -25,7 +25,7 @@ So, who was this energetic young man, Joseph Pyke? His grandfather, Moses Snoek,
 Joseph’s father, Louis (or Lewis) Eleazar, the eldest of five children, married Charlotte, one of the daughters of Dr Abraham Wolff, originally from Frankfurt. 
 Joseph, the sixth of eight children, was born on 3 March 1824 in Houndsditch. From the earliest age he eagerly engaged himself in communal work. His involvement was not unnoticed – and as a 21-year-old, he was appointed chairman of the committee to welcome the newly elected chief rabbi, Dr Nathan Marcus Adler.5 
 
-In 1849, Joseph, then 25, moved to Chatham to marry his cousin Sara Magnus, one of the daughters of Simon and Sara Magnus; the wedding took place on 16 January the next year.6 The Magnus family, like the Pykes, put great importance on learning, and Sara had attended Rebecca Norton’s school for girls at Eastgate House in Rochester. 
+In 1849, Joseph, then 25, moved to Chatham to marry his cousin Sara Magnus, one of the daughters of Simon and Sara Magnus; the wedding took place on 16 January the next year.6 The Magnus family, like the Pykes, put great importance on learning, and Sara had attended Rebecca Norton’s school for girls at [Eastgate House](/dickens/edwin-drood-eastgate-house) in Rochester. 
 
 The family stayed in the area until 1870, and eight out of their 13 children were born in Chatham and educated locally. Having moved to London, the Pykes retained the connection with the Medway Jewish community for generations as wardens and trustees of the synagogue.
 
