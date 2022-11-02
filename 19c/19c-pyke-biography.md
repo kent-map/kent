@@ -1,4 +1,10 @@
-Joseph Pyke
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Joseph Pyje (xx-xx)" author="Irina Fridman" layout="vtl" banner="images/Grammar_School_Gate_Rochester.jpg">
+
+<param ve-entity eid="Q729006" aliases="Chatham">
+<param ve-entity eid="Q507517" aliases="Rochester">
+
+#
 
 **A man who convinced Charles Dickens to start public readings and his descendants**
 <br>
