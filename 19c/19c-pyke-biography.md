@@ -38,7 +38,7 @@ Another grandson, Magnus Alfred Pyke, born in 1908, became an English nutritiona
 Fridman, I. (2020) Foreigners, Aliens, Citizens – Medway and its Jewish community, 1066-1939. Faversham: Birch Leaf
 
 ### References
-[^ref1]: 	Hobbes, R.G. (1895) _Reminiscences and Notes of Seventy Years’ Life, Trave and Adventure; Military and Civil; Scientific and Literary._ v2, London: Eliot Stock, p103.
+[^ref1]: 	Hobbes, R.G. (1895) _Reminiscences and Notes of Seventy Years’ Life, Travel and Adventure; Military and Civil; Scientific and Literary._ v2, London: Eliot Stock, p103.
 [^ref2]:  _Jewish Chronicle_ 18/7/1902
 [^ref3]: Ibid.
 [^ref4]: Ibid.
