@@ -1,12 +1,12 @@
-<param ve-config 
-       title="Prisons and Discipline"
-       banner="https://stor.artstor.org/stor/8b87d15d-5d86-4784-ab72-8dad919689c2"
-       layout="index">
+.ve-header "Prisons and Discipline" gh:https://stor.artstor.org/stor/8b87d15d-5d86-4784-ab72-8dad919689c2 sticky=true
+    - [Home](/)
+    - [About](/about)
 
-# {.cards}
+The Bloody Code, Contagious Diseases Acts, Lock Hospitals and Convict prisons.
 
-##
-**[Bloody Code](/18c/18c-bloody-code)**
+# &nbsp; {.cards}
+
+## Bloody Code {href=/18c/18c-bloody-code/}
 
 - author: Dr Martin Watts
 
@@ -14,8 +14,15 @@
 
 The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
 
-##
-**[Convicts in Kent](/19c/19c-convicts-overview)**
+## Contagious Diseases Acts {href=/19c/19c-contagious-diseases/}
+
+- author: Dr Martin Watts
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/A_drunken_man_surrounded_by_women_in_a_dingy_alehouse._Litho_Wellcome_V0019393.jpg")
+
+Following public concern over an increase in prostitution and venereal disease, reflecting the rapid rise in population, urban living and increased mobility, Parliament passed the Contagious Diseases Act in 1864
+
+## Convicts in Kent {href=/19c/19c-convicts-overview/}
 
 - author: Dr Ben Bethell
 
@@ -23,8 +30,7 @@ The Bloody Code applied death sentences to a growing number of crimes, while oth
 
 A part of Kent’s penal legacy is its role in the domestic convict system that replaced transportation.
 
-##
-**[Chatham Convict Prison](/19c/19c-convicts-chatham)**
+## Chatham Convict Prison {href=/19c/19c-convicts-chatham/}
 
 - author: Dr Ben Bethell
 
@@ -32,8 +38,7 @@ A part of Kent’s penal legacy is its role in the domestic convict system that 
 
 Chatham convict prison opened in 1856. It was a ‘public works’ prison, built to accommodate convicts who would hitherto have been sentenced to transportation.
 
-##
-**[Maidstone Convict Prison](/19c/19c-convicts-maidstone)**
+## Maidstone Convict Prison {href=/19c/19c-convicts-maidstone/}
 
 - author: Dr Ben Bethell
 

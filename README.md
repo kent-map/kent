@@ -43,7 +43,7 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
 
-Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. 
+Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. Although, they may be aware of his Journal and Remarks, generally known as The Voyage of the Beagle (1839), in which a youthful Darwin recounted his five years travelling the world. 
 
 
 ## Alfred Cohen {href=20c/20c-cohen-biography}
@@ -60,7 +60,7 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/eb/Battle_of_Britain_%28Paul_Nash%29.png)
 
-Nash was a formidable painter of ‘soil and sea’ who was inspired by the Dymchurch landscape.
+Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. Suffering post-traumatic stress disorder after World War One, Nash moved to Dymchurch where he recuperated whilst repeatedly painting seascapes in which the sea wall was a central motif.
 
 # Essays by period {.cards}
 
@@ -227,7 +227,7 @@ One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3732a411-bdb3-4fe9-a464-1aeb2ac8d7ad)
 
-After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. 
+After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. It was there he wrote “The Fire Sermon,” part three of the hugely influential poem 'The Waste Land'. 
 
 
 ## Edith Nesbit {href=nesbit}
@@ -236,8 +236,7 @@ After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside
  
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
 
-Edith Nesbit lived in Kent during her childhood and then again in later life and her stories are inspired by the Kent countryside.
-
+English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. Several of her best-loved stories for children include descriptions of her childhood home.
 
 ## Vita Sackville-West {href=20c/20c-sackville-west-biography}
 
@@ -283,7 +282,7 @@ Bithia Croker's novel is set on the Romney Marshes. Rosamund Balmaine finds love
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
 
-Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith.
+Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
 
 
 ## The Winter Diary of a Country Rat by Peter Firmin {href=20c/20c-firmin-winter-diary}

@@ -10,9 +10,12 @@
 
 #
 
-**Born** 7.2.1812.    
-**Married** Catherine Hogarth 1836.   
-**Died** 9 June 1870.   
+**Born** 7.2.1812.
+<br>
+**Married** Catherine Hogarth 1836.
+<br>
+**Died** 9 June 1870.
+<br>
 Childhood (Chatham), Honeymoon (Chalk), Holiday (Broadstairs, Folkestone), Public reading (Canterbury), Residence (Rochester).   
 _Pickwick Papers_, _David Copperfield_, _A Tale of Two Cities_, _Great Expectations_, ‘Our English Watering Place’, ‘Out of Town’.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/Charles_Dickens_by_Herbert_Watkins_29_April_1858_%28alternate%29.jpg" label="Charles Dickens, 29 April, 1858" attribution="Herbert Watkins (1828–1916), Public domain, via Wikimedia Commons">

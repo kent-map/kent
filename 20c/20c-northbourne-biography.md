@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Walter James, Fouth Lord Northbourne, ‘Inventor of Organic Farming’" author="Diana Hirst" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/5/51/Northbourne_Park_School%2C_Betteshanger_-_geograph.org.uk_-_2220542.jpg">
+<param ve-config title="Walter James, Fourth Lord Northbourne, ‘Inventor of Organic Farming’" author="Diana Hirst" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/5/51/Northbourne_Park_School%2C_Betteshanger_-_geograph.org.uk_-_2220542.jpg">
 
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q107344871" aliases="Betteshanger Estate">

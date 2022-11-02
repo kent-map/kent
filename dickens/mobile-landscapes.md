@@ -13,7 +13,6 @@
 <param title="Cooling" eid="Q2649453">
 <param title="Gravesend" eid="Q676689">
 <param title="Cobham" eid="Q949561">
-<param title="Charles Dickens" eid="Q5686">
 <param title="Chalk" eid="Q5068781" aliases="the village|the town">
 <param ve-entity label="Cooling Marshes" geojson="/geojson/marshes.json" fill-opacity="0.4" article="/articles/Cooling_marshes.md" aliases="the marshes">
 <param ve-entity title="Dover Road" geojson="/geojson/david-copperfield-dover-road">
@@ -52,13 +51,14 @@ The study where parts of _David Copperfield_ were written. The view from the [Sw
 Enter the literary tour guide – portable, readable and the inspiration for this account of our own peregrinations. From the 1880s onwards guides to Dickens’s Kent provided helpful advice on where to go, how to get there, and what to feel on arrival. The more enterprising, such as Robert Allbut’s 1886 _Rambles in Dickens-Land_, even included helpful extracts from the novels so that the literary pilgrim could orient themselves on arrival. But 150 years after Dickens’s death, what is it like to revisit these places, tracking both the author and his characters where he has told us we will find them, to read the books in the places where they are set? And what does it mean to engage in this apparently naïve activity with someone else who is also old enough to know better?
 <param ve-image url="https://stor.artstor.org/stor/2cfcb41f-c781-4914-96e3-48310cb5c5c4" label="Rochester High Street" attribution="Benjamin Mortley">
 
-Much like authors William Hughes and Frederic Kitton, who visited Kent around 1890 looking for Dickens Land, we began with considerable enthusiasm, vague expectations and a delicious sense that we could ramble around the countryside pretending to be fictional characters and legitimately call it work.   
+Much like authors William Hughes and Frederic Kitton, who visited Kent around 1890 looking for Dickens Land, we began with considerable enthusiasm, vague expectations and a delicious sense that we could ramble around the countryside pretending to be fictional characters and legitimately call it work.
+<br><br>
 In this frame of mind it was inevitable that we should see Dickens everywhere. And it is only fitting that comestibles should have featured prominently – he invented ‘the fat boy’, we did not. What we had not foreseen was how these forays would transform not us alone, but the landscape itself. Landladies and local officials, unimpressed toddlers and workers on the roads – all were co-opted into our imaginative panorama, flickering across the scene at the oddest moments. ‘Like something from Dickens’ became a key marker of approbation for our more eccentric encounters.  And the places where these things befell us somehow became different, hyper real. No longer small country towns, but focused stage sets, where anything might happen. Leaving Rochester one autumn afternoon we finally got it.
-<br>
-> _Did the High Street look like this when we arrived this morning?_  
-> _No, definitely different._  
-> _Thought so. What have we done to it?_  
-> _Dickensed it of course._    
+<br><br>
+ _Did the High Street look like this when we arrived this morning?_  
+ _No, definitely different._  
+ _Thought so. What have we done to it?_  
+ _Dickensed it of course._    
 <br>
 What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 <param ve-image url="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" label="Benjamin High Street" attribution="Benjamin Mortley">
@@ -88,10 +88,11 @@ We had of course planned to have lunch at the Albion, but like Dickens when the 
 Our next adventure began in the [Canterbury Christ Church University library](https://www.canterbury.ac.uk/library/library-services.aspx), where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
 <br><br>
 At this point the narrative is interrupted while a brief debate ensues:   
-> _I have wasp spray. Show me the place._  
-> _I’m not taking my trousers off._  
-> _Don’t be so wet._  
-> _We’re in the middle of a library, for [unprintable epithet] sake._
+<br>
+ _I have wasp spray. Show me the place._  
+ _I’m not taking my trousers off._  
+ _Don’t be so wet._  
+ _We’re in the middle of a library, for [unprintable epithet] sake._
 <br><br>
 Spot which one of us went to boarding school as a child (bath nights Wednesday and Sunday, three at a time, one bar of soap. Since you ask). Silver resolves the issue by seizing the spray, then disappears for a few minutes and hobbles determinedly back.  Narrative resumes.
 <param ve-image url="https://stor.artstor.org/stor/6680eb0e-67fe-4e0a-bd39-f2ab91fdaa61" label="Augustine House Library" attribution="©Michelle Crowther">
@@ -140,12 +141,14 @@ This is the river down which Pip will row so desperately in his abortive attempt
 Pies. We’d been opting for them consistently since [Broadstairs](/dickens/broadstairs). ‘I’m sorry to say I’ve eat your’ - by now it would have felt like treachery to order anything else. This one came with chips or alternatively, was it salad? The juke box was new since Magwitch’s day, the paint job possibly not. But the landlady herself had so clearly stepped out of (whichever Dickens novel you like) and our need of wittles was by this point so intense, that we were by no means inclined to be critical.
 <br><br>
 It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were:   
-> _Hurrah, a fjord – I love fjords!_  
+<br>
+ _Hurrah, a fjord – I love fjords!_  
 <param ve-image url="https://stor.artstor.org/stor/bfce798e-18d9-4e1b-bd73-b375747cb320" label="Pies" attribution="Michelle Crowther">
 
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.   
-> _So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?_  
-> _Never mind that, does either of us have a toothbrush?_  
+<br>
+_So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?_  
+_Never mind that, does either of us have a toothbrush?_  
 <br>
 Nothing if not practical, that’s us.   
 <br>
@@ -160,7 +163,7 @@ The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectat
 
 **Great Expectations Part 2. Rochester**     
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday.    
-So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).  
+So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).
 <br><br>
 Whenever he leaves the forge Pip is confronted with a choice between the [marshy expanse](/landscape/kentish-landscapes) of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the Blue Boar on his visits from London, rather than stay with Joe at the forge. 
 <param ve-image url="https://stor.artstor.org/stor/71d79942-8b89-4986-93c1-26ac1891d108" title="Bull Hotel" fit="cover" attribution="Benjamin Mortley">
@@ -194,19 +197,20 @@ Gratifyingly we had a cool half hour in which to show that she didn’t scare _u
 Technically it still had a minute to run when we saw the traffic warden, but this was no time to take risks.   
 Revving.  
 <br>
-> _Has she seen us?_  
-> _Just put your foot down, that way, quick._  
-> _It’s a one way system, we’re not allowed to do this._  
-> _What do you think she’s going to do, chase us?_   
+_Has she seen us?_  
+_Just put your foot down, that way, quick._  
+_It’s a one way system, we’re not allowed to do this._  
+_What do you think she’s going to do, chase us?_   
 <br>
 And then we got lost again, but at least Estella wasn’t there to see it.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/87/With_Estella_after_all%2C_by_Marcus_Stone.jpg" label="With Estella after all" attribution="Marcus Stone, Public domain, via Wikimedia Commons">
 
 **Gad’s Hill: Journey’s End**    
 Honestly. Parents.   
-> _Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up._  
-> _Maybe there really is a secret tunnel in your bedroom cupboard._  
-> _If you work hard perhaps you will even live at [Gad’s Hill](/dickens/dickens-gads-hill) one day._  
+<br>
+_Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up._  
+_Maybe there really is a secret tunnel in your bedroom cupboard._  
+_If you work hard perhaps you will even live at [Gad’s Hill](/dickens/dickens-gads-hill) one day._  
 <br>
 If you really feel that your child is destined to become one of the country’s greatest writers, you might want to try the third of these. It worked for John Dickens, as his son Charles was the first to acknowledge. Anyone currently studying English GCSE at [Gad’s Hill](/dickens/dickens-gads-hill) School, you may also be interested to learn that Dickens left formal education by the age of 15. He’s probably on your syllabus now. Funny how life works out.
 <param ve-image url="images/Gadshill In Dickens Land.JPG" title="Gad's Hill In Dickens Land">
@@ -216,10 +220,10 @@ It was October half term when we found ourselves gazing over the very lawn where
 
 To repeat. It was half term. The school was very much closed. Memories of an unfortunate encounter with a geography teacher when late for an outreach meeting and spotted climbing a fence. But still.
 <br><br>
-> _You’re a head teacher. If we’re caught that will make it all right._  
-> _No it won’t. It will make it worse._  
-> _I could stand on your shoulders and get over the wall._  
-> _No you couldn’t._  
+_You’re a head teacher. If we’re caught that will make it all right._  
+_No it won’t. It will make it worse._  
+_I could stand on your shoulders and get over the wall._  
+_No you couldn’t._  
 <br><br>
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 <br><br>
