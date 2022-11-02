@@ -1,7 +1,7 @@
 Joseph Pyke
 
-A man who convinced Charles Dickens to start public readings and his descendants
-
+**A man who convinced Charles Dickens to start public readings and his descendants**
+<br>
 Chatham, ‘the wickedest place in the world’, according to Hobbes’s reminiscences, lacked no public houses frequented by soldiers and sailors. The very words, sailor and soldier, were identified with drunkenness and debauchery. Men had nowhere to go but to the canteen or a pub. Street arguments and midnight brawls were a frequent occurrence.1 The need for healthy recreation was evident. 
 
 The Mechanics Institute in Chatham, established in the early 1850s, aimed to furnish the aspiring tradesmen with a possibility of social advancement through its lectures. The foundation and the initial maintenance of the institute were secured by Joseph Pyke, then in his twenties, and a member of the Chatham Jewish community. As he recalled later, it was started from one morning visit of some ‘respectable men’ to his house on Chatham Hill. The men requested Pyke’s help in obtaining books for their Philosophical Institution, which they were circulating between themselves – free libraries and public education did not yet exist - and help with the running of the institution, as it was in financial trouble. Instead, Pyke suggested that the men paid off the debt they owed to the landowner and establish a Mechanics Institution, as was the up-and-coming trend nationally. The same morning, Pyke obtained the money to pay off the debt, of about £90. 
@@ -32,11 +32,11 @@ Another grandson, Magnus Alfred Pyke, born in 1908, became an English nutritiona
 Fridman, I. (2020) Foreigners, Aliens, Citizens – Medway and its Jewish community, 1066-1939. Faversham: Birch Leaf
 
 ### References
-1.	Hobbes, R.G. (1895) Reminiscences and Notes of Seventy Years’ Life, Trave and Adventure; Military and Civil; Scientific and Literary. v2, London: Eliot Stock, p103
-2.	Jewish Chronicle 18/7/1902
-3.	Ibid
-4.	Ibid
-5.	Ibid
-6.	The Times 17/1/1850
+[^ref1]: 	Hobbes, R.G. (1895) Reminiscences and Notes of Seventy Years’ Life, Trave and Adventure; Military and Civil; Scientific and Literary. v2, London: Eliot Stock, p103
+[^ref1]: 2.	Jewish Chronicle 18/7/1902
+[^ref1]: 3.	Ibid
+[^ref1]: 4.	Ibid
+[^ref1]: 5.	Ibid
+[^ref1]: 6.	The Times 17/1/1850
 
 
