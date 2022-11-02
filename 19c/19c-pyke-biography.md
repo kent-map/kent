@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Joseph Pyje (xx-xx)" author="Irina Fridman" layout="vtl" banner="images/Grammar_School_Gate_Rochester.jpg">
 
 <param ve-entity eid="Q729006" aliases="Chatham">
