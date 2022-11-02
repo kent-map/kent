@@ -8,7 +8,7 @@
 
 **A man who convinced Charles Dickens to start public readings and his descendants**
 <br><br>
-Chatham, ‘the wickedest place in the world’, according to Hobbes’s reminiscences, lacked no public houses frequented by soldiers and sailors. The very words, sailor and soldier, were identified with drunkenness and debauchery. Men had nowhere to go but to the canteen or a pub. Street arguments and midnight brawls were a frequent occurrence.1 The need for healthy recreation was evident. 
+Chatham, ‘the wickedest place in the world’, according to Hobbes’s reminiscences, lacked no public houses frequented by soldiers and sailors. The very words, sailor and soldier, were identified with drunkenness and debauchery. Men had nowhere to go but to the canteen or a pub. Street arguments and midnight brawls were a frequent occurrence.[^ref1] The need for healthy recreation was evident. 
 
 The Mechanics Institute in Chatham, established in the early 1850s, aimed to furnish the aspiring tradesmen with a possibility of social advancement through its lectures. The foundation and the initial maintenance of the institute were secured by Joseph Pyke, then in his twenties, and a member of the Chatham Jewish community. As he recalled later, it was started from one morning visit of some ‘respectable men’ to his house on Chatham Hill. The men requested Pyke’s help in obtaining books for their Philosophical Institution, which they were circulating between themselves – free libraries and public education did not yet exist - and help with the running of the institution, as it was in financial trouble. Instead, Pyke suggested that the men paid off the debt they owed to the landowner and establish a Mechanics Institution, as was the up-and-coming trend nationally. The same morning, Pyke obtained the money to pay off the debt, of about £90. 
 
@@ -16,14 +16,14 @@ He then bought the lease of a disused market-place and building, not far from th
 <br><br>
 He read A Christmas Carol. It was a huge success, scarcely a dry eye in the house when he pictured Tiny Tim on his father’s shoulder.2 It was Dickens’s first public reading.
 
-Soon after Dickens’s death in 1870, his friend John Forster published a first biography of him, but omitted the Chatham public reading. Pyke wrote to him, asking to rectify the issue. Forster sent a word by messenger, with the promise to do so in the next edition – an omission that still has not been remedied.3
+Soon after Dickens’s death in 1870, his friend John Forster published a first biography of him, but omitted the Chatham public reading. Pyke wrote to him, asking to rectify the issue. Forster sent a word by messenger, with the promise to do so in the next edition – an omission that still has not been remedied.[^ref3]
 
-Pyke was vice-president of the institute until March 1858. In reply to the testimonial upon his retirement from the office, Pyke replied that ‘he hoped to see the time when the young tradesman, instead of asking and begging political influence and patronage to obtain for him a government appointment, should by joining their institution, which was in union with the Society of Arts, and by studying, became capable of undergoing the usual examination, and obtaining the coveted appointment, if successful.’4 
+Pyke was vice-president of the institute until March 1858. In reply to the testimonial upon his retirement from the office, Pyke replied that ‘he hoped to see the time when the young tradesman, instead of asking and begging political influence and patronage to obtain for him a government appointment, should by joining their institution, which was in union with the Society of Arts, and by studying, became capable of undergoing the usual examination, and obtaining the coveted appointment, if successful.’[^ref4]
 
 So, who was this energetic young man, Joseph Pyke? His grandfather, Moses Snoek, was born in Amsterdam on 3 January 1724. In 1762 Moses moved to London in pursuit of a better life, and settled in Houndsditch, having translated his name Snoek to Pike. One of his sons altered the spelling to Pyke. 
 
 Joseph’s father, Louis (or Lewis) Eleazar, the eldest of five children, married Charlotte, one of the daughters of Dr Abraham Wolff, originally from Frankfurt. 
-Joseph, the sixth of eight children, was born on 3 March 1824 in Houndsditch. From the earliest age he eagerly engaged himself in communal work. His involvement was not unnoticed – and as a 21-year-old, he was appointed chairman of the committee to welcome the newly elected chief rabbi, Dr Nathan Marcus Adler.5 
+Joseph, the sixth of eight children, was born on 3 March 1824 in Houndsditch. From the earliest age he eagerly engaged himself in communal work. His involvement was not unnoticed – and as a 21-year-old, he was appointed chairman of the committee to welcome the newly elected chief rabbi, Dr Nathan Marcus Adler.[^ref5] 
 
 In 1849, Joseph, then 25, moved to Chatham to marry his cousin Sara Magnus, one of the daughters of Simon and Sara Magnus; the wedding took place on 16 January the next year.6 The Magnus family, like the Pykes, put great importance on learning, and Sara had attended Rebecca Norton’s school for girls at [Eastgate House](/dickens/edwin-drood-eastgate-house) in Rochester. 
 
@@ -38,11 +38,11 @@ Another grandson, Magnus Alfred Pyke, born in 1908, became an English nutritiona
 Fridman, I. (2020) Foreigners, Aliens, Citizens – Medway and its Jewish community, 1066-1939. Faversham: Birch Leaf
 
 ### References
-[^ref1]: 	Hobbes, R.G. (1895) Reminiscences and Notes of Seventy Years’ Life, Trave and Adventure; Military and Civil; Scientific and Literary. v2, London: Eliot Stock, p103
-[^ref1]: 2.	Jewish Chronicle 18/7/1902
-[^ref1]: 3.	Ibid
-[^ref1]: 4.	Ibid
-[^ref1]: 5.	Ibid
-[^ref1]: 6.	The Times 17/1/1850
+[^ref1]: 	Hobbes, R.G. (1895) _Reminiscences and Notes of Seventy Years’ Life, Trave and Adventure; Military and Civil; Scientific and Literary._ v2, London: Eliot Stock, p103.
+[^ref2]:  _Jewish Chronicle_ 18/7/1902
+[^ref3]: Ibid.
+[^ref4]: Ibid.
+[^ref5]: Ibid.
+[^ref6]: 	_The Times_ 17/1/1850
 
 
