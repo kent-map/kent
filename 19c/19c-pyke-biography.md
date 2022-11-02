@@ -14,7 +14,7 @@ The Mechanics Institute in Chatham, established in the early 1850s, aimed to fur
 
 He then bought the lease of a disused market-place and building, not far from the dockyard. After that, he secured a meeting with [Charles Dickens](/dickens/dickens-biography) at [Gad’s Hill](/dickens/dickens-gads-hill), intending to ask the author to become the president of the institution. According to Pyke’s recollections, ‘He was seated in his morning room… After the animated conversation about what can be done for the workers, in which he was most interested, I proposed to him he should become President of the Rochester and Chatham Mechanics’ Institution, and after much persuasion, he said “Well, Mr Pyke, I become president on one understanding, and that is that you are vice-president, and do all the work.” To this I willingly acceded. Then with characteristic courage I asked him if he could do anything for the opening day, and he said, “No, I don’t think I can.” I said, “Cannot you give us a reading from one of your famous books?” and to the best of my recollection, he said, “I do not think I am capable of doing what you ask.” After much pressing, and my telling him he could be sure to have a sympathetic audience, he said, ”Very well, I will try.” This he did gratuitously, which brought in a very large sum of money on the opening night.’ 
 <br><br>
-He read A Christmas Carol. It was a huge success, scarcely a dry eye in the house when he pictured Tiny Tim on his father’s shoulder.2 It was Dickens’s first public reading.
+He read A Christmas Carol. It was a huge success, scarcely a dry eye in the house when he pictured Tiny Tim on his father’s shoulder.[^ref2] It was Dickens’s first public reading.
 
 Soon after Dickens’s death in 1870, his friend John Forster published a first biography of him, but omitted the Chatham public reading. Pyke wrote to him, asking to rectify the issue. Forster sent a word by messenger, with the promise to do so in the next edition – an omission that still has not been remedied.[^ref3]
 
@@ -25,8 +25,8 @@ So, who was this energetic young man, Joseph Pyke? His grandfather, Moses Snoek,
 Joseph’s father, Louis (or Lewis) Eleazar, the eldest of five children, married Charlotte, one of the daughters of Dr Abraham Wolff, originally from Frankfurt. 
 Joseph, the sixth of eight children, was born on 3 March 1824 in Houndsditch. From the earliest age he eagerly engaged himself in communal work. His involvement was not unnoticed – and as a 21-year-old, he was appointed chairman of the committee to welcome the newly elected chief rabbi, Dr Nathan Marcus Adler.[^ref5] 
 
-In 1849, Joseph, then 25, moved to Chatham to marry his cousin Sara Magnus, one of the daughters of Simon and Sara Magnus; the wedding took place on 16 January the next year.6 The Magnus family, like the Pykes, put great importance on learning, and Sara had attended Rebecca Norton’s school for girls at [Eastgate House](/dickens/edwin-drood-eastgate-house) in Rochester. 
-
+In 1849, Joseph, then 25, moved to Chatham to marry his cousin Sara Magnus, one of the daughters of Simon and Sara Magnus; the wedding took place on 16 January the next year.[^ref6] The Magnus family, like the Pykes, put great importance on learning, and Sara had attended Rebecca Norton’s school for girls at [Eastgate House](/dickens/edwin-drood-eastgate-house) in Rochester. 
+<br><br>
 The family stayed in the area until 1870, and eight out of their 13 children were born in Chatham and educated locally. Having moved to London, the Pykes retained the connection with the Medway Jewish community for generations as wardens and trustees of the synagogue.
 
 Joseph and Sara’s grandson, Geoffrey Nathaniel Joseph Pyke, born in 1893, was an English journalist, educationalist and an inventor. As a journalist, he travelled to Germany at the break of the First World War under a false passport but was soon arrested and interned. He escaped and made his way back to England.
