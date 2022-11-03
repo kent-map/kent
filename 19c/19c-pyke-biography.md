@@ -1,7 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Joseph Pyke (1824-xx)" author="Irina Fridman" layout="vtl" banner="https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21">
 
-<param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q507517" aliases="Rochester">
 
 #
@@ -23,6 +22,7 @@ Soon after Dickens’s death in 1870, his friend John Forster published a biogra
 Pyke was vice-president of the institute until March 1858. In reply to the testimonial upon his retirement from the office, Pyke replied that ‘he hoped to see the time when the young tradesmen, instead of asking and begging political influence and patronage to obtain for him a government appointment, should by joining their institution, which was in union with the Society of Arts, and by studying, became capable of undergoing the usual examination, and obtaining the coveted appointment, if successful.’[^ref4]
 
 So, who was Joseph Pyke? Joseph was born on 3 March 1824 in Houndsditch, the sixth of eight children, of Louis (or Lewis) Eleazar, and Charlotte, one of the daughters of Dr Abraham Wolff, who was originally from Frankfurt.  His grandfather, Moses Snoek, was born in Amsterdam on 3 January 1724. In 1762 Moses moved to London in pursuit of a better life, and settled in Houndsditch, having translated his name Snoek to Pike. One of his sons altered the spelling to Pyke. From an early age Joseph eagerly engaged himself in communal work. His involvement was not unnoticed – and as a 21-year-old, he was appointed chairman of the committee to welcome the newly elected chief rabbi, Dr Nathan Marcus Adler.[^ref5] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Young_Nathan_Marcus_Adler.JPG" label="Young Nathan Marcus Adler" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
 In 1849, Joseph, then 25, moved to Chatham to marry his cousin Sara Magnus, one of the daughters of Simon and Sara Magnus; the wedding took place on 16 January the next year.[^ref6] The Magnus family, like the Pykes, put great importance on learning, and Sara had attended Rebecca Norton’s school for girls at [Eastgate House](/dickens/edwin-drood-eastgate-house) in Rochester. The family stayed in the area until 1870, and eight out of their 13 children were born in Chatham and educated locally. Having moved to London, the Pykes retained the connection with the Medway Jewish community for generations as wardens and trustees of the synagogue.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Charles_Dickens_and_Rochester_%281880%29_%2814767951952%29.jpg" label="Eastgate House, Charles Dickens and Rochester, 1880" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
