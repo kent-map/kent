@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Joseph Pyke (1824-xx)" author="Irina Fridman" layout="vtl" banner="images/Grammar_School_Gate_Rochester.jpg">
+<param ve-config title="Joseph Pyke (1824-xx)" author="Irina Fridman" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/8/8b/William_Miller_-_Chatham%2C_Kent_-_B1977.14.7019_-_Yale_Center_for_British_Art.jpg">
 
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q507517" aliases="Rochester">
