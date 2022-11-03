@@ -17,6 +17,7 @@ After that, Pyke secured a meeting with [Charles Dickens](/dickens/dickens-biogr
 <param ve-image url="https://stor.artstor.org/stor/12803b3b-5aae-457e-bfba-f36f5f17d146" label="Tiny Tim" attribution="Children's stories from Dickens retold by his granddaughters, 1893, Augustine House Library">
 
 Soon after Dickens’s death in 1870, his friend John Forster published a biography of him, but omitted the Chatham public reading. Pyke wrote asking him to rectify the omission. Forster sent a word by messenger, with the promise to do so in the next edition but failed to do so.[^ref3]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/01/The_English_Bodley_family_%281900%29_%2814781259085%29.jpg" label="Charles Dickens reading a story" attribution=" The English Bodley Family, Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
 Pyke was vice-president of the institute until March 1858. In reply to the testimonial upon his retirement from the office, Pyke replied that ‘he hoped to see the time when the young tradesmen, instead of asking and begging political influence and patronage to obtain for him a government appointment, should by joining their institution, which was in union with the Society of Arts, and by studying, became capable of undergoing the usual examination, and obtaining the coveted appointment, if successful.’[^ref4]
 
@@ -28,6 +29,7 @@ Joseph and Sara’s grandson, Geoffrey Nathaniel Joseph Pyke, born in 1893, was 
 He is particularly remembered for his unconventional proposals for weapons of war, such as pykrete – a frozen ice alloy, consisting of sawdust, wood pulp and ice, which he saw as prime candidate material for a supersized aircraft carrier for the British Royal Navy during the WW2 (project Habakkuk). 
 
 Another grandson, Magnus Alfred Pyke, born in 1908, became an English nutritional scientist, governmental scientific adviser, writer and presenter. He became particularly famous as a television personality in the 1970s and 1980s, promoting science to lay people.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Magnus_Pyke_DMarshall1987.jpg" label="Magnus Pyke. D. Marshall, 1987" attribution="dm4244, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 ### Bibliography
 Fridman, I. (2020) _Foreigners, Aliens, Citizens – Medway and its Jewish community, 1066-1939._ Faversham: Birch Leaf
