@@ -32,6 +32,8 @@ He is particularly remembered for his unconventional proposals for weapons of wa
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/49/Geoffrey_Pyke_signature.jpg" label="Geoffrey Pyke signature" attribution="Gaius Cornelius, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 Another grandson, Magnus Alfred Pyke, born in 1908, became an English nutritional scientist, governmental scientific adviser, writer and presenter. He became particularly famous as a television personality in the 1970s and 1980s, promoting science to lay people.
+<br><br>
+You can hear more about Medway and its Jewish Community [here](https://youtu.be/c6Xe78hFk9g).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Magnus_Pyke_DMarshall1987.jpg" label="Magnus Pyke. D. Marshall, 1987" attribution="dm4244, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 ### Bibliography
