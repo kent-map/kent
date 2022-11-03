@@ -1,14 +1,13 @@
-<param ve-config 
-       title="Mathematicians and Scientists"
-       banner="https://stor.artstor.org/stor/f0bec294-4bea-40c0-8161-a6c8c1f1cdde"
-       layout="index">
+.ve-header "Mathematicians and Scientists" gh:kent-map/images/science/minstermarsh sticky=true
+    - [Home](/)
+    - [About](/about)
 
 Botanists, chemists and naturalists abound in the beautiful garden of England.
 
-# {.cards}
+# &nbsp; {.cards}
 
-##
-**[Anna Atkins](/19c/19c-atkins-biography)**
+## Anna Atkins {href=/19c/19c-atkins-biography}
+
 
 - author: Trinity Barber and Michelle Crowther
 
@@ -16,17 +15,15 @@ Botanists, chemists and naturalists abound in the beautiful garden of England.
 
 Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of scientist John George Children (1777-1852).
 
-##
-**[John Boys](/18c/18c-boys-biography)**
+## John Boys {href=/18c/18c-boys-biography}
 
 - author: Diana Hirst
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
 
-John Boys, agriculturalist, was well known for his breed of South Down sheep.  
+John Boys, agriculturalist, was well known for his breed of South Down sheep.
 
-##
-[**Charles Darwin**](/19c/19c-darwin-biography)
+## Charles Darwin {href=/19c/19c-darwin-biography}
 
 - author: Peter Vujakovic
 
@@ -34,8 +31,7 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 
 Darwin wrote over a dozen science books and a handful of important monographs, many based on observations and experiments undertaken in his house and gardens in Kent.
 
-##
-**[Leonard and Thomas Digges](/16c/16c-digges-biography)**
+## Leonard and Thomas Digges {href=/16c/16c-digges-biography}
 
 - author: Arnav Sharma and Michelle Crowther
 
@@ -43,8 +39,7 @@ Darwin wrote over a dozen science books and a handful of important monographs, m
 
 Father and son who were learned mathematicians in Kent in the sixteenth century.
 
-##
-**[William Harvey](/17c/17c-william-harvey)**
+## William Harvey {href=/17c/17c-william-harvey}
 
 - author: Dominique Gracia and Arnav Sharma
 
@@ -52,8 +47,7 @@ Father and son who were learned mathematicians in Kent in the sixteenth century.
 
 Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
 
-##
-**[Walter James](/20c/20c-northbourne-biography)**
+## Walter James {href=/20c/20c-northbourne-biography}
 
 - author: Diana Hirst
 
@@ -61,8 +55,7 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 
 Inventor of organic farming
 
-##
-**[John Edensor Littlewood](/19c/19c-edensor-littlewood)**
+## John Edensor Littlewood {href=/19c/19c-edensor-littlewood}
 
 - author: Michelle Crowther
 
@@ -70,8 +63,7 @@ Inventor of organic farming
 
 Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations.
 
-##
-**[Robert Plot](/17c/17c-robert-plot)**
+## Robert Plot {href=/17c/17c-robert-plot}
 
 - author: Dominique Gracia and Hannah Jennison
 
@@ -79,8 +71,7 @@ Mathematician born in Rochester and known for his work on analysis, number theor
 
 Naturalist and chemist, Plot was born at Borden in Kent.
 
-##
-**[John Tradescant the Younger](/17c/17c-john-tradescant-younger)**
+## John Tradescant the Younger {href=/17c/17c-john-tradescant-younger}
 
 - author: Dominique Gracia and Hannah Jennison
 
@@ -88,8 +79,7 @@ Naturalist and chemist, Plot was born at Borden in Kent.
 
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
 
-##
-**[John Wallis](/17c/17c-wallis-biography)**
+## John Wallis {href=/17c/17c-wallis-biography}
 
 - author: Various
 

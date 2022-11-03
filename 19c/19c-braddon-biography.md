@@ -9,10 +9,10 @@
 
 #
 
-Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, [Mary Braddon]( https://maryelizabethbraddon.com/) is still best known for her 1862 sensation novel _Lady Audley’s Secret_ and only slightly less so for her unconventional domestic life as the unmarried partner of publisher John Maxwell. Having met in 1860, the couple were only able to marry in 1874 on the death of Maxwell’s insane first wife, making Braddon the legal stepmother of his five children. They also had six children together.
+Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, actress and author [Mary Braddon]( https://maryelizabethbraddon.com/) is still best known for her 1862 sensation novel _Lady Audley’s Secret_ and only slightly less so for her unconventional domestic life as the unmarried partner of publisher John Maxwell. Having met in 1860, the couple were only able to marry in 1874 on the death of Maxwell’s insane first wife, making Braddon the legal stepmother of his five children. They also had six children together.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Mary_Elizabeth_Maxwell_%28n%C3%A9e_Braddon%29_by_William_Powell_Frith.jpg" label="Mary Elizabeth Maxwell (née Braddon) by William Powell Frith.jpg" attribution="National Portrait Gallery, Public domain, via Wikimedia Commons">
 
-The family lived in Richmond, but in 1878 they were in [Broadstairs](/dickens/broadstairs-19th-century) ‘for a week or so with children who have been ill, & who are in need of strengthening breezes.’  Like the parents of [Emily Shore](/19c/19c-shore-biography) almost half a century earlier, Braddon was clearly persuaded of the benefits of sea air as a restorative for invalids.
+The 1863 novel _Aurora Floyd_ opens with a description of 'the rich darkness of the Kentish woods' where Archibald Floyd retires from his city banking career and offends the neighbouring gentry by marrying an actress. Braddon and her family lived in Richmond, but in 1878 they were in [Broadstairs](/dickens/broadstairs-19th-century) ‘for a week or so with children who have been ill, & who are in need of strengthening breezes.’  Like the parents of [Emily Shore](/19c/19c-shore-biography) almost half a century earlier, Braddon was clearly persuaded of the benefits of sea air as a restorative for invalids.
 <param ve-image url="/19c/images/braddon family.jpg" label="M.E. Braddon and family" attribution="©ICVWW "> 
 <param ve-map center="Q922739" zoom="15">
 
@@ -31,6 +31,7 @@ _Do you see the height of those cliffs, terrace above terrace, hill above hill? 
 ### Bibliography
 
 Braddon, M. E. [_All Along the River_ (1893)]( https://www.gutenberg.org/files/57405/57405-h/57405-h.htm).   
+--. _Aurora Floyd._ Oxford: World's Classics, 2008.
 --. _Barbara 1880_.   
 --. _Gerard, or, The World, The Flesh and The Devil_ (1891).   
 Cognard-Black, Jennifer and Elizabeth Macleod Walls, eds. _Kindred Hands: Letters on Writing by British and American Women Authors, 1865-1935_. Iowa: University of Iowa Press, 2006.   
