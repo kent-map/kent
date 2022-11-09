@@ -17,8 +17,6 @@
 <param title="Dover" eid="Q179224">
 <param title="Edward Murdstone" eid="Q5344551" aliases="Mr Murdstone" article="Mr_Murdstone">
 <param title="Greenwich" eid="Q179385">
-<param title="Kent" eid="Q23298">
-<param title="London" eid="Q84">
 <param title="Maidstone" eid="Q213180">
 <param title="Miss Larkins" article="Miss_Larkins">
 <param title="Magwitch" article="Magwitch">
@@ -58,13 +56,13 @@ After further delays as he hides from ‘any of these people’ coming towards h
 <param ve-image url="https://stor.artstor.org/stor/360206a8-3604-42df-806f-0059dbbf2b85" label="The Micawbers at Canterbury">
 
 On his arrival in [Dover](/dickens/dickens-dover) on the sixth day of his journey, David is immediately reminded of the obstacles that his unkempt condition has placed between himself and the sanctuary he is trying to attain. His appearance is not prepossessing and he struggles to be taken seriously by the townspeople:
+<br><br>
+'I inquired about my aunt among the boatmen first, and received various answers. One said she lived in the South Foreland Light, and had singed her whiskers by doing so; another, that she was made fast to the great buoy outside the harbour, and could only be visited at half-tide; a third, that she was locked up in Maidstone jail for child-stealing; a fourth, that she was seen to mount a broom in the last high wind, and make direct for Calais. The fly-drivers, among whom I inquired next, were equally jocose and equally disrespectful; and the shopkeepers, not liking my appearance, generally replied, without hearing what I had to say, that they had got nothing for me'.
 <param ve-map center="Q179224" zoom="11">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg" label="David reaches Canterbury" attribution="Artwork by Frank Reynolds (1876-1853), Public domain, via Wikimedia Commons">
-
-_I inquired about my aunt among the boatmen first, and received various answers. One said she lived in the South Foreland Light, and had singed her whiskers by doing so; another, that she was made fast to the great buoy outside the harbour, and could only be visited at half-tide; a third, that she was locked up in Maidstone jail for child-stealing; a fourth, that she was seen to mount a broom in the last high wind, and make direct for Calais. The fly-drivers, among whom I inquired next, were equally jocose and equally disrespectful; and the shopkeepers, not liking my appearance, generally replied, without hearing what I had to say, that they had got nothing for me._
  
 Symbolically David is sitting on the doorstep of an empty shop at the corner of the marketplace when a fly driver finally takes pity on him and directs him to ‘the heights’ where his aunt lives. It is the driver’s charitable offering of a penny that allows David to make his last meal of a loaf of bread[^ref1].
- 
+<br><br> 
 Even when he finally finds the cottage his aunt’s servant, assuming that he is a vagrant, is half inclined to send him away unannounced. But when the Murdstones are once again invited into what he hopes will become ‘home’, it is only to be summarily dismissed in a symbolic re-enactment of what they once did to the child[^ref2]. 
 
 At this point David is assimilated into the Kent landscape, moving between [Dover](/dickens/dickens-dover) and [Canterbury,](/dickens/david-copperfield-canterbury) where he is put to school with Dr Strong and develops romantic attachments to a succession of young woman like the eldest Miss Larkins.
