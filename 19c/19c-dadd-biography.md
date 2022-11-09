@@ -6,10 +6,16 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q507517" aliases="Rochester">
 
+<param ve-map center="Q729006" zoom="12">
+
+<!-- Historical map layers --> 
+<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860" />
+
 #
 
 Born on 1 August 1817 in Chatham, Richard Dadd was one of chemist and druggist Robert Dadd’s seven children and would become one of the most famous inmates of Bethlem Hospital for the insane. During his time at King’s School in Rochester, Dadd showed a notable talent for art, which would prove an essential coping mechanism for him in the future. His early work was surrealist in style, including his famous paintings of fairies and the supernatural. At the age of 20, Dadd moved to London, where he attended the Royal Academy of Art. It was due to his meticulous attention to detail that explorer Sir Thomas Phillips sought Dadd’s companionship on a tour of Europe, Asia and Egypt in 1842-43. In the early years of photography, his brief was to create an accurate visual record of the trip. 
 <param ve-image url="https://stor.artstor.org/stor/711b2c87-7604-4f8d-a6e6-fd3f9463aecf" label="Richard Dadd at his easel, 1850s" attribution="In copyright. By permission of Bethlem Museum of the Mind">
+<param ve-map center="Q729006" zoom="12">
 
 It was during this trip that he first displayed symptoms of mania, initially misinterpreted as sunstroke. He apparently recovered, but by the summer of 1843 he was exhibiting dangerous signs of madness. Convinced that he was ‘haunted by fiends’,[^ref1]  he told his father that he wanted to ‘unburden his mind’[^ref2]  to him in Cobham, near Rochester. His brother Stephen later recalled in horror that ‘My poor father in his affection for him allowed his prudence to be overruled and accompanied him alone, and thus has fallen a victim to his affection.’[^ref3]  Richard Dadd had become paranoid that his father was the devil incarnate.
 <param ve-image url="https://stor.artstor.org/stor/dc892f31-c494-463b-ae95-942bf382344a" label="Cobham Hall, near Rochester">
