@@ -11,13 +11,11 @@
 <param title="Bleak House" eid="Q4925737">
 <param title="Broadstairs" eid="Q922739">
 <param title="Canterbury" eid="Q29303">
-<param title="Charles Dickens" eid="Q5686">
 <param title="Chatham" eid="Q729006">
 <param title="David Copperfield" eid="Q189811">
 <param title="David Copperfield" eid="Q5232561" aliases="David" article="David">
 <param title="Dover" eid="Q179224">
 <param title="Edward Murdstone" eid="Q5344551" aliases="Mr Murdstone" article="Mr_Murdstone">
-<param title="Great Expectations" eid="Q219552">
 <param title="Greenwich" eid="Q179385">
 <param title="Kent" eid="Q23298">
 <param title="London" eid="Q84">
@@ -78,7 +76,7 @@ As a young man David will return triumphantly to London, where he duly engages i
 
 Towards the end of the novel the Micawbers will anticipate Pip’s journey downriver to [Gravesend](/19c/19c-gravesend). The night before Mr Micawber is inevitably arrested for debt and has to be baled out by David. But unlike Magwitch he is able to leave openly on the steamer from Hungerford Steps on his way to make his fortune in Australia. 
 
-Only once, in a desperate bid to avoid a tête á tête with Uriah, does David strike out in a new direction on the [Ramsgate](/19c/19c-ramsgate) road. His failure to reference Thanet seems peculiar given its accessibility from [Canterbury](/dickens/david-copperfield-canterbury) and Dickens’s own love of the sea – indeed parts of the novel were written in [Fort House](dickens-fort-house) in [Broadstairs](/dickens/broadstairs). But beyond the pages of the novel itself David is keeping another secret – while his donkey-loathing aunt ostensibly lives in [Dover](/dickens/dickens-dover), the inspiration for her cottage is to be found in [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place) (now the [Dickens House Museum](https://www.visitkent.co.uk/attractions/dickens-house-museum-1999/)) in 
+Only once, in a desperate bid to avoid a tête á tête with Uriah, does David strike out in a new direction on the [Ramsgate](/19c/19c-ramsgate) road. His failure to reference Thanet seems peculiar given its accessibility from [Canterbury](/dickens/david-copperfield-canterbury) and [Dickens](/dickens/dickens-biography)’s own love of the sea – indeed parts of the novel were written in [Fort House](dickens-fort-house) in [Broadstairs](/dickens/broadstairs). But beyond the pages of the novel itself David is keeping another secret – while his donkey-loathing aunt ostensibly lives in [Dover](/dickens/dickens-dover), the inspiration for her cottage is to be found in [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place) (now the [Dickens House Museum](https://www.visitkent.co.uk/attractions/dickens-house-museum-1999/)) in 
 [Broadstairs](/dickens/broadstairs). If David ultimately succeeds in working out where home is, this is not a secret he is prepared to share with the reader.
 
 ### References
