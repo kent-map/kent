@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)
 
+On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars.
+
 # &nbsp; {.cards}
 
 #
