@@ -255,7 +255,7 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c5a69374-84aa-4934-a9d4-4469d7e40ace)
 
-It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition…
+It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition who come in search of a venue for an “open-air freakout,” and find a beach with white cliffs. 
 
 
 ## In Margate by Lunchtime by Maggie Harris {href=21c/21c-margate-lunchtime}
