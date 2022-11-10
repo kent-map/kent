@@ -75,14 +75,14 @@ The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum), The murder of 
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/16c.jpg)
 
-Establishment of Chatham Dockyard. Battle against the Spanish Armada. Industry includes textiles and iron production.
+Chatham Dockyard was established, the Battle against the Spanish Armada took place. Industry in the county included textiles, leather-making and iron production. Prophesizing and playwriting.
 
 
 ## 17th century {href=17c}
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/17c.jpg)
 
-Industry includes production of malt for brewing. Civil Wars.
+Industry includes production of malt for brewing. Fighting takes place as part of the English Civil War. Scientific discoveries in mathematics, chemistry and anatomy.
 
 
 ## 18th century {href=18c}
@@ -96,7 +96,7 @@ Strategic position of the Medway in relation to European wars. New sea water ‘
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/19c.jpg)
 
-Arrival of the railway. Development of recognisably modern tourist industry.
+Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops. 
 
 ## 20th century {href=20c}
 
