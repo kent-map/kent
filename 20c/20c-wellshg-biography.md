@@ -9,7 +9,7 @@ banner="/images/banners/20c.jpg">
 
 **Publications of Interest:** _The Sea Lady_ (1902), _Kipps_ (1905) and _The History of Mr. Polly_ (1910)   
 <br>
-“This bus it was, this ruddy, venerable and immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” _Kipps_
+“This bus it was, this ruddy, venerable and, under God's mercy, immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow.” _Kipps_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg" label="H.G. Wells" attribution="Library of the London School of Economics and Political Science, No restrictions, via Wikimedia Commons">
 
 When Wells’ doctor Henry Hick suggested he move to the South-East coast of England a new chapter in his literary life began. Wells and his wife Jane stayed at The Swan in Hythe and The Homestead in [Sandgate](/placesqz/sandgate-overview) for a short period before renting Beach Cottage on the coast of Sandgate. In March 1899 Wells and Jane moved to Arnold House (also on the Sandgate coast), whilst their new home was being built. Both Beach Cottage (now known as Granville Cottage) and Arnold House (now known as 20 Castle Road) have plaques to commemorate Wells. Wells and Jane moved into the completed Spade House (now Wells House Nursing Home) in December 1900. 
