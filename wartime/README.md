@@ -8,7 +8,7 @@ On the frontline of England's defence, Kent played a pivitol role in both the Fi
 
 #
 
-## Belgian Refugees {href=/20c/20c-belgian-refugees}
+## Belgian Refugees {href=/20c/20c-belgian-refugees/}
 
 - author: Maddie Pettit
 
@@ -32,7 +32,7 @@ The outbreak of war in August 1914 led to a transformation of this genteel resor
 
 Built in secret, the old Roman port of Richborough, was chosen for redevelopment during the first world war to supply the army for its 'last stand'.
 
-## Battle of Britain Memorial {href=/20c/20c-battle-of-britain-memorial}
+## Battle of Britain Memorial {href=/20c/20c-battle-of-britain-memorial/}
 
 - author: Amy Green
 
