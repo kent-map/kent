@@ -160,7 +160,7 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/af58512e-cbf4-4f26-8776-3560de893011)
 
-Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth.
+Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth, Kent is known as the ‘Garden of England’ due its rich agricultural history.
 
 
 ## Artists and Illustrators {href=artists}
