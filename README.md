@@ -52,7 +52,7 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
-It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
+It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. He and his second wife Diana lived in Goudhurst, Benenden and Iden Green over a fifteen-year period, and took inspiration from the Kent countryside.
 
 ## Paul Nash {href=20c/20c-nash-biography}
 
