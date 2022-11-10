@@ -269,7 +269,7 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 
 ## Miss Balmaine's Past by Bithia Croker {href=19c/19c-croker-missbalmaine}
 
-- author: Michelle Crowther
+author: Michelle Crowther
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg)
 
@@ -278,7 +278,7 @@ Bithia Croker's novel is set on the Romney Marshes. Rosamund Balmaine finds love
 
 ## Shepherds in Sackcloth {href=20c/20c-kaye-smith-delmonden}
 
-- Author: Pat Agar
+Author: Pat Agar
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
 
@@ -287,7 +287,7 @@ Delmonden is a village in Kent that doesn’t actually exist except in Shepherds
 
 ## The Winter Diary of a Country Rat by Peter Firmin {href=20c/20c-firmin-winter-diary}
 
-- Author: Dr Simon Wilson
+Author: Dr Simon Wilson
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b)
 
