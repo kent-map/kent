@@ -227,7 +227,7 @@ One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3732a411-bdb3-4fe9-a464-1aeb2ac8d7ad)
 
-After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. It was there he wrote “The Fire Sermon,” part three of the hugely influential poem 'The Waste Land'. 
+After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. It was there he wrote “The Fire Sermon,” part three of the hugely influential poem 'The Waste Land'. He wrote to Sydney Schiff from the Albemarle Hotel, Cliftonville: “I have done a rough draft .. but I do not know whether it will do.”
 
 
 ## Edith Nesbit {href=nesbit}
