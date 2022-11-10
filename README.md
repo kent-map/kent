@@ -16,7 +16,7 @@ This site provides a set of themed essays about Kent, a county in South East Eng
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/mobile-landscapes.jpg)
 
-You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie.
+You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted.
 
 
 ## H.G.Wells {href=20c/20c-wellshg-biography}
