@@ -264,7 +264,7 @@ It was 1969, and in the fictional coastal North Kent town of Brindown, things wo
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/eliot5.JPG)
 
-There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist. ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’
+There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist. ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’ Gary did a quick shufti round to see if it was him she was hailing.
 
 
 ## Miss Balmaine's Past by Bithia Croker {href=19c/19c-croker-missbalmaine}
@@ -273,7 +273,7 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg)
 
-Bithia Croker's novel is set on the Romney Marshes. Rosamund Balmaine finds love when Ronald Gordon arrives to survey the area for a new railway.
+Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Horton'. Rosamund Balmaine finds love when Ronald Gordon arrives to survey the area for a new railway. However, conniving relatives conspire to keep the couple apart.
 
 
 ## Shepherds in Sackcloth {href=20c/20c-kaye-smith-delmonden}
@@ -291,7 +291,7 @@ Delmonden is a village in Kent that doesn’t actually exist except in Shepherds
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b)
 
-The adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
+The enchanting story of the adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
 
 .ve-footer
     - A collaboration between: ![CCCU](https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/CCCU-logo-2colour.svg) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/kent/main/images/labs.jpg)](https://labs.jstor.org)
