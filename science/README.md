@@ -8,7 +8,6 @@ Botanists, chemists and naturalists abound in the beautiful garden of England.
 
 ## Anna Atkins {href=/19c/19c-atkins-biography}
 
-
 - author: Trinity Barber and Michelle Crowther
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
