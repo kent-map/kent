@@ -12,16 +12,12 @@ This site provides a set of themed essays about Kent, a county in South East Eng
 
 ## Mobile Landscapes - Finding Kent Dickensian {href=/dickens/mobile-landscapes}
 
-- Author: Ken Moffat and Carolyn W. de la L. Oulton
-
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/mobile-landscapes.jpg)
 
 You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted.
 
 
 ## H.G.Wells {href=20c/20c-wellshg-biography}
-
-- Author: Simone Blandford
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3615ba37-88b4-4c75-95b0-6710b43d7c73)
 
@@ -30,16 +26,12 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 ## Derek Jarman {href=20c/20c-jarman-biography}
 
-- Author: Jeremy Page
-
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Jarman1.jpg)
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
 
 
 ## Charles Darwin {href=19c/19c-darwin-biography}
-
-- Author: Peter Vujakovic
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
 
@@ -48,15 +40,11 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 ## Alfred Cohen {href=20c/20c-cohen-biography}
 
-- Author: Max Saunders
-
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. He and his second wife Diana lived in Goudhurst, Benenden and Iden Green over a fifteen-year period, and took inspiration from the Kent countryside.
 
 ## Paul Nash {href=20c/20c-nash-biography}
-
-- Author: Phil Hubbard
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/eb/Battle_of_Britain_%28Paul_Nash%29.png)
 
@@ -199,16 +187,12 @@ An exploration of Kent's penal system including the Bloody Code, convicts, trans
 
 ## Jane Austen {href=austen}
 
-- Author: Susan Civale
-
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
 
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
 
 
 ## Joseph Conrad {href=19c/19c-conrad-biography}
-
-- Author: Martin Watts
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f117483d-65cb-464e-828a-486c8a83ac53)
 
@@ -223,8 +207,6 @@ One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816
 
 ## T.S. Eliot {href=20c/20c-eliot-biography}
 
-- Author: Simone Blandford
-
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3732a411-bdb3-4fe9-a464-1aeb2ac8d7ad)
 
 After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. It was there he wrote “The Fire Sermon,” part three of the hugely influential poem 'The Waste Land'. He wrote to Sydney Schiff from the Albemarle Hotel, Cliftonville: “I have done a rough draft .. but I do not know whether it will do.”
@@ -232,15 +214,11 @@ After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside
 
 ## Edith Nesbit {href=nesbit}
 
-- Author: Eleanor Fitzsimons
- 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
 
 English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. Several of her best-loved stories for children include descriptions of her childhood home.
 
 ## Vita Sackville-West {href=20c/20c-sackville-west-biography}
-
-- Author: Clare Nursey
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
 
@@ -251,16 +229,12 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 ## Double Double by John Brunner {href=20c/20c-double-double}
 
-- Author: Michael Goodrum
-
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c5a69374-84aa-4934-a9d4-4469d7e40ace)
 
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition who come in search of a venue for an “open-air freakout,” and find a beach with white cliffs. 
 
 
 ## In Margate by Lunchtime by Maggie Harris {href=21c/21c-margate-lunchtime}
-
-- Author: Maggie Harris
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/eliot5.JPG)
 
@@ -269,8 +243,6 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 
 ## Miss Balmaine's Past by Bithia Croker {href=19c/19c-croker-missbalmaine}
 
-- Author: Michelle Crowther
-
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg)
 
 Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Horton'. Rosamund Balmaine finds love when Ronald Gordon arrives to survey the area for a new railway. However, conniving relatives conspire to keep the couple apart.
@@ -278,16 +250,12 @@ Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Hor
 
 ## Shepherds in Sackcloth {href=20c/20c-kaye-smith-delmonden}
 
-- Author: Pat Agar
-
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
 
 Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
 
 
 ## The Winter Diary of a Country Rat by Peter Firmin {href=20c/20c-firmin-winter-diary}
-
-- Author: Dr Simon Wilson
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b)
 
