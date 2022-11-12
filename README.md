@@ -1,269 +1,113 @@
-.ve-meta title="Kent Maps Online" description="This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists."
+.ve-header "Bedroom in Arles" wc:Vincent_van_Gogh_-_Vincent's_Bedroom_in_Arles_-_Letter_Sketch_October_1888.jpg sticky
 
-.ve-header "Kent Maps Online" gh:kent-map/images/Kent_Maps.jpg sticky contact=carolyn.oulton@canterbury.ac.uk search-domain=kent-maps.online
-    - [Home](/)
-    - [About](/about)
-    - Contact Us
-    - [Duke of Edinburgh award site](https://dofe.kent-maps.online)
+# Bedroom in Arles
 
-This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists.
+***Bedroom in Arles*** is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter Vincent van Gogh.
 
-# Featured essays {.cards}
+Van Gogh's own title for this composition was simply ***The Bedroom***. There are three authentic versions described in his letters, easily distinguishable from one another by the pictures on the wall to the right.
 
-## Mobile Landscapes - Finding Kent Dickensian {href=/dickens/mobile-landscapes}
+.ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg full width=75%
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/mobile-landscapes.jpg)
+The painting depicts van Gogh's bedroom at 2, Place Lamartine in Arles, Bouches-du-Rhône, France, known as the Yellow House. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right.[^1]
 
-You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted.
+The house was the right wing of 2 Place Lamartine, Arles, France, where, on May 1, 1888, van Gogh rented four rooms. He occupied two large ones on the ground floor to serve as an atelier (workshop) and kitchen, and on the first floor, two smaller ones facing Place Lamartine. The window on the first floor nearest the corner with both shutters open is that of van Gogh's guest room, where Paul Gauguin lived for nine weeks from late October 1888. Behind the next window, with shutters nearly closed, is van Gogh's bedroom. The two small rooms at the rear were rented by van Gogh at a later time.
 
+Van Gogh indicated that the restaurant where he used to have his meals was in the building painted pink, close to the left edge of the painting (28 Place Lamartine). It was run by Widow Venissac, who was also van Gogh's landlady, and who owned several of the other buildings depicted. To the right of the Yellow House, the Avenue Montmajour runs down to the two railway bridges. The first line (with a train just passing) served the local connection to Lunel, which is on the opposite (that is, right) bank of river Rhône. The other line was owned by the P.-L.-M. Railway Company (Paris Lyon Méditerranée). In the left foreground is an indication of the corner of the pedestrian walk which surrounded one of the public gardens on Place Lamartine. The ditch running up Avenue Montmajour from the left towards the bridges served the gas pipe, which allowed van Gogh a little later to have gaslight installed in his atelier.
 
-## H.G.Wells {href=20c/20c-wellshg-biography}
+The building was severely damaged in a bombing raid by the Allies on June 25, 1944, and was later demolished.
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3615ba37-88b4-4c75-95b0-6710b43d7c73)
+## First Version
 
-“This bus it was, this ruddy, venerable and, under God's mercy, immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow. You figure him there.” Kipps.
+### {.right style=width:50%}
 
+.ve-image wc:Vincent_van_Gogh_-_Vincent's_Bedroom_-_Lettersketch_17_October_1888.jpg
+.ve-image wc:Vincent_van_Gogh_-_Vincent's_Bedroom_in_Arles_-_Letter_Sketch_October_1888.jpg
 
-## Derek Jarman {href=20c/20c-jarman-biography}
+### {style=clear:unset}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Jarman1.jpg)
+Van Gogh started the first version during mid October 1888 while staying in Arles, and explained his aims and means to his brother Theo:
 
-It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
+>_"This time it simply reproduces my bedroom; but colour must be abundant in this part, its simplification adding a rank of grandee to the style applied to the objects, getting to suggest a certain rest or dream. Well, I have thought that on watching the composition we stop thinking and imagining. I have painted the walls pale violet. The ground with checked material. The wooden bed and the chairs, yellow like fresh butter; the sheet and the pillows, lemon light green. The bedspread, scarlet coloured. The window, green. The washbasin, orangey; the tank, blue. The doors, lilac. And, that is all. There is not anything else in this room with closed shutters. The square pieces of furniture must express unswerving rest; also the portraits on the wall, the mirror, the bottle, and some costumes. The white colour has not been applied to the picture, so its frame will be white, aimed to get me even with the compulsory rest recommended for me. I have depicted no type of shade or shadow; I have only applied simple plain colours, like those in crêpes."_[^2]
 
+Van Gogh included sketches of the composition in this letter as well as in a letter to Gauguin, written slightly later.[^3]  In the letter, van Gogh explained that the painting had come out of a sickness that left him bedridden for days.[^4] 
 
-## Charles Darwin {href=19c/19c-darwin-biography}
+### Miniatures
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
+This version has on the wall to the right miniatures of van Gogh's portraits of his friends Eugène Boch and Paul-Eugène Milliet. The portrait of Eugène Boch is called The Poet and the portrait of Paul Eugène Milliet is called The Lover.[^5][^6]
 
-Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. Although, they may be aware of his Journal and Remarks, generally known as The Voyage of the Beagle (1839), in which a youthful Darwin recounted his five years travelling the world. 
+#### _The Poet_
 
+Eugène Boch (1 September 1855 – 3 January 1941) was a Belgian painter, born in Saint-Vaast, La Louvière, Hainaut. He was the younger brother of Anna Boch, a founding member of Les XX.
+In 1888, Boch was introduced by Dodge MacKnight to Vincent van Gogh.
 
-## Alfred Cohen {href=20c/20c-cohen-biography}
+In 1892 he settled in Monthyon (Seine-and-Marne), not far from Paris. In 1909, he married Anne-Marie Léonie Crusfond (?–1933), and in 1910 they moved to their recently-built chalet "La Grimpette", where both lived out their lives.
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+Boch supported poor artists of talent, including Émile Bernard, whom he met at the Atelier Cormon, and Paul Gauguin. He also exchanged works with many artists, including by van Gogh, and little by little, grew an important collection of contemporary art. Boch and his sister Anna spent a large part of the family fortune promoting other artists. They bought pictures from many leading contemporaries of their time, the majority of whom were also their friends.
 
-It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. He and his second wife Diana lived in Goudhurst, Benenden and Iden Green over a fifteen-year period, and took inspiration from the Kent countryside.
+Boch received van Gogh's portrait of him, The Poet, from Johanna van Gogh-Bonger, van Gogh's sister in law. On Boch's death in 1941, he bequeathed the painting to the Louvre. Today the painting can be seen in the Paris Musée d'Orsay.
 
-## Paul Nash {href=20c/20c-nash-biography}
+.ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg options=18254,1,3753,2976 left
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/eb/Battle_of_Britain_%28Paul_Nash%29.png)
+.ve-image wc:Van_Gogh_-_Bildnis_des_belgischen_Dichters_Eugéne_Boch.jpeg right height=360px width=45%
 
-Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. Suffering post-traumatic stress disorder after World War One, Nash moved to Dymchurch where he recuperated whilst repeatedly painting seascapes in which the sea wall was a central motif.
+#### _The Lover_
 
-# Essays by period {.cards}
+Portrait of Paul-Eugène Milliet is a painting by the Dutch painter Vincent van Gogh, produced in September 1888 in Arles.
 
-## Medieval {href=medieval}
+Paul-Eugène Milliet was a second lieutenant in the 3rd regiment of Zouaves which had its quarters at the Caserne Calvin located on boulevard des Lices in Arles. Vincent Van Gogh gave him drawing lessons and in exchange Milliet took some of Van Gogh's paintings to take to Paris. Upon his return to Arles, at the end of September 1888, Milliet presented him with a series of Ukiyo-e woodcuts and other paintings chosen by Van Gogh's brother, Theo. In the days that followed Van Gogh executed this portrait of Milliet.
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/20604136-61ac-4aa6-a82e-99e97a44f66d)
+.ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg options=21851,1,2820,2236 left
 
-The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum), The murder of Becket, the Black Death, Wat Tyler's rebellion, Canterbury pilgrims and Canterbury tales.
+.ve-image wc:1888_van_Gogh_De_minnaar_anagoria.JPG right height=360px width=45%
 
+## Second Version
 
-## 16th century {href=16c}
+In April 1889, van Gogh sent the initial version to his brother regretting that it had been damaged by the flood of the Rhône while he was interned at the Old Hospital in Arles. Theo proposed to have it relined and sent back to him in order to copy it. This "repetition" in original scale (Van Gogh's term was "répetition") was executed in September 1889. Both paintings were then sent back to Theo.[^7][^8][^9]
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/16c.jpg)
+.ve-image wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg  full width=75%
 
-Chatham Dockyard was established, the Battle against the Spanish Armada took place. Industry in the county included textiles, leather-making and iron production. Prophesizing and playwriting.
+## Third Version
 
+In summer, 1889, Van Gogh finally decided to redo some of his "best" compositions in a smaller size (the term he used was réductions) for his mother and his sister Wil, The Bedroom was among the subjects he chose.[^10] These réductions, finished late in September 1889, are not exact copies.
 
-## 17th century {href=17c}
+In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of Zundert self-portrait. The one to the right cannot be linked convincingly to any existing painting by van Gogh
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/17c.jpg)
+.ve-image wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg  full width=75%
 
-Industry includes production of malt for brewing. Fighting takes place as part of the English Civil War. Scientific discoveries in mathematics, chemistry and anatomy.
+## Comparing the versions
 
+.ve-image compare curtain
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg 
 
-## 18th century {href=18c}
+.ve-image compare sync height=400px
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg 
+    
+## Provenance
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/18c.jpg)
+- The first version never left the artist's estate. Since 1962, it has been in the possession of the Vincent van Gogh Foundation, established by Vincent Willem van Gogh, the artist's nephew, and on permanent loan to the Van Gogh Museum, Amsterdam.
+- The second version has, since 1926, been the possession of the Art Institute of Chicago as part of the Helen Birch Bartlett Memorial Collection.
+- The third version, formerly in the possession of Van Gogh's sister Wil and later acquired by Prince Matsukata, entered the French national collections in 1959, following the French-Japanese peace settlement, and is on permanent display in the Musée d'Orsay, Paris.
+- All three versions of the Bedroom were brought together for an exhibition entitled Van Gogh's Bedrooms at the Art Institute of Chicago in 2016. The exhibition featured related works as well as a digital reconstruction of his bedroom.[^11][^12]
 
-Strategic position of the Medway in relation to European wars. New sea water ‘cures’ see the reinvention of Margate as a fashionable resort.
+## Videos
 
+.ve-video https://www.youtube.com/watch?v=9SsUzaIDsHo width=75%
 
-## 19th century {href=19c}
+# References
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/19c.jpg)
-
-Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops. 
-
-## 20th century {href=20c}
-
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/20c.jpg)
-
-Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
-
-## Wartime Kent {href=wartime}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
-
-On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars. 
-
-## 21st century {href=21c}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/36ae75f3-b601-4695-ba8e-efb2e99630fc)
-
-Regeneration and the rise of the DFL.
-
-
-# Essays by place {.cards}
-
-## Places A-D {href=placesad}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573)
-
-Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Canterbury, Deal and Dover.
-
-
-## Places E-P {href=placesep}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84)
-
-Towns of grandeur. Articles on Folkestone, Gravesend and Margate
-
-
-## Places Q-Z {href=placesqz}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
-
-Seaside resorts such as Ramsgate and Sandgate.
-
-
-# Essays by theme {.cards}
-
-## Seascapes {href=seascape}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
-
-The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
-
-
-## Landscapes {href=landscape}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2546.JPG)
-
-Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
-
-
-## The Garden of England {href=garden}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/af58512e-cbf4-4f26-8776-3560de893011)
-
-Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth, Kent is known as the ‘Garden of England’ due its rich agricultural history.
-
-
-## Artists and Illustrators {href=artists}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301)
-
-Painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
-
-## Mathematicians and Scientists {href=science}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
-
-Botanists, chemists and naturalists abound in the beautiful garden of England.
-
-## The Built Environment {href=churches}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
-
-A county of rich architecture; castles, churches, ports, forts and towers.
-
-
-## Musical Peregrinations {href=music}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/61826c52-f5b7-4a39-bece-68dcf6d6539e)
-
-Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
-
-## Prisons and Discipline {href=prisons}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8b87d15d-5d86-4784-ab72-8dad919689c2)
-
-An exploration of Kent's penal system including the Bloody Code, convicts, transportation and prison hulks.
-
-
-# Featured Authors {.cards}
-
-## Jane Austen {href=austen}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
-
-Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward. 
-
-
-## Joseph Conrad {href=19c/19c-conrad-biography}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f117483d-65cb-464e-828a-486c8a83ac53)
-
-Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century, lived the last decades of his life in Bishopsbourne.
-
-
-## Charles Dickens {href=dickens}
-
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/dickens-head.jpg)
-
-One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
-
-## T.S. Eliot {href=20c/20c-eliot-biography}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3732a411-bdb3-4fe9-a464-1aeb2ac8d7ad)
-
-After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. It was there he wrote “The Fire Sermon,” part three of the hugely influential poem 'The Waste Land'. He wrote to Sydney Schiff from the Albemarle Hotel, Cliftonville: “I have done a rough draft .. but I do not know whether it will do.”
-
-
-## Edith Nesbit {href=nesbit}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
-
-English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. Several of her best-loved stories for children include descriptions of her childhood home.
-
-## Vita Sackville-West {href=20c/20c-sackville-west-biography}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
-
-Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
-
-
-# Featured Texts {.cards}
-
-## Double Double by John Brunner {href=20c/20c-double-double}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c5a69374-84aa-4934-a9d4-4469d7e40ace)
-
-It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition who come in search of a venue for an “open-air freakout,” and find a beach with white cliffs. 
-
-
-## In Margate by Lunchtime by Maggie Harris {href=21c/21c-margate-lunchtime}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/eliot5.JPG)
-
-There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist. ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’ Gary did a quick shufti round to see if it was him she was hailing.
-
-
-## Miss Balmaine's Past by Bithia Croker {href=19c/19c-croker-missbalmaine}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg)
-
-Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Horton'. Rosamund Balmaine finds love when Ronald Gordon arrives to survey the area for a new railway. However, conniving relatives conspire to keep the couple apart.
-
-
-## Shepherds in Sackcloth {href=20c/20c-kaye-smith-delmonden}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
-
-Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
-
-
-## The Winter Diary of a Country Rat by Peter Firmin {href=20c/20c-firmin-winter-diary}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b)
-
-The enchanting story of the adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
-
-.ve-footer
-    - A collaboration between: ![CCCU](https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/CCCU-logo-2colour.svg) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/kent/main/images/labs.jpg)](https://labs.jstor.org)
-    - [![](https://raw.githubusercontent.com/kent-map/kent/main/images/twitter.png)](https://twitter.com/KentMaps1)
-    {.push}
-    - [![DoE participants' showcase](https://raw.githubusercontent.com/kent-map/kent/main/images/dofe-logo.png)](https://dofe.kent-maps.online)    - ![](https://raw.githubusercontent.com/kent-map/kent/main/images/Centre_for_Kent_History_and_Heritage_logo_1.jpg)
-
+[^1]: Though the building was damaged in an air-raid, June 25, 1944, and laid down afterwards, floor plans by Lèon Ramser, an Arlesian architect, dating from the 1920s have survived and supply most of the essential information, see: Roland Dorn, "Décoration": Vincent van Goghs Werkreihe für das Gelbe Haus in Arles, Georg Olms Verlag, Hildesheim, Zürich & New York, 1990, plate XIX/XX
+[^2]: "Vincent van Gogh to Theo van Gogh : 16 October 1888". webexhibits.org.
+[^3]: "Vincent van Gogh to Paul Gauguin : 17 October 1888". webexhibits.org.
+[^4]: "706". vangoghletters.org. Archived from the original on 2016-09-29. Retrieved 2014-04-16.
+[^5]: "De minnaar (portret van luitenant Milliet) – Kröller-Müller Museum". kmm.nl. Archived from the original on 2012-04-18.
+[^6]: "Eugene Boch – Impressionist and friend of Vincent van Gogh". eugeneboch.com.
+[^7]: "Vincent van Gogh to Theo van Gogh : 22 May 1889". webexhibits.org.
+[^8]: "Theo van Gogh to Vincent van Gogh : 16 June 1889". webexhibits.org.
+[^9]: "Vincent van Gogh to Theo van Gogh : 5 or 6 September 1889". webexhibits.org.
+[^10]: "Vincent van Gogh to Theo van Gogh : 28 September 1889". webexhibits.org.
+[^11]: "Van Gogh's Bedrooms". The Art Institute of Chicago.
+[^12]: "The Bedroom". The Art Institute of Chicago.
