@@ -227,21 +227,21 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 # Featured Texts {.cards}
 
-## Double Double by John Brunner {href=20c/20c-double-double}
+## Double Double {href=20c/20c-double-double}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c5a69374-84aa-4934-a9d4-4469d7e40ace)
 
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition who come in search of a venue for an “open-air freakout,” and find a beach with white cliffs. 
 
 
-## In Margate by Lunchtime by Maggie Harris {href=21c/21c-margate-lunchtime}
+## In Margate by Lunchtime {href=21c/21c-margate-lunchtime}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/eliot5.JPG)
 
 There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist. ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’ Gary did a quick shufti round to see if it was him she was hailing.
 
 
-## Miss Balmaine's Past by Bithia Croker {href=19c/19c-croker-missbalmaine}
+## Miss Balmaine's Past {href=19c/19c-croker-missbalmaine}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg)
 
@@ -255,7 +255,7 @@ Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Hor
 Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
 
 
-## The Winter Diary of a Country Rat by Peter Firmin {href=20c/20c-firmin-winter-diary}
+## The Winter Diary of a Country Rat {href=20c/20c-firmin-winter-diary}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b)
 
