@@ -34,7 +34,7 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/18c/images/1U8A1283-01.jpeg)
 
-The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
+The Bloody Code is a term applied to the English criminal code and its excessive and savage punishments before reform in the 19th century. The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
 
 ## The Kentish Gazette {href=18c-kentish-gazette}
 
