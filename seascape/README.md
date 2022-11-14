@@ -32,7 +32,7 @@ The Goodwin Sands provide an atmospheric backdrop to this shocking tale of crime
 
 ## The Goodwin Sands {href=/dickens/david-copperfield-goodwin-sands/}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/48/Captn._Bullock%27s_Safety_Beacon_on_the_Goodwin_Sands_%28BM_1871%2C0812.5365%29.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f)
 
 The Goodwin Sands ‘whence floating lights perpetually wink after dark, as if they were carrying on intrigues with the servants'.
 
