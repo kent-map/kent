@@ -102,7 +102,7 @@ On the frontline of England's defence, Kent played a pivitol role in both the Fi
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/36ae75f3-b601-4695-ba8e-efb2e99630fc)
 
-Regeneration and the rise of the DFL.
+Regeneration and the rise of the DFL, street murals, poetry, books and Covid.
 
 
 # Essays by place {.cards}
