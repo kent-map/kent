@@ -203,7 +203,7 @@ Joseph Conrad, an extraordinary and significant Polish British literary figure o
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/dickens-head.jpg)
 
-One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
+From Rochester to Broadstairs on the East coast – wherever you go you can be fairly certain that Dickens has been there before you. One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
 
 ## T.S. Eliot {href=20c/20c-eliot-biography}
 
