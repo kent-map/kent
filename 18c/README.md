@@ -10,19 +10,20 @@ Strategic position of the Medway in relation to European wars. New sea water ‘
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
 
-John Boys, agriculturalist, was well known for his breed of South Down sheep.  
+John Boys, agriculturalist, was well known for his breed of South Down sheep. He farmed at Betteshanger Home Farm, about five miles inland from Deal.
 
 ## Elizabeth Carter {href=18c-carter-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff22cb41-5bde-4bf8-a335-3fbffef0264a)
 
-Elizabeth Carter was an English poet, classicist, writer, translator, and linguist who was born in Deal.  
+'My old friend, Mrs. Carter, … could make a pudding, as well as translate Epictetus from the Greek, and work a handkerchief as well as compose a poem.’ Elizabeth Carter, poet, classicist, writer, translator, and linguist was born in Deal.  
 
 ## Elizabeth Burgess {href=18c-burgess-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41)
 
-Playwright and pastry-maker.
+What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d her Hand a thousand ways, But why attempt such things as writing Plays; Let her make Sacques, Gowns, Tarts, and Pies, And not presumptuously an Authoress rise.
+
 
 ## Ann Radcliffe {href=18c-radcliffe-biography}
 
