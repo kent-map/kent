@@ -40,6 +40,6 @@ The Bloody Code is a term applied to the English criminal code and its excessive
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/45c339b3-6234-4096-827e-8cce6681e0fe)
 
-The Intelligence inserted in this Paper will be of the latest date, and selected from the most approved News Papers of London and other Parts of the Kingdom.
+The Intelligence inserted in this Paper will be of the latest date, and selected from the most approved News Papers of London and other Parts of the Kingdom. I have the pleasing Prospect of some valuable Correspondents by whom, with some approved Extracts from the best Authors, Accounts of New Books, Pamphlets, Poetry, etc.
 
 
