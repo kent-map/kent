@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Medieval Canterbury" author="Dr Sheila Sweetinburgh" layout="vtl" banner="https://stor.artstor.org/stor/4a008a90-1d38-4b90-ae0c-7be51c939b21">
+<param ve-config title="Medieval Canterbury" author="Dr Sheila Sweetinburgh" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg/1024px-Blake_Canterbury_Pilgrims_engraving.jpg">
 
 <param ve-entity eid="Q26163" aliases="Sandwich">
 
