@@ -18,7 +18,7 @@ As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells mov
 
 The outbreak of war in August 1914 led to a transformation of this genteel resort. Folkestone, with its port and excellent rail and road links, became the main point of embarkation and return for the battlefields of France and Flanders.
 
-## Richborough: The Secret Port {href20c/20c-richborough/}
+## Richborough: The Secret Port {href=20c/20c-richborough/}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Richborough%2C_1917._A_Cross-channel_Ferry_by_John_Lavery.jpg)
 
