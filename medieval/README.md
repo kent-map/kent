@@ -28,7 +28,7 @@ Whether or not Hengest and Horsa ever existed, the fact remains that they are pa
 
 ![](https://stor.artstor.org/stor/1738ab17-c2ac-4e27-bb5f-1d2dcf05925d)
 
-
+Canterbury has many fascinating medieval buildings and traces of its Medieval past can be found in the most unexpected places.
 
 ## Battle of Crayford {href=battleofcrayford}
 
