@@ -24,6 +24,12 @@ For England, what might be considered a unique confederation of medium-sized and
 
 Whether or not Hengest and Horsa ever existed, the fact remains that they are part of the folk myths of Kent and are established characters in local and national stories of the past. 
 
+## Medieval Canterbury {href=medieval-canterbury}
+
+![](https://stor.artstor.org/stor/1738ab17-c2ac-4e27-bb5f-1d2dcf05925d)
+
+
+
 ## Battle of Crayford {href=battleofcrayford}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cd/BL_Cotton_Tiberius_B_I_f._118r.png)
