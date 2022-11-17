@@ -12,7 +12,9 @@ xxx
 
 ## Alfred Austin {href=19c/19c-austin-biography}
 
+![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
 
+xxx
 
 ## Edmund Blunden {href=/20c/20c-blunden-biography}
 
