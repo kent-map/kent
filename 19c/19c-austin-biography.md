@@ -4,6 +4,8 @@
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
 
+<param ve-map center="Q26644540" zoom="15">
+
 #
 
 ‘Across the wires the electric message came    
