@@ -1,8 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Jane Austen: Tunbridge Wells" author="Dr Susan Civale" layout="vtl" banner="">
-<param ve-map center="Q866348" zoom="10">
+<param ve-config title="Jane Austen: Tunbridge Wells" author="Dr Susan Civale" layout="vtl" banner="https://iiif.wellcomecollection.org/image/V0014572/full/full/0/default.jpg">
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
+#
 
 Tunbridge Wells features in several of Austen’s writings including _Emma_, _Northanger Abbey_, _Mansfield Park_, and the uncompleted _Sanditon_.  She may have visited in 1788.
 ‘Miss Thorpe, however, being four years older than Miss Morland, and at least four years better informed, had a very decided advantage in discussing such points; she could compare the balls of Bath with those of Tunbridge, its fashions with the fashions of London’.
