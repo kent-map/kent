@@ -1,8 +1,14 @@
-Alfred Austin (1835-1913)
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="Alfred Austin (1835-1913)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
 
-‘Across the wires the electric message came 
+<param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q99678204" aliases="Halstead Place">
+
+#
+
+‘Across the wires the electric message came    
 He is no better, he is much the same.’
-
+<br>
 Ironically these abominable lines, describing the illness of Edward VII, have proved to be the most enduring legacy of Poet Laureate Alfred Austin. 
 As the successor to Tennyson in 1896, Austin already had a lot on his plate. On his appointment he was described by one periodical as ‘an English gentleman of culture, dignity, and ability’.  But the critic broke down almost immediately afterwards, warning readers that ‘the higher gifts have been denied’  to him and that he had ‘epic hopes and desire with only a lyric gift of very slender substance.’ It was not in poetry but in two prose works that he made his ‘nearest approach to literature’. 
 One of these works was _The Garden That I Love_ (1894), in which he describes the garden of Swinford Old Manor, near Ashford, on a:
