@@ -39,7 +39,7 @@ Takes David through Kent and down the Dover Road to find answers to some vital q
 
 ## Dickens and Dover {href=dickens-dover}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2751b76f-4da8-4961-b70d-eff26866c8b2)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/71ff761a-59b2-48d3-af90-1a207e12ad6b)
 
 Although he stayed in Dover on a number of occasions on his way to the continent, Dickens was not the town’s biggest fan, believing it to be ‘too bandy (I mean musically, no reference to its legs), and infinitely too genteel.’
 
