@@ -65,7 +65,7 @@ Charles Dickens’s first serial novel, The Pickwick Papers is preoccupied with 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac)
 
-Ellen as a resident of Rochester, opens up a new set of possible interpretations for the novels Dickens wrote during their relationship.
+Ellen as a resident of Rochester, opens up a new set of possible interpretations for the novels Dickens wrote during their relationship – Great Expectations, Our Mutual Friend, and The Mystery of Edwin Drood.
 
 ## Dickens and the Staplehurst Rail Crash {href=/dickens/dickens-staplehurst}
 
