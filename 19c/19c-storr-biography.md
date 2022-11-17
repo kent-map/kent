@@ -29,7 +29,7 @@ _Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The De
 <param ve-map center="Q793057"zoom="15">
 
 The anthology begins with a poem addressed from ‘F.S., Jun.’ to ‘Mr. Editor’, asking him to ‘Please … excuse / For this number at least my appearance’ because the writer is suffering the after-effects of a ‘soirée’ attended the previous evening with ‘the élite / [o]f Brenchley’, at which ‘Youth, Harmony, Fashion, and Beauty’ prevailed, and the recollection of which might ‘make our fair hostess to blush’. 
-<br>
+<br><br>
 ‘F.S.’, or Francis Storr senior, provides the next poem. Entitled ‘Address’, it is a salutary tale of a moth burnt by flying too close to a flame; a warning to ‘the youthful authors … / Intent on fame and glory’ to heed ‘[t]heir sober mentor sage’ lest, like the moth:   
 <br>
 _‘Your muse in manuscript may bask   
