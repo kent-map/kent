@@ -17,6 +17,7 @@
 [Hans Christian Andersen](19c-christian-andersen)   
 [Anna Atkins](19c-atkins-biography)   
 [Jane Austen](19c-austen-biography)  
+[Alfred Austin](19c-austin-biography)    
 [Robert Barr](19c-barr-biography)  
 [R. D. Blackmore](19c-blackmore-biography)  
 [M.E. Braddon](19c-braddon-biography)   
