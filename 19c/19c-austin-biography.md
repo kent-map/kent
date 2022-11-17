@@ -16,12 +16,15 @@ One of these works was _The Garden That I Love_ (1894), in which he describes th
 quiet August afternoon, with its long motionless shadows, its slight intimation of silver haze, and its soothing noises of neighbourhood rooks; the music of a mill stream I could just overhear, the melodious monotone of contiguous ringdoves, the colour of the nectarines on the wall, the recollection of the ripe and ruddy orchard; - all of these seemed to imbue my mind with a sense of autumnal mellowness, when everything one longs for awaits the plucking, and there is nothing more to be desired.
 <br><br>
 Fellow gardening enthusiast [Elizabeth von Arnim](/20c/20c-vonarnim-biography) was so taken with the book that she wrote a fan letter (which she was too embarrassed to send).  She later described the garden as the loveliest she had ever seen.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/75/Alfred_Austin_Vanity_Fair_20_February_1896.jpg" label="Alfred Austen" attribution="Vanity Fair, 20 February 1896, Leslie Ward, Public domain, via Wikimedia Commons">
 
 Austin and his wife had lived here since their marriage in 1867, entertaining guests including John Everett Millais and Wilfred Scawen Blunt as well as sustaining friendships with local Tories such as Aretas Akers-Douglas, later 1st Viscount Chilston. But not everyone was delighted by the poet’s presence among them or by his political stance. The _Thanet Advertiser_ took him to task for his description of Gladstone as a ‘verbose poltroon’ at a local meeting, predicting that the minister would be revered by thousands who failed to remember ‘the wild poet’.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/14/Alfred_Austin_on_Paddy.jpg" label="Alfred Austin on Paddy" attribution="Alfred Austin, 1911. The Autobiography of Alfred Austin, Poet Laureate, 1835-1910. Volume 2. London: Macmillan. p. 194.">
 
 In February 1896 the paper offered a prize ‘to the reader who will send the best reason for appointing Mr Alfred Austin to the office of Poet Laureate’ a feat it considered the more difficult because ‘A poet ought to be able to write poetry, and poetry is not necessarily all drivel.’  
 <br>
 Poignantly at his death Austin’s own library was found to include works by much greater authors, including [Dickens](/dickens), [Christina Rossetti](/19c/19c-rossetti-biography) and Tennyson.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/da/Alfred_Austin%2C_by_Barber.jpg" label="Alfred Austin" attribution="From a painting by W. Scott Barber, Public domain, via Wikimedia Commons">
 
 ### Bibliography 
 Austin, Alfred. _The Autobiography of Alfred Austin, Poet Laureate, 1835-1910._ Macmillan 
