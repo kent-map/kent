@@ -7,7 +7,7 @@
 <param ve-entity eid="Q26549468" aliases="Goods Shed">
 <param ve-entity eid="Q26534028" aliases="Weighbridge Cottage">
 
-### The Canterbury and Whitstable Railway
+#
 
 The Canterbury and Whitstable Railway, opened on May 3rd 1830, was the world’s first passenger steam railway. It became a branch of the London and South East Railway when in 1846 the main line reached Canterbury.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Whitstable_MAP28_2400.jpg" label="Railway map" attribution="Unknown author, Public Domain">
