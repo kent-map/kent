@@ -6,14 +6,14 @@
 Tunbridge Wells features in several of Austen’s writings including _Emma_, _Northanger Abbey_, _Mansfield Park_, and the uncompleted _Sanditon_.  She may have visited in 1788.
 ‘Miss Thorpe, however, being four years older than Miss Morland, and at least four years better informed, had a very decided advantage in discussing such points; she could compare the balls of Bath with those of Tunbridge, its fashions with the fashions of London’.
 _Northanger Abbey_.
-<param ve-image url="https://iiif.wellcomecollection.org/image/V0014575/full/full/0/default.jpg" label="Tunbridge Wells: view of the parade" attribution="Engraving by I. Taylor. Wellcome Collection" licence="Public Domain Mark">
+<param ve-image url="https://iiif.wellcomecollection.org/image/V0014575/full/full/0/default.jpg" label="Tunbridge Wells: view of the parade" attribution="Engraving by I. Taylor. Wellcome Collection" license="Public Domain Mark">
 
 During Austen’s lifetime, the fashionable spa town of Tunbridge Wells—referred to as simply ‘Tunbridge’ for short—represented a popular destination for London society.  As such, it gets a mention in several of Jane Austen’s novels.  In _Northanger Abbey_, Isabella Thorpe compares it with Bath; in _Mansfield Park_, Miss Crawford decidedly proclaims that it does not count as ‘the country’; in _Persuasion_, a letter is directed to ‘Charles Smith, Esq. Tunbridge Wells’.  The opening sentence of Austen’s unfinished novel, _Sanditon_, also contains a reference:
 <br>
 'A gentleman and a lady travelling from Tunbridge towards that part of the Sussex coast which lies between Hastings and Eastbourne, being induced by business to quit the high road and attempt a very rough lane, were overturned in toiling up its long ascent, half rock, half sand.'
 <br>
 Though this line is sometimes read as referring to the market town of Tonbridge (which, confusingly, was originally spelled Tunbridge), many Austen scholars now argue that it is more likely shorthand for Tunbridge Wells.[^ref1]  
-<param ve-image url="https://iiif.wellcomecollection.org/image/V0014569/full/full/0/default.jpg" label="Tunbridge Wells, Kent: panoramic view from Mount Ephraim. Tinted lithograph" attribution="Welcome Collection" licence="Public Domain Mark"> 
+<param ve-image url="https://iiif.wellcomecollection.org/image/V0014569/full/full/0/default.jpg" label="Tunbridge Wells, Kent: panoramic view from Mount Ephraim. Tinted lithograph" attribution="Welcome Collection" license="Public Domain Mark"> 
 
 Tunbridge Wells was such a fashionable resort that it had its own souvenir industry.[^ref2]   One popular item was the Tunbridge ware box, a tourist trinket made of inlaid wood.  In _Emma_, Harriet Smith uses one of these to keep her ‘Most precious treasures’, that is, those articles that remind her of Mr Elton: 
 <br>
