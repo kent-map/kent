@@ -37,6 +37,12 @@ Takes David through Kent and down the Dover Road to find answers to some vital q
 
 ‘Half awake and half asleep, this idle morning in our sunny window on the edge of a chalk-cliff in the old-fashioned Watering-Place to which we are a faithful resorter..'
 
+## Dickens and Dover {href=dickens-dover}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2751b76f-4da8-4961-b70d-eff26866c8b2)
+
+Although he stayed in Dover on a number of occasions on his way to the continent, Dickens was not the town’s biggest fan, believing it to be ‘too bandy (I mean musically, no reference to its legs), and infinitely too genteel.’
+
 ## Dickens and Medway {href=dickens-medway}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/1200px-2006SweepsCath1crop.jpg)
