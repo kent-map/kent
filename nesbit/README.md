@@ -1,4 +1,4 @@
-.ve-header "Edith Nesbit's Kent" gh:kent-map/kent/images/banners//19c.jpg sticky=true
+.ve-header "Edith Nesbit's Kent" gh:kent-map/kent/images/banners/19c.jpg sticky=true
     - [Home](/)
     - [About](/about)
 
