@@ -22,15 +22,13 @@ In the following autumn, the Taits were staying at Stonehouse, when they receive
 
 What followed was an exhausting round or engagements as Tait’s diary testifies:
 <br><br>
-'Confirmation at Smeeth. Visited the new schools. Got on to Tonbridge  Wells, in a snowy night, in time for a large dinner-party of clergy at Mr. Hoare's. Great  Confirmation  on nth  at Tonbridge Wells, and a second equally large at Tonbridge. Drove to Tonbridge after a huge luncheon party, and in the dark drove fifteen  miles from Tonbridge to  Mr. Talbot's at Falconhurst, where most kindly received. Met many people at dinner. Confirmed next day at Penshurst. Great luncheon of  clergy and others. Returned in dark. Another dinner-party.On  Saturday 13th confirmed at Edenbridge. Great luncheon of many, clergy and others. Confirmed in  afternoon at Westerham. Drove to Colonel Ward's lovely place, Squerries. After tea started for a drive in the dark over the hills. Got to  Addington at 9.15. Very thankful to have got through a heavy week so well, notwithstanding  the perpetual singing in my ears.'
+'Confirmation at Smeeth. Visited the new schools. Got on to Tonbridge  Wells, in a snowy night, in time for a large dinner-party of clergy at Mr. Hoare's. Great  Confirmation  on 11th  at Tonbridge Wells, and a second equally large at Tonbridge. Drove to Tonbridge after a huge luncheon party, and in the dark drove fifteen  miles from Tonbridge to  Mr. Talbot's at Falconhurst, where most kindly received. Met many people at dinner. Confirmed next day at Penshurst. Great luncheon of  clergy and others. Returned in dark. Another dinner-party.On  Saturday 13th confirmed at Edenbridge. Great luncheon of many, clergy and others. Confirmed in  afternoon at Westerham. Drove to Colonel Ward's lovely place, Squerries. After tea started for a drive in the dark over the hills. Got to  Addington at 9.15. Very thankful to have got through a heavy week so well, notwithstanding  the perpetual singing in my ears.'[^ref13]
 
 Although Tait was enthusiastically committed to the role, his health remained fragile and he was prone to bouts of exhaustion.  Lady Wake wrote: “The interest of his new duties as Archbishop carried him on far beyond his strength. He always considered he had done enough to recruit his health by spending a few bright weeks with his friends in Scotland, finishing the autumn at Stonehouse.” He usually stayed for around 6-8 weeks. 
 
-Tait wrote,  "the  change  to  Canterbury  had  certainly brought  no  relaxation  of  work.  The  Confirmations  were  pressing. All  seemed  to  go  on  prosperously,  and  my  strength  to  be  equal to  my  duties.  But  the  bow,  it  would  seem,  had  been  overstrung. .  .  .  
-Just over a year after his appointment to the Archbishopric, Tait suffered another health scare. 
-[On  Monday,  November  15th]  I  had  been  to  a  diocesan meeting  at  Ashford,  and  in  the  evening  spoke  for  one  of  the Missionary  Societies.  Next  morning  I  had  to  hurry  to  London for  the  Ecclesiastical  Commission,  and  I  think  for  a  meeting  of the  Charterhouse,  then  down  to  the  Isle  of  Thanet  by  the  evening train.  Next  day  was  spent  quietly  at  home  [at  Stonehouse],  but correspondence  was  accumulating,  and  I  believe  ninety  letters had  to  be  superintended  and  despatched  by  that  post  I  was  very tired  in  the  evening,  but  next  morning  [November  18]  I  rose fresh  as  usual.  I  remember  going  into  my  wife's  room  and  finding  her  reading  the  Bible  with  the  children.  I  warned  them  not to  work  their  mother  too  hard.  I  remember  also  looking  out  of the  window  on  the  bright  frosty  morning,  and  anticipating  a  day of  comparative  rest  I  returned  to  my  dressing-room,  but  I  had not  finished  dressing  when  I  fell  prostrate  and  senseless  on  the floor."
-
-
+Tait wrote: 'the change to Canterbury had certainly brought no relaxation of work.  The Confirmations were pressing. All seemed to go on prosperously, and my  strength to be equal to my  duties. But the bow, it would seem, had been overstrung.' Just over a year after his appointment to the Archbishopric, Tait suffered another health scare. 
+<br><br>
+[On  Monday,  November  15th]  I had been to a diocesan meeting at Ashford, and in the evening spoke for one of the Missionary Societies. Next  morning I had to  hurry to London for the Ecclesiastical Commission, and I think for a meeting of the Charterhouse, then down to the Isle of Thanet by the evening train. Next day  was spent quietly at home [at  Stonehouse], but correspondence was accumulating, and I believe ninety letters had to be superintended and despatched by that post I  was very tired in the evening, but next morning  [November  18] I rose fresh as usual. I remember going into my wife's room and finding her reading the Bible with  the children. I warned them not to work their mother too hard. I remember also looking out of the window on the bright frosty morning, and anticipating a day of  comparative rest I returned to my dressing-room, but I had not finished dressing when I fell prostrate and senseless on the floor."
 
 ### Bibliography
 
@@ -40,10 +38,10 @@ Tait, Archibald Campbell; Benham, William (1879) _Catharine and Craufurd Tait._ 
 
 ### References
 
-[^ref1]: p111, Davidson, 1891
-[^ref2]: p.116, Davidson
+[^ref1]: Davidson, 1891, vol. 1, p.111.
+[^ref2]: Davidson, 1891, vol. 1, p.116.
 [^ref3]: Tait, Archibald Campbell, _Catharine and Craufurd Tait, wife and son of Archibald Cambpell, archbishop of Canterbury : a memoir_
-[^ref4]: p117 Davison, 1891
+[^ref4]: Davidson, 1891, vol 1., p.117.
 [^ref5]:
 [^ref6]:
 [^ref7]: "Bathing at Broadstairs." Standard, 29 Aug. 1867, p. 3. British Library Newspapers, link.gale.com/apps/doc/R3213680504/GDCS?u=ccc_uni&sid=bookmark-
@@ -53,3 +51,4 @@ GDCS&xid=9bc4bb19. Accessed 19 Nov. 2022.
 [^ref10]:
 [^ref11]:
 [^ref12]: p.535, Davidson, 1891
+[^ref13] Davidson, vol. 2, p.48.
