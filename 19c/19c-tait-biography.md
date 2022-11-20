@@ -3,7 +3,7 @@
 <param ve-config 
        title="Archibald Campbell Tait (1811 –1882)"
        author="Michelle Crowther"
-       banner="https://stor.artstor.org/stor/2251af4a-a56d-45f0-b9b1-361ba46aaf4d" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/e/e4/James_Malton_-_The_North_Foreland_Lighthouse%2C_Kent_-_B1975.3.875_-_Yale_Center_for_British_Art.jpg" 
        layout="vertical">
        
 <param ve-entity eid="Q736439" title="Ramsgate">
