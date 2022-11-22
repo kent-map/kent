@@ -55,6 +55,8 @@ Tait continued to visit his marine residence until the end of his life and took 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Cliff_edge_near_North_Foreland_-_geograph.org.uk_-_3129897.jpg" label="Cliff edge near North Foreland by Nick Smith, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Tait died on the 3 December 1882 at Addington. He left Stonehouse to his eldest daughter, Edith Murdoch Tait who was married to Randall Davidson, who later became Archbishop of Canterbury (1903-1928); however, the estate was sold by auction in 1884, along with its contents, including a capital full-sized billiard table.[^ref34] The house was later converted into a school.
+<br><br>
+This article was published: 22 November 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Archibald_Campbell_Tait%27s_tomb_10.JPG" label="Archibald Campbell Tait's tomb at Canterbury Cathedral" attribution="Jonathan Cardy, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 ### Bibliography
