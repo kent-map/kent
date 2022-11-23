@@ -22,7 +22,7 @@ During the Stannards' visit, Ruskin, who was suffering from depression, became a
 It was at this period that Stannard conceived the idea of editing her own journal and in 1891, she embarked on the 'treacherous and adventuresome' enterprise of establishing _Golden Gates_ a penny weekly magazine. Its name was later changed to _Winter's Weekly_ as some felt the former name too religious in tone.[^ref7] The magazine proved to be a financial burden on the family. Her husband Arthur said: 'we lost heavily over the weekly magazine which we started in 1891. We kept it going for four years, and it was just beginning to turn the corner and pay us when in 1895 my health broke down.'[^ref8] However, it was not only Arthur who was suffering from ill-health;  in January 1893, Stannard revealed to her readers that she had rheumatic pains in her knees in an advertisement for an 'electropoise'.[^ref9]. She wrote: 'since June I have suffered agony steadily getting worse and worse, so that I have to slide out of a carriage or railway compartment.'[^ref10]  The “electropoise” also helped her 4 year old daughter Violet who: 'did not recover very well after diphtheria, and was nervous, irritable and fretful.'[^ref11] 
 <param ve-image url="https://stor.artstor.org/stor/0e2b3f56-5520-4a26-8802-57d5b0c0f890" label="Golden Gates" attribution="Augustine House Library, Canterbury Christ Church University">
 
-It is not certain whether her interest in product endorsement was financial or reflected her anxieties about her own health and that of her family. In March 1893, Stannard renewed her endorsement of the “electropoise” telling her readers that her words were not an 'advertisement puff' as she would not promote any product in which she did not believe. She argued: 'A moment’s thought should convince anyone that it would be simply ruin to my reputation if any advertiser could truthfully say that my good word had been purchased!  I am not yet a “John Strange How- Much”!'[^ref12]
+It is not certain whether her interest in product endorsement was financial or reflected her anxieties about her own health and that of her family. In March 1893, Stannard renewed her endorsement of the 'electropoise' telling her readers that her words were not an 'advertisement puff' as she would not promote any product in which she did not believe. She argued: 'A moment’s thought should convince anyone that it would be simply ruin to my reputation if any advertiser could truthfully say that my good word had been purchased!  I am not yet a “John Strange How- Much”!'[^ref12]
 <param ve-imge url="https://stor.artstor.org/stor/b8aab819-9eb5-46bf-bcdc-e0aa9d757404" label="John Strange Winter" attribution="Golden Gates, Augustine House Library, Canterbury Christ Church University">
   
 Nevertheless, family finances were unravelling at this period. Up until 1892, the Stannards had spent their summers at The White House, Wix, Manningtree, Essex, a sizable house with three sitting rooms, nine bedrooms, conservatory, garden, stabling and 200 acres of shooting.    On March 7th 1893, Stannard wrote to Leonard Phillips telling him that 'she was very far from well' adding that she was 'not sure the future may see me worse before better' and saying that she was going to 'spend the summer by the sea in comparative idleness'.[^ref13] The place that the couple chose was Montague House, Birchington on Sea, a much smaller house (an advertisement for the house in 1888 describes it as having six bedrooms, three reception rooms and a bathroom and 'the usual domestic offices'.[^ref14]  It is possible that the Stannards had to cut their cloth to suit their means and could no longer afford to lease the house at Wix due to the losses they incurred on _Golden Gates_. 
@@ -30,7 +30,7 @@ Nevertheless, family finances were unravelling at this period. Up until 1892, th
 
 The Stannards may also have been avoiding Essex for other reasons. Henrietta had been sued by an Ipswich tailor for £11 11s 'being £5 5s for a superfine grey montana jacket with silk sleeves, trimmed a la militaire and £6 6s for a superfine grey montana costume complete, braided in black'[^ref15] which she had refused to pay for. She claimed that that the clothes did not fit, but the judge ruled that she should have given the tailor the opportunity to make alterations.  The report of the court case which appeared in the _East Anglian Daily Times_ in February 1892, ran to three and a half columns and portrayed Henrietta as bad-tempered and difficult.[^ref16] Although the family still visited in the summer of 1892, this was possibly their last visit. 
 
-Mrs Charlotte Talbot Coke, a fellow Yorkshire woman, an army wife, and contributor to _Winter’s Weekly_  may have recommended Birchington-on-Sea to Henrietta. Talbot Coke had visited Birchington in 1891 and this had inspired her to think about buying a seaside cottage where she might entertain guests and give 'change and rest (rent free) to friends unable to afford seaside jaunts'.[^ref18]  Whether she did or not is uncertain, but she returns to this theme in later articles as she describes ideas for decorating a seaside home. What is known is that Stannard and Coke were working together on _Hearth and Home_ magazine, which was launched in May 1891. 
+Mrs Charlotte Talbot Coke, a fellow Yorkshire woman, an army wife, and contributor to _Winter’s Weekly_  may have recommended Birchington-on-Sea to Henrietta. Talbot Coke had visited Birchington in 1891[^ref17] and this had inspired her to think about buying a seaside cottage where she might entertain guests and give 'change and rest (rent free) to friends unable to afford seaside jaunts'.[^ref18]  Whether she did or not is uncertain, but she returns to this theme in later articles as she describes ideas for decorating a seaside home. What is known is that Stannard and Coke were working together on _Hearth and Home_ magazine, which was launched in May 1891. 
 <param ve-image url="https://stor.artstor.org/stor/15f9c416-969a-4d55-bf7a-bdea6a14b886" label="Birchington on Sea, The Square">
 
 Expressing the hope that the bracing air would improve the health of her husband Arthur and eldest daughter Audrey (known as Baeufie), Stannard took her family to Birchington in the summer of 1893.[^ref19]   The air at 'Bungalow Birchington' as it was nicknamed was said to be beneficial for those suffering with 'exhausted nerves' as it was more sheltered than places like [Margate](/19c/19c-margate) and [Ramsgate](/19c/19c-ramsgate) which were 'charged with the southerly breezes that sweep round the head of Thanet.'[^ref20]  The air was certainly bracing, but the stench of the seaweed 'was an objectionable drawback' which poisoned the air 'with a potency suggestive of typhoid fever or other miasma'[^ref21]. [Dante Gabriel Rossetti](/19c/19c-rossetti-biography) had stayed for a few months at Westcliff Bungalow in 1882 to convalesce, after a seizure, but had died whilst staying there.  
@@ -58,8 +58,7 @@ Florence Fenwick Miller describes meeting her in the summer of 1895:
 <br><br>
 After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to return to London.  She had just completed _The Strange Story of My Life_ which she had dedicated to Nancy "who was born on the day on which this story was finished".[^ref37] The Stannards did not visit Birchington after this, spending the next few years in Dieppe.
 
-Stannard did not draw on the Kent landscape in her fiction. Her novel _The Strange Story of My Life_ (1896) which was written at Birchington, is set on the continent and when her heroine Miss Massingham is asked 'You would like … to go over and see a little of the English coast?' she replies: 'I know nobody in England, I don’t feel in any way drawn towards it.'[^ref38]  Furthermore, in _The Truth-tellers_ (1896) the pleasures of the Kent coast are described as the sort of place where servants can enjoy themselves, hinting that they have no appeal for sophisticated society. Miss Mortimer’s manservant James idea of enjoying the sea 'was to spend a fortnight in Margate when his mistress was safely taking a cure at Homburg or Schwalbach. Then the faithful James might have been seen by such as knew him, arrayed in a suit of light check dittoes, with a straw hat upon his respectable head, sunning himself along the arid front, or in more select fashion enjoying the delights of the health-giving breezes at the extreme end of the pier, —the part where you pay twopence'.[^ref39] 
-
+Stannard did not draw on the Kent landscape in her fiction. Her novel _The Strange Story of My Life_ (1896) which was written at Birchington, is set on the continent. When the heroine Miss Massingham is asked 'You would like … to go over and see a little of the English coast?' she replies: 'I know nobody in England, I don’t feel in any way drawn towards it.'[^ref38]  Furthermore, in _The Truth-tellers_ (1896) the pleasures of the Kent coast are described as the sort of place where servants can enjoy themselves, hinting that they have no appeal for sophisticated society. Miss Mortimer’s manservant James's idea of enjoying the sea 'was to spend a fortnight in Margate when his mistress was safely taking a cure at Homburg or Schwalbach. Then the faithful James might have been seen by such as knew him, arrayed in a suit of light check dittoes, with a straw hat upon his respectable head, sunning himself along the arid front, or in more select fashion enjoying the delights of the health-giving breezes at the extreme end of the pier, —the part where you pay twopence'.[^ref39] 
 
 
 
@@ -71,29 +70,29 @@ Stannard did not draw on the Kent landscape in her fiction. Her novel _The Stran
 [^ref1]:  A popular novelist _Penrith Observer_ - Tuesday 06 May 1890 p6.   
 [^ref4]:  Mr Ruskin and Mrs Stannard. _Manchester Courier and Lancashire General Advertiser_ - Saturday 07 July 1894 Also Percy L. Parker _Young Woman_ - Friday 02 February 1894 p.162.   
 [^ref5]:  Mr Ruskin and Mrs Stannard. _Manchester Courier and Lancashire General Advertiser_ - Saturday 07 July 1894 Also Percy L. Parker _Young Woman_ - Friday 02 February 1894 p.162.   
-[^ref6]: Bainbridge, p.80.
+[^ref6]: Bainbridge, 1916, p.80.
 [^ref7]: Black, Helen. _Notable women authors of the day_ 
 [^ref8]: Dorothy Thompson, Owen R. Ashton, Robert Fyson, Stephen Roberts. _The Duty of Discontent: Essays for Dorothy Thompson._ New York: Mansell, 1995.  p.175.
 [^ref9]: _Winters Weekly_ Jan 7th 1893.
-[^ref10]: John Strange Winter  _Hearth and Home_ Vol. 5, Issue: 107 June 1, 1893.
-[^ref11]: John Strange Winter  _Hearth and Home_ Vol. 5, Issue: 107 June 1, 1893.
-[^ref12]:
+[^ref10]: Winter, John Strange   _Hearth and Home_ Vol. 5, Issue: 107 June 1, 1893.
+[^ref11]: Winter, John Strange   _Hearth and Home_ Vol. 5, Issue: 107 June 1, 1893.
+[^ref12]: Winter, John Strange _Winter's Weekly_ March 1893.
 [^ref13]: Letter to Leonard Philipps, March 7th 1893, John Strange Winter Collection, Canterbury Christ Church University.
 [^ref14]: London Evening Standard - Thursday 17 May 1888.
 [^ref15]:  _Chelmsford Chronicle_ - Friday 19 February 1892.
 [^ref16]:  _East Anglian Daily Times_ - Thursday 26 May 1892.  
-
-[^ref1]:  _Whitstable Times and Herne Bay Herald_ - Saturday 05 December 1891
-[^ref18]: Talbot Coke. Friday,  June 1, 1894 _Myra's Journal of Dress and Fashion_ Vol. XX.; Talbot Coke. 'From castle to cottage', Thursday,  Apr. 20, 1899 _Hearth and Home_ Vol. XVI , Issue: 414
+[^ref17]: Talbot Coke. _Myra's Journal of Dress and Fashion_ Vol. XX. 1 June 1894.
+[^ref18]: Talbot Coke. 'From castle to cottage',  _Hearth and Home_ Vol. XVI , Issue: 414. 20 April 1899.
+[^ref19]: 
 [^ref20]: Liverpool Mercury, 30 July 1886.
 [^ref21]: Eothen 'Flotsam and Jetsam' _Bury and Norwich Post_ 29 August 1893.
+[^ref22]:
 Thursday,  May 21, 1891  _Hearth and Home_ Volume: I , Issue: 1
   HEARTH AND HOME
 Date: Thursday,  May 21, 1891
 Publication: Hearth and Home (UKP) (London, England)
 Volume: I , Issue: 1
 [^ref23]:  'The gifted authoress' _Northampton Chronicle and Echo_ - Monday 25 September 1893.
-  TS UCLA collection 100 box 119/13
 [^ref24]:
 [^ref25]:
 [^ref26]:
@@ -112,9 +111,6 @@ THE HOME OF JOHN STRANGE WINTER. Saturday,  June 16, 1894 Newcastle Courant Issu
 [^ref37]:
 [^ref38]: Winter, John Strange. _The Story of My Life_ 1896.
 [^ref39]: Winter, John Strange. _The Truth-tellers_ 1896. p109-10.
-  “John Strange Winter’s book sales: the curtain lifted” St Andrews’s Citizen, 27 January 1912.
-  Janet Robinson. Birchington Heritage Trust Newsletter. 58. Nov. 2016.
-  
   
 [^ref11]: Drogheda Argus and Leinster Journal - Saturday 01 July 1893
 [^ref13]: Woman's Signal - Thursday 12 March 1896
