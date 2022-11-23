@@ -47,27 +47,20 @@ Summers in Birchington enabled Stannard to take advantage of the regular train s
 
 By September 1894, Stannard had written a farewell to her _Winter Weekly_ readers, pleading ill health and the editorship was handed over to Florence White. Nevertheless, despite her continuing health problems, Henrietta was still able to keep her name in the public eye during the winter of 1894 and gave an interview to reporters in Pwllheli promoting her latest book. In a newspaper article in October 1894  she is described as 'John Strange Winter only from the commencement of the day until three o’clock in the afternoon: the rest of her time is given to husband, children and friends. This rule has few exceptions, for she carries it out most faithfully throughout the entire summer in her country house at Wix, the cosiest little village in Essex.'[^ref31] Interestingly,  Wix and not Birchington is described as her summer retreat.
 
-In February 1895 Stannard was on top form, enjoying her life in London. She was described as an 'entertaining raconteuse” at a charity event at the Mansion House. 'For about twenty minutes she kept her hearers in continuous laughter'.[^ref32] Two months later, however it is reported in the newspapers that 'The many admirers of Mrs Arthur Stannard may be interested in hearing that she is located at Montague House, Birchington on Sea, for the summer, having let her picturesque ivy-clad house at Merton Park. The severe strain of the popular novelist’s literary labours and the condition of her health render absolute quiet imperative, and by the doctor’s orders she will not appear at any social functions this season.[^ref33] Henrietta was pregnant and may have been having a challenging first trimester. However despite 'doctor’s orders' she appeared at the Vagabond Club dinner 'just up from her house in Birchington-on-Sea' and looking 'remarkably well' two months later.[^ref34] The Vagabond dinner was attended by over 300 people including [Sarah Grand](/19c/19c-grand-biography) and many other noted female authors. 
+In February 1895 Stannard was on top form, enjoying her life in London. She was described as an 'entertaining raconteuse” at a charity event at the Mansion House. 'For about twenty minutes she kept her hearers in continuous laughter'.[^ref32] Two months later, however it is reported in the newspapers that 'The many admirers of Mrs Arthur Stannard may be interested in hearing that she is located at Montague House, Birchington on Sea, for the summer, having let her picturesque ivy-clad house at Merton Park. The severe strain of the popular novelist’s literary labours and the condition of her health render absolute quiet imperative, and by the doctor’s orders she will not appear at any social functions this season.[^ref33] Henrietta was pregnant and may have been having a challenging first trimester. However despite 'doctor’s orders' she appeared at the Vagabond Club dinner 'just up from her house in Birchington-on-Sea' and looking 'remarkably well' two months later.[^ref34] The Vagabond dinner was attended by over 300 people including [Sarah Grand](/19c/19c-grand-biography) and many other noted female authors. In The Queen in November 1895 reviewer praised Stannard for her novel _I married a wife_ saying:
+<br><br>
+'I am told that this is the first work she did at Birchington this year, when she was full of exhilaration and buoyancy at the thought that she had seen the last of depressing and much hated Merton'[^ref35]
 <param ve-image url="https://stor.artstor.org/stor/53a636b7-822e-4430-bb05-b26f9936675a" label="Birchington-on-Sea">
-
-Stannard was keen to project ill-health on her family to deflect from her own battles with her nerves. In the _Women's Penny magazine_, it was reported that “she has passed a considerable portion of the last few years in the depths of the country, for the sake of her children’s health.”[^ref35]
-
-Stannard had suffered a still birth in [whatyear] and it is possible that between the birth of the twins in 1888 and the birth of Olive Nancy in 1895 that Stannard suffered miscarriages. It would explain her flights to the seaside on "doctors orders".
-
-In The Queen in November 1895 reviewer praised Stannard for her novel _I married a wife_ saying:
-<br>Mbr>
-“I am told that this is the first work she did at Birchington this year, when she was full of exhilaration and buoyancy at the thought that she had seen the last of depressing and much hated Merton” (853) the The Queen - Saturday 09 November 1895 
-
-Her previous book “The Magnificent Young Man” which had come out in the summer had already run into its fourth edition.
 
 Florence Fenwick Miller describes meeting her in the summer of 1895:
 <br><br>
-'when I went to see her last summer,, busy though she was, and herself in delicate health, she was preparing every day a rather elaborate infant’s food to send to keep the life in the wasting child of a poor woman in the village. The value of this food greatly depended on the trouble taken in blending the ingredients, and she would allow no other hands to prepare it, so long as the child’s life was in danger.'
+'when I went to see her last summer,, busy though she was, and herself in delicate health, she was preparing every day a rather elaborate infant’s food to send to keep the life in the wasting child of a poor woman in the village. The value of this food greatly depended on the trouble taken in blending the ingredients, and she would allow no other hands to prepare it, so long as the child’s life was in danger.'[^ref36]
+<br><br>
+After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to return to London.  She had just completed _The Strange Story of My Life_ which she had dedicated to Nancy "who was born on the day on which this story was finished".[^ref37]
+
+Stannard did not draw on the Kent landscape in her fiction.  Her novel _The Strange Story of My Life_ (1896) which was written at Birchington, is set on the continent and when her heroine Miss Massingham is asked 'You would like … to go over and see a little of the English coast?' she replies: 'I know nobody in England, I don’t feel in any way drawn towards it.'[^ref38]  Furthermore, in _The Truth-tellers_ (1896) the pleasures of the Kent coast are described as the sort of place where servants can enjoy themselves, hinting that they have no appeal for sophisticated society. Miss Mortimer’s manservant James idea of enjoying the sea 'was to spend a fortnight in Margate when his mistress was safely taking a cure at Homburg or Schwalbach. Then the faithful James might have been seen by such as knew him, arrayed in a suit of light check dittoes, with a straw hat upon his respectable head, sunning himself along the arid front, or in more select fashion enjoying the delights of the health-giving breezes at the extreme end of the pier, —the part where you pay twopence'.[^ref39] p109-10
 
 
-Stannard did not draw on the Kent landscape in her fiction.  Her novel _The Strange Story of My Life_ (1896) which she was writing at Birchington in the summer of 1895, is set on the continent and when her heroine Miss Massingham is asked 'You would like … to go over and see a little of the English coast?' she replies: 'I know nobody in England, I don’t feel in any way drawn towards it.'  Furthermore, in _The truth-tellers_ (1896) the pleasures of the Kent coast are described as the sort of place where servants can enjoy themselves, hinting that they have no appeal for sophisticated society. Miss Mortimer’s manservant James idea of enjoying the sea 'was to spend a fortnight in Margate when his mistress was safely taking a cure at Homburg or Schwalbach. Then the faithful James might have been seen by such as knew him, arrayed in a suit of light check dittoes, with a straw hat upon his respectable head, sunning himself along the arid front, or in more select fashion enjoying the delights of the health-giving breezes at the extreme end of the pier, —the part where you pay twopence'. p109-10
-
-After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to return to London.  She had just completed _The Strange Story of My Life_ which she had dedicated to Nancy "who was born on the day on which this story was finished".
 
 
 ### Bibliography
@@ -114,13 +107,16 @@ Volume: I , Issue: 1
 THE HOME OF JOHN STRANGE WINTER. Saturday,  June 16, 1894 Newcastle Courant Issue: 11448
 
 [^ref34]: Marguerite 'The World of Women', _The Penny Illustrated Paper_ 15 June 1895.
-[^ref35]:
-
+[^ref35]: The Queen - Saturday 09 November 1895.
+[^ref36]: Fenwick Miller, Florence Jan. 30, 1896 _Women's Penny Paper_ (London, England)Volume: V , Issue: 109
+[^ref37]:
+[^ref38]: Winter, John Strange. _The Story of My Life_ 1896.
+[^ref39]: Winter, John Strange. _The Truth-tellers_ 1896.
   “John Strange Winter’s book sales: the curtain lifted” St Andrews’s Citizen, 27 January 1912.
   Janet Robinson. Birchington Heritage Trust Newsletter. 58. Nov. 2016.
   
   
 [^ref11]: Drogheda Argus and Leinster Journal - Saturday 01 July 1893
 [^ref13]: Woman's Signal - Thursday 12 March 1896
-[^ref14]: Fenwick Miller, Florence Jan. 30, 1896 _Women's Penny Paper_ (London, England)Volume: V , Issue: 109
+
 
