@@ -55,7 +55,7 @@ In February 1895 Stannard was on top form, enjoying her life in London. She was 
 
 Florence Fenwick Miller describes meeting her in the summer of 1895:
 <br><br>
-'when I went to see her last summer,, busy though she was, and herself in delicate health, she was preparing every day a rather elaborate infant’s food to send to keep the life in the wasting child of a poor woman in the village. The value of this food greatly depended on the trouble taken in blending the ingredients, and she would allow no other hands to prepare it, so long as the child’s life was in danger.'[^ref35]
+'when I went to see her last summer, busy though she was, and herself in delicate health, she was preparing every day a rather elaborate infant’s food to send to keep the life in the wasting child of a poor woman in the village. The value of this food greatly depended on the trouble taken in blending the ingredients, and she would allow no other hands to prepare it, so long as the child’s life was in danger.'[^ref35]
 <br><br>
 After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to return to London.  She had just completed _The Strange Story of My Life_ which she had dedicated to Nancy "who was born on the day on which this story was finished".[^ref36] 
 
