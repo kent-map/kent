@@ -6,7 +6,8 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/a/a2/Cliff_edge_near_North_Foreland_-_geograph.org.uk_-_3129897.jpg" 
        layout="vertical">
        
-<param ve-entity eid="Q922739" title="Broadstairs">
+<param ve-entity eid="Q15680058" title="North Foreland">
+<param ve-entity eid="Q7595373" title="St Peters">
 
 #
 
