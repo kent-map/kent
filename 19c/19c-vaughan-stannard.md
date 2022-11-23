@@ -6,7 +6,7 @@
 
 #
 
-Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was born in Yorkshire, the daughter of Henry Vaughan Palmer, a cavalry officer turned clergyman. She was a popular British novelist who wrote approximately 112 books and contributed 42 short stories to the _Family Herald_ under the pseudonym of 'Violet Whyte'. 
+Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was born in Yorkshire, the daughter of Henry Vaughan Palmer, a cavalry officer turned clergyman. She was a popular novelist who wrote approximately 112 books and contributed 42 short stories to the _Family Herald_ under the pseudonym of 'Violet Whyte'. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/John_Strange_Winter_0001.jpg" attribution="Barrauds Ltd., London, (1892-1904) Reference:Michael Pritchard (1994) A Directory of London Photographers 1841-1908, Public domain, via Wikimedia Commons">
 <param data-map primary center="Q865021" zoom="10">
 
@@ -26,6 +26,7 @@ It is not certain whether her interest in product endorsement was financial or r
 <param ve-imge url="https://stor.artstor.org/stor/b8aab819-9eb5-46bf-bcdc-e0aa9d757404" label="John Strange Winter" attribution="Golden Gates, Augustine House Library, Canterbury Christ Church University">
   
 Nevertheless, family finances were unravelling at this period. Up until 1892, the Stannards had spent their summers at The White House, Wix, Manningtree, Essex, a sizable house with three sitting rooms, nine bedrooms, conservatory, garden, stabling and 200 acres of shooting.    On March 7th 1893, Stannard wrote to Leonard Phillips telling him that 'she was very far from well' adding that she was 'not sure the future may see me worse before better' and saying that she was going to 'spend the summer by the sea in comparative idleness'.[^ref13] The place that the couple chose was Montague House, Birchington on Sea, a much smaller house (an advertisement for the house in 1888 describes it as having six bedrooms, three reception rooms and a bathroom and 'the usual domestic offices'.[^ref14] London Evening Standard - Thursday 17 May 1888)  It is possible that the Stannards had to cut their cloth to suit their means and could no longer afford to lease the house at Wix due to the losses they incurred on _Golden Gates_. In April 1893, The White House was let for £35.[^ref15]  
+<param ve-image url="https://stor.artstor.org/stor/0ab7bc90-bb7a-4722-9357-bd608020dbd4" label="Letter to Mr Phillips, 7 March 1893" attribution="Augustine House Library, Canterbury Christ Church University">
 
 The Stannards may also have been avoiding Essex for other reasons. Henrietta had been sued by an Ipswich tailor for £11 11s 'being £5 5s for a superfine grey montana jacket with silk sleeves, trimmed a la militaire and £6 6s for a superfine grey montana costume complete, braided in black'[^ref16] which she had refused to pay for. She claimed that that the clothes did not fit, but the judge ruled that she should have given the tailor the opportunity to make alterations.  The report of the court case which appeared in the _East Anglian Daily Times_ in February 1892, ran to three and a half columns and portrayed Henrietta as bad-tempered and difficult.[^ref17] Although the family still visited in the summer of 1892, this was possibly their last visit. The house changed owners in [year].
 
@@ -86,7 +87,7 @@ After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to re
 [^ref10]: John Strange Winter  _Hearth and Home_ Vol. 5, Issue: 107 June 1, 1893.
 [^ref11]: John Strange Winter  _Hearth and Home_ Vol. 5, Issue: 107 June 1, 1893.
 [^ref12]:
-[^ref13]: 
+[^ref13]: Letter to leonard Philipps, March 7th 1893, John Strange Winter Collection, Canterbury Christ Church University.
 [^ref1]:  _East Anglian Daily Times_ - Thursday 26 May 1892.   
 [^ref1]:  _Essex Standard_ - Saturday 01 April 1893
 [^ref1]:  _Chelmsford Chronicle_ - Friday 19 February 1892
