@@ -33,44 +33,43 @@ The Stannards may also have been avoiding Essex for other reasons. Henrietta had
 Mrs Charlotte Talbot Coke, a fellow Yorkshire woman, an army wife, and contributor to _Winter’s Weekly_  may have recommended Birchington-on-Sea to Henrietta. Talbot Coke had visited Birchington in 1891[^ref17] and this had inspired her to think about buying a seaside cottage where she might entertain guests and give 'change and rest (rent free) to friends unable to afford seaside jaunts'.[^ref18]  Whether she did or not is uncertain, but she returns to this theme in later articles as she describes ideas for decorating a seaside home. What is known is that Stannard and Coke were working together on _Hearth and Home_ magazine, which was launched in May 1891. 
 <param ve-image url="https://stor.artstor.org/stor/15f9c416-969a-4d55-bf7a-bdea6a14b886" label="Birchington on Sea, The Square">
 
-Expressing the hope that the bracing air would improve the health of her husband Arthur and eldest daughter Audrey (known as Baeufie), Stannard took her family to Birchington in the summer of 1893.[^ref19]   The air at 'Bungalow Birchington' as it was nicknamed was said to be beneficial for those suffering with 'exhausted nerves' as it was more sheltered than places like [Margate](/19c/19c-margate) and [Ramsgate](/19c/19c-ramsgate) which were 'charged with the southerly breezes that sweep round the head of Thanet.'[^ref20]  The air was certainly bracing, but the stench of the seaweed 'was an objectionable drawback' which poisoned the air 'with a potency suggestive of typhoid fever or other miasma'[^ref21]. [Dante Gabriel Rossetti](/19c/19c-rossetti-biography) had stayed for a few months at Westcliff Bungalow in 1882 to convalesce, after a seizure, but had died whilst staying there.  
+Expressing the hope that the bracing air would improve the health of her husband Arthur and eldest daughter Audrey (known as Baeufie), Stannard took her family to Birchington in the summer of 1893.   The air at 'Bungalow Birchington' as it was nicknamed was said to be beneficial for those suffering with 'exhausted nerves' as it was more sheltered than places like [Margate](/19c/19c-margate) and [Ramsgate](/19c/19c-ramsgate) which were 'charged with the southerly breezes that sweep round the head of Thanet.'[^ref19]  The air was certainly bracing, but the stench of the seaweed 'was an objectionable drawback' which poisoned the air 'with a potency suggestive of typhoid fever or other miasma'[^ref20]. [Dante Gabriel Rossetti](/19c/19c-rossetti-biography) had stayed for a few months at Westcliff Bungalow in 1882 to convalesce, after a seizure, but had died whilst staying there.  
 <param ve-image url="https://stor.artstor.org/stor/09022d7a-17ba-48e8-8429-10f7fcbb6a46" label="The Cliffs and Bungalows, Birchington-on-sea" attribution="T. Pointer, Stationer, Birchington on Sea c.1909">
 
-It is possible that it was Henrietta whose nerves were frayed, rather than those of her family, as her relentless campaigns to attract new readers to _Winter's Weekly_ were failing. In July 1893 she had offered to post out the magazine free of charge for three months for anyone who could attract two new subscribers.[^ref22] During that summer, Henrietta had taken a break from editing _Winter’s Weekly_, resuming the editorship in August. Later that year, she endorsed Bromo-Phosph, the new brain food. she reveals 'Had I been in town I should have gone to Dr Maitland King, who did so marvellously for my nerves a few months ago, but I was simply unable to spare the necessary time, being very much pressed with work'.[^ref23]  She also fed it to her family, who 'felt better for it'.[^ref24]  Mrs [Dr] Maitland King who later wrote _The Hygeine of Womanhood_ was a specialist in obesity and nervous depression, using electricity, baths and diet in her treatment. She advocated that "rest is most essential in middle life".[^ref25] As the main bread-winner of the family (Arthur had given up engineering to manage this wife's literary career), Henrietta may have felt the additional burden of the failure of _Winter's Weekly_.
+It is possible that it was Henrietta whose nerves were frayed, rather than those of her family, as her relentless campaigns to attract new readers to _Winter's Weekly_ were failing. In July 1893 she had offered to post out the magazine free of charge for three months for anyone who could attract two new subscribers.[^ref21] During that summer, Henrietta had taken a break from editing _Winter’s Weekly_, resuming the editorship in August. Later that year, she endorsed Bromo-Phosph, the new brain food. she reveals 'Had I been in town I should have gone to Dr Maitland King, who did so marvellously for my nerves a few months ago, but I was simply unable to spare the necessary time, being very much pressed with work'.[^ref22]  She also fed it to her family, who 'felt better for it'.[^ref23]  Mrs [Dr] Maitland King who later wrote _The Hygeine of Womanhood_ was a specialist in obesity and nervous depression, using electricity, baths and diet in her treatment. She advocated that 'rest is most essential in middle life'.[^ref24] As the main bread-winner of the family (Arthur had given up engineering to manage this wife's literary career), Henrietta may have felt the additional burden of the failure of _Winter's Weekly_.
 
-The stay in Birchington stretched into the autumn. In late September, Henrietta was still enjoying the 'bracing air of Birchington' missing the Institute of Journalists’s conference week in London, Her husband Arthur attended, which seems at odds with the image that Stannard has portrayed to the public of her ailing husband.[^ref26] Against this backdrop of financial losses and illness, Henrietta was still working as hard as ever. Her 1894 novel _A Blameless Woman_ was probably written this summer. In it, her heroine Margaret North spends time 'by the side of the sea' on her doctor’s orders where 'it was very quiet and very delightful. They had no trouble, no worry, no anxiety, nothing to do but rest and regain their strength'[^ref27] This seems very different from Henrietta’s own experience. A description of her stay at Birchington the following summer, reveals that the author was still keeping up her busy schedule:
+The stay in Birchington stretched into the autumn. In late September, Henrietta was still enjoying the 'bracing air of Birchington' missing the Institute of Journalists’s conference week in London, Her husband Arthur attended, which seems at odds with the image that Stannard has portrayed to the public of her ailing husband.[^ref25] Against this backdrop of financial losses and illness, Henrietta was still working as hard as ever. Her 1894 novel _A Blameless Woman_ was probably written this summer. In it, her heroine Margaret North spends time 'by the side of the sea' on her doctor’s orders where 'it was very quiet and very delightful. They had no trouble, no worry, no anxiety, nothing to do but rest and regain their strength'[^ref26] This seems very different from Henrietta’s own experience. A description of her stay at Birchington the following summer, reveals that the author was still keeping up her busy schedule:
 <br><br>
-'Mrs Stannard does not think it wise to remain in the same house the year round, even though it be delightfully situated in the suburbs, so when Spring comes the family migrate to Montague House, Birchington Bay where they have the benefit of sea air. Still at the seashore, she keeps up her work, disappearing regularly with her shorthand writer in the morning and keeping closed doors until work is finished, when she gives herself up to romping with the children or entertaining guests for there is nearly always someone staying at the house.'[^ref28] She employed two governesses to help with the children.
+'Mrs Stannard does not think it wise to remain in the same house the year round, even though it be delightfully situated in the suburbs, so when Spring comes the family migrate to Montague House, Birchington Bay where they have the benefit of sea air. Still at the seashore, she keeps up her work, disappearing regularly with her shorthand writer in the morning and keeping closed doors until work is finished, when she gives herself up to romping with the children or entertaining guests for there is nearly always someone staying at the house.'[^ref27] She employed two governesses to help with the children.
 <br><br>
-Summers in Birchington enabled Stannard to take advantage of the regular train service to London, in order to keep up her social engagements. In May 1894, she chaired a meeting to discuss establishing a Women's Educational and Industrial Union in London and attended a house warming at the Pioneer Club.[^ref29] The following month, she was described as 'looking extremely well' at the Author's Club house warming. She also met Frances Hodgson Burnett at the invitation of Mrs Douglas Sladen[^ref30] accompanied by the American novelist William Nathaniel Harben and her husband Arthur.
+Summers in Birchington enabled Stannard to take advantage of the regular train service to London, in order to keep up her social engagements. In May 1894, she chaired a meeting to discuss establishing a Women's Educational and Industrial Union in London and attended a house warming at the Pioneer Club.[^ref28] The following month, she was described as 'looking extremely well' at the Author's Club house warming. She also met Frances Hodgson Burnett at the invitation of Mrs Douglas Sladen[^ref29] accompanied by the American novelist William Nathaniel Harben and her husband Arthur.
 <param ve-image url="https://stor.artstor.org/stor/53a636b7-822e-4430-bb05-b26f9936675a" label="Birchington Promenade">
 
-By September 1894, Stannard had written a farewell to her _Winter Weekly_ readers, pleading ill health and the editorship was handed over to Florence White. Nevertheless, despite her continuing health problems, Henrietta was still able to keep her name in the public eye during the winter of 1894 and gave an interview to reporters in Pwllheli promoting her latest book. In a newspaper article in October 1894  she is described as 'John Strange Winter only from the commencement of the day until three o’clock in the afternoon: the rest of her time is given to husband, children and friends. This rule has few exceptions, for she carries it out most faithfully throughout the entire summer in her country house at Wix, the cosiest little village in Essex.'[^ref31] Interestingly,  Wix and not Birchington is described as her summer retreat.
+By September 1894, Stannard had written a farewell to her _Winter Weekly_ readers, pleading ill health and the editorship was handed over to Florence White. Nevertheless, despite her continuing health problems, Henrietta was still able to keep her name in the public eye during the winter of 1894 and gave an interview to reporters in Pwllheli promoting her latest book. In a newspaper article in October 1894  she is described as 'John Strange Winter only from the commencement of the day until three o’clock in the afternoon: the rest of her time is given to husband, children and friends. This rule has few exceptions, for she carries it out most faithfully throughout the entire summer in her country house at Wix, the cosiest little village in Essex.'[^ref30] Interestingly,  Wix and not Birchington is described as her summer retreat.
 
-In February 1895 Stannard was on top form, enjoying her life in London. She was described as an 'entertaining raconteuse” at a charity event at the Mansion House. 'For about twenty minutes she kept her hearers in continuous laughter'.[^ref32] Two months later, however it is reported in the newspapers that 'The many admirers of Mrs Arthur Stannard may be interested in hearing that she is located at Montague House, Birchington on Sea, for the summer, having let her picturesque ivy-clad house at Merton Park. The severe strain of the popular novelist’s literary labours and the condition of her health render absolute quiet imperative, and by the doctor’s orders she will not appear at any social functions this season.[^ref33] Henrietta was pregnant and may have been having a challenging first trimester. However despite 'doctor’s orders' she appeared at the Vagabond Club dinner 'just up from her house in Birchington-on-Sea' and looking 'remarkably well' two months later.[^ref34] The Vagabond dinner was attended by over 300 people including [Sarah Grand](/19c/19c-grand-biography) and many other noted female authors. In The Queen in November 1895 reviewer praised Stannard for her novel _I married a wife_ saying:
+In February 1895 Stannard was on top form, enjoying her life in London. She was described as an 'entertaining raconteuse” at a charity event at the Mansion House. 'For about twenty minutes she kept her hearers in continuous laughter'.[^ref31] Two months later, however it is reported in the newspapers that 'The many admirers of Mrs Arthur Stannard may be interested in hearing that she is located at Montague House, Birchington on Sea, for the summer, having let her picturesque ivy-clad house at Merton Park. The severe strain of the popular novelist’s literary labours and the condition of her health render absolute quiet imperative, and by the doctor’s orders she will not appear at any social functions this season.[^ref32] Henrietta was pregnant and may have been having a challenging first trimester. However despite 'doctor’s orders' she appeared at the Vagabond Club dinner 'just up from her house in Birchington-on-Sea' and looking 'remarkably well' two months later.[^ref33] The Vagabond dinner was attended by over 300 people including [Sarah Grand](/19c/19c-grand-biography) and many other noted female authors. In The Queen in November 1895 reviewer praised Stannard for her novel _I married a wife_ saying:
 <br><br>
-'I am told that this is the first work she did at Birchington this year, when she was full of exhilaration and buoyancy at the thought that she had seen the last of depressing and much hated Merton'[^ref35]
+'I am told that this is the first work she did at Birchington this year, when she was full of exhilaration and buoyancy at the thought that she had seen the last of depressing and much hated Merton'[^ref34]
 <param ve-image url="https://stor.artstor.org/stor/53a636b7-822e-4430-bb05-b26f9936675a" label="Birchington-on-Sea">
 
 Florence Fenwick Miller describes meeting her in the summer of 1895:
 <br><br>
-'when I went to see her last summer,, busy though she was, and herself in delicate health, she was preparing every day a rather elaborate infant’s food to send to keep the life in the wasting child of a poor woman in the village. The value of this food greatly depended on the trouble taken in blending the ingredients, and she would allow no other hands to prepare it, so long as the child’s life was in danger.'[^ref36]
+'when I went to see her last summer,, busy though she was, and herself in delicate health, she was preparing every day a rather elaborate infant’s food to send to keep the life in the wasting child of a poor woman in the village. The value of this food greatly depended on the trouble taken in blending the ingredients, and she would allow no other hands to prepare it, so long as the child’s life was in danger.'[^ref35]
 <br><br>
-After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to return to London.  She had just completed _The Strange Story of My Life_ which she had dedicated to Nancy "who was born on the day on which this story was finished".[^ref37] The Stannards did not visit Birchington after this, spending the next few years in Dieppe.
+After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to return to London.  She had just completed _The Strange Story of My Life_ which she had dedicated to Nancy "who was born on the day on which this story was finished".[^ref36] 
 
-Stannard did not draw on the Kent landscape in her fiction. Her novel _The Strange Story of My Life_ (1896) which was written at Birchington, is set on the continent. When the heroine Miss Massingham is asked 'You would like … to go over and see a little of the English coast?' she replies: 'I know nobody in England, I don’t feel in any way drawn towards it.'[^ref38]  Furthermore, in _The Truth-tellers_ (1896) the pleasures of the Kent coast are described as the sort of place where servants can enjoy themselves, hinting that they have no appeal for sophisticated society. Miss Mortimer’s manservant James's idea of enjoying the sea 'was to spend a fortnight in Margate when his mistress was safely taking a cure at Homburg or Schwalbach. Then the faithful James might have been seen by such as knew him, arrayed in a suit of light check dittoes, with a straw hat upon his respectable head, sunning himself along the arid front, or in more select fashion enjoying the delights of the health-giving breezes at the extreme end of the pier, —the part where you pay twopence'.[^ref39] 
-
-
+Stannard did not draw on the Kent landscape in her fiction. _The Strange Story of My Life_ (1896) which was written at Birchington, is set on the continent. When the heroine Miss Massingham is asked 'You would like … to go over and see a little of the English coast?' she replies: 'I know nobody in England, I don’t feel in any way drawn towards it.'[^ref37]  Furthermore, in _The Truth-tellers_ (1896) the pleasures of the Kent coast are described as the sort of place where servants can enjoy themselves, hinting that they have no appeal for sophisticated society. Miss Mortimer’s manservant James's idea of enjoying the sea 'was to spend a fortnight in Margate when his mistress was safely taking a cure at Homburg or Schwalbach. Then the faithful James might have been seen by such as knew him, arrayed in a suit of light check dittoes, with a straw hat upon his respectable head, sunning himself along the arid front, or in more select fashion enjoying the delights of the health-giving breezes at the extreme end of the pier, —the part where you pay twopence'.[^ref38] 
+<br>
+The Stannards did not visit Birchington after this, spending the next few years in Dieppe. 
 
 ### Bibliography
 
 [^ref1]: Mrs Arthur Stannard at Home, _Woman’s World_, p.340.   
-[^ref2]:  Mrs Arthur Stannard at Home, _Woman’s World_, p.340.   
-[^ref3]:
-[^ref1]:  A popular novelist _Penrith Observer_ - Tuesday 06 May 1890 p6.   
-[^ref4]:  Mr Ruskin and Mrs Stannard. _Manchester Courier and Lancashire General Advertiser_ - Saturday 07 July 1894 Also Percy L. Parker _Young Woman_ - Friday 02 February 1894 p.162.   
+[^ref2]: Mrs Arthur Stannard at Home, _Woman’s World_, p.340.   
+[^ref3]: 'A popular novelist', _Penrith Observer_ - Tuesday 06 May 1890 p6.   
+[^ref4]: Mr Ruskin and Mrs Stannard. _Manchester Courier and Lancashire General Advertiser_ - Saturday 07 July 1894 Also Percy L. Parker _Young Woman_ - Friday 02 February 1894 p.162.   
 [^ref5]:  Mr Ruskin and Mrs Stannard. _Manchester Courier and Lancashire General Advertiser_ - Saturday 07 July 1894 Also Percy L. Parker _Young Woman_ - Friday 02 February 1894 p.162.   
-[^ref6]: Bainbridge, 1916, p.80.
+[^ref6]: Bainbridge, O. _John Strange Winter: a volume of personal record_ 1916, p.80.
 [^ref7]: Black, Helen. _Notable women authors of the day_ 
 [^ref8]: Dorothy Thompson, Owen R. Ashton, Robert Fyson, Stephen Roberts. _The Duty of Discontent: Essays for Dorothy Thompson._ New York: Mansell, 1995.  p.175.
 [^ref9]: _Winters Weekly_ Jan 7th 1893.
@@ -79,40 +78,28 @@ Stannard did not draw on the Kent landscape in her fiction. Her novel _The Stran
 [^ref12]: Winter, John Strange _Winter's Weekly_ March 1893.
 [^ref13]: Letter to Leonard Philipps, March 7th 1893, John Strange Winter Collection, Canterbury Christ Church University.
 [^ref14]: London Evening Standard - Thursday 17 May 1888.
-[^ref15]:  _Chelmsford Chronicle_ - Friday 19 February 1892.
-[^ref16]:  _East Anglian Daily Times_ - Thursday 26 May 1892.  
+[^ref15]: _Chelmsford Chronicle_ - Friday 19 February 1892.
+[^ref16]: _East Anglian Daily Times_ - Thursday 26 May 1892.  
 [^ref17]: Talbot Coke. _Myra's Journal of Dress and Fashion_ Vol. XX. 1 June 1894.
 [^ref18]: Talbot Coke. 'From castle to cottage',  _Hearth and Home_ Vol. XVI , Issue: 414. 20 April 1899.
-[^ref19]: 
-[^ref20]: Liverpool Mercury, 30 July 1886.
-[^ref21]: Eothen 'Flotsam and Jetsam' _Bury and Norwich Post_ 29 August 1893.
-[^ref22]:
-Thursday,  May 21, 1891  _Hearth and Home_ Volume: I , Issue: 1
-  HEARTH AND HOME
-Date: Thursday,  May 21, 1891
-Publication: Hearth and Home (UKP) (London, England)
-Volume: I , Issue: 1
-[^ref23]:  'The gifted authoress' _Northampton Chronicle and Echo_ - Monday 25 September 1893.
-[^ref24]:
-[^ref25]:
-[^ref26]:
-[^ref27]: Winter, John Strange. _A Blameless woman_ 1894, p.78.
-[^ref28]: by LBS in the San Francisco Chronicle.
-[^ref29]: South Wales Echo - Friday 25 May 1894.
-[^ref30]: The Queen - Saturday 09 June 1894.
-[^ref31]: Halifax Comet - Saturday 13 October 1894.
-[^ref32]: (Thursday,  Feb. 7, 1895 _Hearth and Home_ Vol. 8 , Issue: 195.
-[^ref33]: 'Multiple News Items', _Hearth and Home_ Vol. 8, Issue: 206, 25 April 1895.
-THE HOME OF JOHN STRANGE WINTER. Saturday,  June 16, 1894 Newcastle Courant Issue: 11448
-
-[^ref34]: Marguerite 'The World of Women', _The Penny Illustrated Paper_ 15 June 1895.
-[^ref35]: The Queen - Saturday 09 November 1895.
-[^ref36]: Fenwick Miller, Florence Jan. 30, 1896 _Women's Penny Paper_ (London, England)Volume: V , Issue: 109
-[^ref37]:
-[^ref38]: Winter, John Strange. _The Story of My Life_ 1896.
-[^ref39]: Winter, John Strange. _The Truth-tellers_ 1896. p109-10.
+[^ref19]: Liverpool Mercury, 30 July 1886.
+[^ref20]: Eothen 'Flotsam and Jetsam' _Bury and Norwich Post_ 29 August 1893.
+[^ref21]: Drogheda Argus and Leinster Journal - Saturday 01 July 1893
+[^ref22]: 'The gifted authoress' _Northampton Chronicle and Echo_ - Monday 25 September 1893.
+[^ref23]: 'The gifted authoress' _Northampton Chronicle and Echo_ - Monday 25 September 1893.
+[^ref24]: Woman's Signal - Thursday 12 March 1896
+[^ref25]: 'Conference Week of the Institute of Journalists', _Hearth and Home_, Vol. 5, Issue: 126, 12 october 1893.
+[^ref26]: Winter, John Strange. _A Blameless woman_ 1894, p.78.
+[^ref27]: 'The home of John Strange Winter', _Newcastle Courant_ Issue: 11448, 16 June 1894.
+[^ref28]: South Wales Echo - Friday 25 May 1894.
+[^ref29]: The Queen - Saturday 09 June 1894.
+[^ref30]: Halifax Comet - Saturday 13 October 1894.
+[^ref31]: (Thursday,  Feb. 7, 1895 _Hearth and Home_ Vol. 8 , Issue: 195.
+[^ref32]: 'Multiple News Items', _Hearth and Home_ Vol. 8, Issue: 206, 25 April 1895.
+[^ref33]: Marguerite 'The World of Women', _The Penny Illustrated Paper_ 15 June 1895.
+[^ref34]: The Queen - Saturday 09 November 1895.
+[^ref35]: Fenwick Miller, Florence Jan. 30, 1896 _Women's Penny Paper_ (London, England)Volume: V , Issue: 109
+[^ref36]: Winter, John Strange. _The Strange Story of My Life_ 1896.
+[^ref37]: Winter, John Strange. _The Strange Story of My Life_ 1896.
+[^ref38]: Winter, John Strange. _The Truth-tellers_ 1896. p109-10.
   
-[^ref11]: Drogheda Argus and Leinster Journal - Saturday 01 July 1893
-[^ref13]: Woman's Signal - Thursday 12 March 1896
-
-
