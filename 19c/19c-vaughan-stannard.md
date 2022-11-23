@@ -7,7 +7,7 @@
 #
 
 Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was born in Yorkshire, the daughter of Henry Vaughan Palmer, a cavalry officer turned clergyman. She was a popular novelist who wrote approximately 112 books and contributed 42 short stories to the _Family Herald_ under the pseudonym of 'Violet Whyte'. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/John_Strange_Winter_0001.jpg" attribution="Barrauds Ltd., London, (1892-1904) Reference:Michael Pritchard (1994) A Directory of London Photographers 1841-1908, Public domain, via Wikimedia Commons">
+<param ve-image url="https://stor.artstor.org/stor/b8aab819-9eb5-46bf-bcdc-e0aa9d757404" label="John Strange Winter" attribution="Golden Gates, Augustine House Library, Canterbury Christ Church University">
 <param data-map primary center="Q865021" zoom="10">
 
 Like [Edith Katherine Spicer Jay]( /19c/19c-spicer-jay-biography/), Stannard wrote tales of cavalry life under a male pseudonym. Her publisher had advised her that if her collection of stories about cavalry life was known to be the work of a woman, it would 'prejudice its success'.[^ref1]  However, when she was invited to a fish dinner in Greenwich by the editor of the _Cornhill Magazine_, she revealed her gender by saying that as 'J.S.Winter' was of the sex requiring chaperones, she must decline the invitation'.[^ref2] 
