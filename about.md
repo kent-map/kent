@@ -1,7 +1,9 @@
-.ve-header "16th Century Kent" gh:kent-map/kent/images/banners/16c.jpg sticky=true
-    - [Home](/)
-    - [About](/about)
-    
+<param ve-config 
+       title="Kent Maps Project: About"
+       layout="index">
+
+# About the site and project
+
 This site is the product of a collaboration between [JSTOR Labs](https://labs.jstor.org) and a team led by Carolyn Oulton, Professor of Victorian Literature in the School of Humanities and Educational Studies, Canterbury Christ Church University.
 
 The site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
@@ -16,11 +18,10 @@ As the map grows so too will the capacity for making unforeseen connections. Whi
 
 The project team hosts an annual [Kent Digital Maps Symposium](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/seminar-series/kent-maps-online-symposium.aspx) and has their own YouTube channel: [Kent Maps Online](https://www.youtube.com/channel/UCAIbFfzsJzaeYwVNuCeF50w).
 
-# &nbsp; {.cards}
+# Steering Group {.cards}
 
-## Steering Group 
-
-## Carolyn Oulton
+##
+[**Carolyn Oulton**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/CO_in_bookshop.jpg)
 
@@ -29,13 +30,15 @@ The project team hosts an annual [Kent Digital Maps Symposium](https://www.cante
 
 Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. While carrying out research in Dickens Land she infringed enough bye laws to get herself hanged under the Bloody Code. But it was all Pip’s fault.
 
-## Claire Bartram
+##
+[**Claire Bartram**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1da3cc93-932d-4422-b389-9af7e562dd10)
 
 Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
 
-## Michelle Crowther
+##
+[**Michelle Crowther**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/michelle.jpg)
 
@@ -43,7 +46,8 @@ Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage
 
 Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature.
 
-## Laura Allen
+##
+[**Laura Allen**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/lauraallen.jpg)
 
@@ -316,6 +320,15 @@ Andrew Sargent has written about Deal for many years. He is the author of "Drink
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maxsaunders.jpg)
 
 Professor Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of _Ford Madox Ford: A Dual Life_ (2 vols, 1996; paperback 2012); _Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature_ (2010); and _Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series,_ 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020).
+
+##
+[**Malcolm Shifrin**]
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2e072cc4-b827-4291-84db-6c363579f781)
+
+twitter: @VicTurkBath
+
+Malcolm Shifrin, after ten years as a school librarian, moved in 1970 to be Deputy Media Librarian at the ILEA’s innovative Media Resources Centre. As Head of its Central Library Resources Service, he retired in 1985, just prior to Thatcher’s much lamented abolition of the ILEA. Becoming interested in the completely unresearched Victorian Turkish Bath, he gained an MA in Modern History at Royal Holloway, London and in 1999 began his ongoing website http://www.victorianturkishbath.org Arising from the publication of his 2015 book Victorian Turkish Baths, commissioned by Historic England, he was elected a Fellow of the Royal Historical Society.
 
 ##
 [**Hayley Smith**]()
