@@ -1,7 +1,7 @@
-<param ve-config 
-       title="Kent Maps Project: About"
-       layout="index">
-
+.ve-header "16th Century Kent" gh:kent-map/kent/images/banners/16c.jpg sticky=true
+    - [Home](/)
+    - [About](/about)
+    
 # About the site and project
 
 This site is the product of a collaboration between [JSTOR Labs](https://labs.jstor.org) and a team led by Carolyn Oulton, Professor of Victorian Literature in the School of Humanities and Educational Studies, Canterbury Christ Church University.
@@ -18,7 +18,10 @@ As the map grows so too will the capacity for making unforeseen connections. Whi
 
 The project team hosts an annual [Kent Digital Maps Symposium](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/seminar-series/kent-maps-online-symposium.aspx) and has their own YouTube channel: [Kent Maps Online](https://www.youtube.com/channel/UCAIbFfzsJzaeYwVNuCeF50w).
 
-# Steering Group {.cards}
+
+# &nbsp; {.cards}
+
+# Steering Group 
 
 ##
 [**Carolyn Oulton**]()
