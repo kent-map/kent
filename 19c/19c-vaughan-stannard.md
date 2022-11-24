@@ -68,6 +68,8 @@ After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to re
 Stannard did not draw on the Kent landscape in her fiction. _The Strange Story of My Life_ (1896) which was written at Birchington, is set on the continent. When the heroine Miss Massingham is asked 'You would like … to go over and see a little of the English coast?' she replies: 'I know nobody in England, I don’t feel in any way drawn towards it.'[^ref37]  Furthermore, in _The Truth-tellers_ (1896) the pleasures of the Kent coast are described as the sort of place where servants can enjoy themselves, hinting that they have no appeal for sophisticated society. Miss Mortimer’s manservant James's idea of enjoying the sea 'was to spend a fortnight in Margate when his mistress was safely taking a cure at Homburg or Schwalbach. Then the faithful James might have been seen by such as knew him, arrayed in a suit of light check dittoes, with a straw hat upon his respectable head, sunning himself along the arid front, or in more select fashion enjoying the delights of the health-giving breezes at the extreme end of the pier, —the part where you pay twopence'.[^ref38] 
 <br><br>
 The Stannards did not visit Birchington after this, spending the next few years in Dieppe. 
+<br><br>
+This article was published: 23 November 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/The_jetty%2C_Margate%2C_Kent%2C_England%2C_ca._1897.jpg" label="The Jetty, Margate, Kent" attribution="Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
 
 ### Bibliography
