@@ -322,7 +322,7 @@ Andrew Sargent has written about Deal for many years. He is the author of "Drink
 Professor Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of _Ford Madox Ford: A Dual Life_ (2 vols, 1996; paperback 2012); _Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature_ (2010); and _Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series,_ 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020).
 
 ##
-[**Malcolm Shifrin**]
+[**Malcolm Shifrin**]()
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2e072cc4-b827-4291-84db-6c363579f781)
 
