@@ -14,7 +14,7 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/92a76fb8-2dd9-4c8f-9ab4-875516a84afc)
 
-xxx
+Poet Laureate Alfred Austin lived at Swinford Old Manor near Ashford.
 
 ## Edmund Blunden {href=/20c/20c-blunden-biography}
 
@@ -52,6 +52,6 @@ The Storr family lived at Brenchley where they wrote poetry including the _Minno
 
 ## Impressions from a bolt hole {href=/21c/impressions}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d)
 
-xxx
+Low tide. Light breeze. To the north Deal pier waddles seawards towards France, a concrete centipede on rigid legs straddling the falling tide.
