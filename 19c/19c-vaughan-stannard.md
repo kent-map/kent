@@ -58,7 +58,7 @@ In February 1895 Stannard was on top form, enjoying her life in London. She was 
 'I am told that this is the first work she did at Birchington this year, when she was full of exhilaration and buoyancy at the thought that she had seen the last of depressing and much hated Merton'[^ref34]
 <param ve-image url="https://stor.artstor.org/stor/a78455f0-f0a9-4503-9462-be94921420fa" label="View from Montague House">
 
-Florence Fenwick Miller describes meeting her in the summer of 1895:
+Florence Fenwick Miller describes meeting Stannard in the summer of 1895:
 <br><br>
 'when I went to see her last summer, busy though she was, and herself in delicate health, she was preparing every day a rather elaborate infant’s food to send to keep the life in the wasting child of a poor woman in the village. The value of this food greatly depended on the trouble taken in blending the ingredients, and she would allow no other hands to prepare it, so long as the child’s life was in danger.'[^ref35]
 <br><br>
