@@ -26,7 +26,7 @@ xxx
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/7ffe348d-6a60-4e8c-a0ff-fb8a532acc78)
 
-xxx
+The Romantic poet John Keats, whose short but remarkable career and early death from tuberculosis at the age of twenty-five have made him one of the most known and best loved poets of all time, holidayed in Margate on two occasions in the summer and early autumn of 1816 and again in the summer of 1817.
 
 ## Wilfred Owen {href=/20c/owen-biography}
 
@@ -38,13 +38,13 @@ xxx
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09022d7a-17ba-48e8-8429-10f7fcbb6a46)
 
-xxx
+Dante Gabriel Rossetti was a prolific English poet, painter, and illustrator of the Pre-Raphaelite movement. His sister Christina was a poet. In 1882 he came to Birchington for the sea air, but he died and is buried there.
 
 ## Francis Storr {href=/19c/storr-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
 
-xxx
+The Storr family lived at Brenchley where they wrote poetry including the _Minnows from Brenchley Brook_ published in 1861.
 
 ## Crab and Winkle {href=/21c/crab-and-winkle}
 
