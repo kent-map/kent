@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)
 
+The Kent coast and countryside has provided inspiration for poets throughout the centuries.
+
 # &nbsp; {.cards}
 
 ## Henry Gardiner Adams {href=/19c/gardiner-adams-biography}
