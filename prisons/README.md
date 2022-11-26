@@ -1,4 +1,4 @@
-.ve-header "Prisons and Discipline" gh:https://stor.artstor.org/stor/8b87d15d-5d86-4784-ab72-8dad919689c2 sticky=true
+.ve-header "Prisons and Discipline" gh:kent-map/images/prisons/prisons sticky=true
     - [Home](/)
     - [About](/about)
 
