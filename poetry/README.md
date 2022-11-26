@@ -48,10 +48,6 @@ Dante Gabriel Rossetti was a prolific English poet, painter, and illustrator of 
 
 The Storr family lived at Brenchley where they wrote poetry including the _Minnows from Brenchley Brook_ published in 1861.
 
-## Crab and Winkle {href=/21c/crab-and-winkle}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
-
 ## Impressions from a bolt hole {href=/21c/impressions}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d)
