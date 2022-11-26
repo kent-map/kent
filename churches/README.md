@@ -1,4 +1,4 @@
-.ve-header "18th Century Kent" gh:kent-map/kent/images/banners/18c.jpg sticky=true
+.ve-header "18th Century Kent" gh:https://stor.artstor.org/stor/cc8a3415-e232-4db4-8a21-98b6d9539b2a sticky=true
     - [Home](/)
     - [About](/about)
 
