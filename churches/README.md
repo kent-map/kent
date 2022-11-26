@@ -1,7 +1,8 @@
-<param ve-config 
-       title="The Built Environment"
-       banner="https://stor.artstor.org/stor/cc8a3415-e232-4db4-8a21-98b6d9539b2a"
-       layout="index">
+.ve-header "18th Century Kent" gh:kent-map/kent/images/banners/18c.jpg sticky=true
+    - [Home](/)
+    - [About](/about)
+
+Kent#s public institutions, memorials, monuments and historic buildings.
 
 # &nbsp; {.cards}
 
