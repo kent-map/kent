@@ -6,7 +6,7 @@ The Kent coast and countryside has provided inspiration for poets throughout the
 
 # &nbsp; {.cards}
 
-## Henry Gardiner Adams {href=/19c/gardiner-adams-biography}
+## Henry Gardiner Adams {href=19c/gardiner-adams-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ab25bcd6-9bdf-4d71-8385-1ea957703c5a)
 
@@ -24,25 +24,25 @@ Poet Laureate Alfred Austin lived at Swinford Old Manor near Ashford.
 
 'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!'
 
-## John Keats {href=/19c/keats-biography}
+## John Keats {href=19c/19c-keats-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/7ffe348d-6a60-4e8c-a0ff-fb8a532acc78)
 
 The Romantic poet John Keats, whose short but remarkable career and early death from tuberculosis at the age of twenty-five have made him one of the most known and best loved poets of all time, holidayed in Margate on two occasions in the summer and early autumn of 1816 and again in the summer of 1817.
 
-## Wilfred Owen {href=/20c/owen-biography}
+## Wilfred Owen {href=/20c/20c-owen-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/94ab5b11-f726-4067-8c5b-46b3c295fad6)
 
 'My last hours in England were brightened by a bathe in the fair green Channel, in company of the best piece of Nation left in England – a Harrow boy, of superb intellect and refinement because of the way he spoke of my going away; and the way he spoke of the Sun; and of the Sea, and the Air; and everything.'
 
-## Dante Gabriel and Christina Rossetti {href=/19c/rossetti-biography}
+## Dante Gabriel and Christina Rossetti {href=/19c/19c-rossetti-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/09022d7a-17ba-48e8-8429-10f7fcbb6a46)
 
 Dante Gabriel Rossetti was a prolific English poet, painter, and illustrator of the Pre-Raphaelite movement. His sister Christina was a poet. In 1882 he came to Birchington for the sea air, but he died and is buried there.
 
-## Francis Storr {href=/19c/storr-biography}
+## Francis Storr {href=/19c/19c-storr-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
 
