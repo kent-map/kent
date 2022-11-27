@@ -20,7 +20,7 @@ Many convalescent homes were established in Kent, with its temperate seaside cli
 
 ## The Hidden Gems of Parochial Kent {href=/churches/overview}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff238281-c64f-4ce8-9172-75d3eaa3901b)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
 
 Kent is not only the garden of England, it is also the first landing site of Christianity in Britain. St Augustine began his mission to convert the Britons to Christianity in Canterbury.
 
