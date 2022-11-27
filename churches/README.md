@@ -1,8 +1,8 @@
-.ve-header "18th Century Kent" gh:https://stor.artstor.org/stor/cc8a3415-e232-4db4-8a21-98b6d9539b2a sticky=true
+.ve-header "The Built Environment" gh:https://stor.artstor.org/stor/cc8a3415-e232-4db4-8a21-98b6d9539b2a sticky=true
     - [Home](/)
     - [About](/about)
 
-Kent#s public institutions, memorials, monuments and historic buildings.
+Kent's public institutions, memorials, monuments and historic buildings.
 
 # &nbsp; {.cards}
 
@@ -20,7 +20,7 @@ Many convalescent homes were established in Kent, with its temperate seaside cli
 
 ## The Hidden Gems of Parochial Kent {href=/churches/overview}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/76/Folkestone._St._Mary%27s_Church_LCCN2017659195.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff238281-c64f-4ce8-9172-75d3eaa3901b)
 
 Kent is not only the garden of England, it is also the first landing site of Christianity in Britain.
 
