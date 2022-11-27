@@ -44,11 +44,11 @@ Dante Gabriel Rossetti was a prolific English poet, painter, and illustrator of 
 
 ## Francis Storr {href=/19c/19c-storr-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/24/FMIB_44078_Minnows_-_Hydrargyra%3B_Auctorum.jpeg)
 
 The Storr family lived at Brenchley where they wrote poetry including the _Minnows from Brenchley Brook_ published in 1861.
 
-## Impressions from a bolt hole {href=/21c/impressions}
+## Impressions from a bolt hole {href=/21c/21c-impressions-hirst}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d)
 
