@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Joseph Pyke (1824-1902?)" author="Irina Fridman" layout="vtl" banner="https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21">
+<param ve-config title="Joseph Pyke (1824-1902)" author="Irina Fridman" layout="vtl" banner="https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21">
 
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-entity eid="Q729006" aliases="Chatham">
