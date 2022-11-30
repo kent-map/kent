@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Rochester and Chatham – the pioneers of Jewish emancipation" author="Irina Fridman" layout="vtl" banner="https://stor.artstor.org/stor/43be2313-69a2-4436-8db8-978f300d40bb"> 
+<param ve-config title="Rochester and Chatham – the pioneers of Jewish emancipation" author="Irina Fridman" layout="vtl" banner="https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21"> 
 
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-entity eid="Q729006" aliases="Chatham">
