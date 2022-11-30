@@ -92,7 +92,9 @@
 
 [Contagious Disesases Acts](19c-contagious-diseases)   
 [Hoodening](19c-hoodening)  
-[Leather and Dust](/dickens/19c-leather-and-dust)
+[Jewish Emancipation](19c-jewish-emancipation)   
+[Leather and Dust](/dickens/19c-leather-and-dust)   
+
 
 ### Texts
 
