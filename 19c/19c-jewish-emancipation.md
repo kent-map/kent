@@ -1,27 +1,27 @@
 Rochester and Chatham – the pioneers of Jewish emancipation
 
-In 1829 the Roman Catholic Relief Act resulted in emancipation of Roman Catholics and Protestant Dissenters. However, the hope that the act will also put an end to Jewish disabilities were dashed when the House of Lords introduced the words ‘On the true faith of a Christian’ into the oath as a prerequisite upon taking public office. The wording left Jews as the only section of the English population excluded from politics by their faith.1 A campaign for equal rights, which was to last for decades, began.
+In 1829 the Roman Catholic Relief Act resulted in emancipation of Roman Catholics and Protestant Dissenters. However, the hope that the act will also put an end to Jewish disabilities were dashed when the House of Lords introduced the words ‘On the true faith of a Christian’ into the oath as a prerequisite upon taking public office. The wording left Jews as the only section of the English population excluded from politics by their faith.[^ref1] A campaign for equal rights, which was to last for decades, began.
 
-In 1835, following the Municipal Corporation Act, the city of Rochester, probably the only municipal body in the country, removed the requirement of the clause ‘On the true faith of a Christian’, ultimately paving way for non-Christians to take office. Nine years later, the parliament passed Act of the Relief of Persons of the Jewish Religion which allowed Jews to participate in local affairs.2 In December 1850 John Lewis Levy, together with John Foord, Stephen Steele and Edwards Robert Coles, was appointed magistrate to the city – the first Jewish magistrate in the country.3 
+In 1835, following the Municipal Corporation Act, the city of Rochester, probably the only municipal body in the country, removed the requirement of the clause ‘On the true faith of a Christian’, ultimately paving way for non-Christians to take office. Nine years later, the parliament passed Act of the Relief of Persons of the Jewish Religion which allowed Jews to participate in local affairs.[^ref2] In December 1850 John Lewis Levy, together with John Foord, Stephen Steele and Edwards Robert Coles, was appointed magistrate to the city – the first Jewish magistrate in the country.[^ref3] 
 
-In comparison with Rochester, Chatham was governed by Court Leet – a remnant form of governance from feudal days. It would be Chatham, with its antiquated form of governance, with its rather hostile environment, with its filthy streets and perpetually drunk soldiers and sailors - described by the historian R.G.Hobbes as ‘the wickedest place in the world’4 - that would prove to be the pioneer of Jewish emancipation in the whole country. On 10 November 1854 following the local elections Charles Isaacs, a Liberal, then in his early thirties, was elected High Constable of the borough for the ensuing year. It was the first instance in England for a Jew to fill a principal office. David Salomons, who until now was thought to be the first Jewish mayor in the country, was elected Lord Mayor of London in 1855.
+In comparison with Rochester, Chatham was governed by Court Leet – a remnant form of governance from feudal days. It would be Chatham, with its antiquated form of governance, with its rather hostile environment, with its filthy streets and perpetually drunk soldiers and sailors - described by the historian R.G.Hobbes as ‘the wickedest place in the world’[^ref4] - that would prove to be the pioneer of Jewish emancipation in the whole country. On 10 November 1854 following the local elections Charles Isaacs, a Liberal, then in his early thirties, was elected High Constable of the borough for the ensuing year. It was the first instance in England for a Jew to fill a principal office. David Salomons, who until now was thought to be the first Jewish mayor in the country, was elected Lord Mayor of London in 1855.
 It was the time of the Crimean war. Chatham was swollen with troops getting ready for the front or coming back on leave. Local hospitals were full of the wounded and the convalescing. On 6 March 1855 [Queen Victoria](/19c/19c-victoria-biography) paid a visit to the town and public hospitals in Chatham and its vicinity and inspected the patients who had recently arrived from the Crimea. 
 
 The queen was hosted by the High Constable Charles Isaacs. At Fort Pitt Hospital, Her Majesty was given a tour by a Jewish surgeon, Dr Jacob Solomon, an alien and a refugee from Cracow, who was left in charge of the hospital, as the army medical staff had been sent to the front line.  
-In 1856 Chatham’s Court Leet unanimously elected another member of Chatham Jewish community – John Montagu Marks. During his tenure as high constable, Marks led the opposition to the Admiralty’s decision to reduce the dockyard workers’ pay to 12 shillings a week. He considered the proposed pay to be almost lower than that of a soldier. The latter received 7s 7d per week with fuel and no rent, as a result being better off than a labourer. Marks’s suggestion was to write to other dockyard towns, to induce them to take part in the movement, as Chatham alone would not have an effect on the Lords of the Admiralty.5 
-In the 1850s the anti-Jewish campaign was rapidly gathering pace. A familiar trope of ‘un-Christianising’ raised its head again, as it did all previous times. If it was acceptable for the laws of a Christian country to be managed by Jews, the country would be in great jeopardy if non-Christians were permitted to be part of the making of the laws.6 
-
+In 1856 Chatham’s Court Leet unanimously elected another member of Chatham Jewish community – John Montagu Marks. During his tenure as high constable, Marks led the opposition to the Admiralty’s decision to reduce the dockyard workers’ pay to 12 shillings a week. He considered the proposed pay to be almost lower than that of a soldier. The latter received 7s 7d per week with fuel and no rent, as a result being better off than a labourer. Marks’s suggestion was to write to other dockyard towns, to induce them to take part in the movement, as Chatham alone would not have an effect on the Lords of the Admiralty.[^ref5] 
+In the 1850s the anti-Jewish campaign was rapidly gathering pace. A familiar trope of ‘un-Christianising’ raised its head again, as it did all previous times. If it was acceptable for the laws of a Christian country to be managed by Jews, the country would be in great jeopardy if non-Christians were permitted to be part of the making of the laws.[^ref6] 
+<br><br>
 A bill ‘for the relief of Her Majesty’s subjects professing the Jewish religion’ passed through both houses of parliament and received Royal Assent only on its fifth attempt, in July 1858.
-
-The above article is based on a chapter from _Foreigners, Aliens, Citizens_.. Some of the original references are below.
+<br><br>
+This article is based on a chapter from _Foreigners, Aliens, Citizens_.. Some of the original references are below. It was published on 30 Novmber 2022.
 
 ### References:
-[^ref1]:	Roth, Cecil (1949) _A History of the Jews in England_. 2nd ed. Oxford: Clarendon Press, p249
-[^ref2]:	Wolf, Lucien (1898) ‘The Queen’s Jewry – 1837-97’, _The Jewish Yearbook 1897-98_ (5658), p317
-[^ref3]:	_Kentish Independent_ 23/12/1850
-[^ref4]:	Hobbes, R.G. (1895) Reminiscences and Notes of Seventy years’ Life, Travel and Adventure; Military and Civil; Scientific and Literary. v2; London: Elliot Stock, p103
-[^ref5]:	SE Gazette 10/2/1857
-[^ref6]:	Jewish Chronicle 13/5/1859
+[^ref1]: Roth, Cecil (1949) _A History of the Jews in England_. 2nd ed. Oxford: Clarendon Press, p249.   
+[^ref2]:	Wolf, Lucien (1898) ‘The Queen’s Jewry – 1837-97’, _The Jewish Yearbook 1897-98_ (5658), p317.   
+[^ref3]:	_Kentish Independent_ 23/12/1850   
+[^ref4]:	Hobbes, R.G. (1895) Reminiscences and Notes of Seventy years’ Life, Travel and Adventure; Military and Civil; Scientific and Literary. v2; London: Elliot Stock, p103.   
+[^ref5]:	SE Gazette 10/2/1857.   
+[^ref6]:	Jewish Chronicle 13/5/1859.   
 
 
 
