@@ -36,7 +36,9 @@ In 1888, Evelyn Underhill (1875-1941) was a pupil at Sandgate House boarding sch
 <br><br>
 The antiquarian and writer, Wilfred Cripps (1841-1903), regularly visited Farleigh House throughout the 1870s-1890s. He was known for his writing on antique silver plate. 
 <br><br>
-[Edith Katherine Spicer Jay]( https://kent-maps.online/19c/19c-spicer-jay-biography/) moved to the south coast for the climate in the 1890s and was inspired by the soldiers at Shorncliffe Barracks to write tales of military life. [Florence Warden]( https://kent-maps.online/19c/19c-florence-warden-biography/) former actress turned writer spent some time here at the same period.  
+[Edith Katherine Spicer Jay]( https://kent-maps.online/19c/19c-spicer-jay-biography/) moved to the south coast for the climate in the 1890s and was inspired by the soldiers at Shorncliffe Barracks to write tales of military life.  
+<br>
+[Florence Warden]( https://kent-maps.online/19c/19c-florence-warden-biography/) former actress turned writer spent some time here at the same period.  
 <param ve-image url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" label="1st Royal Scots Regt. at the Shorncliffe Barracks" attribution="Kent Maps Online Postcard Collection"> 
 
 Not long after this, [H.G. Wells](https://kent-maps.online/20c/20c-wellshg-biography/ ) moved to Beach Cottage  on the advice of his doctors, then later Arnold House, before commissioning his own house near the Riviera. He entertained many of the leading writers of the day here, including George Bernard Shaw, Henry James, Arnold Bennett, and [Joseph Conrad]( https://kent-maps.online/19c/19c-conrad-biography/).[^ref10]  His novel _The Sea Lady_ is set in Sandgate.
