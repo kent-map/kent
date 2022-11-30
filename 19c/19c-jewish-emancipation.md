@@ -22,7 +22,7 @@ In the 1850s the anti-Jewish campaign was rapidly gathering pace. A familiar tro
 <br><br>
 A bill ‘for the relief of Her Majesty’s subjects professing the Jewish religion’ passed through both houses of parliament and received Royal Assent only on its fifth attempt, in July 1858.
 <br><br>
-This article is based on a chapter from Fridman, I. (2020) _Foreigners, Aliens, Citizens – Medway and its Jewish community, 1066-1939_. Faversham: Birch Leaf.. Some of the original references are below. It was published on 30 November 2022.
+This article is based on a chapter from Fridman, I. (2020) _Foreigners, Aliens, Citizens – Medway and its Jewish community, 1066-1939_. Faversham: Birch Leaf. Some of the original references are below. It was published on 30 November 2022.
 
 ### References:
 [^ref1]: Roth, Cecil (1949) _A History of the Jews in England_. 2nd ed. Oxford: Clarendon Press, p249.   
