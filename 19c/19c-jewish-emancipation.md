@@ -2,14 +2,11 @@
 
 <param ve-config title="Rochester and Chatham – the pioneers of Jewish emancipation" author="Irina Fridman" layout="vtl" banner="https://stor.artstor.org/stor/43be2313-69a2-4436-8db8-978f300d40bb"> 
 
-<param ve-entity eid="Q865021" aliases="Birchington">
-Q507517 Rochester
-Q729006 Chatham
-Q17664052 Fort Pitt
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q729006" aliases="Chatham">
+<param ve-entity eid="Q17664052" aliases="Fort Pitt">
 
 #
-
-Rochester and Chatham – the pioneers of Jewish emancipation
 
 In 1829 the Roman Catholic Relief Act resulted in emancipation of Roman Catholics and Protestant Dissenters. However, the hope that the act will also put an end to Jewish disabilities were dashed when the House of Lords introduced the words ‘On the true faith of a Christian’ into the oath as a prerequisite upon taking public office. The wording left Jews as the only section of the English population excluded from politics by their faith.[^ref1] A campaign for equal rights, which was to last for decades, began.
 
