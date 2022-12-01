@@ -32,6 +32,10 @@ A bill ‘for the relief of Her Majesty’s subjects professing the Jewish relig
 This article is based on a chapter from Fridman, I. (2020) _Foreigners, Aliens, Citizens – Medway and its Jewish community, 1066-1939_. Faversham: Birch Leaf. Some of the original references are below. It was published on 30 November 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Lionel_de_Rothschild_HOC.jpg" label="Lionel Nathan de Rothschild introduced in the House of Commons on 26 July 1858 by Lord John Russell and Mr Abel Smith" attribution="Henry Barraud, Public domain, via Wikimedia Commons">
 
+### Bibliography
+Fridman, I. (2020) _Foreigners, Aliens, Citizens – Medway and its Jewish community, 1066-1939._ Faversham: Birch Leaf.   
+[Irina Fridman - Author "Foreigners, Aliens, Citizens" - charting the history of Jewish people in UK](https://youtu.be/c6Xe78hFk9g)   
+
 ### References:
 [^ref1]: Roth, Cecil (1949) _A History of the Jews in England_. 2nd ed. Oxford: Clarendon Press, p249.   
 [^ref2]:	Wolf, Lucien (1898) ‘The Queen’s Jewry – 1837-97’, _The Jewish Yearbook 1897-98_ (5658), p317.   
