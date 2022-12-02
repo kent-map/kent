@@ -57,13 +57,13 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 
 ## Fran Allfrey
 
-![](https://dev.visual-essays.app/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran%20Allfrey.jpeg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran%20Allfrey.jpeg)
 
 Dr Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity, and the emotional, social, and political stakes of these remakings.
 
 ## Brooke Altringham
 
-![](https://dev.visual-essays.app/thumbnail?url=https://stor.artstor.org/stor/acf6f2e4-49ee-4f4a-a658-4c9a030016a6)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/acf6f2e4-49ee-4f4a-a658-4c9a030016a6)
 
 Brooke Altringham is a history student with a passion for twentieth century history.
 
@@ -83,7 +83,7 @@ Dr Sophie Baldock holds a PhD from the University of Sheffield. Her research foc
 
 ## Alexa Barrett
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Headshot%20Image%20.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Alexa_Barrett.jpg)
 
 - twitter: @Alexawriting
 
@@ -103,7 +103,7 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 
 ## Bethia Carter
 
-![](https://iiif.juncture-digital.org/thumbnail?rotation=90&amp;url=https://stor.artstor.org/stor/e4b386b3-b426-4a1a-ba34-d96729dc8b0f)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e4b386b3-b426-4a1a-ba34-d96729dc8b0f)
 
 Bethia Carter is currently in her third year studying at Canterbury Christ Church University, for a BA (Hons) degree in English Language and Communication and French. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
 
@@ -148,7 +148,7 @@ Dr Michael Goodrum is a Senior Lecturer in Modern History at CCCU. His most rece
 
 ## Maggie Harris
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maggie%20photo%20Westgate.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maggie_photo_Westgate.jpg)
 
 Maggie Harris is a Guyanese writer living in Kent. Winner of the Guyana Prize for Literature and Regional Winner of the Commonwealth Short Story Prize, she has taught Creative Writing at Kent and was International Fellow at Southampton University. Her poetry is published by Cane Arrow Press, and her short stories by Cultured Llama and Seren. Photo by Eleanor Marriot.
 
@@ -287,7 +287,7 @@ Professor Max Saunders is Interdisciplinary Professor of Modern Literature and C
 
 ## Malcolm Shifrin
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2e072cc4-b827-4291-84db-6c363579f781)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/malcolm_shifrin.jpg)
 
 - twitter: @VicTurkBath
 
