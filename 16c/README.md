@@ -38,7 +38,7 @@ With invasion threatening, Kent mobilised its forces, but did it leave the coast
 
 ## Leonard and Thomas Digges {href=16c-digges-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4d/Bodleian_Libraries%2C_Cantii%2C_Southsexiae%2C_Surriae_et_Middlesexiae_Comitat_Vera_Descriptio.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/7a877f4a-6508-41b5-a9e5-3cf48a4e1566)
 
 Father and son who were learned mathematicians in Kent in the sixteenth century.
 
