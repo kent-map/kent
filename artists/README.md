@@ -32,7 +32,7 @@ Gould, who was born in Ramsgate, contributed invaluably to the world of ornithol
 
 ## Donald Maxwell {href=/20c/20c-maxwelld-biography/}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/45/%27Our_fathers_have_told_us%27_%2C_HMS_%27Actaeon%27%2C_1918_RMG_PU6219.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/621c9fa5-d0fd-44c4-8dd0-3b43ccb05a32)
 
 Maxwell used his writing and illustration to infuse the industrial and everyday with a sense of the exotic or the magical. 
 
