@@ -15,11 +15,13 @@ On 15 October 1987 weather forecaster Michael Fish had no idea that he would bec
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Folkestone_Harbour_1980_-_geograph.org.uk_-_63040.jpg" label="Folestone Harbour. Taken in 1980 when regular cross channel ferries operated out of Folkestone" attribution="Crispin Purdye" license="CC BY-SA 2.0">
 
 The leopard returned home a few days later, and in December seven saplings were planted in Sevenoaks. But damage to Winston Churchill’s home at Chartwell included the destruction of a horseshoe of beeches, leaving the view ‘shredded’. Another National Trust property to be badly affected, Toys Hill, had been gifted to the nation by Octavia Hill. Fallen trees were left on the ground to create an ‘exclusion zone’ that serves to this day as a tangible reminder of the devastation. 
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/02/Entering_Toys_Hill_-_geograph.org.uk_-_2463533.jpg" label="Entering Toys Hill" attribution="N Chadwick" license="CC BY-SA 2.0">
+
 When the St Jude Storm reached the UK on 27 October 2013 Michael Fish urged caution, but joked that people would say it ‘served him right’ when a tree fell down in his garden.
 <br><br>
 Research by Charlie, Elizabeth, Hannah, Lewis, Niamh, Polina.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/02/Entering_Toys_Hill_-_geograph.org.uk_-_2463533.jpg" label="Entering Toys Hill" attribution="N Chadwick" license="CC BY-SA 2.0">
+<param ve-image url="https://stor.artstor.org/stor/67b64280-c709-4af8-b956-9fc90495f2b5" label="Trees down at Hothfield" attribution="Nick Onslow">
+<param ve-image url="https://stor.artstor.org/stor/b3e5ac31-fe7f-4431-9f93-275525821e72" label="Trees down at Hothfield" attribution="Nick Onslow">
 
 ### Bibliography
 
