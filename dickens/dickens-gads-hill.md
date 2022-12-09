@@ -27,6 +27,7 @@ Or you can simply explore this map of [Dickens'sHigham](https://www.charlesdicke
 Dickens, Charles. ‘Travelling Abroad’. http://www.djo.org.uk/all-the-year-round/volume-ii/page-557.html   
 Hughes, William R. _A Week’s Tramp in Dickens Land_. London: Chapman and Hall, 1893 [first published 1891].   
 Kitton, Frederick G. _The Dickens Country_. London: A. & C. Black, 1925 [first published 1905].   
+<param ve-image url="https://stor.artstor.org/stor/b5328bf9-b585-46a9-8a1e-fbe227fe10af" label="Cricket at Gad's Hill Place, Rochester" attribution="By permission of Heritage Images, London">
 
 ### References
 
