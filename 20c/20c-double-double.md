@@ -18,5 +18,4 @@ _Double, Double_ is not very good, and it has not aged well. The language of the
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Waldens%27_Caravan_Park%2C_Seasalter_-_geograph.org.uk_-_772645.jpg" label="Walden's Caravan Park, Seasalter" attribution="Elliott Simpsonr">
 
 ### Bibliography
-
 Brunner, John. _Double Double_. Sidgwick and Jackson, 1971.
