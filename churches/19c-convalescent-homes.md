@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Convalescent Homes" author="Hosanna Krienke Swanner" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Convalescent Homes" author="Hosanna Krienke" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q1020364" aliases="Swanley">
