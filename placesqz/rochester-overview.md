@@ -17,13 +17,18 @@
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860">
 
-'Bright and pleasant was the sky, balmy the air, and beautiful the appearance of every object around, as Mr. Pickwick leaned over the balustrades of Rochester Bridge, contemplating nature, and waiting for breakfast. The scene was indeed one which might well have charmed a far less reflective mind, than that to which it was presented'. _Pickwick Papers_
+'An ancient city, Cloisterham, and no meet dwelling-place for any one with hankerings after the noisy world. A monotonous, silent city, deriving an earthy flavour throughout from its Cathedral crypt, and so abounding in vestiges of monastic graves, that the Cloisterham children grow small salad in the dust of abbots and abbesses, and make dirt-pies of nuns and friars; while every ploughman in its outlying fields renders to once puissant Lord Treasurers, Archbishops, Bishops, and such-like, the attention which the Ogre in the story-book desired to render to his unbidden visitor, and grinds their bones to make his bread.'
+
+<br>
+Charles Dickens's fictionalised Rochester as Cloisterham in his novel _The Mystery of Edwin Drood_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Rochester_Bridge_RMG_PW2055.tiff" label="Rochester Bridge c.1884" attribution="William Lionel Wyllie, Public domain, via Wikimedia Commons">
+
+'Bright and pleasant was the sky, balmy the air, and beautiful the appearance of every object around, as Mr. Pickwick leaned over the balustrades of Rochester Bridge, contemplating nature, and waiting for breakfast. The scene was indeed one which might well have charmed a far less reflective mind, than that to which it was presented'. _Pickwick Papers_
 
 Rochester has had many illustrious visitors. Henry VIII met Ann of Cleves in the town. ELizabeth I stayed there.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/18/Frederick_Nash_-_Rochester_Cathedral_and_Castle_-_Google_Art_Project.jpg" label="Rochester Cathedral and Castle" attribution="Frederick Nash, Public domain, via Wikimedia Commons">
 
-The dramatist and courtier, [John Lyly](/16c/16c-lyly-biography), may have been born in Rochester c. 155 and set his 'realistic' comedy 'Mother Bombie' in the town.
+The dramatist and courtier, [John Lyly](/16c/16c-lyly-biography), may have been born in Rochester c. check date 155 and set his 'realistic' comedy 'Mother Bombie' in the town.
 
 James Temple who was convicted of the regicide of Charles I was born in Rochester in 1606.
 
