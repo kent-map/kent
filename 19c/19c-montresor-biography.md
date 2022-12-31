@@ -8,6 +8,7 @@
 
 
 Romance novelist, Frances Frederica (Freda) Montresor was born at Walmer on 23 September 1862. Freda was the fourth daughter of Commodore Frederick Byng Montresor and Emily Maria Montresor (née Delafield) who lived first at The Glen and later The Lawn, Upper Walmer. Her father, was Commander in Chief of the East Indies & Cape of Good Hope Station and later rose to the rank of Admiral. He retired in 1870 and his memoir _Leaves from Memory’s Log Book...'_ was published on his death in 1887. The Montresors were considerably wealthy and owned a property in Gloucester Square, Kensington only spending part of their year in Kent.  
+<param ve-image url="https://stor.artstor.org/stor/09984bd4-0c72-4c5b-b55b-26fb8112debd" label="Upper Walmer" attribution="Ward Lock's Dover and South East Kent, c.1920s">
 
 Freda’s first novel _Into the Highways and Hedges_ was published in February 1895. It is set in the 1840s and is the story of Meg Deane, a rich heiress who lives at Ravenshill a large house near Dover, possibly inspired by Denne Hill at Womenswold which was owned by a cousin of her father. 
 
@@ -18,6 +19,7 @@ The story begins when the family come down from London to their home in Kent to 
 Dover beach is portrayed as a place of adventure but also danger. It is crowded with nursery-maids and children, Punch and Judy shows, minstrels, men selling indigestible gooseberries, beggars and women with false lace. As Meg takes in her surroundings, her attention is drawn to a Methodist preacher who is holding a revival meeting on the beach and she finds herself interested in his words, but when Barnabas Thorpe speaks to her: “The claptrappy tune, the overdone emphasis, the vulgar intonation distressed her; she was ashamed of the feeling, but could not help it; she turned to walk away.” 
 
 Freda was probably inspired by her childhood visits to Dover, where her mother’s aunt, Frances Rennell, who had looked after Emily and her sisters after the death of her father, lived until her death in 1874. Mrs Rennell’s house at 17, East Cliff would have been a short distance to the beach. It is possible also that Freda would have learned from stories told by her mother and her great aunt about the beach preachers who frequented Dover such as Charles Smith and Harrison Ord who were arrested for standing on a chair outside 1, Waterloo Crescent and causing a nuisance in 1866. Ord was a Middlesbrough born Brethren preacher who was led away from Dover beach by police officers as “the crowd numbering some 3,000 people commenced hooting and hurrahing in a disgraceful manner”. Ord sang all way to the police station and made the work of the constable who was escorting him very difficult. Freda’s fictional Barnabas Thorpe is described as a “narrowly strong preacher, with his northern burr, his gesticulations, his intense conviction”.
+<param ve-image url="https://stor.artstor.org/stor/ad086f8b-71a6-4ead-bb12-0de1350c3050" label="East Cliff, Dover" attribution="Ward Lock Dover and South East Kent c. 1920s">
 
 Dover Telegraph and Cinque Ports General Advertiser - Wednesday 17 June 1868] 
 
