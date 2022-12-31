@@ -57,6 +57,7 @@ _Into the Highways and Hedges_ ran into five editions in its first six months an
 Montresor wrote ten novels, featuring rebellious daughters and women who are at odds with their families, but none of her later novels received the acclaim of her first.  Nevertheless, reviewers respected her craft, with one writing: 'she is one of the few writers who remain unspoilt by popularity and have too much respect to perpetrate "potboilers"'.[^ref23] In 1899, her novel _The One who looked on_ was given away with The _Lady's Realm_. Her last novel _The Strictly Trained Mother_ (1913) focussed on a bullied mother and her assertive daughters.
 
 After the death of her mother in 1913, Montresor moved to 18, Cheyne Walk, formerly Don Saltero's Coffee House and Curiosity Museum.[^ref24] In 1920, Montresor wrote her first play ‘Katherine the Quene’ based on the life of Katherine Parr which was performed at the Nottingham Repertory Theatre in March 1921. She died in Sheffield after being taken ill whilst on holiday in Matlock[^ref25] and left £75,908 in her will.[^ref26]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Don_Saltero%27s_Tavern.jpg" label="Don Saltero's Tavern before 1864" attribution="Thomas Hosmer Shepherd, Public domain, via Wikimedia Commons">
 
 ### Bibliography
 
