@@ -74,25 +74,25 @@ Montresor, F.F. (1895) _Into the Highways and Hedges_
 
 ### References
 
-[^ref1]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref2]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref3]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
+[^ref1]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.16.
+[^ref2]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.16.
+[^ref3]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.16.
 [^ref4]: Dover Telegraph and Cinque Ports General Advertiser - Wednesday 17 June 1868.
-[^ref5]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref6]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref7]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref8]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref9]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref10]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
+[^ref5]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.62.
+[^ref6]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.22.
+[^ref7]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.22.
+[^ref8]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.52.
+[^ref9]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.52.
+[^ref10]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.68.
 [^ref11]: Dover Chronicle - Saturday 20 April 1844; Dover Telegraph and Cinque Ports General Advertiser - Saturday 03 February 1849.
-[^ref12]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref13]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
+[^ref12]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.80.
+[^ref13]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.81.
 [^ref14]: Dublin Evening Telegraph - Monday 18 November 1872.
-[^ref15]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref16]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref17]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref18]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
-[^ref19]: Montresor, F.F. (1895) _Into the Highways and Hedges_.
+[^ref15]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.81.
+[^ref16]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.81.
+[^ref17]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.82.
+[^ref18]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.87.
+[^ref19]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.90
 [^ref20]: Bognor Regis Observer - Wednesday 06 November 1895.
 [^ref21]: The Sketch - Wednesday 03 July 1895; and [_Into the Highways and Hedges_](https://www.gutenberg.org/cache/epub/40594/pg40594-images.html).
 [^ref22]: 'Women Writers' Dinner'. _The Times_ Tuesday,  June 21, 1904.
