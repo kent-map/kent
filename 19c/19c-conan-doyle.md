@@ -1,7 +1,11 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Sir Arthur Conan Doyle (1859-1930)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q939838" aliases="Sevenoaks">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q665489" aliases="Tunbridge Wells">
+<param ve-entity eid="Q1547383" aliases="Groombridge Place">
 
 Arthur Conan Doyle was born in Edinburgh in 1859, the year [Charles Darwin](/19c/19c-darwin-biography) published _On the Origin of Species_, and knighted in 1902. The creator of the world’s most famous detective Sherlock Holmes, Conan Doyle was never fully comfortable with his success as a populist writer. Tellingly his own literary heroes included the notoriously arcane [George Meredith](/19c/19c-meredith-biography): at one point in ‘The Boscombe Valley Mystery’ Holmes says firmly, ‘And now let us talk about George Meredith, if you please, and we shall leave all minor matters until to-morrow.’ 
 <br><br>
