@@ -1,6 +1,13 @@
-Frances Frederica (Freda) Montresor (1862-1934)
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="F.F. Montresor (1862-1934)" author="TMichelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
 
-Romance novelist, F.F. Montresor was born at Walmer on 23 September 1862. Freda was the fourth daughter of Commodore Frederick Byng Montresor and Emily Maria Montresor (née Delafield) who lived first at The Glen and later The Lawn, Upper Walmer. Her father, was Commander in Chief of the East Indies & Cape of Good Hope Station and later rose to the rank of Admiral. He retired in 1870 and his memoir _Leaves from Memory’s Log Book...'_ was published on his death in 1887. The Montresors were considerably wealthy and owned a property in Gloucester Square, Kensington only spending part of their year in Kent.  
+<param ve-entity eid="Q2551894" aliases="Walmer">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q26621114" aliases="Denne Hill">
+<param ve-entity eid="Q1003196" aliases="Sheerness">
+
+
+Romance novelist, Frances Frederica (Freda) Montresor was born at Walmer on 23 September 1862. Freda was the fourth daughter of Commodore Frederick Byng Montresor and Emily Maria Montresor (née Delafield) who lived first at The Glen and later The Lawn, Upper Walmer. Her father, was Commander in Chief of the East Indies & Cape of Good Hope Station and later rose to the rank of Admiral. He retired in 1870 and his memoir _Leaves from Memory’s Log Book...'_ was published on his death in 1887. The Montresors were considerably wealthy and owned a property in Gloucester Square, Kensington only spending part of their year in Kent.  
 
 Freda’s first novel _Into the Highways and Hedges_ was published in February 1895. It is set in the 1840s and is the story of Meg Deane, a rich heiress who lives at Ravenshill a large house near Dover, possibly inspired by Denne Hill at Womenswold which was owned by a cousin of her father. 
 
