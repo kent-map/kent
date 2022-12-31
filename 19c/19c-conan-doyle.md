@@ -39,27 +39,41 @@ Carwardine, Anne. _Disgusted Ladies: The Women of Tunbridge Wells Who Fought for
 Doyle, Arthur Conan. ‘Kent Coal. “Coming Triumph”. A Defence.’ _Pall Mall Gazette_. 26 February 1914. 4.   
 _The Edge of the Unknown_. London: John Murray, 1930.   
 _Memories and Adventures_. Cambridge: CUP, 2012.   
-‘”Female Hooligans”: Protest Meeting at Tunbridge Wells.’ _Free Press_. 2 May 1913. 6.Grand, Sarah to Lady Jean Conan Doyle. 1919. British Library. Add.MSS.88924/1/57
+‘”Female Hooligans”: Protest Meeting at Tunbridge Wells.’ _Free Press_. 2 May 1913. 6.Grand, Sarah to Lady Jean Conan Doyle. 1919. British Library. Add.MSS.88924/1/57   
+Grand, Sarah. Letter to Lady Jean Conan Doyle. 9 April 1919. British Library. MSS.88924/1/57.   
+‘In the Spring.’ 12 December 1914. _ Sheerness Times Guardian._7.   
+Lellenberg, Jon, Daniel Stashower and Charles Foley. _Arthur Conan Doyle: a Life in Letters_. London: Harper, 2007.   
+‘”Great Battles of the War.” Lecture today at Town Hall, Folkestone.’ 10 April 1915. _Folkestone, Hythe, Sandgate and Cheriton Herald_. 4.   
+Lycett, Andrew. _The Man Created Sherlock Holmes: the Life and Times of Sir Arthur Conan Doyle_ Free Press, 2007.   
+Miller, Russell. _The Adventures of Arthur Conan Doyle_. London: Harvill Stocker, 2008.   
+Oulton, Carolyn W. de la L. _Below the Fairy City: A Life of Jerome K. Jerome_. Brighton: Victorian Secrets, 2012.   
+‘Public Notices’. 20 March 1915. _Folkestone, Sandgate, Hythe and Cheriton Herald_. 4.   
+Pugh, Brian W. _A Chronology of the Life of Sir Arthur Conan Doyle_: Revised 2018.   
+‘Recruiting Week at Tunbridge Wells.’ 11 December 1914. _Kent and Sussex Courier_. 9.   
+‘Sir A. Conan Doyle defends Mr Arthur Burr, and is criticised by the “Pall Mall Gazette”. 16 August 1913. _Whitstable Times and Herne Bay Herald._ 2.   
+‘Sir A. Conan Doyle’s Opinion.’ 23 August 1913. _Folkestone, Sandgate, Hythe and Cheriton Herald_. 7.   
+Telfer, Kevin, Peter Pan’s First XI: The Extraordinary Story of J. M. Barrie’s Cricket Team (London:   Sceptre, 2010).   
 
-Grand, Sarah. Letter to Lady Jean Conan Doyle. 9 April 1919. British Library. MSS.88924/1/57.
+### References
 
-‘In the Spring.’ 12 December 1914. _ Sheerness Times Guardian._7.
+[^ref1]: For the death of Lady Conan Doyle’s brother at the Pavilion Hotel in Folkestone see _Folkestone, Sandgate, Hythe and Cheriton Herald_. 14 June 1930. 2.
+[^ref2]: _David Copperfield_ [Chapter 17.]( http://www.literaturepage.com/read/davidcopperfield-303.html)
+[^ref3]: ‘Kent Coal’.
+[^ref4]: _Memories and Adventures_ 240.
+[^ref5]: Lycett 347-8.
+[^ref6]: _Victoria Club Magazine, 2 July 1903_. Cited in Miller 245. 
+[^ref7]: https://www.manhattanrarebooks.com/pages/books/1594/arthur-conan-doyle/micah-clarke?soldItem=true accessed 13 December 2022.
+[^ref8]: Telfer, Introduction.
+[^ref9]: With thanks to Alan Cutts of Tunbridge Wells Cricket Club for drawing my attention to this event.
+[^ref10]: Carwardine 11.
+[^ref11]: ‘"Female Hooligans": Protest Meeting at Tunbridge Wells.’ 
+[^ref12]: Her statement was printed by the _Sussex Courier_ on 2 May.
+[^ref13]: ‘Recruiting Week at Tunbridge Wells.’ 
+[^ref14]: A lecture in Folkestone Town Hall on 10 April 1915 was titled ‘Great Battles of the War’.
+[^ref15]:  Letter from Sarah Grand to Lady Jean Conan Doyle. 9 April 1919. 
+[^ref16]: Collected in the essay collection _The Edge of the Unknown_.
 
-Lellenberg, Jon, Daniel Stashower and Charles Foley. _Arthur Conan Doyle: a Life in Letters_. London: Harper, 2007.
-‘”Great Battles of the War.” Lecture today at Town Hall, Folkestone.’ 10 April 1915. _Folkestone, Hythe, Sandgate and Cheriton Herald_. 4.
 
-Lycett, Andrew. _The Man Created Sherlock Holmes: the Life and Times of Sir Arthur Conan Doyle_ Free Press, 2007.
-Miller, Russell. _The Adventures of Arthur Conan Doyle_. London: Harvill Stocker, 2008.
-Oulton, Carolyn W. de la L. _Below the Fairy City: A Life of Jerome K. Jerome_. Brighton: Victorian Secrets, 2012.
-‘Public Notices’. 20 March 1915. _Folkestone, Sandgate, Hythe and Cheriton Herald_. 4.
-Pugh, Brian W. _A Chronology of the Life of Sir Arthur Conan Doyle_: Revised 2018
-‘Recruiting Week at Tunbridge Wells.’ 11 December 1914. _Kent and Sussex Courier_. 9.
-
-‘Sir A. Conan Doyle defends Mr Arthur Burr, and is criticised by the “Pall Mall Gazette”. 16 August 1913. _Whitstable Times and Herne Bay Herald._ 2.
-
-‘Sir A. Conan Doyle’s Opinion.’ 23 August 1913. _Folkestone, Sandgate, Hythe and Cheriton Herald_. 7.
-
-Telfer, Kevin, Peter Pan’s First XI: The Extraordinary Story of J. M. Barrie’s Cricket Team (London:   Sceptre, 2010).
 
 
 
