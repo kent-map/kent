@@ -1,5 +1,7 @@
-Sir Arthur Conan Doyle (1859-1930)
-Professor Carolyn Oulton
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="Sir Arthur Conan Doyle (1859-1930)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q936183" aliases="Tonbridge">
 
 Arthur Conan Doyle was born in Edinburgh in 1859, the year [Charles Darwin](/19c/19c-darwin-biography) published _On the Origin of Species_, and knighted in 1902. The creator of the world’s most famous detective Sherlock Holmes, Conan Doyle was never fully comfortable with his success as a populist writer. Tellingly his own literary heroes included the notoriously arcane [George Meredith](/19c/19c-meredith-biography): at one point in ‘The Boscombe Valley Mystery’ Holmes says firmly, ‘And now let us talk about George Meredith, if you please, and we shall leave all minor matters until to-morrow.’ 
 
@@ -22,12 +24,12 @@ But within a few years Conan Doyle would also fall out with his old friend [Jero
 After [Jerome’s](/19c/19c-jerome-biography) death in 1927, Conan Doyle would claim that his spirit had made contact to admit that he had been wrong in doubting psychic phenomena. For good measure he would also claim to have made contact with [Dickens](/dickens) and [Joseph Conrad](/19c/19c-conrad-biography). But Conan Doyle was not to have the last word after all. Controversially he had also came out in support of the ‘Cottingley fairies’ supposedly seen by two children, Elsie Wright and her cousin Frances Griffiths, in 1917. Having seen the photographs in 1920, he was sufficiently convinced to published them in _The Strand_ magazine, where the arch sceptic Holmes had made his first appearance. Frances later married and moved to Ramsgate, where she finally admitted in 1983 to having hoaxed the public for over half a century.
 
 ### Bibliography 
-[Arthur Conan Doyle Encylopedia](https://www.arthur-conan-doyle.com/index.php?title=File:The-sporting-life-1903-06-06-royal-engineers-chatham-v-alahakbarries-p8.jpg). Accessed 15 December 2022.
-‘The Burning of the Nevill Ground Pavilion’. _Kent and Sussex Courier_. 2 May 1913. 5.
-Carwardine, Anne. _Disgusted Ladies: The Women of Tunbridge Wells Who Fought for the Right to Vote._ Matador, 2018.
-Doyle, Arthur Conan. ‘Kent Coal. “Coming Triumph”. A Defence.’ _Pall Mall Gazette_. 26 February 1914. 4.
-_The Edge of the Unknown_. London: John Murray, 1930.
-_Memories and Adventures_. Cambridge: CUP, 2012.
+[Arthur Conan Doyle Encylopedia](https://www.arthur-conan-doyle.com/index.php?title=File:The-sporting-life-1903-06-06-royal-engineers-chatham-v-alahakbarries-p8.jpg). Accessed 15 December 2022.   
+‘The Burning of the Nevill Ground Pavilion’. _Kent and Sussex Courier_. 2 May 1913. 5.   
+Carwardine, Anne. _Disgusted Ladies: The Women of Tunbridge Wells Who Fought for the Right to Vote._ Matador, 2018.   
+Doyle, Arthur Conan. ‘Kent Coal. “Coming Triumph”. A Defence.’ _Pall Mall Gazette_. 26 February 1914. 4.   
+_The Edge of the Unknown_. London: John Murray, 1930.   
+_Memories and Adventures_. Cambridge: CUP, 2012.   
 ‘”Female Hooligans”: Protest Meeting at Tunbridge Wells.’ _Free Press_. 2 May 1913. 6.Grand, Sarah to Lady Jean Conan Doyle. 1919. British Library. Add.MSS.88924/1/57
 
 Grand, Sarah. Letter to Lady Jean Conan Doyle. 9 April 1919. British Library. MSS.88924/1/57.
