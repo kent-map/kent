@@ -41,6 +41,7 @@ The story continues: 'It had been a hot summer, and there were ominous cracks ac
 Unheeding the rabbit’s warnings, Meg continues along the cliff 'listening to the echo among the chalk caves below, —smuggling haunts, where many a keg of brandy had been hidden'[^ref15] (presumably the caves at East Cliff). Suddenly the cliff gives way and she falls a quarter of the way down the cliff onto a narrow ledge and has to cling fast to 'the friendly poppy root that was keeping her from death'.[^ref16]
 <br><br>
 As she holds on in terror, 'She could hear the sea washing hungrily, with a sullen break, and a strong backward suck, many feet below; she shuddered, and then screamed with all her might, again and again, waking the echoes and the seagulls, who answered her derisively.'[^ref17]
+<param ve-image url="https://stor.artstor.org/stor/fcb72443-ea1e-4e50-a111-4fbb456a89f5" label="Dover, 1844" attribution="Fullarton, by kind permission of Marrin Books">
 
 Eventually salvation comes when Barnabas Thorpe who is walking along the cliffs hears her screams and fetches ropes from the coastguard station on the downs. After rescuing her he asks her to join him in his religious crusade crying: 'Come with me! Let us go out together and preach the Master in the Highways and Hedges. Your example shall be as a shining light to guide the feet of those who are snared by riches. Come!'[^ref18]
 
