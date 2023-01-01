@@ -8,7 +8,7 @@
 <param ve-entity eid="Q2784912" aliases="River">
 <param ve-entity eid="Q950970" aliases="Dover Castle">
 
-Romance novelist Frances Frederica (Freda) Montrésor was born at Walmer on 23 September 1862. Freda was the fourth daughter of Commodore Frederick Byng Montrésor and Emily Maria Montrésor (née Delafield) who lived first at <span data-mouseover-image-zoomto="411,989,433,171"> Glen Hill</span> (The Glen) and later <span data-mouseover-image-zoomto="243,535,961,342">The Lawn</span>, Upper Walmer. Her father was Commander in Chief of the East Indies & Cape of Good Hope Station and later rose to the rank of Admiral. He retired in 1870 and his memoirs _Leaves from Memory’s Log Book...'_ were published on his death in 1887. Her mother was related to Matthew Arnold, whose poem 'Dover Beach' was published in 1867. The Montresors were considerably wealthy and owned a property in Gloucester Square, Kensington, only spending part of their year in Kent.  
+Romance novelist Frances Frederica (Freda) Montrésor was born at Walmer on 23 September 1862. Freda was the fourth daughter of Commodore Frederick Byng Montrésor and Emily Maria Montrésor (née Delafield) who lived first at <span data-mouseover-image-zoomto="411,989,433,171"> Glen Hill</span> (The Glen) and later <span data-mouseover-image-zoomto="243,535,961,342">The Lawn</span>, Upper Walmer. Her father was Commander in Chief of the East Indies & Cape of Good Hope Station and later rose to the rank of Admiral. He retired in 1870 and his memoirs _Leaves from Memory’s Log Book...'_ were published on his death in 1887. Her mother was related to Matthew Arnold, whose poem 'Dover Beach' was published in 1867. The Montrésors were considerably wealthy and owned a property in Gloucester Square, Kensington, only spending part of their year in Kent.  
 <param ve-image url="https://stor.artstor.org/stor/09984bd4-0c72-4c5b-b55b-26fb8112debd" label="Upper Walmer" attribution="Ward Lock's Dover and South East Kent, c.1920s">
 
 Freda’s first novel _Into the Highways and Hedges_ was published in February 1895. It is set in the 1840s and is the story of Meg Deane, a rich heiress who lives at Ravenshill a large house near [Dover](/19c/19c-dover), where the 'worthy descendants of the ruffled and powdered Deanes ... looked down on them from the walls'. It was possibly inspired by Denne Hill at Womenswold, which was owned by a cousin of her father. 
@@ -59,40 +59,40 @@ Turning her back on her family, Meg leaves [Dover](/19c/19c-dover) with Barnabas
 After this the plot moves to the North, where Meg learns to live in poverty, discovers that boots wear out and feet get blistered, that in-laws can be difficult and sees her husband wrongly accused of theft. Unwavering in  her conviction, Meg stands by Barnabas whilst he waits trial and then eventually tracks down the diamonds he is accused of taking. In the final scenes, Barnabas recognises that his wife is more than just a convert, but a loyal and loving wife. 
 <param ve-image url="https://stor.artstor.org/stor/0d4f592c-8356-414b-b38d-d9187bfd720d" label="Sheerness with the Fountain Inn, 1829" attribution="The Picturesque Beauties of Great Britain: Kent by Geroge Virtue">
 
-_Into the Highways and Hedges_ appeared at the top of Mudie’s list along with [Sarah Grand](/19c/19c-grand-biography)’s _The Heavenly Twins_.[^ref20] and ran into five editions in its first six months. Montresor was compared to [George Eliot](/19c/19c-eliot-biography) by literary critic Katherine Tynan[^ref21] and in 1896 joined the Committee of the Women Writer’s Club. When she attended the 1904 Women Writers dinner which was held at The Criterion restaurant, Kent writers [Netta Syrett](/20c/20c-syrett-biography) and Mrs Croker, author of [_Miss Balmaine’s Past_](19c-croker-biography) were also in attendance.[^ref22] 
+_Into the Highways and Hedges_ appeared at the top of Mudie’s list along with [Sarah Grand](/19c/19c-grand-biography)’s _The Heavenly Twins_.[^ref20] and ran into five editions in its first six months. Montréesor was compared to [George Eliot](/19c/19c-eliot-biography) by literary critic Katherine Tynan[^ref21] and in 1896 joined the Committee of the Women Writer’s Club. When she attended the 1904 Women Writers dinner which was held at The Criterion restaurant, Kent writers [Netta Syrett](/20c/20c-syrett-biography) and Mrs Croker, author of [_Miss Balmaine’s Past_](19c-croker-biography) were also in attendance.[^ref22] 
 <br><br>
-Montresor wrote ten novels, featuring rebellious daughters and women who are at odds with their families, but none of her later novels received the acclaim of her first.  Nevertheless, reviewers respected her craft, with one writing: 'she is one of the few writers who remain unspoilt by popularity and have too much respect to perpetrate "potboilers"'.[^ref23] In 1899, her novel _The One who looked on_ was given away with The _Lady's Realm_. Her last novel _The Strictly Trained Mother_ (1913) focussed on a bullied mother and her assertive daughters.
+Montrésor wrote ten novels, featuring rebellious daughters and women who are at odds with their families, but none of her later novels received the acclaim of her first.  Nevertheless, reviewers respected her craft, with one writing: 'she is one of the few writers who remain unspoilt by popularity and have too much respect to perpetrate "potboilers"'.[^ref23] In 1899, her novel _The One who looked on_ was given away with The _Lady's Realm_. Her last novel _The Strictly Trained Mother_ (1913) focussed on a bullied mother and her assertive daughters.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/1869_Mudies_LondonSociety_v16_no95.png" label="Mudies London Society, 1869" attribution="Louis H---, Public domain, via Wikimedia Commons">
 
-After the death of her mother in 1913, Montresor moved to 18, Cheyne Walk, formerly Don Saltero's Coffee House and Curiosity Museum.[^ref24] No more books appeared during the war years, but in 1920, Montresor wrote her first play ‘Katherine the Quene’ based on the life of Katherine Parr which was performed at the Nottingham Repertory Theatre in March 1921. Montresor died in Sheffield after being taken ill whilst on holiday in Matlock in 1934[^ref25] and left £75,908 in her will.[^ref26]
+After the death of her mother in 1913, Montrésor moved to 18, Cheyne Walk, formerly Don Saltero's Coffee House and Curiosity Museum.[^ref24] No more books appeared during the war years, but in 1920, Montrésor wrote her first play ‘Katherine the Quene’ based on the life of Katherine Parr which was performed at the Nottingham Repertory Theatre in March 1921. Montrésor died in Sheffield after being taken ill whilst on holiday in Matlock in 1934[^ref25] and left £75,908 in her will.[^ref26]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Don_Saltero%27s_Tavern.jpg" label="Don Saltero's Tavern before 1864" attribution="Thomas Hosmer Shepherd, Public domain, via Wikimedia Commons">
 
 ### Bibliography
 
 Kemp, S., Mitchell, C., and Trotter, D. (1997) _The Oxford Companion to Edwardian Fiction_ Oxford: Oxford University Press.   
-Montresor, F.F. (1895) _Into the Highways and Hedges_
+Montrésor, F.F. (1895) _Into the Highways and Hedges_
 
 ### References
 
-[^ref1]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.16.
-[^ref2]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.16.
-[^ref3]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.16.
+[^ref1]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.16.
+[^ref2]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.16.
+[^ref3]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.16.
 [^ref4]: Dover Telegraph and Cinque Ports General Advertiser - Wednesday 17 June 1868.
-[^ref5]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.62.
-[^ref6]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.22.
-[^ref7]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.22.
-[^ref8]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.52.
-[^ref9]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.52.
-[^ref10]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.68.
+[^ref5]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.62.
+[^ref6]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.22.
+[^ref7]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.22.
+[^ref8]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.52.
+[^ref9]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.52.
+[^ref10]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.68.
 [^ref11]: Dover Chronicle - Saturday 20 April 1844; Dover Telegraph and Cinque Ports General Advertiser - Saturday 03 February 1849.
-[^ref12]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.80.
-[^ref13]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.81.
+[^ref12]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.80.
+[^ref13]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.81.
 [^ref14]: Dublin Evening Telegraph - Monday 18 November 1872.
-[^ref15]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.81.
-[^ref16]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.81.
-[^ref17]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.82.
-[^ref18]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.87.
-[^ref19]: Montresor, F.F. (1895) _Into the Highways and Hedges_, p.90
+[^ref15]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.81.
+[^ref16]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.81.
+[^ref17]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.82.
+[^ref18]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.87.
+[^ref19]: Montrésor, F.F. (1895) _Into the Highways and Hedges_, p.90
 [^ref20]: Bognor Regis Observer - Wednesday 06 November 1895.
 [^ref21]: The Sketch - Wednesday 03 July 1895; and [_Into the Highways and Hedges_](https://www.gutenberg.org/cache/epub/40594/pg40594-images.html).
 [^ref22]: 'Women Writers' Dinner'. _The Times_ Tuesday,  June 21, 1904.
