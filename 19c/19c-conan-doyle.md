@@ -39,6 +39,8 @@ But within a few years Conan Doyle would also fall out with his old friend [Jero
 <param ve-map center="Q1547383" zoom="10">
 
 After [Jerome’s](/19c/19c-jerome-biography) death in 1927, Conan Doyle would claim that his spirit had made contact to admit that he had been wrong in doubting psychic phenomena. For good measure he would also claim to have made contact with [Dickens](/dickens) and [Joseph Conrad](/19c/19c-conrad-biography). But Conan Doyle was not to have the last word after all. Controversially he had also came out in support of the ‘Cottingley fairies’ supposedly seen by two children, Elsie Wright and her cousin Frances Griffiths, in 1917. Having seen the photographs in 1920, he was sufficiently convinced to published them in _The Strand_ magazine, where the arch sceptic Holmes had made his first appearance. Frances later married and moved to Ramsgate, where she finally admitted in 1983 to having hoaxed the public for over half a century.
+<br><br>
+This article was published: 31 December 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Frances1920.jpg" label="Frances Griffiths, 1920" attribution="picture printed in the american edition of the 1922 book The Coming of the Fairies by Sir Arthur Conan Doyle, Public domain, via Wikimedia Commons">
 
 ### Bibliography 
