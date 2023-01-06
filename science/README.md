@@ -36,6 +36,12 @@ Father and son who were learned mathematicians in Kent in the sixteenth century.
 
 Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
 
+## Anna Maria Hussey {href=/19c/19c-hussey-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://iiif.wellcomecollection.org/image/L0022209/full/full/0/default.jpg)
+
+Mycologist, writer and illustrator who enjoyed a holiday in Dover.
+
 ## Walter James {href=/20c/20c-northbourne-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/14/CabbageBG.JPG)
