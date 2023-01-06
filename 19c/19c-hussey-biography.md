@@ -23,6 +23,8 @@ She regularly communicated by letter with Rev Miles Joseph Berkeley, the renowne
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b0/T._J._Hussey%2C_Illustrations_of_British_mycology_Wellcome_L0025704.jpg" label="Anna Maria Hussey, via Wikimedia Commons" license="CC BY 4.0"> 
 
 Hussey also wrote a short story ‘Matrimony’, anonymously published  in _Fraser’s Magazine_ in 1848-9.[^ref19] This magazine was a popular conservative publication well known for its humour in attacking policies of the Whig government.[^ref20]  Hussey’s writing is peppered with her sharp wit in dissecting peculiarities of a nineteenth century marriage. Hussey confided to Berkeley: ‘This pays well – much better than Mycology’.[^ref21]  
+<br><br>
+This article was published: 6 January 2022.
 <param ve-image url="https://iiif.wellcomecollection.org/image/L0022209/full/full/0/default.jpg" label="Illustrations of British mycology, containing figures and description of the funguses of interest and novelty indigenous to Britain" attribtuion="By Mrs. T.J. Hussey. Wellcome Collection">
 
 ### References
