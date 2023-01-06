@@ -40,6 +40,7 @@
 [George Grossmith](19c-grossmith-biography)  
 [George Alfred Henty](19c-henty-biography)   
 [Hugh Price Hughes](19c-price-hughes-biography)   
+[Anna Maria Hussey](19c-hussey-biography)   
 [Henry James](19c-jamesh-hever-castle)  
 [Edith Katherine Spicer Jay](19c-spicer-jay-biography)   
 [Jerome K. Jerome](19c-jerome-biography)   
