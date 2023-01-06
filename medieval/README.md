@@ -24,6 +24,12 @@ For England, what might be considered a unique confederation of medium-sized and
 
 Whether or not Hengest and Horsa ever existed, the fact remains that they are part of the folk myths of Kent and are established characters in local and national stories of the past. 
 
+## Joan of Kent {href=14c-joan-kent-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/dd6c1412-8da9-4482-8715-8c05281db021)
+
+Joan of Kent - first Princess of Wales.
+
 ## Medieval Canterbury {href=medieval-canterbury}
 
 ![](https://stor.artstor.org/stor/1738ab17-c2ac-4e27-bb5f-1d2dcf05925d)
