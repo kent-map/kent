@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Joan of Kent (1328-1385): the first Princess of Wales " author="Madelaine Lennon and Liz Askey" layout="vtl" banner="xxx">
+<param ve-config title="Joan of Kent (1328-1385): the first Princess of Wales " author="Madelaine Lennon and Dr Liz Askey" layout="vtl" banner="xxx">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q3092462" aliases="Wickhambreaux">
@@ -23,6 +23,7 @@ Joan’s third marriage, after the death of Holland, was to Edward, the Black Pr
 The _Anonimalle Chronicle_ is thought to be the most accurate source of the Peasants’ Revolt of 1381 and it documents that some of the rebels came face to face with Joan on her return journey from visiting her husband’s tomb in the first week of June.  Froissart ‘recounts that the Princess was startled and, although they did not harm her, they treated her rudely.’  On 14th June, Richard met with the leading rebels at Mile End. Richard rode in a great royal procession with Joan following in a whirligig.  But the crowd of rebels turned into a baying mob and Joan, in fear of her life, fled to the safety of the London Tower. 
 <br><br>
 Joan was known to have been a calming influence on Richard and a loyal ally to his uncle, John of Gaunt. However, as she aged she became ‘overweight and immobile’ and died in 1385 leaving Richard and his uncle to continue their constant bickering.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/33/Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg" label="Richard II meeting with the rebels of the Peasants' Revolt of 1381" attribution="Jean Froissart, Public domain, via Wikimedia Commons">
 
 ### Bibliography
 
