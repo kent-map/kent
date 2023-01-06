@@ -30,11 +30,11 @@ Hussey also wrote a short story ‘Matrimony’, anonymously published  in _Fras
 [^ref1]: Shteir, Ann,B. _Cultivating Women Cultivating Science_. John Hopkins University Press, 1996.7.
 [^ref2]: George, Sam, Botany, _Sexuality & Women’s Writing: From Modest Shoot to Forward Plant_ (Manchester University Press, 2007), p.60, p.59.
 [^ref3]: Shteir, Op.Cit., p.6.
-[^ref4]: Finn, Elizabeth, A., 'Introduction’ pp. I-vi in Libby - _Botany, Boats and Bathing Machines: Anna Maria Hussey's holiday in Dover in 1836_ (libbyapp.com), p.ii. 
+[^ref4]: Finn, Elizabeth, A. 'Introduction’ pp. I-vi in Libby - _Botany, Boats and Bathing Machines: Anna Maria Hussey's holiday in Dover in 1836_ (libbyapp.com), p.ii. 
 [^ref5]: Borsay, P. _A Room with a View: Visualising the Seaside, c. 1750-1914_. _Transactions of the Royal Historical Society_, 2013 (Sixth Series, Vol. 23. 175-201). 180, accessed 13/08/22.
 [^ref6]: Ibid., p.181.
 [^ref7]: Borsay, Op. Cit., p.177.
-[^ref8]: p.60
+[^ref8]: Finn, Elizabeth, A. _Botany, Boats and Bathing Machines: Anna Maria Hussey's holiday in Dover in 1836_ (libbyapp.com), p.60
 [^ref9]: Ibid., p.201.
 [^ref10]: Women's Work (lindahall.org) accessed 271122.
 [^ref11]: Skyscript: The Birth of the Outer Planets: Neptune accessed 271122
