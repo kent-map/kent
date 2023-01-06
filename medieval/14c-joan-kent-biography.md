@@ -1,17 +1,11 @@
-Joan of Kent (1328-1385):  the first Princess of Wales 
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Joan of Kent (1328-1385): the first Princess of Wales " author="Madelaine Lennon and Liz Askey" layout="vtl" banner="xxx">
 
-by Madelaine Lennon and Liz Askey
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
+#
 
 Joan of Kent – referred to posthumously as the ‘fair maid of Kent’ by chronicler Jean Froissart  – was an influential female figure in the history of Kent. Froissart is thought to be an unreliable narrator. Nonetheless, ‘according to the writer known as the Chandos Herald, Joan was ‘a lady of great worth … very beautiful, pleasing and wise’. Not everyone was so kind…’   primarily because of the scandal of her first two marriages. Joan’s  is not extensively recorded in history.. Even the exact year of her birth is unknown, although 1328 seems most likely. However, Joan is thought to be depicted in two ceiling bosses in Canterbury Cathedral. She is shown in both with a fashionable headdress which is either a goffered veil (also known as a nebule) or a caul.  Joan inherited the titles of the fourth Countess of Kent and the fifth Baroness Wake of Liddell through her brother . 
-
- Ceiling boss in the chantry chapel, thought to have been built by Edward, the Black Prince for Joan, in the crypt of Canterbury Cathedral
-
-
- Ceiling boss in the north nave aisle of Canterbury Cathedral
-
-
-
 
 Joan was the daughter of Prince Edmund of Woodstock, the first Earl of Kent, and his wife Margaret Wake. Edmund was the sixth son of King Edward I of England. The world Joan was born into was one of scheming and changes in power and treachery. In 1327, Edward II was overthrown. Edmund, who had been an unreliable supporter of the deposition of his half-brother, Edward II, became a target of Edward’s widow, Queen Isabella, and her lover Roger Mortimer. Edmund was arrested for treason during the parliament held in Winchester, in March of 1330, and rapidly executed. After this, Froissart tells us that Joan was brought up in the royal nursery, alongside Edward the Black Prince and John of Gaunt, under the guidance of Queen Phillipa, wife of Edward III. 
 
