@@ -2,6 +2,7 @@
 <param ve-config title="Anna Maria Hussey, née Reed (5 June 1805 – 26 August 1853)" author="Liz Askey" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q2690370" aliases="Hayes">
 
 #
 
@@ -14,6 +15,7 @@ Hussey wrote a fairly conventional and cheerful holiday diary relating a family 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/David_Cox_-_Dover_-_Google_Art_Project.jpg" label="Dover, 1832" attribution="David Cox, Public domain, via Wikimedia Commons">
 	
 Dr Hussey was no ordinary rector either. He was a keen amateur astronomer. He regularly contributed to _The Transactions of the Royal Astronomical Society._  Although he theorised that there was an eighth planet later to be named, Neptune  his idea was ignored by his peers 'because of his lack of skill in mathematics’ . However, he was recognised as one of the first astronomers in Britain to record the return of Halley’s Comet in 1835.  He had a very impressive network of friends and acquaintances, for example, he personally knew [Charles Darwin](/19c/19c-darwin-biography). However, Darwin was less than complimentary about Dr Hussey in a letter to his sister: “Dr. Hussey and Mr. Willott called yesterday afternoon: the Dr. talked grand nonsense…. Poor little Mr. Willott could hardly get a word in sideways..”.    Nonetheless, it seems that Hussey gave up his astronomy observations in 1837, selling his observatory to Durham University in 1839.  
+<param ve-image url="https://iiif.wellcomecollection.org/image/V0024725/full/full/0/default.jpg" label="Astronomy: comets in a night sky. Engraving." attribution="Wellcome Collection">
 
 At this time Hussey’s career as a botanist, illustrator and writer took off, probably because she now needed to provide a financial stability for her family.  Hussey published her _magnum opus_ – _Illustrations of British Mycology_  (1847-55) . Although she is canny to position herself as a humorous female educator, instructing mothers and daughters on how to study mycology, Hussey is an original. She advises that her readers should appreciate the beauty of the world by their foraging, dispelling any worry about appearing unladylike by getting dirty. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b0/T._J._Hussey%2C_Illustrations_of_British_mycology_Wellcome_L0025704.jpg" label="Anna Maria Hussey, via Wikimedia Commons" license="CC BY 4.0"> 
