@@ -27,7 +27,7 @@ Hussey also wrote a short story ‘Matrimony’, anonymously published  in _Fras
 
 ### References
 
-[^ref1]: Shteir, Ann,B. _Cultivating Women Cultivating Science_. John Hopkins University Press, 1996.7.
+[^ref1]: Shteir, Ann, B. _Cultivating Women Cultivating Science_. John Hopkins University Press, 1996.7.
 [^ref2]: George, Sam, Botany, _Sexuality & Women’s Writing: From Modest Shoot to Forward Plant_ (Manchester University Press, 2007), p.60, p.59.
 [^ref3]: Shteir, Op.Cit., p.6.
 [^ref4]: Finn, Elizabeth, A. 'Introduction’ pp. I-vi in Libby - _Botany, Boats and Bathing Machines: Anna Maria Hussey's holiday in Dover in 1836_ (libbyapp.com), p.ii. 
