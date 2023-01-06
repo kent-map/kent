@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Anna Maria Hussey, née Reed (5 June 1805 – 26 August 1853)" author="Liz Askey" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Anna Maria Hussey, née Reed (5 June 1805 – 26 August 1853)" author="Dr Liz Askey" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q2690370" aliases="Hayes">
