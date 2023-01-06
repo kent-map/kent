@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Joan of Kent (1328-1385): the first Princess of Wales " author="Madelaine Lennon and Dr Liz Askey" layout="vtl" banner="xxx">
+<param ve-config title="Joan of Kent (1328-1385): the first Princess of Wales " author="Madelaine Lennon and Dr Liz Askey" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/16/Canterbury%2C_Canterbury_cathedral_07.JPG">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q3092462" aliases="Wickhambreaux">
@@ -8,7 +8,7 @@
 
 Joan of Kent – referred to posthumously as the ‘fair maid of Kent’ by chronicler Jean Froissart  – was an influential female figure in the history of Kent. Froissart is thought to be an unreliable narrator. Nonetheless, ‘according to the writer known as the Chandos Herald, Joan was ‘a lady of great worth … very beautiful, pleasing and wise’. 
 <br><br>
-Not everyone was so kind … primarily because of the scandal of her first two marriages. Joan’s life is not extensively recorded in history. Even the exact year of her birth is unknown, although 1328 seems most likely. However, Joan is thought to be depicted in two ceiling bosses in Canterbury Cathedral. She is shown in both with a fashionable headdress which is either a goffered veil (also known as a nebule) or a caul.  Joan inherited the titles of the fourth Countess of Kent and the fifth Baroness Wake of Liddell through her brother.
+Not everyone was so kind … primarily because of the scandal of her first two marriages. Joan’s life is not extensively recorded in history. Even the exact year of her birth is unknown, although 1328 seems most likely. However, Joan is thought to be depicted in two ceiling bosses in Canterbury Cathedral. She is shown in both with a fashionable headdress which is either a goffered veil (also known as a nebule) or a caul.  Joan inherited the titles of the fourth Countess of Kent and the fifth Baroness Wake of Liddell through her brother in 1352.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cf/Joan_of_Kent.jpg" label="Joan of Kent" attribution="Image from illustrated manuscript, Cotton MS Nero D VII, fol.07v British Library">
 
 Joan was the daughter of Prince Edmund of Woodstock, the first Earl of Kent, and his wife Margaret Wake. Edmund was the sixth son of King Edward I of England. The world Joan was born into was one of scheming and changes in power and treachery. In 1327, Edward II was overthrown. Edmund, who had been an unreliable supporter of the deposition of his half-brother, Edward II, became a target of Edward’s widow, Queen Isabella, and her lover Roger Mortimer. Edmund was arrested for treason during the parliament held in Winchester, in March of 1330, and rapidly executed. After this, Froissart tells us that Joan was brought up in the royal nursery, alongside Edward the Black Prince and John of Gaunt, under the guidance of Queen Phillipa, wife of Edward III. 
@@ -24,6 +24,9 @@ Joan’s third marriage, after the death of Holland, was to Edward, the Black Pr
 The _Anonimalle Chronicle_ is thought to be the most accurate source of the Peasants’ Revolt of 1381 and it documents that some of the rebels came face to face with Joan on her return journey from visiting her husband’s tomb in the first week of June.  Froissart ‘recounts that the Princess was startled and, although they did not harm her, they treated her rudely.’  On 14th June, Richard met with the leading rebels at Mile End. Richard rode in a great royal procession with Joan following in a whirligig.  But the crowd of rebels turned into a baying mob and Joan, in fear of her life, fled to the safety of the London Tower. 
 <br><br>
 Joan was known to have been a calming influence on Richard and a loyal ally to his uncle, John of Gaunt. However, as she aged she became ‘overweight and immobile’ and died in 1385 leaving Richard and his uncle to continue their constant bickering.   
+<br><br>
+This article was published: 6 January 2023.    
+Banner image credit: Mattana, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/33/Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg" label="Richard II meeting with the rebels of the Peasants' Revolt of 1381" attribution="Jean Froissart, Public domain, via Wikimedia Commons">
 
 ### Bibliography
@@ -41,12 +44,12 @@ Woman's Headdress, Medieval, Replica | Object Lessons - Clothes & Accessories: M
 ### References
 
 [^ref1]: Tait, J., _Dictionary of National Biography_, Joan (1328-1385), vol 29 (1885-1900) pp. 392. Accessed https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Joan_(1328-1385) on 25 November 2022.
-[^ref1]:  Jones, D, _The Plantagenets: The Kings who made England_ (William Collins, 2013), p505.
-[^ref1]:  Woman's Headdress, Medieval, Replica | Object Lessons - Clothes & Accessories: Medieval; Rosalie's Medieval Woman - Medieval Headdresses (rosaliegilbert.com); Rosalie's Medieval Woman - Veils and Wimples (rosaliegilbert.com)
-[^ref1]:  Goodman, A., Joan,The Fair Maid of Kent: A Fourteenth Century Princess and Her World (The Boydell Press, 2017), p8.
-[^ref1]:    Jones, D, The Plantagenets: The Kings who made England (William Collins, 2013), p505.
+[^ref1]: Jones, D, _The Plantagenets: The Kings who made England_ (William Collins, 2013), p505.
+[^ref1]: Woman's Headdress, Medieval, Replica | Object Lessons - Clothes & Accessories: Medieval; Rosalie's Medieval Woman - Medieval Headdresses (rosaliegilbert.com); Rosalie's Medieval Woman - Veils and Wimples (rosaliegilbert.com)
+[^ref1]: Goodman, A., Joan,The Fair Maid of Kent: A Fourteenth Century Princess and Her World (The Boydell Press, 2017), p8.
+[^ref1]: Jones, D, The Plantagenets: The Kings who made England (William Collins, 2013), p505.
 [^ref1]: Carr, H., The Red Prince: The Life of John of Gaunt, the Duke of Lancaster  (Oneworld Publications, 2021), p.140. 
-[^ref1]:  Ibid., p140.
-[^ref1]:  Jones, Op.Cit., p536.
-[^ref1]:  Carr Op.Cit., p.144.
+[^ref1]: Ibid., p140.
+[^ref1]: Jones, Op.Cit., p536.
+[^ref1]: Carr Op.Cit., p.144.
 [^ref1]: ibid., p.176.
