@@ -30,7 +30,7 @@ This article was published: 6 January 2023.
 
 ### Bibliography
 
-Banner image credit: _Canterbury Cathedral Heraldic bosses on ceiling of South Porch (1422)_ Mattana, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+Banner image credit: _Canterbury Cathedral Heraldic bosses on ceiling of South Porch (1422)_ Mattana, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons.   
 Carr, H., _The Red Prince: The Life of John of Gaunt, the Duke of Lancaster_  (Oneworld Publications, 2021).   
 Colette, C.P., ‘Joan of Kent and Noble Women’s Roles in Chaucer’s World’, _The Chaucer Review_ 33: 4 (1999). 350-362. Accessed 18/3/22 http;/www.jstor.org/stable/25096063.   
 Goodman, A., _Joan,The Fair Maid of Kent: A Fourteenth Century Princess and Her World_. Boydell Press, 2017.   
