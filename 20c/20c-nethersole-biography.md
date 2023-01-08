@@ -26,11 +26,7 @@ Nethersole keenly observed life on the farm, particularly the conversations arou
 
 By the time Nethersole was eleven, her parents had moved to Crixhall Court near Staple which Hasted described as “once a gentleman's seat, but now diminished to the common size of a farm-house”.[^ref6]  It was at Staple that she received her education. Nethersole describes village education in her 1913 novel _Wilsam_:
 <br><br>
- 'Numparel and me are doing French verbs,' up and spoke Mercy in her soft, serious voice, 'and we say them over to Hannah, and she says them to us, and then we remember them better.' 
- <br><br>
- She continues: 
- <br><br>
- 'Oh, I're a fine scholard now I're larnin’ Bonyparty's talk'.[^ref7]
+ 'Numparel and me are doing French verbs,' up and spoke Mercy in her soft, serious voice, 'and we say them over to Hannah, and she says them to us, and then we remember them better... Oh, I're a fine scholard now I're larnin’ Bonyparty's talk'.[^ref7]
 <br><br>
 When Mercy is sent to school in Sibert’s Wood (Sibertswold also known as Shepherdswell) she feels sad that she will no longer receive lessons at home:
 <br><br>
