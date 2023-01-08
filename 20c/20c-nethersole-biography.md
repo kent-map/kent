@@ -1,5 +1,20 @@
-Susie Colyer Nethersole (1869-1956)
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
+<param ve-config 
+       title="Susie Colyer Nethersole (1869-1956)"
+       author="Michelle Crowther"
+       banner="/images/banners/19c.jpg"
+       layout="vertical">
+
+<param ve-entity eid="Q2195317" aliases="Goodnestone">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q26163" aliases="Sandwich">
+<param ve-entity eid="Q2232081" aliases="Staple">
+<param ve-entity eid="Q2104233" aliases="Sydenham">
+
+
 ‘Yonder a meadow down whose length a flock of sheep were folded on successive days; against the horizon line stretched the free downs, owned by none, belonging to all; here sheep might feed, cattle might browse, but no man must fence them in, or if he did the poorest wayfarer might break it down.’ – _Wilsam_, 1913, p. 122
+<br><br>
 Susie Colyer Nethersole, author of rural fiction, was born on the 14 May 1869 at Goodnestone. She was the eldest daughter of Michael and Susannah Nethersole née Colyer and lived at Rowling Court where her father farmed 220 acres.  This area was known for its good sheep-grazing.  Hasted wrote: “In the easternmost parts of Kent, and on the high chalk cliffs and hills on the coast, there are, however, several tracts of downs, viz. from Barham-down to Deal, and from thence to Dover, and so on to Folkestone and Hith, and in some other places on the summit of these hills; but they are in general well covered with grass, and afford good pasture for sheep, &c.” In 1871, one of her father’s shepherds won a prize of 15s at the Nonington, Wingham, Ash and Eastry Agricultural Association show for breeding 127 lambs from 102 ewes. [ – Stephen Martin,shepherd, under Mr Michael Nethersole of Goodnestone,  Kentish Gazette - Tuesday 14 November 1871]. 
 
 Nethersole keenly observed life on the farm, particularly the conversations around her. In her 1913 book Wilsam, Mr Hassock describes driving sheep to market: "The slowest job I know of; why, a funeral could give you half an hour's start an' come in first. Recklect when I was a young man bein' in the middle of three hundred of 'em, pushin' an' urgin' of 'em along. There was th' screamin' of seagulls overhead, an' th' maa, maa, maaing of these blessed sheep all round. 'Twas all right for th' hind man, he had but to foller. By th' time we got to th' medder where th' sale was held, we were that hoarse wi' shoutin' at th' sheep, we couldn't hear each other speak." 
