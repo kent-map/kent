@@ -34,6 +34,7 @@
 [Baroness Orczy](20c-orczy-biography)   
 [Wilfred Owen](20c-owen-biography)   
 [Marian Fielding Peck](20c-peck-biography)   
+[S.C. Nethersole](20c-nethersole-biography)   
 [Mary L. Pendered](20c-pendered-biography)   
 [Bertha Porter](20c-porter-biography)   
 [J.G. Sarasin](20c-salmon-biography)   
