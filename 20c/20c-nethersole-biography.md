@@ -53,7 +53,7 @@ Nethersole’s stories of rural life are not chocolate-boxy, but grittily realis
 <br><br>
 The old Fleur-de-lis at Seatown boasted an upper chamber whose walls were panelled with black and shining wood, whose boarded floor was also black and shining, whose round table was mahogany and shone with much polishing. Here once a fortnight gathered the members of the Birthday club, an institution dating three generations back and respected by reason of its age. Clay churchwarden pipes were laid in a cluster on the shining tabletop; chairs with old respectable backs ranged round it ; spittoons beneath were of Wedgwood and as yet unseen by fanciers of old earthenware ; candles lighted the room ; spirits and liqueurs could be found by the initiated somewhere behind the black panelling — duty-paid now, but if cupboards had wooden tongues, great tales they could have told of smuggling days, when scarce a family in Kent but connived secretly or openly at defrauding their majesties, the former Georges, of their dues.[^ref32]
 
-Nethersole was living at The Long House, 62, Strand St, Sandwich on the 1939 register, but by the 1950s she had moved to Whitstable, and was living at Iden Green, 79, Old Bridge Road. She died on 21 May 1956 at 1, Gloucester Road, Whitstable. Her sister Florence was married to John Lade Worsfold of Sandwich, cousin of Jessie Challacombe, the Dover born author of children’s fiction.
+Nethersole was living at The Long House, 62, Strand St, Sandwich on the 1939 register,[^ref33] but by the 1950s she had moved to Whitstable, and was living at Iden Green, 79, Old Bridge Road. She died on 21 May 1956 at 1, Gloucester Road, Whitstable.[^ref34] Her sister Florence married John Lade Worsfold of Sandwich, cousin of Jessie Challacombe, the Dover born author of children’s fiction.
 
 
 ### References
@@ -86,8 +86,10 @@ Nethersole was living at The Long House, 62, Strand St, Sandwich on the 1939 reg
 [^ref26]:  Aberdeen Press and Journal - Monday 19 March 1928.
 [^ref27]: Tonbridge Free Press - Friday 31 October 1930.
 [^ref28]: 1911 census.
-[^ref29]: Ancestry.com
+[^ref29]: 'Ship passenger records', Ancestry.com
 [^ref30]: Aberdeen Press and Journal - Saturday 08 November 1930.
 [^ref31]: 'Women in Kent' Talk given to the Hoath and District WI, _Herne Bay Press_ - Saturday 29 June 1935.
 [^ref32]: [Wilsam](https://archive.org/details/wilsam00nethgoog/page/336/mode/2up), 1913, p. 436.
+[^ref33]: 'The 1939 register', Ancestry.com.
+[^ref34]:  Whitstable Times and Herne Bay Herald - 2 June 1956.
 
