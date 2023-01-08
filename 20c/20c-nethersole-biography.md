@@ -22,6 +22,7 @@ Susie Colyer Nethersole, author of rural fiction, was born on the 14 May 1869 at
 Nethersole keenly observed life on the farm, particularly the conversations around her. In her 1913 book _Wilsam_, Mr Hassock describes driving sheep to market:
 <br><br>
 'The slowest job I know of; why, a funeral could give you half an hour's start an' come in first. Recklect when I was a young man bein' in the middle of three hundred of 'em, pushin' an' urgin' of 'em along. There was th' screamin' of seagulls overhead, an' th' maa, maa, maaing of these blessed sheep all round. 'Twas all right for th' hind man, he had but to foller. By th' time we got to th' medder where th' sale was held, we were that hoarse wi' shoutin' at th' sheep, we couldn't hear each other speak.'[^ref5]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/27/Thomas_Sidney_Cooper_Shepherd_with_sheep_1868.jpg" label="Shepherd with sheep, 1868" attribution="Thomas Sidney Cooper">
 
 By the time Nethersole was eleven, her parents had moved to Crixhall Court near Staple which Hasted described as “once a gentleman's seat, but now diminished to the common size of a farm-house”.[^ref6]  It was at Staple that she received her education. Nethersole describes village education in her 1913 novel _Wilsam_:
 <br><br>
