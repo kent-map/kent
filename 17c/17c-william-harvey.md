@@ -5,29 +5,22 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q3360332" aliases="King’s School">
-<param ve-entity eid="Q863940" aliases="Gonville and Caius College">
 <param ve-entity eid="Q711332" aliases="Matthew Parker">
-<param ve-entity eid="Q35794" aliases="Cambridge">
-<param ve-entity eid="Q193510" aliases="University of Padua">
 <param ve-entity eid="Q435296" aliases="Hieronymus Fabricius">
-<param ve-entity eid="Q16003969" aliases="Royal College of Physicians">
 <param ve-entity eid="Q6483605" aliases="Lancelot Browne">
 <param ve-entity eid="Q7207" aliases="Elizabeth I">
 <param ve-entity eid="Q79972" aliases="James I">
 <param ve-entity eid="Q81506" aliases="Charles">
 <param ve-entity eid="Q26534074" aliases="St Sepulchre">
-<param ve-entity eid="Q164946" aliases="St Bartholomew’s Hospital">
 <param ve-entity eid="Q8778" aliases="Galen">
 <param ve-entity eid="Q9191" aliases="René Descartes">
 <param ve-entity eid="Q1047911" aliases="Caspar Hofmann">
-<param ve-entity eid="Q82513" aliases="Merton College">
 <param ve-entity eid="Q80330" aliases="Civil War">
 <param ve-entity eid="Q3174344" aliases="Jean Riolan">
 <param ve-entity eid="Q17534618" aliases="Church of St Andrew">
 
 **Early Life and Education**   
 William Harvey was born in Folkestone, Kent on 1 April 1578, the eldest child of a farmer and carrier, Thomas Harvey and his second wife, Joan, née Halke. He had six brothers and three sisters, and his brothers were successful merchants and courtiers who provided him material assistance during his career.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Harvey-in-Folkestone.JPG" label="Statue of William Harvey in Folkestone" attribution="Immanuel Giel, via Wikimedia Commons" license="CC BY-SA 3.0">
 <param ve-image url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/KT/FK/KT_FK_12_018-001.jpg" label="William Harvey" attribution="Uknonwn artist. Photo credit: Folkestone Museum" license="CC BY-NC-SA">
 <param ve-map center="Q375314" zoom="10">
 
@@ -66,6 +59,7 @@ During the Commonwealth, Harvey was temporarily banished from London by Parliame
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Some_apostles_of_physiology_-_being_an_account_of_their_lives_and_labours%2C_labours_that_have_contributed_to_the_advancement_of_the_healing_art_as_well_as_to_the_prevention_of_disease_%281902%29_%2814781324281%29.jpg/744px-thumbnail.jpg" label="Engraving of William Harvey from William Stirling’s _Some apostles of physiology_ (1902)" attribution="Public domain, via Wikimedia Commons">
 
 Harvey died, likely from a stroke, on 2 June 1657 at the house of his brother Eliab. He had no children, but left an annuity to his brother-in-law, Galen Browne, who was also a physician. He is buried in the Harvey chapel of the Church of St Andrew, Hempstead, Essex.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Harvey-in-Folkestone.JPG" label="Statue of William Harvey in Folkestone" attribution="Immanuel Giel, via Wikimedia Commons" license="CC BY-SA 3.0">
 <param ve-map center="Q17534618" zoom="13">
 
 ### Bibliography
