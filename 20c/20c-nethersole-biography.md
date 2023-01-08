@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Susie Colyer Nethersole (1869-1956)"
+       title="S.C. Nethersole (1869-1956)"
        author="Michelle Crowther"
        banner="/images/banners/19c.jpg"
        layout="vertical">
