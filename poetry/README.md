@@ -24,9 +24,9 @@ Poet Laureate Alfred Austin lived at Swinford Old Manor near Ashford.
 
 'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!'
 
-## John Keats {href=19c/19c-keats-biography}
+## John Keats {href=/19c/19c-keats-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/7ffe348d-6a60-4e8c-a0ff-fb8a532acc78)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3d6bd78a-fd4c-48c8-89fc-5add0e8f84fe)
 
 The Romantic poet John Keats, whose short but remarkable career and early death from tuberculosis at the age of twenty-five have made him one of the most known and best loved poets of all time, holidayed in Margate on two occasions in the summer and early autumn of 1816 and again in the summer of 1817.
 
