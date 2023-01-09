@@ -8,7 +8,7 @@ The Kent coast and countryside has provided inspiration for poets throughout the
 
 ## Henry Gardiner Adams {href=/19c/19c-gardiner-adams-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ab25bcd6-9bdf-4d71-8385-1ea957703c5a)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fb97b8a2-50de-4cae-b35b-7aedb06de42b)
 
 'Many fair spots of sylvan beauty lie, Around thee, many old historic sites, Sacred to legend and to poesy, And all wherein the fancy most delights, There the clear Medway glideth gently by, And with a murmur sweet, the shading bough requites.'
 
