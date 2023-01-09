@@ -1,4 +1,11 @@
-## Charles Henry Dobson
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Charles Henry Dobson" author="Dr Chris Price" layout="vtl" banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q29303" aliases="Canterbury">
+
+#
+
+## 
 
 Charles Henry Dobson, a [Canterbury](/music/19c-music-canterbury) cathedral singer with 14 years of service (1825–1839) is not mentioned in the [Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) records, which is odd because his name crops up repeatedly in newspaper reports covering everything else musical in this period. He and [James Shoubridge](/music/19c-james-shoubridge) are frequently found performing together, as is reported here at the Catch Club in the nearby coastal town of Deal in 1833: ‘Messrs Shoubridge and Dobson were as usual quite ‘at home’ in the parts assigned them, and gave great satisfaction’.  
 
