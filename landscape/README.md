@@ -42,6 +42,12 @@ One day Barney tumbles into an old chalk pit that is used as a local dumping gro
 
 To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages went 'hopping'.
 
+## S.C. Nethersole {href=/20c/20c-nethersole-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d482e3aa-6764-4b23-92a9-693be7b2934d)
+
+Writer of stories of rural life in East Kent.
+
 ## Hop and Fruit Picking in the 20th century {href=/landscape/20c-encounters-with-others}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8b2c869f-fca1-462c-9f35-0ec431e15266)
