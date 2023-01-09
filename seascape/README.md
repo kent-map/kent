@@ -20,7 +20,7 @@ Built in secret, the old Roman port of Richborough, was chosen for redevelopment
 
 ## Sir John Franklin {href=/19c/19c-franklin-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/9d/%27Erebus%27_and_%27Terror%27_in_the_Antarctic_RMG_BHC1215.tiff)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/08/HMS_Erebus_and_Terror_-_ILN_1845.jpg)
 
 On the 19 May 1845 H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north", and to circumnavigate America.
 
