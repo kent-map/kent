@@ -45,7 +45,7 @@ Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage
 
 - twitter: @HumLib_cccu
 
-Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature.
+Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature.
 
 ## Laura Allen
 
@@ -72,6 +72,12 @@ Brooke Altringham is a history student with a passion for twentieth century hist
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/05320be6-9e97-4649-b095-d150533ae47a)
 
 Dr Pat Argar has a PhD from Canterbury Christ Church University. Her research interests include the writing of Sheila Kaye-Smith, the family history of the Comport family and all things rural (especially with relation to Romney Marsh, where she lives). Before the Covid19 pandemic she regularly gave presentations and talks to groups and societies on local history and literature. She was born and grew up in East Sussex and spent most of her adult life as a teacher. Her pandemic “lockdown” diary can be found at [theruralwriterblog.wordpress.com](theruralwriterblog.wordpress.com)
+
+## Liz Askey
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/cea2880e-59a3-443e-bad3-8d789d02acfc)
+
+Dr Liz Askey holds a doctorate from the University of Kent and is currently working as a freelance online English Tutor. Having previously worked in scientific research (e.g. she was a member of the original Viagra project team at Pfizer Ltd), her research interests have an interdisciplinary flavour including early modern women's poetry and 19th century women botanists.
 
 ## Sophie Baldock
 
