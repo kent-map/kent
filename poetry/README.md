@@ -6,7 +6,7 @@ The Kent coast and countryside has provided inspiration for poets throughout the
 
 # &nbsp; {.cards}
 
-## Henry Gardiner Adams {href=/19c/gardiner-adams-biography}
+## Henry Gardiner Adams {href=/19c/19c-gardiner-adams-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ab25bcd6-9bdf-4d71-8385-1ea957703c5a)
 
