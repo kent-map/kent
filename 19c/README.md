@@ -30,6 +30,7 @@
 [Catherine Ann Crowe](19c-crowe-biography)   
 [Richard Dadd](19c-dadd-biography)   
 [Charles Darwin](19c-darwin-biography)   
+[Charles Dickens](/dickens)   
 [Sir Arthur Conan Doyle](19c-conan-doyle)   
 [William Dyce](19c-dyce-biography)   
 [George Eliot](19c-eliot-george-biography)   
