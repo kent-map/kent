@@ -24,7 +24,7 @@ Poet Laureate Alfred Austin lived at Swinford Old Manor near Ashford.
 
 'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!'
 
-## John Keats {href=/19c/19c-keats-biography}
+## John Keats {href=/19c/19c-keats-margate}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3d6bd78a-fd4c-48c8-89fc-5add0e8f84fe)
 
