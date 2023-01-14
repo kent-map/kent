@@ -219,6 +219,12 @@ Dr Helena Kelly holds a doctorate from the University of Oxford but is currently
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b8a2fa4f-75f3-4a94-ad46-79dec2ef7e06)
 
+## Madelaine Lennon
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e9c63d94-5139-425b-a6f3-7d1245d68ba8)
+
+Madeleine Lennon is currently an A-Level student with an interest in early medieval history. 
+
 ## Richard Maltby
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/richardmaltby.JPG)
