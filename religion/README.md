@@ -10,28 +10,28 @@ Kent is a county of many faiths. Only a small part of this is represented here, 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
-xxx
+Reverend Hugh Price Hughes, Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869. Aged twenty-two and fresh from Richmond Theological College, the ‘pale bespectacled’ young man was to become a key figure in the Dover temperance movement.
 
 ## Joseph Pyke {href=/19c/19c-pyke-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
-xxx
+Silversmith and later Warden of the Central Synogogue, Joseph Pyke was involved in the establishment of a Mechanics Institute in Chatham.
 
 ## Archibald Campbell Tait {href=/19c/19c-tait-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
-xxx
+Archbishop of Canterbury from 1868–1882, Archibald Campbell Tait liked to relax at his marine residence at Stonehouse, St Peter's, Thanet.
 
 ## The Hidden Gems of Parochial Kent {href=/19c/churches/overview}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
-xxx
+Kent is not only the garden of England, it is also the first landing site of Christianity in Britain. St Augustine began his mission to convert the Britons to Christianity in Canterbury.
 
 ## Jewish Emancipation {href=/19c/19c-jewish-emancipation}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
-xxx
+Rochester and Chatham were pioneers of Jewish Emancipation.
