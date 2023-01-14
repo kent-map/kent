@@ -26,7 +26,7 @@ Archbishop of Canterbury from 1868–1882, Archibald Campbell Tait liked to rela
 
 ## The Hidden Gems of Parochial Kent {href=/19c/churches/overview}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
 
 Kent is not only the garden of England, it is also the first landing site of Christianity in Britain. St Augustine began his mission to convert the Britons to Christianity in Canterbury.
 
