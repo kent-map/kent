@@ -18,6 +18,12 @@ Chaucer has become one of England’s most famous poets. He is best known for Th
 
 For England, what might be considered a unique confederation of medium-sized and small port towns was initiated in Edward the Confessor’s reign and is still valued by these urban communities today.
 
+## Battle of Crayford {href=battleofcrayford}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cd/BL_Cotton_Tiberius_B_I_f._118r.png)
+
+A short entry in the Anglo-Saxon Chronicle documents a little-known event which took place in the mid fifth century, on the slopes above the modern-day town of Crayford.
+
 ## Hengest and Horsa {href=hengestandhorsa}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/05d3fd9a-d78d-45b0-9baa-4eadde612f7a)
@@ -35,9 +41,3 @@ Joan of Kent - first Princess of Wales.
 ![](https://stor.artstor.org/stor/1738ab17-c2ac-4e27-bb5f-1d2dcf05925d)
 
 Canterbury has many fascinating medieval buildings and traces of its Medieval past can be found in the most unexpected places.
-
-## Battle of Crayford {href=battleofcrayford}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cd/BL_Cotton_Tiberius_B_I_f._118r.png)
-
-A short entry in the Anglo-Saxon Chronicle documents a little-known event which took place in the mid fifth century, on the slopes above the modern-day town of Crayford.
