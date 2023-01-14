@@ -8,7 +8,7 @@ Kent is a county of many faiths. Only a small part of this is represented here, 
 
 ## Rev. Hugh Price Hughes {href=/19c/19c-price-hughes-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3afaf5c-646f-47c9-8c92-4ce0e72c8170)
 
 Reverend Hugh Price Hughes, Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869. Aged twenty-two and fresh from Richmond Theological College, the ‘pale bespectacled’ young man was to become a key figure in the Dover temperance movement.
 
