@@ -176,6 +176,12 @@ A county of rich architecture; castles, churches, ports, forts and towers.
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
+## Poetic Kent {href=poetry}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/335d901a-8416-4356-8a12-1607c997a9a2)
+
+The Kent coast and countryside has provided inspiration for poets throughout the centuries.
+
 ## Prisons and Discipline {href=prisons}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8b87d15d-5d86-4784-ab72-8dad919689c2)
