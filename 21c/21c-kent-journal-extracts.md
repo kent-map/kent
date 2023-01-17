@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Journal Extracts 2007-2018" author="Laurie Duggan" layout="vtl" banner="images/Faversham across Ham Marshes 1.jpeg" attribution="Faversham across Ham Marshes © Astrid Stilma">
+<param ve-config title="Journal Extracts 2007-2018" author="Laurie Duggan" layout="vtl" banner="https://iiif.juncture-digital.org/banner?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham%20across%20Ham%20Marshes%201.jpeg" attribution="Faversham across Ham Marshes © Astrid Stilma">
 
 <param ve-entity eid="Q1752642" aliases="Thanet">
 <param ve-entity eid="Q7370806" aliases="Rough Common">
