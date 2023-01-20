@@ -13,9 +13,9 @@
 Admiral Sir Cloudesley Shovell (1650-1707), whose death was the catalyst for the introduction of the 1714 Longitude Act.
 <br><br>
 Like Horatio Nelson (1753-1805), Cloudesley Shovell was born in North Norfolk; like Nelson he enjoyed an illustrious naval career, but as his biographer Simon Harris writes, he is largely forgotten today. Equally his association with Kent is little known.
-<param ve-image url="https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_1650-1707.jpg" label="Sir Cloudesley Shovell 1650-1707" attribution="Michael Dahl, Public domain, via Wikimedia Commons">
-
+<br><br>
 At the age of 12 Shovell went to sea as cabin boy to John Narborough (1640-1688) on the _Centurion_, and went on to take part in naval battles of the Third Anglo-Dutch War including the Battle of Solebay (1672) and various skirmishes with pirates in the Mediterranean and on the Barbary Coast. In 1677 he was given command of his first ship, the _Sapphire_, and subsequently saw service in the Williamite War (1689-1691) and in the War of the Spanish Succession (1701-1715), notably the siege of Gibraltar (1704). During part of this time Samuel Pepys (1633-1703) was Chief Secretary to the Admiralty (1673-1689): at first he approved of Shovell, but subsequently described him as a ‘poltroon’. The relationship between them was never an easy one.
+<param ve-image url="https://commons.wikimedia.org/wiki/File:Sir_Cloudesley_Shovell,_1650-1707.jpg" label="Sir Cloudesley Shovell 1650-1707" attribution="Michael Dahl, Public domain, via Wikimedia Commons">
 
 Despite his own Norfolk origins, John Narborough owned the Knowlton Court estate between Sandwich and Dover. Narborough, like Shovell after him, went on to have a distinguished career, becoming an admiral and being knighted at the end of the Anglo-Dutch War in 1673. Narborough died at sea following a fever in 1688, and in 1691 Shovell married Narborough’s widow Elizabeth. 
 <param ve-image url="https://commons.wikimedia.org/wiki/File:Knowlton_Court-geograph.org.uk-2570816.jpg" label="Knowlton Court from St Clement church yard" attribution="Nick Smith" license="CC BY-SA 2.0">
