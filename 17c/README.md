@@ -24,6 +24,12 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 
 Naturalist and chemist, Plot was born at Borden in Kent.
 
+## Sir Cloudesley Shovell {href=17c-shovell-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cd/A_Large_Draught_of_the_DOWNES_NYPL1640571.tiff)
+
+Rear Admiral and Commander-in-Chief of the Fleet, and also MP for Rochester, Sir Cloudesley Shovell, had homes in Crayford and West Street, near Northbourne.
+
 ## John Tradescant the Younger {href=17c-john-tradescant-younger}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
