@@ -33,7 +33,7 @@ After completing his degree at Cambridge, Harvey studied medicine at the Univers
 
 **Medical Career**   
 Returning from Italy in 1602, Harvey established himself as a physician in London. He was not admitted to the Royal College of Physicians until 1604, having initially failed in his admission examinations. Having finally gained admission, in 1604 he married Elizabeth Browne, daughter of Lancelot Browne, one of the physicians to Elizabeth I and James I of England, at St Sepulchre’s.
-<param ve-map center=" Q26534074" zoom="13">
+<param ve-map center="Q26534074" zoom="13">
 
 In 1607, Harvey became a fellow of the Royal College of Physicians and, in 1609, was appointed physician to St Bartholomew's Hospital. In 1613, he was appointed a censor, one of the College’s examiners, and reappointed thereafter in 1625 and 1627, when he also became an elect. He subsequently became the College’s Treasurer (1628). In 1618, Harvey followed in his father-in-law’s footsteps and became a physician to James I and then to James' son Charles when he became king. Both James and Charles took a close interest in and encouraged Harvey's research, with Charles providing deer for Harvey to dissect. 
 <param ve-map center="Q164946" zoom="13">
