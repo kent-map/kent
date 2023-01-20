@@ -33,11 +33,13 @@ to whom he was a generous patron and a worthy example. His body was flung on the
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Cloudesleyshovellmemorial.jpg" label="Cloudesley Shovell Memorial" attribution="Op. Deo, Public domain, via Wikimedia Commons">
 
 Such was the loss of ships and men (around 2000) in that deadly storm that, following a petition by Merchants and Seamen, in 1714 Parliament passed “An Act for providing a public Reward for such Person or Persons as shall discover the Longitude at Sea”. To calculate longitude it was necessary to accurately calculate the amount of time you had spent sailing from a port whose longitude was known. The Longitude Act provided for a prize of £20,000 for anyone who could arrive at a practical method for calculating longitude to an accuracy of half a degree. Eventually a carpenter from Yorkshire, John Harrison, devised a series of portable clocks, the last of which was accurate to within three seconds a day, though he was not to receive the full amount of the prize.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/91/Harrison_H4_clock_in_The_principles_of_Mr_Harrison%27s_time-keeper_1767.jpg" label="Harrison H4 Clock in The Principles of Mr Harrison Time-keeper, 1767" attribution="Ferdinand Berthoud, Public domain, via Wikimedia Commons">
-
+<br><br>
 As Simon Harris says, Shovell deserves to be remembered for his illustrious career during his life. In his death he deserves to be remembered as the catalyst which eventually brought about the solution to the problem of calculating longitude. 
 <br><br>
 Further details may be found in [_Shovell and Longitude_](https://www.crayfordhistory.org.uk/wp-content/uploads/pdf%20uploads%20BE/Shovell%20Interactive%20Booklet/ie10_fallback.pdf)
+<br><br>
+This article was published: 20 January 2023.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/91/Harrison_H4_clock_in_The_principles_of_Mr_Harrison%27s_time-keeper_1767.jpg" label="Harrison H4 Clock in The Principles of Mr Harrison Time-keeper, 1767" attribution="Ferdinand Berthoud, Public domain, via Wikimedia Commons">
 
 ### Bibliography
 
