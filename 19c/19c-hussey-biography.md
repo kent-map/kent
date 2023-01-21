@@ -46,8 +46,9 @@ This article was published: 6 January 2022.
 [^ref15]: Woman’s Work Op.Cit.
 [^ref16]: Judith W. Page and Elise L. Smith, _Women, Literature and The Domesticated Landscape: England’s Disciples of Flora, 1780-1870_. (CUP, 2014).106.
    [ser.1 (1847) - Illustrations of British mycology - Biodiversity Heritage Library (biodiversitylibrary.org) ] ser.2   (1855) - Illustrations of British   mycology - Biodiversity Heritage Library (biodiversitylibrary.org)
-[^ref17]: Women's Work (lindahall.org) accessed 271122
-[^ref18]: Fraser's Magazine 1849-05: Vol 39 Iss 233 : Free Download, Borrow, and Streaming : Internet Archive; _Fraser's Magazine_ 1849-06: Vol 39 Iss 234 : Free Download, Borrow, and Streaming : Internet Archive ; Fraser's Magazine 1849-07: Vol 40 Iss 235 : Free Download, Borrow, and Streaming : Internet Archive accessed 28/12/22.
-[^ref19]: Fraser's Magazine 1830-1882 : Free Texts : Free Download, Borrow and Streaming : Internet Archive accessed 28/12/22.
-[^ref20]: Page and Smith, Op.Cit.108.
+[^ref17]: [ser.1 (1847) - Illustrations of British mycology - Biodiversity Heritage Library (biodiversitylibrary.org) ] ser.2 (1855) - Illustrations of British mycology - Biodiversity Heritage Library (biodiversitylibrary.org)
+[^ref18]: Women's Work (lindahall.org) accessed 271122
+[^ref19]: Fraser's Magazine 1849-05: Vol 39 Iss 233 : Free Download, Borrow, and Streaming : Internet Archive; _Fraser's Magazine_ 1849-06: Vol 39 Iss 234 : Free Download, Borrow, and Streaming : Internet Archive ; Fraser's Magazine 1849-07: Vol 40 Iss 235 : Free Download, Borrow, and Streaming : Internet Archive accessed 28/12/22.
+[^ref20]: Fraser's Magazine 1830-1882 : Free Texts : Free Download, Borrow and Streaming : Internet Archive accessed 28/12/22.
+[^ref21]: Page and Smith, Op.Cit.108.
 
