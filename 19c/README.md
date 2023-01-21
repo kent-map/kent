@@ -94,7 +94,7 @@
 
 ### Events
 
-[Contagious Disesases Acts](19c-contagious-diseases)   
+[Contagious Diseases Acts](19c-contagious-diseases)   
 [Hoodening](19c-hoodening)  
 [Jewish Emancipation](19c-jewish-emancipation)   
 [Leather and Dust](/dickens/19c-leather-and-dust)   
