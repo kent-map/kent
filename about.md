@@ -146,7 +146,7 @@ He grew up in Birchington during the 1960s and 1970s.  His first foray into jour
 He has since worked for large corporations, public sector organisations, PR agencies and newspapers, in a range of writing, design and production roles.
 While resident in Whitstable for 34 years, Nick has long been interested in the county’s social evolution.  He has written several local books, most notably about the histories of Broadstairs, Birchington, Cliftonville and Westgate as well as the Dreamland amusement park in Margate.  Another of his recent works has explored the history of British petrol stations which will be followed in 2023 by a new book about popular classic cars.
 
-## Michaael Goodrum
+## Michael Goodrum
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/goodrum.JPG)
 
