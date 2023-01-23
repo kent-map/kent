@@ -13,6 +13,10 @@ Arthur Conan Doyle was born in Edinburgh in 1859, the year [Charles Darwin](/19c
 Like both [Dickens](/dickens) and [H. G. Wells](/20c/20c-wellshg-biography), Conan Doyle has strong links to Portsmouth and London, although he moved to Sussex in 1907 when he married his second wife Jean Leckie. His links to Kent are less well-known, although Jean herself had been born in Kidbrooke in 1874.[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Portrait_of_Arthur_Conan_Doyle.jpg" label="Portrait of Arthur Conan Doyle" attribution="Elliott & Fry, Public domain, via Wikimedia Commons">
 
+No fewer than six of the Sherlock Holmes stories involve Kent railway stations, although ‘Even in the first class carriages of the South Eastern Railway Holmes and Watson would have found conditions rather uncomfortable, especially in winter.’ [Ref 2] 
+‘The Man With the Twisted Lip’(1891) is set in the vicinity of Lewisham and Blackheath, while eponymous figure in ‘The Greek Interpreter’ (1893) is lured to Beckenham. ‘The Final Problem’ of 1893 would turn out to be far from final. But what should have been Holmes’s last journey on the Kentish railway would have taken him to Tonbridge via Canterbury and Ashford. ‘The Abbey Grange’ (1904) is reached from Chiselhurst. The investigation in ‘The Golden Pince-Nez’ (1894) involves a journey to Chatham station, although the marshes seen from the window are suggestive of Gravesend and Yoxley Old Place is likely to be somewhere near Higham. 
+
+
 While his writing was lucrative enough for a growing family (at least once the definitely dead Sherlock Holmes had been revived for an Edwardian audience), other speculations were less than successful. Like the Micawbers in [_David Copperfield_](/dickens/david-copperfield-curated-walk), Conan Doyle learned the hard way that the Kent coal trade ’may require talent, but that it certainly requires capital.’[^ref2]  He was sufficiently enthralled to have gone underground to see the mines for himself, and defended the Burr coal group against attacks in the press in 1913. But he later admitted the impossibility that what he had once termed ‘a stupendous movement which is destined to revolutionise the most historical corner of England’[^ref3]  could in practice be successful if it was ‘wildly financed and extravagantly handled’.[^ref4]  His study of prehistoric life proved equally unsuccessful – if less ruinous – when he failed to unearth dinosaur bones in the High Rocks area of Ashdown in 1909.[^ref5] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/79/Conan_Doyle_LCCN2014714597.jpg" label="Conan Doyle family 1900" attribution="Bain News Service, publisher, Public domain, via Wikimedia Commons">
 
@@ -52,7 +56,8 @@ _The Edge of the Unknown_. London: John Murray, 1930.
 _Memories and Adventures_. Cambridge: CUP, 2012.   
 ‘”Female Hooligans”: Protest Meeting at Tunbridge Wells.’ _Free Press_. 2 May 1913. 6.Grand, Sarah to Lady Jean Conan Doyle. 1919. British Library. Add.MSS.88924/1/57   
 Grand, Sarah. Letter to Lady Jean Conan Doyle. 9 April 1919. British Library. MSS.88924/1/57.   
-‘In the Spring.’ 12 December 1914. _ Sheerness Times Guardian._7.   
+‘In the Spring.’ 12 December 1914. _ Sheerness Times Guardian._ 7.  
+Jones, Kelvin. _Sherlock Holmes and the Kent Railways_. Meresborough Books, 1987. 
 Lellenberg, Jon, Daniel Stashower and Charles Foley. _Arthur Conan Doyle: a Life in Letters_. London: Harper, 2007.   
 ‘”Great Battles of the War.” Lecture today at Town Hall, Folkestone.’ 10 April 1915. _Folkestone, Hythe, Sandgate and Cheriton Herald_. 4.   
 Lycett, Andrew. _The Man Created Sherlock Holmes: the Life and Times of Sir Arthur Conan Doyle_ Free Press, 2007.   
@@ -68,21 +73,22 @@ Telfer, Kevin, Peter Pan’s First XI: The Extraordinary Story of J. M. Barrie�
 ### References
 
 [^ref1]: For the death of Lady Conan Doyle’s brother at the Pavilion Hotel in Folkestone see _Folkestone, Sandgate, Hythe and Cheriton Herald_. 14 June 1930. 2.
-[^ref2]: _David Copperfield_ [Chapter 17.]( http://www.literaturepage.com/read/davidcopperfield-303.html)
-[^ref3]: ‘Kent Coal’.
-[^ref4]: _Memories and Adventures_ 240.
-[^ref5]: Lycett 347-8.
-[^ref6]: _Victoria Club Magazine, 2 July 1903_. Cited in Miller 245. 
-[^ref7]: https://www.manhattanrarebooks.com/pages/books/1594/arthur-conan-doyle/micah-clarke?soldItem=true accessed 13 December 2022.
-[^ref8]: Telfer, Introduction.
-[^ref9]: With thanks to Alan Cutts of Tunbridge Wells Cricket Club for drawing my attention to this event.
-[^ref10]: Carwardine 11.
-[^ref11]: ‘"Female Hooligans": Protest Meeting at Tunbridge Wells.’ 
-[^ref12]: Her statement was printed by the _Sussex Courier_ on 2 May.
-[^ref13]: ‘Recruiting Week at Tunbridge Wells.’ 
-[^ref14]: A lecture in Folkestone Town Hall on 10 April 1915 was titled ‘Great Battles of the War’.
-[^ref15]:  Letter from Sarah Grand to Lady Jean Conan Doyle. 9 April 1919. 
-[^ref16]: Collected in the essay collection _The Edge of the Unknown_.
+[^ref2]: Jones 12. For the identification of Yoxley Old Place see Jones 30-31. For Holmes's timetable in 'The Final Problem' see 49-50. 
+[^ref3]:_David Copperfield_ [Chapter 17.]( http://www.literaturepage.com/read/davidcopperfield-303.html)
+[^ref4]: ‘Kent Coal’.
+[^ref5]: _Memories and Adventures_ 240.
+[^ref6]: Lycett 347-8.
+[^ref7]: _Victoria Club Magazine, 2 July 1903_. Cited in Miller 245. 
+[^ref8]: https://www.manhattanrarebooks.com/pages/books/1594/arthur-conan-doyle/micah-clarke?soldItem=true accessed 13 December 2022.
+[^ref9]: Telfer, Introduction.
+[^ref10]: With thanks to Alan Cutts of Tunbridge Wells Cricket Club for drawing my attention to this event.
+[^ref11]: Carwardine 11.
+[^ref12]: ‘"Female Hooligans": Protest Meeting at Tunbridge Wells.’ 
+[^ref13]: Her statement was printed by the _Sussex Courier_ on 2 May.
+[^ref14]: ‘Recruiting Week at Tunbridge Wells.’ 
+[^ref15]: A lecture in Folkestone Town Hall on 10 April 1915 was titled ‘Great Battles of the War’.
+[^ref16]:  Letter from Sarah Grand to Lady Jean Conan Doyle. 9 April 1919. 
+[^ref17]: Collected in the essay collection _The Edge of the Unknown_.
 
 
 
