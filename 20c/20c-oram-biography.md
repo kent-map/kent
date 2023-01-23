@@ -3,7 +3,7 @@
 
 <param ve-entity eid=“Q2051722” aliases=“Yalding”>
 
-Born in 1925, Oram turned down a place at the Royal College of Music in 1942 to become a Junior Studio Engineer and ‘music balancer’ at the BBC. It was during this period that she began to experiment with sound using tape recorders, splicing, looping and changing playback speed and direction. Oram also composed a number of pieces including ‘Still Point’, considered the first composition to combine acoustic orchestration with live electronic manipulation. The piece, rejected at the time by the BBC, remained unheard until it was performed for the very first time at the 2018 Proms:
+Born in 1925, Daphne Oram, electronic music pioneer, turned down a place at the Royal College of Music in 1942 to become a Junior Studio Engineer and ‘music balancer’ at the BBC. It was during this period that she began to experiment with sound using tape recorders, splicing, looping and changing playback speed and direction. Oram also composed a number of pieces including ‘Still Point’, considered the first composition to combine acoustic orchestration with live electronic manipulation. The piece, rejected at the time by the BBC, remained unheard until it was performed for the very first time at the 2018 Proms:
 
 https://www.youtube.com/watch?v=XwQe63jibQg
 
