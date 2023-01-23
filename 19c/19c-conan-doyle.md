@@ -7,6 +7,15 @@
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 <param ve-entity eid="Q1547383" aliases="Groombridge Place">
 <param ve-entity eid="Q729006" aliases="Chatham">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q215030" aliases="Lewisham">
+<param ve-entity eid="Q880861" aliases="Blackheath">
+<param ve-entity eid="Q123372" aliases="Beckenham">
+<param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q725261" aliases="Ashford">
+<param ve-entity eid="Q122917" aliases="Chiselhurst">
+<param ve-entity eid="Q729006" aliases="Chatham">
+<param ve-entity eid="Q2336499" aliases="Higham">
 
 Arthur Conan Doyle was born in Edinburgh in 1859, the year [Charles Darwin](/19c/19c-darwin-biography) published _On the Origin of Species_, and knighted in 1902. The creator of the world’s most famous detective Sherlock Holmes, Conan Doyle was never fully comfortable with his success as a populist writer. Tellingly his own literary heroes included the notoriously arcane [George Meredith](/19c/19c-meredith-biography): at one point in ‘The Boscombe Valley Mystery’ Holmes says firmly, ‘And now let us talk about George Meredith, if you please, and we shall leave all minor matters until to-morrow.’ 
 <br><br>
@@ -14,16 +23,16 @@ Like both [Dickens](/dickens) and [H. G. Wells](/20c/20c-wellshg-biography), Con
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Portrait_of_Arthur_Conan_Doyle.jpg" label="Portrait of Arthur Conan Doyle" attribution="Elliott & Fry, Public domain, via Wikimedia Commons">
 
 No fewer than six of the Sherlock Holmes stories involve Kent railway stations, although ‘Even in the first class carriages of the South Eastern Railway Holmes and Watson would have found conditions rather uncomfortable, especially in winter.’ [Ref 2] ‘The Man With the Twisted Lip’(1891) is set in the vicinity of Lewisham and Blackheath, near London.
-
+<br><br>
 Also minimising travel, the eponymous figure in ‘The Greek Interpreter’ (1893) is lured to Beckenham.
 
 ‘The Final Problem’ of 1893 would turn out to be far from final. But what should have been Holmes’s last journey on the Kentish railway would have taken him to Tonbridge via [Canterbury](https://www.kent-maps.online/19c/19c-canterbury) and Ashford. 
-
+<br><br>
 ‘The Abbey Grange’ (1904) is reached from Chiselhurst. 
 
 The investigation in ‘The Golden Pince-Nez’ (1894) involves a journey to Chatham station, although the marshes seen from the window are suggestive of Gravesend and Yoxley Old Place is likely to be somewhere near Higham. 
-
-The last Holmes novel, The Valley of Fear, was published in 1915 but set around 1888. While Holmes insists that he is just over the Sussex border rather than in Kent, he spends a notable amount of time in Tunbridge Wells. 
+<br><br>
+The last Holmes novel, _The Valley of Fear_, was published in 1915 but set around 1888. While Holmes insists that he is just over the Sussex border rather than in Kent, he spends a notable amount of time in Tunbridge Wells. 
 
 While his writing was lucrative enough for a growing family (at least once the definitely dead Sherlock Holmes had been revived for an Edwardian audience), other speculations were less than successful. Like the Micawbers in [_David Copperfield_](/dickens/david-copperfield-curated-walk), Conan Doyle learned the hard way that the Kent coal trade ’may require talent, but that it certainly requires capital.’[^ref2]  He was sufficiently enthralled to have gone underground to see the mines for himself, and defended the Burr coal group against attacks in the press in 1913. But he later admitted the impossibility that what he had once termed ‘a stupendous movement which is destined to revolutionise the most historical corner of England’[^ref3]  could in practice be successful if it was ‘wildly financed and extravagantly handled’.[^ref4]  His study of prehistoric life proved equally unsuccessful – if less ruinous – when he failed to unearth dinosaur bones in the High Rocks area of Ashdown in 1909.[^ref5] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/79/Conan_Doyle_LCCN2014714597.jpg" label="Conan Doyle family 1900" attribution="Bain News Service, publisher, Public domain, via Wikimedia Commons">
