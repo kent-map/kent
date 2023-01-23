@@ -26,7 +26,7 @@ Also minimising travel, the eponymous figure in ‘The Greek Interpreter’ (189
 ‘The Abbey Grange’ (1904) is reached from <span data-mouseover-image-zoomto="2271,1536,728,534">Chiselhurst</span>. 
 <param ve-image url="https://stor.artstor.org/stor/c9754956-2845-403f-b27b-2e4fb5b36184" label="Kent Map showing railway stations" attribution="Kent Maps Online">
 
-The investigation in ‘The Golden Pince-Nez’ (1894) involves a journey to <span data-mouseover-image-zoomto="1244,580,1455,1066">Chatham</span> station, although the marshes seen from the window are suggestive of Gravesend and Yoxley Old Place is likely to be somewhere near <span data-mouseover-image-zoomto="1244,580,1455,1066">Higham</span>. 
+The investigation in ‘The Golden Pince-Nez’ (1894) involves a journey to <span data-mouseover-image-zoomto="3959,704,2910,2132">Chatham</span> station, although the marshes seen from the window are suggestive of Gravesend and Yoxley Old Place is likely to be somewhere near <span data-mouseover-image-zoomto="1244,580,1455,1066">Higham</span>. 
 <br><br>
 The last Holmes novel, _The Valley of Fear_, was published in 1915 but set around 1888. While Holmes insists that he is just over the Sussex border rather than in Kent, he spends a notable amount of time in <span data-mouseover-image-zoomto="1244,580,1455,1066">Tunbridge Wells</span>. 
 <param ve-image url="https://stor.artstor.org/stor/c9754956-2845-403f-b27b-2e4fb5b36184" label="Kent Map showing railway stations" attribution="Kent Maps Online">
