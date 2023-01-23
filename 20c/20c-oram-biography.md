@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Daphne Oram (1925–2003)" author="Emma Latham" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Court%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2369693.jpg" attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" license="CC BY-SA 2.0">
+<param ve-config title="Daphne Oram (1925–2003)" author="Emma Latham" layout="vtl" banner="https://stor.artstor.org/stor/ed545935-aca9-4569-9b43-54e1f11d3e99" label="Canterbury Christ Church College">
 
 <param ve-entity eid="Q2740296" aliases="Wrotham">
 <param ve-entity eid="Q3133261" aliases="Meopham">
