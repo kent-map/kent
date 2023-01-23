@@ -32,6 +32,7 @@
 [Donald Maxwell](20c-maxwelld-biography)   
 [Paul Nash](20c-nash-biography)   
 [S.C. Nethersole](20c-nethersole-biography)  
+[Daphne Oram](20c-oram-biography)   
 [Baroness Orczy](20c-orczy-biography)   
 [Wilfred Owen](20c-owen-biography)   
 [Marian Fielding Peck](20c-peck-biography)     
