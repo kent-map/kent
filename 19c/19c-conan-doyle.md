@@ -24,7 +24,7 @@ No fewer than six of the Sherlock Holmes stories involve Kent railway stations, 
 Also minimising travel, the eponymous figure in ‘The Greek Interpreter’ (1893) is lured to <span data-mouseover-image-zoomto="1313,1514,737,540">Beckenham</span>.
 <param ve-image url="https://stor.artstor.org/stor/c9754956-2845-403f-b27b-2e4fb5b36184" label="Kent Map showing railway stations" attribution="Kent Maps Online">
 
-‘The Final Problem’ of 1893 would turn out to be far from final. But what should have been Holmes’s last journey on the Kentish railway would have taken him to <span data-mouseover-image-zoomto="1244,580,1455,1066">Tonbridge</span> via [Canterbury](https://www.kent-maps.online/19c/19c-canterbury) and <span data-mouseover-image-zoomto="1244,580,1455,1066">Ashford</span>. 
+‘The Final Problem’ of 1893 would turn out to be far from final. But what should have been Holmes’s last journey on the Kentish railway would have taken him to <span data-mouseover-image-zoomto="2895,3581,1474,1081">Tonbridge</span> via <span data-mouseover-image-zoomto="2895,3581,1474,1081">Canterbury</span> and <span data-mouseover-image-zoomto="1244,580,1455,1066">Ashford</span>. 
 <br><br>
 ‘The Abbey Grange’ (1904) is reached from <span data-mouseover-image-zoomto="1244,580,1455,1066">Chiselhurst</span>. 
 <param ve-image url="https://stor.artstor.org/stor/c9754956-2845-403f-b27b-2e4fb5b36184" label="Kent Map showing railway stations" attribution="Kent Maps Online">
