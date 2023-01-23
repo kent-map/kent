@@ -3,10 +3,8 @@
 
 <param ve-entity eid=“Q2051722” aliases=“Yalding”>
 
-Born in 1925, Daphne Oram, pioneer of electronic music, turned down a place at the Royal College of Music in 1942 to become a Junior Studio Engineer and ‘music balancer’ at the BBC. It was during this period that she began to experiment with sound using tape recorders, splicing, looping and changing playback speed and direction. Oram also composed a number of pieces including ‘Still Point’, considered the first composition to combine acoustic orchestration with live electronic manipulation. The piece, rejected at the time by the BBC, remained unheard until it was performed for the very first time at the 2018 Proms:
-
-https://www.youtube.com/watch?v=XwQe63jibQg
-
+Born in 1925, Daphne Oram, pioneer of electronic music, turned down a place at the Royal College of Music in 1942 to become a Junior Studio Engineer and ‘music balancer’ at the BBC. It was during this period that she began to experiment with sound using tape recorders, splicing, looping and changing playback speed and direction. Oram also composed a number of pieces including ‘Still Point’, considered the first composition to combine acoustic orchestration with live electronic manipulation. The piece, rejected at the time by the BBC, remained unheard until it was performed for the very first time at the 2018 Proms.
+       
 Oram’s success in producing electronic themes and sound effects, including a composition for the play ‘Amphitryon 38’ which was the first wholly electronic score in the history of the BBC, led to a growing demand for programmes to be scored in this way. Oram campaigned for dedicated facilities and in 1958 the BBC’s Radiophonic Workshop was established with Oram as its Studio Manager. Despite her success in having established the workshop, Oram was not involved in its activities for long. Inspired by musicians across the channel and increasingly frustrated by the BBC music department’s attitude towards electronic composition and its refusal to make it a focal point of their activities, she resigned from her post less than a year into the workshop’s existence. However, through her pioneering achievements she made possible the work of later workshop musicians such as Delia Derbyshire, composer of the iconic ‘Doctor Who’ theme tune.
 
 Upon leaving the BBC, Oram set up her own studio at Tower Folly, Fairseat: 'a freezing converted oast house at Wrotham in Kent, where her clutter was augmented by a menagerie of cats, goats and chickens.'[^ref1]  It was here that she composed electronic music and developed the innovative technique called Oramics, for which she built her own unique machine. It involves drawing directly onto film strips which are then read by photo-electric cells and converted into sound. In Oram’s own words:
@@ -25,6 +23,10 @@ A compilation of Oram’s music was released in 2007, and an exhibition ‘Orami
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bb/Oramics_Machine_-_details_2.jpg" label="Oramics Machine" attribution="linearclassifier, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Daphne Oram is a pivotal figure in the development of electronic music and its applications, and it is most fitting that Canterbury Christ Church University has dedicated the new creative arts building to this woman of extraordinary vision and innovation where future generations of creators can hone and develop their skills, making their own trailblazing discoveries, under a roof bearing her name.
+<br><br>
+You can find out more about Daphne Oram [here](https://youtu.be/RTHXwgTpy90). 
+<br><br>
+This article was published: 23 January 2023.
 
 ### References
 
