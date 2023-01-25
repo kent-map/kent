@@ -6,9 +6,9 @@
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 
-**Lived in Ramsgate from around 1875 - until death in 1917**      
+Lived in Ramsgate from around 1875 - until death in 1917     
 <br>
-**Publication**: _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_, 1897.  
+Publication: _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_, 1897.  
 <br>
 'The New Pier, many years old by now, for entrance to which, as being something superior, twopence is charged, is an instance of that kind of half-fulfilled promise whereof Ramsgate generally offers several evident examples. But while there is a pier there is hope, and it may yet occur to its proprietors, or to the local authorities, to say, after the manner of Mr Wemmick, out of office-hours, in [Great Expectations](/dickens/great-expectations-curated-walk), "Hello! Here’s a pier! Let’s do something with it!"’ _The Z.Z.G._
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Portrait_of_F._C._Burnand.jpg" label="Portrait of F. C. Burnand.jpg" attribution="Elliott & Fry, Public domain, via Wikimedia Commons">
