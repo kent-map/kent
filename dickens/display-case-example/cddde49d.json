@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Some kind of bag",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/cddde49d98b80cc40f5c389155b289add036a088f5585041c1f0fb113b97689f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:518.4169921875,623.6732177734375,293.06024169921875,106.04681396484375"
+      },
+      "id": "cddde49d"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "41689622"
+  }
+]
