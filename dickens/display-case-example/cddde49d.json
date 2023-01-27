@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "41689622"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "A book",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/cddde49d98b80cc40f5c389155b289add036a088f5585041c1f0fb113b97689f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:522.6517944335938,867.806396484375,458.0751953125,313.4359130859375"
+      },
+      "id": "cddde49d"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c29433c0"
   }
 ]
