@@ -25,19 +25,20 @@ Many convalescent homes were established in Kent, with its temperate seaside cli
 Kent is not only the garden of England, it is also the first landing site of Christianity in Britain. St Augustine began his mission to convert the Britons to Christianity in Canterbury.
 
 
-## Folkestone Free Library {href=/19c/19c-folkestone-free-library/}
+## Folkestone Free Library {href=/19c/19c-folkestone-free-library}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg)
 
 H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervously, ‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather'.
 
-## Victorian Turkish Baths {href=/19c/19c-turkish-baths/}
+
+## Victorian Turkish Baths {href=/19c/19c-turkish-baths}
 
 ![](https://iiif.wellcomecollection.org/image/L0005395/full/full/0/default.jpg)
 
 While Kent had fewer Turkish baths than many northern counties, they were no less interesting than those built elsewhere. Many well-known people used them including F C Burnand, Wilkie Collins, Edward Linley Sambourne and George Grossmith. 
 
-## The Secret War Tunnels of Dover Castle {href=/20c/20c-secret-tunnels/}
+## The Secret War Tunnels of Dover Castle {href=/20c/20c-secret-tunnels}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b5454516-3f8b-49dc-ae11-fee1888c3292)
 
