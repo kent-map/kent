@@ -1,8 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Invicta Park Barracks" author="xxx" layout="vtl" 
+<param ve-config title="Invicta Park Barracks" author="Martin Stoneham" layout="vtl" 
 banner="/images/banners/19c.jpg">
-
-Invicta Park Barracks, Maidstone. 
 
 <param ve-entity eid="Q213180" aliases="Maidstone">
 <param ve-entity eid="Q301948" aliases="Boxley">
@@ -11,7 +9,7 @@ The Invicta Park Barracks which currently houses 36 Engineer Regiment, Royal Eng
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Park_House%2C_Maidstone.jpg" label="Park House, Invicta Park, Maidstone" attribution="Brigitt Vose" license="CC BY-SA 2.0">
 
 Edmund Henry Lushington (1766-1839) graduated from Queen’s College, Cambridge and was called to the bar of the Inner Temple in 1793. He later became a puisne judge in Ceylon (now Sri Lanka). His first wife Louisa Falkner née Phillips died shortly after the birth of their only child, a daughter. Nine years later he married Sophia née Phillips (there is no family connection between Louisa and Sophia).  
-<br><br> 
+<br>
 They had ten children. The eldest, Edmund Law Lushington (1811-1893), was a Greek scholar at Trinity College, Cambridge. It was at Cambridge that Edmund Law became a close friend of Alfred, later Lord, Tennyson. They were both members of the Society of Apostles. In 1842 he married Alfred’s younger sister Cecilia, thus cementing the relationship between the two families.  To mark the occasion Tennyson wrote as an epilogue to his poem ‘In Memoriam’ [1850], an epithalamium [nuptial poem] on Cecilia and Edmund's marriage. Most of Edmund’s working life was spent in Glasgow firstly as Professor of Greek (1837-74) at the University and then its Lord Rector (1884-87). He lived in Glasgow for seven months of the year whilst most of his family lived at Park House. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Alfred_Tennyson..jpg" label="Alfred Tennyson" attribution="nach einem Gemälde von P.Krämer herausgegeben von Friedrich Bruckmann Verlag München Berlin., Public domain, via Wikimedia Commons">
 
