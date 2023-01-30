@@ -9,6 +9,7 @@ It was not until 1789 that Sarah – well into her fifties by then – opened in
 <param ve-image url="https://stor.artstor.org/stor/36430364-5e5f-41c5-a111-211dda4fff3e" label="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther">
 
 Some measure of Sarah’s financial success is that when she died at Rochester in February 1816, just months before her eightieth birthday, her estate was estimated by her grandson to be in excess of £20,000. It was an extraordinary achievement, even more remarkable in that she was ‘illiterate’ and, reputedly, never learned to write more than her name.
+<param ve-image url="https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d" label="Theatre Royal, Rochester" attribution="By kind permission of Dickens House Museum, Broadstairs">
                                 
 Sarah was buried in the graveyard at St Nicholas Church, Rochester on 28 February 1816. Tom Dibdin, an old friend who had performed with her company over many years composed the epitaph that was engraved upon her headstone. It was a fitting tribute to the ‘Governess-General’ of the Kentish Drama from an intelligent man who had great respect and affection for his old employer and who also knew her better than most:
 <br><br>
@@ -29,7 +30,8 @@ The bosom of her Father, and her God.”
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/St_Nicholas_church%2C_Rochester-geograph.org.uk-1845253.jpg" label="St Nicholas Church, Rochester" attribution="N Chadwick" license="CC BY-SA 2.0">
 
 Sarah’s long life spanned a period of great turbulence and change in this country and the difficulties of those years are mirrored in every twist and turn of her career. Her pragmatic, opportunistic reaction to the many challenges she faced not only ensured her survival but also meant that she, herself, played a significant role - albeit inadvertently - in the political, social and cultural development of Kent’s rapidly growing towns at the end of the eighteenth century.
-
+<br><br>
 Dr Jean Baker’s book: _Sarah Baker and her Kentish Theatres 1737-1816: Challenging the Status Quo_ can be purchased via the publisher, The Society for Theatre Research’s [on-line bookshop](www.str.org.uk) 
 <br><br>
 This article was published: 30 January 2023.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/57/Sarah_Baker_theatre_paybox.jpg" label="Sarah Baker Theatre Pay Box, Rochester" attribution="The Illustrated London News, Public domain, via Wikimedia Commons">
