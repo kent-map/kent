@@ -28,7 +28,7 @@ She married Harold Nicolson in 1913, when he was a junior diplomat. They lived f
 <param ve-image url="images/sissinghurstpostcard.jpg" label="Sissinghurst Castle" attribution="Carolyn Oulton">
 <param ve-map primary center="Q1971996" zoom="10">
 
-The Nicolsons had a famously open marriage, with both enjoying many same sex relationships. As she grew older, Sackville-West increasingly withdrew from society but she continued to entertain lovers and other guests at Sissinghurst, including [Christopher St John](/20c-st-john-biography) (partner of [Ellen Terry](/20c-terry-biography)’s daughter [Edith Craig](/20c-craig-biography).  
+The Nicolsons had a famously open marriage, with both enjoying many same sex relationships. As she grew older, Sackville-West increasingly withdrew from society but she continued to entertain lovers and other guests at Sissinghurst, including [Christopher St John](/20c/20c-st-john-biography) (partner of [Ellen Terry](/20c/20c-terry-biography)’s daughter [Edith Craig](/20c/20c-craig-biography).  
 <param ve-image url="images/christopherstjohn.jpg" label="Christopher St John" attribution="image taken from the print version of her play The Coronation published in 1912 -Photographed by Marie Leon">
 
 Sackville-West died at Sissinghurst in 1962 and her ashes are interred in the family crypt at Withyham, Sussex. Her husband and two sons are buried at Trinity Church, overlooking the Sissinghurst estate.  
