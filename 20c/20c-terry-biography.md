@@ -9,6 +9,7 @@
 <param ve-entity eid="Q639208" aliases="Bodiam Castle">
   
 Ellen Terry was the superstar English actress of the Victorian period. Born to a theatrical family, she first trod the boards aged eight in the part of Mamillius in _The Winter’s Tale_. She is best known for her long theatrical partnership with Sir Henry Irving, performing at the Lyceum Theatre, London, and throughout the UK and the US.   
+<br>
 She is also known for her series of highly-acclaimed lectures about Shakespeare’s women (and the book that resulted – _Four Lectures on Shakespeare_ – written by Ellen Terry and edited by her ‘literary henchman’ [Christopher St John](/20c/20c-st-john-biography).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Ellen_Terry_as_Margaret.jpg" label="Photograph of Ellen Terry as Margaret in Faust, Lyceum Theatre" attribution="Window & Grove, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/27/Ellen_Terry_3.jpg" label="Ellen Terry as Mamillius" attribution="From Wikimedia Commons, the free media repository">
@@ -21,12 +22,17 @@ In 1900, she bought her last home, Smallhythe[^ref1] Place, a Tudor farmhouse in
 <param ve-map center="Q7543679" zoom="15">
 <param ve-map center="Q614560" zoom="15">
 
-Ellen Terry wrote of her new home: _‘It’s pretty rough at the Farmhouse! ‘The simple life’ indeed! But at least there’s a jolly big Bath there.’_ [^ref3]   
+Ellen Terry wrote of her new home:
+<br>
+‘It’s pretty rough at the Farmhouse! ‘The simple life’ indeed! But at least there’s a jolly big Bath there.’ [^ref3]  
+<br>
 She gifted the adjacent ‘Priest’s House’ to her daughter, Edith [‘Edy’ Craig](/20c/20c-craig-biography), who lived in it with her life partners – the writer [Christopher St John](/20c/20c-st-john-biography) (Christabel Marshall), and after 1916 with St John and the artist, Clare ‘Tony’ Atwood. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0c/Priest%27s_House_Small_Hythe_Kent_Geograph-1641754-by-Robin-Webster.jpg" label="Priest’s House" attribution="Robin Webster / Small Hythe rectory">
 <param ve-map center="Q17556849" zoom="15">
 
-Ellen Terry wrote about life with Edy at Smallhythe Place (then called The Farm) in a letter to George Bernard Shaw (14 June 1904), _‘Edy is here. Did I tell you she is my right hand, and still growing to be my left hand, and happy as a sandboy all the while? I fear to be too happy in her – I try to very quiet with it all. She has a cottage of her own here and we visit each other every day!’_ [^ref4]
+Ellen Terry wrote about life with Edy at Smallhythe Place (then called The Farm) in a letter to George Bernard Shaw (14 June 1904), 
+<br>
+‘Edy is here. Did I tell you she is my right hand, and still growing to be my left hand, and happy as a sandboy all the while? I fear to be too happy in her – I try to very quiet with it all. She has a cottage of her own here and we visit each other every day!’ [^ref4]
 <param ve-map center="Q7543679" zoom="15">
 
 [Christopher St John](/20c/20c-st-john-biography) characterised her early life with Ellen Terry and [Edy Craig](/20c/20c-craig-biography) at Smallhythe as ‘a lovely pleasant carefree existence’. They created beautiful gardens, went on moonlight drives to Bodiam Castle, and took the occasional pleasure cruise across the English Channel to Bruges.
