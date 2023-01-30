@@ -1,20 +1,17 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Vita Sackville-West (1892-1962)" author="Clare Nursey" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/db/Sissinghurst_Castle%2C_Biddenden_Road%2C_Sissinghurst%2C_Kent_-_geograph.org.uk_-_1387067.jpg" attribution="Oast House Archive / Sissinghurst Castle, Biddenden Road, Sissinghurst, Kent">
 <param ve-entity eid="Q1971996" aliases="Sissinghurst">
-<param ve-entity eid="Q1285144">
-<param ve-entity eid="Q2204332">
+<param ve-entity eid="Q1285144" aliases="Knole House">
+<param ve-entity eid="Q2204332" aliases="Long Barn">
 <param ve-entity eid="Q1547383" aliases="Groombridge Place">
 
-**Places** Sissinghurst, Knole, Long Barn, Groombridge Place   
-<br>
 The autumn bonfire smokes across the woods   
 And reddens in the water of the moat;   
 As red within the water burns the scythe    
 And the moon dwindled to her gibbous tithe   
 Follows the sunken sun afloat. - ‘Sissinghurst’, 1930.   
-<param ve-map center="Q1971996" zoom="10">
 <param ve-image url="images/sissinghurst2.jpg" label="Sissinghurst">
-
+<param ve-map center="Q1971996" zoom="10">
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character. She was though a prolific and versatile writer herself - a celebrated poet (a candidate for the post of Poet Laureate in 1948) and author of fourteen novels, with those published in the 1930s proving both critically and commercially successful. Her poetry was unapologetically traditional in form, and her fiction too was largely traditional but with a distinctly poetic style.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Hon_Mrs_Nicholson_cropped.jpg" label="Hon Mrs Nicholson" attribution="George Grantham Bain Collection (Library of Congress), Public domain, via Wikimedia Commons">
