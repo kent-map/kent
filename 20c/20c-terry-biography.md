@@ -16,22 +16,22 @@ She is also known for her series of highly-acclaimed lectures about Shakespeare�
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Lyceum_Theatre%2C_Wellington_St%2C_London.jpg" label="Lyceum Theatre, Wellington St, London" attribution="Paul the Archivist, CC BY-SA 4.0, via Wikimedia Commons">
 
 In 1900, she bought her last home, Smallhythe[^ref1] Place, a Tudor farmhouse in the Kent marshes outside Tenterden, as a retreat from her busy London theatrical life. Terry’s biographer, Nina Auerbach, called it ‘a pocket of eerie stillness in the Kentish countryside’. [^ref2]
+<br><br>
+Ellen Terry wrote of her new home:
+<br>
+‘It’s pretty rough at the Farmhouse! ‘The simple life’ indeed! But at least there’s a jolly big Bath there.’ [^ref3]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg" label="Smallhythe Place" attribution="Poliphilo, CC0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/37/The_Woolpack_Hotel%2C_Tenterden_-_geograph.org.uk_-_2123859.jpg" label="Tenterden" attribution="The Woolpack Hotel, Tenterden by Oast House Archive, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/95/Wealden_countryside_3194.JPG" label="Kentish countryside" attribution=" Photograph by Clem Rutter, Rochester, Kent. (www.clemrutter.net)., CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map center="Q7543679" zoom="15">
 <param ve-map center="Q614560" zoom="15">
 
-Ellen Terry wrote of her new home:
-<br>
-‘It’s pretty rough at the Farmhouse! ‘The simple life’ indeed! But at least there’s a jolly big Bath there.’ [^ref3]  
-<br>
 She gifted the adjacent ‘Priest’s House’ to her daughter, Edith [‘Edy’ Craig](/20c/20c-craig-biography), who lived in it with her life partners – the writer [Christopher St John](/20c/20c-st-john-biography) (Christabel Marshall), and after 1916 with St John and the artist, Clare ‘Tony’ Atwood. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0c/Priest%27s_House_Small_Hythe_Kent_Geograph-1641754-by-Robin-Webster.jpg" label="Priest’s House" attribution="Robin Webster / Small Hythe rectory">
 <param ve-map center="Q17556849" zoom="15">
 
 Ellen Terry wrote about life with Edy at Smallhythe Place (then called The Farm) in a letter to George Bernard Shaw (14 June 1904), 
-<br>
+<br><br>
 ‘Edy is here. Did I tell you she is my right hand, and still growing to be my left hand, and happy as a sandboy all the while? I fear to be too happy in her – I try to very quiet with it all. She has a cottage of her own here and we visit each other every day!’ [^ref4]
 <param ve-map center="Q7543679" zoom="15">
 
