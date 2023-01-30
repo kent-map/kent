@@ -6,7 +6,7 @@ Sarah Baker was a fairground performer, a ‘strolling player’, who became one
 In the early 1770s Sarah, recently widowed and now with three young children to care for, took over from her mother as manager of the small family troupe. In the face of fierce competition from male rivals she began to concentrate her activities in Kent. Despite her growing popularity and success, a portable wooden booth and a motley collection of makeshift facilities such as warehouses, malthouses, stables, barns and innyards ‘fitted up’ for the purpose of entertainment would be her only ‘theatres’ for the next 20 years.
 <br>                         
 It was not until 1789 that Sarah – well into her fifties by then – opened in Canterbury the first of what she described as her ‘great grand’ Kentish theatres. She went on to build three more purpose-built theatres in the county at Rochester (1791), Maidstone (1798) and Tunbridge Wells (1802). 
-<param ve-image url="images/orangestreet MJC.jpg" label="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther">
+<param ve-image url="https://stor.artstor.org/stor/36430364-5e5f-41c5-a111-211dda4fff3e" label="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther">
 
 Some measure of Sarah’s financial success is that when she died at Rochester in February 1816, just months before her eightieth birthday, her estate was estimated by her grandson to be in excess of £20,000. It was an extraordinary achievement, even more remarkable in that she was ‘illiterate’ and, reputedly, never learned to write more than her name.
                                 
