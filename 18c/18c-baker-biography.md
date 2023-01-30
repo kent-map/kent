@@ -29,4 +29,5 @@ The bosom of her Father, and her God.”
 Sarah’s long life spanned a period of great turbulence and change in this country and the difficulties of those years are mirrored in every twist and turn of her career. Her pragmatic, opportunistic reaction to the many challenges she faced not only ensured her survival but also meant that she, herself, played a significant role - albeit inadvertently - in the political, social and cultural development of Kent’s rapidly growing towns at the end of the eighteenth century.
 
 Dr Jean Baker’s book: _Sarah Baker and her Kentish Theatres 1737-1816: Challenging the Status Quo_ can be purchased via the publisher, The Society for Theatre Research’s [on-line bookshop](www.str.org.uk) 
-
+<br><br>
+This article was published: 30 January 2023.
