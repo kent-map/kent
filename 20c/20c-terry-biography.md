@@ -7,15 +7,14 @@
 <param ve-entity eid="Q614560" aliases="Tenterden">
 <param ve-entity eid="Q17556849" aliases="Priest’s House">
 <param ve-entity eid="Q639208" aliases="Bodiam Castle">
-
-**Place:** Small Hythe [^ref1]   
+  
 Ellen Terry was the superstar English actress of the Victorian period. Born to a theatrical family, she first trod the boards aged eight in the part of Mamillius in _The Winter’s Tale_. She is best known for her long theatrical partnership with Sir Henry Irving, performing at the Lyceum Theatre, London, and throughout the UK and the US.   
 She is also known for her series of highly-acclaimed lectures about Shakespeare’s women (and the book that resulted – _Four Lectures on Shakespeare_ – written by Ellen Terry and edited by her ‘literary henchman’ [Christopher St John](/20c/20c-st-john-biography).
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Ellen_Terry_as_Margaret.jpg" label="Photograph of Ellen Terry as Margaret in Faust, Lyceum Theatre." attribution=" Window & Grove, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons ">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Ellen_Terry_as_Margaret.jpg" label="Photograph of Ellen Terry as Margaret in Faust, Lyceum Theatre" attribution="Window & Grove, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/27/Ellen_Terry_3.jpg" label="Ellen Terry as Mamillius" attribution="From Wikimedia Commons, the free media repository">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Lyceum_Theatre%2C_Wellington_St%2C_London.jpg" label="Lyceum Theatre, Wellington St, London" attribution="Paul the Archivist, CC BY-SA 4.0, via Wikimedia Commons">
 
-In 1900, she bought her last home, Smallhythe Place, a Tudor farmhouse in the Kent marshes outside Tenterden, as a retreat from her busy London theatrical life. Terry’s biographer, Nina Auerbach, called it ‘a pocket of eerie stillness in the Kentish countryside’. [^ref2]
+In 1900, she bought her last home, Smallhythe[^ref1] Place, a Tudor farmhouse in the Kent marshes outside Tenterden, as a retreat from her busy London theatrical life. Terry’s biographer, Nina Auerbach, called it ‘a pocket of eerie stillness in the Kentish countryside’. [^ref2]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg" label="Smallhythe Place" attribution="Poliphilo, CC0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/37/The_Woolpack_Hotel%2C_Tenterden_-_geograph.org.uk_-_2123859.jpg" label="Tenterden" attribution="The Woolpack Hotel, Tenterden by Oast House Archive, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/95/Wealden_countryside_3194.JPG" label="Kentish countryside" attribution=" Photograph by Clem Rutter, Rochester, Kent. (www.clemrutter.net)., CC BY-SA 4.0, via Wikimedia Commons">
