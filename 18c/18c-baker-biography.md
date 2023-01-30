@@ -4,7 +4,7 @@ banner="/images/banners/18c.jpg">
 
 Sarah Baker was a fairground performer, a ‘strolling player’, who became one of the most successful self-made women of the eighteenth century. She was born in 1737 and throughout her childhood and youth travelled the country with her mother Ann Wakelin and her younger sister Moll entertaining the crowds at country-fairs and race meetings. As itinerant performers they were classified by law as ‘rogues and vagabonds’ with destitution and imprisonment an ever-present threat. 
 In the early 1770s Sarah, recently widowed and now with three young children to care for, took over from her mother as manager of the small family troupe. In the face of fierce competition from male rivals she began to concentrate her activities in Kent. Despite her growing popularity and success, a portable wooden booth and a motley collection of makeshift facilities such as warehouses, malthouses, stables, barns and innyards ‘fitted up’ for the purpose of entertainment would be her only ‘theatres’ for the next 20 years.
-<br><br>                          
+<br>                         
 It was not until 1789 that Sarah – well into her fifties by then – opened in Canterbury the first of what she described as her ‘great grand’ Kentish theatres. She went on to build three more purpose-built theatres in the county at Rochester (1791), Maidstone (1798) and Tunbridge Wells (1802). 
 
 Some measure of Sarah’s financial success is that when she died at Rochester in February 1816, just months before her eightieth birthday, her estate was estimated by her grandson to be in excess of £20,000. It was an extraordinary achievement, even more remarkable in that she was ‘illiterate’ and, reputedly, never learned to write more than her name.
