@@ -6,6 +6,12 @@ Strategic position of the Medway in relation to European wars. New sea water ‘
 
 # &nbsp; {.cards}
 
+## Sarah Baker {href=18c-baker-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d)
+
+Sarah Baker, who was born in Milton, was a fairground performer, a ‘strolling player’, who become one of the most successful self-made women of the eighteenth century.
+
 ## John Boys {href=18c-boys-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
