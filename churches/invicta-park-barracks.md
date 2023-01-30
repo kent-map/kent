@@ -4,6 +4,7 @@ banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q213180" aliases="Maidstone">
 <param ve-entity eid="Q301948" aliases="Boxley">
+<param ve-entity eid="Q507517" aliases="Rochester">
 
 The Invicta Park Barracks which currently houses 36 Engineer Regiment, Royal Engineers would seem an unlikely place to have a connection with two Victorian literary heroes. The Park’s origins date back to the time of Henry VIII and was described in 1829 as ‘a pleasant seat, situated near the east side of the road to Rochester, about half a mile from the town of Maidstone’. It was occupied in 1735 by the Calder family. Major General Henry Calder, the 4th Baronet of Muertown, Scotland later ‘pulled down the antique stone mansion, and on a beautiful spot adjoining, within this parish began to erect a handsome stone dwelling.’ He died in 1792, leaving his widow Louisa to complete their new home. Now known as Park House, it is the Officers’ Mess and has Grade 2* listing. The then two-year-old Henry Rodham Calder succeeded to the Baronetcy. Henry later married and in about 1825 he, his wife Frances and their two children moved to London. The property was sold to a Mr Osborne, from whom Edmund Henry Lushington purchased it in 1828. It then remained in the hands of the family until 1938, when it was purchased by the War Office for use as a barracks. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Park_House%2C_Maidstone.jpg" label="Park House, Invicta Park, Maidstone" attribution="Brigitt Vose" license="CC BY-SA 2.0">
@@ -22,9 +23,3 @@ It was in 1849 that Edward Lear met Franklin Morgan Lushington (the youngest son
 <br><br> 
 The local church of the Lushington family was Saint Mary the Virgin and All Saints, Boxley. Members of the family were married here and a number also lay at rest in the churchyard. There are numerous memorial plaques to family members in the church. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/St._Mary_and_All_Saints%2C_Boxley%2C_Kent_%283781776139%29.jpg" label="St Mary and All Saints, Boxley" attribution="Robert Cutts from Bristol, England, UK, via Wikimedia Commons" license="CC BY 2.0">
-
- 
-
- 
-
- 
