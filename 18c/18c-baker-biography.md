@@ -27,12 +27,12 @@ In death her memory shines – a rich unpolished gem.
 Or draw her frailties from their dread abode;   
 There they alike in trembling hope repose, -   
 The bosom of her Father, and her God.”   
-<param ve-image url="https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d" label="Theatre Royal, Rochester" attribution="By kind permission of Dickens House Museum, Broadstairs">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/St_Nicholas_church%2C_Rochester-geograph.org.uk-1845253.jpg" label="St Nicholas Church, Rochester" attribution="N Chadwick" license="CC BY-SA 2.0">
 
 Sarah’s long life spanned a period of great turbulence and change in this country and the difficulties of those years are mirrored in every twist and turn of her career. Her pragmatic, opportunistic reaction to the many challenges she faced not only ensured her survival but also meant that she, herself, played a significant role - albeit inadvertently - in the political, social and cultural development of Kent’s rapidly growing towns at the end of the eighteenth century.
 <br><br>
 Dr Jean Baker’s book: _Sarah Baker and her Kentish Theatres 1737-1816: Challenging the Status Quo_ can be purchased via the publisher, The Society for Theatre Research’s [on-line bookshop](www.str.org.uk) 
 <br><br>
 This article was published: 30 January 2023.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/St_Nicholas_church%2C_Rochester-geograph.org.uk-1845253.jpg" label="St Nicholas Church, Rochester" attribution="N Chadwick" license="CC BY-SA 2.0">
+<param ve-image url="https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d" label="Theatre Royal, Rochester" attribution="By kind permission of Dickens House Museum, Broadstairs">
 
