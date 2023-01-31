@@ -18,18 +18,17 @@ Sarah Baker, who was born in Milton, was a fairground performer, a ‘strolling 
 
 John Boys, agriculturalist, was well known for his breed of South Down sheep. He farmed at Betteshanger Home Farm, about five miles inland from Deal.
 
-## Elizabeth Carter {href=18c-carter-biography}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff22cb41-5bde-4bf8-a335-3fbffef0264a)
-
-'My old friend, Mrs. Carter, … could make a pudding, as well as translate Epictetus from the Greek, and work a handkerchief as well as compose a poem.’ Elizabeth Carter, poet, classicist, writer, translator, and linguist was born in Deal.  
-
 ## Elizabeth Burgess {href=18c-burgess-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41)
 
 What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d her Hand a thousand ways, But why attempt such things as writing Plays; Let her make Sacques, Gowns, Tarts, and Pies, And not presumptuously an Authoress rise.
 
+## Elizabeth Carter {href=18c-carter-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff22cb41-5bde-4bf8-a335-3fbffef0264a)
+
+'My old friend, Mrs. Carter, … could make a pudding, as well as translate Epictetus from the Greek, and work a handkerchief as well as compose a poem.’ Elizabeth Carter, poet, classicist, writer, translator, and linguist was born in Deal.  
 
 ## Ann Radcliffe {href=18c-radcliffe-biography}
 
