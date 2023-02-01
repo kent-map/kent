@@ -18,19 +18,23 @@ Kent's public institutions, memorials, monuments and historic buildings.
 
 Many convalescent homes were established in Kent, with its temperate seaside climate and relatively easy access to London. These institutions aimed to support recuperating patients, often drawn from urban hospitals.
 
-## The Hidden Gems of Parochial Kent {href=/religion/overview}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
-
-Kent is not only the garden of England, it is also the first landing site of Christianity in Britain. St Augustine began his mission to convert the Britons to Christianity in Canterbury.
-
-
 ## Folkestone Free Library {href=/19c/19c-folkestone-free-library}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg)
 
 H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervously, ‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather'.
 
+## The Hidden Gems of Parochial Kent {href=/religion/overview}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
+
+Kent is not only the garden of England, it is also the first landing site of Christianity in Britain. St Augustine began his mission to convert the Britons to Christianity in Canterbury.
+
+## Invicta Park Barracks {href=/built/invicta-park-barracks}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/95fbef6d-89a7-4cf8-ae07-3f5b76da3c1a)
+
+The Invicta Park Barracks which currently houses 36 Engineer Regiment, Royal Engineers would seem an unlikely place to have a connection with two Victorian literary heroes: Alfred Lord Tennyson and Edward Lear.
 
 ## Victorian Turkish Baths {href=/19c/19c-turkish-baths}
 
