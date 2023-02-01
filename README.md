@@ -14,7 +14,7 @@ This site provides a set of themed essays about Kent, a county in South East Eng
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/mobile-landscapes.jpg)
 
-You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted.
+You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie.
 
 
 ## H.G.Wells {href=20c/20c-wellshg-biography}
@@ -28,7 +28,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Jarman1.jpg)
 
-It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends – in 1986 at the age of 44.
+It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends.
 
 
 ## Charles Darwin {href=19c/19c-darwin-biography}
