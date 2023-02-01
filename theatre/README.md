@@ -30,6 +30,12 @@ Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown 
 
 What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d her Hand a thousand ways, But why attempt such things as writing Plays; Let her make Sacques, Gowns, Tarts, and Pies, And not presumptuously an Authoress rise.
 
+## Noël Coward {href=20c-coward-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
+
+Noel Coward, director, actor and writer, lived at Aldington and later St Margaret's Bay.
+
 ## Dora Jordan {href=19c-jordan-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fa1d847b-8066-4bd1-9c12-a691efdb2b3e)
@@ -50,13 +56,19 @@ Playwright, author and courtier, John Lyly was a Kentishman famed for his euphui
 
 ## Ellen Terry
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8106c5f4-37f3-4526-afe4-5fd40ef48d05)
+
 Ellen Terry was the superstar English actress of the Victorian period. Born to a theatrical family, she first trod the boards aged eight in the part of Mamillius in The Winter’s Tale. 
 
 ## Florence Warden
 
+![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
+
 Actor and writer
 
 ## Gertrude Warden
+
+![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
 
 Actor and writer
 
