@@ -7,7 +7,7 @@
 
 #
 
-An English playwright, novelist, and short story writer born in Paris, Maugham is seen as one of the most popular writers of the inter-war period.
+Playwright, novelist, and short story writer born in Paris, Somerset Maugham is seen as one of the most popular writers of the inter-war period.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/William_Somerset_Maugham_1965.jpg" label="William Somerset Maugham 1965" attribution="Anefo, CC0, via Wikimedia Commons">
 
 Attended the [King’s School](https://www.kings-school.co.uk/) in Canterbury. Two of his novels have obvious connections to Kent: [_Of Human Bondage_ ](http://www.kings-archives.co.uk/books-about-kings/memories-of-kings/somerset-maugham-of-human-bondage/)(1915) is based on his experiences at King’s School and _Cakes and Ale_ (1930) on the people of Whitstable.'
