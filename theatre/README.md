@@ -66,7 +66,7 @@ Feminist actor, writer and playwright, Cicely Hamilton co wrote the popular suff
 
 Playwright, author and courtier, John Lyly was a Kentishman famed for his euphuistic writing.
 
-## Ellen Terry
+## Ellen Terry {href=20c-terry-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8106c5f4-37f3-4526-afe4-5fd40ef48d05)
 
