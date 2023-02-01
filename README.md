@@ -163,7 +163,7 @@ Painters, illustrators, cartoonists and muralists have been inspired by Kent's r
 
 Botanists, chemists and naturalists abound in the beautiful garden of England.
 
-## The Built Environment {href=churches}
+## The Built Environment {href=built}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
 
