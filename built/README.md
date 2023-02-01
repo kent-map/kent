@@ -24,7 +24,7 @@ Many convalescent homes were established in Kent, with its temperate seaside cli
 
 H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervously, ‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather'.
 
-## The Hidden Gems of Parochial Kent {href=/religion/overview}
+## The Hidden Gems of Parochial Kent {href=/churches/overview}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
 
