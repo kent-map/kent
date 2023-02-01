@@ -24,13 +24,18 @@ Sarah Baker, who was born in Milton, was a fairground performer, a ‘strolling 
 
 Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born; however, like much of her life, this is difficult to confirm.
 
+## Elizabeth Burgess {href=18c-burgess-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41)
+
+What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d her Hand a thousand ways, But why attempt such things as writing Plays; Let her make Sacques, Gowns, Tarts, and Pies, And not presumptuously an Authoress rise.
+
 ## John Lyly {href=16c-lyly-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/de/John_Lyly%27s_signature_%28from_a_letter_to_Sir_Robert_Cecil%2C_Feb._4_1602-3%3B_from_original_MS._in_Hatfield_Library%29.png)
 
 Playwright, author and courtier, John Lyly was a Kentishman famed for his euphuistic writing.
 
-## Elizabeth Burgess
 
 Dora Jordan
 
