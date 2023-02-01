@@ -1,4 +1,4 @@
-.ve-header "The Built Environment" gh:kent-map/kent/images/churches/churches sticky=true
+.ve-header "The Built Environment" gh:kent-map/kent/images/built/built sticky=true
     - [Home](/)
     - [About](/about)
 
