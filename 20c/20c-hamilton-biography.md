@@ -16,7 +16,7 @@ Hamilton and Christopher St John co wrote the popular suffrage plays, _How the V
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/13/Cicely_Hamilton_by_Lena_Connell_1910s.png" label="Cicely Hamilton" attribution="Lena Connell, Public domain, via Wikimedia Commons">
 
 Hamilton wrote, ‘My personal revolt was feminist rather than suffragist; what I chiefly rebelled against was the dependence implied in the idea of  ‘destined’ marriage, ‘destined’ motherhood – the identification of success with marriage, of failure with spinsterhood, the artificial concentration of the hopes of girlhood on sexual attraction and maternity.’ [^ref2]
-<br>
+<br><br>
 Like her fellow writer Christopher St John, Cicely Hamilton began to have ‘doubts about unquestioning participating in political campaigns and unthinking obedience to political theatres’[^ref3]  (such as those organised by the main suffrage society the Women’s Social and Political Union). Both women remained dedicated to the cause of women’s suffrage and feminism, though in thinking about global politics throughout the 1930s Hamilton wrote, ‘it was in contact with the politics of pre-war days that I first began to realise its ugly moral possibilities’.[^ref4]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Women%27s_Freedom_League_meeting_on_19_February_1909.jpg" label="Freedom League Meeting, 19 Feb 1909" attribution="LSE Library, No restrictions, via Wikimedia Commons">
 
