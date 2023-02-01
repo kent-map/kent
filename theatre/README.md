@@ -30,15 +30,22 @@ Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown 
 
 What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d her Hand a thousand ways, But why attempt such things as writing Plays; Let her make Sacques, Gowns, Tarts, and Pies, And not presumptuously an Authoress rise.
 
+## Dora Jordan {href=19c-jordan-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fa1d847b-8066-4bd1-9c12-a691efdb2b3e)
+
+Dora Jordan who was the foremost actress of her day toured the provinces extensively, making several visits to Kent in the late 18th and early 19th century.
+
+## Douglas William Jerrold {href=19c-jerrold-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d4f592c-8356-414b-b38d-d9187bfd720d)
+
+Dramatist and writer, Douglas Jerrold grew in Sheerness.
+
 ## John Lyly {href=16c-lyly-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/de/John_Lyly%27s_signature_%28from_a_letter_to_Sir_Robert_Cecil%2C_Feb._4_1602-3%3B_from_original_MS._in_Hatfield_Library%29.png)
 
 Playwright, author and courtier, John Lyly was a Kentishman famed for his euphuistic writing.
-
-
-Dora Jordan
-
-Douglas Jerrold
 
 Ellen Terry
