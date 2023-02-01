@@ -176,7 +176,7 @@ A county of rich architecture; castles, churches, ports, forts and towers.
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
-## Poetic Kent {href=poetry}
+## Poets and Poetry {href=poetry}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/335d901a-8416-4356-8a12-1607c997a9a2)
 
