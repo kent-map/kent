@@ -12,7 +12,7 @@ Kent's public institutions, memorials, monuments and historic buildings.
 
 “Never in the field of human conflict was so much owed by so many to so few.” The Battle of Britain Memorial situated on top of the White Cliffs at Capel-le-Ferne, near Folkestone, commemorates 'The Few'.
 
-## Convalescent Homes {href=/built/19c-convalescent-homes}
+## Convalescent Homes {href=/19c/19c-convalescent-homes}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b39e64c7-9ec4-42a9-97d2-d3c1509b5940)
 
