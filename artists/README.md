@@ -1,4 +1,4 @@
-.ve-header "Artists and Illustrators" gh:https://stor.artstor.org/stor/f0bec294-4bea-40c0-8161-a6c8c1f1cdde sticky=true
+.ve-header "Artists and Illustrators" gh:kent-map/kent/images/artists/artists sticky=true
     - [Home](/)
     - [About](/about)
 
