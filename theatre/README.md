@@ -1,8 +1,8 @@
-.ve-header "18th Century Kent" gh:kent-map/kent/images/banners/18c.jpg sticky=true
+.ve-header "Actors and Theatre" gh:kent-map/kent/images/banners/18c.jpg sticky=true
     - [Home](/)
     - [About](/about)
 
-Strategic position of the Medway in relation to European wars. New sea water ‘cures’ see the reinvention of Margate as a fashionable resort.
+Theatricals, actors and plays from the 16th to the 19th century.
 
 # &nbsp; {.cards}
 
