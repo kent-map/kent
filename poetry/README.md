@@ -1,4 +1,4 @@
-.ve-header "Poetic Kent" gh:kent-map/kent/images/banners//19c.jpg sticky=true
+.ve-header "Poets and Poetry" gh:kent-map/kent/images/banners//19c.jpg sticky=true
     - [Home](/)
     - [About](/about)
 
