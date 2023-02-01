@@ -76,11 +76,11 @@ Ellen Terry was the superstar English actress of the Victorian period. Born to a
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
 
-Actor and writer
+Actor and writer, Florence Warden worked at the Haymarket and Vaudeville theatres and directed The House on the Marsh, before moving to the Kent seaside.
 
 ## Gertrude Warden
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
 
-Actor and writer
+Actor and writer, Gertrude Warden co-wrote  Woman’s Proper Place (1896) and The Cruel City (1896) before turning to the Kent countryside for inspiration. 
 
