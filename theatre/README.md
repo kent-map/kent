@@ -48,4 +48,15 @@ Dramatist and writer, Douglas Jerrold grew in Sheerness.
 
 Playwright, author and courtier, John Lyly was a Kentishman famed for his euphuistic writing.
 
-Ellen Terry
+## Ellen Terry
+
+Ellen Terry was the superstar English actress of the Victorian period. Born to a theatrical family, she first trod the boards aged eight in the part of Mamillius in The Winter’s Tale. 
+
+## Florence Warden
+
+Actor and writer
+
+## Gertrude Warden
+
+Actor and writer
+
