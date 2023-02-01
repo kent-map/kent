@@ -36,6 +36,12 @@ What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d h
 
 Noel Coward, director, actor and writer, lived at Aldington and later St Margaret's Bay.
 
+## Edith Craig {href=20c-craig-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
+
+Edith ‘Edy” Craig was a trailblazing theatrical director, producer, costumier and actress. She was a founder of the Pioneer Players, a theatrical group dedicated to creating and producing plays of ‘interest and ideas’ dealing with social, political and moral issues.
+
 ## Dora Jordan {href=19c-jordan-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fa1d847b-8066-4bd1-9c12-a691efdb2b3e)
@@ -47,6 +53,12 @@ Dora Jordan who was the foremost actress of her day toured the provinces extensi
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d4f592c-8356-414b-b38d-d9187bfd720d)
 
 Dramatist and writer, Douglas Jerrold grew in Sheerness.
+
+## Cicely Hamilton {href=19c-hamilton-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
+
+Feminist actor, writer and playwright, Cicely Hamilton co wrote the popular suffrage plays, How the Vote Was Won and Pot and Kettle with Christopher St John.
 
 ## John Lyly {href=16c-lyly-biography}
 
