@@ -72,13 +72,13 @@ Playwright, author and courtier, John Lyly was a Kentishman famed for his euphui
 
 Ellen Terry was the superstar English actress of the Victorian period. Born to a theatrical family, she first trod the boards aged eight in the part of Mamillius in The Winter’s Tale. 
 
-## Florence Warden
+## Florence Warden {href=19c/19c-florence-warden-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
 
 Actor and writer, Florence Warden worked at the Haymarket and Vaudeville theatres and directed The House on the Marsh, before moving to the Kent seaside.
 
-## Gertrude Warden
+## Gertrude Warden {href=19c/19c-gertrude-warden-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
 
