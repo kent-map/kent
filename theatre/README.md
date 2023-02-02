@@ -83,4 +83,3 @@ Actor and writer, Florence Warden worked at the Haymarket and Vaudeville theatre
 ![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
 
 Actor and writer, Gertrude Warden co-wrote  Woman’s Proper Place (1896) and The Cruel City (1896) before turning to the Kent countryside for inspiration. 
-
