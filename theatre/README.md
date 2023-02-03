@@ -74,7 +74,7 @@ Ellen Terry was the superstar English actress of the Victorian period. Born to a
 
 ## Florence Warden {href=/19c/19c-florence-warden-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
 
 Actor and writer, Florence Warden worked at the Haymarket and Vaudeville theatres and directed The House on the Marsh, before moving to the Kent seaside.
 
