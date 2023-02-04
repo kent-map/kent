@@ -56,7 +56,7 @@ Dramatist and writer, Douglas Jerrold grew in Sheerness.
 
 ## Cicely Hamilton {href=/19c/19c-hamilton-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/a5dc4023-53a8-4f24-b4d5-879c41fc9073)
 
 Feminist actor, writer and playwright, Cicely Hamilton co wrote the popular suffrage plays, How the Vote Was Won and Pot and Kettle with Christopher St John.
 
