@@ -32,7 +32,7 @@ What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d h
 
 ## Noël Coward {href=/20c/20c-coward-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ead09451-6033-4e22-9f91-5735da98942d)
 
 Noel Coward, director, actor and writer, lived at Aldington and later St Margaret's Bay.
 
