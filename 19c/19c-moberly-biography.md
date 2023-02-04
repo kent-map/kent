@@ -1,3 +1,8 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="Alfred Moberly (1835-1912)" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q967166" aliases="Hythe">
+
 Alfred Moberly, army major and author of the sensation novel _Lady Valeria_, was born in Clapham in 1835, the son of William and Louisa Moberly. After attending Winchester College, where his uncle George Moberly was headmaster, Alfred joined the Royal Scots regiment and saw action in the Baltic in 1854. Five years later, he was appointed Instructor of Musketry at Hythe, a position he was to hold for eighteen years. 
 
 The School of Musketry was established in 1853 under the direction of Lord Hardinge to train soldiers in the use of modern weaponry. The introduction of the expanding Minie bullet, closely followed by the .577 Enfield rifle made shooting “a personal skill rather than a Drill movement”  and an instructor of musketry was appointed in every regiment.  
