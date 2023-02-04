@@ -38,7 +38,7 @@ Noel Coward, director, actor and writer, lived at Aldington and later St Margare
 
 ## Edith Craig {href=/20c/20c-craig-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3f/Smallhythe_Place%2C_Kent_2.jpg)
 
 Edith ‘Edy” Craig was a trailblazing theatrical director, producer, costumier and actress. She was a founder of the Pioneer Players, a theatrical group dedicated to creating and producing plays of ‘interest and ideas’ dealing with social, political and moral issues.
 
@@ -80,6 +80,6 @@ Actor and writer, Florence Warden worked at the Haymarket and Vaudeville theatre
 
 ## Gertrude Warden {href=/19c/19c-gertrude-warden-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=xxx)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/57/St_Stephen%2C_Lympne_1.JPG)
 
 Actor and writer, Gertrude Warden co-wrote  Woman’s Proper Place (1896) and The Cruel City (1896) before turning to the Kent countryside for inspiration. 
