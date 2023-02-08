@@ -6,7 +6,7 @@ Theatricals, actors and plays from the 16th to the 19th century.
 
 # &nbsp; {.cards}
 
-## Arden of Faversham {href=16c/16c-arden-faversham}
+## Arden of Faversham {href=/16c/16c-arden-faversham}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/38/Arden%27s_House%2C_Faversham.JPG)
 
