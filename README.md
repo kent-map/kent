@@ -150,6 +150,11 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 
 Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth, Kent is known as the ‘Garden of England’ due its rich agricultural history.
 
+## Actors and Theatres {href=theatre}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d)
+
+Actors have made Kent their home, playwrights have used it as a setting, and theatrical companies have performed in its theatres.
 
 ## Artists and Illustrators {href=artists}
 
