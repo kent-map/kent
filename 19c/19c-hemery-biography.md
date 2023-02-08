@@ -13,7 +13,7 @@ Two months later on the 14th October, he was sent to Haslar Hospital per _H.M.S.
 
 On release from hospital, Francis was assigned to _H.M.S Duke of Wellington_, the flagship of the Port Admiral at Portsmouth. The flagship fired salutes to passing dignitaries such as [Queen Victoria](/19c/19c-victoria-biography) on her way to Osborne House. It was clearly a softer option for a man who was seen as lacking judgement.  Three months later on the 10th August, he was sent to _H.M.S. Repulse_, a guardship at Queensferry, for temporary service, returning to the _Duke of Wellington_ on the 21st October. On the 15th March in the following year, he was assigned to _H.M.S Danae_, when recommissioned, taking a passage out to North America.  His time on the _Danae_ was to be short and after thirteen days he was sent home unfit. On the 17 November 1871 he was deemed to be unfit and ten days later was granted 2/6 home pay. He was retired from the navy with rheumatic fever on the 20 February 1872. 
 
-At this period, Hemery began writing and sending poems to the periodical press. His poetry anthology _The Soul Speaks and Other poems_ was published by Samuel Tinsley in 1874. His poems reveal his troubled soul as he struggles with his lack of usefulness in society, unrequited love and religious doubts: 
+At this period, Hemery began writing and sending poems to the periodical press. His poetry anthology _The Soul Speaks and Other poems_ was published by Samuel Tinsley in 1874. His poems reveal his troubled soul as he struggled with his lack of usefulness in society, unrequited love and religious doubts: 
 <br><br>
 The close of life! – for old men die, --    
 Not those so young and strong as I!   
