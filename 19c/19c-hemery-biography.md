@@ -1,12 +1,13 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Francis Hobart Hemery (1847-1879)" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/b91a767a-109e-4a7d-b7c6-980d0f8601a5">
+<param ve-config title="Francis Hobart Hemery (1847-1879)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b7/Ship_rigged_ironclad_%28HMS_Achilles_in_port%29_%28cropped%29_RMG_PW8172.jpg">
 
 Francis Hobart Hemery, poet, was born at sea on the 22nd March 1847, the son of John and Anna Hemery (nee Beatty). He was baptised in Jersey on the 12 May. His father was a successful merchant who became manager of the London and County bank. The family later moved to [Canterbury](/19c/19c-canterbury).
 <param ve-image url="https://stor.artstor.org/stor/4299961a-be83-4924-adc5-ffdf01917220" label="11, The Parade, Canterbury, home of the Hemery family" attribution="Michelle Crowther">
 
 Francis joined the navy as a cadet and was appointed sub lieutenant on 11 September 1860.[^ref1] He was assigned to _H.M.S Achilles_, a broadside ironclad frigate which defended the waters of the English Channel as part of the Channel Fleet, as a sub-lieutenant on the 5 June 1867.  
 <br>
-Francis was invalided two years later on the 30th April 1869.  He was reported fit for duty three months later on the 2nd August and joined the crew of _H.M.S Inconstant_ on the 12th of that month, once again as part of the Channel Fleet. 
+Francis was invalided two years later on the 30th April 1869.  He was reported fit for duty three months later on the 2nd August and joined the crew of _H.M.S Inconstant_ on the 12th of that month, once again as part of the Channel Fleet.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b7/Ship_rigged_ironclad_%28HMS_Achilles_in_port%29_%28cropped%29_RMG_PW8172.jpg" label="Ship rigged ironclad H.M.S Achilles in port" attribution="Woolley, C E A,Greenwich Maritime Museum via Wikimedia Commons" license=" CC BY-SA 4.0">
 
 Two months later on the 14th October, he was sent to Haslar Hospital per _H.M.S. Helicon_ for 'general mania'. General mania was defined by William Augustus Guy in his _Principles of Forensic Medicine_ (1845) as 'a form of mania which affects both the intellect and the passions, and throws the whole mind into a state of mingled excitement and confusion'.[^ref2] It was characterised by Pinel (1806) as a 'rapid succession of uninterrupted alternation of insulated ideas, and evanescent and unconnected emotions' as well as by an 'abolition of the faculty of judgement'.[^ref3] It was clear that Francis was unfit for the responsibilities placed upon him. He was discharged from the hospital on the 7th May 1870, after a six and a half months stay.
 
