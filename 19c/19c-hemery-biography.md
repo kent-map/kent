@@ -24,6 +24,7 @@ Oh help! dear doctor do save me,
 I’m lost! – have mercy! – save me! _save me_.[^ref4]
 <br><br>
 The anthology was reviewed in _The Academy_: 'The writer has “noticed that readable poems at a small price cannot be obtained by the general public.” His poems are certainly readable, they have a sort of amplitude and sonorousness which makes one regret the absence of anything rare or special in their substance. He has a natural ear for rhythm, but his metre is often incorrect: technical study would cure this. If he is capable of precise thought, it might enrich the content of his poems to read what he found stimulating, and refuse to rest in vague excitement.'[^ref5] The book was a thin paper back available for 1 shilling and probably sold very few copies.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/85/Carl_Spitzweg_-_Der_arme_Poet_%28Neue_Pinakothek%29.jpg" label="Dear arme Poet -  the poor poet" attribution="Carl Spitzweg, Schack Collection, Public domain, via Wikimedia Commons">
 
 In 1875, Hemery joined the Canterbury-based Persistent Scribblers Society and contributed a couple of poems in that year under the pseudonym D.V (short for Deo Volante – God willing), but he was not a regular contributor and the lack of votes he received from his fellow writers may have deterred him. His sisters Kate and Leonora later joined the society and contributed short stories.  
 <br>
