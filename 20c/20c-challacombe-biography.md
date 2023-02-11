@@ -1,4 +1,8 @@
-Jessie Challacombe (1864-1925)
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="Jessie Challacombe (1864-1925)" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q179224" aliases="Dover">
+
 Jessie Challacombe née Worsfold, children’s author, was born in Dover, the daughter of Christopher and Martha Worsfold. Her father was a chartered accountant and the borough treasurer and her grandfather was twice mayor of Dover and had been friends with the late Duke of Wellington.  The family lived at 23, Maison Dieu Road but later moved to 33, Liverpool Street next to Kilvington House, a Preparatory School for Boys run by Jessie’s aunts Emily and Lucy. 
 
 By 1891, the Worsfolds had moved to 1, Christ Church Villa, St Martin’s Hill (Folkestone Road) opposite Christ Church. Christ Church was one of the newer churches in Dover, having been consecrated in 1844. The condition of its establishment had been that it should include seating reserved for about 160 soldiers and that its incumbents should be low church.  It rapidly attracted a large congregation and within seven years of its opening, two additional galleries were added. Jessie’s father became church warden, and her mother involved in the charitable work of the town.
