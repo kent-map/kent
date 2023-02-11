@@ -24,6 +24,7 @@ Jessie wrote at least 12 novels and many short stories, drawing on her knowledge
 This type of muscular Christianity in which athleticism was highly valued was very popular up until the first world war. Jessie’s son Christopher was in his early twenties when the war broke out. He joined the 1st batallion of the East Surrey Regiment and it is likely saw action at the Somme and Ypres . He suffered shell-shock as a result of his war-time experiences 
 
 Jessie was not the only Kent writer producing stories and novels to promote Christian values at this period. Baptist writers[Bessie Marchant](/19c/19c-marchantb-biography) and Grace Pettman both wrote popular evangelical stories for girls and boys, as did O.F. Walton and Edith Farmiloe.
+
 Jessie died in Farnborough at the age of 61 years. Her body was brought by rail to Dover, and buried at St. James' Cemetery, by lamplight.
 <br><br>
 To find out more, watch this video about Little Christopher’s Cross https://youtu.be/LcFhJ0TySSU 
