@@ -42,10 +42,10 @@ This article was published: 11 February 2023.
 [^ref1]: https://doverhistorian.com/2015/04/25/duke-of-wellington-dover/
 [^ref2]: Jones, John Barrington (1916) _Annals of Dover._
 [^ref3]: Dover Express - Friday 10 December 1920.
-[^ref4]: 
+[^ref4]: ['Christie's Lady Computers'](http://www.royalobservatorygreenwich.org/articles.php?article=1280) RGO7/140/63.
 [^ref5]: Dover Chronicle - Saturday 08 February 1890.
 [^ref6]: Paske, C. (1894) _Sunny Dover_. 
-[^ref7]: 
-[^ref8]:
+[^ref7]: Dover Express - Friday 31 July 1891
+[^ref8]: Challacombe, Jessie (1912) _Wait and Win_.
 [^ref9]: https://ccnm.org/windows/crownoflife
 [^ref10]: Dover Express - Friday 16 January 1925.
