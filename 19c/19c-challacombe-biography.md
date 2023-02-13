@@ -22,15 +22,15 @@ After the ceremony, the wedding breakfast was served at Chaldercot, Leyburn-road
 Two years after their marriage, the Challacombes moved to New Malden, where they lived and worked for the next 28 years. Jessie began writing stories for children which were published by the Society for the Promotion of Christian Knowledge (SPCK). Her first book _The brother’s promise_ was published in 1897 followed by _Little Christopher’s Cross_ a year later, about a small boy named Christopher, no doubt inspired by her own son Christopher who had been born in 1893. Each chapter was prefaced by words from hymns by the former Dean of Canterbury, Henry Alford. 
 
 Jessie wrote at least 12 novels and many short stories, drawing on her knowledge of church life. In _Wait and Win_ (1912) her character Jem is 'very keen on the gymnasium at the Boy’s Club Battersea, and this had been a very good thing for his own development… It was in the Club gymnasium that he made his good influence to be felt among them quite as much as in the church, where he was now a member of the evening choir.' Although the novel is not set in Kent, Jessie’s memories of the boys who attended the Christ Church gymnasium may have influenced the story. 
+<br><br>
+This type of muscular Christianity in which athleticism was highly valued was very popular up until the first world war. Jessie’s son Christopher was in his early twenties when the war broke out. He joined the 1st batallion of the East Surrey Regiment and it is likely saw action at the Somme and Ypres . He suffered shell-shock as a result of his war-time experiences .
 <param ve-image url="https://stor.artstor.org/stor/b03486f1-7d66-491a-9ed1-7ede07f75a60" label="Wait and Win by Jessie Challacombe" attribution="By kind permission of Michelle Crowther">
 
-This type of muscular Christianity in which athleticism was highly valued was very popular up until the first world war. Jessie’s son Christopher was in his early twenties when the war broke out. He joined the 1st batallion of the East Surrey Regiment and it is likely saw action at the Somme and Ypres . He suffered shell-shock as a result of his war-time experiences 
-
-Jessie was not the only Kent writer producing stories and novels to promote Christian values at this period. Baptist writers[Bessie Marchant](/19c/19c-marchantb-biography) and Grace Pettman both wrote popular evangelical stories for girls and boys, as did O.F. Walton and Edith Farmiloe.
-<param ve-image url="https://stor.artstor.org/stor/f8d57b51-10f1-41e5-9539-a129affb57c5" label="Christie's Old Organ by O.F. Walton" attribution="By kind permission of Michelle Crowther">
-
+Jessie was not the only Kent writer producing stories and novels to promote Christian values at this period. Baptist writers [Bessie Marchant](/19c/19c-marchantb-biography) and Grace Pettman both wrote popular evangelical stories for girls and boys, as did O.F. Walton and Edith Farmiloe.
+<br><br>
 Jessie died in Farnborough at the age of 61 years. Her body was brought by rail to Dover, and buried at St. James' Cemetery, by lamplight.
 <br><br>
 To find out more, watch this video about [Little Christopher’s Cross](https://youtu.be/LcFhJ0TySSU) created by Christ Church, New Malden.
 <br><br>
 This article was published: 11 February 2023.
+<param ve-image url="https://stor.artstor.org/stor/f8d57b51-10f1-41e5-9539-a129affb57c5" label="Christie's Old Organ by O.F. Walton" attribution="By kind permission of Michelle Crowther">
