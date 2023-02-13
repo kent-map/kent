@@ -30,7 +30,7 @@ This type of muscular Christianity in which athleticism was highly valued was ve
 
 Jessie was not the only Kent writer producing stories and novels to promote Christian values at this period. Baptist writers [Bessie Marchant](/19c/19c-marchantb-biography) and Grace Pettman both wrote popular evangelical stories for girls and boys, as did O.F. Walton and Edith Farmiloe.
 <br><br>
-Jessie died in Farnborough at the age of 61 years. Her body was brought by rail to Dover, and buried at St. James' Cemetery, by lamplight.
+Jessie died in Farnborough at the age of 61 years. Her body was brought by rail to Dover, and buried at St. James' Cemetery, by lamplight.[^ref10]
 <br><br>
 To find out more, watch this video about [Little Christopher’s Cross](https://youtu.be/LcFhJ0TySSU) created by Christ Church, New Malden.
 <br><br>
@@ -43,8 +43,9 @@ This article was published: 11 February 2023.
 [^ref2]: Jones, John Barrington (1916) _Annals of Dover._
 [^ref3]: Dover Express - Friday 10 December 1920.
 [^ref4]: 
-[^ref5]: Dover Chronicle - Saturday 08 February 1890
+[^ref5]: Dover Chronicle - Saturday 08 February 1890.
 [^ref6]: Paske, C. (1894) _Sunny Dover_. 
 [^ref7]: 
 [^ref8]:
 [^ref9]: https://ccnm.org/windows/crownoflife
+[^ref10]: Dover Express - Friday 16 January 1925.
