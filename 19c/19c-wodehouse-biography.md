@@ -23,6 +23,7 @@ Wodehouse’s relationship with fellow amateur A. A. Milne seems to have been ra
 During his visits to Fairlawne Wodehouse would have been within visiting distance of [Conan Doyle](/19c/19c-conan-doyle), and also met other writers including [Hugh Walpole]( /19c/19c-walpole-biography).  Here too he spectacularly failed to witness the arrival of his granddaughter Sheran in 1935. As symptoms became alarming on Good Friday, an ambulance was summoned and Leonora was taken to hospital in the early hours of Saturday morning. Wodehouse slept through the resulting commotion.  Sheran [married in 1968](https://www.youtube.com/watch?v=AVZ-sfRjwxw) with the Queen Mother (an acknowledged Wodehouse fan) in attendance.
 <br><br>
 At least Wodehouse does seem to have retained some grasp of Kent history, however tenuous. ‘You remember what [Hengist](/medieval/hengestandhorsa) said to [Horsa](/medieval/hengestandhorsa) before the battle of whatever it was?’ chirps a character in _Money in the Bank_, ‘Horsa, keep your tail up!'
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Neale%281818%29_p2.192_-_Fair_Lawn%2C_Kent.jpg" label="Fair Lawn, Kent" attribution="John Preston Neale, Public domain, via Wikimedia Commons">
 
 ### Bibliography 
 McCrum, Robert. _Wodehouse: a Life_. London: Viking, 2004.   
