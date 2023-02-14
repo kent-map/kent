@@ -4,7 +4,6 @@
 banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q6382264" aliases="Kearsney">
-<param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q2695776" aliases="Shipbourne">
 <param ve-entity eid="Q17530246" aliases="Fairlawne">
@@ -18,6 +17,7 @@ Wodehouse later collaborated with the comic writer George Grossmith Jnr (son of 
 Otherwise Wodehouse expressed few regrets at leaving the county. At 13 he was sent to Dulwich College in London, from whence he seems to have returned only to play cricket against Tonbridge. Like his friend [Arthur Conan Doyle](/19c/19c-conan-doyle), the adult Wodehouse remained an enthusiastic sportsman and maintained a longstanding friendship with professional cricketer and Dulwich old boy, Billy Griffith, who lived conveniently near Wodehouse’s daughter Leonora Cazelet and her husband in the village of Shipbourne. 
 
 Wodehouse’s relationship with fellow amateur A. A. Milne seems to have been rather more troubled. As evidence that ‘my personal animosity against a writer never affects my opinion of what he writes’ Wodehouse once commented that while ‘Nobody could be more anxious than myself… that Alan Alexander Milne should trip over a loose boot and break his bloody neck’, he nonetheless regarded his play _The Dover Road_ as ‘about the best comedy in English’. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820969282456%29.jpg" label="The Dover Road - Annals of an Ancient Turnpike" attribution="Harper, Charles George, 1863-1943, No restrictions, via Wikimedia Commons">
 
 During his visits to Fairlawne Wodehouse would have been within visiting distance of [Conan Doyle](/19c/19c-conan-doyle), and also met other writers including [Hugh Walpole]( /19c/19c-walpole-biography).  Here too he spectacularly failed to witness the arrival of his granddaughter Sheran in 1935. As symptoms became alarming on Good Friday, an ambulance was summoned and Leonora was taken to hospital in the early hours of Saturday morning. Wodehouse slept through the resulting commotion.  Sheran [married in 1968](https://www.youtube.com/watch?v=AVZ-sfRjwxw) with the Queen Mother (an acknowledged Wodehouse fan) in attendance.
 <br><br>
