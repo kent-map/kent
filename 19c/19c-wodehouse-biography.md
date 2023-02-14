@@ -4,8 +4,12 @@
 banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
+Kearsney
+Dover
+Tonbridge
 
 P. G. Wodehouse only spent two years at Malvern House Prep School in the Kearsney area of Dover, between 1892 and 1994, and it may indeed have been ‘a very bad choice for a dreamy impractical boy who loved reading.’   But the experience also inspired the early education of Bertie Wooster, and few of his fans would argue with that. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c8/PGWodehouse.jpg" label="P.G. Wodehouse c.1904" attribution="The American Legion Weekly Volume 1, No. 17, 24 October 1919, p. 21.">
 
 Wodehouse later collaborated with the comic writer George Grossmith Jnr (son of [Pooter’s famous creator]( /19c/19c-grossmith-biography)) and their 1923 cabaret _The Beauty Prize_ includes a song ‘A Cottage in Kent’ with words by Grossmith.
 
