@@ -6,6 +6,7 @@ banner="/images/banners/19c.jpg">
 <param ve-entity eid="Q6382264" aliases="Kearsney">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q2695776" aliases="Shipbourne">
 
 P. G. Wodehouse only spent two years at Malvern House Prep School in the Kearsney area of Dover, between 1892 and 1994, and it may indeed have been ‘a very bad choice for a dreamy impractical boy who loved reading.’   But the experience also inspired the early education of Bertie Wooster, and few of his fans would argue with that. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c8/PGWodehouse.jpg" label="P.G. Wodehouse c.1904" attribution="The American Legion Weekly Volume 1, No. 17, 24 October 1919, p. 21.">
