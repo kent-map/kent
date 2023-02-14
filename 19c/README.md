@@ -76,6 +76,7 @@
 [Sir Hugh Walpole](19c-walpole-biography)   
 [Florence Warden](19c-florence-warden-biography)   
 [Gertrude Warden](19c-gertrude-warden-biography)   
+[P.G. Wodehouse](19c-wodehouse-biography)   
 [Israel Zangwill](19c-zangwill-biography)   
 
 ### Places
