@@ -22,9 +22,9 @@ During his visits to Fairlawne Wodehouse would have been within visiting distanc
 At least Wodehouse does seem to have retained some grasp of Kent history, however tenuous. ‘You remember what [Hengist](/medieval/hengestandhorsa) said to [Horsa](/medieval/hengestandhorsa) before the battle of whatever it was?’ chirps a character in _Money in the Bank_, ‘Horsa, keep your tail up!'
 
 ### Bibliography 
-McCrum, Robert. _Wodehouse: a Life_. London: Viking, 2004.
-[P. G. Wodehouse Society (UK)]( https://www.pgwodehousesociety.org.uk/)
-Ratcliffe, Sophie, ed. _P. G. Wodehouse: a Life in Letters_. London: Arrow, 2013.
+McCrum, Robert. _Wodehouse: a Life_. London: Viking, 2004.   
+[P. G. Wodehouse Society (UK)]( https://www.pgwodehousesociety.org.uk/)   
+Ratcliffe, Sophie, ed. _P. G. Wodehouse: a Life in Letters_. London: Arrow, 2013.   
 Wodehouse, P. G. _Money in the Bank_, 1928.
 
 ### References
