@@ -20,9 +20,11 @@ _Translation of a Latin inscription on the mosaic floor at Lullingstone Roman Vi
 Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. It was unearthed during archaeological excavations
 undertaken by Lieutenant Colonel Geoffrey Wells Meates F.S.A., Ernest Greenfield and Edwyn Birchenough in the late 1940s to early 1960s.[^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288412819657%29.jpg" label="Lullingstone Roman Villa" attribution="Carole Raddato from FRANKFURT, Germany, via Wikimedia Commons" license="CC BY-SA 2.0"> 
+<param ve-map center="Q1877197" zoom="11" prefer-geojson>
 
 Evidence of the Roman villa had been discovered much earlier in the middle of the eighteenth century when erecting a new deer-fence around Lullingstone Park. Coins and small objects found near the site provided further evidence of Roman occupation. In 1939, Ernest Greenfield, an enthusiastic archaeologist from Sidcup, and Edwyn Birchenough detected a Roman wall under the roots of a fallen tree, but it was not until after the Second World War that archaeological excavation could begin.[^ref2]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Samuel_Palmer_-_Ancient_Trees%2C_Lullingstone_Park_-_Google_Art_Project.jpg" label="Ancient Trees, Lullingstone Park, 1828" attribution="Samuel Palmer, Public domain, via Wikimedia Commons">
+<param ve-map center="Q6702871" zoom="11" prefer-geojson>
 
 Although originally from Hereford, Meates had visited Kent at the age of 11 staying with the Langfords at Smith Farm, Smarden. He was educated at the Royal Military Academy, Woolwich in 1919 and served in India, Rangoon, Burma and Ireland. 
 <br><br>
@@ -30,6 +32,7 @@ During the Second World War, Meates served in the Heavy Anti Aircraft Regiment, 
 <br><br>
 After the war he retired from service life and took up archaeology.[^ref4] His first excavation was at Farningham, near Sevenoaks in 1947. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/25/The_cattle_screen_at_Farningham%2C_Kent_-_geograph.org.uk_-_2278555.jpg" label="The Cattle Screen at Farningham, Kent" attribution="Roger  Kidd, via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-map center="Q2706208" zoom="11" prefer-geojson>
 
 In 1949, Meates, Greenfield and Bichenough and a team of volunteers began digging at Lullingstone and over the next 13 years uncovered a villa complex including a villa, a granary, shrine, kitchen and a temple-mausoleum. The villa was built during the Roman occupation of Britain, approximately AD 80-100, and would have been a luxurious family home. 
 <br><br>
