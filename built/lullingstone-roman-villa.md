@@ -34,14 +34,16 @@ The northern rooms of the villa contained fine plaster wall paintings which cont
        url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Lullingstone_paintings2.jpg">
 <param ve-map center="Q6644861" zoom="11" prefer-geojson>
 
-Meates began giving talks about his discoveries illustrated by lantern slides.[^ref9] He became a member of Kent Archaeological Society and in 1951, was elected a fellow of the Society of Antiquaries. He was the President of the Crayford Manor House Historical and Archaeology Society and founded the Darent Valley Archaeological Research Group.[^ref4] In 1955, he published _Lullingstone Roman Villa_ which the _Illustrated London News_ described as a 'fascinating book' for anyone interested in 'archaeology, history and detection all rolled into one'.[^ref10]  At the eighth annual dig dinner in 1957, Meates joked that he hoped that the owner of Lullingstone Castle, Sir Oliver Hart Dyke would join in the next dig on the hillside at the back of the Roman villa and that he would give him a trowel.[^ref11]
+Meates began giving talks about his discoveries illustrated by lantern slides.[^ref9] He became a member of Kent Archaeological Society and in 1951, was elected a fellow of the Society of Antiquaries. He was the President of the Crayford Manor House Historical and Archaeology Society and founded the Darent Valley Archaeological Research Group.[^ref4] 
+<br><br>
+In 1955, he published _Lullingstone Roman Villa_ which the _Illustrated London News_ described as a 'fascinating book' for anyone interested in 'archaeology, history and detection all rolled into one'.[^ref10]  At the eighth annual dig dinner in 1957, Meates joked that he hoped that the owner of Lullingstone Castle, Sir Oliver Hart Dyke would join in the next dig on the hillside at the back of the Roman villa and that he would give him a trowel.[^ref11]
+<br><br>
+Meates died on the 9 July 1985 at The Gate House, Lullingstone Castle.
 <param ve-image 
        label="Lullingstone Ruins" 
        description="Author Carole Raddato" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/02/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413908270%29.jpg">
-       
-Meates died on the 9 July 1985 at The Gate House,Lullingstone Castle.
 <param ve-image 
        manifest="https://upload.wikimedia.org/wikipedia/commons/1/18/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413897040%29.jpg">
 <param ve-map center="Q23298" zoom="11">
