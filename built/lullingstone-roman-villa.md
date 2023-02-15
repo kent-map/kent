@@ -5,14 +5,13 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/a/a1/LullingstonVilla-Kent_Interior_May2001.jpg" 
        layout="vertical">
 
-<param ve-entity eid="Q1877182"> <!-- Lullingstone Roman Villa -->
 <param ve-entity eid="Q6644861"> <!-- Lullingstone -->
 <param ve-entity eid="Q1877197"> <!-- Eynsford -->
 <param ve-entity eid="Q23298"> <!-- Kent -->
-<param ve-entity eid="xx"> <!--Sevenoaks-->
+<param ve-entity eid="Q939838"> <!--Sevenoaks-->
 <param ve-entity eid="Q5222546"> <!--Darent Valley-->
-<param ve-entity eid="xx"> <!--Farningham-->
-<param ve-entity eid="xx"> <!--Sandwich-->
+<param ve-entity eid="Q2706208"> <!--Farningham-->
+<param ve-entity eid="Q26163"> <!--Sandwich-->
 
 Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. It was unearthed during archaeological excavations
 undertaken by Lieutenant Colonel Geoffrey Wells Meates F.S.A. and Ernest Greenfield in the late 1940s to early 1960s.[^ref1] It is an example of 
@@ -23,11 +22,9 @@ During the Second World War, Meates served in the Heavy Anti Aircraft Regiment, 
 <br><br>
 Meates first excavation was at Farningham, near Sevenoaks in 1947. 
 
-Meates began digging at Lullingstone in 1949 and over the next 13 years uncovered a villa complex including a villa, 
-a granary, shrine, kitchen, mausoleum and what is thought to be a cult room, in the cellar. It had a block of four rooms fronted by a corridor, 
-with wings at either end, and a deep cellar under the north wing.[^ref5] The villa was built during the Roman occupation of Britain, approximately AD 80-100, and would have been a luxurious family home. Excavations revealed a remarkable mosaic floor with scenes depicting the Rape of Europa by Jupiter in the form of a bull, Bellerephon mounted on the winged horse Pegasus spearing the Chimera, and representations of the four seasons.[^ref6] Two busts made from Carrara marble were also discovered in a sealed chamber, including one of Emperor Antoninus Pius (138-161). A headless bust of a woman "in fine draperies" was also discovered. [^ref7] 
+Meates began digging at Lullingstone in 1949 and over the next 13 years uncovered a villa complex including a villa, a granary, shrine, kitchen, mausoleum and what is thought to be a cult room, in the cellar. It had a block of four rooms fronted by a corridor,  with wings at either end, and a deep cellar under the north wing.[^ref5] The villa was built during the Roman occupation of Britain, approximately AD 80-100, and would have been a luxurious family home. Excavations revealed a remarkable mosaic floor with scenes depicting the Rape of Europa by Jupiter in the form of a bull, Bellerephon mounted on the winged horse Pegasus spearing the Chimera, and representations of the four seasons.[^ref6] Two busts made from Carrara marble were also discovered in a sealed chamber, including one of Emperor Antoninus Pius (138-161). A headless bust of a woman "in fine draperies" was also discovered. [^ref7] 
 <br><br>
-The northern rooms of the villa contained fine plaster wall paintings which contain the Christian symbol Chi-Rho (forming the first two letters of Christ’s name in Greek, chi (χ) and rho (ρ)) , which is evidence of Romano-British Christianity. [^4]
+The northern rooms of the villa contained fine plaster wall paintings which contain the Christian symbol Chi-Rho (forming the first two letters of Christ’s name in Greek, chi (χ) and rho (ρ)), which is evidence of Romano-British Christianity. [^4]
 <param ve-map center="Q6644861" zoom="11" prefer-geojson>
 <param ve-image 
        label="Lullingstone Roman Villa Ruins" 
@@ -36,7 +33,7 @@ The northern rooms of the villa contained fine plaster wall paintings which cont
        url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413895064%29.jpg">
 https://upload.wikimedia.org/wikipedia/commons/1/18/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413897040%29.jpg
 
-Meates became a member of Kent Archaeological Society and in 1951, was elected a fellow of the Society of Antiquaries. He was the President of the Crayford Manor House Historical and Archaeology Society and founded the Darent Valley Archaeological Research Group.[^ref4] 
+Meates began giving talks about his discoveries illustrated by lantern slides.[^ref9] He became a member of Kent Archaeological Society and in 1951, was elected a fellow of the Society of Antiquaries. He was the President of the Crayford Manor House Historical and Archaeology Society and founded the Darent Valley Archaeological Research Group.[^ref4] In 1955, he published _Lullingstone Roman Villa_ which the _Illustrated London News_ described as a 'fascinating book' for anyone interested in 'archaeology, history and detection all rolled into one'.[^ref10]  In 1957, Sir Oliver and Lady Hart-Dyke, owners of Lullingstone Castle attended the eighth annual dig dinner, where Meates joked that he hoped to hand Sir Oliver a trowel so that he could join in the next dig on the hillside at the back of the Roman villa.[^ref11]
 <param ve-image 
        label="Lullingstone Ruins" 
        description="Author Carole Raddato" 
@@ -59,4 +56,7 @@ Meates died on the 9 July 1985 at The Gate House,Lullingstone Castle.
 [^2]: [English Heritage: Lullingstone Roman Villa History] (https://www.english-heritage.org.uk/visit/places/lullingstone-roman-villa/history/)   
 [^3]: [WebApps: Exploring Kents Past 2] (https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=%27mke530%27)   
 [^4]: [English Heritage: Lullingstone Roman Villa History 2] (https://www.english-heritage.org.uk/visit/places/lullingstone-roman-villa/history/)   
+[^ref9]: Western Mail - Thursday 01 February 1951
+[^ref10]: Illustrated London News - Saturday 19 November 1955
+[^ref11]: Kent Messenger & Gravesend Telegraph - Friday 18 January 1957
 
