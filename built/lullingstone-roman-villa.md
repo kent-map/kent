@@ -11,6 +11,8 @@
 <param ve-entity eid="Q26163"> <!--Sandwich-->
 <param ve-entity eid="Q146676"> <!--Crayford-->
 <param ve-entity eid="Q2632094"> <!--Wingham-->
+<param ve-entity eid="Q146705"> <!--Sidcup-->
+<param ve-entity eid="Q2183593"> <!--Smarden-->
 
 'If jealous Juno had seen the swimming of the bull, she might more justly have gone to the halls of Aelous'   
 _Translation of a Latin inscription on the mosaic floor at Lullingstone Roman Villa_
