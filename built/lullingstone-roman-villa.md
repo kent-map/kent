@@ -16,8 +16,7 @@ It’s a notable post-war excavation which took place from the late 1940s to ear
 The Central Excavation Unit of English Heritage undertook a small-scale excavation at Lullingstone car park.
 <param ve-map center="Q6644861" zoom="11" prefer-geojson>
 
-## Discovery after excavation
-
+**Discovery after excavation**   
 Discovered from 1949-1961, excavations revealed a villa complex including a villa with rich mosaic tiled floors, a granary, 
 shrine, kitchen, mausoleum and what is thought to be a cult room, in the cellar. It had a block of four rooms fronted by a corridor, 
 with wings at either end, and a deep cellar under the north wing (on the right-hand side) [^2]
@@ -30,17 +29,16 @@ a luxurious family home for successive wealthy owners.
        url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413895064%29.jpg">
 https://upload.wikimedia.org/wikipedia/commons/1/18/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413897040%29.jpg
 
-## What do we learn from the excavations
-
+**What do we learn from the excavations**
 Due to this archaeological monument’s remarkable survival, it helps us learn more about Kent’s history, 
 in its structural elements of the main villa house and in respect to evidence of Romano-British Christianity that it produced. 
-
+<br><br>
 In about 360 AD the northern rooms of the villa were converted into a Christian chapel with fine plaster wall paintings. 
 [^3] This creation of a house-church contained wall paintings which made this villa unique to others found in the area, 
 as they are the only known paintings in Roman Britain that contain clear Christian symbolism, which is evidence of Romano-British Christianity. 
 Although the surviving elements of the scenes depicted are fragmentary, enough remains to suggest a large Chi-Rho - an early Christian symbol 
 formed by the first two letters of Christ’s name in Greek, chi (χ) and rho (ρ) - was painted on the south wall. [^4]
-
+<br><br>
 There were various mosaics discovered around the site, revealing appreciation of classical culture, one of them found in the dining room (Figure 4 and figure 5). 
 The dining room mosaic was an abstract design of interlocking patterns with a central panel portraying the four seasons as figures, surrounding Bellerophon riding 
 Pegasus, the winged horse. [^5]
@@ -53,8 +51,7 @@ a heated bath-suite and a ‘house-church’.
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/02/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413908270%29.jpg">
        
-##Archaeology in Kent today
-
+**Archaeology in Kent today**
 In 1989 a team of 12 archaeologists and a Conservation Architect were put together to create Kent’s first Country Archaeologist, 
 this team now work to care for the county’s heritage. Some of their work includes assessing development areas for archaeological potential and ensuring that any 
 remains are treated appropriately, maintaining the Historic Environment Record database, advising on listed and historic buildings, and carrying out a range of 
