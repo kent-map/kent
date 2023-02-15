@@ -9,14 +9,17 @@
 <param ve-entity eid="Q6644861"> <!-- Lullingstone -->
 <param ve-entity eid="Q1877197"> <!-- Eynsford -->
 <param ve-entity eid="Q23298"> <!-- Kent -->
+<param ve-entity eid="xx"> <!--Sevenoaks-->
 <param ve-entity eid="Q5222546"> <!--Darent Valley-->
+<param ve-entity eid="xx"> <!--Farningham-->
+<param ve-entity eid="xx"> <!--Sandwich-->
 
 Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. It was unearthed during archaeological excavations
 undertaken by Lieutenant Colonel Geoffrey Wells Meates F.S.A. and Ernest Greenfield in the late 1940s to early 1960s.[^ref1] It is an example of 
 
-Although originally from Hereford, Meates had visited Kent at the age of 11 staying with the Langfords at Smith Farm, Smarden. He was educated at the Royal Military Academy, Woolwich and served in India, Rangoon, Burma and Ireland before the second world war. 
+Although originally from Hereford, Meates had visited Kent at the age of 11 staying with the Langfords at Smith Farm, Smarden. He was educated at the Royal Military Academy, Woolwich in 1919 and served in India, Rangoon, Burma and Ireland. 
 <br><br>
-During the war, he served in the Heavy Anti Aircraft Regiment, Royal Artillery, and was involved in the retreat from Dunkirk and the Seige of Malta.[^ref2] His final posting was Sandwich from 1944 until 1945, after which he retired from service life and took up archaeology.[^ref3] 
+During the Second World War, Meates served in the Heavy Anti Aircraft Regiment, Royal Artillery, and was involved in the retreat from Dunkirk and the Seige of Malta.[^ref2] His final posting was Sandwich from 1944 until 1945, after which he retired from service life and took up archaeology.[^ref3] 
 <br><br>
 Meates first excavation was at Farningham, near Sevenoaks in 1947. 
 
@@ -33,17 +36,13 @@ The northern rooms of the villa contained fine plaster wall paintings which cont
        url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413895064%29.jpg">
 https://upload.wikimedia.org/wikipedia/commons/1/18/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413897040%29.jpg
 
-
-I
+Meates became a member of Kent Archaeological Society and in 1951, was elected a fellow of the Society of Antiquaries. He was the President of the Crayford Manor House Historical and Archaeology Society and founded the Darent Valley Archaeological Research Group.[^ref4] 
 <param ve-image 
        label="Lullingstone Ruins" 
        description="Author Carole Raddato" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/02/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413908270%29.jpg">
        
-
-Meates became a member of Kent Archaeological Society and in 1951, was elected a fellow of the Society of Antiquaries. He was the President of the Crayford Manor House Historical and Archaeology Society and founded the Darent Valley Archaeological Research Group.[^ref4] 
-
 Meates died on the 9 July 1985 at The Gate House,Lullingstone Castle.
 <param ve-image 
        manifest="https://upload.wikimedia.org/wikipedia/commons/1/18/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413897040%29.jpg">
