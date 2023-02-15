@@ -12,7 +12,7 @@
 <param ve-entity eid="Q5222546"> <!--Darent Valley-->
 
 Lullingstone Roman Villa is situated in Lullingstone, near the village of Eynsford, in the Darent Valley. It was unearthed during archaeological excavations
-undertaken by Lieutenant Colonel Geoffrey Wells Meates F.S.A. and Ernest Greenfield in the late 1940s to early 1960s.[ref^1] The villa was built during the Roman occupation of Britain, approximately AD 80-100, and would have been a luxurious family home.
+undertaken by Lieutenant Colonel Geoffrey Wells Meates F.S.A. and Ernest Greenfield in the late 1940s to early 1960s.[^ref1] The villa was built during the Roman occupation of Britain, approximately AD 80-100, and would have been a luxurious family home.
 
 Although originally from Hereford, Meates had visited Kent in 1911 when he stayed with the Langfords at Smith Farm, Smarden. He was educated at the Royal Military Academy, Woolwich and served in India, Rangoon, Burma and Ireland before the second world war. During the war, he served in the Heavy Anti Aircraft Regiment, Royal Artillery, and was involved in the retreat from Dunkirk and the Seige of Malta.[^ref2] His final posting was Sandwich from 1944-1945, after which he retired from service life and took up archaeology.[^ref3] His first excavation was at Farningham, near Sevenoaks in 1947 and after this Lullingstone in 1949. He became a member of Kent Archaeological Society and in 1951, was elected a fellow of the Society of Antiquaries. He was the President of the Crayford Manor House Historical and Archaeology Society and founded the Darent Valley Archaeological Research Group.[^ref4]  Greenfield 
 
