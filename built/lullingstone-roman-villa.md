@@ -12,10 +12,11 @@
 <param ve-entity eid="Q26163"> <!--Sandwich-->
 <param ve-entity eid="Q146676"> <!--Crayford-->
 
-'If jealous Juno had seen the swimming of the bull, she might more justly have gone to the halls of Aelous' - _Translation of a Latin inscription on the mosaic floor at Lullingstone Roman Villa_
+'If jealous Juno had seen the swimming of the bull, she might more justly have gone to the halls of Aelous'   
+_Translation of a Latin inscription on the mosaic floor at Lullingstone Roman Villa_
 <br><br>
 Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. It was unearthed during archaeological excavations
-undertaken by Lieutenant Colonel Geoffrey Wells Meates F.S.A. and Ernest Greenfield in the late 1940s to early 1960s.[^ref1] 
+undertaken by Lieutenant Colonel Geoffrey Wells Meates F.S.A., Ernest Greenfield and Edwyn Birchenough in the late 1940s to early 1960s.[^ref1] 
 
 Evidence of the Roman villa had been discovered much earlier in the middle of the eighteenth century when erecting a new deer-fence around Lullingstone Park. Coins and small objects found near the site provided further evidence of Roman occupation. In 1939, Ernest Greenfield, an enthusiastic archaeologist from Sidcup, and Edwyn Birchenough detected a Roman wall under the roots of a fallen tree, but it was not until after the Second World War that archaeological excavation could begin.[^ref2]
 
@@ -26,18 +27,19 @@ During the Second World War, Meates served in the Heavy Anti Aircraft Regiment, 
 After the war he retired from service life and took up archaeology.[^ref4] His first excavation was at Farningham, near Sevenoaks in 1947. 
 <br><br>
 
-In 1949, Meates and a team of volunteers began digging at Lullingstone and over the next 13 years uncovered a villa complex including a villa, a granary, shrine, kitchen and a temple-mausoleum. The villa was built during the Roman occupation of Britain, approximately AD 80-100, and would have been a luxurious family home. 
+In 1949, Meates, Greenfield and Bichenough and a team of volunteers began digging at Lullingstone and over the next 13 years uncovered a villa complex including a villa, a granary, shrine, kitchen and a temple-mausoleum. The villa was built during the Roman occupation of Britain, approximately AD 80-100, and would have been a luxurious family home. 
 <br><br>
 Excavations revealed a remarkable mosaic floor with scenes depicting the Rape of Europa by Jupiter in the form of a bull, Bellerephon mounted on the winged horse Pegasus spearing the Chimera, and representations of the four seasons.[^ref5] Four porpoises or dolphins illustrate the sea-journey taken by Bellerephon from Argos to Lycia.[^ref6] Two busts made from Pentelic marble were also discovered in a sealed chamber. Meates initially thought that one was the Emperor Antoninus Pius (138-161), but after closer examination revised this idea, suggesting that they were governor Pertinax and his father Publius Helvius Successus.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d0/P1010153.JPG" label="Roman marble bust, found in the Roman Villa at Lullingstione, now British Museum " attribution="Udimu, British Museum, via Wikimedia Commons" license="CC BY 3.0">
 
-Meates began giving talks about his discoveries illustrated by lantern slides.[^ref7] He became a member of Kent Archaeological Society and in 1951, was elected a fellow of the Society of Antiquaries. He was the President of the Crayford Manor House Historical and Archaeology Society and founded the Darent Valley Archaeological Research Group.[^ref8] 
+Meates, now taking the lead on the project, began giving talks about the discoveries illustrated by lantern slides.[^ref7] He became a member of Kent Archaeological Society and in 1951, was elected a fellow of the Society of Antiquaries. He was the President of the Crayford Manor House Historical and Archaeology Society and founded the Darent Valley Archaeological Research Group.[^ref8] 
 <br><br>
 In 1955, he published _Lullingstone Roman Villa_ which the _Illustrated London News_ described as a 'fascinating book' for anyone interested in 'archaeology, history and detection all rolled into one'.[^ref9]  At the eighth annual dig dinner in 1957, Meates joked that he hoped that the owner of Lullingstone Castle, Sir Oliver Hart Dyke would join in the next dig on the hillside at the back of the Roman villa and that he would give him a trowel.[^ref10] 
 <br><br>
 In 1958, the diggers discovered a Romano-British funerary temple dating from around A.D. 300. The inner chamber was adorned with fine plaster wall paintings which contained the Christian symbol Chi-Rho (forming the first two letters of Christ’s name in Greek, chi (χ) and rho (ρ)), evidence of Romano-British Christianity. [^ref11] Beneath this were the coffins of a man and woman with grave goods including 30 draughtsmen (15 red, 15 white), forks, spoons and glass utensils.[^ref12] 
 <br><br>
-Greenfield excavated a Neolithic pit at Wingham in 1960
+Greenfield contributed to other archaeological digs in the county, excavating a Neolithic pit at Wingham in 1960. 
+<br><br>
 Meates died on the 9 July 1985 at The Gate House, Lullingstone Castle.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Lullingstone_paintings2.jpg"
        label="Modern restoration of the fresco containing the Christian symbol of the Chi Rho from the Roman Villa at Lullingstone, now at the British Museum, London" 
