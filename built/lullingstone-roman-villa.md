@@ -1,19 +1,16 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config 
        title="Lullingstone Roman Villa"
        author="Nadia Balbontin"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/a/a1/LullingstonVilla-Kent_Interior_May2001.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q1877182"> <!-- Lullingstone Roman Villa -->
 <param ve-entity eid="Q6644861"> <!-- Lullingstone -->
 <param ve-entity eid="Q1877197"> <!-- Eynsford -->
 <param ve-entity eid="Q23298"> <!-- Kent -->
 <param ve-entity eid="Q5222546"> <!-- Darent Valley -->
 
-## Location
 Lullingstone Roman Villa is situated in Lullingstone, near the village of Eynsford in Kent, it is located in Darent Valley. 
 It’s a notable post-war excavation which took place from the late 1940s to early 1960s, by Colonel Meates. [^1]
 The Central Excavation Unit of English Heritage undertook a small-scale excavation at Lullingstone car park.
@@ -26,7 +23,6 @@ shrine, kitchen, mausoleum and what is thought to be a cult room, in the cellar.
 with wings at either end, and a deep cellar under the north wing (on the right-hand side) [^2]
 The villa was built during the Roman occupation of Britain. Built approximately AD 100, possibly as early as AD 80s, the villa was 
 a luxurious family home for successive wealthy owners.
-
 <param ve-image 
        label="Lullingstone Roman Villa Ruins" 
        description="Author Carole Raddato" 
@@ -51,7 +47,6 @@ Pegasus, the winged horse. [^5]
  
 Today the villa has been recognised as a monument. You can visit this wonderful archaeological site, admire the mosaics and prints of the rare wall findings, 
 a heated bath-suite and a ‘house-church’. 
-
 <param ve-image 
        label="Lullingstone Ruins" 
        description="Author Carole Raddato" 
@@ -64,7 +59,6 @@ In 1989 a team of 12 archaeologists and a Conservation Architect were put togeth
 this team now work to care for the county’s heritage. Some of their work includes assessing development areas for archaeological potential and ensuring that any 
 remains are treated appropriately, maintaining the Historic Environment Record database, advising on listed and historic buildings, and carrying out a range of 
 projects designed to ensure Kent’s heritage is cared for, recorded, and promoted. [^1]
-
 <param ve-image 
        manifest="https://upload.wikimedia.org/wikipedia/commons/1/18/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413897040%29.jpg">
 <param ve-map center="Q23298" zoom="11">
