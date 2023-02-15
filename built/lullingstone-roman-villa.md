@@ -52,7 +52,7 @@ Meates died on the 9 July 1985 at The Gate House, Lullingstone Castle.
 <param ve-map center="Q6644861" zoom="11" prefer-geojson>
 
 ### References
-[^ref1]: Palmer, Lyn. [WebApps: Exploring Kents Past] (https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=Tke1069)  
+[^ref1]: Palmer, Lyn. [WebApps: Exploring Kents Past](https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=Tke1069)  
 [^ref2]: Meates, G.W., Greenfield, E and Birchenough, E. (1951) 'The Lullingstone Roman Villa', _Archaeologia Cantiana_ 63, p.3
 [^ref3]: Sevenoaks Chronicle and Kentish Advertiser - Friday 26 July 1985.   
 [^ref4]: [MEATES, Lt Col Geoffrey Wells (1900-1985)](https://kingscollections.org/catalogues/lhcma/collection/m/me15-001?searchterms=meates)  
@@ -64,4 +64,5 @@ Meates died on the 9 July 1985 at The Gate House, Lullingstone Castle.
 [^ref10]: Kent Messenger & Gravesend Telegraph - Friday 18 January 1957
 [^ref11]: [English Heritage: Lullingstone Roman Villa History 2](https://www.english-heritage.org.uk/visit/places/lullingstone-roman-villa/history/)  
 [^ref12]: Illustrated London News - Saturday 04 October 1958
+<br><br>
 Banner image: Painted Walls from Lullinstone Roman Villa, 4th century AD, British Museum (16119773582) Carole Raddato from FRANKFURT, Germany, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
