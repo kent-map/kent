@@ -36,6 +36,12 @@ Kent is not only the garden of England, it is also the first landing site of Chr
 
 The Invicta Park Barracks which currently houses 36 Engineer Regiment, Royal Engineers would seem an unlikely place to have a connection with two Victorian literary heroes: Alfred Lord Tennyson and Edward Lear.
 
+## Lullingstone Roman Villa {href=/built/lullingstone-roman-villa}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/56/Gatehouse%2C_Lullingstone_Castle.jpg)
+
+Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. It was unearthed during archaeological excavations undertaken in the late 1940s to early 1960s.
+
 ## Victorian Turkish Baths {href=/19c/19c-turkish-baths}
 
 ![](https://iiif.wellcomecollection.org/image/L0005395/full/full/0/default.jpg)
