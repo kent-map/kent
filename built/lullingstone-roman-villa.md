@@ -35,7 +35,8 @@ After the war he retired from service life and took up archaeology.[^ref4] His f
 <param ve-map center="Q2706208" zoom="11" prefer-geojson>
 
 In 1949, Meates, Greenfield and Bichenough and a team of volunteers began digging at Lullingstone and over the next 13 years uncovered a villa complex including a villa, a granary, shrine, kitchen and a temple-mausoleum. The villa was built during the Roman occupation of Britain, approximately AD 80-100, and would have been a luxurious family home. 
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/96/Ordnance_Survey_Drawings_-_Eynsford_%28OSD_98%29.jpg" label="Ordnance Survey Drawings, Eynsford" attribution=British Library, OGL v1.0OGL v1.0, via Wikimedia Commons">
+
 Excavations revealed a remarkable mosaic floor with scenes depicting the Rape of Europa by Jupiter in the form of a bull, Bellerephon mounted on the winged horse Pegasus spearing the Chimera, and representations of the four seasons.[^ref5] Four porpoises or dolphins illustrate the sea-journey taken by Bellerephon from Argos to Lycia.[^ref6] 
 <br><br>
 Two busts made from Pentelic marble were also discovered in a sealed chamber. Meates initially thought that one was the Emperor Antoninus Pius (138-161), but after closer examination revised this idea, suggesting that they were governor Pertinax and his father Publius Helvius Successus.
