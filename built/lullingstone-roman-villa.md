@@ -54,7 +54,6 @@ Meates died on the 9 July 1985 at The Gate House, Lullingstone Castle.
        label="Modern restoration of the fresco containing the Christian symbol of the Chi Rho from the Roman Villa at Lullingstone, now at the British Museum, London" 
        license="CC BY-SA 3.0" 
        attribution="I, Udimu, via Wikimedia Commons">
-<param ve-map center="Q6644861" zoom="11" prefer-geojson>
 
 ### References
 [^ref1]: Palmer, Lyn. [WebApps: Exploring Kents Past](https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=Tke1069)  
