@@ -45,15 +45,16 @@ Meates, now taking the lead on the project, began giving talks about the discove
 <br><br>
 In 1955, he published _Lullingstone Roman Villa_ which the _Illustrated London News_ described as a 'fascinating book' for anyone interested in 'archaeology, history and detection all rolled into one'.[^ref9]  At the eighth annual dig dinner in 1957, Meates joked that he hoped that the owner of Lullingstone Castle, Sir Oliver Hart Dyke would join in the next dig on the hillside at the back of the Roman villa and that he would give him a trowel.[^ref10] 
 <br><br>
-In 1958, the diggers discovered a Romano-British funerary temple dating from around A.D. 300. The inner chamber was adorned with fine plaster wall paintings which contained the Christian symbol Chi-Rho (forming the first two letters of Christ’s name in Greek, chi (χ) and rho (ρ)), evidence of Romano-British Christianity. [^ref11] Beneath this were the coffins of a man and woman with grave goods including 30 gaming pieces (15 red, 15 white), forks, spoons and glass utensils.[^ref12] 
-<br><br>
-Greenfield contributed to other archaeological digs in the county, excavating a Neolithic pit at Wingham in 1960. 
-<br><br>
-Meates died on the 9 July 1985 at The Gate House, Lullingstone Castle.
+In 1958, the diggers discovered a Romano-British funerary temple dating from around A.D. 300. The inner chamber was adorned with fine plaster wall paintings which contained the Christian symbol Chi-Rho (forming the first two letters of Christ’s name in Greek, chi (χ) and rho (ρ)), evidence of Romano-British Christianity. [^ref11] Beneath this were the coffins of a man and woman with grave goods including 30 gaming pieces (15 red, 15 white), forks, spoons and glass utensils.[^ref12]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Lullingstone_paintings2.jpg"
        label="Modern restoration of the fresco containing the Christian symbol of the Chi Rho from the Roman Villa at Lullingstone, now at the British Museum, London" 
        license="CC BY-SA 3.0" 
        attribution="I, Udimu, via Wikimedia Commons">
+
+Greenfield contributed to other archaeological digs in the county, excavating a Neolithic pit at Wingham in 1960. 
+<br><br>
+Meates died on the 9 July 1985 at The Gate House, Lullingstone Castle.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/Gatehouse%2C_Lullingstone_Castle.jpg" label="Gatehouse, Lullingstone Castle" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
 ### References
 [^ref1]: Palmer, Lyn. [WebApps: Exploring Kents Past](https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=Tke1069)  
