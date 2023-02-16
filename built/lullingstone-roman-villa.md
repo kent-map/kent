@@ -47,7 +47,7 @@ Meates, now taking the lead on the project, began giving talks about the discove
 <br><br>
 In 1955, he published _Lullingstone Roman Villa_ which the _Illustrated London News_ described as a 'fascinating book' for anyone interested in 'archaeology, history and detection all rolled into one'.[^ref9]  At the eighth annual dig dinner in 1957, Meates joked that he hoped that the owner of Lullingstone Castle, Sir Oliver Hart Dyke would join in the next dig on the hillside at the back of the Roman villa and that he would give him a trowel.[^ref10] 
 <br><br>
-In 1958, the diggers discovered a Romano-British funerary temple dating from around A.D. 300. The inner chamber was adorned with fine plaster wall paintings which contained the Christian symbol Chi-Rho (forming the first two letters of Christ’s name in Greek, chi (χ) and rho (ρ)), evidence of Romano-British Christianity. [^ref11] Beneath this were the coffins of a man and woman with grave goods including 30 draughtsmen (15 red, 15 white), forks, spoons and glass utensils.[^ref12] 
+In 1958, the diggers discovered a Romano-British funerary temple dating from around A.D. 300. The inner chamber was adorned with fine plaster wall paintings which contained the Christian symbol Chi-Rho (forming the first two letters of Christ’s name in Greek, chi (χ) and rho (ρ)), evidence of Romano-British Christianity. [^ref11] Beneath this were the coffins of a man and woman with grave goods including 30 gaming pieces (15 red, 15 white), forks, spoons and glass utensils.[^ref12] 
 <br><br>
 Greenfield contributed to other archaeological digs in the county, excavating a Neolithic pit at Wingham in 1960. 
 <br><br>
