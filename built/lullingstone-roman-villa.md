@@ -2,19 +2,15 @@
 <param ve-config title="Lullingstone Roman Villa" author="Nadia Balbontin and Michelle Crowther"     banner="https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg" 
 layout="vertical">
 
-<param ve-entity eid="Q1877197" aliases="Eynsford">
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
-<param ve-entity eid="Q5222546" aliases="Darent Valley">
 <param ve-entity eid="Q2706208" aliases="Farningham">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q146676" aliases="Crayford">
 <param ve-entity eid="Q2632094" aliases="Wingham">
 <param ve-entity eid="Q146705" aliases="Sidcup">
 <param ve-entity eid="Q2183593" aliases="Smarden">
-<param ve-entity eid="Q1877182"> <!-- Lullingstone Roman Villa -->
 <param ve-entity eid="Q6644861"> <!-- Lullingstone -->
 <param ve-entity eid="Q1877197"> <!-- Eynsford -->
-<param ve-entity eid="Q23298"> <!-- Kent -->
 <param ve-entity eid="Q5222546"> <!-- Darent Valley -->
 
 #
