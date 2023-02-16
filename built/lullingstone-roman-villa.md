@@ -20,7 +20,7 @@
 _Translation of a Latin inscription on the mosaic floor at Lullingstone Roman Villa_
 <br><br>
 Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. It was unearthed during archaeological excavations
-undertaken by Lieutenant Colonel Geoffrey Wells Meates F.S.A., Ernest Greenfield and Edwyn Birchenough in the late 1940s to early 1960s.[^ref1] 
+undertaken by Lieutenant Colonel Geoffrey Wells Meates, Ernest Greenfield and Edwyn Birchenough in the late 1940s to early 1960s.[^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288412819657%29.jpg" label="Lullingstone Roman Villa" attribution="Carole Raddato from FRANKFURT, Germany, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 <param ve-map center="Q1877197" zoom="11" prefer-geojson>
 
