@@ -26,7 +26,7 @@ Evidence of the Roman villa had been discovered much earlier in the middle of th
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Samuel_Palmer_-_Ancient_Trees%2C_Lullingstone_Park_-_Google_Art_Project.jpg" label="Ancient Trees, Lullingstone Park, 1828" attribution="Samuel Palmer, Public domain, via Wikimedia Commons">
 <param ve-map center="Q146705" zoom="11" prefer-geojson>
 
-Although originally from Hereford, Meates had visited Kent at the age of 11 staying with the Langfords at Smith Farm, Smarden. He was educated at the Royal Military Academy, Woolwich in 1919 and served in India, Rangoon, Burma and Ireland. 
+Although originally from Hereford, Meates had visited Kent at the age of 11 staying with the Langfords at Smith Farm, Smarden. He was educated at the Royal Military Academy, Woolwich in 1919 and served in India, Burma (Myanmar) and Ireland. 
 <br><br>
 During the Second World War, Meates served in the Heavy Anti Aircraft Regiment, Royal Artillery, and was involved in the retreat from Dunkirk and the Seige of Malta.[^ref3] His final posting was Sandwich from 1944 until 1945. 
 <br><br>
