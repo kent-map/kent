@@ -11,6 +11,11 @@ layout="vertical">
 <param ve-entity eid="Q2632094" aliases="Wingham">
 <param ve-entity eid="Q146705" aliases="Sidcup">
 <param ve-entity eid="Q2183593" aliases="Smarden">
+<param ve-entity eid="Q1877182"> <!-- Lullingstone Roman Villa -->
+<param ve-entity eid="Q6644861"> <!-- Lullingstone -->
+<param ve-entity eid="Q1877197"> <!-- Eynsford -->
+<param ve-entity eid="Q23298"> <!-- Kent -->
+<param ve-entity eid="Q5222546"> <!-- Darent Valley -->
 
 #
 'If jealous Juno had seen the swimming of the bull, she might more justly have gone to the halls of Aelous'   
