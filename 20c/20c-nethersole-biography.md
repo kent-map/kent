@@ -69,7 +69,7 @@ The old Fleur-de-lis at Seatown boasted an upper chamber whose walls were panell
 <br><br>
 Nethersole was living at The Long House, 62, Strand St, Sandwich on the 1939 register,[^ref33] but by the 1950s she had moved to Whitstable, and was living at Iden Green, 79, Old Bridge Road. She died on 21 May 1956 at 1, Gloucester Road, Whitstable.[^ref34] 
 <br><br>
-Her sister Florence married John Lade Worsfold of Sandwich, cousin of Jessie Challacombe, the Dover born author of children’s fiction.
+Her sister Florence married John Lade Worsfold of Sandwich, cousin of [Jessie Challacombe](/19c/19c-challacombe-biography), the Dover born author of children’s fiction.
 <br><br>
 This article was published: 8 January 2023.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Fleur_de_Lys_-_geograph.org.uk_-_3283851.jpg/1165px-The_Fleur_de_Lys_-_geograph.org.uk_-_3283851.jpg" label="The Fleur de Lys, Sandwich" attribution="Des Blenkinsopp, via Wikimedia Commons" license="CC BY-SA 2.0"> 
