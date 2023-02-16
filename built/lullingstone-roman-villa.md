@@ -1,6 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Lullingstone Roman Villa" author="Nadia Balbontin and Michelle Crowther"     banner="https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg" 
-layout="vertical">
+<param ve-config title="Lullingstone Roman Villa" author="Nadia Balbontin and Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg">
 
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
 <param ve-entity eid="Q2706208" aliases="Farningham">
@@ -12,6 +11,8 @@ layout="vertical">
 <param ve-entity eid="Q6644861" aliases="Lullingstone">
 <param ve-entity eid="Q1877197" aliases="Eynsford">
 <param ve-entity eid="Q5222546" aliases="Darent Valley">
+
+#
 
 'If jealous Juno had seen the swimming of the bull, she might more justly have gone to the halls of Aelous'   
 _Translation of a Latin inscription on the mosaic floor at Lullingstone Roman Villa_
