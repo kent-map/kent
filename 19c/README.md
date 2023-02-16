@@ -24,6 +24,7 @@
 [John Brent](19c-brent-biography)   
 [Angela Burdett-Coutts](19c-burdett-coutts-biography)   
 [F. C. Burnand](19c-burnand-biography)  
+[Jessie Challacombe](19c-challacombe-biography)   
 [Mary Cowden Clarke](19c-cowden-clarke-biography)   
 [Wilkie Collins](19c-collins-biography)   
 [Joseph Conrad](19c-conrad-biography)  
