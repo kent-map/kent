@@ -41,7 +41,7 @@ Excavations revealed a remarkable mosaic floor with scenes depicting the Rape of
 Two busts made from Pentelic marble were also discovered in a sealed chamber. Meates initially thought that one was the Emperor Antoninus Pius (138-161), but after closer examination revised this idea, suggesting that they were governor Pertinax and his father Publius Helvius Successus.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d0/P1010153.JPG" label="Roman marble bust, found in the Roman Villa at Lullingstione, now British Museum " attribution="Udimu, British Museum, via Wikimedia Commons" license="CC BY 3.0">
 
-Meates, now taking the lead on the project, began giving talks about the discoveries illustrated by lantern slides.[^ref7] He became a member of Kent Archaeological Society and in 1951, was elected a fellow of the Society of Antiquaries. He was the President of the Crayford Manor House Historical and Archaeology Society and founded the Darent Valley Archaeological Research Group.[^ref8] 
+Meates, now taking the lead on the project, began giving talks about the discoveries illustrated by lantern slides.[^ref7] He became a member of Kent Archaeological Society and in 1951, was elected a fellow of the Society of Antiquaries.[^ref8] 
 <br><br>
 In 1955, he published _Lullingstone Roman Villa_ which the _Illustrated London News_ described as a 'fascinating book' for anyone interested in 'archaeology, history and detection all rolled into one'.[^ref9]  At the eighth annual dig dinner in 1957, Meates joked that he hoped that the owner of Lullingstone Castle, Sir Oliver Hart Dyke would join in the next dig on the hillside at the back of the Roman villa and that he would give him a trowel.[^ref10] 
 <br><br>
