@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config 
        title="Lullingstone Roman Villa"
-       author="Nadia Balbontin"     banner="https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg" 
+       author="Nadia Balbontin and Michelle Crowther"     banner="https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg" 
        layout="vertical">
 
 <param ve-entity eid="Q1877197" aliases="Eynsford">
