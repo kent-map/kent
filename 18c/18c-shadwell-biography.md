@@ -6,11 +6,11 @@ banner="/images/banners/18c.jpg">
 <param ve-map center="Q1011096" zoom="10">
 
 'To my GENEROUS and OBLIGING FRIENDS OF THE County of KENT.   
-GENTLEMEN, This Play was both design'd and finish'd in Your County, and therefore comes for Protection to the Place of its Nativity. It drags not a sluggish and unwilling Pace, as timorous of its Reception, and the hardiness of its fate; but pants for its native air, where it was brought forth with pleasure, and flies to the good treatment of your experience’d hospitality' - Introduction to _The fair Quaker of Deal: or, the humours of the navy, 1710._
+GENTLEMEN, This Play was both design'd and finish'd in Your County, and therefore comes for Protection to the Place of its Nativity. It drags not a sluggish and unwilling Pace, as timorous of its Reception, and the hardiness of its fate; but pants for its native air, where it was brought forth with pleasure, and flies to the good treatment of your experience’d hospitality' - Introduction to _The Fair Quaker of Deal: or, the Humours of the Navy, 1710._
 <br><br>
-Little is known about Charles Shadwell’s birth or childhood, but it is most likely that he was born in London. He was the son of Thomas Shadwell (c.1640–1692), playwright, poet laureate and historiographer and the celebrated Restoration actor Anne Gibbs.  Thomas and Anne married sometime between 1663 and 1664  and had at least 4 children between 1671 and 1686 so Charles’s birth has been dated to around this period.  
+Little is known about Charles Shadwell’s birth or childhood, but it is most likely that he was born in London. He was the son of Thomas Shadwell (c.1640–1692), playwright, poet laureate and historiographer and the celebrated Restoration actor Anne Gibbs.  Thomas and Anne married sometime between 1663 and 1664 and had at least 4 children between 1671 and 1686 so Charles’s birth dates from this period.  
 
-Charles’s father Thomas, whose first play _The Sullen Lovers_ (1668) was a runaway success became noted among court circles and attracted the patronage of poet and courtier Charles Sackville, Earl of Dorset and Lord Chamberlain.  The two men both enjoyed life to excess and Nell Gwynn described them drinking ale together all day. Thomas received regular sums of money from the Earl as 'without your Lord’s generosity I could not have subsisted till now'. 
+Charles’s father Thomas, whose first play _The Sullen Lovers_ (1668) was a runaway success became noted among court circles and attracted the patronage of poet and courtier Charles Sackville, Earl of Dorset and Lord Chamberlain.  The two men both enjoyed life to excess and Nell Gwynn described them drinking ale together all day. Thomas received regular sums of money from the Earl as 'without your Lord’s generosity I could not have subsisted..'
 
 Thomas was appointed poet laureate and historiographer at the Glorious Revolution in 1688 for which he received £300 per annum for the role. He did not find writing poetry easy and wrote “a series of tedious laureate poems”.  His plays were a little more successful, although he received criticism from both from his rival John Dryden and Samuel Pepys. [ODNB]. 
 <br><br>
@@ -55,9 +55,10 @@ Worthy interjects: 'Indeed the House is very notorious; why don't you frequent t
 <br><br>
 Flip replies: 'Because all the Fops and Beardless Boys of the Navy go there; besides, I think the husband too blind, and his wife has too much sight. But Tom Cragg and I were boatswain's mates together. As to it being a bawdy-house, that is no offence to me; for all houses in sea-ports have been reckoned so, ever since I pick'd oakum'.
 <br><br>
-It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. Later in the play, the Crown, the Fleecer and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid where gaming is available on Middle Street.
+It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. Later in the play, the Crown, the Fleecer and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid where gaming was available was on Middle Street.
 
-After Shadwell's bleak representation of Deal as a town of debauchery, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side of East Kent life. 
+After Shadwell's bleak introduction to Deal, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side to life in the town. However, Shadwell's representation of Quakers may not be as disengenous as it appears. Arabella says “Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.” (p21)
+Dorcas accuses her sister of being “of the Church belonging to the Wicked”. Arabella threatens to flirt with Worthy when he arrives to annoy her sister. 
 
 She invites Captain Worthy to visit her at the North End of town to renew his Vows of Sincerity, but Mizen has ‘barbarous’ designs on her and declares, 'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen, 1 must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.  
 <br><br>
@@ -65,8 +66,7 @@ Shadwell's portrayal of Dorcas
 
 Worthy and Rovewell plot to set Mizen up with the prostitute Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans. (p20) They agree to meet at Daniel’s in an hour 'where we’ll take a sneaker of Amy’s Punch'. 
 
-In the next scene, Dorcas and her sister Arabella are discussing Worthy. Arabella says “Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.” (p21)
-Dorcas accuses her sister of being “of the Church belonging to the Wicked”. Arabella threatens to flirt with Worthy when he arrives to annoy her sister. 
+In the next scene, Dorcas and her sister Arabella are discussing Worthy. 
 When he arrives Arabella accuses Worthy of planning to use her sister; “Ay, wheedle her out of what she has; get her Money, then use her like a Wife, turn her out of Doors and compound her for a Maintenance.” She tries to convince him to marry her instead, but he will not be swayed and agrees to marry Dorcas the next day in church. 
 The coxswain and a sailor are discussing having a prostitute for the night at Flip’s charge (expense). The coxswain says:
 Ay, and so be clap'd : If he would force the Surgeon to cure us at the Government's Charge, it would be a mighty Encouragement to us; but our Rogue of a Loblolly Dodor, being not satisfied with his Twopences, must have a Note for two Months Pay for every Cure; and the last time the Ship was paid, between the Officers, and the Sailors, he swept above half the Ship's Company's Money into his own Hat.
