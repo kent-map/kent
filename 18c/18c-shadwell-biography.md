@@ -18,6 +18,21 @@ Charles’s mother Anne who had performed in at least two of Thomas’s plays as
 
 It is uncertain where Charles received his education but Charles’s father was educated at Caius College, Cambridge and his brother John was educated at University College and All Souls’ college, Oxford. Charles entered the army and served under Major-General Newton, Governor of Londonderry during the War of the Spanish Succession (1701-15). Newton was in charge of the foot guards at Rota, near Cadiz in 1702 with 300 men in garrison and 'several pieces of cannon'. 
 
-In 1710 Charles is recorded as the supervisor of the excise in Kent and it was at during this time that he wrote his play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent. He jokes in the dedication that 'to incorporate You, by name into one Body, would require a College of Heralds to order the precedence' suggesting that he had more than one influential supporter. Lionel Cranfield Sackville (1688-1765), the son of Charles Sackville, the 6th Earl of Dorset who had been his father’s patron, was the Governor of Dover Castle and Lord Warden of the Cinq Ports from 1708-12, at the same time that Charles Shadwell was supervisor of the excise for Kent, and it was possibly his family connections which enabled him to obtain this position. French and Spanish prisoners from the War of the Spanish Succession were also imprisoned at the castle during this period so it is possible that Charles could have been stationed here with his regiment earlier than 1710 (A Charles Shadwell marries Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period.)
+In 1710, Charles is recorded as the supervisor of the excise in Kent and it was at during this time that he wrote his play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent. He jokes in the dedication that 'to incorporate You, by name into one Body, would require a College of Heralds to order the precedence' suggesting that he had more than one influential supporter. Lionel Cranfield Sackville (1688-1765), the son of Charles Sackville, the 6th Earl of Dorset who had been his father’s patron, was the Governor of Dover Castle and Lord Warden of the Cinq Ports from 1708-12, at the same time that Charles Shadwell was supervisor of the excise for Kent, and it was possibly his family connections which enabled him to obtain this position. French and Spanish prisoners from the War of the Spanish Succession were also imprisoned at the castle during this period so it is possible that Charles could have been stationed here with his regiment earlier than 1710 (A Charles Shadwell marries Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period.)
+
+In Act 1 scene 1, Captain Worthy and his crew land at Deal. Worthy cries:
+<br><br>
+'Thank Heaven, I have at last reach'd my native Land. Cockswain, take; care the Water be sent on Board with Expedition, and bid the Purser hasten to Dover for fresh Provisions, and let the sick men be set on Shore for the next trip.'
+<br><br>
+The victualling yard for the Royal Navy was at the Maison Dieu in Dover, which had a “Small cooperage, bakehouse and slaughterhouse, but no brewhouse” , beer being obtained from a Deal brewery. The agent victualler was Thomas Coleby but due to a high level of pilfering at this period, a Clerk of the Cheque, Lancelot Whitehall, was also appointed to oversee provisions.  
+
+On landing, Worthy sees his friend Rovewell, a gentlemen of fortune and asks 'But how does all our Deal Angels?' to which Rovewell replies:
+<br><br>
+'Why the few virtuous Women are as proud and as insolent as they us'd to be, and the Whores you left here about ten Months since, are dead with Rottenesss, and young Strums supply their Rooms. This is a monstrous Place for Wickedness! Fornication flourishes more here than in any Sea Port of Europe'. (p12)
+<br><br>
+Shadwell’s description of Deal as seen through the eyes of his character Rovewell, echoes the impressions formed by Samuel Pepys and Daniel Defoe on their visits to the town. Pepys described it as ‘pitiful’ and Defoe "that fatal town". 
+
+
+
 
 
