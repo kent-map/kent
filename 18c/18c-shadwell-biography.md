@@ -30,7 +30,7 @@ On landing, Worthy sees his friend Rovewell, a gentlemen of fortune and asks 'Bu
 <br><br>
 'Why the few virtuous Women are as proud and as insolent as they us'd to be, and the Whores you left here about ten Months since, are dead with Rottenesss, and young Strums supply their Rooms. This is a monstrous Place for Wickedness! Fornication flourishes more here than in any Sea Port of Europe'. (p12)
 <br><br>
-Shadwell’s description of Deal as seen through the eyes of his character Rovewell, echoes the impressions formed by Samuel Pepys and Daniel Defoe on their visits to the town. Pepys described it as ‘pitiful’ and Defoe "that fatal town". 
+Shadwell’s description of Deal as seen through the eyes of his character Rovewell, echoes the impressions formed by Samuel Pepys and Daniel Defoe on their visits to the town. Pepys described it as ‘pitiful’ in 1660 and Defoe "that fatal town" in 1704. In _The Diary of Thomas Powell_ (1703) Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.' [History of Deal John Laker 1917] 
 
 As the action continues, Flip, a commodore, who dislikes the new breed of foppish gentleman captains, bemoans their lack of commitment arguing that:
 <br><br>
@@ -47,9 +47,12 @@ Flip lodges at the Three Mariners. Mizen assumes it to be a house of ill-repute:
 <br><br>
 “May my ship’s anchor come home if it be not an arrant Baudy-House! The Husband keeps a Bom-boat, the Wife a Brandy-shop, and the two Daughters are let out to all Comers and Goers.”
 <br><br>
-Worthy interjects.” Indeed the House is very notorious; why don't you frequent the India Arms?”
+Worthy interjects: 'Indeed the House is very notorious; why don't you frequent the India Arms?'
 <br><br>
-Flip replies “Because all the Fops and Beardless Boys of the Navy go there;” 
+Flip replies 'Because all the Fops and Beardless Boys of the Navy go there'.
+<br><br>
+The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. 
+
 
 
 
