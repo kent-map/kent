@@ -32,7 +32,9 @@ On landing, Worthy sees his friend Rovewell, a gentlemen of fortune and asks 'Bu
 <br><br>
 'Why the few virtuous Women are as proud and as insolent as they us'd to be, and the Whores you left here about ten Months since, are dead with Rottenesss, and young Strums supply their Rooms. This is a monstrous Place for Wickedness! Fornication flourishes more here than in any Sea Port of Europe'. (p12)
 <br><br>
-Shadwell’s description of Deal as seen through the eyes of his character Rovewell, echoes the impressions formed by Samuel Pepys and Daniel Defoe on their visits to the town. Pepys described it as ‘pitiful’ in 1660 and Defoe "that fatal town" in 1704. In _The Diary of Thomas Powell_ (1703) Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.' [History of Deal John Laker 1917] 
+Shadwell’s description of Deal as seen through the eyes of his character Rovewell, echoes the impressions formed by Samuel Pepys and Daniel Defoe on their visits to the town. Pepys described it as ‘pitiful’ in 1660 and Defoe "that fatal town" in 1704. 
+<br><br>
+In _The Diary of Thomas Powell_ (1703) Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.' [History of Deal John Laker 1917] 
 
 As the action continues, Flip, a commodore, who dislikes the new breed of foppish gentleman captains, bemoans their lack of commitment arguing that:
 <br><br>
@@ -45,16 +47,41 @@ Rovewell contradicts him saying:
 The Dutch had attacked English warships liying at anchor off Chatham and Gillingham on a [raid on the Medway](/17c/17c-sheppey-at-war), during the Second Anglo-Dutch War in June 1667.
 Flip defends the navy, blaming 'the Treachery of some Rogues at Land' as the local people flew in fear.
 
-Flip lodges at the Three Mariners. Mizen assumes it to be a house of ill-repute:
+Several Deal pubs are mentioned in the play. Flip lodges at the Three Mariners, which Mizen, one of the foppish gentlemen captains, assumes to be a house of ill-repute:
 <br><br>
 “May my ship’s anchor come home if it be not an arrant Baudy-House! The Husband keeps a Bom-boat, the Wife a Brandy-shop, and the two Daughters are let out to all Comers and Goers.”
 <br><br>
 Worthy interjects: 'Indeed the House is very notorious; why don't you frequent the India Arms?'
 <br><br>
-Flip replies 'Because all the Fops and Beardless Boys of the Navy go there'.
+Flip replies: 'Because all the Fops and Beardless Boys of the Navy go there; besides, I think the husband too blind, and his wife has too much sight. But Tom Cragg and I were boatswain's mates together. As to it being a bawdy-house, that is no offence to me; for all houses in sea-ports have been reckoned so, ever since I pick'd oakum'.
 <br><br>
-The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. 
+It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. Later in the play, the Crown, the Fleecer and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid where gaming is available on Middle Street.
 
+After Shadwell's bleak representation of Deal as a town of debauchery, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side of East Kent life. 
+
+She invites Captain Worthy to visit her at the North End of town to renew his Vows of Sincerity, but Mizen has ‘barbarous’ designs on her and declares, 'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen, 1 must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.  
+<br><br>
+Shadwell's portrayal of Dorcas
+
+Worthy and Rovewell plot to set Mizen up with the prostitute Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans. (p20) They agree to meet at Daniel’s in an hour 'where we’ll take a sneaker of Amy’s Punch'. 
+
+In the next scene, Dorcas and her sister Arabella are discussing Worthy. Arabella says “Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.” (p21)
+Dorcas accuses her sister of being “of the Church belonging to the Wicked”. Arabella threatens to flirt with Worthy when he arrives to annoy her sister. 
+When he arrives Arabella accuses Worthy of planning to use her sister; “Ay, wheedle her out of what she has; get her Money, then use her like a Wife, turn her out of Doors and compound her for a Maintenance.” She tries to convince him to marry her instead, but he will not be swayed and agrees to marry Dorcas the next day in church. 
+The coxswain and a sailor are discussing having a prostitute for the night at Flip’s charge (expense). The coxswain says:
+Ay, and so be clap'd : If he would force the Surgeon to cure us at the Government's Charge, it would be a mighty Encouragement to us; but our Rogue of a Loblolly Dodor, being not satisfied with his Twopences, must have a Note for two Months Pay for every Cure; and the last time the Ship was paid, between the Officers, and the Sailors, he swept above half the Ship's Company's Money into his own Hat.
+
+Act 2
+A bar at Daniel’s. Discussing the debauched sailors.
+Mizen says that “Well, you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.” (p.30)
+
+P31-2 a sneaker of Punch in the Crown. A box of Dice for the Mermaid. Make the great bowl full for the gentlemen in the Fleecer.
+P32 The Virginia Fleet’s come in.
+
+Who is James Nailor (p.34)
+A 1689 pamphlet entitled the The Quakers art of courtship, or, The Yea-and-nay academy of complements mentions the Naylorian Faith. Also mentions Bull-and-Mouth Faith
+
+We took in divers Passengers as we passed down the Channel, some of which I shall name unto thee, because they may be of great use un¬to us in this place; there was (let me see) Humh—Thomas Giddybrains, Arthur Holderforth, Geofery Crackwit, Marmaduke Featherpate, and Humphrey Shakenoddle; besides some She-Friends that freely offered themselves with much chearfulness to accom¬pany the Brethren into any Region whatso¬ever, for the sake of Propagating the Bull-and-Mouth Strain (p48-9 “A Letter from a Friend in Noddy Land”
 
 
 
