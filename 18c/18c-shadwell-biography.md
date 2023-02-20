@@ -6,7 +6,8 @@ banner="/images/banners/18c.jpg">
 <param ve-map center="Q1011096" zoom="10">
 
 'To my GENEROUS and OBLIGING FRIENDS OF THE County of KENT.   
-GENTLEMEN, This Play was both design'd and finish'd in Your County, and therefore comes for Protection to the Place of its Nativity. It drags not a sluggish and unwilling Pace, as timorous of its Reception, and the hardiness of its fate; but pants for its native air, where it was brought forth with pleasure, and flies to the good treatment of your experience’d hospitality' - Introduction to _The Fair Quaker of Deal: or, the Humours of the Navy, 1710._[^ref1]
+GENTLEMEN, This Play was both design'd and finish'd in Your County, and therefore comes for Protection to the Place of its Nativity. It drags not a sluggish and unwilling Pace, as timorous of its Reception, and the hardiness of its fate; but pants for its native air, where it was brought forth with pleasure, and flies to the good treatment of your experience’d hospitality'    
+Introduction to _The Fair Quaker of Deal: or, the Humours of the Navy, 1710._[^ref1]
 <br><br>
 Little is known about Charles Shadwell’s birth or childhood, but it is most likely that he was born in London. He was the son of Thomas Shadwell (c.1640–1692), playwright, poet laureate and historiographer and the celebrated Restoration actor Anne Gibbs.  Thomas and Anne married sometime between 1663 and 1664 and had at least 4 children between 1671 and 1686 so Charles’s birth dates from this period.  
 
@@ -59,6 +60,7 @@ Worthy interjects: 'Indeed the House is very notorious; why don't you frequent t
 Flip replies: 'Because all the Fops and Beardless Boys of the Navy go there; besides, I think the husband too blind, and his wife has too much sight. But Tom Cragg and I were boatswain's mates together. As to it being a bawdy-house, that is no offence to me; for all houses in sea-ports have been reckoned so, ever since I pick'd oakum'.
 <br><br>
 It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. Later in the play, the Crown, the Fleecer and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid where gaming was available was on Middle Street.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/John_Moody_as_Commodore_Flip_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_ac3bc284097f028aec35d5181226d034.jpg" label="John Moody as Commodore Flip in The Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
 
 After Shadwell's bleak introduction to Deal, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side to life in the town. However, Shadwell's representation of Quakers may not be as disengenous as it appears. Arabella says “Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.” (p21)
 Dorcas accuses her sister of being “of the Church belonging to the Wicked”. Arabella threatens to flirt with Worthy when he arrives to annoy her sister. 
@@ -66,6 +68,7 @@ Dorcas accuses her sister of being “of the Church belonging to the Wicked”. 
 She invites Captain Worthy to visit her at the North End of town to renew his Vows of Sincerity, but Mizen has ‘barbarous’ designs on her and declares, 'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen, 1 must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.  
 <br><br>
 Shadwell's portrayal of Dorcas
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Jane_Pope_as_Dorcas_Zeal_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_696937be8e3e8366b5247f8a2bdb7ceb.jpg" label="Jane Pope as Docas Zeal in the Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
 
 Worthy and Rovewell plot to set Mizen up with the prostitute Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans. (p20) They agree to meet at Daniel’s in an hour 'where we’ll take a sneaker of Amy’s Punch'. 
 
