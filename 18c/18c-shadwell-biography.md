@@ -18,18 +18,24 @@ Thomas was appointed poet laureate and historiographer at the Glorious Revolutio
 
 The Earl of Dorset’s receipts reveal that the Earl spent a lot of money on rich food such as oysters and wine, which no doubt Thomas was able to enjoy under his patronage.[^ref6] In May 1692 Thomas complained of 'a very painful fitt of the Gout'[^ref7] which had been brought on by this rich living. Thomas began to take opium to ease the pain and died in November of that year after taking an overdose of opium, to which he had become addicted.[^ref8]
 <br><br>
-Charles’s mother Anne, who had performed in at least two of Thomas’s plays as well as two by the female playwright, [Aphra Behn](/18c/17c-behn-biography), now had to support the family. She published Thomas’s last play _The Volunteers_ with a dedication to Queen Ann in 1693 in which she wrote: 'The little wit of our poor family as well as the best part of the subsistence perished with my husband; so that we have not where withall, worthily to express our great Acknowledgement due for the Support and Favour, we have already received.' Not much is known about Ann after 1705, although she retained an interest in the rents for the Dorset Garden Theatre.
+Charles’s mother Anne, who had performed in at least two of Thomas’s plays as well as two by the female playwright, [Aphra Behn](/18c/17c-behn-biography), now had to support the family. She published Thomas’s last play _The Volunteers_ with a dedication to Queen Ann in 1693 in which she wrote: 'The little wit of our poor family as well as the best part of the subsistence perished with my husband; so that we have not where withall, worthily to express our great Acknowledgement due for the Support and Favour, we have already received.'[^ref9] Not much is known about Ann after 1705, although she retained an interest in the rents for the Dorset Garden Theatre.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Charles_Sackville%2C_6th_Earl_of_Dorset_by_Sir_Godfrey_Kneller%2C_Bt_%282%29.jpg" label="Charles Sackville, 6th Earl of Dorset" attribution="Godfrey Kneller, Public domain, via Wikimedia Commons">
 
 It is uncertain where Charles received his education but Charles’s father was educated at Caius College, Cambridge and his brother John was educated at University College and All Souls’ college, Oxford. Charles entered the army and served under Major-General Newton, Governor of Londonderry during the War of the Spanish Succession (1701-15). Newton was in charge of the foot guards at Rota, near Cadiz in 1702 with 300 men in garrison, a hospital and 'several pieces of cannon'. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/09/Battle_of_Vigo_Bay_1702.webp" lable="The Battle of Vigo Bay, 1702" attribution="Ludolf Bakhuizen, Public domain, via Wikimedia Commons">
 
-In 1710, Charles is recorded as the supervisor of the excise in Kent and it was at during this time that he wrote his first play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent. He jokes in the dedication that 'to incorporate You, by name into one Body, would require a College of Heralds to order the precedence' suggesting that he had more than one influential supporter. Lionel Cranfield Sackville (1688-1765), the son of Charles Sackville, who had been his father’s patron, was the Governor of Dover Castle and Lord Warden of the Cinq Ports from 1708-12, at the same time that Charles Shadwell was supervisor of the excise for Kent, and it was possibly his family connections which enabled him to obtain this position. French and Spanish prisoners from the War of the Spanish Succession were also imprisoned at the castle during this period so it is possible that Charles could have been stationed here with his regiment earlier than 1710 (A Charles Shadwell marries Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period.)
+By 1710, Charles had become the supervisor of the excise in Kent. It is not certain how long he was in the county but it was during this time that he wrote his first play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent. A Charles Shadwell married Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period.
 
-'The Fair Quaker of Deal' was performed at at Drury Lane Theatre in 1710. In Act 1 scene 1, Captain Worthy and his crew land at Deal. Worthy cries:
+He jokes in the dedication that 'to incorporate You, by name into one Body, would require a College of Heralds to order the precedence' suggesting that he had more than one influential supporter. 
+
+Lionel Cranfield Sackville (1688-1765), the son of Charles Sackville, who had been his father’s patron, was the Governor of Dover Castle and Lord Warden of the Cinq Ports from 1708-12, at the same time that Charles Shadwell was supervisor of the excise for Kent, and it was possibly his family connections which enabled him to obtain this position. French and Spanish prisoners from the War of the Spanish Succession were also imprisoned at the castle during this period so it is possible that Charles could have been stationed here with his regiment earlier than 1710 ()
+
+'The Fair Quaker of Deal' was performed at at Drury Lane Theatre, London in 1710. In Act 1 scene 1, Captain Worthy and his crew land at Deal. Worthy cries:
 <br><br>
 'Thank Heaven, I have at last reach'd my native Land. Cockswain, take; care the Water be sent on Board with Expedition, and bid the Purser hasten to Dover for fresh Provisions, and let the sick men be set on Shore for the next trip.'
 <br><br>
-The victualling yard for the Royal Navy was at the Maison Dieu in Dover, which had a “Small cooperage, bakehouse and slaughterhouse, but no brewhouse” , beer being obtained from a Deal brewery. The agent victualler was Thomas Coleby but due to a high level of pilfering at this period, a Clerk of the Cheque, Lancelot Whitehall, was also appointed to oversee provisions.  
+The victualling yard for the Royal Navy was at the Maison Dieu in Dover, which had a “small cooperage, bakehouse and slaughterhouse, but no brewhouse” , beer being obtained from a Deal brewery. The agent victualler was Thomas Coleby but due to a high level of pilfering at this period, a Clerk of the Cheque, Lancelot Whitehall, was also appointed to oversee provisions. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Anonymous_-_The_Maison_Dieu%2C_Dover_-_B1977.14.1673_-_Yale_Center_for_British_Art.jpg" label="The Maison Dieu, Dover c. 1826-66" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
 
 On landing, Worthy sees his friend Rovewell, a gentlemen of fortune and asks 'But how does all our Deal Angels?' to which Rovewell replies:
 <br><br>
@@ -62,18 +68,25 @@ Flip replies: 'Because all the Fops and Beardless Boys of the Navy go there; bes
 It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. Later in the play, the Crown, the Fleecer and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid which offered gaming was available was on Middle Street.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/John_Moody_as_Commodore_Flip_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_ac3bc284097f028aec35d5181226d034.jpg" label="John Moody as Commodore Flip in The Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
 
-After Shadwell's bleak introduction to Deal, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side to life in the town. However, Shadwell's representation of Quakers may not be as disengenous as it appears. Arabella says “Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.” (p21)
-Dorcas accuses her sister of being “of the Church belonging to the Wicked”. Arabella threatens to flirt with Worthy when he arrives to annoy her sister. 
-
-She invites Captain Worthy to visit her at the North End of town to renew his Vows of Sincerity, but Mizen has ‘barbarous’ designs on her and declares, 'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen, 1 must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.  
+After Shadwell's bleak introduction to the virtues of Deal women, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side to life in the town. She invites Captain Worthy to visit her at the North End of town to renew his Vows of Sincerity. However, not everyone is supportive of Quakers as Shadwell makes clear. Dorcas's sister Arabella says:
 <br><br>
-Shadwell's portrayal of Dorcas
+'Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.' (p21)
+<br><br>
+Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and Arabella threatens to flirt with Worthy when he arrives to annoy her sister. 
+
+Who is James Nailor (p.34)
+A 1689 pamphlet entitled the _The Quakers art of courtship, or, The Yea-and-nay academy of complements_ mentions the Naylorian Faith. Also mentions Bull-and-Mouth Faith
+
+We took in divers Passengers as we passed down the Channel, some of which I shall name unto thee, because they may be of great use unto us in this place; there was (let me see) Humh—Thomas Giddybrains, Arthur Holderforth, Geofery Crackwit, Marmaduke Featherpate, and Humphrey Shakenoddle; besides some She-Friends that freely offered themselves with much chearfulness to accom¬pany the Brethren into any Region whatso¬ever, for the sake of Propagating the Bull-and-Mouth Strain (p48-9 “A Letter from a Friend in Noddy Land”
+
+Mizen also has ‘barbarous’ designs on Dorcas and declares, 'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen,I1 must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.  
+<br><br>
+Worthy and Rovewell plot to set Mizen up with the prostitute Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans. (p20) They agree to meet at Daniel’s in an hour 'where we’ll take a sneaker of Amy’s Punch'. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Jane_Pope_as_Dorcas_Zeal_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_696937be8e3e8366b5247f8a2bdb7ceb.jpg" label="Jane Pope as Docas Zeal in the Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
 
-Worthy and Rovewell plot to set Mizen up with the prostitute Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans. (p20) They agree to meet at Daniel’s in an hour 'where we’ll take a sneaker of Amy’s Punch'. 
 
-In the next scene, Dorcas and her sister Arabella are discussing Worthy. 
-When he arrives Arabella accuses Worthy of planning to use her sister; “Ay, wheedle her out of what she has; get her Money, then use her like a Wife, turn her out of Doors and compound her for a Maintenance.” She tries to convince him to marry her instead, but he will not be swayed and agrees to marry Dorcas the next day in church. 
+
+In the next scene, Arabella accuses Worthy of planning to use her sister; “Ay, wheedle her out of what she has; get her Money, then use her like a Wife, turn her out of Doors and compound her for a Maintenance.” She tries to convince him to marry her instead, but he will not be swayed and agrees to marry Dorcas the next day in church. 
 The coxswain and a sailor are discussing having a prostitute for the night at Flip’s charge (expense). The coxswain says:
 Ay, and so be clap'd : If he would force the Surgeon to cure us at the Government's Charge, it would be a mighty Encouragement to us; but our Rogue of a Loblolly Dodor, being not satisfied with his Twopences, must have a Note for two Months Pay for every Cure; and the last time the Ship was paid, between the Officers, and the Sailors, he swept above half the Ship's Company's Money into his own Hat.
 
@@ -84,10 +97,7 @@ Mizen says that “Well, you shall see in a few Months, how the Navy will be ref
 P31-2 a sneaker of Punch in the Crown. A box of Dice for the Mermaid. Make the great bowl full for the gentlemen in the Fleecer.
 P32 The Virginia Fleet’s come in.
 
-Who is James Nailor (p.34)
-A 1689 pamphlet entitled the The Quakers art of courtship, or, The Yea-and-nay academy of complements mentions the Naylorian Faith. Also mentions Bull-and-Mouth Faith
 
-We took in divers Passengers as we passed down the Channel, some of which I shall name unto thee, because they may be of great use un¬to us in this place; there was (let me see) Humh—Thomas Giddybrains, Arthur Holderforth, Geofery Crackwit, Marmaduke Featherpate, and Humphrey Shakenoddle; besides some She-Friends that freely offered themselves with much chearfulness to accom¬pany the Brethren into any Region whatso¬ever, for the sake of Propagating the Bull-and-Mouth Strain (p48-9 “A Letter from a Friend in Noddy Land”
 
 ### References
 
