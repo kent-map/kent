@@ -59,7 +59,7 @@ Worthy interjects: 'Indeed the House is very notorious; why don't you frequent t
 <br><br>
 Flip replies: 'Because all the Fops and Beardless Boys of the Navy go there; besides, I think the husband too blind, and his wife has too much sight. But Tom Cragg and I were boatswain's mates together. As to it being a bawdy-house, that is no offence to me; for all houses in sea-ports have been reckoned so, ever since I pick'd oakum'.
 <br><br>
-It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. Later in the play, the Crown, the Fleecer and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid where gaming was available was on Middle Street.
+It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. Later in the play, the Crown, the Fleecer and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid which offered gaming was available was on Middle Street.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/John_Moody_as_Commodore_Flip_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_ac3bc284097f028aec35d5181226d034.jpg" label="John Moody as Commodore Flip in The Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
 
 After Shadwell's bleak introduction to Deal, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side to life in the town. However, Shadwell's representation of Quakers may not be as disengenous as it appears. Arabella says “Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.” (p21)
@@ -97,4 +97,7 @@ We took in divers Passengers as we passed down the Channel, some of which I shal
 [^ref4]:
 [^ref5]:
 [^ref6]:
+[^ref7]:
+[^ref8]:
+[^ref9]:
 
