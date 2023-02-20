@@ -64,16 +64,16 @@ After Shadwell's comedic yet bleak introduction to Deal and its vices, the Fair 
 <br><br>
 'Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.' (p21)
 <br><br>
-Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and Arabella threatens to flirt with Worthy to annoy her sister. Another character, Jennie Private, impersonates Dorcas, saying: 'Well, if I do not act the Babe of Grace, the formal Quaking Saint, with as much outside Sanctity, as a new enter'd Nun, or an old Mother Abbess, I'll be content to truss up like James Nailor'. Jennie is referring to the occasion when Quaker James Nayler rode into Bristol in 1656 being hailed as Christ by a following of semi-clad women.
-
-Shadwell's depiction of Dorcas is one of inconsistency as she later throws off her Quaker beliefs to dance.
+Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and Arabella threatens to flirt with Worthy to annoy her sister. Another character, Jennie Private, impersonates Dorcas, saying: 'Well, if I do not act the Babe of Grace, the formal Quaking Saint, with as much outside Sanctity, as a new enter'd Nun, or an old Mother Abbess, I'll be content to truss up like James Nailor'. [p34] Jennie is referring to the occasion when Quaker James Nayler rode into Bristol in 1656 being hailed as Christ by a following of semi-clad women.
 
 Deal in the late 17th century was a town of around 3000 inhabitants with about 500 communicants at the parish church of St Leonard. (p41 history of Deal) It had a Quaker community from at least the 1650s.[^ref p118 The History of Deal] 
 
-Who is James Nailor (p.34)
+Shadwell's depiction of Dorcas is one of inconsistency as she later throws off her Quaker beliefs to dance.
+
+
 A 1689 pamphlet entitled the _The Quakers art of courtship, or, The Yea-and-nay academy of complements_ mentions the Naylorian Faith. Also mentions Bull-and-Mouth Faith
 
-We took in divers Passengers as we passed down the Channel, some of which I shall name unto thee, because they may be of great use unto us in this place; there was (let me see) Humh—Thomas Giddybrains, Arthur Holderforth, Geofery Crackwit, Marmaduke Featherpate, and Humphrey Shakenoddle; besides some She-Friends that freely offered themselves with much chearfulness to accom¬pany the Brethren into any Region whatso¬ever, for the sake of Propagating the Bull-and-Mouth Strain (p48-9 “A Letter from a Friend in Noddy Land”
+We took in divers Passengers as we passed down the Channel, some of which I shall name unto thee, because they may be of great use unto us in this place; there was (let me see) Humh—Thomas Giddybrains, Arthur Holderforth, Geofery Crackwit, Marmaduke Featherpate, and Humphrey Shakenoddle; besides some She-Friends that freely offered themselves with much chearfulness to accompany the Brethren into any Region whatsoever, for the sake of Propagating the Bull-and-Mouth Strain (p48-9 “A Letter from a Friend in Noddy Land”
 
 Mizen also has ‘barbarous’ designs on Dorcas and declares, 'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen,I1 must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.  
 <br><br>
