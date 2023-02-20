@@ -86,5 +86,12 @@ A 1689 pamphlet entitled the The Quakers art of courtship, or, The Yea-and-nay a
 
 We took in divers Passengers as we passed down the Channel, some of which I shall name unto thee, because they may be of great use un¬to us in this place; there was (let me see) Humh—Thomas Giddybrains, Arthur Holderforth, Geofery Crackwit, Marmaduke Featherpate, and Humphrey Shakenoddle; besides some She-Friends that freely offered themselves with much chearfulness to accom¬pany the Brethren into any Region whatso¬ever, for the sake of Propagating the Bull-and-Mouth Strain (p48-9 “A Letter from a Friend in Noddy Land”
 
+### References
 
+[^ref1]:
+[^ref2]:
+[^ref3]:
+[^ref4]:
+[^ref5]:
+[^ref6]:
 
