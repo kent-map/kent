@@ -34,7 +34,7 @@ On landing, Worthy sees his friend Rovewell, a gentlemen of fortune and asks 'Bu
 <br><br>
 'Why the few virtuous Women are as proud and as insolent as they us'd to be, and the Whores you left here about ten Months since, are dead with Rottenesss, and young Strums supply their Rooms. This is a monstrous Place for Wickedness! Fornication flourishes more here than in any Sea Port of Europe'. (p12)
 <br><br>
-Shadwell’s description of Deal as seen through the eyes of his character Rovewell, echoes the impressions formed by Samuel Pepys who described it as ‘pitiful’ in 1660. In 1703, mayor of Deal, Thomas Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.' Despite the best efforts of the townsmen of Deal to "suppress many disorders",[ref p145] the town continued to have a reputation, and Daniel Defoe described it as 'that fatal town' in 1704.
+Shadwell’s description of Deal as seen through the eyes of his character Rovewell, echoes the impressions formed by Samuel Pepys who described it as ‘pitiful’ in 1660. In 1703, mayor of Deal, Thomas Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.' Despite the best efforts of the townsmen of Deal to 'suppress many disorders',[ref p145] the town continued to have a reputation, and Daniel Defoe described it as 'that fatal town': 'the barbarous shores with men and boats abound - The men more barbarous than the shores are found' (_The Storm_, 1704).
 [History of Deal John Laker 1917] 
 
 As the action continues, Flip, a commodore, who dislikes the new breed of foppish gentleman captains, bemoans their lack of commitment arguing that:
@@ -57,14 +57,15 @@ Worthy interjects: 'Indeed the House is very notorious; why don't you frequent t
 <br><br>
 Flip replies: 'Because all the Fops and Beardless Boys of the Navy go there; besides, I think the husband too blind, and his wife has too much sight. But Tom Cragg and I were boatswain's mates together. As to it being a bawdy-house, that is no offence to me; for all houses in sea-ports have been reckoned so, ever since I pick'd oakum'.
 <br><br>
-It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. Later in the play, the Crown, the Fleecer and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid which offered gaming was available was on Middle Street. Mayor Thomas Powell was keen to crack down on vice in the town, and banned the selling of alcohol on the Lord's Day in 1703, including the sale of alcohol from Bum boats, which plied their trade between the ships and the shore.
+It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. Later in the play, the Crown, the Fleecer and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid which offered gaming was available was on Middle Street. Mayor Thomas Powell was keen to crack down on vice in the town, and banned the selling of alcohol on the Lord's Day in 1703, including the sale of alcohol from Bum boats, which plied their trade between the ships and the shore. He also pasted Queen Anne's proclamation for suppressing vice and immorality on the doors of the public houses.[p162]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/John_Moody_as_Commodore_Flip_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_ac3bc284097f028aec35d5181226d034.jpg" label="John Moody as Commodore Flip in The Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
 
 After Shadwell's comedic yet bleak introduction to Deal and its vices, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side to life in the town. She invites Captain Worthy to visit her at the North End of town to renew his Vows of Sincerity. However, not everyone is supportive of Quakers as Shadwell makes clear. Dorcas's sister Arabella says:
 <br><br>
 'Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.' (p21)
 <br><br>
-Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and Arabella threatens to flirt with Worthy to annoy her sister. Shadwell satirizes Quakers
+Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and Arabella threatens to flirt with Worthy to annoy her sister. Another character, Jennie Private, impersonates Dorcas, saying: 'Well, if I do not act the Babe of Grace, the formal Quaking Saint, with as much outside Sanctity, as a new enter'd Nun, or an old Mother Abbess, I'll be content to truss up like James Nailor'. Jennie is referring to the occasion when Quaker James Nayler rode into Bristol in 1656 being hailed as Christ by a following of semi-clad women.
+
 Shadwell's depiction of Dorcas is one of inconsistency as she later throws off her Quaker beliefs to dance.
 
 Deal in the late 17th century was a town of around 3000 inhabitants with about 500 communicants at the parish church of St Leonard. (p41 history of Deal) It had a Quaker community from at least the 1650s.[^ref p118 The History of Deal] 
@@ -108,4 +109,7 @@ P32 The Virginia Fleet’s come in.
 [^ref10]:
 [^ref11]:
 [^ref12]:
+
+
+Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward.
 
