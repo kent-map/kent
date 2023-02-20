@@ -53,7 +53,7 @@ Rovewell contradicts him saying:
 <br><br>
 'Yes, yes, you fought very gloriously, when you let the Dutch burn the fleet at Chatham'.
 <br><br>
-The Dutch had attacked English warships liying at anchor off Chatham and Gillingham on a [raid on the Medway](/17c/17c-sheppey-at-war), during the Second Anglo-Dutch War in June 1667.
+The Dutch had attacked English warships lying at anchor off Chatham and Gillingham during the [Raid on the Medway](/17c/17c-sheppey-at-war) in June 1667.
 Flip defends the navy, blaming 'the Treachery of some Rogues at Land' as the local people flew in fear.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Raid_on_the_Medway_by_Willem_Schellinks_Rijksmuseum_Amsterdam_SK-C-1737.jpg" label="The raid on the Medway" attribution="by Willem Schellinks, Rijksmuseum, CC0, via Wikimedia Commons">
 
@@ -110,4 +110,7 @@ P32 The Virginia Fleet’s come in.
 [^ref7]:
 [^ref8]:
 [^ref9]:
+[^ref10]:
+[^ref11]:
+[^ref12]:
 
