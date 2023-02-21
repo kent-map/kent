@@ -55,7 +55,7 @@ At the end of the first act, Mr Norris, the coxswain and a sailor are discussing
 <br><br>
 'Ay, and so be clap'd : If he would force the Surgeon to cure us at the Government's Charge, it would be a mighty Encouragement to us; but our Rogue of a Loblolly Doctor, being not satisfied with his Twopences, must have a Note for two Months Pay for every Cure; and the last time the Ship was paid, between the Officers, and the Sailors, he swept above half the Ship's Company's Money into his own Hat' (p25).
 <br><br>
-Mr Norris is discussing 
+Mr Norris is discussing the fine imposed on sailors by the Navy for treating venereal diseases.
 
 After Shadwell's comedic yet bleak introduction to Deal and its vices, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side to life in the town. Deal in the late 17th century was a town of around 3000 inhabitants with about 500 communicants at the parish church of St Leonard. (p41 history of Deal) It had a Quaker community from at least the 1650s.[^ref p118 The History of Deal] and in a 1689 pamphlet entitled 'A Letter from a Friend in Noddy Land', attitudes to Quakerism are revealed: 'We took in divers Passengers as we passed down the Channel, some of which I shall name unto thee, because they may be of great use unto us in this place; there was (let me see) Humh—Thomas Giddybrains, Arthur Holderforth, Geofery Crackwit, Marmaduke Featherpate, and Humphrey Shakenoddle; besides some She-Friends that freely offered themselves with much chearfulness to accompany the Brethren into any Region whatsoever, for the sake of Propagating the Bull-and-Mouth Strain (p48-9 “A Letter from a Friend in Noddy Land”. 
 <br><br>
@@ -74,7 +74,7 @@ Worthy and Rovewell plot to set Mizen up with the prostitute Jenny Private to 'm
 
 Shadwell's depiction of Dorcas is one of the first representations of a Quaker heroine, but it is one of inconsistency as Dorcas renounces her faith 'to make our marriage yoke more cheerful still, from this Bless’d hour I’ll join thy holy worship.' Worthy is pleased by her conversion but Mizen tells him not to be too proud of his achievements as 'Flip and I have there outdone you, you have only made a Sister Convert from one Faith to another, but we have converted a fair Brace of Infidels, a Work of Reformation far beyond you' (p72). It is possible that this refers not only to the prostitutes of Deal, but also to past conquests during the War of the Spanish Succession. Peacock (2005) suggests that Dorcas represents 'a national ideal of a dependable and immutable Protestant Great Britain' which is in contrast to the foppish Mizen who represents 'a minatory, incipient Catholicism'. 
 
-Shadwell's play certainly operates on many levels with religion and the state of the navy as two of its dominant themes. The foppish Mizen says “.. you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.” (p.30) Flip, a commodore, offers a contrasting view point and bemoans the lack of commitment of the foppish gentleman captains, arguing that:
+Shadwell's play certainly operates on many levels with religion and the reform of the navy as two of its dominant themes. The foppish Mizen says ;.. you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.' (p.30) Flip, a commodore, offers a contrasting view point, harking back to the past and bemoaning the lack of commitment of the foppish gentleman captains, arguing that:
 <br><br>
 “Oh! It was not so in the Dutch Wars, then we valu’d ourselves upon Wooden Legs, and Stumps of Arms, and fought as if Heaven and Earth was coming together”. 
 <br><br>
@@ -87,12 +87,6 @@ Flip defends the navy, blaming 'the Treachery of some Rogues at Land' as the loc
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Raid_on_the_Medway_by_Willem_Schellinks_Rijksmuseum_Amsterdam_SK-C-1737.jpg" label="The raid on the Medway" attribution="by Willem Schellinks, Rijksmuseum, CC0, via Wikimedia Commons">
 
 
-
-Act 2
-A bar at Daniel’s. Discussing the debauched sailors.
-Mizen says that “Well, you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.” (p.30)
-
-P31-2 a sneaker of Punch in the Crown. A box of Dice for the Mermaid. Make the great bowl full for the gentlemen in the Fleecer.
 P32 The Virginia Fleet’s come in.
 
 
