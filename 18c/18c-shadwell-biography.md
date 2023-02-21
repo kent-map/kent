@@ -38,18 +38,6 @@ On landing, Worthy sees his friend Rovewell, a gentlemen of fortune and asks 'Bu
 Shadwell’s description of Deal as seen through the eyes of his character Rovewell, echoes the impressions formed by Samuel Pepys who described it as ‘pitiful’ in 1660. In 1703, mayor of Deal, Thomas Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.' Despite the best efforts of the townsmen of Deal to 'suppress many disorders',[ref p145] the town continued to have a reputation, and Daniel Defoe described it as 'that fatal town': 'the barbarous shores with men and boats abound - The men more barbarous than the shores are found' (_The Storm_, 1704).
 [History of Deal John Laker 1917] 
 
-As the action continues, Flip, a commodore, who dislikes the new breed of foppish gentleman captains, bemoans their lack of commitment arguing that:
-<br><br>
-“Oh! It was not so in the Dutch Wars, then we valu’d ourselves upon Wooden Legs, and Stumps of Arms, and fought as if Heaven and Earth was coming together”. 
-<br><br>
-Rovewell contradicts him saying:
-<br><br>
-'Yes, yes, you fought very gloriously, when you let the Dutch burn the fleet at Chatham'.
-<br><br>
-The Dutch had attacked English warships lying at anchor off Chatham and Gillingham during the [Raid on the Medway](/17c/17c-sheppey-at-war) in June 1667.
-Flip defends the navy, blaming 'the Treachery of some Rogues at Land' as the local people flew in fear.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Raid_on_the_Medway_by_Willem_Schellinks_Rijksmuseum_Amsterdam_SK-C-1737.jpg" label="The raid on the Medway" attribution="by Willem Schellinks, Rijksmuseum, CC0, via Wikimedia Commons">
-
 The dissolute behaviour of Deal women and the visiting sailors continues to be a theme throughout the play and Shadwell refers to several pubs which are known to have existed at this time. Flip lodges at the Three Mariners, which Mizen, one of the foppish gentlemen captains, assumes to be a house of ill-repute:
 <br><br>
 “May my ship’s anchor come home if it be not an arrant Baudy-House! The Husband keeps a Bom-boat, the Wife a Brandy-shop, and the two Daughters are let out to all Comers and Goers.”
@@ -69,7 +57,17 @@ Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and A
 
 Shadwell's depiction of Dorcas is one of the first representations of a Quaker heroine, but it is one of inconsistency as Dorcas renounces her faith 'to make our marriage yoke more cheerful still, from this Bless’d hour I’ll join thy holy worship.' Worthy is pleased by her conversion but Mizen tells him not to be too proud of his achievements as 'Flip and I have there outdone you, you have only made a Sister Convert from one Faith to another, but we have converted a fair Brace of Infidels, a Work of Reformation far beyond you' (p72). It is possible that this refers not only to the prostitutes of Deal, but also to past conquests during the War of the Spanish Succession. Peacock (2005) suggests that Dorcas represents 'a national ideal of a dependable and immutable Protestant Great Britain' which is in contrast to the foppish Mizen who represents "a minatory, incipient Catholicism'. 
 
-Shadwell's play certainly operates on many levels with religion and the state of the navy as two of its dominant themes. Mizen says that “Well, you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.” (p.30)
+Shadwell's play certainly operates on many levels with religion and the state of the navy as two of its dominant themes. The foppish Mizen says “.. you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.” (p.30) Flip, a commodore, offers a contrasting view point andbemoans the lack of commitment of the foppish gentleman captains, arguing that:
+<br><br>
+“Oh! It was not so in the Dutch Wars, then we valu’d ourselves upon Wooden Legs, and Stumps of Arms, and fought as if Heaven and Earth was coming together”. 
+<br><br>
+Rovewell contradicts him saying:
+<br><br>
+'Yes, yes, you fought very gloriously, when you let the Dutch burn the fleet at Chatham'.
+<br><br>
+The Dutch had attacked English warships lying at anchor off Chatham and Gillingham during the [Raid on the Medway](/17c/17c-sheppey-at-war) in June 1667.
+Flip defends the navy, blaming 'the Treachery of some Rogues at Land' as the local people flew in fear.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Raid_on_the_Medway_by_Willem_Schellinks_Rijksmuseum_Amsterdam_SK-C-1737.jpg" label="The raid on the Medway" attribution="by Willem Schellinks, Rijksmuseum, CC0, via Wikimedia Commons">
 
 
 A 1689 pamphlet entitled the _The Quakers art of courtship, or, The Yea-and-nay academy of complements_ mentions the Naylorian Faith. Also mentions Bull-and-Mouth Faith
