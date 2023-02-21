@@ -22,11 +22,13 @@ It is uncertain where Charles received his education but Charles’s father was 
 
 By 1710, Charles had become the supervisor of the excise in Kent. It is not certain how long he was in the county but a Charles Shadwell married Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period. As French and Spanish prisoners from the War of the Spanish Succession were imprisoned at Dover castle, it is possible that Charles could have been stationed here with his regiment.  It was during this time that he wrote his first play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent.  He jokes in the dedication that 'to incorporate You, by name into one Body, would require a College of Heralds to order the precedence' suggesting that he had more than one influential supporter. Lionel Cranfield Sackville (1688-1765), the son of his father’s patron, was the Governor of Dover Castle and Lord Warden of the Cinq Ports from 1708-12, and it was possibly his family connections which enabled Thomas to obtain his position in the excise. 
 
-'The Fair Quaker of Deal' was performed at at Drury Lane Theatre, London in 1710. In Act 1 scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad. The Downs was the water between Deal and the Goodwins Sands which provided a natural anchorage for ships waiting for a good wind. There were sometimes 300- 400 ships lying at anchor and it was from here that [Sir Cloudsley Shovell](/17c/17c-shovell-biography) had sailed with a squadron in 1694 to bombard Dunkirk. Worthy cries:
+'The Fair Quaker of Deal' was performed at at Drury Lane Theatre, London in 1710. In Act 1 scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad. The Downs was the water between Deal and the [Goodwins Sands](/dickens/david-copperfield-goodwin-sands/) which provided a natural anchorage for ships waiting for a good wind. There were sometimes 300- 400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell](/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. 
+<br><br>
+Worthy cries:
 <br><br>
 'Thank Heaven, I have at last reach'd my native Land. Cockswain, take care the Water be sent on Board with Expedition, and bid the Purser hasten to Dover for fresh Provisions, and let the sick men be set on Shore for the next trip.'
 <br><br>
-'Wholesome water' would have been obtained from North Wall.[^ref p139-140 History of Deal] Fresh provisions from the victualling yard for the Royal Navy at the Maison Dieu in Dover, which had a “small cooperage, bakehouse and slaughterhouse, but no brewhouse”, beer being obtained from a Deal brewery. The agent victualler was Thomas Coleby but due to a high level of pilfering at this period, a Clerk of the Cheque, Lancelot Whitehall, was also appointed to oversee provisions.
+'Wholesome water' would have been obtained from North Wall.[^ref p139-140 History of Deal] Fresh provisions from the victualling yard for the Royal Navy at the Maison Dieu in Dover, which had a 'small cooperage, bakehouse and slaughterhouse, but no brewhouse', beer being obtained from a Deal brewery. The agent victualler was Thomas Coleby but due to a high level of pilfering at this period, a Clerk of the Cheque, Lancelot Whitehall, was also appointed to oversee provisions.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Anonymous_-_The_Maison_Dieu%2C_Dover_-_B1977.14.1673_-_Yale_Center_for_British_Art.jpg" label="The Maison Dieu, Dover c. 1826-66" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
 
 On landing, Worthy sees his friend Rovewell, a gentlemen of fortune and asks 'But how does all our Deal Angels?' to which Rovewell replies:
@@ -48,7 +50,7 @@ The Dutch had attacked English warships lying at anchor off Chatham and Gillingh
 Flip defends the navy, blaming 'the Treachery of some Rogues at Land' as the local people flew in fear.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Raid_on_the_Medway_by_Willem_Schellinks_Rijksmuseum_Amsterdam_SK-C-1737.jpg" label="The raid on the Medway" attribution="by Willem Schellinks, Rijksmuseum, CC0, via Wikimedia Commons">
 
-Several Deal pubs are mentioned in the play. Flip lodges at the Three Mariners, which Mizen, one of the foppish gentlemen captains, assumes to be a house of ill-repute:
+The dissolute behaviour of Deal women and the visiting sailors continues to be a theme throughout the play and Shadwell refers to several pubs which are known to have existed at this time. Flip lodges at the Three Mariners, which Mizen, one of the foppish gentlemen captains, assumes to be a house of ill-repute:
 <br><br>
 “May my ship’s anchor come home if it be not an arrant Baudy-House! The Husband keeps a Bom-boat, the Wife a Brandy-shop, and the two Daughters are let out to all Comers and Goers.”
 <br><br>
@@ -65,7 +67,9 @@ After Shadwell's comedic yet bleak introduction to Deal and its vices, the Fair 
 <br><br>
 Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and Arabella threatens to flirt with Worthy to annoy her sister. Another character, Jennie Private, impersonates Dorcas, saying: 'Well, if I do not act the Babe of Grace, the formal Quaking Saint, with as much outside Sanctity, as a new enter'd Nun, or an old Mother Abbess, I'll be content to truss up like James Nailor'. [p34] Jennie is referring to the occasion when Quaker James Nayler rode into Bristol in 1656 being hailed as Christ by a following of semi-clad women.
 
-Shadwell's depiction of Dorcas is one of inconsistency as she renounces her faith 'to make our marriage yoke more cheerful still, from this Bless’d hour I’ll join thy holy worship.' Worthy is pleased by her conversion but Mizen tells him not to be too proud of his achievements as 'Flip and I have there outdone you, you have only made a Sister Convert from one Faith to another, but we have converted a fair Brace of Infidels, a Work of Reformation far beyond you' (p72). It is possible that this refers not only to the prostitutes of Deal, but also to past conquests during the War of the Spanish Succession. Peacock (2005) suggests that Dorcas represents 'a national ideal of a dependable and immutable Protestant Great Britain' which is in contrast to the foppish Mizen who represents "a minatory, incipient Catholicism'. She is considered one of the first representations of a Quaker heroine.
+Shadwell's depiction of Dorcas is one of the first representations of a Quaker heroine, but it is one of inconsistency as Dorcas renounces her faith 'to make our marriage yoke more cheerful still, from this Bless’d hour I’ll join thy holy worship.' Worthy is pleased by her conversion but Mizen tells him not to be too proud of his achievements as 'Flip and I have there outdone you, you have only made a Sister Convert from one Faith to another, but we have converted a fair Brace of Infidels, a Work of Reformation far beyond you' (p72). It is possible that this refers not only to the prostitutes of Deal, but also to past conquests during the War of the Spanish Succession. Peacock (2005) suggests that Dorcas represents 'a national ideal of a dependable and immutable Protestant Great Britain' which is in contrast to the foppish Mizen who represents "a minatory, incipient Catholicism'. 
+
+Shadwell's play certainly operates on many levels with religion and the state of the navy as two of its dominant themes. Mizen says that “Well, you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.” (p.30)
 
 
 A 1689 pamphlet entitled the _The Quakers art of courtship, or, The Yea-and-nay academy of complements_ mentions the Naylorian Faith. Also mentions Bull-and-Mouth Faith
@@ -74,9 +78,8 @@ We took in divers Passengers as we passed down the Channel, some of which I shal
 
 Mizen also has ‘barbarous’ designs on Dorcas and declares, 'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen,I1 must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.  
 <br><br>
-Worthy and Rovewell plot to set Mizen up with the prostitute Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans. (p20) They agree to meet at Daniel’s in an hour 'where we’ll take a sneaker of Amy’s Punch'. 
+Worthy and Rovewell plot to set Mizen up with the prostitute Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans. (p20) They agree to meet at Daniel’s in an hour 'where we’ll take a sneaker of Amy’s Punch'. Daniel's is in fact the India Arms. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Jane_Pope_as_Dorcas_Zeal_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_696937be8e3e8366b5247f8a2bdb7ceb.jpg" label="Jane Pope as Docas Zeal in the Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
-
 
 
 In the next scene, Arabella accuses Worthy of planning to use her sister; “Ay, wheedle her out of what she has; get her Money, then use her like a Wife, turn her out of Doors and compound her for a Maintenance.” She tries to convince him to marry her instead, but he will not be swayed and agrees to marry Dorcas the next day in church. 
@@ -89,7 +92,6 @@ Mizen says that “Well, you shall see in a few Months, how the Navy will be ref
 
 P31-2 a sneaker of Punch in the Crown. A box of Dice for the Mermaid. Make the great bowl full for the gentlemen in the Fleecer.
 P32 The Virginia Fleet’s come in.
-
 
 
 ### References
