@@ -3,7 +3,7 @@
 banner="/images/banners/18c.jpg">
 
 <!-- Kent with map centered at Deal -->
-<param ve-map center="Q1011096" zoom="10">
+<param ve-map center="Q1011096" zoom="15">
 
 'To my GENEROUS and OBLIGING FRIENDS OF THE County of KENT.   
 GENTLEMEN, This Play was both design'd and finish'd in Your County, and therefore comes for Protection to the Place of its Nativity. It drags not a sluggish and unwilling Pace, as timorous of its Reception, and the hardiness of its fate; but pants for its native air, where it was brought forth with pleasure, and flies to the good treatment of your experience’d hospitality' - Introduction to _The Fair Quaker of Deal: or, the Humours of the Navy, 1710._[^ref1]
@@ -18,13 +18,13 @@ Charles’s mother Anne, who had performed in at least two of Thomas’s plays a
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Anonymous_-_The_Duke%27s_Theatre%2C_Dorset_Garden_-_B1977.14.18586_-_Yale_Center_for_British_Art.jpg" label="The Duke's Theatre in Dorset Gardens, 1813" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
 
 It is uncertain where Charles received his education but Charles’s father was educated at Caius College, Cambridge and his brother John was educated at University College and All Souls’ college, Oxford. Charles entered the army and served under Major-General Newton, Governor of Londonderry during the War of the Spanish Succession (1701-15). Newton was in charge of the foot guards at Rota, near Cadiz in 1702 with 300 men in garrison, a hospital and 'several pieces of cannon'. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/09/Battle_of_Vigo_Bay_1702.webp" lable="The Battle of Vigo Bay, 1702" attribution="Ludolf Bakhuizen, Public domain, via Wikimedia Commons">
-
+<br><br>
 By 1710, Charles had become the supervisor of the excise in Kent. It is not certain how long he was in the county but a Charles Shadwell married Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period. As French and Spanish prisoners from the War of the Spanish Succession were imprisoned at Dover castle, it is possible that Charles could have been stationed here with his regiment.  It was during this time that he wrote his first play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent.  He jokes in the dedication that 'to incorporate You, by name into one Body, would require a College of Heralds to order the precedence' suggesting that he had more than one influential supporter. Lionel Cranfield Sackville (1688-1765), the son of his father’s patron, was the Governor of Dover Castle and Lord Warden of the Cinq Ports from 1708-12, and it was possibly his family connections which enabled Thomas to obtain his position in the excise. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/09/Battle_of_Vigo_Bay_1702.webp" lable="The Battle of Vigo Bay, 1702" attribution="Ludolf Bakhuizen, Public domain, via Wikimedia Commons">
 
 'The Fair Quaker of Deal' was performed at at Drury Lane Theatre, London in 1710.
 <br><br>
-In Act 1 scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad. The Downs was the water between Deal and the [Goodwins Sands](/dickens/david-copperfield-goodwin-sands/) which provided a natural anchorage for ships waiting for a good wind. There were sometimes 300- 400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell](/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. 
+In Act 1 scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad as part of the Virginia Fleet, which was involved in the Atlantic slave trade. The Downs was the water between Deal and the [Goodwins Sands](/dickens/david-copperfield-goodwin-sands/) which provided a natural anchorage for ships waiting for a good wind. There were sometimes 300- 400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell](/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. 
 <br><br>
 Worthy cries:
 <br><br>
@@ -48,7 +48,9 @@ Worthy interjects: 'Indeed the House is very notorious; why don't you frequent t
 <br><br>
 Flip replies: 'Because all the Fops and Beardless Boys of the Navy go there; besides, I think the husband too blind, and his wife has too much sight. But Tom Cragg and I were boatswain's mates together. As to it being a bawdy-house, that is no offence to me; for all houses in sea-ports have been reckoned so, ever since I pick'd oakum'.
 <br><br>
-It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. Later in the play, the Crown, the Fleecer and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid which offered gaming was available was on Middle Street. Mayor Thomas Powell was keen to crack down on vice in the town, and banned the selling of alcohol on the Lord's Day in 1703, including the sale of alcohol from Bum boats, which plied their trade between the ships and the shore. He also pasted Queen Anne's proclamation for suppressing vice and immorality on the doors of the public houses.[p162]
+It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid. 
+<br><br>
+Later in the play, the Crown, the Fleecer and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid which offered gaming was available was on Middle Street. Mayor Thomas Powell was keen to crack down on vice in the town, and banned the selling of alcohol on the Lord's Day in 1703, including the sale of alcohol from Bum boats, which plied their trade between the ships and the shore. He also pasted Queen Anne's proclamation for suppressing vice and immorality on the doors of the public houses.[p162]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/John_Moody_as_Commodore_Flip_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_ac3bc284097f028aec35d5181226d034.jpg" label="John Moody as Commodore Flip in The Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
 
 At the end of the first act, Mr Norris, the coxswain and a sailor are discussing having a prostitute for the night at Flip’s charge (expense). Mr Norris says:
@@ -84,6 +86,8 @@ Rovewell contradicts him saying:
 <br><br>
 The Dutch had attacked English warships lying at anchor off Chatham and Gillingham during the [Raid on the Medway](/17c/17c-sheppey-at-war) in June 1667.
 Flip defends the navy, blaming 'the Treachery of some Rogues at Land' as the local people flew in fear.
+<br><br>
+
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Raid_on_the_Medway_by_Willem_Schellinks_Rijksmuseum_Amsterdam_SK-C-1737.jpg" label="The raid on the Medway" attribution="by Willem Schellinks, Rijksmuseum, CC0, via Wikimedia Commons">
 
 
