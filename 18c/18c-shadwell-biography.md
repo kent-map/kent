@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Charles Shadwell(1670-5? – 1726)" author="Michelle Crowther" layout="vtl" 
+<param ve-config title="Charles Shadwell (1670-5? – 1726)" author="Michelle Crowther" layout="vtl" 
 banner="/images/banners/18c.jpg">
 
 <!-- Kent with map centered at Deal -->
