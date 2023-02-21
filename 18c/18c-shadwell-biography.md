@@ -1,13 +1,12 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Charles Shadwell.(1670-5? – 1726)" author="Michelle Crowther" layout="vtl" 
+<param ve-config title="Charles Shadwell(1670-5? – 1726)" author="Michelle Crowther" layout="vtl" 
 banner="/images/banners/18c.jpg">
 
 <!-- Kent with map centered at Deal -->
 <param ve-map center="Q1011096" zoom="10">
 
 'To my GENEROUS and OBLIGING FRIENDS OF THE County of KENT.   
-GENTLEMEN, This Play was both design'd and finish'd in Your County, and therefore comes for Protection to the Place of its Nativity. It drags not a sluggish and unwilling Pace, as timorous of its Reception, and the hardiness of its fate; but pants for its native air, where it was brought forth with pleasure, and flies to the good treatment of your experience’d hospitality'    
-Introduction to _The Fair Quaker of Deal: or, the Humours of the Navy, 1710._[^ref1]
+GENTLEMEN, This Play was both design'd and finish'd in Your County, and therefore comes for Protection to the Place of its Nativity. It drags not a sluggish and unwilling Pace, as timorous of its Reception, and the hardiness of its fate; but pants for its native air, where it was brought forth with pleasure, and flies to the good treatment of your experience’d hospitality' - Introduction to _The Fair Quaker of Deal: or, the Humours of the Navy, 1710._[^ref1]
 <br><br>
 Little is known about Charles Shadwell’s birth or childhood, but it is most likely that he was born in London. He was the son of Thomas Shadwell (c.1640–1692), playwright, poet laureate and historiographer and the celebrated Restoration actor Anne Gibbs.  Thomas and Anne married sometime between 1663 and 1664 and had at least 4 children between 1671 and 1686 so Charles’s birth dates from this period.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Thomas_Shadwell.jpg" label="Thomas Shadwell" attribution="University of Cambridge, Public domain, via Wikimedia Commons">
