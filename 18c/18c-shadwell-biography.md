@@ -69,14 +69,18 @@ Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and A
 <br><br>
 It is evident that Shadwell understood prevailing attitudes to Quakerism and his portrayal is not without irony. Rovewell says to Worthy's liuetenant, Sir Charles Pleasant who is trying to convince Dorcas that Worthy is 'worthy':'And when we have done that, good Sir, you may troop to the Bull and Mouth again, without this She Friend's Money'. The Bull and Mouth was a Quaker meeting house at St Martin Le Grand, London and Sir Charles is suggesting that Worthy will have to become a Quaker if he marries. 
 
-In the meantime, Mizen has ‘barbarous’ designs on Dorcas and declares, 'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen, I must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.  This reveals that Mizen wishes to marry for money because Peace is anticipated in the War of the Spanish Succession, which would result in a reduced navy.
+In the meantime, Mizen has ‘barbarous’ designs on Dorcas and declares,
+<br><br>
+'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen, I must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.  
+<br><br>
+This reveals that Mizen wishes to marry for money to secure his future comforts, as Peace is anticipated in the War of the Spanish Succession, which would result in a reduced navy.
 <br><br>
 Worthy and Rovewell plot to set Mizen up with the prostitute Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans. (p20) They agree to meet at Daniel’s (The India Arms) in an hour 'where we’ll take a sneaker of Amy’s Punch'.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Jane_Pope_as_Dorcas_Zeal_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_696937be8e3e8366b5247f8a2bdb7ceb.jpg" label="Jane Pope as Docas Zeal in the Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
 
-Shadwell's depiction of Dorcas is one of the first representations of a Quaker heroine, but it is one of inconsistency as Dorcas renounces her faith 'to make our marriage yoke more cheerful still, from this Bless’d hour I’ll join thy holy worship.' Worthy is pleased by her conversion but Mizen tells him not to be too proud of his achievements as 'Flip and I have there outdone you, you have only made a Sister Convert from one Faith to another, but we have converted a fair Brace of Infidels, a Work of Reformation far beyond you' (p72). It is possible that this refers not only to the prostitutes of Deal, but also to past conquests during the War of the Spanish Succession. Peacock (2005) suggests that Dorcas represents 'a national ideal of a dependable and immutable Protestant Great Britain' which is in contrast to the foppish Mizen who represents 'a minatory, incipient Catholicism'. 
+Shadwell's depiction of Dorcas is one of the first representations of a Quaker heroine, but it is one of inconsistency as Dorcas renounces her faith 'to make our marriage yoke more cheerful still, from this Bless’d hour I’ll join thy holy worship.' Worthy is pleased by her conversion but Mizen tells him not to be too proud of his achievements as 'Flip and I have there outdone you, you have only made a Sister Convert from one Faith to another, but we have converted a fair Brace of Infidels, a Work of Reformation far beyond you' (p72). Peacock (2005) suggests that Dorcas represents 'a national ideal of a dependable and immutable Protestant Great Britain' which is in contrast to the foppish Mizen who represents 'a minatory, incipient Catholicism'. 
 
-Shadwell's play certainly operates on many levels with religion and the reform of the navy as two of its dominant themes. The foppish Mizen says ;.. you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.' (p.30) Flip, a commodore, offers a contrasting view point, harking back to the past and bemoaning the lack of commitment of the foppish gentleman captains, arguing that:
+Shadwell's play certainly operates on many levels with religion and the reform of the navy as two of its dominant themes. The foppish Mizen says '.. you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.' (p.30) Flip, a commodore, offers a contrasting view point, harking back to the past and bemoaning the lack of commitment of the foppish gentleman captains, arguing that:
 <br><br>
 “Oh! It was not so in the Dutch Wars, then we valu’d ourselves upon Wooden Legs, and Stumps of Arms, and fought as if Heaven and Earth was coming together”. 
 <br><br>
@@ -85,13 +89,10 @@ Rovewell contradicts him saying:
 'Yes, yes, you fought very gloriously, when you let the Dutch burn the fleet at Chatham'.
 <br><br>
 The Dutch had attacked English warships lying at anchor off Chatham and Gillingham during the [Raid on the Medway](/17c/17c-sheppey-at-war) in June 1667.
-Flip defends the navy, blaming 'the Treachery of some Rogues at Land' as the local people flew in fear.
-<br><br>
-
+Flip defends the navy, blaming 'the Treachery of some Rogues at Land' (the local people flew in fear when they saw the warships), but his reverance for the navy of the past is ridiculed.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Raid_on_the_Medway_by_Willem_Schellinks_Rijksmuseum_Amsterdam_SK-C-1737.jpg" label="The raid on the Medway" attribution="by Willem Schellinks, Rijksmuseum, CC0, via Wikimedia Commons">
 
-
-P32 The Virginia Fleet’s come in.
+Shadwell challenges prevailing views of the military through his characters, which reveals a shift in attitudes. It acts as a contrast to his father's 1692 comedy _The Volunteers_ which includes heroic and solid characters such as Major General Blunt, 'an old Cavalier officer, somewhat rough in speech, but brave and honest' and Welford 'a brave young Gentlemen, a Volunteer of a good estate, who has gotten more honours in the late war'.
 
 
 ### References
