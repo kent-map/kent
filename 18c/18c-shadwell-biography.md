@@ -36,7 +36,7 @@ Worthy opens the play with the words:
 'Thank Heaven, I have at last reach'd my native Land. Cockswain, take care the Water be sent on Board with Expedition, and bid the Purser hasten to Dover for fresh Provisions, and let the sick men be set on Shore for the next trip.'[^ref14]
 <br><br>
 'Wholesome water' would have been obtained from North Wall.[^ref15] Fresh provisions from the victualling yard for the Royal Navy at the Maison Dieu in Dover, which had a 'small cooperage, bakehouse and slaughterhouse, but no brewhouse', beer being obtained from a Deal brewery.[^ref16] The agent victualler was Thomas Coleby but due to a high level of pilfering at this period, a Clerk of the Cheque, Lancelot Whitehall, was also appointed to oversee provisions.[^ref17]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Anonymous_-_The_Maison_Dieu%2C_Dover_-_B1977.14.1673_-_Yale_Center_for_British_Art.jpg" label="The Maison Dieu, Dover c. 1826-66" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Anonymous_-_The_Maison_Dieu%2C_Dover_-_B1977.14.1673_-_Yale_Center_for_British_Art.jpg" label="The Maison Dieu, Dover, 1836" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
 
 On landing, Worthy sees his friend Rovewell, a gentlemen of fortune and asks 'But how does all our Deal Angels?' to which Rovewell replies:
 <br><br>
