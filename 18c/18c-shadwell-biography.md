@@ -9,11 +9,11 @@ banner="/images/banners/18c.jpg">
 <br>
 GENTLEMEN, This Play was both design'd and finish'd in Your County, and therefore comes for Protection to the Place of its Nativity. It drags not a sluggish and unwilling Pace, as timorous of its Reception, and the hardiness of its fate; but pants for its native air, where it was brought forth with pleasure, and flies to the good treatment of your experience’d hospitality' - Introduction to _The Fair Quaker of Deal: or, the Humours of the Navy, 1710._[^ref1]
 
-Little is known about Charles Shadwell’s birth or childhood, but it is most likely that he was born at Chelsea, Middlesex, the son of Thomas Shadwell (c.1640–1692), playwright, poet laureate and historiographer and the celebrated Restoration actor Anne Gibbs.  Thomas and Anne married sometime between 1663 and 1664 and had at least 4 children between 1671 and 1686 so Charles’s birth dates from this period. Some scholars have disputed Thomas's parentage, believing him to be Thomas Shadwell's nephew, but the prologue to his play _The Fair Quaker of Deal_ states that he is: 'From a famed stock our tender scyon grows, and may be laureate too himself, who knows?'[^ref2]
+Little is known about Charles Shadwell’s birth or childhood, but it is most likely that he was born at Chelsea, the son of Thomas Shadwell (c.1640–1692), playwright, poet laureate and historiographer and the celebrated Restoration actor Anne Gibbs.  Thomas and Anne married sometime between 1663 and 1664 and had at least 4 children between 1671 and 1686 so Charles’s birth dates from this period. Some scholars have disputed Thomas's parentage, believing him to be Thomas Shadwell's nephew, but the prologue to his play _The Fair Quaker of Deal_ states that: 'From a famed stock our tender scyon grows, and may be laureate too himself, who knows?'[^ref2]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Thomas_Shadwell.jpg" label="Thomas Shadwell" attribution="University of Cambridge, Public domain, via Wikimedia Commons">
 
 Thomas Shadwell, whose first play _The Sullen Lovers_ (1668) was a runaway success became noted among court circles and attracted the patronage of poet and courtier Charles Sackville, Earl of Dorset and Lord Chamberlain. He was appointed poet laureate and historiographer at the Glorious Revolution in 1688 for which he received £300 per annum. He did not find writing poetry easy and wrote 'a series of tedious laureate poems'.[^ref4]  His plays were a little more successful, although he received some criticism both from his rival John Dryden and Samuel Pepys. [^ref5]
-<br><br>
+
 Thomas and the Earl of Dorset enjoyed life to excess (Dorset’s receipts reveal that he spent a lot of money on oysters and wine) and Nell Gwynn described them drinking ale together all day.[^ref2] Thomas received regular sums of money from the Earl as 'without your Lord’s generosity I could not have subsisted..'[^ref3] In May 1692 Thomas complained of 'a very painful fitt of the Gout'[^ref7] which had been brought on by this rich living. Thomas began to take opium to ease the pain and died in November of that year after taking an overdose of opium, to which he had become addicted.[^ref8]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Charles_Sackville%2C_6th_Earl_of_Dorset_by_Sir_Godfrey_Kneller%2C_Bt_%282%29.jpg" label="Charles Sackville, 6th Earl of Dorset" attribution="Godfrey Kneller, Public domain, via Wikimedia Commons">
 
@@ -105,7 +105,7 @@ After this, Shadwell moved to Ireland, taking a position in the Revenue in Dubli
 
 ### References
 
-[^ref1]:
+[^ref1]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref2]:
 [^ref3]:
 [^ref4]:
