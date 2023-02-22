@@ -59,7 +59,7 @@ At the end of the first act, Mr Norris, the coxswain and a sailor are discussing
 <br><br>
 'Ay, and so be clap'd : If he would force the Surgeon to cure us at the Government's Charge, it would be a mighty Encouragement to us; but our Rogue of a Loblolly Doctor, being not satisfied with his Twopences, must have a Note for two Months Pay for every Cure; and the last time the Ship was paid, between the Officers, and the Sailors, he swept above half the Ship's Company's Money into his own Hat' (p25).
 <br><br>
-Mr Norris is discussing the fine imposed on sailors by the Navy for treating venereal diseases.
+A fine was imposed on sailors by the Navy for treating venereal diseases at this period.
 
 After Shadwell's comedic yet bleak introduction to Deal and its vices, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side to life in the town. Deal in the late 17th century was a town of around 3000 inhabitants with about 500 communicants at the parish church of St Leonard. (p41 history of Deal) It had a Quaker community from at least the 1650s.[^ref p118 The History of Deal] and in a 1689 pamphlet entitled 'A Letter from a Friend in Noddy Land', attitudes to Quakerism are revealed: 'We took in divers Passengers as we passed down the Channel, some of which I shall name unto thee, because they may be of great use unto us in this place; there was (let me see) Humh—Thomas Giddybrains, Arthur Holderforth, Geofery Crackwit, Marmaduke Featherpate, and Humphrey Shakenoddle; besides some She-Friends that freely offered themselves with much chearfulness to accompany the Brethren into any Region whatsoever, for the sake of Propagating the Bull-and-Mouth Strain (p48-9 “A Letter from a Friend in Noddy Land”. 
 <br><br>
@@ -74,7 +74,7 @@ It is evident that Shadwell understood prevailing attitudes to Quakerism and his
 In the meantime, Mizen has ‘barbarous’ designs on Dorcas and declares,
 <br><br>
 'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen, I must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.  
-<br><br>
+<br>
 This reveals that Mizen wishes to marry for money to secure his future comforts, as Peace is anticipated in the War of the Spanish Succession, which would result in a reduced navy.
 <br><br>
 Worthy and Rovewell plot to set Mizen up with the prostitute Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans. (p20) They agree to meet at Daniel’s (The India Arms) in an hour 'where we’ll take a sneaker of Amy’s Punch'.  
