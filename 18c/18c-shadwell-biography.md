@@ -23,7 +23,8 @@ Charles’s mother Anne, who had performed in at least two of Thomas’s plays a
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Anonymous_-_The_Duke%27s_Theatre%2C_Dorset_Garden_-_B1977.14.18586_-_Yale_Center_for_British_Art.jpg" label="The Duke's Theatre in Dorset Gardens, 1813" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
 
 It is uncertain where Charles received his education but Charles’s father was educated at Caius College, Cambridge and his brother John was educated at University College and All Souls’ College, Oxford, so its likely that he received a good education. Charles entered the army and served under Major-General Newton, Governor of Londonderry during the War of the Spanish Succession (1701-15). Newton was in charge of the foot guards at Rota, near Cadiz in 1702 with 300 men in garrison, a hospital and 'several pieces of cannon'.[^ref10] 
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/03/Decorative_scenes_of_the_War_of_the_Spanish_Succession_-_C%C3%A1diz%2C_1702.jpg" label="Decorative scenes of the War of the Spanish Succession" attribution="Antique Maps of Spain, Public domain, via Wikimedia Commons">
+
 By 1710, Charles had become the supervisor of the excise in Kent. It is not certain how long he was in the county but a Charles Shadwell married Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period.[^ref11] As French and Spanish prisoners from the War of the Spanish Succession were imprisoned at Dover castle, it is possible that Charles could have been stationed here with his regiment.  It was during this time (c. 1707) that he wrote his first play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent.[^ref12]
 <param ve-image url="https://stor.artstor.org/stor/61b0ad16-e1c3-4ca6-a46b-7a19100e9ede" label="The principal gate or entrance of Dover Castle" attribution="By kind permission of Marrin Books">
 
@@ -72,7 +73,7 @@ After Shadwell's comedic yet bleak introduction to Deal and its vices, the Fair 
 Dorcas invites Captain Worthy to visit her at the North End of town to renew his Vows of Sincerity. However, not everyone is supportive of Quakers as Shadwell makes clear. Dorcas's sister Arabella says:
 <br><br>
 'Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.' (p21)
-<br><br>
+
 Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and Arabella threatens to flirt with Worthy to annoy her sister. Another character, Jennie Private, impersonates Dorcas, saying: 'Well, if I do not act the Babe of Grace, the formal Quaking Saint, with as much outside Sanctity, as a new enter'd Nun, or an old Mother Abbess, I'll be content to truss up like James Nailor'. [p34] Jennie is referring to the occasion when Quaker James Nayler rode into Bristol in 1656 being hailed as Christ by a following of semi-clad women. 
 <br><br>
 It is evident that Shadwell understood prevailing attitudes to Quakerism and his portrayal is not without irony. Rovewell says to Worthy's liuetenant, Sir Charles Pleasant who is trying to convince Dorcas that Worthy is 'worthy':'And when we have done that, good Sir, you may troop to the Bull and Mouth again, without this She Friend's Money'. The Bull and Mouth was a Quaker meeting house at St Martin Le Grand, London and Sir Charles is suggesting that Worthy will have to become a Quaker if he marries. 
