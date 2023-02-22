@@ -12,26 +12,24 @@ GENTLEMEN, This Play was both design'd and finish'd in Your County, and therefor
 Little is known about Charles Shadwell’s birth or childhood, but it is most likely that he was born at Chelsea, the son of Thomas Shadwell (c.1640–1692), playwright, poet laureate and historiographer and the celebrated Restoration actor Anne Gibbs.  Thomas and Anne married sometime between 1663 and 1664 and had at least 4 children between 1671 and 1686 so Charles’s birth dates from this period. Some scholars have disputed Thomas's parentage, believing him to be Thomas Shadwell's nephew, but the prologue to his play _The Fair Quaker of Deal_ states that: 'From a famed stock our tender scyon grows, and may be laureate too himself, who knows?'[^ref2]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Thomas_Shadwell.jpg" label="Thomas Shadwell" attribution="University of Cambridge, Public domain, via Wikimedia Commons">
 
-Thomas Shadwell, whose first play _The Sullen Lovers_ (1668) was a runaway success became noted among court circles and attracted the patronage of poet and courtier Charles Sackville, Earl of Dorset and Lord Chamberlain. He was appointed poet laureate and historiographer at the Glorious Revolution in 1688 for which he received £300 per annum. He did not find writing poetry easy and wrote 'a series of tedious laureate poems'.[^ref4]  His plays were a little more successful, although he received some criticism both from his rival John Dryden and Samuel Pepys. [^ref5]
+Thomas Shadwell, whose first play _The Sullen Lovers_ (1668) was a runaway success became noted among court circles and attracted the patronage of poet and courtier Charles Sackville, Earl of Dorset and Lord Chamberlain. He was appointed poet laureate and historiographer at the Glorious Revolution in 1688 for which he received £300 per annum. He did not find writing poetry easy and wrote 'a series of tedious laureate poems'which received some criticism from his rival John Dryden and the diarist Samuel Pepys. [^ref3]
 
-Thomas and the Earl of Dorset enjoyed life to excess (Dorset’s receipts reveal that he spent a lot of money on oysters and wine) and Nell Gwynn described them drinking ale together all day.[^ref2] Thomas received regular sums of money from the Earl as 'without your Lord’s generosity I could not have subsisted..'[^ref3] In May 1692 Thomas complained of 'a very painful fitt of the Gout'[^ref7] which had been brought on by this rich living. Thomas began to take opium to ease the pain and died in November of that year after taking an overdose of opium, to which he had become addicted.[^ref8]
+Thomas and the Earl of Dorset enjoyed life to excess (Dorset’s receipts reveal that he spent a lot of money on oysters and wine) and Nell Gwynn described them drinking ale together all day.[^ref4] Thomas received regular sums of money from the Earl as 'without your Lord’s generosity I could not have subsisted..'[^ref5] In May 1692 Thomas complained of 'a very painful fitt of the Gout'[^ref6] which had been brought on by this rich living. Thomas began to take opium to ease the pain and died in November of that year after taking an overdose of opium, to which he had become addicted.[^ref7]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Charles_Sackville%2C_6th_Earl_of_Dorset_by_Sir_Godfrey_Kneller%2C_Bt_%282%29.jpg" label="Charles Sackville, 6th Earl of Dorset" attribution="Godfrey Kneller, Public domain, via Wikimedia Commons">
 
-Charles’s mother Anne, who had performed in at least two of Thomas’s plays as well as two by the female playwright, [Aphra Behn](/18c/17c-behn-biography), now had to support the family. In 1693, she published Thomas’s last play _The Volunteers_ with a dedication to Queen Ann  in which she wrote: 'The little wit of our poor family as well as the best part of the subsistence perished with my husband; so that we have not where withall, worthily to express our great Acknowledgement due for the Support and Favour, we have already received.'[^ref9] Not much is known about Ann after 1705, although she retained an interest in the rents for the Dorset Garden Theatre.
+Charles’s mother Anne, who had performed in at least two of Thomas’s plays as well as two by the female playwright, [Aphra Behn](/18c/17c-behn-biography), now had to support the family. In 1693, she published Thomas’s last play _The Volunteers_ with a dedication to Queen Ann  in which she wrote: 'The little wit of our poor family as well as the best part of the subsistence perished with my husband; so that we have not where withall, worthily to express our great Acknowledgement due for the Support and Favour, we have already received.'[^ref8] Not much is known about Ann after 1705, although she retained an interest in the rents for the Dorset Garden Theatre.[^ref9]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Anonymous_-_The_Duke%27s_Theatre%2C_Dorset_Garden_-_B1977.14.18586_-_Yale_Center_for_British_Art.jpg" label="The Duke's Theatre in Dorset Gardens, 1813" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
 
-It is uncertain where Charles received his education but Charles’s father was educated at Caius College, Cambridge and his brother John was educated at University College and All Souls’ college, Oxford. Charles entered the army and served under Major-General Newton, Governor of Londonderry during the War of the Spanish Succession (1701-15). Newton was in charge of the foot guards at Rota, near Cadiz in 1702 with 300 men in garrison, a hospital and 'several pieces of cannon'. 
+It is uncertain where Charles received his education but Charles’s father was educated at Caius College, Cambridge and his brother John was educated at University College and All Souls’ college, Oxford. Charles entered the army and served under Major-General Newton, Governor of Londonderry during the War of the Spanish Succession (1701-15). Newton was in charge of the foot guards at Rota, near Cadiz in 1702 with 300 men in garrison, a hospital and 'several pieces of cannon'.[^ref10] 
 <br><br>
-By 1710, Charles had become the supervisor of the excise in Kent. It is not certain how long he was in the county but a Charles Shadwell married Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period. As French and Spanish prisoners from the War of the Spanish Succession were imprisoned at Dover castle, it is possible that Charles could have been stationed here with his regiment.  It was during this time (c. 1707) that he wrote his first play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent.[^ref]  He jokes in the dedication that 'to incorporate You, by name into one Body, would require a College of Heralds to order the precedence' suggesting that he had more than one influential supporter. Lionel Cranfield Sackville (1688-1765), the son of his father’s patron, was the Governor of Dover Castle and Lord Warden of the Cinq Ports from 1708-12, and it was possibly his family connections which enabled Thomas to obtain his position in the excise. 
+By 1710, Charles had become the supervisor of the excise in Kent. It is not certain how long he was in the county but a Charles Shadwell married Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period.[^ref11] As French and Spanish prisoners from the War of the Spanish Succession were imprisoned at Dover castle, it is possible that Charles could have been stationed here with his regiment.  It was during this time (c. 1707) that he wrote his first play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent.[^ref12]  He jokes in the dedication that 'to incorporate You, by name into one Body, would require a College of Heralds to order the precedence' suggesting that he had more than one influential supporter.[^ref13] Lionel Cranfield Sackville (1688-1765), the son of his father’s patron, was the Governor of Dover Castle and Lord Warden of the Cinq Ports from 1708-12, and it was possibly his family connections which enabled Thomas to obtain his position in the excise. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/09/Battle_of_Vigo_Bay_1702.webp" lable="The Battle of Vigo Bay, 1702" attribution="Ludolf Bakhuizen, Public domain, via Wikimedia Commons">
 
 'The Fair Quaker of Deal' was performed at at Drury Lane Theatre, London in 1710.
 <br><br>
-In Act 1 scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad as part of the Virginia Fleet, which was involved in the Atlantic slave trade. The Downs was the water between Deal and the [Goodwins Sands](/dickens/david-copperfield-goodwin-sands/) which provided a natural anchorage for ships waiting for a good wind. There were sometimes 300- 400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell](/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. 
+In Act 1 scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad as part of the Virginia Fleet, which was involved in the Atlantic slave trade. The Downs was the water between Deal and the [Goodwins Sands](/dickens/david-copperfield-goodwin-sands/) which provided a natural anchorage for ships waiting for a good wind. There were sometimes 300- 400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell](/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. Worthy opens the play with the words:
 <br><br>
-Worthy cries:
-<br><br>
-'Thank Heaven, I have at last reach'd my native Land. Cockswain, take care the Water be sent on Board with Expedition, and bid the Purser hasten to Dover for fresh Provisions, and let the sick men be set on Shore for the next trip.'
+'Thank Heaven, I have at last reach'd my native Land. Cockswain, take care the Water be sent on Board with Expedition, and bid the Purser hasten to Dover for fresh Provisions, and let the sick men be set on Shore for the next trip.'[^ref14]
 <br><br>
 'Wholesome water' would have been obtained from North Wall.[^ref p139-140 History of Deal] Fresh provisions from the victualling yard for the Royal Navy at the Maison Dieu in Dover, which had a 'small cooperage, bakehouse and slaughterhouse, but no brewhouse', beer being obtained from a Deal brewery. The agent victualler was Thomas Coleby but due to a high level of pilfering at this period, a Clerk of the Cheque, Lancelot Whitehall, was also appointed to oversee provisions.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Anonymous_-_The_Maison_Dieu%2C_Dover_-_B1977.14.1673_-_Yale_Center_for_British_Art.jpg" label="The Maison Dieu, Dover c. 1826-66" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
@@ -99,28 +97,35 @@ Shadwell challenges prevailing views of the military through his characters, whi
 
 Nevertheless Shadwell's position in the excise was most likely obtained through connections and had he flattered his Kentish patrons more explicity by name he might have enjoyed further patronage and a career in London. It can be no coincidence that his father's play 'The Woman Captain' was revived the week after _The Fair Quaker of Deal_ revealing that Charles had important theatre connections. However, Charles's army commitments drew him away from London; he wrote, 'I am call'd in haste to my Duty in Portugal, but, at my Return it is probable, I may be as insolent as the rest of the Scribblers of the Town'.  In 1711, George Granville, Secretary at War, received a petition from Charles Shadwell 'director of the hospital in Portugal' which was conveyed to the Queen. The Queen would have known the name of Shadwell as her physician in ordinary was Charles’ brother John.
 
-On his return to England, Charles wrote another play _The Humours of the Army_ (1713) which was performed six times, and had a revival three years later. It was dedicated to to Major General Newton who Charles praises for 'Your Conduct and Management in our Expedition into Spain, at a dismal Season; with a sick Army, and great Scarcity of Provisions; not only our own Forces, but the Portuguese Generals, would join with me in saying You acted Miracles'. 
+On his return to England, Charles wrote another play _The Humours of the Army_ (1713) which was performed six times, and had a revival three years later. It was dedicated to to Major General Newton who Charles praises for 'Your Conduct and Management in our Expedition into Spain, at a dismal Season; with a sick Army, and great Scarcity of Provisions; not only our own Forces, but the Portuguese Generals, would join with me in saying You acted Miracles'. Newton was appointed Governor of Londonderry and this may have influenced Shadwell's move to Ireland.
 <br><br>
-After this, Shadwell moved to Ireland, taking a position in the Revenue in Dublin and it was here that he wrote further plays for the Smock Alley theatre. His patron Lady Newton, 
+Shadwell worked as an assurance broker in William Street, Dublin, but after two years he returned to playwriting, explaining to his patron Lady Newton that a change of circumstances “drew me in to be a Poet in order to help out a small income towards the support of my family.” He said: “Poetry is a science, I do not nor dare not Value myself upon; I may say with my father, “It was not a Harbour I chose, but a Rock I split upon". He wrote further plays for the Smock Alley theatre as well as working for the revenue. He died in 1726.
 
 ### References
 
 [^ref1]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
-[^ref2]:
-[^ref3]:
-[^ref4]:
-[^ref5]:
-[^ref6]:
-[^ref7]:
-[^ref8]:
+[^ref2]: Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University.
+[^ref3]: Bennett, Kate. 'Shadwell, Thomas (c. 1640–1692), playwright and poet.' _Oxford Dictionary of National Biography._ Oxford University Press. Date of access 31 Jan. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25195>
+[^ref4]: Bennett, Kate. 'Shadwell, Thomas (c. 1640–1692), playwright and poet.' _Oxford Dictionary of National Biography._ Oxford University Press. Date of access 31 Jan. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25195>
+[^ref5]: Kent Libraries and Archives
+[^ref6]: Kent Libraries and Archives
+[^ref7]: The Works of John Dryden: Illustrated, with Notes, Historical ..., Volume 10
+[^ref8]: Shadwell, Thomas (1692) _The Volunteers_
 [^ref9]:
 [^ref10]:
 [^ref11]:
 [^ref12]:
+[^ref13]:
+[^ref14]:
+[^ref15]:
+[^ref16]:
+[^ref17]:
+[^ref18]:
+
 
 A 1689 pamphlet entitled the _The Quakers art of courtship, or, The Yea-and-nay academy of complements_ mentions the Naylorian Faith. Also mentions Bull-and-Mouth Faith
 
 
 
 Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward.
-Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University.
+
