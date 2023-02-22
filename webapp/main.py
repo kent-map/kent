@@ -131,6 +131,11 @@ def sitemap_txt():
   sitemap = requests.get('https://raw.githubusercontent.com/kent-map/kent/main/sitemap.txt').text
   return Response(sitemap, mimetype='text/plain')
 
+@app.route('/geojson/<path:path>')
+def geojson(path=None):
+  content = requests.get(f'https://raw.githubusercontent.com/kent-map/kent/main/geojson/{path}').content
+  return Response(content, mimetype='application/json')
+
 @app.route('/<path:path>')
 @app.route('/<path:path>/')
 @app.route('/')
