@@ -27,19 +27,20 @@ By 1710, Charles had become the supervisor of the excise in Kent. It is not cert
 Shadwell jokes to his patrons in the dedication of _The Fair Quaker of Deal_ 'to incorporate You, by name into one Body, would require a College of Heralds to order the precedence' suggesting that he had more than one influential supporter.[^ref13] Lionel Cranfield Sackville (1688-1765), the son of his father’s patron, was the Governor of Dover Castle and Lord Warden of the Cinq Ports from 1708-12, and it was possibly his family connections which enabled Thomas to obtain his position in the excise. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/09/Battle_of_Vigo_Bay_1702.webp" lable="The Battle of Vigo Bay, 1702" attribution="Ludolf Bakhuizen, Public domain, via Wikimedia Commons">
 
-'The Fair Quaker of Deal' was performed at at Drury Lane Theatre, London in 1710. In Act 1 scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad as part of the Virginia Fleet, which was involved in the Atlantic slave trade. The Downs was the water between Deal and the [Goodwins Sands](/dickens/david-copperfield-goodwin-sands/) which provided a natural anchorage for ships waiting for a good wind. There were sometimes 300- 400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell](/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. Worthy opens the play with the words:
+'The Fair Quaker of Deal' was performed at at Drury Lane Theatre, London in 1710. In Act 1 scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad as part of the Virginia Fleet, which was involved in the Atlantic slave trade. The Downs was the water between Deal and the [Goodwins Sands](/dickens/david-copperfield-goodwin-sands/) which provided a natural anchorage for ships waiting for a good wind. There were sometimes 300- 400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell](/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. 
+
+Worthy opens the play with the words:
 <br><br>
 'Thank Heaven, I have at last reach'd my native Land. Cockswain, take care the Water be sent on Board with Expedition, and bid the Purser hasten to Dover for fresh Provisions, and let the sick men be set on Shore for the next trip.'[^ref14]
 <br><br>
-'Wholesome water' would have been obtained from North Wall.[^ref p139-140 History of Deal] Fresh provisions from the victualling yard for the Royal Navy at the Maison Dieu in Dover, which had a 'small cooperage, bakehouse and slaughterhouse, but no brewhouse', beer being obtained from a Deal brewery. The agent victualler was Thomas Coleby but due to a high level of pilfering at this period, a Clerk of the Cheque, Lancelot Whitehall, was also appointed to oversee provisions.
+'Wholesome water' would have been obtained from North Wall.[^ref15] Fresh provisions from the victualling yard for the Royal Navy at the Maison Dieu in Dover, which had a 'small cooperage, bakehouse and slaughterhouse, but no brewhouse', beer being obtained from a Deal brewery.[^ref16] The agent victualler was Thomas Coleby but due to a high level of pilfering at this period, a Clerk of the Cheque, Lancelot Whitehall, was also appointed to oversee provisions.[^ref17]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Anonymous_-_The_Maison_Dieu%2C_Dover_-_B1977.14.1673_-_Yale_Center_for_British_Art.jpg" label="The Maison Dieu, Dover c. 1826-66" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
 
 On landing, Worthy sees his friend Rovewell, a gentlemen of fortune and asks 'But how does all our Deal Angels?' to which Rovewell replies:
 <br><br>
-'Why the few virtuous Women are as proud and as insolent as they us'd to be, and the Whores you left here about ten Months since, are dead with Rottenesss, and young Strums supply their Rooms. This is a monstrous Place for Wickedness! Fornication flourishes more here than in any Sea Port of Europe'. (p12)
+'Why the few virtuous Women are as proud and as insolent as they us'd to be, and the Whores you left here about ten Months since, are dead with Rottenesss, and young Strums supply their Rooms. This is a monstrous Place for Wickedness! Fornication flourishes more here than in any Sea Port of Europe'.[^ref18]
 <br><br>
-Shadwell’s description of Deal as seen through the eyes of his character Rovewell, has an air of authenticity. In 1703, mayor of Deal, Thomas Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.' Despite the best efforts of the townsmen of Deal to 'suppress many disorders',[ref p145] the town continued to have a reputation, and Daniel Defoe described it as 'that fatal town': 'the barbarous shores with men and boats abound - The men more barbarous than the shores are found' (_The Storm_, 1704).
-[History of Deal John Laker 1917] 
+Shadwell’s description of Deal as seen through the eyes of his character Rovewell, has an air of authenticity. In 1703, mayor of Deal, Thomas Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.' Despite the best efforts of the townsmen of Deal to 'suppress many disorders',[^ref19] the town continued to have a reputation, and Daniel Defoe described it as 'that fatal town': 'the barbarous shores with men and boats abound - The men more barbarous than the shores are found' (_The Storm_, 1704).[^ref20]
 
 The dissolute behaviour of Deal women and the visiting sailors continues to be a theme throughout the play and Shadwell refers to several pubs which are known to have existed at this time. Flip lodges at the Three Mariners, which Mizen, one of the foppish gentlemen captains, assumes to be a house of ill-repute:
 <br><br>
@@ -116,16 +117,16 @@ Shadwell worked as an assurance broker in William Street, Dublin, but after two 
 [^ref11]:
 [^ref12]:
 [^ref13]:
-[^ref14]:
-[^ref15]:
+[^ref14]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref15]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. pp. 139-140. 
 [^ref16]:
 [^ref17]:
-[^ref18]:
+[^ref18]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.12.
+[^ref19]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.145.
+Laker, John (1917) _History of Deal_
+[^ref20]: Laker, John (1917) _History of Deal_
 
 
 A 1689 pamphlet entitled the _The Quakers art of courtship, or, The Yea-and-nay academy of complements_ mentions the Naylorian Faith. Also mentions Bull-and-Mouth Faith
 
-
-
-Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward.
 
