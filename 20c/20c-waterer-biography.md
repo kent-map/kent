@@ -42,3 +42,4 @@ The National Archives; Kew, London, England; 1939 Register; Reference: RG 101/17
 Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Unattributed. ‘Gladys Waterer Talks Dickens at Broadstairs’. _Illustrated London News_. 11  March 1964,. 90.    
 Waterer, Gladys. _The Third Chance._ London: George Allen & Co., 1912.    
+<param ve-image url="https://stor.artstor.org/stor/982eba99-332b-4bcd-8cbe-a328476822ca" label="Gladys Waterer" attribution="By kind permission of Broadstairs Museum">
