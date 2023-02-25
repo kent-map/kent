@@ -133,6 +133,8 @@ Shadwell worked as an assurance broker in William Street, Dublin, but after two 
 In former Days, e're Party rag'd so high, The Theatre's claim'd the Monopoly Of wit, to grace the British Comedy. Now Wit and Satyr spent in Pamphlet wars Labour each Hour to inflame our Party-Jarrs; Forsake their ancient Mart, the Comic Scene, And raise our Mirth no more, but feed our Spleen. Hopeless to make the Fugitives return, Our Author only can their Absence mourn. He nor to Wit, nor Satyr, dares pretend, But much upon his Humour does depend'.[^ref47]
 <br><br>
 Charles wrote further plays for the Smock Alley theatre in Dublin as well as working for the revenue and died in 1726.
+<br><br>
+This article was published: 25 February 2023.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/25/Hogarth-rehearsal_%282%29.png" label="A Just View of the British Stage, 1724" attribution="William Hogarth, Public domain, via Wikimedia Commons">
 
 ### References
