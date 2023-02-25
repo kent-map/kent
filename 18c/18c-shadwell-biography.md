@@ -19,10 +19,10 @@ Little is known about Charles Shadwell’s birth or childhood, but it is most li
 Thomas Shadwell, whose first play _The Sullen Lovers_ (1668) was a runaway success became noted among court circles and attracted the patronage of poet and courtier Charles Sackville, Earl of Dorset and Lord Chamberlain. He was appointed poet laureate and historiographer at the Glorious Revolution in 1688 for which he received £300 per annum. He did not find writing poetry easy and wrote 'a series of tedious laureate poems' which received some criticism from his rival John Dryden and the diarist Samuel Pepys. [^ref3]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a3/John_Michael_Wright_%281617-1694%29_-_John_Dryden_-_NPG_6854_-_National_Portrait_Gallery.jpg" label="John Dryden" attribution="John Michael Wright, Public domain, via Wikimedia Commons">
 
-Thomas Shadwell and the Earl of Dorset enjoyed life to excess (Dorset’s receipts reveal that he spent a lot of money on oysters and wine)[^ref4] and Nell Gwynn described them drinking ale together all day at the Duke's Theatre.[^ref4] Thomas received regular sums of money from the Earl, whose family seat was at Knole Park near Sevenoaks, and 'without your Lord’s generosity I could not have subsisted..'[^ref5] In May 1692,Thomas complained of 'a very painful fitt of the Gout'[^ref6], a condition from which he had been suffering for about four years and which had been brought on by rich living.[^ref7] Thomas began to take opium to ease the pain and died in November of that year after taking an overdose of opium, to which he had become addicted.[^ref8]
+Thomas Shadwell and the Earl of Dorset enjoyed life to excess (Dorset’s receipts reveal that he spent a lot of money on oysters and wine)[^ref4] and Nell Gwynn described them drinking ale together all day at the Duke's Theatre.[^ref5] Thomas received regular sums of money from the Earl, whose family seat was at Knole Park near Sevenoaks, and 'without your Lord’s generosity I could not have subsisted..'[^ref6] In May 1692,Thomas complained of 'a very painful fitt of the Gout'[^ref7], a condition from which he had been suffering for about four years and which had been brought on by rich living.[^ref8] Thomas began to take opium to ease the pain and died in November of that year after taking an overdose of opium, to which he had become addicted.[^ref9]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/63/Charles_Sackville%2C_6th_Earl_of_Dorset_by_Sir_Godfrey_Kneller%2C_Bt.jpg" label="Charles Sackville, 6th Earl of Dorset" attribution="Godfrey Kneller, Public domain, via Wikimedia Commons">
 
-Charles’s mother Anne, who had performed in at least two of Thomas’s plays as well as two by the female playwright, [Aphra Behn](/18c/17c-behn-biography), now had to support the family. In 1693, she published Thomas’s last play _The Volunteers_ with a dedication to Queen Ann  in which she wrote: 'The little wit of our poor family as well as the best part of the subsistence perished with my husband; so that we have not where withall, worthily to express our great Acknowledgement due for the Support and Favour, we have already received.'[^ref9] (This suggests that Ann was not hopeful of Charles fulfilling this role at this point, although there may have been pressure later for him to do so).
+Charles’s mother Anne, who had performed in at least two of Thomas’s plays as well as two by the female playwright, [Aphra Behn](/18c/17c-behn-biography), now had to support the family. In 1693, she published Thomas’s last play _The Volunteers_ with a dedication to Queen Ann  in which she wrote: 'The little wit of our poor family as well as the best part of the subsistence perished with my husband; so that we have not where withall, worthily to express our great Acknowledgement due for the Support and Favour, we have already received.'[^ref10] (This suggests that Ann was not hopeful of Charles fulfilling this role at this point, although there may have been pressure later for him to do so).
 <br><br>
 Not much is known about Ann after 1705, although she retained an interest in the rents for the Dorset Garden Theatre, which was on the Duke of Dorset's land.[^ref10] It is clear that Sackville's role as patron of the theatre at this period was important as his coach journeys reveal that he had property at Cockpit, Whitehall, which was formerly the site of a theatre.[^ref11] His death in 1707 must have impacted on the lives of those who relied on his patronage.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Anonymous_-_The_Duke%27s_Theatre%2C_Dorset_Garden_-_B1977.14.18586_-_Yale_Center_for_British_Art.jpg" label="The Duke's Theatre in Dorset Gardens, 1813" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
@@ -30,7 +30,7 @@ Not much is known about Ann after 1705, although she retained an interest in the
 It is uncertain where Charles received his education but his father, Thomas was educated at Caius College, Cambridge and his brother John, who later became physician in ordinary to Queen Ann, was educated at University College and All Souls’ College, Oxford, so it is likely that Charles received a good education. Charles entered the army and served under Major-General Newton during the War of the Spanish Succession (1701-15). Newton was in charge of the foot guards at Rota, near Cadiz in 1702 with 300 men in garrison, a hospital and 'several pieces of cannon'.[^ref12] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/03/Decorative_scenes_of_the_War_of_the_Spanish_Succession_-_C%C3%A1diz%2C_1702.jpg" label="Decorative scenes of the War of the Spanish Succession" attribution="Antique Maps of Spain, Public domain, via Wikimedia Commons">
 
-By 1710, Charles had become the supervisor of the excise in Kent. It is not certain how long he was in the county but a Charles Shadwell married Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period.[^ref13] As French and Spanish prisoners from the War of the Spanish Succession were imprisoned at Dover castle, it is possible that Charles could have been stationed here with his regiment.  It was during this time (c. 1707) that he wrote his first play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent.[^ref14]
+By 1710, Charles had become the supervisor of the excise in Kent. It is not certain how long he was in the county but a Charles Shadwell married Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period.[^ref13] As French and Spanish prisoners from the War of the Spanish Succession were imprisoned at Dover castle, it is possible that Charles could have been stationed here with his regiment.  It was during this time (c.1707) that he wrote his first play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent.[^ref14]
 <param ve-image url="https://stor.artstor.org/stor/61b0ad16-e1c3-4ca6-a46b-7a19100e9ede" label="The principal gate or entrance of Dover Castle" attribution="By kind permission of Marrin Books">
 
 Shadwell jokes to his patrons in the dedication of _The Fair Quaker of Deal_  'to incorporate You, by name into one Body, would require a College of Heralds to order the precedence' suggesting that he had more than one influential supporter.[^ref15] Lionel Cranfield Sackville (1688-1765), the son of his father’s patron, was the Governor of Dover Castle and Lord Warden of the Cinque Ports from 1708-12, and it was possibly his family connections which enabled Thomas to obtain his position in the excise. Lionel may not have shared is father's interest in the theatre, and Charles acknowledges his struggle to obtain a performance in his preface:
@@ -49,14 +49,14 @@ Worthy opens _The Fair Quaker_ with the words:
 <br><br>
 'Wholesome water' would have been obtained from North Wall.[^ref18] The decision to obtain fresh provisions from Dover is interesting. Until 1699, Deal was tied to the Cinque Port of Sandwich, as all corn and provisions had to sold by law at a market town, and so it was unable to supply fresh provisions to sailors, a subject which caused much distress. The townsmen complained: 'our being dependent on Sandwich for every article of food, places the people in a very great strait, incapacitates the ship agents and boatmen in sending daily supplies to the shipping and enhances the price, causing general complaint among the population'.[^ref19]
 <br><br>
-In 1700, Deal appointed a committee to obtain a Charter of Incorporation which it obtained under the reign of William III, enabling it to sell its own provisions.  The victualling yard for the Royal Navy was at the Maison Dieu in Dover, which had a 'small cooperage, bakehouse and slaughterhouse, but no brewhouse', however they provided food such as ships' biscuits and cured pork designed for long voyages and hardly 'fresh'.[^ref20] Whether Shadwell was mistaken in his choice of Dover for fresh provisions or was in fact indicating that a sailor after a long sea voyage would not have been aware of the local wranglings about the sale of fresh provisions is uncertain.[^ref21] 
+In 1700, Deal appointed a committee to obtain a Charter of Incorporation which it obtained under the reign of William III, enabling it to sell its own provisions.  The victualling yard for the Royal Navy was at the Maison Dieu in Dover, which had a 'small cooperage, bakehouse and slaughterhouse, but no brewhouse', however they provided food such as ships' biscuits and cured pork designed for long voyages and hardly 'fresh'.[^ref20] Whether Shadwell was mistaken in his choice of Dover for fresh provisions or was in fact indicating that a sailor after a long sea voyage would not have been aware of the local wranglings about the sale of fresh provisions is uncertain.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Anonymous_-_The_Maison_Dieu%2C_Dover_-_B1977.14.1673_-_Yale_Center_for_British_Art.jpg" label="The Maison Dieu, Dover, 1836" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
 
 On landing, Worthy sees his friend Rovewell, a gentlemen of fortune and asks 'But how does all our Deal Angels?' (referring to the local women) to which Rovewell replies:
 <br><br>
-'Why the few virtuous Women are as proud and as insolent as they us'd to be, and the Whores you left here about ten Months since, are dead with Rottenesss, and young Strums supply their Rooms. This is a monstrous Place for Wickedness! Fornication flourishes more here than in any Sea Port of Europe'.[^ref22]
+'Why the few virtuous Women are as proud and as insolent as they us'd to be, and the Whores you left here about ten Months since, are dead with Rottenesss, and young Strums supply their Rooms. This is a monstrous Place for Wickedness! Fornication flourishes more here than in any Sea Port of Europe'.[^ref21]
 <br><br>
-Shadwell’s description of Deal as seen through the eyes of his character Rovewell, has an air of authenticity. In 1703, mayor of Deal, Thomas Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.' Despite the best efforts of the townsmen of Deal to 'suppress many disorders',[^ref23] the town continued to have a reputation, and Daniel Defoe described it as 'that fatal town': 'the barbarous shores with men and boats abound - The men more barbarous than the shores are found' (_The Storm_, 1704).[^ref24] ,
+Shadwell’s description of Deal as seen through the eyes of his character Rovewell, has an air of authenticity. In 1703, mayor of Deal, Thomas Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.' Despite the best efforts of the townsmen of Deal to 'suppress many disorders',[^ref22] the town continued to have a reputation, and Daniel Defoe described it as 'that fatal town': 'the barbarous shores with men and boats abound - The men more barbarous than the shores are found' (_The Storm_, 1704).[^ref23] ,
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5c/North_Foreland_-_Deal_-_btv1b53010670p.jpg" label="North Foreland, Deal, c. 18-19c" attribution="Bibliothèque nationale de France, Public domain, via Wikimedia Commons">
 
 The dissolute behaviour of Deal women and the visiting sailors continues to be a theme throughout the play and Shadwell refers to several pubs which are known to have existed at this time. Flip lodges at the Three Mariners, which Mizen, one of the foppish gentlemen captains, assumes to be a house of ill-repute:
@@ -65,35 +65,35 @@ The dissolute behaviour of Deal women and the visiting sailors continues to be a
 <br><br>
 Worthy interjects: 'Indeed the House is very notorious; why don't you frequent the India Arms?'
 <br><br>
-Flip replies: 'Because all the Fops and Beardless Boys of the Navy go there; besides, I think the husband too blind, and his wife has too much sight. But Tom Cragg and I were boatswain's mates together. As to it being a bawdy-house, that is no offence to me; for all houses in sea-ports have been reckoned so, ever since I pick'd oakum'.[^ref25]
+Flip replies: 'Because all the Fops and Beardless Boys of the Navy go there; besides, I think the husband too blind, and his wife has too much sight. But Tom Cragg and I were boatswain's mates together. As to it being a bawdy-house, that is no offence to me; for all houses in sea-ports have been reckoned so, ever since I pick'd oakum'.[^ref24]
 <br><br>
-It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid.[^ref26] 
+It is uncertain where the Three Mariners was but The India Arms was on the north side of King Street at its junction with Beach Street. One of the earliest references to the pub was in 1680 when the Inn Sign Tax was paid.[^ref25] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Sailors_drinking_in_a_crypt._Coloured_etching_by_W._Elmes._Wellcome_V0050176.jpg" label="Sailors drinking in a crypt" attribution="Coloured etching by W. Elmes. Wellcome Images via Wikimedia Commons" license="CC BY 4.0">
 
-Later in the play, the Crown, the Fleecer [sic] and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid which offered gaming was  on Middle Street. Mayor Thomas Powell was keen to crack down on vice in the town, and banned the selling of alcohol on the Lord's Day in 1703, including the sale of alcohol from Bum boats, which plied their trade between the ships and the shore. He also pasted Queen Anne's proclamation for suppressing vice and immorality on the doors of the public houses.[^ref 27 p162]
+Later in the play, the Crown, the Fleecer [sic] and the Mermaid are mentioned. The Fleece and The Crown were on Beach Street and the Mermaid which offered gaming was  on Middle Street. Mayor Thomas Powell was keen to crack down on vice in the town, and banned the selling of alcohol on the Lord's Day in 1703, including the sale of alcohol from Bum boats, which plied their trade between the ships and the shore. He also pasted Queen Anne's proclamation for suppressing vice and immorality on the doors of the public houses.[^ref26]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/John_Moody_as_Commodore_Flip_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_ac3bc284097f028aec35d5181226d034.jpg" label="John Moody as Commodore Flip in The Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
 
 At the end of the first act, Mr Norris, the coxswain and a sailor are discussing having a prostitute for the night at Flip’s charge (expense). Mr Norris says:
 <br><br>
-'Ay, and so be clap'd : If he would force the Surgeon to cure us at the Government's Charge, it would be a mighty Encouragement to us; but our Rogue of a Loblolly Doctor, being not satisfied with his Twopences, must have a Note for two Months Pay for every Cure; and the last time the Ship was paid, between the Officers, and the Sailors, he swept above half the Ship's Company's Money into his own Hat'[^ref28] (p25).
+'Ay, and so be clap'd : If he would force the Surgeon to cure us at the Government's Charge, it would be a mighty Encouragement to us; but our Rogue of a Loblolly Doctor, being not satisfied with his Twopences, must have a Note for two Months Pay for every Cure; and the last time the Ship was paid, between the Officers, and the Sailors, he swept above half the Ship's Company's Money into his own Hat',[^ref27]
 <br><br>
 A fine was imposed on sailors by the Navy for treating venereal diseases at this period. It was not until the nineteenth century [Contagious Diseases Acts](/19c/19c-contagious-diseases) when women were stigmatised for the spread of venereal diseases.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/58/Men_of_war_caricature_1791.jpg" label="Men of War, caricature of sailors and prostitutes with the "Chatham to Gravesend tide coach" in the background. Published 1791" attribution="Scanned by H. Churchyard, Public domain, via Wikimedia Commons">
 
-After Shadwell's comedic yet bleak introduction to Deal and its vices, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side to life in the town. Deal in the late 17th century was a town of around 3000 inhabitants with about 500 communicants at the parish church of St Leonard.[^ref29] (p41 history of Deal) It had a Quaker community from at least the 1650s.[^ref 30 p118 The History of Deal] In a 1689 pamphlet entitled 'A Letter from a Friend in Noddy Land', attitudes to Quakerism are revealed: 'We took in divers Passengers as we passed down the Channel, some of which I shall name unto thee, because they may be of great use unto us in this place; there was (let me see) Humh—Thomas Giddybrains, Arthur Holderforth, Geofery Crackwit, Marmaduke Featherpate, and Humphrey Shakenoddle; besides some She-Friends that freely offered themselves with much chearfulness to accompany the Brethren into any Region whatsoever, for the sake of Propagating the Bull-and-Mouth Strain.[^ref31] (p48-9 “A Letter from a Friend in Noddy Land”. 
+After Shadwell's comedic yet bleak introduction to Deal and its vices, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side to life in the town. Deal in the late 17th century was a town of around 3000 inhabitants.[^ref28] It had a Quaker community from at least the 1650s.[^ref29] In a 1689 pamphlet entitled 'A Letter from a Friend in Noddy Land', prevailing attitudes to Quakerism are revealed: 'We took in divers Passengers as we passed down the Channel, some of which I shall name unto thee, because they may be of great use unto us in this place; there was (let me see) Humh—Thomas Giddybrains, Arthur Holderforth, Geofery Crackwit, Marmaduke Featherpate, and Humphrey Shakenoddle; besides some She-Friends that freely offered themselves with much chearfulness to accompany the Brethren into any Region whatsoever, for the sake of Propagating the Bull-and-Mouth Strain.[^ref30]
 <br><br>
 Dorcas invites Captain Worthy to visit her at the North End of town to renew his Vows of Sincerity. Not everyone is supportive of the Quaker presence in the town as Shadwell makes clear. Dorcas's sister Arabella says:
 <br><br>
-'Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.'[^ref32] (p21)
+'Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.'[^ref31]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Catherine_Payton_Phillips.jpg" label="Caherine Payton Phillips, 1750 wearing Quaker cap">
 
 Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and Arabella threatens to flirt with Worthy to annoy her sister. Another character, Jennie Private, impersonates Dorcas, saying: 
 <br><br>
-'Well, if I do not act the Babe of Grace, the formal Quaking Saint, with as much outside Sanctity, as a new enter'd Nun, or an old Mother Abbess, I'll be content to truss up like James Nailor'.[^ref33] [p34] 
+'Well, if I do not act the Babe of Grace, the formal Quaking Saint, with as much outside Sanctity, as a new enter'd Nun, or an old Mother Abbess, I'll be content to truss up like James Nailor'.[^ref32]
 <br><br>
 Jennie is referring to the occasion when Quaker James Nayler rode into Bristol in 1656 being hailed as Christ by a following of semi-clad women. 
 <br><br>
-It is evident that Shadwell understood prevailing attitudes to Quakerism. Rovewell says to Worthy's liuetenant, Sir Charles Pleasant, who is trying to convince Dorcas that Worthy is 'worthy':'And when we have done that, good Sir, you may troop to the Bull and Mouth again, without this She Friend's Money'. The Bull and Mouth was a Quaker meeting house at St Martin Le Grand, London and Sir Charles is suggesting that Worthy will have to become a Quaker if he marries. 
+It is evident that Shadwell understood prevailing attitudes to Quakerism. Rovewell says to Worthy's liuetenant, Sir Charles Pleasant, who is trying to convince Dorcas that Worthy is 'worthy':'And when we have done that, good Sir, you may troop to the Bull and Mouth again, without this She Friend's Money'.[^ref33] The Bull and Mouth was a Quaker meeting house at St Martin Le Grand, London and Sir Charles is suggesting that Worthy will have to become a Quaker if he marries. 
 
 In the meantime, Mizen has ‘barbarous’ designs on Dorcas and declares,
 <br><br>
@@ -101,10 +101,10 @@ In the meantime, Mizen has ‘barbarous’ designs on Dorcas and declares,
 <br>
 This reveals that Mizen wishes to marry for money, unlike Worthy whose motives are purer, to secure his future comforts. With peace anticipated in the War of the Spanish Succession, this might result in a reduced navy.
 <br><br>
-Worthy and Rovewell plot to set Mizen up with sex worker Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans.[^ref35] (p20) They agree to meet at Daniel’s (The India Arms) in an hour 'where we’ll take a sneaker of Amy’s Punch'.  
+Worthy and Rovewell plot to set Mizen up with sex worker Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans.[^ref35] They agree to meet at Daniel’s (The India Arms) in an hour 'where we’ll take a sneaker of Amy’s Punch'.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Jane_Pope_as_Dorcas_Zeal_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_696937be8e3e8366b5247f8a2bdb7ceb.jpg" label="Jane Pope as Docas Zeal in the Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
 
-Shadwell's depiction of Dorcas is one of the first representations of a Quaker heroine, but it is one of inconsistency as Dorcas renounces her faith 'to make our marriage yoke more cheerful still, from this Bless’d hour I’ll join thy holy worship.'[^ref36] Worthy is pleased by her conversion but Mizen tells him not to be too proud of his achievements as 'Flip and I have there outdone you, you have only made a Sister Convert from one Faith to another, but we have converted a fair Brace of Infidels, a Work of Reformation far beyond you'(referring to the sex workers he has paid off).[^ref37] (p72). Peacock (2005) suggests that Dorcas represents 'a national ideal of a dependable and immutable Protestant Great Britain' which is in contrast to the foppish Mizen who represents 'a minatory, incipient Catholicism'.[^ref38] 
+Shadwell's depiction of Dorcas is one of the first representations of a Quaker heroine, but it is one of inconsistency as Dorcas renounces her faith 'to make our marriage yoke more cheerful still, from this Bless’d hour I’ll join thy holy worship.'[^ref36] Worthy is pleased by her conversion but Mizen tells him not to be too proud of his achievements as 'Flip and I have there outdone you, you have only made a Sister Convert from one Faith to another, but we have converted a fair Brace of Infidels, a Work of Reformation far beyond you'(referring to the sex workers he has paid off).[^ref37] Peacock (2005) suggests that Dorcas represents 'a national ideal of a dependable and immutable Protestant Great Britain' which is in contrast to the foppish Mizen who represents 'a minatory, incipient Catholicism'.[^ref38] 
 
 Shadwell's play certainly operates on many levels with religion and the reform of the navy as two of its dominant themes. The foppish Mizen says '.. you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.'[^ref39] (p.30) Flip, a commodore, offers a contrasting view point, harking back to the past and bemoaning the lack of commitment of the foppish gentleman captains, arguing that:
 <br><br>
@@ -112,15 +112,15 @@ Shadwell's play certainly operates on many levels with religion and the reform o
 <br><br>
 Rovewell contradicts him saying:
 <br><br>
-'Yes, yes, you fought very gloriously, when you let the Dutch burn the fleet at Chatham'.[^ref39]
+'Yes, yes, you fought very gloriously, when you let the Dutch burn the fleet at Chatham'.[^ref40]
 <br><br>
 The Dutch had attacked English warships lying at anchor off Chatham and Gillingham during the [Raid on the Medway](/17c/17c-sheppey-at-war) in June 1667.
 Flip defends the navy, blaming 'the Treachery of some Rogues at Land' (the local people flew in fear when they saw the warships), but his reverance for the navy of the past is ridiculed.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Raid_on_the_Medway_by_Willem_Schellinks_Rijksmuseum_Amsterdam_SK-C-1737.jpg" label="The raid on the Medway" attribution="by Willem Schellinks, Rijksmuseum, CC0, via Wikimedia Commons">
 
-Shadwell challenges prevailing views of the military through his characters, which reveals a shift in attitudes. Schenk (1913) argues that Shadwell believed in the 'moral purpose' of the theatre.[^ref40] (p.17) It acts as a contrast to his father's 1692 comedy _The Volunteers_ which includes characters who have performed heroic deeds such as Major General Blunt, 'an old Cavalier officer, somewhat rough in speech, but brave and honest' and Welford 'a brave young Gentlemen, a Volunteer of a good estate, who has gotten more honours in the late war'.[^ref41] Thomas Shadwell, was a Whig whose political allegiances influenced his writing, Charles's ties to party were not as strong, as is revealed in the words of Worthy's lieutenant in _The Fair Quaker of Deal_: 'Faith, the poets of this age are not so poor as those of the last, they have wit enough to write themselves into good places'.[^ref42] 
+Shadwell challenges prevailing views of the military through his characters, which reveals a shift in attitudes. Schenk (1913) argues that Shadwell believed in the 'moral purpose' of the theatre.[^ref41] It acts as a contrast to his father's 1692 comedy _The Volunteers_ which includes characters who have performed heroic deeds such as Major General Blunt, 'an old Cavalier officer, somewhat rough in speech, but brave and honest' and Welford 'a brave young Gentlemen, a Volunteer of a good estate, who has gotten more honours in the late war'.[^ref42] Thomas Shadwell, was a Whig whose political allegiances influenced his writing, Charles's ties to party were not as strong, as is revealed in the words of Worthy's lieutenant in _The Fair Quaker of Deal_: 'Faith, the poets of this age are not so poor as those of the last, they have wit enough to write themselves into good places'.[^ref43] 
 
-Nevertheless Shadwell's position in the excise was most likely obtained through connections and had he flattered his Kentish patrons more explicity by name he might have enjoyed further patronage and a career in London. It can be no coincidence that his father's play 'The Woman Captain' was revived the week after _The Fair Quaker of Deal_ revealing that Charles had important theatre connections. However, Charles's army commitments drew him away from London; he wrote, 'I am call'd in haste to my Duty in Portugal, but, at my Return it is probable, I may be as insolent as the rest of the Scribblers of the Town'.[^ref43]  In 1711, George Granville, Secretary at War, received a petition from Charles Shadwell 'director of the hospital in Portugal' which was conveyed to the Queen.[^ref44] 
+Nevertheless Shadwell's position in the excise was most likely obtained through connections and had he flattered his Kentish patrons more explicity by name he might have enjoyed further patronage and a career in London. It can be no coincidence that his father's play 'The Woman Captain' was revived the week after _The Fair Quaker of Deal_ revealing that Charles had important theatre connections. However, Charles's army commitments drew him away from London; he wrote, 'I am call'd in haste to my Duty in Portugal, but, at my Return it is probable, I may be as insolent as the rest of the Scribblers of the Town'.[^ref44]  In 1711, George Granville, Secretary at War, received a petition from Charles Shadwell 'director of the hospital in Portugal' which was conveyed to the Queen.[^ref45] 
 
 On his return to England, Charles wrote another play _The Humours of the Army_ (1713) which was performed six times, and had a revival three years later. It was dedicated to to Major General Newton who Charles praises for 'Your Conduct and Management in our Expedition into Spain, at a dismal Season; with a sick Army, and great Scarcity of Provisions; not only our own Forces, but the Portuguese Generals, would join with me in saying You acted Miracles'.[^ref45] Newton was appointed Governor of Londonderry and this may have influenced Shadwell's move to Ireland at this period.
 <br><br>
@@ -135,46 +135,50 @@ Charles wrote further plays for the Smock Alley theatre as well as working for t
 [^ref1]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref2]: Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University.
 [^ref3]: Bennett, Kate. 'Shadwell, Thomas (c. 1640–1692), playwright and poet.' _Oxford Dictionary of National Biography._ Oxford University Press. Date of access 31 Jan. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25195>
-[^ref4]: Bennett, Kate. 'Shadwell, Thomas (c. 1640–1692), playwright and poet.' _Oxford Dictionary of National Biography._ Oxford University Press. Date of access 31 Jan. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25195>
-[^ref5]: Kent Libraries and Archives, U269 C109/1.
-[^ref6]: Kent Libraries and Archives, U269 C109/2.
-[^ref7]: Bennett, Kate. 'Shadwell, Thomas (c. 1640–1692), playwright and poet.' _Oxford Dictionary of National Biography._ Oxford University Press. Date of access 31 Jan. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25195>
-[^ref8]: The Works of John Dryden: Illustrated, with Notes, Historical ..., Volume 10
-[^ref9]: Shadwell, Thomas (1692) _The Volunteers_
-[^ref9]:
-[^ref10]:
-[^ref11]:
+[^ref4]: Kent Libraries and Archives, U269.
+[^ref5]: Bennett, Kate. 'Shadwell, Thomas (c. 1640–1692), playwright and poet.' _Oxford Dictionary of National Biography._ Oxford University Press. Date of access 31 Jan. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25195>
+[^ref6]: Kent Libraries and Archives, U269 C109/1.
+[^ref7]: Kent Libraries and Archives, U269 C109/2.
+[^ref8]: Bennett, Kate. 'Shadwell, Thomas (c. 1640–1692), playwright and poet.' _Oxford Dictionary of National Biography._ Oxford University Press. Date of access 31 Jan. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25195>
+[^ref9]: The Works of John Dryden: Illustrated, with Notes, Historical ..., Volume 10
+[^ref10]: Shadwell, Thomas (1692) _The Volunteers_
+[^ref11]: Kent Libraries and Archives, U269 C109/2
 [^ref12]:
-[^ref13]:
-[^ref14]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
-[^ref15]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. pp. 139-140. 
-[^ref16]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.146.
-[^ref17]:
-[^ref18]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.12.
-[^ref19]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.145.
-Laker, John (1917) _History of Deal_
+[^ref13]: Canterbury Parish Registers, 1538-1986.
+[^ref14]: Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University.
+[^ref15]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref16]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref17]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref18]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. pp. 139-140. 
+[^ref19]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.146.
+[^ref20]:
+[^ref21]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.12.
+[^ref22]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.145.
+[^ref23]: Laker, John (1917) _History of Deal_
 [^ref20]: Laker, John (1917) _History of Deal_
 [^ref21]:
 [^ref22]:
 [^ref23]:
-[^ref24]:
+[^ref14]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref25]:
-[^ref26]:
-[^ref27]:
-[^ref28]:
-[^ref29]:
-[^ref30]
-[^ref31]
-[^ref32]
-[^ref33]
-[^ref34]
-[^ref35]
-[^ref36]
-[^ref37]
-[^ref38]
-[^ref39]
-[^ref40]
-
-A 1689 pamphlet entitled the _The Quakers art of courtship, or, The Yea-and-nay academy of complements_ mentions the Naylorian Faith. Also mentions Bull-and-Mouth Faith
-
-
+[^ref26]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.162.  
+[^ref27]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.25.
+[^ref28]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.41.
+[^ref29]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.118.
+[^ref30]: 'A Letter from a Friend in Noddy Land' (1689), in _The Quakers art of courtship, or, The Yea-and-nay academy of complements_ p.48-9.
+[^ref31]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.21.
+[^ref32]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.34.
+[^ref33]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref34]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref35]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.20.
+[^ref36]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref37]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.
+[^ref38]: Peacock
+[^ref39]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.30.
+[^ref40]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ 
+[^ref41]: Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University. p17.
+[^ref42]: Shadwell, Thomas (1692) _The Volunteers_
+[^ref43]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref44]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref45]: 
+[^ref46]:
