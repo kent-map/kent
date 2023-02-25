@@ -17,8 +17,7 @@ Little is known about Charles Shadwell’s birth or childhood, but it is most li
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Thomas_Shadwell.jpg" label="Thomas Shadwell" attribution="University of Cambridge, Public domain, via Wikimedia Commons">
 
 Thomas Shadwell, whose first play _The Sullen Lovers_ (1668) was a runaway success became noted among court circles and attracted the patronage of poet and courtier Charles Sackville, Earl of Dorset and Lord Chamberlain. He was appointed poet laureate and historiographer at the Glorious Revolution in 1688 for which he received £300 per annum.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a3/John_Michael_Wright_%281617-1694%29_-_John_Dryden_-_NPG_6854_-_National_Portrait_Gallery.jpg" label="John Dryden" attribution="John Michael Wright, Public domain, via Wikimedia Commons">
-
+<br><br>
 Thomas Shadwell and the Earl of Dorset enjoyed life to excess (Dorset’s receipts reveal that he spent a lot of money on oysters and wine)[^ref4] and Nell Gwynn described them drinking ale together all day at the Duke's Theatre.[^ref5] Thomas received regular sums of money from the Earl, whose family seat was at Knole Park near Sevenoaks, and 'without your Lord’s generosity I could not have subsisted..'[^ref6] In May 1692,Thomas complained of 'a very painful fitt of the Gout'[^ref7], a condition from which he had been suffering for about four years and which had been brought on by rich living.[^ref8] Thomas began to take opium to ease the pain and died in November of that year after taking an overdose of opium, to which he had become addicted.[^ref9]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/63/Charles_Sackville%2C_6th_Earl_of_Dorset_by_Sir_Godfrey_Kneller%2C_Bt.jpg" label="Charles Sackville, 6th Earl of Dorset" attribution="Godfrey Kneller, Public domain, via Wikimedia Commons">
 
