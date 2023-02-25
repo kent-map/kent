@@ -154,7 +154,26 @@ Charles wrote further plays for the Smock Alley theatre as well as working for t
 [^ref19]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.145.
 Laker, John (1917) _History of Deal_
 [^ref20]: Laker, John (1917) _History of Deal_
-
+[^ref21]:
+[^ref22]:
+[^ref23]:
+[^ref24]:
+[^ref25]:
+[^ref26]:
+[^ref27]:
+[^ref28]:
+[^ref29]:
+[^ref30]
+[^ref31]
+[^ref32]
+[^ref33]
+[^ref34]
+[^ref35]
+[^ref36]
+[^ref37]
+[^ref38]
+[^ref39]
+[^ref40]
 
 A 1689 pamphlet entitled the _The Quakers art of courtship, or, The Yea-and-nay academy of complements_ mentions the Naylorian Faith. Also mentions Bull-and-Mouth Faith
 
