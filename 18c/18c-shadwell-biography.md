@@ -43,7 +43,7 @@ Worthy opens _The Fair Quaker_ with the words:
 <br><br>
 'Thank Heaven, I have at last reach'd my native Land. Cockswain, take care the Water be sent on Board with Expedition, and bid the Purser hasten to Dover for fresh Provisions, and let the sick men be set on Shore for the next trip.'[^ref16]
 <br><br>
-The decision to obtain fresh provisions from Dover is interesting. Until 1699, Deal was tied to the Cinque Port of Sandwich, as all corn and provisions had to sold by law at a market town, and so it was unable to supply fresh provisions to sailors, a subject which caused much distress. The townsmen complained:
+The decision to obtain fresh provisions from Dover is interesting. Until 1699, Deal was tied to the Cinque Port of Sandwich, as all corn and provisions had to be sold by law at a market town, and so it was unable to supply fresh provisions to sailors, a subject which caused much distress. The townsmen complained:
 <br><br>
 'Our being dependent on Sandwich for every article of food, places the people in a very great strait, incapacitates the ship agents and boatmen in sending daily supplies to the shipping and enhances the price, causing general complaint among the population'.[^ref17]
 <br><br>
