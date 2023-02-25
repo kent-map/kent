@@ -160,7 +160,7 @@ Charles wrote further plays for the Smock Alley theatre as well as working for t
 [^ref21]:
 [^ref22]:
 [^ref23]:
-[^ref14]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref24]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref25]:
 [^ref26]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.162.  
 [^ref27]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.25.
