@@ -136,7 +136,7 @@ Charles wrote further plays for the Smock Alley theatre in Dublin as well as wor
 
 ### References
 
-[^ref1]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref1]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.A3
 [^ref2]: Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University.
 [^ref3]: Kent Libraries and Archives, U269.
 [^ref4]: Bennett, Kate. 'Shadwell, Thomas (c. 1640–1692), playwright and poet.' _Oxford Dictionary of National Biography._ Oxford University Press. Date of access 31 Jan. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25195>
@@ -149,9 +149,9 @@ Charles wrote further plays for the Smock Alley theatre in Dublin as well as wor
 [^ref11]: "News." Post Boy, September 19, 1702 - September 22, 1702. Seventeenth and Eighteenth Century Burney Newspapers Collection, link.gale.com/apps/doc/Z2001401963/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=3de9fb94. Accessed 25 Feb. 2023.
 [^ref12]: Canterbury Parish Registers, 1538-1986.
 [^ref13]: Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University.
-[^ref14]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
-[^ref15]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
-[^ref16]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref14]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.A3
+[^ref15]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.A4
+[^ref16]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.11
 [^ref17]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.146.
 [^ref18]: Paula K. Watson, "The Commission for Victualling the Navy, the Commission for Sick and Wounded Seamen and the Prisoners of War and the Commission for Transport, 1702–1714," University of London PhD thesis, 1965.
 [^ref19]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.12. or p.145
@@ -166,20 +166,20 @@ Charles wrote further plays for the Smock Alley theatre in Dublin as well as wor
 [^ref28]: 'A Letter from a Friend in Noddy Land' (1689), in _The Quakers art of courtship, or, The Yea-and-nay academy of complements_ p.48-9.
 [^ref29]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.21.
 [^ref30]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.34.
-[^ref31]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
-[^ref32]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref31]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.62
+[^ref32]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.20
 [^ref33]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.20.
-[^ref34]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
-[^ref35]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.
+[^ref34]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.72.
+[^ref35]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.72.
 [^ref36]: [^ref43]: Wheatley, Christopher J. “Thomas Shadwell’s `The Volunteers’ and the Rhetoric of Honor and Patriotism.” ELH, vol. 60, no. 2, Summer 1993, p. 397. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=ibh&AN=9309166318&authtype=shib&site=ehost-live.
 [^ref37]: Peacock, J.H. (2005) 'Who was John Bartram? Literary and epistolary depictions of the Quaker', _Symbiosis: a Journal of Anglo-American Literary Relations_, 9(1), pp.29-44.
 [^ref38]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.30.
-[^ref39]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ 
+[^ref39]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.14
 [^ref40]: Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University. p17.
 [^ref41]: Shadwell, Thomas (1692) _The Volunteers_
 [^ref42]: Wheatley, Christopher J. “Thomas Shadwell’s `The Volunteers’ and the Rhetoric of Honor and Patriotism.” ELH, vol. 60, no. 2, Summer 1993, p. 397. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=ibh&AN=9309166318&authtype=shib&site=ehost-live.
 [^ref43]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
-[^ref44]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref44]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.A4
 [^ref45]: Report from G. Granville to queen, on the petition of Charles Shadwell, director of the hospital in Portugal,10 May 1711. National Archives
 [^ref46]: Shadwell, Charles (1713) _The Humours of the Army_ 
 [^ref47]: Shadwell, Charles (1713) _The Humours of the Army_ 
