@@ -181,6 +181,6 @@ Charles wrote further plays for the Smock Alley theatre in Dublin as well as wor
 [^ref43]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref44]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.A4
 [^ref45]: Report from G. Granville to queen, on the petition of Charles Shadwell, director of the hospital in Portugal,10 May 1711. National Archives
-[^ref46]: Shadwell, Charles (1713) _The Humours of the Army_ 
-[^ref47]: Shadwell, Charles (1713) _The Humours of the Army_ 
-[^ref48]: Shadwell, Charles (1713) _The Humours of the Army_ 
+[^ref46]: Shadwell, Charles (1713) 'Dedicatory Epistle', _The Humours of the Army_. 
+[^ref47]: Shadwell, Charles (1713) 'Dedication', _The Humours of the Army_ p.5
+[^ref48]: Shadwell, Charles (1713) 'Prologue spoke by Mr Booth' _The Humours of the Army_. 
