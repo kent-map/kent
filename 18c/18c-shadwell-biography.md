@@ -90,51 +90,50 @@ After Shadwell's comedic yet bleak introduction to Deal and its vices, the Fair 
 Dorcas invites Captain Worthy to visit her at the North End of town to renew his Vows of Sincerity. Not everyone is supportive of the Quaker presence in the town as Shadwell makes clear. Dorcas's sister Arabella says:
 <br><br>
 'Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.'[^ref29]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Catherine_Payton_Phillips.jpg" label="Caherine Payton Phillips, 1750 wearing Quaker cap">
-
+<br><br>
 Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and Arabella threatens to flirt with Worthy to annoy her sister. Another character, Jennie Private, impersonates Dorcas, saying: 
 <br><br>
 'Well, if I do not act the Babe of Grace, the formal Quaking Saint, with as much outside Sanctity, as a new enter'd Nun, or an old Mother Abbess, I'll be content to truss up like James Nailor'.[^ref30]
 <br><br>
 Jennie is referring to the occasion when Quaker James Nayler rode into Bristol in 1656 being hailed as Christ by a following of semi-clad women. 
-<br><br>
-It is evident that Shadwell understood prevailing attitudes to Quakerism. Rovewell says to Worthy's liuetenant, Sir Charles Pleasant, who is trying to convince Dorcas that Worthy is 'worthy': 'And when we have done that, good Sir, you may troop to the Bull and Mouth again, without this She Friend's Money'.[^ref31] The Bull and Mouth was a Quaker meeting house at St Martin Le Grand, London and Sir Charles is suggesting that Worthy will have to become a Quaker if he marries. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Catherine_Payton_Phillips.jpg" label="Caherine Payton Phillips, 1750 wearing Quaker cap">
 
 In the meantime, Mizen has ‘barbarous’ designs on Dorcas and declares,
 <br><br>
-'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen, I must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.[^ref32]  
+'Now you must know, if we once get her upon the Beach, I whip her into my Boat, carry her on Board, marry her, lie with her, then come ashore and demand her Fortune ; and after that, you know. if I don't like her, 'tis but heaving her out at the Cabbin-Window, and give out she had a Calenture, and so jump'd over-board. Well, dear Gentlemen, I must go and see about this Business ; for such a Fortune is not to be neglected, especially when a Peace is so near'.[^ref31]  
 <br>
 This reveals that Mizen wishes to marry for money, unlike Worthy whose motives are purer, to secure his future comforts. With peace anticipated in the War of the Spanish Succession, he fears a reduction in the size of the navy.
 <br><br>
-Worthy and Rovewell plot to set Mizen up with sex worker Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans.[^ref33] They agree to meet at Daniel’s (The India Arms) in an hour 'where we’ll take a sneaker of Amy’s Punch'.  
+Worthy and Rovewell plot to set Mizen up with sex worker Jenny Private to 'mortify him, but not ruin him' and go to warn Dorcas of Mizen’s vile plans.[^ref32] They agree to meet at Daniel’s (The India Arms) in an hour 'where we’ll take a sneaker of Amy’s Punch'.
+<br><br>
+Shadwell's depiction of Dorcas is one of the first representations of a Quaker heroine, but it is one of inconsistency as Dorcas renounces her faith 'to make our marriage yoke more cheerful still, from this Bless’d hour I’ll join thy holy worship.'[^ref33] Worthy is pleased by her conversion but Mizen tells him not to be too proud of his achievements as 'Flip and I have there outdone you, you have only made a Sister Convert from one Faith to another, but we have converted a fair Brace of Infidels, a Work of Reformation far beyond you' (referring to the sex workers he has paid off).[^ref34] Wheatley (1993) believes that post-Restoration comedy reduced loyalty and patriotism to abstractions.[^ref35] Peacock (2005) suggests that Dorcas represents 'a national ideal of a dependable and immutable Protestant Great Britain' which is in contrast to the foppish Mizen who represents 'a minatory, incipient Catholicism'.[^ref36] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Jane_Pope_as_Dorcas_Zeal_in_%22The_Fair_Quaker_of_Deal%22_-_DPLA_-_696937be8e3e8366b5247f8a2bdb7ceb.jpg" label="Jane Pope as Docas Zeal in the Fair Quaker of Deal" attribution="University Library, University of Illinois UrbanaChampaign, Public domain, via Wikimedia Commons">
 
-Shadwell's depiction of Dorcas is one of the first representations of a Quaker heroine, but it is one of inconsistency as Dorcas renounces her faith 'to make our marriage yoke more cheerful still, from this Bless’d hour I’ll join thy holy worship.'[^ref34] Worthy is pleased by her conversion but Mizen tells him not to be too proud of his achievements as 'Flip and I have there outdone you, you have only made a Sister Convert from one Faith to another, but we have converted a fair Brace of Infidels, a Work of Reformation far beyond you' (referring to the sex workers he has paid off).[^ref35] Wheatley (1993) believes that post-Restoration comedy reduced loyalty and patriotism to abstractions.[^ref36] Peacock (2005) suggests that Dorcas represents 'a national ideal of a dependable and immutable Protestant Great Britain' which is in contrast to the foppish Mizen who represents 'a minatory, incipient Catholicism'.[^ref37] 
-
-Shadwell's play certainly operates on many levels with religion and the reform of the navy as two of its dominant themes. The foppish Mizen says '.. you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.'[^ref38] (p.30) Flip, a commodore, offers a contrasting view point, harking back to the past and bemoaning the lack of commitment of the foppish gentleman captains, arguing that:
+Shadwell's play certainly operates on many levels with religion and the reform of the navy as two of its dominant themes. The foppish Mizen says '.. you shall see in a few Months, how the Navy will be reform’d; all the Sea-Officers will be so full of Manners, that they shall look like a parcel of Beaus in a Side-box, or Chocolate house.'[^ref37] (p.30) Flip, a commodore, offers a contrasting view point, harking back to the past and bemoaning the lack of commitment of the foppish gentleman captains, arguing that:
 <br><br>
 “Oh! It was not so in the Dutch Wars, then we valu’d ourselves upon Wooden Legs, and Stumps of Arms, and fought as if Heaven and Earth was coming together”. 
 <br><br>
 Rovewell contradicts him saying:
 <br><br>
-'Yes, yes, you fought very gloriously, when you let the Dutch burn the fleet at Chatham'.[^ref39]
+'Yes, yes, you fought very gloriously, when you let the Dutch burn the fleet at Chatham'.[^ref38]
 <br><br>
 The Dutch had attacked English warships lying at anchor off Chatham and Gillingham during the [Raid on the Medway](/17c/17c-sheppey-at-war) in June 1667.
 Flip defends the navy, blaming 'the Treachery of some Rogues at Land' (the local people flew in fear when they saw the warships), but his reverance for the navy of the past is ridiculed.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Raid_on_the_Medway_by_Willem_Schellinks_Rijksmuseum_Amsterdam_SK-C-1737.jpg" label="The raid on the Medway" attribution="by Willem Schellinks, Rijksmuseum, CC0, via Wikimedia Commons">
 
-Shadwell challenges prevailing views of the military in _The Fair Quaker_. Schenk (1913) argues that Shadwell believed in the 'moral purpose' of the theatre [^ref40] which contrasted with his father's more politically motivated comedy _The Volunteers_ (1692). However although Thomas's characters such as Major General Blunt, 'an old Cavalier officer, somewhat rough in speech, but brave and honest' and Welford 'a brave young Gentlemen, a Volunteer of a good estate, who has gotten more honours in the late war'[^ref41] are described as heroic there are ambiguities and anomalies which Wheatley (1993) believes is 'as a result of the rhetoric situation that faced Shadwell'[^ref42]. Thomas Shadwell, was a Whig whose political allegiances influenced his writing, Charles's ties to party were not as strong, as is revealed in the words of Worthy's lieutenant in _The Fair Quaker of Deal_: 'Faith, the poets of this age are not so poor as those of the last, they have wit enough to write themselves into good places'.[^ref43] 
-
-Nevertheless Shadwell's position in the excise was most likely obtained through connections and had he flattered his Kentish patrons more explicity by name he might have enjoyed further patronage and a career in London. It can be no coincidence that his father's play 'The Woman Captain' was revived the week after _The Fair Quaker_ revealing that Charles had important theatre connections. However, Charles's army commitments drew him away from London; he wrote, 'I am call'd in haste to my Duty in Portugal, but, at my Return it is probable, I may be as insolent as the rest of the Scribblers of the Town'.[^ref44]  In 1711, George Granville, Secretary at War, received a petition from Charles Shadwell 'director of the hospital in Portugal' which was conveyed to Queen Anne.[^ref45] This reveals the type of work Shadwell undertook in the army.
+Shadwell challenges prevailing views of the military in _The Fair Quaker_. Schenk (1913) argues that Shadwell believed in the 'moral purpose' of the theatre [^ref39] which contrasted with his father's more politically motivated comedy _The Volunteers_ (1692). However although Thomas's characters such as Major General Blunt, 'an old Cavalier officer, somewhat rough in speech, but brave and honest' and Welford 'a brave young Gentlemen, a Volunteer of a good estate, who has gotten more honours in the late war'[^ref40] are described as heroic there are ambiguities and anomalies which Wheatley (1993) believes is 'as a result of the rhetoric situation that faced Shadwell'[^ref41]. Thomas Shadwell, was a Whig whose political allegiances influenced his writing, Charles's ties to party were not as strong, as is revealed in the words of Worthy's lieutenant in _The Fair Quaker of Deal_: 'Faith, the poets of this age are not so poor as those of the last, they have wit enough to write themselves into good places'.[^ref42] 
+<br><br>
+Nevertheless Shadwell's position in the excise was most likely obtained through connections and had he flattered his Kentish patrons more explicity by name he might have enjoyed further patronage and a career in London. It can be no coincidence that his father's play 'The Woman Captain' was revived the week after _The Fair Quaker_ revealing that Charles had important theatre connections. However, Charles's army commitments drew him away from London; he wrote, 'I am call'd in haste to my Duty in Portugal, but, at my Return it is probable, I may be as insolent as the rest of the Scribblers of the Town'.[^ref43]  In 1711, George Granville, Secretary at War, received a petition from Charles Shadwell 'director of the hospital in Portugal' which was conveyed to Queen Anne.[^ref44] This reveals the type of work Shadwell undertook in the army.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Closterman%2C_John_-_Queen_Anne_-_NPG_215.jpg" label="Queen Anne c. 1702" attribution="National Portrait Gallery, Workshop of John Closterman, Public domain, via Wikimedia Commons">
 
-On his return to England, Charles wrote another play _The Humours of the Army_ (1713) which was performed six times, and had a revival three years later. It was dedicated to to Major General Newton who Charles praises for 'Your Conduct and Management in our Expedition into Spain, at a dismal Season; with a sick Army, and great Scarcity of Provisions; not only our own Forces, but the Portuguese Generals, would join with me in saying You acted Miracles'.[^ref46] Newton was appointed Governor of Londonderry and this may have influenced Shadwell's move to Ireland after this.
+On his return to England, Charles wrote another play _The Humours of the Army_ (1713) which was performed six times, and had a revival three years later. It was dedicated to to Major General Newton who Charles praises for 'Your Conduct and Management in our Expedition into Spain, at a dismal Season; with a sick Army, and great Scarcity of Provisions; not only our own Forces, but the Portuguese Generals, would join with me in saying You acted Miracles'.[^ref45] Newton was appointed Governor of Londonderry and this may have influenced Shadwell's move to Ireland after this.
 <br><br>
-Shadwell worked as an assurance broker in William Street, Dublin, but after two years he returned to playwriting, explaining to his patron, Lady Newton, that a change of circumstances 'drew me in to be a Poet in order to help out a small income towards the support of my family.' He said: 'Poetry is a science, I do not nor dare not Value myself upon; I may say with my father, “It was not a Harbour I chose, but a Rock I split upon"'.[^ref47] Charles had to seek new patrons such as the Newtons as a result of the new political landscape, which is revealed in the Prologue of _The Humours of the Army_.
+Shadwell worked as an assurance broker in William Street, Dublin, but after two years he returned to playwriting, explaining to his patron, Lady Newton, that a change of circumstances 'drew me in to be a Poet in order to help out a small income towards the support of my family.' He said: 'Poetry is a science, I do not nor dare not Value myself upon; I may say with my father, “It was not a Harbour I chose, but a Rock I split upon"'.[^ref46] Charles had to seek new patrons such as the Newtons as a result of the new political landscape, which is revealed in the Prologue of _The Humours of the Army_.
 <br><br>
-In former Days, e're Party rag'd so high, The Theatre's claim'd the Monopoly Of wit, to grace the British Comedy. Now Wit and Satyr spent in Pamphlet wars Labour each Hour to inflame our Party-Jarrs; Forsake their ancient Mart, the Comic Scene, And raise our Mirth no more, but feed our Spleen. Hopeless to make the Fugitives return, Our Author only can their Absence mourn. He nor to Wit, nor Satyr, dares pretend, But much upon his Humour does depend'.[^ref48]
+In former Days, e're Party rag'd so high, The Theatre's claim'd the Monopoly Of wit, to grace the British Comedy. Now Wit and Satyr spent in Pamphlet wars Labour each Hour to inflame our Party-Jarrs; Forsake their ancient Mart, the Comic Scene, And raise our Mirth no more, but feed our Spleen. Hopeless to make the Fugitives return, Our Author only can their Absence mourn. He nor to Wit, nor Satyr, dares pretend, But much upon his Humour does depend'.[^ref47]
 <br><br>
 Charles wrote further plays for the Smock Alley theatre in Dublin as well as working for the revenue and died in 1726.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/25/Hogarth-rehearsal_%282%29.png" label="A Just View of the British Stage, 1724" attribution="William Hogarth, Public domain, via Wikimedia Commons">
 
 ### References
 
@@ -168,21 +167,20 @@ Charles wrote further plays for the Smock Alley theatre in Dublin as well as wor
 [^ref28]: 'A Letter from a Friend in Noddy Land' (1689), in _The Quakers art of courtship, or, The Yea-and-nay academy of complements_ p.48-9.
 [^ref29]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.21.
 [^ref30]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.34.
-[^ref31]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.62
-[^ref32]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.20
-[^ref33]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.20.
+[^ref31]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.20
+[^ref32]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.20.
+[^ref33]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.72.
 [^ref34]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.72.
-[^ref35]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.72.
-[^ref36]: [^ref43]: Wheatley, Christopher J. “Thomas Shadwell’s `The Volunteers’ and the Rhetoric of Honor and Patriotism.” ELH, vol. 60, no. 2, Summer 1993, p. 397. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=ibh&AN=9309166318&authtype=shib&site=ehost-live.
-[^ref37]: Peacock, J.H. (2005) 'Who was John Bartram? Literary and epistolary depictions of the Quaker', _Symbiosis: a Journal of Anglo-American Literary Relations_, 9(1), pp.29-44.
-[^ref38]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.30.
-[^ref39]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.14
-[^ref40]: Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University. p17.
-[^ref41]: Shadwell, Thomas (1692) _The Volunteers_
-[^ref42]: Wheatley, Christopher J. “Thomas Shadwell’s `The Volunteers’ and the Rhetoric of Honor and Patriotism.” ELH, vol. 60, no. 2, Summer 1993, p. 397. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=ibh&AN=9309166318&authtype=shib&site=ehost-live.
-[^ref43]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
-[^ref44]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.A4
-[^ref45]: Report from G. Granville to queen, on the petition of Charles Shadwell, director of the hospital in Portugal,10 May 1711. National Archives
-[^ref46]: Shadwell, Charles (1713) 'Dedicatory Epistle', _The Humours of the Army_. 
-[^ref47]: Shadwell, Charles (1713) 'Dedication', _The Humours of the Army_ p.5
-[^ref48]: Shadwell, Charles (1713) 'Prologue spoke by Mr Booth' _The Humours of the Army_. 
+[^ref35]: [^ref43]: Wheatley, Christopher J. “Thomas Shadwell’s `The Volunteers’ and the Rhetoric of Honor and Patriotism.” ELH, vol. 60, no. 2, Summer 1993, p. 397. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=ibh&AN=9309166318&authtype=shib&site=ehost-live.
+[^ref36]: Peacock, J.H. (2005) 'Who was John Bartram? Literary and epistolary depictions of the Quaker', _Symbiosis: a Journal of Anglo-American Literary Relations_, 9(1), pp.29-44.
+[^ref37]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.30.
+[^ref38]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.14
+[^ref39]: Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University. p17.
+[^ref40]: Shadwell, Thomas (1692) _The Volunteers_
+[^ref41]: Wheatley, Christopher J. “Thomas Shadwell’s `The Volunteers’ and the Rhetoric of Honor and Patriotism.” ELH, vol. 60, no. 2, Summer 1993, p. 397. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=ibh&AN=9309166318&authtype=shib&site=ehost-live.
+[^ref42]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref43]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.A4
+[^ref44]: Report from G. Granville to queen, on the petition of Charles Shadwell, director of the hospital in Portugal,10 May 1711. National Archives
+[^ref45]: Shadwell, Charles (1713) 'Dedicatory Epistle', _The Humours of the Army_. 
+[^ref46]: Shadwell, Charles (1713) 'Dedication', _The Humours of the Army_ p.5
+[^ref47]: Shadwell, Charles (1713) 'Prologue spoke by Mr Booth' _The Humours of the Army_. 
