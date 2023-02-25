@@ -66,6 +66,12 @@ Feminist actor, writer and playwright, Cicely Hamilton co wrote the popular suff
 
 Playwright, author and courtier, John Lyly was a Kentishman famed for his euphuistic writing.
 
+## Charles Shadwell {href=/18c/18c-shadwell-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff1d90fe-ce99-46f4-af0a-657279e644f4)
+
+Charles Shadwell wrote A Fair Quaker of Deal whilst he was working as supervisor of excise for Kent, a bawdy play of what sailors get up to after a long trip abroad.
+
 ## Ellen Terry {href=/20c/20c-terry-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8106c5f4-37f3-4526-afe4-5fd40ef48d05)
