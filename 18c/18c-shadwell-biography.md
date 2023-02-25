@@ -2,6 +2,9 @@
 <param ve-config title="Charles Shadwell (1672-5? – 1726)" author="Michelle Crowther" layout="vtl" 
 banner="/images/banners/18c.jpg">
 
+<param ve-entity eid="Q1285144" aliases="Knole">
+<param ve-entity eid="Q179224" aliases="Dover">
+
 <!-- Kent with map centered at Deal -->
 <param ve-map center="Q1011096" zoom="15">
 
@@ -121,7 +124,7 @@ Nevertheless Shadwell's position in the excise was most likely obtained through 
 
 On his return to England, Charles wrote another play _The Humours of the Army_ (1713) which was performed six times, and had a revival three years later. It was dedicated to to Major General Newton who Charles praises for 'Your Conduct and Management in our Expedition into Spain, at a dismal Season; with a sick Army, and great Scarcity of Provisions; not only our own Forces, but the Portuguese Generals, would join with me in saying You acted Miracles'.[^ref45] Newton was appointed Governor of Londonderry and this may have influenced Shadwell's move to Ireland at this period.
 <br><br>
-Shadwell worked as an assurance broker in William Street, Dublin, but after two years he returned to playwriting, explaining to his patron, Lady Newton, that a change of circumstances “drew me in to be a Poet in order to help out a small income towards the support of my family.” He said: “Poetry is a science, I do not nor dare not Value myself upon; I may say with my father, “It was not a Harbour I chose, but a Rock I split upon".[^ref46] Charles had to seek new patrons such as the Newtons as patronage of the theatre was changing as a result of the new political landscape: 
+Shadwell worked as an assurance broker in William Street, Dublin, but after two years he returned to playwriting, explaining to his patron, Lady Newton, that a change of circumstances 'drew me in to be a Poet in order to help out a small income towards the support of my family.' He said: 'Poetry is a science, I do not nor dare not Value myself upon; I may say with my father, “It was not a Harbour I chose, but a Rock I split upon"'.[^ref46] Charles had to seek new patrons such as the Newtons as patronage of the theatre was changing as a result of the new political landscape: 
 <br><br>
 In former Days, e're Party rag'd so high, The Theatre's claim'd the Monopoly Of wit, to grace the British Comedy. Now Wit and Satyr spent in Pamphlet wars Labour each Hour to inflame our Party-Jarrs; Forsake their ancient Mart, the Comic Scene, And raise our Mirth no more, but feed our Spleen. Hopeless to make the Fugitives return, Our Author only can their Absence mourn. He nor to Wit, nor Satyr, dares pretend, But much upon his Humour does depend'.
 <br><br>
