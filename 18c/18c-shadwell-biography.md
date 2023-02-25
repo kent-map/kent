@@ -4,6 +4,7 @@ banner="/images/banners/18c.jpg">
 
 <param ve-entity eid="Q1285144" aliases="Knole">
 <param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q729006" aliases="Chatham">
 
 'To my GENEROUS and OBLIGING FRIENDS OF THE County of KENT.   
 <br>
@@ -82,7 +83,7 @@ At the end of the first act, Mr Norris, the coxswain and a sailor are discussing
 'Ay, and so be clap'd : If he would force the Surgeon to cure us at the Government's Charge, it would be a mighty Encouragement to us; but our Rogue of a Loblolly Doctor, being not satisfied with his Twopences, must have a Note for two Months Pay for every Cure; and the last time the Ship was paid, between the Officers, and the Sailors, he swept above half the Ship's Company's Money into his own Hat',[^ref25]
 <br><br>
 A fine was imposed on sailors by the Navy for treating venereal diseases at this period unlike the nineteenth century [Contagious Diseases Acts](/19c/19c-contagious-diseases) when women were stigmatised for the spread of venereal diseases.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/58/Men_of_war_caricature_1791.jpg" label="Men of War, caricature of sailors and prostitutes with the "Chatham to Gravesend tide coach" in the background. Published 1791" attribution="Scanned by H. Churchyard, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/58/Men_of_war_caricature_1791.jpg" label="Men of War, caricature of sailors and prostitutes with the Chatham to Gravesend tide coach in the background. Published 1791" attribution="Scanned by H. Churchyard, Public domain, via Wikimedia Commons">
 
 After Shadwell's comedic yet bleak introduction to Deal and its vices, the Fair Quaker, Dorcas Zeal, presents a purer and contrasting side to life in the town. Deal in the late 17th century was a town of around 3000 inhabitants[^ref26] and had a Quaker community from at least the 1650s.[^ref27] In a 1689 pamphlet entitled 'A Letter from a Friend in Noddy Land', prevailing attitudes to Quakerism are revealed: 'We took in divers Passengers as we passed down the Channel, some of which I shall name unto thee, because they may be of great use unto us in this place; there was (let me see) Humh—Thomas Giddybrains, Arthur Holderforth, Geofery Crackwit, Marmaduke Featherpate, and Humphrey Shakenoddle; besides some She-Friends that freely offered themselves with much chearfulness to accompany the Brethren into any Region whatsoever, for the sake of Propagating the Bull-and-Mouth Strain (i.e. Quakerism).[^ref28]
 <br><br>
