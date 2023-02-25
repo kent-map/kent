@@ -146,19 +146,19 @@ Charles wrote further plays for the Smock Alley theatre in Dublin as well as wor
 [^ref8]: The Works of John Dryden: Illustrated, with Notes, Historical ..., Volume 10
 [^ref9]: Shadwell, Thomas (1692) _The Volunteers_
 [^ref10]: Kent Libraries and Archives, U269 C109/2
-[^ref11]
+[^ref11]: "News." Post Boy, September 19, 1702 - September 22, 1702. Seventeenth and Eighteenth Century Burney Newspapers Collection, link.gale.com/apps/doc/Z2001401963/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=3de9fb94. Accessed 25 Feb. 2023.
 [^ref12]: Canterbury Parish Registers, 1538-1986.
 [^ref13]: Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University.
 [^ref14]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref15]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref16]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref17]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.146.
-[^ref18]: 
+[^ref18]: Paula K. Watson, "The Commission for Victualling the Navy, the Commission for Sick and Wounded Seamen and the Prisoners of War and the Commission for Transport, 1702–1714," University of London PhD thesis, 1965.
 [^ref19]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.12. or p.145
 [^ref20]: Laker, John (1917) _History of Deal_
 [^ref21]: Laker, John (1917) _History of Deal_
 [^ref22]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
-[^ref23]:
+[^ref23]: Dover Kent Archives website http://www.dover-kent.com/India-Arms-Deal.html
 [^ref24]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.162.  #
 [^ref25]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.25.
 [^ref26]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.41.
@@ -172,7 +172,7 @@ Charles wrote further plays for the Smock Alley theatre in Dublin as well as wor
 [^ref34]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref35]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.
 [^ref36]: [^ref43]: Wheatley, Christopher J. “Thomas Shadwell’s `The Volunteers’ and the Rhetoric of Honor and Patriotism.” ELH, vol. 60, no. 2, Summer 1993, p. 397. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=ibh&AN=9309166318&authtype=shib&site=ehost-live.
-[^ref37]: Peacock
+[^ref37]: Peacock, J.H. (2005) 'Who was John Bartram? Literary and epistolary depictions of the Quaker', _Symbiosis: a Journal of Anglo-American Literary Relations_, 9(1), pp.29-44.
 [^ref38]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.30.
 [^ref39]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ 
 [^ref40]: Schenk, T. (1913) Charles Shadwell: his comedy _The Fair Quaker of Deal_ Phd. Berne University. p17.
@@ -180,7 +180,7 @@ Charles wrote further plays for the Smock Alley theatre in Dublin as well as wor
 [^ref42]: Wheatley, Christopher J. “Thomas Shadwell’s `The Volunteers’ and the Rhetoric of Honor and Patriotism.” ELH, vol. 60, no. 2, Summer 1993, p. 397. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=ibh&AN=9309166318&authtype=shib&site=ehost-live.
 [^ref43]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref44]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
-[^ref45]: 
-[^ref46]:
-[^ref47]:
-[^ref48]:
+[^ref45]: Report from G. Granville to queen, on the petition of Charles Shadwell, director of the hospital in Portugal,10 May 1711. National Archives
+[^ref46]: Shadwell, Charles (1713) _The Humours of the Army_ 
+[^ref47]: Shadwell, Charles (1713) _The Humours of the Army_ 
+[^ref48]: Shadwell, Charles (1713) _The Humours of the Army_ 
