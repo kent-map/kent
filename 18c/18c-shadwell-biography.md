@@ -47,7 +47,7 @@ Worthy opens _The Fair Quaker_ with the words:
 <br><br>
 'Thank Heaven, I have at last reach'd my native Land. Cockswain, take care the Water be sent on Board with Expedition, and bid the Purser hasten to Dover for fresh Provisions, and let the sick men be set on Shore for the next trip.'[^ref17]
 <br><br>
-'Wholesome water' would have been obtained from North Wall.[^ref18] The decision to obtain fresh provisions from Dover is interesting. Until 1699, Deal was tied to the Cinque Port of Sandwich, as all corn and provisions had to sold by law at a market town, and so it was unable to supply fresh provisions to sailors, a subject which caused much distress. The townsmen complained: 'our being dependent on Sandwich for every article of food, places the people in a very great strait, incapacitates the ship agents and boatmen in sending daily supplies to the shipping and enhances the price, causing general complaint among the population'.[^ref19]
+The decision to obtain fresh provisions from Dover is interesting. Until 1699, Deal was tied to the Cinque Port of Sandwich, as all corn and provisions had to sold by law at a market town, and so it was unable to supply fresh provisions to sailors, a subject which caused much distress. The townsmen complained: 'our being dependent on Sandwich for every article of food, places the people in a very great strait, incapacitates the ship agents and boatmen in sending daily supplies to the shipping and enhances the price, causing general complaint among the population'.[^ref19]
 <br><br>
 In 1700, Deal appointed a committee to obtain a Charter of Incorporation which it obtained under the reign of William III, enabling it to sell its own provisions.  The victualling yard for the Royal Navy was at the Maison Dieu in Dover, which had a 'small cooperage, bakehouse and slaughterhouse, but no brewhouse', however they provided food such as ships' biscuits and cured pork designed for long voyages and hardly 'fresh'.[^ref20] Whether Shadwell was mistaken in his choice of Dover for fresh provisions or was in fact indicating that a sailor after a long sea voyage would not have been aware of the local wranglings about the sale of fresh provisions is uncertain.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Anonymous_-_The_Maison_Dieu%2C_Dover_-_B1977.14.1673_-_Yale_Center_for_British_Art.jpg" label="The Maison Dieu, Dover, 1836" attribution="Yale Center for British Art, CC0, via Wikimedia Commons">
@@ -149,7 +149,6 @@ Charles wrote further plays for the Smock Alley theatre as well as working for t
 [^ref15]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref16]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
 [^ref17]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
-[^ref18]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. pp. 139-140. 
 [^ref19]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.146.
 [^ref20]:
 [^ref21]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.12.
