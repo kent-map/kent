@@ -81,6 +81,7 @@ After Shadwell's comedic yet bleak introduction to Deal and its vices, the Fair 
 Dorcas invites Captain Worthy to visit her at the North End of town to renew his Vows of Sincerity. Not everyone is supportive of the Quaker presence in the town as Shadwell makes clear. Dorcas's sister Arabella says:
 <br><br>
 'Why, Sister, do you ever think to secure Worthy to yourself, with that senseless religion of your’s. He’ll certainly laugh at the Pleats and Folds of your Sarsnet Hood, and the diminuative air of your flat Cap.'[^ref32] (p21)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Catherine_Payton_Phillips.jpg" label="Caherine Payton Phillips, 1750 wearing Quaker cap">
 
 Dorcas accuses her sister of being 'of the Church belonging to the Wicked' and Arabella threatens to flirt with Worthy to annoy her sister. Another character, Jennie Private, impersonates Dorcas, saying: 
 <br><br>
