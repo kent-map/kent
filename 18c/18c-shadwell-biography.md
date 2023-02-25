@@ -56,9 +56,9 @@ On landing, Worthy sees his friend Rovewell, a gentlemen of fortune and asks 'Bu
 <br><br>
 'Why the few virtuous Women are as proud and as insolent as they us'd to be, and the Whores you left here about ten Months since, are dead with Rottenesss, and young Strums supply their Rooms. This is a monstrous Place for Wickedness! Fornication flourishes more here than in any Sea Port of Europe'.[^ref19]
 <br><br>
-Shadwell’s description of Deal as seen through the eyes of his character Rovewell, has an air of authenticity. In 1703, mayor of Deal, Thomas Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.'
+Shadwell’s description of Deal as seen through the eyes of his character Rovewell, has an air of authenticity. In 1703, mayor of Deal, Thomas Powell describes how he 'parlayed' with a common prostitute who was brought to the whipping post to let all others like her know that '…The Mayor of Deal would serve them as he served her if they came to Deal and committed such wicked deeds as she had done.'[^ref20]
 <br><br>
-Despite the best efforts of the townsmen of Deal to 'suppress many disorders',[^ref20] the town continued to have a reputation, and Daniel Defoe described it as 'that fatal town': 'the barbarous shores with men and boats abound - The men more barbarous than the shores are found' (_The Storm_, 1704).[^ref21] ,
+Despite the best efforts of the townsmen of Deal to 'suppress many disorders' the town continued to have a reputation, and Daniel Defoe described it as 'that fatal town': 'the barbarous shores with men and boats abound - The men more barbarous than the shores are found' (_The Storm_, 1704).[^ref21] ,
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5c/North_Foreland_-_Deal_-_btv1b53010670p.jpg" label="North Foreland, Deal, c. 18-19c" attribution="Bibliothèque nationale de France, Public domain, via Wikimedia Commons">
 
 The dissolute behaviour of Deal women and the visiting sailors continues to be a theme throughout the play and Shadwell refers to several pubs which are known to have existed at this time. Flip lodges at the Three Mariners, which Mizen, one of the foppish gentlemen captains, assumes to be a house of ill-repute:
@@ -155,11 +155,11 @@ Charles wrote further plays for the Smock Alley theatre in Dublin as well as wor
 [^ref17]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.146.
 [^ref18]: Paula K. Watson, "The Commission for Victualling the Navy, the Commission for Sick and Wounded Seamen and the Prisoners of War and the Commission for Transport, 1702–1714," University of London PhD thesis, 1965.
 [^ref19]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.12. or p.145
-[^ref20]: Laker, John (1917) _History of Deal_
-[^ref21]: Laker, John (1917) _History of Deal_
-[^ref22]: Shadwell, Charles (1710) _The Fair Quaker of Deal_
+[^ref20]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.162. 
+[^ref21]: Laker, John (1917) _History of Deal_ p.255.
+[^ref22]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.28.
 [^ref23]: Dover Kent Archives website http://www.dover-kent.com/India-Arms-Deal.html
-[^ref24]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.162.  #
+[^ref24]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.162. 
 [^ref25]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.25.
 [^ref26]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.41.
 [^ref27]: Pritchard, Stephen (1864) _The History of Deal and its neighbourhood._ Deal: V.E. Hayward. p.118.
