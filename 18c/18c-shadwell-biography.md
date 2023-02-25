@@ -40,7 +40,7 @@ Shadwell jokes to his patrons in the dedication of _The Fair Quaker of Deal_  't
 
 'The Fair Quaker of Deal' was performed at Drury Lane Theatre, London in 1710. 
 <br><br>
-In Act 1 scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad as part of the Virginia Fleet, which was involved in the Atlantic slave trade. The Downs was the water between Deal and the [Goodwins Sands](/dickens/david-copperfield-goodwin-sands/) which provided a natural anchorage for ships waiting for a good wind. There were sometimes 300- 400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell](/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. 
+In Act 1 scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad as part of the Virginia Fleet, which was involved in the Atlantic slave trade. The Downs is the water between Deal and the [Goodwins Sands](/dickens/david-copperfield-goodwin-sands/) which provides a natural anchorage for ships waiting for a good wind. There were sometimes 300- 400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell](/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/English_warships_at_anchor_in_a_calm%2C_drying_sails_RMG_BHC1009.tiff" label="English warships at anchor in a calm, drying sails" attribution="Peter Monamy, Public domain, via Wikimedia Commons">
 
 Worthy opens _The Fair Quaker_ with the words:
