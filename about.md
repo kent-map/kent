@@ -137,6 +137,12 @@ Carla Danella has a BA from Wellesley College (in the US) and recently completed
 
 Laurie Duggan was born in Melbourne and was involved in the poetry worlds of that city and Sydney through the 1970s and 80s. In 2006 he moved to England, living in Faversham, Kent until 2018 when he returned to Sydney.  His most recent books are Homer Street (Giramondo 2020), Selected Poems 1971-2017 (Shearsman 2018), No Particular Place To Go (Shearsman 2017).
 
+## Martin Edwards
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/55c37261-02ab-4949-81eb-9db6a6e08547)
+
+Martin Edwards’ 21 novels include the Lake District Mysteries and the Rachel Savernake books, most recently Sepulchre Street, as well as an acclaimed history of crime fiction, The Life of Crime. He received the CWA Diamond Dagger for the sustained excellence of his work. He has also won the Edgar, Agatha, CrimeFest H.R.F. Keating and Macavity awards, the Short Story Dagger and Dagger in the Library, plus the Poirot award for his outstanding contribution to the genre.
+
 ## Nick Evans
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/13729e93-a1e8-40aa-a707-31aa49bbb69d)
