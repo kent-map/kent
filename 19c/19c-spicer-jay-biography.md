@@ -5,9 +5,7 @@
 <param ve-entity eid="Q7501508" aliases="Shorncliffe Camp">
 
 #
-
-**Place:** Sandgate, Shorncliffe Barracks   
-**Pseudonym:**  E. Livingston(e) Prescott   
+ 
 Edith Katherine Spicer Jay, a writer of popular military tales, lived in [Sandgate](/placesqz/sandgate-overview) during the last ten years of her life.  Miss Jay, who wrote under the pseudonym E. Livingston Prescott was the daughter of a Scottish barrister and grew up in a large house in Norfolk Street, Park Lane, London. With five great uncles who had served in the military, and in her role as the Honourable Lady Superintendent of the London Soldiers’ Home and Guards’ Home, she was well placed to hear stories of military heroism and barrack-room life.[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/02/Sandgate%2C_Kent_%28BM_1892%2C0714.10%29.jpg" label="Sandgate, 1892" attribution="British Museum, Public domain, via Wikimedia Commons"> 
 
