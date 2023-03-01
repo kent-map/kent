@@ -1,4 +1,10 @@
-Romney Marsh and Sepulchre Street – Martin Edwards
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="Romney Marsh and Sepulchre Street" author="Martin Edwards" layout="vtl" banner="/images/banners/21c.jpg">
+
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+
+#
+
 Romney Marsh has come to fascinate me, yet five years ago I had never set foot there. The turning point came the first time I was invited to take part in the Rye Arts Festival, I spent a few days touring the area and discovered the Marsh. Its eerie quality made a great impression on me and a couple of years later I was invited back to the Festival, which gave me a chance to explore further. I was very taken by Rye itself and decided it should become a key setting for the fourth novel in my Rachel Savernake series, _Sepulchre Street_. It wasn’t long before I figured out how to weave Romney Marsh into the story as well.
 
 The novel is set in 1931 and the storyline required scenes in a remote rural area where strange goings-on might remain undetected. The Marsh seemed to fit the bill admirably, a view reinforced once I read Russell Thorndike’s famous smuggling novel set just over the Kent border, _Doctor Syn_. I was lucky enough to lay my hands on a first edition which Thorndike inscribed with a line taken from a rhyme that appears from the novel:
