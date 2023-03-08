@@ -244,14 +244,6 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition who come in search of a venue for an “open-air freakout,” and find a beach with white cliffs. 
 
-
-## In Margate by Lunchtime {href=21c/21c-margate-lunchtime}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/eliot5.JPG)
-
-There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice, hard, with the back of his fist. ‘Oi Gary!’ she shouted again. ‘Do you wanna ride or not?’ Gary did a quick shufti round to see if it was him she was hailing.
-
-
 ## Miss Balmaine's Past {href=19c/19c-croker-missbalmaine}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg)
