@@ -130,11 +130,18 @@ Seaside resorts such as Ramsgate and Sandgate.
 
 # Essays by theme {.cards}
 
-## Seascapes {href=seascape}
+## Actors and Theatres {href=theatre}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d)
 
-The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
+Actors have made Kent their home, playwrights have used it as a setting, and theatrical companies have performed in its theatres.
+
+
+## Artists and Illustrators {href=artists}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301)
+
+Painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 
 
 ## Landscapes {href=landscape}
@@ -144,35 +151,11 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
 
-## The Garden of England {href=garden}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/af58512e-cbf4-4f26-8776-3560de893011)
-
-Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth, Kent is known as the ‘Garden of England’ due its rich agricultural history.
-
-## Actors and Theatres {href=theatre}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d)
-
-Actors have made Kent their home, playwrights have used it as a setting, and theatrical companies have performed in its theatres.
-
-## Artists and Illustrators {href=artists}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301)
-
-Painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
-
 ## Mathematicians and Scientists {href=science}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
 
 Botanists, chemists and naturalists abound in the beautiful garden of England.
-
-## The Built Environment {href=built}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
-
-A county of rich architecture; castles, churches, ports, forts and towers.
 
 
 ## Musical Peregrinations {href=music}
@@ -181,11 +164,13 @@ A county of rich architecture; castles, churches, ports, forts and towers.
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
+
 ## Poets and Poetry {href=poetry}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/335d901a-8416-4356-8a12-1607c997a9a2)
 
 The Kent coast and countryside has provided inspiration for poets throughout the centuries.
+
 
 ## Prisons and Discipline {href=prisons}
 
@@ -193,6 +178,25 @@ The Kent coast and countryside has provided inspiration for poets throughout the
 
 An exploration of Kent's penal system including the Bloody Code, convicts, transportation and prison hulks.
 
+
+## Seascapes {href=seascape}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+
+The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
+
+## The Built Environment {href=built}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
+
+A county of rich architecture; castles, churches, ports, forts and towers.
+
+
+## The Garden of England {href=garden}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/af58512e-cbf4-4f26-8776-3560de893011)
+
+Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth, Kent is known as the ‘Garden of England’ due its rich agricultural history.
 
 # Featured Authors {.cards}
 
