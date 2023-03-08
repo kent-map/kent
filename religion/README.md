@@ -14,13 +14,13 @@ Reverend Hugh Price Hughes, Wesleyan minister and religious reformer, was appoin
 
 ## Joseph Pyke {href=/19c/19c-pyke-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21)
 
 Silversmith and later Warden of the Central Synogogue, Joseph Pyke was involved in the establishment of a Mechanics Institute in Chatham.
 
 ## Archibald Campbell Tait {href=/19c/19c-tait-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/302dd98a-7559-4050-a3fd-75812b87befc)
 
 Archbishop of Canterbury from 1868–1882, Archibald Campbell Tait liked to relax at his marine residence at Stonehouse, St Peter's, Thanet.
 
