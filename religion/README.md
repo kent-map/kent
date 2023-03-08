@@ -28,10 +28,10 @@ Archbishop of Canterbury from 1868–1882, Archibald Campbell Tait liked to rela
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
 
-Kent is not only the garden of England, it is also the first landing site of Christianity in Britain. St Augustine began his mission to convert the Britons to Christianity in Canterbury.
+Kent is not only the garden of England, it is also the first landing site of Christianity in Britain. St Augustine began his mission to convert the Britons to Christianity in Canterbury. Read about some of the delightful churches in the county.
 
 ## Jewish Emancipation {href=/19c/19c-jewish-emancipation}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21)
 
-Rochester and Chatham were pioneers of Jewish Emancipation.
+Rochester and Chatham were pioneers of Jewish Emancipation. In 1835, following the Municipal Corporation Act, the city of Rochester, probably the only municipal body in the country, removed the requirement of the clause ‘On the true faith of a Christian’, ultimately paving way for non-Christians to take office.
