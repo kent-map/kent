@@ -14,7 +14,7 @@ The Bloody Code applied death sentences to a growing number of crimes, while oth
 
 ## Contagious Diseases Acts {href=/19c/19c-contagious-diseases/}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/A_drunken_man_surrounded_by_women_in_a_dingy_alehouse._Litho_Wellcome_V0019393.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21)
 
 Following public concern over an increase in prostitution and venereal disease, reflecting the rapid rise in population, urban living and increased mobility, Parliament passed the Contagious Diseases Act in 1864
 
