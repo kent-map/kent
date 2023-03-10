@@ -12,7 +12,7 @@
 <param ve-entity eid="Q29265" aliases="the Cathedral">
 <param ve-entity eid="Q1775303" aliases="Hewlett Johnson">
 <param ve-entity eid="Q40472386" aliases="Odeon">
-<param ve-entity eid="Q3360332" aliases="King's School">
+<param ve-entity eid="Q3360332" aliases="Kings School">
 
 **Bombing in World War II**   
 The destruction of World War II came to Canterbury in the night of 1 June 1942, the worst of a series of air raids, when high explosive and incendiary bombs rained down on the old city.
