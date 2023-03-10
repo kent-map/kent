@@ -8,10 +8,11 @@
 <param ve-entity eid="Q578209" aliases="Chiddingstone">
 <param ve-entity eid="Q954918" aliases="Hever">
 <param ve-entity eid="Q2460124" aliases="Leeds">
+<param ve-entity eid="Q963988" aliases="Darenth">
 
 #
 
-In 1858, William ‘Billy’ Burges, pre-Raphaelite architect and designer, was commissioned by Alexander Beresford-Hope, MP for Maidstone to design the missionary monument at St Augustine’s College, Canterbury. He sketched designs for a sculptured diptych, with one side depicting the meeting of Pope Gregory and the English slaves and the other portraying the conversion of King Ethelbert by St Augustine.[^ref1: ]
+In 1858, William ‘Billy’ Burges, pre-Raphaelite architect and designer, was commissioned by Alexander Beresford-Hope, MP for Maidstone to design the missionary monument at St Augustine’s College, [Canterbury](/19c/19c-canterbury). He sketched designs for a sculptured diptych, with one side depicting the meeting of Pope Gregory and the English slaves and the other portraying the conversion of King Ethelbert by St Augustine.[^ref1: ]
 
 Burges was the son of marine engineer Alfred Burges who along with his business partner, James Walker had designed the Admiralty Pier and lighthouse, Dover. Alfred was very successful and his wealth ensured that Billy could study and practice architecture without the pressure of making money. 
 
