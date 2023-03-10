@@ -16,7 +16,7 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/be/Richard_Dadd_-_Fish_Market_by_the_Sea_-_Google_Art_Project.jpg)
 
-Painter of fairies, the supernatural, and Oriental scenes.
+Painter of fairies, the supernatural, and Oriental scenes, Dadd was born in Chatham and would become one of the most famous inmates of Bethlem Hospital for the insane.
 
 ## William Dyce {href=/19c/19c-dyce-biography}
 
@@ -42,11 +42,11 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 
 Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. 
 
-## Dante Gabriel Rossetti {/19c/19c-rossetti-biography}
+## Dante Gabriel Rossetti {href=/19c/19c-rossetti-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7b/Dante_Gabriel_Rossetti_005.jpg)
 
-Painter, and illustrator of the Pre-Raphaelite movement.
+Painter, and illustrator of the Pre-Raphaelite movement, Rossetti spent his last days in Birchington.
 
 ## Edward Linley Sambourne {href=/19c/19c-sambourne-biography}
 
