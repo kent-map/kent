@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="20th-Century Canterbury: World War II" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/ac4c3e2e-745f-401a-be67-b126b36a865e">
+<param ve-config title="20th-Century Canterbury: World War II" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/ac4c3e2e-745f-401a-be67-b126b36a865e" description="The destruction of World War II came to Canterbury in the night of 1 June 1942, the worst of a series of air raids, when high explosive and incendiary bombs rained down on the old city.">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q669528" aliases="Baedeker">
