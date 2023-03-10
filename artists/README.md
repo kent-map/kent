@@ -1,4 +1,4 @@
-.ve-header "Artists and Illustrators" gh:kent-map/kent/images/artists/artists sticky=true
+.ve-header "Artists and Illustrators" gh:kent-map/images/artists/artists sticky=true
     - [Home](/)
     - [About](/about)
 
