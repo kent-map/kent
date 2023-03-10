@@ -52,7 +52,7 @@ Dora Jordan who was the foremost actress of her day toured the provinces extensi
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d4f592c-8356-414b-b38d-d9187bfd720d)
 
-Dramatist and writer, Douglas Jerrold grew in Sheerness.
+Dramatist and writer, Douglas Jerrold grew up in Sheerness, a 'jolly' but also ‘loose’ place, full of sailors and officers.
 
 ## Cicely Hamilton {href=/19c/19c-hamilton-biography}
 
