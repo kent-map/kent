@@ -30,7 +30,7 @@ However, the second half of his report reveals concern for the inhabitants of th
 	therof, and that no inhabitante within this Isle, may be herafter pressed for 
 	any the said provisions, unless he occupy 300 acres of fresh land within the 
 	same at the least.’[^ref3]
-<param ve-image url="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" label="Detail of Sheppey, John Speed map of Kent, 1611">
+<param ve-image url="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" label="Detail of Sheppey" attribution="John Speed map of Kent, 1611">
 
 Overall, Hoby’s account provides a complex insight into the tensions between the Crown’s military agenda and the everyday hardship of the local islanders, particularly in Eastchurch parish.
 <br><br>
