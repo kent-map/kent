@@ -26,6 +26,7 @@ A great deal of seaweed is to be found here. One sort is of a shining red brown,
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/38/Seaweed_600.jpg" label="Seaweed on rocks" attribution="The original uploader was Sannse at English Wikipedia, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 She is equally conscientious about recording the flowers she finds, remarking somewhat unnecessarily that ‘I am very fond of botany.’ Despite her convalescent state, Emily is clearly an active scrambler over rocks and cliffs, writing in detail about her investigations:   
+<br>
 Though I have looked in vain for samphire and eryngo, which grow near the sea, yet the wild mignonette, which I never saw before, is plentiful on the rocks, as well as another flower, called the little Bermedick. It is a papilionaceous flower, of a yellow colour, and unbranched; the flowers grow in a large woolly tuft on the top of the stalk. The yellow toad’s-flax is also to be found, and I once saw, on the rock, a splendid scabious, or a rich crimson-purple colour, which is often seen in gardens, and has a strong sweet scent. Lastly, a sort of red valerian, a very pretty flower, grows on the cliffs.[^ref4]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Samphire_growing_at_the_high_tide_mark.jpg" label="Samphire" attribution="Gaoithe, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/60/Eryngium_Cawdor_03.jpg" label="Eryngo" attribution="Syrio, via Wikimedia Commons" license="CC BY-SA 4.0">
@@ -34,7 +35,6 @@ Though I have looked in vain for samphire and eryngo, which grow near the sea, y
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2e/The_flowering_plants%2C_grasses%2C_sedges%2C_and_ferns_of_Great_Britain_%28Pl._160%29_%288517612401%29.jpg" label=" 5: YELLOW TOAD FLAX" attribution="Pratt, Anne; Step, Edward, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/Scabious_-_geograph.org.uk_-_496055.jpg" label="Scabious" attribution="Trish Steel, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/RedValerian.jpg" label="Red Valerian" attribution="Jerzy Strzelecki, via Wikimedia Commons" license="CC BY-SA 3.0">
-<param ve-map center="Q26532465" zoom="10">
 
 Mrs Shore appears not to have shared this fascination with the natural features of Thanet, her only recorded comment on [Broadstairs](/dickens/broadstairs-19th-century) being that ‘it has not enough company to make it lively, but it has too much to make it retired.’[^ref5] 
 <param ve-image url="https://stor.artstor.org/stor/c5128fb0-fda9-44dc-adda-4573ed973526" label="Broadstairs">
