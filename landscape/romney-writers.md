@@ -38,6 +38,13 @@ Russell Thorndike’s _Dr Syn_ (1915)  is a smuggling tale set on Romney Marsh. 
 Everything was vivid - either very dark or very light. Such grass as they came to was black grass; such roadways as they crossed were white roads; the sky was brightly starlit, but the mountainous clouds were black; the edges of the great dyke sluices were pitch black, but the water and thin mud were silver steel, reflecting the light of the sky.[^ref11]   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/76/Doctor_Syn_1915_Doubleday_cover.png" label="Dr Syn" attribution="Doubleday Cover. Unknown author, Public domain, via Wikimedia Commons">
  
+In the 21st century _Dr Syn_ has continued to inspire authors, and a novel by crime writer [Martin Edwards](/21c/21c-edwards-sepulchre-street) its famous chorus:
+
+‘Here’s to the feet wot have walked the plank –
+Yo-ho for the dead man’s throttle!
+And here’s to the corpses afloat in the tank
+And the dead man’s teeth in the bottle.’
+
 ### Bibliography
 James, Henry. [English Hours](https://archive.org/details/englishhours1905jame/page/n11/mode/2up). Boston: Houghton, 1905. First publication 1875.   
 Jepson, Edgar. _The Murder in Romney Marsh_. Bath: Lythway Press Ltd, 1929.   
