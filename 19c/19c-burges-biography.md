@@ -7,6 +7,11 @@
 <param ve-entity eid="Q954918" aliases="Hever">
 <param ve-entity eid="Q2460124" aliases="Leeds">
 <param ve-entity eid="Q963988" aliases="Darenth">
+<param ve-entity eid="Q1285144" aliases="Knole">
+<param ve-entity eid="Q939838" aliases="Sevenoaks">
+<param ve-entity eid="Q1626044" aliases="Sittingbourne">
+<param ve-entity eid="Q1254903" aliases="Ightham">
+<param ve-entity eid="Q1984604" aliases="Preston">
 
 #
 
