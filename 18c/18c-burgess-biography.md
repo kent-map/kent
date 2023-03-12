@@ -9,6 +9,7 @@ banner="/images/banners/18c.jpg">
 <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808">
 
 <param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
 #
 
