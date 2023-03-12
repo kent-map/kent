@@ -6,6 +6,12 @@ Regeneration and the rise of the DFL.
 
 # &nbsp; {.cards}
 
+## Romney Marsh and Sepulchre Street {href=21c-edwards-sepulchre-street}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7c/Harold_Gilman_-_Romney_Marsh_-_B1975.4.330_-_Yale_Center_for_British_Art.jpg)
+
+Martin Edwards has set his fourth novel in the Rachel Savernake series, _Sepulchre Street_ in the atmospheric Romney Marshes. 
+
 ## Impressions from a Bolthole Window {href=21c-impressions-hirst}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d)
