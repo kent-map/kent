@@ -32,6 +32,7 @@ Burges was not only a talented architect, but also a designer. In 1867 he was co
 In 1880 the Mayor of [Dover](/19c/19c-dover) decided that the town needed an assembly hall and civic rooms. Burges was commissioned to design the plans for the new building and began working on these on 1 March 1881. Not only did he design the building, but also the decorative scheme and the furniture, including an impressive table surrounded by lion-headed chairs for the Mayor’s Parlour. 
 
 Sadly, Burges did not live to see his vision as he died on the 20 April 1881. Burge's brother in law Richard Popplewell Pullan and his business partner John Starling Chapple continued the work, but Burges's rich decorative scheme was later painted over in the twentieth century. A multi-million pound project entitled ['Reawakening a Gothic Fantasy'](https://www.maisondieudover.org.uk/) is currently restoring the Burges scheme.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b2/DoverRathaus.JPG" label="Dover, Maison Dieu" attribution="Hajotthu via Wikimedia Commons" license="CC BY-SA 3.0">
 
 ### Bibliography
 
