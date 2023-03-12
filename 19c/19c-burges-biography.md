@@ -13,6 +13,7 @@
 #
 
 In 1858, William ‘Billy’ Burges, pre-Raphaelite architect and designer, was commissioned by Alexander Beresford-Hope, the MP for Maidstone to design a missionary monument at St Augustine’s College, [Canterbury](/19c/19c-canterbury). Burges sketched designs for a sculptured diptych, with one side depicting the meeting of Pope Gregory and the English slaves and the other portraying the conversion of King Ethelbert by St Augustine, which was carved by Theodore Phyffers. It was to be his first Kentish commission.
+<param ve-image url="https://stor.artstor.org/stor/a75dd5b0-7e59-46ad-9d6a-ba2f5a2a1c88" label="St Augustine's College, Canterbury" attribution="G. Hawkins, Published by Henry Ward, Mercery Lane, Canterbury">
 
 Burges was the son of marine engineer Alfred Burges (1796–1886) who along with his business partner, James Walker designed the Admiralty Pier and lighthouse, Dover. Alfred was very successful and his wealth ensured that Billy could study and practice architecture without the pressure of making money. 
 
@@ -23,9 +24,10 @@ In 1856, Burges set up his own architectural practice and entered several compet
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Installation_of_Lord_Palmerston_as_Lord_Warden_of_the_Cinque_Ports%2C_the_Banquet_in_the_Townhall_%28Maison_Dieu%29_Dover_-_ILN_1861.jpg" label="The Installation of Lord Palmerston as Lord Warden of the Cinque Ports, Banquet in the Maison Dieu, Dover, 1861">
 
 It was at this period that Burges, joined the Foreign Architectural Book Society (FABS), an elite group of architects who swapped books on architecture and visited sites of architectural importance. In 1865, FABS visited Knole near Sevenoaks to admire the Jacobean staircase and in the following year, Canterbury, where they saw the cathedral. Burges described Canterbury Cathedral as 'the best of our cathedrals, always excluding the perpendicular parts'.[^ref1] In 1867, the society visited Penshurst, Chiddingston and Hever, returning to the county some years later to visit Maidstone and Leeds Castle.
+<param ve-image url="https://stor.artstor.org/stor/2c31e2ed-8f07-4a4e-b1a8-deaeab5b045d" label="Canterbury Cathedral, 1844" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin">
 
 Burges received further commissions in Kent included the restoration of the tenth century St Margaret’s church at Darenth. Burges installed a stained glass window in memory of Catherine Seager between 1866-8.[^ref2]. At the same time, Burges was commissioned to design the Bailey tomb and memorial in the churchyard of St Peter’s church, Ightham between 1866-9. He also enlarged Ightham Place adding a new staircase, entrance hall and wing for Reverend James Sandford Bailey and designed a stained glass rose window, lobed roof and apsidal chancel for the church at Murston, near Sittingbourne.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7f/Knole%2C_Sevenoaks%2C_Kent_%28interior_view%29.jpg" label="Grand Staircase, Knole, Sevenoaks, 1922" attribution="Nathaniel Lloyd (1867-1933), Public domain, via Wikimedia Commons">
+<param ve-image url="">
 
 Burges was not only a talented architect, but also a designer. In 1867 he was commissioned to design a crozier for the newly appointed Bishop of Dunedin, Henry Lascelles Jenner. The crozier featured St George slaying the dragon which represented the church defending its people against the devil. Burges wrote in his sketchbook 'This is the staff of the Lord Bishop of the Isles where they eat one another'. Jenner who had a reputation for ritualism was rejected by the people of New Zealand on his arrival and the crozier was never used. Jenner returned to England, where he became rector of Preston next Wingham and the crozier is now kept at Canterbury Cathedral.
 
