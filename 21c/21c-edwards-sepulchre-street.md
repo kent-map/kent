@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Romney Marsh and Sepulchre Street" author="Martin Edwards" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/05/St_Mary_in_the_Marsh.jpg">
+<param ve-config title="Romney Marsh and Sepulchre Street" author="Martin Edwards" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/98/Harold_Gilman_-_Romney_Marsh_-_B1975.4.329_-_Yale_Center_for_British_Art.jpg">
 
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 
