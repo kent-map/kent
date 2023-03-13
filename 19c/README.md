@@ -23,6 +23,7 @@
 [M.E. Braddon](19c-braddon-biography)   
 [John Brent](19c-brent-biography)   
 [Angela Burdett-Coutts](19c-burdett-coutts-biography)   
+[William Burges](19c-burges-biography)   
 [F. C. Burnand](19c-burnand-biography)  
 [Jessie Challacombe](19c-challacombe-biography)   
 [Mary Cowden Clarke](19c-cowden-clarke-biography)   
