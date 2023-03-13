@@ -29,11 +29,11 @@ In 1856, Burges set up his own architectural practice and entered several compet
 
 It was at this period that Burges, joined the Foreign Architectural Book Society (FABS), an elite group of architects who swapped books on architecture and visited sites of architectural importance. In 1865, FABS visited Knole near Sevenoaks to admire the Jacobean staircase and in the following year, Canterbury, where they saw the cathedral. Burges described [Canterbury Cathedral](https://dofe.kent-maps.online/pages/canterbury-cathedral-now-and-then) as 'the best of our cathedrals, always excluding the perpendicular parts'.[^ref1] In 1867, the society visited Penshurst, Chiddingstone and Hever, returning to the county some years later to visit Maidstone and Leeds Castle.
 <param ve-image url="https://stor.artstor.org/stor/2c31e2ed-8f07-4a4e-b1a8-deaeab5b045d" label="Canterbury Cathedral, 1844" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin">
-<param ve-map center="Q1227477" zoom="12">
-<param ve-map center="Q578209" zoom="12">
-<param ve-map center="Q954918" zoom="12">
-<param ve-map center="Q213180" zoom="12">
-<param ve-map center="Q2460124" zoom="12">
+<param ve-map center="Q1227477" zoom="10">
+<param ve-map center="Q578209" zoom="10">
+<param ve-map center="Q954918" zoom="10">
+<param ve-map center="Q213180" zoom="10">
+<param ve-map center="Q2460124" zoom="10">
 
 Burges received further commissions in Kent included the restoration of the tenth century St Margaret’s church at Darenth. Burges installed a stained glass window in memory of Catherine Seager between 1866-8.[^ref2]. At the same time, Burges was commissioned to design the Bailey tomb and memorial in the churchyard of St Peter’s church, Ightham between 1866-9. He also enlarged Ightham Place adding a new staircase, entrance hall and wing for Reverend James Sandford Bailey and designed a stained glass rose window, lobed roof and apsidal chancel for the church at Murston, near Sittingbourne.
 <br><br>
