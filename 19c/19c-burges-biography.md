@@ -19,7 +19,7 @@ In 1858, William ‘Billy’ Burges, pre-Raphaelite architect and designer, was 
 <param ve-image url="https://stor.artstor.org/stor/a75dd5b0-7e59-46ad-9d6a-ba2f5a2a1c88" label="St Augustine's College, Canterbury" attribution="G. Hawkins, Published by Henry Ward, Mercery Lane, Canterbury">
 
 Burges was the son of marine engineer Alfred Burges (1796–1886) who along with his business partner, James Walker designed the Admiralty Pier and lighthouse, Dover. Alfred was very successful and his wealth ensured that Billy could study and practice architecture without the pressure of making money. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fc/EB9_Dover_Plan.png" label="Dover Plan, 1878" attribution="Presumably engraved by John Bartholomew & Son or William & Alexander Keith Johnston., Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b0/Admiralty_Pier_Dover_England.jpg" label="Admiralty Pier, Dover" attribution="Snapshots Of  The Past, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 After studying at King’s College School, London, where he became friends with pre-Raphaelite artist [Dante Gabriel Rossetti](/19c/19c-rossetti-biography) and his brother William Michael, Burges entered the offices of the pre-eminent Gothic Revival architect, Edward Blore, in 1844. After this, he joined the offices of Matthew Digby Wyatt and worked on the Medieval Court at the Great Exhibition of 1851.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/be/William_Burges_portrait.jpg" label="William Burges" attribution="Henry Van der Weyde (1838-1924), Public domain, via Wikimedia Commons">
