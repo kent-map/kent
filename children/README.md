@@ -1,5 +1,9 @@
 
+Hans Christian Andersen
+
 Jessie Challacombe
+
+George Alfred Henty
 
 Edith Nesbit
 
