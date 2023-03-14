@@ -5,7 +5,7 @@
 <param ve-entity eid="Q1506093" aliases="Romney Marsh" "Romney">
 <param ve-entity eid="Q748895" aliases="Cinque Ports">
 <param ve-entity eid="Q967166" aliases="Hythe">
-<param ve-entity eid="Q179224" aliases=Dover">
+<param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q2243052" aliases="Ivy Church">
 <param ve-entity eid="Q725261" aliases="Ashford">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
@@ -13,15 +13,13 @@
 <param ve-entity eid="Q1910322" aliases="Brenzett">
 <param ve-entity eid="Q2057625" aliases="Eltham">    
 <param ve-entity eid="Q17361844" aliases="Martello tower">
-<param ve-entity eid="Q17986065" aliases="St Eanswith’s Church">
+<param ve-entity eid="Q17986065" aliases="St Eanswiths Church">
 <param ve-entity eid="Q1020800" aliases="Rye">
 <param ve-entity eid="Q1026871" aliases="Winchelsea">
+
+#
                                                   
-Edith Nesbit loved the spectacular Kent coastline and celebrated it in her beautifully illustrated seafaring tale, _The Pilot_ (1893).
-
-Images from _The Pilot_ by E. Nesbit (1891)
-
-In 1893, Nesbit chanced upon her favourite holiday destination, the coastal village of Dymchurch in Kent. She returned again and again, and she was there when she dedicated _The Phoenix and the Carpet_: “TO My Dear Godson HUBERT GRIFFITH and his sister MARGARET”.
+Edith Nesbit loved the spectacular Kent coastline and celebrated it in her beautifully illustrated seafaring tale, _The Pilot_ (1893). In 1893, Nesbit chanced upon her favourite holiday destination, the coastal village of Dymchurch in Kent. She returned again and again, and she was there when she dedicated _The Phoenix and the Carpet_: “TO My Dear Godson HUBERT GRIFFITH and his sister MARGARET”.
 <param ve-map center="Q2796278" zoom="13">
  
 The summer of 1893 was unusually hot and England was gripped by drought from April to August. Keen to escape the oppressive suburbs, Nesbit took her son Paul, aged thirteen, and daughter Iris, aged eleven, to the coastal town of Hythe on the edge of Romney Marsh. Hythe had been one of the original Cinque Ports granted limited autonomy in exchange for defending the country against invasion. By 1893 it was a bustling [seaside resort](/19c/19c-seaside) with shingle beaches, an esplanade, bathing machines and donkey rides. Keen to escape the hordes of holidaymakers, Nesbit and her children took an excursion to Dymchurch, a tiny fishing village five miles down the coast.
@@ -97,7 +95,7 @@ There were glorious days of ‘mucking about’ along the beach, the siege of un
 In 1903 and 1904, Nesbit received a series of heartwarming letters from Rudyard Kipling, praising her stories for children. Kipling too took inspiration from the coastal Kent landscape. In ‘Dymchurch Flit’, included in his fantasy _Puck of Pook’s Hill_ (1906), he wrote about Old Hobden’s wife, one of the ‘Marsh folk’, who hails from ‘Dymchurch under the Wall’.
  
 Nesbit returned to Dymchurch every summer for more than a decade, and her improved finances allowed her to rent ever better holiday homes. In 1899, she received her first commission from _The Strand Magazine_ when she was invited to write ‘The Book of Beasts’, a series of seven stories about dragons (an eighth dragon story was published in their Christmas number). A very generous thirty pounds per story was added to when she collected and published these as _The Book of Dragons_ in 1901. 
-                                         
+<br><br>                                         
 Nesbit’s friend Edgar Jepson recalled: 
 <br><br>
 In the summers we still went to Dymchurch, where we always found the Blands. In those days Dymchurch was just a village. No strangers came to it for weeks on end, and if you wished to go to any place from it, you had to walk, drive, or bicycle... In those summers there was very good lawn tennis and bridge at the house of the Squire. 
