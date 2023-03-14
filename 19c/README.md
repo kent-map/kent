@@ -1,4 +1,3 @@
-<link rel = "stylesheet" href = "https://raw.githubusercontent.com/kent-map/kent/develop/css/custom.css">
 <style>
     .clearfix::after {content: ""; clear: both; display: table;}
     .thumb {float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:150px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa; margin-bottom: 24px;}
@@ -7,6 +6,7 @@
 </style>
 
 <param ve-config title="19th Century Kent" banner=/images/banners/19c.jpg>
+
 
 [Overview](19c-kent)
 
