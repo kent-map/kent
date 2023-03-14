@@ -127,12 +127,17 @@ Regeneration and the rise of the DFL, street murals, poetry, books and Covid.
 Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Canterbury, Deal and Dover.
 
 
-## Places E-P {href=placesep}
+## Places E-J {href=placesej}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84)
 
-Towns of grandeur. Articles on Folkestone, Gravesend and Margate
+Towns of grandeur. Articles on Folkestone and Gravesend.
 
+## Places K-P {href=placeskp}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b7891169-b4a4-43fb-9245-c1f71e27c7e2)
+
+Coming soon...
 
 ## Places Q-Z {href=placesqz}
 
