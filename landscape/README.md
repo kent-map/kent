@@ -46,7 +46,7 @@ To this day the autumn hop picking season provides a potent image of Kent rural 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d482e3aa-6764-4b23-92a9-693be7b2934d)
 
-Writer of stories of rural life in East Kent.
+Yonder a meadow down whose length a flock of sheep were folded on successive days; against the horizon line stretched the free downs, owned by none, belonging to all; here sheep might feed, cattle might browse, but no man must fence them in, or if he did the poorest wayfarer might break it down – Wilsam, 1913.
 
 ## Hop and Fruit Picking in the 20th century {href=/landscape/20c-encounters-with-others}
 
