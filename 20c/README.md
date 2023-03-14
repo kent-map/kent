@@ -54,7 +54,7 @@
 
 [Canterbury](/canterbury/20c-canterbury-home)   
 [Folkestone and World War One](20c-folkestone-ww1)   
-[Gravesend](/placesep/gravesend-overview)   
+[Gravesend](/placesej/gravesend-overview)   
 [Richborough: The Secret Port](20c-richborough)   
 [The Secret War Tunnels of Dover Castle](20c-secret-tunnels)   
 
