@@ -5,11 +5,9 @@
 
 #
 
-**Married** 1823-1825, to the poet Eleanor Anne Porden (1795-1825); 1828-1847, to Jane Griffin, better known as Lady Franklin (1791-1875)  
+Married 1823-1825, to the poet Eleanor Anne Porden (1795-1825); 1828-1847, to Jane Griffin, better known as Lady Franklin (1791-1875)  
 <br>
-**Event:** 19th May 1845 - Departure of Franklin’s final expedition to the Arctic regions, in search of a north-west passage.   
-<br>
-**Place:** Greenhithe, Kent.   
+19th May 1845 - Departure from Greenhithe of Franklin’s final expedition to the Arctic regions, in search of a north-west passage.     
 <br>
 ‘In the last letter written before he sailed, dated H.M.S. "Erebus", Greenhithe, 18th May, 1845, [Franklin] says to his father-in-law:
 <br><br>
