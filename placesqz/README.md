@@ -14,7 +14,7 @@ Seaside resorts such as Ramsgate and Sandgate.
 
 ## Sandgate {href=/placesqz/sandgate-overview}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ea765a89-16c2-4c5c-8860-b0bc08f507d9
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ea765a89-16c2-4c5c-8860-b0bc08f507d9)
 
 Sandgate, near the outskirts of Folkestone, has been hailed as the 'author's haven of repose' and can claim association with several well-known authors
 
