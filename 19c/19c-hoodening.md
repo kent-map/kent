@@ -5,7 +5,7 @@ banner="/images/banners/19c.jpg">
 #
 
 Takes place mainly around the Thanet, Deal and Canterbury areas.   
-<br><br> 
+<br>
 1839: a Hooden Horse in ([Broadstairs](/dickens/broadstairs-19th-century) so frightened a lady that she collapsed and died.   
 <br>
 1859: a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right for ever afterwards”.[^ref1]   
