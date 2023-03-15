@@ -4,11 +4,14 @@ banner="/images/banners/19c.jpg">
 
 #
 
-**Place:** mainly around the Thanet, Deal and Canterbury areas   
-**Key dates:**    
-1839: a Hooden Horse in ([Broadstairs](/dickens/broadstairs-19th-century) so frightened a lady that she collapsed and died.    
+Takes place mainly around the Thanet, Deal and Canterbury areas.   
+<br><br> 
+1839: a Hooden Horse in ([Broadstairs](/dickens/broadstairs-19th-century) so frightened a lady that she collapsed and died.   
+<br>
 1859: a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right for ever afterwards”.[^ref1]   
-Since 1957: Hop Hoodening Festival, to bless the hop harvest; second Saturday of September each year.      
+<br>
+Since 1957: Hop Hoodening Festival, to bless the hop harvest; second Saturday of September each year.    
+<br>
 Since 1965: [Broadstairs](/dickens/broadstairs-19th-century)) Folk Week: first full week of August each year.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Hooden_Horses_at_the_Clock_Tower_%28geograph_5502334%29.jpg" label="Hooden Horses at the Clock Tower, Broadstairs" attribution="Des Blenkinsopp">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/04/Broadstairs_Folk_Week_2018_FDBY6092_%2843372181465%29.jpg" lable="Hooden Horses, Broadstairs Folk Week, 2018" attribution="Funk Dooby from Kent, UK, CC BY-SA 2.0, via Wikimedia Commons">
@@ -34,7 +37,6 @@ The earlier history of the Hooden Horse is a matter of conjecture. It could deri
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Odin_rides_to_Hel.jpg" label="Odin rides to Hel" attribution="W.G. Collingwood (1854 - 1932), Public domain, via Wikimedia Commons">
 
 ### Bibliography
-
 Dixon, G., 1984. _Folktales and Legends of Kent_. Peterborough: Minimax Books.   
 Field, B. & Field, O., 1983. , _Midsummer Fire; The Story of the Folkestone International Folklore Festival 1961-1981._  Hythe: private publisher.   
 Frampton, G., 2018. _Discordant Comicals; the Hooden Horse of East Kent, St Nicholas-at-Wade._ Canterbury: Ōzaru Books.   
@@ -45,7 +47,6 @@ https://vimeo.com/408562819/78b21d952c
 <param ve-image url="https://upload.wikimedia.org/wikipedia/en/5/5f/Walmer_hoodeners%2C_1907.jpg" label="A troupe of hoodeners from Walmer Court Farm in Walmer, Kent" attribution="Published in Percy Maylam's 1909 book The Hooden Horse">
 
 ### Notes
-
 [^ref1]: Maylam 53-54.
 [^ref2:Maylam et al 10.
 
