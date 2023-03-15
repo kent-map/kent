@@ -23,10 +23,10 @@ From _The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:_
   You live their fury out right gallantly,  
   And after years you have perchance to roam  
   That science crown’d you safely seek your home!   
-<br><br>
-On Monday [19 May 1845] H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America.
 <param ve-image url="images/erebus.jpg" title="Illustration of the ships Erebus and Terror leaving Greenhithe" attribution="Published in the Illustrated London News, 24th May 1845, p. 328."> 
 
+On Monday [19 May 1845] H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America.
+<br><br>
 Greenhithe, on the shore of the River Thames, is, today, overshadowed by its near neighbours the Queen Elizabeth II Bridge and the Bluewater shopping centre. In the 1840s, however, a pier erected in 1842 attracted Victorian day-trippers aboard pleasure boats from London; a fashion augmented by the opening of a railway link in 1849.
 <br><br>
 It may have been this fashionable status that caused Greenhithe to be selected, in 1845, for the launch of the nineteenth-century’s most anticipated and celebrated Arctic expedition; an expedition led by national hero, Sir John Franklin, whose previous exploits in the Arctic had earned him the epithet ‘the man who ate his boots’. 
