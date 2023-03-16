@@ -1,0 +1,18 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="Sir John Herschel (1792 –1871)" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q936183" aliases="Tonbridge">
+
+
+
+Two stars last night and sat up till two waiting for them. Ditto the night before. Sick of star-gazing—mean to break the telescopes and melt the mirrors' (Clerke, 154).  a letter of 23 July 1830 to his wife, Margaret: [ODNB]
+
+The broadest and most synthetic of all Herschel's writings appeared in 1830 as his Preliminary Discourse on the Study of Natural Philosophy. Now recognized as a classic in the empiricist tradition of the philosophy of science, it was also a major statement of the important place of natural science in culture and society. A number of major scientists and philosophers were strongly influenced by it, including Charles Darwin, Michael Faraday, John Stuart Mill, and William Whewell. Written with the credibility accorded an accomplished scientist and with a quality of style rare among natural philosophers, Herschel's Preliminary Discourse, soon translated into Danish, French, German, and Italian, emerged as a powerful force in gaining recognition for the importance of scientific inquiry.
+Twentieth-century scholarship on the methodology of science tended to downplay the importance of Herschel's Preliminary Discourse, noting that William Whewell's Philosophy of the Inductive Science (1840) broke more successfully from the Baconian tendencies of the period and that John Stuart Mill's System of Logic (1843) was far more influential than either Herschel's or Whewell's volumes. Among the responses made to these claims are that Herschel's Preliminary Discourse actually did depart in major ways from the Baconian tradition, that Herschel very significantly influenced both Whewell and Mill, and that Herschel's intended audience was different from and broader than the philosophical audience addressed by Whewell and Mill. [ODNB]
+
+Mathematician, astronomer and chemist, Sir John Frederick William Herschel moved to Collingwood House in Hawkhurst, Kent in 1840. The son of William Herschel, John named four of the moons of Uranus, the planet his father had discovered in 1781. Collingwood gave Herschel the skies he needed for his observations. He wrote: “I must now observe, that on Friday, the 17th, and every evening since that time when I observed the comet, the zodaical light has also been displayed in the most striking and perfectly characteristic manner and, indeed with a brilliancy, which I should certainly be disposed to regard as a proof of the opinion generally entertained of its varying from season to season in its intensity, were it not for the habitual and exceeding purity of the atmosphere in this favoured corner of our island, which is altogether free from smoke, and most commonly so from haze, and (in the absence of actual cloud) quite upon a par (so far as three year’s residence will enable me to judge) with that of any region I have visited.” Written March 31 to the editor of the Kentish Gazette.
+This was the Great Comet of 1843. It passed closest to Earth on March 6, 1843, and was at its greatest brilliance the following day [Wikipedia] Friday 17th March was when he observed it.
+Kentish Gazette - Tuesday 11 April 1843;
+Maidstone Journal and Kentish Advertiser - Tuesday 11 April 1843
+He described the comet as having a tail 30 degrees in length and its head below the horizon.
+March 19 “The tail of the comet, for such it must assuredly be, is again visible, through much obscured by haze and holding very nearly the same position.”
