@@ -2,17 +2,19 @@
 
 This is ...
 
-## {.right .sticky .clear}
+##  Museum tour
+
+### {.right .sticky .clear}
 
 .ve-entities caption="Subjects Discussed"
 
 .ve-media-selector caption="Related Content"
 
-##
+###
 
 .ve-media gh:kent-map/images/videos/Dickens_Museum.mp4 sticky
 
-### {.show-active}
+#### {.show-active}
 
 00:00:00:00
 Dickens House, Dickens Museum, Aunt Betsey’s Cottage. 2 Nuckell’s Place has had many names since becoming home to the fairy godmother of David Copperfield.
