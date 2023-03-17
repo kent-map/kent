@@ -1,16 +1,18 @@
 # Dickens Museum
 
-### {.right .sticky .clear}
+This is ...
+
+## {.right .sticky .clear}
 
 .ve-entities caption="Subjects Discussed"
 
 .ve-media-selector caption="Related Content"
 
-###
+##
 
 .ve-media gh:kent-map/images/videos/Dickens_Museum.mp4 sticky
 
-#### {.show-active}
+### {.show-active}
 
 00:00:00:00
 Dickens House, Dickens Museum, Aunt Betsey’s Cottage. 2 Nuckell’s Place has had many names since becoming home to the fairy godmother of David Copperfield.
@@ -32,6 +34,8 @@ Something on Victorian childhood here? I’ll think of something…
 
 00:01:05:00
 Something on Victorian marriage. Again, I’ll come up with some ideas.
+gh:kent-map/images/dickens-museum/17_Ostrich_tip_fan.jpg
+gh:kent-map/images/dickens-museum/49_embroidered_garter.jpg
 
 I’ve got a complete list of ==the objects=={1:07,1:13} and what they are. but they’re not all visible in this shot. Shall I just say ‘including xxx’?
 
