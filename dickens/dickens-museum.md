@@ -18,7 +18,7 @@
 Dickens House, Dickens Museum, Aunt Betsey’s Cottage. 2 Nuckell’s Place has had many names since becoming home to the fairy godmother of David Copperfield.
 
 00:00:07:00
-The museum invites us to imagine ==Dickens=={7,8} gazing out of a window towards the sea or even to picture ourselves sitting at a desk writing about the neglected orphan who becomes a famous writer.  ==Pictures of Dickens and his characters fill the walls.=={13,14}
+The museum invites us to imagine ==Dickens=={7,8} gazing out of a window towards the sea or even to picture ourselves sitting at a desk writing about the neglected orphan who becomes a famous writer.
 
 00:00:14:00
 Considerable confusion has been caused over the years by David’s description of his journey to Dover. But a letter from Charles Dickens Junior confirms that 2 Nuckell’s Place was indeed the inspiration for Aunt Betsey’s cottage.
