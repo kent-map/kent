@@ -2,18 +2,31 @@
 
 # Dickens Museum
 
-.ve-video gh:kent-map/images/videos/Dickens_Museum.mp4 sticky right
+### {.right .sticky .clear}
 
+.ve-entities caption="Subjects Discussed"
+
+.ve-media-selector caption="Related Content"
+
+###
+
+.ve-media gh:kent-map/images/videos/Dickens_Museum.mp4 sticky
+
+#### {.show-active}
+
+00:00:00:00
 Dickens House, Dickens Museum, Aunt Betsey’s Cottage. 2 Nuckell’s Place has had many names since becoming home to the fairy godmother of David Copperfield.
-{enter=1,2}
 
+00:00:07:00
 The museum invites us to imagine ==Dickens=={7,8} gazing out of a window towards the sea or even to picture ourselves sitting at a desk writing about the neglected orphan who becomes a famous writer. 
 
 ==Pictures of Dickens and his characters fill the walls.=={13,14}
 
+00:00:13:00
 Considerable confusion has been caused over the years by David’s description of his journey to Dover. But a letter from Charles Dickens Junior confirms that 2 Nuckell’s Place was indeed the inspiration for Aunt Betsey’s cottage.
 {enter=14,20}
 
+00:00:20:00
 Dickens was delighted by the eccentric behaviour of the resident Mary Pearson Strong, and rumour has it that he bribed local boys to drive donkeys onto the grass in front of her windows.
 {enter=20,31}
 
