@@ -20,13 +20,13 @@ This is ...
 Dickens House, Dickens Museum, Aunt Betsey’s Cottage. 2 Nuckell’s Place has had many names since becoming home to the fairy godmother of David Copperfield.
 
 00:00:07:00
-The museum invites us to imagine ==Dickens=={7,8} gazing out of a window towards the sea or even to picture ourselves sitting at a desk writing about the neglected orphan who becomes a famous writer.
+The museum invites us to imagine Dickens gazing out of a window towards the sea or even to picture ourselves sitting at a desk writing about the neglected orphan who becomes a famous writer.
 
 00:00:14:00
 Considerable confusion has been caused over the years by David’s description of his journey to Dover. But a letter from Charles Dickens Junior confirms that 2 Nuckell’s Place was indeed the inspiration for Aunt Betsey’s cottage.
 
 00:00:20:00
-Dickens was delighted by the eccentric behaviour of the resident Mary Pearson Strong, and rumour has it that he bribed local boys to drive donkeys onto the grass in front of her windows. ==Could we=={31,32} put in a link to the JSTOR series here? It includes DC.
+Dickens was delighted by the eccentric behaviour of the resident Mary Pearson Strong, and rumour has it that he bribed local boys to drive donkeys onto the grass in front of her windows.
 
 00:00:31:00
 The room was as neat as Janet or my aunt. As I laid down my pen, a moment since, to think of it, the air from the sea came blowing in again, mixed with the perfume of the flowers; and I saw the old-fashioned furniture brightly rubbed and polished, my aunt’s inviolable chair and table by the round green fan in the bow-window, the drugget-covered carpet, the cat, the kettle-holder, the two canaries, the old china, the punchbowl full of dried rose-leaves, the tall press guarding all sorts of bottles and pots, and, wonderfully out of keeping with the rest, my dusty self upon the sofa, taking note of everything.
@@ -38,12 +38,9 @@ Something on Victorian childhood here? I’ll think of something…
 Something on Victorian marriage. Again, I’ll come up with some ideas.
 gh:kent-map/images/dickens-museum/17_Ostrich_tip_fan.jpg
 gh:kent-map/images/dickens-museum/49_embroidered_garter.jpg
-
-I’ve got a complete list of ==the objects=={1:07,1:13} and what they are. but they’re not all visible in this shot. Shall I just say ‘including xxx’?
-
-- Item 1
-- Item 2
-- ...
+gh:kent-map/images/dickens-museum/5_wrist_warmers.jpg
+gh:kent-map/images/dickens-museum/Display_cabinet_45_spectacles_and_cases.jpg
+gh:kent-map/images/dickens-museum/purses.jpg
 
 00:01:13:00
 Dickens wrote the last words of David Copperfield while staying at Fort House a stone’s a few hundred yards along the cliff. He wrote to his best friend John Forster, ‘if I were to say half of what Copperfield makes me feel tonight, how strangely, even to you, I should be turned inside out! I seem to be sending some part of myself into the Shadowy World.’ 
