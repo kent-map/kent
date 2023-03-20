@@ -1,6 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="May Aldington (1872-1954)" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
 
+<param ve-entity eid="Q2313624" aliases="Rolvenden">
+<param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 
 #
@@ -8,12 +11,11 @@
 
 
 Jessie May Aldington, poet and author of ‘Love Letters that caused a Divorce’, was born in Hythe in 1872. She was the daughter of Charles Godfree, Sergeant Major in the Army Hospital Corps, who was stationed at the Hythe School of Musketry and Eliza nee Burden, the daughter of a Rolvenden shoemaker.  The family moved frequently due to Charles work, living at Hythe (1872), Rolvenden (1873), Bermuda (1876) and Portsea (1881).
-IMAGE OF HYTHE SCHOOL OF MUSKETRY
-[describe Hythe] – Moberly description.
+<param ve-image url="https://stor.artstor.org/stor/921dbaac-faac-4fcc-bb1f-4da1329f58cf" label="Hythe School of Musketry" attribution="Invicta Album of Hythe">
+
 In 1881, the family settled in Dover at 14, Liverpool St, in the St James area of the town, near the Burlington Hotel [was it built then]. Jessie remained here until her father retired and became the licensee of the Bell and Anchor Inn in Sandwich.
 When Jessie’s parents and younger siblings moved to London in 1891, she remained with her two aunts at the Bell and Anchor, and it was here that she met her future husband Albert Aldington, a Dover solicitor.
-[quote about her singing]
- 
+<param ve-map center="Q179224" zoom="10">
 
 R.J. Godfree who sells at auction at Folkestone in 1904 with Aldington as his solicitor.   is her brother. 
 
