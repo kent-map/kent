@@ -55,6 +55,8 @@ In 1958, the diggers discovered a Romano-British funerary temple dating from aro
 Greenfield contributed to other archaeological digs in the county, excavating a Neolithic pit at Wingham in 1960. 
 <br><br>
 Meates died on the 9 July 1985 at The Gate House, Lullingstone Castle.
+<br><br>
+This article was published: 26 February 2023.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/Gatehouse%2C_Lullingstone_Castle.jpg" label="Gatehouse, Lullingstone Castle" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
 ### References
