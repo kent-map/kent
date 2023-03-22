@@ -26,7 +26,7 @@ Poet Laureate Alfred Austin lived at Swinford Old Manor near Ashford.
 
 ## U.A. Fanthorpe {href=/20c/20c-fanthorpe-biography}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=images/sissinghurst2.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4b100611-c99e-4cde-a1d3-6ebd0aa3c6a9)
 
 The autumn bonfire smokes across the woods, And reddens in the water of the moat; As red within the water burns the scythe, And the moon dwindled to her gibbous tithe, Follows the sunken sun afloat.
 
