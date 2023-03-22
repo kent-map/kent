@@ -6,7 +6,7 @@
 
 #
 
-Siegfried Sassoon (1886-1967) is one of the most widely read poets of the First World War alongside his friend and protégé [Wilfred Owen](/20c/20c-owen-biography). His best-known works are the punchy, satirical poems in which he delivers biting judgements about incompetent generals, hypocritical clerics, jingoistic journalists and uncaring civilians.  In all of those poems, he writes in the voice of a soldier speaking, as it were, from the front. However, his greatest war poem is set not in the trenches but at his home in the High Weald of Kent. The home is Weirleigh, a Victorian neo-Gothic mansion on the edge of the village of Matfield. The poem is ‘Repression of War Experience’.
+Siegfried Sassoon (1886-1967) is one of the most widely read poets of the First World War alongside his friend and protégé [Wilfred Owen](/20c/20c-owen-biography). His best-known works are the punchy, satirical poems in which he delivers biting judgements about incompetent generals, hypocritical clerics, jingoistic journalists and uncaring civilians.[^ref1]  In all of those poems, he writes in the voice of a soldier speaking, as it were, from the front. However, his greatest war poem is set not in the trenches but at his home in the High Weald of Kent. The home is Weirleigh, a Victorian neo-Gothic mansion on the edge of the village of Matfield. The poem is ‘Repression of War Experience’.
 
 Sassoon was born at Weirleigh in 1886 and lived there throughout his childhood. When he dropped out of university in 1907, he returned there and began to write his first serious poetry. Once in uniform, he stayed at Weirleigh during periods of leave. ‘Repression of War Experience’ was written during one such period in the summer of 1917. In the preceding year, he had gained a reputation for reckless acts of courage. His exploits earned him the Military Cross in 1916, but they were also a symptom of growing mental distress. The young man he loved, David Thomas, had been killed in action. He suffered grief and despair. In his diary, he wrote: ‘There is no tenderness left in me; only bitter resentment . . . For the soldier is no longer a noble figure; he is merely a writhing insect among this ghastly folly of destruction.’ 
 
@@ -31,6 +31,9 @@ The safety of Weirleigh is invaded by appalling visions and sounds. The book-lin
 Shortly after writing the poem, Sassoon’s anti-war statement was published and read out in parliament. In a bid to save him from a court martial, his friends conspired to send him to Craiglockhart War Hospital for psychiatric treatment in July. His doctor there was W. H. R. Rivers. On 4 December 1917, Rivers delivered a public lecture entitled ‘Repression of War Experience’. Sassoon’s poem was already written, but critics guess that Sassoon must have added the title at this point. It works with deep irony. The poem is, of course, a mediation on the _impossibility_ of repressing war experience.
 
 ‘Repression of War Experience’ is not the only poem he wrote at Weirleigh that summer. ‘Banishment’ expresses his feelings of guilt that he is safe at home while his comrades are still in France. Describing their deaths, he writes: ‘they trudged away from life‘s broad wealds of light’. The Kentish weald always represented for Sassoon the place of light, peace and belonging. In ‘Repression of War Experience’, his deep love for the Kentish landscape works in tension with his traumatic war experience to gain a devastating power. 
-
-
+<br><br>
 Note: Some parts of this post draw on material in _The Remembered Dead: Poetry, Memory and the First World War_ (Cambridge University Press, 2018) by Sally Minogue and Andrew Palmer.
+<br><br>
+This article was published: 22 March 2023.
+
+[^ref1]: For his attacks on these four groups of people, see ‘The General’, ‘They’, ‘Fight to a Finish’ and ‘Blighters’, respectively.
