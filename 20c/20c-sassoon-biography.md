@@ -13,19 +13,19 @@ Sassoon was born at Weirleigh in 1886 and lived there throughout his childhood. 
 In April 1917, he was shot through the shoulder and was shipped back to England. Once home, his trauma manifested itself in night-time visions of eviscerated corpses and men dying of gruesome wounds. In a letter, he described his nights: ‘when the lights are out, … then the horrors come creeping across the floor: the floor is littered with parcels of dead flesh and bones, faces glaring at the ceiling, faces turned to the floor, hands clutching neck or belly; a livid grinning face with bristly moustache peers at me over the edge of my bed, the hands clutching my sheets.’ At this time, he was also mixing with pacifist campaigners like Bertrand Russell and Ottoline Morell. They were encouraging him to write a public statement in which he would declare his refusal to return to the front – an event memorably fictionalised in Pat Barker’s novel _Regeneration_ (1991). It was in this context that he drafted ‘Repression of War Experience’ at Weirleigh in June 1917.
 
 What I find so powerful about the poem is the way it brings all the horror and trauma of the Western Front into contact with the safety and quietness of Weirleigh. The poem is an interior dramatic monologue, representing the thought processes of a traumatised soldier. Where so many of Sassoon’s poems directly address (and admonish) the civilian reader, the speaker in this poem addresses no one but himself. He tries to talk himself back to equanimity, but at night ‘thoughts you’ve gagged all day come back to scare you’. He tries out the reasoning of his doctors, only to find their calm register slipping away from him:
-
-And it's been proved that soldiers don't go mad
-Unless they lose control of ugly thoughts
-That drive them out to jabber among the trees.
-
+<br><br>
+And it's been proved that soldiers don't go mad   
+Unless they lose control of ugly thoughts   
+That drive them out to jabber among the trees.   
+<br><br>
 We understand from the switch in tone (‘jabber among the trees’) that his control of ugly thoughts is precarious. He lights his pipe and tries out the reassurances of his family: ‘Draw a deep breath; stop thinking; count fifteen, / And you're as right as rain’. But the colloquial phrase makes him think obliquely of the trenches and he finds himself wishing for a thunder-storm that will bring ‘bucketsful of water to sluice the dark’. He tries to mimic the advice he has been given to seek solace in books: ‘all the wisdom of the world / Is waiting for you on those shelves’. But he sits gnawing at his nails instead. 
 
 The poem ends with the speaker hearing the sound of the guns across the Channel: ‘Thud, thud, thud,—quite soft ... they never cease—’. We know that Sassoon really could hear the distant guns from the garden at Weirleigh, but we can’t be sure whether the sound in the poem is real or imagined. We get a sense of the way the inner trauma and the outer reality run together. The ‘horrible shapes in shrouds’ which the speaker senses in the garden are no less real than his books or his pipe. The poem traces an arc from its careful beginnings (‘Now light your pipe; look, what a steady hand’) to its traumatised conclusion:  
-
-—O Christ, I want to go out
-And screech at them to stop—I'm going crazy;
-I'm going stark, staring mad because of the guns.
-
+<br><br>
+—O Christ, I want to go out   
+And screech at them to stop—I'm going crazy;   
+I'm going stark, staring mad because of the guns.   
+<br><br>
 The safety of Weirleigh is invaded by appalling visions and sounds. The book-lined room and the rose-filled garden offer no refuge. Sassoon’s more didactic poems tell us what to think; this one shows us the damage war does to its survivors.
 
 Shortly after writing the poem, Sassoon’s anti-war statement was published and read out in parliament. In a bid to save him from a court martial, his friends conspired to send him to Craiglockhart War Hospital for psychiatric treatment in July. His doctor there was W. H. R. Rivers. On 4 December 1917, Rivers delivered a public lecture entitled ‘Repression of War Experience’. Sassoon’s poem was already written, but critics guess that Sassoon must have added the title at this point. It works with deep irony. The poem is, of course, a mediation on the _impossibility_ of repressing war experience.
