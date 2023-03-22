@@ -48,6 +48,12 @@ The Romantic poet John Keats, whose short but remarkable career and early death 
 
 Dante Gabriel Rossetti was a prolific English poet, painter, and illustrator of the Pre-Raphaelite movement. His sister Christina was a poet. In 1882 he came to Birchington for the sea air, but he died and is buried there.
 
+## Siegfried Sassoon {href=/20c/20c-sassoon-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b4/Siegfried_Sassoon_by_Glyn_Warren_Philpot_1917.jpeg)
+
+Sassoon was born at Weirleigh, Matfield in 1886 and lived there throughout his childhood. His war poem 'Repression of War Experience' is set not in the trenches but at his home in the High Weald of Kent.
+
 ## Francis Storr {href=/19c/19c-storr-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/99141c27-93ca-4f9d-bfef-56a29b4bc3f3)
