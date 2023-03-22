@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="William Burges (1827-1881)" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg" description="William Burges designed the interior of Dover's Maison Dieu">
+<param ve-config title="William Burges (1827-1881)" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/1f188cc0-37b3-4af1-86a5-7ff2c3e8db88" description="William Burges designed the interior of Dover's Maison Dieu">
 
 <param ve-entity eid="Q213180" aliases="Maidstone">
 <param ve-entity eid="Q1227477" aliases="Penshurst">
@@ -48,6 +48,8 @@ Sadly, Burges did not live to see his vision as he died on the 20 April 1881. Bu
 <br><br>
 This article was published: 11 March 2023.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b2/DoverRathaus.JPG" label="Dover, Maison Dieu" attribution="Hajotthu via Wikimedia Commons" license="CC BY-SA 3.0">
+<param ve-image url="https://stor.artstor.org/stor/f5be1a6b-3ae1-4689-aa3e-128ce0fced21" label="Stone Hall, Maison Dieu" attribution="Martin Crowther">
+<param ve-image url="https://stor.artstor.org/stor/a8d2851f-3fb0-4314-b8c4-8fde9baf5892" label="Stone Hall, Maison Dieu" attribution="Martin Crowther">
 
 ### Bibliography
 
