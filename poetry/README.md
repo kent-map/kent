@@ -24,6 +24,12 @@ Poet Laureate Alfred Austin lived at Swinford Old Manor near Ashford.
 
 'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!'
 
+## U.A. Fanthorpe {href=/20c/20c-fanthorpe-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=images/sissinghurst2.jpg)
+
+The autumn bonfire smokes across the woods, And reddens in the water of the moat; As red within the water burns the scythe, And the moon dwindled to her gibbous tithe, Follows the sunken sun afloat.
+
 ## John Keats {href=/19c/19c-keats-margate}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3d6bd78a-fd4c-48c8-89fc-5add0e8f84fe)
