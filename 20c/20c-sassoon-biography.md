@@ -22,6 +22,7 @@ Unless they lose control of ugly thoughts
 That drive them out to jabber among the trees.   
 <br><br>
 We understand from the switch in tone (‘jabber among the trees’) that his control of ugly thoughts is precarious. He lights his pipe and tries out the reassurances of his family: ‘Draw a deep breath; stop thinking; count fifteen, / And you're as right as rain’. But the colloquial phrase makes him think obliquely of the trenches and he finds himself wishing for a thunder-storm that will bring ‘bucketsful of water to sluice the dark’. He tries to mimic the advice he has been given to seek solace in books: ‘all the wisdom of the world / Is waiting for you on those shelves’. But he sits gnawing at his nails instead. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/MametzWood_Christopher_Williams.jpg" label="The Welsh at Mametz Wood, November 1916" attribution="Christopher Williams, Public domain, via Wikimedia Commons">
 
 The poem ends with the speaker hearing the sound of the guns across the Channel: ‘Thud, thud, thud,—quite soft ... they never cease—’. We know that Sassoon really could hear the distant guns from the garden at Weirleigh, but we can’t be sure whether the sound in the poem is real or imagined. We get a sense of the way the inner trauma and the outer reality run together. The ‘horrible shapes in shrouds’ which the speaker senses in the garden are no less real than his books or his pipe. The poem traces an arc from its careful beginnings (‘Now light your pipe; look, what a steady hand’) to its traumatised conclusion:  
 <br><br>
@@ -31,6 +32,7 @@ I'm going stark, staring mad because of the guns.
 <br><br>
 The safety of Weirleigh is invaded by appalling visions and sounds. The book-lined room and the rose-filled garden offer no refuge. Sassoon’s more didactic poems tell us what to think; this one shows us the damage war does to its survivors.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/A_Heavy_Gun_near_Arras_Art.IWMART3032.jpg" label="A Heavy Gun near Arras, 1917" attribution="William Orpen, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/A_naval_gun_being_fired_behind_the_Canadian_lines_%28I0004793%29.jpg" label="A naval gun being fired behind the Canadian lines, Nord Pas de Calais c.1917" attribution="All images from the Canadian Expeditionary Force photograph albums were uploaded as part of the Archives of Ontario’s GLAM Wiki project">
 
 Shortly after writing the poem, Sassoon’s anti-war statement was published and read out in parliament. In a bid to save him from a court martial, his friends conspired to send him to Craiglockhart War Hospital for psychiatric treatment in July. His doctor there was W. H. R. Rivers. On 4 December 1917, Rivers delivered a public lecture entitled ‘Repression of War Experience’. Sassoon’s poem was already written, but critics guess that Sassoon must have added the title at this point. It works with deep irony. The poem is, of course, a mediation on the _impossibility_ of repressing war experience.
 <br><br>
