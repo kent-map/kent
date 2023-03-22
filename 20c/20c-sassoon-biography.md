@@ -30,6 +30,7 @@ And screech at them to stop—I'm going crazy;
 I'm going stark, staring mad because of the guns.   
 <br><br>
 The safety of Weirleigh is invaded by appalling visions and sounds. The book-lined room and the rose-filled garden offer no refuge. Sassoon’s more didactic poems tell us what to think; this one shows us the damage war does to its survivors.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/A_Heavy_Gun_near_Arras_Art.IWMART3032.jpg" label="A Heavy Gun near Arras, 1917" attribution="William Orpen, Public domain, via Wikimedia Commons">
 
 Shortly after writing the poem, Sassoon’s anti-war statement was published and read out in parliament. In a bid to save him from a court martial, his friends conspired to send him to Craiglockhart War Hospital for psychiatric treatment in July. His doctor there was W. H. R. Rivers. On 4 December 1917, Rivers delivered a public lecture entitled ‘Repression of War Experience’. Sassoon’s poem was already written, but critics guess that Sassoon must have added the title at this point. It works with deep irony. The poem is, of course, a mediation on the _impossibility_ of repressing war experience.
 <br><br>
