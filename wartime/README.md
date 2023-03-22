@@ -61,3 +61,8 @@ The secret network of underground tunnels at Dover Castle were vital in the Evac
 
 First world war poet, Wilfred Owen, passed through Folkestone on his way to the front.
 
+## Siegfried Sassoon {href=/20c/20c-sassoon-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b4/Siegfried_Sassoon_by_Glyn_Warren_Philpot_1917.jpeg)
+
+Sassoon was born at Weirleigh, Matfield in 1886 and lived there throughout his childhood. His war poem 'Repression of War Experience' is set not in the trenches but at his home in the High Weald of Kent.
