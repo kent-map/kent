@@ -55,6 +55,12 @@ War-time Prime Minister Winston Churchill has several connections to Kent. Most 
 
 The secret network of underground tunnels at Dover Castle were vital in the Evacuation of Dunkirk and in key deception operations of the Second World War.
 
+## Paul Nash {href=/20c/20c-nash-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/45/Paul_Nash_woodcut_CONTEMPORARY_BRITISH_ARTISTS_1923_cropped.jpg)
+
+Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. Suffering post-traumatic stress disorder after World War One, Nash moved to Dymchurch where he recuperated whilst repeatedly painting seascapes in which the sea wall was a central motif.
+
 ## Wilfred Owen {href=/20c/20c-owen-biography/}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0b09061e-c9c4-4d43-9946-f9fb9741d3d7)
