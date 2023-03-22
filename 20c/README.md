@@ -42,6 +42,7 @@
 [Christopher St John](20c-st-john-biography)  
 [Diana & Tony Powell-Cotton](20c-powell-cotton)   
 [Vita Sackville-West](20c-sackville-west-biography)    
+[Siegfried Sassoon](20c-sassoon-biography)   
 [Ellen Terry](20c-terry-biography)  
 [Mary Tourtel](20c-tourtel-biography)   
 [Elizabeth Von Arnim](20c-vonarnim-biography)   
