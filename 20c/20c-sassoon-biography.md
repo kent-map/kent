@@ -1,6 +1,6 @@
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Siegfried Sassoon (8 September 1886 to 1 September 1967)" author="Dr Andrew Palmer" layout="vtl" banner="xxx">
+<param ve-config title="Siegfried Sassoon (8 September 1886 to 1 September 1967)" author="Dr Andrew Palmer" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/37/Thistledown%2C_Matfield%2C_Kent.JPG">
 
 <param ve-entity eid=“Q2183870” aliases=“Matfield”>
 
