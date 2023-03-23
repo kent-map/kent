@@ -1,5 +1,3 @@
-.ve-meta title="Kent Maps Online: 19th Century Kent" description="A set of themed essays about nineteenth century Kent, a county in South East England, which include interactive maps and images."
-
 <style>
     .clearfix::after {content: ""; clear: both; display: table;}
     .thumb {float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:150px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa; margin-bottom: 24px;}
