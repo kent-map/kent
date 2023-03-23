@@ -270,6 +270,12 @@ Dr Pete Orford is Course Director of the MA in Dickens Studies at the University
 
 Jeremy Page has published several collections of poems, among them In and Out of the Dark Wood (HappenStance, 2010) and Closing Time (Pindrop, 2014), and translations of Catullus, Leopardi, Rimbaud, Verlaine and Boris Vian. His novella London Calling was published by Cultured Llama in 2018. He is the founding editor of _The Frogmore Papers._
 
+## Andrew Palmer
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d470332f-24a9-4c57-9288-3a4950f70659)
+
+Dr Andrew Palmer is Principal Lecturer in Modern Literature at Canterbury Christ Church University. With Dr Sally Minogue, he is the co-author of The Remembered Dead: Poetry, Memory and the First World War (Cambridge UP, 2018), the chapter on 'Modernism and First World War Poetry' in A History of Modernist Poetry (Cambridge UP, 2015) and several other papers on modern literature in journals such as English, Word and Image and The Journal of Modern Literature. He has also published articles on Edward Thomas, Virginia Woolf, George Orwell, Ray Davies and Bruce Chatwin.
+
 ## Christiana Payne
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e32c870d-1da9-4d80-bbc5-ca4faabb1e58)
