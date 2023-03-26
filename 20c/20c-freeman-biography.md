@@ -57,18 +57,13 @@ Freeman’s last two addresses were both in Gravesend, at 1 Portland Villas, Wes
 <param ve-map center="Q107339048" zoom="15">
 <param ve-map center="Q107339052" zoom="15">
 
-Not being a resident himself, Freeman is surely allowed to place a boatman in 3 St Michael’s Lane (rather than Street), Folkestone in _The Mystery in the Channel_ in 1931, in which case the [Harbour Inn](http://www.dover-kent.com/Harbour-Inn-Folkestone.html) has a reasonable claim to being ‘the Angel tavern in Folkestone harbour’.[^ref3]  Enthusiasts who want to cover all bases may also want to stop off at [The Mariner]( http://www.dover-kent.com/Mariner-Folkestone.html) and [The Ship]( http://www.dover-kent.com/Ship-Inn-Folkestone.html)
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/Folkestone%2C_Fishmarket_Road_-_geograph.org.uk_-_2208361.jpg" label="Folkestone, Fishmarket Road" attribution="Folkestone, Fishmarket Road by Helmut Zozmann, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-map center="Q375314" zoom="15">
-<param ve-map center="Q107339062" zoom="15">
-<param ve-map center="Q107339066" zoom="15">
-<param ve-map center="Q107339071" zoom="15">
+
 
 ### Bibliography
 
 Donaldson, Norman. _In Search of Dr Thorndyke._ Ohio: Bowling Green University Popular Press, 1971.   
 Freeman, R. Austin. _‘The Echo of a Mutiny.’ Deep Waters: Mysteries on the Waves._ Ed. Martin Edwards. London: British Library, 2020. 107-149. First published 1912.   
---. _Mystery in the Channel._ London: British Library, 2016. First published 1931.   
+
 ‘Obituary.’ 1 October 1943. Times. 7. _The Times Digital Archive_, [Gale](link.gale.com/apps/doc/CS119618881/GDCS?u=ccc_uni&sid=GDCS&xid=c53573ce.) Accessed 17 February 2021.
 Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 
