@@ -30,7 +30,7 @@ Writer of stories of rural life in East Kent.
 
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
 
-## Hop and Fruit Picking in the 20th century {href=/20c/20c-encounters-with-others/}
+## Hop and Fruit Picking in the 20th century {href=/20c/20c-hop-picking/}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/36ae75f3-b601-4695-ba8e-efb2e99630fc)
 
