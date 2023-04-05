@@ -39,13 +39,13 @@ Jane died in 1966 aged [ ] . Geraldine moved to Walnut Tree House, Sevenoaks.
 
 ### References
 
-[^ref1]:
-[^ref2]: p.199
-[^ref3]:
-[^ref4]:
-[^ref5]:
-[^ref6]:
-[^ref7]:
-[^ref8]:
+[^ref1]: Carlyle, J., Carlyle, T. and Froude, J. [_Letters and memorials of Jane Welsh Carlye_](https://archive.org/details/LettersAndMemorialsofJaneWelshCarlyleVol1/mode/2up) New York Scribner's sons, 1883, p.199.
+[^ref2]: ibid. p.199
+[^ref3]: ibid. p.200
+[^ref4]: ibid. p.200
+[^ref5]: ibid. p.200
+[^ref6]: ibid, p.200
+[^ref7]: ibid. p201
+[^ref8]: ibid. p.202
 [^ref9]: p.202
 [^ref10]: p.203
