@@ -7,7 +7,7 @@
 ‘Had one talked, and thought, and corresponded, and investigated about lodgings for a month before starting, I doubt we could have made a better business of it than we have done. Certainly in point of situation there is no better in Ramsgate or in the world: looking out over a pretty stripe of lawn and gravel walk on to the great boundless Ocean!’
 <br><br>
 _Jane Welsh Carlyle to Thomas Carlyle, Sunday, August 4, 1861 from Mrs Stokes’s, 21, Wellington Crescent, East Cliff, Ramsgate._
-<br><br>
+
 Jane Carlyle, wife of the Scottish historian, philosopher and essayist, Thomas Carlyle, visited Ramsgate with her dear friend, novelist and book reviewer, Geraldine Jewsbury in August 1861. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Jane_Welsh_Carlyle%2C_ca._1856.jpg" label="Jane Welsh Carlyle, c. 1856" attribution="Mrs. Paulet, Public domain, via Wikimedia Commons">
 
