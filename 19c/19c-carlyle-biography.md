@@ -21,9 +21,10 @@ Geraldine, with whom Jane had a close but sometimes tempestuous relationship, sl
 
 Commenting on her hosts, who were “civil and honest-looking and slow”, Jane felt that the accommodation was overpriced, but she was prepared to accept this for the slower pace of life, the food which was ‘very well cooked’ and the promise of rest and recuperation.
 Nevertheless, in a letter, written two days later, her disenchantment with Ramsgate becomes apparent. Although she admired the East Cliff which was “clean and genteel and airy”, she was less impressed with the rest of the town with its “narrow, steep, confused streets like the worst parts of Brighton. The shops look nasty, the people nasty, the smells are nasty! (spoiled shrimps complicated with cesspool!) 
+<param ve-image url="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" label="East Cliff Promenade" attribution="Kent Maps Online Collection">
 
 Further to this, the cacophony of street sounds, drove her to distraction: ‘from early morning to late night, cries of prawns, shrimps and lollipops – things one never wanted, and will never want, of the most miscellaneous sort, and if that were all! But a brass band plays all through our breakfast, and repeats the performance often during the day, and the brass band is succeeded by a band of Ethiopians, and that again by a band of female fiddlers! and interspersed with these are individual barrel organs, and individual Scotch bagpipes, individual French horns.’
-
+<br><br>
 In an attempt to escape the rowdiness of Ramsgate, the two women drove to Broadstairs, where [Dickens](/dickens/dickens-broadstairs) who had commissioned 17 stories from Jewsbury, had holidayed two years earlier, but they were unable to find new lodgings. 
 
 Jane could not rest, complaining that she was unable to write with the incessant sound of carpet-beating, passing carts, bag pipes and piano playing. Geraldine, on the other hand, impervious to the noise, added to Jane’s mounting irritation as she wrote with her “rapid, continuous scrape, scraping” of her pen. Nevertheless, Jane acknowledged that the air was good. She had come to “swallow down as much as sea air as possible, and that end is attained without fatigue; for lying on the sofa with our three windows wide open on the sea, we are as well aired as if we were sailing on it.’ [p202]
