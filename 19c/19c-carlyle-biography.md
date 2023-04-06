@@ -8,6 +8,7 @@
 ‘Had one talked, and thought, and corresponded, and investigated about lodgings for a month before starting, I doubt we could have made a better business of it than we have done. Certainly in point of situation there is no better in Ramsgate or in the world: looking out over a pretty stripe of lawn and gravel walk on to the great boundless Ocean!’[^ref1]
 <br><br>
 _Jane Welsh Carlyle to Thomas Carlyle, Sunday, August 4, 1861 from Mrs Stokes’s, 21, Wellington Crescent, East Cliff, Ramsgate._
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Arthur_Boyd_Houghton_%281836-1875%29_-_Ramsgate_Sands_-_N03907_-_National_Gallery.jpg" label="Ramsgate Sands, 1861" attribution="Arthur Boyd Houghton, Public domain, via Wikimedia Commons">
 
 Jane Carlyle, wife of the Scottish historian, philosopher and essayist, Thomas Carlyle, visited [Ramsgate](/19c/19c-ramsgate) with her dear friend, novelist and book reviewer, Geraldine Jewsbury in August 1861. 
 <br><br>
@@ -38,7 +39,8 @@ On a more positive note, Jane acknowledged that the air was good. She had come t
 Geraldine was keen to stay a second week, but Jane felt she had 'better have gone to Scotland than that.'[^ref11]
 <br><br>
 Jane died in 1966. After her death, Geraldine moved from London to Sevenoaks where she lived at Walnut Tree House, London Road.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Arthur_Boyd_Houghton_%281836-1875%29_-_Ramsgate_Sands_-_N03907_-_National_Gallery.jpg" label="Ramsgate Sands, 1861" attribution="Arthur Boyd Houghton, Public domain, via Wikimedia Commons">
+<param ve-image url="https://stor.artstor.org/stor/b0104c29-f227-4e1e-b231-3eba2e3ea4dd" label="Sevenoaks High Street" attribution="Kent Maps Collection">
+
 
 ### References
 
