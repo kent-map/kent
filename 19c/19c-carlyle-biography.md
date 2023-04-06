@@ -10,7 +10,7 @@ _Jane Welsh Carlyle to Thomas Carlyle, Sunday, August 4, 1861 from Mrs Stokes’
 
 Jane Carlyle, wife of the Scottish historian, philosopher and essayist, Thomas Carlyle, visited [Ramsgate](/19c/19c-ramsgate) with her dear friend, novelist and book reviewer, Geraldine Jewsbury in August 1861. 
 <br><br>
-Jane, who an inveterate letter writer, wrote to her husband on her arrival, describing their accommodation which was agreeably situated if a little noisy:
+Jane, who was an inveterate letter writer, wrote to her husband on her arrival, describing their accommodation which was agreeably situated if a little noisy:
 <br><br>
 ‘With no sensibilities except my own to listen to them with, I can get used (I think) to the not extravagant amount of crowing and barking, and storming with the wind, and even to occasional cat-explosions on the opposite roofs! If I can’t, I can exchange beds with Geraldine; and there I can only have the noise of the sea (considerable!) and the possibilities of occasional carriages passing (I have none to-day but it is Sunday) and ‘rittle-tipping’ of Venetian blinds.’[^ref2]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Jane_Welsh_Carlyle%2C_ca._1856.jpg" label="Jane Welsh Carlyle, c. 1856" attribution="Mrs. Paulet, Public domain, via Wikimedia Commons">
