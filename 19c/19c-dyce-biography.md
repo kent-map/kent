@@ -38,11 +38,10 @@ sky behind them.
 Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern](https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in porcelain pots with views of the bay on their lids. Once visitors had eaten their fill of shrimps, there were donkey rides for children, shown in a painting by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
 <br><br>
 Dyce’s painting was shown at the Royal Academy exhibition in 1860, where reviewers were generally enthusiastic about it. One critic liked the modernity of the ‘minutely truthful family group in balmorals and linsey-woolsey petticoats’; another found it ‘one of the noblest pictures in the exhibition … poetic beauty developed out of familiar realities’[^1]. 
-<param ve-image 
+<param ve-image url="https://i.ebayimg.com/images/g/61wAAOSw0~9hNQto/s-l1600.jpg"
     fit="contain"
     label="Shrimp Paste Pot Lid from 'Pegwell Bay & Four Shrimpers' collection" 
-    description="prattware pot lid , c.1860; painting by Arthur Boyd Houghton, 1862"  
-    url="https://i.ebayimg.com/images/g/61wAAOSw0~9hNQto/s-l1600.jpg">
+    description="prattware pot lid , c.1860; painting by Arthur Boyd Houghton, 1862">
 
 The Dyces did not go back to Ramsgate in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in Arran, in 1860 in North Wales, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
 <param ve-image
