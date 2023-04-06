@@ -3,6 +3,7 @@
 
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q939838" aliases="Sevenoaks">
 
 ‘Had one talked, and thought, and corresponded, and investigated about lodgings for a month before starting, I doubt we could have made a better business of it than we have done. Certainly in point of situation there is no better in Ramsgate or in the world: looking out over a pretty stripe of lawn and gravel walk on to the great boundless Ocean!’[^ref1]
 <br><br>
