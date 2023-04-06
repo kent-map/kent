@@ -30,7 +30,7 @@ In addition to the odours, the cacophony of street sounds, drove Jane to distrac
 ‘from early morning to late night, cries of prawns, shrimps and lollipops – things one never wanted, and will never want, of the most miscellaneous sort, and if that were all! But a brass band plays all through our breakfast, and repeats the performance often during the day, and the brass band is succeeded by a band of Ethiopians, and that again by a band of female fiddlers! and interspersed with these are individual barrel organs, and individual Scotch bagpipes, individual French horns.’[^ref7]
 <br><br>
 In an attempt to escape the rowdiness of Ramsgate, the two women drove to [Broadstairs](/19c/19c-broadstair), where [Dickens](/dickens/dickens-broadstairs) who had commissioned 17 stories from Jewsbury[^ref8], had holidayed two years earlier, but they were unable to find new lodgings. 
-<param ve-image url="images/maps/The_watering_places_of_Kent.jp2">
+<param ve-image url="/images/maps/The_watering_places_of_Kent.jp2">
 
 Jane could not rest, complaining that she was unable to write with the incessant sound of carpet-beating, passing carts and piano playing. Geraldine, on the other hand, impervious to the noise, added to Jane’s mounting irritation as she wrote with her 'rapid, continuous scrape, scraping' of her pen.[^ref9] 
 <br><br>
