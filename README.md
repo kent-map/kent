@@ -196,6 +196,11 @@ The Kent coast and countryside has provided inspiration for poets throughout the
 
 An exploration of Kent's penal system including the Bloody Code, convicts, transportation and prison hulks.
 
+## Religion {href=religion}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff238281-c64f-4ce8-9172-75d3eaa3901b)
+
+An exploration of some of the people and places that have shaped faith in the county.
 
 ## Seascapes {href=seascape}
 
