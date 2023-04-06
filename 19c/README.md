@@ -25,6 +25,7 @@
 [Angela Burdett-Coutts](19c-burdett-coutts-biography)   
 [William Burges](19c-burges-biography)   
 [F. C. Burnand](19c-burnand-biography)  
+[Jane Carlyle and Geraldine Jewsbury](19c-carlyle-biography)   
 [Jessie Challacombe](19c-challacombe-biography)   
 [Mary Cowden Clarke](19c-cowden-clarke-biography)   
 [Wilkie Collins](19c-collins-biography)   
