@@ -46,7 +46,7 @@ Fanthorpe, U. A. ‘Vita Sackville-West.’ _Writers and their houses: a guide t
 [^ref1]: Sandie 1 
 [^ref2]: Fanthorpe 64
 [^ref3]: Sandie 1
-[^ref14: Fanthorpe 26
+[^ref4]: Fanthorpe 26
 [^ref5]: Sandie 1
 [^ref6]: Fanthorpe 29
 [^ref7]: Fanthorpe 339 
