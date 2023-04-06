@@ -37,6 +37,8 @@ On a more positive note, Jane acknowledged that the air was good. She had come t
 Geraldine was keen to stay a second week, but Jane felt she had 'better have gone to Scotland than that.'[^ref11]
 <br><br>
 Jane died in 1966. After her death, Geraldine moved from London to Sevenoaks where she lived at Walnut Tree House, London Road.
+<br><br>
+This article was published: 6 April 2023.
 <param ve-image url="https://stor.artstor.org/stor/b0104c29-f227-4e1e-b231-3eba2e3ea4dd" label="Sevenoaks High Street" attribution="Kent Maps Collection">
 
 
