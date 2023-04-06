@@ -28,15 +28,16 @@ In addition to the odours, the cacophony of street sounds, drove Jane to distrac
 <br><br>
 ‘from early morning to late night, cries of prawns, shrimps and lollipops – things one never wanted, and will never want, of the most miscellaneous sort, and if that were all! But a brass band plays all through our breakfast, and repeats the performance often during the day, and the brass band is succeeded by a band of Ethiopians, and that again by a band of female fiddlers! and interspersed with these are individual barrel organs, and individual Scotch bagpipes, individual French horns.’[^ref7]
 <br><br>
-In an attempt to escape the rowdiness of Ramsgate, the two women drove to [Broadstairs](/19c/19c-broadstair), where [Dickens](/dickens/dickens-broadstairs) who had commissioned 17 stories from Jewsbury, had holidayed two years earlier, but they were unable to find new lodgings. 
+In an attempt to escape the rowdiness of Ramsgate, the two women drove to [Broadstairs](/19c/19c-broadstair), where [Dickens](/dickens/dickens-broadstairs) who had commissioned 17 stories from Jewsbury[^ref8], had holidayed two years earlier, but they were unable to find new lodgings. 
 
-Jane could not rest, complaining that she was unable to write with the incessant sound of carpet-beating, passing carts and piano playing. Geraldine, on the other hand, impervious to the noise, added to Jane’s mounting irritation as she wrote with her 'rapid, continuous scrape, scraping' of her pen.[^ref8] 
+Jane could not rest, complaining that she was unable to write with the incessant sound of carpet-beating, passing carts and piano playing. Geraldine, on the other hand, impervious to the noise, added to Jane’s mounting irritation as she wrote with her 'rapid, continuous scrape, scraping' of her pen.[^ref9] 
 <br><br>
-On a more positive note, Jane acknowledged that the air was good. She had come to 'swallow down as much as sea air as possible, and that end is attained without fatigue; for lying on the sofa with our three windows wide open on the sea, we are as well aired as if we were sailing on it.’[^ref9]
+On a more positive note, Jane acknowledged that the air was good. She had come to 'swallow down as much as sea air as possible, and that end is attained without fatigue; for lying on the sofa with our three windows wide open on the sea, we are as well aired as if we were sailing on it.’[^ref10]
+<br><br>
+Geraldine was keen to stay a second week, but Jane felt she had 'better have gone to Scotland than that.'[^ref11]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Arthur_Boyd_Houghton_%281836-1875%29_-_Ramsgate_Sands_-_N03907_-_National_Gallery.jpg" label="Ramsgate Sands, 1861" attribution="Arthur Boyd Houghton, Public domain, via Wikimedia Commons">
 
-Geraldine was keen to stay a second week, but Jane felt she had 'better have gone to Scotland than that.'[^ref10]
-
-Jane died in 1966. After her death, Geraldine moved to Sevenoaks where she lived at Walnut Tree House.
+Jane died in 1966. After her death, Geraldine moved from London to Sevenoaks where she lived at Walnut Tree House, London Road.
 
 ### References
 
@@ -47,6 +48,7 @@ Jane died in 1966. After her death, Geraldine moved to Sevenoaks where she lived
 [^ref5]: ibid. p.200
 [^ref6]: ibid, p.200
 [^ref7]: ibid. p201
-[^ref8]: ibid. p.202
-[^ref9]: p.202
-[^ref10]: p.203
+[^ref8]: Chisholm, Hugh, ed. (1911) "Jewsbury, Geraldine Endsor."  _Encyclopædia Britannica_ (11th ed.) Cambridge: Cambridge University Press.
+[^ref9]: ibid. p.202
+[^ref10]: p.202
+[^ref11]: p.203
