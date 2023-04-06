@@ -2,8 +2,9 @@
 <param ve-config title="A Ramsgate Summer" author="Dr Shaun Regan" layout="vtl" 
 banner="/images/banners/18c.jpg">
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
-Margate
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+
 
 As with other destinations for respite and leisure, the amenities and entertainments available on the Kent coastline were outlined to readers in a range of printed texts. Alongside more formal travel guides, a number of narrative poems presented a lively picture of the experience of the late eighteenth-century holiday-goer. The Sea-side, an epistolary poem published in 1798, offers a notably upbeat account of a summer spent at Ramsgate. From the perspective of Simkin Slenderwit, the poem applies to Ramsgate the amiable satire and anapaestic metre that had been popularised thirty years earlier by Christopher Anstey’s _The New Bath Guide_ (1766).
 
@@ -18,9 +19,9 @@ A mirthful, wide-grinning, and sport-loving throng.
 
 Above all the other popular coastal resorts – Scarborough, Weymouth, Brighton, Hastings, and Margate – Simkin favours Ramsgate. Despite having to leave after six weeks (having exhausted his funds), therefore, he looks forward to returning, and the poem concludes by extolling the restorative effect of ‘these regions so healing to nerves and the spleen’.
 
-As his name implies, of course, Simkin – like his namesake in Anstey’s New Bath Guide – is to some degree a naïve persona, whose simple-minded enthusiasm sometimes tips into bathos and hyperbole. Before bidding a final farewell to ‘ye sweet regions of washing’, he extols the pier as ‘that fabric stupendous! that monument dear!’ (it is worth noting that the ‘new harbour’ had also been termed a ‘stupendous work’ in guidebooks such as Hall’s New Margate and Ramsgate Guide). Yet the spirited sociability of Simkin and his fellow seaside-goers cannot be entirely gainsaid, and overall, the poem’s anonymous author offers a flattering, if sometimes ironic portrayal of the pleasures to be had from ‘Summerising at Ramsgate’.
+As his name implies, of course, Simkin – like his namesake in Anstey’s _New Bath Guide_ – is to some degree a naïve persona, whose simple-minded enthusiasm sometimes tips into bathos and hyperbole. Before bidding a final farewell to ‘ye sweet regions of washing’, he extols the pier as ‘that fabric stupendous! that monument dear!’ (it is worth noting that the ‘new harbour’ had also been termed a ‘stupendous work’ in guidebooks such as Hall’s _New Margate and Ramsgate Guide_). Yet the spirited sociability of Simkin and his fellow seaside-goers cannot be entirely gainsaid, and overall, the poem’s anonymous author offers a flattering, if sometimes ironic portrayal of the pleasures to be had from ‘Summerising at Ramsgate’.
  
 ### References
 [^ref1]: Hall’s New Margate and Ramsgate Guide (Margate, 1790)
-[^ref2]: Regan, Shaun, ‘Bathing in Verse: Christopher Anstey’s The New Bath Guide and Georgian Resort Satire’, in Spa Culture and Literature in England, 1500-1800,  ed. Sophie Chiari and Samuel Cuisinier-Delorme (Cham: Palgrave Macmillan, 2021), pp. 135-157
+[^ref2]: Regan, Shaun, ‘Bathing in Verse: Christopher Anstey’s The New Bath Guide and Georgian Resort Satire’, in _Spa Culture and Literature in England, 1500-1800_,  ed. Sophie Chiari and Samuel Cuisinier-Delorme (Cham: Palgrave Macmillan, 2021), pp. 135-157.
 [^ref3]: The Sea-Side, a Poem, in Familiar Epistles from Mr. Simkin Slenderwit, Summerising at Ramsgate, to his Dear Mother in Town, 2nd edn (London, 1798)
