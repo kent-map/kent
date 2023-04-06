@@ -23,6 +23,7 @@ Above all the other popular coastal resorts – Scarborough, Weymouth, Brighton,
 <param ve-image url="https://stor.artstor.org/stor/1863746f-86f4-4c8e-a765-792d2d0162af" label="18th century map of the Thanet Coast" attribution="Augustine House Library">
 
 As his name implies, of course, Simkin – like his namesake in Anstey’s _New Bath Guide_ – is to some degree a naïve persona, whose simple-minded enthusiasm sometimes tips into bathos and hyperbole. Before bidding a final farewell to ‘ye sweet regions of washing’, he extols the pier as ‘that fabric stupendous! that monument dear!’ (it is worth noting that the ‘new harbour’ had also been termed a ‘stupendous work’ in guidebooks such as Hall’s _New Margate and Ramsgate Guide_). Yet the spirited sociability of Simkin and his fellow seaside-goers cannot be entirely gainsaid, and overall, the poem’s anonymous author offers a flattering, if sometimes ironic portrayal of the pleasures to be had from ‘Summerising at Ramsgate’.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Ramsgate_pier_from_the_bathing_sands_1809.jpg" label="Ramsgate Pier from the Bathing Sands, 1809" attribution="g walker; engraver J sadler, Public domain, via Wikimedia Commons">
  
 ### References
 [^ref1]: Hall’s New Margate and Ramsgate Guide (Margate, 1790)
