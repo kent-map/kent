@@ -30,6 +30,12 @@ Poet Laureate Alfred Austin lived at Swinford Old Manor near Ashford.
 
 The autumn bonfire smokes across the woods, And reddens in the water of the moat; As red within the water burns the scythe, And the moon dwindled to her gibbous tithe, Follows the sunken sun afloat.
 
+## Francis Hobart Hemery {href=/19c/19c-hemery-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3cb447d3-c9cf-47a9-aac5-f019f2f745aa)
+
+The close of life! – for old men die, Not those so young and strong as I! O! mercy, I cannot, will not go. How can a man pray tormented so?
+
 ## John Keats {href=/19c/19c-keats-margate}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3d6bd78a-fd4c-48c8-89fc-5add0e8f84fe)
