@@ -1,8 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Jane Welsh Carlyle (1801–1866) and Geraldine Jewsbury (1812-1880)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg">
 
-<param ve-entity eid="Q922739" aliases="Broadstairs">
-<param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
 
 ‘Had one talked, and thought, and corresponded, and investigated about lodgings for a month before starting, I doubt we could have made a better business of it than we have done. Certainly in point of situation there is no better in Ramsgate or in the world: looking out over a pretty stripe of lawn and gravel walk on to the great boundless Ocean!’[^ref1]
@@ -30,7 +28,7 @@ In addition to the odours, the cacophony of street sounds, drove Jane to distrac
 ‘from early morning to late night, cries of prawns, shrimps and lollipops – things one never wanted, and will never want, of the most miscellaneous sort, and if that were all! But a brass band plays all through our breakfast, and repeats the performance often during the day, and the brass band is succeeded by a band of Ethiopians, and that again by a band of female fiddlers! and interspersed with these are individual barrel organs, and individual Scotch bagpipes, individual French horns.’[^ref7]
 <br><br>
 In an attempt to escape the rowdiness of Ramsgate, the two women drove to [Broadstairs](/19c/19c-broadstair), where [Dickens](/dickens/dickens-broadstairs) who had commissioned 17 stories from Jewsbury[^ref8], had holidayed two years earlier, but they were unable to find new lodgings. 
-<param ve-image url="/images/maps/The_watering_places_of_Kent.jp2">
+<param ve-image url="https://stor.artstor.org/stor/887cf466-0aa5-4989-a3ba-02c786a5d29d" label="Photographic Views of Margate and Neighbourhood: Bleak House, Broadstairs" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin.">
 
 Jane could not rest, complaining that she was unable to write with the incessant sound of carpet-beating, passing carts and piano playing. Geraldine, on the other hand, impervious to the noise, added to Jane’s mounting irritation as she wrote with her 'rapid, continuous scrape, scraping' of her pen.[^ref9] 
 <br><br>
