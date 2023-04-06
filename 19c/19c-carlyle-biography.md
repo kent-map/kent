@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Jane Welsh Carlyle (1801–1866))" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg">
+<param ve-config title="Jane Welsh Carlyle (1801–1866) and Geraldine Jewsbury (1812-1880)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg">
 
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
@@ -10,7 +10,7 @@ _Jane Welsh Carlyle to Thomas Carlyle, Sunday, August 4, 1861 from Mrs Stokes’
 
 Jane Carlyle, wife of the Scottish historian, philosopher and essayist, Thomas Carlyle, visited [Ramsgate](/19c/19c-ramsgate) with her dear friend, novelist and book reviewer, Geraldine Jewsbury in August 1861. 
 <br><br>
-Jane, who an inveterate letter writer, wrote to her husband on her arrival, describing her accommodation which was agreeably situated if a little noisy:
+Jane, who an inveterate letter writer, wrote to her husband on her arrival, describing their accommodation which was agreeably situated if a little noisy:
 <br><br>
 ‘With no sensibilities except my own to listen to them with, I can get used (I think) to the not extravagant amount of crowing and barking, and storming with the wind, and even to occasional cat-explosions on the opposite roofs! If I can’t, I can exchange beds with Geraldine; and there I can only have the noise of the sea (considerable!) and the possibilities of occasional carriages passing (I have none to-day but it is Sunday) and ‘rittle-tipping’ of Venetian blinds.’[^ref2]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Jane_Welsh_Carlyle%2C_ca._1856.jpg" label="Jane Welsh Carlyle, c. 1856" attribution="Mrs. Paulet, Public domain, via Wikimedia Commons">
@@ -23,19 +23,19 @@ Commenting on her hosts, who were 'civil and honest-looking and slow',[^ref4] Ja
 However, in a letter, written two days later, her disenchantment with Ramsgate becomes apparent. Although she admired the East Cliff which was 'clean and genteel and airy',[^ref5] she was less impressed with the rest of the town with its 'narrow, steep, confused streets like the worst parts of Brighton. The shops look nasty, the people nasty, the smells are nasty! (spoiled shrimps complicated with cesspool!)'[^ref6]
 <param ve-image url="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" label="East Cliff Promenade" attribution="Kent Maps Online Collection">
 
-In addition to the odours, the cacophony of street sounds, drove her to distraction: 
+In addition to the odours, the cacophony of street sounds, drove Jane to distraction: 
 <br><br>
 ‘from early morning to late night, cries of prawns, shrimps and lollipops – things one never wanted, and will never want, of the most miscellaneous sort, and if that were all! But a brass band plays all through our breakfast, and repeats the performance often during the day, and the brass band is succeeded by a band of Ethiopians, and that again by a band of female fiddlers! and interspersed with these are individual barrel organs, and individual Scotch bagpipes, individual French horns.’[^ref7]
 <br><br>
 In an attempt to escape the rowdiness of Ramsgate, the two women drove to [Broadstairs](/19c/19c-broadstair), where [Dickens](/dickens/dickens-broadstairs) who had commissioned 17 stories from Jewsbury, had holidayed two years earlier, but they were unable to find new lodgings. 
 
-Jane could not rest, complaining that she was unable to write with the incessant sound of carpet-beating, passing carts, bag pipes and piano playing. Geraldine, on the other hand, impervious to the noise, added to Jane’s mounting irritation as she wrote with her 'rapid, continuous scrape, scraping' of her pen.[^ref8] 
+Jane could not rest, complaining that she was unable to write with the incessant sound of carpet-beating, passing carts and piano playing. Geraldine, on the other hand, impervious to the noise, added to Jane’s mounting irritation as she wrote with her 'rapid, continuous scrape, scraping' of her pen.[^ref8] 
 <br><br>
 On a more positive note, Jane acknowledged that the air was good. She had come to 'swallow down as much as sea air as possible, and that end is attained without fatigue; for lying on the sofa with our three windows wide open on the sea, we are as well aired as if we were sailing on it.’[^ref9]
 
 Geraldine was keen to stay a second week, but Jane felt she had 'better have gone to Scotland than that.'[^ref10]
 
-Jane died in 1966 aged [ ] . Geraldine moved to Walnut Tree House, Sevenoaks.
+Jane died in 1966. After her death, Geraldine moved to Sevenoaks where she lived at Walnut Tree House.
 
 ### References
 
