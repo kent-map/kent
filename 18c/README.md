@@ -6,6 +6,12 @@ Strategic position of the Medway in relation to European wars. New sea water ‘
 
 # &nbsp; {.cards}
 
+## All Aboard the Hoy {href=18c-all-aboard-the-hoy}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5c658a08-8731-4b61-9063-b83c2b711e4d)
+
+During the second half of the eighteenth century, one of the most remarked-upon aspects of holidaying in Margate was the journey from London by hoy.
+
 ## Sarah Baker {href=18c-baker-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d)
@@ -35,6 +41,12 @@ What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d h
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41)
 
 Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, with literary sensations such as The Mysteries of Udolpho (1794) and The Italian (1796). Both of these are set in the exotic climate of southern Europe. However, Ann Radcliffe never went to Italy, even better than that, she came to Kent.
+
+## A Ramsgate Summer {href=18c-ramsgate-summer}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/53ebc60c-c6d9-4cdc-85c7-814d4357a2aa)
+
+The Sea-side, an epistolary poem published in 1798, offers a notably upbeat account of a summer spent at Ramsgate.
 
 ## Charles Shadwell {href=18c-shadwell-biography}
 
