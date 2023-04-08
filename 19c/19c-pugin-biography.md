@@ -14,7 +14,6 @@ Not only was St Augustine a central figure to Pugin, but also he relished being 
 
 Pugin was aged only forty when he died at home in Ramsgate in1852. His life in which Ramsgate played a very significant part, had been turbulent and hyperactive, and he had achieved an extraordinary amount in such a short time. His oldest son, Edward (1834-1875), a talented but controversial figure, also left his mark architecturally on the area, and well beyond, but that is another story.
 <param ve-image url="https://stor.artstor.org/stor/475435c7-c741-48cb-b1d9-9aa71a748568" label="The tomb of Augustus Welby Pugin" attribution="Michelle Crowther">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Memorial_Bust_of_Edward_Welby_Pugin%2C_Ramsgate.jpg" label="Memorial bust of Edward Welby Pugin" attribution="Braveheart, via Wikimedia Commons" license="CC BY-SA 4.0">
 ### References
 
 [^ref1]: Lewis, John, _The History and Antiquities Ecclesiastical and Civil of the Isle of Tenet, in Kent, 1736,_ second edition, volume 1, p.60.
