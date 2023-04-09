@@ -17,7 +17,8 @@ This article was published: 9 April 2023.
 <param ve-image url="https://stor.artstor.org/stor/475435c7-c741-48cb-b1d9-9aa71a748568" label="The tomb of Augustus Welby Pugin" attribution="Michelle Crowther">
 
 ### Bibliography
-As listed in endnotes, plus:
+As listed in endnotes, plus:   
+<br>
 Hill, Rosemary, _God’s Architect; Pugin and the Building of Romantic Britain,2007,_ London; Penguin/Allan Lane.
 
 ### References
