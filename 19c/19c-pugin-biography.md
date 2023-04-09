@@ -12,15 +12,17 @@ Surely no-one left has his mark on East Kent, specifically at Ramsgate in the Is
 Not only was St Augustine a central figure to Pugin, but also he relished being near the sea, and bought a substantial [Deal](/19c/19c-deal) lugger, Caroline - ‘she is just six inches longer than my studio’[^ref3] - to earn some extra income and to help save mariners and cargo from the perils of the nearby [Goodwin Sands](/dickens/david-copperfield-goodwin-sands). Nautical life had always meant a great deal to him. He identified strongly and enthusiastically with the area, collecting histories of East Kent sites, and recording scenes in pencil and watercolour locally. His wife Jane reported in 1849, ‘Augustus went sketching the Kentish churches almost all this summer, many days walking 18 or 20 miles besides taking 5 or 6 coloured sketches.’[sic][^ref4]
 <br><br>
 Pugin was aged only forty when he died at home in Ramsgate in1852. His life in which Ramsgate played a very significant part, had been turbulent and hyperactive, and he had achieved an extraordinary amount in such a short time. His oldest son, Edward (1834-1875), a talented but controversial figure, also left his mark architecturally on the area, and well beyond, but that is another story.
+<br><br>
+This article was published: 9 April 2023.
 <param ve-image url="https://stor.artstor.org/stor/475435c7-c741-48cb-b1d9-9aa71a748568" label="The tomb of Augustus Welby Pugin" attribution="Michelle Crowther">
-### References
 
+### Bibliography
+As listed in endnotes, plus:
+Hill, Rosemary, _God’s Architect; Pugin and the Building of Romantic Britain,2007,_ London; Penguin/Allan Lane.
+
+### References
 [^ref1]: Lewis, John, _The History and Antiquities Ecclesiastical and Civil of the Isle of Tenet, in Kent, 1736,_ second edition, volume 1, p.60.
 [^ref2]: Powell, John Hardman, _Pugin in his home, edited with introduction by Alexandra Wedgwood, 2006,_ enlarged edition, p.26.
 [^ref3]: Belcher, Margaret, _The Collected Letters of A.W.N. Pugin, volume 4,_ letter to John Hardman, p.44.
 [^ref4]: Pugin, Jane, _‘Dearest Augustus and I’; the Journal of Jane Pugin,_ edited with introduction by Caroline Stanford, 2004, p.56.
 
-### Bibliography
-
-As listed in endnotes, plus:
-Hill, Rosemary, _God’s Architect; Pugin and the Building of Romantic Britain,2007,_ London; Penguin/Allan Lane.
