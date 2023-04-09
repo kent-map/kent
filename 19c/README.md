@@ -57,6 +57,7 @@
 [George Meredith](19c-meredith-biography)   
 [Major Alfred Moberly](19c-moberly-biography)   
 [F.F. Montrésor](19c-montresor-biography)   
+[Augustus Welby Pugin](19c-pugin-biography)   
 [Joseph Pyke](19c-pyke-biography)   
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)  
 [Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
