@@ -6,6 +6,12 @@ Painters, illustrators, cartoonists and muralists have been inspired by Kent's r
 
 # &nbsp; {.cards}
 
+## William Burges {href=/19c/19c-burges-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/a8d2851f-3fb0-4314-b8c4-8fde9baf5892)
+
+William ‘Billy’ Burges, Neo-gothic architect and designer, created a Gothic fantasy in the Town Hall at Dover.
+
 ## Alfred Cohen {href=/20c/20c-cohen-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
@@ -41,6 +47,12 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/95/Dymchurch_-_The_Strange_Coast_by_Paul_Nash_-_Paul_Nash_-_ABDAG000153.jpg)
 
 Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. 
+
+## Augustus Welby Pugin {href=/19c/19c-pugin-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fe3e0abd-0d14-4bff-ac3d-a6a600a6c298)
+
+Augustus Welby Pugin, the charismatic leader and promoter of the Gothic Revival and one of the most important architects of the nineteenth century built a church and house in Ramsgate.
 
 ## Dante Gabriel Rossetti {href=/19c/19c-rossetti-biography}
 
