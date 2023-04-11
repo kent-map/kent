@@ -198,7 +198,7 @@ An exploration of Kent's penal system including the Bloody Code, convicts, trans
 
 ## Religion {href=religion}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff238281-c64f-4ce8-9172-75d3eaa3901b)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e49b11b9-c09d-45be-ba7b-3e95b49eef2a)
 
 An exploration of some of the people and places that have shaped faith in the county.
 
