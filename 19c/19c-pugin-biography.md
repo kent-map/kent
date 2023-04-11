@@ -10,7 +10,8 @@ Surely no-one left has his mark on East Kent, specifically at [Ramsgate](/19c/19
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d0/A_W_N_Pugin_-_The_Entrance_Hall_of_Pugin%27s_House_at_Ramsgate_-_2004.0218_-_Birmingham_Museums_Trust.jpg" label="The Entrance Hall of Pugin's House at Ramsgate" attribution="Augustus Pugin, Birmingham Museums Trust, Public domain, via Wikimedia Commons">
 
 Not only was St Augustine a central figure to Pugin, but also he relished being near the sea, and bought a substantial [Deal](/19c/19c-deal) lugger, Caroline - ‘she is just six inches longer than my studio’[^ref3] - to earn some extra income and to help save mariners and cargo from the perils of the nearby [Goodwin Sands](/dickens/david-copperfield-goodwin-sands). Nautical life had always meant a great deal to him. He identified strongly and enthusiastically with the area, collecting histories of East Kent sites, and recording scenes in pencil and watercolour locally. His wife Jane reported in 1849, ‘Augustus went sketching the Kentish churches almost all this summer, many days walking 18 or 20 miles besides taking 5 or 6 coloured sketches.’[sic][^ref4]
-<br><br>
+<param ve-image url="https://stor.artstor.org/stor/fe3e0abd-0d14-4bff-ac3d-a6a600a6c298" label="The Drawing Room, The Grange, Ramsgate" attribution="Cat Blaker">
+
 Pugin was aged only forty when he died at home in [Ramsgate](/19c/19c-ramsgate) in 1852. His life in which Ramsgate played a very significant part, had been turbulent and hyperactive, and he had achieved an extraordinary amount in such a short time. His oldest son, Edward (1834-1875), a talented but controversial figure, also left his mark architecturally on the area, and well beyond, but that is another story.
 <br><br>
 This article was published: 9 April 2023.
