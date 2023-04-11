@@ -36,7 +36,7 @@ A number of baths were proposed but never progressed any further. Between 1860 a
       
 More hopefully, in 1877, the Dover Harbour Board approved plans for baths designed by J T Anson for a Mr Adcock which were expected to open the following year, but the scheme fell through. The three-floor building, its frontage ‘style being ornamental Byzantine’, was to have included a swimming pool, slipper baths, Turkish bath, and a flat for the proprietor or manager.[^ref7]
 <br><br>
-The first Victorian Turkish bath in Kent successfully to open to the public was part of the Saline Spa designed by Edward Pugin, son of the more famous Augustus Welby Pugin, as part of the Granville Hotel in Ramsgate.[^ref8]  This opened on 24 September 1870, was still open in 1938, and possibly even later.
+The first Victorian Turkish bath in Kent successfully to open to the public was part of the Saline Spa designed by Edward Pugin, son of the more famous [Augustus Welby Pugin](/19c/19c-pugin-biography), as part of the Granville Hotel in [Ramsgate](/19c/19c-ramsgate).[^ref8]  This opened on 24 September 1870, was still open in 1938, and possibly even later.
 <param ve-image url="https://stor.artstor.org/stor/3c62d8de-ea92-4d3e-abcc-efc9d1b39728" label="Advertisement in The Globe for the Granville Hotel">
 
 This was followed by baths in Tunbridge Wells (1875), Woolwich* (1876), Folkestone (1895), Dover (1903), and two in Margate (1904 and 1927)
