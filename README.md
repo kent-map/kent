@@ -155,11 +155,11 @@ Seaside resorts such as Ramsgate and Sandgate.
 Actors have made Kent their home, playwrights have used it as a setting, and theatrical companies have performed in its theatres.
 
 
-## Artists and Illustrators {href=artists}
+## Artists and Designers {href=artists}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301)
 
-Painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
+Architects, designers, painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 
 
 ## Landscapes {href=landscape}
