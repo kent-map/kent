@@ -2,6 +2,8 @@
 <param ve-config title="Beau Nash’s Tunbridge Wells" author="Dr Shaun Regan" layout="vtl" 
 banner="/images/banners/18c.jpg">
 
+<param ve-entity eid="Q665489" aliases="Tunbridge Wells">
+
 #
 
 More usually associated with eighteenth-century Bath, Richard ‘Beau’ Nash (1674-1761) was also a significant presence at Tunbridge Wells, where he presided as Master of Ceremonies from 1735 until his death. Having acted as Master of Ceremonies at Bath since the early 1700s, Nash took over at Tunbridge following the death of Bell Causey, a formidable woman who had dominated proceedings there during the preceding decade. Once installed at Tunbridge, as Phyllis Hembry outlines, Nash imposed the same ‘social code’ and ‘social routine’, introducing the ‘Bath programme of dancing’ at twice-weekly public balls (comprising minuets, tea-drinking, country dances, and a strict 11pm finish) and arranging for new arrivals to be greeted by musicians (rather than the bells that greeted visitors at Bath).
