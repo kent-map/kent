@@ -101,6 +101,12 @@ Alexa Barrett is an undergraduate English Literature and Creative and Profession
 
 Ben Bethell received a PhD in history from the University of London in 2020. He is Lecturer in Cultural Histories at Central Saint Martins, University of the Arts London. His first book, _‘Star Men’ in English Convict Prisons, 1879-1948_, published in 2022, examines prison history through converging lenses of class, sexuality, and labour.
 
+## Catriona Blaker
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/697b4f13-3150-42c1-8cf6-12aee6ddb3a7)
+
+Catriona Blaker’s first degree was in Modern History, at Edinburgh University. She is a founder member and trustee of the Pugin Society, and a past editor of its journal _True Principles_, to which she has contributed various articles. Her interest in Pugin and the nineteenth century led her to eventually acquire an MA, ‘Aspects of English Nineteenth-Century Life and Thought’, at Canterbury Christ Church University. She is the author of various local publications relating to the Pugins, such as _Edward Pugin and Kent_, and for some time worked as a guide at Pugin’s house, The Grange, Ramsgate.
+
 ## Simone Blandford
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/simoneblandford.jpg)
@@ -294,6 +300,12 @@ Madeleine Pettit is a History student at the University of Leeds. While in the s
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/bfe3a043-646e-4c72-97ec-8683a5b1713a)
 
 Natalie Pietersen is a creative writing student at Canterbury Christ Church University with a talent for illustration.
+
+## Shaun Regan
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2c4b956c-2420-4a4d-8503-addcd4273bf8)
+
+Dr Shaun Regan is Senior Lecturer in Eighteenth-Century and Romantic Literature at Queen’s University Belfast. He is co-author and editor of Making the Novel (Palgrave, 2006), Reading 1759 (Bucknell, 2013), and The Culture of the Seven Years’ War (Toronto, 2014). His recent publications include essays on Christopher Anstey’s The New Bath Guide (1766) in relation to satire, leisure, and textual afterlives.
 
 ## Andrew Sargent
 
