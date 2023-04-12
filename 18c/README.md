@@ -18,6 +18,12 @@ During the second half of the eighteenth century, one of the most remarked-upon 
 
 Sarah Baker, who was born in Milton, was a fairground performer, a ‘strolling player’, who become one of the most successful self-made women of the eighteenth century.
 
+## Beau Nash's Tunbridge Wells {href=18c-beau-nash-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://iiif.wellcomecollection.org/image/V0014577/full/full/0/default.jpg)
+
+Richard ‘Beau’ Nash (1674-1761) was a significant presence at Tunbridge Wells, where he presided as Master of Ceremonies from 1735 until his death. 
+
 ## John Boys {href=18c-boys-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
