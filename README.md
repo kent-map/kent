@@ -10,7 +10,7 @@ This site provides a set of themed essays about Kent, a county in South East Eng
 
 # Featured essays {.cards}
 
-## Mobile Landscapes - Finding Kent Dickensian {href=/dickens/mobile-landscapes}
+## Mobile Landscapes - Finding Kent Dickensian {href=dickens/mobile-landscapes}
 
 ![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/mobile-landscapes.jpg)
 
