@@ -23,3 +23,4 @@ March 19 “The tail of the comet, for such it must assuredly be, is again visib
 
 [^ref1]: Clerke, 154.
 [Rref2]: Written March 31 to the editor of the _Kentish Gazette_.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7932.553146706748!2d0.7418065082048239!3d51.174715700743604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ded807ddf7efb9%3A0xa9bcf0af640a594d!2sPluckley%2C%20Ashford!5e1!3m2!1sen!2suk!4v1681839712967!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
