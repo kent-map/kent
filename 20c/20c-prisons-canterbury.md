@@ -25,3 +25,19 @@ Canterbury held female prisoners until its closure in 1922, but it reopened in 1
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/43/Rachel_Barrett_-_Suffragette.png" label="Rachel Barrett - Suffragette" attribution="Lena Connell 1875-1949, Public domain, via Wikimedia Commons">
 
 During the 1980s, suicide was a particular problem within the prison, leading the charity Inquest to publish a report entitled _Murder by the Cathedral_ (1983) which called for an inquiry into the matter.  Many of the young men who took their own lives were remand prisoners awaiting trial, some of whom may have been found not guilty. No systematic records of deaths were kept prior to 1978, although we know of some. Many inmates died of common diseases, such as tuberculosis, which were likely exacerbated by conditions in the prison. Charles Best was held here in 1913 on a charge of attempted suicide after throwing himself in a well following the death of his wife. Before he could face trial for this offence, he passed away in Canterbury prison hospital from pneumonia at the age of 63.  Thirty-one men died between 1978 and 2013.  Eighteen of these deaths were self-inflicted, twelve from natural causes and one was a homicide. The youngest inmate to die was 17, the oldest 72, and the average age was 38. 
+
+  TNA NAVAL DETENTION QUARTERS FILE
+  REF NEWSPAPER
+  KAUFMAN BOOK
+  Home Office (1950) Prisons and Borstals: England and Wales, HMSO: London
+  CRIMINAL JUSTICE ACT 1948
+  Home Office (1950) Prisons and Borstals: England and Wales, HMSO: London
+  REFS
+  HMIP 1991
+  HC Deb 01 August 1980 vol 989 cc1941-2002
+  REF NEWSPAPER
+  REF PRISON REPORT
+  TNA EDUCATIONAL REPORT
+  TNA EDUCATIONAL REPORT
+  REF INSPECTION REPORT
+  REF INSPECTION REPORT
