@@ -3,8 +3,8 @@
 banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q1003196" aliases="Sheerness">
-<param ve-entity eid="Q4946691" aliases="Borstal">
-<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q" aliases="Maidstone">
+<param ve-entity eid="Q" aliases="Chatham">
 
 #
 
