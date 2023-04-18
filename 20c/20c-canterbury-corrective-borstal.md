@@ -22,5 +22,23 @@ The mixture of inmates sent to Canterbury caused management issues for the borst
 
 Locating the penal borstal within part of an operational prison was not considered a ‘satisfactory permanent arrangement’ by the Prison Commissioners.  In 1921 a new borstal opened at Portland which was intended to take over Canterbury’s role. All inmates were due to be transferred on the 1st September 1921. A small contingent remained at Canterbury, however, to enable the excavations at St Augustine’s Abbey to continue.  Numbers of borstal inmates after this were very small, with just seven remaining by January 1922, several of whom were due to be released shortly.  Three months later the entire prison at Canterbury was closed, bringing an end to the country’s first corrective borstal. Portland performed Canterbury’s role for only a short while before the penal borstal was once again moved, this time back into an adult prison at Wormwood Scrubs in London.  
 
+  REF GLADSTONE REPORT
+  REF BRODIE
+  REF 1908 ACT
+  REF ARCHIVE FILE – CANTERBURY BORSTAL
+  Minute dated 18th August 1910)
+  REF HOOD
+  REF ARCHIVE FILE
+  REF REVOCATION BOOK
+  REF ARCHIVE FILE
+  REF ARCHIVE FILE
+  REF ARCHIVE FILE
+  REF ARCHIVE FILE
+  (PC Report 1912, Cd. 6406, p. 170; PC Report, 1913, Cd. 7092, p. 114)
+  REF ARCHIVE FILE
+  REF ARCHIVE FILE
+  (Minute dated 23rd November 1910)
+  PCOM 7/516 – Minutes Aug 1921 to Feb 1922.
+  PCOM 7/516 – PC Minutes, January 1922.
 
 
