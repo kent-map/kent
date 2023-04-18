@@ -2,9 +2,8 @@
 <param ve-config title="Canterbury Prison in the twentieth century" author="Dr Maryse Tennant" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q1003196" aliases="Sheerness">
-<param ve-entity eid="Q4946691" aliases="Borstal">
-<param ve-entity eid="Q507517" aliases="Rochester">
+
+<param ve-entity eid="Q213180" aliases="Maidstone">
 
 #
 
@@ -12,8 +11,10 @@ Canterbury Gaol remained a local prison in the twentieth century, continuing its
 <param ve-image url="https://stor.artstor.org/stor/04b07dbb-e3b2-43d8-b9b3-265e9cff8737" label="Canterbury Prison" attribution="Michelle Crowther">
 
 The Victorian separate system of prison discipline was replaced with a focus on ‘training’ in the twentieth century. This aimed to achieve deterrence and reform through ‘social rehabilitation’, which was to take place in specific prisons set up for that purpose and to continue after release.  Drawing on ideas initially developed within the Borstal system for young offenders, training was put into effect from 1948, when the Criminal Justice Act abolished both penal servitude and hard labour.  All inmates would now serve sentences of imprisonment for varying lengths up to life, although habitual offenders could be sentenced to borstal, corrective training or preventive detention depending on their age. 
+<param ve-image url="https://stor.artstor.org/stor/a0b319c8-abed-4cc0-bc63-caf5b4326c7a" label="Canterbury Prison, 2018" attribution="Michelle Crowther">
 
 As a local prison, Canterbury’s role was to hold prisoners awaiting trial and convicted inmates while they were classified for training purposes.  They were then sent to an appropriate prison for the remainder of their sentence, although most prisoners serving less than twelve months would remain at Canterbury. Appropriate training was considered difficult to deliver in local prisons, but the new emphasis on social rehabilitation created a need for additional buildings for work, education and exercise. Originally covering two acres of land, Canterbury expanded considerably; by 2013 it had quadrupled in size.  The ‘classical Victorian prison’ blocks remained, but elsewhere there was a jumbled, crowded maze of buildings.  By 1980 the prison was considered outdated, ‘designed for another age and another approach to a social problem’.  It would operate, though, for another thirty years.
+<param ve-image url="https://stor.artstor.org/stor/fecd8053-d1de-48e1-a172-406f0c5e0145" label="Canterbury Prison, 2018" attribution="Michelle Crowther">
 
 The pressures and contradictions of the criminal justice system peak in local prisons. Rising prison populations meant they were almost permanently overcrowded from the 1940s through to the twenty-first century; Canterbury was no exception. Its Victorian cells, designed to hold a single inmate in isolation, instead often held two, three, or even four inmates together. Hearing a case involving the assault of one prisoner by another in 1958, a judge criticised the damaging practice of confining three men to a cell built for one.  Doubling and even tripling, however, were to persist. Between 1999 and 2000, an annual average of 223 inmates were held two to a cell at Canterbury.  
 <param ve-image url="https://stor.artstor.org/stor/d3a73774-ffac-428e-8f47-9e0acee4507d" label="Hear my Voice, Canterbury Prison, 2018" attribution="Michelle Crowther">
