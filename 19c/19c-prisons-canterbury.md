@@ -24,3 +24,27 @@ Originally Canterbury operated the ‘associated’ system of prison discipline.
 Later the ‘separate’ system of prison discipline was preferred, and this required a new kind of architecture. Inmates were held individually in their cells with association strictly limited and a rule of silence imposed.  From the 1840s the prison was expanded and re-designed to accommodate this, producing the Victorian cell blocks which remain today. Pentonville Prison, considered a model of the separate system, inspired the design of A Block which consisted of long rows of individual cells either side of a central corridor with galleries for the upper floors.  Each cell measured 13 feet 6 inches by 7 feet 6 inches and in them inmates spent their days and nights working or sleeping in isolation. Two more similar cell blocks were added after the 1870s, when the prison was removed from local control and placed under a new national body called the Prison Commissioners.  
 
 The new A block contained ‘special cells’ for punishing inmates who broke prison rules.  These dark cells had no windows and prisoners could be placed in them for up to three days. In 1884, 21-year-old James Ells committed suicide after spending 24 hours in the dark cells.  He had been at Canterbury just two days on remand for theft. Flogging was another punishment, and this led to a Home Office Inquiry in 1888 following the death of Philip Jewiss.  Philip collapsed in his cell 16 days after being whipped. He suffered 13 fits and died of apoplexy the following day. The inquiry absolved the prison authorities of wrongdoing, although it did criticise the inquest process for lacking transparency. Dark cells were no longer used after 1895, although ‘refractory’ prisoners continued to be placed in special cells.  Flogging of prisoners was not abolished until 1967.  
+
+### References
+
+[^ref1]:  E. Hasted, The History and Topographical Survey of the County of Kent, Vol. 1, (1797, London), p. 25?
+[^ref1]:   MAIDSTONE ARCHIVES FILE
+[^ref1]:   1865 PRISON ACT
+[^ref1]:   1948 CRIMINAL JUSTICE ACT
+[^ref1]:   1779 PENITENTIARY ACT
+[^ref1]:   GAOL ACT 1823
+[^ref1]:   MAIDSTONE ARCHIVES PRISON PLANS
+[^ref1]:   Canterbury Journal, 24 Dec. 1864, p. 4.
+[^ref1]:   REF NEWSPAPER
+[^ref1]:   REF NEWSPAPER
+[^ref1]:   HMIP Second Report 1837, p. 378.
+[^ref1]:   GOVERNOR’S DIARY
+[^ref1]:   MAIDSTONE ARCHIVE PRISON PLANS
+[^ref1]:   J. Nield, The State of the Prisons in England, Scotland and Wales, (1812, London), p. 102-4
+[^ref1]:   MAIDSTONE ARCHIVES PRISON PLANS
+[^ref1]:   REF NEWSPAPER
+[^ref1]:   MAIDSTONE ARCHIVES PLANS DESCRIPTION
+[^ref1]:   REF NEWSPAPER
+[^ref1]:   TNA HOME OFFICE FILE
+[^ref1]:   PRISON ACT 1895
+[^ref1]:   CRIMINAL JUSTICE ACT 1967
