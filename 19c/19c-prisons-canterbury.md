@@ -1,3 +1,13 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="Canterbury Gaol in the nineteenth century" author="Dr Maryse Tennant" layout="vtl" 
+banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q1003196" aliases="Sheerness">
+<param ve-entity eid="Q4946691" aliases="Borstal">
+<param ve-entity eid="Q507517" aliases="Rochester">
+
+#
+
 Historically Kent was divided into two districts: East and West.  Consequently, for much of its history there were two county gaols. Imprisoned at Canterbury were offenders from East Kent, an area stretching roughly from the Medway river to the coast. Those detained to the west of this went to Maidstone. Both districts constructed new prisons in the nineteenth century; a response to John Howard’s national work to advocate the reform of prisons. St Augustine’s Gaol, named after the Abbey on whose land it was built, was constructed between 1806 and 1808, replacing an older county gaol in St Dunstan’s Street.  
 
 Essentially holding places, county gaols were run by the local authorities to confine people awaiting trial or before other forms of punishment, such as transportation, were carried out. Later ‘public works’ prisons, such as those at Chatham and Maidstone, were developed as penal servitude replaced transportation from the 1850s. Canterbury’s new prison was also a House of Correction, however, and so confined petty offenders and vagrants sentenced to periods of up to two years hard labour. The largely nominal distinction between the two institutions was finally abolished in 1865 but local prisons, as many county gaols became known, continued to perform a dual role.  At any one time, therefore, Canterbury’s prison would contain a complex mix of inmates – petty and serious offenders; men and women; but also a large proportion of those who were technically innocent and still awaiting trial. 
