@@ -3,6 +3,7 @@
        title="Comports of Cooling and Great Expectations" 
        banner="/images/banners/19c.jpg"
        author="Pat Agar nee Comport"
+       description="My first encounter with _Great Expectations_ was as an eleven year old, watching the 1946 David Lean film in a school hall. I was spellbound and terrified in equal measure as Magwitch appeared from behind the tomb to menace the young Pip. I was there, I was Pip."
        layout="vtl">
 
 <!-- Global entities -->
