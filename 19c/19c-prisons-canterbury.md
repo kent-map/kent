@@ -23,7 +23,7 @@ Labour was highly gendered. Female inmates, who made up only a small proportion 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/96/Pentonville_Prison_Treadmill_1895.jpg" label="Treadmill at Pentonville Prison, 1895, showing what Canterbury Gaol treadmill may have been like" attribution="Public domain, via Wikimedia Commons">
 
 Originally Canterbury operated the ‘associated’ system of prison discipline. The complex mix of inmates were separated into different classes depending on their gender and the type of offence they had committed. Each wing was subdivided by a central partition wall, effectively making two separate blocks.  Men and women had separate accommodation, but more serious offenders and House of Correction inmates were also kept apart. Prisoners of each class worked together in communal rooms during the day, retiring to their cells only at night where they slept in cast iron-bedsteads with a straw mattress, two blankets and a rug.  
-<br><br?
+<br>
 Later the ‘separate’ system of prison discipline was preferred, and this required a new kind of architecture. Inmates were held individually in their cells with association strictly limited and a rule of silence imposed.  From the 1840s the prison was expanded and re-designed to accommodate this, producing the Victorian cell blocks which remain today. Pentonville Prison, considered a model of the separate system, inspired the design of A Block which consisted of long rows of individual cells either side of a central corridor with galleries for the upper floors.  Each cell measured 13 feet 6 inches by 7 feet 6 inches and in them inmates spent their days and nights working or sleeping in isolation. Two more similar cell blocks were added after the 1870s, when the prison was removed from local control and placed under a new national body called the Prison Commissioners.  
 <param ve-image url="https://stor.artstor.org/stor/6e9cc957-61b9-4342-b8e2-ef7ae7980680" label="Canterbury Prison" attribution="Michelle Crowther">
 
@@ -33,23 +33,23 @@ The new A block contained ‘special cells’ for punishing inmates who broke pr
 ### References
 
 [^ref1]:  E. Hasted, The History and Topographical Survey of the County of Kent, Vol. 1, (1797, London), p. 25?
-[^ref2]:   MAIDSTONE ARCHIVES FILE
-[^ref3]:   1865 PRISON ACT
-[^ref4]:   1948 CRIMINAL JUSTICE ACT
-[^ref5]:   1779 PENITENTIARY ACT
-[^ref6]:   GAOL ACT 1823
-[^ref7]:   MAIDSTONE ARCHIVES PRISON PLANS
-[^ref8]:   Canterbury Journal, 24 Dec. 1864, p. 4.
-[^ref9]:   REF NEWSPAPER
-[^ref10]:   REF NEWSPAPER
-[^ref11]:   HMIP Second Report 1837, p. 378.
-[^ref12]:   GOVERNOR’S DIARY
-[^ref13]:   MAIDSTONE ARCHIVE PRISON PLANS
-[^ref14]:   J. Nield, The State of the Prisons in England, Scotland and Wales, (1812, London), p. 102-4
-[^ref15]:   MAIDSTONE ARCHIVES PRISON PLANS
-[^ref16]:   REF NEWSPAPER
-[^ref17]:   MAIDSTONE ARCHIVES PLANS DESCRIPTION
-[^ref18]:   REF NEWSPAPER
-[^ref19]:   TNA HOME OFFICE FILE
-[^ref20]:   PRISON ACT 1895
-[^ref21]:   CRIMINAL JUSTICE ACT 1967
+[^ref2]:  Maidstone Archives File
+[^ref3]:  1865 Prison Act
+[^ref4]:  1948 CRIMINAL JUSTICE Act
+[^ref5]:  1779 PENITENTIARY Act
+[^ref6]:  GAOL Act 1823
+[^ref7]:  MAIDSTONE ARCHIVES PRISON PLANS
+[^ref8]:  Canterbury Journal, 24 Dec. 1864, p. 4.
+[^ref9]:  REF NEWSPAPER
+[^ref10]: REF NEWSPAPER
+[^ref11]: HMIP Second Report 1837, p. 378.
+[^ref12]: GOVERNOR’S DIARY
+[^ref13]: MAIDSTONE ARCHIVE PRISON PLANS
+[^ref14]: J. Nield, _The State of the Prisons in England, Scotland and Wales,_ (1812, London), p. 102-4
+[^ref15]:  MAIDSTONE ARCHIVES PRISON PLANS
+[^ref16]:  REF NEWSPAPER
+[^ref17]:  MAIDSTONE ARCHIVES PLANS DESCRIPTION
+[^ref18]:  REF NEWSPAPER
+[^ref19]:  TNA HOME OFFICE FILE
+[^ref20]:  PRISON Act 1895
+[^ref21]:  CRIMINAL JUSTICE Act 1967
