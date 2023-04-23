@@ -18,8 +18,9 @@ Houses of Correction were designed to deter and reform offenders through hard la
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/The_main_road_outside_the_Kent_and_Canterbury_Hospital%2C_Cant_Wellcome_L0006873.jpg" label="The main road outside the Kent and Canterbury Hospital, Canterbury. Line engraving by G. Dawe after C. Dillon." attribution="Wellcome Collection">
 
 Treading the wheel continuously with only periodic breaks was gruelling and some prisoners died from exhaustion, as George Smith did at Canterbury in 1864.  Accidents were also prevalent. In December 1858, Joseph Bolton was killed instantly when his head was crushed by the wheel while he oiled its machinery.  Recommendations were made at his inquest to improve safety, but thirty years later another prisoner lost an arm in a similar incident.  
-
+<br><br>
 Labour was highly gendered. Female inmates, who made up only a small proportion of Canterbury’s prisoners, worked at needlework, laundry and cleaning tasks. In the 1830s there were so few women held that the prison’s laundry could not function. Consequently, female prisoners from Maidstone were sent to Canterbury after conviction to increase numbers.  Female staff were employed for the women’s wing and, in 1882, an ‘improper correspondence’ developed between the matron and a male officer, leading them to be disciplined. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/96/Pentonville_Prison_Treadmill_1895.jpg" label="Treadmill at Pentonville Prison, 1895, showing what Canterbury Gaol treadmill may have been like" attribution="Public domain, via Wikimedia Commons">
 
 Originally Canterbury operated the ‘associated’ system of prison discipline. The complex mix of inmates were separated into different classes depending on their gender and the type of offence they had committed. Each wing was subdivided by a central partition wall, effectively making two separate blocks.  Men and women had separate accommodation, but more serious offenders and House of Correction inmates were also kept apart. Prisoners of each class worked together in communal rooms during the day, retiring to their cells only at night where they slept in cast iron-bedsteads with a straw mattress, two blankets and a rug.  
 
@@ -31,23 +32,23 @@ The new A block contained ‘special cells’ for punishing inmates who broke pr
 ### References
 
 [^ref1]:  E. Hasted, The History and Topographical Survey of the County of Kent, Vol. 1, (1797, London), p. 25?
-[^ref1]:   MAIDSTONE ARCHIVES FILE
-[^ref1]:   1865 PRISON ACT
-[^ref1]:   1948 CRIMINAL JUSTICE ACT
-[^ref1]:   1779 PENITENTIARY ACT
-[^ref1]:   GAOL ACT 1823
-[^ref1]:   MAIDSTONE ARCHIVES PRISON PLANS
-[^ref1]:   Canterbury Journal, 24 Dec. 1864, p. 4.
-[^ref1]:   REF NEWSPAPER
-[^ref1]:   REF NEWSPAPER
-[^ref1]:   HMIP Second Report 1837, p. 378.
-[^ref1]:   GOVERNOR’S DIARY
-[^ref1]:   MAIDSTONE ARCHIVE PRISON PLANS
-[^ref1]:   J. Nield, The State of the Prisons in England, Scotland and Wales, (1812, London), p. 102-4
-[^ref1]:   MAIDSTONE ARCHIVES PRISON PLANS
-[^ref1]:   REF NEWSPAPER
-[^ref1]:   MAIDSTONE ARCHIVES PLANS DESCRIPTION
-[^ref1]:   REF NEWSPAPER
-[^ref1]:   TNA HOME OFFICE FILE
-[^ref1]:   PRISON ACT 1895
-[^ref1]:   CRIMINAL JUSTICE ACT 1967
+[^ref2]:   MAIDSTONE ARCHIVES FILE
+[^ref3]:   1865 PRISON ACT
+[^ref4]:   1948 CRIMINAL JUSTICE ACT
+[^ref5]:   1779 PENITENTIARY ACT
+[^ref6]:   GAOL ACT 1823
+[^ref7]:   MAIDSTONE ARCHIVES PRISON PLANS
+[^ref8]:   Canterbury Journal, 24 Dec. 1864, p. 4.
+[^ref9]:   REF NEWSPAPER
+[^ref10]:   REF NEWSPAPER
+[^ref11]:   HMIP Second Report 1837, p. 378.
+[^ref12]:   GOVERNOR’S DIARY
+[^ref13]:   MAIDSTONE ARCHIVE PRISON PLANS
+[^ref14]:   J. Nield, The State of the Prisons in England, Scotland and Wales, (1812, London), p. 102-4
+[^ref15]:   MAIDSTONE ARCHIVES PRISON PLANS
+[^ref16]:   REF NEWSPAPER
+[^ref17]:   MAIDSTONE ARCHIVES PLANS DESCRIPTION
+[^ref18]:   REF NEWSPAPER
+[^ref19]:   TNA HOME OFFICE FILE
+[^ref20]:   PRISON ACT 1895
+[^ref21]:   CRIMINAL JUSTICE ACT 1967
