@@ -157,7 +157,7 @@ Actors have made Kent their home, playwrights have used it as a setting, and the
 
 ## Artists and Designers {href=artists}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fe3e0abd-0d14-4bff-ac3d-a6a600a6c298)
 
 Architects, designers, painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 
