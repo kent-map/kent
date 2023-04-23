@@ -7,20 +7,18 @@
 
 Two stars last night and sat up till two waiting for them. Ditto the night before. Sick of star-gazing—mean to break the telescopes and melt the mirrors'[^ref1] (Clerke, 154).  a letter of 23 July 1830 to his wife, Margaret:
 <br><br>
-Mathematician, astronomer and chemist, Sir John Frederick William Herschel moved to Collingwood House in Hawkhurst, Kent in 1840. The son of William Herschel, John named four of the moons of Uranus, the planet his father had discovered in 1781. Collingwood gave Herschel the skies he needed for his observations. He wrote: “I must now observe, that on Friday, the 17th, and every evening since that time when I observed the comet, the zodaical light has also been displayed in the most striking and perfectly characteristic manner and, indeed with a brilliancy, which I should certainly be disposed to regard as a proof of the opinion generally entertained of its varying from season to season in its intensity, were it not for the habitual and exceeding purity of the atmosphere in this favoured corner of our island, which is altogether free from smoke, and most commonly so from haze, and (in the absence of actual cloud) quite upon a par (so far as three year’s residence will enable me to judge) with that of any region I have visited.”[^ref2] 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Hawkhurst_sign%2C_High_Street_-_geograph.org.uk_-_331683.jpg" label="Hawkhurst sign, High Street" attribution="Oast House Archive" license="CC BY-SA 2.0">
-<param ve-map center="Q2744669" zoom="12">
+Mathematician, astronomer and chemist, Sir John Frederick William Herschel moved to Collingwood House in Hawkhurst, Kent in 1840. The son of William Herschel, John named four of the moons of Uranus, the planet his father had discovered in 1781. 
 
-This was the Great Comet of 1843. It passed closest to Earth on March 6, 1843, and was at its greatest brilliance the following day [Wikipedia] Friday 17th March was when he observed it.
-Kentish Gazette - Tuesday 11 April 1843;
-Maidstone Journal and Kentish Advertiser - Tuesday 11 April 1843
-He described the comet as having a tail 30 degrees in length and its head below the horizon.
-March 19 “The tail of the comet, for such it must assuredly be, is again visible, through much obscured by haze and holding very nearly the same position.”
-<param ve-image url="xxx" label="xx" attribution="xxx">
+Collingwood gave Herschel the skies he needed for his observations. He wrote:
+<br><br>
+'I must now observe, that on Friday, the 17th, and every evening since that time when I observed the comet, the zodaical light has also been displayed in the most striking and perfectly characteristic manner and, indeed with a brilliancy, which I should certainly be disposed to regard as a proof of the opinion generally entertained of its varying from season to season in its intensity, were it not for the habitual and exceeding purity of the atmosphere in this favoured corner of our island, which is altogether free from smoke, and most commonly so from haze, and (in the absence of actual cloud) quite upon a par (so far as three year’s residence will enable me to judge) with that of any region I have visited.'[^ref2] 
+<br><br>
+This was the Great Comet of 1843. Two nights later he observed that: 'The tail of the comet, for such it must assuredly be, is again visible, through much obscured by haze and holding very nearly the same position.'[^ref3]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Hawkhurst_sign%2C_High_Street_-_geograph.org.uk_-_331683.jpg" label="Hawkhurst sign, High Street" attribution="Oast House Archive" license="CC BY-SA 2.0">
 <param ve-map center="Q2744669" zoom="12">
 
 ### References
 
 [^ref1]: Clerke, 154.
-[Rref2]: Written March 31 to the editor of the _Kentish Gazette_.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7932.553146706748!2d0.7418065082048239!3d51.174715700743604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ded807ddf7efb9%3A0xa9bcf0af640a594d!2sPluckley%2C%20Ashford!5e1!3m2!1sen!2suk!4v1681839712967!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+[^ref2]: Written March 31 to the editor of the _Kentish Gazette_. 
+[^ref3]: _Kentish Gazette_. Tuesday 11 April 1843; _Maidstone Journal and Kentish Advertiser_ Tuesday 11 April 1843
