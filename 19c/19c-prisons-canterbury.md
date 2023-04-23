@@ -18,7 +18,7 @@ Houses of Correction were designed to deter and reform offenders through hard la
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/The_main_road_outside_the_Kent_and_Canterbury_Hospital%2C_Cant_Wellcome_L0006873.jpg" label="The main road outside the Kent and Canterbury Hospital, Canterbury. Line engraving by G. Dawe after C. Dillon." attribution="Wellcome Collection">
 
 Treading the wheel continuously with only periodic breaks was gruelling and some prisoners died from exhaustion, as George Smith did at Canterbury in 1864.  Accidents were also prevalent. In December 1858, Joseph Bolton was killed instantly when his head was crushed by the wheel while he oiled its machinery.  Recommendations were made at his inquest to improve safety, but thirty years later another prisoner lost an arm in a similar incident.  
-<br><br>
+<br>
 Labour was highly gendered. Female inmates, who made up only a small proportion of Canterbury’s prisoners, worked at needlework, laundry and cleaning tasks. In the 1830s there were so few women held that the prison’s laundry could not function. Consequently, female prisoners from Maidstone were sent to Canterbury after conviction to increase numbers.  Female staff were employed for the women’s wing and, in 1882, an ‘improper correspondence’ developed between the matron and a male officer, leading them to be disciplined. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/96/Pentonville_Prison_Treadmill_1895.jpg" label="Treadmill at Pentonville Prison, 1895, showing what Canterbury Gaol treadmill may have been like" attribution="Public domain, via Wikimedia Commons">
 
