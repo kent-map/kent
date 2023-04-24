@@ -1,4 +1,4 @@
-.ve-header "Religion" gh:kent-map/kent/images/religion/religion sticky=true
+.ve-header "Religion" gh:kent-map/images/religion/religion sticky=true
     - [Home](/)
     - [About](/about)
 
