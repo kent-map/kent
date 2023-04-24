@@ -17,7 +17,6 @@
 <param ve-entity eid="Q1047911" aliases="Caspar Hofmann">
 <param ve-entity eid="Q80330" aliases="Civil War">
 <param ve-entity eid="Q3174344" aliases="Jean Riolan">
-<param ve-entity eid="Q17534618" aliases="Church of St Andrew">
 
 **Early Life and Education**   
 William Harvey was born in Folkestone, Kent on 1 April 1578, the eldest child of a farmer and carrier, Thomas Harvey and his second wife, Joan, née Halke. He had six brothers and three sisters, and his brothers were successful merchants and courtiers who provided him material assistance during his career.
@@ -25,11 +24,9 @@ William Harvey was born in Folkestone, Kent on 1 April 1578, the eldest child of
 <param ve-map center="Q375314" zoom="10">
 
 Harvey was educated at The King’s School, Canterbury and then at Gonville and Caius College, Cambridge. His studies were supported by a Matthew Parker scholarship, founded by the Archbishop of Canterbury to support someone born in Kent and educated at King’s to study medicine.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7b/Cambridge_University%2C_Gate_of_Honour%2C_Gonville_%26_Caius_College.jpg" label="Gate of Honour, Gonville and Caius College, picture circa 1870" attribution="Public domain, via Wikimedia Commons">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/13/Archbishop_Matthew_Parker.jpg" label="Painting of Matthew Parker (1504-1575), Archbishop of Canterbury, by an unidentified painter of the Flemish School" attribution="Public domain, via Wikimedia Commons">
-
+<br><br>
 After completing his degree at Cambridge, Harvey studied medicine at the University of Padua in Italy, obtaining his MD degree in 1602. At Padua, he was tutored by the scientist and surgeon Hieronymus Fabricius (Girolamo Fabrizi of Acquapendente). Fabricius, who was fascinated by anatomy, recognised that veins in the human body had one-way valves, but was puzzled as to their function. Harvey would take the foundation of Fabricius's teaching and go on to find out what part the valves played in the circulation of blood through the body.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Girolamo_Fabrizi_d%27Acquapendente.jpg/1185px-Girolamo_Fabrizi_d%27Acquapendente.jpg" label="Girolamo Fabrizi d’Acquapendente (1537-1619)" attribution="Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/13/Archbishop_Matthew_Parker.jpg" label="Painting of Matthew Parker (1504-1575), Archbishop of Canterbury, by an unidentified painter of the Flemish School" attribution="Public domain, via Wikimedia Commons">
 
 **Medical Career**   
 Returning from Italy in 1602, Harvey established himself as a physician in London. He was not admitted to the Royal College of Physicians until 1604, having initially failed in his admission examinations. Having finally gained admission, in 1604 he married Elizabeth Browne, daughter of Lancelot Browne, one of the physicians to Elizabeth I and James I of England, at St Sepulchre’s.
