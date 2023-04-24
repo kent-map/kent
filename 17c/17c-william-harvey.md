@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="William Harvey (1578 – 1657)" author="Dr Dominique Gracia and Arnav Sharma" layout="vtl" banner="/images/banners/17c.jpg">
+<param ve-config title="William Harvey (1578 – 1657)" author="Dr Dominique Gracia and Arnav Sharma" layout="vtl" banner="https://stor.artstor.org/stor/fafede9a-16fc-4f57-8c41-61a929e62593">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q375314" aliases="Folkestone">
@@ -11,7 +11,6 @@
 <param ve-entity eid="Q7207" aliases="Elizabeth I">
 <param ve-entity eid="Q79972" aliases="James I">
 <param ve-entity eid="Q81506" aliases="Charles">
-<param ve-entity eid="Q26534074" aliases="St Sepulchre">
 <param ve-entity eid="Q8778" aliases="Galen">
 <param ve-entity eid="Q9191" aliases="René Descartes">
 <param ve-entity eid="Q1047911" aliases="Caspar Hofmann">
