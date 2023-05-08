@@ -1,10 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Canterbury Gaol in the nineteenth century" author="Dr Maryse Tennant" layout="vtl" 
+<param ve-config title="Canterbury Gaol in the Nineteenth Century" author="Dr Maryse Tennant" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q1003196" aliases="Sheerness">
-<param ve-entity eid="Q" aliases="Maidstone">
-<param ve-entity eid="Q" aliases="Chatham">
+<param ve-entity eid="Q213180" aliases="Maidstone">
 
 #
 
