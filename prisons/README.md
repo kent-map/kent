@@ -24,7 +24,7 @@ On the 19th December 1910, twenty-three young offenders were transferred from th
 
 St Augustine’s Gaol, named after the Abbey on whose land it was built, was constructed between 1806 and 1808, replacing an older county gaol in St Dunstan’s Street
 
-## Canterbury Prison in the Twentieth Century {href=/20c/20c-prisons-canterbury}
+## Canterbury Prison in the Twentieth Century {href=/20c/20c-prison-canterbury}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6e9cc957-61b9-4342-b8e2-ef7ae7980680)
 
