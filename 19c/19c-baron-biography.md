@@ -36,12 +36,12 @@ Baron's mentor Rev Wilkinson often headed up the mission activity in Kent. In Ju
 By 1891 Baron had begun to spend more time abroad on long missionary journeys accompanied by his wife, particularly to Eastern Europe and Palestine. His association with Kent came to an end, followed soon after by his severance from the Mildmay Mission in order to found the Hebrew Christian Testimony to Israel. Although the Mildmay Mission continued to expand, activities in Kent diminished as increased emphasis was put on reaching the Jewish emigrants moving to Palestine (Wilkinson, 1908, p. 258).
 
 ### References:
-(1) Dover synagogue (2021) JewishGen. Available at: https://www.jewishgen.org/jcr-uk/community/dr/index.htm
-(2) Fromow, George (1943). David Baron and the Hebrew Christian Testimony to Israel. London: Hebrew Christian Testimony to Israel
-(3) Samuel Hinds Wilkinson (1908). The Life of John Wilkinson, the Jewish Missionary. Morgan & Scott. pp. 15-16
-(4) Whitstable Times and Herne Bay Herald (1883) ‘BIRTHS, MARRIAGES, DEATHS. 4 August. Available at: https://www.britishnewspaperarchive.co.uk/viewer/bl/0000338/18730208/048/0004 (Accessed: 08 May 2023). 
-(5) The Dover Chronicle (1882) ‘The Persecuted Jews’, 18 February. Available at: https://www.britishnewspaperarchive.co.uk/viewer/bl/0004083/18820218/047/0005
-(6) The Dover Chronicle (1884) ‘The Lord In Waiting’, 12 July. Available at: https://www.britishnewspaperarchive.co.uk/viewer/bl/0004083/18840712/056/0005
-(7) Isle of Thanet Gazette (1888) ‘Keble’s Gazette’, 21 July. Available at: https://www.britishnewspaperarchive.co.uk/viewer/bl/0004717/18880721/005/0005
+(1) Dover synagogue (2021) JewishGen. Available at: https://www.jewishgen.org/jcr-uk/community/dr/index.htm   
+(2) Fromow, George (1943). David Baron and the Hebrew Christian Testimony to Israel. London: Hebrew Christian Testimony to Israel   
+(3) Samuel Hinds Wilkinson (1908). The Life of John Wilkinson, the Jewish Missionary. Morgan & Scott. pp. 15-16   
+(4) Whitstable Times and Herne Bay Herald (1883) ‘BIRTHS, MARRIAGES, DEATHS. 4 August. Available at: https://www.britishnewspaperarchive.co.uk/viewer/bl/0000338/18730208/048/0004 (Accessed: 08 May 2023).    
+(5) The Dover Chronicle (1882) ‘The Persecuted Jews’, 18 February. Available at: https://www.britishnewspaperarchive.co.uk/viewer/bl/0004083/18820218/047/0005   
+(6) The Dover Chronicle (1884) ‘The Lord In Waiting’, 12 July. Available at: https://www.britishnewspaperarchive.co.uk/viewer/bl/0004083/18840712/056/0005   
+(7) Isle of Thanet Gazette (1888) ‘Keble’s Gazette’, 21 July. Available at: https://www.britishnewspaperarchive.co.uk/viewer/bl/0004717/18880721/005/0005   
 <param ve-image url="https://stor.artstor.org/stor/1cb66dda-70f7-465c-8a67-b61a92931e9b" label="Dover Castle" attribution="By kind permission of Marrin Books">
 <param ve-map center="Q179224" zoom="15">
