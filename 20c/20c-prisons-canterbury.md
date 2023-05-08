@@ -26,6 +26,13 @@ Canterbury held female prisoners until its closure in 1922, but it reopened in 1
 During the 1980s, suicide was a particular problem within the prison, leading the charity INQUEST to publish a report entitled _Murder by the Cathedral_ (1983) which called for an inquiry into the matter.[^ref21]  Many of the young men who took their own lives were remand prisoners awaiting trial, some of whom may have been found not guilty. No systematic records of deaths were kept prior to 1978, although we know of some. Many inmates died of common diseases, such as tuberculosis, which were likely exacerbated by conditions in the prison. Charles Best was held here in 1913 on a charge of attempted suicide after throwing himself in a well following the death of his wife.[^ref22] Before he could face trial for this offence, he passed away in Canterbury prison hospital from pneumonia at the age of sixty-three.  Thirty-one men died between 1978 and 2013.[^ref23]  Eighteen of these deaths were self-inflicted, twelve from natural causes and one was a homicide. The youngest inmate to die was seventeen, the oldest seventy-two, and the average age was thirty-eight. 
 <param ve-image url="https://stor.artstor.org/stor/bb10361e-85f1-447a-a707-850b9cb1f6a5" label="Prison Bars, 2018" attribution="Michelle Crowther">
 
+### Bibliography
+
+Brodie, A., Croom, J. O’Davies, J. _English Prisons: An Architectural History,_ London, 2002.   
+Garland, D. _Punishment and Welfare: A History of Penal Strategies,_ London, 1985.
+
+### References
+
 [^ref1]:  The National Archives, ADM 116 5615, _Detention of naval and marine offenders: provision of detention quarters_, 1941-1948.
 [^ref2]:  HMIP, _Report on an Unannounced Short Follow Up Inspection of HMP Canterbury,_ London, 2011, 7.
 [^ref3]:  Kaufman, E. _Punish and Expel: Border Control and the New Purpose of the Prison,_ London, 2015.
