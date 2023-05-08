@@ -28,7 +28,7 @@ Later the ‘separate’ system of prison discipline was preferred, and this req
 <param ve-image url="https://stor.artstor.org/stor/6e9cc957-61b9-4342-b8e2-ef7ae7980680" label="Canterbury Prison" attribution="Michelle Crowther">
 
 The new A block contained ‘special cells’ for punishing inmates who broke prison rules.[^ref17]  These dark cells had no windows and prisoners could be placed in them for up to three days. In 1884, 21-year-old James Ells committed suicide after spending 24 hours in the dark cells.[^ref18]  He had been at Canterbury just two days on remand for theft. Flogging was another punishment, and this led to a Home Office Inquiry in 1888 following the death of Philip Jewiss.[^ref19]  Philip collapsed in his cell 16 days after being whipped. He suffered 13 fits and died of apoplexy the following day. The inquiry absolved the prison authorities of wrongdoing, although it did criticise the inquest process for lacking transparency. Dark cells were no longer used after 1895, although ‘refractory’ prisoners continued to be placed in special cells.[^ref20]  Flogging of prisoners was not abolished until 1967.  
-<br><br>
+<br>
 This article was published: 8 May 2023.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Prison_rules_%28convict_prisons%29_-_draft_of_rules_proposed_to_be_made_under_the_Prison_Act%2C_1898_%28IA_b22333770%29.pdf/page21-1050px-Prison_rules_%28convict_prisons%29_-_draft_of_rules_proposed_to_be_made_under_the_Prison_Act%2C_1898_%28IA_b22333770%29.pdf.jpg" label="Prison rules (convict prisons) - draft of rules proposed to be made under the Prison Act, 1898" attribution="Great Britain. Home OfficeRoyal College of Surgeons of England, Public domain, via Wikimedia Commons">
 
