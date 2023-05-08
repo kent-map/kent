@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Canterbury Corrective Borstal" author="Dr Maryse Tennant" layout="vtl" 
-banner="/images/banners/19c.jpg">
+banner="https://stor.artstor.org/stor/3fadae4a-6076-4ed2-8b19-620a22b35993">
 
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q4946691" aliases="Borstal">
@@ -19,7 +19,7 @@ Within two years unanticipated problems had begun to develop. Certain inmates we
 All borstals were intended to have penal and coercive sides, as well as offering sound education, moral guidance and training.  Finding the appropriate balance between coercion and encouragement, or punishment and reformation, however, was a key challenge during early implementation. Canterbury’s borstal played a specific role in this, in essence providing for inmates considered ‘institutional failures’, either because they had not responded well to training, or had failed to conform after release on licence.
 <br><br>
 Canterbury Borstal took two main groups of inmates. First were the ‘incorrigibles’, or boys who had ‘failed to respond adequately to reformative treatment’ because they frequently misbehaved, refused to work or were disobedient while in a regular borstal.  These were considered to exert a bad influence on other boys who were responding well to training. The second group were ‘recalls’, or licence revokees, sent back to borstal following misconduct while under supervision after early release. This included those who committed fresh offences, evaded supervision, or were non-compliant with the Borstal Association, who supervised them in the community.  Returning such inmates to normal institutions was considered to generate ‘trouble’ and take up resources which could ‘be more profitably bestowed on others’.[^ref4]  
-<param ve-image url="https://stor.artstor.org/stor/90484ba5-fe87-455b-9a2f-375e87aeefd5" label="Stop re-offending" attribution="Michelle Crowther">
+<param ve-image url="https://stor.artstor.org/stor/90484ba5-fe87-455b-9a2f-375e87aeefd5" label="Reduce re-offending" attribution="Michelle Crowther">
 
 Although located within a prison, unlike other borstals, Canterbury’s corrective centre was run separately. Adaptations were made to prevent contamination through young inmates mixing with adult prisoners, including the construction of internal stairways to isolate the borstal from the other wings.  Partitions were also erected in workshops and the chapel. Core elements of the borstal system were retained, such as the provision of industrial work, education and physical drill. Inmates were also allowed association periods and improvements were made to the lighting to enable them to read in their cells. 
 <br><br>
@@ -30,7 +30,7 @@ The mixture of inmates sent to Canterbury caused management issues for the borst
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/St_Augustine%27s_Abbey_-_nave%2C_southern_aisle_-_geograph.org.uk_-_3091829.jpg" label="St Augustine's Abbey Nave and Southern Aisle" attribution="Rob Farrow, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Locating the penal borstal within part of an operational prison was not considered a ‘satisfactory permanent arrangement’ by the Prison Commissioners.[^ref8]  In 1921 a new borstal opened at Portland which was intended to take over Canterbury’s role. All inmates were due to be transferred on the 1st September 1921. A small contingent remained at Canterbury, however, to enable the excavations at St Augustine’s Abbey to continue.  Numbers of borstal inmates after this were very small, with just seven remaining by January 1922, several of whom were due to be released shortly.[^ref9]  Three months later the entire prison at Canterbury was closed, bringing an end to the country’s first corrective borstal. Portland performed Canterbury’s role for only a short while before the penal borstal was once again moved, this time back into an adult prison at Wormwood Scrubs in London.  
-<param veimage url="https://stor.artstor.org/stor/3fadae4a-6076-4ed2-8b19-620a22b35993" label="Canterbury Prison" attribution="Michelle Crowther">
+<param ve-image url="https://stor.artstor.org/stor/84614730-c780-4d90-9c1f-e9e439e8632a" label="Cell Door" attribution="Maryse Tennant">
 
 ### Bibliography
 
