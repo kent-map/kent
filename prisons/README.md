@@ -12,6 +12,24 @@ The Bloody Code, Contagious Diseases Acts, Lock Hospitals and Convict prisons.
 
 The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
 
+## Canterbury Corrective Borstal {href=/20c/20c-canterbury-corrective-borstal/}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4db4ad8c-0688-43f9-aa73-bcf493f4b208)
+
+On the 19th December 1910, twenty-three young offenders were transferred from the Borstal Institution near Rochester to the new ‘penal’ Borstal at Canterbury. 
+
+## Canterbury Gaol in the Nineteenth Century {href=/19c/19c-canterbury-gaol/}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8b87d15d-5d86-4784-ab72-8dad919689c2)
+
+St Augustine’s Gaol, named after the Abbey on whose land it was built, was constructed between 1806 and 1808, replacing an older county gaol in St Dunstan’s Street
+
+## Canterbury Prison in the Twentieth Century {href=/20c/20c-prisons-canterbury}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6e9cc957-61b9-4342-b8e2-ef7ae7980680)
+
+Canterbury Gaol remained a local prison in the twentieth century, continuing its varied role holding remand prisoners prior to trial, convicted prisoners awaiting transfer elsewhere and those serving short sentences.
+
 ## Contagious Diseases Acts {href=/19c/19c-contagious-diseases/}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21)
