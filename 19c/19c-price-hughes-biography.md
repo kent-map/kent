@@ -56,6 +56,8 @@ Hughes was known for his sharp wit and was not afraid of speaking up. When an ol
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d7/PunchOnTheLambethConf1867.jpg" label="Punch Magazine, The Lambeth Conference, 1867" attribution="Public domain, via Wikimedia Commons">
 
 In August 1871, Hughes was ordained. A year later, he moved to Brighton to the disappointment of his members and worshippers, who gave him “pincushions and all manner of queer presents”.[^ref21] By the time he left [Dover](/19c/19c-dover), the Circuit roll had increased by 100.[^ref22]
+<br><br>
+This article was published: 6 August 2022.
 <param ve-image url="https://stor.artstor.org/stor/912348f7-294e-40f1-a5d8-f6510448e2b8" label="Hymns to be sung at the farewell service of Hugh Price Hughes" attribution="Dover Wesleyan Methodist Scrapbook">
 
 
