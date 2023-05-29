@@ -2,7 +2,7 @@
 <param ve-config title="Chatham Dockyard" author="Martin Watts" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve-map center="Q729006" zoom="10">
+<param ve-map center="Q729006" zoom="15">
 
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Ordnance Survey 1822">
