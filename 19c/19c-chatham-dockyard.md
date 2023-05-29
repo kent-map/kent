@@ -2,7 +2,7 @@
 <param ve-config title="Chatham Dockyard" author="Martin Watts" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve-map center="Q729006" zoom="15">
+<param ve-map center="Q729006" zoom="12">
 
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Ordnance Survey 1822">
@@ -17,7 +17,7 @@ The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval
 
 Two components of the industrial revolution transformed Chatham. Firstly, management was modernised with two levels of supervisor being replaced by foremen in 1822 and, in 1832 the Superintendents Act enabled the dockyard to appoint a serving Admiral specially recruited to run the dockyard. The Act allowed the Admiral to maintain his naval rank and seniority, thereby opening the position to more career minded naval officers. By contrast, the preceding system had seen the superintendent’s position being used to accommodate passed over officers who had reached the end of their career. Secondly, the dockyard was physically developed to incorporate its own furnaces, boiler making facilities and extended workshops. It was this expansion, incorporating covered building slips that enabled all weather construction, that led to Chatham becoming a key industrial centre; what would be known today as a military and industrial complex .
 <param ve-image url="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" label="The Dockyard, Chatham" attribution="Kent Maps Online">
-<param ve-map center="Q729006" zoom="10">
+<param ve-map center="Q729006" zoom="15">
 
 Whilst women had previously only been employed in the colour loft, making and repairing flags for the fleet, the mechanised Ropery introduced ‘outside women’ in 1864, employed at lower pay than men. They were called ‘outside’ because the ‘inside’ women in the loft, who enjoyed enhanced status and respect, were solely recruited from the widows and daughters of sailors lost at sea. Such respect was not granted to ‘outside’ women however, and to preserve dignity, their hours of work differed from those of the men, thus avoiding congestion of the sexes when entering and leaving the yard. In the same year Chatham became a pilot port for the notorious [Contagious Diseases Act](/19c/19c-contagious-diseases).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/73/Chatham_Dockyard_ropery_6.jpg" label="Chatham Dockyard Ropery" attribution="Nilfanion, CC BY-SA 4.0, via Wikimedia Commons">
