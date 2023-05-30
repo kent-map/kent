@@ -3,7 +3,6 @@
 <param ve-config title="David Baron (1855 – 1926)" author="Daniel Randall" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q1990804" aliases="Eythorne">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q590422" aliases="Isle of Thanet">
