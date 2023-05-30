@@ -8,12 +8,8 @@
 
 #
 
-<param ve-map center="Q1094104" zoom="10">
-
-<!-- Historical map layers -->
-<param ve-map-layer mapwarper mapwarper-id="73864" title="East Kent">
-<!-- <param mapwarper mapwarper-id="73864" title="East Kent" ve-map-layer/> -->
-<param ve-map-layer active allmaps allmaps-id="72c566b52f168813" title="East Kent" />
+.ve-map Q507517 15
+    allmaps=911e307b5cecc423 layer="Dickensland Map"
 
 #
 
