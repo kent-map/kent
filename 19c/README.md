@@ -60,7 +60,7 @@
 [Augustus Welby Pugin](19c-pugin-biography)   
 [Joseph Pyke](19c-pyke-biography)   
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)  
-[Dante Gabriel Rosetti and Christina Rossetti](19c-rossetti-biography)  
+[Dante Gabriel Rossetti and Christina Rossetti](19c-rossetti-biography)  
 [Henry Russell](19c-russell-biography)   
 [George Augustus Sala](19c-sala-biography)   
 [Edward Linley Sambourne](19c-sambourne-biography)   
