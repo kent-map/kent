@@ -29,6 +29,7 @@ Developments to improve the original invention were to mix water and rock dust, 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Dover_road_%28Page_85%29_BHL25262433.jpg" label="The Dover Road" attribution="Harper, Charles George, Public domain, via Wikimedia Commons">
 
 David Copperfield’s footwear plays a significant role in this part of his story. We know from what he tells us that they were pretty much destroyed by his journey’s end. Considering a work or military boot might last with little wear on such a walk, it highlights a question about David’s footwear. What was he wearing?    
+<br>
 From the original illustrations we can see David’s footwear is smooth soled and healed. As he was a child, it is fair to presume he wore child’s footwear and, in this case, footwear not meant for exceptionally long arduous walks on varying road surfaces. Illustrations by Hablot Knight Browne (`Phiz’), which were drawn for the original book, seem to deliberately show the sole of the shoe to the reader. This detail may be missed by today’s reader, but it might be the case that a contemporary reader would notice the smooth soles with no dots to represent hob nails. 
 <param ve-image url="/dickens/images/DCshoeswaiter.jpg" label="David Copperfield - shoes" attribution="Hablot Knight Browne">
 
