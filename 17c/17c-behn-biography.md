@@ -8,6 +8,14 @@
 <param ve-entity eid="Q2173192" aliases="Sturry">
 <param ve-entity eid="Q4898591" aliases="Betteshanger">
 
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer mapwarper mapwarper-id="44832" title="John Speed Map">
+<!-- <param mapwarper mapwarper-id="44832" title="John Speed Map" ve-map-layer/> -->
+<param ve-map-layer active allmaps allmaps-id="de6ff48c237af0be" title="John Speed Map" />
+
+#
 
 Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born; however, like much of her life, this is difficult to confirm. In a biography at the end of Behn’s play, _The Younger Brother_, it is recorded that depending on the ‘account you read- and there are many - Aphra was born in Harbledown, near Canterbury’.[^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/30/Aphra_Behn_by_Peter_Lely_ca._1670.jpg" label="Aphra Behn" attribution="Peter Lely, Public domain, via Wikimedia Commons"> 
