@@ -9,9 +9,9 @@
 <param ve-entity eid="Q4898591" aliases="Betteshanger">
 
 <!-- Historical map layers -->
-<param ve-map-layer mapwarper mapwarper-id="44832" title="John Speed Map">
-<!-- <param mapwarper mapwarper-id="44832" title="John Speed Map" ve-map-layer/> -->
-<param ve-map-layer active allmaps allmaps-id="de6ff48c237af0be" title="John Speed Map" />
+<param ve-map-layer mapwarper mapwarper-id="44832" title="John Speed Map, 1611">
+<!-- <param mapwarper mapwarper-id="44832" title="John Speed Map, 1611" ve-map-layer/> -->
+<param ve-map-layer active allmaps allmaps-id="de6ff48c237af0be" title="John Speed Map, 1611" />
 
 #
 
