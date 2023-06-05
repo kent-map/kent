@@ -12,6 +12,15 @@
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 
+
+<param ve-map center="Q24638363" zoom="15">
+
+<!-- Historical map layers -->
+<param ve-map-layer mapwarper mapwarper-id="44832" title="Ordnance Survey, East Kent, 1945">
+<!-- <param mapwarper mapwarper-id="44832" title="Ordnance Survey, East Kent, 1945" ve-map-layer/> -->
+<param ve-map-layer active allmaps allmaps-id="14769db0827a603a" title="Ordnance Survey, East Kent, 1945" />
+
+
 #
 
 Sir Noël Peirce Coward (1899-1973) was born in Teddington, south-west London, on December 16th, 1899. His father, Arthur Coward was a piano salesman for Metzlers and his mother, Violet, frequented the local theatres. From the age of four, he sang and performed in school concerts and productions; six years later, Coward had his first professional performance, appearing in children’s musical play _The Goldfish_ and had great success in his role as Prince Mussel. Many childhood performances followed and kicked off his career in show business. Juvenile performances included parts in _Where the Rainbow Ends_ in 1911 and in 1912, Coward had his directorial debut, bringing _The Daisy Chain_ to the Savoy Theatre, London.
@@ -25,6 +34,7 @@ The following decade sees Coward take-off into stardom as his work circulates th
 Goldenhurst Farm was requisitioned by the army and at the end of the war, Coward leased White Cliffs in St. Margaret’s from the Hon. Kay Norton and would remain there for seven years. In 1945, Coward wrote in his diary: ‘Another perfect day at White Cliffs. I don’t think I can fail to be happy there’. White Cliffs required a great deal of renovation, as during the Second World War, it was used by British and Canadian troops as a training area for D-day. It was one of four houses at the end of St. Margaret’s beach and was to be extended in the latter half of the 1940s. Coward purchased the remaining three houses, inviting various family members to take residence and establishing a small familial estate on the Kentish coast. Visitors included Daphne du Maurier, Katherine Hepburn, [Ian Fleming](/20c/20c-fleming-biography) and Graham Payn. Guests would pay visits to local attractions in [Deal](/seascape/deal), Dover and Folkestone. During his seven year stay at White Cliffs, Coward worked on numerous plays and short stories, none of which achieved the praise of his pre-war work. In 1951, Coward decided to leave his “happy house”[^ref1], White Cliffs, for lack of privacy and lack of inspiration. He immediately relocated to his Romney Marsh home.
 <param ve-image url="https://stor.artstor.org/stor/5aee558d-22f7-4227-9dbc-4a0a188399e9" label="White Cliffs" attribution="Daniel Vincent">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/15/White_cliffs_at_St._Margaret%27s_Bay_-_geograph.org.uk_-_2139591.jpg" label="White Cliffs at St. Margaret's Bay" attribution="Graham Horn,via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-map center="Q24638363" zoom="15">
 
 His friendship with [Ian Fleming](/20c/20c-fleming-biography) began when Coward started leasing Fleming’s Jamaican residence, Goldeneye, in 1948; they instantly became friends and great deal of time together in the following years. Coward built a place for himself in the Caribbean and would spend many happy years frequenting his foreign estate, Firefly; he would never again reside in his native country. Coward would be knighted in the 1970 New Year’s Honours List and began his retirement at his home in Jamaica. In 1973, Sir Noël Peirce Coward passed away peacefully at Firefly and is buried on Firefly Hill.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ee/Ian-Fleming-bronze-bust-by-sculptor-Anthony-Smith.jpg" label="Ian Fleming bronze bust by Anthony Smith" attribution="Fortheloveofknowledge, via Wikimedia Commons" license="CC BY-SA 4.0">
