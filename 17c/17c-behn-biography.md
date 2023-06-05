@@ -8,7 +8,7 @@
 <param ve-entity eid="Q2173192" aliases="Sturry">
 <param ve-entity eid="Q4898591" aliases="Betteshanger">
 
-<param ve-map center="Q29303" zoom="10">
+<param ve-map center="Q29303" zoom="15">
 
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="44832" title="John Speed Map">
