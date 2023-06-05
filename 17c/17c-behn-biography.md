@@ -8,14 +8,12 @@
 <param ve-entity eid="Q2173192" aliases="Sturry">
 <param ve-entity eid="Q4898591" aliases="Betteshanger">
 
-.ve-map Q29303 15
-    allmaps=993a81c2caf88fc8
 
 Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born; however, like much of her life, this is difficult to confirm. In a biography at the end of Behn’s play, _The Younger Brother_, it is recorded that depending on the ‘account you read- and there are many - Aphra was born in Harbledown, near Canterbury’.[^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/30/Aphra_Behn_by_Peter_Lely_ca._1670.jpg" label="Aphra Behn" attribution="Peter Lely, Public domain, via Wikimedia Commons"> 
 
 Her early life was in Kent, however there are deliberations as to where her exact birthplace was. Whilst ‘Colonel Thomas Colepeper declared in his manuscript “Adversaria” that she was born ‘at Sturry or Canterbury’,[^ref2] Anne Finch ‘states that she was reputed to be “Daughter to a Barber, who liv’d formerly at Wye a little market town (now much decay’d) in Kent”’[^ref3] and therefore Wye is an alternative for her place of birth. A further link to Kent later in Behn’s life is Jeffrey Boys, who was ‘a young lawyer’ and son of the ‘possessor of the manor of Betteshanger in Kent’[^ref4]. He was ‘clearly acquainted’[^ref5] with Behn, suggesting her Kent connections continued beyond childhood, traced in Boys’ diary.
-<param ve-map center="de6ff48c237af0be" zoom="10">
+<param ve-map center="Q29303" zoom="10">
 
 Much of Behn’s early life is hard to piece together, until later when she is living in London and her writing gives insight to potential life experiences. One of these is a possible trip to Surinam, alluded to in the novel _Oroonoko_ (1688), which begins with a letter stating, ‘this is a true story’.[^ref6] It is hard to tell how far this is factual, but _Oroonoko_ had ‘influence on the development of the English novel’[^ref7] with its hard-hitting account of slavery, regardless of how closely it reflects on Behn’s own experience.
 <br><br>
