@@ -12,15 +12,6 @@
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 
-
-<param ve-map center="Q24638363" zoom="15">
-
-<!-- Historical map layers -->
-<param ve-map-layer mapwarper mapwarper-id="44832" title="Ordnance Survey, East Kent, 1945">
-<!-- <param mapwarper mapwarper-id="44832" title="Ordnance Survey, East Kent, 1945" ve-map-layer/> -->
-<param ve-map-layer active allmaps allmaps-id="14769db0827a603a" title="Ordnance Survey, East Kent, 1945" />
-
-
 #
 
 Sir Noël Peirce Coward (1899-1973) was born in Teddington, south-west London, on December 16th, 1899. His father, Arthur Coward was a piano salesman for Metzlers and his mother, Violet, frequented the local theatres. From the age of four, he sang and performed in school concerts and productions; six years later, Coward had his first professional performance, appearing in children’s musical play _The Goldfish_ and had great success in his role as Prince Mussel. Many childhood performances followed and kicked off his career in show business. Juvenile performances included parts in _Where the Rainbow Ends_ in 1911 and in 1912, Coward had his directorial debut, bringing _The Daisy Chain_ to the Savoy Theatre, London.
