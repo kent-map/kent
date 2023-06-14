@@ -1,10 +1,7 @@
-The Convict Hulks of Kent
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="The Convict Hulks of Kent " author="Dr Anna McKay " layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg">
 
-The Convict Hulks of Kent 
-
-Dr Anna McKay 
-
-[Summary line] Between 1776-1857, male convicts sentenced to transportation were held on board floating prisons, disused ships known as ‘hulks’.
+<param ve-entity eid="Q939838" aliases="Sevenoaks">
 
 From the late eighteenth to mid-nineteenth century, prison hulks – ships repurposed as floating jails – were used by the British government over an 80-year period as a cost-saving means to detain convicts awaiting transportation. Thanks to the memorable opening scenes of [Charles Dickens](/dickens)’s [_Great Expectations_](/dickens/great-expectations-curated-walk) (1861), with the thrilling escape and recapture of convict Abel Magwitch from the misty marshes near Rochester, the reputation of prison hulks as floating hells was set in stone, an image etched on public memory. Narrator Pip, transfixed with horror when he encountered the ghostly ships, remarked: ‘By the light of the torches, we saw the black Hulk lying out a little way from the mud of the shore, like a wicked Noah’s ark.’ 
 
