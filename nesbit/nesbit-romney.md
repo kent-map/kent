@@ -12,7 +12,7 @@ banner="/images/banners/19c.jpg">
 Early in 1922, Nesbit was confronted with the harsh reality that her income from writing was dwindling. Although she sought other sources of income, even selling vegetables, eggs and flowers to her neighbours, she was unable to generate enough revenue to keep her family and maintain Well Hall, her sprawling rented home in Eltham. She had grown disillusioned with the encroaching suburbs too. In _Wings and the Child_, her non-fiction manual for a happy childhood, she described how the wild and lovely spot she had moved to as the last century was ending had changed over time: 
 <br><br>
 Once the road from Eltham to Woolwich was a grassy lane with hedges and big trees in the hedges, and wild pinks and Bethlehem stars, and ragged robin and campion. Now the trees are cut down and there are no more flowers. It is asphalt all the way, and here and there seats divided by iron rods so that tired tramps should not sleep on them.
-Accompanied by Tommy Tucker, her second husband, she moved to a quirky new home in Romney Marsh on the south-east coast. 
+Accompanied by Tommy Tucker, her second husband, she moved to a quirky new home in [Romney Marsh](/placesqz/romney-overview) on the south-east coast. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b2/St_Mary%27s_Bay_-_1984_-_geograph.org.uk_-_2368859.jpg" label="St Mary's Bay - 1984" attribution="by Helmut Zozmann, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-map center="Q2057625" zoom="11">
 
