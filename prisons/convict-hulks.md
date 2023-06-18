@@ -1,7 +1,16 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="The Convict Hulks of Kent " author="Dr Anna McKay " layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg">
 
-<param ve-entity eid="Q939838" aliases="Sevenoaks">
+<param ve-entity eid="Q1321596" aliases="Hoo Peninsula">
+
+<param ve-map center="Q1321596" zoom="15">
+
+<!-- Historical map layers -->
+<param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1822">
+<!-- <param mapwarper mapwarper-id="44832" title="Kent Topo Survey 1822" ve-map-layer/> -->
+<param ve-map-layer active allmaps allmaps-id="a674cc941b6c08cf" title="Kent Ordnance Survey 1822" />
+
+#
 
 From the late eighteenth to mid-nineteenth century, prison hulks – ships repurposed as floating jails – were used by the British government over an 80-year period as a cost-saving means to detain convicts awaiting transportation. Thanks to the memorable opening scenes of [Charles Dickens](/dickens)’s [_Great Expectations_](/dickens/great-expectations-curated-walk) (1861), with the thrilling escape and recapture of convict Abel Magwitch from the misty marshes near Rochester, the reputation of prison hulks as floating hells was set in stone, an image etched on public memory. Narrator Pip, transfixed with horror when he encountered the ghostly ships, remarked: ‘By the light of the torches, we saw the black Hulk lying out a little way from the mud of the shore, like a wicked Noah’s ark.’ 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/The_Warrior_prison_ship.JPG" label="Warrior prison ship, Woolwich" attribution="Henry Mayhew’s Criminal Prisons of London, and Scenes of Prison Life (1861)">
@@ -22,6 +31,7 @@ The ships’ state of disrepair brought their own problems; in October 1829, the
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_gibbet_on_the_marshes_John_McLenan%27s_Harper%27s_Weekly_Illustrations.jpeg" label="Great Expectations, the gibbet on the marshes, Harper’s Weekly, illustrated by John McLenan (1860)">
 
 Convict hulks stationed along the Kent coastline were only supposed to be temporary measures to ease prison overcrowding, yet the system operated for nearly a century. It was hoped that their poor reputation would act as a deterrent to would-be offenders, but many people driven to desperation through poverty had no choice, while others saw the prospect of transportation as an opportunity for a new life and fresh start. The hulks were a necessary stepping-stone in the transportation process until the ships were gradually phased out amidst a wave of penal reforms, finally ceasing in England by 1857. While expenditure and upkeep was far greater than the cost of investing in new prisons, the government used hulks as stopgaps until it settled on new policy. The legacy of convict hulks as ‘wicked Noah’s arks’ lives on today, represented in the landscape; they built new prisons and transformed naval dockyards, and the coastal marshes of the Hoo Peninsula still captures the imagination, evoking their dark and dramatic memory.
+<param ve-map center="Q1321596" zoom="15">
 
 
 ### References:
