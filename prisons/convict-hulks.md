@@ -4,6 +4,8 @@
 <param ve-entity eid="Q1321596" aliases="Hoo Peninsula">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q1003196" aliases="Sheerness">
+<param ve-entity eid="Q1006232" aliases="Woolwich">
+
 
 <param ve-map center="Q1321596" zoom="15">
 
