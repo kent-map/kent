@@ -34,7 +34,13 @@ Canterbury Gaol remained a local prison in the twentieth century, continuing its
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21)
 
-Following public concern over an increase in prostitution and venereal disease, reflecting the rapid rise in population, urban living and increased mobility, Parliament passed the Contagious Diseases Act in 1864
+Following public concern over an increase in prostitution and venereal disease, reflecting the rapid rise in population, urban living and increased mobility, Parliament passed the Contagious Diseases Act in 1864.
+
+## Convict Hulks in Kent {href=/prisons/convict-hulks/}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/24/Walter_William_May_-_Prison_hulks_at_anchor_in_the_River_Medway.jpg)
+
+Between 1776-1857, male convicts sentenced to transportation were held on board floating prisons, disused ships known as ‘hulks’.
 
 ## Convicts in Kent {href=/19c/19c-convicts-overview/}
 
