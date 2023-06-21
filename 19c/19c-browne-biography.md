@@ -11,13 +11,25 @@ Artist, etcher and illustrator Hablot K. Browne illustrated the work of a number
 
 While it is uncertain when Browne visited Kent, we do know that he was here on at least two occasions. Appropriately enough his presence can be inferred not so much from what he wrote as through his visual impressions. In the 1830s he drew Rochester Cathedral for a series on cathedral churches.
 
-We know that he also visited [Margate](/19c-margate) at least once, from an undated letter written to his son Walter from 6A Crescent Place (formerly one of the chief buildings in the town according to Walley Oulton).  A local guide describes the High Street’s ‘wooden booths where you may buy a walking-stick, then go into the next one and have your hair cut and curled, and afterwards step next door and take a bath’.  Browne includes an illustration of himself struggling with a towel in one of these baths, ‘the gas-burner being so ingeniously placed that it was impossible for any bather to avoid casting gigantic studies of the nude upon the window blind.’  
+We know that he also visited [Margate](/19c-margate) at least once, from an undated letter written to his son Walter from 6A Crescent Place (formerly one of the chief buildings in the town according to Walley Oulton).[^ref1]  A local guide describes the High Street’s ‘wooden booths where you may buy a walking-stick, then go into the next one and have your hair cut and curled, and afterwards step next door and take a bath’.[^ref2]  Browne includes an illustration of himself struggling with a towel in one of these baths, ‘the gas-burner being so ingeniously placed that it was impossible for any bather to avoid casting gigantic studies of the nude upon the window blind.’[^ref3]  
 
 It is possible that this was more a work trip than a holiday per se, as Browne was one of the illustrators of the 1864 _The Strange Adventures of Two Single Gentlemen_ by the comic author and _Judy_ Journalist Charles Ross. His picture of a Margate mermaid shows her naked from the waist up, while her tail is modestly covered by what might be either a lobster net or a crinoline cage.
 
 While Browne clearly enjoyed the comedic opportunities of a holiday in Kent, it is poignant to remember that he probably never visited his former friend and collaborator [Dickens](/dickens) at [Gad’s Hill](/dickens/dickens-gads-hill).
 
 ### Bibliography
-[_ All About Margate and Herne Bay_](https://books.google.co.uk/books?id=yxQHAAAAQAAJ&pg=PA4&dq=high+street+margate+baths&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj4yeHk18j_AhVNhlwKHYPXA90Q6AF6BAgCEAI#v=onepage&q=high%20street%20margate%20baths&f=false). [Margate, 1864].
+[_ All About Margate and Herne Bay_](https://books.google.co.uk/books?id=yxQHAAAAQAAJ&pg=PA4&dq=high+street+margate+baths&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj4yeHk18j_AhVNhlwKHYPXA90Q6AF6BAgCEAI#v=onepage&q=high%20street%20margate%20baths&f=false). Margate, 1864.   
+Bassett, Troy J. ‘Title: The Strange Adventures of Two Single Gentlemen.’ _At the Circulating Library: A Database of Victorian Fiction, 1837—1901_. 15 May 2023.
+http://www.victorianresearch.org/atcl/show_title.php?tid=17896&aid=254.  Accessed 16 June 2023.   
+Browne, Edgar. _Phiz and Dickens, as they appeared to Edgar Browne_. London: James Nisbet & Co. 1913   
+Kitton, F. G. [_Phiz (Hablot K. Browne): a Memoir_](https://www.gutenberg.org/files/33723/33723-h/33723-h.htm). 22 July 1882. _Punch_. 
+Lester, Valerie Browne. _Phiz: the Man Who Drew Dickens_. London: Chatto & Windus, 2006.   
+Oulton, Walley. [_Picture of Margate and Its Vicinity_](https://books.google.co.uk/books?id=ExEHAAAAQAAJ&pg=PA98&dq=crescent+place+margate&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjYqOzbvMj_AhXWhFwKHZ4pAO0Q6AF6BAgFEAI#v=onepage&q=crescent%20place%20margate&f=false) London: Baldwin, Cradock and Joy, 1820.   
+Ross, Charles. [_The strange adventures of two single gentlemen, a big black box, and a green cotton umbrella; with some particulars respecting a young lady in curl-papers. With illustrations, by H. K.Browne, Victor Ravel, Eugene Seys, and the author._](https://books.google.co.uk/books?id=QZOSo8wYxfEC&newbks=0&printsec=frontcover&pg=PA1&dq=phiz+margate&hl=en&redir_esc=y#v=onepage&q=phiz%20margate&f=false) London:  Arthur Hall Smart and Allen, 1864.   
+_Winkles's Architectural and Picturesque Illustrations of the Cathedral Churches of England and Wales._ Vol 2. 1838.   
 
-Bassett, Troy J. ‘Title: The Strange Adventures of Two Single Gentlemen.’ _At the Circulating Library: A Database of Victorian Fiction, 1837—1901_. 15 May 2023. 
+### References
+[^ref1]: Oulton, 97.
+[^ref2]: _All About Margate and Herne Bay._ 63.
+[^ref3]: See Kitton. 
+
