@@ -18,9 +18,8 @@ It is possible that this was more a work trip than a holiday per se, as Browne w
 While Browne clearly enjoyed the comedic opportunities of a holiday in Kent, it is poignant to remember that he probably never visited his former friend and collaborator [Dickens](/dickens) at [Gad’s Hill](/dickens/dickens-gads-hill).
 
 ### Bibliography
-[_ All About Margate and Herne Bay_](https://books.google.co.uk/books?id=yxQHAAAAQAAJ&pg=PA4&dq=high+street+margate+baths&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj4yeHk18j_AhVNhlwKHYPXA90Q6AF6BAgCEAI#v=onepage&q=high%20street%20margate%20baths&f=false). Margate, 1864.   
-Bassett, Troy J. ‘Title: The Strange Adventures of Two Single Gentlemen.’ _At the Circulating Library: A Database of Victorian Fiction, 1837—1901_. 15 May 2023.
-http://www.victorianresearch.org/atcl/show_title.php?tid=17896&aid=254.  Accessed 16 June 2023.   
+[_All About Margate and Herne Bay_](https://books.google.co.uk/books?id=yxQHAAAAQAAJ&pg=PA4&dq=high+street+margate+baths&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj4yeHk18j_AhVNhlwKHYPXA90Q6AF6BAgCEAI#v=onepage&q=high%20street%20margate%20baths&f=false). Margate, 1864.   
+Bassett, Troy J. ‘Title: The Strange Adventures of Two Single Gentlemen.’ [_At the Circulating Library: A Database of Victorian Fiction, 1837—1901_.](http://www.victorianresearch.org/atcl/show_title.php?tid=17896&aid=254.) 15 May 2023. Accessed 16 June 2023.   
 Browne, Edgar. _Phiz and Dickens, as they appeared to Edgar Browne_. London: James Nisbet & Co. 1913   
 Kitton, F. G. [_Phiz (Hablot K. Browne): a Memoir_](https://www.gutenberg.org/files/33723/33723-h/33723-h.htm). 22 July 1882. _Punch_. 
 Lester, Valerie Browne. _Phiz: the Man Who Drew Dickens_. London: Chatto & Windus, 2006.   
