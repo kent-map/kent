@@ -7,9 +7,6 @@
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-entity eid="Q1068204" aliases="Royal Naval Dockyards">
 
-
-<param ve-map center="Q1321596" zoom="12">
-
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1822">
 <!-- <param mapwarper mapwarper-id="44832" title="Kent Topo Survey 1822" ve-map-layer/> -->
