@@ -1,11 +1,23 @@
-Hablot K. Browne (Phiz) (1815-1882)
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
+<param ve-config title="Hablot K. Browne (Phiz) (1815-1882)" author="Professor Carolyn Oulton" layout="vtl" 
+banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q29303" aliases="Canterbury">
+
+#
+
 Artist, etcher and illustrator Hablot K. Browne illustrated the work of a number of authors. His collaboration with [Dickens](/dickens) began and ended with two novels connected to Kent, [The Pickwick Papers](/dickens/pickwick-papers) and [A Tale of Two Cities](/dickens/tale-two-cities) respectively.
+
 While it is uncertain when Browne visited Kent, we do know that he was here on at least two occasions. Appropriately enough his presence can be inferred not so much from what he wrote as through his visual impressions. In the 1830s he drew Rochester Cathedral for a series on cathedral churches.
+
 We know that he also visited [Margate](/19c-margate) at least once, from an undated letter written to his son Walter from 6A Crescent Place (formerly one of the chief buildings in the town according to Walley Oulton).  A local guide describes the High Street’s ‘wooden booths where you may buy a walking-stick, then go into the next one and have your hair cut and curled, and afterwards step next door and take a bath’.  Browne includes an illustration of himself struggling with a towel in one of these baths, ‘the gas-burner being so ingeniously placed that it was impossible for any bather to avoid casting gigantic studies of the nude upon the window blind.’  
+
 It is possible that this was more a work trip than a holiday per se, as Browne was one of the illustrators of the 1864 _The Strange Adventures of Two Single Gentlemen_ by the comic author and _Judy_ Journalist Charles Ross. His picture of a Margate mermaid shows her naked from the waist up, while her tail is modestly covered by what might be either a lobster net or a crinoline cage.
+
 While Browne clearly enjoyed the comedic opportunities of a holiday in Kent, it is poignant to remember that he probably never visited his former friend and collaborator [Dickens](/dickens) at [Gad’s Hill](/dickens/dickens-gads-hill).
 
-Bibliography
+### Bibliography
 [_ All About Margate and Herne Bay_](https://books.google.co.uk/books?id=yxQHAAAAQAAJ&pg=PA4&dq=high+street+margate+baths&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj4yeHk18j_AhVNhlwKHYPXA90Q6AF6BAgCEAI#v=onepage&q=high%20street%20margate%20baths&f=false). [Margate, 1864].
 
 Bassett, Troy J. ‘Title: The Strange Adventures of Two Single Gentlemen.’ _At the Circulating Library: A Database of Victorian Fiction, 1837—1901_. 15 May 2023. 
