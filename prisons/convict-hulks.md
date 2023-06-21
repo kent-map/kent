@@ -44,6 +44,9 @@ Convict hulks stationed along the Kent coastline were only supposed to be tempor
 This article was published: 21 June 2023.
 <param ve-map center="Q1321596" zoom="12">
 
+### Further reading:
+Anderson, Clare. _A Global History of Convicts and Penal Colonies_ (London: Bloomsbury, 2018).
+
 ### References:
 [^ref1]: Charles Dickens, _Great Expectations_ (London: Chapman & Hall, 1861).
 [^ref2]: House of Commons Parliamentary Papers, _Penitentiary Houses_, 5 June 1810, Commons Sitting, series 1, vol.17, cols.312-352 (col.326)
@@ -52,6 +55,3 @@ This article was published: 21 June 2023.
 [^ref5]: FindMyPast, Convict Transportation Registers 1787-1870, ‘Valentine Fryer’, departure year 1791.
 [^ref6]: ‘Shocking accident at Chatham’, _Morning Post_, 19 October 1829.
 [^ref7]: ‘Felonies’, case of Charles Watson Newberry, _Police Gazette; or, Hue and Cry_, 22 July 1837.
-
-### Further reading:
-Anderson, Clare. _A Global History of Convicts and Penal Colonies_ (London: Bloomsbury, 2018).
