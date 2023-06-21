@@ -18,6 +18,7 @@ We know that he also visited [Margate](/19c-margate) at least once, from an unda
 It is possible that this was more a work trip than a holiday per se, as Browne was one of the illustrators of the 1864 _The Strange Adventures of Two Single Gentlemen_ by the comic author and _Judy_ Journalist Charles Ross. His picture of a Margate mermaid shows her naked from the waist up, while her tail is modestly covered by what might be either a lobster net or a crinoline cage.
 
 While Browne clearly enjoyed the comedic opportunities of a holiday in Kent, it is poignant to remember that he probably never visited his former friend and collaborator [Dickens](/dickens) at [Gad’s Hill](/dickens/dickens-gads-hill).
+<param ve-image url="https://iiif.wellcomecollection.org/image/V0039463/full/full/0/default.jpg" label="A man with a carpetbag and an umbrella enters a lodging house and asks for a room, but the landlady rejects his request, thinking that his carpetbag identifies him with a man who had defrauded other lodging houses" attribution="Wood engraving after Phiz">
 
 ### Bibliography
 [_All About Margate and Herne Bay_](https://books.google.co.uk/books?id=yxQHAAAAQAAJ&pg=PA4&dq=high+street+margate+baths&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj4yeHk18j_AhVNhlwKHYPXA90Q6AF6BAgCEAI#v=onepage&q=high%20street%20margate%20baths&f=false). Margate, 1864.   
