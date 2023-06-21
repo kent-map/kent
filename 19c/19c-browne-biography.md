@@ -8,6 +8,7 @@ banner="/images/banners/19c.jpg">
 #
 
 Artist, etcher and illustrator Hablot K. Browne illustrated the work of a number of authors. His collaboration with [Dickens](/dickens) began and ended with two novels connected to Kent, [The Pickwick Papers](/dickens/pickwick-papers) and [A Tale of Two Cities](/dickens/tale-two-cities) respectively.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Pickwick_Weller_Hablot_Knight_Browne_1836.jpg" label="Pickwick Weller, 1836" attribution="Hablot Knight Browne">
 
 While it is uncertain when Browne visited Kent, we do know that he was here on at least two occasions. Appropriately enough his presence can be inferred not so much from what he wrote as through his visual impressions. In the 1830s he drew Rochester Cathedral for a series on cathedral churches.
 
