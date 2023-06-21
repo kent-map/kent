@@ -27,6 +27,7 @@ Lester, Valerie Browne. _Phiz: the Man Who Drew Dickens_. London: Chatto & Windu
 Oulton, Walley. [_Picture of Margate and Its Vicinity_](https://books.google.co.uk/books?id=ExEHAAAAQAAJ&pg=PA98&dq=crescent+place+margate&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjYqOzbvMj_AhXWhFwKHZ4pAO0Q6AF6BAgFEAI#v=onepage&q=crescent%20place%20margate&f=false) London: Baldwin, Cradock and Joy, 1820.   
 Ross, Charles. [_The strange adventures of two single gentlemen, a big black box, and a green cotton umbrella; with some particulars respecting a young lady in curl-papers. With illustrations, by H. K.Browne, Victor Ravel, Eugene Seys, and the author._](https://books.google.co.uk/books?id=QZOSo8wYxfEC&newbks=0&printsec=frontcover&pg=PA1&dq=phiz+margate&hl=en&redir_esc=y#v=onepage&q=phiz%20margate&f=false) London:  Arthur Hall Smart and Allen, 1864.   
 _Winkles's Architectural and Picturesque Illustrations of the Cathedral Churches of England and Wales._ Vol 2. 1838.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%22Phiz%22_%28Hablot_Knight_Browne%29_-_a_memoir%2C_including_a_selection_from_his_correspondence_and_notes_on_his_principal_works_%28IA_phizhablotknight00kitt%29.pdf/page8-700px-%22Phiz%22_%28Hablot_Knight_Browne%29_-_a_memoir%2C_including_a_selection_from_his_correspondence_and_notes_on_his_principal_works_%28IA_phizhablotknight00kitt%29.pdf.jpg" label="Hablot Knight Browne - a memoir" attribution="Hablot Knight Browne">
 
 ### References
 [^ref1]: Oulton, 97.
