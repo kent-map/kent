@@ -12,7 +12,7 @@
 <param ve-entity eid="Q2551894" aliases="Walmer">
 <param ve-entity eid="Q6390913" aliases="Kennington">
 <param ve-entity eid="Q1836548" aliases="Barham">
-
+<param ve-entity eid="Q911577" aliases="Dungeness">
 
 ‘But to come back to Folkestone. I loved the little zig-zag paths that went down to the lower level from which one might approach the sea, the water-drawn lift cage in which for twopence (it costs more now) one might go down or of course up, for the cars work in couples, to the deliciously ugly red brick Victorian lifthouse, the small shops around the harbour and the harbour itself, the rows of solid hotels that stand back from the front’ 
 _The Belting Inheritance_ (1965)
@@ -25,7 +25,7 @@ This experience probably influenced the backdrop of _The Paper Chase_ (1956), in
 
 The action of _The Paper Chase_ is set in the mid-1940s, by which time attempts had been made to build new communities along the coast through the creation of the new town Lydd-on-Sea and the rerouting of the branch line from Ashford. When Applegate gets the train from Ashford to Romney Marsh  he therefore  goes via Ham Street, Brookland and Lydd-on-Sea (which he mistakenly refers to as Lydd).  His destination Bramley Hall is in Greatstone-on-Sea (the Bramley of the novel).  Set pieces include picturesque if reckless drives between here and New Romney (Murdstone),  where Applegate and his friends fight a battle of wits at the Grand Marine Hotel (possibly the Dormy House Hotel). The novel presents a town in flux and perhaps slightly unsure of itself:
 <br><br>
-a long avenue of pines which ended abruptly in a narrow street full of glossy-fronted, neon-lighted shops. … From the High Street they emerged into a decaying square. Through a gap slate-grey sea could be glimpsed.’
+'a long avenue of pines which ended abruptly in a narrow street full of glossy-fronted, neon-lighted shops. … From the High Street they emerged into a decaying square. Through a gap slate-grey sea could be glimpsed.’
 <br><br>
 By this time Symons and his family had moved back to London, but they came back in 1963  to take up residence at Barling House, Brookland, in [Romney Marsh](/placesqz/romney-overview).
 
