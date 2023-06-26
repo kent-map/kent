@@ -1,5 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Julian Symons (1912-1994)" author="Professor Carolyn Oulton" layout="vtl" banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994">
+
 <param ve-map center="Q866348" zoom="10">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q7416410" aliases="Sandling">
@@ -8,6 +9,8 @@
 <param ve-entity eid="Q2177760" aliases="Brookland">
 <param ve-entity eid="Q2177760" aliases="Badlesmere Lees">
 <param ve-entity eid="Q2551894" aliases="Walmer">
+<param ve-entity eid="Q6390913" aliases="Kennington">
+<param ve-entity eid="Q1836548" aliases="Barham">
 
 
 ‘But to come back to Folkestone. I loved the little zig-zag paths that went down to the lower level from which one might approach the sea, the water-drawn lift cage in which for twopence (it costs more now) one might go down or of course up, for the cars work in couples, to the deliciously ugly red brick Victorian lifthouse, the small shops around the harbour and the harbour itself, the rows of solid hotels that stand back from the front’ 
