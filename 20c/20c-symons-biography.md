@@ -2,9 +2,10 @@
 <param ve-config title="Julian Symons (1912-1994)" author="Professor Carolyn Oulton" layout="vtl" banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994">
 
 <param ve-map center="Q866348" zoom="10">
+
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q7416410" aliases="Sandling">
-<param ve-entity eid=" aliases="St Mary's Bay">
+<param ve-entity eid="Q7594245" aliases="St Mary's Bay">
 <param ve-entity eid="Q5646437" aliases="Ham Street">
 <param ve-entity eid="Q2177760" aliases="Brookland">
 <param ve-entity eid="Q2177760" aliases="Badlesmere Lees">
@@ -38,19 +39,17 @@ With thanks to Christine Symons for information and images.
 <br><br>
 This article was published: 28 June 2023
 ### Bibliography
-[Desert Island Discs 15 May 1982](https://www.bbc.co.uk/sounds/play/p009mkqf) 
-
-Edwards, Martin, _The Golden Age of Murder: The Mystery of the Writers Who Invented the Modern Detective Story._ London: Collins Crime Club, 2015.
-
-Lejeune, Anthony. ‘Symons, Julian Gustave (1912–1994), writer.’ _Oxford Dictionary of National Biography_.  23. Oxford University Press. 
-Symons, Julian. _The Belting Inheritance_ London: British Library, 2018.
---. Julian Symons collection of papers 1929-1967. Berg Coll MSS Symons, J. New York Public Library. 
---. ‘Critic Between the Lines’. _The Spectator_. 12 March 1954. 290.
---. ‘The Enterprise of St Mary’s Bay’. _Aquarius_ 21/22. Roy Fuller: a Tribute. London, 1993. 111-16.
---. _The Kentish Manor Murders.’ London: Penguin, 1990. First published 1988.
---. _The Paper Chase_
-Symons, K. ‘Living With Julian’. Salwak, D. ed. Living With a Writer. Basingstoke: Palgrave, 2004. 99-106.
-White, H. P. _A Regional History of The Railways of Great Britain_. Vol 2. _Southern England._ Newton Abbot: David & Charles, 1970. 
+[Desert Island Discs 15 May 1982](https://www.bbc.co.uk/sounds/play/p009mkqf)  
+Edwards, Martin, _The Golden Age of Murder: The Mystery of the Writers Who Invented the Modern Detective Story._ London: Collins Crime Club, 2015.  
+Lejeune, Anthony. ‘Symons, Julian Gustave (1912–1994), writer.’ _Oxford Dictionary of National Biography_.  23. Oxford University Press.   
+Symons, Julian. _The Belting Inheritance_ London: British Library, 2018.  
+--. Julian Symons collection of papers 1929-1967. Berg Coll MSS Symons, J. New York Public Library.   
+--. ‘Critic Between the Lines’. _The Spectator_. 12 March 1954. 290.   
+--. ‘The Enterprise of St Mary’s Bay’. _Aquarius_ 21/22. Roy Fuller: a Tribute. London, 1993. 111-16.   
+--. _The Kentish Manor Murders.’ London: Penguin, 1990. First published 1988.   
+--. _The Paper Chase_.   
+Symons, K. ‘Living With Julian’. Salwak, D. ed. Living With a Writer. Basingstoke: Palgrave, 2004. 99-106.   
+White, H. P. _A Regional History of The Railways of Great Britain_. Vol 2. _Southern England._ Newton Abbot: David & Charles, 1970.   
 
 ### References
 
