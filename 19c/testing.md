@@ -1,16 +1,11 @@
-<style>
-    .clearfix::after {content: ""; clear: both; display: table;}
-    .thumb {float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:150px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa; margin-bottom: 24px;}
-    p {font-size: 1.5rem;}
-    a {color: #800000 !important; font-size: 1.2em;}
-</style>
+.ve-header "19th Century Kent" gh:kent-map/kent/images/banners/19c.jpg sticky=true
+    - [Home](/)
+    - [About](/about)
 
-<param ve-config title="19th Century Kent" banner=/images/banners/19c.jpg>
 
-[Overview](19c-kent)
+Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops. Read this [Overview](19c-kent)
 
-Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops. 
-
+# &nbsp; {.cards}
 
 # Featured Essays {.cards}
 
