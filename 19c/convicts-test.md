@@ -2,7 +2,6 @@
 <param ve-config title="Convicts in Kent" author="Dr Ben Bethell" layout="vtl" 
 banner="/images/banners/19c.jpg" description="This picture essay by Dr Ben Bethall presents an overview of built prisons and floating prison hulks in the county of Kent, England between 1808 and 1948.">
 
-
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q4946691" aliases="Borstal">
 <param ve-entity eid="Q507517" aliases="Rochester">
@@ -14,15 +13,12 @@ banner="/images/banners/19c.jpg" description="This picture essay by Dr Ben Betha
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q28339447" aliases="Lenham">
 
-
 <!-- Kent basemap starting position whole of county centred on Lenham -->
 <param ve-map center="Q28339447" zoom="10">
 
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="0d13de43a9570166" title="Kent 1820">
-
-#
 
 Kentish prisons, like those in many English counties, include establishments that date to the early nineteenth century. [Canterbury Prison](/19c/19c-canterbury-gaol/) - recently redeveloped as part of [Canterbury Christ Church University’s](https://www.canterbury.ac.uk/) campus - opened in 1808, and [Maidstone Prison](/19c/19c-convicts-maidstone) which remains in use today, a decade later, both of them replacing older jails. Another part of Kent’s penal legacy is its role in the domestic convict system that replaced transportation. The origins of this system can be traced to the decommissioned warships known as [hulks](/prisons/convict-hulks), which, moored on the Thames and along the South Coast, served as floating prisons from the Napoleonic era until the 1850s. There were hulks on the River Medway’s estuary at Sheerness, and at Chatham where, as a boy, [Charles Dickens](/dickens/dickens-chatham) would have witnessed convicts working on the docks; in the famous encounter between Pip and the convict Abel Magwitch in _[Great Expectations](/dickens/great-expectations-curated-walk)_ (set in 1812), the latter has escaped from a hulk moored on Kent’s coastal marshes. 
 <param ve-image url="https://stor.artstor.org/stor/04b07dbb-e3b2-43d8-b9b3-265e9cff8737" label="Canterbury Prison" attribution="Michelle Crowther">
@@ -53,8 +49,7 @@ England’s last public works prison was built at [Dover]( https://www.nationalt
 Penal servitude was abolished in 1948, bringing to an end England’s domestic convict system.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Dover_Langdon_Cliffs_0326.JPG" label="Dover Langdon Cliffs" attribution="Clem Rutter, Rochester, Kent, via Wikimedia Commons" license="CC BY 3.0">
 <param ve-map center="Q4946691" zoom="10">
-
-     
+   
 ### Bibliography
 Bethell, Ben. _‘Star Men’ in English Convict Prisons, 1879-1948_. London: Routledge, 2023.   
 Johnson, W. Branch. _The English Prison Hulks_. Chichester: Phillimore, 1970.   
