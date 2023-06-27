@@ -11,7 +11,6 @@
 
 <!-- Kent basemap starting position whole of county centred on Lenham -->
 <param ve-map center="Q28339447" zoom="10">
-
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
 
@@ -24,7 +23,6 @@ Women of all ages benefited from the greater freedom and healthier lifestyle of 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Queen_Victoria_as_a_young_woman%2C_by_F.W._Wilkin_Wellcome_L0012031.jpg" label="Queen Victoria as a young woman, by F.W. Wilkin" attribution="Wellcome Collection Attribution 4.0 International (CC BY 4.0), via Wikimedia Commons" license="CC BY 4.0">
 <!--- Map centred on Goodnestone to display Kent eastern coastline--->
 <param ve-map center="Q2195317" zoom="5">
-
 
 The bye-laws in these resorts were notoriously confusing, and not everyone adhered to them, as [Israel Zangwill](/19c/19c-zangwill-biography) noticed in 1893:
 <br><br>
