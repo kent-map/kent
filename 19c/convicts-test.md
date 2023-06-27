@@ -20,7 +20,7 @@ banner="/images/banners/19c.jpg" description="This picture essay by Dr Ben Betha
 
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="0d13de43a9570166" title="Kent 1820"/>
+<param ve-map-layer active allmaps allmaps-id="0d13de43a9570166" title="Kent 1820">
 
 #
 
