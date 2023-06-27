@@ -7,9 +7,10 @@
 
 <param ve-config title="19th Century Kent" banner=/images/banners/19c.jpg>
 
+[Overview](19c-kent)
+
 Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops. 
 
-[Overview](19c-kent)
 
 # Featured Essays {.cards}
 
@@ -29,77 +30,13 @@ Hoy and steam boats, railways and passenger ships brought people to the county i
 
 # Essays by Place {.cards}
 
-## Broadstairs {href=dickens/broadstairs-19th-century}
+## A-F {href=a-f} 
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/banners/19c.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/1/13/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.jpg) 
 
-Despite being the favoured holiday destination of no less a figure than Charles Dickens, Broadstairs never aimed to compete with either the much-vaunted gentility of Ramsgate or the mass appeal of Margate
+## G-Z {href=s-z} 
 
-## Canterbury {href=19c/19c-canterbury}
-
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/banners/19c.jpg)
-
-Canterbury, particularly in the first half of the 19th century, was very much seen as a provincial city, resembling, in effect, a relatively quiet market town, with a collection of small, family owned industries consisting of paper making, leather manufacture and a host of small breweries. 
-
-## Chatham Dockyard {href=19c/19c-chatham-dockyard}
-
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/banners/19c.jpg)
-
-The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval dockyards, with its prime location and key participation in the industrial revolution.
-
-## Dover {href=19c/19c-dover}
-
-![](https://upload.wikimedia.org/wikipedia/commons/f/f3/David_Cox_-_Dover_-_Google_Art_Project.jpg)
-
-Like Ramsgate, Dover considered itself to be among the more genteel of the 19th century seaside resorts. But it could not avoid racketty associations altogether.
-
-## Folkstone {href=19c/19c-folkestone} 
-
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/banners/19c.jpg)
-
-‘Fashionable Folkestone’, as it became by the end of the century, first ‘discovered her fairy godmother in the changed order of existence brought about through the invention of steam locomotion’, establishing itself as a successful seaside resort in the 1840s and ‘50s.
-
-## Folkstone Free Library {href=19c/19c-folkestone-free-library}
-
-![](https://upload.wikimedia.org/wikipedia/commons/c/c2/West_Cliff%2C_Folkestone%2C_England-LCCN2002696751.jpg)
-
-Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short - as Mr Micawber might have put it - they were slow to act.
-
-## Gravesend {href=19c/19c-gravesend}
-
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/banners/19c.jpg)
-
-Rosher made use of Gravesend’s popularity with Londoners and its proximity to the Thames, making it a popular tourist attraction before the rise of the railway and seaside resorts impacted upon its revenue.
-
-## Margate {href=19c/19c-margate}
-
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/banners/19c.jpg) 
-
-The ‘modesty hood’, designed to screen naked bathers as they descended the steps of their horse-powered bathing machines, was invented in Margate in 1753 by Benjamin Beale, and the town’s credibility as a health resort was consolidated with the founding of a charitable Royal Sea Bathing Infirmary.
-
-## Ramsgate {href=19c/19c-ramsgate}
-
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/banners/19c.jpg)
-
-‘Royal Ramsgate’, so-called because Princess Victoria had spent holidays there in 1835 and 1836, largely succeeded in distancing itself from its more louche counterpart Margate in the popular imagination, for most of the 19th century.
-
-## Rosherville {href=19c/19c-rosherville}
-
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/banners/19c.jpg)
-
-Tactically positioned close to Gravesend, which contemporary Londoners could reach by travelling in a steamboat, Rosherville was – at first, at least – a triumph, with Robert Hiscock noting that, by 1857, the gardens were admitting approximately twenty thousand visitors every week. 
-
-## Sandgate {href=placesqz/sandgate-overview}
-
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/banners/19c.jpg) 
-
-Sandgate, a coastal village near the outskirts of Folkestone, has been hailed as the 'author's haven of repose' and can claim association with several well-known authors.
-
-## Seaside Resorts {href=19c/19c-seaside} 
-
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/banners/19c.jpg) 
-
-As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells moved coastwards in the late eighteenth and nineteenth centuries, so a number of obscure fishing villages reinvented themselves as seaside resorts.
+![](https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/distantMargate.jpg)
 
 # Essays by Events {.cards}
 
