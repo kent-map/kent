@@ -10,6 +10,7 @@ description="Prof. Carolyn Oulton traces the begins of seaside holidays from the
 <param ve-entity eid="Q2195317" aliases="Goodnestone">
 <param ve-entity eid="Q28339447" aliases="Lenham">
 <param ve-entity eid="Q5458845" aliases="Flete">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
 
 <!-- Kent basemap starting position whole of county centred on Lenham -->
 <param ve-map center="Q28339447" zoom="10">
