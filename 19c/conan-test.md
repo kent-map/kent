@@ -11,7 +11,7 @@
 
 
 <!-- Kent basemap starting position whole of county centred on Lenham -->
-<param ve-map center="Q28339447" zoom="12">
+<param ve-map center="Q28339447" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="27eaa9c3b1beed84" title="Kent Railway Map">
