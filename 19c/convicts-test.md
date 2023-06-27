@@ -16,7 +16,7 @@ banner="/images/banners/19c.jpg" description="This picture essay by Dr Ben Betha
 
 
 <!-- Kent basemap starting position whole of county centred on Lenham -->
-<param ve-map center="Q28339447" zoom="0">
+<param ve-map center="Q28339447" zoom="10">
 
 
 <!-- Historical map layers -->
