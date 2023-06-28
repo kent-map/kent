@@ -18,7 +18,7 @@ _Three Men on the Bummel_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Bandstand%2C_The_Leas%2C_Folkestone_-_geograph.org.uk_-_1980145.jpg" label="The Bandstand, The Leas, Folkestone" attribution="The Bandstand, The Leas, Folkestone by David P Howard, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-map center="Q375314" zoom="13">
 
-Recalling their holiday in [Folkestone](/19c/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around.’
+Watching [Folkestone](/19c/19c-folkestone) from a steamer in the summer of 1891, the writer [Robert Barr](/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around.’
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Photo_of_Robert_Barr.jpg" label="Robert Barr" attribution="not stated, Public domain, via Wikimedia Commons">
 <param ve-map center="Q375314" zoom="14">
 
