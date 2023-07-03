@@ -10,6 +10,7 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q28339447" aliases="Lenham">
+<param ve-entity eid="Q2482914" aliases="Kidbrooke">
 
 
 <!-- Basemap centred on Lenham -->
