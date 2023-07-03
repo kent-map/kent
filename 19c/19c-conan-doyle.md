@@ -9,9 +9,10 @@
 <param ve-entity eid="Q1285144" aliases="Knole House">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q28339447" aliases="Lenham">
 
 
-<!-- Basemap centred on Canterbury -->
+<!-- Basemap centred on Lenham -->
 <param ve-map center="Q29303" zoom="12">
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="27eaa9c3b1beed84" title="Kent Railway Map">
