@@ -22,23 +22,23 @@ Arthur Conan Doyle was born in Edinburgh in 1859, the year [Charles Darwin](/19c
 Like both [Dickens](/dickens) and [H. G. Wells](/20c/20c-wellshg-biography), Conan Doyle has strong links to Portsmouth and London, although he moved to Sussex in 1907 when he married his second wife Jean Leckie. His links to Kent are less well-known, although Jean herself had been born in Kidbrooke in 1874.[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Portrait_of_Arthur_Conan_Doyle.jpg" label="Portrait of Arthur Conan Doyle" attribution="Elliott & Fry, Public domain, via Wikimedia Commons">
 
-No fewer than six of the Sherlock Holmes stories involve Kent railway stations, although ‘Even in the first class carriages of the South Eastern Railway Holmes and Watson would have found conditions rather uncomfortable, especially in winter.’ [^ref2] ‘The Man With the Twisted Lip’(1891) is set in the vicinity of <span data-mouseover-image-zoomto="1426,962,728,534">Lewisham</span> and <span data-mouseover-image-zoomto="1740,814,737,541">Blackheath</span>, near London.
+No fewer than six of the Sherlock Holmes stories involve Kent railway stations, although ‘Even in the first class carriages of the South Eastern Railway Holmes and Watson would have found conditions rather uncomfortable, especially in winter.’ [^ref2] ‘The Man With the Twisted Lip’(1891) is set in the vicinity of Lewisham and Blackheath, near London.
 <br><br>
-Also minimising travel, the eponymous figure in ‘The Greek Interpreter’ (1893) is lured to <span data-mouseover-image-zoomto="1313,1514,737,540">Beckenham</span>.
+Also minimising travel, the eponymous figure in ‘The Greek Interpreter’ (1893) is lured to Beckenham.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a6/The_head_guard_on_the_South_Eastern_Railway%2C_1885-The_engine_is_one_of_Richard_Christopher_Mansell%27s_%22Gunboat%22_0-4-4_tanks%2C_built_for_Greenwich%2C_Woolrich_and_Blackheath_local_services_LCCN96509035.jpg" label="South Eastern Railways (1885)" attribution="Thomson, J. (John), 1837-1921, photographer, Public domain, via Wikimedia Commons">
 
-‘The Final Problem’ of 1893 would turn out to be far from final. But what should have been Holmes’s last journey on the Kentish railway would have taken him to <span data-mouseover-image-zoomto="2895,3581,1474,1081">Tonbridge</span> via <span data-mouseover-image-zoomto="8557,2693,1476,1082">Canterbury</span> and <span data-mouseover-image-zoomto="7098,2866,2910,2133">Ashford</span>. 
+‘The Final Problem’ of 1893 would turn out to be far from final. But what should have been Holmes’s last journey on the Kentish railway would have taken him to Tonbridge via Canterbury and Ashford. 
 <br><br>
-‘The Abbey Grange’ (1904) is reached from <span data-mouseover-image-zoomto="2271,1536,728,534">Chiselhurst</span>. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/%22The_Death_of_Sherlock_Holmes%22_%28frontispiece_from_The_Memoirs_of_Sherlock_Holmes%2C_1894%29.jpg" label="The Death of Sherlock Holmes (1894)" attribution="Special Collections Toronto Public Library, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons">
+‘The Abbey Grange’ (1904) is reached from Chiselhurst. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/%22The_Death_of_Sherlock_Holmes%22_%28frontispiece_from_The_Memoirs_of_Sherlock_Holmes%2C_1894%29.jpg" label="The Death of Sherlock Holmes (1894)" attribution="Special Collections Toronto Public Library via Wikimedia Commons" license="CC BY-SA 2.0">
 <!-- Basemap centred on Tonbridge -->
 <param ve-map center="Q936183" zoom="10">
 
-The investigation in ‘The Golden Pince-Nez’ (1894) involves a journey to <span data-mouseover-image-zoomto="3959,704,2910,2132">Chatham</span> station, although the marshes seen from the window are suggestive of Gravesend and Yoxley Old Place is likely to be somewhere near <span data-mouseover-image-zoomto="4382,1029,1455,1067">Higham</span>. 
+The investigation in ‘The Golden Pince-Nez’ (1894) involves a journey to <span data-mouseover-image-zoomto="3959,704,2910,2132">Chatham</span> station, although the marshes seen from the window are suggestive of Gravesend and Yoxley Old Place is likely to be somewhere near Higham. 
 <br><br>
 The last Holmes novel, _The Valley of Fear_, was published in 1915 but set around 1888. While Holmes insists that he is just over the Sussex border rather than in Kent, he spends a notable amount of time in <span data-mouseover-image-zoomto="3301,4389,1455,1067">Tunbridge Wells</span>. 
 <!param ve-image url="https://stor.artstor.org/stor/c9754956-2845-403f-b27b-2e4fb5b36184" label="Kent Map showing railway stations" attribution="Kent Maps Online">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6a/Parkstone_Down_empty_stock_between_Branksome_and_Parkstone_geograph-2680927-by-Ben-Brooksbank.jpg" label="Late 19th Century Passenger Steam Engine" attribution="Ben Brooksbank, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6a/Parkstone_Down_empty_stock_between_Branksome_and_Parkstone_geograph-2680927-by-Ben-Brooksbank.jpg" label="Late 19th Century Passenger Steam Engine" attribution="Ben Brooksbank, via Wikimedia Commons" license="CC BY-SA 2.0">
 <!-- Basemap centred on Tunbridge Wells -->
 <param ve-map center="Q665489" zoom="10">
 
