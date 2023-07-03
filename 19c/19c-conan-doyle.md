@@ -12,7 +12,7 @@
 
 
 <!-- Basemap centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
+<param ve-map center="Q29303" zoom="12">
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="27eaa9c3b1beed84" title="Kent Railway Map">
 
