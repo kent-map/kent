@@ -11,6 +11,8 @@
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q28339447" aliases="Lenham">
 <param ve-entity eid="Q2482914" aliases="Kidbrooke">
+<param ve-entity eid="Q6537297" aliases="Lewisham">
+<param ve-entity eid="Q880861" aliases="Blackheath">
 
 
 <!-- Basemap centred on Lenham -->
@@ -23,11 +25,14 @@ Arthur Conan Doyle was born in Edinburgh in 1859, the year [Charles Darwin](/19c
 <br><br>
 Like both [Dickens](/dickens) and [H. G. Wells](/20c/20c-wellshg-biography), Conan Doyle has strong links to Portsmouth and London, although he moved to Sussex in 1907 when he married his second wife Jean Leckie. His links to Kent are less well-known, although Jean herself had been born in Kidbrooke in 1874.[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Portrait_of_Arthur_Conan_Doyle.jpg" label="Portrait of Arthur Conan Doyle" attribution="Elliott & Fry, Public domain, via Wikimedia Commons">
+<param ve-map center="Q2482914" zoom="15">
 
 No fewer than six of the Sherlock Holmes stories involve Kent railway stations, although ‘Even in the first class carriages of the South Eastern Railway Holmes and Watson would have found conditions rather uncomfortable, especially in winter.’ [^ref2] ‘The Man With the Twisted Lip’(1891) is set in the vicinity of Lewisham and Blackheath, near London.
 <br><br>
 Also minimising travel, the eponymous figure in ‘The Greek Interpreter’ (1893) is lured to Beckenham.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a6/The_head_guard_on_the_South_Eastern_Railway%2C_1885-The_engine_is_one_of_Richard_Christopher_Mansell%27s_%22Gunboat%22_0-4-4_tanks%2C_built_for_Greenwich%2C_Woolrich_and_Blackheath_local_services_LCCN96509035.jpg" label="South Eastern Railways (1885)" attribution="Thomson, J. (John), 1837-1921, photographer, Public domain, via Wikimedia Commons">
+<param ve-map center="Q6537297" zoom="15">
+<param ve-map center="Q880861" zoom="15">
 
 ‘The Final Problem’ of 1893 would turn out to be far from final. But what should have been Holmes’s last journey on the Kentish railway would have taken him to Tonbridge via Canterbury and Ashford. 
 <br><br>
