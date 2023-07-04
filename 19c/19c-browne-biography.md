@@ -4,6 +4,13 @@
 banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
+Rochester
+
+<!--Basemap centred on Wingham-->
+<param ve-map center="Q2632094" zoom="11">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
 
 #
 
