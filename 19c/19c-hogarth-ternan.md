@@ -1,7 +1,24 @@
-A Margate connection: Georgina Hogarth and Ellen Ternan
-Prof Christine Skelton
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
+<param ve-config title="Georgina Hogarth and Ellen Ternan" author="Prof Christine Skelton" layout="vtl" 
+banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q618045" aliases="Margate">
+
+<!--Basemap centred on Wingham-->
+<param ve-map center="Q2632094" zoom="11">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
+
+#
+
 In 1876, six years after Dickens’s death, [Ellen Ternan](/19c/19c-ternan-biography/) married George Wharton Robinson, a clergyman. George, who had no idea that his new wife was much older than him or that she was Dickens’s great love, was persuaded by Nelly to change his career to that of schoolmaster. After touring the south coast looking for suitable premises, the Robinsons decide to invest their money into [Margate](19c/19c-margate/) High School. They moved into a home close to the school which they named Wharton House (3 The Grove), and were wealthy enough to employ three servants (Thomas Lake, aged seventeeen; Eliza Burden, aged twenty-two; and Mary Hill, aged sixteen). It was to this house that Georgina Hogarth, sometimes accompanied by Dickens’s eldest daughter, Mamie, came to stay. The friendship between Nelly and Georgina lasted for fifty-seven years, and was closely guarded by both women. Nelly was eighteen when she met the thirty-year old Georgina and, within months of meeting, they had formed a tight bond when they suffered the humiliation of newspapers speculating as to whether one or both were having an affair with Dickens. George Robinson knew that Dickens had been a friend of the family but had been led to believe that Nelly was little more than a child at the time of his death. Unaware of the gossip about an intimate relationship between his wife and Dickens, George was happy for Nelly to capitalise on her association with the family of the famous author, and in 1879 Georgina both donated and handed out prizes at [Margate](19c/19c-margate/)  High School’s sports day. The presence of [Dickens](/dickens)’s sister-in-law attracted the attention of _Keble’s Margate and Ramsgate Gazette_ but, more often, neither [Nelly](/19c/19c-ternan-biography/) or Georgina spoke of their visits to one another. Even though Georgina was aware that her good friend Annie Adams Fields knew from Dickens himself of Nelly’s central place in his life, when she wrote about her visits to Margate, Nelly was never mentioned by name; Georgina revealed only that she was staying with ‘a friend’. When Nelly stepped in to assist in copying out the correspondence for Georgina and Mamie’s edited collection of Dickens letters at a time when Georgina was distracted from the task by nursing her terminally ill sister, Catherine, and her younger brother and his wife, she referred only to a ‘kind friend’. 
+
 The friendship had its ups and downs. Sir Sydney Cockerill (director of the Fitzwilliam Museum in Cambridge) wrote a letter to the _Times_ in 1953 recalling a visit to [Nelly](/19c/19c-ternan-biography/)  and meeting ‘Mamie Dickens and Georgina Hogarth who were staying there together and were evidently on the best of terms with their hostess’. Nelly was not always as cautious or discreet as Georgina. A wilful Nelly was annoyed when a judgemental Georgina warned her to be more circumspect in referring to her friendship with Dickens. Georgina had been furious to discover that [Nelly](/19c/19c-ternan-biography/)  had hinted about the nature of her relationship with Dickens to her local parish priest, who later passed the information on to a friend writing a biography of the author. Of this time, a friend of Nelly’s daughter remembered her making several visits to Georgina and, on her return, refusing to make any comment whatsoever.
+
 By the mid-1880s, the High School was struggling to recruit pupils and in 1886 the Robinsons sold it to William Leach-Lewis who renamed it Margate College. [Nelly](/19c/19c-ternan-biography/) and George, with their two children, moved back to London. George sought various means of earning a living from trying to set up another school, attempting to become a School Inspector and running a market garden, but all failed and they descended into near poverty. Money became even tighter when George died, aged 60. Despite [Dickens](/Dickens)’s legacies to both women, Georgina also had difficulty in making ends meet. Nelly died in 1913 looked after by Jane (Wheeler) Brown who had been employed by Dickens during the years she lived in Slough, and who had then been cook to Georgina for 20 years, before returning to Nelly’s service. Georgina died four years later in 1917.
 
 ### Bibliography
