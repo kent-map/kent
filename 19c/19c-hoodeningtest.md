@@ -2,7 +2,7 @@
 <param ve-config title="The Hooden Horse: an East Kent tradition" author="Jacqui Stamp" layout="vtl" 
 banner="/images/banners/19c.jpg" description="This visual essay by Jacqui Stamp discusses the mythical but nonetheless enduring folk tradition of the Hooden Horse in Kent from the early 19th century to today.">
 
-<param ve-entity eid="Q1003196" aliases="Margate">
+<param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q29303" aliases="Canterbury">
@@ -34,18 +34,20 @@ Since 1965: [Broadstairs](/dickens/broadstairs-19th-century) Folk Week: first fu
 
 _‘… at [Ramsgate](/dickens/19c-ramsgate), in Kent I found they begin the festivities of Christmas by a curious procession: a party of young people procure the head of a dead horse, which is affixed by pole about four feet in length; a string is affixed to the lower jaw; a horse-cloth is also attached to the whole, under which one of the party gets, and by frequently pulling on the string, keeps up a loud snapping noise, and is accompanied by the rest of the party, grotesquely habited, with handbells; they thus proceed from house to house, ringing their bells, and singing carols and songs; they are commonly gratified with beer and cake, or perhaps money. This is called, provincially, a Hodening, and … [i]t is I find, general in Thanet on Christmas Eve, and, as far as I can learn, nowhere else …’   
 May 1807. _European Magazine_: 51 (May 1807) 558.   
+<br>
+_"… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/dickens/19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …"_      
+16 November 1907. _Keble’s Margate and Ramsgate Gazette_.   
+<br>
+_"… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …"_     
+7 December 1907, _Keble’s Margate and Ramsgate Gazette._   
 <param ve-image url="images/Hoodenhorse.jpg" label="Hooden Horse" attribution="©Carolyn Oulton">
 <!--Basemap centred on Ramsgate-->
 <param ve-map center="Q736439" zoom="10">
 
-_"… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/dickens/19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …"_      
-16 November 1907. _Keble’s Margate and Ramsgate Gazette_.   
-_"… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …"_     
-7 December 1907, _Keble’s Margate and Ramsgate Gazette._    
 Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, 'the tradition appears to lie solely in the eastern part of the county'[^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/en/0/06/Deal_Hoodeners%2C_1909.jpg" label="Hoodener in Deal" attribution="Published in Percy Maylam's 1909 book The Hooden Horse.">
-<!--Basemap centred on Margate-->
-<param ve-map center="Q618045" zoom="10">
+<!--Basemap centred on Ramsgate-->
+<param ve-map center="Q736439" zoom="10">
 
 The above quotes from publications of 1807 and 1907 show that Hoodening was well-known in East Kent during the nineteenth century. Today it continues in towns and villages such as St Nicholas-at-Wade, Sarre, Wickhambreaux and Deal. Hop Hoodening in Canterbury Cathedral each September also upholds the tradition, and Hooden Horses feature prominently at the annual [Broadstairs](/dickens/broadstairs-19th-century) Folk Week and other local folk festivals. Many of Kent’s Morris sides now have a Hooden Horse, with that created in 1959 for East Kent Morris purported to be the first designed in an upright position, enabling him to join in the dancing.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Hoodening_in_Whitstable_May_2018.jpg" label="Hoodening in Whitstable" attribution="Edwininlondon, CC BY-SA 4.0, via Wikimedia Commons">
@@ -70,4 +72,4 @@ https://vimeo.com/408562819/78b21d952c
 
 ### Notes
 [^ref1]: Maylam 53-54.
-[^ref2:Maylam et al 10.
+[^ref2]:Maylam et al 10.
