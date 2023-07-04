@@ -18,7 +18,7 @@ banner="/images/banners/19c.jpg" description="This picture essay by Dr Ben Betha
 
 
 <!-- Kent basemap starting position whole of county centred on Lenham -->
-<param ve-map center="Q28339447" zoom="12">
+<param ve-map center="Q28339447" zoom="10">
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="0d13de43a9570166" title="Kent 1820">
 
@@ -32,7 +32,7 @@ Kentish prisons, like those in many English counties, include establishments tha
 Prisoners sentenced to transportation went first to a [hulk](/prisons/convict-hulks); those serving longer sentences and judged healthy enough to survive the voyage were then sent to penal settlements in Australia. The rest languished aboard the ships, which were notorious for disorder, vermin, and disease, employed by day in such heavy tasks as dredging, loading coal and hauling timber. There was also a hulk for boys aged 14 or under: the _Bellerophon_, moored at Sheerness, which had fought in the Battle of Trafalgar, replaced in 1825 by another Trafalgar veteran, the _Euryalus_, which was moored at Chatham until 1843. Aboard both ships, the children worked below decks as tailors and shoemakers in brutal, miserable conditions. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/A_convicted_thief_sits_in_prison_with_his_distraught_sister_Wellcome_V0019427.jpg/1280px-A_convicted_thief_sits_in_prison_with_his_distraught_sister_Wellcome_V0019427.jpg" label="A convicted thief sits in prison with his distraught sister" attribution="George Cruickshank, 1848">
 <!---Basemap centered on Upchurch--->
-<param ve-map center="Q2483544" zoom="12">
+<param ve-map center="Q2483544" zoom="10">
 
 The eventual closure of the [hulks](/prisons/convict-hulks), the last of which burned down in 1857, coincided with the end of transportation: New South Wales shut its doors to convicts in 1840 (although it opened them again briefly at the end of the decade), and Tasmania followed suit in 1853 (small numbers then went to a penal settlement in Western Australia until 1868). Hence the necessity for three huge ‘public works’ convict prisons which opened at Portland in 1848, Portsmouth in 1852, and Chatham in 1856,  built to accommodate prisoners who would hitherto have been sent to the hulks or shipped overseas. Unlike other English prisons, where prisoners served terms of up to two years (though often no more than a week or two), convict prisons were reserved for men sentenced to penal servitude, the sentence introduced to replace transportation. Penal servitude’s minimum term was three years; in practice, its maximum life sentence seldom exceeded twenty. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Devonshire_prison-ship%2C_at_Sheerness_ILN_1854-0923-0008.jpg" label="The Devonshire prison ship at Sheerness, 1854" attribution="The Illustrated London News, Public domain, via Wikimedia Commons">
@@ -54,7 +54,7 @@ England’s last public works prison was built at [Dover]( https://www.nationalt
 Penal servitude was abolished in 1948, bringing to an end England’s domestic convict system.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Dover_Langdon_Cliffs_0326.JPG" label="Dover Langdon Cliffs" attribution="Clem Rutter, Rochester, Kent, via Wikimedia Commons" license="CC BY 3.0">
 <---Map centred on Boughton Lees-->
-<param ve-map center="Q651526" zoom="12">
+<param ve-map center="Q651526" zoom="10">
 
      
 ### Bibliography
