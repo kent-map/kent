@@ -56,23 +56,22 @@ White, H. P. _A Regional History of The Railways of Great Britain_. Vol 2. _Sout
 
 ### References
 
-[^ref1]:  The Belting Inheritance 115.
-[^ref2]:   Edwards 409.
-[^ref3]:   101.
-[^ref4]:   ‘The Enterprise of St Mary’s Bay’ 113.
-[^ref5]:   ‘The Enterprise of St Mary’s Bay’ 114.
+[^ref1]: The Belting Inheritance 115.
+[^ref2]: Edwards 409.
+[^ref3]: 101.
+[^ref4]: ‘The Enterprise of St Mary’s Bay’ 113.
+[^ref5]: ‘The Enterprise of St Mary’s Bay’ 114.
 [^ref6]: ‘The Enterprise of St Mary’s Bay’ 115.
-[^ref7]:    Dates from Kathleen Symons, address from_The Spectator_, 12 March 1954.
-[^ref8]:   Kathleen Symons 99-100.
-[^ref9]:   _The Paper Chase_ 8.
-[^ref10]:   The original branch line began in Appledore and ran from Lydd to New Romney via Dungeness and back. Following plans to develop new housing in the area the branch station was re-sited, opening on 4 July 1937 nearer the coast. White 67. 
-  Greatstone-on-Sea was the only stop on the Ashford branch line between Lydd-on-Sea and New Romney. 
+[^ref7]: Dates from Kathleen Symons, address from_The Spectator_, 12 March 1954.
+[^ref8]: Kathleen Symons 99-100.
+[^ref9]: _The Paper Chase_ 8.
+[^ref10]: The original branch line began in Appledore and ran from Lydd to New Romney via Dungeness and back. Following plans to develop new housing in the area the branch station was re-sited, opening on 4 July 1937 nearer the coast. White 67. Greatstone-on-Sea was the only stop on the Ashford branch line between Lydd-on-Sea and New Romney. 
   New Romney is lightly fictionalised as Murdstone, but easily recognisable from its position between Hythe and Dungness and the description of its historic water tower.
-[^ref11]:   _The Paper Chase_ 46.
-[^ref12]:   Kathleen Symons 102.
-[^ref13]:   _The Belting Inheritance_ 24.
-[^ref14]:   To Graham Greene 23 October 1946. NYPL.
-[^ref15]:   Kathleen Symons 102.
-[^ref16]:   Kathleen Symons 105.
-[^ref17]:  _The Detling Secret_ 153.
+[^ref11]:  _The Paper Chase_ 46.
+[^ref12]:  Kathleen Symons 102.
+[^ref13]:  _The Belting Inheritance_ 24.
+[^ref14]:  To Graham Greene 23 October 1946. NYPL.
+[^ref15]:  Kathleen Symons 102.
+[^ref16]:  Kathleen Symons 105.
+[^ref17]: _The Detling Secret_ 153.
 [^ref18]:  _The Detling Secret_139.
