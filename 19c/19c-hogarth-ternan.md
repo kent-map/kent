@@ -22,6 +22,7 @@ The friendship had its ups and downs. Sir Sydney Cockerill (director of the Fitz
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/37/Georgina-hogarth-mamie-dickens.jpg" label="Georgina Hogarth and Mamie Dickens" attribution="Public domain, via Wikimedia Commons">
 
 By the mid-1880s, the High School was struggling to recruit pupils and in 1886 the Robinsons sold it to William Leach-Lewis who renamed it Margate College. [Nelly](/19c/19c-ternan-biography/) and George, with their two children, moved back to London. George sought various means of earning a living from trying to set up another school, attempting to become a School Inspector and running a market garden, but all failed and they descended into near poverty. Money became even tighter when George died, aged 60. Despite [Dickens](/Dickens)’s legacies to both women, Georgina also had difficulty in making ends meet. Nelly died in 1913 looked after by Jane (Wheeler) Brown who had been employed by Dickens during the years she lived in Slough, and who had then been cook to Georgina for 20 years, before returning to Nelly’s service. Georgina died four years later in 1917.
+<param ve-image url="https://stor.artstor.org/stor/6f6a960c-4f03-403c-b853-92cfc822098a" label="Margate High School" attribution="By permission of Margate Civic Society">
 
 ### Bibliography
 Skelton, Christine. _Charles Dickens and Georgina Hogarth: A Curious and Enduring Relationship._ Manchester: Manchester University Press, 2023.
