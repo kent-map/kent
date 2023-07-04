@@ -22,6 +22,7 @@
 [R. D. Blackmore](19c-blackmore-biography)  
 [M.E. Braddon](19c-braddon-biography)   
 [John Brent](19c-brent-biography)   
+[Hablot K. Browne](19c-browne-biography)   
 [Angela Burdett-Coutts](19c-burdett-coutts-biography)   
 [William Burges](19c-burges-biography)   
 [F. C. Burnand](19c-burnand-biography)  
