@@ -9,9 +9,14 @@ banner="/images/banners/19c.jpg" description="This visual essay by Jacqui Stamp 
 <param ve-entity eid="Q5458845" aliases="Flete">
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q590422" aliases="Thanet">
+<param ve-entity eid="Q7424565" aliases="Sarre">
+<param ve-entity eid="Q2133814" aliases="St Nicholas at Wade">
+<param ve-entity eid="Q2483603" aliases="Lower Hardres">
+<param ve-entity eid="Q865021" aliases="Birchington">
+<param ve-entity eid="Q3092462" aliases="Wickhambreaux">
 
 
-<!--Basemap centred on Cantebury-->
+<!--Basemap centred on Canterbury-->
 <param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
