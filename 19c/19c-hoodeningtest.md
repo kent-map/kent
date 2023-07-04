@@ -16,8 +16,8 @@ banner="/images/banners/19c.jpg" description="This visual essay by Jacqui Stamp 
 <param ve-entity eid="Q3092462" aliases="Wickhambreaux">
 
 
-<!--Basemap centred on Canterbury-->
-<param ve-map center="Q29303" zoom="10">
+<!--Basemap centred on Ashford-->
+<param ve-map center="Q725261" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
