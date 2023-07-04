@@ -7,6 +7,8 @@ banner="/images/banners/19c.jpg" description="This visual essay by Jacqui Stamp 
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q5458845" aliases="Flete">
+<param ve-entity eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q590422" aliases="Thanet">
 
 
 <!--Basemap centred on Cantebury-->
@@ -15,36 +17,24 @@ banner="/images/banners/19c.jpg" description="This visual essay by Jacqui Stamp 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
 
-
-<!#>
-
-Takes place mainly around the Thanet, Deal and Canterbury areas.   
+Tradtionally, hoodening has taken place mainly around the Thanet, Deal and Canterbury areas. In 1839, a Hooden Horse in [Broadstairs](/dickens/broadstairs-19th-century) so frightened a lady that she collapsed and died. Twenty years later, a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right forever afterwards”.[^ref1]   
 <br>
-1839: a Hooden Horse in [Broadstairs](/dickens/broadstairs-19th-century) so frightened a lady that she collapsed and died.  
-<br>
-1859: a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right forever afterwards”.[^ref1]   
-<br>
-Since 1957: Hop Hoodening Festival, to bless the hop harvest; second Saturday of September each year.    
-<br>
-Since 1965: [Broadstairs](/dickens/broadstairs-19th-century) Folk Week: first full week of August each year.  
+Since 1957, the Hop Hoodening Festival, to bless the hop harvest, has taken place on the second Saturday of September each year and since 1965 [Broadstairs](/dickens/broadstairs-19th-century) Folk Week has taken place in the first full week of August each year.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Hooden_Horses_at_the_Clock_Tower_%28geograph_5502334%29.jpg" label="Hooden Horses at the Clock Tower, Broadstairs" attribution="Des Blenkinsopp">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/04/Broadstairs_Folk_Week_2018_FDBY6092_%2843372181465%29.jpg" lable="Hooden Horses, Broadstairs Folk Week, 2018" attribution="Funk Dooby from Kent, UK, CC BY-SA 2.0, via Wikimedia Commons">
 <!--Basemap centred on Flete to pickup NE Kent coastline-->
 <param ve-map center="Q5458845" zoom="10">
 
-_‘… at [Ramsgate](/dickens/19c-ramsgate), in Kent I found they begin the festivities of Christmas by a curious procession: a party of young people procure the head of a dead horse, which is affixed by pole about four feet in length; a string is affixed to the lower jaw; a horse-cloth is also attached to the whole, under which one of the party gets, and by frequently pulling on the string, keeps up a loud snapping noise, and is accompanied by the rest of the party, grotesquely habited, with handbells; they thus proceed from house to house, ringing their bells, and singing carols and songs; they are commonly gratified with beer and cake, or perhaps money. This is called, provincially, a Hodening, and … [i]t is I find, general in Thanet on Christmas Eve, and, as far as I can learn, nowhere else …’   
-May 1807. _European Magazine_: 51 (May 1807) 558.   
+‘… at [Ramsgate](/dickens/19c-ramsgate), in Kent I found they begin the festivities of Christmas by a curious procession: a party of young people procure the head of a dead horse, which is affixed by pole about four feet in length; a string is affixed to the lower jaw; a horse-cloth is also attached to the whole, under which one of the party gets, and by frequently pulling on the string, keeps up a loud snapping noise, and is accompanied by the rest of the party, grotesquely habited, with handbells; they thus proceed from house to house, ringing their bells, and singing carols and songs; they are commonly gratified with beer and cake, or perhaps money. This is called, provincially, a Hodening, and … [i]t is I find, general in Thanet on Christmas Eve, and, as far as I can learn, nowhere else …’[^ref2]   
 <br>
-_"… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/dickens/19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …"_      
-16 November 1907. _Keble’s Margate and Ramsgate Gazette_.   
+"… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/dickens/19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …"[^ref3] 
 <br>
-_"… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …"_     
-7 December 1907, _Keble’s Margate and Ramsgate Gazette._   
+"… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …"[^ref4]   
 <param ve-image url="images/Hoodenhorse.jpg" label="Hooden Horse" attribution="©Carolyn Oulton">
 <!--Basemap centred on Ramsgate-->
 <param ve-map center="Q736439" zoom="10">
 
-Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, 'the tradition appears to lie solely in the eastern part of the county'[^ref1] 
+Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, 'the tradition appears to lie solely in the eastern part of the county'[^ref5] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/en/0/06/Deal_Hoodeners%2C_1909.jpg" label="Hoodener in Deal" attribution="Published in Percy Maylam's 1909 book The Hooden Horse.">
 <!--Basemap centred on Ramsgate-->
 <param ve-map center="Q736439" zoom="10">
@@ -71,5 +61,8 @@ https://vimeo.com/408562819/78b21d952c
 <param ve-image url="https://upload.wikimedia.org/wikipedia/en/5/5f/Walmer_hoodeners%2C_1907.jpg" label="A troupe of hoodeners from Walmer Court Farm in Walmer, Kent" attribution="Published in Percy Maylam's 1909 book The Hooden Horse">
 
 ### Notes
-[^ref1]: Maylam 53-54.
-[^ref2]:Maylam et al 10.
+[^ref1]:  _European Magazine_: 51 (May 1807) 558. May 1807.
+[^ref2]: _Keble’s Margate and Ramsgate Gazette_ - 16 November 1907.
+[^ref3]:  _Keble’s Margate and Ramsgate Gazette._ - 7 December 1907.
+[^ref4]: Maylam 53-54.
+[^ref5}: Maylam 10.
