@@ -4,7 +4,7 @@
 banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
-Rochester
+<param ve-entity eid="Q507517" aliases="Rochester">
 
 <!--Basemap centred on Wingham-->
 <param ve-map center="Q2632094" zoom="11">
