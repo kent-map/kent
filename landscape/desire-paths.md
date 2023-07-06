@@ -21,7 +21,7 @@ Rebecca Solnit’s _Wanderlust: A History of Walking_ provides interesting persp
 
 **The Written History of Desire Paths**    
 Unforgettably, Canterbury was the home of England’s first known female professional writer, [Aphra Behn](/17c/17c-behn-biography) (1640-1689). Since then, the city has seen a plethora of writers walk its streets, including the prolific playwright Christopher Marlowe (1564-1593), who also lived and wrote in Canterbury. 
-
+<br><br>
 Looking beyond Canterbury, we find literary figures such as Thoreau, the Transcendentalist writer who wrote his essay 'Walking' (1862) on the title topic. Over 24 pages, Thoreau framed walking as a self-reflective practice that, in connecting with nature, connected him to the world of thought. If you’ve ever wistfully stared out from a train carriage window or sat in a park and watched dog walkers pass by, you’ve probably practised it, too. His ideas have been likened to 21st Century ‘mindfulness’, and they are certainly useful when considering the nature of walking and the history of desire paths in literature. 
 <br><br>
 Thoreau was an example of 'the wanderer, the stroller, the flâneur'[^ref3]  that Roy Bayfield mentions in his book , _Desire Paths: Real Walks to Nonreal Places_ (2016). Bayfield’s memoir documents his 'quest to experience the true nature of the places [he] walked within'. Each chapter retells a journey that he has walked, with “multiple layers [of] landscapes” unfolding before him. Like Thoreau and many writers prior to him, Bayfield finds solace through this “’unlicensed wandering ”. It is this wandering that not only forges the path of Bayfield’s journeys but also secures his memoir a spot in the long tradition of place-based writing. 
