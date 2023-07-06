@@ -7,9 +7,9 @@
 
 Walking the Desire Line: Writing Beyond the A to B
 
-Desire paths are, in the most literal terms, manhuman-made trails created by erosion. You’ll most often notice them outlining the edges of fields or forming shortcuts across grassy corners. However, they can form on worn-down pavements, through fallen leaves, or even as trails through snow and ice. These visible paths are formed by desire lines: the route taken to travel from A to B. 
+Desire paths are, in the most literal terms, human-made trails created by erosion. You’ll most often notice them outlining the edges of fields or forming shortcuts across grassy corners. However, they can form on worn-down pavements, through fallen leaves, or even as trails through snow and ice. These visible paths are formed by desire lines: the route taken to travel from A to B. 
 
-The first roads were desire lines, once connecting towns and villages to one another. These lines are not always straight but are most often shortcuts. It is human nature to follow them, :whether to rebel, save time and energy or in the pursuit of change. It is along these new routes and their newer perspectives that we can find inspiration to write: If if you know where to look for it.
+The first roads were desire lines, connecting towns and villages to one another. These lines are not always straight but are most often shortcuts. It is human nature to follow them :whether to rebel, save time and energy or in the pursuit of change. It is along these new routes and their newer perspectives that we can find inspiration to write: If if you know where to look for it.
 
 **A Local History of Desire Paths**   
 Canterbury, Kent, has a rich history of pilgrimage that can help us understand the connectivity of paths through and around the city. Canterbury has been a site of Pilgrimage, “A journey made to a sacred place as an act of religious devotion”[^ref1], since the early twelfth twelfth century. Pilgrims would have followed the ‘Pilgrims’ Way’ route, a 153-mile journey from Winchester to the tomb of the once [medieval](/medieval/medieval-canterbury) Archbishop, Thomas Becket, in Canterbury Cathedral. 
