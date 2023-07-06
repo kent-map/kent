@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<param ve-config title="KWalking the Desire Line: Writing Beyond the A to B" author="Daisy Butcher" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
+<param ve-config title="Walking the Desire Line: Writing Beyond the A to B" author="Daisy Butcher" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
 
 #
@@ -12,11 +12,11 @@ Desire paths are, in the most literal terms, manhuman-made trails created by ero
 The first roads were desire lines, once connecting towns and villages to one another. These lines are not always straight but are most often shortcuts. It is human nature to follow them, :whether to rebel, save time and energy or in the pursuit of change. It is along these new routes and their newer perspectives that we can find inspiration to write: If if you know where to look for it.
 
 **A Local History of Desire Paths**   
-Canterbury, Kent, has a rich history of pilgrimage that can help us understand the connectivity of paths through and around the city. Canterbury has been a site of Pilgrimage, “A journey made to a sacred place as an act of religious devotion”  (OED Online), since the early Twelfth twelfth Centurycentury. Pilgrims would have followed the ‘Pilgrims’ Way’ route, a 153-mile journey from Winchester to the tomb of the once [medieval](/medieval/medieval-canterbury) Archbishop, Thomas Becket, in Canterbury Cathedral. 
+Canterbury, Kent, has a rich history of pilgrimage that can help us understand the connectivity of paths through and around the city. Canterbury has been a site of Pilgrimage, “A journey made to a sacred place as an act of religious devotion”[^ref1], since the early twelfth twelfth century. Pilgrims would have followed the ‘Pilgrims’ Way’ route, a 153-mile journey from Winchester to the tomb of the once [medieval](/medieval/medieval-canterbury) Archbishop, Thomas Becket, in Canterbury Cathedral. 
 
 This historic pathway still exists today, though the average person will findand there are similarly connected routes in the more everyday locations of the city. Whether window shopping along the high street or hurrying to the train station, you’re walking along paths that many pilgrims once would have, too taken. Notably, ‘pilgrimage’ also means to wander, and it is wandering beyond these existing routes that creates desire paths. 
 
-Rebecca Solnit’s “_Wanderlust: A History of Walking” _ provides interesting perspectives on this concept of wandering. ,The author discusses topics from what it means to be a walker across the eras, to the art of landscape and the importance of walking for spiritual connection. Solnit describes walking across desire paths as “’a mode of making the world as well as being in it”. ‘.  Hence, the desire lines that we follow are the living history of those who have meandered before us, and Solnit writes of these as continual journeys through time or like the passing of a torch. 
+Rebecca Solnit’s _Wanderlust: A History of Walking_ provides interesting perspectives on this concept of wandering. ,The author discusses topics from what it means to be a walker across the eras, to the art of landscape and the importance of walking for spiritual connection. Solnit describes walking across desire paths as “’a mode of making the world as well as being in it”. ‘.  Hence, the desire lines that we follow are the living history of those who have meandered before us, and Solnit writes of these as continual journeys through time or like the passing of a torch. 
 
 **The Written History of Desire Paths**    
 Unforgettably, Canterbury was the home of England’s first known female professional writer, [Aphra Behn](/17c/17c-behn-biography) (1640-1689). Since then, the city has seen a plethora of writers walk its streets, including the prolific playwright Christopher Marlowe (1564-1593), who both also lived and wrote in Canterbury. 
