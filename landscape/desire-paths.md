@@ -70,6 +70,7 @@ According to Bayfield, 'focusing on unreal aspects reveals the real', and it is 
 Inspired to take your writing further? You can find out more about our BA Hons in Creative and Professional Writing [here](https://www.canterbury.ac.uk/study-here/courses/creative-and-professional-writing)
 <br><br>
 This article was published: 6 July 2023.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/42/Pilgrims%27_Way_-_geograph.org.uk_-_3148465.jpg" label-"Pilgrims Way" attribution="N. Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ### Bibliography
 Bayfield, Roy. “_Desire Paths: Real Walks to Nonreal Places.” ._ Bridport: Triarchy Press. 2016.    
