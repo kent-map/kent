@@ -11,7 +11,7 @@ The first roads were desire lines, connecting towns and villages to one another.
 <param ve-image url="https://stor.artstor.org/stor/a1030442-f940-4024-b047-7790ada36d4c" label="Desire path" attribution="Daisy Butcher">
 
 **A Local History of Desire Paths**   
-Canterbury has a rich history of pilgrimage that can help us understand the connectivity of paths through and around the city. Canterbury has been a site of Pilgrimage, “A journey made to a sacred place as an act of religious devotion”[^ref1], since the early twelfth century. Pilgrims would have followed the ‘Pilgrims’ Way’ route, a 153-mile journey from Winchester to the tomb of the once [medieval](/medieval/medieval-canterbury) Archbishop, Thomas Becket, in Canterbury Cathedral. 
+Canterbury has a rich history of pilgrimage that can help us understand the connectivity of paths through and around the city. Canterbury has been a site of Pilgrimage, 'A journey made to a sacred place as an act of religious devotion'[^ref1], since the early twelfth century. Pilgrims would have followed the ‘Pilgrims’ Way’ route, a 153-mile journey from Winchester to the tomb of the once [medieval](/medieval/medieval-canterbury) Archbishop, Thomas Becket, in Canterbury Cathedral. 
 <br><br>
 This historic pathway still exists today, and there are similarly connected routes in the more everyday locations of the city. Whether window shopping along the high street or hurrying to the train station, you’re walking along paths that many pilgrims once would have taken. Notably, ‘pilgrimage’ also means to wander, and it is wandering beyond these existing routes that creates desire paths. 
 
@@ -23,14 +23,14 @@ Unforgettably, Canterbury was the home of England’s first known female profess
 
 Looking beyond Canterbury, we find literary figures such as Thoreau, the Transcendentalist writer who wrote his essay 'Walking' (1862) on the title topic. Over 24 pages, Thoreau framed walking as a self-reflective practice that, in connecting with nature, connected him to the world of thought. If you’ve ever wistfully stared out from a train carriage window or sat in a park and watched dog walkers pass by, you’ve probably practised it, too. His ideas have been likened to 21st Century ‘mindfulness’, and they are certainly useful when considering the nature of walking and the history of desire paths in literature. 
 <br><br>
-Thoreau was an example of 'the wanderer, the stroller, the flâneur' (Coverley 2010)  that Roy Bayfield mentions in his book , _Desire Paths: Real Walks to Nonreal Places_ (2016). Bayfield’s memoir documents his 'quest to experience the true nature of the places [he] walked within'. Each chapter retells a journey that he has walked, with “multiple layers [of] landscapes” unfolding before him. Like Thoreau and many writers prior to him, Bayfield finds solace through this “’unlicensed wandering ”. It is this wandering that not only forges the path of Bayfield’s journeys but also secures his memoir a spot in the long tradition of place-based writing. 
+Thoreau was an example of 'the wanderer, the stroller, the flâneur'[^ref3]  that Roy Bayfield mentions in his book , _Desire Paths: Real Walks to Nonreal Places_ (2016). Bayfield’s memoir documents his 'quest to experience the true nature of the places [he] walked within'. Each chapter retells a journey that he has walked, with “multiple layers [of] landscapes” unfolding before him. Like Thoreau and many writers prior to him, Bayfield finds solace through this “’unlicensed wandering ”. It is this wandering that not only forges the path of Bayfield’s journeys but also secures his memoir a spot in the long tradition of place-based writing. 
 
 **Creating Your Own Desire Path Walk**   
 Of course, you don’t have to be a writer to engage with the landscape creatively. You could take a walk to photograph the world around you, collect items from it such as leaves for collages, or use the real-world landscape to draw an imaginary one on a site such as [Inkarnate]( https://inkarnate.com/). 
 <br><br>
 Desire paths are a tool to help you notice the inherent history of places; where people have walked and the directions that they went. They’re a way of walking across the margins of places, even within the heart of a city such as Canterbury. It’s not often that we pay more attention to the journey than the destination, but creating your own walk across desire paths is a fun way to re-engage with the world around you. 
 
-University students, in particular, will take far more desire paths than they might realise. Oftentimes when rushing to class, you’ll cut through alleyways or across roads that form these paths. For example, just outside of the [CCCU](https://www.canterbury.ac.uk) campus is a desire path that was most likely made by students.
+University students, in particular, will take far more desire paths than they might realise. Often times when rushing to class, you’ll cut through alleyways or across roads that form these paths. For example, just outside of the [CCCU](https://www.canterbury.ac.uk) campus is a desire path that was most likely made by students.
 <br><br>
 To create your own desire path walk, you can find one local to you or start here on Monastery St. (From here, the best direction to walk is towards the High Street, passing St Paul’s Church.) Wherever you are, search for places of interest like street signs, benches, or even monuments. You can choose your own direction or flip a coin and follow left or right for ‘heads’ or ‘tails’. Most importantly, desire paths border all parts of urban and rural landscapes, though searching for parks and grassy areas will be your best shot. 
 <param ve-image url="https://stor.artstor.org/stor/ba540d55-be26-475d-8b1b-6f91e43f1bed" label="Monastery Street" attribution="Daisy Butcher">
@@ -80,4 +80,8 @@ Inkarnate. inkarnate.com.
 Solnit, Rebecca. “_Wanderlust: A History of Walking.” ._ London: Granta Books. ,2014.    
 Thoreau, Henry David. “_Walking.” ._ 1862.    
 
+### References
 
+[^ref1]: 'Pilgrimage' Oxford English Dictionary. _OED Online_.
+[^ref2]: Solnit 29.
+[^ref3]: Bayfield.
