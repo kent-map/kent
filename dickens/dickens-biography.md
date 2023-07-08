@@ -29,7 +29,6 @@ His two most obviously autobiographical novels, _David Copperfield_ (1850) set p
 
 After his death in 1870, the areas of Kent most closely associated with Dickens and his novels became the focus for numerous guide writers and literary pilgrims. As the fresh air movement took hold in the early years of the twentieth century, designated Dickens ‘rambles’ and cycling tours were promoted as a means of engaging with a revered writer while escaping the demands and pollution of London.
 <br><br>
-  
 His novels _Pickwick Papers_, _David Copperfield_, _A Tale of Two Cities_, _Great Expectations_, ‘Our English Watering Place’, ‘Out of Town’ are all associated with Kent.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/Charles_Dickens_by_Herbert_Watkins_29_April_1858_%28alternate%29.jpg" label="Charles Dickens, 29 April, 1858" attribution="Herbert Watkins (1828–1916), Public domain, via Wikimedia Commons">
 <param ve-image url="images/Dickens_Land_books.jpg">
