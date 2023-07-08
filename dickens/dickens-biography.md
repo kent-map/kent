@@ -8,6 +8,11 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q507517" aliases="Rochester">
 
+<!-- Basemap centred on Lenham -->
+<param ve-map center="Q28339447" zoom="10">
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent 1860">
+
 Born: 7.2.1812.   
 Married: Catherine Hogarth 1836.   
 Died: 9 June 1870.
