@@ -2,10 +2,8 @@
 <param ve-config title="Charles Dickens (1812-1870)" author="Professor Carolyn Oulton" layout="vtl" banner="images/Grammar_School_Gate_Rochester.jpg">
 
 <param ve-entity eid="Q729006" aliases="Chatham">
-<param ve-entity eid="Q5068781" aliases="Chalk">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q507517" aliases="Rochester">
 
 <!-- Basemap centred on Lenham -->
@@ -14,10 +12,9 @@
 <param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent 1860">
 
 Born: 7.2.1812.   
-Married: Catherine Hogarth 1836.   
-Died: 9 June 1870.
+Married: Catherine Hogarth 1836 and honeymooned at Chalk.  
 <br>
-Honeymoon (Chalk), Public reading (Canterbury).   
+Gave a public reading at Canterbury.   
 _Pickwick Papers_, _David Copperfield_, _A Tale of Two Cities_, _Great Expectations_, ‘Our English Watering Place’, ‘Out of Town’.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/Charles_Dickens_by_Herbert_Watkins_29_April_1858_%28alternate%29.jpg" label="Charles Dickens, 29 April, 1858" attribution="Herbert Watkins (1828–1916), Public domain, via Wikimedia Commons">
 
@@ -35,5 +32,5 @@ But while both Dickens's childhood and final homes were in West Kent, he spent m
 His two most obviously autobiographical novels, _David Copperfield_ (1850) set partly in [Dover](/dickens/dickens-dover) and [Canterbury](/dickens/david-copperfield-canterbury), and [_Great Expectations_](/dickens/great-expectations-curated-walk) (1861) with its powerful evocation of the estuary marshes, also return to a pre-railway era in their treatment of young men whose lives are shaped by the Kent landscape. His final novel, the uncompleted [_Mystery of Edwin Drood_](http://droodinquiry.com/)  offers a notably more modern representation of Rochester, one that is linked to the temptations of London opium dens and rendered dangerous by the urges of sexual jealousy.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Charles_Dickens_and_Rochester_%281880%29_%2814788137593%29.jpg" label="Charles Dickens and Rochester (1880)" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
-After his death the areas of Kent most closely associated with Dickens and his novels became the focus for numerous guide writers and literary pilgrims. As the fresh air movement took hold in the early years of the twentieth century, designated Dickens ‘rambles’ and cycling tours were promoted as a means of engaging with a revered writer while escaping the demands and pollution of London.
+After his death in 1870, the areas of Kent most closely associated with Dickens and his novels became the focus for numerous guide writers and literary pilgrims. As the fresh air movement took hold in the early years of the twentieth century, designated Dickens ‘rambles’ and cycling tours were promoted as a means of engaging with a revered writer while escaping the demands and pollution of London.
 <param ve-image url="images/Dickens_Land_books.jpg">
