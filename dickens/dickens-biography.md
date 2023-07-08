@@ -8,11 +8,6 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q507517" aliases="Rochester">
 
-<!-- Basemap centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
-<!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="9a62ace9300b7b2e" title="1822 Map">
-
 Born: 7.2.1812.   
 Married: Catherine Hogarth 1836.   
 Died: 9 June 1870.
