@@ -5,6 +5,7 @@
 <param ve-entity eid="Q865021" aliases="Birchington">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
+<param ve-entity eid="Q6180452 aliases="Margate">
 
 <!--Basemap centred on Canterbury-->
 <param ve-map center="Q29303" zoom="10">
@@ -16,7 +17,6 @@
 
 Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was born in Yorkshire, the daughter of Henry Vaughan Palmer, a cavalry officer turned clergyman. She was a popular novelist who wrote approximately 112 books and contributed 42 short stories to the _Family Herald_ under the pseudonym of 'Violet Whyte'. 
 <param ve-image url="https://stor.artstor.org/stor/d950857f-269b-47fe-b42a-cc488f3eccd7" label="John Strange Winter" attribution="Photo London Stereo">
-<param ve-map primary center="Q865021" zoom="10">
 
 Like [Edith Katherine Spicer Jay]( /19c/19c-spicer-jay-biography/), Stannard wrote tales of cavalry life under a male pseudonym. Her publisher had advised her that if her collection of stories about cavalry life was known to be the work of a woman, it would 'prejudice its success'.[^ref1]  However, when she was invited to a fish dinner in Greenwich by the editor of the _Cornhill Magazine_, she revealed her gender by saying that as 'J.S.Winter' was of the sex requiring chaperones, she must decline the invitation'.[^ref2] 
 <param ve-image url="https://stor.artstor.org/stor/d81bfebe-fff3-4d22-bbbf-580b351260ea" label="Army Society" by John Strange Winter attribution="Augustine House Library, Canterbury Christ Church University">
@@ -63,7 +63,7 @@ The stay in Birchington stretched into the autumn. In late September 1893, Henri
 She employed two governesses to help with the children.
 <param ve-image url="https://stor.artstor.org/stor/1488a0b4-bf41-44dd-8938-d70ecfd17ea4" label="Montague House, Birchington" attribution="Michelle Crowther">
 <!--Basemap centred on Birchington -->
-<param ve-map primary center="Q865021" zoom="10">
+<param ve-map primary center="Q865021" zoom="15">
 
 Summers in Birchington enabled Stannard to take advantage of the regular train service to London, in order to keep up her social engagements. In May 1894, she chaired a meeting to discuss establishing a Women's Educational and Industrial Union in London and attended a house warming at the Pioneer Club.[^ref28] The following month, she was described as 'looking extremely well' at the Author's Club house warming. She also met Frances Hodgson Burnett at the invitation of Mrs Douglas Sladen[^ref29] accompanied by the American novelist William Nathaniel Harben and her husband Arthur.
 <param ve-image url="https://stor.artstor.org/stor/53a636b7-822e-4430-bb05-b26f9936675a" label="Birchington Promenade">
