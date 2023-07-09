@@ -12,8 +12,8 @@
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q7179270" aliases="Pett Bottom">
 
-<!-- Basemap centred on Ashford -->
-<param ve-map center="Q725261" zoom="12">
+<!-- Basemap centred on Bekesbourne -->
+<param ve-map center="Q4881598" zoom="12">
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
