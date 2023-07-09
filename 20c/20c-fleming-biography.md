@@ -2,7 +2,6 @@
 <param ve-config title="Ian Fleming (1908 – 1964)" author="Fred Marsh" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_White_Cliffs_of_Dover_%2848904125611%29.jpg">
 
 <param ve-entity eid="Q24638363" aliases="St Margaret's Bay">
-<param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q3370771" aliases="Sandwich Bay">
 <param ve-entity eid="Q4881598" aliases="Bekesbourne">
 <param ve-entity eid="Q964785" aliases="Whitstable">
@@ -23,7 +22,6 @@
 “At six o’clock that Tuesday evening towards the end of May, James Bond was thrashing the big Bentley down the Dover road along the straight stretch that runs into Maidstone.”  So begins the famous secret agent’s first working trip to Kent, as narrated by his creator, Ian Fleming, in the novel, _Moonraker_[^ref1]. Fleming’s connection with and affection for Kent was profound and of long standing.  He was a talented amateur golfer, with a handicap at one time of nine, the same as he ascribed to Bond – one of the many conscious similarities between author and character.  Fleming first visited Royal St Georges at Sandwich Bay when he was in his twenties and was a member of the club until his death at the age of fifty-six – in fact, he was captain-elect in 1964, the year he died, and had lunched there the day before his final, fatal heart attack.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Royal-st-georges-golf-club-1.jpg" label="Royal St George's Golf course" attribution="Unknown author, CC BY 4.0, via Wikimedia Commons">
 <!-- Basemap centred on Bekesbourne -->
-<param ve-map center="Q4881598" zoom="10">
 <param ve-map center="Q3370771" zoom="12">
 <param ve-map center="Q179224" zoom="12">
 
