@@ -11,6 +11,11 @@
 <param ve-entity eid="Q725261" aiases="Ashford">
 <param ve-entity eid="Q2065577" aliases="Bearsted">
 
+<!-- Basemap centred on Ashford -->
+<param ve-map center="Q725261" zoom="10">
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
+
 #
 
 Born in Hungary in 1865, Emma Orczy de Orci, the author of the Scarlet Pimpernel novels moved to Thanet in 1908 with her husband, the illustrator, Montague Barstow. She had already published nine novels including three of the Pimpernel stories. 
