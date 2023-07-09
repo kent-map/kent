@@ -11,6 +11,7 @@
 <param ve-entity eid="Q7179270" aliases="Pett Bottom">
 <param ve-entity eid="Q2551894" aliases="Walmer">
 <param ve-entity eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q3307700" aliases="Reculver">
 
 <!-- Basemap centred on Bekesbourne -->
 <param ve-map center="Q4881598" zoom="12">
