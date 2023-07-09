@@ -3,7 +3,6 @@
 
 <param ve-entity eid="Q24638363" aliases="St Margaret's Bay">
 <param ve-entity eid="Q179224" aliases="Dover">
-<param ve-entity eid="Q213180" aliases="Maidstone">
 <param ve-entity eid="Q3370771" aliases="Sandwich Bay">
 <param ve-entity eid="Q4881598" aliases="Bekesbourne">
 <param ve-entity eid="Q964785" aliases="Whitstable">
@@ -19,12 +18,12 @@
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
-
 #
 
 “At six o’clock that Tuesday evening towards the end of May, James Bond was thrashing the big Bentley down the Dover road along the straight stretch that runs into Maidstone.”  So begins the famous secret agent’s first working trip to Kent, as narrated by his creator, Ian Fleming, in the novel, _Moonraker_[^ref1]. Fleming’s connection with and affection for Kent was profound and of long standing.  He was a talented amateur golfer, with a handicap at one time of nine, the same as he ascribed to Bond – one of the many conscious similarities between author and character.  Fleming first visited Royal St Georges at Sandwich Bay when he was in his twenties and was a member of the club until his death at the age of fifty-six – in fact, he was captain-elect in 1964, the year he died, and had lunched there the day before his final, fatal heart attack.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Royal-st-georges-golf-club-1.jpg" label="Royal St George's Golf course" attribution="Unknown author, CC BY 4.0, via Wikimedia Commons">
-<param ve-map center="Q3370771"zoom="13">
+<param ve-map center="Q3370771" zoom="12">
+<param ve-map center="Q179224" zoom="12">
 
 Fleming’s fondness for Kent flowered from its roots as an occasional golfing retreat to what was to become, for a time, a blissful domestic haven.  Beginning in 1948, he regularly visited his friend Noel Coward at Coward’s residence ‘White Cliffs’, situated in Kent’s St Margaret’s Bay area.  In 1951, so enamoured of the area, Fleming took on the lease of a nearby property, which he called ‘Summer’s Lease’, from author Eric Ambler (another friend of Coward’s) and then, in the same year, the lease of White Cliffs when Coward vacated the property.  Fleming and Ann Rothermere, whom he married the following year, lived there until 1957.  Then, with Ann expressing a desire to move away from the seafront in St Margaret’s Bay, Fleming bought ‘The Old Palace’ in Bekesbourne, near Canterbury, where the two of them lived for a couple of years before moving into a flat in Whitehall in Sandwich Bay.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/15/White_cliffs_at_St._Margaret%27s_Bay_-_geograph.org.uk_-_2139591.jpg" label="White cliffs at St. Margaret's Bay" attribution="by Graham Horn, CC BY-SA 2.0, via Wikimedia Commons">
