@@ -11,9 +11,11 @@
 <param ve-entity eid="Q865021" aliases="Birchington">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q7179270" aliases="Pett Bottom">
+<param ve-entity eid="Q2551894" aliases="Walmer">
+<param ve-entity eid="Q1011096" aliases="Deal">
 
 <!-- Basemap centred on Bekesbourne -->
-<param ve-map center="Q4881598" zoom="12">
+<param ve-map center="Q4881598" zoom="10">
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
@@ -35,10 +37,11 @@ With so much invested in Kent, both financially and emotionally, it was natural 
 
 Published in 1955, _Moonraker_[^ref2]  is the third of Fleming’s Bond novels and is set entirely in England (the only book in the sequence to be so set) in the early 1950s.  More than half of the narrative takes place on the Kent coast, three miles north of Dover on the Deal Road, near Kingsdown and St Margaret’s Bay, the area Fleming knew so well.  There, on the top of the cliff, Fleming imagines a rocket-testing station securely guarded by RAF personnel, staffed by fifty German guided missile experts, and financed and supervised by the mysteriously wealthy English entrepreneur Sir Hugo Drax, who has pledged to design and build the country its first operational atomic rocket with a range that will enable it to reach every capital in Europe.  (Fleming wrote the novel contemporaneously with Britain’s nascent nuclear programme and its publication pre-dated the equipping of the country’s V-bombers with their first operational nuclear weapons in 1956.)  In the wake of a curious murder-suicide involving two of the personnel at the site, Bond is despatched by M to act as its security officer and, with the help of Special Branch officer Gala Brand, uncovers a plot to destroy the heart of London and kill millions of its citizens.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/73/St_Margaret%27s_Bay_-_geograph.org.uk_-_2153408.jpg" label="St Margaret's Bay" attribution="by Colin Park, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-map center="Q24638363" zoom="12">
 
 Fleming contrasts the heartlessness of the antagonist’s plot (“But the scream was only in her mind and Gala, her body a twisted black potato crisp amongst a million others, had already fainted.”[^ref3] with the beauty of the Kent countryside: “To their left the carpet of green turf, bright with small wildflowers, sloped gradually down to the long pebble beaches of Walmer and Deal, which curved off towards Sandwich and the Bay.  Beyond, the cliffs of Margate, showing white through the distant haze that hid the North Foreland, guarded the grey scar of Manston aerodrome above which American Thunderjets wrote their white scribbles in the sky.  Then came the Isle of Thanet and, out of sight, the mouth of the Thames.”[^ref4] Set only a few years after the end of WWII, the novel is at once a warning of the danger the country still faces from both old and new foes – albeit described in Fleming’s customarily incredible and overblown style – and a paean to the glory of the landscape that, in the hands of a paranoid fanatic in the book, is being twisted and moulded (“In his mind’s eye Bond could see the blazing white shaft of flame come howling out of the face of the cliff and he could hear the sea hiss and bubble as the liquid chalk poured into the water”[^ref5] to deliver a dagger into the heart of the nation and destroy it forever. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_White_Cliffs_of_Dover_%2848904125611%29.jpg" label="The White Cliffs of Dover" attribution="Mustang Joe, CC0, via Wikimedia Commons">
-<param ve-map center="Q3370771" zoom="13">
+<param ve-map center="Q3370771" zoom="12">
 
 During Bond and Gala’s golden afternoon walk along the shoreline towards St Margaret’s Bay, Fleming compares the scream of a rose as it’s picked (“one of the most heartrending sounds in the world”[^ref6]) with the business of killing as dispensed by agents like Bond.  Bond says the difference is that “flowers can’t shoot back,” and it’s this freedom for humanity to choose whether to use its physical and psychological powers for good or ill that, simplistically and stylistically presented by Fleming in the pro- and antagonistic shapes of Bond and Drax, drives the story towards its explosive finale.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Dog_On_St._Margaret%27s_Bay_Beach.jpg" label="St Margaret's Bay Beach" attribution="TedQuackenbush, CC BY-SA 3.0, via Wikimedia Commons">
