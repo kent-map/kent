@@ -15,8 +15,8 @@
 <param ve-entity eid="Q1000115" aliases="Faversham">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
-<!-- Basemap centred on Bekesbourne -->
-<param ve-map center="Q24638363" zoom="12">
+<!-- Basemap centred on Canterbury -->
+<param ve-map center="Q29303" zoom="12">
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
