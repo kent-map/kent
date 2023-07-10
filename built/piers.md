@@ -24,6 +24,7 @@ From the 1860s a ‘mania’ developed amongst resorts to erect a showpiece plea
   
 In addition to its pleasure piers, Kent also had plenty of other piled pier structures of interest, including the railway piers at Port Victoria, Queenborough, Dover Prince of Wales and Dover Admiralty, and the steamer piers of the River Medway at Upnor, Strood, Rochester and Chatham. There were also piers built for industry along the banks of the Thames and Medway estuaries, including the extraordinary long Bee Ness Jetty, which can still be seen in a derelict condition. The solid concrete/stone harbour and landing piers at [Margate](/19c/19c-margate) , [Ramsgate](/19c/19c-ramsgate), [Dover](/19c/19c-dover) and [Folkestone](/19c/19c-folkestone) were also used for a stroll, as was the charming wooden harbour pier at Broadstairs.
 <param ve-image url="https://stor.artstor.org/stor/28004af7-a466-4af7-a362-27d5ccbd3ccc" label="Port Victoria, 1910" attribution="Martin Easdown">
+<param ve-image url="https://stor.artstor.org/stor/3d27981a-833a-4692-9bbe-cdda1ec10e58" label="Upnor Pier, 1910" attribution="Martin Easdown">
 <param ve-image url="https://stor.artstor.org/stor/e67ce429-83b9-4edf-bc22-79622bf7e6ac" label="Bee Ness Jetty on Damhead Creek" attribution="Martin Easdown">
 <param ve-image url="https://stor.artstor.org/stor/4b978132-747a-486f-a7a0-769653a0add3" label="Margate Jetty, 1904" attribution="Martin Easdown">
 
