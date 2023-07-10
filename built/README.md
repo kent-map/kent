@@ -48,7 +48,7 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d)
 
-In the early nineteenth century, Kent resorts began to build piers, principally for use as landing stages, although, they soon became popular marine promenades.
+In the nineteenth century, Kent resorts began to build piers, principally for use as landing stages, although, they soon became popular marine promenades.
 
 ## Victorian Turkish Baths {href=/19c/19c-turkish-baths}
 
