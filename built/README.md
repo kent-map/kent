@@ -42,8 +42,6 @@ The Invicta Park Barracks which currently houses 36 Engineer Regiment, Royal Eng
 
 Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. It was unearthed during archaeological excavations undertaken in the late 1940s to early 1960s.
 
-## Piers
-
 ## Piers {href=/built/piers}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d)
