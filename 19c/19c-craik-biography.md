@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Dinah Craik" author="Elizabeth Duffield-Fuller" layout="vtl" banner="xx">
+<param ve-config title="Dinah Craik" author="Elizabeth Duffield-Fuller" layout="vtl" banner="/images/banners/19c.jpg">
 
 In 1869, the popular Victorian novelist, Dinah Craik, moved to Shortlands, Bromley, with her husband George and her adopted daughter, Dorothy. The Corner House they built there was designed with the help of the up-and-coming architect, Norman Shaw, and was updated to include all the modern conveniences as they became available, including hot water pipes and taps. It was listed as a protected grade II building by English Heritage in 2008 but has twice been denied a blue plaque. It was also, in Craik’s words, “built with books”—on the proceeds of her novels, poems and travel writings.  
 
