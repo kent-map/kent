@@ -176,6 +176,12 @@ Maggie Harris is a Guyanese writer living in Kent. Winner of the Guyana Prize fo
 
 Lisa Hawkins has a first-class degree and an MA in Fine Art, her main subject is landscape as a vehicle to explore visually how it feels to “be” in the world. This interest in the interplay between the interior life and the external landscape led her to complete a second Master’s degree in Myth Cosmology and the Sacred an experience that fostered a deep and continuing interest in psychology and mythology. She works from life, memory and imagination – welding the spirit of place with an exploration of the human condition. Developing a relationship with a place is central to Lisa’s practice, as the memories of each subsequent visit changes her perceptions – the weather, her own moods, current affairs, together with personal and collective associations. 
 
+## Ruth Heholt
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ddaa4a5b-eda8-4651-9fa8-8e3aa81be708)
+
+Ruth Heholt is Associate Professor of Dark Economies and Gothic Literature at Falmouth University. She is author of Catherine Crowe: Gender, Genre, and Radical Politics (Routledge, 2020) and co-editor of several collections: Gothic Animals (2018), Gothic Britain: Dark Places in the Provinces and Margins of the British Isles (2018), The Victorian Male Body (2018), and Haunted Landscapes (2017). She has organised several conferences including Folk Horror in the Twentieth Century (Falmouth and Lehigh Universities 2019) and is editor of the peer reviewed journal Revenant: Critical and Creative Studies of the Supernatural. 
+
 ## Debbie Hickman
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/afd98a40-01d8-49ec-a67e-1fa264d8d5ff)
