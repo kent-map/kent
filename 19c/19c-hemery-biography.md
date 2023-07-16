@@ -2,7 +2,7 @@
 <param ve-config title="Francis Hobart Hemery (1847-1879)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b7/Ship_rigged_ironclad_%28HMS_Achilles_in_port%29_%28cropped%29_RMG_PW8172.jpg">
 
 Francis Hobart Hemery, poet, was born at sea on the 22nd March 1847, the son of John and Anna Hemery (nee Beatty). He was baptised in Jersey on the 12 May. His father was a successful merchant who became manager of the London and County bank. The family later moved to [Canterbury](/19c/19c-canterbury).
-<param ve-image url="https://stor.artstor.org/stor/4299961a-be83-4924-adc5-ffdf01917220" label="11, The Parade, Canterbury, home of the Hemery family" attribution="Michelle Crowther">
+<param ve-image url="https://stor.artstor.org/stor/4299961a-be83-4924-adc5-ffdf01917220" label="London and County Bank, 11, The Parade, Canterbury" attribution="Michelle Crowther">
 
 Francis joined the navy as a cadet and was appointed sub lieutenant on 11 September 1860.[^ref1] He was assigned to _H.M.S Achilles_, a broadside ironclad frigate which defended the waters of the English Channel as part of the Channel Fleet, as a sub-lieutenant on the 5 June 1867.  
 <br>
