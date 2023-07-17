@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Kentish Gazette" author="Katie Holdway" layout="vtl" 
-banner="/images/banners/18c.jpg">
+banner="/images/banners/18c.jpg" description="Founded in 1768, the Kentish Gazette remains in print today.">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
