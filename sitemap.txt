@@ -34,10 +34,13 @@ https://www.kent-maps.online/19c/19c-barr-biography/
 https://www.kent-maps.online/19c/19c-blackmore-biography/
 https://www.kent-maps.online/19c/19c-braddon-biography/
 https://www.kent-maps.online/19c/19c-brent-biography/
+https://www.kent-maps.online/19c/19c-browne-biography/
 https://www.kent-maps.online/19c/19c-burdett-coutts-biography/
 https://www.kent-maps.online/19c/19c-burges-biography/
 https://www.kent-maps.online/19c/19c-burnand-biography/
 https://www.kent-maps.online/19c/19c-canterbury/
+https://www.kent-maps.online/19c/19c-carlyle-biography/
+https://www.kent-maps.online/19c/19c-challacombe-biography/
 https://www.kent-maps.online/19c/19c-chatham-dockyard/
 https://www.kent-maps.online/19c/19c-christian-andersen/
 https://www.kent-maps.online/19c/19c-collins-biography/
@@ -69,6 +72,7 @@ https://www.kent-maps.online/19c/19c-grand-biography/
 https://www.kent-maps.online/19c/19c-gravesend/
 https://www.kent-maps.online/19c/19c-grossmith-biography/
 https://www.kent-maps.online/19c/19c-henty-biography/
+https://www.kent-maps.online/19c/19c-hogarth-ternan
 https://www.kent-maps.online/19c/19c-hoodening/
 https://www.kent-maps.online/19c/19c-jamesh-hever-castle/
 https://www.kent-maps.online/19c/19c-jerome-biography/
@@ -79,6 +83,7 @@ https://www.kent-maps.online/19c/19c-keats-margate/
 https://www.kent-maps.online/19c/19c-marchantb-biography/
 https://www.kent-maps.online/19c/19c-margate/
 https://www.kent-maps.online/19c/19c-meredith-biography/
+https://www.kent-maps.online/19c/19c-montresor-biography/
 https://www.kent-maps.online/19c/19c-price-hughes-biography/
 https://www.kent-maps.online/19c/19c-pugin-biography/
 https://www.kent-maps.online/19c/19c-pyke-biography/
@@ -111,6 +116,7 @@ https://www.kent-maps.online/19c/19c-wain-biography/
 https://www.kent-maps.online/19c/19c-walker-biography/
 https://www.kent-maps.online/19c/19c-walpole-biography/
 https://www.kent-maps.online/19c/19c-whainsworth-biography/
+https://www.kent-maps.online/19c/19c-wodehouse-biography/
 https://www.kent-maps.online/19c/19c-wood-biography/
 https://www.kent-maps.online/19c/19c-zangwill-biography/
 https://www.kent-maps.online/19c/indextest/
@@ -320,6 +326,7 @@ https://www.kent-maps.online/placesqz/wateringbury-overview/
 https://www.kent-maps.online/placesqz/whitstable-overview/
 https://www.kent-maps.online/poetry/
 https://www.kent-maps.online/prisons/
+https://www.kent-maps.online/prisons/convict-hulks
 https://www.kent-maps.online/reading/19c-recommended-reading/
 https://www.kent-maps.online/reading/20c-recommended-reading/
 https://www.kent-maps.online/religion/
