@@ -72,6 +72,7 @@ https://www.kent-maps.online/19c/19c-henty-biography/
 https://www.kent-maps.online/19c/19c-hoodening/
 https://www.kent-maps.online/19c/19c-jamesh-hever-castle/
 https://www.kent-maps.online/19c/19c-jerome-biography/
+https://www.kent-maps.online/19c/19c-jewish-emancipation
 https://www.kent-maps.online/19c/19c-jerrold-biography/
 https://www.kent-maps.online/19c/19c-jordan-biography/
 https://www.kent-maps.online/19c/19c-keats-margate/
@@ -80,6 +81,7 @@ https://www.kent-maps.online/19c/19c-margate/
 https://www.kent-maps.online/19c/19c-meredith-biography/
 https://www.kent-maps.online/19c/19c-price-hughes-biography/
 https://www.kent-maps.online/19c/19c-pugin-biography/
+https://www.kent-maps.online/19c/19c-pyke-biography/
 https://www.kent-maps.online/19c/19c-ramsgate/
 https://www.kent-maps.online/19c/19c-reynoldsgwm-biography/
 https://www.kent-maps.online/19c/19c-rosherville/
@@ -95,6 +97,7 @@ https://www.kent-maps.online/19c/19c-stanhope-biography/
 https://www.kent-maps.online/19c/19c-stopes-biography/
 https://www.kent-maps.online/19c/19c-storr-biography/
 https://www.kent-maps.online/19c/19c-syrett-biography/
+https://www.kent-maps.online/19c/19c-tait-biography/
 https://www.kent-maps.online/19c/19c-ternan-biography/
 https://www.kent-maps.online/19c/19c-thackeray-biography/
 https://www.kent-maps.online/19c/19c-turkish-baths/
@@ -319,6 +322,7 @@ https://www.kent-maps.online/poetry/
 https://www.kent-maps.online/prisons/
 https://www.kent-maps.online/reading/19c-recommended-reading/
 https://www.kent-maps.online/reading/20c-recommended-reading/
+https://www.kent-maps.online/religion/
 https://www.kent-maps.online/science/
 https://www.kent-maps.online/seascape/
 https://www.kent-maps.online/seascape/deal/
