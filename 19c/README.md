@@ -31,6 +31,7 @@
 [Mary Cowden Clarke](19c-cowden-clarke-biography)   
 [Wilkie Collins](19c-collins-biography)   
 [Joseph Conrad](19c-conrad-biography)  
+[Dinah Craik](19c-craik-biography)   
 [Catherine Ann Crowe](19c-crowe-biography)   
 [Richard Dadd](19c-dadd-biography)   
 [Charles Darwin](19c-darwin-biography)   
