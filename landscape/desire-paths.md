@@ -36,7 +36,7 @@ University students, in particular, will take far more desire paths than they mi
 <param ve-image url="https://stor.artstor.org/stor/ba540d55-be26-475d-8b1b-6f91e43f1bed" label="Monastery Street" attribution="Daisy Butcher">
 
 To create your own desire path walk, you can find one local to you or start here on Monastery St. (From here, the best direction to walk is towards the High Street, passing St Paul’s Church.) Wherever you are, search for places of interest like street signs, benches, or even monuments. You can choose your own direction or flip a coin and follow left or right for ‘heads’ or ‘tails’. Most importantly, desire paths border all parts of urban and rural landscapes, though searching for parks and grassy areas will be your best shot. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Monastery_Street%2C_Canterbury_-_geograph.org.uk_-_4472902.jpg2" label="Monastery Street, Canterbury" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Monastery_Street%2C_Canterbury_-_geograph.org.uk_-_4472902.jpg" label="Monastery Street, Canterbury" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 If you’re on the High Street, you can pass the [Cathedral](/pages/canterbury-cathedral-now-and-then) and walk towards Abbots Mill Garden or Westgate Gardens if you’d rather go further. Around these areas, you’ll be sure to find another desire path to continue your journey. 
 <br><br>
