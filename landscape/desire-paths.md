@@ -41,7 +41,7 @@ To create your own desire path walk, you can find one local to you or start here
 If you’re on the High Street, you can pass the [Cathedral](/pages/canterbury-cathedral-now-and-then) and walk towards Abbots Mill Garden or Westgate Gardens if you’d rather go further. Around these areas, you’ll be sure to find another desire path to continue your journey. 
 <br><br>
 Once you’ve found one, consider whether the path has changed the architecture. Is it a newer trail of scuffed-up dirt, or is it a cemented path over what once would have been one? Can you tell if pedestrians still walk across it?
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e1/Westgate_Gardens%2C_Canterbury_-_geograph.org.uk_-_4614030.jpg" label="Westgate Gardens, Canterbury" attribution="Chris Heaton, via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/77/Butchery_Lane%2C_Canterbury%2C_England.jpg" label="Butchery Lane, Canterbury" attribution="Ray in Manila, via Wikimedia Commons" license="CC BY 2.0">
 
 **Writing the Desire Line**   
 Now that you’ve found some desire paths, you presumably have a pen and paper or notes app open, and you want to write. With place-based writing, the best way to begin is to ground yourself. Focus on your senses: What can you taste, smell, hear, or feel? Jot down anything that comes to your mind. Now focus on where you are. Do you know this place well? How did you get here? Think of the desire path where you began and consider if there’s a link between there and where you are now. Does this link tell a story? 
@@ -51,7 +51,7 @@ Whatever ideas you have, make sure to write them down. Whether you’re a poet, 
 -What catches your attention on/near the path?   
 -Who would have created the desire paths you’ve found?   
 -What would the paths look like at different times of day/across the seasons?   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/77/Canterbury_City_Walls_-_geograph.org.uk_-_3716909.jpg" label="Canterbury City Walls" attribution="Malc McDonald, via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e1/Westgate_Gardens%2C_Canterbury_-_geograph.org.uk_-_4614030.jpg" label="Westgate Gardens, Canterbury" attribution="Chris Heaton, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Desire lines are ultimately a joining of places, and to engage with them, you don’t need to plan long stretching hikes or elaborate daily walks. You don’t even need to be a writer, but for those of us who are, the desire paths that they form across the landscapes where we write are a useful tool.
 <br><br>
