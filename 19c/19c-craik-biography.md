@@ -2,12 +2,12 @@
 <param ve-config title="Dinah Craik" author="Elizabeth Duffield-Fuller" layout="vtl" banner="/images/banners/19c.jpg">
 
 <!-- Basemap centred on West Malling -->
-<param ve-map center="Q1356429" zoom="12">
+<param ve-map center="Q1356429" zoom="10">
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="43dfb17f8135937e" title="Moule Map of Kent, 1850">
 
 In 1869, the popular Victorian novelist, Dinah Craik, moved to Shortlands, Bromley, with her husband George and her adopted daughter, Dorothy. The Corner House they built there was designed with the help of the up-and-coming architect, Norman Shaw, and was updated to include all the modern conveniences as they became available, including hot water pipes and taps. It was listed as a protected grade II building by English Heritage in 2008 but has twice been denied a blue plaque. It was also, in Craik’s words, “built with books”—on the proceeds of her novels, poems and travel writings.  
-<param ve-map center="Q208201" zoom="12">
+<param ve-map center="Q208201" zoom="10">
 
 As the Corner House was being built, Dinah Craik was serializing her novel _A Brave Lady_ in Macmillian’s Magazine—and the connection between her private life and literary works is clear, for in _A Brave Lady_ Craik intervened in the Married Woman’s Property Act debate, which allowed a married woman to own her own home and property. In the novel Josephine De Bougainville, the titular brave lady, has to endure many hardships because of her dependence on her financially insolvent, socially-climbing embezzler husband; at the same time Dinah Craik was busy establishing her own home and also the future financial independence of her daughter, with her own money. Whilst the fictional Josephine De Bougainville — often believed to be a semi-autobiographical tribute to her poor beleaguered mother, Dinah Mulock — travels around England and France looking for an enduring home to rest, Craik herself was setting up permanent roots in the countryside. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/A_brave_lady_%28IA_bravelady02crai%29.pdf/page1-731px-A_brave_lady_%28IA_bravelady02crai%29.pdf.jpg" label="The cover of A Brave Lady" attribution="London : Hurst and Blackett, Internet Archive, Wikimedia Commons">
