@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Walking the Desire Line: Writing Beyond the A to B" author="Daisy Butcher" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" description="Desire paths are, in the most literal terms, human-made trails created by erosion.>
 
-<param ve-config title="Walking the Desire Line: Writing Beyond the A to B" author="Daisy Butcher" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
 
 #
@@ -24,7 +24,8 @@ Unforgettably, Canterbury was the home of England’s first known female profess
 <br><br>
 Looking beyond Canterbury, we find literary figures such as Thoreau, the Transcendentalist writer who wrote his essay 'Walking' (1862) on the title topic. Over 24 pages, Thoreau framed walking as a self-reflective practice that, in connecting with nature, connected him to the world of thought. If you’ve ever wistfully stared out from a train carriage window or sat in a park and watched dog walkers pass by, you’ve probably practised it, too. His ideas have been likened to 21st Century ‘mindfulness’, and they are certainly useful when considering the nature of walking and the history of desire paths in literature. 
 <br><br>
-Thoreau was an example of 'the wanderer, the stroller, the flâneur'[^ref3]  that Roy Bayfield mentions in his book , _Desire Paths: Real Walks to Nonreal Places_ (2016). Bayfield’s memoir documents his 'quest to experience the true nature of the places [he] walked within'. Each chapter retells a journey that he has walked, with “multiple layers [of] landscapes” unfolding before him. Like Thoreau and many writers prior to him, Bayfield finds solace through this “’unlicensed wandering ”. It is this wandering that not only forges the path of Bayfield’s journeys but also secures his memoir a spot in the long tradition of place-based writing. 
+Thoreau was an example of 'the wanderer, the stroller, the flâneur'[^ref3]  that Roy Bayfield mentions in his book , _Desire Paths: Real Walks to Nonreal Places_ (2016). Bayfield’s memoir documents his 'quest to experience the true nature of the places [he] walked within'. Each chapter retells a journey that he has walked, with “multiple layers [of] landscapes” unfolding before him. Like Thoreau and many writers prior to him, Bayfield finds solace through this “unlicensed wandering”. It is this wandering that not only forges the path of Bayfield’s journeys but also secures his memoir a spot in the long tradition of place-based writing. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/High_Street%2C_Canterbury%2C_England_%2849976428122%29.jpg" label="High Street, Canterbury" attribution="Ray in Manila, via Wikimedia Commons" license="CC BY 2.0">
 
 **Creating Your Own Desire Path Walk**   
 Of course, you don’t have to be a writer to engage with the landscape creatively. You could take a walk to photograph the world around you, collect items from it such as leaves for collages, or use the real-world landscape to draw an imaginary one on a site such as [Inkarnate]( https://inkarnate.com/). 
@@ -59,9 +60,9 @@ Imagine you're a character crossing this path:
 -How is your character moving across the path? Are they limping or avoiding the cracks/lines?    
 -Is your character walking in the present or remembering? Will they revisit this place?   
 -Are there obstacles like warning signs or gates? Can you pass them? If you needed one, where could be an escape route?   
-<br><br>
+<br>
 Now, I’m not encouraging you to walk anywhere forbidden or to wander some place dangerous, but rely on your imagination. Describe the path you’re walking along and consider if or why it’s a shortcut. 
-<br><br>
+<br>
 Have you begun to notice which paths people take and which they avoid? Could you create your own desire path over time? If you walked the same path every day, at what point would you see it form?
 
 Desire lines are ultimately a joining of places, and to engage with them, you don’t need to plan long stretching hikes or elaborate daily walks. You don’t even need to be a writer, but for those of us who are, the desire paths that they form across the landscapes where we write are a useful tool. 
