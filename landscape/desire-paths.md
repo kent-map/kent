@@ -31,24 +31,27 @@ Thoreau was an example of 'the wanderer, the stroller, the flâneur'[^ref3]  tha
 Of course, you don’t have to be a writer to engage with the landscape creatively. You could take a walk to photograph the world around you, collect items from it such as leaves for collages, or use the real-world landscape to draw an imaginary one on a site such as [Inkarnate]( https://inkarnate.com/). 
 <br><br>
 Desire paths are a tool to help you notice the inherent history of places; where people have walked and the directions that they went. They’re a way of walking across the margins of places, even within the heart of a city such as Canterbury. It’s not often that we pay more attention to the journey than the destination, but creating your own walk across desire paths is a fun way to re-engage with the world around you. 
-
+<br>>br>
 University students, in particular, will take far more desire paths than they might realise. Often times when rushing to class, you’ll cut through alleyways or across roads that form these paths. For example, just outside of the [CCCU](https://www.canterbury.ac.uk) campus is a desire path that was most likely made by students.
-<br><br>
-To create your own desire path walk, you can find one local to you or start here on Monastery St. (From here, the best direction to walk is towards the High Street, passing St Paul’s Church.) Wherever you are, search for places of interest like street signs, benches, or even monuments. You can choose your own direction or flip a coin and follow left or right for ‘heads’ or ‘tails’. Most importantly, desire paths border all parts of urban and rural landscapes, though searching for parks and grassy areas will be your best shot. 
 <param ve-image url="https://stor.artstor.org/stor/ba540d55-be26-475d-8b1b-6f91e43f1bed" label="Monastery Street" attribution="Daisy Butcher">
+
+To create your own desire path walk, you can find one local to you or start here on Monastery St. (From here, the best direction to walk is towards the High Street, passing St Paul’s Church.) Wherever you are, search for places of interest like street signs, benches, or even monuments. You can choose your own direction or flip a coin and follow left or right for ‘heads’ or ‘tails’. Most importantly, desire paths border all parts of urban and rural landscapes, though searching for parks and grassy areas will be your best shot. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Monastery_Street%2C_Canterbury_-_geograph.org.uk_-_4472902.jpg2" label="Monastery Street, Canterbury" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 If you’re on the High Street, you can pass the [Cathedral](/pages/canterbury-cathedral-now-and-then) and walk towards Abbots Mill Garden or Westgate Gardens if you’d rather go further. Around these areas, you’ll be sure to find another desire path to continue your journey. 
 <br><br>
 Once you’ve found one, consider whether the path has changed the architecture. Is it a newer trail of scuffed-up dirt, or is it a cemented path over what once would have been one? Can you tell if pedestrians still walk across it?
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e1/Westgate_Gardens%2C_Canterbury_-_geograph.org.uk_-_4614030.jpg" label="Westgate Gardens, Canterbury" attribution="Chris Heaton, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Writing the Desire Line**   
 Now that you’ve found some desire paths, you presumably have a pen and paper or notes app open, and you want to write. With place-based writing, the best way to begin is to ground yourself. Focus on your senses: What can you taste, smell, hear, or feel? Jot down anything that comes to your mind. Now focus on where you are. Do you know this place well? How did you get here? Think of the desire path where you began and consider if there’s a link between there and where you are now. Does this link tell a story? 
-
+<br>
 Whatever ideas you have, make sure to write them down. Whether you’re a poet, playwright, or just dabbling into writing, I can’t tell you how to do it. However, here are some prompts and pictures to inspire what you write:
 <br><br>
 -What catches your attention on/near the path?   
 -Who would have created the desire paths you’ve found?   
 -What would the paths look like at different times of day/across the seasons?   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/77/Canterbury_City_Walls_-_geograph.org.uk_-_3716909.jpg" label="Canterbury City Walls" attribution="Malc McDonald, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Desire lines are ultimately a joining of places, and to engage with them, you don’t need to plan long stretching hikes or elaborate daily walks. You don’t even need to be a writer, but for those of us who are, the desire paths that they form across the landscapes where we write are a useful tool.
 <br><br>
@@ -62,6 +65,7 @@ Imagine you're a character crossing a path:
 Now, I’m not encouraging you to walk anywhere forbidden or to wander some place dangerous, but rely on your imagination. Describe the path you’re walking along and consider if or why it’s a shortcut. 
 <br>
 Have you begun to notice which paths people take and which they avoid? Could you create your own desire path over time? If you walked the same path every day, at what point would you see it form?
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Walking_towards_Adisham_Church_-_geograph.org.uk_-_2153499.jpg" label="Walking towards Adisham Church" attribution="Colin Park, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 
 According to Bayfield, 'focusing on unreal aspects reveals the real', and it is through focusing on the imagined history of desire paths that writers can create new stories from them. Moreover, searching for these paths encourages you to interact with the local landscapes and the traditions of walking and writing. For example, finding a shortcut or passing a new street on the way home will give writers and walkers alike fresher perspectives of the places around them. So, next time you’re at a crossroads or an unwavering path, consider wandering past it. Try and create a new route to explore; beyond the A to B. 
 <br><br>
