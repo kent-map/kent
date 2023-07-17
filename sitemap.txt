@@ -35,6 +35,7 @@ https://www.kent-maps.online/19c/19c-blackmore-biography/
 https://www.kent-maps.online/19c/19c-braddon-biography/
 https://www.kent-maps.online/19c/19c-brent-biography/
 https://www.kent-maps.online/19c/19c-burdett-coutts-biography/
+https://www.kent-maps.online/19c/19c-burges-biography/
 https://www.kent-maps.online/19c/19c-burnand-biography/
 https://www.kent-maps.online/19c/19c-canterbury/
 https://www.kent-maps.online/19c/19c-chatham-dockyard/
@@ -78,6 +79,7 @@ https://www.kent-maps.online/19c/19c-marchantb-biography/
 https://www.kent-maps.online/19c/19c-margate/
 https://www.kent-maps.online/19c/19c-meredith-biography/
 https://www.kent-maps.online/19c/19c-price-hughes-biography/
+https://www.kent-maps.online/19c/19c-pugin-biography/
 https://www.kent-maps.online/19c/19c-ramsgate/
 https://www.kent-maps.online/19c/19c-reynoldsgwm-biography/
 https://www.kent-maps.online/19c/19c-rosherville/
@@ -141,6 +143,7 @@ https://www.kent-maps.online/20c/20c-kent-miners/
 https://www.kent-maps.online/20c/20c-maugham-biography/
 https://www.kent-maps.online/20c/20c-maxwelld-biography/
 https://www.kent-maps.online/20c/20c-nash-biography/
+https://www.kent-maps.online/20c/20c-nethersole-biography/
 https://www.kent-maps.online/20c/20c-northbourne-biography/
 https://www.kent-maps.online/20c/20c-orczy-biography/
 https://www.kent-maps.online/20c/20c-owen-biography/
@@ -187,6 +190,10 @@ https://www.kent-maps.online/austen/austen-godmersham/
 https://www.kent-maps.online/austen/austen-ramsgate/
 https://www.kent-maps.online/austen/austen-sevenoaks/
 https://www.kent-maps.online/austen/austen-tunbridge-wells/
+https://www.kent-maps.online/built/
+https://www.kent-maps.online/built/invicta-park-barracks/
+https://www.kent-maps.online/built/lullingstone-roman-villa
+https://www.kent-maps.online/built/piers
 https://www.kent-maps.online/canterbury/
 https://www.kent-maps.online/canterbury/20c-canterbury-boom-city/
 https://www.kent-maps.online/canterbury/20c-canterbury-commerce/
