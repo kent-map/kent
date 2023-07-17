@@ -31,7 +31,7 @@ Thoreau was an example of 'the wanderer, the stroller, the flâneur'[^ref3]  tha
 Of course, you don’t have to be a writer to engage with the landscape creatively. You could take a walk to photograph the world around you, collect items from it such as leaves for collages, or use the real-world landscape to draw an imaginary one on a site such as [Inkarnate]( https://inkarnate.com/). 
 <br><br>
 Desire paths are a tool to help you notice the inherent history of places; where people have walked and the directions that they went. They’re a way of walking across the margins of places, even within the heart of a city such as Canterbury. It’s not often that we pay more attention to the journey than the destination, but creating your own walk across desire paths is a fun way to re-engage with the world around you. 
-<br>>br>
+<br><br>
 University students, in particular, will take far more desire paths than they might realise. Often times when rushing to class, you’ll cut through alleyways or across roads that form these paths. For example, just outside of the [CCCU](https://www.canterbury.ac.uk) campus is a desire path that was most likely made by students.
 <param ve-image url="https://stor.artstor.org/stor/ba540d55-be26-475d-8b1b-6f91e43f1bed" label="Monastery Street" attribution="Daisy Butcher">
 
@@ -72,7 +72,7 @@ According to Bayfield, 'focusing on unreal aspects reveals the real', and it is 
 Inspired to take your writing further? You can find out more about our BA Hons in Creative and Professional Writing [here](https://www.canterbury.ac.uk/study-here/courses/creative-and-professional-writing)
 <br><br>
 This article was published: 6 July 2023.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/42/Pilgrims%27_Way_-_geograph.org.uk_-_3148465.jpg" label-"Pilgrims Way" attribution="N. Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/42/Pilgrims%27_Way_-_geograph.org.uk_-_3148465.jpg" label="Pilgrims Way" attribution="N. Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ### Bibliography
 Bayfield, Roy. “_Desire Paths: Real Walks to Nonreal Places.” ._ Bridport: Triarchy Press. 2016.    
