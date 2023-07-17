@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config title="Dinah Craik" author="Elizabeth Duffield-Fuller" layout="vtl" banner="/images/banners/19c.jpg">
 
-<!-- Basemap centred on Bromley -->
-<param ve-map center="Q208201" zoom="10">
+<!-- Basemap centred on Maidstone -->
+<param ve-map center="Q213180" zoom="10">
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="43dfb17f8135937e" title="Moule Map of Kent, 1850">
 
