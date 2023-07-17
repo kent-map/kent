@@ -49,12 +49,10 @@ Whatever ideas you have, make sure to write them down. Whether you’re a poet, 
 -What catches your attention on/near the path?   
 -Who would have created the desire paths you’ve found?   
 -What would the paths look like at different times of day/across the seasons?   
-<br><br>
-For example, would the desire path change from this in the Autumn:
 
-To this in the Spring:
- <br><br>
-Imagine you're a character crossing this path: 
+Desire lines are ultimately a joining of places, and to engage with them, you don’t need to plan long stretching hikes or elaborate daily walks. You don’t even need to be a writer, but for those of us who are, the desire paths that they form across the landscapes where we write are a useful tool.
+<br><br>
+Imagine you're a character crossing a path: 
 <br><br>
 -Who are you, and where are you going?    
 -How is your character moving across the path? Are they limping or avoiding the cracks/lines?    
@@ -64,8 +62,6 @@ Imagine you're a character crossing this path:
 Now, I’m not encouraging you to walk anywhere forbidden or to wander some place dangerous, but rely on your imagination. Describe the path you’re walking along and consider if or why it’s a shortcut. 
 <br>
 Have you begun to notice which paths people take and which they avoid? Could you create your own desire path over time? If you walked the same path every day, at what point would you see it form?
-
-Desire lines are ultimately a joining of places, and to engage with them, you don’t need to plan long stretching hikes or elaborate daily walks. You don’t even need to be a writer, but for those of us who are, the desire paths that they form across the landscapes where we write are a useful tool. 
 
 According to Bayfield, 'focusing on unreal aspects reveals the real', and it is through focusing on the imagined history of desire paths that writers can create new stories from them. Moreover, searching for these paths encourages you to interact with the local landscapes and the traditions of walking and writing. For example, finding a shortcut or passing a new street on the way home will give writers and walkers alike fresher perspectives of the places around them. So, next time you’re at a crossroads or an unwavering path, consider wandering past it. Try and create a new route to explore; beyond the A to B. 
 <br><br>
