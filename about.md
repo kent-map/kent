@@ -12,17 +12,13 @@ This site is the product of a collaboration between [JSTOR Labs](https://labs.js
 
 The site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
 
-The JSTOR Labs team is providing tools and infrastructure for presenting the essays with interactive visualizations that are generated from annotations inserted in the text by the essay authors.  The visualizations include interactive maps with feature overlays that provide context for associated paragraphs in the essay. Much of the data used in the contextualized visualizations is obtained from open access knowledge graphs such as [Wikidata](https://www.wikidata.org), the primary data source behind Wikipedia.
-
-Framed by the idea of ‘writers and their times’, the project is researching historic, literary and geographical records to create an interactive experience seen through multi-disciplinary lenses. This approach contextualises literature and textual records of historic events through an emphasis on the material conditions in which they were produced and circulated. 
-
-But rather than simply recreating a historic experience, the research aims to problematise the ways in which we interpret and represent the past. What do we think we know about the history of local landscapes? How do conflicting perspectives and gaps in the record remind us that representation is always selective and that hi_story_ is just that – a story we tell to others and ourselves?
+Framed by the idea of ‘writers and their times’, the project is researching historic, literary and geographical records to create an interactive experience seen through multi-disciplinary lenses. This approach contextualises literature and textual records of historic events through an emphasis on the material conditions in which they were produced and circulated. But rather than simply recreating a historic experience, the research aims to problematise the ways in which we interpret and represent the past. What do we think we know about the history of local landscapes? How do conflicting perspectives and gaps in the record remind us that representation is always selective and that hi_story_ is just that – a story we tell to others and ourselves?
 
 As the map grows so too will the capacity for making unforeseen connections. While the project inevitably reflects the interests of the research team, it is highly collaborative and is not designed to showcase or privilege any one argument over another. Instead it will help you find your own answers to questions you haven’t thought of yet.
 
 The project team hosts an annual [Kent Digital Maps Symposium](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/seminar-series/kent-maps-online-symposium.aspx) and has their own YouTube channel: [Kent Maps Online](https://www.youtube.com/channel/UCAIbFfzsJzaeYwVNuCeF50w).
 
-# Steering Group {.cards}
+# Project Team {.cards}
 
 ## Carolyn Oulton
 
@@ -30,17 +26,23 @@ The project team hosts an annual [Kent Digital Maps Symposium](https://www.cante
 
 Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. While carrying out research in Dickens Land she infringed enough bye laws to get herself hanged under the Bloody Code. But it was all Pip’s fault. Twitter: @KentMaps1, email: carolyn.oulton@canterbury.ac.uk
 
-## Claire Bartram
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1da3cc93-932d-4422-b389-9af7e562dd10)
-
-Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
-
 ## Michelle Crowther
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/michelle.jpg)
 
 Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature. Twitter: @HumLib_cccu
+
+## JSTOR Labs
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e32c7d2e-f1b1-42a1-81fd-8398293aa616)
+
+The [JSTOR Labs](https://labs.jstor.org/) team provides tools and infrastructure for presenting the essays with interactive visualizations that are generated from annotations inserted in the text by the essay authors.  The visualizations include interactive maps with feature overlays that provide context for associated paragraphs in the essay. Much of the data used in the contextualized visualizations is obtained from open access knowledge graphs such as Wikidata.
+
+## Claire Bartram
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1da3cc93-932d-4422-b389-9af7e562dd10)
+
+Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
 
 ## Laura Allen
 
