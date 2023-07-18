@@ -20,19 +20,19 @@ This site is the product of a collaboration between [JSTOR Labs](https://labs.js
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/CO_in_bookshop.jpg)
 
-Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. While carrying out research in Dickens Land she infringed enough bye laws to get herself hanged under the Bloody Code. But it was all Pip’s fault. Twitter: @KentMaps1, email: carolyn.oulton@canterbury.ac.uk
+Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. Twitter: @KentMaps1, email: carolyn.oulton@canterbury.ac.uk
 
 ## Michelle Crowther
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/michelle.jpg)
 
-Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature. Twitter: @HumLib_cccu
+Michelle Crowther is a Learning and Research Librarian at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature. Twitter: @HumLib_cccu
 
 ## JSTOR Labs
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e32c7d2e-f1b1-42a1-81fd-8398293aa616)
 
-The [JSTOR Labs](https://labs.jstor.org/) team provides tools and infrastructure for presenting the essays with interactive visualizations that are generated from annotations inserted in the text by the essay authors.  The visualizations include interactive maps with feature overlays that provide context for associated paragraphs in the essay. Much of the data used in the contextualized visualizations is obtained from open access knowledge graphs such as Wikidata.
+The [JSTOR Labs](https://labs.jstor.org/) team provides tools and infrastructure for presenting the essays with interactive visualizations that are generated from annotations inserted in the text by the essay authors.  The visualizations include interactive maps with feature overlays that provide context for associated paragraphs in the essay. 
 
 ## Claire Bartram
 
@@ -52,7 +52,7 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran%20Allfrey.jpeg)
 
-Dr Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity, and the emotional, social, and political stakes of these remakings.
+Dr Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity.
 
 ## Brooke Altringham
 
@@ -64,25 +64,25 @@ Brooke Altringham is a history student with a passion for twentieth century hist
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/05320be6-9e97-4649-b095-d150533ae47a)
 
-Dr Pat Argar has a PhD from Canterbury Christ Church University. Her research interests include the writing of Sheila Kaye-Smith, the family history of the Comport family and all things rural (especially with relation to Romney Marsh, where she lives). Before the Covid19 pandemic she regularly gave presentations and talks to groups and societies on local history and literature. She was born and grew up in East Sussex and spent most of her adult life as a teacher. Her pandemic “lockdown” diary can be found at [theruralwriterblog.wordpress.com](theruralwriterblog.wordpress.com)
+Dr Pat Argar has a PhD from Canterbury Christ Church University. Her research interests include the writing of Sheila Kaye-Smith, the family history of the Comport family and all things rural (especially with relation to Romney Marsh, where she lives). Blog: [theruralwriterblog.wordpress.com](theruralwriterblog.wordpress.com)
 
 ## Liz Askey
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/cea2880e-59a3-443e-bad3-8d789d02acfc)
 
-Dr Liz Askey holds a doctorate from the University of Kent and is currently working as a freelance online English Tutor. Having previously worked in scientific research (e.g. she was a member of the original Viagra project team at Pfizer Ltd), her research interests have an interdisciplinary flavour including early modern women's poetry and 19th century women botanists.
+Dr Liz Askey has a PhD from the University of Kent and is currently working as a freelance online English Tutor. Having previously worked in scientific research (she was a member of the original Viagra project team at Pfizer Ltd), her research interests are interdisciplinary including early modern women's poetry and 19th century women botanists.
 
 ## Sophie Baldock
 
 ![](https://iiif.juncture-digital.org/thumbnail?rotation=180&amp;url=https://raw.githubusercontent.com/kent-map/kent/main/images/sophiebaldock.jpg)
 
-Dr Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive, one of the first hybrid (part-paper, part-digital) literary archives acquired by the Library. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). She grew up in Kent, and in the summer enjoys swimming in the sea along the east Kent coast. Twitter: @SophieBaldock
+Dr Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). Twitter: @SophieBaldock
 
 ## Alexa Barrett
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Alexa_Barrett.jpg)
 
-Alexa Barrett is an undergraduate English Literature and Creative and Professional Writing student at Canterbury Christ Church University. She has lived in Kent her whole life, getting involved in learning about Canterbury's history and reading Victorian novels in her spare time. She is currently focusing on her own creative writing projects with many set in the Victorian Era. Twitter: @Alexawriting
+Alexa Barrett is an undergraduate English Literature and Creative and Professional Writing student at Canterbury Christ Church University. Twitter: @Alexawriting
 
 ## Ben Bethell
 
@@ -94,7 +94,7 @@ Ben Bethell received a PhD in history from the University of London in 2020. He 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/697b4f13-3150-42c1-8cf6-12aee6ddb3a7)
 
-Catriona Blaker’s first degree was in Modern History, at Edinburgh University. She is a founder member and trustee of the Pugin Society, and a past editor of its journal _True Principles_, to which she has contributed various articles. Her interest in Pugin and the nineteenth century led her to eventually acquire an MA, ‘Aspects of English Nineteenth-Century Life and Thought’, at Canterbury Christ Church University. She is the author of various local publications relating to the Pugins, such as _Edward Pugin and Kent_, and for some time worked as a guide at Pugin’s house, The Grange, Ramsgate.
+Catriona Blaker studied Modern History, at Edinburgh University. She is a founder member and trustee of the Pugin Society, and a past editor and contributor to its journal _True Principles_. Her interest in Pugin and the nineteenth century led to an MA, ‘Aspects of English Nineteenth-Century Life and Thought’, at Canterbury Christ Church University. She is the author of publications relating to the Pugins, such as _Edward Pugin and Kent_, and for some time worked as a guide at Pugin’s house, The Grange, Ramsgate.
 
 ## Simone Blandford
 
@@ -106,25 +106,25 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e4b386b3-b426-4a1a-ba34-d96729dc8b0f)
 
-Bethia Carter is currently in her third year studying at Canterbury Christ Church University, for a BA (Hons) degree in English Language and Communication and French. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
+Bethia Carter studied a BA in English Language and Communication and French at Canterbury Christ Church University. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
 
 ## Carina Chan
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f10f06ec-cf28-4dc0-ad80-797fcaa60c0c)
 
-Carina is a 2nd year undergraduate Civil Engineering student at the University of Sheffield. She aspires to travel around the world and share her engineering skillset throughout other countries to improve other peoples’ quality of life. She also wants to help create a sustainable future and believes that learning from history is vital to unlocking this theoretical utopia. Her inspirations are derived from historical figures and past events, as tragic as they can be, there are great lessons to be learnt from them. 
+Carina is a 2nd year undergraduate Civil Engineering student at the University of Sheffield. She aspires to share her engineering skillset throughout other countries to improve other peoples’ quality of life and to create a sustainable future, believing that learning from history is vital to unlocking this theoretical utopia. Her inspirations are derived from historical figures and past events, as tragic as they can be, there are great lessons to be learnt from them. 
 
 ## Susan Civale
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/susancivale.jpg)
 
-Dr Susan Civale is Senior Lecturer in Romanticism at Canterbury Christ Church University.  Her research focuses on women’s writing of the long nineteenth century, life writing, and authorial and textual afterlives.  Her monograph, _Romantic Women's Life Writing: Reputation and Afterlife_ (Manchester University Press, 2019), explored how the publication of women’s ‘private’ lives, through diaries, auto/biographies, letters, and memoirs, influenced their literary afterlives.
+Dr Susan Civale is Senior Lecturer in Romanticism at Canterbury Christ Church University.  Her research focuses on women’s writing of the long nineteenth century, life writing, and authorial and textual afterlives.  Her monograph, _Romantic Women's Life Writing: Reputation and Afterlife_, explored how the publication of women’s ‘private’ lives, through diaries, auto/biographies, letters, and memoirs, influenced their literary afterlives.
 
 ## Carla Danella
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/carla.JPG)
 
-Carla Danella has a BA from Wellesley College (in the US) and recently completed her MA in English Literature at Canterbury Christ Church University, studying the writing and life of the English writer and eccentric, Christopher St John. When not creating occasional exhibitions for the National Trust at Smallhythe Place, or at her day job as web content manager, she can be found hiking in Kent with her dog Max.
+Carla Danella has a BA from Wellesley College and recently completed her MA in English Literature at Canterbury Christ Church University, studying the writing and life of the English writer and eccentric, Christopher St John. She creates occasional exhibitions for the National Trust at Smallhythe Place, is a web content manager, and enjoys hiking.
 
 ## Laurie Duggan
 
