@@ -63,7 +63,6 @@ Imagine you're a character crossing a path:
 -Is your character walking in the present or remembering? Will they revisit this place?   
 -Are there obstacles like warning signs or gates? Can you pass them? If you needed one, where could be an escape route?   
 <br>
-
 Now, I’m not encouraging you to walk anywhere forbidden or to wander some place dangerous, but rely on your imagination. Describe the path you’re walking along and consider if or why it’s a shortcut. 
 <br>
 Have you begun to notice which paths people take and which they avoid? Could you create your own desire path over time? If you walked the same path every day, at what point would you see it form?
