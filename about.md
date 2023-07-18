@@ -8,17 +8,13 @@
 
 # About the site and project
 
-This site is the product of a collaboration between [JSTOR Labs](https://labs.jstor.org) and a team led by Carolyn Oulton, Professor of Victorian Literature in the School of Humanities and Educational Studies, and Michelle Crowther, Research Librarian, Canterbury Christ Church University.
-
-The site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site.
-
-Framed by the idea of ‘writers and their times’, the project is researching historic, literary and geographical records to create an interactive experience seen through multi-disciplinary lenses. This approach contextualises literature and textual records of historic events through an emphasis on the material conditions in which they were produced and circulated. But rather than simply recreating a historic experience, the research aims to problematise the ways in which we interpret and represent the past. What do we think we know about the history of local landscapes? How do conflicting perspectives and gaps in the record remind us that representation is always selective and that hi_story_ is just that – a story we tell to others and ourselves?
-
-As the map grows so too will the capacity for making unforeseen connections. While the project inevitably reflects the interests of the research team, it is highly collaborative and is not designed to showcase or privilege any one argument over another. Instead it will help you find your own answers to questions you haven’t thought of yet.
+The site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site. Framed by the idea of ‘writers and their times’, the project is researching historic, literary and geographical records to create an interactive experience seen through multi-disciplinary lenses. This approach contextualises literature and textual records of historic events through an emphasis on the material conditions in which they were produced and circulated. But rather than simply recreating a historic experience, the research aims to problematise the ways in which we interpret and represent the past. What do we think we know about the history of local landscapes? How do conflicting perspectives and gaps in the record remind us that representation is always selective and that history is just that – a story we tell to others and ourselves? As the map grows so too will the capacity for making unforeseen connections. While the project inevitably reflects the interests of the research team, it is highly collaborative and is not designed to showcase or privilege any one argument over another. Instead it will help you find your own answers to questions you haven’t thought of yet.
 
 The project team hosts an annual [Kent Digital Maps Symposium](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/seminar-series/kent-maps-online-symposium.aspx) and has their own YouTube channel: [Kent Maps Online](https://www.youtube.com/channel/UCAIbFfzsJzaeYwVNuCeF50w).
 
 # Project Team {.cards}
+
+This site is the product of a collaboration between [JSTOR Labs](https://labs.jstor.org) and a team led by Carolyn Oulton, Professor of Victorian Literature in the School of Humanities and Educational Studies, and Michelle Crowther, Research Librarian, Canterbury Christ Church University.
 
 ## Carolyn Oulton
 
