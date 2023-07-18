@@ -28,10 +28,7 @@ The project team hosts an annual [Kent Digital Maps Symposium](https://www.cante
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/CO_in_bookshop.jpg)
 
-- twitter: @cccu_humanities
-- email: carolyn.oulton@canterbury.ac.uk
-
-Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. While carrying out research in Dickens Land she infringed enough bye laws to get herself hanged under the Bloody Code. But it was all Pip’s fault.
+Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. While carrying out research in Dickens Land she infringed enough bye laws to get herself hanged under the Bloody Code. But it was all Pip’s fault. Twitter: @KentMaps1, email: carolyn.oulton@canterbury.ac.uk
 
 ## Claire Bartram
 
@@ -43,9 +40,7 @@ Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/michelle.jpg)
 
-- twitter: @HumLib_cccu
-
-Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature.
+Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature. Twitter: @HumLib_cccu
 
 ## Laura Allen
 
@@ -91,9 +86,7 @@ Dr Sophie Baldock holds a PhD from the University of Sheffield. Her research foc
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Alexa_Barrett.jpg)
 
-- twitter: @Alexawriting
-
-Alexa Barrett is an undergraduate English Literature and Creative and Professional Writing student at Canterbury Christ Church University. She has lived in Kent her whole life, getting involved in learning about Canterbury's history and reading Victorian novels in her spare time. She is currently focusing on her own creative writing projects with many set in the Victorian Era. 
+Alexa Barrett is an undergraduate English Literature and Creative and Professional Writing student at Canterbury Christ Church University. She has lived in Kent her whole life, getting involved in learning about Canterbury's history and reading Victorian novels in her spare time. She is currently focusing on her own creative writing projects with many set in the Victorian Era. Twitter: @Alexawriting
 
 ## Ben Bethell
 
@@ -204,10 +197,7 @@ Arriving in East Kent two days before her second birthday, Diana Hirst has been 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/katieholdway.JPG)
 
-- twitter: @KatieVHoldway
-- email: K.V.Holdway@soton.ac.uk
-
-Dr Katie Holdway is a Research Fellow in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, _Romance, Revolution &amp; Reform_ and a member of the Dickens Society Communications Committee.
+Dr Katie Holdway is a Research Fellow in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, _Romance, Revolution &amp; Reform_ and a member of the Dickens Society Communications Committee. Twitter @KatieVHoldway
 
 ## Phil Hubbard
 
@@ -277,9 +267,7 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/peterorford.JPG)
 
-- twitter: @DrPeteOrford
-
-Dr Pete Orford is Course Director of the MA in Dickens Studies at the University of Buckingham. His most recent publication is The Mystery of Edwin Drood: Charles Dickens' unfinished novel and our endless attempts to end it for Pen &amp; Sword, and further details of Drood and its legion of solutions can be found on his website www.droodinquiry.com He is currently completing an edition of Pictures from Italy for the Oxford Dickens, writing a Dickens biography for the Blackwell Literary Lives series, and co-editing a volume of plays by Dickens for Edinburgh UP.
+Dr Pete Orford is Course Director of the MA in Dickens Studies at the University of Buckingham. His most recent publication is The Mystery of Edwin Drood: Charles Dickens' unfinished novel and our endless attempts to end it for Pen &amp; Sword, and further details of Drood and its legion of solutions can be found on his website www.droodinquiry.com He is currently completing an edition of Pictures from Italy for the Oxford Dickens, writing a Dickens biography for the Blackwell Literary Lives series, and co-editing a volume of plays by Dickens for Edinburgh UP.Twitter: @DrPeteOrford
 
 
 ## Jeremy Page
@@ -329,41 +317,31 @@ Andrew Sargent has written about Deal for many years. He is the author of "Drink
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maxsaunders.jpg)
 
-- twitter: @SaundersMax
-
-Professor Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of _Ford Madox Ford: A Dual Life_ (2 vols, 1996; paperback 2012); _Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature_ (2010); and _Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series,_ 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020).
+Professor Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of _Ford Madox Ford: A Dual Life_ (2 vols, 1996; paperback 2012); _Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature_ (2010); and _Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series,_ 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020). @SaundersMax
 
 ## Malcolm Shifrin
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/malcolm_shifrin.jpg)
 
-- twitter: @VicTurkBath
-
-Malcolm Shifrin, after ten years as a school librarian, moved in 1970 to be Deputy Media Librarian at the ILEA’s innovative Media Resources Centre. As Head of its Central Library Resources Service, he retired in 1985, just prior to Thatcher’s much lamented abolition of the ILEA. Becoming interested in the completely unresearched Victorian Turkish Bath, he gained an MA in Modern History at Royal Holloway, London and in 1999 began his ongoing website http://www.victorianturkishbath.org Arising from the publication of his 2015 book Victorian Turkish Baths, commissioned by Historic England, he was elected a Fellow of the Royal Historical Society.
+Malcolm Shifrin, after ten years as a school librarian, moved in 1970 to be Deputy Media Librarian at the ILEA’s innovative Media Resources Centre. As Head of its Central Library Resources Service, he retired in 1985, just prior to Thatcher’s much lamented abolition of the ILEA. Becoming interested in the completely unresearched Victorian Turkish Bath, he gained an MA in Modern History at Royal Holloway, London and in 1999 began his ongoing website http://www.victorianturkishbath.org Arising from the publication of his 2015 book Victorian Turkish Baths, commissioned by Historic England, he was elected a Fellow of the Royal Historical Society. @VicTurkBath
 
 ## Hayley Smith
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c961a36c-9e4d-49e6-92aa-f422faeef95a)
 
-- twitter: @HayleySmith001
-
-Hayley Smith is a PhD student at Canterbury Christ Church University. Her research seeks to recover and re-examine the life and literary career of a neglected Victorian author, Thomas Anstey Guthrie (1856-1934), who wrote under the pen name “F. Anstey”. Her research interests include Victorian popular fiction, nineteenth-century children’s literature, the Gothic, and contemporary horror films.
+Hayley Smith is a PhD student at Canterbury Christ Church University. Her research seeks to recover and re-examine the life and literary career of a neglected Victorian author, Thomas Anstey Guthrie (1856-1934), who wrote under the pen name “F. Anstey”. Her research interests include Victorian popular fiction, nineteenth-century children’s literature, the Gothic, and contemporary horror films. Twitter: @HayleySmith001
     
 ## Jacquie Stamp
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/jstamp.jpg)
 
-- twitter: @jactweet99  
-
-Dr Jacquie Stamp has completed a PhD in English Literature at Canterbury Christ Church University, where her research focuses on representations and perceptions of the Arctic in the Long-Nineteenth-Century. Having gained an MA in Dickens and Victorian Culture at the University of Kent in 2016, she maintains an active interest in all things Dickensian as well as in the history and condition of her adopted county. In the summer months, however, she can often be found dancing either Cotswold or Molly Style Morris at a variety of locations around the UK – and beyond.    
+Dr Jacquie Stamp has completed a PhD in English Literature at Canterbury Christ Church University, where her research focuses on representations and perceptions of the Arctic in the Long-Nineteenth-Century. Having gained an MA in Dickens and Victorian Culture at the University of Kent in 2016, she maintains an active interest in all things Dickensian as well as in the history and condition of her adopted county. In the summer months, however, she can often be found dancing either Cotswold or Molly Style Morris at a variety of locations around the UK – and beyond. Twitter: @jactweet99   
     
 ## Marnie Stanley
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/marnie1.jpg)
 
-- twitter: @marnie_moonchild_ 
-
-Marnie Stanley is a student at Canterbury Christ Church University
+Marnie Stanley is a student at Canterbury Christ Church University. Twitter: @marnie_moonchild_
 
 ## Sheila Sweetinburgh
 
@@ -387,15 +365,11 @@ Professor Peter Vujakovic is Emeritus Professor of Geography at Canterbury Chris
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Elizabeth_WS.jpg)
 
-- @ElizabethScrase 
-
-Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. She has spent almost 30 years rummaging about in museums and castles across the UK and Europe researching the human story, following the footsteps of our collective history. Elizabeth has taught history across Europe, built siege engines, cannons, and been shot with an arrow (it was believed to be an accident). As of 2016, Elizabeth has been studying at Canterbury Christ Church University, completing her BA (Hons) in Creative and Professional Writing. Elizabeth is now onto her Masters in Creative Writing and heading towards the study of a Ph.D.
+Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. She has spent almost 30 years rummaging about in museums and castles across the UK and Europe researching the human story, following the footsteps of our collective history. Elizabeth has taught history across Europe, built siege engines, cannons, and been shot with an arrow (it was believed to be an accident). As of 2016, Elizabeth has been studying at Canterbury Christ Church University, completing her BA (Hons) in Creative and Professional Writing. Elizabeth is now onto her Masters in Creative Writing and heading towards the study of a Ph.D. Twitter: @ElizabethScrase
 
 ## Martin Watts
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b84e8e80-b9c9-42c1-9d0c-c215df81f997)
-
-- email: martin.watts@canterbury.ac.uk
 
 Dr Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History at Canterbury Christ Church University. His research interests include the industrial revolution, welfare and the state, the two world wars and naval history. Martin has written courses covering the effect of the industrial revolution and the world wars upon society in Kent, with an emphasis on the strategic importance of the county to the defence of the United Kingdom.
 
@@ -423,9 +397,7 @@ Charlotte Worthington is currently a third-year history and French undergraduate
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/kaitlyncowling.jpg)
 
-- twitter: @KaitlynMCowling
-
-Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from Canterbury Christ Church University. In 2019, Kaitlyn co-wrote a 'Murder Mystery Trail' event for the Being Human Festival. She has lived in Kent her whole life.
+Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from Canterbury Christ Church University. In 2019, Kaitlyn co-wrote a 'Murder Mystery Trail' event for the Being Human Festival. She has lived in Kent her whole life. @KatilynMCowling
 
 ## Dominique Gracia
 
