@@ -7,7 +7,7 @@
 
 Desire paths are, in the most literal terms, human-made trails created by erosion. You’ll most often notice them outlining the edges of fields or forming shortcuts across grassy corners. However, they can form on worn-down pavements, through fallen leaves, or even as trails through snow and ice. These visible paths are formed by desire lines: the route taken to travel from A to B. 
 <br><br>
-The first roads were desire lines, connecting towns and villages to one another. These lines are not always straight but are most often shortcuts. It is human nature to follow them: whether to rebel, save time and energy or in the pursuit of change. It is along these new routes and their newer perspectives that we can find inspiration to write: If if you know where to look for it.
+The first roads were desire lines, connecting towns and villages to one another. These lines are not always straight but are most often shortcuts. It is human nature to follow them: whether to rebel, save time and energy or in the pursuit of change. It is along these new routes and their newer perspectives that we can find inspiration to write: if you know where to look for it.
 <param ve-image url="https://stor.artstor.org/stor/a1030442-f940-4024-b047-7790ada36d4c" label="Desire path" attribution="Daisy Butcher">
 
 **A Local History of Desire Paths**   
@@ -20,9 +20,9 @@ Rebecca Solnit’s _Wanderlust: A History of Walking_ provides interesting persp
 <param ve-image url="https://stor.artstor.org/stor/41eafcdb-aeb1-4406-8269-3ef56a2b1e05" label="Desire path" attribution="Daisy Eleanor">
 
 **The Written History of Desire Paths**    
-Unforgettably, Canterbury was the home of England’s first known female professional writer, [Aphra Behn](/17c/17c-behn-biography) (1640-1689). Since then, the city has seen a plethora of writers walk its streets, including the prolific playwright Christopher Marlowe (1564-1593), who also lived and wrote in Canterbury. 
+Unforgettably, Canterbury was the home of England’s first known female professional writer, [Aphra Behn](/17c/17c-behn-biography) (1640-1689). Since then the city has seen a plethora of writers walk its streets, including the prolific playwright Christopher Marlowe (1564-1593), who also lived and wrote in Canterbury. 
 <br><br>
-Looking beyond Canterbury, we find literary figures such as Thoreau, the Transcendentalist writer who wrote his essay 'Walking' (1862) on the title topic. Over 24 pages, Thoreau framed walking as a self-reflective practice that, in connecting with nature, connected him to the world of thought. If you’ve ever wistfully stared out from a train carriage window or sat in a park and watched dog walkers pass by, you’ve probably practised it, too. His ideas have been likened to 21st Century ‘mindfulness’, and they are certainly useful when considering the nature of walking and the history of desire paths in literature. 
+Looking beyond Canterbury, we find literary figures such as Thoreau, the Transcendentalist writer who wrote his essay 'Walking' (1862) on the title topic. Over 24 pages, Thoreau framed walking as a self-reflective practice that, in connecting with nature, connected him to the world of thought. If you’ve ever wistfully stared out from a train carriage window or sat in a park and watched dog walkers pass by, you’ve probably practised it too. His ideas have been likened to 21st Century ‘mindfulness’, and they are certainly useful when considering the nature of walking and the history of desire paths in literature. 
 <br><br>
 Thoreau was an example of 'the wanderer, the stroller, the flâneur'[^ref3]  that Roy Bayfield mentions in his book , _Desire Paths: Real Walks to Nonreal Places_ (2016). Bayfield’s memoir documents his 'quest to experience the true nature of the places [he] walked within'. Each chapter retells a journey that he has walked, with “multiple layers [of] landscapes” unfolding before him. Like Thoreau and many writers prior to him, Bayfield finds solace through this “unlicensed wandering”. It is this wandering that not only forges the path of Bayfield’s journeys but also secures his memoir a spot in the long tradition of place-based writing. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/High_Street%2C_Canterbury%2C_England_%2849976428122%29.jpg" label="High Street, Canterbury" attribution="Ray in Manila, via Wikimedia Commons" license="CC BY 2.0">
@@ -36,17 +36,19 @@ Desire paths are a tool to help you notice the inherent history of places; where
 University students, in particular, will take far more desire paths than they might realise. Often times when rushing to class, you’ll cut through alleyways or across roads that form these paths. For example, just outside of the [CCCU](https://www.canterbury.ac.uk) campus is a desire path that was most likely made by students.
 <param ve-image url="https://stor.artstor.org/stor/ba540d55-be26-475d-8b1b-6f91e43f1bed" label="Monastery Street" attribution="Daisy Eleanor">
 
-To create your own desire path walk, you can find one local to you or start here on Monastery St. (From here, the best direction to walk is towards the High Street, passing St Paul’s Church.) Wherever you are, search for places of interest like street signs, benches, or even monuments. You can choose your own direction or flip a coin and follow left or right for ‘heads’ or ‘tails’. Most importantly, desire paths border all parts of urban and rural landscapes, though searching for parks and grassy areas will be your best shot. 
+To create your own desire path walk, you can find one local to you or start here on Monastery St. (From here, the best direction to walk is towards the High Street, passing St Paul’s Church). Wherever you are, search for places of interest like street signs, benches, or even monuments. You can choose your own direction or flip a coin and follow left or right for ‘heads’ or ‘tails’. Most importantly, desire paths border all parts of urban and rural landscapes, though searching for parks and grassy areas will be your best shot. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Monastery_Street%2C_Canterbury_-_geograph.org.uk_-_4472902.jpg" label="Monastery Street, Canterbury" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 If you’re on the High Street, you can pass the [Cathedral](/pages/canterbury-cathedral-now-and-then) and walk towards Abbots Mill Garden or Westgate Gardens if you’d rather go further. Around these areas, you’ll be sure to find another desire path to continue your journey. 
 <br><br>
+
 Once you’ve found one, consider whether the path has changed the architecture. Is it a newer trail of scuffed-up dirt, or is it a cemented path over what once would have been one? Can you tell if pedestrians still walk across it?
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/77/Butchery_Lane%2C_Canterbury%2C_England.jpg" label="Butchery Lane, Canterbury" attribution="Ray in Manila, via Wikimedia Commons" license="CC BY 2.0">
 
 **Writing the Desire Line**   
 Now that you’ve found some desire paths, you presumably have a pen and paper or notes app open, and you want to write. With place-based writing, the best way to begin is to ground yourself. Focus on your senses: What can you taste, smell, hear, or feel? Jot down anything that comes to your mind. Now focus on where you are. Do you know this place well? How did you get here? Think of the desire path where you began and consider if there’s a link between there and where you are now. Does this link tell a story? 
 <br>
+
 Whatever ideas you have, make sure to write them down. Whether you’re a poet, playwright, or just dabbling into writing, I can’t tell you how to do it. However, here are some prompts and pictures to inspire what you write:
 <br><br>
 -What catches your attention on/near the path?   
@@ -56,6 +58,7 @@ Whatever ideas you have, make sure to write them down. Whether you’re a poet, 
 
 Desire lines are ultimately a joining of places, and to engage with them, you don’t need to plan long stretching hikes or elaborate daily walks. You don’t even need to be a writer, but for those of us who are, the desire paths that they form across the landscapes where we write are a useful tool.
 <br><br>
+
 Imagine you're a character crossing a path: 
 <br><br>
 -Who are you, and where are you going?    
@@ -63,6 +66,7 @@ Imagine you're a character crossing a path:
 -Is your character walking in the present or remembering? Will they revisit this place?   
 -Are there obstacles like warning signs or gates? Can you pass them? If you needed one, where could be an escape route?   
 <br>
+
 Now, I’m not encouraging you to walk anywhere forbidden or to wander some place dangerous, but rely on your imagination. Describe the path you’re walking along and consider if or why it’s a shortcut. 
 <br>
 Have you begun to notice which paths people take and which they avoid? Could you create your own desire path over time? If you walked the same path every day, at what point would you see it form?
