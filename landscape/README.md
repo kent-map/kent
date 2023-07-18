@@ -8,9 +8,9 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 
 ## Desire Paths {href=/landscape/desire-paths}
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/7e218701-0f35-4843-86f1-a3965d107e82)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3b14ae4-f42e-4faf-aaea-1da8b379b2de)
 
-Desire paths are, in the most literal terms, human-made trails created by erosion like this path from Potton Street towards Minnis through the Wantsum painted by Lisa Hawkins. Join Daisy Butcher walking the desire line as she takes you on an exploration of writing beyond the A to B.
+Desire paths are, in the most literal terms, human-made trails created by erosion. Join Daisy Eleanor walking the desire line as she takes you on an exploration of writing beyond the A to B.
 
 ## The Kentish Landscape {href=/landscape/kentish-landscapes}
 
