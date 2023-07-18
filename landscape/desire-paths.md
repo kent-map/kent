@@ -11,7 +11,7 @@ The first roads were desire lines, connecting towns and villages to one another.
 <param ve-image url="https://stor.artstor.org/stor/a1030442-f940-4024-b047-7790ada36d4c" label="Desire path" attribution="Daisy Butcher">
 
 **A Local History of Desire Paths**   
-Canterbury has a rich history of pilgrimage that can help us understand the connectivity of paths through and around the city. Canterbury has been a site of Pilgrimage, 'A journey made to a sacred place as an act of religious devotion'[^ref1], since the early twelfth century. Pilgrims would have followed the ‘Pilgrims’ Way’ route, a 153-mile journey from Winchester to the tomb of the once [medieval](/medieval/medieval-canterbury) Archbishop, Thomas Becket, in Canterbury Cathedral. 
+Canterbury has a rich history of pilgrimage that can help us understand the connectivity of paths through and around the city. Canterbury has been a site of Pilgrimage, 'A journey made to a sacred place as an act of religious devotion',[^ref1] since the early twelfth century. Pilgrims would have followed the ‘Pilgrims’ Way’ route, a 153-mile journey from Winchester to the tomb of the [medieval](/medieval/medieval-canterbury) Archbishop, Thomas Becket, in Canterbury Cathedral. 
 <br><br>
 This historic pathway still exists today, and there are similarly connected routes in the more everyday locations of the city. Whether window shopping along the high street or hurrying to the train station, you’re walking along paths that many pilgrims once would have taken. Notably, ‘pilgrimage’ also means to wander, and it is wandering beyond these existing routes that creates desire paths. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/40_of_%27New_Wheels_in_Old_Ruts._A_pilgrimage_to_Canterbury_via_the_ancient_pilgrim%27s_way_..._With_pen_and_ink_sketches_by_F._W._R._Adams%27_%2811235042264%29.jpg" label="New Wheels in Old Ruts. A pilgrimage to Canterbury via the ancient pilgrim's way ... With pen and ink sketches by F. W. R. Adams" attribution="British Library. No restrictions via Wikimedia Commons">
@@ -41,14 +41,12 @@ To create your own desire path walk, you can find one local to you or start here
 
 If you’re on the High Street, you can pass the [Cathedral](/pages/canterbury-cathedral-now-and-then) and walk towards Abbots Mill Garden or Westgate Gardens if you’d rather go further. Around these areas, you’ll be sure to find another desire path to continue your journey. 
 <br><br>
-
 Once you’ve found one, consider whether the path has changed the architecture. Is it a newer trail of scuffed-up dirt, or is it a cemented path over what once would have been one? Can you tell if pedestrians still walk across it?
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/77/Butchery_Lane%2C_Canterbury%2C_England.jpg" label="Butchery Lane, Canterbury" attribution="Ray in Manila, via Wikimedia Commons" license="CC BY 2.0">
 
 **Writing the Desire Line**   
 Now that you’ve found some desire paths, you presumably have a pen and paper or notes app open, and you want to write. With place-based writing, the best way to begin is to ground yourself. Focus on your senses: What can you taste, smell, hear, or feel? Jot down anything that comes to your mind. Now focus on where you are. Do you know this place well? How did you get here? Think of the desire path where you began and consider if there’s a link between there and where you are now. Does this link tell a story? 
 <br>
-
 Whatever ideas you have, make sure to write them down. Whether you’re a poet, playwright, or just dabbling into writing, I can’t tell you how to do it. However, here are some prompts and pictures to inspire what you write:
 <br><br>
 -What catches your attention on/near the path?   
@@ -58,7 +56,6 @@ Whatever ideas you have, make sure to write them down. Whether you’re a poet, 
 
 Desire lines are ultimately a joining of places, and to engage with them, you don’t need to plan long stretching hikes or elaborate daily walks. You don’t even need to be a writer, but for those of us who are, the desire paths that they form across the landscapes where we write are a useful tool.
 <br><br>
-
 Imagine you're a character crossing a path: 
 <br><br>
 -Who are you, and where are you going?    
