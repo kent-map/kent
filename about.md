@@ -149,6 +149,12 @@ Laurie Duggan was born in Melbourne and was involved in the poetry worlds of tha
 
 Martin Edwards’ 21 novels include the Lake District Mysteries and the Rachel Savernake books, most recently Sepulchre Street, as well as an acclaimed history of crime fiction, The Life of Crime. He received the CWA Diamond Dagger for the sustained excellence of his work. He has also won the Edgar, Agatha, CrimeFest H.R.F. Keating and Macavity awards, the Short Story Dagger and Dagger in the Library, plus the Poirot award for his outstanding contribution to the genre.
 
+## Daisy Eleanor
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/59313b15-fb2f-4250-aca5-8a434593ad44)
+
+Daisy Eleanor is an aspiring poet and editor from the Southeast who has recently completed her Creative Writing/English Literature BA at Canterbury Christchurch University. She is looking to further her studies with an MA, but in the meantime can usually be found sitting in parks and writing too many poems about trees. 
+
 ## Nick Evans
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/13729e93-a1e8-40aa-a707-31aa49bbb69d)
