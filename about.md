@@ -126,6 +126,12 @@ Dr Susan Civale is Senior Lecturer in Romanticism at Canterbury Christ Church Un
 
 Carla Danella has a BA from Wellesley College and recently completed her MA in English Literature at Canterbury Christ Church University, studying the writing and life of the English writer and eccentric, Christopher St John. She creates occasional exhibitions for the National Trust at Smallhythe Place, is a web content manager, and enjoys hiking.
 
+## Lizzie Duffield-Fuller
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4580c75b-6633-4745-b9f9-76067bf3d5bb)
+
+Lizzie is studying a PhD at Aberystwyth University.
+
 ## Laurie Duggan
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/duggan.jpg)
