@@ -10,7 +10,6 @@
 <param ve-entity eid="Q2551894" aliases="Walmer">
 <param ve-entity eid="Q6390913" aliases="Kennington">
 <param ve-entity eid="Q1836548" aliases="Barham">
-<param ve-entity eid="5091980" aliases="Cheriton">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
