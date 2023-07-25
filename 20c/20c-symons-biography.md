@@ -5,14 +5,11 @@
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q7416410" aliases="Sandling">
-<param ve-entity eid="Q7594245" aliases="St Mary's Bay">
 <param ve-entity eid="Q5646437" aliases="Ham Street">
-<param ve-entity eid="Q2177760" aliases="Brookland">
 <param ve-entity eid="Q2177760" aliases="Badlesmere Lees">
 <param ve-entity eid="Q2551894" aliases="Walmer">
 <param ve-entity eid="Q6390913" aliases="Kennington">
 <param ve-entity eid="Q1836548" aliases="Barham">
-<param ve-entity eid="Q911577" aliases="Dungeness">
 <param ve-entity eid="5091980" aliases="Cheriton">
 
 <!-- Historical map layers -->
@@ -52,6 +49,8 @@ The tension between those who love the country and those who prefer a London lif
 With thanks to Christine Symons for information and images.
 <br><br>
 This article was published: 28 June 2023
+<param ve-map center="Q1836548" zoom="12">
+
 ### Bibliography
 [Desert Island Discs 15 May 1982](https://www.bbc.co.uk/sounds/play/p009mkqf)  
 Edwards, Martin, _The Golden Age of Murder: The Mystery of the Writers Who Invented the Modern Detective Story._ London: Collins Crime Club, 2015.  
