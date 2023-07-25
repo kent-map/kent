@@ -14,6 +14,11 @@
 <param ve-entity eid="Q1836548" aliases="Barham">
 <param ve-entity eid="Q911577" aliases="Dungeness">
 
+<!-- Basemap centred on Lenham -->
+<param ve-map center="Q28339447" zoom="10">
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="14769db0827a603a" title="OS East Kent 1945">
+
 ‘But to come back to Folkestone. I loved the little zig-zag paths that went down to the lower level from which one might approach the sea, the water-drawn lift cage in which for twopence (it costs more now) one might go down or of course up, for the cars work in couples, to the deliciously ugly red brick Victorian lifthouse, the small shops around the harbour and the harbour itself, the rows of solid hotels that stand back from the front’ 
 _The Belting Inheritance_ (1965)
 <br><br>
