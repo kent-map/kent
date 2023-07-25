@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="Julian Symons (1912-1994)" author="Professor Carolyn Oulton" layout="vtl" banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994">
+<param ve-config title="Julian Symons (1912-1994)" author="Professor Carolyn Oulton" layout="vtl" banner="https://stor.artstor.org/stor/463788f8-40d8-417c-ad93-a545294121e7">
 
 <param ve-map center="Q866348" zoom="10">
 
