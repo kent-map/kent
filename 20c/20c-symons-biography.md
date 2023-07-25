@@ -14,8 +14,8 @@
 <param ve-entity eid="Q1836548" aliases="Barham">
 <param ve-entity eid="Q911577" aliases="Dungeness">
 
-<!-- Basemap centred on Canterbury -->
-<param ve-map center="Q29303" zoom="12">
+<!-- Basemap centred on Barham -->
+<param ve-map center="Q1836548" zoom="13">
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
