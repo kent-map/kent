@@ -14,8 +14,8 @@
 <param ve-entity eid="Q1836548" aliases="Barham">
 <param ve-entity eid="Q911577" aliases="Dungeness">
 
-<!-- Basemap centred on Lenham -->
-<param ve-map center="Q28339447" zoom="10">
+<!-- Basemap centred on Barham -->
+<param ve-map center="Q1836548" zoom="12">
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="14769db0827a603a" title="OS East Kent 1945">
 
