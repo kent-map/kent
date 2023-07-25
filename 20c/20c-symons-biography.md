@@ -6,7 +6,6 @@
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q7416410" aliases="Sandling">
 <param ve-entity eid="Q5646437" aliases="Ham Street">
-<param ve-entity eid="Q2177760" aliases="Badlesmere Lees">
 <param ve-entity eid="Q2551894" aliases="Walmer">
 <param ve-entity eid="Q6390913" aliases="Kennington">
 <param ve-entity eid="Q1836548" aliases="Barham">
