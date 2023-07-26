@@ -130,7 +130,7 @@ Carla Danella has a BA from Wellesley College and recently completed her MA in E
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4580c75b-6633-4745-b9f9-76067bf3d5bb)
 
-Lizzie is studying a PhD at Aberystwyth University.
+Elizabeth Duffield-Fuller lives, works and studies at Aberystwyth with her husband and three young sons. She is currently pursuing her PhD on representations of place, politics and domesticity in Dinah Craik’s works. 
 
 ## Laurie Duggan
 
