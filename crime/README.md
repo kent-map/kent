@@ -18,6 +18,12 @@ An overview of some of the crime novels set in Kent.
 
 No fewer than six of the Sherlock Holmes stories involve Kent railway stations.
 
+## Romney Marsh and Sepulchre Street {href=/21c/21c-edwards-sepulchre-street/}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4f/Strand_paget.jpg)
+
+Rachel Savernake specialises in solving bizarre mysteries.
+
 ## Julian Symons {href=/20c/20c-symons-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4f/Strand_paget.jpg)
