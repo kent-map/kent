@@ -154,13 +154,17 @@ Seaside resorts such as Ramsgate and Sandgate.
 
 Actors have made Kent their home, playwrights have used it as a setting, and theatrical companies have performed in its theatres.
 
-
 ## Artists and Designers {href=artists}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fe3e0abd-0d14-4bff-ac3d-a6a600a6c298)
 
 Architects, designers, painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 
+## Crime Fiction {href=crime}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4f/Strand_paget.jpg)
+
+It turns out Kent may be a more dangerous place than you realised (at least in the imaginations of writers).
 
 ## Landscapes {href=landscape}
 
