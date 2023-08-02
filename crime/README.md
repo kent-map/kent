@@ -1,4 +1,4 @@
-.ve-header "Crime Fiction" gh:kent-map/images/gardenofeng/nrseasalter sticky=true
+.ve-header "Crime Fiction" gh:kent-map/images/artists/artists sticky=true
     - [Home](/)
     - [About](/about)
 
