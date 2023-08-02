@@ -1,0 +1,27 @@
+.ve-header "Crime Fiction" gh:kent-map/images/gardenofeng/nrseasalter sticky=true
+    - [Home](/)
+    - [About](/about)
+
+It turns out Kent may be a more dangerous place than you realised (at least in the imaginations of writers).
+
+# &nbsp; {.cards}
+
+## Crime Fiction {href=/crime/crime-overview}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=)
+
+An overview of some of the crime novels set in Kent.
+
+## Arthur Conan Doyle {href=/19c/19c-conan-doyle}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4f/Strand_paget.jpg)
+
+No fewer than six of the Sherlock Holmes stories involve Kent railway stations.
+
+## Julian Symons {href=/20c/20c-symons-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4f/Strand_paget.jpg)
+
+Julian Symons was a poet and a prolific author of both history and crime fiction who was drawn to the imaginative possibilities of the Romney Marsh
+
+
