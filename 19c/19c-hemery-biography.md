@@ -36,6 +36,8 @@ Hemery's poetry was fairly standard sentimental fare and it is possible his desi
 <br><br>
 At some time around August 1878, Francis had a mental breakdown and was admitted to Dr Boyd’s private asylum, Uxbridge. After five months, Dr Boyd believed him to be 'sufficiently cured to require no further restraint'[^ref6] but Hemery requested to remain at the asylum, not wishing to return home. His father suggested that he move to the house of a clergyman. On the 25th April 1879, Hemery was found lying dead on his bed with a small phial of cyanide of potassium and a letter saying that he was 'determined to destroy himself' because he felt 'lost to the world'.[^ref7]   Hemery’s suicide was reported in the newspapers. His father became mayor of [Canterbury](/19c/19c-canterbury) in that year.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4d/The_animals_and_man%3B_an_elementary_textbook_of_zoology_and_human_physiology_%281911%29_%2814784600372%29.jpg" label="The animals and man: an elementary textbook of zoology and human physiology, 1911" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
+<br><br>
+This article was published: 4 February 2023.
 
 ### References
 
