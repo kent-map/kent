@@ -3,7 +3,7 @@
 <param ve-config 
        title="Deal's War On The Shore"
        author="Liam Cohen"
-       banner="https://upload.wikimedia.org/wikipedia/commons/5/52/Deal_Beach_from_Pier_%28Looking_North%29_%28NBY_443007%29.jpg" 
+       banner="https://stor.artstor.org/stor/1b43c385-c950-482f-984f-ae1afeff43b2" 
        layout="vertical">
        
 Primarily known for its long stretch of shingle beach, Deal may appear like any seaside town to most, but there is a vast history below the waves and onshore. The town has been involved in war and conflict throughout time. Let us explore Deal's rich military history.
