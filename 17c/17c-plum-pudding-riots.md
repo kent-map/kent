@@ -11,9 +11,10 @@ Christmas conflict formed between the people of Canterbury and the Lord Mayor ov
 <br><br>
 Shopkeepers forced to keep their shops open on Christmas Day fought back against the new rule imposed by the Puritans. The enforced closure, part of the Puritan aim to cancel Christmas, was a rule that was championed by the Lord Mayor of Canterbury, William Bridge, who walked along the streets encouraging shopkeepers to stay open.
 <param ve-image 
-       label="Whitefriars Street, Canterbury" 
-       license="Creative Commons Attribution-Share Alike 2.0 Generic" 
-       url="https://upload.wikimedia.org/wikipedia/commons/7/7a/Canterbury%2C_Whitefriars_Street_-_geograph.org.uk_-_3228327.jpg">
+       label="Canterbury High Street" 
+       attribution="Palickap, via Wikimedia Commons">
+       license="CC BY-SA 3.0" 
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Canterbury%2C_High_Street_03.jpg">
 
 As he moved through the streets, the Lord Mayor was affronted by a gathering crowd and after ordering his pikemen to remain where they were, a mob started, with goods from shops being thrown over their heads and landing on the ground.
 <br><br>
