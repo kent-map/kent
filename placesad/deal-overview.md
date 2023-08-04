@@ -46,7 +46,7 @@ The English civil war is considered one of the most brutal wars this country has
 
 **The Mighty Marines. 1665-1996.**   
 The Royal Marines called Deal home for a whopping 331 years (Deal Museum). The depot in Deal was the last Royal Marines post in Kent. Due to this, the Marines have a lasting legacy in the town.
-<br><br>       
+<br><br>
 The Marines first arrived in Deal in 1665 and were under the command of Silius Titus, the Captain of Deal Castle. However, it was not until 1861 that the Royal Marines found their permanent home at the barracks previously occupied by Walmer army (Holyoake and Burnham, 2009). 1869 saw a completed post. It consisted of the Calvary, north, and east barracks. In 1918 King George V visited the depot to oversee the 4th Battalion training. In 1930, the Royal Naval School of Music was established. However, in 1940 all musical training was evacuated from the barracks. The 42 Commando (later renamed 40 Commando) was formed in 1942 and was the first of its kind. In February 1945, Mayor GW Daughtrey awarded the Royal Marines the “freedom of the town” due to their contribution during the wars. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Royal_Marines_Band_Drum_MOD_45155555.jpg" label="Royal Marines Band Drum" attribution="Photo: LA(Phot) Vicki Benwell/MOD, OGL v1.0OGL v1.0, via Wikimedia Commons">
 
