@@ -16,12 +16,12 @@ Shopkeepers forced to keep their shops open on Christmas Day fought back against
        url="https://upload.wikimedia.org/wikipedia/commons/7/7a/Canterbury%2C_Whitefriars_Street_-_geograph.org.uk_-_3228327.jpg">
 
 As he moved through the streets, the Lord Mayor was affronted by a gathering crowd and after ordering his pikemen to remain where they were, a mob started, with goods from shops being thrown over their heads and landing on the ground.
+<br><br>
+A shopkeeper who closed his shop was told by the Lord Mayor to stay open under the threat of the stocks. The mob retaliated by throwing the Lord Mayor to the ground, where he was covered in mud and his clothes ruined. After getting to his feet and silencing the crowd, a game of football broke out in the streets with two inflated pig bladders!
 <param ve-image 
        label="A pikeman" 
        license="Public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Officer_of_pikemen.jpg">
-
-A shopkeeper who closed his shop was told by the Lord Mayor to stay open under the threat of the stocks. The mob retaliated by throwing the Lord Mayor to the ground, where he was covered in mud and his clothes ruined. After getting to his feet and silencing the crowd, a game of football broke out in the streets with two inflated pig bladders!
 
 The festivities of Christmas were believed by the Puritan government under Oliver Cromwell to be a Roman Catholic celebration and to encourage unnecessary celebration and debauchery. The riots were a ‘last-straw’ reaction against all the restrictions imposed upon the citizens of Canterbury, including the removal of food thought to be for feasts by soldiers. Canterbury citizens shouted "For God, King Charles and Kent!"[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg" label="Oliver Cromwell" attribution="After Samuel Cooper, Public domain, via Wikimedia Commons">
