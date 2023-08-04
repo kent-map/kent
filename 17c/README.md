@@ -28,7 +28,13 @@ Naturalist and chemist, Plot was born at Borden in Kent.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5d/Officer_of_pikemen.jpg)
 
-A riotous time at Christmas.
+A riotous time in Canterbury on Christmas Day, 1647.
+
+## Sheppey at War {href=17c-sheppey-at-war}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d)
+
+The Island of Sheppey was at the centre of the famous Medway attack during the Anglo Dutch War (c.1664-1667).
 
 ## Sir Cloudesley Shovell {href=17c-shovell-biography}
 
@@ -47,10 +53,3 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
 Mathematician and cryptographer, Wallis is known for his pioneering work in infinitesimal calculus.
-
-## Sheppey at War {href=17c-sheppey-at-war}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d)
-
-The Island of Sheppey was at the centre of the famous Medway attack during the Anglo Dutch War (c.1664-1667).
-
