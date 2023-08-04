@@ -86,6 +86,9 @@ Within the first year of the war, The Royal National Lifeboat Institution (RNLI)
 During the war, many were evacuated from the town. As a consequence of this, Deal’s population shrunk from 23,000 to 7,000, in 1940 (Smith, 31). For many enemy pilots Deal was on the way to London, because of this Deal was also heavily bombed. To help control the carnage and reduce casualties, a meeting was held at town hall, in 1941. The organisation of fire-watchers was the topic of discussion. For those that remained in the town, many volunteered for the role. There were three main locations; Mr Allen’s hairdressers on Broad Street, Carter Institute on Middle Street and St Andrew’s Rectary, which was on the corner of Union Street. Their role was straight forward but nevertheless important if they were to see anything untoward to report it immediately (Collyer, 90).
 
 As you can see, Deal is far from just a seaside town. The rich military history of the town is entrenched deep within its DNA and something that attracts many visitors throughout the year. Whether it be brave boatman or the colossal castles, Deal has been shaped by war and conflict, and yet continues to thrive.
+<br><br>
+This article was published: 5 August 2023.   
+You can hear Liam tell the story of Deal on YouTube.
 
 ### Acknowledgements.
 Thank you to staff at Deal Museum for all your support.   
@@ -95,9 +98,3 @@ Thank you to staff at The History Hub and History Project for all your guidance.
 ### References
 
 [^ref1]: The Goodwin Sands is a 16 kilometers sandbank, just off the Deal. The area consists of a layer of approximately 25 meters depth of fine sand resting on an Upper Chalk platform. Most of the time, it is submerged under the sea, however in the low tide, it is visible. 
-
-
-
-
-
-
