@@ -77,8 +77,9 @@ Deal is a town proud of its military background. However, as a consequence of th
 
 **Home town heroics. 1933-1945.**   
 Adolf Hitler was elected chancellor of Germany in 1933 (Bullock, Bullock, Knapp and Lukacs, 2023). During the 30s, murmurs of war lingered around the continent. In 1935, the Home Office advised Kentish towns to prepare a passive defence scheme. The town councils of Deal and Sandwich and the rural districts councils of Eastry and Dover, acted upon the advise and formed the Air Raid Precaution committees (Collyer, 2009, 2) In the early months of the war not a lot happened and journalists dubbed the war “the Phoney war”.
-
+<br><br>
 In 1940, Deal brought back a defence tactic that had been successful throughout the town’s history, barricading the beach  (Smith, 31). Large scaffolding wrapped in barbed wire were put across the seafront. To solidify defence mines were also placed on and off-shore, as well as turrets scattered across the seafront. The final piece of Deal’s defence strategy of the coasted was to literally set fire to the shore. Pipes were laid across the seafront and they were pumped with oil. In the event of an invasion the shingles would become so hot that the beach would vibrate and the sea would alight. The pipes still remain in the basement of Clarendon Hotel. Fortunately (for everybody), the pipes were never needed.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Clarendon_Hotel_-_geograph.org.uk_-_2843774.jpg" label="The Clarendon Hotel" attribution="Oast House Archive, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 In 1940, a small Dutch ship “Nora” anchor in the Downs. Unfortunately it was hit by a sea mine and ended up stranded just off Deal Beach. Local fishermen warned the Royal Marines that Nora could cause damage if not dealt with correctly. The Marines “politely” told the fisherman to shut up. This is most likely because, Winston Churchill had given permission to destroy the iron Victorian pier, if needed. Churchill agreed to pay for a new pier to be built. So when Nora ended up drifting and crashing into pier, slicing it in two, the local soldiers were probably secretly happy, because it saved them a job (31).
 <br><br>
@@ -86,7 +87,7 @@ Within the first year of the war, The Royal National Lifeboat Institution (RNLI)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f8/Walmer_Lifeboat_Charles_Dibdin.jpg" label="Postcard of lifeboat Charles Dibdin at the Lifeboat Station, Walmer, before 1948" attribution="Wikimedia Commons">
 
 During the war, many were evacuated from the town. As a consequence of this, Deal’s population shrunk from 23,000 to 7,000, in 1940 (Smith, 31). For many enemy pilots Deal was on the way to London, because of this Deal was also heavily bombed. To help control the carnage and reduce casualties, a meeting was held at town hall, in 1941. The organisation of fire-watchers was the topic of discussion. For those that remained in the town, many volunteered for the role. There were three main locations; Mr Allen’s hairdressers on Broad Street, Carter Institute on Middle Street and St Andrew’s Rectory, which was on the corner of Union Street. Their role was straight forward but nevertheless important if they were to see anything untoward to report it immediately (Collyer, 90).
-
+<br><br>
 As you can see, Deal is far from just a seaside town. The rich military history of the town is entrenched deep within its DNA and something that attracts many visitors throughout the year. Whether it be brave boatman or the colossal castles, Deal has been shaped by war and conflict, and yet continues to thrive.
 <br><br>
 This article was published: 5 August 2023.   
