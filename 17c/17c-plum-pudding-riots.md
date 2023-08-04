@@ -7,7 +7,7 @@ banner="/images/banners/17c.jpg">
 <param ve-entity title="Canterbury" eid="Q29303">
 <param ve-entity title="battle of Maidstone" eid="Q4871639">
 
-Christmas conflict formed between the people of Canterbury and the Lord Mayor over new British Puritan rule.
+Conflict formed between the people of Canterbury and the Lord Mayor over new British Puritan rule on Christmas Day, 1647.
 <br><br>
 Shopkeepers forced to keep their shops open on Christmas Day fought back against the new rule imposed by the Puritans. The enforced closure, part of the Puritan aim to cancel Christmas, was a rule that was championed by the Lord Mayor of Canterbury, William Bridge, who walked along the streets encouraging shopkeepers to stay open.
 <param ve-image 
