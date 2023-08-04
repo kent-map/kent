@@ -1,37 +1,45 @@
-Deal's War On The Shore.
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
+<param ve-config 
+       title="Deal's War On The Shore"
+       author="Liam Cohen
+       banner="https://upload.wikimedia.org/wikipedia/commons/4/48/Deal_seafront.jpg" 
+       layout="vertical">
+       
 Primarily known for its long stretch of shingle beach, Deal may appear like any seaside town to most, but there is a vast history below the waves and onshore. The town has been involved in war and conflict throughout time. Let us explore Deal's rich military history.
 
-**Julius Caesar**    
-When planning his invasion of England, Julius Caesar was informed about the flat shingle beach of Deal. Calais is only 43 kilometres (as the crow flies) from Deal, meaning the French coast is clearly visible from the stony seafront (Google Maps). This provided an easy route for Caesar and his troops to travel to England from France, or so they thought. Caesar ordered a fleet of 80 ships for the invasion. On their travels, they faced extreme winds and a fierce battle with the *Goodwin Sands. The horrid weather unsettled the horses on board, and Caesar's troops struggled to calm them down. Most of the ships returned to safety to prevent any injuries or damages. Unaware of his men retreating, Caesar continued his pursuit. However, Caesar and his remaining troop's  did not consider that a shingled beach would be any different from the sandy beaches they were used to. Caesar's troops dropped their anchors off Walmer Beach. They planned to swim the rest of the short journey to shore. The troops wore traditional Roman armour; because of this, most of them drowned. Caesar managed to land on Walmer Beach but only stayed for four days. 
-
+**Julius Caesar - 55 BCE**    
+When planning his invasion of England, Julius Caesar was informed about the flat shingle beach of Deal. Calais is only 43 kilometres (as the crow flies) from Deal, meaning the French coast is clearly visible from the stony seafront. This provided an easy route for Caesar and his troops to travel to England from France, or so they thought.
+<br><br>
+Caesar ordered a fleet of 80 ships for the invasion. On their travels, they faced extreme winds and a fierce battle with the Goodwin Sands. The horrid weather unsettled the horses on board, and Caesar's men struggled to calm them down. Most of the ships returned to safety to prevent any injuries or damages. Unaware of the retreat, Caesar continued his pursuit. The ships dropped their anchors off the coast and the troops planned to swim the rest of the short journey to shore. However, as they wore traditional Roman armour; most of them drowned. It is believed that Caesar managed to land on Walmer Beach where he stayed for four days.
+<br><br>
 The following year, better prepared, Caesar attempted to invade the Kentish coast again. He ordered a larger fleet of ships this time round. However, Caesar faced rough winds again, and the ships were forced off course and ended up in Thanet. 
 
-*Goodwin Sands is a 16 kilometers sandbank, just off the Deal. The area consists of a layer of approximately 25 meters depth of fine sand resting on an Upper Chalk platform. Most of the time, it is submerged under the sea, however in the low tide, it is visible. The Goodwin Sands is believed to have claimed thousands of battleship and aircrafts.
-
-**The Good Men of Deal. 1300s -1400s.**
+**The Good Men of Deal - 1300s -1400s**
 As previously mentioned, Deal is extremely close to France, leaving it vulnerable to invasion. Monarchs recognised this and placed great importance on defence on the Deal seaside. In the 1330s, Edward III called upon "The Good Men of Deal" to help survey the coast they knew so well during the Hundred Years' War (Smith,10).  In 1347, Edward III gained control of Calais, and His Majesty asked The Good Men of Deal to take on more responsibility (History Matters 2018). The Boatmen were tasked with delivering resources to native troops. 
-
+<br><br>
 In 1415, Henry V reignited the conflict his great-grandfather started with France. To improve defence on home soil, large embankments were built spanning from Walmer to Sandown. The embankments provided valuable security for the fisherman who guarded the coast.
 
-It's complicated - King Henry's VIII castles. 1530-1540.
-After divorcing his first wife, Catherine of Aragon, in 1533, France became allies with Spain (Smith,10) During this time, there were frequent and volatile attacks on the Kentish coast, almost as a way of testing Henry's rebellious behaviour.
-
+**King Henry's VIII castles - 1530-1540**
+After King Henry VIII divorced his first wife, Catherine of Aragon, in 1533, France became allies with Spain (Smith,10) During this time, there were frequent and volatile attacks on the Kentish coast, almost as a way of testing Henry's rebellious behaviour.
+<br><br>
 To combat the threat of invasion, Henry ordered three castles to be built in the town; Walmer, Deal and Sandown. The construction of the castles started in March 1539, finished in October 1540 and cost £27,000 (Holyoake, 40), which according to The National Archives currency converter is the  equivalent of approximately thirteen and a half million pounds (2018). Henry insisted on their unique rounded design and dry moats. The design meant that, the castles have no weak points because they have no corners. The moats are beneficial because the castles are lower than sea level, meaning only half of the castles are visible to attackers from a distance. Unfortunately, Sandown Castle was severely sea damaged in the late 18th Century and no longer stands. In its place is Sandown Community Garden. 
 Luckily for Henry, the castles did not experience major conflict during his reign, as most of his drama was political.
 
 **Civil War chaos. 1629-1651.**
 King Charles I led the Eleven Years Tyranny (1629-1640). During that time, Charles ruled the country without the collaboration of John Pym's parliament (History Matters 2019). Disputes between King Charles I and parliament climaxed in August 1642, and the two parties declared war against each other (Laker, 156). The majority of the south was controlled by the Roundheads (Parliament's army.) However, during the 40s, territory fluctuated.
-
+<br><br>
 In 1648, the Cavaliers (Royalist army) controlled the castles in Deal, however Parliament’s men decided that needed to change (Smith, 13). The Roundheads rode down to Deal, on horseback with muskets in hand. The Cavaliers fought gallantly, but their lack of resources proved costly. Walmer fought a gruesome battle lasting 3 weeks. Ultimately, the conflict was too much to handle, and Walmer surrendered. Deal fought on for a few weeks longer but eventually surrendered. Sandown recognised that the Roundheads would overwhelm the castle and surrendered almost instantly.
-
+<br><br>
 The English civil war is considered one of the most brutal wars this country has experienced, especially of the time, with an estimated 200,000 casualties, around 11% of the population at the time (Olhmeyer, 2023).
 
 **The Mighty Marines. 1665-1996.**
 The Royal Marines called Deal home for a whopping 331 years (Deal Museum). The depot in Deal was the last Royal Marines post in Kent. Due to this, the Marines have a lasting legacy in the town.
 <br><br>
-The Marines first arrived in Deal in 1665 and were under the command of Silius Titus, the Captain of Deal Castle. However, it was not until 1861 that the Royal Marines found their permanent home at the barracks previously occupied by Walmer army (Holyoake and Burnham, 2009). 1869 saw a completed post. It consisted of the Calvary, north, and east barracks. In 1918 King George V visited the depot to oversee the 4th Battalion training. In 1930, the Royal Naval School of Music was established. However, in 1940 all musical training was evacuated from the barracks. The 42 Commando (later renamed 40 Commando) was formed in 1942 and was the first of its kind. In February 1945, Mayor GW Daughtrey awarded the Royal Marines the “freedom of the town” due to their contribution during the wars. In 1950 the School of Music returned as the Royal Marines School of Music. During its time, the School of Music was one of the world's most highly regarded musical companies. During the 70s, fewer military activities took place at the barracks, but the School of Music remained. On Friday, 22nd September 1989, at 8:25, a bomb exploded in the changing rooms of the north barracks, killing 11 and severely injuring 21 people (Holyoake, 103). The *IRA claimed responsibility for the bombing, the prime suspects were never apprehended. Just a week after the attack, the Marines marched through the streets of Deal to show their respect to their comrades. Although there was much protest and hostility amongst the people of Deal, on 31st March 1996, the barracks closed down. Under John Major's government, the barracks were sold off and now are flats.
-
+The Marines first arrived in Deal in 1665 and were under the command of Silius Titus, the Captain of Deal Castle. However, it was not until 1861 that the Royal Marines found their permanent home at the barracks previously occupied by Walmer army (Holyoake and Burnham, 2009). 1869 saw a completed post. It consisted of the Calvary, north, and east barracks. In 1918 King George V visited the depot to oversee the 4th Battalion training. In 1930, the Royal Naval School of Music was established. However, in 1940 all musical training was evacuated from the barracks. The 42 Commando (later renamed 40 Commando) was formed in 1942 and was the first of its kind. In February 1945, Mayor GW Daughtrey awarded the Royal Marines the “freedom of the town” due to their contribution during the wars. 
+<br><br>
+In 1950 the School of Music returned as the Royal Marines School of Music. During its time, the School of Music was one of the world's most highly regarded musical companies. During the 70s, fewer military activities took place at the barracks, but the School of Music remained. On Friday, 22nd September 1989, at 8:25, a bomb exploded in the changing rooms of the north barracks, killing 11 and severely injuring 21 people (Holyoake, 103). The *IRA claimed responsibility for the bombing, the prime suspects were never apprehended. Just a week after the attack, the Marines marched through the streets of Deal to show their respect to their comrades. Although there was much protest and hostility amongst the people of Deal, on 31st March 1996, the barracks closed down. Under John Major's government, the barracks were sold off and now are flats.
+<br><br>
 Although the barracks are no longer an active depot for Royal Marines, it remains synonymous with Deal. Not only did it host local marines, the barracks also welcomed troops from Portsmouth, Chatham, Woolwich and more during its time. Moreover, until the mid-to-late 20th Century, the Marines were in constant active service.
 *Irish Republican Army is an organisation focused on ending British rule in Northern Ireland.
 
@@ -42,9 +50,8 @@ During the 1790s, many warships docked at Deal before heading off to battle. Alt
 1799 saw Napoleon Bonaparte's rise. The Frenchman was a fine soldier who had many run-ins with the British. After the breakdown of The Treaty of Amiens, trade between France and England completely stopped (History Matters, 2017). However, the notorious smugglers of Deal did not want to end the fruitful supply chain. Smuggling made a fortune in Deal, and sophisticated gangs emerged. The government feared smugglers would share information with the French to benefit their battle efforts. To prevent such dangerous discussion, similar to the embankments of the 1400s, defence was placed upon the seafront. The military guarded the seafront and was extremely particular about who entered and left the country.
 
 **The great war at sea. 1914-1918.**
-On 8th August 1914 Deal, Walmer and Sandwich Mercury read:
-"The War. "No Cause For Panic" Mayor's Appeal to Townspeople."
-The Royal Marines were mobilised, and retired veterans, under 55 returned. In addition, thousands of men from Deal enlisted to join the army (Gaunt, 5). Recruit training took place at Victoria Park and Walmer Green. The early stages of the war, saw around 1000 brave volunteers pass basic training (Smith, 27). Of course, historically, Deal has been heavily involved in the Royal Marines and Navy as well as having clever Seamen; due to this, the majority of Deal's men fought on the seas.
+On 8th August 1914 Deal, Walmer and Sandwich Mercury read: "The War. "No Cause For Panic" Mayor's Appeal to Townspeople." The Royal Marines were mobilised, and retired veterans, under 55 returned. In addition, thousands of men from Deal enlisted to join the army (Gaunt, 5). Recruit training took place at Victoria Park and Walmer Green. The early stages of the war, saw around 1000 brave volunteers pass basic training (Smith, 27). Of course, historically, Deal has been heavily involved in the Royal Marines and Navy as well as having clever Seamen; due to this, the majority of Deal's men fought on the seas.
+<br><br>
 On 22nd September 1914, HMS Aboukir was torpedoed by a German submarine (9). HMS Cressy and HMS Hogue were sent to help survivors and prevent further deaths. Unfortunately, both ships were attacked and sunk. 13 men from Deal were recorded to have lost their lives in the tragedy. However, there is likely to have been more.
 Just before midnight on 9th July 1917, HMS Vanguard suddenly exploded. The explosion is thought to be caused by a faulty or unnoticed *stokehold close to some turrets onboard (69). The ship was a grand battleship that was regularly used, even before the war. It is estimated that 804 men lost their lives, with at least seven local men being casualties.
 <br><br>
@@ -54,7 +61,7 @@ Deal is a town proud of its military background. However, as a consequence of th
 *Stokehold is a coal bunker for a ship’s furnace.
 
 **Home town heroics. 1933-1945.**
-Adolf Hitler was elected chancellor of Germany in 1933 (Bullock, Bullock, Knapp and Lukacs, 2023). During the 30s, murmurs of war lingered around the continent. In 1935, the Home Office advised Kentish towns to prepare a passive defence scheme. The town councils of Deal and Sandwich and the rural districts councils of Eastry and Dover, acted upon the advise and formed the Air Raid Precaution committees (Collyer, 2009, 2) In the early months of the war not a lot happened and journalists dubbed the war “the Phoney war” (Encyclopaedia Britannia 2023).
+Adolf Hitler was elected chancellor of Germany in 1933 (Bullock, Bullock, Knapp and Lukacs, 2023). During the 30s, murmurs of war lingered around the continent. In 1935, the Home Office advised Kentish towns to prepare a passive defence scheme. The town councils of Deal and Sandwich and the rural districts councils of Eastry and Dover, acted upon the advise and formed the Air Raid Precaution committees (Collyer, 2009, 2) In the early months of the war not a lot happened and journalists dubbed the war “the Phoney war”.
 
 In 1940, Deal brought back a defence tactic that had been successful throughout the town’s history, barricading the beach  (Smith, 31). Large scaffolding wrapped in barbed wire were put across the seafront. To solidify defence mines were also placed on and off-shore, as well as turrets scattered across the seafront. The final piece of Deal’s defence strategy of the coasted was to literally set fire to the shore. Pipes were laid across the seafront and they were pumped with oil. In the event of an invasion the shingles would become so hot that the beach would vibrate and the sea would alight. The pipes still remain in the basement of Clarendon Hotel. Fortunately (for everybody), the pipes were never needed.
 
@@ -66,12 +73,14 @@ During the war, many were evacuated from the town. As a consequence of this, Dea
 
 As you can see, Deal is far from just a seaside town. The rich military history of the town is entrenched deep within its DNA and something that attracts many visitors throughout the year. Whether it be brave boatman or the colossal castles, Deal has been shaped by war and conflict, and yet continues to thrive.
 
-Acknowledgements.
-Thank you to staff at Deal Museum for all your support.
-Thank you to members of the Deal Noticeboard Facebook group for the research tips.
-Thank you to staff at The History Hub and History Project for all your guidance
+### Acknowledgements.
+Thank you to staff at Deal Museum for all your support.   
+Thank you to members of the Deal Noticeboard Facebook group for the research tips.   
+Thank you to staff at The History Hub and History Project for all your guidance.  
 
+### References
 
+[^ref1]: The Goodwin Sands is a 16 kilometers sandbank, just off the Deal. The area consists of a layer of approximately 25 meters depth of fine sand resting on an Upper Chalk platform. Most of the time, it is submerged under the sea, however in the low tide, it is visible. 
 
 
 
