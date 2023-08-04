@@ -7,7 +7,7 @@
        layout="vertical">
        
 Primarily known for its long stretch of shingle beach, Deal may appear like any seaside town to most, but there is a vast history below the waves and onshore. The town has been involved in war and conflict throughout time. Let us explore Deal's rich military history.
-
+<br><br>
 **Julius Caesar - 55 BCE**    
 When planning his invasion of England, Julius Caesar was informed about the flat shingle beach of Deal. Calais is only 43 kilometres (as the crow flies) from Deal, meaning the French coast is clearly visible from the stony seafront. This provided an easy route for Caesar and his troops to travel to England from France, or so they thought.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Plate_1-_Julius_Caesar_looking_to_the_right%2C_from_%27The_Twelve_Caesars%27_MET_DP846534.jpg/734px-Plate_1-_Julius_Caesar_looking_to_the_right%2C_from_%27The_Twelve_Caesars%27_MET_DP846534.jpg" label="Julius Caesar Looking to the right" attribution="Raffaello Schiaminossi, CC0, via Wikimedia Commons" license="CCO">
