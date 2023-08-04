@@ -24,6 +24,12 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 
 Naturalist and chemist, Plot was born at Borden in Kent.
 
+## Plum Pudding Riots {href=17c-plum-pudding-riots}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5d/Officer_of_pikemen.jpg)
+
+A riotous time at Christmas.
+
 ## Sir Cloudesley Shovell {href=17c-shovell-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cd/A_Large_Draught_of_the_DOWNES_NYPL1640571.tiff)
