@@ -34,20 +34,20 @@ Unfortunately, Sandown Castle was severely sea damaged in the late 18th Century 
 Luckily for Henry, the castles did not experience major conflict during his reign, as most of his drama was political.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Sandown_Castle_1853.png" label="Sandown Castle, 1853" attribution="John Leech, Illustrated London News, 22 Jan 1853, p.53">
 
-**Civil War chaos. 1629-1651.**   
+**Civil War chaos - 1629-1651**   
 King Charles I led the Eleven Years Tyranny (1629-1640). During that time, Charles ruled the country without the collaboration of John Pym's parliament (History Matters 2019). Disputes between King Charles I and parliament climaxed in August 1642, and the two parties declared war against each other (Laker, 156). The majority of the south was controlled by the Roundheads (Parliament's army.) However, during the 40s, territory fluctuated.
 <br><br>
 In 1648, the Cavaliers (Royalist army) controlled the castles in Deal, however Parliament’s men decided that needed to change (Smith, 13). The Roundheads rode down to Deal, on horseback with muskets in hand. The Cavaliers fought gallantly, but their lack of resources proved costly. Walmer fought a gruesome battle lasting 3 weeks. Ultimately, the conflict was too much to handle, and Walmer surrendered. Deal fought on for a few weeks longer but eventually surrendered. Sandown recognised that the Roundheads would overwhelm the castle and surrendered almost instantly.
 <br><br>
 The English civil war is considered one of the most brutal wars this country has experienced, especially of the time, with an estimated 200,000 casualties, around 11% of the population at the time (Olhmeyer, 2023).
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/52/King_Charles_I_by_Gerrit_van_Honthorst_sm.jpg" label="King Charles I" attribution="Gerrit van Honthorst, National Portrait Gallery" 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/52/King_Charles_I_by_Gerrit_van_Honthorst_sm.jpg" label="King Charles I" attribution="Gerrit van Honthorst, National Portrait Gallery">
 
 **The Mighty Marines. 1665-1996.**   
 The Royal Marines called Deal home for a whopping 331 years (Deal Museum). The depot in Deal was the last Royal Marines post in Kent. Due to this, the Marines have a lasting legacy in the town.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Royal_Marines_Band_Drum_MOD_45155555.jpg" label="Royal Marines Band Drum" attribution="Photo: LA(Phot) Vicki Benwell/MOD, OGL v1.0OGL v1.0, via Wikimedia Commons">
-       
+<br><br>       
 The Marines first arrived in Deal in 1665 and were under the command of Silius Titus, the Captain of Deal Castle. However, it was not until 1861 that the Royal Marines found their permanent home at the barracks previously occupied by Walmer army (Holyoake and Burnham, 2009). 1869 saw a completed post. It consisted of the Calvary, north, and east barracks. In 1918 King George V visited the depot to oversee the 4th Battalion training. In 1930, the Royal Naval School of Music was established. However, in 1940 all musical training was evacuated from the barracks. The 42 Commando (later renamed 40 Commando) was formed in 1942 and was the first of its kind. In February 1945, Mayor GW Daughtrey awarded the Royal Marines the “freedom of the town” due to their contribution during the wars. 
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Royal_Marines_Band_Drum_MOD_45155555.jpg" label="Royal Marines Band Drum" attribution="Photo: LA(Phot) Vicki Benwell/MOD, OGL v1.0OGL v1.0, via Wikimedia Commons">
+
 In 1950 the School of Music returned as the Royal Marines School of Music. During its time, the School of Music was one of the world's most highly regarded musical companies. During the 70s, fewer military activities took place at the barracks, but the School of Music remained. On Friday, 22nd September 1989, at 8:25, a bomb exploded in the changing rooms of the north barracks, killing 11 and severely injuring 21 people (Holyoake, 103). The IRA claimed responsibility for the bombing, the prime suspects were never apprehended. Just a week after the attack, the Marines marched through the streets of Deal to show their respect to their comrades. Although there was much protest and hostility amongst the people of Deal, on 31st March 1996, the barracks closed down. Under John Major's government, the barracks were sold off and now are flats.
 <br><br>
 Although the barracks are no longer an active depot for Royal Marines, it remains synonymous with Deal. Not only did it host local marines, the barracks also welcomed troops from Portsmouth, Chatham, Woolwich and more during its time. Moreover, until the mid-to-late 20th Century, the Marines were in constant active service.
@@ -64,11 +64,11 @@ On 8th August 1914 Deal, Walmer and Sandwich Mercury read: "The War. "No Cause F
 <br><br>
 On 22nd September 1914, HMS Aboukir was torpedoed by a German submarine (9). HMS Cressy and HMS Hogue were sent to help survivors and prevent further deaths. Unfortunately, both ships were attacked and sunk. 13 men from Deal were recorded to have lost their lives in the tragedy. However, there is likely to have been more.
 Just before midnight on 9th July 1917, HMS Vanguard suddenly exploded. The explosion is thought to be caused by a faulty or unnoticed *stokehold close to some turrets onboard (69). The ship was a grand battleship that was regularly used, even before the war. It is estimated that 804 men lost their lives, with at least seven local men being casualties.
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Loss_of_HMS_Aboukir%2C_Royal_Navy%2C_artwork_by_Norman_Wilkinson_%2819597630639%29.jpg/1280px-Loss_of_HMS_Aboukir%2C_Royal_Navy%2C_artwork_by_Norman_Wilkinson_%2819597630639%29.jpg" label="Loss of HMS Aboukir" attribution="Norman Wilkinson, National Museum of the U.S. Navy">
+       
 On 20th January 1918, HMS Raglan sank after being repeatedly shot at by the Germans and the Polish. The ship caught fire and went down very quickly. 127 men were killed, many of them Royal naval officers from Deal (82).
 Like everywhere else in the country, Deal celebrated Peace Day with a parade. The streets were filled with people paying their respects to the military. It was a joyous time knowing the war was over, but it was also a time of reflection.
 Deal is a town proud of its military background. However, as a consequence of that, the town was faced with a lot of hardship. The death toll for local service people was nearly 1000.
-*Stokehold is a coal bunker for a ship’s furnace.
 
 **Home town heroics. 1933-1945.**   
 Adolf Hitler was elected chancellor of Germany in 1933 (Bullock, Bullock, Knapp and Lukacs, 2023). During the 30s, murmurs of war lingered around the continent. In 1935, the Home Office advised Kentish towns to prepare a passive defence scheme. The town councils of Deal and Sandwich and the rural districts councils of Eastry and Dover, acted upon the advise and formed the Air Raid Precaution committees (Collyer, 2009, 2) In the early months of the war not a lot happened and journalists dubbed the war “the Phoney war”.
