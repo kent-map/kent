@@ -91,6 +91,7 @@ As you can see, Deal is far from just a seaside town. The rich military history 
 <br><br>
 This article was published: 5 August 2023.   
 You can hear Liam tell the [Story of Deal](https://youtu.be/QyQ93cQmkI4) on YouTube.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Deal_Walmer_Sandown_Saunders_Guidebook_Page005.jpg" label="Saunders Guidebook, p.5" attribution="Saunders, A.D. 1931-2009, Public domain, via Wikimedia Commons">
 
 ### Acknowledgements.
 Thank you to staff at Deal Museum for all your support.   
