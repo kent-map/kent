@@ -19,6 +19,6 @@ The [British Library Crime Classics series](https://shop.bl.uk/collections/crime
 
 ### Bibliography
 Edwards, Martin. _The Golden Age of Murder: The Mystery of the Writers Who Invented the Modern Detective Story._ London: Collins Crime Club, 2015.   
-Oulton, Carolyn W. de la L. _Down From London: Seaside Reading in the Railway Age._ Liverpool: Liverpool University Press, 2022.
+Oulton, Carolyn W. de la L. _Down From London: Seaside Reading in the Railway Age._ Liverpool: Liverpool University Press, 2022.   
 [‘Down From London? Looking for Literary Trouble at the British Seaside.’](https://liverpooluniversitypress.blog/2022/04/20/down-from-london-looking-for-literary-trouble-at-the-british-seaside/). April 2022.
 <param ve-image url="https://stor.artstor.org/stor/9cf10dc0-83c2-4c23-95de-69cfe86bfde1" label="Mystery in the the Channel" attribution="By permission of the British Library">
