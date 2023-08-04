@@ -12,7 +12,7 @@ Christmas conflict formed between the people of Canterbury and the Lord Mayor ov
 Shopkeepers forced to keep their shops open on Christmas Day fought back against the new rule imposed by the Puritans. The enforced closure, part of the Puritan aim to cancel Christmas, was a rule that was championed by the Lord Mayor of Canterbury, William Bridge, who walked along the streets encouraging shopkeepers to stay open.
 <param ve-image 
        label="Canterbury High Street" 
-       attribution="Palickap, via Wikimedia Commons">
+       attribution="Palickap, via Wikimedia Commons"
        license="CC BY-SA 3.0" 
        url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Canterbury%2C_High_Street_03.jpg">
 
