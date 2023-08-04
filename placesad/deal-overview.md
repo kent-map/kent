@@ -7,6 +7,7 @@
        layout="vertical">
        
 Primarily known for its long stretch of shingle beach, Deal may appear like any seaside town to most, but there is a vast history below the waves and onshore. The town has been involved in war and conflict throughout time. Let us explore Deal's rich military history.
+<param ve-image url="https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4" label="Rough Sea at Deal" attribution="Kent Maps Online Collection">
 
 **Julius Caesar - 55 BCE**    
 When planning his invasion of England, Julius Caesar was informed about the flat shingle beach of Deal. Calais is only 43 kilometres (as the crow flies) from Deal, meaning the French coast is clearly visible from the stony seafront. This provided an easy route for Caesar and his troops to travel to England from France, or so they thought.
@@ -63,12 +64,15 @@ During the 1790s, many warships docked at Deal before heading off to battle. Alt
 On 8th August 1914 Deal, Walmer and Sandwich Mercury read: "The War. "No Cause For Panic" Mayor's Appeal to Townspeople." The Royal Marines were mobilised, and retired veterans, under 55 returned. In addition, thousands of men from Deal enlisted to join the army (Gaunt, 5). Recruit training took place at Victoria Park and Walmer Green. The early stages of the war, saw around 1000 brave volunteers pass basic training (Smith, 27). Of course, historically, Deal has been heavily involved in the Royal Marines and Navy as well as having clever Seamen; due to this, the majority of Deal's men fought on the seas.
 <br><br>
 On 22nd September 1914, HMS Aboukir was torpedoed by a German submarine (9). HMS Cressy and HMS Hogue were sent to help survivors and prevent further deaths. Unfortunately, both ships were attacked and sunk. 13 men from Deal were recorded to have lost their lives in the tragedy. However, there is likely to have been more.
-Just before midnight on 9th July 1917, HMS Vanguard suddenly exploded. The explosion is thought to be caused by a faulty or unnoticed *stokehold close to some turrets onboard (69). The ship was a grand battleship that was regularly used, even before the war. It is estimated that 804 men lost their lives, with at least seven local men being casualties.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Loss_of_HMS_Aboukir%2C_Royal_Navy%2C_artwork_by_Norman_Wilkinson_%2819597630639%29.jpg/1280px-Loss_of_HMS_Aboukir%2C_Royal_Navy%2C_artwork_by_Norman_Wilkinson_%2819597630639%29.jpg" label="Loss of HMS Aboukir" attribution="Norman Wilkinson, National Museum of the U.S. Navy">
-       
+
+Just before midnight on 9th July 1917, HMS Vanguard suddenly exploded. The explosion is thought to be caused by a faulty or unnoticed stokehold close to some turrets onboard (69). The ship was a grand battleship that was regularly used, even before the war. It is estimated that 804 men lost their lives, with at least seven local men being casualties.
+<br><br>
 On 20th January 1918, HMS Raglan sank after being repeatedly shot at by the Germans and the Polish. The ship caught fire and went down very quickly. 127 men were killed, many of them Royal naval officers from Deal (82).
 Like everywhere else in the country, Deal celebrated Peace Day with a parade. The streets were filled with people paying their respects to the military. It was a joyous time knowing the war was over, but it was also a time of reflection.
+<br><br>
 Deal is a town proud of its military background. However, as a consequence of that, the town was faced with a lot of hardship. The death toll for local service people was nearly 1000.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/British_Battleships_of_the_First_World_War_Q40389.jpg" label="HMS Vanguard, British Battleships of the First World War">
 
 **Home town heroics. 1933-1945.**   
 Adolf Hitler was elected chancellor of Germany in 1933 (Bullock, Bullock, Knapp and Lukacs, 2023). During the 30s, murmurs of war lingered around the continent. In 1935, the Home Office advised Kentish towns to prepare a passive defence scheme. The town councils of Deal and Sandwich and the rural districts councils of Eastry and Dover, acted upon the advise and formed the Air Raid Precaution committees (Collyer, 2009, 2) In the early months of the war not a lot happened and journalists dubbed the war “the Phoney war”.
