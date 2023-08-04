@@ -44,13 +44,14 @@ The English civil war is considered one of the most brutal wars this country has
 
 **The Mighty Marines. 1665-1996.**   
 The Royal Marines called Deal home for a whopping 331 years (Deal Museum). The depot in Deal was the last Royal Marines post in Kent. Due to this, the Marines have a lasting legacy in the town.
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Royal_Marines_Band_Drum_MOD_45155555.jpg" label="Royal Marines Band Drum" attribution="Photo: LA(Phot) Vicki Benwell/MOD, OGL v1.0OGL v1.0, via Wikimedia Commons">
+       
 The Marines first arrived in Deal in 1665 and were under the command of Silius Titus, the Captain of Deal Castle. However, it was not until 1861 that the Royal Marines found their permanent home at the barracks previously occupied by Walmer army (Holyoake and Burnham, 2009). 1869 saw a completed post. It consisted of the Calvary, north, and east barracks. In 1918 King George V visited the depot to oversee the 4th Battalion training. In 1930, the Royal Naval School of Music was established. However, in 1940 all musical training was evacuated from the barracks. The 42 Commando (later renamed 40 Commando) was formed in 1942 and was the first of its kind. In February 1945, Mayor GW Daughtrey awarded the Royal Marines the “freedom of the town” due to their contribution during the wars. 
 <br><br>
 In 1950 the School of Music returned as the Royal Marines School of Music. During its time, the School of Music was one of the world's most highly regarded musical companies. During the 70s, fewer military activities took place at the barracks, but the School of Music remained. On Friday, 22nd September 1989, at 8:25, a bomb exploded in the changing rooms of the north barracks, killing 11 and severely injuring 21 people (Holyoake, 103). The IRA claimed responsibility for the bombing, the prime suspects were never apprehended. Just a week after the attack, the Marines marched through the streets of Deal to show their respect to their comrades. Although there was much protest and hostility amongst the people of Deal, on 31st March 1996, the barracks closed down. Under John Major's government, the barracks were sold off and now are flats.
 <br><br>
 Although the barracks are no longer an active depot for Royal Marines, it remains synonymous with Deal. Not only did it host local marines, the barracks also welcomed troops from Portsmouth, Chatham, Woolwich and more during its time. Moreover, until the mid-to-late 20th Century, the Marines were in constant active service.
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Deal_Barracks_Bombing_memorial_garden.jpg/1152px-Deal_Barracks_Bombing_memorial_garden.jpg" label="Deal Barracks Bombing Memorial Gardens" attribution="Barabbas1312, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 **Noisy neighbours. Late 18th Century – Early 19th Century.**   
 Shortly before King Louis XVI was executed, on 1st February 1793, Deal was placed on high alert. This meant an increased military presence. Soldiers from across the country came to support Deal. To meet the demand of the growing population, in 1798, the town was extended inland (Smith, 17).
