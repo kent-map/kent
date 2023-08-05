@@ -12,19 +12,17 @@ In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 66
 <br><br>
 “Canterbury has it’s own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.”
 <br><br>
-John ‘Bileous' Bale (1495-1563), famed for his vitriolic language attacking the Catholic church, wrote 'King John' which it is argued is the earliest historical drama in English.[^ref] (Brown, Hutchinson and Irwin _Written City_) It was probably performed at St Stephens in 1538. In May 1560, he was said to be staging a satirical play about the city's friars with schoolboys from the grammar school.[^ref:  
+In the 1530s, John ‘Bileous' Bale (1495-1563), famed for his vitriolic language attacking the Catholic church, wrote 'King John' which it is argued is the earliest historical drama in English.[^ref] (Brown, Hutchinson and Irwin _Written City_) It was probably performed at St Stephens in 1538. In May 1560, it was rumoured that Bale was staging a satirical play about the city's friars with schoolboys from the local grammar school.[^ref:  
 
 Christopher Marlowe, spy and playwright, was born at 57, St George's Street in 1564 and attended the King's school from 1578 before moving to Cambridge and later London. In 1592, he visited Canterbury to see his play 'The Jew of Malta' performed at the Guildhall. Whilst staying in the city, Marlowe got into a fight with a tailor, William Corkine, at the Cheker of Hope Inn. The inn which also served as a theatre venue, had a galleried courtyard and was surrounded by two floors which could accommodate up to 100 pilgrims. It is mentioned in the fifeenth century ‘Tale of Beryn’ and was also known as the ‘Chaucer Inn’. Corkine claimed that Marlowe had attacked him 'with staff and dagger' but Marlowe claimed that Corkine was the aggressor. 
 
-[John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father - a registrar for the Archbishop of Canterbury - owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He ran the first theatre in Blackfriars, London and was known for his euphuistic style, which was emulated by another Canterbury playwright, Stephen Gosson (1554-1624). Gosson was christened in St.George’s parish and educated at the King's School. None of Gosson's plays survive, but he later became vehemently opposed to the theatre, writing ‘The School Of Abuse, Conteining a pleasant invective against Poets, Pipers, Plaiers, Jesters and such like Caterpillars of a Commonwealth’ in 1579. In it he argued that the theatre ‘fostered social evils’ and that 'every Wanton and his paramour, every man and his Mistresse, every John and his Joan, every knave and his queane' were corrupted there.
+[John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He ran the first theatre in Blackfriars, London and was known for his euphuistic style, which was emulated by another Canterbury playwright, Stephen Gosson (1554-1624). Gosson was christened in St.George’s parish and educated at the King's School. None of Gosson's plays survive, but he later became vehemently opposed to the theatre, writing ‘The School Of Abuse, Conteining a pleasant invective against Poets, Pipers, Plaiers, Jesters and such like Caterpillars of a Commonwealth’ in 1579. In it he argued that the theatre ‘fostered social evils’ and that 'every Wanton and his paramour, every man and his Mistresse, every John and his Joan, every knave and his queane' were corrupted there.
 
-Strolling or Wandering Players, considered ‘vagabonds’ by law, and without patronage from a noblemen or royalty, toured fairgrounds and race meetings presenting a mixture of acrobatics, drama and songs. The Burghmote book in 1595 notes: 
+Strolling players, who did not enjoy the patronage of nobility, toured fairs performing acrobatics, songs and juggling. They were classed as ‘vagabonds’ and subject to the laws of each town.The Burghmote book in 1595 notes: 
 <br><br>
 “....there shall not be any playes enterludes tragedies or comedies be played or players suffered to playe within this Cittie on any Sabaothe days nor above twoe dayes together at any tyme.” 
-<br><br>
-When the Plague hit London in 1603, the London theatres closed and actors fled to the provinces; performing in Canterbury, Faversham, Maidstone, Dover, New Romney and Lydd.
 
-The English Civil War 1642 – 1646 stopped theatre completely. After the war, The Puritans still suppressed theatre; players were seized and punished and buildings demolished. 
+National events affected theatre in the provinces. When the Plague struck in London in 1603, the London theatres closed and actors fled to the towns of Canterbury, Faversham, Maidstone, Dover, New Romney and Lydd, bringing their plays and their pox with them. During the English Civil War (1642 – 1646) theatre stopped completely. After the war, the Puritans banned theatre; players were seized and punished and buildings demolished. 
 
 [Aphra Behn](/17c/17c-behn-biography/) (1640?-1689), (or Eaffrey Johnson), playwright and author of _Oroonoko or the Royal Slave_, was born in Harbledown around 1640. During the 1660’s she wrote ‘The Forc’d Marriage’ for the Duke’s Company under Thomas Betterton, actor and manager. The Duke’s Company was one of two theatre companies (the other, King’s) and allowed to perform complete dramas after the Restoration.  Behn staged nineteen plays including ‘The Amorous Prince’ (1671) and ‘The Young King’ (1679) and most likely contributed to more. A theatrical performance of 'Oroonoko' adapted for the stage by Thomas Southerne was performed at the Theatre at the Crown Yard, on the High Street, Canterbury on Feb 14 1726.[^ref] Two months later, Mr Keregan's Company of Comedians performed the Restoration tragedy'The Rival Queens or the Death of Alexander the Great' (1677) written by Nathaniel Lee, a contemporary of Behn, who had written a poem 'On the Death of Mrs. Behn' in 1689. 
 
@@ -52,18 +50,11 @@ Richard Thorne, Lessee of the Margate Theatre, booked the Canterbury Theatre Roy
 
 In 1913, the Theatre Royal was reopened and refurbished by Mr S. Lipman of the Empire Kinematograph Theatre.[^ref] The Theatre Royal closed on 30th January, 1926 and was sold to the Lefevre brothers. (Debenhams)  
 
-In 1852, the Victoria Concert Rooms, no.3 Lower Bridge Street were renamed St. George’s Hall. In 1923 it became The Queen’s Concert Hall and Ballroom until 1927, when it was known as The County Hall until 1939. 
-
-Playbill no.246 advertises “St.George’s Hall, 16th June 1898 ‘Sold’ Comedietta in 1 act” with no.245 a letter from the Lord Chamberlain granting a license for the comedietta. 
-
 St.Margaret’s Hall, opened as the ‘New Music Hall’ at no.12, St.Margaret’s Street in 1854. Also known as The Assembly Rooms, it was located behind no.12 and no.13 on St Margaret’s Street and the entrance was a tiny passageway through one of the houses. In 1860, the ‘New’ was dropped from Music Hall and business carried on until 1888 when it was closed and sold. In 1900, it re-opened as St.Margaret’s Hall. 
 
 On May 8th, 1876, a Strange and Wilsons Aetherscope adaptation of a Christmas Carol....Scene II- Cornhill by night – Sir Roger de Coverley...” (a country dance). 
-
-
-                      
+                     
 In 1909, St Margaret's Hall became the Electric Picture Palace. 
-
 
 On 8 June 1911, Mayor Francis Goldney Bennett opened the Electric Theatre at 49, St Peter's Street with its mosaic pavement and glass canopy lit with incandescent lights. As he heralded in a new age of theatre, Goldney praised the exterior which was in keeping with "the old architecture of the city" with its Tudor oak panels but also spoke of the importance of keeping pace with the times, predicting that "picture shows" or silent movies were here to stay.[^ref2] Thanking the theatre owners, Goldney owned that although he did not wish to be thought as a "kill joy", he was grateful that they had promised the City Council not to put on performances on Sunday, as everyone needed at least one day of rest.
 <br><br>
