@@ -44,7 +44,7 @@ In 1648, the Cavaliers (Royalist army) controlled the castles in Deal, however P
 The English civil war is considered one of the most brutal wars this country has experienced, especially of the time, with an estimated 200,000 casualties, around 11% of the population at the time.[^ref9]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/52/King_Charles_I_by_Gerrit_van_Honthorst_sm.jpg" label="King Charles I" attribution="Gerrit van Honthorst, National Portrait Gallery">
 
-**The Mighty Marines. 1665-1996.**   
+**The Mighty Marines. 1665-1996**   
 The Royal Marines called Deal home for a whopping 331 years (Deal Museum). The depot in Deal was the last Royal Marines post in Kent. Due to this, the Marines have a lasting legacy in the town.
 <br><br>
 The Marines first arrived in Deal in 1665 and were under the command of Silius Titus, the Captain of Deal Castle. However, it was not until 1861 that the Royal Marines found their permanent home at the barracks previously occupied by Walmer army.[^ref10] 1869 saw a completed post. It consisted of the Calvary, north, and east barracks. In 1918 King George V visited the depot to oversee the 4th Battalion training. In 1930, the Royal Naval School of Music was established. However, in 1940 all musical training was evacuated from the barracks. The 42 Commando (later renamed 40 Commando) was formed in 1942 and was the first of its kind. In February 1945, Mayor GW Daughtrey awarded the Royal Marines the “freedom of the town” due to their contribution during the wars. 
@@ -55,13 +55,13 @@ In 1950 the School of Music returned as the Royal Marines School of Music. Durin
 Although the barracks are no longer an active depot for Royal Marines, it remains synonymous with Deal. Not only did it host local marines, the barracks also welcomed troops from Portsmouth, Chatham, Woolwich and more during its time. Moreover, until the mid-to-late 20th Century, the Marines were in constant active service.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Deal_Barracks_Bombing_memorial_garden.jpg/1152px-Deal_Barracks_Bombing_memorial_garden.jpg" label="Deal Barracks Bombing Memorial Gardens" attribution="Barabbas1312, via Wikimedia Commons" license="CC BY-SA 4.0">
 
-**Noisy neighbours. Late 18th Century – Early 19th Century.**   
+**Noisy neighbours. Late 18th Century – Early 19th Century**   
 Shortly before King Louis XVI was executed, on 1st February 1793, Deal was placed on high alert. This meant an increased military presence. Soldiers from across the country came to support Deal. To meet the demand of the growing population, in 1798, the town was extended inland.[^ref12]
 <br><br>
 During the 1790s, many warships docked at Deal before heading off to battle. Although our troops knew the dangerous waters so well, the French dominated the early conflicts. 1799 saw Napoleon Bonaparte's rise. The Frenchman was a fine soldier who had many run-ins with the British. After the breakdown of The Treaty of Amiens, trade between France and England completely stopped.[^ref13] However, the notorious smugglers of Deal did not want to end the fruitful supply chain. Smuggling made a fortune in Deal, and sophisticated gangs emerged. The government feared smugglers would share information with the French to benefit their battle efforts. To prevent such dangerous discussion, similar to the embankments of the 1400s, defence was placed upon the seafront. The military guarded the seafront and was extremely particular about who entered and left the country.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ex%C3%A9cution_de_Louis_XVI_Carnavalet.jpg/640px-Ex%C3%A9cution_de_Louis_XVI_Carnavalet.jpg" label="Execution of Louis XVI" attribution="Réunion des Musées Nationaux"> 
 
-**The great war at sea. 1914-1918.**   
+**The great war at sea. 1914-1918**   
 On 8th August 1914 Deal, Walmer and Sandwich Mercury read: "The War. "No Cause For Panic" Mayor's Appeal to Townspeople." The Royal Marines were mobilised, and retired veterans, under 55 returned. In addition, thousands of men from Deal enlisted to join the army.[^ref14] Recruit training took place at Victoria Park and Walmer Green. The early stages of the war, saw around 1000 brave volunteers pass basic training.[^ref15] Of course, historically, Deal has been heavily involved in the Royal Marines and Navy as well as having clever Seamen; due to this, the majority of Deal's men fought on the seas.
 <br><br>
 On 22nd September 1914, HMS Aboukir was torpedoed by a German submarine.[^ref16] HMS Cressy and HMS Hogue were sent to help survivors and prevent further deaths. Unfortunately, both ships were attacked and sunk. 13 men from Deal were recorded to have lost their lives in the tragedy. However, there is likely to have been more.
@@ -75,7 +75,7 @@ Like everywhere else in the country, Deal celebrated Peace Day with a parade. Th
 Deal is a town proud of its military background. However, as a consequence of that, the town was faced with a lot of hardship. The death toll for local service people was nearly 1000.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/British_Battleships_of_the_First_World_War_Q40389.jpg" label="HMS Vanguard, British Battleships of the First World War">
 
-**Home town heroics. 1933-1945.**   
+**Home town heroics. 1933-1945**   
 Adolf Hitler was elected chancellor of Germany in 1933.[^ref19] During the 30s, murmurs of war lingered around the continent. In 1935, the Home Office advised Kentish towns to prepare a passive defence scheme. The town councils of Deal and Sandwich and the rural districts councils of Eastry and Dover, acted upon the advise and formed the Air Raid Precaution committees.[^ref20] In the early months of the war not a lot happened and journalists dubbed the war “the Phoney war”.
 <br><br>
 In 1940, Deal brought back a defence tactic that had been successful throughout the town’s history, barricading the beach.[^ref21] Large scaffolding wrapped in barbed wire were put across the seafront. To solidify defence mines were also placed on and off-shore, as well as turrets scattered across the seafront. The final piece of Deal’s defence strategy of the coasted was to literally set fire to the shore. Pipes were laid across the seafront and they were pumped with oil. In the event of an invasion the shingles would become so hot that the beach would vibrate and the sea would alight. The pipes still remain in the basement of Clarendon Hotel. Fortunately (for everybody), the pipes were never needed.
@@ -94,13 +94,12 @@ This article was published: 5 August 2023.
 You can hear Liam tell the [Story of Deal](https://youtu.be/QyQ93cQmkI4) on YouTube.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Deal_Walmer_Sandown_Saunders_Guidebook_Page005.jpg" label="Saunders Guidebook, p.5" attribution="Saunders, A.D. 1931-2009, Public domain, via Wikimedia Commons">
 
-### Acknowledgements.
+**Acknowledgements**   
 Thank you to staff at Deal Museum for all your support.   
 Thank you to members of the Deal Noticeboard Facebook group for the research tips.   
 Thank you to staff at The History Hub and History Project for all your guidance.  
 
 ### References
-
 [^ref1]: The Goodwin Sands is a 16 kilometers sandbank, just off the Deal. The area consists of a layer of approximately 25 meters depth of fine sand resting on an Upper Chalk platform. Most of the time, it is submerged under the sea, however in the low tide, it is visible. 
 [^ref2]: Smith, 10.
 [^ref3]: History Matters, 2018.
