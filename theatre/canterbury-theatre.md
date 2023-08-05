@@ -2,10 +2,9 @@
 <param ve-config title="Theatrical Entertainment in Canterbury" author="Kate Rendall" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q618045" aliases="Margate">
 
-Canterbury has a long history of theatrical entertainment. Between AD80 – 90, the Romans built an Amphitheatre in the St. Margaret’s Street area. 
-In the 3rd century, a ‘D’ shaped, Flavian style (AD201-300) Amphitheatre was built in the same location.  By Anglo Saxon times, the amphitheatre had decayed. 
+Canterbury has a long history of theatrical entertainment. Between AD 80–90, the Romans built an amphitheatre in the St. Margaret’s Street area where spectators could sit on a gravel bank to enjoy the performances.[^ref1] In the 3rd century, a ‘D’ shaped, Flavian style (AD201-300) amphitheatre was built in the same location, which could seat around 3,000. [^ref2] By Anglo Saxon times, the amphitheatre had decayed. 
 
 St Augustine and Church dramas 
 
@@ -21,22 +20,13 @@ By the 15th/16th century, Liturgical dramas were performed all over Britain.
 
 Between 1491 – 1520, a church warden from the parish of St Dunstan’s noted; 
 <br><br>
-“Canterbury has it’s own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.” 
-
-**Strolling Players**   
-
-                                           
-The Licensing Act of 1737, or ‘Gagging Act’ as it was popularly known, affected theatre in Britain considerably. Production of plays was restricted to two theatres in London – Covent Garden and Drury Lane.  Scripts were censored by the Lord Chamberlain and his examiners, the Master of Revels, until 1843 when it was lifted. To avoid falling foul of this law, especially rural theatres would intersperse scenes with a variety of melodrama, burlesque, song and dance. After the gagging act was lifted, Music Hall became equally, if not more popular than theatre. Starting in the back rooms of pubs, it grew into a ‘working’ peoples entertainment. 
-                                                            
-**Local Playwrights**    
-Christopher (Kit) Marlowe, Tudor spy and playwright, was born in Canterbury in 1564. His most famous plays are : Dr Faustus, Tamberlaine and The Jew Of Malta. In [when] Christopher Marlowe attacked William Corkine with a staff and dagger at the Chequer of Hope.
-
-The Chequer of The Hope was a pilgrim's inn on the west side of Mercery Lane and the High Street. Refurbished in 1392 by the monks of Chillenden Priory for pilgrims visiting Thomas Becket’s shrine, The Hope was extended in 1435 when ‘The Crown Inn’ next door was purchased. The inn served as a theatre venue, with a galleried courtyard, workshops, surrounded by two floors accomodating up to 100 pilgrims. The complex is mentioned in the fifeenth century ‘Tale of Beryn’ and was also known as the ‘Chaucer Inn’. Records of performances and entertainments exist for this venue. Sadly, it was badly burnt in 1865, although some of the facades are still visible on Mercery Lane. 
+“Canterbury has it’s own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.”                                        
+                                                              
+Christopher (Kit) Marlowe, Tudor spy and playwright, was born at 57, St George's Street in 1564 and attended the King's school from 1578. In 1592, he visited Canterbury to see his play 'The Jew of Malta' performed at the Guildhall and whilst staying in the city, got into a fight with William Corkine, a musician from the cathedral, at the Cheker of Hope Inn. The inn which also served as a theatre venue, had a galleried courtyard and was surrounded by two floors which could accommodate up to 100 pilgrims. It is mentioned in the fifeenth century ‘Tale of Beryn’ and was also known as the ‘Chaucer Inn’. 
 
 John ‘Bileous' Bale (1495-1563), famed for his vitriolic language attacking the Catholic church, wrote 'King John' which it is argued is the earliest historical drama in English.[^ref] (Brown, Hutchinson and Irwin _Written City_) It was probably performed at St Stephens in 1538. 
 
-
-[John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He ran the first theatre in Blackfriars, London and was known for his euphuistic style, which was emulated by another Canterbury playwright, Stephen Gosson (1554-1624), who was christened in St.George’s parish. None of Gosson's plays survive, but he later became vehemently opposed to the theatre, writing ‘The School Of Abuse, Conteining a pleasant invective against Poets, Pipers, Plaiers, Jesters and such like Caterpillars of a Commonwealth’ in 1579. In it he argued that theatre ‘fostered social evils’ and that 'every Wanton and his paramour, every man and his Mistresse, every John and his Joan, every knave and his queane' were corrupted there on the Sabbath.
+[John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He ran the first theatre in Blackfriars, London and was known for his euphuistic style, which was emulated by another Canterbury playwright, Stephen Gosson (1554-1624), who was christened in St.George’s parish. None of Gosson's plays survive, but he later became vehemently opposed to the theatre, writing ‘The School Of Abuse, Conteining a pleasant invective against Poets, Pipers, Plaiers, Jesters and such like Caterpillars of a Commonwealth’ in 1579. In it he argued that the theatre ‘fostered social evils’ and that 'every Wanton and his paramour, every man and his Mistresse, every John and his Joan, every knave and his queane' were corrupted there on the Sabbath.
 
 Strolling or Wandering Players, considered ‘vagabonds’ by law, and without patronage from a noblemen or royalty, toured fairgrounds and race meetings presenting a mixture of acrobatics, drama and songs. Sometimes, these players were paid not to perform, as the Burghmote book in 1595 notes: 
 <br><br>
@@ -48,13 +38,13 @@ The English Civil War 1642 – 1646 stopped theatre completely. After the war, T
 
 [Aphra Behn](/17c/17c-behn-biography/) (1640?-1689), (or Eaffrey Johnson), playwright and well-known author of Oroonoko, was born in Harbledown around 1640. During the 1660’s she wrote ‘The Forc’d Marriage’ for the Duke’s Company under Thomas Betterton, actor and manager. The Duke’s Company was one of two theatre companies (the other, King’s) chartered by Charles I and allowed to perform complete dramas.  Over the years, Behn staged nineteen plays and most likely contributed to more. ‘The Amorous Prince’ was staged in 1671 and ‘The Young King’ in 1679, both tragicomedies of sex and power struggles, where Behn excelled. 
 
-In April 1780, ‘The Oaks or The Beauties of Canterbury’, written by Canterbury pastry cook and mantua maker, [Elizabeth Burgess](/18c/18c-burgess-biography/) was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate. It was printed at her own expense and survives in full. The Prologues were spoken by Mr Miell and the Epilogue by Mrs Dawes. The Buttermarket theatre was also used by [Sarah Baker](/18c/18c-baker-biography/) 
+The Licensing Act of 1737, or ‘Gagging Act’ as it was popularly known, affected theatre in Britain considerably. Production of plays was restricted to two theatres in London – Covent Garden and Drury Lane.  Scripts were censored by the Lord Chamberlain and his examiners, the Master of Revels, until 1843 when it was lifted. To avoid falling foul of this law, especially rural theatres would intersperse scenes with a variety of melodrama, burlesque, song and dance. After the gagging act was lifted, Music Hall became equally, if not more popular than theatre. Starting in the back rooms of pubs, it grew into a ‘working’ peoples entertainment. 
 
-In 1789, [Sarah Baker](/18c/18c-baker-biography/) opened the first theatre in Canterbury. 
-
-‘New Theatre’ on Orange Street was also known as the ‘Prince of Orange Theatre’ and later, Theatre Royal (by 1851).  
+In April 1780, ‘The Oaks or The Beauties of Canterbury’, written by Canterbury pastry cook and mantua maker, [Elizabeth Burgess](/18c/18c-burgess-biography/) was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate. It was printed at her own expense and survives in full. The Prologues were spoken by Mr Miell and the Epilogue by Mrs Dawes. The Buttermarket theatre was also used by [Sarah Baker](/18c/18c-baker-biography/) who opened her own theatre in Canterbury in in 1789. 
 
 Sarah Baker was able to entice new actors from London to join her company touring Kent, such as Edmund Kean, Thomas Dibdin, Charles Incledon and Joseph Grimaldi the famous clown. 
+
+On Tuesday, May 6th, 1817, Joseph Grimaldi, whose services had been procured by Mr Dowton, played ‘Bob Acres’ in Richard Brinsley Sheridan’s five part comedy, “The Rivals” at Canterbury Theatre. Grimaldi came from a family of dancers and had performed as a child at Sadler’s Wells, London.  Grimaldi sung one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’ [sic][^ref1] in “DON JUAN or the Libertine Destroyed”. Scaramouche was a stock character from commedia dell’arte, an unreliable servant.  Joseph Grimaldi is remembered as creator of the modern clown, many of his reminiscences are in his memoir, edited by [Charles Dickens](/dickens/dickens-biography). Thomas Dibdin, also employed in Mrs. Baker’s troupe, recommended Grimaldi for the clown in his successful 1806 pantomime, “Harlequin and Mother Goose”. 
 
 Life long members of Sarah Baker’s company were Mr.John Sloman and Mr. Smollett; both wrote and performed songs in between acts. Mrs Baker’s daughter, also Sarah, had married Mr. William Dowton, an actor who’d joined Mrs Baker’s company in 1791. Dowton performed in Canterbury multiple times and ran her theatre empire after her death in 1816. 
 
@@ -62,9 +52,7 @@ Life long members of Sarah Baker’s company were Mr.John Sloman and Mr. Smollet
 In 1898, the ‘Sarah Thorne Dramatic Company’ presented Dion Boucicault’s ‘The Flying Scud’ at the Theatre Royal, Canterbury. In the play, the hero, Tom Meredith, the villain Grindley Goodge, the comic lead, Nat Gosling and Katey Rideout obsessively follow the fortunes of the eponymous racehorse, and its preparation for the Epsom races. It is from this play where the phrase “I’ve got to see a man about a dog” comes. Sarah Thorne, who was manager of the Theatre Royal in Margate, is best known for opening the first acting school in England which later moved to Chatham. 
 
 
-On Tuesday, May 6th, 1817, Joseph Grimaldi, whose services had been procured by Mr Dowton, played ‘Bob Acres’ in Richard Brinsley Sheridan’s five part comedy, “The Rivals” at Canterbury Theatre. Grimaldi came from a family of dancers and had performed as a child at Sadler’s Wells, London.  Grimaldi sung one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’ [sic][^ref1] in “DON JUAN or the Libertine Destroyed”. Scaramouche was a stock character from commedia dell’arte, an unreliable servant.  
 
-Joseph Grimaldi is remembered as creator of the modern clown, many of his reminiscences are in his memoir, edited by Charles Dickens. Thomas Dibdin, also employed in Mrs. Baker’s troupe, recommended Grimaldi for the clown in his successful 1806 pantomime, “Harlequin and Mother Goose”. 
 
 Playbill no. 56 – “Theatre Canterbury, March 11th, 1823, Mr.(Edmund) Kean, for strictly two nights only” as the Duke of Gloucester in “Richard III”.                         
 William Dowton as Old Mirabel and Charles Kemble as Young Mirabel in a scene from the “Inconstant”. (no copyright, USA) 
@@ -125,6 +113,8 @@ The Victoria and Albert Museum
 
 ### References
 
+[^ref1]: Bateman, Audrey. _Hail, Mother of England: a Social History of Canterbury_. Rochester Press, 1984, 2.
+[^ref2]: Bateman, Audrey. _Hail, Mother of England: a Social History of Canterbury_. Rochester Press, 1984, 2.
 [^ref1]: Scaramouche is spelt without the ‘e’ on a playbill in the Goulden Collection, held at the Beaney House of Art and Knowledge, Canterbury.
 [^ref2]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
 [^ref3]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
