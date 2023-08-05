@@ -11,7 +11,7 @@ St Augustine and Church dramas
 
 In AD597, Saint Augustine landed in Kent and converted many to Christianity. 
 
-A hundred years later, attitudes had changed towards theatre. Archbishop Theodore of Canterbury banned all wandering players and condemned folk plays. He issued ecclesiastical laws condemning ‘Hoodening’ performances, most popular in East Kent around Christmastime. 
+A hundred years later, attitudes had changed towards theatre. Archbishop Theodore of Canterbury banned all wandering players and condemned folk plays. He issued ecclesiastical laws condemning [Hoodening](/19c/19c-hoodening/) performances, most popular in East Kent around Christmastime. 
 
 Around AD 1180, Canterbury’s Guild Hall was built on the corner of the High Street and Guildhall Street. Although, mainly used for municipal purposes, it occasionally held musical events. 
 
@@ -43,7 +43,7 @@ The Chequer of The Hope was a pilgrim's inn on the west side of Mercery Lane and
 
 John ‘Bileous' Bale who was famed for his vitriolic language attacking the Catholic church wrote 'King John'.
 
-[John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He went on to run the first theatre in Blackfriars, London and although known for his prose, Lyly pioneered writing specifically for children’s companies. 
+[John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He ran the first theatre in Blackfriars, London and although known for his prose, Lyly pioneered writing specifically for children’s companies. 
 
 Actor and playwright, Stephen Gosson (1554-1624), was christened in St.George’s parish, Canterbury. None of his plays survive. He later became vehemently opposed to the theatre writing ‘The School Of Abuse’ pamphlet, which argued that theatre ‘fostered social evils, such as prostitution’. 
 
@@ -52,9 +52,11 @@ Actor and playwright, Stephen Gosson (1554-1624), was christened in St.George’
 
 In April 1780, ‘The Oaks or The Beauties of Canterbury’, written by Canterbury pastry cook and mantua maker, [Elizabeth Burgess](/18c/18c-burgess-biography/) was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate. It was printed at her own expense and survives in full. The Prologues were spoken by Mr Miell and the Epilogue by Mrs Dawes. The Buttermarket theatre was also used by [Sarah Baker](/18c/18c-baker-biography/) 
 
-In 1789, [Sarah Baker](/18c/18c-baker-biography/) opened the first theatre in Canterbury. e ‘New Theatre’ on Orange Street was also known as the ‘Prince of Orange Theatre’ and later, Theatre Royal (by 1851).  
+In 1789, [Sarah Baker](/18c/18c-baker-biography/) opened the first theatre in Canterbury. 
 
-Her success as a theatre manager was in part due to her ability to entice new actors from London to join her company in touring Kent. Edmund Kean, Thomas Dibdin, Charles Incledon and Joseph Grimaldi the famous clown, are just a few of the rising stars Sarah Baker gave opportunities to and later, was able to start producing patent plays. 
+‘New Theatre’ on Orange Street was also known as the ‘Prince of Orange Theatre’ and later, Theatre Royal (by 1851).  
+
+Sarah Baker was able to entice new actors from London to join her company touring Kent, such as Edmund Kean, Thomas Dibdin, Charles Incledon and Joseph Grimaldi the famous clown. 
 
 Life long members of Sarah Baker’s company were Mr.John Sloman and Mr. Smollett; both wrote and performed songs in between acts. Mrs Baker’s daughter, also Sarah, had married Mr. William Dowton, an actor who’d joined Mrs Baker’s company in 1791. Dowton performed in Canterbury multiple times and ran her theatre empire after her death in 1816. 
 
@@ -106,34 +108,26 @@ In 1909, St Margaret's Hall became the Electric Picture Palace.
 
 The Electric Theatre, no.49, St.Peter’s Street was opened in 1910 and offered silent films and theatre. By 1940 it was run by Captain Julian Bainbridge, manager of The Canterbury Repertory Theatre and known by that name. 
 
-On 8 June 1911, Mayor Francis Goldney Bennett opened the Electric Theatre on St Peter's Street with its mosaic pavement and glass canopy lit with incandescent lights. As he heralded in a new age of theatre, Goldney praised the exterior which was in keeping with "the old architecture of the city" with its Tudor oak panels but also spoke of the importance of keeping pace with the times, predicting that "picture shows" were here to stay.[^ref2] Thanking the theatre owners, Goldney owned that although he did not wish to be thought as a "kill joy", he was grateful that they had promised the City Council not to put on performances on Sunday, as everyone needed at least one day of rest. In January 1916, 'three reels, brimful of exciting incidents' was shown over the New Year period, including 'A Society Woman's Ordeal', 'His Lucky Vacation' and 'Wiffles in Wartime', a story about a hen-pecked husband. This was followed later in the month by 'The Exploits of Elaine', 'The Rounders' featuring Charlie Chaplin, 'The Professional Diner' and 'The Ascent of Mont Blanc'.
+On 8 June 1911, Mayor Francis Goldney Bennett opened the Electric Theatre on St Peter's Street with its mosaic pavement and glass canopy lit with incandescent lights. As he heralded in a new age of theatre, Goldney praised the exterior which was in keeping with "the old architecture of the city" with its Tudor oak panels but also spoke of the importance of keeping pace with the times, predicting that "picture shows" were here to stay.[^ref2] Thanking the theatre owners, Goldney owned that although he did not wish to be thought as a "kill joy", he was grateful that they had promised the City Council not to put on performances on Sunday, as everyone needed at least one day of rest. In January 1916, under the management of Mr A. Dobson, four reels 'brimful of exciting incidents' were shown over the New Year period, including 'A Society Woman's Ordeal' (an appealing story of a society woman's sacrifice), 'His Lucky Vacation', 'No flirting allowed' and 'Wiffles in Wartime', a story about a hen-pecked husband. This was followed later in the month by 'The Exploits of Elaine'(part six), 'The Rounders' featuring Charlie Chaplin, 'The Professional Diner' and 'The Ascent of Mont Blanc'.[^ref3]
 
 In 1912 it reopened as the Empire Music Hall, then in 1950 it became the first Marlowe Theatre until demolished in 1984 when the second Marlowe Theatre opened at The Friars. This second Marlowe was demolished in 2009 to make way for today’s Marlowe on the same site. 
 
 The Forester’s Hall, no.47, High Street on the south side, opened in 1860 and was created by the Ancient Order of Foresters. (later Nason’s.) 
-
-
 
 At 30-31, Northgate, a small theatre was converted from a 17th century house. It has been known as the Canterbury Music Hall, Princess (or just) Alexandra Theatre/ Music Hall, Regency Theatre, The Cannon and Royal George. Rumoured to have closed in 1898, in fact it was used as a variety hall until 1989. When it reopened it was called The Penny Theatre, still functioning today as a pub and theatre and is a Grade II listed building. 
 
 ### Bibliography 
 
 Arthurlloyd.co.uk 
-
 Baker, Jean Napier. Theatre in the Provinces of Eighteenth and early Nineteenth Centuries with special reference to Sarah Baker in Kent. University of Kent, 2000. 
-
 Burton, Simon. The Spin, The Guardian, 26 November 2019. 
-
-Kent-maps.online 
-
 Manners, David. Canterbury Stage By Stage 
-
 The Oxford Dictionary of National Biography 
-
 The Victoria and Albert Museum 
 
 ### References
 
 [^ref1]: Scaramouche is spelt without the ‘e’ on a playbill in the Goulden Collection, held at the Beaney House of Art and Knowledge, Canterbury.
 [^ref2]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
+[^ref3]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
  
