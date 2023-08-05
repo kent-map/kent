@@ -6,15 +6,15 @@ banner="/images/banners/19c.jpg">
 
 Canterbury has a long history of theatrical entertainment dating back to the Roman times. Between AD 80–90, a theatre was built in the St. Margaret’s Street area where spectators could sit on a gravel bank to enjoy the performances (weather permitting).[^ref1] In the 3rd century, a ‘D’ shaped, Flavian style (AD 201-300) theatre with a wet weather awning was built in the same location, which could seat around 3,000 - possibly the largest in the country.[^ref3] 
 <br><br>
-By Anglo Saxon times, the amphitheatre along with many of the other city's buildings had decayed and the city lay abandoned. 
+By Anglo Saxon times, the amphitheatre along with many of the other city's buildings lay abandoned. 
 
 In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 667-690, banned dressing up as stags or other beasts which was customary during the midwinter celebrations, seeing these public displays as peverse and 'devilish'.[^ref4] Later, in the sixteenth century, the good folk of Kent revelled in pageantry. A church warden from the parish of St Dunstan’s noted: 
 <br><br>
 “Canterbury has it’s own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.”
+<br><br>
+John ‘Bileous' Bale (1495-1563), famed for his vitriolic language attacking the Catholic church, wrote 'King John' which it is argued is the earliest historical drama in English.[^ref] (Brown, Hutchinson and Irwin _Written City_) It was probably performed at St Stephens in 1538. In May 1560, he was said to be staging a satirical play about the city's friars with schoolboys from the grammar school.[^ref:  
 
-Christopher Marlowe, spy and playwright, was born at 57, St George's Street in 1564 and attended the King's school from 1578. In 1592, he visited Canterbury to see his play 'The Jew of Malta' performed at the Guildhall. Whilst staying in the city, Marlowe got into a fight with William Corkine, a cathedral musician, at the Cheker of Hope Inn. The inn which also served as a theatre venue, had a galleried courtyard and was surrounded by two floors which could accommodate up to 100 pilgrims. It is mentioned in the fifeenth century ‘Tale of Beryn’ and was also known as the ‘Chaucer Inn’. 
-
-John ‘Bileous' Bale (1495-1563), famed for his vitriolic language attacking the Catholic church, wrote 'King John' which it is argued is the earliest historical drama in English.[^ref] (Brown, Hutchinson and Irwin _Written City_) It was probably performed at St Stephens in 1538. 
+Christopher Marlowe, spy and playwright, was born at 57, St George's Street in 1564 and attended the King's school from 1578 before moving to Cambridge and later London. In 1592, he visited Canterbury to see his play 'The Jew of Malta' performed at the Guildhall. Whilst staying in the city, Marlowe got into a fight with a tailor, William Corkine, at the Cheker of Hope Inn. The inn which also served as a theatre venue, had a galleried courtyard and was surrounded by two floors which could accommodate up to 100 pilgrims. It is mentioned in the fifeenth century ‘Tale of Beryn’ and was also known as the ‘Chaucer Inn’. Corkine claimed that Marlowe had attacked him 'with staff and dagger' but Marlowe claimed that Corkine was the aggressor. 
 
 [John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father - a registrar for the Archbishop of Canterbury - owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He ran the first theatre in Blackfriars, London and was known for his euphuistic style, which was emulated by another Canterbury playwright, Stephen Gosson (1554-1624). Gosson was christened in St.George’s parish and educated at the King's School. None of Gosson's plays survive, but he later became vehemently opposed to the theatre, writing ‘The School Of Abuse, Conteining a pleasant invective against Poets, Pipers, Plaiers, Jesters and such like Caterpillars of a Commonwealth’ in 1579. In it he argued that the theatre ‘fostered social evils’ and that 'every Wanton and his paramour, every man and his Mistresse, every John and his Joan, every knave and his queane' were corrupted there.
 
@@ -89,6 +89,11 @@ The Victoria and Albert Museum
 
 [^ref1]: Bateman, Audrey. _Hail, Mother of England: a Social History of Canterbury_. Rochester Press, 1984, 2.
 [^ref1]: Canterbury Archaeological Trust.
+
+King, John N. "Bale, John (1495–1563), bishop of Ossory, evangelical polemicist, and historian." _Oxford Dictionary of National Biography_.  October 08, 2009. Oxford University Press. Date of access 5 Aug. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-1175>
+
+Nicholl, Charles. "Marlowe [Marley], Christopher (bap. 1564, d. 1593), playwright and poet." Oxford Dictionary of National Biography.  January 03, 2008. Oxford University Press. Date of access 5 Aug. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18079>
+
 "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859
 [^ref]: Kentish Weekly Post or Canterbury Journal - Saturday 12 February 1726
 [^ref4]: Frampton, George. _Discordant Comicals: the Hooden Horse of East Kent_ 23
