@@ -8,19 +8,10 @@ Canterbury has a long history of theatrical entertainment dating back to the Rom
 <br><br>
 By Anglo Saxon times, the amphitheatre along with many of the other city's buildings had decayed and the city lay abandoned. 
 
-
-Theodore of Tarsus, who was Archbishop of Canterbury from 668-690, banned all wandering players and condemned folk plays. He issued ecclesiastical laws condemning [Hoodening](/19c/19c-hoodening/) performances, most popular in East Kent around Christmastime. 
-
-Around AD 1180, Canterbury’s Guild Hall was built on the corner of the High Street and Guildhall Street. Although, mainly used for municipal purposes, it also held musical events. Thomas Sidney Cooper paid for the refurbishment of the Concert Rooms in the late 1850s with pale blue paper decorated with gold stars, gilt mouldings and white pilasters.[^ref] 
-
-By the 15th/16th century, Liturgical dramas were performed all over Britain. 
-
- ‘Miracle’ plays recounted the lives of saints, while ‘Mystery cycles’ staged stories from the Bible, both performed on wagons.  
-
-Between 1491 – 1520, a church warden from the parish of St Dunstan’s noted; 
+In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 667-690, banned dressing up as stags or other beasts which was customary during the midwinter celebrations, seeing these public displays as peverse and 'devilish'.[^ref4] Later, in the sixteenth century, the good folk of Kent revelled in pageantry. A church warden from the parish of St Dunstan’s noted: 
 <br><br>
-“Canterbury has it’s own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.”                                        
-                                                              
+“Canterbury has it’s own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.”
+
 Christopher Marlowe, spy and playwright, was born at 57, St George's Street in 1564 and attended the King's school from 1578. In 1592, he visited Canterbury to see his play 'The Jew of Malta' performed at the Guildhall. Whilst staying in the city, Marlowe got into a fight with William Corkine, a cathedral musician, at the Cheker of Hope Inn. The inn which also served as a theatre venue, had a galleried courtyard and was surrounded by two floors which could accommodate up to 100 pilgrims. It is mentioned in the fifeenth century ‘Tale of Beryn’ and was also known as the ‘Chaucer Inn’. 
 
 John ‘Bileous' Bale (1495-1563), famed for his vitriolic language attacking the Catholic church, wrote 'King John' which it is argued is the earliest historical drama in English.[^ref] (Brown, Hutchinson and Irwin _Written City_) It was probably performed at St Stephens in 1538. 
@@ -52,6 +43,8 @@ On Tuesday, May 6th, 1817, Joseph Grimaldi, played ‘Bob Acres’ in Richard Br
 In 1838, the Theatre on Orange Street was run by Mr. John Sloman.  
 
 Thomas Sidney Cooper painted scenery in the ‘New Theatre’ on Orange Street with Mr Doyle. Back in the 1820s he also painted scenery for the theatre in Hastings, where he met and remained lifelong friends with actor Edmund Kean. 
+
+Thomas Sidney Cooper paid for the refurbishment of the Concert Rooms of the Guild Hall, which had been built around 1180, in the late 1850s with pale blue paper decorated with gold stars, gilt mouldings and white pilasters.[^ref] 
 
 In 1860, Sidney Cooper, was persuaded by Mr John Baker and Sir Frederick Ponsoby Fane (later Earl of Bessborough), members of the Old Stagers, Canterbury's amateur dramatic group, to build a new theatre.  The Theatre Royal, under the management of W.E. Mills, opened in September 1861. On November 4th, 'For one night only' [Charles Dickens](/dickens/dickens-biography) read six chapters of _David Copperfield_ at the Theatre Royal. The report of Dickens's visit in _The Canterbury Journal, Kentish Times and Farmers' Gazette_ was slightly ambivalent about the talents of the great man, as the journalist asked whether there were six chapters of _David Copperfield_ 'worthy the elaborate reading bestowed on them by their author.'[^ref] The reporter also observed that 'his box audience was very large, but the pit and gallery folk have yet to appreciate the great novelist.' The _Kentish Chronicle_ was less ascerbic, describing the house as 'fully and fashionably attended'.[^ref] 
 
@@ -85,10 +78,10 @@ At 30-31, Northgate, a small theatre was converted from a 17th century house. It
 
 ### Bibliography 
 
-Arthurlloyd.co.uk 
-Baker, Jean Napier. Theatre in the Provinces of Eighteenth and early Nineteenth Centuries with special reference to Sarah Baker in Kent. University of Kent, 2000. 
+Arthurlloyd.co.uk    
+Baker, Jean Napier. _Theatre in the Provinces of Eighteenth and early Nineteenth Centuries with special reference to Sarah Baker in Kent._ University of Kent, 2000.   
 Burton, Simon. The Spin, The Guardian, 26 November 2019. 
-Manners, David. Canterbury Stage By Stage 
+Manners, David. _Canterbury Stage By Stage_ 
 The Oxford Dictionary of National Biography 
 The Victoria and Albert Museum 
 
@@ -98,6 +91,7 @@ The Victoria and Albert Museum
 [^ref1]: Canterbury Archaeological Trust.
 "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859
 [^ref]: Kentish Weekly Post or Canterbury Journal - Saturday 12 February 1726
+[^ref4]: Frampton, George. _Discordant Comicals: the Hooden Horse of East Kent_ 23
 [^ref]: Kentish Weekly Post or Canterbury Journal - Wednesday 19 November 1729
 [^ref]: "For the Benefit of Mr Green and Mr Vaughan the Harlequin." _Kentish Weekly Post or Canterbury Journal_ - Wednesday 01 August 1739
 [^ref]: "At the Theatre in Canterbury." Kentish Weekly Post or Canterbury Journal - Saturday 25 August 1739.
