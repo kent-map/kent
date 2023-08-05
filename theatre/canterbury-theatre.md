@@ -4,17 +4,14 @@ banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q618045" aliases="Margate">
 
-Canterbury has a long history of theatrical entertainment dating back to the Roman times. Between AD 80–90, an amphitheatre was built in the St. Margaret’s Street area where spectators could sit on a gravel bank to enjoy the performances (weather permitting).[^ref1] In the 3rd century, a ‘D’ shaped, Flavian style (AD 201-300) amphitheatre was built in the same location, which could seat around 3,000.[^ref2] 
+Canterbury has a long history of theatrical entertainment dating back to the Roman times. Between AD 80–90, a theatre was built in the St. Margaret’s Street area where spectators could sit on a gravel bank to enjoy the performances (weather permitting).[^ref1] In the 3rd century, a ‘D’ shaped, Flavian style (AD 201-300) theatre with a wet weather awning was built in the same location, which could seat around 3,000.[^ref3] 
 <br><br>
 By Anglo Saxon times, the amphitheatre along with many of the other city's buildings had decayed and the city lay abandoned. 
 
-St Augustine and Church dramas 
-
-In AD597, Saint Augustine landed in Kent and converted many to Christianity. 
 
 Theodore of Tarsus, who was Archbishop of Canterbury from 668-690, banned all wandering players and condemned folk plays. He issued ecclesiastical laws condemning [Hoodening](/19c/19c-hoodening/) performances, most popular in East Kent around Christmastime. 
 
-Around AD 1180, Canterbury’s Guild Hall was built on the corner of the High Street and Guildhall Street. Although, mainly used for municipal purposes, it occasionally held musical events. 
+Around AD 1180, Canterbury’s Guild Hall was built on the corner of the High Street and Guildhall Street. Although, mainly used for municipal purposes, it occasionally held musical events. Thomas Sidney Cooper paid for the refurbishment of the Concert Rooms in the late 1850s with pale blue paper decorated with gold stars, gilt mouldings and white pilasters, as he hoped to provide a venue to rival the Orange Street Theatre.[^ref] 
 
 By the 15th/16th century, Liturgical dramas were performed all over Britain. 
 
@@ -56,7 +53,7 @@ In 1838, the Theatre on Orange Street was run by Mr. John Sloman.
 
 Thomas Sidney Cooper painted scenery in the ‘New Theatre’ on Orange Street with Mr Doyle. Back in the 1820s he also painted scenery for the theatre in Hastings, where he met and remained lifelong friends with actor Edmund Kean. 
 
-In 1860, Sidney Cooper, was persuaded by Mr John Baker and Sir Frederick Ponsoby Fane (later Earl of Bessborough), members of the Old Stagers, an amateur dramatic group performing in Canterbury since 1842, to build a new theatre.  The Theatre Royal, under the management of W.E. Mills, opened in September 1861. On November 4th, 'For one night only' [Charles Dickens](/dickens/dickens-biography) read six chapters of _David Copperfield_ at the Theatre Royal. The report of Dickens's visit in _The Canterbury Journal, Kentish Times and Farmers' Gazette_ was slightly ambivalent about the talents of the great man, as the journalist asked whether there were six chapters of _David Copperfield_ 'worthy the elaborate reading bestowed on them by their author.'[^ref] The reporter also observed that 'his box audience was very large, but the pit and gallery folk have yet to appreciate the great novelist.' The Theatre Royal closed on 30th January, 1926 and was sold to the Lefevre brothers. (Debenhams)  
+In 1860, Sidney Cooper, was persuaded by Mr John Baker and Sir Frederick Ponsoby Fane (later Earl of Bessborough), members of the Old Stagers, an amateur dramatic group performing in Canterbury since 1842, to build a new theatre.  The Theatre Royal, under the management of W.E. Mills, opened in September 1861. On November 4th, 'For one night only' [Charles Dickens](/dickens/dickens-biography) read six chapters of _David Copperfield_ at the Theatre Royal. The report of Dickens's visit in _The Canterbury Journal, Kentish Times and Farmers' Gazette_ was slightly ambivalent about the talents of the great man, as the journalist asked whether there were six chapters of _David Copperfield_ 'worthy the elaborate reading bestowed on them by their author.'[^ref] The reporter also observed that 'his box audience was very large, but the pit and gallery folk have yet to appreciate the great novelist.' The _Kentish Chronicle_ was less ascerbic, describing the house as 'fully and fashionably attended'.[^ref]  The Theatre Royal closed on 30th January, 1926 and was sold to the Lefevre brothers. (Debenhams)  
 
 In 1852, the Victoria Concert Rooms, no.3 Lower Bridge Street were renamed St. George’s Hall. In 1923 it became The Queen’s Concert Hall and Ballroom until 1927, when it was known as The County Hall until 1939. 
 
@@ -93,13 +90,15 @@ The Victoria and Albert Museum
 ### References
 
 [^ref1]: Bateman, Audrey. _Hail, Mother of England: a Social History of Canterbury_. Rochester Press, 1984, 2.
-[^ref2]: Bateman, Audrey. _Hail, Mother of England: a Social History of Canterbury_. Rochester Press, 1984, 2.
+[^ref1]: Canterbury Archaeological Trust.
+"The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859
 [^ref]: Kentish Weekly Post or Canterbury Journal - Saturday 12 February 1726
 [^ref]: Kentish Weekly Post or Canterbury Journal - Wednesday 19 November 1729
 [^ref]: "For the Benefit of Mr Green and Mr Vaughan the Harlequin." _Kentish Weekly Post or Canterbury Journal_ - Wednesday 01 August 1739
 [^ref]: "At the Theatre in Canterbury." Kentish Weekly Post or Canterbury Journal - Saturday 25 August 1739.
 [^ref1]: Scaramouche is spelt without the ‘e’ on a playbill in the Goulden Collection, held at the Beaney House of Art and Knowledge, Canterbury.
 [^ref]: "Mr Dickens's reading." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 09 November 1861.
+[^ref]: "Mr Charles Dickens's reading." _Kentish Chronicle_ - Saturday 09 November 1861.
 [^ref2]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
 [^ref3]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
  
