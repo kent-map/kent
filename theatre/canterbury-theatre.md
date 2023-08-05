@@ -1,28 +1,13 @@
-A Brief timeline of Performances in Canterbury 
-
- 
-
-The Romans 
+Theatre in Canterbury
 
 Between AD80 – 90, the Romans built an Amphitheatre in the St. Margaret’s Street area. 
+Later, Caesar comments; “....by far the most civilized of the Britons, are those who live in Kent.” 
 
- 
-
-Later, Ceasar comments; 
-
-“....by far the most civilized of the Britons, are those who live in Kent.” 
-
- 
-
-In the 3rd century, most of Canterbury’s buildings were upgraded, and a ‘D’ shaped, Flavian style (AD201-300) Amphitheatre was built in the same location.  
+In the 3rd century, a ‘D’ shaped, Flavian style (AD201-300) Amphitheatre was built in the same location.  
 
 Under The Anglo Saxons, the theatre was left to decay – The Normans used some of its masonry for their buildings. 
 
- 
-
 St Augustine and Church dramas 
-
- 
 
 In AD597, Saint Augustine landed in Kent and converted many to Christianity. 
 
@@ -33,14 +18,11 @@ By the 15th/16th century, Liturgical dramas were performed all over Britain.
  ‘Miracle’ plays recounted the lives of saints, while ‘Mystery cycles’ staged stories from the Bible, both performed on wagons.  
 
 Between 1491 – 1520, a church warden from the parish of St Dunstan’s noted; 
-
+<br><br>
 “Canterbury has it’s own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.” 
 
- 
-
-Strolling Players 
-
- Strolling or Wandering Players were the prelude to professional Acting Companies. These players were considered ‘vagabonds’ by law, without patronage from a noblemen or royalty. They toured fairgrounds and race meetings presenting a mixture of acrobatics, drama and songs. 
+**Strolling Players**   
+Strolling or Wandering Players were the prelude to professional Acting Companies. These players were considered ‘vagabonds’ by law, without patronage from a noblemen or royalty. They toured fairgrounds and race meetings presenting a mixture of acrobatics, drama and songs. 
 
 Sometimes, these players were paid not to perform, as the Burghmote book in 1595 notes: 
 
