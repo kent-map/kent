@@ -4,13 +4,15 @@ banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q618045" aliases="Margate">
 
-Canterbury has a long history of theatrical entertainment. Between AD 80–90, the Romans built an amphitheatre in the St. Margaret’s Street area where spectators could sit on a gravel bank to enjoy the performances.[^ref1] In the 3rd century, a ‘D’ shaped, Flavian style (AD201-300) amphitheatre was built in the same location, which could seat around 3,000. [^ref2] By Anglo Saxon times, the amphitheatre had decayed. 
+Canterbury has a long history of theatrical entertainment. Between AD 80–90, the Romans built an amphitheatre in the St. Margaret’s Street area where spectators could sit on a gravel bank to enjoy the performances.[^ref1] In the 3rd century, a ‘D’ shaped, Flavian style (AD201-300) amphitheatre was built in the same location, which could seat around 3,000.[^ref2] 
+<br><br>
+By Anglo Saxon times, the amphitheatre along with many of the other city's buildings had decayed. 
 
 St Augustine and Church dramas 
 
 In AD597, Saint Augustine landed in Kent and converted many to Christianity. 
 
-A hundred years later, attitudes had changed towards theatre. Archbishop Theodore of Canterbury banned all wandering players and condemned folk plays. He issued ecclesiastical laws condemning [Hoodening](/19c/19c-hoodening/) performances, most popular in East Kent around Christmastime. 
+Theodore of Tarsus, who was Archbishop of Canterbury from 668-690, banned all wandering players and condemned folk plays. He issued ecclesiastical laws condemning [Hoodening](/19c/19c-hoodening/) performances, most popular in East Kent around Christmastime. 
 
 Around AD 1180, Canterbury’s Guild Hall was built on the corner of the High Street and Guildhall Street. Although, mainly used for municipal purposes, it occasionally held musical events. 
 
@@ -28,7 +30,7 @@ John ‘Bileous' Bale (1495-1563), famed for his vitriolic language attacking th
 
 [John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He ran the first theatre in Blackfriars, London and was known for his euphuistic style, which was emulated by another Canterbury playwright, Stephen Gosson (1554-1624), who was christened in St.George’s parish. None of Gosson's plays survive, but he later became vehemently opposed to the theatre, writing ‘The School Of Abuse, Conteining a pleasant invective against Poets, Pipers, Plaiers, Jesters and such like Caterpillars of a Commonwealth’ in 1579. In it he argued that the theatre ‘fostered social evils’ and that 'every Wanton and his paramour, every man and his Mistresse, every John and his Joan, every knave and his queane' were corrupted there on the Sabbath.
 
-Strolling or Wandering Players, considered ‘vagabonds’ by law, and without patronage from a noblemen or royalty, toured fairgrounds and race meetings presenting a mixture of acrobatics, drama and songs. Sometimes, these players were paid not to perform, as the Burghmote book in 1595 notes: 
+Strolling or Wandering Players, considered ‘vagabonds’ by law, and without patronage from a noblemen or royalty, toured fairgrounds and race meetings presenting a mixture of acrobatics, drama and songs. The Burghmote book in 1595 notes: 
 <br><br>
 “....there shall not be any playes enterludes tragedies or comedies be played or players suffered to playe within this Cittie on any Sabaothe days nor above twoe dayes together at any tyme.” 
 <br><br>
@@ -38,7 +40,9 @@ The English Civil War 1642 – 1646 stopped theatre completely. After the war, T
 
 [Aphra Behn](/17c/17c-behn-biography/) (1640?-1689), (or Eaffrey Johnson), playwright and well-known author of Oroonoko, was born in Harbledown around 1640. During the 1660’s she wrote ‘The Forc’d Marriage’ for the Duke’s Company under Thomas Betterton, actor and manager. The Duke’s Company was one of two theatre companies (the other, King’s) chartered by Charles I and allowed to perform complete dramas.  Over the years, Behn staged nineteen plays and most likely contributed to more. ‘The Amorous Prince’ was staged in 1671 and ‘The Young King’ in 1679, both tragicomedies of sex and power struggles, where Behn excelled. 
 
-The Licensing Act of 1737, or ‘Gagging Act’ as it was popularly known, affected theatre in Britain considerably. Production of plays was restricted to two theatres in London – Covent Garden and Drury Lane.  Scripts were censored by the Lord Chamberlain and his examiners, the Master of Revels, until 1843 when it was lifted. To avoid falling foul of this law, especially rural theatres would intersperse scenes with a variety of melodrama, burlesque, song and dance. After the gagging act was lifted, Music Hall became equally, if not more popular than theatre. Starting in the back rooms of pubs, it grew into a ‘working’ peoples entertainment. 
+The Licensing Act of 1737, or ‘Gagging Act’ as it was popularly known, affected theatre in Britain considerably. Production of plays was restricted to two theatres in London – Covent Garden and Drury Lane.  Scripts were censored by the Lord Chamberlain and his examiners, the Master of Revels, until 1843 when it was lifted. To avoid falling foul of this law, rural theatres would intersperse scenes with a variety of melodrama, burlesque, song and dance. On 17 August 1739, the comedy 'The Tender Husband; Or Accomplished Fools' was performed at The Theatre, Canterbury with entertainments of singing and dancing.[^ref] After the gagging act was lifted, Music Hall became equally, if not more popular than theatre. Starting in the back rooms of pubs, it grew into a ‘working’ peoples entertainment.  
+
+
 
 In April 1780, ‘The Oaks or The Beauties of Canterbury’, written by Canterbury pastry cook and mantua maker, [Elizabeth Burgess](/18c/18c-burgess-biography/) was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate. It was printed at her own expense and survives in full. The Prologues were spoken by Mr Miell and the Epilogue by Mrs Dawes. The Buttermarket theatre was also used by [Sarah Baker](/18c/18c-baker-biography/) who opened her own theatre in Canterbury in in 1789. 
 
@@ -115,6 +119,7 @@ The Victoria and Albert Museum
 
 [^ref1]: Bateman, Audrey. _Hail, Mother of England: a Social History of Canterbury_. Rochester Press, 1984, 2.
 [^ref2]: Bateman, Audrey. _Hail, Mother of England: a Social History of Canterbury_. Rochester Press, 1984, 2.
+[^ref]: "At the Theatre in Canterbury." Kentish Weekly Post or Canterbury Journal - Saturday 25 August 1739.
 [^ref1]: Scaramouche is spelt without the ‘e’ on a playbill in the Goulden Collection, held at the Beaney House of Art and Knowledge, Canterbury.
 [^ref2]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
 [^ref3]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
