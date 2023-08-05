@@ -120,6 +120,12 @@ Carina is a 2nd year undergraduate Civil Engineering student at the University o
 
 Dr Susan Civale is Senior Lecturer in Romanticism at Canterbury Christ Church University.  Her research focuses on women’s writing of the long nineteenth century, life writing, and authorial and textual afterlives.  Her monograph, _Romantic Women's Life Writing: Reputation and Afterlife_, explored how the publication of women’s ‘private’ lives, through diaries, auto/biographies, letters, and memoirs, influenced their literary afterlives.
 
+## Liam Cohen
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0634362-1833-4d30-9dd3-08c3a5e8a2f1)
+
+Liam Cohen is a Creative and Professional Writing student at Canterbury Christchurch University. He first wrote a collection of poetry at the fifteen years old. Since then, his passion for writing has blossomed and now he writes all forms of writing. Liam focuses on using emotive language to resonate with his readers.
+
 ## Carla Danella
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/carla.JPG)
