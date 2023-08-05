@@ -13,6 +13,8 @@ In AD597, Saint Augustine landed in Kent and converted many to Christianity.
 
 A hundred years later, attitudes had changed towards theatre. Archbishop Theodore of Canterbury banned all wandering players and condemned folk plays. He issued ecclesiastical laws condemning ‘Hoodening’ performances, most popular in East Kent around Christmastime. 
 
+Around AD 1180, Canterbury’s Guild Hall was built on the corner of the High Street and Guildhall Street. Although, mainly used for municipal purposes, it occasionally held musical events. 
+
 By the 15th/16th century, Liturgical dramas were performed all over Britain. 
 
  ‘Miracle’ plays recounted the lives of saints, while ‘Mystery cycles’ staged stories from the Bible, both performed on wagons.  
@@ -43,7 +45,7 @@ John ‘Bileous' Bale who was famed for his vitriolic language attacking the Cat
 
 [John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He went on to run the first theatre in Blackfriars, London and although known for his prose, Lyly pioneered writing specifically for children’s companies. 
 
-Actor and playwright, Stephen Gosson (1554-1624), was christened in St.George’s parish, Canterbury. He later became vehemently opposed to the theatre writing ‘The School Of Abuse’ pamphlet, which argued that theatre ‘fostered social evils, such as prostitution’. 
+Actor and playwright, Stephen Gosson (1554-1624), was christened in St.George’s parish, Canterbury. None of his plays survive. He later became vehemently opposed to the theatre writing ‘The School Of Abuse’ pamphlet, which argued that theatre ‘fostered social evils, such as prostitution’. 
 
 
 [Aphra Behn](/17c/17c-behn-biography/) (1640?-1689), (or Eaffrey Johnson), playwright and well-known author of Oroonoko, was born in Harbledown. During the 1660’s she wrote ‘The Forc’d Marriage’ for the Duke’s Company under Thomas Betterton, actor and manager. The Duke’s Company was one of two theatre companies (the other, King’s) chartered by Charles I and allowed to perform complete dramas.  Over the years, Behn staged nineteen plays and most likely contributed to more. ‘The Amorous Prince’ was staged in 1671 and ‘The Young King’ in 1679, both tragicomedies of sex and power struggles, where Behn excelled. 
@@ -60,15 +62,7 @@ Life long members of Sarah Baker’s company were Mr.John Sloman and Mr. Smollet
 In 1898, the ‘Sarah Thorne Dramatic Company’ presented Dion Boucicault’s ‘The Flying Scud’ at the Theatre Royal, Canterbury. In the play, the hero, Tom Meredith, the villain Grindley Goodge, the comic lead, Nat Gosling and Katey Rideout obsessively follow the fortunes of the eponymous racehorse, and its preparation for the Epsom races. It is from this play where the phrase “I’ve got to see a man about a dog” comes. Sarah Thorne, who was manager of the Theatre Royal in Margate, is best known for opening the first acting school in England which later moved to Chatham. 
 
 
-At The Beaney... 
-
-The Canterbury museum has many playbills for performances on stages in the city. 
-
-Playbill no.15 - Joseph Grimaldi plays ‘Bob Acres’ in Richard Brinsley Sheridan’s five part comedy, “The Rivals”. Grimaldi came from a family of dancers and had performed as a child at Sadler’s Wells, London. Underneath “Canterbury Theatre, Tuesday, May 6th, 1817”, reads: 
-
-“Having received information that his services are not required at The Theatre Royal, Covent Garden this eve, Mr.Dowton has availed himself of the opportunity and begs leave to announce that he will appear for one night more....” 
-
-Grimaldi sings one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’(spelt without the ‘e’ on playbill) in “DON JUAN or the Libertine Destroyed”. Scaramouche was a stock character from commedia dell’arte, an unreliable servant.  
+On Tuesday, May 6th, 1817, Joseph Grimaldi, whose services had been procured by Mr Dowton, played ‘Bob Acres’ in Richard Brinsley Sheridan’s five part comedy, “The Rivals” at Canterbury Theatre. Grimaldi came from a family of dancers and had performed as a child at Sadler’s Wells, London.  Grimaldi sung one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’ [sic][^ref1] in “DON JUAN or the Libertine Destroyed”. Scaramouche was a stock character from commedia dell’arte, an unreliable servant.  
 
 Joseph Grimaldi is remembered as creator of the modern clown, many of his reminiscences are in his memoir, edited by Charles Dickens. Thomas Dibdin, also employed in Mrs. Baker’s troupe, recommended Grimaldi for the clown in his successful 1806 pantomime, “Harlequin and Mother Goose”. 
 
@@ -79,23 +73,12 @@ The Kembles were a large family of actors -  Roger Kemble was hired by ‘Canter
 
 John Philip Kemble was considered ‘England’s finest actor’, a position taken up by Edmund Kean afterwards. Sarah Siddons was John’s sister and was considered the greatest tragedian.  
 
-**The Chequer Of The Hope**
-
- 
-
-**The Buttermarket** 
-
-
-
-**The Guildhall**
-
-Around AD1180, Canterbury’s Guild Hall was built on the corner of the High Street and Guildhall Street. Mainly used for municipal purposes, occasionally it held musical events. 
 
 Theatre Royal  
 
 Mrs Baker’s Kentish theatres passed to her son-in-law, William Dowton. Later, in 1838, the theatre on Orange Street was run by Mr. John Sloman, a frequent member of Canterbury productions.  The ‘Theatre Royal at Orange Street’ (formerly ‘New Theatre’) was used on occasion before deemed unsafe in 1858.  
 
-In 1860, Thomas Sidney Cooper, painter and local philanthropist, was persuaded by Canterbury cricketers; Mr John Baker (no relation to Mrs Sarah Baker) and Sir Frederick Ponsoby Fane (later Earl of Bessborough) to build a new theatre. Fane and Baker were also principal members of the Old Stagers, an amateur dramatic group performing in Canterbury since 1842.  
+In 1860, Thomas Sidney Cooper, painter and local philanthropist, was persuaded by Canterbury cricketers; Mr John Baker and Sir Frederick Ponsoby Fane (later Earl of Bessborough) to build a new theatre. Fane and Baker were also principal members of the Old Stagers, an amateur dramatic group performing in Canterbury since 1842.  
 
 One of the first members of the Old Stagers was Alfred Mynn. From a farming family, Mynn was a colossus in stature and cricket; 6ft 1inch tall, weighing between 18 – 19 stone. A _Sporting Life_ correspondent of the time said,  
 
@@ -109,7 +92,7 @@ On playbill no. 218, The Old Stagers performed “J.R.Planche Esq.’s Charles X
 
 Sidney Cooper used to paint scenery in the ‘New Theatre’ on Orange Street with Mr Doyle. Back in the 1820’s he also painted scenery for the theatre in Hastings, where he met and remained lifelong friends with actor Edmund Kean. 
 
-The Theatre Royal, under the management of W.E.Mills, opened in September 1861. On November 4th, 1861 [Charles Dickens](/dickens/dickens-biography) read six chapters of ‘David Copperfield’ at the Theatre Royal. It closed on 30th January, 1926 and was sold to the Lefevre brothers. (Debenhams)  
+The Theatre Royal, under the management of W.E. Mills, opened in September 1861. On November 4th, 1861 [Charles Dickens](/dickens/dickens-biography) read six chapters of ‘David Copperfield’ at the Theatre Royal. It closed on 30th January, 1926 and was sold to the Lefevre brothers. (Debenhams)  
 
 In 1852, the Victoria Concert Rooms, no.3 Lower Bridge Street were renamed St. George’s Hall. In 1923 it became The Queen’s Concert Hall and Ballroom until 1927, when it was known as The County Hall until 1939. 
 
@@ -119,17 +102,20 @@ St.Margaret’s Hall, opened as the ‘New Music Hall’ at no.12, St.Margaret�
 
 One such event is listed for May 8th, 1876, on playbill no.223 - “Music Hall, Canterbury.......Strange and Wilsons Aetherscope adaptation of a Christmas Carol....Scene II- Cornhill by night – Sir Roger de Coverley...” (a country dance). 
 
-At the same location, in 1909 just before the First World War, the Electric Picture Palace opened. In 1912 it reopened as the Empire Music Hall, then in 1950 it became the first Marlowe Theatre until demolished in 1984 when the second Marlowe Theatre opened at The Friars. This second Marlowe was demolished in 2009 to make way for today’s Marlowe on the same site. 
+In 1909, St Margaret's Hall became the Electric Picture Palace. 
+
+The Electric Theatre, no.49, St.Peter’s Street was opened in 1910 and offered silent films and theatre. By 1940 it was run by Captain Julian Bainbridge, manager of The Canterbury Repertory Theatre and known by that name. 
+
+On 8 June 1911, Mayor Francis Goldney Bennett opened the Electric Theatre on St Peter's Street. As he heralded in a new age of theatre, Goldney praised the exterior which was in keeping with "the old architecture of the city" with its Tudor oak panels but also spoke of the importance of keeping pace with the times, predicting that "picture shows" were here to stay.[^ref2] Thanking the theatre owners, Goldney owned that although he did not wish to be thought as a "kill joy", he was grateful that they had promised the City Council not to put on performances on Sunday, as everyone needed at least one day of rest. With its mosaic pavement and glass canopy with incandescent lights
+
+In 1912 it reopened as the Empire Music Hall, then in 1950 it became the first Marlowe Theatre until demolished in 1984 when the second Marlowe Theatre opened at The Friars. This second Marlowe was demolished in 2009 to make way for today’s Marlowe on the same site. 
 
 The Forester’s Hall, no.47, High Street on the south side, opened in 1860 and was created by the Ancient Order of Foresters. (later Nason’s.) 
 
-The Electric Theatre, no.49, St.Peter’s Street was built in 1910 and offered silent films and theatre. By 1940 it was run by Captain Julian Bainbridge, manager of The Canterbury Repertory Theatre and known by that name. 
+
 
 At 30-31, Northgate, a small theatre was converted from a 17th century house. It has been known as the Canterbury Music Hall, Princess (or just) Alexandra Theatre/ Music Hall, Regency Theatre, The Cannon and Royal George. Rumoured to have closed in 1898, in fact it was used as a variety hall until 1989. When it reopened it was called The Penny Theatre, still functioning today as a pub and theatre and is a Grade II listed building. 
 
- 
-
- 
 ### Bibliography 
 
 Arthurlloyd.co.uk 
@@ -146,4 +132,8 @@ The Oxford Dictionary of National Biography
 
 The Victoria and Albert Museum 
 
+### References
+
+[^ref1]: Scaramouche is spelt without the ‘e’ on a playbill in the Goulden Collection, held at the Beaney House of Art and Knowledge, Canterbury.
+[^ref2]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
  
