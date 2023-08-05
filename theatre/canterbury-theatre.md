@@ -42,29 +42,23 @@ The English Civil War 1642 – 1646 stopped theatre completely. After the war, T
 
 The Licensing Act of 1737, or ‘Gagging Act’ as it was popularly known, affected theatre in Britain considerably. Production of plays was restricted to two theatres in London – Covent Garden and Drury Lane.  Scripts were censored by the Lord Chamberlain and his examiners, the Master of Revels, until 1843 when it was lifted. To avoid falling foul of this law, rural theatres would intersperse scenes with a variety of melodrama, burlesque, song and dance. On 17 August 1739, the comedy 'The Tender Husband; Or Accomplished Fools' was performed at The Theatre, Canterbury with entertainments of singing and dancing.[^ref] After the gagging act was lifted, Music Hall became equally, if not more popular than theatre. Starting in the back rooms of pubs, it grew into a ‘working’ peoples entertainment.  
 
-
+‘Canterbury Smith’ or William Smith, who took over Kentish theatres in 1751 from Perry’s ‘Company of Comedians’ hired Roger Kemble in [what year]. He was the father of Sarah Siddons, a well-known and celebrated actress who often played at the Theatre Royal Margate, John Philip Kemble who was considered ‘England’s finest actor’, and Charles Kemble who often appeared in Canterbury. 
 
 In April 1780, ‘The Oaks or The Beauties of Canterbury’, written by Canterbury pastry cook and mantua maker, [Elizabeth Burgess](/18c/18c-burgess-biography/) was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate. It was printed at her own expense and survives in full. The Prologues were spoken by Mr Miell and the Epilogue by Mrs Dawes. The Buttermarket theatre was also used by [Sarah Baker](/18c/18c-baker-biography/) who opened her own theatre in Canterbury in in 1789. 
 
 Sarah Baker was able to entice new actors from London to join her company touring Kent, such as Edmund Kean, Thomas Dibdin, Charles Incledon and Joseph Grimaldi the famous clown. 
 
+Life long members of Sarah Baker’s company were Mr.John Sloman and Mr. Smollett; both wrote and performed songs in between acts. Mrs Baker’s daughter, also Sarah, had married Mr. William Dowton, an actor who’d joined Mrs Baker’s company in 1791. Dowton performed in Canterbury multiple times and ran her theatre empire after her death in 1816. 
+
 On Tuesday, May 6th, 1817, Joseph Grimaldi, whose services had been procured by Mr Dowton, played ‘Bob Acres’ in Richard Brinsley Sheridan’s five part comedy, “The Rivals” at Canterbury Theatre. Grimaldi came from a family of dancers and had performed as a child at Sadler’s Wells, London.  Grimaldi sung one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’ [sic][^ref1] in “DON JUAN or the Libertine Destroyed”. Scaramouche was a stock character from commedia dell’arte, an unreliable servant.  Joseph Grimaldi is remembered as creator of the modern clown, many of his reminiscences are in his memoir, edited by [Charles Dickens](/dickens/dickens-biography). Thomas Dibdin, also employed in Mrs. Baker’s troupe, recommended Grimaldi for the clown in his successful 1806 pantomime, “Harlequin and Mother Goose”. 
 
-Life long members of Sarah Baker’s company were Mr.John Sloman and Mr. Smollett; both wrote and performed songs in between acts. Mrs Baker’s daughter, also Sarah, had married Mr. William Dowton, an actor who’d joined Mrs Baker’s company in 1791. Dowton performed in Canterbury multiple times and ran her theatre empire after her death in 1816. 
+
 
 
 In 1898, the ‘Sarah Thorne Dramatic Company’ presented Dion Boucicault’s ‘The Flying Scud’ at the Theatre Royal, Canterbury. In the play, the hero, Tom Meredith, the villain Grindley Goodge, the comic lead, Nat Gosling and Katey Rideout obsessively follow the fortunes of the eponymous racehorse, and its preparation for the Epsom races. It is from this play where the phrase “I’ve got to see a man about a dog” comes. Sarah Thorne, who was manager of the Theatre Royal in Margate, is best known for opening the first acting school in England which later moved to Chatham. 
 
-
-
-
 Playbill no. 56 – “Theatre Canterbury, March 11th, 1823, Mr.(Edmund) Kean, for strictly two nights only” as the Duke of Gloucester in “Richard III”.                         
 William Dowton as Old Mirabel and Charles Kemble as Young Mirabel in a scene from the “Inconstant”. (no copyright, USA) 
-
-The Kembles were a large family of actors -  Roger Kemble was hired by ‘Canterbury Smith’ or William Smith, who took over Kentish theatres in 1751 from Perry’s ‘Company of Comedians’. Sarah Siddons, a well-known and celebrated actress who often played at the Theatre Royal Margate, was Roger Kemble’s first-born daughter. Her brother, Charles Kemble often appeared in Canterbury. 
-
-John Philip Kemble was considered ‘England’s finest actor’, a position taken up by Edmund Kean afterwards. Sarah Siddons was John’s sister and was considered the greatest tragedian.  
-
 
 Theatre Royal  
 
