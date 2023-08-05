@@ -1,4 +1,8 @@
-Theatre in Canterbury
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Theatre in Canterbury" author="Kate Rendall" layout="vtl" 
+banner="/images/banners/19c.jpg">
+
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
 Between AD80 – 90, the Romans built an Amphitheatre in the St. Margaret’s Street area. 
 Later, Caesar comments; “....by far the most civilized of the Britons, are those who live in Kent.” 
@@ -22,53 +26,20 @@ Between 1491 – 1520, a church warden from the parish of St Dunstan’s noted;
 “Canterbury has it’s own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.” 
 
 **Strolling Players**   
-Strolling or Wandering Players were the prelude to professional Acting Companies. These players were considered ‘vagabonds’ by law, without patronage from a noblemen or royalty. They toured fairgrounds and race meetings presenting a mixture of acrobatics, drama and songs. 
-
-Sometimes, these players were paid not to perform, as the Burghmote book in 1595 notes: 
-
+Strolling or Wandering Players were the prelude to professional Acting Companies. These players were considered ‘vagabonds’ by law, without patronage from a noblemen or royalty. They toured fairgrounds and race meetings presenting a mixture of acrobatics, drama and songs. Sometimes, these players were paid not to perform, as the Burghmote book in 1595 notes: 
+<br><br>
 “....there shall not be any playes enterludes tragedies or comedies be played or players suffered to playe within this Cittie on any Sabaothe days nor above twoe dayes together at any tyme.” 
-
- 
 
 In 1603, The Plague hit London, everything closed. Actors were forced to flee to the provinces; performing in Canterbury, Faversham, Maidstone, Dover, New Romney and Lydd. 
 
- 
-
 The English Civil War 1642 – 1646 stopped theatre completely. 
 
- After the Civil war ended, The Puritans still suppressed theatre; players were seized and punished; buildings demolished. 
-
-                                             File:The thespian congress, or the siddonses of the barn. (BM 1868,0808.5073).jpg                    ’Strolling Players’ print. (wikimedia) 
-
- 
-
- 
-
- 
-
-The Licensing Act of 1737, or ‘Gagging Act’ as it was popularly known, affected theatre in Britain considerably. Production of plays was restricted to two theatres in London – Covent Garden and Drury Lane. 
-
-Scripts were censored by the Lord Chamberlain and his examiners, the Master of Revels, until 1843 when it was lifted. To avoid falling foul of this law, especially rural theatres would intersperse scenes with a variety of melodrama, burlesque, song and dance. 
-
-Melodrama – borrowed from Italian, meaning opera, it has become a theatrical term for a drama where the words are spoken to music; with stock characters exaggerated. 
-
-Burlesque – also from Italian: burla – to mock or ridicule an existing figure.  
-
-                                                             
-
-Local Playwrights 
-
- 
-
+After the Civil war ended, The Puritans still suppressed theatre; players were seized and punished; buildings demolished. 
+                                           
+The Licensing Act of 1737, or ‘Gagging Act’ as it was popularly known, affected theatre in Britain considerably. Production of plays was restricted to two theatres in London – Covent Garden and Drury Lane.  Scripts were censored by the Lord Chamberlain and his examiners, the Master of Revels, until 1843 when it was lifted. To avoid falling foul of this law, especially rural theatres would intersperse scenes with a variety of melodrama, burlesque, song and dance. 
+                                                            
+**Local Playwrights**    
 In 1564, Christopher (Kit)Marlowe was born. His most famous plays are : Dr Faustus, Tamberlaine and The Jew Of Malta. 
-
- 
-
-Christopher Marlowe (wikimedia) 
-
- 
-
- 
 
 Also from this era, three dramatists with connections to Canterbury were: 
 
@@ -78,9 +49,7 @@ John Lyly, went to the King’s School, Canterbury before Oxford University. He 
 
 Stephen Gosson, was christened in St.George’s parish, Canterbury. He became an actor and playwright best known for his ‘The School Of Abuse’ pamphlet; criticizing theatre and art alike, claiming they ‘fostered social evils, such as prostitution’. 
 
- 
-
- Leading Women 
+**Leading Women**   
 
 Aphra Behn 1640?-1689 
 
@@ -91,10 +60,6 @@ Aphra Behn, (or Eaffrey Johnson) was born in Bishopsbourne, Sturry, Canterbury, 
 According to some, Aphra Behn was involved in espionage for King Charles II, trusted with an important mission by courtier Thomas Killigrew. 
 
 Over the years, Behn staged nineteen plays and most likely contributed to more. ‘The Amorous Prince’ was staged in 1671 and ‘The Young King’ in 1679, both tragicomedies of sex and power struggles, where Behn excelled. 
-
- 
-
- 
 
 Sarah Baker (nee Wakelin)1736/7-1816 
 
@@ -108,38 +73,15 @@ Sarah went on to build theatres in Rochester 1791, Maidstone 1798 and Tunbridge 
 
 Her success as a theatre manager was in part due to her ability to entice new actors from London to join her company in touring Kent. Edmund Kean, Thomas Dibdin, Charles Incledon and Joseph Grimaldi the famous clown, are just a few of the rising stars Sarah Baker gave opportunities to and later, was able to start producing patent plays. 
 
-                                        
-
- Joseph (senior) and Joseph Grimaldi. (wikimedia) 
-
 Life long members of Sarah Baker’s company were Mr.John Sloman and Mr. Smollett; both wrote and performed songs in between acts. 
 
- 
 
- 
-
- 
-
-Edmund Kean as Richard III. (wikimedia) 
-
- 
 
 When Sarah Baker died in Rochester, just shy of 80 years old, her grandson estimated her estate to be worth over £20,000 in today’s money; a figure most women could only dream of. 
 
 Mrs Baker’s daughter, also Sarah, had married Mr. William Dowton, an actor who’d joined Mrs Baker’s company in 1791. Dowton performed in Canterbury multiple times and ran her theatre empire after her death in 1816. 
 
 Dover and Margate were the only towns Mrs Baker could not monopolize. This was due to a retired sea captain, Charles Mate, getting there first, and influencing those who mattered. 
-
- 
-
- 
-
-                                                      
-
-William Dowton. (wikimedia) 
-
- 
-
  
 
 Sarah Thorne 
@@ -152,51 +94,9 @@ Dion Boucicault or Dionysis Lardner Boursiquot (from a Huguenot family), was an 
 
 The Coleen Bawn was another popular melodrama written by Boucicault. In America at the time, Boucicault based his play on an 1829 Gerald Griffin murder novel, ‘The Collegians’, with Boucicault substituting a happy ending, it opened at Laura Keene’s theatre, N.Y. in 1860, later transferring to London and provincial theatres. 
 
-                                                                             
-
-Dion Boucicault in 1878. (wikimedia) 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Jean Napier Baker (no relation to Sarah Baker) emphasizes in her dissertation, how few records exist for the eighteenth century in provincial theatres. Her thesis, written over twenty years ago, is still the only detail available for this era in Kent. Although the University of Kent houses several theatre collections, as with other establishments, the information is unavailable online. 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 At The Beaney... 
 
@@ -210,47 +110,26 @@ Grimaldi sings one of his best loved songs; ‘Tipitywichet’, before playing �
 
 Joseph Grimaldi is remembered as creator of the modern clown, many of his reminiscences are in his memoir, edited by Charles Dickens. Thomas Dibdin, also employed in Mrs. Baker’s troupe, recommended Grimaldi for the clown in his successful 1806 pantomime, “Harlequin and Mother Goose”. 
 
-Playbill no. 56 – “Theatre Canterbury, March 11th, 1823, Mr.(Edmund) Kean, for strictly two nights only” as the Duke of Gloucester in “Richard III”. 
-
- 
-
-                               
-
+Playbill no. 56 – “Theatre Canterbury, March 11th, 1823, Mr.(Edmund) Kean, for strictly two nights only” as the Duke of Gloucester in “Richard III”.                         
 William Dowton as Old Mirabel and Charles Kemble as Young Mirabel in a scene from the “Inconstant”. (no copyright, USA) 
 
 The Kembles were a large family of actors -  Roger Kemble was hired by ‘Canterbury Smith’ or William Smith, who took over Kentish theatres in 1751 from Perry’s ‘Company of Comedians’. Sarah Siddons, a well-known and celebrated actress who often played at the Theatre Royal Margate, was Roger Kemble’s first-born daughter. Her brother, Charles Kemble (11th born) often appeared in Canterbury. 
 
 John Philip Kemble was considered ‘England’s finest actor’, a position taken up by Edmund Kean afterwards. Sarah Siddons was John’s sister and was considered the greatest tragedian.  
 
- 
-
-                                         
-
- 
-
- 
-
- 
-
- 
-
-The Chequer Of The Hope 
+**The Chequer Of The Hope**
 
 The Chequer of The Hope was a group of buildings on the west side of Mercery Lane and the High Street. Refurbished in 1392 by the monks of Chillenden Priory for pilgrims visiting Thomas Becket’s shrine, The Hope was extended in 1435 when ‘The Crown Inn’ next door was purchased. 
 
 The inn served as a theatre venue, with a galleried courtyard, workshops, surrounded by two floors accomodating up to 100 pilgrims. The complex is mentioned in Chaucer’s ‘Tale of Beryn’ from the ‘Canterbury Tales’ and was also known as the ‘Chaucer Inn’. Records of performances and entertainments exist for this venue. Sadly, it was badly burnt in 1865, although some of the facades are still visible on Mercery Lane.  
 
-The Buttermarket 
+**The Buttermarket** 
 
 The Buttermarket was also known as the market-cross or bull-stake and was used as a theatre venue by Mrs Baker among others, offering shelter from the elements. 
 
-The Guildhall 
+**The Guildhall**
 
 Around AD1180, Canterbury’s Guild Hall was built on the corner of the High Street and Guildhall Street. Mainly used for municipal purposes, occasionally it held musical events. 
-
- 
-
- 
 
 Theatre Royal  
 
@@ -284,27 +163,13 @@ St.Margaret’s Hall, opened as the ‘New Music Hall’ at no.12, St.Margaret�
 
 One such event is listed for May 8th, 1876, on playbill no.223 - “Music Hall, Canterbury.......Strange and Wilsons Aetherscope adaptation of a Christmas Carol....Scene II- Cornhill by night – Sir Roger de Coverley...” (a country dance). 
 
- 
-
 At the same location, in 1909 just before the First World War, the Electric Picture Palace opened. In 1912 it reopened as the Empire Music Hall, then in 1950 it became the first Marlowe Theatre until demolished in 1984 when the second Marlowe Theatre opened at The Friars. This second Marlowe was demolished in 2009 to make way for today’s Marlowe on the same site. 
 
 The Forester’s Hall, no.47, High Street on the south side, opened in 1860 and was created by the Ancient Order of Foresters. (later Nason’s.) 
 
 The Electric Theatre, no.49, St.Peter’s Street was built in 1910 and offered silent films and theatre. By 1940 it was run by Captain Julian Bainbridge, manager of The Canterbury Repertory Theatre and known by that name. 
 
- 
-
 At 30-31, Northgate, a small theatre was converted from a 17th century house. It has been known as the Canterbury Music Hall, Princess (or just) Alexandra Theatre/ Music Hall, Regency Theatre, The Cannon and Royal George. Rumoured to have closed in 1898, in fact it was used as a variety hall until 1989. When it reopened it was called The Penny Theatre, still functioning today as a pub and theatre and is a Grade II listed building. 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 After the gagging act was lifted in 1843, Music Hall became equally, if not more popular than theatre. Starting in the back rooms of pubs, it grew into a ‘working’ peoples entertainment.  
 
