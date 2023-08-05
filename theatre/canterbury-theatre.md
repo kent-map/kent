@@ -24,15 +24,7 @@ Between 1491 – 1520, a church warden from the parish of St Dunstan’s noted;
 “Canterbury has it’s own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.” 
 
 **Strolling Players**   
-Strolling or Wandering Players were the prelude to professional Acting Companies. These players were considered ‘vagabonds’ by law, without patronage from a noblemen or royalty. They toured fairgrounds and race meetings presenting a mixture of acrobatics, drama and songs. Sometimes, these players were paid not to perform, as the Burghmote book in 1595 notes: 
-<br><br>
-“....there shall not be any playes enterludes tragedies or comedies be played or players suffered to playe within this Cittie on any Sabaothe days nor above twoe dayes together at any tyme.” 
 
-In 1603, The Plague hit London, everything closed. Actors were forced to flee to the provinces; performing in Canterbury, Faversham, Maidstone, Dover, New Romney and Lydd. 
-
-The English Civil War 1642 – 1646 stopped theatre completely. 
-
-After the Civil war ended, The Puritans still suppressed theatre; players were seized and punished; buildings demolished. 
                                            
 The Licensing Act of 1737, or ‘Gagging Act’ as it was popularly known, affected theatre in Britain considerably. Production of plays was restricted to two theatres in London – Covent Garden and Drury Lane.  Scripts were censored by the Lord Chamberlain and his examiners, the Master of Revels, until 1843 when it was lifted. To avoid falling foul of this law, especially rural theatres would intersperse scenes with a variety of melodrama, burlesque, song and dance. After the gagging act was lifted, Music Hall became equally, if not more popular than theatre. Starting in the back rooms of pubs, it grew into a ‘working’ peoples entertainment. 
                                                             
@@ -43,10 +35,18 @@ The Chequer of The Hope was a pilgrim's inn on the west side of Mercery Lane and
 
 John ‘Bileous' Bale (1495-1563), famed for his vitriolic language attacking the Catholic church, wrote 'King John' which it is argued is the earliest historical drama in English.[^ref] (Brown, Hutchinson and Irwin _Written City_) It was probably performed at St Stephens in 1538. 
 
-[John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He ran the first theatre in Blackfriars, London and was known for his euphuistic style, which was emulated by another Canterbury playwright, Stephen Gosson (1554-1624), who was christened in St.George’s parish. None of his plays survive. He later became vehemently opposed to the theatre, writing ‘The School Of Abuse’, which argued that theatre ‘fostered social evils’ and that 'every Wanton and his paramour, every man and his Mistresse, every John and his Joan, every knave and his queane' were corrupted under their roofs on the Sabbath.
 
+[John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He ran the first theatre in Blackfriars, London and was known for his euphuistic style, which was emulated by another Canterbury playwright, Stephen Gosson (1554-1624), who was christened in St.George’s parish. None of Gosson's plays survive, but he later became vehemently opposed to the theatre, writing ‘The School Of Abuse, Conteining a pleasant invective against Poets, Pipers, Plaiers, Jesters and such like Caterpillars of a Commonwealth’ in 1579. In it he argued that theatre ‘fostered social evils’ and that 'every Wanton and his paramour, every man and his Mistresse, every John and his Joan, every knave and his queane' were corrupted there on the Sabbath.
 
-[Aphra Behn](/17c/17c-behn-biography/) (1640?-1689), (or Eaffrey Johnson), playwright and well-known author of Oroonoko, was born in Harbledown. During the 1660’s she wrote ‘The Forc’d Marriage’ for the Duke’s Company under Thomas Betterton, actor and manager. The Duke’s Company was one of two theatre companies (the other, King’s) chartered by Charles I and allowed to perform complete dramas.  Over the years, Behn staged nineteen plays and most likely contributed to more. ‘The Amorous Prince’ was staged in 1671 and ‘The Young King’ in 1679, both tragicomedies of sex and power struggles, where Behn excelled. 
+Strolling or Wandering Players, considered ‘vagabonds’ by law, and without patronage from a noblemen or royalty, toured fairgrounds and race meetings presenting a mixture of acrobatics, drama and songs. Sometimes, these players were paid not to perform, as the Burghmote book in 1595 notes: 
+<br><br>
+“....there shall not be any playes enterludes tragedies or comedies be played or players suffered to playe within this Cittie on any Sabaothe days nor above twoe dayes together at any tyme.” 
+<br><br>
+When the Plague hit London in 1603 and the London theatres closed, actors fled to the provinces; performing in Canterbury, Faversham, Maidstone, Dover, New Romney and Lydd.
+
+The English Civil War 1642 – 1646 stopped theatre completely. After the war, The Puritans still suppressed theatre; players were seized and punished and buildings demolished. 
+
+[Aphra Behn](/17c/17c-behn-biography/) (1640?-1689), (or Eaffrey Johnson), playwright and well-known author of Oroonoko, was born in Harbledown around 1640. During the 1660’s she wrote ‘The Forc’d Marriage’ for the Duke’s Company under Thomas Betterton, actor and manager. The Duke’s Company was one of two theatre companies (the other, King’s) chartered by Charles I and allowed to perform complete dramas.  Over the years, Behn staged nineteen plays and most likely contributed to more. ‘The Amorous Prince’ was staged in 1671 and ‘The Young King’ in 1679, both tragicomedies of sex and power struggles, where Behn excelled. 
 
 In April 1780, ‘The Oaks or The Beauties of Canterbury’, written by Canterbury pastry cook and mantua maker, [Elizabeth Burgess](/18c/18c-burgess-biography/) was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate. It was printed at her own expense and survives in full. The Prologues were spoken by Mr Miell and the Epilogue by Mrs Dawes. The Buttermarket theatre was also used by [Sarah Baker](/18c/18c-baker-biography/) 
 
