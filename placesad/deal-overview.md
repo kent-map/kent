@@ -105,11 +105,11 @@ Thank you to staff at The History Hub and History Project for all your guidance.
 [^ref2]: Smith, 10.
 [^ref3]: History Matters, 2018.
 [^ref4]: Smith, 10.
-[^ref5]: Holyoake, 40.
+[^ref5]: Holyoake, Greogry. _Secret Deal and Walmer_ Amberley Publishing Limited, 2021, 40.
 [^ref6]: History Matters, 2019.
-[^ref7]: Laker, 156.
+[^ref7]: Laker, John. _History of Deal_, T.F. Pains and Son, 1921, 156.
 [^ref8]: Smith, 13.
-[^ref9]: Olhmeyer, 2023.
+[^ref9]: Ohlmeyer, 2023.
 [^ref10]: Holyoake and Burnham, 2009.
 [^ref11]: Holyoake, 103.
 [^ref12]: Smith, 17.
@@ -119,8 +119,8 @@ Thank you to staff at The History Hub and History Project for all your guidance.
 [^ref16]: 9.
 [^ref17]: 69.
 [^ref18]: 82.
-[^ref19]: Bullock, Bullock, Knapp and Lukacs, 2023.
-[^ref20]: Collyer, 2009, 2.
+[^ref19]: Britannica.com.
+[^ref20]: Collyer, David. _Deal and District at War_ The History Press, 2009, 2.
 [^ref21]: Smith, 31.
 [^ref22]: 21.
 [^ref23]: Collyer, 12.
