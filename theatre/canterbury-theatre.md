@@ -4,7 +4,7 @@ banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q618045" aliases="Margate">
 
-Canterbury has a long history of theatrical entertainment dating back to the Roman times. Between AD 80–90, a theatre was built in the St. Margaret’s Street area where spectators could sit on a gravel bank to enjoy the performances (weather permitting).[^ref1] In the 3rd century, a ‘D’ shaped, Flavian style (AD 201-300) theatre with a wet weather awning was built in the same location, which could seat around 3,000.[^ref3] 
+Canterbury has a long history of theatrical entertainment dating back to the Roman times. Between AD 80–90, a theatre was built in the St. Margaret’s Street area where spectators could sit on a gravel bank to enjoy the performances (weather permitting).[^ref1] In the 3rd century, a ‘D’ shaped, Flavian style (AD 201-300) theatre with a wet weather awning was built in the same location, which could seat around 3,000 - possibly the largest in the country.[^ref3] 
 <br><br>
 By Anglo Saxon times, the amphitheatre along with many of the other city's buildings had decayed and the city lay abandoned. 
 
