@@ -30,6 +30,12 @@ A series of short essays covers a range of themes that help explain how Canterbu
 
 The town of Deal first developed a mile or so inland. But in seventeenth century “Lower Deal”, a network of streets running north of Deal Castle, began to call the shots.
 
+## Deal's War on the Shore {href=/placesad/deal-war}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+
+Primarily known for its long stretch of shingle beach, Deal may appear like any seaside town to most, but there is a vast history below the waves and onshore. The town has been involved in war and conflict throughout time.
+
 ## Dover in the 19th century {href=/19c/19c-dover/}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5681241b-c069-45f0-8da5-fecdb173465a)
