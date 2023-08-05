@@ -6,7 +6,7 @@ banner="/images/banners/19c.jpg">
 
 Canterbury has a long history of theatrical entertainment dating back to the Roman times. Between AD 80–90, an amphitheatre was built in the St. Margaret’s Street area where spectators could sit on a gravel bank to enjoy the performances (weather permitting).[^ref1] In the 3rd century, a ‘D’ shaped, Flavian style (AD 201-300) amphitheatre was built in the same location, which could seat around 3,000.[^ref2] 
 <br><br>
-By Anglo Saxon times, the amphitheatre along with many of the other city's buildings had decayed. 
+By Anglo Saxon times, the amphitheatre along with many of the other city's buildings had decayed and the city lay abandoned. 
 
 St Augustine and Church dramas 
 
