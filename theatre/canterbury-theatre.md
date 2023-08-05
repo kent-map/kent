@@ -5,11 +5,7 @@ banner="/images/banners/19c.jpg">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
 Canterbury has a long history of theatrical entertainment. Between AD80 – 90, the Romans built an Amphitheatre in the St. Margaret’s Street area. 
-Later, Caesar comments; “....by far the most civilized of the Britons, are those who live in Kent.” 
-
-In the 3rd century, a ‘D’ shaped, Flavian style (AD201-300) Amphitheatre was built in the same location.  
-
-Under The Anglo Saxons, the theatre was left to decay – The Normans used some of its masonry for their buildings. 
+In the 3rd century, a ‘D’ shaped, Flavian style (AD201-300) Amphitheatre was built in the same location.  By Anglo Saxon times, the amphitheatre had decayed. 
 
 St Augustine and Church dramas 
 
@@ -39,45 +35,29 @@ After the Civil war ended, The Puritans still suppressed theatre; players were s
 The Licensing Act of 1737, or ‘Gagging Act’ as it was popularly known, affected theatre in Britain considerably. Production of plays was restricted to two theatres in London – Covent Garden and Drury Lane.  Scripts were censored by the Lord Chamberlain and his examiners, the Master of Revels, until 1843 when it was lifted. To avoid falling foul of this law, especially rural theatres would intersperse scenes with a variety of melodrama, burlesque, song and dance. After the gagging act was lifted, Music Hall became equally, if not more popular than theatre. Starting in the back rooms of pubs, it grew into a ‘working’ peoples entertainment. 
                                                             
 **Local Playwrights**    
-Christopher (Kit) Marlowe who was born in Canterbury in 1564. His most famous plays are : Dr Faustus, Tamberlaine and The Jew Of Malta. 
+Christopher (Kit) Marlowe, Tudor spy and playwright, was born in Canterbury in 1564. His most famous plays are : Dr Faustus, Tamberlaine and The Jew Of Malta. In [when] Christopher Marlowe attacked William Corkine with a staff and dagger at the Chequer of Hope.
 
-John ‘Bileous' Bale wrote King John and was famed for his vitriolic language attacking the Catholic church. 
+The Chequer of The Hope was a pilgrim's inn on the west side of Mercery Lane and the High Street. Refurbished in 1392 by the monks of Chillenden Priory for pilgrims visiting Thomas Becket’s shrine, The Hope was extended in 1435 when ‘The Crown Inn’ next door was purchased. The inn served as a theatre venue, with a galleried courtyard, workshops, surrounded by two floors accomodating up to 100 pilgrims. The complex is mentioned in the fifeenth century ‘Tale of Beryn’ and was also known as the ‘Chaucer Inn’. Records of performances and entertainments exist for this venue. Sadly, it was badly burnt in 1865, although some of the facades are still visible on Mercery Lane. 
 
-[John Lyly](/16c/16c-lyly-biography/), went to the King’s School, Canterbury before Oxford University. He went on to run the first theatre in Blackfriars, London and although known for his prose, Lyly pioneered writing specifically for children’s companies. 
+John ‘Bileous' Bale who was famed for his vitriolic language attacking the Catholic church wrote 'King John'.
 
-Stephen Gosson, was christened in St.George’s parish, Canterbury. He became an actor and playwright best known for his ‘The School Of Abuse’ pamphlet; criticizing theatre and art alike, claiming they ‘fostered social evils, such as prostitution’. 
+[John Lyly](/16c/16c-lyly-biography/) (c.1553-1606), whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city. He went on to run the first theatre in Blackfriars, London and although known for his prose, Lyly pioneered writing specifically for children’s companies. 
 
-**Leading Women**   
+Actor and playwright, Stephen Gosson (1554-1624), was christened in St.George’s parish, Canterbury. He later became vehemently opposed to the theatre writing ‘The School Of Abuse’ pamphlet, which argued that theatre ‘fostered social evils, such as prostitution’. 
 
-Aphra Behn 1640?-1689 
 
-[Aphra Behn](/17c/17c-behn-biography/), (or Eaffrey Johnson), the well-known author of Oroonoko, she was also a phenomenal playwright. was born in Bishopsbourne, Sturry, Canterbury, Wye or Harbledown. T During the 1660’s she wrote ‘The Forc’d Marriage’ for the Duke’s Company under Thomas Betterton, actor and manager. 
+[Aphra Behn](/17c/17c-behn-biography/) (1640?-1689), (or Eaffrey Johnson), playwright and well-known author of Oroonoko, was born in Harbledown. During the 1660’s she wrote ‘The Forc’d Marriage’ for the Duke’s Company under Thomas Betterton, actor and manager. The Duke’s Company was one of two theatre companies (the other, King’s) chartered by Charles I and allowed to perform complete dramas.  Over the years, Behn staged nineteen plays and most likely contributed to more. ‘The Amorous Prince’ was staged in 1671 and ‘The Young King’ in 1679, both tragicomedies of sex and power struggles, where Behn excelled. 
 
- The Duke’s Company was one of two theatre companies (the other, King’s) chartered by Charles I and allowed to perform complete dramas. 
+In April 1780, ‘The Oaks or The Beauties of Canterbury’, written by Canterbury pastry cook and mantua maker, [Elizabeth Burgess](/18c/18c-burgess-biography/) was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate. It was printed at her own expense and survives in full. The Prologues were spoken by Mr Miell and the Epilogue by Mrs Dawes. The Buttermarket theatre was also used by [Sarah Baker](/18c/18c-baker-biography/) 
 
-According to some, Aphra Behn was involved in espionage for King Charles II, trusted with an important mission by courtier Thomas Killigrew. 
-
-Over the years, Behn staged nineteen plays and most likely contributed to more. ‘The Amorous Prince’ was staged in 1671 and ‘The Young King’ in 1679, both tragicomedies of sex and power struggles, where Behn excelled. 
-
-Sarah Baker (nee Wakelin)1736/7-1816 
-
-The Buttermarket, also known as the market-cross or bull-stake, was used as a theatre venue by Mrs Baker among others. In 1789, [Sarah Baker](/18c/18c-baker-biography/) opened the first theatre in Canterbury. e ‘New Theatre’ on Orange Street was also known as the ‘Prince of Orange Theatre’ and later, Theatre Royal (by 1851).  
+In 1789, [Sarah Baker](/18c/18c-baker-biography/) opened the first theatre in Canterbury. e ‘New Theatre’ on Orange Street was also known as the ‘Prince of Orange Theatre’ and later, Theatre Royal (by 1851).  
 
 Her success as a theatre manager was in part due to her ability to entice new actors from London to join her company in touring Kent. Edmund Kean, Thomas Dibdin, Charles Incledon and Joseph Grimaldi the famous clown, are just a few of the rising stars Sarah Baker gave opportunities to and later, was able to start producing patent plays. 
 
-Life long members of Sarah Baker’s company were Mr.John Sloman and Mr. Smollett; both wrote and performed songs in between acts. 
+Life long members of Sarah Baker’s company were Mr.John Sloman and Mr. Smollett; both wrote and performed songs in between acts. Mrs Baker’s daughter, also Sarah, had married Mr. William Dowton, an actor who’d joined Mrs Baker’s company in 1791. Dowton performed in Canterbury multiple times and ran her theatre empire after her death in 1816. 
 
-Mrs Baker’s daughter, also Sarah, had married Mr. William Dowton, an actor who’d joined Mrs Baker’s company in 1791. Dowton performed in Canterbury multiple times and ran her theatre empire after her death in 1816. 
 
-Sarah Thorne 
-
-From a large theatre family, Sarah Thorne is best known for opening the first acting school in England. She was manager of the Theatre Royal in Margate, where she opened her school, which later moved to Chatham. 
-
-In 1898, the ‘Sarah Thorne Dramatic Company’ presented: Dion Boucicault’s ‘The Flying Scud’ at the Theatre Royal, Canterbury; and is where the phrase “I’ve got to see a man about a dog” comes from. 
-
-Dion Boucicault or Dionysis Lardner Boursiquot (from a Huguenot family), was an actor and Irish playwright; the first to portray sporting heroes in the spectacular melodrama genre. In the Flying Scud, the plot follows a group of people obsessed with the racehorse, its preparation and the Epsom races. The hero is Tom Meredith, the villain Grindley Goodge, the comic lead is Nat Gosling and the female lead, Katey Rideout.  
-
-The Coleen Bawn was another popular melodrama written by Boucicault. In America at the time, Boucicault based his play on an 1829 Gerald Griffin murder novel, ‘The Collegians’, with Boucicault substituting a happy ending, it opened at Laura Keene’s theatre, N.Y. in 1860, later transferring to London and provincial theatres. 
+In 1898, the ‘Sarah Thorne Dramatic Company’ presented Dion Boucicault’s ‘The Flying Scud’ at the Theatre Royal, Canterbury. In the play, the hero, Tom Meredith, the villain Grindley Goodge, the comic lead, Nat Gosling and Katey Rideout obsessively follow the fortunes of the eponymous racehorse, and its preparation for the Epsom races. It is from this play where the phrase “I’ve got to see a man about a dog” comes. Sarah Thorne, who was manager of the Theatre Royal in Margate, is best known for opening the first acting school in England which later moved to Chatham. 
 
 
 At The Beaney... 
@@ -101,7 +81,7 @@ John Philip Kemble was considered ‘England’s finest actor’, a position tak
 
 **The Chequer Of The Hope**
 
-The Chequer of The Hope was a group of buildings on the west side of Mercery Lane and the High Street. Refurbished in 1392 by the monks of Chillenden Priory for pilgrims visiting Thomas Becket’s shrine, The Hope was extended in 1435 when ‘The Crown Inn’ next door was purchased. The inn served as a theatre venue, with a galleried courtyard, workshops, surrounded by two floors accomodating up to 100 pilgrims. The complex is mentioned in Chaucer’s ‘Tale of Beryn’ from the ‘Canterbury Tales’ and was also known as the ‘Chaucer Inn’. Records of performances and entertainments exist for this venue. Sadly, it was badly burnt in 1865, although some of the facades are still visible on Mercery Lane.  
+ 
 
 **The Buttermarket** 
 
