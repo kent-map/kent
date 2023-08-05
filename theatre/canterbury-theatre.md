@@ -53,7 +53,11 @@ In 1838, the Theatre on Orange Street was run by Mr. John Sloman.
 
 Thomas Sidney Cooper painted scenery in the ‘New Theatre’ on Orange Street with Mr Doyle. Back in the 1820s he also painted scenery for the theatre in Hastings, where he met and remained lifelong friends with actor Edmund Kean. 
 
-In 1860, Sidney Cooper, was persuaded by Mr John Baker and Sir Frederick Ponsoby Fane (later Earl of Bessborough), members of the Old Stagers, Canterbury's amateur dramatic group, to build a new theatre.  The Theatre Royal, under the management of W.E. Mills, opened in September 1861. On November 4th, 'For one night only' [Charles Dickens](/dickens/dickens-biography) read six chapters of _David Copperfield_ at the Theatre Royal. The report of Dickens's visit in _The Canterbury Journal, Kentish Times and Farmers' Gazette_ was slightly ambivalent about the talents of the great man, as the journalist asked whether there were six chapters of _David Copperfield_ 'worthy the elaborate reading bestowed on them by their author.'[^ref] The reporter also observed that 'his box audience was very large, but the pit and gallery folk have yet to appreciate the great novelist.' The _Kentish Chronicle_ was less ascerbic, describing the house as 'fully and fashionably attended'.[^ref]  The Theatre Royal closed on 30th January, 1926 and was sold to the Lefevre brothers. (Debenhams)  
+In 1860, Sidney Cooper, was persuaded by Mr John Baker and Sir Frederick Ponsoby Fane (later Earl of Bessborough), members of the Old Stagers, Canterbury's amateur dramatic group, to build a new theatre.  The Theatre Royal, under the management of W.E. Mills, opened in September 1861. On November 4th, 'For one night only' [Charles Dickens](/dickens/dickens-biography) read six chapters of _David Copperfield_ at the Theatre Royal. The report of Dickens's visit in _The Canterbury Journal, Kentish Times and Farmers' Gazette_ was slightly ambivalent about the talents of the great man, as the journalist asked whether there were six chapters of _David Copperfield_ 'worthy the elaborate reading bestowed on them by their author.'[^ref] The reporter also observed that 'his box audience was very large, but the pit and gallery folk have yet to appreciate the great novelist.' The _Kentish Chronicle_ was less ascerbic, describing the house as 'fully and fashionably attended'.[^ref] 
+
+Richard Thorne, Lessee of the Margate Theatre, booked the Canterbury Theatre Royal for his Powerful Dramatic Company in October 1863. He was the father of Sarah Thorne, who later became the manager of the Theatre Royal in Margate and is best known for opening the first acting school in England, which later moved to Chatham. In August 1891, Sarah booked the theatre for three nights for a performance by [Ellen Terry](/20c/20c-terry-biography) of Nance Oldfield in Charles Reade's comedy. In 1898, the ‘Sarah Thorne Dramatic Company’ presented Dion Boucicault’s ‘The Flying Scud’ at the Canterbury Theatre. In the play, the hero, Tom Meredith, the villain Grindley Goodge, the comic lead, Nat Gosling and Katey Rideout obsessively follow the fortunes of the eponymous racehorse, and its preparation for the Epsom races. It is from this play where the phrase “I’ve got to see a man about a dog” comes. As well as visiting theatre companies, the theatre was used by amateur groups such as The Old Stagers and the Rifle Volunteers.
+
+In 1913, the Theatre Royal was reopened and refurbished by Mr S. Lipman of the Empire Kinematograph Theatre.[^ref] The Theatre Royal closed on 30th January, 1926 and was sold to the Lefevre brothers. (Debenhams)  
 
 In 1852, the Victoria Concert Rooms, no.3 Lower Bridge Street were renamed St. George’s Hall. In 1923 it became The Queen’s Concert Hall and Ballroom until 1927, when it was known as The County Hall until 1939. 
 
@@ -63,7 +67,7 @@ St.Margaret’s Hall, opened as the ‘New Music Hall’ at no.12, St.Margaret�
 
 On May 8th, 1876, a Strange and Wilsons Aetherscope adaptation of a Christmas Carol....Scene II- Cornhill by night – Sir Roger de Coverley...” (a country dance). 
 
-In 1898, the ‘Sarah Thorne Dramatic Company’ presented Dion Boucicault’s ‘The Flying Scud’ at the Theatre Royal, Canterbury. In the play, the hero, Tom Meredith, the villain Grindley Goodge, the comic lead, Nat Gosling and Katey Rideout obsessively follow the fortunes of the eponymous racehorse, and its preparation for the Epsom races. It is from this play where the phrase “I’ve got to see a man about a dog” comes. Sarah Thorne, who was manager of the Theatre Royal in Margate, is best known for opening the first acting school in England which later moved to Chatham. 
+
                       
 In 1909, St Margaret's Hall became the Electric Picture Palace. 
 
@@ -73,6 +77,8 @@ On 8 June 1911, Mayor Francis Goldney Bennett opened the Electric Theatre at 49,
 In January 1916, under the management of Mr A. Dobson, four reels 'brimful of exciting incidents' were shown over the New Year period, including 'A Society Woman's Ordeal' (an appealing story of a society woman's sacrifice), 'His Lucky Vacation', 'No flirting allowed' and 'Wiffles in Wartime', a story about a hen-pecked husband. Wiffles, an endearing buffoon, was the creation of Pathe Freres and seems to have featured in several films, as Canterbury was treated to 'Wiffles in a Musical Vein' just under a week later. This programme was followed later in the month by 'The Exploits of Elaine'(part six), 'The Rounders' featuring Charlie Chaplin, 'The Professional Diner' and 'The Ascent of Mont Blanc'.[^ref3] 
 <br><br>
 By August 1936, it was known as the Odeon Hall and run by Captain (Percy) Julian Bainbridge, as The Canterbury Repertory Theatre. Bainbridge promised plays by first-class authors including George Bernard Shaw, Galsworthy, Priestley and [Noel Coward](/20c/20c-coward-biography/) etc.  Bainbridge had run theatres in Whitby and South Shields, as well as worked at the Leicester Square Theatre before taking a lease on the Royal Theatre, Margate in 1931. However he complained that "competition from the talking pictures and the fine weather of 1931-2" led to poor sales and he filed for bankruptcy in 1934. In February 1936, he set up a Repertory Theatre in Tonbridge where he, his wife and daughter Hazel all performed in the productions. Hazel went on to have a screen career acting in Middlemarch (1968), Great Expectations (1967) and David Copperfield (1974). Bainbridge gave up the Tonbridge Reportory Theatre in 1938, but continued in Canterbury for a little longer before moving on to his next venture.  
+
+
 
 In 1912 it reopened as the Empire Music Hall, then in 1950 it became the first Marlowe Theatre until demolished in 1984 when the second Marlowe Theatre opened at The Friars. This second Marlowe was demolished in 2009 to make way for today’s Marlowe on the same site. 
 
@@ -101,4 +107,5 @@ The Victoria and Albert Museum
 [^ref]: "Mr Charles Dickens's reading." _Kentish Chronicle_ - Saturday 09 November 1861.
 [^ref2]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
 [^ref3]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
+[^ref3]:Kinematograph Weekly - Thursday 10 July 1913
  
