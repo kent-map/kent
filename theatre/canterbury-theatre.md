@@ -122,14 +122,14 @@ The Victoria and Albert Museum
 [^ref1]: Bateman, Audrey. _Hail, Mother of England: a Social History of Canterbury_. Rochester Press, 1984, 2.
 [^ref2]: Canterbury Archaeological Trust.
 [^ref3]: Frampton, George. _Discordant Comicals: the Hooden Horse of East Kent_ 23
-[^ref4]: Manners, David. _Canterbury Stage By Stage_
+[^ref4]: Manners, David. _Canterbury Stage By Stage_ 2011.
 [^ref5]: Brown, Hutchinson and Irwin _Written City_ 
 [^ref6]: King, John N. "Bale, John (1495–1563), bishop of Ossory, evangelical polemicist, and historian." _Oxford Dictionary of National Biography_.  October 08, 2009. Oxford University Press. Date of access 5 Aug. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-1175>
 [^ref6]: Nicholl, Charles. "Marlowe [Marley], Christopher (bap. 1564, d. 1593), playwright and poet." Oxford Dictionary of National Biography.  January 03, 2008. Oxford University Press. Date of access 5 Aug. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18079>
 [^ref7]:[The School of Abuse](https://ia801600.us.archive.org/33/items/schooleofabuseau00goss/schooleofabuseau00goss.pdf) 25.
-[^ref8]: Manners, David. _Canterbury Stage By Stage_
+[^ref8]: Manners, David. _Canterbury Stage By Stage_ 2011.
 [^ref9]: Kentish Weekly Post or Canterbury Journal - Saturday 12 February 1726.
-[^ref10]:
+[^ref10]: Kentish Weekly Post or Canterbury Journal - Saturday 19 February 1726
 [^ref11]: Ravenscroft, Edward _The Canterbury Guests: A Bargain Broken_ 2.
 [^ref12]: Kentish Weekly Post or Canterbury Journal - Wednesday 19 November 1729.
 [^ref13]: "For the Benefit of Mr Green and Mr Vaughan the Harlequin." _Kentish Weekly Post or Canterbury Journal_ - Wednesday 01 August 1739.
@@ -152,7 +152,7 @@ The Victoria and Albert Museum
 [^ref30]:
 [^ref31]:
 [^ref32]: Kinematograph Weekly - Thursday 10 July 1913.
-[^ref33]: Manners, David. _Canterbury Stage By Stage_
+[^ref33]: Manners, David. _Canterbury Stage By Stage_ 2011.
 [^ref34]: Sheerness Guardian and East Kent Advertiser - Saturday 27 May 1876.
 [^ref35]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
 [^ref36]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
