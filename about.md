@@ -124,7 +124,7 @@ Dr Susan Civale is Senior Lecturer in Romanticism at Canterbury Christ Church Un
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0634362-1833-4d30-9dd3-08c3a5e8a2f1)
 
-Liam Cohen is a Creative and Professional Writing student at Canterbury Christchurch University. He first wrote a collection of poetry at the fifteen years old. Since then, his passion for writing has blossomed and now he writes all forms of writing. Liam focuses on using emotive language to resonate with his readers.
+Liam Cohen is a Creative and Professional Writing student at Canterbury Christchurch University. He first wrote a collection of poetry at fifteen years old. Since then, his passion for writing has blossomed and he writes all forms of writing. Liam focuses on using emotive language to resonate with his readers.
 
 ## Carla Danella
 
