@@ -42,7 +42,9 @@ Gradually, as their fortunes increased, strolling players were able to lease the
 
 Theatrical performances continued to delight Canterbury audiences throughout the eighteenth century. On 9 June 1773, Mr Perry in a new prologue, written for the opening of the theatre in Canterbury, said:
 <br><br>
-'Happy once more to tread this well-known stage, where I have strutted in my Infant Age - When Perry's Sons, Years twenty past almost, Oft play'd the Scene of Hamlet and the Ghost, Oft weild the Truncheon in the Tragic Scene. In Great Tom Thumb was Master Perry seen! Growing to riper Age, pursued the Art, And sought Acquaintance with each manly part. Till now, some four Years past a Plan I drew, Engag'd this House once more to strut 'fore you.'
+'Happy once more to tread this well-known stage, where I have strutted in my Infant Age - When Perry's Sons, Years twenty past almost, Oft play'd the Scene of Hamlet and the Ghost, Oft weild the Truncheon in the Tragic Scene. In Great Tom Thumb was Master Perry seen! Growing to riper Age, pursued the Art, And sought Acquaintance with each manly part. Till now, some four Years past a Plan I drew, Engag'd this House once more to strut 'fore you. You, whose applause had fir'd my Infant mind; By you inspir'd the Buskin' troop, I join'd.'
+<br><br>
+Mr Perry speaks of the cruel blows he has received at the hands of "Dame Fortune" but hopes to revive his career on the stage that made him.
 
 In April 1780, ‘The Oaks or The Beauties of Canterbury’, written by Canterbury pastry cook and mantua maker, [Elizabeth Burgess](/18c/18c-burgess-biography/) was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate. It was printed at her own expense and survives in full. The Prologues were spoken by Mr Miell and the Epilogue by Mrs Dawes. The Buttermarket theatre was also used by [Sarah Baker](/18c/18c-baker-biography/) who opened her own theatre in Orange Street in 1789, after the Pavement Commissioners tore down the old building.[^ref]
 
