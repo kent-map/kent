@@ -81,6 +81,7 @@ By August 1936, it was known as the Odeon Hall and run by Captain (Percy) Julian
 In 1912 it reopened as the Empire Music Hall, then in 1950 it became the first Marlowe Theatre until demolished in 1984 when the second Marlowe Theatre opened at The Friars. This second Marlowe was demolished in 2009 to make way for today’s Marlowe on the same site. 
 
 At 30-31, Northgate, a small theatre was converted from a 17th century house. It has been known as the Canterbury Music Hall, Princess (or just) Alexandra Theatre/ Music Hall, Regency Theatre, The Cannon and Royal George. Rumoured to have closed in 1898, in fact it was used as a variety hall until 1989. When it reopened it was called The Penny Theatre, still functioning today as a pub and theatre and is a Grade II listed building. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Penny_Theatre%2C_Canterbury_-_geograph.org.uk_-_4051515.jpg" label="The Penny Theatre, Canterbury" attribution=" Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ### Bibliography 
 
