@@ -38,7 +38,7 @@ Restoration playwright and author, [Aphra Behn](/17c/17c-behn-biography/) (1640?
 
 Canterbury was the setting for Edward Ravenscroft's 1694 comedy _The Canterbury Guests: A Bargain Broken_ which opens with the arrival of Alderman Furr, a citizen of London and his daughter and neice who are looking for an Inn which has the best entertainment. He is recommended The Three Kings and the Old Kings Head by Justice Greedy, but two innkeepers suggest their own inns, The Star and The Rose and regale the Alderman with details about their superior beverages, meats and 'civil entertainment'. One claims his wine 'T'will make a cat speak, a Judge deaf and dumb, an old Man get Children or bring a Dead Man to-life again'.[^ref p 2 ] In spite of their promises, Justice Greedy complains of "wamblings" in his stomach as the innkeeper has overpromised and under-delivered. The play which included incidental music composed by Henry Purcell
 does not appear to have been performed in Canterbury and the promised entertainment was only of the gastronomical variety.
-<param ve-video="https://youtu.be/S6-xhtK7rc8"> 
+<param ve-media="https://youtu.be/S6-xhtK7rc8"> 
 
 In 1729, Pinchbeck's Grand Theatre of the Muses, an automata with scenes and music, plied the streets of Dover, Sandwich and Canterbury offering a different kind of street theatre.[^ref]
 <br><br>
