@@ -8,7 +8,9 @@ Canterbury has a long history of theatrical entertainment dating back to the Rom
 <br><br>
 By Anglo Saxon times, the amphitheatre along with many of the other city's buildings lay abandoned. 
 
-In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 667-690, banned dressing up as stags or other beasts which was customary during the midwinter celebrations, seeing these public displays as peverse and 'devilish'.[^ref4] By the sixteenth century, the good folk of Kent revelled in pageantry. A church warden from the parish of St Dunstan’s noted: 
+In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 667-690, banned dressing up as stags or other beasts which was customary during the midwinter celebrations, seeing these public displays as peverse and 'devilish'.[^ref4]
+
+By the sixteenth century, the good folk of Kent revelled in pageantry. A church warden from the parish of St Dunstan’s noted: 
 <br><br>
 “Canterbury has it’s own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.”
 <br><br>
