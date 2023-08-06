@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Theatrical Entertainment in Canterbury" author="Kate Rendall" layout="vtl" 
+<param ve-config title="Theatrical Entertainment in Canterbury" author="Kate Rendall and Michelle Crowther" layout="vtl" 
 banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q618045" aliases="Margate">
