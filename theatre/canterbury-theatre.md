@@ -12,7 +12,7 @@ In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 66
 
 By the sixteenth century, the good folk of Kent revelled in pageantry. A church warden from the parish of St Dunstan’s noted: 
 <br><br>
-“Canterbury has it’s own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.”
+“Canterbury has its own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.”
 <br><br>
 In the 1530s, John ‘Bileous' Bale (1495-1563), famed for anti-Catholic vitriole, wrote 'King John' which it is argued is the earliest historical drama in English.[^ref] (Brown, Hutchinson and Irwin _Written City_) It was probably performed at St Stephens in 1538. In May 1560, it was rumoured that Bale was staging a satirical play about the city's friars with schoolboys from the local grammar school.[^ref:  ]
 
