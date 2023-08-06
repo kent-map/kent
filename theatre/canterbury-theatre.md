@@ -67,7 +67,7 @@ Sarah Baker, who built four theatres in Kent, was able to entice new actors from
 Etiquette in the theatres was sometimes wanting and in 1807, "a wanton act of atrocity" occurred at Canterbury when a man threw a quart glass bottle into the pit hitting a servant of Lord Cranley. The audience beying for retribution shouted 'throw him over' but he was quickly arrested and put in the Westgate Gaol.[^ref20]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5a/William_Dowton_as_Sir_Anthony_Absolute_in_%22The_Rivals%22_-_DPLA_-_a80a55ea30ee668fdcdcb7323fcf185b.jpg" label="William Dowton as Sir Anthony Absolute in the Rivals" attribution="University of Illinois Urbana-Champaign University Library, Public domain, via Wikimedia Commons">
 
-After the death of Sarah Baker in 1816, her son-in-law, William Dowton ran the theatre, attracting big names such as Joseph Grimaldi, the famous clown. On Tuesday, May 6th, 1817, Grimaldi, played ‘Bob Acres’ in Sheridan’s five part comedy, “The Rivals”.  Grimaldi sung one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’ [sic][^ref21] in “DON JUAN or the Libertine Destroyed”. In his memoir, edited by [Charles Dickens](/dickens/dickens-biography) it is noted that Grimaldi's 'gains' were larger in the provinces and his effort less than when he performed in London. [ref22] 162]
+After the death of Sarah Baker in 1816, her son-in-law, William Dowton ran the theatre, attracting big names such as Joseph Grimaldi, the famous clown. On Tuesday, May 6th, 1817, Grimaldi, played ‘Bob Acres’ in Sheridan’s five part comedy, “The Rivals”.  Grimaldi sung one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’ [sic][^ref21] in “DON JUAN or the Libertine Destroyed”. In his memoir, edited by [Charles Dickens](/dickens/dickens-biography) it is noted that Grimaldi's 'gains' were larger in the provinces and his effort less, than when he performed in London. [ref22]
 <br><br>
 Dowton also allowed amateur performers to use the theatre for their own private theatricals and in January 1817, the gentlemen amateurs of Charlton Place near Canterbury performed for the benefit of the widow of Alderman Salmon.[^ref23]
 <br><br>
@@ -139,7 +139,7 @@ The Victoria and Albert Museum
 [^ref19]:
 [^ref20]: Morning Post, 3 Sept. 1807. British Library Newspapers, link.gale.com/apps/doc/R3209697340/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=5e751f39. Accessed 6 Aug. 2023.
 [^ref21]:
-[^ref22]:
+[^ref22]: Dickens, Charles (ed.) _Memoirs of Joseph Grimaldi_, 1838, 162.
 [^ref23]:
 [^ref24]:
 [^ref25]: "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859
