@@ -136,7 +136,7 @@ The Victoria and Albert Museum
 [^ref16]:
 [^ref17]: Rosman, Doreen, _Canterbury a History since 1500_ 120.
 [^ref18]:
-[^ref19]:
+[^ref19]: Baker, Jean Napier (2000) _Theatre in the provinces in the late eighteenth and early nineteenth centuries : with special reference to Sarah Baker in Kent._ PhD thesis, University of Kent.
 [^ref20]: Morning Post, 3 Sept. 1807. British Library Newspapers, link.gale.com/apps/doc/R3209697340/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=5e751f39. Accessed 6 Aug. 2023.
 [^ref21]:
 [^ref22]: Dickens, Charles (ed.) _Memoirs of Joseph Grimaldi_, 1838, 162.
