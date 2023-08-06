@@ -9,6 +9,7 @@ Canterbury has a long history of theatrical entertainment dating back to the Rom
 By Anglo Saxon times, the amphitheatre along with many of the other city's buildings lay abandoned. 
 <br><br>
 In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 667-690, banned dressing up as stags or other beasts which was customary during the midwinter celebrations, seeing these public displays as peverse and 'devilish'.[^ref4]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Sculpture_next_to_the_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_5056632.jpg" label="Sculpture next to the Marlowe Theatre" attribution="pam fray, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 By the sixteenth century, the good folk of Kent revelled in pageantry. A church warden from the parish of St Dunstan’s noted: 
 <br><br>
