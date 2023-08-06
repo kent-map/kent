@@ -131,40 +131,33 @@ The Victoria and Albert Museum
 [^ref14]: "At the Theatre in Canterbury." Kentish Weekly Post or Canterbury Journal - Saturday 25 August 1739.
 [^ref15]
 [^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref16]
-[^ref1]: Scaramouche is spelt without the ‘e’ on a playbill in the Goulden Collection, held at the Beaney House of Art and Knowledge, Canterbury.
-[^ref1]: "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859
-[^ref]: "Mr Dickens's reading." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 09 November 1861.
-[^ref]: "Mr Charles Dickens's reading." _Kentish Chronicle_ - Saturday 09 November 1861.
-[^ref2]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
-[^ref3]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
+[^ref17]: Rosman, Doreen, _Canterbury a History since 1500_ 120.
+[^ref18]
+[^ref19]
+[^ref20]: Morning Post, 3 Sept. 1807. British Library Newspapers, link.gale.com/apps/doc/R3209697340/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=5e751f39. Accessed 6 Aug. 2023.
+[^ref21]
+[^ref22]
+[^ref23]
+[^ref24]
+[^ref25]: "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859
+[^ref26]
+[^ref27]: "Mr Dickens's reading." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 09 November 1861.
+[^ref28]: "Mr Charles Dickens's reading." _Kentish Chronicle_ - Saturday 09 November 1861.
+[^ref29]
+[^ref30]
+[^ref31]
+[^ref32]
+[^ref33]
+[^ref34]: Sheerness Guardian and East Kent Advertiser - Saturday 27 May 1876
+[^ref35]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
+[^ref36]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
+[^ref37]
+[^ref38]
+[^ref39]: "Canterbury's Place in Britain's Life." _Kent Messenger & Gravesend Telegraph_ - Friday 15 December 1950
+[^ref40]
+
 [^ref3]:Kinematograph Weekly - Thursday 10 July 1913
-[^ref]: Rosman, Doreen, 120.
-"RICHMOND, SEPT. 2." Morning Post, 3 Sept. 1807. British Library Newspapers, link.gale.com/apps/doc/R3209697340/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=5e751f39. Accessed 6 Aug. 2023.
 
-Sheerness Guardian and East Kent Advertiser - Saturday 27 May 1876
 
-"Canterbury's Place in Britain's Life." _Kent Messenger & Gravesend Telegraph_ - Friday 15 December 1950
+
+
