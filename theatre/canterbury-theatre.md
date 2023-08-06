@@ -40,7 +40,7 @@ does not appear to have been performed in Canterbury and the promised entertainm
 <param ve-video="https://youtu.be/S6-xhtK7rc8"> 
 
 In 1729, Pinchbeck's Grand Theatre of the Muses, an automata with scenes and music, plied the streets of Dover, Sandwich and Canterbury offering a different kind of street theatre.[^ref]
-
+<br><br>
 By 1737, the Licensing Act or ‘Gagging Act’ restricted the production of plays.  Censorship was introduced by the Lord Chamberlain and his examiners, to root out anti-government sentiment and this practice continued until 1843 when the act was modified by the Theatres Act. To avoid falling foul of the law, rural theatres interspersed scenes with melodrama, burlesque, song and dance. On 1 August 1739, the Company of Comedians from the Royal Theatres in London performed 'The Committee: Or, the Faithful Irishman' at the theatre in Canterbury to which was added a new pantomime entertainment in Grotesque characters.[^ref]  Two weeks later, the comedy 'The Tender Husband; Or Accomplished Fools' was performed at The Theatre, Canterbury with entertainments of singing and dancing.[^ref] 
 
 ‘Canterbury Smith’ (William Smith), who took over Kentish theatres in 1751 from Perry’s ‘Company of Comedians’ hired Roger Kemble in 1752. It was at Canterbury that Kemble met Fanny Furnival, a widowed actress, who took the name "Mrs Kemble", although it is unlikely the couple married. Kemble later married Sarah Ward and was the father of Sarah Siddons, the celebrated actress who played at the Theatre Royal Margate; John Philip Kemble who was considered ‘England’s finest actor’; and Charles Kemble, who performed the office of Examiner of Plays (1836-1840), under the Licensing Act. 
