@@ -28,17 +28,17 @@ Gosson was christened in St.George’s parish and educated at the King's School,
 
 Strolling players, who did not enjoy the patronage of nobility (or a King's school education), toured fairs performing acrobatics, songs and juggling. They were classed as ‘vagabonds’ and subject to the laws of each town.The Burghmote book in 1595 notes: 
 <br><br>
-“....there shall not be any playes enterludes tragedies or comedies be played or players suffered to playe within this Cittie on any Sabaothe days nor above twoe dayes together at any tyme.” 
+'....there shall not be any playes enterludes tragedies or comedies be played or players suffered to playe within this Cittie on any Sabaothe days nor above twoe dayes together at any tyme.'[^ref8]
 <br><br>
-When the Plague struck in London in 1603, the London theatres closed and actors fled to the towns of Canterbury, Faversham, Maidstone, Dover, New Romney and Lydd, bringing their plays and their plague with them. During the English Civil War (1642 – 1646) theatre stopped all together and after the war, the Puritans banned theatre. It wasn't until the Restoration in 1660 that theatre was revived.
+When the Plague struck in London in 1603, the London theatres closed and actors fled to the towns of Canterbury, Faversham, Maidstone, Dover, New Romney and Lydd, bringing their plays and their plague with them. During the English Civil War (1642 – 1646) theatre stopped all together and after the war, the Puritans banned theatre. It was not until the Restoration in 1660 that theatre was revived.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/StrollingActresses.jpg" label="Strolling Actresses" attribution="William Hogarth, Public domain, via Wikimedia Commons">
 
 Restoration playwright and author, [Aphra Behn](/17c/17c-behn-biography/) (1640?-1689), (or Eaffrey Johnson), who was born in Harbledown around 1640, wrote ‘The Forc’d Marriage’ for the Duke’s Company under Thomas Betterton, which was performed in London in 1670. The Duke’s Company was one of two theatre companies (the other, King’s) allowed to perform complete dramas after the Restoration.  Behn wrote more than twenty plays including ‘The Amorous Prince’ (1671) and ‘The Young King’ (1679). 
 <br><br>
-A theatrical performance of her book _Oroonoko or the Royal Slave_, was adapted for the stage by Thomas Southerne and performed at the Theatre at the Crown Yard, on the High Street, Canterbury on Feb 14 1726, although no reference was made to its original author.[^ref] Two months later, Mr Keregan's Company of Comedians performed the Restoration tragedy 'The Rival Queens or the Death of Alexander the Great' (1677) at the same theatre. It was written by Nathaniel Lee, who had written a poem 'On the Death of Mrs. Behn' in 1689. 
+A theatrical performance of her book _Oroonoko or the Royal Slave_, was adapted for the stage by Thomas Southerne and performed at the Theatre at the Crown Yard, on the High Street, Canterbury on Feb 14 1726, although no reference was made to its original author.[^ref9] Two months later, Mr Keregan's Company of Comedians performed the Restoration tragedy 'The Rival Queens or the Death of Alexander the Great' (1677) at the same theatre. It was written by Nathaniel Lee, who had written a poem 'On the Death of Mrs. Behn' in 1689.[^ref10] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Peter_Lely_-_Aphra_Behn_-_Google_Art_Project.jpg/1715px-Peter_Lely_-_Aphra_Behn_-_Google_Art_Project.jpg" label="Aphra Behn" attribution="Peter Lely, Yale Center for British Art, Public domain, via Wikimedia Commons">
 
-Canterbury was the setting for Edward Ravenscroft's 1694 comedy _The Canterbury Guests: A Bargain Broken_ which opens with the arrival of Alderman Furr, a citizen of London and his daughter and neice who are looking for an Inn which has the best entertainment. He is recommended The Three Kings and the Old Kings Head by Justice Greedy, but two innkeepers suggest their own inns, The Star and The Rose and regale the Alderman with details about their superior beverages, meats and 'civil entertainment'. One claims his wine 'T'will make a cat speak, a Judge deaf and dumb, an old Man get Children or bring a Dead Man to-life again'.[^ref p 2 ] In spite of their promises, Justice Greedy complains of "wamblings" in his stomach as the innkeeper has overpromised and under-delivered. The play which included incidental music composed by Henry Purcell
+Canterbury was the setting for Edward Ravenscroft's 1694 comedy _The Canterbury Guests: A Bargain Broken_ which opens with the arrival of Alderman Furr, a citizen of London and his daughter and neice who are looking for an Inn which has the best entertainment. He is recommended The Three Kings and the Old Kings Head by Justice Greedy, but two innkeepers suggest their own inns, The Star and The Rose and regale the Alderman with details about their superior beverages, meats and 'civil entertainment'. One claims his wine 'T'will make a cat speak, a Judge deaf and dumb, an old Man get Children or bring a Dead Man to-life again'.[^ref11] In spite of their promises, Justice Greedy complains of "wamblings" in his stomach as the innkeeper has overpromised and under-delivered. The play which included incidental music composed by Henry Purcell
 does not appear to have been performed in Canterbury and the promised entertainment was only of the gastronomical variety.
 <param ve-media="https://youtu.be/S6-xhtK7rc8"> 
 
@@ -122,14 +122,15 @@ The Victoria and Albert Museum
 [^ref6]: King, John N. "Bale, John (1495–1563), bishop of Ossory, evangelical polemicist, and historian." _Oxford Dictionary of National Biography_.  October 08, 2009. Oxford University Press. Date of access 5 Aug. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-1175>
 [^ref6]: Nicholl, Charles. "Marlowe [Marley], Christopher (bap. 1564, d. 1593), playwright and poet." Oxford Dictionary of National Biography.  January 03, 2008. Oxford University Press. Date of access 5 Aug. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18079>
 [^ref7]:[The School of Abuse](https://ia801600.us.archive.org/33/items/schooleofabuseau00goss/schooleofabuseau00goss.pdf) 25.
-
-[^ref1]: "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859
-[^ref]: Kentish Weekly Post or Canterbury Journal - Saturday 12 February 1726
-
+[^ref8]: Manners, David. _Canterbury Stage By Stage_
+[^ref9]: Kentish Weekly Post or Canterbury Journal - Saturday 12 February 1726
+[^ref10]:
+[^ref11] p.2
 [^ref]: Kentish Weekly Post or Canterbury Journal - Wednesday 19 November 1729
 [^ref]: "For the Benefit of Mr Green and Mr Vaughan the Harlequin." _Kentish Weekly Post or Canterbury Journal_ - Wednesday 01 August 1739
 [^ref]: "At the Theatre in Canterbury." Kentish Weekly Post or Canterbury Journal - Saturday 25 August 1739.
 [^ref1]: Scaramouche is spelt without the ‘e’ on a playbill in the Goulden Collection, held at the Beaney House of Art and Knowledge, Canterbury.
+[^ref1]: "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859
 [^ref]: "Mr Dickens's reading." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 09 November 1861.
 [^ref]: "Mr Charles Dickens's reading." _Kentish Chronicle_ - Saturday 09 November 1861.
 [^ref2]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
