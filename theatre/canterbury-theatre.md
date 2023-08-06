@@ -97,7 +97,7 @@ In 1912 it reopened as the Empire Music Hall, then in 1950 it became the first M
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_826186.jpg" label="The second Marlowe Theatre" attribution="Stephen McKay, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Marlowe_Theatre%2C_Canterbury.jpg" label="The third Marlowe Theatre, Canterbury" attribution="Nilfanion, via Wikimedia Commons" license="CC BY-SA 4.0">
 
-The Alexandra Music Hall and Penny Theatre operated between 1750 and 1903 at 30-31, Northgate, a 17th century building with a minstrel's gallery. A plan to turn it into a museum of amusement machines was turned down by the council in 1982. Throughout the 1990s and early 2000s, it acted as a popular venue for jazz, folk and blues bands and open mic nights. 
+The Princess Alexandra Music Hall and Penny Theatre operated between 1750 and 1903 in a 17th century building with a minstrel's gallery at 30-31, Northgate. A plan to turn it into a museum of amusement machines was turned down by the council in 1982. Throughout the 1990s and early 2000s, it acted as a popular venue for jazz, folk and blues bands and open mic nights. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Penny_Theatre%2C_Canterbury_-_geograph.org.uk_-_4051515.jpg" label="The Penny Theatre, Canterbury" attribution=" Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ### Bibliography 
