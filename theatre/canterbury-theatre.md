@@ -48,8 +48,8 @@ By 1737, the Licensing Act or ‘Gagging Act’ restricted the production of pla
 <br><br>
 In 1752, ‘Canterbury Smith’ (William Smith), who had taken over Kentish theatres in 1751 from Perry’s ‘Company of Comedians’ hired Roger Kemble, strolling player and actor. It was at Canterbury that Kemble met Fanny Furnival, a widowed actress, who was the principal acress. She took the name "Mrs Kemble", although it is unlikely the couple married.[^ref15] 
 <br><br>
-Kemble later married Sarah Ward and was the father of Sarah Siddons, the celebrated actress who played at the Theatre Royal Margate; John Philip Kemble who was considered ‘England’s finest actor’; and Charles Kemble, who performed the office of Examiner of Plays (1836-1840), under the Licensing Act. 
-<param ve-image url="https://stor.artstor.org/stor/40d3842e-31dd-413b-96e4-1b163c17f2df" label="Mrs Kemble in Oroonoko" attribution="Michelle Crowther"> 
+Kemble later married Sarah Ward and was the father of Sarah Siddons, the celebrated actress who played at the Theatre Royal Margate; John Philip Kemble who was considered ‘England’s finest actor’; and Charles Kemble, who performed the office of Examiner of Plays, under the Licensing Act. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/53/Mrs_Sarah_Siddons.jpg" label="Sarah Siddons" attribution="Thomas Lawrence, National Library of Wales, Public domain, via Wikimedia Commons">
 
 Theatrical performances continued to delight Canterbury audiences throughout the eighteenth century. On 9 June 1773, Mr Perry in a new prologue, written for the opening of the theatre in Canterbury, said:
 <br><br>
