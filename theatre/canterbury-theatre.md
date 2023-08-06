@@ -83,6 +83,7 @@ In 1898, the ‘Sarah Thorne Dramatic Company’ presented Dion Boucicault’s �
 <br><br>
 In 1913, the Theatre Royal was refurbished by Mr S. Lipman of the Empire Kinematograph Theatre.[^ref] It eventually closed on 30th January, 1926 and was sold to the Lefevre brothers.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Marlowe_Memorial_unveiling%2C_1891.jpg" label="Marlowe Memorial unveiling 1891, Buttermarket, Canterbury" attribution="Folger Shakespeare Library, Public domain, via Wikimedia Commons">
+<param ve-image url="https://stor.artstor.org/stor/6b776164-7839-473f-aaf6-1f3065f06387" label="Theatre Royal, Canterbury" attribution="Michelle Crowther">
 
 Other theatre and entertainment venues operated during the Victorian era, for example the New Music Hall, located behind no.12 and no.13 on St Margaret’s Street which ran from 1854-1888. Music halls became particularly popular after the relaxation of the licensing laws in 1843. On May 8th, 1876, a Strange and Wilsons Aetherscope adaptation of a _Christmas Carol_ was performed at the hall. The aetherscope was a cabinet in which things and persons disappear: It is pretty certain that they do not leave the cabinet, yet when an individual is inside and the door is opened he is invisible and there is no sign of the space he is occupying.'[^ref] The show then toured Sheerness and Dover, amazing audiences with its ghostly apparitions. 
                     
