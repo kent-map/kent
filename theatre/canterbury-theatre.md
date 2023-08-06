@@ -38,7 +38,9 @@ Restoration playwright and author, [Aphra Behn](/17c/17c-behn-biography/), (or E
 A theatrical performance of her book _Oroonoko or the Royal Slave_, was adapted for the stage by Thomas Southerne and performed at the Theatre at the Crown Yard, on the High Street, Canterbury on Feb 14 1726, although no reference was made to its original author.[^ref9] Two months later, Mr Keregan's Company of Comedians performed the Restoration tragedy 'The Rival Queens or the Death of Alexander the Great' (1677) at the same theatre. It was written by Nathaniel Lee, who had written a poem 'On the Death of Mrs. Behn' in 1689.[^ref10] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Peter_Lely_-_Aphra_Behn_-_Google_Art_Project.jpg/1715px-Peter_Lely_-_Aphra_Behn_-_Google_Art_Project.jpg" label="Aphra Behn" attribution="Peter Lely, Yale Center for British Art, Public domain, via Wikimedia Commons">
 
-Canterbury was the setting for Edward Ravenscroft's 1694 comedy _The Canterbury Guests: A Bargain Broken_ which opens with the arrival of Alderman Furr, a citizen of London and his daughter and neice who are looking for an Inn which has the best entertainment. He is recommended The Three Kings and the Old Kings Head by Justice Greedy, but two innkeepers suggest their own inns, The Star and The Rose and regale the Alderman with details about their superior beverages, meats and 'civil entertainment'. One claims his wine 'will make a cat speak, a Judge deaf and dumb, an old Man get Children or bring a Dead Man to-life again'.[^ref11] In spite of their promises, Justice Greedy complains of "wamblings" in his stomach as the innkeeper has overpromised and under-delivered. The play which included incidental [music](https://youtu.be/S6-xhtK7rc8) composed by Henry Purcell does not appear to have been performed in Canterbury and the promised entertainment was only of the gastronomical variety. The Star Inn near St George's Gate dates from 1689 and The Rose from 1692 so it would appear Ravenscroft had local knowledge.
+Canterbury was the setting for Edward Ravenscroft's 1694 comedy _The Canterbury Guests: A Bargain Broken_ which opens with the arrival of Alderman Furr, a citizen of London and his daughter and neice who are looking for an Inn which has the best entertainment. He is recommended The Three Kings and the Old Kings Head by Justice Greedy, but two innkeepers suggest their own inns, The Star and The Rose and regale the Alderman with details about their superior beverages, meats and 'civil entertainment'. One claims his wine 'will make a cat speak, a Judge deaf and dumb, an old Man get Children or bring a Dead Man to-life again'.[^ref11] In spite of their promises, Justice Greedy complains of "wamblings" in his stomach as the innkeeper has overpromised and under-delivered. 
+<br><br>
+The _Canterbury Guests_ included incidental [music](https://youtu.be/S6-xhtK7rc8) composed by Henry Purcell does not appear to have been performed in Canterbury and the promised entertainment was only of the gastronomical variety. The Star Inn near St George's Gate dates from 1689 and The Rose from 1692 so it would appear Ravenscroft had local knowledge.
 <param ve-image url="https://stor.artstor.org/stor/c8270a90-11bb-4a80-aa86-c01accee9063" label="St George's Gate" attribution="Kent Maps Online Collection">
 
 In 1729, Pinchbeck's Grand Theatre of the Muses, a machine with scenes and music, plied the streets of Dover, Sandwich and Canterbury offering a different kind of street theatre.[^ref12]
@@ -126,39 +128,33 @@ The Victoria and Albert Museum
 [^ref8]: Manners, David. _Canterbury Stage By Stage_
 [^ref9]: Kentish Weekly Post or Canterbury Journal - Saturday 12 February 1726
 [^ref10]:
-[^ref11] Ravenscroft, Edward _The Canterbury Guests: A Bargain Broken_ 2
+[^ref11]: Ravenscroft, Edward _The Canterbury Guests: A Bargain Broken_ 2
 [^ref12]: Kentish Weekly Post or Canterbury Journal - Wednesday 19 November 1729
 [^ref13]: "For the Benefit of Mr Green and Mr Vaughan the Harlequin." _Kentish Weekly Post or Canterbury Journal_ - Wednesday 01 August 1739
 [^ref14]: "At the Theatre in Canterbury." Kentish Weekly Post or Canterbury Journal - Saturday 25 August 1739.
-[^ref15]
-[^ref16]
+[^ref15]:
+[^ref16]:
 [^ref17]: Rosman, Doreen, _Canterbury a History since 1500_ 120.
-[^ref18]
-[^ref19]
+[^ref18]:
+[^ref19]:
 [^ref20]: Morning Post, 3 Sept. 1807. British Library Newspapers, link.gale.com/apps/doc/R3209697340/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=5e751f39. Accessed 6 Aug. 2023.
-[^ref21]
-[^ref22]
-[^ref23]
-[^ref24]
+[^ref21]:
+[^ref22]:
+[^ref23]:
+[^ref24]:
 [^ref25]: "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859
-[^ref26]
+[^ref26]:
 [^ref27]: "Mr Dickens's reading." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 09 November 1861.
 [^ref28]: "Mr Charles Dickens's reading." _Kentish Chronicle_ - Saturday 09 November 1861.
-[^ref29]
-[^ref30]
-[^ref31]
-[^ref32]
-[^ref33]
+[^ref29]:
+[^ref30]:
+[^ref31]:
+[^ref32]: Kinematograph Weekly - Thursday 10 July 1913
+[^ref33]:
 [^ref34]: Sheerness Guardian and East Kent Advertiser - Saturday 27 May 1876
 [^ref35]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
 [^ref36]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
-[^ref37]
-[^ref38]
+[^ref37]:
+[^ref38]:
 [^ref39]: "Canterbury's Place in Britain's Life." _Kent Messenger & Gravesend Telegraph_ - Friday 15 December 1950
-[^ref40]
-
-[^ref3]:Kinematograph Weekly - Thursday 10 July 1913
-
-
-
-
+[^ref40]:
