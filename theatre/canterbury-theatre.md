@@ -103,7 +103,7 @@ In 1949, as the city recovered from devastation left by the bombing raids of the
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_826186.jpg" label="The second Marlowe Theatre" attribution="Stephen McKay, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Marlowe_Theatre%2C_Canterbury.jpg" label="The third Marlowe Theatre, Canterbury" attribution="Nilfanion, via Wikimedia Commons" license="CC BY-SA 4.0">
 
-The Princess Alexandra Music Hall and Penny Theatre operated between 1750 and 1903 in a 17th century building with a minstrel's gallery at 30-31, Northgate. A plan to turn it into a museum of amusement machines was turned down by the council in 1982.[^ref40] Throughout the 1990s and early 2000s, it acted as a popular venue for jazz, folk, rock and blues bands. 
+As well as the theatres, the city has also played host to other arts and culture venues. The Princess Alexandra Music Hall and Penny Theatre operated between 1750 and 1903 in a 17th century building with a minstrel's gallery at 30-31, Northgate. A plan to turn it into a museum of amusement machines was turned down by the council in 1982.[^ref40] Throughout the 1990s and early 2000s, it acted as a popular venue for jazz, folk, rock and blues bands. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Penny_Theatre%2C_Canterbury_-_geograph.org.uk_-_4051515.jpg" label="The Penny Theatre, Canterbury" attribution=" Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ### Bibliography 
@@ -131,7 +131,7 @@ The Victoria and Albert Museum
 [^ref11]: Ravenscroft, Edward _The Canterbury Guests: A Bargain Broken_ 2
 [^ref12]: Kentish Weekly Post or Canterbury Journal - Wednesday 19 November 1729
 [^ref13]: "For the Benefit of Mr Green and Mr Vaughan the Harlequin." _Kentish Weekly Post or Canterbury Journal_ - Wednesday 01 August 1739
-[^ref14]: "At the Theatre in Canterbury." Kentish Weekly Post or Canterbury Journal - Saturday 25 August 1739.
+[^ref14]: "At the Theatre in Canterbury." _Kentish Weekly Post or Canterbury Journal_ - Saturday 25 August 1739.
 [^ref15]:
 [^ref16]:
 [^ref17]: Rosman, Doreen, _Canterbury a History since 1500_ 120.
