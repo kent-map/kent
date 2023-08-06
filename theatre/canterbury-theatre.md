@@ -84,7 +84,9 @@ Two years later in October 1863, Richard Thorne, Lessee of the Margate Theatre, 
 <br><br>
 Alomst thirty years later, in August 1891, Sarah Thorne booked the theatre for three nights for a performance by [Ellen Terry](/20c/20c-terry-biography) of Nance Oldfield in Charles Reade's comedy.[^ref30] Ellen was was one of the most famous actresses of her day. Later that year, Henry Irving unveiled a memorial to Christopher Marlowe in the Buttermarket, revealing how proud Canterbury was of its theatrical heritage. 
 <br><br>
-In 1898, the ‘Sarah Thorne Dramatic Company’ presented Dion Boucicault’s ‘The Flying Scud’ at the Canterbury Theatre. In the play, the hero, Tom Meredith, the villain Grindley Goodge, the comic lead, Nat Gosling and Katey Rideout obsessively follow the fortunes of the eponymous racehorse, and its preparation for the Epsom races. It is from this play where the phrase “I’ve got to see a man about a dog” comes.[^ref31] As well as visiting theatre companies, the theatre was used by amateur groups such as The Old Stagers and the Rifle Volunteers.
+In 1898, the ‘Sarah Thorne Dramatic Company’ presented Dion Boucicault’s ‘The Flying Scud’ at the Canterbury Theatre. In the play, the hero, Tom Meredith, the villain Grindley Goodge, the comic lead, Nat Gosling and Katey Rideout obsessively follow the fortunes of the eponymous racehorse, and its preparation for the Epsom races. It is from this play where the phrase “I’ve got to see a man about a dog” comes.[^ref31] 
+<br><br>
+As well as visiting theatre companies, the theatre was used by amateur groups such as The Old Stagers and the Rifle Volunteers.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Marlowe_Memorial_unveiling%2C_1891.jpg" label="Marlowe Memorial unveiling 1891, Buttermarket, Canterbury" attribution="Folger Shakespeare Library, Public domain, via Wikimedia Commons">
 
 In 1913, the Theatre Royal was refurbished by Mr S. Lipman of the Empire Kinematograph Theatre.[^ref32] It eventually closed on 30th January, 1926 and was sold to the Lefevre brothers.[^ref33]
@@ -126,11 +128,11 @@ The Victoria and Albert Museum
 [^ref6]: Nicholl, Charles. "Marlowe [Marley], Christopher (bap. 1564, d. 1593), playwright and poet." Oxford Dictionary of National Biography.  January 03, 2008. Oxford University Press. Date of access 5 Aug. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18079>
 [^ref7]:[The School of Abuse](https://ia801600.us.archive.org/33/items/schooleofabuseau00goss/schooleofabuseau00goss.pdf) 25.
 [^ref8]: Manners, David. _Canterbury Stage By Stage_
-[^ref9]: Kentish Weekly Post or Canterbury Journal - Saturday 12 February 1726
+[^ref9]: Kentish Weekly Post or Canterbury Journal - Saturday 12 February 1726.
 [^ref10]:
-[^ref11]: Ravenscroft, Edward _The Canterbury Guests: A Bargain Broken_ 2
-[^ref12]: Kentish Weekly Post or Canterbury Journal - Wednesday 19 November 1729
-[^ref13]: "For the Benefit of Mr Green and Mr Vaughan the Harlequin." _Kentish Weekly Post or Canterbury Journal_ - Wednesday 01 August 1739
+[^ref11]: Ravenscroft, Edward _The Canterbury Guests: A Bargain Broken_ 2.
+[^ref12]: Kentish Weekly Post or Canterbury Journal - Wednesday 19 November 1729.
+[^ref13]: "For the Benefit of Mr Green and Mr Vaughan the Harlequin." _Kentish Weekly Post or Canterbury Journal_ - Wednesday 01 August 1739.
 [^ref14]: "At the Theatre in Canterbury." _Kentish Weekly Post or Canterbury Journal_ - Saturday 25 August 1739.
 [^ref15]:
 [^ref16]:
@@ -142,19 +144,19 @@ The Victoria and Albert Museum
 [^ref22]: Dickens, Charles (ed.) _Memoirs of Joseph Grimaldi_, 1838, 162.
 [^ref23]:
 [^ref24]:
-[^ref25]: "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859
+[^ref25]: "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859.
 [^ref26]:
 [^ref27]: "Mr Dickens's reading." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 09 November 1861.
 [^ref28]: "Mr Charles Dickens's reading." _Kentish Chronicle_ - Saturday 09 November 1861.
 [^ref29]:
 [^ref30]:
 [^ref31]:
-[^ref32]: Kinematograph Weekly - Thursday 10 July 1913
-[^ref33]:
-[^ref34]: Sheerness Guardian and East Kent Advertiser - Saturday 27 May 1876
+[^ref32]: Kinematograph Weekly - Thursday 10 July 1913.
+[^ref33]: Manners, David. _Canterbury Stage By Stage_
+[^ref34]: Sheerness Guardian and East Kent Advertiser - Saturday 27 May 1876.
 [^ref35]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
 [^ref36]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
-[^ref37]:
-[^ref38]:
-[^ref39]: "Canterbury's Place in Britain's Life." _Kent Messenger & Gravesend Telegraph_ - Friday 15 December 1950
-[^ref40]:
+[^ref37]: "Margate Items." _East Kent Times and Mail_ - Saturday 24 February 1934
+[^ref38]: "Marlowe Theatre, Canterbury." _Faversham News_ - Friday 27 July 1951.
+[^ref39]: "Canterbury's Place in Britain's Life." _Kent Messenger & Gravesend Telegraph_ - Friday 15 December 1950.
+[^ref40]: "About Kent" _Kentish Express_ - Friday 07 May 1982.
