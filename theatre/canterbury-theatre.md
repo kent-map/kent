@@ -121,7 +121,7 @@ This article was published: 7 August 2023.
 ### References
 
 [^ref1]: Bateman, Audrey. _Hail, Mother of England: a Social History of Canterbury_. Rochester Press, 1984, 2.
-[^ref2]: Canterbury Archaeological Trust.
+[^ref2]: "The Centre of Roman Canterbury." [Canterbury Archaeological Trust](https://www.canterburytrust.co.uk/_files/ugd/805c19_7e71b6edd5744b0b8738b482e169dab5.pdf?index=true)
 [^ref3]: Frampton, George. _Discordant Comicals: the Hooden Horse of East Kent_ 23.
 [^ref4]: Forse, James. "Touring in Kent: Some Observations from Records Published to Date." _Early Theatre_ vol. 22, no. 2, 2019, 119–42, 119.
 [^ref5]: Brigstocke Sheppard. "The Canterbury Marching Watch and its Pageant of St Thomas." _Archaeologia Cantiana_ 12, 1878.
@@ -155,7 +155,7 @@ This article was published: 7 August 2023.
 [^ref33]: "Mr Charles Dickens's reading." _Kentish Chronicle_ - Saturday 09 November 1861.
 [^ref34]: "Theatre Royal Canterbury." _South Eastern Gazette_ - Tuesday 06 October 1863.
 [^ref35]: "Theatre Royal Canterbury." _Faversham News_ - Saturday 22 August 1891.
-[^ref36]: Goulden COllection of Play Bills, Beaney House of Art and Knowledge.
+[^ref36]: Goulden Collection of Play Bills, Beaney House of Art and Knowledge.
 [^ref37]: Kinematograph Weekly - Thursday 10 July 1913.
 [^ref38]: Manners, David. _Canterbury Stage By Stage_ 2011.
 [^ref39]: Sheerness Guardian and East Kent Advertiser - Saturday 27 May 1876.
