@@ -104,14 +104,14 @@ On 8 June 1911, Mayor Francis Goldney Bennett opened the Electric Theatre at 49,
 <br><br>
 In January 1916, under the management of Mr A. Dobson, four reels 'brimful of exciting incidents' were shown over the New Year period, including 'A Society Woman's Ordeal' (an appealing story of a society woman's sacrifice), 'His Lucky Vacation', 'No flirting allowed' and 'Wiffles in Wartime', a story about a hen-pecked husband. Wiffles, an endearing buffoon, was the creation of Pathe Freres and seems to have featured in several films, as Canterbury was treated to 'Wiffles in a Musical Vein' just under a week later. This programme was followed later in the month by 'The Exploits of Elaine'(part six), 'The Rounders' featuring Charlie Chaplin, 'The Professional Diner' and 'The Ascent of Mont Blanc'.[^ref41] 
 <br><br>
-By August 1936, it was known as the Odeon Hall and run by Captain (Percy) Julian Bainbridge, as The Canterbury Repertory Theatre. Bainbridge promised plays by first-class authors including George Bernard Shaw, Galsworthy, Priestley and [Noel Coward](/20c/20c-coward-biography/) etc.  Bainbridge had run theatres in Whitby and South Shields, as well as worked at the Leicester Square Theatre before taking a lease on the Royal Theatre, Margate in 1931. However he complained that "competition from the talking pictures and the fine weather of 1931-2" led to poor sales and he filed for bankruptcy in 1934.[^ref37] In February 1936, Bainbridge set up a Repertory Theatre in Tonbridge where he, his wife and daughter Hazel all performed in the productions. Hazel went on to have a screen career acting in Middlemarch (1968), Great Expectations (1967) and David Copperfield (1974). Bainbridge gave up the Tonbridge Reportory Theatre in 1938, but continued in Canterbury for a little longer before moving on to his next venture.  
+By August 1936, it was known as the Odeon Hall and run by Captain (Percy) Julian Bainbridge, as The Canterbury Repertory Theatre. Bainbridge promised plays by first-class authors including George Bernard Shaw, Galsworthy, Priestley and [Noel Coward](/20c/20c-coward-biography/) etc.  Bainbridge had run theatres in Whitby and South Shields, as well as worked at the Leicester Square Theatre before taking a lease on the Royal Theatre, Margate in 1931. However he complained that "competition from the talking pictures and the fine weather of 1931-2" led to poor sales and he filed for bankruptcy in 1934.[^ref42] In February 1936, Bainbridge set up a Repertory Theatre in Tonbridge where he, his wife and daughter Hazel all performed in the productions. Hazel went on to have a screen career acting in Middlemarch (1968), Great Expectations (1967) and David Copperfield (1974). Bainbridge gave up the Tonbridge Reportory Theatre in 1938, but continued in Canterbury for a little longer before moving on to his next venture.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Charlie_Chaplin_reads_Film_Fun%2C_1915.jpg" label="Charlie Chaplin reads Film Fun, 1915" attribution="Anonymous, Unknown author, Public domain, via Wikimedia Commons">
 
-In 1949, as the city recovered from devastation left by the bombing raids of the second world war, the Marlowe Theatre opened on St Margaret's Street, in an old cinema, near where the original Roman theatre had been. The stage was improved and soon the theatre was able to attract acts such as the Ballet Rambert.[^ref42] Sir Ernest Pooley who visited the theatre in 1950 said: 'It is most important if we are going to be a truly civilised and truly artistic nation that we learn by degrees to wean people back from the picture theatre to the living stage.'[^ref43] The theatre was subsequently demolished in 1981 and a second Marlowe Theatre opened at The Friars where it operated for 25 years. This was demolished in 2009 to make way for today’s Marlowe on the same site. 
+In 1949, as the city recovered from devastation left by the bombing raids of the second world war, the Marlowe Theatre opened on St Margaret's Street, in an old cinema, near where the original Roman theatre had been. The stage was improved and soon the theatre was able to attract acts such as the Ballet Rambert.[^ref43] Sir Ernest Pooley who visited the theatre in 1950 said: 'It is most important if we are going to be a truly civilised and truly artistic nation that we learn by degrees to wean people back from the picture theatre to the living stage.'[^ref44] The theatre was subsequently demolished in 1981 and a second Marlowe Theatre opened at The Friars where it operated for 25 years. This was demolished in 2009 to make way for today’s Marlowe on the same site. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_826186.jpg" label="The second Marlowe Theatre" attribution="Stephen McKay, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Marlowe_Theatre%2C_Canterbury.jpg" label="The third Marlowe Theatre, Canterbury" attribution="Nilfanion, via Wikimedia Commons" license="CC BY-SA 4.0">
 
-As well as the theatres, the city has also played host to other arts and culture venues. The Princess Alexandra Music Hall and Penny Theatre operated between 1750 and 1903 in a 17th century building with a minstrel's gallery at 30-31, Northgate. A plan to turn it into a museum of amusement machines was turned down by the council in 1982.[^ref44] Throughout the 1990s and early 2000s, it acted as a popular venue for jazz, folk, rock and blues bands. 
+As well as the theatres, the city has also played host to other arts and culture venues. The Princess Alexandra Music Hall and Penny Theatre operated between 1750 and 1903 in a 17th century building with a minstrel's gallery at 30-31, Northgate. A plan to turn it into a museum of amusement machines was turned down by the council in 1982.[^ref45] Throughout the 1990s and early 2000s, it acted as a popular venue for jazz, folk, rock and blues bands. 
 <br><br>
 The city remains a vibrant centre for theatre with its annual Canterbury Festival, amateur dramatic groups such as the The Canterbury Players and the arts and culture programmes at its three universities.
 <br><br>
@@ -147,15 +147,15 @@ This article was published: 7 August 2023.
 [^ref25]: Morning Post, 3 Sept. 1807. British Library Newspapers, link.gale.com/apps/doc/R3209697340/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=5e751f39. Accessed 6 Aug. 2023.
 [^ref26]: Goulden Collection of Play Bills, Beaney House of Art and Knowledge.
 [^ref27]: Dickens, Charles (ed.) _Memoirs of Joseph Grimaldi_, 1838, 162.
-[^ref28]:
-[^ref29]:
+[^ref28]: Kentish Weekly Post or Canterbury Journal - Friday 27 December 1816
+[^ref29]: "Thomas Sidney Cooper, R.A." The Athenaeum.3877 (1902): 215. ProQuest. Web. 7 Aug. 2023.
 [^ref30]: "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859.
-[^ref31]:
+[^ref31]: Manners, David. _Canterbury Stage By Stage_ 2011.
 [^ref32]: "Mr Dickens's reading." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 09 November 1861.
 [^ref33]: "Mr Charles Dickens's reading." _Kentish Chronicle_ - Saturday 09 November 1861.
-[^ref34]:
-[^ref35]:
-[^ref36]:
+[^ref34]: "Theatre Royal Canterbury." _South Eastern Gazette_ - Tuesday 06 October 1863.
+[^ref35]: "Theatre Royal Canterbury." _Faversham News_ - Saturday 22 August 1891.
+[^ref36]: Goulden COllection of Play Bills, Beaney House of Art and Knowledge.
 [^ref37]: Kinematograph Weekly - Thursday 10 July 1913.
 [^ref38]: Manners, David. _Canterbury Stage By Stage_ 2011.
 [^ref39]: Sheerness Guardian and East Kent Advertiser - Saturday 27 May 1876.
