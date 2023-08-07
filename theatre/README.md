@@ -48,6 +48,12 @@ Edith ‘Edy” Craig was a trailblazing theatrical director, producer, costumie
 
 Dora Jordan who was the foremost actress of her day toured the provinces extensively, making several visits to Kent in the late 18th and early 19th century.
 
+## Theatrical Entertainment in Canterbury {href=/theatre/theatre-canterbury}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6b776164-7839-473f-aaf6-1f3065f06387)
+
+From Roman times to the present day, Canterbury has a vibrant theatre history.
+
 ## Douglas William Jerrold {href=/19c/19c-jerrold-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d4f592c-8356-414b-b38d-d9187bfd720d)
