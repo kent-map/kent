@@ -112,16 +112,11 @@ In 1949, as the city recovered from devastation left by the bombing raids of the
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Marlowe_Theatre%2C_Canterbury.jpg" label="The third Marlowe Theatre, Canterbury" attribution="Nilfanion, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 As well as the theatres, the city has also played host to other arts and culture venues. The Princess Alexandra Music Hall and Penny Theatre operated between 1750 and 1903 in a 17th century building with a minstrel's gallery at 30-31, Northgate. A plan to turn it into a museum of amusement machines was turned down by the council in 1982.[^ref40] Throughout the 1990s and early 2000s, it acted as a popular venue for jazz, folk, rock and blues bands. 
+<br><br>
+The city remains a vibrant centre for theatre with its annual Canterbury Festival, amateur dramatic groups such as the The Canterbury Players and the arts and culture programmes at its three universities.
+<br><br>
+This article was published: 7 August 2023.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Penny_Theatre%2C_Canterbury_-_geograph.org.uk_-_4051515.jpg" label="The Penny Theatre, Canterbury" attribution=" Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
-
-### Bibliography 
-
-Arthurlloyd.co.uk    
-Baker, Jean Napier. _Theatre in the Provinces of Eighteenth and early Nineteenth Centuries with special reference to Sarah Baker in Kent._ University of Kent, 2000.   
-Burton, Simon. The Spin, The Guardian, 26 November 2019. 
-Manners, David. _Canterbury Stage By Stage_ 
-The Oxford Dictionary of National Biography 
-The Victoria and Albert Museum 
 
 ### References
 
