@@ -48,12 +48,6 @@ Edith ‘Edy” Craig was a trailblazing theatrical director, producer, costumie
 
 Dora Jordan who was the foremost actress of her day toured the provinces extensively, making several visits to Kent in the late 18th and early 19th century.
 
-## Theatrical Entertainment in Canterbury {href=/theatre/theatre-canterbury}
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6b776164-7839-473f-aaf6-1f3065f06387)
-
-From Roman times to the present day, Canterbury has a vibrant theatre history.
-
 ## Douglas William Jerrold {href=/19c/19c-jerrold-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0d4f592c-8356-414b-b38d-d9187bfd720d)
@@ -83,6 +77,12 @@ Charles Shadwell wrote A Fair Quaker of Deal whilst he was working as supervisor
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8106c5f4-37f3-4526-afe4-5fd40ef48d05)
 
 Ellen Terry was the superstar English actress of the Victorian period. Born to a theatrical family, she first trod the boards aged eight in the part of Mamillius in The Winter’s Tale. 
+
+## Theatrical Entertainment in Canterbury {href=/theatre/canterbury-theatre}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6b776164-7839-473f-aaf6-1f3065f06387)
+
+From Roman times to the present day, Canterbury has a vibrant theatre history.
 
 ## Florence Warden {href=/19c/19c-florence-warden-biography}
 
