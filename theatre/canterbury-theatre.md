@@ -13,7 +13,7 @@ In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 66
 
 By the sixteenth century, the good folk of Canterbury revelled in pageantry. The annual pageant of St. Thomas, in which billmen and bowmen marched behind a mechanical effigy of St Thomas which was mounted on a cart, was guaranteed to thrill its audience. Four boys, dressed as Reginald Fitzurse, Hugh de Morville, Richard Brito and William de Tracythe, the four knights who had killed Thomas Becket, accompanied the effigy carring a leather bag of blood.[^ref4]
 <br><br>
-In 1538, John ‘Bileous' Bale, a former Carmelite friar who was famed for anti-Catholic vitriole, wrote 'King John', a piece of Protestant propaganda, which was performed at the court of Henry VIII. it is argued is the earliest historical drama in English.[^ref5] It was probably performed at St Stephens in 1538, the year in which Henry had ordered the destruction of the shrine of St Thomas.
+In 1538, John ‘Bileous' Bale, a former Carmelite friar who was famed for anti-Catholic vitriole, wrote 'King John', a piece of Protestant propaganda, which was performed at the court of Henry VIII. It is argued that it is the earliest historical drama in English.[^ref5] It was probably performed at St Stephens in 1538, the year in which Henry had ordered the destruction of the shrine of St Thomas.
 <br><br>
 After this, the pageant was reinvented as a Gog and Magog procession in the London tradition with St Thomas replaced by two terrible giants. 
 <br><br>
