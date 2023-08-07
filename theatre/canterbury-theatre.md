@@ -54,29 +54,29 @@ By 1737, the Licensing Act or ‘Gagging Act’ restricted the production of pla
 <br><br>
 In 1752,‘Canterbury Smith', who had taken over Kentish theatres in 1751 from Perry’s ‘Company of Comedians’ hired Roger Kemble, strolling player and actor to perform at Canterbury's theatre. It was here that Kemble met Fanny Furnival, a widowed actress, who was noted for having performed the role of Hamlet. She took the name "Mrs Kemble", although it is unlikely the couple married.[^ref18] 
 <br><br>
-Roger Kemble later married Sarah Ward, and was the father of Sarah Siddons, the celebrated actress who played at the Theatre Royal Margate; John Philip Kemble who was considered ‘England’s finest actor’; and Charles Kemble, who performed the office of Examiner of Plays, under the Licensing Act. 
+Roger Kemble later married Sarah Ward, and was the father of Sarah Siddons, the celebrated actress who played at the Theatre Royal Margate; John Philip Kemble who was considered England’s finest actor; and Charles Kemble, who performed the office of Examiner of Plays, under the Licensing Act. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/53/Mrs_Sarah_Siddons.jpg" label="Sarah Siddons" attribution="Thomas Lawrence, National Library of Wales, Public domain, via Wikimedia Commons">
 
-Theatrical performances continued to delight Canterbury audiences throughout the eighteenth century. On 9 June 1773, Mr Perry in a new prologue, written for the opening of the theatre in Canterbury, said:
+Theatrical performances continued to delight Canterbury audiences throughout the eighteenth century. In 1770, Mr Perry of Convent Garden Theatre was head of a summer company at Canterbury Theatre, a rickety wooden building in the Buttermarket outside Christchurch Gate. On 9 June 1773, in a new prologue, written for the opening of the theatre in Canterbury, Mr Perry said:
 <br><br>
 'Happy once more to tread this well-known stage, where I have strutted in my Infant Age - When Perry's Sons, Years twenty past almost, Oft play'd the Scene of Hamlet and the Ghost, Oft weild the Truncheon in the Tragic Scene. In Great Tom Thumb was Master Perry seen! Growing to riper Age, pursued the Art, And sought Acquaintance with each manly part. Till now, some four Years past a Plan I drew, Engag'd this House once more to strut 'fore you. You, whose applause had fir'd my Infant mind; By you inspir'd the Buskin' troop, I join'd.'
 <br><br>
-Mr Perry speaks of the cruel blows he has received at the hands of "Dame Fortune" (presumably when Smith took over the theatres) but hopes to revive his career on the stage that made him.[^ref16]
+Mr Perry speaks of the cruel blows he had received at the hands of "Dame Fortune" but hopes to revive his career on the stage that made him.[^ref19] This cruel blow was probably as the result of the bad press he received at Covent Garden when a disgruntled theatre-goer on asking who was on stage, exclaimed "Perry! By G__ I wish it was MUM."[^ref20]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canterbury%2C_Buttermarket_-_geograph.org.uk_-_3231159.jpg" label="Canterbury Buttermarket" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0">
 
-In April 1780, ‘The Oaks or The Beauties of Canterbury’, written by Canterbury pastry cook and mantua maker, [Elizabeth Burgess](/18c/18c-burgess-biography/) was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate. It was printed at her own expense and survives in full. The Prologues were spoken by Mr Miell and the Epilogue by Mrs Dawes. The Buttermarket theatre was also used by [Sarah Baker](/18c/18c-baker-biography/) who opened her own theatre in Orange Street in 1789, after the Pavement Commissioners tore down the old building.[^ref17]
+In April 1780, ‘The Oaks or The Beauties of Canterbury’, written by Canterbury pastry cook and mantua maker, [Elizabeth Burgess](/18c/18c-burgess-biography/) was performed at Canterbury’s Theatre. It was printed at her own expense and survives in full. The Buttermarket theatre was also used by [Sarah Baker](/18c/18c-baker-biography/) who opened her own theatre in Orange Street in 1789, after the Pavement Commissioners tore down the old building.[^ref21]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Christ_Church_Gate_-Joseph_Mallord_William_Turner.png" label="Christchurch Gate, 1792" attribution	Joseph Mallord William Turner, via Wikimedia Commons">
 
-Sarah Baker, who built four theatres in Kent, was able to entice new actors from London to join her company, such as Edmund Kean, Thomas Dibdin and Charles Incledon.  In 1801, Sarah Baker secured the famous Mrs [Dora Jordan](/19c/19c-jordan-biography/) for two nights at the Canterbury Theatre, but she was severely criticised for the hike in ticket price to four shillings.[^ref18] Members of Sarah Baker’s company were Mr.John Sloman, Mr. Smollett; both who wrote and performed songs in between acts. Mrs Baker’s daughter, also Sarah, married Mr. William Dowton, an actor who had joined Mrs Baker’s company in 1791.[^ref19] 
+Sarah Baker, who built four theatres in Kent, was able to entice new actors from London to join her company, such as Edmund Kean, Thomas Dibdin and Charles Incledon.  In 1801, Sarah Baker secured the famous Mrs [Dora Jordan](/19c/19c-jordan-biography/) for two nights at the Canterbury Theatre, but she was severely criticised for the hike in ticket price to four shillings.[^ref22] Members of Sarah Baker’s company were Mr.John Sloman, Mr. Smollett; both who wrote and performed songs in between acts. Mrs Baker’s daughter, also Sarah, married Mr. William Dowton, an actor who had joined Mrs Baker’s company in 1791.[^ref23] 
 <br><br>
-Etiquette in the theatres was sometimes wanting and in 1807, "a wanton act of atrocity" occurred at Canterbury when a man threw a quart glass bottle into the pit hitting a servant of Lord Cranley. The audience beying for retribution shouted 'throw him over' but he was quickly arrested and put in the Westgate Gaol.[^ref20]
+Etiquette in the theatres was sometimes wanting and in 1807, "a wanton act of atrocity" occurred at Canterbury when a man threw a quart glass bottle into the pit hitting a servant of Lord Cranley. The audience beying for retribution shouted 'throw him over' but he was quickly arrested and put in the Westgate Gaol.[^ref24]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5a/William_Dowton_as_Sir_Anthony_Absolute_in_%22The_Rivals%22_-_DPLA_-_a80a55ea30ee668fdcdcb7323fcf185b.jpg" label="William Dowton as Sir Anthony Absolute in the Rivals" attribution="University of Illinois Urbana-Champaign University Library, Public domain, via Wikimedia Commons">
 
-After the death of Sarah Baker in 1816, her son-in-law, William Dowton ran the theatre, attracting big names such as Joseph Grimaldi, the famous clown. On Tuesday, May 6th, 1817, Grimaldi, played ‘Bob Acres’ in Sheridan’s five part comedy, “The Rivals”.  Grimaldi sung one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’ [sic][^ref21] in “DON JUAN or the Libertine Destroyed”. In his memoir, edited by [Charles Dickens](/dickens/dickens-biography) it is noted that Grimaldi's 'gains' were larger in the provinces and his effort less, than when he performed in London. [ref22]
+After the death of Sarah Baker in 1816, her son-in-law, William Dowton ran the theatre, attracting big names such as Joseph Grimaldi, the famous clown. On Tuesday, May 6th, 1817, Grimaldi, played ‘Bob Acres’ in Sheridan’s five part comedy, “The Rivals”.  Grimaldi sung one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’ [sic][^ref25] in “DON JUAN or the Libertine Destroyed”. In his memoir, edited by [Charles Dickens](/dickens/dickens-biography) it is noted that Grimaldi's 'gains' were larger and his effort less, than when he performed in London. [ref26]
 <br><br>
-Dowton also allowed amateur performers to use the theatre for their own private theatricals and in January 1817, the gentlemen amateurs of Charlton Place near Canterbury performed for the benefit of the widow of Alderman Salmon.[^ref23]
+Dowton also allowed amateur performers to use the theatre for their own private theatricals and in January 1817, the gentlemen amateurs of Charlton Place near Canterbury performed for the benefit of the widow of Alderman Salmon.[^ref27]
 <br><br>
-The theatre sets were painted by the young Thomas Sidney Cooper, before he began his formal training as an artist.[^ref24]
+The theatre sets were painted by the young Thomas Sidney Cooper, before he began his formal training as an artist.[^ref28]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/11/Joseph_Grimaldi.jpg" label="Joseph Grimaldi as Clown Joey" attribution="George Cruikshank, Public domain, via Wikimedia Commons">
 <param ve-image url="https://stor.artstor.org/stor/36430364-5e5f-41c5-a111-211dda4fff3e" label="Orange Street Theatre" attribution="Michelle Crowther">
 
@@ -142,28 +142,29 @@ The Victoria and Albert Museum
 [^ref16]: "For the Benefit of Mr Green and Mr Vaughan the Harlequin." _Kentish Weekly Post or Canterbury Journal_ - Wednesday 01 August 1739.
 [^ref17]: "At the Theatre in Canterbury." _Kentish Weekly Post or Canterbury Journal_ - Saturday 25 August 1739.
 [^ref18]:
-[^ref16]:
-[^ref17]: Rosman, Doreen, _Canterbury a History since 1500_ 120.
-[^ref18]:
-[^ref19]: Baker, Jean Napier (2000) _Theatre in the provinces in the late eighteenth and early nineteenth centuries : with special reference to Sarah Baker in Kent._ PhD thesis, University of Kent.
-[^ref20]: Morning Post, 3 Sept. 1807. British Library Newspapers, link.gale.com/apps/doc/R3209697340/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=5e751f39. Accessed 6 Aug. 2023.
-[^ref21]:
-[^ref22]: Dickens, Charles (ed.) _Memoirs of Joseph Grimaldi_, 1838, 162.
-[^ref23]:
-[^ref24]:
-[^ref25]: "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859.
-[^ref26]:
-[^ref27]: "Mr Dickens's reading." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 09 November 1861.
-[^ref28]: "Mr Charles Dickens's reading." _Kentish Chronicle_ - Saturday 09 November 1861.
-[^ref29]:
+[^ref19]:
+[^ref20]: "News." Hoey's Dublin Mercury, September 15, 1770 - September 18, 1770. Seventeenth and Eighteenth Century Burney Newspapers Collection, link.gale.com/apps/doc/Z2000501619/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=53de1532. Accessed 7 Aug. 2023.
+[^ref21]: Rosman, Doreen, _Canterbury a History since 1500_ 120.
+[^ref22]:
+[^ref23]: Baker, Jean Napier (2000) _Theatre in the provinces in the late eighteenth and early nineteenth centuries : with special reference to Sarah Baker in Kent._ PhD thesis, University of Kent.
+[^ref24]: Morning Post, 3 Sept. 1807. British Library Newspapers, link.gale.com/apps/doc/R3209697340/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=5e751f39. Accessed 6 Aug. 2023.
+[^ref25]: Goulden Collection of Play Bills, Beaney House of Art and Knowledge.
+[^ref26]: Dickens, Charles (ed.) _Memoirs of Joseph Grimaldi_, 1838, 162.
+[^ref27]:
+[^ref28]:
+[^ref29]: "The Guildhall Concert Room" _Kentish Gazette_ - Tuesday 11 October 1859.
 [^ref30]:
-[^ref31]:
-[^ref32]: Kinematograph Weekly - Thursday 10 July 1913.
-[^ref33]: Manners, David. _Canterbury Stage By Stage_ 2011.
-[^ref34]: Sheerness Guardian and East Kent Advertiser - Saturday 27 May 1876.
-[^ref35]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
-[^ref36]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
-[^ref37]: "Margate Items." _East Kent Times and Mail_ - Saturday 24 February 1934
-[^ref38]: "Marlowe Theatre, Canterbury." _Faversham News_ - Friday 27 July 1951.
-[^ref39]: "Canterbury's Place in Britain's Life." _Kent Messenger & Gravesend Telegraph_ - Friday 15 December 1950.
-[^ref40]: "About Kent" _Kentish Express_ - Friday 07 May 1982.
+[^ref31]: "Mr Dickens's reading." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 09 November 1861.
+[^ref32]: "Mr Charles Dickens's reading." _Kentish Chronicle_ - Saturday 09 November 1861.
+[^ref33]:
+[^ref34]:
+[^ref35]:
+[^ref36]: Kinematograph Weekly - Thursday 10 July 1913.
+[^ref37]: Manners, David. _Canterbury Stage By Stage_ 2011.
+[^ref38]: Sheerness Guardian and East Kent Advertiser - Saturday 27 May 1876.
+[^ref39]: "Canterbury's New Electric Theatre." _Canterbury Journal, Kentish Times and Farmers' Gazette_ - Saturday 10 June 1911.
+[^ref40]: "Canterbury Electric Theater." _Kentish Gazette_ - Saturday 01 January 1916.
+[^ref41]: "Margate Items." _East Kent Times and Mail_ - Saturday 24 February 1934
+[^ref42]: "Marlowe Theatre, Canterbury." _Faversham News_ - Friday 27 July 1951.
+[^ref43]: "Canterbury's Place in Britain's Life." _Kent Messenger & Gravesend Telegraph_ - Friday 15 December 1950.
+[^ref44]: "About Kent" _Kentish Express_ - Friday 07 May 1982.
