@@ -11,11 +11,15 @@ By Anglo Saxon times, the amphitheatre along with many of the other city's build
 In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 667-690, banned dressing up as stags or other beasts which was customary during the midwinter celebrations, seeing these public displays as peverse and 'devilish'.[^ref3]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Sculpture_next_to_the_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_5056632.jpg" label="Sculpture next to the Marlowe Theatre" attribution="pam fray, via Wikimedia Commons" license="CC BY-SA 2.0">
 
-By the sixteenth century, the good folk of Kent revelled in pageantry. A church warden from the parish of St Dunstan’s noted: 
+By the sixteenth century, the good folk of Kent revelled in pageantry. The annual pageant of St. Thomas, in which billmen and bowmen marched behind a mechanical effigy of St Thomas mounted on a cart was guaranteed to thrill its audience. Four boys, dressed as the four knights who had killed Thomas Becket, accompanied the effigy carring a leather bag of blood.[^ref4]
 <br><br>
-'Canterbury has its own pageant of St. Thomas, with one hundred billmen and bowmen preceding a pageant wagon. On it, stood the figures of St Thomas, with a mechanical moving head and a hidden bag of blood, four boy knights, with splendidly gilded armour.'[^ref4]
+In the 1530s, John ‘Bileous' Bale famed for anti-Catholic vitriole, wrote 'King John' which it is argued is the earliest historical drama in English.[^ref5] It was probably performed at St Stephens in 1538. 
 <br><br>
-In the 1530s, John ‘Bileous' Bale famed for anti-Catholic vitriole, wrote 'King John' which it is argued is the earliest historical drama in English.[^ref5] It was probably performed at St Stephens in 1538. In May 1560, it was rumoured that Bale was staging a satirical play about the city's friars with schoolboys from the local grammar school.[^ref6]
+After Henry VIII ordered the destruction of the shrine of Becket in 1538, the pageant was reinvented as a Gog and Magog procession in the London tradition with St Thomas replaced by two terrible giants. 
+<br><br>
+In May 1560, it was rumoured that Bale was staging a satirical play about the city's friars with schoolboys from the local grammar school.[^ref6]
+<br><br>
+The pageant of St Thomas returned in the reign of Mary I but disappeared once again in the reign of Elizabeth I.
 <param ve-image url="https://stor.artstor.org/stor/0305cedf-03b9-479f-a356-e042ab8c57f3" label="Canterbury Pageant" attribution="Michelle Crowther">
 
 Christopher Marlowe, spy and playwright, was born at 57, St George's Street in 1564 and attended the King's school from 1578 before moving to Cambridge and later London. In 1592, he visited Canterbury to see his play 'The Jew of Malta' performed at the Guildhall. Whilst staying in the city, Marlowe got into a fight with a tailor, William Corkine, at the Cheker of Hope Inn. The inn which also served as a theatre venue, had a galleried courtyard and could accommodate up to 100 pilgrims. It is mentioned in the fifeenth century ‘Tale of Beryn’ a Middle English addition to [Chaucer](/medieval/14c-chaucer)'s Canterbury Tales. Corkine claimed that Marlowe had attacked him 'with staff and dagger' but Marlowe claimed that Corkine was the aggressor. In the end they seem to patch things up, as the case was dropped.[^ref6]
@@ -122,7 +126,7 @@ The Victoria and Albert Museum
 [^ref1]: Bateman, Audrey. _Hail, Mother of England: a Social History of Canterbury_. Rochester Press, 1984, 2.
 [^ref2]: Canterbury Archaeological Trust.
 [^ref3]: Frampton, George. _Discordant Comicals: the Hooden Horse of East Kent_ 23
-[^ref4]: Manners, David. _Canterbury Stage By Stage_ 2011.
+[^ref4]: Brigstocke Sheppard. "The Canterbury Marching Watch and its Pageant of St Thomas." _Archaeologia Cantiana_ 12, 1878.
 [^ref5]: Brown, Hutchinson and Irwin _Written City_ 
 [^ref6]: King, John N. "Bale, John (1495–1563), bishop of Ossory, evangelical polemicist, and historian." _Oxford Dictionary of National Biography_.  October 08, 2009. Oxford University Press. Date of access 5 Aug. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-1175>
 [^ref6]: Nicholl, Charles. "Marlowe [Marley], Christopher (bap. 1564, d. 1593), playwright and poet." Oxford Dictionary of National Biography.  January 03, 2008. Oxford University Press. Date of access 5 Aug. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18079>
