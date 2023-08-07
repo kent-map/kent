@@ -4,8 +4,9 @@
 
     - [About](/about) 
 
-Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops. [Overview](19c-kent)
- for further information. 
+Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops.
+<br><br>
+Read the [Overview](19c-kent) for further information. 
 
 # &nbsp; {.cards} 
 
@@ -14,6 +15,9 @@ Hoy and steam boats, railways and passenger ships brought people to the county i
 ## A-C {href=a-c}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://smarthistory.org/wp-content/uploads/2021/03/atkinsfinal.jpg) 
+
+Adams, Ainsworth, Andersen, Atkins, Austen, Austin, Barr, Blackmore, Braddon, Brent, Browne, Burdett-Coutts, Burges, Burnand, Carlyle, Challacombe, Cowden Clarke, Collins
+Conrad, Craik and Crowe
 
 ## D-G {href=h-r}
 
