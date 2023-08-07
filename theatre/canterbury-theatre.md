@@ -50,16 +50,16 @@ Canterbury was the setting for Edward Ravenscroft's 1694 comedy _The Canterbury 
 The _Canterbury Guests_ which included incidental [music](https://youtu.be/S6-xhtK7rc8) composed by Henry Purcell does not appear to have been performed in Canterbury and the promised entertainment was only of the gastronomical variety. The Star Inn near St George's Gate dates from 1689 and The Rose from 1692 so it would appear Ravenscroft had local knowledge.
 <param ve-image url="https://stor.artstor.org/stor/c8270a90-11bb-4a80-aa86-c01accee9063" label="St George's Gate" attribution="Kent Maps Online Collection">
 
-In 1729, Pinchbeck's Grand Theatre of the Muses, a machine with scenes and music, plied the streets of Dover, Sandwich and Canterbury offering a different kind of street theatre.[^ref16]
+Theatrical performances continued to delight Canterbury audiences throughout the eighteenth century. In 1729, Pinchbeck's Grand Theatre of the Muses, a machine with scenes and music, plied the streets of Dover, Sandwich and Canterbury offering a different kind of street entertainment.[^ref16] 
 <br><br>
-By 1737, the Licensing Act or ‘Gagging Act’ restricted the production of plays.  Censorship was introduced by the Lord Chamberlain and his examiners, to root out anti-government sentiment and this practice continued until 1843 when the act was modified by the Theatres Act. To avoid prosecution, players interspersed scenes with melodrama, burlesque, song and dance. On 1 August 1739, the Company of Comedians from the Royal Theatres in London performed 'The Committee: Or, the Faithful Irishman' at the theatre in Canterbury to which was added a new pantomime entertainment in Grotesque characters.[^ref17]  Two weeks later, the comedy 'The Tender Husband; Or Accomplished Fools' was performed at the Theatre, Canterbury with entertainments of singing and dancing.[^ref18] 
+However, by 1737, the Licensing Act or ‘Gagging Act’ restricted the production of plays.  Censorship was introduced by the Lord Chamberlain and his examiners, to root out anti-government sentiment and this practice continued until 1843 when the act was modified by the Theatres Act. To avoid prosecution, players interspersed scenes with melodrama, burlesque, song and dance. On 1 August 1739, the Company of Comedians from the Royal Theatres in London performed 'The Committee: Or, the Faithful Irishman' at the theatre in Canterbury to which was added a new pantomime entertainment in Grotesque characters.[^ref17]  Two weeks later, the comedy 'The Tender Husband; Or Accomplished Fools' was performed at the Theatre, Canterbury with entertainments of singing and dancing.[^ref18] 
 <br><br>
 In 1752, ‘Canterbury Smith', who had taken over Kentish theatres in 1751 from Perry’s ‘Company of Comedians’ hired Roger Kemble, strolling player and actor to perform at Canterbury's theatre. It was here that Kemble met Fanny Furnival, a widowed actress, who was noted for having performed the role of Hamlet. She took the name "Mrs Kemble", although it is unlikely the couple married.[^ref19] 
 <br><br>
 Roger Kemble later married Sarah Ward, and was the father of Sarah Siddons, the celebrated actress who played at the Theatre Royal Margate; John Philip Kemble who was considered England’s finest actor; and Charles Kemble, who performed the office of Examiner of Plays, under the Licensing Act. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/53/Mrs_Sarah_Siddons.jpg" label="Sarah Siddons" attribution="Thomas Lawrence, National Library of Wales, Public domain, via Wikimedia Commons">
 
-Theatrical performances continued to delight Canterbury audiences throughout the eighteenth century. In 1770, Mr Perry of Convent Garden Theatre was head of a summer company at Canterbury Theatre, a rickety wooden building in the Buttermarket outside Christchurch Gate. On 9 June 1773, in a new prologue, written for the opening of the season in Canterbury, Mr Perry said:
+In 1770, Mr Perry of Convent Garden Theatre was head of a summer company at Canterbury Theatre, a rickety wooden building in the Buttermarket outside Christchurch Gate. On 9 June 1773, in a new prologue, written for the opening of the season in Canterbury, Mr Perry said:
 <br><br>
 'Happy once more to tread this well-known stage, where I have strutted in my Infant Age - When Perry's Sons, Years twenty past almost, Oft play'd the Scene of Hamlet and the Ghost, Oft weild the Truncheon in the Tragic Scene. In Great Tom Thumb was Master Perry seen! Growing to riper Age, pursued the Art, And sought Acquaintance with each manly part. Till now, some four Years past a Plan I drew, Engag'd this House once more to strut 'fore you. You, whose applause had fir'd my Infant mind; By you inspir'd the Buskin' troop, I join'd.'
 <br><br>
@@ -73,7 +73,7 @@ Sarah Baker, who built four theatres in Kent, was able to entice new actors from
 Etiquette in the theatres was sometimes wanting and in 1807, "a wanton act of atrocity" occurred at Canterbury when a man threw a quart glass bottle into the pit hitting a servant of Lord Cranley. The audience beying for retribution shouted 'throw him over' but he was quickly arrested and put in the Westgate Gaol.[^ref25]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5a/William_Dowton_as_Sir_Anthony_Absolute_in_%22The_Rivals%22_-_DPLA_-_a80a55ea30ee668fdcdcb7323fcf185b.jpg" label="William Dowton as Sir Anthony Absolute in the Rivals" attribution="University of Illinois Urbana-Champaign University Library, Public domain, via Wikimedia Commons">
 
-After the death of Sarah Baker in 1816, her son-in-law, William Dowton ran the theatre, attracting big names such as Joseph Grimaldi, the famous clown. On Tuesday, May 6th, 1817, Grimaldi, played ‘Bob Acres’ in Sheridan’s five part comedy, “The Rivals”.  Grimaldi sung one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’ [sic][^ref26] in “DON JUAN or the Libertine Destroyed”. In his memoir, edited by [Charles Dickens](/dickens/dickens-biography) it is noted that Grimaldi's 'gains' were larger and his effort less, than when he performed in London. [ref27]
+After the death of Sarah Baker in 1816, her son-in-law, William Dowton ran the theatre, attracting big names such as Joseph Grimaldi, the famous clown. On Tuesday, May 6th, 1817, Grimaldi, played ‘Bob Acres’ in Sheridan’s five part comedy, “The Rivals”.  Grimaldi sung one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’ [sic][^ref26] in “DON JUAN or the Libertine Destroyed”. In his memoir, edited by [Charles Dickens](/dickens/dickens-biography) it is noted that Grimaldi's 'gains' were larger and his effort less, when he performed in the provinces. [ref27]
 <br><br>
 Dowton also allowed amateur performers to use the theatre for their own private theatricals and in January 1817, the gentlemen amateurs of Charlton Place near Canterbury performed for the benefit of the widow of Alderman Salmon.[^ref28]
 <br><br>
@@ -138,11 +138,11 @@ This article was published: 7 August 2023.
 [^ref16]: Kentish Weekly Post or Canterbury Journal - Wednesday 19 November 1729.
 [^ref17]: "For the Benefit of Mr Green and Mr Vaughan the Harlequin." _Kentish Weekly Post or Canterbury Journal_ - Wednesday 01 August 1739.
 [^ref18]: "At the Theatre in Canterbury." _Kentish Weekly Post or Canterbury Journal_ - Saturday 25 August 1739.
-[^ref19]:
-[^ref20]:
+[^ref19]: Thomson, Peter. "Kemble, Roger (1722–1802), actor and theatre manager." Oxford Dictionary of National Biography.  September 23, 2004. Oxford University Press. Date of access 7 Aug. 2023, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15325>
+[^ref20]: "News." Public Advertiser, 19 June 1773. Seventeenth and Eighteenth Century Burney Newspapers Collection, link.gale.com/apps/doc/Z2001144279/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=c3e580eb. Accessed 7 Aug. 2023.
 [^ref21]: "News." Hoey's Dublin Mercury, September 15, 1770 - September 18, 1770. Seventeenth and Eighteenth Century Burney Newspapers Collection, link.gale.com/apps/doc/Z2000501619/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=53de1532. Accessed 7 Aug. 2023.
 [^ref22]: Rosman, Doreen, _Canterbury a History since 1500_ 120.
-[^ref23]:
+[^ref23]: Kentish Gazette, 4 September, 1801.
 [^ref24]: Baker, Jean Napier (2000) _Theatre in the provinces in the late eighteenth and early nineteenth centuries : with special reference to Sarah Baker in Kent._ PhD thesis, University of Kent.
 [^ref25]: Morning Post, 3 Sept. 1807. British Library Newspapers, link.gale.com/apps/doc/R3209697340/BNCN?u=ccc_uni&sid=bookmark-BNCN&xid=5e751f39. Accessed 6 Aug. 2023.
 [^ref26]: Goulden Collection of Play Bills, Beaney House of Art and Knowledge.
