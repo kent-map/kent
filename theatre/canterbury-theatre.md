@@ -11,7 +11,7 @@ By Anglo Saxon times, the amphitheatre along with many of the other city's build
 In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 667-690, banned dressing up as stags or other beasts which was customary during the midwinter celebrations, seeing these public displays as peverse and 'devilish'.[^ref3]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Sculpture_next_to_the_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_5056632.jpg" label="Sculpture next to the Marlowe Theatre" attribution="pam fray, via Wikimedia Commons" license="CC BY-SA 2.0">
 
-By the sixteenth century, the good folk of Kent revelled in pageantry. The annual pageant of St. Thomas, in which billmen and bowmen marched behind a mechanical effigy of St Thomas mounted on a cart was guaranteed to thrill its audience. Four boys, dressed as the four knights who had killed Thomas Becket, accompanied the effigy carring a leather bag of blood.[^ref4]
+By the sixteenth century, the good folk of Kent revelled in pageantry. The annual pageant of St. Thomas, in which billmen and bowmen marched behind a mechanical effigy of St Thomas mounted on a cart, was guaranteed to thrill its audience. Four boys, dressed as the four knights who had killed Thomas Becket, accompanied the effigy carring a leather bag of blood.[^ref4]
 <br><br>
 In the 1530s, John ‘Bileous' Bale famed for anti-Catholic vitriole, wrote 'King John' which it is argued is the earliest historical drama in English.[^ref5] It was probably performed at St Stephens in 1538. 
 <br><br>
