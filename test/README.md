@@ -23,13 +23,21 @@ Conrad, Craik and Crowe
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Joseph_Mallord_William_Turner_-_Margate_-_Google_Art_Project.jpg) 
 
+Dadd, Darwin, Dickens, Doyle, Dyce, Eliot, Franklin, Frost, Gould, Grand and Grossmith
+
 ## H-R {href-h-r} 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573.jpg)
 
+Hemery, Henty, Hogarth, Hughes, Hussey, James, Jay, Jerome, Jerrold, Jordan, Keats, Lynn Linton, Littlewood, Marchant, Meredith, Moberly, Montrésor, Pugin, Pyke, Reynolds
+Rossetti and Russell
+
 ## S-Z {href=s-z} 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/65/RothwellMaryShelley.jpg) 
+
+Sala, Sambourne, Shelley, Shore, Stanhope, Stannard, Stopes, Storr, Syrett, Tait, Ternan, Thackeray, Queen Victoria, Wain, Walker, Walpole, Warden, Wodehouse, Zangwill
+
 
 # Events {.cards}
 
