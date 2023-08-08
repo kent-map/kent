@@ -42,6 +42,12 @@ Noel Coward, director, actor and writer, lived at Aldington and later St Margare
 
 Edith ‘Edy” Craig was a trailblazing theatrical director, producer, costumier and actress. She was a founder of the Pioneer Players, a theatrical group dedicated to creating and producing plays of ‘interest and ideas’ dealing with social, political and moral issues.
 
+## George Grossmith {href=/19c/19c-grossmith-biography}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/46/Diary_of_a_Nobody_first.jpg)
+
+George Grossmith was an actor and theatrical manager, producer and director. But his lasting contribution to literature is the comic _Diary of a Nobody_.
+
 ## Dora Jordan {href=/19c/19c-jordan-biography}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fa1d847b-8066-4bd1-9c12-a691efdb2b3e)
