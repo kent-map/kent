@@ -31,6 +31,8 @@ Still, it must be confessed that many readers of [Edwin Drood](/edwin-drood-cura
 [A Mystery Death forbade thee to unfold /
 – Yet Death’s own secret is now solved by thee]( https://books.google.co.uk/books?id=Ds8IAAAAQAAJ&pg=PA99&dq=%22Dickens%22+and+%22John+Brent%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjKrP-csNbwAhUPExQKHQhIDSQQ6AEwAHoECAAQAg#v=onepage&q=%22Dickens%22%20and%20%22John%20Brent%22&f=false).
 Brent himself died of heart disease at his house, 8 Dane John Grove, on 23 April 1882.
+<br><br>
+This article was published: 1 June 2021.
 <param ve-image url="https://stor.artstor.org/stor/000006fe-369e-488c-909b-955d19db4123" label="Don John Grove, with Brent's house on the far left" attribution="Martin Crowther">
 
 
