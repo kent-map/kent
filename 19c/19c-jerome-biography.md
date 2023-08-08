@@ -5,23 +5,23 @@
 
 
 "You’ll find when you get home,” I said, “she has thought of one other thing.”   
-<br><br>
+<br>
 “What’s that?” said Harris.  
-<br><br>
+<br>
 “A house at Folkestone for the season.”  
-<br><br>
+<br>
 “What should she want a house at Folkestone for?” said Harris.  
-<br><br>
+<br>
 "To live in,” I suggested, “during the summer months.”  
-<br><br>
+<br>
 “She’s going to her people in Wales,” said Harris, “for the holidays, with the children; we’ve had an invitation.”  
-<br><br>
+<br>
 “Possibly,” I said, “she’ll go to Wales before she goes to Folkestone, or maybe she’ll take Wales on her way home; but she’ll >want a house at Folkestone for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am — but I feel a presentiment that I’m not.”
-<br><br>
+<br>
 “This trip,” said Harris, “is going to be expensive.”
-<br><br>
+<br>
 “It was an idiotic suggestion,” I said, “from the beginning.”
-<br><br>
+<br>
 _Three Men on the Bummel_   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/13/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.jpg" label="Folkestone The Leas Promenade and Bandstand" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Bandstand%2C_The_Leas%2C_Folkestone_-_geograph.org.uk_-_1980145.jpg" label="The Bandstand, The Leas, Folkestone" attribution="The Bandstand, The Leas, Folkestone by David P Howard, via Wikimedia Commons" license="CC BY-SA 2.0">
