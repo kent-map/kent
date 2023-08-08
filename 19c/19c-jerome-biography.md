@@ -16,7 +16,7 @@
 <br>
 “She’s going to her people in Wales,” said Harris, “for the holidays, with the children; we’ve had an invitation.”  
 <br>
-“Possibly,” I said, “she’ll go to Wales before she goes to Folkestone, or maybe she’ll take Wales on her way home; but she’ll >want a house at Folkestone for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am — but I feel a presentiment that I’m not.”
+“Possibly,” I said, “she’ll go to Wales before she goes to Folkestone, or maybe she’ll take Wales on her way home; but she’ll want a house at Folkestone for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am — but I feel a presentiment that I’m not.”
 <br>
 “This trip,” said Harris, “is going to be expensive.”
 <br>
