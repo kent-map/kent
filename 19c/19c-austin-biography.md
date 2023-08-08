@@ -33,8 +33,7 @@ Poignantly at his death Austin’s own library was found to include works by muc
 
 
 ### Bibliography 
-Austin, Alfred. _The Autobiography of Alfred Austin, Poet Laureate, 1835-1910._ Macmillan 
-  1911. Vol 2 of 2.   
+Austin, Alfred. _The Autobiography of Alfred Austin, Poet Laureate, 1835-1910._ Macmillan 1911. Vol 2 of 2.   
 --. _The Garden That I Love_. London: Alfred and Charles Black, 1906.   
 ‘The Cherub’. _Thanet Advertiser_. 16 July 1892. 5.   
 Hamilton, W. Mabie. ‘Alfred Austin: the New Poet Laureate’. _The Outlook._   
@@ -47,7 +46,6 @@ Walker, Jennifer. _Elizabeth of the German Garden: a Literary Journey_. Brighton
 [Catalogue of the Complete Library of the Late Alfred Austin.](https://babel.hathitrust.org/cgi/pt?id=mdp.39015079885359&view=1up&seq=13&skin=2021)   
 
 ### References
-
 [^ref1]:  ‘Alfred Austin: the New Poet Laureate’. 148.
 [^ref2]:  ‘Alfred Austin: the New Poet Laureate’. 148.
 [^ref3]:  ‘Alfred Austin: the New Poet Laureate’. 150.
