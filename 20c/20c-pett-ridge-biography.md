@@ -44,7 +44,7 @@ His novels include small vignettes of Kentish life which reflect his knowledge o
 
 In another novel, _Table d’hote_ (1910), a coach driver is described trying to convince one of his passengers to take an inside seat, by recounting a tale of a gentleman who had frozen stiff whilst sitting on the outside box-seat. When the coach driver claims that hop driers tried to revive the frozen man in an oast house oven, the passenger exclaims disbelievingly 'Hops in December?'[^ref15]
 <br><br>
-Pett Ridge's love of cricket also appears in his writing. In _The Amazing Years_ (1917) Master Edward who takes a job on the railways, enthusiastically rattles off the scores of a Kent cricket match.[^ref16] (4)
+Pett Ridge's love of cricket also appears in his writing. In _The Amazing Years_ (1917) Master Edward who takes a job on the railways, enthusiastically rattles off the scores of a Kent cricket match.[^ref16]
 <br><br>
 Four of Pett Ridge's books were adapted as films by Eliot Stannard, the son of [Henrietta Vaughan Stannard](/19c/19c-vaughan-stannard-biography)
 
@@ -56,18 +56,18 @@ This article was published: 20 August 2023.
 
 [^ref1]: Faversham Times and Mercury and North-East Kent Journal - Saturday 16 November 1912
 [^ref2]: 1871 census.
-[^ref3]:
-[^ref4]:
-[^ref5]:
+[^ref3]: Pett Ridge, William. _A Story teller_, 1925, p.30.
+[^ref4]: Pett Ridge, William. _A Story teller_, 1925, p.33.
+[^ref5]: Derby Daily Telegraph - Monday 29 September 1930.
 [^ref6]: Pett Ridge, William. _A Story teller_, 1925, pp. 191-2.
 [^ref7]: Maidstone Journal and Kentish Advertiser - Monday 06 November 1871
 [^ref8]: East Kent Gazette - Saturday 08 March 1873
 [^ref9]: Pett Ridge, William. _A Story teller_, 1925, p. 1.
-[^ref10]:
-[^ref11]:
-[^ref12]:
+[^ref10]: Pett Ridge, William. _A Story teller_, 1925, p. 2.
+[^ref11]: Adcock, Arthur St. John. _The glory that was Grub Street; impressions of contemporary authors_, 1969, p.272. 
+[^ref12]: Bennett, Arnold. _Arnold Bennett and H.G. Wells : a record of a personal and a literary friendship_, 1960, 125.
 [^ref13]: Pett Ridge, William. _A Story teller_, 1925, p.278.
 [^ref14]: Pett Ridge, William. _Erb_, 1903
 [^ref15]: Pett Ridge, William. _Table d'hote_, 1910, 
-[^ref16]:
-[^ref17]:
+[^ref16]: Pett Ridge, William. _The Amazing Years_, 1917, 4.
+[^ref17]: Derby Daily Telegraph - Monday 29 September 1930.
