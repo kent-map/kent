@@ -37,6 +37,7 @@
 [Wilfred Owen](20c-owen-biography)   
 [Marian Fielding Peck](20c-peck-biography)     
 [Mary L. Pendered](20c-pendered-biography)   
+[William Pett Ridge](20c-pett-ridge-biography)   
 [Bertha Porter](20c-porter-biography)   
 [J.G. Sarasin](20c-salmon-biography)   
 [Christopher St John](20c-st-john-biography)  
