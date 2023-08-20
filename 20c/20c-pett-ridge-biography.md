@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="William Pett Ridge (1859-1930)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Court%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2369693.jpg" attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" license="CC BY-SA 2.0">
+<param ve-config title="William Pett Ridge (1859-1930)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/Chilham%2C_Shelly%27s_Tea_Room_-_geograph.org.uk_-_4831929.jpg" attribution="Chilham: Shelly's Tea Room by Michael Garlick, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 <param ve-entity eid=“Q1000312” aliases=“Sandgate”>
 <param ve-entity eid="Q122917" aliases="Chislehurst">
