@@ -49,10 +49,12 @@ In another novel, _Table d’hote_ (1910), a coach driver is described trying to
 Pett Ridge's love of cricket also appears in his writing. In _The Amazing Years_ (1917) Master Edward who takes a job on the railways, enthusiastically rattles off the scores of a Kent cricket match.[^ref16]
 <br><br>
 Four of Pett Ridge's books were adapted as films by Eliot Stannard, the son of [Henrietta Vaughan Stannard](/19c/19c-vaughan-stannard-biography)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/29/Wanhurst_Oast_House%2C_Battle_Road%2C_Wanhurst_Green%2C_Marden%2C_Kent_-_geograph.org.uk_-_629053.jpg" label="Wanhurst Oast House, Wanhurst Green, near Marden" attribution="Oast House Archive" license="CC BY-SA 2.0">
 
 Pett Ridge died at his home in Chislehurst on the 29 Sep 1930 aged 71.[^ref17] His work is largely forgotten today.
 <br><br>
 This article was published: 20 August 2023.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%22Erb%22_%28IA_erb00ridg%29.pdf/page1-485px-%22Erb%22_%28IA_erb00ridg%29.pdf.jpg" label="Cover of Erb" attribution="Internet Archive, New York : D. Appleton">
 
 ### References
 
