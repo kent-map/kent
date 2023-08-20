@@ -11,7 +11,7 @@
 
 William Pett Ridge, writer and ‘friend of the cockneys’ was born at Chilham, near Canterbury on 22 April 1859. He was the son of James Ridge and Elizabeth Pett. James who possibly worked at the Chilham railway station which had opened in 1846, became the station master at Chartham on the Ashford-Ramsgate line when it opened on November 1 1859.[^ref1]
 <br><br>
-The family lived at Nackholt Cottages where James grew prize cucumbers  At some point after 1865, James became station master at Marden and it was here that William received his 'abridged' education with his siblings Frederick, Francis and Annie.[^ref2] By the age of 14, his brother Frederick was a telegraph clerk.
+The family lived at Nackholt Cottages where James grew prize cucumbers. At some point after 1865, James became station master at Marden and it was here that William received his 'abridged' education with his siblings Frederick, Francis and Annie.[^ref2] By the age of 14, his brother Frederick was a telegraph clerk.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/34/Chartham_Signalbox_-_geograph.org.uk_-_4844642.jpg" label="Chartham Signalbox" attribution="N Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 It was whilst he was living at Marden, that Pett Ridge recalls visiting [Gad’s Hill](/dickens/dickens-gads-hill), the home of [Charles Dickens](/dickens/dickens-biography).
