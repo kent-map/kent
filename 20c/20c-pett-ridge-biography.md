@@ -1,4 +1,13 @@
-William Pett Ridge (1859-1930) 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<param ve-config title="William Pett Ridge (1859-1930)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Court%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2369693.jpg" attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" license="CC BY-SA 2.0">
+
+<param ve-entity eid=“Q1000312” aliases=“Sandgate”>
+<param ve-entity eid="Q122917" aliases="Chislehurst">
+<param ve-entity eid="Q1004824" aliases="Chilham">
+<param ve-entity eid="Q2743911" aliases="Chartham">
+<param ve-entity eid="Q6758628" aliases="Marden">
+<param ve-entity eid="Q2152461" aliases="Paddock Wood">
+
 
 William Pett Ridge, writer and ‘friend of the cockneys’ was born at Chilham, near Canterbury on 22 April 1859. He was the son of James Ridge and Elizabeth Pett. James who possibly worked at the Chilham railway station which had opened in 1846, became the station master at Chartham on the Ashford-Ramsgate line when it opened on November 1 1859 .  The family lived at Nackholt Cottages where James grew prize cucumbers  At some point after 1865, James became station master at Marden and it was here that William received his “abridged” education with his siblings Frederick, Francis and Annie. By the age of 14, his brother Frederick was a telegraph clerk.
 
