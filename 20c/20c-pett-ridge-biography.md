@@ -36,7 +36,7 @@ With ambitions to write, Pett Ridge began contributing stories to periodicals un
 
 Pett Ridge soon became acquainted with authors such as Arnold Bennett and [H.G. Wells](/20c/20c-wellshg-biography), whom he visited at [Sandgate](/placesqz/sandgate-overview). Bennett wrote to Wells  'I am much too vain to mind being called “not a poet”, and “not a genius”. But to be called a “dear delightful person” rouses my worse instincts. It makes me feel as if I were like Marriot Watson or Pett Ridge, and I ain’t, not really.' (1905, p. 125 see above)
 <br><br>
-When Mark Twain was visiting England, Pett Ridge was introduced to him as “the Mark Twain of England”, Pett Ridge interrupted his introducer saying “What he meant to say was that you are the Pett Ridge of America”. Mark Twain was delighted by this comment and said “now I know we shall get along together!” (p278)
+When Mark Twain was visiting England, Pett Ridge was introduced to him as 'the Mark Twain of England', Pett Ridge interrupted his introducer saying 'What he meant to say was that you are the Pett Ridge of America'. Mark Twain was delighted by this comment and said 'now I know we shall get along together!' (p278)
 
 His novels include small vignettes of Kentish life which reflect his knowledge of the county. In _Erb_ (1903), he describes the railways.
 <br><br>
@@ -51,3 +51,11 @@ Four of Pett Ridge's books were adapted as films by Eliot Stannard, the son of [
 Pett Ridge died at his home in Chislehurst on the 29 Sep 1930 aged 71.
 <br><br>
 This article was published: 20 August 2023.
+
+### References
+  Faversham Times and Mercury and North-East Kent Journal - Saturday 16 November 1912
+  Whitstable Times and Herne Bay Herald - Saturday 23 August 1884
+  Maidstone Journal and Kentish Advertiser - Monday 06 November 1871
+  East Kent Gazette - Saturday 08 March 1873
+  Faversham Times and Mercury and North-East Kent Journal - Saturday 16 November 1912
+
