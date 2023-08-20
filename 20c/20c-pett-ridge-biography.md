@@ -1,5 +1,5 @@
 William Pett Ridge (1859-1930) 
-Born 22 April 1859 – 29 Sep 1930
+
 William Pett Ridge, writer and ‘friend of the cockneys’ was born at Chilham, near Canterbury on 22 April 1859. He was the son of James Ridge and Elizabeth Pett. James who possibly worked at the Chilham railway station which had opened in 1846, became the station master at Chartham on the Ashford-Ramsgate line when it opened on November 1 1859 .  The family lived at Nackholt Cottages where James grew prize cucumbers  At some point after 1865, James became station master at Marden and it was here that William received his “abridged” education with his siblings Frederick, Francis and Annie. By the age of 14, his brother Frederick was a telegraph clerk.
 
 It was whilst he was living at Marden, that Pett Ridge recalls visiting [Gad’s Hill](/dickens/dickens-gads-hill), the home of [Charles Dickens](/dickens/dickens-biography).
@@ -34,4 +34,4 @@ Pett Ridge's love of cricket also appears in his writing. In _The Amazing Years_
 
 Four of Pett Ridge's books were adapted as films by Eliot Stannard, the son of [Henrietta Vaughan Stannard](/19c/19c-vaughan-stannard-biography)
 <br><br>
-He died at his home in Chislehurst in 1930 aged 71.
+He died at his home in Chislehurst on the 29 Sep 1930 aged 71.
