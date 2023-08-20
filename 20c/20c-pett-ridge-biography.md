@@ -8,7 +8,6 @@
 <param ve-entity eid="Q6758628" aliases="Marden">
 <param ve-entity eid="Q2152461" aliases="Paddock Wood">
 
-
 William Pett Ridge, writer and ‘friend of the cockneys’ was born at Chilham, near Canterbury on 22 April 1859. He was the son of James Ridge and Elizabeth Pett. James who possibly worked at the Chilham railway station which had opened in 1846, became the station master at Chartham on the Ashford-Ramsgate line when it opened on November 1 1859.[^ref1]
 <br><br>
 The family lived at Nackholt Cottages where James grew prize cucumbers. At some point after 1865, James became station master at Marden and it was here that William received his 'abridged' education with his siblings Frederick, Francis and Annie.[^ref2] By the age of 14, his brother Frederick was a telegraph clerk.
@@ -23,12 +22,12 @@ It was whilst he was living at Marden, that Pett Ridge recalls visiting [Gad’s
 Later, as an adult, Pett Ridge wrote a short sketch for the _Illustrated London News_ entitled ‘The return of the Master’ about the ghost of Dickens wandering the streets of London and he also became a member of the Boz Club where 'subjects of Dickensian interest' were discussed.[^ref4] His stories of cockney life earned him the nickname of the Dickens of the 20th century.[^ref5]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/60/Engraving_of_Dickens_at_Gad%27s_Hill%2C_Samuel_Hollyer.png" label="Engraving of Dickens at Gad's Hill" attribution="Samuel Hollyer, Public domain, via Wikimedia Commons">
 
-It was also whilst he was living at Marden that Pett Ridge was called out of school to play cricket against W.W. Rodgers, one of Kent’s first class cricketers. Pett Ridge recalls that Rodgers got drunk on cider and slept through most of the game (192). Pett Ridge also saw W.G. Grace play for Gloucestershire at Canterbury, and although Kent lost, Pett Ridge recalls that he and his brother “danced the whole way home”.[^ref6] (191). 
+It was also whilst he was living at Marden that Pett Ridge was called out of school to play cricket against W.W. Rodgers, one of Kent’s first class cricketers. Pett Ridge recalls that Rodgers got drunk on cider and slept through most of the game. Pett Ridge also saw W.G. Grace play for Gloucestershire at Canterbury, and although Kent lost, Pett Ridge recalls that he and his brother “danced the whole way home”.[^ref6]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/75/WG_Grace_c1902.jpg" label="W.G. Grace, c.1902" attribution="George Beldam, Public domain, via Wikimedia Commons">
 
 In late 1871, James Ridge received a promotion to become station master at Paddock Wood Station.[^ref7]   He was fatally injured just over a year later when he was hit by the London and Dover night mail train, leaving Elizabeth a widow with five children.[^ref8]  William Pett Ridge was not yet 14 but joined the South East Railway as a Clerk and and then later became a Clerk in the Continental Goods Office of the railway. He wrote:
 <br><br>
-'To myself, town gave a chilly welcome. Resolved to make a good beginning, I, on leaving the office where I was to earn 21 shillings each week, payable on Fridays, walked over London Bridge and near the Railway Approach, entered a doorway to take my first Turkish bath. Outside the weather was the weather to be expected in January; moderate snow throughout the day, frost. I went through the process of rubbing and scrubbing and baking, and realised that town provided luxuries which a village in Kent had never been able to supply'.[^ref9] (1). 
+'To myself, town gave a chilly welcome. Resolved to make a good beginning, I, on leaving the office where I was to earn 21 shillings each week, payable on Fridays, walked over London Bridge and near the Railway Approach, entered a doorway to take my first Turkish bath. Outside the weather was the weather to be expected in January; moderate snow throughout the day, frost. I went through the process of rubbing and scrubbing and baking, and realised that town provided luxuries which a village in Kent had never been able to supply'.[^ref9] 
 
 William Pett-Ridge continued working for the railways, living with his mother and siblings at Florence Road, Lewisham. He attended evening classes at Birkbeck Institution as he felt that his education in the country 'had not sufficiently furnished him for City Life'.[^ref10] It was here that he met the social reformers Sidney Webb and Beatrice Potter.
 <br><br>
@@ -37,7 +36,7 @@ With ambitions to write, Pett Ridge began contributing stories to periodicals un
 
 Pett Ridge soon became acquainted with authors such as Arnold Bennett and [H.G. Wells](/20c/20c-wellshg-biography), whom he visited at [Sandgate](/placesqz/sandgate-overview). Bennett wrote to Wells  'I am much too vain to mind being called “not a poet”, and “not a genius”. But to be called a “dear delightful person” rouses my worse instincts. It makes me feel as if I were like Marriot Watson or Pett Ridge, and I ain’t, not really.'[^ref12] (1905, p. 125 see above)
 <br><br>
-When Mark Twain was visiting England, Pett Ridge was introduced to him as 'the Mark Twain of England', Pett Ridge interrupted his introducer saying 'What he meant to say was that you are the Pett Ridge of America'. Mark Twain was delighted by this comment and said 'now I know we shall get along together!'[^ref13] (p278)
+When Mark Twain was visiting England, Pett Ridge was introduced to him as 'the Mark Twain of England', Pett Ridge interrupted his introducer saying 'What he meant to say was that you are the Pett Ridge of America'. Mark Twain was delighted by this comment and said 'now I know we shall get along together!'[^ref13]
 
 His novels include small vignettes of Kentish life which reflect his knowledge of the county. In _Erb_ (1903), he describes the railways:
 <br><br>
@@ -46,36 +45,29 @@ His novels include small vignettes of Kentish life which reflect his knowledge o
 In another novel, _Table d’hote_ (1910), a coach driver is described trying to convince one of his passengers to take an inside seat ,by recounting a tale of a gentleman who had frozen stiff whilst sitting on the outside box-seat. When the coach driver claims that hop driers tried to revive the frozen man in an oast house oven, the passenger exclaims disbelievingly 'Hops in December?'[^ref15]
 <br><br>
 Pett Ridge's love of cricket also appears in his writing. In _The Amazing Years_ (1917) Master Edward who takes a job on the railways, enthusiastically rattles off the scores of a Kent cricket match.[^ref16] (4)
-
-Four of Pett Ridge's books were adapted as films by Eliot Stannard, the son of [Henrietta Vaughan Stannard](/19c/19c-vaughan-stannard-biography)
 <br><br>
-Pett Ridge died at his home in Chislehurst on the 29 Sep 1930 aged 71.[^ref17]
+Four of Pett Ridge's books were adapted as films by Eliot Stannard, the son of [Henrietta Vaughan Stannard](/19c/19c-vaughan-stannard-biography)
+
+Pett Ridge died at his home in Chislehurst on the 29 Sep 1930 aged 71.[^ref17] His work is largely forgotten today.
 <br><br>
 This article was published: 20 August 2023.
 
 ### References
 
-[^ref1]:
-[^ref2]:
+[^ref1]: Faversham Times and Mercury and North-East Kent Journal - Saturday 16 November 1912
+[^ref2]: 1871 census.
 [^ref3]:
 [^ref4]:
 [^ref5]:
-[^ref6]:
-[^ref7]:
-[^ref8]:
-[^ref9]:
+[^ref6]: Pett Ridge, William. _A Story teller_, 1925, pp. 191-2.
+[^ref7]: Maidstone Journal and Kentish Advertiser - Monday 06 November 1871
+[^ref8]: East Kent Gazette - Saturday 08 March 1873
+[^ref9]: Pett Ridge, William. _A Story teller_, 1925, p. 1.
 [^ref10]:
 [^ref11]:
 [^ref12]:
-[^ref13]:
-[^ref14]:
-[^ref15]:
+[^ref13]: Pett Ridge, William. _A Story teller_, 1925, p.278.
+[^ref14]: Pett Ridge, William. _Erb_, 1903
+[^ref15]: Pett Ridge, William. _Table d'hote_, 1910, 
 [^ref16]:
 [^ref17]:
-
-  Faversham Times and Mercury and North-East Kent Journal - Saturday 16 November 1912
-  Whitstable Times and Herne Bay Herald - Saturday 23 August 1884
-  Maidstone Journal and Kentish Advertiser - Monday 06 November 1871
-  East Kent Gazette - Saturday 08 March 1873
-  Faversham Times and Mercury and North-East Kent Journal - Saturday 16 November 1912
-
