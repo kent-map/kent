@@ -43,6 +43,7 @@ When Mark Twain was visiting England, Pett Ridge was introduced to him as 'the M
 His novels include small vignettes of Kentish life which reflect his knowledge of the county. In _Erb_ (1903), he describes the railways:
 <br><br>
 'It is the ingenious habit of Kentish railways directly that hop-picking is over and pay-day is done, to advertise excursions to London at a fare so cheap that not to take advantage of it were to discourage Providence in its attempts to make the world pleasant.  Country folk, who make but one visit a year to town, seize this September opportunity; some avail themselves not only of this but of the Cattle Show trip later on; a few also take the pantomime excursion in February, and these are counted in quiet villages as being, by frequent contact with town, blades of the finest temper, to whom (if they would but be candid) no mysteries of the great town are unknown'.[^ref14]
+<param ve-image url="https://stor.artstor.org/stor/335d901a-8416-4356-8a12-1607c997a9a2" label="Hop-picking" attribution="C. Essenhigh Corke, 1906, J. Salmon, Sevenoaks">
 
 In another novel, _Table d’hote_ (1910), a coach driver is described trying to convince one of his passengers to take an inside seat, by recounting a tale of a gentleman who had frozen stiff whilst sitting on the outside box-seat. When the coach driver claims that hop driers tried to revive the frozen man in an oast house oven, the passenger exclaims disbelievingly 'Hops in December?'[^ref15]
 <br><br>
