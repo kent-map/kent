@@ -9,7 +9,10 @@
 <param ve-entity eid="Q2152461" aliases="Paddock Wood">
 
 
-William Pett Ridge, writer and ‘friend of the cockneys’ was born at Chilham, near Canterbury on 22 April 1859. He was the son of James Ridge and Elizabeth Pett. James who possibly worked at the Chilham railway station which had opened in 1846, became the station master at Chartham on the Ashford-Ramsgate line when it opened on November 1 1859 .  The family lived at Nackholt Cottages where James grew prize cucumbers  At some point after 1865, James became station master at Marden and it was here that William received his “abridged” education with his siblings Frederick, Francis and Annie. By the age of 14, his brother Frederick was a telegraph clerk.
+William Pett Ridge, writer and ‘friend of the cockneys’ was born at Chilham, near Canterbury on 22 April 1859. He was the son of James Ridge and Elizabeth Pett. James who possibly worked at the Chilham railway station which had opened in 1846, became the station master at Chartham on the Ashford-Ramsgate line when it opened on November 1 1859.
+<br><br>
+The family lived at Nackholt Cottages where James grew prize cucumbers  At some point after 1865, James became station master at Marden and it was here that William received his 'abridged' education with his siblings Frederick, Francis and Annie. By the age of 14, his brother Frederick was a telegraph clerk.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/34/Chartham_Signalbox_-_geograph.org.uk_-_4844642.jpg" label="Chartham Signalbox" attribution="N Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 It was whilst he was living at Marden, that Pett Ridge recalls visiting [Gad’s Hill](/dickens/dickens-gads-hill), the home of [Charles Dickens](/dickens/dickens-biography).
 <br><br>
@@ -28,8 +31,9 @@ The years have a trick of starting in this manner. To myself, town gave a chilly
 William Pett-Ridge continued working for the railways, living with his mother and siblings at Florence Road, Lewisham. He attended evening classes at Birkbeck Institution as he felt that his education in the country “had not sufficiently furnished” him for City Life. It was here that he met the social reformers Sidney Webb and Beatrice Potter.
 
 With ambitions to write, Pett Ridge began contributing stories to periodicals under the pseudonym Warwick Simpson in the 1890s. His first success came with ‘A Dinner in Soho’ which was published in the _St James Gazette_. Then followed more short stories and over 60 novels. He did not leave his city job until he earned by the pen “three times as much as he drew from his salary from the goods office”. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/W._Pett_Ridge_LCCN2014715293.jpg/745px-W._Pett_Ridge_LCCN2014715293.jpg" label="W. Pett Ridge" attribution="Bain News Service, publisher, Public domain, via Wikimedia Commons">
 
-Pett Ridge soon became acquainted with authors such as Arnold Bennett and H.G. Wells, whom he visited at Sandgate. Bennett wrote to Wells  “I am much too vain to mind being called “not a poet”, and “not a genius”. But to be called a “dear delightful person” rouses my worse instincts. It makes me feel as if I were like Marriot Watson or Pett Ridge, and I ain’t, not really.” (1905, p. 125 see above)
+Pett Ridge soon became acquainted with authors such as Arnold Bennett and H.G. Wells, whom he visited at [Sandgate](/placesqz/sandgate-overview). Bennett wrote to Wells  “I am much too vain to mind being called “not a poet”, and “not a genius”. But to be called a “dear delightful person” rouses my worse instincts. It makes me feel as if I were like Marriot Watson or Pett Ridge, and I ain’t, not really.” (1905, p. 125 see above)
 <br><br>
 When Mark Twain was visiting England, Pett Ridge was introduced to him as “the Mark Twain of England”, Pett Ridge interrupted his introducer saying “What he meant to say was that you are the Pett Ridge of America”. Mark Twain was delighted by this comment and said “now I know we shall get along together!” (p278)
 
@@ -37,10 +41,12 @@ His novels include small vignettes of Kentish life which reflect his knowledge o
 <br><br>
 IT is the ingenious habit of Kentish railways directly that hop-picking is over and pay-day is done, to advertise excursions to London at a fare so cheap that not to take advantage of it were to discourage Providence in its attempts to make the world pleasant.  Country folk, who make but one visit a year to town, seize this September opportunity; some avail themselves not only of this but of the Cattle Show trip later on; a few also take the pantomime excursion in February, and these are counted in quiet villages as being, by frequent contact with town, blades of the finest temper, to whom (if they would but be candid) no mysteries of the great town are unknown.
 
-In another novel, _Table d’hote_(1910), a coach driver is described trying to convince one of his passengers to take an inside seat ,by recounting a tale of a gentleman who had frozen stiff whilst sitting on the outside box-seat. When the coach driver claims that hop driers tried to revive the frozen man in an oast house oven, the passenger exclaims disbelievingly “Hops in December?”
+In another novel, _Table d’hote_ (1910), a coach driver is described trying to convince one of his passengers to take an inside seat ,by recounting a tale of a gentleman who had frozen stiff whilst sitting on the outside box-seat. When the coach driver claims that hop driers tried to revive the frozen man in an oast house oven, the passenger exclaims disbelievingly “Hops in December?”
 <br><br>
 Pett Ridge's love of cricket also appears in his writing. In _The Amazing Years_ (1917) Master Edward who takes a job on the railways, enthusiastically rattles off the scores of a Kent cricket match. (4)
 
 Four of Pett Ridge's books were adapted as films by Eliot Stannard, the son of [Henrietta Vaughan Stannard](/19c/19c-vaughan-stannard-biography)
 <br><br>
-He died at his home in Chislehurst on the 29 Sep 1930 aged 71.
+Pett Ridge died at his home in Chislehurst on the 29 Sep 1930 aged 71.
+<br><br>
+This article was published: 20 August 2023.
