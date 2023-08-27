@@ -5,9 +5,10 @@
 <param ve-entity eid="Q947442" aliases="Edenbridge">
 <param ve-entity eid="Q5187371" aliases="Crockham Hill">
 
-We’re going away to Margate tomorrow. Oh dear, oh Lord, Margate! -_Letter to Katherine Clayton, 8 July 1913_[^ref1]
+We’re going away to Margate tomorrow. Oh dear, oh Lord, Margate!   
+_Letter to Katherine Clayton, 8 July 1913_[^ref1]
 <br><br>
-David Herbert Lawrence, novelist, poet and essayist, eloped to the continent with the wife of his modern language professor in 1912. He and Frieda stayed at the home of Edward and Constance Garnett, at Crockham Hill, Edenbridge, en route to Germany, and it was here that Lawrence wrote ‘At the Cearne’:
+David Herbert Lawrence, novelist, poet and essayist, eloped to the continent with the wife of his modern language professor in 1912. He and Frieda stayed at the home of Edward and Constance Garnett, at Crockham Hill, Edenbridge, en route and it was here that Lawrence wrote ‘At the Cearne’:
 <br><br>
 The Weald, the enormous bed   
 Between the Downs, grows hazy with sunshine.   
@@ -53,8 +54,8 @@ Lawrence met Rupert Brooke and Richard Aldington in the summer of 1914.
 ### References
 
 [^ref1]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 30.
-[^ref2]:
-[^ref3]:
+[^ref2]: Brown, Catherine. _D.H. Lawrence and: the Cearne_ https://catherinebrown.org/cearne/
+[^ref3]: Brown, Catherine. _D.H. Lawrence and: the Cearne_ https://catherinebrown.org/cearne/
 [^ref4]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
 [^ref5]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
 [^ref6]:
