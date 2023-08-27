@@ -28,9 +28,7 @@ In 1907, Wells’ became a Justice of the Peace for Folkestone,   received a vis
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9e/The_promenade%2C_Sandgate%2C_England-LCCN2002708091.jpg" label="The Promenade, Sandgate" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons"> 
 
 ### Bibliography 
-
-Roberts, Adam. _H.G Wells: A literary Life_. Palgrave Macmillan, 2019. [Springer E-books](https://link.springer.com/book/10.1007%2F978-3-030-26421-5#about). Accessed 22/06/2020.   
+Roberts, Adam. _H.G Wells: A literary Life_. Palgrave Macmillan, 2019. [Springer E-books] (https://link.springer.com/book/10.1007%2F978-3-030-26421-5#about). Accessed 22/06/2020.   
 Scott, Bonnie Kime. “Tracing Garden Networks: Katherine Mansfield and Elizabeth Von Arnim.” _Kipps_ Katherine Mansfield and Elizabeth Von Arnim_Kipps_, Edinburgh University Press, 2019. [JSTOR](www.jstor.org/stable/10.3366/j.ctvrs90wt.8 ), Accessed 22/06/2020    
-Sherborne, Michael. _H.G. Wells: Another Kind of Life_, Peter Owen Publishers, 2013. _ProQuest Ebook Central_, Accessed 22/06/2020  
-<param ve-image url="images/spade MJC.jpg" label="Spade House, 2021" attribution="© Martin Crowther"> 
-
+Sherborne, Michael. _H.G. Wells: Another Kind of Life_, Peter Owen Publishers, 2013. _ProQuest Ebook Central_, Accessed 22/06/2020   
+<param ve-image url="https://stor.artstor.org/stor/3615ba37-88b4-4c75-95b0-6710b43d7c73" label="Spade House, 2021" attribution="© Martin Crowther"> 
