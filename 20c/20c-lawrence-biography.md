@@ -9,7 +9,9 @@ On the little bank our two souls
 Glow like blossoms astart with gladness.   
 
 Lawrence had previously visited Garnett who was a writer, critic and literary editor in the autumn of 1911 and had written three dialect ballads: The Collier’s Wife’, ‘Whether or Not’ and ‘The Drained Cup’ whilst staying at his house but none of these had been inspired by his Kentish surroundings.
+
 After their elopement, the couple spent several months in Germany and Italy, where Lawrence wrote _Sons and Lovers_. returning to England for a short visit in the summer of 1913. They stayed once again at Edenbridge with Garnett who was instrumental in getting _Sons and Lovers_ published and then later in the summer rented a flat near Margate.
+
 Although disappointed to be back in England, Lawrence thought The Cearne was beautiful, writing: 
 <br><br>
 “The air is fragrant with roses, the house is adorned with many large roses, red and white, and pink, they come in the windows, and upstairs, great rose-faces peep into the bedroom’ (25). 
@@ -32,8 +34,9 @@ Whilst staying at Kinsgate, Lawrence and Frieda met Herbert (“Beb”) and Cynt
 By the 13th of July, Lawrence complained that the place bored him as he was “drudging away revising the stories” and he made antisemitic remarks about some of the holidaymakers.: Margate had a Jewish community and offered kosher hotels making it a popular destination for Jewish families from London.
 
 Lawrence begged John Middleton Murry and Katherine Mansfield to come for the weekend and bathe at Kingsgate with them: “We’ve got a tent in a little bay on the foreshore, and great waves come and pitch one high up, so I feel like Horace, about to smite my cranium on the sky. I can only swim a little bit and am a clown in the water, but it is jolly.”  (45-6) John and Katherine were struggling financially, so Lawrence sent Katherine a sovereign to fund the journey. They arrived for the weekend and enjoyed bathing and eating beefsteak and tomatoes (Worthen, 138).
-He writes on the 22 July “Sons and Lovers has been well received, hasn’t it? I don’t know whether it has sold so well. The damned prigs in the libraries and bookshops daren’t handle me because they pretend they are delicate skinned and I am hot. May they fry in hell” (47)
-Lawrence and Frieda left Kingsgate at the end of July and returned to Germany.  On 17 August Lawrence wrote to Cynthia Asquith from Irschenhausen: “I might have found myself hurrying over the edge of the cliff in my haste to get away from that half-crystallized nowhere of a place – Kingsgate. Kingsgate – oh God! The last was a pathetic little bill for one and fourpence, the dregs and lees of our housekeeping down there: I believe it was the baker. But it dogged our footsteps, and ran us down here. So I made a little boat of it, and set it afloat” 
+
+Lawrence and Frieda left Kingsgate at the end of July.  On 17 August Lawrence wrote to Cynthia Asquith from Irschenhausen: “I might have found myself hurrying over the edge of the cliff in my haste to get away from that half-crystallized nowhere of a place – Kingsgate. Kingsgate – oh God! The last was a pathetic little bill for one and fourpence, the dregs and lees of our housekeeping down there: I believe it was the baker. But it dogged our footsteps, and ran us down here. So I made a little boat of it, and set it afloat” 
+
 Lawrence and Frieda were married on 13 July 1914.
 He visted The Cearne again for a weekend in July 1914.
 
