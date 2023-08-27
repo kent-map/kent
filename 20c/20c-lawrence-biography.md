@@ -51,25 +51,25 @@ Lawrence met Rupert Brooke and Richard Aldington in the summer of 1914.
 
 ### References
 
-[^ref1]:
+[^ref1]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 30.
 [^ref2]:
 [^ref3]:
-[^ref4]:
-[^ref5]:
+[^ref4]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref5]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
 [^ref6]:
-[^ref7]:
-[^ref8]:
-[^ref9]:
-[^ref10]:
-[^ref11]:
-[^ref12]:
+[^ref7]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref8]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref9]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref10]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref11]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005.
+[^ref12]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005.
 [^ref13]:
 [^ref14]:
 [^ref15]:
 [^ref16]:
 [^ref17]:
-[^ref18]:
+[^ref18]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
 [^ref19]:
-[^ref20]:
-[^ref21]:
+[^ref20]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005.
+[^ref21]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
 
