@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config title="D.H. Lawrence(1885–1930)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/Chilham%2C_Shelly%27s_Tea_Room_-_geograph.org.uk_-_4831929.jpg" attribution="Chilham: Shelly's Tea Room by Michael Garlick, via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-config title="D.H. Lawrence(1885–1930)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/3f/David_Herbert_Lawrence_%26_Frieda_von_Richthofen_1914.jpg" attribution="D.H. Lawrence and Frieda von Richthofen, 1914, via Wikimedia Commons">
 
 <param ve-entity eid=“Q24993696” aliases=“Kingsgate”>
 <param ve-entity eid="Q947442" aliases="Edenbridge">
@@ -14,8 +14,9 @@ Between the Downs, grows hazy with sunshine.
 Slow cattle stir on the steep meadow nearby.   
 On the little bank our two souls   
 Glow like blossoms astart with gladness.[^ref2]   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3d/D.H.Lawrence_1912.jpg" label="D.H. Lawrence, 1912" attribution="Nehls, Edward , ed. D.H. Lawrence. A Composite Biography. Vol. 1 1885–1919, University of Wisconsin Press Frontispiece; 1957 2.">
 
-Lawrence had previously visited Garnett who was a writer, critic and literary editor in the autumn of 1911 and had written three dialect ballads: The Collier’s Wife’, ‘Whether or Not’ and ‘The Drained Cup’ whilst staying at his house.[^ref3] 
+Lawrence had previously visited Garnett who was a writer, critic and literary editor in the autumn of 1911 and had written three dialect ballads: 'The Collier’s Wife’, ‘Whether or Not’ and ‘The Drained Cup’ whilst staying at his house.[^ref3] 
 
 After their elopement, the couple spent several months in Germany and Italy, where Lawrence wrote _Sons and Lovers_. returning to England for a short visit in the summer of 1913. They stayed once again at Edenbridge with Garnett who was instrumental in getting _Sons and Lovers_ published and then later in the summer rented a flat near Margate.
 
