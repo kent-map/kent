@@ -25,11 +25,13 @@ Although disappointed to be back in England, Lawrence thought The Cearne was bea
 <br><br>
 “The air is fragrant with roses, the house is adorned with many large roses, red and white, and pink, they come in the windows, and upstairs, great rose-faces peep into the bedroom’ (25).[^ref4] 
 <br><br>
-However, soon the “English dimness in the air” began to oppress him and he craved a change of scene.[^ref5] He and Frieda had been arguing a lot so the couple decided to visit Margate for the air.[^ref6] They found a “most jolly little flat”[^ref7] at 28, Percy Avenue, Kingsgate, about three miles from Margate:  
+However, soon the “English dimness in the air” began to oppress him and he craved a change of scene.[^ref5] He and Frieda had been arguing a lot so the couple decided to visit Margate for the air.[^ref6] They found a “most jolly little flat”[^ref7] at 28, Percy Avenue, Kingsgate, about three miles from Margate:
 <br><br>
 “The big bedroom has a balcony that looks across the fields at the sea. Then the house has a tent, and the way-down to the sea is just near, so one can bathe.”(32)[^ref8]
 
-Short of cash, Lawrence began to edit some of his short stories for a collection, but he did not enjoy the work, complaining “I have been grubbing away among the short stories. God, I shall be glad when it is done.”[^ref9] He also bored of his surroundings, writing: “We bathe and I write among the babies of the foreshore: it is an innocent life and a dull one.”[^ref10] (48) Frieda “could not help dwelling on the time when I was there with Ernst and the children”[^ref11] which may have influenced Lawrence to write ‘The Shadow in the Rose Garden’ (Worthen, 136)[^ref12]  It was during this time that he completed ‘The Primrose Path’ which would later feature in his collection _England, my England and other stories_.[^ref13] 
+Short of cash, Lawrence began to edit some of his short stories for a collection, but he did not enjoy the work, complaining “I have been grubbing away among the short stories. God, I shall be glad when it is done.”[^ref9]
+<br><br>
+He also bored of his surroundings, writing: “We bathe and I write among the babies of the foreshore: it is an innocent life and a dull one.”[^ref10] (48) Frieda “could not help dwelling on the time when I was there with Ernst and the children”[^ref11] which may have influenced Lawrence to write ‘The Shadow in the Rose Garden’ (Worthen, 136)[^ref12]  It was during this time that he completed ‘The Primrose Path’ which would later feature in his collection _England, my England and other stories_.[^ref13] 
 <br><br>
 Lawrence became increasingly dissatisfied with Kingsgate and on the 11th July he wrote to Constance Garnett:
 <br><br>
