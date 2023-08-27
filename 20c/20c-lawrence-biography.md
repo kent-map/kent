@@ -20,6 +20,7 @@ Glow like blossoms astart with gladness.[^ref2]
 Lawrence had previously visited Garnett who was a writer, critic and literary editor in the autumn of 1911 and had written three dialect ballads: 'The Collier’s Wife’, ‘Whether or Not’ and ‘The Drained Cup’ whilst staying at his house.[^ref3] 
 
 After their elopement, the couple spent several months in Germany and Italy, where Lawrence wrote _Sons and Lovers_. returning to England for a short visit in the summer of 1913. They stayed once again at Edenbridge with Garnett who was instrumental in getting _Sons and Lovers_ published and then later in the summer rented a flat near Margate.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/15/Sons_and_Lovers%2C_Lawrence%2C_1913.djvu" label="Sons and Lovers by D.H. Lawrence" attribution="D.H. Lawrence, Public domain, via Wikimedia Commons">
 
 Although disappointed to be back in England, Lawrence thought The Cearne was beautiful, writing: 
 <br><br>
