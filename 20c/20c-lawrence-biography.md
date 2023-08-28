@@ -17,9 +17,9 @@ In 1912, Lawrence eloped  with Frieda, the wife of his modern language professor
 Between the Downs, grows hazy with sunshine.   
 Slow cattle stir on the steep meadow nearby.   
 On the little bank our two souls   
-Glow like blossoms astart with gladness'.[^ref2]   
+Glow like blossoms astart with gladness'.[^ref2]
 <br><br>
-After their elopement, the couple spent several months in Germany and Italy, where Lawrence wrote _Sons and Lovers_. returning to England for a short visit in the summer of 1913. They stayed once again at Edenbridge with Garnett who was instrumental in arranging the publication of _Sons and Lovers_ . 
+After their elopement, the couple spent several months in Germany and Italy, where Lawrence wrote _Sons and Lovers_, returning to England for a short visit in the summer of 1913. They stayed once again at Edenbridge with Garnett who was instrumental in the the publication of _Sons and Lovers_ . 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a9/Crockham_Hill_-_geograph.org.uk_-_4474809.jpg" label="Crockham Hill" attribution="Peter Trimming, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Although disappointed to be back in England, Lawrence thought The Cearne was beautiful, writing: 
@@ -28,7 +28,7 @@ Although disappointed to be back in England, Lawrence thought The Cearne was bea
 <br><br>
 However, soon the 'English dimness in the air' began to oppress him and he craved a change of scene.[^ref5] He and Frieda had been arguing a lot so the couple decided to take a holiday to the seaside.[^ref6] They found a 'most jolly little flat'[^ref7] at 28, Percy Avenue, Kingsgate, about three miles from Margate:
 <br><br>
-'The big bedroom has a balcony that looks across the fields at the sea. Then the house has a tent, and the way-down to the sea is just near, so one can bathe.['^ref8]
+'The big bedroom has a balcony that looks across the fields at the sea. Then the house has a tent, and the way-down to the sea is just near, so one can bathe.'[^ref8]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kingsgate_Bay_-_geograph.org.uk_-_4014211.jpg/1024px-Kingsgate_Bay_-_geograph.org.uk_-_4014211.jpg" label="Kingsgate Bay" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Short of cash, Lawrence began to edit some of his short stories for a collection, but he did not enjoy the work, complaining:
@@ -39,7 +39,7 @@ He also bored of his surroundings, writing:
 <br><br>
 'We bathe and I write among the babies of the foreshore: it is an innocent life and a dull one.'[^ref10]
 <br><br>
-Frieda 'could not help dwelling on the time when I was there with Ernst and the children'[^ref11] which may have influenced Lawrence to write ‘The Shadow in the Rose Garden’.[^ref12]  It was during this time that he completed ‘The Primrose Path’ which would later feature in his collection _England, my England and other stories_.[^ref13] 
+Frieda 'could not help dwelling' on the time when she was there with Ernst and the children[^ref11] which may have influenced Lawrence to write ‘The Shadow in the Rose Garden’.[^ref12]  It was during this time that he completed ‘The Primrose Path’ which would later feature in his collection _England, my England and other stories_.[^ref13] 
 <br><br>
 Lawrence became increasingly dissatisfied with Kingsgate and on the 11th July he wrote to Constance Garnett:
 <br><br>
@@ -57,13 +57,15 @@ By the 13th of July, Lawrence complained that the place bored him as he was 'dru
 <br><br>
 Desiring the company of friends, Lawrence begged John Middleton Murry and the New Zealand author, Katherine Mansfield to come and stay for the weekend and bathe at Kingsgate with them: 
 <br><br>
-'We’ve got a tent in a little bay on the foreshore, and great waves come and pitch one high up, so I feel like Horace, about to smite my cranium on the sky. I can only swim a little bit and am a clown in the water, but it is jolly.'[^ref19]  
+'We’ve got a tent in a little bay on the foreshore, and great waves come and pitch one high up, so I feel like Horace, about to smite my cranium on the sky. I can only swim a little bit and am a clown in the water, but it is jolly.'[^ref19]
 <br><br>
 John and Katherine were struggling financially, so Lawrence sent Katherine a sovereign to fund the journey. They arrived for the weekend and enjoyed bathing and eating beefsteak and tomatoes. [^ref20]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5f/Katherine_Mansfield_%28no_signature%29.jpg" label="Original: Unknown Derivative work: Carnby, Public domain, via Wikimedia Commons">
 
 Lawrence and Frieda left Kingsgate at the end of July.  On 17 August, Lawrence wrote to Cynthia Asquith from Irschenhausen, Germany: 
 <br><br>
 'I might have found myself hurrying over the edge of the cliff in my haste to get away from that half-crystallized nowhere of a place – Kingsgate. Kingsgate – oh God! The last was a pathetic little bill for one and fourpence, the dregs and lees of our housekeeping down there: I believe it was the baker. But it dogged our footsteps, and ran us down here. So I made a little boat of it, and set it afloat'.[^ref21] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7b/Paper_Boat.jpg" label="Paper Boat" attribution="SanthoshKhan Annadhurai, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 Lawrence and Frieda were married on 13 July 1914.
 He visted The Cearne again for a weekend in July 1914.
