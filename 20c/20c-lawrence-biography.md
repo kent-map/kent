@@ -29,9 +29,10 @@ Although disappointed to be back in England, Lawrence thought The Cearne was bea
 However, soon the 'English dimness in the air' began to oppress him and he craved a change of scene.[^ref5] He and Frieda had been arguing a lot so the couple decided to take a holiday to the seaside.[^ref6] They found a 'most jolly little flat'[^ref7] at 28, Percy Avenue, Kingsgate, about three miles from Margate:
 <br><br>
 'The big bedroom has a balcony that looks across the fields at the sea. Then the house has a tent, and the way-down to the sea is just near, so one can bathe.['^ref8]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kingsgate_Bay_-_geograph.org.uk_-_4014211.jpg/1024px-Kingsgate_Bay_-_geograph.org.uk_-_4014211.jpg" label="Kingsgate Bay" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Short of cash, Lawrence began to edit some of his short stories for a collection, but he did not enjoy the work, complaining:
-<br>br>
+<br><br>
 'I have been grubbing away among the short stories. God, I shall be glad when it is done.'[^ref9]
 <br><br>
 He also bored of his surroundings, writing: 
@@ -43,22 +44,26 @@ Frieda 'could not help dwelling on the time when I was there with Ernst and the 
 Lawrence became increasingly dissatisfied with Kingsgate and on the 11th July he wrote to Constance Garnett:
 <br><br>
 'We are here very peaceful among the holiday makers. Of course, I am not yet happy in the place. There is no fault to be found with it, except that I do not belong to it at all. But – ca arrivera. Soon, no doubt, I shall be here like a bird that broods on her nest. But I am sick, sick, sick of shifting.'[^ref14]
+<br><br>
 He began to miss The Cearne saying:
 <br><br>
 'It is the sort of place I fit into – something so solid and unmovable about it, something unexpected and individualized: that bare, workmanlike study, that farmhouse hall, that burst into country houseism and culture in the big room, with the lapse into disgraceful, almost brutal roughness – nearly like Squire Western – under the fire-place; the common place kitchen and the dejected scullery – oh Lord, I could live for ages at the Cearne and be happy'.[^ref15]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Beach_and_ladies%27_bathing_place%2C_Margate%2C_England-LCCN2002697068.jpg" label="Beach and ladies' bathing place, Margate .1890-1900" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 
 Whilst staying at Kinsgate, Lawrence and Frieda met Beb and Cynthia Asquith who were staying at Maryland close to Botany Bay.[^ref16] Herbert was the son of the Prime Minister and later served in the Royal Artillery during World War One. He wrote poetry about his war experiences. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Maryland%2C_Botany_Rd_-_geograph.org.uk_-_1473937.jpg" label="Maryland, Botany Bay Road" attribution="Nigel Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 
-By the 13th of July, Lawrence complained that the place bored him as he was “drudging away revising the stories”[^ref17] and he made antisemitic remarks about some of the holidaymakers.[^ref18] Margate had a Jewish community and offered kosher hotels making it a popular destination for Jewish families from London.
-
-Lawrence begged John Middleton Murry and the New Zealand author, Katherine Mansfield to come for the weekend and bathe at Kingsgate with them: 
+By the 13th of July, Lawrence complained that the place bored him as he was 'drudging away revising the stories'[^ref17] and he made antisemitic remarks about some of the holidaymakers.[^ref18] Margate had a Jewish community and offered kosher hotels making it a popular destination for Jewish families from London.
 <br><br>
-“We’ve got a tent in a little bay on the foreshore, and great waves come and pitch one high up, so I feel like Horace, about to smite my cranium on the sky. I can only swim a little bit and am a clown in the water, but it is jolly.”[^ref19]  (45-6) 
+Desiring the company of friends, Lawrence begged John Middleton Murry and the New Zealand author, Katherine Mansfield to come and stay for the weekend and bathe at Kingsgate with them: 
 <br><br>
-John and Katherine were struggling financially, so Lawrence sent Katherine a sovereign to fund the journey. They arrived for the weekend and enjoyed bathing and eating beefsteak and tomatoes (Worthen, 138).[^ref20]
+'We’ve got a tent in a little bay on the foreshore, and great waves come and pitch one high up, so I feel like Horace, about to smite my cranium on the sky. I can only swim a little bit and am a clown in the water, but it is jolly.'[^ref19]  
+<br><br>
+John and Katherine were struggling financially, so Lawrence sent Katherine a sovereign to fund the journey. They arrived for the weekend and enjoyed bathing and eating beefsteak and tomatoes. [^ref20]
 
-Lawrence and Frieda left Kingsgate at the end of July.  On 17 August Lawrence wrote to Cynthia Asquith from Irschenhausen: “I might have found myself hurrying over the edge of the cliff in my haste to get away from that half-crystallized nowhere of a place – Kingsgate. Kingsgate – oh God! The last was a pathetic little bill for one and fourpence, the dregs and lees of our housekeeping down there: I believe it was the baker. But it dogged our footsteps, and ran us down here. So I made a little boat of it, and set it afloat”.[^ref21] 
+Lawrence and Frieda left Kingsgate at the end of July.  On 17 August, Lawrence wrote to Cynthia Asquith from Irschenhausen, Germany: 
+<br><br>
+'I might have found myself hurrying over the edge of the cliff in my haste to get away from that half-crystallized nowhere of a place – Kingsgate. Kingsgate – oh God! The last was a pathetic little bill for one and fourpence, the dregs and lees of our housekeeping down there: I believe it was the baker. But it dogged our footsteps, and ran us down here. So I made a little boat of it, and set it afloat'.[^ref21] 
 
 Lawrence and Frieda were married on 13 July 1914.
 He visted The Cearne again for a weekend in July 1914.
@@ -86,7 +91,7 @@ Lawrence met Rupert Brooke and Richard Aldington in the summer of 1914.
 [^ref16]:
 [^ref17]:
 [^ref18]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
-[^ref19]:
-[^ref20]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005.
+[^ref19]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 45-6.
+[^ref20]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005, 138.
 [^ref21]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
 
