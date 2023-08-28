@@ -9,7 +9,7 @@
 We’re going away to Margate tomorrow. Oh dear, oh Lord, Margate!   
 _Letter to Katherine Clayton, 8 July 1913_[^ref1]
 <br><br>
-David Herbert Lawrence, a coal miner's son and struggling writer from Nottingham, visited Kent in the autumn of 1911. Depressed by his work as a teacher, he had sent two short stories to critic and literary editor Edward Garnett who invited him to stay at his home The Cearne at Crockham Hill. Lawrence enjoyed a pleasant weekend with Garnett discussing literature in his ingle nook fireplace and was to return to the house several times.[^ref2]  It was here that he wrote three dialect ballads: 'The Collier’s Wife’, ‘Whether or Not’ and ‘The Drained Cup’.[^ref3] 
+David Herbert Lawrence, a coal miner's son and struggling writer from Nottingham, visited Kent in the autumn of 1911. Depressed by his work as a teacher, he had sent two short stories to critic and literary editor Edward Garnett who invited him to stay at his home The Cearne at Crockham Hill. Lawrence had a 'ripping time' with Garnett discussing literature in his ingle nook fireplace and was to return to the house several times.[^ref2]  It was here that he wrote three dialect ballads: 'The Collier’s Wife’, ‘Whether or Not’ and ‘The Drained Cup’.[^ref3] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Green_at_Crockham_Hill_-_geograph.org.uk_-_4474691.jpg/1024px-The_Green_at_Crockham_Hill_-_geograph.org.uk_-_4474691.jpg" label="The Green at Crockham Hill" attribution="Peter Trimming, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 In 1912, Lawrence eloped  with Frieda, the wife of his modern language professor. He and Frieda stayed at Garnett's home en route to the continent and it was here that Lawrence wrote ‘At the Cearne’:
@@ -74,25 +74,25 @@ This article was published: 28 August 2023.
 
 ### References
 [^ref1]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 30.
-[^ref2]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005, 96.
+[^ref2]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005, 96; 'To Ada Lawrence Clarke' Oct 1911. 
 [^ref3]: Brown, Catherine. _D.H. Lawrence and: the Cearne_ https://catherinebrown.org/cearne/
 [^ref3]: Brown, Catherine. _D.H. Lawrence and: the Cearne_ https://catherinebrown.org/cearne/
 [^ref4]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 25.
-[^ref5]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref5]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979.
 [^ref6]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005.
-[^ref7]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref7]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979.
 [^ref8]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 32.
-[^ref9]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref9]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979.
 [^ref10]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 48.
 [^ref11]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005.
 [^ref12]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005, 136.
-[^ref13]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
-[^ref14]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref13]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979.
+[^ref14]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979.
 [^ref15]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 33.
-[^ref16]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
-[^ref17]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
-[^ref18]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref16]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979.
+[^ref17]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979.
+[^ref18]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979.
 [^ref19]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 45-6.
 [^ref20]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005, 138.
-[^ref21]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref21]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979.
 
