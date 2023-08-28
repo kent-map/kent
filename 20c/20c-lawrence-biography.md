@@ -94,5 +94,5 @@ This article was published: 28 August 2023.
 [^ref18]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979.
 [^ref19]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 45-6.
 [^ref20]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005, 138.
-[^ref21]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979.
+[^ref21]: Lawrence, D.H. _The Collected letters of D. H. Lawrence_, 1962, 219.
 
