@@ -79,18 +79,18 @@ This article was published: 28 August 2023.
 [^ref3]: Brown, Catherine. _D.H. Lawrence and: the Cearne_ https://catherinebrown.org/cearne/
 [^ref4]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 25.
 [^ref5]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
-[^ref6]:
+[^ref6]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005.
 [^ref7]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
 [^ref8]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 32.
 [^ref9]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
 [^ref10]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 48.
 [^ref11]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005.
 [^ref12]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005, 136.
-[^ref13]:
-[^ref14]:
+[^ref13]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref14]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
 [^ref15]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 33.
-[^ref16]:
-[^ref17]:
+[^ref16]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
+[^ref17]:  Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
 [^ref18]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979,
 [^ref19]: Lawrence, D.H. _The letters of D. H. Lawrence_, vol. 2. Cambridge University Press, 1979, 45-6.
 [^ref20]: Worthen, J. _D.H. Lawrence: The Life of an Outsider_, 2005, 138.
