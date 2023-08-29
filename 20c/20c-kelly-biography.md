@@ -1,3 +1,6 @@
+<param ve-entity eid="Q29303" aliases="Canterbury">
+
+
 Mary Kelly (1927-2017)
 
 ‘overhead, a wide marine sky embossed with pearly clouds, and the slow plumes of the cement works’ chimneys; through the windscreen, concrete posts and barbed wire half swamped by chalk-dusted thickets; and behind the fence, breaking the surface of the grey undulations like a bathers’ warning, a red rust-pitted disc: Police Advice – Danger, Keep Out.’
