@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Writers of Romney Marsh" author="Dr Pat Argar" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/c/c1/Charles_Sims--The_Sands_at_Dymchurch--c1920-2--Tate.jpg">
+<param ve-config title="Writers of Romney Marsh" author="Dr Pat Argar" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/c/c1/Charles_Sims--The_Sands_at_Dymchurch--c1920-2--Tate.jpg" description="A number of writers of the Edwardian era and the years between the World Wars chose to depict Romney Marsh in their work">
 <param ve-entity eid="Q921173" aliases="Aldington">
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 <param ve-entity eid="Q911577" aliases="Dungeness">
