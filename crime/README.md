@@ -18,6 +18,12 @@ An overview of some of the crime novels set in Kent.
 
 No fewer than six of the Sherlock Holmes stories involve Kent railway stations.
 
+## Mary Kelly {href=/20c/20c-kelly-biography/}
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Thames_at_Greenhithe.jpg/1024px-Thames_at_Greenhithe.jpg)
+
+Behind the fence, breaking the surface of the grey undulations like a bathers’ warning, a red rust-pitted disc: Police Advice – Danger, Keep Out.
+
 ## Romney Marsh and Sepulchre Street {href=/21c/21c-edwards-sepulchre-street/}
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/fd/St_Thomas%2C_Fairfield_2.JPG)
