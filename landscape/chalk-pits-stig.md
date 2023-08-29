@@ -1,4 +1,9 @@
-## Chalk pits, Ash and 'Stig of the Dump'
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Walking the Desire Line: Writing Beyond the A to B" author="Daisy Eleanor" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" description="Desire paths are, in the most literal terms, human-made trails created by erosion.>
+
+<param ve-entity eid="Q5360119" aliases="Elham Valley">
+
+# Chalk pits, Ash and 'Stig of the Dump'
 
 The downland of Kent is pocked with small abandoned chalk pits. The chalk was converted to ‘lime’ and used to improve agricultural soils on clay. Lime burning was probably introduced during the Roman period, when lime was originally used in mortar and as a stabiliser for mud floors and render.
 
