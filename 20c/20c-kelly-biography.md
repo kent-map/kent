@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Mary Kelly (1927-2017)" author="Professor Carolyn Oulton" layout="vtl" banner="xxx">
+<param ve-config title="Mary Kelly (1927-2017)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/39/Conveyor%2C_Stone_Cement_Works_1974_-_geograph.org.uk_-_133793.jpg" attribution="Pierre Terre / Conveyor, Stone Cement Works 1974" description="Due to a Death was written by Mary Kelly after a visit to Kent">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q3028239" aliases="Greenhithe">
