@@ -26,8 +26,6 @@ Stig evokes a world before anyone needed to invent ‘Nature-deficit Disorder’
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kit%27s_Coty_House_05.jpg/1024px-Kit%27s_Coty_House_05.jpg" label="Kit's Coty House" attribution="Simon Burchell, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 _Stig_ was beautifully illustrated by Edward Ardizzone, who lived and worked on the chalk at Rodmersham Green, Kent, from the 1960s until his death in 1979. 
-<br><br>
-This article was published: 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Edward_Ardizzone_-_Official_War_Artist_Art.IWMARTLD4056.jpg" label="Edward Ardizzone, official war artist" attribution="Henry Carr, Public domain, via Wikimedia Commons">
 
 ### Bibliography 
