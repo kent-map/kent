@@ -30,7 +30,7 @@ The action of _The Paper Chase_ is set in the mid-1940s, by which time attempts 
 <br><br>
 'a long avenue of pines which ended abruptly in a narrow street full of glossy-fronted, neon-lighted shops. … From the High Street they emerged into a decaying square. Through a gap slate-grey sea could be glimpsed.’[^ref13]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c7/Romney_Sands%2C_Greatstone_on_Sea_-_geograph.org.uk_-_445370.jpg" label="Romney Sands, Greatsone on Sea" attribution="Simon Carey" license="CC BY-SA 2.0">
-<param ve-map center="Q866348" zoom="10">
+<param ve-map center="Q866348" zoom="12">
 
 By this time Symons and his family had moved back to London, but they came back in 1963[^ref14]  to take up residence at Barling House, Brookland, in [Romney Marsh](/placesqz/romney-overview).
 <br><br>
