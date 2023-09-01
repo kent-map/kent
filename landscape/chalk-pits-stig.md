@@ -16,7 +16,7 @@ This childhood freedom is evoked in Clive King’s classic 1963 children’s boo
 In an interview for _The Guardian_, King states 'Ash was a boring place. It needed something to wake it up, so I invented Stig.' _Stig_ was written many years later when King had children of his own, the models for Barney and Lou. While staying with their grandparents Barney explores the surrounding countryside. One day he tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia. While unable to speak the same language (Stig barely utters a sound throughout), the boys form a strong friendship. Explaining Stig to his sister and grandmother Barney simply states:
 <br><br>
 ‘He’s a sort of boy, … He just wears rabbit-skins and lives in a cave. He gets his water through a vacuum cleaner and puts chalk in the bath. He’s my friend.’
-<param ve-image url="https://stor.artstor.org/stor/a86fc780-7720-40a8-96ec-b6e2b493ab11" label="Stig of the Dump" attribution="Illustration by Heather Dawson, designed for Kent Maps Online">
+<param ve-image url="https://stor.artstor.org/stor/862d778e-6ca0-46d3-976d-14bf7d4ff67d" label="Stig of the Dump" attribution="Illustration by Heather Dawson, designed for Kent Maps Online">
 
 The book has had an enduring appeal and sold over two million copies, despite first being rejected by twelve publishers. King told _The Guardian_ his depiction of free-range children was ‘frowned upon’, even then… ‘It was beginning to be rather improper to let a child run wild like that’. 
 <br><br>
