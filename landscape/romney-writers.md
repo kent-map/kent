@@ -7,6 +7,8 @@
 <param ve-entity eid="Q911577" aliases="Dungeness">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 
+#
+
 A number of writers of the Edwardian era and the years between the World Wars chose to depict Romney Marsh in their work. Not least among them was [Henry James](/19c/19c-jamesh-hever-castle), who never featured the area in his novels but found the Marsh a very special place. The Marsh itself evokes a ‘small thrill’ when Henry James sees ‘little lonely farms, red and gray, little mouse-coloured churches; little villages that seem made only for long shadows and summer afternoons … when summer deepens, the shadows fall, … you find in the mild English marsh a recall of the Roman Compagna’.[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/Harold_Gilman_-_Romney_Marsh_-_B1975.4.330_-_Yale_Center_for_British_Art.jpg" label="Romney Marsh" attribution="Harold Gilman, CC0, via Wikimedia Commons">
 
