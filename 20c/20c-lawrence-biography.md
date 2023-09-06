@@ -51,11 +51,11 @@ He began to miss The Cearne saying:
 'It is the sort of place I fit into – something so solid and unmovable about it, something unexpected and individualized: that bare, workmanlike study, that farmhouse hall, that burst into country houseism and culture in the big room, with the lapse into disgraceful, almost brutal roughness – nearly like Squire Western – under the fire-place; the common place kitchen and the dejected scullery – oh Lord, I could live for ages at the Cearne and be happy'.[^ref15]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Beach_and_ladies%27_bathing_place%2C_Margate%2C_England-LCCN2002697068.jpg" label="Beach and ladies' bathing place, Margate .1890-1900" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 
-Whilst staying at Kingsgate, Lawrence and Frieda met Beb and Cynthia Asquith who were staying at Maryland close to Botany Bay.[^ref16] Herbert was the son of the Prime Minister and later served in the Royal Artillery during World War One. He wrote poetry about his war experiences including 'The Volunteer' and 'The Fallen Subaltern. 
+Whilst staying at Kingsgate, Lawrence and Frieda met Beb and Cynthia Asquith who were staying at Maryland close to Botany Bay.[^ref16] Herbert was the son of the Prime Minister and later served in the Royal Artillery during World War One. He wrote poetry about his war experiences including 'The Volunteer' and 'The Fallen Subaltern'. 
 <br><br>
 Cynthia Asquith recalls of Lawrence:
 <br><br>
-'He loved to stroll on the sands under the white chalk cliffs, watching the gulls swinging, as he said, “‘like a half-born thought between the sky and the shore”’.[^ref18]
+'He loved to stroll on the sands under the white chalk cliffs, watching the gulls swinging, as he said, ‘like a half-born thought between the sky and the shore’'.[^ref18]
 <br><br>
 On one occasion he found a gull with a broken wing. Cynthia observed: 'While Lawrence looked at that bird, he _was_ that bird.'[^ref19]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Maryland%2C_Botany_Rd_-_geograph.org.uk_-_1473937.jpg" label="Maryland, Botany Bay Road" attribution="Nigel Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0"> 
