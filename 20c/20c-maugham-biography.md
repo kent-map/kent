@@ -23,15 +23,14 @@ _‘Blackstable consisted of a long winding street that led to the sea, with lit
 <param ve-image url="images/thumbnail_somersetmauagham.jpg" label="Somerset Maugham" attribution="Photograph of lino print by kind permission of Ben Dickson">
 
 After his mother’s death in 1882 Maugham was sent to stay with his uncle, who was a Vicar in Whitstable. He was sent to King’s school, Canterbury, Britain’s oldest public school founded in 597, and part of the Eton group. There, he was isolated and bullied for his poor English, owing to which he later developed a stammer. In his novel _Of Human Bondage_ Canterbury becomes Tercanbury, but King’s School retains its name. Maugham describes it thus, ‘The King's School at Tercanbury, to which Philip went when he was thirteen, prided itself on its antiquity. It traced its origin to an abbey school, founded before the Conquest, where the rudiments of learning were taught by Augustine monks’. In the novel Maugham’s experiences of being bullied at the prestigious school are portrayed, and the school is held responsible, ‘for the rest of the term he tormented Philip cruelly, and, though Philip tried to keep out of his way, the school was so small that it was impossible’. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/94/Great_Stour_at_Canterbury_-_geograph.org.uk_-_1987472.jpg" label="Great Stour at Canterbury" attribution="Great Stour at Canterbury by Paul Gillett, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-map center="Q29303" zoom="10">
 <param ve-map center="Q964785" zoom="10">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/94/Great_Stour_at_Canterbury_-_geograph.org.uk_-_1987472.jpg" label="Great Stour at Canterbury" attribution="Great Stour at Canterbury by Paul Gillett, CC BY-SA 2.0, via Wikimedia Commons">
 
 Maugham does not represent Kent in a favourable way in his other novel based on his life there, _Cakes & Ale_. Both central protagonists feel alienated in Kent. In the second novel ‘Blackstable’ (Whitstable) – is a place where the main character feels ‘shy and lonely (not lonely in the body, for I spent all day at the hospital with all kinds of people, but lonely in the spirit).’ Both novels offer an interesting representation of Kent’s historic institutions from the perspective of a young outsider.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a6/Cobbled_Street_in_Whitstable.jpg" label="Whitstable Town" attribution="Paste at English Wikipedia, Public domain, via Wikimedia Commons">
 <param ve-map center="Q964785" zoom="15">
 
 ### Bibliography
-
 Maugham, Somerset W. [_Of Human Bondage_.](http://www.gutenberg.org/ebooks/351 ) 1995.    
 Maugham, Somerset W. [_Cakes & Ale_.](https://gutenberg.ca/ebooks/maughamws-cakesandale/maughamws-cakesandale-00-h.html) 1930. 
