@@ -79,6 +79,10 @@ But within a few years Conan Doyle would also fall out with his old friend [Jero
 
 After [Jerome’s](/19c/19c-jerome-biography) death in 1927, Conan Doyle would claim that his spirit had made contact to admit that he had been wrong in doubting psychic phenomena. For good measure he would also claim to have made contact with [Dickens](/dickens) and [Joseph Conrad](/19c/19c-conrad-biography). But Conan Doyle was not to have the last word after all. Controversially he had also came out in support of the ‘Cottingley fairies’ supposedly seen by two children, Elsie Wright and her cousin Frances Griffiths, in 1917. Having seen the photographs in 1920, he was sufficiently convinced to published them in _The Strand_ magazine, where the arch sceptic Holmes had made his first appearance. Frances later married and moved to Ramsgate, where she finally admitted in 1983 to having hoaxed the public for over half a century.
 <br><br>
+
+Conan Doyle's belief in fairies may have been discredited. But the author's own fame continues shows no signs of diminishing, although as [Julian Symons](/20c/20c-symons-biography) bluntly put it,‘It seems at first sight astonishing that this Victorian philistine should have created an egocentric drug-taking hero so alien from his own beliefs.’[ref18] In the context of Doyle's conservative beliefs, the creation of Holmes is indeed a mystery.  
+
+
 This article was published: 31 December 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Frances1920.jpg" label="Frances Griffiths, 1920" attribution="picture printed in the american edition of the 1922 book The Coming of the Fairies by Sir Arthur Conan Doyle, Public domain, via Wikimedia Commons">
 
@@ -103,6 +107,7 @@ Pugh, Brian W. _A Chronology of the Life of Sir Arthur Conan Doyle_: Revised 201
 ‘Recruiting Week at Tunbridge Wells.’ 11 December 1914. _Kent and Sussex Courier_. 9.   
 ‘Sir A. Conan Doyle defends Mr Arthur Burr, and is criticised by the “Pall Mall Gazette”. 16 August 1913. _Whitstable Times and Herne Bay Herald._ 2.   
 ‘Sir A. Conan Doyle’s Opinion.’ 23 August 1913. _Folkestone, Sandgate, Hythe and Cheriton Herald_. 7.   
+Symons, Julian. _Bloody Murder. From the Detective Story to the rime Novel: A History._ London: Faber and Faber, 1972.
 Telfer, Kevin, Peter Pan’s First XI: The Extraordinary Story of J. M. Barrie’s Cricket Team (London:   Sceptre, 2010).   
 
 ### References
@@ -124,6 +129,7 @@ Telfer, Kevin, Peter Pan’s First XI: The Extraordinary Story of J. M. Barrie�
 [^ref15]: A lecture in Folkestone Town Hall on 10 April 1915 was titled ‘Great Battles of the War’.
 [^ref16]:  Letter from Sarah Grand to Lady Jean Conan Doyle. 9 April 1919. 
 [^ref17]: Collected in the essay collection _The Edge of the Unknown_.
+[^ref18]: Symons 69.
 
 
 
