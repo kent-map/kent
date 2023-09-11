@@ -23,6 +23,8 @@ Treseder draws the inspiration for her art from nature so the central element of
 <param ve-image url="https://stor.artstor.org/stor/66c4b3c1-6392-4deb-ac01-541afe9e3855" label="Rupert Bear by Gloria Treseder" attribution="Photography by Martin Crowther">
 
 The local audience would certainly agree that the mural showcases their heritage, but as Laurajane Smith points out: 'Heritage [is] a process of engagement, an act of communication and an act of making meaning in and for the present.'[^ref2]  It is us remembering and celebrating the following exhibits that makes them our heritage, and this mural establishes their cultural significance.
+<br><br>
+Note: Traveller's Joy was painted over in 2023.
 <param ve-image url="https://stor.artstor.org/stor/3682a5ad-c995-4ad6-bf5c-a24da1b86d05" label="Traveller's Joy by Gloria Treseder">
 
 ### References
