@@ -7,6 +7,11 @@
 <param ve-entity eid="Q1752642" aliases="Thanet">
 <param ve-entity eid="Q5138885" aliases="Cobham Hall">
 
+<!--Basemap centred on Canterbury-->
+<param ve-map center="Q29303" zoom="10">
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="e9f6ea856473bbaa" title="Kent Map 1820">
+
 #
 
 Emily Shore was an observant and precocious diarist. She was born and brought up in Suffolk, but in 1831, as she explains in a preface to her journal from this year, she and her four siblings were ‘taken ill at once with a most dreadful fever, and were all very dangerously ill. When we were all recovered in some degree, so as to be able to walk, and were nearly as strong in health, papa and mamma determined to take us to [Broadstairs](/dickens/broadstairs-19th-century), to spend the summer holidays by the seaside.’[^ref1] 
