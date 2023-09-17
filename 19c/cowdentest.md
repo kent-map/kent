@@ -11,7 +11,7 @@
 <!--Basemap centred on Canterbury-->
 <param ve-map center="Q29303" zoom="10">
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="0d13de43a9570166" title="Kent Map 1820">
+<param ve-map-layer active allmaps allmaps-id="e9f6ea856473bbaa" title="Kent Map 1820">
 
 
 <!#>
