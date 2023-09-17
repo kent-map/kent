@@ -9,6 +9,11 @@
 <param ve-entity eid="Q6860945" aliases="Milton">
 <param ve-entity eid="Q1626044" aliases="Sittingbourne">
 
+<!--Basemap centred on Canterbury-->
+<param ve-map center="Q29303" zoom="10">
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="e9f6ea856473bbaa" title="Kent Map 1820">
+
 #
 
 Mary Cowden Clarke (née Novello) (1809-1898), author and Shakespeare scholar, was the eldest daughter of musician Vincent Novello and Mary Hehl. Her parents were friends with the poets Charles and Mary Lamb, Leigh Hunt, Shelley and [John Keats]( /19c-keats-margate/), and Mary recalls watching in awe as Keats listened attentively to her father playing the organ. The family, although living in London, sought “healthful changes” by visiting the seaside.[^ref1] Mary visited Kent on at least three occasions which she describes in her autobiography _My Long Life_.
