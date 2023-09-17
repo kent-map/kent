@@ -6,7 +6,6 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q665489" aliases="Tunbridge">
-<param ve-entity eid="Q6860945" aliases="Milton">
 <param ve-entity eid="Q1626044" aliases="Sittingbourne">
 
 <!--Basemap centred on Canterbury-->
