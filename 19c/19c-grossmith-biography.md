@@ -1,11 +1,16 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="George Grossmith (1847-1912)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="George Grossmith (1847-1912)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg" description="Carolyn Oulton follows the Kent exploits of George Grossmith, actor, theatrical manager and his brother Weedon.">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q2912867" aliases="the station">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
+
+<!-- Basemap centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
 
 #
   
