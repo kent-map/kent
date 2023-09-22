@@ -28,13 +28,14 @@ In this unpromising setting the marital frustrations of the female characters do
 This article was published: 29 August 2023.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Greenhithe_Causeway_-_geograph.org.uk_-_3935916.jpg/1024px-Greenhithe_Causeway_-_geograph.org.uk_-_3935916.jpg" label="Greenhithe Causeway" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
-### With thanks to Jenny Hobart of Dartford Library for confirming details of the various amenities in Dartford and Gravesend, as well as the hotel where Mary Kelly stayed.
 
 ### Bibliography
 Edwards, Martin. ‘All Will Be Revealed: Rediscovering Mary Kelly.’ _CADS_ 84 (December 2020). 3-9.   
 Kelly, Mary. _Due to a Death_. London: British Library Crime Classics, 2021.   
 Oulton, Carolyn. _Down From London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 ‘Pooter.’ 8 March 1969. 20. _The Times Digital Archive._ link.gale.com/apps/doc/CS336556136/TTDA?u=ccc_uni&sid=bookmark-TTDA. Accessed 20 July 2023.   
+
+With thanks to Jenny Hobart of Dartford Library for confirming details of the various amenities in Dartford and Gravesend, as well as the hotel where Mary Kelly stayed. Email 22 September 2023.
 
 ### References
 [^ref1]: ‘Pooter’.    
