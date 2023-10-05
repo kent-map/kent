@@ -32,11 +32,11 @@
 
 2007  
 <br>
-**1/10/2007** I’ve just sent off the MS of ‘The Skies Over Thanet’ [the MS that subsequently became [Crab & Winkle](/21c/21c-crab-and-winkle)]. The title’s from a Turner quote and fortuitously there’s an item in today’s _Guardian_ about meteorologists taking note of Turner’s sunsets. Apparently, as JMWT was painting [in Kent] the atmosphere was affected by eruptions in Indonesia, half a world away.   
+**1/10/2007** - I’ve just sent off the MS of ‘The Skies Over Thanet’ [the MS that subsequently became [Crab & Winkle](/21c/21c-crab-and-winkle)]. The title’s from a Turner quote and fortuitously there’s an item in today’s _Guardian_ about meteorologists taking note of Turner’s sunsets. Apparently, as JMWT was painting [in Kent] the atmosphere was affected by eruptions in Indonesia, half a world away.   
 <br>
-**15/10/2007** Virginia Woolf was in Rough Common – at ‘Moat House’, addressed as Blean, but just off the R.C. road, in 1910, one of her early breakdowns. The house was rented by Clive and Vanessa. The ‘rest cure’ didn’t work and she went into hospital, but she did write a nice paragraph about the surrounds.   
+**15/10/2007** - Virginia Woolf was in Rough Common – at ‘Moat House’, addressed as Blean, but just off the R.C. road, in 1910, one of her early breakdowns. The house was rented by Clive and Vanessa. The ‘rest cure’ didn’t work and she went into hospital, but she did write a nice paragraph about the surrounds.   
 <br>
-**23/12/2007** Dungeness – English Surrealist painters invariably dealt with the seaside. Surrealism was almost washed ashore from France. An anthology could be called ‘Flotsam’.
+**23/12/2007** - Dungeness – English Surrealist painters invariably dealt with the seaside. Surrealism was almost washed ashore from France. An anthology could be called ‘Flotsam’.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Joseph_Mallord_William_Turner_%281775-1851%29_-_Margate_-_T03876_-_Tate.jpg" label="J. M. W. Turner, Public domain, via Wikimedia Commons">
 <param ve-map primary center="Q1752642" zoom="10">
 
@@ -117,10 +117,10 @@ snowdrops eaten by pheasant (partly)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/44/Footpath_leading_from_Faversham_to_Goodnestone_-_geograph.org.uk_-_2656181.jpg" label="Foothapth leading from Faversham to Goodnestone" attribution="pam fray via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-map primary center="Q5583495" zoom="10">
 
-2018 
-<br>
-**30/8/2018** - At Rochester new housing advertises itself as ‘The Home Of [Great Expectations](/dickens/great-expectations-curated-walk)’.   
-<br>
+2018
+<br><br>
+**30/8/2018** - At Rochester new housing advertises itself as ‘The Home Of [Great Expectations](/dickens/great-expectations-curated-walk)’.
+<br><br>
 **3/9/2018** - Over the weekend, the Hop Festival. The town crazy for a few hours. We ventured out into it two or three times to check out the bands and the ambience generally. The Sun has its music in the beer garden so our backyard, two doors down, seems like the stalls. On the Saturday I picked up a hop vine for the fireplace and threw out the old one. On Sunday morning we walked over to Goodnestone and back through the farms.   
 <br>
 **7/9/2018** - For a moment the barmaid in The Sun looks like the one in Manet’s painting.   
