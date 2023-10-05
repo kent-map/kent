@@ -58,7 +58,7 @@
 **18/9/2009** -  A puffin over the Oare Marshes (strayed from the north Pacific).   
 <br>
 **30/11/2009** - The backyard soil hasn’t dried out for weeks – it’s all sodden, though the primulas and various other plants seem to like it. The Xmas lights are on. The town adolescents are slightly mad. I actually welcome the darkness, the season. It makes sense of everything else.   
-<param ve-image url="images/Oare Marshes.jpeg" label="Oare Marshes © Astrid Stilma">
+<param ve-image url="https://stor.artstor.org/stor/cca915c2-7ffb-4f33-9ab7-e74553085aa4" label="Oare Marshes © Astrid Stilma">
 <param ve-map primary center="Q7074367" zoom="10">
 
 2010  
@@ -112,6 +112,7 @@ snowdrops eaten by pheasant (partly)
 **8/7/2016** - Breakfast out at The Yard (‘the usual at the usual’). Ken would like this place. There’s a cool wind through the open door. The coat hangers seem to have a permanent collection of coats – you would have to hang yours somewhere else. Ahead of me a bad portrait of Judi Dench. The strange sight of a man with a notebook (me) among others with iphones. We live to view our own obsolescence.   
 <br>
 **6/8/2016** - An afternoon walk to Goodnestone and back. En route, wheat, hops, barley, strawberries, blueberries – the strawberry rows with an intense odour. A young Polish girl tries to find the home of a lost dog. I finish off a notebook over a pint of stout in The Sun.    
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/44/Footpath_leading_from_Faversham_to_Goodnestone_-_geograph.org.uk_-_2656181.jpg" label="Foothapth leading from Faversham to Goodnestone" attribution="pam fray via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-map primary center="Q5583495" zoom="10">
 
 2018 
