@@ -28,7 +28,7 @@
 <param ve-entity eid="Q5583495" aliases="Goodnestone">
 <param ve-entity eid="Q507517" aliases="Rochester">
 
-**2007**   
+2007  
 <br>
 **1/10/2007**  -   I’ve just sent off the MS of ‘The Skies Over Thanet’ [the MS that subsequently became [Crab & Winkle](/21c/21c-crab-and-winkle)]. The title’s from a Turner quote and fortuitously there’s an item in today’s _Guardian_ about meteorologists taking note of Turner’s sunsets. Apparently, as JMWT was painting [in Kent] the atmosphere was affected by eruptions in Indonesia, half a world away.   
 <br>
@@ -38,7 +38,7 @@
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Joseph_Mallord_William_Turner_%281775-1851%29_-_Margate_-_T03876_-_Tate.jpg" label="J. M. W. Turner, Public domain, via Wikimedia Commons">
 <param ve-map primary center="Q1752642" zoom="10">
 
-**2008**   
+2008  
 <br>
 **15/1/2008** -   A moment on the bus where the streaks of green and brown and the rain across the windows becomes the one and only moment. A strange happiness. Then I have to get off and walk through Canterbury. Collapsed umbrellas in bins.   
 <br>
@@ -46,7 +46,7 @@
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/82/Canterbury_bus_interchange_-_geograph.org.uk_-_2910956.jpg" label="Oast House Archive / Canterbury bus interchange">
 <param ve-map primary center="Q29303" zoom="10">
 
-**2009**   
+2009  
 <br>
 **7/1/2009** - [Faversham] The snow from two nights back hasn’t melted. Interesting to see what plants seem to have survived well – lavender, thyme, oregano. Tarragon dies naturally in winter.   
 <br>
@@ -61,7 +61,7 @@
 <param ve-image url="images/Oare Marshes.jpeg" label="Oare Marshes © Astrid Stilma">
 <param ve-map primary center="Q7074367" zoom="10">
 
-**2010**   
+2010  
 <br>
 **2/2/2010** - Yesterday, sunlight, a walk. Bitten by a dog near Monkshill.   
 plant snowdrops   
@@ -77,7 +77,7 @@ snowdrops eaten by pheasant (partly)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/00/The_Anchor_Public_House%2C_Faversham_-_geograph.org.uk_-_1728967.jpg" label="David Anstiss / The Anchor Public House, Faversham">
 <param ve-map primary center="Q26627972" zoom="10">
 
-**2011**   
+2011 
 <br>
 **7/1/2011** - [Flying back:] There’s a clear patch of sky over our part of the East Kent coast. The Faversham and Oare Creeks are visible at high tide in from the eastern end of Sheppey. Then it pours driving back through Surrey.   
 <br>
@@ -87,7 +87,7 @@ snowdrops eaten by pheasant (partly)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/The_church_of_St.Mary_Magdalen%2C_Davington_-_geograph.org.uk_-_1276737.jpg" label="pam fray, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-map primary center="Q5241797" zoom="10">
 
-**2012-14**   
+2012-14
 <br>
 **28/5/2012** - In the yard, three nests: pigeon (in pyrocanthus), blackbird (over the path trellis) and redbreast (in the brickwork of the back wall). A storm holds off. Maybe it hits London.    
 <br>
@@ -99,7 +99,7 @@ snowdrops eaten by pheasant (partly)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/30/Country_road_on_the_Hoo_Peninsula_-_geograph.org.uk_-_44200.jpg" label="Hywel Williams / Country road on the Hoo Peninsula">
 <param ve-map primary center="Q1321596" zoom="10">
 
-**2015**   
+2015  
 <br>
 **13/3/2015** - On the ‘two creeks’ circular walk from Faversham I notice a patch of colour in a bush beside the track. It is a laminated copy of William Blake’s ‘London’.   
 <br>
@@ -107,14 +107,14 @@ snowdrops eaten by pheasant (partly)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/Faversham_Station_%2816485929108%29.jpg" label="Joshua Brown from Ashford, Kent, United Kingdom, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-map primary center="Q1000115" zoom="10">
 
-**2016**   
+2016   
 <br>
 **8/7/2016** - Breakfast out at The Yard (‘the usual at the usual’). Ken would like this place. There’s a cool wind through the open door. The coat hangers seem to have a permanent collection of coats – you would have to hang yours somewhere else. Ahead of me a bad portrait of Judi Dench. The strange sight of a man with a notebook (me) among others with iphones. We live to view our own obsolescence.   
 <br>
 **6/8/2016** - An afternoon walk to Goodnestone and back. En route, wheat, hops, barley, strawberries, blueberries – the strawberry rows with an intense odour. A young Polish girl tries to find the home of a lost dog. I finish off a notebook over a pint of stout in The Sun.    
 <param ve-map primary center="Q5583495" zoom="10">
 
-**2018**   
+2018 
 <br>
 **30/8/2018** - At Rochester new housing advertises itself as ‘The Home Of [Great Expectations](/dickens/great-expectations-curated-walk)’.   
 <br>
