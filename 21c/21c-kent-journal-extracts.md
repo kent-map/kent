@@ -28,6 +28,8 @@
 <param ve-entity eid="Q5583495" aliases="Goodnestone">
 <param ve-entity eid="Q507517" aliases="Rochester">
 
+#
+
 2007  
 <br>
 **1/10/2007** I’ve just sent off the MS of ‘The Skies Over Thanet’ [the MS that subsequently became [Crab & Winkle](/21c/21c-crab-and-winkle)]. The title’s from a Turner quote and fortuitously there’s an item in today’s _Guardian_ about meteorologists taking note of Turner’s sunsets. Apparently, as JMWT was painting [in Kent] the atmosphere was affected by eruptions in Indonesia, half a world away.   
