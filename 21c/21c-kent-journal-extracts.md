@@ -30,11 +30,11 @@
 
 2007  
 <br>
-1/10/2007 -   I’ve just sent off the MS of ‘The Skies Over Thanet’ [the MS that subsequently became [Crab & Winkle](/21c/21c-crab-and-winkle)]. The title’s from a Turner quote and fortuitously there’s an item in today’s _Guardian_ about meteorologists taking note of Turner’s sunsets. Apparently, as JMWT was painting [in Kent] the atmosphere was affected by eruptions in Indonesia, half a world away.   
+**1/10/2007** I’ve just sent off the MS of ‘The Skies Over Thanet’ [the MS that subsequently became [Crab & Winkle](/21c/21c-crab-and-winkle)]. The title’s from a Turner quote and fortuitously there’s an item in today’s _Guardian_ about meteorologists taking note of Turner’s sunsets. Apparently, as JMWT was painting [in Kent] the atmosphere was affected by eruptions in Indonesia, half a world away.   
 <br>
-15/10/2007  -   Virginia Woolf was in Rough Common – at ‘Moat House’, addressed as Blean, but just off the R.C. road, in 1910, one of her early breakdowns. The house was rented by Clive and Vanessa. The ‘rest cure’ didn’t work and she went into hospital, but she did write a nice paragraph about the surrounds.   
+**15/10/2007** Virginia Woolf was in Rough Common – at ‘Moat House’, addressed as Blean, but just off the R.C. road, in 1910, one of her early breakdowns. The house was rented by Clive and Vanessa. The ‘rest cure’ didn’t work and she went into hospital, but she did write a nice paragraph about the surrounds.   
 <br>
-23/12/2007  -   Dungeness – English Surrealist painters invariably dealt with the seaside. Surrealism was almost washed ashore from France. An anthology could be called ‘Flotsam’.
+**23/12/2007** Dungeness – English Surrealist painters invariably dealt with the seaside. Surrealism was almost washed ashore from France. An anthology could be called ‘Flotsam’.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Joseph_Mallord_William_Turner_%281775-1851%29_-_Margate_-_T03876_-_Tate.jpg" label="J. M. W. Turner, Public domain, via Wikimedia Commons">
 <param ve-map primary center="Q1752642" zoom="10">
 
