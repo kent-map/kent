@@ -38,14 +38,14 @@ His first Kent address was in St Peter’s, just outside Broadstairs, from 1896.
 <param ve-map center="Q922739" zoom="10">
 <param ve-map center="Q107339017" zoom="10">
 
-Freeman is rightly noted for his forensic attention to detail, but he occasionally indulges himself with lines of pure poetry, as in this account of a train journey from London to the Goodwins, from ‘The Echo of a Mutiny’ (1912):
-_The chimneys of Northfleet, the clustering roofs of Gravesend, the populous anchorage and the lurking batteries, were left behind, and, as we swung out of the Lower Hope, the wide expanse of sea spread out before us like a great sheet of blue-shot satin._[^ref1] 
+Freeman is rightly noted for his forensic attention to detail, leading [Julian Symons](/20c/20c-symons-biography) to comment that ‘Reading a Freeman story is very much like chewing dry straw.’_[^ref1] But he occasionally indulges himself with lines of pure poetry, as in this account of a train journey from London to the Goodwins, from ‘The Echo of a Mutiny’ (1912):
+_The chimneys of Northfleet, the clustering roofs of Gravesend, the populous anchorage and the lurking batteries, were left behind, and, as we swung out of the Lower Hope, the wide expanse of sea spread out before us like a great sheet of blue-shot satin._[^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Northfleet_Power_Station2.jpg" label="The chimneys of Northfleet" attribution="Pterre, CC BY-SA 3.0, via Wikimedia Commons">
 
 A number of his subsequent novels and stories, from the 1913 _The Unwilling Adventurer_, set in 18th century Gravesend, to the later Thorndyke stories, are set in carefully detailed Kent locations. 
 <param ve-map center="Q676689" zoom="15">
 
-In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he was discharged in 1919. By 1921 the family was living in Darnley Road, Gravesend. It was here that Freeman wrote his story of a woman who disappears in Rochester, the suspiciously named _Mystery of Angelina Frood_ (1924). He later admitted that ‘This book was written as a playful commentary on Dickens’s great story, [_The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk); but, as few people are now familiar with Goldsmith’s _Edwin and Angelina_, the mild joke fell flat.’[^ref2] 
+In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he was discharged in 1919. By 1921 the family was living in Darnley Road, Gravesend. It was here that Freeman wrote his story of a woman who disappears in Rochester, the suspiciously named _Mystery of Angelina Frood_ (1924). He later admitted that ‘This book was written as a playful commentary on Dickens’s great story, [_The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk); but, as few people are now familiar with Goldsmith’s _Edwin and Angelina_, the mild joke fell flat.’[^ref3] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/The_History_of_the_Maidstone_Companies%2C_Royal_Army_Medical_Corps_%28Volunteers%29_-_by_Frederick_J._Wood_%281907%29_%2814598183990%29.jpg" label="The History of the Maidstone Companies, Royal Army Medical Corps (Volunteers) - by Frederick J. Wood (1907)" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Gravesend_Clock_Tower_postcard.jpg" label="Gravesend Clock Tower Postcard, 7 august 1907" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <param ve-map center="Q213180" zoom="12">
@@ -69,6 +69,7 @@ Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Ra
 
 ### References
 
-[^ref1]:  ‘The Echo of a Mutiny’ 137-8.   
-[^ref2]:  Inscription copy cited in Donaldson 153.   
-[^ref3]:  _Mystery in the Channel_ 133.   
+[^ref1]:   _Symons, Julian. Bloody Murder. From the Detective Story to the Crime Novel: A History._ London: Faber and Faber, 1972. 87.
+[^ref2]:  ‘The Echo of a Mutiny’ 137-8.  
+[^ref3]:  Inscription copy cited in Donaldson 153.     
+
