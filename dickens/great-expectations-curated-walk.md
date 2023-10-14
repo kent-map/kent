@@ -42,9 +42,9 @@ The landscape Pip describes seems to alter as he moves across it. In his nightma
 <param ve-video vid="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent">
 
 A comparison of his carefully detailed account of his movements with a map drawn up in the 1820s reveals further optical illusions – the hulks Pip describes are almost certainly miles from where he places them and the finger post is also in the wrong place. But as his main reference points, the marshes and Rochester confirm the stark contrast he himself sets up between stifling gentility and brutal survival. Whether the 21st century visitor sets out on an actual ‘pilgrimage’ or follows Pip’s progress on a map, the fascination of these '[mobile landscapes](/dickens/mobile-landscapes)’ lies precisely in their ability to symbolise darkness and the guilt of impossible choices. The curated walk that follows offers one suggestion for how we might enter and interpret that lost world.
+<param ve-image url="https://stor.artstor.org/stor/e0659eea-10b4-4682-b094-0fcc08b714c2" title="West View of the City of Rochester" fit="contain">
 <param ve-map center="Q507517" zoom="12">
 <param ve-map-layer mapwarper mapwarper-id="38872" title="Kent 1820" active>
-<param ve-image url="https://stor.artstor.org/stor/e0659eea-10b4-4682-b094-0fcc08b714c2" title="West View of the City of Rochester" fit="contain">
 
 Philip Pirrip tells us in his very name that he is trapped in language. Hardly surprisingly the child cannot perform this tongue twister and reduces his name to an inarticulate stutter: Pip.  According to this logic his full name must be pronounceable as ‘Pip Pip’, which would become a slang term for ‘goodbye’ in the twentieth century. As Joe will later say to him, ‘life is made of ever so many partings’[^ref1]. 
 <param ve-map center="Q507517" zoom="12">
@@ -67,7 +67,7 @@ At Satis House itself Pip’s initial reception is humiliating. Mocked by Estell
 was bought and restored in the 1980s by entertainer Rod Hull and his irrepressible puppet Emu.
 <param ve-map center="Q26377461" zoom="13">
 <param ve-map-layer mapwarper active title="Kent 1820" mapwarper-id="38872">
-<param ve-image primary url="images/RestorationHouse.JPG" fit="contain" title="Restoration House">
+<param ve-image primary url="https://stor.artstor.org/stor/0d85c39c-dfad-4981-b570-dca84de881e8" fit="contain" title="Restoration House">
 
 On a visit to the town after his succession to fortune Pip will be taunted by the unimpressed Trabb’s boy, who ducks in and out of the backstreets of the town to appear in front of him jeering, finally ‘crowing and pursuing me across the bridge with crows, as from an exceedingly dejected fowl who had known me when I was a blacksmith’. This untoward reception and final triumph of the tailor’s assistant over the product of expensive clothing ‘culminated the disgrace with which I left the town, and was, so to speak, ejected by it into the open country’[^ref2].  
 <param ve-map center="Q5132831" zoom="12">
@@ -76,7 +76,7 @@ Later events will force Pip to reassess his own past and what it means to be a �
 
 Pip himself seems about to come full circle in returning to the [marshes](/landscape/kentish-landscapes) with Magwitch as they row down the river from London. Towards the end of the novel he is not far from this point when he and his friends stop with Magwitch at the Ship Inn at the end of their abortive attempt to smuggle him out of the country. While Pip has never before seen this stretch of river he recognises at once that ‘It was like my own marsh country, flat and monotonous, and with a dim horizon; while the winding river turned and turned, and the great floating buoys upon it turned and turned, and everything else seemed stranded and still.’[^ref3] But his return is thwarted when Magwitch is hunted down by Compeyson and dies of his injuries, possibly compounded by a river infection. A sadder and wiser Pip finally realises what Joe was trying to tell him years before - there is no way back save in the imagination.
 <param ve-map center="Q26377259" zoom="12">
-<param ve-image url="images/Ship_and_Lobster.jpg" fit="contain">
+<param ve-image url="https://stor.artstor.org/stor/960a6b98-33e1-4471-9c09-71186a39a6d1" fit="contain">
 
 
 This curated walk is also available as a [video](https://www.youtube.com/watch?v=meumYGqMQLc&t=11s).
