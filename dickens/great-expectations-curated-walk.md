@@ -37,7 +37,7 @@
 #
 
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the [Hulks](/prisons/convict-hulks)s’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
-<param ve-image primary url="images/Cooling_Marshes.jpg" title="The marshes" fit="contain">
+<param ve-image primary url="https://stor.artstor.org/stor/f2afe648-fc79-434a-acab-40d16335c345" title="The Marshes" fit="contain">
 <param ve-map center="51.4, 0.50" zoom="11">
 <param ve-video vid="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent">
 
