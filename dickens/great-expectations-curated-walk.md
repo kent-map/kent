@@ -44,7 +44,7 @@ The landscape Pip describes seems to alter as he moves across it. In his nightma
 A comparison of his carefully detailed account of his movements with a map drawn up in the 1820s reveals further optical illusions – the hulks Pip describes are almost certainly miles from where he places them and the finger post is also in the wrong place. But as his main reference points, the marshes and Rochester confirm the stark contrast he himself sets up between stifling gentility and brutal survival. Whether the 21st century visitor sets out on an actual ‘pilgrimage’ or follows Pip’s progress on a map, the fascination of these '[mobile landscapes](/dickens/mobile-landscapes)’ lies precisely in their ability to symbolise darkness and the guilt of impossible choices. The curated walk that follows offers one suggestion for how we might enter and interpret that lost world.
 <param ve-map center="Q507517" zoom="12">
 <param ve-map-layer mapwarper mapwarper-id="38872" title="Kent 1820" active>
-<param ve-image url="images/Rochester_1828.jpg" title="West View of the City of Rochester" fit="contain">
+<param ve-image url="https://stor.artstor.org/stor/e0659eea-10b4-4682-b094-0fcc08b714c2" title="West View of the City of Rochester" fit="contain">
 
 Philip Pirrip tells us in his very name that he is trapped in language. Hardly surprisingly the child cannot perform this tongue twister and reduces his name to an inarticulate stutter: Pip.  According to this logic his full name must be pronounceable as ‘Pip Pip’, which would become a slang term for ‘goodbye’ in the twentieth century. As Joe will later say to him, ‘life is made of ever so many partings’[^ref1]. 
 <param ve-map center="Q507517" zoom="12">
