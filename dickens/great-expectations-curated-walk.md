@@ -63,7 +63,7 @@ But the finger post also conveys the boundaries of Pip’s world. The novel is i
 <param ve-map center="Q5132831" zoom="12">
 
 Little wonder that the route into Rochester seems more appealing. But here too there are obstacles and pitfalls. To reach Miss Havisham’s Satis House ‘up town’, Pip must first navigate the High Street. This means passing Pumblechook’s house and the provincial majesty of the [Guildhall](/dickens/great-expectations-guildhall) where he will feel like a convict himself when he is formally apprenticed to Joe, as well as braving the many watchful eyes of the town dwellers.
-<param ve-map center="Q26377461" zoom="14">
+<param ve-map center="Q26377461" zoom="12">
 
 At Satis House itself Pip’s initial reception is humiliating. Mocked by Estella for his coarse hands and thick boots, he determines to become a gentleman and rid himself of these outward signs of low status. Estella’s own pretensions are undermined when it transpires that she is the daughter of a convict and a murderer. In a surreal twist to the story of this dignified young woman, Restoration House
 was bought and restored in the 1980s by entertainer Rod Hull and his irrepressible puppet Emu.
@@ -75,16 +75,15 @@ On a visit to the town after his succession to fortune Pip will be taunted by th
 <param ve-map center="Q5132831" zoom="12">
 
 Later events will force Pip to reassess his own past and what it means to be a ‘gentleman’. Thackeray famously said that it took three generations ‘to make a gentleman’; Magwitch believes that through his hard work and self-denial he has ‘made a gentleman’; Pip’s unlikely counterpart Estella is the most obviously constructed character in the novel and herself has to be ‘educated for a lady’. A mature Pip will provide the only possible answer to this conundrum when he describes Joe as ‘this gentle Christian man’.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/87/With_Estella_after_all%2C_by_Marcus_Stone.jpg" label="With Estella after all" attribution="Marcus Stone">
 
 Pip himself seems about to come full circle in returning to the [marshes](/landscape/kentish-landscapes) with Magwitch as they row down the river from London. Towards the end of the novel he is not far from this point when he and his friends stop with Magwitch at the Ship Inn at the end of their abortive attempt to smuggle him out of the country. While Pip has never before seen this stretch of river he recognises at once that ‘It was like my own marsh country, flat and monotonous, and with a dim horizon; while the winding river turned and turned, and the great floating buoys upon it turned and turned, and everything else seemed stranded and still.’[^ref3] But his return is thwarted when Magwitch is hunted down by Compeyson and dies of his injuries, possibly compounded by a river infection. A sadder and wiser Pip finally realises what Joe was trying to tell him years before - there is no way back save in the imagination.
-<param ve-map center="Q26377259" zoom="12">
-<param ve-image url="https://stor.artstor.org/stor/960a6b98-33e1-4471-9c09-71186a39a6d1" fit="contain">
-
-
+<br><br>
 This curated walk is also available as a [video](https://www.youtube.com/watch?v=meumYGqMQLc&t=11s).
+<param ve-image url="https://stor.artstor.org/stor/960a6b98-33e1-4471-9c09-71186a39a6d1" fit="contain">
+<param ve-map center="Q26377259" zoom="12">
 
 ### References
-
 [^ref1]: http://www.literaturepage.com/read/greatexpectations-250.html
 [^ref2]: http://www.literaturepage.com/read/greatexpectations-273.html
 [^ref3]: http://www.literaturepage.com/read/greatexpectations-490.html
