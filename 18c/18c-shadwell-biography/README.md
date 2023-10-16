@@ -173,7 +173,7 @@ This article was published: 25 February 2023.
 [^ref32]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.20.
 [^ref33]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.72.
 [^ref34]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.72.
-[^ref35]: [^ref43]: Wheatley, Christopher J. “Thomas Shadwell’s `The Volunteers’ and the Rhetoric of Honor and Patriotism.” ELH, vol. 60, no. 2, Summer 1993, p. 397. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=ibh&AN=9309166318&authtype=shib&site=ehost-live.
+[^ref35]: Wheatley, Christopher J. “Thomas Shadwell’s `The Volunteers’ and the Rhetoric of Honor and Patriotism.” ELH, vol. 60, no. 2, Summer 1993, p. 397. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=ibh&AN=9309166318&authtype=shib&site=ehost-live.
 [^ref36]: Peacock, J.H. (2005) 'Who was John Bartram? Literary and epistolary depictions of the Quaker', _Symbiosis: a Journal of Anglo-American Literary Relations_, 9(1), pp.29-44.
 [^ref37]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.30.
 [^ref38]: Shadwell, Charles (1710) _The Fair Quaker of Deal_ p.14
