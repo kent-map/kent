@@ -1,4 +1,4 @@
-title: EZPage Dev
+title: Kent Maps Online
 author:
   name: rsnyder
   email: ron@snyderjr.com
@@ -6,15 +6,14 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >-
-  Quickly build websites using Github Pages, Markdown, and interactive viewers.
+  A set of themed essays about Kent, a county in South East England, which include interactive maps and images. Kent has a rich history and provided inspiration for a number of writers and artists.
 
 github:
-  owner: rsnyder
-  repo: ezpage-dev
-  branch: main
+  owner: kent-map
+  repo: kent
+  branch: gh-pages
 
-url: https://rsnyder.github.io/ezpage-dev/
-baseurl: /ezpage-dev
+url: https://beta.kent-maps.online/
+baseurl: /
 
-# components: https://rsnyder.github.io/ezpage-wc/js/index.js,https://juncture-digital.github.io/web-components/js/index.js
-components: http://localhost:5173/src/main.ts,https://juncture-digital.github.io/web-components/js/index.js
+components: https://juncture-digital.github.io/web-components/js/index.js

@@ -83,7 +83,7 @@ footer = open(f'{BASEDIR}/_includes/footer.html', 'r').read()
 favicon = open(f'{BASEDIR}/favicon.ico', 'rb').read() if os.path.exists(f'{BASEDIR}/favicon.ico') else None
 
 if LOCAL_WC:
-  config['components'] = config['components'].replace('https://juncture-digital.github.io/web-components/js/index.js', 'http://localhost:5173/')
+  config['components'] = config['components'].replace('https://juncture-digital.github.io/web-components/js/index.js', 'http://localhost:5173/src/main.ts')
 
 html_template = open(f'{BASEDIR}/_layouts/default.html', 'r').read()
 html_template = re.sub(r'^\s*{%- include header.html -%}', header, html_template, flags=re.MULTILINE)
