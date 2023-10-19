@@ -335,6 +335,7 @@ async function init() {
 
   await getJunctureConfig()
   config.components = config.components ? config.components.split(',').map(l => l.trim()) : []
+  console.log(config)
 
   convertWcTagsToElements()
   structureContent()

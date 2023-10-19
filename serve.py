@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-Python dev server for ezpage site.
+Python dev server for Kent Maps site.
 Dependencies: bs4 fastapi html5lib Markdown pymdown-extensions PyYAML uvicorn
 '''
 
@@ -26,7 +26,7 @@ import uvicorn
 
 from fastapi import FastAPI
 from fastapi.responses import Response
-app = FastAPI(title='EZPage', root_path='/')
+app = FastAPI(title='Kent Maps', root_path='/')
 
 media_types = {
   'css': 'text/css',
@@ -146,12 +146,12 @@ async def serve(path: Optional[str] = None):
 
 if __name__ == '__main__':
   logger.setLevel(logging.INFO)
-  parser = argparse.ArgumentParser(description='EZpage dev server')  
+  parser = argparse.ArgumentParser(description='Kent Maps dev server')  
   parser.add_argument('--reload', type=bool, default=True, help='Reload on change')
   parser.add_argument('--port', type=int, default=8080, help='HTTP port')
-  parser.add_argument('--localwc', type=bool, default=False, help='Use local web components')
+  parser.add_argument('--localwc', action=argparse.BooleanOptionalAction, help='Use local web components')
   args = vars(parser.parse_args())
   
   os.environ['LOCAL_WC'] = str(args['localwc'])
 
-  uvicorn.run('server:app', port=args['port'], log_level='info', reload=args['reload'])
+  uvicorn.run('serve:app', port=args['port'], log_level='info', reload=args['reload'])
