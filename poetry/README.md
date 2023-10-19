@@ -1,6 +1,4 @@
-.ve-header "Poets and Poetry" gh:kent-map/kent/images/banners//19c.jpg sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Poets and Poetry" background=gh:kent-map/kent/images/banners//19c.jpg sticky=true
 
 The Kent coast and countryside has provided inspiration for poets throughout the centuries.
 

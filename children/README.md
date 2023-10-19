@@ -1,6 +1,4 @@
-.ve-header "Children's Authors and Stories" gh:kent-map/images/artists/artists sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Children's Authors and Stories" background=gh:kent-map/images/artists/artists sticky=true
 
 Children's authors
 

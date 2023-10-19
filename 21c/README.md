@@ -1,6 +1,4 @@
-.ve-header "21st Century Kent" gh:kent-map/images/21c/canterburyhighst sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="21st Century Kent" background=gh:kent-map/images/21c/canterburyhighst sticky=true`
 
 Regeneration and the rise of the DFL.
 

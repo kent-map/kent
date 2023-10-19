@@ -1,6 +1,4 @@
-.ve-header "18th Century Kent" gh:kent-map/kent/images/banners/18c.jpg sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="18th Century Kent" background=gh:kent-map/kent/images/banners/18c.jpg sticky=true
 
 Strategic position of the Medway in relation to European wars. New sea water ‘cures’ see the reinvention of Margate as a fashionable resort.
 

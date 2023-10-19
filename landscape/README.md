@@ -1,6 +1,4 @@
-.ve-header "Literary Landscapes" gh:kent-map/images/landscapes/oasthouses sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Literary Landscapes" background=gh:kent-map/images/landscapes/oasthouses sticky=true
 
 Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 

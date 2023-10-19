@@ -1,6 +1,4 @@
-.ve-header "Places Q-Z" gh:kent-map/kent/images/banners/19c.jpg sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Places Q-Z" background=gh:kent-map/kent/images/banners/19c.jpg sticky=true
 
 Seaside resorts such as Ramsgate and Sandgate.
 

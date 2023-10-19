@@ -1,6 +1,4 @@
-.ve-header "Mathematicians and Scientists" gh:kent-map/images/science/minstermarsh sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Mathematicians and Scientists" background=gh:kent-map/images/science/minstermarsh sticky=true
 
 Botanists, chemists and naturalists abound in the beautiful garden of England.
 

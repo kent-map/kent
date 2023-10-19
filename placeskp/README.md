@@ -1,6 +1,4 @@
-.ve-header "Places K-P" gh:kent-map/kent/images/banners/19c.jpg sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Places K-P" background=gh:kent-map/kent/images/banners/19c.jpg sticky=true
 
 Margate
 

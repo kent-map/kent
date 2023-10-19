@@ -1,6 +1,4 @@
-.ve-header "Places E-J" gh:kent-map/kent/images/banners/19c.jpg sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Places E-J" background=gh:kent-map/kent/images/banners/19c.jpg sticky=true
 
 Towns of grandeur. Articles on Folkestone and Gravesend
 

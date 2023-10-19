@@ -1,6 +1,4 @@
-.ve-header "The Garden of England" gh:kent-map/images/gardenofeng/nrseasalter sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="The Garden of England" background=gh:kent-map/images/gardenofeng/nrseasalter sticky=true
 
 Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth.
 

@@ -1,8 +1,4 @@
-.ve-header "16th Century Kent" gh:kent-map/kent/images/banners/16c.jpg sticky=true 
-
-    - [Home](/) 
-
-    - [About](/about) 
+.ve-header label="16th Century Kent" background=gh:kent-map/kent/images/banners/16c.jpg sticky=true 
 
 # &nbsp; {.cards} 
 

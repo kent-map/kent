@@ -1,6 +1,4 @@
-.ve-header "The Built Environment" gh:kent-map/images/built/built sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="The Built Environment" background=gh:kent-map/images/built/built sticky=true
 
 Kent's public institutions, memorials, monuments and historic buildings.
 

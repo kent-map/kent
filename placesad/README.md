@@ -1,6 +1,4 @@
-.ve-header "Places A-D" gh:kent-map/kent/images/banners/19c.jpg sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Places A-D" background=gh:kent-map/kent/images/banners/19c.jpg sticky=true
 
 Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Canterbury, Deal and Dover.
 

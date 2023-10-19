@@ -1,6 +1,4 @@
-.ve-header "Jane Austen" gh:kent-map/kent/images/banners/18c.jpg sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Jane Austen" background=gh:kent-map/kent/images/banners/18c.jpg sticky=true
 
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward.
 

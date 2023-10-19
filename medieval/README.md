@@ -1,6 +1,4 @@
-.ve-header "Medieval Kent" gh:kent-map/images/medieval/Ship sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Medieval Kent" background=gh:kent-map/images/medieval/Ship sticky=true
     
 The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum), The murder of Becket, the Black Death, Wat Tyler's rebellion, Canterbury pilgrims and Canterbury tales.
 

@@ -1,6 +1,4 @@
-.ve-header "Artists and Designers" gh:kent-map/images/artists/artists sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Artists and Designers" background=gh:kent-map/images/artists/artists sticky=true
 
 Architects, designers, painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 

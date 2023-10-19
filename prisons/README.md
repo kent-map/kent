@@ -1,6 +1,4 @@
-.ve-header "Prisons and Discipline" gh:kent-map/images/prisons/prisons sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Prisons and Discipline" background=gh:kent-map/images/prisons/prisons sticky=true
 
 The Bloody Code, Contagious Diseases Acts, Lock Hospitals and Convict prisons.
 
