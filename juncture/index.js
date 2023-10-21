@@ -15,6 +15,18 @@ const isJunctureV1 = Array.from(document.querySelectorAll('param'))
   ) !== undefined
 
 function createJunctureV1App() {
+
+  document.querySelectorAll('param[banner]').forEach(el => {
+    let bannerUrl = el.getAttribute('banner')
+    if (bannerUrl[0] !== '/') {
+      let relPath = bannerUrl.split('/')
+      let path = location.pathname.split('/').slice(1)
+      let numPops = relPath.filter(pe => pe === '..').length
+      bannerUrl = `/${path.slice(0,-numPops).join('/')}/${relPath.slice(numPops).join('/')}`
+      el.setAttribute('banner', bannerUrl)
+    }
+  })
+
   let main = document.querySelector('main')
   let tmp = new DOMParser().parseFromString(main.innerHTML, 'text/html').children[0].children[1]
 
