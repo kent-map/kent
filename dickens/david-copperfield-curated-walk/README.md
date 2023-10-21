@@ -1,7 +1,7 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config
        title="David Copperfield - a curated walk" 
-       banner="../images/david-copperfield-banner.jpg"
+       banner="/dickens/images/david-copperfield-banner.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 

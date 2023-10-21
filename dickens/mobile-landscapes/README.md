@@ -2,7 +2,7 @@
 
 <param ve-config
        title="Mobile Landscapes"
-       banner="../images/Viking_Bay_Broadstairs.jpg"
+       banner="/dickens/images/Viking_Bay_Broadstairs.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 

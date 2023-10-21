@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="In Margate by Lunchtime" author="Maggie Harris" layout="vtl" banner="../images/eliot5.JPG"> 
+<param ve-config title="In Margate by Lunchtime" author="Maggie Harris" layout="vtl" banner="/21c/images/eliot5.JPG"> 
 
 **The Mermaid Tour**   
 from [_In Margate by Lunchtime_](https://maggieharris.co.uk/books/in-margate-by-lunchtime/)   
