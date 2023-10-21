@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
 <param ve-config title="David Baron (1855 – 1926)" author="Daniel Randall" layout="vtl" 
 banner="/images/banners/19c.jpg">

@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="The Bloody Code" author="Martin Watts" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/Westgate_055.jpg">
 
 #

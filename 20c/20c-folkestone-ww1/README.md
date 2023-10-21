@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Folkestone and World War 1" author="Martin Watts" layout="vtl" banner="/images/banners/20c.jpg">
 
 <param ve-map center="Q375314" zoom="10">

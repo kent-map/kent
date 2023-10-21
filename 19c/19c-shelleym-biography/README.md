@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Mary Wollstonecraft Shelley (1797-1851)" author="Simone Blandford" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q967166" aliases="Hythe">

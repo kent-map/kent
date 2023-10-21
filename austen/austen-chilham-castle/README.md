@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
 <param ve-config title="Jane Austen: Chilham Castle" author="Susan Civale" layout="vtl" banner="/images/banners/19c.jpg">
 

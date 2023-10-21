@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Chalk pits, Ash and 'Stig of the Dump'" author="Peter Vujakovic" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kit%27s_Coty%2C_Kent.jpg/1024px-Kit%27s_Coty%2C_Kent.jpg" description="Ash in West Kent inspired the story of 'Stig of the Dump'.>
 
 <param ve-entity eid="Q4804335" aliases="Ash">

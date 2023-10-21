@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="21st Century Rochester " author="Keenan Chalmers" layout="vtl" 
 banner="https://stor.artstor.org/stor/dc323604-dfe3-4121-89de-3a84faccc9f1">
 

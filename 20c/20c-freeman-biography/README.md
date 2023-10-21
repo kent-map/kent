@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title=" R. Austin Freeman (1862-1943)" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/18/College_Road%2C_Maidstone%2C_1866.jpg">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">

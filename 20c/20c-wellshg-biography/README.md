@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Herbert George Wells (H.G Wells) (1866-1946)" author="Simone Blandford" layout="vtl" 
 banner="/images/banners/20c.jpg">
 

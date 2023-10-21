@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
 <param ve-config title="Rupert Bear" author="Miroslava Karaskova" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/2/23/De_avonturen_van_Bruintje_Beer_-_Dertiende_serie_-_Omslag.jpg">
 

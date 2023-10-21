@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Canterbury Prison in the Twentieth Century" author="Dr Maryse Tennant" layout="vtl" 
 banner="https://stor.artstor.org/stor/3fadae4a-6076-4ed2-8b19-620a22b35993">
 

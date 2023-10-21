@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Convalescent Homes" author="Hosanna Krienke" layout="vtl" banner="/images/banners/19c.jpg" description="Hosanna Krienke discusses the introduction and development of 19th century convalescent homes which were especially important for industrial worker recovery.">
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">

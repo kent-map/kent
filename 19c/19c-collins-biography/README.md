@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Wilkie Collins (1824-1889)" author="Dr Alyson Hunt" layout="vtl" 
 banner="/dickens/images/Broadstairs.jpg">
 

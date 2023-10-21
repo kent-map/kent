@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="The Medway Towns" author="Keenan Chalmers" layout="vtl" 
 banner="https://stor.artstor.org/stor/6789bfa9-db1a-4454-8b8b-0e11233bf2de">
 

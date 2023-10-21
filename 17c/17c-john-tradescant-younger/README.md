@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
 <param ve-config title="John Tradescant the Younger (1608 – 1662)" author="Dominique Gracia and Hannah Jennison" layout="vtl" banner="/images/banners/17c.jpg">
 

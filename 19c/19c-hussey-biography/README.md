@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Anna Maria Hussey, née Reed (5 June 1805 – 26 August 1853)" author="Dr Liz Askey" layout="vtl" banner="/images/banners/19c.jpg">
 
 <param ve-entity eid="Q179224" aliases="Dover">

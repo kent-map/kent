@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Florence Warden (Florence Alice James) (1857 – 1929)" author="Michelle Crowther" layout="vtl" 
 banner="/images/banners/19c.jpg">
 

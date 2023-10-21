@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Bessie Marchant (1862-1941)" author="Laura Allen" layout="vtl" banner="/images/banners/19c.jpg" description="Bessie Marchant, children's author was born in Petham.">
 
 <param ve-entity eid="Q2678184" aliases="Petham">

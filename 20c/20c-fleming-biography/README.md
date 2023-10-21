@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Ian Fleming (1908 – 1964)" author="Fred Marsh" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_White_Cliffs_of_Dover_%2848904125611%29.jpg">
 
 <param ve-entity eid="Q24638363" aliases="St Margaret's Bay" | "St Margaret">

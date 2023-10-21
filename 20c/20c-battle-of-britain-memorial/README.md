@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
 <param ve-config title="Battle of Britain Memorial" author="Amy Green" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/2/22/BBMF_spits_and_hurricane.JPG">
 

@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Thomas Stearns Eliot (T.S Eliot) (1888-1965)" author="Simone Blandford" layout="vtl" 
 banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301">
 

@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Arden of Faversham (Author unknown)" author="Marnie Stanley" layout="vtl" banner="/images/banners/16c.jpg"> 
 
 <param ve-entity eid="Q1000115" aliases="Faversham"> 

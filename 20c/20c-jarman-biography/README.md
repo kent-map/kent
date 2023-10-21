@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Derek Jarman (1942-1994)" author="Jeremy Page" layout="vtl" 
 banner="images/Jarman2.jpg">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">

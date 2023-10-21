@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Israel Zangwill (21 January 1864 - 1 August 1926)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg" Description="In this visual essay, Carolyn Oulton follows 19th century Jewish author Israel Zangwill’s visits to the Kent coast as captured in several of his books.">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
