@@ -16,4 +16,4 @@ github:
 url: https://beta.kent-maps.online/
 baseurl: /
 
-components: https://juncture-digital.github.io/web-components/js/index.js
+components: /juncture/dist/js/index.js

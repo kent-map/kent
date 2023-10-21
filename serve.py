@@ -45,12 +45,14 @@ media_types = {
 config = yaml.load(open(f'{BASEDIR}/_config.yml', 'r'), Loader=yaml.FullLoader) if os.path.exists(f'{BASEDIR}/_config.yml') else {}
 logger.debug(json.dumps(config, indent=2))
 
+mode = config.get('mode', 'default')
 title = config.get('title', 'Juncture')
 description = config.get('description', '')
 url = config.get('url', '')
 gh_owner = config.get('github', {}).get('owner', '')
 gh_repo = config.get('github', {}).get('repo', '')
 gh_branch = config.get('github', {}).get('branch', '')
+components = config.get('components', '').replace('/juncture/dist/js/index.js', 'http://localhost:5173/src/main.ts') if LOCAL_WC else config.get('components', '')
 
 jsonld_seo = {
   '@context': 'https://schema.org',
@@ -82,20 +84,18 @@ header = open(f'{BASEDIR}/_includes/header.html', 'r').read()
 footer = open(f'{BASEDIR}/_includes/footer.html', 'r').read()
 favicon = open(f'{BASEDIR}/favicon.ico', 'rb').read() if os.path.exists(f'{BASEDIR}/favicon.ico') else None
 
-if LOCAL_WC:
-  config['components'] = config['components'].replace('https://juncture-digital.github.io/web-components/js/index.js', 'http://localhost:5173/src/main.ts')
-
 html_template = open(f'{BASEDIR}/_layouts/default.html', 'r').read()
 html_template = re.sub(r'^\s*{%- include header.html -%}', header, html_template, flags=re.MULTILINE)
 html_template = re.sub(r'^\s*{%- include footer.html -%}', footer, html_template, flags=re.MULTILINE)
 
 # html_template = html_template.replace('https://rsnyder.github.io/ezpage-wc/js/index.js', 'http://localhost:5173/src/main.ts')
 html_template = html_template.replace('{%- seo -%}', seo)
-html_template = html_template.replace('{{ site.github.owner }}', config['github']['owner'])
-html_template = html_template.replace('{{ site.github.repo }}', config['github']['repo'])
-html_template = html_template.replace('{{ site.github.branch }}', config['github']['branch'])
+html_template = html_template.replace('{{ site.mode }}', mode)
+html_template = html_template.replace('{{ site.github.owner }}', gh_owner)
+html_template = html_template.replace('{{ site.github.repo }}', gh_repo)
+html_template = html_template.replace('{{ site.github.branch }}', gh_branch)
 html_template = html_template.replace('{{ site.baseurl }}', '')
-html_template = html_template.replace('{{ site.components }}', config['components'])
+html_template = html_template.replace('{{ site.components }}', components)
   
 def html_from_markdown(md, baseurl):
   html = html_template.replace('{{ content }}', markdown.markdown(md, extensions=['extra', 'toc']))

@@ -11,6 +11,7 @@
 
     <script>
       window.config = {
+        mode: '{{ site.mode }}',
         owner: '{{ site.github.owner }}',
         repo: '{{ site.github.repo }}',
         branch: '{{ site.github.branch }}', 
@@ -21,7 +22,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
-    <script src="{{ site.baseurl }}/index.js"></script>
+    <script src="{{ site.baseurl }}/index.js" type="module"></script>
 
   </head>
   <body>
