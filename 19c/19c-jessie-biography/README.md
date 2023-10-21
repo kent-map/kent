@@ -11,7 +11,7 @@
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent 1820">
 <!-- <param mapwarper mapwarper-id="44832" title="Kent 1820" ve-map-layer/> -->
-<param ve-map-layer active allmaps allmaps-id="43dfb17f8135937e" title="Kent 1820" />
+<param ve-map-layer active allmaps allmaps-id="43dfb17f8135937e" title="Kent 1820">
 
 #
 

@@ -11,7 +11,7 @@
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="44832" title="John Speed Map, 1611">
 <!-- <param mapwarper mapwarper-id="44832" title="John Speed Map, 1611" ve-map-layer/> -->
-<param ve-map-layer active allmaps allmaps-id="de6ff48c237af0be" title="John Speed Map, 1611" />
+<param ve-map-layer active allmaps allmaps-id="de6ff48c237af0be" title="John Speed Map, 1611">
 
 #
 

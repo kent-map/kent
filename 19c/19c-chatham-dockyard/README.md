@@ -7,7 +7,7 @@ banner="/images/banners/19c.jpg">
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Ordnance Survey 1822">
 <!-- <param mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860" ve-map-layer/> -->
-<param ve-map-layer active allmaps allmaps-id="a674cc941b6c08cf" title="Kent Ordnance Survey 1822" />
+<param ve-map-layer active allmaps allmaps-id="a674cc941b6c08cf" title="Kent Ordnance Survey 1822">
 
 
 #
