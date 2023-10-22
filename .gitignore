@@ -7,3 +7,4 @@ CNAME
 creds
 creds.yaml
 *.pyc
+gcreds.json
