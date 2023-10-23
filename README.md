@@ -364,6 +364,7 @@ Delmonden is a village in Kent that doesn’t actually exist except in Shepherds
 The enchanting story of the adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
 
 .ve-footer
-    - A collaboration between: ![CCCU](https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/CCCU-logo-2colour.svg) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/kent/main/images/labs.jpg)](https://labs.jstor.org)
+    - A collaboration between: [![CCCU](https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/CCCU-logo-2colour.svg)](https://www.canterbury.ac.uk/) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/kent/main/images/labs.jpg)](https://labs.jstor.org)
     - [![](https://raw.githubusercontent.com/kent-map/kent/main/images/twitter.png)](https://twitter.com/KentMaps1) {.push}
-    - [![DoE participants' showcase](https://raw.githubusercontent.com/kent-map/kent/main/images/dofe-logo.png)](https://dofe.kent-maps.online)    - ![](https://raw.githubusercontent.com/kent-map/kent/main/images/Centre_for_Kent_History_and_Heritage_logo_1.jpg)
+    - [![DoE participants' showcase](https://raw.githubusercontent.com/kent-map/kent/main/images/dofe-logo.png)](https://dofe.kent-maps.online)    
+    - [![](https://raw.githubusercontent.com/kent-map/kent/main/images/Centre_for_Kent_History_and_Heritage_logo_1.jpg)](https://www.canterbury.ac.uk/arts-and-humanities/research-kent-history-and-archaeology/centre-for-research-in-kent-history-and-archaeology.aspx)
