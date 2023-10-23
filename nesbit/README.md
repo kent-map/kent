@@ -2,7 +2,7 @@
 
 Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent.
 
-#
+# &nbsp;
 <param class="cards">
 
 ## Edith Nesbit

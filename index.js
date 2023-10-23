@@ -26,6 +26,7 @@ async function getConfigExtras() {
 function structureContent() {
 
   const makeSegments = (el) => {
+    console.log(makeSegments, el)
     Array.from(el.children)
       .filter(child => !/^H\d/.test(child.tagName))
       .filter(child => !/PARAM/.test(child.tagName))
