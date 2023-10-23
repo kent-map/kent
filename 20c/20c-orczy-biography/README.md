@@ -49,10 +49,10 @@ The acronym was it must be supposed intentional and the league quickly attracted
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e4/7_Collection_Eybl_Great_Britain_-_E._Kealey_-_Women_of_Britain_say_%E2%80%93_GO.jpg" label="Women of Britain say 'Go!', 1915" attribution="Eybl, Plakatmuseum Wien/Wikimedia Commons">
 
 However, after some 'White feather foolery' which she said was 'absolutely contrary to the spirit and the letter of the league'. She wrote: 'My attention has been called to the fact; that some exceedingly foolish young people have wasted their time and tried the tempers of sensible persons by sending white feathers to certain young men in the neighbourhood who they consider ought to have enlisted before this.'[^ref13] She pointed out that she in no way endorsed this 'amateur press-gang'. 
-<param ve-image url="images/feather-1228678_1920.jpg" label="White Feather"  atribution="Image by Myriams-Fotos from Pixabay">
+<param ve-image url="/20c/images/feather-1228678_1920.jpg" label="White Feather"  atribution="Image by Myriams-Fotos from Pixabay">
 
 The arrival of the [Belgian Refugees](/20c-belgian-refugees/) in October 1914 disturbed the tranquillity of the village; and although Emma helped out she wrote: ''what intruded most persistently on my consciousness was the ever-flowing stream of Belgian refugees which threatened to submerge our small towns and villages in this part of Kent. Hospitals could not, of course, cope with it; the stream overflowed into every house, every cottage, every stable and barn from Chatham to Rochester, to Maidstone, to Ashford.' [^ref14] 
-<param ve-image url="images/arrivalofbelgiansFMuseum.jpg" label="Belgian Refugees" attribution="Folkestone Museum">
+<param ve-image url="/20c/images/arrivalofbelgiansFMuseum.jpg" label="Belgian Refugees" attribution="Folkestone Museum">
 
 In November 1914, the Baroness was invited to distribute prizes at Maidstone Girls Grammar School. The girls, all dressed in virginal white, were encouraged to do their best in life: 'whatever calling they cut out for themselves in life – whether industrial, professional, business, nursing, or scrubbing floors – they should set their minds to do it efficiently.' [^ref15] Considering the number of women who remained unmarried after the first world war, Orczy’s words were prescient.
 <br><br>

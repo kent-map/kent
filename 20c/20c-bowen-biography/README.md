@@ -19,7 +19,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
                                               
 ‘Possibly it was England made me a novelist’    
 Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area as a child of seven she was immediately bewitched. The contrast between Ireland and her new home in terms of both architecture and topography could not have been greater. 
-<param ve-image url="images/The_Kent_coast_(IA_kentcoast00lewirich).jpg" label="Lewis, Arthur D, The Kent Coast" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
+<param ve-image url="/20c/images/The_Kent_coast_(IA_kentcoast00lewirich).jpg" label="Lewis, Arthur D, The Kent Coast" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
 <param ve-map center="Q375314" zoom="15">
 
 After the comparative sobriety of the buildings in Dublin and at Bowen’s Court in County Cork the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography:   
@@ -52,7 +52,7 @@ For six years, between 1906 and 1912, she and her mother lived in rented houses 
 <param ve-map center="Q3038318" zoom="20">
 
 Bowen emphasised the importance of East Kent to her in _Pictures and Conversations_, which devotes much of its first chapter, ‘Origins’, to Bowen’s reactions on her arrival in Kent, glancing only briefly at her Anglo-Irish antecedents. She would draw on the roots which she put down in those six Folkestone years for the settings for episodes in five of her ten novels. _The House in Paris_ (1935) and _The Death of the Heart_ (1938) have episodes in Hythe; _The Little Girls_ (1964) in Folkestone and Dymchurch; _Eva Trout_ (1969) in Broadstairs; while her war novel _The Heat of Day_ (1949) has an envoi set in Hythe. 
-<param ve-image url="images/Bleak House Broadstairs MJC.jpg" label="Bleak House, Broadstairs" attribution="Photographed by Martin Crowther">
+<param ve-image url="/20c/images/Bleak House Broadstairs MJC.jpg" label="Bleak House, Broadstairs" attribution="Photographed by Martin Crowther">
 <param ve-map center="Q922739" zoom="10">
  
 Towards the end of the Second World War Bowen visited East Kent on several occasions and wrote articles after these visits. The first was to Hythe in February 1944, and her pride for the town’s history and for the way it had suffered, yet survived, the war is evident.[^ref9]  Four months later she visited Dover, writing for the Ministry of Information about D-Day preparations in the harbour. Since these preparations were phoney – she describes the mock invasion barges as having ‘a strange light air, almost of unreality’ – the article was obviously intended as a piece of diversionary propaganda.[^ref10]  A visit to Folkestone a year later reviewed in great detail the effects of the war on the town which had at one time been hailed as the ‘Queen of the South Coast’. She ends by warning Folkestone to _‘get going’_. ‘War damage cannot account for everything; for years before this war she had been feeling the draught’.[^ref11]  Bowen would surely have welcomed the work of the de Haan family since the 1950s in changing the fortunes of the town.

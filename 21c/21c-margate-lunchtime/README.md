@@ -31,7 +31,7 @@ He caught her eyes again in the mirror. She was smiling. Pulling his leg. Got a 
 
 Available at: [CulturedLlama](http://www.culturedllama.co.uk/books/in-margate-by-lunchtime)    
 ©Maggie Harris.
-<param ve-image url="images/thumbnail_margate.jpg" label="Mark Holihan"> 
+<param ve-image url="/21c/images/thumbnail_margate.jpg" label="Mark Holihan"> 
 
 
 

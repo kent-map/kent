@@ -13,7 +13,7 @@ In this opinion also, both Mr Winkle and Mr Snodgrass expressed their concurrenc
 “Show the gentlemen into the parlour, Tom,” said the landlady.   
 <Br>
 A stout country lad opened a door at the end of the passage, and the three friends entered a long, low-roofed room, furnished with a large number of high-backed leather-cushioned chairs, of fantastic shapes, and embellished with a great variety of old portraits and roughly-coloured prints of some antiquity. At the upper end of the room was a table, with a white cloth upon it, well covered with a roast fowl, bacon, ale, and et ceteras; and at the table sat Mr. Tupman, looking as unlike a man who had taken his leave of the world, as possible.’ _The Pickwick Papers_.   
-<param ve-image url="images/leather-bottle.jpg" label="Leather Bottle" attribution="Scan by Philip V. Allingham, www.victorianweb.org">  
+<param ve-image url="/dickens/images/leather-bottle.jpg" label="Leather Bottle" attribution="Scan by Philip V. Allingham, www.victorianweb.org">  
 <param ve-entity eid="Q949561" title="Cobham">
 <param ve-map center="Q949561" title="Cobham" zoom="11" prefer-geojson>
 

@@ -73,10 +73,10 @@ We parked the car half a mile out of town to avoid the Pay and Display, trusted 
 <param ve-image primary url="https://stor.artstor.org/stor/e8ea25b0-76d8-4eac-93e6-d1c2838da651" title="Dickens Museum" attribution="©Martin Crowther">
 
 All three buildings are within sight of each other at [Broadstairs](/dickens/dickens-broadstairs), and of the sea where Dickens swam like ‘a kind of salmon-coloured porpoise’ in the late summer of 1843. We began – almost – with the museum. But there was something we had to do first. By all means try this at home, your child’s teacher will love you for it, for a start. But two adults standing in a gateway, one declaring to the other that he has ‘been slighted, and taught nothing, and thrown upon myself, and put to work not fit for me’ is not quite what that teacher means by ‘reading together’.  Little wonder that Aunt Betsey stared in desperate silence as she was told that ‘I was robbed at first setting out, and have walked all the way, and have never slept in a bed since I began the journey.'[^ref1](Actually David, you came in a Citroen Picasso and you’ve graciously offered to take your aunt to lunch). But if she then ‘got up in a great hurry, collared me, and took me into the parlour’, getting further into character with a series of energetic pokes in the ribs, at least she wasn’t shouting ‘DONKEYS!’ and upsetting the neighbours.
-<param ve-image primary url="images/HassamHIGHRES.jpg" title="Bleak House, Broadstairs, 1889" attribution="Childe Hassam (American, 1859-1935). Watercolor on paper, 13 1/2 x 9 3/4 in. Canton Museum of Art Collection, Canton, Ohio, USA, 2017.83">
+<param ve-image primary url="/dickens/images/HassamHIGHRES.jpg" title="Bleak House, Broadstairs, 1889" attribution="Childe Hassam (American, 1859-1935). Watercolor on paper, 13 1/2 x 9 3/4 in. Canton Museum of Art Collection, Canton, Ohio, USA, 2017.83">
 
 The museum parlour is a complete reconstruction of the room where David is randomly dosed with a series of bottles from a corner cupboard - we have never been quite sure that we too did not taste ‘aniseed water, anchovy sauce, and salad dressing’. More disturbingly David is later made to confront the Murdstones in this small space, in which there is barely room for the three of them as well as his aunt and Mr Dick.
-<param ve-image primary url="images/Dickens_House_PH.png" title="Aunt Betsey's parlour" attribution="©Carolyn Oulton">
+<param ve-image primary url="/dickens/images/Dickens_House_PH.png" title="Aunt Betsey's parlour" attribution="©Carolyn Oulton">
 
 It is a far cry from the grandeur of [Fort House](/dickens/dickens-fort-house), where Dickens wrote part of the novel and where he had [Wilkie Collins](/19c/19c-collins-biography) and other friends to stay. When we went a chirpy billboard suggested that visitors should come in and see Dickens’s study and then recover from the emotion with a cream tea. 
 <param ve-image url="https://stor.artstor.org/stor/a44f44d7-8226-47fe-9762-90595ead4cf4" title="Cream tea" attribution="©Carolyn Oulton">
@@ -135,7 +135,7 @@ And then the moment that somehow changed everything. Reading the first scene of 
 <param ve-map center="Q2649453" zoom="10">
 
 This is the river down which Pip will row so desperately in his abortive attempt to smuggle Magwitch out of the country from [Gravesend](/19c/19c-gravesend). We nearly ended up in it when the sat nav helpfully directed us to the [Ship and Lobster](/dickens/great-expectations-ship-and-lobster) via a small yard hemmed in by industrial buildings, and over a jetty. Convinced we had taken a wrong turning we reversed cautiously back out and down the back road by which we’d just arrived. For one moment it seemed that lunch was going to be a burger from a layby kiosk. But before we gave in it was worth approaching those men in luminous yellow – you did just address them as ‘mate’, didn’t you? – and asking if the pub was nearby. Some gesticulating, much nodding, a word that sounded like ‘mate’ repeated several times; by this point the driver feared she might be eating alone. (It’s an experience in itself observing a male bonding ritual and marvelling at how much mileage can seemingly be got out of this one word). And then we were moving slowly back in the direction of the yard.
-<param ve-image url="images/Ship and Lobster.JPG" title="Ship and Lobster ©Ken Moffat">
+<param ve-image url="/dickens/images/Ship and Lobster.JPG" title="Ship and Lobster ©Ken Moffat">
 <param ve-map center="Q676689" zoom="10">
 
 Pies. We’d been opting for them consistently since [Broadstairs](/dickens/broadstairs). ‘I’m sorry to say I’ve eat your’ - by now it would have felt like treachery to order anything else. This one came with chips or alternatively, was it salad? The juke box was new since Magwitch’s day, the paint job possibly not. But the landlady herself had so clearly stepped out of (whichever Dickens novel you like) and our need of wittles was by this point so intense, that we were by no means inclined to be critical.
@@ -213,7 +213,7 @@ _Maybe there really is a secret tunnel in your bedroom cupboard._
 _If you work hard perhaps you will even live at [Gad’s Hill](/dickens/dickens-gads-hill) one day._  
 <br>
 If you really feel that your child is destined to become one of the country’s greatest writers, you might want to try the third of these. It worked for John Dickens, as his son Charles was the first to acknowledge. Anyone currently studying English GCSE at [Gad’s Hill](/dickens/dickens-gads-hill) School, you may also be interested to learn that Dickens left formal education by the age of 15. He’s probably on your syllabus now. Funny how life works out.
-<param ve-image url="images/Gadshill In Dickens Land.JPG" title="Gad's Hill In Dickens Land">
+<param ve-image url="/dickens/images/Gadshill In Dickens Land.JPG" title="Gad's Hill In Dickens Land">
  
 It was October half term when we found ourselves gazing over the very lawn where Dickens was photographed reading to his daughters Mamie and Katey in the last few years of his life. And if he could do it…
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters" fit="cover">
@@ -228,13 +228,13 @@ _No you couldn’t._
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 <br><br>
 Oh come on, you didn't think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like David Copperfield before us, made our way back towards the [Dover Road](/dickens/david-copperfield-dover-road).
-<param ve-image url="images/Gads1864067463.jpg" title="Gads1866" attribution="©The British Library Board Maps 67463">
+<param ve-image url="/dickens/images/Gads1864067463.jpg" title="Gads1866" attribution="©The British Library Board Maps 67463">
 
 **Conclusion: in which we justify all this gadding about by insisting that it was serious work**    
 So – as any teacher worth their salt would want to be assured – what did we actually learn from this experience? Well for one thing, that neither of us has missed our vocation in the car industry. 
 <br><br>
 But we also started to understand that the Victorians read aloud to each other – much as we read to children today  –  for one very good reason. Shared reading promotes familial, friendship and even romantic bonds because it is extraordinarily intimate (no there isn’t a ‘Knew it!’ twist coming up, this isn’t Strictly Come Dancing). When one adult reads to another they are helping to recover a meaningful tradition with  - so the latest research suggests - demonstrable benefits to wellbeing.[^ref3]
-<param ve-image url="images/CDMamieKatie.jpg">
+<param ve-image url="/dickens/images/CDMamieKatie.jpg">
 
 To add to that, looking for the ‘original’ place known only from a novel – an activity that was until recently much derided by academics – can throw up exciting questions about the fictional world, even the nature of creativity itself. Sometimes the topography doesn’t match up but the symbolism does, as when Pip makes his stark choice between decency and status (village or town). Or the reading experience is intensified by seeing what a character sees – just try being alone with someone on an isolated marsh while they growl something about ripping out your liver. Really, there’s nothing quite like it.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/%28ch.17%29_Then_she_softly_patted_my_shoulder.jpeg" label="Then she softly patted my shoulder" attribution="Francis Arthur Fraser, Public domain, via Wikimedia Commons">

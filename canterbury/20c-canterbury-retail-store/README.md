@@ -27,7 +27,7 @@ A secondary retail area, mixed with banks, restaurants, pubs, museums and charit
 
 The Canterbury Guildhall had stood on its site at the junction of Palace Street with the High Street for 750 years. Parts were in poor condition and the costs of rebuilding in 1950 were put at £18,000. The City Council decided on demolition. If as John Boyle, the Canterbury Town Clerk, wrote ‘no one can build an old building’, conservationists were determined to show that wonderful old buildings do not stand in the way of progress, but enhance it. In the late-20th century the consensus developed that in a historic city the protection of heritage was attractive to residents, students and visitors and a huge gain for Canterbury’s traders. By the year 2000 the pedestrianised High Street area was buzzing as never before.
 <param ve-image url="https://stor.artstor.org/stor/4492394e-fa2c-454b-99a9-0520c088b76d" label="Canterbury High Street" attribution="Calum Elliot and Emma Molford, by kind permission">
-<param ve-image url="images/Canterbury High Street.jpg" label="Canterbury High Street" attribution="Martin Crowther, by kind permission">
+<param ve-image url="/canterbury/images/Canterbury High Street.jpg" label="Canterbury High Street" attribution="Martin Crowther, by kind permission">
 <param ve-map center="Q17641331" zoom="15">
 
 [Commerce](/canterbury/20c-canterbury-commerce) has been combined with conservation. Conquest House, in Palace Street, a building of outstanding interest with an 11th-century stone cellar, reputedly where the four knights armed themselves before seeking out [Thomas Becket](https://en.wikipedia.org/wiki/Thomas_Becket), and a splendid, timber-framed 13th-century gallery, has been an antiques and upholstery shop.
@@ -38,8 +38,8 @@ Zizzi’s Restaurant or Cogan House, in St Peter’s Street near the Westgate To
 <param ve-map center="51.28045496592545, 1.0776459381588603" zoom="15">
 
 Does internet shopping and the closures accelerated by coronavirus signal the end of retailing? In Canterbury first Nason’s and then the High Street’s biggest store, Debenham’s, have become redundant, though plans to revive the sites remain on the table. The list of casualties in 2020/21 for Canterbury includes Burton and Dorothy Perkins, Topshop, Café Rouge, TSB bank and Poundland. Other units in Whitefriars and the Marlowe Arcade stand empty. Historians of the future may see the late 20th century as the final flourish of shopping mania.
-<param ve-image url="images/Delapidated Nasons.jpg" label="Nason's" attribution="Martin Crowther, by kind permission">
-<param ve-image url="images/Abandoned Burtons.jpg" label="Burtons" attribution="Martin Crowther, by kind permission">
+<param ve-image url="/canterbury/images/Delapidated Nasons.jpg" label="Nason's" attribution="Martin Crowther, by kind permission">
+<param ve-image url="/canterbury/images/Abandoned Burtons.jpg" label="Burtons" attribution="Martin Crowther, by kind permission">
 
 ***
 
