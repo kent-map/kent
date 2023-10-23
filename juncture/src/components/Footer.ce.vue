@@ -1,6 +1,6 @@
 <template>
 
-  <div ref="root" class="flex items-center w-full h-8 justify-between">
+  <div ref="root" class="flex bg-slate-100 p-6 gap-8 mt-8 items-center w-full h-8 justify-between">
     
     <template v-for="li, idx in footerElems" :key="`li-${idx}`">
 
@@ -14,7 +14,7 @@
       -->
 
       <div
-        class="flex items-center gap-4 whitespace-nowrap" 
+        :class="`flex items-center gap-4 whitespace-nowrap ${li.className}`" 
         :style="styleToObj(li.getAttribute('style') || '')" 
         v-html="li.innerHTML"
         @click="onClick(li, $event)"

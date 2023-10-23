@@ -153,6 +153,16 @@ function convertWcTagsToElements(root) {
       let tag = p.textContent.trim().split(' ')[0].slice(1).trim()
       let html = componentHtml(p, tag)
       let el = new DOMParser().parseFromString(html, 'text/html').children[0].children[1].children[0]
+      let cls = new RegExp('{(\.|class=)(?<class>.+)}')
+      Array.from(el.querySelectorAll('li')).forEach(li => {
+        let text = li.textContent.trim()
+        let match = text.match(cls)
+        let classes = text.match(cls)?.groups?.class.split(',') || []
+        if (classes.length > 0) {
+          li.classList.add(...classes)
+          li.innerHTML = li.innerHTML.replace(match[0], '')
+        }
+      })
       p.parentNode?.replaceChild(el, p)
     })
 }
