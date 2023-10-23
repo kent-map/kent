@@ -24,6 +24,19 @@ async function getConfigExtras() {
 }
 
 function structureContent() {
+
+  const makeSegments = (el) => {
+    Array.from(el.children)
+      .filter(child => !/^H\d/.test(child.tagName))
+      .filter(child => !/PARAM/.test(child.tagName))
+      .forEach((child, idx) => { 
+        let segId = `${currentSection.getAttribute('data-id') || 1}.${idx+1}`
+        child.setAttribute('data-id', segId)
+        if (!child.id) child.id = segId
+        child.className = 'segment'
+      })
+  }
+
   let main = document.querySelector('main')
   let restructured = document.createElement('main')
   let footer
@@ -40,24 +53,14 @@ function structureContent() {
     }
   })
 
-  let currentSection = restructured;
+  let currentSection = restructured
   let sectionParam
   for (let i = 0; i < children.length; i++) {
     let el = children[i]
     if (el.tagName[0] === 'H' && isNumeric(el.tagName.slice(1))) {
       let heading = el
       let sectionLevel = parseInt(heading.tagName.slice(1))
-      if (currentSection) {
-        (Array.from(currentSection.children))
-          .filter(child => !/^H\d/.test(child.tagName))
-          .filter(child => !/PARAM/.test(child.tagName))
-          .forEach((child, idx) => { 
-            let segId = `${currentSection.getAttribute('data-id') || 1}.${idx+1}`
-            child.setAttribute('data-id', segId)
-            if (!child.id) child.id = segId
-            child.className = 'segment'
-          })
-      }
+      makeSegments(currentSection)
 
       currentSection = document.createElement('section')
       currentSection.classList.add(`section-${sectionLevel}`)
@@ -87,23 +90,24 @@ function structureContent() {
       else if (el !== sectionParam) currentSection.innerHTML += el.outerHTML
     }
   }
+  makeSegments(currentSection)
 
   restructured.querySelectorAll('section').forEach((section) => {
-  if (section.classList.contains('cards') && !section.classList.contains('wrapper')) {
-    section.classList.remove('cards')
-    let wrapper = document.createElement('section')
-    wrapper.className = 'cards wrapper'
-    Array.from(section.children).slice(1).forEach(card => {
-      wrapper.appendChild(card)
-      card.classList.add('card')
-      let heading = card.querySelector('h1, h2, h3, h4, h5, h6')
-      if (heading) heading.remove()
-      let img = card.querySelector('p > img')
-      if (img) img.parentElement?.replaceWith(img)
-      let link = card.querySelector('p > a')
-      if (link) link.parentElement?.replaceWith(link)
-    })
-    section.appendChild(wrapper)
+    if (section.classList.contains('cards') && !section.classList.contains('wrapper')) {
+      section.classList.remove('cards')
+      let wrapper = document.createElement('section')
+      wrapper.className = 'cards wrapper'
+      Array.from(section.children).slice(1).forEach(card => {
+        wrapper.appendChild(card)
+        card.classList.add('card')
+        let heading = card.querySelector('h1, h2, h3, h4, h5, h6')
+        if (heading) heading.remove()
+        let img = card.querySelector('p > img')
+        if (img) img.parentElement?.replaceWith(img)
+        let link = card.querySelector('p > a')
+        if (link) link.parentElement?.replaceWith(link)
+      })
+      section.appendChild(wrapper)
     }
   })
 

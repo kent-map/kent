@@ -117,12 +117,12 @@ def html_from_markdown(md, baseurl):
       img['src'] = f'{baseurl}{src}'
   for param in soup.find_all('param'):
     param.parent.insert_after(param)
+  for heading in soup.find_all('h1'):
+    if heading.renderContents().decode('utf-8').strip() == '':
+      pass # heading.decompose()
   for para in soup.find_all('p'):
     if para.renderContents().decode('utf-8').strip() == '':
       para.decompose()
-  for heading in soup.find_all('h1'):
-    if heading.renderContents().decode('utf-8').strip() == '':
-      heading.decompose()
   return soup.prettify()
   
 @app.get('/{path:path}')
