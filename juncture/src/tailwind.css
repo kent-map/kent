@@ -628,8 +628,16 @@ video {
   right: 0px;
 }
 
+.right-\[10px\] {
+  right: 10px;
+}
+
 .top-0 {
   top: 0px;
+}
+
+.top-\[12px\] {
+  top: 12px;
 }
 
 .z-10 {
@@ -810,6 +818,10 @@ video {
 
 .cursor-copy {
   cursor: copy;
+}
+
+.cursor-pointer {
+  cursor: pointer;
 }
 
 .resize {
