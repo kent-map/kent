@@ -26,7 +26,6 @@ async function getConfigExtras() {
 function structureContent() {
 
   const makeSegments = (el) => {
-    console.log(makeSegments, el)
     Array.from(el.children)
       .filter(child => !/^H\d/.test(child.tagName))
       .filter(child => !/PARAM/.test(child.tagName))
@@ -79,7 +78,7 @@ function structureContent() {
       }
 
       currentSection.innerHTML += heading.outerHTML
-      if (!heading.innerHTML.trim()) currentSection.firstChild?.remove()
+      // if (!heading.innerHTML.trim()) currentSection.firstChild?.remove()
 
       let headings = [...restructured.querySelectorAll(`H${sectionLevel-1}`)]
       let parent = sectionLevel === 1 || headings.length === 0 ? restructured : headings.pop()?.parentElement
