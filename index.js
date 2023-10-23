@@ -26,6 +26,7 @@ async function getConfigExtras() {
 function structureContent() {
   let main = document.querySelector('main')
   let restructured = document.createElement('main')
+  let footer
 
   let children = []
   Array.from(main?.children || []).forEach((el, idx) => {
@@ -82,7 +83,8 @@ function structureContent() {
       currentSection.setAttribute('data-id', computeDataId(currentSection))
 
     } else {
-      if (el !== sectionParam) currentSection.innerHTML += el.outerHTML
+      if (el.tagName === 'VE-FOOTER') footer = el
+      else if (el !== sectionParam) currentSection.innerHTML += el.outerHTML
     }
   }
 
@@ -104,6 +106,8 @@ function structureContent() {
     section.appendChild(wrapper)
     }
   })
+
+  if (footer) restructured.appendChild(footer)
 
   main?.replaceWith(restructured)
 }

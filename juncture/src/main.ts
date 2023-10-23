@@ -2,6 +2,7 @@ import { defineCustomElement } from 'vue'
 import ('preline')
 
 import EntityInfobox from './components/EntityInfobox.ce.vue'
+import Footer from './components/Footer.ce.vue'
 import Header from './components/Header.ce.vue'
 import Hero from './components/Hero.ce.vue'
 // import Image from './components/Image.ce.vue'
@@ -14,6 +15,7 @@ import SiteSearch from './components/SiteSearch.ce.vue'
 
 function defineCustomElements() {
 	customElements.define('ve-entity-infobox', defineCustomElement(EntityInfobox))
+	customElements.define('ve-footer', defineCustomElement(Footer))
 	customElements.define('ve-header', defineCustomElement(Header))
 	customElements.define('ve-hero', defineCustomElement(Hero))
 	// customElements.define('ve-image', defineCustomElement(Image))

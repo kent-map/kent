@@ -1,8 +1,9 @@
 <template>
+    
   <div id="app" v-cloak ref="app" :class="layouts.join(' ')">
     
     <div id="header" ref="header">            
-      <ve-header 
+      <ve1-header 
         :active="true" :scroll-top="scrollTop"
         :site-config="siteConfig"
         :essay-config="essayConfig"
@@ -18,7 +19,7 @@
         @do-action="doAction"
         @authenticate="authenticate"
         @logout="logout"
-      ></ve-header>
+      ></ve1-header>
     </div>
 
     <div id="tabs-bar" ref="tabsBar">
@@ -78,7 +79,7 @@
     </div>
 
     <div v-if="essayConfig && path === '/'" id="footer" ref="footer">            
-      <ve-footer :site-config="siteConfig" :content-source="contentSource"></ve-footer>
+      <ve1-footer :site-config="siteConfig" :content-source="contentSource"></ve1-footer>
     </div>
 
     <div ref="markdownViewer" id="markdown-viewer" style="display: none;">
@@ -129,8 +130,8 @@ const qargs = {}
 module.exports = {
   components: {
     've1-compare': window.httpVueLoader(`${componentsPath}/Compare.sfc.vue`),
-    've-footer': window.httpVueLoader(`${componentsPath}/Footer.sfc.vue`),
-    've-header': window.httpVueLoader(`${componentsPath}/Header.sfc.vue`),
+    've1-footer': window.httpVueLoader(`${componentsPath}/Footer.sfc.vue`),
+    've1-header': window.httpVueLoader(`${componentsPath}/Header.sfc.vue`),
     've1-iframe': window.httpVueLoader(`${componentsPath}/IFrame.sfc.vue`),
     've1-image': window.httpVueLoader(`${componentsPath}/Image.sfc.vue`),
     've1-map': window.httpVueLoader(`${componentsPath}/Map.sfc.vue`),
@@ -920,7 +921,7 @@ function parseUrl(href) {
   
   .visual-essay #essay {
     grid-area: 1 / 1 / 3 / 2;
-    z-index: 1;
+    /* z-index: 1; */
     overflow-y: scroll;
     background-color: #f8f8f8;
     font-size: 1.3rem;

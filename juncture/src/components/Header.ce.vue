@@ -32,7 +32,6 @@
 
     </ve-navbar>
 
-
 </template>
   
 <script setup lang="ts">
