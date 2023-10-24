@@ -23,6 +23,57 @@ async function getConfigExtras() {
   return window.config
 }
 
+function setMeta() {
+  let meta
+  let header
+  Array.from(document.getElementsByTagName('*')).forEach(el => {
+    if (!/^\w+-\w+/.test(el.tagName)) return
+    if (el.tagName.split('-')[1] === 'META') meta = el
+    else if (el.tagName.split('-')[1] === 'HEADER') header = el
+  })
+  if (!meta) meta = document.querySelector('param[ve-config]')
+
+  let firstHeading = document.querySelector('h1, h2, h3')?.innerText.trim()
+  let firstParagraph = document.querySelector('p')?.innerText.trim()
+  
+  let jldEl = document.querySelector('script[type="application/ld+json"]')
+  let seo = jldEl ? JSON.parse(jldEl.innerText) : {'@context':'https://schema.org', '@type':'WebSite', description:'', headline:'', name:'', url:''}
+  seo.url = location.href
+
+  let title = meta?.getAttribute('title')
+    ? meta.getAttribute('title')
+    : header?.getAttribute('title')
+      ? header.getAttribute('title')
+      : firstHeading || ''
+
+  let description =  meta?.getAttribute('description')
+    ? meta.getAttribute('description')
+    : firstParagraph || ''
+
+  let robots =  meta?.getAttribute('robots') || (location.hostname.indexOf('www') === 0 ? '' : 'noindex, nofollow')
+
+  if (title) {
+    document.title = title
+    seo.name = title
+    seo.headline = title
+  }
+  if (description) {
+    document.querySelector('meta[name="description"]')?.setAttribute('content', description)
+    seo.description = description
+  }
+  if (robots) {
+    let robotsMeta = document.createElement('meta')
+    robotsMeta.setAttribute('name', 'robots')
+    robotsMeta.setAttribute('content', robots)
+    document.head.appendChild(robotsMeta)
+  }
+
+  if (meta && meta.getAttribute('ve-config') === null) meta.remove()
+  jldEl.innerText = JSON.stringify(seo)
+
+  console.log('setMeta', {title, description, robots, seo})
+}
+
 function structureContent() {
 
   const makeSegments = (el) => {
@@ -86,7 +137,7 @@ function structureContent() {
       currentSection.setAttribute('data-id', computeDataId(currentSection))
 
     } else {
-      if (el.tagName === 'VE-FOOTER') footer = el
+      if (/^\w+-footer/i.test(el.tagName)) footer = el
       else if (el !== sectionParam) currentSection.innerHTML += el.outerHTML
     }
   }
@@ -250,12 +301,11 @@ async function init() {
     document.querySelector('main').innerHTML = marked.parse(md)
   }
 
-  await getConfigExtras()
-  // console.log(config)
-
-  convertWcTagsToElements()
   structureContent()
+  convertWcTagsToElements()
+  setMeta()
 
+  await getConfigExtras()
   config.components = config.components ? config.components.split(',').map(l => l.trim()) : []
   loadDependencies(
     config.components.map(src => ({tag: 'script', type: 'module', src}) ), () => {
