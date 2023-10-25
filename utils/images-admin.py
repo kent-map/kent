@@ -85,10 +85,10 @@ def transform_image_path(src_img):
   return f'{"/".join(path)}/{names_map[src_fname]}'
 
 def move_image(src, dst, image, dryrun=False, **kwargs):
-  logger.info(f'{src}({os.path.exists(src)}) -> {dst}')
+  logger.info(f'{src} -> {dst}')
   if not dryrun:
     os.makedirs(os.path.dirname(dst), exist_ok=True)
-    os.system(f'cp {src} {dst}')
+    logger.info(os.system(f'cp {src} {dst}'))
     os.remove(src)
     props = {}
     if 'label' in image: props['label'] = image['label']
@@ -123,7 +123,7 @@ def sync_images(essays, images, max=-1, dryrun=False, **kwargs):
         img_url = f'https://raw.githubusercontent.com/kent-map/images/main/{dst_img_path}'
         
         if os.path.exists(src) and not os.path.exists(dst):
-          logger.info(f'{src}({os.path.exists(src)}) {dst}({os.path.exists(dst)}) {img_url}')
+          logger.info(f'{src} ({os.path.exists(src)}) {dst} ({os.path.exists(dst)}) {img_url}')
           move_image(src, dst, img, dryrun=dryrun, **kwargs)
           md = md.replace(src_img, img_url)
           md_updated = True
