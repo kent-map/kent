@@ -12,7 +12,8 @@ import os
 SCRIPT_DIR = os.path.abspath(os.path.dirname(__file__))
 BASEDIR = os.path.abspath(os.path.dirname(SCRIPT_DIR))
 
-import argparse, json, yaml
+import argparse, json, shutil, yaml
+from shutil import copy2
 
 import markdown
 from bs4 import BeautifulSoup
@@ -88,10 +89,7 @@ def move_image(src, dst, image, dryrun=False, **kwargs):
   logger.info(f'{src} -> {dst}')
   if not dryrun:
     os.makedirs(os.path.dirname(dst), exist_ok=True)
-    src = src.replace(' ','\ ')
-    if os.system(f'cp {src} {dst}') > 0:
-      raise Exception(f'Failed to copy {src} to {dst}')
-    os.remove(src)
+    shutil.move(src, dst, copy_function = copy2)
     props = {}
     if 'label' in image: props['label'] = image['label']
     if 'description' in image: props['summary'] = image['description']
