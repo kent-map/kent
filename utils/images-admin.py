@@ -88,7 +88,9 @@ def move_image(src, dst, image, dryrun=False, **kwargs):
   logger.info(f'{src} -> {dst}')
   if not dryrun:
     os.makedirs(os.path.dirname(dst), exist_ok=True)
-    logger.info(os.system(f'cp {src} {dst}'))
+    src = src.replace(' ','\ ')
+    if os.system(f'cp {src} {dst}') > 0:
+      raise Exception(f'Failed to copy {src} to {dst}')
     os.remove(src)
     props = {}
     if 'label' in image: props['label'] = image['label']
