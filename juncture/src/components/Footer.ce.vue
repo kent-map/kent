@@ -48,10 +48,6 @@
     'view-code': {icon: 'markdown', label: 'View Page Code'}
   }
 
-  onMounted(() => {
-    console.log('mounted')
-  })
-
   const footerElems = ref<HTMLUListElement[]>([])
 
   const root = ref<HTMLElement | null>(null)

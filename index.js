@@ -301,8 +301,8 @@ async function init() {
     document.querySelector('main').innerHTML = marked.parse(md)
   }
 
-  structureContent()
   convertWcTagsToElements()
+  structureContent()
   setMeta()
 
   await getConfigExtras()
