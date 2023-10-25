@@ -17,13 +17,13 @@ This site is the product of a collaboration between [JSTOR Labs](https://labs.js
 
 ## Carolyn Oulton
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/CO_in_bookshop.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/CO_in_bookshop.jpg)
 
 Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. Twitter: @KentMaps1, email: carolyn.oulton@canterbury.ac.uk
 
 ## Michelle Crowther
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/michelle.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Michelle.jpg)
 
 Michelle Crowther is a Learning and Research Librarian at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is doing a PhD in Victorian literature. Twitter: @HumLib_cccu
 
@@ -41,7 +41,7 @@ Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage
 
 ## Laura Allen
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/lauraallen.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Laura_Allen.jpg)
 
 Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eliza Haweis Fanclub. When she’s not busy reading advice on how to be a proper Victorian lady, you will likely find her in a quaint old pub with a Kentish cider and a battered old copy of Jane Eyre
 
@@ -49,7 +49,7 @@ Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eli
 
 ## Fran Allfrey
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Fran%20Allfrey.jpeg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Fran_Allfrey.jpg)
 
 Dr Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020. She researches the post-medieval reception of early English archaeology and literature, with a focus on how the past is remade in museums, mass media, and in community arts and regeneration activity.
 
@@ -73,13 +73,13 @@ Dr Liz Askey has a PhD from the University of Kent and is currently working as a
 
 ## Sophie Baldock
 
-![](https://iiif.juncture-digital.org/thumbnail?rotation=180&amp;url=https://raw.githubusercontent.com/kent-map/kent/main/images/sophiebaldock.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?rotation=180&amp;url=https://raw.githubusercontent.com/kent-map/images/main/misc/Sophie_Baldock.jpg)
 
 Dr Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). Twitter: @SophieBaldock
 
 ## Alexa Barrett
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Alexa_Barrett.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Alexa_Barrett.jpg)
 
 Alexa Barrett is an undergraduate English Literature and Creative and Professional Writing student at Canterbury Christ Church University. Twitter: @Alexawriting
 
@@ -97,7 +97,7 @@ Catriona Blaker studied Modern History, at Edinburgh University. She is a founde
 
 ## Simone Blandford
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/simoneblandford.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Simone_Blandford.jpg)
 
 Simone Blandford is an undergraduate BA English Literature student at the University of Exeter. She’s an aspiring academic looking to continue her studies beyond her BA. She can usually be found researching authors in dusty old libraries or telling everyone who’ll listen fun-facts about said authors.
 
@@ -115,7 +115,7 @@ Carina is a 2nd year undergraduate Civil Engineering student at the University o
 
 ## Susan Civale
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/susancivale.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Susan_Civale.jpg)
 
 Dr Susan Civale is Senior Lecturer in Romanticism at Canterbury Christ Church University.  Her research focuses on women’s writing of the long nineteenth century, life writing, and authorial and textual afterlives.  Her monograph, _Romantic Women's Life Writing: Reputation and Afterlife_, explored how the publication of women’s ‘private’ lives, through diaries, auto/biographies, letters, and memoirs, influenced their literary afterlives.
 
@@ -127,7 +127,7 @@ Liam Cohen is a Creative and Professional Writing student at Canterbury Christch
 
 ## Carla Danella
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/carla.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Carla.jpg)
 
 Carla Danella has a BA from Wellesley College and recently completed her MA in English Literature at Canterbury Christ Church University, studying the writing and life of the English writer and eccentric, Christopher St John. She creates occasional exhibitions for the National Trust at Smallhythe Place, is a web content manager, and enjoys hiking.
 
@@ -139,7 +139,7 @@ Elizabeth Duffield-Fuller lives, works and studies at Aberystwyth with her husba
 
 ## Laurie Duggan
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/duggan.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Duggan.jpg)
 
 Laurie Duggan was born in Melbourne and was involved in the poetry worlds of that city and Sydney through the 1970s and 80s. In 2006 he moved to England, living in Faversham, Kent until 2018 when he returned to Sydney.  His most recent books are Homer Street (Giramondo 2020), Selected Poems 1971-2017 (Shearsman 2018), No Particular Place To Go (Shearsman 2017).
 
@@ -166,19 +166,19 @@ While resident in Whitstable for 34 years, Nick has long been interested in the 
 
 ## Michael Goodrum
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/goodrum.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Goodrum.jpg)
 
 Dr Michael Goodrum is a Senior Lecturer in Modern History at CCCU. His most recent book is Printing Terror (Manchester UP, 2021), co-authored with Philip Smith. His research interests include comics, superheroes, Cold War science fiction and horror, and the work of Capt. W.E. Johns.
 
 ## Maggie Harris
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maggie_photo_Westgate.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Maggie_photo_Westgate.jpg)
 
 Maggie Harris is a Guyanese writer living in Kent. Winner of the Guyana Prize for Literature and Regional Winner of the Commonwealth Short Story Prize, she has taught Creative Writing at Kent and was International Fellow at Southampton University. Her poetry is published by Cane Arrow Press, and her short stories by Cultured Llama and Seren. Photo by Eleanor Marriot.
 
 ## Lisa Hawkins
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/LisaHawkins.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Lisa_Hawkins.jpg)
 
 Lisa Hawkins has a first-class degree and an MA in Fine Art, her main subject is landscape as a vehicle to explore visually how it feels to “be” in the world. This interest in the interplay between the interior life and the external landscape led her to complete a second Master’s degree in Myth Cosmology and the Sacred an experience that fostered a deep and continuing interest in psychology and mythology. She works from life, memory and imagination – welding the spirit of place with an exploration of the human condition. Developing a relationship with a place is central to Lisa’s practice, as the memories of each subsequent visit changes her perceptions – the weather, her own moods, current affairs, together with personal and collective associations. 
 
@@ -196,13 +196,13 @@ Debbie Hickman spent four years as Operations Manager for the Brogdale Horticult
 
 ## Diana Hirst
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/dianahirst.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Diana_Hirst.jpg)
 
 Arriving in East Kent two days before her second birthday, Diana Hirst has been rooted in its landscape ever since. While in exile, first on London clay and subsequently on Suffolk clay, she has regularly returned to Deal. As a poet, much of her early work was about Kent, particularly its chalklands, and she was 2008 Deal and Dover Poet of the Year. Now at Canterbury Christ Church, she has completed a PhD on Elizabeth Bowen, a writer she’s been interested in since she first read Eva Trout in 1969 and discovered the heroine trampling over landscapes she had fondly imagined belonged to her alone. But this began to make sense when she discovered that Bowen, too, had put down roots in East Kent ...
 
 ## Katie Holdway
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/katieholdway.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Katie_Holdway.JPG)
 
 Dr Katie Holdway is a Research Fellow in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, _Romance, Revolution &amp; Reform_ and a member of the Dickens Society Communications Committee. Twitter @KatieVHoldway
 
@@ -220,7 +220,7 @@ Dr Alyson Hunt is a recent PhD survivor and long-time research associate of the 
     
 ## Mandy Jones
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Mandyjones1.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Mandy_Jones.jpg)
 
 Dr Mandy Jones has completed a PhD at CCCU entitled _Unjustly neglected: reclaiming Victoria Holt as a pioneer of Neo-Victorian fiction._ She spends her time telling anyone who’ll listen (and even those who won’t) that Victoria Holt is an important but neglected author who needs reclaiming as a neo-Victorian novelist. She is thrilled that this project is literally putting Victoria Holt on the map.
 
@@ -232,7 +232,7 @@ Miroslava is an undergraduate student from Slovakia, studying combined honours H
 
 ## Helena Kelly
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/helenakelly.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Helena_Kelly.jpg)
 
 Dr Helena Kelly holds a doctorate from the University of Oxford but is currently an independent scholar, her most recent academic position being a stipendiary lectureship at Mansfield College, Oxford. She is the author of a number of academic pieces on eighteenth and nineteenth century literature and of a popular book, _Jane Austen, the Secret Radical_ (2016). Her work on Charles Dickens includes articles (published and forthcoming) in The Dickensian, Dickens Quarterly, and Notes and Queries and a biography, which is still a work in progress. She grew up in the Medway Towns.
 
@@ -248,7 +248,7 @@ Madeleine Lennon is currently an A-Level student with an interest in early medie
 
 ## Richard Maltby
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/richardmaltby.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Richard_Maltby.jpg)
 
 Richard Maltby, retired head of history at The King’s School in Canterbury and author of an illustrated history of Canterbury (Pevensey Press, 1994), takes us through the growth of Canterbury in the 20th century to become the foremost commercial, educational and tourist centre in the south-east outside London. He takes us through the maps of the human and physical impact of two world wars and the accelerating economic pressures of the late 20th century upon the historic and spiritual character of England’s most ancient cathedral city. A section to be completed offsets the 20th century urban and commercial expansion of the city by the successful preservation of recreational areas and the green spaces along the banks and islands of the river Sour as it divides through the city.
 
@@ -260,26 +260,26 @@ Fred is a retired civil servant and lives in Norfolk with his wife and their sma
     
 ## Peter Merchant
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/petermerchant.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Peter_Merchant.jpg)
 
 Dr Peter Merchant is Principal Lecturer in English at Canterbury Christ Church University, and the U.K. member of the _Journal of Juvenilia Studies_ Editorial Advisory Board. His most recent foray into local literary studies is “The Life of Betty Trask (1893–1983): Fiction, Fame, and Frome,” in the _Frome Society Year Book_ 23 (2020): 70–78.
 
 ## Ken Moffat
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Dickens_House_PH.png)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Dickens_House_PH.png)
 
 Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 
 ## Pete Orford
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/peterorford.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Peter_Orford.jpg)
 
 Dr Pete Orford is Course Director of the MA in Dickens Studies at the University of Buckingham. His most recent publication is The Mystery of Edwin Drood: Charles Dickens' unfinished novel and our endless attempts to end it for Pen &amp; Sword, and further details of Drood and its legion of solutions can be found on his website www.droodinquiry.com He is currently completing an edition of Pictures from Italy for the Oxford Dickens, writing a Dickens biography for the Blackwell Literary Lives series, and co-editing a volume of plays by Dickens for Edinburgh UP.Twitter: @DrPeteOrford
 
 
 ## Jeremy Page
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/jeremypage.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Jeremy_Page.jpg)
 
 Jeremy Page has published several collections of poems, among them In and Out of the Dark Wood (HappenStance, 2010) and Closing Time (Pindrop, 2014), and translations of Catullus, Leopardi, Rimbaud, Verlaine and Boris Vian. His novella London Calling was published by Cultured Llama in 2018. He is the founding editor of _The Frogmore Papers._
 
@@ -298,7 +298,7 @@ Publications: Where the Sea meets the Land: Artists on the Coast in Nineteenth-c
 
 ## Maddie Pettit
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/MaddieP.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Maddie_P.jpg)
 
 Madeleine Pettit is a History student at the University of Leeds. While in the sixth form at The Simon Langton Grammar School for Boys, she did her EPQ on Belgian refugees in Folkestone during WW1, which sparked her interest in local history. Researching the project gave her a good grounding in undertaking research, which she has since transferred to her studies at Leeds.
 
@@ -322,13 +322,13 @@ Andrew Sargent has written about Deal for many years. He is the author of "Drink
 
 ## Max Saunders
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/maxsaunders.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Max_Saunders.jpg)
 
 Professor Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of _Ford Madox Ford: A Dual Life_ (2 vols, 1996; paperback 2012); _Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature_ (2010); and _Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series,_ 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020). @SaundersMax
 
 ## Malcolm Shifrin
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/malcolm_shifrin.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Malcolm_Shifrin.jpg)
 
 Malcolm Shifrin, after ten years as a school librarian, moved in 1970 to be Deputy Media Librarian at the ILEA’s innovative Media Resources Centre. As Head of its Central Library Resources Service, he retired in 1985, just prior to Thatcher’s much lamented abolition of the ILEA. Becoming interested in the completely unresearched Victorian Turkish Bath, he gained an MA in Modern History at Royal Holloway, London and in 1999 began his ongoing website http://www.victorianturkishbath.org Arising from the publication of his 2015 book Victorian Turkish Baths, commissioned by Historic England, he was elected a Fellow of the Royal Historical Society. @VicTurkBath
 
@@ -340,13 +340,13 @@ Hayley Smith is a PhD student at Canterbury Christ Church University. Her resear
     
 ## Jacquie Stamp
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/jstamp.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/J_Stamp.jpg)
 
 Dr Jacquie Stamp has completed a PhD in English Literature at Canterbury Christ Church University, where her research focuses on representations and perceptions of the Arctic in the Long-Nineteenth-Century. Having gained an MA in Dickens and Victorian Culture at the University of Kent in 2016, she maintains an active interest in all things Dickensian as well as in the history and condition of her adopted county. In the summer months, however, she can often be found dancing either Cotswold or Molly Style Morris at a variety of locations around the UK – and beyond. Twitter: @jactweet99   
     
 ## Marnie Stanley
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/marnie1.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Marnie.jpg)
 
 Marnie Stanley is a student at Canterbury Christ Church University. Twitter: @marnie_moonchild_
 
@@ -358,19 +358,19 @@ Dr Sheila Sweetinburgh’s book on English medieval hospitals looks especially a
 
 ## Christian Taylor
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/ctaylor.jpeg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/C_Taylor.jpg)
 
 Dr Christian Taylor is Head of English at the Langton Grammar School for Boys, Canterbury.  He was born in Blackpool last century, slithered down to London to teach the scions of the well-heeled and double-barrelled, then slinked into Kent by a trap door in Ramsgate.  His research passions are singularly monomaniacal: all things Eliot (TS); anything Tony Harrison and Peter Reading; trying to prove to a cruel and dismissive world the truth of Calvin Hoffman's thesis that Christopher Marlowe wrote all the plays attributed to Shakespeare.  Yes.  All of them.
 
 ## Peter Vujakovic
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/petervujakovic.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Peter_Vujakovic.jpg)
 
 Professor Peter Vujakovic is Emeritus Professor of Geography at Canterbury Christ Church University. His research and publications cover cultural aspects of maps and mapping; landscape, heritage and ‘sense of place’; and landscape ecology (biogeography). For much of the last two decades he has lived close to the River Stour (near Wye) from where he has explored the world of Riddley Walker. He has also co-ordinated/written two series of popular articles on Kent’s landscape for Kent Life and is editor of the [Christ Church Heritage A to Z.](https://medium.com/the-christ-church-heritage-a-to-z)
 
 ## Elizabeth Waterman-Scrase
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/Elizabeth_WS.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Elizabeth_WS.jpg)
 
 Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. She has spent almost 30 years rummaging about in museums and castles across the UK and Europe researching the human story, following the footsteps of our collective history. Elizabeth has taught history across Europe, built siege engines, cannons, and been shot with an arrow (it was believed to be an accident). As of 2016, Elizabeth has been studying at Canterbury Christ Church University, completing her BA (Hons) in Creative and Professional Writing. Elizabeth is now onto her Masters in Creative Writing and heading towards the study of a Ph.D. Twitter: @ElizabethScrase
 
@@ -382,7 +382,7 @@ Dr Martin Watts is Senior Lecturer and Principal Research Fellow in Modern Histo
 
 ## Beth Whalley
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/whalley.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Whalley.jpg)
 
 Dr Beth Whalley received a PhD from King’s College London in 2020, and has recently undertaken a Postdoctoral Fellowship at Freie Universität Berlin. Her research focuses on early medieval literature and its contemporary reimaginings, and she is especially interested in literary engagements with place, space and the environment. She has articles forthcoming in Yearbook of English Studies and in edited collections on medieval ‘lost objects’ and the Chapel of St-Peter-on-the-Wall in Essex..
 
@@ -394,7 +394,7 @@ Dr Simon Wilson is a Senior Lecturer in the Faculty of Arts, Humanities and Educ
 
 ## Charlie Worthington
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/charlieworthington.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Charlie_Worthington.jpg)
 
 Charlotte Worthington is currently a third-year history and French undergraduate, with the intention to go into translation. She was born in the UK but lived in the Lot in the south of France from the age of 11. A keen interest in literature has led her to do her work experience for one of the third-year French modules with the Kent Digital Map project.
 
@@ -402,7 +402,7 @@ Charlotte Worthington is currently a third-year history and French undergraduate
 
 ## Kaitlyn Cowling
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/kaitlyncowling.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Kaitlyn_Cowling.jpg)
 
 Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from Canterbury Christ Church University. In 2019, Kaitlyn co-wrote a 'Murder Mystery Trail' event for the Being Human Festival. She has lived in Kent her whole life. @KatilynMCowling
 
@@ -426,7 +426,7 @@ Logan Miller is 3rd year Computer Science BSc student at the University of Sheff
 
 ## Heather Murdoch
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/heathermurdoch.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Heather_Murdoch.jpg)
 
 Heather designed a favicon for the site.
 
