@@ -100,6 +100,7 @@ def move_image(src, dst, image, dryrun=False, **kwargs):
     if props:
       yaml_path, _ = os.path.splitext(dst)
       yaml.dump(props, open(f'{yaml_path}.yaml', 'w'), default_flow_style=False)
+      logger.info(f'+ {yaml_path}.yaml')
   
 def sync_images(essays, images, max=-1, dryrun=False, **kwargs):
   logger.info(f'sync_images: essays={essays} images={images} dryrun={dryrun}')
@@ -123,7 +124,7 @@ def sync_images(essays, images, max=-1, dryrun=False, **kwargs):
         img_url = f'https://raw.githubusercontent.com/kent-map/images/main/{dst_img_path}'
         
         if os.path.exists(src) and not os.path.exists(dst):
-          logger.info(f'{src} ({os.path.exists(src)}) {dst} ({os.path.exists(dst)}) {img_url}')
+          logger.debug(f'{src} ({os.path.exists(src)}) {dst} ({os.path.exists(dst)}) {img_url}')
           move_image(src, dst, img, dryrun=dryrun, **kwargs)
           md = md.replace(src_img, img_url)
           md_updated = True
@@ -134,6 +135,7 @@ def sync_images(essays, images, max=-1, dryrun=False, **kwargs):
       else:
         with open(path, 'w') as f:
           f.write(md)
+          logger.info(f'-> {path}')
       if num_updated == max: break
       
   if names_map_updated:
