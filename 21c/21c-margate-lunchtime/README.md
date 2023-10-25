@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="In Margate by Lunchtime" author="Maggie Harris" layout="vtl" banner="/21c/images/eliot5.JPG"> 
+<param ve-config title="In Margate by Lunchtime" author="Maggie Harris" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/21c/Eliot__5.JPG"> 
 
 **The Mermaid Tour**   
 from [_In Margate by Lunchtime_](https://maggieharris.co.uk/books/in-margate-by-lunchtime/)   
@@ -31,7 +31,7 @@ He caught her eyes again in the mirror. She was smiling. Pulling his leg. Got a 
 
 Available at: [CulturedLlama](http://www.culturedllama.co.uk/books/in-margate-by-lunchtime)    
 ©Maggie Harris.
-<param ve-image url="/21c/images/thumbnail_margate.jpg" label="Mark Holihan"> 
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/21c/Margate.jpg" label="Mark Holihan"> 
 
 
 

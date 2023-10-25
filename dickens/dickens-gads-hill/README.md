@@ -9,7 +9,7 @@
 'Bless you, sir,' said the very queer small boy, 'when I was not more than half as old as nine, it used to be a treat for me to be brought to look at it. And now, I am nine, I come by myself to look at it. And ever since I can recollect, my father, seeing me so fond of it, has often said to me, "If you were to be very persevering and were to work hard, you might some day come to live in it." Though that's impossible!' said the very queer small boy, drawing a low breath, and now staring at the house out of window with all his might.   
 I was rather amazed to be told this by the very queer small boy; for that house happens to be MY house, and I have reason to believe that what he said was true.   
 ‘Travelling Abroad’. _All the Year Round_. 7 April 1860.   
-<param ve-image url="/dickens/images/Gadsgroundplan.JPG" label="Gads southview" attribution="©The British Library Board Maps CC.5.C.2. Plate 2">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Gads_ground_plan.jpg" label="Gads southview" attribution="©The British Library Board Maps CC.5.C.2. Plate 2">
 
 Dickens bought Gad’s Hill Place in Higham in 1856 from the novelist [Eliza Lynn Linton](/19c/19c-lynn-linton-biography), a contributor to _Household Words_ who would go on to author the notoriously anti-feminist ‘Girl of the Period’ articles for the _Saturday Review_ in the 1860s. 
 <param ve-image url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" label="Gads Hill" attribution="Benjamin Mortley">

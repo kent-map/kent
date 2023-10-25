@@ -3,7 +3,7 @@
 <param ve-config 
        title="The National Fruit Collections at Brogdale: an Insider View"
        author="Debbie Hickman"
-       banner="/images/banners/cherry.jpg" 
+       banner="https://raw.githubusercontent.com/kent-map/images/main/banners/Cherry.jpg" 
        layout="vertical">
        
 <param ve-entity eid="Q1000115" title="Faversham">

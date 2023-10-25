@@ -13,7 +13,7 @@ Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, ac
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Mary_Elizabeth_Maxwell_%28n%C3%A9e_Braddon%29_by_William_Powell_Frith.jpg" label="Mary Elizabeth Maxwell (née Braddon) by William Powell Frith.jpg" attribution="National Portrait Gallery, Public domain, via Wikimedia Commons">
 
 The 1863 novel _Aurora Floyd_ opens with a description of 'the rich darkness of the Kentish woods' where Archibald Floyd retires from his city banking career and offends the neighbouring gentry by marrying an actress. Braddon and her family lived in Richmond, but in 1878 they were in [Broadstairs](/dickens/broadstairs-19th-century) ‘for a week or so with children who have been ill, & who are in need of strengthening breezes.’  Like the parents of [Emily Shore](/19c/19c-shore-biography) almost half a century earlier, Braddon was clearly persuaded of the benefits of sea air as a restorative for invalids.
-<param ve-image url="/19c/images/braddon family.jpg" label="M.E. Braddon and family" attribution="©ICVWW "> 
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Braddon_family.jpg" label="M.E. Braddon and family" attribution="©ICVWW "> 
 <param ve-map center="Q922739" zoom="15">
 
 But in her novels Thanet is referenced as a somewhat unadventurous holiday location. In the 1880 _Barbara_ a mother and daughter enjoy ‘a delightful change of air at quiet little Broadstairs, with alternations of gaiety at [Margate](/dickens/19c-margate) and [Ramsgate](/dickens/19c-ramsgate)’. 

@@ -14,13 +14,13 @@ Joseph Conrad, an extraordinary and significant Polish British literary figure o
 <param data-map primary center="Q866348" zoom="10">
 
 The young Conrad was bright but lacked enthusiasm for study and began to dream of a career at sea, having been inspired by an account of the search for [Franklin’s](/19c/19c-franklin-biography) ships lost in the endeavour to discover the north-west passage. Despite his apparent lack of enthusiasm, Conrad retained a love of Polish Romantic literature and acquired French and the classical languages whilst in Kracow, and this enabled him to engage with both his first career at sea and then his second as a writer.
-<param ve-image url="/19c/images/ErebusandTerror.jpg" label="The Erebus and Terror among Icebergs in Dr Hartwig's The Polar World, 1886" attribution"©Michelle Crowther"> 
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Erebusand_Terror.jpg" label="The Erebus and Terror among Icebergs in Dr Hartwig's The Polar World, 1886" attribution"©Michelle Crowther"> 
 
 At the age of 16, Conrad’s uncle arranged for him to join a French shipping company in Marseilles, and he spent 4 years sailing on French ships, before his service was ended by a withdrawal of his papers by the Russian consul. This led to a failed suicide attempt, after which, in 1878, Conrad moved to England and joined the British mercantile marine. For the next 15 years he served in every rank, with one voyage as Master in 1889, when he took the sailing vessel Otago from Sydney to the island of Mauritius in the Indian Ocean. It was the seagoing experience of sailing around the world that gave Conrad the knowledge of men and places that were later to form the heart of his stories. Conrad visited Poland on leave and took an appointment in the Belgian Congo in 1890 before returning to sea. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e1/Otago_bark_1869.jpg" label="The Otago" attribution="Unknown author, Public domain, via Wikimedia Commons"> 
 
 Conrad came ashore in 1894 due to persistent ill-health and a desire to write and published his first novel, _Almayer’s Folly_ in the following year. Set in Borneo, he used his sailing experiences to reflect on colonialism, a theme that was to continue through further novels such as _Heart of Darkness_ (1899) and _An Outpost of Progress_ (1897). Conrad married an English woman, Jessie in 1896, and they lived in the Kent countryside with their 3 children. 
-<param ve-image url="/19c/images/Rear of Oswalds - Bishopsbourne MJC.jpg" label="Oswalds" attribution="©Martin Crowther"> 
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Rear_of_Oswalds_-_Bishopsbourne_MJC.jpg" label="Oswalds" attribution="©Martin Crowther"> 
 <param data-map primary center="Q866348" zoom="10">
 
 Although a popular novelist and eventually recognised by the critics, Conrad did not enjoy financial success, although he was awarded an annual government grant of £100 in 1910, which helped until his death at the age of 66 in August 1924. Conrad died in his house  (Oswalds) in Bishopsbourne and was buried in Canterbury Cemetery.

@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Wilkie Collins (1824-1889)" author="Dr Alyson Hunt" layout="vtl" 
-banner="/dickens/images/Broadstairs.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/dickens/Broadstairs.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q922739" aliases="Broadstairs">

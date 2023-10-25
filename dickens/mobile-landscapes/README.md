@@ -2,7 +2,7 @@
 
 <param ve-config
        title="Mobile Landscapes"
-       banner="/dickens/images/Viking_Bay_Broadstairs.jpg"
+       banner="https://raw.githubusercontent.com/kent-map/images/main/dickens/Viking_Bay_Broadstairs.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 
@@ -213,7 +213,7 @@ _Maybe there really is a secret tunnel in your bedroom cupboard._
 _If you work hard perhaps you will even live at [Gad’s Hill](/dickens/dickens-gads-hill) one day._  
 <br>
 If you really feel that your child is destined to become one of the country’s greatest writers, you might want to try the third of these. It worked for John Dickens, as his son Charles was the first to acknowledge. Anyone currently studying English GCSE at [Gad’s Hill](/dickens/dickens-gads-hill) School, you may also be interested to learn that Dickens left formal education by the age of 15. He’s probably on your syllabus now. Funny how life works out.
-<param ve-image url="/dickens/images/Gadshill In Dickens Land.JPG" title="Gad's Hill In Dickens Land">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Gadshill_In_Dickens_Land.jpg" title="Gad's Hill In Dickens Land">
  
 It was October half term when we found ourselves gazing over the very lawn where Dickens was photographed reading to his daughters Mamie and Katey in the last few years of his life. And if he could do it…
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters" fit="cover">
@@ -228,13 +228,13 @@ _No you couldn’t._
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 <br><br>
 Oh come on, you didn't think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like David Copperfield before us, made our way back towards the [Dover Road](/dickens/david-copperfield-dover-road).
-<param ve-image url="/dickens/images/Gads1864067463.jpg" title="Gads1866" attribution="©The British Library Board Maps 67463">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Gads_1864067463.jpg" title="Gads1866" attribution="©The British Library Board Maps 67463">
 
 **Conclusion: in which we justify all this gadding about by insisting that it was serious work**    
 So – as any teacher worth their salt would want to be assured – what did we actually learn from this experience? Well for one thing, that neither of us has missed our vocation in the car industry. 
 <br><br>
 But we also started to understand that the Victorians read aloud to each other – much as we read to children today  –  for one very good reason. Shared reading promotes familial, friendship and even romantic bonds because it is extraordinarily intimate (no there isn’t a ‘Knew it!’ twist coming up, this isn’t Strictly Come Dancing). When one adult reads to another they are helping to recover a meaningful tradition with  - so the latest research suggests - demonstrable benefits to wellbeing.[^ref3]
-<param ve-image url="/dickens/images/CDMamieKatie.jpg">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Mamie_Katie.jpg">
 
 To add to that, looking for the ‘original’ place known only from a novel – an activity that was until recently much derided by academics – can throw up exciting questions about the fictional world, even the nature of creativity itself. Sometimes the topography doesn’t match up but the symbolism does, as when Pip makes his stark choice between decency and status (village or town). Or the reading experience is intensified by seeing what a character sees – just try being alone with someone on an isolated marsh while they growl something about ripping out your liver. Really, there’s nothing quite like it.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/%28ch.17%29_Then_she_softly_patted_my_shoulder.jpeg" label="Then she softly patted my shoulder" attribution="Francis Arthur Fraser, Public domain, via Wikimedia Commons">

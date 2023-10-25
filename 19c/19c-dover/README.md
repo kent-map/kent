@@ -9,7 +9,7 @@ Like [Ramsgate](dickens/19c-ramsgate), Dover considered itself to be among the m
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/27/Letitia_Landon_1837.png" label="Letitia Landon, 1837" attribution="S Wright, CC0, via Wikimedia Commons">
 
 Despite sending David Copperfield down the [Dover Road](dickens/david-copperfield-dover-road) from [Canterbury](dickens/david-copperfield-canterbury), [Dickens](dickens/dickens-biography) himself found the town ‘too bandy (I mean musically, no reference to its legs), and infinitely too genteel.’ But he was forced to admit that ‘the sea is very fine, and the walks are quite remarkable’.   He may well have been thinking of its famous castle and still more famous white cliffs, which remain among its most obvious attractions. As one admiring visitor put it in 1859, ‘No town in England presents a more brilliant perspective, for imposing and grand landscape.’  Other writers with a connection to the town include [Dickens](dickens-biography)'s rival [G. W. Reynolds](19c/19c-reynoldsgwm-biography) and Matthew Arnold.
-<param ve-image url="/dickens/images/DoverCastle.jpg" label="Dover Castle" attribution="©The British Library Board c13874-64">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Dover_Castle.jpg" label="Dover Castle" attribution="©The British Library Board c13874-64">
 
 The town had survived many threats over the course of centuries, but it is worth remembering that for all the historic ecstasies offered in guidebooks of the time: <br><br>
 'The church of St Mary in 1860 experienced a narrow escape from complete destruction by the War Office, and was only with difficulty rescued by dint of urgent protests from antiquaries. One author speculated that 'The Department ... doubtless wishes all antiquaries at the devil.'[^ref2]  
@@ -27,7 +27,7 @@ Mackenzie, Walcott. _A Guide to the Coast of Kent, Descriptive of Scenery Histor
 Author unknown. _The Illustrated Ramble Book of the London and Dover Railway_. London: J. Mead, date not given.  
 Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.  
-<param ve-image url="/dickens/images/FortAmherst.jpg" label="Fort Amherst -[sic] actually Archcliff Fort" attribution="©The British Library Board maps_k_top_16_48_g">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Fort_Amherst.jpg" label="Fort Amherst -[sic] actually Archcliff Fort" attribution="©The British Library Board maps_k_top_16_48_g">
 
 ### References
 [^ref1]: Byron, 192. 

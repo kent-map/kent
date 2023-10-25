@@ -19,7 +19,7 @@ When the library was moved from the Bayle to Grace Street in April 1888, it had 
 
 Determined to maintain its standards, the library had strict regulations, including ‘No person shall be admitted who is in an intoxicated or dirty condition…’  Presumably not for this reason, a separate children’s section was considered unnecessary until the twentieth century.   
 Nor was the open access system adopted until 1910. Before then anyone wanting to borrow a book would have to brave a possibly disapproving librarian, having first consulted the library ‘indicator’. This simple device – dividing titles firmly into categories - showed readers whether a book was available or in use. 
-<param ve-image url="/19c/images/library indicator1.jpg" label="Library Indicator" attribution="Kent Archive and Local History Service"> 
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Library_indicator__1.jpg" label="Library Indicator" attribution="Kent Archive and Local History Service"> 
 
 [H. G. Wells](/20c/20c-wellshg-biography) sends Kipps to the Folkestone library in 1905, where he claims nervously, _‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather. I was just ‘aving a look at this Indicator. First-class idea. Tells you all you want to know’._ 
 <param ve-image url="/19c/images/kippsinfolkestonelibrary.jpg"  label="Kipps in Folkestone Library" attribution="Kent Archive and Local History Service">

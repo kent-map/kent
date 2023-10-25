@@ -12,13 +12,13 @@ In the early 19th century visitors such as [Keats](/19c/19c-keats-margate/) woul
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/46/Scene_aboard_a_Margate_hoy.jpg" label="Scene aboard a Margate Hoy, 1804" attribution="Published by John Fairburn, Public domain, via Wikimedia Commons">
 
 On arrival from London a few years later visitors landed at Jarvis’ Landing Place (erected in 1824), where they might well feel bewildered by ‘the kissings of husbands and wives, the greetings of fathers and sons, the officiousness of porters, the calls of bathing-women, the programmes of librarians, and the rush and push of the inquisitive.’[^ref1]
-<param ve-image url="/dickens/images/Margatefromtheparade.JPG" label="Margate from the Parade" attribution="©The British Library Board c11802-06 / Maps K.Top.17.4.e.">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Margate_from_the_parade.jpg" label="Margate from the Parade" attribution="©The British Library Board c11802-06 / Maps K.Top.17.4.e.">
 
 The light along this stretch of coast was famously applauded by the painter J. M. W. Turner, who painted a number of pictures in and of the town.
-<param ve-image url="/dickens/images/distantMargate.jpg" label="Joseph Mallord William Turner, ‘A Distant View of Margate After Sunset’, c.1840, Tate (N05239), digital image" attribution="©Tate released under Creative Commons CC-BY-NC-ND (3.0 Unported">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Distant_Margate.jpg" label="Joseph Mallord William Turner, ‘A Distant View of Margate After Sunset’, c.1840, Tate (N05239), digital image" attribution="©Tate released under Creative Commons CC-BY-NC-ND (3.0 Unported">
 
 Margate Sands railway station opened in 1846 and Margate West followed in 1863, although ironically the creation of more efficient transport links jeopardised the respectable status of the town as a [seaside](/19c/19c-seaside) resort by making it accessible to a lower class of visitor. As early as 1837, when [Dickens](/dickens/dickens-biographyDickens)’s Tuggs family come into money they refuse to visit the town on the grounds that there is ‘nobody there, but tradespeople.’ When [Dante and Christina Rossetti](/19c/19c-rossetti-biography) visited Kent in 1882 in an abortive attempt to restore the former's health, they went not to Margate but to nearby Birchington.
-<param ve-image url="/dickens/images/AViewatMargatemaps_k_top_17_4_d.jpg" label="A view at Margate" attribution="©The British Library Board">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/A_view_at_Margate_maps_k_top_17_4_d.jpg" label="A view at Margate" attribution="©The British Library Board">
 
 By the end of the century Margate itself had seemingly embraced its populist reputation. The establishment of ‘Lord’ George Sanger’s [Hall by the Sea](http://glorious-and-unknown.co.uk/margate-hall-by-the-sea/) - the origin of [Dreamland](https://www.youtube.com/watch?v=461nK7mazNo) - in the disused Margate Sands railway station in 1874 signalled an investment in entertainment for the masses, at the very time that resorts such as [Folkestone](19c/19c-folkestone) were insisting on their exclusivity and gentility.[^ref2] [Marie Corelli](http://jvc.oup.com/2015/07/20/alyson-hunt-an-unrecognised-memento-of-the-past/) visited the mysterious Shell Grotto in 1885, calling it 'one of the world's wonders' but complaining about the vulgarity of the shrimp teas used to fund its maintenance.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/The_jetty%2C_Margate%2C_Kent%2C_England%2C_ca._1897.jpg" label="Margate, 1897" attribution="Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">
@@ -34,7 +34,7 @@ Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Ra
 Oulton, Walley Chamberlain. [_A Picture of Margate and Its Vicinity_.](https://books.google.com.gh/books?id=ExEHAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false) First published 1820.   
 Surtees, R. S. _Jorrocks’s Jaunts and Jollities._ London Routledge: 1838 [1869 edition]. Chapter on ‘Aquatics: Mr Jorrocks at Margate’ 113-42.   
 Wynne, Pamela. _Love in a Mist_. London: Philip Allen & Co., 1932.   
-<param ve-image url="/20c/images/lovemist.jpg" label="Love in a Mist" attribution="© Estate of of R. John Holmgren">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Lovemist.jpg" label="Love in a Mist" attribution="© Estate of of R. John Holmgren">
 
 
 ### References

@@ -11,7 +11,7 @@
 
 ‘Who wants to know what everything means? Novels are not meant to be real life, only stories to amuse us. It is wrong to take such things seriously.” 
 “But you do take them seriously,” objected Ethel. “You read volumes and volumes of such stuff, and it’s bad for you. It fills you with all sorts of fancies and notions, that are worse than useless in this practical world.’_  _The Third Chance_, 1912. 
-<param ve-image url="/20c/images/GettyImages-1053502770 Gladys Waterer1.jpg" label="Gladys Waterer, as Mrs Squeers, Dickens Festival 1939">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Gladys_Waterer__1.jpg" label="Gladys Waterer, as Mrs Squeers, Dickens Festival 1939">
 
 Gladys Waterer was best known in her lifetime as a dramatist and leading light of the [Broadstairs](/dickens/broadstairs) branch of the Dickens Fellowship from its inauguration in 1837. Her parents Clarence and Emmeline Waterer were from Surrey, where they had married in 1884. Gladys was born in Addlestone on 17 March 1885, around two years before her brother Clarence. By 1901 the family was living at 35 Northdown Avenue in Margate. 
 <param ve-entity eid="Q" aliases="922739">

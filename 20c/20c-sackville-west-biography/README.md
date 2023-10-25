@@ -10,7 +10,7 @@ And reddens in the water of the moat;
 As red within the water burns the scythe    
 And the moon dwindled to her gibbous tithe   
 Follows the sunken sun afloat. - ‘Sissinghurst’, 1930.   
-<param ve-image url="/20c/images/sissinghurst2.jpg" label="Sissinghurst">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Sissinghurst__2.jpg" label="Sissinghurst">
 <param ve-map center="Q1971996" zoom="10">
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character. She was though a prolific and versatile writer herself - a celebrated poet (a candidate for the post of Poet Laureate in 1948) and author of fourteen novels, with those published in the 1930s proving both critically and commercially successful. Her poetry was unapologetically traditional in form, and her fiction too was largely traditional but with a distinctly poetic style.
@@ -45,5 +45,5 @@ Sackville-West, Vita. _Family History._ St Ives: Vintage, 1996. Print.
 Sackville-West, Vita. _The Edwardians_. St Ives: Vintage, 2016. Print.  
 Sackville-West, Vita. _The Garden._ Woking: Michael Joseph Ltd, (First pub 1946). Print.  
 Sackville-West, Vita. _The Land._ England: Frances Lincoln Ltd, 2004. Print.  
-<param ve-image url="/20c/images/sissinghurstcover.jpg" label="Cover of Sissinghurst by Vita Sackville-West">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Sissinghurst_cover.jpg" label="Cover of Sissinghurst by Vita Sackville-West">
 

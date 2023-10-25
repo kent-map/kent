@@ -27,7 +27,7 @@ Mary’s first visit to Kent was during her childhood, when her parents decided 
 Another trip to Kent (this time en route to Boulogne), was also mired with mishap: 
 <br><br>
 'We travelled by the stage coach to [Dover](/19c/19c-dover) (there were no railways then), but when we arrived there, it was found that the wind did not serve for the sailing-packet to cross the Channel, so we had to stay for three days at an inn, til we could embark.'[^ref3]
-<param ve-image url="/dickens/images/Snargate St Dover 1830.jpg" label="Snargate St Dover c.1830" attribution="Drawn by G.Shepherd">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Snargate_St_Dover_1830.jpg" label="Snargate St Dover c.1830" attribution="Drawn by G.Shepherd">
 <param ve-map center="Q179224" zoom="12">
 
 However, not all Mary’s recollections of Kent are tinged by transport delays and disasters. A holiday at a farmhouse near Tonbridge was recalled fondly:

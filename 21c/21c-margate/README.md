@@ -15,7 +15,7 @@ It remains to be seen what impact Covid will make on the new creative industries
 <param ve-image url="https://stor.artstor.org/stor/ee7f84dc-a5b0-4c36-ad58-bb9a01682e54" label="Another Time by Anthony Gormley, Margate"> 
 
 My book [_In Margate by Lunchtime_](/21c/21c-margate-lunchtime) offers a bird’s eye view of Thanet from pre-Roman times to the 21st century. Just as our early ancestors would have found miraculous the Thanet windfarm which stands now off the coast like sentinels  an act of magic, so might they of a mermaid tour guide on a Vespa, except of course she’s real. 
-<param ve-image url="/21c/images/Kent Maps Mermaid Transparent.jpg" label="Margate Mermaid" attribution="Heather Murdoch"> 
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/21c/Kent_Maps_Mermaid_Transparent.jpg" label="Margate Mermaid" attribution="Heather Murdoch"> 
 
 For more on the history of Dreamland see [‘Canterbury Tales: from the City to the Sea’](https://www.youtube.com/watch?v=461nK7mazNo)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/65/Dreamland%2C_Margate_-_geograph.org.uk_-_1473130.jpg" label="Dreamland, Margate" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons"> 

@@ -7,7 +7,7 @@
 
 _‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’_   
 _David Copperfield_
-<param ve-image url="/dickens/images/In Dickens Land. The Little Inn, Canterbury.JPG" label="Little Inn, Dickens Land">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/In_Dickens_Land._The_Little_Inn,_Canterbury.jpg" label="Little Inn, Dickens Land">
 
 When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
 very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below.,[^ref1]

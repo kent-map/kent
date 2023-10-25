@@ -38,8 +38,8 @@ Zizzi’s Restaurant or Cogan House, in St Peter’s Street near the Westgate To
 <param ve-map center="51.28045496592545, 1.0776459381588603" zoom="15">
 
 Does internet shopping and the closures accelerated by coronavirus signal the end of retailing? In Canterbury first Nason’s and then the High Street’s biggest store, Debenham’s, have become redundant, though plans to revive the sites remain on the table. The list of casualties in 2020/21 for Canterbury includes Burton and Dorothy Perkins, Topshop, Café Rouge, TSB bank and Poundland. Other units in Whitefriars and the Marlowe Arcade stand empty. Historians of the future may see the late 20th century as the final flourish of shopping mania.
-<param ve-image url="/canterbury/images/Delapidated Nasons.jpg" label="Nason's" attribution="Martin Crowther, by kind permission">
-<param ve-image url="/canterbury/images/Abandoned Burtons.jpg" label="Burtons" attribution="Martin Crowther, by kind permission">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/canterbury/Delapidated_Nasons.jpg" label="Nason's" attribution="Martin Crowther, by kind permission">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/canterbury/Abandoned_Burtons.jpg" label="Burtons" attribution="Martin Crowther, by kind permission">
 
 ***
 

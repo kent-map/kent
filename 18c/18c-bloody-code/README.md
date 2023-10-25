@@ -20,4 +20,4 @@ See also [Magwitch](/dickens/great-expectations-curated-walk)
 
 Emsley, Clive, _Crime and society in England 1750-1900_  4th Ed. Harlow: Pearson, 2010.   
 See also [National Justice Museum](nationaljusticemuseum.org.uk)
-<param ve-image url="/18c/images/1U8A1283-01.jpeg" label="Wax seal" attribution="© Astrid Stilma By permission of Patrick Marrin">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/18c/1U8A1283-01.jpg" label="Wax seal" attribution="© Astrid Stilma By permission of Patrick Marrin">
