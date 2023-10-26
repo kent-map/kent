@@ -1,24 +1,29 @@
-.ve-header "Edith Nesbit's Kent" gh:kent-map/kent/images/banners/19c.jpg sticky=true
-    - [Home](/)
-    - [About](/about)
+.ve-header label="Edith Nesbit's Kent" background=gh:kent-map/kent/images/banners/19c.jpg sticky=true
 
 Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent.
 
-# &nbsp; {.cards}
+# &nbsp;
+<param class="cards">
 
-## Edith Nesbit {href=/nesbit/nesbit-biography}
+## Edith Nesbit
+
+[Edith Nesbit](/nesbit/nesbit-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
 
 Edith Nesbit, spent formative years in the village of Halstead, in the Sevenoaks District of Kent.
 
-## Penshurst {href=/nesbit/nesbit-penshurst}
+## Penshurst
+
+[Penshurst](/nesbit/nesbit-penshurst)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/79fb2d02-04f1-4a1b-b03a-c3315d2c1787)
 
 When she was thirteen, Edith Nesbit stayed for a time in the village of Penshurst, near Sevenoaks. 
 
-## River Medway {href=/nesbit/nesbit-river-medway}
+## River Medway
+
+[River Medway](/nesbit/nesbit-river-medway)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c)
 

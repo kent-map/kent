@@ -1,8 +1,4 @@
-.ve-header "19th Century Kent" gh:kent-map/kent/images/banners/19c.jpg sticky=true 
-
-    - [Home](/) 
-
-    - [About](/about) 
+.ve-header label="19th Century Kent" background=gh:kent-map/kent/images/banners/19c.jpg sticky=true 
 
 Novelists, architects, patrons, photographers and other notable people of the nineteenth century that frequented Kent. 
 

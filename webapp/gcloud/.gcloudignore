@@ -1,6 +1,0 @@
-.gcloudignore
-.git
-.gitignore
-!creds.yaml
-.venv
-__pycache_
