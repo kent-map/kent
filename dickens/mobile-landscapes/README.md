@@ -76,7 +76,7 @@ All three buildings are within sight of each other at [Broadstairs](/dickens/dic
 <param ve-image primary url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Hassam.jpg" title="Bleak House, Broadstairs, 1889" attribution="Childe Hassam (American, 1859-1935). Watercolor on paper, 13 1/2 x 9 3/4 in. Canton Museum of Art Collection, Canton, Ohio, USA, 2017.83">
 
 The museum parlour is a complete reconstruction of the room where David is randomly dosed with a series of bottles from a corner cupboard - we have never been quite sure that we too did not taste ‘aniseed water, anchovy sauce, and salad dressing’. More disturbingly David is later made to confront the Murdstones in this small space, in which there is barely room for the three of them as well as his aunt and Mr Dick.
-<param ve-image primary url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Dickens_house_PH.png" title="Aunt Betsey's parlour" attribution="©Carolyn Oulton">
+<param ve-image primary url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Dickens_House_PH.png" title="Aunt Betsey's parlour" attribution="©Carolyn Oulton">
 
 It is a far cry from the grandeur of [Fort House](/dickens/dickens-fort-house), where Dickens wrote part of the novel and where he had [Wilkie Collins](/19c/19c-collins-biography) and other friends to stay. When we went a chirpy billboard suggested that visitors should come in and see Dickens’s study and then recover from the emotion with a cream tea. 
 <param ve-image url="https://stor.artstor.org/stor/a44f44d7-8226-47fe-9762-90595ead4cf4" title="Cream tea" attribution="©Carolyn Oulton">
