@@ -8,3 +8,4 @@ creds
 creds.yaml
 *.pyc
 gcreds.json
+.vite
