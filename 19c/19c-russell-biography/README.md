@@ -3,7 +3,7 @@
 <param ve-config 
        title="Henry Russell (1812-1900)"
        author="Michelle Crowther"
-       banner="/images/banners/19c.jpg"
+       banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
        layout="vertical">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">

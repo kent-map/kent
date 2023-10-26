@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Florence Warden (Florence Alice James) (1857 – 1929)" author="Michelle Crowther" layout="vtl" 
-banner="/images/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q2287962" aliases="Cliffsend">

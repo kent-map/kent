@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Charles Shadwell (1672-5? – 1726)" author="Michelle Crowther" layout="vtl" 
-banner="/images/banners/18c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 
 <param ve-entity eid="Q1285144" aliases="Knole">
 <param ve-entity eid="Q179224" aliases="Dover">

@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="Admiral Sir Cloudesley Shovell (1650-1707)" author="Dr Diana Hirst" layout="vtl" banner="/images/banners/17c.jpg">
+<param ve-config title="Admiral Sir Cloudesley Shovell (1650-1707)" author="Dr Diana Hirst" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg">
 
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q179224" aliases="Dover">

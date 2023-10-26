@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="St. John the Baptist, Small Hythe" author="Andrew Vincent" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="St. John the Baptist, Small Hythe" author="Andrew Vincent" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q614560" aliases="Tenterden">
 <param ve-entity eid="Q748895" aliases="Cinque Ports">

@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Sarah Baker and her Kentish Theatres (1737-1816)" author="Jean Baker" layout="vtl" 
-banner="/images/banners/18c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 
 Sarah Baker was a fairground performer, a ‘strolling player’, who became one of the most successful self-made women of the eighteenth century. She was born in 1737 and throughout her childhood and youth travelled the country with her mother Ann Wakelin and her younger sister Moll entertaining the crowds at country-fairs and race meetings. As itinerant performers they were classified by law as ‘rogues and vagabonds’ with destitution and imprisonment an ever-present threat. 
 In the early 1770s Sarah, recently widowed and now with three young children to care for, took over from her mother as manager of the small family troupe. In the face of fierce competition from male rivals she began to concentrate her activities in Kent. Despite her growing popularity and success, a portable wooden booth and a motley collection of makeshift facilities such as warehouses, malthouses, stables, barns and innyards ‘fitted up’ for the purpose of entertainment would be her only ‘theatres’ for the next 20 years.

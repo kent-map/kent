@@ -9,7 +9,7 @@
 
 _‘Margate is a place that grows on you. You arrive at it feeling vaguely contemptuous, and ready, if by any far distant chance you should meet anyone that you know, to explain that it is your first visit, and that you only came because your doctor so strongly recommended it. And then, after getting to feel steadily better and better, and more and more alive, and as if life still held something for you, you get to love it. Especially if you go there in May.’_
 	_Love in a Mist_, 1932
-<param ve-image url="/20c/images/lovemist.jpg" label="Love in a Mist" attribution="Estate of of R. John Holmgren">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/lovemist.jpg" label="Love in a Mist" attribution="Estate of of R. John Holmgren">
 <param ve-map center="Q618045" zoom="10">
 
 Both romance and crime fiction flourished in the 1930s holiday market, and Margate on the East coast of Kent provided an obvious setting for middlebrow fiction. Set in the years after WW1, Pamela Wynne’s _Love in a Mist_ gives a picture of Margate as it appears to a range of observers, from a shell-shocked author who is sent there to recover his mental balance to his taciturn servant, who remembers his childhood holidays in the town. For Pauline Russell though it is the scene of her domestic drudgery, where she cooks and cleans as well as looking after her demanding husband, himself a war invalid. Her perspective as a resident and married woman is markedly different from the detached attitude of the London detective offered by crime authors such as Milward Kennedy at the same period. 

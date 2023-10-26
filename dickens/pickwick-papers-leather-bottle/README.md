@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Leather Bottle, The Street, Cobham, Gravesend" author="Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Leather Bottle, The Street, Cobham, Gravesend" author="Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param title="Cobham" eid="Q949561">
 <param title="Gravesend" eid="Q676689">

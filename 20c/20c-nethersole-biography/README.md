@@ -3,7 +3,7 @@
 <param ve-config 
        title="S.C. Nethersole (1869-1956)"
        author="Michelle Crowther"
-       banner="/images/banners/19c.jpg"
+       banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
        layout="vertical">
 
 <param ve-entity eid="Q2195317" aliases="Goodnestone">

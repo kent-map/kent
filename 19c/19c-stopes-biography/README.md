@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Charlotte Brown Carmichael Stopes (1840-1929)" author=" Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Charlotte Brown Carmichael Stopes (1840-1929)" author=" Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q1083051" aliases="Swanscombe">
 <param ve-entity eid="Q3028239" aliases="Greenhithe">

@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Ann Radcliffe (1764 – 1823)" author="Dr Michael Goodrum" layout="vtl" 
-banner="/images/banners/18c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q507517" aliases="Rochester">

@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="George Meredith (1828-1909)" author="Sylvia Hornsby" layout="vtl" 
-banner="/images/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">

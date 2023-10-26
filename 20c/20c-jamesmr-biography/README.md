@@ -3,7 +3,7 @@
 <param ve-config 
        title="M. R. James OM FBA (1 August 1862 – 12 June 1936)"
        author="Danny Rhodes"
-       banner="/images/banners/19c.jpg"
+       banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
        layout="vertical"
        num-maps="2"
        num-images="4">

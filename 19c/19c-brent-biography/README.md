@@ -1,7 +1,7 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
 <param ve-config title="John Brent (1808-1882)" author="Professor Carolyn Oulton" layout="vtl" 
-banner="/images/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 

@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="Victoria Holt (1906-1993), a pseudonym of Eleanor Hibbert" author="Mandy Jones" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Victoria Holt (1906-1993), a pseudonym of Eleanor Hibbert" author="Mandy Jones" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q26163" aliases="Sandwich">

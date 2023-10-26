@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Dinah Craik" author="Elizabeth Duffield-Fuller" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Dinah Craik" author="Elizabeth Duffield-Fuller" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <!-- Basemap centred on West Malling -->
 <param ve-map center="Q1356429" zoom="10">

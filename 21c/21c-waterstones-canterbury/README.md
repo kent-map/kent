@@ -1,4 +1,4 @@
-<param ve-config title="Waterstones, Canterbury, 1990 to 2020" author="Dr. Martin Latham" layout="vtl" banner="/images/banners/21c.jpg">
+<param ve-config title="Waterstones, Canterbury, 1990 to 2020" author="Dr. Martin Latham" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/21c.jpg">
 
 #
 

@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Richborough: the Secret Port" author="Martin Watts" layout="vtl" 
-banner="/images/banners/20c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg">
 
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q2607619" aliases="Richborough">

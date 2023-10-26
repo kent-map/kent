@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Edith Nesbit, Dymchurch" author="Eleanor Fitzsimons" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Edith Nesbit, Dymchurch" author="Eleanor Fitzsimons" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh" "Romney">

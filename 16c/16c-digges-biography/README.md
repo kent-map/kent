@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="Leonard and Thomas Digges" author="Arnav Sharma and Michelle Crowther" layout="vtl" banner="/images/banners/16c.jpg"> 
+<param ve-config title="Leonard and Thomas Digges" author="Arnav Sharma and Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg"> 
 
 <param ve-entity eid="Q8034080" aliases="Wootton">
 <param ve-entity eid="Q2160826" aliases="Cranbrook">

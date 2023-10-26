@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Kentish Gazette" author="Katie Holdway" layout="vtl" 
-banner="/images/banners/18c.jpg" description="Founded in 1768, the Kentish Gazette remains in print today.">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg" description="Founded in 1768, the Kentish Gazette remains in print today.">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 

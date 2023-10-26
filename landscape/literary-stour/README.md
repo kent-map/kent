@@ -97,7 +97,7 @@ Canterbury is the birthplace of [Aphra Behn](/17c/17c-behn-biography), the first
 <param ve-map center="Q29303" zoom="15">
 
 Canterbury was also the birthplace of [Mary Tourtel](/20c/20c-tourtel-biography), the creator of Rupert Bear, who was born in 1874 into an artistic family. Her father and one of her brothers were stonemasons and stained-glass designers at Canterbury Cathedral and her eldest brother, Edmund, was an artist with an interest in painting animals. Mary attended the Sidney Cooper School of Art in Canterbury and before becoming the writer and illustrator of Rupert Bear for the Daily Express between 1920 and 1935 created characters and scenes akin to the Kentish landscape:  the jury is out on the location of Nutwood, the idyllic village where Rupert lives with his parents. 
-<param ve-image url="/20c/images/tourtel2cantmus.jpg" label="Kicking from ‘Horses at Work’" attribution="©Canterbury Museums and Galleries"> 
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/tourtel2cantmus.jpg" label="Kicking from ‘Horses at Work’" attribution="©Canterbury Museums and Galleries"> 
 <param ve-map center="Q29303" zoom="15">
 
 Edward Hasted, the 18th century historian whose [_History and Topographical Survey of the County of Kent_](https://www.british-history.ac.uk/survey-kent/vol11/pp67-69) is a document in which the Stour is discussed from time to time. 

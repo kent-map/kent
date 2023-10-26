@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Convicts in Kent" author="Dr Ben Bethell" layout="vtl" 
-banner="/images/banners/19c.jpg" description="This picture essay by Dr Ben Bethall presents an overview of built prisons and floating prison hulks in the county of Kent, England between 1808 and 1948.">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="This picture essay by Dr Ben Bethall presents an overview of built prisons and floating prison hulks in the county of Kent, England between 1808 and 1948.">
 
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q4946691" aliases="Borstal">

@@ -2,7 +2,7 @@
 <param ve-config 
        title="Dickens and Dover" 
        author="Professor Carolyn Oulton"
-       banner="/images/banners/19c.jpg"
+       banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
        layout="vtl">
 
 

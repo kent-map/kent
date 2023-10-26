@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="John Boys (1749-1824)" author="Diana Hirst" layout="vtl" 
-banner="/images/banners/18c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q29303" aliases="Canterbury">

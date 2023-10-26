@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Anna Atkins (1799-1871)" author="Trinity Barber and Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Anna Atkins (1799-1871)" author="Trinity Barber and Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q99678204" aliases="Halstead Place">

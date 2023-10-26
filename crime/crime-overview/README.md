@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Crime Fiction" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg" discription="Kent railway stations play crucial roles in several of Sir Arthur Conan Doyle's books. This visual essay further explores Conan Doyle’s connection to the county.">
+<param ve-config title="Crime Fiction" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" discription="Kent railway stations play crucial roles in several of Sir Arthur Conan Doyle's books. This visual essay further explores Conan Doyle’s connection to the county.">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 

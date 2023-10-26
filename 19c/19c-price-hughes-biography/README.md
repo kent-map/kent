@@ -1,7 +1,7 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
 <param ve-config title="Hugh Price Hughes (1847 – 1902)" author="Sue Boulden and Michelle Crowther" layout="vtl" 
-banner="/images/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q4983275" aliases="Buckland">

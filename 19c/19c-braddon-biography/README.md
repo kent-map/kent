@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="M. E. Braddon (1835-1915)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="M. E. Braddon (1835-1915)" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q1752642" aliases="Thanet">
 <param ve-entity eid="Q922739" aliases="Broadstairs">

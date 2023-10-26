@@ -1,6 +1,6 @@
 <param ve-config 
        title="Folkestone"
-       banner="/images/banners/19c.jpg"
+       banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
        layout="index">
 
 # {.cards}

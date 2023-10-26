@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Sheppey at war in the 17th century" author="Dr Melanie Caiazza" layout="vtl" banner="/images/banners/17c.jpg"> 
+<param ve-config title="Sheppey at war in the 17th century" author="Dr Melanie Caiazza" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"> 
 
 <param ve-entity eid="Q1500299" aliases="Sheppey"> 
 <param ve-entity eid="Q1003196" aliases="Sheerness">

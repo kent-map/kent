@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Jerome K. Jerome (1859-1927)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Jerome K. Jerome (1859-1927)" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 #
 

@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Dante Gabriel Rossetti (1828-1882) and Christina Rossetti (1830-1894)" author="Laura Allen" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Dante Gabriel Rossetti (1828-1882) and Christina Rossetti (1830-1894)" author="Laura Allen" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q21993856" aliases="Birchington">
 <param ve-entity eid="Q865021" aliases="Birchington-on-Sea">

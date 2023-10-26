@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="Contagious Diseases Acts and Lock Hospitals" author="Dr Martin Watts" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="Contagious Diseases Acts and Lock Hospitals" author="Dr Martin Watts" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q676689" aliases="Gravesend">

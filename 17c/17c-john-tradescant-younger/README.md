@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="John Tradescant the Younger (1608 – 1662)" author="Dominique Gracia and Hannah Jennison" layout="vtl" banner="/images/banners/17c.jpg">
+<param ve-config title="John Tradescant the Younger (1608 – 1662)" author="Dominique Gracia and Hannah Jennison" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg">
 
 <param ve-entity eid="Q3133261" aliases="Meopham">
 <param ve-entity eid="Q1701960" aliases="John Tradescant the Younger">

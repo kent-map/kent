@@ -3,7 +3,7 @@
 <param ve-config 
        title="Douglas William Jerrold (1803-1857)"
        author="Michelle Crowther"
-       banner="/images/banners/19c.jpg"
+       banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
        layout="vertical">
 
 

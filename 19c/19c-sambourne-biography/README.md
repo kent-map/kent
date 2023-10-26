@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Edward Linley Sambourne (1844-1910)" author="Michelle Crowther" layout="vtl" banner="/images/banners/19c.jpg" Description="Visual essay tracing 19C Punch satirical cartoonist Edward Linley Sambourne and his wife's lifelong relationship with the artistic and literary circle in Kent.">
+<param ve-config title="Edward Linley Sambourne (1844-1910)" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" Description="Visual essay tracing 19C Punch satirical cartoonist Edward Linley Sambourne and his wife's lifelong relationship with the artistic and literary circle in Kent.">
 
 <param ve-entity eid="Q693450" aliases="Greenwich">
 <param ve-entity eid="Q618045" aliases="Margate">

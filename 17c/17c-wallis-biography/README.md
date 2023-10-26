@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="John Wallis (1616-1703)" author="Various" layout="vtl" banner="/images/banners/17c.jpg"> 
+<param ve-config title="John Wallis (1616-1703)" author="Various" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"> 
 
 <param ve-entity eid="Q725261" aliases="Ashford">
 <param ve-entity eid="Q632173" aliases="Godmersham">

@@ -3,7 +3,7 @@
 <param ve-config 
        title="Lady Hester Stanhope (1776-1839)"
        author="Diana Hirst"
-       banner="/images/banners/19c.jpg" 
+       banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
        layout="vertical">
        
 <param ve-entity eid="Q939838" title="Sevenoaks">

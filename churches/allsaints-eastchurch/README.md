@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="All Saints parish church of Eastchurch, Isle of Sheppey" author="Dr Melanie Caizza" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="All Saints parish church of Eastchurch, Isle of Sheppey" author="Dr Melanie Caizza" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q2661688" aliases="Eastchurch">
 <param ve-entity eid="Q1500299" aliases="Isle of Sheppey">

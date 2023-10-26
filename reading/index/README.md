@@ -1,6 +1,6 @@
 <param ve-config 
        title="Recommended Reading"
-       banner="/images/banners/16c.jpg"
+       banner="https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg"
        layout="index">
 
 # {.cards}

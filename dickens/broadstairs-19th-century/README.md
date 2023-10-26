@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Broadstairs in the nineteenth century" author="Carolyn Oulton" layout="vtl" 
-banner="/images/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 Despite being the favoured holiday destination of no less a figure than [Charles Dickens](/dickens/dickens-biography), Broadstairs never aimed to compete with either the much-vaunted gentility of Ramsgate or the mass appeal of Margate. In 1831 the teenage diarist [Emily Shore](/19c/19c-shore-biography) recorded her mother's obvious disappointment at the lack of social amenities and for most of the century it kept out less elegant tourists by the simple expedient of ‘failing to provide facilities which would attract them – no public amusements or music halls. Just a small circulating library with old-fashioned assembly room attached, calculated to attract a steady flow of quiet respectable visitors.’  One journalist commented with patronising approval in 1864 that ‘Broadstairs is a quaint old place, and its inhabitants are still very primitive.’  
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Broadstairs_c13874-68.jpg" label="Broadstairs" attribution="©The British Library Boardc13874-68">

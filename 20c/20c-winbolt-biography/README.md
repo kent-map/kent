@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="S.E. Winbolt (1868-1944)" author="Michelle Crowther" layout="vtl" banner="/images/banners/20c.jpg">
+<param ve-config title="S.E. Winbolt (1868-1944)" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q60108798" aliases="Roman Villa">

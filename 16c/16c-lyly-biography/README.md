@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="John Lyly c.1553 or 1554 – 1606" author="Hannah Jennison and Michelle Crowther" layout="vtl" banner="/images/banners/16c.jpg"> 
+<param ve-config title="John Lyly c.1553 or 1554 – 1606" author="Hannah Jennison and Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg"> 
 
 <param ve-entity eid="Q29303" aliases="Canterbury"> 
 <param ve-entity eid="Q725261" aliases="Ashford">
@@ -24,7 +24,7 @@ As they approach the coastline, the Master of the ship points out: 'the Yonder w
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/British_School%2C_16th_century_-_The_Embarkation_of_Henry_VIII_at_Dover_-_RCIN_405793_-_Royal_Collection.jpg" label="The Embarkation of Henry VIII at Dover" attribution="British School circa 1520-1540, the Royal Collection"> 
 
 After three or four days rest during which they 'spent in viewing the Castell of Douer, the Pyre, the Cliffes, the Road, and Towne, receiuing as much pleasure by the sight of auncient monuments, as by their curteous entertainment, no lesse praising the persons for their good minds, then the place for the goodly buildings'[^ref9] they continued to Canterbury before heading to London. Lyly describes Canterbury as 'an olde Citie, some-what decayed, yet beautifull to beholde, most famous for a Cathedrall Church, the verye Maicstie whereof stroke them into a maze, where they saw many monuments, and hard tel of greater, then either they euer saw or easely would beléeue.' Here Euphues and Philautus meet a ‘comely olde man' named Fidus, who is a beekeeper 'as busie as a Bee, among his Bees' and 'borne in the wilde of Kent, of honest parents'.[^ref10] 
-<param ve-image url="/images/banners/16c.jpg" label="Canterbury" attribution="Kent Maps Online">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg" label="Canterbury" attribution="Kent Maps Online">
 
 In 1583, Lyly took charge of Blackfriars Theatre, after his patron, Edward de Vere secured its lease. It was here that Lyly produced his plays 'Campaspe' and 'Sapho and Phao' which were performed privately for Queen Elizabeth, as well as publically. At some point in the early 1580s, Lyly's patron, Edward de Vere, fell out of favour with Queen Elizabeth I and this may have affected Lyly's fortunes.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/John_Lyly%27s_Six_Court_Comedies_frontispiece.jpg/568px-John_Lyly%27s_Six_Court_Comedies_frontispiece.jpg" label="Six Court Comedies by John Lyly" attribution="Jsw66, via Wikimedia Commons" license="CC BY-SA 4.0">

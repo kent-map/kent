@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="The Hooden Horse: an East Kent tradition" author="Jacqui Stamp" layout="vtl" 
-banner="/images/banners/19c.jpg" description="This visual essay by Jacqui Stamp discusses the mythical but nonetheless enduring folk tradition of the Hooden Horse in Kent from the early 19th century to today.">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="This visual essay by Jacqui Stamp discusses the mythical but nonetheless enduring folk tradition of the Hooden Horse in Kent from the early 19th century to today.">
 
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q736439" aliases="Ramsgate">

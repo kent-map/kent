@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Derek Jarman (1942-1994)" author="Jeremy Page" layout="vtl" 
-banner="/20c/images/Jarman2.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/20c/Jarman__2.jpg">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 <param ve-entity eid="Q2602144" aliases="Old Romney">
 <param ve-entity eid="Q911577" aliases="Dungeness">

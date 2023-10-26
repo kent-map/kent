@@ -1,6 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Mrs Elizabeth Burgess (1737-1825)" author="Stephen Williamson" layout="vtl" 
-banner="/images/banners/18c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 
 <!-- Kent with map centered at Canterbury -->
 <param ve-map center="Q29303" zoom="10">

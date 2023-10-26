@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="G. W. M. Reynolds (1814 – 1879)" author="Peter Merchant" layout="vtl" banner="/images/banners/19c.jpg">
+<param ve-config title="G. W. M. Reynolds (1814 – 1879)" author="Peter Merchant" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q17647042" aliases="Dane John">
 <param ve-entity eid="Q26163" aliases="Sandwich">

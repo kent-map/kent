@@ -1,7 +1,7 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config
        title="Sir John Franklin (16 April 1786 – 11 June 1847)" author="Jacquie Stamp"
-       layout="vtl" banner="/images/banners/19c.jpg">
+       layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 #
 
