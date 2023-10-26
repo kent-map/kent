@@ -11,7 +11,7 @@ This site provides a set of themed essays about Kent, a county in South East Eng
 
 [Mobile Landscapes - Finding Kent Dickensian](dickens/mobile-landscapes)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/mobile-landscapes.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Mobile_Landscapes.jpg)
 
 You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie.
 
@@ -92,7 +92,7 @@ The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum), The murder of 
 
 [16th century](16c)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/16c.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/16c.jpg)
 
 Chatham Dockyard was established, the Battle against the Spanish Armada took place. Industry in the county included textiles, leather-making and iron production. Prophesizing and playwriting.
 
@@ -101,7 +101,7 @@ Chatham Dockyard was established, the Battle against the Spanish Armada took pla
 
 [17th century](17c)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/17c.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c.jpg)
 
 Industry includes production of malt for brewing. Fighting takes place as part of the English Civil War. Scientific discoveries in mathematics, chemistry and anatomy.
 
@@ -110,7 +110,7 @@ Industry includes production of malt for brewing. Fighting takes place as part o
 
 [18th century](18c)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/18c.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c.jpg)
 
 Strategic position of the Medway in relation to European wars. New sea water ‘cures’ see the reinvention of Margate as a fashionable resort.
 
@@ -119,7 +119,7 @@ Strategic position of the Medway in relation to European wars. New sea water ‘
 
 [19th century](19c)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/19c.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/19c.jpg)
 
 Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops. 
 
@@ -127,7 +127,7 @@ Hoy and steam boats, railways and passenger ships brought people to the county i
 
 [20th century](20c)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/20c.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/20c.jpg)
 
 Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
@@ -314,7 +314,7 @@ Joseph Conrad, an extraordinary and significant Polish British literary figure o
 
 [Charles Dickens](dickens)
 
-![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/dickens-head.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Dickens_head.jpg)
 
 From Rochester to Broadstairs on the East coast – wherever you go you can be fairly certain that Dickens has been there before you. One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
 
@@ -364,7 +364,7 @@ Delmonden is a village in Kent that doesn’t actually exist except in Shepherds
 The enchanting story of the adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
 
 .ve-footer
-    - A collaboration between: [![CCCU](https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/CCCU-logo-2colour.svg)](https://www.canterbury.ac.uk/) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/kent/main/images/labs.jpg)](https://labs.jstor.org)
+    - A collaboration between: [![CCCU](https://raw.githubusercontent.com/kent-map/images/main/dickens/CCCU-logo-2colour.svg)](https://www.canterbury.ac.uk/) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/images/main/dickens/JSTOR_Labs_logo.jpg)](https://labs.jstor.org)
     - [![](https://raw.githubusercontent.com/kent-map/kent/main/images/twitter.png)](https://twitter.com/KentMaps1) {.push}
-    - [![DoE participants' showcase](https://raw.githubusercontent.com/kent-map/kent/main/images/dofe-logo.png)](https://dofe.kent-maps.online)    
-    - [![](https://raw.githubusercontent.com/kent-map/kent/main/images/Centre_for_Kent_History_and_Heritage_logo_1.jpg)](https://www.canterbury.ac.uk/arts-and-humanities/research-kent-history-and-archaeology/centre-for-research-in-kent-history-and-archaeology.aspx)
+    - [![DoE participants' showcase](https://raw.githubusercontent.com/kent-map/images/main/misc/dofe-logo.png)](https://dofe.kent-maps.online)    
+    - [![](https://raw.githubusercontent.com/kent-map/images/main/misc/Centre_for_Kent_History_and_Heritage_logo_1.jpg)](https://www.canterbury.ac.uk/arts-and-humanities/research-kent-history-and-archaeology/centre-for-research-in-kent-history-and-archaeology.aspx)
