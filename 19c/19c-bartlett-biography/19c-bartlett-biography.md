@@ -13,6 +13,7 @@ For September that year, Edwin rented a house on the English Channel coast in Ke
 Edwin Senior made several day trips to [Dover](/19c/19c-dover) to visit his son and Adelaide - but by these Dover days, both Bartletts addressed Dyson as their ‘Georgius Rex’ and he was the favoured one. He stayed with them in [Dover](/19c/19c-dover), two or three visits totalling six to nine days – he could not remember how many when asked in court in 1886. Edwin took him for a day trip to Calais, France, paying for that and also for the cash-strapped curate’s various train fares to and fro, plus around London that autumn.
 <br><br>
 Edwin Senior (who knew nothing of Dyson, never met the man) could have told Dyson about Edwin’s kindnesses to him. Paying the fares of this new friend was probably typical behaviour towards someone he admired and trusted.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/16/CALAIS_DOUVRES._1881_-_Sj%C3%B6historiska_museet_-_Fo29648A.jpg" label="Double-hull ferry Calais-Douvres, 1881" attribution="Maritime Museum, Public domain, via Wikimedia Commons">
 
 Georgius Rex Dyson returned to London to a new abode, 18, Parkfields, Putney and started a new job. Promoted, he was in charge of a large parish. On 20 September Edwin travelled up from [Dover](/19c/19c-dover)to Putney, to tell the trusted friend about his new Will. Edwin was leaving all his assets to Adelaide – and told Dyson he had made him an Executor.
 
