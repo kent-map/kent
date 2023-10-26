@@ -64,4 +64,4 @@ You can hear Professor Max Saunders talking about Alfred Cohen on the Kent Maps 
 [Alfred Cohen Painter](https://blogs.kcl.ac.uk/maxsaunders/alfred-cohen-painter-1920-2001/)  
 Alfred Cohen Official - www.instagram.com/alfredcohenofficial/   
 Alfred Cohen Facebook - www.facebook.com/AlfredCohenArtist    
-<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/walmerlifeboat.jpg" label="Alfred Cohen, The Walmer Lifeboat and the Goodwin Sands, 1964, casein on board, 18 x 24 in; 45.7 x 61 cm. © The Artist’s Estate. Photo: Peter Huggins. Arts Council England"> 
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Walmer_lifeboat.jpg" label="Alfred Cohen, The Walmer Lifeboat and the Goodwin Sands, 1964, casein on board, 18 x 24 in; 45.7 x 61 cm. © The Artist’s Estate. Photo: Peter Huggins. Arts Council England"> 

@@ -15,7 +15,7 @@ The people of Folkestone were not immune to the horrors of war in a more direct 
 <param ve-image url="https://stor.artstor.org/stor/c4709d92-4e55-4e57-8e13-8ebd8e7187ed" label="The Road of Remembrance, Folkestone" attribution="© Michelle Crowther">
 
 The sight of able bodied young men, of military age, perambulating along the Leas in August 1914, rather then volunteering to fight in the Army, so enraged a retired Admiral that he decided to do something about it. Admiral Charles Fitzgerald , a Folkestone resident, deputed 30 local women to approach these ‘slackers’ to remind them of their patriotic duty and to present them with an emblem of cowardice – a white feather. Fitzgerald evidently reckoned a man would be more fearful of public humiliation by a woman, than by facing the German army. The white feather scheme spread across the United Kingdom, at a time when all enlistment was on a voluntary basis. The government gave the scheme its tacit report, but enthusiasm faded when the scale of casualties on the western front became apparent and conscription was introduced in 1916.
-<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main//White_Feather_play.jpg" label="First of the Feathers: Soldiers and Suffragettes" attribution="Georgie Oulton">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/White_Feather_play.jpg" label="First of the Feathers: Soldiers and Suffragettes" attribution="Georgie Oulton">
 
 [First of the Feathers: Soldiers and Suffragettes]( https://www.youtube.com/watch?v=461nK7mazNo) Script by Leah Hockley. Performed by Georgie Oulton and boys from the Harvey Grammar School, Folkestone.’
 

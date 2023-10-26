@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# dependencies: gspread oauth2client
+# dependencies: gspread oauth2client requests
 
 import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s :  %(name)s : %(message)s')
@@ -17,6 +17,9 @@ from shutil import copy2
 
 import markdown
 from bs4 import BeautifulSoup
+
+import requests
+logging.getLogger('requests').setLevel(logging.INFO)
 
 if os.path.exists(f'{SCRIPT_DIR}/names_map.tsv'):
   with open(f'{SCRIPT_DIR}/names_map.tsv', 'r') as f:
@@ -145,7 +148,18 @@ def sync_images(essays, images, max=-1, dryrun=False, **kwargs):
     with open(f'{SCRIPT_DIR}/names_map.tsv', 'w') as f:
       for src, dst in names_map.items():
         f.write(f'{src}\t{dst}\n')
-  
+
+def check_images(essays, **kwargs):
+  logger.info(f'check_images: essays={essays}')
+  for page in list_pages(essays):
+    path = f'{essays}/{page}/README.md' if page else f'{essays}/README.md'
+    for img in find_images(path):
+      if 'url' not in img: continue
+      if img['url'].startswith('https://raw.githubusercontent.com/kent-map/images/main/'):
+        found = requests.head(img['url']).status_code == 200
+        if not found:
+          logger.info(f'{page} {img["url"]}')
+    
 def update_google_sheets(**kwargs):
   fields = {
     'Page': 0,
@@ -176,6 +190,7 @@ if __name__ == '__main__':
   parser.add_argument('--debug', type=bool, default=False, action=argparse.BooleanOptionalAction, help='Generate debug output')
   parser.add_argument('--quiet', type=bool, default=False, action=argparse.BooleanOptionalAction, help='Disable logging')
   parser.add_argument('--sync', type=bool, default=False, action=argparse.BooleanOptionalAction, help='Sync images with essays')
+  parser.add_argument('--check', type=bool, default=False, action=argparse.BooleanOptionalAction, help='Check images')
   parser.add_argument('--max', type=int, default=-1, help='Maximum essays to process')
   parser.add_argument('--dryrun', type=bool, default=False, action=argparse.BooleanOptionalAction, help='Do dryrun')
   parser.add_argument('--essays', type=str, default=BASEDIR, help='Essays root directory')
@@ -193,3 +208,5 @@ if __name__ == '__main__':
 
   if args['sync']:
     sync_images(**args)
+  elif args['check']:
+    check_images(**args)
