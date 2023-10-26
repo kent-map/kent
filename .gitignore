@@ -9,8 +9,11 @@ CNAME
 tmp
 creds
 creds.yaml
+gcreds.json
 webapp/config.yaml
 utils/email-client/config.yaml
 utils/iiif-server/config.yaml
 index.xml
 sitemap.xml
+*.pyc
+.vite
