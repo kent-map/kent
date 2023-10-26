@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Dickens and Canterbury" author="Professor Carolyn Oulton" layout="vtl" banner="/dickens/images/banner/19c.jpg">
+<param ve-config title="Dickens and Canterbury" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/dickens/banner/19c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 

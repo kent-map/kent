@@ -34,4 +34,4 @@ After his death in 1870, the areas of Kent most closely associated with Dickens 
 <br><br>
 His novels _Pickwick Papers_, _David Copperfield_, _A Tale of Two Cities_, _Great Expectations_, ‘Our English Watering Place’, ‘Out of Town’ are all associated with Kent.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/56/Charles_Dickens_by_Herbert_Watkins_29_April_1858_%28alternate%29.jpg" label="Charles Dickens, 29 April, 1858" attribution="Herbert Watkins (1828–1916), Public domain, via Wikimedia Commons">
-<param ve-image url="/dickens/images/Dickens_Land_books.jpg">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Dickens_Land_books.jpg">

@@ -19,7 +19,7 @@ See also [Mobile Landscapes](/dickens/mobile-landscapes)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/60/Engraving_of_Dickens_at_Gad%27s_Hill%2C_Samuel_Hollyer.png" label="Dickens at Gad's Hill" attribution="Samuel Hollyer, Public domain, via Wikimedia Commons">
 
 Feeling active? You may want to try this [Dickens and Higham walk](https://explorekent.org/activities/charles-dickens-and-higham-walk/)
-<param ve-image url="/dickens/images/Gadsplan.JPG" label="Gads plan" attribution="©The British Library Board Maps CC.5.C.2. Plate 1">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Gads_plan.JPG" label="Gads plan" attribution="©The British Library Board Maps CC.5.C.2. Plate 1">
 
 Or you can simply explore this map of [Dickens'sHigham](https://www.charlesdickenspage.com/charles-dickens-higham-map.html) from the comfort of your chair.
 

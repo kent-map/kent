@@ -35,7 +35,7 @@ Since 1957, the Hop Hoodening Festival, to bless the hop harvest, has taken plac
 "… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/dickens/19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …"[^ref3] 
 <br>
 "… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …"[^ref4]   
-<param ve-image url="/19c/images/Hoodenhorse.jpg" label="Hooden Horse" attribution="©Carolyn Oulton">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Hooden_horse.jpg" label="Hooden Horse" attribution="©Carolyn Oulton">
 <!--Basemap centred on Ramsgate-->
 <param ve-map center="Q736439" zoom="10">
 

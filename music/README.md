@@ -5,7 +5,7 @@
     a {color: #800000 !important; font-size: 1.2em;}
 </style>
 
-<param ve-config title="Musical Peregrinations" banner=/images/banners/19c.jpg>
+<param ve-config title="Musical Peregrinations" banner=https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg>
 
 ### Music
 

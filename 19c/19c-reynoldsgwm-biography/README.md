@@ -27,7 +27,7 @@ _‘I had a couple of hours to dispose of as best I could. So I thought of takin
 <param ve-map center="Q17647042" zoom="10">
 
 Reynolds’s novel _Mary Price_ (1851–53) is a tale of two cities which takes its heroine once to Paris and more than once to London; but, just as Reynolds resets the novel’s timeframe to the years between 1826 (when the heroine is eleven) and 1835 (when she is a new bride), so he shifts its geographical centre of gravity to the area between Ashford and [Deal](/seascape/deal). Mary Price herself repeatedly gravitates back to Kent, with the help at one point of the famous “Tally Ho” [Canterbury](/19c/19c-canterbury) coach which left from Gracechurch Street in London. Key scenes unfold in various inns and alehouses lost to us because long since reduced to rubble—the Saracen’s Head in Ashford, the Fountain and the Rose in [Canterbury](/19c/19c-canterbury), Wright’s Hotel in [Dover](/dickens/19c-dover) — and on Dover’s Shakespeare Cliff. 
-<param ve-image url="/19c/images/Mary Price on Dover Beach.jpg" label="Mary Price on Dover Beach">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Mary_Price_on_Dover_Beach.jpg" label="Mary Price on Dover Beach">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/29/Shakespeare_Cliff%2C_Dover%2C_1849_RMG_BHC1212.tiff" label="Shakespeares Cliff, Dover" attribution="Clarkson Frederick Stanfield, Public domain, via Wikimedia Commons">
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Turner_Dover_D18185410.jpg" label="Joseph Mallord William Turner, ‘Dover ’, c.1825" attribution="digital image © Tate released under Creative Commons CC-BY-NC-ND">
 <param ve-map center="Q725261" zoom="10">

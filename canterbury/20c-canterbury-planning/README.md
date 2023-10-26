@@ -24,7 +24,7 @@ However, this meant clearing more old buildings, widening narrow streets and reo
 A compromise plan of 1948 removed the ring road to outside the city walls, where later as a dual carriageway it was built but never completed as a full circuit. Some parts of the Holden plan which were realised can be seen, for instance in the transformation of Rose lane from a narrow lane to a broad boulevard which Holden intended to be the central section of his “Civic Way”. As no plan was fully implemented, Canterbury has been left as it is found today, a mix of partially implemented plans. Since local government reorganisation in 1974, greater sensitivity has been shown, one excellent result being the pedestrianisation of the city centre.
 <param ve-image url="https://stor.artstor.org/stor/707a3d41-f05c-49d5-add1-dbc573efec4a" label="Canterbury High Street" attribution="Postcard, pre-1920">
 <param ve-image url="https://stor.artstor.org/stor/4492394e-fa2c-454b-99a9-0520c088b76d" label="Canterbury High Street" attribution="Calum Elliot and Emma Molford, by kind permission">
-<param ve-image url="/canterbury/images/Canterbury High Street.jpg" label="Canterbury High Street" attribution="Martin Crowther, by kind permission">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/canterbury/Canterbury_High_Street.jpg" label="Canterbury High Street" attribution="Martin Crowther, by kind permission">
 <param ve-map center="51.2775389648421, 1.0804745626367283" zoom="15">
 
 #### The building and rebuilding of the bombed city centre

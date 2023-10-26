@@ -6,7 +6,7 @@ Despite being the favoured holiday destination of no less a figure than [Charles
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Broadstairs_c13874-68.jpg" label="Broadstairs" attribution="©The British Library Boardc13874-68">
 
 Sensation author [Mary Braddon](/19c/19c-braddon-biography) visited in 1878, but for the sake of her children’s health rather than any excitement the town had on offer. It is very much the Victorian matron rather than the aider and abetter of _Lady Audley_ who writes about the 'need of strengthening breezes' as a reason for the trip.
-<param ve-image url="/19c/images/braddon family.jpg" label="M.E. Braddon and family" attribution="©ICVWW">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Braddon_family.jpg" label="M.E. Braddon and family" attribution="©ICVWW">
 
 An 1885 volume on '_How We Did Without Lodgings at the Seaside_ charts the successful efforts of a family in straitened circumstances to fend for themselves in a rented house in Broadstairs, a feat which the writer claims would have been impossible in a more fashionable resort such as Brighton. Unlike the overtly snooty [Folkestone](/19c/19c-folkestone), Broadstairs might almost have welcomed this appraisal. Certainly guides to the town were far from resenting [Dickens](/dickens-biography) for his picture of ['Our Watering Place'](https://www.djo.org.uk/household-words/volume-iii/page-433.html) as having 'been left somewhat high and dry. by the tide of years.'
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/ca/York_Gate_Broadstairs_England.jpg" label="York Gate, Broadstairs" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
@@ -16,7 +16,7 @@ _Sometimes, a misguided wanderer of a Ventriloquist, or an Infant Phenomenon, or
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/p15878coll5_69_large.jpg" label="Bosco at the Assembly Rooms, Broadstairs, undated playbill with 1871 program attached" attribution="The Magic Posters Collection, Harry Ransom Center, The University of Texas at Austin">
     
 The Assembly Rooms were still providing accessible entertainment such as conjuring and thought reading in the last decades of the century. George and Weedon [Grossmith](/19c/19c-grossmith-biography)s' Charles Pooter – who is understandably wary of Margate - expects his family to be safe in Broadstairs at least. It is somehow typical of the enterprising Lupin that even in this drowsiest of [seaside](/19c/19c-seaside) resorts he quickly discovers the appearance of Polly Presswell, ‘England’s Particular Spark’.
-<param ve-image url="/dickens/images/AlfredCapper.jpg" label="Alfred Capper" attribution="©The British Library Board c029084022-089 Evan.2795">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Alfred_Capper.jpg" label="Alfred Capper" attribution="©The British Library Board c029084022-089 Evan.2795">
 
 But overall the image of the town remained decorous even in the tempestuous 1890s. Israel Zangwill captured the mood perfectly in a comic account of:
 _a jolly old waterman, who paddles about apparently to pick up exhausted bathers. One morning as I was swimming past his boat he warned me back. “Any danger?” I asked. “Ladies,” he replied, ambiguously enough. It thus transpired that his function is to preserve a scientific frontier between the sexes.’_  

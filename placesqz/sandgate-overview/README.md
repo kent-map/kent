@@ -42,7 +42,7 @@ The antiquarian and writer, Wilfred Cripps (1841-1903), regularly visited Farlei
 <param ve-image url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" label="1st Royal Scots Regt. at the Shorncliffe Barracks" attribution="Kent Maps Online Postcard Collection"> 
 
 Not long after this, [H.G. Wells](https://kent-maps.online/20c/20c-wellshg-biography/ ) moved to Beach Cottage  on the advice of his doctors, then later Arnold House, before commissioning his own house near the Riviera. He entertained many of the leading writers of the day here, including George Bernard Shaw, Henry James, Arnold Bennett, and [Joseph Conrad]( https://kent-maps.online/19c/19c-conrad-biography/).[^ref10]  His novel _The Sea Lady_ is set in Sandgate.
-<param ve-image url="/images/spade%20MJC.jpg" label="Spade House" attribution="Photographed by Martin Crowther">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main//Spade_MJC.jpg" label="Spade House" attribution="Photographed by Martin Crowther">
 
 Bithia Croker, writer of military life in India, lived at 10, Radnor Cliffe, not far from Wells and set her novel [Miss Balmaine’s Past]( https://kent-maps.online/19c/19c-croker-missbalmaine/) in the nearby Romney Marshes and the playwright Henry Hamilton lived at The Haven until his death on 4 September 1918. He sang his ‘world-famous’ song “Tommy Atkins” from the musical play 'A Gaiety Girl' at Hythe Town Hall in February 1900.[^ref11] 
 <br><br>

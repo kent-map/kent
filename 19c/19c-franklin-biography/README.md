@@ -9,7 +9,7 @@
 <br><br>
 “I wish you could see the ship now; she is almost as clean as she will be at sea, and quite ready for sailing. The officers and the crew all fine men and in excellent spirits. This day we had the happiness of joining together on board in Divine worship to praise God for past mercies and to implore His guiding and protecting providence. In this spirit we all hope to begin, continue and end our voyage.”   
 From _The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:_   
-<param ve-image url="/19c/images/franklin.jpg" title="Sir John Franklin">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Franklin.jpg" title="Sir John Franklin">
 
 **DEPARTURE OF THE “EREBUS” AND “TERROR” ON THE ARCTIC EXPEDITION**
 <br><br>
@@ -23,7 +23,7 @@ From _The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:_
   You live their fury out right gallantly,  
   And after years you have perchance to roam  
   That science crown’d you safely seek your home!   
-<param ve-image url="/19c/images/erebus.jpg" title="Illustration of the ships Erebus and Terror leaving Greenhithe" attribution="Published in the Illustrated London News, 24th May 1845, p. 328."> 
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Erebus.jpg" title="Illustration of the ships Erebus and Terror leaving Greenhithe" attribution="Published in the Illustrated London News, 24th May 1845, p. 328."> 
 
 On Monday [19 May 1845] H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America.
 <br><br>

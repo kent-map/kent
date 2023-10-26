@@ -1,6 +1,6 @@
 <param ve-config 
        title="Canterbury"
-       banner="/images/20c.jpg">
+       banner="https://raw.githubusercontent.com/kent-map/images/main//20c.jpg">
 
 # &nbsp; 
 <param class="cards">

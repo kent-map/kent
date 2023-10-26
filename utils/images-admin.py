@@ -123,11 +123,14 @@ def sync_images(essays, images, max=-1, dryrun=False, **kwargs):
         dst = f'{images}/{dst_img_path}'
         img_url = f'https://raw.githubusercontent.com/kent-map/images/main/{dst_img_path}'
         
+        md = md.replace(src_img, img_url)
+        md_updated = True
         if os.path.exists(src) and not os.path.exists(dst):
           logger.debug(f'{src} ({os.path.exists(src)}) {dst} ({os.path.exists(dst)}) {img_url}')
           move_image(src, dst, img, dryrun=dryrun, **kwargs)
-          md = md.replace(src_img, img_url)
-          md_updated = True
+          #md = md.replace(src_img, img_url)
+          #md_updated = True
+
     if md_updated:
       num_updated += 1
       if dryrun:

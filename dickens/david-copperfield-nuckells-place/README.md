@@ -1,7 +1,7 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config
        title="2 Nuckell’s Place, Victoria Parade, Broadstairs" 
-       banner="/dickens/images/david-copperfield-banner.jpg"
+       banner="https://raw.githubusercontent.com/kent-map/images/main/dickens/David_Copperfield_banner.jpg"
        author="Professor Carolyn W. de la L. Oulton"
        layout="vtl">
 
