@@ -5,7 +5,7 @@
     a {color: #800000 !important; font-size: 1.2em;}
 </style>
 
-<param ve-config title="19th Century Kent" banner=https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg>
+<param ve-config title="19th Century Kent" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 
 [Overview](19c-kent)
@@ -19,6 +19,7 @@
 [Jane Austen](19c-austen-biography)  
 [Alfred Austin](19c-austin-biography)    
 [Robert Barr](19c-barr-biography)  
+[Adelaide Bartlett](19c-bartlett-biography)  
 [R. D. Blackmore](19c-blackmore-biography)  
 [M.E. Braddon](19c-braddon-biography)   
 [John Brent](19c-brent-biography)   
