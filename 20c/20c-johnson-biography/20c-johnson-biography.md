@@ -22,21 +22,20 @@ On 24th May, 19.5 days after she left Croydon, a battered and blistered Amy John
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Amy_Johnson_1930_NLA15611-2423.jpg" label="Amy Johnson, 1930, Australia" attribution="National Library of Australia, Fairfax Corporation, Public domain, via Wikimedia Commons">
 
 Amy became an overnight international celebrity. People could identify with her, an ordinary woman who had done an extraordinary thing, and she inspired a whole generation battling a global depression.
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/87/Amy_Johnson_1930-06-14.jpg" label="Amy Johnson, 14 June 1930 in her Black Hawk Moth leaving Australia for Newcastle" attribution="Unknown, The Age Newspaper">
+
 Amy spent the 1930s breaking more aviation records and was a fierce advocate for women’s role in aviation and engineering. But she struggled to balance the celebrity lifestyle that funded her dangerous career with a desire for privacy and love.
 <br><br>
 One of the very first ‘influencers’, at the height of her fame the world hung on her every word. In 1932, she married fellow dare-devil pilot, Jim Mollinson; it was not a happy marriage and they divorced in 1938.
-<br><br>
-When the war came, Amy joined the Air Transport Auxiliary, a civilian organisation attached to the RAF tasked with ferrying aircraft from the factories where they were built to airfields around the country where they were flown into battle.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/87/Amy_Johnson_1930-06-14.jpg" label="Amy Johnson, 14 June 1930 in her Black Hawk Moth leaving Australia for Newcastle" attribution="Unknown, The Age Newspaper">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b0/Womens_whos_who_32.jpg" label="Women's Who's Who, 1932" attribution="anon. for "flight", Public domain, via Wikimedia Commons">
 
+When the war came, Amy joined the Air Transport Auxiliary, a civilian organisation attached to the RAF tasked with ferrying aircraft from the factories where they were built to airfields around the country where they were flown into battle.
+<br><br>
 On 5 January 1941, Amy took off in an Airspeed Oxford on a ferry flight from RAF Squires Gate, Blackpool, heading for RAF Kidlington, near Oxford. She never arrived.
 <br><br>
 Later that day, a wartime convoy of ships in the Thames Estuary witnessed a plane crash into the sea. A dramatic rescue attempt failed to save the pilot and also claimed the life of the captain of the vessel that went to their aid.
 <br><br>
-A proof of death case held in December 1943 ruled the pilot lost in the Thames Estuary that day was Amy Johnson.
-<br><br>
-Her body and the wreckage of the plane were never found. She was just 37 years old.
+A proof of death case held in December 1943 ruled the pilot lost in the Thames Estuary that day was Amy Johnson. Her body and the wreckage of the plane were never found. She was just 37 years old.
 <br><br>
 The RAF Accident Record Card for Amy Johnson’s crash records Herne Bay, Kent, as the end point of her final flight. She is commemorated in the town by a life size bronze statue on the seafront.
 <br><br>
