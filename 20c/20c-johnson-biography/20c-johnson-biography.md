@@ -3,6 +3,7 @@ Amy Johnson (1903-1941), CBE, was a record breaking pilot and engineer, most fam
 After obtaining a degree in Economics from Sheffield University, Amy’s restless spirit drove her to seek freedom and independence and in 1927 she moved to London. She found a secretarial role working for William Crockers firm of solicitors.
 <br><br>
 In 1928, she found lodgings in Maida Vale, where a visit to Stag Lane Aerodrome one Saturday afternoon changed everything. Fascinated with the little biplanes taking off and landing at the aerodrome, Amy envied the pilots and became obsessed with flying.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Amy_Johnson_Festival%2C_Kingston_upon_Hull_-_geograph.org.uk_-_5281693.jpg" label="Amy Johnson Festival, Kingstone upon Hull" attribution="Bernard Sharp, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Bored with office life and devastated after a failed seven year love affair, Amy turned her back on her steady job and hopes of marriage, and went in pursuit of her first love of speed and adventure; she decided to learn to fly.
 <br><br>
