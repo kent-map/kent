@@ -1,7 +1,5 @@
-Amy Johnson (1903-1941), CBE, was a record breaking pilot and engineer, most famous for being the first woman to fly solo from England to Australia in 1930.
+Amy Johnson (1903-1941), CBE, was a record breaking pilot and engineer, most famous for being the first woman to fly solo from England to Australia in 1930. She grew up in Hull and was a tomboy with an obsession for sport, forward thinking, unconventional and adventurous.
 <br><br>
-Amy grew up in Hull, England. She was a tomboy with an obsession for sport, forward thinking, unconventional and adventurous.
-
 After obtaining a degree in Economics from Sheffield University, Amy’s restless spirit drove her to seek freedom and independence and in 1927 she moved to London. She found a secretarial role working for William Crockers firm of solicitors.
 <br><br>
 In 1928, she found lodgings in Maida Vale, where a visit to Stag Lane Aerodrome one Saturday afternoon changed everything. Fascinated with the little biplanes taking off and landing at the aerodrome, Amy envied the pilots and became obsessed with flying.
@@ -11,6 +9,7 @@ Bored with office life and devastated after a failed seven year love affair, Amy
 In 1929 Amy obtained her pilot’s licence and in the same year became the first British female ground engineer; at one time the only one in the world.
 <br><br>
 In January 1930 Amy announced her plans for a solo flight from England to Australia. She wanted to beat Bert Hinkler’s 15.5 day record.
+<param ve-video="<iframe width="560" height="315" src="https://www.youtube.com/embed/HWkAib0U3hg?si=ywDT2Q6JS2Q7pp92" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 When Amy Johnson took off from Croydon Airport on 5th May 1930 in a second-hand, open cockpit, wood and fabric biplane she called ‘Jason’, the furthest she had flown was from London to Hull, and she had held her pilot’s licence for only ten months.
 <br><br>
