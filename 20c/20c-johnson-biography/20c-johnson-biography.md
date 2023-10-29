@@ -1,3 +1,9 @@
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
+
+<param ve-config title="Amy Johnson" author="Jane Priston" layout="vtl" banner="https://stor.artstor.org/stor/9ac45485-b2cf-4065-90b5-f363a95788a8">
+
+<param ve-entity eid="Q929286" aliases="Herne Bay">
+
 Amy Johnson (1903-1941), CBE, was a record breaking pilot and engineer, most famous for being the first woman to fly solo from England to Australia in 1930. She grew up in Hull and was a tomboy with an obsession for sport, forward thinking, unconventional and adventurous.
 <br><br>
 After obtaining a degree in Economics from Sheffield University, Amy’s restless spirit drove her to seek freedom and independence and in 1927 she moved to London. She found a secretarial role working for William Crockers firm of solicitors.
