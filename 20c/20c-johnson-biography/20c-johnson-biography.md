@@ -17,7 +17,8 @@ With no radio or long range weather information and only the most basic maps, Am
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/09/Amy_Johnson_and_Jason_%283%29.jpg" label="Amy Johnson and 'Jason'" attribution="National Library of Australia, Fairfax Corporation, Public domain, via Wikimedia Commons">
 
 It is not unfair to say Amy crashed her way to Australia, pushing herself to the very limits both physically and mentally. She did not beat the speed record after encountering appalling monsoon weather, but she never gave up.
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Amy_Johnson_1930-1931.jpg" label="Amy Johnson 1930-31" attribution="liz west from Boxborough, MA, via Wikimedia Commons" license="CC BY 2.0"> 
+
 On 24th May, 19.5 days after she left Croydon, a battered and blistered Amy Johnson touched down in Darwin, Australia and flew into the history books. The 26 year old typist from Hull had become the first woman to fly solo from England to Australia and the world fell in love with her.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Amy_Johnson_1930_NLA15611-2423.jpg" label="Amy Johnson, 1930, Australia" attribution="National Library of Australia, Fairfax Corporation, Public domain, via Wikimedia Commons">
 
@@ -40,5 +41,6 @@ A proof of death case held in December 1943 ruled the pilot lost in the Thames E
 The RAF Accident Record Card for Amy Johnson’s crash records Herne Bay, Kent, as the end point of her final flight. She is commemorated in the town by a life size bronze statue on the seafront.
 <br><br>
 The circumstances surrounding Amy’s death remain a mystery to this day. Various experts have speculated as to why Amy was off course and the reasons she crashed, but many questions remain unanswered.
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/20/Amy_Johnson%2C_Herne_Bay_-_geograph.org.uk_-_5262914.jpg" label="Amy Johnson, Herne Bay" attribution="pam fray, via Wikimedia Commons" license="CC BY-SA 2.0">
+  
 Amy Johnson was one of the world’s greatest female pilots and an icon of her era. She died serving her country during a World War. Amy’s Australia flight remains one of the most outstanding solo achievements of all time. Despite her story has been largely lost to history, she leaves an enduring legacy. Her bravery, voice and contribution inspired a whole generation and has helped pave the way for women in aviation and engineering worldwide.
