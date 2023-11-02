@@ -189,6 +189,14 @@ Elizabeth Duffield-Fuller lives, works and studies at Aberystwyth with her husba
 
 Laurie Duggan was born in Melbourne and was involved in the poetry worlds of that city and Sydney through the 1970s and 80s. In 2006 he moved to England, living in Faversham, Kent until 2018 when he returned to Sydney.  His most recent books are Homer Street (Giramondo 2020), Selected Poems 1971-2017 (Shearsman 2018), No Particular Place To Go (Shearsman 2017).
 
+## Martin Easdown
+
+[Martin Easdown]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/a7cb2a51-0f04-4108-9e6a-faaf8dc54114)
+
+Martin Easdown is a well-respected Kent historian who has been researching and publishing books on Folkestone, Hythe, and other areas of Kent since 1996, when his first book _A Grand Old Lady_ appeared. His great interest however is seaside pleasure piers and other coastal leisure architecture, and he has extensively researched their development and history. He has held the post of Archivist for the National Piers Society for thirty years and is the leading authority on the history of the seaside pleasure pier.
+
 ## Martin Edwards
 
 [Martin Edwards]()
@@ -461,7 +469,15 @@ Dr Jacquie Stamp has completed a PhD in English Literature at Canterbury Christ 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Marnie.jpg)
 
-Marnie Stanley is a student at Canterbury Christ Church University. Twitter: @marnie_moonchild_
+Marnie Stanley is a student at Canterbury Christ Church University. 
+
+## Rose Storkey
+
+[Rose Storkey]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/daae31e7-c7ac-4f8a-8f79-540f7deb2320)
+
+Rose Storkey grew up with murder in the blood - or rather, on the dining room table. Her father, an amateur criminologist, piled his books high and introduced poisonings - and deaths - into conversations. Rose has never grown out of her penchant for mysteries and 'Oh damn the chloroform': Adelaide Bartlett's Family of Secrets and the Pimlico Mystery (Brown Dog Books, 2022) is her first book.
 
 ## Sheila Sweetinburgh
 
