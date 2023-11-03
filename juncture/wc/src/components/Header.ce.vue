@@ -24,7 +24,7 @@
       :contact="props.contact"
       :height="backgroundImage ? navbarHeight : height"
       :background="backgroundColor"
-      :alpha="backgroundImage ? 0.2 : 0"
+      :alpha="backgroundImage ? 0.4 : 0"
       :offset="backgroundImage ? navbarHeight : 0"
     >
 
@@ -68,7 +68,7 @@
   // const navEl = ref<string>()
   const entities = ref<string[]>([])
   const entity = ref<any>()
-  const backgroundColor = ref<string>('#444A1E')
+  const backgroundColor = ref<string>()
   const backgroundImage = ref<string>()
 
   const navEl = ref<HTMLUListElement>()

@@ -75,6 +75,7 @@
   watch(props, () => applyProps())
 
   function applyProps() {
+    console.log('applyProps', toRaw(props))
     shadow.value.style.height = `${props.height}px`
     // if (props.background) host.value.style.backgroundColor = props.background
     if (props.offset) shadow.value.style.marginTop = `-${props.offset}px`
@@ -82,8 +83,9 @@
       host.value.classList.add('sticky')
       host.value.style.position = 'sticky'
       // host.value.style.top = '0'
-      // if (props.alpha) host.value.style.background = `rgba(0, 0, 0, ${props.alpha})`
-      host.value.style.background = '#444A1E'
+      if (props.alpha) host.value.style.background = `rgba(0, 0, 0, ${props.alpha})`
+      // host.value.style.background = '#444A1E'
+      // host.value.style.background = props.background || '#000'
       host.value.style.opacity = '100'
       host.value.style.marginTop = `-${props.offset}px`
     }
