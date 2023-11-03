@@ -1,5 +1,5 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Adelaide Bartlett" author="Rose Storkey" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg">
+<param ve-config title="Adelaide Bartlett" author="Rosemary Storkey" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg">
 
 <param ve-entity eid="Q179224" aliases="Dover">
 
@@ -30,4 +30,3 @@ From 8 December Edwin became ill and he had no idea why.  Christmas was a terrib
 Both Adelaide and Dyson were arrested, but at the start of the trial the charges against Dyson were dropped by the prosecution’s request. While the foreman of the jury noted that ‘grave suspicion’ attached to Adelaide Bartlett, the prosecution was unable to establish the means by which murder could have been committed and she was acquitted.
 Alfred Hitchcock described the Pimlico Mystery as one of ‘the strangest stories’ he had ever heard and crime writer [Julian Symons](/20c/20c-symons-biography) fictionalised the case in _Sweet Adelaide_ (1980). Edwin Bartlett’s death by chloroform poisoning still attracts speculation and a range of theories. Murder, accident or self-killing? But Adelaide’s backstory, her heritage and multi-generational family secrets came to light only recently, forming the subject of [_Oh Damn The Chloroform! Adelaide Bartlett’s Family of Secrets and The Pimlico Mystery_](https://www.browndogbooks.uk/products/oh-damn-the-chloroform-rose-storkey). 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bottle_of_chloroform%2C_United_Kingdom%2C_1896-1945_Wellcome_L0058271.jpg" label="Bottle of Chloroform, 1896-1945 Wellcome L0058271" attribution="Wellcome Images, via Wikimedia Commons" license="CC BY 4.0"> 
-

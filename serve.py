@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-Python dev server for Kent Maps site.
+Python dev server for Plant Humanities Lab site.
 Dependencies: bs4 fastapi html5lib Markdown pymdown-extensions PyYAML uvicorn
 '''
 
@@ -26,7 +26,7 @@ import uvicorn
 
 from fastapi import FastAPI
 from fastapi.responses import Response
-app = FastAPI(title='Kent Maps', root_path='/')
+app = FastAPI(title='Plant Humanities Lab', root_path='/')
 
 media_types = {
   'css': 'text/css',
@@ -52,7 +52,7 @@ url = config.get('url', '')
 gh_owner = config.get('github', {}).get('owner', '')
 gh_repo = config.get('github', {}).get('repo', '')
 gh_branch = config.get('github', {}).get('branch', '')
-components = config.get('components', '').replace('/juncture/dist/js/index.js', 'http://localhost:5173/src/main.ts') if LOCAL_WC else config.get('components', '')
+components = config.get('components', '').replace('/juncture/wc/dist/js/index.js', 'http://localhost:5173/src/main.ts') if LOCAL_WC else config.get('components', '')
 
 jsonld_seo = {
   '@context': 'https://schema.org',
@@ -80,11 +80,11 @@ seo = f'''
 '''
 
 not_found_page = open(f'{BASEDIR}/404.html', 'r').read()
-header = open(f'{BASEDIR}/_includes/header.html', 'r').read()
-footer = open(f'{BASEDIR}/_includes/footer.html', 'r').read()
+header = open(f'{BASEDIR}/_includes/header.html', 'r').read() if os.path.exists(f'{BASEDIR}/_includes/header.html') else ''
+footer = open(f'{BASEDIR}/_includes/footer.html', 'r').read() if os.path.exists(f'{BASEDIR}/_includes/footer.html') else ''
 favicon = open(f'{BASEDIR}/favicon.ico', 'rb').read() if os.path.exists(f'{BASEDIR}/favicon.ico') else None
 
-html_template = open(f'{BASEDIR}/_layouts/default.html', 'r').read()
+html_template = open(f'{BASEDIR}/_layouts/default.html', 'r').read().replace('/essays', 'http://localhost:8080/')
 html_template = re.sub(r'^\s*{%- include header.html -%}', header, html_template, flags=re.MULTILINE)
 html_template = re.sub(r'^\s*{%- include footer.html -%}', footer, html_template, flags=re.MULTILINE)
 
@@ -116,7 +116,10 @@ def html_from_markdown(md, baseurl):
     if not src.startswith('http') and not src.startswith('/'):
       img['src'] = f'{baseurl}{src}'
   for param in soup.find_all('param'):
-    param.parent.insert_after(param)
+    node = param.parent
+    while node.next_sibling.name == 'param':
+      node = node.next_sibling
+    node.insert_after(param)
   for heading in soup.find_all('h1'):
     if heading.renderContents().decode('utf-8').strip() == '':
       pass # heading.decompose()
@@ -132,7 +135,6 @@ async def serve(path: Optional[str] = None):
   local_file_path = f'{BASEDIR}/{"/".join(path)}' if ext else f'{BASEDIR}/{"/".join(path)}/README.md'
   if not os.path.exists(local_file_path):
     return Response(status_code=404, content=not_found_page, media_type='text/html')
-  logger.info(f'GET {local_file_path}')
   if ext == 'ico':
     content = favicon
   elif ext in ['jpg', 'jpeg', 'png', 'svg']:
@@ -146,7 +148,7 @@ async def serve(path: Optional[str] = None):
 
 if __name__ == '__main__':
   logger.setLevel(logging.INFO)
-  parser = argparse.ArgumentParser(description='Kent Maps dev server')  
+  parser = argparse.ArgumentParser(description='Plant Humanities Lab dev server')  
   parser.add_argument('--reload', type=bool, default=True, help='Reload on change')
   parser.add_argument('--port', type=int, default=8080, help='HTTP port')
   parser.add_argument('--localwc', action=argparse.BooleanOptionalAction, help='Use local web components')
