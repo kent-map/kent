@@ -13,7 +13,7 @@ github:
   repo: kent
   branch: gh-pages
 
-url: https://beta.kent-maps.online/
+url: https://www.kent-maps.online/
 baseurl: /
 
-components: /juncture/dist/js/index.js
+components: /juncture/wc/dist/js/index.js
