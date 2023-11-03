@@ -914,7 +914,7 @@ function parseUrl(href) {
 }
   
   #essay-component, #essay > section:last-of-type  {
-    padding-bottom: 80vh; /* Enables srolling all content through active paragraph region at top*/
+    padding-bottom: 120vh; /* Enables srolling all content through active paragraph region at top*/
   }
   
   .visual-essay {

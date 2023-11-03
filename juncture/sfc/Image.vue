@@ -152,7 +152,15 @@ module.exports = {
         position: 'relative'
       }
     },
-    viewerItems() { return this.items.filter(item => item.viewer === this.$options.name) },
+    viewerItems() { return this.items
+      .filter(item => item.viewer === this.$options.name)
+      .map(item => {
+        if (item.manifest && item.manifest.indexOf('http') !== 0) {
+          item.manifest = `https://iiif.juncture-digital.org/${item.manifest}/manifest.json`
+        }
+        return item
+      }) 
+    },
     manifest() { return this.currentItem ? `<a href="${this.currentItem.manifest}"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" height="30" width="30"></a>` : null},
     mode() { return this.viewerItems.length > 0 ? this.viewerItems[0].mode || 'gallery' : 'gallery'},
     fit() { return this.currentItem && this.currentItem.fit
