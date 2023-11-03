@@ -18,6 +18,9 @@ In this example a Wikimedia Commons image is again used to dynamically create an
 In this example the `title` attribute is used to override the auto-generated label attribute in the IIIF manifest.
 <param ve-image manifest="https://iiif.juncture-digital.org/wc:Lilac-breasted_roller_(Coracias_caudatus_caudatus)_Botswana.jpg/manifest.json" title="Lilac-breasted roller">
 
+In this example the shortform version of the manifest URL is used.
+<param ve-image manifest="wc:Lilac-breasted_roller_(Coracias_caudatus_caudatus)_Botswana.jpg">
+
 # Using a self-hosted image in Github
 
 In this example an image hosted in a Github repository is used to create an IIIF version of the image used in image viewer.  The `url` attribute in the ve-image tag references the file using the Github `raw.githubusercontent.com` URL syntax.  Other IIIF properties are also defined using ve-image attributes.  Recognized attributes are `label`, `description`, `attribution`, and `license`.
