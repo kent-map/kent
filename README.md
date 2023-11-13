@@ -365,6 +365,6 @@ The enchanting story of the adventures of Branwell, a rat and a young wolf calle
 
 .ve-footer
     - A collaboration between: [![CCCU](https://raw.githubusercontent.com/kent-map/images/main/dickens/CCCU-logo-2colour.svg)](https://www.canterbury.ac.uk/) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/images/main/dickens/JSTOR_Labs_logo.jpg)](https://labs.jstor.org)
-    - [![](https://raw.githubusercontent.com/kent-map/kent/main/images/twitter.png)](https://twitter.com/KentMaps1) {.push}
+    - [![](https://raw.githubusercontent.com/kent-map/images/main/misc/twitter.png)](https://twitter.com/KentMaps1) {.push}
     - [![DoE participants' showcase](https://raw.githubusercontent.com/kent-map/images/main/misc/dofe-logo.png)](https://dofe.kent-maps.online)    
     - [![](https://raw.githubusercontent.com/kent-map/images/main/misc/Centre_for_Kent_History_and_Heritage_logo_1.jpg)](https://www.canterbury.ac.uk/arts-and-humanities/research-kent-history-and-archaeology/centre-for-research-in-kent-history-and-archaeology.aspx)
