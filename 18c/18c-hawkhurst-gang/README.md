@@ -19,4 +19,4 @@ The gang, in a rage, tried to destroy the Goudhurst militia, threatening to raze
 
 When the smoke cleared, two smugglers lay dead, with the rest fleeing in fear. It was the beginning of the end for the gang, an end that would finally come after numerous murders, manhunts, and trials. 
 
-The Hawkhurst Gang would be a sign of Kent’s 18th-century bad old days. One Hundred years later, Goudhurst would commemorate its victory over the gang in a public celebration. The story of the gang, and its defeat, is etched into the villages of Kent, and remains so to this day. 
+The Hawkhurst Gang would be a sign of Kent’s 18th-century bad old days. One Hundred years later, Goudhurst would commemorate its victory over the gang in a public celebration. 
