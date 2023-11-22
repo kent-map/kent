@@ -1,10 +1,6 @@
 Kent’s 18th-century Gang War 
 
- 
-
 Joseph Dragovich 
-
- 
 
 In December, 1744, the Hawkhurst Gang arrived in Shoreham, West Kent, firing their weapons into the air and sending the whole town ducking for cover. But this wasn’t just a social call, they wanted someone, a snitch that had landed one of their leaders in jail. The informant, a former member of the gang named James “Club James” Floyd, and his customs handlers tried to hide in a pub, but the smugglers forced them out by threatening to burn it to the ground. Taking them bound to Hawkhurst, the gang tortured them for days, and while the customs men eventually escaped, Club James died at the hands of his former fellows, pinned to the low water mark and slowly drowned by the tide. 
 
