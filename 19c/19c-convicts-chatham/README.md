@@ -30,12 +30,11 @@ Bethell, Ben. _‘Star Men’ in English Convict Prisons, 1879-1948_. London: Ro
 Brown, Alyson. _English Society and the Prison: Time, Culture and Politics in the Development of the Modern Prison, 1850-1920_. Woodbridge: Boydell, 2003.   
 
 ### References
-
 [^ref1]: _Report of the commissioners appointed to inquire into the operation of the acts … relating to transportation and penal servitude_. PP, 1863 [3190], XXI, 1, pp.102, 51, 447-8.    
 [^ref2]: HC Deb 15 June 1882 vol. 270 cc.1262–3.   
 [^ref3]: Anon. _The Mark of the Broad Arrow; or The Life of A Convict by No.77_. London: R.A. Everett, 1903, p.16; HC Deb 24 March 1898 vol. 55 c.871.   
 [^ref4]: _Report of the visitors of Her Majesty's convict prison at Chatham as to the treatment of certain prisoners convicted of treason felony_. PP, 1890 C.6016, XXXVII, 629, p.140.   
 [^ref5]: _Report of the directors of convict prisons_. PP, 1867-68 [4083], XXXIV, 519, p.191.   
 [^ref6]: Austin Bidwell. _From Wall Street to Newgate via The Primrose Way_. Hartford, CT: Bidwell Publishing Company, 1895, pp.398-9.   
-[^ref7]: _Report of the commissioners appointed to inquire into the working of the penal servitude acts_. PP, 1878-79 [C.2368], XXXVII, 1, pp.210, 213, 589.   
+[^ref7]: _Report of the commissioners appointed to inquire into the working of the penal servitude acts_. PP, 1878-79 C.2368, XXXVII, 1, pp.210, 213, 589.   
 [^ref8]: Anon. _Twenty-Five Years in Seventeen Prisons: The Life Story of an Ex-Convict, With his Impressions of our Prison System By ‘No.7’_. London: Hutchinson & Co., 1906, p.71.   
