@@ -1,4 +1,7 @@
-Charles Carrick
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
+<param ve-config title="Charles Carrick" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+
+<param ve-entity eid="Q2317326" aliases="Thanington">
 
 Reflections in Thanington Churchyard
 <br><br>
