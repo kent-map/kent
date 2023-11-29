@@ -5,7 +5,7 @@
 
 Writing master and private tutor, Charles Carrick, was born in Ticehurst on 31 March 1823. The son of a carrier, Carrick began teaching in 1849. He set up Kent House Academy, in Best Lane, Canterbury which offered day and evening classes to pupils in writing, history, geography, arithmetic, grammar and composition. In his advertisements he offered 'to change the most cramped and illegible scrawl to a beautiful, free, flowing style of writing' and offered to calligraphy family crests and mottos in black, white, coloured and gold and silver inks. He listed several illustrious churchmen as providing testimonials for his work including the late [Archbishop Archibald Tait](/19c/19c-tait-biography). 
 
-In 1870, his poetry anthology _Poems: serious, humorous, and satirical_ was published by Ginder of Canterbury and dedicated to Lord Athlumney, who was the member of parliament for Canterbury between 1854-1865. The collection contained 342 poems representing (how many year's work?)
+In 1870, his poetry anthology _Poems: serious, humorous, and satirical_ was published by Ginder of Canterbury and dedicated to Lord Athlumney, who was the member of parliament for Canterbury between 1854-1865. The collection contained 342 poems of which several are calculated to flatter the subscribers of his volume of which there were XX. He raised the salute of 'Long live the Dean' to Henry Alford and thanked God "for such a friend" as the Bishop of Dover in poems dedicated to these men. 
 
 Reflections in Thanington Churchyard
 <br><br>
