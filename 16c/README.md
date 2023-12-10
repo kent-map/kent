@@ -1,4 +1,4 @@
-.ve-header label="16th Century Kent" background=gh:kent-map/kent/images/banners/16c.jpg sticky=true
+.ve-header label="16th Century Kent" background=gh:kent-map/images/banners/16c.jpg sticky=true
 
 Establishment of Chatham Dockyard. Battle against the Spanish Armada. Industry includes textiles and iron production.
 
