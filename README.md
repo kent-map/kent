@@ -151,22 +151,13 @@ Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Ca
 
 Towns of grandeur. Articles on Folkestone and Gravesend.
 
-## Places K-P
+## Places K-Z
 
-[Places K-P](placeskp)
+[Places K-Z](placeskz)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b7891169-b4a4-43fb-9245-c1f71e27c7e2)
 
-Coming soon...
-
-## Places Q-Z
-
-[Places Q-Z](placesqz)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
-
 Seaside resorts such as Ramsgate and Sandgate.
-
 
 # Essays by theme 
 <param class="cards">
