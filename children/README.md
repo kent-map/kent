@@ -33,9 +33,9 @@ Crimean War correspondent and prolific author, Henty spent some of his childhood
 
 [Bessie Marchant](/19c/19c-marchant-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e4695031-8e15-4353-8dda-d963f4faffe2)
 
-Bessie Marchant, who was born in Petham. set a number of her earlier novels in Kent.
+Bessie Marchant, who was born in Petham, set a number of her earlier novels in Kent.
 
 ## Edith Nesbit
 
