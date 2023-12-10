@@ -1,4 +1,4 @@
-.ve-header label="17th Century Kent" background=gh:kent-map/kent/images/banners/17c.jpg sticky=true
+.ve-header label="17th Century Kent" background=gh:kent-map/images/banners/17c.jpg sticky=true
 
 Industry includes production of malt for brewing. The English Civil War.
 
