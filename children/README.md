@@ -57,7 +57,7 @@ Rupert Bear is a children’s comic strip character first published on the 8th N
 
 [Mary Tourtel](/19c/19c-tourtel-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e8084c9d-958b-465a-af3e-774840b5a26a)
 
 Writer and illustrator of the cartoon character Rupert Bear, Mary Tourtel was born and grew up in Canterbury.
 
