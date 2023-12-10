@@ -51,7 +51,7 @@ E.Nesbit spent her formative years in Halstead, near Sevenoaks. A keen oarswoman
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/66c4b3c1-6392-4deb-ac01-541afe9e3855)
 
-It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
+Rupert Bear is a children’s comic strip character first published on the 8th November 1920 in the _Daily Express_ newspaper. He was created by the Canterbury-born illustrator Mary Tourtel.
 
 ## Mary Tourtel
 
