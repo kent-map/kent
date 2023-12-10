@@ -25,7 +25,7 @@ Dover-born author of popular evangelical stories for children.
 
 [George Alfred Henty](/19c/19c-henty-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/82c3499a-ede2-4442-a0bb-ec3ccd531e99)
 
 Crimean War correspondent and prolific author, Henty spent some of his childhood in Canterbury.
 
