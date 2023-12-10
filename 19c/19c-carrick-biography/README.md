@@ -3,7 +3,11 @@
 
 <param ve-entity eid="Q2317326" aliases="Thanington">
 
-Writing master and private tutor, Charles Carrick, was born in Ticehurst on 31 March 1823. The son of a carrier, Carrick began teaching in 1849. He set up Kent House Academy, in Best Lane, Canterbury which offered day and evening classes to pupils in writing, history, geography, arithmetic, grammar and composition. In his advertisements he offered 'to change the most cramped and illegible scrawl to a beautiful, free, flowing style of writing' and offered to calligraphy family crests and mottos in black, white, coloured and gold and silver inks. He listed several illustrious churchmen as providing testimonials for his work including the late [Archbishop Archibald Tait](/19c/19c-tait-biography). 
+Writing master and private tutor, Charles Carrick, was born in Ticehurst on 31 March 1823, the son of William and Philadelphia Carrick. Carrick set up Kent House Academy, at 22, Best Lane, Canterbury in 1849 which offered day and evening classes to pupils in writing, history, geography, arithmetic, grammar and composition. In his advertisements, he promised 'to change the most cramped and illegible scrawl to a beautiful, free, flowing style of writing'.[^ref1] Ladies were taught Square Hand and the Queen's Italian Running Hand, whilst gentlemen were instructed in "a good bold mercantile hand".[^ref2] 
+
+Carrick was a creative and enterprising man, mosaicing tables which often took months to complete. A chess table that he made in 1863 was decorated with flowers and insects.  He sold tables to illustrious clients such as the Countess of Sefton, Sir William Somerville and Lady Cockburn.[^ref3] In 1851, he had an exhibition of his curiously inlaid loo tables, charging day visitors 6d.[^ref4] Two of these loo tables were displayed at the Great Exhibition in 1851.[^ref5]
+
+Carrick also calligraphed family crests and mottos in black, white, coloured and gold and silver inks. He listed several illustrious churchmen as providing testimonials for his work including the late [Archbishop Archibald Tait](/19c/19c-tait-biography).[^ref5] 
 
 In 1870, his poetry anthology _Poems: serious, humorous, and satirical_ was published by Ginder of Canterbury and dedicated to Lord Athlumney, who was the member of parliament for Canterbury between 1854-1865. The collection contained 342 poems of which several are calculated to flatter the subscribers of his volume of which there were XX. He raised the salute of 'Long live the Dean' to Henry Alford and thanked God "for such a friend" as the Bishop of Dover in poems dedicated to these men. 
 
@@ -28,3 +32,9 @@ December 14 1869
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/St_Nicholas%2C_Thanington_Without_-_geograph.org.uk_-_2912744.jpg" label="St Nicholas, Thanington Without" attribution="John Salmon via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Like [Henry Gardiner Adams](19c/19c-gardiner-adams-biography/) Carrick dedicated one of his poems to [Charles Dickens](/dickens/dickens-biography), although his was written on Dickens death and not to curry favour with the author.
+
+### References
+
+[^ref3]: Kentish Gazette - Tuesday 08 September 1863
+[^ref4]: South Eastern Gazette - Tuesday 18 February 1851.
+{^ref5]: Dover Telegraph and Cinque Ports General Advertiser - Saturday 08 February 1851
