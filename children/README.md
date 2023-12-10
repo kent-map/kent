@@ -63,7 +63,7 @@ Writer and illustrator of the cartoon character Rupert Bear, Mary Tourtel was bo
 
 ## Stig of the Dump
 
-[Stig of the Dump](/landscape/xxx)
+[Stig of the Dump](/landscape/chalk-pits-stig)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/862d778e-6ca0-46d3-976d-14bf7d4ff67d)
 
