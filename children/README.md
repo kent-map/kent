@@ -19,7 +19,7 @@ Andersen visited Charles Dickens at his Gads Hill home in 1857 for five weeks an
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
 
-It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
+Dover-born author of popular evangelical stories for children. 
 
 ## George Alfred Henty
 
