@@ -65,7 +65,7 @@ Writer and illustrator of the cartoon character Rupert Bear, Mary Tourtel was bo
 
 [Stig of the Dump](/landscape/xxx)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/862d778e-6ca0-46d3-976d-14bf7d4ff67d)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
