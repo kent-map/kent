@@ -1,4 +1,4 @@
-.ve-header label="Places K-Z" background=gh:kent-map/kent/images/banners/19c.jpg sticky=true
+.ve-header label="Places K-Z" background=gh:kent-map/images/banners/19c.jpg sticky=true
 
 Some of Kent's beautiful seaside resorts.
 
