@@ -49,7 +49,7 @@ E.Nesbit spent her formative years in Halstead, near Sevenoaks. A keen oarswoman
 
 [Rupert Bear](/20c/20c-rupert-bear-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/66c4b3c1-6392-4deb-ac01-541afe9e3855)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
