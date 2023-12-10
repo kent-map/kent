@@ -114,14 +114,6 @@ Hoy and steam boats, railways and passenger ships brought people to the county i
 
 Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
-## Wartime Kent
-
-[Wartime Kent](wartime)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
-
-On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars. 
-
 ## 21st century
 
 [21st century](21c)
@@ -177,6 +169,14 @@ Actors have made Kent their home, playwrights have used it as a setting, and the
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fe3e0abd-0d14-4bff-ac3d-a6a600a6c298)
 
 Architects, designers, painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
+
+## Children's Authors and Stories
+
+[Children's Authors and Stories](children)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/862d778e-6ca0-46d3-976d-14bf7d4ff67d)
+
+From the Railway Children to Rupert Bear, Kent has been in the inspiration for many children's authors and stories.
 
 ## Crime Fiction
 
@@ -263,6 +263,14 @@ A county of rich architecture; castles, churches, ports, forts and towers.
 
 Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth, Kent is known as the ‘Garden of England’ due its rich agricultural history.
 
+## War in Kent
+
+[War in Kent](wartime)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
+
+On the frontline of England's defence, Kent has played a pivitol role when faced with invasion, from the Spanish Armada up until the First and Second World Wars. 
+
 # Featured Authors 
 <param class="cards">
 
@@ -343,15 +351,6 @@ Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Hor
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
 
 Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
-
-
-## The Winter Diary of a Country Rat
-
-[The Winter Diary of a Country Rat](20c/20c-firmin-winter-diary)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b)
-
-The enchanting story of the adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
 
 .ve-footer
     - A collaboration between: [![CCCU](https://raw.githubusercontent.com/kent-map/images/main/dickens/CCCU-logo-2colour.svg)](https://www.canterbury.ac.uk/) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/images/main/dickens/JSTOR_Labs_logo.jpg)](https://labs.jstor.org)

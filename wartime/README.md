@@ -5,6 +5,30 @@ On the frontline of England's defence, Kent played a pivitol role in both the Fi
 # &nbsp; 
 <param class="cards">
 
+## Spanish Armada
+
+[Spanish Armada](16c-spanish-armada)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f1/A_Map_of_the_Beacons_in_Kent_%28BM_1872%2C0113.1137%29.jpg)
+
+With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected? 
+
+## Plum Pudding Riots
+
+[Plum Pudding Riots](17c-plum-pudding-riots)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5d/Officer_of_pikemen.jpg)
+
+A riotous time in Canterbury on Christmas Day, 1647.
+
+## Sheppey at War
+
+[Sheppey at War](17c-sheppey-at-war)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d)
+
+The Island of Sheppey was at the centre of the famous Medway attack during the Anglo Dutch War (c.1664-1667).
+
 ## Belgian Refugees
 
 [Belgian Refugees](/20c/20c-belgian-refugees/)
