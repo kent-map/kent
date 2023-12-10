@@ -1,6 +1,6 @@
-.ve-header label="Places K-P" background=gh:kent-map/kent/images/banners/19c.jpg sticky=true
+.ve-header label="Places K-Z" background=gh:kent-map/kent/images/banners/19c.jpg sticky=true
 
-Margate
+Some of Kent's beautiful seaside resorts.
 
 # &nbsp; 
 <param class="cards">
