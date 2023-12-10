@@ -41,9 +41,9 @@ Bessie Marchant, who was born in Petham. set a number of her earlier novels in K
 
 [Edith Nesbit](/nesbit/nesbit-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c)
 
-E.Nesbit spent her formative years in Halstead, near Sevenoaks.
+E.Nesbit spent her formative years in Halstead, near Sevenoaks. A keen oarswoman and swimmer, she took many boating holidays on the Medway with family and friends.
 
 ## Rupert Bear
 
