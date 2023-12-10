@@ -1,4 +1,4 @@
-.ve-header label="Places K-Z" background=gh:kent-map/kent/images/banners/19c.jpg sticky=true
+.ve-header label="Places K-Z" background=gh:kent-map/images/banners/19c.jpg sticky=true
 
 Some of Kent's beautiful seaside resorts.
 
@@ -29,7 +29,7 @@ The ‘modesty hood’, designed to screen naked bathers as they descended the s
 
 ## Sandgate
 
-[Sandgate](/placesqz/sandgate-overview)
+[Sandgate](/placeskz/sandgate-overview)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ea765a89-16c2-4c5c-8860-b0bc08f507d9)
 
@@ -37,7 +37,7 @@ Sandgate, near the outskirts of Folkestone, has been hailed as the 'author's hav
 
 ## Wateringbury
 
-[Wateringbury](/placesqz/wateringbury-overview)
+[Wateringbury](/placeskz/wateringbury-overview)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d)
 
