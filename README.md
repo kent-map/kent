@@ -344,15 +344,6 @@ Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Hor
 
 Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
 
-
-## The Winter Diary of a Country Rat
-
-[The Winter Diary of a Country Rat](20c/20c-firmin-winter-diary)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b)
-
-The enchanting story of the adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
-
 .ve-footer
     - A collaboration between: [![CCCU](https://raw.githubusercontent.com/kent-map/images/main/dickens/CCCU-logo-2colour.svg)](https://www.canterbury.ac.uk/) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/images/main/dickens/JSTOR_Labs_logo.jpg)](https://labs.jstor.org)
     - [![](https://raw.githubusercontent.com/kent-map/images/main/misc/twitter.png)](https://twitter.com/KentMaps1) {.push}
