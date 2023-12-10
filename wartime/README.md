@@ -1,4 +1,4 @@
-.ve-header label="Wartime Kent" background=gh:kent-map/images/wartime/road2 sticky=true
+.ve-header label="War in Kent" background=gh:kent-map/images/wartime/road2 sticky=true
 
 On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars.
 
