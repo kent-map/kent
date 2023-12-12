@@ -32,7 +32,7 @@ Humbled though guided by His loving rod,
 He must reflect, repent, and look to God!   
 December 14 1869   
 <br><br>
-It is possible that Carrick refers to himself when he speaks of 'a man of care' as the 1868 Public Schools Act and the 1870 Education Act may have introduced an element of obsolescence for the kind of private tutoring he was offering. [MORE SCHOOLS IN CANTERBURY - LOOK AT the UKC report]
+It is possible that Carrick refers to himself when he speaks of 'a man of care' as changes in state education may have introduced an element of obsolescence for the kind of private penmanship classes he was offering. [MORE SCHOOLS IN CANTERBURY - LOOK AT the UKC report] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/St_Nicholas%2C_Thanington_Without_-_geograph.org.uk_-_2912744.jpg" label="St Nicholas, Thanington Without" attribution="John Salmon via Wikimedia Commons" license="CC BY-SA 2.0">
 
 In May 1890, Charles quit Kent Academy after forty years of teaching, moving to 2, Summer Hill, Harbledown promising to continue his private lessons in the homes of his pupils. He died later that summer and was buried on 21 August at Harbledown. 
