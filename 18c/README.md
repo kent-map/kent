@@ -85,6 +85,14 @@ Charles Shadwell wrote A Fair Quaker of Deal whilst he was working as supervisor
 
 The Bloody Code is a term applied to the English criminal code and its excessive and savage punishments before reform in the 19th century. The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
 
+## Hawkhurst Gang
+
+[Hawkhurst Gang](18c-hawkhurst-gang)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41)
+
+The Hawkhurst Gang gained notoreity for smuggling in the villages of the Kent and Sussex border.
+
 ## The Kentish Gazette
 
 [The Kentish Gazette](18c-kentish-gazette)

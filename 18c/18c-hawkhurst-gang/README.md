@@ -22,7 +22,7 @@ A band of smugglers drank deeply at a pub, then trashed the place when they were
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7a/Smugglers_RMG_BHC1077.tiff" label="Smugglers" attribution="Royal Museums Greenwich, Public domain, via Wikimedia Commons">
 
 By 1746, the villages around Hawkhurst began to form anti-smuggling militias, driven by a hatred of the gang, and a new government financial incentive. Earlier in the year, the government issued a 500 pound bounty for any smuggler that refused to turn themselves into law enforcement, several years pay for the average person. Ticehurst and Goudhurst also formed militias and began searching for the gang leaders with bounties on their heads. Cranbrook formed an “association”, complete with official badges that would not be out of place in a western (one of these badges can still be seen at the Cranbrook Museum). 
-
+<br><br>
 The gang, in a rage, tried to destroy the Goudhurst militia, threatening to raze the town to the ground if they didn’t disband. Fifteen smugglers rode up to the village in broad daylight. The militia was waiting for them, in what would be Kent’s O.K. Corrale. Shots echoed through the village in a fierce firefight. 
 <br><br>
 When the smoke cleared, two smugglers lay dead, with the rest fleeing in fear. It was the beginning of the end for the gang, an end that would finally come after numerous murders, manhunts, and trials. 
