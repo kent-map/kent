@@ -3,15 +3,17 @@
 
 <param ve-entity eid="Q2317326" aliases="Thanington">
 
-Writing master and private tutor, Charles Carrick, was born in Ticehurst on 31 March 1823, the son of William and Philadelphia Carrick. Carrick set up Kent House Academy, at 22, Best Lane, Canterbury in 1849 which offered day and evening classes to pupils in writing, history, geography, arithmetic, grammar and composition. In his advertisements, he promised 'to change the most cramped and illegible scrawl to a beautiful, free, flowing style of writing'.[^ref1] Ladies were taught Square Hand and the Queen's Italian Running Hand, whilst gentlemen were instructed in "a good bold mercantile hand".[^ref2] 
+Writing master, private tutor, poet and mosaicist, Charles Carrick, was born in Ticehurst on 31 March 1823, the son of William and Philadelphia Carrick. From humble beginnings (his father was variously a labourer, a carrier and a toll gate keeper), Charles received an education that enabled him to set up his own academy in Canterbury. 
+<br><br>
+From around 1848-9, Carrick offered day and evening classes to pupils in writing, history, geography, arithmetic, grammar and composition at Kent House Academy, 22, Best Lane, Canterbury, with his wife Christiana. Ladies were taught Square Hand and the Queen's Italian Running Hand, whilst gentlemen were instructed in "a good bold mercantile hand".[^ref1] Charles boasted that he could change 'the most cramped and illegible scrawl to a beautiful, free, flowing style of writing'.[^ref2] 
 
-Carrick was a creative and enterprising man, mosaicing tables which often took months to complete. A chess table that he made in 1863 was decorated with flowers and insects.  He sold tables to illustrious clients such as the Countess of Sefton, Sir William Somerville and Lady Cockburn.[^ref3] In 1851, he had an exhibition of his curiously inlaid loo tables, charging day visitors 6d.[^ref4] Two of these loo tables were displayed at the Great Exhibition in 1851.[^ref5]
+A creative and enterprising man, Carrick mosaiced furniture such as chess and inlaid loo tables, created family crests and mottos in black, white, coloured, gold and silver inks and wrote poetry to impress the illustrious, to supplement his income and support his growing family. In 1851, he held an exhibition of his curiously inlaid loo tables, charging day visitors 6d.[^ref3] Two of these tables were displayed at the Great Exhibition in 1851.[^ref4] His clients included the Countess of Sefton, Sir William Somerville and Lady Cockburn.[^ref5]  He listed several illustrious churchmen as patrons of his work including the late Archbishop of Canterbury [Archibald Campbell Tait](/19c/19c-tait-biography).[^ref5] 
 
-Carrick also calligraphed family crests and mottos in black, white, coloured and gold and silver inks. He listed several illustrious churchmen as providing testimonials for his work including the late [Archbishop Archibald Tait](/19c/19c-tait-biography).[^ref5] 
+In 1870, his poetry anthology _Poems: serious, humorous, and satirical_ was published by Ginder of Canterbury and dedicated to Lord Athlumney, who was the member of parliament for Canterbury between 1854-1865. The collection contained 342 poems of which several were calculated to flatter the subscribers of his volume of which there were 266. He raised the salute of 'Long live the Dean' to the Dean of Canterbury Henry Alford and thanked God 'for such a friend' as the Bishop of Dover in poems dedicated to these men. He also wrote a tribute to [Charles Dickens](/dickens/dickens-biography) who had died earlier that year, in a show of erudition. 
 
-In 1870, his poetry anthology _Poems: serious, humorous, and satirical_ was published by Ginder of Canterbury and dedicated to Lord Athlumney, who was the member of parliament for Canterbury between 1854-1865. The collection contained 342 poems of which several are calculated to flatter the subscribers of his volume of which there were XX. He raised the salute of 'Long live the Dean' to Henry Alford and thanked God "for such a friend" as the Bishop of Dover in poems dedicated to these men. 
+Despite his enthusiastic dedication to poetry, Carrick's verses are fairly lack-lustre - carefully constructed with bland cliches and over-used words such as 'glory' (173 times) beauty (109 times) and delight (103 times). His 'Reflections on the Glorious Monuments of Canterbury Cathedral' could describe any cathedral setting as he hyperbolizes generalities of bravery and beauty. Yet despite the inauthenticity of his content, his choice of topics reveal the concerns of the day - 'The widow and orphans', 'Dignified hypocrisy', 'The impenitent thief', 'Glorious songsters', 'Bad conduct in church', 'Small boys of the period', 'Street brawlers' and 'Drunkards'. 
 
-Reflections in Thanington Churchyard
+In his 'Reflections in Thanington Churchyard' one can imagine the dreamy poet resting in the graveyard with his notebook after a walk out from the city centre.
 <br><br>
 Behold the tombs, the new-made graves between,    
 The house of prayer, the hallowed ground ; I ween    
@@ -30,8 +32,6 @@ Humbled though guided by His loving rod,
 He must reflect, repent, and look to God!   
 December 14 1869   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/St_Nicholas%2C_Thanington_Without_-_geograph.org.uk_-_2912744.jpg" label="St Nicholas, Thanington Without" attribution="John Salmon via Wikimedia Commons" license="CC BY-SA 2.0">
-
-Like [Henry Gardiner Adams](19c/19c-gardiner-adams-biography/) Carrick dedicated one of his poems to [Charles Dickens](/dickens/dickens-biography), although his was written on Dickens death and not to curry favour with the author.
 
 ### References
 
