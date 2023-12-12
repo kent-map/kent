@@ -33,6 +33,9 @@ He must reflect, repent, and look to God!
 December 14 1869   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/St_Nicholas%2C_Thanington_Without_-_geograph.org.uk_-_2912744.jpg" label="St Nicholas, Thanington Without" attribution="John Salmon via Wikimedia Commons" license="CC BY-SA 2.0">
 
+He retired from teaching, moving to 
+He died in 1890 and was buried 
+
 ### References
 
 [^ref3]: Kentish Gazette - Tuesday 08 September 1863
