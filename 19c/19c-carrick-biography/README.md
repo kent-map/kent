@@ -37,6 +37,8 @@ In May 1890, Charles quit Kent Academy after forty years of teaching, moving to 
 
 ### References
 
+[^ref1]:
+[^ref2]:
 [^ref3]: Kentish Gazette - Tuesday 08 September 1863
 [^ref4]: South Eastern Gazette - Tuesday 18 February 1851.
 {^ref5]: Dover Telegraph and Cinque Ports General Advertiser - Saturday 08 February 1851
