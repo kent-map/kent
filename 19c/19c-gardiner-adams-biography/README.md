@@ -64,5 +64,5 @@ Archive of the Royal Literary Fund. British Library. Loan 96 RLF. 1/1950/1: 14 S
 [^ref8]:'Among the Rhododendrons'. 40.
 [^ref9]:Letter from Dickens to H. G. Adams. 19 February 1866. 
 [^ref10]: Letter from Dickens to H. G. Adams. 21 June 1868. Pilgrim 12. 135. 
-[^ref11: Letter from Dickens to H. G. Adams. 25 August 1868. Pilgrim 12. 173.   
+[^ref11]: Letter from Dickens to H. G. Adams. 25 August 1868. Pilgrim 12. 173.   
 [^ref12]: With thanks to Pete Orford and John Drew.
