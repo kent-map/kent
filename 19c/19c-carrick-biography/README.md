@@ -3,15 +3,16 @@
 
 <param ve-entity eid="Q2317326" aliases="Thanington">
 
-Writing master, private tutor, poet and mosaicist, Charles Carrick, was born in Ticehurst on 31 March 1823, the son of William and Philadelphia Carrick. From humble beginnings (his father was variously a labourer, a carrier and a turnpike keeper), Charles received an education that enabled him to set up his own academy in Canterbury. 
+Writing master, private tutor, poet and mosaicist, Charles Carrick, was born in Ticehurst on 31 March 1823, the son of William and Philadelphia Carrick. From humble beginnings (his father was variously a labourer, a carrier and a turnpike keeper), Charles received an education that enabled him to set up his own educational establishment in Canterbury. 
 <br><br>
-From around 1848-9, Carrick offered day and evening classes to pupils in writing, history, geography, arithmetic, grammar and composition with his wife Christiana. At Kent House Academy, 22/3, Best Lane, Canterbury, ladies were taught Square Hand and the Queen's Italian Running Hand, whilst gentlemen were instructed in "a good bold mercantile hand".[^ref1] Charles boasted that he could change 'the most cramped and illegible scrawl to a beautiful, free, flowing style of writing'.[^ref2] 
+From the late 1840s, at Kent House Academy, 23 Best Lane, Canterbury, Carrick offered day and evening classes to pupils in writing, history, geography, arithmetic, grammar and composition with his wife Christiana. Ladies were taught Square Hand and the Queen's Italian Running Hand, whilst gentlemen were instructed in 'a good bold mercantile hand'.[^ref1] Charles boasted that he could change 'the most cramped and illegible scrawl to a beautiful, free, flowing style of writing'.[^ref2] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Canterbury_houses_%28306%29_%28geograph_7115318%29.jpg" label="23, Best Lane, Canterbury" attribution="Michael Dibb / Canterbury houses 306" license="CC BY-SA 2.0">
 
 A creative and enterprising man, Carrick mosaiced furniture such as chess and inlaid loo tables, created family crests and mottos in black, white, coloured, gold and silver inks and wrote poetry to impress the illustrious members of Canterbury society. These activities were designed to supplement his teaching income and support his growing family. In 1851, he held an exhibition of his curiously inlaid loo tables, charging day visitors 6d.[^ref3] Two of these tables were displayed at the Great Exhibition.[^ref4] His clients included the Countess of Sefton, Sir William Somerville and Lady Cockburn.[^ref5]  He also listed several illustrious churchmen as patrons of his work including the late Archbishop of Canterbury [Archibald Campbell Tait](/19c/19c-tait-biography).[^ref6] 
 
-In 1870, his poetry anthology _Poems: serious, humorous, and satirical_ was published by Ginder of Canterbury and dedicated to Lord Athlumney, who was the member of parliament for Canterbury between 1854-1865. The collection contained 342 poems of which several were calculated to flatter the subscribers of his volume of which there were 266, including fellow Canterbury writer [John Brent](/19c/19c-brent-biography). He raised the salute of 'Long live the Dean' to the Dean of Canterbury Henry Alford and thanked God 'for such a friend' as the Bishop of Dover in poems dedicated to these men. He also wrote a tribute to [Charles Dickens](/dickens/dickens-biography) who had died earlier that year, in a show of erudition.[^ref7] 
+In 1870, his poetry anthology _Poems: serious, humorous, and satirical_ was published by Ginder of Canterbury and dedicated to Lord Athlumney, who was the member of parliament for Canterbury between 1854-1865. The collection contained 342 poems of which several were calculated to flatter the subscribers of his volume of which there were 266, including fellow Canterbury writer [John Brent](/19c/19c-brent-biography). He raised the salute of 'Long live the Dean' to the Dean of Canterbury, Henry Alford and thanked God 'for such a friend' as the Bishop of Dover in poems dedicated to these men. He also wrote a tribute to [Charles Dickens](/dickens/dickens-biography) who had died earlier that year, in a show of erudition and good teaste to his subscribers.[^ref7] 
 
-Despite his enthusiastic dedication to poetry, Carrick's verses are fairly lack-lustre - carefully constructed with bland cliches and over-used words such as 'glory', 'beauty' and 'delight'. His 'Reflections on the Glorious Monuments of Canterbury Cathedral' lacks specifics and could describe any cathedral setting as he hyperbolizes generalities of bravery and beauty. Yet despite the inauthenticity of his content, his choice of topics reveal the concerns of the day - 'The Widow and Orphans', 'Dignified Hypocrisy', 'The Impenitent Thief', 'Glorious Songsters', 'Bad Conduct in Church', 'Small Boys of the Period', 'Street Brawlers' and 'Drunkards'.[^ref8] 
+Despite his enthusiastic dedication to poetry, Carrick's verses are fairly lack-lustre - carefully constructed with bland clichés and over-used abstractions, pontificating on 'glory', 'beauty' and 'delight'. His 'Reflections on the Glorious Monuments of Canterbury Cathedral' lacks specifics and could describe any cathedral setting as he hyperbolizes generalities of bravery and beauty. Yet despite the inauthenticity of his content, his choice of topics reveal the concerns of the day - 'The Widow and Orphans', 'Dignified Hypocrisy', 'The Impenitent Thief', 'Glorious Songsters', 'Bad Conduct in Church', 'Small Boys of the Period', 'Street Brawlers' and 'Drunkards'.[^ref8] 
 
 In his 'Reflections in Thanington Churchyard' one can imagine the dreamy poet resting in the graveyard with his notebook after a walk out from the city centre.
 <br><br>
@@ -32,15 +33,20 @@ Humbled though guided by His loving rod,
 He must reflect, repent, and look to God!   
 December 14 1869   
 <br><br>
-It is possible that Carrick refers to himself when he speaks of 'a man of care' as changes in state education may have introduced an element of obsolescence for the kind of private penmanship classes he was offering. [MORE SCHOOLS IN CANTERBURY - LOOK AT the UKC report] 
+It is possible that Carrick refers to himself when he speaks of 'a man of care' as educational reforms in the 1870s may have made his penmanship classes seem outmoded to his middle-class audience. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/St_Nicholas%2C_Thanington_Without_-_geograph.org.uk_-_2912744.jpg" label="St Nicholas, Thanington Without" attribution="John Salmon via Wikimedia Commons" license="CC BY-SA 2.0">
 
-In May 1890, Charles quit Kent Academy after forty years of teaching, moving to 2, Summer Hill, Harbledown promising to continue his private lessons in the homes of his pupils. He died later that summer and was buried on 21 August at Harbledown. 
+In May 1890, Charles quit Kent Academy after forty years of teaching, promising to continue his private lessons in the homes of his pupils. He moved to 2, Summer Hill, Harbledown but died later that summer whilst undergoing an operation in a London hospital. He was remembered by the citizens of Canterbury for his "serious reflections" on the death of many of its leading inhabitants.[^ref9] One wonders whether his relatives paid for them. He was buried on 21 August at Harbledown. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/90/Harbledown%2C_St._Michael_and_All_Angels_Church%2C_Part_of_the_large_churchyard_-_geograph.org.uk_-_4831202.jpg" label="St Michael and All Angels Church. Part of the Large Churchyard" attribution="Michael Garlick, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ### References
 
-[^ref1]:
-[^ref2]:
-[^ref3]: Kentish Gazette - Tuesday 08 September 1863
-[^ref4]: South Eastern Gazette - Tuesday 18 February 1851.
-{^ref5]: Dover Telegraph and Cinque Ports General Advertiser - Saturday 08 February 1851
+[^ref1]: "Kent House Academy." _Kentish Chronicle_ Saturday 25 August 1866.
+[^ref2]: "Kent House Academy." _Kentish Chronicle_ Saturday 25 August 1866.
+[^ref3]: South Eastern Gazette Tuesday 18 February 1851.
+[^ref4]: "List of Exhibitors in the Crystal Palace." _Daily News_ Thursday 17 April 1851.
+[^ref5]: "A Work of Art." _Kentish Gazette_ Tuesday 08 September 1863.
+[^ref6]: "Writing Master." _Kentish Gazette_ Tuesday 06 May 1890.
+[^ref7]: Carrick, Charles. [_Poems: serious, humorous, and satirical_](https://archive.org/details/poemsserioushumo00carr/page/292/mode/2up) Canterbury: Ginder, 1870.
+[^ref8]: Carrick, Charles. [_Poems: serious, humorous, and satirical_](https://archive.org/details/poemsserioushumo00carr/page/292/mode/2up) Canterbury: Ginder, 1870.
+[^ref9]: "Death of Mr Charles Carrick." _Kentish Gazette_ Tuesday 26 August 1890.
