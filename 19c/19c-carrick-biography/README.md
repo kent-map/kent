@@ -5,7 +5,7 @@
 
 Writing master, private tutor, poet and mosaicist, Charles Carrick, was born in Ticehurst on 31 March 1823, the son of William and Philadelphia Carrick. From humble beginnings (his father was variously a labourer, a carrier and a turnpike keeper), Charles received an education that enabled him to set up his own educational establishment in Canterbury. 
 <br><br>
-From the late 1840s, at Kent House Academy, 23 Best Lane, Canterbury, Carrick offered day and evening classes to pupils in writing, history, geography, arithmetic, grammar and composition with his wife Christiana. Ladies were taught Square Hand and the Queen's Italian Running Hand, whilst gentlemen were instructed in 'a good bold mercantile hand'.[^ref1] Charles boasted that he could change 'the most cramped and illegible scrawl to a beautiful, free, flowing style of writing'.[^ref2] 
+From the late 1840s, at Kent House Academy, 23 Best Lane, Carrick offered day and evening classes to pupils in writing, history, geography, arithmetic, grammar and composition with his wife Christiana. Ladies were taught Square Hand and the Queen's Italian Running Hand, whilst gentlemen were instructed in 'a good bold mercantile hand'.[^ref1] Charles boasted that he could change 'the most cramped and illegible scrawl to a beautiful, free, flowing style of writing'.[^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Canterbury_houses_%28306%29_%28geograph_7115318%29.jpg" label="23, Best Lane, Canterbury" attribution="Michael Dibb / Canterbury houses 306" license="CC BY-SA 2.0">
 
 A creative and enterprising man, Carrick mosaiced furniture such as chess and inlaid loo tables, created family crests and mottos in black, white, coloured, gold and silver inks and wrote poetry to impress the illustrious members of Canterbury society. These activities were designed to supplement his teaching income and support his growing family. In 1851, he held an exhibition of his curiously inlaid loo tables, charging day visitors 6d.[^ref3] Two of these tables were displayed at the Great Exhibition.[^ref4] His clients included the Countess of Sefton, Sir William Somerville and Lady Cockburn.[^ref5]  He also listed several illustrious churchmen as patrons of his work including the late Archbishop of Canterbury [Archibald Campbell Tait](/19c/19c-tait-biography).[^ref6] 
@@ -27,7 +27,7 @@ Rejoicing in the light of Godly powers;
 The star-like daisies in perfection seem    
 To smile a welcome, each a starlight queen.   
 Why come they forth to live but for an hour   
-<br><br>
+<br>
 Here in the churchyard then, O man, take heed,    
 And strive to learn His lesson, for indeed    
 Tis here a man of care can find his way    
@@ -35,7 +35,7 @@ To learn that lesson on the churchyard sod.
 Humbled though guided by His loving rod,    
 He must reflect, repent, and look to God!   
 December 14 1869   
-<br><br>
+<br>
 It is possible that Carrick refers to himself when he speaks of 'a man of care' as educational reforms in the 1870s may have made his penmanship classes seem outmoded to his middle-class audience. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/St_Nicholas%2C_Thanington_Without_-_geograph.org.uk_-_2912744.jpg" label="St Nicholas, Thanington Without" attribution="John Salmon via Wikimedia Commons" license="CC BY-SA 2.0">
 
