@@ -176,7 +176,7 @@ def update_google_sheets(**kwargs):
       if 'url' not in img: continue
       row += 1
       row_data = {
-        'Page': as_hyperlink(f'https://beta.kent-maps.online/{page}', page or 'Home'),
+        'Page': as_hyperlink(f'https://www.kent-maps.online/{page}', page or 'Home'),
         'URL': as_hyperlink(img['url'], img['url'].split('/')[-1]),
       }
     ws_updates += [Cell(row, fields[fld] + 1, val) for fld, val in row_data.items() if fld in fields]

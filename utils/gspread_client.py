@@ -62,7 +62,7 @@ if __name__ == '__main__':
   }
   for idx, page in enumerate(list_pages()):
     row = idx + 2
-    url = f'https://beta.kent-maps.online/{page}'
+    url = f'https://www.kent-maps.online/{page}'
     row_data = {
       'Page': as_hyperlink(url, page or 'Home'),
     }

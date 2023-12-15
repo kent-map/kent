@@ -1,4 +1,4 @@
-<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Jocelyn Brooke (1908-1966) " author="Dr Simon Wilson" layout="vtl" banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994">
 <param ve-map center="Q866348" zoom="10">
 <param ve-entity eid="Q866348" aliases="Bishopbourne">

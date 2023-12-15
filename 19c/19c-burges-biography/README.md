@@ -1,4 +1,4 @@
-<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="William Burges (1827-1881)" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/1f188cc0-37b3-4af1-86a5-7ff2c3e8db88" description="William Burges designed the interior of Dover's Maison Dieu">
 
 <param ve-entity eid="Q213180" aliases="Maidstone">
