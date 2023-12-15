@@ -1,4 +1,9 @@
-## Thomas Goodban (1784-1863)
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
+<param ve-config title="Thomas Goodban (1784-1863)" author="Dr Chris Price" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+
+<param ve-entity eid="Q29303" aliases="Canterbury">
+
+#
 
 Thomas Goodban (1784–1863), the long-standing conductor of the [Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) Orchestra, was an entrepreneurial force in the club. In 1833, he advertised ‘Subscription Concerts’ – four per season, from December through to March, at a guinea for the lot (for which two tickets of admission per concert are purchased). The one in November 1834 is the most eye-catching, for it features Henry Rowley Bishop, one of the most significant musical personalities of the day – and his wife.
 <param ve-media="https://upload.wikimedia.org/wikipedia/commons/b/b0/Henry_Rowley_Bishop_%281786-1855%29_-_Foresters%2C_sound_-_Atelier_Vocal_des_Herbiers_%28petit_ensemble_Amarante%29_-_1993.ogg" label="Henry Rowley Bishop Foresters sound - Aterlier Vocal des Herbiers petit ensemble Amarante" attribution="Jo Laporte, Public domain, via Wikimedia Commons">
