@@ -1,7 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="William Pett Ridge (1859-1930)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/Chilham%2C_Shelly%27s_Tea_Room_-_geograph.org.uk_-_4831929.jpg" attribution="Chilham: Shelly's Tea Room by Michael Garlick, via Wikimedia Commons" license="CC BY-SA 2.0">
 
-<param ve-entity eid=“Q1000312” aliases=“Sandgate”>
+<param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q122917" aliases="Chislehurst">
 <param ve-entity eid="Q1004824" aliases="Chilham">
 <param ve-entity eid="Q2743911" aliases="Chartham">
