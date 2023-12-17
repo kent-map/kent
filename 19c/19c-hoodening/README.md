@@ -33,12 +33,10 @@ Since 1957, the Hop Hoodening Festival, to bless the hop harvest, has taken plac
 ‘… at [Ramsgate](/dickens/19c-ramsgate), in Kent I found they begin the festivities of Christmas by a curious procession: a party of young people procure the head of a dead horse, which is affixed by pole about four feet in length; a string is affixed to the lower jaw; a horse-cloth is also attached to the whole, under which one of the party gets, and by frequently pulling on the string, keeps up a loud snapping noise, and is accompanied by the rest of the party, grotesquely habited, with handbells; they thus proceed from house to house, ringing their bells, and singing carols and songs; they are commonly gratified with beer and cake, or perhaps money. This is called, provincially, a Hodening, and … [i]t is I find, general in Thanet on Christmas Eve, and, as far as I can learn, nowhere else …’[^ref2]   
 <br>
 "… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/dickens/19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …"[^ref3] 
-<br>
+<br><br>
 "… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …"[^ref4]   
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Hooden_horse.jpg" label="Hooden Horse" attribution="©Carolyn Oulton">
-<!--Basemap centred on Ramsgate-->
-<param ve-map center="Q736439" zoom="10">
-
+<br><br>
 Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, 'the tradition appears to lie solely in the eastern part of the county'[^ref5] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/en/0/06/Deal_Hoodeners%2C_1909.jpg" label="Hoodener in Deal" attribution="Published in Percy Maylam's 1909 book The Hooden Horse.">
 <br>
