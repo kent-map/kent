@@ -20,10 +20,11 @@ This was the Great Comet of 1843. Two nights later he observed that: 'The tail o
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Hawkhurst_sign%2C_High_Street_-_geograph.org.uk_-_331683.jpg" label="Hawkhurst sign, High Street" attribution="Oast House Archive" license="CC BY-SA 2.0">
 <param ve-map center="Q2744669" zoom="12">
 
-Sir John was the son of Sir William Herschel (1738–1822), who discovered the planet Uranus in 1781.  As well as naming seven moons of Saturn and four of the moons of Uranus, John Herschel made important contributions to photography, inventing the cynatope photographic process used by [Anna Atkins](/19c/19c-atkins-biography) in 1842. He was an inspiration to [Charles Darwin](/19c/19c-darwin-biography), who modelled his _Origin of Species_ on Herschel's _Preliminary Discourse on Natural Science_[^ref4], although he disagreed with Darwin's findings.
+Sir John was the son of Sir William Herschel (1738–1822), who discovered the planet Uranus in 1781.  As well as naming seven moons of Saturn and four of the moons of Uranus, John Herschel made important contributions to photography, inventing the cynatope photographic process used by [Anna Atkins](/19c/19c-atkins-biography) in 1842. He was an inspiration to [Charles Darwin](/19c/19c-darwin-biography), who modelled his _Origin of Species_ on Herschel's _Preliminary Discourse on Natural Science_[^ref4], although John disagreed with Darwin's findings.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Sir_William_Herschel_and_Caroline_Herschel._Wellcome_V0002731_%28cropped%29.jpg" label="Sir William Herschel and Caroline Herschel" license="CC BY 2.0">
 
 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sir_John_Herschel_MET_DP295233.jpg/812px-Sir_John_Herschel_MET_DP295233.jpg" label="Sir John Herschel" attribution="Julia Margaret Cameron, CC0, via Wikimedia Commons">
 
 ### References
 
