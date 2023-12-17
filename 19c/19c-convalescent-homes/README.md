@@ -9,7 +9,7 @@
 
 <!-- Historical map layers -->
 <!-- <param mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860" ve-map-layer/> -->
-<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860"/ >
+<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860"/>
 
 In the nineteenth-century, a new kind of institution—the ‘convalescent home’—began to dot the British countryside and seaside. Many convalescent homes were established in Kent, with its temperate seaside climate and relatively easy access to London. These institutions aimed to support recuperating patients, often drawn from urban hospitals, to cultivate fuller recoveries though several weeks of relaxation, good food, and unpolluted country air. Modern eyes may struggle to see the work of convalescent homes as anything other than frivolous: these philanthropic institutions simply offered people an extended country holiday, away from work and the stress of the city. Yet for impoverished medical patients recuperating from severe illness, a month-long stay in a convalescent home could mean the difference between life and death, as relapse was a common occurrence.  Patients also needed to build themselves up before they could return to some of the back-breaking occupations common to working-class people. A wide range of medical institutions, wealthy philanthropists, and even working-class friendly societies funded convalescent homes for disadvantaged sufferers. 
 <param ve-image url="https://stor.artstor.org/stor/30e6175e-f5e5-4969-a431-a98a9b0c913d" label="Convalescent Home and Church of St Peter's Folkestone" attribution="Kent Maps Online">
