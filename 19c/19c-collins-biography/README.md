@@ -17,13 +17,15 @@ Best-selling author, playwright and, according to some, the father of detective 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/84/North_Foreland_Lighthouse_about_1880.jpg" label="North Foreland Lighthouse" attribution="Hatofthecat, CC BY-SA 3.0 via Wikimedia Commons">
 <param ve-map primary center="Q736439" zoom="10">
 
-Collins’s unorthodox domestic circumstances were also rather easier to manage amongst the crowd of holidaymakers. He stayed with his children and their mother, Martha Rudd, at Wellington Crescent using the alias ‘William Dawson’ and, under his own name, with his lifelong companion Caroline Graves at Nelson Crescent, just along the clifftop. His three children stayed with Graves and Collins in Ramsgate, though it is unlikely that the two women ever met.[^ref2]  Holidays in [Ramsgate](/19c/19c-ramsgate/) allowed Collins to indulge his love of sailing and enjoy walks along the coast. Many of his writings feature Kent, including his play _The Frozen Deep_, in which the hero Wardour boasts,‘We men of Kent are made of tough material.’  Ramsgate appears as a setting in a number of his stories, including _Poor Miss Finch_ (1872), _The Law and the Lady_ (1875) and _The Fallen Leaves_ (1879). True to his witty style, in his 1882 short story ‘How I Married Him’ nearby Sandwich is referred to (somewhat tongue-in cheek) as ‘One of the Dead Cities of England.’ 
+Collins’s unorthodox domestic circumstances were also rather easier to manage amongst the crowd of holidaymakers. He stayed with his children and their mother, Martha Rudd, at Wellington Crescent using the alias ‘William Dawson’ and, under his own name, with his lifelong companion Caroline Graves at Nelson Crescent, just along the clifftop. His three children stayed with Graves and Collins in Ramsgate, though it is unlikely that the two women ever met.[^ref2]  Holidays in [Ramsgate](/19c/19c-ramsgate/) allowed Collins to indulge his love of sailing and enjoy walks along the coast. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/20/14%2C_Nelson_Crescent%2C_Ramsgate.jpg" label="Nelson Crescent, Ramsgate" attribution="Digihum, via Wikimedia Commons" license="CC BY-SA 4.0">
+
+Many of Collins's writings feature Kent, including his play _The Frozen Deep_, in which the hero Wardour boasts,‘We men of Kent are made of tough material.’  Ramsgate appears as a setting in a number of his stories, including _Poor Miss Finch_ (1872), _The Law and the Lady_ (1875) and _The Fallen Leaves_ (1879). True to his witty style, in his 1882 short story ‘How I Married Him’ nearby Sandwich is referred to (somewhat tongue-in cheek) as ‘One of the Dead Cities of England.’ 
 <br><br>
 ‘Shall I describe Sandwich? I think not. Let us own the truth; descriptions of places, however nicely they may be written, are always more or less dull. […]’   
 _How I Married Him_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg" label="The Barbican, Sandwich" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <param ve-map primary center="Q26163" zoom="10">
-
 
 ### Bibliography: 
 
