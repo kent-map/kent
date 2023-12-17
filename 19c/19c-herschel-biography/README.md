@@ -20,10 +20,15 @@ Sir John contributed to the life of the village and in November 1857, read a lec
 <br><br>
 'Comment or praise would be mere waste of type; it will be sufficient to observe that the room was filled by an attentive and very respectable audience, amongst whom was a tolerable number of mechanics and other persons, who are generally supposed to take but little notice of such matters. It is some gratification to know that the humbler classes appreciate these lectures, and that a small payment the doors of the lecture room does not prevent their attendance'.[^ref5]
 <br><br>
-Despite his failing health, he continued to write and correspond with the scientific community, publishing books on astronomy and translating the _Iliad_. He also wrote articles for the _Edinburgh Encyclopedia_ on mathematics and isoperimetrical problems and ones on meteorology, physical geography and the telescope for _Encylopedia Britannica_ .[^ref6] He was an inspiration to [Charles Darwin](/19c/19c-darwin-biography), who modelled _On the Origin of Species_ on Herschel's _Preliminary Discourse on Natural Science_(1830), although John did not agree with Darwin's findings.[^ref7]
+Despite his failing health, Herschel continued to write and correspond with the scientific community, publishing books on astronomy and translating the _Iliad_. He also wrote articles for the _Edinburgh Encyclopedia_ on mathematics and isoperimetrical problems and ones on meteorology, physical geography and the telescope for _Encylopedia Britannica_ .[^ref6]
+<br><br>
+He was an inspiration to [Charles Darwin](/19c/19c-darwin-biography), who modelled _On the Origin of Species_ on Herschel's _Preliminary Discourse on Natural Science_(1830), although John did not agree with Darwin's findings.[^ref7]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sir_John_Herschel_MET_DP295233.jpg/812px-Sir_John_Herschel_MET_DP295233.jpg" label="Sir John Herschel" attribution="Julia Margaret Cameron, CC0, via Wikimedia Commons">
 
-He died at Collingwood on 11 May 1871. His body was conveyed by train From Hawkhurst to Charing Cross station where it was taken by hearse to Westminster Abbey. Sir John was buried near the tomb of Sir Isaac Newton. [Charles Darwin](/19c/19c-darwin-biography) was in the congregation.[^ref8] and on his death was buried next to Herschel.
+Sir John died at Collingwood on 11 May 1871. His body was conveyed by train From Hawkhurst to Charing Cross station where it was taken by hearse to Westminster Abbey. Sir John was buried near the tomb of Sir Isaac Newton. [Charles Darwin](/19c/19c-darwin-biography) was in the congregation.[^ref8] and on his death was buried next to Herschel.
+<br><br>
+This article was published 17 December 2023.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Herschel%26darwin.jpg" label="Herschel and Darwin" attribution="Stanislav Kozlovskiy, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 ### References
 
