@@ -4,20 +4,8 @@
 
 <param ve-entity eid="Q590063" aliases="Wye">
 <param ve-entity eid="Q2437595" aliases="Borden">
-<param ve-entity eid="Q81090" aliases="Hertford College">
-<param ve-entity eid="Q10323023" aliases="Magdalen Hall">
-<param ve-entity eid="Q889609" aliases="Robert Plot">
-<param ve-entity eid="Q34433" aliases="University of Oxford">
-<param ve-entity eid="Q6232906" aliases="John Fell">
-<param ve-entity eid="Q1837303" aliases="Bishop of Oxford">
-<param ve-entity eid="Q131056" aliases="Megalosaurus">
-<param ve-entity eid="Q364239" aliases="William Camden">
-<param ve-entity eid="Q123885" aliases="Royal Society of London">
-<param ve-entity eid="Q636400" aliases="Ashmolean Museum">
-<param ve-entity eid="Q26322356" aliases="Sutton Barne", "Sutton Baron Hall and Sutton Baron"> 
-<param ve-entity eid="Q3784946" aliases="Duke of Norfolk">
-<param ve-entity eid="Q5774502" aliases="Historiographer Royal">
-<param ve-entity eid="Q1230771" aliases="Thomas Shadwell">
+
+#
 
 Born in 1640 in Borden, Kent to Robert and Rebecca, née  Patenden, Robert Plot was educated at Wye Free School and Magdalen Hall, University of Oxford, now Hertford College. Although he spent much of his career in Oxford, as a student, then an academic, Plot retired to Kent in 1690, where he lived with his wife and sons until his death in 1696.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Portrait_of_Robert_Plot_D_D_by_Sylvester_Harding.jpg" label="Robert Plot by Sylvester Harding, Public domain, via Wikimedia Commons"> 
@@ -29,7 +17,7 @@ Plot was an English naturalist and first Professor of Chemistry at Oxford, who b
 Plot did write on Kent, however, such as in ‘An Account of some Antiquities in the County of Kent,’ printed in John Nichols’s _Bibliotheca Topographica_ (1780). Plot revised William Camden’s chapter on Kent in _Britannia_ (1586), the first chorographical survey of the islands of Great Britain and Ireland, and also gathered information first-hand after a trip in the autumn of 1693. His work and methods were commended by [John Wallis](/17c/17c-wallis-biography).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Britannia_by_William_Camden_Title_page.jpg" label="Title page of the first map edition of illiam Camden's _Britannia_ (1607)" attribution="Public domain, via Wikimedia Commons">
 
-Plot was an early member of the Royal Society of London, the UK's national academy of sciences, founded in 1660. He was elected to the Society in 1677 and served as its second secretary (from 30 November 1682 until 29 November 1684). Plot was also the first keeper of the Ashmolean Museum, living, teaching, and gathering collections at the Museum from its opening in 1683 until 1690. During that time, Plot was appointed to various other establishment positions. In 1687, the seventh Duke of Norfolk appointed Plot registrar to the Court of Chivalry, and the Archbishop of Canterbury made Plot a notary public. He was appointed Historiographer Royal the following year, although lost this position rapidly to Thomas Shadwell.
+Plot was an early member of the Royal Society of London, the UK's national academy of sciences, founded in 1660. He was elected to the Society in 1677 and served as its second secretary (from 30 November 1682 until 29 November 1684). Plot was also the first keeper of the Ashmolean Museum, living, teaching, and gathering collections at the Museum from its opening in 1683 until 1690. During that time, Plot was appointed to various other establishment positions. In 1687, the seventh Duke of Norfolk appointed Plot registrar to the Court of Chivalry, and the Archbishop of Canterbury made Plot a notary public. He was appointed Historiographer Royal the following year, although lost this position rapidly to Thomas Shadwell - father of [Charles Shadwell](/18c/18c-shadwell-biography).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6d/Ashmolean_Museum_in_July_2014.jpg" label="Ashmolean Museum, 2014" attribution="Lewis Clarke via Wikimedia Commons, CC BY-SA 2.0">
 
 **Retirement in Kent**   
