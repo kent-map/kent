@@ -5,7 +5,9 @@
 
 #
 
-Mathematician, astronomer, chemist and polymath, Sir John Frederick William Herschel (1792-1871) moved to Collingwood House in Hawkhurst, Kent in 1840. Sir John was the son of Sir William Herschel (1738–1822), who discovered the planet Uranus in 1781.  As well as naming seven moons of Saturn and four of the moons of Uranus, John Herschel made important contributions to photography, inventing the cynatope photographic process used by [Anna Atkins](/19c/19c-atkins-biography) in 1842. 
+Mathematician, astronomer, chemist and polymath, Sir John Frederick William Herschel (1792-1871) moved to Collingwood House in Hawkhurst, Kent in 1840. Sir John was the son of Sir William Herschel (1738–1822), who discovered the planet Uranus in 1781.
+<br><br>
+As well as naming seven moons of Saturn and four of the moons of Uranus, Sir John Herschel made important contributions to photography, inventing the cynatope photographic process used by [Anna Atkins](/19c/19c-atkins-biography) in 1842. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Sir_William_Herschel_and_Caroline_Herschel._Wellcome_V0002731_%28cropped%29.jpg" label="Sir William Herschel and Caroline Herschel" license="CC BY 2.0">
 
 Collingwood gave Herschel the skies he needed for his observations. He wrote:
