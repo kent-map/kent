@@ -36,9 +36,9 @@ Since 1957, the Hop Hoodening Festival, to bless the hop harvest, has taken plac
 <br><br>
 "… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …"[^ref4]   
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Hooden_horse.jpg" label="Hooden Horse" attribution="©Carolyn Oulton">
-<br><br>
-Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, 'the tradition appears to lie solely in the eastern part of the county'[^ref5] 
 <br>
+Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, 'the tradition appears to lie solely in the eastern part of the county'[^ref5] 
+<br><br>
 The above quotes from publications of 1807 and 1907 show that Hoodening was well-known in East Kent during the nineteenth century. Today it continues in towns and villages such as St Nicholas-at-Wade, Sarre, Wickhambreaux and Deal. Hop Hoodening in Canterbury Cathedral each September also upholds the tradition, and Hooden Horses feature prominently at the annual [Broadstairs](/dickens/broadstairs-19th-century) Folk Week and other local folk festivals. Many of Kent’s Morris sides now have a Hooden Horse, with that created in 1959 for East Kent Morris purported to be the first designed in an upright position, enabling him to join in the dancing.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/en/0/06/Deal_Hoodeners%2C_1909.jpg" label="Hoodener in Deal" attribution="Published in Percy Maylam's 1909 book The Hooden Horse.">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Hoodening_in_Whitstable_May_2018.jpg" label="Hoodening in Whitstable" attribution="Edwininlondon, CC BY-SA 4.0, via Wikimedia Commons">
