@@ -67,14 +67,9 @@ Tradescant is buried beside his father in churchyard at St-Mary-at-Lambeth, now 
 
 ### Bibliography
 
-Allen, Thomas. _The History and Antiquities of the Parish of Lambeth, and the Archiepiscopal Palace, in the County of Surrey_. 1827.
-
-Leith-Ross, Prudence. _The John Tradescants: gardeners to the rose and lily queen_. 1984 (2006).
-
-MacGregor, Arthur. ‘Tradescant, John, the elder (d. 1638)’. _Oxford Dictionary of National Biography_. 2007. Accessed 12/2/22. https://www.oxforddnb.com/view/10.1093/ref:odnb/27654
-
-MacGregor, Arthur. ‘Tradescant, John, the younger (bap. 1608, d. 1662)’. _Oxford Dictionary of National Biography_. 2008. Accessed 12/2/22. https://www.oxforddnb.com/view/10.1093/ref:odnb/27655
-
-‘The Collectors: Tradescants’. British Archaeology at the Ashmolean Museum, University of Oxford. Accessed 12/2/22. https://britisharchaeology.ashmus.ox.ac.uk/collections/tradescant.html
-
-‘Turret House, Lambeth, by John Crowther (1837-1902)’. London Picture Archive. Accessed 12/2/22. https://www.londonpicturearchive.org.uk/view-item?i=26909&WINID=1644672707130
+Allen, Thomas. _The History and Antiquities of the Parish of Lambeth, and the Archiepiscopal Palace, in the County of Surrey_. 1827.   
+Leith-Ross, Prudence. _The John Tradescants: gardeners to the rose and lily queen_. 1984 (2006).   
+MacGregor, Arthur. ‘Tradescant, John, the elder (d. 1638)’. _Oxford Dictionary of National Biography_. 2007. Accessed 12/2/22. https://www.oxforddnb.com/view/10.1093/ref:odnb/27654   
+MacGregor, Arthur. ‘Tradescant, John, the younger (bap. 1608, d. 1662)’. _Oxford Dictionary of National Biography_. 2008. Accessed 12/2/22. https://www.oxforddnb.com/view/10.1093/ref:odnb/27655   
+‘The Collectors: Tradescants’. British Archaeology at the Ashmolean Museum, University of Oxford. Accessed 12/2/22. https://britisharchaeology.ashmus.ox.ac.uk/collections/tradescant.html   
+‘Turret House, Lambeth, by John Crowther (1837-1902)’. London Picture Archive. Accessed 12/2/22. https://www.londonpicturearchive.org.uk/view-item?i=26909&WINID=1644672707130   
