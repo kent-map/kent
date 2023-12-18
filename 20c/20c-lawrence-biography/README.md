@@ -1,7 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="D.H. Lawrence (1885–1930)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/3f/David_Herbert_Lawrence_%26_Frieda_von_Richthofen_1914.jpg" attribution="D.H. Lawrence and Frieda von Richthofen, 1914, via Wikimedia Commons">
 
-<param ve-entity eid="Q24993696" aliases=“Kingsgate”>
+<param ve-entity eid="Q24993696" aliases="Kingsgate">
 <param ve-entity eid="Q947442" aliases="Edenbridge">
 <param ve-entity eid="Q5187371" aliases="Crockham Hill">
 <param ve-entity eid="Q14150839" aliases="Botany Bay">
