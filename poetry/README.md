@@ -29,6 +29,14 @@ Poet Laureate Alfred Austin lived at Swinford Old Manor near Ashford.
 
 'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!'
 
+## Charles Carrick
+
+[Charles Carrick](/19c/19c-carrick-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5a/West_Gate%2C_Canterbury%2C_England-LCCN2002696467.jpg)
+
+Canterbury school master and poet who wrote serious reflections on the deaths of Canterbury's leading inhabitants.
+
 ## U.A. Fanthorpe
 
 [U.A. Fanthorpe](/20c/20c-fanthorpe-biography)
