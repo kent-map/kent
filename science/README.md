@@ -45,6 +45,14 @@ Father and son who were learned mathematicians in Kent in the sixteenth century.
 
 Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
 
+## Sir John Herschel
+
+[Sir John Herschel](/19c/19c-herschel-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
+
+Astronomer, chemist and inventor of the cynatope, Sir John Herschel lived at Hawkhurst.
+
 ## Anna Maria Hussey
 
 [Anna Maria Hussey](/19c/19c-hussey-biography)
