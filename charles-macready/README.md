@@ -57,8 +57,8 @@ Canterbury November 11th. — Dearest Catherine's birthday. Left Canterbury by t
 <param ve-map center="Q2744669" zoom="15"> -->
 
 ### References
-[^ref1]: https://archive.org/details/diariesofwilliam02macruoft/page/432/mode/2up?q=Canterbury
-[^ref2]: https://en.wikipedia.org/wiki/William_Macready
+[^ref1]: [The diaries of William Chalres Macready, 1833-1851](https://archive.org/details/diariesofwilliam02macruoft/page/432/mode/2up?q=Canterbury)
+[^ref2]: [William Macready](https://en.wikipedia.org/wiki/William_Macready)
 [^ref3]: [The Literature Project](https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm) 
 <!-- [^ref1]: Atkins, A. _Memoir of J. G. Children, esq: including some unpublished poetry_  p.1 and p.19.
 [^ref2]: Atkins, A. _Memoir of J. G. Children, esq: including some unpublished poetry_  p.29.
