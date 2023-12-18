@@ -18,7 +18,7 @@
 #
 
 Farewell! Left London at half-past eleven and reached Canterbury at half-past six.[^ref1]
-Broadstairs, August 29th 1840 — Left Canterbury in a chaise, and came very slowly along to Broadstairs ; was pleased to look again upon the fields and trees, though it seemed like a surprise to me to see the stubble fields and the harvest gathered. The beauty of the wild flowers by the roadside, few as they were, was sweet and pleasing to my sight. I found my wife and dear family all well, thank God, and after breakfast lay down for two of three hours.[^ref2] I arranged my accounts and surrendered all the rest of my day to idleness and the enjoyment of the society of my dear children. Was much irritated and annoyed by the report of fresh instances of impertinence and falsehood in the Observer newspaper. My anger was greatly excited, but reflection shows me that the baseness is only elevated by taking notice of it.
+Broadstairs, August 29th 1840 — Left Canterbury in a chaise, and came very slowly along to Broadstairs ; was pleased to look again upon the fields and trees, though it seemed like a surprise to me to see the stubble fields and the harvest gathered. The beauty of the wild flowers by the roadside, few as they were, was sweet and pleasing to my sight. I found my wife and dear family all well, thank God, and after breakfast lay down for two of three hours.[^ref2] I arranged my accounts and surrendered all the rest of my day to idleness and the enjoyment of the society of my dear children. Was much irritated and annoyed by the report of fresh instances of impertinence and falsehood in the Observer newspaper. My anger was greatly excited, but reflection shows me that the baseness is only elevated by taking notice of it[^ref3].
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/William_Charles_Macready_by_John_Jackson.jpg/375px-William_Charles_Macready_by_John_Jackson.jpg" label="Charles Macready, 1861" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <!-- <param ve-map center="Q936183" zoom="12">
 <param ve-map center="Q99678204" zoom="12">
@@ -57,8 +57,9 @@ Canterbury November 11th. — Dearest Catherine's birthday. Left Canterbury by t
 <param ve-map center="Q2744669" zoom="15"> -->
 
 ### References
-[^ref1]:(https://archive.org/details/diariesofwilliam02macruoft/page/432/mode/2up?q=Canterbury)
-[^ref2]: (https://en.wikipedia.org/wiki/William_Macready)
+[^ref1]: https://archive.org/details/diariesofwilliam02macruoft/page/432/mode/2up?q=Canterbury
+[^ref2]: https://en.wikipedia.org/wiki/William_Macready
+[^ref3]: [The Literature Project](https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm) 
 <!-- [^ref1]: Atkins, A. _Memoir of J. G. Children, esq: including some unpublished poetry_  p.1 and p.19.
 [^ref2]: Atkins, A. _Memoir of J. G. Children, esq: including some unpublished poetry_  p.29.
 [^ref3]: Forgan, Sophie. 'Children, John George (1777–1852), chemist.' [Oxford Dictionary of National Biography](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5299)  Oxford University Press. Accessed: 20 July 2022. 
