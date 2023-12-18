@@ -13,12 +13,13 @@
 <param ve-entity eid="Q17545758" aliases="Ramhurst">
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 <param ve-entity eid="Q939838" aliases="Sevenoaks"> -->
+<param ve-entity eid="Q99678204" aliases="thank God">
 
 #
 
 Farewell! Left London at half-past eleven and reached Canterbury at half-past six.[^ref1]
 Broadstairs, August 29th 1840 — Left Canterbury in a chaise, and came very slowly along to Broadstairs ; was pleased to look again upon the fields and trees, though it seemed like a surprise to me to see the stubble fields and the harvest gathered. The beauty of the wild flowers by the roadside, few as they were, was sweet and pleasing to my sight. I found my wife and dear family all well, thank God, and after breakfast lay down for two of three hours. I arranged my accounts and surrendered all the rest of my day to idleness and the enjoyment of the society of my dear children. Was much irritated and annoyed by the report of fresh instances of impertinence and falsehood in the Observer newspaper. My anger was greatly excited, but reflection shows me that the baseness is only elevated by taking notice of it.
-<param ve-image url="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fbiography%2FWilliam-Charles-Macready&psig=AOvVaw2UMeN1Kbs-qV0kJAPhM7x8&ust=1702992406537000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjZ25WLmYMDFQAAAAAdAAAAABAD" label="Charles Macready, 1861" attribution="Unknown author, Public domain, via Wikimedia Commons">
+<param ve-image url="https://placekitten.com/200/139" label="Charles Macready, 1861" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <!-- <param ve-map center="Q936183" zoom="12">
 <param ve-map center="Q99678204" zoom="12">
 <param ve-map center="Q2220232" zoom="12">
@@ -56,7 +57,7 @@ Canterbury November 11th. — Dearest Catherine's birthday. Left Canterbury by t
 <param ve-map center="Q2744669" zoom="15"> -->
 
 ### References
-[^ref1]: (https://archive.org/details/diariesofwilliam02macruoft/page/432/mode/2up?q=Canterbury) 
+[^ref1]:(https://archive.org/details/diariesofwilliam02macruoft/page/432/mode/2up?q=Canterbury)
 <!-- [^ref1]: Atkins, A. _Memoir of J. G. Children, esq: including some unpublished poetry_  p.1 and p.19.
 [^ref2]: Atkins, A. _Memoir of J. G. Children, esq: including some unpublished poetry_  p.29.
 [^ref3]: Forgan, Sophie. 'Children, John George (1777–1852), chemist.' [Oxford Dictionary of National Biography](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5299)  Oxford University Press. Accessed: 20 July 2022. 
