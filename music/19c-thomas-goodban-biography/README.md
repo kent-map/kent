@@ -19,7 +19,7 @@ It is an attractive product: musical signs and symbols adorn the border, and a c
 If Praise you seek, take care of Time   
 And never from it stray;   
 By crotchets or by quavers count   
-In ev’ry Bar you play.   
+In ev’ry Bar you play.
 <br><br>
 Some 230 subscribers are listed at the front of the booklet. Most are local, but the list includes music and booksellers as far afield as Marlborough, Stockport, Norwich, Newport, and Hull. Beyond this, it is difficult to tell how much success the venture brought him, though one contemporary periodical recommended it: the Quarterly _Musical Magazine and Review_ devoted over four pages to a – largely complimentary – article about it. 
 <param ve-image url="/images/MusicalCharacters-797x1024.jpg" label="Goodban’s Game of Musical Characters. Published in 1818" attribution="By kind permission of Walter Havighurst Special Collections, Miami University">
