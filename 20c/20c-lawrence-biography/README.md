@@ -9,7 +9,7 @@
 We’re going away to Margate tomorrow. Oh dear, oh Lord, Margate!   
 _Letter to Katherine Clayton, 8 July 1913_[^ref1]
 <br><br>
-David Herbert Lawrence, a coal miner's son and struggling writer from Nottingham, visited Kent in the autumn of 1911. Depressed by his work as a teacher, he had sent two short stories to critic and literary editor Edward Garnett who invited him to stay at his home The Cearne at Crockham Hill. Lawrence had a 'ripping time' with Garnett discussing literature in his ingle nook fireplace and was to return to the house several times.[^ref2]  It was here that he wrote three dialect ballads: 'The Collier’s Wife’, ‘Whether or Not’ and ‘The Drained Cup’.[^ref3] 
+David Herbert Lawrence, a coal miner's son and struggling writer from Nottingham, visited Kent in the autumn of 1911. Depressed by his work as a teacher, he had sent two short stories to critic and literary editor Edward Garnett who invited him to stay at his home The Cearne at Crockham Hill, Edenbridge. Lawrence had a 'ripping time' with Garnett discussing literature in his ingle nook fireplace and was to return to the house several times.[^ref2]  It was here that he wrote three dialect ballads: 'The Collier’s Wife’, ‘Whether or Not’ and ‘The Drained Cup’.[^ref3] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Green_at_Crockham_Hill_-_geograph.org.uk_-_4474691.jpg/1024px-The_Green_at_Crockham_Hill_-_geograph.org.uk_-_4474691.jpg" label="The Green at Crockham Hill" attribution="Peter Trimming, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 In 1912, Lawrence eloped  with Frieda, the wife of his modern language professor. He and Frieda stayed at Garnett's home en route to the continent and it was here that Lawrence wrote ‘At the Cearne’:

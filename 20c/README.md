@@ -9,6 +9,7 @@
 
 ### People
 
+[H.E. Bates](20c-bates-biography)    
 [Edmund Blunden](20c-blunden-biography)   
 [Elizabeth Bowen](20c-bowen-biography)   
 [Jocelyn Brooke](20c-brooke-biography)   
