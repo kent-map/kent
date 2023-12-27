@@ -29,5 +29,5 @@ Bates uses the Kent landscape to reflect the emotions of his characters whilst a
 
 As well as fiction, H.E. Bates wrote a biography of Edward Garnett, literary mentor and agent, and friend of [D.H. Lawrence](/20c/20c-lawrence-biography), who lived near Edenbridge. Two of his books _My Uncle Silas_ and _Sugar for the Horse_ were illustrated by Edward Ardizzone who lived at Rodmersham Green.
 
-Bates died in Canterbury on 29 January 1974 and is buried at Charing Crematorium.
+Bates died in Canterbury on 29 January 1974 and is interred at Charing Crematorium.
 
