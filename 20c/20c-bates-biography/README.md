@@ -5,7 +5,9 @@
 
 #
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter, originally from Northamptonshire became well-known for his _Darling Buds of May_ novel, published in 1958 which centred around the Larkin family and their adventures in rural Kent. The book and its sequels were later turned into a popular television series, starring David Jason and Catherine Zeta-Jones. Bates had moved to The Granary, Little Chart near Pluckley with his wife Madge in 1931 and remained here for the rest of his life.[^ref1] He wrote of his adopted county: 
+Herbert Ernest Bates (1905-1974), a newspaper reporter, originally from Northamptonshire became well-known for his _Darling Buds of May_ novel, published in 1958 which centred around the Larkin family and their adventures in rural Kent. The book and its sequels were later turned into a popular television series, starring David Jason and Catherine Zeta-Jones. 
+<br><br>
+Bates had moved to The Granary, Little Chart near Pluckley with his wife Madge in 1931 and remained here for the rest of his life.[^ref1] He wrote of his adopted county: 
 <br><br>
 'From the primroses and bluebells of spring to the wild strawberries and golden yellow rock-roses and even wild columbines of high summer we felt, I think that this was the shrine at which we had come so far to worship. Beside it our native Northamptonshire seemed bare and cold and desolate.’[^ref2]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg" label="Photo taken by the author's wife, Marjorie Bates, C1932 at their home in Kent" attribution="Pipplepop, via Wikimedia Commons" license="CC BY-SA 4.0">
