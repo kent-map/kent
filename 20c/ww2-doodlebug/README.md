@@ -44,7 +44,7 @@ With heavy bombing on the capital massively impacting public morale, the British
        license="Joseph Quincy Adams. Image credit C. W. Redwood, formerly technical artist at Cornell University, Public domain, via Wikimedia Commons" 
        url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Spitfire-Tipping-V-1-Flying-Bomb-wiki.jpg">
 
-Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. It is estimated that doodlebugs killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref13] Squadron Leader H.E. Bates, who was serving with the R.A.F. during the second world war, was commissioned to write _The Battle of the Flying Bomb_ but the publication was cancelled. He would later move to Little Chart, where he wrote _The Darling Buds of May_.[^ref14]
+Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. It is estimated that doodlebugs killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref13] Squadron Leader [H.E. Bates](/20c/20c-bates-biography), who was serving with the R.A.F. during the second world war, was commissioned to write _The Battle of the Flying Bomb_ but the publication was cancelled. He would later move to Little Chart, where he wrote _The Darling Buds of May_.[^ref14]
 <param ve-map center="Q123977" zoom="15">
 
 ### References
