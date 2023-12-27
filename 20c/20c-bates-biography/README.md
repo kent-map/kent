@@ -5,7 +5,7 @@
 
 #
 
-Known for his _Darling Buds of May_ novels, later televised, which centred around the Larkin family and their adventures in rural Kent, Herbert Ernest Bates (1905-1974), a newspaper reporter, originally from Northamptonshire, moved to Little Chart near Pluckley with his wife Madge in 1931.[^ref1] He wrote of his adopted county: 
+Known for his _Darling Buds of May_ novels, later televised, which centred around the Larkin family and their adventures in rural Kent, Herbert Ernest Bates (1905-1974), a newspaper reporter, originally from Northamptonshire, moved to The Granary, Little Chart near Pluckley with his wife Madge in 1931.[^ref1] He wrote of his adopted county: 
 <br><br>
 'From the primroses and bluebells of spring to the wild strawberries and golden yellow rock-roses and even wild columbines of high summer we felt, I think that this was the shrine at which we had come so far to worship. Beside it our native Northamptonshire seemed bare and cold and desolate.’[^ref2] ( ‘The Blossoming World’ 88)
 
