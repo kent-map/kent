@@ -2,7 +2,7 @@
 <param ve-config title="Edith Nesbit, Dymchurch" author="Eleanor Fitzsimons" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
-<param ve-entity eid="Q1506093" aliases="Romney Marsh" "Romney">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
 <param ve-entity eid="Q748895" aliases="Cinque Ports">
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q179224" aliases="Dover">
