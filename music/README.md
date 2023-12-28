@@ -17,7 +17,7 @@ The catch consists of a single melody, broken up into phrases of equal length (u
 
 [Catch Club](19c-catch-club)  
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4422f81a-1554-4ec0-878a-81e2e415fdf7)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/music/Beaney.jpg)
 
 An evening at the theatre or the catch club could be a lively affair.
 
