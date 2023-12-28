@@ -17,7 +17,7 @@ The catch consists of a single melody, broken up into phrases of equal length (u
 
 [Catch Club](19c-catch-club)  
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4422f81a-1554-4ec0-878a-81e2e415fdf7)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/music/Beaney.jpg)
 
 An evening at the theatre or the catch club could be a lively affair.
 
@@ -41,7 +41,7 @@ A glance through the pages of a local paper at any point in the eighteenth and n
 
 [Charles Dobson](19c-charles-dobson-biography)   
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4422f81a-1554-4ec0-878a-81e2e415fdf7)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Glee_singers_%28BM_1878%2C1012.382%29.jpg)
 
 Charles Henry Dobson, a Canterbury cathedral singer with 14 years of service (1825–1839) is not mentioned in the Catch Club records, which is odd because his name crops up repeatedly in newspaper reports covering everything else musical in this period. 
 
@@ -49,7 +49,7 @@ Charles Henry Dobson, a Canterbury cathedral singer with 14 years of service (18
 
 [Thomas Goodban](19c-thomas-goodban-biography)   
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4422f81a-1554-4ec0-878a-81e2e415fdf7)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/62/A_Catch._Une_Chansonnette_%28BM_1935%2C0522.1.76%29.jpg)
 
 Thomas Goodban (1784–1863), the long-standing conductor of the Catch Club Orchestra, was an entrepreneurial force in the club.
 
@@ -65,7 +65,7 @@ William Henry Longhurst, a singer and composer, gave 14 years of service to Cant
 
 [John Marsh](19c-john-marsh-biography)   
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4422f81a-1554-4ec0-878a-81e2e415fdf7)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/244f4d71-a16f-4dc8-b220-994b63422a06)
 
 According to the extensive journal of John Marsh, gentleman, barrister, and talented amateur musician, the few years he spent living at Nethersole, near Canterbury, were notable for the concerts in which he either played a leading role (as violinist, organist, composer, and/or organiser) or was an enthusiastic member of the audience. 
 
