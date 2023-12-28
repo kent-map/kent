@@ -3,9 +3,7 @@
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
-**Publication** _David Copperfield_ (1850)
-
-_‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’_   
+‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’   
 _David Copperfield_
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/In_Dickens_Land._The_Little_Inn,_Canterbury.jpg" label="Little Inn, Dickens Land">
 
