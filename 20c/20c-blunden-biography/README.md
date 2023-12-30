@@ -1,11 +1,19 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Edmund Blunden" author="Alice Sellors and Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Court%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2369693.jpg" attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" license="CC BY-SA 2.0">
+<param ve-config title="Edmund Blunden" author="Alice Sellors and Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Court%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2369693.jpg" attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" license="CC BY-SA 2.0" description="Alice Sellors and Michelle Crowther trace Kent connections in the life and work of poet, author and critic, Edmund Blunden.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q2051722" aliases="Yalding">
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param data-map center="Q2051722" zoom="15">
+
+<!-- Base map centred on Yalding -->
+<!-- param data-map center="Q2051722" zoom="15" -->
+<param ve-map center="Q2051722" zoom="15">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
 #
 
@@ -33,6 +41,8 @@ In 1945, his book _English Villages_ was published, in which he described Yaldin
 <br><br>
 'And here, among abundance of chestnuts and elms and cedars and acacias, the village streets begin. They are by no means mathematically planned, but that is a general feature of these villages, resulting in rather more of detached beauty than of entire and immediately observable design. Another characteristic is that many of the best houses are concealed, or partly so, beyond high red walls or thick shrubberies of cherry laurel and boxtree, so that it takes time and a good deal of peeping to find out the pleasures of this parish.'[^ref9]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Close-up_of_Yalding_Village_Sign_%282012%29_-_geograph.org.uk_-_3164900.jpg" label="Yalding Village Sign, 2012" attribution="David Anstiss, via Wikimedia Commons" license=" CC BY-SA 2.0"> 
+<!-- Base map centred on Yalding -->
+<param ve-map center="Q2051722" zoom="15">
 
 Blunden had a complicated personal life, marrying several times and moving frequently with work. He spent a short time in Chatham and also Tonbridge where he wrote 'VE Day', which was published after his death. He retired from teaching in 1964 and died ten years later. He is buried in Long Melford, Suffolk.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/VE_DAY_Piccadily_1945.jpg" label="Piccadilly Square pictured as supporters celebrate VE Day, May 08, 1945. Photo taken by Sgt. James A. Spence, during his service in World War II." attribution="Mrjspence at English Wikipedia, via Wikimedia Commons" license="CC BY-SA 3.0">
