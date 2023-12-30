@@ -4,7 +4,7 @@
        title="S.C. Nethersole (1869-1956)"
        author="Michelle Crowther"
        banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-       layout="vertical">
+       layout="vertical"  description="This visual essay by Michelle Crowther documents the life and work of the Kent rural fiction author Susie Colyer Nethersole.">
 
 <param ve-entity eid="Q2195317" aliases="Goodnestone">
 <param ve-entity eid="Q179224" aliases="Dover">
@@ -13,11 +13,21 @@
 <param ve-entity eid="Q2104233" aliases="Sydenham">
 <param ve-entitley eid="Q26608214" aliases="Rowling Court">
 
+<!-- Base map centred on Goodnestone -->
+<param ve-map center="Q2195317" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
+
+#
+
 
 ‘Yonder a meadow down whose length a flock of sheep were folded on successive days; against the horizon line stretched the free downs, owned by none, belonging to all; here sheep might feed, cattle might browse, but no man must fence them in, or if he did the poorest wayfarer might break it down.’ – _Wilsam_, 1913.[^ref1]
 <br><br>
 Susie Colyer Nethersole, author of rural fiction, was born on the 14 May 1869 at Goodnestone. She was the eldest daughter of Michael and Susannah Nethersole née Colyer and lived at Rowling Court where her father farmed 220 acres.[^ref2]  This area was known for its good sheep-grazing.  Hasted wrote: “In the easternmost parts of Kent, and on the high chalk cliffs and hills on the coast, there are, however, several tracts of downs, viz. from Barham-down to [Deal](/seascape/deal/), and from thence to Dover, and so on to Folkestone and Hith, and in some other places on the summit of these hills; but they are in general well covered with grass, and afford good pasture for sheep, &c.”[^ref3] In 1871, one of her father’s shepherds won a prize of 15 shillings at the Nonington, Wingham, Ash and Eastry Agricultural Association show for breeding 127 lambs from 102 ewes.[^ref4]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/78/Sheep_in_a_Landscape_by_Thomas_Sidney_Cooper_1844.jpg" label="Sheep in a landscape by Thomas Sidney Cooper" attribution="Thomas Sidney Cooper, Public domain, via Wikimedia Commons">
+<!-- Base map centred on Goodnestone -->
+<param ve-map center="Q2195317" zoom="10">
 
 Nethersole keenly observed life on the farm, particularly the conversations around her. In her 1913 book _Wilsam_, Mr Hassock describes driving sheep to market:
 <br><br>
@@ -28,6 +38,8 @@ By the time Nethersole was eleven, her parents had moved to Crixhall Court near 
 <br><br>
  'Numparel and me are doing French verbs,' up and spoke Mercy in her soft, serious voice, 'and we say them over to Hannah, and she says them to us, and then we remember them better... Oh, I're a fine scholard now I're larnin’ Bonyparty's talk'.[^ref7]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Crixhall_Court._-_geograph.org.uk_-_304512.jpg" label="Crixhall Court" attribution="Nick Smith" license="CC BY-SA 2.0">
+<!-- Base map centred on Staple -->
+<param ve-map center="Q2232081" zoom="10">
 
 When Mercy is sent to school in Sibert’s Wood (Sibertswold also known as Shepherdswell) she feels sad that she will no longer receive lessons at home:
 <br><br>
@@ -73,6 +85,8 @@ Her sister Florence married John Lade Worsfold of Sandwich, cousin of [Jessie Ch
 <br><br>
 This article was published: 8 January 2023.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Fleur_de_Lys_-_geograph.org.uk_-_3283851.jpg/1165px-The_Fleur_de_Lys_-_geograph.org.uk_-_3283851.jpg" label="The Fleur de Lys, Sandwich" attribution="Des Blenkinsopp, via Wikimedia Commons" license="CC BY-SA 2.0"> 
+<!-- Base map centred on Whitstable -->
+<param ve-map center="Q964785" zoom="10">
 
 ### References
 
