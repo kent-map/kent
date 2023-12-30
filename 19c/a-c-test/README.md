@@ -155,3 +155,91 @@ Joseph Conrad, an extraordinary and significant Polish British literary figure o
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/05/7_of_%27%28The_Night_Side_of_Nature-_or%2C_Ghosts_and_ghost_seers.%29%27_%2811152605346%29.jpg) 
 
 Crowe’s father was a wine merchant and ran a coffee house in London where his customers included Lord Byron. ‘Stevens’s Coffee House’ had a reputation for association with ‘free-traders’ (pirates or smugglers in more common parlance) and this is a theme that runs through many of Crowe’s novels, particularly in relation to Kent. 
+
+## Richard Dadd (1817-1886)
+
+[Richard Dadd](19c-dadd-biography/)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/711b2c87-7604-4f8d-a6e6-fd3f9463aecf) 
+
+Richard Dadd was one of chemist and druggist Robert Dadd’s seven children and would become one of the most famous inmates of Bethlem Hospital for the insane. His early work was surrealist in style, including his famous paintings of fairies and the supernatural. 
+
+## Charles Darwin (1809-1882) 
+
+[Charles Darwin](19c-darwin-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ae/Charles_Darwin_by_Julia_Margaret_Cameron_3.jpg)
+
+Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. They may be aware of his Journal and Remarks (generally known as The Voyage of the Beagle (1839)), in which a youthful Darwin recounted his five years travelling the world. 
+
+## Charles Dickens (1812-1870)
+
+[Charles Dickens](dickens)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/60/Engraving_of_Dickens_at_Gad%27s_Hill%2C_Samuel_Hollyer.png) 
+
+One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
+
+## Sir Arthur Conan Doyle (1859-1930) 
+
+[Sir Arthur Conan Doyle](19c-conan-doyle)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/a8/Portrait_of_Arthur_Conan_Doyle.jpg) 
+
+The creator of the world’s most famous detective Sherlock Holmes, no fewer than six of his stories involve Kent railway stations. 
+
+## William Dyce (1806-1864) 
+
+[William Dyce](href=19c-dyce-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3b/William_Dyce_-_Pegwell_Bay%2C_Kent_-_a_Recollection_of_October_5th_1858_-_Google_Art_Project.jpg) 
+
+William Dyce was a Scottish painter, who played a part in the formation of public art education in the United Kingdom, and the South Kensington Schools system.
+
+## Mary Ann/ Marian Evans [pseud. George Eliot] (1819–1880) 
+
+[George Eliot](19c-eliot-george-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://cdn.britannica.com/03/147603-050-AEDF3416/George-Eliot-Frederic-William-Burton-engraving-chalk.jpg) 
+
+Marian Evans, later known as the novelist, George Eliot, visited Broadstairs in the summer of 1852. According to Hughes it was unusual for a single woman to holiday alone and so the Chapmans, with whom Evans lodged in London, escorted her to the coast, thus giving an air of respectability about her stay
+
+## Sir John Franklin (1786–1847) 
+
+[Sir John Franklin](19c-franklin-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/John_Franklin#/media/File:Sir_John_Franklin_by_Thomas_Phillips.jpg)
+
+On Monday [19 May 1845] H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America. Franklin’s reputation had suffered and he hoped to redeem it by discovering the North-West Passage. 
+
+## Thomas Frost (1821-1908)
+
+[Thomas Frost](19c-frost-biography) 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/aa/Charles_Dickens_and_Rochester_%281880%29_%2814581635499%29.jpg)
+
+The chartist, journalist and radical writer Thomas Frost was born in Croydon on 16 December 1821. His father (a tailor by profession) was involved with the Reform Bill agitation.
+
+## Elizabeth Gould (1804-1841)
+
+[ELizabeth Gould](19c-gould-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg)
+
+ In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John, her husband, prepared for his customer. After two years of strenuous hard work, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. 
+
+ ## Sarah Grand (1854-1943)
+ 
+ [Sarah Grand](19c-grand-biography)
+
+ ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg) 
+
+Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920. Here she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies and was involved with the Women’s Volunteer Reserve Force during WW1. 
+
+## George Grossmith (1847-1912) 
+
+[George Grossmith](19c-grossmith-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/93/Weedon_and_George_Grossmith.jpg)
+
+George Grossmith was an actor and theatrical manager, producer and director. But his lasting contribution to literature is the comic Diary of a Nobody, written with his brother Weedon Grossmith. 
