@@ -14,7 +14,7 @@
 <param ve-entitley eid="Q26608214" aliases="Rowling Court">
 
 <!-- Base map centred on Goodnestone -->
-<param ve-map center="Q2195317" zoom="10">
+<param ve-map center="Q2195317" zoom="12">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
