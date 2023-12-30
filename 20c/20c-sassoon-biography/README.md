@@ -1,16 +1,28 @@
 
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Siegfried Sassoon (8 September 1886 to 1 September 1967)" author="Dr Andrew Palmer" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/37/Thistledown%2C_Matfield%2C_Kent.JPG">
+<param ve-config title="Siegfried Sassoon (8 September 1886 to 1 September 1967)" author="Dr Andrew Palmer" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/37/Thistledown%2C_Matfield%2C_Kent.JPG" description="Dr Andrew Palmer
+traces the Kent landscape in the war poetry of county native Siegfried Sassoon.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q2183870" aliases="Matfield">
+
+<!-- Base map centred on Matfield -->
+<param ve-map center="Q2183870" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
 #
 
 Siegfried Sassoon (1886-1967) is one of the most widely read poets of the First World War alongside his friend and protégé [Wilfred Owen](/20c/20c-owen-biography). His best-known works are the punchy, satirical poems in which he delivers biting judgements about incompetent generals, hypocritical clerics, jingoistic journalists and uncaring civilians.[^ref1]  In all of those poems, he writes in the voice of a soldier speaking, as it were, from the front. However, his greatest war poem is set not in the trenches but at his home in the High Weald of Kent. The home is Weirleigh, a Victorian neo-Gothic mansion on the edge of the village of Matfield. The poem is ‘Repression of War Experience’.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Siegfried_Sassoon_by_George_Charles_Beresford_%281915%29.jpg" label="Siegfried Sassoon, May 1915" attribution="George Charles Beresford via Wikimedia Commons"> 
+<!-- Base map centred on Matfield -->
+<param ve-map center="Q2183870" zoom="12">
 
 Sassoon was born at Weirleigh in 1886 and lived there throughout his childhood. When he dropped out of university in 1907, he returned there and began to write his first serious poetry. Once in uniform, he stayed at Weirleigh during periods of leave. ‘Repression of War Experience’ was written during one such period in the summer of 1917. In the preceding year, he had gained a reputation for reckless acts of courage. His exploits earned him the Military Cross in 1916, but they were also a symptom of growing mental distress. The young man he loved, David Thomas, had been killed in action. He suffered grief and despair. In his diary, he wrote: ‘There is no tenderness left in me; only bitter resentment . . . For the soldier is no longer a noble figure; he is merely a writhing insect among this ghastly folly of destruction.’ 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/90/Matfield_pond_2.jpg" label="Matfield Pond" attribution="Poliphilo, CC0, via Wikimedia Commons">
+<!-- Base map centred on Matfield -->
+<param ve-map center="Q2183870" zoom="12">
 
 In April 1917, he was shot through the shoulder and was shipped back to England. Once home, his trauma manifested itself in night-time visions of eviscerated corpses and men dying of gruesome wounds. In a letter, he described his nights: ‘when the lights are out, … then the horrors come creeping across the floor: the floor is littered with parcels of dead flesh and bones, faces glaring at the ceiling, faces turned to the floor, hands clutching neck or belly; a livid grinning face with bristly moustache peers at me over the edge of my bed, the hands clutching my sheets.’ At this time, he was also mixing with pacifist campaigners like Bertrand Russell and Ottoline Morell. They were encouraging him to write a public statement in which he would declare his refusal to return to the front – an event memorably fictionalised in Pat Barker’s novel _Regeneration_ (1991). It was in this context that he drafted ‘Repression of War Experience’ at Weirleigh in June 1917.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Siegfried_Sassoon_by_Glyn_Warren_Philpot_1917.jpeg" label="Siegfried Sassoon" attribution="Glyn Warren Philpot, 1917, Courtesy of the collection of the Fitzwilliam Museum">

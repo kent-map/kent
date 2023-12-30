@@ -14,7 +14,7 @@
 <param ve-entitley eid="Q26608214" aliases="Rowling Court">
 
 <!-- Base map centred on Goodnestone -->
-<param ve-map center="Q2195317" zoom="10">
+<param ve-map center="Q2195317" zoom="12">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
@@ -27,7 +27,7 @@
 Susie Colyer Nethersole, author of rural fiction, was born on the 14 May 1869 at Goodnestone. She was the eldest daughter of Michael and Susannah Nethersole née Colyer and lived at Rowling Court where her father farmed 220 acres.[^ref2]  This area was known for its good sheep-grazing.  Hasted wrote: “In the easternmost parts of Kent, and on the high chalk cliffs and hills on the coast, there are, however, several tracts of downs, viz. from Barham-down to [Deal](/seascape/deal/), and from thence to Dover, and so on to Folkestone and Hith, and in some other places on the summit of these hills; but they are in general well covered with grass, and afford good pasture for sheep, &c.”[^ref3] In 1871, one of her father’s shepherds won a prize of 15 shillings at the Nonington, Wingham, Ash and Eastry Agricultural Association show for breeding 127 lambs from 102 ewes.[^ref4]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/78/Sheep_in_a_Landscape_by_Thomas_Sidney_Cooper_1844.jpg" label="Sheep in a landscape by Thomas Sidney Cooper" attribution="Thomas Sidney Cooper, Public domain, via Wikimedia Commons">
 <!-- Base map centred on Goodnestone -->
-<param ve-map center="Q2195317" zoom="10">
+<param ve-map center="Q2195317" zoom="12">
 
 Nethersole keenly observed life on the farm, particularly the conversations around her. In her 1913 book _Wilsam_, Mr Hassock describes driving sheep to market:
 <br><br>

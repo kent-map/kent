@@ -382,7 +382,7 @@ Augustus Welby Pugin, the charismatic leader and promoter of the Gothic Revival,
 
 ## Joseph Pyke (1824-1902) 
 
-[Jospeh Pyke](19c-pyke-biography)
+[Joseph Pyke](19c-pyke-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/64/Charles_Dickens_and_Rochester_%281880%29_%2814767951952%29.jpg)
 
