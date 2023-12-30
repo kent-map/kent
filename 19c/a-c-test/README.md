@@ -116,6 +116,14 @@ Sir Francis Cowley Burnand (knighted in 1902) is best known as the editor of Pun
 
 Jane Carlyle, wife of the Scottish historian, philosopher and essayist, Thomas Carlyle, visited Ramsgate with her dear friend, novelist and book reviewer, Geraldine Jewsbury in August 1861. 
 
+## Charles Carrick (1823-1890)
+
+[Charles Carrick](19c-carrick-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
+
+Charles Carrick, schoolmaster, published his anthology _Poems: serious, humorous, and satirical_ in 1870.
+
 ## Jessie Challacombe (1864-1925) 
 
 [Jessie Challacombe](19c-challacombe-biography)
@@ -136,7 +144,7 @@ Mary Cowden Clarke (née Novello) (1809-1898), author and Shakespeare scholar, w
 
 [Wilkie Collins](19c-collins-biography/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/Wilkie_Collins#/media/File:Wilkie-Collins.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/14%2C_Nelson_Crescent%2C_Ramsgate.jpg) 
 
 Best-selling author, playwright and, according to some, the father of detective fiction, Wilkie [William] Collins frequented the Kent coast regularly on excursions for his health and to visit his close friend, Dickens. 
 
@@ -208,7 +216,7 @@ Marian Evans, later known as the novelist, George Eliot, visited Broadstairs in 
 
 [Sir John Franklin](19c-franklin-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/John_Franklin#/media/File:Sir_John_Franklin_by_Thomas_Phillips.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/46/Fran%C3%A7ois_Musin_-_The_Search_for_Sir_John_Franklin_in_the_Arctic.jpeg)
 
 On Monday [19 May 1845] H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America. Franklin’s reputation had suffered and he hoped to redeem it by discovering the North-West Passage. 
 
@@ -226,7 +234,7 @@ The chartist, journalist and radical writer Thomas Frost was born in Croydon on 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg)
 
- In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John, her husband, prepared for his customer. After two years of strenuous hard work, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. 
+In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John, her husband, prepared for his customer. After two years of strenuous hard work, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. 
 
  ## Sarah Grand (1854-1943)
  
