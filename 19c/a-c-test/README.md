@@ -243,3 +243,171 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and propon
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/93/Weedon_and_George_Grossmith.jpg)
 
 George Grossmith was an actor and theatrical manager, producer and director. But his lasting contribution to literature is the comic Diary of a Nobody, written with his brother Weedon Grossmith. 
+
+## George Alfred Henty (1832-1902) 
+
+[George Alfred Henty](19c-henty-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/34/Portrait_of_G._A._Henty.jpg)
+
+George Alfred Henty who wrote as G A Henty was a Crimean War correspondent as well as a prolific author. In his day his books sold millions of copies. He wrote more than 100, and most, though not all, of his writing is for boys. 
+
+## Georgina Hogarth and Ellen Ternan
+
+[Georgina Hogarth and Ellen Ternan](19c-hogarth-ternan)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/37/Georgina-hogarth-mamie-dickens.jpg)
+
+In 1876, six years after Dickens’s death, Ellen Ternan married George Wharton Robinson, a clergyman. After touring the south coast looking for suitable premises, the Robinsons decide to invest their money into Margate High School. It was there, in Wharton House, that Georgina Hogarth, sometimes accompanied by Dickens’s eldest daughter, Mamie, came to stay.
+
+## Hugh Price Hughes (1847 – 1902) 
+
+[Hugh Price Hughes](19c-price-hughes-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=ttps://upload.wikimedia.org/wikipedia/commons/f/ff/A_drunken_man_surrounded_by_women_in_a_dingy_alehouse._Litho_Wellcome_V0019393.jpg) 
+
+Reverend Hugh Price Hughes, Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869. Aged twenty-two and fresh from Richmond Theological College, the ‘pale bespectacled’ young man was to become a key figure in the Dover temperance movement.
+
+## Anna Maria Hussey, née Reed (1805–1853)
+
+[Anna Maria Hussey](19c-hussey-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f3/David_Cox_-_Dover_-_Google_Art_Project.jpg)
+
+Writer, mycologist and botanical illustrator Anna Maria Hussey, née Reed was born in Leckhampstead, Buckinghamshire. In 1831, she married Rev. Dr Thomas John Hussey, rector of Hayes, Kent. 
+
+## Henry James (1843-1916) 
+
+[Henry James](19c-jamesh-hever-castle) 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/04/Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg)
+
+The opportunity came in the form of a storyline idea that first occurred to James at the end of 1892 as a challenge to the stereotyping of American incomers as unable to understand English heritage except in terms of plunder and profit. He would make an American rather than an English character into a paradoxical embodiment of the values “of attachment to the past, of romance, of history, continuity and conservatism”. 
+
+## Edith Katherine Spicer Jay (1847-1901)
+
+[Edith Katherine Spicer Jay](19c-spicer-jay-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/68/The_promenade_Sandgate_England.jpg)
+
+Edith Katherine Spicer Jay, a writer of popular military tales, lived in Sandgate during the last ten years of her life. Miss Jay, who wrote under the pseudonym E. Livingston Prescott was the daughter of a Scottish barrister and often depicted stories of military heroism and barrack-room life.
+
+## Jerome K. Jerome (1859-1927)
+
+[Jerome K. Jerome](19c-jerome-biography) 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ab/Jerome_Three_Men_in_a_Boat_First_edition_1889.jpg)
+
+Watching Folkestone from a steamer in the summer of 1891, the writer Robert Barr quotes Jerome as saying, ‘I like a place where you don’t need to wear a collar and where you can “mooch” around.’ 
+
+## Douglas William Jerrold (1803-1857) 
+
+[Douglas William Jerrold](19c-jerrold-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cd/Edmund_Kean_in_the_Character_of_Macbeth_1814_George_Henry_Harlow.jpg)
+
+Dramatist and writer, Douglas Jerrold was born on the 3rd of January 1803 and by 1813, profits in the theatre were down, so Jerrold aged 10 left school and went to sea, serving on the gunship Namur. His captain was Jane Austen’s brother. His later work as a printer, and then compositor, exposed him to the world of literature. He began writing plays and periodical articles.
+
+## Dora Jordan (1761-1816)
+
+[Dora Jordan](19c-jordan-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/Dorothea_Jordan#/media/File:Jordan_by_Hoppner.jpg)
+
+Mrs Dora Jordan was the foremost actress of her day and very much admired. She became the long-standing mistress of the Duke of Clarence, the future King William IV, with whom she lived for many years and had ten children. 
+
+## John Keats (1795-1821) 
+
+[John Keats](19c-keats-margate)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/bettisonslibrary.jpg) 
+
+The Romantic poet John Keats, whose short but remarkable career and early death from tuberculosis at the age of twenty-five have made him one of the most known and best loved poets of all time, holidayed in Margate on two occasions.
+
+## Eliza Lynn Linton (1822-1898) 
+
+[Eliza Lynn Linton](19c-lynn-linton-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/05/The_life_and_writings_of_Charles_Dickens-_a_woman%27s_memorial_volume_%281871%29_%2814578986289%29.jpg) 
+
+Gad’s Hill Place in Higham is well-known for being the country home of Charles Dickens, but this is not its only literary connection. It had previously belonged to the family of Eliza Lynn Linton; one of the most prolific writers of her time, who is known for being the first female salaried journalist in Britain.
+
+## John Edensor Littlewood (1885-1977) 
+
+[John Edensor Littlewood](19c-edensor-littlewood)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f6/Dover_College_postcard.jpg)
+
+In 1912, Littlewood published the first of a series of papers with G.H. Hardy, a collaboration which was to last 35 years. The two mathematicians published articles on Diophantine analysis, divergent series summation, Fourier series, the Riemann zeta function and the distribution of primes. 
+
+## Bessie Marchant (1862-1941) 
+
+[Bessie Marchant](19c-marchantb-biography) 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Bessie_Marchant_%281862%E2%80%931941%29%2C_by_unknown_photoer%2C_1941.jpg) 
+
+Bessie Marchant (Bessie Marchant Comfort, Mrs J. A. Comfort, pesud. John Comfort) was an author and set a number of her earlier novels in the place of her childhood – Kent.
+
+## George Meredith (1828-1909) 
+
+[George Meredith](19c-meredith-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/25/George_Meredith_by_George_Frederic_Watts.jpg)
+
+In a letter dated October 1884, the poet and novelist George Meredith tells Robert Louis Stevenson of his plan to visit Ramsgate, ‘whither I go for bracing air, for half a week’.
+
+## Alfred Moberly (1835-1912)
+
+[Alfred Moberly](19c-moberly-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg)
+
+Alfred Moberly, army major and author of the sensation novel Lady Valeria, was born in Clapham in 1835. Alfred joined the Royal Scots regiment and saw action in the Baltic in 1854. Five years later, he was appointed Instructor of Musketry at Hythe, a position he was to hold for eighteen years. 
+
+## F. F. Montrésor (1862-1934) 
+
+[F.F. Montrésor](19c-montresor-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/a2/The_Argosy_%281865%29_%2814777372625%29.jpg) 
+
+Romance novelist Frances Frederica (Freda) Montrésor was born at Walmer as the fourth daughter of Commodore Frederick Byng Montrésor and Emily Maria Montrésor.Freda’s first novel Into the Highways and Hedges was published in February 1895
+
+## Augustus Welby Pugin (1812 –1852)
+
+[August Welby Pugin](19c-pugin-biography) 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/9f/Augustus_Welby_Northmore_Pugin_from_NPG.jpg) 
+
+Augustus Welby Pugin, the charismatic leader and promoter of the Gothic Revival, best known to the public for his work on the interiors of the new Palace of Westminster, was one of the most important architects of the nineteenth century. 
+
+## Joseph Pyke (1824-1902) 
+
+[Jospeh Pyke](19c-pyke-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/64/Charles_Dickens_and_Rochester_%281880%29_%2814767951952%29.jpg)
+
+he Mechanics Institute in Chatham was established in the early 1850s, and furnished aspiring tradesmen with a possibility of social advancement through its lectures. The foundation and the initial maintenance of the institute were secured by Joseph Pyke, then in his twenties, and a member of the Chatham Jewish community. 
+
+## G. W. M. Reynolds (1814 – 1879) 
+
+[G.W.M. Reynold](19c-reynoldsgwm-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/86/Londres%2C_Edimburgo%2C_Dubl%C3%ADn%2C_1886_107393_%284100573256%29.jpg) 
+
+Reynolds’s novel Mary Price (1851–53) is a tale of two cities which takes its heroine once to Paris and more than once to London; but, just as Reynolds resets the novel’s timeframe to the years between 1826 (when the heroine is eleven) and 1835 (when she is a new bride), so he shifts its geographical centre of gravity to the area between Ashford and Deal. 
+
+## Dante Gabriel Rossetti (1828-1882) and Christina Rossetti (1830-1894)
+
+[Dante Gabriel Rossetti and Christina Rossetti](19c-rossetti-biography) 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/d3/Dante_Gabriel_Rossetti_-_Joan_of_Arc_%281882%29.jpg) 
+
+D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-Raphaelite movement. He was one of the founders of the Pre-Raphaelite Brotherhood in 1848. His sister Christina was a poet associated with the Pre-Raphaelite literary movement. Her most famous collection was Goblin Market and Other Poems (1862). 
+
+## Henry Russell (1812-1900)
+
+[Henry Russell](19c-russell-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=ttps://upload.wikimedia.org/wikipedia/commons/8/8d/Henry_Russell_LCCN2003655318.jpg) 
+
+Composer and musician, Henry Russell was born in Sheerness on the Isle of Sheppey and composed between 600-800 songs, many tackling social injustice including slavery.
