@@ -9,7 +9,7 @@ Hoy and steam boats, railways and passenger ships brought people to the county i
 
 [Henry Gardiner Adams](19c-gardiner-adams-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e7/Kentish_Coronal_Dadd.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b5/Charles_Dickens_and_Rochester_%281880%29_%2814768272425%29.jpg) 
 
 Henry Gardiner Adams appears as a stationer in local directories in 1832. An ambitious, self-made man, his literary work includes The Ocean Queen, and Other Poems (1836) and the 1854 God’s Image in Ebony, an edited anthology. 
 
@@ -116,6 +116,14 @@ Sir Francis Cowley Burnand (knighted in 1902) is best known as the editor of Pun
 
 Jane Carlyle, wife of the Scottish historian, philosopher and essayist, Thomas Carlyle, visited Ramsgate with her dear friend, novelist and book reviewer, Geraldine Jewsbury in August 1861. 
 
+## Charles Carrick (1823-1890)
+
+[Charles Carrick](19c-carrick-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fcfcc4e8-e753-4294-9ec1-bf5ee7e56419)
+
+Charles Carrick, schoolmaster, published his anthology _Poems: serious, humorous, and satirical_ in 1870.
+
 ## Jessie Challacombe (1864-1925) 
 
 [Jessie Challacombe](19c-challacombe-biography)
@@ -128,7 +136,7 @@ Like her parents, Jessie contributed to the life of the church. She was a member
 
 [Mary Cowden Clarke](19c-cowden-clarke-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b0/Falstaff_and_Mistress_Quickly_Francis_Philip_Stephanoff.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b0/Falstaff_and_Mistress_Quickly_Francis_Philip_Stephanoff.jpeg)
 
 Mary Cowden Clarke (née Novello) (1809-1898), author and Shakespeare scholar, was the eldest daughter of musician Vincent Novello and Mary Hehl. Her parents were friends with the poets Charles and Mary Lamb, Leigh Hunt, Shelley and John Keats, and Mary recalls watching in awe as Keats listened attentively to her father playing the organ.
 
@@ -136,7 +144,7 @@ Mary Cowden Clarke (née Novello) (1809-1898), author and Shakespeare scholar, w
 
 [Wilkie Collins](19c-collins-biography/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/Wilkie_Collins#/media/File:Wilkie-Collins.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/20/14%2C_Nelson_Crescent%2C_Ramsgate.jpg) 
 
 Best-selling author, playwright and, according to some, the father of detective fiction, Wilkie [William] Collins frequented the Kent coast regularly on excursions for his health and to visit his close friend, Dickens. 
 
@@ -144,7 +152,7 @@ Best-selling author, playwright and, according to some, the father of detective 
 
 [Joseph Conrad](19c-conrad-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/ErebusandTerror.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=) 
 
 Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century. Despite his apparent lack of enthusiasm for studying, Conrad retained a love of Polish Romantic literature and acquired French and the classical languages whilst in Kracow, and this enabled him to engage with both his first career at sea and then his second as a writer. 
 
@@ -208,7 +216,7 @@ Marian Evans, later known as the novelist, George Eliot, visited Broadstairs in 
 
 [Sir John Franklin](19c-franklin-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/John_Franklin#/media/File:Sir_John_Franklin_by_Thomas_Phillips.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/ErebusandTerror.jpg)
 
 On Monday [19 May 1845] H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America. Franklin’s reputation had suffered and he hoped to redeem it by discovering the North-West Passage. 
 
@@ -226,7 +234,7 @@ The chartist, journalist and radical writer Thomas Frost was born in Croydon on 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg)
 
- In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John, her husband, prepared for his customer. After two years of strenuous hard work, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. 
+In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John, her husband, prepared for his customer. After two years of strenuous hard work, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. 
 
  ## Sarah Grand (1854-1943)
  
@@ -456,7 +464,7 @@ Lady Hester Stanhope is probably best known today as ‘Queen of the Desert’ o
 
 [Henrietta Vaughan Stannard](19c-vaughan-stannard)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/John_Strange_Winter#/media/File:John_Strange_Winter_0001.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/15f9c416-969a-4d55-bf7a-bdea6a14b886) 
 
 Stannard (née Palmer) John Strange Winter [pseud.], was a popular novelist who wrote approximately 112 books and contributed 42 short stories to the Family Herald under the pseudonym of 'Violet Whyte'.
 
