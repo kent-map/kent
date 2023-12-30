@@ -464,7 +464,7 @@ Lady Hester Stanhope is probably best known today as ‘Queen of the Desert’ o
 
 [Henrietta Vaughan Stannard](19c-vaughan-stannard)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/John_Strange_Winter#/media/File:John_Strange_Winter_0001.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/15f9c416-969a-4d55-bf7a-bdea6a14b886) 
 
 Stannard (née Palmer) John Strange Winter [pseud.], was a popular novelist who wrote approximately 112 books and contributed 42 short stories to the Family Herald under the pseudonym of 'Violet Whyte'.
 
