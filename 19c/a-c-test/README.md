@@ -128,7 +128,7 @@ Like her parents, Jessie contributed to the life of the church. She was a member
 
 [Mary Cowden Clarke](19c-cowden-clarke-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b0/Falstaff_and_Mistress_Quickly_Francis_Philip_Stephanoff.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b0/Falstaff_and_Mistress_Quickly_Francis_Philip_Stephanoff.jpeg)
 
 Mary Cowden Clarke (née Novello) (1809-1898), author and Shakespeare scholar, was the eldest daughter of musician Vincent Novello and Mary Hehl. Her parents were friends with the poets Charles and Mary Lamb, Leigh Hunt, Shelley and John Keats, and Mary recalls watching in awe as Keats listened attentively to her father playing the organ.
 
