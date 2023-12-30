@@ -6,8 +6,13 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q964785" aliases="Whitstable">
-<param ve-entity eid="Q751916" aliases="Simon Langton Girls' Grammar School">
 <param ve-entity eid="Q1006783" aliases="Ferne">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="4f72c8eb5fe1eba5" title="Mackenzie 1900">
 
 #
 
