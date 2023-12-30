@@ -444,43 +444,57 @@ In 1832, in order to escape the cholera epidemic in London, the English novelist
 
 Emily Shore was an observant and precocious diarist. She was born and brought up in Suffolk, but in 1831, as she explains in a preface to her journal from this year,'papa and mamma determined to take us to Broadstairs, to spend the summer holidays by the seaside.’
 
-## Lady Hester Stanhope (1776-1839) {href=19c-stanhope-biography} 
+## Lady Hester Stanhope (1776-1839) 
+
+[Lady Hester Stanhope](19c-stanhope-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/54/Lady_Hester_Stanhope_on_horseback_Wellcome_L0041138.jpg)
 
 Lady Hester Stanhope is probably best known today as ‘Queen of the Desert’ or ‘Queen of the East’ from her near-legendary life travelling in the Ottoman Empire before settling in present-day Lebanon, but much of her early life was spent in Kent. 
 
-## Henrietta Vaughan Stannard [Pseud. John Strange Winter] (1856–1911) {href=19c-vaughan-stannard} 
+## Henrietta Vaughan Stannard [Pseud. John Strange Winter] (1856–1911) 
+
+[Henrietta Vaughan Stannard](19c-vaughan-stannard)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/John_Strange_Winter#/media/File:John_Strange_Winter_0001.jpg) 
 
 Stannard (née Palmer) John Strange Winter [pseud.], was a popular novelist who wrote approximately 112 books and contributed 42 short stories to the Family Herald under the pseudonym of 'Violet Whyte'.
 
-## Charlotte Brown Carmichael Stopes (1840-1929) {href=19c-stopes-biography} 
+## Charlotte Brown Carmichael Stopes (1840-1929)
+
+[Charlotte Carmichael Stopes](19c-stopes-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2d/Marie_Stopes_in_her_laboratory%2C_1904.jpg) 
 
 Charlotte Carmichael was born in Edinburgh and attended Mr Oliphant’s mixed school. Frustrated by the exclusion of women from universities, she joined the Ladies' Edinburgh Debating Society in 1866 and submitted poems and articles. When university classes were offered to women in 1874, Charlotte began to attend lectures and became the first woman to gain a Certificate in Arts from the University of Edinburgh. 
 
-## Francis Storr the Elder (1808-1888) and Younger (1839-1919) {href=19c-storr-biography} 
+## Francis Storr the Elder (1808-1888) and Younger (1839-1919) 
+
+[Francis Storr the Elder](19c-storr-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/d3/Aylesford%2C_Kent_11.jpg) 
 
 Revd Francis Storr (1808-1888) senior was vicar of All Saints’ church Brenchley in Kent. Francis Storr (1839-1919) junior was an author, biographer and translator. Together father and son wrote anthologies of poetry. 
 
-## Netta Syrett (1865-1943) {href=19c-syrett-biography} 
+## Netta Syrett (1865-1943)
+
+[Netta Syrett](19c-syrett-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://www.gutenberg.org/files/65490/65490-h/images/cover.jpg) 
 
 Writer and playwright Netta [Janet] Syrett was born at 23, Harbour Street, Ramsgate in 1865 and was best known for Portrait of a Rebel (1929), which was made into the 1936 Katherine Hepburn film A Woman Rebels.
 
-## Archibald Campbell Tait (1811 –1882) {href=19c-tait-biography} 
+## Archibald Campbell Tait (1811 –1882)
+
+[Arhcibald Campbell Tait](19c-tait-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2c/Archibald_Campbell_Tait_%28H_Hering_NPG_Ax30380%29.jpg) 
 
 In March 1848, Archibald Campbell Tait, the headmaster of Rugby School, visited Broadstairs on the advice of his doctor. 
 
-## Ellen Ternan (1839-1914) {href=19c-ternan-biography} 
+## Ellen Ternan (1839-1914)
+
+[Ellen Ternan](19c-ternan-biography) 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/Ellen_Ternan#/media/File:Ellen_Ternan.jpeg) 
 
