@@ -9,7 +9,7 @@ Hoy and steam boats, railways and passenger ships brought people to the county i
 
 [Henry Gardiner Adams](19c-gardiner-adams-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e7/Kentish_Coronal_Dadd.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b5/Charles_Dickens_and_Rochester_%281880%29_%2814768272425%29.jpg) 
 
 Henry Gardiner Adams appears as a stationer in local directories in 1832. An ambitious, self-made man, his literary work includes The Ocean Queen, and Other Poems (1836) and the 1854 God’s Image in Ebony, an edited anthology. 
 
