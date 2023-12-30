@@ -1,118 +1,156 @@
-.ve-header label="16th Century Kent" background=gh:kent-map/kent/images/banners/16c.jpg sticky=true 
+.ve-header label="19th Century Kent" background=gh:kent-map/kent/images/banners/19c.jpg sticky=true 
 
-# &nbsp; {.cards} 
+Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops.
 
-# Essays A-C {.card} 
+# &nbsp; 
+<param class="cards">
 
-## Henry Gardiner Adams (1812-1881) {href=19c-gardiner-adams-biography} 
+## Henry Gardiner Adams (1812-1881)
+
+[Henry Gardiner Adams](19c-gardiner-adams-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e7/Kentish_Coronal_Dadd.jpg) 
 
 Henry Gardiner Adams appears as a stationer in local directories in 1832. An ambitious, self-made man, his literary work includes The Ocean Queen, and Other Poems (1836) and the 1854 God’s Image in Ebony, an edited anthology. 
 
-## William Harrison Ainsworth (1805-1882) {href=19c-whainsworth-biography} 
+## William Harrison Ainsworth (1805-1882)
+
+[William Harrison Ainsworth](19c-whainsworth-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Rookwood_-_Frontispiece.jpg) 
 
 Prolific author William (usually known as Harrison) Ainsworth, born on 4 February 1805, wrote for The London Magazine and had plays and poetry published in numerous journals including The Edinburgh Magazine and The European Magazine. His first success, however, came with the 1834 Gothic Romance Rookwood. 
 
-## Hans Christian Andersen (1805-1875) {href=19c-christian-andersen}
+## Hans Christian Andersen (1805-1875) 
+[Hans Christian Andersen](19c-christian-andersen)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/75/HCA_by_Thora_Hallager_1869.jpg)
 
 Andersen had visited Kent before, staying with Dickens’s publisher Richard Bentley in Sevenoaks and visiting Knowle House and Chevening Church, as well as visiting Dickens in Broadstairs in 1847.
 
-## Anna Atkins (1799-1871) {href=19c-atkins-biography} 
+## Anna Atkins (1799-1871) 
+
+[Anna Atkins](19c-atkins-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://smarthistory.org/wp-content/uploads/2021/03/atkinsfinal.jpg) 
 
 Anna Atkins, botanist and photographer, was born on 16 March 1799 and became one of the first women photographers and a pioneer of the use of photography in book production. She collected dried plant specimens and became a member of the Botanical Society of London in 1839 - one of its first female members. 
 
-## Jane Austen (1775-1817) {href=19c-austen-biography} 
+## Jane Austen (1775-1817) 
+
+[Jane Austen](19c-austen-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/CassandraAusten-JaneAusten%28c.1810%29_intensified.jpg) 
 
 One of the greatest English novelists of all time, Jane Austen visited Kent regularly. During or shortly after her visit to Rowling in 1796, Austen began writing ‘First Impressions’, the story which was later published as Pride and Prejudice in 1813. 
 
-## Alfred Austin (1835-1913) {href=19c-austin-biography}
+## Alfred Austin (1835-1913) 
+
+[Alfred Austin](19c-austin-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/da/Alfred_Austin%2C_by_Barber.jpg) 
 
 It was not in poetry but in two prose works that Austin made his ‘nearest approach to literature’. One of these works was The Garden That I Love (1894), in which he describes the garden of Swinford Old Manor, near Ashford. 
 
-## Robert Barr (1849-1912) {href=19c-barr-biography} 
+## Robert Barr (1849-1912)
+
+[Robert Barr](19c-barr-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e2/In_the_midst_of_alarms_by_Robert_Barr_LCCN2015645365.jpg) 
 
 In December 1889 the local journal Folkestone Visitors’ List and Society Journal (based in Tontine Street) reported excitedly that the humourist Robert Barr of the Detroit Free Press had just arrived in London and was planning an extended stay in Folkestone.
 
-## R.D. Blackmore (1825-1900) {href=19c-blackmore-biography} 
+## R.D. Blackmore (1825-1900) 
+
+[R.D. Blackmore](19c-blackmore-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/Richard-Doddridge-Blackmore.jpg) 
 
 Best known for Lorna Doone, novelist R. D. Blackmore (1825-1900) set part of his novel Alice Lorraine (1874–75) in the Weald of Kent.
 
-## M. E. Braddon (1835-1915) {href=19c-braddon-biography}
+## M. E. Braddon (1835-1915) 
+
+[M.E. Braddon](19c-braddon-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5d/Mary_Elizabeth_Maxwell_%28n%C3%A9e_Braddon%29_by_William_Powell_Frith.jpg)
 
 Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, actress and author Mary Braddon is still best known for her 1862 sensation novel Lady Audley’s Secret and only slightly less so for her unconventional domestic life as the unmarried partner of publisher John Maxwell.
 
-## John Brent (1808-1882) {href=19c-brent-biography}
+## John Brent (1808-1882) 
+
+[John Brent](19c-brent-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/bd59ff4f-a8f7-4728-95f7-cacbfafb3e00) 
 
 Author, poet, campaigner and antiquarian John Brent was born in Rotherhithe in 1808, a political campaigner from a young age, a member of the Anti-Slavery Association, and secretary of the local branch of the Polish Association. 
 
-## Angela Burdett-Coutts (1814-1906) {href=19c-burdett-coutts-biography} 
+## Angela Burdett-Coutts (1814-1906) 
+
+[Angela Burdett-Coutts](19c-burdett-coutts-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/33/Angela_Georgina_Burdett-Coutts%2C_Baroness_Burdett-Coutts_from_NPG.jpg) 
 
 Angela’s accession to the fabulous Coutts fortune, as well as the family name, in 1837 led to her becoming one of the most admired as well as one of the most generous philanthropists of her time.
 
-## William Burges (1827-1881) {href=19c-burges-biography} 
+## William Burges (1827-1881) 
+
+[William Burges](19c-burges-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/be/William_Burges_portrait.jpg)
 
 In 1858, William ‘Billy’ Burges, Neo-gothic architect and designer, was commissioned by Alexander Beresford-Hope, the MP for Maidstone to design a missionary monument at St Augustine’s College, Canterbury.
 
-## F. C. Burnand (1836-1917) {href=19c-burnand-biography} 
+## F. C. Burnand (1836-1917) 
+
+[F.C. Burnand](19c-burnand-biography) 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e8/Portrait_of_F._C._Burnand.jpg)
 
 Sir Francis Cowley Burnand (knighted in 1902) is best known as the editor of Punch from 1880-1906, serialising the Grossmiths’ runaway success Diary of a Nobody in 1888. He was also a member of the 'Boz Club' inaugurated after the death of Dickens. 
 
-## Jane Welsh Carlyle (1801–1866) and Geraldine Jewsbury (1812-1880) {href=19c-carlyle-biography}
+## Jane Welsh Carlyle (1801–1866) and Geraldine Jewsbury (1812-1880) 
+
+[Jane Welsh Carlyle and Geraldine Jewsbury](19c-carlyle-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
 
 Jane Carlyle, wife of the Scottish historian, philosopher and essayist, Thomas Carlyle, visited Ramsgate with her dear friend, novelist and book reviewer, Geraldine Jewsbury in August 1861. 
 
-## Jessie Challacombe (1864-1925) {href=19c-challacombe-biography} 
+## Jessie Challacombe (1864-1925) 
+
+[Jessie Challacombe](19c-challacombe-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/33/%22The_New_Observatory%22_-_Royal_Observatory_Greenwich_ca_1900_%287890146566%29.jpg)
 
 Like her parents, Jessie contributed to the life of the church. She was a member of the church’s young ladies’ working party and in 1890, gave a talk to the parents of the Sunday School scholars on the best way to bring up children, which was later evidenced in her fiction, through her tales of Christian life. 
 
-## Mary Cowden Clarke (1809-1898) {href=19c-cowden-clarke-biography} 
+## Mary Cowden Clarke (1809-1898) 
+
+[Mary Cowden Clarke](19c-cowden-clarke-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b0/Falstaff_and_Mistress_Quickly_Francis_Philip_Stephanoff.jpg)
 
 Mary Cowden Clarke (née Novello) (1809-1898), author and Shakespeare scholar, was the eldest daughter of musician Vincent Novello and Mary Hehl. Her parents were friends with the poets Charles and Mary Lamb, Leigh Hunt, Shelley and John Keats, and Mary recalls watching in awe as Keats listened attentively to her father playing the organ.
 
-## Wilkie Collins (1824-1889) {href=19c-collins-biography/}
+## Wilkie Collins (1824-1889)
+
+[Wilkie Collins](19c-collins-biography/)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/Wilkie_Collins#/media/File:Wilkie-Collins.jpg) 
 
 Best-selling author, playwright and, according to some, the father of detective fiction, Wilkie [William] Collins frequented the Kent coast regularly on excursions for his health and to visit his close friend, Dickens. 
 
-## Joseph Conrad (1857-1924) {href=19c-conrad-biography}
+## Joseph Conrad (1857-1924) 
+
+[Joseph Conrad](19c-conrad-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/ErebusandTerror.jpg) 
 
 Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century. Despite his apparent lack of enthusiasm for studying, Conrad retained a love of Polish Romantic literature and acquired French and the classical languages whilst in Kracow, and this enabled him to engage with both his first career at sea and then his second as a writer. 
 
-## Catherine Ann Crowe (née Stevens) (1790-1872) {href=19c-crowe-biography/} 
+## Catherine Ann Crowe (née Stevens) (1790-1872) 
+
+[Catherine Ann Crowe](19c-crowe-biography/)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/05/7_of_%27%28The_Night_Side_of_Nature-_or%2C_Ghosts_and_ghost_seers.%29%27_%2811152605346%29.jpg) 
 
