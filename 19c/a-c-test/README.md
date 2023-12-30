@@ -120,7 +120,7 @@ Jane Carlyle, wife of the Scottish historian, philosopher and essayist, Thomas C
 
 [Charles Carrick](19c-carrick-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fcfcc4e8-e753-4294-9ec1-bf5ee7e56419)
 
 Charles Carrick, schoolmaster, published his anthology _Poems: serious, humorous, and satirical_ in 1870.
 
