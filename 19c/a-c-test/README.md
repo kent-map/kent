@@ -500,55 +500,73 @@ In March 1848, Archibald Campbell Tait, the headmaster of Rugby School, visited 
 
 Ellen Lawless Ternan was an English actress often associated with the author Charles Dickens. 
 
-## William Makepeace Thackeray (1811-1863) {href=19c-thackeray-biography} 
+## William Makepeace Thackeray (1811-1863)
+
+[William Makepeace Thackeray](19c-thackeray-biography) 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/William_Makepeace_Thackeray#/media/File:William_Makepeace_Thackeray_by_Jesse_Harrison_Whitehurst-crop.jpg) 
 
 Educated at Charterhouse and Cambridge, W. M. Thackeray is remembered by many as the author of Vanity Fair (1847) and by some for suggesting that it takes three generations to make a gentleman.
 
-## Queen Victoria (1819-1901) {href=19c-victoria-biography} 
+## Queen Victoria (1819-1901) 
+
+[Queen Victoria](19c-victoria-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/45/Queen_Victoria_as_a_young_woman%2C_by_F.W._Wilkin_Wellcome_L0012031.jpg)
 
 As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiting the town in 1823 at the age of four. She particularly enjoyed walks along the pier and watching the ships in the harbour.
 
-## Louis Wain (1860-1939) {href=19c-wain-biography} 
+## Louis Wain (1860-1939) 
+
+[Louis Wain](19c-wain-biography) 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/ec/L._Wain%27s_kaleidoscope_cat_II.jpg)
 
 Louis Wain, illustrator of cats, lived for many years in Westgate on Sea. 
 
-## Ann Walker (1803-1854) {href=19c-walker-biography} 
+## Ann Walker (1803-1854) 
+
+[Ann Walker](19c-walker-biography) 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/18/Frederick_Nash_-_Rochester_Cathedral_and_Castle_-_Google_Art_Project.jpg)
 
 On 12 June 18341, Ann Walker and Anne Lister arrived in Canterbury late at night, in their carriage, with two of their servants. Ann notes in her diary how they missed out on seeing Rochester Cathedral on the way due to rain. 
 
-## Sir Hugh Seymour Walpole (1884 - 1941) {href=19c-walpole-biography} 
+## Sir Hugh Seymour Walpole (1884 - 1941) 
+
+[Sir Hugh Seymour Walpole](19c-walpole-biography) 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3a/Picture_of_Hugh_Walpole.jpg) 
 
 Travelling through Kent brought him time to read, where, in an additional trip ‘frozen in the train down to Canterbury reading Our Mutual Friend' (Diaries, 178), Walpole discusses Dicken’s ‘determined turn towards modernism’ - clearly his time in Kent brought him not just writing inspiration, but ample time to read. 
 
-## Florence Warden (1857–1929) {href=19c-florence-warden-biography} 
+## Florence Warden (1857–1929) 
+
+[Florence Warden](19c-florence-warden-biography) 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7e/Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg)
 
 Florence Warden was an actor and writer. She lived at St Mildred’s Road, Ramsgate and later Beach House, Sandgate during the late nineteenth century. She and her sister obtained positions as governesses, and in her spare time, Florence began writing short stories and novelettes. 
 
-## Gertrude Warden (1859-1925) {href=19c-gertrude-warden-biography} 
+## Gertrude Warden (1859-1925) 
+
+[Gertrude Warden](19c-gertrude-warden-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/19/G_Durand_Saturday_Night_at_the_Victoria_Theatre_BL.jpg)
 
 Forced to leave her finishing school in Brighton, with her sister, Gertrude sought to make her way in the world working as a governess for two years before taking to the stage. 
 
-## P.G. Wodehouse (1881-1975) {href=19c-wodehouse-biography} 
+## P.G. Wodehouse (1881-1975)
+
+[P.G. Wodehouse](19c-wodehouse-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820969282456%29.jpg)
 
 P. G. Wodehouse only spent two years at Malvern House Prep School in the Kearsney area of Dover, between 1892 and 1894, and it may indeed have been ‘a very bad choice for a dreamy impractical boy who loved reading.’
 
-## Israel Zangwill (1864-1926) {href=19c-zangwill-biography} 
+## Israel Zangwill (1864-1926) 
+
+[Israel Zangwill](19c-zangwill-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f6/Sands_Ramsgate_England.jpg)
 
