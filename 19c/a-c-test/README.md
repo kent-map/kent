@@ -412,25 +412,33 @@ D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-
 
 Composer and musician, Henry Russell was born in Sheerness on the Isle of Sheppey and composed between 600-800 songs, many tackling social injustice including slavery.
 
-## George Augustus Sala (1828 –1895) {href=19c-sala-biography} 
+## George Augustus Sala (1828 –1895) 
+
+[George Augustus Sala](19c-sala-biography) 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/8e/1st_Herne_Bay_Pier_1837.jpg) 
 
 Author and journalist, George Augustus Sala was born in London in 1828, the son of Henrietta Simon Sala, a concert singer and woman of colour. After the death of his legal father in 1829, his mother taught singing to help support her family of five children.
 
-## Edward Linley Sambourne (1844-1910) {href=19c-sambourne-biography} 
+## Edward Linley Sambourne (1844-1910) 
+
+[Edward Linley Sambourne](19c-sambourne-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/6c/New_Road%2C_Ramsgate%2C_England-LCCN2002708073.jpg) 
 
 Edward Linley Sambourne, cartoonist, began his career as a marine draughtsman at Messrs Penn and Sons of Greenwich. In 1867 he sent a few of his drawings to Mark Lemon, the editor of Punch who encouraged him to take art lessons; he joined the magazine in 1871.
 
-## Mary Wollstonecraft Shelley (1797-1851) {href=19c-shelleym-biography} 
+## Mary Wollstonecraft Shelley (1797-1851) 
+
+[Mary Wollestonecraft Shelley](19c-shelleym-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/65/RothwellMaryShelley.jpg) 
 
 In 1832, in order to escape the cholera epidemic in London, the English novelist Mary Shelley moved to the small coastal town of Sandgate situated between Hythe and Folkestone. 
 
-## Margaret Emily Shore (1819-1839) {href=19c-shore-biography} 
+## Margaret Emily Shore (1819-1839) 
+
+[Margaret Emily Shore](19c-shore-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f7/Margaret_Emily_Shore_engraving.jpg)
 
