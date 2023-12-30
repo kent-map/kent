@@ -152,7 +152,7 @@ Best-selling author, playwright and, according to some, the father of detective 
 
 [Joseph Conrad](19c-conrad-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/ErebusandTerror.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=) 
 
 Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century. Despite his apparent lack of enthusiasm for studying, Conrad retained a love of Polish Romantic literature and acquired French and the classical languages whilst in Kracow, and this enabled him to engage with both his first career at sea and then his second as a writer. 
 
@@ -216,7 +216,7 @@ Marian Evans, later known as the novelist, George Eliot, visited Broadstairs in 
 
 [Sir John Franklin](19c-franklin-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/46/Fran%C3%A7ois_Musin_-_The_Search_for_Sir_John_Franklin_in_the_Arctic.jpeg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/ErebusandTerror.jpg)
 
 On Monday [19 May 1845] H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America. Franklin’s reputation had suffered and he hoped to redeem it by discovering the North-West Passage. 
 
