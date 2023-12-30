@@ -411,3 +411,123 @@ D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-
 ![](https://iiif.juncture-digital.org/thumbnail?url=ttps://upload.wikimedia.org/wikipedia/commons/8/8d/Henry_Russell_LCCN2003655318.jpg) 
 
 Composer and musician, Henry Russell was born in Sheerness on the Isle of Sheppey and composed between 600-800 songs, many tackling social injustice including slavery.
+
+## George Augustus Sala (1828 –1895) {href=19c-sala-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/8e/1st_Herne_Bay_Pier_1837.jpg) 
+
+Author and journalist, George Augustus Sala was born in London in 1828, the son of Henrietta Simon Sala, a concert singer and woman of colour. After the death of his legal father in 1829, his mother taught singing to help support her family of five children.
+
+## Edward Linley Sambourne (1844-1910) {href=19c-sambourne-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/6c/New_Road%2C_Ramsgate%2C_England-LCCN2002708073.jpg) 
+
+Edward Linley Sambourne, cartoonist, began his career as a marine draughtsman at Messrs Penn and Sons of Greenwich. In 1867 he sent a few of his drawings to Mark Lemon, the editor of Punch who encouraged him to take art lessons; he joined the magazine in 1871.
+
+## Mary Wollstonecraft Shelley (1797-1851) {href=19c-shelleym-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/65/RothwellMaryShelley.jpg) 
+
+In 1832, in order to escape the cholera epidemic in London, the English novelist Mary Shelley moved to the small coastal town of Sandgate situated between Hythe and Folkestone. 
+
+## Margaret Emily Shore (1819-1839) {href=19c-shore-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f7/Margaret_Emily_Shore_engraving.jpg)
+
+Emily Shore was an observant and precocious diarist. She was born and brought up in Suffolk, but in 1831, as she explains in a preface to her journal from this year,'papa and mamma determined to take us to Broadstairs, to spend the summer holidays by the seaside.’
+
+## Lady Hester Stanhope (1776-1839) {href=19c-stanhope-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/54/Lady_Hester_Stanhope_on_horseback_Wellcome_L0041138.jpg)
+
+Lady Hester Stanhope is probably best known today as ‘Queen of the Desert’ or ‘Queen of the East’ from her near-legendary life travelling in the Ottoman Empire before settling in present-day Lebanon, but much of her early life was spent in Kent. 
+
+## Henrietta Vaughan Stannard [Pseud. John Strange Winter] (1856–1911) {href=19c-vaughan-stannard} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/John_Strange_Winter#/media/File:John_Strange_Winter_0001.jpg) 
+
+Stannard (née Palmer) John Strange Winter [pseud.], was a popular novelist who wrote approximately 112 books and contributed 42 short stories to the Family Herald under the pseudonym of 'Violet Whyte'.
+
+## Charlotte Brown Carmichael Stopes (1840-1929) {href=19c-stopes-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2d/Marie_Stopes_in_her_laboratory%2C_1904.jpg) 
+
+Charlotte Carmichael was born in Edinburgh and attended Mr Oliphant’s mixed school. Frustrated by the exclusion of women from universities, she joined the Ladies' Edinburgh Debating Society in 1866 and submitted poems and articles. When university classes were offered to women in 1874, Charlotte began to attend lectures and became the first woman to gain a Certificate in Arts from the University of Edinburgh. 
+
+## Francis Storr the Elder (1808-1888) and Younger (1839-1919) {href=19c-storr-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/d3/Aylesford%2C_Kent_11.jpg) 
+
+Revd Francis Storr (1808-1888) senior was vicar of All Saints’ church Brenchley in Kent. Francis Storr (1839-1919) junior was an author, biographer and translator. Together father and son wrote anthologies of poetry. 
+
+## Netta Syrett (1865-1943) {href=19c-syrett-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://www.gutenberg.org/files/65490/65490-h/images/cover.jpg) 
+
+Writer and playwright Netta [Janet] Syrett was born at 23, Harbour Street, Ramsgate in 1865 and was best known for Portrait of a Rebel (1929), which was made into the 1936 Katherine Hepburn film A Woman Rebels.
+
+## Archibald Campbell Tait (1811 –1882) {href=19c-tait-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2c/Archibald_Campbell_Tait_%28H_Hering_NPG_Ax30380%29.jpg) 
+
+In March 1848, Archibald Campbell Tait, the headmaster of Rugby School, visited Broadstairs on the advice of his doctor. 
+
+## Ellen Ternan (1839-1914) {href=19c-ternan-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/Ellen_Ternan#/media/File:Ellen_Ternan.jpeg) 
+
+Ellen Lawless Ternan was an English actress often associated with the author Charles Dickens. 
+
+## William Makepeace Thackeray (1811-1863) {href=19c-thackeray-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/William_Makepeace_Thackeray#/media/File:William_Makepeace_Thackeray_by_Jesse_Harrison_Whitehurst-crop.jpg) 
+
+Educated at Charterhouse and Cambridge, W. M. Thackeray is remembered by many as the author of Vanity Fair (1847) and by some for suggesting that it takes three generations to make a gentleman.
+
+## Queen Victoria (1819-1901) {href=19c-victoria-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/45/Queen_Victoria_as_a_young_woman%2C_by_F.W._Wilkin_Wellcome_L0012031.jpg)
+
+As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiting the town in 1823 at the age of four. She particularly enjoyed walks along the pier and watching the ships in the harbour.
+
+## Louis Wain (1860-1939) {href=19c-wain-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/ec/L._Wain%27s_kaleidoscope_cat_II.jpg)
+
+Louis Wain, illustrator of cats, lived for many years in Westgate on Sea. 
+
+## Ann Walker (1803-1854) {href=19c-walker-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/18/Frederick_Nash_-_Rochester_Cathedral_and_Castle_-_Google_Art_Project.jpg)
+
+On 12 June 18341, Ann Walker and Anne Lister arrived in Canterbury late at night, in their carriage, with two of their servants. Ann notes in her diary how they missed out on seeing Rochester Cathedral on the way due to rain. 
+
+## Sir Hugh Seymour Walpole (1884 - 1941) {href=19c-walpole-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3a/Picture_of_Hugh_Walpole.jpg) 
+
+Travelling through Kent brought him time to read, where, in an additional trip ‘frozen in the train down to Canterbury reading Our Mutual Friend' (Diaries, 178), Walpole discusses Dicken’s ‘determined turn towards modernism’ - clearly his time in Kent brought him not just writing inspiration, but ample time to read. 
+
+## Florence Warden (1857–1929) {href=19c-florence-warden-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7e/Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg)
+
+Florence Warden was an actor and writer. She lived at St Mildred’s Road, Ramsgate and later Beach House, Sandgate during the late nineteenth century. She and her sister obtained positions as governesses, and in her spare time, Florence began writing short stories and novelettes. 
+
+## Gertrude Warden (1859-1925) {href=19c-gertrude-warden-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/19/G_Durand_Saturday_Night_at_the_Victoria_Theatre_BL.jpg)
+
+Forced to leave her finishing school in Brighton, with her sister, Gertrude sought to make her way in the world working as a governess for two years before taking to the stage. 
+
+## P.G. Wodehouse (1881-1975) {href=19c-wodehouse-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820969282456%29.jpg)
+
+P. G. Wodehouse only spent two years at Malvern House Prep School in the Kearsney area of Dover, between 1892 and 1894, and it may indeed have been ‘a very bad choice for a dreamy impractical boy who loved reading.’
+
+## Israel Zangwill (1864-1926) {href=19c-zangwill-biography} 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f6/Sands_Ramsgate_England.jpg)
+
+The Jewish author Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of Children of the Ghetto ‘was wandering about the Ramsgate sands’ when he spotted a writing competition, advertised in an abandoned issue of Society magazine.
