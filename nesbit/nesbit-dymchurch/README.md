@@ -43,7 +43,6 @@ Katherine’s companion, Edward, suggests that it is haunted: “A soldier’s g
 During the seventeenth and eighteenth centuries, Dymchurch was a haven for smugglers. In _The New Treasure Seekers_, an old man relates this dark history to the Bastable children: 
 <br><br>
 ‘There used to be lots of smuggling on these here coasts when my father was a boy,’ he said; ‘my own father’s cousin, his father took to the smuggling, and he was a doin’ so well at it, that what does he do, but goes and gets married, and the Preventives they goes and nabs him on his wed- ding-day, and walks him straight off from the church door, and claps him in Dover Jail.’
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Story_of_the_Treasure_Seekers.djvu/page1-656px-The_Story_of_the_Treasure_Seekers.djvu.jpg" label="The Story of the Treasure Seekers" attribution="Edith Nesbit, Public domain, via Wikimedia Commons">
 
 When Nesbit arrived in the summer of 1893, the village still had a windmill, but it had stopped working in 1882, and it was demolished in 1905. One of the first properties she rented was Mill House on Mill Street. She put it into _The New Treasure Seekers_ as the home of Miss Sandal and Oswald Bastable describes it to readers: ‘It is before you come to the village, and it is a little square white house. There is a big old windmill at the back of it. It is not used any more for grinding corn, but fishermen keep their nets in it.’
 <br><br>
