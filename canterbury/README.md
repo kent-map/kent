@@ -23,7 +23,7 @@ Canterbury is .
 
 ## Canterbury commerce
 
-[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-commerce)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
@@ -87,7 +87,7 @@ Canterbury is .
 
 ## Canterbury Retail
 
-[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-retail-store/)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
@@ -95,7 +95,7 @@ Canterbury is .
 
 ## Canterbury Tales
 
-[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-tales-film)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
@@ -103,7 +103,7 @@ Canterbury is .
 
 ## Canterbury Trading Estates
 
-[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-trading)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
@@ -111,7 +111,7 @@ Canterbury is .
 
 ## Canterbury Transport
 
-[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-transport)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
@@ -119,7 +119,7 @@ Canterbury is .
 
 ## Canterbury Universities
 
-[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-universities)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
@@ -127,7 +127,7 @@ Canterbury is .
 
 ## Canterbury in World War II
 
-[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-ww2)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
