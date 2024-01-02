@@ -94,9 +94,9 @@ There were glorious days of ‘mucking about’ along the beach, the siege of un
 
 In 1903 and 1904, Nesbit received a series of heartwarming letters from Rudyard Kipling, praising her stories for children. Kipling too took inspiration from the coastal Kent landscape. In ‘Dymchurch Flit’, included in his fantasy _Puck of Pook’s Hill_ (1906), he wrote about Old Hobden’s wife, one of the ‘Marsh folk’, who hails from ‘Dymchurch under the Wall’.
  
-Nesbit returned to Dymchurch every summer for more than a decade, and her improved finances allowed her to rent ever better holiday homes. In 1899, she received her first commission from _The Strand Magazine_ when she was invited to write ‘The Book of Beasts’, a series of seven stories about dragons (an eighth dragon story was published in their Christmas number). A very generous thirty pounds per story was added to when she collected and published these as _The Book of Dragons_ in 1901. 
+Nesbit returned to Dymchurch every summer for more than a decade, and her improved finances allowed her to rent ever better holiday homes. In 1899, she received her first commission from _The Strand Magazine_ when she was invited to write ‘The Book of Beasts’, a series of seven stories about dragons (an eighth dragon story was published in their Christmas number). A very generous thirty pounds per story was added to when she collected and published these as _The Book of Dragons_ in 1901.
 <br><br>                                         
-Nesbit’s friend Edgar Jepson recalled: 
+Nesbit’s friend Edgar Jepson recalled:
 <br><br>
 In the summers we still went to Dymchurch, where we always found the Blands. In those days Dymchurch was just a village. No strangers came to it for weeks on end, and if you wished to go to any place from it, you had to walk, drive, or bicycle... In those summers there was very good lawn tennis and bridge at the house of the Squire. 
 
