@@ -20,6 +20,7 @@
 #
                                                   
 Edith Nesbit loved the spectacular Kent coastline and celebrated it in her beautifully illustrated seafaring tale, _The Pilot_ (1893). In 1893, Nesbit chanced upon her favourite holiday destination, the coastal village of Dymchurch in Kent. She returned again and again, and she was there when she dedicated _The Phoenix and the Carpet_: “TO My Dear Godson HUBERT GRIFFITH and his sister MARGARET”.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c7/View_along_a_groyne_on_Dymchurch_beach_%5E3_-_geograph.org.uk_-_5107552.jpg" label="View along a groyne on Dymchurch beach" attribution="Robert Lamb, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-map center="Q2796278" zoom="13">
  
 The summer of 1893 was unusually hot and England was gripped by drought from April to August. Keen to escape the oppressive suburbs, Nesbit took her son Paul, aged thirteen, and daughter Iris, aged eleven, to the coastal town of Hythe on the edge of Romney Marsh. Hythe had been one of the original Cinque Ports granted limited autonomy in exchange for defending the country against invasion. By 1893 it was a bustling [seaside resort](/19c/19c-seaside) with shingle beaches, an esplanade, bathing machines and donkey rides. Keen to escape the hordes of holidaymakers, Nesbit and her children took an excursion to Dymchurch, a tiny fishing village five miles down the coast.
