@@ -84,10 +84,11 @@ White rippled pools where late deep waters were,
 And ever the white waves marshalled in retreat,   
 And the grey wind in sole supremacy   
 O’er opal and amber cold of darkening sky and sea.
-
+<br><br>
 This Rosamund is staying in ‘a little house behind the sea- wall’. Its door ‘opened straight from the street into the sitting-room, after the primitive fashion of Lymchurch’. Andrew Dornington is at The Ship, a genuine Dymchurch inn. ‘The trees, still gold in calmer homes, stood almost leafless in wild, windy Lymchurch,’ he observes:
 <br><br>
 In ‘Rack and Thumbscrew’ from _Man and Maid_ (1906), Milly describes Lymchurch as ‘a glorious place to work’, adding: ‘Father did reams down there.’ 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/The_Ship_Inn%2C_Dymchurch_-_geograph.org.uk_-_1947599.jpg/2560px-The_Ship_Inn%2C_Dymchurch_-_geograph.org.uk_-_1947599.jpg" label="The Ship Inn, Dymchurch" attribution="David Anstiss, via Wikimedia Commons" license="CC BY-SA 2.0">
                                           
 Nesbit too worked well in Dymchurch. She was not alone. Romney Marsh was a magnet for writers. [Henry James](19c-jamesh-hever-castle/), whose writing she emulated in _The Literary Sense_, lived just sixteen miles away in Lamb House in Rye. [Joseph Conrad](/19c/19c-conrad-biography) lived all over Kent and Edgar Jepson remembered meeting him in Dymchurch ‘one hot summer when he came from his home in the hills above the marsh, bringing his family, to spend the day with [author and journalist] Perceval Gibbon’. In 1901, [Ford Madox Ford](/20c/20c-fordmadoxford-biography) moved to Winchelsea, just a twenty-mile cycle along the narrow lanes leading from Dymchurch. That same year, [H.G. Wells](/20c/20c-wellshg-biography), who was plagued by ill-health but found relief after being treated by a doctor in Kent, moved to the coastal village of Sandgate near Folkestone with his wife Jane and their two young sons. They lived in Spade House, a home built to his specifications. Wells was delighted to learn that Edith and Hubert could often be found in nearby Dymchurch, just a few miles along the coast. [Wells](/20c/20c-wellshg-biography) celebrated the area in his novel _Kipps_: 
 <br><br>
@@ -96,14 +97,16 @@ There were glorious days of ‘mucking about’ along the beach, the siege of un
 <param ve-map center="Q1506093" zoom="10">
 
 In 1903 and 1904, Nesbit received a series of heartwarming letters from Rudyard Kipling, praising her stories for children. Kipling too took inspiration from the coastal Kent landscape. In ‘Dymchurch Flit’, included in his fantasy _Puck of Pook’s Hill_ (1906), he wrote about Old Hobden’s wife, one of the ‘Marsh folk’, who hails from ‘Dymchurch under the Wall’.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f9/Original_Scan_-_H._R._Millar_-_Rudyard_Kipling_-_Puck_of_Pook%27s_Hill_18.tif" label="Puck of Pook's Hill" attribution="Harold Robert Millar, Public domain, via Wikimedia Commons"> 
  
 Nesbit returned to Dymchurch every summer for more than a decade, and her improved finances allowed her to rent ever better holiday homes. In 1899, she received her first commission from _The Strand Magazine_ when she was invited to write ‘The Book of Beasts’, a series of seven stories about dragons (an eighth dragon story was published in their Christmas number). A very generous thirty pounds per story was added to when she collected and published these as _The Book of Dragons_ in 1901.
 <br><br>                                         
 Nesbit’s friend Edgar Jepson recalled:
 <br><br>
 In the summers we still went to Dymchurch, where we always found the Blands. In those days Dymchurch was just a village. No strangers came to it for weeks on end, and if you wished to go to any place from it, you had to walk, drive, or bicycle... In those summers there was very good lawn tennis and bridge at the house of the Squire. 
-
+<br><br>
 Another writer friend, Berta Ruck, described these holidays too: ‘We bathed, we tramped, we played rounders with her on the sands’. Ruck dubbed the houses they rented ‘an annexe to Well Hall [Nesbit’s home in Eltham]’, and the little weather-boarded cottage on the High Street, which they shared with the village post office, became ‘Well Cottage’.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Dormer%27s_Cottage_23_High_Street_Dymchurch_Romney_Marsh_TN29_0NH.jpg" label="Dormer's Cottage, 23, High Street, Romney Marsh" attribution="Spudgun67, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 ### Bibliography
                                          
