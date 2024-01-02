@@ -45,13 +45,13 @@ The location of the new prisons was determined by the projects upon which convic
 In the meantime, work began in 1874 on a much smaller convict prison at the village of Borstal, near Rochester, where the War Department planned to construct hill fortifications. It was built entirely by convicts, who were marched there daily from [Chatham](/19c/19c-convicts-chatham) until they had erected a block of forty cells, into which they then moved in order to build the rest of the prison. Today it remains in use as HMYOI Rochester. As Borstal Convict Prison, it became famous for a reformatory regime for youths aged between 16 and 21, developed there during the early years of the twentieth century, giving a generic name to a new institution – the borstal - to which this regime was extended after 1908. 
 <param ve-image url="https://stor.artstor.org/stor/947750e4-99c1-4ab8-94a5-1cea68295001" label="Report of the Directors of Convict Prisons on the Discipline and Management" attribution="No known copyright">
 <!---Basemap centered on Borstal--->
-<param ve-map center="Q4946691" zoom="15">
+<param ve-map center="Q4946691" zoom="12">
 
 England’s last public works prison was built at [Dover]( https://www.nationaltrust.org.uk/the-white-cliffs-of-dover/features/langdon-convict-prison), on the clifftop east of [Dover Castle](/20c/20c-secret-tunnels), where a National Trust visitor centre now stands. The first block was built by civilian contractors and the rest by convicts themselves, who began arriving there in 1885. It was designed to hold a thousand convicts, who would be put to work building a new harbour of refuge. This scheme remained on hold, however, due to a steep and unanticipated drop in England’s prison population during the 1880s, and the new prison was neither completed nor fully occupied. It was finally abandoned in 1895, work on the harbour having by then commenced without convict labour. In 1909, a new convict prison for first offenders opened at [Maidstone](/19c/19c-convicts-maidstone), built alongside the town’s older local jail. By 1930, it occupied the entire site of what is now HMP Maidstone, remaining a convict establishment until the outbreak of the Second World War. 
 <br><br>
 Penal servitude was abolished in 1948, bringing to an end England’s domestic convict system.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Dover_Langdon_Cliffs_0326.JPG" label="Dover Langdon Cliffs" attribution="Clem Rutter, Rochester, Kent, via Wikimedia Commons" license="CC BY 3.0">
-<---Map centred on Boughton--->
+<!---Map centred on Boughton Lees--->
 <param ve-map center="Q651526" zoom="10">
 
      
