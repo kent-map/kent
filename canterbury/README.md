@@ -1,110 +1,133 @@
 <param ve-config 
-       title="Canterbury"
+       title="Canterbury in the 20th century"
        banner="https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg">
 
 # &nbsp; 
 <param class="cards">
 
-## Canterbury in the 20th Century
+## Overview
 
 [Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
-
-- author: Richard Maltby
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
 Canterbury is .
 
-## Canterbury in the 20th Century
+## Boom city
 
 [Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
-
-- author: Richard Maltby
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
 Canterbury is .
 
-## Canterbury in the 20th Century
+## Canterbury commerce
 
 [Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
-
-- author: Richard Maltby
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
 Canterbury is .
 
-## Canterbury in the 20th Century
+## Canterbury Education
 
 [Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
-
-- author: Richard Maltby
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
 Canterbury is .
 
-## Canterbury in the 20th Century
+## Canterbury Floods
 
 [Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
-
-- author: Richard Maltby
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
 Canterbury is .
 
-## Canterbury in the 20th Century
+## Canterbury Heritage
 
 [Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
-
-- author: Richard Maltby
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
 Canterbury is .
 
-
-
-
-
-
-## Canterbury in the 20th Century
+## Canterbury Homes
 
 [Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
-
-- author: Richard Maltby
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
 Canterbury is .
 
-## Canterbury in the 20th Century
+## Industrial Canterbury
 
 [Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
-
-- author: Richard Maltby
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
 Canterbury is .
 
-## Canterbury in the 20th Century
+## Canterbury Planning
 
 [Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
-
-- author: Richard Maltby
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
 Canterbury is .
 
-## Canterbury in the 20th Century
+## Canterbury Railways
 
 [Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
 
-- author: Richard Maltby
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+
+Canterbury is .
+
+## Canterbury Retail
+
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+
+Canterbury is .
+
+## Canterbury Tales
+
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+
+Canterbury is .
+
+## Canterbury Trading Estates
+
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+
+Canterbury is .
+
+## Canterbury Transport
+
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+
+Canterbury is .
+
+## Canterbury Universities
+
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+
+Canterbury is .
+
+## Canterbury in World War II
+
+[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
