@@ -19,7 +19,7 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+In the interwar years the slopes to the north and south sides of the city were developed to build new semi and detached houses with two storey bay windows, bricks clad in hanging tiles, fake timbering and pebbledash. 
 
 ## Canterbury commerce
 
@@ -131,4 +131,4 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+The destruction of World War II came to Canterbury in the night of 1 June 1942, the worst of a series of air raids, when high explosive and incendiary bombs rained down on the old city.
