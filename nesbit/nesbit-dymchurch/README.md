@@ -99,7 +99,7 @@ In 1903 and 1904, Nesbit received a series of heartwarming letters from Rudyard 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f9/Original_Scan_-_H._R._Millar_-_Rudyard_Kipling_-_Puck_of_Pook%27s_Hill_18.tif" label="Puck of Pook's Hill" attribution="Harold Robert Millar, Public domain, via Wikimedia Commons"> 
  
 Nesbit returned to Dymchurch every summer for more than a decade, and her improved finances allowed her to rent ever better holiday homes. In 1899, she received her first commission from _The Strand Magazine_ when she was invited to write ‘The Book of Beasts’, a series of seven stories about dragons (an eighth dragon story was published in their Christmas number). A very generous thirty pounds per story was added to when she collected and published these as _The Book of Dragons_ in 1901.
-<br><br>                                         
+<br>                                        
 Nesbit’s friend Edgar Jepson recalled:
 <br><br>
 In the summers we still went to Dymchurch, where we always found the Blands. In those days Dymchurch was just a village. No strangers came to it for weeks on end, and if you wished to go to any place from it, you had to walk, drive, or bicycle... In those summers there was very good lawn tennis and bridge at the house of the Squire. 
