@@ -181,6 +181,14 @@ Carla Danella has a BA from Wellesley College and recently completed her MA in E
 
 Elizabeth Duffield-Fuller lives, works and studies at Aberystwyth with her husband and three young sons. She is currently pursuing her PhD on representations of place, politics and domesticity in Dinah Craik’s works. 
 
+## Joe Dragovich
+
+[Joe Dragovich]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/433ce286-4051-415d-9146-dfe4ddfab886)
+
+Originally from Central Pennsylvania but now living in South Wales, Joseph Dragovich writes narrative history, primarily about eighteenth-century crime.
+
 ## Laurie Duggan
 
 [Laurie Duggan]()
