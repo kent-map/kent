@@ -11,7 +11,7 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
 
 ## Boom city
 
@@ -27,7 +27,7 @@ In the interwar years the slopes to the north and south sides of the city were d
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+In 1900, Canterbury had few small industries and was primarily a centre for rural commerce, to which the famous Cathedral attracted visitors. Between 1900 and 1950, this characterisation changed very little.
 
 ## Canterbury Education
 
@@ -35,7 +35,7 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+In view of the rich heritage of Christian learning it is not surprising that in the 20th century Canterbury became pre-eminent as a centre of education.
 
 ## Canterbury Floods
 
@@ -43,7 +43,7 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+In the early winter of 1909 Canterbury was literally waterlogged, assailed by severe weather that damaged hundreds of homes.
 
 ## Canterbury Heritage
 
@@ -67,7 +67,7 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+One of the largest upholstery tanneries in Europe prospered throughout the 20th century within the city walls until its closure in 2002. 
 
 ## Canterbury Planning
 
@@ -75,7 +75,7 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+After the war fierce controversy raged over plans for the redevelopment of the city centre.
 
 ## Canterbury Railways
 
@@ -83,7 +83,7 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+The Canterbury and Whitstable Railway, opened on May 3rd 1830, was the world’s first passenger steam railway. It became a branch of the London and South East Railway when in 1846 the main line reached Canterbury.
 
 ## Canterbury Retail
 
@@ -91,7 +91,7 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+The first retail department store in Canterbury, Lefevre’s, opened in 1926. The 20th century had arrived! It was a modern, new, store in Guildhall Street, which combined the Lefevre family drapers shop with buildings comprising the former Philosophical and Literary Institute, the Theatre Royal and its neighbouring Guildhall Tavern.
 
 ## Canterbury Tales
 
@@ -99,7 +99,7 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+Directors Michael Powell and Emeric Pressburger pay homage to Geoffrey Chaucer’s work in their 1944 film _A Canterbury Tale_, where the characters willingly or unwillingly follow in the footsteps of the old pilgrims and even feel their presence. 
 
 ## Canterbury Trading Estates
 
@@ -107,7 +107,8 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+Since the 1960s the map of Canterbury reflects the development of commercial retail and trading estates built outside the city centre. These sites are mostly attached to the A28 Radial route through 
+Wincheap and the Sturry Road.
 
 ## Canterbury Transport
 
@@ -115,7 +116,7 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+Between 1900 and 1962 all traffic on the A2 from London to Dover passed through the High Street. At the mid-point of the pedestrianised High Street the 1950s traffic signs, pointing in opposite directions to the destinations of Dover and Chatham, can still be seen. 
 
 ## Canterbury Universities
 
@@ -123,7 +124,8 @@ Canterbury is .
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
-Canterbury is .
+By the end of the 20th century Canterbury was home to three universities, the University for the Creative Arts (founded as the Canterbury School of Art and Architecture 1948), 
+Canterbury Christ Church University (formerly College of Education founded 1962) and the University of Kent (founded 1965).
 
 ## Canterbury in World War II
 
