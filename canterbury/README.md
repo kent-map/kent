@@ -131,6 +131,6 @@ Canterbury Christ Church University (formerly College of Education founded 1962)
 
 [Canterbury in World War II](/canterbury/20c-canterbury-ww2)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2d/Bomb_damage_Canterbury_1940.jpg)
 
 The destruction of World War II came to Canterbury in the night of 1 June 1942, the worst of a series of air raids, when high explosive and incendiary bombs rained down on the old city.
