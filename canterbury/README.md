@@ -9,13 +9,13 @@
 
 [Overview](/canterbury/20c-canterbury-overview)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/1f/Westgate_Gardens%2C_Canterbury%2C_Kent.jpg)
 
 This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
 
 ## Boom city
 
-[Boom city](/canterbury/20c-canterbury-overview)
+[Boom city](/canterbury/20c-canterbury-boom-city)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
@@ -97,7 +97,7 @@ The first retail department store in Canterbury, Lefevre’s, opened in 1926. Th
 
 [Canterbury Tales](/canterbury/20c-canterbury-tales-film)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7c/ChaucerPortraitEllesmereMs.jpg)
 
 Directors Michael Powell and Emeric Pressburger pay homage to Geoffrey Chaucer’s work in their 1944 film _A Canterbury Tale_, where the characters willingly or unwillingly follow in the footsteps of the old pilgrims and even feel their presence. 
 
