@@ -49,7 +49,7 @@ In the early winter of 1909 Canterbury was literally waterlogged, assailed by se
 
 [Canterbury Heritage](/canterbury/20c-canterbury-heritage)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/75/Canterbury_Cathedral_08.JPG)
 
 Tourism, for centuries a source of canterbury’s livelihood, brings a million visitors to the Cathedral each year. Organised school and educational visits come not only from London, but from far beyond, including the near Continent. 
 
