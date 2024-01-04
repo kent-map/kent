@@ -105,7 +105,7 @@ Directors Michael Powell and Emeric Pressburger pay homage to Geoffrey Chaucerâ€
 
 [Canterbury Trading Estates](/canterbury/20c-canterbury-trading)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5dd13fa2-03ce-46d5-bd42-34901758643d)
 
 Since the 1960s the map of Canterbury reflects the development of commercial retail and trading estates built outside the city centre. These sites are mostly attached to the A28 Radial route through 
 Wincheap and the Sturry Road.
@@ -114,7 +114,7 @@ Wincheap and the Sturry Road.
 
 [Canterbury Transport](/canterbury/20c-canterbury-transport)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/777a2135-2830-4e77-8eb7-e763486ccb39)
 
 Between 1900 and 1962 all traffic on the A2 from London to Dover passed through the High Street. At the mid-point of the pedestrianised High Street the 1950s traffic signs, pointing in opposite directions to the destinations of Dover and Chatham, can still be seen. 
 
@@ -122,7 +122,7 @@ Between 1900 and 1962 all traffic on the A2 from London to Dover passed through 
 
 [Canterbury Universities](/canterbury/20c-canterbury-universities)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6680eb0e-67fe-4e0a-bd39-f2ab91fdaa61)
 
 By the end of the 20th century Canterbury was home to three universities, the University for the Creative Arts (founded as the Canterbury School of Art and Architecture 1948), 
 Canterbury Christ Church University (formerly College of Education founded 1962) and the University of Kent (founded 1965).
