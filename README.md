@@ -29,7 +29,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 [Derek Jarman](20c/20c-jarman-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Jarman1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Jarman1.jpg)
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends.
 
