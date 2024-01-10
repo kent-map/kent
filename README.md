@@ -20,7 +20,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 [H.G.Wells](20c/20c-wellshg-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3615ba37-88b4-4c75-95b0-6710b43d7c73)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Wells1.jpg)
 
 “This bus it was, this ruddy, venerable and, under God's mercy, immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow. You figure him there.” Kipps.
 
@@ -38,7 +38,7 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 
 [Charles Darwin](19c/19c-darwin-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Darwin1.jpg)
 
 Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. Although, they may be aware of his Journal and Remarks, generally known as The Voyage of the Beagle (1839), in which a youthful Darwin recounted his five years travelling the world. 
 
@@ -47,7 +47,7 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 [Alfred Cohen](20c/20c-cohen-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/redlandscape.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. He and his second wife Diana lived in Goudhurst, Benenden and Iden Green over a fifteen-year period, and took inspiration from the Kent countryside.
 
@@ -55,7 +55,7 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 [Paul Nash](20c/20c-nash-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/eb/Battle_of_Britain_%28Paul_Nash%29.png)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Nash1.jpg)
 
 Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. Suffering post-traumatic stress disorder after World War One, Nash moved to Dymchurch where he recuperated whilst repeatedly painting seascapes in which the sea wall was a central motif.
 
@@ -66,7 +66,7 @@ Paul Nash was a war artist and photographer who became an important influence in
 
 [Medieval](medieval)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/20604136-61ac-4aa6-a82e-99e97a44f66d)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Medieval1.jpg)
 
 The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum), The murder of Becket, the Black Death, Wat Tyler's rebellion, Canterbury pilgrims and Canterbury tales.
 
@@ -118,7 +118,7 @@ Dover and Folkestone become the gateway to the Western Front during WW1. Seaside
 
 [21st century](21c)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/36ae75f3-b601-4695-ba8e-efb2e99630fc)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/21c_1.jpg)
 
 Regeneration and the rise of the DFL, street murals, poetry, books and Covid.
 
@@ -130,7 +130,7 @@ Regeneration and the rise of the DFL, street murals, poetry, books and Covid.
 
 [Places A-D](placesad)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesA_D1.jpg)
 
 Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Canterbury, Deal and Dover.
 
@@ -139,7 +139,7 @@ Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Ca
 
 [Places E-J](placesej)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesE_J1.jpg)
 
 Towns of grandeur. Articles on Folkestone and Gravesend.
 
@@ -147,7 +147,7 @@ Towns of grandeur. Articles on Folkestone and Gravesend.
 
 [Places K-Z](placeskz)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b7891169-b4a4-43fb-9245-c1f71e27c7e2)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesK_Z1.jpg)
 
 Seaside resorts such as Ramsgate and Sandgate.
 
