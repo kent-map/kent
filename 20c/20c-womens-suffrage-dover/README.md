@@ -1,9 +1,15 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="Women's Suffrage In Dover" author="Madeleine Byatt and Anneliese Woodhouse" layout="vtl" banner="xxx">
+<param ve-config title="Women's Suffrage In Dover" author="Madeleine Byatt, Anneliese Woodhouse and Michelle Crowther" layout="vtl" banner="xxx">
 
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q15243899" aliases="Maison Dieu">
+
+#
+
+On Wed 6 December 1876, a public meeting was held to consider extending parliamentary suffrage to women householders at the Wellington Hall, Dover.[^ref1] Isabella Tod, Caroline Biggs and Helen Blackburn of the National Society for Women's Suffrage spoke to an audience of 400 in Dover, the majority of whom were women. Alderman Rowland Rees, who had campaigned against the [Contagious Diseases Act](/19c/19c-contagious-diseases/), chaired the meeting and argued that 'The influence of women was very much needed in politics, to save us from grave public errors. They had seen sufficient in Dover of the operation of laws, which operated unfairly and cruelly against women.' On spotting a Metropolitan policeman in the audience, Rees demanded that he be removed as "the wives and women of Dover have not come here to be scanned over by a spy policeman" and the audience began shouting 'Turn him out!' and 'Point him out'.
+
+Mrs Dunbar and Mary Anne Apps joined the speakers on the platform. 
 
 On the 16 July 1909, [Cicely Hamilton](/20c/20c-hamilton-biography) and [Christopher St John](/20c/20c-st-john-biography)’s play ‘How the Vote Was Won’ was performed at the Dover Maison Dieu. First performed in London in April 1909, and set in the home of a married couple in Brixton, ‘How the Vote Was Won’ follows Horace and Ethel Cole on the day of a women’s worker strike. Initially the couple are against women's suffrage, but as more and more women quit their jobs, relatives of Horace begin to insist upon living with him arguing that they will stay out of work until their right to vote is recognised by the government. As the women of the family arrive, Horace and Ethel begin to realise the importance of the Suffrage movement.
 
@@ -34,4 +40,5 @@ The Representation of the People Act finally gave women the right to vote in 191
 
 ### References
 
+[^ref1]: Dover Chronicle, Saturday 02 December 1876.
 [^ref1]: Godfrey, J. 'Suffragettes of Kent’
