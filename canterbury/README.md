@@ -1,6 +1,6 @@
-<param ve-config 
-       title="Canterbury in the 20th century"
-       banner="https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg">
+.ve-header label="Canterbury" background=gh:kent-map/images/banners/16c.jpg sticky=true
+
+This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
 
 # &nbsp; 
 <param class="cards">
@@ -11,7 +11,7 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/1f/Westgate_Gardens%2C_Canterbury%2C_Kent.jpg)
 
-This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
+Overview of Canterbury in the 20th century
 
 ## Boom city
 
