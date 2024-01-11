@@ -158,7 +158,7 @@ Seaside resorts such as Ramsgate and Sandgate.
 
 [Actors and Theatres](theatre)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/actors_and_theatres1.jpg)
 
 Actors have made Kent their home, playwrights have used it as a setting, and theatrical companies have performed in its theatres.
 
@@ -166,7 +166,7 @@ Actors have made Kent their home, playwrights have used it as a setting, and the
 
 [Artists and Designers](artists)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fe3e0abd-0d14-4bff-ac3d-a6a600a6c298)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_and_designers1.jpg)
 
 Architects, designers, painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 
@@ -174,7 +174,7 @@ Architects, designers, painters, illustrators, cartoonists and muralists have be
 
 [Children's Authors and Stories](children)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/862d778e-6ca0-46d3-976d-14bf7d4ff67d)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/children_authors_and_stories1.jpg)
 
 From the Railway Children to Rupert Bear, Kent has been in the inspiration for many children's authors and stories.
 
@@ -182,7 +182,7 @@ From the Railway Children to Rupert Bear, Kent has been in the inspiration for m
 
 [Crime Fiction](crime)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4f/Strand_paget.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/crime_fiction1.jpg)
 
 It turns out Kent may be a more dangerous place than you realised (at least in the imaginations of writers).
 
@@ -190,7 +190,7 @@ It turns out Kent may be a more dangerous place than you realised (at least in t
 
 [Landscapes](landscape)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2546.JPG)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/landscapes1.jpg)
 
 Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
@@ -199,7 +199,7 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 
 [Mathematicians and Scientists](science)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/mathematicians_and_scientists1.jpg)
 
 Botanists, chemists and naturalists abound in the beautiful garden of England.
 
@@ -208,7 +208,7 @@ Botanists, chemists and naturalists abound in the beautiful garden of England.
 
 [Musical Peregrinations](music)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/61826c52-f5b7-4a39-bece-68dcf6d6539e)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/musical_peregrinations1.jpg)
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
@@ -217,7 +217,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 
 [Poets and Poetry](poetry)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/335d901a-8416-4356-8a12-1607c997a9a2)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/poets_and_poetry1.jpg)
 
 The Kent coast and countryside has provided inspiration for poets throughout the centuries.
 
@@ -226,7 +226,7 @@ The Kent coast and countryside has provided inspiration for poets throughout the
 
 [Prisons and Discipline](prisons)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8b87d15d-5d86-4784-ab72-8dad919689c2)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/prisons_and_discipline1.jpg)
 
 An exploration of Kent's penal system including the Bloody Code, convicts, transportation and prison hulks.
 
@@ -234,7 +234,7 @@ An exploration of Kent's penal system including the Bloody Code, convicts, trans
 
 [Religion](religion)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e49b11b9-c09d-45be-ba7b-3e95b49eef2a)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/religion1.jpg)
 
 An exploration of some of the people and places that have shaped faith in the county.
 
@@ -242,7 +242,7 @@ An exploration of some of the people and places that have shaped faith in the co
 
 [Seascapes](seascape)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/seascapes1.jpg)
 
 The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
 
@@ -250,7 +250,7 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 
 [The Built Environment](built)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_built_environment1.jpg)
 
 A county of rich architecture; castles, churches, ports, forts and towers.
 
@@ -259,7 +259,7 @@ A county of rich architecture; castles, churches, ports, forts and towers.
 
 [The Garden of England](garden)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/af58512e-cbf4-4f26-8776-3560de893011)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_garden_of_england1.jpg)
 
 Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth, Kent is known as the ‘Garden of England’ due its rich agricultural history.
 
@@ -267,7 +267,7 @@ Famed for its cherries, hops and fruit, organic farming, and the modern day gree
 
 [War in Kent](wartime)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/war_in_kent1.jpg)
 
 On the frontline of England's defence, Kent has played a pivitol role when faced with invasion, from the Spanish Armada up until the First and Second World Wars. 
 
