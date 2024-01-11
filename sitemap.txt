@@ -40,6 +40,7 @@ https://www.kent-maps.online/19c/19c-burges-biography/
 https://www.kent-maps.online/19c/19c-burnand-biography/
 https://www.kent-maps.online/19c/19c-canterbury/
 https://www.kent-maps.online/19c/19c-carlyle-biography/
+https://www.kent-maps.online/19c/19c-carrick-biography/
 https://www.kent-maps.online/19c/19c-challacombe-biography/
 https://www.kent-maps.online/19c/19c-chatham-dockyard/
 https://www.kent-maps.online/19c/19c-christian-andersen/
@@ -121,6 +122,7 @@ https://www.kent-maps.online/19c/19c-wood-biography/
 https://www.kent-maps.online/19c/19c-zangwill-biography/
 https://www.kent-maps.online/19c/indextest/
 https://www.kent-maps.online/20c/
+https://www.kent-maps.online/20c/20c-bates-biography/
 https://www.kent-maps.online/20c/20c-battle-of-britain-memorial/
 https://www.kent-maps.online/20c/20c-belgian-refugees/
 https://www.kent-maps.online/20c/20c-blunden-biography/
