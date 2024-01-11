@@ -34,6 +34,7 @@ Frost, Thomas. _Kingston-on-Thames, with Rambles in the District, etc._ London :
 Gurney, Peter. Frost, Thomas. _Oxford Dictionary of National Biography_. 2007. https://doi.org/10.1093/ref:odnb/90087   
 --. Working-class Writers and the Art of Escapology in Victorian England: The Case of Thomas Frost. _Journal of British Studies_ 45. 2006. 51–71.    
 Jerome, Jerome K. [_Three Men in a Boat_]( https://victoriansecrets.co.uk/book/three-men-in-a-boat/). Brighton: Victorian Secrets, 2012.
+Laird, Karen E. ‘Adapting the Seduction Plot: "David Copperfield's" Magdalens on the Victorian Stage. _Dickens Studies Annual_ 2011: 42 (2011). 193-215.
 Oulton, Carolyn W. de la L. _Below the Fairy City: a Life of Jerome K. Jerome_. Brighton: Victorian Secrets, 2012. 
 
 
