@@ -278,7 +278,7 @@ On the frontline of England's defence, Kent has played a pivitol role when faced
 
 [Jane Austen](austen)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/jane_austen1.jpg)
 
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park.
 
@@ -287,7 +287,7 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 
 [Joseph Conrad](19c/19c-conrad-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f117483d-65cb-464e-828a-486c8a83ac53)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/joseph_conrad1.jpg)
 
 Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century, lived the last decades of his life in Bishopsbourne, a village about six miles south of Canterbury.
 
@@ -304,7 +304,7 @@ From Rochester to Broadstairs on the East coast – wherever you go you can be f
 
 [T.S. Eliot](20c/20c-eliot-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3732a411-bdb3-4fe9-a464-1aeb2ac8d7ad)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/t_s_eliot1.jpg)
 
 After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. It was there he wrote “The Fire Sermon,” part three of the hugely influential poem 'The Waste Land'. He wrote to Sydney Schiff from the Albemarle Hotel, Cliftonville: “I have done a rough draft .. but I do not know whether it will do.”
 
@@ -312,7 +312,7 @@ After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside
 
 [Edith Nesbit](nesbit)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/edith_nesbit1.jpg)
 
 English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. Several of her best-loved stories for children include descriptions of her childhood home.
 
@@ -320,7 +320,7 @@ English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coas
 
 [Vita Sackville-West](20c/20c-sackville-west-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/vita_sackville_west1.jpg)
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
@@ -331,7 +331,7 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 [Double Double](20c/20c-double-double)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c5a69374-84aa-4934-a9d4-4469d7e40ace)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/double_double1.jpg)
 
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition who come in search of a venue for an “open-air freakout,” and find a beach with white cliffs. 
 
@@ -339,7 +339,7 @@ It was 1969, and in the fictional coastal North Kent town of Brindown, things wo
 
 [Miss Balmaine's Past](19c/19c-croker-missbalmaine)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/miss_balmaines_past1.jpg)
 
 Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Horton'. Rosamund Balmaine finds love when Ronald Gordon arrives to survey the area for a new railway. However, conniving relatives conspire to keep the couple apart.
 
@@ -348,7 +348,7 @@ Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Hor
 
 [Shepherds in Sackcloth](20c/20c-kaye-smith-delmonden)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/shepherds_in_sackcloth1.jpg)
 
 Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
 
