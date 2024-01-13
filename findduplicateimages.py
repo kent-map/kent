@@ -2,6 +2,7 @@ from tkinter.filedialog import askdirectory
 from tkinter import Tk
 import os
 import hashlib
+import csv
 from pathlib import Path
 
 
@@ -39,10 +40,14 @@ def main():
     duplicate_images = find_duplicates(path)
 
     if duplicate_images:
-        print("Duplicate Images:")
-        for hash_value, paths_list in duplicate_images.items():
-            for original_path, duplicate_path in paths_list:
-                print(f"Original: {original_path}\nDuplicate: {duplicate_path}\n")
+        with open("DuplicateImages.csv", mode="w", newline="") as file:
+            writer = csv.writer(file)
+            writer.writerow(["Original", "Duplicate"])
+            #print("Duplicate Images:")
+            for hash_value, paths_list in duplicate_images.items():
+                for original_path, duplicate_path in paths_list:
+                    #print(f"Original: {original_path}\nDuplicate: {duplicate_path}\n")
+                    writer.writerow([f"Original: {original_path}", f"Duplicate: {duplicate_path}"])
     else:
         print("No duplicate images found.")
 
