@@ -152,7 +152,7 @@ Best-selling author, playwright and, according to some, the father of detective 
 
 [Joseph Conrad](19c-conrad-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f117483d-65cb-464e-828a-486c8a83ac53) 
 
 Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century. Despite his apparent lack of enthusiasm for studying, Conrad retained a love of Polish Romantic literature and acquired French and the classical languages whilst in Kracow, and this enabled him to engage with both his first career at sea and then his second as a writer. 
 
@@ -240,7 +240,7 @@ In the early stages of their married life, Elizabeth would often illustrate scie
  
  [Sarah Grand](19c-grand-biography)
 
- ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg) 
 
 Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920. Here she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies and was involved with the Women’s Volunteer Reserve Force during WW1. 
 
@@ -272,7 +272,7 @@ In 1876, six years after Dickens’s death, Ellen Ternan married George Wharton 
 
 [Hugh Price Hughes](19c-price-hughes-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=ttps://upload.wikimedia.org/wikipedia/commons/f/ff/A_drunken_man_surrounded_by_women_in_a_dingy_alehouse._Litho_Wellcome_V0019393.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/A_drunken_man_surrounded_by_women_in_a_dingy_alehouse._Litho_Wellcome_V0019393.jpg) 
 
 Reverend Hugh Price Hughes, Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869. Aged twenty-two and fresh from Richmond Theological College, the ‘pale bespectacled’ young man was to become a key figure in the Dover temperance movement.
 
@@ -328,7 +328,7 @@ Mrs Dora Jordan was the foremost actress of her day and very much admired. She b
 
 [John Keats](19c-keats-margate)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/bettisonslibrary.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ebe26fbc-fe4d-43f4-90d3-fea24a3e68fa) 
 
 The Romantic poet John Keats, whose short but remarkable career and early death from tuberculosis at the age of twenty-five have made him one of the most known and best loved poets of all time, holidayed in Margate on two occasions.
 
@@ -416,7 +416,7 @@ D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-
 
 [Henry Russell](19c-russell-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=ttps://upload.wikimedia.org/wikipedia/commons/8/8d/Henry_Russell_LCCN2003655318.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/8d/Henry_Russell_LCCN2003655318.jpg) 
 
 Composer and musician, Henry Russell was born in Sheerness on the Isle of Sheppey and composed between 600-800 songs, many tackling social injustice including slavery.
 
