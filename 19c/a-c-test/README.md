@@ -9,6 +9,8 @@ Hoy and steam boats, railways and passenger ships brought people to the county i
 
 [Overview](19c-kent)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c9754956-2845-403f-b27b-2e4fb5b36184)
+
 During the 19th century Kent was connected to the metropolis through hoy and steam boats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. 
 
 ## Henry Gardiner Adams (1812-1881)
@@ -586,29 +588,71 @@ P. G. Wodehouse only spent two years at Malvern House Prep School in the Kearsne
 
 The Jewish author Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of Children of the Ghetto ‘was wandering about the Ramsgate sands’ when he spotted a writing competition, advertised in an abandoned issue of Society magazine.
 
-### Places
+## Broadstairs
 
 [Broadstairs](/dickens/broadstairs-19th-century)   
+
+## Canterbury
+
 [Canterbury](19c-canterbury)   
+
+## Chatham Dockyard
+
 [Chatham Dockyard](19c-chatham-dockyard)  
+
+## Dover
+
 [Dover](19c-dover)   
+
+## Folkestone
+
 [Folkestone](19c-folkestone)   
+
+## Folkestone Free Library
+
 [Folkestone Free Library](19c-folkestone-free-library)  
+
+## Gravesend
+
 [Gravesend](19c-gravesend)   
+
+## Margate
+
 [Margate](19c-margate)   
-[Ramsgate](19c-ramsgate)  
+
+## Ramsgate
+
+[Ramsgate](19c-ramsgate) 
+
+## Rosherville
+
 [Rosherville](19c-rosherville)   
+
+## Sandgate
+
 [Sandgate](/placesqz/sandgate-overview)    
+
+## Seaside Resorts
+
 [Seaside resorts](19c-seaside)   
 
-### Events
+## Contagious Diseases Acts
 
 [Contagious Diseases Acts](19c-contagious-diseases)   
+
+## Hoodening
+
 [Hoodening](19c-hoodening)  
+
+## Jewish Emancipation
+
 [Jewish Emancipation](19c-jewish-emancipation)   
+
+## Leather and Dust
+
 [Leather and Dust](/dickens/19c-leather-and-dust)   
 
 
-### Texts
+## Miss Balmaine's Past
 
 [Miss Balmaine's Past by Bithia Croker](19c-croker-missbalmaine)   
