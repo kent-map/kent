@@ -5,6 +5,12 @@ Hoy and steam boats, railways and passenger ships brought people to the county i
 # &nbsp; 
 <param class="cards">
 
+## Overview
+
+[Overview](19c-kent)
+
+During the 19th century Kent was connected to the metropolis through hoy and steam boats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. 
+
 ## Henry Gardiner Adams (1812-1881)
 
 [Henry Gardiner Adams](19c-gardiner-adams-biography)
@@ -579,3 +585,30 @@ P. G. Wodehouse only spent two years at Malvern House Prep School in the Kearsne
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f6/Sands_Ramsgate_England.jpg)
 
 The Jewish author Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of Children of the Ghetto ‘was wandering about the Ramsgate sands’ when he spotted a writing competition, advertised in an abandoned issue of Society magazine.
+
+### Places
+
+[Broadstairs](/dickens/broadstairs-19th-century)   
+[Canterbury](19c-canterbury)   
+[Chatham Dockyard](19c-chatham-dockyard)  
+[Dover](19c-dover)   
+[Folkestone](19c-folkestone)   
+[Folkestone Free Library](19c-folkestone-free-library)  
+[Gravesend](19c-gravesend)   
+[Margate](19c-margate)   
+[Ramsgate](19c-ramsgate)  
+[Rosherville](19c-rosherville)   
+[Sandgate](/placesqz/sandgate-overview)    
+[Seaside resorts](19c-seaside)   
+
+### Events
+
+[Contagious Diseases Acts](19c-contagious-diseases)   
+[Hoodening](19c-hoodening)  
+[Jewish Emancipation](19c-jewish-emancipation)   
+[Leather and Dust](/dickens/19c-leather-and-dust)   
+
+
+### Texts
+
+[Miss Balmaine's Past by Bithia Croker](19c-croker-missbalmaine)   
