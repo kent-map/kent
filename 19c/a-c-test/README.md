@@ -648,6 +648,9 @@ The Jewish author Israel Zangwill’s first recorded encounter with Kent dates t
 
 [Jewish Emancipation](19c-jewish-emancipation)   
 
+![](https://iiif.juncture-digital.org/thumbnail? url="https://upload.wikimedia.org/wikipedia/commons/7/73/Rochester_Castle_engraved_by_H.Adlard_after_G.F.Sargent._c1836_edited.jpg">
+
+
 ## Leather and Dust
 
 [Leather and Dust](/dickens/19c-leather-and-dust)   
