@@ -47,7 +47,7 @@ def main():
             for hash_value, paths_list in duplicate_images.items():
                 for original_path, duplicate_path in paths_list:
                     #print(f"Original: {original_path}\nDuplicate: {duplicate_path}\n")
-                    writer.writerow([f"Original: {original_path}", f"Duplicate: {duplicate_path}"])
+                    writer.writerow([f"{original_path}", f"{duplicate_path}"])
     else:
         print("No duplicate images found.")
 
