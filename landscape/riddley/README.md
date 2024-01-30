@@ -24,6 +24,7 @@ Naming imbues space with meaning (a ‘sense of place’), although the original
 For many authors, placenames offer an opportunity for playful reworking (Hardy’s Wessex is full of real places renamed, and characters whose names are drawn from the landscape, Jude Fawley, for instance, grows up in ‘Marygreen’ (in reality Great Fawley). The author who most draws our attention to both the authorial and historical malleability Kentish placenames is Russell Hoban, an American who made England his home. His re-namings of places in Riddley Walker so evocative his post-apocalyptic Kent, that his readers can cast their eyes across ‘Riddley-world’ from the vantage-point of the crest of the Kentish Downs:
 <br><br>
 “Standing above 'Mr Clevvers Roaling Place', you can see the 'River Sour'. Directly below is 'Widders Dump', further out 'Bernt Arse'. On a clear day, you can glimpse 'Dunk Your Arse'. You will not find these places on an Ordnance Survey map, but, in a sense, they do exist. They are a corruption of contemporary placenames conjured by Russell Hoban in his cult novel Riddley Walker, a tale of a post-apocalypse Kent. They are, in order, the Devil's Kneadingtrough - a dramatic chalk coombe (dry valley), the [Stour](/landscape/literary-stour/), the hamlet of Withersdane, Ashford, and Dungeness. Hoban's story is of a world reverted to the Iron Age, written in a degraded language most easily understood if read slowly and aloud.” (Vujakovic, 2017, p.134)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/24/Devil%27s_Kneading_Trough%2C_Kent.jpg" label="Devil's Kneading Trough" attribution="Tim Sheerman-Chase" license="CC BY 2.0"> 
 
 Hoban’s tale projects us several thousand years into the future and a Kent crawling out of nuclear catastrophe. Riddley, the books eponymous hero, narrates his experiences in a world that resembles the ‘Iron Age’ in terms of technology, economy, landscape and life-style (with similarities to the feudal world of Richard Jefferies, less readable, post-apocalyptic ‘After London’ (1905)).
 <br><br>
@@ -47,4 +48,7 @@ Those of us familiar with the story and immersed in Riddley’s landscape may fi
 Mills. A. D. (1998) The Oxford Dictionary of English Place-Names [OUP: Oxford]   
 Vujakovic, P. (2017) ‘Mind the Gap’, Kent Life, May 2017, pp. 134-5.   
 Vujakovic, P. (2021) Map as biography: maps, memory, and landscape – thoughts on Ordnance Survey map, Sheet TR04, 1:25,000 Provisional Edition, Ashford, International Journal of Cartography, 7(2) special issue ‘Cartographers Write About Cartography’, pp. 190-197.   
-i Darent Catchment Partnership - https://darentpartnership.org.uk/darent/darent (accessed 27/01/24) ii Kent points of Interest; place names - https://kentpoi.co.uk/heritage/places/ (accessed 27/01/24)
+
+### References
+[^ref1]: Darent Catchment Partnership - https://darentpartnership.org.uk/darent/darent (accessed 27/01/24) ii Kent points of Interest; place names - https://kentpoi.co.uk/heritage/places/ (accessed 27/01/24)
+[^ref2]: Kent points of Interest; place names - https://kentpoi.co.uk/heritage/places/ (accessed 27/01/24)
