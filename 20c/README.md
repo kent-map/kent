@@ -29,6 +29,7 @@
 [M.R. James](20c-jamesmr-biography)   
 [Walter James, the fourth Lord Northbourne](20c-northbourne-biography)   
 [Derek Jarman](20c-jarman-biography)   
+[Amy Johnson](20c-johnson-biography)   
 [Mary Kelly](20c-kelly-biography)   
 [D.H. Lawrence](20c-lawrence-biography)   
 [Somerset Maugham](20c-maugham-biography)  
