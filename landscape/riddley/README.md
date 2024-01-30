@@ -45,9 +45,9 @@ Those of us familiar with the story and immersed in Riddley’s landscape may fi
 
 ### Bibliography
 
-Mills. A. D. (1998) The Oxford Dictionary of English Place-Names [OUP: Oxford]   
-Vujakovic, P. (2017) ‘Mind the Gap’, Kent Life, May 2017, pp. 134-5.   
-Vujakovic, P. (2021) Map as biography: maps, memory, and landscape – thoughts on Ordnance Survey map, Sheet TR04, 1:25,000 Provisional Edition, Ashford, International Journal of Cartography, 7(2) special issue ‘Cartographers Write About Cartography’, pp. 190-197.   
+Mills. A. D. (1998) _The Oxford Dictionary of English Place-Names_ [OUP: Oxford]   
+Vujakovic, P. (2017) ‘Mind the Gap’, _Kent Life_, May 2017, pp. 134-5.   
+Vujakovic, P. (2021) Map as biography: maps, memory, and landscape – thoughts on Ordnance Survey map, Sheet TR04, 1:25,000 Provisional Edition, Ashford, International Journal of Cartography, 7(2) special issue _Cartographers Write About Cartography_, pp. 190-197.   
 
 ### References
 [^ref1]: Darent Catchment Partnership - https://darentpartnership.org.uk/darent/darent (accessed 27/01/24) ii Kent points of Interest; place names - https://kentpoi.co.uk/heritage/places/ (accessed 27/01/24)
