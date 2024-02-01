@@ -39,7 +39,7 @@ Riddley provides us with his own hand-drawn map of ‘Inland’, as much of his 
 <br><br>
 His toponyms gain authority through cartographic representation – maps are power. His map shows a landscape impacted by sea-level change, the ‘Rivver Sour’ is a tidal estuary as far as ‘Cambry’ (Canterbury), the Isle of Thanet is once again a real island (‘The Ram’ after Ramsgate), and far tip of Dungeness is cut-off from the mainland (although retains its twentieth-century outline, an unlikely outcome after such a period of constant erosion and deposition). This new coastline is, in fact, a return to that of the late Iron Age and Roman eras.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Isle_of_Thanet_-_Rutupiae.jpg" label="Isle of Thanet - Rutupiae" attribution="William Barlow, Public domain, via Wikimedia Commons">
-<param ve-map center="Q590422" zoom="15">
+<param ve-map center="Q590422" zoom="10">
 
 Hoban reminds us that placenames should be meaningful and matter, sadly, today, placenames are simply ‘sounds’ to most people, however poetic or even linked to a strong sense of belonging. They certainly mattered and had meaning when people first created them (Chilham = ‘homestead of a man called Cilla or woman called Cille’ Old English (OE)). Or, as in his novel Riddley’s people have re-imagined them to represent the new reality on the ground. Today we rarely question the origins of the toponyms on maps or road signs, or in our heads. By conjuring with placenames Hoban forces us to seek meaning.
 <br><br>
@@ -51,7 +51,7 @@ An interesting passage in Hoban’s book exposes any idea that renaming place is
 <br><br>
 Those of us familiar with the story and immersed in Riddley’s landscape may find themselves thinking in ‘Riddley speak’ for many localities; some places do lend themselves to his tone and meaning, but not all. This author, for one (a onetime resident of the Parish of Wye and Hinxhill), does not think of Hinxhill as ‘Hagmans Il’, but rather as the evocative ‘Hengist Hill’, its purported origin being the Old English ‘Haenostesyle’ – ‘hill of the stallion or man named Hengist’ (OE hengest + hyll).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Footpath_to_Hinxhill_-_geograph.org.uk_-_1844784.jpg" label="Footpath to Hinxhill" attribution="David Anstiss" license="CC BY-SA 2.0">
-<param ve-map center="Q3135780">
+<param ve-map center="Q3135780" zoom="15">
 
 
 ### Bibliography
