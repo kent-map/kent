@@ -33,7 +33,7 @@ During a prolonged bout of flu, which lasted for 9 weeks in the spring of 1918, 
 A controversial figure in his own lifetime, Lord Northcliffe opposed women’s suffrage but ‘paid high salaries to female writers before anyone else in Fleet Street’ ; was ‘a prominent proponent of family values who kept a series of mistresses’;  funded local causes including orphanages and the Dover Patrol memorial, as well as founding the Imperial Paper Mills in [Gravesend](/placesej/gravesend-overview/), which operated until the 1980s,  while ruthlessly sacking pressmen he felt to be inadequate. Regardless of these inconsistencies, he is widely acknowledged as [‘Britain’s greatest press baron’]( https://www.amazon.co.uk/Chief-Northcliffe-Britains-Greatest-Press/dp/B09TWVMQVJ).
 <br><br>
 With thanks to Andrew Roberts for agreeing to ‘cast an eye’ over this very condensed account of Northcliffe’s complex career.
-<param ve-image url="https://stor.artstor.org/stor/ff02b007-70c7-432e-88d7-04fa94cfefde" label="Lloyd's Paper Mill, Sittingbourne" attribution="c.1909">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/White_Cliffs_near_Dover_Patrol_Memorial_-_geograph.org.uk_-_2380093.jpg" label="White Cliffs near Dover Patrol Memorial" attribution="David Anstiss" license="CC BY-SA 2.0">
 
 ### Bibliography
 ‘A Charles Dickens Fete.’ _Portsmouth Evening News_. 22 May 1897. 3.    
