@@ -1,10 +1,18 @@
-Lord Northcliffe
-Carolyn Oulton
-Alfred C. Harmsworth, later Lord Northcliffe, was born in Dublin on 15 July 1865. He attended Henley House School in London, where the headmaster was the father of A. A. Milne.  His most recent biographer notes that as a young man he was advised by [G. A. Sala](/19c/19c-sala-biography) (one of Dickens’s ‘young men’) to abandon the idea of a writing career for something more lucrative.  Instead he went on to become the most successful newspaper proprietor of his age, founding the _Daily Mail_ in 1896 and the _Daily Mirror in 1903_, before taking over _The Times_ in 1908. He was made Baronet of Elmwood in 1904 and Baron Northcliffe in 1905. At his death in 1922 his gross wealth was recorded as £3,250,000.
+<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<param ve-config title="Lord Northcliffe" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+
+<param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q99678204" aliases="Halstead Place">
+
+<param ve-map center="Q26644540" zoom="15">
+
+#
+
+Alfred C. Harmsworth, later Lord Northcliffe, was born in Dublin on 15 July 1865. He attended Henley House School in London, where the headmaster was the father of A. A. Milne.  His most recent biographer notes that as a young man he was advised by [G. A. Sala](/19c/19c-sala-biography) (one of [Dickens](/dickens/)’s ‘young men’) to abandon the idea of a writing career for something more lucrative.  Instead he went on to become the most successful newspaper proprietor of his age, founding the _Daily Mail_ in 1896 and the _Daily Mirror in 1903_, before taking over _The Times_ in 1908. He was made Baronet of Elmwood in 1904 and Baron Northcliffe in 1905. At his death in 1922 his gross wealth was recorded as £3,250,000.
 
 Harmsworth married Mary Milner in 1888 and the couple spent their honeymoon in Folkestone(/19c/19c-folkestone),  the beginning of a lifelong association with Kent. In 1890 he bought a house called Elmwood, in Broadstairs(/dickens/broadstairs-19th-century). While he spent much of his time travelling or in London, Elmwood would remain ‘home’ until shortly before his death in 1922.
 
-Harmsworth was known for his generosity to local causes. He was one of the organisers (or at least, supporters) of the first Dickens(/dickens) Festival in Broadstairs in 1897,  with the aim of raising funds for a Fishermen and Boatmen’s clubhouse and reading room.  It was rumoured that Henry Dickens and Mary Angela Dickens had offered to give readings,  and Harmsworth lent his own collection of relics for the occasion.  Dolly Varden was ‘fascinatingly embodied by Mrs Alfred Harmsworth’.  
+Harmsworth was known for his generosity to local causes. He was one of the organisers (or at least, supporters) of the first Dickens(/dickens) Festival in Broadstairs in 1897,  with the aim of raising funds for a Fishermen and Boatmen’s clubhouse and reading room.  It was rumoured that Henry Dickens and Mary Angela Dickens had offered to give readings, and Harmsworth lent his own collection of relics for the occasion.  Dolly Varden was ‘fascinatingly embodied by Mrs Alfred Harmsworth’.  
 
 From 1894-97 Harmsworth also funded the Jackson-Harmsworth Arctic expedition, including [Dover](/19c/19c-dover) resident Dr Reginald Koettlitz.
 
@@ -12,7 +20,7 @@ He was not sympathetic to every campaign, and in October 1912 [Winston Churchill
 
 During a prolonged bout of flu, which lasted for 9 weeks in the spring of 1918, he continued his newspaper propaganda from Broadstairs.  At around the same time he recruited [H. G. Wells](/20c/20c-wellshg-biography) to his ministry of propaganda in London, although this friendship also failed to survive the war years.
 
-A controversial figure in his own lifetime, Lord Northcliffe opposed women’s suffrage but ‘paid high salaries to female writers before anyone else in Fleet Street’ ; was ‘a prominent proponent of family values who kept a series of mistresses’;  funded local causes including orphanages and the Dover Patrol memorial, as well as founding the Imperial Paper Mills in Gravesend(https://www.kent-maps.online/placesej/gravesend-overview/), which operated until the 1980s,  while ruthlessly sacking pressmen he felt to be inadequate. Regardless of these inconsistencies, he is widely acknowledged as [‘Britain’s greatest press baron’]( https://www.amazon.co.uk/Chief-Northcliffe-Britains-Greatest-Press/dp/B09TWVMQVJ).
+A controversial figure in his own lifetime, Lord Northcliffe opposed women’s suffrage but ‘paid high salaries to female writers before anyone else in Fleet Street’ ; was ‘a prominent proponent of family values who kept a series of mistresses’;  funded local causes including orphanages and the Dover Patrol memorial, as well as founding the Imperial Paper Mills in [Gravesend](/placesej/gravesend-overview/), which operated until the 1980s,  while ruthlessly sacking pressmen he felt to be inadequate. Regardless of these inconsistencies, he is widely acknowledged as [‘Britain’s greatest press baron’]( https://www.amazon.co.uk/Chief-Northcliffe-Britains-Greatest-Press/dp/B09TWVMQVJ).
 
 With thanks to Andrew Roberts for agreeing to ‘cast an eye’ over this very condensed account of Northcliffe’s complex career.
 
