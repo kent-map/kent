@@ -17,11 +17,10 @@ Harmsworth married Mary Milner in 1888 and the couple spent their honeymoon in [
 <param ve-map center="Q375314" zoom="13">
 
 Harmsworth was known for his generosity to local causes. He was one of the organisers (or at least, supporters) of the first [Dickens](/dickens/) Festival in Broadstairs in 1897,  with the aim of raising funds for a Fishermen and Boatmen’s clubhouse and reading room.  It was rumoured that Henry Dickens and Mary Angela Dickens had offered to give readings, and Harmsworth lent his own collection of relics for the occasion.  Dolly Varden was ‘fascinatingly embodied by Mrs Alfred Harmsworth’.  
+<br><br>
+From 1894-97 Harmsworth also funded the Jackson-Harmsworth Arctic expedition, including [Dover](/19c/19c-dover) resident Dr Reginald Koettlitz.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Mrs_Alfred_Charles_William_Harmsworth.jpg" label="Mrs Alfred Charles William Harmsworth" attribution="Lafayette studio, London, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-map center="Q922739" zoom="13">
-
-From 1894-97 Harmsworth also funded the Jackson-Harmsworth Arctic expedition, including [Dover](/19c/19c-dover) resident Dr Reginald Koettlitz.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/No-nb_bldsa_1c052.jpg" label="Dr Koettlitz" attribution="Copyright of the National Library of Norway, Public domain, via Wikimedia Commons">
 
 He was not sympathetic to every campaign, and in October 1912 [Winston Churchill](/20c/20c-churchill-chartwell) wrote to thank him for ‘a stick with which he could protect himself from the suffragettes.’  However Harmsworth’s relations with Churchill and other politicians were often strained, particularly during WW1, when he used his newspapers to critique military and political policy (he was notably critical of Kitchener). He was influential enough to claim with some degree of credibility that the Germans were aiming at him personally when Elmwood was shelled by a warship in February 1917. While Harmsworth was unhurt, three people nearby were killed, including a baby.  Northcliffe reported to his Daily Mail staff that he was ‘used to being bombarded’ and pointed out that ‘this is nothing compared with the incidents endured all day long’ in France and Belgium. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/96/Daily_Mail_Zeppelin_Fund_WWI.jpg" label="Daily Mail Zeppelin Fund WW1" attribution="Daily Mail, Public domain, via Wikimedia Commons">
