@@ -21,6 +21,14 @@ Desire paths are, in the most literal terms, human-made trails created by erosio
 
 Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
+## Kentish place-names – ‘Riddley world’
+
+[Kentish place-names – ‘Riddley world’](/landscape/riddley-walker)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c9754956-2845-403f-b27b-2e4fb5b36184)
+
+Maps provide a wonderful resource to explore Kent’s placenames and their imaginative potential. Trace, for example, the line of the railway along the River Stour as it carves a gap through the Kent Downs, and recall the announcement as your train pulls out of Ashford - “Calling at Wye, Chilham, Chartham, and Canterbury West” - rhyme and alliteration create a wonderful poesy of place.
+
 ## Literary Encounters along the River Stour
 
 [Literary Encounters along the River Stour](/landscape/literary-stour)
