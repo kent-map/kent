@@ -12,7 +12,7 @@ Alfred C. Harmsworth, later Lord Northcliffe, was born in Dublin on 15 July 1865
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Alfred_Charles_William_Harmsworth%2C_Vanity_Fair%2C_1895-05-16.jpg" label="Alfred Charles William Harmsworth" attribution="Leslie Ward, Public domain, via Wikimedia Commons">
 
 Harmsworth married Mary Milner in 1888 and the couple spent their honeymoon in [Folkestone](/19c/19c-folkestone),  the beginning of a lifelong association with Kent. In 1890 he bought a house called Elmwood, in [Broadstairs](/dickens/broadstairs-19th-century). While he spent much of his time travelling or in London, Elmwood would remain ‘home’ until shortly before his death in 1922.
-<param ve-mage url="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Lees_i.e._Leas_Folkestone_England.jpg" label="The Leas, Folkestone" attribution="Snapshots Of  The Past" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Lees_i.e._Leas_Folkestone_England.jpg" label="The Leas, Folkestone" attribution="Snapshots Of  The Past" license="CC BY-SA 2.0">
 
 Harmsworth was known for his generosity to local causes. He was one of the organisers (or at least, supporters) of the first [Dickens](/dickens/) Festival in Broadstairs in 1897,  with the aim of raising funds for a Fishermen and Boatmen’s clubhouse and reading room.  It was rumoured that Henry Dickens and Mary Angela Dickens had offered to give readings, and Harmsworth lent his own collection of relics for the occasion.  Dolly Varden was ‘fascinatingly embodied by Mrs Alfred Harmsworth’.  
 
