@@ -45,6 +45,7 @@ Hoban reminds us that placenames should be meaningful and matter, sadly, today, 
 <br><br>
 Hoban creates the new names in the context of his characters relation to place, hence Godmersham ((OE) ‘the homestead of Godmaer’) is a place of refuge for Riddley and others – ‘Good Mercy’. The ‘dead towns’, devastated by war take on sinister, satirical appellations, Ashford becomes ‘Bernt Arse’ and Dover ‘Do it Over’ while Canterbury ‘Cambry’ is surrounded by land labelled ‘The Barrens’. Others hold personal meaning (the map as biography) Withersdane (possibly OE: ‘sheep pasture’) becomes ‘Widders Dump’ – the widow maker - where Riddley’s father is crushed to death in front of Riddley while excavating iron machinery of a by-gone age.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a3/Great_Stour_at_Godmersham_-_geograph.org.uk_-_3631825.jpg" label="Great Stour at Godmersham" attribution="Marathon, via Wikimedia Commons" license="CC BY-SA 2.0"> 
+<param ve-map center="Q632173" zoom="15">
   
 An interesting passage in Hoban’s book exposes any idea that renaming place is a simple artistic device. The passage shows his deeper interest in how names may evolve by explicitly exploring the (albeit fictional) etymology of one of his folk-names. In a story within the story ‘The bloak as Got on Top of Aunty’, he examines the origin of ‘HAGMANS IL’ (the present hamlet of Hinxhill). Permutations include ‘Hangmans Hil’ (an obvious etymology, and one with precedent in the English landscape (see also Gallows Hill)), ‘Hogmans Killen’ (where a man named Hogman made pots), and where he was murdered by his wife, so mutates to ‘Hogmans Kil’, and finally settles as ‘Hagmans Il’ – “becaws she ben a rough and ugly old woman and it come il he marrit her.” The protagonist of the story within the story even suggests a change to ‘Hagmans Thril’ as the ‘bloak’ managed to survive sexual intercourse with death (‘Aunty’).
 <br><br>
@@ -54,11 +55,11 @@ Those of us familiar with the story and immersed in Riddley’s landscape may fi
 
 
 ### Bibliography
-
 Mills. A. D. (1998) _The Oxford Dictionary of English Place-Names_ [OUP: Oxford]   
 Vujakovic, P. (2017) ‘Mind the Gap’, _Kent Life_, May 2017, pp. 134-5.   
 Vujakovic, P. (2021) Map as biography: maps, memory, and landscape – thoughts on Ordnance Survey map, Sheet TR04, 1:25,000 Provisional Edition, Ashford, International Journal of Cartography, 7(2) special issue _Cartographers Write About Cartography_, pp. 190-197.   
-
+<br><br>
 ### References
 [^ref1]: Darent Catchment Partnership - https://darentpartnership.org.uk/darent/darent (accessed 27/01/24) ii Kent points of Interest; place names - https://kentpoi.co.uk/heritage/places/ (accessed 27/01/24)
 [^ref2]: Kent points of Interest; place names - https://kentpoi.co.uk/heritage/places/ (accessed 27/01/24)
+<param ve-image url="https://stor.artstor.org/stor/f8cec39e-e9b1-4882-87d7-4107a00019b1" label="Kent Past and Present by George Bosworth, 1901" attribution="KMO">
