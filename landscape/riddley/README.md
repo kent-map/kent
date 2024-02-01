@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="Kentish place-names – ‘Riddley world’" author="Professor Peter Vujakovic" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
+<param ve-config title="Kentish place-names – ‘Riddley world’" author="Professor Peter Vujakovic" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/68/River_Darent_-_2020-09-27.jpg" attribution="The wub" license="CC BY-SA 4.0">
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q725261" aliases="Ashford">
@@ -18,7 +18,8 @@
 
 
 Maps provide a wonderful resource to explore Kent’s placenames and their imaginative potential. Trace, for example, the line of the railway along the River Stour as it carves a gap through the Kent Downs, and recall the announcement as your train pulls out of Ashford - “Calling at Wye, Chilham, Chartham, and Canterbury West” - rhyme and alliteration create a wonderful poesy of place.
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Canterbury_East_railway_station_ED08%2C_August_2013.JPG" label="Canterbury East railway station" attribution="Edgepedia via Wikimedia Commons" license="CC BY-SA 3.0">
+
 Naming imbues space with meaning (a ‘sense of place’), although the original sense may be obscured or lost in time. Kentish toponyms originate from various phases of settlement, although the majority are of ‘English’ origin. Some pre-Roman names do exist, more often the names of natural features, for example several Kentish rivers. The Darent, for example, is thought to derive from the Welsh Derw, which the Romans latinized as ‘Derventio’ – “the river where oaks are common"i. The county’s own name are early in origin (Roman ‘Cantium’), while a limited number of village and town names are Celtic, for example Penge (pen + ced, ‘wood’s end’), and Dover (from ‘Dubras’ ‘the waters’).ii
 
 For many authors, placenames offer an opportunity for playful reworking (Hardy’s Wessex is full of real places renamed, and characters whose names are drawn from the landscape, Jude Fawley, for instance, grows up in ‘Marygreen’ (in reality Great Fawley). The author who most draws our attention to both the authorial and historical malleability Kentish placenames is Russell Hoban, an American who made England his home. His re-namings of places in Riddley Walker so evocative his post-apocalyptic Kent, that his readers can cast their eyes across ‘Riddley-world’ from the vantage-point of the crest of the Kentish Downs:
@@ -33,6 +34,7 @@ Riddley provides us with his own hand-drawn map of ‘Inland’, as much of his 
 “THIS HERE IS MOSLY JUS PLACES IVE TOL OF IN THIS WRITING. I DON’T HAVE NO ROOM FOR THE WOAL OF EVERYTHING THERE IS IN INLAND [England?]”
 <br><br>
 His toponyms gain authority through cartographic representation – maps are power. His map shows a landscape impacted by sea-level change, the ‘Rivver Sour’ is a tidal estuary as far as ‘Cambry’ (Canterbury), the Isle of Thanet is once again a real island (‘The Ram’ after Ramsgate), and far tip of Dungeness is cut-off from the mainland (although retains its twentieth-century outline, an unlikely outcome after such a period of constant erosion and deposition). This new coastline is, in fact, a return to that of the late Iron Age and Roman eras.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Isle_of_Thanet_-_Rutupiae.jpg" label="Isle of Thanet - Rutupiae" attribution="William Barlow, Public domain, via Wikimedia Commons">
 
 Hoban reminds us that placenames should be meaningful and matter, sadly, today, placenames are simply ‘sounds’ to most people, however poetic or even linked to a strong sense of belonging. They certainly mattered and had meaning when people first created them (Chilham = ‘homestead of a man called Cilla or woman called Cille’ Old English (OE)). Or, as in his novel Riddley’s people have re-imagined them to represent the new reality on the ground. Today we rarely question the origins of the toponyms on maps or road signs, or in our heads. By conjuring with placenames Hoban forces us to seek meaning.
 <br><br>
