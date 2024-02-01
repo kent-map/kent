@@ -16,7 +16,7 @@ Bored with office life and devastated after a failed seven year love affair, Amy
 In 1929 Amy obtained her pilot’s licence and in the same year became the first British female ground engineer; at one time the only one in the world.
 <br><br>
 In January 1930 Amy announced her plans for a solo flight from England to Australia. She wanted to beat Bert Hinkler’s 15.5 day record.
-<param ve-video vid="https://youtu.be/HWkAib0U3hg?si=2rVAHCFRsoBp_Qa5" title="AMY JOHNSON SPEAKS (aviator, 1903 - 1941, rec. c.30th May 1930)" attribution="AusRadioHistorian">
+<param ve-video url="https://youtu.be/HWkAib0U3hg?si=2rVAHCFRsoBp_Qa5" title="AMY JOHNSON SPEAKS (aviator, 1903 - 1941, rec. c.30th May 1930)" attribution="AusRadioHistorian">
 
 When Amy Johnson took off from Croydon Airport on 5th May 1930 in a second-hand, open cockpit, wood and fabric biplane she called ‘Jason’, the furthest she had flown was from London to Hull, and she had held her pilot’s licence for only ten months.
 <br><br>
@@ -35,7 +35,7 @@ Amy became an overnight international celebrity. People could identify with her,
 Amy spent the 1930s breaking more aviation records and was a fierce advocate for women’s role in aviation and engineering. But she struggled to balance the celebrity lifestyle that funded her dangerous career with a desire for privacy and love.
 <br><br>
 One of the very first ‘influencers’, at the height of her fame the world hung on her every word. In 1932, she married fellow dare-devil pilot, Jim Mollinson; it was not a happy marriage and they divorced in 1938.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b0/Womens_whos_who_32.jpg" label="Women's Who's Who, 1932" attribution="anon. for "flight", Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b0/Womens_whos_who_32.jpg" label="Women's Who's Who, 1932" attribution="anon. for flight, Public domain, via Wikimedia Commons">
 
 When the war came, Amy joined the Air Transport Auxiliary, a civilian organisation attached to the RAF tasked with ferrying aircraft from the factories where they were built to airfields around the country where they were flown into battle.
 <br><br>
