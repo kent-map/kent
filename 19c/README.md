@@ -47,6 +47,7 @@
 [Sarah Grand](19c-grand-biography)   
 [George Grossmith](19c-grossmith-biography)  
 [George Alfred Henty](19c-henty-biography)   
+[Sir John Herschel](19c-herschel-biography)   
 [Georgina Hogarth and Ellen Ternan](19c-hogarth-ternan)   
 [Hugh Price Hughes](19c-price-hughes-biography)   
 [Anna Maria Hussey](19c-hussey-biography)   

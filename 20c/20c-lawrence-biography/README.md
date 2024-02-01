@@ -1,7 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="D.H. Lawrence (1885–1930)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/3f/David_Herbert_Lawrence_%26_Frieda_von_Richthofen_1914.jpg" attribution="D.H. Lawrence and Frieda von Richthofen, 1914, via Wikimedia Commons">
 
-<param ve-entity eid="Q24993696" aliases=“Kingsgate”>
+<param ve-entity eid="Q24993696" aliases="Kingsgate">
 <param ve-entity eid="Q947442" aliases="Edenbridge">
 <param ve-entity eid="Q5187371" aliases="Crockham Hill">
 <param ve-entity eid="Q14150839" aliases="Botany Bay">
@@ -9,7 +9,7 @@
 We’re going away to Margate tomorrow. Oh dear, oh Lord, Margate!   
 _Letter to Katherine Clayton, 8 July 1913_[^ref1]
 <br><br>
-David Herbert Lawrence, a coal miner's son and struggling writer from Nottingham, visited Kent in the autumn of 1911. Depressed by his work as a teacher, he had sent two short stories to critic and literary editor Edward Garnett who invited him to stay at his home The Cearne at Crockham Hill. Lawrence had a 'ripping time' with Garnett discussing literature in his ingle nook fireplace and was to return to the house several times.[^ref2]  It was here that he wrote three dialect ballads: 'The Collier’s Wife’, ‘Whether or Not’ and ‘The Drained Cup’.[^ref3] 
+David Herbert Lawrence, a coal miner's son and struggling writer from Nottingham, visited Kent in the autumn of 1911. Depressed by his work as a teacher, he had sent two short stories to critic and literary editor Edward Garnett who invited him to stay at his home The Cearne at Crockham Hill, Edenbridge. Lawrence had a 'ripping time' with Garnett discussing literature in his ingle nook fireplace and was to return to the house several times.[^ref2]  It was here that he wrote three dialect ballads: 'The Collier’s Wife’, ‘Whether or Not’ and ‘The Drained Cup’.[^ref3] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Green_at_Crockham_Hill_-_geograph.org.uk_-_4474691.jpg/1024px-The_Green_at_Crockham_Hill_-_geograph.org.uk_-_4474691.jpg" label="The Green at Crockham Hill" attribution="Peter Trimming, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 In 1912, Lawrence eloped  with Frieda, the wife of his modern language professor. He and Frieda stayed at Garnett's home en route to the continent and it was here that Lawrence wrote ‘At the Cearne’:

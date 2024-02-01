@@ -23,6 +23,7 @@ https://www.kent-maps.online/18c/18c-beau-nash-biography/
 https://www.kent-maps.online/18c/18c-boys-biography/
 https://www.kent-maps.online/18c/18c-burgess-biography/
 https://www.kent-maps.online/18c/18c-carter-biography/
+https://www.kent-maps.online/18c/18c-hawkhurst-gang/
 https://www.kent-maps.online/18c/18c-kentish-gazette/
 https://www.kent-maps.online/18c/18c-radcliffe-biography/
 https://www.kent-maps.online/18c/18c-ramsgate-summer/
@@ -30,7 +31,9 @@ https://www.kent-maps.online/18c/18c-shadwell-biography/
 https://www.kent-maps.online/19c/
 https://www.kent-maps.online/19c/19c-atkins-biography/
 https://www.kent-maps.online/19c/19c-austen-biography/
+https://www.kent-maps.online/19c/19c-austin-biography/
 https://www.kent-maps.online/19c/19c-barr-biography/
+https://www.kent-maps.online/19c/19c-bartlett-biography/
 https://www.kent-maps.online/19c/19c-blackmore-biography/
 https://www.kent-maps.online/19c/19c-braddon-biography/
 https://www.kent-maps.online/19c/19c-brent-biography/
@@ -40,6 +43,7 @@ https://www.kent-maps.online/19c/19c-burges-biography/
 https://www.kent-maps.online/19c/19c-burnand-biography/
 https://www.kent-maps.online/19c/19c-canterbury/
 https://www.kent-maps.online/19c/19c-carlyle-biography/
+https://www.kent-maps.online/19c/19c-carrick-biography/
 https://www.kent-maps.online/19c/19c-challacombe-biography/
 https://www.kent-maps.online/19c/19c-chatham-dockyard/
 https://www.kent-maps.online/19c/19c-christian-andersen/
@@ -71,9 +75,11 @@ https://www.kent-maps.online/19c/19c-gould-biography/
 https://www.kent-maps.online/19c/19c-grand-biography/
 https://www.kent-maps.online/19c/19c-gravesend/
 https://www.kent-maps.online/19c/19c-grossmith-biography/
+https://www.kent-maps.online/19c/19c-hemery-biography/
 https://www.kent-maps.online/19c/19c-henty-biography/
 https://www.kent-maps.online/19c/19c-hogarth-ternan
 https://www.kent-maps.online/19c/19c-hoodening/
+https://www.kent-maps.online/19c/19c-hussey-biography/
 https://www.kent-maps.online/19c/19c-jamesh-hever-castle/
 https://www.kent-maps.online/19c/19c-jerome-biography/
 https://www.kent-maps.online/19c/19c-jewish-emancipation
@@ -83,6 +89,7 @@ https://www.kent-maps.online/19c/19c-keats-margate/
 https://www.kent-maps.online/19c/19c-marchantb-biography/
 https://www.kent-maps.online/19c/19c-margate/
 https://www.kent-maps.online/19c/19c-meredith-biography/
+https://www.kent-maps.online/19c/19c-moberly-biography/
 https://www.kent-maps.online/19c/19c-montresor-biography/
 https://www.kent-maps.online/19c/19c-price-hughes-biography/
 https://www.kent-maps.online/19c/19c-pugin-biography/
@@ -121,6 +128,7 @@ https://www.kent-maps.online/19c/19c-wood-biography/
 https://www.kent-maps.online/19c/19c-zangwill-biography/
 https://www.kent-maps.online/19c/indextest/
 https://www.kent-maps.online/20c/
+https://www.kent-maps.online/20c/20c-bates-biography/
 https://www.kent-maps.online/20c/20c-battle-of-britain-memorial/
 https://www.kent-maps.online/20c/20c-belgian-refugees/
 https://www.kent-maps.online/20c/20c-blunden-biography/
@@ -149,15 +157,18 @@ https://www.kent-maps.online/20c/20c-jamesmr-biography/
 https://www.kent-maps.online/20c/20c-jarman-biography/
 https://www.kent-maps.online/20c/20c-kaye-smith-delmonden/
 https://www.kent-maps.online/20c/20c-kent-miners/
+https://www.kent-maps.online/20c/20c-lawrence-biography/
 https://www.kent-maps.online/20c/20c-maugham-biography/
 https://www.kent-maps.online/20c/20c-maxwelld-biography/
 https://www.kent-maps.online/20c/20c-nash-biography/
 https://www.kent-maps.online/20c/20c-nethersole-biography/
 https://www.kent-maps.online/20c/20c-northbourne-biography/
+https://www.kent-maps.online/20c/20c-oram-biography/
 https://www.kent-maps.online/20c/20c-orczy-biography/
 https://www.kent-maps.online/20c/20c-owen-biography/
 https://www.kent-maps.online/20c/20c-peck-biography/
 https://www.kent-maps.online/20c/20c-pendered-biography/
+https://www.kent-maps.online/20c/20c-pett-ridge-biography/
 https://www.kent-maps.online/20c/20c-porter-biography/
 https://www.kent-maps.online/20c/20c-powell-cotton/
 https://www.kent-maps.online/20c/20c-richborough/
@@ -166,6 +177,7 @@ https://www.kent-maps.online/20c/20c-sackville-west-biography/
 https://www.kent-maps.online/20c/20c-salmon-biography/
 https://www.kent-maps.online/20c/20c-secret-tunnels/
 https://www.kent-maps.online/20c/20c-st-john-biography/
+https://www.kent-maps.online/20c/20c-symons-biography/
 https://www.kent-maps.online/20c/20c-terry-biography/
 https://www.kent-maps.online/20c/20c-terry-funeral/
 https://www.kent-maps.online/20c/20c-tourtel-biography/
@@ -220,6 +232,7 @@ https://www.kent-maps.online/canterbury/20c-canterbury-trading-estates/
 https://www.kent-maps.online/canterbury/20c-canterbury-transport/
 https://www.kent-maps.online/canterbury/20c-canterbury-universities/
 https://www.kent-maps.online/canterbury/20c-canterbury-ww2/
+https://www.kent-maps.online/children/
 https://www.kent-maps.online/churches/
 https://www.kent-maps.online/churches/allsaints-eastchurch/
 https://www.kent-maps.online/churches/overview/

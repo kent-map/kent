@@ -1,7 +1,8 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Elizabeth Bowen (1899-1973)" author="Diana Hirst" layout="vtl" 
-banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
+banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg" description="In this visual essay, Diana Hirst considers the East Kent life of novelist, Elizabeth Bowen and the influence of that landscape on her work.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q26314321" aliases="The Leas">
 <param ve-entity eid="Q967166" aliases="Hythe">
@@ -9,13 +10,20 @@ banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg">
 <param ve-entity eid="Q1870143" aliases="Lyminge">
 <param ve-entity eid="Q125344" aliases="Downe House School">
 <param ve-entity eid="Q181071" aliases="Romney">
-<param ve-entity eid="Q17529941" aliaases="St Leonard's Church"> 
 <param ve-entity eid="Q179224" aliaases="Dover"> 
 <param ve-entity eid="Q26163" aliaases="Sandwich"> 
 <param ve-entity eid="Q1506093" aliaases="Great Marsh"> 
 <param ve-entity eid="Q748895" aliases="Cinque Ports">
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
+
+<!-- Base map starting position centred on Folkestone -->
+<param ve-map center="Q375314" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="09908d6628a5278f" title="OS East Kent 1945">
+
+#
                                               
 ‘Possibly it was England made me a novelist’    
 Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area as a child of seven she was immediately bewitched. The contrast between Ireland and her new home in terms of both architecture and topography could not have been greater. 

@@ -32,17 +32,10 @@ Plot died in 1696 from kidney stones and is buried in Borden Churchyard. When he
 <param ve-map center="Q2437595" zoom="14">
 
 ## Bibliography
-
-Greenslade M. W. _The Staffordshire Historians._ 1982.
-
-Owen, Richard. _A History of British Fossil Reptiles, Vol. II (plates)._ 1849-1884.
-
-'Magdalen Hall.' Magdalen College, University of Oxford. Accessed 1/2/22. https://www.magd.ox.ac.uk/libraries-and-archives/archives/magdalen-hall/
-
-Seccombe, Thomas. 'Plot, Robert (1640–1696).' _Oxford Dictionary of National Biography_. 1895. Accessed 25/1/22. https://www.oxforddnb.com/view/10.1093/odnb/9780192683120.001.0001/odnb-9780192683120-e-22385 
-
-Sherwood Taylor, F. _Alchemical Papers of Dr. Robert Plot_. 1949. DOI: 10.1179/amb.1949.4.1-2.67.
-
-'Sutton Baron and Sutton Baron Hall.' Historic England. Accessed 25/1/22. https://historicengland.org.uk/listing/the-list/list-entry/1069392 
-
-Turner, A. J. 'Plot, Robert (bap. 1640, d. 1696), naturalist and antiquary.' _Oxford Dictionary of National Biography_. 2004. Accessed 25/1/22. https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-22385 
+Greenslade M. W. _The Staffordshire Historians._ 1982.   
+Owen, Richard. _A History of British Fossil Reptiles, Vol. II (plates)._ 1849-1884.   
+'Magdalen Hall.' Magdalen College, University of Oxford. Accessed 1/2/22. https://www.magd.ox.ac.uk/libraries-and-archives/archives/magdalen-hall/   
+Seccombe, Thomas. 'Plot, Robert (1640–1696).' _Oxford Dictionary of National Biography_. 1895. Accessed 25/1/22. https://www.oxforddnb.com/view/10.1093/odnb/9780192683120.001.0001/odnb-9780192683120-e-22385    
+Sherwood Taylor, F. _Alchemical Papers of Dr. Robert Plot_. 1949. DOI: 10.1179/amb.1949.4.1-2.67.   
+'Sutton Baron and Sutton Baron Hall.' Historic England. Accessed 25/1/22. https://historicengland.org.uk/listing/the-list/list-entry/1069392    
+Turner, A. J. 'Plot, Robert (bap. 1640, d. 1696), naturalist and antiquary.' _Oxford Dictionary of National Biography_. 2004. Accessed 25/1/22. https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-22385    
