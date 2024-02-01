@@ -16,15 +16,14 @@ Bored with office life and devastated after a failed seven year love affair, Amy
 In 1929 Amy obtained her pilot’s licence and in the same year became the first British female ground engineer; at one time the only one in the world.
 <br><br>
 In January 1930 Amy announced her plans for a solo flight from England to Australia. She wanted to beat Bert Hinkler’s 15.5 day record.
-<param ve-video url="https://youtu.be/HWkAib0U3hg?si=2rVAHCFRsoBp_Qa5" title="AMY JOHNSON SPEAKS (aviator, 1903 - 1941, rec. c.30th May 1930)" attribution="AusRadioHistorian">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Amy_Johnson_1930-1931.jpg" label="Amy Johnson 1930-31" attribution="liz west from Boxborough, MA, via Wikimedia Commons" license="CC BY 2.0"> 
 
 When Amy Johnson took off from Croydon Airport on 5th May 1930 in a second-hand, open cockpit, wood and fabric biplane she called ‘Jason’, the furthest she had flown was from London to Hull, and she had held her pilot’s licence for only ten months.
 <br><br>
 With no radio or long range weather information and only the most basic maps, Amy embarked on an epic journey over uncharted land, shark infested seas, in blistering sun, torrential rain and a sand storm. Flying on average 10 hours a day then spending 3 hours overhauling her engine before a little food and sleep and then doing it all over again.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/09/Amy_Johnson_and_Jason_%283%29.jpg" label="Amy Johnson and 'Jason'" attribution="National Library of Australia, Fairfax Corporation, Public domain, via Wikimedia Commons">
-
+<br><br>
 It is not unfair to say Amy crashed her way to Australia, pushing herself to the very limits both physically and mentally. She did not beat the speed record after encountering appalling monsoon weather, but she never gave up.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Amy_Johnson_1930-1931.jpg" label="Amy Johnson 1930-31" attribution="liz west from Boxborough, MA, via Wikimedia Commons" license="CC BY 2.0"> 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/09/Amy_Johnson_and_Jason_%283%29.jpg" label="Amy Johnson and 'Jason'" attribution="National Library of Australia, Fairfax Corporation, Public domain, via Wikimedia Commons">
 
 On 24th May, 19.5 days after she left Croydon, a battered and blistered Amy Johnson touched down in Darwin, Australia and flew into the history books. The 26 year old typist from Hull had become the first woman to fly solo from England to Australia and the world fell in love with her.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Amy_Johnson_1930_NLA15611-2423.jpg" label="Amy Johnson, 1930, Australia" attribution="National Library of Australia, Fairfax Corporation, Public domain, via Wikimedia Commons">
