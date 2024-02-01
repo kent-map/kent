@@ -18,7 +18,7 @@
 
 
 Maps provide a wonderful resource to explore Kent’s placenames and their imaginative potential. Trace, for example, the line of the railway along the River Stour as it carves a gap through the Kent Downs, and recall the announcement as your train pulls out of Ashford - “Calling at Wye, Chilham, Chartham, and Canterbury West” - rhyme and alliteration create a wonderful poesy of place.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Canterbury_East_railway_station_ED08%2C_August_2013.JPG" label="Canterbury East railway station" attribution="Edgepedia via Wikimedia Commons" license="CC BY-SA 3.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/Ashford_railway_station%2C_Kent_-_geograph.org.uk_-_3239783.jpg" label="Ashford railway station" attribution="Ashford railway station, Kent by Nigel Thompson, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-map>
 
 Naming imbues space with meaning (a ‘sense of place’), although the original sense may be obscured or lost in time. Kentish toponyms originate from various phases of settlement, although the majority are of ‘English’ origin. Some pre-Roman names do exist, more often the names of natural features, for example several Kentish rivers. The Darent, for example, is thought to derive from the Welsh Derw, which the Romans latinized as ‘Derventio’ – “the river where oaks are common".[^ref1] The county’s own name are early in origin (Roman ‘Cantium’), while a limited number of village and town names are Celtic, for example Penge (pen + ced, ‘wood’s end’), and Dover (from ‘Dubras’ ‘the waters’).[^ref2]
