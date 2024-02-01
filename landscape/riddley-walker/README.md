@@ -42,7 +42,8 @@ His toponyms gain authority through cartographic representation – maps are pow
 <param ve-map center="Q590422" zoom="10">
 
 Hoban reminds us that placenames should be meaningful and matter, sadly, today, placenames are simply ‘sounds’ to most people, however poetic or even linked to a strong sense of belonging. They certainly mattered and had meaning when people first created them (Chilham = ‘homestead of a man called Cilla or woman called Cille’ Old English (OE)). Or, as in his novel Riddley’s people have re-imagined them to represent the new reality on the ground. Today we rarely question the origins of the toponyms on maps or road signs, or in our heads. By conjuring with placenames Hoban forces us to seek meaning.
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6a/Chilham_-_geograph.org.uk_-_2210842.jpg" label="Chilham" attribution="Roger Smith, via Wikimedia Commons" license="CC BY-SA 2.0">
+
 Hoban creates the new names in the context of his characters relation to place, hence Godmersham ((OE) ‘the homestead of Godmaer’) is a place of refuge for Riddley and others – ‘Good Mercy’. The ‘dead towns’, devastated by war take on sinister, satirical appellations, Ashford becomes ‘Bernt Arse’ and Dover ‘Do it Over’ while Canterbury ‘Cambry’ is surrounded by land labelled ‘The Barrens’. Others hold personal meaning (the map as biography) Withersdane (possibly OE: ‘sheep pasture’) becomes ‘Widders Dump’ – the widow maker - where Riddley’s father is crushed to death in front of Riddley while excavating iron machinery of a by-gone age.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a3/Great_Stour_at_Godmersham_-_geograph.org.uk_-_3631825.jpg" label="Great Stour at Godmersham" attribution="Marathon, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 <param ve-map center="Q632173" zoom="15">
