@@ -29,7 +29,7 @@ For many authors, placenames offer an opportunity for playful reworking (Hardy�
 <br><br>
 “Standing above 'Mr Clevvers Roaling Place', you can see the 'River Sour'. Directly below is 'Widders Dump', further out 'Bernt Arse'. On a clear day, you can glimpse 'Dunk Your Arse'. You will not find these places on an Ordnance Survey map, but, in a sense, they do exist. They are a corruption of contemporary placenames conjured by Russell Hoban in his cult novel Riddley Walker, a tale of a post-apocalypse Kent. They are, in order, the Devil's Kneadingtrough - a dramatic chalk coombe (dry valley), the [Stour](/landscape/literary-stour/), the hamlet of Withersdane, Ashford, and Dungeness. Hoban's story is of a world reverted to the Iron Age, written in a degraded language most easily understood if read slowly and aloud.” (Vujakovic, 2017, p.134)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/24/Devil%27s_Kneading_Trough%2C_Kent.jpg" label="Devil's Kneading Trough" attribution="Tim Sheerman-Chase" license="CC BY 2.0"> 
-<param ve-map center="Q590063" zoom="15">
+<param ve-map center="51.168574731211095, 0.9695731115261447" zoom="15">
 
 Hoban’s tale projects us several thousand years into the future and a Kent crawling out of nuclear catastrophe. Riddley, the books eponymous hero, narrates his experiences in a world that resembles the ‘Iron Age’ in terms of technology, economy, landscape and life-style (with similarities to the feudal world of Richard Jefferies, less readable, post-apocalyptic ‘After London’ (1905)).
 <br><br>
