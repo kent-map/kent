@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Francis Storr the Elder and Younger" author="Jacqui Stamp" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="Francis Storr the Elder and Younger" author="Jacquie Stamp" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q2197855" aliases="Brenchley">
 <param ve-entity eid="Q793057" aliases="Aylesford">

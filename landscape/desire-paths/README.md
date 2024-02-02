@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Walking the Desire Line: Writing Beyond the A to B" author="Daisy Eleanor" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" description="Desire paths are, in the most literal terms, human-made trails created by erosion.>
+<param ve-config title="Walking the Desire Line: Writing Beyond the A to B" author="Daisy Eleanor" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" description="Desire paths are, in the most literal terms, human-made trails created by erosion.">
 
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
 

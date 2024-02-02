@@ -46,6 +46,7 @@
 [Elizabeth Gould](19c-gould-biography)   
 [Sarah Grand](19c-grand-biography)   
 [George Grossmith](19c-grossmith-biography)  
+[Alfred Harmsworth, Lord Northcliffe](19c-northcliffe-biography)   
 [George Alfred Henty](19c-henty-biography)   
 [Sir John Herschel](19c-herschel-biography)   
 [Georgina Hogarth and Ellen Ternan](19c-hogarth-ternan)   
