@@ -67,3 +67,29 @@ Poland, Marguerite. _A Sin of Omission_. Envelope Books, 2021.
 [St Augustine’s Foundation. Our origins](https://www.staugustinesfoundation.org/our-story).  
 The King’s School. [Saint Augustine’s](http://www.kings-archives.co.uk/kings-school-tour/saint-augustines/).  
 TRT World. [‘The Colonisation of South Africa’](https://youtu.be/Mi93LjuQbMM?si=EvSx1n8YsaZoOV3q). 2021.   
+
+### References
+
+1 Boggis. 
+2 (National Archives
+3 TRT World, 2021. 
+4 78-9. 
+5 Hodgson 69.
+6 Brown 23. 
+7 199. 
+8 83. 
+9 Bailey, 135. 
+10 Baily 130. 
+11 Baily 131.
+12 Dewar 2023. 
+13 140.
+14 [St. Augustine Foundation](https://www.staugustinesfoundation.org/our-story).
+15 74. 
+16 74. 
+17 Poland 2024.
+18 Poland 2024. 
+19 Bailey 160.
+20 Poland 2023. 
+21 Bailey 99-100. 
+22 France.
+23 Poland 2023.
