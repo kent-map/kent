@@ -17,8 +17,10 @@ Next to the West Gate, in a lovely setting by the river, Holy Cross church built
 **Eastbridge Hospital and the Greyfriars**
 <br>
 Situated at the centre of the town The Eastbridge Hospital, Greyfriars chapel and Franciscan gardens are managed as one for visitors. Founded as the Eastbridge Hospital of St Thomas the Martyr and one of the oldest buildings in Canterbury, the entry through a Norman arch leads to a 12th and 13th century time capsule in the chapel, refectory and other chambers. Steps lead down to a 12th century stone crypt where pilgrims slept on rushes in the bays. A place of hospitality since 1190, the Eastbridge is in part an almshouse and visitors are asked to respect the peace of the residents, known as Indwellers, who live in eight self-contained flats. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Eastbridge_Hospital_Canterbury_1085030_20230813_0147.jpg" label="Tilman2007, CC BY-SA 4.0, via Wikimedia Commons">
+
 A short walk along Stour Street leads to the adjoining properties of the Greyfriars and Franciscan Garden. Standing on the island of Binnewith, formed by branches of the Stour, the stone and flint Greyfriars chapel is the oldest Franciscan building in Britain (c 1267). It is difficult to imagine a more peaceful place within a minute’s walk of the High Street. Although known to be one of Canterbury’s hidden secrets, for most of the 20th century access to the the Greyriars was restricted. The gardens are now open to visitors in the summer months.
-<param ve-image url="https://stor.artstor.org/stor/ef6a32bc-19e0-492f-975d-7beac4d68e37" label="Greyfriars Garden by Lisa Hawkins" attribution="By kind permission of Lisa Hawkins">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Greyfriars_Chapel_-_geograph.org.uk_-_4142883.jpg" label="Greyfriars Chapel by Kim Fyson, CC BY-SA 2.0 via Wikimedia Commons">
 
 **The Canterbury Heritage Museum (1986-2018)**
 <br>
@@ -30,7 +32,8 @@ The Museum was closed in 2018. Most displays were transferred to the redeveloped
 **The Beaney** 
 <br>
 The amazing Beaney Institute in the High Street, now redeveloped as the Beaney House of Art and Knowledge, was opened in 1899 thanks to the generosity of an Australian, Dr James Beaney, who was born in Canterbury. The Beaney served as Canterbury’s Royal Museum and Free Library throughout the 20th century. In recent years the building has been impressively enlarged and completely refurbished to transform this part of the city into “a vibrant, cultural quarter”, in conjunction with the rebuilding of the nearby Marlowe Theatre. 
-<br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canterbury_Beaney_Institute.JPG" label="Beaney Institute, by Zeisterre, CC BY-SA 3.0 via Wikimedia Commons">
+
 The Beaney has long been the place to admire the life sized paintings by Thomas Sidney Cooper (also known as “Cow Cooper”) of cattle and sheep, the huge painting of “Separated but not Divorced” or “Charlie the Bull” ruling the herd. It also housed the East Kent Regiment, the Buffs, museum, although this was later moved. The redeveloped building now hosts exhibitions, provides a new home for the [Rupert the Bear]( /20c/20c-tourtel-biography), Bagpuss and Clangers displays, and runs a lively educational programme.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Smallfilms_Gallery_at_The_Beaney%2C_Canterbury%2C_August_2022_04.jpg" label="The Smallfilms Gallery at the Beaney" attribution="No Swan So Fine, via Wikimedia Commons" license="CC BY-SA 4.0">
 
