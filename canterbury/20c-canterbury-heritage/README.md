@@ -6,6 +6,7 @@
 #
 
 Tourism, for centuries a source of canterbury’s livelihood, brings a million visitors to the Cathedral each year. Organised school and educational visits come not only from London, but from far beyond, including the near Continent. With the opening of the Channel Tunnel in 1993, Canterbury became even more accessible for foreign travellers. Visitors became increasingly sophisticated, expecting higher standards of provision and presentation of the city’s heritage. By the end of the 20th century Canterbury had gained the ‘X factor” as a visitor experience.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/High_Street%2C_Canterbury%2C_England_%2849976428122%29.jpg" label="High Street, Canterbury" attribution="Ray in Manila, via Wikimedia Commons" license="CC BY 2.0">
 
 **The Westgate Towers**
 <br>
@@ -36,8 +37,10 @@ The Beaney has long been the place to admire the life sized paintings by Thomas 
 **The Marlowe Theatre**
 <br>
 The history of the Marlowe theatre in Canterbury began when a small theatre opened in St Margaret’s Street, just before the Great War (1914-18). Between the wars it became a cinema and then a theatre again. It became the city’s first Marlowe Theatre in 1949 and ran as a repertory company until closure in 1981 to make way for redevelopment as the Marlowe Arcade. The city council purchased the former Odeon Cinema in the Friars, converting it into a theatre bringing the Marlowe to its present site. The building operated successfully for 25 years, but by the 2000s owing to the deficiencies of the converted cinema the council took the bold decision to re-build the theatre. The 3rd Marlowe theatre opened on 4 October 2011. This superb theatre brings world-class theatre, ballet and orchestral companies to the 1200 seat auditorium, as well as providing superb studio and workshop spaces for artists.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Marlowe_Theatre%2C_Canterbury.jpg" label="Marlowe Theatre" attribution="Nilfanion, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 The Marlowe Memorial statue, dubbed “Kitty Marlowe” by locals, originally located in the Buttermarket but moved after the First World War to make way for the War Memorial, suffered neglect in the Dane John Gardens and was blown off her pedestal in the air raid of 1 June 1942. Fortunately “Kitty” was rescued from recurrent vandalism and in May 1993 (the 400th anniversary of Marlowe’s death) was rededicated by Sir Ian McKellen in the appropriate setting outside the Marlowe theatre. To the other side of the theatre the statue of a local star of the Marlowe pantomime, David Legge (1947-2012), known as Dave Lee, who did wonderful work for disadvantaged children, is seated on his panto bench, enhanced by the special charm of the riverside setting at the Friars bridge and overhanging willow.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Sculpture_of_Dave_Lee_by_the_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_5056644.jpg" label="Sculpture of Dave Lee by the Marlowe Theatre" attribution="pam fray, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Roman Museum**
 <br>
@@ -46,13 +49,18 @@ Each step down into The Canterbury Roman Museum from the entrance in Butchery la
 **Canterbury Tales**
 <br>
 For a family seeking an experience trip, the Canterbury Tales Centre, established as a visitor attraction in the 1980s in St Margaret’s Church on the lines of the Jorvik Viking Centre at York, offered the sounds, sights and smells of Chaucer’s nine-and-twenty pilgrims. The Miller’s Tale of a fart “as greet as it had been a thunder-dent” was among the experiences to be savoured. After 35 years the time came to close the attraction, though the stories live on in Chaucer’s immortal tales. 
-Promoted by the Canterbury Commemoration Society, a larger than life statue of Geoffrey Chaucer (c. 1342-1400) was unveiled in October 2016 on the corner of the High Street and Best lane. Chaucer faces the Eastbridge Hospital where many pilgrims were given lodging and holds the writing on vellum of the opening lines of the Canterbury Tales. The figures depicting the story tellers round the plinth were modelled on local characters, with Canterbury-born actor Orlando Bloom (born 1977) as the Young Squire.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Canterbury_Tales_Museum_-_geograph.org.uk_-_1988188.jpg" label="Canterbury Tales" attribution="Paul Gillett, via Wikimedia Commons" license="CC BY-SA 2.0"> 
+
+Promoted by the Canterbury Commemoration Society, a larger than life statue of Geoffrey Chaucer (c. 1342-1400) was unveiled in October 2016 on the corner of the High Street and Best lane. Chaucer faces the Eastbridge Hospital where many pilgrims were given lodging and holds the writing on vellum of the opening lines of the Canterbury Tales. The figures depicting the story tellers round the plinth were modelled on local characters, with Canterbury-born actor Orlando Bloom (born 1977) as the Young Squire. 
+<param ve-image url="https://stor.artstor.org/stor/115f208d-182b-44f6-bf4d-8f481eea236d" label="Geoffrey Chaucer Statue, Canterbury - sculpted by Sam Holland and Lynn O'Dowd, 2018" attribution="Martin Crowther">
 
 **St Augustine’s Abbey**
 <br>
 In 1901 St Augustine’s College, founded in 1844 as a missionary college, owned or rented the greater part of the grounds of St Augustine’s Abbey, apart from land occupied by the Kent and Canterbury Hospital (built 1793) adjacent to the Longport. The College commissioned, under the direction of the Kent Archaeological Society, the systematic excavation of the abbey church (1901-03), followed by excavations of Wulfric’s 11th century Rotunda, portions of the Saxon church, the burial place of early Archbishops, and part of the north aisle of the Romanesque church (1903-14). Excavations continued between the wars and a complete plan of the abbey church and monastic buildings was published in 1934. Although the hospital moved to new buildings in 1937, the austere and ugly building was used to house the Technical School for some years and was not available for demolition until 1971. It was then possible to create a public garden on the former hospital site and make the ruins of St Augustine’s Abbey accessible to the public by an entrance to the grounds from the Longport.
-<br><br>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b2/St_Augustine%27s_Abbey_and_Canterbury_Cathedral_-_geograph.org.uk_-_2771856.jpg" label="Saint Augustine Abbey by Ruth Riddle, via Wikimedia Commons, CC BY-SA 2.0" license="CC BY-SA 2.0">
+
 In 1976 the abbey grounds were taken over by English Heritage and in 1989 UNESCO declared St Augustine’s Abbey together with the Cathedral and St Martin’s Church to be a World Heritage Site. In 1997 as part of the 1,400th anniversary of St Augustine’s arrival in Kent, the new Museum and Visitor Centre were constructed at the abbey. With the aid of an audio guide, visitors can explore at leisure the ruins of the largest Benedictine abbey and the most impressive collection of shrines to have existed in medieval England. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8c/St_Augustine%27s_Abbey%2C_Canterbury_%2834988961570%29.jpg" label="St Augustine's Abbey, ijclark, CC BY 2.0, via Wikimedia Commons">
 
 **Canterbury Cathedral**
 <br>
@@ -75,4 +83,5 @@ The 14th century Chapter House was the setting in June 1935 for the first perfor
 <br><br>
 On October 1990 the Archbishop of Canterbury unveiled the statue of a ‘Welcoming Christ’ in the central niche of Christ Church Gate, the main entrance to the Cathedral. The original statue was destroyed by the Puritan onslaught during the Civil War and for nearly three hundred and fifty years had remained empty. The bonze figure is the work of the German sculptor Klaus Ringwald, shows an enthroned Christ, Ruler of the World, with His hands outstretched in welcome.
 
-The Cathedral Lodge, a hotel and conference centre built within the grounds of the Cathedral, was opened in 2000. A 250 seat Auditorium is complemented by a Refectory, Library and other function rooms, affording access to the Campanile Garden and stunning views of the Cathedral. A new Visitor Centre has also been built next to the Christ Church Gate. With a million visitors a year Canterbury Cathedral is truly the mother church of England.        
+The Cathedral Lodge, a hotel and conference centre built within the grounds of the Cathedral, was opened in 2000. A 250 seat Auditorium is complemented by a Refectory, Library and other function rooms, affording access to the Campanile Garden and stunning views of the Cathedral. A new Visitor Centre has also been built next to the Christ Church Gate. With a million visitors a year Canterbury Cathedral is truly the mother church of England.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Canterbury_Cathedral_Lodge_-_geograph.org.uk_-_5540668.jpg" label="Canterbury Cathedral Lodge by Ian Taylor, CC BY-SA 2.0 via Wikimedia Commons">
