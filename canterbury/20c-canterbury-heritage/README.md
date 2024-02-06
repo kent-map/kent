@@ -49,7 +49,9 @@ Each step down into The Canterbury Roman Museum from the entrance in Butchery la
 **Canterbury Tales**
 <br>
 For a family seeking an experience trip, the Canterbury Tales Centre, established as a visitor attraction in the 1980s in St Margaret’s Church on the lines of the Jorvik Viking Centre at York, offered the sounds, sights and smells of Chaucer’s nine-and-twenty pilgrims. The Miller’s Tale of a fart “as greet as it had been a thunder-dent” was among the experiences to be savoured. After 35 years the time came to close the attraction, though the stories live on in Chaucer’s immortal tales. 
-Promoted by the Canterbury Commemoration Society, a larger than life statue of Geoffrey Chaucer (c. 1342-1400) was unveiled in October 2016 on the corner of the High Street and Best lane. Chaucer faces the Eastbridge Hospital where many pilgrims were given lodging and holds the writing on vellum of the opening lines of the Canterbury Tales. The figures depicting the story tellers round the plinth were modelled on local characters, with Canterbury-born actor Orlando Bloom (born 1977) as the Young Squire. The attraction closed in 2020.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Canterbury_Tales_Museum_-_geograph.org.uk_-_1988188.jpg" label="Canterbury Tales" attribution="Paul Gillett, via Wikimedia Commons" license="CC BY-SA 2.0"> 
+
+Promoted by the Canterbury Commemoration Society, a larger than life statue of Geoffrey Chaucer (c. 1342-1400) was unveiled in October 2016 on the corner of the High Street and Best lane. Chaucer faces the Eastbridge Hospital where many pilgrims were given lodging and holds the writing on vellum of the opening lines of the Canterbury Tales. The figures depicting the story tellers round the plinth were modelled on local characters, with Canterbury-born actor Orlando Bloom (born 1977) as the Young Squire. 
 
 **St Augustine’s Abbey**
 <br>
