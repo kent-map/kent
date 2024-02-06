@@ -1,4 +1,4 @@
-.ve-header label="Canterbury" background=gh:kent-map/images/banners/16c.jpg sticky=true
+.ve-header label="Canterbury" background=gh:kent-map/images/banners/20c.jpg sticky=true
 
 This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
 
