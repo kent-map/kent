@@ -60,6 +60,7 @@ In 1901 St Augustine’s College, founded in 1844 as a missionary college, owned
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b2/St_Augustine%27s_Abbey_and_Canterbury_Cathedral_-_geograph.org.uk_-_2771856.jpg" label="Saint Augustine Abbey by Ruth Riddle, via Wikimedia Commons, CC BY-SA 2.0" license="CC BY-SA 2.0">
 
 In 1976 the abbey grounds were taken over by English Heritage and in 1989 UNESCO declared St Augustine’s Abbey together with the Cathedral and St Martin’s Church to be a World Heritage Site. In 1997 as part of the 1,400th anniversary of St Augustine’s arrival in Kent, the new Museum and Visitor Centre were constructed at the abbey. With the aid of an audio guide, visitors can explore at leisure the ruins of the largest Benedictine abbey and the most impressive collection of shrines to have existed in medieval England. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8c/St_Augustine%27s_Abbey%2C_Canterbury_%2834988961570%29.jpg" label="St Augustine's Abbey, ijclark, CC BY 2.0, via Wikimedia Commons">
 
 **Canterbury Cathedral**
 <br>
@@ -82,4 +83,5 @@ The 14th century Chapter House was the setting in June 1935 for the first perfor
 <br><br>
 On October 1990 the Archbishop of Canterbury unveiled the statue of a ‘Welcoming Christ’ in the central niche of Christ Church Gate, the main entrance to the Cathedral. The original statue was destroyed by the Puritan onslaught during the Civil War and for nearly three hundred and fifty years had remained empty. The bonze figure is the work of the German sculptor Klaus Ringwald, shows an enthroned Christ, Ruler of the World, with His hands outstretched in welcome.
 
-The Cathedral Lodge, a hotel and conference centre built within the grounds of the Cathedral, was opened in 2000. A 250 seat Auditorium is complemented by a Refectory, Library and other function rooms, affording access to the Campanile Garden and stunning views of the Cathedral. A new Visitor Centre has also been built next to the Christ Church Gate. With a million visitors a year Canterbury Cathedral is truly the mother church of England.        
+The Cathedral Lodge, a hotel and conference centre built within the grounds of the Cathedral, was opened in 2000. A 250 seat Auditorium is complemented by a Refectory, Library and other function rooms, affording access to the Campanile Garden and stunning views of the Cathedral. A new Visitor Centre has also been built next to the Christ Church Gate. With a million visitors a year Canterbury Cathedral is truly the mother church of England.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Canterbury_Cathedral_Lodge_-_geograph.org.uk_-_5540668.jpg" label="Canterbury Cathedral Lodge by Ian Taylor, CC BY-SA 2.0 via Wikimedia Commons">
