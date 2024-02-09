@@ -15,6 +15,8 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 
 ## Elizabeth Bowen
 
+[Elizabeth Bowen](/20c/20c-bowen-biography)
+
 ## Elizabeth Burgess
 
 [Elizabeth Burgess](18c-burgess-biography)
