@@ -79,9 +79,20 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 
 ## Elizabeth Von Arnim 
 
-## Florence Warden
+## Florence Warden (1857–1929) 
 
-## Gertrude Warden
+[Florence Warden](19c-florence-warden-biography) 
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7e/Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg)
+
+Florence Warden was an actor and writer who lived at St Mildred’s Road, Ramsgate and later Beach House, Sandgate during the late nineteenth century. 
+## Gertrude Warden (1859-1925) 
+
+[Gertrude Warden](19c-gertrude-warden-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/19/G_Durand_Saturday_Night_at_the_Victoria_Theatre_BL.jpg)
+
+Forced to leave her finishing school in Brighton, with her sister, Gertrude sought to make her way in the world working as a governess for two years before taking to the stage, and later becoming a writer.
 
 Gladys Waterer
 
