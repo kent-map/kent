@@ -1,49 +1,60 @@
+.ve-header label="Inspirational Kent Women Writers" background=gh:kent-map/images/banners/18c.jpg sticky=true
 
-Inspirational Kent women or women who have taken inspiration from Kent.
+As part of the Centre for Kent History and Heritage's celebration of inspirational Kent women writers, we are highlighting these articles to focus attention to some of Kent's well-loved but also lesser known women writers. These women are either inspirational Kent women or women who have taken inspiration from Kent.
 
-Jane Austen
+# &nbsp; 
+<param class="cards">
 
-Elizabeth Bowen
+## Jane Austen
 
-Elizabeth Carter
+[Jane Austen](/19c/19c-austen-biography)
 
-Jessie Challacombe
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
-Edith Craig
+Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. During these extended visits, Austen travelled to many other destinations in Kent for social calls or leisure outings.
 
-Dinah Craik
 
-Sarah Grand
+## Elizabeth Bowen
 
-Cicely Hamilton
+## Elizabeth Carter
 
-Victoria Holt
+## Jessie Challacombe
 
-Bessie Marchant
+## Edith Craig
 
-Edith Nesbit
+## Dinah Craik
 
-S.C. Nethersole
+## Sarah Grand
 
-Baroness Orczy
+## Cicely Hamilton
 
-Mary L. Pendered
+## Victoria Holt
 
-Bertha Porter
+## Bessie Marchant
 
-Vita Sackville-West
+## Edith Nesbit
 
-J.G. Sarasin
+## S.C. Nethersole
 
-Edith Katherine Spicer Jay
+## Baroness Orczy
 
-Mary Tourtel
+## Mary L. Pendered
 
-Elizabeth Von Arnim 
+## Bertha Porter
 
-Florence Warden
+## Vita Sackville-West
 
-Gertrude Warden
+## J.G. Sarasin
+
+## Edith Katherine Spicer Jay
+
+## Mary Tourtel
+
+## Elizabeth Von Arnim 
+
+## Florence Warden
+
+## Gertrude Warden
 
 Gladys Waterer
 
