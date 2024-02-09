@@ -31,7 +31,13 @@ What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d h
 
 'My old friend, Mrs. Carter, … could make a pudding, as well as translate Epictetus from the Greek, and work a handkerchief as well as compose a poem.’ Elizabeth Carter, poet, classicist, writer, translator, and linguist was born in Deal.  
 
-## Jessie Challacombe
+## Jessie Challacombe (1864-1925) 
+
+[Jessie Challacombe](19c-challacombe-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/33/%22The_New_Observatory%22_-_Royal_Observatory_Greenwich_ca_1900_%287890146566%29.jpg)
+
+Like her parents, Jessie contributed to the life of the church. She was a member of the church’s young ladies’ working party and in 1890, gave a talk to the parents of the Sunday School scholars on the best way to bring up children, which was later evidenced in her fiction, through her tales of Christian life. 
 
 ## Edith Craig
 
