@@ -1,12 +1,12 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="May Aldington (1872-1954)" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="May Aldington (1872-1954)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg">
 
 <param ve-entity eid="Q2313624" aliases="Rolvenden">
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q2551894" aliases="Walmer">
 <param ve-entity eid="Q614560" aliases="Tenterden">
-<param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q179224" aliases="Dover">
 
 <param ve-map center="Q179224" zoom="10">
