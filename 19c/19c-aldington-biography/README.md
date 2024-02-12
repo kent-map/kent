@@ -5,7 +5,7 @@
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q2551894" aliases="Walmer">
-<param ve-entity eid="Q936183" aliases="Tonbridge">
+<param ve-entity eid="Q614560" aliases="Tenterden">
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q179224" aliases="Dover">
 
