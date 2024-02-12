@@ -9,7 +9,7 @@ It turns out Kent may be a more dangerous place than you realised (at least in t
 
 [Crime Fiction](/crime/crime-overview)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2d/Sherlock_Holmes_1922_lobbycard_scene.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/crime_Crime_Fiction.jpg)
 
 An overview of some of the crime novels set in Kent.
 
@@ -17,7 +17,7 @@ An overview of some of the crime novels set in Kent.
 
 [Arthur Conan Doyle](/19c/19c-conan-doyle)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4f/Strand_paget.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/crime_Arthur_Conan_Doyle.jpg)
 
 No fewer than six of the Sherlock Holmes stories involve Kent railway stations.
 
@@ -25,7 +25,7 @@ No fewer than six of the Sherlock Holmes stories involve Kent railway stations.
 
 [Mary Kelly](/20c/20c-kelly-biography/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Thames_at_Greenhithe.jpg/1024px-Thames_at_Greenhithe.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/crime_Mary_Kelly.jpg)
 
 Behind the fence, breaking the surface of the grey undulations like a bathers’ warning, a red rust-pitted disc: Police Advice – Danger, Keep Out.
 
@@ -33,7 +33,7 @@ Behind the fence, breaking the surface of the grey undulations like a bathers’
 
 [Romney Marsh and Sepulchre Street](/21c/21c-edwards-sepulchre-street/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/fd/St_Thomas%2C_Fairfield_2.JPG)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/crime_Romney_Marsh_and_Sepulchre_Street.jpg)
 
 Rachel Savernake specialises in solving bizarre mysteries.
 
@@ -41,7 +41,7 @@ Rachel Savernake specialises in solving bizarre mysteries.
 
 [Julian Symons](/20c/20c-symons-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/98/Harold_Gilman_-_Romney_Marsh_-_B1975.4.329_-_Yale_Center_for_British_Art.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/crime_Julian_Symons.jpg)
 
 Julian Symons was a poet and a prolific author of both history and crime fiction who was drawn to the imaginative possibilities of the Romney Marsh
 

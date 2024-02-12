@@ -9,7 +9,7 @@ Famed for its cherries, hops and fruit, organic farming, and the modern day gree
 
 [John Boys](/18c/18c-boys-biography/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Boys.jpg)
 
 John Boys, agriculturalist, was well known for his breed of South Down sheep. 
 
@@ -17,7 +17,7 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 
 [Walter James, Fourth Lord Northbourne](/20c/20c-northbourne-biography/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f2/Cabbage_close_up_%2849200263532%29.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_Walter_James_Fourth_Lord_Northbourne.jpg)
 
 Inventor of Organic Farming.
 
@@ -25,7 +25,7 @@ Inventor of Organic Farming.
 
 [S.C. Nethersole](/20c/20c-nethersole-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d482e3aa-6764-4b23-92a9-693be7b2934d)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_S_C_Nethersole.jpg)
 
 Writer of stories of rural life in East Kent.
 
@@ -33,7 +33,7 @@ Writer of stories of rural life in East Kent.
 
 [John Tradescant](/17c/17c-john-tradescant-younger/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
 
@@ -41,7 +41,7 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 [Hop and Fruit Picking in the 20th century](/20c/20c-hop-picking/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/36ae75f3-b601-4695-ba8e-efb2e99630fc)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_Hop_and_Fruit_Picking_in_the_20th_century.jpg)
 
 Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests.
 
@@ -49,6 +49,6 @@ Traditionally London families helped with the hop harvest as a ‘paid holiday�
 
 [Brogdale National Fruit Collection](/21c/21c-brogdale/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/70b7d425-bbd9-423a-8cd1-e086a00a57f0)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_Brogdale_National_Fruit_Collection.jpg)
 
 The National Fruit Collection has been sited at Brogdale near Faversham since 1951.
