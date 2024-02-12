@@ -9,7 +9,7 @@ Towns of grandeur. Articles on Folkestone and Gravesend
 
 [Folkestone in the 19th century](/19c/19c-folkestone/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b6683cdb-1799-4a34-b5b4-bf77e9da197d)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/placesej_Folkestone_in_the_19th_century.jpg)
 
 As one 19th century wag observed, Folkestone is a near anagram of ‘Kent Fools’, a joke not lost on the unknown author (believed to be from Dover) of The Folkestone Fiery Serpent. 
 
@@ -17,7 +17,7 @@ As one 19th century wag observed, Folkestone is a near anagram of ‘Kent Fools�
 
 [Gravesend in the 19th century](/19c/19c-gravesend/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/placesej_Gravesend_in_the_19th_century.jpg)
 
 In the nineteenth century steamboats sailing to Gravesend transferred an influx of tourists to Rosherville Gardens, a Victorian pleasure garden built within an abandoned chalk pit owned by Jeremiah Rosher. 
 
@@ -25,4 +25,4 @@ In the nineteenth century steamboats sailing to Gravesend transferred an influx 
 
 [Gravesend in the 20th century](/placesep/gravesend-overview)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/44f84728-2548-48bc-9a14-67c47b94b6ef)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/placesej_Gravesend_in_the_20th_century.jpg)

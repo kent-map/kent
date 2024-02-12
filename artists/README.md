@@ -9,7 +9,7 @@ Architects, designers, painters, illustrators, cartoonists and muralists have be
 
 [William Burges](/19c/19c-burges-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/a8d2851f-3fb0-4314-b8c4-8fde9baf5892)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_William_Burges.jpg)
 
 William ‘Billy’ Burges, Neo-gothic architect and designer, created a Gothic fantasy in the Town Hall at Dover.
 
@@ -17,7 +17,7 @@ William ‘Billy’ Burges, Neo-gothic architect and designer, created a Gothic 
 
 [Alfred Cohen](/20c/20c-cohen-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Alfred_Cohen.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
@@ -25,7 +25,7 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 [Richard Dadd](/19c/19c-dadd-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/be/Richard_Dadd_-_Fish_Market_by_the_Sea_-_Google_Art_Project.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Richard_Dadd.jpg)
 
 Painter of fairies, the supernatural, and Oriental scenes, Dadd was born in Chatham and would become one of the most famous inmates of Bethlem Hospital for the insane.
 
@@ -33,7 +33,7 @@ Painter of fairies, the supernatural, and Oriental scenes, Dadd was born in Chat
 
 [William Dyce](/19c/19c-dyce-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3b/William_Dyce_-_Pegwell_Bay%2C_Kent_-_a_Recollection_of_October_5th_1858_-_Google_Art_Project.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_William_Dyce.jpg)
 
 William Dyce (1806-1864) took his young family on holiday to Ramsgate in 1858, and painted Pegwell Bay - a Recollection of October 5th 1858.
 
@@ -41,7 +41,7 @@ William Dyce (1806-1864) took his young family on holiday to Ramsgate in 1858, a
 
 [Elizabeth Gould](/19c/19c-gould-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Ptilonorynchus_maculatus_The_Birds_of_Australia_Vol_IV.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Elizabeth_Gould.jpg)
 
 Gould, who was born in Ramsgate, contributed invaluably to the world of ornithological illustration. 
 
@@ -49,7 +49,7 @@ Gould, who was born in Ramsgate, contributed invaluably to the world of ornithol
 
 [Donald Maxwell](/20c/20c-maxwelld-biography/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/621c9fa5-d0fd-44c4-8dd0-3b43ccb05a32)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Donald_Maxwell.jpg)
 
 Maxwell used his writing and illustration to infuse the industrial and everyday with a sense of the exotic or the magical. 
 
@@ -57,7 +57,7 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 
 [Paul Nash](/20c/20c-nash-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/95/Dymchurch_-_The_Strange_Coast_by_Paul_Nash_-_Paul_Nash_-_ABDAG000153.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Paul_Nash.jpg)
 
 Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. 
 
@@ -65,7 +65,7 @@ Paul Nash was a war artist and photographer who became an important influence in
 
 [Augustus Welby Pugin](/19c/19c-pugin-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fe3e0abd-0d14-4bff-ac3d-a6a600a6c298)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Augustus_Welby_Pugin.jpg)
 
 Augustus Welby Pugin, the charismatic leader and promoter of the Gothic Revival and one of the most important architects of the nineteenth century built a church and house in Ramsgate.
 
@@ -73,7 +73,7 @@ Augustus Welby Pugin, the charismatic leader and promoter of the Gothic Revival 
 
 [Dante Gabriel Rossetti](/19c/19c-rossetti-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7b/Dante_Gabriel_Rossetti_005.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Dante_Gabriel_Rossetti.jpg)
 
 Painter, and illustrator of the Pre-Raphaelite movement, Rossetti spent his last days in Birchington.
 
@@ -81,7 +81,7 @@ Painter, and illustrator of the Pre-Raphaelite movement, Rossetti spent his last
 
 [Edward Linley Sambourne](/19c/19c-sambourne-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Edward_Linley_Sambourne.jpg)
 
 Satirical cartoonist for _Punch_ magazine.
 
@@ -89,7 +89,7 @@ Satirical cartoonist for _Punch_ magazine.
 
 [Marian Peck](/20c/20c-peck-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Marian_Peck.jpg)
 
 Artist specialising in maps, calligraphy and miniatures.
 
@@ -97,7 +97,7 @@ Artist specialising in maps, calligraphy and miniatures.
 
 [Mary Tourtel](/20c/20c-tourtel-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/23/De_avonturen_van_Bruintje_Beer_-_Dertiende_serie_-_Omslag.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Mary_Tourtel.jpg)
 
 Writer and illustrator of the cartoon strip _Rupert Bear_ for the _Daily Express_, Mary had a particular fondness and ability for capturing the likenesses of animals.
 
@@ -105,7 +105,7 @@ Writer and illustrator of the cartoon strip _Rupert Bear_ for the _Daily Express
 
 [Traveller's Joy by Gloria Treseder](/21c/21c-travellers-joy/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fae476ff-29d2-4cf1-aa56-9bc77eebb358)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Traveller’s_Joy_by_Gloria_Treseder.jpg)
 
 Mural inspired by the plants and literature of Canterbury.
 
@@ -113,7 +113,7 @@ Mural inspired by the plants and literature of Canterbury.
 
 [Louis Wain](/19c/19c-wain-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cc/Wain_cat_profile.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Louis_Wain.jpg)
 
 Famed for his anthropomorphic paintings of cats in amusing situations.
 

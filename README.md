@@ -20,7 +20,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 [H.G.Wells](20c/20c-wellshg-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3615ba37-88b4-4c75-95b0-6710b43d7c73)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Wells1.jpg)
 
 “This bus it was, this ruddy, venerable and, under God's mercy, immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow. You figure him there.” Kipps.
 
@@ -29,7 +29,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 [Derek Jarman](20c/20c-jarman-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Jarman1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Jarman1.jpg)
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends.
 
@@ -38,7 +38,7 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 
 [Charles Darwin](19c/19c-darwin-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Darwin1.jpg)
 
 Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. Although, they may be aware of his Journal and Remarks, generally known as The Voyage of the Beagle (1839), in which a youthful Darwin recounted his five years travelling the world. 
 
@@ -47,7 +47,7 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 [Alfred Cohen](20c/20c-cohen-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/redlandscape.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/redlandscape.jpg)
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. He and his second wife Diana lived in Goudhurst, Benenden and Iden Green over a fifteen-year period, and took inspiration from the Kent countryside.
 
@@ -55,7 +55,7 @@ It was Kent that engaged my feelings more fiercely than any other place I can re
 
 [Paul Nash](20c/20c-nash-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/eb/Battle_of_Britain_%28Paul_Nash%29.png)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Nash1.jpg)
 
 Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. Suffering post-traumatic stress disorder after World War One, Nash moved to Dymchurch where he recuperated whilst repeatedly painting seascapes in which the sea wall was a central motif.
 
@@ -66,7 +66,7 @@ Paul Nash was a war artist and photographer who became an important influence in
 
 [Medieval](medieval)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/20604136-61ac-4aa6-a82e-99e97a44f66d)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Medieval1.jpg)
 
 The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum), The murder of Becket, the Black Death, Wat Tyler's rebellion, Canterbury pilgrims and Canterbury tales.
 
@@ -118,7 +118,7 @@ Dover and Folkestone become the gateway to the Western Front during WW1. Seaside
 
 [21st century](21c)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/36ae75f3-b601-4695-ba8e-efb2e99630fc)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/21c_1.jpg)
 
 Regeneration and the rise of the DFL, street murals, poetry, books and Covid.
 
@@ -130,7 +130,7 @@ Regeneration and the rise of the DFL, street murals, poetry, books and Covid.
 
 [Places A-D](placesad)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesA_D1.jpg)
 
 Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Canterbury, Deal and Dover.
 
@@ -139,7 +139,7 @@ Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Ca
 
 [Places E-J](placesej)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesE_J1.jpg)
 
 Towns of grandeur. Articles on Folkestone and Gravesend.
 
@@ -147,7 +147,7 @@ Towns of grandeur. Articles on Folkestone and Gravesend.
 
 [Places K-Z](placeskz)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b7891169-b4a4-43fb-9245-c1f71e27c7e2)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesK_Z1.jpg)
 
 Seaside resorts such as Ramsgate and Sandgate.
 
@@ -158,7 +158,7 @@ Seaside resorts such as Ramsgate and Sandgate.
 
 [Actors and Theatres](theatre)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/actors_and_theatres1.jpg)
 
 Actors have made Kent their home, playwrights have used it as a setting, and theatrical companies have performed in its theatres.
 
@@ -166,7 +166,7 @@ Actors have made Kent their home, playwrights have used it as a setting, and the
 
 [Artists and Designers](artists)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/fe3e0abd-0d14-4bff-ac3d-a6a600a6c298)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_and_designers1.jpg)
 
 Architects, designers, painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 
@@ -174,7 +174,7 @@ Architects, designers, painters, illustrators, cartoonists and muralists have be
 
 [Children's Authors and Stories](children)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/862d778e-6ca0-46d3-976d-14bf7d4ff67d)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/children_authors_and_stories1.jpg)
 
 From the Railway Children to Rupert Bear, Kent has been in the inspiration for many children's authors and stories.
 
@@ -182,7 +182,7 @@ From the Railway Children to Rupert Bear, Kent has been in the inspiration for m
 
 [Crime Fiction](crime)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4f/Strand_paget.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/crime_fiction1.jpg)
 
 It turns out Kent may be a more dangerous place than you realised (at least in the imaginations of writers).
 
@@ -190,7 +190,7 @@ It turns out Kent may be a more dangerous place than you realised (at least in t
 
 [Landscapes](landscape)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/landscape/images/IMG_2546.JPG)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/landscapes1.jpg)
 
 Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
@@ -199,7 +199,7 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 
 [Mathematicians and Scientists](science)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ad541fd1-2530-4ca8-ac50-3a55461af547)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/mathematicians_and_scientists1.jpg)
 
 Botanists, chemists and naturalists abound in the beautiful garden of England.
 
@@ -208,7 +208,7 @@ Botanists, chemists and naturalists abound in the beautiful garden of England.
 
 [Musical Peregrinations](music)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/61826c52-f5b7-4a39-bece-68dcf6d6539e)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/musical_peregrinations1.jpg)
 
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
@@ -217,7 +217,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 
 [Poets and Poetry](poetry)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/335d901a-8416-4356-8a12-1607c997a9a2)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/poets_and_poetry1.jpg)
 
 The Kent coast and countryside has provided inspiration for poets throughout the centuries.
 
@@ -226,7 +226,7 @@ The Kent coast and countryside has provided inspiration for poets throughout the
 
 [Prisons and Discipline](prisons)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8b87d15d-5d86-4784-ab72-8dad919689c2)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/prisons_and_discipline1.jpg)
 
 An exploration of Kent's penal system including the Bloody Code, convicts, transportation and prison hulks.
 
@@ -234,7 +234,7 @@ An exploration of Kent's penal system including the Bloody Code, convicts, trans
 
 [Religion](religion)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e49b11b9-c09d-45be-ba7b-3e95b49eef2a)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/religion1.jpg)
 
 An exploration of some of the people and places that have shaped faith in the county.
 
@@ -242,7 +242,7 @@ An exploration of some of the people and places that have shaped faith in the co
 
 [Seascapes](seascape)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/seascapes1.jpg)
 
 The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
 
@@ -250,7 +250,7 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 
 [The Built Environment](built)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_built_environment1.jpg)
 
 A county of rich architecture; castles, churches, ports, forts and towers.
 
@@ -259,7 +259,7 @@ A county of rich architecture; castles, churches, ports, forts and towers.
 
 [The Garden of England](garden)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/af58512e-cbf4-4f26-8776-3560de893011)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_garden_of_england1.jpg)
 
 Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth, Kent is known as the ‘Garden of England’ due its rich agricultural history.
 
@@ -267,7 +267,7 @@ Famed for its cherries, hops and fruit, organic farming, and the modern day gree
 
 [War in Kent](wartime)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/17/Britain%27s_New_Spitfire_-_UK_World_War_II_poster%2C_circa_1941_%2844266318%29.png)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/war_in_kent1.jpg)
 
 On the frontline of England's defence, Kent has played a pivitol role when faced with invasion, from the Spanish Armada up until the First and Second World Wars. 
 
@@ -278,7 +278,7 @@ On the frontline of England's defence, Kent has played a pivitol role when faced
 
 [Jane Austen](austen)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/jane_austen1.jpg)
 
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park.
 
@@ -287,7 +287,7 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 
 [Joseph Conrad](19c/19c-conrad-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f117483d-65cb-464e-828a-486c8a83ac53)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/joseph_conrad1.jpg)
 
 Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century, lived the last decades of his life in Bishopsbourne, a village about six miles south of Canterbury.
 
@@ -304,7 +304,7 @@ From Rochester to Broadstairs on the East coast – wherever you go you can be f
 
 [T.S. Eliot](20c/20c-eliot-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3732a411-bdb3-4fe9-a464-1aeb2ac8d7ad)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/t_s_eliot1.jpg)
 
 After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. It was there he wrote “The Fire Sermon,” part three of the hugely influential poem 'The Waste Land'. He wrote to Sydney Schiff from the Albemarle Hotel, Cliftonville: “I have done a rough draft .. but I do not know whether it will do.”
 
@@ -312,7 +312,7 @@ After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside
 
 [Edith Nesbit](nesbit)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/edith_nesbit1.jpg)
 
 English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. Several of her best-loved stories for children include descriptions of her childhood home.
 
@@ -320,7 +320,7 @@ English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coas
 
 [Vita Sackville-West](20c/20c-sackville-west-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/sissinghurst2.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/vita_sackville_west1.jpg)
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
@@ -331,7 +331,7 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 [Double Double](20c/20c-double-double)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c5a69374-84aa-4934-a9d4-4469d7e40ace)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/double_double1.jpg)
 
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition who come in search of a venue for an “open-air freakout,” and find a beach with white cliffs. 
 
@@ -339,7 +339,7 @@ It was 1969, and in the fictional coastal North Kent town of Brindown, things wo
 
 [Miss Balmaine's Past](19c/19c-croker-missbalmaine)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/miss_balmaines_past1.jpg)
 
 Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Horton'. Rosamund Balmaine finds love when Ronald Gordon arrives to survey the area for a new railway. However, conniving relatives conspire to keep the couple apart.
 
@@ -348,7 +348,7 @@ Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Hor
 
 [Shepherds in Sackcloth](20c/20c-kaye-smith-delmonden)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/shepherds_in_sackcloth1.jpg)
 
 Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
 

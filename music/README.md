@@ -9,7 +9,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 
 [The Catch](19c-catch-music)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4a/Sumerisicumenharleyms.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/music_The_Catch.jpg)
 
 The catch consists of a single melody, broken up into phrases of equal length (usually three or four), which may be sung not only consecutively, but concurrently. 
 
@@ -17,7 +17,7 @@ The catch consists of a single melody, broken up into phrases of equal length (u
 
 [Catch Club](19c-catch-club)  
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/music/Beaney.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/music_Catch_Club.jpg)
 
 An evening at the theatre or the catch club could be a lively affair.
 
@@ -25,7 +25,7 @@ An evening at the theatre or the catch club could be a lively affair.
 
 [Cathedral Singers](19c-cathedral-singing)   
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ba0b9603-51bd-47bd-ac28-54aabc6b784a)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/music_Cathedral_Singers.jpg)
 
 Since the dissolution of the monasteries in the 1540s, the new cathedrals constituted by statute had allowed unordained men to swell the ranks of the choir required to sing the two prescribed daily offices.
 
@@ -33,7 +33,7 @@ Since the dissolution of the monasteries in the 1540s, the new cathedrals consti
 
 [Canterbury](19c-music-canterbury)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/93b03451-8b11-4ca9-a588-220af7b2f953)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/music_Canterbury.jpg)
 
 A glance through the pages of a local paper at any point in the eighteenth and nineteenth centuries will furnish ample evidence of lively entertainment on offer, at least to those who could afford it and could gain access to the environments in which it took place.
 
@@ -41,7 +41,7 @@ A glance through the pages of a local paper at any point in the eighteenth and n
 
 [Charles Dobson](19c-charles-dobson-biography)   
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Glee_singers_%28BM_1878%2C1012.382%29.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/music_Charles_Dobson.jpg)
 
 Charles Henry Dobson, a Canterbury cathedral singer with 14 years of service (1825–1839) is not mentioned in the Catch Club records, which is odd because his name crops up repeatedly in newspaper reports covering everything else musical in this period. 
 
@@ -49,7 +49,7 @@ Charles Henry Dobson, a Canterbury cathedral singer with 14 years of service (18
 
 [Thomas Goodban](19c-thomas-goodban-biography)   
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/62/A_Catch._Une_Chansonnette_%28BM_1935%2C0522.1.76%29.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/music_Thomas_Goodban.jpg)
 
 Thomas Goodban (1784–1863), the long-standing conductor of the Catch Club Orchestra, was an entrepreneurial force in the club.
 
@@ -57,7 +57,7 @@ Thomas Goodban (1784–1863), the long-standing conductor of the Catch Club Orch
 
 [William Longhust](19c-william-longhurst-biography)   
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8e1da9c2-ddfb-411c-bba3-b5739d958ca6)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/music_William_Longhust.jpg)
 
 William Henry Longhurst, a singer and composer, gave 14 years of service to Canterbury Cathedral Choir (1826–1840).
 
@@ -65,7 +65,7 @@ William Henry Longhurst, a singer and composer, gave 14 years of service to Cant
 
 [John Marsh](19c-john-marsh-biography)   
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/244f4d71-a16f-4dc8-b220-994b63422a06)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/music_John_Marsh.jpg)
 
 According to the extensive journal of John Marsh, gentleman, barrister, and talented amateur musician, the few years he spent living at Nethersole, near Canterbury, were notable for the concerts in which he either played a leading role (as violinist, organist, composer, and/or organiser) or was an enthusiastic member of the audience. 
 
@@ -73,6 +73,6 @@ According to the extensive journal of John Marsh, gentleman, barrister, and tale
 
 [James Shoubridge](19c-james-shoubridge)  
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2c31e2ed-8f07-4a4e-b1a8-deaeab5b045d)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/music_James_Shoubridge.jpg)
 
 James Shoubridge was the last name on the list of men who were Lay Clerks at Canterbury Cathedral in 1825–6.

@@ -9,7 +9,7 @@ Industry includes production of malt for brewing. The English Civil War.
 
 [Aphra Behn](17c-behn-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/313c325c-0895-46de-bd40-f44b75667178)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Aphra_Behn.jpg)
 
 Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born; however, like much of her life, this is difficult to confirm.
 
@@ -17,7 +17,7 @@ Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown 
 
 [William Harvey](17c-william-harvey)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_William_Harvey.jpg)
 
 Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
 
@@ -25,7 +25,7 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 
 [Robert Plot](17c-robert-plot)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Robert_Plot.jpg)
 
 Naturalist and chemist, Plot was born at Borden in Kent.
 
@@ -33,7 +33,7 @@ Naturalist and chemist, Plot was born at Borden in Kent.
 
 [Plum Pudding Riots](17c-plum-pudding-riots)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5d/Officer_of_pikemen.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Plum_Pudding_Riots.jpg)
 
 A riotous time in Canterbury on Christmas Day, 1647.
 
@@ -41,7 +41,7 @@ A riotous time in Canterbury on Christmas Day, 1647.
 
 [Sheppey at War](17c-sheppey-at-war)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Sheppey_at_War.jpg)
 
 The Island of Sheppey was at the centre of the famous Medway attack during the Anglo Dutch War (c.1664-1667).
 
@@ -49,7 +49,7 @@ The Island of Sheppey was at the centre of the famous Medway attack during the A
 
 [Sir Cloudesley Shovell](17c-shovell-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cd/A_Large_Draught_of_the_DOWNES_NYPL1640571.tiff)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Sir_Cloudesley_Shovell.jpg)
 
 Rear Admiral and Commander-in-Chief of the Fleet, and also MP for Rochester, Sir Cloudesley Shovell, had homes in Crayford and West Street, near Northbourne.
 
@@ -57,7 +57,7 @@ Rear Admiral and Commander-in-Chief of the Fleet, and also MP for Rochester, Sir
 
 [John Tradescant the Younger](17c-john-tradescant-younger)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_John_Tradescant_the_Younger.jpg)
 
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
 
@@ -65,6 +65,6 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 [John Wallis](17c-wallis-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_John_Wallis.jpg)
 
 Mathematician and cryptographer, Wallis is known for his pioneering work in infinitesimal calculus.
