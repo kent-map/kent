@@ -1,9 +1,17 @@
 .ve-header label="Inspirational Kent Women Writers" background=gh:kent-map/images/banners/18c.jpg sticky=true
 
-As part of the Centre for Kent History and Heritage's celebration of inspirational Kent women writers, we are highlighting these articles to focus attention to some of Kent's well-loved but also lesser known women writers. These women are either inspirational Kent women or women who have taken inspiration from Kent.
+As part of the Centre for Kent History and Heritage's celebration of inspirational Kent women writers, we are highlighting these articles to focus attention on some of Kent's well-loved but also lesser known women writers. These women are either inspirational Kent women or women who have taken inspiration from Kent.
 
 # &nbsp; 
 <param class="cards">
+
+## May Aldington
+
+[May Aldington](/19c/19c-aldington-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
+
+May Aldington wrote _Meg of the Salt Pans_ set in a Kentish village near Sandport (Sandwich). She was praised for her 'excellent pen pictures of Kentish people — people that we seem to know without being able to actually recognise'.
 
 ## Jane Austen
 
@@ -39,7 +47,7 @@ What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d h
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/33/%22The_New_Observatory%22_-_Royal_Observatory_Greenwich_ca_1900_%287890146566%29.jpg)
 
-Like her parents, Jessie contributed to the life of the church. She was a member of the church’s young ladies’ working party and in 1890, gave a talk to the parents of the Sunday School scholars on the best way to bring up children, which was later evidenced in her fiction, through her tales of Christian life. 
+A devout Christian, Jessie, who was born in Dover, wrote religious stories for children. Her first novel _Little Christopher's Cross_ was inspired by the hymn 'In Token That Thou Shalt Not Fear' written by Henry Alford, Dean of Canterbury.
 
 ## Edith Craig
 
@@ -59,6 +67,8 @@ Like her parents, Jessie contributed to the life of the church. She was a member
 
 ## Baroness Orczy
 
+Known for driving her horses and wagonette wildly around the lanes of Thanet, Baroness Orczy, the author of the _Scarlet Pimpernel_ stories lived at Monkton and later Bearsted.
+
 ## Mary L. Pendered
 
 ## Bertha Porter
@@ -73,13 +83,23 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 
 ## Vita Sackville-West
 
+[Vita Sackville-West](19c-sackville-west-biography)
+
 ## J.G. Sarasin
+
+[J.G. Sarasin](20c-sarasin-biography)
 
 ## Edith Katherine Spicer Jay
 
+[Edith Katherine Spicer Jay](20c-spicer-jay-biography)
+
 ## Mary Tourtel
 
+[Mary Tourtel](20c-tourtel-biography)
+
 ## Elizabeth Von Arnim 
+
+[Elizabeth Von Arnim](20c-von-arnim-biography)
 
 ## Florence Warden (1857–1929) 
 
@@ -96,6 +116,6 @@ Florence Warden was an actor and writer who lived at St Mildred’s Road, Ramsga
 
 Forced to leave her finishing school in Brighton, with her sister, Gertrude sought to make her way in the world working as a governess for two years before taking to the stage, and later becoming a writer.
 
-Gladys Waterer
+## Pamela Wynne
 
-Pamela Wynne
+[Pamela Wynne](/20c/20c-wynne-biography)

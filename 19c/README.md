@@ -14,6 +14,7 @@
 
 [Henry Gardiner Adams](19c-gardiner-adams-biography)   
 [William Harrison Ainsworth](19c-whainsworth-biography)     
+[May Aldington](19c-aldington-biography)   
 [Hans Christian Andersen](19c-christian-andersen)   
 [Anna Atkins](19c-atkins-biography)   
 [Jane Austen](19c-austen-biography)  
