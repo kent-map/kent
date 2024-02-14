@@ -83,13 +83,23 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 
 ## Vita Sackville-West
 
+[Vita Sackville-West](19c-sackville-west-biography)
+
 ## J.G. Sarasin
+
+[J.G. Sarasin](20c-sarasin-biography)
 
 ## Edith Katherine Spicer Jay
 
+[Edith Katherine Spicer Jay](20c-spicer-jay-biography)
+
 ## Mary Tourtel
 
+[Mary Tourtel](20c-tourtel-biography)
+
 ## Elizabeth Von Arnim 
+
+[Elizabeth Von Arnim](20c-von-arnim-biography)
 
 ## Florence Warden (1857–1929) 
 
@@ -106,6 +116,6 @@ Florence Warden was an actor and writer who lived at St Mildred’s Road, Ramsga
 
 Forced to leave her finishing school in Brighton, with her sister, Gertrude sought to make her way in the world working as a governess for two years before taking to the stage, and later becoming a writer.
 
-Gladys Waterer
+## Pamela Wynne
 
-Pamela Wynne
+[Pamela Wynne](/20c/20c-wynne-biography)
