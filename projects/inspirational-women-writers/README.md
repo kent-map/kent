@@ -51,27 +51,49 @@ A devout Christian, Jessie, who was born in Dover, wrote religious stories for c
 
 ## Edith Craig
 
+[Edith Craig](20c-craig-biography)
+
 ## Dinah Craik
+
+[Dinah Craik](19c-craik-biography)
 
 ## Sarah Grand
 
+[Sarah Grand](19c-grand-biography)
+
 ## Cicely Hamilton
+
+[Cicely Hamilton](20c-hamilton-biography)
 
 ## Victoria Holt
 
+[Victoria Holt](20c-hamilton-biography)
+
 ## Bessie Marchant
+
+[Bessie Marchant](20c-marchant-biography)
 
 ## Edith Nesbit
 
+[Edith Nesbit](19c-nesbit-biography)
+
 ## S.C. Nethersole
 
+[S.C. Nethersole](19c-nethersole-biography)
+
 ## Baroness Orczy
+
+[Baroness Orczy](20c-orczy-biography)
 
 Known for driving her horses and wagonette wildly around the lanes of Thanet, Baroness Orczy, the author of the _Scarlet Pimpernel_ stories lived at Monkton and later Bearsted.
 
 ## Mary L. Pendered
 
+[Mary L. Pendered](20c-pendered-biography)
+
 ## Bertha Porter
+
+[Bertha Porter](19c-porter-biography)
 
 ## Ann Radcliffe
 
@@ -92,6 +114,10 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 ## Edith Katherine Spicer Jay
 
 [Edith Katherine Spicer Jay](20c-spicer-jay-biography)
+
+## Netta Syrett
+
+[Netta Syrett](20c-syrett-biography)
 
 ## Mary Tourtel
 
