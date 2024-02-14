@@ -13,7 +13,7 @@
 
 #
 
-Jessie May Aldington, author of ‘Love Letters that caused a Divorce’ and 'Meg of the Salt Pans', was born in Hythe in 1872. She was the daughter of Charles Godfree, a Sergeant Major in the Army Hospital Corps, who was temporarily stationed at the Hythe School of Musketry, and Eliza Burden, the daughter of a Rolvenden shoemaker. According to _The Sphere_ she was descended from the family of John Gay, who wrote _The Beggar's Opera_.[^ref1]  The family moved frequently due to Charles's work, living at Hythe, Rolvenden, Bermuda and Portsea. Jessie remembers her parents being sent copies of the _Kentish Express_ when they were stationed in Bermuda.[^ref2]
+Jessie May Aldington, author of ‘Love Letters that caused a Divorce’ and 'Meg of the Salt Pans', was born in Hythe in 1872. She was the daughter of Charles Godfree, a Sergeant Major in the Army Hospital Corps, who was temporarily stationed at the Hythe School of Musketry, and Eliza Burden, the daughter of a Rolvenden shoemaker. According to _The Sphere_ she was descended from the family of John Gay, who wrote _The Beggar's Opera_.[^ref1]  The family moved frequently due to Charles's work, living at Hythe, Rolvenden, Bermuda and Portsea. Jessie remembers her parents being sent copies of the _Kentish Express_ during their five years in Bermuda, which her mother read word for word.[^ref2]
 <param ve-image url="https://stor.artstor.org/stor/921dbaac-faac-4fcc-bb1f-4da1329f58cf" label="Hythe School of Musketry" attribution="Invicta Album of Hythe">
 
 By 1881, the family had settled in [Dover](/19c/19c-dover/) at 14, Liverpool St, which was in the St James area of the town. May, as she preferred to be known, lived here until her father retired from the army and took on the license of the Bell and Anchor Inn in Sandwich.
@@ -47,35 +47,36 @@ In the later years of her life, May was often strapped for cash and begged Richa
 
 ### References
 
-[^ref1]: "Mrs May Aldington." _The Sphere_ - Saturday 19 June 1909.
-[^ref2]: Whelpton, Vivien. _Richard Aldington: Poet, Soldier and Lover 1911-1929_, p.21
-[^ref3]: Whelpton, p.20
-[^ref4]: Doyle, Charles. _Richard Aldington : a biography_ Carbondale : Southern Illinois University Press, p.3
-[^ref5]: Doyle, p.3
-[^ref6]: "A solicitor's wife's action for damages." _Whitstable Times and Herne Bay Herald_, Saturday 25 July 1903.
-[^ref7]: Doyle, p.2.
-[^ref8]: _Dover Express_, Friday 19 April 1901; _Dover Express_, Friday 26 April 1901.
-[^ref9]: _Folkestone, Hythe, Sandgate & Cheriton Herald_, Saturday 05 March 1904.
-[^ref10]: "A solicitor's wife's action for damages." _Whitstable Times and Herne Bay Herald_, Saturday 25 July 1903.
-[^ref11]: Doyle, p.3.
+[^ref1]: "Mrs May Aldington." _The Sphere_, Saturday 19 June 1909.
+[^ref2]: "Mrs Mary Adington." _Kentish Express_, Saturday 19 July 1930.
+[^ref3]: Whelpton, Vivien. _Richard Aldington: Poet, Soldier and Lover 1911-1929_, p.21
+[^ref4]: Whelpton, p.20
+[^ref5]: Doyle, Charles. _Richard Aldington : a biography_ Carbondale : Southern Illinois University Press, p.3
+[^ref6]: Doyle, p.3
+[^ref7]: "A solicitor's wife's action for damages." _Whitstable Times and Herne Bay Herald_, Saturday 25 July 1903.
+[^ref8]: Doyle, p.2.
+[^ref9]: _Dover Express_, Friday 19 April 1901; _Dover Express_, Friday 26 April 1901.
+[^ref10]: _Folkestone, Hythe, Sandgate & Cheriton Herald_, Saturday 05 March 1904.
+[^ref11]: "A solicitor's wife's action for damages." _Whitstable Times and Herne Bay Herald_, Saturday 25 July 1903.
 [^ref12]: Doyle, p.3.
-[^ref13]: "From the Publishers." _Kentish Express_, Saturday 28 October 1905.
-[^ref14]: Doyle, p.3
-[^ref15]: Whelpton, p.24. 
-[^ref16]: Whelpton, p.25. 
-[^ref17]: Whelpton, p.25.
-[^ref18]: Whelpton, p.33
-[^ref19]: _Graphic_, Saturday 15 August 1908.
-[^ref20]: "An East Kent Novel: Meg of the Salt Pans." _Dover Express_, Friday 11 June 1909.
-[^ref21]: "New Novels by Kent Authoresses." _Kentish Express_ - Saturday 20 November 1909
-[^ref22]: _Dover Express_, Friday 11 June 1909.
-[^ref23]: Whelpton, p.262.
-[^ref24]: Bristow, Gemma. [May Aldington's Roll of Honour as a Sidelight on Death of a Hero](https://nclsn.wordpress.com/2018/08/20/may-aldingtons-roll-of-honour-as-a-sidelight-on-death-of-a-hero/)
-[^ref25]: Doyle, p.3.
-[^ref26]: Wills and Probate.
-[^ref27]: _Pall Mall Gazette_, Monday 30 January 1922.
-[^ref28]: Dover Express - Friday 17 November 1933
-[^ref29]: _Daily Mirror_, 15 March 1938.
-[^ref30]: Loan 96 RLF 1/3650/
-[^ref31]: p.246.
-[^ref32]: _Kentish Express_, Friday 29 July 1955
+[^ref13]: Doyle, p.3.
+[^ref14]: "From the Publishers." _Kentish Express_, Saturday 28 October 1905.
+[^ref15]: Doyle, p.3
+[^ref16]: Whelpton, p.24. 
+[^ref17]: Whelpton, p.25. 
+[^ref18]: Whelpton, p.25.
+[^ref19]: Whelpton, p.33
+[^ref20]: _Graphic_, Saturday 15 August 1908.
+[^ref21]: "An East Kent Novel: Meg of the Salt Pans." _Dover Express_, Friday 11 June 1909.
+[^ref22]: "New Novels by Kent Authoresses." _Kentish Express_ - Saturday 20 November 1909
+[^ref23]: _Dover Express_, Friday 11 June 1909.
+[^ref24]: Whelpton, p.262.
+[^ref25]: Bristow, Gemma. [May Aldington's Roll of Honour as a Sidelight on Death of a Hero](https://nclsn.wordpress.com/2018/08/20/may-aldingtons-roll-of-honour-as-a-sidelight-on-death-of-a-hero/)
+[^ref26]: Doyle, p.3.
+[^ref27]: Wills and Probate.
+[^ref28]: _Pall Mall Gazette_, Monday 30 January 1922.
+[^ref29]: Dover Express - Friday 17 November 1933
+[^ref30]: _Daily Mirror_, 15 March 1938.
+[^ref31]: Loan 96 RLF 1/3650/
+[^ref32]: p.246.
+[^ref33]: _Kentish Express_, Friday 29 July 1955
