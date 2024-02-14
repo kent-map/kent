@@ -24,7 +24,7 @@ When her parents and younger siblings moved to London, May remained with her two
 Moving to a large yellow brick house, no. 5, Godwyne Road, Dover, the Aldingtons lived a comfortable life, sending their son to Mr Sweetman’s Seminary for Young Gentlemen at St Margaret’s Bay, where he learned French and Latin, before attending Dover College. Richard remembers passing the 'sad housemaids' whitening the steps on his way to school.[^ref5]
 <br><br>
 Albert was a 'gentle studious docile man' with a library of around 2,000 books including Keats, Harrison Ainsworth, Sir Walter Scott and Oscar Wilde. He wrote two books, one of which was the _Queen’s Preferment_ published in 1896.[^ref6] In contrast, May was outgoing and energetic, enjoying golf, cycling and watching cricket.[^ref7] However, beneath this vitality was a tempestous nature;  her daughter Margery said: 'she flourished and thrived on a first class “row” at least once a week, but it shattered the rest of us'.[^ref8] 
-<param ve-map center="51.131121, 1.313484" zoom="15">
+<param ve-map center="51.131121, 1.313484">
 
 Albert, who was involved in the British Homes Assurance Company which allowed people to 'secure a roof over their heads free from landlord’s control', began buying and selling property,[^ref9] possibly with the involvement of May's brother[^ref10] and the family moved to Warwick Lodge, Walmer, a larger and more modern house.[^ref11] 
 <br><br>
