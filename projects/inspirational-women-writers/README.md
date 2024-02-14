@@ -5,6 +5,14 @@ As part of the Centre for Kent History and Heritage's celebration of inspiration
 # &nbsp; 
 <param class="cards">
 
+## May Aldington
+
+[May Aldington](/19c/19c-aldington-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
+
+May Aldington wrote _Meg of the Salt Pans_ set in a Kentish village near Sandport (Sandwich). She was praised for her 'excellent pen pictures of Kentish people — people that we seem to know without being able to actually recognise'.
+
 ## Jane Austen
 
 [Jane Austen](/19c/19c-austen-biography)
@@ -39,7 +47,7 @@ What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d h
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/33/%22The_New_Observatory%22_-_Royal_Observatory_Greenwich_ca_1900_%287890146566%29.jpg)
 
-Like her parents, Jessie contributed to the life of the church. She was a member of the church’s young ladies’ working party and in 1890, gave a talk to the parents of the Sunday School scholars on the best way to bring up children, which was later evidenced in her fiction, through her tales of Christian life. 
+A devout Christian, Jessie, who was born in Dover, wrote religious stories for children. Her first novel _Little Christopher's Cross_ was inspired by the hymn 'In Token That Thou Shalt Not Fear' written by Henry Alford, Dean of Canterbury.
 
 ## Edith Craig
 
@@ -58,6 +66,8 @@ Like her parents, Jessie contributed to the life of the church. She was a member
 ## S.C. Nethersole
 
 ## Baroness Orczy
+
+Known for driving her horses and wagonette wildly around the lanes of Thanet, Baroness Orczy, the author of the _Scarlet Pimpernel_ stories lived at Monkton and later Bearsted.
 
 ## Mary L. Pendered
 
