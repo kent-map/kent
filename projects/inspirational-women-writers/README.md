@@ -25,6 +25,8 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 
 [Elizabeth Bowen](/20c/20c-bowen-biography)
 
+'I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.’
+
 ## Elizabeth Burgess
 
 [Elizabeth Burgess](18c-burgess-biography)
@@ -49,21 +51,23 @@ What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d h
 
 A devout Christian, Jessie, who was born in Dover, wrote religious stories for children. Her first novel _Little Christopher's Cross_ was inspired by the hymn 'In Token That Thou Shalt Not Fear' written by Henry Alford, Dean of Canterbury.
 
-## Edith Craig
-
-[Edith Craig](20c-craig-biography)
-
 ## Dinah Craik
 
 [Dinah Craik](19c-craik-biography)
+
+Although Craik was not a native of Kent—born in Staffordshire, raised in London with an Irish father and with prolonged visits to Scotland to visit her family friends—Bromley was where she made her home from 1869 until she died on October 12th 1887.
 
 ## Sarah Grand
 
 [Sarah Grand](19c-grand-biography)
 
+Sarah Grand (Frances Elizabeth Bellenden Clarke), 'New Woman' writer, feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920.
+
 ## Cicely Hamilton
 
 [Cicely Hamilton](20c-hamilton-biography)
+
+Cicely Hamilton was a feminist actress, writer and playwright. She co-founded the Women Writers’ Suffrage League and was a vigorous campaigner for women’s suffrage.
 
 ## Victoria Holt
 
