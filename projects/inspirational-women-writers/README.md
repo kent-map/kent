@@ -119,6 +119,14 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 
 [Edith Katherine Spicer Jay](20c-spicer-jay-biography)
 
+## Christopher St John
+
+[Christopher St John](20c-stjohn-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Christopher_St_John.jpg)
+
+A prolific writer whose work covered biography, suffrage and avant garde plays, experiments in life writing, and over thirty years of journalism for British newspapers and magazines, including _The Lady_ and _Time and Tide_.
+
 ## Netta Syrett
 
 [Netta Syrett](20c-syrett-biography)
