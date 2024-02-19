@@ -137,9 +137,9 @@ Beltinge, converting a garage into a space for the soldiers. It was here that sh
 
 [Bertha Porter](19c-porter-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8)
 
-Biographer and bibliographer, Bertha Porter lived at Moyle Tower, Hythe.
+Biographer and bibliographer, Bertha Porter lived at Moyle Tower, Hythe. Developing an interest in psychical research, Porter assisted Gurney and Myers in their research for _Phantasms of the Living_.
 
 ## Ann Radcliffe
 
@@ -154,6 +154,8 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 [Vita Sackville-West](19c-sackville-west-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/8e/Hon_Mrs_Nicholson_cropped.jpg)
+
+Vita Sackville-West was a prolific and versatile writer - a celebrated poet (a candidate for the post of Poet Laureate in 1948) and author of fourteen novels, with those published in the 1930s proving both critically and commercially successful. 
 
 ## J.G. Sarasin
 
