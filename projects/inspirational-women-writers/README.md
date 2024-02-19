@@ -24,7 +24,7 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 
 [Elizabeth Bowen](/20c/20c-bowen-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/9deb9474-6a42-42db-834f-8c6be1ff275b)
 
 'I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.’
 
@@ -64,7 +64,7 @@ Although Craik was not a native of Kent—born in Staffordshire, raised in Londo
 
 [Sarah Grand](19c-grand-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f37d719d-5638-49d9-973f-bcfc0995e197)
 
 Sarah Grand (Frances Elizabeth Bellenden Clarke), 'New Woman' writer, feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920.
 
@@ -72,7 +72,7 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), 'New Woman' writer, feminist c
 
 [Cicely Hamilton](20c-hamilton-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/0c/Suffrage_theatricals%2C_performed_by_the_Actresses%27_Franchise_League%2C_c1909-1914.jpg)
 
 Cicely Hamilton was a feminist actress, writer and playwright. She co-founded the Women Writers’ Suffrage League and was a vigorous campaigner for women’s suffrage.
 
