@@ -56,7 +56,7 @@ A devout Christian, Jessie, who was born in Dover, wrote religious stories for c
 
 [Dinah Craik](19c-craik-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4a/Illustration_from_The_Little_Lame_Prince_and_His_Travelling_Cloak_by_Dinah_Maria_Mulock_illustrated_by_Hope_Dunlap_1909_17.jpg)
 
 Although Craik was not a native of Kent—born in Staffordshire, raised in London with an Irish father and with prolonged visits to Scotland to visit her family friends—Bromley was where she made her home from 1869 until she died on October 12th 1887.
 
@@ -129,6 +129,9 @@ Known for driving her horses and wagonette wildly around the lanes of Thanet, Ba
 [Mary L. Pendered](20c-pendered-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/32/Rustic_bridge_at_Beltinge_1913.jpg)
+
+Author of pastoral tales, Mary L. Pendered lived in Herne Bay during the First World War and ran a Soldier’s Club at 
+Beltinge, converting a garage into a space for the soldiers. It was here that she indulged her love of entertaining. Singing around the piano became a nightly event, with coffee and biscuits served to the men.
 
 ## Bertha Porter
 
