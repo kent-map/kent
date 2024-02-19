@@ -128,13 +128,15 @@ Known for driving her horses and wagonette wildly around the lanes of Thanet, Ba
 
 [Mary L. Pendered](20c-pendered-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/32/Rustic_bridge_at_Beltinge_1913.jpg)
 
 ## Bertha Porter
 
 [Bertha Porter](19c-porter-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
+Biographer and bibliographer, Bertha Porter lived at Moyle Tower, Hythe.
 
 ## Ann Radcliffe
 
