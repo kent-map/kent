@@ -2,7 +2,7 @@
 
 .ve-header label="Kent Maps Online" background=gh:kent-map/images/Kent_Maps.jpg contact=ron.snyder@ithaka.org search-domain=kent-maps.online search-cx=568011e472c1ffe27 search-key=565e6d76446e5654542e205672444f6d247e4070444756707e5c7226415b67735176617e425a70 sticky
 
-This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists.
+Kent Maps Online is an interactive Digital Humanities project exploring the county's rich heritage, using multi-disciplinary lenses to research and present historic, literary and geographical records. Travel through the site and find answers to questions you haven’t even thought of yet.
 
 # Featured essays 
 <param class="cards">
