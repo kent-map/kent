@@ -106,7 +106,7 @@ Romance novelist Frances Frederica (Freda) Montrésor was born at Walmer on 23 S
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
 
-Edith Nesbit has close links to Kent. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. It was there that she began writing poetry, and she was living there when her work was published for the first time. 
+Edith Nesbit has close links to Kent. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District. It was there that she began writing poetry, and she was living there when her work was published for the first time. 
 
 ## S.C. Nethersole
 
