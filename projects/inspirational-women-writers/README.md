@@ -86,7 +86,7 @@ Cicely Hamilton was a feminist actress, writer and playwright. She co-founded th
 
 [Bessie Marchant](20c-marchant-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e4695031-8e15-4353-8dda-d963f4faffe2)
 
 Bessie Marchant was born at Debden Court Farm, Petham, Canterbury on 12 December 1862. Her novel _Yuppie_ is set in the world of ‘Bodsam Green’, a fictional reworking of Bodsham Green (near Ashford) and is inspired by her own childhood.
 
