@@ -114,6 +114,8 @@ Edith Nesbit has close links to Kent. In childhood and adolescence, she spent fo
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
+Susie Colyer Nethersole, author of rural fiction, was born on the 14 May 1869 at Goodnestone. Nethersole’s stories are set in the rural communities that her family would have known and are rich with local folklore and tradition.
+
 ## Baroness Orczy
 
 [Baroness Orczy](20c-orczy-biography)
