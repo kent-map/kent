@@ -150,7 +150,7 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 
 [Vita Sackville-West](19c-sackville-west-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/8e/Hon_Mrs_Nicholson_cropped.jpg)
 
 ## J.G. Sarasin
 
