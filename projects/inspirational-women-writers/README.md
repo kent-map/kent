@@ -24,6 +24,8 @@ Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visit
 
 [Elizabeth Bowen](/20c/20c-bowen-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
 'I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.’
 
 ## Elizabeth Burgess
@@ -54,11 +56,15 @@ A devout Christian, Jessie, who was born in Dover, wrote religious stories for c
 
 [Dinah Craik](19c-craik-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
 Although Craik was not a native of Kent—born in Staffordshire, raised in London with an Irish father and with prolonged visits to Scotland to visit her family friends—Bromley was where she made her home from 1869 until she died on October 12th 1887.
 
 ## Sarah Grand
 
 [Sarah Grand](19c-grand-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
 Sarah Grand (Frances Elizabeth Bellenden Clarke), 'New Woman' writer, feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920.
 
@@ -66,15 +72,21 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), 'New Woman' writer, feminist c
 
 [Cicely Hamilton](20c-hamilton-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
 Cicely Hamilton was a feminist actress, writer and playwright. She co-founded the Women Writers’ Suffrage League and was a vigorous campaigner for women’s suffrage.
 
 ## Victoria Holt
 
 [Victoria Holt](20c-hamilton-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
 ## Bessie Marchant
 
 [Bessie Marchant](20c-marchant-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
 Bessie Marchant was born at Debden Court Farm, Petham, Canterbury on 12 December 1862. Her novel _Yuppie_ is set in the world of ‘Bodsam Green’, a fictional reworking of Bodsham Green (near Ashford) and is inspired by her own childhood.
 
@@ -90,13 +102,19 @@ Romance novelist Frances Frederica (Freda) Montrésor was born at Walmer on 23 S
 
 [Edith Nesbit](19c-nesbit-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
 ## S.C. Nethersole
 
 [S.C. Nethersole](19c-nethersole-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
 ## Baroness Orczy
 
 [Baroness Orczy](20c-orczy-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
 Known for driving her horses and wagonette wildly around the lanes of Thanet, Baroness Orczy, the author of the _Scarlet Pimpernel_ stories lived at Monkton and later Bearsted.
 
@@ -104,9 +122,13 @@ Known for driving her horses and wagonette wildly around the lanes of Thanet, Ba
 
 [Mary L. Pendered](20c-pendered-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
 ## Bertha Porter
 
 [Bertha Porter](19c-porter-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
 ## Ann Radcliffe
 
@@ -120,13 +142,23 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 
 [Vita Sackville-West](19c-sackville-west-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
 ## J.G. Sarasin
 
 [J.G. Sarasin](20c-sarasin-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
+J.G. Sarasin, a popular historical fiction writer of the 1920s-1960s, lived in Canterbury and Harbledown for much of her career. She wrote 45 novels including _The Mystery of Martin Guerre_.
+
 ## Edith Katherine Spicer Jay
 
 [Edith Katherine Spicer Jay](20c-spicer-jay-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c)
+
+Edith Katherine Spicer Jay, a writer of popular military tales, lived in Sandgate during the last ten years of her life. Her novels, which involved plots of military men ‘made good’ were shared among the soldiers at Shorncliffe Barracks who enjoyed her ‘realistic study of military life’. Her house was a home from home for the 'Cavalry Circle', where she offered ‘smokes’ and refreshments.
 
 ## Christopher St John
 
@@ -140,13 +172,24 @@ A prolific writer whose work covered biography, suffrage and avant garde plays, 
 
 [Netta Syrett](20c-syrett-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f2dcce65-b0c3-44dc-827c-0de01b607a2b)
+
+Best known for _Portrait of a Rebel_ (1929) which was made into the 1936 Katherine Hepburn film _A Woman Rebels_, writer and playwright Netta Syrett was born at 23, 
+Harbour Street, Ramsgate in 1865.
+
 ## Mary Tourtel
 
 [Mary Tourtel](20c-tourtel-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
 ## Elizabeth Von Arnim 
 
 [Elizabeth Von Arnim](20c-von-arnim-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
+Published in 1909, Elizabeth von Arnim’s comic novel _The Caravaners_ is a loving depiction of holiday disaster. The real holiday on which it is based took place in the wet summer of 1907. The itinerary included Chatham, Leeds Castle, Sandgate, Great Chart, Staplehurst, Sissinghurst, Aylesford and Canterbury as well as parts of Sussex.
 
 ## Florence Warden (1857–1929) 
 
@@ -166,3 +209,7 @@ Forced to leave her finishing school in Brighton, with her sister, Gertrude soug
 ## Pamela Wynne
 
 [Pamela Wynne](/20c/20c-wynne-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f661c7c4-3d56-4982-a6ec-eeb20c3cff69)
+
+Set in the years after WW1, Pamela Wynne’s _Love in a Mist_ gives a picture of Margate as it appears to a range of observers, from a shell-shocked author who is sent there to recover his mental balance to his taciturn servant, who remembers his childhood holidays in the town. 
