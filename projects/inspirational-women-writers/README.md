@@ -112,7 +112,7 @@ Edith Nesbit has close links to Kent. In childhood and adolescence, she spent fo
 
 [S.C. Nethersole](19c-nethersole-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d2965a31-40d3-4adf-b404-3edce096f551)
 
 Susie Colyer Nethersole, author of rural fiction, was born on the 14 May 1869 at Goodnestone. Nethersole’s stories are set in the rural communities that her family would have known and are rich with local folklore and tradition.
 
