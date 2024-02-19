@@ -106,7 +106,7 @@ Romance novelist Frances Frederica (Freda) Montrésor was born at Walmer on 23 S
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
 
-Edith Nesbit has close links to Kent. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. It was there that she began writing poetry, and she was living there when her work was published for the first time. 
+Edith Nesbit has close links to Kent. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District. It was there that she began writing poetry, and she was living there when her work was published for the first time. 
 
 ## S.C. Nethersole
 
@@ -184,12 +184,6 @@ A prolific writer whose work covered biography, suffrage and avant garde plays, 
 
 Best known for _Portrait of a Rebel_ (1929) which was made into the 1936 Katherine Hepburn film _A Woman Rebels_, writer and playwright Netta Syrett was born at 23, 
 Harbour Street, Ramsgate in 1865.
-
-## Mary Tourtel
-
-[Mary Tourtel](20c-tourtel-biography)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
 ## Elizabeth Von Arnim 
 
