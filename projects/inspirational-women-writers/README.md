@@ -120,7 +120,7 @@ Susie Colyer Nethersole, author of rural fiction, was born on the 14 May 1869 at
 
 [Baroness Orczy](20c-orczy-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/87/Baroness_Emma_Orczy_by_Bassano.jpg)
 
 Known for driving her horses and wagonette wildly around the lanes of Thanet, Baroness Orczy, the author of the _Scarlet Pimpernel_ stories lived at Monkton and later Bearsted.
 
@@ -128,13 +128,15 @@ Known for driving her horses and wagonette wildly around the lanes of Thanet, Ba
 
 [Mary L. Pendered](20c-pendered-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/32/Rustic_bridge_at_Beltinge_1913.jpg)
 
 ## Bertha Porter
 
 [Bertha Porter](19c-porter-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+
+Biographer and bibliographer, Bertha Porter lived at Moyle Tower, Hythe.
 
 ## Ann Radcliffe
 
@@ -148,7 +150,7 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 
 [Vita Sackville-West](19c-sackville-west-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/8e/Hon_Mrs_Nicholson_cropped.jpg)
 
 ## J.G. Sarasin
 
