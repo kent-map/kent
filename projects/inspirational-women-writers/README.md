@@ -80,7 +80,9 @@ Cicely Hamilton was a feminist actress, writer and playwright. She co-founded th
 
 [Victoria Holt](20c-hamilton-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f)
+
+Victoria Holt was a prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense. Her novel _The Shivering Sands_ (1969), is set near the Goodwin Sands. 
 
 ## Bessie Marchant
 
@@ -102,7 +104,9 @@ Romance novelist Frances Frederica (Freda) Montrésor was born at Walmer on 23 S
 
 [Edith Nesbit](19c-nesbit-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
+
+Edith Nesbit has close links to Kent. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. It was there that she began writing poetry, and she was living there when her work was published for the first time. 
 
 ## S.C. Nethersole
 
