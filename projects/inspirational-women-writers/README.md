@@ -185,12 +185,6 @@ A prolific writer whose work covered biography, suffrage and avant garde plays, 
 Best known for _Portrait of a Rebel_ (1929) which was made into the 1936 Katherine Hepburn film _A Woman Rebels_, writer and playwright Netta Syrett was born at 23, 
 Harbour Street, Ramsgate in 1865.
 
-## Mary Tourtel
-
-[Mary Tourtel](20c-tourtel-biography)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
-
 ## Elizabeth Von Arnim 
 
 [Elizabeth Von Arnim](20c-von-arnim-biography)
