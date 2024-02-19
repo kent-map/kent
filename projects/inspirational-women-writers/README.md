@@ -76,6 +76,16 @@ Cicely Hamilton was a feminist actress, writer and playwright. She co-founded th
 
 [Bessie Marchant](20c-marchant-biography)
 
+Bessie Marchant was born at Debden Court Farm, Petham, Canterbury on 12 December 1862. Her novel _Yuppie_ is set in the world of ‘Bodsam Green’, a fictional reworking of Bodsham Green (near Ashford) and is inspired by her own childhood.
+
+## F.F. Montresor
+
+[F.F. Montresor](19c-montresor-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/afea106c-9a40-41cc-beb1-09c446c3af2a)
+
+Romance novelist Frances Frederica (Freda) Montrésor was born at Walmer on 23 September 1862. Her first novel _Into the Highways and Hedges_ is set in Dover where  nursery-maids, children, Punch and Judy shows, minstrels, gooseberry sellers, beggars, women with false lace and a Methody preacher all rub shoulders on the beach.
+
 ## Edith Nesbit
 
 [Edith Nesbit](19c-nesbit-biography)
