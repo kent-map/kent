@@ -161,7 +161,7 @@ Vita Sackville-West was a prolific and versatile writer - a celebrated poet (a c
 
 [J.G. Sarasin](20c-sarasin-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f7f77d64-c2cc-428e-a73f-c954aa757393)
 
 J.G. Sarasin, a popular historical fiction writer of the 1920s-1960s, lived in Canterbury and Harbledown for much of her career. She wrote 45 novels including _The Mystery of Martin Guerre_.
 
