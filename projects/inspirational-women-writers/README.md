@@ -194,7 +194,7 @@ Harbour Street, Ramsgate in 1865.
 
 [Elizabeth Von Arnim](20c-von-arnim-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/94/Suffolk_Reading_Wagon_1887.jpg)
 
 Published in 1909, Elizabeth von Arnim’s comic novel _The Caravaners_ is a loving depiction of holiday disaster. The real holiday on which it is based took place in the wet summer of 1907. The itinerary included Chatham, Leeds Castle, Sandgate, Great Chart, Staplehurst, Sissinghurst, Aylesford and Canterbury as well as parts of Sussex.
 
