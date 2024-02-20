@@ -29,6 +29,7 @@ https://www.kent-maps.online/18c/18c-radcliffe-biography/
 https://www.kent-maps.online/18c/18c-ramsgate-summer/
 https://www.kent-maps.online/18c/18c-shadwell-biography/
 https://www.kent-maps.online/19c/
+https://www.kent-maps.online/19c/19c-aldington-biography/
 https://www.kent-maps.online/19c/19c-atkins-biography/
 https://www.kent-maps.online/19c/19c-austen-biography/
 https://www.kent-maps.online/19c/19c-austin-biography/
@@ -91,6 +92,7 @@ https://www.kent-maps.online/19c/19c-margate/
 https://www.kent-maps.online/19c/19c-meredith-biography/
 https://www.kent-maps.online/19c/19c-moberly-biography/
 https://www.kent-maps.online/19c/19c-montresor-biography/
+https://www.kent-maps.online/19c/19c-northcliffe-biography/
 https://www.kent-maps.online/19c/19c-price-hughes-biography/
 https://www.kent-maps.online/19c/19c-pugin-biography/
 https://www.kent-maps.online/19c/19c-pyke-biography/
@@ -339,7 +341,8 @@ https://www.kent-maps.online/placesqz/wateringbury-overview/
 https://www.kent-maps.online/placesqz/whitstable-overview/
 https://www.kent-maps.online/poetry/
 https://www.kent-maps.online/prisons/
-https://www.kent-maps.online/prisons/convict-hulks
+https://www.kent-maps.online/prisons/convict-hulks/
+https://www.kent-maps.online/projects/inspirational-women-writers/
 https://www.kent-maps.online/reading/19c-recommended-reading/
 https://www.kent-maps.online/reading/20c-recommended-reading/
 https://www.kent-maps.online/religion/
