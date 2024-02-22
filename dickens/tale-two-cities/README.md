@@ -73,3 +73,6 @@ Whyman, John. _Kentish Sources: The Early Kentish Seaside_. 1985. Kent Archives 
 [^ref12]: (Birmingham, 1853).    
 [^ref13]: (Storey, G. and Fielding, K.J., 42).    
 [^ref14]: (Jones, McDonagh, and Mee, 2009).    
+
+
+Find more open access articles associated with _A Tale of Two Cities_ through the JSTOR Understanding series [here](https://www.jstor.org/understand/work/tale-of-two-cities).
