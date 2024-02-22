@@ -41,3 +41,4 @@ Images taken from the _Victorian Web_. Permission to reproduce for scholarly or 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Mr_Pickwick_1889_Dickens_The_Pickwick_Papers_character_by_Kyd_%28Joseph_Clayton_Clarke%29.jpg" label="Mr Pickwick, 1889" attribution="Kyd (Joseph Clayton Clarke), Public domain, via Wikimedia Commons">
 
 
+Find more open access articles associated with _The Pickwick Papers_ through the JSTOR Understanding series [here](https://www.jstor.org/understand/work/pickwick-papers).
