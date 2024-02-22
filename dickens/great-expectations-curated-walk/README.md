@@ -88,3 +88,6 @@ This curated walk is also available as a [video](https://www.youtube.com/watch?v
 [^ref2]: http://www.literaturepage.com/read/greatexpectations-273.html
 [^ref3]: http://www.literaturepage.com/read/greatexpectations-490.html
 Magwitch is tried under the [Bloody Code](/18c/18c-bloody-code)
+
+
+Find more open access articles associated with _Great Expectations_ through the JSTOR Understanding series [here](https://www.jstor.org/understand/work/great-expectations).
