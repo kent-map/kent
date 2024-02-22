@@ -77,6 +77,8 @@ Towards the end of the novel the Micawbers will anticipate Pip’s journey downr
 Only once, in a desperate bid to avoid a tête á tête with Uriah, does David strike out in a new direction on the [Ramsgate](/19c/19c-ramsgate) road. His failure to reference Thanet seems peculiar given its accessibility from [Canterbury](/dickens/david-copperfield-canterbury) and [Dickens](/dickens/dickens-biography)’s own love of the sea – indeed parts of the novel were written in [Fort House](dickens-fort-house) in [Broadstairs](/dickens/broadstairs). But beyond the pages of the novel itself David is keeping another secret – while his donkey-loathing aunt ostensibly lives in [Dover](/dickens/dickens-dover), the inspiration for her cottage is to be found in [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place) (now the [Dickens House Museum](https://www.visitkent.co.uk/attractions/dickens-house-museum-1999/)) in 
 [Broadstairs](/dickens/broadstairs). If David ultimately succeeds in working out where home is, this is not a secret he is prepared to share with the reader.
 
+Find more open access articles associated with David Copperfield_ through the JSTOR Understanding series [here](https://www.jstor.org/understand/work/david-copperfield).
+
 ### References
 
 [^ref1]: https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm
