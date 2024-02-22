@@ -50,4 +50,4 @@ The circumstances surrounding Amy’s death remain a mystery to this day. Variou
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/20/Amy_Johnson%2C_Herne_Bay_-_geograph.org.uk_-_5262914.jpg" label="Amy Johnson, Herne Bay" attribution="pam fray, via Wikimedia Commons" license="CC BY-SA 2.0">
   
 Amy Johnson was one of the world’s greatest female pilots. Her Australia flight remains one of the most outstanding solo achievements of all time and she helped pave the way for women in aviation and engineering worldwide.
-<param ve-image url="https://stor.artstor.org/stor/be27c5c0-67ad-4984-a151-09f2b60d59e0" label="The Amy Johnson Project" attribution="Jane Priston">
+<param ve-image url="https://stor.artstor.org/stor/be27c5c0-67ad-4984-a151-09f2b60d59e0" label="The Amy Johnson Project" attribution="Jane Delamaine">
