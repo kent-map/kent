@@ -55,3 +55,6 @@ Inspired to go looking for the missing Edwin? You may enjoy this [Rochester walk
 See also [Mobile Landscapes]( https://kent-maps.online/dickens/mobile-landscapes)
 <param ve-image url="https://stor.artstor.org/stor/cc1b9669-0996-475c-bba2-692467a50043" label="Dickens' Rochester/Chatham" attribution="By kind permission of David Perdue">
 <param ve-map center="Q26377461" zoom="14">
+
+
+Find more open access articles associated with _The Mystery of Edwin Drood_ through the JSTOR Understanding series [here](https://www.jstor.org/understand/work/edwin-drood)
