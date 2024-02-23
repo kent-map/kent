@@ -21,7 +21,7 @@ She was referring to the extension of the Act that summer which increased the pe
 Butler established the Ladies National Association for the Repeal of the Contagious Diseases Acts and published _An Appeal to the People of England_, by "an English Mother," early in 1870. She argued that hospital admissions should be on a voluntary basis and that prostitutes should be examined by women doctors.  She began a nationwide campaign to repeal the act, giving talks in towns and cities up and down the country. By the middle of June, Butler had travelled 3700 miles campaigning against the Acts.  
 
 
-Butler was invited by Wesleyan minister, Reverend Hugh Price Hughes and local [councillor?] Rowland Rees to speak at a public meeting in Dover in the Spring of 1870.
+Butler was invited by Wesleyan minister, Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography/) and Councillor Rowland Rees to speak at a public meeting in Dover in the Spring of 1870.
 
 ### References
 
