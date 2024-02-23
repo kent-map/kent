@@ -15,13 +15,13 @@ Gravesend
 
 Feminist and social reformer, Josephine Butler (1828-1906) visited Kent in the Spring of 1870. She was on a country-wide tour to campaign against the [Contagious Diseases Act](/19c/19c-contagious-diseases).
 <br><br>
-The Act which had been passed 'for the prevention of contagious diseases at certain naval and military stations' in 1864 was the first of four acts. It gave the police powers to arrest women suspected of being prostitutes and subject them to physical examinations for venereal disease. The women were then sent to lock hospitals until they were cured. The Act was in force in Sheerness, Chatham, Shorncliffe, Dover, [Canterbury](/19c/19c-canterbury), Deal, Maidstone and [Gravesend](/19c/19c-gravesend/). It came under criticism as men were not subject to the same inspections.  
+The Act which had been passed 'for the prevention of contagious diseases at certain naval and military stations' in 1864 was the first of four acts. It gave the police powers to arrest women suspected of being prostitutes and subject them to physical examinations for venereal disease. The women were then sent to lock hospitals until they were cured. The Act was in force in the Ketnish towns of Sheerness, Chatham and Shorncliffe. It came under criticism as men were not subject to the same inspections.  
 
 Butler recalls in her memoir:
 <br><br>
 'It was on landing at Dover from our delightful summer tour in-1869, that we first learned that a small clique in Parliament had been too successfully busy over this work of darkness during the hot August days, or rather nights, in a thin House, in which most of those present were but vaguely cognisant of the meaning and purpose of the proposed constitutional change'.[^ref1]
 <br><br>
-She was referring to the extension of the Act that summer which increased the period of detention in the lock hospitals from 6 months to 9 months.[^ref2]
+She was referring to the extension of the Act that summer which increased the period of detention in the lock hospitals from 6 months to 9 months.[^ref2] It also extended the act to [Canterbury](/19c/19c-canterbury), Dover, [Gravesend](/19c/19c-gravesend/) and Maidstone.
 
 Butler established the Ladies National Association for the Repeal of the Contagious Diseases Acts and published _An Appeal to the People of England_, by 'an English Mother', early in 1870. She argued that hospital admissions should be on a voluntary basis and that prostitutes should be examined by women doctors.  She began a nationwide campaign to repeal the act, giving talks in towns and cities up and down the country, including Chatham, Whitstable and Canterbury. By the middle of June, Butler had travelled 3700 miles campaigning against the Acts.[^ref3]  
 
@@ -31,9 +31,9 @@ Continuing in her campaign, Butler spoke at the Corn Exchange, Maidstone, at the
 <br><br>
 Butler continued to campaign until the Act was finally repealed in 1886.
 
-Butler remained friendly with the Rees family with whom she had stayed at Sutrana House on the Folkestone Road during her visit of 1870. A letter written to Rees's daughter Elizabeth in July 1902 is contained in the Dover Methodist Scrapbook. ELizabeth, was the mother of Margery Grace Blackie who was appointed as the first woman royal physician to Queen Elizabeth II. 
+A letter from Josephine Butler written in July 1902 is contained in the Dover Methodist Scrapbook. In it she talks of the 'immense evils of present times' 
 
-Note: Rowland Rees's daughter Kathleen was the mother of Ivy Compton-Burnett.
+
 
 ### References
 
