@@ -1,9 +1,14 @@
-Josephine Butler and the Contagious Diseases Acts
+<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+
+<param ve-config title="Josephine Butler" author="Michelle Crowther" layout="vtl" 
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+
+<param ve-entity eid="Q179224" aliases="Dover">
 
 Sheerness
 Chatham
 Shorncliffe
-Dover
+
 Deal
 Maidstone
 Gravesend
@@ -18,13 +23,15 @@ Butler recalls in her memoir:
 <br><br>
 She was referring to the extension of the Act that summer which increased the period of detention in the lock hospitals from 6 months to 9 months.[^ref2]
 
-Butler established the Ladies National Association for the Repeal of the Contagious Diseases Acts and published _An Appeal to the People of England_, by "an English Mother," early in 1870. She argued that hospital admissions should be on a voluntary basis and that prostitutes should be examined by women doctors.  She began a nationwide campaign to repeal the act, giving talks in towns and cities up and down the country. By the middle of June, Butler had travelled 3700 miles campaigning against the Acts.  
+Butler established the Ladies National Association for the Repeal of the Contagious Diseases Acts and published _An Appeal to the People of England_, by 'an English Mother', early in 1870. She argued that hospital admissions should be on a voluntary basis and that prostitutes should be examined by women doctors.  She began a nationwide campaign to repeal the act, giving talks in towns and cities up and down the country. By the middle of June, Butler had travelled 3700 miles campaigning against the Acts.[^ref3]  
 
-
-Butler was invited by Wesleyan minister, Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography/) and Councillor Rowland Rees to speak at a public meeting in Dover in the Spring of 1870.
+In the Spring of 1870, Butler was invited by Wesleyan minister, Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography/) and Councillor Rowland Rees to speak at a public meeting in Dover. She spoke for an hour to a mixed assembly of men and women on the theme of 'the poor and outcast women at the hands of immoral men'.[^ref4] Her talk received a mixed reception as some audience members felt it was inappropriate for a woman to speak about the topic 'in all its nauseating detail' in front of men.[^ref5] The _Dover Express_ praised Hughes as a 'highly talented speaker' but branded Butler 'a screamer'.[^ref6]
 
 ### References
 
-[^ref1]: p.96
-[^ref2]: Prochalska, F. K. _Women and Philanthropy in 19th century England_, OUP, 1980, p.205.
-
+[^ref1]: Butler, Josephine. _An Autobiographical Memoir_, p.96
+[^ref2]: Prochalska, F. K. _Women and Philanthropy in 19th Century England_, OUP, 1980, p.205.
+[^ref3]: Butler, Josephine. _An Autobiographical Memoir_, p.99.
+[^ref4]: _The Dover Express_ April 1870.
+[^ref5]: _The Dover Express_ April 1870.
+[^ref6]: _The Dover Express_ April 1870.
