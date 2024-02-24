@@ -27,11 +27,11 @@ In the Spring of 1870, Butler was invited by Wesleyan minister, Reverend [Hugh P
 
 Continuing in her campaign, Butler spoke at the Corn Exchange, Maidstone, at the end of April with Annie Young and Mrs Bottomley to a women-only meeting.[^ref7] By May, Butler was reported as having told the Home Secretary that 'she had visited the garrison towns of Kent, and could assert that the grossest and most indecent outrages on women were practiced under the operation of these new laws, and the excitement in consequence was dangerous to the peace'.[^ref8]
 <br><br>
-Butler continued to campaign until the Act was finally repealed in 1886.
+Butler continued to campaign until the Act was finally repealed in 1886. However, as the practice of forced examinations continued in India Butler renewed her campaign, determined that no woman should suffer. 
 
-A letter from Josephine Butler written in July 1902 is contained in the Dover Methodist Scrapbook. In it she talks of the 'immense evils of present times' but argues that she cannot believe that 'our people and nation are rushing to destruction'. She expresses her respect for the memory of Rowland Rees, with whom she had stayed during her visit of 1870, and who had died earlier that month.[^ref9] Butler died four years later
+A letter from Josephine Butler written in July 1902 is contained in the Dover Methodist Scrapbook. Written two months after the end of the Second Boer War, a military campaign she had supported in her publication _Native Races and the War_ (1900), she writes of the 'immense evils of present times' but argues that she cannot believe that 'our people and nation are rushing to destruction'. She expresses her respect for the memory of Rowland Rees, with whom she had stayed during her visit of 1870, and who had died earlier that month.[^ref9] Butler died four years later on the 30 December 1906 at Kirknewton, Northumberland.
 <br><br>
-Centenary services to commemorate the life of Josephine Butler were held all over the country in 1928.
+Centenary services to commemorate the life of Josephine Butler were held in 1928, of which one took place at Rochester Cathedral.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Poster_-_Josephine_Butler_Centenary._A_special_service_of_commemoration%2C_1928._%2822893825576%29.jpg" label="Josephine Butler Centenary, LSE Library, No restrictions, via Wikimedia Commons">
 
 ### References
