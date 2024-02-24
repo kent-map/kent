@@ -29,7 +29,10 @@ Continuing in her campaign, Butler spoke at the Corn Exchange, Maidstone, at the
 <br><br>
 Butler continued to campaign until the Act was finally repealed in 1886.
 
-A letter from Josephine Butler written in July 1902 is contained in the Dover Methodist Scrapbook. In it she talks of the 'immense evils of present times' but argues that she cannot believe that 'our people and nation are rushing to destruction'. She expresses her respect for the memory of Rowland Rees, with whom she had stayed during her visit of 1870, and who had died earlier that month.[^ref9]
+A letter from Josephine Butler written in July 1902 is contained in the Dover Methodist Scrapbook. In it she talks of the 'immense evils of present times' but argues that she cannot believe that 'our people and nation are rushing to destruction'. She expresses her respect for the memory of Rowland Rees, with whom she had stayed during her visit of 1870, and who had died earlier that month.[^ref9] Butler died four years later
+<br><br>
+Centenary services to commemorate the life of Josephine Butler were held all over the country in 1928.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Poster_-_Josephine_Butler_Centenary._A_special_service_of_commemoration%2C_1928._%2822893825576%29.jpg" label="Josephine Butler Centenary, LSE Library, No restrictions, via Wikimedia Commons">
 
 ### References
 
