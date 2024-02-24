@@ -9,6 +9,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q964785" aliases="Whitstable">
 <param ve-entity eid="Q1006232" aliases="Woolwich">
+<param ve-entity eid="Q507517" aliases="Rochester">
 
 Feminist and social reformer, Josephine Butler (1828-1906) visited Kent in the Spring of 1870. She was on a country-wide tour to campaign against the [Contagious Diseases Act](/19c/19c-contagious-diseases).
 <br><br>
