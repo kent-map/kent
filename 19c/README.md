@@ -28,6 +28,7 @@
 [Angela Burdett-Coutts](19c-burdett-coutts-biography)   
 [William Burges](19c-burges-biography)   
 [F. C. Burnand](19c-burnand-biography)  
+[Josephine Butler](19c-butler-biography)   
 [Jane Carlyle and Geraldine Jewsbury](19c-carlyle-biography)   
 [Charles Carrick](19c-carrick-biography)   
 [Jessie Challacombe](19c-challacombe-biography)   
