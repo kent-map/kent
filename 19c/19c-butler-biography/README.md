@@ -3,26 +3,22 @@
 <param ve-config title="Josephine Butler" author="Michelle Crowther" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
-<param ve-entity eid="Q179224" aliases="Dover">
-
-Sheerness
-Chatham
-Shorncliffe
-
-Deal
-Maidstone
-Gravesend
+<param ve-entity eid="Q16900107" aliases="Shorncliffe">
+<param ve-entity eid="Q213180" aliases="Maidstone">
+<param ve-entity eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q1003196" aliases="Sheerness">
+<param ve-entity eid="Q964785" aliases="Whitstable">
 
 Feminist and social reformer, Josephine Butler (1828-1906) visited Kent in the Spring of 1870. She was on a country-wide tour to campaign against the [Contagious Diseases Act](/19c/19c-contagious-diseases).
 <br><br>
-The Act which had been passed 'for the prevention of contagious diseases at certain naval and military stations' in 1864 was the first of four acts. It gave the police powers to arrest women suspected of being prostitutes and subject them to physical examinations for venereal disease. The women were then sent to lock hospitals until they were cured. The Act was in force in the Ketnish towns of Sheerness, Chatham and Shorncliffe. It came under criticism as men were not subject to the same inspections.  
+The Act which had been passed 'for the prevention of contagious diseases at certain naval and military stations' in 1864 was the first of four acts. It gave the police powers to arrest women suspected of being prostitutes and subject them to physical examinations for venereal disease. The women were then sent to lock hospitals until they were cured. The Act was in force in the Kentish towns of Sheerness, [Chatham](19c/19c-chatham-dockyard/) and Shorncliffe. It came under criticism as men were not subject to the same inspections.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Josephine_Butler_bust_%2826484385992%29.jpg" label="Josephine Butler, LSE Library, No restrictions, via Wikimedia Commons">
 
 Butler recalls in her memoir:
 <br><br>
 'It was on landing at Dover from our delightful summer tour in-1869, that we first learned that a small clique in Parliament had been too successfully busy over this work of darkness during the hot August days, or rather nights, in a thin House, in which most of those present were but vaguely cognisant of the meaning and purpose of the proposed constitutional change'.[^ref1]
 <br><br>
-She was referring to the extension of the Act that summer which increased the period of detention in the lock hospitals from 6 months to 9 months.[^ref2] It also extended the act to [Canterbury](/19c/19c-canterbury), Dover, [Gravesend](/19c/19c-gravesend/) and Maidstone.
+She was referring to the extension of the Act that summer which increased the period of detention in the lock hospitals from 6 months to 9 months.[^ref2] It also extended the act to [Canterbury](/19c/19c-canterbury), [Dover](/19c/19c-dover/), [Gravesend](/19c/19c-gravesend/) and Maidstone.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/Vilhelm_Bille_-_Sejlb%C3%A5de_ud_for_Dovers_kyst.png" label="Dover by Vilhelm Bille c. 1882-1908">
 
 Butler established the Ladies National Association for the Repeal of the Contagious Diseases Acts and published _An Appeal to the People of England_, by 'an English Mother', early in 1870. She argued that hospital admissions should be on a voluntary basis and that prostitutes should be examined by women doctors.  She began a nationwide campaign to repeal the act, giving talks in towns and cities up and down the country, including Chatham, Whitstable and Canterbury. By the middle of June, Butler had travelled 3700 miles campaigning against the Acts.[^ref3]  
