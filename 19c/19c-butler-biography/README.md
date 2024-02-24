@@ -8,10 +8,11 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q964785" aliases="Whitstable">
+<param ve-entity eid="Q1006232" aliases="Woolwich">
 
 Feminist and social reformer, Josephine Butler (1828-1906) visited Kent in the Spring of 1870. She was on a country-wide tour to campaign against the [Contagious Diseases Act](/19c/19c-contagious-diseases).
 <br><br>
-The Act which had been passed 'for the prevention of contagious diseases at certain naval and military stations' in 1864 was the first of four acts. It gave the police powers to arrest women suspected of being prostitutes and subject them to physical examinations for venereal disease. The women were then sent to lock hospitals until they were cured. The Act was in force in the Kentish towns of Sheerness, [Chatham](19c/19c-chatham-dockyard/) and Shorncliffe. It came under criticism as men were not subject to the same inspections.  
+The Act which had been passed 'for the prevention of contagious diseases at certain naval and military stations' in 1864 was the first of four acts. It gave the police powers to arrest women suspected of being prostitutes and subject them to physical examinations for venereal disease. The women were then sent to lock hospitals until they were cured. The Act was in force in the Kentish towns of Woolwich, Sheerness, [Chatham](19c/19c-chatham-dockyard/) and Shorncliffe. It came under criticism as men were not subject to the same inspections.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Josephine_Butler_bust_%2826484385992%29.jpg" label="Josephine Butler, LSE Library, No restrictions, via Wikimedia Commons">
 
 Butler recalls in her memoir:
