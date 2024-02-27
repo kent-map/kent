@@ -10,7 +10,7 @@ As part of the Centre for Kent History and Heritage's celebration of inspiration
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
 
-May Aldington wrote _Meg of the Salt Pans_ set in a Kentish village near Sandport (Sandwich). She was praised for her 'excellent pen pictures of Kentish people — people that we seem to know without being able to actually recognise'.
+May Aldington wrote _Meg of the Salt Pans_ set in a Kentish village near Sandport (Sandwich). The book draws on her own experiences living at the _Bell and Anchor_ in Sandwich. May was praised for her 'excellent pen pictures of Kentish people — people that we seem to know without being able to actually recognise'.
 
 ## Jane Austen
 
