@@ -110,7 +110,7 @@ Edith Nesbit has close links to Kent. In childhood and adolescence, she spent fo
 
 ## S.C. Nethersole
 
-[S.C. Nethersole](/19c/19c-nethersole-biography)
+[S.C. Nethersole](/20c/20c-nethersole-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d2965a31-40d3-4adf-b404-3edce096f551)
 
