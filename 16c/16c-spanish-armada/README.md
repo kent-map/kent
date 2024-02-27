@@ -1,6 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="The Spanish Armada and Kent " author="Duke of Edinburgh Scheme Participants" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/La_batalla_de_Gravelinas%2C_por_Nicholas_Hilliard.jpg"> 
+<param ve-config title="The Spanish Armada and Kent " author="Duke of Edinburgh Scheme Participants" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/La_batalla_de_Gravelinas%2C_por_Nicholas_Hilliard.jpg" description="Research by Duke of Edinburgh Scheme Participants describes the importance of Kent to the invasion plans of the Spanish Armada.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q179224" aliases="Dover"> 
 <param title="Folkestone" eid="Q375314">
 <param title="Gravesend" eid="Q676689">
@@ -19,6 +20,12 @@
 <param ve-entity eid="Q2483544" aliases="Upchurch">
 <param ve-entity eid="Q2455830" aliases="Northbourne">
 <param ve-entity eid="Q590422" aliases="Thanet">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<!-- param ve-map-layer active allmaps allmaps-id="09908d6628a5278f" title="OS East Kent 1945" -->
 
 #
 
@@ -44,6 +51,8 @@ In the weeks leading up to the Spanish offensive, a series of beacons had been e
 
 On the 20th July 1588, the Spanish fleet sailed past Plymouth where they were bombarded by cannon fired from English ships under the command of Lord Howard of Effingham and Sir Francis Drake. Drake, who was second in command, was a privateer who had earned the nickname 'El Draque' - the dragon - for his raids on Spanish ships. He may have spent some time in Kent as a boy, as his father was a curate at Upchurch, although evidence suggests he largely remained in Devon with the Hawkins family.[^ref9] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/St._Mary_the_Virgin_Church%2C_Upchurch_-_geograph.org.uk_-_2210058.jpg" label="St Mary the Virgin Church, Upchurch" attribution="Roger Smith" license="CC BY-SA 2.0">
+<!-- Base map centred on Upchurch -->
+<param ve-map center="Q2483544" zoom="10">
 
 After Plymouth, and with the English fleet in hot pursuit, the Spanish galleons headed on towards the Kent coast, but skirmishes at Portland and in the Solent, forced them to provision at Calais.   At midnight on 28th July, the English unleashed eight ‘hellburners’- tar filled ships, which threatened to destroy the Spanish fleet, leading to chaos and confusion in the channel. Sir Thomas Scott wrote to Lord Burghley on the 5th of August informing him that the Armada had been seen off Boulogne. His letter was carried by horseman through the night, passing through Sittingbourne at 4 a.m. Thirty ensigns of infantry and three cornets of horse were assembled on the Downs "to make a shewe ... to the Enymye".[^ref10] 
 <br><br>
