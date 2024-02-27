@@ -1,4 +1,4 @@
-.ve-header label="Inspirational Kent Women Writers" background=gh:kent-map/images/banners/banner Kent women writers.jpg sticky=true
+.ve-header label="Inspirational Kent Women Writers" background=gh:kent-map/images/banners/women.jpg sticky=true
 
 As part of the Centre for Kent History and Heritage's celebration of inspirational Kent women writers, we are highlighting these articles to focus attention on some of Kent's well-loved but also lesser known women writers. These women are either inspirational Kent women or women who have taken inspiration from Kent.
 # &nbsp; 
