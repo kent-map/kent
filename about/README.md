@@ -554,6 +554,14 @@ Charlotte Worthington is currently a third-year history and French undergraduate
 # Design Team
 <param class="cards">
 
+## Claire Boardman
+
+[Claire Boardman]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/88924a4b-6e73-4ddf-93b0-816f8e66c094)
+
+Claire Boardman is a PhD Candidate in Applied Digital Humanities at the University of York, Digital Creativity Labs. Supported by the Engineering and Physical Research Council, she is currently researching digital heritage content co-curation and re-use within the context of connection and cohesion in inner urban neighbourhoods. Her research is practice-orientated and diverse but generally concerned with human-environment relationships with a current focus on heritage-led, participatory approaches to climate change and sustainability.
+
 ## Kaitlyn Cowling
 
 [Kaitlyn Cowling]()
