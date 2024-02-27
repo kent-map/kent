@@ -254,7 +254,6 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 
 A county of rich architecture; castles, churches, ports, forts and towers.
 
-
 ## The Garden of England
 
 [The Garden of England](garden)
@@ -332,7 +331,7 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 [Inspirational Kent Women Writers](/projects/inspirational-women-writers)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/vita_sackville_west1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/kentwomen.jpg)
 
 To accompany the Inspirational Kent Women Writers event held by the Centre for Kent History and Heritage, Kent Maps Online have curated a collection of inspirational Kent women writers as well as some lesser known women writers who have been inspired by Kent.
 
