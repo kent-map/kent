@@ -86,7 +86,7 @@ Victoria Holt was a prolific and popular author who was a pioneer of the genre k
 
 ## Bessie Marchant
 
-[Bessie Marchant](/20c/20c-marchant-biography)
+[Bessie Marchant](/19c/19c-marchant-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e4695031-8e15-4353-8dda-d963f4faffe2)
 
