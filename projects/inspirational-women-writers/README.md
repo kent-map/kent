@@ -78,7 +78,7 @@ Cicely Hamilton was a feminist actress, writer and playwright. She co-founded th
 
 ## Victoria Holt
 
-[Victoria Holt](/20c/20c-hamilton-biography)
+[Victoria Holt](/20c/20c-holt-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f)
 
