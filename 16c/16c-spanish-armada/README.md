@@ -15,7 +15,6 @@
 <param ve-entity eid="Q7898392" aliases="Upnor">
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-entity eid="Q1434222" aliases="Medway">
-<param ve-entity eid="Q1500299" aliases="Sheppey">
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 <param ve-entity eid="Q2483544" aliases="Upchurch">
 <param ve-entity eid="Q2455830" aliases="Northbourne">

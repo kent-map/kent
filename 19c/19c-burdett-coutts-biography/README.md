@@ -4,7 +4,8 @@
     title="Angela Burdett-Coutts, 1814-1906"
     author="Professor Carolyn Oulton"
     banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/Burdett-Coutts_sundial_mosaics_-_geograph.org.uk_-_475598.jpg"
-    layout="vtl">
+    layout="vtl"
+    description="In this visual essay, Professor Carolyn Oulton traces the Kent visits and interactions with Charles Dickens et al of heiress and philanthropist Angela Burdett-Coutts.">
 
 <param ve-entity title="Walmer Castle" eid="Q2543161">
 <param ve-entity title="Maidstone" eid="Q213180">
@@ -14,6 +15,12 @@
 <param ve-entity title="Ramsgate" eid="Q736439">
 <param ve-entity title="Broadstairs" eid="Q922739">
 <param ve-entity title="Folkestone" eid="Q375314">
+
+<!-- Base map starting position centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id=" 43dfb17f8135937e" title="Moule 1850">
 
 #
 
