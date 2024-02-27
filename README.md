@@ -254,7 +254,6 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 
 A county of rich architecture; castles, churches, ports, forts and towers.
 
-
 ## The Garden of England
 
 [The Garden of England](garden)
@@ -322,9 +321,21 @@ English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coas
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/vita_sackville_west1.jpg)
 
+
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
-# Featured Texts 
+# Featured Projects
+<param class="cards">
+
+## Inspirational Kent Women Writers
+
+[Inspirational Kent Women Writers](/projects/inspirational-women-writers)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/kentwomen.jpg)
+
+To accompany the Inspirational Kent Women Writers event held by the Centre for Kent History and Heritage, Kent Maps Online have curated a collection of inspirational Kent women writers as well as some lesser known women writers who have been inspired by Kent.
+
+# Featured Texts
 <param class="cards">
 
 ## Double Double
