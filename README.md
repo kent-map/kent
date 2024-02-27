@@ -324,7 +324,16 @@ English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coas
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
-# Featured Texts 
+# Featured Projects
+<param class="cards">
+
+## Inspirational Kent Women Writers
+
+[Inspirational Kent Women Writers](/projects/ )
+
+
+
+# Featured Texts
 <param class="cards">
 
 ## Double Double
