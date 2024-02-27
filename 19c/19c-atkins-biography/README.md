@@ -31,16 +31,16 @@ Anna Atkins, botanist and photographer, was born on the 16 March 1799, in Tonbri
 
 When Anna was six, her father developed an interest in mineralogy and constructed a large voltaic battery to test how electricity can be used in chemical analysis at Ferox Hall. Along with the scientist, Humphry Davy, Children conducted many experiments at his home between 1808-12,[^ref3] eventually creating a large galvanic battery with plates measuring 32 square feet. Davy also describes "some experiments made on the action of tellurium and potassium in the laboratory of my friend John George Children, Esq., of Tunbridge" which he conducted in 1809.[^ref4] At around this time Anna was sent away to school. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" label="John George Children" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
-<param ve-map center="Q936183" zoom="15">
-<param ve-map center="Q99678204" zoom="15"> 
+<param ve-map center="Q936183" zoom="13">
+<param ve-map center="Q99678204" zoom="13"> 
 
 After 1812, the failure of the Tonbridge Bank impacted heavily on Children's work and he set up a gunpowder business with Davy to help pay the bills. Davy nearly met with an accident when the 'new and very extraordinary detonating compound' he had created exploded.[^ref5] A gunpowder mill was opened at Ramhurst, however, a disagreement between the two men led Davy to withdraw from the business and Children was declared bankrupt. It was about this time that Anna was withdrawn from school after an illness. In 1816, Anna's family home, Ferox Hall, was sold. Children took the post of assistant librarian in the department of antiquities at the British Museum in London. Anna went to stay with relatives at Hickling in Nottinghamshire until a family home was established in Chelsea.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2c/Davy_Humphry_desk_color_Howard.jpg" label="Humphry Davy, 1803" attribution="National Portrait Gallery, Public domain, via Wikimedia Commons">
-<param ve-map center="Q17545758" zoom="15">
+<param ve-map center="Q17545758" zoom="13">
 
 Anna began working with her father in her early 20s, producing 250 engravings for her father’s translation of _Genera of Shells_, by Jean Baptiste de Lamarck.[^ref6] On 22 August 1825, she married wealthy merchant, John Pelly Atkins, who owned land in Halstead, Knockholt and Pratts Bottom. The couple lived in London and Halstead Place. Like his wife, Atkins shared an interest in science, particularly pneumatic chemistry[^ref7] and supported a proposal to build an atmospheric railway through Kent to be known as the Landowners' Line.[^ref8]  Anna began to collect dried plant specimens and became a member of the Botanical Society of London in 1839 - one of its first female members.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/39/Waterloo_Elm_by_Anna_Children.jpg" label="Waterloo Elm by Anna Children" attribution="Anna Children, Public domain, via Wikimedia Commons">
-<param ve-map center="Q26645227" zoom="15">
+<param ve-map center="Q26645227" zoom="13">
 
 Developing an interest in algae after reading _Manual of British Algae_ (1841) by William Henry Harvey, Anna decided to illustrate the work for family and friends.[^ref9] Through her father's link to the Royal Society, Anna was acquainted with photographer, William Henry Fox Talbot and mathematician, [Sir John Herschel](/19c/19c-herschel-biography) who visited her at Halstead Place and this ignited her interest in photography. It is quite possible that she was inspired by Fox Talbot who said that paper photography might allow 'every man' to be his own printer/publisher.[^ref10] Anna was given a camera by her father in 1841, although none of the photos taken with this camera have survived.[^ref11] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Digital_ID-_419707._Atkins%2C_Anna_-_Photographer._1843-53_%283110003250%29.jpg" label="Cyanotypes of British Algae" attribution="New York Public Library, No restrictions, via Wikimedia Commons">
@@ -50,9 +50,9 @@ In 1842, Hershel invented the cyanotype, a photographic process, which later bec
 
 Anna died on the 9 June 1871, at Halstead Place, near Sevenoaks and is buried in St. Margaret's Churchyard. [Sir John Herschel](/19c/19c-herschel-biography), her friend and inspiration, had died a month earlier at his home Collingwood, near Hawkhurst.  Anna's obituary describes her as an 'amiable and benevolent lady'[^ref15], but her early experimentation in photography is not mentioned.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/St_Margaret%27s_Church%2C_Halstead.JPG" label="St Margaret's Church, Halstead" attribution="Jackarias, via Wikimedia Commons" license="CC BY-SA 4.0">
-<param ve-map center="Q2035885" zoom="15">
-<param ve-map center="Q939838" zoom="15">
-<param ve-map center="Q2744669" zoom="15">
+<param ve-map center="Q2035885" zoom="13">
+<param ve-map center="Q939838" zoom="13">
+<param ve-map center="Q2744669" zoom="13">
 
 ### References
 
