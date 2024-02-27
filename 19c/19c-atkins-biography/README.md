@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Anna Atkins (1799-1871)" author="Trinity Barber and Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="Anna Atkins (1799-1871)" author="Trinity Barber and Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="In this essay, Trinity Barber and Michelle Crowther introduce the life of Nineteenth Century botanist and photographer, Anna Atkins.">
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
@@ -14,7 +14,13 @@
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
 
-#
+<!-- Basemap centred on Tonbridge -->
+<param ve-map center="Q936183" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="0d13de43a9570166" title="1820 Map">
+
+<!--#-->
 
 Anna Atkins, botanist and photographer, was born on the 16 March 1799, in Tonbridge, the daughter of John George Children (1777-1852) and Hester Anna Holwell. Her father's family had been established in the Tunbridge area from at least the early seventeenth century, with property at Nether Street, Hildenborough and Ferox Hall, Tonbridge. Her mother's family lived at Southborough, although Hester was raised by her aunt and uncle at Bishop Down's Grove, Tunbridge Wells. [^ref1] Anna's birth was difficult and afterwards Hester was "conveyed in a bed carriage to Hastings, from whence she never returned alive".[^ref2] At the age of 20 months old, Anna was motherless; her father in his grief went travelling, leaving her with her grandfather during the early years of her life. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anna_Atkins_1861.jpg" label="Anna Atkins, 1861" attribution="Unknown author, Public domain, via Wikimedia Commons">
