@@ -3,7 +3,7 @@
 <param ve-config 
        title="A Sin of Omission by Marguerite Poland"
        author="Liam Cohen"
-       banner="xxx" 
+       banner="https://stor.artstor.org/stor/65bfd4f5-dabb-4e4d-808c-a86b1ab22a0c" 
        layout="vertical">
        
 In her 2021 novel _[A Sin of Omission]( https://www.envelopebooks.co.uk/a-sin-of-omission)_, Marguerite Poland highlights the work carried out by Anglican missionaries in 19th century South Africa. During this time, many young men travelled from all over the world to study at Saint Augustine’s Missionary College in [Canterbury](/19c/19c-canterbury). After their studies, students were sent on Holy missions across the world. In the novel, Poland follows a young Ngqika man, Stephen Mzamane, who is based on a former student of the college, Reverend Stephen Mtutuko Mnyakama. In our discussion on the Writing Comes Alive Podcast, Poland informed me that her great-grandfather Alfred William Brereton was also a student at the college, and loosely influenced another character in the novel, Reverend Turvey. 
