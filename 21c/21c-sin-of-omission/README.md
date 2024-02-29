@@ -36,7 +36,7 @@ Being assigned a mission on familiar ground was undoubtedly beneficial for stude
 
 Once students graduated, they did not always receive the required support. This seemed more common for those from ethnic minority backgrounds. There were two main contributing factors to this, one being distance. As one can imagine, there would have been great difficulty travelling or communicating with someone who could potentially be thousands of miles away. The second was colonial attitudes. On the Writing Comes Alive Podcast, Poland highlights the uncomfortable atmosphere Mzamane would have faced:
 <br><br>
-_[A Sin of Omission]( https://www.envelopebooks.co.uk/a-sin-of-omission)_is set in the 19th century. It is about a young man called Stephen Mzamane who was educated in England. A young Xhosa sent back to South Africa to become a priest amongst his own people, but he had been isolated completely from his own culture. He goes back into a situation where he is completely at odds with his own community and his own language. The fact he is a black man, and this was 19th century South Africa, he was completely unaccepted by colonial society. 
+[_A Sin of Omission_]( https://www.envelopebooks.co.uk/a-sin-of-omission)is set in the 19th century. It is about a young man called Stephen Mzamane who was educated in England. A young Xhosa sent back to South Africa to become a priest amongst his own people, but he had been isolated completely from his own culture. He goes back into a situation where he is completely at odds with his own community and his own language. The fact he is a black man, and this was 19th century South Africa, he was completely unaccepted by colonial society. 
 
 Nevertheless, it has been documented that many students still had a strong affiliation with the college, often writing letters to fellow students and professors. This was mostly done through the Occasional papers. The idea came from Bailey, who was enthusiastic about growing the college’s influence. The first Occasional papers were published, on 31st May 1853 and continued for the remainder of the college’s years. There were three main reasons for the publication: first, to keep in touch with former students. Second, to read and share with current students. The final reason was to promote the college to the wider area.  
 
@@ -55,12 +55,13 @@ A special thank you to Marguerite Poland for her immense generosity and mentorsh
 ). 
 
 ### Works Cited
-Bailey, Henry. _Twenty-five years at St. Augustine College._ A Letter to Late Students. 1874.
-Boggis, Robert. _A History of St. Augustine’s College._ Cross and Jackson. 1907.
-Butler, Derek. _A Century of Canterbury_, Sutton Publishing, 2002.
-Cohen, Liam. ‘Writing Comes Alive Podcast.’ Carrion Publishing. https://drive.google.com/file/d/1lPovymElRjkeAY8m1C33_2Tlr0BuD5Xr/view?usp=drivesdk. 2023.
-Dewar, Jen. [‘The Most In-demand Skills for 2023.’ Talent Blog. LinkedIn.](https://www.linkedin.com/business/talent/blog/talent-strategy/linkedin-most-in-demand-hard-and-soft-skills). 2023. 
-France, Canon. [_St Augustine’s, Canterbury: A Story of Enduring Life_](https://archive.org/details/StAugustinesCanterburyAStoryOfEnduringLife/page/n13/mode/1up). 1952.   
+Bailey, Henry. _Twenty-five years at St. Augustine College._ A Letter to Late Students. 1874.   
+Boggis, Robert. _A History of St. Augustine’s College._ Cross and Jackson. 1907.   
+Butler, Derek. _A Century of Canterbury_, Sutton Publishing, 2002.   
+Cohen, Liam. ‘Writing Comes Alive Podcast.’ Carrion Publishing.  
+https://drive.google.com/file/d/1lPovymElRjkeAY8m1C33_2Tlr0BuD5Xr/view?usp=drivesdk. 2023.   
+Dewar, Jen. [‘The Most In-demand Skills for 2023.’ Talent Blog. LinkedIn.] (https://www.linkedin.com/business/talent/blog/talent-strategy/linkedin-most-in-demand-hard-and-soft-skills). 2023.   
+France, Canon. [_St Augustine’s, Canterbury: A Story of Enduring Life_] (https://archive.org/details/StAugustinesCanterburyAStoryOfEnduringLife/page/n13/mode/1up). 1952.   
 Hodgson, Janet. ‘Kid Gloves and Cricket on the Kei.’ _Religion in Southern Africa_. Vol 8: 2. July 1987. 61-91.   
 National Archives. [Currency Converter: 1270-2017](https://www.nationalarchives.gov.uk/currency-converter/).   
 Poland, Marguerite. _A Sin of Omission_. Envelope Books, 2021.   
