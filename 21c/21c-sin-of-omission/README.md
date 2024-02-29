@@ -71,26 +71,26 @@ TRT World. [‘The Colonisation of South Africa’](https://youtu.be/Mi93LjuQbMM
 
 ### References
 
-1 Boggis. 
-2 (National Archives
-3 TRT World, 2021. 
-4 78-9. 
-5 Hodgson 69.
-6 Brown 23. 
-7 199. 
-8 83. 
-9 Bailey, 135. 
-10 Baily 130. 
-11 Baily 131.
-12 Dewar 2023. 
-13 140.
-14 [St. Augustine Foundation](https://www.staugustinesfoundation.org/our-story).
-15 74. 
-16 74. 
-17 Poland 2024.
-18 Poland 2024. 
-19 Bailey 160.
-20 Poland 2023. 
-21 Bailey 99-100. 
-22 France.
-23 Poland 2023.
+[^ref1]: Boggis. 
+[^ref2]: (National Archives
+[^ref3]:T RT World, 2021. 
+[^ref4]: 78-9. 
+[^ref5]: Hodgson 69.
+[^ref6]: Brown 23. 
+[^ref7]: 199. 
+[^ref8]: 83. 
+[^ref9]: Bailey, 135. 
+[^ref10]: Baily 130. 
+[^ref11]: Baily 131.
+[^ref12]: Dewar 2023. 
+[^ref13]: 140.
+[^ref14]: [St. Augustine Foundation](https://www.staugustinesfoundation.org/our-story).
+[^ref15]: 74. 
+[^ref16]: 74. 
+[^ref17]: Poland 2024.
+[^ref18]: Poland 2024. 
+[^ref19]: Bailey 160.
+[^ref20]: Poland 2023. 
+[^ref21]: Bailey 99-100. 
+[^ref22]: France.
+[^ref23]: Poland 2023.
