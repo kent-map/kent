@@ -21,6 +21,7 @@ Saint Augustine’s Missionary College had a fantastic academic reputation, riva
 One student stated:
 <br><br>
 Of the value to me of the college course I cannot speak too highly; for I feel that if I am of any use in the Church of Christ, it is entirely owing to the knowledge, habits, and opinions, which I acquired and formed under its influence. -   I may say that it was of the very highest value to me in forming regular habits, in acquiring maturity of thought and opinions, in softening little peculiarities of temper and manner, which, if not corrected, might have been a bar to my usefulness.’  
+<param ve-image url="https://stor.artstor.org/stor/fcfa1100-99e8-46d5-a8f9-4be99acd1050" label="The portrait in the Refectory of Henry Bailey by Sydney Hodges, 1878 by kind permission of Peter Henderson">
 
 To prepare its students further, the college offered a variety of subjects. From religious based studies, language, the foundation subjects to practical skills  (St Augustine’s Foundation). This setup students well for various roles they maybe expected to fulfil on mission, such as Teacher, Clergyman or Medical professional. For example Brereton’s career trajectory went from headmaster at a Cathedral grammar school – Staff Master at St Matthew’s – Registrar of Rhodes University. Brereton also specialised in managing speech defects, teaching language and public speaking (Cathedral archives).
 
