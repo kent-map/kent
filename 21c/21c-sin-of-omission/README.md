@@ -27,6 +27,7 @@ Saint Augustine’s Missionary College had a fantastic academic reputation, riva
 <param ve-image url="https://stor.artstor.org/stor/fcfa1100-99e8-46d5-a8f9-4be99acd1050" label="The portrait in the Refectory of Henry Bailey by Sydney Hodges, 1878 by kind permission of Peter Henderson">
 
 To prepare its students further, the college offered a variety of subjects. From religious based studies, language, the foundation subjects to practical skills  (St Augustine’s Foundation). This setup students well for various roles they maybe expected to fulfil on mission, such as Teacher, Clergyman or Medical professional. For example Brereton’s career trajectory went from headmaster at a Cathedral grammar school – Staff Master at St Matthew’s – Registrar of Rhodes University. Brereton also specialised in managing speech defects, teaching language and public speaking.[^ref Cathedral archives].
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/32/A_medical_missionary_attending_to_a_sick_African._Oil_painti_Wellcome_L0032737.jpg" label="A medical missionary attending to a sick African, Harold Copping, CC BY 4.0, via Wikimedia Commons">
 
 It was common for international students to return to their homeland on mission. St Augustine Missionary college had many links across South Africa and was one of the most common destinations for its students. Hodgson recorded an extract from one of Mnyakama’s letters where he details returning home after being away for 11 years:
 <br><br>
@@ -70,7 +71,7 @@ Boggis, Robert. _A History of St. Augustine’s College._ Cross and Jackson. 190
 Butler, Derek. _A Century of Canterbury_, Sutton Publishing, 2002.   
 Cohen, Liam. ‘Writing Comes Alive Podcast.’ Carrion Publishing.  
 https://drive.google.com/file/d/1lPovymElRjkeAY8m1C33_2Tlr0BuD5Xr/view?usp=drivesdk. 2023.   
-Dewar, Jen. [‘The Most In-demand Skills for 2023.’ Talent Blog. LinkedIn.] (https://www.linkedin.com/business/talent/blog/talent-strategy/linkedin-most-in-demand-hard-and-soft-skills). 2023.   
+Dewar, Jen. [‘The Most In-demand Skills for 2023.’ Talent Blog. LinkedIn.] (https://www.linkedin.com/business/talent/blog/talent-strategy/linkedin-most-in-demand-hard-and-soft-skills). 2023.  
 France, Canon. [_St Augustine’s, Canterbury: A Story of Enduring Life_] (https://archive.org/details/StAugustinesCanterburyAStoryOfEnduringLife/page/n13/mode/1up). 1952.   
 Hodgson, Janet. ‘Kid Gloves and Cricket on the Kei.’ _Religion in Southern Africa_. Vol 8: 2. July 1987. 61-91.   
 National Archives. [Currency Converter: 1270-2017](https://www.nationalarchives.gov.uk/currency-converter/).   
@@ -84,7 +85,7 @@ TRT World. [‘The Colonisation of South Africa’](https://youtu.be/Mi93LjuQbMM
 ### References
 
 [^ref1]: Boggis. 
-[^ref2]: (National Archives
+[^ref2]: National Archives.
 [^ref3]:T RT World, 2021. 
 [^ref4]: 78-9. 
 [^ref5]: Hodgson 69.
