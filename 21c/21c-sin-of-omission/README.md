@@ -46,6 +46,7 @@ Nevertheless, it has been documented that many students still had a strong affil
 St. Augustine’s Missionary College was pivotal in [Canterbury](/19c/19c-canterbury)’s history at a time of extraordinary growth, both theologically and locally within the city. During its 96 years, the College sent out just under 1000 missionaries across the globe. Unfortunately, in 1942, the college was severely damaged by a German air raid and could no longer operate.  Thankfully, the lower chapel still holds a piece of the college’s history. In our discussion, Poland informed me of her experience visiting the lower chapel:
 <br><br>
 There were the names of all the alumni of the college carved on the wall. [She and her husband went on to find Mnyakama’s and her Great-Grandfather’s name.] – In a strange way, I suppose that was the only place where Stephen’s name was inscribed in stone, and to see that for me was very moving. 
+<param ve-image url="https://stor.artstor.org/stor/770b9bfa-b8c3-438f-900f-ec47836f9583" label="St Augustine's College">
 
 In 1952, the college re-opened as the Central College of the Anglican Communion, although many buildings were still damaged from the war. In 1967, the training of students was relocated to London (St. Augustine’s College). The King’s School has used the site (excluding St. Augustine’s Abbey, which is now a National Heritage site) since 1976, when they leased the property. Eventually, in 1993, they purchased the site. 
 
