@@ -68,6 +68,14 @@ A devout Christian, Jessie, who was born in Dover, wrote religious stories for c
 
 Although Craik was not a native of Kent—born in Staffordshire, raised in London with an Irish father and with prolonged visits to Scotland to visit her family friends—Bromley was where she made her home from 1869 until she died on October 12th 1887.
 
+## Catherine Crowe
+
+[Catherine Crowe](/19c/19c-crowe-biography/)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/05/7_of_%27%28The_Night_Side_of_Nature-_or%2C_Ghosts_and_ghost_seers.%29%27_%2811152605346%29.jpg)
+
+Best known for her 1848 collection of ‘real’ ghost stories _The Night Side of Nature: or of Ghosts and Ghost Seers_, which documented ordinary people’s ‘actual’ brushes with ghosts and the supernatural, Crowe shot to public and literary fame during the 1840s and 50s.
+
 ## Sarah Grand
 
 [Sarah Grand](/19c/19c-grand-biography)
