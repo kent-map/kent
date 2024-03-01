@@ -122,7 +122,7 @@ Susie Colyer Nethersole, author of rural fiction, was born on the 14 May 1869 at
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/87/Baroness_Emma_Orczy_by_Bassano.jpg)
 
-Known for driving her horses and wagonette wildly around the lanes of Thanet, Baroness Orczy, the author of the _Scarlet Pimpernel_ stories lived at Monkton and later Bearsted.
+Baroness Orczy, the author of the _Scarlet Pimpernel_ stories lived at Monkton and later Bearsted. She described Thanet as ‘not a beautiful part of England. It is flat; there are no hills, few trees, only big fields and wide spaces with the tang and smell of the sea all around.’
 
 ## Mary L. Pendered
 
@@ -139,7 +139,7 @@ Beltinge, converting a garage into a space for the soldiers. It was here that sh
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8)
 
-Biographer and bibliographer, Bertha Porter lived at Moyle Tower, Hythe. Developing an interest in psychical research, Porter assisted Gurney and Myers in their research for _Phantasms of the Living_.
+Biographer and bibliographer, Bertha Porter lived at Moyle Tower, Hythe. Developing an interest in psychical research, Porter assisted Edmund Gurney and Frederic W.H. Myers in their research for _Phantasms of the Living_.
 
 ## Ann Radcliffe
 
