@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Elizabeth Bowen (1899-1973)" author="Diana Hirst" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg" description="In this visual essay, Diana Hirst considers the East Kent life of novelist, Elizabeth Bowen and the influence of that landscape on her work.">
 

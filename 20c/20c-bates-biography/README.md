@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="H.E. Bates" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f" attribution="Orchard by Lisa Hawkins">
 
 <param ve-entity eid="Q2470003" aliases="Little Chart">

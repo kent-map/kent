@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Convalescent Homes" author="Hosanna Krienke" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Hosanna Krienke discusses the introduction and development of 19th century convalescent homes which were especially important for industrial worker recovery.">
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">

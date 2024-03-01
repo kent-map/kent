@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Mapping radical dissent: the Kent Miners, militancy and workers’ education" author="Professor Emeritus Linden West" layout="vtl" banner="https://stor.artstor.org/stor/6e4cd3c3-771e-43b2-a9e8-90384590672d">
 <param ve-map center="Q866348" zoom="10">
 

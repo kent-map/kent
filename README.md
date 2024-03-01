@@ -1,6 +1,6 @@
-.ve-meta title="Kent Maps Online" description="This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists."
+`mdp-meta title="Kent Maps Online" description="This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists."`
 
-.ve-header label="Kent Maps Online" background=gh:kent-map/images/Kent_Maps.jpg contact=ron.snyder@ithaka.org search-domain=kent-maps.online search-cx=568011e472c1ffe27 search-key=565e6d76446e5654542e205672444f6d247e4070444756707e5c7226415b67735176617e425a70 sticky
+`mdp-header title="Kent Maps Online" background=gh:kent-map/images/Kent_Maps.jpg contact=ron.snyder@ithaka.org search-domain=kent-maps.online search-cx=568011e472c1ffe27 search-key=565e6d76446e5654542e205672444f6d247e4070444756707e5c7226415b67735176617e425a70 .sticky`
 
 Kent Maps Online is an interactive Digital Humanities project exploring the county's rich heritage, using multi-disciplinary lenses to research and present historic, literary and geographical records. Travel through the site and find answers to questions you haven’t even thought of yet.
 
@@ -363,8 +363,13 @@ Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Hor
 
 Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
 
-.ve-footer
-    - A collaboration between: [![CCCU](https://raw.githubusercontent.com/kent-map/images/main/dickens/CCCU-logo-2colour.svg)](https://www.canterbury.ac.uk/) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/images/main/dickens/JSTOR_Labs_logo.jpg)](https://labs.jstor.org)
-    - [![](https://raw.githubusercontent.com/kent-map/images/main/misc/twitter.png)](https://twitter.com/KentMaps1) {.push}
+```
+mdp-footer
+    - A collaboration between: 
+    - [![CCCU](https://raw.githubusercontent.com/kent-map/images/main/dickens/CCCU-logo-2colour.svg)](https://www.canterbury.ac.uk/)
+    - and
+    - [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/images/main/dickens/JSTOR_Labs_logo.jpg)](https://labs.jstor.org)
+    - `.push` [![](https://raw.githubusercontent.com/kent-map/images/main/misc/twitter.png)](https://twitter.com/KentMaps1)
     - [![DoE participants' showcase](https://raw.githubusercontent.com/kent-map/images/main/misc/dofe-logo.png)](https://dofe.kent-maps.online)    
     - [![](https://raw.githubusercontent.com/kent-map/images/main/misc/Centre_for_Kent_History_and_Heritage_logo_1.jpg)](https://www.canterbury.ac.uk/arts-and-humanities/research-kent-history-and-archaeology/centre-for-research-in-kent-history-and-archaeology.aspx)
+```

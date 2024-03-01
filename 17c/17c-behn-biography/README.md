@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Aphra Behn (1640? – 1689)" author="Alexa Barrett" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"> 
 

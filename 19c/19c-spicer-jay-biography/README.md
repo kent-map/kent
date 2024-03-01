@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Edith Katherine Spicer Jay (6 March 1847- 3 December 1901)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/60/Sandgate_Castle.jpg">
 
 <param ve-entity eid="Q26627906" aliases="Shorncliffe Barracks">

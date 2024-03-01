@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Literary Encounters Along the River Stour" author="Dr Diana Hirst" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_%288270473878%29.jpg">
 

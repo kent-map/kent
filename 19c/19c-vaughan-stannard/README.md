@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Henrietta Vaughan Stannard [Pseud. John Strange Winter]" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/43be2313-69a2-4436-8db8-978f300d40bb"> 
 

@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="E.M. Forster" author="Diana Hirst" layout="vtl" banner="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50">
 

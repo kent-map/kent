@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Joan of Kent (1328-1385): the first Princess of Wales " author="Madelaine Lennon and Dr Liz Askey" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/16/Canterbury%2C_Canterbury_cathedral_07.JPG">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">

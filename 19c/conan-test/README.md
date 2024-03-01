@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Sir Arthur Conan Doyle (1859-1930)" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" discription="Kent railway stations play crucial roles in many of Sir Arthur Conan Doyle's books. This visual essay further explores Conan Doyle’s connection to the county.">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">

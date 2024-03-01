@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="William Harvey (1578 – 1657)" author="Dr Dominique Gracia and Arnav Sharma" layout="vtl" banner="https://stor.artstor.org/stor/fafede9a-16fc-4f57-8c41-61a929e62593">
 

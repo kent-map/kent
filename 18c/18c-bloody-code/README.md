@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="The Bloody Code" author="Martin Watts" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/Westgate_055.jpg">
 
 #

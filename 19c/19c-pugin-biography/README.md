@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Augustus Welby Pugin (1812 –1852)" author="Cat Blaker" layout="vtl" banner="https://stor.artstor.org/stor/695329b9-cc27-4fe0-8e52-ebb5f65fc00c">
 
 <param ve-entity eid="Q5331558" aliases="Ebbsfleet">

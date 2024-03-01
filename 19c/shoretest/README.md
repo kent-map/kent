@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Margaret Emily Shore (1819-1839)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/d1/Emily_Shore_journal_6_October_1936.jpg" Description="A visual essay introducing the 'observant and precocious' 19th Century diarist Emily Shore and her detailed record of the NE Kent coastline environment.">
 
 <param ve-entity eid="Q922739" aliases="Broadstairs">

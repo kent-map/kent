@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Maidstone Convict Prison" author="Dr Ben Bethell" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/a/af/Paul_Sandby_-_A_Distant_View_of_Maidstone%2C_from_Lower_Bell_Inn%2C_Boxley_Hill_-_Google_Art_Project.jpg">
 

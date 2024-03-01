@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Writers of Romney Marsh" author="Dr Pat Argar" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/c/c1/Charles_Sims--The_Sands_at_Dymchurch--c1920-2--Tate.jpg" description="A number of writers of the Edwardian era and the years between the World Wars chose to depict Romney Marsh in their work">
 

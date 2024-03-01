@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="The Cinque Ports" author="Dr Sheila Sweetinburgh" layout="vtl" banner="https://stor.artstor.org/stor/6adc1223-2266-4fe5-8c65-d0924627f6c7">
 
 <param ve-entity eid="Q26163" aliases="Sandwich">

@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Noël Coward" author="Daniel Vince" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/8/81/St_Margaret%27s_Bay%2C_May_2021_02.jpg">
 
