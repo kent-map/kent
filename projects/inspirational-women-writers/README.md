@@ -86,7 +86,7 @@ Victoria Holt was a prolific and popular author who was a pioneer of the genre k
 
 ## Bessie Marchant
 
-[Bessie Marchant](/19c/19c-marchant-biography)
+[Bessie Marchant](/19c/19c-marchantb-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e4695031-8e15-4353-8dda-d963f4faffe2)
 
@@ -135,7 +135,7 @@ Beltinge, converting a garage into a space for the soldiers. It was here that sh
 
 ## Bertha Porter
 
-[Bertha Porter](/19c/19c-porter-biography)
+[Bertha Porter](/20c/20c-porter-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8)
 
@@ -151,7 +151,7 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 
 ## Vita Sackville-West
 
-[Vita Sackville-West](/19c/19c-sackville-west-biography)
+[Vita Sackville-West](/20c/20c-sackville-west-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/8e/Hon_Mrs_Nicholson_cropped.jpg)
 
