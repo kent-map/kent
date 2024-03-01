@@ -98,7 +98,7 @@ Cicely Hamilton was a feminist actress, writer and playwright. She co-founded th
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f)
 
-Victoria Holt was a prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense. Her novel _The Shivering Sands_ (1969), is set near the Goodwin Sands. 
+Victoria Holt was a prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense. Her novel _The Shivering Sands_ (1969), is set near the Goodwin Sands.
 
 ## Bessie Marchant
 
