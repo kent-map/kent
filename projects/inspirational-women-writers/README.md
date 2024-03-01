@@ -211,7 +211,7 @@ Florence Warden was an actor and writer who lived at St Mildred’s Road, Ramsga
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/19/G_Durand_Saturday_Night_at_the_Victoria_Theatre_BL.jpg)
 
-Gertrude was an actress before becoming a writer.
+Gertrude Warden was an actress before becoming a writer. Her novel _The Wooing of a Fairy_ was set in Lythinge (Lympne) near ‘a vast panorama of marshland, intersected by canals and dotted here and there by tiny villages, bordered by a row of Martello towers, which looked at this distance like children’s overturned sand pails and the sea.’
 
 ## Pamela Wynne
 
