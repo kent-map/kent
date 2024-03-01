@@ -159,7 +159,7 @@ Vita Sackville-West was a prolific and versatile writer - a celebrated poet (a c
 
 ## J.G. Sarasin
 
-[J.G. Sarasin](/20c/20c-sarasin-biography)
+[J.G. Sarasin](/20c/20c-salmon-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f7f77d64-c2cc-428e-a73f-c954aa757393)
 
@@ -167,7 +167,7 @@ J.G. Sarasin, a popular historical fiction writer of the 1920s-1960s, lived in C
 
 ## Edith Katherine Spicer Jay
 
-[Edith Katherine Spicer Jay](/20c/20c-spicer-jay-biography)
+[Edith Katherine Spicer Jay](/19c/19c-spicer-jay-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c)
 
@@ -175,7 +175,7 @@ Edith Katherine Spicer Jay, a writer of popular military tales, lived in Sandgat
 
 ## Christopher St John
 
-[Christopher St John](/20c/20c-stjohn-biography)
+[Christopher St John](/20c/20c-st-john-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Christopher_St_John.jpg)
 
@@ -183,7 +183,7 @@ A prolific writer whose work covered biography, suffrage and avant garde plays, 
 
 ## Netta Syrett
 
-[Netta Syrett](/20c/20c-syrett-biography)
+[Netta Syrett](/19c/19c-syrett-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f2dcce65-b0c3-44dc-827c-0de01b607a2b)
 
@@ -192,7 +192,7 @@ Harbour Street, Ramsgate in 1865.
 
 ## Elizabeth Von Arnim 
 
-[Elizabeth Von Arnim](/20c/20c-von-arnim-biography)
+[Elizabeth Von Arnim](/20c/20c-vonarnim-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/94/Suffolk_Reading_Wagon_1887.jpg)
 
