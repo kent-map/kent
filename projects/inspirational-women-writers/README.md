@@ -86,7 +86,7 @@ Victoria Holt was a prolific and popular author who was a pioneer of the genre k
 
 ## Bessie Marchant
 
-[Bessie Marchant](/19c/19c-marchant-biography)
+[Bessie Marchant](/19c/19c-marchantb-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e4695031-8e15-4353-8dda-d963f4faffe2)
 
@@ -122,7 +122,7 @@ Susie Colyer Nethersole, author of rural fiction, was born on the 14 May 1869 at
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/87/Baroness_Emma_Orczy_by_Bassano.jpg)
 
-Known for driving her horses and wagonette wildly around the lanes of Thanet, Baroness Orczy, the author of the _Scarlet Pimpernel_ stories lived at Monkton and later Bearsted.
+Baroness Orczy, the author of the _Scarlet Pimpernel_ stories lived at Monkton and later Bearsted. She described Thanet as ‘not a beautiful part of England. It is flat; there are no hills, few trees, only big fields and wide spaces with the tang and smell of the sea all around.’
 
 ## Mary L. Pendered
 
@@ -135,11 +135,11 @@ Beltinge, converting a garage into a space for the soldiers. It was here that sh
 
 ## Bertha Porter
 
-[Bertha Porter](/19c/19c-porter-biography)
+[Bertha Porter](/20c/20c-porter-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8)
 
-Biographer and bibliographer, Bertha Porter lived at Moyle Tower, Hythe. Developing an interest in psychical research, Porter assisted Gurney and Myers in their research for _Phantasms of the Living_.
+Biographer and bibliographer, Bertha Porter lived at Moyle Tower, Hythe. Developing an interest in psychical research, Porter assisted Edmund Gurney and Frederic W.H. Myers in their research for _Phantasms of the Living_.
 
 ## Ann Radcliffe
 
@@ -151,7 +151,7 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 
 ## Vita Sackville-West
 
-[Vita Sackville-West](/19c/19c-sackville-west-biography)
+[Vita Sackville-West](/20c/20c-sackville-west-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/8e/Hon_Mrs_Nicholson_cropped.jpg)
 
@@ -211,7 +211,7 @@ Florence Warden was an actor and writer who lived at St Mildred’s Road, Ramsga
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/19/G_Durand_Saturday_Night_at_the_Victoria_Theatre_BL.jpg)
 
-Gertrude was an actress before becoming a writer.
+Gertrude Warden was an actress before becoming a writer. Her novel _The Wooing of a Fairy_ was set in Lythinge (Lympne) near ‘a vast panorama of marshland, intersected by canals and dotted here and there by tiny villages, bordered by a row of Martello towers, which looked at this distance like children’s overturned sand pails and the sea.’
 
 ## Pamela Wynne
 
