@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Jane Austen, Canterbury" author="Susan Civale" layout="vtl" 
 banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc">
 

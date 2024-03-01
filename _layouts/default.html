@@ -1,32 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="{{ site.baseurl }}/favicon.ico" rel="icon" />
-    {%- seo -%}
-    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
-    <link rel="stylesheet" href="{{ site.baseurl }}/main.css">
+<!doctype html>
+<meta charset=utf-8>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+{%- seo -%}
+<link href="{{ site.baseurl }}/favicon.ico" rel="icon" />
+<link rel="apple-touch-icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Website_logo_1.png/240px-Website_logo_1.png">
+<link href="https://kent-map.github.io/mdpress/index.css" rel="stylesheet">
 
-    <script>
-      window.config = {
-        owner: '{{ site.github.owner }}',
-        repo: '{{ site.github.repo }}',
-        branch: '{{ site.github.branch }}', 
-        baseurl: '{{ site.baseurl }}',
-        components: '{{ site.components }}'
-      }
-    </script>
+<script>window.options = `
+  baseurl: '{{ site.baseurl }}'
+  title: Kent Maps Online
+  description: A set of themed essays about Kent, a county in South East England, which include interactive maps and images. Kent has a rich history and provided inspiration for a number of writers and artists.
+  defaults:
+    header:
+      backgroundImage: gh:kent-map/images/Kent_Maps.jpg
+      contact: ron@snyderjr.com
+      class: sticky
+      breadcrumbs: false
+      pdfDownloadEnabled: false
+      nav:
+        - label: Home
+          href: /
+          icon: <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 576 512"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg>
+        - label: About
+          href: /about
+          icon: <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>
+`</script>
 
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
-    <script src="{{ site.baseurl }}/index.js" type="module"></script>
+<main class="page-content" aria-label="Content" style="display:none;">
+  {{ content }}
+</main>
+<script src="https://kent-map.github.io/mdpress/wc/dist/js/index.js" type="module"></script>
+<script src="https://kent-map.github.io/mdpress/index.js" type="module"></script>
 
-  </head>
-  <body>
-    <main class="page-content" aria-label="Content">
-      {{ content }}
-    </main>
-  </body>
-</html>

@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Canterbury Corrective Borstal" author="Dr Maryse Tennant" layout="vtl" 
 banner="https://stor.artstor.org/stor/3fadae4a-6076-4ed2-8b19-620a22b35993">
 

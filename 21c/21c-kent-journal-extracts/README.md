@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Journal Extracts 2007-2018" author="Laurie Duggan" layout="vtl" banner="https://iiif.juncture-digital.org/banner?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham%20across%20Ham%20Marshes%201.jpeg" attribution="Faversham across Ham Marshes © Astrid Stilma">
 

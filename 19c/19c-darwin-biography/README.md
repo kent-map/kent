@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Charles Darwin 1809-1882" author="Peter Vujakovic" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/19c/Down_House_banner.jpg"> 
 

@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Alfred Cohen 1920-2001" author="Professor Max Saunders" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/20c/Sissinghurst_postcard.jpg">
 
 <param ve-entity eid="Q2019734" aliases="Goudhurst">

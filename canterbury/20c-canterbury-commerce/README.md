@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="20th-Century Canterbury: Commerce" author="Richard Maltby" layout="vtl" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">

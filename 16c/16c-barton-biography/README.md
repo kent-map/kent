@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="The Maid of Kent: Elizabeth Barton" author="Amber Potter" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/b/bd/Binsfeld%2C_witches.jpg">
 

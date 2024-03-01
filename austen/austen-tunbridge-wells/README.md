@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Jane Austen: Tunbridge Wells" author="Dr Susan Civale" layout="vtl" banner="https://iiif.wellcomecollection.org/image/V0014572/full/full/0/default.jpg">
 
 #

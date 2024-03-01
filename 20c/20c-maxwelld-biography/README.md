@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Donald Maxwell (1877-1936)" author="Professor Peter Vujakovic" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/e/e1/Firle_Beacon_2.jpg">
 

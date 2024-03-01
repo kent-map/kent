@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Floods in Canterbury, 1909" author="Professor Carolyn Oulton" layout="vtl" banner="https://stor.artstor.org/stor/b509124b-447a-48a4-b718-bc40372c947a">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">

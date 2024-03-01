@@ -1,5 +1,5 @@
 
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Siegfried Sassoon (8 September 1886 to 1 September 1967)" author="Dr Andrew Palmer" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/37/Thistledown%2C_Matfield%2C_Kent.JPG" description="Dr Andrew Palmer
 traces the Kent landscape in the war poetry of county native Siegfried Sassoon.">
 

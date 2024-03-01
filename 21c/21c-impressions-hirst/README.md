@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Impressions from a Bolthole Window" author="Diana Hirst" layout="vtl" 
 banner="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6">
 

@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Jane Welsh Carlyle (1801–1866) and Geraldine Jewsbury (1812-1880)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg">
 
 <param ve-entity eid="Q939838" aliases="Sevenoaks">

@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Walter James, Fourth Lord Northbourne, ‘Inventor of Organic Farming’" author="Diana Hirst" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/5/51/Northbourne_Park_School%2C_Betteshanger_-_geograph.org.uk_-_2220542.jpg">
 
 <param ve-entity eid="Q1011096" aliases="Deal">

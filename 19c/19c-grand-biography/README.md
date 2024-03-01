@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Sarah Grand 1854-1943" author=" Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/34/The_Common%2C_Tunbridge_Wells._%28NBY_438791%29.jpg" Description="Professor Carolyn Oulton explores the life of feminist writer Sarah Grand (born Frances Clarke) especially her time in Kent.">
 
 <param ve-entity eid="Q894097" aliases="Tunbridge Wells">

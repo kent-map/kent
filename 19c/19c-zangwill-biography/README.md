@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Israel Zangwill (21 January 1864 - 1 August 1926)" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" Description="In this visual essay, Carolyn Oulton follows 19th century Jewish author Israel Zangwill’s visits to the Kent coast as captured in several of his books.">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">

@@ -1,4 +1,4 @@
-.ve-header label="Actors and Theatre" background=gh:kent-map/images/banners/18c.jpg sticky=true
+`mdp-header title="Actors and Theatre" background=gh:kent-map/images/banners/18c.jpg .sticky`
 
 Theatricals, actors and plays from the 16th to the 19th century.
 

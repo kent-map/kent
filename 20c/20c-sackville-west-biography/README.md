@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Vita Sackville-West (1892-1962)" author="Clare Nursey" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/db/Sissinghurst_Castle%2C_Biddenden_Road%2C_Sissinghurst%2C_Kent_-_geograph.org.uk_-_1387067.jpg" attribution="Oast House Archive / Sissinghurst Castle, Biddenden Road, Sissinghurst, Kent">
 <param ve-entity eid="Q1971996" aliases="Sissinghurst">
 <param ve-entity eid="Q1285144" aliases="Knole House">

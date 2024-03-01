@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="The Convict Hulks of Kent " author="Dr Anna McKay " layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/2/24/Walter_William_May_-_Prison_hulks_at_anchor_in_the_River_Medway.jpg">
 
 <param ve-entity eid="Q1321596" aliases="Hoo Peninsula">

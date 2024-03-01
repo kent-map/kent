@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Canterbury Gaol in the Nineteenth Century" author="Dr Maryse Tennant" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 

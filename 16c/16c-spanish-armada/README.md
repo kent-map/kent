@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="The Spanish Armada and Kent " author="Duke of Edinburgh Scheme Participants" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/La_batalla_de_Gravelinas%2C_por_Nicholas_Hilliard.jpg" description="Research by Duke of Edinburgh Scheme Participants describes the importance of Kent to the invasion plans of the Spanish Armada.">
 
 <!-- Global Entities -->

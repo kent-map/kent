@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Princess Victoria at Broadstairs" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/a7e4f0ee-5b60-4e8d-857a-c567e4976d15">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
