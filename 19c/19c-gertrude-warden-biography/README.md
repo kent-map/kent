@@ -9,7 +9,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 #
 
-'The air was laden with the scent of hay after the recent heavy rain; down the grassy cliff-side fat Kentish sheep and lambs were contentedly munching the short herbage; all sights and scents, and even the rushing and rustling of the wind through the little trees that bordered the canal soothed my discontented spirit.”_ The Wooing of a Fairy'_ [^ref1]
+'The air was laden with the scent of hay after the recent heavy rain; down the grassy cliff-side fat Kentish sheep and lambs were contentedly munching the short herbage; all sights and scents, and even the rushing and rustling of the wind through the little trees that bordered the canal soothed my discontented spirit.” _The Wooing of a Fairy'_ [^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0b/LympneCastle1830.jpg" label="Lympne Castle, 1830" attribution="Verne Equinox at English Wikipedia, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/85/Lympne_Castle%2C_Kent_-_geograph.org.uk_-_730491.jpg" label="Lympne Castle, Kent" attribution="John Mavin">
 
