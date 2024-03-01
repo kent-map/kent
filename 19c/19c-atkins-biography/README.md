@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Anna Atkins (1799-1871)" author="Trinity Barber and Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="In this essay, Trinity Barber and Michelle Crowther introduce the life of Nineteenth Century botanist and photographer, Anna Atkins.">
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">

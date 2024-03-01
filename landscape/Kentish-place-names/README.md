@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Kentish place-names and the literary imagination’" author="Professor Peter Vujakovic" layout="vtl" banner=" "> 
   <param ve-entity eid="Q5360119" aliases="Elham Valley">

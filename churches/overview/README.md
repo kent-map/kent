@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="The Hidden Gems of Parochial Kent" author="Andrew Vincent" layout="vtl" banner="https://stor.artstor.org/stor/19dd8250-567d-401f-af5e-2c86842c2a9f">
 
 <param ve-entity eid="Q743020" aliases="Headcorn">

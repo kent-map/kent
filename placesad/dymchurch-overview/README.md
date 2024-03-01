@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Dymchurch" author="Michelle Crowther" layout="vtl" banner="https://commons.wikimedia.org/wiki/File:Charles_Sims--The_Sands_at_Dymchurch--c1920-2--Tate.jpg">
 
 <param ve-entity eid="Q179224" aliases="Dover">

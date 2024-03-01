@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Kentish place-names – ‘Riddley world’" author="Professor Peter Vujakovic" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/68/River_Darent_-_2020-09-27.jpg" attribution="The wub" license="CC BY-SA 4.0">
 <param ve-entity eid="Q5360119" aliases="Elham Valley">

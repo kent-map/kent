@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Lullingstone Roman Villa" author="Nadia Balbontin and Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg">
 
 <param ve-entity eid="Q939838" aliases="Sevenoaks">

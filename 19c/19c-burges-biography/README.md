@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="William Burges (1827-1881)" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/1f188cc0-37b3-4af1-86a5-7ff2c3e8db88" description="Michelle Crowther details the Kent work of neo-gothic architect and designer, William ‘Billy’ Burges.">
 
 <!-- Global Entities -->

@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Alfred Moberly (1835-1912)" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/b91a767a-109e-4a7d-b7c6-980d0f8601a5">
 
 <param ve-entity eid="Q967166" aliases="Hythe">

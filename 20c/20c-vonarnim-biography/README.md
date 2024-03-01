@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Elizabeth von Arnim. Pseudonym of Mary Beauchamp (1866-1941)" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/4/45/Leeds_Castle_-_side_view.jpg">
 
 <param ve-entity eid="Q729006" aliases="Chatham">

@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Rochester and Chatham – the pioneers of Jewish emancipation" author="Irina Fridman" layout="vtl" banner="https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21"> 
 

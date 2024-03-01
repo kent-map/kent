@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Amy Johnson" author="Jane Delamaine" layout="vtl" banner="https://stor.artstor.org/stor/9ac45485-b2cf-4065-90b5-f363a95788a8">
 

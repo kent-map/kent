@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Joseph Conrad (1857-1924)" author="Martin Watts" layout="vtl" banner="https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20"> 
 

@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="The Medway Towns" author="Keenan Chalmers" layout="vtl" 
 banner="https://stor.artstor.org/stor/6789bfa9-db1a-4454-8b8b-0e11233bf2de">
 

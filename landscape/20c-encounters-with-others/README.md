@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Hop and fruit picking in the 20th century" author="Peter Vujakovic" layout="vtl" 
 banner="https://stor.artstor.org/stor/40fd3c44-43fc-4930-9377-1960db48d73b">
 

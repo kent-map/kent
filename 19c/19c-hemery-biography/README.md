@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Francis Hobart Hemery (1847-1879)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b7/Ship_rigged_ironclad_%28HMS_Achilles_in_port%29_%28cropped%29_RMG_PW8172.jpg">
 
 Francis Hobart Hemery, poet, was born at sea on the 22nd March 1847, the son of John and Anna Hemery (nee Beatty). He was baptised in Jersey on the 12 May. His father was a successful merchant who became manager of the London and County bank. The family later moved to [Canterbury](/19c/19c-canterbury).

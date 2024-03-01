@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Traveller's Joy" author="Miroslava Karaskova" layout="vtl" banner="https://stor.artstor.org/stor/fd719478-3910-46cb-bd69-61d1451904ce">
 
 <param ve-entity eid="Q26551755" aliases="Lansdown Road">

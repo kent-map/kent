@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Sir Winston Churchill (1874-1965)" author="Michelle Whitham" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/Chartwell_and_Surrounding_Land.jpg">
 

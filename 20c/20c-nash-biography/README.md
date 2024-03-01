@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Paul Nash (1889 - 1946)" author="Professor Phil Hubbard" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/8/87/Paul_Nash_-_The_Edge_of_a_Wood_-_1925_-_10341.jpg">
 
 <param ve-entity eid="Q2796278" aliases="Dymchurch">

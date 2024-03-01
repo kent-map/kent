@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Herbert George Wells (H.G Wells) (1866-1946)" author="Simone Blandford" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">

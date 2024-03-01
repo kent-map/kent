@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="The secret war tunnels of Dover Castle" author="Brooke Altringham" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg" label="Dover Castle" attribution="Suicasmo"> 
 

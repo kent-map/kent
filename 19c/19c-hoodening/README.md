@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="The Hooden Horse: an East Kent tradition" author="Jacqui Stamp" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="This visual essay by Jacqui Stamp discusses the mythical but nonetheless enduring folk tradition of the Hooden Horse in Kent from the early 19th century to today.">
 

@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Jocelyn Brooke (1908-1966) " author="Dr Simon Wilson" layout="vtl" banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994" description="In this visual essay, Dr Simon Wilson presents the life and works of kent author Jocelyn Brooke.">
 
 <!-- Global Entities -->

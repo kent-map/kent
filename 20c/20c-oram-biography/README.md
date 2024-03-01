@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Daphne Oram (1925–2003)" author="Emma Latham" layout="vtl" banner="https://stor.artstor.org/stor/ed545935-aca9-4569-9b43-54e1f11d3e99" label="Canterbury Christ Church College">
 
 <param ve-entity eid="Q2740296" aliases="Wrotham">

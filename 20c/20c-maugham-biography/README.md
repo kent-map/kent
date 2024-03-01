@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title=" William Somerset Maugham (1874-1965)" author=" Laura Allen" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1f/W._Somerset_Maugham_signature.svg" description="Laura Allen traces the early influence of Kent on playwright, novelist, and short story writer, Somerset Maugham.">
 
 <!-- Global Entities -->

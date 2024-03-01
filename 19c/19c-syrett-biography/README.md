@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Netta Syrett  (17 March 1865-15 December 1943)" author="Dr Alyson Hunt" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/c/c0/Dream_days_%281922%29_%2814773133082%29.jpg">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">

@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Deal by the sea" author="Andrew Sargent" layout="vtl" banner="https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4">
 
 #

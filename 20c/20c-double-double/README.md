@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Double Double by John Brunner" author="Dr Michael Goodrum" layout="vtl" 
 banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301">
 

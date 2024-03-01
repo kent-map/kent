@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Pamela Wynne (Winifred Mary Scott, née Watson) 1879-1959" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/32/The_harbor_I._Margate_England.jpg" description="Both romance and crime fiction flourished in the 1930s holiday market, and Margate on the East coast of Kent provided an obvious setting for middlebrow fiction">
 
 <param ve-entity eid="Q618045" aliases="Margate">

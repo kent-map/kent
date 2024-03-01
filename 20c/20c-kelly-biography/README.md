@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Mary Kelly (1927-2017)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/3/39/Conveyor%2C_Stone_Cement_Works_1974_-_geograph.org.uk_-_133793.jpg" attribution="Pierre Terre / Conveyor, Stone Cement Works 1974" description="Due to a Death was written by Mary Kelly after a visit to Kent">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">

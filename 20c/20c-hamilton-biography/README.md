@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Cicely Hamilton (15 June 1872 – 6 December 1952)" author="Carla Danella" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg">
 
 <param ve-entity eid="Q107325931" aliases="Priest’s House">

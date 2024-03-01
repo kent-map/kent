@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Kent’s 18th-century Gang War" author="Joseph Dragovich" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 
 <param ve-entity eid="Q2257157" aliases="Shoreham">
