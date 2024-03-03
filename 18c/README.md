@@ -57,7 +57,7 @@ What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d h
 
 [Elizabeth Elstob](18c-elstob-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_Elizabeth_Elstob.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Elizabeth_Elstob.jpg)
 
 A pioneering scholar of Anglo-Saxon who lived with her aunt and uncle in Canterbury, Elstob can lay claim to be Canterbury’s first bluestocking or female scholar. 
 
