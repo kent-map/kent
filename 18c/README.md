@@ -53,6 +53,12 @@ What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d h
 
 'My old friend, Mrs. Carter, … could make a pudding, as well as translate Epictetus from the Greek, and work a handkerchief as well as compose a poem.’ Elizabeth Carter, poet, classicist, writer, translator, and linguist was born in Deal.  
 
+## Elizabeth Elstob
+
+[Elizabeth Elstob](18c-elstob-biography)
+
+
+
 ## Ann Radcliffe
 
 [Ann Radcliffe](18c-radcliffe-biography)
