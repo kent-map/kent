@@ -78,7 +78,7 @@ Best known for her 1848 collection of ‘real’ ghost stories _The Night Side o
 
 ## Elizabeth Elstob
 
-[Elizabeth Elstob](18c-elstob-biography)
+[Elizabeth Elstob](/18c/18c-elstob-biography)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Elizabeth_Elstob.jpg)
 
