@@ -163,7 +163,7 @@ Dr Susan Civale is Senior Lecturer in Romanticism at Canterbury Christ Church Un
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0634362-1833-4d30-9dd3-08c3a5e8a2f1)
 
-Liam Cohen is a Creative and Professional Writing student at Canterbury Christchurch University. He first wrote a collection of poetry at fifteen years old. Since then, his passion for writing has blossomed and he writes all forms of writing. Liam focuses on using emotive language to resonate with his readers.
+Liam Cohen is a Creative and Professional Writing student at Canterbury Christchurch University. He started writing poetry at fifteen years old. Since then, his passion for writing has blossomed and now writes all forms. Liam focuses on life-like narratives to resonate with his readers. Liam lives in the seaside town of Deal with his wife and dogs. His adopted hometown has been the inspiration for many of his works and he has recently had an article published on the town’s military history which was well received by the community. Besides writing, his interests include playing basketball, enjoying the beach and being a good husband.
 
 ## Carla Danella
 
@@ -569,6 +569,14 @@ Claire Boardman is a PhD Candidate in Applied Digital Humanities at the Universi
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Kaitlyn_Cowling.jpg)
 
 Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from Canterbury Christ Church University. In 2019, Kaitlyn co-wrote a 'Murder Mystery Trail' event for the Being Human Festival. She has lived in Kent her whole life. @KatilynMCowling
+
+## Pasindu Diwalapa Hewage
+
+[Pasindu Diwalapa Hewage]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3bb79a28-619b-4ee2-9fa7-27de1cf6b62a)
+
+Pasindu Jayalal is a Computer Science student set to graduate in June 2024. During his internship as a web developer at Kent Map Online, Pasindu coverted dynamic thumbnails to static images to enhance website performance and created Python scripts to detect duplicate images and references.
 
 ## Dominique Gracia
 
