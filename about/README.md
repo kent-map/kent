@@ -570,6 +570,14 @@ Claire Boardman is a PhD Candidate in Applied Digital Humanities at the Universi
 
 Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from Canterbury Christ Church University. In 2019, Kaitlyn co-wrote a 'Murder Mystery Trail' event for the Being Human Festival. She has lived in Kent her whole life. @KatilynMCowling
 
+## Pasindu Diwalapa Hewage
+
+[Pasindu Diwalapa Hewage]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3bb79a28-619b-4ee2-9fa7-27de1cf6b62a)
+
+Pasindu Jayalal is a Computer Science student set to graduate in June 2024. During his internship as a web developer at Kent Map Online, Pasindu coverted dynamic thumbnails to static images to enhance website performance and created Python scripts to detect duplicate images and references.
+
 ## Dominique Gracia
 
 [Dominique Gracia]()
