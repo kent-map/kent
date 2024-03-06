@@ -608,7 +608,7 @@ Logan Miller is 3rd year Computer Science BSc student at the University of Sheff
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Heather_Murdoch.jpg)
 
-Heather designed a favicon for the site.
+Heather is a creative writer and illustrator. She has created illustrations of a mermaid on a motorbike and Stig of the Dump for the site.
 
 # With thanks
 
