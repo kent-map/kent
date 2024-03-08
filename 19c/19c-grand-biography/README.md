@@ -35,7 +35,7 @@ But like Beth McClure, Sarah Grand later transferred her energies from writing t
 <!--Basemap centred on Tunbridge Wells-->
 <param ve-map center="Q894097" zoom="15">
 
-Like [Gertrude Warden](/19c/19c-gertrude-warden-biography) (another author with Kent connections), she was also a member of the Women Writers' Suffrage League. As a speaker, Grand was certainly in demand, although it is hard to know what to make of the Ramsgate Congregational Institute's invitation to deliver a lecture on 'Mere Man' in 1903. The schedule for the previous few months includes all manner of entertainments, from Alfred Capper’s thought reading to a lantern lecture and costume recitals.
+Like [Gertrude Warden](/19c/19c-gertrude-warden-biography) (another author with Kent connections), she was also a member of the Women Writers' Suffrage League. As a speaker, Grand was certainly in demand, although it is hard to know what to make of the Ramsgate Congregational Institute's invitation to deliver a lecture on 'Mere Man' in 1903.[^ref2] The schedule for the previous few months includes all manner of entertainments, from Alfred Capper’s thought reading to a lantern lecture and costume recitals.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/National_Union_Women%27s_Suffrage_shop_on_18_Crescent_Road%2C_Tunbridge_Wells.jpg" label="NUWSS shop on 18 Crescent Road, Tunbridge Wells" attribution="LSE Library, No restrictions, via Wikimedia Commons">
 
 Grand was on visiting terms with [Siegfried Sassoon](/20c/20c-sassoon-biography) and his mother, and in 1915 she also appears in connection with a proposed Women's Volunteer Reserve Movement. Seconding a vote of thanks, Grand confessed that she had come to the meeting with a ‘neutral’ mind, but having heard the arguments – including the benefits of healthy exercise and the fear that without an organised body, over enthusiastic women ‘should be going about ready to shoot at any moment’ – she thought the movement ‘admirable’.     
@@ -45,11 +45,11 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She die
 
 ### Bibliography
 
-Hill, Berkeley. ['Statistical Results of the Contagious Diseases Act.'](https://www.jstor.org/stable/pdf/2338849.pdf?refreqid=excelsior%3Aed2e8c490a44370a22979ceafd395737&ab_segments=&origin=&acceptTC=1) (_Journal of the Statistical Society of London_). 33:4. December f1870. 463-485.   
+Hill, Berkeley. [Statistical Results of the Contagious Diseases Act](https://www.jstor.org/stable/2338849) _Journal of the Statistical Society of London_. 33:4. December f1870. 463-485.    
 Kersley, Gillian. _Darling Madame : Sarah Grand and Devoted Friend._ London: Virago, 1983.   
 'Low-Heeled Shoes And No Cosmetics'. [_Tunbridge Wells Advertiser_, 13 March 1915]. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.    
 Mangum, Teresa. _Married, Middlebrow and Militant: Sarah Grand and the New Woman Novel_. Michigan: University of Michigan, 1998.   
-Orlando. 'Sarah Grand'. https://orlando.cambridge.org/index.php/people/98e3f429-aaa4-4010-b51b-e390bab56a09.   
+Orlando. ['Sarah Grand'](https://orlando.cambridge.org/index.php/people/98e3f429-aaa4-4010-b51b-e390bab56a09).   
 ‘Ramsgate Congregational Institute, Broad Street. Session 1902-03.’ _Thanet Advertiser._ 18 October 1902. 4.     
 Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman._ Ohio: Ohio University Press, 2004.   
 [Sarah Grand Archive](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/icvww-research-projects-and-events/sarah-grand-collection.aspx). International Centre for Victorian Women Writers, Canterbury Christ Church University.   
