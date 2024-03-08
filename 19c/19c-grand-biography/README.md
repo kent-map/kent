@@ -45,7 +45,7 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She die
 
 ### Bibliography
 
-Hill, Berkeley. ['Statistical Results of the Contagious Diseases Act.'](https://www.jstor.org/stable/pdf/2338849.pdf?refreqid=excelsior%3Aed2e8c490a44370a22979ceafd395737&ab_segments=&origin=&acceptTC=1) _Journal of the Statistical Society of London_. 33:4. December f1870. 463-485.   
+Hill, Berkeley. ['Statistical Results of the Contagious Diseases Act.'](https://www.jstor.org/stable/pdf/2338849.pdf?refreqid=excelsior%3Aed2e8c490a44370a22979ceafd395737&ab_segments=&origin=&acceptTC=1) (_Journal of the Statistical Society of London_). 33:4. December f1870. 463-485.   
 Kersley, Gillian. _Darling Madame : Sarah Grand and Devoted Friend._ London: Virago, 1983.   
 'Low-Heeled Shoes And No Cosmetics'. [_Tunbridge Wells Advertiser_, 13 March 1915]. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.    
 Mangum, Teresa. _Married, Middlebrow and Militant: Sarah Grand and the New Woman Novel_. Michigan: University of Michigan, 1998.   
