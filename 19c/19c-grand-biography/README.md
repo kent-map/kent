@@ -42,7 +42,6 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She die
 <param ve-image url="https://stor.artstor.org/stor/f37d719d-5638-49d9-973f-bcfc0995e197" label="Queen's Grove, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells">
 
 ### Bibliography
-
 Hill, Berkeley. [Statistical Results of the Contagious Diseases Act](https://www.jstor.org/stable/2338849) _Journal of the Statistical Society of London_. 33:4. December f1870. 463-485.    
 Kersley, Gillian. _Darling Madame: Sarah Grand and Devoted Friend._ London: Virago, 1983.    
 "Low-Heeled Shoes And No Cosmetics." _Tunbridge Wells Advertiser_, 13 March 1915. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.    
@@ -53,6 +52,5 @@ Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward
 [Sarah Grand Archive](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/icvww-research-projects-and-events/sarah-grand-collection.aspx). International Centre for Victorian Women Writers, Canterbury Christ Church University.   
 
 ### References
-
 [^ref1]: Sutton-Rampseck 11.
 [^ref2]: Kersley 86.
