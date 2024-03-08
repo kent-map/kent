@@ -17,7 +17,7 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and propon
 <!--Basemap centred on Tunbridge Wells-->
 <param ve-map center="Q894097" zoom="12">
 
-Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation, she was denied an education comparable to her brothers’, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction.[^ref1] She made a disastrous early marriage in 1871 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in Sandgate: there was a lock hospital in nearby Shorncliffe, where the [Contagious Diseases Act](/19c/19c-contagious-diseases) had come into force in 1868.
+Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation, she was denied an education comparable to her brothers’, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1871 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in Sandgate: there was a lock hospital in nearby Shorncliffe, where the [Contagious Diseases Act](/19c/19c-contagious-diseases) had come into force in 1868.
 <param ve-image url="https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg" label="Sarah Grand's passport" attribution="Sarah Grand's passport © International Centre for Victorian Women Writers">
 <!--Basemap centred on Sandgate-->
 <param ve-map center="Q1000312" zoom="13">
@@ -38,19 +38,19 @@ Like [Gertrude Warden](/19c/19c-gertrude-warden-biography) (another author with 
 Grand was on visiting terms with [Siegfried Sassoon](/20c/20c-sassoon-biography) and his mother, and in 1915 she also appears in connection with a proposed Women's Volunteer Reserve Movement. Seconding a vote of thanks, Grand confessed that she had come to the meeting with a ‘neutral’ mind, but having heard the arguments – including the benefits of healthy exercise and the fear that without an organised body, over enthusiastic women ‘should be going about ready to shoot at any moment’ – she thought the movement ‘admirable’.     
 <br>
 Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She died in Wiltshire in 1943. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/THE_WOMENS_VOLUNTEER_RESERVE_ON_THE_HOME_FRONT%2C_1914-1918_Q107999.jpg" label="THE WOMENS VOLUNTEER RESERVE ON THE HOME FRONT, 1914-1918 Q107999.jpg" attribution="British official photographer, Public domain, via Wikimedia Commons">   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/THE_WOMENS_VOLUNTEER_RESERVE_ON_THE_HOME_FRONT%2C_1914-1918_Q107999.jpg" label="THE WOMENS VOLUNTEER RESERVE ON THE HOME FRONT, 1914-1918 Q107999.jpg" attribution="British official photographer, Public domain, via Wikimedia Commons">  
+<param ve-image url="https://stor.artstor.org/stor/f37d719d-5638-49d9-973f-bcfc0995e197" label="Queen's Grove, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells">
 
 ### Bibliography
 
 Hill, Berkeley. [Statistical Results of the Contagious Diseases Act](https://www.jstor.org/stable/2338849) _Journal of the Statistical Society of London_. 33:4. December f1870. 463-485.    
 Kersley, Gillian. _Darling Madame: Sarah Grand and Devoted Friend._ London: Virago, 1983.    
-'Low-Heeled Shoes And No Cosmetics' _Tunbridge Wells Advertiser_, 13 March 1915. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.    
+"Low-Heeled Shoes And No Cosmetics." _Tunbridge Wells Advertiser_, 13 March 1915. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.    
 Mangum, Teresa. _Married, Middlebrow and Militant: Sarah Grand and the New Woman Novel_. Michigan: University of Michigan, 1998.   
-Orlando. ['Sarah Grand'](https://orlando.cambridge.org/index.php/people/98e3f429-aaa4-4010-b51b-e390bab56a09).   
-‘Ramsgate Congregational Institute, Broad Street. Session 1902-03.’ _Thanet Advertiser._ 18 October 1902. 4.     
+Orlando. [Sarah Grand](https://orlando.cambridge.org/index.php/people/98e3f429-aaa4-4010-b51b-e390bab56a09).   
+"Ramsgate Congregational Institute, Broad Street. Session 1902-03." _Thanet Advertiser._ 18 October 1902. 4.     
 Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman._ Ohio: Ohio University Press, 2004.   
 [Sarah Grand Archive](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/icvww-research-projects-and-events/sarah-grand-collection.aspx). International Centre for Victorian Women Writers, Canterbury Christ Church University.   
-<param ve-image url="https://stor.artstor.org/stor/f37d719d-5638-49d9-973f-bcfc0995e197" label="Queen's Grove, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells">
 
 ### References
 
