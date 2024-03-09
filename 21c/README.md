@@ -55,7 +55,7 @@ The word mystery comes to mind when approaching Seabrook and his work - a fittin
 
 ## Sin of Omission
 
-[Sin of Omission](/21c-sin-of-omission)
+[Sin of Omission](21c-sin-of-omission)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/)
 
