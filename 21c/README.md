@@ -69,6 +69,14 @@ There was a mermaid on a scooter outside the station. Gary rubbed his eyes twice
 
 Once a popular seaside resort where Victorians came to take the air, Margate was to suffer the fate of many other seaside towns: limping through the end of the last century with rising unemployment, dilapidated structures, organ music, and absent holiday makers.
 
+## Sin of Omission
+
+[Sin of Omission](/21c-sin-of-omission)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/)
+
+In her 2021 novel, _A Sin of Omission_, Marguerite Poland highlights the work carried out by Anglican missionaries in 19th century South Africa. During this time, many young men travelled from all over the world to study at Saint Augustine’s Missionary College in Canterbury. 
+
 ## Starting University in the Covid Year
 
 [Starting University in the Covid Year](21c-canterbury-covid)
