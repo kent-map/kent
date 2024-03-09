@@ -69,10 +69,9 @@ A special thank you to Marguerite Poland for her immense generosity and mentorsh
 Bailey, Henry. _Twenty-five years at St. Augustine College._ A Letter to Late Students. 1874.   
 Boggis, Robert. _A History of St. Augustine’s College._ Cross and Jackson. 1907.   
 Butler, Derek. _A Century of Canterbury_, Sutton Publishing, 2002.   
-Cohen, Liam. ‘Writing Comes Alive Podcast.’ Carrion Publishing.  
-https://drive.google.com/file/d/1lPovymElRjkeAY8m1C33_2Tlr0BuD5Xr/view?usp=drivesdk. 2023.   
-Dewar, Jen. [‘The Most In-demand Skills for 2023.’ Talent Blog. LinkedIn.] (https://www.linkedin.com/business/talent/blog/talent-strategy/linkedin-most-in-demand-hard-and-soft-skills). 2023.  
-France, Canon. [_St Augustine’s, Canterbury: A Story of Enduring Life_] (https://archive.org/details/StAugustinesCanterburyAStoryOfEnduringLife/page/n13/mode/1up). 1952.   
+Cohen, Liam. [Writing Comes Alive Podcast](https://open.spotify.com/episode/2GiT9SWePxPu0KAD4HzF7R?si=0fsBXbaMQOaU6_OLG0LInA&nd=1&dlsi=de4fb73476234e7c) Carrion Publishing.   
+Dewar, Jen. [‘The Most In-demand Skills for 2023.’ Talent Blog. LinkedIn.](https://www.linkedin.com/business/talent/blog/talent-strategy/linkedin-most-in-demand-hard-and-soft-skills). 2023.  
+France, Canon. [_St Augustine’s, Canterbury: A Story of Enduring Life_](https://archive.org/details/StAugustinesCanterburyAStoryOfEnduringLife/page/n13/mode/1up). 1952.   
 Hodgson, Janet. ‘Kid Gloves and Cricket on the Kei.’ _Religion in Southern Africa_. Vol 8: 2. July 1987. 61-91.   
 National Archives. [Currency Converter: 1270-2017](https://www.nationalarchives.gov.uk/currency-converter/).   
 Poland, Marguerite. _A Sin of Omission_. Envelope Books, 2021.   
