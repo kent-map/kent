@@ -57,7 +57,7 @@ The word mystery comes to mind when approaching Seabrook and his work - a fittin
 
 [Sin of Omission](21c-sin-of-omission)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/21-augustine-college.jpg)
 
 In her 2021 novel, _A Sin of Omission_, Marguerite Poland highlights the work carried out by Anglican missionaries in 19th century South Africa. During this time, many young men travelled from all over the world to study at Saint Augustine’s Missionary College in Canterbury. 
 
