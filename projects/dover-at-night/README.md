@@ -13,7 +13,7 @@ Jessie Challacombe
 
 May Aldington
 
-George Augustus Sala
+Author and Journalist, George Augustus Sala arrived in Dover 'bag and baggage' in 1840.
 
 F.F. Montresor
 
