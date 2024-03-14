@@ -2,17 +2,20 @@ The sea is calm to-night. The tide is full, the moon lies fair Upon the straits 
 
 Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived in Dover 'bag and baggage' in 1840.
 
+G.W.M Reynolds's book _Mary Price_ published in 1851 was set in Wright’s Hotel — and on Dover’s Shakespeare Cliff. While in Dover, the heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala entitled The Streets of the World
+
 Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography), Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869.
+
+Feminist and social reformer, [Josephine Butler](/19c/19c-butler-biography) (1828-1906) visited Kent in the Spring of 1870 on a country-wide tour to campaign against the Contagious Diseases Act. She came to Dover in the Spring.
 
 [David Baron](/19c/19c-baron-biography/)
 
-David Baron member of the Mildmay Mission was involved in an appeal by several men in Dover to provide help for Jews in Russia, Baron’s homeland, for at that time Poland was part of the Russian Empire. This was a time of increased persecution of Jews in Pogroms. An address on the subject was to be given by the Rabbi of the Dover synagogue.6 During Baron’s time as a missionary he made and organised many trips to Russia and Eastern Europe.
+David Baron was a member of the Mildmay Mission in Dover which provided help for Jewish people in Russia, who were suffering persecution in the Pogroms. An address on the subject was to be given by the Rabbi of the Dover synagogue.
 
-Josephine Butler
+In 1880, the Mayor of Dover decided that the town needed an assembly hall and civic rooms. [William Burges](/19c/19c-burges-biography) was commissioned to design the plans for the new building and began working on these on 1 March 1881. Not only did he design the building, but also the decorative scheme and the furniture, including an impressive table surrounded by lion-headed chairs for the Mayor’s Parlour. Sadly, Burges did not live to see his vision as he died on the 20 April 1881
 
-William Burges
 
-Jessie Challacombe
+Children's author, Jessie Challacombe, was born in Dover in 1864.
 
 May Aldington
 
@@ -28,7 +31,6 @@ Mary Price
 
 Dover 19th century
 
-G.W. Reynolds
 
 Turkish baths
 
