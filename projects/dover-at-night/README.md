@@ -14,13 +14,13 @@ David Baron was a member of the Mildmay Mission in Dover which provided help for
 
 In 1880, the Mayor of Dover decided that the town needed an assembly hall and civic rooms. [William Burges](/19c/19c-burges-biography) was commissioned to design the plans for the new building and began working on these on 1 March 1881. Not only did he design the building, but also the decorative scheme and the furniture, including an impressive table surrounded by lion-headed chairs for the Mayor’s Parlour. Sadly, Burges did not live to see his vision as he died on the 20 April 1881
 
-Children's author, Jessie Challacombe, was born in Dover in 1864 and with her parents Christopher and Martha Worsfold contributed to the life of Christ Church on the Folkestone Road. She was a member of the church’s young ladies’ working party and in 1890, gave a talk to the parents of the Sunday School scholars on the best way to bring up children: ‘Prayer, home-teaching, training, and the power of example were suggested as the four great means for directing the children aright.’5 This advice was later evidenced in her fiction, through her tales of Christian life.
+Children's author, [Jessie Challacombe](/19c/19c-challacombe-biography), was born in Dover in 1864 and with her parents Christopher and Martha Worsfold contributed to the life of Christ Church on the Folkestone Road. She was a member of the church’s young ladies’ working party and in 1890, gave a talk to the parents of the Sunday School scholars on the best way to bring up children: ‘Prayer, home-teaching, training, and the power of example were suggested as the four great means for directing the children aright.’5 This advice was later evidenced in her fiction, through her tales of Christian life.
 
-F.F. Montresor's novel _Into the Highways and Hedges_ published in 1895 is set in Dover where the beach is crowded with nursery-maids and children, Punch and Judy shows, minstrels, men selling indigestible gooseberries, beggars and women with false lace and ‘A fresh wind crisped the surface of the water, so that it was covered with curly white flecks, and it was hard to tell which was bluest, sea or sky'.
+[F.F. Montresor](/19c/19c-montresor-biography)'s novel _Into the Highways and Hedges_ published in 1895 is set in Dover where the beach is crowded with nursery-maids and children, Punch and Judy shows, minstrels, men selling indigestible gooseberries, beggars and women with false lace and ‘A fresh wind crisped the surface of the water, so that it was covered with curly white flecks, and it was hard to tell which was bluest, sea or sky'.
 
-In 1905, May Aldington, published her first book, _Love Letters that caused a Divorce_, a series of letters detailing the temptations of Kitty Yorke, and convinced the _Kentish Gazette_ office to fill its windows with copies.
+In 1905, [May Aldington](/20c/20c-aldington-biography), published her first book, _Love Letters that caused a Divorce_, a series of letters detailing the temptations of Kitty Yorke, and convinced the _Kentish Gazette_ office to fill its windows with copies.
 
-H.E. Bates novel _An Aspidistra in Babylon_ set in Dover was published in 1960
+[H.E. Bates](/20c/20c-bates-biography) novel _An Aspidistra in Babylon_ set in Dover was published in 1960
 
 Dover Tunnels
 
