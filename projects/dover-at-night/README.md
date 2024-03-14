@@ -6,7 +6,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 'The sea is calm to-night. The tide is full, the moon lies fair Upon the straits ; — on the French coast the light Gleams and is gone ; the cliffs of England stand, Glimmering and vast, out in the tranquil bay. Come to the window, sweet is the night-air ! Only, from the long line of spray Where the sea meets the moon-blanch'd land, Listen ! you hear the grating roar Of pebbles which the waves draw back, and fling' - _Dover Beach_ by Matthew Arnold
 
-The 18th century poem, _The Seaman of Dover_, is a tale of love between Henry who 'had conquered the hearts of many young damsels of beauty so bright' and Ruth, a squire's daughter from Sandwich whose parents lock her up in her chamber to prevent them marrying. Disappointed, Henry sails to Spain, but eventually the couple are reunited and marry.
+The 18th century poem, _The Seaman of Dover_, is a tale of love between Henry who 'had conquered the hearts of many young damsels of beauty so bright' and Ruth, a squire's daughter from Sandwich whose parents lock her up in her chamber to prevent them marrying. Disappointed, Henry sails to Spain, but Ruth follows him and eventually the couple are reunited and marry.
 
 Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived in Dover 'bag and baggage' in 1840.
 
