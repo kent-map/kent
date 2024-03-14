@@ -6,6 +6,8 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 'The sea is calm to-night. The tide is full, the moon lies fair Upon the straits ; — on the French coast the light Gleams and is gone ; the cliffs of England stand, Glimmering and vast, out in the tranquil bay. Come to the window, sweet is the night-air ! Only, from the long line of spray Where the sea meets the moon-blanch'd land, Listen ! you hear the grating roar Of pebbles which the waves draw back, and fling' - _Dover Beach_ by Matthew Arnold
 
+The 18th century poem, _The Seaman of Dover_, is a tale of love between a sailor who 'had conquered the hearts of many young damsels of beauty so bright' and Ruth, a squire's daughter from Sandwich whose parents lock her up in her chamber to prevent them marrying. After a separation in which the sailor visits Spain, the couple are eventually reunited.  
+
 Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived in Dover 'bag and baggage' in 1840.
 
 The lyrics to "'Tis So Sweet to Trust in Jesus" were written by Louisa M. R. Stead who was born in Dover in 1850 and converted to Methodism at the age of nine.  
