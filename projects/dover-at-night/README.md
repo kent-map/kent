@@ -12,7 +12,9 @@ In a 1795 ballad, _Buxom Nan of Dover_ Dick of Dover, toasts his sweetheart Nan 
 
 In a later ballad, _Ned of Dover_ (1800), Nancy who is being wooed by a 'jovial British tar' on Dover beach tells him that although she loves jolly sailors they do have a habit of letting women down, leaving them "broken-hearted". When the boatswain bawls the signal to hove to, Nancy sheds a soft tear and hopes that Ned will be protected from danger.
 
-Phiip Thicknesse who published his _Useful hints to those who travel into France or Flanders, by way of Dover, Margate and Ostend_ in 1782 wrote 'It was my fate to be obliged to stay at Dover a compleat month, which gave me an opportunity of removing some prejudices, generally conceived againit that ancient city ; for I found at Mrs. Belcher's, the City of London, every thing that was good, and nothing like imposition ; and there are besides other good inns ; I found likewise a few people who were not only agreeable, but worthy of esteem and friendship.'
+Phiip Thicknesse who published his _Useful Hints to those who Travel into France or Flanders, by way of Dover, Margate and Ostend_ in 1782 wrote 'It was my fate to be obliged to stay at Dover a compleat month, which gave me an opportunity of removing some prejudices, generally conceived againit that ancient city ; for I found at Mrs. Belcher's, the City of London, every thing that was good, and nothing like imposition ; and there are besides other good inns ; I found likewise a few people who were not only agreeable, but worthy of esteem and friendship.'
+
+The play _Ways and Means; or a Trip to Dover: A Comedy in Three Acts_ printed in 1788, 
 
 Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived in Dover 'bag and baggage' in 1840.
 
