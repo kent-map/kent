@@ -6,6 +6,8 @@ Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography), Wesleyan minister
 
 [David Baron](/19c/19c-baron-biography/)
 
+David Baron member of the Mildmay Mission was involved in an appeal by several men in Dover to provide help for Jews in Russia, Baron’s homeland, for at that time Poland was part of the Russian Empire. This was a time of increased persecution of Jews in Pogroms. An address on the subject was to be given by the Rabbi of the Dover synagogue.6 During Baron’s time as a missionary he made and organised many trips to Russia and Eastern Europe.
+
 Josephine Butler
 
 William Burges
