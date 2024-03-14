@@ -32,7 +32,7 @@ Dover Secret [Wartime Tunnels](/20c/20c-secret-tunnels/)
 
 
 
-Dover 19th century
+[Dover in the 19th century](/19c/19c-dover/)
 
 
 Turkish baths
