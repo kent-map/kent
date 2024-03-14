@@ -1,4 +1,10 @@
-The sea is calm to-night. The tide is full, the moon lies fair Upon the straits ; — on the French coast the light Gleams and is gone ; the cliffs of England stand, Glimmering and vast, out in the tranquil bay. Come to the window, sweet is the night-air ! Only, from the long line of spray Where the sea meets the moon-blanch'd land, Listen ! you hear the grating roar Of pebbles which the waves draw back, and fling - _Dover Beach_ by Matthew Arnold
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="Dover at Night" author="Michelle Crowther" layout="vtl" 
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+
+#
+
+'The sea is calm to-night. The tide is full, the moon lies fair Upon the straits ; — on the French coast the light Gleams and is gone ; the cliffs of England stand, Glimmering and vast, out in the tranquil bay. Come to the window, sweet is the night-air ! Only, from the long line of spray Where the sea meets the moon-blanch'd land, Listen ! you hear the grating roar Of pebbles which the waves draw back, and fling' - _Dover Beach_ by Matthew Arnold
 
 Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived in Dover 'bag and baggage' in 1840.
 
