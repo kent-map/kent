@@ -4,6 +4,8 @@ Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived i
 
 G.W.M Reynolds's book _Mary Price_ published in 1851 was set in Wright’s Hotel — and on Dover’s Shakespeare Cliff. While in Dover, the heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala entitled The Streets of the World
 
+[Charles Dickens](/dickens/dickens-dover/) stayed in Dover on a number of occasions while travelling from London to the continent and he includes it in both David Copperfield and Little Dorrit. During one visit to the town even Dickens suffered from writer’s block. Having set part of David Copperfield in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on Little Dorrit. 
+
 Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography), Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869.
 
 Feminist and social reformer, [Josephine Butler](/19c/19c-butler-biography) (1828-1906) visited Kent in the Spring of 1870 on a country-wide tour to campaign against the Contagious Diseases Act. She came to Dover in the Spring.
@@ -24,11 +26,9 @@ Set in Dover against the backdrop of the French Revolution, Thomas Armstrong's n
 
 [H.E. Bates](/20c/20c-bates-biography) novel _An Aspidistra in Babylon_ set in Dover was published in 1960
 
-Dover Tunnels
+Dover Secret [Wartime Tunnels](/20c/20c-secret-tunnels/)
 
-Dickens David Copperfield
 
-Mary Price
 
 Dover 19th century
 
