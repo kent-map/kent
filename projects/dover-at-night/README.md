@@ -18,6 +18,10 @@ Children's author, [Jessie Challacombe](/19c/19c-challacombe-biography), was bor
 
 In 1905, [May Aldington](/20c/20c-aldington-biography), published her first book, _Love Letters that caused a Divorce_, a series of letters detailing the temptations of Kitty Yorke, and convinced the _Kentish Gazette_ office to fill its windows with copies.
 
+Published in 1910 before both World Wars, _The Raid of Dover: A Romance of the Reign of Woman A.D. 1940_ by Douglas Morey Ford is a futuristic story set in Dover in 1940 in which England is invaded by Germany and the town suffers a bombardment of shells. Listen to this excerpt to hear his description of the bombardment.
+
+Set in Dover against the backdrop of the French Revolution, Thomas Armstrong's novel _Dover Harbour_ was published in 1942, and explores themes of local politics, smuggling, espionage and pressgangs. The book is full of local colour as this scene of a smuggling run illustrates: “The graveyard of St James’ Church, beneath the Castle Hill, was the scene of that night’s run. There, in the blackness of night, a single lantern cast its yellow light over crazy-leaning tombstones and on the soft carpet of grass and the pale gold of fallen leaves.” However, the smugglers evade detection: “Only the spirits of the dead were in the quiet churchyard of St James’s when Mr Toke and his men arrived. But there was a trail of tea from a punctured dollop, and a two-way track of planks as evidence of a large and carefully-planned run.”
+
 [H.E. Bates](/20c/20c-bates-biography) novel _An Aspidistra in Babylon_ set in Dover was published in 1960
 
 Dover Tunnels
