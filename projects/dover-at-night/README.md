@@ -2,6 +2,8 @@ The sea is calm to-night. The tide is full, the moon lies fair Upon the straits 
 
 Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived in Dover 'bag and baggage' in 1840.
 
+The lyrics to "'Tis So Sweet to Trust in Jesus" were written by Louisa M. R. Stead who was born in Dover, in 1850 and converted to Methodism at the age of nine.  
+
 [G.W.M Reynolds's book](/19c/19c-reynoldsgwm-biography) _Mary Price_ published in 1851 was set in Wright’s Hotel — and on Dover’s Shakespeare Cliff. While in Dover, the heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala entitled The Streets of the World
 
 [Charles Dickens](/dickens/dickens-dover/) stayed in Dover on a number of occasions while travelling from London to the continent and he includes it in both David Copperfield and Little Dorrit. During one visit to the town even Dickens suffered from writer’s block. Having set part of David Copperfield in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on Little Dorrit. 
