@@ -4,7 +4,7 @@ Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived i
 
 Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography), Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869.
 
-David Baron
+[David Baron](/19c/19c-baron-biography/)
 
 Josephine Butler
 
