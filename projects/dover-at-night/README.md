@@ -4,9 +4,10 @@ banner="https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of
 
 #
 
-'The sea is calm to-night. The tide is full, the moon lies fair Upon the straits ; — on the French coast the light Gleams and is gone ; the cliffs of England stand, Glimmering and vast, out in the tranquil bay. Come to the window, sweet is the night-air ! Only, from the long line of spray Where the sea meets the moon-blanch'd land, Listen ! you hear the grating roar Of pebbles which the waves draw back, and fling' - _Dover Beach_ by Matthew Arnold
-
+'The sea is calm to-night. The tide is full, the moon lies fair Upon the straits ; — on the French coast the light Gleams and is gone ; the cliffs of England stand, Glimmering and vast, out in the tranquil bay. Come to the window, sweet is the night-air ! Only, from the long line of spray Where the sea meets the moon-blanch'd land, Listen ! you hear the grating roar of pebbles which the waves draw back, and fling' - _Dover Beach_ (1867) by Matthew Arnold
+<br><br>
 Dover has been the source of inspiration for writers over the centuries - with its white cliffs, beach and harbour, its magnificent castle, ferry boats and throng of visitors.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Anonymous_-_The_Beach_at_Dover_-_B1977.14.1638_-_Yale_Center_for_British_Art.jpg" label="The Beach at Dover" attribution="Yale Center for British Art">
 
 In the 18th century ballads of sailors and their lovers were popular. _The Seaman of Dover_ (c.1755), for example, is a tale of love between Henry who 'had conquered the hearts of many young damsels of beauty so bright' and Ruth, a squire's daughter from Sandwich whose parents lock her up in her chamber to prevent them marrying. Disappointed, Henry sails to Spain, where he marries a rich Spanish lady. In the meantime, Ruth runs away from home, dressed as a sailor, and searches for Henry whom she eventually finds in Calais with his rich wife. When his wife suddenly dies, Ruth reveals herself to Henry and they decide to return to England to marry. Now impressed by Henry's wealth, Ruth's parents regret their decision to turn him away. He and Ruth, who has hidden her identity from her parent, invite them to their wedding and it is only when they spot a tell-tale mole on the bride that they realise that the woman dressed in a garment of gold is in fact Ruth. All ends well with seven days of feasting and bell-ringing.
 
