@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Dover at Night" author="Michelle Crowther" layout="vtl" 
-banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+banner="https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of_Dover_Castle_and_Archclift_Fort_%281756%29.jpg">
 
 #
 
@@ -37,6 +37,7 @@ In 1880, the Mayor of Dover decided that the town needed an assembly hall and ci
 Children's author, [Jessie Challacombe](/19c/19c-challacombe-biography), was born in Dover in 1864 and with her parents Christopher and Martha Worsfold contributed to the life of Christ Church on the Folkestone Road. She was a member of the church’s young ladies’ working party and in 1890, gave a talk to the parents of the Sunday School scholars on the best way to bring up children: ‘Prayer, home-teaching, training, and the power of example were suggested as the four great means for directing the children aright.’5 This advice was later evidenced in her fiction, through her tales of Christian life.
 
 [F.F. Montresor](/19c/19c-montresor-biography)'s novel _Into the Highways and Hedges_ published in 1895 is set in Dover where the beach is crowded with nursery-maids and children, Punch and Judy shows, minstrels, men selling indigestible gooseberries, beggars and women with false lace and ‘A fresh wind crisped the surface of the water, so that it was covered with curly white flecks, and it was hard to tell which was bluest, sea or sky'.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/30/The_beach_at_Dover%2C_Kent%2C_early_1900s_%28267298004%29.jpg" label="whatsthatpicture from Hanwell, London, UK, CC BY 2.0, via Wikimedia Commons">
 
 In 1905, [May Aldington](/20c/20c-aldington-biography), published her first book, _Love Letters that caused a Divorce_, a series of letters detailing the temptations of Kitty Yorke, and convinced the _Kentish Gazette_ office to fill its windows with copies.
 
