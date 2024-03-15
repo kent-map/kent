@@ -28,6 +28,9 @@ The lyrics to "'Tis So Sweet to Trust in Jesus" were written by Louisa M. R. Ste
 
 [G.W.M Reynolds's book](/19c/19c-reynoldsgwm-biography) _Mary Price_ published in 1851 was set in Wright’s Hotel — and on Dover’s Shakespeare Cliff. While in Dover, the heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala entitled The Streets of the World
 
+[In the 19th century](/19c/19c-dover/) Dover was visited by writers travelling to the continent.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/Joseph_Mallord_William_Turner%2C_A_Packet_Boat_off_Dover%2C_c._1836%2C_NGA_69409.jpg" label="A Packet Boat off Dover by J.M.W. Turner" attribution="National Gallery of Art, CC0, via Wikimedia Commons">
+
 [Charles Dickens](/dickens/dickens-dover/) stayed in Dover on a number of occasions while travelling from London to the continent and he includes it in both David Copperfield and Little Dorrit. During one visit to the town even Dickens suffered from writer’s block. Having set part of David Copperfield in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on Little Dorrit. 
 
 Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography), Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869.
@@ -57,8 +60,7 @@ Set in Dover against the backdrop of the French Revolution, Thomas Armstrong's n
 Dover Secret [Wartime Tunnels](/20c/20c-secret-tunnels/)
 
 
-[Dover in the 19th century](/19c/19c-dover/)
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/Joseph_Mallord_William_Turner%2C_A_Packet_Boat_off_Dover%2C_c._1836%2C_NGA_69409.jpg" label="A Packet Boat off Dover by J.M.W. Turner" attribution="National Gallery of Art, CC0, via Wikimedia Commons">
+
 
 
 Turkish baths
