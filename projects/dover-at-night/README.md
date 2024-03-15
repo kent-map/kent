@@ -62,5 +62,7 @@ Dover Secret [Wartime Tunnels](/20c/20c-secret-tunnels/)
 
 Turkish baths
 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Dover_at_night_2000_CSK_08721_0055_000%28125524%29.jpg" label="Dover at Night" attribution="Albert Goodwin, Public domain, via Wikimedia Commons">
+
 
 
