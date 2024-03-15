@@ -21,6 +21,7 @@ Travel caused much commentary, among locals and visitors. Phiip Thicknesse who p
 The play _Ways and Means; or a Trip to Dover: A Comedy in Three Acts_ printed in 1788, is set in The Ship, 'the oldest and best' inn in Dover,  where Mrs Peery is begging her husband to wake up and serve the rush of customers who are ringing the bar-bell: 'Sea and land cargoes and carriages, Four sea-sick gentlemen, from Calais; and four ladies, just step out of the Mail Coach'. The ladies complain that the mail coach is 'the worst conveyance in the world' as it 'squeezes four people together like two double letters'. 
 
 Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived in Dover 'bag and baggage' in 1840.
+<param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate Street c. 1830" attribution="Drawn by G. Shepherd">
 
 The lyrics to "'Tis So Sweet to Trust in Jesus" were written by Louisa M. R. Stead who was born in Dover in 1850 and converted to Methodism at the age of nine.  
 
