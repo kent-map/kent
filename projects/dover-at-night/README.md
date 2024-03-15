@@ -57,8 +57,8 @@ Set in Dover against the backdrop of the French Revolution, Thomas Armstrong's n
 Dover Secret [Wartime Tunnels](/20c/20c-secret-tunnels/)
 
 
-
 [Dover in the 19th century](/19c/19c-dover/)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/Joseph_Mallord_William_Turner%2C_A_Packet_Boat_off_Dover%2C_c._1836%2C_NGA_69409.jpg" label="A Packet Boat off Dover by J.M.W. Turner" attribution="National Gallery of Art, CC0, via Wikimedia Commons">
 
 
 Turkish baths
