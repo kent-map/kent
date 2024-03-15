@@ -31,7 +31,7 @@ The lyrics to "'Tis So Sweet to Trust in Jesus" were written by Louisa M. R. Ste
 
 Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography), Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869.
 
-Feminist and social reformer, [Josephine Butler](/19c/19c-butler-biography) (1828-1906) visited Kent in the Spring of 1870 on a country-wide tour to campaign against the Contagious Diseases Act. She came to Dover in the Spring.
+Feminist and social reformer, [Josephine Butler](/19c/19c-butler-biography) (1828-1906) visited Dover in the Spring of 1870 on a country-wide tour to campaign against the Contagious Diseases Act. 
 
 [David Baron](/19c/19c-baron-biography/) was a member of the Mildmay Mission in Dover which provided help for Jewish people in Russia, who were suffering persecution in the Pogroms. An address on the subject was to be given by the Rabbi of the Dover synagogue.
 
