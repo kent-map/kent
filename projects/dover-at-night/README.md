@@ -9,7 +9,9 @@ banner="https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of
 Dover has been the source of inspiration for writers over the centuries - with its white cliffs, beach and harbour, its magnificent castle, ferry boats and throng of visitors.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Anonymous_-_The_Beach_at_Dover_-_B1977.14.1638_-_Yale_Center_for_British_Art.jpg" label="The Beach at Dover" attribution="Yale Center for British Art">
 
-Sailors and their lovers are the subject of 18th century ballads about the town. _The Seaman of Dover_ (c.1755), for example, is a tale of Henry, a poor sailor, and Ruth, a squire's daughter from Sandwich. When Ruth's parents forbid her to marry Henry, he sails to Spain, where he marries a rich Spanish lady. In the meantime, Ruth runs away from home, dressed as a sailor, and searches for Henry whom she eventually espies walking along with his rich wife. When Henry's wife suddenly dies, Ruth reveals herself to Henry and they decide to return to England. Now impressed by Henry's wealth, Ruth's parents regret their decision to turn him away. He and Ruth, who has hidden her identity from her parent, invite them to their wedding and it is only when they spot a tell-tale mole on the bride that they realise that the woman dressed in a garment of gold is in fact Ruth. All ends well with seven days of feasting and bell-ringing.
+Sailors and their lovers are the subject of 18th century ballads about the town. _The Seaman of Dover_ (c.1755), for example, is a tale of Henry, a poor sailor, and Ruth, a squire's daughter from Sandwich. When Ruth's parents forbid her to marry Henry, he sails to Spain, where he marries a rich Spanish lady. In the meantime, Ruth runs away from home, dressed as a sailor, and searches for Henry whom she eventually espies walking along with his rich wife. 
+<br><br>
+When Henry's wife suddenly dies, Ruth reveals herself to Henry and they decide to return to England. Now impressed by Henry's wealth, Ruth's parents regret their decision to turn him away. He and Ruth, who has hidden her identity from her parent, invite them to their wedding and it is only when they spot a tell-tale mole on the bride that they realise that the woman dressed in a garment of gold is in fact Ruth. All ends well with seven days of feasting and bell-ringing.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/View_of_Dover%2C_with_fishing_vessels_RMG_PU8795.jpg" label="View of Dover with fishing vessels c.1800" attribution="Nicholas Pocock, Public domain, via Wikimedia Commons">
 
 In _Buxom Nan of Dover_ (1795) Dick of Dover, toasts his sweetheart Nan who often ran to meet him 'with straw-hat and pink streamers flowing'. He challenges his mess-mates to find a better woman 'of all the wenches whatsomever... so true, so kind, so clever, sweet, trim and neat, as Buxom Nan'.
@@ -17,13 +19,15 @@ In _Buxom Nan of Dover_ (1795) Dick of Dover, toasts his sweetheart Nan who ofte
 In a later ballad, _Ned of Dover_ (1800), Nancy who is being wooed by a 'jovial British tar' on Dover beach tells him that although she loves jolly sailors they do have a habit of letting women down, leaving them "broken-hearted". When the boatswain bawls the signal to hove to, Nancy sheds a soft tear and hopes that Ned will be protected from danger.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/46/Thomas_Girtin_-_Dover_-_Google_Art_Project.jpg" label="Dover c. late 18th century" attribution="Thomas Girtin, Public domain, via Wikimedia Commons">
 
-During the Romantic period, authors such as Mary Shelley and Mary Wollstencraft, visited Dover en route to France. You can hear more about these in Dr Susan Civale's talk [A “dirty place”? Women Writing about Dover during the Romantic Period.](https://youtu.be/rL6fogIuRVQ?si=CHbNLTLy_eVMMfCD)
+During the Romantic period, authors such as Mary Shelley and Mary Wollstencraft, visited Dover en route to France. You can hear more about these in Dr Susan Civale's talk [A “dirty place”?](https://youtu.be/rL6fogIuRVQ?si=CHbNLTLy_eVMMfCD)
 
 Travel and misadventures are also themes with the port and local ale houses providing a backdrop to several stories. Philip Thicknesse who published his _Useful Hints to those who Travel into France or Flanders, by way of Dover, Margate and Ostend_ in 1782 wrote 'It was my fate to be obliged to stay at Dover a compleat month, which gave me an opportunity of removing some prejudices, generally conceived againit that ancient city ; for I found at Mrs. Belcher's, the City of London, every thing that was good, and nothing like imposition ; and there are besides other good inns ; I found likewise a few people who were not only agreeable, but worthy of esteem and friendship.'
 <br><br>
 The City of London was run by Sophia Belchier as a Tavern, Inn, and Coffee-house on the Quay. It offered a large assortment of all kinds of liquors 'for the Accommodation of those who may favour her with their Commands' and offered 'a prospect of the Harbour, Castle and Sea'. [Kentish Gazette, 20 December, 1780; Kentish Gazette, 9 May, 1781.]
 
 The play _Ways and Means; or a Trip to Dover: A Comedy in Three Acts_ printed in 1788, is set at The Ship, 'the oldest and best' inn in Dover,  where Mrs Peery is begging her husband to wake up and serve the rush of customers who are ringing the bar-bell: 'Sea and land cargoes and carriages, Four sea-sick gentlemen, from Calais; and four ladies, just step out of the Mail Coach'. The ladies complain that the mail coach is 'the worst conveyance in the world' as it 'squeezes four people together like two double letters'. [Charles Dickens](/dickens/dickens-dover/) stayed at the Ship Hotel for three days in the spring of 1856, while working on _Little Dorrit._
+
+David Whitelaw's _Man on the Dover Road_ (1792)
 
 Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived in Dover 'bag and baggage' in 1840.
 <param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate Street c. 1830" attribution="Drawn by G. Shepherd">
@@ -35,7 +39,9 @@ The lyrics to "'Tis So Sweet to Trust in Jesus" were written by Louisa M. R. Ste
 [In the 19th century](/19c/19c-dover/) Dover was visited by writers travelling to the continent.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/Joseph_Mallord_William_Turner%2C_A_Packet_Boat_off_Dover%2C_c._1836%2C_NGA_69409.jpg" label="A Packet Boat off Dover by J.M.W. Turner" attribution="National Gallery of Art, CC0, via Wikimedia Commons">
 
-[Charles Dickens](/dickens/dickens-dover/) stayed in Dover on a number of occasions while travelling from London to the continent and he includes it in both David Copperfield and Little Dorrit. During one visit to the town even Dickens suffered from writer’s block. Having set part of David Copperfield in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on Little Dorrit. 
+[Charles Dickens](/dickens/dickens-dover/) stayed in Dover on a number of occasions while travelling from London to the continent and he includes it in both David Copperfield and Little Dorrit. Having set part of David Copperfield in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on Little Dorrit. 
+
+A Tale of Two Cities
 
 Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography), Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869.
 
@@ -49,6 +55,10 @@ Children's author, [Jessie Challacombe](/19c/19c-challacombe-biography), was bor
 
 [F.F. Montresor](/19c/19c-montresor-biography)'s novel _Into the Highways and Hedges_ published in 1895 is set in Dover where the beach is crowded with nursery-maids and children, Punch and Judy shows, minstrels, men selling indigestible gooseberries, beggars and women with false lace and ‘A fresh wind crisped the surface of the water, so that it was covered with curly white flecks, and it was hard to tell which was bluest, sea or sky'.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/30/The_beach_at_Dover%2C_Kent%2C_early_1900s_%28267298004%29.jpg" label="whatsthatpicture from Hanwell, London, UK, CC BY 2.0, via Wikimedia Commons">
+
+Baroness Orczy and the Scarlet Pimpernel
+
+Meredith Sandra Belloni
 
 In 1905, [May Aldington](/20c/20c-aldington-biography), published her first book, _Love Letters that caused a Divorce_, a series of letters detailing the temptations of Kitty Yorke, and convinced the _Kentish Gazette_ office to fill its windows with copies.
 
