@@ -56,7 +56,7 @@ Children's author, [Jessie Challacombe](/19c/19c-challacombe-biography), was bor
 [F.F. Montresor](/19c/19c-montresor-biography)'s novel _Into the Highways and Hedges_ published in 1895 is set in Dover where the beach is crowded with nursery-maids and children, Punch and Judy shows, minstrels, men selling indigestible gooseberries, beggars and women with false lace and ‘A fresh wind crisped the surface of the water, so that it was covered with curly white flecks, and it was hard to tell which was bluest, sea or sky'.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/30/The_beach_at_Dover%2C_Kent%2C_early_1900s_%28267298004%29.jpg" label="whatsthatpicture from Hanwell, London, UK, CC BY 2.0, via Wikimedia Commons">
 
-Baroness Orczy and the Scarlet Pimpernel
+In [Baroness Orczy](/20c/20c-orczy-biography)'s _The Scarlet Pimpernel_ (1905) set in 1792, during the reign of Terror in France, two members of the League of the Scarlet Pimpernel, a society dedicated to saving French aristocrats from the guillotine, are abducted by Citizen Chauvelin and a gang of men from The Fisherman's Rest in Dover. The Fishermen's Rest was an elegant and ordered coffee room, owned by Mr Jellyband - a typical 'John Bull' - and frequented by thirsty fishermen and passengers of the London and Dover coach, who stopped to enjoy the fine French wines and home-brew en route to the continent. The two Englishmen, Sir Andrew Ffoulkes and Lord Anthony Dewhurst, who are carrying papers detailing the plans for the rescue of the Comte de Tournay and others, are dragged from the room by their masked assailants, as their host sleeps, and taken along the Dover Road 'into the gloom beyond' (70).
 
 Meredith Sandra Belloni
 
