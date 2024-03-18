@@ -12,7 +12,8 @@ Glimmering and vast, out in the tranquil bay.
 Come to the window, sweet is the night-air!    
 Only, from the long line of spray    
 Where the sea meets the moon-blanch'd land,    
-Listen ! you hear the grating roar of pebbles which the waves draw back, and fling'   
+Listen ! you hear the grating roar 
+Of pebbles which the waves draw back, and fling  
 At their return, up the high strand,   
 Begin, and cease, and then again begin,   
 With tremulous cadence slow, and bring   
