@@ -19,7 +19,7 @@ With tremulous cadence slow, and bring
 The eternal note of sadness in.   
 _Dover Beach_ (1867) by Matthew Arnold
 <br><br>
-Dover has been the source of inspiration for writers over the centuries - with its white cliffs, beach and harbour, its magnificent castle, ferry boats and throng of visitors. A place of mystery and adventure, where chance meetings sad farewells, and illegal goings on take place on its moonlit shores and its candlelit taverns.
+Dover has been the source of inspiration for writers over the centuries - with its white cliffs, beach and harbour, its magnificent castle, ferry boats and throng of visitors. A place of mystery and adventure, where chance meetings, sad farewells, and illegal goings on take place on its moonlit shores and its candlelit taverns.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Anonymous_-_The_Beach_at_Dover_-_B1977.14.1638_-_Yale_Center_for_British_Art.jpg" label="The Beach at Dover" attribution="Yale Center for British Art">
 
 Sailors and their lovers are the subject of 18th century ballads about the town. _The Seaman of Dover_ (c.1755), for example, is a tale of Henry, a poor sailor, and Ruth, a squire's daughter from Sandwich. When Ruth's parents forbid her to marry Henry, he sails to Spain, where he marries a rich Spanish lady. In the meantime, Ruth runs away from home, dressed as a sailor, and searches for Henry whom she eventually espies walking along with his rich wife. 
@@ -49,20 +49,9 @@ The lyrics to "'Tis So Sweet to Trust in Jesus" were written by Louisa M. R. Ste
 
 [G.W.M Reynolds's book](/19c/19c-reynoldsgwm-biography) _Mary Price_ published in 1851 was set in Wright’s Hotel — and on Dover’s Shakespeare Cliff. While in Dover, the heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala entitled The Streets of the World
 
-[In the 19th century](/19c/19c-dover/) Dover was visited by writers travelling to the continent.
+[In the 19th century](/19c/19c-dover/) Dover was visited by writers travelling to the continent including
+[Charles Dickens](/dickens/dickens-dover/) who stayed in the town on a number of occasions. Having set part of _David Copperfield_ in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on _Little Dorrit_. In [_A Tale of Two Cities_](/dickens/tale-two-cities/) Dickens writes of Dover: 'A little fishing was done in the port, and a quantity of strolling about by night'. (Dickens, 1875, p.20)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/Joseph_Mallord_William_Turner%2C_A_Packet_Boat_off_Dover%2C_c._1836%2C_NGA_69409.jpg" label="A Packet Boat off Dover by J.M.W. Turner" attribution="National Gallery of Art, CC0, via Wikimedia Commons">
-
-[Charles Dickens](/dickens/dickens-dover/) stayed in Dover on a number of occasions while travelling from London to the continent and he includes it in both David Copperfield and Little Dorrit. Having set part of David Copperfield in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on Little Dorrit. 
-
-A Tale of Two Cities
-
-Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography), Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869.
-
-Feminist and social reformer, [Josephine Butler](/19c/19c-butler-biography) (1828-1906) visited Dover in the Spring of 1870 on a country-wide tour to campaign against the Contagious Diseases Act. 
-
-[David Baron](/19c/19c-baron-biography/) was a member of the Mildmay Mission in Dover which provided help for Jewish people in Russia, who were suffering persecution in the Pogroms. An address on the subject was to be given by the Rabbi of the Dover synagogue.
-
-In 1880, the Mayor of Dover decided that the town needed an assembly hall and civic rooms. [William Burges](/19c/19c-burges-biography) was commissioned to design the plans for the new building and began working on these on 1 March 1881. Not only did he design the building, but also the decorative scheme and the furniture, including an impressive table surrounded by lion-headed chairs for the Mayor’s Parlour. Sadly, Burges did not live to see his vision as he died on the 20 April 1881.
 
 Children's author, [Jessie Challacombe](/19c/19c-challacombe-biography), was born in Dover in 1864 and with her parents Christopher and Martha Worsfold contributed to the life of Christ Church on the Folkestone Road. She was a member of the church’s young ladies’ working party and in 1890, gave a talk to the parents of the Sunday School scholars on the best way to bring up children: ‘Prayer, home-teaching, training, and the power of example were suggested as the four great means for directing the children aright.’5 This advice was later evidenced in her fiction, through her tales of Christian life.
 
