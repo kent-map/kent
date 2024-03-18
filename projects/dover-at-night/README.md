@@ -12,14 +12,15 @@ Glimmering and vast, out in the tranquil bay.
 Come to the window, sweet is the night-air!    
 Only, from the long line of spray    
 Where the sea meets the moon-blanch'd land,    
-Listen ! you hear the grating roar of pebbles which the waves draw back, and fling'   
+Listen ! you hear the grating roar 
+Of pebbles which the waves draw back, and fling  
 At their return, up the high strand,   
 Begin, and cease, and then again begin,   
 With tremulous cadence slow, and bring   
 The eternal note of sadness in.   
 _Dover Beach_ (1867) by Matthew Arnold
 <br><br>
-Dover has been the source of inspiration for writers over the centuries - with its white cliffs, beach and harbour, its magnificent castle, ferry boats and throng of visitors. A place of mystery and adventure, where chance meetings, sad farewells, and illegal goings on take place on its moonlit shores and its candlelit taverns.
+Dover has been the source of inspiration for many writers and poets over the centuries - with its white cliffs, beach and harbour, its magnificent castle, ferry boats and constant throng of visitors. A place of mystery and adventure, where chance meetings, sad farewells, and illegal goings on take place on its moonlit shores and its candlelit taverns.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Anonymous_-_The_Beach_at_Dover_-_B1977.14.1638_-_Yale_Center_for_British_Art.jpg" label="The Beach at Dover" attribution="Yale Center for British Art">
 
 Sailors and their lovers are the subject of 18th century ballads about the town. _The Seaman of Dover_ (c.1755), for example, is a tale of Henry, a poor sailor, and Ruth, a squire's daughter from Sandwich. When Ruth's parents forbid her to marry Henry, he sails to Spain, where he marries a rich Spanish lady. In the meantime, Ruth runs away from home, dressed as a sailor, and searches for Henry whom she eventually espies walking along with his rich wife. 
@@ -47,7 +48,7 @@ Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived i
 
 The lyrics to "'Tis So Sweet to Trust in Jesus" were written by Louisa M. R. Stead who was born in Dover in 1850 and converted to Methodism at the age of nine.  
 
-[G.W.M Reynolds's book](/19c/19c-reynoldsgwm-biography) _Mary Price_ published in 1851 was set in Wright’s Hotel — and on Dover’s Shakespeare Cliff. While in Dover, the heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala entitled The Streets of the World
+[G.W.M Reynolds's book](/19c/19c-reynoldsgwm-biography) _Mary Price: or the memoirs of a servant maid_ published in 1851 was set at Wright’s Hotel - 'the finest and most fashionable establishment of the sort' in Dover and on Shakespeare Cliff. While in Dover, the eponymous heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala entitled _The Streets of the World_.
 
 [In the 19th century](/19c/19c-dover/) Dover was visited by writers travelling to the continent including
 [Charles Dickens](/dickens/dickens-dover/) who stayed in the town on a number of occasions. Having set part of _David Copperfield_ in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on _Little Dorrit_. In [_A Tale of Two Cities_](/dickens/tale-two-cities/) Dickens writes of Dover: 'A little fishing was done in the port, and a quantity of strolling about by night'. (Dickens, 1875, p.20)
@@ -61,13 +62,11 @@ Children's author, [Jessie Challacombe](/19c/19c-challacombe-biography), was bor
 In [Baroness Orczy](/20c/20c-orczy-biography)'s _The Scarlet Pimpernel_ (1905) set in 1792, during the reign of Terror in France, two members of the League of the Scarlet Pimpernel, a society dedicated to saving French aristocrats from the guillotine, are abducted by Citizen Chauvelin and a gang of men from The Fisherman's Rest in Dover. The Fishermen's Rest was an elegant and ordered coffee room, owned by Mr Jellyband - a typical 'John Bull' - and frequented by thirsty fishermen and passengers of the London and Dover coach, who stopped to enjoy the fine French wines and home-brew en route to the continent. The two Englishmen, Sir Andrew Ffoulkes and Lord Anthony Dewhurst, who are carrying papers detailing the plans for the rescue of the Comte de Tournay and others, are plotting in the bar after hours by the light of the fire, when they are dragged from the room by their masked assailants, as their host sleeps, and taken along the Dover Road 'into the gloom beyond' (70).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/83/Scarlet-Pimpernel-Howard-Oberon.jpg" label="Lelsie Howard and Merle Oberson in The Scarlet Pimpernel" attribution="Tunbridge photo for London Films, Public domain, via Wikimedia Commons">
 
-Meredith Sandra Belloni
-
 In 1905, [May Aldington](/20c/20c-aldington-biography), published her first book, _Love Letters that caused a Divorce_, a series of letters detailing the temptations of Kitty Yorke, and convinced the _Kentish Gazette_ office to fill its windows with copies.
 
 Published in 1910 before both World Wars, _The Raid of Dover: A Romance of the Reign of Woman A.D. 1940_ by Douglas Morey Ford is a futuristic story set in Dover in 1940 in which England is invaded by Germany and the town suffers a bombardment of shells. Listen to this [excerpt](https://blogs.canterbury.ac.uk/library/wp-content/uploads/sites/638/2023/09/Dover.mp3) to hear his description of the bombardment.
 
-[M.R.James](/20c/20c-jamesmr-biography/) story _Casting the Runes_ published in 1911, inspired the film _Night of the Demon_ (1957). In the story, Karswell, an alchemist and occultist, takes the train to Dover en route to the Continent. As he arrives in Dover, the ghostly apparition of John Harrington, a book reviewer who died in a freak accident after he was cursed by Karswell, is spotted by a railway official. When the official calls out: ‘You, sir, beg pardon, did the other gentleman show his ticket?’ Karswell snarls angrily: ‘What the devil do you mean by the other gentleman?’ The railway official puzzles about what he has seen and ‘In five minutes more there was nothing but the lessening lights of the boat, the long line of the Dover lamps, the night breeze, and the moon.’
+[M.R. James](/20c/20c-jamesmr-biography/) story _Casting the Runes_ published in 1911, inspired the film _Night of the Demon_ (1957). In the story, Karswell, an alchemist and occultist, takes the train to Dover en route to the Continent. As he arrives in Dover, the ghostly apparition of John Harrington, a book reviewer who died in a freak accident after he was cursed by Karswell, is spotted by a railway official. When the official calls out: ‘You, sir, beg pardon, did the other gentleman show his ticket?’ Karswell snarls angrily: ‘What the devil do you mean by the other gentleman?’ The railway official puzzles about what he has seen and ‘In five minutes more there was nothing but the lessening lights of the boat, the long line of the Dover lamps, the night breeze, and the moon.’
 
 Set in Dover against the backdrop of the French Revolution, Thomas Armstrong's novel _Dover Harbour_ was published in 1942, and explores themes of local politics, smuggling, espionage and pressgangs. The book is full of local colour as this scene of a smuggling run illustrates: “The graveyard of St James’ Church, beneath the Castle Hill, was the scene of that night’s run. There, in the blackness of night, a single lantern cast its yellow light over crazy-leaning tombstones and on the soft carpet of grass and the pale gold of fallen leaves.” However, the smugglers evade detection: “Only the spirits of the dead were in the quiet churchyard of St James’s when Mr Toke and his men arrived. But there was a trail of tea from a punctured dollop, and a two-way track of planks as evidence of a large and carefully-planned run.”
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/85/St_james_dover.jpg" label="St James, Dover" attribution="Geni, CC BY-SA 4.0, via Wikimedia Commons">
