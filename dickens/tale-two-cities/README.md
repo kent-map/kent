@@ -11,7 +11,7 @@
 <param ve-entity eid="Q676689" aliases="Gravesend">
 
 "It was the best of times, it was the worst of times…" (Dickens, 1875, p.1)   
-<br><br>
+<br>
 The opening of [Charles Dickens](/dickens/dickens-biography)’s novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dickens's [Swiss chalet](/dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill](/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
 <param ve-image url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" label="Gads Hill" attribution="Benjamin Mortley">
 
