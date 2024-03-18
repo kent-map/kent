@@ -20,7 +20,7 @@ With tremulous cadence slow, and bring
 The eternal note of sadness in.   
 _Dover Beach_ (1867) by Matthew Arnold
 <br><br>
-Dover has been the source of inspiration for writers over the centuries - with its white cliffs, beach and harbour, its magnificent castle, ferry boats and throng of visitors. A place of mystery and adventure, where chance meetings, sad farewells, and illegal goings on take place on its moonlit shores and its candlelit taverns.
+Dover has been the source of inspiration for many writers and poets over the centuries - with its white cliffs, beach and harbour, its magnificent castle, ferry boats and constant throng of visitors. A place of mystery and adventure, where chance meetings, sad farewells, and illegal goings on take place on its moonlit shores and its candlelit taverns.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Anonymous_-_The_Beach_at_Dover_-_B1977.14.1638_-_Yale_Center_for_British_Art.jpg" label="The Beach at Dover" attribution="Yale Center for British Art">
 
 Sailors and their lovers are the subject of 18th century ballads about the town. _The Seaman of Dover_ (c.1755), for example, is a tale of Henry, a poor sailor, and Ruth, a squire's daughter from Sandwich. When Ruth's parents forbid her to marry Henry, he sails to Spain, where he marries a rich Spanish lady. In the meantime, Ruth runs away from home, dressed as a sailor, and searches for Henry whom she eventually espies walking along with his rich wife. 
@@ -48,7 +48,7 @@ Author and Journalist, [George Augustus Sala](/19c/19c-sala-biography) arrived i
 
 The lyrics to "'Tis So Sweet to Trust in Jesus" were written by Louisa M. R. Stead who was born in Dover in 1850 and converted to Methodism at the age of nine.  
 
-[G.W.M Reynolds's book](/19c/19c-reynoldsgwm-biography) _Mary Price_ published in 1851 was set in Wright’s Hotel — and on Dover’s Shakespeare Cliff. While in Dover, the heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala entitled The Streets of the World
+[G.W.M Reynolds's book](/19c/19c-reynoldsgwm-biography) _Mary Price: or the memoirs of a servant maid_ published in 1851 was set at Wright’s Hotel - 'the finest and most fashionable establishment of the sort' in Dover and on Shakespeare Cliff. While in Dover, the eponymous heroine works in Snargate Street, subsequently the subject of an essay by G. A. Sala entitled _The Streets of the World_.
 
 [In the 19th century](/19c/19c-dover/) Dover was visited by writers travelling to the continent including
 [Charles Dickens](/dickens/dickens-dover/) who stayed in the town on a number of occasions. Having set part of _David Copperfield_ in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on _Little Dorrit_. In [_A Tale of Two Cities_](/dickens/tale-two-cities/) Dickens writes of Dover: 'A little fishing was done in the port, and a quantity of strolling about by night'. (Dickens, 1875, p.20)
