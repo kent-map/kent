@@ -36,14 +36,23 @@ In [G.W.M Reynolds](/19c/19c-reynoldsgwm-biography)'s book _Mary Price: or the m
 <br><br>
 'Meanwhile the moon had remained concealed behind the black clouds that floated upon heaven's face; and I blessed - Oh, I blessed that darkness which by thus deeply shrouding me, prevented those miscreants from observing how signally their murderous plan had failed and how wonderfully Providence had interposed to rescue me from death'.
 <br><br>
-Lying on a ledge below the cliff edge, Mary lies for twenty minutes listening to the 'sullen moans and heavy plashes of the sea' before clambering back up.
+Lying on a ledge below the cliff edge, Mary lies for twenty minutes listening to the 'sullen moans and heavy plashes of the sea' before clambering back up. 
+
+Mary is not the only character to tumble onto a ledge beneath Dover's white cliffs, and in [F.F. Montresor](/19c/19c-montresor-biography)'s novel _Into the Highways and Hedges_ published in 1895, Meg falls off Langdon Cliffs: 
+<br><br>
+‘The sky still glowed behind Dover Castle, though the sun had disappeared; there was hardly a breath of wind to stir the short crisp grass, the broad downs lay still and peaceful in the gathering dusk: Meg was the only human being to be seen, but the little brown rabbits scurried by, and peeped at her from a safe distance, making her smile in spite of her sadness. She was as easily moved to smiles as she was to sighs... It had been a hot summer, and there were ominous cracks across the footway, which had been deserted of late. Meg, who was Kentish born, ought to have known what those fissures and gaps meant. Perhaps the rabbits would have warned her if they could; for one of them loosened a morsel of chalk as he leaped, which bounded and rebounded down the side of the cliff.'
+<br><br>
+Unheeding the rabbit’s warnings, Meg continues along the cliff ‘listening to the echo among the chalk caves below, —smuggling haunts, where many a keg of brandy had been hidden’. Suddenly the cliff gives way and she falls a quarter of the way down the cliff onto a narrow ledge and has to cling fast to ‘the friendly poppy root that was keeping her from death’. As she holds on in terror, ‘She could hear the sea washing hungrily, with a sullen break, and a strong backward suck, many feet below; she shuddered, and then screamed with all her might, again and again, waking the echoes and the seagulls, who answered her derisively.’
+<br><br>
+Unlike Mary who effects her own rescue, Meg is saved by 'Methody' preacher, Barnabas Thorpe who hears her screams.
+
+
 <param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate Street c. 1830" attribution="Drawn by G. Shepherd">
 
-[In the 19th century](/19c/19c-dover/) Dover was visited by writers travelling to the continent including
+In describing [19th century Dover](/19c/19c-dover/) Dover was visited by writers travelling to the continent including
 [Charles Dickens](/dickens/dickens-dover/) who stayed in the town on a number of occasions. Having set part of _David Copperfield_ in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on _Little Dorrit_. In [_A Tale of Two Cities_](/dickens/tale-two-cities/) Dickens writes of Dover: 'A little fishing was done in the port, and a quantity of strolling about by night'. (Dickens, 1875, p.20)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/Joseph_Mallord_William_Turner%2C_A_Packet_Boat_off_Dover%2C_c._1836%2C_NGA_69409.jpg" label="A Packet Boat off Dover by J.M.W. Turner" attribution="National Gallery of Art, CC0, via Wikimedia Commons">
 
-[F.F. Montresor](/19c/19c-montresor-biography)'s novel _Into the Highways and Hedges_ published in 1895 is set in Dover where the beach is crowded with nursery-maids and children, Punch and Judy shows, minstrels, men selling indigestible gooseberries, beggars and women with false lace and ‘A fresh wind crisped the surface of the water, so that it was covered with curly white flecks, and it was hard to tell which was bluest, sea or sky'.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/30/The_beach_at_Dover%2C_Kent%2C_early_1900s_%28267298004%29.jpg" label="whatsthatpicture from Hanwell, London, UK, CC BY 2.0, via Wikimedia Commons">
 
 In [Baroness Orczy](/20c/20c-orczy-biography)'s _The Scarlet Pimpernel_ (1905) set in 1792, during the reign of Terror in France, two members of the League of the Scarlet Pimpernel, a society dedicated to saving French aristocrats from the guillotine, are abducted by Citizen Chauvelin and a gang of men from The Fisherman's Rest in Dover. The Fishermen's Rest was an elegant and ordered coffee room, owned by Mr Jellyband - a typical 'John Bull' - and frequented by thirsty fishermen and passengers of the London and Dover coach, who stopped to enjoy the fine French wines and home-brew en route to the continent. The two Englishmen, Sir Andrew Ffoulkes and Lord Anthony Dewhurst, who are carrying papers detailing the plans for the rescue of the Comte de Tournay and others, are plotting in the bar after hours by the light of the fire, when they are dragged from the room by their masked assailants, as their host sleeps, and taken along the Dover Road 'into the gloom beyond' (70).
@@ -60,13 +69,7 @@ Set in Dover against the backdrop of the French Revolution, Thomas Armstrong's n
 
 [H.E. Bates](/20c/20c-bates-biography) novel _An Aspidistra in Babylon_ set in Dover was published in 1960
 
-Dover Secret [Wartime Tunnels](/20c/20c-secret-tunnels/)
 
-
-
-
-
-Turkish baths
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Dover_at_night_2000_CSK_08721_0055_000%28125524%29.jpg" label="Dover at Night" attribution="Albert Goodwin, Public domain, via Wikimedia Commons">
 
