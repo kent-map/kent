@@ -76,6 +76,14 @@ Although Craik was not a native of Kent—born in Staffordshire, raised in Londo
 
 Best known for her 1848 collection of ‘real’ ghost stories _The Night Side of Nature: or of Ghosts and Ghost Seers_, which documented ordinary people’s ‘actual’ brushes with ghosts and the supernatural, Crowe shot to public and literary fame during the 1840s and 50s.
 
+## Elizabeth Elstob
+
+[Elizabeth Elstob](/18c/18c-elstob-biography)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Elizabeth_Elstob.jpg)
+
+A pioneering scholar of Anglo-Saxon who lived with her aunt and uncle in Canterbury, Elstob can lay claim to be Canterbury’s first bluestocking or female scholar.
+
 ## Sarah Grand
 
 [Sarah Grand](/19c/19c-grand-biography)

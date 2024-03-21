@@ -1,4 +1,4 @@
-.ve-header "Religion" background=gh:kent-map/images/religion/religion .sticky`
+`mdp-header title="Religion" background=gh:kent-map/images/religion/religion.yaml .sticky`
 
 Kent is a county of many faiths. Only a small part of this is represented here, but as we develop the site we hope to tell more of these stories.
 
