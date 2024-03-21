@@ -72,9 +72,11 @@ Published in 1910 before both World Wars, _The Raid of Dover: A Romance of the R
 Set in Dover against the backdrop of the French Revolution, Thomas Armstrong's novel _Dover Harbour_ was published in 1942, and explores themes of local politics, smuggling, espionage and pressgangs. The book is full of local colour as this scene of a smuggling run illustrates: “The graveyard of St James’ Church, beneath the Castle Hill, was the scene of that night’s run. There, in the blackness of night, a single lantern cast its yellow light over crazy-leaning tombstones and on the soft carpet of grass and the pale gold of fallen leaves.” However, the smugglers evade detection: “Only the spirits of the dead were in the quiet churchyard of St James’s when Mr Toke and his men arrived. But there was a trail of tea from a punctured dollop, and a two-way track of planks as evidence of a large and carefully-planned run.”
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/85/St_james_dover.jpg" label="St James, Dover" attribution="Geni, CC BY-SA 4.0, via Wikimedia Commons">
 
-[H.E. Bates](/20c/20c-bates-biography) novel _An Aspidistra in Babylon_ set in Dover was published in 1960
+[H.E. Bates](/20c/20c-bates-biography) short story _An Aspidistra in Babylon_ published in 1960 depicts the town as a 'robust male Babylon' where soldiers 'come into town to drink beer, eat fish and chips and get off with girls'. Christine, who becomes involved with Captain Blaine, experiences first love 'on white afternoons along the cliffs, through diamond dancing mornings by the sea and through breathless evenings in the forest or the car'. When she discovers that Blaine is seeing other women, including her mother's maid, Ruby, her romantic dreams come crashing down and in the cold light of day 'from the parapets of the castle and the high white cliffs of chalk down to the smallest glistening crests of the sheltered waves in the harbour and the blue plump feathers of the screeching gulls sitting on those impossible yellow chimney pots every detail shows up with unmistakable reality.'[^ref]
 
+### References
 
+[^ref ]: Bates, H.E. _An Aspidistra in Babylon_, 1960, p. 48.
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Dover_at_night_2000_CSK_08721_0055_000%28125524%29.jpg" label="Dover at Night" attribution="Albert Goodwin, Public domain, via Wikimedia Commons">
 
