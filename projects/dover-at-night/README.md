@@ -29,7 +29,11 @@ The seashore, the coaching inns and the local ale houses provide a backdrop for 
 
 In [Baroness Orczy](/20c/20c-orczy-biography)'s _The Scarlet Pimpernel_ (1905) set in 1792, during the reign of Terror in France, two members of the League of the Scarlet Pimpernel, a society dedicated to saving French aristocrats from the guillotine, are abducted by Citizen Chauvelin and a gang of men from The Fisherman's Rest in Dover. The Fishermen's Rest was an elegant and ordered coffee room, owned by Mr Jellyband - a typical 'John Bull' - and frequented by thirsty fishermen and passengers of the London and Dover coach, who stopped to enjoy the fine French wines and home-brew en route to the continent. The two Englishmen, Sir Andrew Ffoulkes and Lord Anthony Dewhurst, who are carrying papers detailing the plans for the rescue of the Comte de Tournay and others, are plotting in the bar after hours by the light of the fire, when they are dragged from the room by their masked assailants, as their host sleeps, and taken along the Dover Road 'into the gloom beyond' (70).
 <br><br>
-In contrast, in [Charles Dickens](/dickens/dickens-dover/)'s novel [_A Tale of Two Cities_](/dickens/tale-two-cities/) Jervis Lorry enjoys a comfortable stay at the Royal George Hotel before he leaves England drinking claret by the fire.
+In contrast, in [Charles Dickens](/dickens/dickens-dover/)'s novel [_A Tale of Two Cities_](/dickens/tale-two-cities/) Jervis Lorry enjoys a comfortable stay at the Royal George Hotel before he leaves England, drinking claret by the fire. However, the decor is a little gloomy in parts, with Miss Manette's appartment described as
+<br><br>
+'a large, dark room, furnished in a funereal manner with black horsehair, and loaded with heavy dark tables. These had been oiled and oiled, until the two tall candles on the table in the middle of the room were gloomily reflected on every leaf; as if they were buried, in deep graves of black mahogany, and no light to speak of could be expected from them until they were dug out'.
+<br><br>
+Dickens briskly summed up the town: 'A little fishing was done in the port, and a quantity of strolling about by night'.[^ref] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/83/Scarlet-Pimpernel-Howard-Oberon.jpg" label="Lelsie Howard and Merle Oberson in The Scarlet Pimpernel" attribution="Tunbridge photo for London Films, Public domain, via Wikimedia Commons">
 
 In the ballad, _Ned of Dover_ (1800), Nancy who is being wooed by a 'jovial British tar' on Dover beach tells him that although she loves jolly sailors they do have a habit of letting women down, leaving them "broken-hearted". When the boatswain bawls the signal to hove to, Nancy sheds a soft tear and hopes that Ned will be protected from danger. Later, with the introduction of the [Contagious Diseases Act](/19c/19c-contagious-diseases/) which imposed compulsory inspections for venereal disease, innocent women ran the risk of being arrested for taking a moon-lit stroll along the beach with sailors.
@@ -54,11 +58,10 @@ Unheeding the rabbit’s warnings, Meg continues along the cliff ‘listening to
 <br><br>
 Unlike Mary who effects her own rescue, Meg is saved by 'Methody' preacher, Barnabas Thorpe who hears her screams.
 
-Charles Dickens wrote: 'A little fishing was done in the port, and a quantity of strolling about by night'. (Dickens, 1875, p.20)
+
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/Joseph_Mallord_William_Turner%2C_A_Packet_Boat_off_Dover%2C_c._1836%2C_NGA_69409.jpg" label="A Packet Boat off Dover by J.M.W. Turner" attribution="National Gallery of Art, CC0, via Wikimedia Commons">
 
-[19th century Dover](/19c/19c-dover/) was visited by writers travelling to the continent including
-who stayed in the town on a number of occasions. Having set part of _David Copperfield_ in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on _Little Dorrit_. 
+[19th century Dover](/19c/19c-dover/) 
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/30/The_beach_at_Dover%2C_Kent%2C_early_1900s_%28267298004%29.jpg" label="whatsthatpicture from Hanwell, London, UK, CC BY 2.0, via Wikimedia Commons">
 
@@ -75,6 +78,8 @@ Set in Dover against the backdrop of the French Revolution, Thomas Armstrong's n
 
 ### References
 
+[^ref ]: Dickens, C. _A Tale of Two Cities_, 1875, p.20.
+[^ref ]: Reynolds, G.M.W. _Mary Price_, , p.54.
 [^ref ]: Bates, H.E. _An Aspidistra in Babylon_, 1960, p. 48.
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Dover_at_night_2000_CSK_08721_0055_000%28125524%29.jpg" label="Dover at Night" attribution="Albert Goodwin, Public domain, via Wikimedia Commons">
