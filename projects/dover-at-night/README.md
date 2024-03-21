@@ -49,14 +49,13 @@ Unheeding the rabbit’s warnings, Meg continues along the cliff ‘listening to
 <br><br>
 Unlike Mary who effects her own rescue, Meg is saved by 'Methody' preacher, Barnabas Thorpe who hears her screams.
 
+In [Charles Dickens](/dickens/dickens-dover/)'s novel [_A Tale of Two Cities_](/dickens/tale-two-cities/) Jervis Lorry enjoys a comfortable stay at the Royal George Hotel before he leaves England drinking claret by the fire.
 
-<param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate Street c. 1830" attribution="Drawn by G. Shepherd">
-
-In [_A Tale of Two Cities_](/dickens/tale-two-cities/) Charles Dickens wrote: 'A little fishing was done in the port, and a quantity of strolling about by night'. (Dickens, 1875, p.20)
+Charles Dickens wrote: 'A little fishing was done in the port, and a quantity of strolling about by night'. (Dickens, 1875, p.20)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/Joseph_Mallord_William_Turner%2C_A_Packet_Boat_off_Dover%2C_c._1836%2C_NGA_69409.jpg" label="A Packet Boat off Dover by J.M.W. Turner" attribution="National Gallery of Art, CC0, via Wikimedia Commons">
 
 [19th century Dover](/19c/19c-dover/) was visited by writers travelling to the continent including
-[Charles Dickens](/dickens/dickens-dover/) who stayed in the town on a number of occasions. Having set part of _David Copperfield_ in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on _Little Dorrit_. 
+who stayed in the town on a number of occasions. Having set part of _David Copperfield_ in Dover, Dickens stayed at the Ship Hotel for three days in the spring of 1856, while working on _Little Dorrit_. 
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/30/The_beach_at_Dover%2C_Kent%2C_early_1900s_%28267298004%29.jpg" label="whatsthatpicture from Hanwell, London, UK, CC BY 2.0, via Wikimedia Commons">
 
