@@ -56,18 +56,10 @@ Mary is not the only character to tumble onto a ledge beneath Dover's white clif
 <br><br>
 Unheeding the rabbit’s warnings, Meg continues along the cliff ‘listening to the echo among the chalk caves below, —smuggling haunts, where many a keg of brandy had been hidden’. Suddenly the cliff gives way and she falls a quarter of the way down the cliff onto a narrow ledge and has to cling fast to ‘the friendly poppy root that was keeping her from death’. As she holds on in terror, ‘She could hear the sea washing hungrily, with a sullen break, and a strong backward suck, many feet below; she shuddered, and then screamed with all her might, again and again, waking the echoes and the seagulls, who answered her derisively.’
 <br><br>
-Unlike Mary who effects her own rescue, Meg is saved by 'Methody' preacher, Barnabas Thorpe who hears her screams.
-
-
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/Joseph_Mallord_William_Turner%2C_A_Packet_Boat_off_Dover%2C_c._1836%2C_NGA_69409.jpg" label="A Packet Boat off Dover by J.M.W. Turner" attribution="National Gallery of Art, CC0, via Wikimedia Commons">
-
-[19th century Dover](/19c/19c-dover/) 
-
+Unlike Mary who effects her own rescue, Meg is saved by 'Methody' preacher, Barnabas Thorpe who hears her screams. Who knew so much drama took place in [19th century Dover](/19c/19c-dover/)? 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/30/The_beach_at_Dover%2C_Kent%2C_early_1900s_%28267298004%29.jpg" label="whatsthatpicture from Hanwell, London, UK, CC BY 2.0, via Wikimedia Commons">
 
-In 1905, [May Aldington](/20c/20c-aldington-biography), published her first book, _Love Letters that caused a Divorce_, a series of letters detailing the temptations of Kitty Yorke, and convinced the _Kentish Gazette_ office to fill its windows with copies.
-
-Published in 1910 before both World Wars, _The Raid of Dover: A Romance of the Reign of Woman A.D. 1940_ by Douglas Morey Ford is a futuristic story set in Dover in 1940 in which England is invaded by Germany and the town suffers a bombardment of shells. Listen to this [excerpt](https://blogs.canterbury.ac.uk/library/wp-content/uploads/sites/638/2023/09/Dover.mp3) to hear his description of the bombardment.
+Published in 1910 before both World Wars, _The Raid of Dover: A Romance of the Reign of Woman A.D. 1940_ by Douglas Morey Ford is a futuristic story set in Dover in 1940 in which England is invaded by Germany and the town suffers a bombardment of shells. Listen to this [excerpt](https://blogs.canterbury.ac.uk/library/wp-content/uploads/sites/638/2023/09/Dover.mp3) to hear his description of the bombardment. In Morey Ford's dystopian story, the Maison Dieu which 'escaped destruction during the night, caught fire about daybreak, the flames, rushing upward in the morning air, watched by thousands from the western heights, to which the terrified inhabitants had fled for safety'.
 
 [M.R. James](/20c/20c-jamesmr-biography/) story _Casting the Runes_ published in 1911, inspired the film _Night of the Demon_ (1957). In the story, Karswell, an alchemist and occultist, takes the train to Dover en route to the Continent. As he arrives in Dover, the ghostly apparition of John Harrington, a book reviewer who died in a freak accident after he was cursed by Karswell, is spotted by a railway official. When the official calls out: ‘You, sir, beg pardon, did the other gentleman show his ticket?’ Karswell snarls angrily: ‘What the devil do you mean by the other gentleman?’ The railway official puzzles about what he has seen and ‘In five minutes more there was nothing but the lessening lights of the boat, the long line of the Dover lamps, the night breeze, and the moon.’
 
@@ -81,6 +73,9 @@ Set in Dover against the backdrop of the French Revolution, Thomas Armstrong's n
 [^ref ]: Dickens, C. _A Tale of Two Cities_, 1875, p.20.
 [^ref ]: Reynolds, G.M.W. _Mary Price_, , p.54.
 [^ref ]: Bates, H.E. _An Aspidistra in Babylon_, 1960, p. 48.
+
+
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/Joseph_Mallord_William_Turner%2C_A_Packet_Boat_off_Dover%2C_c._1836%2C_NGA_69409.jpg" label="A Packet Boat off Dover by J.M.W. Turner" attribution="National Gallery of Art, CC0, via Wikimedia Commons">
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Dover_at_night_2000_CSK_08721_0055_000%28125524%29.jpg" label="Dover at Night" attribution="Albert Goodwin, Public domain, via Wikimedia Commons">
 
