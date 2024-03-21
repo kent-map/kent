@@ -20,7 +20,7 @@ With tremulous cadence slow, and bring
 The eternal note of sadness in.   
 _Dover Beach_ (1867) by Matthew Arnold
 <br><br>
-Dover has been the source of inspiration for many writers and poets over the centuries - with its white cliffs, beach and harbour, its magnificent castle, ferry boats and constant throng of visitors. A place of mystery and adventure, where chance meetings, sad farewells, and illegal goings on take place on its moonlit shores and its candlelit taverns.
+Dover, with its white cliffs, beach and harbour, its magnificent castle, ferry boats and constant throng of visitors, has been the source of inspiration for many writers and poets over the centuries. At night, Dover becomes a place of mystery and adventure, with chance meetings, sad farewells, accidents, abductions and smuggling taking place in its candlelit taverns and on its moonlit shores.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Anonymous_-_The_Beach_at_Dover_-_B1977.14.1638_-_Yale_Center_for_British_Art.jpg" label="The Beach at Dover" attribution="Yale Center for British Art">
 
 Sailors and their lovers are the subject of 18th century ballads about the town. _The Seaman of Dover_ (c.1755), for example, is a tale of Henry, a poor sailor, and Ruth, a squire's daughter from Sandwich. When Ruth's parents forbid her to marry Henry, he sails to Spain, where he marries a rich Spanish lady. In the meantime, Ruth runs away from home, dressed as a sailor, and searches for Henry whom she eventually espies walking along with his rich wife. 
