@@ -2,7 +2,7 @@
 <param ve-config title="Dover at Night" author="Michelle Crowther" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of_Dover_Castle_and_Archclift_Fort_%281756%29.jpg">
 
-
+<param title="Dover" eid="Q179224">
 
 <param ve-map center="Q179224" zoom="15">
 
