@@ -9,20 +9,12 @@ The tide is full, the moon lies fair
 Upon the straits ; — on the French coast the light    
 Gleams and is gone ; the cliffs of England stand,    
 Glimmering and vast, out in the tranquil bay.    
-Come to the window, sweet is the night-air!    
-Only, from the long line of spray    
-Where the sea meets the moon-blanch'd land,    
-Listen ! you hear the grating roar   
-Of pebbles which the waves draw back, and fling  
-At their return, up the high strand,   
-Begin, and cease, and then again begin,   
-With tremulous cadence slow, and bring   
-The eternal note of sadness in.   
+<br>
 _Dover Beach_ (1867) by Matthew Arnold
+<br><br>
+Dover, with its white cliffs, beach and harbour, its magnificent castle, ferry boats and constant throng of visitors, has been the source of inspiration for many writers and poets over the centuries. Particularly at night, Dover becomes a place of mystery and adventure, with chance meetings, sad farewells, accidents, abductions and smuggling taking place on its moonlit shores.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Anonymous_-_The_Beach_at_Dover_-_B1977.14.1638_-_Yale_Center_for_British_Art.jpg" label="The Beach at Dover" attribution="Yale Center for British Art">
 
-Dover, with its white cliffs, beach and harbour, its magnificent castle, ferry boats and constant throng of visitors, has been the source of inspiration for many writers and poets over the centuries. Particularly at night, Dover becomes a place of mystery and adventure, with chance meetings, sad farewells, accidents, abductions and smuggling taking place on its moonlit shores.
-<br><br>
 The seashore, the coaching inns and the local ale houses provide a backdrop for misadventures. The play _Ways and Means; or a Trip to Dover: A Comedy in Three Acts_ printed in 1788, is set at The Ship, 'the oldest and best' inn in Dover,  where Mrs Peery is begging her husband to wake up and serve the rush of customers who are ringing the bar-bell: 'Sea and land cargoes and carriages, Four sea-sick gentlemen, from Calais; and four ladies, just step out of the Mail Coach'. The ladies complain that the mail coach is 'the worst conveyance in the world' as it 'squeezes four people together like two double letters'. [Charles Dickens](/dickens/dickens-dover/) later stayed at the Ship Hotel for three days in the spring of 1856, while working on _Little Dorrit._
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Landing_at_Dover_from_the_Steam_Packet_RMG_BHC1791.tiff" label="Landing at Dover from the Steam Packet" attribution="Michael William Sharp, Public domain, via Wikimedia Commons">
 
