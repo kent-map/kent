@@ -38,7 +38,6 @@ Accidents and abductions occur in the nightime, with [19th century Dover](/19c/1
 'Meanwhile the moon had remained concealed behind the black clouds that floated upon heaven's face; and I blessed - Oh, I blessed that darkness which by thus deeply shrouding me, prevented those miscreants from observing how signally their murderous plan had failed and how wonderfully Providence had interposed to rescue me from death'.
 <br><br>
 Lying on a ledge below the cliff edge, Mary lies for twenty minutes listening to the 'sullen moans and heavy plashes of the sea' before clambering back up.[^ref5] 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/57/Samuel_Atkins_-_Shakespeare_Cliff%2C_Dover_-_B1977.14.5199_-_Yale_Center_for_British_Art.jpg" label="Shakespeare Cliff by Samuel Atkins, CC0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/79/Anon_-_Coastal_Landscape_near_Dover_-_12018.jpg" label="Coastal Landscape near Dover, Anonymous, Public domain, via Wikimedia Commons">
 
 Mary is not the only character to tumble onto a ledge beneath Dover's white cliffs, and in [F.F. Montresor](/19c/19c-montresor-biography)'s novel _Into the Highways and Hedges_ published in 1895, Meg who is taking an evening walk falls off Langdon Cliffs: 
