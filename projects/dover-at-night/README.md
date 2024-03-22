@@ -2,6 +2,14 @@
 <param ve-config title="Dover at Night" author="Michelle Crowther" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of_Dover_Castle_and_Archclift_Fort_%281756%29.jpg">
 
+
+
+<param ve-map center="Q179224" zoom="15">
+
+<!-- Historical map layers --> 
+<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
+
+
 #
 
 'The sea is calm to-night.    
