@@ -334,6 +334,8 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 To accompany the Inspirational Kent Women Writers event held by the Centre for Kent History and Heritage, Kent Maps Online have curated a collection of inspirational Kent women writers as well as some lesser known women writers who have been inspired by Kent.
 
+## Dover at Night
+
 [Dover at Night](/projects/dover-at-night)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night.jpg)
