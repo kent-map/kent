@@ -13,6 +13,7 @@
 [Edmund Blunden](20c-blunden-biography)   
 [Elizabeth Bowen](20c-bowen-biography)   
 [Jocelyn Brooke](20c-brooke-biography)   
+<param ve-image url="https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f">
 
 [Winston Churchill](20c-churchill-chartwell)   
 [Alfred Cohen](20c-cohen-biography)   
