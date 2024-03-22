@@ -70,6 +70,8 @@ Over a hundred and fifty years later, in [H.E. Bates](/20c/20c-bates-biography) 
 [^ref9]: Ford, D.M. _The Raid of Dover: A Romance of the Reign of Woman A.D. 1940_, 1910.
 [^ref10]:  _Ned of Dover_, 1800.
 [^ref11]: Bates, H.E. _An Aspidistra in Babylon_, 1960, p. 48.
+<param ve-image url="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstor.artstor.org%2Fstor%2Fbe2d7a73-d2b3-4188-8d40-1a76523fa117&data=05%7C01%7Cd.randall256%40canterbury.ac.uk%7C2508fb7386a640e0f82b08db4ff53bb0%7C0320b2da22dd4dab8c216e644ba14f13%7C0%7C0%7C638191686919864136%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tPBlX4%2F%2BFMRHm4QBs5SlpWKrsxrWTXzlCMsQXSyqukI%3D&reserved=0" label="Map of Dover" attribution="Ward Lock's Dover and South-East Kent">
+<param ve-map center="Q179224" zoom="15">
 
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/Joseph_Mallord_William_Turner%2C_A_Packet_Boat_off_Dover%2C_c._1836%2C_NGA_69409.jpg" label="A Packet Boat off Dover by J.M.W. Turner" attribution="National Gallery of Art, CC0, via Wikimedia Commons">
