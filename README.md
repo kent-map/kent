@@ -33,31 +33,24 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends.
 
+# Featured Projects
+<param class="cards">
 
-## Charles Darwin
+## Inspirational Kent Women Writers
 
-[Charles Darwin](19c/19c-darwin-biography)
+[Inspirational Kent Women Writers](/projects/inspirational-women-writers)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Darwin1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/kentwomen.jpg)
 
-Few people generally think of Charles Darwin as a writer, let alone a prolific and gifted writer based in Kent. Although, they may be aware of his Journal and Remarks, generally known as The Voyage of the Beagle (1839), in which a youthful Darwin recounted his five years travelling the world. 
+To accompany the Inspirational Kent Women Writers event held by the Centre for Kent History and Heritage, Kent Maps Online have curated a collection of inspirational Kent women writers as well as some lesser known women writers who have been inspired by Kent.
 
+## Dover at Night
 
-## Alfred Cohen
+[Dover at Night](/projects/dover-at-night)
 
-[Alfred Cohen](20c/20c-cohen-biography)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night.jpg)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/redlandscape.jpg)
-
-It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. He and his second wife Diana lived in Goudhurst, Benenden and Iden Green over a fifteen-year period, and took inspiration from the Kent countryside.
-
-## Paul Nash
-
-[Paul Nash](20c/20c-nash-biography)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Nash1.jpg)
-
-Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. Suffering post-traumatic stress disorder after World War One, Nash moved to Dymchurch where he recuperated whilst repeatedly painting seascapes in which the sea wall was a central motif.
+To celebrate Dover at Night, Kent Maps Online have written an article about Dover as depicted in literature, where smuggling, assignations and abductions occur along its moonlit shore.
 
 # Essays by period 
 <param class="cards">
@@ -321,19 +314,8 @@ English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coas
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/vita_sackville_west1.jpg)
 
-
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
-# Featured Projects
-<param class="cards">
-
-## Inspirational Kent Women Writers
-
-[Inspirational Kent Women Writers](/projects/inspirational-women-writers)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/kentwomen.jpg)
-
-To accompany the Inspirational Kent Women Writers event held by the Centre for Kent History and Heritage, Kent Maps Online have curated a collection of inspirational Kent women writers as well as some lesser known women writers who have been inspired by Kent.
 
 # Featured Texts
 <param class="cards">
