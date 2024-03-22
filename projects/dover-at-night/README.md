@@ -17,7 +17,6 @@ The tide is full, the moon lies fair
 Upon the straits ; — on the French coast the light    
 Gleams and is gone ; the cliffs of England stand,    
 Glimmering and vast, out in the tranquil bay.    
-<br>
 _Dover Beach_ (1867) by Matthew Arnold
 <br><br>
 Dover, with its white cliffs, beach and harbour, its magnificent castle, ferry boats and constant throng of visitors, has been the source of inspiration for many writers and poets over the centuries. Particularly at night, Dover becomes a place of mystery and adventure, with chance meetings, sad farewells, accidents, abductions and smuggling taking place on its moonlit shores.
