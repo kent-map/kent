@@ -17,7 +17,7 @@ On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversh
 
 [Sarah Baker](/18c/18c-baker-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/theatre_Sarah_Baker.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_Sarah_Baker.jpg)
 
 Sarah Baker, who was born in Milton, was a fairground performer, a ‘strolling player’, who become one of the most successful self-made women of the eighteenth century.
 
@@ -25,7 +25,7 @@ Sarah Baker, who was born in Milton, was a fairground performer, a ‘strolling 
 
 [Aphra Behn](/17c/17c-behn-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/theatre_Aphra_Behn.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Aphra_Behn.jpg)
 
 Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born; however, like much of her life, this is difficult to confirm.
 
@@ -33,7 +33,7 @@ Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown 
 
 [Elizabeth Burgess](/18c/18c-burgess-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/theatre_Elizabeth_Burgess.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_Hawkhurst_Gang.jpg)
 
 What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d her Hand a thousand ways, But why attempt such things as writing Plays; Let her make Sacques, Gowns, Tarts, and Pies, And not presumptuously an Authoress rise.
 
@@ -97,7 +97,7 @@ Playwright, author and courtier, John Lyly was a Kentishman famed for his euphui
 
 [Charles Shadwell](/18c/18c-shadwell-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/theatre_Charles_Shadwell.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_Charles_Shadwell.jpg)
 
 Charles Shadwell wrote A Fair Quaker of Deal whilst he was working as supervisor of excise for Kent, a bawdy play of what sailors get up to after a long trip abroad.
 

@@ -11,7 +11,7 @@ def search_and_replace(directory, df):
                 with open(file_path, "r", encoding="utf-8") as file:
                     content = file.read()
                 for index, duplicate in df.iterrows():
-                    if duplicate['Duplicate'] in content:
+                    if duplicate['Original'] in content:
                         output_data.append([duplicate['Duplicate'], duplicate['Original'], file_path])
 
                 print(f'# {file_name} is checked')

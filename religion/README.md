@@ -17,7 +17,7 @@ Reverend Hugh Price Hughes, Wesleyan minister and religious reformer, was appoin
 
 [Joseph Pyke](/19c/19c-pyke-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/religion_Joseph_Pyke.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/religion_Jewish_Emancipation.jpg)
 
 Silversmith and later Warden of the Central Synogogue, Joseph Pyke was involved in the establishment of a Mechanics Institute in Chatham.
 

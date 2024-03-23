@@ -65,7 +65,7 @@ Writer and illustrator of the cartoon character Rupert Bear, Mary Tourtel was bo
 
 [Stig of the Dump](/landscape/chalk-pits-stig)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/children_Stig_of_the_Dump.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/children_authors_and_stories1.jpg)
 
 One day Barney tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia… This childhood freedom is evoked in Clive King’s classic 1963 children’s book ‘Stig of the Dump’.
 
