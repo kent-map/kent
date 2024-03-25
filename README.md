@@ -38,7 +38,7 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 
 ## Inspirational Kent Women Writers
 
-[Inspirational Kent Women Writers](/projects/inspirational-women-writers)
+[Inspirational Kent Women Writers](projects/inspirational-women-writers)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/kentwomen.jpg)
 
@@ -46,7 +46,7 @@ To accompany the Inspirational Kent Women Writers event held by the Centre for K
 
 ## Dover at Night
 
-[Dover at Night](/projects/dover-at-night)
+[Dover at Night](projects/dover-at-night)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night.jpg)
 
