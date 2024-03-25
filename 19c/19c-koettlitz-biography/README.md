@@ -1,6 +1,10 @@
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="Reginald Koettlitz FRCS, MRCS Eng., LRCP Edin (1860-1916)" author="Dr Jacquie Stamp" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/f3/David_Cox_-_Dover_-_Google_Art_Project.jpg">
 
-Reginald Koettlitz FRCS, MRCS Eng., LRCP Edin (1860-1916)
-Dr Jacquie Stamp 
+<param ve-entity eid="Q179224" aliases="Dover">
+
+#
+ 
 Climb the winding staircase to the 3rd floor of [Dover Museum]( https://www.dovermuseum.co.uk/Home.aspx), and you are greeted by a rampant polar bear: its jaws menacingly open to reveal its sharp incisors, and its right claw raised as if to smite you at the slightest provocation. This is the animal transported to [Dover](/19c/19c-dover/) from the Arctic in 1897 by Dr Reginald Koettlitz, ‘who apparently had shot it himself’.  It stood for many years in the surgery of first his brother, Dr Maurice Koettlitz, and then of his nephew, of the same name, on Dover’s London Road, before being donated to the museum in the 1950s. 
 
 Reginald Koettlitz - whose surname is of Germanic origins, pronounced ‘kurtlitz’ and sometimes spelt Köttlitz  - was born in Ostend in 1860 to parents fleeing religious persecution in Prussia. His father was a minister in the Reformed Lutheran Church and his mother taught English. Having travelled through Germany and Belgium, the family arrived in [Dover]( /19c/19c-dover/) within a few weeks of Reginald’s birth.
@@ -20,7 +24,7 @@ _The Discovery_ expedition was commanded by Robert Falcon Scott, who would later
 Three geographical features have been named in honour of Dr Reginald Koettlitz: the Ostrov Kotlitsa (Koettlitz Island) in the Arctic’s Franz Josef Land archipelago, and the Koettlitz Glacier and its tributary the Koettlitz Nevé in Antarctica.
 
 Koettlitz had married French-born, Marie Louise Butez shortly before sailing to the Antarctic. On his return, they moved to South Africa, where he obtained a General Practice and became a Justice of the Peace. Both he and Marie are buried in South Africa’s Cradock Cemetery, having died within hours of each other on 10 January 1916 - he of dysentery and she of heart disease. 
-
+<br><br>
 Koettlitz is commemorated by a grave marker, installed at the Cradock Cemetery in 1922, and by a blue plaque installed at the Folkestone Road entrance to Dover College in 2016.
 
 ### Bibliography 
