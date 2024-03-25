@@ -39,3 +39,18 @@ Koettlitz, Reginald. ‘A Journey through Somaliland and Southern Abyssinia to t
 Stamp, J., _Going in Circles: Changing Perceptions of the Arctic through Literary and Visual Representations in the long-nineteenth-century_. Unpublished thesis available at  https://repository.canterbury.ac.uk/item/8zq58/.2020.
 
 Webster, Martyn. _The Koettlitz Family_. Online at http://www.dover-kent.com/Dover-Society1/105/105 44-47.pdf - accessed 10 March 2024.
+
+### References
+
+[^ref1]: Webster, 41.
+[^ref2]: Webster, 41.
+[^ref3]: Stamp, 215.
+[^ref4]: Armston-Sheret, 10.
+[^ref5]: Koettlitz, 467.
+[^ref6]: Jones & Lee.
+[^ref7]: Koettlitz, 467-490.
+[^ref8]: Kirwan, 238.
+[^ref9]: Kirwan, 237.
+[^ref10]: Blum, 263 n64.
+[^ref11]: Blum, 171.
+
