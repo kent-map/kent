@@ -17,7 +17,7 @@ An overview of some of the crime novels set in Kent.
 
 [Arthur Conan Doyle](/19c/19c-conan-doyle)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/crime_Arthur_Conan_Doyle.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/crime_fiction1.jpg)
 
 No fewer than six of the Sherlock Holmes stories involve Kent railway stations.
 

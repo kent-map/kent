@@ -17,7 +17,7 @@ Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown 
 
 [William Harvey](17c-william-harvey)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_William_Harvey.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
 
@@ -25,7 +25,7 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 
 [Robert Plot](17c-robert-plot)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Robert_Plot.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Naturalist and chemist, Plot was born at Borden in Kent.
 
@@ -57,7 +57,7 @@ Rear Admiral and Commander-in-Chief of the Fleet, and also MP for Rochester, Sir
 
 [John Tradescant the Younger](17c-john-tradescant-younger)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_John_Tradescant_the_Younger.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
 
@@ -65,6 +65,6 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 [John Wallis](17c-wallis-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_John_Wallis.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Mathematician and cryptographer, Wallis is known for his pioneering work in infinitesimal calculus.

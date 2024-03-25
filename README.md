@@ -151,7 +151,7 @@ Seaside resorts such as Ramsgate and Sandgate.
 
 [Actors and Theatres](theatre)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/actors_and_theatres1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_Sarah_Baker.jpg)
 
 Actors have made Kent their home, playwrights have used it as a setting, and theatrical companies have performed in its theatres.
 
@@ -159,7 +159,7 @@ Actors have made Kent their home, playwrights have used it as a setting, and the
 
 [Artists and Designers](artists)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_and_designers1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Augustus_Welby_Pugin.jpg)
 
 Architects, designers, painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 
@@ -192,7 +192,7 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 
 [Mathematicians and Scientists](science)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/mathematicians_and_scientists1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_Anna_Atkins.jpg)
 
 Botanists, chemists and naturalists abound in the beautiful garden of England.
 
@@ -219,7 +219,7 @@ The Kent coast and countryside has provided inspiration for poets throughout the
 
 [Prisons and Discipline](prisons)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/prisons_and_discipline1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/prisons_Convicts_in_Kent.jpg)
 
 An exploration of Kent's penal system including the Bloody Code, convicts, transportation and prison hulks.
 
@@ -243,7 +243,7 @@ The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired auth
 
 [The Built Environment](built)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_built_environment1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/religion_The_Hidden_Gems_of_Parochial_Kent.jpg)
 
 A county of rich architecture; castles, churches, ports, forts and towers.
 

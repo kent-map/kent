@@ -33,7 +33,7 @@ A series of short essays covers a range of themes that help explain how Canterbu
 
 [Deal by the Sea](/seascape/deal/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/placesad_Deal_by_the_Sea.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/seascape_Deal_by_the_sea.jpg)
 
 The town of Deal first developed a mile or so inland. But in seventeenth century “Lower Deal”, a network of streets running north of Deal Castle, began to call the shots.
 
@@ -41,7 +41,7 @@ The town of Deal first developed a mile or so inland. But in seventeenth century
 
 [Deal's War on the Shore](/placesad/deal-war)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/placesad_Deal’s_War_on_the_Shore.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/seascapes1.jpg)
 
 Primarily known for its long stretch of shingle beach, Deal may appear like any seaside town to most, but there is a vast history below the waves and onshore. The town has been involved in war and conflict throughout time.
 
@@ -49,7 +49,7 @@ Primarily known for its long stretch of shingle beach, Deal may appear like any 
 
 [Dover in the 19th century](/19c/19c-dover/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/placesad_Dover_in_the_19th_century.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Secret_Wartime_Tunnels.jpg)
 
 Like Ramsgate, Dover considered itself to be among the more genteel of the 19th century seaside resorts. 
 

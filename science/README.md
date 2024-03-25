@@ -17,7 +17,7 @@ Botanist and photographer, Anna Atkins, was born in Tonbridge, the daughter of s
 
 [John Boys](/18c/18c-boys-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_John_Boys.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/shepherds_in_sackcloth1.jpg)
 
 John Boys, agriculturalist, was well known for his breed of South Down sheep.
 
@@ -25,7 +25,7 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 
 [Charles Darwin](/19c/19c-darwin-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_Charles_Darwin.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Darwin1.jpg)
 
 Darwin wrote over a dozen science books and a handful of important monographs, many based on observations and experiments undertaken in his house and gardens in Kent.
 
@@ -33,7 +33,7 @@ Darwin wrote over a dozen science books and a handful of important monographs, m
 
 [Leonard and Thomas Digges](/16c/16c-digges-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_Leonard_and_Thomas_Digges.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/16c_Leonard_and_Thomas_Digges.jpg)
 
 Father and son who were learned mathematicians in Kent in the sixteenth century.
 
@@ -41,7 +41,7 @@ Father and son who were learned mathematicians in Kent in the sixteenth century.
 
 [William Harvey](/17c/17c-william-harvey)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_William_Harvey.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
 
@@ -49,7 +49,7 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 
 [Sir John Herschel](/19c/19c-herschel-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_Sir_John_Herschel1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_Anna_Atkins.jpg)
 
 Astronomer, chemist and inventor of the cynatope, Sir John Herschel lived at Hawkhurst.
 
@@ -57,7 +57,7 @@ Astronomer, chemist and inventor of the cynatope, Sir John Herschel lived at Haw
 
 [Anna Maria Hussey](/19c/19c-hussey-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_Anna_Maria_Hussey.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_Sir_John_Herschel.jpg)
 
 Mycologist, writer and illustrator who enjoyed a holiday in Dover.
 
@@ -81,7 +81,7 @@ Mathematician born in Rochester and known for his work on analysis, number theor
 
 [Robert Plot](/17c/17c-robert-plot)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_Robert_Plot.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Naturalist and chemist, Plot was born at Borden in Kent.
 
@@ -89,7 +89,7 @@ Naturalist and chemist, Plot was born at Borden in Kent.
 
 [John Tradescant the Younger](/17c/17c-john-tradescant-younger)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_John_Tradescant_the_Younger.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
 
@@ -97,6 +97,6 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 [John Wallis](/17c/17c-wallis-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_John_Wallis.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Mathematician and cryptographer, Wallis is known for his pioneering work in infinitesimal calculus.

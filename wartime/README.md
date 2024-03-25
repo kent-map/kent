@@ -17,7 +17,7 @@ With invasion threatening, Kent mobilised its forces, but did it leave the coast
 
 [Plum Pudding Riots](17c-plum-pudding-riots)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Plum_Pudding_Riots.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Plum_Pudding_Riots.jpg)
 
 A riotous time in Canterbury on Christmas Day, 1647.
 
@@ -25,7 +25,7 @@ A riotous time in Canterbury on Christmas Day, 1647.
 
 [Sheppey at War](17c-sheppey-at-war)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Sheppey_at_War.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Sheppey_at_War.jpg)
 
 The Island of Sheppey was at the centre of the famous Medway attack during the Anglo Dutch War (c.1664-1667).
 
@@ -49,7 +49,7 @@ The outbreak of war in August 1914 led to a transformation of this genteel resor
 
 [Richborough: The Secret Port](/20c/20c-richborough/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Richborough_The_Secret_Port.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/seascpae_Richborough_The_Secret_Port.jpg)
 
 Built in secret, the old Roman port of Richborough, was chosen for redevelopment during the first world war to supply the army for its 'last stand'.
 
@@ -114,6 +114,6 @@ First world war poet, Wilfred Owen, passed through Folkestone on his way to the 
 
 [Siegfried Sassoon](/20c/20c-sassoon-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Siegfried_Sassoon.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/poetry_Siegfried_Sassoon.jpg)
 
 Sassoon was born at Weirleigh, Matfield in 1886 and lived there throughout his childhood. His war poem 'Repression of War Experience' is set not in the trenches but at his home in the High Weald of Kent.
