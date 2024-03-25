@@ -10,7 +10,8 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q676689" aliases="Gravesend">
 
-“It was the best of times, it was the worst of times…” (Dickens, 1875, p.1)   
+"It was the best of times, it was the worst of times…" (Dickens, 1875, p.1)   
+<br>
 The opening of [Charles Dickens](/dickens/dickens-biography)’s novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dickens's [Swiss chalet](/dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill](/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
 <param ve-image url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" label="Gads Hill" attribution="Benjamin Mortley">
 
@@ -18,12 +19,15 @@ The action in the novel very quickly moves to the county, with the Mail coach ar
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/79/The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820995540465%29.jpg" label="The Dover Road: Annals of an Ancient Turnpike" attribution="Harper, Charles George, 1863-1943, No restrictions, via Wikimedia Commons">
 
 The journey between Dover and London was a fairly popular one, with coaches making the journey everyday excepting Sundays.[^ref3] The route travelled through Dartford, Rochester, Sittingbourne, [Canterbury](/19c/19c-canterbury) and Faversham. In Dickens’ description of the journey near Shooters Hill, however, it does not sound like a pleasant one:   
-He walked uphill in the mire by the side of the mail […] because the hill, and the harness, and the mud, and the mail were all so heavy, that the horses had three times already come to a stop, besides once drawing the coach across the road, with the mutinous intent of taking it back to Blackheath […] There was a steaming mist in all the hollows, and it had roamed in its forlornness up the hill, like an evil spirit, seeking rest and finding none. A clammy and intensely cold mist, it made its slow way through the air in ripples that visibly followed and overspread one another, as the waves of an unwholesome sea might do.[^ref4]      
+He walked uphill in the mire by the side of the mail […] because the hill, and the harness, and the mud, and the mail were all so heavy, that the horses had three times already come to a stop, besides once drawing the coach across the road, with the mutinous intent of taking it back to Blackheath […] There was a steaming mist in all the hollows, and it had roamed in its forlornness up the hill, like an evil spirit, seeking rest and finding none. A clammy and intensely cold mist, it made its slow way through the air in ripples that visibly followed and overspread one another, as the waves of an unwholesome sea might do.[^ref4]
+<br><br>
 Dickens adds that such a journey in winter was “an achievement to congratulate an adventurous traveller upon”[^ref5] and even the condition of the coach was not something that would add comfort to such a journey, “The mildewy inside of the coach, with its damp and dirty straw, its disagreeable smell, and its obscurity, was rather like a larger dog-kennel”.[^ref6]
 <param ve-image url="https://stor.artstor.org/stor/3804b801-3aa0-4e06-97fa-d8793febc878" label="Millenium Mural, Canterbury" attribution="Painted by Elisa Hudson">
 
-As the mail coach "lumbered, jolted, rattled, and bumped upon its tedious way"[^ref7] through Kent, nothing more is said of the towns and villages, shrouded in darkness. The county acts as a conduit and the story turns to the passengers and their conversation.  However as we approach Dover, Jarvis Lorry,   
+As the mail coach "lumbered, jolted, rattled, and bumped upon its tedious way"[^ref7] through Kent, nothing more is said of the towns and villages, shrouded in darkness. The county acts as a conduit and the story turns to the passengers and their conversation.  However as we approach Dover, Jarvis Lorry,  
+<br>
 "lowered the window, and looked out at the rising sun. There was a ridge of ploughed land, with a plough upon it where it had been left last night when the horses were unyoked; beyond, a quiet coppice-wood, in which many leaves of burning red and golden yellow still remained upon the trees. Though the earth was cold and wet, the sky was clear, and the sun rose bright, placid, and beautiful."[^ref8]   
+<br>
 It is a beautiful, hopeful description of the county that Dickens had made his home.
 
 On arrival at Dover, Mr Lorry takes a walk long the beach at [Dover](/dickens/dickens-dover):   
