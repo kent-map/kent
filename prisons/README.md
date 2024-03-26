@@ -9,7 +9,7 @@ The Bloody Code, Contagious Diseases Acts, Lock Hospitals and Convict prisons.
 
 [Bloody Code](/18c/18c-bloody-code/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/prisons_Bloody_Code.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_The_Bloody_Code.jpg)
 
 The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
 
@@ -25,7 +25,7 @@ On the 19th December 1910, twenty-three young offenders were transferred from th
 
 [Canterbury Gaol in the Nineteenth Century](/19c/19c-canterbury-gaol/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/prisons_Canterbury_Gaol_in_the_Nineteenth_Century.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/prisons_Convicts_in_Kent.jpg)
 
 St Augustine’s Gaol, named after the Abbey on whose land it was built, was constructed between 1806 and 1808, replacing an older county gaol in St Dunstan’s Street
 
@@ -41,7 +41,7 @@ Canterbury Gaol remained a local prison in the twentieth century, continuing its
 
 [Contagious Diseases Acts](/19c/19c-contagious-diseases/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/prisons_Contagious_Diseases_Acts.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/religion_Jewish_Emancipation.jpg)
 
 Following public concern over an increase in prostitution and venereal disease, reflecting the rapid rise in population, urban living and increased mobility, Parliament passed the Contagious Diseases Act in 1864.
 

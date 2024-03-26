@@ -89,7 +89,7 @@ Satirical cartoonist for _Punch_ magazine.
 
 [Marian Peck](/20c/20c-peck-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Marian_Peck.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/edith_nesbit1.jpg)
 
 Artist specialising in maps, calligraphy and miniatures.
 

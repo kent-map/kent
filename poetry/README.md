@@ -9,7 +9,7 @@ The Kent coast and countryside has provided inspiration for poets throughout the
 
 [Henry Gardiner Adams](/19c/19c-gardiner-adams-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/poetry_Henry_Gardiner_Adams.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/placesad_Canterbury_in_the_19th_century.jpg)
 
 'Many fair spots of sylvan beauty lie, Around thee, many old historic sites, Sacred to legend and to poesy, And all wherein the fancy most delights, There the clear Medway glideth gently by, And with a murmur sweet, the shading bough requites.'
 
@@ -25,7 +25,7 @@ Poet Laureate Alfred Austin lived at Swinford Old Manor near Ashford.
 
 [Edmund Blunden](/20c/20c-blunden-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/poetry_Edmund_Blunden.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_garden_of_england1.jpg)
 
 'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!'
 
