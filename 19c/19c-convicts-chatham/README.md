@@ -23,12 +23,10 @@ In 1892, once work on the new dockyard reached an end, the prison closed and its
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Chatham_Marina_and_St_Mary%27s_Island_-_geograph.org.uk_-_2163988.jpg" label="Chatham Marina and St Mary's Island" attribution="by Chris Allen via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ### Bibliography
-
 Bethell, Ben. _‘Star Men’ in English Convict Prisons, 1879-1948_. London: Routledge, 2023.   
 Brown, Alyson. _English Society and the Prison: Time, Culture and Politics in the Development of the Modern Prison, 1850-1920_. Woodbridge: Boydell, 2003.   
 
 ### References
-
 [^ref1]: _Report of the commissioners appointed to inquire into the operation of the acts … relating to transportation and penal servitude_. PP, 1863 [3190], XXI, 1, pp.102, 51, 447-8.    
 [^ref2]: HC Deb 15 June 1882 vol. 270 cc.1262–3.   
 [^ref3]: Anon. _The Mark of the Broad Arrow; or The Life of A Convict by No.77_. London: R.A. Everett, 1903, p.16; HC Deb 24 March 1898 vol. 55 c.871.   
