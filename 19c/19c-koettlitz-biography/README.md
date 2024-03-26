@@ -6,6 +6,7 @@
 #
  
 Climb the winding staircase to the 3rd floor of [Dover Museum]( https://www.dovermuseum.co.uk/Home.aspx), and you are greeted by a rampant polar bear: its jaws menacingly open to reveal its sharp incisors, and its right claw raised as if to smite you at the slightest provocation. This is the animal transported to [Dover](/19c/19c-dover/) from the Arctic in 1897 by Dr Reginald Koettlitz, ‘who apparently had shot it himself’.  It stood for many years in the surgery of first his brother, Dr Maurice Koettlitz, and then of his nephew, of the same name, on Dover’s London Road, before being donated to the museum in the 1950s. 
+<param ve-image url="https://stor.artstor.org/stor/6c9c8e14-a294-48f8-84e8-fca3236b6ad8" label="Polar Bear, Dover Museum" attribution="Jacquie Stamp">
 
 Reginald Koettlitz - whose surname is of Germanic origins, pronounced ‘kurtlitz’ and sometimes spelt Köttlitz  - was born in Ostend in 1860 to parents fleeing religious persecution in Prussia. His father was a minister in the Reformed Lutheran Church and his mother taught English. Having travelled through Germany and Belgium, the family arrived in [Dover]( /19c/19c-dover/) within a few weeks of Reginald’s birth.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Street_Scene%2C_Dover_%284052820752%29.jpg" label="Street Scene, Dover" attribution="Llyfrgell Genedlaethol Cymru/The National Library of Wales from Wales/Cymru, Public domain, via Wikimedia Commons">
