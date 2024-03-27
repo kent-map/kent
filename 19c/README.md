@@ -20,6 +20,7 @@
 [Jane Austen](19c-austen-biography)  
 [Alfred Austin](19c-austin-biography)    
 [Robert Barr](19c-barr-biography)  
+[David Baron](19c-baron-biography)   
 [Adelaide Bartlett](19c-bartlett-biography)  
 [R. D. Blackmore](19c-blackmore-biography)  
 [M.E. Braddon](19c-braddon-biography)   
