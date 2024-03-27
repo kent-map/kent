@@ -9,7 +9,7 @@
 <param ve-map center="Q729006" zoom="12">
 
 <!-- Historical map layers --> 
-<param ve-map-layer active allmaps allmaps-id="a674cc941b6c08cf" title="Kent Ordnance Survey 1822">
+<param ve-map-layer active allmaps allmaps-id="9a62ace9300b7b2e" title="Kent Ordnance Survey 1822">
 
 #
 

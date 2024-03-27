@@ -20,7 +20,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <!-- Kent basemap starting position whole of county centred on Lenham -->
 <param ve-map center="Q28339447" zoom="10">
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="0d13de43a9570166" title="Kent 1820">
+<param ve-map-layer active allmaps allmaps-id="a5177d49ab3dbdde" title="Kent 1820">
 
 <!#>
 

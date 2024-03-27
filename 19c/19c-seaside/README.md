@@ -15,7 +15,7 @@ description="Prof. Carolyn Oulton traces the begins of seaside holidays from the
 <!-- Kent basemap starting position whole of county centred on Lenham -->
 <param ve-map center="Q28339447" zoom="10">
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
+<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Ordnance Survey 1860">
 
 As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells moved coastwards in the late eighteenth and nineteenth centuries, so a number of obscure fishing villages reinvented themselves as seaside resorts. Kent was an obvious beneficiary of this trend, with Gravesend in the Medway area and no fewer than seven resorts along the East coast gaining traction across the period: visitors were drawn in large numbers to [Broadstairs](/dickens/broadstairs-19th-century), [Ramsgate](/19c/19c-ramsgate) and [Margate](/19c/19c-margate) in Thanet, and to [Folkestone](/19c/19c-folkestone) and [Dover](/19c/19c-dover) in Sheppey. While Whitstable, Hythe and Herne Bay never offered serious competition to the Sussex resorts of Brighton and Eastbourne, they too attracted a number of summer visitors.
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Margate_from_the_Parade.jpg" label="Margate from the Parade" attribution="©The British Library Board c11802-06/Maps K.Top.17.4.e Images Online">

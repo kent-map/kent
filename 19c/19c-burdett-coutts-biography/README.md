@@ -20,7 +20,7 @@
 <param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id=" 43dfb17f8135937e" title="Moule 1850">
+<param ve-map-layer active allmaps allmaps-id=" bd3bb7d13a5d0a88" title="Moule 1850">
 
 #
 

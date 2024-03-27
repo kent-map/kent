@@ -11,7 +11,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 <param ve-map center="Q2632094" zoom="11">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
+<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Ordnance Survey 1860">
 
 #
 

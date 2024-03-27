@@ -20,7 +20,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-map center="Q2632094" zoom="11">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
+<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Ordnance Survey 1860">
 
 Tradtionally, hoodening has taken place mainly around the Thanet, Deal and Canterbury areas. In 1839, a Hooden Horse in [Broadstairs](/dickens/broadstairs-19th-century) so frightened a lady that she collapsed and died. Twenty years later, a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right forever afterwards”.[^ref1]   
 <br>
