@@ -1,10 +1,10 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-
 <param ve-config
     title="Doodlebugs in Kent"
     author="Hannah Jennison, Alfie Forsyth and Jonathan Baker"
     banner="https://upload.wikimedia.org/wikipedia/commons/9/9e/Fieseler_Fi_103R_side.JPG"
     layout="vtl">
+    
 <param ve-entity title="V-1 flying bomb" eid="Q153348" aliases="V-1"> <!-- V-1 flying bomb -->
 <param ve-entity title="Orpington" eid="Q123977">
 <param ve-entity title="Hythe" eid="Q967166">
@@ -20,6 +20,8 @@
 <param ve-entity title="Herne Bay" eid="Q929286">
 <param ve-entity title="Canterbury" eid="Q29303">
 <param ve-entity title="Little Chart" eid="Q2470003">
+
+#
 
 The year 1944 was one of devastating human loss for Kent, in part due to the impact of a newly invented ‘revenge weapon’ (Vergeltungswaffen) used by the Germans. The V-1 flying bomb, also known as the doodlebug because of its erratic movement and buzzing noise, was powered by a jet engine and carried a ton of explosive in its nose. The bombs were launched from the Pas de Calais and Picardy during the summer of 1944, with most passing over the Kent coast between Hythe and Dungeness; their destination, London.[^ref1] 
 <param ve-map center="Q967166" zoom="10">
