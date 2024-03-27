@@ -6,7 +6,18 @@
 <link rel="apple-touch-icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Website_logo_1.png/240px-Website_logo_1.png">
 <link href="https://www.mdpress.io/index.css" rel="stylesheet">
 
-<script>window.options = `
+<script>
+  window.jekyll = {
+    baseurl: '{{ site.baseurl }}',
+    source: {
+      owner: `{{ site.github.owner_name }}`,
+      repository: `{{ site.github.repository_name }}`,
+      branch: `{{ site.github.source.branch }}`,
+      dir: `{{ page.dir }}`,
+      name: `{{ page.name }}`
+    }
+  };
+  window.options = `
   baseurl: '{{ site.baseurl }}'
   title: Kent Maps Online
   description: A set of themed essays about Kent, a county in South East England, which include interactive maps and images. Kent has a rich history and provided inspiration for a number of writers and artists.
