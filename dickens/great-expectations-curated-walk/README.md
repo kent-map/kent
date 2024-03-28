@@ -31,8 +31,8 @@
 <param ve-map center="51.254291, 0.876473" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Topo Survey 1860">
-<param ve-map-layer  allmaps allmaps-id="0d13de43a9570166" title="Kent 1820">
+<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Topo Survey 1860">
+<param ve-map-layer  allmaps allmaps-id="a5177d49ab3dbdde" title="Kent 1820">
 
 #
 
