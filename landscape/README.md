@@ -57,7 +57,7 @@ The chalk dust permeates numerous literary landscapes, including those of Dicken
 
 [Chalk Pits, Ash and 'Stig of the Dump'](/landscape/chalk-pits-stig)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/landscape_Chalk_Pits_Ash_and_Stig_of_the_Dump.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/landscapes1.jpg)
 
 One day Barney tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia... This childhood freedom is evoked in Clive King’s classic 1963 children’s book 'Stig of the Dump'.
  
@@ -89,6 +89,6 @@ Itinerant hop and fruit pickers are often seen as transient but archetypal chara
 
 [Writers of the Romney Marshes](/landscape/romney-writers)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/landscape_Writers_of_the_Romney_Marshes.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/crime_Julian_Symons.jpg)
 
 A number of writers of the Edwardian era and the years between the World Wars chose to depict Romney Marsh in their work. Not least among them was Henry James, who never featured the area in his novels but found the Marsh a very special place. 

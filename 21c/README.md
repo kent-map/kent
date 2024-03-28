@@ -9,7 +9,7 @@ Regeneration and the rise of the DFL.
 
 [Impressions from a Bolthole Window](21c-impressions-hirst)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/21c_Impressions_from_a_Bolthole_Window.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/poetry_Impressions_from_a_bolt_hole.jpg)
 
 Low tide. Light breeze. To the north Deal pier waddles seawards towards France, a concrete centipede on rigid legs straddling the falling tide.
 

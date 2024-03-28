@@ -33,7 +33,7 @@ H. G. Wells sends Kipps to the Folkestone library in 1905, where he claims nervo
 
 [The Hidden Gems of Parochial Kent](/churches/overview)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/built_The_Hidden_Gems_of_Parochial_Kent.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/religion_The_Hidden_Gems_of_Parochial_Kent.jpg)
 
 Kent is not only the garden of England, it is also the first landing site of Christianity in Britain. St Augustine began his mission to convert the Britons to Christianity in Canterbury.
 
@@ -57,7 +57,7 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 [Piers](/built/piers)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/built_Piers.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/poetry_Impressions_from_a_bolt_hole.jpg)
 
 In the nineteenth century, Kent resorts began to build piers, principally for use as landing stages, although, they soon became popular marine promenades.
 

@@ -17,7 +17,7 @@ During the second half of the eighteenth century, one of the most remarked-upon 
 
 [Sarah Baker](18c-baker-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_Sarah_Baker.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/actors_and_theatres1.jpg)
 
 Sarah Baker, who was born in Milton, was a fairground performer, a ‘strolling player’, who become one of the most successful self-made women of the eighteenth century.
 
@@ -33,7 +33,7 @@ Richard ‘Beau’ Nash (1674-1761) was a significant presence at Tunbridge Well
 
 [John Boys](18c-boys-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_John_Boys.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/shepherds_in_sackcloth1.jpg)
 
 John Boys, agriculturalist, was well known for his breed of South Down sheep. He farmed at Betteshanger Home Farm, about five miles inland from Deal.
 
@@ -41,7 +41,7 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep. He
 
 [Elizabeth Burgess](18c-burgess-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_Elizabeth_Burgess.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_Hawkhurst_Gang.jpg)
 
 What is this play wrote by Burgess the Pastry Cook; To thrive she’s turn’d her Hand a thousand ways, But why attempt such things as writing Plays; Let her make Sacques, Gowns, Tarts, and Pies, And not presumptuously an Authoress rise.
 
@@ -65,7 +65,7 @@ A pioneering scholar of Anglo-Saxon who lived with her aunt and uncle in Canterb
 
 [Ann Radcliffe](18c-radcliffe-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_Ann_Radcliffe.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_Hawkhurst_Gang.jpg)
 
 Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, with literary sensations such as The Mysteries of Udolpho (1794) and The Italian (1796). Both of these are set in the exotic climate of southern Europe. However, Ann Radcliffe never went to Italy, even better than that, she came to Kent.
 

@@ -9,7 +9,7 @@ Famed for its cherries, hops and fruit, organic farming, and the modern day gree
 
 [John Boys](/18c/18c-boys-biography/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Boys.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/shepherds_in_sackcloth1.jpg)
 
 John Boys, agriculturalist, was well known for his breed of South Down sheep. 
 
@@ -25,7 +25,7 @@ Inventor of Organic Farming.
 
 [S.C. Nethersole](/20c/20c-nethersole-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_S_C_Nethersole.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/landscape_S_C_Nethersole.jpg)
 
 Writer of stories of rural life in East Kent.
 
@@ -41,7 +41,7 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 [Hop and Fruit Picking in the 20th century](/20c/20c-hop-picking/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_Hop_and_Fruit_Picking_in_the_20th_century.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/21c_1.jpg)
 
 Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests.
 

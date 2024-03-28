@@ -9,7 +9,7 @@ Establishment of Chatham Dockyard. Battle against the Spanish Armada. Industry i
 
 [Arden of Faversham](16c-arden-faversham)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/16c_Arden_of_Faversham.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/theatre_Arden_of_Faversham.jpg)
 
 On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn.
 
@@ -25,7 +25,7 @@ The 'Holy Maid of Kent', Elizabeth Barton, prophesized that Henry VIII would die
 
 [John Lyly](16c-lyly-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/16c_John_Lyly.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/theatre_John_Lyly.jpg)
 
 Playwright, author and courtier, John Lyly was a Kentishman famed for his euphuistic writing.
 
@@ -33,7 +33,7 @@ Playwright, author and courtier, John Lyly was a Kentishman famed for his euphui
 
 [Sheppey at War](16c-sheppey-at-war)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/16c_Sheppey_at_War.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Sheppey_at_War.jpg)
 
 In 1588 concerns about the Spanish Armada approaching London via the Kent coast caused the Crown to invest in fortifications at Queenborough Castle and Minster.  
 
@@ -41,7 +41,7 @@ In 1588 concerns about the Spanish Armada approaching London via the Kent coast 
 
 [Spanish Armada](16c-spanish-armada)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/16c_Spanish_Armada.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
 
 With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected?  
 
