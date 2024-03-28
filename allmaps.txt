@@ -1,0 +1,66 @@
+de6ff48c237af0be    17c/17c-behn-biography/README.md    John Speed Map, 1611
+0d13de43a9570166    19c/19c-atkins-biography/README.md  1820 Map    
+d93beb8a7cb608af    19c/19c-browne-biography/README.md  Kent Ordnance Survey 1860
+43dfb17f8135937e    19c/19c-burdett-coutts-biography/README.md  Moule 1850
+e81a29ae269767b7    19c/19c-burges-biography/README.md  Letts 1881
+a674cc941b6c08cf    19c/19c-chatham-dockyard/README.md  Kent Ordnance Survey 1822
+27eaa9c3b1beed84    19c/19c-conan-doyle/README.md   Kent Railway Map
+e9f6ea856473bbaa    19c/19c-convicts-overview/README.md Kent 1820
+e9f6ea856473bbaa    19c/19c-cowden-clarke-biography/README.md   Kent Map 1820
+43dfb17f8135937e    19c/19c-craik-biography/README.md   Moule Map of Kent, 1850
+a674cc941b6c08cf    19c/19c-dadd-biography/README.md    Kent Ordnance Survey 1822
+9537d136c6cd0dac    19c/19c-grand-biography/README.md   Kent Railway Map
+9537d136c6cd0dac    19c/19c-grossmith-biography/README.md    Kent Railway Map
+d93beb8a7cb608af    19c/19c-hogarth-ternan/README.md    Kent Ordnance Survey 1860
+d93beb8a7cb608af    19c/19c-hoodening/README.md Kent Ordnance Survey 1860
+d93beb8a7cb608af    19c/19c-pyke-biography/README.md Kent Ordnance Survey 1860
+9537d136c6cd0dac    19c/19c-sambourne-biography/README.md   Kent Railway Map
+d93beb8a7cb608af    19c/19c-seaside/README.md   Kent Ordnance Survey 1860
+e9f6ea856473bbaa    19c/19c-shore-biography/README.md   Kent Map 1820
+d93beb8a7cb608af    19c/19c-turkish-baths/README.md   Kent Ordnance Survey 1860
+9537d136c6cd0dac    19c/19c-zangwill-biography/README.md    Kent Railway Map
+27eaa9c3b1beed84    19c/conan-test/README.md    Kent Railway Map
+d93beb8a7cb608af    19c/conantest2/README.md    Kent Ordnance Survey 1860
+0d13de43a9570166    19c/convicts-test/README.md Kent 1820
+0d13de43a9570166    19c/convictstest2/README.md Kent 1820
+27eaa9c3b1beed84    19c/realconantest/README.md Kent Railway Map
+0d13de43a9570166    19c/shoretest/README.md 1820 Map
+9537d136c6cd0dac    19c/stannardtest/README.md  Kent Railway Map
+e2c6c2d2160a2c8b    20c/20c-blunden-biography/README.md Kent Road Map
+09908d6628a5278f    20c/20c-bowen-biography/README.md   OS East Kent 1945
+09908d6628a5278f    20c/20c-brooke-biography/README.md  OS East Kent 1945
+e2c6c2d2160a2c8b    20c/20c-fleming-biography/README.md Kent Road Map
+4f72c8eb5fe1eba5    20c/20c-hop-picking/README.md   Mackenzie 1900
+e2c6c2d2160a2c8b    20c/20c-maugham-biography/README.md Kent Road Map
+e2c6c2d2160a2c8b    20c/20c-nethersole-biography/README.md  Kent Road Map
+e2c6c2d2160a2c8b    20c/20c-sassoon-biography/README.md Kent Road Map
+e2c6c2d2160a2c8b    20c/20c-symons-biography/README.md  Kent Road Map
+d93beb8a7cb608af    dickens/david-copperfield-curated-walk/README.md    Kent Ordnance Survey 1860
+08f8a4bca9b4dd3a    dickens/dickens-biography/README.md Kent 1860
+d93beb8a7cb608af    dickens/great-expectations-curated-walk/README.md   Kent Topo Survey 1860
+0d13de43a9570166    dickens/great-expectations-curated-walk/README.md   Kent 1820
+08f8a4bca9b4dd3a    dickens/mobile-landscapes/README.md Kent Ordnance Survey 1860
+53e1fd625e9c894f    placeskz/rochester-overview/README.md   Mackenzie 1900
+a674cc941b6c08cf    prisons/convict-hulks/README.md Kent Ordnance Survey 1822
+d93beb8a7cb608af    projects/dover-at-night/README.md   Kent Ordnance Survey 1860
+
+Kent Ordnance Survey 1860   https://iiif.juncture-digital.org/gh:kent-map/images/maps/Kent_Ordnance_Survey_1860/manifest.json   08f8a4bca9b4dd3a
+Kent 1820   https://iiif.juncture-digital.org/gh:kent-map/images/maps/1820_map_of_Kent_EK_U133_image.jpg/manifest.json  a5177d49ab3dbdde
+Kent Railway Map    https://iiif.juncture-digital.org/gh:kent-map/images/maps/Kent_Railway_Map_1892.jpg/manifest.json   9537d136c6cd0dac
+Moule 1850  https://iiif.juncture-digital.org/gh:kent-map/images/maps/Moule_1850.jpg/manifest.json  bd3bb7d13a5d0a88
+Letts 1881  https://iiif.juncture-digital.org/gh:kent-map/images/maps/Letts1881.jpg/manifest.json   e81a29ae269767b7
+Kent Ordnance Survey 1822   https://iiif.juncture-digital.org/gh:kent-map/images/maps/Kent_Ordnance_Survey_1822/manifest.json   9a62ace9300b7b2e
+OS East Kent 1945   https://iiif.juncture-digital.org/gh:kent-map/images/maps/Ordnance_Survey,_East_Kent,_Published_1945.jpg/manifest.json  09908d6628a5278f
+Kent Road Map   https://iiif.juncture-digital.org/gh:kent-map/images/maps/Road%20map%20-%20Copy.jpg/manifest.json   5aa3ce47b380271b
+Mackenzie 1900  https://iiif.juncture-digital.org/gh:kent-map/images/maps/Mackenzie 1900.JPG/manifest.json  4f72c8eb5fe1eba5
+
+0d13de43a9570166    a5177d49ab3dbdde
+d93beb8a7cb608af    08f8a4bca9b4dd3a
+43dfb17f8135937e    bd3bb7d13a5d0a88
+a674cc941b6c08cf    9a62ace9300b7b2e
+53e1fd625e9c894f    4f72c8eb5fe1eba5
+e2c6c2d2160a2c8b    5aa3ce47b380271b
+
+e81a29ae269767b7    e81a29ae269767b7
+9537d136c6cd0dac    9537d136c6cd0dac
+09908d6628a5278f    09908d6628a5278f

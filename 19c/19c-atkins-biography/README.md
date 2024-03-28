@@ -18,7 +18,7 @@
 <param ve-map center="Q936183" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="0d13de43a9570166" title="1820 Map">
+<param ve-map-layer active allmaps allmaps-id="a5177d49ab3dbdde" title="1820 Map">
 
 <!--#-->
 
