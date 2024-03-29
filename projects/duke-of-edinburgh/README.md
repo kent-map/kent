@@ -16,21 +16,35 @@ Elizabeth Gould, born in 1804 in Ramsgate, was a skilled artist and ornithologis
 
 [Spanish Armada](/16c/16c-spanish-aramada)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+
 ## Edmund Blunden
 
 [Edmund Blunden](/ / blunden-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
 
 ## Leonard and Thomas Digges
 
 [Leonard and Thomas Digges](/16c/16c-digges-biography)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+
+Father and son who were learned mathematicians in Kent in the sixteenth century.
+
 ## William Harvey
 
-[William Harvey](/17c/17c-william-harvey)
+[William Harvey](/17c/17c-william-harvey
+
+![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
 
 ## John Edensor Littlewood
 
 [John Edensor Littlewood](/19c/19c-edensor-littlewood)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+
+Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations.
 
 Add in Fanta's name
 
@@ -38,16 +52,30 @@ Add in Fanta's name
 
 [Robert Plot](/17c/17c-robert-plot)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+
+Naturalist and chemist, Plot was born at Borden in Kent.
+
 ## Plum Pudding Riots
 
 [Plum Pudding Riots](/17c/17c-plum-pudding-riots)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
 
 ## John Tradescant the Younger
 
 [John Tradescant the Younger](/17c/17c-john-tradescant-younger)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+
+Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King’s School, Canterbury.
+
 ## John Wallis
 
 [John Wallis](/17c/17c-wallis-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+
+Mathematician and cryptographer, Wallis is known for his pioneering work in infinitesimal calculus.
 
 
