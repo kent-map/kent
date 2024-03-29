@@ -1,8 +1,10 @@
 `mdp-header title="Duke of Edinburgh Award Scheme" background=gh:kent-map/images/banners/18c.jpg .sticky`
 
 During the Covid pandemic, Kent Maps Online offered remote volunteering and skills training for Duke of Edinburgh participants who may not have been able to complete their awards without access to online opportunities. This space showcases the work completed by our Duke of Edinburgh participants at all levels. 
-<br>
-Supported by student ambassadors from Canterbury Christ Church University, participants explored the extraordinary history of Kent and the people who have lived here, using words, images and innovative coding to bring their stories to life. You can read more about the project in these blog posts written by participants: [Student Experience](https://blogs.canterbury.ac.uk/fahe/student-experience-duke-of-edinburgh-scheme/) and [My Experience using Juncture for Kent Maps Online](https://labs.jstor.org/blog/carina-chan-on-juncture-and-kent-maps/).
+<br><br>
+Supported by student ambassadors from Canterbury Christ Church University, participants explored the extraordinary history of Kent and the people who have lived here, using words, images and innovative coding to bring their stories to life.
+<br><br>
+You can read more about the project in these blog posts written by participants: [Student Experience](https://blogs.canterbury.ac.uk/fahe/student-experience-duke-of-edinburgh-scheme/) and [My Experience using Juncture for Kent Maps Online](https://labs.jstor.org/blog/carina-chan-on-juncture-and-kent-maps/).
 # &nbsp; 
 <param class="cards">
 
@@ -12,15 +14,15 @@ Supported by student ambassadors from Canterbury Christ Church University, parti
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
 
-With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected?
+With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected? In this joint article, the participants researched different aspects of Armada history, from beacons to ships.
 
 ## Edmund Blunden
 
-[Edmund Blunden](/ / blunden-biography)
+[Edmund Blunden](/20c/20c-blunden-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_garden_of_england1.jpg)
 
-‘Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!’
+'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!'
 
 ## Leonard and Thomas Digges
 
@@ -60,7 +62,7 @@ Add in Fanta's name
 
 [Robert Plot](/17c/17c-robert-plot)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Naturalist and chemist, Plot was born at Borden in Kent.
 
@@ -68,7 +70,7 @@ Naturalist and chemist, Plot was born at Borden in Kent.
 
 [Plum Pudding Riots](/17c/17c-plum-pudding-riots)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 A riotous time in Canterbury on Christmas Day, 1647.
 
@@ -76,7 +78,7 @@ A riotous time in Canterbury on Christmas Day, 1647.
 
 [John Tradescant the Younger](/17c/17c-john-tradescant-younger)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King’s School, Canterbury.
 
@@ -84,7 +86,7 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 [John Wallis](/17c/17c-wallis-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Mathematician and cryptographer, Wallis is known for his pioneering work in infinitesimal calculus.
 
