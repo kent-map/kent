@@ -8,7 +8,7 @@ During the Covid pandemic, Kent Maps Online offered remote volunteering and skil
 
 [Elizabeth Gould](/19c/19c-gould-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Elizabeth_Gould.jpg)
 
 Elizabeth Gould, born in 1804 in Ramsgate, was a skilled artist and ornithologist.
 
