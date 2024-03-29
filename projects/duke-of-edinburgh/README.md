@@ -6,19 +6,19 @@ This space showcases the work completed by our Duke of Edinburgh participants at
 
 ## Elizabeth Gould
 
-[May Aldington](/19c/19c-aldington-biography)
+[Elizabeth Gould](/19c/19c-gould-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
 
-May Aldington wrote _Meg of the Salt Pans_ set in a Kentish village near Sandport (Sandwich). The book draws on her own experiences living at the _Bell and Anchor_ in Sandwich. May was praised for her 'excellent pen pictures of Kentish people — people that we seem to know without being able to actually recognise'.
+Elizabeth Gould, born in 1804 in Ramsgate, was a skilled artist and ornithologist.
 
 ## Spanish Armada
 
-[Spanish Armada]
+[Spanish Armada](/16c/16c-spanish-aramada)
 
 ## Edmund Blunden
 
-[Edmund Blunden]
+[Edmund Blunden](/ / blunden-biography)
 
 ## Leonard and Thomas Digges
 
