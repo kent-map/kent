@@ -3,8 +3,7 @@
 During the Covid pandemic, Kent Maps Online offered remote volunteering and skills training for Duke of Edinburgh participants who may not have been able to complete their awards without access to online opportunities. This space showcases the work completed by our Duke of Edinburgh participants at all levels. 
 <br><br>
 Supported by student ambassadors from Canterbury Christ Church University, participants explored the extraordinary history of Kent and the people who have lived here, using words, images and innovative coding to bring their stories to life.
-<br><br>
-You can read more about the project in these blog posts written by participants: [Student Experience](https://blogs.canterbury.ac.uk/fahe/student-experience-duke-of-edinburgh-scheme/) and [My Experience using Juncture for Kent Maps Online](https://labs.jstor.org/blog/carina-chan-on-juncture-and-kent-maps/).
+
 # &nbsp; 
 <param class="cards">
 
@@ -12,7 +11,7 @@ You can read more about the project in these blog posts written by participants:
 
 [Spanish Armada](/16c/16c-spanish-aramada)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
 
 With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected? In this joint article, the participants researched different aspects of Armada history, from beacons to ships.
 
@@ -89,5 +88,9 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Mathematician and cryptographer, Wallis is known for his pioneering work in infinitesimal calculus.
+
+
+<br><br>
+You can read more about the project in these blog posts written by participants: [Student Experience](https://blogs.canterbury.ac.uk/fahe/student-experience-duke-of-edinburgh-scheme/) and [My Experience using Juncture for Kent Maps Online](https://labs.jstor.org/blog/carina-chan-on-juncture-and-kent-maps/).
 
 
