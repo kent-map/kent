@@ -1,4 +1,4 @@
-`mdp-header title="Duke of Edinburgh Award Scheme" background=gh:kent-map/images/banners/18c.jpg .sticky`
+`mdp-header title="Duke of Edinburgh Award Scheme" background=gh:kent-map/images/banners/Dumpton.JPG .sticky`
 
 During the Covid pandemic, Kent Maps Online offered remote volunteering and skills training for Duke of Edinburgh participants who may not have been able to complete their awards without access to online opportunities. This space showcases the work completed by our Duke of Edinburgh participants at all levels. 
 <br><br>
@@ -59,7 +59,7 @@ Mathematician born in Rochester and known for his work on analysis, number theor
 
 [Robert Plot](/17c/17c-robert-plot)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ac/Plot_memorial%2C_Borden.jpg)
 
 Naturalist and chemist, Plot was born at Borden in Kent.
 
