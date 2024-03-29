@@ -59,7 +59,7 @@ Mathematician born in Rochester and known for his work on analysis, number theor
 
 [Robert Plot](/17c/17c-robert-plot)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ac/Plot_memorial%2C_Borden.jpg)
 
 Naturalist and chemist, Plot was born at Borden in Kent.
 
