@@ -51,11 +51,9 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 
 [John Edensor Littlewood](/19c/19c-edensor-littlewood)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_John_Edensor_Littlewood.jpg)
 
 Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations. Littlewood said 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' 
-
-Add in Fanta's name
 
 ## Robert Plot
 
@@ -71,7 +69,7 @@ Naturalist and chemist, Plot was born at Borden in Kent.
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
-A riotous time in Canterbury on Christmas Day, 1647.
+Hannah Jennison writes a news report on the Canterbury riots which occurred on Christmas Day, 1647.
 
 ## John Tradescant the Younger
 
