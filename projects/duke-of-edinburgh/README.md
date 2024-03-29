@@ -75,7 +75,7 @@ Hannah Jennison writes a news report on the Canterbury riots which occurred on C
 
 [John Tradescant the Younger](/17c/17c-john-tradescant-younger)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b1/The_floral_cabinet_and_magazine_of_exotic_botany_%281840%29_%2814798644443%29.jpg)
 
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King’s School, Canterbury.
 
