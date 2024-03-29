@@ -4,14 +4,6 @@ During the Covid pandemic, Kent Maps Online offered remote volunteering and skil
 # &nbsp; 
 <param class="cards">
 
-## Elizabeth Gould
-
-[Elizabeth Gould](/19c/19c-gould-biography)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Elizabeth_Gould.jpg)
-
-Elizabeth Gould, born in 1804 in Ramsgate, was a skilled artist and ornithologist.
-
 ## Spanish Armada
 
 [Spanish Armada](/16c/16c-spanish-aramada)
@@ -32,9 +24,17 @@ With invasion threatening, Kent mobilised its forces, but did it leave the coast
 
 [Leonard and Thomas Digges](/16c/16c-digges-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/16c_Leonard_and_Thomas_Digges.jpg)
 
 Father and son who were learned mathematicians in Kent in the sixteenth century.
+
+## Elizabeth Gould
+
+[Elizabeth Gould](/19c/19c-gould-biography)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Elizabeth_Gould.jpg)
+
+Elizabeth Gould, born in 1804 in Ramsgate, was a skilled artist and ornithologist.
 
 ## William Harvey
 
