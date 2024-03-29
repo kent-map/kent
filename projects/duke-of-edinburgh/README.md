@@ -55,6 +55,12 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 
 Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations. Littlewood said 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' 
 
+## John Lyly
+
+[John Lyly](/16c/16c-lyly-biography)
+
+‘My heart throbbes, my eares tingle, my minde misgiues mee, since I heare such muttering of marry-ages in Rochester’ - Vicinia in Mother Bombie.
+
 ## Robert Plot
 
 [Robert Plot](/17c/17c-robert-plot)
