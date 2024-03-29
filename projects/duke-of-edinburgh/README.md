@@ -40,7 +40,7 @@ Elizabeth Gould, born in 1804 in Ramsgate, was a skilled artist and ornithologis
 
 [William Harvey](/17c/17c-william-harvey)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
 
