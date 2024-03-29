@@ -23,6 +23,10 @@ With invasion threatening, Kent mobilised its forces, but did it leave the coast
 
 'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!'
 
+## Doodlebugs in Kent
+
+[Doodlebugs in Kent](/20c/ww2-doodlebug)
+
 ## Leonard and Thomas Digges
 
 [Leonard and Thomas Digges](/16c/16c-digges-biography)
