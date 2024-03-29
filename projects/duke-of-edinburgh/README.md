@@ -38,7 +38,7 @@ Father and son who were learned mathematicians in Kent in the sixteenth century.
 
 ## William Harvey
 
-[William Harvey](/17c/17c-william-harvey
+[William Harvey](/17c/17c-william-harvey)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg
 
@@ -50,7 +50,7 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
 
-Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations.
+Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations. Littlewood said 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' 
 
 Add in Fanta's name
 
