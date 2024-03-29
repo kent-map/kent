@@ -18,11 +18,15 @@ Elizabeth Gould, born in 1804 in Ramsgate, was a skilled artist and ornithologis
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
 
+With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected?
+
 ## Edmund Blunden
 
 [Edmund Blunden](/ / blunden-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+
+‘Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!’
 
 ## Leonard and Thomas Digges
 
@@ -36,7 +40,9 @@ Father and son who were learned mathematicians in Kent in the sixteenth century.
 
 [William Harvey](/17c/17c-william-harvey
 
-![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg
+
+Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
 
 ## John Edensor Littlewood
 
@@ -61,6 +67,8 @@ Naturalist and chemist, Plot was born at Borden in Kent.
 [Plum Pudding Riots](/17c/17c-plum-pudding-riots)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=Elizabeth_Gould.jpg)
+
+A riotous time in Canterbury on Christmas Day, 1647.
 
 ## John Tradescant the Younger
 
