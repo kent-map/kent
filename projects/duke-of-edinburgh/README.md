@@ -37,7 +37,7 @@ Co-researched and designed by Duke of Edinburgh participants, Hannah and Jonatha
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/16c_Leonard_and_Thomas_Digges.jpg)
 
-Father and son who were learned mathematicians in Kent in the sixteenth century.
+Arnav researched this father and son duo who were learned mathematicians in Kent in the sixteenth century. 
 
 ## Elizabeth Gould
 
@@ -45,7 +45,7 @@ Father and son who were learned mathematicians in Kent in the sixteenth century.
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Elizabeth_Gould.jpg)
 
-Elizabeth Gould, born in 1804 in Ramsgate, was a skilled artist and ornithologist.
+Elizabeth Gould, born in 1804 in Ramsgate, was a skilled artist and ornithologist. Carina was inspired to research, write and mark up this article.
 
 ## William Harvey
 
@@ -53,7 +53,7 @@ Elizabeth Gould, born in 1804 in Ramsgate, was a skilled artist and ornithologis
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
-Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
+The Kentish physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood inspired Arnav to write this article.
 
 ## John Edensor Littlewood
 
@@ -85,7 +85,7 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ac/Plot_memorial%2C_Borden.jpg)
 
-Naturalist and chemist, Plot was born at Borden in Kent.
+Hannah researched the life of naturalist and chemist, Robert Plot who was born at Borden in Kent.
 
 ## Plum Pudding Riots
 
@@ -101,7 +101,7 @@ Hannah Jennison writes a news report on the Canterbury riots which occurred on C
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b1/The_floral_cabinet_and_magazine_of_exotic_botany_%281840%29_%2814798644443%29.jpg)
 
-Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King’s School, Canterbury.
+Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King’s School, Canterbury. Hannah researched his connections with Kent for this article.
 
 ## John Wallis
 
@@ -109,5 +109,5 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
-Mathematician and cryptographer, Wallis is known for his pioneering work in infinitesimal calculus.
+Mathematician and cryptographer, John Wallis who was born in Ashford is known for his pioneering work in infinitesimal calculus and inspired Charlie and Barnaby to research this article.
 
