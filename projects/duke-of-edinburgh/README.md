@@ -9,7 +9,7 @@ Supported by student ambassadors from Canterbury Christ Church University, parti
 
 ## Spanish Armada
 
-[Spanish Armada](/16c/16c-spanish-aramada)
+[Spanish Armada](/16c/16c-spanish-armada)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
 
@@ -21,11 +21,13 @@ With invasion threatening, Kent mobilised its forces, but did it leave the coast
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_garden_of_england1.jpg)
 
-'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!'
+'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood.' Read Alice's research into the life of war poet, Edmund Blunden, who grew up in Yalding, near Maidstone.
 
 ## Doodlebugs in Kent
 
 [Doodlebugs in Kent](/20c/ww2-doodlebug)
+
+Co-researched and designed by Duke of Edinburgh participant, Hannah and Applied Humanities student Alfie. This article illustrates the collaborative nature of the project. 
 
 ## Leonard and Thomas Digges
 
@@ -58,6 +60,14 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_John_Edensor_Littlewood.jpg)
 
 Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations. Littlewood said 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' 
+
+## Lullingstone Roman Villa
+
+[Lullingstone Roman Villa](/built/lullingstone-roman-villa)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg)
+
+Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. Read Nadia's article about the excavations which took place during the 1940s-60s.
 
 ## John Lyly
 
