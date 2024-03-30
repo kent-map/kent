@@ -29,7 +29,7 @@ With invasion threatening, Kent mobilised its forces, but did it leave the coast
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/war_in_kent1.jpg)
 
-Co-researched and designed by Duke of Edinburgh participant, Hannah and Applied Humanities student Alfie. This article illustrates the collaborative nature of the project. 
+Co-researched and designed by Duke of Edinburgh participants, Hannah and Jonathan, and Applied Humanities student Alfie. This article illustrates the collaborative nature of the project. 
 
 ## Leonard and Thomas Digges
 
