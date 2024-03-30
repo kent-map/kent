@@ -1,4 +1,4 @@
-`mdp-header title="21st Century Kent" background=gh:kent-map/images/21c/canterburyhighst sticky=true`
+`mdp-header title="21st Century Kent" background=gh:kent-map/images/21c/canterburyhighst .sticky`
 
 Regeneration and the rise of the DFL.
 
