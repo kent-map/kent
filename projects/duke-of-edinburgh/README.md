@@ -61,7 +61,7 @@ The Kentish physician who contributed to the study of anatomy and physiology, ad
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_John_Edensor_Littlewood.jpg)
 
-Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations. Littlewood said 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' 
+Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations. Littlewood said 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' Read Fanta's research to find out more.
 
 ## Lullingstone Roman Villa
 
