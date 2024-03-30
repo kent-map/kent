@@ -75,7 +75,9 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 [John Lyly](/16c/16c-lyly-biography)
 
-‘My heart throbbes, my eares tingle, my minde misgiues mee, since I heare such muttering of marry-ages in Rochester’ - Vicinia in Mother Bombie.
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/theatre_John_Lyly.jpg)
+
+‘My heart throbbes, my eares tingle, my minde misgiues mee, since I heare such muttering of marry-ages in Rochester’ - Vicinia in Mother Bombie. Read Hannah Jennison's research on John Lyly, dramatist, courtier and parliamentarian.
 
 ## Robert Plot
 
