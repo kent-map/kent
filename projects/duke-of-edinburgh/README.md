@@ -23,6 +23,10 @@ With invasion threatening, Kent mobilised its forces, but did it leave the coast
 
 'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood. I see my cricket bat, newly bound, gleaming on a nail outside the saddlers. Avast ye heart-breaking memories!'
 
+## Doodlebugs in Kent
+
+[Doodlebugs in Kent](/20c/ww2-doodlebug)
+
 ## Leonard and Thomas Digges
 
 [Leonard and Thomas Digges](/16c/16c-digges-biography)
@@ -54,6 +58,12 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_John_Edensor_Littlewood.jpg)
 
 Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations. Littlewood said 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' 
+
+## John Lyly
+
+[John Lyly](/16c/16c-lyly-biography)
+
+‘My heart throbbes, my eares tingle, my minde misgiues mee, since I heare such muttering of marry-ages in Rochester’ - Vicinia in Mother Bombie.
 
 ## Robert Plot
 
