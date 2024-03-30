@@ -65,7 +65,7 @@ Mathematician born in Rochester and known for his work on analysis, number theor
 
 [Lullingstone Roman Villa](/built/lullingstone-roman-villa)
 
-
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg)
 
 Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. Read Nadia's article about the excavations which took place during the 1940s-60s.
 
