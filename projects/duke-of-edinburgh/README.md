@@ -27,6 +27,8 @@ With invasion threatening, Kent mobilised its forces, but did it leave the coast
 
 [Doodlebugs in Kent](/20c/ww2-doodlebug)
 
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/war_in_kent1.jpg)
+
 Co-researched and designed by Duke of Edinburgh participant, Hannah and Applied Humanities student Alfie. This article illustrates the collaborative nature of the project. 
 
 ## Leonard and Thomas Digges
