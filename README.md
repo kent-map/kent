@@ -7,6 +7,14 @@ Kent Maps Online is an interactive Digital Humanities project exploring the coun
 # Featured essays 
 <param class="cards">
 
+## Map Essay Demo
+
+[Map Essay Demo](map-test)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Mobile_Landscapes.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Location_map_United_Kingdom_Canterbury_Central.png/507px-Location_map_United_Kingdom_Canterbury_Central.png)
+
+Our quick map essay.
+
 ## Mobile Landscapes - Finding Kent Dickensian
 
 [Mobile Landscapes - Finding Kent Dickensian](dickens/mobile-landscapes)
