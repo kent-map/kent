@@ -1,9 +1,10 @@
-<param ve-config title="Map Test" banner="gh:kent-map/images/Kent_Maps.jpg" layout="vtl">
+<param ve-config title="Map Test" banner="https://raw.githubusercontent.com/kent-map/images/main/Kent_Maps.jpg" layout="vtl">
 
 # My Essay
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Hac habitasse platea dictumst quisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Commodo quis imperdiet massa tincidunt nunc pulvinar. Fusce ut placerat orci nulla pellentesque dignissim. Dui nunc mattis enim ut tellus elementum sagittis. Mollis aliquam ut porttitor leo a diam sollicitudin. Ut venenatis tellus in metus vulputate. Bibendum enim facilisis gravida neque convallis a cras semper auctor. Aliquet lectus proin nibh nisl condimentum id. Pellentesque elit ullamcorper dignissim cras. Orci ac auctor augue mauris augue neque gravida in fermentum. Mus mauris vitae ultricies leo integer malesuada nunc. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Velit scelerisque in dictum non. Posuere urna nec tincidunt praesent semper feugiat nibh sed pulvinar. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Diam quis enim lobortis scelerisque fermentum dui faucibus. Aliquam sem fringilla ut morbi.
-<param ve-map center="32.87329820319315, -79.97237956148528" zoom="10" allmaps="f2bf06c00266b163">
+<param ve-map center="32.87329820319315, -79.97237956148528" zoom="10">
+<param ve-map-layer active allmaps allmaps-id="f2bf06c00266b163" title="Charleston map, from Old Maps Online">
 
 Massa sapien faucibus et molestie ac. Risus nullam eget felis eget nunc lobortis. Sapien pellentesque habitant morbi tristique. Nulla aliquet enim tortor at auctor urna nunc id cursus. Ornare aenean euismod elementum nisi. Tellus in hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Neque convallis a cras semper. In nibh mauris cursus mattis molestie a iaculis at erat. Dictumst quisque sagittis purus sit amet. Turpis in eu mi bibendum. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Pharetra sit amet aliquam id diam maecenas ultricies mi. Elementum eu facilisis sed odio morbi. Sit amet cursus sit amet. Vitae congue mauris rhoncus aenean vel elit. Diam volutpat commodo sed egestas. Eget magna fermentum iaculis eu non diam phasellus. Eget sit amet tellus cras adipiscing enim eu turpis.
 
