@@ -1,4 +1,4 @@
-<param ve-config title="H.E. Bates" layout="vtl">
+<param ve-config title="Map Test" banner="gh:kent-map/images/Kent_Maps.jpg" layout="vtl">
 
 # My Essay
 
