@@ -5,11 +5,13 @@ Here are some of the texts published in the 19th century which feature Kent as a
 # &nbsp; 
 <param class="cards">
 
+Alphabetical by book title
+
 ## Rockwood: A Romance (1834)
 
 [Rockwood](https://archive.org/details/rockwoodromance00ains)
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/27/Rockwood-_A_romance_%28IA_rockwoodromance00ains%29.pdf)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/27/Rockwood-_A_romance_%28IA_rockwoodromance00ains%29.pdf)
 
 Summary here to include author name e.g. William Harrison Ainsworth
 
