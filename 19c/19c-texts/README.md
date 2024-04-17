@@ -1,5 +1,7 @@
 19C reading
 
+Here are some of the texts published in the 19th century which feature Kent as a setting. Some of these links go directly to an e-version of the text and others to a Kent Maps article which will tell you more about the Kentish places featured in the stories.
+
 William Harrison Ainsworth. _Rookwood_ (1834).
 
 Barham, Rev. R. H. _The Ingoldsby Legends_ (1837).
