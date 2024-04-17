@@ -246,7 +246,7 @@ In the early stages of their married life, Elizabeth would often illustrate scie
 
  ## Sarah Grand (1854-1943)
  
- [Sarah Grand](19c-grand-biography)
+[Sarah Grand](19c-grand-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg) 
 
