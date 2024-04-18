@@ -43,7 +43,7 @@ Woman's Headdress, Medieval, Replica | Object Lessons - Clothes & Accessories: M
 
 [^ref1]: Tait, J., _Dictionary of National Biography_, Joan (1328-1385), vol 29 (1885-1900) pp. 392. Accessed https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Joan_(1328-1385) on 25 November 2022.
 [^ref2]: Jones, D, _The Plantagenets: The Kings who made England_ (William Collins, 2013), p505.
-[^ref3]: Woman's Headdress, Medieval, Replica | Object Lessons - Clothes & Accessories: Medieval; Rosalie's Medieval Woman - Medieval Headdresses (rosaliegilbert.com); Rosalie's Medieval Woman - Veils and Wimples (rosaliegilbert.com)
+[^ref3]: Woman's Headdress, Medieval, Replica Object Lessons - Clothes & Accessories: Medieval; Rosalie's Medieval Woman - Medieval Headdresses rosaliegilbert.com; Rosalie's Medieval Woman - Veils and Wimples rosaliegilbert.com.   
 [^ref4]: Goodman, A., Joan,The Fair Maid of Kent: A Fourteenth Century Princess and Her World (The Boydell Press, 2017), p8.
 [^ref5]: Jones, D, The Plantagenets: The Kings who made England (William Collins, 2013), p505.
 [^ref6]: Carr, H., The Red Prince: The Life of John of Gaunt, the Duke of Lancaster  (Oneworld Publications, 2021), p.140. 

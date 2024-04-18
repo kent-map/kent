@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="The Battle of Crayford" author="Francesca Allfrey and Beth Whalley" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg" attribution="Ron Strutt Replica Viking ship Hugin>
+<param ve-config title="The Battle of Crayford" author="Francesca Allfrey and Beth Whalley" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg" attribution="Ron Strutt Replica Viking ship Hugin">
 
 <param ve-entity eid="Q207208" aliases="Bexley">
 <param ve-entity eid="Q146676" aliases="Crayford">
