@@ -1,4 +1,4 @@
-`mdp-header title="Mathematicians and Scientists" background=gh:kent-map/images/banners/Maths .sticky`
+`mdp-header title="Mathematicians and Scientists" background=gh:kent-map/images/science/minstermarsh .sticky`
 
 Botanists, chemists and naturalists abound in the beautiful garden of England.
 
