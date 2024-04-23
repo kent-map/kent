@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Plum Pudding Riots" author="Hannah Jennison" layout="vtl" 
+<param ve-config title="Plum Pudding Riots" author="Hannah" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg">
 
 #
