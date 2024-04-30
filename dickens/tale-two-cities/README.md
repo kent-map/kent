@@ -29,12 +29,14 @@ As the mail coach "lumbered, jolted, rattled, and bumped upon its tedious way"[^
 "lowered the window, and looked out at the rising sun. There was a ridge of ploughed land, with a plough upon it where it had been left last night when the horses were unyoked; beyond, a quiet coppice-wood, in which many leaves of burning red and golden yellow still remained upon the trees. Though the earth was cold and wet, the sky was clear, and the sun rose bright, placid, and beautiful."[^ref8]   
 <br>
 It is a beautiful, hopeful description of the county that Dickens had made his home.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/65/Charles_B_Newhouse_-_The_London-Dover_Royal_Mail%2C_c_1830-1840_-_B2001.2.1027_-_Yale_Center_for_British_Art.jpg" label="The London-Dover Royal Mail c. 1830-40" attribution="C.B. Newhouse, CC0, via Wikimedia Commons">
 
 On arrival at Dover, Mr Lorry takes a walk long the beach at [Dover](/dickens/dickens-dover):   
 "The little, narrow, crooked town […] hid itself away from the beach, and ran its head into the chalk cliffs, like a marine ostrich. The beach was a desert of heaps of sea and stones tumbling wildly about, and the sea did what it liked, and what it liked was destruction. It […] thundered at the cliffs, and brought the coast down, madly. The air among the houses was of so strong a piscatory flavour […]. A little fishing was done in the port, and a quantity of strolling about by night… "[^ref9]
 <param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate St, Dover, 1830" attribution="Drawn by G.Shepherd">
 
 This is one of only a few references to [Dover](/dickens/dickens-dover). But Dickens does make reference to the Royal George Hotel where Mr Lorry stays before he leaves England. Jervis Lorry's stay sounds a comfortable one, even if the hotel's decor was a little funereal, as he enjoys a bottle of claret by the fire. The real-life equivalent of this hotel is believed by some to be the Ship Hotel which was sadly demolished the year after Dickens published _A Tale of Two Cities_.[^ref10] Dickens stayed in this hotel in 1856 and this hotel was also frequented by other literati such as Lord Byron.[^ref11] For a time, this hotel bore a name slightly more similar to the one Dickens chose, when it was known as The Royal Ship Hotel.[^ref12] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/T2C%2C_Fred_Barnard%2C_Lucie_meets_Javis_Lorry_%28I%2C4%29.jpeg" label="Lucie meets Jarvis Lorry" attribution="Fred Barnard, Public domain, via Wikimedia Commons">
 
 _A Tale of Two Cities_ is not the only Dickens's novel to include the treacherous journey along the [Dover Road](/dickens/david-copperfield-dover-road/). Both [David Copperfield](/dickens/david-copperfield-curated-walk) and _Little Dorrit_ (1856) include unfavourable accounts of the journey c. 1820s:
 <br><br>
