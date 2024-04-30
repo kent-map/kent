@@ -10,8 +10,8 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q676689" aliases="Gravesend">
 
-"It was the best of times, it was the worst of times…" 
-<br>
+"It was the best of times, it was the worst of times…"
+<br><br>
 The opening of [Charles Dickens](/dickens/dickens-biography)’s novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dickens's [Swiss chalet](/dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill](/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
 <param ve-image url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" label="Gads Hill" attribution="Benjamin Mortley">
 
@@ -41,11 +41,12 @@ This is one of only a few references to [Dover](/dickens/dickens-dover). But Dic
 _A Tale of Two Cities_ is not the only Dickens's novel to include the treacherous journey along the [Dover Road](/dickens/david-copperfield-dover-road/). Both [David Copperfield](/dickens/david-copperfield-curated-walk) and _Little Dorrit_ (1856) include unfavourable accounts of the journey c. 1820s:
 <br><br>
 "Next morning’s sun saw Mr Dorrit’s equipage upon the Dover road, where every red-jacketed postilion was the sign of a cruel house, established for the unmerciful plundering of travellers. The whole business of the human race, between London and Dover, being spoliation, Mr Dorrit was waylaid at Dartford, pillaged at Gravesend, rifled at Rochester, fleeced at Sittingbourne, and sacked at Canterbury. However, it being the Courier’s business to get him out of the hands of the banditti, the Courier brought him off at every stage; and so the red-jackets went gleaming merrily along the spring landscape, rising and falling to a regular measure, between Mr Dorrit in his snug corner and the next chalky rise in the dusty highway."
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Coaching_days_and_coaching_ways_%281893%29_%2814595227959%29.jpg2 label="Coaching days and coaching ways" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
 Dickens was a frequent visitor to France, a country he loved dearly. In a letter to Emile de la Rue in 1847 he described the French to be "the first people in the universe"[^ref13]. However with the railway opening in Dover in 1844 and the boat train available from the more fashionable neighbouring town of [Folkestone](/19c/19c-folkestone) from 1848, it is more likely Dickens travelled by train than coach to the continent. It is on one of these journeys that he was involved in the [Staplehurst](/dickens/dickens-staplehurst/) rail crash, proving that rail journeys, although more comfortable could be as perilous as the earlier mail coach.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg" label="Staplehurst rail crash" attribution="Illustrated London News, Public domain, via Wikimedia Commons">
-
+<br><br>
 However, despite his love of the French, _A Tale of Two Cities_, was not very popular in France, and there are fewer French translations than his other works. Some suppose that the book is misunderstood in translation. The title of the first translation _Paris et Londres en 1793_  (Paris and London in 1793)[^ref14], seems to miss the point, ignoring the novel's start date of 1775, and this may account for its lack of popularity. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg" label="Staplehurst rail crash" attribution="Illustrated London News, Public domain, via Wikimedia Commons">
 
 ### Bibliography
 
