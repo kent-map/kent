@@ -10,7 +10,7 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q676689" aliases="Gravesend">
 
-"It was the best of times, it was the worst of times…" (Dickens, 1875, p.1)   
+"It was the best of times, it was the worst of times…" 
 <br>
 The opening of [Charles Dickens](/dickens/dickens-biography)’s novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dickens's [Swiss chalet](/dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill](/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
 <param ve-image url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" label="Gads Hill" attribution="Benjamin Mortley">
@@ -29,14 +29,17 @@ As the mail coach "lumbered, jolted, rattled, and bumped upon its tedious way"[^
 "lowered the window, and looked out at the rising sun. There was a ridge of ploughed land, with a plough upon it where it had been left last night when the horses were unyoked; beyond, a quiet coppice-wood, in which many leaves of burning red and golden yellow still remained upon the trees. Though the earth was cold and wet, the sky was clear, and the sun rose bright, placid, and beautiful."[^ref8]   
 <br>
 It is a beautiful, hopeful description of the county that Dickens had made his home.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/65/Charles_B_Newhouse_-_The_London-Dover_Royal_Mail%2C_c_1830-1840_-_B2001.2.1027_-_Yale_Center_for_British_Art.jpg" label="The London-Dover Royal Mail c. 1830-40" attribution="C.B. Newhouse, CC0, via Wikimedia Commons">
 
 On arrival at Dover, Mr Lorry takes a walk long the beach at [Dover](/dickens/dickens-dover):   
 "The little, narrow, crooked town […] hid itself away from the beach, and ran its head into the chalk cliffs, like a marine ostrich. The beach was a desert of heaps of sea and stones tumbling wildly about, and the sea did what it liked, and what it liked was destruction. It […] thundered at the cliffs, and brought the coast down, madly. The air among the houses was of so strong a piscatory flavour […]. A little fishing was done in the port, and a quantity of strolling about by night… "[^ref9]
 <param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate St, Dover, 1830" attribution="Drawn by G.Shepherd">
 
 This is one of only a few references to [Dover](/dickens/dickens-dover). But Dickens does make reference to the Royal George Hotel where Mr Lorry stays before he leaves England. Jervis Lorry's stay sounds a comfortable one, even if the hotel's decor was a little funereal, as he enjoys a bottle of claret by the fire. The real-life equivalent of this hotel is believed by some to be the Ship Hotel which was sadly demolished the year after Dickens published _A Tale of Two Cities_.[^ref10] Dickens stayed in this hotel in 1856 and this hotel was also frequented by other literati such as Lord Byron.[^ref11] For a time, this hotel bore a name slightly more similar to the one Dickens chose, when it was known as The Royal Ship Hotel.[^ref12] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/T2C%2C_Fred_Barnard%2C_Lucie_meets_Javis_Lorry_%28I%2C4%29.jpeg" label="Lucie meets Jarvis Lorry" attribution="Fred Barnard, Public domain, via Wikimedia Commons">
 
-_A Tale of Two Cities_ is not the only Dickens's novel to include the treacherous journey along the [Dover Road](/dickens/david-copperfield-dover-road/). Both [David Copperfield](/dickens/david-copperfield-curated-walk) and _Little Dorrit_ (1856) include unfavourable accounts of the journey c. 1820s:  
+_A Tale of Two Cities_ is not the only Dickens's novel to include the treacherous journey along the [Dover Road](/dickens/david-copperfield-dover-road/). Both [David Copperfield](/dickens/david-copperfield-curated-walk) and _Little Dorrit_ (1856) include unfavourable accounts of the journey c. 1820s:
+<br><br>
 "Next morning’s sun saw Mr Dorrit’s equipage upon the Dover road, where every red-jacketed postilion was the sign of a cruel house, established for the unmerciful plundering of travellers. The whole business of the human race, between London and Dover, being spoliation, Mr Dorrit was waylaid at Dartford, pillaged at Gravesend, rifled at Rochester, fleeced at Sittingbourne, and sacked at Canterbury. However, it being the Courier’s business to get him out of the hands of the banditti, the Courier brought him off at every stage; and so the red-jackets went gleaming merrily along the spring landscape, rising and falling to a regular measure, between Mr Dorrit in his snug corner and the next chalky rise in the dusty highway."
 
 Dickens was a frequent visitor to France, a country he loved dearly. In a letter to Emile de la Rue in 1847 he described the French to be "the first people in the universe"[^ref13]. However with the railway opening in Dover in 1844 and the boat train available from the more fashionable neighbouring town of [Folkestone](/19c/19c-folkestone) from 1848, it is more likely Dickens travelled by train than coach to the continent. It is on one of these journeys that he was involved in the [Staplehurst](/dickens/dickens-staplehurst/) rail crash, proving that rail journeys, although more comfortable could be as perilous as the earlier mail coach.
@@ -48,35 +51,35 @@ However, despite his love of the French, _A Tale of Two Cities_, was not very po
 
 Biography.com (2020) _Charles Dickens Biography_. Available at: https://www.biography.com/writer/charles-dickens (Accessed: 3 February 2021).   
 Birmingham, J. (1853) 'The Royal Ship Hotel Dover', _The South Eastern Gazette_, 4 October, p.8.   
-Cruden, R. P. _The History of the Town of Gravesend in the County of Kent and of the Port of London_ 1843.
+Cruden, R. P. _The History of the Town of Gravesend in the County of Kent and of the Port of London_ 1843.   
 Daily Advertiser (1775) 'News', 3 January, p.1   
 Dickens, C. (1875) _A Tale of Two Cities_. Facsimile. London: GE Fabbri Publishing Ltd., 2003.   
-Edmondson, J. (ed.) (2006) _Dickens on France: Fiction, Journalism and Travel Writing_. Oxford: Signal Books Limited.   
+Edmondson, J. (ed.) (2006) _Dickens on France: Fiction, Journalism and Travel Writing_. Oxford: Signal Books Limited. 
 MacCarthy, F. (2014) _Byron: Life and Legend_. London: John Murray Press.     
 Jones, C., McDonagh, J. and Mee, J. (ed.) (2009). _Charles Dickens, A Tale of Two Cities, and the French Revolution_. Basingstoke: Palgrave Macmillan.   
-Legendary Trips (2021) _ Tale of Two Cities by Charles Dickens: a map of all the places in France and England._ Available at: https://www.legendarytrips.com/trip/a-tale-of-two-cities-dickens-map-places/#shiphotel(demolished),dover,england (Accessed: 27 January 2021).
-M, M. (2012) 'A Tale of Two Cities - Charles Dickens', _Lit Nerd Around the World, 29 October_. Available at: http://litnerdaroundtheworld.blogspot.com/2012/10/a-tale-of-two-cities-charles-dickens.html (Accessed: 3 February 2021).
-Pigot, J. (1824) _Pigot’s Directory of Kent, 1824_. Available at: http://specialcollections.le.ac.uk/digital/collection/p16445coll4/id/167102 (Accessed: 28 January 2021).
+Legendary Trips (2021) _ Tale of Two Cities by Charles Dickens: a map of all the places in France and England._ Available at: https://www.legendarytrips.com/trip/a-tale-of-two-cities-dickens-map-places/#shiphotel(demolished),dover,england (Accessed: 27 January 2021).   
+M, M. (2012) 'A Tale of Two Cities - Charles Dickens', _Lit Nerd Around the World, 29 October_. Available at: http://litnerdaroundtheworld.blogspot.com/2012/10/a-tale-of-two-cities-charles-dickens.html (Accessed: 3 February 2021).   
+Pigot, J. (1824) _Pigot’s Directory of Kent, 1824_. Available at: http://specialcollections.le.ac.uk/digital/collection/p16445coll4/id/167102 (Accessed: 28 January 2021).   
 Storey, G. and Fielding, K.J. (1981) _The Letters of Charles Dickens_. vol.V. Oxford: Clarendon Press, 1981, p. 42.
 Tomalin, C. (2012) _Charles Dickens: A Life._ London: Penguin Books.   
 Whyman, John. _Kentish Sources: The Early Kentish Seaside_. 1985. Kent Archives Office, Gloucester. Alan Sutton Publishing Limited. p.33.   
 
 ### References
 
-[^ref1]:  (Daily Advertiser, 1775, p.1).   
-[^ref2]:  (Cruden, 1843, 258)
-[^ref3]:  (Whyman, 1985, p.33).    
-[^ref4]:  (Dickens, 1875, pp.5-6).  
-[^ref5]:  (Dickens, 1875, p.17).   
-[^ref6]:  (Dickens, 1875, p.17).  
-[^ref7]: (Dickens, 1875, ch. 3)
-[^ref8]:  (Dickens, 1875, ch. 3)   
-[^ref9]:  (Dickens, 1875, p.20).   
-[^ref10]:  (Legendary Trips, 2021).   
-[^ref11]: (MacCarthy, 2014, ch.17).   
-[^ref12]: (Birmingham, 1853).    
-[^ref13]: (Storey, G. and Fielding, K.J., 42).    
-[^ref14]: (Jones, McDonagh, and Mee, 2009).    
+[^ref1]: Daily Advertiser, 1775, p.1.   
+[^ref2]: Cruden, 1843, 258.
+[^ref3]: Whyman, 1985, p.33.    
+[^ref4]: Dickens, 1875, pp.5-6.  
+[^ref5]: Dickens, 1875, p.17.   
+[^ref6]: Dickens, 1875, p.17.  
+[^ref7]: Dickens, 1875, ch. 3.
+[^ref8]: Dickens, 1875, ch. 3.   
+[^ref9]: Dickens, 1875, p.20.   
+[^ref10]: Legendary Trips, 2021.   
+[^ref11]: MacCarthy, 2014, ch.17.   
+[^ref12]: Birmingham, 1853.    
+[^ref13]: Storey, G. and Fielding, K.J., 42.    
+[^ref14]: Jones, McDonagh, and Mee, 2009.    
 
 
 Find more open access articles associated with _A Tale of Two Cities_ through the JSTOR Understanding series [here](https://www.jstor.org/understand/work/tale-of-two-cities).
