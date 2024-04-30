@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="Robert Plot (1640 – 1696)" author="Dr Dominique Gracia and Hannah Jennison" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"> 
+<param ve-config title="Robert Plot (1640 – 1696)" author="Dr Dominique Gracia and Hannah" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"> 
 
 <param ve-entity eid="Q590063" aliases="Wye">
 <param ve-entity eid="Q2437595" aliases="Borden">

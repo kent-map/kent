@@ -8,8 +8,7 @@
 
 #
 
-_“Their first leaders are said to have been two brothers, Hengest and Horsa. Horsa was afterwards killed in battle by the Britons, and in the eastern part of Kent there is still a monument bearing his name. They were the sons of Wihtgisl, son of Witta, son of Wecta, son of Woden.”_   
-[^ref1]
+“Their first leaders are said to have been two brothers, Hengest and Horsa. Horsa was afterwards killed in battle by the Britons, and in the eastern part of Kent there is still a monument bearing his name. They were the sons of Wihtgisl, son of Witta, son of Wecta, son of Woden.”[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Hengest_and_Horsa_Verstegan.jpg" label="‘Hengist and Horsa arriving in Britain’, by Richard Rowlands (1605)." attribution="Richard Verstegan, Public domain, via Wikimedia Commons">
 <param ve-map centre="Q3425604" zoom="15">                                             
 
