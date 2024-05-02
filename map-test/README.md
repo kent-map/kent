@@ -1,4 +1,4 @@
-<param ve-config title="Map Test" banner="https://raw.githubusercontent.com/kent-map/images/main/Kent_Maps.jpg" layout="vtl">
+<param ve-config title="Map Test" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/Maths.JPG" layout="vtl">
 
 # My Essay
 
