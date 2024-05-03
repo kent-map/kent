@@ -1,6 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-
-<param ve-config title="Hengest and Horsa" author="Francesca Allfrey and Beth Whalley" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg" attribution="Ron Strutt / Replica Viking ship Hugin">
+<param ve-config title="Hengest and Horsa" author="Francesca Allfrey and Beth Whalley" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg" attribution="Ron Strutt Replica Viking ship Hugin">
 
 <param ve-entity eid="Q793057" aliases="Aylesford">
 <param ve-entity eid="Q4222497" aliases="Kits Coty House">
@@ -9,8 +8,7 @@
 
 #
 
-_“Their first leaders are said to have been two brothers, Hengest and Horsa. Horsa was afterwards killed in battle by the Britons, and in the eastern part of Kent there is still a monument bearing his name. They were the sons of Wihtgisl, son of Witta, son of Wecta, son of Woden.”_   
-[^ref1]
+“Their first leaders are said to have been two brothers, Hengest and Horsa. Horsa was afterwards killed in battle by the Britons, and in the eastern part of Kent there is still a monument bearing his name. They were the sons of Wihtgisl, son of Witta, son of Wecta, son of Woden.”[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Hengest_and_Horsa_Verstegan.jpg" label="‘Hengist and Horsa arriving in Britain’, by Richard Rowlands (1605)." attribution="Richard Verstegan, Public domain, via Wikimedia Commons">
 <param ve-map centre="Q3425604" zoom="15">                                             
 
@@ -19,7 +17,7 @@ These lines from Bede’s _Ecclesiastical History of the English People_ (AD 731
 <param ve-map centre="Q3425604" zoom="15">  
 
 The mid-sixth-century work of Gildas covers the same events as Bede, but makes no mention of Hengest or Horsa [^ref2]. But Bede’s account was influential: the 9th century pseudo-Nennius, the ‘Anglo-Saxon Chronicle’ (C9th-12th) [^ref3], and Geoffrey of Monmouth’s 12th-century _Historia regum Britannia_ [^ref4], among other texts, all repeated and remixed the story. The _Chronicle_ adds the detail that Horsa was slain at _Ægels-threp_ [Aylesford] in battle against Vortigern, but that Hengest became king of Kent.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/en/7/71/Hengist_King_of_Kent.jpg" label="Hengist, King of Kent" attribution="Drawn by 'John Speed' in 1611 in his book Saxon Heptarchy, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Hengist_-_John_Speed.JPG" label="Hengist, King of Kent" attribution="Drawn by John Speed in 1611 in his book Saxon Heptarchy, via Wikimedia Commons">
 
 In Geoffrey’s inventive account, the story becomes a high-stakes drama of passion, betrayal and the supernatural; Vortigern marries Hengest’s daughter Renwein and, for his love, defects to the Saxon side when the British-Saxon alliance deteriorates. Vortigern’s son Vortimer becomes the new king of the British but is poisoned by Renwein, thus restoring Vortigern to the throne. Hengest, intent on the consolidation of his power, orders a massacre of Vortigern’s men during a peace conference in Amesbury. Both Vortigern and Hengest are ultimately killed by the Briton Aurelius Ambrosius; Vortigern is burnt alive for his betrayal of the Britons, while Hengest is executed following a defeat at the Battle of Maisbeli.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b1/Angelica_Kauffmann_%281741-1807%29_-_Vortigern%2C_King_of_Britain%2C_Enamoured_with_Rowena_at_the_Banquet_of_Hengist%2C_the_Saxon_General_-_872183_-_National_Trust.jpg" label="Vortigern, King of Britain, enamoured with Rowena at the Banquet of Hengist, the Saxon General" attribution="Angelica Kauffmann, Public domain, via Wikimedia Commons">
@@ -50,6 +48,5 @@ Whether or not Hengest and Horsa ever existed, the fact remains that they are pa
 [^ref4]: Geoffrey of Monmouth. _The History of the Kings of Britain_. Ed. Lewis Thorpe. London: Penguin, 1973. Print.   
 [^ref5]: Aurner, Nellie Slayton. _Hengest: A study in Early English hero legend_. Iowa: University of Iowa Humanistic Studies 2.1. Print.   
 [^ref6]: Doyle White, Ethan. ‘Old stones, new rites: contemporary pagan interactions with the medway megaliths’. _Material Religion_ 12:3 (2016): 346-372. Online DOI: 10.1080/17432200.2016.1192152.   
-[^ref7]: Rambaran-Olm, Mary. ‘Anglo-Saxon Studies [Early English Studies], Academia and White Supremacy’. _Medium_. 27 June 2018. Web. <https://mrambaranolm.medium.com/anglo-saxon-studies-academia-and-white-supremacy-17c87b360bf3>. Last access 1 June 2021.      
-And @AxelFolio (Mary Rambaran-Olm). ‘Thread on misappropriated medieva/ pagan imagery’. Twitter.  30 May 2021. Web. <https://twitter.com/ISASaxonists/status/1399037263150002177>. Last accessed 1 June 2021.   
+[^ref7]: Rambaran-Olm, Mary. ‘Anglo-Saxon Studies [Early English Studies], Academia and White Supremacy’. _Medium_. 27 June 2018. Web. <https://mrambaranolm.medium.com/anglo-saxon-studies-academia-and-white-supremacy-17c87b360bf3>. Last access 1 June 2021. And Mary Rambaran-Olm. ‘Thread on misappropriated medieva/ pagan imagery’. Twitter.  30 May 2021. Web. <https://twitter.com/ISASaxonists/status/1399037263150002177>. Last accessed 1 June 2021.   
 [^ref8]: Parul Jain. ‘Hengist and Horsa’. _Encyclopedia Britannica Online_. 10 February 2012. Web. <https://www.britannica.com/topic/Hengist>. Last access 1 June 2021.   

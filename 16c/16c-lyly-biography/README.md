@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="John Lyly c.1553 or 1554 – 1606" author="Hannah Jennison and Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg"> 
+<param ve-config title="John Lyly c.1553 or 1554 – 1606" author="Hannah and Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg"> 
 
 <param ve-entity eid="Q29303" aliases="Canterbury"> 
 <param ve-entity eid="Q725261" aliases="Ashford">

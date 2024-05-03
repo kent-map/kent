@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="William Harvey (1578 – 1657)" author="Dr Dominique Gracia and Arnav Sharma" layout="vtl" banner="https://stor.artstor.org/stor/fafede9a-16fc-4f57-8c41-61a929e62593">
+<param ve-config title="William Harvey (1578 – 1657)" author="Dr Dominique Gracia and Arnav" layout="vtl" banner="https://stor.artstor.org/stor/fafede9a-16fc-4f57-8c41-61a929e62593">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q375314" aliases="Folkestone">

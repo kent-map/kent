@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="John Wallis (1616-1703)" author="Various" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"> 
+<param ve-config title="John Wallis (1616-1703)" author="Duke of Edinburgh Scheme Participants" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"> 
 
 <param ve-entity eid="Q725261" aliases="Ashford">
 <param ve-entity eid="Q632173" aliases="Godmersham">
@@ -57,7 +57,7 @@ After the Glorious revolution of 1688, Wallis worked for William III, decipherin
 
 Today, the John Wallis Academy in Ashford is named after him in recognition of his importance to the field of mathematics. Other mathematicians associated with Kent include John Edensor Littlewood, who researched Diophantine analysis and the Riemann zeta function and Ada Lovelace who spent her summers in Kent. 
 <br><br>
-Research for this article was undertaken by Barnaby Russell and Charlie Badsey-Ellis as part of the Duke of Edinburgh scheme and written up by Michelle Crowther. This article was published: 16 December 2021.
+Research for this article was undertaken by Barnaby and Charlie as part of the Duke of Edinburgh scheme and written up by Michelle Crowther. This article was published: 16 December 2021.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Christchurch_School%2C_Ashford_-_geograph.org.uk_-_1726560.jpg" label="Christchurch School (Now the John Wallis Academy), Ashford Kent" attribution="David Anstiss / Christchurch School, Ashford" license="CC BY-SA 2.0">
 
 ### Bibliography

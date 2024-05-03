@@ -77,7 +77,7 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/theatre_John_Lyly.jpg)
 
-‘My heart throbbes, my eares tingle, my minde misgiues mee, since I heare such muttering of marry-ages in Rochester’ - Vicinia in Mother Bombie. Read Hannah Jennison's research on John Lyly, dramatist, courtier and parliamentarian.
+‘My heart throbbes, my eares tingle, my minde misgiues mee, since I heare such muttering of marry-ages in Rochester’ - Vicinia in Mother Bombie. Read Hannah's research on John Lyly, dramatist, courtier and parliamentarian.
 
 ## Robert Plot
 
@@ -93,7 +93,7 @@ Hannah researched the life of naturalist and chemist, Robert Plot who was born a
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
-Hannah Jennison writes a news report on the Canterbury riots which occurred on Christmas Day, 1647.
+Hannah writes a news report on the Canterbury riots which occurred on Christmas Day, 1647.
 
 ## John Tradescant the Younger
 
