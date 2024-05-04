@@ -1,4 +1,4 @@
-`mdp-header title="The Built Environment" background=gh:kent-map/kent/images/churches/churches .sticky`
+`ve-header title="The Built Environment" background=gh:kent-map/kent/images/churches/churches .sticky`
 
 Kent's public institutions, memorials, monuments and historic buildings.
 

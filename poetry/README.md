@@ -1,4 +1,4 @@
-`mdp-header title="Poets and Poetry" background=gh:kent-map/images/banners/19c.jpg .sticky`
+`ve-header title="Poets and Poetry" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
 The Kent coast and countryside has provided inspiration for poets throughout the centuries.
 

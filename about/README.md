@@ -3,7 +3,7 @@
   .card-abstract { -webkit-line-clamp: 10; }
 </style>
 
-`mdp-header title="Kent Maps Project" background=gh:kent-map/images/misc/Bleak_house_postcard.jpg .sticky`
+`ve-header title="Kent Maps Project" background=gh:kent-map/images/misc/Bleak_house_postcard.jpg .sticky`
 
 # About the site
 

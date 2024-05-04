@@ -1,4 +1,4 @@
-`mdp-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
+`ve-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
 Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops.
 

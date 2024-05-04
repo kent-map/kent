@@ -1,4 +1,4 @@
-`mdp-header title="Crime Fiction" background=gh:kent-map/images/artists/artists .sticky`
+`ve-header title="Crime Fiction" background=gh:kent-map/images/artists/artists .sticky`
 
 It turns out Kent may be a more dangerous place than you realised (at least in the imaginations of writers).
 

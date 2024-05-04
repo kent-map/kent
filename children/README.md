@@ -1,4 +1,4 @@
-`mdp-header title="Children's Authors and Stories" background=gh:kent-map/images/artists/artists .sticky`
+`ve-header title="Children's Authors and Stories" background=gh:kent-map/images/artists/artists .sticky`
 
 Children's authors
 

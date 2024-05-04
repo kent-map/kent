@@ -1,4 +1,4 @@
-`mdp-header title="Seascapes" background=gh:kent-map/images/seascapes/botanybay .sticky`
+`ve-header title="Seascapes" background=gh:kent-map/images/seascapes/botanybay .sticky`
 
 The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
 

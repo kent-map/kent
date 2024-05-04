@@ -1,4 +1,4 @@
-`mdp-header title="Canterbury" background=gh:kent-map/images/banners/20c.jpg .sticky`
+`ve-header title="Canterbury" background=gh:kent-map/images/banners/20c.jpg .sticky`
 
 This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
 
