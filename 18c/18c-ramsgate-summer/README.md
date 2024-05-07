@@ -25,7 +25,7 @@ Above all the other popular coastal resorts – Scarborough, Weymouth, Brighton,
 As his name implies, of course, Simkin – like his namesake in Anstey’s _New Bath Guide_ – is to some degree a naïve persona, whose simple-minded enthusiasm sometimes tips into bathos and hyperbole. Before bidding a final farewell to ‘ye sweet regions of washing’, he extols the pier as ‘that fabric stupendous! that monument dear!’ (it is worth noting that the ‘new harbour’ had also been termed a ‘stupendous work’ in guidebooks such as Hall’s _New Margate and Ramsgate Guide_). Yet the spirited sociability of Simkin and his fellow seaside-goers cannot be entirely gainsaid, and overall, the poem’s anonymous author offers a flattering, if sometimes ironic portrayal of the pleasures to be had from ‘Summerising at Ramsgate’.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Ramsgate_pier_from_the_bathing_sands_1809.jpg" label="Ramsgate Pier from the Bathing Sands, 1809" attribution="g walker; engraver J sadler, Public domain, via Wikimedia Commons">
  
-### References
-[^ref1]: Hall’s New Margate and Ramsgate Guide (Margate, 1790)
-[^ref2]: Regan, Shaun, ‘Bathing in Verse: Christopher Anstey’s The New Bath Guide and Georgian Resort Satire’, in _Spa Culture and Literature in England, 1500-1800_,  ed. Sophie Chiari and Samuel Cuisinier-Delorme (Cham: Palgrave Macmillan, 2021), pp. 135-157.
-[^ref3]: The Sea-Side, a Poem, in Familiar Epistles from Mr. Simkin Slenderwit, Summerising at Ramsgate, to his Dear Mother in Town, 2nd edn (London, 1798)
+### Bibliography
+_Hall’s New Margate and Ramsgate Guide_ (Margate, 1790)   
+Regan, Shaun, ‘Bathing in Verse: Christopher Anstey’s The New Bath Guide and Georgian Resort Satire’, in _Spa Culture and Literature in England, 1500-1800_,  ed. Sophie Chiari and Samuel Cuisinier-Delorme (Cham: Palgrave Macmillan, 2021), pp. 135-157.   
+_The Sea-Side, a Poem, in Familiar Epistles from Mr. Simkin Slenderwit, Summerising at Ramsgate, to his Dear Mother in Town_, 2nd edn (London, 1798)   
