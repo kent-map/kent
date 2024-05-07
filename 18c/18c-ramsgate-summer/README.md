@@ -26,6 +26,7 @@ As his name implies, of course, Simkin – like his namesake in Anstey’s _New 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Ramsgate_pier_from_the_bathing_sands_1809.jpg" label="Ramsgate Pier from the Bathing Sands, 1809" attribution="g walker; engraver J sadler, Public domain, via Wikimedia Commons">
  
 ### Bibliography
+
 _Hall’s New Margate and Ramsgate Guide_ (Margate, 1790)   
 Regan, Shaun, ‘Bathing in Verse: Christopher Anstey’s The New Bath Guide and Georgian Resort Satire’, in _Spa Culture and Literature in England, 1500-1800_,  ed. Sophie Chiari and Samuel Cuisinier-Delorme (Cham: Palgrave Macmillan, 2021), pp. 135-157.   
 _The Sea-Side, a Poem, in Familiar Epistles from Mr. Simkin Slenderwit, Summerising at Ramsgate, to his Dear Mother in Town_, 2nd edn (London, 1798)   
