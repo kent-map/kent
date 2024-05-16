@@ -19,12 +19,13 @@ Yet even the most barbed portrayals could incorporate nuance and mitigation. Gue
 Nevertheless, as Guest contends, writings about Margate during this period undoubtedly displayed the ‘stance of horrified fascination which seaside jollities seemed to exert on so many metropolitan and educated spectators’. In particular, pointed reflections on the hoy, such as those discussed above, reveal many commentators’ difficulties in coming to terms with the increasing number, and diversifying social complexion, of the visiting tourists. As the historian James Walvin observes, ‘cheap transport, by ship’ was what ‘helped to democratize Margate as a resort’. While this process would become more pronounced from 1815, when steam packets began delivering even larger numbers of passengers from London, depictions of the Margate hoy during the second half of the eighteenth century were already registering the opening up of coastal leisure to this wider social demographic.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Joseph_Clarendon_Smith_-_Margate_Hoy_-_B1975.4.1742_-_Yale_Center_for_British_Art.jpg" label="Margate Hoy, 1807" attribution="Joseph Clarendon Smith, Yale Center for British Art, CC0, via Wikimedia Commons">
 
-### References
-[^ref1]: A Description of the Isle of Thanet, and Particularly of the Town of Margate (London, 1763)
-[^ref2]:George Saville Carey, _The Balnea: Or, An Impartial Description of all the Popular Watering Places in England_ (London, 1799) 
-[^ref3]:Hardwicke Lewis, _An Excursion to Margate, in the Month of June, 1786: Interspersed with a Variety of Anecdotes of well-known Characters_ (London, 1787)
-[^ref4]:Harriet Guest, ‘Sociability by the Sea Side: Margate before 1815’, in _Sociable Places: Locating Culture in Romantic-Period Britain_, ed. Kevin Gilmartin (Cambridge: Cambridge University Press, 2017), pp. 205-223
-[^ref5]:James Walvin, _Beside the Seaside: A Social History of the Popular Seaside Holiday_ (London: Allen Lane, 1978)
-[^ref6]:[John Feltham], _A Guide to all the Watering and Sea-Bathing Places, With a Description of the Lakes, A Sketch of a Tour in Wales, and Various Itineraries, Illustrated with Maps and Views_, new edition (London, 1815)
-[^ref7]:The Letters and Prose Writings of William Cowper, ed. James King and Charles Ryskamp, volume 1 (Oxford: Clarendon Press, 1979) 
-[^ref8]:The New Margate and Ramsgate Guide in Letters to a Friend describing the Accommodations & Amusements of those delightful Watering Places in Prose & Verse (London, [1780?])
+### Bibliography
+
+_A Description of the Isle of Thanet, and Particularly of the Town of Margate_ (London, 1763)   
+George Saville Carey, _The Balnea: Or, An Impartial Description of all the Popular Watering Places in England_ (London, 1799)    
+Hardwicke Lewis, _An Excursion to Margate, in the Month of June, 1786: Interspersed with a Variety of Anecdotes of well-known Characters_ (London, 1787)   
+Harriet Guest, ‘Sociability by the Sea Side: Margate before 1815’, in _Sociable Places: Locating Culture in Romantic-Period Britain_, ed. Kevin Gilmartin (Cambridge: Cambridge University Press, 2017), pp. 205-223   
+James Walvin, _Beside the Seaside: A Social History of the Popular Seaside Holiday_ (London: Allen Lane, 1978)   
+John Feltham, _A Guide to all the Watering and Sea-Bathing Places, With a Description of the Lakes, A Sketch of a Tour in Wales, and Various Itineraries, Illustrated with Maps and Views_, new edition (London, 1815)   
+_The Letters and Prose Writings of William Cowper_, ed. James King and Charles Ryskamp, volume 1 (Oxford: Clarendon Press, 1979)    
+_The New Margate and Ramsgate Guide in Letters to a Friend describing the Accommodations & Amusements of those delightful Watering Places in Prose & Verse_ (London, [1780?])
