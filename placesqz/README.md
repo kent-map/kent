@@ -1,9 +1,9 @@
-`mdp-header title="Places Q-Z" background=gh:kent-map/kent/images/banners/19c.jpg .sticky`
+`ve-header title="Places Q-Z" background=gh:kent-map/kent/images/banners/19c.jpg .sticky`
 
 Seaside resorts such as Ramsgate and Sandgate.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Ramsgate in the 19th century
 

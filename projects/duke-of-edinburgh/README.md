@@ -1,11 +1,11 @@
-`mdp-header title="Duke of Edinburgh Award Scheme" background=gh:kent-map/images/banners/Dumpton.JPG .sticky`
+`ve-header title="Duke of Edinburgh Award Scheme" background=gh:kent-map/images/banners/Dumpton.JPG .sticky`
 
 During the Covid pandemic, Kent Maps Online offered remote volunteering and skills training for Duke of Edinburgh participants who may not have been able to complete their awards without access to online opportunities. This space showcases the work completed by our Duke of Edinburgh participants at all levels. 
 <br><br>
 Supported by student ambassadors from Canterbury Christ Church University, participants explored the extraordinary history of Kent and the people who have lived here, using words, images and innovative coding to bring their stories to life. You can read more about the project in these blog posts written by participants: [Student Experience](https://blogs.canterbury.ac.uk/fahe/student-experience-duke-of-edinburgh-scheme/) and [My Experience using Juncture for Kent Maps Online](https://labs.jstor.org/blog/carina-chan-on-juncture-and-kent-maps/).
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Spanish Armada
 

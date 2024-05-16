@@ -1,9 +1,9 @@
-`mdp-header title="Musical Peregrinations" background=gh:kent-map/kent/images/banners/nowwearemet.jpg .sticky`
+`ve-header title="Musical Peregrinations" background=gh:kent-map/kent/images/banners/nowwearemet.jpg .sticky`
     
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## The Catch
 

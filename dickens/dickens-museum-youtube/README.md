@@ -1,4 +1,4 @@
-`mdp-header title="Dickens Museum" background=wc:Charles_Dickens_Museum_and_bicycle,_Doughty_Street_-_geograph.org.uk_-_3569238.jpg .sticky`
+`ve-header title="Dickens Museum" background=wc:Charles_Dickens_Museum_and_bicycle,_Doughty_Street_-_geograph.org.uk_-_3569238.jpg .sticky`
 
 # Dickens Museum
 

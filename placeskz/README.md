@@ -1,9 +1,9 @@
-`mdp-header title="Places K-Z" background=gh:kent-map/images/banners/19c.jpg .sticky`
+`ve-header title="Places K-Z" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
 Some of Kent's beautiful seaside resorts.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Margate in the 19th century
 

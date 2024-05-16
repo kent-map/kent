@@ -1,9 +1,9 @@
-`mdp-header title="Edith Nesbit's Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
+`ve-header title="Edith Nesbit's Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
 Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent.
 
 # &nbsp;
-<param class="cards">
+`.cards`
 
 ## Edith Nesbit
 

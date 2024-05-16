@@ -1,9 +1,9 @@
-`mdp-header title="Artists and Designers" background=gh:kent-map/images/artists/artists .sticky`
+`ve-header title="Artists and Designers" background=gh:kent-map/images/artists/artists .sticky`
 
 Architects, designers, painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## William Burges
 
