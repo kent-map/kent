@@ -1,8 +1,8 @@
-`mdp-header title="Inspirational Kent Women Writers" background=gh:kent-map/images/banners/18c.jpg .sticky`
+`ve-header title="Inspirational Kent Women Writers" background=gh:kent-map/images/banners/18c.jpg .sticky`
 
 As part of the Centre for Kent History and Heritage's celebration of inspirational Kent women writers, we are highlighting these articles to focus attention on some of Kent's well-loved but also lesser known women writers. These women are either inspirational Kent women or women who have taken inspiration from Kent.
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## May Aldington
 

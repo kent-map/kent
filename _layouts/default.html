@@ -4,7 +4,7 @@
 {%- seo -%}
 <link href="{{ site.baseurl }}/favicon.ico" rel="icon" />
 <link rel="apple-touch-icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Website_logo_1.png/240px-Website_logo_1.png">
-<link href="https://kent-map.github.io/juncture/index.css" rel="stylesheet">
+<link href="https://v3.juncture-digital.org/index.css" rel="stylesheet">
 
 <script>
   window.jekyll = {
@@ -22,6 +22,7 @@
   title: Kent Maps Online
   description: A set of themed essays about Kent, a county in South East England, which include interactive maps and images. Kent has a rich history and provided inspiration for a number of writers and artists.
   defaults:
+    iiifServer: iiif.mdpress.io
     header:
       backgroundImage: gh:kent-map/images/Kent_Maps.jpg
       contact: kent.maps@canterbury.ac.uk
@@ -43,6 +44,9 @@
 <main class="page-content" aria-label="Content" style="display:none;">
   {{ content }}
 </main>
-<script src="https://kent-map.github.io/juncture/v2/dist/js/index.js" type="module"></script>
-<script src="https://kent-map.github.io/juncture/v3/dist/js/index.js" type="module"></script>
-<script src="https://kent-map.github.io/juncture/index.js" type="module"></script>
+
+<script type="module">
+  import 'https://v3.juncture-digital.org/wc/dist/js/index.js'
+  import { mount } from 'https://v3.juncture-digital.org/index.js'
+  mount()
+</script>

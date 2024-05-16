@@ -1,9 +1,9 @@
-`mdp-header title="War in Kent" background=gh:kent-map/images/wartime/road2 .sticky`
+`ve-header title="War in Kent" background=gh:kent-map/images/wartime/road2 .sticky`
 
 On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Spanish Armada
 

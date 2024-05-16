@@ -1,9 +1,9 @@
-`mdp-header title="21st Century Kent" background=gh:kent-map/images/21c/canterburyhighst .sticky`
+`ve-header title="21st Century Kent" background=gh:kent-map/images/21c/canterburyhighst .sticky`
 
 Regeneration and the rise of the DFL.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Impressions from a Bolthole Window
 

@@ -1,11 +1,11 @@
-`mdp-meta title="Kent Maps Online" description="This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists."`
+`ve-meta title="Kent Maps Online" description="This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists."`
 
-`mdp-header title="Kent Maps Online" background=gh:kent-map/images/Kent_Maps.jpg contact=ron.snyder@ithaka.org search-domain=kent-maps.online search-cx=568011e472c1ffe27 search-key=565e6d76446e5654542e205672444f6d247e4070444756707e5c7226415b67735176617e425a70 .sticky`
+`ve-header title="Kent Maps Online" background=gh:kent-map/images/Kent_Maps.jpg contact=ron.snyder@ithaka.org search-domain=kent-maps.online search-cx=568011e472c1ffe27 search-key=565e6d76446e5654542e205672444f6d247e4070444756707e5c7226415b67735176617e425a70 .sticky`
 
 Kent Maps Online is an interactive Digital Humanities project exploring the county's rich heritage, using multi-disciplinary lenses to research and present historic, literary and geographical records. Travel through the site and find answers to questions you haven’t even thought of yet.
 
 # Featured essays 
-<param class="cards">
+`.cards`
 
 ## Mobile Landscapes - Finding Kent Dickensian
 
@@ -34,7 +34,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends.
 
 # Featured Projects
-<param class="cards">
+`.cards`
 
 ## Inspirational Kent Women Writers
 
@@ -53,7 +53,7 @@ To accompany the Inspirational Kent Women Writers event held by the Centre for K
 To celebrate Dover at Night, Kent Maps Online have written an article about Dover as depicted in literature, where smuggling, assignations and abductions occur along its moonlit shore.
 
 # Essays by period 
-<param class="cards">
+`.cards`
 
 ## Medieval
 
@@ -117,7 +117,7 @@ Regeneration and the rise of the DFL, street murals, poetry, books and Covid.
 
 
 # Essays by place 
-<param class="cards">
+`.cards`
 
 ## Places A-D
 
@@ -145,7 +145,7 @@ Towns of grandeur. Articles on Folkestone and Gravesend.
 Seaside resorts such as Ramsgate and Sandgate.
 
 # Essays by theme 
-<param class="cards">
+`.cards`
 
 ## Actors and Theatres
 
@@ -264,7 +264,7 @@ Famed for its cherries, hops and fruit, organic farming, and the modern day gree
 On the frontline of England's defence, Kent has played a pivitol role when faced with invasion, from the Spanish Armada up until the First and Second World Wars. 
 
 # Featured Authors 
-<param class="cards">
+`.cards`
 
 ## Jane Austen
 
@@ -318,7 +318,7 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 
 # Featured Texts
-<param class="cards">
+`.cards`
 
 ## Double Double
 
@@ -346,7 +346,7 @@ Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Hor
 Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
 
 ```
-mdp-footer
+ve-footer
     - A collaboration between: 
     - [![CCCU](https://raw.githubusercontent.com/kent-map/images/main/dickens/CCCU-logo-2colour.svg)](https://www.canterbury.ac.uk/)
     - and

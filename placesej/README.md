@@ -1,9 +1,9 @@
-`mdp-header title="Places E-J" background=gh:kent-map/images/banners/19c.jpg .sticky`
+`ve-header title="Places E-J" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
 Towns of grandeur. Articles on Folkestone and Gravesend
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Folkestone in the 19th century
 
