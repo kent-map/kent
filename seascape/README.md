@@ -3,7 +3,7 @@
 The Kentish coast, the Straits of Dover and the Goodwin Sands have inspired authors and artists throughout the centuries.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Seaside Resorts
 

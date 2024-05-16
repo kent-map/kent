@@ -3,7 +3,7 @@
 Kent's public institutions, memorials, monuments and historic buildings.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## The Battle of Britain Memorial
 

@@ -3,7 +3,7 @@
 Towns of grandeur. Articles on Folkestone and Gravesend
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Folkestone in the 19th century
 

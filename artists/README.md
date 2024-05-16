@@ -3,7 +3,7 @@
 Architects, designers, painters, illustrators, cartoonists and muralists have been inspired by Kent's rich landscape.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## William Burges
 

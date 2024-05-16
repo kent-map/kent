@@ -3,7 +3,7 @@
 Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Overview
 

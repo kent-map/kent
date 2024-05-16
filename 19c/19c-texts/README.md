@@ -3,7 +3,7 @@
 Here are some of the texts published in the 19th century which feature Kent as a setting. Some of these links go directly to an e-version of the text and others to a Kent Maps article which will tell you more about the Kentish places featured in the stories.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 Alphabetical by book title
 

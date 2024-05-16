@@ -16,7 +16,7 @@ The project team hosts an annual [Kent Digital Maps Symposium](https://www.cante
 This site is the product of a collaboration between [JSTOR Labs](https://labs.jstor.org) and a team led by Carolyn Oulton, Professor of Victorian Literature in the School of Humanities and Educational Studies, and Michelle Crowther, Research Librarian, Canterbury Christ Church University.
 
 # &nbsp;
-<param class="cards">
+`.cards`
 
 ## Carolyn Oulton
 
@@ -59,7 +59,7 @@ Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage
 Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eliza Haweis Fanclub. When she’s not busy reading advice on how to be a proper Victorian lady, you will likely find her in a quaint old pub with a Kentish cider and a battered old copy of Jane Eyre
 
 # Authors
-<param class="cards">
+`.cards`
 
 ## Fran Allfrey
 
@@ -552,7 +552,7 @@ Dr Simon Wilson is a Senior Lecturer in the Faculty of Arts, Humanities and Educ
 Charlotte Worthington is currently a third-year history and French undergraduate, with the intention to go into translation. She was born in the UK but lived in the Lot in the south of France from the age of 11. A keen interest in literature has led her to do her work experience for one of the third-year French modules with the Kent Digital Map project.
 
 # Design Team
-<param class="cards">
+`.cards`
 
 ## Claire Boardman
 

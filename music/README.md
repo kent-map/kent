@@ -3,7 +3,7 @@
 Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century Kent, but mind the roads.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## The Catch
 

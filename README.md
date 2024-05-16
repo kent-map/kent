@@ -5,7 +5,7 @@
 Kent Maps Online is an interactive Digital Humanities project exploring the county's rich heritage, using multi-disciplinary lenses to research and present historic, literary and geographical records. Travel through the site and find answers to questions you haven’t even thought of yet.
 
 # Featured essays 
-<param class="cards">
+`.cards`
 
 ## Mobile Landscapes - Finding Kent Dickensian
 
@@ -34,7 +34,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends.
 
 # Featured Projects
-<param class="cards">
+`.cards`
 
 ## Inspirational Kent Women Writers
 
@@ -53,7 +53,7 @@ To accompany the Inspirational Kent Women Writers event held by the Centre for K
 To celebrate Dover at Night, Kent Maps Online have written an article about Dover as depicted in literature, where smuggling, assignations and abductions occur along its moonlit shore.
 
 # Essays by period 
-<param class="cards">
+`.cards`
 
 ## Medieval
 
@@ -117,7 +117,7 @@ Regeneration and the rise of the DFL, street murals, poetry, books and Covid.
 
 
 # Essays by place 
-<param class="cards">
+`.cards`
 
 ## Places A-D
 
@@ -145,7 +145,7 @@ Towns of grandeur. Articles on Folkestone and Gravesend.
 Seaside resorts such as Ramsgate and Sandgate.
 
 # Essays by theme 
-<param class="cards">
+`.cards`
 
 ## Actors and Theatres
 
@@ -264,7 +264,7 @@ Famed for its cherries, hops and fruit, organic farming, and the modern day gree
 On the frontline of England's defence, Kent has played a pivitol role when faced with invasion, from the Spanish Armada up until the First and Second World Wars. 
 
 # Featured Authors 
-<param class="cards">
+`.cards`
 
 ## Jane Austen
 
@@ -318,7 +318,7 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 
 # Featured Texts
-<param class="cards">
+`.cards`
 
 ## Double Double
 

@@ -5,7 +5,7 @@ During the Covid pandemic, Kent Maps Online offered remote volunteering and skil
 Supported by student ambassadors from Canterbury Christ Church University, participants explored the extraordinary history of Kent and the people who have lived here, using words, images and innovative coding to bring their stories to life. You can read more about the project in these blog posts written by participants: [Student Experience](https://blogs.canterbury.ac.uk/fahe/student-experience-duke-of-edinburgh-scheme/) and [My Experience using Juncture for Kent Maps Online](https://labs.jstor.org/blog/carina-chan-on-juncture-and-kent-maps/).
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Spanish Armada
 

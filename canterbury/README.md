@@ -3,7 +3,7 @@
 This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Overview
 

@@ -3,7 +3,7 @@
 Seaside resorts such as Ramsgate and Sandgate.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Ramsgate in the 19th century
 

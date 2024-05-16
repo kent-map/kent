@@ -3,7 +3,7 @@
 Kent is a county of many faiths. Only a small part of this is represented here, but as we develop the site we hope to tell more of these stories.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Rev. Hugh Price Hughes
 

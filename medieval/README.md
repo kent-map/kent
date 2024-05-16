@@ -3,7 +3,7 @@
 The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum), The murder of Becket, the Black Death, Wat Tyler's rebellion, Canterbury pilgrims and Canterbury tales.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Geoffrey Chaucer
 

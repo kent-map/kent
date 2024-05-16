@@ -3,7 +3,7 @@
 Some of Kent's beautiful seaside resorts.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Margate in the 19th century
 

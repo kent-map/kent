@@ -3,7 +3,7 @@
 It turns out Kent may be a more dangerous place than you realised (at least in the imaginations of writers).
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Crime Fiction
 
