@@ -131,9 +131,8 @@ Hasted, Edward. 'Parishes: Northborne', in _The History and Topographical Survey
 
 ### References
 
-[^ref1]: https://vufind.org/advanced_demo/Record/1028040
-[^ref2]: An extensive Boys pedigree is found at https://www.kent-opc.org/families/BOYSMediaeval30.pdf
-John Boys first appears on page 40, and his descendants start at page 60. Other Betteshanger Boys, many of whom have memorials in the Church of St Mary the Virgin, Betteshanger, are found on page 25. See also https://www.kentarchaeology.org.uk/Research/Pub/ArchCant/Vol.079%20-%201964/079-04.pdf
+[^ref1]: https://vufind.org/advanced_demo/Record/1028040   
+[^ref2]: An extensive Boys pedigree can be found [here](https://www.kent-opc.org/families/BOYSMediaeval30.pdf). John Boys first appears on page 40, and his descendants start at page 60. Other Betteshanger Boys, many of whom have memorials in the Church of St Mary the Virgin, Betteshanger, are found on page 25. See also [Kent Archaeology](https://www.kentarchaeology.org.uk/Research/Pub/ArchCant/Vol.079%20-%201964/079-04.pdf).  
 [^ref3]: https://www.british-history.ac.uk/survey-kent/vol10/pp44-49 
 [^ref4]: http://www.dover-kent.com/VILLAGES/24-Betteshanger.html 
 [^ref5]: https://www.agriculturalmuseumbrook.org.uk/explore/collections/plough
