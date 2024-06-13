@@ -9,7 +9,7 @@
 <param ve-image url="https://stor.artstor.org/stor/811dfc80-b02e-4166-a487-02892f44e4c5" label="Ramsgate and Margate, 1882" attribution="© Kent Archive and Local History Service">
 
 
-[The Granville Hotel](http://glorious-and-unknown.co.uk/ramsgate-the-granville-hotel/), opened in 1869,  catered to a wealthy clientele (guests included Florence Nightingale) and features in the _Zig Zag Guide_ by Punch editor and Ramsgate resident [F. C. Burnand](/19c/19c-burnand-biography) in the 1890s. 
+The Granville Hotel opened in 1869,  catered to a wealthy clientele (guests included Florence Nightingale) and features in the _Zig Zag Guide_ by Punch editor and Ramsgate resident [F. C. Burnand](/19c/19c-burnand-biography) in the 1890s. 
 <param ve-image url="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" label="Granville Hotel" attribution="By kind permission of Carolyn Oulton">
 
 But this picture of affluence and respectability is compromised by [Dickens](/dickens) himself as early as the 1840s. Writing to a friend from nearby Broadstairs he gleefully describes ‘Wild beasts too, at Ramsgate, and a young lady in armour, as goes into the dens while a rustic keeper who speaks through his nose, exclaims, “Beold the abazid power of woobbud!”’[^ref3]  Another humourist, [Israel Zangwill](/19c/19c-zangwill-biography), observed wryly in 1896 that ‘When you see – as I saw last Bank Holiday on Ramsgate beach – Edwin and Angelina asleep in each other’s arms, the situation strikes you as too simple for analysis. It is like the loves of the elements, or the propensity of carbon to combine with oxygen.’
