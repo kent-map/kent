@@ -23,6 +23,7 @@ The fictional ‘Chillingbourne’ immediately evokes a stream-side settlement f
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6a/Chilham_-_geograph.org.uk_-_2210842.jpg" label="Chilham" attribution="Roger Smith" license="CC BY-SA 2.0">
 
 Charles Dickens famously conjured with toponyms, some tending to the humorous – for example the wonderfully named ‘Dingley Dell’ in Dickens’ _Pickwick Papers_. ‘Dingley Dell’ entered notaphilic history in the 1990s with the issue of the Bank of England’s £10 note that featured a portrait of Dickens with, as its background scene, ‘The cricket match Dingley Dell against All Muggleton’; Muggleton being Maidstone. The latter fictive toponym is celebrated in the naming of a J D Wetherspoon public house, the ‘Muggleton Inn’ in the county town’s High Street. Other places get relabelled, although not always in keeping with a Kentish vibe, as in the case of Rochester becoming a rather unimaginatively renamed ‘Cloisterham’ in the _Mystery of Edwin Drood_. See other essays on Dickens for further detailed treatment of other Kentish places.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Robert_William_Buss_-_The_Pickwick_Papers%2C_a_game_of_cricket.jpg" label="The Pickwick papers - a game of cricket" attribution="Illustration by Robert William Buss">
 
 Rudyard Kipling’s Puck of Pook’s Hill and its sequel, _Rewards and Fairies_, are concerned with sense of place and belonging. Real places are named (Pevensey, Peasmarsh, Chanctonbury Ring, and Rye), while others are invented. Pook’s Hill (pucu (OE) = goblin, sprite) is probably Perch Hill to the south of ‘Batemans’, Kipling’s house. Kipling transforms his Sussex home and surroundings of into a theatre in which the children in the story, Dan and Una (based on John and Elsie, his children), learn about England, its history and the importance of people and place through encounters with figures from the past magicked up by Puck (‘the oldest Old Thing in England’). Set within the High Weald, the geological backbone running through Sussex and Kent, the narratives range widely from the Saxon manor in their own valley to Africa.
 <br><br>
@@ -35,6 +36,7 @@ Only one narrative in Puck takes a detour to Kent, to a coastal town which Kipli
 Where did she come out of?’ I’ve forgot, Ralph.’
 <br><br>
 ‘Dymchurch under the Wall,’ Hobden answered.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Dymchurch_beach_-_geograph.org.uk_-_5878827.jpg" label="Dymchurch Beach" attribution="Michael Garlick" icense="CC BY-SA 2.0">
 
 Both Kaye-Smith's and Kipling’s works celebrate the landscapes (pays) of Marsh and Weald shared by of Kent and Sussex.[^ref2] These are landscapes produced by centuries of human toil and land use reflected in their place-names, especially across the Weald where settlements ending in ‘hurst’ (OE hyrst = wooded hill) and ‘den’ (OE den = wood pasture) provide a running rhyme of toponyms across the map, and ancient woodlands reveal their links to the iron industry that goes back to Roman times; Forge Wood, Furnace Wood, Hammer Wood.
 
