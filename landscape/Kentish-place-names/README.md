@@ -46,3 +46,7 @@ Mills. A. D. (1998) The Oxford Dictionary of English Place-Names [OUP: Oxford]
 i Walker Reed, Allen (1979) "The Evocative Power of Place Names in the Poetry of Carl Sandburg," Literary Onomastics Studies: Vol. 6, Article 3. Available at: http://digitalcommons.brockport.edu/los/vol6/iss1/3 ii https://www.kent-maps.online/landscape/kentish-landscapes/   
 Mills. A. D. (1998) The Oxford Dictionary of English Place-Names [OUP: Oxford]   
 
+### References
+
+[^ref1]: Walker Reed, Allen (1979) "The Evocative Power of Place Names in the Poetry of Carl Sandburg," Literary Onomastics Studies: Vol. 6, Article 3. Available at: http://digitalcommons.brockport.edu/los/vol6/iss1/3
+[^ref2]: https://www.kent-maps.online/landscape/kentish-landscapes/
