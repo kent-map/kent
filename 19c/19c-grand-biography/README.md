@@ -18,7 +18,7 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and propon
 <param ve-map center="Q894097" zoom="12">
 
 Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation, she was denied an education comparable to her brothers’, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1871 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in Sandgate: there was a lock hospital in nearby Shorncliffe, where the [Contagious Diseases Act](/19c/19c-contagious-diseases) had come into force in 1868.
-<param ve-image url="https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg" label="Sarah Grand's passport" attribution="Sarah Grand's passport © International Centre for Victorian Women Writers">
+<param ve-image url="https://stor.artstor.org/stor/6bde1aaa-7ebe-434c-85b7-361850ddca29" label="Sarah Grand's passport" attribution="Sarah Grand's passport © International Centre for Victorian Women Writers">
 <!--Basemap centred on Sandgate-->
 <param ve-map center="Q1000312" zoom="13">
 
