@@ -29,7 +29,6 @@ By 1888 the marriage had broken down, the catalyst for Grand's move to London an
 
 But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her Boots ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside](/19c/19c-seaside) resorts), where she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. For at least a decade she was living at 10 Grove Hill, one of a crescent built in the 1820s. The 1901 census 1901 census records 68 female residents living in the crescent and only 9 males.
 <param ve-image url="https://stor.artstor.org/stor/f1ba4e67-a639-45e5-bf66-545698881a1f" label="No 10, Grove Hill" attribution="Chris Jones">
-<param ve-image url="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" label="Taking the Waters - the original spring. The Pantiles, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells">
 <!--Basemap centred on Tunbridge Wells-->
 <param ve-map center="Q894097" zoom="15">
 
@@ -44,15 +43,16 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She die
 
 ### Bibliography
 
-- Jones, C. [_Picturesque Urban Planning - Tunbridge Wells and the Suburban Ideal_]( https://ora.ox.ac.uk/objects/uuid:c0a18799-673c-4a29-b4f4-d3f525deea00). PhD. University of Oxford, 2017.
-- Hill, Berkeley. [Statistical Results of the Contagious Diseases Act](https://www.jstor.org/stable/2338849) _Journal of the Statistical Society of London_. 33:4. December f1870. 463-485.    
-- Kersley, Gillian. _Darling Madame: Sarah Grand and Devoted Friend._ London: Virago, 1983.    
-- "Low-Heeled Shoes And No Cosmetics." _Tunbridge Wells Advertiser_, 13 March 1915. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.    
-- Mangum, Teresa. _Married, Middlebrow and Militant: Sarah Grand and the New Woman Novel_. Michigan: University of Michigan, 1998.   
-- Orlando. [Sarah Grand](https://orlando.cambridge.org/index.php/people/98e3f429-aaa4-4010-b51b-e390bab56a09).   
-- "Ramsgate Congregational Institute, Broad Street. Session 1902-03." _Thanet Advertiser._ 18 October 1902. 4.     
-- Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman._ Ohio: Ohio University Press, 2004.   
-- [Sarah Grand Archive](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/icvww-research-projects-and-events/sarah-grand-collection.aspx). International Centre for Victorian Women Writers, Canterbury Christ Church University.
+Jones, C. [_Picturesque Urban Planning - Tunbridge Wells and the Suburban Ideal_]( https://ora.ox.ac.uk/objects/uuid:c0a18799-673c-4a29-b4f4-d3f525deea00). PhD. University of Oxford, 2017.   
+Hill, Berkeley. [Statistical Results of the Contagious Diseases Act](https://www.jstor.org/stable/2338849) _Journal of the Statistical Society of London_. 33:4. December f1870. 463-485.    
+Kersley, Gillian. _Darling Madame: Sarah Grand and Devoted Friend._ London: Virago, 1983.    
+"Low-Heeled Shoes And No Cosmetics." _Tunbridge Wells Advertiser_, 13 March 1915. Press Cuttings: Women's Volunteer Reserve. Supplementary Material. SUPP. 38/22. Microfilm Reel #95. Imperial War Museum . Gale Document NumberGALE|SC5108181054.    
+Mangum, Teresa. _Married, Middlebrow and Militant: Sarah Grand and the New Woman Novel_. Michigan: University of Michigan, 1998.   
+Orlando. [Sarah Grand](https://orlando.cambridge.org/index.php/people/98e3f429-aaa4-4010-b51b-e390bab56a09).   
+"Ramsgate Congregational Institute, Broad Street. Session 1902-03." _Thanet Advertiser._ 18 October 1902. 4.     
+Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward, Sarah Grand, and Charlotte Perkins Gilman._ Ohio: Ohio University Press, 2004.   
+[Sarah Grand Archive](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/icvww-research-projects-and-events/sarah-grand-collection.aspx). International Centre for Victorian Women Writers, Canterbury Christ Church University.   
+<param ve-image url="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" label="Taking the Waters - the original spring. The Pantiles, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells">
 
 ### References
 
