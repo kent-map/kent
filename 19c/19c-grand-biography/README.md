@@ -27,7 +27,7 @@ By 1888 the marriage had broken down, the catalyst for Grand's move to London an
 <!--Basemap centred on Ramsgate-->
 <param ve-map center="Q736439" zoom="13">
 
-But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her Boots ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside](/19c/19c-seaside) resorts), where she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. For at least a decade she was living at 10 Grove Hill, one of a crescent built in the 1820s. The 1901 census 1901 census records 68 female residents living in the crescent and only 9 males.
+But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her Boots ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside](/19c/19c-seaside) resorts), where she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. For at least a decade she was living at 10 Grove Hill, one of a crescent built in the 1820s. The 1901 census records 68 female residents living in the crescent and only 9 males.[^ref3]
 <param ve-image url="https://stor.artstor.org/stor/f1ba4e67-a639-45e5-bf66-545698881a1f" label="No 10, Grove Hill" attribution="Chris Jones">
 <!--Basemap centred on Tunbridge Wells-->
 <param ve-map center="Q894097" zoom="15">
@@ -58,3 +58,4 @@ Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward
 
 [^ref1]: Sutton-Rampseck 11.
 [^ref2]: Kersley 86.
+[^ref3]: Jones Appendix B.
