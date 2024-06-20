@@ -33,7 +33,7 @@ Ackroyd, Peter. _Wilkie Collins_ (London: Chatto & Windus, 2012),142.
 Collins, Wilkie. "How I Married Him:" _Belgravia : a London magazine_ 46.183 (1882): 295-316. ProQuest. Web. 22 Dec. 2020.   
 Gasson, Andrew. _Wilkie Collins: An Illustrated Guide_ (Oxford and New York: Oxford University Press, 1998), 117.   
 Peters, Catherine. "Collins, (William) Wilkie (1824–1889), writer." _Oxford Dictionary of National Biography_.  May 19, 2011. Oxford University.    
-<param ve-image url="https://stor.artstor.org/stor/0507f340-f481-4740-b779-c0a565702e71" label="Wilkie Collins stayed here" attribution="Alyson Hunt">
+<param ve-image url="https://stor.artstor.org/stor/0507f340-f481-4740-b779-c0a565702e71" label="Wilkie Collins stayed at Church Hill, Cottage, Broadstairs" attribution="Alyson Hunt">
 
 ### References
 
