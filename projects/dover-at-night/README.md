@@ -4,7 +4,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of
 
 <param title="Dover" eid="Q179224">
 
-<param ve-map center="Q179224" zoom="15">
+<param ve-map center="Q179224" zoom="12">
 
 <!-- Historical map layers --> 
 <param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Ordnance Survey 1860">
