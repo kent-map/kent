@@ -40,7 +40,7 @@ This article was published: 2 January 2022.
 ### References
 
 [^ref1]:  "Obituaries." Times, 22 Jan. 1941, p. 7. [_The Times Digital Archive_,](link.gale.com/apps/doc/CS119355446/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=07417704). Accessed 2 Oct. 2021.
-[^ref2]: The Porters of Moyle Tower: Architecture, Hieroglyphics and Marilyn Monroe | Writing Hythe History (wordpress.com)   
+[^ref2]: The Porters of Moyle Tower: Architecture, Hieroglyphics and Marilyn Monroe, _Writing Hythe History_ (wordpress.com) 
 [^ref3]: -The Persistent Scribblers Society_ Canterbury Cathedral Archives.CCA-CC-W/28/6/6.  
 [^ref4]: _Phantasms of the Living_.Vol 1, p.10. 
 [^ref5]:  _Carlisle Express and Examiner_ - Saturday 01 January 1876. 
