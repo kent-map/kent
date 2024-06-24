@@ -47,7 +47,7 @@ E.Nesbit spent her formative years in Halstead, near Sevenoaks. A keen oarswoman
 
 ## Rupert Bear
 
-[Rupert Bear](/20c/20c-rupert-bear-biography)
+[Rupert Bear](/20c/20c-rupert-bear)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/children_Rupert_Bear.jpg)
 
