@@ -7,20 +7,20 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 
 <!-- Base map centred on Manston -->
-<param ve-map center="Q2779399" zoom="12">
+<!-- param ve-map center="Q2779399" zoom="12" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
 
 #
 
-Alfred C. Harmsworth, later Lord Northcliffe, was born in Dublin on 15 July 1865. He attended Henley House School in London, where the headmaster was the father of A. A. Milne.  His most recent biographer notes that as a young man he was advised by [G. A. Sala](/19c/19c-sala-biography) (one of Dickens’s ‘young men’) to abandon the idea of a writing career for something more lucrative.  Instead he went on to become the most successful newspaper proprietor of his age, founding the _Daily Mail_ in 1896 and the _Daily Mirror in 1903_, before taking over _The Times_ in 1908. He was made Baronet of Elmwood in 1904 and Baron Northcliffe in 1905. At his death in 1922 his gross wealth was recorded as £3,250,000.
+Alfred C. Harmsworth, later Lord Northcliffe, was born in Dublin on 15 July 1865. He attended Henley House School in London, where the headmaster was the father of A. A. Milne.  His most recent biographer notes that as a young man he was advised by [G. A. Sala](/19c/19c-sala-biography) (one of Dickens’s ‘young men’) to abandon the idea of a writing career for something more lucrative. Instead he went on to become the most successful newspaper proprietor of his age, founding the _Daily Mail_ in 1896 and the _Daily Mirror in 1903_, before taking over _The Times_ in 1908. He was made Baronet of Elmwood in 1904 and Baron Northcliffe in 1905. At his death in 1922 his gross wealth was recorded as £3,250,000.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Alfred_Charles_William_Harmsworth%2C_Vanity_Fair%2C_1895-05-16.jpg" label="Alfred Charles William Harmsworth" attribution="Leslie Ward, Public domain, via Wikimedia Commons">
 
 Harmsworth married Mary Milner in 1888 and the couple spent their honeymoon in [Folkestone](/19c/19c-folkestone),  the beginning of a lifelong association with Kent. In 1890 he bought a house called Elmwood, in [Broadstairs](/dickens/broadstairs-19th-century). While he spent much of his time travelling or in London, Elmwood would remain ‘home’ until shortly before his death in 1922.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Lees_i.e._Leas_Folkestone_England.jpg" label="The Leas, Folkestone" attribution="Snapshots Of  The Past" license="CC BY-SA 2.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ac/Broadstairs_High_Street%2C_Kent_England_-_pre_WWI.jpg" label="Broadstairs High Street pre WW1" attribution="Vintage postcard, Public domain, via Wikimedia Commons">
-<param ve-map center="Q375314" zoom="13">
+<param ve-map center="Q375314" zoom="12.5">
 
 Harmsworth was known for his generosity to local causes. He was one of the organisers (or at least, supporters) of the first [Dickens](/dickens/) Festival in Broadstairs in 1897,  with the aim of raising funds for a Fishermen and Boatmen’s clubhouse and reading room.  It was rumoured that Henry Dickens and Mary Angela Dickens had offered to give readings, and Harmsworth lent his own collection of relics for the occasion.  Dolly Varden was ‘fascinatingly embodied by Mrs Alfred Harmsworth’.  
 <br>

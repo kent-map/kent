@@ -29,8 +29,8 @@ _Kitty’s Engagement_, 1895.
 
 Florence Warden (16 May 1857 – 11 May 1929), actor and writer lived at St Mildred’s Road, Ramsgate and later Beach House, [Sandgate](/placesqz/sandgate-overview) during the late nineteenth century. Born Florence Alice Price, the daughter of stockbroker Charles Price, she had a privileged childhood, brought up 'in affluence and luxury'[^ref1] and educated by governesses, however, when her father’s business failed, she and her sister Gertrude were thrown upon their own resources. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg" label="Portrait of Florence Warden" attribution="Rijksmuseum, CC0, via Wikimedia Commons">
-<!-- Base map centred on Cliffsend -->
-<param ve-map center="Q2287962" zoom="12">
+<!-- Base map centred on Minster -->
+<param ve-map center="Q9033431" zoom="11.5">
 
 Both sisters obtained positions as governesses, and in her spare time Florence began writing short stories and novelettes, however Florence quickly tired of her life as a governess: 'it’s consistent dulness [sic], embittered by constant failure with my pen' [^ref2] and after two years, both she and her sister took up acting, against the advice of their friends.  Adopting the stage names Florence and Gertrude Warden, they worked at the Haymarket and Vaudeville theatres and also toured the provinces, living in digs together in Marylebone.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/TheGovernessRebeccaSolomon.jpg" label="The Governess, Rebecca Solomon c.1851" attribution="Rebecca Solomon, Public domain, via Wikimedia Commons">
@@ -48,7 +48,7 @@ In 1887, Florence and George married at St Pancras. She had published at least s
 According to the _Thanet Advertiser_, Mr and Mrs James live 'very quietly at a Kentish watering-place, and seldom visit London'.[^ref9]  Given her family circumstance and her punishing novel writing schedule at this time, it is not surprising. She was not entirely cut off from literary circles and the _East Kent Times_ mentions 'other litterateurs' who made Ramsgate their dwelling place.[^ref10]   It is reported that she was friendly with [Jerome K. Jerome](/19c/19c-jerome-biography) and [F.C. Burnand](19c-burnand-biography) of _Punch_ at this time.[^ref11] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/71/Francis_Burnand.png" label="Francis Burnand" attribution="Frederick Tancock Palmer, Public domain, via Wikimedia Commons">
 <!-- Base map centred on Minster -->
-<param ve-map center="Q9033431" zoom="12">
+<param ve-map center="Q9033431" zoom="11.5">
 
 It is likely, however, that the Jameses did not spend all their time in Kent at this period, and instead divided their time between London and their seaside home. In 1895, Florence attended the New Vagabond Club Christmas dinner at Holborn restaurant, where Frances Hodgson Burnett was a guest. Fellow diners included [Sarah Grand](19c/19c-grand-biography), [John Strange Winter](/19c/19c-vaughan-stannard), [Isaac Zangwill](/19c/19c-zangwill-biography) and [Jerome K. Jerome](/19c/19c-jerome-biography).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/11/Jerome_K._Jerome_%287893553318%29.jpg" label="Jerome K. Jerome, c.1890s" attribution="National Media Museum from UK, No restrictions, via Wikimedia Commons">
