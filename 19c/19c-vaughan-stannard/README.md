@@ -15,7 +15,7 @@
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
 
-#
+<!--#-->
 
 Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was born in Yorkshire, the daughter of Henry Vaughan Palmer, a cavalry officer turned clergyman. She was a popular novelist who wrote approximately 112 books and contributed 42 short stories to the _Family Herald_ under the pseudonym of 'Violet Whyte'. 
 <param ve-image url="https://stor.artstor.org/stor/d950857f-269b-47fe-b42a-cc488f3eccd7" label="John Strange Winter" attribution="Photo London Stereo">
@@ -99,6 +99,7 @@ After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to re
 Stannard did not draw on the Kent landscape in her fiction. _The Strange Story of My Life_ (1896) which was written at Birchington, is set on the continent. When the heroine Miss Massingham is asked 'You would like … to go over and see a little of the English coast?' she replies: 'I know nobody in England, I don’t feel in any way drawn towards it.'[^ref37]  Furthermore, in _The Truth-tellers_ (1896) the pleasures of the Kent coast are described as the sort of place where servants can enjoy themselves, hinting that they have no appeal for sophisticated society. Miss Mortimer’s manservant James's idea of enjoying the sea 'was to spend a fortnight in [Margate](/19c/19c-margate) when his mistress was safely taking a cure at Homburg or Schwalbach. Then the faithful James might have been seen by such as knew him, arrayed in a suit of light check dittoes, with a straw hat upon his respectable head, sunning himself along the arid front, or in more select fashion enjoying the delights of the health-giving breezes at the extreme end of the pier, —the part where you pay twopence'.[^ref38]
 <!--Basemap centred on Margate -->
 <param ve-map center="Q618045" zoom="12">
+
 <br><br>
 The Stannards did not visit Birchington after this, spending the next few years in Dieppe, a popular beach resort for English writers and artists, including Oscar Wilde and Arthur Symons. There would have been health as well as economic benefits to living in France and the Stannards, who were hit by the economic collapse of several publishers during the Boer War, diversified their business interests to include a toiletry range whilst living here. There is no evidence to suggest that they summered in Kent again. Henrietta died in 1911 and is described as "wife of Arthur Stannard" on her death certificate. His occupation is recorded as engineer, hers as novelist, journalist and business woman are not.
 <br><br>

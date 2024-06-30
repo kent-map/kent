@@ -78,6 +78,7 @@ In December 1898, the _Folkestone, Hythe, Sandgate & Cheriton Herald_ announced 
 Florence was not entirely lost to [Ramsgate](/19c/19c-ramsgate). A year after her departure, it was reported that: 'Miss Warden lives at Ramsgate, finding the invigorating sea air absolutely essential to her health, as her somewhat sensational books demand a good deal of work and nerve strain.'[^ref20]  Whether this was true, or a sleepy news reporter had just not heard of her recent departure, it is difficult to tell.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fa/%27Ramsgate%27_by_J._Buxton_Knight.jpg" label="Ramsgate by J. Buxton Knight, 1908" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
+
 In 1901, the Jameses were back living at Addison Court Gardens although they kept their house at Sangate until at least 1909. Florence's 1906 novel _The Old House at the Corner_ was set in Kent . By 1909, the couple were facing bankruptcy and the luxury of a coastal retreat was beyond their budget.[^ref21] Florence died at Oakfield Lodge, Sydenham in 1929 at the age of 71.
 <br><br>
 This article was published: 11 December 2021.
