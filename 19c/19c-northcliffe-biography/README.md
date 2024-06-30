@@ -1,11 +1,16 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Lord Northcliffe" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="Lord Northcliffe" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Prof. Carolyn Oulton introduces the Kent relationships of successful newspaper proprietor Alfred C. Harmsworth, later Lord Northcliffe.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q179224" aliases="Dover">
 
-<param ve-map center="Q922739" zoom="15">
+<!-- Base map centred on Manston -->
+<param ve-map center="Q2779399" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
 
 #
 
@@ -23,14 +28,14 @@ From 1894-97 Harmsworth also funded the Jackson-Harmsworth Arctic expedition, in
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Mrs_Alfred_Charles_William_Harmsworth.jpg" label="Mrs Alfred Charles William Harmsworth" attribution="Lafayette studio, London, via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-map center="Q922739" zoom="13">
 
-He was not sympathetic to every campaign, and in October 1912 [Winston Churchill](/20c/20c-churchill-chartwell) wrote to thank him for ‘a stick with which he could protect himself from the suffragettes.’  However Harmsworth’s relations with Churchill and other politicians were often strained, particularly during WW1, when he used his newspapers to critique military and political policy (he was notably critical of Kitchener). He was influential enough to claim with some degree of credibility that the Germans were aiming at him personally when Elmwood was shelled by a warship in February 1917. While Harmsworth was unhurt, three people nearby were killed, including a baby.  Northcliffe reported to his Daily Mail staff that he was ‘used to being bombarded’ and pointed out that ‘this is nothing compared with the incidents endured all day long’ in France and Belgium. 
+He was not sympathetic to every campaign, and in October 1912 [Winston Churchill](/20c/20c-churchill-chartwell) wrote to thank him for ‘a stick with which he could protect himself from the suffragettes.’  However, Harmsworth’s relations with Churchill and other politicians were often strained, particularly during WW1, when he used his newspapers to critique military and political policy (he was notably critical of Kitchener). He was influential enough to claim with some degree of credibility that the Germans were aiming at him personally when Elmwood was shelled by a warship in February 1917. While Harmsworth was unhurt, three people nearby were killed, including a baby.  Northcliffe reported to his Daily Mail staff that he was ‘used to being bombarded’ and pointed out that ‘this is nothing compared with the incidents endured all day long’ in France and Belgium. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/96/Daily_Mail_Zeppelin_Fund_WWI.jpg" label="Daily Mail Zeppelin Fund WW1" attribution="Daily Mail, Public domain, via Wikimedia Commons">
 
 During a prolonged bout of flu, which lasted for 9 weeks in the spring of 1918, he continued his newspaper propaganda from Broadstairs.  At around the same time he recruited [H. G. Wells](/20c/20c-wellshg-biography) to his ministry of propaganda in London, although this friendship also failed to survive the war years.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b6/H.G._Wells_LCCN2014713431.jpg" label="H.G. Wells" attribution="Bain News Service, publisher, Public domain, via Wikimedia Commons">
 <param ve-map center="Q922739" zoom="13">
 
-A controversial figure in his own lifetime, Lord Northcliffe opposed women’s suffrage but ‘paid high salaries to female writers before anyone else in Fleet Street’ ; was ‘a prominent proponent of family values who kept a series of mistresses’;  funded local causes including orphanages and the Dover Patrol memorial, as well as founding the Imperial Paper Mills in [Gravesend](/placesej/gravesend-overview/), which operated until the 1980s,  while ruthlessly sacking pressmen he felt to be inadequate. Regardless of these inconsistencies, he is widely acknowledged as [‘Britain’s greatest press baron’]( https://www.amazon.co.uk/Chief-Northcliffe-Britains-Greatest-Press/dp/B09TWVMQVJ).
+A controversial figure in his own lifetime, Lord Northcliffe opposed women’s suffrage but ‘paid high salaries to female writers before anyone else in Fleet Street’; was ‘a prominent proponent of family values who kept a series of mistresses’;  funded local causes including orphanages and the Dover Patrol memorial, as well as founding the Imperial Paper Mills in [Gravesend](/placesej/gravesend-overview/), which operated until the 1980s,  while ruthlessly sacking pressmen he felt to be inadequate. Regardless of these inconsistencies, he is widely acknowledged as [‘Britain’s greatest press baron’]( https://www.amazon.co.uk/Chief-Northcliffe-Britains-Greatest-Press/dp/B09TWVMQVJ).
 <br><br>
 With thanks to Andrew Roberts for agreeing to ‘cast an eye’ over this very condensed account of Northcliffe’s complex career.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/White_Cliffs_near_Dover_Patrol_Memorial_-_geograph.org.uk_-_2380093.jpg" label="White Cliffs near Dover Patrol Memorial" attribution="David Anstiss" license="CC BY-SA 2.0">
