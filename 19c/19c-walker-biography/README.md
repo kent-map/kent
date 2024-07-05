@@ -1,11 +1,19 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Ann Walker (1803-1854)" author="Ivana Nika" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="Ann Walker (1803-1854)" author="Ivana Nika" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Using original diary entries Ivana Nika traces the journey of Anne Walker and Anne Lister through Kent en route for the continent in 1834.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q179224" aliases="Dover">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
 
 #
 
-The landowner and diarist Ann Walker of Lightcliffe in Yorkshire passed through [Canterbury](/19c/19c-canterbury) (and Kent) with Anne Lister of [Shibden Hall, Halifax](https://museums.calderdale.gov.uk/visit/shibden-hall) on their way to France and Switzerland on 12-13 June, 1834. Their relationship and (not legally recognised) marriage is the subject of the recent BBC/Lookout Point TV drama series [“Gentleman Jack”.](https://www.bbc.co.uk/programmes/m00059m9). Although her stay in [Canterbury](/19c/19c-canterbury) was short, Ann Walker wrote a long account of it in her recently discovered and fully transcribed [journal](https://www.catalogue.wyjs.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=WYAS4971%2f7%2f1%2f5%2f1). Anne Lister also noted details of their stay in Canterbury (and Kent) in her own diary.
+The landowner and diarist Ann Walker of Lightcliffe in Yorkshire passed through [Canterbury](/19c/19c-canterbury) (and Kent) with Anne Lister of [Shibden Hall, Halifax](https://museums.calderdale.gov.uk/visit/shibden-hall) on their way to France and Switzerland on 12-13 June, 1834. Their relationship and (not legally recognised) marriage is the subject of the recent BBC/Lookout Point TV drama series [“Gentleman Jack”](https://www.bbc.co.uk/programmes/m00059m9). Although her stay in [Canterbury](/19c/19c-canterbury) was short, Ann Walker wrote a long account of it in her recently discovered and fully transcribed [journal](https://www.catalogue.wyjs.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=WYAS4971%2f7%2f1%2f5%2f1). Anne Lister also noted details of their stay in Canterbury (and Kent) in her own diary.
 <param ve-image url="https://stor.artstor.org/stor/fb97b8a2-50de-4cae-b35b-7aedb06de42b" label="Canterbury street, from A Walk In and About the City of Canterbury by William Gostling" attribution="No known copyright restrictions"> 
 
 On 12 June 1834[^ref1] Ann Walker and Anne Lister arrived in [Canterbury](/19c/19c-canterbury) late at night, in their carriage, with two of their servants. Ann notes in her diary how they missed out on seeing Rochester Cathedral on the way due to rain. They booked rooms at The Fountain in St Margaret's Street, which had been claimed to be one of the oldest coaching inns in the country, but was sadly destroyed in air raids in 1942. 
@@ -22,11 +30,15 @@ Similarly, she provides a detailed account – including extensive information o
 
 After a stroll down [Canterbury](/19c/19c-canterbury) streets, Walker and Lister finally left for [Dover](/19c/19c-dover), where they took lodgings at the Ship Inn, which, as Walker mentions, had just changed hands (passing from a Mr. C. Wright to a Mr. Worthington). Before dinner, Ann Walker played the inn’s piano, and the next morning the two women took passage on the packet boat “Ferret” to Calais.[^ref8]
 <param ve-image url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" label="Snargate Street, Dover, 1830" attribution="Drawn by George Shepherd">
+<!-- Base map centred on Dover -->
+<param ve-map center="Q179224" zoom="12">
 
 On their return journey from the Continent, Ann stopped writing in her journal once they arrived in Calais. We, however, do know from Lister's diary that after their return to England on the packet boat 'Firefly' on 26 August,[^ref9] they passed through [Dover](/19c/19c-dover) and [Canterbury](/19c/19c-canterbury) without stopping. They spent a night in Rochester (at Wright’s Hotel) on their way to London, before ultimately travelling to their home – Shibden Hall in Halifax.
 <br><br>
 The [In Search of Ann Walker](https://insearchofannwalker.com/) research collaborative works on bringing to light all aspects of Ann's life.
 <param ve-image url="https://stor.artstor.org/stor/ab25bcd6-9bdf-4d71-8385-1ea957703c5a" label="The Picturesque Beauties of Great Britain: Kent. Rochester Bridge, 1829" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin">
+<!-- Base map centred on Dover -->
+<param ve-map center="Q179224" zoom="12">
 
 ### References
 
