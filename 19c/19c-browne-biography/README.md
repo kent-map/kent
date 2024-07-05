@@ -1,17 +1,18 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Hablot K. Browne (Phiz) (1815-1882)" author="Professor Carolyn Oulton" layout="vtl" 
-banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Prof. Carolyn Oulton traces artist, etcher and illustrator Hablot K. Browne's connections to Kent.">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q5516441" aliases="Gads Hill Place">
 
 <!--Basemap centred on Wingham-->
-<param ve-map center="Q2632094" zoom="11">
+<!-- param ve-map center="Q2632094" zoom="11" -->
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Ordnance Survey 1860">
+<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent OS 1860">
 
 #
 
@@ -30,6 +31,8 @@ It is possible that this was more a work trip than a holiday per se, as Browne w
 
 While Browne clearly enjoyed the comedic opportunities of a holiday in Kent, it is poignant to remember that he probably never visited his former friend and collaborator [Dickens](/dickens) at [Gad’s Hill](/dickens/dickens-gads-hill).
 <param ve-image url="https://iiif.wellcomecollection.org/image/V0039463/full/full/0/default.jpg" label="A man with a carpetbag and an umbrella enters a lodging house and asks for a room, but the landlady rejects his request, thinking that his carpetbag identifies him with a man who had defrauded other lodging houses" attribution="Wood engraving after Phiz, Wellcome Collection">
+<param ve-map center="Q5516441" zoom="13">
+
 
 ### Bibliography
 [_All About Margate and Herne Bay_](https://books.google.co.uk/books?id=yxQHAAAAQAAJ&pg=PA4&dq=high+street+margate+baths&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj4yeHk18j_AhVNhlwKHYPXA90Q6AF6BAgCEAI#v=onepage&q=high%20street%20margate%20baths&f=false). Margate, 1864.   
