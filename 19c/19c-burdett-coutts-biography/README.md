@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
 <param ve-config
     title="Angela Burdett-Coutts, 1814-1906"
@@ -7,6 +7,7 @@
     layout="vtl"
     description="In this visual essay, Professor Carolyn Oulton traces the Kent visits and interactions with Charles Dickens et al of heiress and philanthropist Angela Burdett-Coutts.">
 
+<!-- Global Entities -->
 <param ve-entity title="Walmer Castle" eid="Q2543161">
 <param ve-entity title="Maidstone" eid="Q213180">
 <param ve-entity title="Rochester" eid="Q507517">
@@ -15,12 +16,14 @@
 <param ve-entity title="Ramsgate" eid="Q736439">
 <param ve-entity title="Broadstairs" eid="Q922739">
 <param ve-entity title="Folkestone" eid="Q375314">
+<param ve-entity title="Margate" eid="Q618045">
+<param ve-entity title="Canterbury" eid="Q29303">
 
 <!-- Base map starting position centred on Canterbury -->
 <param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id=" bd3bb7d13a5d0a88" title="Moule 1850">
+<param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
 
 #
 
@@ -30,10 +33,13 @@ Angela Burdett was the daughter of Sir Francis Burdett and his wife Sophia (whos
        description="A portrait of Burdett-Coutts, circa 1840" 
        license="Public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/3/33/Angela_Georgina_Burdett-Coutts%2C_Baroness_Burdett-Coutts_from_NPG.jpg">
-<param ve-map center="Q2543161" zoom="15">
+<!-- Base map centred on Walmer Castle -->
+<param ve-map center="Q2543161" zoom="12">
 
 Burdett-Coutts stayed in Kent several times in the mid-1840s to early-1850s: during two of these summer holidays [Dickens](/dickens) and his family were staying in [Broadstairs](/dickens/dickens-broadstairs). [Dickens](/dickens) wrote to Burdett-Coutts in August 1847, on hearing that she was going to [Sandgate](/placesqz/sandgate-overview).[^ref1] A few days later he asked her to meet the Danish author [Hans Christian Andersen](/19c/19c-christian-andersen), who was staying at the Royal Oak Hotel in [Ramsgate](/dickens/19c-ramsgate).[^ref2] [Andersen](/19c/19c-christian-andersen) would memorably outstay his welcome at [Gad’s Hill](/dickens/dickens-gads-hill) in 1857, but on this occasion the two writers expressed mutual enthusiasm, and [Andersen](/19c/19c-christian-andersen) was delighted that Burdett-Coutts had accepted [Dickens](/dickens)’s  invitation partly in order to meet him. In September [Dickens](/dickens) wrote to Burdett-Coutts again, at the Pavilion Hotel in [Folkestone](/19c/19c-folkestone). He and the illustrator John Leech were going to Maidstone the next day, with dinner planned at the Bull Inn in Rochester. Meanwhile 'There is nothing new in Broadstairs. Everybody except Leech is going away I understand next week'[^ref3].
 <param ve-image url="https://stor.artstor.org/stor/077213e1-ee34-4966-a7eb-64fb7cf89d8d" label="Broadstairs Map" attribution="by kind permission of Dickens Museum, Broadstairs">
+<!-- Base map centred on Godmersham -->
+<param ve-map center="Q632173" zoom="10">
 
 In October 1850, [Dickens](/dickens) was writing the last pages of [_David Copperfield_](/dickens/david-copperfield-curated-walk)  at [Fort House](/dickens/dickens-fort-house) and was unlikely to welcome distraction even from such a valued friend as his ‘dear Miss Coutts’, nearby though she was at the Royal Albion in [Ramsgate](/dickens/19c-ramsgate). As he tactfully put it, ‘I am looking very hard at a blank quire of paper, and trying to persuade myself that I am going to begin Nos. 19 and 20 in earnest. Otherwise I should have come over, instead of sending this note.’[^ref4]
 <param ve-image 
@@ -41,17 +47,20 @@ In October 1850, [Dickens](/dickens) was writing the last pages of [_David Coppe
        description="A portrait of Dickens, between 1867 and 1868" 
        license="Public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg">
-<param ve-map center="Q725261" zoom="10">
+<!-- Base map centred on Ramsgate -->     
+<param ve-map center="Q1752642" zoom="12">
 
 Like [Dickens](/dickens), Burdett-Coutts clearly felt an affection for the seascape of Thanet, and she would have been aware of the perils caused by the notorious [Goodwin Sands](/dickens/david-copperfield-goodwin-sands). In 1859 she presented the people of [Margate](/19c/19c-margate) with a lifeboat, which arrived by train and was duly processed through the town under the protection of her secretary ([Dickens](/dickens)’s former editor W. H. Wills), accompanied by the town crier and members of the corporation, with a banner announcing the donation of the ‘Angela and Hannah'.[^ref5]
-<param ve-image url="https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f" label="The Goodwin Sands” image from Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904">
-<param ve-map center="Q1752642" zoom="11">
+<param ve-image url="https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f" label="The Goodwin Sands image from Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904">
+<!-- Base map centred on Margate -->   
+<param ve-map center="Q1752642" zoom="12">
 
 Burdett-Coutts would return to Kent in person in 1881 on her marriage to the 29 year old William Bartlett, who then became William Burdett-Coutts-Bartlett. The newspapers stuck closely to the more conventional aspects of this union, noting that the newly married pair went to Ashford Church, where the bride was ‘affable, and talked to everybody she met there. Late in the afternoon the Baroness and her husband left for [Canterbury](/19c/19c-canterbury)’ so that she could be closer to her medical attendant (‘Local intelligence’), before spending the rest of the honeymoon at Bartlett’s home of Ingledon in Ashford.
 <br><br>
 In her lifetime Angela Burdett-Coutts ‘set a new standard in philanthropy: prompt and practical, her charity was given with style and without condescension.’[^ref6] On her death 5 years after [Queen Victoria](/19c/19c-victoria-biography), she was buried in Westminster Abbey, becoming once again a near neighbour of [Dickens](/dickens).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/St_Mary%2C_Ashford%2C_June_2021.jpg" label="St Mary's, Ashford" attribution="Poliphilo, CC0, via Wikimedia Commons">
-<param ve-map center="Q725261" zoom="10">
+<!-- Base map centred on Canterbury -->   
+<param ve-map center="Q29303" zoom="12">
 
 ### Bibliography
 Andersen, Jens. _Hans Christian Andersen: A New Life_. London: Duckworth, 2005.   

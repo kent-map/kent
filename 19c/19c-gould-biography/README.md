@@ -1,13 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-
-<param ve-config 
-       title="Elizabeth Gould (1804-1841)"
-       author="Carina Chan"
-       banner="https://i.imgur.com/pCvk1td.jpg" 
-       layout="vertical"
-       num-maps="3"
-       num-images="10">
-
+<param ve-config title="Elizabeth Gould (1804-1841)" author="Carina Chan" banner="https://i.imgur.com/pCvk1td.jpg" layout="vertical" description="Carina Chan details the life and work of ornithological illustrator and Kent native, Elizabeth Gould.">
+  
+<!-- Global Entities -->
 <param ve-entity eid="Q736439"> <!-- Ramsgate -->
 <param ve-entity eid="Q313787"> <!-- John Gould -->
 <param ve-entity eid="Q253875"> <!-- Elizabeth Gould -->
@@ -21,11 +15,22 @@
 <param ve-entity eid="Q375946"> <!-- The Zoology of the Voyage of H.M.S. Beagle - Part III Birds -->
 <param ve-entity eid="Q967304"> <!-- Birds of Australia -->
 
+<!-- Base map centred on Canterbury -->
+<!-- param ve-map center="Q29303" zoom="12" -->
+<!-- Base map centred on Stourmouth -->
+<!-- param ve-map center="Q5220240" zoom="11" -->
 
-On the 18th of July in 1804, in the seaside town of [Ramsgate](/19c/19c-ramsgate/), Mr Nicholas Coxen and Elizabeth Coxen (nee Tomkins) welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and three brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were "firmly middle class" through "links to the military" and we can imagine that she lived a typical life fitting for the era [^1].The sons pursued careers as scientists or military personnel, whilst Elizabeth studied subjects that were typical for women of her class and age, including languages, music, and art [^2]. In spite of her relatively ordinary upbringing, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
+
+#
+
+On the 18th of July in 1804, in the seaside town of [Ramsgate](/19c/19c-ramsgate/), Mr Nicholas Coxen and Elizabeth Coxen (nee Tomkins) welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and three brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were "firmly middle class" through "links to the military" and we can imagine that she lived a typical life fitting for the era [^1]. The sons pursued careers as scientists or military personnel, whilst Elizabeth studied subjects that were typical for women of her class and age, including languages, music, and art [^2]. In spite of her relatively ordinary upbringing, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
 <param ve-map title="Birth place of Elizabeth Gould" center="Q736439" zoom="12" prefer-geojson show-labels>
+<!-- Base map centred on Ramsgate -->
+<param ve-map center="Q736439" zoom="11">
 
-Some may find the family name “Gould” familiar, especially in ornithological circles, with association to titles such as “The Birdman” or “The Father of Australian Ornithology” who published some of the most famous ornithologic books of the 19th century [^3]. Most would remember the accomplished man as John Gould. He left a remarkable legacy of beautifully illustrated documentation of various animals across the globe. Yet, he was not the sole creditor for his prodigious work. He had the help of a talented partner, his wife Elizabeth, who supported and worked alongside him throughout his career.
+Some may find the family name “Gould” familiar, especially in ornithological circles, with association with titles such as “The Birdman” or “The Father of Australian Ornithology” who published some of the most famous ornithologic books of the 19th century [^3]. Most would remember the accomplished man as John Gould. He left a remarkable legacy of beautifully illustrated documentation of various animals across the globe. Yet, he was not the sole creditor for his prodigious work. He had the help of a talented partner, his wife Elizabeth, who supported and worked alongside him throughout his career.
 <param ve-image 
        fit="contain"
        title="John Gould" 
@@ -58,7 +63,7 @@ There are no records of Elizabeth’s qualification as a draughtswoman, but she 
        fit="contain"
        title="Himalayan Monal (Lophophorus impeyanus) in “A Century of Birds from the Himalaya Mountains”" 
        description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831."
-       attribution="Biodiversity Heritage Library"
+       attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/42203694)"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/5/57/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LX%29_%289240055086%29.jpg">
 
@@ -66,43 +71,43 @@ There are no records of Elizabeth’s qualification as a draughtswoman, but she 
 <param ve-image 
        fit="contain"
        title="Picus brunifrons in “A Century of Birds from the Himalaya Mountains”" 
-       description="Illustrated by Elizabeth Gould for John Gould’s A Century of Birds from the Himalaya Mountains, 1831." 
-       attribution="Biodiversity Heritage Library"
+       description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831." 
+       attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/42203662)"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg">
 
 Following the success of their first publication, the Gould couple immediately worked on a more ambitious collaboration in which they titled “_The Birds of Europe_” (1832-1837). This 448-plate publication required the couple to travel all over continental Europe and with each new expedition, Elizabeth’s artistic skills improved [^8]. In contrast to her previous work in “_Century_”, limited to drawing taxidermied specimens, for “_The Birds of Europe_”, Elizabeth could observe breathing, flying, animated birds. With her flourishing artistry, Elizabeth authentically captured the true colouring of their “soft parts” - eyes, neck wattles, skin - in which even the best taxidermy practices could not replicate. The authentic colouring, paired with her choices of more dynamic poses, allowed her designs to stand out from the sea of stiff poses that were favoured in this century.
 <param ve-image 
        fit="contain"
-       title="Merlin (Falco Aesalon) in The Birds of Europe - Vol I" 
-       description="Illustrated by Elizabeth Gould for John Gould’s The Birds of Europe - Vol I, 1837." 
-       attribution="Biodiversity Heritage Library"
+       title="Merlin (Falco Aesalon) in “The Birds of Europe - Vol I”" 
+       description="Illustrated by Elizabeth Gould for John Gould’s “The Birds of Europe - Vol I”, 1837." 
+       attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/42174335)"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/GouldBirdsEuropeIMerlin.jpg">
 
 For five exhausting years, Elizabeth dedicated hours upon hours to perfecting “_The Birds of Europe_”, but her role as a mother was not to be forgotten. During this time, she also gave birth to five more children, though only three survived infancy [^8]. Yet again, despite Elizabeth’s tireless efforts, her award came as a small credit in the lower corner of each plate. However, this time the credit not only bore Elizabeth’s initials but John’s as well. He credited his wife for the drawings and lithographs but attributed the "sketches and designs" to his labour. Contrastingly, multiple critics have suggested John did little more than make minor changes to or simply just approved Elizabeth’s sketches [^4]. It was also during this hectic time that a young Charles Darwin recognised Elizabeth’s creative gift and commissioned her to produce 50 lithographic plates for his publication, “_The Zoology of the Voyage of H.M.S. Beagle - Part III Birds_” [^6]. Again, Elizabeth’s name was absent from these plates.
 <param ve-image 
        fit="contain"
-       title="Darwin's Finches - Geospiza parvula in The Zoology of the Voyage of H.M.S. Beagle - Part III Birds" 
-       description="Illustrated by Elizabeth Gould for Charles Darwin’s The Zoology of the Voyage of H.M.S. Beagle - Part III Birds, 1832-1836" 
-       attribution="Biodiversity Heritage Library" 
+       title="Darwin's Finches (Geospiza parvula) in “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”" 
+       description="Illustrated by Elizabeth Gould for Charles Darwin’s “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”, 1832-1836" 
+       attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/14062582)" 
        license="public domain"
        url="https://live.staticflickr.com/8351/8429528713_8488cfc03b_b.jpg">
 
 Though the “_Century_” and “_Birds of Europe_” were impressive successes, the Goulds were most celebrated for their work in “_Birds of Australia_” (1840-1848). This 7-volume publication was composed of 681 specimens, of which 84 were painted by Elizabeth herself [^6]. Similar to her previous work in the “_Birds of Europe_”, to deliver the highest quality depictions of the foreign specimens to their subscribers, she had to embark on a long journey to Australia to study their organic forms. Subsequently, the couple and their eldest son took off to explore the vast land on the other side of the planet. During their stay in the foreign country, they lived on Elizabeth’s brothers’ farm which later became their base of operations [^1].
 <param ve-image
        fit="contain"
-       title="Bouke's Grass-Parakeet - Euphema bourkii - in Birds of Australia"
-       description="Illustrated by Elizabeth Gould for John Gould’s Birds of Australia, 1872" 
+       title="Bouke's Grass-Parakeet (Euphema bourkii) in “Birds of Australia”"
+       description="Illustrated by Elizabeth Gould for John Gould’s “Birds of Australia”, 1972" 
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a5/Euphema_Bourkii_by_Elizabeth_Gould.jpg">
 
 This was perhaps Elizabeth’s most exciting period in her life with such an esteemed project in her hands, however, it may have also been her most distressing time. Correspondences in letters to her mother revealed that she was riddled with regrets when she left her home country. She sombrely documented her tough decision to leave her three youngest children - Charles, Eliza, and Louisa - back in England and concerns and worries constantly plagued her mind [^8]. Nevertheless, she had little time to entertain her doubts as she kept busy by preparing hundreds of sketches, drawings, and paintings of the colony’s native wildlife. The most recognised image she produced was that of the Fairy Wren. In her preliminary drawing for the lithographed plate, she confidently presented her signature technique of using soft and controlled pencil strokes to replicate the lifelike features of each specimen. Her attention to detail extended to her selection of watercolours for the pallet, ensuring that they would precisely represent Australia.
 <param ve-image 
        fit="contain"
-       title="Blue Wren - Malurus cyaneus - in Birds of Australia"
-       description="Illustrated by Elizabeth Gould for John Gould’s Birds of Australia, 1872"
-       attribution="rawpixel"
+       title="Blue Wren (Malurus cyaneus) in “Birds of Australia”"
+       description="Illustrated by Elizabeth Gould for John Gould’s “Birds of Australia”, 1972"
+       attribution="rawpixel (https://www.rawpixel.com/image/321165/free-illustration-image-blue-wren-gould)"
        license="public domain"
        url="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-158-num.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=8539ca4f45990976634b541654947458">
 
@@ -111,14 +116,14 @@ In 1840, John, Elizabeth and John Henry returned to familiar British soil with a
        region="-105,-80,1236,964"
        title="A woman in bed after giving birth."
        description="Engraving by J. Wood, 1830."
-       attribution="Wellcome Images"
+       attribution="Wellcome Images (https://wellcomecollection.org/works/ed688gme/items)"
        license="public domain"
        url="https://iiif.wellcomecollection.org/image/V0007494/full/1024%2C/0/default.jpg">
 
 Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised her by naming two Australian birds in her honour - Mrs Gould’s Sunbird and the Gouldian Finch. He accompanied the commemoration with a thankful note, acknowledging Elizabeth’s utmost devotion to their family legacy [^9]. Ultimately, with the unfortunate premature death of his beloved wife, John would outsource a new upcoming artist by the name of Henry Richter to finish the rest of the book using Elizabeth’s remaining sketches and designs [^10].
 <param ve-image 
        fit="contain"
-       title="Gouldian Finch - Chloebia gouldiae"
+       title="Gouldian Finch (Chloebia gouldiae)"
        attribution="Photographed by Martin Pot, 16 Feb. 2008"
        license="CC BY-SA 3.0"
        url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Male_adult_Gouldian_Finch.jpg">
@@ -126,9 +131,9 @@ Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised h
 Elizabeth Gould was a woman of her time, raised to be a loving wife and doting mother, but that is not to discredit her for being an extraordinary artist who contributed many landmark pieces in Victorian ornithology. Though eclipsed by the glory of her husband’s name, it is important to note that she was not just a side character to John's famed story, but rather a remarkable woman in her own right. So, instead of painting her as an oppressed feminine figure of history, we should remember her as an artistically adept maid of Kent, a strong companion to her husband and a caring mother to her children.
 <param ve-image 
        fit="contain"
-       title="Elizabeth Gould holding an Australian cockatiel - Nymphicus hollandicus"
+       title="Elizabeth Gould holding an Australian cockatiel (Nymphicus hollandicus)"
        description="Oil painting by unknown artist"
-       attribution="National Library of Australia"
+       attribution="National Library of Australia (http://nla.gov.au/nla.obj-150672913)"
        license="public domain"
        url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2019/02/nla.obj-150672913-1-716x1024.jpg">
 
