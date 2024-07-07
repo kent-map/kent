@@ -1,7 +1,6 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
-://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a> 
-<param ve-config title="Israel Zangwill (21 January 1864 - 1 August 1926)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg" Description="In this visual essay, Carolyn Oulton follows 19th century Jewish author Israel Zangwill’s visits to the Kent coast as captured in several of his books.">
+<param ve-config title="Israel Zangwill (21 January 1864 - 1 August 1926)" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" Description="In this visual essay, Carolyn Oulton follows 19th century Jewish author Israel Zangwill’s visits to the Kent coast as captured in several of his books.">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q375314" aliases="Folkestone">
@@ -30,13 +29,13 @@ _‘Without Prejudice’_, 1893
 
 The Jewish author Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of _Children of the Ghetto_ ‘was wandering about the [Ramsgate](/19c/19c-ramsgate) sands’[^ref1]  when he spotted a writing competition, advertised in an abandoned issue of _Society_ magazine. Years later he was delighted to be told by the judge that a number of well-known authors had entered against his winning story ‘Professor Grimmer’.[^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Sands_Ramsgate_England.jpg" label="The Sands at Ramsgate, c.1890-1900" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-map center="Q736439" zoom="12.5">
+<param ve-map center="Q2779399" zoom="12">
 
 As an adult Zangwill was less enraptured with the town; in ‘Without Prejudice’, his regular  column for the _Pall Mall Magazine_, he jocosely repeated a story going round the clubs in 1893 that an ill-starred [Henry James](/19c/19c-jamesh-hever-castle) had gone there to find some ‘peace’.[^ref3]  He was still less impressed by neighbouring [Margate](/19c/19c-margate):
 <br><br>
 'Stand on [Margate](/19c/19c-margate) Parade and look seaward, and the main impression is Beecham’s Pills. Sail towards Margate Pier and look landward, and the main impression is Jeyes’ Disinfectant Powder.'[^ref4]  
 <param ve-image url="https://stor.artstor.org/stor/13b9cf96-8fcb-4df0-8491-9049ae7450fc" label="Margate Parade c. 180" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin.">
-<param ve-map center="Q618045" zoom="12.5">
+<param ve-map center="Q2779399" zoom="12">
 
 Zangwill memorably observed that 'in [Margate](/19c/19c-margate) and [Deal](/seascape/deal) the machines are of either sex, and the gentlemen are clad in coloured pocket-handkerchiefs'. He was however taken with [Broadstairs](/dickens/broadstairs-19th-century), ‘where [Dickens](/dickens/dickens-biography) might still look from [Bleak House](/dickens/dickens-fort-house) on as dainty a scene as in the days when he lounged on the dear old, black, weather-beaten pier.’[^ref5]  Zangwill was there in July 1893 when a mysterious delivery of dynamite to a summer visitor, one Mr Richards, caused the death of the man and injured the builder constructing his new house.[^ref6]  In true Dickensian style, Zangwill’s account of this incident positions the writer as honorary local (completely ignoring the fate of the hapless Mr Richards), ‘We were very proud of the Mystery, we of Broadstairs, and of the space we filled in the papers.’[^ref7] In [Folkestone](/19c/19c-folkestone), which had proved too 'genteel' for [Jerome K. Jerome](/19c/19c-jerome-biography) when he visited with [Robert Barr](/19c/19c-barr-biography),‘the machine-people are dreadfully set against ladies and gentlemen using the same water, promiscuous bathing flourishes more nakedly than anywhere on the Continent; and the gentlemen have neither tents nor costumes.’[^ref8]
 <param ve-image url="https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e" label="Beach and View showing Bleak House, Broadstairs" attribution="Kent Maps Online">

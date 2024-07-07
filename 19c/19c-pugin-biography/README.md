@@ -7,7 +7,7 @@
 <param ve-entity eid="Q1011096" aliases="Deal">
 
 <!-- Base map centred on Ramsgate -->
-<!-- param ve-map center="Q736439" zoom="11" -->
+<param ve-map center="Q736439" zoom="12">
 
 <!-- Base map centred on Goodnestone -->
 <!-- param ve-map center="Q2195317" zoom="10.75" -->
