@@ -1,7 +1,21 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Augustus Welby Pugin (1812 –1852)" author="Cat Blaker" layout="vtl" banner="https://stor.artstor.org/stor/695329b9-cc27-4fe0-8e52-ebb5f65fc00c">
+<param ve-config title="Augustus Welby Pugin (1812 –1852)" author="Cat Blaker" layout="vtl" banner="https://stor.artstor.org/stor/695329b9-cc27-4fe0-8e52-ebb5f65fc00c" description="In this visual essay, Cat Blaker introduces the Ramsgate architecture and design of gothic revivalist, Augustus Pugin.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q5331558" aliases="Ebbsfleet">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q1011096" aliases="Deal">
+
+<!-- Base map centred on Ramsgate -->
+<param ve-map center="Q736439" zoom="12">
+
+<!-- Base map centred on Goodnestone -->
+<!-- param ve-map center="Q2195317" zoom="10.75" -->
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
+
+#
 
 Augustus Welby Pugin, the charismatic leader and promoter of the Gothic Revival, best known to the public for his work on the interiors of the new Palace of Westminster, was one of the most important architects of the nineteenth century. The key reviver of the arts of the Middle Ages, he was not only an architect but also a consummate designer of furniture, wallpaper, fabrics, encaustic tiles and stained glass. Further, he was a powerful propagandist as a writer, as witnessed for example in his _Contrasts_ (1836) and _The True Principles of Pointed or Christian Art_ (1841). His output both as an architect and designer was huge. His bold insistence on his True Principles – fitness of style and materials to site, revealed and honest construction, and the concept of form following function, made him immensely influential. For Pugin, these principles were best shown in the pre-Reformation Gothic architecture and design of the Middle Ages, and he inspired many other nineteenth-century architects, as for example George Gilbert Scott, George Edmund Street, and [William Burges](/19c/19c-burges-biography), to work in the Gothic style. His principles, in a more general sense, could however also be said to have a wider application.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Augustus_Pugin_-_Interior_of_a_Gothic_Church_-_B1977.14.20633_-_Yale_Center_for_British_Art.jpg" label="Interior of a Gothic Church" attribution="Augustus Pugin, Yale Center for British Art, CC0, via Wikimedia Commons">

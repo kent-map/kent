@@ -1,14 +1,22 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Sandgate" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="Sandgate" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Described in the 19th Century as the 'authors haven of repose, Michelle Crowther details the unassuming literary centre of Sandgate, Kent.">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q967166" aliases="Hythe"> 
 <param ve-entity eid="Q16900107" aliases="Shorncliffe">
 
+<!-- Base map centred on Sandgate -->
+<param ve-map center="Q1000312" zoom="11">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
+
 #
 
 Sandgate, a coastal village near the outskirts of Folkestone, has been hailed as the 'author's haven of repose' and can claim association with several well-known authors.[^ref1] 
 <param ve-image url="https://stor.artstor.org/stor/04780929-4966-4142-b325-12a69d7ab094" label="English's Guide to Folkestone, Sandgate, Hythe">
+<!-- Base map centred on Sandgate -->
+<param ve-map center="Q1000312" zoom="11.5">
 
 Ann Thicknesse (1737-1824) author of _Sketches of the Lives and Writings of the Ladies of France_ which she "Addressed to Mrs [Elizabeth Carter](/18c/18c-carter-biography) moved to Sandgate in 1789 where she enjoyed a house with a sea view.
 <br><br>
@@ -21,7 +29,7 @@ Fanny Burney (1752–1840) visited the town in 1813 and “avoided going to the 
 
 Anna Sewell, the author of _Black Beauty_ came on holiday to Sandgate as a child and visited neighbouring Folkestone where she saw the Blue Clay fossils.[^ref4]
 <br><br>
-[Sarah Grand](/19c/19c-grand-biography), writer, feminist campaigner and proponent of sex education for girls, lived happily at Sandate after her marriage to David Chambers McFall. McFall, an army surgeon, was stationed at Shorncliffe Barracks in the Spring of 1871. It was here that Sarah "concentrated on the host of new experiences in her life" and gave birth to her only son on the 7 October 1871.[^ref5]
+[Sarah Grand](/19c/19c-grand-biography), writer, feminist campaigner and proponent of sex education for girls, lived happily at Sandgate after her marriage to David Chambers McFall. McFall, an army surgeon, was stationed at Shorncliffe Barracks in the Spring of 1871. It was here that Sarah "concentrated on the host of new experiences in her life" and gave birth to her only son on the 7 October 1871.[^ref5]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Sarah_Grand_profile.jpg" label="Sarah Grand by Hayman Seleg Mendelssohn" attribution="Public domain, via Wikimedia Commons">
 
 The journalist and author, [George Augustus Sala](/19c/19c-sala-biography) visited Kent in September 1886 and was particularly taken with Sandgate, he wrote: “My favourite excursion by fly is to Sandgate, because there I found a pretty, smiling, friendly hotel called the “Royal Kent” with a green garden, stretching down to the sea. The “Nobs” had discovered the prettiness and geniality of the “Royal Kent” and had taken possession of it so that I could not obtain rooms there, but I shall call occasionally to take tea in the garden and contemplate the upper classes from a respectable distance.”[^ref6]  
@@ -46,7 +54,7 @@ Not long after this, [H.G. Wells](https://kent-maps.online/20c/20c-wellshg-biogr
 
 Bithia Croker, writer of military life in India, lived at 10, Radnor Cliffe, not far from Wells and set her novel [Miss Balmaine’s Past]( https://kent-maps.online/19c/19c-croker-missbalmaine/) in the nearby Romney Marshes and the playwright Henry Hamilton lived at The Haven until his death on 4 September 1918. He sang his ‘world-famous’ song “Tommy Atkins” from the musical play 'A Gaiety Girl' at Hythe Town Hall in February 1900.[^ref11] 
 <br><br>
-Author [Jocelyn Brooke](/20c/20c-brooke-biography) who was born in Sandate in 1908 describes Radnor Cliff and the  wildflowers along the Lower Road in _The Orchid Trilogy_.
+Author [Jocelyn Brooke](/20c/20c-brooke-biography) who was born in Sandgate in 1908 describes Radnor Cliff and the  wildflowers along the Lower Road in _The Orchid Trilogy_.
 <br><br>
 The Chaplain of Eversley School, Sandgate, [John Ferguson](/20c/20c-ferguson-biography/) wrote _Campbell of Kilmhor_ (1915), _Stealthy Terror_ (1918), _The King of Morven_ (1922), _The Secret Road_ (1925), _The Man in the Dark_ (1928) and _Murder on the Marsh_ (1930) whilst working at the school.
 <param ve-image url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" label="Home of Bithia Croker" attribution="Photographed by Martin Crowther">

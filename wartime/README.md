@@ -7,7 +7,7 @@ On the frontline of England's defence, Kent played a pivitol role in both the Fi
 
 ## Spanish Armada
 
-[Spanish Armada](16c-spanish-armada)
+[Spanish Armada](/16c/16c-spanish-armada)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
 
@@ -15,7 +15,7 @@ With invasion threatening, Kent mobilised its forces, but did it leave the coast
 
 ## Plum Pudding Riots
 
-[Plum Pudding Riots](17c-plum-pudding-riots)
+[Plum Pudding Riots](/17c/17c-plum-pudding-riots)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Plum_Pudding_Riots.jpg)
 
@@ -23,7 +23,7 @@ A riotous time in Canterbury on Christmas Day, 1647.
 
 ## Sheppey at War
 
-[Sheppey at War](17c-sheppey-at-war)
+[Sheppey at War](/17c/17c-sheppey-at-war)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/17c_Sheppey_at_War.jpg)
 
