@@ -26,7 +26,7 @@
 #
 
 On the 18th of July in 1804, in the seaside town of [Ramsgate](/19c/19c-ramsgate/), Mr Nicholas Coxen and Elizabeth Coxen (nee Tomkins) welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and three brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were "firmly middle class" through "links to the military" and we can imagine that she lived a typical life fitting for the era [^1]. The sons pursued careers as scientists or military personnel, whilst Elizabeth studied subjects that were typical for women of her class and age, including languages, music, and art [^2]. In spite of her relatively ordinary upbringing, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
-<param ve-map title="Birth place of Elizabeth Gould" center="Q736439" zoom="12" prefer-geojson show-labels>
+<param ve-map title="Birth place of Elizabeth Gould" center="Q736439" zoom="12" show-labels>
 <!-- Base map centred on Ramsgate -->
 <param ve-map center="Q736439" zoom="11">
 
