@@ -1,6 +1,17 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Jane Austen" author="Susan Civale" layout="vtl" 
-banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc">
+banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc" description="Susan Civale discusses the many family visits to Kent of famous English novelist Jane Austen and how these might be reflected in her writing.">
+
+<!-- Global Entities -->
+<param ve-entity eid="Q29303" title="Canterbury">
+<param ve-entity eid="Q736439" title="Ramsgate">
+<param ve-entity eid="Q939838" title="Sevenoaks">
+
+<!-- Base map centred on Canterbury -->
+<!-- param ve-map center="Q29303" zoom="10" -->
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="3cec6f180298eeb9" title="Mudge 1801">
 
 #
 
@@ -9,16 +20,25 @@ banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc">
 ‘Are you pleased with Kent?’   
 _Pride and Prejudice_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/CassandraAusten-JaneAusten%28c.1810%29_intensified.jpg" label="Jane Austen" attribution="Cassandra Austen (1773-1845), digitally processed by Amano1, Public domain, via Wikimedia Commons">
+<!-- Base map centred on Boughton Malherbe -->
+<param ve-map center="Q2161900" zoom="9.5">
+<param ve-entity eid="Q725261" title="Ashford">
+<param ve-entity eid="Q1004824" title="Chilham">
+<param ve-entity eid="Q858775" title="Dartford">
+<param ve-entity eid="Q936183" title="Tonbridge">
+<param ve-entity eid="Q665489" title="Tunbridge Wells">
+<param ve-entity eid="Q26324024" aliases="Rowling House">
+<param ve-entity eid="Q17529295" title="Godmersham Park">
 
 One of the greatest English novelists of all time, Jane Austen visited Kent regularly to see her brother, Edward Austen Knight, who lived first at Rowling House, near Goodnestone, where Austen stayed in 1794 and 1796, and later at the magnificent [Godmersham Park](/austen/austen-godmersham), where Austen visited six times between 1798 and 1813.  During or shortly after her visit to Rowling in 1796, Austen began writing ‘First Impressions’, the story which was later published as _Pride and Prejudice_ in 1813.  The novel may reflect, in the figure of Lady Catherine De Bourgh, for example, some of the class snobbery Austen witnessed in mixing with what she termed “East Kent wealth”. 
 <param ve-image url="https://stor.artstor.org/stor/16f50fe5-af80-4d10-a5f4-9820d3e7c63c" label="Back view of Godmersham Park" attribution="Martin Crowther">
-<param ve-map primary center="Q17529295" zoom="10">
-<param ve-entity eid="Q26324024">
-<param ve-entity eid="Q17529295" aliases="Godmersham Park">
+<param ve-map primary center="Q29303" zoom="11">
+<param ve-entity eid="Q26324024" aliases="Rowling House">
+<param ve-entity eid="Q17529295" title="Godmersham Park">
 
 During her extended stays with her brother, Austen enjoyed frequent trips to [Canterbury](/austen/austen/-canterbury) as well as occasional outings to Ashford, Eastwell Manor, and [Ramsgate](/austen/austen-ramsgate).  She often travelled into Kent via Dartford, where she and her family dined and lodged at the now-demolished Bull and George.  Her first experience of Kent, however, took place in 1788 on a visit to her great uncle Francis Austen in [Sevenoaks](/austen/austen-sevenoaks).  At a grand meal he hosted at his stately Red House, Austen met the wealthiest branch of her family and, likely, drew inspiration for the dinner party at Grants’ rectory in _Mansfield Park_ (1814).[^ref1] (ODNB).  Visits to her brother also offered Austen access to his library, which comprised over 1200 books, among them biographical, historical, and religious writings, periodicals, dictionaries, and maps, as well as the latest novels of the day.[^ref2] 
 <param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/7/77/Eastwell_Manor_Hotel%2C_Boughton_Lees_-_geograph.org.uk_-_129089.jpg" label="Eastwell Manor Hotel, Boughton Lees - geograph.org.uk" attribution="Penny Mayes / Eastwell Manor Hotel, Boughton Lees" license="CC BY-SA 2.0">
-<param ve-map primary center="Q2540442" zoom="10">
+<param ve-map primary center="Q2161900" zoom="9.5">
 <param ve-entity eid="Q725261" aliases="Ashford">
 <param ve-entity eid="Q2540442" aliases="Eastwell Manor">
 <param ve-entity eid="Q17545495" aliases="Red House">

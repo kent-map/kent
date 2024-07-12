@@ -1,9 +1,15 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
 <param ve-config title="John Brent (1808-1882)" author="Professor Carolyn Oulton" layout="vtl" 
-banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10.5">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="d645df6b2e36d6f3" title="Kent OS 1863">
 
 #
 
