@@ -1,12 +1,22 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 <param ve-config title="F. F. Montrésor (1862-1934)" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q2551894" aliases="Walmer">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q26621114" aliases="Denne Hill">
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q2784912" aliases="River">
 <param ve-entity eid="Q950970" aliases="Dover Castle">
+
+<!-- Base map centred on Canterbury -->
+<!-- param ve-map center="Q29303" zoom="10" -->
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
+
+#
 
 Romance novelist Frances Frederica (Freda) Montrésor was born at Walmer on 23 September 1862. Freda was the fourth daughter of Commodore Frederick Byng Montrésor and Emily Maria Montrésor (née Delafield) who lived first at <span data-mouseover-image-zoomto="411,989,433,171"> Glen Hill</span> (The Glen) and later <span data-mouseover-image-zoomto="243,535,961,342">The Lawn</span>, Upper Walmer. Her father was Commander in Chief of the East Indies & Cape of Good Hope Station and later rose to the rank of Admiral. He retired in 1870 and his memoirs _Leaves from Memory’s Log Book...'_ were published on his death in 1887. Her mother was related to Matthew Arnold, whose poem 'Dover Beach' was published in 1867. The Montrésors were considerably wealthy and owned a property in Gloucester Square, Kensington, only spending part of their year in Kent.  
 <param ve-image url="https://stor.artstor.org/stor/09984bd4-0c72-4c5b-b55b-26fb8112debd" label="Upper Walmer" attribution="Ward Lock's Dover and South East Kent, c.1920s">
@@ -15,17 +25,21 @@ Freda’s first novel _Into the Highways and Hedges_ was published in February 1
 <br><br>
 In the novel, Meg’s widower father relies on his sister Aunt Russelthorpe, whose own marriage had not been blessed with children, to look after his nieces. The story has echoes of Freda’s mother’s life as Aunt Russelthorpe lives in Bryanston Square, London, where Emily Delafield also lived until the death of her father. 
 <param ve-image url="https://www.gutenberg.org/cache/epub/40594/images/cover.jpg" label="Into the Highways and Hedges" attribution="Project Gutenberg">
+<param ve-map center="Q179224" zoom="12">
 
 The story begins when the Deane family come down from London to their home in Kent to begin preparations for Meg’s sisters Laura and Kate’s joint wedding. Meg is thrown more and more into the company of Aunt Russelthorpe, who is staying with them, and one day her aunt suggests that they call on a friend in [Dover](/19c/19c-dover). The two women walk along the 'white Dover road'[^ref1] on a blazing hot July day, a journey which would take several hours from Denne Hill, but from the fictional Ravenshill is considerably closer. 
 <br><br>
 When they arrive, Meg, who is offered red and white wine to revive herself after the long walk, begins to feel giddy. Her hostess, seeing her discomfort, suggests that she get some fresh air on the beach where: 'A fresh wind crisped the surface of the water, so that it was covered with curly white flecks, and it was hard to tell which was bluest, sea or sky. Meg's eyes ached with sunshine; but it refreshed and exhilarated her, and so did the salt breeze that tossed against her cheek.'[^ref2]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/The_Argosy_%281865%29_%2814777372625%29.jpg" label="The Argosy, 1865" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
+<param ve-map center="Q179224" zoom="12">
 
 [Dover](/19c/19c-dover) beach is portrayed as a place of adventure but also danger. It is crowded with nursery-maids and children, Punch and Judy shows, minstrels, men selling indigestible gooseberries, beggars and women with false lace. As Meg takes in her surroundings, her attention is drawn to a preacher who is holding a revival meeting on the beach and she finds herself interested in his words, but when Barnabas Thorpe speaks to her: 'The claptrappy tune, the overdone emphasis, the vulgar intonation distressed her; she was ashamed of the feeling, but could not help it; she turned to walk away.[^ref3] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/David_Cox_-_Dover_-_Google_Art_Project.jpg" label="Dover, 1832" attribution="David Cox, Public domain, via Wikimedia Commons">
+<param ve-map center="Q179224" zoom="12">
 
 Freda Montrésor was probably inspired by her childhood visits to [Dover](/19c/19c-dover), where her mother’s aunt, Frances Rennell, who looked after Emily and her sisters after the death of her father, lived until her death in 1874. Mrs Rennell’s house at 17, East Cliff would have been a short distance to the beach. It is possible also that Freda would have listened to stories told by her mother and her great aunt about the beach preachers who frequented [Dover](/19c/19c-dover), such as Charles Smith and Harrison Ord, who were arrested for standing on a chair outside 1, Waterloo Crescent and causing a nuisance in 1866. Ord was a Middlesbrough-born Brethren preacher who was led away from [Dover](/19c/19c-dover) beach by police officers as 'the crowd numbering some 3,000 people commenced hooting and hurrahing in a disgraceful manner'.[^ref4] Ord sang all the way to the police station and made the work of the constable who was escorting him very difficult. Frances Rennell as the widow of the Dean of Winchester would no doubt have heard about the rumpus on the seafront from friends even if she did not witness it. Freda’s fictional Barnabas Thorpe is described as a 'narrowly strong preacher, with his northern burr, his gesticulations, his intense conviction'.[^ref5]
 <param ve-image url="https://stor.artstor.org/stor/ad086f8b-71a6-4ead-bb12-0de1350c3050" label="East Cliff, Dover" attribution="Ward Lock Dover and South East Kent c. 1920s">
+<param ve-map center="Q179224" zoom="12">
 
 Meg Deane finds that she cannot shake off the words of the preacher, and when she attends the ball at Ravenshill that evening in her gold and white dress and pearls, she feels uncomfortable: 'something had occurred to change the current of her thoughts, she might be arrayed in sackcloth now for all she cared'.[^ref6] Her aunt is less than impressed when she finds out about Meg’s adventures on the beach and complains that: 'She is unstable as water. One can never depend on her in the least. Where do you think I found her this afternoon? Just emerging from a vulgar crowd on Dover sands, where she had been staring at a singing minstrel or a play-actor or a buffoon of some kind! She came in with her head full of nothing else, and wanted to tease her father into going back with her to listen too.'[^ref7]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/53/After_the_Ball_MET_DT12025.jpg" label="After the ball, 1874" attribution="Alfred Stevens, CC0, via Wikimedia Commons">
@@ -43,6 +57,7 @@ Meg’s aunt is equally horrified when she hears of her niece’s adventures and
 
 As her aunt leaves for the ball in her carriage, Meg sets off at 8 o’clock in the evening on a 'long lonely walk' to take a letter she has written to her father to the [Dover](/19c/19c-dover) post office: 'The sky still glowed behind Dover Castle, though the sun had disappeared; there was hardly a breath of wind to stir the short crisp grass, the broad downs lay still and peaceful in the gathering dusk: Meg was the only human being to be seen, but the little brown rabbits scurried by, and peeped at her from a safe distance, making her smile in spite of her sadness. She was as easily moved to smiles as she was to sighs.'[^ref12] Her journey along the cliffs, with the sun setting behind the castle places Ravenshill on a path north-east of [Dover](/19c/19c-dover), near Fox Hill Down, Langdon. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/George_Chambers_%281803-40%29_-_A_View_of_Dover_-_RCIN_405276_-_Royal_Collection.jpg" label="A view of Dover, 1832" attribution="George Chambers, Public domain, via Wikimedia Commons">
+<param ve-map center="Q179224" zoom="12">
 
 The story continues: 'It had been a hot summer, and there were ominous cracks across the footway, which had been deserted of late. Meg, who was Kentish born, ought to have known what those fissures and gaps meant. Perhaps the rabbits would have warned her if they could; for one of them loosened a morsel of chalk as he leaped, which bounded and rebounded down the side of the cliff.'[^ref13] A thunderstorm earlier in the day had dislodged some of the chalk. Freda may have remembered similar cliff falls from her childhood such as the one at East Cliff on the 17 November 1872 when a large quantity of chalk fell after heavy rains almost burying two houses.[^ref14] 
 <param ve-image url="https://stor.artstor.org/stor/fcb72443-ea1e-4e50-a111-4fbb456a89f5" label="Dover, 1844" attribution="Fullarton, by kind permission of Marrin Books">

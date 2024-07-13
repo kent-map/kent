@@ -9,7 +9,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg" 
 **Place:** Canterbury
 Bi-weekly (then weekly) provincial newspaper, circulating in Kent and the surrounding counties. Founded in 1768, merged with the Kentish Post (founded in 1717), remains in print.
 <br><br>
-‘The Intelligence inserted in this Paper will be of the latest date, and selected from the most approved News Papers of London and other Parts of the Kingdom… I have the pleasing Prospect of some valuable Correspondents by whom, with some approved Extracts from the best Authors, Accounts of New Books, Pamphlets, Poetry, &c. I hope to render it not only valuable but entertaining ; that, biased to no Party, and under no Influence whatever, it shall be open to the favours of every corresponding Friend’.
+‘The Intelligence inserted in this Paper will be of the latest date, and selected from the most approved News Papers of London and other Parts of the Kingdom… I have the pleasing Prospect of some valuable Correspondents by whom, with some approved Extracts from the best Authors, Accounts of New Books, Pamphlets, Poetry, &c. I hope to render it not only valuable but entertaining; that, biased to no Party, and under no Influence whatever, it shall be open to the favours of every corresponding Friend’.
 _James Simmons, Inaugural Editorial, May 1768._
 <param ve-image url="https://stor.artstor.org/stor/45c339b3-6234-4096-827e-8cce6681e0fe" label="Kentish Gazette" attribution="© Martin Crowther">
 

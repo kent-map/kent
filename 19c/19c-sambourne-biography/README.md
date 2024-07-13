@@ -61,6 +61,7 @@ This article was published: 5 March 2022.
 <!-- Base map centered Ramsgate -->
 <param ve-map center="Q736439" zoom="13">
 
+
 ### References
 
 [^ref1]: "Where's Ramsgate?" Punch, or the London Charivari, vol. XCIV, 11 Feb. 1888, p. 70. Nineteenth Century UK Periodicals, link.gale.com/apps/doc/DX1901933694/NCUK?u=ccc_uni&sid=bookmark-NCUK&xid=e7b764c4. Accessed 13 July 2021.  
