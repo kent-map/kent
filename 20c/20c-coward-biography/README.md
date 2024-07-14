@@ -36,7 +36,7 @@ Goldenhurst Farm was requisitioned by the army and at the end of the war, Coward
 <!-- Base map centred on St. Margaret’s -->
 <param ve-map center="Q24638363" zoom="14">
 
-His friendship with [Ian Fleming](/20c/20c-fleming-biography) began when Coward started leasing Fleming’s Jamaican residence, Goldeneye, in 1948; they instantly became friends and great deal of time together in the following years. Coward built a place for himself in the Caribbean and would spend many happy years frequenting his foreign estate, Firefly; he would never again reside in his native country. Coward would be knighted in the 1970 New Year’s Honours List and began his retirement at his home in Jamaica. In 1973, Sir Noël Peirce Coward passed away peacefully at Firefly and is buried on Firefly Hill.
+His friendship with [Ian Fleming](/20c/20c-fleming-biography) began when Coward started leasing Fleming’s Jamaican residence, Goldeneye, in 1948; they instantly became friends and spent a great deal of time together in the following years. Coward built a place for himself in the Caribbean and would spend many happy years frequenting his foreign estate, Firefly; he would never again reside in his native country. Coward would be knighted in the 1970 New Year’s Honours List and began his retirement at his home in Jamaica. In 1973, Sir Noël Peirce Coward passed away peacefully at Firefly and is buried on Firefly Hill.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ee/Ian-Fleming-bronze-bust-by-sculptor-Anthony-Smith.jpg" label="Ian Fleming bronze bust by Anthony Smith" attribution="Fortheloveofknowledge, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 ### Works Cited
