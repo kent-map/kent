@@ -20,7 +20,6 @@ and the artist Claire “Tony” Atwood.
 Because Edy eschewed fame and publicity for herself – Katharine Cockin writes that she ‘inadvertently contributed to the greater efficiency of rendering herself hidden from history’  – preferring to focus on her work, her brother, Edward Gordon Craig, now has the larger reputation as a theatrical innovator. However, in 1896 George Bernard Shaw assessed the two: ‘Gordon Craig has made himself the most famous producer in Europe by dint of never producing anything, while Edith Craig remains the most obscure by dint of producing everything’.  Due to the work of recent scholars, Edith Craig's reputation has grown and she is now recognised as one of the key creative forces in British theatre in the early 20th century.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/George_Bernard_Shaw_1909.jpg" label="George Bernard Shaw, 1909" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
-
 Edy created a shrine to her mother at Smallhythe Place, turning the home [Ellen Terry](/20c/20c-terry-biography) once owned into a museum celebrating her mother’s life (now part of the National Trust). 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Smallhythe_Place_2_%284907965156%29.jpg" label="Smallhythe Place, Museum" attribution=" Tony Hisgett from Birmingham, UK, CC BY 2.0, via Wikimedia Commons">
 <param ve-map center="Q7543679" zoom="10">
