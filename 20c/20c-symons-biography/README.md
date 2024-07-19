@@ -1,59 +1,82 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Julian Symons (1912-1994)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/Hafen_von_Folkestone.JPG" description="Julian Symons was a poet and a prolific author of both history and crime fiction.">
 
-<param ve-map center="Q866348" zoom="10">
-
+<!-- Global Entities -->
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q7416410" aliases="Sandling">
 <param ve-entity eid="Q5646437" aliases="Ham Street">
 <param ve-entity eid="Q2551894" aliases="Walmer">
 <param ve-entity eid="Q6390913" aliases="Kennington">
 <param ve-entity eid="Q1836548" aliases="Barham">
+<param ve-entity eid="Q911577" aliases="Dungeness">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+<param ve-entity eid="Q640951" aliases="Lydd-on-Sea">
+<param ve-entity eid="Q2796278" aliases="Dymchurch">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q5601499" aliases="Greatstone-on-Sea">
+<param ve-entity eid="Q181071" aliases="New Romney">
+
+<!-- Base map centred on Bishopsbourne -->
+<!-- param ve-map center="Q866348" zoom="10" -->
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="5aa3ce47b380271b" title="Kent Road Map">
+<param ve-map-layer active allmaps allmaps-id="6810391d199af2d1" title="Kent Admin Boundaries 1967">
+
+#
 
 ‘But to come back to Folkestone. I loved the little zig-zag paths that went down to the lower level from which one might approach the sea, the water-drawn lift cage in which for twopence (it costs more now) one might go down or of course up, for the cars work in couples, to the deliciously ugly red brick Victorian lifthouse, the small shops around the harbour and the harbour itself, the rows of solid hotels that stand back from the front’ 
 _The Belting Inheritance_ (1965)[^ref1]
 <br><br>
 Julian Symons was a poet and a prolific author of both history and crime fiction. [Martin Edwards](/21c/21c-edwards-sepulchre-street) notes that when he was elected to the Detection Club in 1951 ‘on the strength of a handful of promising books, long before he became a master of the crime novel', he was also the first Jewish member.[^ref2]  He went on to become President in 1976 and also became President of the [Conan Doyle](/19c/19c-conan-doyle) Society in 1979. Like other writers before and since, he was drawn to the imaginative possibilities of [Romney Marsh](/landscape/romney-writers). A late novel, _The Kentish Manor Murders_, imagines a ‘lost’ Sherlock Holmes manuscript including ‘smuggling activities by local fishermen, a body washed up by the tide near Dungeness’ and a dash across the Channel.[^ref3] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Folkestone%2C_Leas_Cliff_Funicular_railway%2C_tracks_and_lifts.jpg/1280px-Folkestone%2C_Leas_Cliff_Funicular_railway%2C_tracks_and_lifts.jpg" label="Leas Cliff, Funicular Railway" attribution="Paul Bissegger, via Wikimedia Commons" license="CC BY-SA 4.0">
-<param ve-map center="Q375314" zoom="12">
+<param ve-map center="Q375314" zoom="13">
+<param ve-map center="Q911577" zoom="13">
 
 Like Holmes, Symons spent much of his life in London. But he enjoyed time in Kent as early as 1938, when he spent a formative holiday with the poet Roy Fuller and his wife. They initially considered St Margaret’s Bay, before opting for the area of Romney Marsh.[^ref4] The journey started at the Fullers’ home in Kennington near Ashford, from where the party took a train to Sandling to connect with the Romney, Hythe and Dymchurch railway to St Mary’s Bay.[^ref5]  Here they spent a fortnight in a bungalow, where they ‘read poetry aloud, talked about current poetry and poets, argued about politics, discussed cricket prospects, played a sort of tennis quoits in the garden’ until ‘At the end of two weeks we had all run out of money.’[^ref6]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/St_Mary%27s_Bay%2C_Dec_2020_01.jpg" label="St Mary's Bay" attribution="Poliphilo, via Wikimedia Commons" attribution="CC0">
+<param ve-map center="Q1506093" zoom="12">
 <param ve-map center="Q7416410" zoom="12">
 
-This experience probably influenced the backdrop of _The Paper Chase_ (1956), in which gangster and former MP Johnny Bogue makes his headquarters in Bramley Hall in an isolated area of [Romney Marsh](/placesqz/romney-overview) before WW2. Symons had been conscripted in 1942 after his request for exemption on conscientious grounds had been refused. As his protagonist Charles Applegate investigates the mystery surrounding Bogue, his encounters with the veterans who knew him reveal that they all have an ambivalent past. Between 1950 and 1955 Symons had been living with his wife at Corner Cottage, Badlesmere Lees[^ref7]  (their second child was born in the Kent and Canterbury hospital),[^ref8] but like other writers before him he realised that the setting of [Romney Marsh](/landscape/romney-writers) is particularly evocative. 
+This experience probably influenced the backdrop of _The Paper Chase_ (1956), in which gangster and former MP Johnny Bogue makes his headquarters in Bramley Hall in an isolated area of [Romney Marsh](/placesqz/romney-overview) before WW2. Symons had been conscripted in 1942 after his request for exemption on conscientious grounds had been refused. As his protagonist Charles Applegate investigates the mystery surrounding Bogue, his encounters with the veterans who knew him reveal that they all have an ambivalent past. Between 1950 and 1955 Symons had been living with his wife at Corner Cottage, Badlesmere Lees[^ref7]  (their second child was born in the Kent and Canterbury hospital),[^ref8] but like other writers before him he realised that the setting of [Romney Marsh](/landscape/romney-writers) is particularly evocative.
+<param ve-map center="Q1506093" zoom="12">
+<param ve-map center="Q301744" zoom="12">
 
 The action of _The Paper Chase_ is set in the mid-1940s, by which time attempts had been made to build new communities along the coast through the creation of the new town Lydd-on-Sea and the rerouting of the branch line from Ashford. When Applegate gets the train from Ashford to Romney Marsh[^ref9]  he therefore  goes via Ham Street, Brookland and Lydd-on-Sea (which he mistakenly refers to as Lydd).[^ref10]  His destination Bramley Hall is in Greatstone-on-Sea (the Bramley of the novel).[^ref11]  Set pieces include picturesque if reckless drives between here and New Romney (Murdstone),[^ref12]  where Applegate and his friends fight a battle of wits at the Grand Marine Hotel (possibly the Dormy House Hotel). The novel presents a town in flux and perhaps slightly unsure of itself:
 <br><br>
 'a long avenue of pines which ended abruptly in a narrow street full of glossy-fronted, neon-lighted shops. … From the High Street they emerged into a decaying square. Through a gap slate-grey sea could be glimpsed.’[^ref13]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c7/Romney_Sands%2C_Greatstone_on_Sea_-_geograph.org.uk_-_445370.jpg" label="Romney Sands, Greatsone on Sea" attribution="Simon Carey" license="CC BY-SA 2.0">
-<param ve-map center="Q866348" zoom="12">
+<!-- Base map centered on Lydd-on-Sea -->
+<param ve-map center="Q640951" zoom="12">
 
 By this time Symons and his family had moved back to London, but they came back in 1963[^ref14]  to take up residence at Barling House, Brookland, in [Romney Marsh](/placesqz/romney-overview).
 <br><br>
 His own literary interests can glimpsed in the nod to [Dickens](/dickens). [David Copperfield](/dickens/david-copperfield-curated-walk) of course makes his way to [Dover](/19c/19c-dover/) a few miles along the coast, where he will successfully plead with his aunt to rescue him from the guardianship of Mr Murdstone. Symons had published a book on [Dickens](/dickens) in 1951; as a guest on Desert Island Discs many years later he opted for [_Bleak House_](/dickens/bleak-house-deal) as his island book.
 <param ve-image url="https://stor.artstor.org/stor/6571a7bd-b4ea-4cdc-b6f6-fe54cef2a745" label="Julian with his family at Barling House" attribution="By kind permission of Christine Symons">
+<!-- Base map centered on Romney Marsh -->
+<param ve-map center="Q1506093" zoom="13">
+<param ve-map center="Q179224" zoom="12">
 
 _The Belting Inheritance_ (1965) also speaks to the complexities of the past. The narrator tells the story of his informal adoption some years after the war, by an ageing relative with an estate near Folkestone, ‘My immediate reaction as I looked at the forbidding spires of the Victorian Gothic front was that I was being taken to live in a church.’[^ref15]  When a letter arrives purporting to be from the woman’s adored son (believed to have been killed in action), the rest of the family are not convinced.
 <br><br>
 Symons once said that ‘My object in writing detective stories is to free myself from the rigours of an ordinary office job’.[^ref16]  They continue to fulfil this role. But like the best of [Wilkie Collins](/19c/19c-collins-biography), these acutely perceptive novels also have the power to destabilise the reader, jolting us out of our complacency in unexpected ways.
 <param ve-image url="https://stor.artstor.org/stor/e90594b9-625d-405a-b920-59069f230d90" label="Julian at Barling House" attribution="By kind permission of Christine Symons">
-<param ve-map center="Q375314" zoom="12">
+<!-- Base map centered on Folkestone -->
+<param ve-map center="Q375314" zoom="13">
 
 This is particularly true of the 1980 _Sweet Adelaide_, based on the true story of the ['Pimlico Mystery'](/19c/19c-bartlett-biography) and set partly in 1880s [Dover](/19c/19c-dover).
+<param ve-map center="Q179224" zoom="13">
 
 Despite using it as a setting for several of his novels, Symons was apparently unable to settle in Romney Marsh, heading back to London and later the United States just six years after moving to Brookland.[^ref17]  But he and his wife moved down to Kent for a third and final time in 1980, to Groton House, 330 Dover Road, Walmer.  _The Detling Secret_, a neo-Victorian political thriller published in 1982, is partly set in a fictional village near Elham. The rail service from [Canterbury](/19c/19c-canterbury/) allows a mysterious American speculator to visit on Christmas Eve, before making his getaway from [Dover](/19c/19c-dover/) a few miles away. But a disgruntled Londoner who has married into a county family finds that 'getting there was by no means simple.' They first have to change trains at Harbledown Junction just outside [Canterbury](/19c/19c-canterbury/), boarding the Elham Valley Light Railway which ran for around 16 miles to Cheriton outside [Folkestone](/19c/19c-folkestone/). 'The carriages were old, the jolting was considerable'[^ref18] and they arrive to find that the only available cab has been taken to the other side of Rhodes Minnis. The house itself has no gas or running water, and a ride to Barham over fields the next day is vetoed by their cautious host, who fears that the horses will get stuck in the snow. In the same novel working class a witness are characterised by the throwaway comment that he is 'Where he always is when he's got a few quid in his pocket, taken his tart down to [Margate](/19c/19c-margate) to spend it.'
-<param ve-map center="5091980" zoom="12">
+<!-- Base map centered on Walmer -->
+<param ve-map center="Q2551894" zoom="13">
 
 The tension between those who love the country and those who prefer a London life has not aged in the half century since the book appeared. Having shuttled between Kent and London for over 40 years, Symons himself died at his home in Walmer in late 1994[^ref19] and was cremated at Barham crematorium.
 <br><br>
 With thanks to Christine Symons for information and images.
 <br><br>
 This article was published: 28 June 2023
-<param ve-map center="Q1836548" zoom="12">
+<!-- Base map centered on Barham -->
+<param ve-map center="Q1836548" zoom="13">
 
 ### Bibliography
 [Desert Island Discs 15 May 1982](https://www.bbc.co.uk/sounds/play/p009mkqf)  
