@@ -1,9 +1,16 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Nora Geraldine Gordon Salmon (pseud. J.G. Sarasin) (1897 – 1976)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg" attribution="Canterbury Tail at the English-language Wikipedia">
+<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<param ve-config title="Nora Geraldine Gordon Salmon (pseud. J.G. Sarasin) (1897 – 1976)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg" attribution="Canterbury Tail at the English-language Wikipedia" description="Michelle Crowther traces the life and work of historical fiction writer Nora Geraldine Gordon Salmon (pseudonym J.G. Sarasin).">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q5654535" aliases="Harbledown">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q28921788" aliases="Catherine Williamson">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
 #
 
@@ -19,6 +26,7 @@ During the 1920s, Minnie and Geraldine moved to The Grange, Harbledown; a large 
 Over the next thirteen years, Geraldine wrote at least one or two books every year, using the pseudonym J.G. Sarasin. These were published by Hutchinson’s who were keen to develop a portfolio of adventure and mystery writers. Her 1932 novel _Market of Women_ (1932), was set during the Thirty Years' War; one reviewer wrote: 'Miss Sarasin has not been influenced by popular tastes, the sentimental demand for a happy ending is uncompromisingly rejected.'[^ref5] Indeed Walter Hutchinson was prepared to take risks with his authors and in 1933 published [H.G. Wells](/20c/20c-wellshg-biography)’s controversial novel _The Bulpington of Blup_, which was inspired by the life of [Ford Madox Ford](/20c/20c-fordmadoxford-biography). In the following year, Hutchinson's published Geraldine's novel, _The Mystery of Martin Guerre_, based on the famous 16th century criminal trial in Languedoc. Today, Geraldine’s novel is largely forgotten and it is Janet Lewis’s novel _The Wife of Martin Guerre_ (1941) published seven years later, which is credited with inspiring the 1982 film 'The Return of Martin Guerre'.[^ref6]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/50/Martin_Guerre.jpg" label="Martin Guerre" attribution="Erogers148, CC BY-SA 4.0, via Wikimedia Commons">
 
+
 In 1939, a short hiatus in her output (she didn’t publish her next book until 1940) could be attributed to the disruption brought about by the start of the second world war, but also to the lack of stimulating reading material in the previous year.  She had written to the [Canterbury](/canterbury/20c-canterbury-home) library committee in 1938 complaining that she had been refused membership to the library for having a Harbledown address and that she was unable to buy all the books she needed. The [Folkestone Public Library](/19c/19c-folkestone-free-library) was too far to travel to and she appealed to the committee to allow her to borrow non-fiction material on payment of a subscription. Councillor Stone and the Mayor Catherine Williamson (Canterbury's first female mayor) granted her request, allowing her to borrow books free of charge, arguing that it was 'nice to have a lady of considerable literary distinction in their midst' and that 'the favour was with them in being associated with her'.[^ref7] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Beaney_Institute_003.jpg" label="The Beaney Institute" attribution="Storye book, CC BY 3.0, via Wikimedia Commons">
 
@@ -28,6 +36,7 @@ In 1953, Geraldine inherited The Grange after the death of her mother at the [Ca
 <br><br>
 This article was published: 19 February 2022.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Rupert_Gould.png" label="Rupert Thomas Gould, 1942" attribution="Anonymous, Unknown author, Public domain, via Wikimedia Commons">
+
 
 ### References
 
