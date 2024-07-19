@@ -1,6 +1,7 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Victorian Turkish baths" author="Malcolm Shifrin" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<param ve-config title="Victorian Turkish baths" author="Malcolm Shifrin" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Malcolm Shifrin discusses the introduction of Islamic inspired bath houses to England and Kent.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q179224" aliases="Dover">
@@ -9,12 +10,11 @@
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 <param ve-entity eid="Q23298" aliases="Kent">
 
-<param ve-map center="Q1094104" zoom="10">
+<!-- Base map centred on Canterbury -->
+<!-- param ve-map center="Q1094104" zoom="10" -->
 
 <!-- Historical map layers -->
-<param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860">
-<!-- <param mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860" ve-map-layer/> -->
-<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Ordnance Survey 1860">
+<param ve-map-layer active allmaps allmaps-id="9fdfcd0d2307e89c" title="Letts 1883">
 
 #
 
@@ -27,9 +27,8 @@ Barter discovered the Islamic hammams of Morocco and Turkey in a quirky travel b
 His first ‘improved’ Turkish bath, using relatively dry hot air, was available to his patients in 1856. The following year, Urquhart helped build the first such bath in Manchester. While Barter was responsible for its rapid spread throughout Ireland, Urquhart, concentrating more on the value of the bath as a cleansing agent to improve personal hygiene, was responsible for its spread throughout the rest of the United Kingdom, the Empire, and the United States.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/55/David_Urquhart_%281805-1877%29.jpg" label="David Urquhart" attribution="Unknown author, Public domain, via Wikimedia Commons">
 
-This is the bath which became known as the Victorian Turkish Bath. By 1860 —a period of less than five years—its exemplar was already considered to be ‘a type of bath in which the bather sweats freely in a room heated by hot dry air (or in a series of two or three such rooms maintain-ed at progressively higher temperatures), usually followed by a cold plunge, a full body wash and massage, and a final period of relaxation in a cooling-room.’[^ref1]  In Victorian Turkish baths, the body wash and massage, taken together, were known as shampooing.
+This is the bath which became known as the Victorian Turkish Bath. By 1860 —a period of less than five years—its exemplar was already considered to be ‘a type of bath in which the bather sweats freely in a room heated by hot dry air (or in a series of two or three such rooms maintained at progressively higher temperatures), usually followed by a cold plunge, a full body wash and massage, and a final period of relaxation in a cooling-room.’[^ref1]  In Victorian Turkish baths, the body wash and massage, taken together, were known as shampooing.
 <param ve-image url="https://iiif.wellcomecollection.org/image/L0005395/full/full/0/default.jpg" Label="Punch, or, the London Charivari" attribution="Credit: Wellcome Collection. Public Domain Mark" license="CC BY 4.0">
-<param ve-map center="Q23298" zoom="10">
 
 While simpler versions were soon to be found in the country and town houses of the wealthy, larger commercial ones were opened by companies, family businesses and individual proprietors. The 1846 Baths and Washhouses Act had allowed local authorities to build hot and cold slipper baths and uncovered swimming pools; several of these later had Turkish baths added. During the following 150 years many hundreds of Victorian, or Victorian style Turkish baths were opened in the British Isles, but in 2021 only twelve of these remain open.
 <param ve-image url="https://stor.artstor.org/stor/470cd2c9-931b-4036-9a67-66079d3f8925" label="Biggin Hall, site of the former Turkish baths, Dover" attribution="M.R. Shifrin">
@@ -42,18 +41,26 @@ The first Turkish bath we hear of in Kent was a private one in Bifrons Mansion H
 <br><br>
 A number of baths were proposed but never progressed any further. Between 1860 and 1863, for example, there was much campaigning in the local newspaper correspondence columns on the need for Turkish baths in Folkestone,[^ref4]  but to no avail.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/86/Jan_Wyck_-_Bifrons_Park%2C_Kent_-_Google_Art_Project.jpg" label="An early portrait of Bifrons Park, by Jan Wyck between 1695 and 1705">
+<!-- Base map centered on Patrixbourne -->
 <param ve-map center="Q7148079" zoom="12">
 
 More hopefully, in 1877, the [Dover](/19c/19c-dover) Harbour Board approved plans for baths designed by J T Anson for a Mr Adcock which were expected to open the following year, but the scheme fell through. The three-floor building, its frontage ‘style being ornamental Byzantine’, was to have included a swimming pool, slipper baths, Turkish bath, and a flat for the proprietor or manager.[^ref7]
 <br><br>
 The first Victorian Turkish bath in Kent successfully to open to the public was part of the Saline Spa designed by Edward Pugin, son of the more famous [Augustus Welby Pugin](/19c/19c-pugin-biography), as part of the Granville Hotel in [Ramsgate](/19c/19c-ramsgate).[^ref8]  This opened on 24 September 1870, was still open in 1938, and possibly even later.
 <param ve-image url="https://stor.artstor.org/stor/3c62d8de-ea92-4d3e-abcc-efc9d1b39728" label="Advertisement in The Globe for the Granville Hotel">
+<!-- Base map centered on Dover -->
+<param ve-map center="Q179224" zoom="12">
+<param ve-map center="Q736439" zoom="12">
 
 This was followed by baths in Tunbridge Wells (1875), Woolwich* (1876), [Folkestone](/19c/19c-folkestone/) (1895), Dover (1903), and two in Margate (1904 and 1927)
 All Kent’s Victorian and Victorian style Turkish baths had closed before the beginning of the Second World War. Their relatively short lifespan is no different from that in most other counties. 
 <br><br>
 Such baths rapidly became fashionable and popular because 19th century medicine was unable to cure or even alleviate the pain of many complaints, and at a time when few homes had even basic washing facilities. That has increasingly changed as the century changed. And in the case of the more expensive establishments, there were fewer patrons with time to spare after the major social changes brought about by the 1914-18 War. 
 <param ve-image url="https://stor.artstor.org/stor/73026e16-50c4-4401-94c3-8980a2eb39b1" label="Victorian Turkish baths" attribution="By kind permission of M.R.Shifrin">
+<!-- Base map centered on Tunbridge Wells -->
+<param ve-map center="Q665489" zoom="12">
+<param ve-map center="Q179224" zoom="12">
+<param ve-map center="Q618045" zoom="12">
 
 ### Bibliography:
 Beamish, Richard.  _The cold water cure: as practised by Vincent Priessnitz, at Gräfenberg, in Silesia_ (London: Highley, 1843)   
