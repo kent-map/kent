@@ -2,15 +2,8 @@
 <param ve-config title="Ann Radcliffe (1764 – 1823)" author="Dr Michael Goodrum" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q507517" aliases="Rochester">
-<param ve-entity eid="Q179224" aliases="Dover">
-<param ve-entity eid="Q1626044" aliases="Sittingbourne">
-<param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-entity eid="Q1000312" aliases="Sandgate">
-<param ve-entity eid="Q967166" aliases="Hythe">
-<param ve-entity eid="Q729006" aliases="Chatham">
-<param ve-entity eid="Q676689" aliases="Gravesend">
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="95a97f635eb83b37" title="Cary 1787">
 
 #
 
@@ -21,11 +14,20 @@ Ann Radcliffe might not necessarily spring readily to mind in connection with Ke
 
 Although no longer publishing by this stage (_The Italian_ was the last of her novels to be published in her lifetime), Radcliffe continued to describe the countryside in a style familiar to her legion of readers – as Richard Davenport-Hines notes, “landscape was Radcliffe’s paramount interest.” In extracts from her journal appended to the posthumous Gaston De Blondeville (1826), the journey between Gravesend and Rochester is described as follows: “the distant hills run out into long ridges, and fold one behind the other. The river often seen between green-dipping hills, and then opening in vast "majesty.” After the Arcadian, the sudden injection of the Gothic: “Descended towards Rochester: solemn appearance of the castle, with its square ghastly walls and their hollow eyes, rising over a bank of the Medway, grey and massive and floorless; nothing remaining but the shell.” To those familiar with Radcliffe’s charged descriptions of luminous landscapes and all the images they conjure, it feels a little odd to have the more familiar environs of Kent so described.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Edward_Dayes_-_Rochester_-_Google_Art_Project.jpg" label="Rochester, 1799" attribution="Yale Center for British Art, Public domain, via Wikimedia Commons">
-<param ve-map center="Q507517" zoom="15">
+<param ve-entity eid="Q676689" aliases="Gravesend">
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-map center="Q2336499" zoom="12">
 
 Radcliffe’s tour of Kent continued for some days, moving through Chatham (“a great prospect, but too broken, and full of scars and angles of fortifications and other buildings and of excavations, to be quite pleasing”), Sittingbourne (“an open, pleasant town”), Canterbury (“the cathedral itself looked very tall and solemn, like a spectre of ancient times, and seemed to hint of what it had witnessed”), Dover (here is a description from the castle: “Dover curves picturesquely along the sea-bay; the white and green cliffs rising closely over it, except near the castle where they give place to hills, that open to a green valley, with enclosures and a pretty village”), Folkestone (a “well-situated” town, albeit one with “narrow, steep streets”), Sandgate (“a white, new village, straggling along the beach, on each side of the wide road. Green hills rising all about it, and the place wide and free and pleasant”), and Hythe (“its ancient church stands high, is a sea mark and a picturesque object, its grey towers and gothic windows appearing among wood, and having a hill behind them”). 
 <param ve-image url="https://stor.artstor.org/stor/eb61d339-15de-4602-ace7-9cb4272a1ac3" label="A Topographical Map of the County of Kent" attribution="John Andrews, John Dury and William Herbert. By permission of Augustine House Library">
-<param ve-map center="Q179224" zoom="15">
+<param ve-entity eid="Q729006" aliases="Chatham">
+<param ve-entity eid="Q1626044" aliases="Sittingbourne">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q1000312" aliases="Sandgate">
+<param ve-entity eid="Q967166" aliases="Hythe">
+<param ve-map center="Q28339447" zoom="9.5">
 
 For those interested in the history of landscape, and also that of writing about landscape, this has significant appeal. Much of the Romantic writing about landscape existed in some relationship with the Lakes – largely thanks to the ‘Lake Poets’ and their shadow of influence – so to have such descriptions of Kent in the same style are welcome deviations. Unlike Radcliffe’s other descriptive prose, though, they were drawn from experience, not paintings; from her style, we see the same emotion being imbued, regardless of how the material came to her senses.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Ordnance_Survey_Drawings_-_Hythe%2C_Kent_%28OSD_105%29.jpg" label="Ordnance Survey, Hythe, 1797" attribution="British Library, OGL v1.0, via Wikimedia Commons">
