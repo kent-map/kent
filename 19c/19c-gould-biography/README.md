@@ -15,20 +15,15 @@
 <param ve-entity eid="Q375946"> <!-- The Zoology of the Voyage of H.M.S. Beagle - Part III Birds -->
 <param ve-entity eid="Q967304"> <!-- Birds of Australia -->
 
-<!-- Base map centred on Canterbury -->
-<!-- param ve-map center="Q29303" zoom="12" -->
-<!-- Base map centred on Stourmouth -->
-<!-- param ve-map center="Q5220240" zoom="11" -->
-
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
+<param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
 
 #
 
 On the 18th of July in 1804, in the seaside town of [Ramsgate](/19c/19c-ramsgate/), Mr Nicholas Coxen and Elizabeth Coxen (nee Tomkins) welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and three brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were "firmly middle class" through "links to the military" and we can imagine that she lived a typical life fitting for the era [^1]. The sons pursued careers as scientists or military personnel, whilst Elizabeth studied subjects that were typical for women of her class and age, including languages, music, and art [^2]. In spite of her relatively ordinary upbringing, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
-<param ve-map title="Birth place of Elizabeth Gould" center="Q736439" zoom="12" prefer-geojson show-labels>
-<!-- Base map centred on Ramsgate -->
-<param ve-map center="Q736439" zoom="11">
+<!-- param ve-map title="Birth place of Elizabeth Gould" center="Q736439" zoom="12" prefer-geojson show-labels -->
+<!-- Base map centred on Thanet -->
+<param ve-map center="Q590422" zoom="12">
 
 Some may find the family name “Gould” familiar, especially in ornithological circles, with association with titles such as “The Birdman” or “The Father of Australian Ornithology” who published some of the most famous ornithologic books of the 19th century [^3]. Most would remember the accomplished man as John Gould. He left a remarkable legacy of beautifully illustrated documentation of various animals across the globe. Yet, he was not the sole creditor for his prodigious work. He had the help of a talented partner, his wife Elizabeth, who supported and worked alongside him throughout his career.
 <param ve-image 
@@ -48,14 +43,13 @@ Again, with not much known about the courtship between the lovers, we can specul
        license="public domain"
        url="https://cdn.jwa.org/sites/default/files/mediaobjects/rebecca_solomon_-_thegoverness.jpg">
 
-
 However, realistically, John was also “rescued” by Elizabeth. In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John prepared for his customers [^6]. Her work promoted her taxidermist husband’s business, which widely expanded his career contacts and allowed him access to the country’s leading naturalists. Thus, in 1830, when presented with a collection of Himalayan bird skins, he proposed a grand idea. He thought to publish a subscriber-paid book to showcase hand-painted lithographs of these rare birds and sell them to affluent collectors and the aforementioned naturalists. It was an ambitious idea, and John knew that his artistic capabilities were limited at best. Elizabeth was more than capable, equipped with valuable education in the arts from her youth. Though it seemed she was initially sceptical of the proposal, as she asked her husband who would transfer the plates to the stones. To this question, John replied, "Why you, of course!" [^7] and thus the couple’s first publication was born.
 <param ve-image 
        fit="contain"
-       title="Cinclosoma erythrocephala in “A Century of Birds from the Himalaya Mountains”" 
+       title="Cinclosoma erythrocephala in “A Century of Birds from the Himalaya Mountains”." 
        description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831." 
-       attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/42203524)"
-       license="public domain"
+       attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/42203524)" 
+       license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._XVII%29_%289237224583%29.jpg">
 
 There are no records of Elizabeth’s qualification as a draughtswoman, but she would have most likely been familiar with sketches and watercolour paintings of common botany. Nonetheless, it was very different to drawing photographic representations of feathered animals. This, coupled with her first pregnancy, must have proven to be a taxing challenge. Despite the stress of her new roles as both a mother and draughtswoman, she still spent hours meticulously practising the art of lithography, as taught by a fellow collaborator, Edward Lear [^6]. Finally, after two years of strenuous hard work, her lavishly crafted plates were published in “_A Century of Birds from the Himalaya Mountains_” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. Only days after the publication, Elizabeth gave birth to her first son, a baby boy by the name of John Henry.
@@ -137,7 +131,7 @@ Elizabeth Gould was a woman of her time, raised to be a loving wife and doting m
        license="public domain"
        url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2019/02/nla.obj-150672913-1-716x1024.jpg">
 
-# References
+## References
 
 [^1]: ["Elizabeth (Coxen) Gould (1804 - 1841)." _WikiTree_.  WikiTree Community, 5 Nov 2018. Web.](https://www.wikitree.com/wiki/Coxen-86) Accessed on 21 Jun. 2021
 [^2]: [Castellucci, Adria. “Elizabeth Gould: working wife, Victorian mother.” _The Australian Museum_. The Australian Museum, n.d. Web.](https://australian.museum/learn/collections/museum-archives-library/john-gould/elizabeth-gould-1804-1841/working-wife-and-mother/) Accessed on 1 Jul. 2021
