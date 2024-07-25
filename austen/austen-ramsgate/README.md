@@ -1,6 +1,13 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Jane Austen, Ramsgate" author="Susan Civale" layout="vtl" 
-banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" discription="In this visual essay Susan Civale outlines the 18th century Ramsgate as visited by author Jane Austen.">
+
+<!-- Base map centred on Ramsgate -->
+<param ve-map center="Q5313984" zoom="13">
+<param ve-map center="Q736439" zoom="13">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
 
 #
 
@@ -38,7 +45,7 @@ How d'ye do, my Uncle Francis?
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg" label="Godmersham, 1799" attribution="Unknown author, Public domain, via Wikimedia Commons">
    
 In Austen’s published work, [Ramsgate](/dickens/19c-ramsgate)  is associated with less reputable male characters.  In _Pride and Prejudice_, the ostensibly charming militia officer George Wickham connives to seduce and elope with the young, impressionable, and very wealthy Georgiana Darcy at [Ramsgate](/dickens/19c-ramsgate).  In _Mansfield Park_, [Ramsgate](/dickens/19c-ramsgate)  becomes a destination for the selfish and profligate Tom Bertram.  In her private life, Austen also casts aspersions on the port, commenting in a letter to her sister: “Ed. Hussey is warned out of Pett, and talks of fixing at [Ramsgate](/dickens/19c-ramsgate).  Bad taste!  He is very fond of the sea, however. Some taste in that, and some judgment, too, in fixing on [Ramsgate](/dickens/19c-ramsgate), as being by the sea”.[^ref4]   Austen seems to have harboured reservations about the opportunities for loose or immoral behaviour in [seaside towns]( /19c/19c-seaside) such as [Ramsgate](/dickens/19c-ramsgate). 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8a/Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_Mr._Denny_entreated_permission_to_introduce_his_friend.jpg" " label="Pride and Prejudice" attribution="C. E. Brock, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8a/Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_Mr._Denny_entreated_permission_to_introduce_his_friend.jpg" label="Pride and Prejudice" attribution="C. E. Brock, Public domain, via Wikimedia Commons">
 
 ### Bibliography 
 Selwyn, David, ed. _The Poetry of Jane Austen and the Austen Family_. Iowa City: University of Iowa Press, 1997.   
