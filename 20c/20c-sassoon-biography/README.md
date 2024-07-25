@@ -6,11 +6,8 @@ traces the Kent landscape in the war poetry of county native Siegfried Sassoon."
 <!-- Global Entities -->
 <param ve-entity eid="Q2183870" aliases="Matfield">
 
-<!-- Base map centred on Matfield -->
-<param ve-map center="Q2183870" zoom="12">
-
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="5aa3ce47b380271b" title="Kent Road Map">
+<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
 
 #
 

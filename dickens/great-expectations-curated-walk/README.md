@@ -46,6 +46,8 @@
 
 #
 
+This curated walk is also available as a [video](https://www.youtube.com/watch?v=meumYGqMQLc&t=11s).
+<br><br>
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the [Hulks](/prisons/convict-hulks)’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
 <param ve-image primary url="https://stor.artstor.org/stor/f2afe648-fc79-434a-acab-40d16335c345" title="The Marshes" fit="contain">
 <param ve-video vid="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent">
@@ -99,13 +101,14 @@ Later events will force Pip to reassess his own past and what it means to be a �
 
 Pip himself seems about to come full circle in returning to the [marshes](/landscape/kentish-landscapes) with Magwitch as they row down the river from London. Towards the end of the novel he is not far from this point when he and his friends stop with Magwitch at the Ship Inn at the end of their abortive attempt to smuggle him out of the country. While Pip has never before seen this stretch of river he recognises at once that ‘It was like my own marsh country, flat and monotonous, and with a dim horizon; while the winding river turned and turned, and the great floating buoys upon it turned and turned, and everything else seemed stranded and still.’[^ref3] But his return is thwarted when Magwitch is hunted down by Compeyson and dies of his injuries, possibly compounded by a river infection. A sadder and wiser Pip finally realises what Joe was trying to tell him years before - there is no way back save in the imagination.
 <br><br>
-This curated walk is also available as a [video](https://www.youtube.com/watch?v=meumYGqMQLc&t=11s).
+Magwitch is tried under the [Bloody Code](/18c/18c-bloody-code)
 <param ve-image url="https://stor.artstor.org/stor/960a6b98-33e1-4471-9c09-71186a39a6d1" fit="contain">
 <!-- Kent with map centred at Cliffe -->
 <param ve-map center="Q5132825" zoom="13">
 
+You can find critical material linked to specific passage in the novel, through the JSTOR open access [Understanding series](https://www.jstor.org/understand/work/great-expectations).
+
 ### References
 [^ref1]: http://www.literaturepage.com/read/greatexpectations-250.html
 [^ref2]: http://www.literaturepage.com/read/greatexpectations-273.html
-[^ref3]: http://www.literaturepage.com/read/greatexpectations-490.html
-Magwitch is tried under the [Bloody Code](/18c/18c-bloody-code)
+[^ref3]: http://www.literaturepage.com/read/greatexpectations-490.html 
