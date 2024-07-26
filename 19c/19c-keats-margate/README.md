@@ -1,11 +1,20 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="John Keats (1795-1821)" author="Dr Sophie Baldock" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="John Keats (1795-1821)" author="Dr Sophie Baldock" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Dr Sophie Baldock reviews the influence of his Margate holidays on the work of poet John Keats.">
+
+<!-- Global Entities -->
+<param ve-entity eid="Q618045" title="Margate">
+
+<!-- Base map centred on Margate -->
+<param ve-map center="Q618045" zoom="13">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
 
 #
 
 The Romantic poet John Keats, whose short but remarkable career and early death from tuberculosis at the age of twenty-five have made him one of the most known and best loved poets of all time, holidayed in [Margate](/dickens/19c-margate) on two occasions in the summer and early autumn of 1816 and again in the summer of 1817. Although both trips to [Margate](/dickens/19c-margate) lasted only a few weeks, they mark two crucial turning points in Keats’s career.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/John_Keats%2C_portrait_by_Joseph_Severn.jpg" label="Joseph Severn" attribution="Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/John_Keats%2C_portrait_by_Joseph_Severn.jpg" label="Keats painted by Joseph Severn" attribution="Public domain, via Wikimedia Commons">
 
 Keats’s first stay in [Margate](dickens/19c-margate) in the summer of 1816 was motivated by a desire to escape the hot, muggy London summer, and the confines of his lodgings in St Thomas Street, near Guy’s Hospital and London Bridge, where he was undertaking his medical training in order to become a surgeon. The seaside resort of [Margate]( /dickens/19c-margate), by contrast, promised fresh sea air. Keats stayed in [Margate]( /dickens/19c-margate) with his younger brother, Tom. In his biography, Keats (1997), Andrew Motion speculates that the pair probably stayed in rooms overlooking Hawley Square, a Georgian Square in the centre of the old town. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/07/John_Keats_at_Guy%27s_Hospital%2C_London_%2812375849294%29.jpg" label="John Keats at Guy's Hospital by Stuart Williamson (2007)" attribution="under_volcano from Canada, via Wikimedia Commons" license="CC BY-SA 2.0">
