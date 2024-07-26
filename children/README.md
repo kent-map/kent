@@ -47,7 +47,7 @@ E.Nesbit spent her formative years in Halstead, near Sevenoaks. A keen oarswoman
 
 ## Rupert Bear
 
-[Rupert Bear](/20c/20c-rupert-bear)
+[Rupert Bear](/20c/20c-rupert-bear-biography)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/children_Rupert_Bear.jpg)
 
@@ -55,7 +55,7 @@ Rupert Bear is a children’s comic strip character first published on the 8th N
 
 ## Mary Tourtel
 
-[Mary Tourtel](/19c/19c-tourtel-biography)
+[Mary Tourtel](/20c/20c-tourtel-biography)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/children_Mary_Tourtel.jpg)
 
