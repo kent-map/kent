@@ -1,11 +1,9 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Ford Madox Ford (1873-1939)" author="Professor Max Saunders" layout="vtl" 
-banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
-<param ve-entity eid="Q642884" aliases="Bonnington">
-<param ve-entity eid="Q1506093" aliases="Romney Marsh">
-<param ve-entity eid="Q2309424" aliases="Postling">
-<param ve-entity eid="Q1863660" aliases="Sandling Junction">
-<param ve-entity eid="Q921173" aliases="Aldington Knoll">
+banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" description="Prof. Max Saunders traces the Kent based early married life and works of novelist, poet and editor Ford Madox Ford (Brown).">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
 
 #
 
@@ -15,26 +13,33 @@ Ford was originally named ‘Ford Hermann Hueffer’. His father was the German 
 	   attribution="not stated, Public domain, via Wikimedia Commons"
 	   license="Public Domain"
 	   url="https://upload.wikimedia.org/wikipedia/commons/6/67/Picture_of_Ford_Madox_Hueffer.jpg">
-<param ve-map center="Q1506093" zoom="15">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+<param ve-map center="Q7594628" zoom="13">
 
 Their first house in Kent was called Blomfield Villa, in Bonnington, by a spot called 'Hog Turd Green', and was the first of Ford's many houses to have little in the way of sanitation: there were no drains, and the drinking water had to be brought from a mile away. It was damp, because built over a stream. There was a well nearby into which Ford would lower their boots on a string to clean them, drying them afterwards in front of a fire. The Hueffers were in Bonnington from 1894. The house was later named 'Fir Trees Villa', and is just off the B2067, on the road between Priory Wood and Park Wood. 
 <br><br>
 In _The Heart of the Country_ (1906) and later in _Return to Yesterday_ (1931) Ford wrote about the peasant men and women they befriended in Bonnington: Meary Walker and Meary Spratt, 'Ragged Ass Wilson', and the village idiot Shaking Ben, who was said to have been ‘ruined’ by the ‘bad gels or Rye’. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Close-up_of_Bonnington_Village_Sign_-_geograph.org.uk_-_2084868.jpg" label="Close-up of Bonnington Village Sign" attribution="David Anstiss via Wikimedia Commons" license="CC BY-SA 2.0"> 
-<param ve-map center="Q642884" zoom="15">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Close-up_of_Bonnington_Village_Sign_-_geograph.org.uk_-_2084868.jpg" label="Close-up of Bonnington Village Sign" attribution="David Anstiss via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-entity eid="Q642884" aliases="Bonnington">
+<param ve-map center="Q642884" zoom="14">
 
 In 1896 they moved to the Pent, a red-brick and tiled farmhouse on the Pilgrim's Way near Postling. It was only a couple of miles from Sandling Junction. The Pent was to be their home for two years. But Elsie found it depressing, and in 1898 they moved to Limpsfield (in Surrey) to be near their friends Edward and Constance Garnett. Ford was introduced to [Joseph Conrad](/19c/19c-conrad-biography) that year by Garnett. [Conrad](/19c/19c-conrad-biography) was looking for a collaborator. Ford had drafted a novel about an Englishman tried for piracy in the 1820s. [Conrad](/19c/19c-conrad-biography)’s knowledge of the sea made him the ideal person to help knock it into shape. They worked closely together over a decade, and eventually published three books together.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Pent_Farm%2C_Postling_%28geograph_3467328%29.jpg"
 	   label="Pent Farm, Postling"
 	   attribution="Christopher Hilton"
 	   license="CC BY-SA 2.0">
-<param ve-map center="Q2309424" zoom="15">
+<param ve-entity eid="Q2309424" aliases="Postling">
+<param ve-entity eid="Q1863660" aliases="Sandling Junction">
+<!-- Base map centered on Tolsford Hill -->
+<param ve-map center="Q97346719" zoom="14">
 
 With his characteristic generosity to other writers and artists, Ford immediately handed over the Pent to the Conrads – though it was effectively his second home until the Conrads left in 1907. Ford and Elsie moved back to Kent to be nearby, taking a house called Stocks Hill, a coast guard's cottage perched under Aldington Knoll (Aldington being the next village to Bonnington). Ford grandly renamed the house as ‘Stock’s Hall’. But it was primitive, and too small for a couple who now had two daughters. The house is no longer standing.
 <br><br>
 By now the Hueffers had been forgiven by Elsie’s parents. Dr Martindale, a celebrated London pharmacologist, was also Mayor of Winchelsea, in Sussex, where they had a second home. The Martindales bought a house in Winchelsea for Ford and Elsie, ‘The Bungalow’, despite its name, a charming two-storey clapboard, shuttered house, which Ford said had been built in 1782 for General Prescott, the first Governor-General of Canada. The house is on Friars Road, Winchelsea, East Sussex, TN36.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/03/View_of_Aldington_Knoll_-_geograph.org.uk_-_2127422.jpg" label="View of Aldington Knoll" attribution="David Anstiss via Wikimedia Commons" license="CC BY-SA 2.0">
-<param ve-map center="Q921173" zoom="15">
+<param ve-entity eid="Q642884" aliases="Bonnington">
+<param ve-entity eid="Q921173" aliases="Aldington Knoll">
+<param ve-map center="Q921173" zoom="14">
 
 Ford befriended a group of extraordinary writers in the area, whom he was the first to designate as Impressionists in literature: not just [Conrad](/19c/19c-conrad-biography), but also [Henry James](/19c/19c-jamesh-hever-castle), living in Rye, and his fellow American Stephen Crane, at Brede. [H. G. Wells](/20c/20c-wellshg-biography), living at Sandgate, became another close friend. Ford wrote much about the area. His huge, playful topographical book _The Cinque Ports_ came out in 1900. But he would continue to write about it not only in his many volumes of reminiscence – including his superb memoir _Joseph Conrad: A Personal Remembrance_ (1924), but also in his fiction: mostly notably in _Parade’s End_ (1924-28), his sequence of four novels covering the years before, during and after the First World War. The first novel, _Some Do Not_ . . ., includes magical evocations of the Kent and Sussex countryside in which the hero and heroine meet, argue, and fall in love:
 <br><br>
@@ -42,6 +47,12 @@ Ford befriended a group of extraordinary writers in the area, whom he was the fi
 <br>
 You can hear Professor Max Saunders talking about Ford Madox Ford on the Kent Maps Online YouTube channel: [Coastal Landscapes in Ford Madox Ford and Alfred Cohen](https://youtu.be/OXgKPijN82M)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/98/Harold_Gilman_-_Romney_Marsh_-_B1975.4.329_-_Yale_Center_for_British_Art.jpg" label="Romney Marsh by Harold Gilman" attribution="B1975.4.329 Yale Center for British Art via Wikimedia Commons" license="CC0">
+<param ve-entity eid="Q1020800" aliases="Rye">
+<param ve-entity eid="Q1941797" aliases="Brede">
+<param ve-entity eid="Q1000312" aliases="Sandgate">
+<param ve-entity eid="Q1026871" aliases="Winchelsea">
+<!-- Base map centered on Orlestone -->
+<param ve-map center="Q690486" zoom="10">
 
 ### References
 

@@ -106,6 +106,8 @@ Magwitch is tried under the [Bloody Code](/18c/18c-bloody-code)
 <!-- Kent with map centred at Cliffe -->
 <param ve-map center="Q5132825" zoom="13">
 
+You can find critical material linked to specific passage in the novel, through the JSTOR open access [Understanding series](https://www.jstor.org/understand/work/great-expectations).
+
 ### References
 [^ref1]: http://www.literaturepage.com/read/greatexpectations-250.html
 [^ref2]: http://www.literaturepage.com/read/greatexpectations-273.html

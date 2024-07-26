@@ -69,6 +69,8 @@ Dickens was a frequent visitor to France, a country he loved dearly. In a letter
 However, despite his love of the French, _A Tale of Two Cities_, was not very popular in France, and there are fewer French translations than his other works. Some suppose that the book is misunderstood in translation. The title of the first translation _Paris et Londres en 1793_  (Paris and London in 1793)[^ref14], seems to miss the point, ignoring the novel's start date of 1775, and this may account for its lack of popularity. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/A_Tale_of_Two_Cities_title_page.png" label="A Tale of Two Cities by Charles Dickens" attribution="Public domain, via Wikimedia Commons">
 
+You can find critical material linked to specific passage in the novel, through the JSTOR open access [Understanding series]( https://www.jstor.org/understand/work/tale-of-two-cities)
+
 ### Bibliography
 
 Biography.com (2020) _Charles Dickens Biography_. Available at: https://www.biography.com/writer/charles-dickens (Accessed: 3 February 2021).   

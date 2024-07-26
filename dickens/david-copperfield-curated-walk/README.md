@@ -93,6 +93,7 @@ Only once, in a desperate bid to avoid a tête á tête with Uriah, does David s
 <!-- Map centred on Nash, NE Kent -->
 <param ve-map center="Q26386990" zoom="12">
 
+You can find critical material linked to specific passage in the novel, through the JSTOR open access [Understanding series](https://www.jstor.org/understand/work/david-copperfield).
 
 ### References
 
