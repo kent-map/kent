@@ -1,44 +1,101 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="F. C. Burnand (1836-1917)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg">
+<param ve-config title="May Aldington (1872-1954)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg" description="Michelle Crowther traces the often turbulent life and work of the author, Jessie May Aldington.">
 
-<param ve-entity eid="Q736439" aliases="Ramsgate">
-<param ve-entity eid="Q618045" aliases="Margate">
-<param ve-entity eid="Q922739" aliases="Broadstairs">
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
+
+#
+
+Jessie May Aldington, author of ‘Love Letters that caused a Divorce’ and 'Meg of the Salt Pans', was born in Hythe in 1872. She was the daughter of Charles Godfree, a Sergeant Major in the Army Hospital Corps, who was temporarily stationed at the Hythe School of Musketry, and Eliza Burden, the daughter of a Rolvenden shoemaker. According to _The Sphere_ she was descended from the family of John Gay, who wrote _The Beggar's Opera_.[^ref1]  The family moved frequently due to Charles's work, living at Hythe, Rolvenden, Bermuda and Portsea. Jessie remembers her parents being sent copies of the _Kentish Express_ during their five years in Bermuda, which her mother read word for word.[^ref2]
+<param ve-image url="https://stor.artstor.org/stor/921dbaac-faac-4fcc-bb1f-4da1329f58cf" label="Hythe School of Musketry" attribution="Invicta Album of Hythe">
+<param ve-entity eid="Q967166" aliases="Hythe">
+<param ve-entity eid="Q2313624" aliases="Rolvenden">
+<param ve-map center="Q3487141" zoom="10.5">
+<param ve-map center="Q967166" zoom="12">
+<param ve-map center="Q2313624" zoom="12">
+
+By 1881, the family had settled in [Dover](/19c/19c-dover/) at 14, Liverpool St, which was in the St James area of the town. May, as she preferred to be known, lived here until her father retired from the army and took on the license of the Bell and Anchor Inn in Sandwich.
+<br><br>
+When her parents and younger siblings moved to London, May remained with her two aunts, Isabel and Catherine, at the Bell and Anchor,[^ref3] and it was here that she met her future husband Albert Aldington, a [Dover](/19c/19c-dover/) solicitor, whom she married in a 'shotgun wedding' in 1891.[^ref4] The couple had two children, Edward (the poet Richard Aldington) and Margery.
+<param ve-image url="https://stor.artstor.org/stor/be2d7a73-d2b3-4188-8d40-1a76523fa117" label="Ward Lock Dover">
+<param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q26163" aliases="Sandwich">
+<param ve-map center="Q179224" zoom="12">
+<param ve-map center="Q26163" zoom="12">
 
-Lived in Ramsgate from around 1875 - until death in 1917     
-<br>
-Publication: _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_, 1897.  
-<br>
-'The New Pier, many years old by now, for entrance to which, as being something superior, twopence is charged, is an instance of that kind of half-fulfilled promise whereof Ramsgate generally offers several evident examples. But while there is a pier there is hope, and it may yet occur to its proprietors, or to the local authorities, to say, after the manner of Mr Wemmick, out of office-hours, in [Great Expectations](/dickens/great-expectations-curated-walk), "Hello! Here’s a pier! Let’s do something with it!"’ _The Z.Z.G._
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Portrait_of_F._C._Burnand.jpg" label="Portrait of F. C. Burnand.jpg" attribution="Elliott & Fry, Public domain, via Wikimedia Commons">
+Moving to a large yellow brick house, no. 5, Godwyne Road, Dover, the Aldingtons lived a comfortable life, sending their son to Mr Sweetman’s Seminary for Young Gentlemen at St Margaret’s Bay, where he learned French and Latin, before attending Dover College. Richard remembers passing the 'sad housemaids' whitening the steps on his way to school.[^ref5]
+<br><br>
+Albert was a 'gentle studious docile man' with a library of around 2,000 books including Keats, Harrison Ainsworth, Sir Walter Scott and Oscar Wilde. He wrote two books, one of which was the _Queen’s Preferment_ published in 1896.[^ref6] In contrast, May was outgoing and energetic, enjoying golf, cycling and watching cricket.[^ref7] However, beneath this vitality was a tempestuous nature;  her daughter Margery said: 'she flourished and thrived on a first class “row” at least once a week, but it shattered the rest of us'.[^ref8] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Imprimerie_Paul_Dupont%2C_Whitworth_Cycles%2C_c._1900.jpg" label="Advertisement for Whitworth Cycles, c. 1900">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q24638363" aliases="St Margaret’s Bay">
+<param ve-map center="Q179224" zoom="12">
+<param ve-map center="Q24638363" zoom="12">
 
-Sir Francis Cowley Burnand (knighted in 1902) is best known as the editor of _Punch_ from 1880-1906, serialising the [Grossmiths](/19c/19c-grossmith-biography)’ runaway success _Diary of a Nobody_ in 1888. 
-He was also a member of the 'Boz Club' inaugurated after the death of [Dickens](/dickens). In 1863 he had adapted [David Copperfield](/dickens/david-copperfield-curated-walk) as _The Deal Boatman_, moving the story to mid-eighteenth century Kent, changing the characters’ names and making no acknowledgement of his source. It may be this play [Thomas Frost](/19c/19c-frost-biography) has in mind when he talks about the somewhat startling relocation of Emily's reunion with Peggotty to the outside of Canterbury Cathedral. In 1897 he and _Punch_ artist Phil May adopted the Dickensian personae ‘T’other Guv’nor’ and ‘T’otherst Guv’nor’ for their collaboration on the comic but informative _Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_. Despite _Punch_’s habitual disdain of _Three Men in a Boat_ and its lower middle class author, May himself also worked with [Jerome K. Jerome](/19c/19c-jerome-biography) (who as editor of _The Idler_ complained bitterly of the illustrator’s shoddy attitude to deadlines).
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/84/Image_taken_from_page_81_of_%27The_Z.Z.G.%2C_or_Zig_Zag_Guide_round_and_about_the_bold_and_beautiful_Kentish_coast_..._Illustrated_by_Phil_May%27_%2811296786325%29.jpg" label="The ZZG or Zig Zag guide round and about the bold and beautiful Kentish Coast" attribution="Sir Francis Cowley Burnand, 1836-1917, The British Library, No restrictions, via Wikimedia Commons">
+Albert, who was involved in the British Homes Assurance Company which allowed people to 'secure a roof over their heads free from landlord’s control', began buying and selling property,[^ref9] possibly with the involvement of May's brother[^ref10] and the family moved to Warwick Lodge, Walmer, a larger and more modern house.[^ref11] 
+<br><br>
+In 1905, May published her first book, _Love Letters that Caused a Divorce_, a series of letters detailing the temptations of Kitty Yorke, and convinced the local newspaper office to fill its windows with copies.[^ref12] Richard wrote: 'This work was designed to extinguish Marie Corelli and Elinor Glyn, but unluckily failed to do so.' [^ref13] Reviews described it as 'evidently written by a woman who thoroughly understands her own sex, for all the inconsistencies of the feminine character are clearly shown, as are the struggles of Kitty to stifle this illicit love'.[^ref14] Richard, wrote of his parents: 'Though literate, he wrote so badly. Mother’s novels, though hideously vulgar and illiterate, have much more vitality.'(3)[^ref15]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/71/%22The_Love_Letter%22_by_Auguste_Toulmouche.jpg" label="The Love Letter by Auguste Toulmouche, Public domain, via Wikimedia Commons">
+<param ve-entity eid="Q2551894" aliases="Walmer">
+<param ve-map center="Q2551894" zoom="12">
 
-In the _Z.Z.G._ Burnand includes a number of knowing jokes about [Ramsgate](/dickens/19c-ramsgate) as well as [Margate](/dickens/19c-margate), [Broadstairs](/dickens/broadstairs-19th-century) and Sandwich as if from the standpoint of an itinerant tourist. In fact by 1883 he had ‘made his house at Ramsgate’, travelling to London once or twice a week. The 1887 Street Directory locates a Frederick Charles Burnand at 18 Royal Crescent (where Burnand died in 1917); the 1911 census shows that while Francis’s fifth son Philip was born in Middlesex (now part of London) in 1869, his fourth daughter Mary was born in Ramsgate in 1875.  
-<param ve-image url="https://stor.artstor.org/stor/33ea5295-f1f5-4d3f-9724-352f18abcddf" label="Ramsgate Pavilion" attribution="Kent Maps Online Postcard Collection">
+In the summer of 1906, the Aldingtons bought Rothiemay at St Margaret’s at Cliffe, where Albert became Master of the Foreland Lodge of Freemasons.[^ref16] In Ursula Bloom’s memoir _Holiday Mood_ she recalls 'Aldington's people were well off, and had a comfortable house in which they entertained quite a lot.'[^ref17] Their lifestyle was described both as Bohemian and modern.[^ref18] However, after making some poor business decisions, Rotheimay had to be sold and May and the children moved to Sandwich.[^ref19] Relations between the couple became strained. During this period, May wrote short stories for _Cassell's Magazine_, _The Story-teller_, _The English Illustrated Magazine_ and _The Red Magazine_, published by [Alfred Harmsworth](/20c/20c-northcliffe-biography), as well as an anthology of poems _Songs of Life_ published in 1907. A novel _God's Toys_ published in 1908 was criticised for 'over-moralisation'.[^ref20]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Harmsworth_Red_Magazine_15_March_1910.jpg" label="The Harmsworth Red Magazine, Public domain, via Wikimedia Commons">
+<param ve-entity eid="Q26163" aliases="Sandwich">
+<param ve-entity eid="Q3495338" aliases="St Margaret's at Cliffe">
+<param ve-map center="Q26163" zoom="12">
+<param ve-map center="Q3495338" zoom="12">
 
-Burnand died of bronchitis on 21 April 1917, and is buried in the cemetery attached to St Augustine's Abbey church in [Ramsgate](/dickens/19c-ramsgate).
-<param ve-image url="https://stor.artstor.org/stor/39bd98f7-5bb3-4079-ad90-4c63abc93774" label="Burnand's grave" attribution="Martin Crowther">
+ _Meg of the Salt Pans_ which was described as her best work, was published in 1909.[^ref21] The story begins in an East Kent inn where the villagers gather to discuss local and national affairs.  Meg 'a child of nature' helps her grandmother, run the inn, attracting the attention of two beaux: a young scientific farmer educated at Wynne (Wye) College and a dashing Lance-Corporal Jones, of the Dragoon Guards, who is stationed at Canterbury. Meg, on her grandmother's advice, makes an unhappy marriage with the Lance-Corporal.[^ref22] A review of the book praises the authoress who 'has given us several excellent pen pictures of Kentish people — people that we seem to know without being able to actually recognise'.[^ref23] Although place names were obscured, it is likely that Sandport is Sandwich, and that the book draws on May's own experiences living at the Bell and Anchor. In the same year, May's second daughter Joan was christened at Sandwich. After the birth of Joan, the family moved to London and in 1911 Tony was born. May continued to write, with her novels _The King Called Love_ and _A Man of Kent_ published in 1913.
+ <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg" label="The Barbican Sandwich via Wikimedia Commons">
+<param ve-entity eid="Q26163" aliases="Sandwich">
+<param ve-map center="Q26163" zoom="12">
 
+During the war, Albert worked for the Ministry of Munitions whilst May ran the Mermaid Inn at Rye, where 40 army officers were billeted.[^ref24]  She wrote _Love Letters to a Soldier_ (1915), echoing the title of her earlier work, and sentimental jingoistic poetry about the war which was published in the _Hastings and St Leonard's Observer_ and _The Sunday Mirror_, later as _Roll of Honour and Other Poems_. Her poem _In Proud Memory of May 9th 1915_ ends with the lines 'In dreams we share your battles too, and know your victories sweet'. The Battle of Aubers had been a military disaster for the British with huge casualties. May's poetry was exactly the sort of mawkish poetry that her son, Richard, despised.[^ref25]
+<br><br>
+After the war, Albert took on clerical work in Malcolm Hilbery’s Chambers in Holborn. May installed her lover, Vivian Watkins, at the Mermaid, as Albert had refused a divorce. Richard, commenting on his father, said 'His refusal to divorce was surely Roman Catholic twaddle?'[^ref26] When Albert died in 1921, May refused to attend his funeral, marrying Watkins later that year. Albert left money to Richard and Margery, but not Joan or Tony.[^ref27] May and Vivian had shared business interests. She bought the Woolpack at Tenterden in 1992[^ref28] and he was the licensee of the St. Margaret's Bay Hotel, from 1925 and the Hotel Sanclu at Ramsgate from 1926.[^ref29] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/St._Mildred%27s_Church%2C_Tenterden%2C_Kent.JPG" label="The Woolpack, Tenterden, Abuk SABUK, CC BY-SA 3.0, via Wikimedia Commons">
+<param ve-entity eid="Q1020800" aliases="Rye">
+<param ve-entity eid="Q614560" aliases="Tenterden">
+<param ve-map center="Q3487141" zoom="10.5">
+<param ve-map center="Q1020800" zoom="12">
+<param ve-map center="Q614560" zoom="12">
 
-### Bibliography
+In the later years of her life, May was often strapped for cash and begged Richard for money. In 1938, she reported a theft of a mink coat, fox furs, squirrel coats and a diamond and platinum bracelet from her car[^ref30] and in 1939 she made an application to the Literary Fund for money.[^ref31] In 1946 Richard wrote to his brother Tony: 'I have had a hideous grouse from Mother on the usual trouble. Netta who is probably sound, says she is just trying to get some dibs out of me to go pub-crawling behind your back. Well, old boy, I leave it to you. Take any money of mine you need to make the old girl comfortable, but protect yourself from the horrid results of her convivial habits.'[^ref32] She died on the 20th March, 1954. Her address was the Watchbell House, Rye, Sussex, temporarily of the Temperance Hotel, Tenterden. Kent.[^ref33]
+<param ve-image url="https://stor.artstor.org/stor/73d992a1-2758-4f9d-903a-bd75d7768f9b" label="Temperance Hotel, Tenterden by kind permission of Tenterden Museum">
 
-Burnand, Frances Cowley, illustrated by Phil May. _The Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_[ellipsis in original]. 1897.
-<br>
-Stedman, ‘Burnand, Sir Francis Cowley (1836-1917). [_Dictionary of National Biography_](https://doi.org/10.1093/ref:odnb/32183), 2008.    
-<br>
-‘Births’. _The Standard_. 25 April 1885. GALE|DX1900562963.   
-<br>
-'In Pickwick Land'. 15 June 1901. _Illustrated Mail_. Thomas Kitton Scrapbooks vol 4. Dickens Museum, London.
-<br>
-Laird, Karen E. ‘Adapting the Seduction Plot: "David Copperfield's" Magdalens on the Victorian Stage. _Dickens Studies Annual_ 2011: 42 (2011). 193-215.
-<br>
-‘Mr F. C. Burnand.’ _Bury and Norwich Post_. 6 February 1883. GALE.   
-<br>
-‘Mr F. C. Burnand in praise of Ramsgate as a winter resort’. _Penny Illustrated Paper_. 15 December 1888. p379. GALE.   
-<br>
-[Thanet Writers](https://thanetwriters.com/feature/spotlight/thanet-writers-spotlight-francis-burnand/)   
+### References
 
+[^ref1]: "Mrs May Aldington." _The Sphere_, Saturday 19 June 1909.
+[^ref2]: "Mrs Mary Adington." _Kentish Express_, Saturday 19 July 1930.
+[^ref3]: Whelpton, Vivien. _Richard Aldington: Poet, Soldier and Lover 1911-1929_, p.21
+[^ref4]: Whelpton, p.20
+[^ref5]: Doyle, Charles. _Richard Aldington : a biography_ Carbondale : Southern Illinois University Press, p.3
+[^ref6]: Doyle, p.3
+[^ref7]: "A solicitor's wife's action for damages." _Whitstable Times and Herne Bay Herald_, Saturday 25 July 1903.
+[^ref8]: Doyle, p.2.
+[^ref9]: _Dover Express_, Friday 19 April 1901; _Dover Express_, Friday 26 April 1901.
+[^ref10]: _Folkestone, Hythe, Sandgate & Cheriton Herald_, Saturday 05 March 1904.
+[^ref11]: "A solicitor's wife's action for damages." _Whitstable Times and Herne Bay Herald_, Saturday 25 July 1903.
+[^ref12]: Doyle, p.3.
+[^ref13]: Doyle, p.3.
+[^ref14]: "From the Publishers." _Kentish Express_, Saturday 28 October 1905.
+[^ref15]: Doyle, p.3
+[^ref16]: Whelpton, p.24. 
+[^ref17]: Whelpton, p.25. 
+[^ref18]: Whelpton, p.25.
+[^ref19]: Whelpton, p.33
+[^ref20]: _Graphic_, Saturday 15 August 1908.
+[^ref21]: "An East Kent Novel: Meg of the Salt Pans." _Dover Express_, Friday 11 June 1909.
+[^ref22]: "New Novels by Kent Authoresses." _Kentish Express_ - Saturday 20 November 1909
+[^ref23]: _Dover Express_, Friday 11 June 1909.
+[^ref24]: Whelpton, p.262.
+[^ref25]: Bristow, Gemma. [May Aldington's Roll of Honour as a Sidelight on Death of a Hero](https://nclsn.wordpress.com/2018/08/20/may-aldingtons-roll-of-honour-as-a-sidelight-on-death-of-a-hero/)
+[^ref26]: Doyle, p.3.
+[^ref27]: Wills and Probate.
+[^ref28]: _Pall Mall Gazette_, Monday 30 January 1922.
+[^ref29]: Dover Express - Friday 17 November 1933
+[^ref30]: _Daily Mirror_, 15 March 1938.
+[^ref31]: Loan 96 RLF 1/3650/
+[^ref32]: p.246.
+[^ref33]: _Kentish Express_, Friday 29 July 1955
