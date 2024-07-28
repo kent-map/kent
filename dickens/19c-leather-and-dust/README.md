@@ -32,7 +32,6 @@ The leather in shoes and manufacturing processes would be familiar today. Major 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/David_Copperfield_aunt.jpg" label="David Copperfield - shoes">
 
 ### Bibliography:
-
 _Moule’s County Maps, The East and South East of England_. (Moule, 1837).   
 _An Historical Atlas of Kent_. (Lawson et al. 2004).   
 _Britain’s Tudor Maps County by County_, John Speed. National Library of Scotland, 2019.   
