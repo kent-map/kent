@@ -2,6 +2,11 @@
 <param ve-config title="Frances Hodgson Burnett (1849 – 1924)" author="Elena Beighton-Delille" layout="vtl" 
 banner="xxx">
 
+<!-- Global Entities -->
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="d549f0ddbeca485f" title="OS Kent 1899">
+
 #
 
 Frances Hodgson Burnett (1849 – 1924) was a British-American author and playwright. She was born in Manchester and travelled between England and the USA, but lived at Great Maytham Hall, near Rolvenden, Kent, between 1898 and 1907.[^ref1] She moved there following her divorce from Swan Burnett; it might have been a refuge from some of the problems in her life, such as the press’s scrutiny of her divorce, and the lasting effect of the death of her younger son, Lionel, in 1890.
