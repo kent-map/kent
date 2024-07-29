@@ -26,7 +26,7 @@ The house at Great Maytham Hall was Georgian, but was rebuilt between 1909 and 1
 
 ### References
 
-[^ref1]: https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE77024 
+[^ref1]: [Exploring Kent's past](https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE77024) 
 [^ref2]: Thwaite, Ann. (1974) [_Waiting for the party; the life of Frances Hodgson Burnett, 1849-1924_](https://archive.org/details/waitingforpartyt00thwa/page/178/mode/2up?q=+Maytham)
 [^ref3]: Gerzina, Gretchen Holbrook (2004) _Frances Hodgson Burnett: The Unexpected Life of the Author of The Secret Garden._ New Brunswick, New Jersey: Rutgers University Press.
 [^ref4]: Gerzina, Gretchen Holbrook (2004) _Frances Hodgson Burnett: The Unexpected Life of the Author of The Secret Garden_. New Brunswick, New Jersey: Rutgers University Press. 
@@ -39,9 +39,9 @@ The house at Great Maytham Hall was Georgian, but was rebuilt between 1909 and 1
 [^ref11]: Carpenter, Angelica Shirley and Jean Shirley (1990) [_Frances Hodgson Burnett : beyond the secret garden_](https://archive.org/details/isbn_9780822596103/page/100/mode/2up?q=1905) 
 [^ref12]: Carpenter, Angelica Shirley and Jean Shirley (1990) [_Frances Hodgson Burnett : beyond the secret garden_](https://archive.org/details/isbn_9780822596103/page/n5/mode/2up?q=Maytham)
 [^ref13]: Thwaite, Ann. (1974) [_Waiting for the party; the life of Frances Hodgson Burnett, 1849-1924_]( https://archive.org/details/waitingforparty00annt/page/192/mode/2up?q=1924) 
-[^ref14]: https://archive.org/details/franceshodgsonbu00carp/page/106/mode/2up?q=robin
-[^ref15]: https://archive.org/details/womenwritersofch0000seba/page/86/mode/2up?q=Maytham
-[^ref16]: The Secret Garden 
+[^ref14]: Carpenter, Angelica Shirley (1990) [_Frances Hodgson Burnett_](https://archive.org/details/franceshodgsonbu00carp/page/106/mode/2up?q=robin)
+[^ref15]: Sebag-Montefiore, Mary. (2008) [_Women writers of children's classics_]( https://archive.org/details/womenwritersofch0000seba/page/86/mode/2up?q=Maytham)
+[^ref16]: Hodgson Burnett, Frances. _The Secret Garden_ 
 [^ref17]: https://historicengland.org.uk/listing/the-list/list-entry/1115477?section=official-list-entry 
-[^ref18]: https://ngs.org.uk/great-maytham-hall-kent-the-most-famous-garden-in-literature/
+[^ref18]: [National Open Garden Scheme](https://ngs.org.uk/great-maytham-hall-kent-the-most-famous-garden-in-literature/)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg" label="The Secret Garden" attribution="Frances Hodgson Burnett, Public domain, via Wikimedia Commons">
