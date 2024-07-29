@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Frances Hodgson Burnett (1849 – 1924)" author="Elena Beighton-Delille" layout="vtl" 
-banner="xxx">
+banner="https://upload.wikimedia.org/wikipedia/commons/4/41/It%27s_fall_even_for_the_prettiest_rose..._%2810383091124%29.jpg">
 
 <!-- Global Entities -->
 
@@ -36,6 +36,7 @@ Nevertheless her ties to Maytham Hall, especially its garden, can be seen in _Th
 
 The house at Great Maytham Hall was Georgian, but was rebuilt between 1909 and 1912.[^ref17] The garden is now private but can be visited on certain days with the national open garden scheme.[^ref18] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/Great_Maytham_Hall_Garden_-_geograph.org.uk_-_228928.jpg" label="Great Maytham Hall Garden" attribution="Stephen Nunney" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg" label="The Secret Garden" attribution="Frances Hodgson Burnett, Public domain, via Wikimedia Commons">
 <!-- Base map centred on Rolvenden -->
 <param ve-map center="Q2313624" zoom="13">
 
@@ -59,4 +60,3 @@ The house at Great Maytham Hall was Georgian, but was rebuilt between 1909 and 1
 [^ref16]: Hodgson Burnett, Frances. _The Secret Garden_ 
 [^ref17]: https://historicengland.org.uk/listing/the-list/list-entry/1115477?section=official-list-entry 
 [^ref18]: [National Open Garden Scheme](https://ngs.org.uk/great-maytham-hall-kent-the-most-famous-garden-in-literature/)
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg" label="The Secret Garden" attribution="Frances Hodgson Burnett, Public domain, via Wikimedia Commons">
