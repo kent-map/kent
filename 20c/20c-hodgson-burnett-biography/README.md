@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Frances Hodgson Burnett (1849 – 1924)" author="Elena Beighton-Delille" layout="vtl" 
-banner="xxx">
+banner="https://upload.wikimedia.org/wikipedia/commons/4/41/It%27s_fall_even_for_the_prettiest_rose..._%2810383091124%29.jpg">
 
 <!-- Global Entities -->
 
