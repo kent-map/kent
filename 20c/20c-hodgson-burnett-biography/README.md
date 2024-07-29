@@ -25,7 +25,7 @@ As well as helping to realise her creative ambitions, her position as lady of th
 <param ve-map center="Q2313624" zoom="13">
 
 Burnett’s failing health may have been aggravated by her turbulent second marriage; following a collapse in 1902 she entered a sanatorium at Fishkill-on-Hudson, New York, where she separated from Stephen Townesend.[^ref9] After spending time in New York, and travelling in Italy, she returned in June 1904 to Maytham Hall.[^ref10] It is possible that Maytham no longer felt as much like her home as it had during the first years of her residence there. Alongside the need for protection from her possibly mercenary husband, this may explain why she gained American citizenship in 1905.[^ref11] When the rent agreement expired in 1907, it was in New York that she decided to build her permanent home.[^ref12] This was in Plandome, Long Island, where she died in 1924.[^ref13]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/03/Stephen_Townesend_1899.png" label="Stephen Townesend, 1899" attributioni="Anonymous Unknown author, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/03/Stephen_Townesend_1899.png" label="Stephen Townesend, 1899" attribution="Anonymous Unknown author, Public domain, via Wikimedia Commons">
 <!-- Base map centred on Rolvenden -->
 <param ve-map center="Q2313624" zoom="13">
 
@@ -33,10 +33,10 @@ Nevertheless her ties to Maytham Hall, especially its garden, can be seen in _Th
 <br><br>
 ‘And the roses – the roses! Rising out of the grass, tangled round the sun-dial, wreathing the tree trunks and hanging from their branches, climbing up the walls and spreading over them with long garlands falling in cascades – they came alive day by day, hour by hour. Fresh fair leaves, and buds – and buds – tiny at first but swelling and working Magic until they burst and uncurled into cups of scent delicately spilling themselves over their brims and filling the garden air.’ (TSG, XXIII)[^ref16]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Secret_Garden-Kirk-365.jpg" label="Secret Garden, illus. Maria Louise Kirk" attribution="Frances Hodgson Burnett, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg" label="The Secret Garden" attribution="Frances Hodgson Burnett, Public domain, via Wikimedia Commons">
 
 The house at Great Maytham Hall was Georgian, but was rebuilt between 1909 and 1912.[^ref17] The garden is now private but can be visited on certain days with the national open garden scheme.[^ref18] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/Great_Maytham_Hall_Garden_-_geograph.org.uk_-_228928.jpg" label="Great Maytham Hall Garden" attribution="Stephen Nunney" license="CC BY-SA 2.0">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg" label="The Secret Garden" attribution="Frances Hodgson Burnett, Public domain, via Wikimedia Commons">
 <!-- Base map centred on Rolvenden -->
 <param ve-map center="Q2313624" zoom="13">
 
