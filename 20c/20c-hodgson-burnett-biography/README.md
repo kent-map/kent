@@ -37,8 +37,6 @@ Nevertheless her ties to Maytham Hall, especially its garden, can be seen in _Th
 
 The house at Great Maytham Hall was Georgian, but was rebuilt between 1909 and 1912.[^ref17] The garden is now private but can be visited on certain days with the national open garden scheme.[^ref18] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/Great_Maytham_Hall_Garden_-_geograph.org.uk_-_228928.jpg" label="Great Maytham Hall Garden" attribution="Stephen Nunney" license="CC BY-SA 2.0">
-<!-- Base map centred on Rolvenden -->
-<param ve-map center="Q2313624" zoom="13">
 
 ### References
 
