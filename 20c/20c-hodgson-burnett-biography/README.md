@@ -1,3 +1,9 @@
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="Frances Hodgson Burnett (1849 – 1924)" author="Elena Beighton-Delille" layout="vtl" 
+banner="xxx">
+
+#
+
 Frances Hodgson Burnett (1849 – 1924) was a British-American author and playwright. She was born in Manchester and travelled between England and the USA, but lived at Great Maytham Hall, near Rolvenden, Kent, between 1898 and 1907.[^ref1] She moved there following her divorce from Swan Burnett; it might have been a refuge from some of the problems in her life, such as the press’s scrutiny of her divorce, and the lasting effect of the death of her younger son, Lionel, in 1890.
 
 Great Maytham Hall was located at Rolvenden, a village in the countryside near Tenterden, Kent. Begun in 1721, it had been damaged by fire in 1893.[^ref2] It was a spacious house, with ‘seventeen or eighteen bedrooms’ and ‘a charming place with a nicely finished park and a beautiful old walled kitchen garden’.[^ref3] This garden had been long neglected; she was involved in its restoration, by removing hedges and adding a rose walk to make it more open and welcoming.[^ref4] She had already written Little Lord Fauntleroy, but Great Maytham Hall was where she completed The Shuttle, The Methods of Lady Walderhurst, A Little Princess, and The Dawn of a Tomorrow.[^ref5] The environment of the rose garden also helped new ideas to emerge; it was where she first saw the robin that was the starting point of The Secret Garden, though the novel is set in Yorkshire. It contains allusions to Wuthering Heights, and may draw on a visit to the house of Lord Crewe in 1895.[^ref6]
