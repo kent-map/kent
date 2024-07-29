@@ -39,3 +39,4 @@ The house at Great Maytham Hall was Georgian, but was rebuilt between 1909 and 1
 [^ref16]: The Secret Garden 
 [^ref17]: https://historicengland.org.uk/listing/the-list/list-entry/1115477?section=official-list-entry 
 [^ref18]: https://ngs.org.uk/great-maytham-hall-kent-the-most-famous-garden-in-literature/
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg" label="The Secret Garden" attribution="Frances Hodgson Burnett, Public domain, via Wikimedia Commons">
