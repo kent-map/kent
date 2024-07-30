@@ -1,7 +1,8 @@
 `ve-header title="Inspirational Kent Women Writers" background=gh:kent-map/images/banners/18c.jpg .sticky`
 
 As part of the Centre for Kent History and Heritage's celebration of inspirational Kent women writers, we are highlighting these articles to focus attention on some of Kent's well-loved but also lesser known women writers. These women are either inspirational Kent women or women who have taken inspiration from Kent.
-# &nbsp; 
+
+# Inspirational Kent Women Writers 
 `.cards`
 
 ## May Aldington
@@ -10,7 +11,7 @@ As part of the Centre for Kent History and Heritage's celebration of inspiration
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
 
-May Aldington wrote _Meg of the Salt Pans_ set in a Kentish village near Sandport (Sandwich). The book draws on her own experiences living at the _Bell and Anchor_ in Sandwich. May was praised for her 'excellent pen pictures of Kentish people — people that we seem to know without being able to actually recognise'.
+May Aldington wrote _Meg of the Salt Pans_ set in a Kentish village near Sandport (Sandwich). May was praised for her 'excellent pen pictures of Kentish people — people that we seem to know without being able to actually recognise'.
 
 ## Jane Austen
 
@@ -18,7 +19,7 @@ May Aldington wrote _Meg of the Salt Pans_ set in a Kentish village near Sandpor
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
-Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. During these extended visits, Austen travelled to many other destinations in Kent for social calls or leisure outings.
+Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. 
 
 ## Aphra Behn
 
@@ -100,6 +101,14 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), 'New Woman' writer, feminist c
 
 Cicely Hamilton was a feminist actress, writer and playwright. She co-founded the Women Writers’ Suffrage League and was a vigorous campaigner for women’s suffrage.
 
+## Frances Hodgson Burnett
+
+[Frances Hodgson Burnett](/20c/20c-hodgson-burnett-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4e/Houghton_AC85_B9345_911s_-_Secret_Garden%2C_1911_-_cover.jpg)
+
+Author of _The Secret Garden_, Frances Hodgson Burnett lived at Great Maytham Hall, near Rolvenden.
+
 ## Victoria Holt
 
 [Victoria Holt](/20c/20c-holt-biography)
@@ -122,7 +131,7 @@ Bessie Marchant was born at Debden Court Farm, Petham, Canterbury on 12 December
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/afea106c-9a40-41cc-beb1-09c446c3af2a)
 
-Romance novelist Frances Frederica (Freda) Montrésor was born at Walmer on 23 September 1862. Her first novel _Into the Highways and Hedges_ is set in Dover where  nursery-maids, children, Punch and Judy shows, minstrels, gooseberry sellers, beggars, women with false lace and a Methody preacher all rub shoulders on the beach.
+Romance novelist Frances Frederica Montrésor was born at Walmer, 1862. Her first novel _Into the Highways and Hedges_ is set in Dover where nursery-maids, children, Punch and Judy shows, minstrels, gooseberry sellers, beggars all rub shoulders on the beach.
 
 ## Edith Nesbit
 
@@ -154,8 +163,8 @@ Baroness Orczy, the author of the _Scarlet Pimpernel_ stories lived at Monkton a
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/32/Rustic_bridge_at_Beltinge_1913.jpg)
 
-Author of pastoral tales, Mary L. Pendered lived in Herne Bay during the First World War and ran a Soldier’s Club at 
-Beltinge, converting a garage into a space for the soldiers. It was here that she indulged her love of entertaining. Singing around the piano became a nightly event, with coffee and biscuits served to the men.
+Author of pastoral tales, Mary L. Pendered lived in Herne Bay during World War One and ran a Soldier’s Club at 
+Beltinge in a converted garage. Singing around the piano became a nightly event, with coffee and biscuits served to the men.
 
 ## Bertha Porter
 
@@ -171,7 +180,7 @@ Biographer and bibliographer, Bertha Porter lived at Moyle Tower, Hythe. Develop
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41)
 
-Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, with literary sensations such as The Mysteries of Udolpho (1794) and The Italian (1796). Both of these are set in the exotic climate of southern Europe. However, Ann Radcliffe never went to Italy, even better than that, she came to Kent.
+Ann Radcliffe was a defining figure of the 18th century Gothic romance, with literary sensations such as The Mysteries of Udolpho (1794) and The Italian (1796), set in the exotic climate of southern Europe. However, Ann Radcliffe never went to Italy, even better she came to Kent.
 
 ## Vita Sackville-West
 
@@ -195,7 +204,7 @@ J.G. Sarasin, a popular historical fiction writer of the 1920s-1960s, lived in C
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c)
 
-Edith Katherine Spicer Jay, a writer of popular military tales, lived in Sandgate during the last ten years of her life. Her novels, which involved plots of military men ‘made good’ were shared among the soldiers at Shorncliffe Barracks who enjoyed her ‘realistic study of military life’. Her house was a home from home for the 'Cavalry Circle', where she offered ‘smokes’ and refreshments.
+Edith Katherine Spicer Jay, a writer of popular military tales, lived in Sandgate during the last ten years of her life. Her novels, which involved plots of military men ‘made good’ were shared among the soldiers at Shorncliffe Barracks who enjoyed her ‘realistic study of military life’. 
 
 ## Christopher St John
 
@@ -220,7 +229,7 @@ Harbour Street, Ramsgate in 1865.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/94/Suffolk_Reading_Wagon_1887.jpg)
 
-Published in 1909, Elizabeth von Arnim’s comic novel _The Caravaners_ is a loving depiction of holiday disaster. The real holiday on which it is based took place in the wet summer of 1907. The itinerary included Chatham, Leeds Castle, Sandgate, Great Chart, Staplehurst, Sissinghurst, Aylesford and Canterbury as well as parts of Sussex.
+Published in 1909, Elizabeth von Arnim’s comic novel _The Caravaners_ is a loving depiction of holiday disaster, based on a wet summer holiday of 1907. The itinerary includes Chatham, Leeds Castle, Sandgate, Great Chart, Staplehurst, Sissinghurst, Aylesford and Canterbury.
 
 ## Florence Warden (1857–1929) 
 
@@ -235,7 +244,7 @@ Florence Warden was an actor and writer who lived at St Mildred’s Road, Ramsga
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/19/G_Durand_Saturday_Night_at_the_Victoria_Theatre_BL.jpg)
 
-Gertrude Warden was an actress before becoming a writer. Her novel _The Wooing of a Fairy_ was set in Lythinge (Lympne) near ‘a vast panorama of marshland, intersected by canals and dotted here and there by tiny villages, bordered by a row of Martello towers, which looked at this distance like children’s overturned sand pails and the sea.’
+Gertrude Warden was an actress, then a writer. Her novel _The Wooing of a Fairy_ was set in Lythinge (Lympne) near ‘a vast panorama of marshland ... bordered by a row of Martello towers, which looked at this distance like children’s overturned sand pails and the sea.’
 
 ## Pamela Wynne
 

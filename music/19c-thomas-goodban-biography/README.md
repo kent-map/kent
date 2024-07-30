@@ -22,7 +22,7 @@ By crotchets or by quavers count
 In ev’ry Bar you play.
 <br><br>
 Some 230 subscribers are listed at the front of the booklet. Most are local, but the list includes music and booksellers as far afield as Marlborough, Stockport, Norwich, Newport, and Hull. Beyond this, it is difficult to tell how much success the venture brought him, though one contemporary periodical recommended it: the Quarterly _Musical Magazine and Review_ devoted over four pages to a – largely complimentary – article about it. 
-<param ve-image url="/images/MusicalCharacters-797x1024.jpg" label="Goodban’s Game of Musical Characters. Published in 1818" attribution="By kind permission of Walter Havighurst Special Collections, Miami University">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/music/MusicalCharacters-797x1024.jpg" label="Goodban’s Game of Musical Characters. Published in 1818" attribution="By kind permission of Walter Havighurst Special Collections, Miami University">
 
 The Game had a successor. Much later, in 1845, Goodban produced another game-based method of music instruction: a set of Music Cards. He admits in the Preface that he had made an attempt at this twenty years previously, ‘but becoming perplexed in the formation of the cards so as to make them sufficiently simple for general application, it was then abandoned and the manuscript laid by. A recent discovery of this manuscript has, however, induced [me] to make a fresh attempt.’ The package comprises 4 diagrams, and 48 cards (four sets of twelve) showing notes, rests, and rhythm values, which can be used in various ways in any of the seven games he’s devised. The game was advertised in the local press: 
 <br><br>
@@ -46,6 +46,7 @@ All these creations were published in London: the Game by Goulding, D’Almaine,
 Thomas Goodban was not the only important character in Canterbury’s musical history. Another was [William Henry Longhurst](/music/19c-william-longhurst-biography) (1819–1904).
 <br><br>
 This article was published: 1 June 2020.
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/music/Thomas_Goodban.jpg" label="Mr Thomas Goodban (1785–1863) of Canterbury Catch Club with Violin and Music" attribution="Canterbury Museums and Galleries">
 
 ### Bibliography
 Goodban, T. (1818). _Goodban’s Game of Musical Characters_. GB-Lbl; 1042.e.25.   

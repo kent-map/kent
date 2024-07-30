@@ -8,7 +8,7 @@ banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 
 #
-                                             
+                                            
 Chaplain of Eversley School, Sandgate 1915 – 1935 (thereafter in Lymington).   
 <br>
 ‘I wandered out on the Leas, amid the gay butterflies listening to the military band, which that afternoon was playing on the glorious headland. In the midst of all that kaleidoscope of colour and buzz of talk I had a sense of being separate and aloof.’ _Stealthy Terror_ (1918)   

@@ -51,6 +51,7 @@ By 1872 Adams, now operating as a chemist in [Canterbury](/19c/19c-canterbury), 
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-map center="Q29303" zoom="12">
 
+
 ### Bibliography
 
 Adams, Henry Gardiner. 'Among the Rhododendrons.' _The Ladies' Cabinet of Fashion, Music and Romance_. 1 July 1857. 39-40. [Nineteenth Century UK Periodicals.]( link.gale.com/apps/doc/DX1902063877/NCUK?u=ccc_uni&sid=bookmark-NCUK&xid=52c22fa2).    

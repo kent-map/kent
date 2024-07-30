@@ -6,7 +6,7 @@
        banner="https://stor.artstor.org/stor/1b43c385-c950-482f-984f-ae1afeff43b2" 
        layout="vertical">
        
-Primarily known for its long stretch of shingle beach, Deal may appear like any seaside town to most, but there is a vast history below the waves and onshore. The town has been involved in war and conflict throughout time. Let us explore Deal's rich military history.
+Primarily known for its long stretch of shingle beach, [Deal](/seascape/deal) may appear like any seaside town to most, but there is a vast history below the waves and onshore. The town has been involved in war and conflict throughout time. Let us explore Deal's rich military history.
 <param ve-image url="https://stor.artstor.org/stor/9a5975c8-3fc2-4974-b85a-3c666bcb5ad4" label="Rough Sea at Deal" attribution="Kent Maps Online Collection">
 
 **Julius Caesar - 55 BCE**    
