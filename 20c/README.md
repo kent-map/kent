@@ -13,13 +13,10 @@
 [Edmund Blunden](20c-blunden-biography)   
 [Elizabeth Bowen](20c-bowen-biography)   
 [Jocelyn Brooke](20c-brooke-biography)   
-<param ve-image url="https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f">
-
 [Winston Churchill](20c-churchill-chartwell)   
 [Alfred Cohen](20c-cohen-biography)   
 [Noel Coward](20c-coward-biography)   
 [Edith Craig](20c-craig-biography)   
-
 [T.S. Eliot](20c-eliot-biography)   
 [U.A. Fanthorpe](20c-fanthorpe-biography)   
 [John Ferguson](20c-ferguson-biography)   
@@ -27,21 +24,19 @@
 [Ford Madox Ford](20c-fordmadoxford-biography)   
 [E.M. Forster](20c-forster-em-biography)   
 [R. Austin Freeman](20c-freeman-biography)   
-
-[Cicely Hamilton](20c-hamilton-biography)   
+[Cicely Hamilton](20c-hamilton-biography)  
+[Frances Hodgson Burnett](20c-hodgson-burnett-biography)
 [Victoria Holt](20c-holt-biography)   
 [M.R. James](20c-jamesmr-biography)   
 [Walter James, the fourth Lord Northbourne](20c-northbourne-biography)   
 [Derek Jarman](20c-jarman-biography)   
 [Amy Johnson](20c-johnson-biography)   
-
 [Mary Kelly](20c-kelly-biography)   
 [D.H. Lawrence](20c-lawrence-biography)   
 [Somerset Maugham](20c-maugham-biography)  
 [Donald Maxwell](20c-maxwelld-biography)   
 [Paul Nash](20c-nash-biography)   
 [S.C. Nethersole](20c-nethersole-biography)  
-
 [Daphne Oram](20c-oram-biography)   
 [Baroness Orczy](20c-orczy-biography)   
 [Wilfred Owen](20c-owen-biography)   
@@ -50,13 +45,11 @@
 [William Pett Ridge](20c-pett-ridge-biography)   
 [Bertha Porter](20c-porter-biography)   
 [Diana & Tony Powell-Cotton](20c-powell-cotton)   
-
 [J.G. Sarasin](20c-salmon-biography)   
 [Christopher St John](20c-st-john-biography)  
 [Vita Sackville-West](20c-sackville-west-biography)    
 [Siegfried Sassoon](20c-sassoon-biography)   
 [Julian Symons](20c-symons-biography)   
-
 [Ellen Terry](20c-terry-biography)  
 [Mary Tourtel](20c-tourtel-biography)   
 [Elizabeth Von Arnim](20c-vonarnim-biography)   

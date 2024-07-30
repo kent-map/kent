@@ -17,7 +17,7 @@ During the second half of the eighteenth century, one of the most remarked-upon 
 
 [Sarah Baker](18c-baker-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/actors_and_theatres1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_Sarah_Baker.jpg)
 
 Sarah Baker, who was born in Milton, was a fairground performer, a ‘strolling player’, who become one of the most successful self-made women of the eighteenth century.
 

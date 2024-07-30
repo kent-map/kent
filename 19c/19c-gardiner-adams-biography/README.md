@@ -17,7 +17,7 @@ And with a murmur sweet, the shading bough requites._
 H. G. Adams. Sonnet to Tennyson
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Francis_Wheatley_-_The_Medway_at_Rochester_-_Google_Art_Project.jpg" label="The Medway at Rochester" attribution="Francis Wheatley, 1776, Yale Center for British Art, Public domain, via Wikimedia Commons">
 
-Henry Gardiner Adams was born in [Deal](/seascape/deal) and must have left school by 1826, when he was apprenticed to a [Canterbury](/19c/19c-canterbury) firm of chemists at the age of 14. He appears as a stationer in local directories in 1832 [^ref1] (not necessarily an unusual combination at the time) and married in 1842. An ambitious, self-made man, his literary work includes _The Ocean Queen, and Other Poems_ (1836) and the 1854 _God’s Image in Ebony_, an edited anthology which ‘aims at disabusing a certain portion of the public mind of what we conceive to be a pernicious error, by shewing that the Negro is morally and intellectually, as well as physically, the equal of the white man.’ [^ref2] 
+Henry Gardiner Adams was born in [Deal](/seascape/deal) and must have left school by 1826, when he was apprenticed to a [Canterbury](/19c/19c-canterbury) firm of chemists at the age of 14. He appears as a stationer in local directories in 1832[^ref1] (not necessarily an unusual combination at the time) and married in 1842. An ambitious, self-made man, his literary work includes _The Ocean Queen, and Other Poems_ (1836) and the 1854 _God’s Image in Ebony_, an edited anthology which ‘aims at disabusing a certain portion of the public mind of what we conceive to be a pernicious error, by shewing that the Negro is morally and intellectually, as well as physically, the equal of the white man.’[^ref2] 
 <param ve-image url="https://stor.artstor.org/stor/be26a7b9-01e8-423d-9934-50efe93590d3" label="Canterbury High Street" attribution="Kent Maps Online Postcard Collection">
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q29303" aliases="Canterbury">
@@ -70,8 +70,8 @@ Archive of the Royal Literary Fund. British Library. Loan 96 RLF. 1/1950/1: 14 S
 [^ref5]: Alfred Tennyson to Henry Gardiner Adams. 1 May 1843. 218.   
 [^ref6]: Letter from Dickens to H. G. Adams. 18 January 1840. Pilgrim 2. 11-12.
 [^ref7]: Letter from Dickens to H. G. Adams. 30 November 1858. See also letter from Dickens to H. G. Adams. 6 October 1861. Pilgrim 11. 158-9. 
-[^ref8]:'Among the Rhododendrons'. 40.
-[^ref9]:Letter from Dickens to H. G. Adams. 19 February 1866. 
+[^ref8]: 'Among the Rhododendrons'. 40.
+[^ref9]: Letter from Dickens to H. G. Adams. 19 February 1866. 
 [^ref10]: Letter from Dickens to H. G. Adams. 21 June 1868. Pilgrim 12. 135. 
-[^ref11: Letter from Dickens to H. G. Adams. 25 August 1868. Pilgrim 12. 173.   
+[^ref11]: Letter from Dickens to H. G. Adams. 25 August 1868. Pilgrim 12. 173.   
 [^ref12]: With thanks to Pete Orford and John Drew.
