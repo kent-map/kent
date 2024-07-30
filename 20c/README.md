@@ -25,7 +25,7 @@
 [E.M. Forster](20c-forster-em-biography)   
 [R. Austin Freeman](20c-freeman-biography)   
 [Cicely Hamilton](20c-hamilton-biography)  
-[Frances Hodgson Burnett](20c-hodgson-burnett-biography)
+[Frances Hodgson Burnett](20c-hodgson-burnett-biography)   
 [Victoria Holt](20c-holt-biography)   
 [M.R. James](20c-jamesmr-biography)   
 [Walter James, the fourth Lord Northbourne](20c-northbourne-biography)   
