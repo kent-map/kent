@@ -101,6 +101,12 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), 'New Woman' writer, feminist c
 
 Cicely Hamilton was a feminist actress, writer and playwright. She co-founded the Women Writers’ Suffrage League and was a vigorous campaigner for women’s suffrage.
 
+## Frances Hodgson Burnett
+
+[Frances Hodgson Burnett](/20c/20c-hodgson-burnett-biography)
+
+Author of _The Secret Garden_, Frances Hodgson Burnett lived at Great Maytham Hall, near Rolvenden.
+
 ## Victoria Holt
 
 [Victoria Holt](/20c/20c-holt-biography)
