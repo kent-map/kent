@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Frances Hodgson Burnett (1849 – 1924)" author="Elena Beighton-Delille" layout="vtl" 
+<param ve-config title="Frances Hodgson Burnett (1849–1924)" author="Elena Beighton-Delille" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/4/41/It%27s_fall_even_for_the_prettiest_rose..._%2810383091124%29.jpg">
 
 <!-- Global Entities -->
@@ -9,7 +9,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/4/41/It%27s_fall_even_for
 
 #
 
-Frances Hodgson Burnett (1849 – 1924) was a British-American author and playwright. She was born in Manchester and travelled between England and the USA, but lived at Great Maytham Hall, near Rolvenden, Kent, between 1898 and 1907.[^ref1] She moved there following her divorce from Swan Burnett; it might have been a refuge from some of the problems in her life, such as the press’s scrutiny of her divorce, and the lasting effect of the death of her younger son, Lionel, in 1890.
+Frances Hodgson Burnett (1849–1924) was a British-American author and playwright. She was born in Manchester and travelled between England and the USA, but lived at Great Maytham Hall, near Rolvenden, Kent, between 1898 and 1907.[^ref1] She moved there following her divorce from Swan Burnett; it might have been a refuge from some of the problems in her life, such as the press’s scrutiny of her divorce, and the lasting effect of the death of her younger son, Lionel, in 1890.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8c/Portrait_of_Frances_Hodgson_Burnett.jpg" label="Frances Hodgson Burnett" attribution="not stated, Public domain, via Wikimedia Commons">
 <!-- Base map centred on Rolvenden -->
 <param ve-map center="Q2313624" zoom="13">
