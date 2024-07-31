@@ -2,13 +2,14 @@
 <param ve-config title="Dover at Night" author="Michelle Crowther" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of_Dover_Castle_and_Archclift_Fort_%281756%29.jpg">
 
+<!-- Global Entities -->
 <param title="Dover" eid="Q179224">
 
-<param ve-map center="Q179224" zoom="12">
+<!-- Base map centered on Dover -->
+<param ve-map center="Q179224" zoom="12.5">
 
 <!-- Historical map layers --> 
-<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Ordnance Survey 1860">
-
+<param ve-map-layer active allmaps allmaps-id="a691a9303557c733" title="Davies 1863">
 
 #
 
@@ -82,5 +83,5 @@ This article was published: 22 March 2024. You can find articles about other Dov
 [^ref7]: Armstrong, T. _Dover Harbour_, 1942.
 [^ref8]: James, M.R. _Casting the Runes_, 1911.
 [^ref9]: Ford, D.M. _The Raid of Dover: A Romance of the Reign of Woman A.D. 1940_, 1910.
-[^ref10]:  _Ned of Dover_, 1800.
+[^ref10]: _Ned of Dover_, 1800.
 [^ref11]: Bates, H.E. _An Aspidistra in Babylon_, 1960, p. 48.
