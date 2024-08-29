@@ -9,6 +9,7 @@
 
 ### People
 
+[Richard Aldington](20-raldington-biography)   
 [H.E. Bates](20c-bates-biography)    
 [Edmund Blunden](20c-blunden-biography)   
 [Elizabeth Bowen](20c-bowen-biography)   
