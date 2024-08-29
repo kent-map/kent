@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Richard Aldington (1892-1962)" author="Dr Diana Hirst" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" description="Diana Hirst traces the life and work of the author, Richard Aldington.">
+<param ve-config title="Richard Aldington (1892-1962)" author="Dr Diana Hirst" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/7/79/Anon_-_Coastal_Landscape_near_Dover_-_12018.jpg" description="Diana Hirst traces the life and work of the author, Richard Aldington.">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
@@ -47,6 +47,7 @@ Aldington did not enlist until 1916 for medical reasons, and did not enjoy being
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Paul_Nash_Wire_1918-19.jpg" label="Wire 1918-19" attribution="Paul Nash, Public domain, via Wikimedia Commons">
 
 After the First World War many writers attempted to come to terms with their experiences, by writing out the pain and horror in plays and literature as well as poems. Copp describes how it was by writing _The Death of a Hero_ which enabled Aldington to ‘purge his system of dangerous material that he felt had been poisoning him for a decade.’[^ref3] The dust jacket for the first edition was created by [Paul Nash](/20c/20c-nash-biography), who himself had suffered on the battlefield, as Phil Hubbard tells us, tripping and injuring himself in the trenches. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Paul_Nash_woodcut_CONTEMPORARY_BRITISH_ARTISTS_1923_cropped.jpg" label="Paul Nash, Contemporary British Artists, 1923" attribution="Paul Nash, CC0, via Wikimedia Commons">
 
 ### Bibliography
 
