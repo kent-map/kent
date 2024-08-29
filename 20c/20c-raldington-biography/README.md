@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Richard Aldington (1892-1962)" author="Dr Diana Hirst" layout="vtl" banner="" description="Diana Hirst traces the life and work of the author, Richard Aldington.">
+<param ve-config title="Richard Aldington (1892-1962)" author="Dr Diana Hirst" layout="vtl" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" description="Diana Hirst traces the life and work of the author, Richard Aldington.">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="5aa3ce47b380271b" title="Kent Road Map">
