@@ -8,6 +8,7 @@
 
 The poet and novelist Richard Aldington is largely forgotten today, except for his association with the Imagist movement, an important element of modernism in the early part of the twentieth century. He was brought up in East Kent, the eldest child of Albert and [May Aldington](/19c/19c-aldington-biography). The family moved house frequently, from Dover, to Walmer, to St Margaret’s Bay and to Sandwich, before moving to London in 1909 (Harrow and Teddington). Aldington went to Mr Sweetman’s Seminary for Young Gentlemen in St Margaret’s Bay, and then to Dover College, an institution he disliked, and as a consequence made little effort at his studies, though he was fortunate in having access to his father’s library of around two thousand books. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Dover_College_postcard.jpg" label="Dover College" attribution="Ebay, Public domain, via Wikimedia Commons">
+<param ve-entity eid="Q179224" aliases="Dover">
 
 From what Michelle Crowther tells us about his mother, family life cannot have been easy, and ‘the bitterness/ the misery, the wretchedness of childhood’ are recorded in an early poem, [‘Childhood’](https://www.poetrysoup.com/famous/poem/childhood_1336
 ), published when he was 21.[^ref1]
@@ -20,6 +21,11 @@ down the turf on which grow orchids, bugloss, knapweed and harebells. In the val
 
 Of the towns and villages, George Winterbourne, the eponymous Hero, likes ‘Hamborough’ best, with its Barbican which leads onto the Marshes. From Hamborough you can walk past ‘almshouses and the hoary stone-mullioned Elizabethan Grammar School [now Manwood Court] over the level crossing, to Saxon “Friedasburg”, where tradition said a temple to Freya had once stood’. Aldington, for his part, talks of once wealthy Sandwich with its Barbican and Fisher Gate, old churches and houses, ‘Wodensborough’ [sic] with its shrine to Woden, as well as Richborough with its ‘indestructible walls’ Both George and Aldington detested Dullborough, ‘the town which contained his father’s offices and the minor public school which he attended’: Dover, and Dover College. In both books a long walk takes place: to Crockton in fiction, to Barfreston in reality. Aldington notes the Norman church. ‘We looked at the remarkable Norman carvings on the church, and sat in the sunshine on a low tomb facing the sculptured porch. A butterfly settled on a lichened gravestone, and we remembered that for the Greeks it was a symbol of the soul.’ 
 <param ve-image url="https://commons.wikimedia.org/wiki/File:Barfrestone_church,_the_south_doorway_-_geograph.org.uk_-_2166522.jpg" label=Barfrestone Church, the South Doorway" attribution="David Smith, ia Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-entity eid="Q26163" aliases="Sandwich">
+<param ve-entity eid="Q3192739" aliases="Woodnesborough">
+<param ve-entity eid="Q2607619" aliases="Richborough">
+<param ve-entity eid="Q2884452" aliases="Barfrestone">
+<param ve-entity eid="Q179224" aliases="Dover">
 
 He and his companion take lunch at a pub he thought was called ‘The Oak’. This must have been ‘The Yew Tree’ which was still a pub in the twenty-first century, only closing in 2010. And Aldington rejoices in the fact that that as a child he had glimpses of an England which had changed little since Shakespeare or Chaucer, whose lanes were white instead of black with tarmac, and before smithies ‘ringing with the clink of hammers on anvils and full of the acrid smell of burning hoofs’ were replaced by garages with petrol pumps.
 <param ve-image url="https://commons.wikimedia.org/wiki/File:The_Yew_Tree_at_Barfrestone._-_geograph.org.uk_-_315234.jpg" label="The Yew Tree at Barfrestone" attribution="Nick Smith" license="CC BY-SA 2.0">
@@ -33,16 +39,11 @@ War, and a prominent member of the Imagists, whose thinking was to be a catalyst
 
 in his Introduction to _An Imagist at War_, Aldington’s complete war poems, Michael Copp tells us that the unsigned preface to Amy Lowell’s 1915 anthology of Imagist poetry is substantially Aldington’s. of Imagism
 
-File:Poetry cover1.jpg
-
 Aldington did not enlist until 1916 for medical reasons, and did not enjoy being a soldier. His war poems reflect this. The greater part of poetry stemming from First World War experiences was written by men serving, or who had served, in the Army in the French/Belgian theatre of war. They were trapped in the muddy, infested trenches (which Paul Fussell aptly calls ‘The Troglodyte World’) in the destroyed landscape of Flanders and Picardy, a landscape resonant, and increasingly a mockery, of the chalk downlands of Southern England. The increasingly horrific circumstances cried out for something to react against them. Aldington’s poems reflect that horror, a horror which is often being visited on the classical world in the form of Greek gods and goddesses whose constellations look down
 
 from the skies, or the natural world with its trees and flowers and birds, often in freezing weather, just as much as it is visited on the human beings.
 
-After the First World War many writers attempted to come to terms with their experiences, by writing out the pain and horror in plays and literature as well as poems. Copp describes how it was by writing The Death of a Hero which enabled Aldington to ‘purge his system of dangerous material that he felt had been poisoning him for a decade.’[^ref3] The dust jacket for the first edition was created by Paul Nash, who himself had suffered on the battlefield, as Phil Hubbard tells us, tripping and injuring himself in the trenches. 
-https://www.fineeditionsltd.com/pages/books/BB2592/richard-aldington-paul-nash-illustrates/world-war-death-of-a-hero https://www.kent-maps.online/20c/20c-nash-biography/
-
-https://fineeditionsltd.cdn.bibliopolis.com/pictures/BB2592.jpeg?auto=webp&v=1630026234
+After the First World War many writers attempted to come to terms with their experiences, by writing out the pain and horror in plays and literature as well as poems. Copp describes how it was by writing The Death of a Hero which enabled Aldington to ‘purge his system of dangerous material that he felt had been poisoning him for a decade.’[^ref3] The dust jacket for the first edition was created by [Paul Nash](/20c/20c-nash-biography), who himself had suffered on the battlefield, as Phil Hubbard tells us, tripping and injuring himself in the trenches. 
 
 ### Bibliography
 
