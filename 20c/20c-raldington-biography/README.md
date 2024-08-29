@@ -1,3 +1,5 @@
+
+
 The poet and novelist Richard Aldington (1892-1962) is largely forgotten today, except for his association with the Imagist movement, an important element of modernism in the early part of the twentieth century. He was brought up in East Kent, the eldest child of Albert and May Aldington. The family moved house frequently, from Dover, to Walmer, to St Margaret’s Bay and to Sandwich, before moving to London in 1909 (Harrow and Teddington). Aldington went to Mr Sweetman’s Seminary for Young Gentlemen in St Margaret’s Bay, and then to Dover College, an institution he disliked, and as a consequence made little effort at his studies, though he was fortunate in having access to his father’s library of around two thousand books. https://upload.wikimedia.org/wikipedia/commons/f/f6/Dover_College_postcard.jpg
 
 From what Michelle Crowther tells us about his mother, family life cannot have been easy, and ‘the bitterness/ the misery, the wretchedness of childhood’ are recorded in an early poem, ‘Childhood’, published when he was 21. https://www.kent-maps.online/19c/19c-aldington-biography/ https://www.poetrysoup.com/famous/poem/childhood_1336
