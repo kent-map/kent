@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Richard Aldington (1892-1962)" author="Dr Diana Hirst" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/f8/Alfred_William_Finch_-_The_Cliffs_of_Dover_%2C_The_Cliffs_at_South_Foreland_-_A_II_1700_-_Finnish_National_Gallery.jpg" description="Diana Hirst traces the life and work of the author, Richard Aldington.">
+<param ve-config title="Richard Aldington (1892-1962)" author="Dr Diana Hirst" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b0/John_Thomas_Serres_-_The_South_Foreland_and_Shakespeare%27s_Cliff_%28one_of_five_drawings_on_one_mount%29_-_B1975.4.1593_-_Yale_Center_for_British_Art.jpg" description="Diana Hirst traces the life and work of the author, Richard Aldington.">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
