@@ -1,4 +1,13 @@
+<param ve-config title="Baroness Emmuska Orczy (1865-1947)" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg">
 
+<param ve-entity eid="Q590422" aliases="Isle of Thanet">
+<param ve-entity eid="Q1917280" aliases="Monkton">
+<param ve-entity eid="Q2404354" aliases="Acol">
+<param ve-entity eid="Q9033431" aliases="Minster">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q213180" aliases="Maidstone">
+<param ve-entity eid="Q725261" aiases="Ashford">
+<param ve-entity eid="Q2065577" aliases="Bearsted">
 
 #
 
