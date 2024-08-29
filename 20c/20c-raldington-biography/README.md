@@ -2,7 +2,7 @@
 <param ve-config title="Richard Aldington (1892-1962)" author="Dr Diana Hirst" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg" description="Diana Hirst traces the life and work of the author, Richard Aldington.">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
+<param ve-map-layer active allmaps allmaps-id="5aa3ce47b380271b" title="Kent Road Map">
 
 #
 
