@@ -6,7 +6,7 @@
 
 #
 
-David Copperfield's [curated walk](David_Copperfield_Curated_walk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can [smell](https://vimeo.com/408543370/5eccb2722a) as he enters rural Kent or quite why his feet are so damaged by the journey's end.
+David Copperfield's [curated walk](/dickens/david-copperfield-curated-walkk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can [smell](https://vimeo.com/408543370/5eccb2722a) as he enters rural Kent or quite why his feet are so damaged by the journey's end.
 <param ve-map-layer geojson active eid="dickens:dover-road" title="Dover Road" url="https://raw.githubusercontent.com/kent-map/kent/main/geojson/david-copperfield-dover-road.json">
 
 Maps can show us the route, but what of the road itself? We can surmise something from what we know about road surfaces during this period and mismanagement in an era that had turnpikes. As David leaves [Canterbury](/dickens/david-copperfield-curated-walk), he is likely to be on road surfaces that are well kept, the city is  paved and cobbled. There are even accounts in 1838 of bitumen pavements in Canterbury. So, this part of the journey might be relatively easy compared with what he would encounter further on. The Victorian image of the cobbled road quickly fades to a road surface called McAdam. This type of road surface was cheaper and easier to lay and maintain. 
