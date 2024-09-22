@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Edmund Blunden" author="Alice Sellors and Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Court%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2369693.jpg" attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" license="CC BY-SA 2.0" description="Alice Sellors and Michelle Crowther trace Kent connections in the life and work of poet, author and critic, Edmund Blunden.">
+<param ve-config title="Edmund Blunden" author="Michelle Crowther and Alice" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Court%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2369693.jpg" attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" license="CC BY-SA 2.0" description="Alice and Michelle trace Kent connections in the life and work of poet, author and critic, Edmund Blunden.">
 
 <!-- Global Entities -->
 <param ve-entity eid="Q2051722" aliases="Yalding">
