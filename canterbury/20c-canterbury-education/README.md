@@ -42,6 +42,7 @@ The modern development of the school was largely the achievement of Canon Shirle
 <param ve-image url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" label="Mint Yard" attribution="Mint Yard, Kings School, Canterbury, 1976. By kind permission of King's School, Canterbury">
 
 Modernisation and further expansion continued apace from girls joining the school in the sixth form with the acquisition of St Augustine’s College next to the ruins of the medieval St Augustine’s Abbey and, in 1990, becoming fully co-educational as a school of 850. Today 13 boarding houses are scattered around the Precincts, Broad Street and St Augustine’s. In the process King’s has taken on the conservation and enhancement of the ancient buildings in the Precincts and St Augustine’s, which in 1988 were declared by UNESCO as part of the Canterbury World Heritage site. In addition the historic buildings of the Dominican Priory, St Alphege Church and, more recently, the Malthouse, a 19th-century brewery converted into a state-of-the-art theatre, with the Shirley Hall, are made available by the school for community use.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/The_River_Stour_-_geograph.org.uk_-_773783.jpg" label="The River Stour with views of the Dominican Priory" attribution="david mills, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 
 #### Simon Langton Grammar Schools (for boys and for girls)
 
