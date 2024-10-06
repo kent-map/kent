@@ -8,7 +8,6 @@
     description="Hannah Jennison, Alfie Forsyth and Jonathan Baker introduce te devastating WW2 Doodlebug raids in Kent.">
 
 <!-- Global Entities -->
-<param ve-entity title="V-1 flying bomb" eid="Q153348" aliases="V-1"> <!-- V-1 flying bomb -->
 <param ve-entity title="Orpington" eid="Q123977">
 <param ve-entity title="Hythe" eid="Q967166">
 <param ve-entity title="Dungeness" eid="Q911577">
