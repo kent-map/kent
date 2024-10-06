@@ -8,7 +8,7 @@ Reclaiming narratives is a call to action for Black communities across the UK to
 
 ## William Cuffay
 
-[William Cuffay](/19c/19cc-cuffay-biography)
+[William Cuffay](/19c/19c-cuffay-biography)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
 
