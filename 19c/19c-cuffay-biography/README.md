@@ -17,9 +17,9 @@ In about 1819, William moved to London. In the same year, he married Ann Marshal
 
 In London, William  joined a trade union. Unions did not have legal status until the Trade Union Act 1871. At this time they were  small collectives of workers. Being a union member could be dangerous not only for one’s career but also for safety. Mostly due to the hostility they encountered from employers and government groups.  Nonetheless William became very involved in the union and gained respect from his peers. Reynolds documents,  
 <br><br>
-‘In a letter written by one who has known upwards of forty years, “Cuffay was a good spirit – Ihave known some thousands in the trade, and I never knew a man I would sooner confide in, and I believe this to be the feeling of thousands in the business to this day.’ 
+‘In a letter written by one who has known upwards of forty years, “Cuffay was a good spirit – Ihave known some thousands in the trade, and I never knew a man I would sooner confide in, and I believe this to be the feeling of thousands in the business to this day.’[^ref8] 
 <br><br>
-In 1834, the tailors went on strike. Eventually, the tailors returned to work, due to the financial strain on their households (Parssinen and Prothero). William held out a little longer than most but ultimately gave in. However, he was not allowed back to work and was dismissed.  
+In 1834, the tailors went on strike. Eventually, the tailors returned to work, due to the financial strain on their households.[^ref9] William held out a little longer than most but ultimately gave in. However, he was not allowed back to work and was dismissed.  
 
 After struggling as a travelling tailor, William turned to politics, joining the Chartist movement in 1839.  The group had six main aims called the Charter: Universal male suffrage, a secret ballot, no property qualification to become a Member of Parliament, embers of Parliament are to be paid a wage, electoral districts of equal size, annual elections (Craig). In 1842, William was elected as president of the London Chartists and The Times dubbed him “The Black Man and His Party” (Wheeler cited by Fryer). The increased publicity led to William’s third Wife, Mary Ann, being dismissed from her job (Holyoake cited by Fryer).Holyoake cited by Fryer). 
 
@@ -47,6 +47,8 @@ William’s wish for universal male suffrage was achieved 48 years after his dea
 [^ref5]: _The Standard_, May 1848, quoting the _Kentish Gazette_.
 [^ref6]: Aubry, Bruce. _Red Flows the Medway: A Labour History of the Medway Towns_. The Pocock Press. Vol 2. ISBN 0-9545785-1-1. 2010.   
 [^ref7]: Hoyles, Martin. _William Cuffay – The Life and Times of a Chartist Leader_. Hansib Publication.  ISBN-10 1906190623. 16 Oct. 2012. pp 1-284.  
+[^ref8]:
+[^ref9]: Parssinen, T. M, and I. J. Prothero. “The London Tailors’ Strike of 1834 and the Collapse of the Grand National Consolidated Trades’ Union: A Police Spy’s Report.” _International Review of Social History_ 22.1 (1977): 65–107. https://www.cambridge.org/core/journals/international-review-of-social-history/article/london-tailors-strike-of-1834-and-the-collapse-of-the-grand-national-consolidated-trades-union-a-police-spys-report/8FC2D76D5A1E9510500CE3A6C914317B. 
 
 Britannica, The Editors of Encyclopedia. "Nelson Mandela". _Encyclopedia Britannica_, 15 Aug. 2024, https://www.britannica.com/biography/Nelson-Mandela. Last Accessed 16 August 2024.   
 “Trade union.” _Encyclopedia Britannica_, 15 Sept. 2024, https://www.britannica.com/topic/trade-union. Last Accessed 22 Sept 2024.   
@@ -59,7 +61,7 @@ Holyoake, George, Jacob. _Sixty years of an agitator's life_, 2 vols. (1892).
 Medway Council. _To London and Beyond_. https://www.medway.gov.uk/info/200393/cuffay_and_chatham_exhibition/1162/to_london_and_beyond. Last Accessed 15th August.  
 “William Cuffay talk by Dr Clarke.” YouTube. 27 Jul. 2020. https://youtu.be/ggWwo6I693U?si=5OTsVJVDwCPSeOsG.   
 National Portrait Gallery. William Cuffay. https://www.npg.org.uk/collections/search/portrait/mw63331/William-Cuffay?LinkID=mp62208&role=sit&rNo=0&_gl=1*1lcdx93*_up*MQ..*_ga*NjIzMDczNTA3LjE3MjM4NDQ2Mjk.*_ga_3D53N72CHJ*MTcyMzg0NDYyOS4xLjEuMTcyMzg0NDY1NS4wLjAuMA. Last Accessed 16 Aug.   
-Parssinen, T. M, and I. J. Prothero. “The London Tailors’ Strike of 1834 and the Collapse of the Grand National Consolidated Trades’ Union: A Police Spy’s Report.” _International Review of Social History_ 22.1 (1977): 65–107. https://www.cambridge.org/core/journals/international-review-of-social-history/article/london-tailors-strike-of-1834-and-the-collapse-of-the-grand-national-consolidated-trades-union-a-police-spys-report/8FC2D76D5A1E9510500CE3A6C914317B    
+  
 [William CUffay, Black Chartism and a Treasure Object](https://phm.org.uk/blogposts/william-cuffay-black-chartism-and-a-treasured-object/)    
     
 UK Parliament. 1918 Representation of the People Act. https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/case-study-the-right-to-vote/the-right-to-vote/birmingham-and-the-equal-franchise/1918-representation-of-the-people-act/. Last Accessed 16 Aug.    
