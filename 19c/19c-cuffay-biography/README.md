@@ -15,11 +15,11 @@ William suffered from ill health due to a “deformed” spine and shins from bi
 
 In about 1819, William moved to London. In the same year, he married Ann Marshall; who died five years later. William visited Medway regularly whilst living in London. He maried Ann Broomhead in 1825, and a year later William’s only child, Ann Juliana Cuffay, was born. Unfortunately, his wife died during childbirth and his daughter died shortly after her baptism at St Mary Magdalene's Church, Gillingham.[^ref6] William remarried for the third and final time in 1827 to Ann Manvell.[^ref7]
 
- In LondonWilliam  joined a trade union. Uunions were not given a legal foundation until the Trade Union Act 1871. At this time they were  small collectives of workers. . Being a union member could be dangerous not only for one’s career but also for their safety. Mostly due to, the hostility they encountered from employers and government groups.  Nonetheless William became very involved in the union and gained  respect from his peers. Reynolds documents,  
-
+In London, William  joined a trade union. Unions did not have legal status until the Trade Union Act 1871. At this time they were  small collectives of workers. Being a union member could be dangerous not only for one’s career but also for safety. Mostly due to the hostility they encountered from employers and government groups.  Nonetheless William became very involved in the union and gained respect from his peers. Reynolds documents,  
+<br><br>
 ‘In a letter written by one who has known upwards of forty years, “Cuffay was a good spirit – Ihave known some thousands in the trade, and I never knew a man I would sooner confide in, and I believe this to be the feeling of thousands in the business to this day.’ 
-
-In 1834, the Tailors went on strike. Inevitably, the Tailors returned to work, mostly due to the financial strain it put on their households (Parssinen and Prothero). William held out a little longer than most but ultimately gave in. However, he was not allowed back to work and was dismissed.  
+<br><br>
+In 1834, the tailors went on strike. Eventually, the tailors returned to work, due to the financial strain on their households (Parssinen and Prothero). William held out a little longer than most but ultimately gave in. However, he was not allowed back to work and was dismissed.  
 
 After struggling as a travelling tailor, William turned to politics, joining the Chartist movement in 1839.  The group had six main aims called the Charter: Universal male suffrage, a secret ballot, no property qualification to become a Member of Parliament, embers of Parliament are to be paid a wage, electoral districts of equal size, annual elections (Craig). In 1842, William was elected as president of the London Chartists and The Times dubbed him “The Black Man and His Party” (Wheeler cited by Fryer). The increased publicity led to William’s third Wife, Mary Ann, being dismissed from her job (Holyoake cited by Fryer).Holyoake cited by Fryer). 
 
