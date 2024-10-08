@@ -27,14 +27,14 @@ William was a physical force Chartist,1848 was a pivotal year in Chartist’s hi
 
 As 1848 neared an end, the Chartist movement diminished. Government spies infiltrated the organisation. Later that year, William was arrested on a charge of conspiracy to levy war against Her Majesty Queen Victoria and her Government. In Newgate Prison, his friend, William Paul Dowling, drew a portrait of William, which is the only documentation of his appearance (National Portrait Gallery). The broadsheets mocked William and other “non-English” Chartists. They suggested that most of the people involved in protests throughout the year were not of English heritage. the Illustrated London News, ridiculed William’s 'ni**er humour' (cited by Fryer).  
 
-In 1849, William’s trial began. He  insisted that the court had no right to try him as all the jurors were middle-class. He asserted that he should be tried with a jury of “his equals.” Unfortunately, this would be impossible as, similar to voting, men had to have property to qualify to be a juror (Clarke). The trial neared its end; William gave a passionate final speech where he talked about how the press demonised him and addressed the reason he carried a gun. 
+In 1849, William’s trial began. He  insisted that the court had no right to try him as all the jurors were middle-class. He asserted that he should be tried with a jury of “his equals.” Unfortunately, this would be impossible as, similar to voting, men had to have property to qualify to be a juror (Clarke). The trial neared its end; William gave a passionate final speech where he talked about how the press demonised him and addressed the reason he carried a gun.
+<br><br>
+“My Lords, I say you ought not to sentence me. First, because although this has been a long and important trial, it has not been a fair trial. – I have been taunted by the press and it has tried to smother me with ridicule and it has done everything in its power to crush me. – I was threatened with assassination, and therefore, I considered I had a right, and indeed every English man has a right according to Old Statute to have arms.” (Transcribed by Cohen [ME], History Hub).
+<br><br>
+William was charged as guilty, narrowly avoiding the death penalty. He was sentenced to transportation to Van Diemen’s Land, now Tasmania, for life. 
 
-“My Lords, I say you ought not to sentence me. First, because although this has been a long and important trial, it has not been a fair trial. – I have been taunted by the press and it has tried to smother me with ridicule and it has done everything in its power to crush me. – I was threatened with assassination, and therefore, I considered I had a right, and indeed every English man has a right according to Old Statute to have arms.” (Transcribed by Cohen [ME], History Hub). 
-
-William was charged as guilty, narrowly avoiding the death penalty. . He was sentenced to transportation to Van Diemen’s Land, now Tasmania, for life. 
-
-After a journey lasting 103 days on the prison ship Adelaide, William arrived in Tasmania in November 1849. After an almost four-year delay, Mary Ann joined him. On 19th May 1856, William was pardoned for his conviction. However, he decided to stay in Australia (Fryer). . He worked as a travelling tailor and remained in local politics until the last year of his life. In October 1869, William was admitted to a workhouse, which essentially was a prison, a “mental” hospital and a sweatshop in one and he died at the age of 82 in July 1870. 
-
+After a journey lasting 103 days on the prison ship _Adelaide_, William arrived in Tasmania in November 1849. After an almost four-year delay, Mary Ann joined him. On 19th May 1856, William was pardoned for his conviction. However, he decided to stay in Australia (Fryer). He worked as a travelling tailor and remained in local politics until the last year of his life. In October 1869, William was admitted to a workhouse and died at the age of 82 in July 1870.
+<br><br>
 William’s wish for universal male suffrage was achieved 48 years after his death when the Representation of People Act 1918 was introduced. The Act allowed all men over 21 and women over 30 who met the property qualifications the right to vote (UK Parliament).  
 
  
