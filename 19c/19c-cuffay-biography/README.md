@@ -9,9 +9,9 @@ banner="https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%28
 
 #
 
-In 1788, the Chartist leader, William Cuffay,was born at Brompton, near Chatham.  He was the eldest child of Chatham and Julianna Cuffay.  His father, Chatham, was born on the island of St Kitts in 1755, and became a cook on a British Navy warship;[^ref1] his mother Julianna came from Gillingham. In 1772, Chatham moved to Medway and was baptised at St Mary’s Church, Chatham. Chatham took his new name from the town in which he found himself. In 1786, Chatham Cuffay and Julianna Fox were married at St Mary Magdalene Church in Gillingham.[^ref2] 
+In 1788, the Chartist leader, William Cuffay,was born at Brompton, near Chatham.  He was the eldest child of Chatham and Julianna Cuffay.  His father, Chatham, was born on the island of St Kitts in 1755, and his mother Julianna came from Gillingham. In 1772, Chatham moved to Medway and was baptised at St Mary’s Church, Chatham. Chatham took his new name from the town in which he found himself. In 1786, Chatham Cuffay and Julianna Fox were married at St Mary Magdalene Church in Gillingham.[^ref2] 
 
-William suffered from ill health due to a “deformed” spine and shins from birth (Staffordshire University Libraries). Moreover, William grew to be only 4 foot 11, just under half a foot shorter than the average man of the time. William grew up in and around the Chatham dockyard, where his father worked as a  cook on naval ships. William was the oldest of six children. He had four brothers and one sister. Unfortunately, William’s youngest brother John died as an infant (Ancestry).  When William was around 12, his father arranged for himto train as an apprentice tailor.. The seven years of training helped supplement the family's income and provided William a valuable education equiping him with the required skill for the trade. After he completed his apprenticeship, he worked at ‘Acworth and Matthews’ which was on Chatham high street (The Standard May 1848, quoting the Kent Gazette). 
+William suffered from ill health due to a “deformed” spine and shins from birth.[^ref3] He grew to be only 4 foot 11, just under half a foot shorter than the average man of the time. William grew up in and around the Chatham dockyard, where his father worked as a  cook on naval ships. William was the oldest of six children. He had four brothers and one sister, although his youngest brother John died in infancy.[^ref4] (Ancestry).  When William was around 12, his father arranged for himto train as an apprentice tailor.. The seven years of training helped supplement the family's income and provided William a valuable education equiping him with the required skill for the trade. After he completed his apprenticeship, he worked at ‘Acworth and Matthews’ which was on Chatham high street (The Standard May 1848, quoting the Kent Gazette). 
 
 In about 1819, William moved to London.. In the same year, William and Ann Marshall got married;unfortunately she passed away five years later.   Perhaps as a respite from the busy capital, William would visit Medway regularly while living in London. He maried Ann Broomhead in 1825, and a year later William’s only child, Ann Juliana Cuffay, was born. Unfortunately, Ann (mother) died during childbirth and Ann (daughter) passed away not long after her baptism at St Mary Magdalene's Church, Gillingham (Aubry). William remarried for the third and final time in 1827 to Ann Manvell (Hoyles). 
 
@@ -44,11 +44,12 @@ William’s wish for universal male suffrage was achieved 48 years after his dea
 
 [^ref1]: Fryer, Peter. “Cuffay, William. (bap. 1788, d 1870).” _Oxford Dictionary of National Biography_. Sept 23. 2004. Oxford University Press. https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-71636?rskey=4OFhJz&result=1   	
 [^ref2]: Medway Council. "Chatham Cuffay." Available at: https://www.medway.gov.uk/info/200393/cuffay_and_chatham_exhibition/1159/chatham_cuffay (Accessed: 8 October 2024).
- 
+[^ref3]: Staffordshire University Libraries. “William Cuffay.” _UK Disability History Month_. https://libguides.staffs.ac.uk/ukdhm/cuffay. Last Accessed 15th August.
+[^ref4]: Ancestry. Chatham Cuffay : Persons file. https://www.ancestry.co.uk/family-tree/person/tree/11041469/person/48578314063/facts?_phsrc=GHf34&_phstart=successSource. Last Accessed 22 Sept 2024.
 
 ### Bibliography
 
-Ancestry. Chatham Cuffay : Persons file. https://www.ancestry.co.uk/family-tree/person/tree/11041469/person/48578314063/facts?_phsrc=GHf34&_phstart=successSource. Last Accessed 22 Sept 2024.    
+    
 Aubry, Bruce. _Red Flows the Medway: A Labour History of the Medway Towns_. The Pocock Press. Vol 2. ISBN 0-9545785-1-1. 2010.   
 Britannica, The Editors of Encyclopedia. "Nelson Mandela". _Encyclopedia Britannica_, 15 Aug. 2024, https://www.britannica.com/biography/Nelson-Mandela. Last Accessed 16 August 2024.   
 “Trade union.” _Encyclopedia Britannica_, 15 Sept. 2024, https://www.britannica.com/topic/trade-union. Last Accessed 22 Sept 2024.   
@@ -63,7 +64,7 @@ Medway Council. _To London and Beyond_. https://www.medway.gov.uk/info/200393/cu
 National Portrait Gallery. William Cuffay. https://www.npg.org.uk/collections/search/portrait/mw63331/William-Cuffay?LinkID=mp62208&role=sit&rNo=0&_gl=1*1lcdx93*_up*MQ..*_ga*NjIzMDczNTA3LjE3MjM4NDQ2Mjk.*_ga_3D53N72CHJ*MTcyMzg0NDYyOS4xLjEuMTcyMzg0NDY1NS4wLjAuMA. Last Accessed 16 Aug.   
 Parssinen, T. M, and I. J. Prothero. “The London Tailors’ Strike of 1834 and the Collapse of the Grand National Consolidated Trades’ Union: A Police Spy’s Report.” _International Review of Social History_ 22.1 (1977): 65–107. https://www.cambridge.org/core/journals/international-review-of-social-history/article/london-tailors-strike-of-1834-and-the-collapse-of-the-grand-national-consolidated-trades-union-a-police-spys-report/8FC2D76D5A1E9510500CE3A6C914317B    
 [William CUffay, Black Chartism and a Treasure Object](https://phm.org.uk/blogposts/william-cuffay-black-chartism-and-a-treasured-object/)    
-Staffordshire University Libraries. “William Cuffay.” UK Disability History Month. https://libguides.staffs.ac.uk/ukdhm/cuffay. Last Accessed 15th August.    
+    
 UK Parliament. 1918 Representation of the People Act. https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/case-study-the-right-to-vote/the-right-to-vote/birmingham-and-the-equal-franchise/1918-representation-of-the-people-act/. Last Accessed 16 Aug.    
 Wheeler, Thomas, Martin. “Mr William Cuffay.” _Reynolds's Political Instructor_. 13 April 1850. 
 
