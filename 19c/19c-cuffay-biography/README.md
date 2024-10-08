@@ -9,7 +9,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%28
 
 #
 
-In 1788, the Chartist leader, William Cuffay,was born at Brompton, near Chatham.  He was the eldest child of Chatham and Julianna Cuffay.  His father, Chatham, was born on the island of St Kitts in 1755 and became a cook on a British Navy warship; his mother Julianna came from Gillingham. In 1772, Chatham moved to Medway. He was no longer enslaved; and may have bought his freedom before making the voyage.[^ref1] In February of that year, they were baptised at St Mary’s Church, Chatham. Chatham took his new name from the town in which they found themselves. In 1786, Chatham Cuffay and Julianna Fox were married in a church in Gillingham (Medway Council). 
+In 1788, the Chartist leader, William Cuffay,was born at Brompton, near Chatham.  He was the eldest child of Chatham and Julianna Cuffay.  His father, Chatham, was born on the island of St Kitts in 1755, and became a cook on a British Navy warship;[^ref1] his mother Julianna came from Gillingham. In 1772, Chatham moved to Medway and was baptised at St Mary’s Church, Chatham. Chatham took his new name from the town in which he found himself. In 1786, Chatham Cuffay and Julianna Fox were married at St Mary Magdalene Church in Gillingham.[^ref2] 
 
 William suffered from ill health due to a “deformed” spine and shins from birth (Staffordshire University Libraries). Moreover, William grew to be only 4 foot 11, just under half a foot shorter than the average man of the time. William grew up in and around the Chatham dockyard, where his father worked as a  cook on naval ships. William was the oldest of six children. He had four brothers and one sister. Unfortunately, William’s youngest brother John died as an infant (Ancestry).  When William was around 12, his father arranged for himto train as an apprentice tailor.. The seven years of training helped supplement the family's income and provided William a valuable education equiping him with the required skill for the trade. After he completed his apprenticeship, he worked at ‘Acworth and Matthews’ which was on Chatham high street (The Standard May 1848, quoting the Kent Gazette). 
 
@@ -42,7 +42,8 @@ William’s wish for universal male suffrage was achieved 48 years after his dea
  
 ### References
 
-[^ref1]: Sánchez, Romy, and Fabrice Bensimon. "European homelands, global vistas." _Banished: Traveling the Roads of Exile in Nineteenth-Century Europe_ 1, 2021, p. 205.
+[^ref1]: Fryer, Peter. “Cuffay, William. (bap. 1788, d 1870).” _Oxford Dictionary of National Biography_. Sept 23. 2004. Oxford University Press. https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-71636?rskey=4OFhJz&result=1   	
+[^ref2]: 
  
 
 ### Bibliography
@@ -52,7 +53,7 @@ Aubry, Bruce. _Red Flows the Medway: A Labour History of the Medway Towns_. Th
 Britannica, The Editors of Encyclopedia. "Nelson Mandela". _Encyclopedia Britannica_, 15 Aug. 2024, https://www.britannica.com/biography/Nelson-Mandela. Last Accessed 16 August 2024.   
 “Trade union.” _Encyclopedia Britannica_, 15 Sept. 2024, https://www.britannica.com/topic/trade-union. Last Accessed 22 Sept 2024.   
 Craig, Harriet. ‘The Black Man and his Party’ : William Cuffey, Chartist Leader. 19 Oct. 2017. https://blog.nationalarchives.gov.uk/black-man-party-william-cuffey-chartist-leader/  
-Fryer, Peter. “Cuffay, William. (bap. 1788, d 1870).” _Oxford Dictionary of National Biography_. Sept 23. 2004. Oxford University Press. https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-71636?rskey=4OFhJz&result=1   	 
+ 
 Gossman, Norbert J. “William Cuffay: London’s Black Chartist.” _Phylon_, vol. 44, no. 1, 1983, pp. 56–65. _JSTOR_, https://doi.org/10.2307/274369. Last Accessed 16 Aug.   
 History Hub. William Cuffay, Chartist leader | Speech from the dock 1848. 22 Jan. 2021. https://youtu.be/f1AQpNqGEa4?si=X-WFUzge5IqSmKhc   
 Holyoake, George, Jacob. _Sixty years of an agitator's life_, 2 vols. (1892).   
