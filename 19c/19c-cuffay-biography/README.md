@@ -9,7 +9,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%28
 
 #
 
-In 1788, the Chartist leader, William Cuffay,was born at Brompton, near Chatham.  He was the eldest child of Chatham and Julianna Cuffay.  His father, Chatham, was born into Slavery in St Kitts in 1755 and his mother Julianna came from Gillingham. In 1772, Chatham moved to Medway. He was no longer enslaved; and may have bought his freedom before making the voyage. In February of that year, they were baptised at St Mary’s Church, Chatham. Chatham took his new name from the town in which they found themselves. In 1786, Chatham Cuffay and Julianna Fox were married in a church in Gillingham (Medway Council). 
+In 1788, the Chartist leader, William Cuffay,was born at Brompton, near Chatham.  He was the eldest child of Chatham and Julianna Cuffay.  His father, Chatham, was born into Slavery in St Kitts in 1755 and his mother Julianna came from Gillingham. In 1772, Chatham moved to Medway. He was no longer enslaved; and may have bought his freedom before making the voyage.[^ref1] In February of that year, they were baptised at St Mary’s Church, Chatham. Chatham took his new name from the town in which they found themselves. In 1786, Chatham Cuffay and Julianna Fox were married in a church in Gillingham (Medway Council). 
 
 William suffered from ill health due to a “deformed” spine and shins from birth (Staffordshire University Libraries). Moreover, William grew to be only 4 foot 11, just under half a foot shorter than the average man of the time. William grew up in and around the Chatham dockyard, where his father worked as a  cook on naval ships. William was the oldest of six children. He had four brothers and one sister. Unfortunately, William’s youngest brother John died as an infant (Ancestry).  When William was around 12, his father arranged for himto train as an apprentice tailor.. The seven years of training helped supplement the family's income and provided William a valuable education equiping him with the required skill for the trade. After he completed his apprenticeship, he worked at ‘Acworth and Matthews’ which was on Chatham high street (The Standard May 1848, quoting the Kent Gazette). 
 
@@ -40,10 +40,12 @@ After a journey lasting 103 days on the prison ship Adelaide, William arrived in
 William’s wish for universal male suffrage was achieved 48 years after his death when the Representation of People Act 1918 was introduced. The Act allowed all men over 21 and women over 30 who met the property qualifications the right to vote (UK Parliament).  
 
  
+### References
 
+[^ref1]: Sánchez, Romy, and Fabrice Bensimon. "European homelands, global vistas." _Banished: Traveling the Roads of Exile in Nineteenth-Century Europe_ 1, 2021, p. 205.
  
 
-### References
+### Bibliography
 
 Ancestry. Chatham Cuffay : Persons file. https://www.ancestry.co.uk/family-tree/person/tree/11041469/person/48578314063/facts?_phsrc=GHf34&_phstart=successSource. Last Accessed 22 Sept 2024.    
 Aubry, Bruce. _Red Flows the Medway: A Labour History of the Medway Towns_. The Pocock Press. Vol 2. ISBN 0-9545785-1-1. 2010.   
