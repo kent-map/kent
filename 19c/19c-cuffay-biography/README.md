@@ -13,7 +13,7 @@ In 1788, the Chartist leader, William Cuffay,was born at Brompton, near Chatham.
 
 William suffered from ill health due to a “deformed” spine and shins from birth.[^ref3] He grew to be only 4 foot 11, just under half a foot shorter than the average man of the time. William grew up in and around the Chatham dockyard, where his father worked as a  cook for the British Navy. William was the oldest of six children. He had four brothers and one sister, although his youngest brother John died in infancy.[^ref4]  When William was around 12, his father arranged for him to train as an apprentice tailor. The seven years of training helped supplement the family's income and provided William with a valuable trade. After he completed his apprenticeship, he worked at ‘Acworth and Matthews’ which was on Chatham High Street.[^ref5]  
 
-In about 1819, William moved to London. In the same year, he married Ann Marshall; who died five years later. William visited Medway regularly whilst living in London. He maried Ann Broomhead in 1825, and a year later William’s only child, Ann Juliana Cuffay, was born. Unfortunately, his wife died during childbirth and his daughter died shortly after her baptism at St Mary Magdalene's Church, Gillingham (Aubry). William remarried for the third and final time in 1827 to Ann Manvell (Hoyles). 
+In about 1819, William moved to London. In the same year, he married Ann Marshall; who died five years later. William visited Medway regularly whilst living in London. He maried Ann Broomhead in 1825, and a year later William’s only child, Ann Juliana Cuffay, was born. Unfortunately, his wife died during childbirth and his daughter died shortly after her baptism at St Mary Magdalene's Church, Gillingham.[^ref6] William remarried for the third and final time in 1827 to Ann Manvell (Hoyles). 
 
  In LondonWilliam  joined a trade union. Uunions were not given a legal foundation until the Trade Union Act 1871. At this time they were  small collectives of workers. . Being a union member could be dangerous not only for one’s career but also for their safety. Mostly due to, the hostility they encountered from employers and government groups.  Nonetheless William became very involved in the union and gained  respect from his peers. Reynolds documents,  
 
@@ -45,11 +45,9 @@ William’s wish for universal male suffrage was achieved 48 years after his dea
 [^ref3]: Staffordshire University Libraries. “William Cuffay.” _UK Disability History Month_. https://libguides.staffs.ac.uk/ukdhm/cuffay. Last Accessed 15th August.
 [^ref4]: Ancestry. Chatham Cuffay : Persons file. https://www.ancestry.co.uk/family-tree/person/tree/11041469/person/48578314063/facts?_phsrc=GHf34&_phstart=successSource. Last Accessed 22 Sept 2024.
 [^ref5]: _The Standard_, May 1848, quoting the _Kentish Gazette_.
+[^ref6]: Aubry, Bruce. _Red Flows the Medway: A Labour History of the Medway Towns_. The Pocock Press. Vol 2. ISBN 0-9545785-1-1. 2010.   
 
-### Bibliography
 
-    
-Aubry, Bruce. _Red Flows the Medway: A Labour History of the Medway Towns_. The Pocock Press. Vol 2. ISBN 0-9545785-1-1. 2010.   
 Britannica, The Editors of Encyclopedia. "Nelson Mandela". _Encyclopedia Britannica_, 15 Aug. 2024, https://www.britannica.com/biography/Nelson-Mandela. Last Accessed 16 August 2024.   
 “Trade union.” _Encyclopedia Britannica_, 15 Sept. 2024, https://www.britannica.com/topic/trade-union. Last Accessed 22 Sept 2024.   
 Craig, Harriet. ‘The Black Man and his Party’ : William Cuffey, Chartist Leader. 19 Oct. 2017. https://blog.nationalarchives.gov.uk/black-man-party-william-cuffey-chartist-leader/  
