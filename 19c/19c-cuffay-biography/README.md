@@ -43,7 +43,7 @@ William’s wish for universal male suffrage was achieved 48 years after his dea
 ### References
 
 [^ref1]: Fryer, Peter. “Cuffay, William. (bap. 1788, d 1870).” _Oxford Dictionary of National Biography_. Sept 23. 2004. Oxford University Press. https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-71636?rskey=4OFhJz&result=1   	
-[^ref2]: 
+[^ref2]: Medway Council. "Chatham Cuffay." Available at: https://www.medway.gov.uk/info/200393/cuffay_and_chatham_exhibition/1159/chatham_cuffay (Accessed: 8 October 2024).
  
 
 ### Bibliography
