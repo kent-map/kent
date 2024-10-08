@@ -447,6 +447,14 @@ Andrew Sargent has written about Deal for many years. He is the author of "Drink
 
 Professor Max Saunders is Interdisciplinary Professor of Modern Literature and Culture at the University of Birmingham. He was Director of the Arts and Humanities Research Institute at King’s College London. He studied at the universities of Cambridge and Harvard, and was a Fellow of Selwyn College, Cambridge. He is the author of _Ford Madox Ford: A Dual Life_ (2 vols, 1996; paperback 2012); _Self Impression: Life-Writing, Autobiografiction, and the Forms of Modern Literature_ (2010); and _Imagined Futures: Writing, Science, and Modernity in the To-Day and To-Morrow Book Series,_ 1923-31 (2019). He is the editor, with Sarah MacDougall of the Ben Uri Gallery and Museum, of Alfred Cohen – An American Artist in Europe: Between Figuration and Abstraction (2020). @SaundersMax
 
+## Mary Shannon
+
+[Mary Shannon]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Mary_Shannon.jpg)
+
+Dr Mary L. Shannon is a writer and Senior Lecturer at the University of Roehampton, London. Find her at marylshannon.com. Her latest book Billy Waters Is Dancing: Or, How A Black Sailor Found Fame in Regency Britain is out now with Yale Books.
+
 ## Malcolm Shifrin
 
 [Malcolm Shifrin]()
