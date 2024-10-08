@@ -9,7 +9,39 @@ banner="https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%28
 
 #
 
-In 1788, William Cuffay, the eldest child of Chatham and Julianna Cuffay, was born at Brompton, near Chatham. He would have a significant impact not only on his local community but also on the politics of two countries. 
+In 1788, the Chartist leader, William Cuffay,was born at Brompton, near Chatham.  He was the eldest child of Chatham and Julianna Cuffay.  His father, Chatham, was born into Slavery in St Kitts in 1755. However, in 1772, Chatham and his mother moved to Medway. They were no longer enslaved; they were either freed or, most likely, brought their freedom prior to making the voyage. In February of the same year, they were baptised at St Mary’s Church, Chatham. Chatham took p his new name from the town in which they found themselves. In 1786, Chatham Cuffay and Julianna Fox were married in a church in Gillingham (Medway Council). 
+
+William dealt with many  hardships growing up,   He suffered from ill health due to a “deformed” spine and shins from birth (Staffordshire University Libraries). Moreover, William grew to be only 4 foot 11, just under half a foot shorter than the average man of the time. William grew up in and around the Chatham dockyard, where his father worked as a  cook on naval ships. William was the oldest of six children. He had four brothers and one sister. Unfortunately, William’s youngest brother John died as an infant (Ancestry).  When William was around 12, his father arranged for himto train as an apprentice tailor.. The seven years of training helped supplement the family's income and provided William a valuable education equiping him with the required skill for the trade. After he completed his apprenticeship, he worked at ‘Acworth and Matthews’ which was on Chatham high street (The Standard May 1848, quoting the Kent Gazette). 
+
+In about 1819, William moved to London.. In the same year, William and Ann Marshall got married;unfortunately she passed away five years later.   Perhaps as a respite from the busy capital, William would visit Medway regularly while living in London. He maried Ann Broomhead in 1825, and a year later William’s only child, Ann Juliana Cuffay, was born. Unfortunately, Ann (mother) died during childbirth and Ann (daughter) passed away not long after her baptism at St Mary Magdalene's Church, Gillingham (Aubry). William remarried for the third and final time in 1827 to Ann Manvell (Hoyles). 
+
+ In LondonWilliam  joined a trade union. Uunions were not given a legal foundation until the Trade Union Act 1871. At this time they were  small collectives of workers. . Being a union member could be dangerous not only for one’s career but also for their safety. Mostly due to, the hostility they encountered from employers and government groups.  Nonetheless William became very involved in the union and gained  respect from his peers. Reynolds documents,  
+
+‘In a letter written by one who has known upwards of forty years, “Cuffay was a good spirit – Ihave known some thousands in the trade, and I never knew a man I would sooner confide in, and I believe this to be the feeling of thousands in the business to this day.’ 
+
+In 1834, the Tailors went on strike. Inevitably, the Tailors returned to work, mostly due to the financial strain it put on their households (Parssinen and Prothero). William held out a little longer than most but ultimately gave in. However, he was not allowed back to work and was dismissed.  
+
+After struggling as a travelling tailor, William turned to politics, joining the Chartist movement in 1839.  The group had six main aims called the Charter: Universal male suffrage, a secret ballot, no property qualification to become a Member of Parliament, embers of Parliament are to be paid a wage, electoral districts of equal size, annual elections (Craig). In 1842, William was elected as president of the London Chartists and The Times dubbed him “The Black Man and His Party” (Wheeler cited by Fryer). The increased publicity led to William’s third Wife, Mary Ann, being dismissed from her job (Holyoake cited by Fryer).Holyoake cited by Fryer). 
+
+   
+
+William was a physical force Chartist,1848 was a pivotal year in Chartist’s history. Tension grew, and protests were intensified (Gossman). The Government feared a similar uprising would occur as the ones across mainland Europe. In April of the same year, William helped organise a mass demonstration to march from South London across Westminster Bridge to Parliament. The Government put a heavy military and police presence in the area, closed off roads, and recommended Queen Victoria to retire to the Isle of Wright.  Chartist leader Fergus O’Connor made a deal with Parliament to deliver the petition himself and cancel the planned protest, in order to prevent many lives from being lost. William and many other Physical Force Chartists were furious with this. William wanted to make a statement. He concluded that if the authorities were seen assaulting demonstrators in such a public place, the news would travel around the world, and the Government would be held accountable. 
+
+As 1848 neared an end, the Chartist movement diminished. Government spies infiltrated the organisation. Later that year, William was arrested on a charge of conspiracy to levy war against Her Majesty Queen Victoria and her Government. In Newgate Prison, his friend, William Paul Dowling, drew a portrait of William, which is the only documentation of his appearance (National Portrait Gallery). The broadsheets mocked William and other “non-English” Chartists. They suggested that most of the people involved in protests throughout the year were not of English heritage. the Illustrated London News, ridiculed William’s 'ni**er humour' (cited by Fryer).  
+
+In 1849, William’s trial began. He  insisted that the court had no right to try him as all the jurors were middle-class. He asserted that he should be tried with a jury of “his equals.” Unfortunately, this would be impossible as, similar to voting, men had to have property to qualify to be a juror (Clarke). The trial neared its end; William gave a passionate final speech where he talked about how the press demonised him and addressed the reason he carried a gun. 
+
+“My Lords, I say you ought not to sentence me. First, because although this has been a long and important trial, it has not been a fair trial. – I have been taunted by the press and it has tried to smother me with ridicule and it has done everything in its power to crush me. – I was threatened with assassination, and therefore, I considered I had a right, and indeed every English man has a right according to Old Statute to have arms.” (Transcribed by Cohen [ME], History Hub). 
+
+William was charged as guilty, narrowly avoiding the death penalty. . He was sentenced to transportation to Van Diemen’s Land, now Tasmania, for life. 
+
+After a journey lasting 103 days on the prison ship Adelaide, William arrived in Tasmania in November 1849. After an almost four-year delay, Mary Ann joined him. On 19th May 1856, William was pardoned for his conviction. However, he decided to stay in Australia (Fryer). . He worked as a travelling tailor and remained in local politics until the last year of his life. In October 1869, William was admitted to a workhouse, which essentially was a prison, a “mental” hospital and a sweatshop in one and he died at the age of 82 in July 1870. 
+
+William’s wish for universal male suffrage was achieved 48 years after his death when the Representation of People Act 1918 was introduced. The Act allowed all men over 21 and women over 30 who met the property qualifications the right to vote (UK Parliament).  
+
+ 
+
+ 
 
 ### References
 
