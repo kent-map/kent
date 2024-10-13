@@ -14,6 +14,14 @@ Reclaiming narratives is a call to action for Black communities across the UK to
 
 Walter Tull
 
+## A Sin of Omission
+
+[A Sin of Omission](/21c/21c-sin-of-omission/)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
+
+Walter Tull
+
 ## Walter Tull
 
 [Walter Tull](/20c/20c-tull-biography)
