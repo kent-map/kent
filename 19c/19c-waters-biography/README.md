@@ -2,7 +2,7 @@
 <param ve-config title="Billy Waters" author="Dr Mary L. Shannon" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%281747-1821%29_-_Chatham_Dockyard_-_BHC1782_-_Royal_Museums_Greenwich.jpg">
 
-<param ve-map center="Q2576971" zoom="12">
+<param ve-map center="Q1972699" zoom="12">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9a62ace9300b7b2e" title="Kent Ordnance Survey 1822">
