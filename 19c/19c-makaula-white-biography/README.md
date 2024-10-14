@@ -16,4 +16,21 @@ As Albert aged, his financial issues grew, and his mental health declined. He re
 
 Albert Makaula-White's life was a testament to resilience and determination. Despite his uncertain beginning, he rose above his challenges to achieve great things. A proud Christian and successful businessman, he not only integrated himself into a world where he began at a disadvantage but also earned the respect of his peers. Albert showed he was best placed in quaint remote villages, whether in the scorching sun of South Africa or the snowy streets of Kent.  
 
+### References
+
+1 Taylor, Erica. Little Known Black History: Albert Makaula. 5 Jun. 2012. https://blackamericaweb.com/2012/06/05/little-known-black-history-fact-albert-makaula-2/ 
+2 Sherwood, Marika. The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937. Savannah Press. 2012. 
+3. Old Ebor. The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula. 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
+4 Kent Archives. “Albert Makaula-White post.” https://www.facebook.com/KentArchives/posts/2227854737324649/. 
+5 Office for National Statistics. Population size: 7.9% from a minority ethnic group. 13 Feb. 2003. https://www.ons.gov.uk/ 
+6 Basford, Hazel and McIntosh, K.H. East Kent Gazetter in the Great War 1914-1918. Parker Digital Press. ISBN: 9780954478957. 2008. 
+7 Sherwood, Marika. The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937. Savannah Press. 2012. 
+8 Sherwood, Marika. The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937. Savannah Press. 2012. 
+9 Sherwood, Marika. The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937. Savannah Press. 2012. 
+10 Staveley-Wadham, Rose. “A Look at the History of Britain’s Extreme Winter Weather.” Headlines in History. The British Newspaper Archive Blog. https://blog.britishnewspaperarchive.co.uk/2020/12/04/history-of-britains-extreme-winter-weather/. 4 Dec. 2020. 
+11 Old Ebor. The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula. 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
+12 Sherwood, Marika. The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937. Savannah Press. 2012. 
+13 The National Archives. Currency Converter : 1270-2017.  https://www.nationalarchives.gov.uk/currency-converter/#currency-result. 
+
+
  
