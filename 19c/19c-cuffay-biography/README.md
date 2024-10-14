@@ -55,24 +55,8 @@ William’s wish for universal male suffrage was achieved 48 years after his dea
 [^ref13]: Gossman, Norbert J. “William Cuffay: London’s Black Chartist.” _Phylon_, vol. 44, no. 1, 1983, pp. 56–65. _JSTOR_, https://doi.org/10.2307/274369. Last Accessed 16 Aug.
 [^ref14]: Fryer, Peter. “Cuffay, William. (bap. 1788, d 1870).” _Oxford Dictionary of National Biography_. Sept 23. 2004. Oxford University Press. https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-71636?rskey=4OFhJz&result=1  
 [^ref15]: “William Cuffay talk by Dr Clarke.” YouTube. 27 Jul. 2020. https://youtu.be/ggWwo6I693U?si=5OTsVJVDwCPSeOsG.
-[^ref16]: History Hub. William Cuffay, Chartist leader | Speech from the dock 1848. 22 Jan. 2021. https://youtu.be/f1AQpNqGEa4?si=X-WFUzge5IqSmKhc   
+[^ref16]: History Hub. William Cuffay, Chartist leader - Speech from the dock 1848. 22 Jan. 2021. https://youtu.be/f1AQpNqGEa4?si=X-WFUzge5IqSmKhc   
 [^ref17]: Fryer, Peter. “Cuffay, William. (bap. 1788, d 1870).” _Oxford Dictionary of National Biography_. Sept 23. 2004. Oxford University Press. https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-71636?rskey=4OFhJz&result=1   	
 [^ref18]: UK Parliament. 1918 Representation of the People Act. https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/case-study-the-right-to-vote/the-right-to-vote/birmingham-and-the-equal-franchise/1918-representation-of-the-people-act/. Last Accessed 16 Aug.    
 
-
-Britannica, The Editors of Encyclopedia. "Nelson Mandela". _Encyclopedia Britannica_, 15 Aug. 2024, https://www.britannica.com/biography/Nelson-Mandela. Last Accessed 16 August 2024.   
-“Trade union.” _Encyclopedia Britannica_, 15 Sept. 2024, https://www.britannica.com/topic/trade-union. Last Accessed 22 Sept 2024.   
-
- 
-   
-
   
-
-Medway Council. _To London and Beyond_. https://www.medway.gov.uk/info/200393/cuffay_and_chatham_exhibition/1162/to_london_and_beyond. Last Accessed 15th August.  
- 
-  
-[William CUffay, Black Chartism and a Treasure Object](https://phm.org.uk/blogposts/william-cuffay-black-chartism-and-a-treasured-object/)    
-    
-
-
- 
