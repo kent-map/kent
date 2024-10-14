@@ -35,6 +35,7 @@ In 1849, William’s trial began. He  insisted that the court had no right to tr
 'My Lords, I say you ought not to sentence me. First, because although this has been a long and important trial, it has not been a fair trial. – I have been taunted by the press and it has tried to smother me with ridicule and it has done everything in its power to crush me. – I was threatened with assassination, and therefore, I considered I had a right, and indeed every English man has a right according to Old Statute to have arms.'[^ref16]
 <br><br>
 William was charged as guilty, narrowly avoiding the death penalty. He was sentenced to transportation to Van Diemen’s Land, now Tasmania, for life. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/15/Washing-room_%28Warrior%2C_Woolwich%29_ILN_1846-0221-0005.jpg" label="Washing room, Warrior, Woolwich, The Convict System, 1846" attribution="ILN staff,The Illustrated London News, Public domain, via Wikimedia Commons">
 
 After a journey lasting 103 days on the prison ship _Adelaide_, William arrived in Tasmania in November 1849. After an almost four-year delay, Mary Ann joined him. On 19th May 1856, William was pardoned for his conviction. However, he decided to stay in Australia.[^ref17] He worked as a travelling tailor and remained in local politics until the last year of his life. In October 1869, William was admitted to a workhouse and died at the age of 82 in July 1870.
 <br><br>
