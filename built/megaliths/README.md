@@ -4,7 +4,6 @@
 <param ve-entity eid="Q793057" aliases="Aylesford">
 <param ve-entity eid="Q4222497" aliases="Kits Coty House">
 <param ve-entity eid="Q7994824" aliases="White Horse Stone">
-<param ve-entity eid="Q729006" aliases="Chatham">
 
 #
 
@@ -19,6 +18,7 @@ have been excavated by archaeologists, revealing human remains and suggesting th
 However, other chambers, when excavated, have not. Because Kent has been and continues to be 
 the gateway to the continent, it is unsurprising to discover that these barrows are more closely 
 connected to European megaliths than to their British counterparts.[^ref1]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fa/Map_of_the_Medway_Megaliths.jpg" label="Map of the Medway Megaliths" attribution="Midnightblueowl at English Wikipedia" license="CC BY-SA 3.0"> 
 
 **Kit’s Coty**   
 Above the village of Aylesford lies Blue Bell Hill, which is on the North Downs. It makes up part of the 
