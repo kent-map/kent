@@ -18,72 +18,73 @@ megaliths. A series of these barrows can be found along the river Medway. Some o
 have been excavated by archaeologists, revealing human remains and suggesting their use as tombs.
 However, other chambers, when excavated, have not. Because Kent has been and continues to be 
 the gateway to the continent, it is unsurprising to discover that these barrows are more closely 
-connected to European megaliths than to their British counterparts.1
+connected to European megaliths than to their British counterparts.[^ref1]
 
-**Kit’s Coty**
+**Kit’s Coty**   
 Above the village of Aylesford lies Blue Bell Hill, which is on the North Downs. It makes up part of the 
 Kent Downs Area of Outstanding Natural Beauty. Pilgrims’ Way, the route from Winchester to 
 Canterbury, skirts the hill although the track is much older than the 1100s and probably goes back to 
 the Stone Age. Climbing up the hill where once was dense woodland, there are now vineyards. 
 Above the vineyards stand Kit’s Coty, situated at a high point, some 350 feet above sea level in the 
 landscape overlooking the Medway valley. It consists of three large standing stones capped by a 
-capstone. These are generally known as sarsen stones but locally as “grey wethers” 2
+capstone. These are generally known as sarsen stones but locally as “grey wethers”[^ref2]
 because of their resemblance to a flock of sheep in a field (A wether is a castrated ram). Archaeologists believe these 
 stones served as the entrance to a chamber that people buried within a large earthen mound, which 
 farmers had ploughed away long ago. Originally around 80m long and 12-15m wide, the mound was 
 flanked by ditches from where the earth and chalk were dug during construction. Evidence of the 
 mound was still visible during the 18th century. Alongside, the stones runs an ancient pathway (fig 
 3), possibly a corpse road route and associated with the Pilgrims’ Way, now part of the North Downs 
-Way. 3
+Way.[^ref3]
 
 Figure 1 Kit’s Coty plate 32.2 from Itinerarium Curiosum
 
 According to local folklore, the Saxon mercenaries Hengist and Horsa are said to be buried at the Kit’s
 Coty House and the close by White Horse Stone. As with all things of this antiquity, accounts differ. 
-Although Gilda the Wise was the first to describe the arrival of Hengist and Horsa 4
-, it was the Venerable Bede 5 who was the first to add detail about people and places. Hengist and Horsa landed 
+Although Gilda the Wise was the first to describe the arrival of Hengist and Horsa[^ref4]
+, it was the Venerable Bede[^ref5] who was the first to add detail about people and places. Hengist and Horsa landed 
 in Britain at Ebbsfleet in 449 at the request of King Vortigern. In return for driving out the Picts and 
 the Scots, they were granted the Isle of Thanet. Eventually, the deal soured, and in 455, the brothers 
 and Vortigern fought a battle in Aylesford or Aegelesthrep, as it is known in Old English. Both the 
-Anglo Saxons Chronicles6 and the Historia Brittonum7 document the battle. Horsa was killed, along 
-with Vortigen’s brother Catigern. Lambarde 8, who is credited with writing the first history of Kent, 
+Anglo Saxons Chronicles[^ref6] and the Historia Brittonum[^ref7] document the battle. Horsa was killed, along 
+with Vortigen’s brother Catigern. Lambarde[^ref8], who is credited with writing the first history of Kent, 
 suggested that Catigern is buried at Kit’s Coty and this is where it gets its name: Catergern’s Coity 
 House which translate as Catergern’s Stone House, “coits” being an old word for these types of 
-stones. Geoffrey of Monmouth gives a much more colourful account, with Vortigen marrying Hengist’s daughter.
-9
+stones. Geoffrey of Monmouth gives a much more colourful account, with Vortigen marrying Hengist’s daughter.[^ref9]
+
+
 Figure 2 Kit’s Coty (Phil Marsh 2023)
 
 There are various reasons that people give for the name. An endearing story is that a young (or old) 
 shepherd called Kit used the stones as a shelter in hard weather, another that the name is derived 
-from the Celtic ked coerd which translates as “Tomb in the Forest”.10
+from the Celtic ked coerd which translates as “Tomb in the Forest”.[^ref10]
+
 Figure 3 North Downs Way (Phil Marsh 2023)
-Evans 2 suggests that medieval people saw megaliths as the work of fairies, giants or other 
+
+Evans[^ref2] suggests that medieval people saw megaliths as the work of fairies, giants or other 
 supernatural powers. According to local legend, if someone places a personal object on the capstone 
 and walks around the stones three times, the object disappears. Unsurprisingly, people need to do 
-this during a full moon.10,11 Evans also notes similar stories where individuals use a personal object 
+this during a full moon.[^ref10],[^ref11]. Evans also notes similar stories where individuals use a personal object 
 as a “sacrifice” either to acquire immunity from supernatural powers or to receive a reward.
-Menefee describes this idea of receiving a reward 11 and indicates this is just one of a series of the 
-circumambulation beliefs concerning megaliths. Becket 12 recalls a story about circling a megalith 
+Menefee describes this idea of receiving a reward [^ref11] and indicates this is just one of a series of the 
+circumambulation beliefs concerning megaliths. Becket [^ref12] recalls a story about circling a megalith 
 seven times on a moonless night to receive soup from the devil. Other stories replace soup with milk 
 or porridge. There are further circling the megalith legends that culminate in the conjuring a lady on 
 a white horse or a treasure seeking ghost. Variations of the circling theme exist, such as the number 
 of times the monument is circled, the direction clockwise or counterclockwise and whether the act is 
-undertaken clothed or naked.11,12
+undertaken clothed or naked.[^ref11],[^ref12].
 
 There are other tales associated with Kit’s Coty. Evans and others noted that if a person climbs onto 
 the capstone (during a full moon) and places their hand inside the cavity of the stone, they will pull 
-out 5 nails.2
+out [^ref5] nails.[^ref2]
 This resonates with similar supernatural craftsman stories associated with megaliths 
-such as found at Wayland’s Smithy.13 Here, a traveller, on placing coins on the capstone, would have 
+such as found at Wayland’s Smithy.[^ref13] Here, a traveller, on placing coins on the capstone, would have 
 his horse shod by an invisible blacksmith. 
 
 Another legend has it that witches built that Kit’s Coty.
 2
-Three witches living on Blue Bell Hill erected 
-the stones but had to enlist a fourth witch to help raise the capstone. This apparently was well 
-known in 1848, where it was the inspiration for the Witches’ Stone play at the Theatre Royal in 
-Rochester.
-14 A later play, Kit’s Coty a musical Fairy Play 1933, sets Kit’s Coty as the entrance to a 
+Three witches living on Blue Bell Hill erected the stones but had to enlist a fourth witch to help raise the capstone. This apparently was well 
+known in 1848, where it was the inspiration for the Witches’ Stone play at the Theatre Royal in Rochester.
+14 A later play, _Kit’s Coty a musical Fairy Play_ 1933, sets Kit’s Coty as the entrance to a 
 fairyland under Blue Bell Hill15 It is also worth emphasising that Blue Bell Hill is well known for 
 supernatural events being the site of the Bluebell Hill Ghost, one of the better known “road ghost 
 stories”.3,14
@@ -109,14 +110,14 @@ ye diggers of visions of antiquity, – ye men of historical research. Listen to
 satisfactory explanation, and confess how vain are all your theories about Cromlechs and Druidical 
 altars, and resting places for the bones of Saxon Kings.”
 
-**Coffin Stone** 
+**Coffin Stone**    
 Further down Blue Bell Hill towards the village of Aylesford, there is a large monolith called The 
 Coffin Stone lying flat on the ground within the vineyard. Underneath the stone, human remains 
 were uncovered in 1836. These included 2 skulls and a sack full of bones. In 1980, a farmer added 
 another Sarson stone on the coffin stone. 17
 Figure 5 Coffin Stone (Phil Marsh 2023)
 
-**Countless stones**
+**Countless stones**   
 Countless stones, also known as “Little Kit’s Coty”, comprise several fallen over sarsen stones. 
 Records show the stones were destroyed in 1690. Fortunately, there are some drawings in Stucklely’s 
 Itinerarium Curiosum showing the layout whilst the stones were still standing.
@@ -139,7 +140,7 @@ by counting the correct number of stones.
 own will, making it challenging to count them.22
 Figure 7 Little Kit’s Coty/Countless Stones (Phil Marsh 2023)
 
-**White Horse Stone**
+**White Horse Stone**   
 Located higher up Blue Bell Hill above Kit’s Coty is the White Horse Stone. Although probably part of 
 the remains of a Neolithic burial chamber, it is likely to have been moved from a field into its present 
 location. However, this is not the original White Horse stone as this was lower down in the valley. It 
