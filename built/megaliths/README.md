@@ -88,14 +88,16 @@ known in 1848, where it was the inspiration for the Witches’ Stone play at the
 fairyland under Blue Bell Hill15 It is also worth emphasising that Blue Bell Hill is well known for 
 supernatural events being the site of the Bluebell Hill Ghost, one of the better known “road ghost 
 stories”.3,14
-Kits Coty is believed to be the setting for the classic 1963 children’s book “Stig of the Dump” by Clive 
+Kits Coty is believed to be the setting for the classic 1963 children’s book [_Stig of the Dump_](/landscape/chalk-pits-stig/) by Clive 
 King. Clive King lived in Ash Kent and went to King’s school in Rochester. Barney, the protagonist in 
 the story, befriends a cave boy he finds inhabiting an old chalk pit used as a dumping ground and 
 they have many adventures together. The end of the book sees Barney and his sister entering a “time 
 slip” on midsummer’s night and being transported back to Stig’s time. They meet Stig with his own 
 people and help construct four giant stones. The book ends with the children back in present time 
 having a picnic with their parents on the North Downs, where the four stones stand. 
+
 Figure 4 “Stig of the dump” illustration from the book (E. Ardizzone)
+
 Besides Neolithic man and witches, there is another explanation for the existence of Kit’s Coty. 
 Jerrold[^ref16] recounts a story of an encounter in 1837 between a friend and a lady “somewhat above 
 that of the middle classes”, who told him;
