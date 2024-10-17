@@ -8,17 +8,11 @@
 #
 
 
-During the Early Neolithic period, around the 4th millennium BCE, dense woodland covered 
-Southeast England. The Early Neolithic people lived a semi-nomadic lifestyle herding cattle. Although 
-leaving little evidence of settlements, they left behind substantial earth and stone monuments. 
-Archaeologists use the term chambered long barrows to describe these historical monuments. They
-consist of earth tumuli (barrows) that cover a chamber constructed out of large stones called 
-megaliths. A series of these barrows can be found along the river Medway. Some of these chambers 
-have been excavated by archaeologists, revealing human remains and suggesting their use as tombs.
-However, other chambers, when excavated, have not. Because Kent has been and continues to be 
-the gateway to the continent, it is unsurprising to discover that these barrows are more closely 
-connected to European megaliths than to their British counterparts.[^ref1]
-
+During the Early Neolithic period, around the 4th millennium BCE, dense woodland covered Southeast England. The Early Neolithic people lived a semi-nomadic lifestyle herding cattle. Although 
+leaving little evidence of settlements, they left behind substantial earth and stone monuments. Archaeologists use the term chambered long barrows to describe these historical monuments. They
+consist of earth tumuli (barrows) that cover a chamber constructed out of large stones called megaliths. A series of these barrows can be found along the river Medway. Some of these chambers 
+have been excavated by archaeologists, revealing human remains and suggesting their use as tombs.  However, other chambers, when excavated, have not. Because Kent has been and continues to be 
+the gateway to the continent, it is unsurprising to discover that these barrows are more closely connected to European megaliths than to their British counterparts.[^ref1]
 
 **Kit’s Coty**   
 Above the village of Aylesford lies Blue Bell Hill, which is on the North Downs. It makes up part of the 
@@ -145,36 +139,25 @@ nineteenth century and the present stone has inherited the name.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4a/The_White_Horse_Stone_from_4500_BC.jpg" label="White Horse Stone" attribution="JOHN K  THORNE, CC0, via Wikimedia Commons">
 
 ### Bibliography
-[^ref1]: _The Medway Megaliths in a European Context_. Kent Archaeological Society. 
-https://www.kentarchaeology.org.uk/arch-cant/vol/119/medway-megaliths-european-context.   
-[^ref2]: Evans, J. H. Notes on the Folklore and Legends Associated with the Kentish Megaliths. _Folklore_
-57, 36–43 (1946).   
+[^ref1]: _The Medway Megaliths in a European Context_. Kent Archaeological Society. https://www.kentarchaeology.org.uk/arch-cant/vol/119/medway-megaliths-european-context.   
+[^ref2]: Evans, J. H. Notes on the Folklore and Legends Associated with the Kentish Megaliths. _Folklore_57, 36–43 (1946).   
 [^ref3]: Arnold, N. _Haunted Maidstone_. (The History Press, Stroud, Gloustershire, 2011).   
 [^ref4]: Turville-Petre, J. E. _Hengest and Horsa_. Saga-Book 14, 273–290 (1953).   
-[^ref5]: Bede. _Bede’s Ecclesiastical History of England_. https://www.gutenberg.org/files/38326/38326-
-h/38326-h.html (2011).   
+[^ref5]: Bede. _Bede’s Ecclesiastical History of England_. https://www.gutenberg.org/files/38326/38326-h/38326-h.html (2011).   
 [^ref6]: _The Anglo-Saxon Chronicle_. http://www.mcllibrary.org/Anglo/part1.html.   
-[^ref7]: _History of the Britons_ (historia Brittonum), by Nennius.   
-https://www.gutenberg.org/files/1972/1972-h/1972-h.htm.   
+[^ref7]: _History of the Britons_ (historia Brittonum), by Nennius. https://www.gutenberg.org/files/1972/1972-h/1972-h.htm.   
 [^ref8]: Lambarde, W. _A Preambulation of Kent._ (Baldwin, Cradock and Joy, London, 1576).   
-[^ref9]: Geoffrey, of M. _The Historia regum Britannie of Geoffrey of Monmouth_. (Cambridge 
-[Cambridgeshire] ; Dover, N.H., USA : D.S. Brewer, 1985).   
-[^ref10]: The English Heritage Podcast: Episode 247 - Kit’s Coty House and the Medway Megaliths on 
-Apple Podcasts. Apple Podcasts https://podcasts.apple.com/gb/podcast/episode-247-Kit’s-cotyhouse-and-the-medway-megaliths/id1156861002?i=1000639886367.   
+[^ref9]: Geoffrey, of M. _The Historia regum Britannie of Geoffrey of Monmouth_. (Cambridge; Dover, N.H., USA : D.S. Brewer, 1985).   
+[^ref10]: The English Heritage Podcast: Episode 247 - Kit’s Coty House and the Medway Megaliths on Apple Podcasts. Apple Podcasts https://podcasts.apple.com/gb/podcast/episode-247-Kit’s-cotyhouse-and-the-medway-megaliths/id1156861002?i=1000639886367.   
 [^ref11]: Menefee, S. P. Circling as an Entrance to the Otherworld. _Folklore_ 96, 3–20 (1985).   
 [^ref12]: Simpson, J. Legends of Chanctonbury Ring. _Folklore_ 80, 122–131 (1969).   
-[^ref13]: Whittle, A., Bayliss, A. & Wysocki, M. _Once in a Lifetime: the Date of the Wayland’s Smithy 
-Long Barrow._ CAJ 17, 103–121 (2007).   
+[^ref13]: Whittle, A., Bayliss, A. & Wysocki, M. _Once in a Lifetime: the Date of the Wayland’s Smithy Long Barrow._ CAJ 17, 103–121 (2007).   
 [^ref14]: Tudor, S. _The Ghosts of Blue Bell Hill & Other Road Ghosts._ (Lulu.com, 2017).   
 [^ref15]: Evans, F. & Anderson, H. J. _Kit’s Coty. A Musical Fairy Play in Three Acts_. (L. Williams, 1933).   
 [^ref16]: Jerrold, W. _Highways and Byways in Kent_. (London, Macmillan and Co., Limited, 1914).   
 [^ref17]: A Disciple of the Druids. The Beale Poste MSS.   
-[^ref18]: Stukeley, W. _Itinerarium Curiosum; or, An Account of the Antiquities, and Remarkable 
-Curiosities in Nature or Art, Observed in Travels through Great Britain._ Centuria I. (London, 
-Printed for Baker and Leigh, 1776).   
+[^ref18]: Stukeley, W. _Itinerarium Curiosum; or, An Account of the Antiquities, and Remarkable Curiosities in Nature or Art, Observed in Travels through Great Britain._ Centuria I. (London, Printed for Baker and Leigh, 1776).   
 [^ref19]: Sidney, S. P. _The Seven Wonders of England_. (W.A. Ringler, Oxford, 1586).   
 [^ref20]: Doel, F. & Doel, G. _Folklore in Kent_. (The History Press, Stoud, Gloucestershire, UK, 2003).   
 [^ref21]: Menefee, S. P. The ‘Countless Stones’: A Final Reckoning. _Folklore_ 86, 146–166 (1975).   
-[^ref22]: Grinsell, L. V. _CORPUS DU FOLKLORE PREHISTORIQUE EN FRANCE ET DANS LES 
-COLONIES FRANCAISES._ Edited byP. Saintyves Volumes I-III (vol. Iout of print). Paris: 
-Librairie E. Nourry, 62 Rue des Ecoles, 1934–6. 220 francs. Antiquity 11, 117–119 (1937).   
+[^ref22]: Grinsell, L. V. _CORPUS DU FOLKLORE PREHISTORIQUE EN FRANCE ET DANS LES COLONIES FRANCAISES._ Edited byP. Saintyves Volumes I-III (vol. Iout of print). Paris: Librairie E. Nourry, 62 Rue des Ecoles, 1934–6. 220 francs. Antiquity 11, 117–119 (1937).   
