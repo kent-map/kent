@@ -83,11 +83,11 @@ his horse shod by an invisible blacksmith.
 Another legend has it that witches built that Kit’s Coty.
 2
 Three witches living on Blue Bell Hill erected the stones but had to enlist a fourth witch to help raise the capstone. This apparently was well 
-known in 1848, where it was the inspiration for the Witches’ Stone play at the Theatre Royal in Rochester.
-14 A later play, _Kit’s Coty a musical Fairy Play_ 1933, sets Kit’s Coty as the entrance to a 
+known in 1848, where it was the inspiration for the Witches’ Stone play at the Theatre Royal in Rochester.[^ref14]
+A later play, _Kit’s Coty a musical Fairy Play_ 1933, sets Kit’s Coty as the entrance to a 
 fairyland under Blue Bell Hill15 It is also worth emphasising that Blue Bell Hill is well known for 
 supernatural events being the site of the Bluebell Hill Ghost, one of the better known “road ghost 
-stories”.3,14
+stories”.[^ref3],[^ref14].
 Kits Coty is believed to be the setting for the classic 1963 children’s book [_Stig of the Dump_](/landscape/chalk-pits-stig/) by Clive 
 King. Clive King lived in Ash Kent and went to King’s school in Rochester. Barney, the protagonist in 
 the story, befriends a cave boy he finds inhabiting an old chalk pit used as a dumping ground and 
@@ -116,15 +116,18 @@ altars, and resting places for the bones of Saxon Kings.”
 Further down Blue Bell Hill towards the village of Aylesford, there is a large monolith called The 
 Coffin Stone lying flat on the ground within the vineyard. Underneath the stone, human remains 
 were uncovered in 1836. These included 2 skulls and a sack full of bones. In 1980, a farmer added 
-another Sarson stone on the coffin stone. 17
+another Sarson stone on the coffin stone.[^ref17]
+
+
 Figure 5 Coffin Stone (Phil Marsh 2023)
 
 **Countless stones**   
 Countless stones, also known as “Little Kit’s Coty”, comprise several fallen over sarsen stones. 
 Records show the stones were destroyed in 1690. Fortunately, there are some drawings in Stucklely’s 
-Itinerarium Curiosum showing the layout whilst the stones were still standing.
-18
+_Itinerarium Curiosum_ showing the layout whilst the stones were still standing.[^ref18]
+
 Figure 6 Little Kit’s Coty plate 32.2 from Itinerarium Curiosum
+
 There is a general belief that the stones of megalithic monuments cannot be counted correctly. 
 The poet Sir Philip Sidney wrote, in “The 7 Wonders of England”:
 <br><br>
@@ -136,12 +139,13 @@ What force brought them to so vnlikely ground.[^ref19]
 At Little Kit’s Coty, there are stories about a baker who, in an attempt to count the stones, placed a 
 loaf of bread on top of each one. Various troubles, depending on which story is read, befall the baker. 
 In one version, one loaf mysteriously disappears and the devil appears in its place, while in another 
-tale, he falls dead just before shouting out the correct number aloud.20
+tale, he falls dead just before shouting out the correct number aloud.[^ref20]
 Various legends accompany the countless stones, one of which suggests that they are petrified 
 humans. According to the legend, these unfortunate people can be released from their enchantment 
-by counting the correct number of stones.
-21 Stories from France suggest the stones can move at their 
-own will, making it challenging to count them.22
+by counting the correct number of stones.[^ref21] Stories from France suggest the stones can move at their 
+own will, making it challenging to count them.[^ref22]
+
+
 Figure 7 Little Kit’s Coty/Countless Stones (Phil Marsh 2023)
 
 **White Horse Stone**   
@@ -149,41 +153,43 @@ Located higher up Blue Bell Hill above Kit’s Coty is the White Horse Stone. Al
 the remains of a Neolithic burial chamber, it is likely to have been moved from a field into its present 
 location. However, this is not the original White Horse stone as this was lower down in the valley. It 
 was referred to as the Kentish Standard Stone and believed to be the stone on which the white horse 
-banner fell when it’s bearer, Horsa, died. 17 Unfortunately, this was destroyed at the end of the 
+banner fell when it’s bearer, Horsa, died.[^ref17] Unfortunately, this was destroyed at the end of the 
 nineteenth century and the present stone has inherited the name.
+
+
 Figure 8 White Horse Stone (Phil Marsh 2023)
 
 ### Bibliography
-[^ref1]: The Medway Megaliths in a European Context | Kent Archaeological Society. 
+[^ref1]: _The Medway Megaliths in a European Context_. Kent Archaeological Society. 
 https://www.kentarchaeology.org.uk/arch-cant/vol/119/medway-megaliths-european-context.
-[^ref2]: Evans, J. H. Notes on the Folklore and Legends Associated with the Kentish Megaliths. Folklore
+[^ref2]: Evans, J. H. Notes on the Folklore and Legends Associated with the Kentish Megaliths. _Folklore_
 57, 36–43 (1946).
-[^ref3]: Arnold, N. Haunted Maidstone. (The History Press, Stroud, Gloustershire, 2011).
-[^ref4]: Turville-Petre, J. E. Hengest and Horsa. Saga-Book 14, 273–290 (1953).
-[^ref5]: Bede. Bede’s Ecclesiastical History of England. https://www.gutenberg.org/files/38326/38326-
+[^ref3]: Arnold, N. _Haunted Maidstone_. (The History Press, Stroud, Gloustershire, 2011).
+[^ref4]: Turville-Petre, J. E. _Hengest and Horsa_. Saga-Book 14, 273–290 (1953).
+[^ref5]: Bede. _Bede’s Ecclesiastical History of England_. https://www.gutenberg.org/files/38326/38326-
 h/38326-h.html (2011).
-[^ref6]: The Anglo-Saxon Chronicle. http://www.mcllibrary.org/Anglo/part1.html.
-[^ref7]: History of the Britons (historia Brittonum), by Nennius. 
+[^ref6]: _The Anglo-Saxon Chronicle_. http://www.mcllibrary.org/Anglo/part1.html.
+[^ref7]: _History of the Britons_ (historia Brittonum), by Nennius. 
 https://www.gutenberg.org/files/1972/1972-h/1972-h.htm.
-[^ref8]: Lambarde, W. A Preambulation of Kent. (Baldwin, Cradock and Joy, London, 1576).
-[^ref9]: Geoffrey, of M. The Historia regum Britannie of Geoffrey of Monmouth. (Cambridge 
+[^ref8]: Lambarde, W. _A Preambulation of Kent._ (Baldwin, Cradock and Joy, London, 1576).
+[^ref9]: Geoffrey, of M. _The Historia regum Britannie of Geoffrey of Monmouth_. (Cambridge 
 [Cambridgeshire] ; Dover, N.H., USA : D.S. Brewer, 1985).
 [^ref10]: The English Heritage Podcast: Episode 247 - Kit’s Coty House and the Medway Megaliths on 
 Apple Podcasts. Apple Podcasts https://podcasts.apple.com/gb/podcast/episode-247-Kit’s-cotyhouse-and-the-medway-megaliths/id1156861002?i=1000639886367.
-[^ref11]: Menefee, S. P. Circling as an Entrance to the Otherworld. Folklore 96, 3–20 (1985).
-[^ref12]: Simpson, J. Legends of Chanctonbury Ring. Folklore 80, 122–131 (1969).
-[^ref13]: Whittle, A., Bayliss, A. & Wysocki, M. Once in a Lifetime: the Date of the Wayland’s Smithy 
-Long Barrow. CAJ 17, 103–121 (2007).
-[^ref14]: Tudor, S. The Ghosts of Blue Bell Hill & Other Road Ghosts. (Lulu.com, 2017).
-[^ref15]: Evans, F. & Anderson, H. J. Kit’s Coty. A Musical Fairy Play in Three Acts. (L. Williams, 1933).
-[^ref16]: Jerrold, W. Highways and Byways in Kent. (London, Macmillan and Co., Limited, 1914).
+[^ref11]: Menefee, S. P. Circling as an Entrance to the Otherworld. _Folklore_ 96, 3–20 (1985).
+[^ref12]: Simpson, J. Legends of Chanctonbury Ring. _Folklore_ 80, 122–131 (1969).
+[^ref13]: Whittle, A., Bayliss, A. & Wysocki, M. _Once in a Lifetime: the Date of the Wayland’s Smithy 
+Long Barrow._ CAJ 17, 103–121 (2007).
+[^ref14]: Tudor, S. _The Ghosts of Blue Bell Hill & Other Road Ghosts._ (Lulu.com, 2017).
+[^ref15]: Evans, F. & Anderson, H. J. _Kit’s Coty. A Musical Fairy Play in Three Acts_. (L. Williams, 1933).
+[^ref16]: Jerrold, W. _Highways and Byways in Kent_. (London, Macmillan and Co., Limited, 1914).
 [^ref17]: A Disciple of the Druids. The Beale Poste MSS.
-[^ref18]: Stukeley, W. Itinerarium Curiosum; or, An Account of the Antiquities, and Remarkable 
-Curiosities in Nature or Art, Observed in Travels through Great Britain. Centuria I. (London, 
+[^ref18]: Stukeley, W. _Itinerarium Curiosum; or, An Account of the Antiquities, and Remarkable 
+Curiosities in Nature or Art, Observed in Travels through Great Britain._ Centuria I. (London, 
 Printed for Baker and Leigh, 1776).
-[^ref19]: Sidney, S. P. The Seven Wonders of England. (W.A. Ringler, Oxford, 1586).
-[^ref20]: Doel, F. & Doel, G. Folklore in Kent. (The History Press, Stoud, Gloucestershire, UK, 2003).
-[^ref21]: Menefee, S. P. The ‘Countless Stones’: A Final Reckoning. Folklore 86, 146–166 (1975).
-[^ref22]: Grinsell, L. V. CORPUS DU FOLKLORE PREHISTORIQUE EN FRANCE ET DANS LES 
-COLONIES FRANCAISES. Edited byP. Saintyves Volumes I-III (vol. Iout of print). Paris: 
+[^ref19]: Sidney, S. P. _The Seven Wonders of England_. (W.A. Ringler, Oxford, 1586).
+[^ref20]: Doel, F. & Doel, G. _Folklore in Kent_. (The History Press, Stoud, Gloucestershire, UK, 2003).
+[^ref21]: Menefee, S. P. The ‘Countless Stones’: A Final Reckoning. _Folklore_ 86, 146–166 (1975).
+[^ref22]: Grinsell, L. V. _CORPUS DU FOLKLORE PREHISTORIQUE EN FRANCE ET DANS LES 
+COLONIES FRANCAISES._ Edited byP. Saintyves Volumes I-III (vol. Iout of print). Paris: 
 Librairie E. Nourry, 62 Rue des Ecoles, 1934–6. 220 francs. Antiquity 11, 117–119 (1937).
