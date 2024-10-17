@@ -18,7 +18,7 @@ have been excavated by archaeologists, revealing human remains and suggesting th
 However, other chambers, when excavated, have not. Because Kent has been and continues to be 
 the gateway to the continent, it is unsurprising to discover that these barrows are more closely 
 connected to European megaliths than to their British counterparts.[^ref1]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fa/Map_of_the_Medway_Megaliths.jpg" label="Map of the Medway Megaliths" attribution="Midnightblueowl at English Wikipedia" license="CC BY-SA 3.0"> 
+
 
 **Kit’s Coty**   
 Above the village of Aylesford lies Blue Bell Hill, which is on the North Downs. It makes up part of the 
@@ -143,9 +143,7 @@ Various legends accompany the countless stones, one of which suggests that they 
 humans. According to the legend, these unfortunate people can be released from their enchantment 
 by counting the correct number of stones.[^ref21] Stories from France suggest the stones can move at their 
 own will, making it challenging to count them.[^ref22]
-
-
-Figure 7 Little Kit’s Coty/Countless Stones (Phil Marsh 2023)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Stones_at_Little_Kit%27s_Coty.jpg" label="Stones at Little's Kit Coty" attribution="Ethan Doyle White, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 **White Horse Stone**   
 Located higher up Blue Bell Hill above Kit’s Coty is the White Horse Stone. Although probably part of 
@@ -155,9 +153,6 @@ was referred to as the Kentish Standard Stone and believed to be the stone on wh
 banner fell when it’s bearer, Horsa, died.[^ref17] Unfortunately, this was destroyed at the end of the 
 nineteenth century and the present stone has inherited the name.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4a/The_White_Horse_Stone_from_4500_BC.jpg" label="White Horse Stone" attribution="JOHN K  THORNE, CC0, via Wikimedia Commons">
-
-
-Figure 8 White Horse Stone (Phil Marsh 2023)
 
 ### Bibliography
 [^ref1]: _The Medway Megaliths in a European Context_. Kent Archaeological Society. 
