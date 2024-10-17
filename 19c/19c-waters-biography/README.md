@@ -2,14 +2,14 @@
 <param ve-config title="Billy Waters" author="Dr Mary L. Shannon" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%281747-1821%29_-_Chatham_Dockyard_-_BHC1782_-_Royal_Museums_Greenwich.jpg">
 
-<param ve-map center="Q1972699" zoom="12">
+<param ve-map center="Q2462696" zoom="12">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9a62ace9300b7b2e" title="Kent Ordnance Survey 1822">
 
 #
 
-William ‘Billy’ Waters is connected to [Chatham Dockyard](/19c/19c-chatham-dockyard) in Kent in 1811: he is celebrated as part of the Chatham Historic Dockyard permanent Disability Trailblazers trail. Once a famous Black busker in Regency London, born in America in the dying years of the eighteenth-century, Billy Waters has been largely overlooked by history until recent years. Sailor, immigrant, father, lover, and extraordinary talent, exploring the life of Billy Waters allows us to celebrate his creativity and to understand a diverse transatlantic Regency world.
+William ‘Billy’ Waters was connected to [Chatham Dockyard](/19c/19c-chatham-dockyard) in Kent in 1811: he is celebrated as part of the Chatham Historic Dockyard permanent Disability Trailblazers trail. Once a famous Black busker in Regency London, born in America in the dying years of the eighteenth-century, Billy Waters has been largely overlooked by history until recent years. Sailor, immigrant, father, lover, and extraordinary talent, exploring the life of Billy Waters allows us to celebrate his creativity and to understand a diverse transatlantic Regency world.
 <param ve-image url="https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21" label="Chatham Dockyard" attribution="engraved by R.Roffe, after a drawing by G.Shepherd, published in W.H.Ireland's The County of Kent, 1832">
 
 Waters had a hit song, a famous street performance, a well-known costume and was depicted in a play that toured Britain and America. He was a Black, disabled, poor man in an era when to be any of those things was at best challenging, and usually downright dangerous. Yet Waters shaped his life on his own terms as far as he could – he joined the British Navy, got promoted to a petty officer, turned the accident which disabled him into the start of new career as a performer, and fought hard to defend his family and his livelihood. Waters was a versatile and skilful man.

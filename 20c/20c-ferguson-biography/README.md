@@ -13,7 +13,7 @@ Chaplain of Eversley School, Sandgate 1915 – 1935 (thereafter in Lymington).
 <br>
 ‘I wandered out on the Leas, amid the gay butterflies listening to the military band, which that afternoon was playing on the glorious headland. In the midst of all that kaleidoscope of colour and buzz of talk I had a sense of being separate and aloof.’ _Stealthy Terror_ (1918)   
 <br>
-Scottish by birth, novelist and dramatist John Ferguson became chaplain of Eversley girls’ school in [Sandgate](/placesqz/sandgate-overview) in 1915.[^ref1] The following year he wrote a paper for the Folkestone War Refugees Committee on the town’s contribution in helping [Belgian refugees](/20c/20c-belgian-refugees).[^ref2] 
+Scottish by birth, novelist and dramatist John Ferguson became chaplain of Eversley girls’ school in [Sandgate](/placeskz/sandgate-overview) in 1915.[^ref1] The following year he wrote a paper for the Folkestone War Refugees Committee on the town’s contribution in helping [Belgian refugees](/20c/20c-belgian-refugees).[^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.tif" label="Folkestone Leas and Bandstand, pre-1900" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 <param ve-image url="https://raw.githubusercontent.com/kent-map/kent/502194a/20c/images/arrivalofbelgiansFMuseum.jpg" label="Belgian Refugees arriving in Folkestone" attribution="By kind permission of Folkestone Museum">
 
