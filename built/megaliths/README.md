@@ -38,7 +38,7 @@ Way.[^ref3]
 
 Figure 1 Kit’s Coty plate 32.2 from Itinerarium Curiosum
 
-According to local folklore, the Saxon mercenaries Hengist and Horsa are said to be buried at the Kit’s
+According to local folklore, the Saxon mercenaries [Hengist and Horsa](/medieval/hengestandhorsa/) are said to be buried at the Kit’s
 Coty House and the close by White Horse Stone. As with all things of this antiquity, accounts differ. 
 Although Gilda the Wise was the first to describe the arrival of Hengist and Horsa[^ref4]
 , it was the Venerable Bede[^ref5] who was the first to add detail about people and places. Hengist and Horsa landed 
@@ -97,7 +97,7 @@ people and help construct four giant stones. The book ends with the children bac
 having a picnic with their parents on the North Downs, where the four stones stand. 
 Figure 4 “Stig of the dump” illustration from the book (E. Ardizzone)
 Besides Neolithic man and witches, there is another explanation for the existence of Kit’s Coty. 
-Jerrold16 recounts a story of an encounter in 1837 between a friend and a lady “somewhat above 
+Jerrold[^ref16] recounts a story of an encounter in 1837 between a friend and a lady “somewhat above 
 that of the middle classes”, who told him;
 <br><br>
 “Those immense blocks of stone which now excite our wonder as to the means by which they were 
@@ -125,10 +125,12 @@ Itinerarium Curiosum showing the layout whilst the stones were still standing.
 Figure 6 Little Kit’s Coty plate 32.2 from Itinerarium Curiosum
 There is a general belief that the stones of megalithic monuments cannot be counted correctly. 
 The poet Sir Philip Sidney wrote, in “The 7 Wonders of England”:
+<br><br>
 Neere Wilton sweete huge heapes of stones are found,
 But so confusde that neither any eye
 Can count them iust, nor Reason reason trye,
-What force brought them to so vnlikely ground 19
+What force brought them to so vnlikely ground.[^ref19]
+
 At Little Kit’s Coty, there are stories about a baker who, in an attempt to count the stones, placed a 
 loaf of bread on top of each one. Various troubles, depending on which story is read, befall the baker. 
 In one version, one loaf mysteriously disappears and the devil appears in its place, while in another 
