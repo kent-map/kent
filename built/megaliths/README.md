@@ -111,6 +111,7 @@ and thus ‘Kit’s Coty House’ has attained its gigantic size. Hear this, oh,
 ye diggers of visions of antiquity, – ye men of historical research. Listen to this simple – this 
 satisfactory explanation, and confess how vain are all your theories about Cromlechs and Druidical 
 altars, and resting places for the bones of Saxon Kings.”
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/82/Alfred_Gomersal_Vickers_-_Kits_Coty_House%2C_Near_Maidstone%2C_Kent_-_B1977.14.4214_-_Yale_Center_for_British_Art.jpg" label="Alfred Gomersal Vickers, CC0, via Wikimedia Commons">
 
 **Coffin Stone**    
 Further down Blue Bell Hill towards the village of Aylesford, there is a large monolith called The 
@@ -155,6 +156,7 @@ location. However, this is not the original White Horse stone as this was lower 
 was referred to as the Kentish Standard Stone and believed to be the stone on which the white horse 
 banner fell when it’s bearer, Horsa, died.[^ref17] Unfortunately, this was destroyed at the end of the 
 nineteenth century and the present stone has inherited the name.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4a/The_White_Horse_Stone_from_4500_BC.jpg" label="White Horse Stone" attribution="JOHN K  THORNE, CC0, via Wikimedia Commons">
 
 
 Figure 8 White Horse Stone (Phil Marsh 2023)
