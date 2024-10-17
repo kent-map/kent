@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Folklore and the Blue Bell Hill Megaliths" author="Phillip Marsh" layout="vtl" banner="xxx" attribution="xx">
+<param ve-config title="Folklore and the Blue Bell Hill Megaliths" author="Phillip Marsh" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/2/2e/William_Stukeley%27s_Plan_of_Little_Kit%27s_Coty.png" attribution="William Stukeley 1687-1765, Public domain, via Wikimedia Commons">
 
 <param ve-entity eid="Q793057" aliases="Aylesford">
 <param ve-entity eid="Q4222497" aliases="Kits Coty House">
@@ -35,8 +35,7 @@ flanked by ditches from where the earth and chalk were dug during construction. 
 mound was still visible during the 18th century. Alongside, the stones runs an ancient pathway (fig 
 3), possibly a corpse road route and associated with the Pilgrims’ Way, now part of the North Downs 
 Way.[^ref3]
-
-Figure 1 Kit’s Coty plate 32.2 from Itinerarium Curiosum
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/88/William_Stukeley%27s_Illustration_of_Little_Kit%27s_Coty_and_Kit%27s_Coty.png" label="Illustration of Little Kit's Coty" attribution="William Stukeley, 1687-1765, via Wikimedia Commons">
 
 According to local folklore, the Saxon mercenaries [Hengist and Horsa](/medieval/hengestandhorsa/) are said to be buried at the Kit’s
 Coty House and the close by White Horse Stone. As with all things of this antiquity, accounts differ. 
