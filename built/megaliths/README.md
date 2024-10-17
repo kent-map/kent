@@ -77,17 +77,17 @@ There are other tales associated with Kit’s Coty. Evans and others noted that 
 the capstone (during a full moon) and places their hand inside the cavity of the stone, they will pull 
 out [^ref5] nails.[^ref2]
 This resonates with similar supernatural craftsman stories associated with megaliths 
-such as found at Wayland’s Smithy.[^ref13] Here, a traveller, on placing coins on the capstone, would have 
-his horse shod by an invisible blacksmith. 
-
-Another legend has it that witches built that Kit’s Coty.
-2
+such as found at Wayland’s Smithy.[^ref13] Here, a traveller, on placing coins on the capstone, would have his horse shod by an invisible blacksmith. 
+<br><br>
+Another legend has it that witches built that Kit’s Coty.[^ref2]
 Three witches living on Blue Bell Hill erected the stones but had to enlist a fourth witch to help raise the capstone. This apparently was well 
 known in 1848, where it was the inspiration for the Witches’ Stone play at the Theatre Royal in Rochester.[^ref14]
 A later play, _Kit’s Coty a musical Fairy Play_ 1933, sets Kit’s Coty as the entrance to a 
 fairyland under Blue Bell Hill15 It is also worth emphasising that Blue Bell Hill is well known for 
 supernatural events being the site of the Bluebell Hill Ghost, one of the better known “road ghost 
 stories”.[^ref3],[^ref14].
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Gezicht_op_Kit%27s_Coty_House%2C_te_Kent%2C_RP-P-2018-1949.jpg" label="Kit's Coty House" attribution="Rijksmuseum, CC0, via Wikimedia Commons">
+
 Kits Coty is believed to be the setting for the classic 1963 children’s book [_Stig of the Dump_](/landscape/chalk-pits-stig/) by Clive 
 King. Clive King lived in Ash Kent and went to King’s school in Rochester. Barney, the protagonist in 
 the story, befriends a cave boy he finds inhabiting an old chalk pit used as a dumping ground and 
