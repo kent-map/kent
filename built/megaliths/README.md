@@ -1,4 +1,14 @@
-Folklore and the Blue Bell Hill Megaliths
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="Folklore and the Blue Bell Hill Megaliths" author="Phillip Marsh" layout="vtl" banner="xxx" attribution="xx">
+
+<param ve-entity eid="Q793057" aliases="Aylesford">
+<param ve-entity eid="Q4222497" aliases="Kits Coty House">
+<param ve-entity eid="Q7994824" aliases="White Horse Stone">
+<param ve-entity eid="Q729006" aliases="Chatham">
+
+#
+
+
 During the Early Neolithic period, around the 4th millennium BCE, dense woodland covered 
 Southeast England. The Early Neolithic people lived a semi-nomadic lifestyle herding cattle. Although 
 leaving little evidence of settlements, they left behind substantial earth and stone monuments. 
@@ -10,7 +20,7 @@ However, other chambers, when excavated, have not. Because Kent has been and con
 the gateway to the continent, it is unsurprising to discover that these barrows are more closely 
 connected to European megaliths than to their British counterparts.1
 
-Kit’s Coty
+**Kit’s Coty**
 Above the village of Aylesford lies Blue Bell Hill, which is on the North Downs. It makes up part of the 
 Kent Downs Area of Outstanding Natural Beauty. Pilgrims’ Way, the route from Winchester to 
 Canterbury, skirts the hill although the track is much older than the 1100s and probably goes back to 
@@ -139,36 +149,36 @@ nineteenth century and the present stone has inherited the name.
 Figure 8 White Horse Stone (Phil Marsh 2023)
 
 ### Bibliography
-1. The Medway Megaliths in a European Context | Kent Archaeological Society. 
+[^ref1]: The Medway Megaliths in a European Context | Kent Archaeological Society. 
 https://www.kentarchaeology.org.uk/arch-cant/vol/119/medway-megaliths-european-context.
-2. Evans, J. H. Notes on the Folklore and Legends Associated with the Kentish Megaliths. Folklore
+[^ref2]: Evans, J. H. Notes on the Folklore and Legends Associated with the Kentish Megaliths. Folklore
 57, 36–43 (1946).
-3. Arnold, N. Haunted Maidstone. (The History Press, Stroud, Gloustershire, 2011).
-4. Turville-Petre, J. E. Hengest and Horsa. Saga-Book 14, 273–290 (1953).
-5. Bede. Bede’s Ecclesiastical History of England. https://www.gutenberg.org/files/38326/38326-
+[^ref3]: Arnold, N. Haunted Maidstone. (The History Press, Stroud, Gloustershire, 2011).
+[^ref4]: Turville-Petre, J. E. Hengest and Horsa. Saga-Book 14, 273–290 (1953).
+[^ref5]: Bede. Bede’s Ecclesiastical History of England. https://www.gutenberg.org/files/38326/38326-
 h/38326-h.html (2011).
-6. The Anglo-Saxon Chronicle. http://www.mcllibrary.org/Anglo/part1.html.
-7. History of the Britons (historia Brittonum), by Nennius. 
+[^ref6]: The Anglo-Saxon Chronicle. http://www.mcllibrary.org/Anglo/part1.html.
+[^ref7]: History of the Britons (historia Brittonum), by Nennius. 
 https://www.gutenberg.org/files/1972/1972-h/1972-h.htm.
-8. Lambarde, W. A Preambulation of Kent. (Baldwin, Cradock and Joy, London, 1576).
-9. Geoffrey, of M. The Historia regum Britannie of Geoffrey of Monmouth. (Cambridge 
+[^ref8]: Lambarde, W. A Preambulation of Kent. (Baldwin, Cradock and Joy, London, 1576).
+[^ref9]: Geoffrey, of M. The Historia regum Britannie of Geoffrey of Monmouth. (Cambridge 
 [Cambridgeshire] ; Dover, N.H., USA : D.S. Brewer, 1985).
-10. The English Heritage Podcast: Episode 247 - Kit’s Coty House and the Medway Megaliths on 
+[^ref10]: The English Heritage Podcast: Episode 247 - Kit’s Coty House and the Medway Megaliths on 
 Apple Podcasts. Apple Podcasts https://podcasts.apple.com/gb/podcast/episode-247-Kit’s-cotyhouse-and-the-medway-megaliths/id1156861002?i=1000639886367.
-11. Menefee, S. P. Circling as an Entrance to the Otherworld. Folklore 96, 3–20 (1985).
-12. Simpson, J. Legends of Chanctonbury Ring. Folklore 80, 122–131 (1969).
-13. Whittle, A., Bayliss, A. & Wysocki, M. Once in a Lifetime: the Date of the Wayland’s Smithy 
+[^ref11]: Menefee, S. P. Circling as an Entrance to the Otherworld. Folklore 96, 3–20 (1985).
+[^ref12]: Simpson, J. Legends of Chanctonbury Ring. Folklore 80, 122–131 (1969).
+[^ref13]: Whittle, A., Bayliss, A. & Wysocki, M. Once in a Lifetime: the Date of the Wayland’s Smithy 
 Long Barrow. CAJ 17, 103–121 (2007).
-14. Tudor, S. The Ghosts of Blue Bell Hill & Other Road Ghosts. (Lulu.com, 2017).
-15. Evans, F. & Anderson, H. J. Kit’s Coty. A Musical Fairy Play in Three Acts. (L. Williams, 1933).
-16. Jerrold, W. Highways and Byways in Kent. (London, Macmillan and Co., Limited, 1914).
-17. A Disciple of the Druids. The Beale Poste MSS.
-18. Stukeley, W. Itinerarium Curiosum; or, An Account of the Antiquities, and Remarkable 
+[^ref14]: Tudor, S. The Ghosts of Blue Bell Hill & Other Road Ghosts. (Lulu.com, 2017).
+[^ref15]: Evans, F. & Anderson, H. J. Kit’s Coty. A Musical Fairy Play in Three Acts. (L. Williams, 1933).
+[^ref16]: Jerrold, W. Highways and Byways in Kent. (London, Macmillan and Co., Limited, 1914).
+[^ref17]: A Disciple of the Druids. The Beale Poste MSS.
+[^ref18]: Stukeley, W. Itinerarium Curiosum; or, An Account of the Antiquities, and Remarkable 
 Curiosities in Nature or Art, Observed in Travels through Great Britain. Centuria I. (London, 
 Printed for Baker and Leigh, 1776).
-19. Sidney, S. P. The Seven Wonders of England. (W.A. Ringler, Oxford, 1586).
-20. Doel, F. & Doel, G. Folklore in Kent. (The History Press, Stoud, Gloucestershire, UK, 2003).
-21. Menefee, S. P. The ‘Countless Stones’: A Final Reckoning. Folklore 86, 146–166 (1975).
-22. Grinsell, L. V. CORPUS DU FOLKLORE PREHISTORIQUE EN FRANCE ET DANS LES 
+[^ref19]: Sidney, S. P. The Seven Wonders of England. (W.A. Ringler, Oxford, 1586).
+[^ref20]: Doel, F. & Doel, G. Folklore in Kent. (The History Press, Stoud, Gloucestershire, UK, 2003).
+[^ref21]: Menefee, S. P. The ‘Countless Stones’: A Final Reckoning. Folklore 86, 146–166 (1975).
+[^ref22]: Grinsell, L. V. CORPUS DU FOLKLORE PREHISTORIQUE EN FRANCE ET DANS LES 
 COLONIES FRANCAISES. Edited byP. Saintyves Volumes I-III (vol. Iout of print). Paris: 
 Librairie E. Nourry, 62 Rue des Ecoles, 1934–6. 220 francs. Antiquity 11, 117–119 (1937).
