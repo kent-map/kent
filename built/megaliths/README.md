@@ -51,14 +51,9 @@ suggested that Catigern is buried at Kit’s Coty and this is where it gets its 
 House which translate as Catergern’s Stone House, “coits” being an old word for these types of 
 stones. Geoffrey of Monmouth gives a much more colourful account, with Vortigen marrying Hengist’s daughter.[^ref9]
 
-
-Figure 2 Kit’s Coty (Phil Marsh 2023)
-
 There are various reasons that people give for the name. An endearing story is that a young (or old) 
 shepherd called Kit used the stones as a shelter in hard weather, another that the name is derived 
 from the Celtic ked coerd which translates as “Tomb in the Forest”.[^ref10]
-
-Figure 3 North Downs Way (Phil Marsh 2023)
 
 Evans[^ref2] suggests that medieval people saw megaliths as the work of fairies, giants or other 
 supernatural powers. According to local legend, if someone places a personal object on the capstone 
@@ -96,8 +91,6 @@ slip” on midsummer’s night and being transported back to Stig’s time. They
 people and help construct four giant stones. The book ends with the children back in present time 
 having a picnic with their parents on the North Downs, where the four stones stand. 
 
-Figure 4 “Stig of the dump” illustration from the book (E. Ardizzone)
-
 Besides Neolithic man and witches, there is another explanation for the existence of Kit’s Coty. 
 Jerrold[^ref16] recounts a story of an encounter in 1837 between a friend and a lady “somewhat above 
 that of the middle classes”, who told him;
@@ -124,8 +117,6 @@ another Sarson stone on the coffin stone.[^ref17]
 Countless stones, also known as “Little Kit’s Coty”, comprise several fallen over sarsen stones. 
 Records show the stones were destroyed in 1690. Fortunately, there are some drawings in Stucklely’s 
 _Itinerarium Curiosum_ showing the layout whilst the stones were still standing.[^ref18]
-
-Figure 6 Little Kit’s Coty plate 32.2 from Itinerarium Curiosum
 
 There is a general belief that the stones of megalithic monuments cannot be counted correctly. 
 The poet Sir Philip Sidney wrote, in “The 7 Wonders of England”:
@@ -156,35 +147,35 @@ nineteenth century and the present stone has inherited the name.
 
 ### Bibliography
 [^ref1]: _The Medway Megaliths in a European Context_. Kent Archaeological Society. 
-https://www.kentarchaeology.org.uk/arch-cant/vol/119/medway-megaliths-european-context.
+https://www.kentarchaeology.org.uk/arch-cant/vol/119/medway-megaliths-european-context.   
 [^ref2]: Evans, J. H. Notes on the Folklore and Legends Associated with the Kentish Megaliths. _Folklore_
-57, 36–43 (1946).
-[^ref3]: Arnold, N. _Haunted Maidstone_. (The History Press, Stroud, Gloustershire, 2011).
-[^ref4]: Turville-Petre, J. E. _Hengest and Horsa_. Saga-Book 14, 273–290 (1953).
+57, 36–43 (1946).   
+[^ref3]: Arnold, N. _Haunted Maidstone_. (The History Press, Stroud, Gloustershire, 2011).   
+[^ref4]: Turville-Petre, J. E. _Hengest and Horsa_. Saga-Book 14, 273–290 (1953).   
 [^ref5]: Bede. _Bede’s Ecclesiastical History of England_. https://www.gutenberg.org/files/38326/38326-
-h/38326-h.html (2011).
-[^ref6]: _The Anglo-Saxon Chronicle_. http://www.mcllibrary.org/Anglo/part1.html.
-[^ref7]: _History of the Britons_ (historia Brittonum), by Nennius. 
-https://www.gutenberg.org/files/1972/1972-h/1972-h.htm.
-[^ref8]: Lambarde, W. _A Preambulation of Kent._ (Baldwin, Cradock and Joy, London, 1576).
+h/38326-h.html (2011).   
+[^ref6]: _The Anglo-Saxon Chronicle_. http://www.mcllibrary.org/Anglo/part1.html.   
+[^ref7]: _History of the Britons_ (historia Brittonum), by Nennius.   
+https://www.gutenberg.org/files/1972/1972-h/1972-h.htm.   
+[^ref8]: Lambarde, W. _A Preambulation of Kent._ (Baldwin, Cradock and Joy, London, 1576).   
 [^ref9]: Geoffrey, of M. _The Historia regum Britannie of Geoffrey of Monmouth_. (Cambridge 
-[Cambridgeshire] ; Dover, N.H., USA : D.S. Brewer, 1985).
+[Cambridgeshire] ; Dover, N.H., USA : D.S. Brewer, 1985).   
 [^ref10]: The English Heritage Podcast: Episode 247 - Kit’s Coty House and the Medway Megaliths on 
-Apple Podcasts. Apple Podcasts https://podcasts.apple.com/gb/podcast/episode-247-Kit’s-cotyhouse-and-the-medway-megaliths/id1156861002?i=1000639886367.
-[^ref11]: Menefee, S. P. Circling as an Entrance to the Otherworld. _Folklore_ 96, 3–20 (1985).
-[^ref12]: Simpson, J. Legends of Chanctonbury Ring. _Folklore_ 80, 122–131 (1969).
+Apple Podcasts. Apple Podcasts https://podcasts.apple.com/gb/podcast/episode-247-Kit’s-cotyhouse-and-the-medway-megaliths/id1156861002?i=1000639886367.   
+[^ref11]: Menefee, S. P. Circling as an Entrance to the Otherworld. _Folklore_ 96, 3–20 (1985).   
+[^ref12]: Simpson, J. Legends of Chanctonbury Ring. _Folklore_ 80, 122–131 (1969).   
 [^ref13]: Whittle, A., Bayliss, A. & Wysocki, M. _Once in a Lifetime: the Date of the Wayland’s Smithy 
-Long Barrow._ CAJ 17, 103–121 (2007).
-[^ref14]: Tudor, S. _The Ghosts of Blue Bell Hill & Other Road Ghosts._ (Lulu.com, 2017).
-[^ref15]: Evans, F. & Anderson, H. J. _Kit’s Coty. A Musical Fairy Play in Three Acts_. (L. Williams, 1933).
-[^ref16]: Jerrold, W. _Highways and Byways in Kent_. (London, Macmillan and Co., Limited, 1914).
-[^ref17]: A Disciple of the Druids. The Beale Poste MSS.
+Long Barrow._ CAJ 17, 103–121 (2007).   
+[^ref14]: Tudor, S. _The Ghosts of Blue Bell Hill & Other Road Ghosts._ (Lulu.com, 2017).   
+[^ref15]: Evans, F. & Anderson, H. J. _Kit’s Coty. A Musical Fairy Play in Three Acts_. (L. Williams, 1933).   
+[^ref16]: Jerrold, W. _Highways and Byways in Kent_. (London, Macmillan and Co., Limited, 1914).   
+[^ref17]: A Disciple of the Druids. The Beale Poste MSS.   
 [^ref18]: Stukeley, W. _Itinerarium Curiosum; or, An Account of the Antiquities, and Remarkable 
 Curiosities in Nature or Art, Observed in Travels through Great Britain._ Centuria I. (London, 
-Printed for Baker and Leigh, 1776).
-[^ref19]: Sidney, S. P. _The Seven Wonders of England_. (W.A. Ringler, Oxford, 1586).
-[^ref20]: Doel, F. & Doel, G. _Folklore in Kent_. (The History Press, Stoud, Gloucestershire, UK, 2003).
-[^ref21]: Menefee, S. P. The ‘Countless Stones’: A Final Reckoning. _Folklore_ 86, 146–166 (1975).
+Printed for Baker and Leigh, 1776).   
+[^ref19]: Sidney, S. P. _The Seven Wonders of England_. (W.A. Ringler, Oxford, 1586).   
+[^ref20]: Doel, F. & Doel, G. _Folklore in Kent_. (The History Press, Stoud, Gloucestershire, UK, 2003).   
+[^ref21]: Menefee, S. P. The ‘Countless Stones’: A Final Reckoning. _Folklore_ 86, 146–166 (1975).   
 [^ref22]: Grinsell, L. V. _CORPUS DU FOLKLORE PREHISTORIQUE EN FRANCE ET DANS LES 
 COLONIES FRANCAISES._ Edited byP. Saintyves Volumes I-III (vol. Iout of print). Paris: 
-Librairie E. Nourry, 62 Rue des Ecoles, 1934–6. 220 francs. Antiquity 11, 117–119 (1937).
+Librairie E. Nourry, 62 Rue des Ecoles, 1934–6. 220 francs. Antiquity 11, 117–119 (1937).   
