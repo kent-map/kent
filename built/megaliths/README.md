@@ -118,9 +118,7 @@ Further down Blue Bell Hill towards the village of Aylesford, there is a large m
 Coffin Stone lying flat on the ground within the vineyard. Underneath the stone, human remains 
 were uncovered in 1836. These included 2 skulls and a sack full of bones. In 1980, a farmer added 
 another Sarson stone on the coffin stone.[^ref17]
-
-
-Figure 5 Coffin Stone (Phil Marsh 2023)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c1/Coffin_Stone%2C_Blue_Bell_Hill%2C_Kent_01.jpg" label="Coffin Stone, Blue Bell Hill" attribution="Simon Burchell via Wikimedia Commons" license="CC BY-SA 4.0">
 
 **Countless stones**   
 Countless stones, also known as “Little Kit’s Coty”, comprise several fallen over sarsen stones. 
