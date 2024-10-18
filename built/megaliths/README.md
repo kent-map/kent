@@ -60,6 +60,7 @@ or porridge. There are further circling the megalith legends that culminate in t
 a white horse or a treasure seeking ghost. Variations of the circling theme exist, such as the number 
 of times the monument is circled, the direction clockwise or counterclockwise and whether the act is 
 undertaken clothed or naked.[^ref11],[^ref12].
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Woodland_fairies_in_the_moonlight.jpg" label="Woodland Fairies in the moonlight" attribution="A.W. Crawford"> 
 
 There are other tales associated with Kit’s Coty. Evans and others noted that if a person climbs onto 
 the capstone (during a full moon) and places their hand inside the cavity of the stone, they will pull 
