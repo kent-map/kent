@@ -13,6 +13,7 @@ leaving little evidence of settlements, they left behind substantial earth and s
 consist of earth tumuli (barrows) that cover a chamber constructed out of large stones called megaliths. A series of these barrows can be found along the river Medway. Some of these chambers 
 have been excavated by archaeologists, revealing human remains and suggesting their use as tombs.  However, other chambers, when excavated, have not. Because Kent has been and continues to be 
 the gateway to the continent, it is unsurprising to discover that these barrows are more closely connected to European megaliths than to their British counterparts.[^ref1]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a9/Coldrum_Long_Barrow_48.jpg" label="Coldrum Long Barrow" attribution="Simon Burchell, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 **Kit’s Coty**   
 Above the village of Aylesford lies Blue Bell Hill, which is on the North Downs. It makes up part of the 
@@ -82,6 +83,7 @@ they have many adventures together. The end of the book sees Barney and his sist
 slip” on midsummer’s night and being transported back to Stig’s time. They meet Stig with his own 
 people and help construct four giant stones. The book ends with the children back in present time 
 having a picnic with their parents on the North Downs, where the four stones stand. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/82/Alfred_Gomersal_Vickers_-_Kits_Coty_House%2C_Near_Maidstone%2C_Kent_-_B1977.14.4214_-_Yale_Center_for_British_Art.jpg" label="Alfred Gomersal Vickers, CC0, via Wikimedia Commons">
 
 Besides Neolithic man and witches, there is another explanation for the existence of Kit’s Coty. 
 Jerrold[^ref16] recounts a story of an encounter in 1837 between a friend and a lady “somewhat above 
@@ -96,7 +98,7 @@ and thus ‘Kit’s Coty House’ has attained its gigantic size. Hear this, oh,
 ye diggers of visions of antiquity, – ye men of historical research. Listen to this simple – this 
 satisfactory explanation, and confess how vain are all your theories about Cromlechs and Druidical 
 altars, and resting places for the bones of Saxon Kings.”
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/82/Alfred_Gomersal_Vickers_-_Kits_Coty_House%2C_Near_Maidstone%2C_Kent_-_B1977.14.4214_-_Yale_Center_for_British_Art.jpg" label="Alfred Gomersal Vickers, CC0, via Wikimedia Commons">
+<param ve-image url="https://stor.artstor.org/stor/df393ce0-2b77-4039-8f05-45ec854cde74" label="Kit's Coty" attribution="Kent Maps Online Collection">
 
 **Coffin Stone**    
 Further down Blue Bell Hill towards the village of Aylesford, there is a large monolith called The 
@@ -109,7 +111,7 @@ another Sarson stone on the coffin stone.[^ref17]
 Countless stones, also known as “Little Kit’s Coty”, comprise several fallen over sarsen stones. 
 Records show the stones were destroyed in 1690. Fortunately, there are some drawings in Stucklely’s 
 _Itinerarium Curiosum_ showing the layout whilst the stones were still standing.[^ref18]
-
+<br><br>
 There is a general belief that the stones of megalithic monuments cannot be counted correctly. 
 The poet Sir Philip Sidney wrote, in “The 7 Wonders of England”:
 <br><br>
