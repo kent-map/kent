@@ -37,7 +37,7 @@ Although Gilda the Wise was the first to describe the arrival of Hengist and Hor
 in Britain at Ebbsfleet in 449 at the request of King Vortigern. In return for driving out the Picts and 
 the Scots, they were granted the Isle of Thanet. Eventually, the deal soured, and in 455, the brothers 
 and Vortigern fought a battle in Aylesford or Aegelesthrep, as it is known in Old English. Both the 
-Anglo Saxons Chronicles[^ref6] and the Historia Brittonum[^ref7] document the battle. Horsa was killed, along 
+_Anglo Saxons Chronicles_[^ref6] and the _Historia Brittonum_[^ref7] document the battle. Horsa was killed, along 
 with Vortigen’s brother Catigern. Lambarde[^ref8], who is credited with writing the first history of Kent, 
 suggested that Catigern is buried at Kit’s Coty and this is where it gets its name: Catergern’s Coity 
 House which translate as Catergern’s Stone House, “coits” being an old word for these types of 
@@ -45,6 +45,7 @@ stones. Geoffrey of Monmouth gives a much more colourful account, with Vortigen 
 There are various reasons that people give for the name. An endearing story is that a young (or old) 
 shepherd called Kit used the stones as a shelter in hard weather, another that the name is derived 
 from the Celtic ked coerd which translates as “Tomb in the Forest”.[^ref10]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_graphic_and_historical_illustrator%3B_an_original_miscellany_of_literary%2C_antiquarian%2C_and_topographical_information%2C_embellished_with_one_hundred_and_fifty_woodcuts_%281834%29_%2814782079272%29.jpg/1280px-thumbnail.jpg" label="The graphic and historical illustrator; an original miscellany of literary, antiquarian, and topographical information, embellished with one hundred and fifty woodcuts, 1834" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons"> 
 
 Evans[^ref2] suggests that medieval people saw megaliths as the work of fairies, giants or other 
 supernatural powers. According to local legend, if someone places a personal object on the capstone 
