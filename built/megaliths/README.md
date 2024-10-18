@@ -31,8 +31,7 @@ mound was still visible during the 18th century. Alongside, the stones runs an a
 Way.[^ref3]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/88/William_Stukeley%27s_Illustration_of_Little_Kit%27s_Coty_and_Kit%27s_Coty.png" label="Illustration of Little Kit's Coty" attribution="William Stukeley, 1687-1765, via Wikimedia Commons">
 
-According to local folklore, the Saxon mercenaries [Hengist and Horsa](/medieval/hengestandhorsa/) are said to be buried at the Kit’s
-Coty House and the close by White Horse Stone. As with all things of this antiquity, accounts differ. 
+According to local folklore, the Saxon mercenaries [Hengist and Horsa](/medieval/hengestandhorsa/) are said to be buried at the Kit’s Coty House and the close by White Horse Stone. As with all things of this antiquity, accounts differ. 
 Although Gilda the Wise was the first to describe the arrival of Hengist and Horsa[^ref4]
 , it was the Venerable Bede[^ref5] who was the first to add detail about people and places. Hengist and Horsa landed 
 in Britain at Ebbsfleet in 449 at the request of King Vortigern. In return for driving out the Picts and 
@@ -43,7 +42,6 @@ with Vortigen’s brother Catigern. Lambarde[^ref8], who is credited with writin
 suggested that Catigern is buried at Kit’s Coty and this is where it gets its name: Catergern’s Coity 
 House which translate as Catergern’s Stone House, “coits” being an old word for these types of 
 stones. Geoffrey of Monmouth gives a much more colourful account, with Vortigen marrying Hengist’s daughter.[^ref9]
-
 There are various reasons that people give for the name. An endearing story is that a young (or old) 
 shepherd called Kit used the stones as a shelter in hard weather, another that the name is derived 
 from the Celtic ked coerd which translates as “Tomb in the Forest”.[^ref10]
@@ -118,7 +116,7 @@ Neere Wilton sweete huge heapes of stones are found,
 But so confusde that neither any eye
 Can count them iust, nor Reason reason trye,
 What force brought them to so vnlikely ground.[^ref19]
-
+<br><br>
 At Little Kit’s Coty, there are stories about a baker who, in an attempt to count the stones, placed a 
 loaf of bread on top of each one. Various troubles, depending on which story is read, befall the baker. 
 In one version, one loaf mysteriously disappears and the devil appears in its place, while in another 
