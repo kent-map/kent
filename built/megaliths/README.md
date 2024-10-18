@@ -51,7 +51,7 @@ from the Celtic ked coerd which translates as “Tomb in the Forest”.[^ref10]
 Evans[^ref2] suggests that medieval people saw megaliths as the work of fairies, giants or other 
 supernatural powers. According to local legend, if someone places a personal object on the capstone 
 and walks around the stones three times, the object disappears. Unsurprisingly, people need to do 
-this during a full moon.[^ref10],[^ref11]. Evans also notes similar stories where individuals use a personal object 
+this during a full moon.[^ref10],[^ref11] Evans also notes similar stories where individuals use a personal object 
 as a “sacrifice” either to acquire immunity from supernatural powers or to receive a reward.
 Menefee describes this idea of receiving a reward [^ref11] and indicates this is just one of a series of the 
 circumambulation beliefs concerning megaliths. Becket [^ref12] recalls a story about circling a megalith 
@@ -59,7 +59,7 @@ seven times on a moonless night to receive soup from the devil. Other stories re
 or porridge. There are further circling the megalith legends that culminate in the conjuring a lady on 
 a white horse or a treasure seeking ghost. Variations of the circling theme exist, such as the number 
 of times the monument is circled, the direction clockwise or counterclockwise and whether the act is 
-undertaken clothed or naked.[^ref11],[^ref12].
+undertaken clothed or naked.[^ref11],[^ref12]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Woodland_fairies_in_the_moonlight.jpg" label="Woodland Fairies in the moonlight" attribution="A.W. Crawford"> 
 
 There are other tales associated with Kit’s Coty. Evans and others noted that if a person climbs onto 
@@ -74,7 +74,7 @@ known in 1848, where it was the inspiration for the Witches’ Stone play at the
 A later play, _Kit’s Coty a musical Fairy Play_ 1933, sets Kit’s Coty as the entrance to a 
 fairyland under Blue Bell Hill15 It is also worth emphasising that Blue Bell Hill is well known for 
 supernatural events being the site of the Bluebell Hill Ghost, one of the better known “road ghost 
-stories”.[^ref3],[^ref14].
+stories”.[^ref3],[^ref14]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Gezicht_op_Kit%27s_Coty_House%2C_te_Kent%2C_RP-P-2018-1949.jpg" label="Kit's Coty House" attribution="Rijksmuseum, CC0, via Wikimedia Commons">
 
 Kits Coty is believed to be the setting for the classic 1963 children’s book [_Stig of the Dump_](/landscape/chalk-pits-stig/) by Clive 
