@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Folklore and the Blue Bell Hill Megaliths" author="Phillip Marsh" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/2/2e/William_Stukeley%27s_Plan_of_Little_Kit%27s_Coty.png" attribution="William Stukeley 1687-1765, Public domain, via Wikimedia Commons">
+<param ve-config title="Folklore and the Blue Bell Hill Megaliths" author="Phillip Marsh" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/9f/Stones_at_Little_Kit%27s_Coty.jpg" attribution="Ethan Doyle White, CC BY-SA 3.0, via Wikimedia Commons">
 
 <param ve-entity eid="Q793057" aliases="Aylesford">
 <param ve-entity eid="Q4222497" aliases="Kits Coty House">
