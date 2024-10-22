@@ -1,3 +1,14 @@
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="Albert Makaula White" author="Liam Cohen" layout="vtl" 
+banner="xxx">
+
+<param ve-map center="Q729006" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="9a62ace9300b7b2e" title="Kent Ordnance Survey 1822">
+
+#
+
 Albert Makaula, the son of a Bhaca Chief, was born in the Eastern Cape in 1865.[^ref1] Although his beginnings were in South Africa, he settled in Kent where he became a farmer. 
 <br><br>
 As an infant, Albert grew seriously ill. It was considered a liability to have a weak son who could not defend himself and his people. Chief Makaula and Albert's mother, "The Great Wife," tried everything to cure young Albert.[^ref2] Out of ideas, his parents took advantage of improving relations with the British. They took Albert to Reverend Charles White in Osborn. The Whites had no children of their own. Chief Makaula asked White if he could treat young Albert, and if he could he could keep Albert, but if not, then they were to bury him. The Whites agreed, and Albert's health improved. The Whites adopted Albert, thus he added the name, White, making him Albert Makaula-White. 
@@ -14,7 +25,7 @@ Albert worked as a farm manager through the early 20th century across many diffe
 The winter of 1927 into 1928 was extremely cold and snowy.[^ref10] Many roads and paths had to be dug out so that people could access the outer world after being snowed in. The extreme weather would have a costly effect on Albert. In January 1928, the RSPCA took him to court for neglecting the pigs on his farm.[^ref11] Albert declared to the court that he sold all of the pigs in question to Commander Egleton around Christmas. The pair came to a gentleman's agreement that Albert would house the pigs until Egleton would collect them in January. In the meantime, Egleton's farm manager was to feed the pigs. However, he claimed there was a miscommunication, and he believed Albert was also meant to feed the pigs part of the time.[^ref12] Both parties were fined. Albert was fined £10, approximately £460 (as of 2017).13 This gained unwanted public attention. The Makaula-White's lived at two different farms in 1928, until they moved to Court Lodge in Doddington in 1929. At Court Lodge, they strictly only dealt with wheat, barley, oats, and beans. 
 
 As Albert aged, his financial issues grew, and his mental health declined. He remained working in the agricultural industry until his death on 13th September 1937, aged 72. After her husband's death, Eleanor lived with Claude in Maidstone until she died in 1944. 
-
+<br><br>
 Albert Makaula-White's life was a testament to resilience and determination. Despite his uncertain beginning, he rose above his challenges to achieve great things. A proud Christian and successful businessman, he not only integrated himself into a world where he began at a disadvantage but also earned the respect of his peers. Albert showed he was best placed in quaint remote villages, whether in the scorching sun of South Africa or the snowy streets of Kent.  
 
 ### References
