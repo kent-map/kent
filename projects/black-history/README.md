@@ -28,5 +28,5 @@ In her 2021 novel, A Sin of Omission, Marguerite Poland highlights the work carr
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/ec/Billy_Waters%2C_a_one_legged_busker%2C_in_a_crowded_London_stree_Wellcome_V0007299.jpg)
 
-William ‘Billy’ Waters was connected to Chatham Dockyard in Kent in 1811: he is celebrated as part of the Chatham Historic Dockyard permanent Disability Trailblazers trail. Once a famous Black busker in Regency London, born in America in the dying years of the eighteenth-century, Billy Waters has been largely overlooked by history until recent years.
+William ‘Billy’ Waters was connected to Chatham Dockyard in Kent in 1811: he is celebrated as part of the Chatham Historic Dockyard permanent Disability Trailblazers trail. Once a famous Black busker in Regency London, Billy Waters has been largely overlooked by history.
 
