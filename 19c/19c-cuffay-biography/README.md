@@ -42,6 +42,7 @@ William was charged as guilty, narrowly avoiding the death penalty. He was sente
 After a journey lasting 103 days on the prison ship _Adelaide_, William arrived in Tasmania in November 1849. After an almost four-year delay, Mary Ann joined him. On 19th May 1856, William was pardoned for his conviction. However, he decided to stay in Australia.[^ref17] He worked as a travelling tailor and remained in local politics until the last year of his life. In October 1869, William was admitted to a workhouse and died at the age of 82 in July 1870.
 <br><br>
 William’s wish for universal male suffrage was achieved 48 years after his death when the Representation of People Act 1918 was introduced. The Act allowed all men over 21 and women over 30 who met the property qualifications the right to vote.[^ref18]  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/Representation_of_the_People_Act_1918.jpg" label="Representation of the People Act 1918" attribution="Uncredited., OGL 3 National Archives, via Wikimedia Commons">
 
  
 ### References
