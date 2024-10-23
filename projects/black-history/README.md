@@ -18,9 +18,9 @@ William Cuffay, tailor and Chartist was born at Brompton near Chatham.
 
 [A Sin of Omission](/21c/21c-sin-of-omission/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/21c_Augustine_College.jpg)
 
-Walter Tull
+In her 2021 novel, A Sin of Omission, Marguerite Poland highlights the work carried out by Anglican missionaries in 19th century South Africa. During this time, many young men travelled from all over the world to study at Saint Augustine’s Missionary College in Canterbury.
 
 ## Billy Waters
 
