@@ -1,4 +1,4 @@
-`ve-header title="Black History Month" background=gh:kent-map/images/banners/black history month.JPG .sticky`
+`ve-header title="Black History Month" background=gh:kent-map/images/banners/xxx.JPG .sticky`
 
 Reclaiming narratives is a call to action for Black communities across the UK to step into the role of storytellers, historians, and custodians of black heritage. Liam Cohen and xxxx were inspired to explore the stories of black lives in Kent.
 
