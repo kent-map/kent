@@ -33,26 +33,6 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends.
 
-# Featured Projects
-`.cards`
-
-## Inspirational Kent Women Writers
-
-[Inspirational Kent Women Writers](projects/inspirational-women-writers)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/kentwomen.jpg)
-
-To accompany the Inspirational Kent Women Writers event held by the Centre for Kent History and Heritage, Kent Maps Online have curated a collection of inspirational Kent women writers as well as some lesser known women writers who have been inspired by Kent.
-
-## Dover at Night
-
-[Dover at Night](projects/dover-at-night)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night.jpg)
-
-To celebrate Dover at Night, Kent Maps Online have written an article about Dover as depicted in literature, where smuggling, assignations and abductions occur along its moonlit shore.
-
-
 # Essays by Period 
 `.cards`
 
@@ -317,6 +297,24 @@ English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coas
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
+# Featured Projects
+`.cards`
+
+## Inspirational Kent Women Writers
+
+[Inspirational Kent Women Writers](projects/inspirational-women-writers)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/kentwomen.jpg)
+
+To accompany the Inspirational Kent Women Writers event held by the Centre for Kent History and Heritage, Kent Maps Online have curated a collection of inspirational Kent women writers as well as some lesser known women writers who have been inspired by Kent.
+
+## Dover at Night
+
+[Dover at Night](projects/dover-at-night)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night.jpg)
+
+To celebrate Dover at Night, Kent Maps Online have written an article about Dover as depicted in literature, where smuggling, assignations and abductions occur along its moonlit shore.
 
 # Featured Texts
 `.cards`
