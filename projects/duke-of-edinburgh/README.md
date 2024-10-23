@@ -21,7 +21,7 @@ With invasion threatening, Kent mobilised its forces, but did it leave the coast
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_garden_of_england1.jpg)
 
-'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood.' Read Alice's research into the life of war poet, Edmund Blunden, who grew up in Yalding, near Maidstone.
+'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood.' Read Alice Sellors's research into the life of war poet, Edmund Blunden, who grew up in Yalding, near Maidstone.
 
 ## Doodlebugs in Kent
 
@@ -37,7 +37,7 @@ Co-researched and designed by Duke of Edinburgh participants, Hannah and Jonatha
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/16c_Leonard_and_Thomas_Digges.jpg)
 
-Arnav researched this father and son duo who were learned mathematicians in Kent in the sixteenth century. 
+Arnav Sharma researched this father and son duo who were learned mathematicians in Kent in the sixteenth century. 
 
 ## Elizabeth Gould
 
@@ -53,7 +53,7 @@ Elizabeth Gould, born in 1804 in Ramsgate, was a skilled artist and ornithologis
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
-The Kentish physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood inspired Arnav to write this article.
+The Kentish physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood inspired Arnav Sharma to write this article.
 
 ## John Edensor Littlewood
 
@@ -85,7 +85,7 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ac/Plot_memorial%2C_Borden.jpg)
 
-Hannah researched the life of naturalist and chemist, Robert Plot who was born at Borden in Kent.
+Hannah Jennison researched the life of naturalist and chemist, Robert Plot who was born at Borden in Kent.
 
 ## Plum Pudding Riots
 
@@ -93,7 +93,7 @@ Hannah researched the life of naturalist and chemist, Robert Plot who was born a
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
-Hannah writes a news report on the Canterbury riots which occurred on Christmas Day, 1647.
+Hannah Jennison writes a news report on the Canterbury riots which occurred on Christmas Day, 1647.
 
 ## John Tradescant the Younger
 

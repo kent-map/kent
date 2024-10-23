@@ -45,6 +45,16 @@ The town of Deal first developed a mile or so inland. But in seventeenth century
 
 Primarily known for its long stretch of shingle beach, Deal may appear like any seaside town to most, but there is a vast history below the waves and onshore. The town has been involved in war and conflict throughout time.
 
+## Dover at Night
+
+[Dover at Night](/placesad/dover-at-night)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night.jpg)
+
+To celebrate Dover at Night, Kent Maps Online have written an article about Dover as depicted in literature, where smuggling, assignations and abductions occur along its moonlit shore.
+
+
+
 ## Dover in the 19th century
 
 [Dover in the 19th century](/19c/19c-dover/)
