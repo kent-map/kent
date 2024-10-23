@@ -1,6 +1,6 @@
-`ve-header title="Black History Month" background=gh:kent-map/images/banners/Dumpton.JPG .sticky`
+`ve-header title="Black History Month" background=gh:kent-map/images/banners/xxx.JPG .sticky`
 
-Reclaiming narratives is a call to action for Black communities across the UK to step into the role of storytellers, historians, and custodians of black heritage. Liam Cohen and xxxx were inspired to explore the stories of black lives in Kent.
+Reclaiming narratives is a call to action for Black communities across the UK to step into the role of storytellers, historians, and custodians of black heritage. MA Creative writing student Liam Cohen has been inspired to explore the stories of black lives in Kent. Read his articles, along with those of other researchers, on key black figures in Kent's past.
 
 
 # &nbsp; 
@@ -10,38 +10,23 @@ Reclaiming narratives is a call to action for Black communities across the UK to
 
 [William Cuffay](/19c/19c-cuffay-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/62/ChartistRiot.jpg)
 
-Walter Tull
+William Cuffay, tailor and Chartist was born at Brompton near Chatham. He became the President of the London Chartists. 
 
 ## A Sin of Omission
 
 [A Sin of Omission](/21c/21c-sin-of-omission/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/21c_Augustine_College.jpg)
 
-Walter Tull
-
-## Walter Tull
-
-[Walter Tull](/20c/20c-tull-biography)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
-
-Walter Tull
+In her 2021 novel, A Sin of Omission, Marguerite Poland highlights the work carried out by Anglican missionaries in 19th century South Africa. During this time, many young men travelled from all over the world to study at Saint Augustine’s Missionary College in Canterbury.
 
 ## Billy Waters
 
 [Billy Waters](/19c/19c-waters-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/ec/Billy_Waters%2C_a_one_legged_busker%2C_in_a_crowded_London_stree_Wellcome_V0007299.jpg)
 
-Billy Waters
+William ‘Billy’ Waters was connected to Chatham Dockyard in Kent in 1811: he is celebrated as part of the Chatham Historic Dockyard permanent Disability Trailblazers trail. Once a famous Black busker in Regency London, born in America in the dying years of the eighteenth-century, Billy Waters has been largely overlooked by history until recent years.
 
-## Albert Makaula White
-
-[Albert Makaula White](/19c/19cc-makaula-white-biography)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_garden_of_england1.jpg)
-
-Albert Makaula White

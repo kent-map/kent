@@ -2,7 +2,7 @@
 <param ve-config title="Albert Makaula White" author="Liam Cohen" layout="vtl" 
 banner="xxx">
 
-<param ve-map center="Q729006" zoom="12">
+<param ve-map center="Q3246334" zoom="12">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="5aa3ce47b380271b" title="Kent Road Map">
@@ -19,7 +19,7 @@ In December 1891, Albert married Eleanor Botting at Wesleyan Methodist Church in
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/Wesleyan_Church_Strood.jpg" label="Wesleyan Church, Strood" attribution="Postcard, Public domain, via Wikimedia Commons">
 
 In 1902, Albert lost his job and the family moved back to Kent. It is there he began farming, even though he had no previous farming experience. All the more impressive because of the agricultural slump of the late 19th century, due to cheap food imports.[^ref6] Albert took over his first farm, Stubble Hill Farm, in Lenham in 1905.[^ref7]  It would have been unusual to have a Black man in a role of authority. However, Albert's familiarity with British way of life aided his family's integration into rural Kent. Jo Beany recalled her Grandfather's account of working for the Makaula-Whites: "Granddad couldn't speak highly enough of the Makaula-White's. Wonderful people, very considerate of their workforce. Always a good supply of tea and soft drinks, much appreciated on those hot summer days."[^ref8]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Theodoor_Verstraete_-_Farming_-_1906-T_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg" label="Farming, 1906" attribution="Théodore Verstraete, Museum of Fine Arts, Ghent, Public domain, via Wikimedia Commons"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Theodoor_Verstraete_-_Farming_-_1906-T_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg" label="Farming, 1906" attribution="Théodore Verstraete, Museum of Fine Arts, Ghent, Public domain, via Wikimedia Commons">
 
 Albert worked as a farm manager through the early 20th century across many different farms in Kent. All of his children maintained their roots in Kent. However, naturally, they moved away to different parts of the county. Charles lived in Faversham. Although Claude moved around the country to pursue a cricket career, in the late 1930s he moved to Maidstone. Irene, however, was a theatrical performer who lived mainly in France. At times, Charles and Claude worked on the farm for their Father. During 1925-1928 Poverest Farm in Orpington was listed as being run by Makaula-White and Sons.[^ref9]
 <br><br>
