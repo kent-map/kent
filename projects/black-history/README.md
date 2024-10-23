@@ -1,4 +1,4 @@
-`ve-header title="Black History" background=gh:kent-map/images/banners/xxx.JPG .sticky`
+`ve-header title="Black History" background=gh:kent-map/images/banners/Dumpton.JPG .sticky`
 
 Reclaiming narratives is a call to action for Black communities across the UK to step into the role of storytellers, historians, and custodians of Black heritage. MA Creative writing student Liam Cohen has been inspired to explore the stories of Black lives in Kent. Read his articles, along with those of other researchers, on key Black figures in Kent's past.
 
