@@ -316,6 +316,15 @@ To accompany the Inspirational Kent Women Writers event held by the Centre for K
 
 To celebrate Dover at Night, Kent Maps Online have written an article about Dover as depicted in literature, where smuggling, assignations and abductions occur along its moonlit shore.
 
+## Black History
+
+[Black History](projects/black-history)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/black_history_month1.jpg)
+
+Black History Month 2024 encourages the Black community to reclaim the narratives of the past. Read these articles to find out more.
+
+
 # Featured Texts
 `.cards`
 
