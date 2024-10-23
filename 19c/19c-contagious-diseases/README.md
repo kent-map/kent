@@ -23,7 +23,7 @@ Chatham’s purpose built Lock hospital was constructed in 1869, and was used to
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d7/RochesterStBarts4245.JPG" label="St Bart's Hospital, Rochester, which contained 30 beds in the lock wing" attribution="Clem Rutter, Rochester Kent, CC BY-SA 3.0, via Wikimedia Commons">
 <param ve-map center="Q729006" zoom="11">
 
-The Act, which had no provision for sanctions against men who used prostitutes, was seen as discriminatory towards women by campaigners such as Josephine Butler and [Sarah Grand](/19c/19c-grand-biography), although Elizabeth Garrett Anderson, the first English female physician agreed with the Act as a means of protecting women and children. The Act was finally repealed in 1886.
+The Act, which had no provision for sanctions against men who used prostitutes, was seen as discriminatory towards women by campaigners such as [Josephine Butler](/19c/19c-butler-biography) and [Sarah Grand](/19c/19c-grand-biography), although Elizabeth Garrett Anderson, the first English female physician agreed with the Act as a means of protecting women and children. The Act was finally repealed in 1886.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Josephine_Butler.jpg" label="Josephine Butler" attribution="George Richmond (1809-1896), Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Portrait_of_Sarah_Grand.jpg" label="Sarah Grand" attribution="Elliott & Fry, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Elizabeth_Garrett_Anderson.jpg" label="Elizabeth Garrett Anderson" attribution="Walery, Public domain, via Wikimedia Commons">

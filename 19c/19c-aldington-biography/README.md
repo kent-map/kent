@@ -16,7 +16,7 @@ Jessie May Aldington, author of ‘Love Letters that caused a Divorce’ and 'Me
 
 By 1881, the family had settled in [Dover](/19c/19c-dover/) at 14, Liverpool St, which was in the St James area of the town. May, as she preferred to be known, lived here until her father retired from the army and took on the license of the Bell and Anchor Inn in Sandwich.
 <br><br>
-When her parents and younger siblings moved to London, May remained with her two aunts, Isabel and Catherine, at the Bell and Anchor,[^ref3] and it was here that she met her future husband Albert Aldington, a [Dover](/19c/19c-dover/) solicitor, whom she married in a 'shotgun wedding' in 1891.[^ref4] The couple had two children, Edward (the poet Richard Aldington) and Margery.
+When her parents and younger siblings moved to London, May remained with her two aunts, Isabel and Catherine, at the Bell and Anchor,[^ref3] and it was here that she met her future husband Albert Aldington, a [Dover](/19c/19c-dover/) solicitor, whom she married in a 'shotgun wedding' in 1891.[^ref4] The couple had two children, Edward - the poet [Richard Aldington](/20c/20c-raldington-biography/) - and Margery.
 <param ve-image url="https://stor.artstor.org/stor/be2d7a73-d2b3-4188-8d40-1a76523fa117" label="Ward Lock Dover">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q26163" aliases="Sandwich">
