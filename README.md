@@ -308,14 +308,6 @@ Sackville-West is perhaps best known today as a gardener, for her unconventional
 
 To accompany the Inspirational Kent Women Writers event held by the Centre for Kent History and Heritage, Kent Maps Online have curated a collection of inspirational Kent women writers as well as some lesser known women writers who have been inspired by Kent.
 
-## Dover at Night
-
-[Dover at Night](projects/dover-at-night)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night.jpg)
-
-To celebrate Dover at Night, Kent Maps Online have written an article about Dover as depicted in literature, where smuggling, assignations and abductions occur along its moonlit shore.
-
 ## Black History
 
 [Black History](projects/black-history)
@@ -324,6 +316,13 @@ To celebrate Dover at Night, Kent Maps Online have written an article about Dove
 
 Black History Month 2024 encourages the Black community to reclaim the narratives of the past. Read these articles to find out more.
 
+## Duke of Edinburgh Project
+
+[Duke of Edinburgh Project](projects/duke-of-edinburgh)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dofe.jpg)
+
+During the Covid pandemic, Kent Maps Online offered remote volunteering and skills training for Duke of Edinburgh participants who may not have been able to complete their awards without access to online opportunities. This space showcases the work completed by our Duke of Edinburgh participants at all levels.
 
 # Featured Texts
 `.cards`
