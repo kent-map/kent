@@ -1,6 +1,6 @@
 `ve-header title="Black History Month" background=gh:kent-map/images/banners/xxx.JPG .sticky`
 
-Reclaiming narratives is a call to action for Black communities across the UK to step into the role of storytellers, historians, and custodians of black heritage. Liam Cohen and xxxx were inspired to explore the stories of black lives in Kent.
+Reclaiming narratives is a call to action for Black communities across the UK to step into the role of storytellers, historians, and custodians of black heritage. MA Creative writing student Liam Cohen has been inspired to explore the stories of black lives in Kent. Read his articles, along with those of other researchers, on key black figures in Kent's past.
 
 
 # &nbsp; 
@@ -12,7 +12,7 @@ Reclaiming narratives is a call to action for Black communities across the UK to
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
 
-Walter Tull
+William Cuffay, tailor and Chartist was born at Brompton near Chatham.
 
 ## A Sin of Omission
 
