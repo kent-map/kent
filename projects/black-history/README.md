@@ -10,7 +10,7 @@ Reclaiming narratives is a call to action for Black communities across the UK to
 
 [William Cuffay](/19c/19c-cuffay-biography)
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/62/ChartistRiot.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/62/ChartistRiot.jpg)
 
 William Cuffay, tailor and Chartist was born at Brompton near Chatham.
 
