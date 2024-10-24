@@ -312,7 +312,7 @@ To accompany the Inspirational Kent Women Writers event held by the Centre for K
 
 [Black History](projects/black-history)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/black_history_month1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/cohen_family.jpg)
 
 Black History Month 2024 encourages the Black community to reclaim the narratives of the past. Read these articles to find out more.
 
