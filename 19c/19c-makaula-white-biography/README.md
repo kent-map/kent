@@ -14,6 +14,8 @@ As the age of nine months, Albert grew seriously ill. His sickness was seen as a
 
 Albert grew up as a Black child amongst White people. He integrated well and is described as speaking perfect English and enjoyed conversing, particularly with adults. He didn't learn his native tongue until he was 16.[^ref3] Most of his youth was spent in South Africa; where he would have witnessed the tribal conflict that took place between the Griquas and the AmaBhaca in 1871, and the impact that this had on the local community. Chief Makaula asked Reverend White to act as an intermediary between the AmaBhaca and the Griquas, but White struggled to broker peace and the mission station became crowded with displaced women and children, who were fleeing the aggression.[^ref4] Whilst Albert was living in Africa, he became a headteacher of a missionary school which had between 200-300 pupils.[^ref]
 
+(https://archive.org/details/christianadventu00tayl/page/388/mode/2up)
+
 In 1888, Makaula-White came to the UK for six months and visited Henry Darney in Kinghorn, Scotland, whose daughter was married to the Colonial Resident Magistrate in Bacaland.[^ref5]
 
 He was in England at the end of the 1880s, but with his mother seriously ill and his father dying in 1888, Albert returned to South Africa in 1890.[^ref4] After the death of his parents, Albert decided to study to become a clergyman at the Richmond Theological College in Surrey. It was whilst he was here that Albert conducted services at Wesleyan Chapels in Thame[^ref5], Banbury[^ref6] and Winchcombe.[^ref6]  However, Albert only attended the college for one year, from October 1890 to October 1891 as he was recalled by the South African Methodist Conference, who were responsible for funding Albert's education. 
