@@ -3,6 +3,7 @@
 banner="xxx">
 
 <param ve-entity eid="Q607701" alias="Harrietsham">
+<param ve-entity eid="51.390784, 0.093409" alias="Poverest Farm">
 
 <param ve-map center="Q3246334" zoom="12">
 
