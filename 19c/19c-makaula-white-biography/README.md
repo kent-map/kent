@@ -5,6 +5,19 @@ banner="xxx">
 <param ve-entity eid="Q607701" alias="Harrietsham">
 <param ve-entity eid="51.390784, 0.093409" alias="Poverest Farm">
 <param ve-entity eid="51.284429, 0.789154" alias="Court Lodge Farm">
+<param ve-entity eid="Q67479626" alias="Kent">
+<param ve-entity eid="Q1808441" alias="Strood">
+<param ve-entity eid="Q736439" alias="Ramsgate">
+<param ve-entity eid="Q9033431" alias="Minster">
+<param ve-entity eid="Q3246334" alias="Lenham">
+<param ve-entity eid="Q5036128" alias="Challock">
+<param ve-entity eid="Q7996443" alias="Whitfield">
+<param ve-entity eid="Q2357887" alias="Doddington">
+<param ve-entity eid="Q2019734" alias="Goudhurst">
+<param ve-entity eid="Q213180" alias="Maidstone">
+<param ve-entity eid="Q123977" alias="Orpington">
+
+
 
 <param ve-map center="Q3246334" zoom="12">
 
