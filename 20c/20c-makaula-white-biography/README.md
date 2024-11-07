@@ -76,56 +76,58 @@ Albert Makaula-White's life was a testament to resilience and determination. Des
 
 ### References
 
-[^ref1]: Taylor, Erica. _Little Known Black History: Albert Makaula._ 5 Jun. 2012. [Web](https://blackamericaweb.com/2012/06/05/little-known-black-history-fact-albert-makaula-2/). 
-[^ref2]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref3]: "Romance of a Brown Baby." _Daily News_,  Monday 23 January 1928.
-[^ref4]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.
-[^ref5]: "Letter from the Rev. Charles White, dated Osborn, September 30th, 1871." _The Missionary Notices_, no. CCVIIand39, 1 Mar. 1872, pp. 38+. _Nineteenth Century UK Periodicals_, link.gale.com/apps/doc/CC1903165422/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=01bffcec. Accessed 29 Oct. 2024.
-[^ref6]: ibid.
-[^ref7]: "Kirkcaldy." _Dundee Courier_, 7 Sept. 1888, p. 2. British Library Newspapers, link.gale.com/apps/doc/R3208277708/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=251cd2e4. Accessed 29 Oct. 2024.
-[^ref8]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.
-Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
-[^ref9]: "Thame." Bucks Herald (Aylesbury, England) [British Library Newspapers], 21 Feb. 1891, p. 7. British Library Newspapers, link.gale.com/apps/doc/IG3220353267/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=d84ab576. Accessed 29 Oct. 2024.
-[^ref10]: _South Eastern Advertiser_, Saturday 26 September 1891; "Banbury." Northampton Mercury, 30 Jan. 1891, p. 8. _British Library Newspapers_, link.gale.com/apps/doc/GW3216703339/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=85a45125. Accessed 29 Oct. 2024.
-[^ref11]: _Richmond Herald_, Friday 05 June 1891; 1891 Census.
-[^ref12]: Kent Archives. “Albert Makaula-White post.” https://www.facebook.com/KentArchives/posts/2227854737324649/. 
-[^ref13]:  Office for National Statistics. Population size: 7.9% from a minority ethnic group. 13 Feb. 2003. https://www.ons.gov.uk/ 
-[^ref14]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
-[^ref15]: ibid.
-[^ref16]: "A Hundred Sons and Daughters." _Sheffield Daily Telegraph_Thursday 03 January 1907.
-[^ref17]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.
-[^ref18]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref19]: _Hartlepool Northern Daily Mail_, Saturday 10 February 1912
-[^ref20]: _East Kent Times and Mail_ 20 Nov 1946.
-[^ref21]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937_. Savannah Press. 2012. 
-[^ref22]: "A Circuit Gathering." _East Kent Times and Mail_, Wednesday 10 June 1914.
-Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref23]: "Native Speakers." _East Kent Times and Mail_, Wednesday 16 September 1914.
-[^ref24]: _Kentish Express_ - Saturday 16 June 1923.
-[^ref25]: Bulaitis, John. _The Tithe War in England and Wales, 1881-1936_, Boydell Press,  82.
-[^ref26]: Rev Kedward cited by Bulaitis, John. _The Tithe War in England and Wales, 1881-1936_, Boydell Press,  xvi. 
-[^ref27]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.
-[^ref28]: "The Ramsgate Brotherhood P.S.A." _East Kent Times and Mail_, Wednesday 25 August 1920.
-[^ref29]:  _East Kent Times and Mail_, Wednesday 28 September 1921.
-[^ref30]: "Ramsgate Plucky Girl." _Thanet Advertiser_ Saturday 16 July 1921.
-[^ref31]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
-[^ref32]: "Ashford Police Court." _Kentish Express_ Saturday 16 June 1923.
-[^ref33]: _Badlesmere Kentish Express_ Saturday 25 October 1924.
-[^ref34]: "Beech Court." _Kent Messenger & Gravesend Telegraph_, Saturday 18 October 1924.
-[^ref35]: "Preliminary List of Items." _Kent Messenger & Gravesend Telegraph_ Saturday 11 October 1924.
-[^ref36]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref37]: U2791/T3, Kent History and Library Centre.
-[^ref38]: "Pigs and Plants and Colour." _Streatham News_, Friday 23 December 1927
-[^ref39]: Staveley-Wadham, Rose. “A Look at the History of Britain’s Extreme Winter Weather.” Headlines in History. _The British Newspaper Archive Blog_. https://blog.britishnewspaperarchive.co.uk/2020/12/04/history-of-britains-extreme-winter-weather/. 4 Dec. 2020. 
-[^ref40]:  Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
-[^ref41]: Sherwood, Marika. The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937. Savannah Press. 2012. 
-[^ref42]:  _Bromley & West Kent Mercury_, Friday 20 January 1928.
-[^ref43]: [The National Archives. Currency Converter : 1270-2017](https://www.nationalarchives.gov.uk/currency-converter/#currency-result) 
-[^ref44]: _Sheerness Guardian and East Kent Advertiser_, Saturday 14 May 1932; _Sheerness Times Guardian_, Thursday 07 December 1933.
-[^ref45]: _The People_, Sunday 15 September 1935.
-[^ref46]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.
-[^ref47]: "Agricultural Tour Steady Progress." _Blackshirt_ Fri 25 May 1934, Page 4
-[^ref48]: "Death at Kent Home, of First Zulu to Become Freemason." _Kent Messenger_ 1937.
-[^ref49]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
-[^ref50]: ibid.
-[^ref51]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.
+[^ref1]: Taylor, Erica. _Little Known Black History: Albert Makaula._ 5 Jun. 2012. [Web](https://blackamericaweb.com/2012/06/05/little-known-black-history-fact-albert-makaula-2/).    
+[^ref2]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012.    
+[^ref3]: "Romance of a Brown Baby." _Daily News_,  Monday 23 January 1928.   
+[^ref4]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.   
+[^ref5]: "Letter from the Rev. Charles White, dated Osborn, September 30th, 1871." _The Missionary Notices_, no. CCVIIand39, 1 Mar. 1872, pp. 38+. _Nineteenth Century UK Periodicals_, link.gale.com/apps/doc/CC1903165422/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=01bffcec. Accessed 29 Oct. 2024.   
+[^ref6]: ibid.   
+[^ref7]: "Kirkcaldy." _Dundee Courier_, 7 Sept. 1888, p. 2. British Library Newspapers, link.gale.com/apps/doc/R3208277708/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=251cd2e4. Accessed 29 Oct. 2024.   
+[^ref8]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.   
+Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024.  
+https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/    
+[^ref9]: "Thame." Bucks Herald (Aylesbury, England) _British Library Newspapers_, 21 Feb. 1891, p. 7. British Library Newspapers, link.gale.com/apps/doc/IG3220353267/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=d84ab576. Accessed 29 Oct. 2024.   
+[^ref10]: _South Eastern Advertiser_, Saturday 26 September 1891; "Banbury." Northampton Mercury, 30 Jan. 1891, p. 8. _British Library Newspapers_, link.gale.com/apps/doc/GW3216703339/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=85a45125. Accessed 29 Oct. 2024.   
+[^ref11]: _Richmond Herald_, Friday 05 June 1891; 1891 Census.   
+[^ref12]: Kent Archives. “Albert Makaula-White post.” https://www.facebook.com/KentArchives/posts/2227854737324649/.    
+[^ref13]:  Office for National Statistics. Population size: 7.9% from a minority ethnic group. 13 Feb. 2003.  https://www.ons.gov.uk/    
+[^ref14]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024.  
+https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/    
+[^ref15]: ibid.   
+[^ref16]: "A Hundred Sons and Daughters." _Sheffield Daily Telegraph_Thursday 03 January 1907.   
+[^ref17]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.   
+[^ref18]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012.    
+[^ref19]: _Hartlepool Northern Daily Mail_, Saturday 10 February 1912.   
+[^ref20]: _East Kent Times and Mail_ 20 Nov 1946.   
+[^ref21]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937_. Savannah Press. 2012.    
+[^ref22]: "A Circuit Gathering." _East Kent Times and Mail_, Wednesday 10 June 1914.   
+Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012.  
+[^ref23]: "Native Speakers." _East Kent Times and Mail_, Wednesday 16 September 1914.   
+[^ref24]: _Kentish Express_ - Saturday 16 June 1923.   
+[^ref25]: Bulaitis, John. _The Tithe War in England and Wales, 1881-1936_, Boydell Press,  82.   
+[^ref26]: Rev Kedward cited by Bulaitis, John. _The Tithe War in England and Wales, 1881-1936_, Boydell Press,  xvi.    
+[^ref27]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.   
+[^ref28]: "The Ramsgate Brotherhood P.S.A." _East Kent Times and Mail_, Wednesday 25 August 1920.   
+[^ref29]:  _East Kent Times and Mail_, Wednesday 28 September 1921.   
+[^ref30]: "Ramsgate Plucky Girl." _Thanet Advertiser_ Saturday 16 July 1921.   
+[^ref31]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024.    
+[^ref32]: "Ashford Police Court." _Kentish Express_ Saturday 16 June 1923.   
+[^ref33]: _Badlesmere Kentish Express_ Saturday 25 October 1924.   
+[^ref34]: "Beech Court." _Kent Messenger & Gravesend Telegraph_, Saturday 18 October 1924.   
+[^ref35]: "Preliminary List of Items." _Kent Messenger & Gravesend Telegraph_ Saturday 11 October 1924.   
+[^ref36]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012.    
+[^ref37]: U2791/T3, Kent History and Library Centre.   
+[^ref38]: "Pigs and Plants and Colour." _Streatham News_, Friday 23 December 1927.   
+[^ref39]: Staveley-Wadham, Rose. “A Look at the History of Britain’s Extreme Winter Weather.” Headlines in History. _The British Newspaper Archive Blog_. https://blog.britishnewspaperarchive.co.uk/2020/12/04/history-of-britains-extreme-winter-weather/. 4 Dec. 2020.    
+[^ref40]:  Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024.    
+[^ref41]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012.    
+[^ref42]:  _Bromley & West Kent Mercury_, Friday 20 January 1928.   
+[^ref43]: [The National Archives. Currency Converter : 1270-2017](https://www.nationalarchives.gov.uk/currency-converter/#currency-result)    
+[^ref44]: _Sheerness Guardian and East Kent Advertiser_, Saturday 14 May 1932; _Sheerness Times Guardian_, Thursday 07 December 1933.   
+[^ref45]: _The People_, Sunday 15 September 1935.   
+[^ref46]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.   
+[^ref47]: "Agricultural Tour Steady Progress." _Blackshirt_ Fri 25 May 1934, Page 4.   
+[^ref48]: "Death at Kent Home, of First Zulu to Become Freemason." _Kent Messenger_ 1937.   
+[^ref49]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024.    
+[^ref50]: ibid.   
+[^ref51]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.   
