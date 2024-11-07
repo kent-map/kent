@@ -3,7 +3,6 @@
 banner="xxx">
 
 <param ve-entity eid="Q607701" alias="Harrietsham">
-<param ve-entity eid="51.390784, 0.093409" alias="Poverest Farm">
 <param ve-entity eid="51.284429, 0.789154" alias="Court Lodge Farm">
 <param ve-entity eid="Q67479626" alias="Kent">
 <param ve-entity eid="Q1808441" alias="Strood">
@@ -54,6 +53,7 @@ Albert worked as a farm manager through the early 20th century across many diffe
 <br><br>
 The winter of 1927 into 1928 was extremely cold and snowy.[^ref10] Many roads and paths had to be dug out so that people could access the outer world after being snowed in. The extreme weather would have a costly effect on Albert. In January 1928, the RSPCA took him to court for neglecting the pigs on his farm.[^ref11] Albert declared to the court that he sold all of the pigs in question to Commander Egleton around Christmas. The pair came to a gentleman's agreement that Albert would house the pigs until Egleton would collect them in January. In the meantime, Egleton's farm manager was to feed the pigs. However, he claimed there was a miscommunication, and he believed Albert was also meant to feed the pigs part of the time.[^ref12] Both parties were fined. Albert was fined £10, approximately £460 (as of 2017).[^ref13] This gained unwanted public attention. The Makaula-White's lived at two different farms in 1928, until they moved to Court Lodge in Doddington in 1929. At Court Lodge, they strictly only dealt with wheat, barley, oats, and beans. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ordnance_Survey_Half-inch_Sheet_40_Chatham_Margate_%26_Hastings%2C_Published_1927.jpg" label="Kent 1927" attribution="Director General of the Ordnance Survey, UK, Public domain, via Wikimedia Commons">
+<param ve-map center="51.390784, 0.093409" alias="Poverest Farm" zoom="15">
 
 As Albert aged, his financial issues grew, and his mental health declined. He remained working in the agricultural industry until his death on 13th September 1937 at the The Haven, Goudhurst, aged 72, . He had been living in Goudhurst for about three months before his death. He was buried at Lenham where a wreath from the British Coloured People's League was laid at his funeral.[^ref14] After her husband's death, Eleanor lived with Claude in Maidstone until she died in 1944. 
 <br><br>
@@ -63,19 +63,19 @@ Albert Makaula-White's life was a testament to resilience and determination. Des
 
 ### References
 
-[^ref1]: Taylor, Erica. Little Known Black History: Albert Makaula. 5 Jun. 2012. https://blackamericaweb.com/2012/06/05/little-known-black-history-fact-albert-makaula-2/ 
-[^ref2]: Sherwood, Marika. The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937. Savannah Press. 2012. 
+[^ref1]: Taylor, Erica. _Little Known Black History: Albert Makaula._ 5 Jun. 2012. https://blackamericaweb.com/2012/06/05/little-known-black-history-fact-albert-makaula-2/ 
+[^ref2]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
 [^ref3]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.
 [^ref3]: "Letter from the Rev. Charles White, dated Osborn, September 30th, 1871." The Missionary Notices, no. CCVIIand39, 1 Mar. 1872, pp. 38+. Nineteenth Century UK Periodicals, link.gale.com/apps/doc/CC1903165422/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=01bffcec. Accessed 29 Oct. 2024.
 [^ref5]: "Kirkcaldy." _Dundee Courier_, 7 Sept. 1888, p. 2. British Library Newspapers, link.gale.com/apps/doc/R3208277708/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=251cd2e4. Accessed 29 Oct. 2024.
-[^ref4]: Old Ebor. The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula. 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
+[^ref4]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
 [^ref5]: "Thame." Bucks Herald (Aylesbury, England) [British Library Newspapers], 21 Feb. 1891, p. 7. British Library Newspapers, link.gale.com/apps/doc/IG3220353267/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=d84ab576. Accessed 29 Oct. 2024.
 [^ref6]:"Banbury." Northampton Mercury, 30 Jan. 1891, p. 8. British Library Newspapers, link.gale.com/apps/doc/GW3216703339/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=85a45125. Accessed 29 Oct. 2024.
 
 [^ref6]: Kent Archives. “Albert Makaula-White post.” https://www.facebook.com/KentArchives/posts/2227854737324649/. 
 [^ref7]: Office for National Statistics. Population size: 7.9% from a minority ethnic group. 13 Feb. 2003. https://www.ons.gov.uk/ 
-[^ref8]: Basford, Hazel and McIntosh, K.H. East Kent Gazetter in the Great War 1914-1918. Parker Digital Press. ISBN: 9780954478957. 2008. 
- Hartlepool Northern Daily Mail, Saturday 10 February 1912
+[^ref8]: Basford, Hazel and McIntosh, K.H. _East Kent Gazette in the Great War 1914-1918._ Parker Digital Press. ISBN: 9780954478957. 2008. 
+ _Hartlepool Northern Daily Mail_, Saturday 10 February 1912
 [^ref9]: "A Circuit Gathering." _East Kent Times and Mail_, Wednesday 10 June 1914.
 [^ref9]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.
 [^ref10]: "The Ramsgate Brotherhood P.S.A." _East Kent Times and Mail_, Wednesday 25 August 1920.
