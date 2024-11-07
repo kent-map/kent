@@ -122,7 +122,7 @@ Theodore, Dylan
 [^ref38]: "Pigs and Plants and Colour." _Streatham News_, Friday 23 December 1927
 [^ref39]: Staveley-Wadham, Rose. “A Look at the History of Britain’s Extreme Winter Weather.” Headlines in History. _The British Newspaper Archive Blog_. https://blog.britishnewspaperarchive.co.uk/2020/12/04/history-of-britains-extreme-winter-weather/. 4 Dec. 2020. 
 [^ref40]:  Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
-[^ref41]:
+[^ref41]: Sherwood, Marika. The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937. Savannah Press. 2012. 
 [^ref42]:  _Bromley & West Kent Mercury_, Friday 20 January 1928.
 [^ref43]: [The National Archives. Currency Converter : 1270-2017](https://www.nationalarchives.gov.uk/currency-converter/#currency-result) 
 [^ref44]: _Sheerness Guardian and East Kent Advertiser_, Saturday 14 May 1932; _Sheerness Times Guardian_, Thursday 07 December 1933.
