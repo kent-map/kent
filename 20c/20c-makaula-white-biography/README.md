@@ -93,7 +93,7 @@ Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb
 [^ref15]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
 {^ref16]: 
 [^ref16]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.
-[^ref17]: "The Ramsgate Brotherhood P.S.A." _East Kent Times and Mail_, Wednesday 25 August 1920.
+[^ref17]: 
 [^ref18]:  Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
 [^ref19]: "Native Speakers." _East Kent Times and Mail_, Wednesday 16 September 1914.
 [^ref19]: _Hartlepool Northern Daily Mail_, Saturday 10 February 1912
@@ -110,7 +110,7 @@ Theodore, Dylan
 [^ref25]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
 [^ref26]: Rev Kedward cited by Bulaitis, xvi. 
 [^ref27]: 
-[^ref28]:
+[^ref28]: "The Ramsgate Brotherhood P.S.A." _East Kent Times and Mail_, Wednesday 25 August 1920.
 [^ref29]:  _East Kent Times and Mail_, Wednesday 28 September 1921.
 [^ref30]:
 [^ref31]:
@@ -121,7 +121,7 @@ Theodore, Dylan
 [^ref36]:
 [^ref37]: U2791/T3, Kent History and Library Centre.
 [^ref38]: "Pigs and Plants and Colour." _Streatham News_, Friday 23 December 1927
-[^ref39]:
+[^ref39]:  Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
 [^ref40]:
 [^ref41]:
 [^ref42]:  _Bromley & West Kent Mercury_, Friday 20 January 1928.
