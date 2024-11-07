@@ -87,9 +87,8 @@ Albert Makaula-White's life was a testament to resilience and determination. Des
 [^ref10]: _South Eastern Advertiser_, Saturday 26 September 1891; "Banbury." Northampton Mercury, 30 Jan. 1891, p. 8. _British Library Newspapers_, link.gale.com/apps/doc/GW3216703339/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=85a45125. Accessed 29 Oct. 2024.   
 [^ref11]: _Richmond Herald_, Friday 05 June 1891; 1891 Census.   
 [^ref12]: Kent Archives. “Albert Makaula-White post.” https://www.facebook.com/KentArchives/posts/2227854737324649/.    
-[^ref13]:  Office for National Statistics. Population size: 7.9% from a minority ethnic group. 13 Feb. 2003.  https://www.ons.gov.uk/    
-[^ref14]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024.  
-https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/    
+[^ref13]:  [Office for National Statistics](https://www.ons.gov.uk/). Population size: 7.9% from a minority ethnic group. 13 Feb. 2003.    
+[^ref14]: Old Ebor. [_The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._](https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/) 6 Feb. 2024.   
 [^ref15]: ibid.   
 [^ref16]: "A Hundred Sons and Daughters." _Sheffield Daily Telegraph_Thursday 03 January 1907.   
 [^ref17]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.   
