@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Albert Makaula White" author="Liam Cohen" layout="vtl" 
-banner="xxx">
+banner="https://upload.wikimedia.org/wikipedia/commons/0/07/Ploughing._754_%28NBY_419452%29.jpg">
 
 <param ve-entity eid="Q607701" alias="Harrietsham">
 <param ve-entity eid="Q67479626" alias="Kent">
@@ -14,8 +14,6 @@ banner="xxx">
 <param ve-entity eid="Q2019734" alias="Goudhurst">
 <param ve-entity eid="Q213180" alias="Maidstone">
 <param ve-entity eid="Q123977" alias="Orpington">
-
-<param ve-map center="Q67479626" zoom="12">
 
 #
 
@@ -46,6 +44,7 @@ By 1913, the Makaula-Whites were living at Rose Lawn, Minster, Ramsgate, a semi-
 It was whilst he was living at Minster that Albert became a member of the Minster Primitive Methodist Circuit, presiding over the circuit meeting in June 1914.[^ref22]. The Primitive Methodists differed from the Wesleyan Methodists in that they allowed lay participation in the church. Later that year, Albert invited fellow African Dr Rubusana, who had been visiting England to interview the Colonial Secretary over the land question, to speak at a Brotherhood meeting in Minster, where they sung a duet in their native language.[^ref23] 
 <br><br>
 During 1916-17, Makaula White contributed entertainment to concerts raising money for wounded soldiers and allowed the wounded soldiers to use his tennis court.[^ref24] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fa/%27Ramsgate%27_by_J._Buxton_Knight.jpg" label="Ramsgate" attribution="J. Buxton Knight, Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
 The post-war period was a difficult time for farmers. Canterbury cathedral's tithe agent, noting a problem with non-payment in the Minster area, wrote to farmers threatening to serve a county court notice on them.[^ref25]  An agricultural depression had seen wheat prices plummet and among non-conformist communities such as the Methodists, the payment of tithes to the Church of England seemed like an "unjust tax on agrictulture".[^ref26] It is not known how much these events affected Albert and his family but they reveal how difficult it was to be a farmer at this period.
 <br><br>
@@ -84,8 +83,6 @@ Albert Makaula-White's life was a testament to resilience and determination. Des
 [^ref6]: ibid.   
 [^ref7]: "Kirkcaldy." _Dundee Courier_, 7 Sept. 1888, p. 2. British Library Newspapers, link.gale.com/apps/doc/R3208277708/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=251cd2e4. Accessed 29 Oct. 2024.   
 [^ref8]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.   
-Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024.  
-https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/    
 [^ref9]: "Thame." Bucks Herald (Aylesbury, England) _British Library Newspapers_, 21 Feb. 1891, p. 7. British Library Newspapers, link.gale.com/apps/doc/IG3220353267/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=d84ab576. Accessed 29 Oct. 2024.   
 [^ref10]: _South Eastern Advertiser_, Saturday 26 September 1891; "Banbury." Northampton Mercury, 30 Jan. 1891, p. 8. _British Library Newspapers_, link.gale.com/apps/doc/GW3216703339/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=85a45125. Accessed 29 Oct. 2024.   
 [^ref11]: _Richmond Herald_, Friday 05 June 1891; 1891 Census.   
