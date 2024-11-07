@@ -15,8 +15,6 @@ banner="xxx">
 <param ve-entity eid="Q213180" alias="Maidstone">
 <param ve-entity eid="Q123977" alias="Orpington">
 
-<param ve-map center="Q67479626" zoom="12">
-
 #
 
 Albert Makaula, the son of a Bhaca Chief, was born in the Eastern Cape in 1865.[^ref1] Although he started life in South Africa, he later settled in Kent where he became a farmer. 
@@ -46,6 +44,7 @@ By 1913, the Makaula-Whites were living at Rose Lawn, Minster, Ramsgate, a semi-
 It was whilst he was living at Minster that Albert became a member of the Minster Primitive Methodist Circuit, presiding over the circuit meeting in June 1914.[^ref22]. The Primitive Methodists differed from the Wesleyan Methodists in that they allowed lay participation in the church. Later that year, Albert invited fellow African Dr Rubusana, who had been visiting England to interview the Colonial Secretary over the land question, to speak at a Brotherhood meeting in Minster, where they sung a duet in their native language.[^ref23] 
 <br><br>
 During 1916-17, Makaula White contributed entertainment to concerts raising money for wounded soldiers and allowed the wounded soldiers to use his tennis court.[^ref24] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fa/%27Ramsgate%27_by_J._Buxton_Knight.jpg" label="Ramsgate" attribution="J. Buxton Knight, Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
 The post-war period was a difficult time for farmers. Canterbury cathedral's tithe agent, noting a problem with non-payment in the Minster area, wrote to farmers threatening to serve a county court notice on them.[^ref25]  An agricultural depression had seen wheat prices plummet and among non-conformist communities such as the Methodists, the payment of tithes to the Church of England seemed like an "unjust tax on agrictulture".[^ref26] It is not known how much these events affected Albert and his family but they reveal how difficult it was to be a farmer at this period.
 <br><br>
