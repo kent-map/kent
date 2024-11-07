@@ -15,8 +15,6 @@ banner="xxx">
 <param ve-entity eid="Q213180" alias="Maidstone">
 <param ve-entity eid="Q123977" alias="Orpington">
 
-
-
 <param ve-map center="Q67479626" zoom="12">
 
 #
@@ -50,9 +48,9 @@ It was whilst he was living at Minster that Albert became a member of the Minste
 During 1916-17, Makaula White contributed entertainment to concerts raising money for wounded soldiers and allowed the wounded soldiers to use his tennis court. [Kentish Express - Saturday 16 June 1923] It was around this time that Albert joined the freemasons and is reputed to be Britain's first Black freemason [^ref9] as a member of Lewises Lodge, Ramsgate. In 1921, he was living with his family at 61, Ellington Road, Ramsgate.
 <param ve-map center="Q67479626" zoom="12">
 
-The post-war period was a difficult time for farmers. Canterbury cathedral's tithe agent, noting a problem with non-payment in the Minster area, wrote to farmers threatening to serve a county court notice on them.[Bulaitis 82] An agricultural depression had seen wheat prices plummet (Bulaitis 117) and among non-conformist communities such as the Methodists, the payment of tithes to the Church of England seemed like an "unjust tax on agrictulture". (Rev Kedward cited by xvi Bulaitis). It is not known how much this affected Albert and his family, but by June 1924, the Makaula Whites had moved to a farm at Beech Court, Challock. In October 1924, the sale of live and dead farming stock and effects of Beech Court Farm, Challock were sold for A. Makaula-White Esq.[^ref11]
+The post-war period was a difficult time for farmers. Canterbury cathedral's tithe agent, noting a problem with non-payment in the Minster area, wrote to farmers threatening to serve a county court notice on them.[Bulaitis 82] An agricultural depression had seen wheat prices plummet (Bulaitis 117) and among non-conformist communities such as the Methodists, the payment of tithes to the Church of England seemed like an "unjust tax on agrictulture". (Rev Kedward cited by xvi Bulaitis). It is not known how much this affected Albert and his family, but by June 1924, the Makaula Whites were living at Beech Court, Challock. The sale by auction of live and dead farming stock and the effects of Beech Court Farm, Challock in October 1924 reveal that the family did not stay here long.[^ref11]
 
-During 1925-1928, Poverest Farm in St Mary Cray, near Orpington was run by Makaula-White and Sons.[^ref9] Life at St Mary Cray was not without its challenges. In December 1927, Albert was taken to court after a neighbour accused Albert of letting his pigs eat his garden plants. The reporting of the court case reveals racial tensions as the complainant suggests that the act was deliberate and Albert replies that he believes that it is a "prejudice against colour".[^ref10]
+During the period 1925-1928, Poverest Farm in St Mary Cray was run by Makaula-White and Sons.[^ref9] The Farm consisted of 2 cottages and 153 acres. [U2791/T3 Kent History and Library Centre] Life at St Mary Cray was not without its challenges. In December 1927, Albert was taken to court after a neighbour accused Albert of letting his pigs eat his garden plants. The reporting of the court case reveals racial tensions as the complainant suggests that the act was deliberate and Albert replies that he believes that it is a "prejudice against colour".[^ref10]
 <br><br>
 The winter of 1927 into 1928 was extremely cold and snowy.[^ref10] Many roads and paths had to be dug out so that people could access the outer world after being snowed in. The extreme weather would have a costly effect on Albert. In January 1928, the RSPCA took him to court for neglecting the pigs on his farm.[^ref11] Albert declared to the court that he sold all of the pigs in question to Commander Egleton around Christmas. The pair came to a gentleman's agreement that Albert would house the pigs until Egleton would collect them in January. In the meantime, Egleton's farm manager was to feed the pigs. However, he claimed there was a miscommunication, and he believed Albert was also meant to feed the pigs part of the time.[^ref12] Both parties were fined. Albert was fined £10, approximately £460 (as of 2017).[^ref13] This gained unwanted public attention. 
 <br><br>
@@ -65,7 +63,7 @@ As Albert aged, his financial issues grew, and his mental health declined. He re
 
 Albert worked as a farm manager through the early 20th century across many different farms in Kent and Bistock. All of his children maintained their roots in Kent. However, naturally, they moved away to different parts of the county. Charles lived at Great Napchester Farm, Whitfield. Although Claude moved around the country to pursue a cricket career, in the late 1930s he moved to Maidstone. Princess Irene, however, was a theatrical performer who lived mainly in France. At times, Charles and Claude worked on the farm for their Father. 
 <br><br>
-Albert Makaula-White's life was a testament to resilience and determination. Despite his uncertain beginning, he rose above his challenges to achieve great things. A proud Christian and successful businessman, he not only integrated himself into a world where he began at a disadvantage but also earned the respect of his peers. Albert showed he was best placed in remote villages, whether in the scorching sun of South Africa or the snowy streets of Kent.  
+Albert Makaula-White's life was a testament to resilience and determination. Despite his uncertain beginning, he rose above his challenges, whether in the scorching sun of South Africa or the snowy streets of Kent.  
 <param ve-map center="Q67479626" zoom="12">
 
 
