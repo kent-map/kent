@@ -86,14 +86,13 @@ Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb
 [^ref9]: "Thame." Bucks Herald (Aylesbury, England) [British Library Newspapers], 21 Feb. 1891, p. 7. British Library Newspapers, link.gale.com/apps/doc/IG3220353267/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=d84ab576. Accessed 29 Oct. 2024.
 [^ref10]:"Banbury." Northampton Mercury, 30 Jan. 1891, p. 8. British Library Newspapers, link.gale.com/apps/doc/GW3216703339/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=85a45125. Accessed 29 Oct. 2024.
 [^ref11]: 1891 Census.
-[^ref10]: Kent Archives. “Albert Makaula-White post.” https://www.facebook.com/KentArchives/posts/2227854737324649/. 
-[^ref12]: Basford, Hazel and McIntosh, K.H. _East Kent Gazette in the Great War 1914-1918._ Parker Digital Press. ISBN: 9780954478957. 2008. 
+[^ref12]: Kent Archives. “Albert Makaula-White post.” https://www.facebook.com/KentArchives/posts/2227854737324649/. 
 [^ref13]:  Office for National Statistics. Population size: 7.9% from a minority ethnic group. 13 Feb. 2003. https://www.ons.gov.uk/ 
 [^ref14]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
 [^ref15]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
 {^ref16]: 
 [^ref16]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.
-[^ref17]: 
+[^ref17]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
 [^ref18]:  Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
 [^ref19]: "Native Speakers." _East Kent Times and Mail_, Wednesday 16 September 1914.
 [^ref19]: _Hartlepool Northern Daily Mail_, Saturday 10 February 1912
@@ -102,7 +101,7 @@ Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb
 [^ref21]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937_. Savannah Press. 2012. 
 [^ref22]: "A Circuit Gathering." _East Kent Times and Mail_, Wednesday 10 June 1914.
 Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref23]: Staveley-Wadham, Rose. “A Look at the History of Britain’s Extreme Winter Weather.” Headlines in History. _The British Newspaper Archive Blog_. https://blog.britishnewspaperarchive.co.uk/2020/12/04/history-of-britains-extreme-winter-weather/. 4 Dec. 2020. 
+[^ref23]: 
 Theodore, Dylan 
 [^ref24]: _Kentish Express_ - Saturday 16 June 1923.
 [^ref24]: Old Ebor. The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula. 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
@@ -118,11 +117,11 @@ Theodore, Dylan
 [^ref33]: _Badlesmere Kentish Express_ Saturday 25 October 1924.
 [^ref34]:
 [^ref35]: "Beech Court." _Kent Messenger & Gravesend Telegraph_, Saturday 18 October 1924.
-[^ref36]:
+[^ref36]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
 [^ref37]: U2791/T3, Kent History and Library Centre.
 [^ref38]: "Pigs and Plants and Colour." _Streatham News_, Friday 23 December 1927
-[^ref39]:  Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
-[^ref40]:
+[^ref39]: Staveley-Wadham, Rose. “A Look at the History of Britain’s Extreme Winter Weather.” Headlines in History. _The British Newspaper Archive Blog_. https://blog.britishnewspaperarchive.co.uk/2020/12/04/history-of-britains-extreme-winter-weather/. 4 Dec. 2020. 
+[^ref40]:  Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
 [^ref41]:
 [^ref42]:  _Bromley & West Kent Mercury_, Friday 20 January 1928.
 [^ref43]: [The National Archives. Currency Converter : 1270-2017](https://www.nationalarchives.gov.uk/currency-converter/#currency-result) 
