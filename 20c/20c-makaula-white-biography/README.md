@@ -24,11 +24,11 @@ Albert Makaula, the son of a Bhaca Chief, was born in the Eastern Cape in 1865.[
 As the age of nine months, Albert grew seriously ill. His sickness was seen as a bad omen among the Bhaca people who feared that a great calamity would befall the tribe. Chief Makaula and Albert's mother, Mamagayiyana (The Great Wife) tried everything to cure Albert.[^ref2] Growing desperate, Albert's mother walked 20 miles to the mission station at Tshungwana (Osborn) carrying Albert on her back, whilst Chief Makaula followed on horseback. Here they asked the English missionary, Reverend Charles White to help save their son, saying: "Here is a thing that I have brought you; if it lives it is yours, if it dies, bury it."[^ref3] Charles and Martha White, who had no children of their own, agreed to look after Albert and he recovered. The Whites adopted Albert, who was the Chief's second son, and he added White to his name, making him Albert Makaula-White. He lived with the Whites for 15 years.
 <param ve-map center="Q67479626" zoom="12">
 
-Albert grew up as a Black child amongst White people. He integrated well and is described as speaking perfect English and enjoyed conversing, particularly with adults, although he didn't learn his native tongue until he was 16.[^ref4] Most of his youth was spent in South Africa; where he would have witnessed the tribal conflict that took place and the impact that this had on the local community. In 1871, Chief Makaula asked Reverend White to act as an intermediary between the AmaBhaca and the warring Griquas, but White struggled to broker peace and the mission station became crowded with displaced women and children fleeing the aggression.[^ref5] Whilst Albert was living in Africa, he taught at a missionary school which had over 200 pupils.[^ref6]
+Albert grew up as a Black child amongst White people. He integrated well and is described as speaking perfect English and enjoyed conversing, particularly with adults, although he didn't learn his native tongue until he was 16.[^ref4] Most of his youth was spent in South Africa; where he would have witnessed the tribal conflict that took place and the impact that this had on the local community.[^ref5] In 1871, Chief Makaula asked Reverend White to act as an intermediary between the AmaBhaca and the warring Griquas, but White struggled to broker peace and the mission station became crowded with displaced women and children fleeing the aggression.[^ref6]
 <br><br>
 In 1888, Makaula-White came to the UK and visited Henry Darney, father in law of the Colonial Resident Magistrate in Bacaland, at his home in Kinghorn, Scotland.[^ref7] It was in this year that Reverend Charles White died, with Martha dying two years later.[^ref8]
 
-After the death of his adoptive parents, Albert trained to become a clergyman at the Richmond Theological College in Surrey. It was whilst he was here that he conducted services at Wesleyan Chapels in Thame[^ref9], Banbury[^ref10] and Winchcombe.[^ref11] 
+After the death of his adoptive parents, Albert trained to become a clergyman at the Richmond Theological College in Surrey. It was whilst he was here that he conducted services at Wesleyan Chapels in Thame[^ref9], Hastings, Banbury[^ref10], Sandycombe and Winchcombe.[^ref11] 
 <br><br>
 After leaving the college, Albert married Eleanor Botting at Wesleyan Methodist Church in Strood in December 1891.[^ref12] Eleanor was a local dressmaker and the daughter of a carpenter. Interracial relationships in the late 19th century and in the early 20th century became more regular, but no means common. Eleanor's parents did attend the wedding. However, many people in interracial relationships and/or mixed-race people were met with disapproval and often faced similar or worse discrimination than Black people. This can be demonstrated by the fact that mixed ethnicity only became an option in the 2001 Census, 110 years after Albert and Eleanor's marriage.[^ref13] Before this, mixed-race people were called Negros or Coloured (these were considered the polite terms). 
 <br><br>
@@ -41,7 +41,7 @@ In 1904, the Makaula-Whites moved to Kent. It is here that Albert began farming 
 Although committed to his new life of farming, Albert retained his links with the Methodist Community, giving talks about his life and the missionary work in South Africa. In 1912, he gave a talk at the Burbank Church of the West Hartlepool Circuit of the United Methodist Churches on the introduction of the gospel to the Amabaca, and sang a song in the Kaffir language.[^ref19] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Theodoor_Verstraete_-_Farming_-_1906-T_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg" label="Farming, 1906" attribution="Théodore Verstraete, Museum of Fine Arts, Ghent, Public domain, via Wikimedia Commons">
 
-By 1913, the Makaula-Whites were living at Rose Lawn, Minster, Ramsgate, a semi-detached property with about two acres and an orchard with vineries.[^ref20] The main crops in this area were wheat, barley, oats, hops and potatoes, with some fruit growing for the London market. In 1913, Albert advertised in the _Kent Messenger_ for "40 bushels of soot".[^ref21] The soil around Minster was loam, so soot was used by farmers to darken the soil so that it absorbed more heat from the sun. As a result the higher temperature of the soil would help bring the season forward a little.
+By 1913, the Makaula-Whites were living at Rose Lawn, Minster, Ramsgate, a semi-detached property with about two acres and an orchard.[^ref20] The main crops in this area were wheat, barley, oats, hops and potatoes, with some fruit growing for the London market. In 1913, Albert advertised in the _Kent Messenger_ for "40 bushels of soot".[^ref21] The soil around Minster was loam, so soot was used by farmers to darken the soil so that it absorbed more heat from the sun. As a result the higher temperature of the soil would help bring the season forward a little.
 <br><br>
 It was whilst he was living at Minster that Albert became a member of the Minster Primitive Methodist Circuit, presiding over the circuit meeting in June 1914.[^ref22]. The Primitive Methodists differed from the Wesleyan Methodists in that they allowed lay participation in the church. Later that year, Albert invited fellow African Dr Rubusana, who had been visiting England to interview the Colonial Secretary over the land question, to speak at a Brotherhood meeting in Minster, where they sung a duet in their native language.[^ref23] 
 <br><br>
@@ -79,44 +79,38 @@ Albert Makaula-White's life was a testament to resilience and determination. Des
 [^ref3]: "Romance of a Brown Baby." _Daily News_,  Monday 23 January 1928.
 [^ref4]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.
 [^ref5]: "Letter from the Rev. Charles White, dated Osborn, September 30th, 1871." _The Missionary Notices_, no. CCVIIand39, 1 Mar. 1872, pp. 38+. _Nineteenth Century UK Periodicals_, link.gale.com/apps/doc/CC1903165422/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=01bffcec. Accessed 29 Oct. 2024.
-[^ref6]: 
+[^ref6]: ibid.
 [^ref7]: "Kirkcaldy." _Dundee Courier_, 7 Sept. 1888, p. 2. British Library Newspapers, link.gale.com/apps/doc/R3208277708/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=251cd2e4. Accessed 29 Oct. 2024.
 [^ref8]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.
 Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
 [^ref9]: "Thame." Bucks Herald (Aylesbury, England) [British Library Newspapers], 21 Feb. 1891, p. 7. British Library Newspapers, link.gale.com/apps/doc/IG3220353267/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=d84ab576. Accessed 29 Oct. 2024.
-[^ref10]:"Banbury." Northampton Mercury, 30 Jan. 1891, p. 8. British Library Newspapers, link.gale.com/apps/doc/GW3216703339/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=85a45125. Accessed 29 Oct. 2024.
-[^ref11]: 1891 Census.
+[^ref10]: _South Eastern Advertiser_, Saturday 26 September 1891; "Banbury." Northampton Mercury, 30 Jan. 1891, p. 8. _British Library Newspapers_, link.gale.com/apps/doc/GW3216703339/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=85a45125. Accessed 29 Oct. 2024.
+[^ref11]: _Richmond Herald_, Friday 05 June 1891; 1891 Census.
 [^ref12]: Kent Archives. “Albert Makaula-White post.” https://www.facebook.com/KentArchives/posts/2227854737324649/. 
 [^ref13]:  Office for National Statistics. Population size: 7.9% from a minority ethnic group. 13 Feb. 2003. https://www.ons.gov.uk/ 
 [^ref14]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
-[^ref15]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
-{^ref16]: 
-[^ref16]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.
-[^ref17]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref18]:  Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref19]: "Native Speakers." _East Kent Times and Mail_, Wednesday 16 September 1914.
+[^ref15]: ibid.
+[^ref16]: "A Hundred Sons and Daughters." _Sheffield Daily Telegraph_Thursday 03 January 1907.
+[^ref17]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.
+[^ref18]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
 [^ref19]: _Hartlepool Northern Daily Mail_, Saturday 10 February 1912
-[^ref19]: "Preliminary List of Items." _Kent Messenger & Gravesend Telegraph_ Saturday 11 October 1924.
-[^ref20]: 
+[^ref20]: _East Kent Times and Mail_ 20 Nov 1946.
 [^ref21]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937_. Savannah Press. 2012. 
 [^ref22]: "A Circuit Gathering." _East Kent Times and Mail_, Wednesday 10 June 1914.
 Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref23]: 
-Theodore, Dylan 
+[^ref23]: "Native Speakers." _East Kent Times and Mail_, Wednesday 16 September 1914.
 [^ref24]: _Kentish Express_ - Saturday 16 June 1923.
-[^ref24]: Old Ebor. The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula. 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
-[^ref25]: Bulaitis 82.
-[^ref25]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref26]: Rev Kedward cited by Bulaitis, xvi. 
-[^ref27]: 
+[^ref25]: Bulaitis, John. _The Tithe War in England and Wales, 1881-1936_, Boydell Press,  82.
+[^ref26]: Rev Kedward cited by Bulaitis, John. _The Tithe War in England and Wales, 1881-1936_, Boydell Press,  xvi. 
+[^ref27]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.
 [^ref28]: "The Ramsgate Brotherhood P.S.A." _East Kent Times and Mail_, Wednesday 25 August 1920.
 [^ref29]:  _East Kent Times and Mail_, Wednesday 28 September 1921.
-[^ref30]:
-[^ref31]:
+[^ref30]: "Ramsgate Plucky Girl." _Thanet Advertiser_ Saturday 16 July 1921.
+[^ref31]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
 [^ref32]: "Ashford Police Court." _Kentish Express_ Saturday 16 June 1923.
 [^ref33]: _Badlesmere Kentish Express_ Saturday 25 October 1924.
-[^ref34]:
-[^ref35]: "Beech Court." _Kent Messenger & Gravesend Telegraph_, Saturday 18 October 1924.
+[^ref34]: "Beech Court." _Kent Messenger & Gravesend Telegraph_, Saturday 18 October 1924.
+[^ref35]: "Preliminary List of Items." _Kent Messenger & Gravesend Telegraph_ Saturday 11 October 1924.
 [^ref36]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
 [^ref37]: U2791/T3, Kent History and Library Centre.
 [^ref38]: "Pigs and Plants and Colour." _Streatham News_, Friday 23 December 1927
@@ -131,5 +125,5 @@ Theodore, Dylan
 [^ref47]: "Agricultural Tour Steady Progress." _Blackshirt_ Fri 25 May 1934, Page 4
 [^ref48]: "Death at Kent Home, of First Zulu to Become Freemason." _Kent Messenger_ 1937.
 [^ref49]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
-[^ref50]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
+[^ref50]: ibid.
 [^ref51]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.
