@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Albert Makaula White" author="Liam Cohen" layout="vtl" 
-banner="xxx">
+banner="https://upload.wikimedia.org/wikipedia/commons/0/07/Ploughing._754_%28NBY_419452%29.jpg">
 
 <param ve-entity eid="Q607701" alias="Harrietsham">
 <param ve-entity eid="Q67479626" alias="Kent">
