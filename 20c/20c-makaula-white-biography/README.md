@@ -32,7 +32,7 @@ After leaving the college, Albert married Eleanor Botting at Wesleyan Methodist 
 <br><br>
 Not long after their marriage, the couple moved to South Africa. Albert found work as an interpreter to the Magistrate of Idutywa  and acted as an interpreter for his father during a visit from Cecil Rhodes. He was later appointed as Chief Constable of Libode and acted as an interpreter for his father during the visit from the Duke of York in 1901. He was sacked from this post in 1902 after he was accused of seizing goods from a hut-tax payer.[^ref14] The Makaula-Whites had three children, all born in South Africa: Irene, in 1893, Charles in 1897 and Claude in 1898. The South Africa of Albert's childhood had changed enormously, ravaged by wars, and over-run with white settlers seeking riches in the gold and diamond mines, and restricting the rights of the native people.[^ref15]  At the end of 1906, Albert's father died leaving over 100 sons and daughters. His older brother, Mncisane, became the new Chief.[^ref16] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/Wesleyan_Church_Strood.jpg" label="Wesleyan Church, Strood" attribution="Postcard, Public domain, via Wikimedia Commons">
-<param ve-map center="Q1808441" zoom="12">
+<param ve-map center="Q1808441" zoom="15">
 
 In 1904, the Makaula-Whites moved to Kent. It is here that Albert began farming at Stubble Hill near Harrietsham [^ref17] and where he remained until at least 1911. It would have been unusual to have a Black man in a rural community. However, Albert's familiarity with British way of life aided his family's integration into Kent. Jo Beany recalled her Grandfather's account of working for the Makaula-Whites: "Granddad couldn't speak highly enough of the Makaula-Whites. Wonderful people, very considerate of their workforce. Always a good supply of tea and soft drinks, much appreciated on those hot summer days."[^ref18]
 <br><br>
@@ -44,7 +44,7 @@ By 1913, the Makaula-Whites were living at Rose Lawn, Minster, Ramsgate, a semi-
 It was whilst he was living at Minster that Albert became a member of the Minster Primitive Methodist Circuit, presiding over the circuit meeting in June 1914.[^ref22]. The Primitive Methodists differed from the Wesleyan Methodists in that they allowed lay participation in the church. Later that year, Albert invited fellow African Dr Rubusana, who had been visiting England to interview the Colonial Secretary over the land question, to speak at a Brotherhood meeting in Minster, where they sung a duet in their native language.[^ref23] 
 <br><br>
 During 1916-17, Makaula White contributed entertainment to concerts raising money for wounded soldiers and allowed the wounded soldiers to use his tennis court.[^ref24] 
-
+<param ve-map center="Q9033431" zoom="15">
 
 The post-war period was a difficult time for farmers. Canterbury cathedral's tithe agent, noting a problem with non-payment in the Minster area, wrote to farmers threatening to serve a county court notice on them.[^ref25]  An agricultural depression had seen wheat prices plummet and among non-conformist communities such as the Methodists, the payment of tithes to the Church of England seemed like an "unjust tax on agrictulture".[^ref26] It is not known how much these events affected Albert and his family but they reveal how difficult it was to be a farmer at this period.
 <br><br>
