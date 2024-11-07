@@ -49,16 +49,16 @@ During 1916-17, Makaula White contributed entertainment to concerts raising mone
 
 The post-war period was a difficult time for farmers. Canterbury cathedral's tithe agent, noting a problem with non-payment in the Minster area, wrote to farmers threatening to serve a county court notice on them.[^ref25] Bulaitis 82] An agricultural depression had seen wheat prices plummet (Bulaitis 117) and among non-conformist communities such as the Methodists, the payment of tithes to the Church of England seemed like an "unjust tax on agrictulture".[^ref26] (Rev Kedward cited by xvi Bulaitis). It is not known how much these events affected Albert and his family but they reveal how difficult it was to be a farmer at this period.
 <br><br>
-It was around this time that Albert joined the freemasons and is reputed to be Britain's first Black freemason [^ref27] as a member of Lewises Lodge, Ramsgate. In 1920, he gave a talk to the Ramsgate Brotherhood on the "Habits and Customs of his Tribe" at the Primitive Methodist Church on Queen Street, using tribal weapons and beads to illustrate his talk [^ref28] By 1921, he was living with his family at 61, Ellington Road, Ramsgate. His daughter Irene was running dance classes in the town.[^ref29] [East Kent Times and Mail - Wednesday 28 September 1921.] However, a robbery at their house, in which Irene was called as witness, as well as accusations against Claude, who was working as an auctioneer's clerk, for theft from his employers, created difficulties for the family.[^ref30] Claude was sent to Canterbury Gaol for 5 months.[^ref31] 
+It was around this time that Albert joined the freemasons and is reputed to be Britain's first Black freemason [^ref27] as a member of Lewises Lodge, Ramsgate. In 1920, he gave a talk to the Ramsgate Brotherhood on the "Habits and Customs of his Tribe" at the Primitive Methodist Church on Queen Street, using tribal weapons and beads to illustrate his talk [^ref28] By 1921, he was living with his family at 61, Ellington Road, Ramsgate. His daughter Irene was running dance classes in the town.[^ref29] However, a robbery at their house, in which Irene was called as witness, as well as accusations against Claude, who was working as an auctioneer's clerk, for theft from his employers, created difficulties for the family.[^ref30] Claude was sent to Canterbury Gaol for 5 months.[^ref31] 
 <param ve-map center="Q67479626" zoom="12">
 
-By June 1923, the Makaula Whites were living at Beech Court, Challock.[^ref32] [Ashford Police Court Kentish Express - Saturday 16 June 1923] It was whilst living here that Makaula White attended the Badlesmere Whist Drive and sang humourous songs, revealing his sociability and keeness to be part of community life.[^ref33] [Badlesmere Kentish Express - Saturday 25 October 1924] However, the sale by auction of live and dead farming stock and the effects of Beech Court Farm, Challock in October 1924 reveal that the family did not stay here long.[^ref34] Albert sold off 2 dairy cows, 2 cart horses, a young Welsh mare and foal, 85 pigs 95 sheep, 200 poultry and nearly new agricultural implements. It must have been disappointing for him and his family.[^ref35] [Beech COurt Kent Messenger & Gravesend Telegraph - Saturday 18 October 1924]
+By June 1923, the Makaula Whites were living at Beech Court, Challock.[^ref32] It was whilst living here that Makaula White attended the Badlesmere Whist Drive and sang humourous songs, revealing his sociability and keeness to be part of community life.[^ref33] [Badlesmere Kentish Express - Saturday 25 October 1924] However, the sale by auction of live and dead farming stock and the effects of Beech Court Farm, Challock in October 1924 reveal that the family did not stay here long.[^ref34] Albert sold off 2 dairy cows, 2 cart horses, a young Welsh mare and foal, 85 pigs 95 sheep, 200 poultry and nearly new agricultural implements. It must have been disappointing for him and his family.[^ref35]
 
-During the period 1925-1928, Makaula-White and Sons were running Poverest Farm in St Mary Cray.[^ref36] The Farm consisted of 2 cottages and 153 acres.[^ref37] [U2791/T3 Kent History and Library Centre] Life at St Mary Cray was not without its challenges. In December 1927, Albert was taken to court after a neighbour accused Albert of letting his pigs eat his garden plants. The reporting of the court case reveals racial tensions as the complainant suggested that the act was deliberate and Albert replied that he believed that he was a victim of "prejudice against colour".[^ref38]
+During the period 1925-1928, Makaula-White and Sons were running Poverest Farm in St Mary Cray.[^ref36] The Farm consisted of 2 cottages and 153 acres.[^ref37] Life at St Mary Cray was not without its challenges. In December 1927, Albert was taken to court after a neighbour accused Albert of letting his pigs eat his garden plants. The reporting of the court case reveals racial tensions as the complainant suggested that the act was deliberate and Albert replied that he believed that he was a victim of "prejudice against colour".[^ref38]
 <br><br>
-The winter of 1927 into 1928 was extremely cold and snowy.[^ref39] Many roads and paths had to be dug out so that people could access the outer world after being snowed in. The extreme weather would have a costly effect on Albert. In January 1928, the RSPCA took Albert to court for neglecting his pigs.[^ref40] Albert declared to the court that he sold all of the pigs in question to Commander Egleton around Christmas. The pair came to a gentleman's agreement that Albert would house the pigs until Egleton would collect them in January. In the meantime, Egleton's farm manager was to feed the pigs. However, he claimed there was a miscommunication, and he believed Albert was also meant to feed the pigs part of the time.[^ref41] Albert's defence lawyer argued that Makaula-White had been "subjected to a great deal of persecution by neighbours" on account of his colour and that many farm animals had frozen to death that winter and these cases had not been brought to prosecution.[^ref42] [Bromley & West Kent Mercury - Friday 20 January 1928] Both parties were fined. Albert was fined £10, approximately £460 (as of 2017).[^ref43] This gained unwanted public attention. 
+The winter of 1927 into 1928 was extremely cold and snowy.[^ref39] Many roads and paths had to be dug out so that people could access the outer world after being snowed in. The extreme weather would have a costly effect on Albert. In January 1928, the RSPCA took Albert to court for neglecting his pigs.[^ref40] Albert declared to the court that he sold all of the pigs in question to Commander Egleton around Christmas. The pair came to a gentleman's agreement that Albert would house the pigs until Egleton would collect them in January. In the meantime, Egleton's farm manager was to feed the pigs. However, he claimed there was a miscommunication, and he believed Albert was also meant to feed the pigs part of the time.[^ref41] Albert's defence lawyer argued that Makaula-White had been "subjected to a great deal of persecution by neighbours" on account of his colour and that many farm animals had frozen to death that winter and these cases had not been brought to prosecution.[^ref42] Both parties were fined. Albert was fined £10, approximately £460 (as of 2017).[^ref43] This gained unwanted public attention. 
 <br><br>
-The Makaula-Whites moved to Court Lodge in Doddington in 1929. At Court Lodge, they dealt only with wheat, barley, oats, and beans. Albert remained here until at least 1935 and gave talks at the Bethel Congregational Church, Queenborough on his life as a Christian worker.[^ref44]. His presence in these communities attracted interest and children asked for his autograph as the son of a "Zulu" Chief. His daughter, Irene also gained attention for her claims that she had healing powers.[^ref45] [The People - Sunday 15 September 1935]
+The Makaula-Whites moved to Court Lodge in Doddington in 1929. At Court Lodge, they dealt only with wheat, barley, oats, and beans. Albert remained here until at least 1935 and gave talks at the Bethel Congregational Church, Queenborough on his life as a Christian worker.[^ref44]. His presence in these communities attracted interest and children asked for his autograph as the son of a "Zulu" Chief. His daughter, Irene also gained attention for her claims that she had healing powers.[^ref45]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ordnance_Survey_Half-inch_Sheet_40_Chatham_Margate_%26_Hastings%2C_Published_1927.jpg" label="Kent 1927" attribution="Director General of the Ordnance Survey, UK, Public domain, via Wikimedia Commons">
 <param ve-map center="51.284429, 0.789154" alias="Court Lodge Farm" zoom="15">
 <param ve-map center="51.390784, 0.093409" alias="Poverest Farm" zoom="15">
@@ -67,16 +67,16 @@ As Albert aged, his financial issues grew, and his mental health declined. He re
 <br><br>
 Albert died on 13th September 1937 at the The Haven, Goudhurst where he had been living for about three months. He was buried at Lenham where a wreath from the British Coloured People's League, founded by Dr Harold Moody, was laid at his funeral.[^ref48] After her husband's death, Eleanor lived with Claude in Maidstone until she died in 1944, and was also buried at Lenham. 
 
-Albert's children maintained their roots with Kent. Charles and Claude attended Kent College, Canterbury and were very sporty, playing cricket, football and hockey.[^ref49] Charles who became a shepherd and later a miner moved to Great Napchester Farm, Whitfield and later The Forge, Eythorne. He played football for Dover United in 1928.[^ref50] Claude pursued a cricket career, and in the late 1930s moved to Maidstone. Princess Irene, became an actor and singer and played in Show Boat on Drury Lane with Paule Robeson.[^ref51]
+Albert's children maintained their roots with Kent. Charles and Claude attended Kent College, Canterbury and were very sporty, playing cricket, football and hockey.[^ref49] Charles who became a shepherd and later a miner moved to Great Napchester Farm, Whitfield and later The Forge, Eythorne. He played football for Dover United in 1928.[^ref50] Claude pursued a cricket career, and in the late 1930s moved to Maidstone. Princess Irene, became an actor and singer and played in Show Boat on Drury Lane with Paul Robeson.[^ref51]
 <br><br>
 Albert Makaula-White's life was a testament to resilience and determination. Despite his uncertain beginning, he rose above his challenges, whether in the scorching sun of South Africa or the snowy streets of Kent.  
 <param ve-map center="Q67479626" zoom="12">
 
 ### References
 
-[^ref1]: Taylor, Erica. _Little Known Black History: Albert Makaula._ 5 Jun. 2012. https://blackamericaweb.com/2012/06/05/little-known-black-history-fact-albert-makaula-2/ 
+[^ref1]: Taylor, Erica. _Little Known Black History: Albert Makaula._ 5 Jun. 2012. [Web](https://blackamericaweb.com/2012/06/05/little-known-black-history-fact-albert-makaula-2/). 
 [^ref2]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref3]: "Romance of a Brown Baby." Daily News,  Monday 23 January 1928
+[^ref3]: "Romance of a Brown Baby." _Daily News_,  Monday 23 January 1928.
 [^ref4]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.
 [^ref5]: "Letter from the Rev. Charles White, dated Osborn, September 30th, 1871." The Missionary Notices, no. CCVIIand39, 1 Mar. 1872, pp. 38+. Nineteenth Century UK Periodicals, link.gale.com/apps/doc/CC1903165422/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=01bffcec. Accessed 29 Oct. 2024.
 [^ref6]: "Kirkcaldy." _Dundee Courier_, 7 Sept. 1888, p. 2. British Library Newspapers, link.gale.com/apps/doc/R3208277708/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=251cd2e4. Accessed 29 Oct. 2024.
@@ -91,40 +91,38 @@ Albert Makaula-White's life was a testament to resilience and determination. Des
 [^ref15]:"Pigs and Plants and Colour." _Streatham News_ - Friday 23 December 1927
 [^ref16]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.
 [^ref17]: "The Ramsgate Brotherhood P.S.A." _East Kent Times and Mail_, Wednesday 25 August 1920.
-Sheerness Guardian and East Kent Advertiser - Saturday 14 May 1932; Sheerness Times Guardian - Thursday 07 December 1933
 [^ref18]: "Native Speakers." _East Kent Times and Mail_, Wednesday 16 September 1914.
 [^ref19]: "Preliminary List of Items." _Kent Messenger & Gravesend Telegraph_ Saturday 11 October 1924.
 [^ref20]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
 [^ref21]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937_. Savannah Press. 2012. 
 [^ref22]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref23]: Staveley-Wadham, Rose. “A Look at the History of Britain’s Extreme Winter Weather.” Headlines in History. The British Newspaper Archive Blog. https://blog.britishnewspaperarchive.co.uk/2020/12/04/history-of-britains-extreme-winter-weather/. 4 Dec. 2020. 
+[^ref23]: Staveley-Wadham, Rose. “A Look at the History of Britain’s Extreme Winter Weather.” Headlines in History. _The British Newspaper Archive Blog_. https://blog.britishnewspaperarchive.co.uk/2020/12/04/history-of-britains-extreme-winter-weather/. 4 Dec. 2020. 
 Theodore, Dylan 
 [^ref24]: Old Ebor. The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula. 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
 [^ref25]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref26]: The National Archives. Currency Converter : 1270-2017.  https://www.nationalarchives.gov.uk/currency-converter/#currency-result. 
-"Agricultural Tour Steady Progress." _Blackshirt_ Fri 25 May 1934, Page 4
-[^ref27]: "Death at Kent Home, of First Zulu to Become Freemason." _Kent Messenger_ 1937.
+[^ref26]: 
+[^ref27]: 
 [^ref28]:
-[^ref29]:
+[^ref29]:  _East Kent Times and Mail_, Wednesday 28 September 1921.
 [^ref30]:
 [^ref31]:
-[^ref32]:
+[^ref32]: "Ashford Police Court." _Kentish Express_ Saturday 16 June 1923.
 [^ref33]:
 [^ref34]:
-[^ref35]:
+[^ref35]: "Beech Court." _Kent Messenger & Gravesend Telegraph_, Saturday 18 October 1924.
 [^ref36]:
-[^ref37]:
+[^ref37]: U2791/T3, Kent History and Library Centre.
 [^ref38]:
 [^ref39]:
 [^ref40]:
 [^ref41]:
-[^ref42]:
-[^ref43]:
-[^ref44]:
-[^ref45]:
-[^ref46]:
-[^ref47]:
-[^ref48]:
-[^ref49]:
-[^ref50]:
-[^ref51]:
+[^ref42]:  _Bromley & West Kent Mercury_, Friday 20 January 1928.
+[^ref43]: [The National Archives. Currency Converter : 1270-2017](https://www.nationalarchives.gov.uk/currency-converter/#currency-result) 
+[^ref44]: _Sheerness Guardian and East Kent Advertiser_, Saturday 14 May 1932; _Sheerness Times Guardian_, Thursday 07 December 1933.
+[^ref45]: _The People_, Sunday 15 September 1935.
+[^ref46]: Theodore.
+[^ref47]: "Agricultural Tour Steady Progress." _Blackshirt_ Fri 25 May 1934, Page 4
+[^ref48]: "Death at Kent Home, of First Zulu to Become Freemason." _Kent Messenger_ 1937.
+[^ref49]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
+[^ref50]: Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024. 
+[^ref51]: Theodore.
