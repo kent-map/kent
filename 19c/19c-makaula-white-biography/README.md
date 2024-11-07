@@ -5,28 +5,48 @@ banner="xxx">
 <param ve-entity eid="Q607701" alias="Harrietsham">
 <param ve-entity eid="51.390784, 0.093409" alias="Poverest Farm">
 <param ve-entity eid="51.284429, 0.789154" alias="Court Lodge Farm">
+<param ve-entity eid="Q67479626" alias="Kent">
+<param ve-entity eid="Q1808441" alias="Strood">
+<param ve-entity eid="Q736439" alias="Ramsgate">
+<param ve-entity eid="Q9033431" alias="Minster">
+<param ve-entity eid="Q3246334" alias="Lenham">
+<param ve-entity eid="Q5036128" alias="Challock">
+<param ve-entity eid="Q7996443" alias="Whitfield">
+<param ve-entity eid="Q2357887" alias="Doddington">
+<param ve-entity eid="Q2019734" alias="Goudhurst">
+<param ve-entity eid="Q213180" alias="Maidstone">
+<param ve-entity eid="Q123977" alias="Orpington">
 
-<param ve-map center="Q3246334" zoom="12">
+
+
+<param ve-map center="Q67479626" zoom="12">
 
 #
 
 Albert Makaula, the son of a Bhaca Chief, was born in the Eastern Cape in 1865.[^ref1] Although his beginnings were in South Africa, he settled in Kent where he became a farmer. 
 <br><br>
 As the age of nine months, Albert grew seriously ill. His sickness was seen as a bad omen among the Bhaca people who feared that a great calamity would befall the tribe. Chief Makaula and Albert's mother, Mamagayiyana, "The Great Wife," tried everything to cure Albert, but to no avail.[^ref2] Growing desperate, Albert's mother walked 20 miles to the mission station at Tshungwana (Osborn) carrying Albert on her back, whilst her husband followed on horseback. Here Chief Makaula said to English missionary, Reverend Charles White: "Here is a thing that I have brought you; if it lives it is yours, if it dies, bury it." Charles and Martha White, who had no children of their own, agreed to look after Albert and he recovered. The Whites adopted Albert, who was the Chief's second son, and he added White to his name, making him Albert Makaula-White. He lived with the Whites for 15 years.
+<param ve-map center="Q67479626" zoom="12">
 
 Albert grew up as a Black child amongst White people. He integrated well and is described as speaking perfect English and enjoyed conversing, particularly with adults. He didn't learn his native tongue until he was 16.[^ref3] Most of his youth was spent in South Africa; where he would have witnessed the tribal conflict that took place between the Griquas and the AmaBhaca in 1871, and the impact that this had on the local community. Chief Makaula asked Reverend White to act as an intermediary between the AmaBhaca and the Griquas, but White struggled to broker peace and the mission station became crowded with displaced women and children, who were fleeing the aggression.[^ref4] Whilst Albert was living in Africa, he taught at a missionary school which had between 200-300 pupils.[^ref]
 
 In 1888, Makaula-White came to the UK for six months and visited Henry Darney, father in law of the Colonial Resident Magistrate in Bacaland, at his home in Kinghorn, Scotland.[^ref5]
 
 He was in England at the end of the 1880s, but with his mother seriously ill and his father dying in 1888, Albert returned to South Africa in 1890.[^ref4] After the death of his parents, Albert decided to study to become a clergyman at the Richmond Theological College in Surrey. It was whilst he was here that Albert conducted services at Wesleyan Chapels in Thame[^ref5], Banbury[^ref6] and Winchcombe.[^ref6]  However, Albert only attended the college for one year, from October 1890 to October 1891 as he was recalled by the South African Methodist Conference, who were responsible for funding Albert's education. 
+<param ve-map center="Q67479626" zoom="12">
 
 In December 1891, Albert married Eleanor Botting at Wesleyan Methodist Church in Strood, Kent.[^ref4] Eleanor was a local dressmaker and the daughter of a carpenter. Interracial relationships in the late 19th century and in the early 20th century became more regular, but no means common. Eleanor's parents did attend the wedding. However, many people in interracial relationships and/or mixed-race people were met with disapproval and often faced similar or worse discrimination than Black people. This can be demonstrated by the fact that mixed ethnicity only became an option in the 2001 Census, 110 years after Albert and Eleanor's marriage.[^ref5] Before this, mixed-race people were also called Negros or Coloured (these were considered the polite terms). This perhaps was a factor why the couple moved to South Africa not long after getting married. However, they struggled to fit in. Albert worked as an interpreter to the Magistrate of Idutywa and was later appointed as Chief Constable of Libode.[^ref ] The Makaula-Whites had three children, all born in South Africa: Irene, in 1893, Charles in 1897 and Claude in 1898. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/Wesleyan_Church_Strood.jpg" label="Wesleyan Church, Strood" attribution="Postcard, Public domain, via Wikimedia Commons">
 
 In 1901, Albert acted as interpreter for his father at a meeting of assembled chiefs during a visit from the Duke and Duchess of York. In 1904, he and his family moved to Kent. It is here he began farming, even though he had no previous farming experience. There had been an agricultural slump in the late 19th century, due to cheap food imports but this did not deter Albert.[^ref6] Albert had land and a tenement at Stubble Hill between Harrietsham and Lenham in 1905.[^ref7]  It would have been unusual to have a Black man in a rural community. However, Albert's familiarity with British way of life aided his family's integration into Kent. Jo Beany recalled her Grandfather's account of working for the Makaula-Whites: "Granddad couldn't speak highly enough of the Makaula-Whites. Wonderful people, very considerate of their workforce. Always a good supply of tea and soft drinks, much appreciated on those hot summer days."[^ref8]
+<br><br>
+At the end of 1906, Albert's father died leaving over 100 sons and daughters. His older brother, Mncisane, became the new Chief.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Theodoor_Verstraete_-_Farming_-_1906-T_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg" label="Farming, 1906" attribution="Théodore Verstraete, Museum of Fine Arts, Ghent, Public domain, via Wikimedia Commons">
 
+In 1912, Albert gave a talk at the Burbank Church of the West Hartlepool Circuit of the United Methodist Churches on the introduction of the gospel to the Amabaca and sang a song in the Kaffir language.[^ref9]
+
 During the 1910s and early 1920s, the Makaula-Whites lived in Thanet. In 1913, Albert advertised in the _Kent Messenger_ "wanted 40 bushels of soot, delivered at Minster Station - Rose Lawn, Minster, Ramsgate." The soil around Minster was loam, so soot was used by farmers to darken the soil so that it absorbed more heat from the sun. As a result the higher temperature of the soil would help bring the season forward a little. It was whilst he was living at Minster that Albert became a member of the Minster Primitive Methodist Circuit, presiding over the circuit meeting in June 1914.[^ref9]. The Primitive Methodists differed from the Wesleyan Methodists in that they allowed lay participation in the church so it may have felt more egalitarian to the White family. Later that year, Albert invited fellow African Dr Rubusana who was visiting England to interview the Colonial Secretary over the land question, to speak at a Brotherhood meeting in Minster, where they sung a duet in their native language.[^ref10] During 1916-17, Makaula White contributed entertainment to concerts raising money for wounded soldiers and allowed the wounded soldiers to use his tennis court. [Kentish Express - Saturday 16 June 1923] It was around this time that Albert joined the freemasons and is reputed to be Britain's first Black freemason [^ref9] and was a member of the Lewises Lodge, Ramsgate. In 1920, he gave a talk to the Ramsgate Brotherhood on the "Habits and Customs of his Tribe" at the Primitive Methodist Church on Queen Street, using tribal weapons and beads to illustrate his talk.[^ref10] His address in 1921 was 61, Ellington Road, Ramsgate.
+<param ve-map center="Q67479626" zoom="12">
 
 In June 1924, Makaula White was farming at Beech Court, Challock. In October 1924, the sale of live and dead farming stock and effects of Beech Court Farm, Challock were sold for A. Makaula-White Esq.[^ref11]
 
@@ -38,6 +58,7 @@ The winter of 1927 into 1928 was extremely cold and snowy.[^ref10] Many roads an
 As Albert aged, his financial issues grew, and his mental health declined. He remained working in the agricultural industry until his death on 13th September 1937 at the The Haven, Goudhurst, aged 72, . He had been living in Goudhurst for about three months before his death. He was buried at Lenham where a wreath from the British Coloured People's League was laid at his funeral.[^ref14] After her husband's death, Eleanor lived with Claude in Maidstone until she died in 1944. 
 <br><br>
 Albert Makaula-White's life was a testament to resilience and determination. Despite his uncertain beginning, he rose above his challenges to achieve great things. A proud Christian and successful businessman, he not only integrated himself into a world where he began at a disadvantage but also earned the respect of his peers. Albert showed he was best placed in remote villages, whether in the scorching sun of South Africa or the snowy streets of Kent.  
+<param ve-map center="Q67479626" zoom="12">
 
 
 ### References
@@ -54,6 +75,7 @@ Albert Makaula-White's life was a testament to resilience and determination. Des
 [^ref6]: Kent Archives. “Albert Makaula-White post.” https://www.facebook.com/KentArchives/posts/2227854737324649/. 
 [^ref7]: Office for National Statistics. Population size: 7.9% from a minority ethnic group. 13 Feb. 2003. https://www.ons.gov.uk/ 
 [^ref8]: Basford, Hazel and McIntosh, K.H. East Kent Gazetter in the Great War 1914-1918. Parker Digital Press. ISBN: 9780954478957. 2008. 
+ Hartlepool Northern Daily Mail, Saturday 10 February 1912
 [^ref9]: "A Circuit Gathering." _East Kent Times and Mail_, Wednesday 10 June 1914.
 [^ref9]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.
 [^ref10]: "The Ramsgate Brotherhood P.S.A." _East Kent Times and Mail_, Wednesday 25 August 1920.
