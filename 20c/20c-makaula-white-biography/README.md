@@ -45,9 +45,9 @@ By 1913, the Makaula-Whites were living at Rose Lawn, Minster, Ramsgate, a semi-
 <br><br>
 It was whilst he was living at Minster that Albert became a member of the Minster Primitive Methodist Circuit, presiding over the circuit meeting in June 1914.[^ref22]. The Primitive Methodists differed from the Wesleyan Methodists in that they allowed lay participation in the church. Later that year, Albert invited fellow African Dr Rubusana, who had been visiting England to interview the Colonial Secretary over the land question, to speak at a Brotherhood meeting in Minster, where they sung a duet in their native language.[^ref23] 
 <br><br>
-During 1916-17, Makaula White contributed entertainment to concerts raising money for wounded soldiers and allowed the wounded soldiers to use his tennis court.[^ref24] [Kentish Express - Saturday 16 June 1923] 
+During 1916-17, Makaula White contributed entertainment to concerts raising money for wounded soldiers and allowed the wounded soldiers to use his tennis court.[^ref24] 
 
-The post-war period was a difficult time for farmers. Canterbury cathedral's tithe agent, noting a problem with non-payment in the Minster area, wrote to farmers threatening to serve a county court notice on them.[^ref25] Bulaitis 82] An agricultural depression had seen wheat prices plummet (Bulaitis 117) and among non-conformist communities such as the Methodists, the payment of tithes to the Church of England seemed like an "unjust tax on agrictulture".[^ref26] (Rev Kedward cited by xvi Bulaitis). It is not known how much these events affected Albert and his family but they reveal how difficult it was to be a farmer at this period.
+The post-war period was a difficult time for farmers. Canterbury cathedral's tithe agent, noting a problem with non-payment in the Minster area, wrote to farmers threatening to serve a county court notice on them.[^ref25]  An agricultural depression had seen wheat prices plummet and among non-conformist communities such as the Methodists, the payment of tithes to the Church of England seemed like an "unjust tax on agrictulture".[^ref26] It is not known how much these events affected Albert and his family but they reveal how difficult it was to be a farmer at this period.
 <br><br>
 It was around this time that Albert joined the freemasons and is reputed to be Britain's first Black freemason [^ref27] as a member of Lewises Lodge, Ramsgate. In 1920, he gave a talk to the Ramsgate Brotherhood on the "Habits and Customs of his Tribe" at the Primitive Methodist Church on Queen Street, using tribal weapons and beads to illustrate his talk [^ref28] By 1921, he was living with his family at 61, Ellington Road, Ramsgate. His daughter Irene was running dance classes in the town.[^ref29] However, a robbery at their house, in which Irene was called as witness, as well as accusations against Claude, who was working as an auctioneer's clerk, for theft from his employers, created difficulties for the family.[^ref30] Claude was sent to Canterbury Gaol for 5 months.[^ref31] 
 <param ve-map center="Q67479626" zoom="12">
@@ -63,7 +63,7 @@ The Makaula-Whites moved to Court Lodge in Doddington in 1929. At Court Lodge, t
 <param ve-map center="51.284429, 0.789154" alias="Court Lodge Farm" zoom="15">
 <param ve-map center="51.390784, 0.093409" alias="Poverest Farm" zoom="15">
 
-As Albert aged, his financial issues grew, and his mental health declined. He remained working in the agricultural industry but in 1933 wrote to a former acquaintance in South Africa asking for financial support.[^ref46] By the 1930s, the British Fascist movement were whipping up support among agricultural communities and political ideologies created tensions among farming communities. A Blackshirt Agricultural Tour in 1934 visited villages around Ashford, Canterbury, New Romney, Chatham, Sandwich, Chiselhurst, Westerham, Orpington and Sevenoaks.[^ref47] Life in rural communities would have felt uncomfortable for the family at this period.  
+As Albert aged, his financial issues grew, and his mental health declined. He remained working in the agricultural industry but in 1933 wrote to a former acquaintance in South Africa asking for financial support.[^ref46] By the 1930s, the British Fascist movement were whipping up support among agricultural communities and political ideologies created tensions among farming communities. A Blackshirt Agricultural Tour in 1934 visited villages around Ashford, Canterbury, New Romney, Chatham, Sandwich, Chiselhurst, Westerham, Orpington and Sevenoaks.[^ref47] Life in rural communities would have felt uncomfortable for the family at this period.
 <br><br>
 Albert died on 13th September 1937 at the The Haven, Goudhurst where he had been living for about three months. He was buried at Lenham where a wreath from the British Coloured People's League, founded by Dr Harold Moody, was laid at his funeral.[^ref48] After her husband's death, Eleanor lived with Claude in Maidstone until she died in 1944, and was also buried at Lenham. 
 
@@ -88,7 +88,7 @@ Albert Makaula-White's life was a testament to resilience and determination. Des
 [^ref12]: Basford, Hazel and McIntosh, K.H. _East Kent Gazette in the Great War 1914-1918._ Parker Digital Press. ISBN: 9780954478957. 2008. 
 [^ref13]: _Hartlepool Northern Daily Mail_, Saturday 10 February 1912
 [^ref14]: "A Circuit Gathering." _East Kent Times and Mail_, Wednesday 10 June 1914.
-[^ref15]:"Pigs and Plants and Colour." _Streatham News_ - Friday 23 December 1927
+[^ref15]:
 [^ref16]: "Zulu Chief's Son Who Became Kent Farmer." _Thanet Advertiser_, Friday 27 January 1928.
 [^ref17]: "The Ramsgate Brotherhood P.S.A." _East Kent Times and Mail_, Wednesday 25 August 1920.
 [^ref18]: "Native Speakers." _East Kent Times and Mail_, Wednesday 16 September 1914.
@@ -98,9 +98,11 @@ Albert Makaula-White's life was a testament to resilience and determination. Des
 [^ref22]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
 [^ref23]: Staveley-Wadham, Rose. “A Look at the History of Britain’s Extreme Winter Weather.” Headlines in History. _The British Newspaper Archive Blog_. https://blog.britishnewspaperarchive.co.uk/2020/12/04/history-of-britains-extreme-winter-weather/. 4 Dec. 2020. 
 Theodore, Dylan 
+[^ref24]: _Kentish Express_ - Saturday 16 June 1923.
 [^ref24]: Old Ebor. The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula. 6 Feb. 2024. https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/ 
+[^ref25]: Bulaitis 82.
 [^ref25]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012. 
-[^ref26]: 
+[^ref26]: (Rev Kedward cited by xvi Bulaitis). 
 [^ref27]: 
 [^ref28]:
 [^ref29]:  _East Kent Times and Mail_, Wednesday 28 September 1921.
@@ -112,7 +114,7 @@ Theodore, Dylan
 [^ref35]: "Beech Court." _Kent Messenger & Gravesend Telegraph_, Saturday 18 October 1924.
 [^ref36]:
 [^ref37]: U2791/T3, Kent History and Library Centre.
-[^ref38]:
+[^ref38]: "Pigs and Plants and Colour." _Streatham News_, Friday 23 December 1927
 [^ref39]:
 [^ref40]:
 [^ref41]:
