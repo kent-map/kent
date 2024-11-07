@@ -84,8 +84,6 @@ Albert Makaula-White's life was a testament to resilience and determination. Des
 [^ref6]: ibid.   
 [^ref7]: "Kirkcaldy." _Dundee Courier_, 7 Sept. 1888, p. 2. British Library Newspapers, link.gale.com/apps/doc/R3208277708/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=251cd2e4. Accessed 29 Oct. 2024.   
 [^ref8]: Theodore, Dylan. "Lesson Ideas: Albert Makaula White." _Music for Change_ 2008.   
-Old Ebor. _The Inkosi’s Grandson: The Thwarted Career of C.A.V Makaula._ 6 Feb. 2024.  
-https://oldebor.wordpress.com/2024/02/06/the-inkosis-grandson-the-thwarted-career-of-c-a-v-makaula/    
 [^ref9]: "Thame." Bucks Herald (Aylesbury, England) _British Library Newspapers_, 21 Feb. 1891, p. 7. British Library Newspapers, link.gale.com/apps/doc/IG3220353267/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=d84ab576. Accessed 29 Oct. 2024.   
 [^ref10]: _South Eastern Advertiser_, Saturday 26 September 1891; "Banbury." Northampton Mercury, 30 Jan. 1891, p. 8. _British Library Newspapers_, link.gale.com/apps/doc/GW3216703339/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=85a45125. Accessed 29 Oct. 2024.   
 [^ref11]: _Richmond Herald_, Friday 05 June 1891; 1891 Census.   
