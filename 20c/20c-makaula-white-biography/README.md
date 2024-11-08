@@ -56,6 +56,7 @@ It was around this time that Albert joined the freemasons and is reputed to be B
 
 By June 1923, the Makaula Whites were living at Beech Court, Challock.[^ref32] It was whilst living here that Makaula White attended the Badlesmere Whist Drive and sang humourous songs, revealing his sociability and keeness to be part of community life.[^ref33] However, the sale by auction of live and dead farming stock and the effects of Beech Court Farm, Challock in October 1924 reveal that the family did not stay here long.[^ref34] Albert sold off 2 dairy cows, 2 cart horses, a young Welsh mare and foal, 85 pigs, 95 sheep, 200 poultry and nearly new agricultural implements. It must have been disappointing for him and his family.[^ref35]
 <param ve-map center="Q5036128" zoom="12">
+<param ve-map="51.24984631421325, 0.8767016335324718" zoom="12">
 
 During the period 1925-1928, Makaula-White and Sons ran Poverest Farm in St Mary Cray.[^ref36] The Farm consisted of 2 cottages and 153 acres.[^ref37] Life at St Mary Cray was not without its challenges. In December 1927, Albert was taken to court after a neighbour accused Albert of letting his pigs eat his garden plants. The reporting of the court case reveals racial tensions as the complainant suggested that the act was deliberate and Albert replied that he believed that he was a victim of "prejudice against colour".[^ref38]
 <br><br>
