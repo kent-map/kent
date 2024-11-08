@@ -14,7 +14,6 @@ banner="https://upload.wikimedia.org/wikipedia/commons/0/07/Ploughing._754_%28NB
 <param ve-entity eid="Q2019734" alias="Goudhurst">
 <param ve-entity eid="Q213180" alias="Maidstone">
 <param ve-entity eid="Q123977" alias="Orpington">
-<param ve-entity eid="Q301744" alias="Badlesmere">
 
 #
 
@@ -73,6 +72,7 @@ Albert died on 13th September 1937 at the The Haven, Goudhurst where he had been
 Albert's children maintained their roots with Kent. Charles and Claude attended Kent College, Canterbury and were very sporty, playing cricket, football and hockey.[^ref49] Charles who became a shepherd and later a miner moved to Great Napchester Farm, Whitfield and later The Forge, Eythorne. He played football for Dover United in 1928.[^ref50] Claude pursued a cricket career, and in the late 1930s moved to Maidstone. Princess Irene, became an actor and singer and played in Show Boat on Drury Lane with actor, Paul Robeson.[^ref51]
 <br><br>
 Albert Makaula-White's life was a testament to resilience and determination. Despite his uncertain beginning, he rose above his challenges, whether in the scorching sun of South Africa or the snowy streets of Kent.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Churchyard%2C_St_Mary%2C_Lenham.jpg" label="Churchyard, Lenham" attribution="Poliphilo, CC0, via Wikimedia Commons">
 <param ve-map center="Q2019734" zoom="15">
 
 ### References
