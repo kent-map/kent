@@ -14,7 +14,6 @@ banner="https://upload.wikimedia.org/wikipedia/commons/0/07/Ploughing._754_%28NB
 <param ve-entity eid="Q2019734" alias="Goudhurst">
 <param ve-entity eid="Q213180" alias="Maidstone">
 <param ve-entity eid="Q123977" alias="Orpington">
-<param ve-entity eid="Q301744" alias="Badlesmere">
 
 #
 
