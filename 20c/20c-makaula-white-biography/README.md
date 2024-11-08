@@ -26,6 +26,7 @@ As the age of nine months, Albert grew seriously ill. His sickness was seen as a
 Albert grew up as a Black child amongst White people. He integrated well and is described as speaking perfect English and enjoyed conversing, particularly with adults, although he didn't learn his native tongue until he was 16.[^ref4] Most of his youth was spent in South Africa; where he would have witnessed the tribal conflict that took place and the impact that this had on the local community.[^ref5] In 1871, Chief Makaula asked Reverend White to act as an intermediary between the AmaBhaca and the warring Griquas, but White struggled to broker peace and the mission station became crowded with displaced women and children fleeing the aggression.[^ref6]
 <br><br>
 In 1888, Makaula-White came to the UK and visited Henry Darney, father in law of the Colonial Resident Magistrate in Bacaland, at his home in Kinghorn, Scotland.[^ref7] It was in this year that Reverend Charles White died, with Martha dying two years later.[^ref8]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a5/Thomas_Baines_Baobab.jpg" label="Baobab Tree" attribution="Thomas Baines, 1861">
 
 After the death of his adoptive parents, Albert trained to become a clergyman at the Richmond Theological College in Surrey. It was whilst he was here that he conducted services at Wesleyan Chapels in Thame[^ref9], Hastings, Banbury[^ref10], Sandycombe and Winchcombe.[^ref11] 
 <br><br>
