@@ -14,6 +14,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/0/07/Ploughing._754_%28NB
 <param ve-entity eid="Q2019734" alias="Goudhurst">
 <param ve-entity eid="Q213180" alias="Maidstone">
 <param ve-entity eid="Q123977" alias="Orpington">
+<param ve-entity eid="Q301744" alias="Badlesmere">
 
 #
 
@@ -41,7 +42,7 @@ Although committed to his new life of farming, Albert retained his links with th
 
 By 1913, the Makaula-Whites were living at Rose Lawn, Minster, Ramsgate, a semi-detached property with about two acres and an orchard.[^ref20] The main crops in this area were wheat, barley, oats, hops and potatoes, with some fruit growing for the London market. In 1913, Albert advertised in the _Kent Messenger_ for "40 bushels of soot".[^ref21] The soil around Minster was loam, so soot was used by farmers to darken the soil so that it absorbed more heat from the sun. As a result the higher temperature of the soil would help bring the season forward a little.
 <br><br>
-It was whilst he was living at Minster that Albert became a member of the Minster Primitive Methodist Circuit, presiding over the circuit meeting in June 1914.[^ref22]. The Primitive Methodists differed from the Wesleyan Methodists in that they allowed lay participation in the church. Later that year, Albert invited fellow African Dr Rubusana, who had been visiting England to interview the Colonial Secretary over the land question, to speak at a Brotherhood meeting in Minster, where they sung a duet in their native language.[^ref23] 
+It was whilst he was living at Minster that Albert became a member of the Minster Primitive Methodist Circuit, presiding over the circuit meeting in June 1914.[^ref22] The Primitive Methodists differed from the Wesleyan Methodists in that they allowed lay participation in the church. Later that year, Albert invited fellow African Dr Rubusana, who had been visiting England to interview the Colonial Secretary over the land question, to speak at a Brotherhood meeting in Minster. Together they sung a duet in their native language.[^ref23] 
 <br><br>
 During 1916-17, Makaula White contributed entertainment to concerts raising money for wounded soldiers and allowed the wounded soldiers to use his tennis court.[^ref24] 
 <param ve-map center="Q9033431" zoom="15">
@@ -52,7 +53,7 @@ It was around this time that Albert joined the freemasons and is reputed to be B
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fa/%27Ramsgate%27_by_J._Buxton_Knight.jpg" label="Ramsgate" attribution="J. Buxton Knight, Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 <param ve-map center="Q67479626" zoom="12">
 
-By June 1923, the Makaula Whites were living at Beech Court, Challock.[^ref32] It was whilst living here that Makaula White attended the Badlesmere Whist Drive and sang humourous songs, revealing his sociability and keeness to be part of community life.[^ref33] However, the sale by auction of live and dead farming stock and the effects of Beech Court Farm, Challock in October 1924 reveal that the family did not stay here long.[^ref34] Albert sold off 2 dairy cows, 2 cart horses, a young Welsh mare and foal, 85 pigs 95 sheep, 200 poultry and nearly new agricultural implements. It must have been disappointing for him and his family.[^ref35]
+By June 1923, the Makaula Whites were living at Beech Court, Challock.[^ref32] It was whilst living here that Makaula White attended the Badlesmere Whist Drive and sang humourous songs, revealing his sociability and keeness to be part of community life.[^ref33] However, the sale by auction of live and dead farming stock and the effects of Beech Court Farm, Challock in October 1924 reveal that the family did not stay here long.[^ref34] Albert sold off 2 dairy cows, 2 cart horses, a young Welsh mare and foal, 85 pigs, 95 sheep, 200 poultry and nearly new agricultural implements. It must have been disappointing for him and his family.[^ref35]
 <param ve-map center="Q5036128" zoom="12">
 
 During the period 1925-1928, Makaula-White and Sons were running Poverest Farm in St Mary Cray.[^ref36] The Farm consisted of 2 cottages and 153 acres.[^ref37] Life at St Mary Cray was not without its challenges. In December 1927, Albert was taken to court after a neighbour accused Albert of letting his pigs eat his garden plants. The reporting of the court case reveals racial tensions as the complainant suggested that the act was deliberate and Albert replied that he believed that he was a victim of "prejudice against colour".[^ref38]
@@ -96,7 +97,6 @@ Albert Makaula-White's life was a testament to resilience and determination. Des
 [^ref20]: _East Kent Times and Mail_ 20 Nov 1946.   
 [^ref21]: Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937_. Savannah Press. 2012.    
 [^ref22]: "A Circuit Gathering." _East Kent Times and Mail_, Wednesday 10 June 1914.   
-Sherwood, Marika. _The Life and Times of Albert Makula-White, an African Farmer in Kent 1904-1937._ Savannah Press. 2012.  
 [^ref23]: "Native Speakers." _East Kent Times and Mail_, Wednesday 16 September 1914.   
 [^ref24]: _Kentish Express_ - Saturday 16 June 1923.   
 [^ref25]: Bulaitis, John. _The Tithe War in England and Wales, 1881-1936_, Boydell Press,  82.   
