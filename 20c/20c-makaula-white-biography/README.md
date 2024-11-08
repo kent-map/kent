@@ -46,7 +46,7 @@ By 1913, the Makaula-Whites were living at Rose Lawn, Minster, Ramsgate, a semi-
 It was whilst he was living at Minster that Albert became a member of the Minster Primitive Methodist Circuit, presiding over the circuit meeting in June 1914.[^ref22] The Primitive Methodists differed from the Wesleyan Methodists in that they allowed lay participation in the church. Later that year, Albert invited fellow African Dr Rubusana, who had been visiting England to interview the Colonial Secretary over the land question, to speak at a Brotherhood meeting in Minster. Together they sung a duet in their native language.[^ref23] 
 <br><br>
 During 1916-17, Makaula White contributed entertainment to concerts raising money for wounded soldiers and allowed the wounded soldiers to use his tennis court.[^ref24] 
-<param ve-map center="Q9033431" zoom="15">
+<param ve-map center="51.336565, 1.314824" zoom="15">
 
 The post-war period was a difficult time for farmers. Canterbury cathedral's tithe agent, noting a problem with non-payment in the Minster area, wrote to farmers threatening to serve a county court notice on them.[^ref25]  An agricultural depression had seen wheat prices plummet and among non-conformist communities such as the Methodists, the payment of tithes to the Church of England seemed like an "unjust tax on agrictulture".[^ref26] It is not known how much these events affected Albert and his family but they reveal how difficult it was to be a farmer at this period.
 <br><br>
