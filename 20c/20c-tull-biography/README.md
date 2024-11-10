@@ -40,22 +40,22 @@ At the Somme, Walter and his comrades were under a constant barrage from the Ger
 [^ref1]:  The Walter Tull Archive. https://waltertullarchive.com/.
 [^ref2]:  "England and Wales Birth Registration Index, 1837-2008," database, FamilySearch (https://familysearch.org/ark:/61903/1:1:2XRV-WDQ : 1 October 2014), Walter Daniel J Tull, 1888; from "England & Wales Births, 1837-2006," database, findmypast (http://www.findmypast.com : 2012); citing Birth Registration, Elham, Kent, England, citing General Register Office, Southport, England
 [^ref3]:  Sky History. Walter Tull: The Tottenham Trailblazer and WW1 Hero. https://www.history.co.uk/article/historys-forgotten-people-walter-tull.
-[^ref1]:   England and Wales Census, 1891", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q2FB-NT2 : Sun Mar 10 20:57:37 UTC 2024), Entry for Daniel Tull and Alice Tull, 1891.
-[^ref1]:   Mundella Primary School. “Walter Tull.” About us. https://www.mundella.kent.sch.uk/page/?title=About+Us&pid=3.
-[^ref1]:   Walter Tull: Forgotten Hero, Walter Tull - Forgotten Hero, 23:50 11/11/2020, BBC4, 60 mins. https://learningonscreen.ac.uk/ondemand/index.php/prog/00BE0995?bcast=133205649 
-[^ref1]:     Sky History. Walter Tull: The Tottenham Trailblazer and WW1 Hero. https://www.history.co.uk/article/historys-forgotten-people-walter-tull.
-[^ref1]:   Sky History. Walter Tull: The Tottenham Trailblazer and WW1 Hero. https://www.history.co.uk/article/historys-forgotten-people-walter-tull.
-[^ref1]:   Hern, Bill, and David Gleave. “Football’s Black Pioneers – Timeline.” Football’s Black Pioneers. https://footballs-black-pioneers.com/footballs-black-pioneers-timeline/.
-[^ref1]:   BBC. “Who was Walter Tull and what did he do?” Bitesize. https://www.bbc.co.uk/bitesize/articles/zbgxbdm#zk4ccmn.
-[^ref1]: Daniel, Peter. Crossing the white line: The Walter Tull story. https://claptonfc.com/wp-content/uploads/2014/04/WalterTTTbooklet.pdf.
-[^ref1]:   Tottenham Hotspur. Remembering the legendary Walter Tull 106 years. 25 Mar. 2024. https://www.tottenhamhotspur.com/news/2024/march/remembering-the-legendary-walter-tull-106-years-on/  
-[^ref1]: Brimson, Dougie. Kicking Off: Why hooliganism and racism are killing football. Headline Publishing Group. 1 Jan. 2007. ISBN – 0755314360. https://www.amazon.co.uk/Kicking-Off-Hooliganism-Killing-Football/https://www.amazon.co.uk/Kicking-Off-Hooliganism-Killing-Football/dp/0755314360#:~:text=Book%20overview&text=Bestselling%20author%20and%20world%2Drenowned,involving%20England%20fans%20in%20Turkey.
-[^ref1]: Walter Tull: Forgotten Hero, Walter Tull - Forgotten Hero, 23:50 11/11/2020, BBC4, 60 mins. https://learningonscreen.ac.uk/ondemand/index.php/prog/00BE0995?bcast=133205649
-[^ref1]:   Tottenham Hotspur. Remembering the legendary Walter Tull 106 years. 25 Mar. 2024. https://www.tottenhamhotspur.com/news/2024/march/remembering-the-legendary-walter-tull-106-years-on/  
-[^ref1]:   The National Archives. Walter Tull. https://www.nationalarchives.gov.uk/education/resources/walter-tull/.
-[^ref1]:   The National Archives. Walter Tull. https://www.nationalarchives.gov.uk/education/resources/walter-tull/.
-[^ref1]:   Rangers Football Club. Walter Tull inducted into national football museum hall of fame. 21 Oct. 2021. https://www.rangers.co.uk/article/walter-tull-inducted-into-national-football-museum-hall-of-fame/1pAcvVVsGrAMqlgg2jSgnC.
-[^ref1]: Jones, Rich. Black History Month: Walter Tull. 29 Oct. 2021. https://www.forcesemployment.org.uk/news/black-history-month-introducing-walter-tull/.
+[^ref4]:   England and Wales Census, 1891", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q2FB-NT2 : Sun Mar 10 20:57:37 UTC 2024), Entry for Daniel Tull and Alice Tull, 1891.
+[^ref5]:   Mundella Primary School. “Walter Tull.” About us. https://www.mundella.kent.sch.uk/page/?title=About+Us&pid=3.
+[^ref6]:   Walter Tull: Forgotten Hero, Walter Tull - Forgotten Hero, 23:50 11/11/2020, BBC4, 60 mins. https://learningonscreen.ac.uk/ondemand/index.php/prog/00BE0995?bcast=133205649 
+[^ref7]:     Sky History. Walter Tull: The Tottenham Trailblazer and WW1 Hero. https://www.history.co.uk/article/historys-forgotten-people-walter-tull.
+[^ref8]:   Sky History. Walter Tull: The Tottenham Trailblazer and WW1 Hero. https://www.history.co.uk/article/historys-forgotten-people-walter-tull.
+[^ref9]:   Hern, Bill, and David Gleave. “Football’s Black Pioneers – Timeline.” Football’s Black Pioneers. https://footballs-black-pioneers.com/footballs-black-pioneers-timeline/.
+[^ref10]:   BBC. “Who was Walter Tull and what did he do?” Bitesize. https://www.bbc.co.uk/bitesize/articles/zbgxbdm#zk4ccmn.
+[^ref11]: Daniel, Peter. Crossing the white line: The Walter Tull story. https://claptonfc.com/wp-content/uploads/2014/04/WalterTTTbooklet.pdf.
+[^ref12]:   Tottenham Hotspur. Remembering the legendary Walter Tull 106 years. 25 Mar. 2024. https://www.tottenhamhotspur.com/news/2024/march/remembering-the-legendary-walter-tull-106-years-on/  
+[^ref13]: Brimson, Dougie. Kicking Off: Why hooliganism and racism are killing football. Headline Publishing Group. 1 Jan. 2007. ISBN – 0755314360. https://www.amazon.co.uk/Kicking-Off-Hooliganism-Killing-Football/https://www.amazon.co.uk/Kicking-Off-Hooliganism-Killing-Football/dp/0755314360#:~:text=Book%20overview&text=Bestselling%20author%20and%20world%2Drenowned,involving%20England%20fans%20in%20Turkey.
+[^ref14]: Walter Tull: Forgotten Hero, Walter Tull - Forgotten Hero, 23:50 11/11/2020, BBC4, 60 mins. https://learningonscreen.ac.uk/ondemand/index.php/prog/00BE0995?bcast=133205649
+[^ref15]:   Tottenham Hotspur. Remembering the legendary Walter Tull 106 years. 25 Mar. 2024. https://www.tottenhamhotspur.com/news/2024/march/remembering-the-legendary-walter-tull-106-years-on/  
+[^ref16]:   The National Archives. Walter Tull. https://www.nationalarchives.gov.uk/education/resources/walter-tull/.
+[^ref17]:   The National Archives. Walter Tull. https://www.nationalarchives.gov.uk/education/resources/walter-tull/.
+[^ref18]:   Rangers Football Club. Walter Tull inducted into national football museum hall of fame. 21 Oct. 2021. https://www.rangers.co.uk/article/walter-tull-inducted-into-national-football-museum-hall-of-fame/1pAcvVVsGrAMqlgg2jSgnC.
+[^ref19]: Jones, Rich. Black History Month: Walter Tull. 29 Oct. 2021. https://www.forcesemployment.org.uk/news/black-history-month-introducing-walter-tull/.
 
 
 
