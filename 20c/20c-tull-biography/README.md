@@ -1,8 +1,9 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Walter Tull" author="Liam Cohen" layout="vtl" 
-banner="xxx">
+banner="https://upload.wikimedia.org/wikipedia/commons/d/d8/Folkestone_Road_of_Remembrance_-_geograph.org.uk_-_4314416.jpg" label="Folkestone Road of Remembrance" attribution="Nigel Thompson" license="CC BY-SA 2.0">
 
 <param ve-entity eid="Q67479626" alias="Kent">
+Folkestone
 
 #
 
