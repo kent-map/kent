@@ -6,7 +6,8 @@ banner="xxx">
 
 #
 
-Daniel Tull, son of a formerly enslaved woman, Anna Tull, immigrated to Folkestone from Barbados in 1876.   He married Alice Palmer in 1880c. On 28th April 1888, Walter Daniel John Tull was born, the couple’s fifth child.  Walter was the third son of six children. Unfortunately, the oldest daughter Bertha died in infancy.
+Daniel Tull, son of a formerly enslaved woman, Anna Tull, immigrated to Folkestone from Barbados in 1876.   He married Alice Palmer in 1880. On 28th April 1888, Walter Daniel John Tull was born, the couple’s fifth child.  Walter was the third son of six children. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/The_West_Beach%2C_Folkestone.jpg" label="The West Beach, Folkestone" attribution="Nic Costa Archive, Postcard, via Wikimedia Commons" licence="CC BY-SA 4.0">
 
 Afro-Caribbean people had settled way before and after Slavery in Britain. That said, it was only a tiny proportion of the population. Most Afro-Caribbean people lived in major cities. Therefore, coming across an Afro-Caribbean person in a coastal town may have come as a shock to local white people. According to Sky History , the late 19th century was a time of rigid social divisions which led to deprivation. As a consequence, being a mixed-race Brit was difficult. Moreover, managing a household of seven led to a constrained start in life for the Tull children.
 
