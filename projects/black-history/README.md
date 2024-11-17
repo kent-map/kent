@@ -24,11 +24,20 @@ The son of an African chief, Albert Makaula White became a Methodist preacher, f
 
 ## A Sin of Omission
 
-[A Sin of Omission](/21c/21c-sin-of-omission/)
+[A Sin of Omission](/21c/21c-sin-of-omission)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/21c_Augustine_College.jpg)
 
 In her 2021 novel, A Sin of Omission, Marguerite Poland highlights the work carried out by Anglican missionaries in 19th century South Africa. During this time, many young men travelled from all over the world to study at Saint Augustine’s Missionary College in Canterbury.
+
+## Walter Tull
+
+[Walter Tull](/20c/20c-walter-tull-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/0d/The_West_Beach%2C_Folkestone.jpg)
+
+Born in Folkestone, Walter Tull played first-division football before joining the Football Battalion in the First World War. 
+
 
 ## Billy Waters
 
