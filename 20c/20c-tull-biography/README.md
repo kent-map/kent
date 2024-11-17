@@ -58,10 +58,10 @@ At the Somme, Walter and his comrades were under a constant barrage from the Ger
 [^ref9]: Hern, Bill, and David Gleave. “Football’s Black Pioneers – Timeline.” [Football’s Black Pioneers](https://footballs-black-pioneers.com/footballs-black-pioneers-timeline/).   
 [^ref10]:   BBC. “Who was Walter Tull and what did he do?” [Bitesize](https://www.bbc.co.uk/bitesize/articles/zbgxbdm#zk4ccmn).   
 [^ref11]: Daniel, Peter. [_Crossing the white line: The Walter Tull story_](https://claptonfc.com/wpcontent/uploads/2014/04/WalterTTTbooklet.pdf).   
-[^ref12]: Tottenham Hotspur. [Remembering the legendary Walter Tull 106 years] 25 Mar. 2024.  (https://www.tottenhamhotspur.com/news/2024/march/remembering-the-legendary-walter-tull-106-years-on/). 25 Mar. 2024.    
+[^ref12]: Tottenham Hotspur. [Remembering the legendary Walter Tull 106 years](https://www.tottenhamhotspur.com/news/2024/march/remembering-the-legendary-walter-tull-106-years-on/). 25 Mar. 2024.    
 [^ref13]: Brimson, Dougie. _Kicking Off: Why hooliganism and racism are killing football._ Headline Publishing Group, 2007. 
-[^ref14]: [Walter Tull: Forgotten Hero, Walter Tull - Forgotten Hero](https://learningonscreen.ac.uk/ondemand/index.php/prog/00BE0995?bcast=133205649), 23:50 11/11/2020, BBC4, 60 mins. 
-[^ref15]: Tottenham Hotspur. [Remembering the legendary Walter Tull 106 years] 25 Mar. 2024.  
+[^ref14]: [Walter Tull: Forgotten Hero, Walter Tull - Forgotten Hero](https://learningonscreen.ac.uk/ondemand/index.php/prog/00BE0995?bcast=133205649), 23:50 11/11/2020, BBC4, 60 mins.   
+[^ref15]: Tottenham Hotspur. [Remembering the legendary Walter Tull 106 years]((https://www.tottenhamhotspur.com/news/2024/march/remembering-the-legendary-walter-tull-106-years-on/) 25 Mar. 2024.  
 [^ref16]: The National Archives. [_Walter Tull_](https://www.nationalarchives.gov.uk/education/resources/walter-tull/).
 [^ref17]: ibid.
 [^ref18]: Rangers Football Club. [_Walter Tull inducted into national football museum hall of fame_](https://www.rangers.co.uk/article/walter-tull-inducted-into-national-football-museum-hall-of-fame/1pAcvVVsGrAMqlgg2jSgnC). 21 Oct. 2021.    
