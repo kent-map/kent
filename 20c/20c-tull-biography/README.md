@@ -13,15 +13,16 @@ Afro-Caribbean people had settled way before and after Slavery in Britain. That 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/The_West_Beach%2C_Folkestone.jpg" label="The West Beach, Folkestone" attribution="Nic Costa Archive, Postcard, via Wikimedia Commons" licence="CC BY-SA 4.0">
 
 Walter grew up on Allendale Street, just a seven-minute walk from Radnor Park.[^ref4]  He attended the North Board School (now Mundella Primary School), where students are taught about him today.[^ref5]  Unfortunately, Alice Tull died when Walter was six.[^ref6]  Daniel remarried to Clara Palmer, Alice's cousin. On 11th September 1897, Miriam Tull was born. However, just three months later, Daniel died. Unable to cope with all the children, Clara acted upon the advice of a local minister and sent Walter and his older brother Edward into care. 
-<param ve-map url="51.08727413483015, 1.1768469612777699" zoom="15">
+<param ve-map center="51.08727413483015, 1.1768469612777699" zoom="15">
 
 Walter and Edward were sent to a Methodist children's home in Bethnal Green, London. Before their arrival, the charity in charge of organising their re-housing informed the home:
 <br><br>
 "The father of these children was a negro, and they are consequently coloured children," their letter read. "I do not know if you are aware of this or whether it will in any way affect the application?"[^ref7]
 <br><br>
 The orphanage's management did not care what colour the boys were.[^ref8]  Having grown up in the Church, the Tull boys were excellent singers. At the end of 1900, Edward was spotted in the orphanage's touring choir and was adopted by a Scottish family.
-
+<br><br>
 After Edward’s adoption, Walter became more reclusive. He found solace in sports, particularly football. Only two Afro-Caribbean players, Arthur Wharton from Ghana and Willie Clarke from Scotland, had played in the English football leagues before Walter.[^ref9]  Given the circumstances, Walter chose to become an apprentice at a local printers’ after he finished school.[^ref10]  Just over 100 years later, 52% of England's Euro 2024 squad were of Afro-Caribbean descent.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Arthur_Wharton_c1896.jpg" label="Arthur Wharton c. 1896" attribution="1, Public domain, via Wikimedia Commons">
 
 At 20, Walter joined the highly successful amateur side Clapton FC.[^ref11]  His skills shone immediately, and he possessed a superb attacking threat as a striker. In his first and only season for Clapton, they won the FA Amateur Cup (now the FA Vase). Walter had caught the interest of first-division side (now the Premier League) Tottenham Hotspur.  Initially signed on amateur forms in March 1909, Walter impressed in trial matches for both the first team and the reserves, earning him a place on the South American tour in June 1909. On his return, Walter signed a professional contract with Spurs, making him the first English born Afro-Caribbean player in the English football leagues. He was paid a £10 signing-on fee, which was the maximum allowable at the time and wages of £4 per week.[^ref12] 
 
