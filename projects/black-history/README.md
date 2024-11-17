@@ -14,6 +14,14 @@ Reclaiming narratives is a call to action for Black communities across the UK to
 
 William Cuffay, tailor and Chartist was born at Brompton near Chatham. He became the President of the London Chartists. 
 
+## Albert Makaula White
+
+[Albert Makaula White](/20c/20c-makaula-white-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://commons.wikimedia.org/wiki/File:Ploughing._754_(NBY_419452).jpg)
+
+The son of an African chief, Albert Makaula White became a Methodist preacher, farmer and freemason in Kent and delighted his listeners with tales of his childhood.
+
 ## A Sin of Omission
 
 [A Sin of Omission](/21c/21c-sin-of-omission/)
