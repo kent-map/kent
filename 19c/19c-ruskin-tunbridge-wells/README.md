@@ -1,5 +1,9 @@
-John Ruskin
-Chris Jones
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="John Ruskin" author="Chris Jones" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+
+<param ve-entity eid="Q665489" aliases="Tunbridge Wells">
+
+#
 
 John Ruskin, art critic, architectural theorist, social commentator and educationalist visited Tunbridge Wells in February 1858 to lecture at the Sussex Hotel. At the beginning of his talk, Ruskin explained that he had visited the town, which he called ‘my Switzerland’, in his childhood and recalled climbing on 'sandstone cliffs of stupendous height above the common'.
 
