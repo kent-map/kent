@@ -11,7 +11,7 @@ Daniel Tull, son of a formerly enslaved woman, Anna Tull, immigrated to Folkesto
 Afro-Caribbean people had settled way before and after Slavery in Britain. That said, it was only a tiny proportion of the population. Most Afro-Caribbean people lived in major cities. Therefore, coming across an Afro-Caribbean person in a coastal town may have come as a shock to local white people. The late 19th century was a time of rigid social divisions which led to deprivation.[^ref3] As a consequence, being a mixed-race Brit was difficult. Moreover, managing a household of seven led to a constrained start in life for the Tull children.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/The_West_Beach%2C_Folkestone.jpg" label="The West Beach, Folkestone" attribution="Nic Costa Archive, Postcard, via Wikimedia Commons" licence="CC BY-SA 4.0">
 
-Walter grew up on Allendale Street, just a seven-minute walk from Radnor Park.[^ref4]  He attended the North Board School (now Mundella Primary School), where students are taught about him today.[^ref5]  Unfortunately, Alice Tull died when Walter was six.[^ref6]  Daniel remarried to Clara Palmer, Alice's cousin. On 11th September 1897, Miriam Tull was born. However, just three months later, Daniel died. Unable to cope with all the children, Clara acted upon the advice of a local minister and sent Walter and his older brother Edward into care. 
+Walter grew up on Allendale Street, just a seven-minute walk from Radnor Park.[^ref4]  He attended the North Board School (now Mundella Primary School), where students are taught about him today.[^ref5]  Unfortunately, Alice Tull died when Walter was six.[^ref6]  Daniel married again. His second wife, Clara Palmer, was Alice's cousin. On 11th September 1897, Miriam Tull was born. However, just three months later, Daniel died. Unable to cope with all the children, Clara acted upon the advice of a local minister and sent Walter and his older brother Edward into care. 
 <param ve-map center="51.08727413483015, 1.1768469612777699" zoom="15">
 
 Walter and Edward were sent to a Methodist children's home in Bethnal Green, London. Before their arrival, the charity in charge of organising their re-housing informed the home:
@@ -66,3 +66,4 @@ At the Somme, Walter and his comrades were under a constant barrage from the Ger
 [^ref17]: ibid.
 [^ref18]: Rangers Football Club. [_Walter Tull inducted into national football museum hall of fame_](https://www.rangers.co.uk/article/walter-tull-inducted-into-national-football-museum-hall-of-fame/1pAcvVVsGrAMqlgg2jSgnC). 21 Oct. 2021.    
 [^ref19]: Jones, Rich. [Black History Month: Walter Tull](https://www.forcesemployment.org.uk/news/black-history-month-introducing-walter-tull/) 29 Oct. 2021.   
+[^ref20]: 
