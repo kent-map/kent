@@ -5,7 +5,7 @@
 
 #
 
-John Ruskin, art critic, architectural theorist, social commentator and educationalist visited Tunbridge Wells in February 1858 to lecture at the Sussex Hotel. At the beginning of his talk, Ruskin explained that he had visited the town, which he called ‘my Switzerland’, in his childhood and recalled climbing on 'sandstone cliffs of stupendous height above the common'.
+John Ruskin, art critic, architectural theorist, social commentator and educationalist visited Tunbridge Wells in February 1858 to lecture at the Sussex Hotel. At the beginning of his talk, Ruskin explained that he had visited the town, which he called ‘my Switzerland’, in his childhood and recalled climbing on 'sandstone cliffs of stupendous height above the common'.[^ref1]
 
 Ruskin had grown up in Herne Hill South London a suburb that had much in common with Tunbridge Wells a picturesque setting and a population of wealthy commercial incomers. His father was a successful wine merchant but was dogged by social insecurity. As a wine merchant he felt superior to the linen drapers and cheesemongers who lived around him though he was very aware that many were wealthier than him yet from a wider perspective, others would consider that he too was in trade.
 <br><br>
@@ -31,6 +31,6 @@ This article is adapted from "The Work of Iron, in Nature, Art, and Policy" by C
 
 ### References
 
-Ruskin, John. "The Work of Iron, in Nature, Art, and Policy: A Lecture Delivered at Tunbridge Wells, February 16, 1858." _Change Over Time_ 6.1 (2016): 72-91.
-Reflections of a friendship : John Ruskin's letters to Pauline Trevelyan 1848-1866, p.159
+[^ref1]: Ruskin, John. "The Work of Iron, in Nature, Art, and Policy: A Lecture Delivered at Tunbridge Wells, February 16, 1858." _Change Over Time_ 6.1 (2016): 72-91.
+[^ref2]: Reflections of a friendship : John Ruskin's letters to Pauline Trevelyan 1848-1866, p.159
 
