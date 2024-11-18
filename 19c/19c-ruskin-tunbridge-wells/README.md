@@ -12,7 +12,7 @@ Ruskin had grown up in Herne Hill South London a suburb that had much in common 
 Ruskin was 39 when he came to Tunbridge Wells. He was by then a well-known writer and commentator. The lecture was said to have been attended by 'perhaps the most fashionable audience' ever assembled there, though it was organised by the Useful Knowledge Institution, a sort of self-improvement group that had grown out of an earlier Mechanics Institution.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/78/John_Ruskin_self_portrait_1861.jpg" label="John Ruskin" attribution="Self Portrait, Public domain, via Wikimedia Commons">
 
-Three years earlier, Ruskin had come to Tunbridge Wells for his health and stayed with his cousin, William Richardson, a doctor at the General Hospital on Grosvenor Rd. Thomas Carlyle had recommended Tunbridge Wells as a 'place of airy expanses ... where the wind blows free about one'; though another friend Pauline Trevelyan considered it 'an odious place ... how can you go there?'
+Three years earlier, Ruskin had come to Tunbridge Wells for his health and visited his cousin, William Richardson, a doctor at the General Hospital on Grosvenor Rd. Thomas Carlyle had recommended Tunbridge Wells as a 'place of airy expanses ... where the wind blows free about one'; though another friend, Pauline Trevelyan, considered it 'an odious place ... how can you go there?'
 
 Richardson who lived on Mount Ephraim Rd, was a member of the Useful Knowledge Institution and had invited Ruskin to speak. Ruskin had been lecturing for some time at the workings men college in London and a commentator has suggested that he felt more at ease when addressing audiences of a lower social standing, young people, women and girls, and working-class men. The audience of 400 was larger than usual, and may have included some of the wealthier inhabitants yet Ruskin seems to have been determined to address social issues as much as art.
 
@@ -24,4 +24,12 @@ The section on 'Iron in Policy' was even more political. It was built around 3 i
 <br><br>
 To many in the audience it probably resonated uncomfortably with recent events in the town. It was a time of distress among the working population. Earlier that month there had been a demonstration of unemployed men outside the town hall seeking work. Triggered by this, Canon Hoare had called a meeting and a 'Labour Fund Committee' was formed to find useful ways of employing them. This caused some anguish to the editor of _The Gazette_. While approving of such schemes in general, he regretted that action had not been taken earlier - it would now look as though they were responding to threats.
 
+Ruskin visited Tunbridge Wells again in August 1860 and complained of being disturbed by seeing "a steam engine devouring a wheat stack at Tunbridge Wells and hearing it growling over its prey a mile and a quarter down the valley"[^ref2] Thus, the law of nature that he sought to preserve was overturned by the mechanisation of agriculture.
+<br><br>
+This article is adapted from "The Work of Iron, in Nature, Art, and Policy" by Chris Jones, published by the Tunbridge Wells Civic Society. YOu can also read about Ruskin's associations with [Sandgate](/placeskz/sandgate-overview/).
+
+### References
+
+Ruskin, John. "The Work of Iron, in Nature, Art, and Policy: A Lecture Delivered at Tunbridge Wells, February 16, 1858." _Change Over Time_ 6.1 (2016): 72-91.
+Reflections of a friendship : John Ruskin's letters to Pauline Trevelyan 1848-1866, p.159
 
