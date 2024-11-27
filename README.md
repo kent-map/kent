@@ -44,14 +44,6 @@ Paul Nash was a war artist and photographer who became an important influence in
 # Essays by Period 
 `.cards`
 
-## Roman
-
-[Roman](roman)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Roman.jpg)
-
-After the Roman invasion in AD43 to the end of Roman rule in the early fifth century, Kent played a vital role in connecting Britain to the Roman Empire.  
-
 ## Medieval
 
 [Medieval](medieval)
