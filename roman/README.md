@@ -1,6 +1,6 @@
 `ve-header title="Roman" background=gh:kent-map/images/roman/roman.yaml .sticky`
 
-Roman
+After the Roman invasion in AD43 to the end of Roman rule in the early fifth century, Kent played a vital role in connecting Britain to the Roman Empire.  
 
 # &nbsp; 
 `.cards`
