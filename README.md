@@ -33,6 +33,14 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends.
 
+## Paul Nash
+
+[Paul Nash](/20c/20c-nash-biography)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Paul_Nash.jpg)
+
+Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. 
+
 # Essays by Period 
 `.cards`
 
