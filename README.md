@@ -33,6 +33,14 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends.
 
+## Paul Nash
+
+[Paul Nash](/20c/20c-nash-biography)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/artists_Paul_Nash.jpg)
+
+Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. 
+
 # Essays by Period 
 `.cards`
 
@@ -315,6 +323,14 @@ To accompany the Inspirational Kent Women Writers event held by the Centre for K
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/cohen_family.jpg)
 
 Black History Month 2024 encourages the Black community to reclaim the narratives of the past. Read these articles to find out more.
+
+## Dover at Night
+
+[Dover at Night](/placesad/dover-at-night)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night.jpg)
+
+To celebrate Dover at Night, Kent Maps Online have written an article about Dover as depicted in literature, where smuggling, assignations and abductions occur along its moonlit shore.
 
 ## Duke of Edinburgh Project
 
