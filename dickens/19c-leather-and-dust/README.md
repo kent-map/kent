@@ -7,12 +7,12 @@
 #
 
 David Copperfield's [curated walk](/dickens/david-copperfield-curated-walkk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can [smell](https://vimeo.com/408543370/5eccb2722a) as he enters rural Kent or quite why his feet are so damaged by the journey's end.
-<param ve-map-layer geojson active eid="dickens:dover-road" title="Dover Road" url="https://raw.githubusercontent.com/kent-map/kent/main/geojson/david-copperfield-dover-road.json">
-
+<br><br>
 Maps can show us the route, but what of the road itself? We can surmise something from what we know about road surfaces during this period and mismanagement in an era that had turnpikes. As David leaves [Canterbury](/dickens/david-copperfield-curated-walk), he is likely to be on road surfaces that are well kept, the city is  paved and cobbled. There are even accounts in 1838 of bitumen pavements in Canterbury. So, this part of the journey might be relatively easy compared with what he would encounter further on. The Victorian image of the cobbled road quickly fades to a road surface called McAdam. This type of road surface was cheaper and easier to lay and maintain. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg" label="David reaches Canterbury" attribution="Artwork by Frank Reynolds (1876-1853), Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Canterbury%2C_Mercery_Lane.jpg" label="Canterbury, Mercery Lane" description="Canterbury, Mercery Lane (2011)" license="Palickap, CC BY-SA 3.0, via Wikimedia Commons">
 <param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-map-layer geojson active eid="dickens:dover-road" title="Dover Road" url="https://raw.githubusercontent.com/kent-map/kent/main/geojson/david-copperfield-dover-road.json">
 <param ve-map center="Q29303" zoom="13">
 
 Invented by John Loudon McAdam, this was a type of road surface that consisted of angular stones which bind together better than rounded. Each stone was a specific size (7.5cm in modern metric terms) to (5cm top layer). This made an easy ride for carts etc and traffic would create a dust that would further bind the stone. When this method was first used each stone was broke into size by hand. The navvies would keep the size correct by the rule that each stone could fit into a man’s mouth, that or the foreman would use a gauge. In summer (when David is on his walk to Dover) it can get quite dusty, mixed with track road and poorly built of kept McAdam. One can well imagine why he was in such a state on arrival at his aunt’s. 
