@@ -32,7 +32,7 @@ In her 2021 novel, A Sin of Omission, Marguerite Poland highlights the work carr
 
 ## Walter Tull
 
-[Walter Tull](/20c/20c-walter-tull-biography)
+[Walter Tull](/20c/20c-tull-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/0d/The_West_Beach%2C_Folkestone.jpg)
 
