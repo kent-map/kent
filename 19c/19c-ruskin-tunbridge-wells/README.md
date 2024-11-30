@@ -26,7 +26,7 @@ To many in the audience it probably resonated uncomfortably with recent events i
 
 Ruskin visited Tunbridge Wells again in August 1860, staying at Calverley Hotel, and complained of being disturbed by seeing "a steam engine devouring a wheat stack at Tunbridge Wells and hearing it growling over its prey a mile and a quarter down the valley"[^ref2] Thus, the law of nature that he sought to preserve were overturned by the mechanisation of agriculture.
 <br><br>
-This article is adapted from "The Work of Iron, in Nature, Art, and Policy" by Chris Jones, published by the Tunbridge Wells Civic Society. YOu can also read about Ruskin's associations with [Sandgate](/placeskz/sandgate-overview/).
+This article is adapted from "The Work of Iron, in Nature, Art, and Policy" by Chris Jones, published by the Tunbridge Wells Civic Society. You can also read about Ruskin's associations with [Sandgate](/placeskz/sandgate-overview/).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/71/Calverleyhotel.jpg" label="Calverley Hotel, Tunbridge Wells, 1860" attribution="Rock & Co, Public domain, via Wikimedia Commons">
 
 ### References
