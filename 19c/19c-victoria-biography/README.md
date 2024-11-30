@@ -16,15 +16,10 @@
 #
 
 Queen, Empress of India, writer. Her father was the Duke of Kent.   
-<br>
-Stayed at Ramsgate in Albion House 29 Sept 1835 – 11th Jan 1836 with her mother.   
-<br>
-Stayed again 30th Sept 1836 – 29 Nov 1836 in West Cliff including overnight stay at an inn in Rochester.  
-<br>
+Victoria stayed at Ramsgate in Albion House 29 Sept 1835 – 11th Jan 1836 with her mother.   
+She stayed again 30th Sept 1836 – 29 Nov 1836 in West Cliff including overnight stay at an inn in Rochester.  
 Visited Dover with Albert and two children and stays at Walmer Castle (10th Nov 1842 – 3rd Dec 1842).   
-<br>
 Visited Military Hospital in Chatham 1855 and 1856 (day trips).       
-<br>
 She wrote a detailed diary throughout her life of which 141 volumes survive, numbering 43,765 pages.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/45/Queen_Victoria_as_a_young_woman%2C_by_F.W._Wilkin_Wellcome_L0012031.jpg" label="Queen Victoria as a young woman, by F.W. Wilkin" attribution="Wellcome Collection Attribution 4.0 International (CC BY 4.0), via Wikimedia Commons">
 
