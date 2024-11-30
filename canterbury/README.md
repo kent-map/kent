@@ -39,7 +39,7 @@ In view of the rich heritage of Christian learning it is not surprising that in 
 
 ## Canterbury Floods
 
-[Canterbury Floods](/canterbury/20c-canterbury-overview)
+[Canterbury Floods](/canterbury/20c-canterbury-floods)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
 
