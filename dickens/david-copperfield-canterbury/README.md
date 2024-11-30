@@ -9,8 +9,8 @@ _David Copperfield_
 
 When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
 very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below.,[^ref1]
-<param ve-compare curtain url="https://stor.artstor.org/stor/0da84cd3-3704-45d2-b301-bb44a60a7d45" label="House of Agnes">
-<param ve-compare url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="House of Agnes, 2021" attribution="Nat Lowden and Sara Gelencer" license="In Copyright">
+<param ve-compare curtain url="https://stor.artstor.org/stor/d4255b03-4d19-411c-b6b5-cd6e7632fe73" label="House of Agnes">
+<param ve-compare url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="House of Agnes, 2021" attribution="Nat Lowden and Sara Gelencer">
   
 It is here that the Wickfields live and from where David begins his new career as a student at Dr Strong’s Academy, widely believed to be based on the [King’s School](http://www.kings-archives.co.uk/books-about-kings/memories-of-kings/charles-dickens-david-copperfield/). A great relief after Salem House, David describes it as:
 a grave building in a courtyard, with a learned air about it that seemed very well suited to the stray rooks and jackdaws who came down from the Cathedral towers to walk with a clerkly bearing on the grass-plot…[^ref2]
