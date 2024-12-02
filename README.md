@@ -13,7 +13,7 @@ Kent Maps Online is an interactive Digital Humanities project exploring the coun
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Mobile_Landscapes.jpg)
 
-You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie.
+You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey.
 
 
 ## H.G.Wells
@@ -22,7 +22,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Wells1.jpg)
 
-“This bus it was, this ruddy, venerable and, under God's mercy, immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe, and out into the windy spaces of the Marsh, with Kipps and all his fortunes on its brow. You figure him there.” Kipps.
+“This bus it was, this ruddy, venerable and, under God's mercy, immortal bus, that came down the Folkestone hill with unflinching deliberation, and trundled through Sandgate and Hythe.”
 
 
 ## Derek Jarman
@@ -31,7 +31,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Jarman1.jpg)
 
-It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh – the ‘fifth continent’ of the Ingoldsby Legends.
+It isn’t perhaps surprising that Derek Jarman should have fallen in love with Dungeness and Prospect Cottage in particular when happenstance and a desire for fish and chips at the Pilot Inn brought him to Romney Marsh.
 
 ## Paul Nash
 
