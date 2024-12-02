@@ -263,16 +263,6 @@ On the frontline of England's defence, Kent has played a pivitol role when faced
 
 Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park.
 
-
-## Joseph Conrad
-
-[Joseph Conrad](19c/19c-conrad-biography)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/joseph_conrad1.jpg)
-
-Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century, lived the last decades of his life in Bishopsbourne, a village about six miles south of Canterbury.
-
-
 ## Charles Dickens
 
 [Charles Dickens](dickens)
