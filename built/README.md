@@ -57,7 +57,7 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 [Medway Megaliths](/built/megaliths)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Kits_Coty.JPG)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/kits_coty.JPG)
 
 According to local folklore, the Saxon mercenaries Hengist and Horsa are said to be buried at the Kit’s Coty House and the close by White Horse Stone.
 
