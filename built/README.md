@@ -53,6 +53,14 @@ The Invicta Park Barracks which currently houses 36 Engineer Regiment, Royal Eng
 
 Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. It was unearthed during archaeological excavations undertaken in the late 1940s to early 1960s.
 
+## Folklore and the Blue Bell Hill Megaliths
+
+[Medway Megaliths](/built/megaliths)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/built_Lullingstone_Roman_Villa.jpg)
+
+According to local folklore, the Saxon mercenaries Hengist and Horsa are said to be buried at the Kit’s Coty House and the close by White Horse Stone.
+
 ## Piers
 
 [Piers](/built/piers)
