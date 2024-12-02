@@ -289,14 +289,6 @@ From Rochester to Broadstairs on the East coast – wherever you go you can be f
 
 After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside town of Margate to recover. It was there he wrote “The Fire Sermon,” part three of the hugely influential poem 'The Waste Land'. He wrote to Sydney Schiff from the Albemarle Hotel, Cliftonville: “I have done a rough draft .. but I do not know whether it will do.”
 
-## Edith Nesbit
-
-[Edith Nesbit](nesbit)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/edith_nesbit1.jpg)
-
-English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of Halstead, in the Sevenoaks District of Kent. Several of her best-loved stories for children include descriptions of her childhood home.
-
 ## Vita Sackville-West
 
 [Vita Sackville-West](20c/20c-sackville-west-biography)
