@@ -487,6 +487,14 @@ Dr Jacquie Stamp has completed a PhD in English Literature at Canterbury Christ 
 
 Marnie Stanley is a student at Canterbury Christ Church University. 
 
+## Carolin Sternberg
+
+[Carolin Sternberg]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/55d0dee7-3d6b-4713-a042-7a87a4acf73e)
+
+Carolin Sternberg is a PhD student at the University of Vechta, Germany. Her current research focuses on the representation of criminal characters in penny bloods and penny dreadfuls. Her other research interests include London’s East End, the Victorian working class, and children’s literature.
+
 ## Rose Storkey
 
 [Rose Storkey]()

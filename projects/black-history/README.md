@@ -18,7 +18,7 @@ William Cuffay, tailor and Chartist was born at Brompton near Chatham. He became
 
 [Albert Makaula White](/20c/20c-makaula-white-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://commons.wikimedia.org/wiki/File:Ploughing._754_(NBY_419452).jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/722ee74c-ffcd-41f4-b25d-668fed8be471)
 
 The son of an African chief, Albert Makaula White became a Methodist preacher, farmer and freemason in Kent and delighted his listeners with tales of his childhood.
 

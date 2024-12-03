@@ -331,7 +331,7 @@ During the Covid pandemic, Kent Maps Online offered remote volunteering and skil
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/double_double1.jpg)
 
-It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition who come in search of a venue for an “open-air freakout,” and find a beach with white cliffs. 
+It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition who come in search of a venue for an “open-air freakout”. 
 
 ## In Darkest London
 
@@ -347,7 +347,7 @@ Although Margaret Harkness’s novel _In Darkest London_ (1889) primarily takes 
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/miss_balmaines_past1.jpg)
 
-Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Horton'. Rosamund Balmaine finds love when Ronald Gordon arrives to survey the area for a new railway. However, conniving relatives conspire to keep the couple apart.
+Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Horton'. Rosamund Balmaine finds love when Ronald Gordon arrives to survey the area for a new railway. 
 
 
 ## Shepherds in Sackcloth
@@ -356,7 +356,7 @@ Bithia Croker's novel is set on the Romney Marshes in the fictional town of 'Hor
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/shepherds_in_sackcloth1.jpg)
 
-Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called Newenden.
+Delmonden is a village in Kent that doesn’t actually exist except in Shepherds In Sackcloth by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; Newenden.
 
 ```
 ve-footer
