@@ -22,6 +22,7 @@ In addition to the generally rather negative perception of the Londoners by both
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1c/Hop-pickers_%28gypsies_and_greyhounds%29%29.jpg" label="Hop pickers - gypsies and greyhounds" attribution="Alfred Munnings, Public domain, via Wikimedia Commons">
 
 The loss of a sheep is serious; but the death of a hop-picker matters to no one” (153). Building on the analogy between a herd of sheep and the group of hop-pickers as a seemingly indistinguishable mass without any individuality or agency, the narrator ultimately conveys social criticism of the treatment of the urban working class. Overall, the brief change of scenery from London’s East End to Kent’s countryside in Harkness’s _In Darkest London_ further emphasises the social stigmatisation of the urban working class by contrasting the beauty and purity of nature with the perceived sinfulness of the city.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Alexander_Mann_-_Hop_Pickers_Returning_1883.jpg" label="Hop Pickers Returning, 1883" attribution="Alexander Mann, Public domain, via Wikimedia Commons">
 
 ### Bibliography
 Harkness, Margaret. _In Darkest London_. Cambridge: Black Apollo Press, 2003. 
