@@ -333,6 +333,14 @@ During the Covid pandemic, Kent Maps Online offered remote volunteering and skil
 
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition who come in search of a venue for an “open-air freakout,” and find a beach with white cliffs. 
 
+## In Darkest London
+
+[In Darkest London](19c/19c-harkness-darkest)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Hop_pickers.jpg
+
+Although Margaret Harkness’s novel In Darkest London (1889) primarily takes the reader through the most destitute slums of London, depicting the work of the Salvation Army with a focus on London’s East End, it also includes a “holiday” in Kent. 
+
 ## Miss Balmaine's Past
 
 [Miss Balmaine's Past](19c/19c-croker-missbalmaine)
