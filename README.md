@@ -337,9 +337,9 @@ It was 1969, and in the fictional coastal North Kent town of Brindown, things wo
 
 [In Darkest London](19c/19c-harkness-darkest)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Hop_pickers.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/22b087f4-554d-47c2-8131-3582d178ad1f)
 
-Although Margaret Harkness’s novel In Darkest London (1889) primarily takes the reader through the most destitute slums of London, depicting the work of the Salvation Army with a focus on London’s East End, it also includes a “holiday” in Kent. 
+Although Margaret Harkness’s novel _In Darkest London_ (1889) primarily takes the reader through the most destitute slums of London, it also includes a “holiday” in Kent. 
 
 ## Miss Balmaine's Past
 
