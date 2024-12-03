@@ -168,7 +168,7 @@ From the Railway Children to Rupert Bear, Kent has been in the inspiration for m
 
 It turns out Kent may be a more dangerous place than you realised (at least in the imaginations of writers).
 
-## Landscapes
+## Literary Landscapes
 
 [Landscapes](landscape)
 

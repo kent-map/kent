@@ -69,6 +69,14 @@ One day Barney tumbles into an old chalk pit that is used as a local dumping gro
 
 To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages went 'hopping'.
 
+## In Darkest London
+
+[In Darkest London](19c/19c-harkness-darkest)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Hop_pickers.jpg)
+
+Although Margaret Harkness’s novel In Darkest London (1889) primarily takes the reader through the most destitute slums of London, depicting the work of the Salvation Army with a focus on London’s East End, it also includes a “holiday” in Kent. 
+
 ## S.C. Nethersole
 
 [S.C. Nethersole](/20c/20c-nethersole-biography)
