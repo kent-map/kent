@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="In Darkest London by Margaret Harkness" author="Carolin Sternberg" layout="vtl" 
+<param ve-config title="A Hop-Picking Holiday in Kent in Margaret Harkness’s In Darkest London”" author="Carolin Sternberg" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Carolin Sternberg outlines the plot of 'In Darkest London' written by Margaret Harkness">
 
 <!-- Historical map layers -->

@@ -333,7 +333,7 @@ During the Covid pandemic, Kent Maps Online offered remote volunteering and skil
 
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition who come in search of a venue for an “open-air freakout”. 
 
-## In Darkest London
+## A Hop-Picking Holiday in Kent in Margaret Harkness’s In Darkest London
 
 [In Darkest London](19c/19c-harkness-darkest)
 
