@@ -1,13 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Jacqueline Winspear (b. 1955-  )" author="xxx" layout="vtl" banner="https://stor.artstor.org/stor/2251af4a-a56d-45f0-b9b1-361ba46aaf4d">
 
-<param ve-entity eid="Q3039291" aliases="Dreamland">
-<param ve-entity eid="Q507517" aliases="Rochester">
-<param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q922739" aliases="Broadstairs">
-<param ve-entity eid="Q618045" aliases="Margate">
-<param ve-entity eid="Q736439" aliases="Ramsgate">
-<param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q179224" aliases="Dover">
 
 #
