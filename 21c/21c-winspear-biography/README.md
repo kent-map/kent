@@ -42,27 +42,15 @@ In the seventh Maisie Dobbs novel, _Mapping of Love and Death_  (2010), Kent’s
 **Closing Summary:** 
 Although Winspear didn't begin her historical fiction-writing until her mid-40s, her Maisie Dobbs novels series proved an overnight success. The first book, published in 2003, became a national best-seller, and Winspear went on to win several prestigious prizes for novels within this series. While creating these works, she not only drew upon her vivid memories of Kent but also returned there frequently.  So many details within these works as well as her autobiographical writings convey her profound attachment to this area, and her set of eighteen novels vividly portrays the social, economic and psychological realities faced by women, men and children in Kent within the post WWI and WWII years. 
 
+### References:
 
-
-
-
-
-
-
-
-
-
-References:
-
-Winspear, Jacqueline. A Dangerous Place (Book Eleven). Harper/Perennial, 2016.
-Winspear, Jacqueline. An Incomplete Revenge (Book Five). Henry Holt, 2008.
-Winspear, Jacqueline. Birds of a Feather (Book Two). Soho Press, 2004; John Murray, 2005.
-Winspear, Jacqueline. Maisie Dobbs (Book One). Soho Press Inc, 2003; John Murray, 2004.
-Winspear, Jacqueline. Mapping of Love and Death (Book Seven). Harper/Perennial, 2010
-Winspear, Jacqueline. This Time Next Year We’ll Be Laughing: a Memoir. 
-       Soho Press Inc, 2020)
-Winspear, Jacqueline. What Would Maisie Do? Inspiration from the Pages of Maisie Dobbs.
-       Harper/Perennial/ HarperCollins Publishers, 2019.
+Winspear, Jacqueline. _A Dangerous Place_ (Book Eleven). Harper/Perennial, 2016.   
+Winspear, Jacqueline. _An Incomplete Revenge_ (Book Five). Henry Holt, 2008.   
+Winspear, Jacqueline. _Birds of a Feather_ (Book Two). Soho Press, 2004; John Murray, 2005.   
+Winspear, Jacqueline. _Maisie Dobbs_ (Book One). Soho Press Inc, 2003; John Murray, 2004.   
+Winspear, Jacqueline. _Mapping of Love and Death_ (Book Seven). Harper/Perennial, 2010.   
+Winspear, Jacqueline. _This Time Next Year We’ll Be Laughing: a Memoir._ Soho Press Inc, 2020.   
+Winspear, Jacqueline. _What Would Maisie Do? Inspiration from the Pages of Maisie Dobbs._ Harper/Perennial/ HarperCollins Publishers, 2019.   
            
 
 
