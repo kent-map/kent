@@ -1,4 +1,16 @@
-Jacqueline Winspear (b. 1955-  )
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="Jacqueline Winspear (b. 1955-  )" author="xxx" layout="vtl" banner="https://stor.artstor.org/stor/2251af4a-a56d-45f0-b9b1-361ba46aaf4d">
+
+<param ve-entity eid="Q3039291" aliases="Dreamland">
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q922739" aliases="Broadstairs">
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q179224" aliases="Dover">
+
+#
 
 Although Jacqueline Winspear moved to the U.S. at the age of thirty-five, Kent pervades her childhood, adolescence and early adulthood and provides prominent settings in her renowned and award-winning Maisie Dobbs series, a set of eighteen historical mystery-detective novels featuring a woman ahead of her time who is a psychologist-investigator. While these novels take place during a period from 1929 to 1945, they frequently gain depth and meaning through flashbacks to World War One experiences. 
 
