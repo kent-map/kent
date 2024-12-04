@@ -11,6 +11,7 @@
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q7416406" aliases="Sandling">
 <param ve-entity eid="Q894097" aliases="Tunbridge Wells">
+<param ve-entity eid="Q3243365" aliases="Hartley">
 
 
 #
