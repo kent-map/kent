@@ -58,8 +58,7 @@ As Maisie drives along to Hawkhurst as a part of her investigations, she goes �
 
 In the seventh Maisie Dobbs novel, _Mapping of Love and Death_  (2010), Kent’s Chatham’s School of Military Engineering and Chatham Dockyards (Naval base in the Napoleonic Wars) play a part, and once again we follow Maisie as she travels from London southward on the Old Kent Road. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Entrance_to_Royal_School_of_Military_Engineering_-_geograph.org.uk_-_517998.jpg" label="Danny Robinson, via Wikimedia Commons" license="CC BY-SA 2.0">
-
-**Closing Summary:** 
+<br><br>
 Although Winspear didn't begin her historical fiction-writing until her mid-40s, her Maisie Dobbs novels series proved an overnight success. The first book, published in 2003, became a national best-seller, and Winspear went on to win several prestigious prizes for novels within this series. While creating these works, she not only drew upon her vivid memories of Kent but also returned there frequently.  So many details within these works as well as her autobiographical writings convey her profound attachment to this area, and her set of eighteen novels vividly portrays the social, economic and psychological realities faced by women, men and children in Kent within the post WWI and WWII years. 
 
 ### References:
