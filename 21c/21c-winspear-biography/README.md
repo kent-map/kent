@@ -30,11 +30,11 @@ In this memoir, Winspear presents detailed accounts of growing up in Kent. She w
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pine_Apple_Russet_on_tree%2C_National_Fruit_Collection_%28acc._1946-006%29.jpg" label="Pine Apple Russet on tree" attribution="English,  National Fruit Collection, Brogdale, via Wikimedia Commons" license="OGL 2">
 <param ve-map primary center="Q2019734" zoom="12">
 
-When Winspear was three years old, her family moved to a Victorian Terrace House two miles from Cranbrook, a small market town that lies halfway between Maidstone and Hastings—a town she considered her “home” (91)[^ref5] and one she “walked” to “once or twice each week” (109).[^ref6] She notes that they lived in the small village of Hartley, which was on the bus route between Cranbrook and Hawkhurst (87).[^ref7] While living there, she was happiest when in the fields, woods and farms, picking strawberries in summer and Kentish cob nuts in autumn.  
+When Winspear was three years old, her family moved to a Victorian Terrace House two miles from Cranbrook, a small market town that lies halfway between Maidstone and Hastings—a town she considered her “home”[^ref5] and one she “walked” to “once or twice each week”.[^ref6] She notes that they lived in the small village of Hartley, which was on the bus route between Cranbrook and Hawkhurst.[^ref7] While living there, she was happiest when in the fields, woods and farms, picking strawberries in summer and Kentish cob nuts in autumn.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/88/The_Black_Lion%2C_Hartley_-_geograph.org.uk_-_1996330.jpg" label="The Black Lion, Hartley" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-map primary center="Q2160826" zoom="12">
 
-Winspear recounts how her paternal grandfather’s family and her own father “were among the great exodus of people who left London in late summer to go to Kent for the picking of the hops” (27)[^ref8] and recalls how she herself until the age of eleven, “was a part of that tradition” (28).[^ref9] Before Winspear was born, her parents worked alongside not only Londoners, but also Romany Gypsies with their caravans. In her memoir, Winspear relates this rich memory: “My father told me that when he was a boy, he was never happier than when he saw the oast houses hove into view as the family trudged several miles from the station to the farm, pushing a barrow with their furniture and household belongings secured on top.” As a participant in this hops-picking community, Winspear recalls the “camaraderie, of people calling out to one another, and of someone starting a song and everyone joining in, so it was as if the rag-tag choir had given full voice across the land, London songs echoing across country fields” (28-29).[^ref10]
+Winspear recounts how her paternal grandfather’s family and her own father “were among the great exodus of people who left London in late summer to go to Kent for the picking of the hops”[^ref8] and recalls how she herself until the age of eleven, “was a part of that tradition” (28).[^ref9] Before Winspear was born, her parents worked alongside not only Londoners, but also Romany Gypsies with their caravans. In her memoir, Winspear relates this rich memory: “My father told me that when he was a boy, he was never happier than when he saw the oast houses hove into view as the family trudged several miles from the station to the farm, pushing a barrow with their furniture and household belongings secured on top.” As a participant in this hops-picking community, Winspear recalls the “camaraderie, of people calling out to one another, and of someone starting a song and everyone joining in, so it was as if the rag-tag choir had given full voice across the land, London songs echoing across country fields” (28-29).[^ref10]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22167.jpg/483px-Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22167.jpg" label="Hop picking in Yalding, Kent" attribution="Ministry of Information Photo Division Photographer, Imperial War Museum">
 
 The outdoor Museum of Kent Life in Cobtree, located at Sandling on River Medway near Maidstone, re-creates the world that Winspear and her forebears encountered in the hops industry’s heyday. The Museum’s volunteer docents show you what the hops look and smell like, how they are grown and twirled onto poles, and how they are dried in the oast houses there. On its grounds, the museum also includes several “hopper huts” a few of which are furnished with the workers’ domestic goods. These huts provide a vivid picture of the ways the hop-picking families lived during their Kent sojourn. The Kent hops-picking tradition constitutes a major setting in Winspear’s An Incomplete Revenge, and a visit to the Kent-Life Museum amplifies the readers’ experience of this fictional work. In today’s Kent, visitors can see how many homes which were originally oast houses still retain what Winspear calls “cone-shaped” roofs and a “white cowl resembling a witch’s hat” (28).[^ref11] 
@@ -86,10 +86,10 @@ Winspear, Jacqueline. _What Would Maisie Do? Inspiration from the Pages of Maisi
 [^ref2]: _This Time Next Year We’ll Be Laughing_ 13-14.
 [^ref3]: ibid 8.
 [^ref4]: ibid 83.
-[^ref5]:
-[^ref6]:
-[^ref7]:
-[^ref8]:
+[^ref5]: ibid 91.
+[^ref6]: ibid 109.
+[^ref7]: ibid 87.
+[^ref8]: ibid 27.
 [^ref9]:
 [^ref10]:
 [^ref1a]:
