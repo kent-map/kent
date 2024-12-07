@@ -30,10 +30,10 @@ With characteristic irreverence, [Jerome K. Jerome](/19c/19c-jerome-biography) p
 
 ### Bibliography
 
-Arnold, Marc. _Disease, Class and Social Change: Tuberculosis in Folkestone and Sandgate, 1880-1930_. Cambridge: Cambridge Scholars Press, 2012.
-Clunn, Harold. _Famous South Coast Pleasure Resorts Past and Present_. London: T.    Whittingham & Co., 1929.
+Arnold, Marc. _Disease, Class and Social Change: Tuberculosis in Folkestone and Sandgate, 1880-1930_. Cambridge: Cambridge Scholars Press, 2012.   
+Clunn, Harold. _Famous South Coast Pleasure Resorts Past and Present_. London: T.    Whittingham & Co., 1929.   
 Grandfield, Yvette F. ‘The development of the seaside resort and the striving for social tone', 1850-1899, with a particular examination of Margate and Folkestone : dissertation submitted in part fulfilment of the requirements for the degree of Master of Arts of the University of Kent at Canterbury’. (1994).   
-_The Kaleidoscope_.  15 August 1888. _Holbein Visitors’ List and Folkestone Journal._ 1.   
-Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
+_The Kaleidoscope_.  15 August 1888. _Holbein Visitors’ List and Folkestone Journal._ 1.    
+Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.   
 Rever, J. C. ‘A domestic experiment’. 19 September 1888. _Holbein Visitors’ List and Folkestone Journal._ 17-18.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/The_beach_and_pier%2C_Folkestone%2C_England-LCCN2002696745.jpg" label="The Beach and Pier, Folkestone c.1890-1900" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
