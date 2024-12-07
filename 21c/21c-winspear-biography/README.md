@@ -20,13 +20,13 @@
 
 Although Jacqueline Winspear moved to the U.S. at the age of thirty-five, Kent pervades her childhood, adolescence and early adulthood and provides prominent settings in her renowned and award-winning Maisie Dobbs series, a set of eighteen historical mystery-detective novels featuring a woman ahead of her time who is a psychologist-investigator. While these novels take place during a period from 1929 to 1945, they frequently gain depth and meaning through flashbacks to World War One experiences.
 <br><br>
-Even after re-locating to California, Winspear returned many times to beloved sites of her past, and in her 2019 book _What Would Maisie Do?_, she devotes a chapter to Kent. In this section, she includes the following quote from one of her friends who has just finished reading _An Incomplete Revenge_, the fifth one in her series: “This book is your love letter to Kent.” Agreeing with this opinion, Winspear adds that “the county of Kent appears in each of the novels” (107).[^ref1] 
+Even after re-locating to California, Winspear returned many times to beloved sites of her past, and in her 2019 book _What Would Maisie Do?_, she devotes a chapter to Kent. In this section, she includes the following quote from one of her friends who has just finished reading _An Incomplete Revenge_, the fifth one in her series: “This book is your love letter to Kent.” Agreeing with this opinion, Winspear adds that “the county of Kent appears in each of the novels”.[^ref1] 
 <param ve-image url="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" label="Map of Kent" attribution="By kind permission of J. Salmon">
   
-Winspear’s memoir entitled _This Time Next Year We’ll Be Laughing_, published in 2020, captures her deep, abiding connection to Kent in these words: “The land where I grew tall is filled with meaning for me—it’s the land of hop gardens and apple orchards, of farms and fields, of trees to climb and streams flanked by pungent wild garlic and golden sun-reflecting celandines. This deep love of place is part of my family mythology, a delicate web across my heart. . . . I live some six thousand miles away from the land of my growing, and even from such a distance I can feel my roots in that soil. Take me there blindfolded and I would know I had come home. The air’s texture and fragrance, the sounds, the sense of light even though my eyes are closed—I would know I was where I belonged, once. And perhaps it’s truly where I belong now.” (13-14).[^ref2]
+Winspear’s memoir entitled _This Time Next Year We’ll Be Laughing_, published in 2020, captures her deep, abiding connection to Kent in these words: “The land where I grew tall is filled with meaning for me—it’s the land of hop gardens and apple orchards, of farms and fields, of trees to climb and streams flanked by pungent wild garlic and golden sun-reflecting celandines. This deep love of place is part of my family mythology, a delicate web across my heart. . . . I live some six thousand miles away from the land of my growing, and even from such a distance I can feel my roots in that soil. Take me there blindfolded and I would know I had come home. The air’s texture and fragrance, the sounds, the sense of light even though my eyes are closed—I would know I was where I belonged, once. And perhaps it’s truly where I belong now.”[^ref2]
 <param ve-image url="https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f" label="Orchards" attribution="© Lisa Hawkins">
 
-In this memoir, Winspear presents detailed accounts of growing up in Kent. She was born in Goudhurst in the rural Weald of Kent where her parents lived in a small 13th century home called Black Bush Cottage “in the midst of the Bedgebury Forest” (8).[^ref3] After a brief sojourn in London, when the author was about two years old, her parents returned to the same area, moving into the 16th century Brown House Cottage which she describes as “magical” (83)[^ref4] and which was a 2-mile walk into Goodhurst. As a little girl, Winspear loved the surrounding natural world and was particularly fond of the russets and Cox’s Orange Pippins she picked in the nearby apple orchards. 
+In this memoir, Winspear presents detailed accounts of growing up in Kent. She was born in Goudhurst in the rural Weald of Kent where her parents lived in a small 13th century home called Black Bush Cottage “in the midst of the Bedgebury Forest”.[^ref3] After a brief sojourn in London, when the author was about two years old, her parents returned to the same area, moving into the 16th century Brown House Cottage which she describes as “magical”[^ref4] and which was a 2-mile walk into Goodhurst. As a little girl, Winspear loved the surrounding natural world and was particularly fond of the russets and Cox’s Orange Pippins she picked in the nearby apple orchards. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pine_Apple_Russet_on_tree%2C_National_Fruit_Collection_%28acc._1946-006%29.jpg" label="Pine Apple Russet on tree" attribution="English,  National Fruit Collection, Brogdale, via Wikimedia Commons" license="OGL 2">
 <param ve-map primary center="Q2019734" zoom="12">
 
@@ -82,10 +82,10 @@ Winspear, Jacqueline. _What Would Maisie Do? Inspiration from the Pages of Maisi
            
 ### References
 
-[^ref1]:
-[^ref2]:
-[^ref3]:
-[^ref4]:
+[^ref1]: _What Would Maisie Do?_ 107.
+[^ref2]: _This Time Next Year We’ll Be Laughing_ 13-14.
+[^ref3]: ibid 8.
+[^ref4]: ibid 83.
 [^ref5]:
 [^ref6]:
 [^ref7]:
