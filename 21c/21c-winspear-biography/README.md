@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Jacqueline Winspear (1955-  )" author="Geri Chavis" layout="vtl" banner="https://stor.artstor.org/stor/99c782eb-98cd-4f5d-9cd0-d6f854c413ee">
+<param ve-config title="Jacqueline Winspear (1955-  )" author="Geri Giebel Chavis" layout="vtl" banner="https://stor.artstor.org/stor/99c782eb-98cd-4f5d-9cd0-d6f854c413ee">
 
 <param ve-entity eid="Q2019734" aliases="Goudhurst">
 <param ve-entity eid="Q2160826" aliases="Cranbrook">
