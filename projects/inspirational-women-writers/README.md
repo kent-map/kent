@@ -246,6 +246,14 @@ Florence Warden was an actor and writer who lived at St Mildred’s Road, Ramsga
 
 Gertrude Warden was an actress, then a writer. Her novel _The Wooing of a Fairy_ was set in Lythinge (Lympne) near ‘a vast panorama of marshland ... bordered by a row of Martello towers, which looked at this distance like children’s overturned sand pails and the sea.’
 
+## Jacqueline Winspear (1955- )
+
+[Jacqueline Winspear](/21c/21c-winspear-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f)
+
+Although Jacqueline Winspear moved to the U.S. at the age of thirty-five, Kent pervades her childhood, adolescence and early adulthood and provides prominent settings in her renowned and award-winning Maisie Dobbs series.
+
 ## Pamela Wynne
 
 [Pamela Wynne](/20c/20c-wynne-biography)
