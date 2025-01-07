@@ -57,8 +57,7 @@ The aviation pioneers at Eastchurch continued pushing boundaries and on 10th Aug
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d0/Winston_Churchill_With_Naval_Wing_of_the_Royal_Flying_Corps%2C_1914._CH4778.jpg" label="Winston Churchill With Naval Wing of the Royal Flying Corps, 1914" attribution="See page for author, Public domain, via Wikimedia Commons">
 
 The onset of World War I in 1914 saw Eastchurch transition into a critical military site, and the formation of the earliest RNAS squadron to go the Western Front in WW1.  Known as the Eastchurch Squadron, it carried out the **first** strategic bombing raids.[^ref32]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/92/The_Royal_Naval_Air_Service_%28rnas%29_1914-1918_Q58422.jpg" label="The Royal Naval Air Service 1914-1918 at Eastchurch" attribution="See page for author, Public domain, via Wikimedia Commons">
-  
+<br><br>
 Eastchurch also took on home defence with the formation of No. 2 (Naval) Squadron, and became a key military research and training centre.[^ref33] In December 1914, the flying ground and all its facilities were requisitioned under the Defence of the Realm Act, and the essence of Eastchurch changed forever.[^ref34]  With the tragic death of some of the early flyers: Charles Rolls and Cecil Grace[^ref35] - both killed in 1910 and Horace Short, -  who died in 1917,[^ref36] and with development and progress accelerating, the pioneering days of aviation on the Isle of Sheppey were coming to a close.  The RNAS and the RFC merged on 1st April 1918 forming the RAF, and Eastchurch became one of the **first** RAF stations.
 <param ve-image url="https://stor.artstor.org/stor/87f68589-2add-4a7b-8825-901d9fc95c70" label="Summer 1918, post formation of RAF at Muswell Manor, RFC and RNAS personnel" attribution="With kind permission of Eastchurch Aviation Museum">
 
