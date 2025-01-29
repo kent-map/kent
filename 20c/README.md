@@ -72,7 +72,8 @@
 [Belgian Refugees](20c-belgian-refugees)   
 [Doodlebugs in Kent](ww2-doodlebug)   
 [Ellen Terry's funeral](20c-terry-funeral)  
-[Hop Picking and the Literary Imagination](20c-hop-picking)   
+[Hop Picking and the Literary Imagination](20c-hop-picking)  
+[Pioneers of Flight: The Role of the Isle of Sheppey in the Birth of British Aviation](20c-eastchurch-aviation)   
 [The Great Storm of 1987](20c-hurricane)   
 [Kent Coal Mining](20c-kent-miners)   
 
