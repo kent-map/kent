@@ -10,7 +10,7 @@
 
 #
 
-This article draws on a pamphlet entitled _Coach Tour of Joseph Conrad’s Homes in Kent_ by Borys Conrad. Written by Joseph Conrad’s eldest son, the pamphlet was issued in 1974, just four years before its author’s death. It is a charming production, comprised of only eight leaves, in light blue paper wraps with the Nałęcz coat of arms to the front panel, and contains six photographic plates – five being of Conrad’s homes, and another of the man himself. It is interesting to read the pamphlet in Borys’s voice, being so accustomed to the narrative voices of his father – it becomes detached, but remains intimate, and makes for fine reading. 
+This article draws on a pamphlet entitled _Coach Tour of Joseph Conrad’s Homes in Kent_ by Borys Conrad. Written by [Joseph Conrad](/19c/19c-conrad-biography)’s eldest son, the pamphlet was issued in 1974, just four years before its author’s death. It is a charming production, comprised of only eight leaves, in light blue paper wraps with the Nałęcz coat of arms to the front panel, and contains six photographic plates – five being of Conrad’s homes, and another of the man himself. It is interesting to read the pamphlet in Borys’s voice, being so accustomed to the narrative voices of his father – it becomes detached, but remains intimate, and makes for fine reading. 
 <param ve-image url="https://stor.artstor.org/stor/c3205484-9714-451c-97d2-2112d1e56793" label="Coach Tour of Joseph Conrad's Homes in Kent" attribution="Borys Conrad">
 
 **Pent Farm, Postling**
