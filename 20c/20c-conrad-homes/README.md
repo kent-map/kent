@@ -37,7 +37,7 @@ Capel House, at the time of Borys’s writing, was virtually unchanged, with the
 The property fuelled Joseph’s love of the motorcar, by association with Reginald Percival Gibbon, who would visit on a twin-cylinder motorcycle; whilst at Capel, Conrad bought his first car – “a second-hand single-cylinder 12-horsepower Cadillac”.[^ref9] It was a “sturdy and reliable little machine” which both Jessie and Joseph learned to drive, and it would enable many family adventures.[^ref10] 
 <br><br>
 There were, as at Pent Farm, many visitors to Capel. These included Sir Sidney Darke, [Hugh Walpole](/19c/19c-walpole-biography), Jean-Aubry, Norman Douglas and Stephen Reynolds to name just a few. It held many happy memories for the Conrads, who witnessed many seismic world events from its walls. It was a happy home. 
-<param ve-image url="  " label="  " attribution=" " license=" ">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/26/Mr._Joseph_Conrad.jpg" label="Mr Joseph Conrad outside Capel House" attribution="The World's Work, 1915, Will Cadby, Public domain, via Wikimedia Commons">
 
 **Spring Grove, Wye, Nr. Ashford**
 <br>
@@ -48,7 +48,7 @@ The Conrad family arrived at Spring Grove in March 1919, as a short-term address
 The building, according to Borys Conrad, was “far bigger than […] needed”, and that there were “always parties” which posed a happy salve to his recent release from a “shell shock hospital”.[^ref11] 
 <br><br>
 It was also here that the family acquired their “first really high performance car”, a “four-cylinder 30-horse-power Cadillac”.[^ref12]  It was very roomy, and to be a sure companion in the move from Spring Grove to Joseph Conrad’s final home, Oswalds, which “actually took place during an industrial strike”, causing the family “great difficulty in organising” the move.[^ref13] 
-<param ve-image url="  " label="  " attribution=" " license=" ">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Entrance%2C_Spring_Grove_School_-_geograph.org.uk_-_6480476.jpg" label="Entrance, Spring Grove School" attribution="N Chadwick via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Oswalds, Bishopsbourne, Nr. Canterbury**
 <br>
