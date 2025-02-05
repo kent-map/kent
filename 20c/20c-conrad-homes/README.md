@@ -27,6 +27,8 @@ Pent Farm is supposed to be associated with many of Conrad’s key works, such a
 <br><br>
 The author reports that many literary figures visited Pent Farm, including John Galsworthy, [H. G. Wells](/20c/20c-wellshg-biography), William Rothstein, Henry James, R. B. Cunningham Graham and numerous others. The family remained at the house until 1907, when Jessie George grew and when the advent of John Conrad “made it necessary to seek a larger house”.[^ref5] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/94/The_North_Downs_Way_near_Pent_Farm_-_geograph.org.uk_-_4923383.jpg" label="North Downs Way, near Pent Farm" attribution="Dave Kelly" license="CC BY-SA 2.0">
+<!-- Base map centred on Postling -->
+<param ve-map center="Q2309424" zoom="12">
 
 **Capel House, Orlestone, Nr. Ashford**
 <br>
@@ -38,6 +40,8 @@ The property fuelled Joseph’s love of the motorcar, by association with Regina
 <br><br>
 There were, as at Pent Farm, many visitors to Capel. These included Sir Sidney Darke, [Hugh Walpole](/19c/19c-walpole-biography), Jean-Aubry, Norman Douglas and Stephen Reynolds to name just a few. It held many happy memories for the Conrads, who witnessed many seismic world events from its walls. It was a happy home. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/26/Mr._Joseph_Conrad.jpg" label="Mr Joseph Conrad outside Capel House" attribution="The World's Work, 1915, Will Cadby, Public domain, via Wikimedia Commons">
+<!-- Base map centred on Orlestone -->
+<param ve-map center="Q690486" zoom="12">
 
 **Spring Grove, Wye, Nr. Ashford**
 <br>
@@ -49,6 +53,8 @@ The building, according to Borys Conrad, was “far bigger than […] needed”,
 <br><br>
 It was also here that the family acquired their “first really high performance car”, a “four-cylinder 30-horse-power Cadillac”.[^ref12]  It was very roomy, and to be a sure companion in the move from Spring Grove to Joseph Conrad’s final home, Oswalds, which “actually took place during an industrial strike”, causing the family “great difficulty in organising” the move.[^ref13] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Entrance%2C_Spring_Grove_School_-_geograph.org.uk_-_6480476.jpg" label="Entrance, Spring Grove School" attribution="N Chadwick via Wikimedia Commons" license="CC BY-SA 2.0">
+<!-- Base map centred on Wye -->
+<param ve-map center="Q590063" zoom="12">
 
 **Oswalds, Bishopsbourne, Nr. Canterbury**
 <br>
@@ -57,14 +63,16 @@ Oswalds in Bishopsbourne would be Joseph Conrad’s final home – and not just 
 Joseph Conrad often complained that Oswalds was “down in a hole” and isolated from local life, despite being just twenty minutes from Canterbury, and just ten from the North Downs.[^ref14]  Despite this, he was “happy there on the whole” and would entertain lavishly, with his many friends and visitors finding the house favourable.[^ref15]
 <br><br>
 The house has changed greatly in appearance since the nineteen twenties. Half of the building has “been knocked down”, but at the time of Borys’s writing, the owners were “trying to restore it to its original glory”.[^ref16]  The three beautiful walled gardens, however, could not be recreated.  
-<param ve-image url="https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20" label="Oswalds, Bishopsbourne, Home of Joseph Conrad" attribution="Martin Crowther">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Rear_of_Oswalds_-_Bishopsbourne_MJC.jpg" label="Oswalds" attribution="©Martin Crowther">
+<!-- Base map centred on Bishopsbourne -->
+<param ve-map center="Q866348" zoom="12">
 
 The family lived at Oswalds for five happy years, but on August 3rd, 1924, their happiness would soon lapse. Borys Conrad’s pamphlet speaks very little about his father’s death, so I would like to quote Jocelyn Baines’s biography to complete the narrative:
 <br><br>
 the Borys Conrad family and John Conrad arrived for a Bank Holiday visit which had already been arranged. Conrad had a bad night, but seemed a little better in the early morning, and Jessie, who was in the next room, remembered him having called out to her at about six: 'You Jess, I am better this morning. I can always get a rise out of you.' At eight-thirty he was dead.[^ref17] 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Bishopsbourne_Village_Hall_Memorial_Plaque.jpg" label="Bishopsbourne Village Hall Memorial Plaque" attribution="©Martin Crowther"> 
-<!-- Base map centred on Chilham -->
-<param ve-map center="Q1004824" zoom="10">
+<!-- Base map centred on Bishopsbourne -->
+<param ve-map center="Q866348" zoom="12">
 
 ### References
 [^ref1]: Conrad, Borys, _Coach Tour of Joseph Conrad’s Homes in Kent_, 1st edn., (Farnham: The Farnham Printing Co. Ltd, 1974), 1.
