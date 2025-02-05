@@ -1,4 +1,14 @@
-Coach Tour of Joseph Conrad’s Homes in Kent
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+
+<param ve-config title="Coach Tour of Joseph Conrad’s Homes in Kent" author="Daniel Vince" layout="vtl" banner="https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20"> 
+
+<param ve-entity eid="Q866348" aliases="Bishopsbourne">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
+
+#
 
 This article draws on a pamphlet entitled _Coach Tour of Joseph Conrad’s Homes in Kent_ by Borys Conrad. Written by Joseph Conrad’s eldest son, the pamphlet was issued in 1974, just four years before its author’s death. It is a charming production, comprised of only eight leaves, in light blue paper wraps with the Nałęcz coat of arms to the front panel, and contains six photographic plates – five being of Conrad’s homes, and another of the man himself. It is interesting to read the pamphlet in Borys’s voice, being so accustomed to the narrative voices of his father – it becomes detached, but remains intimate, and makes for fine reading. 
 
