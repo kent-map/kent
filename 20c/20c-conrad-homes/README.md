@@ -50,7 +50,7 @@ It was also here that the family acquired their “first really high performance
 
 **Oswalds, Bishopsbourne, Nr. Canterbury**
 <br>
-Oswalds in Bishopsbourne would be Joseph Conrad’s final home – and not just in Kent. The Conrad family moved to Oswalds immediately after Spring Grove on August 19th, 1919, the very same month that The Arrow of Gold was published.
+Oswalds in Bishopsbourne would be Joseph Conrad’s final home – and not just in Kent. The Conrad family moved to Oswalds immediately after Spring Grove on August 19th, 1919, the very same month that _The Arrow of Gold_ was published.
 <br><br>
 Joseph Conrad often complained that Oswalds was “down in a hole” and isolated from local life, despite being just twenty minutes from Canterbury, and just ten from the North Downs.  Despite this, he was “happy there on the whole” and would entertain lavishly, with his many friends and visitors finding the house favourable.  
 <br><br>
