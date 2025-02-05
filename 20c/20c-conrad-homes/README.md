@@ -21,12 +21,12 @@ Want we not for board or tent
 While overhead we have the Pent
 <br><br>
 Borys writes that the quote “remained there until some six or seven years ago [from 1974] when some over-enthusiastic house decorator obliterated the inscription”.[^ref2]   As one will see if they choose to search for the property listing, the “grapevine which grew over it no longer exist[s]”, but despite this, the house has remained almost untouched – inscription and grapevine aside.[^ref3] 
-<param ve-image url="https://stor.artstor.org/stor/426faf7f-fc1f-4e7e-9629-f7580cbd4fdd" label="Pent Farm" attribution="Martin Crowther">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pent_Farm%2C_Postling_%28geograph_3467328%29.jpg/1280px-Pent_Farm%2C_Postling_%28geograph_3467328%29.jpg" label="Pent Farm, Postling" attribution="Christopher Hilton" license="CC BY-SA 2.0">
 
 Pent Farm is supposed to be associated with many of Conrad’s key works, such as _Youth_ (1898), _The Heart of Darkness_ (1899), _Lord Jim_ (1900), _Typhoon_ (1902), _Nostromo_ (1904) and _The Secret Agent_ (1907) to say a few. A lesser known work, _The End of the Tether_ (1902) is included later by Borys, as a work which “was partly destroyed by fire when the glass bowl of [his] father’s table lamp burst and set fire to the manuscripts on his writing table”.[^ref4]  Despite this, it would be collected in _Youth, A Narrative and Two Other Stories_ in 1902. 
 <br><br>
 The author reports that many literary figures visited Pent Farm, including John Galsworthy, [H. G. Wells](/20c/20c-wellshg-biography), William Rothstein, Henry James, R. B. Cunningham Graham and numerous others. The family remained at the house until 1907, when Jessie George grew and when the advent of John Conrad “made it necessary to seek a larger house”.[^ref5] 
-<param ve-image url="  " label="  " attribution=" " license=" ">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/94/The_North_Downs_Way_near_Pent_Farm_-_geograph.org.uk_-_4923383.jpg" label="North Downs Way, near Pent Farm" attribution="Dave Kelly" license="CC BY-SA 2.0">
 
 **Capel House, Orlestone, Nr. Ashford**
 <br>
@@ -54,7 +54,7 @@ It was also here that the family acquired their “first really high performance
 <br>
 Oswalds in Bishopsbourne would be Joseph Conrad’s final home – and not just in Kent. The Conrad family moved to Oswalds immediately after Spring Grove on August 19th, 1919, the very same month that _The Arrow of Gold_ was published.
 <br><br>
-Joseph Conrad often complained that Oswalds was “down in a hole” and isolated from local life, despite being just twenty minutes from Canterbury, and just ten from the North Downs.[^ref14]  Despite this, he was “happy there on the whole” and would entertain lavishly, with his many friends and visitors finding the house favourable.[^ref15]  
+Joseph Conrad often complained that Oswalds was “down in a hole” and isolated from local life, despite being just twenty minutes from Canterbury, and just ten from the North Downs.[^ref14]  Despite this, he was “happy there on the whole” and would entertain lavishly, with his many friends and visitors finding the house favourable.[^ref15]
 <br><br>
 The house has changed greatly in appearance since the nineteen twenties. Half of the building has “been knocked down”, but at the time of Borys’s writing, the owners were “trying to restore it to its original glory”.[^ref16]  The three beautiful walled gardens, however, could not be recreated.  
 <param ve-image url="https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20" label="Oswalds, Bishopsbourne, Home of Joseph Conrad" attribution="Martin Crowther">
