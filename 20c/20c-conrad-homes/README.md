@@ -21,7 +21,7 @@ Want we not for board or tent
 While overhead we have the Pent
 <br><br>
 Borys writes that the quote “remained there until some six or seven years ago [from 1974] when some over-enthusiastic house decorator obliterated the inscription”.[^ref2]   As one will see if they choose to search for the property listing, the “grapevine which grew over it no longer exist[s]”, but despite this, the house has remained almost untouched – inscription and grapevine aside.[^ref3] 
-<param ve-image url="  " label="  " attribution=" " license=" ">
+<param ve-image url="https://stor.artstor.org/stor/426faf7f-fc1f-4e7e-9629-f7580cbd4fdd" label="Pent Farm" attribution="Martin Crowther">
 
 Pent Farm is supposed to be associated with many of Conrad’s key works, such as _Youth_ (1898), _The Heart of Darkness_ (1899), _Lord Jim_ (1900), _Typhoon_ (1902), _Nostromo_ (1904) and _The Secret Agent_ (1907) to say a few. A lesser known work, _The End of the Tether_ (1902) is included later by Borys, as a work which “was partly destroyed by fire when the glass bowl of [his] father’s table lamp burst and set fire to the manuscripts on his writing table”.[^ref4]  Despite this, it would be collected in _Youth, A Narrative and Two Other Stories_ in 1902. 
 <br><br>
