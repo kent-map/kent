@@ -59,7 +59,7 @@ Joseph Conrad often complained that Oswalds was “down in a hole” and isolate
 The house has changed greatly in appearance since the nineteen twenties. Half of the building has “been knocked down”, but at the time of Borys’s writing, the owners were “trying to restore it to its original glory”.[^ref16]  The three beautiful walled gardens, however, could not be recreated.  
 <param ve-image url="https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20" label="Oswalds, Bishopsbourne, Home of Joseph Conrad" attribution="Martin Crowther">
 
-The family lived at Oswalds for five happy years, but on August 3rd, 1924, their happiness would soon lapse. Borys Conrad’s pamphlet speaks very little about his father’s death, so I would like to quote Jocelyn Baines’s biography to complete the narrative: 
+The family lived at Oswalds for five happy years, but on August 3rd, 1924, their happiness would soon lapse. Borys Conrad’s pamphlet speaks very little about his father’s death, so I would like to quote Jocelyn Baines’s biography to complete the narrative:
 <br><br>
 the Borys Conrad family and John Conrad arrived for a Bank Holiday visit which had already been arranged. Conrad had a bad night, but seemed a little better in the early morning, and Jessie, who was in the next room, remembered him having called out to her at about six: 'You Jess, I am better this morning. I can always get a rise out of you.' At eight-thirty he was dead.[^ref17] 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Bishopsbourne_Village_Hall_Memorial_Plaque.jpg" label="Bishopsbourne Village Hall Memorial Plaque" attribution="©Martin Crowther"> 
