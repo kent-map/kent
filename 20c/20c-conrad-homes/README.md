@@ -14,35 +14,35 @@ Pent Farm is supposed to be associated with many of Conrad’s key works, such a
 The author reports that many literary figures visited Pent Farm, including John Galsworthy, [H. G. Wells](/20c/20c-wellshg-biography), William Rothstein, Henry James, R. B. Cunningham Graham and numerous others. The family remained at the house until 1907, when Jessie George grew and when the advent of John Conrad “made it necessary to seek a larger house”. 
 
 **Capel House, Orlestone, Nr. Ashford**
-
+<br>
 The Conrad family then moved, in 1910, to Capel House, Orlestone, which was “undoubtedly the happiest of the Conrad homes”.  Borys remarks that had it not been for the death of the landlord, Mr. Edmund Oliver, “and the fact that, the late Sir Roland Oliver (at that time Roland Oliver, K.C.) wanted the house for his own immediate use”, it might have been the place where Joseph ended his days.  The family lived at Capel House until March 1919, for the entire period of the First World War. 
 
 Capel House, at the time of Borys’s writing, was virtually unchanged, with the exception of “a monstrous extension to it quite out of keeping with the architecture of the original house”.  It was, at least in the nineteen seventies, a home for retired members of the legal profession, endowed by Sir Roland Oliver. 
-
-The property fuelled Joseph’s love of the motorcar, by association with Reginald Percival Gibbon, who would visit on a twin-cylinder motorcycle; whilst at Capel, Conrad bought his first car – “a second-hand single-cylinder 12-horsepower Cadillac”.  It was a “sturdy and reliable little machine” which both Jessie and Joseph learned to drive, and it would enable many family adventures. 
-
+<br><br>
+The property fuelled Joseph’s love of the motorcar, by association with Reginald Percival Gibbon, who would visit on a twin-cylinder motorcycle; whilst at Capel, Conrad bought his first car – “a second-hand single-cylinder 12-horsepower Cadillac”. It was a “sturdy and reliable little machine” which both Jessie and Joseph learned to drive, and it would enable many family adventures. 
+<br><br>
 There were, as at Pent Farm, many visitors to Capel. These included Sir Sidney Darke, Hugh Walpole, Jean-Aubry, Norman Douglas and Stephen Reynolds to name just a few. It held many happy memories for the Conrads, who witnessed many seismic world events from its walls. It was a happy home. 
 
 **Spring Grove, Wye, Nr. Ashford**
-
+<br>
 They then occupied Spring Grove in Wye, which is approximately four miles northwest of Ashford town centre. Those versed on English preparatory schools will know that Spring Grove is now Spring Grove School for ages two to eleven. 
-
+<br><br>
 The Conrad family arrived at Spring Grove in March 1919, as a short-term address between renovations at Oswalds. It was lent by Captain Halsey, R.N., for just six months. Despite the short occupancy, it posed yet another happy home. 
-
+<br><br>
 The building, according to Borys Conrad, was “far bigger than […] needed”, and that there were “always parties” which posed a happy salve to his recent release from a “shell shock hospital”. 
-
+<br><br>
 It was also here that the family acquired their “first really high performance car”, a “four-cylinder 30-horse-power Cadillac”.  It was very roomy, and to be a sure companion in the move from Spring Grove to Joseph Conrad’s final home, Oswalds, which “actually took place during an industrial strike”, causing the family “great difficulty in organising” the move. 
 
 **Oswalds, Bishopsbourne, Nr. Canterbury**
-
+<br>
 Oswalds in Bishopsbourne would be Joseph Conrad’s final home – and not just in Kent. The Conrad family moved to Oswalds immediately after Spring Grove on August 19th, 1919, the very same month that The Arrow of Gold was published.
-
+<br><br>
 Joseph Conrad often complained that Oswalds was “down in a hole” and isolated from local life, despite being just twenty minutes from Canterbury, and just ten from the North Downs.  Despite this, he was “happy there on the whole” and would entertain lavishly, with his many friends and visitors finding the house favourable.  
-
+<br><br>
 The house has changed greatly in appearance since the nineteen twenties. Half of the building has “been knocked down”, but at the time of Borys’s writing, the owners were “trying to restore it to its original glory”.  The three beautiful walled gardens, however, could not be recreated.  
 
 The family lived at Oswalds for five happy years, but on August 3rd, 1924, their happiness would soon lapse. Borys Conrad’s pamphlet speaks very little about his father’s death, so I would like to quote Jocelyn Baines’s biography to complete the narrative: 
-
+<br><br>
 the Borys Conrad family and John Conrad arrived for a Bank Holiday visit which had already been arranged. Conrad had a bad night, but seemed a little better in the early morning, and Jessie, who was in the next room, remembered him having called out to her at about six: 'You Jess, I am better this morning. I can always get a rise out of you.' At eight-thirty he was dead. 
 
 ### References
