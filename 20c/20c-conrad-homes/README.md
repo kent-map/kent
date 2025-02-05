@@ -11,7 +11,7 @@
 #
 
 This article draws on a pamphlet entitled _Coach Tour of Joseph Conrad’s Homes in Kent_ by Borys Conrad. Written by Joseph Conrad’s eldest son, the pamphlet was issued in 1974, just four years before its author’s death. It is a charming production, comprised of only eight leaves, in light blue paper wraps with the Nałęcz coat of arms to the front panel, and contains six photographic plates – five being of Conrad’s homes, and another of the man himself. It is interesting to read the pamphlet in Borys’s voice, being so accustomed to the narrative voices of his father – it becomes detached, but remains intimate, and makes for fine reading. 
-<param ve-image url="  " label="  " attribution=" " license=" ">
+<param ve-image url="https://stor.artstor.org/stor/c3205484-9714-451c-97d2-2112d1e56793" label="Coach Tour of Joseph Conrad's Homes in Kent" attribution="Borys Conrad">
 
 **Pent Farm, Postling**
 <br>
@@ -36,7 +36,7 @@ Capel House, at the time of Borys’s writing, was virtually unchanged, with the
 <br><br>
 The property fuelled Joseph’s love of the motorcar, by association with Reginald Percival Gibbon, who would visit on a twin-cylinder motorcycle; whilst at Capel, Conrad bought his first car – “a second-hand single-cylinder 12-horsepower Cadillac”.[^ref9] It was a “sturdy and reliable little machine” which both Jessie and Joseph learned to drive, and it would enable many family adventures.[^ref10] 
 <br><br>
-There were, as at Pent Farm, many visitors to Capel. These included Sir Sidney Darke, Hugh Walpole, Jean-Aubry, Norman Douglas and Stephen Reynolds to name just a few. It held many happy memories for the Conrads, who witnessed many seismic world events from its walls. It was a happy home. 
+There were, as at Pent Farm, many visitors to Capel. These included Sir Sidney Darke, [Hugh Walpole](/19c/19c-walpole-biography), Jean-Aubry, Norman Douglas and Stephen Reynolds to name just a few. It held many happy memories for the Conrads, who witnessed many seismic world events from its walls. It was a happy home. 
 <param ve-image url="  " label="  " attribution=" " license=" ">
 
 **Spring Grove, Wye, Nr. Ashford**
