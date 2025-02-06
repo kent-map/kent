@@ -519,6 +519,14 @@ Dr Sheila Sweetinburgh’s book on English medieval hospitals looks especially a
 
 Dr Christian Taylor is Head of English at the Langton Grammar School for Boys, Canterbury.  He was born in Blackpool last century, slithered down to London to teach the scions of the well-heeled and double-barrelled, then slinked into Kent by a trap door in Ramsgate.  His research passions are singularly monomaniacal: all things Eliot (TS); anything Tony Harrison and Peter Reading; trying to prove to a cruel and dismissive world the truth of Calvin Hoffman's thesis that Christopher Marlowe wrote all the plays attributed to Shakespeare.  Yes.  All of them.
 
+## Daniel Vince
+
+[Daniel Vince]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b1ad2662-db10-4aa7-abc2-eb895852e5e4)
+
+Daniel Vince is currently in the second year of his PhD at Canterbury Christ Church University and was awarded the School of Humanities and Education Studies scholarship. He is writing a thesis entitled The New University in Post-War British Literature, which is subject to change. He has previously completed an MRes at the University of York, and a BA (Hons) from Canterbury Christ Church University. At the time of writing, Daniel is a Visiting Fellow of the Bodleian, University of Oxford, where he has been researching the bibliography of Laurence Binyon. He has also received numerous small grants from The Bibliographical Society for this purpose. He is a trustee of The Philip Larkin Society, but when he is not researching the post-war university, or Laurence Binyon, Daniel is running his own rare book business – Daniel Vince Rare Book
+
 ## Peter Vujakovic
 
 [Peter Vujakovic]()
