@@ -52,7 +52,7 @@ The Conrad family arrived at Spring Grove in March 1919, as a short-term address
 The building, according to Borys Conrad, was “far bigger than […] needed”, and that there were “always parties” which posed a happy salve to his recent release from a “shell shock hospital”.[^ref11] 
 <br><br>
 It was also here that the family acquired their “first really high performance car”, a “four-cylinder 30-horse-power Cadillac”.[^ref12]  It was very roomy, and to be a sure companion in the move from Spring Grove to Joseph Conrad’s final home, Oswalds, which “actually took place during an industrial strike”, causing the family “great difficulty in organising” the move.[^ref13] 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Entrance%2C_Spring_Grove_School_-_geograph.org.uk_-_6480476.jpg" label="Entrance, Spring Grove School" attribution="N Chadwick via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-image url="https://stor.artstor.org/stor/91091fac-a648-45cd-907b-28de593b3ee6" label="Spring Grove School" attribution="By kind permission of Nicky Lee-Browne, Spring Grove School">
 <!-- Base map centred on Wye -->
 <param ve-map center="Q590063" zoom="12">
 
