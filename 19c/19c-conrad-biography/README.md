@@ -29,6 +29,8 @@ Conrad came ashore in 1894 due to persistent ill-health and a desire to write an
 Although a popular novelist and eventually recognised by the critics, Conrad did not enjoy financial success, although he was awarded an annual government grant of £100 in 1910, which helped until his death at the age of 66 in August 1924. Conrad died in his house (Oswalds) in Bishopsbourne and was buried in Canterbury Cemetery.
 <br><br>
 Conrad’s legacy lies in his storytelling and his capture of the human interest in what was, during his time, regarded as exotic and ordinary. Major feature films such as ‘Lord Jim’(1965), ‘Apocalypse Now’ (1979) and ‘An Outcast of the Islands’ (1952) provide testimony for the enduring humanity of his work. In 1916 Conrad was the subject of a biography by fellow Kent author [Hugh Walpole](/19c/19c-walpole-biography). [_Joseph Conrad_](https://www.gutenberg.org/files/52453/52453-h/52453-h.htm) was published in New York by Henry Holt and Company.
+<br><br>
+You can also find out more about [Conrad's homes in Kent](/20c/20c-conrad-homes)
 <param ve-image url="https://stor.artstor.org/stor/fdcf1896-22cd-41c2-917a-cd07a8621a22" label="Joseph Conrad's grave" attribution="© Kate Davies">
 <!-- Base map centred on Bishopsbourne -->
 <param ve-map center="Q866348" zoom="13">
