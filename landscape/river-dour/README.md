@@ -17,6 +17,7 @@ Temple Ewell
 <param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
 Para 
+Bushey Rough
 
 Para 
 Russell Gardens
@@ -41,7 +42,8 @@ Ladywell
 
 Para 
 Pencester Gardens
-<param ve-map ="51.7.24.6, 1.18.51.8">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Dover%2C_River_Dour_-_geograph.org.uk_-_2869094.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
+<param ve-map="51.7.24.6, 1.18.51.8">
 
 Para
 St James
