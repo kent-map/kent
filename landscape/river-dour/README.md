@@ -55,10 +55,21 @@ Pencester Gardens
 Para
 St James
 
+Snar Gate, also known as Pier Gate was built about 1370. It was a sluice gate between the river and harbour. In 1588, it was taken down when the new harbour was built[^ref Statham 63) 
+
 Para
-Wellington Dock
+**Wellington Dock**   
+In 1846, the Duke of Wellington opened "Wellington Bridge" 
+In 1888 Wellington Dock was improved to allow vessels of 800 tons.
 
 Para 6
 Dover Harbour
 
+### Bibliography
 
+Statham, Samuel Percy Hammond _The History of the Castle, Town, and Port of Dover_, Longmans, Green and Co. 1899.
+
+
+### References
+
+[^ref1]:
