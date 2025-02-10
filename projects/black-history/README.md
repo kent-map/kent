@@ -12,7 +12,7 @@ Reclaiming narratives is a call to action for Black communities across the UK to
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/cohen_family.jpg)
 
-In a loving tribute to his father, Liam Cohen explores his father's experiences of growing up in 1960s Britain.
+In a loving tribute to his father, Liam Cohen explores his father's experiences of growing up in 1970s Britain.
 
 ## William Cuffay
 
