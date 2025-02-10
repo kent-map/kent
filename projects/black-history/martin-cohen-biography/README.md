@@ -1,0 +1,29 @@
+On 12th January 1968, Frank and May Brown's third child, Martin, was born in Leeds, Yorkshire. Martin was of Jamaican heritage; his parents and two older brothers were part of the Windrush generation. 
+
+After World War II, England's workforce was devastated. To combat this, the government passed the British Nationality Act 1948, which granted British citizenship to people from the colonies.i  Members of the Windrush generation commonly settled in the poorest areas in major cities where workers were in high demand.ii Frank was the first to leave the family farm in Kingston in the early 1960s to seek employment and a family home. Shortly after, May joined him. Then Martin's two older brothers, Barrington and Anthony, made the voyage. Martin and his younger brother Simon were both born in Leeds. Like many West Indian families, there were two constants in the Brown family: cricket and church. As Martin grew up, he was described as an inquisitive thinker with aspirations.  
+
+Not long after leaving school, Martin trained to be a police officer, which would have led to mixed reactions from his peers. The idea of 'coloured' officers was a topic of contention in the 1960s and was widely discussed across media outlets. Especially after the death of David Oluwale in Leeds in 1969, who was harassed by police, which ultimately led to his death.iii Relationships between the police and Afro-Caribbean communities were sour.  Because of this, Martin's decision to train to be a police officer certainly went against the grain. 
+
+After the passing of his parents, Martin went travelling. First, London, then Barcelona, and then back to London. During this time, he changed his surname to Cohen. He took the name from a local Jewish shop where he grew up and befriended the family that managed it. In 1993, he settled in Ashford, Kent. In the same year, he met a local woman, Liz Ashby, while working together at a factory owned by Rimmel Cosmetics. After a conservative but strategic approach from Martin, the pair entered a relationship. In 1995, Elliot, their first child, was born. In 1999, Liam, their second child, was born. 
+
+Martin did not go down the policing route in Ashford; however, he still possessed characteristics similar to those of an officer, such as bravery and selflessness. On 21st January 1997, he was awarded £250 by the High Sheriff of Kent for his contribution to the conviction of Mr Noone. An extract from his Certificate of Commendation documents: 
+
+"The Judge so ordered by saying in Open Court, that Mr Martin Cohen at considerable risk to himself confronted Mr Noone and continued to chase him, faced up to him when he turned to him in the passageway and was therefore in a position to add to the question of identification."iv  
+
+Martin preferred not to mention his heroics. That said, he was undoubtedly proud of this and had the certificate on the wall at home. His character was shown further on Saturday 28th April 2007, two 12 year old girls approached Martin and his two sons while they played football at Victoria Park in Ashford. The girls were highly distressed and explained that two men sexually exposed themselves to the girls. Martin helped calm the girls down, and they remained with Elliot and Liam while Martin went to look for the men. A short while later, Martin returned, unable to track down the men, and the police were called. Just over a month later, on Thursday 7th June 2007, Police sketches of the two men were published in the Kent Express as police encouraged more witnesses to come forward.v 
+
+Cao suggests that 'working hard runs through the veins of immigrant families.' He asserts this is due to the influence of first-generation immigrant parents on their children. It is the case that many immigrants had to work hard merely to survive.vi Frank Brown worked as a Binman, and May was a secretary in a doctor's surgery. The willingness to work and work hard was passed down to Martin. He worked for 22 years at Eurostar and consistently in bars and nightclubs in Ashford. On many occasions, Martin had stretches when he worked every day for multiple years. This almost relentless work ethic that Afro-Caribbeans commonly share stems from the wish for equality. From Ro's research, she documents the attitude of a British Nigerian woman and her view of her work ethic. She writes:  
+
+‘It's a principle of being black in the UK - You have to work twice as hard as your white counterparts to even be given recognition.’vii  
+
+In acknowledgement of this, Martin softened his accent and adopted a more eloquent tone to help him fit in.  
+
+Martin was a well-known face in Ashford's nightlife. His interpersonal skills contributed significantly to his success in his work. For over a decade, he worked in the industry working at Liquid (before it closed), Cameo, and the Phoenix. Although Martin had no academic qualifications in business and/or management, he certainly gained a strong business acumen, showcased in his management of The Phoenix, a sports bar in Ashford's town centre. Taffer documents,  
+
+'Managing a business is not rocket science, but it is a science – your success lies in the reactions of the people around you.'  
+
+He asserts that the customer's perception of the business drives the narrative of the business.viii  Due to this, Martin would offer one or two complimentary drinks regulars. Therefore, if more people were in the bar, more people would likely spread the word about The Phoenix. Under Martin's management, The Phoenix had a higher Google review rating than the most recent similar period. 
+
+Liz and Martin were together for 12 years. After their separation, Martin focused on his career and being a father. On 29th April 2021, Martin passed away. His funeral was during the Covid-19 restrictions, so a select few could attend. However, hundreds of people live-streamed the service, and a viewing party was held at the Ashford Rugby Club. 
+
+ 
