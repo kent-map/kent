@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="A Tribute to My Father" author="Liam Cohen" layout="vtl" 
-banner="xxx">
+banner="https://upload.wikimedia.org/wikipedia/commons/1/15/HMT_Empire_Windrush_FL9448.jpg" label="Empire Windrush" attribution="Royal Navy official photographer, Public domain, via Wikimedia Commons">
 
 <param ve-entity eid="Q67479626" alias="Kent">
 
