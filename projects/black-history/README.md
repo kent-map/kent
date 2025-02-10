@@ -10,7 +10,7 @@ Reclaiming narratives is a call to action for Black communities across the UK to
 
 [Martin Cohen](/projects/martin-cohen-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/62/ChartistRiot.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/cohen_family.jpg)
 
 In a loving tribute to his father, Liam Cohen explores his father's experiences of growing up in 1960s Britain.
 
