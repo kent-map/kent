@@ -26,4 +26,16 @@ He asserts that the customer's perception of the business drives the narrative o
 
 Liz and Martin were together for 12 years. After their separation, Martin focused on his career and being a father. On 29th April 2021, Martin passed away. His funeral was during the Covid-19 restrictions, so a select few could attend. However, hundreds of people live-streamed the service, and a viewing party was held at the Ashford Rugby Club. 
 
+### References
+
+[^ref1]: 
+[^ref1]: 
+[^ref1]: 
+[^ref1]: 
+[^ref1]: 
+[^ref1]: 
+[^ref1]: 
+[^ref1]: 
+[^ref1]: 
+[^ref1]: 
  
