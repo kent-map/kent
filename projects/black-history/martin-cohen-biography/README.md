@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Martin Cohen" author="Liam Cohen" layout="vtl" 
+<param ve-config title="A Tribute to My Father" author="Liam Cohen" layout="vtl" 
 banner="xxx">
 
 <param ve-entity eid="Q67479626" alias="Kent">
