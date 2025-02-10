@@ -26,9 +26,9 @@ Cao suggests that 'working hard runs through the veins of immigrant families.'[^
 In acknowledgement of this, Martin softened his accent to help him fit in.  
 <param ve-image url="https://stor.artstor.org/stor/117b831a-b025-4fff-a919-83d05254eefd" label="Martin Cohen working at Eurostar" attribution="By kind permission of Liam Cohen">
 
-Martin was a well-known face in Ashford's nightlife. His interpersonal skills contributed significantly to his success in his work. For over a decade, he worked in the industry working at Liquid, Cameo, and the Phoenix. Although Martin had no academic qualifications in business and/or management, he certainly gained a strong business acumen, showcased in his management of The Phoenix, a sports bar in Ashford's town centre. Taffer documents,  
+Martin was a well-known face in Ashford's nightlife. His interpersonal skills contributed significantly to his success in his work. For over a decade, he worked in the industry working at Liquid, Cameo, and the Phoenix. Although Martin had no academic qualifications in business and/or management, he certainly gained a strong business acumen, showcased in his management of The Phoenix, a sports bar in Ashford's town centre. Taffer documents,
 <br><br>
-'Managing a business is not rocket science, but it is a science – your success lies in the reactions of the people around you.'[^ref7]  
+'Managing a business is not rocket science, but it is a science – your success lies in the reactions of the people around you.'[^ref7]
 <br><br>
 He asserts that the customer's perception of the business drives the narrative of the business.  Due to this, Martin would offer one or two complimentary drinks to regulars. Therefore, if more people were in the bar, more people would likely spread the word about The Phoenix. 
 <param ve-image url="https://stor.artstor.org/stor/167ddc3d-9de0-4696-82b1-1b2a51145ef4" label="Martin Cohen" attribution="By kind permission of Liam Cohen">
