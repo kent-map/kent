@@ -6,6 +6,14 @@ Reclaiming narratives is a call to action for Black communities across the UK to
 # &nbsp; 
 `.cards`
 
+## A Tribute to My Father
+
+[Martin Cohen](/projects/martin-cohen-biography)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/cohen_family.jpg)
+
+In a loving tribute to his father, Liam Cohen explores his father's experiences of growing up in 1970s Britain.
+
 ## William Cuffay
 
 [William Cuffay](/19c/19c-cuffay-biography)
