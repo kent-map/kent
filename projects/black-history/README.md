@@ -8,7 +8,7 @@ Reclaiming narratives is a call to action for Black communities across the UK to
 
 ## A Tribute to My Father
 
-[Martin Cohen](/projects/martin-cohen-biography)
+[Martin Cohen](/projects/black-history/martin-cohen-biography)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/cohen_family.jpg)
 
