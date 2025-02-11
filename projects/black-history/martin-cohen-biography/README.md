@@ -13,14 +13,14 @@ Not long after leaving school, Martin trained to be a police officer, which woul
 <param ve-image url="https://stor.artstor.org/stor/536003bd-c78c-43ad-a1ec-36db865614d8" label="Martin Cohen" attribution="By kind permission of Liam Cohen">
 
 After the passing of his parents, Martin went travelling. First, London, then Barcelona, and then back to London. During this time, he changed his surname to Cohen. He took the name from a local Jewish shop where he grew up and befriended the family that managed it. In 1993, he settled in Ashford, Kent. In the same year, he met a local woman, Liz Ashby, while working together at a factory owned by Rimmel Cosmetics. After a conservative but strategic approach from Martin, the pair entered a relationship. In 1995, Elliot, their first child, was born. In 1999, Liam, their second child, was born. 
-<param ve-image url="https://stor.artstor.org/stor/dc3dc4d8-bfaf-4902-84aa-de4e08754e12" label="Elliott and Martin Cohen" attribution="By kind permission of Liam Cohen">
+<param ve-image url="https://stor.artstor.org/stor/dc3dc4d8-bfaf-4902-84aa-de4e08754e12" label="Elliot and Liam Cohen" attribution="By kind permission of Liam Cohen">
 
 Martin did not go down the policing route in Ashford; however, he still possessed characteristics similar to those of an officer, such as bravery and selflessness. On 21st January 1997, he was awarded £250 and given a Certificate of Commendation by the High Sheriff of Kent for his contribution to the conviction of an armed robber. The robber, who had threatened a cashier at the Brookfield Service Station with a knife, before grabbing £110 from the till, was disturbed by Martin who then chased him down an alleyway.[^ref4] 
 <br><br>
 Martin preferred not to mention his heroics. That said, he was undoubtedly proud of this and had the certificate on the wall at home. 
 <param ve-image url="https://stor.artstor.org/stor/f14b41e1-4616-4d3b-9f6d-b6097f5d930d" label="Martin Cohen" attribution="By kind permission of Liam Cohen">
 
-Cao suggests that 'working hard runs through the veins of immigrant families.'[^ref5] He asserts this is due to the influence of first-generation immigrant parents on their children. It is the case that many immigrants had to work hard merely to survive.vi Frank Brown worked as a Binman, and May was a secretary in a doctor's surgery. The willingness to work and work hard was passed down to Martin. He worked for 22 years at Eurostar and consistently in bars and nightclubs in Ashford. On many occasions, Martin had stretches when he worked every day for multiple years. This almost relentless work ethic that Afro-Caribbeans commonly share stems from the wish for equality. From Ro's research, she documents the attitude of a British Nigerian woman and her view of her work ethic. She writes:
+Cao suggests that 'working hard runs through the veins of immigrant families.'[^ref5] He asserts this is due to the influence of first-generation immigrant parents on their children. It is the case that many immigrants had to work hard merely to survive. Frank Brown worked as a Binman, and May was a secretary in a doctor's surgery. The willingness to work and work hard was passed down to Martin. He worked for 22 years at Eurostar and consistently in bars and nightclubs in Ashford. On many occasions, Martin had stretches when he worked every day for multiple years. This almost relentless work ethic that Afro-Caribbeans commonly share stems from the wish for equality. From Ro's research, she documents the attitude of a British Nigerian woman and her view of her work ethic. She writes:
 <br><br>
 ‘It's a principle of being black in the UK - You have to work twice as hard as your white counterparts to even be given recognition.’[^ref6] 
 <br><br>
@@ -35,7 +35,7 @@ He asserts that the customer's perception of the business drives the narrative o
 <param ve-image url="https://stor.artstor.org/stor/167ddc3d-9de0-4696-82b1-1b2a51145ef4" label="Martin Cohen" attribution="By kind permission of Liam Cohen">
 
 Liz and Martin were together for 12 years. After their separation, Martin focused on his career and being a father. On 29th April 2021, Martin passed away. His funeral was during the Covid-19 restrictions, so a select few could attend. However, hundreds of people live-streamed the service, and a viewing party was held at the Ashford Rugby Club. 
-<param ve-image url="https://stor.artstor.org/stor/8881820b-2e0b-4513-8b80-368ec43ead6c" label="Martin Cohen at 60 with his sons Elliot and Liam" attribution="By kind permission of Liam Cohen">
+<param ve-image url="https://stor.artstor.org/stor/8881820b-2e0b-4513-8b80-368ec43ead6c" label="Martin Cohen with his sons Elliot and Liam" attribution="By kind permission of Liam Cohen">
 
 ### References
 
