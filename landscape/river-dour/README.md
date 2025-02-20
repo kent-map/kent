@@ -45,15 +45,18 @@ Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerge
 **Buckland Paper Mill**
 The Dour has played an important part in Dover's industrial past, powering eight corn mills and five paper mills. At Buckland, the Paper Mill
 
-In 1901, Mr Brace dammed the river so that he could use the water in his tanyard. As quickly as the Town Surveyors dismantled it, Brace rebuilt it.[^ref ] "The River Dour." Dover Express, 4 Oct. 1901, p. 5. British Library Newspapers, link.gale.com/apps/doc/JF3231174793/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=a81a208f. Accessed 20 Feb. 2025.
-
 <para ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Alterations_to_Buckland_Paper_Mill%2C_Crabble_Hill_-_geograph.org.uk_-_5429402.jpg" label="Alterations to Buckland Paper Mill, Crabble Hill, 2017" attribution="John Baker, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Barton Path**
 
 **Charlton Green**
+The Dover Engineering Works fronted the River Dour at Charlton Green. 
 
 **Ladywell**
+By 1900, the _Dover Express_ reported that "the River Dour has long ceased to be ornamental or very useful. In the olden towns no doubt its waters were clear enough to invite the coy trout to haunt it, but now fish would as soon make their home in a sewer."[^ref] "Nota Bene." Dover Express, 1 June 1900, p. 3. British Library Newspapers, link.gale.com/apps/doc/JF3239539234/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=901555fb. Accessed 20 Feb. 2025. However, it complained "But because the Dour is of very little use is that any reason why the townsfolk should abuse it by allowing their sinks to empty into it, by casting therein the offal from slaughterhouses, the mud from surface drains, the useless tins from the provision merchants, and the refuse from the flour and paper mills." It called for the Corporation to force the mill owners to give up their rights to the dams and stop the pollution.
+<br><br>
+In 1901, Dover Town Council bought the rights to the river for £300 and tore down the sluice gates at Stembrook Mill. In retaliation, the mill owner, Mr Brace, erected a dam of iron and piles forcing the Town Surveyors to send a squad of men to dismantle it. Brace rebuilt it.[^ref ] "The River Dour." Dover Express, 4 Oct. 1901, p. 5. British Library Newspapers, link.gale.com/apps/doc/JF3231174793/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=a81a208f. Accessed 20 Feb. 2025.
+"News." Dundee Courier, 2 Oct. 1901, p. 4. British Library Newspapers, link.gale.com/apps/doc/ID3227116740/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=bd287629. Accessed 20 Feb. 2025.
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dover%2C_River_Dour_-_geograph.org.uk_-_2868890.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 <param ve-map center="51.07.42.3, 1.18.36.4" zoom="15"> 
