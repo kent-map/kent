@@ -9,53 +9,62 @@
 #
 
 Para 1
-Wolverton
-<param ve-map url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
+**Wolverton**   
+Rising in the small hamlet of Wolverton, the River Dour is a small chalk stream that flows to the Port of Dover. Approximately four miles long, the Dour passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths.
+<br><br>
+Bronze Age settlers
+<param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
 Para 1
-Temple Ewell
+**Temple Ewell**
 <param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
 Para 
-Bushy Rough
+**Bushy Rough**
 <param ve-map="51.7.24.6, 1.18.51.8">
 
 Para 
-Russell Gardens
+**Russell Gardens**
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/14/Russell_Gardens_-_geograph.org.uk_-_5260790.jpg" label="Russell Gardens" attribution="Ian Capper, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/Russell_Gardens_-_geograph.org.uk_-_5259889.jpg" label="Russell Gardens" attribution="Ian Capper, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Para 2
-Kearsney Abbey
+**Kearsney Abbey**
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Kearnsney_abbey_Dover.jpg" label="Kearnsey Abbey" attribution="postcard, Public domain, via Wikimedia Commons">
 
 Para 3
-Crabble Mill
+**Crabble Mill**
 
 Para 4
-Buckland Paper Mill
+**Buckland Paper Mill**
 <para ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Alterations_to_Buckland_Paper_Mill%2C_Crabble_Hill_-_geograph.org.uk_-_5429402.jpg" label="Alterations to Buckland Paper Mill, Crabble Hill, 2017" attribution="John Baker, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Para 5
-Charlton
+**Charlton**
 
 Para
-Barton Path
+**Barton Path**
 
 Para
-Ladywell
+**Ladywell**
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dover%2C_River_Dour_-_geograph.org.uk_-_2868890.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 <param ve-map="51.07.42.3, 1.18.36.4"> 
 
 Para 
-Pencester Gardens
+**Pencester Gardens**
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Dover%2C_River_Dour_-_geograph.org.uk_-_2869094.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 
 
 Para
-St James
+**Snar Gate**
 
 Snar Gate, also known as Pier Gate was built about 1370. It was a sluice gate between the river and harbour. In 1588, it was taken down when the new harbour was built[^ref Statham 63) 
+
+For Madox's Ford's described the Dour as a poor little river.
+<br><br>
+In among the houses one sees at times the poor little river Dour, a pathetic thread of silver that seems to have no real purpose in days like these. One thinks that its whole short course ought to be covered up and itself made to run through culverts. The principal part of its stream is supplied by a nailbourne, and when this chooses to run the Dour boasts a certain head of water. As a rule, it dribbles dispiritedly from Ewell to the sea, a distance of a few miles. 
+<br><br>
+
 
 Para
 **Wellington Dock**   
@@ -63,7 +72,7 @@ In 1846, the Duke of Wellington opened "Wellington Bridge"
 In 1888 Wellington Dock was improved to allow vessels of 800 tons.
 
 Para 6
-Dover Harbour
+**Dover Harbour**
 
 ### Bibliography
 
