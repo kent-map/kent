@@ -10,17 +10,20 @@
 
 Para 1
 **Wolverton**   
-Rising in the small hamlet of Wolverton, the River Dour is a small chalk stream that flows to the Port of Dover. Approximately four miles long, the Dour passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths.
+With one of its tributaries rising in the small hamlet of Wolverton, the River Dour is a small chalk stream that flows to the Port of Dover. Approximately four miles long, the Dour passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths.
 <br><br>
-Bronze Age settlers
+A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near the Harbour indicate that the river may have been used by traders.
 <param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
 Para 1
-**Temple Ewell**
+**Temple Ewell**  
+The main source of the river is at Watersend, Temple Ewell.
 <param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
 Para 
-**Bushy Rough**
+**Bushy Ruff**  
+As it leaves XXX, the river flows into a mill pond created in 1794. 
+Use Hasted 1798 map.
 <param ve-map="51.7.24.6, 1.18.51.8">
 
 Para 
