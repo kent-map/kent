@@ -5,10 +5,10 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q2000634" aliases="Downs">
 <param ve-entity eid="Q7337355" aliases="River Dour">
+<param ve-entity eid="Q2703021" aliases="Temple Ewell">
 
 #
 
-Para 1
 **Wolverton**   
 With one of its tributaries rising in the small hamlet of Wolverton, the River Dour is a small chalk stream that flows to the Port of Dover. Approximately four miles long, the Dour passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths.
 <br><br>
@@ -18,21 +18,24 @@ A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near t
 Para 1
 **Temple Ewell**  
 The main source of the river is at Watersend, Temple Ewell.
-<param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
+<param ve-map center="Q2703021" zoom="15">
 
 Para 
 **Bushy Ruff**  
-As it leaves XXX, the river flows into a mill pond created in 1794. 
+As it leaves XXX, the river flows into a mill pond created in 1794 for Bushy Ruff Paper Mill. Now a lake, it  
 Use Hasted 1798 map.
-<param ve-map="51.7.24.6, 1.18.51.8">
+<param ve-map center="51.7.24.6, 1.18.51.8" zoom="15">
 
 Para 
 **Russell Gardens**
+Use Ward guide map?
+With its Pergola Bridges spanning the river and a large lily pond, Russell Gardens
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/14/Russell_Gardens_-_geograph.org.uk_-_5260790.jpg" label="Russell Gardens" attribution="Ian Capper, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/Russell_Gardens_-_geograph.org.uk_-_5259889.jpg" label="Russell Gardens" attribution="Ian Capper, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 Para 2
-**Kearsney Abbey**
+**Kearsney Abbey**  
+Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerges in the Kearsney Abbey gardens.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Kearnsney_abbey_Dover.jpg" label="Kearnsey Abbey" attribution="postcard, Public domain, via Wikimedia Commons">
 
 Para 3
@@ -51,7 +54,7 @@ Para
 Para
 **Ladywell**
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dover%2C_River_Dour_-_geograph.org.uk_-_2868890.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
-<param ve-map="51.07.42.3, 1.18.36.4"> 
+<param ve-map center="51.07.42.3, 1.18.36.4" zoom="15"> 
 
 Para 
 **Pencester Gardens**
