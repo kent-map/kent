@@ -9,10 +9,16 @@
 
 #
 
+Approximately four miles long, the River Dour is a small chalk stream which passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths to the Port of Dover.
+
 **Wolverton**   
-With one of its tributaries rising in the small hamlet of Wolverton, the River Dour is a small chalk stream that flows to the Port of Dover. Approximately four miles long, the Dour passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths.
+A tributary of the Dour, the Drellingore, rises in the small hamlet of Wolverton, feeding into the River Dour near Bushy Ruff. In the 1930s it was said to flow every five to seven years. [^ref] "News in Brief." Times, 15 Feb. 1937, p. 9. The Times Digital Archive, link.gale.com/apps/doc/CS151990351/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=da3ee393. Accessed 20 Feb. 2025.
+
+
 <br><br>
 A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near the Harbour indicate that the river may have been used by traders.
+<br><br>
+
 <param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
 **Temple Ewell**  
@@ -37,6 +43,10 @@ Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerge
 **Crabble Corn Mill**
 
 **Buckland Paper Mill**
+The Dour has played an important part in Dover's industrial past, powering eight corn mills and five paper mills. At Buckland, the Paper Mill
+
+In 1901, Mr Brace dammed the river so that he could use the water in his tanyard. As quickly as the Town Surveyors dismantled it, Brace rebuilt it.[^ref ] "The River Dour." Dover Express, 4 Oct. 1901, p. 5. British Library Newspapers, link.gale.com/apps/doc/JF3231174793/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=a81a208f. Accessed 20 Feb. 2025.
+
 <para ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Alterations_to_Buckland_Paper_Mill%2C_Crabble_Hill_-_geograph.org.uk_-_5429402.jpg" label="Alterations to Buckland Paper Mill, Crabble Hill, 2017" attribution="John Baker, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Barton Path**
@@ -44,6 +54,7 @@ Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerge
 **Charlton Green**
 
 **Ladywell**
+
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dover%2C_River_Dour_-_geograph.org.uk_-_2868890.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 <param ve-map center="51.07.42.3, 1.18.36.4" zoom="15"> 
  
@@ -64,6 +75,7 @@ Para
 **Wellington Dock**   
 In 1846, the Duke of Wellington opened "Wellington Bridge" 
 In 1888 Wellington Dock was improved to allow vessels of 800 tons.
+In 1914 it was reported that "an immense quantity of filth" was brought down by the river into the dock and that the Sanitary Officers should be stricter in prosecuting the townsfolk who were treating the river like an "open drain"[^ref ]"The River Dour." _Dover Express_, 13 Mar. 1914, p. 2. British Library Newspapers, link.gale.com/apps/doc/JA3231215324/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=6f10375b. Accessed 20 Feb. 2025. Mud and weeds from the river also drifted down to the dock. By 1922, matters were no better as the river was "filled with household rubbish in the form of tin cans" and there were fears that the poor water quality would be hazardous to health.[^ref] The River Dour." Dover Express, 20 Oct. 1922, p. 7. British Library Newspapers, link.gale.com/apps/doc/JA3231247671/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=e7a41907. Accessed 20 Feb. 2025.
 
 Para 6
 **Dover Harbour**
