@@ -42,12 +42,12 @@ Both Kaye-Smith's and Kipling’s works celebrate the landscapes (pays) of Marsh
 
 ### Bibliography
 
-Gelling, M. (1984) Place-Names in the Landscape [Phoenix Press: London]   
-Gelling, M. (1988) Signposts to the Past: Place-Names and the History of England (2nd Edition) [Phillimore: Chichester].   
-Horsley, J. W. (1921) Place Names in Kent, [South Eastern Gazette Newspaper Co.: Maidstone] Canon J. W. Horsley; Late Vicar of Detling. Available via Project Guteberg - https://www.gutenberg.org/files/63263/63263-h/63263-h.htm   
-Mills. A. D. (1998) The Oxford Dictionary of English Place-Names [OUP: Oxford]   
-i Walker Reed, Allen (1979) "The Evocative Power of Place Names in the Poetry of Carl Sandburg," Literary Onomastics Studies: Vol. 6, Article 3. Available at: http://digitalcommons.brockport.edu/los/vol6/iss1/3 ii https://www.kent-maps.online/landscape/kentish-landscapes/   
-Mills. A. D. (1998) The Oxford Dictionary of English Place-Names [OUP: Oxford]   
+Gelling, M. (1984) _Place-Names in the Landscape_ [Phoenix Press: London]   
+Gelling, M. (1988) _Signposts to the Past: Place-Names and the History of England_ (2nd Edition) [Phillimore: Chichester].  
+Horsley, J. W. (1921) _Place Names in Kent_, [South Eastern Gazette Newspaper Co.: Maidstone] Canon J. W. Horsley; Late Vicar of Detling. Available via Project Guteberg - https://www.gutenberg.org/files/63263/63263-h/63263-h.htm   
+Mills. A. D. (1998) _The Oxford Dictionary of English Place-Names_ [OUP: Oxford]   
+i Walker Reed, Allen (1979) "The Evocative Power of Place Names in the Poetry of Carl Sandburg," _Literary Onomastics Studies_: Vol. 6, Article 3. Available at: http://digitalcommons.brockport.edu/los/vol6/iss1/3 ii https://www.kent-maps.online/landscape/kentish-landscapes/   
+Mills. A. D. (1998) _The Oxford Dictionary of English Place-Names_ [OUP: Oxford]   
 
 ### References
 
