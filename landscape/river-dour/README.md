@@ -62,7 +62,9 @@ In 1901, Dover Town Council bought the rights to the river for £300 and tore do
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dover%2C_River_Dour_-_geograph.org.uk_-_2868890.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 <param ve-map center="51.07.42.3, 1.18.36.4" zoom="15"> 
  
-**Pencester Gardens**
+**Pencester Gardens**   
+Emerging from a culvert under Pencester Road, the River Dour flows along the edge of Pencester Gardens. Originally the site of a timber store, the site was purchased by the Corporation for £5,000. "New Dover Recreation Ground." Kentish Express - Saturday 14 June 1924. The Gardens were opened on 6th June 1924 by Major Astor, M.P. The opening ceremony which included music from the Duke of Yorks Royal Military School band and a display from the gymastic squad was attended by more than 635 people. The public paid 3d for chairs at the event and £7 18s 9d was raised which went towards the Dover War Memorial Fund. In the evening, a large crowd gathered to hear the band play again, and the Connaught Male Voice Quartette sung a selection of pieces. "Pencester Gardens Opening." Dover Express - Friday 06 June 1924. "Pencester Gardens Opened." Dover Express - Friday 13 June 1924.
+The _Dover Express_ commented that "now there is a path beside the Dour in Pencester Gardens, further efforts will be made to keep the water in the stream clearer. It may be impossible to do all that is desirable in this direction, but there is a great deal too much filth in the Dour." "Nota Bene." Dover Express - Friday 13 June 1924
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Dover%2C_River_Dour_-_geograph.org.uk_-_2869094.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 
 **Snar Gate**
