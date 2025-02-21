@@ -58,7 +58,6 @@ By 1900, the _Dover Express_ reported that "the River Dour has long ceased to be
 In 1901, Dover Town Council bought the rights to the river for £300 and tore down the sluice gates at Stembrook Mill. In retaliation, the mill owner, Mr Brace, erected a dam of iron and piles forcing the Town Surveyors to send a squad of men to dismantle it. Brace rebuilt it and it was reported in the national press as "The Battle of the Dams".[^ref ] "The River Dour." Dover Express, 4 Oct. 1901, p. 5. British Library Newspapers, link.gale.com/apps/doc/JF3231174793/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=a81a208f. Accessed 20 Feb. 2025.
 "News." Dundee Courier, 2 Oct. 1901, p. 4. British Library Newspapers, link.gale.com/apps/doc/ID3227116740/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=bd287629. Accessed 20 Feb. 2025.
 "The Battle of the Dams." Evening Telegraph, 2 Oct. 1901, p. 5. British Library Newspapers, link.gale.com/apps/doc/JE3235787978/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=626e5f61. Accessed 20 Feb. 2025.
-
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dover%2C_River_Dour_-_geograph.org.uk_-_2868890.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 <param ve-map center="51.07.42.3, 1.18.36.4" zoom="15"> 
  
@@ -74,17 +73,13 @@ Snar Gate, also known as Pier Gate was built about 1370. It was a sluice gate be
 For Madox's Ford's ascerbic assessment of the River Dour does it a disservice.
 <br><br>
 In among the houses one sees at times the poor little river Dour, a pathetic thread of silver that seems to have no real purpose in days like these. One thinks that its whole short course ought to be covered up and itself made to run through culverts. The principal part of its stream is supplied by a nailbourne, and when this chooses to run the Dour boasts a certain head of water. As a rule, it dribbles dispiritedly from Ewell to the sea, a distance of a few miles. 
-<br><br>
 
-
-Para
 **Wellington Dock**   
 In 1846, the Duke of Wellington opened "Wellington Bridge" 
 In 1888 Wellington Dock was improved to allow vessels of 800 tons.
 In 1914 it was reported that "an immense quantity of filth" was brought down by the river into the dock and that the Sanitary Officers should be stricter in prosecuting the townsfolk who were treating the river like an "open drain"[^ref ]"The River Dour." _Dover Express_, 13 Mar. 1914, p. 2. British Library Newspapers, link.gale.com/apps/doc/JA3231215324/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=6f10375b. Accessed 20 Feb. 2025. Mud and weeds from the river also drifted down to the dock. By 1922, matters were no better as the river was "filled with household rubbish in the form of tin cans" and there were fears that the poor water quality would be hazardous to health.[^ref] The River Dour." Dover Express, 20 Oct. 1922, p. 7. British Library Newspapers, link.gale.com/apps/doc/JA3231247671/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=e7a41907. Accessed 20 Feb. 2025.
 
-Para 6
-**Dover Harbour**
+**Dover Harbour**   
 
 
 ### Bibliography
