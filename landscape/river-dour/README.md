@@ -59,6 +59,7 @@ In 1901, Dover Town Council bought the rights to the river for £300 and tore do
 "News." Dundee Courier, 2 Oct. 1901, p. 4. British Library Newspapers, link.gale.com/apps/doc/ID3227116740/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=bd287629. Accessed 20 Feb. 2025.
 "The Battle of the Dams." Evening Telegraph, 2 Oct. 1901, p. 5. British Library Newspapers, link.gale.com/apps/doc/JE3235787978/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=626e5f61. Accessed 20 Feb. 2025.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dover%2C_River_Dour_-_geograph.org.uk_-_2868890.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
+<param ve-image url="https://stor.artstor.org/stor/128d532a-7c63-498e-b8e1-81134b335c4f" label="1908 Map of Dover" attribution="By kind permission of Dover Museum">
 <param ve-map center="51.07.42.3, 1.18.36.4" zoom="15"> 
  
 **Pencester Gardens**   
