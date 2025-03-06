@@ -11,23 +11,29 @@
 
 Approximately four miles long, the River Dour is a small chalk stream which passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths to the Port of Dover.
 <br><br>
-In 1900, the novelist, poet and critic, Ford Madox Ford in _The Cinque Ports : A Historical and Descriptive Record_ dismissed the River Dour as unworthy of note:
+In 1900, the novelist, poet and critic, Ford Madox Ford in _The Cinque Ports : A Historical and Descriptive Record_ dismisses the River Dour as unworthy of note:
 <br><br>
 In among the houses one sees at times the poor little river Dour, a pathetic thread of silver that seems to have no real purpose in days like these. One thinks that its whole short course ought to be covered up and itself made to run through culverts. The principal part of its stream is supplied by a nailbourne, and when this chooses to run the Dour boasts a certain head of water. As a rule, it dribbles dispiritedly from Ewell to the sea, a distance of a few miles.[^ref1] 
 <br><br>
-Ford failed to appreciate the natural beauty of the Dour, which forms an important habitat for brown trout, eels and stone loach as well as herons, ducks, coots, moorhen and kingfishers.[^ref2] In this article, we will take you from its source at Watersend to the sea, highlighting its importance to the town.
+However, Ford failed to appreciate the natural beauty of the Dour, which forms an important habitat for brown trout, eels and stone loach, as well as for birds such as herons, moorhens, coots, and kingfishers.[^ref2] In this article, we will take you from its source at Watersend to the sea, highlighting its importance to the town.
 
 **Watersend**  
-The river Dour rises at Watersend, on the outskirts of the vllage of Temple Ewell (Ewell being the Old English for a river source or spring). Two watermills in the village supplied flour for the troops stationed at Dover during the Napoleonic Wars.
-<param ve-map center="Q2703021" zoom="15">
+The river Dour rises at Watersend, on the outskirts of the village of Temple Ewell (Ewell being the Old English for a river source or spring). Charles Harper described it as the place where "the springs of the little River Dour burst forth and gem all the valley hence to Dover with gracious foliage".[^ref3]
+<br><br>
+A tributary of the Dour, the Drellingore, rises from an intermittent spring in the small hamlet of Wolverton, feeding into the River Dour near Bushy Ruff. It flows from a chalk aquifer and the water course if often dry.  Leland describes  "brasted owt so abundantly that a great part of the water cummeth into Dovar Streme"
+According to an old saying: 
+<br><br>
+When Drellingore stream flows to Dover town   
+Wheat shall be forty shillings and barley a pound
+<br><br>
 
-**Wolverton**   
-A tributary of the Dour, the Drellingore, rises in the small hamlet of Wolverton, feeding into the River Dour near Bushy Ruff. In the 1930s it was said to flow every five to seven years. [^ref] "News in Brief." Times, 15 Feb. 1937, p. 9. The Times Digital Archive, link.gale.com/apps/doc/CS151990351/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=da3ee393. Accessed 20 Feb. 2025.
+In 1914, 
 
 
 <br><br>
 A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near the Harbour indicate that the river may have been used by traders.
 <br><br>
+<param ve-map center="Q2703021" zoom="15">
 
 <param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
@@ -49,9 +55,12 @@ Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerge
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Kearnsney_abbey_Dover.jpg" label="Kearnsey Abbey" attribution="postcard, Public domain, via Wikimedia Commons">
 
 **Crabble Corn Mill**
+The river now flows past Crabble Corn Mill, which was built in 1814 to provide flour for the soldiers who were stationed at Dover to protect the country from a Napoleonic invasion.["Roundabout." _Kentish Gazette_ Thursday 12 September 1996
 
 **Buckland Paper Mill**
 The Dour has played an important part in Dover's industrial past, powering eight corn mills and five paper mills. At Buckland, the Paper Mill
+
+In 1986, thousands of brown trout were killed when industrial bleach escaped from a storage tank at the Paper Mill.[ Daily Telegraph 11 Nov 1986.
 
 <para ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Alterations_to_Buckland_Paper_Mill%2C_Crabble_Hill_-_geograph.org.uk_-_5429402.jpg" label="Alterations to Buckland Paper Mill, Crabble Hill, 2017" attribution="John Baker, via Wikimedia Commons" license="CC BY-SA 2.0">
 
@@ -96,7 +105,7 @@ Statham, Samuel Percy Hammond _The History of the Castle, Town, and Port of Dove
 
 [^ref1]: Ford Madox Ford. _The Cinque Ports : A Historical and Descriptive Record_, Blackwood, 1900. p.298.
 [^ref2]: [Discover the Dour](http://discoverthedour.org/unique-habitat-dour.html#:~:text=Near%20the%20source%20the%20river%20flows%20into%20lakes,fish%20such%20as%20miller%27s%20thumb%20and%20stone%20loach.)
-[^ref3]:
+[^ref3]: Harper, Charles George. _The Dover Road: The Annals of An Ancient Turnpike_. Chapman and Hall, 1895.
 [^ref4]:
 [^ref5]:
 [^ref6]:
