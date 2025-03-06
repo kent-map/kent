@@ -11,11 +11,11 @@
 
 Approximately four miles long, the River Dour is a small chalk stream which passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths to the Port of Dover.
 <br><br>
-In 1900, the novelist, poet and critic, Ford Madox Ford described the River Dour in _The Cinque Ports : A Historical and Descriptive Record_ as follows:
+In 1900, the novelist, poet and critic, Ford Madox Ford in _The Cinque Ports : A Historical and Descriptive Record_ dismissed the River Dour as unworthy of note:
 <br><br>
 In among the houses one sees at times the poor little river Dour, a pathetic thread of silver that seems to have no real purpose in days like these. One thinks that its whole short course ought to be covered up and itself made to run through culverts. The principal part of its stream is supplied by a nailbourne, and when this chooses to run the Dour boasts a certain head of water. As a rule, it dribbles dispiritedly from Ewell to the sea, a distance of a few miles. 
 <br><br>
-Ford's description does the Dour a disservice. In this article, we will take you from its source to the sea
+Ford paints a negative picture of the river, failing to appreciate. In this article, we will take you from its source to the sea
 
 **Temple Ewell**  
 The main source of the river is at Watersend, Temple Ewell.
