@@ -15,7 +15,7 @@ In 1900, the novelist, poet and critic, Ford Madox Ford in _The Cinque Ports : A
 <br><br>
 In among the houses one sees at times the poor little river Dour, a pathetic thread of silver that seems to have no real purpose in days like these. One thinks that its whole short course ought to be covered up and itself made to run through culverts. The principal part of its stream is supplied by a nailbourne, and when this chooses to run the Dour boasts a certain head of water. As a rule, it dribbles dispiritedly from Ewell to the sea, a distance of a few miles.[^ref1] 
 <br><br>
-Ford failed to appreciate the natural beauty of the Dour, which forms an important habitat for brown trout, eels and stone loach as well as herons, kingfishers, ducks, coots and moorhen.[^ref2] In this article, we will take you from its source at Watersend to the sea.
+Ford failed to appreciate the natural beauty of the Dour, which forms an important habitat for brown trout, eels and stone loach as well as herons, ducks, coots, moorhen and kingfishers.[^ref2] In this article, we will take you from its source at Watersend to the sea, highlighting its importance to the town.
 
 **Watersend**  
 The river Dour rises at Watersend, on the outskirts of the vllage of Temple Ewell (Ewell being the Old English for a river source or spring). Two watermills in the village supplied flour for the troops stationed at Dover during the Napoleonic Wars.
