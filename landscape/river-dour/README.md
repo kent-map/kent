@@ -10,20 +10,31 @@
 #
 
 Approximately four miles long, the River Dour is a small chalk stream which passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths to the Port of Dover.
+<br><br>
+In 1900, the novelist, poet and critic, Ford Madox Ford in _The Cinque Ports : A Historical and Descriptive Record_ dismissed the River Dour as unworthy of note:
+<br><br>
+In among the houses one sees at times the poor little river Dour, a pathetic thread of silver that seems to have no real purpose in days like these. One thinks that its whole short course ought to be covered up and itself made to run through culverts. The principal part of its stream is supplied by a nailbourne, and when this chooses to run the Dour boasts a certain head of water. As a rule, it dribbles dispiritedly from Ewell to the sea, a distance of a few miles.[^ref1] 
+<br><br>
+However, Ford failed to appreciate the natural beauty of the Dour, which forms an important habitat for brown trout, eels and stone loach, as well as for birds such as herons, moorhens, coots, and kingfishers.[^ref2] In this article, we will take you from its source at Watersend to the sea, highlighting its importance to the town.
 
-**Wolverton**   
-A tributary of the Dour, the Drellingore, rises in the small hamlet of Wolverton, feeding into the River Dour near Bushy Ruff. In the 1930s it was said to flow every five to seven years. [^ref] "News in Brief." Times, 15 Feb. 1937, p. 9. The Times Digital Archive, link.gale.com/apps/doc/CS151990351/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=da3ee393. Accessed 20 Feb. 2025.
-
+**Watersend**  
+The river Dour rises at Watersend, on the outskirts of the village of Temple Ewell (Ewell being the Old English for a river source or spring). Charles Harper described it as the place where "the springs of the little River Dour burst forth and gem all the valley hence to Dover with gracious foliage".[^ref3]
+<br><br>
+A tributary of the Dour, the Drellingore, rises from an intermittent spring in the small hamlet of Wolverton, feeding into the River Dour near Bushy Ruff. It flows from a chalk aquifer and the water course is often dry. A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near the Harbour indicate that the river may have been used by traders. According to an old saying: 
+<br><br>
+When Drellingore stream flows to Dover town   
+Wheat shall be forty shillings and barley a pound.[^ref5]
+<br><br>
+In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown"[^ref6] Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows" (240)
 
 <br><br>
-A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near the Harbour indicate that the river may have been used by traders.
+
 <br><br>
+<param ve-map center="Q2703021" zoom="15">
 
 <param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
-**Temple Ewell**  
-The main source of the river is at Watersend, Temple Ewell.
-<param ve-map center="Q2703021" zoom="15">
+
 
 **Bushy Ruff**  
 As it leaves XXX, the river flows into a mill pond created in 1794 for Bushy Ruff Paper Mill. Now a lake, it  
@@ -41,9 +52,12 @@ Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerge
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Kearnsney_abbey_Dover.jpg" label="Kearnsey Abbey" attribution="postcard, Public domain, via Wikimedia Commons">
 
 **Crabble Corn Mill**
+The river now flows past Crabble Corn Mill, which was built in 1814 to provide flour for the soldiers who were stationed at Dover to protect the country from a Napoleonic invasion.["Roundabout." _Kentish Gazette_ Thursday 12 September 1996
 
 **Buckland Paper Mill**
 The Dour has played an important part in Dover's industrial past, powering eight corn mills and five paper mills. At Buckland, the Paper Mill
+
+In 1986, thousands of brown trout were killed when industrial bleach escaped from a storage tank at the Paper Mill.[ Daily Telegraph 11 Nov 1986.
 
 <para ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Alterations_to_Buckland_Paper_Mill%2C_Crabble_Hill_-_geograph.org.uk_-_5429402.jpg" label="Alterations to Buckland Paper Mill, Crabble Hill, 2017" attribution="John Baker, via Wikimedia Commons" license="CC BY-SA 2.0">
 
@@ -59,6 +73,7 @@ In 1901, Dover Town Council bought the rights to the river for £300 and tore do
 "News." Dundee Courier, 2 Oct. 1901, p. 4. British Library Newspapers, link.gale.com/apps/doc/ID3227116740/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=bd287629. Accessed 20 Feb. 2025.
 "The Battle of the Dams." Evening Telegraph, 2 Oct. 1901, p. 5. British Library Newspapers, link.gale.com/apps/doc/JE3235787978/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=626e5f61. Accessed 20 Feb. 2025.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dover%2C_River_Dour_-_geograph.org.uk_-_2868890.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
+<param ve-image url="https://stor.artstor.org/stor/128d532a-7c63-498e-b8e1-81134b335c4f" label="1908 Map of Dover" attribution="By kind permission of Dover Museum">
 <param ve-map center="51.07.42.3, 1.18.36.4" zoom="15"> 
  
 **Pencester Gardens**   
@@ -69,10 +84,6 @@ The _Dover Express_ commented that "now there is a path beside the Dour in Pence
 **Snar Gate**
 
 Snar Gate, also known as Pier Gate was built about 1370. It was a sluice gate between the river and harbour. In 1588, it was taken down when the new harbour was built[^ref Statham 63) 
-
-For Madox's Ford's ascerbic assessment of the River Dour does it a disservice.
-<br><br>
-In among the houses one sees at times the poor little river Dour, a pathetic thread of silver that seems to have no real purpose in days like these. One thinks that its whole short course ought to be covered up and itself made to run through culverts. The principal part of its stream is supplied by a nailbourne, and when this chooses to run the Dour boasts a certain head of water. As a rule, it dribbles dispiritedly from Ewell to the sea, a distance of a few miles. 
 
 **Wellington Dock**   
 In 1846, the Duke of Wellington opened "Wellington Bridge" 
@@ -89,4 +100,14 @@ Statham, Samuel Percy Hammond _The History of the Castle, Town, and Port of Dove
 
 ### References
 
-[^ref1]:
+[^ref1]: Ford Madox Ford. _The Cinque Ports : A Historical and Descriptive Record_, Blackwood, 1900. p.298.
+[^ref2]: [Discover the Dour](http://discoverthedour.org/unique-habitat-dour.html#:~:text=Near%20the%20source%20the%20river%20flows%20into%20lakes,fish%20such%20as%20miller%27s%20thumb%20and%20stone%20loach.)
+[^ref3]: Harper, Charles George. _The Dover Road: The Annals of An Ancient Turnpike_. Chapman and Hall, 1895.
+[^ref4]:
+[^ref5]: Harper, p.239.
+[^ref6]: "Drellingore Brook." _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_, 23 April 1910.
+
+[^ref7]:
+[^ref8]:
+[^ref9]:
+[^ref10]:
