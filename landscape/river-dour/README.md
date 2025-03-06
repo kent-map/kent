@@ -11,7 +11,7 @@
 
 Approximately four miles long, the River Dour is a small chalk stream which passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths to the Port of Dover.
 <br><br>
-In 1900, the novelist, poet and critic, Ford Madox Ford in _The Cinque Ports : A Historical and Descriptive Record_ dismisses the River Dour as unworthy of note:
+In 1900, the novelist, poet and critic, Ford Madox Ford in _The Cinque Ports : A Historical and Descriptive Record_ dismissed the River Dour as unworthy of note:
 <br><br>
 In among the houses one sees at times the poor little river Dour, a pathetic thread of silver that seems to have no real purpose in days like these. One thinks that its whole short course ought to be covered up and itself made to run through culverts. The principal part of its stream is supplied by a nailbourne, and when this chooses to run the Dour boasts a certain head of water. As a rule, it dribbles dispiritedly from Ewell to the sea, a distance of a few miles.[^ref1] 
 <br><br>
@@ -20,18 +20,15 @@ However, Ford failed to appreciate the natural beauty of the Dour, which forms a
 **Watersend**  
 The river Dour rises at Watersend, on the outskirts of the village of Temple Ewell (Ewell being the Old English for a river source or spring). Charles Harper described it as the place where "the springs of the little River Dour burst forth and gem all the valley hence to Dover with gracious foliage".[^ref3]
 <br><br>
-A tributary of the Dour, the Drellingore, rises from an intermittent spring in the small hamlet of Wolverton, feeding into the River Dour near Bushy Ruff. It flows from a chalk aquifer and the water course if often dry.  Leland describes  "brasted owt so abundantly that a great part of the water cummeth into Dovar Streme"
-According to an old saying: 
+A tributary of the Dour, the Drellingore, rises from an intermittent spring in the small hamlet of Wolverton, feeding into the River Dour near Bushy Ruff. It flows from a chalk aquifer and the water course is often dry. A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near the Harbour indicate that the river may have been used by traders. According to an old saying: 
 <br><br>
 When Drellingore stream flows to Dover town   
-Wheat shall be forty shillings and barley a pound
+Wheat shall be forty shillings and barley a pound.[^ref5]
+<br><br>
+In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown"[^ref6] Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows" (240)
+
 <br><br>
 
-In 1914, 
-
-
-<br><br>
-A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near the Harbour indicate that the river may have been used by traders.
 <br><br>
 <param ve-map center="Q2703021" zoom="15">
 
@@ -107,8 +104,9 @@ Statham, Samuel Percy Hammond _The History of the Castle, Town, and Port of Dove
 [^ref2]: [Discover the Dour](http://discoverthedour.org/unique-habitat-dour.html#:~:text=Near%20the%20source%20the%20river%20flows%20into%20lakes,fish%20such%20as%20miller%27s%20thumb%20and%20stone%20loach.)
 [^ref3]: Harper, Charles George. _The Dover Road: The Annals of An Ancient Turnpike_. Chapman and Hall, 1895.
 [^ref4]:
-[^ref5]:
-[^ref6]:
+[^ref5]: Harper, p.239.
+[^ref6]: "Drellingore Brook." _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_, 23 April 1910.
+
 [^ref7]:
 [^ref8]:
 [^ref9]:
