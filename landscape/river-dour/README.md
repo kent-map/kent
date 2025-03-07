@@ -20,7 +20,7 @@ In 1900, the novelist, poet and critic, Ford Madox Ford in _The Cinque Ports: A 
 In among the houses one sees at times the poor little river Dour, a pathetic thread of silver that seems to have no real purpose in days like these. One thinks that its whole short course ought to be covered up and itself made to run through culverts. The principal part of its stream is supplied by a nailbourne, and when this chooses to run the Dour boasts a certain head of water. As a rule, it dribbles dispiritedly from Ewell to the sea, a distance of a few miles.[^ref1] 
 <br><br>
 However, Ford failed to appreciate the natural beauty of the Dour, which forms an important habitat for brown trout, eels and stone loach, as well as for birds such as herons, moorhens, coots, and kingfishers.[^ref2] In this article, we will take you from its source at Watersend to the sea, highlighting its importance to the town.
-<param ve-map center="Q7337355" zoom="15">
+<param ve-map center="Q7337355" zoom="12">
 
 **Watersend**  
 The river Dour rises at Watersend, on the outskirts of the village of Temple Ewell (Ewell being the Old English for a river source or spring). Charles Harper described it as the place where "the springs of the little River Dour burst forth and gem all the valley hence to Dover with gracious foliage".[^ref3]
@@ -39,7 +39,7 @@ The saying is often repeated in newspapers and topographical books, and presumab
 At the end of the Alkham Valley, the river flows into a mill pond created in 1794 for Bushy Ruff Paper Mill. Now a lake, it is part of the Bushy Ruff Country Park. It is here that the stream bifurcates with one stream going to Russell Gardens and another to Chiltern Brook.[^ref9]
 <br><br>
 In July 1861, a Fete Champetre was held at Bushy Ruff attracting 2,000 people. The event included quoits, cricket, running matches, jumping and archery. It was criticised in the press for undercatering for its guests who swarmed around the tea tent complaining vociferously when the cakes and watercress ran out. The fire works were described as "small and ineffective" and at the end "numerous torches threw a lurid glare on the wild scenery, and an anxious and tired company"[^ref10]. No mention was made of the lake - no boating!
-<param ve-map center="51.7.24.6, 1.18.51.8" zoom="15">
+<param ve-map center="Q26318758" zoom="15">
 
 **Russell Gardens**   
 With its Pergola Bridges spanning the river and a large lily pond, Russell Gardens were named after Dover Councillor Hilton Ernest Russell.[^ref11]
@@ -52,6 +52,7 @@ Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerge
 **Crabble Corn Mill**   
 The river now flows past Crabble Corn Mill, which was built in 1814 to provide flour for the soldiers who were stationed at Dover to protect the country from a Napoleonic invasion.[^ref12] 
 Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows".[^ref13]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Crabble_Corn_Mill_-_geograph.org.uk_-_4255589.jpg/1280px-Crabble_Corn_Mill_-_geograph.org.uk_-_4255589.jpg" label="Crabble Corn Mill" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Buckland Paper Mill**   
 The Dour has played an important part in Dover's industrial past, powering eight corn mills and five paper mills including the Buckland Paper Mill.
@@ -61,6 +62,7 @@ In 1986, thousands of brown trout were killed when industrial bleach escaped fro
 
 **Barton Path**   
 The river now flows behind the backs of houses along a path where.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/River_Dour%2C_Dover_-_geograph.org.uk_-_4674922.jpg" label="River Dour" attribution="Robin Webster, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Charlton Green**   
 From Barton Path, the river flows along Charlton Green and under Bridge Street, where it reappears on the corner.  
@@ -73,7 +75,7 @@ In 1923, Councillor Fox complained about "That Dirty Dour" "which contained mud 
 In 1929, the store of the Dover Engineering Works which held "large quantities of consumable stores in the form of lubricating oil, grease, cotton waste and a good quantity of wooden patterns" caught alight, and firemen had to pump water from the river to quench the blaze. However, as the sluice gates were closed the river was very low at this point and the firemen had to dig a sump hole in the bed of the stream to draw the water.[^ref18] 
 <br><br>
 Nowadays, the river flows over a small weir and then under the retail car park before reappearing again behind the Charlton Shopping Centre. It then passes behind the houses on Goodfellow way before reaching the intersection of Ladywell and Park Place.
-<param ve-image url="https://commons.wikimedia.org/wiki/File:River_Dour,_Dover_-_geograph.org.uk_-_2263909.jpg" label="River Dour" attribution="John Baker via Wikimedia" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b0/River_Dour%2C_Dover_-_geograph.org.uk_-_2263909.jpg" label="River Dour" attribution="John Baker via Wikimedia" license="CC BY-SA 2.0">
 
 **Ladywell**   
 The river now flows under Ladywell which runs along the side of the Maison Dieu. The Maison Dieu was a pilgrims hospital founded in 1203 and the lady well was a holy well which serviced the hospital
@@ -82,7 +84,6 @@ By 1900, the _Dover Express_ reported that "the River Dour has long ceased to be
 <br><br>
 In 1901, Dover Town Council bought the rights to the river for £300 and tore down the sluice gates at Stembrook Mill. In retaliation, the mill owner, Mr Brace, erected a dam of iron and piles forcing the Town Surveyors to send a squad of men to dismantle it. Brace rebuilt it and it was reported in the national press as "The Battle of the Dams".[^ref22]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dover%2C_River_Dour_-_geograph.org.uk_-_2868890.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
-<param ve-image url="https://stor.artstor.org/stor/128d532a-7c63-498e-b8e1-81134b335c4f" label="1908 Map of Dover" attribution="By kind permission of Dover Museum">
  
 **Pencester Gardens**   
 Emerging from a culvert under Pencester Road, the River Dour flows along the edge of Pencester Gardens. Originally the site of a timber store, the site was purchased by the Corporation for £5,000.[^ref23] The Gardens were opened on 6th June 1924 by Major Astor, M.P. The opening ceremony which included music from the Duke of Yorks Royal Military School band and a display from the gymastic squad was attended by more than 635 people. The public paid 3d for chairs at the event and £7 18s 9d was raised which went towards the Dover War Memorial Fund. In the evening, a large crowd gathered to hear the band play again, and the Connaught Male Voice Quartette sung a selection of pieces.[^ref24] 
