@@ -22,7 +22,7 @@ The river Dour rises at Watersend, on the outskirts of the village of Temple Ewe
 <br><br>
 A tributary of the Dour, the Drellingore, rises from an intermittent spring in the small hamlet of Wolverton, feeding into the River Dour near Bushy Ruff. It flows from a chalk aquifer and the water course is often dry. A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near Dover Harbour indicate that the river may have been used by traders to transport goods. 
 <br><br>
-Rising after many weeks of heavy rainfall, when the water table is high enough for the normally dry bed to contain a stream, the Drellingore has been known to flood parts of Alkham, including the fields from South Alkham to the Alkham Road. In 1936, the _Dover Express_ reported that "the trench is about 2ft wide and the water was 6in deep, flowing rapidly".[^ref4]  According to an old saying: 
+Rising after many weeks of heavy rainfall, when the water table is high enough for the normally dry bed to contain a stream, the Drellingore has been known to flood parts of Alkham, including the fields from South Alkham to the Alkham Road. Leland in his itinerary of Kent of 1538 wrote of the spring which "brastest owt so abundantly, that a great part of the water cummeth into Dovar stream."   In 1936, the _Dover Express_ reported that "the trench is about 2ft wide and the water was 6in deep, flowing rapidly".[^ref4]  According to an old saying: 
 <br><br>
 When Drellingore stream flows to Dover town   
 Wheat shall be forty shillings and barley a pound.[^ref5]
