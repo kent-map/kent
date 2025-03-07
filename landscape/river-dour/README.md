@@ -102,6 +102,7 @@ The River Dour now ends its journey as it disappears into the vast Wellington Do
 In 1914, it was reported that "an immense quantity of filth" was brought down by the river into the dock and that the Sanitary Officers should be stricter in prosecuting the townsfolk who were treating the river like an "open drain"[^ref28] Mud and weeds from the river also drifted down to the dock. By 1922, matters were no better as the river was "filled with household rubbish in the form of tin cans" and there were fears that the poor water quality would be hazardous to health.[^ref29]
 <br><br>
 This article was written specially for Dover at Night 2025.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/48/Wellington_Dock_-_geograph.org.uk_-_4588572.jpg" label="Wellington Dock" attribution="John Baker via Wikimedia Commons" license="CC BY-SA 2.0">
 
 ### References
 [^ref1]: Ford Madox Ford. _The Cinque Ports : A Historical and Descriptive Record_, Blackwood, 1900. p.298.   
