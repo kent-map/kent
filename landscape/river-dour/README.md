@@ -57,7 +57,7 @@ Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant
 The Dour has played an important part in Dover's industrial past, powering eight corn mills and five paper mills including the Buckland Paper Mill.
 <br><br>
 In 1986, thousands of brown trout were killed when industrial bleach escaped from a storage tank at the Paper Mill.[^ref14]
-<para ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Alterations_to_Buckland_Paper_Mill%2C_Crabble_Hill_-_geograph.org.uk_-_5429402.jpg" label="Alterations to Buckland Paper Mill, Crabble Hill, 2017" attribution="John Baker, via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Alterations_to_Buckland_Paper_Mill%2C_Crabble_Hill_-_geograph.org.uk_-_5429402.jpg" label="Alterations to Buckland Paper Mill, Crabble Hill, 2017" attribution="John Baker, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Barton Path**   
 The river now flows behind the backs of houses along a path where.
