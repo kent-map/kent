@@ -22,12 +22,12 @@ The river Dour rises at Watersend, on the outskirts of the village of Temple Ewe
 <br><br>
 A tributary of the Dour, the Drellingore, rises from an intermittent spring in the small hamlet of Wolverton, feeding into the River Dour near Bushy Ruff. It flows from a chalk aquifer and the water course is often dry. A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near Dover Harbour indicate that the river may have been used by traders to transport goods. 
 <br><br>
-Rising after many weeks of heavy rainfall, when the water table is high enough for the normally dry bed to contain a stream, the Drellingore has been known to flood parts of Alkham, including the fields from South Alkham to the Alkham Road. Leland in his itinerary of Kent of 1538 wrote of the spring which "brastest owt so abundantly, that a great part of the water cummeth into Dovar stream."   In 1936, the _Dover Express_ reported that "the trench is about 2ft wide and the water was 6in deep, flowing rapidly".[^ref4]  According to an old saying: 
+Rising after many weeks of heavy rain, when the water table is high enough for the normally dry bed to contain a stream, the Drellingore has been known to flood parts of Alkham, including the fields from South Alkham to the Alkham Road. Leland in his itinerary of Kent of 1538 wrote of the spring which "brastest owt so abundantly, that a great part of the water cummeth into Dovar stream."[^ref4]   In 1936, the _Dover Express_ reported that "the trench is about 2ft wide and the water was 6in deep, flowing rapidly".[^ref5]  According to an old saying: 
 <br><br>
 When Drellingore stream flows to Dover town   
-Wheat shall be forty shillings and barley a pound.[^ref5]
+Wheat shall be forty shillings and barley a pound.[^ref6]
 <br><br>
-The saying is often repeated in newspapers and topographical books, and presumably indicates that wheat prices will rise due to the damage that the water will do to the crops. In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown"[^ref6] Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows" (240)
+The saying is often repeated in newspapers and topographical books, and presumably indicates that wheat prices will rise due to the damage that the water will do to the crops. In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown"[^ref7] 
 <param ve-map center="Q2703021" zoom="15">
 <param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
@@ -47,7 +47,8 @@ Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerge
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Kearnsney_abbey_Dover.jpg" label="Kearnsey Abbey" attribution="postcard, Public domain, via Wikimedia Commons">
 
 **Crabble Corn Mill**
-The river now flows past Crabble Corn Mill, which was built in 1814 to provide flour for the soldiers who were stationed at Dover to protect the country from a Napoleonic invasion.["Roundabout." _Kentish Gazette_ Thursday 12 September 1996
+The river now flows past Crabble Corn Mill, which was built in 1814 to provide flour for the soldiers who were stationed at Dover to protect the country from a Napoleonic invasion.["Roundabout." _Kentish Gazette_ Thursday 12 September 1996]
+Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows" (240)
 
 **Buckland Paper Mill**
 The Dour has played an important part in Dover's industrial past, powering eight corn mills and five paper mills. At Buckland, the Paper Mill
@@ -62,6 +63,7 @@ In 1986, thousands of brown trout were killed when industrial bleach escaped fro
 The Dover Engineering Works fronted the River Dour at Charlton Green. 
 
 **Ladywell**
+The river now flows under Ladywell which runs along the side of the Maison Dieu. The Maison Dieu was a pilgrims hospital founded in 1203. The lady well was a holy well which serviced the hospital.
 By 1900, the _Dover Express_ reported that "the River Dour has long ceased to be ornamental or very useful. In the olden towns no doubt its waters were clear enough to invite the coy trout to haunt it, but now fish would as soon make their home in a sewer."[^ref] "Nota Bene." Dover Express, 1 June 1900, p. 3. British Library Newspapers, link.gale.com/apps/doc/JF3239539234/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=901555fb. Accessed 20 Feb. 2025. They quipped "They say the Dour rhymes with sewer, but as some pronounce it, it rhymes with sour, both being supposed to be more or less correct."[^ref] "In the Street." Dover Express, 1 June 1900, p. 5. British Library Newspapers, link.gale.com/apps/doc/JF3239539267/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=2ac5b50f. Accessed 20 Feb. 2025. However, it complained "But because the Dour is of very little use is that any reason why the townsfolk should abuse it by allowing their sinks to empty into it, by casting therein the offal from slaughterhouses, the mud from surface drains, the useless tins from the provision merchants, and the refuse from the flour and paper mills." It called for the Corporation to force the mill owners to give up their rights to the dams and stop the pollution.[^ref] "Nota Bene." Dover Express, 1 June 1900, p. 3. British Library Newspapers, link.gale.com/apps/doc/JF3239539234/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=901555fb. Accessed 20 Feb. 2025.
 <br><br>
 In 1901, Dover Town Council bought the rights to the river for £300 and tore down the sluice gates at Stembrook Mill. In retaliation, the mill owner, Mr Brace, erected a dam of iron and piles forcing the Town Surveyors to send a squad of men to dismantle it. Brace rebuilt it and it was reported in the national press as "The Battle of the Dams".[^ref ] "The River Dour." Dover Express, 4 Oct. 1901, p. 5. British Library Newspapers, link.gale.com/apps/doc/JF3231174793/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=a81a208f. Accessed 20 Feb. 2025.
@@ -75,6 +77,10 @@ In 1901, Dover Town Council bought the rights to the river for £300 and tore do
 Emerging from a culvert under Pencester Road, the River Dour flows along the edge of Pencester Gardens. Originally the site of a timber store, the site was purchased by the Corporation for £5,000. "New Dover Recreation Ground." Kentish Express - Saturday 14 June 1924. The Gardens were opened on 6th June 1924 by Major Astor, M.P. The opening ceremony which included music from the Duke of Yorks Royal Military School band and a display from the gymastic squad was attended by more than 635 people. The public paid 3d for chairs at the event and £7 18s 9d was raised which went towards the Dover War Memorial Fund. In the evening, a large crowd gathered to hear the band play again, and the Connaught Male Voice Quartette sung a selection of pieces. "Pencester Gardens Opening." Dover Express - Friday 06 June 1924. "Pencester Gardens Opened." Dover Express - Friday 13 June 1924.
 The _Dover Express_ commented that "now there is a path beside the Dour in Pencester Gardens, further efforts will be made to keep the water in the stream clearer. It may be impossible to do all that is desirable in this direction, but there is a great deal too much filth in the Dour." "Nota Bene." Dover Express - Friday 13 June 1924
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Dover%2C_River_Dour_-_geograph.org.uk_-_2869094.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
+
+**St James's**   
+In the Saxon period, the main stream of the Dour divided into two branches, leaving a delta of dry land between them, on which, in later years, the principal part of St. James's Parish was built.[^ref Bavington Jones, John. _The Annals of Dover_ 1916, p. 82. Today the river disappears under Castle Street and skirts behind shops, near garages along the edges of the St James's Retail Park carpark. With concrete banks, the river is now channelled along the urban landscape with a few trees and bushes dotting its banks until it passes under Flying Horse Lane. Here the Lord Nelson pub offers a terrace space overlooking the river, before the river disappears again under Townwall Street, where pedestrians using the underpass can get a brief glimpse of the river as it is channelled under ground to Wellington Dock Marina.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/84/The_Lord_Nelson_-_geograph.org.uk_-_6396916.jpg" label="The Lord Nelson" attribution="John Baker via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Snar Gate**
 
@@ -98,9 +104,10 @@ Statham, Samuel Percy Hammond _The History of the Castle, Town, and Port of Dove
 [^ref1]: Ford Madox Ford. _The Cinque Ports : A Historical and Descriptive Record_, Blackwood, 1900. p.298.
 [^ref2]: [Discover the Dour](http://discoverthedour.org/unique-habitat-dour.html#:~:text=Near%20the%20source%20the%20river%20flows%20into%20lakes,fish%20such%20as%20miller%27s%20thumb%20and%20stone%20loach.)
 [^ref3]: Harper, Charles George. _The Dover Road: The Annals of An Ancient Turnpike_. Chapman and Hall, 1895.
-[^ref4]: "Drellingore Flowing." _Dover Express_, 31 January 1936.
-[^ref5]: Harper, p.239.
-[^ref6]: "Drellingore Brook." _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_, 23 April 1910.
+[^ref4]: Whiatker, William. _The Water Supply of Kent : With Records of Sinkings and Borings_. HMSO, 1908.
+[^ref5]: "Drellingore Flowing." _Dover Express_, 31 January 1936.
+[^ref6]: Harper, p.239.
+[^ref7]: "Drellingore Brook." _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_, 23 April 1910.
 
 [^ref7]:
 [^ref8]:
