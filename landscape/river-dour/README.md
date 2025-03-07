@@ -55,13 +55,13 @@ Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Crabble_Corn_Mill_-_geograph.org.uk_-_4255589.jpg/1280px-Crabble_Corn_Mill_-_geograph.org.uk_-_4255589.jpg" label="Crabble Corn Mill" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Buckland Paper Mill**   
-The Dour has played an important part in Dover's industrial past, powering eight corn mills and five paper mills including the Buckland Paper Mill.
+The Dour has played an important part in Dover's industrial past, powering eight corn mills and five paper mills including the Buckland Paper Mill which produced papers for ledgers, writing, and drawing. The mill which dated from around the late 17th/ early 18th century closed in 2000.
 <br><br>
 In 1986, thousands of brown trout were killed when industrial bleach escaped from a storage tank at the Paper Mill.[^ref14]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Alterations_to_Buckland_Paper_Mill%2C_Crabble_Hill_-_geograph.org.uk_-_5429402.jpg" label="Alterations to Buckland Paper Mill, Crabble Hill, 2017" attribution="John Baker, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Barton Path**   
-The river now flows behind the backs of houses along a path where.
+The river now flows behind the backs of houses along the Barton path. Although built up today, the area was once home to fairs and exhibtions which were held at Barton Meadow. In 1892, Lord George Sanger's "Oldest, Largest and Grandest Exhibition in the World" visited the meadow with 250 horses, 12 carriages of wild beasts, elephants and camels, and Iasia, the Beautiful Woman of the Nile with her Eygyptian serpents and crocodiles. Two years later, Sanger brought his "Great Hippodramatic and Spectacular Exhibition" which included a military spectacle of "War in the Soudan" and Madame Pauline de Vere, who performed a serpentine dance in the de of African Lions.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/River_Dour%2C_Dover_-_geograph.org.uk_-_4674922.jpg" label="River Dour" attribution="Robin Webster, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Charlton Green**   
