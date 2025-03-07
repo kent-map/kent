@@ -1,6 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="River Dour" author="Michelle Crowther" layout="vtl" banner="xxx" attribution="xx" license="xx">
+<param ve-config title="River Dour" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/97/Dover%2C_River_Dour_-_geograph.org.uk_-_2868880.jpg" attribution="River Dour by Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0">
+
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q2000634" aliases="Downs">
@@ -29,7 +30,6 @@ Wheat shall be forty shillings and barley a pound.[^ref6]
 <br><br>
 The saying is often repeated in newspapers and topographical books, and presumably indicates that wheat prices will rise due to scarcity of the crop. In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown".[^ref7] In his _General view of the Agriculture of the County of Kent_ [John Boys](/18c/18c-boys-biography/) had observed that chalky soils when improved were very good for "turnips, barley, clover and wheat".[^ref8]
 <param ve-map center="Q2703021" zoom="15">
-<param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
 **Bushy Ruff**  
 At the end of the Alkham Valley, the river flows into a mill pond created in 1794 for Bushy Ruff Paper Mill. Now a lake, it is part of the Bushy Ruff Country Park. It is here that the stream bifurcates with one stream going to Russell Gardens and another to Chiltern Brook.[^ref9]
@@ -103,33 +103,32 @@ This article was written specially for Dover at Night 2025.
 
 ### References
 
-[^ref1]: Ford Madox Ford. _The Cinque Ports : A Historical and Descriptive Record_, Blackwood, 1900. p.298.
-[^ref2]: [Discover the Dour](http://discoverthedour.org/unique-habitat-dour.html#:~:text=Near%20the%20source%20the%20river%20flows%20into%20lakes,fish%20such%20as%20miller%27s%20thumb%20and%20stone%20loach.)
-[^ref3]: Harper, Charles George. _The Dover Road: The Annals of An Ancient Turnpike_. Chapman and Hall, 1895.
-[^ref4]: Whiatker, William. _The Water Supply of Kent : With Records of Sinkings and Borings_. HMSO, 1908.
-[^ref5]: "Drellingore Flowing." _Dover Express_, 31 January 1936.
-[^ref6]: Harper, p.239.
-[^ref7]: "Drellingore Brook." _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_, 23 April 1910.
-[^ref8]: Boys, John. _General view of the Agriculture of the County of Kent_ 1796, p.15.
-[^ref9]: Sencicle, Lorraine. [Bushy Ruff](https://doverhistorian.com/2013/08/24/bushy-ruff/)
-[^ref10]: "Fete Champetre at Bushy Ruff." _Dover Telegraph and Cinque Ports General Advertiser_ 27 July 1861.
-[^ref11]: Sencicle, Lorraine. [Russell Gardens](https://doverhistorian.com/2016/06/04/russell-gardens/)
-[^ref12]: "Roundabout." _Kentish Gazette_, 12 September 1996.
-[^ref13]:Harper, p. 240
-[^ref14]: _Daily Telegraph_ 11 Nov 1986.
-[^ref15]: "The River Dour." _Dover Telegraph and Cinque Ports General Advertiser_, 18 July 1863.
-[^ref16]: "Winkles in the Dour." _Dover Express_, 11 March 1921.
-[^ref17]: "That Dirty Dour." _Dover Chronicle_ 24 November 1923. 
-[^ref18]: "The Fire at Dover Engineering Works." _Dover Express_, 29 November 1929.
-[^ref19]: "Nota Bene." _Dover Express_, 1 June 1900, p. 3. British Library Newspapers, link.gale.com/apps/doc/JF3239539234/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=901555fb. Accessed 20 Feb. 2025. 
-[^ref20]: "In the Street." _Dover Express_, 1 June 1900, p. 5. British Library Newspapers, link.gale.com/apps/doc/JF3239539267/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=2ac5b50f. Accessed 20 Feb. 2025.
-[^ref21]: "Nota Bene." _Dover Express_, 1 June 1900, p. 3. British Library Newspapers, link.gale.com/apps/doc/JF3239539234/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=901555fb. Accessed 20 Feb. 2025.
-[^ref22]: "The River Dour." _Dover Express_, 4 Oct. 1901, p. 5. British Library Newspapers, link.gale.com/apps/doc/JF3231174793/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=a81a208f. Accessed 20 Feb. 2025;
-"News." _Dundee Courier_, 2 Oct. 1901, p. 4. British Library Newspapers, link.gale.com/apps/doc/ID3227116740/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=bd287629. Accessed 20 Feb. 2025; "The Battle of the Dams." Evening Telegraph, 2 Oct. 1901, p. 5. British Library Newspapers, link.gale.com/apps/doc/JE3235787978/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=626e5f61. Accessed 20 Feb. 2025.
+[^ref1]: Ford Madox Ford. _The Cinque Ports : A Historical and Descriptive Record_, Blackwood, 1900. p.298.   
+[^ref2]: [Discover the Dour](http://discoverthedour.org/unique-habitat-dour.html#:~:text=Near%20the%20source%20the%20river%20flows%20into%20lakes,fish%20such%20as%20miller%27s%20thumb%20and%20stone%20loach.)   
+[^ref3]: Harper, Charles George. _The Dover Road: The Annals of An Ancient Turnpike_. Chapman and Hall, 1895.   
+[^ref4]: Whiatker, William. _The Water Supply of Kent : With Records of Sinkings and Borings_. HMSO, 1908.   
+[^ref5]: "Drellingore Flowing." _Dover Express_, 31 January 1936.   
+[^ref6]: Harper, p.239.   
+[^ref7]: "Drellingore Brook." _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_, 23 April 1910.   
+[^ref8]: Boys, John. _General view of the Agriculture of the County of Kent_ 1796, p.15.   
+[^ref9]: Sencicle, Lorraine. [Bushy Ruff](https://doverhistorian.com/2013/08/24/bushy-ruff/)   
+[^ref10]: "Fete Champetre at Bushy Ruff." _Dover Telegraph and Cinque Ports General Advertiser_ 27 July 1861.   
+[^ref11]: Sencicle, Lorraine. [Russell Gardens](https://doverhistorian.com/2016/06/04/russell-gardens/)   
+[^ref12]: "Roundabout." _Kentish Gazette_, 12 September 1996.   
+[^ref13]: Harper, p. 240   
+[^ref14]: _Daily Telegraph_ 11 Nov 1986.   
+[^ref15]: "The River Dour." _Dover Telegraph and Cinque Ports General Advertiser_, 18 July 1863.   
+[^ref16]: "Winkles in the Dour." _Dover Express_, 11 March 1921.   
+[^ref17]: "That Dirty Dour." _Dover Chronicle_ 24 November 1923.    
+[^ref18]: "The Fire at Dover Engineering Works." _Dover Express_, 29 November 1929.   
+[^ref19]: "Nota Bene." _Dover Express_, 1 June 1900, p. 3.    
+[^ref20]: "In the Street." _Dover Express_, 1 June 1900, p. 5.     
+[^ref21]: "Nota Bene." _Dover Express_, 1 June 1900, p. 3.    
+[^ref22]: "The River Dour." _Dover Express_, 4 Oct. 1901, p. 5; "News." _Dundee Courier_, 2 Oct. 1901, p. 4; "The Battle of the Dams." Evening Telegraph, 2 Oct. 1901, p. 5.   
 [^ref23]: "New Dover Recreation Ground." _Kentish Express_ 14 June 1924.
-[^ref24]: "Pencester Gardens Opening." _Dover Express_ , 6 June 1924; "Pencester Gardens Opened." _Dover Express_, 13 June 1924.
-[^ref25]: "Nota Bene." _Dover Express_ 13 June 1924.
-[^ref26]: Bavington Jones, John. _The Annals of Dover_ 1916, p. 82. 
-[^ref27]: Statham, Samuel Percy Hammond _The History of the Castle, Town, and Port of Dover_, Longmans, Green and Co. 1899, p.63
-[^ref28]: "The River Dour." _Dover Express_, 13 Mar. 1914, p. 2. British Library Newspapers, link.gale.com/apps/doc/JA3231215324/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=6f10375b. Accessed 20 Feb. 2025. 
-[^ref29]: "The River Dour." _Dover Express_, 20 Oct. 1922, p. 7. British Library Newspapers, link.gale.com/apps/doc/JA3231247671/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=e7a41907. Accessed 20 Feb. 2025.
+[^ref24]: "Pencester Gardens Opening." _Dover Express_ , 6 June 1924; "Pencester Gardens Opened." _Dover Express_, 13 June 1924.   
+[^ref25]: "Nota Bene." _Dover Express_ 13 June 1924.   
+[^ref26]: Bavington Jones, John. _The Annals of Dover_ 1916, p. 82.    
+[^ref27]: Statham, Samuel Percy Hammond _The History of the Castle, Town, and Port of Dover_, Longmans, Green and Co. 1899, p.63.   
+[^ref28]: "The River Dour." _Dover Express_, 13 Mar. 1914, p. 2.    
+[^ref29]: "The River Dour." _Dover Express_, 20 Oct. 1922, p. 7.    
