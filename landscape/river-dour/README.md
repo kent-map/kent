@@ -27,7 +27,7 @@ Rising after many weeks of heavy rainfall, when the water table is high enough f
 When Drellingore stream flows to Dover town   
 Wheat shall be forty shillings and barley a pound.[^ref5]
 <br><br>
-The saying is often repeated In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown"[^ref6] Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows" (240)
+The saying is often repeated in newspapers and topographical books, and presumably indicates that wheat prices will rise due to the damage that the water will do to the crops. In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown"[^ref6] Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows" (240)
 <param ve-map center="Q2703021" zoom="15">
 <param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
