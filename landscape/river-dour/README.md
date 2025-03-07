@@ -8,6 +8,9 @@
 <param ve-entity eid="Q7337355" aliases="River Dour">
 <param ve-entity eid="Q2703021" aliases="Temple Ewell">
 
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
+
 #
 
 Approximately four miles long, the River Dour is a small chalk stream which passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths to the Port of Dover.
