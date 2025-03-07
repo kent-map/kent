@@ -7,15 +7,15 @@
 <param ve-entity eid="Q2000634" aliases="Downs">
 <param ve-entity eid="Q7337355" aliases="River Dour">
 <param ve-entity eid="Q2703021" aliases="Temple Ewell">
-
-<!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
+<param ve-entity eid="Q2116182" aliases="Drellingore">
+<param ve-entity eid="Q26672757" aliases="Wellington Dock">
+<param ve-entity eid="Q26431966" aliases="Kearsney Abbey">
 
 #
 
 Approximately four miles long, the River Dour is a small chalk stream which passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths to the Port of Dover.
 <br><br>
-In 1900, the novelist, poet and critic, Ford Madox Ford in _The Cinque Ports : A Historical and Descriptive Record_ dismissed the River Dour as unworthy of note:
+In 1900, the novelist, poet and critic, Ford Madox Ford in _The Cinque Ports: A Historical and Descriptive Record_ dismissed the River Dour as unworthy of note:
 <br><br>
 In among the houses one sees at times the poor little river Dour, a pathetic thread of silver that seems to have no real purpose in days like these. One thinks that its whole short course ought to be covered up and itself made to run through culverts. The principal part of its stream is supplied by a nailbourne, and when this chooses to run the Dour boasts a certain head of water. As a rule, it dribbles dispiritedly from Ewell to the sea, a distance of a few miles.[^ref1] 
 <br><br>
@@ -32,7 +32,7 @@ Rising after many weeks of heavy rain, when the water table is high enough for t
 When Drellingore stream flows to Dover town   
 Wheat shall be forty shillings and barley a pound.[^ref6]
 <br><br>
-The saying is often repeated in newspapers and topographical books, and presumably indicates that wheat prices will rise due to scarcity of the crop. In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown".[^ref7] In his _General view of the Agriculture of the County of Kent_ [John Boys](/18c/18c-boys-biography/) had observed that chalky soils when improved were very good for "turnips, barley, clover and wheat".[^ref8]
+The saying is often repeated in newspapers and topographical books, and presumably indicates that wheat prices will rise due to scarcity of the crop. In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown".[^ref7] In his _General View of the Agriculture of the County of Kent_ [John Boys](/18c/18c-boys-biography/) had observed that chalky soils when improved were very good for "turnips, barley, clover and wheat".[^ref8]
 <param ve-map center="Q2703021" zoom="15">
 
 **Bushy Ruff**   
@@ -111,7 +111,7 @@ This article was written specially for Dover at Night 2025.
 [^ref5]: "Drellingore Flowing." _Dover Express_, 31 January 1936.   
 [^ref6]: Harper, p.239.   
 [^ref7]: "Drellingore Brook." _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_, 23 April 1910.   
-[^ref8]: Boys, John. _General view of the Agriculture of the County of Kent_ 1796, p.15.   
+[^ref8]: Boys, John. _General View of the Agriculture of the County of Kent_ 1796, p.15.   
 [^ref9]: Sencicle, Lorraine. [Bushy Ruff](https://doverhistorian.com/2013/08/24/bushy-ruff/)   
 [^ref10]: "Fete Champetre at Bushy Ruff." _Dover Telegraph and Cinque Ports General Advertiser_ 27 July 1861.   
 [^ref11]: Sencicle, Lorraine. [Russell Gardens](https://doverhistorian.com/2016/06/04/russell-gardens/)   
