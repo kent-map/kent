@@ -60,11 +60,13 @@ In 1986, thousands of brown trout were killed when industrial bleach escaped fro
 **Barton Path**
 
 **Charlton Green**
-The Dover Engineering Works fronted the River Dour at Charlton Green. 
-
+From the Barton Path, the river flows along Charlton Green and under Bridge Street, where it reappears on the corner.  
 In 1863, the council undertook work to clean the river and reported that "if anyone had noticed it they must have been impressed with the idea that this was a great improvement. Besides getting rid of a great nuisance from Park Street, upwards the river looked almost like a trout stream." "The River Dour" Dover Telegraph and Cinque Ports General Advertiser 18 July 1863. Despite these attempts the dirtiness of the river was a frequent complaint in the newspapers. In 1919, Councillor Gatehouse feared there would be an epidemic if the river was left in its current state. Penalties were introduced to stop people throwing rubbish in the river and in 1921 a man was taken to court for throwing winkles from a cart into the river. In his defence, he claimed that the winkles were being strained off and merely slipped into the river. He was fined 5s which was lucky as the full penalty was £5. "Winkles in the Dour" Dover Express - Friday 11 March 1921 In 1923, Councillor Fox complained about "That Dirty Dour" "which contained mud and refuse of a varied description, including tins and cans." Councillor Stevens supported his complaint arguing that the stench was so bad that "the smell that emanated from the river gave him a sore throat" and the council recommended alerting the Medical Officer of Health. Dover Chronicle - Saturday 24 November 1923. 
+In 1929, the store of the Dover Engineering Works which held "large quantities of consumable stores in the form of lubricating oil, grease, cotton waste and a good quantity of wooden patterns" caught alight, and firemen had to pump water from the river to quench the blaze. However, as the sluice gates were closed the river was very low at this point and the firemen had to dig a sump hole in the bed of the stream to draw the water. 
+"The Fire at Dover Engineering Works." _Dover Express_, 29 November 1929
 <br><br>
-Nowadays, the river flows under the retail car park reappearing again behind the Charlton Shopping Centre. It then passes behind the houses on Goodfellow way before reaching the intersection of Ladywell and Park Place.
+Nowadays, the river flows over a small weir and then under the retail car park before reappearing again behind the Charlton Shopping Centre. It then passes behind the houses on Goodfellow way before reaching the intersection of Ladywell and Park Place.
+<param ve-image url="https://commons.wikimedia.org/wiki/File:River_Dour,_Dover_-_geograph.org.uk_-_2263909.jpg" label="River Dour" attribution="John Baker via Wikimedia" license="CC BY-SA 2.0">
 
 **Ladywell**
 The river now flows under Ladywell which runs along the side of the Maison Dieu. The Maison Dieu was a pilgrims hospital founded in 1203 and the lady well was a holy well which serviced the hospital.
@@ -83,16 +85,14 @@ The _Dover Express_ commented that "now there is a path beside the Dour in Pence
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Dover%2C_River_Dour_-_geograph.org.uk_-_2869094.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 
 **St James's**   
-In the Saxon period, the main stream of the Dour divided into two branches, leaving a delta of dry land between them, on which, in later years, the principal part of St. James's Parish was built.[^ref Bavington Jones, John. _The Annals of Dover_ 1916, p. 82. Today the river disappears under Castle Street and skirts behind shops, near garages along the edges of the St James's Retail Park carpark. With concrete banks, the river is now channelled along the urban landscape with a few trees and bushes dotting its banks until it passes under Flying Horse Lane. Here the Lord Nelson pub offers a terrace space overlooking the river, before the river disappears again under Townwall Street, where pedestrians using the underpass can get a brief glimpse of the river as it is channelled under ground to Wellington Dock Marina.
+In the Saxon period, the main stream of the Dour divided into two branches, leaving a delta of dry land between them, on which, in later years, the principal part of St. James's Parish was built.[^ref Bavington Jones, John. _The Annals of Dover_ 1916, p. 82. Snar Gate, also known as Pier Gate was built about 1370. It was a sluice gate between the river and harbour. In 1588, it was taken down when the new harbour was built[^ref Statham 63) 
+<br><br>
+Today the river disappears under Castle Street and skirts behind shops, near garages along the edges of the St James's Retail Park carpark. With concrete banks, the river is now channelled along the urban landscape with a few trees and bushes dotting its banks until it passes under Flying Horse Lane. Here the Lord Nelson pub offers a terrace space overlooking the river, before the river disappears again under Townwall Street, where pedestrians using the underpass can get a brief glimpse of the river as it is channelled under ground to Wellington Dock Marina.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/84/The_Lord_Nelson_-_geograph.org.uk_-_6396916.jpg" label="The Lord Nelson" attribution="John Baker via Wikimedia Commons" license="CC BY-SA 2.0">
 
-**Snar Gate**
-
-Snar Gate, also known as Pier Gate was built about 1370. It was a sluice gate between the river and harbour. In 1588, it was taken down when the new harbour was built[^ref Statham 63) 
-
 **Wellington Dock**   
-In 1846, the Duke of Wellington opened "Wellington Bridge" 
-In 1888 Wellington Dock was improved to allow vessels of 800 tons.
+The River Dour now ends its journey as it disappears into the vast Wellington Dock, named after the Duke of Wellington who opened "Wellington Bridge" in 1846. The Dock was later improved in 1888 to allow vessels of 800 tons. 
+
 In 1914 it was reported that "an immense quantity of filth" was brought down by the river into the dock and that the Sanitary Officers should be stricter in prosecuting the townsfolk who were treating the river like an "open drain"[^ref ]"The River Dour." _Dover Express_, 13 Mar. 1914, p. 2. British Library Newspapers, link.gale.com/apps/doc/JA3231215324/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=6f10375b. Accessed 20 Feb. 2025. Mud and weeds from the river also drifted down to the dock. By 1922, matters were no better as the river was "filled with household rubbish in the form of tin cans" and there were fears that the poor water quality would be hazardous to health.[^ref] The River Dour." Dover Express, 20 Oct. 1922, p. 7. British Library Newspapers, link.gale.com/apps/doc/JA3231247671/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=e7a41907. Accessed 20 Feb. 2025.
 
 **Dover Harbour**   
