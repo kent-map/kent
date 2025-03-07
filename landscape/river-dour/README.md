@@ -27,18 +27,18 @@ Rising after many weeks of heavy rain, when the water table is high enough for t
 When Drellingore stream flows to Dover town   
 Wheat shall be forty shillings and barley a pound.[^ref6]
 <br><br>
-The saying is often repeated in newspapers and topographical books, and presumably indicates that wheat prices will rise due to scarcity of the crop. In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown".[^ref7] In his _General view of the Agriculture of the County of Kent_ [John Boys](/18c/18c-boys-biography/) had observed that chalky soils when improved were very good for "turnips, barley, clover and wheat" (15).
+The saying is often repeated in newspapers and topographical books, and presumably indicates that wheat prices will rise due to scarcity of the crop. In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown".[^ref7] In his _General view of the Agriculture of the County of Kent_ [John Boys](/18c/18c-boys-biography/) had observed that chalky soils when improved were very good for "turnips, barley, clover and wheat"[^ref8] (15).
 <param ve-map center="Q2703021" zoom="15">
 <param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
 
 **Bushy Ruff**  
-As it leaves XXX, the river flows into a mill pond created in 1794 for Bushy Ruff Paper Mill. Now a lake, it  
-Use Hasted 1798 map.
+At the end of the Alkham Valley, the river flows into a mill pond created in 1794 for Bushy Ruff Paper Mill. Now a lake, it is part of the Bushy Ruff Country Park. It is here that the stream bifurcates with one stream going to Russell Gardens and another to Chiltern Brook (Lorraine Sencicle https://doverhistorian.com/2013/08/24/bushy-ruff/)
+<br><br>
+In July 1861, a Fete Champetre was held at Bushy Ruff attracting 2,000 people. The event included quoits, cricket, running matches, jumping and archery. It was criticised in the press for undercatering for its guests who swarmed around the tea tent complaining vociferously when the cakes and watercress ran out. The fire works were described as "small and ineffective" and at the end "numerous torches threw a lurid glare on the wild scenery, and an anxious and tired company". "Fete Champetre at Bushy Ruff." Dover Telegraph and Cinque Ports General Advertiser - Saturday 27 July 1861 No mention was made of the lake - no boating!
 <param ve-map center="51.7.24.6, 1.18.51.8" zoom="15">
 
 **Russell Gardens**
-Use Ward guide map?
-With its Pergola Bridges spanning the river and a large lily pond, Russell Gardens
+With its Pergola Bridges spanning the river and a large lily pond, Russell Gardens were named after Dover Councillor Hilton Ernest Russell
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/14/Russell_Gardens_-_geograph.org.uk_-_5260790.jpg" label="Russell Gardens" attribution="Ian Capper, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/Russell_Gardens_-_geograph.org.uk_-_5259889.jpg" label="Russell Gardens" attribution="Ian Capper, via Wikimedia Commons" license="CC BY-SA 2.0">
 
@@ -92,11 +92,10 @@ Today the river disappears under Castle Street and skirts behind shops, near gar
 
 **Wellington Dock**   
 The River Dour now ends its journey as it disappears into the vast Wellington Dock, named after the Duke of Wellington who opened "Wellington Bridge" in 1846. The Dock was later improved in 1888 to allow vessels of 800 tons. 
-
+<br><br>
 In 1914 it was reported that "an immense quantity of filth" was brought down by the river into the dock and that the Sanitary Officers should be stricter in prosecuting the townsfolk who were treating the river like an "open drain"[^ref ]"The River Dour." _Dover Express_, 13 Mar. 1914, p. 2. British Library Newspapers, link.gale.com/apps/doc/JA3231215324/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=6f10375b. Accessed 20 Feb. 2025. Mud and weeds from the river also drifted down to the dock. By 1922, matters were no better as the river was "filled with household rubbish in the form of tin cans" and there were fears that the poor water quality would be hazardous to health.[^ref] The River Dour." Dover Express, 20 Oct. 1922, p. 7. British Library Newspapers, link.gale.com/apps/doc/JA3231247671/GDCS?u=ccc_uni&sid=bookmark-GDCS&xid=e7a41907. Accessed 20 Feb. 2025.
-
-**Dover Harbour**   
-
+<br><br>
+This article was written specially for Dover at Night 2025.
 
 ### Bibliography
 
@@ -112,8 +111,6 @@ Statham, Samuel Percy Hammond _The History of the Castle, Town, and Port of Dove
 [^ref5]: "Drellingore Flowing." _Dover Express_, 31 January 1936.
 [^ref6]: Harper, p.239.
 [^ref7]: "Drellingore Brook." _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_, 23 April 1910.
-
-[^ref7]:
-[^ref8]:
+[^ref8]: Boys, John. _General view of the Agriculture of the County of Kent_ 1796.
 [^ref9]:
 [^ref10]:
