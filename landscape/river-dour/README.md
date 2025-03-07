@@ -43,7 +43,6 @@ In July 1861, a Fete Champetre was held at Bushy Ruff attracting 2,000 people. T
 
 **Russell Gardens**   
 With its Pergola Bridges spanning the river and a large lily pond, Russell Gardens were named after Dover Councillor Hilton Ernest Russell.[^ref11]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/14/Russell_Gardens_-_geograph.org.uk_-_5260790.jpg" label="Russell Gardens" attribution="Ian Capper, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/Russell_Gardens_-_geograph.org.uk_-_5259889.jpg" label="Russell Gardens" attribution="Ian Capper, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Kearsney Abbey**    
@@ -84,7 +83,6 @@ By 1900, the _Dover Express_ reported that "the River Dour has long ceased to be
 In 1901, Dover Town Council bought the rights to the river for £300 and tore down the sluice gates at Stembrook Mill. In retaliation, the mill owner, Mr Brace, erected a dam of iron and piles forcing the Town Surveyors to send a squad of men to dismantle it. Brace rebuilt it and it was reported in the national press as "The Battle of the Dams".[^ref22]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dover%2C_River_Dour_-_geograph.org.uk_-_2868890.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 <param ve-image url="https://stor.artstor.org/stor/128d532a-7c63-498e-b8e1-81134b335c4f" label="1908 Map of Dover" attribution="By kind permission of Dover Museum">
-<param ve-map center="51.07.42.3, 1.18.36.4" zoom="15"> 
  
 **Pencester Gardens**   
 Emerging from a culvert under Pencester Road, the River Dour flows along the edge of Pencester Gardens. Originally the site of a timber store, the site was purchased by the Corporation for £5,000.[^ref23] The Gardens were opened on 6th June 1924 by Major Astor, M.P. The opening ceremony which included music from the Duke of Yorks Royal Military School band and a display from the gymastic squad was attended by more than 635 people. The public paid 3d for chairs at the event and £7 18s 9d was raised which went towards the Dover War Memorial Fund. In the evening, a large crowd gathered to hear the band play again, and the Connaught Male Voice Quartette sung a selection of pieces.[^ref24] 
