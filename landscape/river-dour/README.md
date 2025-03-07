@@ -17,6 +17,7 @@ In 1900, the novelist, poet and critic, Ford Madox Ford in _The Cinque Ports : A
 In among the houses one sees at times the poor little river Dour, a pathetic thread of silver that seems to have no real purpose in days like these. One thinks that its whole short course ought to be covered up and itself made to run through culverts. The principal part of its stream is supplied by a nailbourne, and when this chooses to run the Dour boasts a certain head of water. As a rule, it dribbles dispiritedly from Ewell to the sea, a distance of a few miles.[^ref1] 
 <br><br>
 However, Ford failed to appreciate the natural beauty of the Dour, which forms an important habitat for brown trout, eels and stone loach, as well as for birds such as herons, moorhens, coots, and kingfishers.[^ref2] In this article, we will take you from its source at Watersend to the sea, highlighting its importance to the town.
+<param ve-map center="Q7337355" zoom="15">
 
 **Watersend**  
 The river Dour rises at Watersend, on the outskirts of the village of Temple Ewell (Ewell being the Old English for a river source or spring). Charles Harper described it as the place where "the springs of the little River Dour burst forth and gem all the valley hence to Dover with gracious foliage".[^ref3]
@@ -31,26 +32,26 @@ Wheat shall be forty shillings and barley a pound.[^ref6]
 The saying is often repeated in newspapers and topographical books, and presumably indicates that wheat prices will rise due to scarcity of the crop. In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown".[^ref7] In his _General view of the Agriculture of the County of Kent_ [John Boys](/18c/18c-boys-biography/) had observed that chalky soils when improved were very good for "turnips, barley, clover and wheat".[^ref8]
 <param ve-map center="Q2703021" zoom="15">
 
-**Bushy Ruff**  
+**Bushy Ruff**   
 At the end of the Alkham Valley, the river flows into a mill pond created in 1794 for Bushy Ruff Paper Mill. Now a lake, it is part of the Bushy Ruff Country Park. It is here that the stream bifurcates with one stream going to Russell Gardens and another to Chiltern Brook.[^ref9]
 <br><br>
 In July 1861, a Fete Champetre was held at Bushy Ruff attracting 2,000 people. The event included quoits, cricket, running matches, jumping and archery. It was criticised in the press for undercatering for its guests who swarmed around the tea tent complaining vociferously when the cakes and watercress ran out. The fire works were described as "small and ineffective" and at the end "numerous torches threw a lurid glare on the wild scenery, and an anxious and tired company"[^ref10]. No mention was made of the lake - no boating!
 <param ve-map center="51.7.24.6, 1.18.51.8" zoom="15">
 
-**Russell Gardens**
+**Russell Gardens**   
 With its Pergola Bridges spanning the river and a large lily pond, Russell Gardens were named after Dover Councillor Hilton Ernest Russell.[^ref11]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/14/Russell_Gardens_-_geograph.org.uk_-_5260790.jpg" label="Russell Gardens" attribution="Ian Capper, via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/Russell_Gardens_-_geograph.org.uk_-_5259889.jpg" label="Russell Gardens" attribution="Ian Capper, via Wikimedia Commons" license="CC BY-SA 2.0">
 
-**Kearsney Abbey**  
+**Kearsney Abbey**    
 Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerges in the Kearsney Abbey gardens.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Kearnsney_abbey_Dover.jpg" label="Kearnsey Abbey" attribution="postcard, Public domain, via Wikimedia Commons">
 
-**Crabble Corn Mill**
+**Crabble Corn Mill**   
 The river now flows past Crabble Corn Mill, which was built in 1814 to provide flour for the soldiers who were stationed at Dover to protect the country from a Napoleonic invasion.[^ref12] 
 Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows".[^ref13]
 
-**Buckland Paper Mill**
+**Buckland Paper Mill**   
 The Dour has played an important part in Dover's industrial past, powering eight corn mills and five paper mills including the Buckland Paper Mill.
 <br><br>
 In 1986, thousands of brown trout were killed when industrial bleach escaped from a storage tank at the Paper Mill.[^ref14]
@@ -72,7 +73,7 @@ In 1929, the store of the Dover Engineering Works which held "large quantities o
 Nowadays, the river flows over a small weir and then under the retail car park before reappearing again behind the Charlton Shopping Centre. It then passes behind the houses on Goodfellow way before reaching the intersection of Ladywell and Park Place.
 <param ve-image url="https://commons.wikimedia.org/wiki/File:River_Dour,_Dover_-_geograph.org.uk_-_2263909.jpg" label="River Dour" attribution="John Baker via Wikimedia" license="CC BY-SA 2.0">
 
-**Ladywell**
+**Ladywell**   
 The river now flows under Ladywell which runs along the side of the Maison Dieu. The Maison Dieu was a pilgrims hospital founded in 1203 and the lady well was a holy well which serviced the hospital
 <br><br>
 By 1900, the _Dover Express_ reported that "the River Dour has long ceased to be ornamental or very useful. In the olden towns no doubt its waters were clear enough to invite the coy trout to haunt it, but now fish would as soon make their home in a sewer."[^ref19] They quipped "They say the Dour rhymes with sewer, but as some pronounce it, it rhymes with sour, both being supposed to be more or less correct."[^ref20] However, it complained "But because the Dour is of very little use is that any reason why the townsfolk should abuse it by allowing their sinks to empty into it, by casting therein the offal from slaughterhouses, the mud from surface drains, the useless tins from the provision merchants, and the refuse from the flour and paper mills." It called for the Corporation to force the mill owners to give up their rights to the dams and stop the pollution.[^ref21]
@@ -102,7 +103,6 @@ In 1914, it was reported that "an immense quantity of filth" was brought down by
 This article was written specially for Dover at Night 2025.
 
 ### References
-
 [^ref1]: Ford Madox Ford. _The Cinque Ports : A Historical and Descriptive Record_, Blackwood, 1900. p.298.   
 [^ref2]: [Discover the Dour](http://discoverthedour.org/unique-habitat-dour.html#:~:text=Near%20the%20source%20the%20river%20flows%20into%20lakes,fish%20such%20as%20miller%27s%20thumb%20and%20stone%20loach.)   
 [^ref3]: Harper, Charles George. _The Dover Road: The Annals of An Ancient Turnpike_. Chapman and Hall, 1895.   
