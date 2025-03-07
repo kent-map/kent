@@ -20,21 +20,16 @@ However, Ford failed to appreciate the natural beauty of the Dour, which forms a
 **Watersend**  
 The river Dour rises at Watersend, on the outskirts of the village of Temple Ewell (Ewell being the Old English for a river source or spring). Charles Harper described it as the place where "the springs of the little River Dour burst forth and gem all the valley hence to Dover with gracious foliage".[^ref3]
 <br><br>
-A tributary of the Dour, the Drellingore, rises from an intermittent spring in the small hamlet of Wolverton, feeding into the River Dour near Bushy Ruff. It flows from a chalk aquifer and the water course is often dry. A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near the Harbour indicate that the river may have been used by traders. According to an old saying: 
+A tributary of the Dour, the Drellingore, rises from an intermittent spring in the small hamlet of Wolverton, feeding into the River Dour near Bushy Ruff. It flows from a chalk aquifer and the water course is often dry. A Bronze Age settlement at Wolverton and the remains of a Bronze Age boat near Dover Harbour indicate that the river may have been used by traders to transport goods. 
+<br><br>
+Rising after many weeks of heavy rainfall, when the water table is high enough for the normally dry bed to contain a stream, the Drellingore has been known to flood parts of Alkham, including the fields from South Alkham to the Alkham Road. In 1936, the _Dover Express_ reported that "the trench is about 2ft wide and the water was 6in deep, flowing rapidly".[^ref4]  According to an old saying: 
 <br><br>
 When Drellingore stream flows to Dover town   
 Wheat shall be forty shillings and barley a pound.[^ref5]
 <br><br>
-In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown"[^ref6] Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows" (240)
-
-<br><br>
-
-<br><br>
+The saying is often repeated In an alternative version, the wheat is only valued at 1 shilling "and bullocks at a crown"[^ref6] Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows" (240)
 <param ve-map center="Q2703021" zoom="15">
-
 <param ve-image url="https://en.wikipedia.org/wiki/River_Dour#/map/0">
-
-
 
 **Bushy Ruff**  
 As it leaves XXX, the river flows into a mill pond created in 1794 for Bushy Ruff Paper Mill. Now a lake, it  
@@ -103,7 +98,7 @@ Statham, Samuel Percy Hammond _The History of the Castle, Town, and Port of Dove
 [^ref1]: Ford Madox Ford. _The Cinque Ports : A Historical and Descriptive Record_, Blackwood, 1900. p.298.
 [^ref2]: [Discover the Dour](http://discoverthedour.org/unique-habitat-dour.html#:~:text=Near%20the%20source%20the%20river%20flows%20into%20lakes,fish%20such%20as%20miller%27s%20thumb%20and%20stone%20loach.)
 [^ref3]: Harper, Charles George. _The Dover Road: The Annals of An Ancient Turnpike_. Chapman and Hall, 1895.
-[^ref4]:
+[^ref4]: "Drellingore Flowing." _Dover Express_, 31 January 1936.
 [^ref5]: Harper, p.239.
 [^ref6]: "Drellingore Brook." _Folkestone Express, Sandgate, Shorncliffe & Hythe Advertiser_, 23 April 1910.
 
