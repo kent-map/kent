@@ -21,13 +21,13 @@ Primrose’s older siblings Richard and Violet were both born in the Cranbrook d
 
 Primrose grew up in Sandhurst, near Cranbrook on the Kent and Sussex border, where she was privately educated at home with her sister Violet. On recognising her talent for writing stories, her governess encouraged her to write for publication, and her first story was published in _Nursery World_. As well as writing, which she did in bed, Primrose loved fishing on the River Rother and recalls that she was once nearly pulled in by a large eel.[^ref2] 
 
-Cumming’s first book _Doney_ was published when she was 17 and [^ref3] is about a horse and his mistress Janet. The novel is set in the “The Borderland” where Kent and Sussex meet, in the villages of Bodiam, Sandhurst, Salehurst, Cranbrook and Northiam. It included an introduction by Sheila Kaye-Smith who lived in nearby Northiam and whose own novel [Shepherds in Sackcloth]( https://www.kent-maps.online/20c/20c-kaye-smith-delmonden/) had been set around Sandhurst in the imaginary village of Delmonden . In an article in _Country Life_ Cummings said:
+Cumming’s first book _Doney_ was published when she was 17 and is about a horse and his mistress Janet.[^ref3] The novel is set in the “The Borderland” where Kent and Sussex meet, in the villages of Bodiam, Sandhurst, Salehurst, Cranbrook and Northiam. It included an introduction by Sheila Kaye-Smith who lived in nearby Northiam and whose own novel [Shepherds in Sackcloth]( https://www.kent-maps.online/20c/20c-kaye-smith-delmonden/) had been set around Sandhurst in the imaginary village of Delmonden . In an article in _Country Life_ Cummings said:
 <br><br>
 so keen on riding at this time, that I used to steal out early in the morning and ride the farmers’ horses in the fields. Then I wrote a book about my friend’s pony, Doney, and sold it. With the money, I bought Black Jack – who was rather too spirited for a beginner. When I took him hunting, he broke his bridle and off I came – in front of the whole field. At last we got on better terms and we both made our names by jumping everything in his path. To feed Black Jack, I wrote more books about country life, drawing on my own knowledge and experience. I had several published by the time I was 21.[^ref4]
 
 Cumming's most famous novel, _Silver Snaffles_ was published in 1937. American poet and children’s author, Maxine Kumin described it as set “in a sunlit world where articulate ponies with good English country-squire manners and highly individual personalities give lessons in equitation and stable management to some eager, horseless youngsters.”[^ref5]  
 
-Cumming's stories were often based on her own experiences including foxhunting with the Romney Marsh Foxhounds[^ref6] In _Silver Snaffles_, a talking fox, congratulates the hunt for “an excellent day” in which : “the hounds hunted beautifully, thanks to the Huntsman and Whip, and that both ponies and riders surpassed themselves in getting over country as they have done.”[^ref7] 
+Cumming's stories were often based on her own experiences including foxhunting with the Romney Marsh Foxhounds.[^ref6] In _Silver Snaffles_, a talking fox, congratulates the hunt for “an excellent day” in which : “the hounds hunted beautifully, thanks to the Huntsman and Whip, and that both ponies and riders surpassed themselves in getting over country as they have done.”[^ref7] 
 
 In 1938, Cumming’s father died. It was during this year that her book _The Silver Eagle Riding School_ was published in which three sisters open a riding school after the death of their father in order to support themselves and to prevent the sale of their horses. 
 <br><br>
@@ -36,15 +36,15 @@ Primrose and her sister Violet continued to live with their widowed mother at Wy
 In the Spring of 1939, her novel _Rachel of Romney_ was published. It was about a lamb who was found on the marshes by David and Alice Warren, the children of an unsuccessful chicken farmer. With the help of the lamb, the children find Roman treasure which helps to save the family’s fortunes. Cumming’s inspiration may have come from her own failed attempts to keep chickens at the age of 12.[^ref8]
 
 During the second world war, Cumming spent a year working on a farm, an experience which she fictionalised in _Owl’s Castle Farm_. Her sister Violet also undertook war work.[^ref9]
-
+<br><br>
 Cumming’s novel _Silver Eagle Carries On_, published in 1940 continues the story of the Chantry sisters and the Silver Eagle riding school. Set during the war, the Chantry sisters face challenges as their horses are nearly requisitioned for war purposes, petrol rationing creates a demand for ponies to pull carts, and one of the sisters goes off to do war work[^ref10]. Cumming’s brother Richard, a garage proprietor, lived at nearby at Clematis Cottage with his wife Marjorie and may have inspired the petrol rationing plot line.[^ref11]
-
+<br><br>
 Cumming joined the Auxiliary Territorial Service and served for the rest of the war in an anti-aircraft battery. Between air-raids, she wrote _The Great Horses_.[^ref12] 
 
 In the 1940s, the schools radio service featured Scenes from “Ben” in their ‘English for Under nines’ programme. It was a story about a cart horse which was arranged for broadcasting by Jean Sutcliffe, who later published stories from the popular _Listen with Mother_ radio series.[^ref13] 
-
+<br><br>
 Cumming’s 1951 book _Four Rode Home_ is the story of four friends who decide to ride from the New Forest back home to Kent and who meet with many adventures on the way. Her stories were often based on her own experiences, including  her riding tours along the Pilgrim’s Way and in the New Forest.[^ref14]
-
+<br><br>
 In her book _Flying Horseman_, Morgan Knight goes to stay with “a horse mad family on a fruit farm”. The airfield in the book is named Broadfield Airfield and was modelled on Lydd Ferryfield.[^ref15] 
 
 For over 20 years, Cumming was the honorary secretary and judge of the annual Sandhurst horse shows and Gymkhanas. Not only this, but she enjoyed gardening, entering both local and national flower competitions. In 1953 she organised a plant sale which raised £16 for the International League for the Protection of Horses.[^ref16]
@@ -53,7 +53,7 @@ An active member of the community, Cumming ran the village library along with th
 <br><br>
 She had 20 books published and wrote numerous short stories for children’s annuals including a series about ballet.[^ref18]
 
-Her funeral took place at St. Nicholas Church, Sandhurst, on Monday 6th September 2004. 
+She died on .... Her funeral took place at St. Nicholas Church, Sandhurst, on Monday 6th September 2004. 
 <br><br>
 Other Kent writers of tales about horses and ponies include Marion Stapylton Pares (pseud. Judith Campbell), author of _Family Pony_ and Gillian Baxter who wrote _Horses and Heather_. 
 <br><br>
