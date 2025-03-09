@@ -45,7 +45,7 @@ In the Spring of 1939, her novel _Rachel of Romney_ was published. It was about 
 During the second world war, Cumming spent a year working on a farm, an experience which she fictionalised in _Owl’s Castle Farm_. In the book her character Sheela reflects on the black out: “It was one of the things by which she would most remember the war, Sheelah thought: this passing from a still fairly light world with blackbirds chattering up and down the hedges into night-time with curtains drawn and lamps lit as if it were quite dark beyond the windows." Owl's Castle Farm was at Lamberhurst, 10 miles from Sandhurst. On the 15 October 1940, a Messerschmitt 110 crashed on the farm in a field of sheep whilst Cumming was looking after them. Cumming fictionalised this incident in her book. Cumming's sister Violet also undertook war work.[^ref9]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ee/Land_Army_Girls_going_to_Bed_%28Art.IWM_ART_LD_3351%29.jpg" label="Land Army Girls Going to Bed" attribution="Evelyn Dunbar, Imperial War Museum, Public domain, via Wikimedia Commons">
 
-Cumming’s novel _Silver Eagle Carries On_, published in 1940 continues the story of the Chantry sisters and the Silver Eagle riding school. Set during the war, the Chantry sisters face challenges as their horses are nearly requisitioned for war purposes, petrol rationing creates a demand for ponies to pull carts, and one of the sisters goes off to do war work[^ref10]. Cumming’s brother Richard, a garage proprietor, lived at nearby at Clematis Cottage with his wife Marjorie and may have inspired the petrol rationing plot line.[^ref11]
+Cumming’s novel _Silver Eagle Carries On_, published in 1940 continues the story of the Chantry sisters and the Silver Eagle riding school. Set during the war, the Chantry sisters face challenges as their horses are nearly requisitioned for war purposes, petrol rationing creates a demand for ponies to pull carts, and one of the sisters goes off to do war work.[^ref10] Cumming’s brother Richard, a garage proprietor, lived at nearby at Clematis Cottage with his wife Marjorie and may have inspired the petrol rationing plot line.[^ref11]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/%22Breaking_up_rough_pasture_in_Kent._The_horses_cease_work_at_sunset%2C_but_the_motor_tractor_carries_on_through_the_night.%22_%28Taken_from_the_portfolio_notes_to%2C_%27Land_Work_in_War-time%27%29_Art.IWMART16648a.jpg" label="Breaking up rough pasture in Kent. Land work in war time" attribution="Hartrick, Archibald Standish, Ministry of Information, War Artists Advisory Committee, Her Majesty's Stationery Office, Imperial War Museum Public domain, via Wikimedia Commons">
 
 Cumming joined the Auxiliary Territorial Service and served for the rest of the war in an anti-aircraft battery. Between air-raids, she wrote _The Great Horses_.[^ref12] 
@@ -69,7 +69,7 @@ Primrose Cumming died in 2004. Her funeral took place at St. Nicholas Church, Sa
 <br><br>
 Other Kent writers of tales about horses and ponies include Marion Stapylton Pares (pseud. Judith Campbell), author of _Family Pony_ and Gillian Baxter who wrote _Horses and Heather_. 
 <br><br>
-This article was published: March 2025   
+This article was published: March 2025. Illustrations from the Westerham Hill Horse Show of 1926 have been used to add colour to the piece, but these are not linked to Primrose Cumming.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/25/St_Nicholas%27_Church%2C_Sandhurst%2C_Kent_%28Geograph_Image_2615565_f85a473f%29.jpg" label="Church of St Nicholas, Sandhurst" attribution="Julian P Guffogg" license="CC BY-SA 2.0">
 
 ### References
@@ -84,7 +84,7 @@ This article was published: March 2025
 [^ref8]: Badger, Jane. [Cumming, Primrose](https://janebadgerbooks.co.uk/british-authors/cumming-primrose/) (Accessed 14 Dec. 2024).
 [^ref9]: "Messerschmitt Down in Flames." _Sevenoaks Chronicle and Kentish Advertiser_ 18 October 1940.
 [^ref10]: Cumming, P. _Silver Eagle Carries On_
-[^ref11] 1939 Register _Find My Past_.
+[^ref11]: 1939 Register _Find My Past_.
 [^ref12]: [Books, Mud and Compost. And Horses](https://booksandmud.blogspot.com/2014/09/pbotd-3rd-september-primrose-cumming.html) blog post.
 [^ref13]: Nov 2 _Radio times_ v.82-85, 1943-44, _Hathi Trust_. 
 [^ref14]: _Kentish Express_ 13 March 1959. 
