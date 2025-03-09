@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="Primrose Cumming (1915-2004)" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994" description="In this visual essay, Michelle Crowther presents the life and works of kent author Primrose Cumming.">
+<param ve-config title="Primrose Cumming (1915-2004)" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/f99cba76-1d0b-4711-8b68-963a2f244076" description="In this visual essay, Michelle Crowther presents the life and works of Kent author Primrose Cumming.">
 
 <param ve-entity eid="Q9033431"  aliases="Minster">
 <param ve-entity eid="Q2160826" aliases="Cranbrook">
@@ -24,6 +24,7 @@ Primrose grew up in Sandhurst, near Cranbrook on the Kent and Sussex border, whe
 Cumming’s first book _Doney_ was published when she was 17 and is about a horse and his mistress Janet.[^ref3] The novel is set in the “The Borderland” where Kent and Sussex meet, in the villages of Bodiam, Sandhurst, Salehurst, Cranbrook and Northiam. It included an introduction by Sheila Kaye-Smith who lived in nearby Northiam and whose own novel [Shepherds in Sackcloth]( https://www.kent-maps.online/20c/20c-kaye-smith-delmonden/) had been set around Sandhurst in the imaginary village of Delmonden . In an article in _Country Life_ Cummings said:
 <br><br>
 so keen on riding at this time, that I used to steal out early in the morning and ride the farmers’ horses in the fields. Then I wrote a book about my friend’s pony, Doney, and sold it. With the money, I bought Black Jack – who was rather too spirited for a beginner. When I took him hunting, he broke his bridle and off I came – in front of the whole field. At last we got on better terms and we both made our names by jumping everything in his path. To feed Black Jack, I wrote more books about country life, drawing on my own knowledge and experience. I had several published by the time I was 21.[^ref4]
+<param ve-image url="https://stor.artstor.org/stor/6ec0b85d-688d-4221-9302-eb4cfac662e5" label="Marshal Foch ridden by Miss Vera Goodchild, West Kent Stables" attribution="Michelle Crowther">
 
 Cumming's most famous novel, _Silver Snaffles_ was published in 1937. American poet and children’s author, Maxine Kumin described it as set “in a sunlit world where articulate ponies with good English country-squire manners and highly individual personalities give lessons in equitation and stable management to some eager, horseless youngsters.”[^ref5]  
 
@@ -32,6 +33,7 @@ Cumming's stories were often based on her own experiences including foxhunting w
 In 1938, Cumming’s father died. It was during this year that her book _The Silver Eagle Riding School_ was published in which three sisters open a riding school after the death of their father in order to support themselves and to prevent the sale of their horses. 
 <br><br>
 Primrose and her sister Violet continued to live with their widowed mother at Wynberg on Back Road, Sandhurst.
+<param ve-image url="https://stor.artstor.org/stor/f46a4ed2-2281-41ef-b467-b51c70ac8e14" label="West Kent Stables 1926" attribution="Michelle Crowther">
 
 In the Spring of 1939, her novel _Rachel of Romney_ was published. It was about a lamb who was found on the marshes by David and Alice Warren, the children of an unsuccessful chicken farmer. With the help of the lamb, the children find Roman treasure which helps to save the family’s fortunes. Cumming’s inspiration may have come from her own failed attempts to keep chickens at the age of 12.[^ref8]
 
@@ -53,7 +55,7 @@ An active member of the community, Cumming ran the village library along with th
 <br><br>
 She published 20 books and wrote numerous short stories for children’s annuals including a series about ballet.[^ref18] According to Haymonds pony stories follow the narrative convention of "the transformation of gauche girls and neglected ponies" but that Cumming "experimented more than most with the genre" writing about working horses as well as ponies.[^ref19]
 
-She died on .... Her funeral took place at St. Nicholas Church, Sandhurst, on Monday 6th September 2004. 
+She died in 2004. Her funeral took place at St. Nicholas Church, Sandhurst, on Monday 6th September 2004. 
 <br><br>
 Other Kent writers of tales about horses and ponies include Marion Stapylton Pares (pseud. Judith Campbell), author of _Family Pony_ and Gillian Baxter who wrote _Horses and Heather_. 
 <br><br>
