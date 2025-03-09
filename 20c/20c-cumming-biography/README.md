@@ -56,7 +56,7 @@ In the 1940s, the schools radio service featured Scenes from “Ben” in their 
 Cumming’s 1951 book _Four Rode Home_ is the story of four friends who decide to ride from the New Forest back home to Kent and who meet with many adventures on the way. Her stories were often based on her own experiences, including  her riding tours along the Pilgrim’s Way and in the New Forest.[^ref14]
 <br><br>
 In her book _Flying Horseman_, published in 1959, Morgan Knight, who contracts polio, goes to stay with “a horse mad family on a fruit farm”. The airfield in the book is named Broadfield Airfield and was modelled on Lydd Ferryfield. Cumming wrote of the "homely but not ungraceful freighters with gay markings on their silver skins".[^ref15]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bristol_Freighter_%28Silver_City_Airways%29_at_Lydd_Airport%2C_1960_1279850.jpg" label="Brisol Freighter Silver City Airway at Lydd Airport, c. 1960" attribution="Anne Burgess, via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bristol_Freighter_%28Silver_City_Airways%29_at_Lydd_Airport%2C_1960_1279850.jpg" label="Bristol Freighter Silver City Airway at Lydd Airport, c. 1960" attribution="Anne Burgess, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 For over 20 years, Cumming was the honorary secretary and judge of the annual Sandhurst horse shows and Gymkhanas. Not only this, but she enjoyed gardening, entering both local and national flower competitions. She won prizes for her long carrots, shallots, peas and roses.[^ref16] In 1953 she organised a plant sale which raised £16 for the International League for the Protection of Horses.[^ref17]
 <br><br>
