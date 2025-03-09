@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="River Dour" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/9/97/Dover%2C_River_Dour_-_geograph.org.uk_-_2868880.jpg" attribution="River Dour by Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-config title="River Dour" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/b4fb174f-5884-4bfc-832a-20fc4b3683dc" attribution="Martin Crowther">
 
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
 <param ve-entity eid="Q179224" aliases="Dover">
@@ -101,6 +101,8 @@ Today the river disappears under Castle Street and skirts behind shops, near gar
 The River Dour now ends its journey as it disappears into the vast Wellington Dock, named after the Duke of Wellington who opened "Wellington Bridge" in 1846. The Dock was later improved in 1888 to allow vessels of 800 tons. 
 <br><br>
 In 1914, it was reported that "an immense quantity of filth" was brought down by the river into the dock and that the Sanitary Officers should be stricter in prosecuting the townsfolk who were treating the river like an "open drain"[^ref28] Mud and weeds from the river also drifted down to the dock. By 1922, matters were no better as the river was "filled with household rubbish in the form of tin cans" and there were fears that the poor water quality would be hazardous to health.[^ref29]
+<br><br>
+Today the river is much cleaner, the brown trout swim in the clear water and Dover is proud of its little stream.
 <br><br>
 This article was written specially for Dover at Night 2025.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/48/Wellington_Dock_-_geograph.org.uk_-_4588572.jpg" label="Wellington Dock" attribution="John Baker via Wikimedia Commons" license="CC BY-SA 2.0">
