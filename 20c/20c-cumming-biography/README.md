@@ -69,10 +69,10 @@ This article was published: March 2025
 [^ref6]: _Kentish Express_ 13 March 1959.
 [^ref7]: Cumming, P. _Silver Snaffles_ 
 [^ref8]: Badger, Jane. [Cumming, Primrose](https://janebadgerbooks.co.uk/british-authors/cumming-primrose/) (Accessed 14 Dec. 2024).
-[^ref9]: [Books, Mud and Compost. And Horses](https://booksandmud.blogspot.com/2014/09/pbotd-3rd-september-primrose-cumming.html) blog post;  "Messerschmitt Down in Flames." _Sevenoaks Chronicle and Kentish Advertiser_18 October 1940.
+[^ref9]: "Messerschmitt Down in Flames." _Sevenoaks Chronicle and Kentish Advertiser_ 18 October 1940.
 [^ref10]: Cumming, P. _Silver Eagle Carries On_
 [^ref11] 1939 Register _Find My Past_.
-[^ref12]:
+[^ref12]: [Books, Mud and Compost. And Horses](https://booksandmud.blogspot.com/2014/09/pbotd-3rd-september-primrose-cumming.html) blog post.
 [^ref13]: Nov 2 _Radio times_ v.82-85, 1943-44, _Hathi Trust_. 
 [^ref14]: _Kentish Express_ 13 March 1959. 
 [^ref15]: _Kentish Express_ 13 March 1959.
