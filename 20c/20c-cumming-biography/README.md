@@ -16,6 +16,7 @@
 ‘It was sunny, in the cool, golden way, as on the other days. The trees and hedges, and the grassy line of a hilly field stood out clearly in the pure light, and yet it was impossible to see for a very great distance. A lilac mist hung all round and rose up to meet the sky, where it turned rosy and then gradually melted into the golden rays’ (_Silver Snaffles_, 59).
 <br><br>
 Amy Primrose (Peggie) Cumming, author of pony stories for children, was born on the 7 April 1915 at Minster on the Isle of Thanet.[^ref1] She was the third child of Arthur Sommerville Cumming, a retired tea planter and Emily Christin Heath. Primrose’s grandfather was a tea broker and the family had links with the Assam tea gardens in N.E. India. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d0/Bruno_Liljefors_-_Black_pony_1887.jpg" label="Black Pony, 1887" attribution="Bruno Liljefors, Public Domain via Wikimedia Commons">
 
 Primrose’s older siblings Richard and Violet were both born in the Cranbrook district, so Amy’s birth in Thanet may have been linked to a visit to Arthur’s brother Claude and his family, who were living at Cleeve Court, Minster. Cleeve Court had been the home of [Baroness Emma Orczy]( /20c/20c-orczy-biography/), the author of the Scarlet Pimpernel stories between 1908-1911 and was later owned by Lord Edward Carson who defended the Marquess of Queensbury against Oscar Wilde’s action for libel.
 
