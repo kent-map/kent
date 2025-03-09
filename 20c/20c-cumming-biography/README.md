@@ -1,4 +1,9 @@
-Primrose Cumming (1915-2004)
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+
+<param ve-config title="Primrose Cumming (1915-2004)" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994" description="In this visual essay, Michelle Crowther presents the life and works of kent author Primrose Cumming.">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="542e2ed0e875aeb4" title="OS East Kent 1945">
 
 param ve-entity eid="
 param ve-entity eid="Q9033431"  aliases="Minster">
