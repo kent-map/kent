@@ -46,6 +46,7 @@ During the second world war, Cumming spent a year working on a farm, an experien
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ee/Land_Army_Girls_going_to_Bed_%28Art.IWM_ART_LD_3351%29.jpg" label="Land Army Girls Going to Bed" attribution="Evelyn Dunbar, Imperial War Museum, Public domain, via Wikimedia Commons">
 
 Cumming’s novel _Silver Eagle Carries On_, published in 1940 continues the story of the Chantry sisters and the Silver Eagle riding school. Set during the war, the Chantry sisters face challenges as their horses are nearly requisitioned for war purposes, petrol rationing creates a demand for ponies to pull carts, and one of the sisters goes off to do war work[^ref10]. Cumming’s brother Richard, a garage proprietor, lived at nearby at Clematis Cottage with his wife Marjorie and may have inspired the petrol rationing plot line.[^ref11]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/%22Breaking_up_rough_pasture_in_Kent._The_horses_cease_work_at_sunset%2C_but_the_motor_tractor_carries_on_through_the_night.%22_%28Taken_from_the_portfolio_notes_to%2C_%27Land_Work_in_War-time%27%29_Art.IWMART16648a.jpg" label="Breaking up rough pasture in Kent. Land work in war time" attribution="Hartrick, Archibald Standish, Ministry of Information, War Artists Advisory Committee, Her Majesty's Stationery Office, Imperial War Museum Public domain, via Wikimedia Commons">
 
 Cumming joined the Auxiliary Territorial Service and served for the rest of the war in an anti-aircraft battery. Between air-raids, she wrote _The Great Horses_.[^ref12] 
 <br><br>
@@ -57,17 +58,19 @@ Cumming’s 1951 book _Four Rode Home_ is the story of four friends who decide t
 In her book _Flying Horseman_, published in 1959, Morgan Knight, who contracts polio, goes to stay with “a horse mad family on a fruit farm”. The airfield in the book is named Broadfield Airfield and was modelled on Lydd Ferryfield. Cumming wrote of the "homely but not ungraceful freighters with gay markings on their silver skins".[^ref15]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bristol_Freighter_%28Silver_City_Airways%29_at_Lydd_Airport%2C_1960_1279850.jpg" label="Brisol Freighter Silver City Airway at Lydd Airport, c. 1960" attribution="Anne Burgess, via Wikimedia Commons" license="CC BY-SA 2.0">
 
-For over 20 years, Cumming was the honorary secretary and judge of the annual Sandhurst horse shows and Gymkhanas. Not only this, but she enjoyed gardening, entering both local and national flower competitions. In 1953 she organised a plant sale which raised £16 for the International League for the Protection of Horses.[^ref16]
+For over 20 years, Cumming was the honorary secretary and judge of the annual Sandhurst horse shows and Gymkhanas. Not only this, but she enjoyed gardening, entering both local and national flower competitions. She won prizes for her long carrots, shallots, peas and roses.[^ref16] In 1953 she organised a plant sale which raised £16 for the International League for the Protection of Horses.[^ref17]
 <br><br>
-An active member of the community, Cumming ran the village library along with three other helpers. The library opened for an hour twice a week at the Old School and had over 500 books and 100 members. In 1975 Cumming  complained to the Kent and Sussex Courier about Kent County Council proposals to replace the volunteer run village library with a mobile van service.[^ref16] Cumming also gave talks to the Women’s Institute on the history of Sandhurst and the Romance of Gardens.[^ref17]
+An active member of the community, Cumming ran the village library along with three other helpers. The library opened for an hour twice a week at the Old School and had over 500 books and 100 members. In 1975 Cumming  complained to the Kent and Sussex Courier about Kent County Council proposals to replace the volunteer run village library with a mobile van service. Cumming also gave talks to the Women’s Institute on the history of Sandhurst and the Romance of Gardens.[^ref18]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/88/Clara_Vogedes_-_Dunkle_Rosen%2C_1959.jpg" label="Dunkle Rosen" attribution="Clara Vogedes, via Wikimedia Commons" license="CC BY-SA 4.0">
 
-Cumming published 20 books and wrote numerous short stories for children’s annuals including a series about ballet.[^ref18] According to Alison Haymonds, pony stories follow the narrative convention of "the transformation of gauche girls and neglected ponies" but Cumming "experimented more than most with the genre" writing about working horses as well as ponies.[^ref19]
-
-She died in 2004. Her funeral took place at St. Nicholas Church, Sandhurst, on Monday 6th September 2004. 
+Cumming published 20 books and wrote numerous short stories for children’s annuals including a series about ballet.[^ref19] According to Alison Haymonds, pony stories follow the narrative convention of "the transformation of gauche girls and neglected ponies" but Cumming "experimented more than most with the genre" writing about working horses as well as ponies.[^ref20]
+<br><br>
+Primrose Cumming died in 2004. Her funeral took place at St. Nicholas Church, Sandhurst, on Monday 6th September 2004. 
 <br><br>
 Other Kent writers of tales about horses and ponies include Marion Stapylton Pares (pseud. Judith Campbell), author of _Family Pony_ and Gillian Baxter who wrote _Horses and Heather_. 
 <br><br>
 This article was published: March 2025   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/25/St_Nicholas%27_Church%2C_Sandhurst%2C_Kent_%28Geograph_Image_2615565_f85a473f%29.jpg" label="Church of St Nicholas, Sandhurst" attribution="Julian P Guffogg" license="CC BY-SA 2.0">
 
 ### References
 
@@ -86,10 +89,11 @@ This article was published: March 2025
 [^ref13]: Nov 2 _Radio times_ v.82-85, 1943-44, _Hathi Trust_. 
 [^ref14]: _Kentish Express_ 13 March 1959. 
 [^ref15]: _Kentish Express_ 13 March 1959.
-[^ref16]: "Books on Wheels Meet Opposition." _Kent & Sussex Courier_ 29 August 1975.
-[^ref17]: "Sandhurst and Newenden Evening." _Kent and Sussex Courier_ 30 January 1981.
-[^ref18]: Cridland, Clarissa. [Pony Books](http://www.collectingbooksandmagazines.com/ponybook.html) A Brief Introduction.
-[^ref19]: Haymonds, Alison. "Pony Books." _International Companion Encyclopedia of Children's Literature_ Routledge, 2004.
+[^ref16]: "Sandhurst Flower Show." _Sevenoaks Chronicle and Kentish Advertiser_ 21 July 1950.
+[^ref17]: "Books on Wheels Meet Opposition." _Kent & Sussex Courier_ 29 August 1975.
+[^ref18]: "Sandhurst and Newenden Evening." _Kent and Sussex Courier_ 30 January 1981.
+[^ref19]: Cridland, Clarissa. [Pony Books](http://www.collectingbooksandmagazines.com/ponybook.html) A Brief Introduction.
+[^ref20]: Haymonds, Alison. "Pony Books." _International Companion Encyclopedia of Children's Literature_ Routledge, 2004.
 
 
 
