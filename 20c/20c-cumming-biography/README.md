@@ -35,7 +35,7 @@ Primrose and her sister Violet continued to live with their widowed mother at Wy
 
 In the Spring of 1939, her novel _Rachel of Romney_ was published. It was about a lamb who was found on the marshes by David and Alice Warren, the children of an unsuccessful chicken farmer. With the help of the lamb, the children find Roman treasure which helps to save the family’s fortunes. Cumming’s inspiration may have come from her own failed attempts to keep chickens at the age of 12.[^ref8]
 
-During the second world war, Cumming spent a year working on a farm, an experience which she fictionalised in _Owl’s Castle Farm_. Her sister Violet also undertook war work.[^ref9]
+During the second world war, Cumming spent a year working on a farm, an experience which she fictionalised in _Owl’s Castle Farm_. In the book her character Sheela reflects on the black out: “It was one of the things by which she would most remember the war, Sheelah thought: this passing from a still fairly light world with blackbirds chattering up and down the hedges into night-time with curtains drawn and lamps lit as if it were quite dark beyond the windows." Owl's Castle Farm was at Lamberhurst, 10 miles from Sandhurst. On the 15 October 1940, a Messerschmitt 110 crashed on the farm in a field of sheep whilst Cumming was looking after them. Cumming fictionalised this incident in her book. Cumming's sister Violet also undertook war work.[^ref9]
 <br><br>
 Cumming’s novel _Silver Eagle Carries On_, published in 1940 continues the story of the Chantry sisters and the Silver Eagle riding school. Set during the war, the Chantry sisters face challenges as their horses are nearly requisitioned for war purposes, petrol rationing creates a demand for ponies to pull carts, and one of the sisters goes off to do war work[^ref10]. Cumming’s brother Richard, a garage proprietor, lived at nearby at Clematis Cottage with his wife Marjorie and may have inspired the petrol rationing plot line.[^ref11]
 <br><br>
@@ -45,23 +45,23 @@ In the 1940s, the schools radio service featured Scenes from “Ben” in their 
 <br><br>
 Cumming’s 1951 book _Four Rode Home_ is the story of four friends who decide to ride from the New Forest back home to Kent and who meet with many adventures on the way. Her stories were often based on her own experiences, including  her riding tours along the Pilgrim’s Way and in the New Forest.[^ref14]
 <br><br>
-In her book _Flying Horseman_, Morgan Knight goes to stay with “a horse mad family on a fruit farm”. The airfield in the book is named Broadfield Airfield and was modelled on Lydd Ferryfield.[^ref15] 
+In her book _Flying Horseman_, Morgan Knight, who contracts polio, goes to stay with “a horse mad family on a fruit farm”. The airfield in the book is named Broadfield Airfield and was modelled on Lydd Ferryfield. Cumming wrote of the "homely but not ungraceful freighters with gay markings on their silver skins".[^ref15]
 
 For over 20 years, Cumming was the honorary secretary and judge of the annual Sandhurst horse shows and Gymkhanas. Not only this, but she enjoyed gardening, entering both local and national flower competitions. In 1953 she organised a plant sale which raised £16 for the International League for the Protection of Horses.[^ref16]
 
 An active member of the community, Cumming ran the village library along with three other helpers. The library opened for an hour twice a week at the Old School and had over 500 books and 100 members. In 1975 Cumming  complained to the Kent and Sussex Courier about Kent County Council proposals to replace the volunteer run village library with a mobile van service.[^ref16] Cumming also gave talks to the Women’s Institute on the history of Sandhurst and the Romance of Gardens.[^ref17]
 <br><br>
-She had 20 books published and wrote numerous short stories for children’s annuals including a series about ballet.[^ref18]
+She published 20 books and wrote numerous short stories for children’s annuals including a series about ballet.[^ref18] According to Haymonds pony stories follow the narrative convention of "the transformation of gauche girls and neglected ponies" but that Cumming "experimented more than most with the genre" writing about working horses as well as ponies.[^ref19]
 
 She died on .... Her funeral took place at St. Nicholas Church, Sandhurst, on Monday 6th September 2004. 
 <br><br>
 Other Kent writers of tales about horses and ponies include Marion Stapylton Pares (pseud. Judith Campbell), author of _Family Pony_ and Gillian Baxter who wrote _Horses and Heather_. 
 <br><br>
-This article was published: March 2025
+This article was published: March 2025   
 
 ### References
 
-[^ref1]: 
+[^ref1]: Handley-Taylor, Geoffrey. _Kent Authors Today_, Eddison Press, 1973, p.5
 [^ref2]: Badger, Jane. [Cumming, Primrose](https://janebadgerbooks.co.uk/british-authors/cumming-primrose/) (Accessed 14 Dec. 2024).
 [^ref3]: _Kentish Express_ , 13 March 1959.
 [^ref4]: _Country Life_ 15 December 1934, qtd by Jane Badger.
@@ -69,7 +69,7 @@ This article was published: March 2025
 [^ref6]: _Kentish Express_ 13 March 1959.
 [^ref7]: Cumming, P. _Silver Snaffles_ 
 [^ref8]: Badger, Jane. [Cumming, Primrose](https://janebadgerbooks.co.uk/british-authors/cumming-primrose/) (Accessed 14 Dec. 2024).
-[^ref9]:
+[^ref9]: [Books, Mud and Compost. And Horses](https://booksandmud.blogspot.com/2014/09/pbotd-3rd-september-primrose-cumming.html) blog post;  "Messerschmitt Down in Flames." _Sevenoaks Chronicle and Kentish Advertiser_18 October 1940.
 [^ref10]: Cumming, P. _Silver Eagle Carries On_
 [^ref11] 1939 Register _Find My Past_.
 [^ref12]:
@@ -77,8 +77,9 @@ This article was published: March 2025
 [^ref14]: _Kentish Express_ 13 March 1959. 
 [^ref15]: _Kentish Express_ 13 March 1959.
 [^ref16]: "Books on Wheels Meet Opposition." _Kent & Sussex Courier_ 29 August 1975.
-[^ref17]: 
+[^ref17]: "Sandhurst and Newenden Evening." _Kent and Sussex Courier_ 30 January 1981.
 [^ref18]: Cridland, Clarissa. [Pony Books](http://www.collectingbooksandmagazines.com/ponybook.html) A Brief Introduction.
+[^ref19]: Haymonds, Alison. "Pony Books." _International Companion Encyclopedia of Children's Literature_ Routledge, 2004.
 
 
 
