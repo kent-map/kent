@@ -51,11 +51,12 @@ For over 20 years, Cumming was the honorary secretary and judge of the annual Sa
 
 An active member of the community, Cumming ran the village library along with three other helpers. The library opened for an hour twice a week at the Old School and had over 500 books and 100 members. In 1975 Cumming  complained to the Kent and Sussex Courier about Kent County Council proposals to replace the volunteer run village library with a mobile van service.[^ref16] Cumming also gave talks to the Women’s Institute on the history of Sandhurst and the Romance of Gardens.[^ref17]
 <br><br>
-She had 20 books published and wrote numerous short stories for children’s annuals including a series about ballet.
+She had 20 books published and wrote numerous short stories for children’s annuals including a series about ballet.[^ref18]
 
 Her funeral took place at St. Nicholas Church, Sandhurst, on Monday 6th September 2004. 
 <br><br>
-Other Kent writers of tales about horses and ponies include Marion Stapylton Pares (pseud. Judith Campbell), author of “Family Pony” and Gillian Baxter who wrote “Horses and Heather”. 
+Other Kent writers of tales about horses and ponies include Marion Stapylton Pares (pseud. Judith Campbell), author of _Family Pony_ and Gillian Baxter who wrote _Horses and Heather_. 
+<br><br>
 This article was published: March 2025
 
 ### References
@@ -63,17 +64,22 @@ This article was published: March 2025
 [^ref1]: 
 [^ref2]: Badger, Jane. [Cumming, Primrose](https://janebadgerbooks.co.uk/british-authors/cumming-primrose/) (Accessed 14 Dec. 2024).
 [^ref3]: _Kentish Express_ , 13 March 1959.
-[^ref4]: _Country Life_ 15 December 1934).
+[^ref4]: _Country Life_ 15 December 1934, qtd by Jane Badger.
 [^ref5]: _Twice-told children's tales : the influence of childhood reading on writers for adults_, Routledge 2005.
 [^ref6]: _Kentish Express_ 13 March 1959.
 [^ref7]: Cumming, P. _Silver Snaffles_ 
 [^ref8]: Badger, Jane. [Cumming, Primrose](https://janebadgerbooks.co.uk/british-authors/cumming-primrose/) (Accessed 14 Dec. 2024).
 [^ref9]:
 [^ref10]: Cumming, P. _Silver Eagle Carries On_
-[^ref11]
+[^ref11] 1939 Register _Find My Past_.
 [^ref12]:
 [^ref13]: Nov 2 _Radio times_ v.82-85, 1943-44, _Hathi Trust_. 
 [^ref14]: _Kentish Express_ 13 March 1959. 
 [^ref15]: _Kentish Express_ 13 March 1959.
+[^ref16]: "Books on Wheels Meet Opposition." _Kent & Sussex Courier_ 29 August 1975.
+[^ref17]: 
+[^ref18]: Cridland, Clarissa. [Pony Books](http://www.collectingbooksandmagazines.com/ponybook.html) A Brief Introduction.
+
+
 
 
