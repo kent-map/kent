@@ -2,15 +2,14 @@
 
 <param ve-config title="Primrose Cumming (1915-2004)" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994" description="In this visual essay, Michelle Crowther presents the life and works of kent author Primrose Cumming.">
 
-<!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="542e2ed0e875aeb4" title="OS East Kent 1945">
-
-param ve-entity eid="
 param ve-entity eid="Q9033431"  aliases="Minster">
 param ve-entity eid="Q2160826" aliases="Cranbrook">
 param ve-entity eid="Q2911413" aliases="Sandhurst">
 param ve-entity eid="Q2011975" aliases="Bodiam">
 param ve-entity eid="Q1792908" aliases="Northiam">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="542e2ed0e875aeb4" title="OS East Kent 1945">
 
 #
 
@@ -22,18 +21,19 @@ Primrose’s older siblings Richard and Violet were both born in the Cranbrook d
 
 Primrose grew up in Sandhurst, near Cranbrook on the Kent and Sussex border, where she was privately educated at home with her sister Violet. On recognising her talent for writing stories, her governess encouraged her to write for publication, and her first story was published in _Nursery World_. As well as writing, which she did in bed, Primrose loved fishing on the River Rother and recalls that she was once nearly pulled in by a large eel.[^ref2] 
 
-Cumming’s first book _Doney_ was published when she was 17 and [^ref3] is about a horse and his mistress Janet. The novel is set in the “The Borderland” where Kent and Sussex meet, in the villages of Bodiam, Sandhurst, Salehurst, Cranbrook and Northiam. (Country Life - Saturday 15 December 1934). It included an introduction by Sheila Kaye-Smith who lived in nearby Northiam and whose own novel [Shepherds in Sackcloth]( https://www.kent-maps.online/20c/20c-kaye-smith-delmonden/) had been set around Sandhurst in the imaginary village of Delmonden . In an article in _Country Life_ Cummings said:
+Cumming’s first book _Doney_ was published when she was 17 and [^ref3] is about a horse and his mistress Janet. The novel is set in the “The Borderland” where Kent and Sussex meet, in the villages of Bodiam, Sandhurst, Salehurst, Cranbrook and Northiam. It included an introduction by Sheila Kaye-Smith who lived in nearby Northiam and whose own novel [Shepherds in Sackcloth]( https://www.kent-maps.online/20c/20c-kaye-smith-delmonden/) had been set around Sandhurst in the imaginary village of Delmonden . In an article in _Country Life_ Cummings said:
 <br><br>
 so keen on riding at this time, that I used to steal out early in the morning and ride the farmers’ horses in the fields. Then I wrote a book about my friend’s pony, Doney, and sold it. With the money, I bought Black Jack – who was rather too spirited for a beginner. When I took him hunting, he broke his bridle and off I came – in front of the whole field. At last we got on better terms and we both made our names by jumping everything in his path. To feed Black Jack, I wrote more books about country life, drawing on my own knowledge and experience. I had several published by the time I was 21.[^ref4]
 
-Cumming's most famous novel, _Silver Snaffles_ was published in 1937. American poet and children’s author, Maxine Kumin described it as set “in a sunlit world where articulate ponies with good English country-squire manners and highly individual personalities give lessons in equitation and stable management to some eager, horseless youngsters.”  (in Twice-told children's tales : the influence of childhood reading on writers for adults, Routledge 2005.)
+Cumming's most famous novel, _Silver Snaffles_ was published in 1937. American poet and children’s author, Maxine Kumin described it as set “in a sunlit world where articulate ponies with good English country-squire manners and highly individual personalities give lessons in equitation and stable management to some eager, horseless youngsters.”[^ref5]  
 
-Cumming's stories were often based on her own experiences including foxhunting with the Romney Marsh Foxhounds (Kentish Express - Friday 13 March 1959) In _Silver Snaffles_, a talking fox, congratulates the hunt for “an excellent day” in which : “the hounds hunted beautifully, thanks to the Huntsman and Whip, and that both ponies and riders surpassed themselves in getting over country as they have done.” 
+Cumming's stories were often based on her own experiences including foxhunting with the Romney Marsh Foxhounds[^ref6] In _Silver Snaffles_, a talking fox, congratulates the hunt for “an excellent day” in which : “the hounds hunted beautifully, thanks to the Huntsman and Whip, and that both ponies and riders surpassed themselves in getting over country as they have done.”[^ref7] 
 
 In 1938, Cumming’s father died. It was during this year that her book _The Silver Eagle Riding School_ was published in which three sisters open a riding school after the death of their father in order to support themselves and to prevent the sale of their horses. 
 <br><br>
-Primrose and her sister Violet lived with their widowed mother at Wynberg on Back Road, Sandhurst.
-In the Spring of 1939, her novel _Rachel of Romney_ was published. It was about a lamb who was found on the marshes by David and Alice Warren, the children of an unsuccessful chicken farmer. With the help of the lamb, the children find Roman treasure which helps saves the family’s fortunes. Cumming’s inspiration may have come from her own failed attempts to keep chickens at the age of 12 (Jane Badger). 
+Primrose and her sister Violet continued to live with their widowed mother at Wynberg on Back Road, Sandhurst.
+
+In the Spring of 1939, her novel _Rachel of Romney_ was published. It was about a lamb who was found on the marshes by David and Alice Warren, the children of an unsuccessful chicken farmer. With the help of the lamb, the children find Roman treasure which helps to save the family’s fortunes. Cumming’s inspiration may have come from her own failed attempts to keep chickens at the age of 12 (Jane Badger). 
 
 During the second world war, Cumming spent a year working on a farm, an experience which she fictionalised in _Owl’s Castle Farm_. Her sister Violet also undertook war work.
 
@@ -57,3 +57,14 @@ Her funeral took place at St. Nicholas Church, Sandhurst, on Monday 6th Septembe
 <br><br>
 Other Kent writers of tales about horses and ponies include Marion Stapylton Pares (pseud. Judith Campbell), author of “Family Pony” and Gillian Baxter who wrote “Horses and Heather”. 
 This article was published: March 2025
+
+### References
+
+[^ref1]: 
+[^ref2]: Badger, Jane. _Cumming, Primrose_. https://janebadgerbooks.co.uk/british-authors/cumming-primrose/ (Accessed 14 Dec. 2024).
+[^ref3]: _Kentish Express_ , 13 March 1959.
+[^ref4]: _Country Life_ 15 December 1934).
+[^ref5]: _Twice-told children's tales : the influence of childhood reading on writers for adults_, Routledge 2005.
+[^ref6]: _Kentish Express_13 March 1959.
+[^ref7]: Cumming, P. _Silver Snaffles_ 
+[^ref8]:
