@@ -308,11 +308,11 @@ Black History Month 2024 encourages the Black community to reclaim the narrative
 
 ## Dover at Night
 
-[Dover at Night](/placesad/dover-at-night)
+[Dover at Night](/landscape/river-dour)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night2025.jpg)
 
-To celebrate Dover at Night, Kent Maps Online have written an article about Dover as depicted in literature, where smuggling, assignations and abductions occur along its moonlit shore.
+To celebrate Dover at Night, Kent Maps Online have written an article about the River Dour and its importance to the town.
 
 ## Duke of Edinburgh Project
 
