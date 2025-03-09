@@ -2,11 +2,11 @@
 
 <param ve-config title="Primrose Cumming (1915-2004)" author="Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994" description="In this visual essay, Michelle Crowther presents the life and works of kent author Primrose Cumming.">
 
-param ve-entity eid="Q9033431"  aliases="Minster">
-param ve-entity eid="Q2160826" aliases="Cranbrook">
-param ve-entity eid="Q2911413" aliases="Sandhurst">
-param ve-entity eid="Q2011975" aliases="Bodiam">
-param ve-entity eid="Q1792908" aliases="Northiam">
+<param ve-entity eid="Q9033431"  aliases="Minster">
+<param ve-entity eid="Q2160826" aliases="Cranbrook">
+<param ve-entity eid="Q2911413" aliases="Sandhurst">
+<param ve-entity eid="Q2011975" aliases="Bodiam">
+<param ve-entity eid="Q1792908" aliases="Northiam">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="542e2ed0e875aeb4" title="OS East Kent 1945">
@@ -33,24 +33,24 @@ In 1938, Cumming’s father died. It was during this year that her book _The Sil
 <br><br>
 Primrose and her sister Violet continued to live with their widowed mother at Wynberg on Back Road, Sandhurst.
 
-In the Spring of 1939, her novel _Rachel of Romney_ was published. It was about a lamb who was found on the marshes by David and Alice Warren, the children of an unsuccessful chicken farmer. With the help of the lamb, the children find Roman treasure which helps to save the family’s fortunes. Cumming’s inspiration may have come from her own failed attempts to keep chickens at the age of 12 (Jane Badger). 
+In the Spring of 1939, her novel _Rachel of Romney_ was published. It was about a lamb who was found on the marshes by David and Alice Warren, the children of an unsuccessful chicken farmer. With the help of the lamb, the children find Roman treasure which helps to save the family’s fortunes. Cumming’s inspiration may have come from her own failed attempts to keep chickens at the age of 12.[^ref8]
 
-During the second world war, Cumming spent a year working on a farm, an experience which she fictionalised in _Owl’s Castle Farm_. Her sister Violet also undertook war work.
+During the second world war, Cumming spent a year working on a farm, an experience which she fictionalised in _Owl’s Castle Farm_. Her sister Violet also undertook war work.[^ref9]
 
-Cumming’s novel _Silver Eagle Carries On_, published in 1940 continues the story of the Chantry sisters and the Silver Eagle riding school. Set during the war, the Chantry sisters face challenges as their horses are nearly requisitioned for war purposes, petrol rationing creates a demand for ponies to pull carts, and one of the sisters goes off to do war work.  (Google Books). Cumming’s brother Richard, a garage proprietor, lived at nearby at Clematis Cottage with his wife Marjorie and may have inspired the petrol rationing plot line.
+Cumming’s novel _Silver Eagle Carries On_, published in 1940 continues the story of the Chantry sisters and the Silver Eagle riding school. Set during the war, the Chantry sisters face challenges as their horses are nearly requisitioned for war purposes, petrol rationing creates a demand for ponies to pull carts, and one of the sisters goes off to do war work[^ref10]. Cumming’s brother Richard, a garage proprietor, lived at nearby at Clematis Cottage with his wife Marjorie and may have inspired the petrol rationing plot line.[^ref11]
 
-Cumming joined the Auxiliary Territorial Service and served for the rest of the war in an anti-aircraft battery. Between air-raids, she wrote The Great Horses. 
+Cumming joined the Auxiliary Territorial Service and served for the rest of the war in an anti-aircraft battery. Between air-raids, she wrote _The Great Horses_.[^ref12] 
 
-In the 1940s, the schools radio service featured Scenes from “Ben” in their ‘English for Under nines’ programme. It was a story about a cart horse which was arranged for broadcasting by Jean Sutcliffe, who later published stories from the popular _Listen with Mother_ radio series. Cumming (Nov 2 Radio times v.82-85 (1943-44 hathi trust) 
+In the 1940s, the schools radio service featured Scenes from “Ben” in their ‘English for Under nines’ programme. It was a story about a cart horse which was arranged for broadcasting by Jean Sutcliffe, who later published stories from the popular _Listen with Mother_ radio series.[^ref13] 
 
-Cumming’s 1951 book _Four Rode Home_ is the story of four friends who decide to ride from the New Forest back home to Kent and who meet with many adventures on the way. Her stories were often based on her own experiences, including  her riding tours along the Pilgrim’s Way and in the New Forest (Kentish Express - Friday 13 March 1959) 
+Cumming’s 1951 book _Four Rode Home_ is the story of four friends who decide to ride from the New Forest back home to Kent and who meet with many adventures on the way. Her stories were often based on her own experiences, including  her riding tours along the Pilgrim’s Way and in the New Forest.[^ref14]
 
-In her book _Flying Horseman_, Morgan Knight goes to stay with “a horse mad family on a fruit farm”. The airfield in the book is named Broadfield Airfield and has been modelled on Lydd Ferryfield) Kentish Express - Friday 13 March 1959)???? Original name for Lydd was Lydd Ferryfield
+In her book _Flying Horseman_, Morgan Knight goes to stay with “a horse mad family on a fruit farm”. The airfield in the book is named Broadfield Airfield and was modelled on Lydd Ferryfield.[^ref15] 
 
-For over 20 years, Cumming was the honorary secretary and judge of the annual Sandhurst horse shows and Gymkhanas. Not only this, but she enjoyed gardening, entering both local and national flower competitions. In 1953 she organised a plant sale which raised £16 for the International League for the Protection of Horses.
+For over 20 years, Cumming was the honorary secretary and judge of the annual Sandhurst horse shows and Gymkhanas. Not only this, but she enjoyed gardening, entering both local and national flower competitions. In 1953 she organised a plant sale which raised £16 for the International League for the Protection of Horses.[^ref16]
 
-An active member of the community, Cumming ran the village library along with three other helpers. The library opened for an hour twice a week at the Old School and had over 500 books and 100 members. In 1975 Cumming  complained to the Kent and Sussex Courier about Kent County Council proposals to replace the volunteer run village library with a mobile van service. Cumming also gave talks to the Women’s Institute on the history of Sandhurst and the Romance of Gardens.
-
+An active member of the community, Cumming ran the village library along with three other helpers. The library opened for an hour twice a week at the Old School and had over 500 books and 100 members. In 1975 Cumming  complained to the Kent and Sussex Courier about Kent County Council proposals to replace the volunteer run village library with a mobile van service.[^ref16] Cumming also gave talks to the Women’s Institute on the history of Sandhurst and the Romance of Gardens.[^ref17]
+<br><br>
 She had 20 books published and wrote numerous short stories for children’s annuals including a series about ballet.
 
 Her funeral took place at St. Nicholas Church, Sandhurst, on Monday 6th September 2004. 
@@ -61,10 +61,19 @@ This article was published: March 2025
 ### References
 
 [^ref1]: 
-[^ref2]: Badger, Jane. _Cumming, Primrose_. https://janebadgerbooks.co.uk/british-authors/cumming-primrose/ (Accessed 14 Dec. 2024).
+[^ref2]: Badger, Jane. [Cumming, Primrose](https://janebadgerbooks.co.uk/british-authors/cumming-primrose/) (Accessed 14 Dec. 2024).
 [^ref3]: _Kentish Express_ , 13 March 1959.
 [^ref4]: _Country Life_ 15 December 1934).
 [^ref5]: _Twice-told children's tales : the influence of childhood reading on writers for adults_, Routledge 2005.
-[^ref6]: _Kentish Express_13 March 1959.
+[^ref6]: _Kentish Express_ 13 March 1959.
 [^ref7]: Cumming, P. _Silver Snaffles_ 
-[^ref8]:
+[^ref8]: Badger, Jane. [Cumming, Primrose](https://janebadgerbooks.co.uk/british-authors/cumming-primrose/) (Accessed 14 Dec. 2024).
+[^ref9]:
+[^ref10]: Cumming, P. _Silver Eagle Carries On_
+[^ref11]
+[^ref12]:
+[^ref13]: Nov 2 _Radio times_ v.82-85, 1943-44, _Hathi Trust_. 
+[^ref14]: _Kentish Express_ 13 March 1959. 
+[^ref15]: _Kentish Express_ 13 March 1959.
+
+
