@@ -51,7 +51,7 @@ Cumming’s novel _Silver Eagle Carries On_, published in 1940 continues the sto
 Cumming joined the Auxiliary Territorial Service and served for the rest of the war in an anti-aircraft battery. Between air-raids, she wrote _The Great Horses_.[^ref12] 
 <br><br>
 In the 1940s, the schools radio service featured Scenes from “Ben” in their ‘English for Under nines’ programme. It was a story about a cart horse which was arranged for broadcasting by Jean Sutcliffe, who later published stories from the popular _Listen with Mother_ radio series.[^ref13] 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/99/Theodore_Gericault_-_A_Cart-Horse.jpg" label="A Cart Horse" attribution="Théodore Géricault, Musee des Beaux-Arts d'Orleans, Public domain, via Wikimedia Commons" 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/99/Theodore_Gericault_-_A_Cart-Horse.jpg" label="A Cart Horse" attribution="Théodore Géricault, Musee des Beaux-Arts d'Orleans, Public domain, via Wikimedia Commons"> 
 
 Cumming’s 1951 book _Four Rode Home_ is the story of four friends who decide to ride from the New Forest back home to Kent and who meet with many adventures on the way. Her stories were often based on her own experiences, including  her riding tours along the Pilgrim’s Way and in the New Forest.[^ref14]
 <br><br>
