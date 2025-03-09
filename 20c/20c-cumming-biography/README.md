@@ -69,7 +69,7 @@ Primrose Cumming died in 2004. Her funeral took place at St. Nicholas Church, Sa
 <br><br>
 Other Kent writers of tales about horses and ponies include Marion Stapylton Pares (pseud. Judith Campbell), author of _Family Pony_ and Gillian Baxter who wrote _Horses and Heather_. 
 <br><br>
-This article was published: March 2025. Illustrations from the Westerham Hill Horse Show of 1926 have been used to add colour to the piece, but these are not linked to Primrose Cumming.   
+This article was published: 9 March 2025. Illustrations from the Westerham Hill Horse Show of 1926 have been used to add colour to the piece, but these are not linked to Primrose Cumming.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/25/St_Nicholas%27_Church%2C_Sandhurst%2C_Kent_%28Geograph_Image_2615565_f85a473f%29.jpg" label="Church of St Nicholas, Sandhurst" attribution="Julian P Guffogg" license="CC BY-SA 2.0">
 
 ### References
