@@ -21,6 +21,14 @@ Andersen visited Charles Dickens at his Gads Hill home in 1857 for five weeks an
 
 Dover-born author of popular evangelical stories for children. 
 
+## Primrose Cumming
+
+[Primrose Cumming](/20c/20c-cumming-biography)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/children_Jessie_Challacombe.jpg)
+
+Author of pony tales.
+
 ## George Alfred Henty
 
 [George Alfred Henty](/19c/19c-henty-biography)
