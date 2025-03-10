@@ -25,7 +25,7 @@ Dover-born author of popular evangelical stories for children.
 
 [Primrose Cumming](/20c/20c-cumming-biography)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/children_Jessie_Challacombe.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/horse_rider.jpg)
 
 Author of pony tales.
 
