@@ -46,7 +46,7 @@ With its Pergola Bridges spanning the river and a large lily pond, Russell Garde
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/Russell_Gardens_-_geograph.org.uk_-_5259889.jpg" label="Russell Gardens" attribution="Ian Capper, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Kearsney Abbey**    
-Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerges in the Kearsney Abbey gardens.
+Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerges in the Kearsney Abbey gardens. The gardens with their lake provide an important habitat for swans and geese, and at one time peacocks, although these were moved in 1974 from their home on the island to Russell Gardens where they had more space.
 <br><br>
 In 1996, 40 swans and geese were removed from the lakes at Kearsney Abbey to a sanctuary in Surrey when the lakes at Bushy Ruff and Kearsney Manor dried up. Ground water levels in East Kent were at their lowest on record and it was feared that the River Dour would dry up.[^ref12]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Kearnsney_abbey_Dover.jpg" label="Kearnsey Abbey" attribution="postcard, Public domain, via Wikimedia Commons">
