@@ -63,6 +63,7 @@
 ### Places
 
 [Canterbury](/canterbury/20c-canterbury-home)   
+[Coach Tour of Joseph Conrad’s Homes in Kent](/20c/20c-conrad-homes)   
 [Folkestone and World War One](20c-folkestone-ww1)   
 [Gravesend](/placesej/gravesend-overview)   
 [Richborough: The Secret Port](20c-richborough)   
