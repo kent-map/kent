@@ -27,7 +27,7 @@ Dover-born author of popular evangelical stories for children.
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/horse_rider.jpg)
 
-Author of pony tales.
+‘It was sunny, in the cool, golden way, as on the other days. The trees and hedges, and the grassy line of a hilly field stood out clearly in the pure light, and yet it was impossible to see for a very great distance. A lilac mist hung all round and rose up to meet the sky, where it turned rosy and then gradually melted into the golden rays’ (Silver Snaffles, 59)
 
 ## George Alfred Henty
 
