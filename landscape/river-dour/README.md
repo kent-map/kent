@@ -47,17 +47,19 @@ With its Pergola Bridges spanning the river and a large lily pond, Russell Garde
 
 **Kearsney Abbey**    
 Disappearing beneath a culvert under the Alkham Valley Road, the river re-emerges in the Kearsney Abbey gardens.
+<br><br>
+In 1996, 40 swans and geese were removed from the lakes at Kearsney Abbey to a sanctuary in Surrey when the lakes at Bushy Ruff and Kearsney Manor dried up. Ground water levels in East Kent were at their lowest on record and it was feared that the River Dour would dry up.[^ref12]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Kearnsney_abbey_Dover.jpg" label="Kearnsey Abbey" attribution="postcard, Public domain, via Wikimedia Commons">
 
 **Crabble Corn Mill**   
-The river now flows past Crabble Corn Mill, which was built in 1814 to provide flour for the soldiers who were stationed at Dover to protect the country from a Napoleonic invasion.[^ref12] 
-Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows".[^ref13]
+The river now flows past Crabble Corn Mill, which was built in 1814 to provide flour for the soldiers who were stationed at Dover to protect the country from a Napoleonic invasion.[^ref13] 
+Charles Harper wrote that "where the Dour flows, all the vegetation is luxuriant, and there are lovely ponds decked with water-lilies beside the Crabble Meadows".[^ref14]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Crabble_Corn_Mill_-_geograph.org.uk_-_4255589.jpg/1280px-Crabble_Corn_Mill_-_geograph.org.uk_-_4255589.jpg" label="Crabble Corn Mill" attribution="Chris Whippet, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Buckland Paper Mill**   
 The Dour has played an important part in Dover's industrial past, powering eight corn mills and five paper mills including the Buckland Paper Mill which produced papers for ledgers, writing, and drawing. The mill which dated from around the late 17th/ early 18th century closed in 2000.
 <br><br>
-In 1986, thousands of brown trout were killed when industrial bleach escaped from a storage tank at the Paper Mill.[^ref14]
+In 1986, thousands of brown trout were killed when industrial bleach escaped from a storage tank at the Paper Mill.[^ref15]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Alterations_to_Buckland_Paper_Mill%2C_Crabble_Hill_-_geograph.org.uk_-_5429402.jpg" label="Alterations to Buckland Paper Mill, Crabble Hill, 2017" attribution="John Baker, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 **Barton Path**   
@@ -66,13 +68,13 @@ The river now flows behind the backs of houses along the Barton path. Although b
 
 **Charlton Green**   
 From Barton Path, the river flows along Charlton Green and under Bridge Street, where it reappears on the corner.  
-In 1863, the council undertook work to clean the river and reported that "if anyone had noticed it they must have been impressed with the idea that this was a great improvement. Besides getting rid of a great nuisance from Park Street, upwards the river looked almost like a trout stream."[^ref15]
+In 1863, the council undertook work to clean the river and reported that "if anyone had noticed it they must have been impressed with the idea that this was a great improvement. Besides getting rid of a great nuisance from Park Street, upwards the river looked almost like a trout stream."[^ref16]
 <br><br>
-Despite these attempts the dirtiness of the river was a frequent complaint in the newspapers. In 1919, Councillor Gatehouse feared there would be an epidemic if the river was left in its current state. Penalties were introduced to stop people throwing rubbish in the river and in 1921 a man was taken to court for throwing winkles from a cart into the river. In his defence, he claimed that the winkles were being strained off and merely slipped into the river. He was fined 5s which was lucky as the full penalty was £5.[^ref16] 
+Despite these attempts the dirtiness of the river was a frequent complaint in the newspapers. In 1919, Councillor Gatehouse feared there would be an epidemic if the river was left in its current state. Penalties were introduced to stop people throwing rubbish in the river and in 1921 a man was taken to court for throwing winkles from a cart into the river. In his defence, he claimed that the winkles were being strained off and merely slipped into the river. He was fined 5s which was lucky as the full penalty was £5.[^ref17] 
 <br><br>
-In 1923, Councillor Fox complained about "That Dirty Dour" "which contained mud and refuse of a varied description, including tins and cans." Councillor Stevens supported his complaint arguing that the stench was so bad that "the smell that emanated from the river gave him a sore throat" and the council recommended alerting the Medical Officer of Health.[^ref17]
+In 1923, Councillor Fox complained about "That Dirty Dour" "which contained mud and refuse of a varied description, including tins and cans." Councillor Stevens supported his complaint arguing that the stench was so bad that "the smell that emanated from the river gave him a sore throat" and the council recommended alerting the Medical Officer of Health.[^ref18]
 <br><br>
-In 1929, the store of the Dover Engineering Works which held "large quantities of consumable stores in the form of lubricating oil, grease, cotton waste and a good quantity of wooden patterns" caught alight, and firemen had to pump water from the river to quench the blaze. However, as the sluice gates were closed the river was very low at this point and the firemen had to dig a sump hole in the bed of the stream to draw the water.[^ref18] 
+In 1929, the store of the Dover Engineering Works which held "large quantities of consumable stores in the form of lubricating oil, grease, cotton waste and a good quantity of wooden patterns" caught alight, and firemen had to pump water from the river to quench the blaze. However, as the sluice gates were closed the river was very low at this point and the firemen had to dig a sump hole in the bed of the stream to draw the water.[^ref19] 
 <br><br>
 Nowadays, the river flows over a small weir and then under the retail car park before reappearing again behind the Charlton Shopping Centre. It then passes behind the houses on Goodfellow way before reaching the intersection of Ladywell and Park Place.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b0/River_Dour%2C_Dover_-_geograph.org.uk_-_2263909.jpg" label="River Dour" attribution="John Baker via Wikimedia" license="CC BY-SA 2.0">
@@ -80,19 +82,19 @@ Nowadays, the river flows over a small weir and then under the retail car park b
 **Ladywell**   
 The river now flows under Ladywell which runs along the side of the Maison Dieu. The Maison Dieu was a pilgrims hospital founded in 1203 and the lady well was a holy well which serviced the hospital
 <br><br>
-By 1900, the _Dover Express_ reported that "the River Dour has long ceased to be ornamental or very useful. In the olden towns no doubt its waters were clear enough to invite the coy trout to haunt it, but now fish would as soon make their home in a sewer."[^ref19] They quipped "They say the Dour rhymes with sewer, but as some pronounce it, it rhymes with sour, both being supposed to be more or less correct."[^ref20] However, it complained "But because the Dour is of very little use is that any reason why the townsfolk should abuse it by allowing their sinks to empty into it, by casting therein the offal from slaughterhouses, the mud from surface drains, the useless tins from the provision merchants, and the refuse from the flour and paper mills." It called for the Corporation to force the mill owners to give up their rights to the dams and stop the pollution.[^ref21]
+By 1900, the _Dover Express_ reported that "the River Dour has long ceased to be ornamental or very useful. In the olden towns no doubt its waters were clear enough to invite the coy trout to haunt it, but now fish would as soon make their home in a sewer."[^ref20] They quipped "They say the Dour rhymes with sewer, but as some pronounce it, it rhymes with sour, both being supposed to be more or less correct."[^ref21] However, it complained "But because the Dour is of very little use is that any reason why the townsfolk should abuse it by allowing their sinks to empty into it, by casting therein the offal from slaughterhouses, the mud from surface drains, the useless tins from the provision merchants, and the refuse from the flour and paper mills." It called for the Corporation to force the mill owners to give up their rights to the dams and stop the pollution.[^ref22]
 <br><br>
-In 1901, Dover Town Council bought the rights to the river for £300 and tore down the sluice gates at Stembrook Mill. In retaliation, the mill owner, Mr Brace, erected a dam of iron and piles forcing the Town Surveyors to send a squad of men to dismantle it. Brace rebuilt it and it was reported in the national press as "The Battle of the Dams".[^ref22]
+In 1901, Dover Town Council bought the rights to the river for £300 and tore down the sluice gates at Stembrook Mill. In retaliation, the mill owner, Mr Brace, erected a dam of iron and piles forcing the Town Surveyors to send a squad of men to dismantle it. Brace rebuilt it and it was reported in the national press as "The Battle of the Dams".[^ref23]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dover%2C_River_Dour_-_geograph.org.uk_-_2868890.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
  
 **Pencester Gardens**   
-Emerging from a culvert under Pencester Road, the River Dour flows along the edge of Pencester Gardens. Originally the site of a timber store, the site was purchased by the Corporation for £5,000.[^ref23] The Gardens were opened on 6th June 1924 by Major Astor, M.P. The opening ceremony which included music from the Duke of Yorks Royal Military School band and a display from the gymastic squad was attended by more than 635 people. The public paid 3d for chairs at the event and £7 18s 9d was raised which went towards the Dover War Memorial Fund. In the evening, a large crowd gathered to hear the band play again, and the Connaught Male Voice Quartette sung a selection of pieces.[^ref24] 
+Emerging from a culvert under Pencester Road, the River Dour flows along the edge of Pencester Gardens. Originally the site of a timber store, the site was purchased by the Corporation for £5,000.[^ref24] The Gardens were opened on 6th June 1924 by Major Astor, M.P. The opening ceremony which included music from the Duke of Yorks Royal Military School band and a display from the gymastic squad was attended by more than 635 people. The public paid 3d for chairs at the event and £7 18s 9d was raised which went towards the Dover War Memorial Fund. In the evening, a large crowd gathered to hear the band play again, and the Connaught Male Voice Quartette sung a selection of pieces.[^ref25] 
 <br><br>
-The _Dover Express_ commented that "now there is a path beside the Dour in Pencester Gardens, further efforts will be made to keep the water in the stream clearer. It may be impossible to do all that is desirable in this direction, but there is a great deal too much filth in the Dour."[^ref25] 
+The _Dover Express_ commented that "now there is a path beside the Dour in Pencester Gardens, further efforts will be made to keep the water in the stream clearer. It may be impossible to do all that is desirable in this direction, but there is a great deal too much filth in the Dour."[^ref26] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/59/Dover%2C_River_Dour_-_geograph.org.uk_-_2869094.jpg" label="Dover, River Dour" attribution="Helmut Zozmann, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 
 **St James's**   
-In the Saxon period, the main stream of the Dour divided into two branches, leaving a delta of dry land between them, on which, in later years, the principal part of St. James's Parish was built.[^ref26] Snar Gate, also known as Pier Gate was built about 1370. It was a sluice gate between the river and harbour. In 1588, it was taken down when the new harbour was built[^ref27] 
+In the Saxon period, the main stream of the Dour divided into two branches, leaving a delta of dry land between them, on which, in later years, the principal part of St. James's Parish was built.[^ref27] Snar Gate, also known as Pier Gate was built about 1370. It was a sluice gate between the river and harbour. In 1588, it was taken down when the new harbour was built[^ref28] 
 <br><br>
 Today the river disappears under Castle Street and skirts behind shops, near garages along the edges of the St James's Retail Park carpark. With concrete banks, the river is now channelled along the urban landscape with a few trees and bushes dotting its banks until it passes under Flying Horse Lane. Here the Lord Nelson pub offers a terrace space overlooking the river, before the river disappears again under Townwall Street, where pedestrians using the underpass can get a brief glimpse of the river as it is channelled under ground to Wellington Dock Marina.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/84/The_Lord_Nelson_-_geograph.org.uk_-_6396916.jpg" label="The Lord Nelson" attribution="John Baker via Wikimedia Commons" license="CC BY-SA 2.0">
@@ -100,7 +102,7 @@ Today the river disappears under Castle Street and skirts behind shops, near gar
 **Wellington Dock**   
 The River Dour now ends its journey as it disappears into the vast Wellington Dock, named after the Duke of Wellington who opened "Wellington Bridge" in 1846. The Dock was later improved in 1888 to allow vessels of 800 tons. 
 <br><br>
-In 1914, it was reported that "an immense quantity of filth" was brought down by the river into the dock and that the Sanitary Officers should be stricter in prosecuting the townsfolk who were treating the river like an "open drain"[^ref28] Mud and weeds from the river also drifted down to the dock. By 1922, matters were no better as the river was "filled with household rubbish in the form of tin cans" and there were fears that the poor water quality would be hazardous to health.[^ref29]
+In 1914, it was reported that "an immense quantity of filth" was brought down by the river into the dock and that the Sanitary Officers should be stricter in prosecuting the townsfolk who were treating the river like an "open drain"[^ref29] Mud and weeds from the river also drifted down to the dock. By 1922, matters were no better as the river was "filled with household rubbish in the form of tin cans" and there were fears that the poor water quality would be hazardous to health.[^ref30]
 <br><br>
 Today the river is much cleaner, the brown trout swim in the clear water and Dover is proud of its little stream.
 <br><br>
@@ -119,21 +121,22 @@ This article was written specially for Dover at Night 2025.
 [^ref9]: Sencicle, Lorraine. [Bushy Ruff](https://doverhistorian.com/2013/08/24/bushy-ruff/)   
 [^ref10]: "Fete Champetre at Bushy Ruff." _Dover Telegraph and Cinque Ports General Advertiser_ 27 July 1861.   
 [^ref11]: Sencicle, Lorraine. [Russell Gardens](https://doverhistorian.com/2016/06/04/russell-gardens/)   
-[^ref12]: "Roundabout." _Kentish Gazette_, 12 September 1996.   
-[^ref13]: Harper, p. 240   
-[^ref14]: _Daily Telegraph_ 11 Nov 1986.   
-[^ref15]: "The River Dour." _Dover Telegraph and Cinque Ports General Advertiser_, 18 July 1863.   
-[^ref16]: "Winkles in the Dour." _Dover Express_, 11 March 1921.   
-[^ref17]: "That Dirty Dour." _Dover Chronicle_ 24 November 1923.    
-[^ref18]: "The Fire at Dover Engineering Works." _Dover Express_, 29 November 1929.   
-[^ref19]: "Nota Bene." _Dover Express_, 1 June 1900, p. 3.    
-[^ref20]: "In the Street." _Dover Express_, 1 June 1900, p. 5.     
-[^ref21]: "Nota Bene." _Dover Express_, 1 June 1900, p. 3.    
-[^ref22]: "The River Dour." _Dover Express_, 4 Oct. 1901, p. 5; "News." _Dundee Courier_, 2 Oct. 1901, p. 4; "The Battle of the Dams." Evening Telegraph, 2 Oct. 1901, p. 5.   
-[^ref23]: "New Dover Recreation Ground." _Kentish Express_ 14 June 1924.
-[^ref24]: "Pencester Gardens Opening." _Dover Express_ , 6 June 1924; "Pencester Gardens Opened." _Dover Express_, 13 June 1924.   
-[^ref25]: "Nota Bene." _Dover Express_ 13 June 1924.   
-[^ref26]: Bavington Jones, John. _The Annals of Dover_ 1916, p. 82.    
-[^ref27]: Statham, Samuel Percy Hammond _The History of the Castle, Town, and Port of Dover_, Longmans, Green and Co. 1899, p.63.   
-[^ref28]: "The River Dour." _Dover Express_, 13 Mar. 1914, p. 2.    
-[^ref29]: "The River Dour." _Dover Express_, 20 Oct. 1922, p. 7.    
+[^ref12]: _Kent Evening Post_,  Wednesday 13 November 1996.
+[^ref13]: "Roundabout." _Kentish Gazette_, 12 September 1996.   
+[^ref14]: Harper, p. 240   
+[^ref15]: _Daily Telegraph_ 11 Nov 1986.   
+[^ref16]: "The River Dour." _Dover Telegraph and Cinque Ports General Advertiser_, 18 July 1863.   
+[^ref17]: "Winkles in the Dour." _Dover Express_, 11 March 1921.   
+[^ref18]: "That Dirty Dour." _Dover Chronicle_ 24 November 1923.    
+[^ref19]: "The Fire at Dover Engineering Works." _Dover Express_, 29 November 1929.   
+[^ref20]: "Nota Bene." _Dover Express_, 1 June 1900, p. 3.    
+[^ref21]: "In the Street." _Dover Express_, 1 June 1900, p. 5.     
+[^ref22]: "Nota Bene." _Dover Express_, 1 June 1900, p. 3.    
+[^ref23]: "The River Dour." _Dover Express_, 4 Oct. 1901, p. 5; "News." _Dundee Courier_, 2 Oct. 1901, p. 4; "The Battle of the Dams." Evening Telegraph, 2 Oct. 1901, p. 5.   
+[^ref24]: "New Dover Recreation Ground." _Kentish Express_ 14 June 1924.
+[^ref25]: "Pencester Gardens Opening." _Dover Express_ , 6 June 1924; "Pencester Gardens Opened." _Dover Express_, 13 June 1924.   
+[^ref26]: "Nota Bene." _Dover Express_ 13 June 1924.   
+[^ref27]: Bavington Jones, John. _The Annals of Dover_ 1916, p. 82.    
+[^ref28]: Statham, Samuel Percy Hammond _The History of the Castle, Town, and Port of Dover_, Longmans, Green and Co. 1899, p.63.   
+[^ref29]: "The River Dour." _Dover Express_, 13 Mar. 1914, p. 2.    
+[^ref30]: "The River Dour." _Dover Express_, 20 Oct. 1922, p. 7.    
