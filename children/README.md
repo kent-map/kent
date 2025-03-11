@@ -79,7 +79,7 @@ One day Barney tumbles into an old chalk pit that is used as a local dumping gro
 
 ## The Winter Diary of a Country Rat
 
-[The Winter Diary of a Country Rat](20c/20c-firmin-winter-diary)
+[The Winter Diary of a Country Rat](/20c/20c-firmin-winter-diary)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/children_The_Winter_Diary_of_a_Country_Rat.jpg)
 
