@@ -26,7 +26,7 @@ Taylor has also highlighted the need to acknowledge mankind’s fragility compar
 <param ve-image url="https://stor.artstor.org/stor/baa2763f-cb65-4c0e-b2fb-a4ea0a7837fa" label="Jason de Claires Taylor">
 
 ### Bibliography 
-Jason de Claires Taylor: sculptor’s website https://underwatersculpture.com/   
+[Jason de Claires Taylor](https://underwatersculpture.com/): sculptor’s website   
 
 ### References
 
