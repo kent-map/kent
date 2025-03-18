@@ -3,7 +3,7 @@
 <param ve-config 
        title="Jason de Claires Taylor’s ‘Alluvia’"
        author="Heather Murdoch"
-       banner="xxx" 
+       banner="https://stor.artstor.org/stor/1992c9ab-c8fa-4648-a00d-e60affd502f3" 
        layout="vertical">
        
 <param ve-entity eid="Q29303" title="Canterbury">
