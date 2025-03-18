@@ -10,7 +10,7 @@
 
 #
 
-Installed in the River Stour in Canterbury in 2024, Jason de Claires Taylor’s 'Alluvia' sculpture was inspired by Sir John Everett Millais’s celebrated 1852 painting _Ophelia_. 
+Installed in the [River Stour](/landscape/literary-stour/) in Canterbury in 2024, Jason de Claires Taylor’s 'Alluvia' sculpture was inspired by Sir John Everett Millais’s celebrated 1852 painting _Ophelia_. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/21/John_everett_millais%2C_ofelia%2C_1851-52%2C_01.jpg" label="Ophelia" attribution="John Everett Millais, via Wikimedia Commons" license="CC BY 3.0">
 
 Taylor’s installations are created using low carbon, PH-neutral materials to provide habitat for marine life and, in turn, help to rebuild ecosystems. They also divert tourists away from particularly fragile spots in hopes of providing some breathing room for restoration. 
