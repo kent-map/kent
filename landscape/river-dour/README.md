@@ -76,7 +76,7 @@ In 1923, Councillor Fox complained about "That Dirty Dour" "which contained mud 
 <br><br>
 In 1929, the store of the Dover Engineering Works which held "large quantities of consumable stores in the form of lubricating oil, grease, cotton waste and a good quantity of wooden patterns" caught alight, and firemen had to pump water from the river to quench the blaze. However, as the sluice gates were closed the river was very low at this point and the firemen had to dig a sump hole in the bed of the stream to draw the water.[^ref19] 
 <br><br>
-Nowadays, the river flows over a small weir and then under the retail car park before reappearing again behind the Charlton Shopping Centre. It then passes behind the houses on Goodfellow way before reaching the intersection of Ladywell and Park Place.
+Nowadays, the river flows over a small weir and then under the retail car park before reappearing again behind the Charlton Shopping Centre. It then passes behind the houses on Goodfellow Way before reaching the intersection of Ladywell and Park Place.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b0/River_Dour%2C_Dover_-_geograph.org.uk_-_2263909.jpg" label="River Dour" attribution="John Baker via Wikimedia" license="CC BY-SA 2.0">
 
 **Ladywell**   

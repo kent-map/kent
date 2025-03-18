@@ -77,6 +77,14 @@ Although Craik was not a native of Kent—born in Staffordshire, raised in Londo
 
 Best known for her 1848 collection of ‘real’ ghost stories _The Night Side of Nature: or of Ghosts and Ghost Seers_, which documented ordinary people’s ‘actual’ brushes with ghosts and the supernatural, Crowe shot to public and literary fame during the 1840s and 50s.
 
+## Primrose Cumming
+
+[Primrose Cumming](/20c/20c-cumming-biography)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/horse_rider.jpg)
+
+‘It was sunny, in the cool, golden way, as on the other days. The trees and hedges, and the grassy line of a hilly field stood out clearly in the pure light, and yet it was impossible to see for a very great distance. A lilac mist hung all round and rose up to meet the sky, where it turned rosy and then gradually melted into the golden rays’ (Silver Snaffles, 59)
+
 ## Elizabeth Elstob
 
 [Elizabeth Elstob](/18c/18c-elstob-biography)
