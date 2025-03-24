@@ -3,26 +3,14 @@
 <param ve-config title="John Tradescant the Younger (1608 – 1662)" author="Dominique Gracia and Hannah" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg">
 
 <param ve-entity eid="Q3133261" aliases="Meopham">
-<param ve-entity eid="Q1701960" aliases="John Tradescant the Younger">
-<param ve-entity eid="Q1375506" aliases="John Tradescant the Elder">
-<param ve-entity eid="Q34433" aliases="University of Oxford">
-<param ve-entity eid="Q636400" aliases="Ashmolean Museum">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q3360332" aliases="King’s School">
-<param ve-entity eid="Q35794" aliases="University of Cambridge">
-<param ve-entity eid="Q16003969" aliases="Royal College of Physicians">
-<param ve-entity eid="Q81506" aliases="King Charles I">
-<param ve-entity eid="Q80330" aliases="Civil War">
-<param ve-entity eid="Q15221398" aliases="Garden Museum">
-<param ve-entity eid="Q17552830" aliases="St-Mary-at-Lambeth">
-<param ve-entity eid="Q17015812" aliases="Worshipful Company of Gardeners">
-<param ve-entity eid="Q1370" aliases="Virginia">
-<param ve-entity eid="Q848615" aliases="Henrietta Maria of France">
 <param ve-entity eid="Q2008622" aliases="Oatlands">
-<param ve-entity eid="Q2499418" aliases="Thomas Wharton">
-<param ve-entity eid="Q471406" aliases="Ashmole">
-<param ve-entity eid="Q217217" aliases="Lord Chancellor">
-<param ve-entity eid="Q335173" aliases="Earl of Clarendon">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="dce10f1c411cebb1" title="Blaeu Kent 1665">
+
+#
 
 **Early life and education**   
 John Tradescant the Younger was born on 4 August 1608 in Meopham, Kent, at the home of his grandparents. The son of John Tradescant the Elder, also a botanist and gardener, and his wife, Elizabeth née Day, he was educated at The King’s School, Canterbury. Tradescant married Jane Hurte in February 1628 and they had two children: Frances (b. 1628) and John (b. 1633). His wife died fairly soon after their son was born, in 1635.

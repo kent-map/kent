@@ -2,18 +2,7 @@
 <param ve-config title="Elizabeth Gould (1804-1841)" author="Carina Chan" banner="https://i.imgur.com/pCvk1td.jpg" layout="vertical" description="Carina Chan details the life and work of ornithological illustrator and Kent native, Elizabeth Gould.">
   
 <!-- Global Entities -->
-<param ve-entity eid="Q736439"> <!-- Ramsgate -->
-<param ve-entity eid="Q313787"> <!-- John Gould -->
-<param ve-entity eid="Q253875"> <!-- Elizabeth Gould -->
-<param ve-entity eid="Q5076521"> <!-- Charles Coxen -->
-<param ve-entity eid="Q4893186"> <!-- St James Church, Piccadilly -->
-<param ve-entity eid="Q309759"> <!-- Edward Lear -->
-<param ve-entity eid="Q332479"> <!-- Nicholas Aylward Vigors -->
-<param ve-entity eid="Q51455209"> <!-- A Century of Birds from the Himalaya Mountains -->
-<param ve-entity eid="Q51448070"> <!-- The Birds of Europe -->
-<param ve-entity eid="Q1035"> <!-- Charles Darwin -->
-<param ve-entity eid="Q375946"> <!-- The Zoology of the Voyage of H.M.S. Beagle - Part III Birds -->
-<param ve-entity eid="Q967304"> <!-- Birds of Australia -->
+<param ve-entity eid="Q736439" aliases="Ramsgate">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
@@ -21,9 +10,7 @@
 #
 
 On the 18th of July in 1804, in the seaside town of [Ramsgate](/19c/19c-ramsgate/), Mr Nicholas Coxen and Elizabeth Coxen (nee Tomkins) welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and three brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were "firmly middle class" through "links to the military" and we can imagine that she lived a typical life fitting for the era [^1]. The sons pursued careers as scientists or military personnel, whilst Elizabeth studied subjects that were typical for women of her class and age, including languages, music, and art [^2]. In spite of her relatively ordinary upbringing, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
-<!-- param ve-map title="Birth place of Elizabeth Gould" center="Q736439" zoom="12" prefer-geojson show-labels -->
-<!-- Base map centred on Thanet -->
-<param ve-map center="Q590422" zoom="12">
+<param ve-map center="Q736439" zoom="12">
 
 Some may find the family name “Gould” familiar, especially in ornithological circles, with association with titles such as “The Birdman” or “The Father of Australian Ornithology” who published some of the most famous ornithologic books of the 19th century [^3]. Most would remember the accomplished man as John Gould. He left a remarkable legacy of beautifully illustrated documentation of various animals across the globe. Yet, he was not the sole creditor for his prodigious work. He had the help of a talented partner, his wife Elizabeth, who supported and worked alongside him throughout his career.
 <param ve-image 
