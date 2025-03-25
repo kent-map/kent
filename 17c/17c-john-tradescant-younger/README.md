@@ -24,7 +24,7 @@ Tradescant followed his father into a career in gardening and botany, and the fa
 <param ve-map center="51.47855067478189, -0.12226579754576553" zoom="10">
 
 Tradescant’s early career is difficult to trace, as many of the records of the Worshipful Company of Gardeners have been destroyed. However, in 1634 he became Freeman of the Company. Three years later, Tradescant made the first of his recorded visits to the Americas – namely, Virginia – to collect plant specimens. The visit was likely at the instigation of King Charles I, and Tradescant brought back plants such as columbine, jasmine, cypress, and the Yukka plant.
-<param ve-map center="Q1370" zoom="4">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/Trees_and_shrubs%2C_hardy_in_the_British_isles_%281914%29_%2814758224766%29.jpg" label="Trees and shrubs, hardy in the British isles" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 
 Tradescant returned to Britain from this trip shortly after the death of his father in 1683, and he was appointed to his father’s former position as gardener at the royal palace of Oatlands, beloved by Queen Henrietta Maria of France, “the rose and lily queen”, at the same time as taking over sole responsibility for the garden at Lambeth. He married his second wife, Hester née Pooks in 1638 in St-Mary-at-Lambeth.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/74/Palace_-_Oatlands.jpg?20070528194556" label="Oatlands Palace, c. 17th century" attribution="Public domain, via Wikimedia Commons">
@@ -32,10 +32,9 @@ Tradescant returned to Britain from this trip shortly after the death of his fat
 <param ve-map center="Q2008622" zoom="10">
 
 The Ark, where the Tradescants lived, was the first museum in Britain to be open to the public. Entrance was the price of a sixpence, meaning anybody, not just wealthy people, could visit The Ark. Objects were able to be handled as well as observed, meaning many were damaged, such as a stuffed Dodo. There was a great interest at the time in collecting and “curiosity”, such as cabinets of curiosities.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fd/3_Dodos.jpg?20181124193128" label="Three Dodos, from Richard Owen’s _Memoir of the Dodo_ (1866)" attribution="Public domain, via Wikimedia Commons">
-
+<br><br>
 In 1642, on the eve of the Civil War, Tradescant again travelled to Virginia for a short period, returning with further botanical samples. He continued his duties as gardener at Oatlands, likely until its sale for demolition in 1650, and around that same time considered selling the collection from The Ark. However, this did not come to pass. Tradescant returned to Virginia for a third and final time in 1653–4.
-<param ve-map center="Q1370" zoom="4">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fd/3_Dodos.jpg?20181124193128" label="Three Dodos, from Richard Owen’s _Memoir of the Dodo_ (1866)" attribution="Public domain, via Wikimedia Commons">
 
 **Later career and death**
 Tradescant published the 183-page _Museum Tradescantianum_ catalogue in 1656, prompted (and funded) by Elias Ashmole. It was the first museum catalogue to appear in England, and much of it was written by either Ashmole or Thomas Wharton, a renowned physician and anatomist, and the text itself was dedicated to the President and Fellows of the Royal College of Physicians. It is likely that there had been discussions about the College establishing a physic garden, founded in part on the medicinal plants in the Tradescant collection, but this also never came to pass.
