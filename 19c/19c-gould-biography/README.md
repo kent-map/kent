@@ -1,7 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Elizabeth Gould (1804-1841)" author="Carina Chan" banner="https://i.imgur.com/pCvk1td.jpg" layout="vertical" description="Carina Chan details the life and work of ornithological illustrator and Kent native, Elizabeth Gould.">
   
-<!-- Global Entities -->
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 
 <!-- Historical map layers -->
