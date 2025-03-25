@@ -35,7 +35,7 @@ The Island of Sheppey was at the centre of the famous Medway attack during the A
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Belgian_Refugees.jpg)
 
-As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells moved coastwards in the late eighteenth and nineteenth centuries, so a number of obscure Kentish fishing villages reinvented themselves as seaside resorts. 
+As many as 250,000 Belgians from all layers of society sought refuge in Britain after the fall of Antwerp on 6 October 1914. The initial refugee population in Folkestone has been estimated at 15-20,000 in 1914, falling to 1,500 by mid-1916.
 
 ## Folkestone and World War 1
 
