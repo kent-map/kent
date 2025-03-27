@@ -1,4 +1,10 @@
-The Back Path at Wingham
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="The Back Path at Wingham" author="Diana Hirst" layout="vtl" 
+banner="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6">
+
+<param ve-entity eid="Q2632094" aliases="Wingham">
+
+#
 
 I’ve known this cottage path for over half my life, 
 walked on its concrete slabs at every time of year:
