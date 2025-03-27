@@ -1,6 +1,10 @@
-An East Kent Hymnal
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="Ham Brooks, Seen from the Main Road" author="Diana Hirst" layout="vtl" 
+banner="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6">
 
-Ham Brooks, Seen from the Main Road
+<param ve-entity eid="Q3126292" aliases="Ham">
+
+#
 
 This landscape has the contours of my youth.
 Its curves are mine and I belong in them.
@@ -8,6 +12,7 @@ Here I thrive, my stout roots tapering
 Through flinty subsoil to bald chalk beneath.
 Here I draw sap, which feeds me its vitality, 
 Heals with its memories, allows me breath.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/View_across_Ham_Brooks_-_geograph.org.uk_-_944615.jpg/640px-View_across_Ham_Brooks_-_geograph.org.uk_-_944615.jpg" label="View across Ham Brooks" attribution="Nick Smith" license="CC BY-SA 2.0">
 
 If I am rooted, how is it I can walk
 On roads and paths with their familiar dust?
