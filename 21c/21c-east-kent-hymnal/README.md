@@ -1,4 +1,4 @@
-AN EAST KENT HYMNAL
+An East Kent Hymnal
 
 Ham Brooks, Seen from the Main Road
 
