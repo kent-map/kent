@@ -63,7 +63,7 @@ Johnston, Stephen. 'Thomas Digges' _Oxford Dictionary of National Biography_. 20
 
 ### References
 
-[^ref1]: Shoreham Deanery Medieval & Tudor Wills - Book 5   
+[^ref1]: _Shoreham Deanery Medieval & Tudor Wills_ - Book 5   
 [^ref2]: Johnston, Stephen. 'Leonard Digges' _Oxford Dictionary of National Biography_. 2004.   
 [^ref3]: Johnston, Stephen. 'Thomas Digges' _Oxford Dictionary of National Biography_. 2009.   
 [^ref4]:  Macdonald, A. 'Plans of Dover Harbour in the Sixteenth century', _Archaeologia Cantiana_ 49. 1937, p.116.   
