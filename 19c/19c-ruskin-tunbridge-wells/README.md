@@ -13,6 +13,7 @@ Ruskin was 39 when he came to Tunbridge Wells. He was by then a well-known write
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/78/John_Ruskin_self_portrait_1861.jpg" label="John Ruskin" attribution="Self Portrait, Public domain, via Wikimedia Commons">
 
 Three years earlier, Ruskin had come to Tunbridge Wells for his health and visited his cousin, William Richardson, a doctor at the General Hospital on Grosvenor Rd. Thomas Carlyle had recommended Tunbridge Wells as a 'place of airy expanses ... where the wind blows free about one'; though another friend, Pauline Trevelyan, considered it 'an odious place ... how can you go there?'
+<param ve-image url="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" label="Taking the waters - the Original Spring, The Pantiles, Tunbridge Wells">
 
 Richardson who lived on Mount Ephraim Rd, was a member of the Useful Knowledge Institution and had invited Ruskin to speak. Ruskin had been lecturing for some time at the workings men college in London and a commentator has suggested that he felt more at ease when addressing audiences of a lower social standing, young people, women and girls, and working-class men. The audience of 400 was larger than usual, and may have included some of the wealthier inhabitants yet Ruskin seems to have been determined to address social issues as much as art.
 
@@ -20,6 +21,7 @@ It was Ruskin’s style to challenge preconceptions about his subject. In the se
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Chalybeate_Spring_-_geograph.org.uk_-_3651499.jpg" label="The Chalybeate Spring" attribution="N Chadwick via Wikimedia Commons" license="CC BY-SA 2.0">
 
 In ‘Iron in Art’, Ruskin presented two of his favourite ideas: that art must result from both feeling and labour, and that artists must utilise the particular qualities of their materials. Iron was workable, tenacious and ductile. It could be formed into natural shapes. This led to condemnation of iron fencing around houses which he considered exclusionary. It said to the passer-by 'you may be an honest person, - but, also, you may be a thief; honest or not, you should not get in here, for I am a respectable person, and much above you.' It was a bit contrived: a contemporary was equally critical of the high brick walls in Victoria Park, Manchester, which made it feel like a series of private madhouses and surely the thick double hedges in Calverley Park Gardens we're equally excluding. Indeed, in February 1858, proposals were made to exclude the public from Calverley Park.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/73/Calverley_Park_-_geograph.org.uk_-_3628251.jpg" label="Calverley Park" attribution="N Chadwick, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 The section on 'Iron in Policy' was even more political. It was built around 3 items: the plough, the fetter, and the sword. It was on the plough, though, and its female equivalent, the needle, that he really focused. They represented labour, and what he called a law of nature: that wealth and happiness were essentially connected to labour. It led to what was effectively a sermon on the 'oppression of the poor'. He suggested to his listeners that even they might be guilty of oppressing the poor - by looking to buy things cheaply, they were stealing from the creators: 'we gild our prayer-books with pilfered pence out of children's and sick men's wages'.
 <br><br>
@@ -28,7 +30,7 @@ To many in the audience it probably resonated uncomfortably with recent events i
 
 Ruskin visited Tunbridge Wells again in August 1860, staying at Calverley Hotel, and complained of being disturbed by seeing "a steam engine devouring a wheat stack at Tunbridge Wells and hearing it growling over its prey a mile and a quarter down the valley"[^ref2] Thus, the law of nature that he sought to preserve were overturned by the mechanisation of agriculture.
 <br><br>
-This article is adapted from "The Work of Iron, in Nature, Art, and Policy" by Chris Jones, published by the Tunbridge Wells Civic Society. You can also read about Ruskin's associations with [Sandgate](/placeskz/sandgate-overview/).
+This article is adapted from "The Work of Iron, in Nature, Art, and Policy" by Chris Jones, published by the Tunbridge Wells Civic Society. You can also read about Ruskin's associations with [Sandgate](/placeskz/sandgate-overview/) in another Kent Maps article.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/71/Calverleyhotel.jpg" label="Calverley Hotel, Tunbridge Wells, 1860" attribution="Rock & Co, Public domain, via Wikimedia Commons">
 
 ### References
