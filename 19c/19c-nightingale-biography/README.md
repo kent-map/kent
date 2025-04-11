@@ -11,11 +11,11 @@ Three years earlier, Florence had been asked by Sir John Liddell, Director-Gener
 
 It was not only the men at Chatham who received Florence's attention and whilst visiting the hospital she made enquiries about the Chatham Garrison Compassionate Institute which provided “food, clothing and lodging” for the sick women and children of the garrison. She gave the institute a donation of 50 guineas.[^ref7] 
 
-[Queen Victoria](/19c/19c-victoria-biography) had admired Florence Nightingale’s work in the Crimea, writing: 'I envy her being able to do so much good and look after the noble heroes whose behaviour is admirable'.[^ref8] and had visited wounded soldiers at the hospital at Fort Pitt three times in 1855. After the war, she invited Florence to Balmoral, where Florence outlined the reforms that were needed in military hospitals.[^ref9] [Hibbert p.225]
+[Queen Victoria](/19c/19c-victoria-biography) had admired Florence Nightingale’s work in the Crimea, writing: 'I envy her being able to do so much good and look after the noble heroes whose behaviour is admirable'.[^ref8] and had visited wounded soldiers at the hospital at Fort Pitt three times in 1855. After the war, she invited Florence to Balmoral, where Florence outlined the reforms that were needed in military hospitals.[^ref9] 
 
 Fort Pitt was a military hospital used to receive and assess soldiers invalided back to Britain after service abroad. However, as Florence observed: “Formerly, young men were sent to attend sick and wounded soldiers, who perhaps had never dressed a serious wound, or never attended a bedside, except in the midst of a crowd of students, following in the wake of some eminent lecturer, who certainly had never been instructed in the most ordinary sanitary knowledge”[^ref10] 
 
-At the opening of the Army Medical Practical School on the 2nd October 1860, Deputy Inspector-General T. Longmore, Professor of Military Surgery, gave a speech about the need for army medical training in which he said “There is one, however, whose opinion derived from large experience and remarkable sagacity in observation, exerted an especial influence in originating and establishing this school. I should hardly have presumed to refer to Miss Nightingale by name, so unostentatiously was her influence in this matter exerted, had not one of the Royal Commissioners, prominent from his high position, and by all he had done to diffuse military sanitation knowledge, recently made public mention of this fact.”[^ref11] [p.349 Statistical, Sanitary, and Medical Reports for the Year 1859. The Royal College of Physicians - “Statistical, Sanitary, and Medical Reports for the Year 1859.” RCP Library, Printed by Harrison and Sons, 1861. Wiley Digital Archives: The Royal College of Physicians. Accessed 11 Apr. 2025.
+At the opening of the Army Medical Practical School on the 2nd October 1860, Deputy Inspector-General T. Longmore, Professor of Military Surgery, gave a speech about the need for army medical training in which he said “There is one, however, whose opinion derived from large experience and remarkable sagacity in observation, exerted an especial influence in originating and establishing this school. I should hardly have presumed to refer to Miss Nightingale by name, so unostentatiously was her influence in this matter exerted, had not one of the Royal Commissioners, prominent from his high position, and by all he had done to diffuse military sanitation knowledge, recently made public mention of this fact.”[^ref11]
 
 The first students who arrived [p.390] found that the school was not properly equipped and Florence had to intervene again. She was also responsible for nominating the professors of hygiene and pathology [^ref12] 
 
@@ -34,9 +34,9 @@ The Granville was popular with weekenders and holiday-makers, including the _Pun
 [^ref6]: _Com. of Inquiry into Supplies of British Army in Crimea, Report, Evidence, Appendix_, p.6.
 [^ref7]: “Miss Nightingale at Chatham.” _Dorset County Chronicle_ 9 Apr. 1857.
 [^ref8]: [Royal Collections website](https://www.rct.uk/collection/2853480/florence-nightingale-1820-1910) 
-[^ref9]:
+[^ref9]: Hibbert, Christopher, _Queen Victoria: A Personal History_, p.225
 [^ref10]: Cook, Edward Tyas, p.391,
-[^ref11]:
+[^ref11]: “Statistical, Sanitary, and Medical Reports for the Year 1859.” RCP Library, Printed by Harrison and Sons, 1861. Wiley Digital Archives: The Royal College of Physicians. Accessed 11 Apr. 2025, p.349.
 [^ref12]: Cook, Edward Tyas, p.390.
 [^ref13]: “Miss Nightingale on Army Sanitation Reform.” _West Somerset Free Press_, 21 Jun. 1862.
 [^ref14]: Cook, Edward Tyas, p. 325.
