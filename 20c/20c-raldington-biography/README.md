@@ -11,7 +11,7 @@ The poet and novelist Richard Aldington is largely forgotten today, except for h
 <!-- Base map centered on Dover -->
 <param ve-entity eid="Q179224" aliases="Dover">
 
-From what Michelle Crowther tells us about his mother, family life cannot have been easy, and ‘the bitterness/ the misery, the wretchedness of childhood’ are recorded in an early poem, [‘Childhood’](https://www.poetrysoup.com/famous/poem/childhood_1336
+From what Michelle Crowther tells us about his [mother](/19c/19c-aldington-biography), family life cannot have been easy, and ‘the bitterness/ the misery, the wretchedness of childhood’ are recorded in an early poem, [‘Childhood’](https://www.poetrysoup.com/famous/poem/childhood_1336
 ), published when he was 21.[^ref1]
 <br><br>
 Despite his unhappy childhood, Aldington clearly loved the East Kent [landscape](/landscape/kentish-landscapes) and its flora and insect life, particularly the butterflies and moths, and he would explore these things on the cliffs with a ‘field note-book’ and pencil to hand. Birdsong, too, made an impression on the boy, and he would lean out of his bedroom window listening to the thrushes sing. Episodes in his novel _The Death of a Hero_ (1929) based on his own experiences on the Western Front in the First World War mirror some of those in his autobiography, _Life for Life’s Sake_ (1941), and in the opening pages of both books he writes lyrically and in detail about those experiences, and with gratitude about the older men who encouraged his interest in the natural world, poetry and the classical world. By piecing together extracts from both books, we can get a sense of the impact this countryside had on him.

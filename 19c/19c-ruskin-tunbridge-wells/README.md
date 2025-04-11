@@ -3,6 +3,12 @@
 
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 
+<!-- Base map centred on Tunbridge Wells -->
+<param ve-map center="Q665489" zoom="15">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="xxx" title="Bacon's Tunbridge Wells Map c.1870-1890">
+
 #
 
 John Ruskin, art critic, architectural theorist, social commentator and educationalist visited Tunbridge Wells in February 1858 to lecture at the Sussex Hotel. At the beginning of his talk, Ruskin explained that he had visited the town, which he called ‘my Switzerland’, in his childhood and recalled climbing on 'sandstone cliffs of stupendous height above the common'.[^ref1]
