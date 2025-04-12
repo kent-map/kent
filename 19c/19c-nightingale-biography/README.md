@@ -5,9 +5,8 @@
 
 #
 
-Social reformer and nursing campaigner, Florence Nightingale, who rose to fame after her work in the Crimea, was instrumental in establishing an army medical school at Fort Pitt, Chatham in 1860. 
+Social reformer and nursing campaigner, Florence Nightingale, who rose to fame after her work in the Crimea, was instrumental in establishing an army medical school at Fort Pitt, Chatham in 1860.
 <br><br>
-
 Three years earlier, Florence had been asked by Sir John Liddell, Director-General of the Navy Medical Department, to “introduce female nurses into naval hospitals.”[^ref1] She visited Chatham, which was a military, as well as naval, station with Sir John and her friend Miss Carter in March 1857.[^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ea/%28Florence_Nightingale%29_%28LOC%29.jpg" label="Florence Nightingale" attribution="The Library of Congress, No restrictions, via Wikimedia Commons">
 
