@@ -1,6 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Florence Nightingale (1820 – 1910)" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="Florence Nightingale (1820 – 1910)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/e/e0/Crimean_War_1854-56_Q71593.jpg">
 
+<param ve-entity eid="Q17664052" aliases="Fort Pitt">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 
 #
@@ -24,6 +25,7 @@ It was not only the men at Chatham who received Florence's attention and whilst 
 
 Fort Pitt was used to receive and assess soldiers invalided back to Britain after service abroad. However, as Florence observed: “young men were sent to attend sick and wounded soldiers, who perhaps had never dressed a serious wound, or never attended a bedside, except in the midst of a crowd of students, following in the wake of some eminent lecturer, who certainly had never been instructed in the most ordinary sanitary knowledge”[^ref10] 
 
+
 At the opening of the Army Medical Practical School on the 2nd October 1860, Deputy Inspector-General T. Longmore, Professor of Military Surgery, gave a speech in which he said “There is one, however, whose opinion derived from large experience and remarkable sagacity in observation, exerted an especial influence in originating and establishing this school. I should hardly have presumed to refer to Miss Nightingale by name, so unostentatiously was her influence in this matter exerted, had not one of the Royal Commissioners, prominent from his high position, and by all he had done to diffuse military sanitation knowledge, recently made public mention of this fact.”[^ref11]
 <br><br>
 The first students who arrived found that the school was not properly equipped and Florence had to intervene again to make sure it was fit for purpose. She also made recommendations for the nominations of professors of hygiene and pathology. [^ref12] 
@@ -35,6 +37,10 @@ Twenty years after establishing the Army Medical School at Chatham, Florence ret
 “The doctors tell me, “I must be ‘free’ for at least a year ‘from the responsibilities which have been forced upon me’ (and which, they might say, I have so ill fulfilled) and from ‘letters.’ But when is that year to come? I believe, however, I must go away again for a time, if only to work up the arrears of my Indian work, which weigh heavily on my mind.”[^ref18] 
 <br><br>
 However, despite the sea air and its state of the art bathing facilities, Ramsgate failed to revive Florence and she left the "Hygeiopolis" after three weeks.[^ref19] The woman who achieved so much to improve the health of others, failed to improve her own. Nevertheless, indefatigible, she lived until the age of 90, dying in 1910.
+
+
+Four years later with the outbreak of the First World War, the Royal Naval Hospital, Chatham, erected in 1899-1905 to replace the Melville Hospital took on strategic importance as one of three principal naval hospitals in the UK. It was designed as a pavilion-plan hospital, a system which Florence had pioneered.[^ref20] Therefore her legacy has had a profound impact on Kent's military hospitals.
+<param ve-image url="https://commons.wikimedia.org/wiki/File:The_Medical_Services_on_the_Home_Front,_1914-1918_Q18929.jpg" label="The Medical Services on the Home Front, 1914-1918 Q18929" attribution="Ministry of Information First World War Official Collection via Wikimedia Commons" license="IWM Non-Commercial Licence">
 
 This article was written: 13 April 2025.
 
@@ -57,4 +63,5 @@ This article was written: 13 April 2025.
 [^ref17]: "The Granville Hotel, Ramsgate." _Illustrated Sporting and Dramatic News_ 9 Dec. 1876.
 [^ref18]: Cook, Edward Tyas, p.324.
 [^ref19]: "The Granville Hotel, Ramsgate." _Illustrated Sporting and Dramatic News_ 9 Dec. 1876.
+[^ref20]: Cook, Edward Tyas, p. 340.
 
