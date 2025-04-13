@@ -68,6 +68,7 @@
 [George Meredith](19c-meredith-biography)   
 [Major Alfred Moberly](19c-moberly-biography)   
 [F.F. Montrésor](19c-montresor-biography)   
+[Florence Nightingale](19c-nightingale-biography)   
 [Augustus Welby Pugin](19c-pugin-biography)   
 [Joseph Pyke](19c-pyke-biography)   
 [G.W.M. Reynolds](19c-reynoldsgwm-biography)  
