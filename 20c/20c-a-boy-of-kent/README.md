@@ -1,4 +1,7 @@
-A Boy of Kent, 1974 – 1989 - Reminiscences of a Railway Worker
+<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<param ve-config title="A Boy of Kent, 1974 – 1989 - Reminiscences of a Railway Worker" author="Adam Baldwin" layout="vtl" banner="https://stor.artstor.org/stor/6e4cd3c3-771e-43b2-a9e8-90384590672d" description="Adam Baldwin recounts his childhood memories and early working life on the Kentish railways.">
+
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
 **Early years 1974 - 1982**   
 Although I was born in Greenwich in 1971, my parents moved to Strood in the Medway towns in early 1972. This was for my father’s role as a signalman in one of the small boxes on the Medway valley line from Strood to Maidstone. In 1974, we moved to Teynham, which I think was linked to my father moving into management. The first role he had of which I am fairly confident is assistant station manager at Canterbury West, c. 1974 to c. 1979. 
