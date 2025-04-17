@@ -1,5 +1,10 @@
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-Canterbury Public Library
+<param ve-config title="Canterbury Free Library" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/c/c2/West_Cliff%2C_Folkestone%2C_England-LCCN2002696751.jpg">
+
+<param ve-entity eid="Q26370404" aliases="Canterbury Museum and Public Library">
+
+#
 
 The Free Library in [Canterbury](/19c/19c-canterbury/) dates back to 1858. It was the first in the country to be established under the 1850 Library Act, which enabled free public access to books and amenities, paid for out of a 1d levy on local rates. Maidstone was another early adopter of the new Act, setting up a Free Library in 1858. [Folkestone](/19c/19c-folkestone-free-library) followed suit in 1879.[^ref1]
 The Canterbury Corporation started with a modest assortment of books, having taken over the library and museum collections of the Canterbury Philosophical and Literary Institution (originally based in Guildhall Street). The nationwide Phil and Lits, as they were known, offered important opportunities to their members, through the free provision of books. But importantly, the Library Act enabled access to a public reading room - and crucially libraries were under considerable pressure from users to include fiction.
