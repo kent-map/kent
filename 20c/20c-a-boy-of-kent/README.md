@@ -59,8 +59,9 @@ I started at the Canterbury Telephone Enquiry Bureau on Monday the 12th October 
 ‘You aren’t going anywhere!’   
 Genuinely puzzled I asked why. Even more incredulous he asked,   
 ‘Don’t you know what’s happened?’    
-‘No.’ I didn’t have the radio on in the morning, as I didn’t want to disturb my still sleeping parents (I had assumed! – mother told me after she hadn’t slept all night - whilst both myself and my father had slept right through).    
-‘There’s no bloody trains ‘cos there’s no bloody track! All the trees are down, and the lines are shut.’    
+‘No.’ I didn’t have the radio on in the morning, as I didn’t want to disturb my still sleeping parents.
+‘There’s no bloody trains ‘cos there’s no bloody track! All the trees are down, and the lines are shut.’ 
+<br><br>
 The line was cleared enough for me to go back to work I think from the Monday or Tuesday the next week, but parts of the line remained blocked for a lot longer, if I remember correctly.
 
 After around 18 months at Canterbury East TEB, I applied for a transfer to Gillingham ticket office in the Medway towns. Starting around April 1989, I spent about a year here selling commuter tickets, season tickets and combined train ticket and entry to Bembom Brothers, Margate, the theme park now known again by its original name, Dreamland. 
