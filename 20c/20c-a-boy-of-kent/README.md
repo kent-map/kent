@@ -1,4 +1,4 @@
-A Boy of Kent, 1974 – 1989
+A Boy of Kent, 1974 – 1989 - Reminiscences of a Railway Worker
 
 **Early years 1974 - 1982**   
 Although I was born in Greenwich in 1971, my parents moved to Strood in the Medway towns in early 1972. This was for my father’s role as a signalman in one of the small boxes on the Medway valley line from Strood to Maidstone. In 1974, we moved to Teynham, which I think was linked to my father moving into management. The first role he had of which I am fairly confident is assistant station manager at Canterbury West, c. 1974 to c. 1979. 
