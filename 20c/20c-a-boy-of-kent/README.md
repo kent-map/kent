@@ -1,6 +1,18 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="A Boy of Kent, 1974 – 1989 - Reminiscences of a Railway Worker" author="Adam Baldwin" layout="vtl" banner="https://stor.artstor.org/stor/6e4cd3c3-771e-43b2-a9e8-90384590672d" description="Adam Baldwin recounts his childhood memories and early working life on the Kentish railways.">
 
+<param ve-entity eid="Q179385" aliases="Greenwich">
+<param ve-entity eid="Q1808441" aliases="Strood">
+<param ve-entity eid="Q2111455" aliases="Strood railway station">
+<param ve-entity eid="Q112843312" aliases="Medway Towns">
+<param ve-entity eid="Q1865570" aliases="Teynham">
+<param ve-entity eid="Q1865163" aliases="Teynham railway station">
+<param ve-entity eid="Q671106" aliases="Canterbury West railway station">
+<param ve-entity eid="Q1000115" aliases="Faversham">
+<param ve-entity eid="Q1626044" aliases="Sittingbourne">
+<param ve-entity eid="Q1919614" aliases="Sittingbourne railway station">
+<param ve-entity eid="Q4381574" aliases="Canterbury East railway station">
+<param ve-entity eid="Q610238" aliases="Gillingham">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
 **Early years 1974 - 1982**   
