@@ -7,7 +7,7 @@
 #
 
 The Free Library in [Canterbury](/19c/19c-canterbury/) dates back to 1858. It was the first in the country to be established under the 1850 Library Act, which enabled free public access to books and amenities, paid for out of a 1d levy on local rates. Maidstone was another early adopter of the new Act, setting up a Free Library in 1858. [Folkestone](/19c/19c-folkestone-free-library) followed suit in 1879.[^ref1]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/Beaney_Institute_002.jpg" label="Beaney Institute" attribution="Storye book, via Wikimedia Commons" license="CC BY 3.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Beaney_House_of_Art_and_Knowledge_2015.JPG/1062px-Beaney_House_of_Art_and_Knowledge_2015.JPG" label="Beaney Institute" attribution="Geni, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 The Canterbury Corporation started with a modest assortment of books, having taken over the library and museum collections of the Canterbury Philosophical and Literary Institution (originally based in Guildhall Street). The nationwide Phil and Lits, as they were known, offered important opportunities to their members, through the free provision of books. But importantly, the Library Act enabled access to a public reading room - and crucially libraries were under considerable pressure from users to include fiction.
 <br><br>
