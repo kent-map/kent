@@ -7,7 +7,7 @@
 #
 
 The Free Library in [Canterbury](/19c/19c-canterbury/) dates back to 1858. It was the first in the country to be established under the 1850 Library Act, which enabled free public access to books and amenities, paid for out of a 1d levy on local rates. Maidstone was another early adopter of the new Act, setting up a Free Library in 1858. [Folkestone](/19c/19c-folkestone-free-library) followed suit in 1879.[^ref1]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/Beaney_Institute_002.jpg" label="Beaney Institute" attribution="Storye book, via Wikimedia Commons" license="CC BY 3.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Beaney_House_of_Art_and_Knowledge_2015.JPG/1062px-Beaney_House_of_Art_and_Knowledge_2015.JPG" label="Beaney Institute" attribution="Geni, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 The Canterbury Corporation started with a modest assortment of books, having taken over the library and museum collections of the Canterbury Philosophical and Literary Institution (originally based in Guildhall Street). The nationwide Phil and Lits, as they were known, offered important opportunities to their members, through the free provision of books. But importantly, the Library Act enabled access to a public reading room - and crucially libraries were under considerable pressure from users to include fiction.
 <br><br>
@@ -31,25 +31,25 @@ But strict interpretation  of the rules continued to cause problems well into th
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/90/James_George_Beaney_memorial_02.JPG" label="James George Beaney Memorial" attribution="Jonathan Cardy, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 ### Bibliography 
-28th annual report. Folkestone Free Library 1909-10. Uncatalogued ephemera box. Folkestone Library.
-_The Beaney Bookplate 1899: Explored and Explained by Alan Barber_. Tales from the Magazine Room: Book 4. Unpaginated. Canterbury Library. C741.69.
+28th annual report. Folkestone Free Library 1909-10. Uncatalogued ephemera box. Folkestone Library.   
+_The Beaney Bookplate 1899: Explored and Explained by Alan Barber_. Tales from the Magazine Room: Book 4. Unpaginated. Canterbury Library. C741.69.   
 [‘The Cabinet of Curiosities’](https://canterburymuseums.co.uk/wp-content/uploads/2019/12/cabinet-of-curiosities.pdf)
-Catalogue of the Canterbury Municipal Free Library in the Museum, Guildhall Street. 1881 [front cover dated 1882]. Canterbury Library. C017.5.
-Catalogue of Books in the Lending Department of Canterbury Free Library (the Beaney Institute): 1899, 1903, 1906, 1908, 1911, 1915. Canterbury Library. C017.5.
-‘Folkestone Public Library: What the Public Will See on Friday’. [1910]. Uncatalogued ephemera box. Folkestone Library.
-Greenwood, Thomas. [_Public Libraries: A History of the Movement and a Manual for the Organization and Management of Rate-Supported Libraries_.](https://archive.org/details/publiclibrariesh0000gree/mode/2up) Fourth edition. London: Cassell & Company, 1891.
-[‘Laying the First Beaney Stone.’](https://canterburymuseums.co.uk/laying-the-first-beaney-stone/) 
-_The Library._ Vol 1. Sir John Young Walker MacAlister, ‎Alfred William Pollard, ‎Ronald Brunlees McKerrow. 1889.
-[_Report of the Canterbury Philosophical and Literary Institution_. 1827.](https://archive.org/details/reportofcanterbu00cant/page/n19/mode/2up)
-Vindex. ‘Boycotting Miss Braddon.’ _Kentish Gazette._ 13 September 1887. 8.
-What is to become of Miss Braddon?’ _Kentish Gazette._ 24 September 1887. 8.
-‘Soldiers as readers at Canterbury.’ _Tuesday Express._ 16 March 1915. 1.
+Catalogue of the Canterbury Municipal Free Library in the Museum, Guildhall Street. 1881 [front cover dated 1882]. Canterbury Library. C017.5.   
+Catalogue of Books in the Lending Department of Canterbury Free Library (the Beaney Institute): 1899, 1903, 1906, 1908, 1911, 1915. Canterbury Library. C017.5.   
+‘Folkestone Public Library: What the Public Will See on Friday’. [1910]. Uncatalogued ephemera box. Folkestone Library.   
+Greenwood, Thomas. [_Public Libraries: A History of the Movement and a Manual for the Organization and Management of Rate-Supported Libraries_.](https://archive.org/details/publiclibrariesh0000gree/mode/2up) Fourth edition. London: Cassell & Company, 1891.   
+[‘Laying the First Beaney Stone.’](https://canterburymuseums.co.uk/laying-the-first-beaney-stone/)    
+_The Library._ Vol 1. Sir John Young Walker MacAlister, ‎Alfred William Pollard, ‎Ronald Brunlees McKerrow. 1889.   
+[_Report of the Canterbury Philosophical and Literary Institution_. 1827.](https://archive.org/details/reportofcanterbu00cant/page/n19/mode/2up)   
+Vindex. ‘Boycotting Miss Braddon.’ _Kentish Gazette._ 13 September 1887. 8.   
+What is to become of Miss Braddon?’ _Kentish Gazette._ 24 September 1887. 8.   
+‘Soldiers as readers at Canterbury.’ _Tuesday Express._ 16 March 1915. 1.   
 
 ### References
 
-[^ref1] Interestingly in 1891 the Canterbury librarian A. D. Blaxland was paid £90 pa, while the Folkestone librarian was paid £100 pa. See Greenwood.
-[^ref2] 1881 catalogue.
-[^ref3] ‘Boycotting Miss Braddon.’
-[^ref4] Greenwood 206.
-[^ref5] 1899 catalogue.
+[^ref1]: Interestingly in 1891 the Canterbury librarian A. D. Blaxland was paid £90 pa, while the Folkestone librarian was paid £100 pa. See Greenwood.
+[^ref2]: 1881 catalogue.
+[^ref3]: ‘Boycotting Miss Braddon.’
+[^ref4]: Greenwood 206.
+[^ref5]: 1899 catalogue.
 
