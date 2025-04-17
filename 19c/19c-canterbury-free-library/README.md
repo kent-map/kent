@@ -31,25 +31,25 @@ But strict interpretation  of the rules continued to cause problems well into th
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/90/James_George_Beaney_memorial_02.JPG" label="James George Beaney Memorial" attribution="Jonathan Cardy, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 ### Bibliography 
-28th annual report. Folkestone Free Library 1909-10. Uncatalogued ephemera box. Folkestone Library.
-_The Beaney Bookplate 1899: Explored and Explained by Alan Barber_. Tales from the Magazine Room: Book 4. Unpaginated. Canterbury Library. C741.69.
+28th annual report. Folkestone Free Library 1909-10. Uncatalogued ephemera box. Folkestone Library.   
+_The Beaney Bookplate 1899: Explored and Explained by Alan Barber_. Tales from the Magazine Room: Book 4. Unpaginated. Canterbury Library. C741.69.   
 [‘The Cabinet of Curiosities’](https://canterburymuseums.co.uk/wp-content/uploads/2019/12/cabinet-of-curiosities.pdf)
-Catalogue of the Canterbury Municipal Free Library in the Museum, Guildhall Street. 1881 [front cover dated 1882]. Canterbury Library. C017.5.
-Catalogue of Books in the Lending Department of Canterbury Free Library (the Beaney Institute): 1899, 1903, 1906, 1908, 1911, 1915. Canterbury Library. C017.5.
-‘Folkestone Public Library: What the Public Will See on Friday’. [1910]. Uncatalogued ephemera box. Folkestone Library.
-Greenwood, Thomas. [_Public Libraries: A History of the Movement and a Manual for the Organization and Management of Rate-Supported Libraries_.](https://archive.org/details/publiclibrariesh0000gree/mode/2up) Fourth edition. London: Cassell & Company, 1891.
-[‘Laying the First Beaney Stone.’](https://canterburymuseums.co.uk/laying-the-first-beaney-stone/) 
-_The Library._ Vol 1. Sir John Young Walker MacAlister, ‎Alfred William Pollard, ‎Ronald Brunlees McKerrow. 1889.
-[_Report of the Canterbury Philosophical and Literary Institution_. 1827.](https://archive.org/details/reportofcanterbu00cant/page/n19/mode/2up)
-Vindex. ‘Boycotting Miss Braddon.’ _Kentish Gazette._ 13 September 1887. 8.
-What is to become of Miss Braddon?’ _Kentish Gazette._ 24 September 1887. 8.
-‘Soldiers as readers at Canterbury.’ _Tuesday Express._ 16 March 1915. 1.
+Catalogue of the Canterbury Municipal Free Library in the Museum, Guildhall Street. 1881 [front cover dated 1882]. Canterbury Library. C017.5.   
+Catalogue of Books in the Lending Department of Canterbury Free Library (the Beaney Institute): 1899, 1903, 1906, 1908, 1911, 1915. Canterbury Library. C017.5.   
+‘Folkestone Public Library: What the Public Will See on Friday’. [1910]. Uncatalogued ephemera box. Folkestone Library.   
+Greenwood, Thomas. [_Public Libraries: A History of the Movement and a Manual for the Organization and Management of Rate-Supported Libraries_.](https://archive.org/details/publiclibrariesh0000gree/mode/2up) Fourth edition. London: Cassell & Company, 1891.   
+[‘Laying the First Beaney Stone.’](https://canterburymuseums.co.uk/laying-the-first-beaney-stone/)    
+_The Library._ Vol 1. Sir John Young Walker MacAlister, ‎Alfred William Pollard, ‎Ronald Brunlees McKerrow. 1889.   
+[_Report of the Canterbury Philosophical and Literary Institution_. 1827.](https://archive.org/details/reportofcanterbu00cant/page/n19/mode/2up)   
+Vindex. ‘Boycotting Miss Braddon.’ _Kentish Gazette._ 13 September 1887. 8.   
+What is to become of Miss Braddon?’ _Kentish Gazette._ 24 September 1887. 8.   
+‘Soldiers as readers at Canterbury.’ _Tuesday Express._ 16 March 1915. 1.   
 
 ### References
 
-[^ref1] Interestingly in 1891 the Canterbury librarian A. D. Blaxland was paid £90 pa, while the Folkestone librarian was paid £100 pa. See Greenwood.
-[^ref2] 1881 catalogue.
-[^ref3] ‘Boycotting Miss Braddon.’
-[^ref4] Greenwood 206.
-[^ref5] 1899 catalogue.
+[^ref1]: Interestingly in 1891 the Canterbury librarian A. D. Blaxland was paid £90 pa, while the Folkestone librarian was paid £100 pa. See Greenwood.
+[^ref2]: 1881 catalogue.
+[^ref3]: ‘Boycotting Miss Braddon.’
+[^ref4]: Greenwood 206.
+[^ref5]: 1899 catalogue.
 
