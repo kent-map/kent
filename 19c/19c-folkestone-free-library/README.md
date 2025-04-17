@@ -8,7 +8,7 @@
 
 #
 
-Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act. Canterbury Museum and Public Library (now The Beaney) opened its doors in 1858, making it the first free library in England.
+Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act. [Canterbury Museum and Public Library](/19c/19c-canterbury-free-library) (now The Beaney) opened its doors in 1858, making it the first free library in England.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Canterbury_Library_main_entrance.jpg" label="Canterbury Library" attribution="DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-map center="Q26370404" zoom="15">
 
