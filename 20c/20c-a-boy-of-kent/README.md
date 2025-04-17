@@ -18,7 +18,7 @@
 **Early years 1974 - 1982**   
 Although I was born in Greenwich in 1971, my parents moved to Strood in the Medway towns in early 1972. This was for my father’s role as a signalman in one of the small boxes on the Medway valley line from Strood to Maidstone. In 1974, we moved to Teynham, which I think was linked to my father moving into management. The first role he had of which I am fairly confident is assistant station manager at Canterbury West, c. 1974 to c. 1979. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canterbury_West_Train_Station%2C_January_2025.jpg" label="Canterbury West Station" attribution="Celsoazevedo, via Wikimedia Commons, CC BY 4.0">
-<param ve-map center="Q671106" zoom="12">
+<param ve-map primary center="Q671106" zoom="12">
 
 As a 7 or 8 year old child I was at school in the week, but at weekends my father used to take to me to work at Canterbury West on a Saturday, presumably to give my mother time for other things. She had a horse, I think, at about this time, and would ride it on Saturday mornings, so some child-management was required.
 <br><br>
@@ -26,13 +26,13 @@ Being a small and presumably quite annoying child, my father would pass me on fo
 <br><br>
 The signal box itself has an unusual history, having previously been ‘the signal box which formerly straddled the lines between London Bridge and Blackfriars (which was then) re-used at Canterbury West. Assembly of the … signal box occurred during 1927, and it took over the functions of the two SER cabins on 1st January 1928’[^ref1] It is still proudly in use today, its charmingly old-fashioned wooden structure contrasting pleasingly with the modern high-speed trains that now link Canterbury West and St Pancras in London. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Canterbury_West_signal_box_%28detail%29_-_geograph.org.uk_-_3276693.jpg" label="Canterbury West Signal Box" attribution="Richard Vince, via Wikimedia Commons" license="CC BY-SA 2.0">
-<param ve-map center="Q671106" zoom="12">
+<param ve-map primary center="Q671106" zoom="12">
 
 Health & Safety considerations may have prompted my father to find a rather more suitable lodging on a Saturday morning for his 7 or 8 year old child. I am fairly certain, although not absolutely so, that I was then baby-sat by a family who lived in a crossing-keepers house for a manual crossing gate somewhere in Canterbury’s suburbs. Sadly, I have been unable to locate this crossing, but I have fond memories of the family who lived there – the crossing-keeper’s wife read me the Beatrix Potter books, and bought me a much-treasured _The Tale of Squirrel Nutkin_ as a present.
 
 My father became assistant station manager at Faversham station in around 1979/1980, and with it came responsibility for our local station, Teynham. We lived opposite the station, so as a child I would be serenaded by the sound of Southern electric trains rumbling past us. When I lived there, Teynham station had a manual crossing for a minor road, so was manned 24 hours a day, only replaced by automatic gates in 2011. It also had a rather grand passenger bridge to take people platform to platform, and pedestrians from the main part of the village south of the railway to the lesser inhabited part north of the station. Built in around 1910 this lattice sided bridge was some 65 feet in length, and had 4 access stairways, two for the platforms and two for non-rail travelling pedestrians. It has been modernised now, and has lost its charm, although traces of its original look can still be spotted if you remember the bridge as was. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/Closing_the_gate_-_geograph.org.uk_-_272596.jpg" label="Closing the Gate, Having opened the crossing to allow a vehicle through to Railway Row, this railway employee recloses the gates at Teynham Station, 2006" attribution="Penny Mayes, via Wikimedia Commons, CC BY-SA 2.0">
-<param ve-map center="Q1865163" zoom="12">
+<param ve-map primary center="Q1865163" zoom="12">
 
 My interaction with the railway continued through my younger years, as during school holidays I accompanied my mother on shopping trips. Teynham was fairly small, and had little in the way of shops to sustain a family. My mother, not being able to drive, would once a week take the train to either Sittingbourne or Faversham (she switched a few times, based presumably on a level of dissatisfaction with one of the other). My mother worked in the quality control laboratory at Redland Brickworks in Conyer at this stage, and during school holidays I would sit astride my mother’s bicycle crossbar as we shook and rattled down the ash-laid path through the orchards, referred as the tramlines. It had been the site of a narrow-gauge line which had connected the brickworks with the mainline up until around 1962.
 
