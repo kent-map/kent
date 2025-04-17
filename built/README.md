@@ -13,6 +13,14 @@ Kent's public institutions, memorials, monuments and historic buildings.
 
 “Never in the field of human conflict was so much owed by so many to so few.” The Battle of Britain Memorial situated on top of the White Cliffs at Capel-le-Ferne, near Folkestone, commemorates 'The Few'.
 
+## Canterbury Free Library
+
+[Canterbury Free Library](/19c/19c-canterbury-free-library)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/built_Beaney.jpg)
+
+The Free Library in Canterbury dates back to 1858. It was the first in the country to be established under the 1850 Library Act.
+
 ## Convalescent Homes
 
 [Convalescent Homes](/19c/19c-convalescent-homes)
