@@ -17,7 +17,7 @@
 <param ve-entity eid="Q5166773" aliases="Conyer">
 
 **Early years 1974 - 1982**   
-Although I was born in Greenwich in 1971, my parents moved to Strood in the Medway towns in early 1972. This was for my father’s role as a signalman in one of the small boxes on the Medway valley line from Strood to Maidstone. In 1974, we moved to Teynham, which I think was linked to my father moving into management. The first role he had of which I am fairly confident is assistant station manager at Canterbury West, c. 1974 to c. 1979. 
+Although I was born in Greenwich in 1971, my parents moved to Strood in the Medway towns in early 1972. This was for my father’s role as a signalman in one of the small boxes on the Medway valley line from Strood to Maidstone. In 1974, we moved to Teynham, which I think was linked to my father moving into management. The first role he had of which I am fairly confident is assistant station manager at [Canterbury West](/20c/20c-canterbury-railway/), c. 1974 to c. 1979. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canterbury_West_Train_Station%2C_January_2025.jpg" label="Canterbury West Station" attribution="Celsoazevedo, via Wikimedia Commons, CC BY 4.0">
 <param ve-map primary center="Q671106" zoom="15">
 
