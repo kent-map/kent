@@ -2,15 +2,16 @@
 <param ve-config title="Guglielmo Marconi (1874 –1937)" author="Michelle Crowther" layout="vtl" banner="xxx">
 
 <param ve-entity eid="Q179224" aliases="Dover">
-St Margaret's
-Swingate
-South Foreland Lighthouse
+<param ve-entity eid="Q3495338" aliases="St Margaret's">
+<param ve-entity eid="Q603869" aliases="Swingate">
+<param ve-entity eid="Q386221" aliases="South Foreland Lighthouse">
+<param ve-entity eid="Q5470869" aliases="Fort Burgoyne">
 
 #
 
 Guglielmo Marconi, inventor of wireless telegraphy, arrived in Britain from Italy on the 2nd February 1896.  He was not a stranger to Britain, as he had lived in Bedford with his Irish mother as a child and had British citizenship. Having failed to gain sponsorship from the Italian government to develop his ideas in wireless telegraphy, he had travelled to London via Dover to seek funds to convert his experiments into practical use.  
 <br><br>
-Sir Oliver Lodge had previously presented ideas on wireless telegraphy at the British Association for the Advancement of Science in Oxford in 1894 and bitterly complained that Marconi had “evidently got all his ideas” from a book that he had published after his lecture.[^ref1] However, Sungook Hong argues that Lodge’s lecture had nothing to do with telegraphy and that “the image of Lodge as the inventor of wireless telegraphy was deliberately constructed by his friends and by Lodge himself” (26). Marconi was granted the first British patent for wireless telegraphy on 2nd July 1896.[Dragoni ODNB] 
+Physicist, Sir Oliver Lodge had previously presented ideas on wireless telegraphy at the British Association for the Advancement of Science in Oxford in 1894 and bitterly complained that Marconi had “evidently got all his ideas” from a book that he had published after his lecture.[^ref1] However, Sungook Hong argues that Lodge’s lecture had nothing to do with telegraphy and that “the image of Lodge as the inventor of wireless telegraphy was deliberately constructed by his friends and by Lodge himself” (26). Marconi was granted the first British patent for wireless telegraphy on 2nd July 1896.[Dragoni ODNB] 
 <param ve-image url=”https://upload.wikimedia.org/wikipedia/commons/0/0d/Guglielmo_Marconi.jpg 
 “ label=”  “ attribution=”  “>
 
@@ -18,7 +19,7 @@ In July 1896, Marconi contacted William Preece, Chief Electrician at the Post Of
 <br><br>
 By March 1897, Marconi had succeeded in transmitting over a distance of 4 miles.[Hong 39] The scientific world longed to know what exactly Marconi’s “secret box” contained. Lodge bemoaned “the public has been educated by a secret box more than it would have been by many volumes of Philosophical Transactions and Physical Society Proceedings” (qtd in Hong 39).
 
-In 1897, a team of experts from the Post Office conducted wireless telegraphy experiments with the Royal Engineers at Fort Burgogyne, Dover. The apparatus was placed on a horse-drawn trolley and stations were set up at Swingate and St Margaret’s.[^ref2] Marconi had planned to conduct similar experiments at Salisbury a week later but had been alerted by William Preece that the Post Office planned to conduct the experiments at Dover. He wrote to Preece:
+In September 1897, a team of experts from the Post Office conducted wireless telegraphy experiments with the Royal Engineers at Fort Burgogyne, Dover, under the direction of William Preece and Mr Gavey, the Chief Technical Officer.["Telegraphing without Wires." Weekly Dispatch (London) - Sunday 19 September 1897] The apparatus was placed on a horse-drawn trolley and stations were set up at Swingate and St Margaret’s.[^ref2] Marconi had planned to conduct similar experiments at Salisbury a week later but had been alerted by William Preece that the Post Office planned to conduct the experiments at Dover. He wrote to Preece:
 <br><br>
 “In consequence to your letter, my experiments arranged to take place last week at Salisbury were postponed, you having suggested that I had better go to Dover. I now understand that the Post Office people have gone to Dover without me. Mr Gavey having told me in confidence that my presence cannot be permitted. At a board meeting of my company yesterday, much regret was expressed that the experiments at Dover are to be conducted in my absence with apparatus which may not may not be satisfactory.” (Preece 237)
 
@@ -51,9 +52,13 @@ In 1900, he formed Marconi's Wireless Telegraph Ltd.[ODNB]
 
 In 1901, the Royal Navy and Lloyds of London agreed contracts with Marconi (Hong) By December of that year, 36 battleships carried the apparatus. The system was also adopted by the Italian, German and French navies.[“A Talk with Mr Marconi.” St James's Gazette - Monday 16 December 1901]
 
-In 1902, Marconi left Dover on board the Italian cruiser _Carlo Alberto_ which had been dispatched to England for the Coronation and was bound for Kronstadt. He conducted experiments on board the ship to his station in Essex.[“Marconi’s experiments.” Manchester Courier - Wednesday 09 July 1902/ “Marconi’s experiments.” Globe - Saturday 12 July 1902] including testing prototypes of the magnetic detector.[ODNB] By 1903, the Admiralty Marconi stations connected Dover and Dungeness Point[^ref9]
+In 1902, Marconi left Dover on board the Italian cruiser _Carlo Alberto_ which had been dispatched to England for the Coronation and was bound for Kronstadt. He conducted experiments on board the ship to his station in Essex [“Marconi’s experiments.” Manchester Courier - Wednesday 09 July 1902/ “Marconi’s experiments.” Globe - Saturday 12 July 1902] including testing prototypes of the magnetic detector.[ODNB] 
 
-In 1909, messages recording Louis Bleriot’s flight across the channel were sent by Marconi’s wireless including one from Calais at 4.59 “Bleriot flew with perfect steadiness till out of our sight, not very high above the water. Let us know as soon as you see him” At 5.52 a reply was sent from Dover “One of our representatives on Shakespeare Cliff saw Bleriot flying. He jumped into a motor car, raced over through Dover and picked him up at the North Foreland Meadow safe and sound. He is now in the Lord Warden Hotel, and has just started breakfast.” [“Another Account.” Sporting Life - Monday 26 July 1909]
+By 1903, the Admiralty Marconi stations connected Dover and Dungeness Point[^ref9]
+
+In 1909, messages recording Louis Bleriot’s flight across the channel were sent by Marconi’s wireless including one from Calais at 4.59 “Bleriot flew with perfect steadiness till out of our sight, not very high above the water. Let us know as soon as you see him” At 5.52 a reply was sent from Dover “One of our representatives on Shakespeare Cliff saw Bleriot flying. He jumped into a motor car, raced over through Dover and picked him up at the North Foreland Meadow safe and sound. He is now in the Lord Warden Hotel, and has just started breakfast.” [“Another Account.” Sporting Life - Monday 26 July 1909] It was this year that Marconi won the Nobel Prize for Physics.
+
+During the First World War, Marconi served in the Italian navy.[ODNB] 
 
 In May 1925, Marconi visted Dover in his yacht _Elettra_.[^ref1]. [“Marconi at Dover.” Dover Chronicle - Saturday 16 May 1925] He returned again in September, taking part in an experiment of coded signals which was conducted near the Goodwin Sands.[Alan Major "A tale of a man, two lighthouses and a ship." https://bygonekent.org.uk/article/tale-man-two-lighthouses-and-ship/]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/Elettra.jpg"
@@ -61,6 +66,8 @@ In May 1925, Marconi visted Dover in his yacht _Elettra_.[^ref1]. [“Marconi at
 
 
 Wireless Telegraphy. | Glasgow Herald | Thursday 30 March 1899 | British Newspaper Archive
+
+Dragoni, Giorgio. "Marconi, Guglielmo (1874–1937), physicist and inventor of wireless transmission." [Oxford Dictionary of National ](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37735).  January 06, 2011. Oxford University Press. Date of access 21 Apr. 2025, 
 
 ### References
 
