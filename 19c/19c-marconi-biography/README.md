@@ -28,7 +28,13 @@ On 30 January 1899, Marconi demonstrated his apparatus at the South Foreland Lig
 
 On the 17 March 1899, the East Goodwin Lightship sent its first wireless distress signal when _Elbe_, a merchant ship ran aground on the [Goodwin Sands](/19c/19c-goodwin-sands).[^ref17] The South Goodwin light vessel had fired a distress signal after the vessel had run aground on the south end of the Goodwin Sands. On hearing the signal, the East Goodwin Lightship sent a message to the South Foreland Lighthouse which sent telegraphic messages to the Kingsdown and Ramsgate lifeboats.  The distress signal sent by the South Goodwin light vessel had already been heard by the [Ramsgate](/19c/19c-ramsgate) lifeboat which was on its way, but the Town Council agreed that had the wind been blowing in the opposite direction, the distress signal might not have been heard in Ramsgate and that the wireless distress signal would have proved useful.[^ref18]
 
-On 27 March 1899, morse code signals were sent from the engine house of the South Foreland Lighthouse to Chalet L'Artois, Wimereux, France, 50 km away.[^ref19] On the day of the demonstration, the Channel was “enveloped in a thick haze” but despite the weather, “the electric messages flashed across all the same”.[^ref20] It was reported that “Meteorological conditions have no effect upon the system. Yesterday and today it has blown very heavily in the Channel, but the signals were received just as sharply as in fine, bright, clear weather. Snow, fog, wind or rain – it is all the same.”[^ref21] The demonstration was keenly observed by the Right Hon. C.T. Ritchie, President of the Board of Trade,[^ref22] as well as representatives of the French government, Colonel Comte du Pontavice de Hussey, Captain Ferrie, M. Voiseuet and Captain Fieron, the naval attache from the French Embassy in London.[^ref23]  Messages in English and French crossed the channel all afternoon.[^ref24] A description of the transmission was given as follows: 
+On 27 March 1899, morse code signals were sent from the engine house of the South Foreland Lighthouse to Chalet L'Artois, Wimereux, France, 50 km away.[^ref19] On the day of the demonstration, the Channel was “enveloped in a thick haze” but despite the weather, “the electric messages flashed across all the same”.[^ref20] It was reported that:
+<br><br>
+“Meteorological conditions have no effect upon the system. Yesterday and today it has blown very heavily in the Channel, but the signals were received just as sharply as in fine, bright, clear weather. Snow, fog, wind or rain – it is all the same.”[^ref21] 
+<br><br>
+The demonstration was keenly observed by the Right Hon. C.T. Ritchie, President of the Board of Trade,[^ref22] as well as representatives of the French government, Colonel Comte du Pontavice de Hussey, Captain Ferrie, M. Voiseuet and Captain Fieron, the naval attache from the French Embassy in London.[^ref23]  
+
+Messages in English and French crossed the channel all afternoon.[^ref24] A description of the transmission was given as follows: 
 <br><br>
 “It was interesting to watch the transmission of a message. Until the operator tapped the transmitting key the current was held in check in a short horizontal rod terminating with a brass knob. As soon as contact was made by the depression of the key a thick electric spark rushed with a loud cracking sound from one knob to the other and escaped into space off the pole outside the building, the effect being instantaneously recorded by the receiving instrument on the other side of the Channel.”[^ref25]
 <br><br>
@@ -42,27 +48,24 @@ On the 20 April 1899, Marconi gave a demonstration of wireless telegraphy at the
 
 At the sixty-eighth meeting of the British Association for the Advancement of Science (BAAS) held at Bristol in September 1898, it had been decided to hold the next annual meeting at Dover Town Hall.[^ref33] The week long meeting was held between 13-20 September 1899. On the 16 August 1899, Mr Kemp, one of Marconi’s assistants, set up the wireless telegraphy apparatus at the Town Hall in preparation for the meeting.[^ref34] Tests were made with four lightshipmen who had qualified as first-class operators assisting. Fears of the difficulty of transmitting through rock masses, buildings and other obstacles were allayed by an experiment in non-interference between the Dover Town Hall and the South Foreland. A signalling wire was attached to the 45 feet flagstaff, on the top of the 65 feet Town Hall tower.[^ref35] Professor Fleming who observed the tests reported that "The immense mass of chalk cliff lying between the Town Hall, Dover and the South Foreland, appears to offer not the slightest obstacle to the passage of the ether waves to or from the wire attached to the Town Hall flagstaff.[^ref36]  Ten days later, the newspapers reported that “Signor Marconi has just returned from the naval maneouvres, and is on the eve of leaving for America, but before he goes he is anxious to superintend all the necessary arrangements for his demonstrations at the meeting of the British Association during the week’s meeting.”
 <br><br>
-During the week, English and French scientists were treated to a demonstration of wireless communication between Dover and Wimereux from an aerial on the top of the Maison Dieu.[^ref8] Across the channel, in France, the French Society for the Advancement of Science were meeting at Boulogne, and both societies co-operated together and exchanged courtesies [“Wireless telegraphy.” Western Daily Press - Tuesday 22 August 1899] 
+During the week, English and French scientists were treated to a demonstration of wireless communication between Dover and Wimereux from an aerial on the top of the Maison Dieu.[^ref37] Across the channel, in France, the French Society for the Advancement of Science were meeting at Boulogne, and both societies co-operated together and exchanged courtesies.[^ref38] 
  
-In 1900, he formed Marconi's Wireless Telegraph Ltd.[ODNB]
+In 1900, Marconi formed Marconi's Wireless Telegraph Ltd.[^ref39] The following year, the Royal Navy and Lloyds of London agreed contracts[^ref40] and by December, 36 battleships carried the apparatus. The system was also adopted by the Italian, German and French navies.[^ref41]
+<br><br>
+Despite his successes, Marconi continued to experiment and in 1902, he sailed from Dover on board the Italian cruiser _Carlo Alberto_ which was bound for Kronstadt in order to conduct experiments from the ship to his station in Essex.[^ref42] including testing prototypes of the magnetic detector.[^ref43] By 1903, the Admiralty Marconi stations connected Dover and Dungeness Point[^ref44]
 
-In 1901, the Royal Navy and Lloyds of London agreed contracts with Marconi (Hong) By December of that year, 36 battleships carried the apparatus. The system was also adopted by the Italian, German and French navies.[“A Talk with Mr Marconi.” St James's Gazette - Monday 16 December 1901]
+Marconi's wireless telegraphy continued to have an important role in Channel communication. In 1909, messages recording Louis Bleriot’s flight across the channel were sent by Marconi’s wireless including one from Calais at 4.59:
+<br><br>
+“Bleriot flew with perfect steadiness till out of our sight, not very high above the water. Let us know as soon as you see him” 
+<br><br>
+At 5.52 a reply was sent from Dover “One of our representatives on Shakespeare Cliff saw Bleriot flying. He jumped into a motor car, raced over through Dover and picked him up at the North Foreland Meadow safe and sound. He is now in the Lord Warden Hotel, and has just started breakfast.”[^ref45] It was this year that Marconi won the Nobel Prize for Physics.[^ref46]
 
-In 1902, Marconi left Dover on board the Italian cruiser _Carlo Alberto_ which had been dispatched to England for the Coronation and was bound for Kronstadt. He conducted experiments on board the ship to his station in Essex [“Marconi’s experiments.” Manchester Courier - Wednesday 09 July 1902/ “Marconi’s experiments.” Globe - Saturday 12 July 1902] including testing prototypes of the magnetic detector.[ODNB] 
-
-By 1903, the Admiralty Marconi stations connected Dover and Dungeness Point[^ref9]
-
-In 1909, messages recording Louis Bleriot’s flight across the channel were sent by Marconi’s wireless including one from Calais at 4.59 “Bleriot flew with perfect steadiness till out of our sight, not very high above the water. Let us know as soon as you see him” At 5.52 a reply was sent from Dover “One of our representatives on Shakespeare Cliff saw Bleriot flying. He jumped into a motor car, raced over through Dover and picked him up at the North Foreland Meadow safe and sound. He is now in the Lord Warden Hotel, and has just started breakfast.” [“Another Account.” Sporting Life - Monday 26 July 1909] It was this year that Marconi won the Nobel Prize for Physics.
-
-During the First World War, Marconi served in the Italian navy.[ODNB] 
-
-In May 1925, Marconi visted Dover in his yacht _Elettra_.[^ref1]. [“Marconi at Dover.” Dover Chronicle - Saturday 16 May 1925] He returned again in September, taking part in an experiment of coded signals which was conducted near the Goodwin Sands.[Alan Major "A tale of a man, two lighthouses and a ship." https://bygonekent.org.uk/article/tale-man-two-lighthouses-and-ship/]
+During the First World War, Marconi served in the Italian navy, developing short-wave beam to send secret messages.[^ref47]
+<br><br>
+He returned to Dover in May and September 1925 in his yacht _Elettra_[^ref48],taking part in an experiment of coded signals which was conducted near the Goodwin Sands.[^ref49]
+<br><br>
+Dragoni wrote of his life "The entire world was his experimental laboratory, and he persevered with confidence in the experimental method, though he often struggled against the ‘official’ scientific opinion". His experiments in Dover were only a small but important part of his legacy. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/Elettra.jpg"
-
-
-
-Wireless Telegraphy. | Glasgow Herald | Thursday 30 March 1899 | British Newspaper Archive
-
 
 ### References
 
@@ -102,3 +105,16 @@ Wireless Telegraphy. | Glasgow Herald | Thursday 30 March 1899 | British Newspap
 [^ref34]: “Wireless Telegraphy – The Latest Wonder.” _Staffordshire Advertiser_ 19 August 1899. 
 [^ref35]: Temple, Richard Carnac, Sir._The commercial value of wireless telegraphic communication with the Andaman & Nicobar Islands_ City Press, Calcutta, 1900, p.23.
 [^ref36]: Temple, Richard Carnac, Sir._The commercial value of wireless telegraphic communication with the Andaman & Nicobar Islands_ City Press, Calcutta, 1900, p.23.
+[^ref37]: “Marconi and Dover.” _Dover Express_  23 Jul.1937.
+[^ref38]: “Wireless telegraphy.” _Western Daily Press_, 22 August 1899.
+[^ref39]: Dragoni, Giorgio. "Marconi, Guglielmo (1874–1937), physicist and inventor of wireless transmission." [Oxford Dictionary of National ](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37735).  January 06, 2011. Oxford University Press. Date of access 21 Apr. 2025. 
+[^ref40] Hong
+[^ref41]: “A Talk with Mr Marconi.” _St James's Gazette_ 16 December 1901.
+[^ref42]: “Marconi’s experiments.” _Manchester Courier_, 9 July 1902/ “Marconi’s experiments.” _Globe_ 12 July 1902.
+[^ref43]: Dragoni, Giorgio. "Marconi, Guglielmo (1874–1937), physicist and inventor of wireless transmission." [Oxford Dictionary of National ](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37735).  January 06, 2011. Oxford University Press. Date of access 21 Apr. 2025. 
+[^ref44]: “Marconi and Dover.” _Dover Express_  23 Jul.1937.
+[^ref45]: “Another Account.” _Sporting Life_, 26 July 1909.
+[^ref46]: Dragoni, Giorgio. "Marconi, Guglielmo (1874–1937), physicist and inventor of wireless transmission." [Oxford Dictionary of National ](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37735).  January 06, 2011. Oxford University Press. Date of access 21 Apr. 2025. 
+[^ref47]: Dragoni, Giorgio. "Marconi, Guglielmo (1874–1937), physicist and inventor of wireless transmission." [Oxford Dictionary of National ](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37735).  January 06, 2011. Oxford University Press. Date of access 21 Apr. 2025. 
+[^ref48]: “Marconi at Dover.” _Dover Chronicle_ 16 May 1925.
+[^ref49]: Major, Alan. ["A tale of a man, two lighthouses and a ship."](https://bygonekent.org.uk/article/tale-man-two-lighthouses-and-ship/)
