@@ -59,6 +59,7 @@ Marconi's wireless telegraphy continued to have an important role in Channel com
 “Bleriot flew with perfect steadiness till out of our sight, not very high above the water. Let us know as soon as you see him” 
 <br><br>
 At 5.52 a reply was sent from Dover “One of our representatives on Shakespeare Cliff saw Bleriot flying. He jumped into a motor car, raced over through Dover and picked him up at the North Foreland Meadow safe and sound. He is now in the Lord Warden Hotel, and has just started breakfast.”[^ref45] It was this year that Marconi won the Nobel Prize for Physics.[^ref46]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/20/M._Louis_Bleriot_Flies_by_Aeroplane_from_Calais_to_Dover.jpg" label="Louis Bleriot flies by aeroplane from Calais to Dover" attribution="Unsigned, but dated 25th July 1909 and marked “Copyright DAILY MIRROR”, Public domain, via Wikimedia Commons">
 
 During the First World War, Marconi served in the Italian navy, developing short-wave beam to send secret messages.[^ref47]
 <br><br>
