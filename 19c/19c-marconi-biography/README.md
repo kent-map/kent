@@ -2,10 +2,15 @@
 <param ve-config title="Guglielmo Marconi (1874 –1937)" author="Michelle Crowther" layout="vtl" banner="xxx">
 
 <param ve-entity eid="Q179224" aliases="Dover">
+St Margaret's
+Swingate
+South Foreland Lighthouse
 
 #
 
-Guglielmo Marconi, inventor of wireless telegraphy, moved to Britain from Italy in February 1896.  He was not a stranger to Britain, as he had lived in Bedford with his Irish mother as a child and had British citizenship. Having failed to gain sponsorship from the Italian government to develop his ideas in wireless telegraphy, he travelled to London via Dover to seek funds to convert his experiments into practical use.  Sir Oliver Lodge had previously presented ideas on wireless telegraphy at the British Association for the Advancement of Science in Oxford in 1894 and bitterly complained that Marconi had “evidently got all his ideas” from a book that he had published after his lecture.[^ref1] However, Sungook Hong argues that Lodge’s lecture had nothing to do with telegraphy and that “the image of Lodge as the inventor of wireless telegraphy was deliberately constructed by his friends and by Lodge himself” (26).
+Guglielmo Marconi, inventor of wireless telegraphy, arrived in Britain from Italy on the 2nd February 1896.  He was not a stranger to Britain, as he had lived in Bedford with his Irish mother as a child and had British citizenship. Having failed to gain sponsorship from the Italian government to develop his ideas in wireless telegraphy, he had travelled to London via Dover to seek funds to convert his experiments into practical use.  
+<br><br>
+Sir Oliver Lodge had previously presented ideas on wireless telegraphy at the British Association for the Advancement of Science in Oxford in 1894 and bitterly complained that Marconi had “evidently got all his ideas” from a book that he had published after his lecture.[^ref1] However, Sungook Hong argues that Lodge’s lecture had nothing to do with telegraphy and that “the image of Lodge as the inventor of wireless telegraphy was deliberately constructed by his friends and by Lodge himself” (26). Marconi was granted the first British patent for wireless telegraphy on 2nd July 1896.[Dragoni ODNB] 
 <param ve-image url=”https://upload.wikimedia.org/wikipedia/commons/0/0d/Guglielmo_Marconi.jpg 
 “ label=”  “ attribution=”  “>
 
@@ -17,7 +22,7 @@ In 1897, a team of experts from the Post Office conducted wireless telegraphy ex
 <br><br>
 “In consequence to your letter, my experiments arranged to take place last week at Salisbury were postponed, you having suggested that I had better go to Dover. I now understand that the Post Office people have gone to Dover without me. Mr Gavey having told me in confidence that my presence cannot be permitted. At a board meeting of my company yesterday, much regret was expressed that the experiments at Dover are to be conducted in my absence with apparatus which may not may not be satisfactory.” (Preece 237)
 
-Disappointed that he had been frozen out of the tests at Dover, Marconi formed a private company in 1897, however initial attempts to make contracts with the Royal Navy, Lloyds of London, and the Post Office foundered.[Hong 46] 
+Disappointed that he had been frozen out of the tests at Dover, Marconi formed his own private company, the Wireless Signal and Telegraph Company, on the 20 July 1897 [ODNB], however initial attempts to make contracts with the Royal Navy, Lloyds of London, and the Post Office foundered.[Hong 46] 
 
 On 30 January 1899, Marconi demonstrated his apparatus at the South Foreland Lighthouse to representatives of the public bodies of East Kent and the press, .[^ref4] 
 His apparatus consisted of a 120 ft pole with a wire which was insulated to prevent interference stretched from the top of the pole to a transmitter and receiver in the corner of a little room in the lightkeeper’s house. front part of the engine house. This relayed to apparatus which had been set up at the East Goodwin Lightship, twelve miles away, where an operator was waiting in the cabin of the vessel. [^ref5] 
@@ -25,7 +30,8 @@ His apparatus consisted of a 120 ft pole with a wire which was insulated to prev
 
 The event was arranged by Mr Hobbs of Ramsgate who had campaigned tirelessly for wireless communication between the lightships and the shore. [^ref6]
 On the 17 March 1899 the East Goodwin Lightship sent its first wireless distress signal when _Elbe_, a merchant ship ran aground on the [Goodwin Sands](/19c/19c-goodwin-sands).{^ref7] The [Ramsgate](/19c/19c-ramsgate) lifeboat was called. 
-On 27 March 1899, a communication was sent from the engine house of the South Foreland Lighthouse to Chalet Lartois, Wimereux, France.[^ref7] On the day of the demonstration, the Channel was “enveloped in a thick haze” but despite the weather, “the electric messages flashed across all the same” [“Wireless Telegraphy: Demonstrations Across the Channel – Interview with Marconi.” Glasgow Herald - Thursday 30 March 1899] It was reported that “Meteorological conditions have no effect upon the system. Yesterday and today it has blown very heavily in the Channel, but the signals were received just as sharply as in fine, bright, clear weather. Snow, fog, wind or rain – it is all the same.” [“Wireless Telegraphy: Demonstrations Across the Channel – Interview with Marconi.” Glasgow Herald - Thursday 30 March 1899] The demonstration was keenly observed by the Right Hon. C.T. Ritchie, President of the Board of Trade, [“Mr Ritchie at the South Foreland Lighthouse” Morning Leader - Monday 17 April 1899]  as well as representatives of the French government, Colonel Comte du Pontavice de Hussey, Captain Ferrie, M. Voiseuet and Captain Fieron naval attache from the French Embassy in London. [“Wireless Telegraphy: Demonstrations Across the Channel – Interview with Marconi.” Glasgow Herald - Thursday 30 March 1899] Messages in English and French crossed the channel all afternoon. [“Wireless Telegraphy: Demonstrations Across the Channel – Interview with Marconi.” Glasgow Herald - Thursday 30 March 1899] A description of the transmission was given as follows: 
+
+On 27 March 1899, morse code signals were sent from the engine house of the South Foreland Lighthouse to Chalet Lartois, Wimereux, France, 50 km away.[^ref7] On the day of the demonstration, the Channel was “enveloped in a thick haze” but despite the weather, “the electric messages flashed across all the same” [“Wireless Telegraphy: Demonstrations Across the Channel – Interview with Marconi.” Glasgow Herald - Thursday 30 March 1899] It was reported that “Meteorological conditions have no effect upon the system. Yesterday and today it has blown very heavily in the Channel, but the signals were received just as sharply as in fine, bright, clear weather. Snow, fog, wind or rain – it is all the same.” [“Wireless Telegraphy: Demonstrations Across the Channel – Interview with Marconi.” Glasgow Herald - Thursday 30 March 1899] The demonstration was keenly observed by the Right Hon. C.T. Ritchie, President of the Board of Trade, [“Mr Ritchie at the South Foreland Lighthouse” Morning Leader - Monday 17 April 1899]  as well as representatives of the French government, Colonel Comte du Pontavice de Hussey, Captain Ferrie, M. Voiseuet and Captain Fieron naval attache from the French Embassy in London. [“Wireless Telegraphy: Demonstrations Across the Channel – Interview with Marconi.” Glasgow Herald - Thursday 30 March 1899] Messages in English and French crossed the channel all afternoon. [“Wireless Telegraphy: Demonstrations Across the Channel – Interview with Marconi.” Glasgow Herald - Thursday 30 March 1899] A description of the transmission was given as follows: 
 <br><br>
 “It was interesting to watch the transmission of a message. Until the operator tapped the transmitting key the current was held in check in a short horizontal rod terminating with a brass knob. As soon as contact was made by the depression of the key a thick electric spark rushed with a loud cracking sound from one knob to the other and escaped into space off the pole outside the building, the effect being instantaneously recorded by the receiving instrument on the other side of the Channel.” [“Wireless Telegraphy: Demonstrations Across the Channel – Interview with Marconi.” Glasgow Herald - Thursday 30 March 1899] 
 <br><br>
@@ -41,7 +47,28 @@ On the 20 April 1899, Marconi gave a demonstration of wireless telegraphy at the
 13-20 September Meeting. The 69th annual gathering.
 In September 1899, the British Association for the Advancement of Science met at Dover where English and French scientists were treated to a demonstration of wireless communication between Dover and Wimereux from an aerial on the top of the Maison Dieu.[^ref8] Across the channel, in France, the French Society for the Advancement of Science were meeting at Boulogne, and both societies co-operated together and exchanged courtesies [“Wireless telegraphy.” Western Daily Press - Tuesday 22 August 1899] Marconi was unable to attend as he had a prior commitment in the U.S.A. [“The British Association.” Northern Whig - Thursday 14 September 1899]
 
+In 1900, he formed Marconi's Wireless Telegraph Ltd.[ODNB]
+
+In 1901, the Royal Navy and Lloyds of London agreed contracts with Marconi (Hong) By December of that year, 36 battleships carried the apparatus. The system was also adopted by the Italian, German and French navies.[“A Talk with Mr Marconi.” St James's Gazette - Monday 16 December 1901]
+
+In 1902, Marconi left Dover on board the Italian cruiser _Carlo Alberto_ which had been dispatched to England for the Coronation and was bound for Kronstadt. He conducted experiments on board the ship to his station in Essex.[“Marconi’s experiments.” Manchester Courier - Wednesday 09 July 1902/ “Marconi’s experiments.” Globe - Saturday 12 July 1902] including testing prototypes of the magnetic detector.[ODNB] By 1903, the Admiralty Marconi stations connected Dover and Dungeness Point[^ref9]
+
+In 1909, messages recording Louis Bleriot’s flight across the channel were sent by Marconi’s wireless including one from Calais at 4.59 “Bleriot flew with perfect steadiness till out of our sight, not very high above the water. Let us know as soon as you see him” At 5.52 a reply was sent from Dover “One of our representatives on Shakespeare Cliff saw Bleriot flying. He jumped into a motor car, raced over through Dover and picked him up at the North Foreland Meadow safe and sound. He is now in the Lord Warden Hotel, and has just started breakfast.” [“Another Account.” Sporting Life - Monday 26 July 1909]
+
+In May 1925, Marconi visted Dover in his yacht _Elettra_.[^ref1]. [“Marconi at Dover.” Dover Chronicle - Saturday 16 May 1925] He returned again in September, taking part in an experiment of coded signals which was conducted near the Goodwin Sands.[Alan Major "A tale of a man, two lighthouses and a ship." https://bygonekent.org.uk/article/tale-man-two-lighthouses-and-ship/]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/Elettra.jpg"
+
+
+
+Wireless Telegraphy. | Glasgow Herald | Thursday 30 March 1899 | British Newspaper Archive
+
 ### References
+
+[^ref1]: Autograph letter signed, from Sir Oliver Joseph Lodge to William Thomson. 2 Grove Park, Liverpool. 21 May 1897 Oliver J. Lodge, University of Glasgow, Papers of William Thomson, Lord Kelvin, MS Kelvin A-Z: Correspondence, 21. May 97.
+[^ref2]: Hong, Sungook. _Wireless: From Marconi's Black-Box to the Audion_, MIT Press, 2014.
+
+[^ref2]: “Marconi and Dover.” _Dover Express_  23 Jul.1937.
+
 
 [^ref1]:
 [^ref1]:
