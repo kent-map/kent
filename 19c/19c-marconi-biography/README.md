@@ -18,7 +18,7 @@ In July 1896, Marconi contacted William Preece, Chief Electrician at the Post Of
 <br><br>
 By March 1897, Marconi had succeeded in transmitting over a distance of 4 miles.[^ref6] The scientific world longed to know what exactly Marconi’s “secret box” contained. Lodge bemoaned “the public has been educated by a secret box more than it would have been by many volumes of Philosophical Transactions and Physical Society Proceedings”[^ref7]. 
 
-In September 1897, a team of experts from the Post Office conducted wireless telegraphy experiments with the Royal Engineers at Fort Burgogyne, Dover, under the direction of William Preece and Mr Gavey, the Chief Technical Officer.["Telegraphing without Wires." Weekly Dispatch (London) - Sunday 19 September 1897] The apparatus was placed on a horse-drawn trolley and stations were set up at Swingate and St Margaret’s.[^ref2] Marconi had planned to conduct similar experiments at Salisbury a week later but had been alerted by William Preece that the Post Office planned to conduct the experiments at Dover. He wrote to Preece:
+In September 1897, a team of experts from the Post Office conducted wireless telegraphy experiments with the Royal Engineers at Fort Burgogyne, Dover, under the direction of William Preece and Mr Gavey, the Chief Technical Officer.[^ref8] The apparatus was placed on a horse-drawn trolley and stations were set up at Swingate and St Margaret’s.[^ref2] Marconi had planned to conduct similar experiments at Salisbury a week later but had been alerted by William Preece that the Post Office planned to conduct the experiments at Dover. He wrote to Preece:
 <br><br>
 “In consequence to your letter, my experiments arranged to take place last week at Salisbury were postponed, you having suggested that I had better go to Dover. I now understand that the Post Office people have gone to Dover without me. Mr Gavey having told me in confidence that my presence cannot be permitted. At a board meeting of my company yesterday, much regret was expressed that the experiments at Dover are to be conducted in my absence with apparatus which may not may not be satisfactory.” (Preece 237)
 
@@ -76,6 +76,9 @@ Wireless Telegraphy. | Glasgow Herald | Thursday 30 March 1899 | British Newspap
 [^ref5]: Hong, p.35.
 [^ref6]: Hong, p.39.
 [^ref6]: qtd in Hong p. 39.
+[^ref7]:
+[^ref8]: "Telegraphing without Wires." _Weekly Dispatch_, 19 September 1897.
+
 [^ref2]: “Marconi and Dover.” _Dover Express_  23 Jul.1937.
 
 
