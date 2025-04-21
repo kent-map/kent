@@ -11,9 +11,8 @@
 
 Guglielmo Marconi, inventor of wireless telegraphy, arrived in Britain from Italy on the 2nd February 1896.  He was not a stranger to Britain, as he had lived in Bedford with his Irish mother as a child and had British citizenship. Having failed to gain sponsorship from the Italian government to develop his ideas in wireless telegraphy, he had travelled to London via Dover to seek funds to convert his experiments into practical use.  
 <br><br>
-Physicist, Sir Oliver Lodge had previously presented ideas on wireless telegraphy at the British Association for the Advancement of Science in Oxford in 1894 and bitterly complained that Marconi had “evidently got all his ideas” from a book that he had published after his lecture.[^ref1] However, Sungook Hong argues that Lodge’s lecture had nothing to do with telegraphy and that “the image of Lodge as the inventor of wireless telegraphy was deliberately constructed by his friends and by Lodge himself” (26). Marconi was granted the first British patent for wireless telegraphy on 2nd July 1896.[Dragoni ODNB] 
-<param ve-image url=”https://upload.wikimedia.org/wikipedia/commons/0/0d/Guglielmo_Marconi.jpg 
-“ label=”  “ attribution=”  “>
+Physicist, Sir Oliver Lodge had previously presented ideas on wireless telegraphy at the British Association for the Advancement of Science in Oxford in 1894 and bitterly complained that Marconi had “evidently got all his ideas” from a book that he had published after his lecture.[^ref1] However, Sungook Hong argues that Lodge’s lecture had nothing to do with telegraphy and that “the image of Lodge as the inventor of wireless telegraphy was deliberately constructed by his friends and by Lodge himself”[^ref2]. Marconi was granted the first British patent for wireless telegraphy on 2nd July 1896.[^ref3][Dragoni ODNB] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Guglielmo_Marconi.jpg" label="Guglielmo Marconi" attribution="Pach Brothers, Public domain, via Wikimedia Commons">
 
 In July 1896, Marconi contacted William Preece, Chief Electrician at the Post Office, who was impressed with his ideas. At a meeting at the British Association for the Advancement of Science in September, Preece stated in his lecture that “an Italian had come here with a box giving a quite new system of space telegraphy” (Preece 1896b qtd Hong p. 38). Members of the Association were indignant that Preece had overlooked British work and “taken up an Italian adventurer” (Hong p.38), particularly after Preece offered that the Post Office would give Marconi financial support. 
 <br><br>
@@ -67,12 +66,12 @@ In May 1925, Marconi visted Dover in his yacht _Elettra_.[^ref1]. [“Marconi at
 
 Wireless Telegraphy. | Glasgow Herald | Thursday 30 March 1899 | British Newspaper Archive
 
-Dragoni, Giorgio. "Marconi, Guglielmo (1874–1937), physicist and inventor of wireless transmission." [Oxford Dictionary of National ](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37735).  January 06, 2011. Oxford University Press. Date of access 21 Apr. 2025, 
 
 ### References
 
 [^ref1]: Autograph letter signed, from Sir Oliver Joseph Lodge to William Thomson. 2 Grove Park, Liverpool. 21 May 1897 Oliver J. Lodge, University of Glasgow, Papers of William Thomson, Lord Kelvin, MS Kelvin A-Z: Correspondence, 21. May 97.
-[^ref2]: Hong, Sungook. _Wireless: From Marconi's Black-Box to the Audion_, MIT Press, 2014.
+[^ref2]: Hong, Sungook. _Wireless: From Marconi's Black-Box to the Audion_, MIT Press, 2014, p.26.
+[^ref3]: Dragoni, Giorgio. "Marconi, Guglielmo (1874–1937), physicist and inventor of wireless transmission." [Oxford Dictionary of National ](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37735).  January 06, 2011. Oxford University Press. Date of access 21 Apr. 2025. 
 
 [^ref2]: “Marconi and Dover.” _Dover Express_  23 Jul.1937.
 
