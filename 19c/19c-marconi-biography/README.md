@@ -48,7 +48,7 @@ On the 20 April 1899, Marconi gave a demonstration of wireless telegraphy at the
 
 At the sixty-eighth meeting of the British Association for the Advancement of Science (BAAS) held at Bristol in September 1898, it had been decided to hold the next annual meeting at Dover Town Hall.[^ref33] The week long meeting was held between 13-20 September 1899. On the 16 August 1899, Mr Kemp, one of Marconi’s assistants, set up the wireless telegraphy apparatus at the Town Hall in preparation for the meeting.[^ref34] Tests were made with four lightshipmen who had qualified as first-class operators assisting. Fears of the difficulty of transmitting through rock masses, buildings and other obstacles were allayed by an experiment in non-interference between the Dover Town Hall and the South Foreland. A signalling wire was attached to the 45 feet flagstaff, on the top of the 65 feet Town Hall tower.[^ref35] Professor Fleming who observed the tests reported that "The immense mass of chalk cliff lying between the Town Hall, Dover and the South Foreland, appears to offer not the slightest obstacle to the passage of the ether waves to or from the wire attached to the Town Hall flagstaff.[^ref36]  Ten days later, the newspapers reported that “Signor Marconi has just returned from the naval maneouvres, and is on the eve of leaving for America, but before he goes he is anxious to superintend all the necessary arrangements for his demonstrations at the meeting of the British Association during the week’s meeting.”
 <br><br>
-During the week, English and French scientists were treated to a demonstration of wireless communication between Dover and Wimereux from an aerial on the top of the Maison Dieu.[^ref37] Across the channel, in France, the French Society for the Advancement of Science were meeting at Boulogne, and both societies co-operated together and exchanged courtesies.[^ref38] 
+At the meeting English and French scientists were treated to a demonstration of wireless communication between Dover and Wimereux from an aerial on the top of the Maison Dieu.[^ref37] Across the channel, in France, the French Society for the Advancement of Science were meeting at Boulogne, and both societies co-operated together and exchanged courtesies.[^ref38] 
  
 In 1900, Marconi formed Marconi's Wireless Telegraph Ltd.[^ref39] The following year, the Royal Navy and Lloyds of London agreed contracts[^ref40] and by December, 36 battleships carried the apparatus. The system was also adopted by the Italian, German and French navies.[^ref41]
 <br><br>
@@ -64,7 +64,7 @@ During the First World War, Marconi served in the Italian navy, developing short
 <br><br>
 He returned to Dover in May and September 1925 in his yacht _Elettra_[^ref48],taking part in an experiment of coded signals which was conducted near the Goodwin Sands.[^ref49]
 <br><br>
-Dragoni wrote of his life "The entire world was his experimental laboratory, and he persevered with confidence in the experimental method, though he often struggled against the ‘official’ scientific opinion". His experiments in Dover were only a small but important part of his legacy. 
+Dragoni wrote of his life "The entire world was his experimental laboratory, and he persevered with confidence in the experimental method, though he often struggled against the ‘official’ scientific opinion". He died in Rome in 1937. His experiments in Dover were only a small but important part of his legacy. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/Elettra.jpg"
 
 ### References
