@@ -16,16 +16,15 @@ Physicist, Sir Oliver Lodge had previously presented ideas on wireless telegraph
 
 In July 1896, Marconi contacted William Preece, Chief Electrician at the Post Office, who was impressed with his ideas. At a meeting at the British Association for the Advancement of Science in September, Preece stated in his lecture that “an Italian had come here with a box giving a quite new system of space telegraphy”[^ref4] Members of the Association were indignant that Preece had overlooked British work and “taken up an Italian adventurer”[^ref5], particularly after Preece offered that the Post Office would give Marconi financial support. 
 <br><br>
-By March 1897, Marconi had succeeded in transmitting over a distance of 4 miles.[^ref6] The scientific world longed to know what exactly Marconi’s “secret box” contained. Lodge bemoaned “the public has been educated by a secret box more than it would have been by many volumes of _Philosophical Transactions_ and _Physical Society Proceedings_”[^ref7]. Marconi formed his own private company, the Wireless Signal and Telegraph Company, on the 20 July 1897[^ref12]
+By March 1897, Marconi had succeeded in transmitting over a distance of 4 miles.[^ref6] The scientific world longed to know what exactly Marconi’s “secret box” contained. Lodge bemoaned “the public has been educated by a secret box more than it would have been by many volumes of _Philosophical Transactions_ and _Physical Society Proceedings_”[^ref7]. Marconi formed his own private company, the Wireless Signal and Telegraph Company, on the 20 July 1897[^ref8]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/99/William_Henry_Preece_mca.jpg" label="William Henry Preece" attribution="Archive of the Marconi Company Ltd">
 
-In September 1897, a team of experts from the Post Office conducted wireless telegraphy experiments with the Royal Engineers at Fort Burgogyne, [Dover](/19c/19c-dover), under the direction of William Preece and Mr Gavey, the Chief Technical Officer.[^ref8] The apparatus was placed on a horse-drawn trolley and stations were set up at Swingate and St Margaret’s.[^ref9] Electrical power was taken from the local electricity works and the accumulators were sent down each night to the town to be changed.[^ref10] Marconi had planned to conduct similar experiments at Salisbury a week later but had been alerted by William Preece that the Post Office planned to conduct the experiments at Dover. He wrote to Preece:
+In September 1897, a team of experts from the Post Office conducted wireless telegraphy experiments with the Royal Engineers at Fort Burgogyne, [Dover](/19c/19c-dover), under the direction of William Preece and Mr Gavey, the Chief Technical Officer.[^ref9] The apparatus was placed on a horse-drawn trolley and stations were set up at Swingate and St Margaret’s.[^ref10] Electrical power was taken from the local electricity works and the accumulators were sent down each night to the town to be changed.[^ref11] Marconi had planned to conduct similar experiments at Salisbury a week later but had been alerted by William Preece that the Post Office planned to conduct the experiments at Dover. He wrote to Preece:
 <br><br>
-“In consequence to your letter, my experiments arranged to take place last week at Salisbury were postponed, you having suggested that I had better go to Dover. I now understand that the Post Office people have gone to Dover without me. Mr Gavey having told me in confidence that my presence cannot be permitted. At a board meeting of my company yesterday, much regret was expressed that the experiments at Dover are to be conducted in my absence with apparatus which may or may not be satisfactory.”[^ref11]
-<param ve-map centre="Q5470869" zoom="15">
+“In consequence to your letter, my experiments arranged to take place last week at Salisbury were postponed, you having suggested that I had better go to Dover. I now understand that the Post Office people have gone to Dover without me. Mr Gavey having told me in confidence that my presence cannot be permitted. At a board meeting of my company yesterday, much regret was expressed that the experiments at Dover are to be conducted in my absence with apparatus which may or may not be satisfactory.”[^ref12]
+<param ve-map primary center="Q5470869" zoom="15">
 
-Disappointed that he had been frozen out of the tests at Dover, Marconi, continued with his experiments.
-however initial attempts to make contracts with the Royal Navy, Lloyds of London, and the Post Office foundered.[^ref13]
+Disappointed that he had been frozen out of the tests at Dover, Marconi, continued with his experiments, carrying out a series of tests at La Spezia for the Italian government. However, attempts to make contracts with the Royal Navy, Lloyds of London, and the Post Office foundered.[^ref13]
 <br><br>
 On 30 January 1899, Marconi demonstrated his apparatus at the South Foreland Lighthouse to public officials and the press.[^ref14] His apparatus consisted of a 120 ft pole with a wire which was insulated to prevent interference stretched from the top of the pole to a transmitter and receiver in the corner of a little room in the lightkeeper’s house. This relayed to apparatus which had been set up at the East Goodwin Lightship, twelve miles away, where an operator was waiting in the cabin of the vessel.[^ref15]  The event was arranged by Mr Hobbs of Ramsgate who had campaigned tirelessly for wireless communication between the lightships and the shore. [^ref16]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/South_Foreland_Lighthouse_-_geograph.org.uk_-_2371592.jpg/1280px-South_Foreland_Lighthouse_-_geograph.org.uk_-_2371592.jpg" label="South Foreland Lighthouse" attribution="Colin Smith, CC BY-SA 2.0, via Wikimedia Commons">
@@ -81,11 +80,11 @@ Dragoni wrote of his life "The entire world was his experimental laboratory, and
 [^ref5]: Hong, p.35.
 [^ref6]: Hong, p.39.
 [^ref7]: qtd in Hong, p. 39.
-[^ref8]: "Telegraphing without Wires." _Weekly Dispatch_, 19 September 1897.
-[^ref9]: “Marconi and Dover.” _Dover Express_  23 Jul.1937.
-[^ref10]: "Telegraphing without Wires." _Weekly Dispatch_, 19 September 1897.
-[^ref11]: Baker, Edward Cecil. _Sir William Preece, F.R.S. : Victorian Engineer Extraordinary_. Hutchinson, 1976, p.237.
-[^ref12]: Giorgio. "Marconi, Guglielmo (1874–1937), physicist and inventor of wireless transmission." [Oxford Dictionary of National ](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37735).  January 06, 2011. Oxford University Press. Date of access 21 Apr. 2025. 
+[^ref8]: Giorgio. "Marconi, Guglielmo (1874–1937), physicist and inventor of wireless transmission." [Oxford Dictionary of National ](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-37735).  January 06, 2011. Oxford University Press. Date of access 21 Apr. 2025. 
+[^ref9]: "Telegraphing without Wires." _Weekly Dispatch_, 19 September 1897.
+[^ref10]: “Marconi and Dover.” _Dover Express_  23 Jul.1937.
+[^ref11]: "Telegraphing without Wires." _Weekly Dispatch_, 19 September 1897.
+[^ref12]: Baker, Edward Cecil. _Sir William Preece, F.R.S. : Victorian Engineer Extraordinary_. Hutchinson, 1976, p.237.
 [^ref13]: Hong, p.46.
 [^ref14]: “Marconi and Dover.” _Dover Express_  23 Jul.1937.
 [^ref15]: “Marconi and Dover.” _Dover Express_  23 Jul.1937.
