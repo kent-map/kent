@@ -55,13 +55,13 @@ At the meeting English and French scientists were treated to a demonstration of 
  
 In 1900, Marconi formed Marconi's Wireless Telegraph Ltd.[^ref39] The following year, the Royal Navy and Lloyds of London agreed contracts[^ref40] and by December, 36 battleships carried the apparatus. The system was also adopted by the Italian, German and French navies.[^ref41]
 <br><br>
-Despite his successes, Marconi continued to experiment and in 1902, he sailed from Dover on board the Italian cruiser _Carlo Alberto_ which was bound for Kronstadt in order to conduct experiments from the ship to his station in Essex.[^ref42] including testing prototypes of the magnetic detector.[^ref43] By 1903, the Admiralty Marconi stations connected Dover and Dungeness Point[^ref44]
+Despite his successes, Marconi continued to experiment and in 1902, he sailed from Dover on board the Italian cruiser _Carlo Alberto_ which was bound for Kronstadt in order to conduct experiments from the ship to his station in Essex.[^ref42] including testing prototypes of the magnetic detector.[^ref43] 
 
-Marconi's wireless telegraphy continued to have an important role in Channel communication. In 1909, messages recording Louis Bleriot’s flight across the channel were sent by Marconi’s wireless including one from Calais at 4.59:
+Marconi's wireless telegraphy continued to have an important role in Channel communication and by 1903, the Admiralty Marconi stations connected Dover and Dungeness Point[^ref44]. In 1909, messages recording Louis Bleriot’s flight across the channel were sent by Marconi’s wireless including one from Calais:
 <br><br>
-“Bleriot flew with perfect steadiness till out of our sight, not very high above the water. Let us know as soon as you see him” 
+4.59 Calais: “Bleriot flew with perfect steadiness till out of our sight, not very high above the water. Let us know as soon as you see him” 
 <br><br>
-At 5.52 a reply was sent from Dover “One of our representatives on Shakespeare Cliff saw Bleriot flying. He jumped into a motor car, raced over through Dover and picked him up at the North Foreland Meadow safe and sound. He is now in the Lord Warden Hotel, and has just started breakfast.”[^ref45] It was this year that Marconi won the Nobel Prize for Physics.[^ref46]
+5.52 Dover: “One of our representatives on Shakespeare Cliff saw Bleriot flying. He jumped into a motor car, raced over through Dover and picked him up at the North Foreland Meadow safe and sound. He is now in the Lord Warden Hotel, and has just started breakfast.”[^ref45] It was this year that Marconi won the Nobel Prize for Physics.[^ref46]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/20/M._Louis_Bleriot_Flies_by_Aeroplane_from_Calais_to_Dover.jpg" label="Louis Bleriot flies by aeroplane from Calais to Dover" attribution="Unsigned, but dated 25th July 1909 and marked “Copyright DAILY MIRROR”, Public domain, via Wikimedia Commons">
 
 During the First World War, Marconi served in the Italian navy, developing short-wave beam to send secret messages.[^ref47]
@@ -69,7 +69,7 @@ During the First World War, Marconi served in the Italian navy, developing short
 He returned to Dover in May and September 1925 in his yacht _Elettra_[^ref48],taking part in an experiment of coded signals which was conducted near the Goodwin Sands.[^ref49]
 <br><br>
 Dragoni wrote of his life "The entire world was his experimental laboratory, and he persevered with confidence in the experimental method, though he often struggled against the ‘official’ scientific opinion". He died in Rome in 1937. His experiments in Dover were only a small but important part of his legacy. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/Elettra.jpg"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/Elettra.jpg" label="Elettra by Hadewich.lieckens, CC BY-SA 4.0 via Wikimedia Commons" attribution="Hadwich Lieckens" license="C BY-SA 4.0">
 
 ### References
 
