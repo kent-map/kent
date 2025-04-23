@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Guglielmo Marconi (1874 –1937)" author="Michelle Crowther" layout="vtl" banner="xxx">
+<param ve-config title="Guglielmo Marconi (1874 –1937)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/South_Foreland_Lighthouse%2C_Dover%2C_UK_%2848789267721%29.jpg/2560px-South_Foreland_Lighthouse%2C_Dover%2C_UK_%2848789267721%29.jpg" label="South Foreland Lighthouse, Mustang Joe, CC0, via Wikimedia Commons">
 
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q3495338" aliases="St Margaret's">
