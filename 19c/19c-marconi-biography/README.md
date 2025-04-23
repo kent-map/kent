@@ -54,10 +54,12 @@ By now Marconi was receiving worldwide attention for his invention. On the 20 Ap
 That autumn, the British Association for the Advancement of Science (BAAS) held their annual meeting at Dover Town Hall, where they witnessed a demonstration of wireless telegraphy.[^ref32] On the 16 August 1899, Mr Kemp, one of Marconi’s assistants, set up the wireless telegraphy apparatus at the Town Hall in preparation for the meeting.[^ref33] Tests were made with four lightshipmen who had qualified as first-class operators assisting. Fears of the difficulty of transmitting through rock masses, buildings and other obstacles were allayed by an experiment in non-interference between the Dover Town Hall and the South Foreland. A signalling wire was attached to the 45 feet flagstaff, on the top of the 65 feet Town Hall tower.[^ref34] Professor Fleming who observed the tests reported that:
 <br><br>
 "The immense mass of chalk cliff lying between the Town Hall, Dover and the South Foreland, appears to offer not the slightest obstacle to the passage of the ether waves to or from the wire attached to the Town Hall flagstaff.[^ref35]  
-<br><br>
+<param ve-image url="https://stor.artstor.org/stor/ac441809-6320-4bce-bf42-b16b949de7e7" label="Marconi radio mast at the Maison Dieu" attribution="By kind permission of the Maison Dieu">
+
 Ten days later, the newspapers reported that “Signor Marconi has just returned from the naval maneouvres, and is on the eve of leaving for America, but before he goes he is anxious to superintend all the necessary arrangements for his demonstrations at the meeting of the British Association during the week’s meeting.”
 <br><br>
 At the meeting, English and French scientists were treated to a demonstration of wireless communication between Dover and Wimereux from an aerial on the top of the Maison Dieu.[^ref36] Across the channel, in France, the French Society for the Advancement of Science were meeting at Boulogne, and both societies co-operated together and exchanged courtesies.[^ref37] 
+<param ve-image url="https://stor.artstor.org/stor/8cc244cb-64a8-4f88-b507-49afb1eabe67" label="Marconi radio equipment in Connaught Hall at Dover's Maison Dieu,1899" attribution="By kind permission of the Maison Dieu">
  
 In 1900, Marconi formed Marconi's Wireless Telegraph Ltd.[^ref38] The following year, the Royal Navy and Lloyds of London agreed contracts[^ref39] and by December, 36 battleships carried the apparatus. The system was also adopted by the Italian, German and French navies.[^ref40]
 <br><br>
