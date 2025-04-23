@@ -65,6 +65,7 @@
 [Eliza Lynn Linton](19c-lynn-linton-biography)   
 [John Edensor Littlewood](19c-edensor-littlewood)     
 [Bessie Marchant](19c-marchantb-biography)  
+[Guglielmo Marconi](19c-marconi-biography)   
 [George Meredith](19c-meredith-biography)   
 [Major Alfred Moberly](19c-moberly-biography)   
 [F.F. Montrésor](19c-montresor-biography)   
