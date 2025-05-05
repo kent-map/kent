@@ -100,7 +100,6 @@ Stannard did not draw on the Kent landscape in her fiction. _The Strange Story o
 <!--Basemap centred on Margate -->
 <param ve-map center="Q618045" zoom="12">
 
-<br><br>
 The Stannards did not visit Birchington after this, spending the next few years in Dieppe, a popular beach resort for English writers and artists, including Oscar Wilde and Arthur Symons. There would have been health as well as economic benefits to living in France and the Stannards, who were hit by the economic collapse of several publishers during the Boer War, diversified their business interests to include a toiletry range whilst living here. There is no evidence to suggest that they summered in Kent again. Henrietta died in 1911 and is described as "wife of Arthur Stannard" on her death certificate. His occupation is recorded as engineer, hers as novelist, journalist and business woman are not.
 <br><br>
 This article was published: 23 November 2022.
