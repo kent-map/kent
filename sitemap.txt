@@ -33,6 +33,7 @@ https://www.kent-maps.online/19c/19c-aldington-biography/
 https://www.kent-maps.online/19c/19c-atkins-biography/
 https://www.kent-maps.online/19c/19c-austen-biography/
 https://www.kent-maps.online/19c/19c-austin-biography/
+https://www.kent-maps.online/19c/19c-baron-biography/
 https://www.kent-maps.online/19c/19c-barr-biography/
 https://www.kent-maps.online/19c/19c-bartlett-biography/
 https://www.kent-maps.online/19c/19c-blackmore-biography/
@@ -42,8 +43,10 @@ https://www.kent-maps.online/19c/19c-browne-biography/
 https://www.kent-maps.online/19c/19c-burdett-coutts-biography/
 https://www.kent-maps.online/19c/19c-burges-biography/
 https://www.kent-maps.online/19c/19c-burnand-biography/
+https://www.kent-maps.online/19c/19c-butler-biography/
 https://www.kent-maps.online/19c/19c-canterbury/
 https://www.kent-maps.online/19c/19c-canterbury-free-library/
+https://www.kent-maps.online/19c/19c-canterbury-gaol
 https://www.kent-maps.online/19c/19c-carlyle-biography/
 https://www.kent-maps.online/19c/19c-carrick-biography/
 https://www.kent-maps.online/19c/19c-challacombe-biography/
@@ -53,6 +56,7 @@ https://www.kent-maps.online/19c/19c-collins-biography/
 https://www.kent-maps.online/19c/19c-conan-doyle/
 https://www.kent-maps.online/19c/19c-conrad-biography/
 https://www.kent-maps.online/19c/19c-contagious-diseases/
+https://www.kent-maps.online/19c/19c-convalescent-homes/
 https://www.kent-maps.online/19c/19c-convicts-chatham/
 https://www.kent-maps.online/19c/19c-convicts-maidstone/
 https://www.kent-maps.online/19c/19c-convicts-overview/
@@ -60,6 +64,7 @@ https://www.kent-maps.online/19c/19c-cowden-clarke-biography/
 https://www.kent-maps.online/19c/19c-craik-biography/
 https://www.kent-maps.online/19c/19c-croker-missbalmaine/
 https://www.kent-maps.online/19c/19c-crowe-biography/
+https://www.kent-maps.online/19c/19c-cuffay-biography/
 https://www.kent-maps.online/19c/19c-dadd-biography/
 https://www.kent-maps.online/19c/19c-darwin-biography/
 https://www.kent-maps.online/19c/19c-dover/
@@ -77,8 +82,10 @@ https://www.kent-maps.online/19c/19c-gould-biography/
 https://www.kent-maps.online/19c/19c-grand-biography/
 https://www.kent-maps.online/19c/19c-gravesend/
 https://www.kent-maps.online/19c/19c-grossmith-biography/
+https://www.kent-maps.online/19c/19c-harkness-darkest/
 https://www.kent-maps.online/19c/19c-hemery-biography/
 https://www.kent-maps.online/19c/19c-henty-biography/
+https://www.kent-maps.online/19c/19c-herschel-biography/
 https://www.kent-maps.online/19c/19c-hogarth-ternan
 https://www.kent-maps.online/19c/19c-hoodening/
 https://www.kent-maps.online/19c/19c-hussey-biography/
@@ -88,6 +95,8 @@ https://www.kent-maps.online/19c/19c-jewish-emancipation
 https://www.kent-maps.online/19c/19c-jerrold-biography/
 https://www.kent-maps.online/19c/19c-jordan-biography/
 https://www.kent-maps.online/19c/19c-keats-margate/
+https://www.kent-maps.online/19c/19c-koettlitz-biography/
+https://www.kent-maps.online/19c/19c-lynn-linton-biography/
 https://www.kent-maps.online/19c/19c-marchantb-biography/
 https://www.kent-maps.online/19c/19c-marconi-biography/
 https://www.kent-maps.online/19c/19c-margate/
@@ -103,11 +112,13 @@ https://www.kent-maps.online/19c/19c-ramsgate/
 https://www.kent-maps.online/19c/19c-reynoldsgwm-biography/
 https://www.kent-maps.online/19c/19c-rosherville/
 https://www.kent-maps.online/19c/19c-rossetti-biography/
+https://www.kent-maps.online/19c/19c-ruskin-tunbridge-wells/
 https://www.kent-maps.online/19c/19c-russell-biography/
 https://www.kent-maps.online/19c/19c-sala-biography/
 https://www.kent-maps.online/19c/19c-sambourne-biography/
 https://www.kent-maps.online/19c/19c-seaside/
 https://www.kent-maps.online/19c/19c-shelleym-biography/
+https://www.kent-maps.online/19c/19c-sherlock-holmes/
 https://www.kent-maps.online/19c/19c-shore-biography/
 https://www.kent-maps.online/19c/19c-spicer-jay-biography/
 https://www.kent-maps.online/19c/19c-stanhope-biography/

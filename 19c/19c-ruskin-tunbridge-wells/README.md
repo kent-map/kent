@@ -7,7 +7,7 @@
 <param ve-map center="Q665489" zoom="15">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="xxx" title="Bacon's Tunbridge Wells Map c.1870-1890">
+<param ve-map-layer active allmaps allmaps-id="7c569bcd9d292a49" title="Bacon's Tunbridge Wells Map c.1870-1890">
 
 #
 
