@@ -52,4 +52,4 @@ Evans, Susan. “Glossary of Terms and Abbreviations.” [United States Holocaus
 Krantz, Dave. “The art of war: German WWII officer's map doodles reveal what the rank and file thought of Hitler's plans to invade Britain.” [MailOnline](https://www.dailymail.co.uk/news/article-3239777/The-art-war-German-WWII-officer-s-map-doodles-reveal-rank-file-thought-Hitler-s-plans-invade-Britain.html), 18 Sep 2015.   
 “Wartime Romney Marsh.” [Wartime Folkstone](https://www.wartimefolkestone.co.uk/location-category/wartime-romney-marsh/)   
 “Exploring Kent’s Past.” [Kent County Council](https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE13567).  
-Geekie, Peter. “Romney, Hythe & Dymchurch Railway. The only public miniature railway that went to war.” HubPages, 27 Sep 2016. Romney, Hythe & Dymchurch Railway. The only public miniature railway that went to war. - HubPages   
+Geekie, Peter. “Romney, Hythe & Dymchurch Railway. The only public miniature railway that went to war.” HubPages, 27 Sep 2016.   
