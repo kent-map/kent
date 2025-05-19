@@ -1,12 +1,12 @@
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="Romney Marsh during WWII" author="Lucy Slack" layout="vtl" 
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg">
 
-Romney Marsh (Q1506093) during WWII. 
+<param ve-entity eid="Q26163" aliases="Sandwich">
 
 Situated along the Kent coastline and in close proximity to continental Europe, Romney Marsh was a likely site for enemy invasion during the Second World War – particularly after the German occupation of France and the Dunkirk evacuation in 1940. In response, the Marsh’s rural landscape was adapted for military defence.  
 
- 
-
-Operation Sea Lion 
-
+**Operation Sea Lion**   
 In July 1940, following Britain’s rejection of a proposed peace settlement, Adolf Hitler initiated plans for a full-scale invasion of the United Kingdom. Known as Operation Seelöwe (Sea Lion), this plan aimed to land German forces along the southern coast of England. Romney Marsh, due to its geographical location and flat terrain, was identified as a potential landing site for German troops and equipment.  
 
 (Insert map) 
@@ -23,10 +23,7 @@ Rows of concrete anti-tank blocks, commonly known as “dragon’s teeth,” wer
 
 However, Operation Sea Lion was never launched. The ability for Germany to successfully carry out the invasion was dependent on the Luftwaffe’s ability to gain air superiority over the Royal Air Force (RAF). Control over the British skies ensured German troops safe crossing across the English Channel. The RAF’s resistance during the Battle of Britain ultimately forced Hitler to abandon Operation Sea Lion – changing the course of the war in Western Europe.  
 
- 
-
-Romney, Hythe and Dymchurch Railway (RH&DR) 
-
+**Romney, Hythe and Dymchurch Railway (RH&DR)**   
 Opened in 1927, the Romney Hythe and Dymchurch Railway (RHDR) was a 15-inch gauge steam railway – one-third the size of a standard line. It ran eight miles from Hythe to New Romney. In 1928 the line was extended southward through Greatstone to Dungeness. 
 
 iIn 1940 the railway was requisitioned by the War Department. Due to its strategic location, the RHDR was used to transport troops, ammunition, and equipment along the coastline. The railway became home to the world’s only miniature armoured train.  
@@ -43,20 +40,16 @@ A lesser-known but equally significant aspect of the RHDR’s wartime function w
 
 After the war finished, the RHDR was returned to civilian use. In 1947 it was ceremonially reopened by the famous Laurel and Hardy, however it took several more years for the full line to be restored to pre-war capacity. 
 
- 
-
-Post-war Romney Marsh 
-
+**Post-war Romney Marsh**   
 Remnants of these wartime adaptions still dot the landscape, serving as tangible reminders of the Marsh’s military significance during the Second World War. From pillboxes to the innovative use of the Romney, Hythe and Dymchurch Railway, the Marsh is an example of how rural landscapes were transformed by the pressures of the war and national fears of invasion. 
 
 ### References
 
-Harvey, Ian. “German Maps Reveal Interesting Facts About Operation ‘Sealion’.” War History Online, 26 Dec 2015. https://www.warhistoryonline.com/war-articles/german-maps-reveal-interesting-facts-operationsealion.html   
-“World War Two.” Romney Marsh History. https://romneymarshhistory.co.uk/ww2   
-“Operation Sealion.” Royal Air Force Museum. https://www.rafmuseum.org.uk/research/online-exhibitions/history-of-the-battle-of-britain/operation-sealion/   
-Evans, Susan. “Glossary of Terms and Abbreviations.” United States Holocaust Memorial Museum, 6 Aug 2021. https://www.ushmm.org/m/pdfs/ITS-glossary-terms-abbreviations.pdf   
-Krantz, Dave. “The art of war: German WWII officer's map doodles reveal what the rank and file thought of Hitler's plans to invade Britain.” MailOnline, 18 Sep 2015. https://www.dailymail.co.uk/news/article-3239777/The-art-war-German-WWII-officer-s-map-doodles-reveal-rank-file-thought-Hitler-s-plans-invade-Britain.html   
-“Wartime Romney Marsh.” Wartime Folkstone. https://www.wartimefolkestone.co.uk/location-category/wartime-romney-marsh/
-“Exploring Kent’s Past.” Kent County Council.  
-https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE13567   
+Harvey, Ian. “German Maps Reveal Interesting Facts About Operation ‘Sealion’.” [War History Online](https://www.warhistoryonline.com/war-articles/german-maps-reveal-interesting-facts-operationsealion.html), 26 Dec 2015.  
+“World War Two.” [Romney Marsh History](https://romneymarshhistory.co.uk/ww2)  
+“Operation Sealion.” [Royal Air Force Museum](https://www.rafmuseum.org.uk/research/online-exhibitions/history-of-the-battle-of-britain/operation-sealion/)      
+Evans, Susan. “Glossary of Terms and Abbreviations.” [United States Holocaust Memorial Museum](https://www.ushmm.org/m/pdfs/ITS-glossary-terms-abbreviations.pdf ), 6 Aug 2021.   
+Krantz, Dave. “The art of war: German WWII officer's map doodles reveal what the rank and file thought of Hitler's plans to invade Britain.” [MailOnline](https://www.dailymail.co.uk/news/article-3239777/The-art-war-German-WWII-officer-s-map-doodles-reveal-rank-file-thought-Hitler-s-plans-invade-Britain.html), 18 Sep 2015.   
+“Wartime Romney Marsh.” [Wartime Folkstone](https://www.wartimefolkestone.co.uk/location-category/wartime-romney-marsh/)   
+“Exploring Kent’s Past.” [Kent County Council](https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE13567).  
 Geekie, Peter. “Romney, Hythe & Dymchurch Railway. The only public miniature railway that went to war.” HubPages, 27 Sep 2016. Romney, Hythe & Dymchurch Railway. The only public miniature railway that went to war. - HubPages   
