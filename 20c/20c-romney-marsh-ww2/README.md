@@ -8,8 +8,7 @@ Situated along the Kent coastline and in close proximity to continental Europe, 
 
 **Operation Sea Lion**   
 In July 1940, following Britain’s rejection of a proposed peace settlement, Adolf Hitler initiated plans for a full-scale invasion of the United Kingdom. Known as Operation Seelöwe (Sea Lion), this plan aimed to land German forces along the southern coast of England. Romney Marsh, due to its geographical location and flat terrain, was identified as a potential landing site for German troops and equipment.  
-
-(Insert map) 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/OperationSealion.svg/1208px-OperationSealion.svg.png" label="Operation Sealion" attribution="Wereon, Public domain, via Wikimedia Commons">
 
 This annotated German military map, marked “Geheime Kommandosache” (Top Secret Command Matter), outlines the planned invasion routes of Operation Sea Lion in 1940. Note the proposed landing zones across the Kent coast – including Romney Marsh – and the movement of divisions inland. The arrows indicate the intended direction of German troop advances following a successful beach landing. 
 
@@ -18,6 +17,7 @@ This annotated German military map, marked “Geheime Kommandosache” (Top Secr
 A closer look reveals Romney Marsh as a key landing site in Hitler’s invasion strategy. Over Kent, there is a drawing of a stick figure paratrooper, hinting at the intended use of airborne troops to support the coastal landings. 
 
 To prepare for a possible invasion, thousands of pillboxes were constructed across the Marsh and coastline. These defences were manned by the Local Defence Volunteers – later renamed as the Home Guard – composed of civilians trained to defend their local communities against the German forces.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Pill_Box_Outside_New_Romney_-_geograph.org.uk_-_445218.jpg" label="Pill box outside New Romney" attribution="Simon Carey, CC BY-SA 2.0">
 
 Rows of concrete anti-tank blocks, commonly known as “dragon’s teeth,” were installed to slow down the movement of tanks and vehicles, as vehicles cannot drive through them and therefore had to take alternate routes. Additionally, barbed wire and landmines were laid both across and behind the beaches. There were also contingency plans to flood parts of the Marsh to stop troops and equipment from landing there and advancing further inland. 
 
