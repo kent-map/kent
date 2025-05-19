@@ -48,3 +48,15 @@ After the war finished, the RHDR was returned to civilian use. In 1947 it was ce
 Post-war Romney Marsh 
 
 Remnants of these wartime adaptions still dot the landscape, serving as tangible reminders of the Marsh’s military significance during the Second World War. From pillboxes to the innovative use of the Romney, Hythe and Dymchurch Railway, the Marsh is an example of how rural landscapes were transformed by the pressures of the war and national fears of invasion. 
+
+### References
+
+Harvey, Ian. “German Maps Reveal Interesting Facts About Operation ‘Sealion’.” War History Online, 26 Dec 2015. https://www.warhistoryonline.com/war-articles/german-maps-reveal-interesting-facts-operationsealion.html   
+“World War Two.” Romney Marsh History. https://romneymarshhistory.co.uk/ww2   
+“Operation Sealion.” Royal Air Force Museum. https://www.rafmuseum.org.uk/research/online-exhibitions/history-of-the-battle-of-britain/operation-sealion/   
+Evans, Susan. “Glossary of Terms and Abbreviations.” United States Holocaust Memorial Museum, 6 Aug 2021. https://www.ushmm.org/m/pdfs/ITS-glossary-terms-abbreviations.pdf   
+Krantz, Dave. “The art of war: German WWII officer's map doodles reveal what the rank and file thought of Hitler's plans to invade Britain.” MailOnline, 18 Sep 2015. https://www.dailymail.co.uk/news/article-3239777/The-art-war-German-WWII-officer-s-map-doodles-reveal-rank-file-thought-Hitler-s-plans-invade-Britain.html   
+“Wartime Romney Marsh.” Wartime Folkstone. https://www.wartimefolkestone.co.uk/location-category/wartime-romney-marsh/
+“Exploring Kent’s Past.” Kent County Council.  
+https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE13567   
+Geekie, Peter. “Romney, Hythe & Dymchurch Railway. The only public miniature railway that went to war.” HubPages, 27 Sep 2016. Romney, Hythe & Dymchurch Railway. The only public miniature railway that went to war. - HubPages   
