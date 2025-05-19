@@ -1,0 +1,50 @@
+
+Romney Marsh (Q1506093) during WWII. 
+
+Situated along the Kent coastline and in close proximity to continental Europe, Romney Marsh was a likely site for enemy invasion during the Second World War – particularly after the German occupation of France and the Dunkirk evacuation in 1940. In response, the Marsh’s rural landscape was adapted for military defence.  
+
+ 
+
+Operation Sea Lion 
+
+In July 1940, following Britain’s rejection of a proposed peace settlement, Adolf Hitler initiated plans for a full-scale invasion of the United Kingdom. Known as Operation Seelöwe (Sea Lion), this plan aimed to land German forces along the southern coast of England. Romney Marsh, due to its geographical location and flat terrain, was identified as a potential landing site for German troops and equipment.  
+
+(Insert map) 
+
+This annotated German military map, marked “Geheime Kommandosache” (Top Secret Command Matter), outlines the planned invasion routes of Operation Sea Lion in 1940. Note the proposed landing zones across the Kent coast – including Romney Marsh – and the movement of divisions inland. The arrows indicate the intended direction of German troop advances following a successful beach landing. 
+
+(Insert zoomed in version of map) 
+
+A closer look reveals Romney Marsh as a key landing site in Hitler’s invasion strategy. Over Kent, there is a drawing of a stick figure paratrooper, hinting at the intended use of airborne troops to support the coastal landings. 
+
+To prepare for a possible invasion, thousands of pillboxes were constructed across the Marsh and coastline. These defences were manned by the Local Defence Volunteers – later renamed as the Home Guard – composed of civilians trained to defend their local communities against the German forces.   
+
+Rows of concrete anti-tank blocks, commonly known as “dragon’s teeth,” were installed to slow down the movement of tanks and vehicles, as vehicles cannot drive through them and therefore had to take alternate routes. Additionally, barbed wire and landmines were laid both across and behind the beaches. There were also contingency plans to flood parts of the Marsh to stop troops and equipment from landing there and advancing further inland. 
+
+However, Operation Sea Lion was never launched. The ability for Germany to successfully carry out the invasion was dependent on the Luftwaffe’s ability to gain air superiority over the Royal Air Force (RAF). Control over the British skies ensured German troops safe crossing across the English Channel. The RAF’s resistance during the Battle of Britain ultimately forced Hitler to abandon Operation Sea Lion – changing the course of the war in Western Europe.  
+
+ 
+
+Romney, Hythe and Dymchurch Railway (RH&DR) 
+
+Opened in 1927, the Romney Hythe and Dymchurch Railway (RHDR) was a 15-inch gauge steam railway – one-third the size of a standard line. It ran eight miles from Hythe to New Romney. In 1928 the line was extended southward through Greatstone to Dungeness. 
+
+iIn 1940 the railway was requisitioned by the War Department. Due to its strategic location, the RHDR was used to transport troops, ammunition, and equipment along the coastline. The railway became home to the world’s only miniature armoured train.  
+
+(Insert image of train) 
+
+This train was manned by a driver and six gunners who were armed with Lewis machine guns and Boys anti-tank rifles. It is reputed to have shot down three German aircraft.  
+
+The railway also played a vital role in the construction of PLUTO (Pipe Line Under The Ocean), a top-secret operation, developed by the Department of Petroleum Warfare, to supply fuel from England to the Allied forces following the D-Day landings in Normandy. The pipeline ran from Dungeness and Greatstone under the English Channel to Calais. New Romney station served as a manufacturing site for the pipeline’s 140cm-diameter sections, which were loaded onto flat wagons and transported by rail to Dungeness for assembly. During this period, Captain Howey’s home – which is adjacent to New Romney station – was requisitioned as officers’ quarters, whilst rank-and-file soldiers were accommodated in huts and tents on what is now the station car park. 
+
+The demands of the war took a toll on the railway’s infrastructure. To expedite the PLUTO construction, long sections of pipeline were dragged directly along the railway track bed by bulldozers, causing extensive damage. As a result, the Dungeness extension was reduced to a single track in 1947 – a post-war compromise reflecting the urgency and strain of wartime use. 
+
+A lesser-known but equally significant aspect of the RHDR’s wartime function was the War Department Branch Line, a spur line constructed to transport men and materials to the nearby Sound Mirrors – early warning devices built to detect incoming enemy aircraft. The branch line was closed in 1951. 
+
+After the war finished, the RHDR was returned to civilian use. In 1947 it was ceremonially reopened by the famous Laurel and Hardy, however it took several more years for the full line to be restored to pre-war capacity. 
+
+ 
+
+Post-war Romney Marsh 
+
+Remnants of these wartime adaptions still dot the landscape, serving as tangible reminders of the Marsh’s military significance during the Second World War. From pillboxes to the innovative use of the Romney, Hythe and Dymchurch Railway, the Marsh is an example of how rural landscapes were transformed by the pressures of the war and national fears of invasion. 
