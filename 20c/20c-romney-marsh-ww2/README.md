@@ -4,7 +4,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg">
 
 <param ve-entity eid="Q26163" aliases="Sandwich">
 
-In July 1940, following Britain’s rejection of a proposed peace settlement, Adolf Hitler initiated plans for a full-scale invasion of the United Kingdom. Known as Operation Seelöwe (Sea Lion), the plan was to land German forces along the southern coast of England. Romney Marsh, due to its geographical location and flat terrain, was identified as a potential landing site for German troops and equipment.
+In July 1940, following Britain’s rejection of a proposed peace settlement, Adolf Hitler initiated plans for a full-scale invasion of the United Kingdom. Known as Operation Seelöwe (Sea Lion), the plan aimed to land German forces along the southern coast of England. Romney Marsh, due to its geographical location and flat terrain, was identified as a potential landing site for German troops and equipment.
 <br><br>
 An annotated German military map, marked “Geheime Kommandosache” (Top Secret Command Matter), outlined the planned invasion routes of Operation Sea Lion in 1940, including proposed landing zones across the Kent coast – of which Romney Marsh was one – and the movement of divisions inland. Arrows indicated the intended direction of German troop advances following a successful beach landing. Romney Marsh was a key landing site in Hitler’s invasion strategy.
 <br><br>
