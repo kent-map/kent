@@ -30,7 +30,7 @@ By 1888 the marriage was breaking down, and in 1890 Grand moved to London to pur
 <!--Basemap centred on Ramsgate-->
 <param ve-map center="Q736439" zoom="13">
 
-But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside](/19c/19c-seaside) resorts) where she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. 
+But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside](/19c/19c-seaside) resorts). Sarah Grand, authoress is listed at Grey House, Speldhurst in the 1901 census, later moving to Eardley House in Sevenoaks and again to 10 Grove Hill in Tunbridge Wells. Here too she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. 
 <param ve-image url="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" label="Taking the Waters - the original spring. The Pantiles, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells">
 <!--Basemap centred on Tunbridge Wells-->
 <param ve-map center="Q894097" zoom="13">
@@ -46,7 +46,16 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She tol
 
 ### Bibliography
 
+Births, Marriages and Deaths. _The Globe_. 14 February 1898. 8.
+<br>
+Census 1901. Langton, Tonbridge. 13/75.
+<br>
+Grand, Sarah. Letters to William Heinemann, 1893-1918. Call number MRBC Codex 51.
+<br>
 Hill, Berkeley. ['Statistical Results of the Contagious Diseases Act.'](https://www.jstor.org/stable/pdf/2338849.pdf?refreqid=excelsior%3Aed2e8c490a44370a22979ceafd395737&ab_segments=&origin=&acceptTC=1) _Journal of the Statistical Society of London_. 33:4. December f1870. 463-485.
+<br>
+Jones, Chris. Tunbridge Wells in 1909. Royal Tunbridge Wells Civic Society Local History Group Monograph no. 9.
+--. [_Picturesque Urban Planning - Tunbridge Wells and the Suburban Ideal_]( https://ora.ox.ac.uk/objects/uuid:c0a18799-673c-4a29-b4f4-d3f525deea00). PhD. University of Oxford, 2017.
 <br>
 Kersley, Gillian. _Darling Madame : Sarah Grand and Devoted Friend._ London: Virago, 1983.
 <br>
