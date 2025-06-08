@@ -20,17 +20,17 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and propon
 <!--Basemap centred on Tunbridge Wells-->
 <param ve-map center="Q894097" zoom="12">
 
-Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation, she was denied an education comparable to her brothers, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1871 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in Sandgate: there was a lock hospital in nearby Shorncliffe, where the [Contagious Diseases Act](/19c/19c-contagious-diseases) had come into force in 1868.
+Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation, she was denied an education comparable to her brothers, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1870 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in Sandgate: there was a lock hospital in nearby Shorncliffe, where the [Contagious Diseases Act](/19c/19c-contagious-diseases) had come into force in 1868.
 <param ve-image url="https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg" label="Sarah Grand's passport" attribution="Sarah Grand's passport © International Centre for Victorian Women Writers">
 <!--Basemap centred on Sandgate-->
 <param ve-map center="Q1000312" zoom="13">
 
-By 1888 the marriage had broken down, the catalyst for Grand's move to London and the beginning of her literary career. McFall’s presence pervades the 1890s trilogy _Ideala_ (1888), _The Heavenly Twins_ (1893) and _The Beth Book_ (1897). A vocal opponent of the [Contagious Diseases Acts](/19c/19c-contagious-diseases), Grand transparently draws on her husband’s work at the notorious lock hospitals as well as his support of vivisection, in her portrayal of Dan McClure, the man Beth is coerced into marrying as a young woman. As Beth Sutton-Ramspeck bluntly puts it, ‘her novels portray some of the most unpleasant households in literary history’.[^ref1]  One of the most controversial novels of its time, _The Heavenly Twins_ was published in 1893 by William Heinemann after being turned down by Chapman and Hall's reader [George Meredith](/19c/19c-meredith-biography); it includes an emotive treatment of syphilitic death, attributed to the prevalent belief that young women should remain ‘innocent’ of sexual issues before marriage. Grand is also widely credited with coining the term ‘the New Woman’ in 1894. During this year she was suffering from nervous exhaustion and recuperated in [Ramsgate](/19c/19c-ramsgate) on the orders of her doctor.[^ref1]
+By 1888 the marriage was breaking down, and in 1890 Grand moved to London to pursue her literary career. McFall’s presence pervades the 1890s trilogy _Ideala_ (1888), _The Heavenly Twins_ (1893) and _The Beth Book_ (1897). A vocal opponent of the [Contagious Diseases Acts](/19c/19c-contagious-diseases), Grand transparently draws on her husband’s work at the notorious lock hospitals as well as his support of vivisection, in her portrayal of Dan McClure, the man Beth is coerced into marrying as a young woman. As Beth Sutton-Ramspeck bluntly puts it, ‘her novels portray some of the most unpleasant households in literary history’.[^ref1]  One of the most controversial novels of its time, _The Heavenly Twins_ was published in 1893 by William Heinemann after being turned down by Chapman and Hall's reader [George Meredith](/19c/19c-meredith-biography); it includes an emotive treatment of syphilitic death, attributed to the prevalent belief that young women should remain ‘innocent’ of sexual issues before marriage. Grand is also widely credited with coining the term ‘the New Woman’ in 1894. During this year she was suffering from nervous exhaustion and recuperated in [Ramsgate](/19c/19c-ramsgate) on the orders of her doctor.[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/52/Sarah_Grand_by_Mendelssohn.jpg" label="Sarah Grand by Mendelssohn.jpg" attribution="Hayman Seleg Mendelssohn, Public domain, via Wikimedia Commons">
 <!--Basemap centred on Ramsgate-->
 <param ve-map center="Q736439" zoom="13">
 
-But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside](/19c/19c-seaside) resorts) where she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. 
+But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside](/19c/19c-seaside) resorts). Sarah Grand, authoress is listed at Grey House, Speldhurst in the 1901 census, later moving to Eardley House in Sevenoaks and again to 10 Grove Hill in Tunbridge Wells. Here too she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. 
 <param ve-image url="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" label="Taking the Waters - the original spring. The Pantiles, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells">
 <!--Basemap centred on Tunbridge Wells-->
 <param ve-map center="Q894097" zoom="13">
@@ -46,7 +46,16 @@ Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She tol
 
 ### Bibliography
 
+Births, Marriages and Deaths. _The Globe_. 14 February 1898. 8.
+<br>
+Census 1901. Langton, Tonbridge. 13/75.
+<br>
+Grand, Sarah. Letters to William Heinemann, 1893-1918. Call number MRBC Codex 51.
+<br>
 Hill, Berkeley. ['Statistical Results of the Contagious Diseases Act.'](https://www.jstor.org/stable/pdf/2338849.pdf?refreqid=excelsior%3Aed2e8c490a44370a22979ceafd395737&ab_segments=&origin=&acceptTC=1) _Journal of the Statistical Society of London_. 33:4. December f1870. 463-485.
+<br>
+Jones, Chris. Tunbridge Wells in 1909. Royal Tunbridge Wells Civic Society Local History Group Monograph no. 9.
+--. [_Picturesque Urban Planning - Tunbridge Wells and the Suburban Ideal_]( https://ora.ox.ac.uk/objects/uuid:c0a18799-673c-4a29-b4f4-d3f525deea00). PhD. University of Oxford, 2017.
 <br>
 Kersley, Gillian. _Darling Madame : Sarah Grand and Devoted Friend._ London: Virago, 1983.
 <br>
