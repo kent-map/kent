@@ -32,7 +32,7 @@
 
 #
 
-Place-names (toponyms), whether of towns, villages, individual farms and fields, or of physical features, such as rivers and hills, are imbued with meaning, even when the strict sense (the name’s etymology) might be lost or only partially understood. Names often have regional significance, and even a fictional name, using elements of historic place-names, can conjure a strong sense of place or landscape. As Allen Walker Reedi notes; “[o]ne of the devices used by regional writers is to incorporate into their work the place names that evoke the spirit of their region”.  
+Place-names (toponyms), whether of towns, villages, individual farms and fields, or of physical features, such as rivers and hills, are imbued with meaning, even when the strict sense (the name’s etymology) might be lost or only partially understood. Names often have regional significance, and even a fictional name, using elements of historic place-names, can conjure a strong sense of place or landscape. As Allen Walker Reedi notes; “[o]ne of the devices used by regional writers is to incorporate into their work the place names that evoke the spirit of their region”.[^ref1]  
 <param ve-map center="Q67479626" zoom="10">
 
 Ordnance Survey Maps provide a wonderful resource with which to explore Kent’s place-names and their imaginative potential, or as a means to explore the literary landscapes created by novelists and poets. Trace, for example, the railway along the River Stour that has carved a gap through the chalk downs, and recall the announcement as your train pulls out of Ashford - “Calling at Wye, Chilham, Chartham, and Canterbury West” - rhyme and alliteration create a wonderful poesy of place. Or follow Chaucer’s pilgrims’ passage through Kent, ‘Rouchestre’, ‘Boghtoun under Blee’, ‘Bobbe-up-and-doun Under the Blee’ (Harbledown?), and so to ‘Caunterbury’. 
@@ -71,17 +71,17 @@ Where did she come out of?’ I’ve forgot, Ralph.’
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Dymchurch_beach_-_geograph.org.uk_-_5878827.jpg" label="Dymchurch Beach" attribution="Michael Garlick" icense="CC BY-SA 2.0">
 <param ve-map center="Q1500299" zoom="12">
 
-Both Kaye-Smith's and Kipling’s works celebrate the landscapes (paysii) of Marsh and Weald shared by of Kent and Sussex. These are landscapes produced by centuries of human toil and land use reflected in their place-names, especially across the Weald where settlements ending in ‘hurst’ (OE hyrst = wooded hill) and ‘den’ (OE den = wood pasture) provide a running rhyme of toponyms across the map, and ancient woodlands reveal their links to the iron industry that goes back to Roman times; Forge Wood, Furnace Wood, Hammer Wood. 
+Both Kaye-Smith's and Kipling’s works celebrate the landscapes (pays) of Marsh and Weald shared by of Kent and Sussex.[^ref2] These are landscapes produced by centuries of human toil and land use reflected in their place-names, especially across the Weald where settlements ending in ‘hurst’ (OE hyrst = wooded hill) and ‘den’ (OE den = wood pasture) provide a running rhyme of toponyms across the map, and ancient woodlands reveal their links to the iron industry that goes back to Roman times; Forge Wood, Furnace Wood, Hammer Wood. 
 <param ve-map center="Q1506093" zoom="12">
 
 ### Bibliography 
 
-Gelling, M. (1984) Place-Names in the Landscape. Phoenix Press: London. 
-Gelling, M. (1988) Signposts to the Past: Place-Names and the History of England (2nd Edition). Phillimore: Chichester. 
-Horsley, J. W. (1921) Place Names in Kent, South Eastern Gazette Newspaper Co.: Maidstone Canon J. W. Horsley; Late Vicar of Detling. Available via Project Guteberg - https://www.gutenberg.org/files/63263/63263-h/63263-h.htm 
-Mills. A. D. (1998) The Oxford Dictionary of English Place-Names [OUP: Oxford]   
+Gelling, M. (1984) Place-Names in the Landscape. Phoenix Press: London.   
+Gelling, M. (1988) Signposts to the Past: Place-Names and the History of England (2nd Edition). Phillimore: Chichester.   
+Horsley, J. W. (1921) Place Names in Kent, South Eastern Gazette Newspaper Co.: Maidstone Canon J. W. Horsley; Late Vicar of Detling. Available via [Project Gutenberg](https://www.gutenberg.org/files/63263/63263-h/63263-h.htm)   
+Mills. A. D. (1998) _The Oxford Dictionary of English Place-Names_ OUP: Oxford.     
 
 ### References
 
-[^ref1]: Walker Reed, Allen (1979) "The Evocative Power of Place Names in the Poetry of Carl Sandburg," Literary Onomastics Studies: Vol. 6, Article 3. Available at: http://digitalcommons.brockport.edu/los/vol6/iss1/3
+[^ref1]: Walker Reed, Allen (1979) "The Evocative Power of Place Names in the Poetry of Carl Sandburg," _Literary Onomastics Studies_: Vol. 6, Article 3. Available at: http://digitalcommons.brockport.edu/los/vol6/iss1/3   
 [^ref2]: https://www.kent-maps.online/landscape/kentish-landscapes/
