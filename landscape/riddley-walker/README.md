@@ -17,16 +17,15 @@
 
 #
 
-Kentish place-names – ‘Riddley world’ 
-
-For many authors, real places and placenames offer an opportunity for playful reworking. Hardy’s Wessex is famously full of real places renamed, and characters whose names are drawn from the landscape, Jude Fawley, for instance, grows up in ‘Marygreen’, in reality Great Fawley. The author who most draws our attention to both the authorial and historical malleability Kentish placenames is Russell Hoban, an American who made England his home. His re-namings of places in Riddley Walker are deliberately evocative of a post-apocalyptic Kent in which people, landscapes and even place-names have been twisted: 
-
-“Standing above 'Mr Clevvers Roaling Place', you can see the 'River Sour'. Directly below is 'Widders Dump', further out 'Bernt Arse'. On a clear day, you can glimpse 'Dunk Your Arse'. You will not find these places on an Ordnance Survey map, but, in a sense, they do exist. They are a corruption of contemporary placenames conjured by Russell Hoban in his cult novel Riddley Walker, a tale of a post-apocalypse Kent. They are, in order, the Devil's Kneadingtrough - a dramatic chalk coombe (dry valley), the Stour, the hamlet of Withersdane, Ashford, and Dungeness. Hoban's story is of a world reverted to the Iron Age, written in a degraded language most easily understood if read slowly and aloud.” (Vujakovic, 2017, p.134) 
+For many authors, real places and placenames offer an opportunity for playful reworking. Hardy’s Wessex is famously full of real places renamed, and characters whose names are drawn from the landscape, Jude Fawley, for instance, grows up in ‘Marygreen’, in reality Great Fawley. The author who most draws our attention to both the authorial and historical malleability Kentish placenames is Russell Hoban, an American who made England his home. His re-namings of places in _Riddley Walker_ are deliberately evocative of a post-apocalyptic Kent in which people, landscapes and even place-names have been twisted:
+<br><br>
+“Standing above 'Mr Clevvers Roaling Place', you can see the 'River Sour'. Directly below is 'Widders Dump', further out 'Bernt Arse'. On a clear day, you can glimpse 'Dunk Your Arse'. You will not find these places on an Ordnance Survey map, but, in a sense, they do exist. They are a corruption of contemporary placenames conjured by Russell Hoban in his cult novel _Riddley Walker_, a tale of a post-apocalypse Kent. They are, in order, the Devil's Kneadingtrough - a dramatic chalk coombe (dry valley), the Stour, the hamlet of Withersdane, Ashford, and Dungeness. Hoban's story is of a world reverted to the Iron Age, written in a degraded language most easily understood if read slowly and aloud.” (Vujakovic, 2017, p.134) 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/The_Devil%27s_Kneading_Trough_-_geograph.org.uk_-_3761435.jpg" label="The Devil's Kneading Trough" attribution="Marathon, CC BY-SA 2.0, via Wikimedia Commons">
 
 Hoban’s tale projects us several thousand years into the future and a Kent crawling out of nuclear catastrophe. Riddley, the books eponymous hero, narrates his experiences in a world that resembles the ‘Iron Age’ in terms of technology, economy, landscape and life-style (with similarities to the feudal world of Richard Jefferies, less readable, post-apocalyptic ‘After London’ (1905)). This article focuses on the use of placenames in Hoban’s novel, for a useful introduction to the text see the Twentieth-Anniversary Edition with an introduction by Will Self (see bibliography). 
-
-Riddley provides us with his own hand-drawn map of ‘Inland’, as much of his home region as he knows.  
-
+<br><br>
+Riddley provides us with his own hand-drawn map of ‘Inland’, as much of his home region as he knows. 
+<br><br>
 “THIS HERE IS MOSLY JUS PLACES IVE TOL OF IN THIS WRITING. I DON’T HAVE NO ROOM FOR THE WOAL OF EVERYTHING THERE IS IN INLAND [England?]” 
 
 His toponyms gain authority through cartographic representation – maps are power. His map shows a landscape impacted by sea-level change, the ‘Rivver Sour’ is now a tidal estuary as far inland as ‘Cambry’ (Canterbury), the Isle of Thanet is once again a real island (named the ‘The Ram’ after the town of Ramsgate), and the far tip of Dungeness is cut-off from the mainland (although retains its twentieth-century position and outline, an unlikely outcome after such a period of constant erosion and deposition). This new coastline is, in fact, a return to that of the late Iron Age and Roman eras. 
