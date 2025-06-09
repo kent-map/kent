@@ -1,7 +1,8 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Kentish place-names and the literary imagination’" author="Professor Peter Vujakovic" layout="vtl" banner=" "> 
-  <param ve-entity eid="Q5360119" aliases="Elham Valley">
+
+<param ve-entity eid="Q5360119" aliases="Elham Valley">
 
 #
 
@@ -14,9 +15,9 @@ Ordnance Survey Maps provide a wonderful resource with which to explore Kent’s
 The Kentish toponyms typical of the region, adopted or adapted by writers, originate from various phases of settlement, although most are of ‘Old English’ origin. Some pre-Roman names do exist, more often the names of natural features such as rivers. The Darent, for example, is thought to derive from the Welsh Derw, which the Romans latinized as ‘Derventio’ – “the river where oaks are common".  The county’s own name has an early origin (Roman ‘Cantium’), while a limited number of village and town names are Celtic, for example Penge (pen + ced, ‘wood’s end’), and Dover (from ‘Dubras’ ‘the waters’).   
 
 Whether authors adopt or adapt or simply invent regionally believable names, these add a layer of authenticity to their work. We can imagine so much more richly the journeys, the places inhabited or visited, when an immersive ‘deep geography’ has been created for us. Some authors retain real place-names although these may be ‘mis-placed’ in space – as in the complex geography of Sheila Kaye-Smith's eponymous novel _Joanna Godden_. Set in the Kent-Sussex borderlands of the Romney Marshes, her place-names are locatable on a map, but often jumbled geographically, for example, the location of the farm inherited by Godden is describe thus: 
-
+<br><br>
 Little Ansdore Farm was on Walland Marsh, three miles from Rye, and about midway between the villages of Brodnyx and Pedlinge. It was a sea farm. 
-
+<br><br>
 The farm that identifies with Little Ansdore seems to be either Little or Old Cheyne Court, which do lie about three miles east of Rye, but Brodnyx is a tiny settlement near St Mary in the Marsh some way off, while Pedlinge sits above the marsh near Hythe. Other anomalies occur throughout the text, although the sense of the three Marshes (Romney, Walland, and Denge) is retained. The church that Godden attends is described as at Brodnyx, while its very distinctive feature, discussed in the text, a bell-tower separate from the main church building is in reality that at Brookland (which is more logically the church close to ‘Little Ansdore’. Incidentally, the name Godden has a Kentish connection, Godden Green, a hamlet a mile east of Sevenoaks.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/57/St_Augustine%2C_Brookland-_bell_tower.JPG" label="Brookland bell tower" attribution="Poliphilo, CC0, via Wikimedia Commons">
 
