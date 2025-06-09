@@ -5,16 +5,15 @@
 
 #
 
-Kentish place-names and the literary imagination 
-
 Place-names (toponyms), whether of towns, villages, individual farms and fields, or of physical features, such as rivers and hills, are imbued with meaning, even when the strict sense (the name’s etymology) might be lost or only partially understood. Names often have regional significance, and even a fictional name, using elements of historic place-names, can conjure a strong sense of place or landscape. As Allen Walker Reedi notes; “[o]ne of the devices used by regional writers is to incorporate into their work the place names that evoke the spirit of their region”.  
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a6/A_famous_sign_-_geograph.org.uk_-_5331280.jpg" label="A famous sign" attribution="Marathon" license="CC BY-SA 2.0">
+<param ve-image url="https://stor.artstor.org/stor/b12ebf9a-27c9-4fe0-856d-8ec7e332d268" label="Word CLoud" attribution="Created using the Jason Davies Word Cloud Generator">
 
 Ordnance Survey Maps provide a wonderful resource with which to explore Kent’s place-names and their imaginative potential, or as a means to explore the literary landscapes created by novelists and poets. Trace, for example, the railway along the River Stour that has carved a gap through the chalk downs, and recall the announcement as your train pulls out of Ashford - “Calling at Wye, Chilham, Chartham, and Canterbury West” - rhyme and alliteration create a wonderful poesy of place. Or follow Chaucer’s pilgrims’ passage through Kent, ‘Rouchestre’, ‘Boghtoun under Blee’, ‘Bobbe-up-and-doun Under the Blee’ (Harbledown?), and so to ‘Caunterbury’. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a6/A_famous_sign_-_geograph.org.uk_-_5331280.jpg" label="A famous sign" attribution="Marathon" license="CC BY-SA 2.0">
 
 The Kentish toponyms typical of the region, adopted or adapted by writers, originate from various phases of settlement, although most are of ‘Old English’ origin. Some pre-Roman names do exist, more often the names of natural features such as rivers. The Darent, for example, is thought to derive from the Welsh Derw, which the Romans latinized as ‘Derventio’ – “the river where oaks are common".  The county’s own name has an early origin (Roman ‘Cantium’), while a limited number of village and town names are Celtic, for example Penge (pen + ced, ‘wood’s end’), and Dover (from ‘Dubras’ ‘the waters’).   
 
-Whether authors adopt or adapt or simply invent regionally believable names, these add a layer of authenticity to their work. We can imagine so much more richly the journeys, the places inhabited or visited, when an immersive ‘deep geography’ has been created for us. Some authors retain real place-names although these may be ‘mis-placed’ in space – as in the complex geography of Sheila Kaye-Smith's eponymous novel Joanna Godden. Set in the Kent-Sussex borderlands of the Romney Marshes, her place-names are locatable on a map, but often jumbled geographically, for example, the location of the farm inherited by Godden is describe thus: 
+Whether authors adopt or adapt or simply invent regionally believable names, these add a layer of authenticity to their work. We can imagine so much more richly the journeys, the places inhabited or visited, when an immersive ‘deep geography’ has been created for us. Some authors retain real place-names although these may be ‘mis-placed’ in space – as in the complex geography of Sheila Kaye-Smith's eponymous novel _Joanna Godden_. Set in the Kent-Sussex borderlands of the Romney Marshes, her place-names are locatable on a map, but often jumbled geographically, for example, the location of the farm inherited by Godden is describe thus: 
 
 Little Ansdore Farm was on Walland Marsh, three miles from Rye, and about midway between the villages of Brodnyx and Pedlinge. It was a sea farm. 
 
