@@ -21,6 +21,14 @@ Desire paths are, in the most literal terms, human-made trails created by erosio
 
 Kent is a county of diverse landscapes - inspiring evocations of both rural idyll and horror - from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
 
+## Kentish place-names and the literary imagination
+
+[Kentish place-names and the literary imagination](/landscape/Kentish-place-names)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0604f63f-eada-4bc5-b5a9-b73a3bb72294)
+
+Place-names (toponyms), whether of towns, villages, individual farms and fields, or of physical features, such as rivers and hills, are imbued with meaning, even when the strict sense (the name’s etymology) might be lost or only partially understood. Names often have regional significance, and even a fictional name, using elements of historic place-names, can conjure a strong sense of place or landscape. 
+
 ## Kentish place-names – ‘Riddley world’
 
 [Kentish place-names – ‘Riddley world’](/landscape/riddley-walker)

@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="Kentish place-names and the literary imagination’" author="Professor Peter Vujakovic" layout="vtl" banner="https://stor.artstor.org/stor/0604f63f-eada-4bc5-b5a9-b73a3bb72294"> 
+<param ve-config title="Kentish place-names and the literary imagination" author="Professor Peter Vujakovic" layout="vtl" banner="https://stor.artstor.org/stor/0604f63f-eada-4bc5-b5a9-b73a3bb72294"> 
 
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
 <param ve-entity eid="Q725261" aliases="Ashford">

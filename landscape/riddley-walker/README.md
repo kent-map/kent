@@ -1,6 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="Kentish place-names – ‘Riddley world’" author="Professor Peter Vujakovic" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/68/River_Darent_-_2020-09-27.jpg" attribution="The wub" license="CC BY-SA 4.0">
+<param ve-config title="Kentish place-names – ‘Riddley world’" author="Professor Peter Vujakovic" layout="vtl" banner="https://stor.artstor.org/stor/722ee74c-ffcd-41f4-b25d-668fed8be471" label="Field in August" attribution="Lisa Hawkins">
+
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q725261" aliases="Ashford">
@@ -29,8 +30,9 @@ Riddley provides us with his own hand-drawn map of ‘Inland’, as much of his 
 “THIS HERE IS MOSLY JUS PLACES IVE TOL OF IN THIS WRITING. I DON’T HAVE NO ROOM FOR THE WOAL OF EVERYTHING THERE IS IN INLAND [England?]” 
 
 His toponyms gain authority through cartographic representation – maps are power. His map shows a landscape impacted by sea-level change, the ‘Rivver Sour’ is now a tidal estuary as far inland as ‘Cambry’ (Canterbury), the Isle of Thanet is once again a real island (named the ‘The Ram’ after the town of Ramsgate), and the far tip of Dungeness is cut-off from the mainland (although retains its twentieth-century position and outline, an unlikely outcome after such a period of constant erosion and deposition). This new coastline is, in fact, a return to that of the late Iron Age and Roman eras. 
-
+<br><br>
 Hoban reminds us that place-names should be meaningful and matter, today, sadly, place-names are simply ‘sounds’ to most people, however poetic or linked to a sense of belonging to a place and community. They certainly mattered and had meaning when people first created them. In his novel Riddley’s people have re-imagined names, now cast to represent the new reality on the ground. Today we rarely question the origins of the toponyms on maps or road signs, or in our heads, but by conjuring with place-names Hoban forces us to seek meaning.  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Dungeness_-_view_to_the_NW_from_the_Old_Lighthouse_-_geograph.org.uk_-_2340756.jpg" label="Dungeness view to the NW from the Old Lighthouse" attribution="Ian Cunliffe, CC BY-SA 2.0, via Wikimedia Commons">
 
 Hoban creates the new place-names in a manner that would be meaningful to his characters, hence – ‘Good Mercy’ (Godmersham, (OE) ‘the homestead of Godmaer’) is a place of refuge for Riddley and others. The ‘dead towns’, devastated by war take on sinister, satirical appellations, Ashford becomes ‘Bernt Arse’ and Dover is ‘Do it Over’ while Canterbury ‘Cambry’ is surrounded by land labelled ‘The Barrens’. Others hold personal meaning (Riddley’s map as biography); Withersdane (possibly OE: ‘sheep pasture’) becomes ‘Widders Dump’ – ‘the widow maker’ - here Riddley’s father is crushed to death in front of Riddley while both are involved in excavating iron machinery of a by-gone age. 
 <param ve-map center="Q632173" zoom="15">
