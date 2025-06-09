@@ -174,7 +174,7 @@ It turns out Kent may be a more dangerous place than you realised (at least in t
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/landscapes1.jpg)
 
-Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the bleak, windswept chalklands of East Kent.
+Kent is a county of diverse landscapes, from its wild coastal marshes to the uplands of Down and Weald, from the heavily wooded Blean complex above Canterbury to the windswept chalklands of East Kent.
 
 
 ## Mathematicians and Scientists
