@@ -23,8 +23,10 @@ The demands of the war took a toll on the railway’s infrastructure. To expedit
 A lesser-known but equally significant aspect of the RHDR’s wartime function was the War Department Branch Line, a spur line constructed to transport men and materials to the nearby Sound Mirrors – early warning devices built to detect incoming enemy aircraft. The branch line was closed in 1951.
 <br><br>
 After the war finished, the RHDR was returned to civilian use. In 1947 it was ceremonially reopened by the famous Laurel and Hardy, however it took several more years for the full line to be restored to pre-war capacity. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/24/P9300406.JPG" label="Romeny, Hythe and Dymchurch Railway" attribution="The original uploader was Nvincer at English Wikipedia, via Wikimedia Commons">
 
 Remnants of the Marsh's wartime adaptions still dot the landscape, serving as tangible reminders of the Marsh’s military significance during the Second World War. From pillboxes to the innovative use of the Romney, Hythe and Dymchurch Railway, the Marsh is an example of how rural landscapes were transformed by the pressures of the war and national fears of invasion. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Three_Ages_of_Defence_-_From_%22The_Roughs%22_above_Romney_Marsh_-_geograph.org.uk_-_729865.jpg" label="Three Ages of Defence - The Roughs about Romney Marsh" attribution="John Mavin, CC BY-SA 2.0, via Wikimedia Commons">
 
 ### References
 
@@ -33,6 +35,6 @@ Harvey, Ian. “German Maps Reveal Interesting Facts About Operation ‘Sealion�
 “Operation Sealion.” [Royal Air Force Museum](https://www.rafmuseum.org.uk/research/online-exhibitions/history-of-the-battle-of-britain/operation-sealion/)      
 Evans, Susan. “Glossary of Terms and Abbreviations.” [United States Holocaust Memorial Museum](https://www.ushmm.org/m/pdfs/ITS-glossary-terms-abbreviations.pdf ), 6 Aug 2021.   
 Krantz, Dave. “The art of war: German WWII officer's map doodles reveal what the rank and file thought of Hitler's plans to invade Britain.” [MailOnline](https://www.dailymail.co.uk/news/article-3239777/The-art-war-German-WWII-officer-s-map-doodles-reveal-rank-file-thought-Hitler-s-plans-invade-Britain.html), 18 Sep 2015.   
-“Wartime Romney Marsh.” [Wartime Folkstone](https://www.wartimefolkestone.co.uk/location-category/wartime-romney-marsh/)   
+“Wartime Romney Marsh.” [Wartime Folkestone](https://www.wartimefolkestone.co.uk/location-category/wartime-romney-marsh/)   
 “Exploring Kent’s Past.” [Kent County Council](https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE13567).  
 Geekie, Peter. “Romney, Hythe & Dymchurch Railway. The only public miniature railway that went to war.” HubPages, 27 Sep 2016.   
