@@ -28,6 +28,7 @@ Hoban’s tale projects us several thousand years into the future and a Kent cra
 Riddley provides us with his own hand-drawn map of ‘Inland’, as much of his home region as he knows. 
 <br><br>
 “THIS HERE IS MOSLY JUS PLACES IVE TOL OF IN THIS WRITING. I DON’T HAVE NO ROOM FOR THE WOAL OF EVERYTHING THERE IS IN INLAND [England?]” 
+<param ve-image url="https://stor.artstor.org/stor/dd5d9724-2e6a-4d52-9f74-d5d29db02db6" label="A post-apocalyptic landscape with just blackened trees, rocks and scorched earth" attribution="Firefly AI">
 
 His toponyms gain authority through cartographic representation – maps are power. His map shows a landscape impacted by sea-level change, the ‘Rivver Sour’ is now a tidal estuary as far inland as ‘Cambry’ (Canterbury), the Isle of Thanet is once again a real island (named the ‘The Ram’ after the town of Ramsgate), and the far tip of Dungeness is cut-off from the mainland (although retains its twentieth-century position and outline, an unlikely outcome after such a period of constant erosion and deposition). This new coastline is, in fact, a return to that of the late Iron Age and Roman eras. 
 <br><br>
