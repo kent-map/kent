@@ -71,7 +71,9 @@ Where did she come out of?’ I’ve forgot, Ralph.’
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Dymchurch_beach_-_geograph.org.uk_-_5878827.jpg" label="Dymchurch Beach" attribution="Michael Garlick" icense="CC BY-SA 2.0">
 <param ve-map center="Q2796278" zoom="12">
 
-Both Kaye-Smith's and Kipling’s works celebrate the landscapes (pays) of Marsh and Weald shared by of Kent and Sussex.[^ref2] These are landscapes produced by centuries of human toil and land use reflected in their place-names, especially across the Weald where settlements ending in ‘hurst’ (OE hyrst = wooded hill) and ‘den’ (OE den = wood pasture) provide a running rhyme of toponyms across the map, and ancient woodlands reveal their links to the iron industry that goes back to Roman times; Forge Wood, Furnace Wood, Hammer Wood. 
+Both Kaye-Smith's and Kipling’s works celebrate the landscapes (pays) of Marsh and Weald shared by of Kent and Sussex.[^ref2] These are landscapes produced by centuries of human toil and land use reflected in their place-names, especially across the Weald where settlements ending in ‘hurst’ (OE hyrst = wooded hill) and ‘den’ (OE den = wood pasture) provide a running rhyme of toponyms across the map, and ancient woodlands reveal their links to the iron industry that goes back to Roman times; Forge Wood, Furnace Wood, Hammer Wood.
+<br><br>
+Banner image: ©Lisa Hawkins
 <param ve-map center="Q1506093" zoom="12">
 
 ### Bibliography 

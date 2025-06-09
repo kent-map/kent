@@ -46,6 +46,14 @@ Takes David through Kent and down the Dover Road to find answers to some vital q
 
 ‘Half awake and half asleep, this idle morning in our sunny window on the edge of a chalk-cliff in the old-fashioned Watering-Place to which we are a faithful resorter..'
 
+## Dickens and Canterbury
+
+[Dickens and Canterbury](david-copperfield-canterbury)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dickens-sun-hotel.jpg)
+
+‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day.
+
 ## Dickens and Dover
 
 [Dickens and Dover](dickens-dover)
