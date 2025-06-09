@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="Kentish place-names and the literary imagination’" author="Professor Peter Vujakovic" layout="vtl" banner=" "> 
+<param ve-config title="Kentish place-names and the literary imagination’" author="Professor Peter Vujakovic" layout="vtl" banner="https://stor.artstor.org/stor/0604f63f-eada-4bc5-b5a9-b73a3bb72294"> 
 
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
 <param ve-entity eid="Q725261" aliases="Ashford">
@@ -33,7 +33,7 @@
 #
 
 Place-names (toponyms), whether of towns, villages, individual farms and fields, or of physical features, such as rivers and hills, are imbued with meaning, even when the strict sense (the name’s etymology) might be lost or only partially understood. Names often have regional significance, and even a fictional name, using elements of historic place-names, can conjure a strong sense of place or landscape. As Allen Walker Reedi notes; “[o]ne of the devices used by regional writers is to incorporate into their work the place names that evoke the spirit of their region”.[^ref1]  
-<param ve-map center="Q67479626" zoom="10">
+<param ve-image url="https://stor.artstor.org/stor/7e218701-0f35-4843-86f1-a3965d107e82" label="St Nicholas at Wade, on the path from Potton Street towards Minnis through the Wantsum" attribution="Lisa Hawkins">
 
 Ordnance Survey Maps provide a wonderful resource with which to explore Kent’s place-names and their imaginative potential, or as a means to explore the literary landscapes created by novelists and poets. Trace, for example, the railway along the River Stour that has carved a gap through the chalk downs, and recall the announcement as your train pulls out of Ashford - “Calling at Wye, Chilham, Chartham, and Canterbury West” - rhyme and alliteration create a wonderful poesy of place. Or follow Chaucer’s pilgrims’ passage through Kent, ‘Rouchestre’, ‘Boghtoun under Blee’, ‘Bobbe-up-and-doun Under the Blee’ (Harbledown?), and so to ‘Caunterbury’. 
 <param ve-map center="Q725261" zoom="12">
@@ -69,7 +69,7 @@ Where did she come out of?’ I’ve forgot, Ralph.’
 <br><br>
 ‘Dymchurch under the Wall,’ Hobden answered. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Dymchurch_beach_-_geograph.org.uk_-_5878827.jpg" label="Dymchurch Beach" attribution="Michael Garlick" icense="CC BY-SA 2.0">
-<param ve-map center="Q1500299" zoom="12">
+<param ve-map center="Q2796278" zoom="12">
 
 Both Kaye-Smith's and Kipling’s works celebrate the landscapes (pays) of Marsh and Weald shared by of Kent and Sussex.[^ref2] These are landscapes produced by centuries of human toil and land use reflected in their place-names, especially across the Weald where settlements ending in ‘hurst’ (OE hyrst = wooded hill) and ‘den’ (OE den = wood pasture) provide a running rhyme of toponyms across the map, and ancient woodlands reveal their links to the iron industry that goes back to Roman times; Forge Wood, Furnace Wood, Hammer Wood. 
 <param ve-map center="Q1506093" zoom="12">
