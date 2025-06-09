@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Romney Marsh during WWII" author="Lucy Slack" layout="vtl" 
-banner="https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg">
+banner="https://stor.artstor.org/stor/b91a767a-109e-4a7d-b7c6-980d0f8601a5">
 
 <param ve-entity eid="Q26163" aliases="Sandwich">
 
