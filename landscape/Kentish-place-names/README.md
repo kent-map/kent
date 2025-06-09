@@ -27,17 +27,15 @@
 <param ve-entity eid="Q213180" aliases="Maidstone">
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 <param ve-entity eid="Q2177760" aliases="Brookland">
-<param ve-entity eid="Q5757413" aliases="High Weald">
-<param ve-entity eid="Q1506093" alises="Romney Marsh">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+<param ve-entity eid="Q67479626" aliases="Kent">
 
 #
 
 Place-names (toponyms), whether of towns, villages, individual farms and fields, or of physical features, such as rivers and hills, are imbued with meaning, even when the strict sense (the name’s etymology) might be lost or only partially understood. Names often have regional significance, and even a fictional name, using elements of historic place-names, can conjure a strong sense of place or landscape. As Allen Walker Reedi notes; “[o]ne of the devices used by regional writers is to incorporate into their work the place names that evoke the spirit of their region”.  
-<param ve-image url="https://stor.artstor.org/stor/b12ebf9a-27c9-4fe0-856d-8ec7e332d268" label="Word CLoud" attribution="Created using the Jason Davies Word Cloud Generator">
-<param ve-map center="Q67479626" zoom="12">
+<param ve-map center="Q67479626" zoom="10">
 
 Ordnance Survey Maps provide a wonderful resource with which to explore Kent’s place-names and their imaginative potential, or as a means to explore the literary landscapes created by novelists and poets. Trace, for example, the railway along the River Stour that has carved a gap through the chalk downs, and recall the announcement as your train pulls out of Ashford - “Calling at Wye, Chilham, Chartham, and Canterbury West” - rhyme and alliteration create a wonderful poesy of place. Or follow Chaucer’s pilgrims’ passage through Kent, ‘Rouchestre’, ‘Boghtoun under Blee’, ‘Bobbe-up-and-doun Under the Blee’ (Harbledown?), and so to ‘Caunterbury’. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a6/A_famous_sign_-_geograph.org.uk_-_5331280.jpg" label="A famous sign" attribution="Marathon" license="CC BY-SA 2.0">
 <param ve-map center="Q725261" zoom="12">
 
 The Kentish toponyms typical of the region, adopted or adapted by writers, originate from various phases of settlement, although most are of ‘Old English’ origin. Some pre-Roman names do exist, more often the names of natural features such as rivers. The Darent, for example, is thought to derive from the Welsh Derw, which the Romans latinized as ‘Derventio’ – “the river where oaks are common".  The county’s own name has an early origin (Roman ‘Cantium’), while a limited number of village and town names are Celtic, for example Penge (pen + ced, ‘wood’s end’), and Dover (from ‘Dubras’ ‘the waters’).  
@@ -60,8 +58,7 @@ Charles Dickens famously conjured with toponyms, some tending to the humorous �
 <param ve-map center="Q213180" zoom="12">
 
 Rudyard Kipling’s Puck of Pook’s Hill and its sequel, _Rewards and Fairies_, are concerned with sense of place and belonging. Real places are named (Pevensey, Peasmarsh, Chanctonbury Ring, and Rye), while others are invented. Pook’s Hill (pucu (OE) = goblin, sprite) is probably Perch Hill to the south of ‘Batemans’, Kipling’s house. Kipling transforms his Sussex home and surroundings of into a theatre in which the children in the story, Dan and Una (based on John and Elsie, his children), learn about England, its history and the importance of people and place through encounters with figures from the past magicked up by Puck (‘the oldest Old Thing in England’). Set within the High Weald, the geological backbone running through Sussex and Kent, the narratives range widely from the Saxon manor in their own valley to Africa.  
-<param ve-map center="Q5757413" zoom="12">
-
+<br><br>
 Only one narrative in Puck takes a detour to Kent, to a coastal town which Kipling significantly gives its full and very significant place-name, Dymchurch-under-the-Wall. The story (‘Dymchurch Flit’) describes how ‘The People of the Hills’ (faerie folk) mass at the coast to flee England distressed by the burning of heretics (in turn disturbing the locals). They are helped by two brothers who drown as a consequence but do relieve the tension felt by the human inhabitants of the Marshes - ‘fretty man an’ petty maid, ailin’ woman an’ wailin’ child’ from ‘Bulverhithe to Hithe’ (a large stretch of coast from near Hastings to Hythe in Kent). Dymchurch is a place of peril – a liminal site between sea and low-lying land reclaimed from the sea. It is perched perilously at the edge of the world behind its sea defences, at risk of ‘that the sea ‘ud rear up against Dymchurch Wall an’ they’d be drowned like Old Winchelsea’. The Marsh itself is characterised as a place apart: 
 <br><br>
 ‘Won’erful odd-gates place – Romney Marsh, ‘said Tom Shoesmith. ‘I’ve heard say the world’s divided like into Europe, Ashy, Afriky, Austarly, an’ Romney Marsh.’ 
