@@ -63,6 +63,7 @@ Genuinely puzzled I asked why. Even more incredulous he asked,
 ‘There’s no bloody trains ‘cos there’s no bloody track! All the trees are down, and the lines are shut.’ 
 <br><br>
 The line was cleared enough for me to go back to work I think from the Monday or Tuesday the next week, but parts of the line remained blocked for a lot longer, if I remember correctly.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dd/Teynham_station_platforms_-_geograph.org.uk_-_5428980.jpg" label="Teynham station platforms by Robin Webster, CC BY-SA 2.0, via Wikimedia Commons">
 
 After around 18 months at Canterbury East TEB, I applied for a transfer to Gillingham ticket office in the Medway towns. Starting around April 1989, I spent about a year here selling commuter tickets, season tickets and combined train ticket and entry to Bembom Brothers, Margate, the theme park now known again by its original name, Dreamland. 
 <br><br>
