@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="A Boy of Kent, 1974 – 1989 - Reminiscences of a Railway Worker" author="Adam Baldwin" layout="vtl" banner="https://stor.artstor.org/stor/6e4cd3c3-771e-43b2-a9e8-90384590672d" description="Adam Baldwin recounts his childhood memories and early working life on the Kentish railways.">
+<param ve-config title="A Boy of Kent, 1974 – 1989 - Reminiscences of a Railway Worker" author="Adam Baldwin" layout="vtl" banner="https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f" description="Adam Baldwin recounts his childhood memories and early working life on the Kentish railways.">
 
 <param ve-entity eid="Q179385" aliases="Greenwich">
 <param ve-entity eid="Q1808441" aliases="Strood">
@@ -63,6 +63,7 @@ Genuinely puzzled I asked why. Even more incredulous he asked,
 ‘There’s no bloody trains ‘cos there’s no bloody track! All the trees are down, and the lines are shut.’ 
 <br><br>
 The line was cleared enough for me to go back to work I think from the Monday or Tuesday the next week, but parts of the line remained blocked for a lot longer, if I remember correctly.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dd/Teynham_station_platforms_-_geograph.org.uk_-_5428980.jpg" label="Teynham station platforms by Robin Webster, CC BY-SA 2.0, via Wikimedia Commons">
 
 After around 18 months at Canterbury East TEB, I applied for a transfer to Gillingham ticket office in the Medway towns. Starting around April 1989, I spent about a year here selling commuter tickets, season tickets and combined train ticket and entry to Bembom Brothers, Margate, the theme park now known again by its original name, Dreamland. 
 <br><br>
@@ -77,6 +78,7 @@ After a year or so at Gillingham, I transferred to London’s Victoria station. 
 <br><br>
 I have not returned to live in Kent since and have visited the area just 2 or 3 times since moving away, most recently in 2023 and 2024, when I explored Canterbury, Faversham, and the countryside around Teynham, with its wonderful apple, pear, plum, and cherry orchards, which eventually peter out northwards as you arrive at the coast at the hamlet of Conyer, but seem to continue south for ever. I still feel the need to have fruit trees, and have planted them in every garden I have owned, a little bit of Kent that comes with me, wherever I am.
 <br><br>
+Banner Image: Orchard ©Lisa Hawkins   
 This article was written: August 2024
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Orchard_near_Conyer_-_geograph.org.uk_-_3033781.jpg" label="Orchard near Conyer" attribution="N Chadwick, CC BY-SA 2.0 via Wikimedia Commons">
 
