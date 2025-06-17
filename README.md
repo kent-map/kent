@@ -248,7 +248,7 @@ Famed for its cherries, hops and fruit, organic farming, and the modern day gree
 
 [Transport and Communication](transport)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/transport.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b1/The_story_of_corn_and_the_westward_migration_%281916%29_%2814804315543%29.jpg)
 
 Kent plays a vital transport role, with its railways, ports, cross-Channel ferries, and the Channel Tunnel linking the UK to Europe. 
 
