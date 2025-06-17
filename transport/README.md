@@ -57,7 +57,7 @@ On 30 January 189
 
 [Richborough: The Secret Port](//20c/20c-richborough/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_All_Aboard_the_Hoy.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/seascpae_Richborough_The_Secret_Port.jpg)
 
 The old Roman port of Richborough, at the mouth of the Wantsum channel, was chosen for development during the first world war to transport men and machinery to support the war effort.
 
