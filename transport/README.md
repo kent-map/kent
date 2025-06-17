@@ -45,6 +45,14 @@ Between 1900 and 1962 all traffic on the A2 from London to Dover passed through 
 
 On 30 January 1899, Marconi demonstrated his wireless telegraphy apparatus at the South Foreland Lighthouse, St Margaret’s Bay, transmitting to the East Goodwin Lightship, twelve miles away.
 
+## Mapping the Dover Road: David Copperfield’s journey
+
+[Mapping the Dover Road: David Copperfield’s journey](/dickens/david-copperfield-dover-road/)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_All_Aboard_the_Hoy.jpg)
+
+On 30 January 189
+
 ## Richborough: The Secret Port
 
 [Richborough: The Secret Port](//20c/20c-richborough/)
