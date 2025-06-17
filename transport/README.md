@@ -65,7 +65,7 @@ The old Roman port of Richborough, at the mouth of the Wantsum channel, was chos
 
 [Sir Arthur Conan Doyle (1859-1930)](/19c/19c-conan-doyle/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_Anna_Atkins.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/a8/Portrait_of_Arthur_Conan_Doyle.jpg) 
 
 No fewer than six of the Sherlock Holmes stories involve Kent railway stations.
 
