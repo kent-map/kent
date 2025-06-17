@@ -55,7 +55,7 @@ On 30 January 189
 
 ## Richborough: The Secret Port
 
-[Richborough: The Secret Port](//20c/20c-richborough/)
+[Richborough: The Secret Port](/20c/20c-richborough/)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/seascpae_Richborough_The_Secret_Port.jpg)
 
