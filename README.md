@@ -244,6 +244,14 @@ A county of rich architecture; castles, churches, ports, forts and towers.
 
 Famed for its cherries, hops and fruit, organic farming, and the modern day greenhouses of Thanet Earth, Kent is known as the ‘Garden of England’ due its rich agricultural history.
 
+## Transport and Communication
+
+[Transport and Communication](transport)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/transport.jpg)
+
+Kent plays a vital transport role, with its railways, ports, cross-Channel ferries, and the Channel Tunnel linking the UK to Europe. 
+
 ## War in Kent
 
 [War in Kent](wartime)

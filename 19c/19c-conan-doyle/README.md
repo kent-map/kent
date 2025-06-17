@@ -17,7 +17,6 @@
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map"> 
 
-#
 Arthur Conan Doyle was born in Edinburgh in 1859, the year [Charles Darwin](/19c/19c-darwin-biography) published _On the Origin of Species_, and knighted in 1902. The creator of the world’s most famous detective Sherlock Holmes, Conan Doyle was never fully comfortable with his success as a populist writer. Tellingly his own literary heroes included the notoriously arcane [George Meredith](/19c/19c-meredith-biography): at one point in ‘The Boscombe Valley Mystery’ Holmes says firmly, ‘And now let us talk about George Meredith, if you please, and we shall leave all minor matters until to-morrow.’ 
 <br><br>
 Like both [Dickens](/dickens) and [H. G. Wells](/20c/20c-wellshg-biography), Conan Doyle has strong links to Portsmouth and London, although he moved to Sussex in 1907 when he married his second wife Jean Leckie. His links to Kent are less well-known, although Jean herself had been born in Kidbrooke in 1874.[^ref1]  
