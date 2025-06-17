@@ -1,4 +1,4 @@
-`ve-header title="Transport and Communication" background=gh:kent-map/images/banners/transport .sticky`
+`ve-header title="Transport and Communication" background=gh:kent-map/images/banners/railway .sticky`
 
 The Margate Hoy
 
