@@ -1,6 +1,6 @@
 `ve-header title="Transport and Communication" background=gh:kent-map/images/banners/railway .sticky`
 
-The Margate Hoy
+Kent's transport infrastructure has played a vital role in connecting the UK to the continent, but it hasn't always been plain sailing.
 
 # &nbsp; 
 `.cards`
@@ -8,6 +8,8 @@ The Margate Hoy
 ## A Boy of Kent, 1974 – 1989 - Reminiscences of a Railway Worker
 
 [A Boy of Kent](/20c/20c-a-boy-of-kent/)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_All_Aboard_the_Hoy.jpg)
 
 Adam Baldwin lived opposite Teynham Station and as a child he would be serenaded by the sound of Southern electric trains rumbling past his house. He later joined his father working for the railways.
 
@@ -21,13 +23,17 @@ During the second half of the eighteenth century, one of the most remarked-upon 
 
 ## Canterbury Railways
 
-[Canterbury Railways](
+[Canterbury Railways](/canterbury/20c-canterbury-railway/)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_All_Aboard_the_Hoy.jpg)
 
 The Canterbury and Whitstable Railway, opened on May 3rd 1830, was the world’s first passenger steam railway. It became a branch of the London and South East Railway when in 1846 the main line reached Canterbury.
 
 ## Canterbury Transport
 
-[Canterbury Transport]
+[Canterbury Transport](/canterbury/20c-canterbury-transport/)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_All_Aboard_the_Hoy.jpg)
 
 Between 1900 and 1962 all traffic on the A2 from London to Dover passed through the High Street. At the mid-point of the pedestrianised High Street the 1950s traffic signs, pointing to Dover and Chatham, can still be seen.
 
@@ -35,11 +41,15 @@ Between 1900 and 1962 all traffic on the A2 from London to Dover passed through 
 
 [Guglielmo Marconi](/19c/19c-marconi-biography/)
 
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_All_Aboard_the_Hoy.jpg)
+
 On 30 January 1899, Marconi demonstrated his wireless telegraphy apparatus at the South Foreland Lighthouse, St Margaret’s Bay, transmitting to the East Goodwin Lightship, twelve miles away.
 
 ## Richborough: The Secret Port
 
 [Richborough: The Secret Port](//20c/20c-richborough/)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_All_Aboard_the_Hoy.jpg)
 
 The old Roman port of Richborough, at the mouth of the Wantsum channel, was chosen for development during the first world war to transport men and machinery to support the war effort.
 
