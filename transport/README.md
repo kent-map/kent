@@ -73,7 +73,7 @@ No fewer than six of the Sherlock Holmes stories involve Kent railway stations.
 
 [Staplehurst Railway Disaster 1865](/dickens/dickens-staplehurst/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_Anna_Atkins.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dickens_Dickens_and_the_Staplehurst_Rail_Crash.jpg)
 
 On 9 June 1865, Dickens was travelling back from France with Ellen Ternan and her mother. They had joined the tidal train from Folkestone to Charing Cross and had reached Staplehurst when the train dramatically crashed
 
