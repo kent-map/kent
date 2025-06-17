@@ -49,7 +49,7 @@ On 30 January 1899, Marconi demonstrated his wireless telegraphy apparatus at th
 
 [Mapping the Dover Road: David Copperfield’s journey](/dickens/david-copperfield-dover-road/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_All_Aboard_the_Hoy.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dickens_Leather_and_dust.jpg)
 
 On 30 January 189
 
