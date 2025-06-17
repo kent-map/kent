@@ -5,14 +5,6 @@ Kent's transport infrastructure has played a vital role in connecting the UK to 
 # &nbsp; 
 `.cards`
 
-## A Boy of Kent, 1974 – 1989 - Reminiscences of a Railway Worker
-
-[A Boy of Kent](/20c/20c-a-boy-of-kent/)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnail=https://upload.wikimedia.org/wikipedia/commons/0/08/Charles_Catton_-_The_Margate_Hoy_-_B1977.14.11208_-_Yale_Center_for_British_Art.jpg)
-
-Adam Baldwin lived opposite Teynham Station and as a child he would be serenaded by the sound of Southern electric trains rumbling past his house. He later joined his father working for the railways.
-
 ## All Aboard the Hoy
 
 [All Aboard the Hoy](/18c/18c-all-aboard-the-hoy/)
@@ -51,7 +43,15 @@ On 30 January 1899, Marconi demonstrated his wireless telegraphy apparatus at th
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dickens_Leather_and_dust.jpg)
 
-On 30 January 189
+David Copperfield gives his readers a detailed itinerary but what do we really know about the conditions he would have faced? The Dover Road has been established for quite some time; a well-travelled route it carried trade and workers from the coast to the cities on route to London.
+
+## Reminiscences of a Railway Worker
+
+[A Boy of Kent](/20c/20c-a-boy-of-kent/)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/0d/British_Railways_Mark_1_SK_25446_Interior.JPG)
+
+Adam Baldwin lived opposite Teynham Station and as a child he would be serenaded by the sound of Southern electric trains rumbling past his house. He later joined his father working for the railways.
 
 ## Richborough: The Secret Port
 
@@ -67,7 +67,7 @@ The old Roman port of Richborough, at the mouth of the Wantsum channel, was chos
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/a8/Portrait_of_Arthur_Conan_Doyle.jpg) 
 
-No fewer than six of the Sherlock Holmes stories involve Kent railway stations.
+No fewer than six of the Sherlock Holmes stories involve the Kent railway stations of Chiselhurst, Lewisham, Blackheath, Beckenham, Tonbridge and Chatham.
 
 ## Staplehurst Railway Disaster 1865
 
