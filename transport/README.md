@@ -15,7 +15,7 @@ Adam Baldwin lived opposite Teynham Station and as a child he would be serenaded
 
 [All Aboard the Hoy](/18c/18c-all-aboard-the-hoy/)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/science_Anna_Atkins.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/18c_All_Aboard_the_Hoy.jpg)
 
 During the second half of the eighteenth century, one of the most remarked-upon aspects of holidaying in Margate was the journey from London by hoy. 
 
