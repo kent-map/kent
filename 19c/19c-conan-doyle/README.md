@@ -1,6 +1,6 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
-<param ve-config title="Sir Arthur Conan Doyle (1859-1930)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg" discription="Kent railway stations play crucial roles in several of Sir Arthur Conan Doyle's books. This visual essay further explores Conan Doyle’s connection to the county.">
+<param ve-config title="Sir Arthur Conan Doyle (1859-1930)" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Kent railway stations play crucial roles in several of Sir Arthur Conan Doyle's books. This visual essay further explores Conan Doyle’s connection to the county.">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
