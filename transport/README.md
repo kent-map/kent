@@ -1,4 +1,4 @@
-`ve-header title="Transport and Communication" background=gh:kent-map/images/banners/railway .sticky`
+`ve-header title="Transport and Communication" background=gh:kent-map/images/banners/railway.JPG .sticky`
 
 Kent's transport infrastructure has played a vital role in connecting the UK to the continent, but it hasn't always been plain sailing.
 
