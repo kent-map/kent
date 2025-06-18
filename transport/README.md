@@ -25,7 +25,7 @@ The Canterbury and Whitstable Railway, opened on May 3rd 1830, was the world’s
 
 [Canterbury Transport](/canterbury/20c-canterbury-transport/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b1/The_story_of_corn_and_the_westward_migration_%281916%29_%2814804315543%29.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/a9/Canterbury_Coach_stn.JPG)
 
 Between 1900 and 1962 all traffic on the A2 from London to Dover passed through the High Street. At the mid-point of the pedestrianised High Street the 1950s traffic signs, pointing to Dover and Chatham, can still be seen.
 
@@ -43,7 +43,7 @@ On 30 January 1899, Marconi demonstrated his wireless telegraphy apparatus at th
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dickens_Leather_and_dust.jpg)
 
-David Copperfield gives his readers a detailed itinerary but what do we really know about the conditions he would have faced? The Dover Road has been established for quite some time; a well-travelled route it carried trade and workers from the coast to the cities on route to London.
+David Copperfield gives his readers a detailed itinerary but what do we really know about the conditions he would have faced? The Dover Road has been established for quite some time; a well-travelled route from London via Kentish towns and cities en route to the coast.
 
 ## Reminiscences of a Railway Worker
 
@@ -67,7 +67,7 @@ The old Roman port of Richborough, at the mouth of the Wantsum channel, was chos
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/a8/Portrait_of_Arthur_Conan_Doyle.jpg) 
 
-No fewer than six of the Sherlock Holmes stories involve the Kent railway stations of Chiselhurst, Lewisham, Blackheath, Beckenham, Tonbridge and Chatham.
+No fewer than six of the Sherlock Holmes stories involve Kent railway stations with action taking place at Chiselhurst, Lewisham, Blackheath, Beckenham, Tonbridge and Chatham.
 
 ## Staplehurst Railway Disaster 1865
 
