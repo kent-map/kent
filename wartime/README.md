@@ -53,6 +53,14 @@ The outbreak of war in August 1914 led to a transformation of this genteel resor
 
 Built in secret, the old Roman port of Richborough, was chosen for redevelopment during the first world war to supply the army for its 'last stand'.
 
+## Romney Marsh and World War 2
+
+[Romney Marsh and World War 2](/20c/20c-romney-marsh-ww2)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b9/Romney%2C_Hythe_%26_Dymchurch_Railway_-_6109966657.jpg)
+
+With fears of invasion, Romney Marsh had to defend itself, utilising its miniature railway to transport troop and equipment.
+
 ## Battle of Britain Memorial
 
 [Battle of Britain Memorial](/20c/20c-battle-of-britain-memorial/)
