@@ -57,9 +57,9 @@ Built in secret, the old Roman port of Richborough, was chosen for redevelopment
 
 [Romney Marsh and World War 2](/20c/20c-romney-marsh-ww2]
 
-https://upload.wikimedia.org/wikipedia/commons/b/b9/Romney%2C_Hythe_%26_Dymchurch_Railway_-_6109966657.jpg
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b9/Romney%2C_Hythe_%26_Dymchurch_Railway_-_6109966657.jpg)
 
-With fears of invasion, Romney Marsh had to defend itself, including evacuating its sheep.
+With fears of invasion, Romney Marsh had to defend itself, utilising its miniature railway to transport troop and equipment.
 
 ## Battle of Britain Memorial
 
