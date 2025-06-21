@@ -55,7 +55,7 @@ Built in secret, the old Roman port of Richborough, was chosen for redevelopment
 
 ## Romney Marsh and World War 2
 
-[Romney Marsh and World War 2](/20c/20c-romney-marsh-ww2]
+[Romney Marsh and World War 2](/20c/20c-romney-marsh-ww2)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b9/Romney%2C_Hythe_%26_Dymchurch_Railway_-_6109966657.jpg)
 
