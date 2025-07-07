@@ -10,7 +10,7 @@
 
 #
 
-Installed in the [River Stour](/landscape/literary-stour/) in Canterbury in 2024, Jason de Claires Taylor’s 'Alluvia' sculpture was inspired by Sir John Everett Millais’s celebrated 1852 painting _Ophelia_. 
+Installed in the [River Stour](/landscape/literary-stour/) in Canterbury in 2024, Jason deCaires Taylor’s 'Alluvia' sculpture was inspired by Sir John Everett Millais’s celebrated 1852 painting _Ophelia_. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/21/John_everett_millais%2C_ofelia%2C_1851-52%2C_01.jpg" label="Ophelia" attribution="John Everett Millais, via Wikimedia Commons" license="CC BY 3.0">
 
 Taylor’s installations are created using low carbon, PH-neutral materials to provide habitat for marine life and, in turn, help to rebuild ecosystems. They also divert tourists away from particularly fragile spots in hopes of providing some breathing room for restoration. 
@@ -23,10 +23,10 @@ In Taylor’s own words, ‘the marine life completes the sculpture's’. He exp
 'Alluvia' has gained a range of responses and, like many of Taylor’s works, sparked controversy. Some suggested that Alluvia evokes suicide or even migrant deaths in the English Channel, a subject which Taylor says, ‘certainly deserves more empathy and attention’. However, the artist has clarified that his intention is “not to divide”, but to welcome thoughtful questions and interpretations. 
 <br><br>
 Taylor has also highlighted the need to acknowledge mankind’s fragility compared to the natural world. Like _the_ Ophelia, 'Alluvia' is completely at the mercy of nature yet also one with water – a duality that is tragically beautiful. 
-<param ve-image url="https://stor.artstor.org/stor/baa2763f-cb65-4c0e-b2fb-a4ea0a7837fa" label="Jason de Claires Taylor">
+<param ve-image url="https://stor.artstor.org/stor/baa2763f-cb65-4c0e-b2fb-a4ea0a7837fa" label="Jason deCaires Taylor">
 
 ### Bibliography 
-[Jason de Claires Taylor](https://underwatersculpture.com/): sculptor’s website   
+[Jason deCaires Taylor](https://underwatersculpture.com/): sculptor’s website   
 
 ### References
 
