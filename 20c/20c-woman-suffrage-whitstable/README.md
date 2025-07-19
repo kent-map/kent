@@ -1,6 +1,10 @@
-Women’s Suffrage and Whitstable
+<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<param ve-config title="Woman's Suffrage and Whitstable" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/5/5d/John_Fraser_%281858-1927%29_-_Low_Tide%2C_Whitstable_Harbour%2C_Kent_-_CANWH-1989.2_-_Canterbury_Museums_and_Galleries.jpg" label="John Fraser, Low Tide, Whitstable Harbour, Kent - CANWH-1989.2 - Canterbury Museums and Galleries" attribution="John Fraser, Public domain, via Wikimedia Commons" description="Michelle Crowther discusses the woman's suffrage movement in Whitstable">
 
-banner="https://upload.wikimedia.org/wikipedia/commons/5/5d/John_Fraser_%281858-1927%29_-_Low_Tide%2C_Whitstable_Harbour%2C_Kent_-_CANWH-1989.2_-_Canterbury_Museums_and_Galleries.jpg" label="John Fraser, Low Tide, Whitstable Harbour, Kent - CANWH-1989.2 - Canterbury Museums and Galleries" attribution="John Fraser, Public domain, via Wikimedia Commons">
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="121dee41dae035be" title="Bartholomew Kent 1919">
+
+#
 
 On Friday 18 September, 1908, a green wooden caravan painted with
 the words ‘Votes for Women’ and ‘Women’s suffrage’ rumbled into Whitstable. The
