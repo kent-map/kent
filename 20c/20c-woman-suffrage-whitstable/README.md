@@ -30,6 +30,7 @@ After three weeks in the town, Gertrude Wilkinson’s cottage Belrapar was adver
 
 Shortly after this time, a Conservative Women’s movement was established in Whitstable in 1910 by women who supported women’s suffrage. Mrs Fynn recalled meeting at the house of Mrs H.K. Daniels, where an ex-officio Ladies’ Advisory Committee was established to promote the Conservative cause.[^ref17] However, the “quiet serenity” of Whitstable was not
 greatly disturbed by militant suffragism over the next few years and the Whitstable carnivals continued to parody the suffragettes, although they now they included a Suffragettes Band.[^ref18]
+<param ve-image url="https://stor.artstor.org/stor/cc8a3415-e232-4db4-8a21-98b6d9539b2a" label="Harbour Street, Whitstable" attribution="Kent Maps Online Collection">
 
 By 1913 however the mood was changing and in May the newspapers reported a “Suffragette bomb hoax” outside the Limes, the home of the liberal M.P. Mr Lang. A small tin, packed with string, shavings, paraffin and mud was labelled with the threatening words 'Worse to follow'.[^ref19] It was brushed off as a practical joke, however after a summer of
 suffragette bombing campaigns across the country, the fear surrounding the affair was palpable.
