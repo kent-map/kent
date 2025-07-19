@@ -2,7 +2,7 @@ Women’s Suffrage and Whitstable
 
 On Friday 18 September, 1908, a green wooden caravan painted with
 the words ‘Votes for Women’ and ‘Women’s suffrage’ rumbled into Whitstable. The
-Women’s Freedom League (W.F.L) caravan, which had been on the road since May, stayed until the following Tuesday.[^ref1] This is the first recorded visit of a women’s suffrage group to the seaside town.
+Women’s Freedom League (W.F.L) caravan stayed until the following Tuesday.[^ref1] This is the first recorded visit of a women’s suffrage group to the town.
 
 The following summer, Rose Lamartine Yates, Gertrude Wilkinson and Margaret Barry arrived in Whitstable as part of a ‘holiday campaign’ conducted by the Women’s Social and Political Union (W.S.P.U). On arrival, Rose Yates erected the distinctive purple, green and white flag of the W.S.P.U. from the roof of her cottage at Preston Parade, Seasalter, placing a notice outside announcing meetings.[^ref2]
 
@@ -30,7 +30,7 @@ meeting, which attracted an audience of several hundred, was held at The Cross w
 
 In the same month, the Women’s Freedom League (W.F.L) launched another holiday campaign in Kent, starting this time from their headquarters at 37, Claire Road, Tankerton.[^ref21] Speakers for the cause included Mary Katherine Trott, Mrs Merivale Mayer, Miss Underwood and Miss F. Taylor who held daily meetings on ‘The Lawn’. Two evening meetings were also held in Whitstable on the 25th and 28th .[^ref22] Katherine Trott, the spirited 24- year old organiser of the meetings, wrote that the women 'made a number of friends among the fishermen' who bought copies of the W.F.L’s newspaper. Two weeks later, on the 30th July, the W.F.L campaign moved to Herne Bay but returned to Tankerton in August when Miss Nina Boyle addressed an audience.[^ref24]
 
-With the arrival of the first world war, Whitstable women became involved with the wareffort and agitating for suffrage was suspended. Mr Todhunter reporting to the War Cabinet Committee on Women in Industry said that “the towns down the coast from Whitstable to Ramsgate were being subjected to air raids pretty frequently, and as a result there was an
+With the arrival of the First World War, Whitstable women became involved with the war effort and agitating for suffrage was suspended. Mr Todhunter reporting to the War Cabinet Committee on Women in Industry said that “the towns down the coast from Whitstable to Ramsgate were being subjected to air raids pretty frequently, and as a result there was an
 exodus of women from these towns to the factories.” Greta Woodman recalled that her father employed women to do munition work for factories at Harty Ferry and Uplees, making cordite trays. Cordite was a nitro-based explosive made into &#39;cords&#39; or fibres which was then laid on perforated zinc trays. Packing the cordite trays into boxes was boring,
 repetitive work. 
 
