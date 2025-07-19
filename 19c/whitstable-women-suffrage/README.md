@@ -15,64 +15,27 @@ their speeches. Wilkinson recited suffrage poems written by the American poet, C
 On Saturday 4th September 1909, a perfect but still day, a procession of women set off from Whitstable Town Station towards Tankerton Hotel where a 'large and very orderly' suffrage meeting was held during the annual Whitstable regatta.[^ref8] It was an audacious act at such a public event. With 5,000 spectators and the committee boat moored just to the eastward of the hotel, Rose Yates and Gertrude Wilkinson had chosen a prime location. As the restless crowd, watched and waited for the sailing to commence on the becalmed sea, the suffragettes gave speeches. The carnival which followed the regatta included a parody of the movement as 'Bundock’s suffragettes: Mrs and Miss Pancake' (a pun on Pankhurst) joined the procession.[^ref9]
 
 After the meeting Yates received several enquiries about future meetings and had to put out a call for additional
-speakers from neighbouring towns to assist her.[^ref10] At least two further unannounced meetings were held in the streets.[^ref11] Another suffragette, Miss Marion Gibson, branded one of the 'shrieking sisterhood', and noted for setting up street corner meetings also arrived in Whitstable that summer.[^ref12]
+speakers from neighbouring towns to assist her.[^ref10] At least two further unannounced meetings were held in the streets.[^ref11] Another suffragette, Marion Gibson, branded one of the 'shrieking sisterhood', and noted for setting up street corner meetings also arrived in Whitstable that summer.[^ref12]
 
-After three weeks in the town, Gertrude Wilkinson’s cottage Belrapar was advertised as a six-months let and she and Rose Yates returned to London.[^ref13] The holiday campaign was over. Nevertheless, the suffrage spirit may have lived on as the ‘Votes for women’ magazine continued to be sold in Whitstable newsagents.[^ref14] Rose Yates returned to Whitstable in 1911 staying at her holiday home in the spring.[^ref15] She continued to own the cottage on Allan Road until at least 1917.[^ref16]
+After three weeks in the town, Gertrude Wilkinson’s cottage Belrapar was advertised as a six-months let and she and Rose Yates returned to London.[^ref13] The holiday campaign was over. Nevertheless, the suffrage spirit may have lived on as the _Votes for Women_ magazine continued to be sold in Whitstable newsagents.[^ref14] Rose Yates returned to Whitstable in 1911 staying at her holiday home in the spring.[^ref15] She continued to own the cottage on Allan Road until at least 1917.[^ref16]
 
-Shortly after this time, a Conservative Women’s movement was established in Whitstable in
-1910 by women who supported women’s suffrage. Mrs Fynn recalled meeting at the house
-of Mrs H.K. Daniels, where an ex-officio Ladies’ Advisory Committee was established to
-promote the Conservative cause.[^ref17] However, the “quiet serenity” of Whitstable was not
-greatly disturbed by militant suffragism over the next few years and the Whitstable carnivals
-continued to parody the suffragettes, although they now they included a Suffragettes
-Band.[^ref18]
+Shortly after this time, a Conservative Women’s movement was established in Whitstable in 1910 by women who supported women’s suffrage. Mrs Fynn recalled meeting at the house of Mrs H.K. Daniels, where an ex-officio Ladies’ Advisory Committee was established to promote the Conservative cause.[^ref17] However, the “quiet serenity” of Whitstable was not
+greatly disturbed by militant suffragism over the next few years and the Whitstable carnivals continued to parody the suffragettes, although they now they included a Suffragettes Band.[^ref18]
 
-By 1913 however the mood was changing and in May the newspapers reported a
-“Suffragette bomb hoax” outside the Limes, the home of the liberal M.P. Mr Lang. A small
-tin, packed with string, shavings, paraffin and mud was labelled with the threatening words
-'Worse to follow'.[^ref19] It was brushed off as a practical joke, however after a summer of
-suffragette bombing campaigns across the country, the fear surrounding the affair was
-palpable.
+By 1913 however the mood was changing and in May the newspapers reported a “Suffragette bomb hoax” outside the Limes, the home of the liberal M.P. Mr Lang. A small tin, packed with string, shavings, paraffin and mud was labelled with the threatening words 'Worse to follow'.[^ref19] It was brushed off as a practical joke, however after a summer of
+suffragette bombing campaigns across the country, the fear surrounding the affair was palpable.
 
-It was not until July 1913 that the residents of Whitstable received another visit from the
-NUWSS, when supporters marched through Tankerton and Whitstable. An open-air
-meeting, which attracted an audience of several hundred, was held at The Cross where Mr
-Lang gave a speech in support of women’s suffrage. The meeting was marred when the
-speakers’ carriage was pelted with missiles as it left. A sign that not everyone was ready for
-women’s suffrage.[^ref20]
+It was not until July 1913 that the residents of Whitstable received another visit. This time from the National Union of Women's Suffrage Societies (N.U.W.S.S), whose supporters marched through Tankerton and Whitstable. An open-air
+meeting, which attracted an audience of several hundred, was held at The Cross where Mr Lang gave a speech in support of women’s suffrage. The meeting was marred when the speakers’ carriage was pelted with missiles as it left. A sign that not everyone was ready for women’s suffrage.[^ref20]
 
-In the same month, the Women’s Freedom League (W.F.L) launched another holiday
-campaign in Kent, starting this time from their headquarters at 37, Claire Road, Tankerton.[^ref21]
-Speakers for the cause included Mary Katherine Trott, Mrs Merivale Mayer, Miss
-Underwood and Miss F. Taylor who held daily meetings on ‘The Lawn’. Two evening
-meetings were also held in Whitstable on the 25th and 28th .[^ref22] Katherine Trott, the spirited 24-
-year old organiser of the meetings, wrote that the women 'made a number of friends
-among the fishermen' who bought copies of the WFL’s newspaper.
+In the same month, the Women’s Freedom League (W.F.L) launched another holiday campaign in Kent, starting this time from their headquarters at 37, Claire Road, Tankerton.[^ref21] Speakers for the cause included Mary Katherine Trott, Mrs Merivale Mayer, Miss Underwood and Miss F. Taylor who held daily meetings on ‘The Lawn’. Two evening meetings were also held in Whitstable on the 25th and 28th .[^ref22] Katherine Trott, the spirited 24- year old organiser of the meetings, wrote that the women 'made a number of friends among the fishermen' who bought copies of the W.F.L’s newspaper. Two weeks later, on the 30th July, the W.F.L campaign moved to Herne Bay but returned to Tankerton in August when Miss Nina Boyle addressed an audience.[^ref24]
 
-None of the speakers at this time were local, but women who had travelled from other parts
-of the country to take part in the campaign. Katherine Trott was a teacher from Cheshire.[^ref23]
-Two weeks later, on the 30th July, the WFL campaign moved to Herne Bay but returned to
-Tankerton in August when Miss Nina Boyle addressed an audience.[^ref24]
-
-With the arrival of the first world war, Whitstable women became involved with the war
-effort and agitating for suffrage was suspended. Mr Todhunter reporting to the War Cabinet
-Committee on Women in Industry said that “the towns down the coast from Whitstable to
-Ramsgate were being subjected to air raids pretty frequently, and as a result there was an
-exodus of women from these towns to the factories.” 27 Greta Woodman recalled that her
-father employed women to do munition work for factories at Harty Ferry and Uplees,
-making cordite trays. Cordite was a nitro-based explosive made into &#39;cords&#39; or fibres which
-was then laid on perforated zinc trays. Packing the cordite trays into boxes was boring,
+With the arrival of the first world war, Whitstable women became involved with the wareffort and agitating for suffrage was suspended. Mr Todhunter reporting to the War Cabinet Committee on Women in Industry said that “the towns down the coast from Whitstable to Ramsgate were being subjected to air raids pretty frequently, and as a result there was an
+exodus of women from these towns to the factories.” Greta Woodman recalled that her father employed women to do munition work for factories at Harty Ferry and Uplees, making cordite trays. Cordite was a nitro-based explosive made into &#39;cords&#39; or fibres which was then laid on perforated zinc trays. Packing the cordite trays into boxes was boring,
 repetitive work. 
 
-After the war, women’s suffrage was back on the political agenda and women over 30 got to
-vote in their first UK election in December 1918. It was the first general election in 8 years.
-There were around 3,000 names on the new register in Whitstable but only 1,600 voted as
-many men were still away in the Navy or Army or on naval reserve. The outstanding feature
-of the election, according to the _Whitstable Times and Herne Bay Herald_ was “the large
-number of women voters who exercised their franchise privilege for the first time.” 29 How
-much this was down to the work of visiting women such as Rose Lamartine Yates, Gertrude
-Wilkinson and Margaret Barry, or local women like Mrs Fynn and Mrs Daniels, we will never
-know, but we can rejoice in the fact that Whitstable knew them.
+After the war, women’s suffrage was back on the political agenda and women over 30 got to vote in their first UK election in December 1918. It was the first general election in 8 years. There were around 3,000 names on the new register in Whitstable but only 1,600 voted as many men were still away in the Navy or Army or on naval reserve. The outstanding feature
+of the election, according to the _Whitstable Times and Herne Bay Herald_ was “the large number of women voters who exercised their franchise privilege for the first time.” 29 
 
 ### References
 
