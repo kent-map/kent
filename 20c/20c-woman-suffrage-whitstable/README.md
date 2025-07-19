@@ -9,20 +9,20 @@
 On Friday 18 September, 1908, a green wooden caravan painted with
 the words ‘Votes for Women’ and ‘Women’s suffrage’ rumbled into Whitstable. The
 Women’s Freedom League (W.F.L) caravan stayed until the following Tuesday.[^ref1] This is the first recorded visit of a women’s suffrage group to the town.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Women%27s_Freedom_League_suffrage_caravan%2C_1908.jpg" label="Women's Freedom League suffrage caravan at Chichester, 1908" attribution="LSE Library, No restrictions, via Wikimedia Commons">
-
+<br><br>
 The following summer, Rose Lamartine Yates, Gertrude Wilkinson and Margaret Barry arrived in Whitstable as part of a ‘holiday campaign’ conducted by the Women’s Social and Political Union (W.S.P.U). On arrival, Rose Yates erected the distinctive purple, green and white flag of the W.S.P.U. from the roof of her cottage at Preston Parade, Seasalter, placing a notice outside announcing meetings.[^ref2]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Suffragette_Rose_Lamartine_Yates_1909._Blathwayt%2C_Col_Linley.jpg" label="Rose Lamartine Yates c. 1909" attribution="Colonel Linley Blathwayt, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Women%27s_Freedom_League_suffrage_caravan%2C_1908.jpg" label="Women's Freedom League suffrage caravan at Chichester, 1908" attribution="LSE Library, No restrictions, via Wikimedia Commons">
 
 Things did not start well for the women and at an open-air meeting on West Cliff the three women fell victim to some rough treatment from the ‘lowest elements’ .[^ref3] In a letter to the editor of the _Canterbury
 Journal_, Gertrude Wilkinson and Rose Lamartine Yates wrote: 'We persisted as long as it was humanly possible, but when dastardly attempts at personal injury to the speaker were indulged in, it became perilous to life to continue.'[^ref4] A commentator in the _Whitstable Times_ earlier that year had described suffragettes as “riff-raff” revealing the mood of some members of the town. The newspaper bragged that whatever the suffragettes could achieve in other parts of the country 'Kent was more than they could handle.'[^ref5]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Suffragette_Rose_Lamartine_Yates_1909._Blathwayt%2C_Col_Linley.jpg" label="Rose Lamartine Yates c. 1909" attribution="Colonel Linley Blathwayt, Public domain, via Wikimedia Commons">
 
 Undeterred, Yates and Wilkinson continued to hold ‘at homes’ and invite women to listen to
 their speeches. Wilkinson recited suffrage poems written by the American poet, Charlotte Perkins Gilman and Yates spoke of her stay in Holloway prison after her arrest for obstruction in 1909. Posters were displayed in newsagents, and the determined women paraded along the streets of Whitstable with W.S.P.U flags and wearing sashes.[^ref7] They also gave open-air speeches in the high street to the passing townsfolk. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gertrude_Wilkinson_et_al.jpg" label="Whitstable suffragettes - Miss Barry, Rose Lamantine Yates and Gertrude Wilkinson" attribution="London Museum via Wikimedia Commons">
 
 On Saturday 4th September 1909, a perfect but still day, a procession of women set off from Whitstable Town Station towards Tankerton Hotel where a 'large and very orderly' suffrage meeting was held during the annual Whitstable regatta.[^ref8] It was an audacious act at such a public event. With 5,000 spectators and the committee boat moored just to the eastward of the hotel, Rose Yates and Gertrude Wilkinson had chosen a prime location. As the restless crowd, watched and waited for the sailing to commence on the becalmed sea, the suffragettes gave speeches. The carnival which followed the regatta included a parody of the movement as 'Bundock’s suffragettes: Mrs and Miss Pancake' (a pun on Pankhurst) joined the procession.[^ref9]
-
+<br><br>
 After the meeting Yates received several enquiries about future meetings and had to put out a call for additional
 speakers from neighbouring towns to assist her.[^ref10] At least two further unannounced meetings were held in the streets.[^ref11] Another suffragette, Marion Gibson, branded one of the 'shrieking sisterhood', and noted for setting up street corner meetings also arrived in Whitstable that summer.[^ref12]
 
