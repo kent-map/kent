@@ -3,6 +3,7 @@ Women’s Suffrage and Whitstable
 On Friday 18 September, 1908, a green wooden caravan painted with
 the words ‘Votes for Women’ and ‘Women’s suffrage’ rumbled into Whitstable. The
 Women’s Freedom League (W.F.L) caravan stayed until the following Tuesday.[^ref1] This is the first recorded visit of a women’s suffrage group to the town.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Women%27s_Freedom_League_suffrage_caravan%2C_1908.jpg" label="Women's Freedom League suffrage caravan at Chichester, 1908" attribution="LSE Library, No restrictions, via Wikimedia Commons">
 
 The following summer, Rose Lamartine Yates, Gertrude Wilkinson and Margaret Barry arrived in Whitstable as part of a ‘holiday campaign’ conducted by the Women’s Social and Political Union (W.S.P.U). On arrival, Rose Yates erected the distinctive purple, green and white flag of the W.S.P.U. from the roof of her cottage at Preston Parade, Seasalter, placing a notice outside announcing meetings.[^ref2]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Suffragette_Rose_Lamartine_Yates_1909._Blathwayt%2C_Col_Linley.jpg" label="Rose Lamartine Yates c. 1909" attribution="Colonel Linley Blathwayt, Public domain, via Wikimedia Commons">
