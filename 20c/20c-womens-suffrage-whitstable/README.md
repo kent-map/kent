@@ -29,10 +29,10 @@ After three weeks in the town, Gertrude Wilkinson’s cottage Belrapar was adver
 Shortly after this time, a Conservative Women’s movement was established in Whitstable in 1910 by women who supported women’s suffrage. Mrs Fynn recalled meeting at the house of Mrs H.K. Daniels, where an ex-officio Ladies’ Advisory Committee was established to promote the Conservative cause.[^ref16] However, the “quiet serenity” of Whitstable was not
 greatly disturbed by militant suffragism over the next few years and the Whitstable carnivals continued to parody the suffragettes, although they now they included a Suffragette Band.[^ref17]
 <param ve-image url="https://stor.artstor.org/stor/cc8a3415-e232-4db4-8a21-98b6d9539b2a" label="Harbour Street, Whitstable" attribution="Kent Maps Online Collection">
-<br><br>
+
 By 1913, the mood was changing and in May the newspapers reported a “Suffragette bomb hoax” outside the Limes, the home of the liberal M.P. Mr Lang. A small tin, packed with string, shavings, paraffin and mud was labelled with the threatening words 'Worse to follow'.[^ref18] It was brushed off as a practical joke, however after a summer of
 suffragette bombing campaigns across the country, the fear surrounding the affair was palpable.
-
+<br><br>
 It was not until July 1913 that the residents of Whitstable received another visit. This time from the National Union of Women's Suffrage Societies (N.U.W.S.S), whose supporters marched through Tankerton and Whitstable. An open-air
 meeting, which attracted an audience of several hundred, was held at The Cross where Mr Lang gave a speech in support of women’s suffrage. The meeting was marred when the speakers’ carriage was pelted with missiles as it left. A sign that not everyone was ready for women’s suffrage.[^ref19]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/Duke_of_Cumberland_Hotel%2C_Whitstable_-_geograph.org.uk_-_2564119.jpg" label="The Cross, Duke of Cumberland Hotel, Whitstable" attribution="Richard Gadsby, CC BY-SA 2.0, via Wikimedia Commons" license="CC BY-SA 2.0">
@@ -44,6 +44,7 @@ With the arrival of the First World War, Whitstable women became involved with t
 exodus of women from these towns to the factories.”[^ref23] 
 <br><br>
 After the war, women’s suffrage was back on the political agenda and women over 30 got to vote in their first UK election in December 1918. It was the first general election in 8 years. There were around 3,000 names on the new register in Whitstable but only 1,600 voted as many men were still away in the Navy or Army or on naval reserve. The outstanding feature of the election, according to the _Whitstable Times and Herne Bay Herald_ was “the large number of women voters who exercised their franchise privilege for the first time.”[^ref24]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Votes_for_Women_1d_Wanted_Everywhere%21_%2814995272740%29.jpg" label="Votes for Women Wanted Everywhere" attribution="Hilda Dallas, Schlesinger Library, RIAS, Harvard University, No restrictions, via Wikimedia Commons">
 
 ### References
 
