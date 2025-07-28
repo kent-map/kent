@@ -24,7 +24,7 @@ On Saturday 4th September 1909, a perfect but still day, a procession of women s
 After the meeting Yates received several enquiries about future meetings and had to put out a call for additional
 speakers from neighbouring towns to assist her.[^ref9] At least two further unannounced meetings were held in the streets.[^ref10] Another suffragette, Marion Gibson, branded one of the 'shrieking sisterhood', and noted for setting up street corner meetings also arrived in Whitstable that summer.[^ref11]
 <br><br>
-After three weeks in the town, Gertrude Wilkinson’s cottage Belrapar was advertised as a six-months let and she and Rose Yates returned to London.[^ref12] The holiday campaign was over. Nevertheless, the suffrage spirit may have lived on as the _Votes for Women_ magazine continued to be sold in Whitstable newsagents.[^ref13] Rose Yates returned to Whitstable in 1911 staying at her holiday home in the spring.[^ref14] She continued to own the cottage on Allan Road until at least 1917.[^ref15]
+After three weeks in the town, Gertrude Wilkinson’s cottage Belrapar was advertised as a six-months let and she and Rose Yates returned to London.[^ref12] The holiday campaign was over. Nevertheless, the suffrage spirit may have lived on as the _Votes for Women_ magazine continued to be sold in Whitstable newsagents.[^ref13] Rose Yates returned to Whitstable in 1911 staying at her holiday home in the spring where she spoiled the census. She wrote on it "Till votes for women, no census. So long as women are arbitrarily excluded from Franchise Acts, they must exclude themselves from the Census Act". The census enumerator noted "On Friday, March 31/11 I handed this schedule to Mrs R.L. Yates and her husband was with her. She is rated in my rate book as occupier. I found this schedule tied to the front door on Monday morning April 3/11. I have reason to believe they were both in occupation for the week end the house was empty of the flag taken down when I called. Mr Yates is a barrister".  [^ref14] Rose continued to own the cottage on Allan Road until at least 1917.[^ref15]
 
 Shortly after this time, a Conservative Women’s movement was established in Whitstable in 1910 by women who supported women’s suffrage. Mrs Fynn recalled meeting at the house of Mrs H.K. Daniels, where an ex-officio Ladies’ Advisory Committee was established to promote the Conservative cause.[^ref16] However, the “quiet serenity” of Whitstable was not
 greatly disturbed by militant suffragism over the next few years and the Whitstable carnivals continued to parody the suffragettes, although they now they included a Suffragette Band.[^ref17]
@@ -61,7 +61,7 @@ After the war, women’s suffrage was back on the political agenda and women ove
 [^ref11]: Betty Jerman, ‘In the beginning: Miss Bigmore recalls her days in the headlines’, _Times_, 23 August 1968, 13.
 [^ref12]: _Votes for Women_, September 17, 1909, 1170.
 [^ref13]: _Votes for Women_, September 17, 1909, 1187.
-[^ref14]: 1911 Census
+[^ref14]: 1911 Census, NUmber of Schedule 142.
 [^ref15]: _Canterbury and District Directory, 1917-18_. (Kent: Garnett, Mepham and Fisher Ltd)
 [^ref16]: _The Whitstable Times and Tankerton Press_, January 30, 1937, 3.
 [^ref17]: _Whitstable Times and Herne Bay Herald_, Saturday 24 August 1912, 5.
@@ -72,7 +72,3 @@ After the war, women’s suffrage was back on the political agenda and women ove
 [^ref22]: _The Vote_, July 18, 1913, 201, quoted in Godfrey, 205.
 [^ref23]: _War Cabinet Committee on Women in Industry_, S.52.
 [^ref24]: _Whitstable Times and Herne Bay Herald_, December 21, 1918.
-
-[^ref24]: Jennifer Godfrey, _Suffragettes of Kent_. (Yorkshire: Pen and Sword Books Ltd, 2019), 205-6.
-[^ref25]: _The Whitstable Times and Tankerton Press_, June 7, 1913, 8.
-[^ref26]: _The Whitstable and Herne Bay Herald_, July 5, 1913, 7.
