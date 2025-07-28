@@ -24,26 +24,25 @@ On Saturday 4th September 1909, a perfect but still day, a procession of women s
 After the meeting Yates received several enquiries about future meetings and had to put out a call for additional
 speakers from neighbouring towns to assist her.[^ref9] At least two further unannounced meetings were held in the streets.[^ref10] Another suffragette, Marion Gibson, branded one of the 'shrieking sisterhood', and noted for setting up street corner meetings also arrived in Whitstable that summer.[^ref11]
 <br><br>
-After three weeks in the town, Gertrude Wilkinson’s cottage Belrapar was advertised as a six-months let and she and Rose Yates returned to London.[^ref12] The holiday campaign was over. Nevertheless, the suffrage spirit may have lived on as the _Votes for Women_ magazine continued to be sold in Whitstable newsagents.[^ref13] Rose Yates returned to Whitstable in 1911 staying at her holiday home in the spring where she spoiled the census. She wrote on it "Till votes for women, no census. So long as women are arbitrarily excluded from Franchise Acts, they must exclude themselves from the Census Act". The census enumerator noted "On Friday, March 31/11 I handed this schedule to Mrs R.L. Yates and her husband was with her. She is rated in my rate book as occupier. I found this schedule tied to the front door on Monday morning April 3/11. I have reason to believe they were both in occupation for the week end the house was empty of the flag taken down when I called. Mr Yates is a barrister".  [^ref14] Rose continued to own the cottage on Allan Road until at least 1917.[^ref15]
+After three weeks in the town, Gertrude Wilkinson’s cottage Belrapar was advertised as a six-months let and she and Rose Yates returned to London.[^ref12] The holiday campaign was over. Nevertheless, the suffrage spirit may have lived on as the _Votes for Women_ magazine continued to be sold in Whitstable newsagents.[^ref13] Rose Yates returned in 1911 staying at her holiday home, the Cottage, Seasalter, where she spoiled the census. She wrote on it "Till votes for women, no census. So long as women are arbitrarily excluded from Franchise Acts, they must exclude themselves from the Census Act". The census enumerator noted "On Friday, March 31/11 I handed this schedule to Mrs R.L. Yates and her husband was with her. She is rated in my rate book as occupier. I found this schedule tied to the front door on Monday morning April 3/11. I have reason to believe they were both in occupation for the week end the house was empty of the flag taken down when I called. Mr Yates is a barrister".  [^ref14] Rose continued to own the cottage on Allan Road until at least 1917.[^ref15]
 
 Shortly after this time, a Conservative Women’s movement was established in Whitstable in 1910 by women who supported women’s suffrage. Mrs Fynn recalled meeting at the house of Mrs H.K. Daniels, where an ex-officio Ladies’ Advisory Committee was established to promote the Conservative cause.[^ref16] However, the “quiet serenity” of Whitstable was not
 greatly disturbed by militant suffragism over the next few years and the Whitstable carnivals continued to parody the suffragettes, although they now they included a Suffragette Band.[^ref17]
 <param ve-image url="https://stor.artstor.org/stor/cc8a3415-e232-4db4-8a21-98b6d9539b2a" label="Harbour Street, Whitstable" attribution="Kent Maps Online Collection">
 
-By 1913, the mood was changing and in May the newspapers reported a “Suffragette bomb hoax” outside the Limes, the home of the liberal M.P. Mr Lang. A small tin, packed with string, shavings, paraffin and mud was labelled with the threatening words 'Worse to follow'.[^ref18] It was brushed off as a practical joke, however after a summer of
+By 1913, the mood was changing and in May the newspapers reported a “Suffragette bomb hoax” outside the Limes, the home of the liberal M.P. Robert Turnbull Lang. A small tin, packed with string, shavings, paraffin and mud was labelled with the threatening words 'Worse to follow'.[^ref18] It was brushed off as a practical joke, however after a summer of
 suffragette bombing campaigns across the country, the fear surrounding the affair was palpable.
 <br><br>
-It was not until July 1913 that the residents of Whitstable received another visit. This time from the National Union of Women's Suffrage Societies (N.U.W.S.S), whose supporters marched through Tankerton and Whitstable. An open-air
-meeting, which attracted an audience of several hundred, was held at The Cross where Mr Lang gave a speech in support of women’s suffrage. The meeting was marred when the speakers’ carriage was pelted with missiles as it left. A sign that not everyone was ready for women’s suffrage.[^ref19]
+It was not until July 1913 that the residents of Whitstable received another visit. This time from the Kentish Pilgrims who were associated with the National Union of Women's Suffrage Societies (N.U.W.S.S). Marching through Tankerton and Whitstable, the pilgrims held an open-air meeting, which attracted an audience of several hundred, at The Cross. Mrs Packman, the President of the Herne Bay Branch, and Muriel Matters, who had been involved in the 1908 caravan tour spoke eloquently on the need for women's suffrage. Mr Lang, who was in attendance was called upon to give an impromptu speech, and acknowledged that although he was opposed to the tactics of the militant suffragists, he believed that the time would come when the suffrage would be extended to all men and women.[^ref19] The meeting was marred when the speakers’ carriage was pelted with missiles as it left. A sign that not everyone was ready for women’s suffrage.[^ref20]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/Duke_of_Cumberland_Hotel%2C_Whitstable_-_geograph.org.uk_-_2564119.jpg" label="The Cross, Duke of Cumberland Hotel, Whitstable" attribution="Richard Gadsby, CC BY-SA 2.0, via Wikimedia Commons" license="CC BY-SA 2.0">
 
-In the same month, the Women’s Freedom League (W.F.L) launched another holiday campaign in Kent, starting this time from their headquarters at 37, Claire Road, Tankerton.[^ref20] Speakers for the cause included Mary Katherine Trott, Mrs Merivale Mayer, Miss Underwood and Miss F. Taylor who held daily meetings on ‘The Lawn’. Two evening meetings were also held in Whitstable on the 25th and 28th .[^ref21] Katherine Trott, the spirited 24- year old organiser of the meetings, wrote that the women 'made a number of friends among the fishermen' who bought copies of the W.F.L’s newspaper. Two weeks later, on the 30th July, the W.F.L campaign moved to Herne Bay but returned to Tankerton in August when Miss Nina Boyle addressed an audience.[^ref22]
+In the same month, the Women’s Freedom League (W.F.L) launched another holiday campaign in Kent, starting this time from their headquarters at 37, Claire Road, Tankerton.[^ref21] Speakers for the cause included Mary Katherine Trott, Mrs Merivale Mayer, Miss Underwood and Miss F. Taylor who held daily meetings on ‘The Lawn’. Two evening meetings were also held in Whitstable on the 25th and 28th .[^ref22] Katherine Trott, the spirited 24- year old organiser of the meetings, wrote that the women 'made a number of friends among the fishermen' who bought copies of the W.F.L’s newspaper. Two weeks later, on the 30th July, the W.F.L campaign moved to Herne Bay but returned to Tankerton in August when Miss Nina Boyle addressed an audience.[^ref23]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Lees_Tankerton_Kent.jpg" label="The Leas, Tankerton" attribution="Self-scanned, Public domain, via Wikimedia Commons">
 
 With the arrival of the First World War, Whitstable women became involved with the war effort and agitating for suffrage was suspended. Mr Todhunter reporting to the War Cabinet Committee on Women in Industry said that “the towns down the coast from Whitstable to Ramsgate were being subjected to air raids pretty frequently, and as a result there was an
-exodus of women from these towns to the factories.”[^ref23] 
+exodus of women from these towns to the factories.”[^ref24] 
 <br><br>
-After the war, women’s suffrage was back on the political agenda and women over 30 got to vote in their first UK election in December 1918. It was the first general election in 8 years. There were around 3,000 names on the new register in Whitstable but only 1,600 voted as many men were still away in the Navy or Army or on naval reserve. The outstanding feature of the election, according to the _Whitstable Times and Herne Bay Herald_ was “the large number of women voters who exercised their franchise privilege for the first time.”[^ref24]
+After the war, women’s suffrage was back on the political agenda and women over 30 got to vote in their first UK election in December 1918. It was the first general election in 8 years. There were around 3,000 names on the new register in Whitstable but only 1,600 voted as many men were still away in the Navy or Army or on naval reserve. The outstanding feature of the election, according to the _Whitstable Times and Herne Bay Herald_ was “the large number of women voters who exercised their franchise privilege for the first time.”[^ref25]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Votes_for_Women_1d_Wanted_Everywhere%21_%2814995272740%29.jpg" label="Votes for Women Wanted Everywhere" attribution="Hilda Dallas, Schlesinger Library, RIAS, Harvard University, No restrictions, via Wikimedia Commons">
 
 ### References
@@ -51,7 +50,7 @@ After the war, women’s suffrage was back on the political agenda and women ove
 [^ref1]: Jennifer Godfrey, _Suffragettes of Kent_. (Yorkshire: Pen and Sword Books Ltd, 2019), 71.
 [^ref2]: _Votes for Women_, August 27, 1909, 1113.
 [^ref3]: _Votes for Women_, September 10, 1909, 1162; The Whitstable Times and Tankerton Press, Sep 4, 1909, 5.
-[^ref4]: _Canterbury Journal, Kentish Times and Farmers’ Gazette_, September 4, 1909, 5. quoted in Phegley, 137.
+[^ref4]: _Canterbury Journal, Kentish Times and Farmers’ Gazette_, September 4, 1909, 5. quoted in Godfrey, 137.
 [^ref5]: _The Whitstable Times and Herne Bay Herald_, March 13, 1909, 2.
 [^ref6]: _Votes for Women_, September 3, 1909, 1138.
 [^ref7]: _Votes for Women_, September 10, 1909, 1162.
@@ -65,10 +64,11 @@ After the war, women’s suffrage was back on the political agenda and women ove
 [^ref15]: _Canterbury and District Directory, 1917-18_. (Kent: Garnett, Mepham and Fisher Ltd)
 [^ref16]: _The Whitstable Times and Tankerton Press_, January 30, 1937, 3.
 [^ref17]: _Whitstable Times and Herne Bay Herald_, Saturday 24 August 1912, 5.
-[^ref18]: “Suffragette bomb hoax at Whitstable,” _The Whitstable Times and Tankerton Press_, May 17, 1913, 4.
-[^ref19]: Jennifer Godfrey, _Suffragettes of Kent_. (Yorkshire: Pen and Sword Books Ltd, 2019), 165, 175,
-[^ref20]: Jennifer Godfrey, _Suffragettes of Kent_. (Yorkshire: Pen and Sword Books Ltd, 2019), 205.
-[^ref21]: _The Vote_, July 18 1913, 202.
-[^ref22]: _The Vote_, July 18, 1913, 201, quoted in Godfrey, 205.
-[^ref23]: _War Cabinet Committee on Women in Industry_, S.52.
-[^ref24]: _Whitstable Times and Herne Bay Herald_, December 21, 1918.
+[^ref18]: “Suffragette Bomb Hoax at Whitstable,” _The Whitstable Times and Tankerton Press_, May 17, 1913, 4.
+[^ref19]: "The Kentish Pilgrims Visit Whitstable." _Canterbury Journal_, 12 July 1913, 8.
+[^ref20]: "The Kentish Pilgrims Visit Whitstable." _Whitstable Times and Herne Bay Herald_, 12 July 1913,  8.
+[^ref21]: Jennifer Godfrey, _Suffragettes of Kent_. (Yorkshire: Pen and Sword Books Ltd, 2019), 205.
+[^ref22]: _The Vote_, July 18 1913, 202.
+[^ref23]: _The Vote_, July 18, 1913, 201, quoted in Godfrey, 205.
+[^ref24]: _War Cabinet Committee on Women in Industry_, S.52.
+[^ref25]: _Whitstable Times and Herne Bay Herald_, December 21, 1918.
