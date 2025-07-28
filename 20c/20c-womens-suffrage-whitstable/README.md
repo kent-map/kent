@@ -37,12 +37,13 @@ suffragette bombing campaigns across the country, the fear surrounding the affai
 
 It was not until July 1913 that the residents of Whitstable received another visit. This time from the National Union of Women's Suffrage Societies (N.U.W.S.S), whose supporters marched through Tankerton and Whitstable. An open-air
 meeting, which attracted an audience of several hundred, was held at The Cross where Mr Lang gave a speech in support of women’s suffrage. The meeting was marred when the speakers’ carriage was pelted with missiles as it left. A sign that not everyone was ready for women’s suffrage.[^ref19]
-
+<br><br>
 In the same month, the Women’s Freedom League (W.F.L) launched another holiday campaign in Kent, starting this time from their headquarters at 37, Claire Road, Tankerton.[^ref20] Speakers for the cause included Mary Katherine Trott, Mrs Merivale Mayer, Miss Underwood and Miss F. Taylor who held daily meetings on ‘The Lawn’. Two evening meetings were also held in Whitstable on the 25th and 28th .[^ref21] Katherine Trott, the spirited 24- year old organiser of the meetings, wrote that the women 'made a number of friends among the fishermen' who bought copies of the W.F.L’s newspaper. Two weeks later, on the 30th July, the W.F.L campaign moved to Herne Bay but returned to Tankerton in August when Miss Nina Boyle addressed an audience.[^ref22]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Lees_Tankerton_Kent.jpg" label="The Leas, Tankerton" attribution="Self-scanned, Public domain, via Wikimedia Commons">
 
 With the arrival of the First World War, Whitstable women became involved with the war effort and agitating for suffrage was suspended. Mr Todhunter reporting to the War Cabinet Committee on Women in Industry said that “the towns down the coast from Whitstable to Ramsgate were being subjected to air raids pretty frequently, and as a result there was an
 exodus of women from these towns to the factories.”[^ref23] Greta Woodman recalled that her father employed women to do munition work for factories at Harty Ferry and Uplees, making cordite trays.[^ref24] Cordite was a nitro-based explosive made into cords or fibres which was then laid on perforated zinc trays. Packing the cordite trays into boxes was boring, repetitive work. 
-
+<br><br>
 After the war, women’s suffrage was back on the political agenda and women over 30 got to vote in their first UK election in December 1918. It was the first general election in 8 years. There were around 3,000 names on the new register in Whitstable but only 1,600 voted as many men were still away in the Navy or Army or on naval reserve. The outstanding feature of the election, according to the _Whitstable Times and Herne Bay Herald_ was “the large number of women voters who exercised their franchise privilege for the first time.”[^ref25]
 
 ### References
