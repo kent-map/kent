@@ -23,5 +23,3 @@ At this path’s end, Rosa Kiftsgate has succumbed
 to age and  death; its massive thorns no longer gore.   
 I reach the house and turn the handle on the door.   
 But it’s stuck hard. And so I knock. And no-one comes.  
-
-I’ve asked my nephews if they’ve got any photos of this garden or door.
