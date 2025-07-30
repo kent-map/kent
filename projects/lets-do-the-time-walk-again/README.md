@@ -1,6 +1,6 @@
 `ve-header title="Let's Do The Time Walk Again" background=gh:kent-map/images/banners/18c.jpg .sticky`
 
-Let's Do The Time Walk Again is a National Lottery Heritage funded project.
+Let's Do The Time Walk Again! Exploring the East Kent Coast Through Digital Heritage is a National Lottery Heritage funded project.
 
 `.cards`
 
