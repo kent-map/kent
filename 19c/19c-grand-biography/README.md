@@ -13,7 +13,7 @@
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
 
-**Places:** Resident in Sandgate in the early 1870s. Visit to Ramsgate in 1894. Lived in Tunbridge Wells 1898-1920   
+**Places:** Resident in [Sandgate](/placesrz/sandgate-overview) in the early 1870s. Visit to Ramsgate in 1894. Lived in Tunbridge Wells 1898-1920   
 <br>
 Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920. Here she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies and was involved with the Women’s Volunteer Reserve Force during WW1.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8a/The_Pantiles%2C_%28Royal%29_Tunbridge_Wells%2C_Kent%2C_England%2C_ca._1895.jpg" label="The Pantiles, (Royal) Tunbridge Wells, Kent, England, ca. 1895.jpg" attribution=" Detroit Publishing Co., under license from Photoglob Zürich, Public domain, via Wikimedia Commons">

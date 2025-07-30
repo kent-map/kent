@@ -160,11 +160,19 @@ Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Ca
 
 Towns of grandeur. Articles on Folkestone and Gravesend.
 
-## Places K-Z
+## Places K-Q
 
-[Places K-Z](placeskz)
+[Places K-Q](placeskq)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesK_Z1.jpg)
+
+Margate in the 19th and 21st century.
+
+## Places R-Z
+
+[Places R-Z](placesrz)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/placeskz_Ramsgate_in_the_19th_century.jpg)
 
 Seaside resorts such as Ramsgate and Sandgate.
 

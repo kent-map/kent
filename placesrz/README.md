@@ -1,4 +1,4 @@
-`ve-header title="Places Q-Z" background=gh:kent-map/kent/images/banners/19c.jpg .sticky`
+`ve-header title="Places R-Z" background=gh:kent-map/kent/images/banners/19c.jpg .sticky`
 
 Seaside resorts such as Ramsgate and Sandgate.
 
@@ -23,7 +23,7 @@ Sandgate, near the outskirts of Folkestone, has been hailed as the 'author's hav
 
 ## Wateringbury
 
-[Wateringbury](/placesqz/wateringbury-overview)
+[Wateringbury](/placesrz/wateringbury-overview)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d)
 
