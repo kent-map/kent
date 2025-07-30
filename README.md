@@ -170,7 +170,7 @@ Towns of grandeur. Articles on Folkestone and Gravesend.
 
 [Places R-Z](placesrz)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesK_Z1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/placeskz_Ramsgate_in_the_19th_century.jpg)
 
 Seaside resorts such as Ramsgate and Sandgate.
 
