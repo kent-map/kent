@@ -2,8 +2,17 @@
 
 Let's Do The Time Walk Again is a National Lottery Heritage funded project.
 
-# Let's Do The Time Walk Again 
 `.cards`
+
+## About the Project
+
+[About the Project]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
+
+Coming soon!!
+
+
 
 ## The Clock House Museum Ramsgate
 
