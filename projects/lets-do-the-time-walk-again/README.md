@@ -7,7 +7,7 @@ Let's Do The Time Walk Again! Exploring the East Kent Coast Through Digital Heri
 
 ## About the Project
 
-[About the Project]()
+[About the Project](/lets-do-the-time-walk/about)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/TNLHF_English_Acknowledgement_Stamp_Colour_JPEG.jpg)
 
