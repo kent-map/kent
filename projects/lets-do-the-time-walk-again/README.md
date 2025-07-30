@@ -2,10 +2,6 @@
 
 Let's Do The Time Walk Again! Exploring the East Kent Coast Through Digital Heritage is a National Lottery Heritage funded project. 
 <br><br>
-**The National Lottery Heritage Fund**
-The [National Lottery Heritage Fund](heritagefund.org.uk) is the largest funder for the UK’s heritage. Using money raised by National Lottery players we support projects that connect people and communities to heritage. Our vision is for heritage to be valued, cared for and sustained for everyone, now and in the future. From historic buildings, our industrial legacy and the natural environment, to collections, traditions, stories and more. Heritage can be anything from the past that people value and want to pass on to future generations. We believe in the power of heritage to ignite the imagination, offer joy and inspiration, and to build pride in place and connection to the past
-<br><br>
-Canterbury Christ Church University has been awarded £67,397.00 by the National Lottery Heritage Fund to work with four coastal museums in East Kent.
 
 `.cards`
 
@@ -13,9 +9,13 @@ Canterbury Christ Church University has been awarded £67,397.00 by the National
 
 [About the Project]()
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/edith_nesbit1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/TNLHF_English_Acknowledgement_Stamp_Colour_JPEG.jpg)
 
-Coming soon!! A team from Canterbury Christ Church is working in partnership with four museums from East Kent to help preserve their archives, upskill volunteers in key digital practices and tell the story of these towns beyond their traditional seaside heritage. Through a series of training workshops volunteers will learn to record at-risk archives and develop their digital story-telling skills, creating web content that will explore different aspects of 19th and 20th century life in Broadstairs, Ramsgate, Deal and Sandwich.
+The [National Lottery Heritage Fund](heritagefund.org.uk) is the largest funder for the UK’s heritage. Using money raised by National Lottery players we support projects that connect people and communities to heritage. Our vision is for heritage to be valued, cared for and sustained for everyone, now and in the future. From historic buildings, our industrial legacy and the natural environment, to collections, traditions, stories and more. Heritage can be anything from the past that people value and want to pass on to future generations. We believe in the power of heritage to ignite the imagination, offer joy and inspiration, and to build pride in place and connection to the past
+<br><br>
+Canterbury Christ Church University has been awarded £67,397.00 by the National Lottery Heritage Fund to work with four coastal museums in East Kent.
+
+A team from Canterbury Christ Church is working in partnership with four museums from East Kent to help preserve their archives, upskill volunteers in key digital practices and tell the story of these towns beyond their traditional seaside heritage. Through a series of training workshops volunteers will learn to record at-risk archives and develop their digital story-telling skills, creating web content that will explore different aspects of 19th and 20th century life in Broadstairs, Ramsgate, Deal and Sandwich.
 
 ## The Clock House Museum Ramsgate
 
