@@ -41,6 +41,41 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 
 Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. 
 
+# Featured Projects
+`.cards`
+
+## Inspirational Kent Women Writers
+
+[Inspirational Kent Women Writers](projects/inspirational-women-writers)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/kentwomen.jpg)
+
+To accompany the Inspirational Kent Women Writers event held by the Centre for Kent History and Heritage, Kent Maps Online have curated a collection of inspirational Kent women writers as well as some lesser known women writers who have been inspired by Kent.
+
+## Black History
+
+[Black History](projects/black-history)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/cohen_family.jpg)
+
+Black History Month 2024 encourages the Black community to reclaim the narratives of the past. Read these articles to find out more.
+
+## Dover at Night
+
+[Dover at Night](/landscape/river-dour)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night2025.jpg)
+
+To celebrate Dover at Night, Kent Maps Online have written an article about the River Dour and its importance to the town.
+
+## Duke of Edinburgh Project
+
+[Duke of Edinburgh Project](projects/duke-of-edinburgh)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dofe.jpg)
+
+During the Covid pandemic, Kent Maps Online offered remote volunteering and skills training for Duke of Edinburgh participants who may not have been able to complete their awards without access to online opportunities. This space showcases the work completed by our Duke of Edinburgh participants at all levels.
+
 # Essays by Period 
 `.cards`
 
@@ -294,41 +329,6 @@ After suffering a breakdown in 1921, T.S Eliot positioned himself in the seaside
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/vita_sackville_west1.jpg)
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
-
-# Featured Projects
-`.cards`
-
-## Inspirational Kent Women Writers
-
-[Inspirational Kent Women Writers](projects/inspirational-women-writers)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/kentwomen.jpg)
-
-To accompany the Inspirational Kent Women Writers event held by the Centre for Kent History and Heritage, Kent Maps Online have curated a collection of inspirational Kent women writers as well as some lesser known women writers who have been inspired by Kent.
-
-## Black History
-
-[Black History](projects/black-history)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/cohen_family.jpg)
-
-Black History Month 2024 encourages the Black community to reclaim the narratives of the past. Read these articles to find out more.
-
-## Dover at Night
-
-[Dover at Night](/landscape/river-dour)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dover-at-night2025.jpg)
-
-To celebrate Dover at Night, Kent Maps Online have written an article about the River Dour and its importance to the town.
-
-## Duke of Edinburgh Project
-
-[Duke of Edinburgh Project](projects/duke-of-edinburgh)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/dofe.jpg)
-
-During the Covid pandemic, Kent Maps Online offered remote volunteering and skills training for Duke of Edinburgh participants who may not have been able to complete their awards without access to online opportunities. This space showcases the work completed by our Duke of Edinburgh participants at all levels.
 
 # Featured Texts
 `.cards`
