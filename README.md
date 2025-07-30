@@ -166,6 +166,8 @@ Towns of grandeur. Articles on Folkestone and Gravesend.
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesK_Z1.jpg)
 
+Margate in the 19th and 21st century.
+
 ## Places R-Z
 
 [Places R-Z](placesrz)
