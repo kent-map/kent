@@ -1,4 +1,4 @@
-`ve-header title="Places K-Z" background=gh:kent-map/images/banners/19c.jpg .sticky`
+`ve-header title="Places K-Q" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
 Some of Kent's beautiful seaside resorts.
 
