@@ -1,4 +1,4 @@
-`ve-header title="Let's Do The Time Walk Again" background=gh:kent-map/images/banners/18c.jpg .sticky`
+`ve-header title="Let's Do The Time Walk Again" background=gh:kent-map/images/banners/SalmonMap.jpg .sticky`
 
 Let's Do The Time Walk Again! Exploring the East Kent Coast Through Digital Heritage is a National Lottery Heritage funded project. 
 
