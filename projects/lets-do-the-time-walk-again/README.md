@@ -10,9 +10,7 @@ Let's Do The Time Walk Again is a National Lottery Heritage funded project.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
 
-Coming soon!!
-
-
+Coming soon!! A team from Canterbury Christ Church is working in partnership with four museums from East Kent to help preserve their archives, upskill volunteers in key digital practices and tell the story of these towns beyond their traditional seaside heritage. Through a series of training workshops volunteers will learn to record at-risk archives and develop their digital story-telling skills, creating web content that will explore different aspects of 19th and 20th century life in Broadstairs, Ramsgate, Deal and Sandwich.
 
 ## The Clock House Museum Ramsgate
 
