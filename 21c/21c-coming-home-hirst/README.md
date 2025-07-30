@@ -1,4 +1,10 @@
-Coming Home from Eastry: Early January Afternoon
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="Coming Home from Eastry: Early January Afternoon" author="Diana Hirst" layout="vtl" 
+banner="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6">
+
+<param ve-entity eid="Q2632094" aliases="Wingham">
+
+#
 
 Bruised clouds are looming above Thanet’s purple land.
 From over Pegwell Bay the east wind sweeps the snow
