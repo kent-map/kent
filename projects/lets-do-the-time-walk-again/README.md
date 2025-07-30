@@ -7,19 +7,15 @@ Let's Do The Time Walk Again! Exploring the East Kent Coast Through Digital Heri
 
 ## About the Project
 
-[About the Project]()
+[About the Project](/lets-do-the-time-walk/aboutproject)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/TNLHF_English_Acknowledgement_Stamp_Colour_JPEG.jpg)
 
-The [National Lottery Heritage Fund](heritagefund.org.uk) is the largest funder for the UK’s heritage. Using money raised by National Lottery players we support projects that connect people and communities to heritage. Our vision is for heritage to be valued, cared for and sustained for everyone, now and in the future. From historic buildings, our industrial legacy and the natural environment, to collections, traditions, stories and more. Heritage can be anything from the past that people value and want to pass on to future generations. We believe in the power of heritage to ignite the imagination, offer joy and inspiration, and to build pride in place and connection to the past
-<br><br>
-Canterbury Christ Church University has been awarded £67,397.00 by the National Lottery Heritage Fund to work with four coastal museums in East Kent.
-
-A team from Canterbury Christ Church is working in partnership with four museums from East Kent to help preserve their archives, upskill volunteers in key digital practices and tell the story of these towns beyond their traditional seaside heritage. Through a series of training workshops volunteers will learn to record at-risk archives and develop their digital story-telling skills, creating web content that will explore different aspects of 19th and 20th century life in Broadstairs, Ramsgate, Deal and Sandwich.
+Canterbury Christ Church University has been awarded £67,397.00 by the National Lottery Heritage Fund to work with four coastal museums in East Kent. Read more about the National Lottery Heritage Fund and its mission here.
 
 ## The Clock House Museum Ramsgate
 
-[The Clock House Museum Ramsgate]()
+[The Clock House Museum Ramsgate](/clockhouse)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
 
@@ -27,7 +23,7 @@ Coming soon!! The Ramsgate Clock House Museum contains documents relating to the
 
 ## Deal Museum
 
-[The Clock House Museum Ramsgate]()
+[Deal Museum](/ramsgate)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
 
@@ -35,7 +31,7 @@ Coming soon!! Deal Museum holds large collections of postcards, prints, photogra
 
 ## The Dickens Museum, Broadstairs
 
-[The Clock House Museum Ramsgate]()
+[The Dickens Museum, Broadstairs](/dickensmuseum)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
 
@@ -44,7 +40,7 @@ programmes; photographs of author and festival organiser, Gladys Waterer. Other 
 
 ## The Guildhall Museum, Sandwich
 
-[The Clock House Museum Ramsgate]()
+[The Guildhall Museum, Sandwich](/sandwich)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
 
