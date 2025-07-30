@@ -160,6 +160,12 @@ Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Ca
 
 Towns of grandeur. Articles on Folkestone and Gravesend.
 
+## Places K-Q
+
+[Places K-Q](placeskq)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesE_J1.jpg)
+
 ## Places R-Z
 
 [Places R-Z](placesrz)
