@@ -164,7 +164,7 @@ Towns of grandeur. Articles on Folkestone and Gravesend.
 
 [Places K-Q](placeskq)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesE_J1.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/PlacesK_Z1.jpg)
 
 ## Places R-Z
 
