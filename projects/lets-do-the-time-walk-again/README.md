@@ -1,7 +1,6 @@
 `ve-header title="Let's Do The Time Walk Again" background=gh:kent-map/images/banners/18c.jpg .sticky`
 
 Let's Do The Time Walk Again! Exploring the East Kent Coast Through Digital Heritage is a National Lottery Heritage funded project. 
-<br><br>
 
 `.cards`
 
@@ -23,7 +22,7 @@ Coming soon!! The Ramsgate Clock House Museum contains documents relating to the
 
 ## Deal Museum
 
-[Deal Museum](/ramsgate)
+[Deal Museum](/dealmuseum)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
 
