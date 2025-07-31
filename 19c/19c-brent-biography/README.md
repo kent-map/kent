@@ -13,7 +13,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 
 #
 
-_‘The privilege of electing a mayor seems to have been somewhat tardily conceded to a city so important as Canterbury.’_   
+‘The privilege of electing a mayor seems to have been somewhat tardily conceded to a city so important as Canterbury.’      
 _Canterbury in the Olden Time_ (1860)
 <br><br>
 Author, poet, campaigner and antiquarian John Brent was born in Rotherhithe in 1808, to a shipbuilder and his wife Susannah. The latter was from Sturry, and the family moved back to [Canterbury](/19c/19c-canterbury) in around 1821. John’s father would become an Alderman and Chief Magistrate, and was Mayor at the time of a tragic incident in 1838, when a former inmate of Barming Asylum, calling himself William Courtenay, announced to a crowd in [Canterbury](/19c/19c-canterbury) that he was the risen Christ. Courtenay led a procession around Goodnestone, Newnham, Throwley, Selling and Sittingbourne, before shooting a constable who was advancing with a warrant for his arrest.  At Brent’s request, a detachment of troops was sent from [Dover](/19c/19c-dover)  and eight people (including Courtenay) were killed.
