@@ -62,6 +62,8 @@ After the war, Albert took on clerical work in Malcolm Hilbery’s Chambers in H
 <param ve-map center="Q614560" zoom="12">
 
 In the later years of her life, May was often strapped for cash and begged Richard for money. In 1938, she reported a theft of a mink coat, fox furs, squirrel coats and a diamond and platinum bracelet from her car[^ref30] and in 1939 she made an application to the Literary Fund for money.[^ref31] In 1946 Richard wrote to his brother Tony: 'I have had a hideous grouse from Mother on the usual trouble. Netta who is probably sound, says she is just trying to get some dibs out of me to go pub-crawling behind your back. Well, old boy, I leave it to you. Take any money of mine you need to make the old girl comfortable, but protect yourself from the horrid results of her convivial habits.'[^ref32] She died on the 20th March, 1954. Her address was the Watchbell House, Rye, Sussex, temporarily of the Temperance Hotel, Tenterden. Kent.[^ref33]
+<br><br>
+This article was published 27 January 2024.
 <param ve-image url="https://stor.artstor.org/stor/73d992a1-2758-4f9d-903a-bd75d7768f9b" label="Temperance Hotel, Tenterden by kind permission of Tenterden Museum">
 
 ### References
