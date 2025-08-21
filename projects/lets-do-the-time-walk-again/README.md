@@ -91,6 +91,9 @@ Millie Battershill is the Museum Coordinator for Sandwich Guildhall Museum. She 
 
 # Partnering Museums
 
+# &nbsp; 
+`.cards`
+
 ## The Clock House Museum Ramsgate
 
 [The Clock House Museum Ramsgate](/clockhouse)
