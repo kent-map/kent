@@ -114,10 +114,10 @@ Deal Museum holds large collections of postcards, prints, photographs, records a
 
 [The Dickens Museum, Broadstairs](/dickensmuseum)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/23/Dickens_House_Museum.jpg)
 
 Collections at the Dickens Museum, Broadstairs include Dickensiana and related items documenting the importance of Dickens's legacy to the town. They include rare editions, 20th century Dickens Festival slides and
-programmes; photographs of author and festival organiser, Gladys Waterer. Other unique items relating to Thanet include the rate book for Broadstairs and St Peter's 1838-39 and rate book for St Peter's 1843 including lodgings occupied by Marian Evans (George Eliot). 
+programmes; photographs of author and festival organiser, Gladys Waterer. Other unique items relating to Thanet include the rate book for Broadstairs and St Peter's 1838-39 and rate book for St Peter's 1843 including lodgings occupied by Marian Evans (George Eliot). Image Credit: HuntingHistory, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons.
 
 ## The Guildhall Museum, Sandwich
 
