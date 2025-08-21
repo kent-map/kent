@@ -7,17 +7,15 @@
 
 # About the project
 
-Let's Do The Time Walk Again! Exploring the East Kent Coast Through Digital Heritage is a National Lottery Heritage funded project. 
+Let's Do The Time Walk Again! Exploring the East Kent Coast Through Digital Heritage is a National Lottery Heritage funded project. Canterbury Christ Church University has been awarded £67,397.00 by the National Lottery Heritage Fund to work with four coastal museums in East Kent to help preserve their archives, upskill volunteers in key digital practices and tell the story of these towns beyond their traditional seaside heritage. Through a series of training workshops volunteers will learn to record at-risk archives and develop their digital story-telling skills, creating web content that will explore different aspects of 19th and 20th century life in Broadstairs, Ramsgate, Deal and Sandwich.
+
+# About the National Lottery
+
+The [National Lottery Heritage Fund](heritagefund.org.uk) is the largest funder for the UK’s heritage. Using money raised by National Lottery players we support projects that connect people and communities to heritage. Our vision is for heritage to be valued, cared for and sustained for everyone, now and in the future. From historic buildings, our industrial legacy and the natural environment, to collections, traditions, stories and more. Heritage can be anything from the past that people value and want to pass on to future generations. We believe in the power of heritage to ignite the imagination, offer joy and inspiration, and to build pride in place and connection to the past.
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/misc/TNLHF_English_Acknowledgement_Stamp_Colour_PNG.png)
 
-Canterbury Christ Church University has been awarded £67,397.00 by the National Lottery Heritage Fund to work with four coastal museums in East Kent. 
-
-The [National Lottery Heritage Fund](heritagefund.org.uk) is the largest funder for the UK’s heritage. Using money raised by National Lottery players we support projects that connect people and communities to heritage. Our vision is for heritage to be valued, cared for and sustained for everyone, now and in the future. From historic buildings, our industrial legacy and the natural environment, to collections, traditions, stories and more. Heritage can be anything from the past that people value and want to pass on to future generations. We believe in the power of heritage to ignite the imagination, offer joy and inspiration, and to build pride in place and connection to the past
-
 # Project Team
-
-A team from Canterbury Christ Church is working in partnership with four museums from East Kent to help preserve their archives, upskill volunteers in key digital practices and tell the story of these towns beyond their traditional seaside heritage. Through a series of training workshops volunteers will learn to record at-risk archives and develop their digital story-telling skills, creating web content that will explore different aspects of 19th and 20th century life in Broadstairs, Ramsgate, Deal and Sandwich.
 
 # &nbsp; 
 `.cards`
@@ -28,7 +26,7 @@ A team from Canterbury Christ Church is working in partnership with four museums
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/CO_in_bookshop.jpg)
 
-Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. Bluesky: ‪@kentmapsonline.bsky.social‬, Instagram: @kentmapsonline1, email: carolyn.oulton@canterbury.ac.uk
+Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. She is the Project Lead. Her research interests include seaside literary heritage and the culture of shared reading. Bluesky: ‪@kentmapsonline.bsky.social‬, Instagram: @kentmapsonline1, email: carolyn.oulton@canterbury.ac.uk
 
 ## Michelle Crowther
 
@@ -38,18 +36,58 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 
 Michelle Crowther is an Academic Librarian at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is researching Kent history and Victorian manuscript culture. 
 
-
 ## Lesley Hardy
+
+[Lesley Hardy]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
+
+Lesley Hardy is the Impact Officer for the Project.
 
 ## Lily Turvey
 
+[Lily Turvey]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
+
+Lily Turvey is the Admin Officer for the Project.
+
+
 ## Casey Evans
+
+[Casey Evans]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
+
+Casey Evans is the IT Officer for the project.
+
 
 ## Darran Cowd
 
+[Darran Cowd]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
+
+Darran Cowd is the Museums Manager at Thanet District Council. His job is to care for and grow the Council’s three museums; Margate Museum, Dickens House Museum (Broadstairs) and Ramsgate Maritime Museum, as well as Margate’s Tudor House.
+
+
 ## Lisa Redding
 
+[Lisa Redding]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
+
+Lisa Redding is a Trustee of Deal Maritime and Local History Museum.
+
+
 ## Millie Battershill
+
+[Millie Battershill]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
+
+Millie Battershill is the Museum Coordinator for Sandwich Guildhall Museum.
+
 
 # Partnering Museums
 
