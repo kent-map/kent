@@ -98,9 +98,9 @@ Millie Battershill is the Museum Coordinator for Sandwich Guildhall Museum. She 
 
 [The Clock House Museum Ramsgate](/clockhouse)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/dc/1904-08-20_front_The_Barbican_Sandwich_Kent.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/00/The_Clockhouse%2C_Royal_Harbour%2C_Ramsgate_-_geograph.org.uk_-_156308.jpg)
 
-The Ramsgate Clock House Museum contains documents relating to the history of the harbour including the letter conveying King George IV's "Gracious Pleasure that this port be called "The Royal Harbour of Ramsgate" and 'Harbour Minutes Register' 1909-1915 covering the early years of WW1. Roman artefacts with contemporary graffiti, recovered from the Richborough fort, as well as WW1 graffiti and important documents to tell the harbour's story, linking to Dunkirk small boats. The harbour, like the town, was subject to enemy attack and related problems and dangers associated with wartime activity. 
+The Ramsgate Clock House Museum contains documents relating to the history of the harbour including the letter conveying King George IV's "Gracious Pleasure that this port be called "The Royal Harbour of Ramsgate" and 'Harbour Minutes Register' 1909-1915 covering the early years of WW1. Roman artefacts with contemporary graffiti, recovered from the Richborough fort, as well as WW1 graffiti and important documents to tell the harbour's story, linking to Dunkirk small boats. The harbour, like the town, was subject to enemy attack and related problems and dangers associated with wartime activity. Image credit: Penny Mayes, The Clockhouse, Royal Harbour, Ramsgate.
 
 ## Deal Museum
 
