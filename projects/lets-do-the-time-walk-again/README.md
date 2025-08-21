@@ -9,7 +9,7 @@
 
 Let's Do The Time Walk Again! Exploring the East Kent Coast Through Digital Heritage is a National Lottery Heritage funded project. 
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/TNLHF_English_Acknowledgement_Stamp_Colour_JPEG.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/misc/TNLHF_English_Acknowledgement_Stamp_Colour_PNG.png)
 
 Canterbury Christ Church University has been awarded £67,397.00 by the National Lottery Heritage Fund to work with four coastal museums in East Kent. 
 
