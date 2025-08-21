@@ -14,15 +14,15 @@ Let's Do The Time Walk Again! Exploring the East Kent Coast Through Digital Heri
 Canterbury Christ Church University has been awarded £67,397.00 by the National Lottery Heritage Fund to work with four coastal museums in East Kent. 
 
 The [National Lottery Heritage Fund](heritagefund.org.uk) is the largest funder for the UK’s heritage. Using money raised by National Lottery players we support projects that connect people and communities to heritage. Our vision is for heritage to be valued, cared for and sustained for everyone, now and in the future. From historic buildings, our industrial legacy and the natural environment, to collections, traditions, stories and more. Heritage can be anything from the past that people value and want to pass on to future generations. We believe in the power of heritage to ignite the imagination, offer joy and inspiration, and to build pride in place and connection to the past
-<br><br>
+
+# Project Team
+
 A team from Canterbury Christ Church is working in partnership with four museums from East Kent to help preserve their archives, upskill volunteers in key digital practices and tell the story of these towns beyond their traditional seaside heritage. Through a series of training workshops volunteers will learn to record at-risk archives and develop their digital story-telling skills, creating web content that will explore different aspects of 19th and 20th century life in Broadstairs, Ramsgate, Deal and Sandwich.
 
 # &nbsp; 
 `.cards`
 
-# 
-
-# Project Team
+## Carolyn Oulton
 
 [Carolyn Oulton]()
 
@@ -39,17 +39,17 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 Michelle Crowther is an Academic Librarian at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is researching Kent history and Victorian manuscript culture. 
 
 
-Lesley Hardy
+## Lesley Hardy
 
-Casey Evans
+## Lily Turvey
 
-Lily Turvey
+## Casey Evans
 
-Darran Cowd
+## Darran Cowd
 
-Lisa Redding
+## Lisa Redding
 
-Millie Battershill
+## Millie Battershill
 
 # Partnering Museums
 
