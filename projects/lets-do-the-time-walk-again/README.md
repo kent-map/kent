@@ -42,7 +42,7 @@ Michelle Crowther is an Academic Librarian at Canterbury Christ Church Universit
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
 
-Lesley Hardy is the Impact Officer for the Project. She is the Director of Timelocked Heritage and also an Anglican Priest.
+Lesley Hardy is the Impact Officer for the Project. She is the Director of Timelocked Heritage and also an Anglican Priest. Her work is based on the place of the past in our lives. She has many years of experience in the development and delivery of community based heritage projects.
 
 ## Lily Turvey
 
