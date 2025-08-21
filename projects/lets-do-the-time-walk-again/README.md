@@ -42,15 +42,15 @@ Michelle Crowther is an Academic Librarian at Canterbury Christ Church Universit
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
 
-Lesley Hardy is the Impact Officer for the Project.
+Lesley Hardy is the Impact Officer for the Project. She is the Director of Timelocked Heritage and also an Anglican Priest.
 
 ## Lily Turvey
 
 [Lily Turvey]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/lily.jpg)
 
-Lily Turvey is the Admin Officer for the Project.
+Lily Turvey is the Admin Officer for the Project. She has a BA in History from Cardiff University and is completing her MA in Heritage at Canterbury Christ Church University.
 
 
 ## Casey Evans
@@ -59,7 +59,7 @@ Lily Turvey is the Admin Officer for the Project.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
 
-Casey Evans is the IT Officer for the project.
+Casey Evans is the IT Officer for the project. She has a BA in Creative and Professional Writing.
 
 
 ## Darran Cowd
@@ -77,7 +77,7 @@ Darran Cowd is the Museums Manager at Thanet District Council. His job is to car
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
 
-Lisa Redding is a Trustee of Deal Maritime and Local History Museum.
+Lisa Redding is Co-Chair and Trustee of Deal Maritime and Local History Museum. She has a BA in English, Art History and Media from the University of Stirling.
 
 
 ## Millie Battershill
@@ -86,10 +86,13 @@ Lisa Redding is a Trustee of Deal Maritime and Local History Museum.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
 
-Millie Battershill is the Museum Coordinator for Sandwich Guildhall Museum.
+Millie Battershill is the Museum Coordinator for Sandwich Guildhall Museum. She has a BA in Photography from Norwich University of the Arts.
 
 
 # Partnering Museums
+
+# &nbsp; 
+`.cards`
 
 ## The Clock House Museum Ramsgate
 
