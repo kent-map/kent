@@ -1,17 +1,57 @@
+<style>
+  .card-image { height: 300px; }
+  .card-abstract { -webkit-line-clamp: 10; }
+</style>
+
 `ve-header title="Let's Do The Time Walk Again" background=gh:kent-map/images/banners/SalmonMap.jpg .sticky`
 
+# About the project
+
 Let's Do The Time Walk Again! Exploring the East Kent Coast Through Digital Heritage is a National Lottery Heritage funded project. 
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/TNLHF_English_Acknowledgement_Stamp_Colour_JPEG.jpg)
+
+Canterbury Christ Church University has been awarded £67,397.00 by the National Lottery Heritage Fund to work with four coastal museums in East Kent. 
+
+The [National Lottery Heritage Fund](heritagefund.org.uk) is the largest funder for the UK’s heritage. Using money raised by National Lottery players we support projects that connect people and communities to heritage. Our vision is for heritage to be valued, cared for and sustained for everyone, now and in the future. From historic buildings, our industrial legacy and the natural environment, to collections, traditions, stories and more. Heritage can be anything from the past that people value and want to pass on to future generations. We believe in the power of heritage to ignite the imagination, offer joy and inspiration, and to build pride in place and connection to the past
+<br><br>
+A team from Canterbury Christ Church is working in partnership with four museums from East Kent to help preserve their archives, upskill volunteers in key digital practices and tell the story of these towns beyond their traditional seaside heritage. Through a series of training workshops volunteers will learn to record at-risk archives and develop their digital story-telling skills, creating web content that will explore different aspects of 19th and 20th century life in Broadstairs, Ramsgate, Deal and Sandwich.
 
 # &nbsp; 
 `.cards`
 
-## About the Project
+# 
 
-[About the Project](/lets-do-the-time-walk/aboutproject)
+# Project Team
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/TNLHF_English_Acknowledgement_Stamp_Colour_JPEG.jpg)
+[Carolyn Oulton]()
 
-Canterbury Christ Church University has been awarded £67,397.00 by the National Lottery Heritage Fund to work with four coastal museums in East Kent. Read more about the National Lottery Heritage Fund and its mission here.
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/CO_in_bookshop.jpg)
+
+Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University, where she also teaches on the Creative and Professional Writing BA. Her research interests include seaside literary heritage and the culture of shared reading. Bluesky: ‪@kentmapsonline.bsky.social‬, Instagram: @kentmapsonline1, email: carolyn.oulton@canterbury.ac.uk
+
+## Michelle Crowther
+
+[Michelle Crowther]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Michelle.jpg)
+
+Michelle Crowther is an Academic Librarian at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map, she is researching Kent history and Victorian manuscript culture. 
+
+
+Lesley Hardy
+
+Casey Evans
+
+Lily Turvey
+
+Darran Cowd
+
+Lisa Redding
+
+Millie Battershill
+
+# Partnering Museums
 
 ## The Clock House Museum Ramsgate
 
