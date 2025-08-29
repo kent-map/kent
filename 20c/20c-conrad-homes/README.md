@@ -25,7 +25,7 @@ Borys writes that the quote “remained there until some six or seven years ago 
 
 Pent Farm is supposed to be associated with many of Conrad’s key works, such as _Youth_ (1898), _The Heart of Darkness_ (1899), _Lord Jim_ (1900), _Typhoon_ (1902), _Nostromo_ (1904) and _The Secret Agent_ (1907) to say a few. A lesser known work, _The End of the Tether_ (1902) is included later by Borys, as a work which “was partly destroyed by fire when the glass bowl of [his] father’s table lamp burst and set fire to the manuscripts on his writing table”.[^ref4]  Despite this, it would be collected in _Youth, A Narrative and Two Other Stories_ in 1902. 
 <br><br>
-The author reports that many literary figures visited Pent Farm, including John Galsworthy, [H. G. Wells](/20c/20c-wellshg-biography), William Rothstein, Henry James, R. B. Cunningham Graham and numerous others. The family remained at the house until 1907, when Jessie George grew and when the advent of John Conrad “made it necessary to seek a larger house”.[^ref5] 
+The author reports that many literary figures visited Pent Farm, including [John Galsworthy](/19c/19c-galsworthy-biography), [H. G. Wells](/20c/20c-wellshg-biography), William Rothstein, [Henry James](19c/19c-jamesh-hever-castle/), R. B. Cunningham Graham and numerous others. The family remained at the house until 1907, when Jessie George grew and when the advent of John Conrad “made it necessary to seek a larger house”.[^ref5] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/94/The_North_Downs_Way_near_Pent_Farm_-_geograph.org.uk_-_4923383.jpg" label="North Downs Way, near Pent Farm" attribution="Dave Kelly" license="CC BY-SA 2.0">
 <!-- Base map centred on Postling -->
 <param ve-map center="Q2309424" zoom="12">
