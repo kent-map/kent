@@ -1,7 +1,12 @@
-John Galsworthy 14 August 1867–1933
-‘that little, very old, very charming, if inconvenient farmhouse… It was a friendly dwelling where you had to mind your head in connection with beams; and from whose windows you watched ducks and cats and lambs in the meadows beyond.’  
-	John Galsworthy on ‘The Pent’ farmhouse, Postling.
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="John Galsworthy 14 August 1867–1933" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
+#
+
+‘that little, very old, very charming, if inconvenient farmhouse… It was a friendly dwelling where you had to mind your head in connection with beams; and from whose windows you watched ducks and cats and lambs in the meadows beyond.’    
+<br>
+John Galsworthy on ‘The Pent’ farmhouse, Postling.
+<br><br>
 Novelist and playwright John Galsworthy was born in Surrey in 1867 and read Law at Oxford before being called to the bar in 1890. He figures in Virginia Woolf’s notorious essay [‘Mr Bennet and Mrs Brown’](https://www.gutenberg.org/ebooks/63022) as a representative of an otiose literary standard. When Woolf suggests ‘that we range Edwardians and Georgians into two camps’, placing ‘[Mr Wells](20c/20c-wellshg-biography/), Mr. Bennett, and Mr. Galsworthy’ against Mr. Forster, [Mr. Lawrence](/20c/20c-lawrence-biography/), Mr. Strachey, Mr. Joyce, and [Mr. Eliot](/20c/20c-eliot-biography/), the direction of critical travel is immediately clear.
 
 In an odd parallel with fellow dramatist and author [Jerome K. Jerome](/19c/19c-jerome-biography/), he married the wife of his first cousin when her abusive marriage ended in divorce in 1905. It is unclear whether the two men met, but Jerome’s daughter Rowena would later act in at least one of Galsworthy’s plays and Jerome himself contributed to Galsworthy’s _Reveille_ in aid of disabled sailors and soldiers, in 1915.
