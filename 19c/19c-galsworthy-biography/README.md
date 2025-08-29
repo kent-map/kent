@@ -20,6 +20,7 @@ Galsworthy’s most famous work,  _The Forsyte Saga_, is disappointingly bare of
 Galsworthy himself died at his home in Hampstead on 31 January 1933.
 <br><br>
 This article was published 29 August 2025.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Broadstairs_Jetty.jpg" label="Broadstairs Jetty c.1912" attribution="Nic Costa Archive">
 
 ### Bibliography 
 Dupré, Catherine. [_John Galsworthy: a Biography_]( https://archive.org/details/johngalsworthybi0000dupr/mode/2up). London: Collins, 1976.   
