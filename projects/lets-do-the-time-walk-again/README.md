@@ -114,7 +114,7 @@ Deal Museum holds large collections of postcards, prints, photographs, records a
 
 [The Dickens Museum, Broadstairs](/dickensmuseum)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/d3/Dickens_House_Broadstairs.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/dickensmuseum.jpg)
 
 Collections at the Dickens Museum, Broadstairs include Dickensiana and related items documenting the importance of Dickens's legacy to the town. They include rare editions, 20th century Dickens Festival slides and
 programmes; photographs of author and festival organiser, Gladys Waterer. Other unique items relating to Thanet include the rate book for Broadstairs and St Peter's 1838-39 and rate book for St Peter's 1843 including lodgings occupied by Marian Evans (George Eliot). Image Credit: Tony Hisgett from Birmingham, UK, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
