@@ -15,7 +15,7 @@ This article draws on a pamphlet entitled _Coach Tour of Joseph Conrad’s Homes
 
 **Pent Farm, Postling**
 <br>
-The very first page, after the contents of course, is concerned with “the second home” Conrad occupied after his marriage – Pent Farm in Postling, near Hythe.[^ref1]  Pent Farm was the former residence of Ford Madox Hueffer, who was there from 1897-1898, and from whom Joseph Conrad and Jessie George took over the tenancy. (Interestingly, at the time of writing, the property is for sale with an asking price of £1,500,000). A beautiful cottage, the lintel of Pent Farm once contained a quotation, reputedly by Walter Crane, which read: 
+The very first page, after the contents of course, is concerned with “the second home” Conrad occupied after his marriage – Pent Farm in Postling, near Hythe.[^ref1]  Pent Farm was the former residence of [Ford Madox Hueffer](/20c/20c-fordmadoxford-biography/), who was there from 1897-1898, and from whom Joseph Conrad and Jessie George took over the tenancy. (Interestingly, at the time of writing, the property is for sale with an asking price of £1,500,000). A beautiful cottage, the lintel of Pent Farm once contained a quotation, reputedly by Walter Crane, which read: 
 <br><br>
 Want we not for board or tent    
 While overhead we have the Pent
