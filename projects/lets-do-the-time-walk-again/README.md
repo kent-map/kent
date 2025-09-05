@@ -106,7 +106,7 @@ The Ramsgate Clock House Museum contains documents relating to the history of th
 
 [Deal Museum](/dealmuseum)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=xx.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/dealmuseum.jpg)
 
 Deal Museum holds large collections of postcards, prints, photographs, records and newspapers that show the history of the town through the ages: naval town; smuggling town; base for the Royal Marines; mining town and seaside resort. The thread running through it is the beach - for example the by-elections in 1880 saw the beach as a site of electioneering, corruption and rioting, with canvassers jockeying to influence residents with 'a pint or a purse', resulting in the effective disenfranchisement of the constituency. 
 
@@ -123,7 +123,7 @@ programmes; photographs of author and festival organiser, Gladys Waterer. Other 
 
 [The Guildhall Museum, Sandwich](/sandwich)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=xx.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/guildhallmuseum.jpg)
 
 Sandwich Guildhall Museum holds early 20th century postcards and cartes de visite. These collections show the vibrant life of the Cinque Port town, which has close links with neighbouring Deal, including correspondence addresses of early visitors to Sandwich that will stimulate research into visitor demographics from the start of the last century. This history has been eclipsed due to the greater accessibility of records relating to Thanet resorts. 
 
