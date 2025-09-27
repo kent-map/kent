@@ -2,8 +2,7 @@
 <param ve-config title="Virginia Woolf (1882-1941)" author="Dr Victoria Callanan" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/8/85/Sissinghurst_Castle.jpg" label="Sissinghurst Castle" attribution="Digihum">
 <param ve-entity eid="Q1971996" aliases="Sissinghurst">
 <param ve-entity eid="Q1285144" aliases="Knole House">
-<param ve-entity eid="Q2204332" aliases="Long Barn">
-<param ve-entity eid="Q1547383" aliases="Groombridge Place">
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
 Virginia Woolf’s relationship to and feelings about Kent are most often explored via her visits to Sissinghurst Castle Garden, where her friend and lover [Vita Sackville-West](//20c/20c-sackville-west-biography) crafted a literary bolthole amidst the crumbling towers and sprawling rose gardens. In a poem dedicated to Woolf, written in 1930, Vita elucidates:
 <br><br>
