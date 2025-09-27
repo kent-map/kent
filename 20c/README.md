@@ -58,6 +58,7 @@
 [Gladys Waterer](20c-waterer-biography)   
 [H.G. Wells](20c-wellshg-biography)   
 [S.E. Winbolt](20c-winbolt-biography)   
+[Virginia Woolf](20c-woolf-biography)   
 [Pamela Wynne](20c-wynne-biography)   
 
 ### Places
