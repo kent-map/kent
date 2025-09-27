@@ -33,4 +33,4 @@ The Regal Cinema, now the Odeon (by the St George’s roundabout), was also fort
 ***
 
 Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce](/canterbury/20c-canterbury-commerce) and [industrial heritage](/canterbury/20c-canterbury-industrial), its [retail industry](/canterbury/20c-canterbury-retail-store) and [trading estates](/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city](/canterbury/20c-canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport](/canterbury/20c-canterbury-transport) infrastructure and the [railway](/canterbury/20c-canterbury-railway), and [planning](/canterbury/20c-canterbury-planning) decisions.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/1557px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" label="Canterbury Cathedral" attribution="Hans Musil, CC BY-SA 4.0"> 
+
