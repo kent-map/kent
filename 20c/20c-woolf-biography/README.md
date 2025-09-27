@@ -17,7 +17,7 @@ Vita’s purchase and reclamation of the Sissinghurst Castle estate was in direc
 <br><br>
 The National Trust confirms that:
 <br><br>
-In ‘Orlando: A Biography’, the main character is always in possesion of their ancestral home, and this certainty was Virginia’s gift to Vita. On 6 December 1928 Virginia gave her original manuscript, written in distinctive purple ink, to Vita with a dedication on the first page. The manuscript was preserved in Vita’s secluded Tower Writing Room at Sissinghurst Castle until her death in 1962.1  
+In ‘Orlando: A Biography’, the main character is always in possesion of their ancestral home, and this certainty was Virginia’s gift to Vita. On 6 December 1928 Virginia gave her original manuscript, written in distinctive purple ink, to Vita with a dedication on the first page. The manuscript was preserved in Vita’s secluded Tower Writing Room at Sissinghurst Castle until her death in 1962.[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0a/Knole_Park.jpg" label="Knole Park" attribution="Digihum">
 
 Virginia Woolf’s relationship with Kent is not limited to her relationship with [Vita](//20c/20c-sackville-west-biography), however, and there are numerous references to visits to the country from her early diaries and letters, written long before she first met Vita in 1922. Most clearly, in a 1904 letter to Emma Vaughan, she said, ‘There is no lovelier place than Canterbury ... that I say with my hand on my heart as I sit in Florence--and I have seen Venice too.’ (April 25th 1904, Letters [L] 1 138).
@@ -34,4 +34,6 @@ Virginia Woolf references [Canterbury](/canterbury/20c-canterbury-overview) very
 In the confusion and obfuscation of the communication between the pair, it is the existence and description of [Canterbury](/canterbury/20c-canterbury-overview) which feels the most clear and true, ‘And always she saw Canterbury, all thundercloud and livid apple blossom, and the long grey backs of the buildings.’  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cc/Childe_Hassam_-_Canterbury_Cathedral_%28recto%29_-_1938.65.a_-_Cleveland_Museum_of_Art.tif" label="Canterbury Cathedral by Childe Hassam, Cleveland Museum of Art" attribution="Cleveland Museum of Art, CC0, via Wikimedia Commons">
 
+### References
 
+[^ref1]: [The Orlando Manuscript at Knole](https://www.nationaltrust.org.uk/visit/kent/knole/the-orlando-manuscript-at-knole)
