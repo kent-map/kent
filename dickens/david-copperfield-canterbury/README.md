@@ -18,18 +18,17 @@ a grave building in a courtyard, with a learned air about it that seemed very we
 
 Tradition places Dr Strong’s house at 1 Lady Wootton’s Green, although some remain sceptical. Not least among them, a 1928 guide writer insists that ‘I can give a dozen reasons as to the utter absurdity of it. Fancy the Head Master of the King’s School living by St Augustine’s College. He might as well have lived in Dover. Dr Strong lived in the Precincts. adjoining his school.’[^ref3]
 <param ve-compare curtain url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" label="St Augustine's College, Canterbury, 2021">
-<param ve-compare url="https://stor.artstor.org/stor/deb8a6fd-bc51-42fb-8ac2-28b556c482ab" label="St Augustine's College, Canterbury (1905 or earlier)">
+<param ve-compare url="https://stor.artstor.org/stor/deb8a6fd-bc51-42fb-8ac2-28b556c482ab" label="St Augustine's College, Canterbury, 1905 or earlier">
 
 David's first impression though is of ‘the sunny street [Sun Street?] of [Canterbury](/19c/19c-canterbury), dozing as it were in the hot light’.[^ref4]   
 Though a plaque on the wall of the Sun Hotel claims it as Dickens’s ‘Little Inn’, In the 1899 _Rambles in Dickens Land_ Robert Allbut claims that the inn is the Queen’s Head (otherwise The Three Tuns) on the south corner of Watling Street and facing St Margaret’s St. And while we are on the subject of pubs, it is pleasant to imagine David passing the [Bat and Ball](http://www.dover-kent.com/Bat-and-Ball-Canterbury.html) by the cricket ground on his thankless walk along the [Dover Road](/dickens/david-copperfield-dover-road).
 <param ve-compare curtain url="https://stor.artstor.org/stor/540e3df7-9640-4a34-bdd0-0db1e789a285" label="Sun Hotel">
 <param ve-compare url="https://stor.artstor.org/stor/f4b4c004-85c4-4ab4-beeb-6939c4cab796" label="Sun Hotel, 2021 by Becca Miller, Charli Salter-Mclean, Chloe Bartolo">
  
-Dickens’ relationship with [Canterbury](/19c/19c-canterbury) was the basis of calls from locals such as A. C. Turley for a local branch of the Dickens Society. But his response is actually somewhat ambivalent. A reader of [_David Copperfield_](/dickens/david-copperfield-curated-walk) would revel in the fond, almost loving, evocation of a Cathedral town (compared with the much starker depiction of Cloisterham (Rochester) in [_The Mystery of Edwin Drood_ )](/dickens/edwin-drood-curated-walk), but that is not a feature of his letters or other writings. He bought Cruikshank's _Bottle_ here in 1847, took a friend 'in tow to Canterbury' in 1848,[^ref5] and took his American publisher and his wife on a 'Canterbury Pilgrimage' in 1869.[^ref6] But the only obviously affectionate reference to the city is in his appreciation of the warmth of the crowd at a reading he gave at the Guildhall, in a letter to his daughter from the now destroyed Fountain Hotel.    
-
+Dickens’ relationship with [Canterbury](/19c/19c-canterbury) was the basis of calls from locals such as A. C. Turley for a local branch of the Dickens Society. But his response is actually somewhat ambivalent. A reader of [_David Copperfield_](/dickens/david-copperfield-curated-walk) would revel in the fond, almost loving, evocation of a Cathedral town (compared with the much starker depiction of Cloisterham (Rochester) in [_The Mystery of Edwin Drood_ )](/dickens/edwin-drood-curated-walk), but that is not a feature of his letters or other writings. He bought Cruikshank's _Bottle_ here in 1847, took a friend 'in tow to Canterbury' in 1848,[^ref5] and took his American publisher and his wife on a 'Canterbury Pilgrimage' in 1869.[^ref6] But the only obviously affectionate reference to the city is in his appreciation of the warmth of the crowd at a reading he gave at the Guildhall, in a letter to his daughter from the now destroyed Fountain Hotel.
+<br><br>
 Other landmarks still recognisable in the city include The Abode Hotel, (see [Mobile Landscapes](/dickens/mobile-landscapes)) which may be the hotel Mr Dick stays in on his frequent visits to the city (Charles Harper claims the 'County Inn' as the original but confuses it with the nearby Fountain. The Fountain was subsequently destroyed in WW2, and the County Inn changed its name to the Abode). 
-
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Abode_Hotel_Canterbury.jpg" label="Abode Hotel by DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons" attribution="DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons">
 
 ## Bibliography
 
