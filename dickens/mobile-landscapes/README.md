@@ -143,7 +143,7 @@ Buoyed by our success, we made our way back down the High Street, where it was c
 
 **(In which we don’t go to) Folkestone**   
 [Chaucer’s pilgrims](/medieval/14c-chaucer), may we remind ourselves, never get anywhere near Canterbury. [Jerome](/19c/19c-jerome-biography)’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is [Broadstairs](/dickens/broadstairs), been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of [Folkestone](/dickens/dickens-folkestone).
-<param ve-image iiifmirador primary manifest="https://raw.githubusercontent.com/kent-map/kent/main/manifests/folkestone.json">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/19/Old_High_Street%2C_Folkestone_-_geograph.org.uk_-_7732191.jpg" label="Old High Street Folkestone by Nigel Thompson, CC BY-SA 2.0, via Wikimedia Commons" attribution="Nigel Thompson, CC BY-SA 2.0, via Wikimedia Commons">
 <!-- Base map centered on Folkestone -->
 <param ve-map center="Q375314" zoom="13">
 
