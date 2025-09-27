@@ -7,7 +7,7 @@
 #
 
 The Free Library in [Canterbury](/19c/19c-canterbury/) dates back to 1858. It was the first in the country to be established under the 1850 Library Act, which enabled free public access to books and amenities, paid for out of a 1d levy on local rates. Maidstone was another early adopter of the new Act, setting up a Free Library in 1858. [Folkestone](/19c/19c-folkestone-free-library) followed suit in 1879.[^ref1]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Beaney_House_of_Art_and_Knowledge_2015.JPG/1062px-Beaney_House_of_Art_and_Knowledge_2015.JPG" label="Beaney Institute" attribution="Geni, via Wikimedia Commons" license="CC BY-SA 4.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Beaney_House_of_Art_and_Knowledge_2015.JPG" label="Beaney Institute by Geni, CC BY-SA 4.0, via Wikimedia Commons" attribution="Geni, via Wikimedia Commons" license="CC BY-SA 4.0">
 
 The Canterbury Corporation started with a modest assortment of books, having taken over the library and museum collections of the Canterbury Philosophical and Literary Institution (originally based in Guildhall Street). The nationwide Phil and Lits, as they were known, offered important opportunities to their members, through the free provision of books. But importantly, the Library Act enabled access to a public reading room - and crucially libraries were under considerable pressure from users to include fiction.
 <br><br>
@@ -28,6 +28,8 @@ The continued use of an ‘indicator’ in 1915 suggests the continuing control 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Beaney_Institute_1899-1918_002.jpg" label="Beaney Institute" attribution="Anonymous, Unknown author, Public domain, via Wikimedia Commons">
 
 But strict interpretation  of the rules continued to cause problems well into the twentieth century. In 1938 the novelist [Nora Salmon](/20c/20c-salmon-biography/) found herself unable to borrow books because she had a Harbledown address. She was rescued by the intervention of Councillor Stone and Canterbury’s first female mayor Catherine Williamson, who agreed that it was ‘nice to have a lady of considerable literary distinction in their midst’.
+<br><br>
+This article was published 20 April 2025.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/90/James_George_Beaney_memorial_02.JPG" label="James George Beaney Memorial" attribution="Jonathan Cardy, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 ### Bibliography 
