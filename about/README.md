@@ -13,7 +13,7 @@ The project team hosts an annual [Kent Digital Maps Symposium](https://www.cante
 
 # Project Team
 
-This site is the product of a collaboration between [JSTOR Labs](https://labs.jstor.org) and a team led by Carolyn Oulton, Professor of Victorian Literature in the School of Humanities and Educational Studies, and Michelle Crowther, Academic Librarian, Canterbury Christ Church University.
+This site is the product of a collaboration between [JSTOR Labs](https://labs.jstor.org) and a team led by Carolyn Oulton, Professor of Victorian Literature in the School of Humanities and Educational Studies, and Dr Michelle Crowther, Academic Librarian, Canterbury Christ Church University.
 
 # &nbsp;
 `.cards`
@@ -32,7 +32,7 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Michelle.jpg)
 
-Michelle Crowther is a Learning and Research Librarian at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map. She is researching Kent history and Victorian manuscript magazines. 
+Dr Michelle Crowther is an Academic Librarian at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map. She is researching Kent history and Victorian manuscript magazines. 
 
 ## JSTOR Labs
 
