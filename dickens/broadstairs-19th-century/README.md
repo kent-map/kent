@@ -23,9 +23,9 @@ _a jolly old waterman, who paddles about apparently to pick up exhausted bathers
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8a/From_the_gardens%2C_Broadstairs%2C_England.jpg" label="From the gardens, Broadstairs" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons">
 
 The next year in 1897 the Broadstairs Pier and Harbour Commissioners complained that bye laws were being flagrantly disregarded and that one man bathing only in a ‘clout’ (a loosely tied piece of cloth) had been approached by an official, ‘whereupon the gentleman’s wife told her husband to knock him down for meddling’. The meeting noted that ‘while mixed bathing might be favoured at a place like Margate’ (which it was not, incidentally)  ’they wanted to keep Broadstairs select’.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/00/On_the_Beach%2C_Broadstairs%2C_Kent_.PNG" label="Sir Robert Staples, 12th Baronet: On the Beach, Broadstairs, 1899" attribution="National Gallery of Ireland, Public domain, via Wikimedia Commons">
-
+<br><br>
 Feeling active? You may want to try this [Turner and Dickens walk]( https://explorekent.org/activities/turner-dickens-walk/)
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/00/On_the_Beach%2C_Broadstairs%2C_Kent_.PNG" label="Sir Robert Staples, 12th Baronet: On the Beach, Broadstairs, 1899" attribution="National Gallery of Ireland, Public domain, via Wikimedia Commons">
 
 ### Bibliography
 
