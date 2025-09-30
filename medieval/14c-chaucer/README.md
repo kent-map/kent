@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Geoffrey Chaucer c.1340s-1400" author="Charlotte Worthington" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg/1024px-Blake_Canterbury_Pilgrims_engraving.jpg">
+<param ve-config title="Geoffrey Chaucer c.1340s-1400" author="Charlotte Worthington" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg/1024px-Blake_Canterbury_Pilgrims_engraving.jpg">
 
 <param ve-entity eid="Q5654535" aliases="Harbledown">
 <param ve-entity eid="Q29303" aliases="Canterbury">

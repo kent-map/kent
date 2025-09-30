@@ -36,7 +36,7 @@ On their ‘Canterbury Pilgrimage’ of 1885 American visitors Joseph Pennell an
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-map center="Q29303" zoom="12.75">
 
-The presence of Londoners – or perhaps strangers in general -continued to be a source of tension in the early years of the twentieth century, as local author [Bessie Marchant](/19/19c-marchantb-biography)’s 1904 _Yew Tree Farm_ makes clear. The story of three sisters who take up farming on their own account, the book is largely preoccupied crop and sheep management as well as the mechanics of negotiating prices at market. Hop picking appears only briefly, but tellingly the narrator the flags up a decided tension between local workers and those from further afield:
+The presence of Londoners – or perhaps strangers in general -continued to be a source of tension in the early years of the twentieth century, as local author [Bessie Marchant](/19c/19c-marchantb-biography)’s 1904 _Yew Tree Farm_ makes clear. The story of three sisters who take up farming on their own account, the book is largely preoccupied crop and sheep management as well as the mechanics of negotiating prices at market. Hop picking appears only briefly, but tellingly the narrator the flags up a decided tension between local workers and those from further afield:
 <br><br>
 "The hop-pickers at Pegsden Court Lodge were limited in number to fifteen baskets, which number was regulated by the drying capacity of the oast-house. The pickers too were all villagers, the wives and families of Mr Tremont’s workpeople, with various additions from the small-shopkeeper class, and his own daughters, no ‘foreigners’ ever being imported to work with the Court Lodge hop-pickers, who in consequence considered themselves quite superior beings, giving themselves airs, and speaking of going hop-picking to set up their health for the winter, just as other people might talk of a trip to the seaside, or a continental tour."    
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22167.jpg" label="Hopping in Kent- Hop-picking in Yalding, Kent, England, UK, 1944" attribution="Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons">
@@ -57,7 +57,7 @@ It took the incisive language of a George Orwell to deconstruct these airbrushed
 
 ### Bibliography 
 
-Dickens, Charles. [The Uncommercial Traveller.](http://elibrary.club/dickens-the-uncommercial-traveller/76)    
+Dickens, Charles. _The Uncommercial Traveller._   
 Marchant, Bessie. _Yew Tree Farm: a story of a separate career._ London: SPCK, [1904].   
 Maugham, Somerset. _Of Human Bondage_. London: Vintage 2000.   
 Orwell. _A Clergyman’s Daughter_. London: Harvest, 1936.   
