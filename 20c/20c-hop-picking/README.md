@@ -57,7 +57,7 @@ It took the incisive language of a George Orwell to deconstruct these airbrushed
 
 ### Bibliography 
 
-Dickens, Charles. [The Uncommercial Traveller.](http://elibrary.club/dickens-the-uncommercial-traveller/76)    
+Dickens, Charles. _The Uncommercial Traveller._   
 Marchant, Bessie. _Yew Tree Farm: a story of a separate career._ London: SPCK, [1904].   
 Maugham, Somerset. _Of Human Bondage_. London: Vintage 2000.   
 Orwell. _A Clergyman’s Daughter_. London: Harvest, 1936.   
