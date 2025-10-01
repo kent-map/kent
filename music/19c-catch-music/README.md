@@ -23,7 +23,7 @@ In the end, none of this could ensure the survival of the glee beyond the end of
        
 In its heyday, the glee was a rather more demanding genre requiring a level of vocal dexterity and musical training not normally associated with amateur music-making. The men who sang the glees at a Catch Club evening were more likely to be professional singers. Fortunately for [Canterbury](/music/19c-music-canterbury) – and for every other cathedral city throughout the land, and for the nearby towns who may also have and a Catch or Glee Club to which these musicians could travel along the rapidly-improving roads of the nineteenth century – there was a ready supply of such talent in the local [cathedral choir](/music/19c-cathedral-singing). 
 <br><br>
-You can watch this video to find out more [Christ Price and the Canterbury Catch Club](https://youtu.be/dbKAb18w72c)
+You can watch this video to find out more [Chris Price and the Canterbury Catch Club](https://youtu.be/dbKAb18w72c)
 <param ve-image url="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" label="Canterbury Cathedral, from A Walk In and About the City of Canterbury" attribution="by William Gostling, 1825. no known copyright restrictions.">
 
 ### Bibliography
