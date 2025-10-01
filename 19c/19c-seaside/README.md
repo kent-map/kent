@@ -27,12 +27,11 @@ Women of all ages benefited from the greater freedom and healthier lifestyle of 
 The bye-laws in these resorts were notoriously confusing, and not everyone adhered to them, as [Israel Zangwill](/19c/19c-zangwill-biography) noticed in 1893:
 <br><br>
  At [Folkestone](/19c/19c-folkestone), where the machine-people are dreadfully set against ladies and gentlemen using the same water, promiscuous bathing flourishes more nakedly than anywhere on the Continent; and the gentlemen have neither tents nor costumes. In [Margate](/19c/19c-margate) the machines are of either sex, and the gentlemen are clad in coloured pocket-handkerchiefs. At Birchington, I bathed from a boat which was  besieged by a bevy of wandering water-nymphs, begging me to let them dive from it.
-<br><br>  
+<br><br>
 The more restrained [Broadstairs](/dickens/broadstairs-19th-century) on the other hand, had 'a jolly old waterman, who paddles about apparently to pick up exhausted bathers. One morning as I was swimming past his boat he warned me back. “Any danger?” I asked. “Ladies,” he replied, ambiguously enough. It thus transpired that his function is to preserve a scientific frontier between the sexes.'
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Venus%27s_bathing%2C_a_woman_swimming_in_the_sea_at_Margate._Wellcome_L0017752.jpg" label="Venus's bathing, a woman swimming in the sea at Margate" attribution="Wellcome L0017752" license="CC BY 4.0">
 <!--- Map centred on Nash to display NE Kent eastern coastline--->
 <param ve-map center="Q26386990" zoom="13">
-
 
 By the early decades of the 20th century visitors would be able to enjoy a body of holiday fiction set in the resort they were visiting: _Maggie of Margate: a Seaside Sensation,_ _The Passenger to 'Folkestone_, _The Beauty of Broadstairs_ and _A Girl of Thanet_, to name but a few.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6a/Westcliff-on-Sea._%28NBY_439605%29.jpg" label="Westcliff on Sea c.1900/1909" attribution="Leonard A. Lauder collection of Raphael Tuck & Sons postcards. Unknown author, Public domain, via Wikimedia Commons">
