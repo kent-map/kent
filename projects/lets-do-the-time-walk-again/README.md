@@ -66,9 +66,9 @@ Casey Evans is the IT Officer for the project. She has a BA in Creative and Prof
 
 [Darran Cowd]()
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/darran_cowd.jpg)
 
-Darran Cowd is the Museums Manager at Thanet District Council. His job is to care for and grow the Council’s three museums; Margate Museum, Dickens House Museum (Broadstairs) and Ramsgate Maritime Museum, as well as Margate’s Tudor House.
+Darran has worked in museums and heritage for thirty years. A curator and archivist by training he has held variety of curatorial posts in local and national museums including the RAF Museum and National Coal Mining Museum. For the last ten years Darran has been based in Kent working on a number of National Lottery funded museum development projects including the Kent Mining Museum and Folkestone Museum. His passion is industrial heritage & archaeology and has been involved professionally and voluntarily in the conservation of scheduled industrial monuments, restoration to working order of a number of steam locomotives and the excavation & exploration of a Tudor Cornish tin mine.
 
 
 ## Lisa Redding
