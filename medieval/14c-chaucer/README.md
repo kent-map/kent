@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Geoffrey Chaucer c.1340s-1400" author="Charlotte Worthington" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg/1024px-Blake_Canterbury_Pilgrims_engraving.jpg">
+<param ve-config title="Geoffrey Chaucer c.1340s-1400" author="Charlotte Worthington" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/4/42/Geoffrey_Chaucer%2C_Tale_of_Melibee%2C_Ellesmere_Chaucer%2C_mssEL_26_C_9%2C_folio_153v.jpg" label="Tales of Melibee, Ellesmere Chuacer" attribution="The Huntingdon Library, Ellesmere Chaucer, mssEL 26 C 9, folio 153v, unknown artist, 1400-1410, England, Public domain, via Wikimedia Commons">
 
 <param ve-entity eid="Q5654535" aliases="Harbledown">
 <param ve-entity eid="Q29303" aliases="Canterbury">
