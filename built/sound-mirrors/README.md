@@ -1,12 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Kent Piers" author="Martin Easdown" layout="vtl" banner="https://stor.artstor.org/stor/d1087754-5201-4025-a7c8-2c8fec21d2f9">
+<param ve-config title="Sound Mirrors" author="Rod Edmond" layout="vtl" banner="https://stor.artstor.org/stor/d1087754-5201-4025-a7c8-2c8fec21d2f9">
 
 <param ve-entity eid="Q179224" aliases="Dover">
-<param ve-entity eid="Q1000312" aliases="Sandgate">
-
-
-Sound Mirrors
-Rod Edmond
 
 Sound Mirrors were an early warning device installed around the south coast during and after the First World War to detect the approach of enemy aircraft. Known as ‘whisper dishes’ or ‘listening ears’, they were concave concrete constructions often with a microphone at the front to amplify the sound caught by the dish. Quaint as they now seem, and by the 1930s the increasing speed of aircraft made them of limited use, the system of linked stations for plotting aircraft movements they formed was adopted by the radar system that replaced it. 
 
@@ -24,13 +19,13 @@ On the approach to the village of Capel-le-Ferne is another Sound Mirror. Unlike
 
 The Mirror itself is much larger than Corporal Cocks, bigger than those at Fan Bay as well, but it too is dwarfed, by history rather than scale, a stone-age Sky dish out of time but still defiantly in place.
 
-Word Count: 472
+This article was written: 8 October 2025.
 
  
-Bibliography
+### Bibliography
 
-Edmond, R. (2023). Borderland. Troubador Publishing Ltd.
-National Trust. (2015). Fan Bay Battery Brief History |Kent. [online] Available at: https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover/fan-bay-battery---a-brief-history [Accessed 9 Sep. 2025].
+Edmond, R. (2023). _Borderland._ Troubador Publishing Ltd.
+National Trust. (2015). _Fan Bay Battery Brief History_. [online] Available at: https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover/fan-bay-battery---a-brief-history [Accessed 9 Sep. 2025].
 
 
 
