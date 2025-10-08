@@ -1,3 +1,10 @@
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="Kent Piers" author="Martin Easdown" layout="vtl" banner="https://stor.artstor.org/stor/d1087754-5201-4025-a7c8-2c8fec21d2f9">
+
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q1000312" aliases="Sandgate">
+
+
 Sound Mirrors
 Rod Edmond
 
