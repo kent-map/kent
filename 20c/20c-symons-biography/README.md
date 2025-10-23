@@ -82,6 +82,7 @@ This article was published: 28 June 2023
 [Desert Island Discs 15 May 1982](https://www.bbc.co.uk/sounds/play/p009mkqf)  
 Edwards, Martin, _The Golden Age of Murder: The Mystery of the Writers Who Invented the Modern Detective Story._ London: Collins Crime Club, 2015.  
 Lejeune, Anthony. ‘Symons, Julian Gustave (1912–1994), writer.’ _Oxford Dictionary of National Biography_.  23. Oxford University Press.   
+Oulton, Carolyn W. de la L. ‘Julian Symons’s (Neo-)Victorian Criminals: “she might be a she-devil, but she looked more like an angel”.’ _Neo-Victorian Studies_, 2025.
 Symons, Julian. _The Belting Inheritance_ London: British Library, 2018.  
 --. Julian Symons collection of papers 1929-1967. Berg Coll MSS Symons, J. New York Public Library.   
 --. ‘Critic Between the Lines’. _The Spectator_. 12 March 1954. 290.   
