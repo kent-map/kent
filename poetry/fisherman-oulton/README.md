@@ -26,6 +26,3 @@ in the colours of the sea.
 
 First published in _Thanet Writers_, (2020). Inspired by an exhibit at [Folkestone Museum](https://www.folkestonemuseum.co.uk/)
 
-
-
-First published in _Thanet Writers_, (2020).
