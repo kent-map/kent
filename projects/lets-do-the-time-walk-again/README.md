@@ -52,16 +52,6 @@ Lesley Hardy is the Impact Officer for the Project. She is the Director of Timel
 
 Lily Turvey is the Admin Officer for the Project. She has a BA in History from Cardiff University and is completing her MA in Heritage at Canterbury Christ Church University.
 
-
-## Casey Evans
-
-[Casey Evans]()
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/xx.jpg)
-
-Casey Evans is the IT Officer for the project. She has a BA in Creative and Professional Writing.
-
-
 ## Darran Cowd
 
 [Darran Cowd]()
