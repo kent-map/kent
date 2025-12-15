@@ -20,7 +20,7 @@ On the approach to the village of Capel-le-Ferne is another Sound Mirror. Unlike
 The Mirror itself is much larger than Corporal Cocks, bigger than those at Fan Bay as well, but it too is dwarfed, by history rather than scale, a stone-age Sky dish out of time but still defiantly in place.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7f/Sound_Mirror%2C_Abbots_Cliff_-_geograph.org.uk_-_4606894.jpg" label="Sound Mirror, Abbot Cliff, Near Capel-le-Ferne by Chris Whippet, CC BY-SA 2.0, via Wikimedia Commons" attribution="Chris Whippet" license="CC BY-SA 2.0">
 
-This article was written: 8 October 2025.
+This article was edited and prepared by Kay Whalley: 8 October 2025.
 
  
 ### Bibliography
