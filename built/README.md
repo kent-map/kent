@@ -77,6 +77,14 @@ According to local folklore, the Saxon mercenaries Hengist and Horsa are said to
 
 In the nineteenth century, Kent resorts began to build piers, principally for use as landing stages, although, they soon became popular marine promenades.
 
+## Sound Mirrors
+
+[Sound Mirrors](/built/sound-mirrors)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/built Denge Sound Mirror.jpg)
+
+Sound Mirrors were an early warning device installed around the south coast during and after the First World War to detect the approach of enemy aircraft. 
+
 ## Victorian Turkish Baths
 
 [Victorian Turkish Baths](/19c/19c-turkish-baths)
