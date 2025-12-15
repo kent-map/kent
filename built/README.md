@@ -65,7 +65,7 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 [Medway Megaliths](/built/megaliths)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/kits_coty.JPG)
+![](https://upload.wikimedia.org/wikipedia/commons/8/82/Alfred_Gomersal_Vickers_-_Kits_Coty_House%2C_Near_Maidstone%2C_Kent_-_B1977.14.4214_-_Yale_Center_for_British_Art.jpg)
 
 According to local folklore, the Saxon mercenaries Hengist and Horsa are said to be buried at the Kit’s Coty House and the close by White Horse Stone.
 
@@ -81,7 +81,7 @@ In the nineteenth century, Kent resorts began to build piers, principally for us
 
 [Sound Mirrors](/built/sound-mirrors)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/built_Denge_Sound Mirror.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Denge_Sound_Mirror.jpg)
 
 Sound Mirrors were an early warning device installed around the south coast during and after the First World War to detect the approach of enemy aircraft. 
 
