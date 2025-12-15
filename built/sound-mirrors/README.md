@@ -19,7 +19,6 @@ Caves and tunnels are two-a-penny around the Dover coastline, but Sound Mirrors 
 The Sound Mirrors predated the deep shelter. The first, a prototype of the acoustic warning system, has a fifteen-foot radius and was installed during the First World War in 1917. The other, five foot larger, joined it in the late 1920s. The mirrors are not just quaint, like penny-farthing bicycles, but they work.
 <br><br>
 Leaving the Sound Mirrors of Fan Bay behind, it is possible to walk from the White Cliffs of Dover to Folkestone, crunching along the pebbles of Shakespeare Beach.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/af/Sound_Mirror_at_Fan_Bay_Deep_Shelter.jpg" label="Sound Mirror at Fan Bay Deep Shelter by nklin235, CC BY-SA 4.0, via Wikimedia Commons" attribution="Nklin235" license="CC BY-SA 4.0">
 <param ve-map center="Q20711474" zoom="15">
 
 On the approach to the village of Capel-le-Ferne is another Sound Mirror. Unlike those at Fan Bay, this one stands on top of the cliff, isolated and exposed rather than dug into the side of a hill. It has stood here for nearly a century, cracked and weathered now, haggard and forlorn. There’s a photograph from the Second World War of Corporal Sidney Cocks of the 5th Folkestone Home Guard standing alone with a First World War Lee-Enfield Mk1 on these cliffs at Capel-le-Ferne, guarding the nation. From the shape of the cliffs, he must have been patrolling near the Sound Mirror. 
