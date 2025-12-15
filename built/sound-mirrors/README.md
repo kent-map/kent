@@ -16,8 +16,9 @@ The Sound Mirrors predated the deep shelter. The first, a prototype of the acous
 Leaving the Sound Mirrors of Fan Bay behind, it is possible to walk from the White Cliffs of Dover to Folkestone, crunching along the pebbles of Shakespeare Beach.
 
 On the approach to the village of Capel-le-Ferne is another Sound Mirror. Unlike those at Fan Bay, this one stands on top of the cliff, isolated and exposed rather than dug into the side of a hill. It has stood here for nearly a century, cracked and weathered now, haggard and forlorn. There’s a photograph from the Second World War of Corporal Sidney Cocks of the 5th Folkestone Home Guard standing alone with a First World War Lee-Enfield Mk1 on these cliffs at Capel-le-Ferne, guarding the nation. From the shape of the cliffs, he must have been patrolling near the Sound Mirror. 
-
+<br><br>
 The Mirror itself is much larger than Corporal Cocks, bigger than those at Fan Bay as well, but it too is dwarfed, by history rather than scale, a stone-age Sky dish out of time but still defiantly in place.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7f/Sound_Mirror%2C_Abbots_Cliff_-_geograph.org.uk_-_4606894.jpg" label="Sound Mirror, Abbot Cliff, Near Capel-le-Ferne by Chris Whippet, CC BY-SA 2.0, via Wikimedia Commons" attribution="Chris Whippet" license="CC BY-SA 2.0">
 
 This article was written: 8 October 2025.
 
