@@ -81,7 +81,7 @@ In the nineteenth century, Kent resorts began to build piers, principally for us
 
 [Sound Mirrors](/built/sound-mirrors)
 
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/built Denge Sound Mirror.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/built_Denge_Sound Mirror.jpg)
 
 Sound Mirrors were an early warning device installed around the south coast during and after the First World War to detect the approach of enemy aircraft. 
 
