@@ -4,7 +4,7 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 
 Sound Mirrors were an early warning device installed around the south coast during and after the First World War to detect the approach of enemy aircraft. Known as ‘whisper dishes’ or ‘listening ears’, they were concave concrete constructions often with a microphone at the front to amplify the sound caught by the dish. Quaint as they now seem, and by the 1930s the increasing speed of aircraft made them of limited use, the system of linked stations for plotting aircraft movements they formed was adopted by the radar system that replaced it. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Sound_mirror_at_Denge%2C_Kent_%2840134326841%29.jpg" label="Sound Mirror at Denge, Kent, by Jules & Jenny from Lincoln, UK, CC BY 2.0" attribution="Jules & Jenny from Lincoln, UK, CC BY 2.0, via Wikimedia Commons" license="CC BY 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Denge_Sound_Mirrors_-_geograph.org.uk_-_2426955.jpg" label="Denge Sound Mirrors by Oast House Archive, CC BY-SA 2.0, via Wikimedia Commons" attribution="Oast House Archive, via Wikimedia Commons" license="CC BY-SA 2.0">
 
 In 2014, the National Trust excavated the area in and around the deep shelter of Fan Bay - a section of land along the White Cliffs of Dover - to uncover a pair of Sound Mirrors. In the late 1970s Dover Council had buried and backfilled the entrance to the underground shelter and entombed the Sound Mirrors in hundreds of tonnes of soil topped with chalk as part of a designated ‘eyesore clearance programme’.
 <br><br>
