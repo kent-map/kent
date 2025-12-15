@@ -13,7 +13,7 @@ The ‘eyesore clearance programme’ had been intended to destroy all trace and
 Caves and tunnels are two-a-penny around the Dover coastline, but Sound Mirrors are like rare fossils. Fully exposed, the mirrors are monumental and elegant, combining these normally opposed qualities in the same way that the term ‘Sound Mirror’ combines sight and sound in a synaesthesia all its own. 
 <br><br>
 The Sound Mirrors predated the deep shelter. The first, a prototype of the acoustic warning system, has a fifteen-foot radius and was installed during the First World War in 1917. The other, five foot larger, joined it in the late 1920s. The mirrors are not just quaint, like penny-farthing bicycles, but they work.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sound_Mirror_at_Fan_Bay_Deep_Shelter.jpg/960px-Sound_Mirror_at_Fan_Bay_Deep_Shelter.jpg" label="Sound Mirror at Fan Bay Deep Shelter by nklin235, CC BY-SA 4.0, via Wikimedia Commons" attribution="Nklin235" license="CC BY-SA 4.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sound_Mirror_at_Fan_Bay_Deep_Shelter.jpg/500px-Sound_Mirror_at_Fan_Bay_Deep_Shelter.jpg" label="Sound Mirror at Fan Bay Deep Shelter by nklin235, CC BY-SA 4.0, via Wikimedia Commons" attribution="Nklin235" license="CC BY-SA 4.0">
 
 
 Leaving the Sound Mirrors of Fan Bay behind, it is possible to walk from the White Cliffs of Dover to Folkestone, crunching along the pebbles of Shakespeare Beach.
