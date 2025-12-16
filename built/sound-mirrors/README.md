@@ -14,7 +14,7 @@ In 2014, the National Trust excavated the area in and around the deep shelter of
 <br><br>
 The ‘eyesore clearance programme’ had been intended to destroy all trace and reminder of both world wars but actually, it created a time capsule that preserved the deep shelter, the Sound Mirrors and its signs of human habitation. 
 <br><br>
-Caves and tunnels are two-a-penny around the Dover coastline, but Sound Mirrors are like rare fossils. Fully exposed, the mirrors are monumental and elegant, combining these normally opposed qualities in the same way that the term ‘Sound Mirror’ combines sight and sound in a synaesthesia all its own. 
+Caves and [tunnels](/20c/20c-secret-tunnels/) are two-a-penny around the Dover coastline, but Sound Mirrors are like rare fossils. Fully exposed, the mirrors are monumental and elegant, combining these normally opposed qualities in the same way that the term ‘Sound Mirror’ combines sight and sound in a synaesthesia all its own. 
 <br><br>
 The Sound Mirrors predated the deep shelter. The first, a prototype of the acoustic warning system, has a fifteen-foot radius and was installed during the First World War in 1917. The other, five foot larger, joined it in the late 1920s. The mirrors are not just quaint, like penny-farthing bicycles, but they work.
 <br><br>
