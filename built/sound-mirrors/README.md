@@ -12,7 +12,7 @@ Sound Mirrors were an early warning device installed around the south coast duri
 
 In 2014, the National Trust excavated the area in and around the deep shelter of Fan Bay - a section of land along the White Cliffs of Dover - to uncover a pair of Sound Mirrors. In the late 1970s Dover Council had buried and backfilled the entrance to the underground shelter and entombed the Sound Mirrors in hundreds of tonnes of soil topped with chalk as part of a designated ‘eyesore clearance programme’.
 <br><br>
-The ‘eyesore clearance programme’ had been intended to destroy all trace and reminder of both world wars but actually, it created a time capsule that preserved the deep shelter, the Sound Mirrors and its signs of human habitation. 
+The ‘eyesore clearance programme’ had been intended to destroy all trace and reminder of both world wars, but actually it created a time capsule that preserved the deep shelter, the Sound Mirrors and its signs of human habitation. 
 <br><br>
 Caves and [tunnels](/20c/20c-secret-tunnels/) are two-a-penny around the Dover coastline, but Sound Mirrors are like rare fossils. Fully exposed, the mirrors are monumental and elegant, combining these normally opposed qualities in the same way that the term ‘Sound Mirror’ combines sight and sound in a synaesthesia all its own. 
 <br><br>
