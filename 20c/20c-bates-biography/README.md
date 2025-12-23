@@ -50,7 +50,7 @@ As well as fiction, H.E. Bates wrote a biography of Edward Garnett, literary men
 Bates died in Canterbury on 29 January 1974 and is interred at Charing Crematorium.
 <br><br>
 This article was published: 27 December 2023.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Former_Connaught_Barracks%2C_Dover_Road_-_geograph.org.uk_-_5131056.jpg" label="Fomer Connaught Barracks, Dover Road" attribution="John Baker, via Wikimedia Commons" license="CC BY-SA 2.0">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Former_Connaught_Barracks%2C_Dover_Road_-_geograph.org.uk_-_5131056.jpg" label="Former Connaught Barracks, Dover Road" attribution="John Baker, via Wikimedia Commons" license="CC BY-SA 2.0">
 <!-- Base map centred on Canterbury -->
 <param ve-map center="Q29303" zoom="12">
 
