@@ -230,8 +230,10 @@ https://www.kent-maps.online/austen/austen-sevenoaks/
 https://www.kent-maps.online/austen/austen-tunbridge-wells/
 https://www.kent-maps.online/built/
 https://www.kent-maps.online/built/invicta-park-barracks/
-https://www.kent-maps.online/built/lullingstone-roman-villa
-https://www.kent-maps.online/built/piers
+https://www.kent-maps.online/built/lullingstone-roman-villa/
+https://www.kent-maps.online/built/megaliths/
+https://www.kent-maps.online/built/piers/
+https://www.kent-maps.online/built/sound-mirrors/
 https://www.kent-maps.online/canterbury/
 https://www.kent-maps.online/canterbury/20c-canterbury-boom-city/
 https://www.kent-maps.online/canterbury/20c-canterbury-commerce/
