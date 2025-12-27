@@ -13,6 +13,14 @@ Shingly beaches, white cliffs and ferries. What was happening in Broadstairs, Ca
 
 Despite being the favoured holiday destination of no less a figure than Charles Dickens, Broadstairs never aimed to compete with either the much-vaunted gentility of Ramsgate or the mass appeal of Margate.
 
+## Medieval Canterbury
+
+[Medieval Canterbury](/medieval/medieval-canterbury/)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Medieval_Medieval_Canterbury.jpg)
+
+Canterbury has many fascinating medieval buildings including St Mildred's Church and Eastbridge. 
+
 ## Canterbury in the 19th century
 
 [Canterbury in the 19th century](/19c/19c-canterbury/)
