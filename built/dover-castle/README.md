@@ -94,3 +94,10 @@ Pattison, Paul, ‘History of Dover Castle’, *English Heritage*, https://www.e
 [^32]: Ibid.
 [^33]: Pattison.
 [^34]: Pattison and Davis.
+[^35]: Historic England, *Military Sites Post-1500: Scheduling Selection Guide.*, p.4.
+[^36]: Pattison.
+[^37]: Ibid.
+[^38]: Ibid.
+[^39]: Ibid.
+[^40]: Burton, p.131
+[^41]: Pattison
