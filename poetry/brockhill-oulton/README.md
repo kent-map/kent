@@ -3,7 +3,7 @@
 <param ve-config 
        title="Brockhill Park, Sunday Afternoon"
        author="Carolyn Oulton"
-       banner="https://upload.wikimedia.org/wikipedia/commons/f/fe/Brockhill_Country_Park%2C_Hythe_-_geograph.org.uk_-_7825536.jpg" label="Brockhill Country Park, Hythe by pam fray, CC BY-SA 2.0" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/6/60/Brockhill_Country_Park%2C_Hythe_-_geograph.org.uk_-_7825569.jpg" label="Brochill Country Park, Hythe" attribution="pam fray, CC BY-SA 2.0, via Wikimedia Commons" attribution="pam fray" license="CC BY-SA 2.0"
        layout="vertical">
        
 <param ve-entity eid="Q375314" title="Folkestone">
@@ -16,25 +16,25 @@ Strands of rain, wind’s pummelling,
 salt sun (even a woman, bent   
 like a pause in conversation)   
 have left that day intact.   
-
-
+<br><br>
 Today the day after that day   
 means tomorrow. I know at once   
 this is tomorrow. Grass that is almost   
 too green to be not quite pink,   
 a leaf glazed on the mudbank.   
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Brockhill_Country_Park%2C_Hythe_-_geograph.org.uk_-_7825536.jpg" label="Brockhill Country Park, Hythe by pam fray, CC BY-SA 2.0" license="CC BY-SA 2.0"> 
 
 Lumpy stones trudge across the stream,   
 holding my foot as my body   
 slides like foam, water reaching   
 for my toes. Another moment -   
 I am climbing the arch of a tree.   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Brockhill_Stream_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274562.jpg" label="Brockhill Stream in Brockhill Country Park by David Anstiss" attribution="David Anstiss, CC BY-SA 2.0" license="CC BY-SA 2.0">
-
+<br><br>
 No. Not that.   
 But I take off my watch,   
 prod a stick   
 in the direction of the sea.   
 Tell no one where I am.   
-
+<br><br>
 First published in [_Ourselves in Rivers and Oceans]_(https://www.theweesparrowpoetrypress.com/ourselves-in-rivers-and-oceans-a-poetry-anthology), The Wee Sparrow Poetry Press (2024).
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Brockhill_Stream_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274562.jpg" label="Brockhill Stream in Brockhill Country Park by David Anstiss" attribution="David Anstiss, CC BY-SA 2.0" license="CC BY-SA 2.0">
