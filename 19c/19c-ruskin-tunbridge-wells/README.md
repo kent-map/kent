@@ -25,6 +25,7 @@ Three years earlier, Ruskin had come to Tunbridge Wells for his health and visit
 <param ve-map center="51.135441947633204, 0.2632497416948856" zoom="15">
 
 Richardson who lived on Mount Ephraim Rd, was a member of the Useful Knowledge Institution and had invited Ruskin to speak. Ruskin had been lecturing for some time at the workings men college in London and a commentator has suggested that he felt more at ease when addressing audiences of a lower social standing, young people, women and girls, and working-class men. The audience of 400 was larger than usual, and may have included some of the wealthier inhabitants yet Ruskin seems to have been determined to address social issues as much as art.
+<param ve-map center="51.13483875552608, 0.2616101791371244" zoom="15">
 
 It was Ruskin’s style to challenge preconceptions about his subject. In the section 'Iron in Nature' he focused on iron in the form of rust, what he called its living state. He reminded the audience of the 'saffron stain' on the chalybeate spring that was so important to the town; and claimed that much of the beauty of the British landscape came from the rich rust colour of the bricks and tiles in country cottages. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Chalybeate_Spring_-_geograph.org.uk_-_3651499.jpg" label="The Chalybeate Spring" attribution="N Chadwick via Wikimedia Commons" license="CC BY-SA 2.0">
