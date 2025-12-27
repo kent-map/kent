@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="John Ruskin" author="Chris Jones" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg/1024px-The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg">
+<param ve-config title="John Ruskin" author="Chris Jones" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg/1024px-The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg">
 
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 <param ve-entity eid="Q7756008" aliases="The Pantiles">
