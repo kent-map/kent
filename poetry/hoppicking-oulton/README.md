@@ -3,14 +3,10 @@
 <param ve-config 
        title="Hop Picking"
        author="Carolyn Oulton"
-       banner="xxx" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/4/41/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22169.jpg" label="Hoppicking, Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons"
        layout="vertical">
        
-<param ve-entity eid="Q375314" title="Folkestone">
-
 #
-
-[Hop Picking](/20c/20c-hop-picking)
 
 [Dickens](/dickens) sees bodies wet in the hedges,   
 hop dust is believed to cure consumption.   
@@ -25,9 +21,8 @@ nailed to the ceiling brittle as dust,
 in the home where she now lives?   
 Her school at one end of [Canterbury](/20c-canterbury-ww2)
 was bombed. I didn’t know   
-it had a chapel.   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Beilstein_-_Billensbach_-_Stocksberger_Str._14_-_Werkstatt_-_Fenster_mit_Hopfenranken_%281%29.jpg" label="Window with dried hops by Roman Eisele, CC BY-SA 4.0, via Wikimedia Commons" license="CC BY-SA 4.0">
-
+it had a chapel.
+<br><br>
 They were let out early   
 for hop picking. Wincheap.   
 I’ve got smoke-stained alleys   
@@ -36,4 +31,5 @@ she says, she could go there
 now and see it all again.   
 <br><br>
 First published in [_Ink, Sweat and Tears_](https://inksweatandtears.co.uk/) (2018).
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Beilstein_-_Billensbach_-_Stocksberger_Str._14_-_Werkstatt_-_Fenster_mit_Hopfenranken_%281%29.jpg" label="Window with dried hops by Roman Eisele, CC BY-SA 4.0, via Wikimedia Commons" license="CC BY-SA 4.0">
 
