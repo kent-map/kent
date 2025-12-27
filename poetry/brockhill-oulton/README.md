@@ -3,7 +3,7 @@
 <param ve-config 
        title="Brockhill Park, Sunday Afternoon"
        author="Carolyn Oulton"
-       banner="xxx" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/f/fe/Brockhill_Country_Park%2C_Hythe_-_geograph.org.uk_-_7825536.jpg" label="Brockhill Country Park, Hythe by pam fray, CC BY-SA 2.0" 
        layout="vertical">
        
 <param ve-entity eid="Q375314" title="Folkestone">
