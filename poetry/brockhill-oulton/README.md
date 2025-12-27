@@ -15,20 +15,20 @@ A few feet away, the child is waiting.
 Strands of rain, wind’s pummelling,   
 salt sun (even a woman, bent   
 like a pause in conversation)   
-have left that day intact.   
+have left that day intact.
 <br><br>
 Today the day after that day   
 means tomorrow. I know at once   
 this is tomorrow. Grass that is almost   
 too green to be not quite pink,   
-a leaf glazed on the mudbank.   
+a leaf glazed on the mudbank.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Brockhill_Country_Park%2C_Hythe_-_geograph.org.uk_-_7825536.jpg" label="Brockhill Country Park, Hythe by pam fray, CC BY-SA 2.0" license="CC BY-SA 2.0"> 
 
 Lumpy stones trudge across the stream,   
 holding my foot as my body   
 slides like foam, water reaching   
 for my toes. Another moment -   
-I am climbing the arch of a tree.   
+I am climbing the arch of a tree.
 <br><br>
 No. Not that.   
 But I take off my watch,   

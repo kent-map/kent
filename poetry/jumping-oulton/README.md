@@ -3,7 +3,7 @@
 <param ve-config 
        title="Jumping Downs"
        author="Carolyn Oulton"
-       banner="https://upload.wikimedia.org/wikipedia/commons/1/1c/Hyperchromic_Trifolium_pratense.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/d/d1/Thistle_near_Brockhill_Stream_-_geograph.org.uk_-_7825485.jpg" label="Thistle near Brockhill Stream by pam fray, CC BY-SA 2.0" attribution="pam fray" license="CC BY-SA 2.0"
        layout="vertical">
        
 With my head in position that butterfly wing   
