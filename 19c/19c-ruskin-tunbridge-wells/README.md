@@ -2,6 +2,8 @@
 <param ve-config title="John Ruskin" author="Chris Jones" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg/1024px-The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg">
 
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
+<param ve-entity eid="Q7756008" aliases="The Pantiles">
+<param ve-entity eid="Q123301949" aliases="Calverley">
 
 <!-- Base map centred on Tunbridge Wells -->
 <param ve-map center="Q665489" zoom="15">
@@ -11,7 +13,7 @@
 
 #
 
-John Ruskin, art critic, architectural theorist, social commentator and educationalist visited Tunbridge Wells in February 1858 to lecture at the Sussex Hotel. At the beginning of his talk, Ruskin explained that he had visited the town, which he called ‘my Switzerland’, in his childhood and recalled climbing on 'sandstone cliffs of stupendous height above the common'.[^ref1]
+John Ruskin, art critic, architectural theorist, social commentator and educationalist visited Tunbridge Wells in February 1858 to lecture at the Sussex Hotel, The Pantiles. At the beginning of his talk, Ruskin explained that he had visited the town, which he called ‘my Switzerland’, in his childhood and recalled climbing on 'sandstone cliffs of stupendous height above the common'.[^ref1]
 
 Ruskin had grown up in Herne Hill South London a suburb that had much in common with Tunbridge Wells a picturesque setting and a population of wealthy commercial incomers. His father was a successful wine merchant but was dogged by social insecurity. As a wine merchant he felt superior to the linen drapers and cheesemongers who lived around him though he was very aware that many were wealthier than him yet from a wider perspective, others would consider that he too was in trade.
 <br><br>
@@ -20,6 +22,7 @@ Ruskin was 39 when he came to Tunbridge Wells. He was by then a well-known write
 
 Three years earlier, Ruskin had come to Tunbridge Wells for his health and visited his cousin, William Richardson, a doctor at the General Hospital on Grosvenor Rd. Thomas Carlyle had recommended Tunbridge Wells as a 'place of airy expanses ... where the wind blows free about one'; though another friend, Pauline Trevelyan, considered it 'an odious place ... how can you go there?'
 <param ve-image url="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" label="Taking the waters - the Original Spring, The Pantiles, Tunbridge Wells">
+<param ve-map center="51.135441947633204, 0.2632497416948856" zoom="15">
 
 Richardson who lived on Mount Ephraim Rd, was a member of the Useful Knowledge Institution and had invited Ruskin to speak. Ruskin had been lecturing for some time at the workings men college in London and a commentator has suggested that he felt more at ease when addressing audiences of a lower social standing, young people, women and girls, and working-class men. The audience of 400 was larger than usual, and may have included some of the wealthier inhabitants yet Ruskin seems to have been determined to address social issues as much as art.
 
