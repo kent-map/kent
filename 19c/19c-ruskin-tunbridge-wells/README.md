@@ -3,6 +3,7 @@
 
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 <param ve-entity eid="Q7756008" aliases="The Pantiles">
+<param ve-entity eid="Q123301949" aliases="Calverley">
 
 <!-- Base map centred on Tunbridge Wells -->
 <param ve-map center="Q665489" zoom="15">
