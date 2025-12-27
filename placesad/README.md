@@ -17,6 +17,8 @@ Despite being the favoured holiday destination of no less a figure than Charles 
 
 [Medieval Canterbury](/medieval/medieval-canterbury/)
 
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Medieval_Medieval_Canterbury.jpg)
+
 Canterbury has many fascinating medieval buildings including St Mildred's Church and Eastbridge. 
 
 ## Canterbury in the 19th century
