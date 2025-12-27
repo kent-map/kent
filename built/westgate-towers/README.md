@@ -9,5 +9,5 @@ The Westgate Towers in Canterbury is a Medieval Gateway built during the Hundred
 <param ve-compare url="https://stor.artstor.org/stor/606823c5-445c-460e-b8c7-e3124e2fba13" label="Westgate Towers, 2025">
 
 View from St Peter's Street of the  Medieval Gateway
-<param ve-compare curtain url="https://stor.artstor.org/stor/dc099589-bd99-4268-b6e6-ebb0bff8c21a" label="Westgate Towers c. 1905 or earlier">
+<param ve-compare curtain url="https://stor.artstor.org/stor/1d749c0f-63b5-4b6b-9c04-a117198ac21a" label="Westgate Towers c. 1905 or earlier">
 <param ve-compare url="https://stor.artstor.org/stor/2cce5d84-b39a-4f16-9500-2c44493f7574" label="Westgate Towers, 2025">
