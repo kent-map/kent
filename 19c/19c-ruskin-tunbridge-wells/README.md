@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="John Ruskin" author="Chris Jones" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg/1024px-The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg">
+<param ve-config title="John Ruskin" author="Chris Jones" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg/1024px-The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg">
 
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 <param ve-entity eid="Q7756008" aliases="The Pantiles">
@@ -25,6 +25,7 @@ Three years earlier, Ruskin had come to Tunbridge Wells for his health and visit
 <param ve-map center="51.135441947633204, 0.2632497416948856" zoom="15">
 
 Richardson who lived on Mount Ephraim Rd, was a member of the Useful Knowledge Institution and had invited Ruskin to speak. Ruskin had been lecturing for some time at the workings men college in London and a commentator has suggested that he felt more at ease when addressing audiences of a lower social standing, young people, women and girls, and working-class men. The audience of 400 was larger than usual, and may have included some of the wealthier inhabitants yet Ruskin seems to have been determined to address social issues as much as art.
+<param ve-map center="51.13483875552608, 0.2616101791371244" zoom="15">
 
 It was Ruskin’s style to challenge preconceptions about his subject. In the section 'Iron in Nature' he focused on iron in the form of rust, what he called its living state. He reminded the audience of the 'saffron stain' on the chalybeate spring that was so important to the town; and claimed that much of the beauty of the British landscape came from the rich rust colour of the bricks and tiles in country cottages. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Chalybeate_Spring_-_geograph.org.uk_-_3651499.jpg" label="The Chalybeate Spring" attribution="N Chadwick via Wikimedia Commons" license="CC BY-SA 2.0">
@@ -37,7 +38,7 @@ The section on 'Iron in Policy' was even more political. It was built around 3 i
 To many in the audience it probably resonated uncomfortably with recent events in the town. It was a time of distress among the working population. Earlier that month there had been a demonstration of unemployed men outside the town hall seeking work. Triggered by this, Canon Hoare had called a meeting and a 'Labour Fund Committee' was formed to find useful ways of employing them. This caused some anguish to the editor of _The Gazette_. While approving of such schemes in general, he regretted that action had not been taken earlier - it would now look as though they were responding to threats.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/The_book_of_the_farm_-_detailing_the_labors_of_the_farmer%2C_steward%2C_plowman%2C_hedger%2C_cattle-man%2C_shepherd%2C_field-worker%2C_and_dairymaid_%281851%29_%2820209742818%29.jpg" label="The Book of the Farm, 1851" attribution="Stephens, Henry, 1795-1874;Skinner, John S., 1788-1851;Dumas, J.-B., 1800-1884. No restrictions, via Wikimedia Commons">
 
-Ruskin visited Tunbridge Wells again in August 1860, staying at Calverley Hotel, and complained of being disturbed by seeing "a steam engine devouring a wheat stack at Tunbridge Wells and hearing it growling over its prey a mile and a quarter down the valley"[^ref2] Thus, the law of nature that he sought to preserve were overturned by the mechanisation of agriculture.
+Ruskin visited Tunbridge Wells again in August 1860, staying at Calverley Hotel, and complained of being disturbed by seeing "a steam engine devouring a wheat stack at Tunbridge Wells and hearing it growling over its prey a mile and a quarter down the valley"[^ref2] Thus, the law of nature that he sought to preserve was overturned by the mechanisation of agriculture.
 <br><br>
 This article is adapted from "The Work of Iron, in Nature, Art, and Policy" by Chris Jones, published by the Tunbridge Wells Civic Society. You can also read about Ruskin's associations with [Sandgate](/placeskz/sandgate-overview/) in another Kent Maps article.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/71/Calverleyhotel.jpg" label="Calverley Hotel, Tunbridge Wells, 1860" attribution="Rock & Co, Public domain, via Wikimedia Commons">
