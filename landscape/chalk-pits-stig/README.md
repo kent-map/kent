@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Chalk pits, Ash and Stig of the Dump" author="Peter Vujakovic" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kit%27s_Coty%2C_Kent.jpg/1024px-Kit%27s_Coty%2C_Kent.jpg" description="Ash in West Kent inspired the story of Stig of the Dump">
+<param ve-config title="Chalk pits, Ash and Stig of the Dump" author="Peter Vujakovic" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/2/24/Cooper%27s_Pit%2C_Wincheap%2C_Canterbury%2C_Kent.jpg" description="Ash in West Kent inspired the story of Stig of the Dump">
 
 <param ve-entity eid="Q4804335" aliases="Ash">
 
