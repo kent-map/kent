@@ -7,9 +7,9 @@
 ### **Brief History and Construction**
 
 Located on the Southeast coast of England in Kent, Dover Castle stands proud over the white cliffs, which have naturally defended the site against invaders for centuries.[^1] Referred to as 'The Key to England' or *'Clavis Angilae'* by Matthew Paris, the structure has been subject to great change over the ages.[^2] The site's history dates back to the Iron Age, with archaeologists discovering evidence for an Iron Age Hillfort surrounding the Anglo-Saxon Church.[^3] This Grade I listed monument also includes one surviving Roman lighthouse, dating to around the first century AD, and a series of tunnels beneath the main castle, dating to the thirteenth and [twentieth centuries](https://www.kent-maps.online//20c/20c-secret-tunnels/).[^4]
-<param ve-map center="Q950970" zoom="12">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Dover_Bodenehr_c1730.jpg" label="Plan of Dover, England, engraved by Gabriel Bodenehr, c.1730" attribution="Gabriel Bodenehr, Public domain, via Wikimedia Commons"> 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/98/Church-And-Lighthouse-Dover.jpg" label="Church of St. Mary in Castro and the Roman Lighthouse at Dover Castle, Kent" attribution="Nonsinesoleiris,  via Wikimedia Commons" license="CC BY 4.0">
+<param ve-map center="Q950970" zoom="12">
 
 In 1066, William the Conqueror captured the port, establishing a fortification now archaeologically invisible to visitors. It was not until the 1180s that the castle itself underwent construction under the orders of Henry II, led by his engineer Maurice, who constructed the inner bailey, part of the outer bailey and, most importantly, the Great Tower.[^5] 
 Further changes and additions to the site were made by King John between 1199 and 1216, followed by King Henry III, who continued to strengthen the fort into the thirteenth century: it was during this time that the Castle reached its peak, transforming into one of the most sophisticated castles in Europe.[^6]
