@@ -36,5 +36,5 @@ prod a stick
 in the direction of the sea.   
 Tell no one where I am.   
 <br><br>
-First published in [_Ourselves in Rivers and Oceans]_(https://www.theweesparrowpoetrypress.com/ourselves-in-rivers-and-oceans-a-poetry-anthology), The Wee Sparrow Poetry Press (2024).
+First published in [_Ourselves in Rivers and Oceans](https://www.theweesparrowpoetrypress.com/ourselves-in-rivers-and-oceans-a-poetry-anthology), The Wee Sparrow Poetry Press (2024).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Brockhill_Stream_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274562.jpg" label="Brockhill Stream in Brockhill Country Park by David Anstiss" attribution="David Anstiss, CC BY-SA 2.0" license="CC BY-SA 2.0">
