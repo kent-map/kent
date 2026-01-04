@@ -1,6 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Recycling Roman material in Early Medieval Canterbury" author="Harvey Wallace" layout="vtl" banner="https://commons.wikimedia.org/wiki/File:Wall_of_St_Pancras_church_-_St_Augustine%27s_Abbey,_Canterbury_(1)_2024-12-29.jpg">
-
+<param ve-config title="Recycling Roman material in Early Medieval Canterbury" author="Harvey Wallace" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/c/c8/Wall_of_St_Pancras_church_-_St_Augustine%27s_Abbey%2C_Canterbury_%281%29_2024-12-29.jpg">
  
 The Romans occupied canterbury from 43AD to 410AD, during which they devoloped the city from a small settlement on the road from Dover to London,[^ref1] to a important city of its own. Once the Romans left the British Isles alot of there contrustion knowledge left with them along with the inferstrucutre to support the settlements that they  built. This then lead to many of the Roman buildings falling into  disrepair due to their lack of proper maintance. In the case of Canterbury this resulted in the city becoming the equivilant to a modern day builders yard, which also ment that unlike many, the people of canterbury continued to use the Roman materials in their buildings. 
 The main materials which the Anglo-Saxon’s reused were dressed green sandstone, as well as Roman clay bricks as these where the most used materials used in Roman buildings.[^ref2] The dressed green sandstone is a finely cut stone block that was easy to dismantle and rework into new buildings and used in many of the larger Roman buildings.[^ref3] Roman clay bricks are much thinner than their later counterparts and are a more orange colour, due to their small size they where also easily fitted into new buildings and worked well when many were used together.[^ref4] Both these materials can be seen clearly across many of the Medieval building across Canterbury. 
@@ -38,48 +37,20 @@ To bring this all to a close, the Anglo-Saxons commonly used the ruins of Roman 
 
 ### Bibliography
 
-Allen, Martyn, David Bird, and Ben Croxford. The Roman Period. kent.gov.uk 2022. Accessed 02/1/2026
-
-
-Blanning, Elizabeth Denise. Landscape, Settlement and Materiality: Aspects of Rural Life in Kent during the Roman Period. University of Kent, 2014.
-
-
-Blockley, Kevin. The Anglo-Saxon Churches of Canterbury Archaeologically Reconsidered. PhD diss., Durham University, 2000.
-
-
-Brooks, Nicholas. The Early History of the Church of Canterbury: Christ Church from 597 to 1066. Leicester University Press, 1984.
-
-
-Canterbury Historical and Archaeological Society. Bertha, Queen. 2024.Canterbury Historical and Archaeological Society. (2024). Accessed 04/01/2026
-
-
-Creighton, Oliver, and Robert Higham. Medieval Town Walls: An Archaeology and Social History of Urban Defence. Stroud, UK: Tempus, 2005.
-
-
-Frere, Sheppard, and Grace Simpson. “The Roman Theatre at Canterbury.” Britannia 1, 1970.
-
-
-Frere, S. S., and Sally Stow. Excavations on the Roman and Medieval Defences of Canterbury. Maidstone, UK: Canterbury Archaeological Trust and Kent Archaeological Society, 1982.
-
-
-Hornblower, Simon, and Antony Spawforth, eds. The Oxford Companion to Classical Civilization. Oxford University Press, 1998.
-
-
-Hutchinson, J. N., Cynthia Poole, N. Lambert, and E. N. Bromhead. “Combined Archaeological and Geotechnical Investigations of the Roman Fort at Lympne, Kent.” Britannia 16, 1985. 209–236.
-
-
-Lyle, M. Canterbury: 2000 Years of History. The History Press Ltd., 2002.
-
-
-Sweetinburgh, Sheila, ed. Early Medieval Kent, 800–1220. Boydell & Brewer, 2016.
-
-
-Taylor, Martin I. The Cradle of English Christianity: The Coming of St Augustine and St Martin’s Church Canterbury. St Martin’s and St Paul’s PPC, 1997.
-
-
-Wacher, John. The Towns of Roman Britain. Social Science, 2017.
-
-
+Allen, Martyn, David Bird, and Ben Croxford. The Roman Period. kent.gov.uk 2022. Accessed 02/1/2026   
+Blanning, Elizabeth Denise. Landscape, Settlement and Materiality: Aspects of Rural Life in Kent during the Roman Period. University of Kent, 2014.   
+Blockley, Kevin. The Anglo-Saxon Churches of Canterbury Archaeologically Reconsidered. PhD diss., Durham University, 2000.   
+Brooks, Nicholas. The Early History of the Church of Canterbury: Christ Church from 597 to 1066. Leicester University Press, 1984.   
+Canterbury Historical and Archaeological Society. Bertha, Queen. 2024.Canterbury Historical and Archaeological Society. (2024). Accessed 04/01/2026   
+Creighton, Oliver, and Robert Higham. Medieval Town Walls: An Archaeology and Social History of Urban Defence. Stroud, UK: Tempus, 2005.   
+Frere, Sheppard, and Grace Simpson. “The Roman Theatre at Canterbury.” Britannia 1, 1970.   
+Frere, S. S., and Sally Stow. Excavations on the Roman and Medieval Defences of Canterbury. Maidstone, UK: Canterbury Archaeological Trust and Kent Archaeological Society, 1982.   
+Hornblower, Simon, and Antony Spawforth, eds. The Oxford Companion to Classical Civilization. Oxford University Press, 1998.   
+Hutchinson, J. N., Cynthia Poole, N. Lambert, and E. N. Bromhead. “Combined Archaeological and Geotechnical Investigations of the Roman Fort at Lympne, Kent.” Britannia 16, 1985. 209–236.   
+Lyle, M. Canterbury: 2000 Years of History. The History Press Ltd., 2002.   
+Sweetinburgh, Sheila, ed. Early Medieval Kent, 800–1220. Boydell & Brewer, 2016.   
+Taylor, Martin I. The Cradle of English Christianity: The Coming of St Augustine and St Martin’s Church Canterbury. St Martin’s and St Paul’s PPC, 1997.   
+Wacher, John. The Towns of Roman Britain. Social Science, 2017.   
 Williams, J. H. “Roman Building-Materials in South-East England.” Britannia 2, 1971. p.166–195.
 
 ### References
