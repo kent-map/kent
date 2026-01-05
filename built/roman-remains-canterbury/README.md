@@ -17,12 +17,12 @@ Another church where the reuse of Roman materials can be seen is St Mildreds, bu
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8d/East_wall_of_St_Mildred%27s_Church.jpg" label="East wall of St Mildred" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
 
 A much larger site that contains reused roman is St Augustine’s Abby, which was once build entirely from reused romans materials but which can only be seen with St Pancras Church at the East end of the site. This structure is one of the oldest parts of the site, constructed in the early 7th century,[^ref12] it is made up almost entirely of Roman red bricks. This stands out from the rest of the site today as it is the only remaining building using these bricks, as most of the original Abby was renovated by the Normans in the later 11th early 12th centuries.[^ref13] Like St Martin Church, the likely reason for this church to be built from Roman red bricks is because of its durability when compared to contemporary wattle and daub walls, as well as the easy of obtaining these roman materials. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/07/St_Augustine_Canterbury_St_Pancras_church2.JPG" label="Remains of St Pancras church in St Augustine Abby" attribution="Adam Bishop, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/St_Martins_Church_2022_South_wall_2.jpg" label="Remains of St Pancras church in St Augustine Abby" attribution="Adam Bishop, Public domain, via Wikimedia Commons">
 
 The walls which surround the city of canterbury contain reused roman materials in some of it earliest medieval sections. Canterbury has had walls surrounding it since the Roman city was built,[^ref14] yet the walls which can be seen today are primarily the remains of the later medieval walls.[^ref15] The easiest time find reuse of materials can be found as Queningate where the remnants of an archway constructed from Roman martials is visible. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b1/East_side_of_Canterbury_City_wall_Roman_martials.jpg" label="Roman materials used in Queningate a part of the East side of Canterbury city wall" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
 There is a clear mix of dressed stone as well as the red brick present in this archway, and there is more red brick used further along the wall from Queningate.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e4/East_side_of_Canterbury_City_wall.jpg" label=" Roman materials used in the East side of Canterbury city wall" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/St_Martins_Church_2022_South_wall_2.jpg" label=" Roman materials used in the East side of Canterbury city wall" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
 
 The name of the gate is believed to have come from its use by Queen Bertha as she would use it to go to St Martins church.[^ref16] Because of its placement so low in the city wall it is possible that it was original Roman gate that overtime was replaced by the gate that is present today.[^ref17] This alludes to how the Anglo-Saxons did not just reuse the materials but also some of the remaining infrastructure.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Canterbury_-_Bertha_Queen_of_Kent_-_geograph.org.uk_-_6635849.jpg" label="Statue of Bertha Queen of Kent located in Lady Wootton's Green" attribution="Colin Smith, Public domain, via Wikimedia Commons">
@@ -42,7 +42,7 @@ Allen, Martyn, David Bird, and Ben Croxford. The Roman Period. kent.gov.uk 2022.
 Blanning, Elizabeth Denise. Landscape, Settlement and Materiality: Aspects of Rural Life in Kent during the Roman Period. University of Kent, 2014.   
 Blockley, Kevin. The Anglo-Saxon Churches of Canterbury Archaeologically Reconsidered. PhD diss., Durham University, 2000.   
 Brooks, Nicholas. The Early History of the Church of Canterbury: Christ Church from 597 to 1066. Leicester University Press, 1984.   
-Canterbury Historical and Archaeological Society. Bertha, Queen. 2024.Canterbury Historical and Archaeological Society. (2024). Accessed 04/01/2026   
+Canterbury Historical and Archaeological Society. Bertha, Queen. 2024.Canterbury Historical and Archaeological Society. (2024). Accessed 04/01/2026    
 Creighton, Oliver, and Robert Higham. Medieval Town Walls: An Archaeology and Social History of Urban Defence. Stroud, UK: Tempus, 2005.   
 Frere, Sheppard, and Grace Simpson. “The Roman Theatre at Canterbury.” Britannia 1, 1970.   
 Frere, S. S., and Sally Stow. Excavations on the Roman and Medieval Defences of Canterbury. Maidstone, UK: Canterbury Archaeological Trust and Kent Archaeological Society, 1982.   
@@ -78,7 +78,7 @@ Williams, J. H. “Roman Building-Materials in South-East England.” Britannia 
 [^ref21]: Sheila Sweetinburgh, ed. Early Medieval Kent, 800-1220. Boydell & Brewer, 2016. p. 114
 [^ref22]: Elizabeth Denise Blanning. Landscape, Settlement and Materiality: Aspects of Rural Life in Kent during the Roman Period. University of Kent, 2014. p. 403
 [^ref23]: Elizabeth Denise Blanning. Landscape, Settlement and Materiality: Aspects of Rural Life in Kent during the Roman Period. University of Kent, 2014. p. 403
-[^ref24]: J. N. Hutchinson, Cynthia Poole, N. Lambert, and E. N. Bromhead. "Combined archaeological and geotechnical investigations of the Roman fort at Lympne, Kent." Britannia 16, 1985. 209-236. p. 233
+[^ref24]: J. N. Hutchinson, Cynthia Poole, N. Lambert, and E. N. Bromhead. "Combined archaeological and geotechnical investigations of the Roman fort at Lympne, Kent." Britannia 16, 1985. p. 233
 [^ref25]: Martyn Allen, David Bird, and Ben Croxford. "The Roman Period." kent.gov.uk, 2022. p. 17
 [^ref26]: Martyn Allen, David Bird, and Ben Croxford. "The Roman Period." kent.gov.uk, 2022. p. 17
 [^ref27]: Martyn Allen, David Bird, and Ben Croxford. "The Roman Period." kent.gov.uk, 2022. p. 17
