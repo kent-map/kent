@@ -23,4 +23,6 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 [S.E. Winbolt](/20c/20c-winbolt-biography)
 
+Samuel Edward Winbolt with a team of diggers and enthusiasts excavated the remains of a Roman Villa at East Cliff, Folkestone in the 1920s.
+
 
