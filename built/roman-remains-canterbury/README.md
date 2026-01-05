@@ -9,7 +9,7 @@ The main materials which the Anglo-Saxon’s reused were dressed green sandstone
 The clearest way in which to see these reused materials is with the many pre-Conquest church around canterbury as many of them have the Roman clay bricks clearly visible on their exterior. The earliest site at which this can be seen in St Martines church, the oldest church in canterbury.[^ref5]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/St_Martins_Church_Norman_tower.jpg" label="St Martins Church Norman tower" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
 St Martines was originally a roman site, the period of which is debate,[^ref6] that was then gifted the Queen Bertha by her husband, at which point it was renovated into their personal chapel.[^ref7] The Roman materials present can be found both in the Anglo-Saxon Chancel and to a lesser extent the Nave. The lowest layers of the walls of the Chancel of St Martin’s clearly show dressed green sandstone block which are likely to have been from the original Roman site.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St_Martins_Church_2022_South_wall.jpg/1024px-St_Martins_Church_2022_South_wall.jpg" label="St Martins Church 2022 South wall 2" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/St_Martins_Church_2022_South_wall_2.jpg" label="St Martins Church 2022 South wall 2" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
 When looking at the Nave, both the interior and exterior have reused Roman clay brick dotted throughout the walls. Interestingly, the mortar used in the construction of the earliest parts of the church contain crushed-up Roman brick and stone,[^ref8] which was a building method mostly found in France at this time, which implies that Queen Bertha likely brought over stone masons from her homeland in order to construct her chapel.[^ref9]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/St_Martins_South_wall_exterior.jpg" label="St Martins Church South wall Exterior" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
 
@@ -42,7 +42,7 @@ Allen, Martyn, David Bird, and Ben Croxford. The Roman Period. kent.gov.uk 2022.
 Blanning, Elizabeth Denise. Landscape, Settlement and Materiality: Aspects of Rural Life in Kent during the Roman Period. University of Kent, 2014.   
 Blockley, Kevin. The Anglo-Saxon Churches of Canterbury Archaeologically Reconsidered. PhD diss., Durham University, 2000.   
 Brooks, Nicholas. The Early History of the Church of Canterbury: Christ Church from 597 to 1066. Leicester University Press, 1984.   
-Canterbury Historical and Archaeological Society. Bertha, Queen. 2024.Canterbury Historical and Archaeological Society. (2024). Accessed 04/01/2026    
+Canterbury Historical and Archaeological Society. Bertha, Queen. 2024.Canterbury Historical and Archaeological Society. (2024). Accessed 04/01/2026   
 Creighton, Oliver, and Robert Higham. Medieval Town Walls: An Archaeology and Social History of Urban Defence. Stroud, UK: Tempus, 2005.   
 Frere, Sheppard, and Grace Simpson. “The Roman Theatre at Canterbury.” Britannia 1, 1970.   
 Frere, S. S., and Sally Stow. Excavations on the Roman and Medieval Defences of Canterbury. Maidstone, UK: Canterbury Archaeological Trust and Kent Archaeological Society, 1982.   
