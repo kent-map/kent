@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Medieval Canterbury" author="Dr Sheila Sweetinburgh" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg/1024px-Blake_Canterbury_Pilgrims_engraving.jpg">
+<param ve-config title="Medieval Canterbury" author="Dr Sheila Sweetinburgh" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg">
 
 <param ve-entity eid="Q26163" aliases="Sandwich">
 
