@@ -17,7 +17,7 @@ Another church where the reuse of Roman materials can be seen is St Mildreds, bu
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8d/East_wall_of_St_Mildred%27s_Church.jpg" label="East wall of St Mildred" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
 
 A much larger site that contains reused roman is St Augustine’s Abby, which was once build entirely from reused romans materials but which can only be seen with St Pancras Church at the East end of the site. This structure is one of the oldest parts of the site, constructed in the early 7th century,[^ref12] it is made up almost entirely of Roman red bricks. This stands out from the rest of the site today as it is the only remaining building using these bricks, as most of the original Abby was renovated by the Normans in the later 11th early 12th centuries.[^ref13] Like St Martin Church, the likely reason for this church to be built from Roman red bricks is because of its durability when compared to contemporary wattle and daub walls, as well as the easy of obtaining these roman materials. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/St_Martins_Church_2022_South_wall_2.jpg" label="Remains of St Pancras church in St Augustine Abby" attribution="Adam Bishop, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/07/St_Augustine_Canterbury_St_Pancras_church2.JPG" label="Remains of St Pancras church in St Augustine Abby" attribution="Adam Bishop, Public domain, via Wikimedia Commons" license="CC BY-SA 3.0">
 
 The walls which surround the city of canterbury contain reused roman materials in some of it earliest medieval sections. Canterbury has had walls surrounding it since the Roman city was built,[^ref14] yet the walls which can be seen today are primarily the remains of the later medieval walls.[^ref15] The easiest time find reuse of materials can be found as Queningate where the remnants of an archway constructed from Roman martials is visible. 
 <br><br>
@@ -34,7 +34,7 @@ Lastly, the most used yet least visible reuse of Roman infrastructure is the Rom
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/da/1911Watling_Street.png" label="Route of the Roman roads that lead out of Canterbury overlaid on map of Roman Britain" attribution="LlywelynII, Public domain, via Wikimedia Commons">
 
 To bring this all to a close, the Anglo-Saxons commonly used the ruins of Roman Canterbury as their builder’s yard, taking valuable materials which they were unable to reproduce to the same quality, and using them to construct new buildings. This has been highlighted with the widespread use of Roman red bricks across the city, mainly in church as well as the city walls, as well as they less obvious usage of Roman dressed stone. There is also clear reuse of Roman infrastructure as seen in the continued use of the Roman roads as well as the settlement which they lead from and those they lead to.     
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Church_of_St_Pancras_2025.jpg" label="Church of St Pancras 2025" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
+<param ve-image url="https://stor.artstor.org/stor/32679105-93c3-49e0-a480-2f59b746b2ba" label="Church of St Pancras 2025" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
 
 ### Bibliography
 
