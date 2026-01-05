@@ -23,7 +23,7 @@ The walls which surround the city of Canterbury contain reused Roman materials i
 <param ve-image url="https://stor.artstor.org/stor/76321b82-4f3e-4ca8-99c7-149e1a8877ca" label="Roman materials used in Queningate a part of the East side of Canterbury city wall" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
 
 There is a clear mix of dressed sandstone as well as red brick present in this archway, and there is more red brick used further along the wall from Queningate.
-<param ve image url="https://upload.wikimedia.org/wikipedia/commons/e/e4/East_side_of_Canterbury_City_wall.jpg" label="Roman materials used in the East side of Canterbury city wall" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e4/East_side_of_Canterbury_City_wall.jpg" label="Roman materials used in the East side of Canterbury city wall" attribution="Harvey Wallace, Public domain, via Wikimedia Commons">
 
 The name of the gate is believed to have come from its use by Queen Bertha as she would use it to go to St Martin's church.[^ref16] Because of its placement so low in the city wall it is possible that it was an original Roman gate that over time was replaced by the gate that is present today.[^ref17] This alludes to how the Anglo-Saxons did not just reuse the materials but also some of the remaining infrastructure.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Canterbury_-_Bertha_Queen_of_Kent_-_geograph.org.uk_-_6635849.jpg" label="Statue of Bertha Queen of Kent located in Lady Wootton's Green" attribution="Colin Smith, Public domain, via Wikimedia Commons">
