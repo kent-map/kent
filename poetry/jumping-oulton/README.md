@@ -11,7 +11,7 @@ is the shadow of a line of grass -
 just there the bone of a fallen thistle,   
 a boot hook. Coming up   
 the pink of my legs went cobweb,   
-an unnecessary detail. This space is where   
+an unnecessary detail.        This space is where   
 I wrote for fun with the point of a straw,   
 the brushing of the air a few inches up,   
 no ink or sound or colour for.   
