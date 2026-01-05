@@ -42,7 +42,7 @@ Allen, Martyn, David Bird, and Ben Croxford. The Roman Period. kent.gov.uk 2022.
 Blanning, Elizabeth Denise. Landscape, Settlement and Materiality: Aspects of Rural Life in Kent during the Roman Period. University of Kent, 2014.   
 Blockley, Kevin. The Anglo-Saxon Churches of Canterbury Archaeologically Reconsidered. PhD diss., Durham University, 2000.   
 Brooks, Nicholas. The Early History of the Church of Canterbury: Christ Church from 597 to 1066. Leicester University Press, 1984.   
-Canterbury Historical and Archaeological Society. Bertha, Queen. 2024.Canterbury Historical and Archaeological Society. (2024). Accessed 04/01/2026    
+Canterbury Historical and Archaeological Society. Bertha, Queen. 2024.Canterbury Historical and Archaeological Society. (2024). Accessed 04/01/2026   
 Creighton, Oliver, and Robert Higham. Medieval Town Walls: An Archaeology and Social History of Urban Defence. Stroud, UK: Tempus, 2005.   
 Frere, Sheppard, and Grace Simpson. “The Roman Theatre at Canterbury.” Britannia 1, 1970.   
 Frere, S. S., and Sally Stow. Excavations on the Roman and Medieval Defences of Canterbury. Maidstone, UK: Canterbury Archaeological Trust and Kent Archaeological Society, 1982.   
