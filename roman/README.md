@@ -5,6 +5,12 @@ After the Roman invasion in AD43 to the end of Roman rule in the early fifth cen
 # &nbsp; 
 `.cards`
 
+## Recycling Roman material in Early Medieval Canterbury
+
+[Recycling Roman material in Early Medieval Canterbury](/built/roman-remains-canterbury)
+
+Once the Romans left Canterbury much of their construction knowledge left with them along with the infrastructure to support the settlements that they built. In the case of Canterbury this resulted in the city becoming the equivilant to a modern day builders’ yard.
+
 ## Lullingstone Roman Villa
 
 [Lullingstone Roman Villa](/built/lullingstone-roman-villa)
