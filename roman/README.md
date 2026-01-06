@@ -5,6 +5,12 @@ After the Roman invasion in AD43 to the end of Roman rule in the early fifth cen
 # &nbsp; 
 `.cards`
 
+## Recycling Roman material in Early Medieval Canterbury
+
+[Recycling Roman material in Early Medieval Canterbury](/built/roman-remains-canterbury)
+
+Once the Romans left Canterbury much of their construction knowledge left with them along with the infrastructure to support the settlements that they built. In the case of Canterbury this resulted in the city becoming the equivilant to a modern day builders’ yard.
+
 ## Lullingstone Roman Villa
 
 [Lullingstone Roman Villa](/built/lullingstone-roman-villa)
@@ -16,5 +22,7 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 ## S.E. Winbolt
 
 [S.E. Winbolt](/20c/20c-winbolt-biography)
+
+Samuel Edward Winbolt with a team of diggers and enthusiasts excavated the remains of a Roman Villa at East Cliff, Folkestone in the 1920s.
 
 
