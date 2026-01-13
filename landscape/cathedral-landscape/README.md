@@ -22,3 +22,10 @@ It is quite likely that the regular pattern in the field behind Mrs Rooke’s ho
 By the nineteenth century, the Cathedral’s landscape setting bore the scars of industrialization, with lime works, a ballast pit, a steam saw pit, gasometers and a coal yard now appearing between the Cathedral and Stuppington Hill. With the invention of the railways, the suburb of Wincheap became sandwiched between two lines: the Southeastern and Chatham and the Elham Valley. Thin plumes of steam would have stretched across the valley as theses 'hum-bugs of steel' ripped across the landscape, travelling to and from Canterbury South towards Folkestone.  This, and the expansion of the terraced streets in the Martyrs’ Field area, with their coal fires belching out smoke from chimneys, would have created an ever-changing foreground to the Cathedral, with its pale Caen stone towers floating above the haze.
 
 
+### References
+
+Harley, J.B. and Woodward, D. (eds.) _The History of Cartography: Cartography in Prehistoric, Ancient and Mediaeval Europe and the Mediterranean_. Vol. 1. University of Chicago Press.
+Hindle, S. _The Cocial Topography of A Rural Community : Scenes of labouring life in Seventeenth Century England._
+Jacob, C. T. _The Sovereign Map – Theoretical Approaches in Cartography Throughout History_. The University of Chicago Press, 2006.
+Lake J.E., Edward B, Bannister N.I. "Farmsteads and Landscapes in Kent." _Archaeologia Cantiana_. 2014;134:105-39.
+
