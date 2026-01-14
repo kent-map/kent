@@ -32,7 +32,10 @@ A 1945 ordnance survey map highlights the rural landscape of the city, with symb
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Canterbury_Orchards_1945_OS_Map_171_detail.jpg" label="Canterbury Orchards 1945 OS Map 171" attribution="w:Ordnance Survey, Public domain, via Wikimedia Commons">
 
 Today some of the orchards around the city have been scrubbed up and the Cathedral hovers above an impoverished landscape. The People’s Trust for Endangered Species has identified that the UK has lost 90% of its traditional orchards since the 1950s. Rows of gnarled trunks, spiky branches, and rotting fruit serve as a warning that the Garden of England may soon disappear as the Cathedral and its UNESCO world heritage site becomes choked by its surroundings. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Scrubbed_up_Orchard_at_WIncheap_with_View_of_Canterbury_Cathedral.jpg" label="Scrubbed Orchard at Wincheap with View of Canterbury Cathedral" attribution="Digihum">
+<br><br>
+This article was published: 14 January 2026.
+<param ve-compare curtain url="https://stor.artstor.org/stor/ab493a53-bed4-4c8e-bac1-6e9e7a6580a0" label="View from Stuppington Hill, Canterbury, 2025">
+<param ve-compare url="https://stor.artstor.org/stor/294ee94a-29f0-4a4a-9175-6ae337aeeb6a" label="Imagined view from Stuppington Hill, Canterbury, 2050">
 
 ### References
 
@@ -46,3 +49,4 @@ Today some of the orchards around the city have been scrubbed up and the Cathedr
 [^ref8]: ‘Freehold Estates’ _Kentish Weekly Post or Canterbury Journal_, 22 April 1796 no 1695, p.1.
 [^ref9]: ‘Hop pickers’ _Kent Herald_ 18 June 1941.
 [^ref10]: Shetlock, John. _The Victorian Traveller's Guide to Canterbury_, 1901, p.99.
+
