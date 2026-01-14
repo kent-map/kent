@@ -8,7 +8,7 @@ Christian Jacob reminds us that one of the first questions we should ask of a ma
 The legend on the _Civitates Orbis Terrarum_ reads ‘Cantuaria urbs fertilis simae anoliae celebris archiepisco pati sede commendata’ which translates as Canterbury, a fertile city, famous for its cathedral, entrusted as the seat of the archbishop. Fertile in this context may allude to the farmland owned by the Cathedral priory estates to the east of the city, rather than the clay-with-flint soil to the south of the city which was largely unsuited to arable agriculture.[^ref3] An orchard in the grounds of St Augustine’s Abbey, reveals the significance of arboreal culture at this time. The William Smith Sloane map published over a decade later in 1588, viewed from the same perspective, only includes one tree at Lady Wootton’s Green and the water meadows near the Stour appear treeless. However, it is known that Leonard Cotton, gentleman of St. Margaret's, alderman and mayor of the city in 1580, left an orchard and its appurtenances in Winchepe in his will of 1605.[^ref4] Maps, which are the subjective representations of the artist, become historical truths, unless we challenge them.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/William_Smith_Sloane_MS_2596_f15_Canterbury.jpg" label="William Smith Sloane MS 2596 Canterbury" attribution="William Smith, Public domain, via Wikimedia Commons">
 
-J. B. Harley and Denis Wood argue that maps are not neutral mirrors of reality but symbolic systems that privilege certain forms of knowledge while excluding others.[^ref5] The heraldic shields on the _Civitates Orbis Terrarum_, reveal the power structures at play in the city - monarchy, Archepiscopat, ecclesia cathed. and ‘civitalis’. The spectacle created by the map is one of civic pride, power and privilege and celebrates a sixteenth century sense of progress, order and urbanity. Its publisher, Georg Braun, not only draws our attention to these, but is also creating audience. What the map does not show is commerce or activity - the wine market in Wincheap, the bustling streets just out of view, or the wagons bringing pilgrims to the shrine of Thomas Becket. 
+Maps are not neutral mirrors of reality but symbolic systems that privilege certain forms of knowledge while excluding others.[^ref5] The heraldic shields on the _Civitates Orbis Terrarum_, reveal the power structures at play in the city - monarchy, Archepiscopat, ecclesia cathed. and ‘civitalis’. The spectacle created by the map is one of civic pride, power and privilege and celebrates a sixteenth century sense of progress, order and urbanity. Its publisher, Georg Braun, not only draws our attention to these, but is also creating audience. What the map does not show is commerce or activity - the wine market in Wincheap, the bustling streets just out of view, or the wagons bringing pilgrims to the shrine of Thomas Becket. 
 
 An earlier twelfth century map of the waterworks of the Cathedral from the Eadwine psalter, shows orchards, vines and wheat to the northeast of the city as well as a garden near the Campanile mound, illustrating the importance of agriculture to the cathedral community. The map celebrates the cathedral from within its precincts and ignores the city beyond, the representation of the landscape is reduced to that which serves the cathedral - the wheat for the bread, the vines for the wine and the orchards for fruit.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bc/Eadwine_psalter_-_Waterworks_in_Canterbury.jpg" label="Eadwine Psalter - Waterworks in Canterbury" attribution="anonymous, Public domain, via Wikimedia Commons">
@@ -24,16 +24,16 @@ By the nineteenth century, the Cathedral’s landscape setting bore the scars of
 
 ### References
 
-Harley, J.B. and Woodward, D. (eds.) _The History of Cartography: Cartography in Prehistoric, Ancient and Mediaeval Europe and the Mediterranean_. Vol. 1. University of Chicago Press.
+
 Hindle, S. _The Cocial Topography of A Rural Community : Scenes of labouring life in Seventeenth Century England._
 
 ### References
 
 [^ref1]: Jacob, C. T. _The Sovereign Map – Theoretical Approaches in Cartography Throughout History_. The University of Chicago Press, 2006.
-[^ref2]: Hasted, p.36.
+[^ref2]: Hasted, Edward. _The History and Topographical Survey of the County of Kent_, Canterbury, 1800, _British History Online_ https://www.british-history.ac.uk/survey-kent/. Accessed: 31 December 2025.p.36.
 [^ref3]: Lake J.E., Edward B, Bannister N.I. "Farmsteads and Landscapes in Kent." _Archaeologia Cantiana_. 2014;134:105-39, p.113.
-[^ref4]: Hasted pp.184-199.
-[^ref5]:
+[^ref4]: Hasted, Edward, pp.184-199.
+[^ref5]: Harley, J.B. and Woodward, D. (eds.) _The History of Cartography: Cartography in Prehistoric, Ancient and Mediaeval Europe and the Mediterranean_. Vol. 1. University of Chicago Press, 1987, p.506.
 [^ref6]: Potter, Jennifer. _Strange Blooms : The Curious Lives and Adventures of the John Tradescants_, 2006, pp.82,84. 
 [^ref7]: 'Letter', _Kentish Weekly Post or Canterbury Journal_, 14 August 1751, no.3523, p.1.
 [^ref8]: ‘Freehold Estates’ _Kentish Weekly Post or Canterbury Journal_, 22 April 1796 no 1695, p.1.
