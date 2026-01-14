@@ -1,3 +1,7 @@
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+
+<param ve-config title="Canterbury Cathedral in its Landscape Setting" author="Dr Michelle Crowther" layout="vtl" banner="https://stor.artstor.org/stor/0604f63f-eada-4bc5-b5a9-b73a3bb72294"> 
+
 “It stands majestic, this great tower, looking out across the most sacred piece of our English earth. It looks across the fields where the Romans came with the sword; it looks across the fields where they came again in peace. It looks down on the ways by which came our first Englishmen. It stands in dazzling splendour, enthroned through the centuries, the shrine and cradle of our race” (Arthur Mee, _Canterbury_).
 
 From the orchards and fields on the gently rising slopes of Stuppington Hill to the south of the city, are some of the finest views of Canterbury Cathedral. A sixteenth century map, The _Civitates Orbis Terrarum_, published in 1572, provides a bird’s eye view of Canterbury from this aspect. In the foreground, a small group of well-dressed Elizabethans, in fashionable cloaks, long dresses and ruffs, on a grassy hill, appear to be arriving at the city. One of these is possibly Dutch artist, Joris Hoefnagel, or another artist commissioned to map Canterbury, thus revealing the draughtsman’s perspective of the city, that of an outsider, sketched from the east of the River Stour and Wincheap. 
