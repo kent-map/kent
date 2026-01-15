@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Hop Picking and the Literary Imagination" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/4/44/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22170.jpg" description="In this visual essay, Carolyn Oulton explores the role of the Kent hop picking culture in Nineteenth/Twentieth Century literature.">
+<param ve-config title="Hop Picking and the Literary Imagination" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/4/44/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22170.jpg" description="In this visual essay, Carolyn Oulton explores the role of the Kent hop picking culture in Nineteenth/Twentieth Century literature.">
 
 <!-- Historical map layers 6215fa6c47c47347 -->
 <param ve-map-layer active allmaps allmaps-id="d549f0ddbeca485f" title="OS Kent 1899">
@@ -51,7 +51,7 @@ But later fictional accounts repeatedly invoke the language of nostalgia, a rhet
 <param ve-map center="Q375314" zoom="13">
 <param ve-map center="Q964785" zoom="13">
 
-It took the incisive language of a George Orwell to deconstruct these airbrushed set pieces. In 1935, as Europe moved towards another world war, he sent a young middle class woman to see for herself in his novel _A Clergyman’s Daughter_. The narrator comments almost brutally that ‘The stems of the bines were covered with minute thorns which within two or three days had torn the skin of your hands to pieces. In the morning it was a torment to begin picking when your fingers were almost too stiff to bend and bleeding in a dozen places; but the pain wore off when the cuts had reopened and the blood was flowing freely.’  But for some the discomfort was apparently worth it. One former pupil from Simon Langton Girls’ Grammar School in Canterbury  remembers with fondness how the girls were allowed out early on a Friday to join the hop picking.
+It took the incisive language of a George Orwell to deconstruct these airbrushed set pieces. In 1935, as Europe moved towards another world war, he sent a young middle class woman to see for herself in his novel _A Clergyman’s Daughter_. The narrator comments almost brutally that ‘The stems of the bines were covered with minute thorns which within two or three days had torn the skin of your hands to pieces. In the morning it was a torment to begin picking when your fingers were almost too stiff to bend and bleeding in a dozen places; but the pain wore off when the cuts had reopened and the blood was flowing freely.’  But for some the discomfort was apparently worth it. [One former pupil](https://www.kent-maps.online/poetry/hoppicking-oulton/) from Simon Langton Girls’ Grammar School in Canterbury  remembers with fondness how the girls were allowed out early on a Friday to join the hop picking.
 <param ve-entity eid="Q7519165" aliases="Simon Langton Girls' Grammar School">
 <param ve-map center="Q7519165" zoom="12.75">
 
