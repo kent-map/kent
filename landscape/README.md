@@ -5,6 +5,14 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 # &nbsp; 
 `.cards`
 
+## Canterbury Cathedral in its Landscape Setting
+
+[Canterbury Cathedral in its Landscape Setting](/landscape/cathedral-landscape)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/19/Apple_Orchards_with_a_view_of_Canterbury_Cathedral.jpg)
+
+Spirituality is not just within the walls of Canterbury Cathedral but in its symbolic relationship with the landscape. Dominating the skyline, the Caen stone glitters like a jewel, as it responds to the light. 
+
 ## Desire Paths
 
 [Desire Paths](/landscape/desire-paths)
