@@ -2,6 +2,11 @@
 
 <param ve-config title="Cooper's Pit" author="Dr Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a6/Cooper%27s_Pit.jpg"> 
 
+<param ve-entity eid="Q8023755" aliases="Wincheap">
+<param ve-entity eid="Q770931" aliases="Stuppington">
+<param ve-entity eid="Q26389213" aliases="Merton">
+
+
 Canterbury is at the intersection of two geological areas, the sticky London Clay beds to the north of the city and in the south the chalk of the North Downs. Cooper’s Pit is an [abandoned chalk quarry]( /landscape/chalk-pits-stig/) which has been designated a regionally important geological site (RIGS).[^ref1] Formerly known as Dane John Lime Works, it is located at the top of Lime Kiln Road in Wincheap.
 
 The geology of the site is described in detail in the memoirs of the Geological Survey published by Smart, Bisson and Worssam. The pit is described as “the finest inland section in _M. [micraster] coranguinum_ chalk in the district’.[^ref2] The authors outline the soil and rock types which include soft white [chalk]( /landscape/kentish-chalk/), flint nodules and ‘abundant _Conulus_’.[^ref3] Conulus were sea urchins that lived in the Cretaceous era, revealing that the land would have been submerged at this period. It was not until the end of the Chalk times (65 million years ago) that sea level fell.
