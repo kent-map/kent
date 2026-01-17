@@ -33,7 +33,7 @@ A 1945 ordnance survey map highlights the rural landscape of the city, with symb
 
 Today some of the orchards around the city have been scrubbed up and the Cathedral hovers above an impoverished landscape. The People’s Trust for Endangered Species has identified that the UK has lost 90% of its traditional orchards since the 1950s.[^ref11] Rows of gnarled trunks, spiky branches, and rotting fruit serve as a warning that the Garden of England may soon disappear as the Cathedral and its UNESCO world heritage site becomes choked by its surroundings. 
 <br><br>
-UNESCO point out that the Belly Harry Tower has dominated the landscape for 500 years and 'maintaining views to and from the Cathedral is crucial to sustain this visual dominance'.[^ref12] Hover your mouse over the white circle and click to move the image from left to right to see a futuristic view of Stuppingon Hill if this valued landscape is not protected. This article was published: 14 January 2026.
+With its Gothic towers reaching for the Heavens, the Cathedral, has dominated the landscape for hundreds of years and 'maintaining views to and from the Cathedral is crucial to sustain this visual dominance'.[^ref12] Hover your mouse over the white circle and click to move the image from left to right to see a futuristic view of Stuppingon Hill if this valued landscape is not protected. This article was published: 14 January 2026.
 <param ve-compare curtain url="https://stor.artstor.org/stor/294ee94a-29f0-4a4a-9175-6ae337aeeb6a" label="Imagined view from Stuppington Hill, Canterbury, 2050">
 <param ve-compare url="https://stor.artstor.org/stor/ab493a53-bed4-4c8e-bac1-6e9e7a6580a0" label="View from Stuppington Hill, Canterbury, 2025">
 
