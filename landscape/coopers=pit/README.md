@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="Cooper's Pit" author="Dr Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/df/Canterbury_Cathedral_in_its_Landscape_Setting.jpg"> 
+<param ve-config title="Cooper's Pit" author="Dr Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a6/Cooper%27s_Pit.jpg"> 
 
 Canterbury is at the intersection of two geological areas, the sticky London Clay beds to the north of the city and in the south the chalk of the North Downs. Cooper’s Pit is an [abandoned chalk quarry]( /landscape/chalk-pits-stig/) which has been designated a regionally important geological site (RIGS).[^ref1] Formerly known as Dane John Lime Works, it is located at the top of Lime Kiln Road in Wincheap.
 
@@ -13,6 +13,7 @@ A layer of tabular flint known as Whitaker’s Three-inch Band is a feature of t
 The site was quarried for lime during the nineteenth and twentieth centuries.  Lime was used as a mortar, wash or plaster in stone structures such as churches and bridges, but also for agricultural purposes and street paving. In 1862, George Ashbee advertised in the _Kentish Gazette_ that 'lime may be had in any quantity at the Dane John Lime Kiln'.[^ref9] Just over a decade later, it was being worked by Charles Chapman who offered 'the best burnt lime' to builders, farmers, etc.[^ref10] The ordnance survey map of 1870 shows the chalk pit in the fields reached by a track and far from the present-day housing.  By 1889 the Elham Valley railway ran through the site with three lime kilns marked on the map and a tunnel allowing access to a fourth. Haselfoot records that 'an extensive system of 2ft (61cm)- gauge mineral lines were used to transport chalk from the quarry faces to the kilns'.[^ref11] This 1875 map shows the path to the Lime Kiln from the end of Gordon Road.
 
 After Charles Chapman’s death in 1900, his son continued the business until 1902 advertising ‘chalk and flints for sale’ and ‘lime for building and agricultural purposes by ton, yard or load’.[^ref12] In 1902, the lime pit along with its four kilns, some accommodation and arable land was put up for auction.[^ref13] It failed to attract a buyer and it was not until February 1904 that Frank Cooper announced to ‘builders, farmers, market gardeners, agriculturalists and others’ that ‘having purchased the above business, I beg to solicit the continuance of the kind patronage, which has for many years been extended to the previous owners’.[^ref14] Cooper was clearly successful and by 1930 sought to erect a cement works at the Dane John Lime Works. Despite opposition from councillors and residents the Minister of Health approved the scheme.[^ref15]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Chalk_at_Cooper%27s_Pit_RIGS%2C_Wincheap.jpg" label="Chalk at Cooper's Pit" attribution="Digihum">
 
 Wartime brought its challenges as skilled quarrymen went to fight. One of Cooper’s employees, John Tucker was killed on active service.[^ref16]
 On the home front, preparations were made for a possible invasion and a building on or near the Lime Works was adopted as a ‘fortified house’ to defend Canterbury’s southern edge.[^ref17] A road block was also set up across the north-east end of Lime Kiln Road, near where it meets Gordon Road.[^ref18] 
@@ -24,6 +25,7 @@ Quarrying ceased in 1975 and part of the site was used as a builder’s merchant
 The Canterbury Landscape Character Assessment and Biodiversity Appraisal 2020 has acknowledged Cooper’s Pit as regionally significant geological site along with six other pits in the Canterbury district.[^ref23] It is the pit closest to the city centre and as such is the most vulnerable to becoming engulfed in housing development with the integrity of the chalk cliffs impacted by surface water runoff. After the collapse of the quarry at Swanscombe in North Kent, it is vital that these important sites of industrial heritage and geological importance are preserved.
 <br><br>
 Note: Cooper's Pit is on private land. This article was published: 17 January 2025.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/24/Cooper%27s_Pit%2C_Wincheap%2C_Canterbury%2C_Kent.jpg" label="Cooper's Pit, Wincheap, Canterbury" attribution="Digihum">
 
 ### References
 
