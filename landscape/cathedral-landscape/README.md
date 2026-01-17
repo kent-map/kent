@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="Canterbury Cathedral in its Landscape Setting" author="Dr Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a2/Community_Walk_along_the_public_footpaths_of_Wincheap.jpg"> 
+<param ve-config title="Canterbury Cathedral in its Landscape Setting" author="Dr Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canterbury_Cathedral_in_the_Mist.jpg"> 
 
 “It stands majestic, this great tower, looking out across the most sacred piece of our English earth. It looks across the fields where the Romans came with the sword; it looks across the fields where they came again in peace. It looks down on the ways by which came our first Englishmen. It stands in dazzling splendour, enthroned through the centuries, the shrine and cradle of our race” (Arthur Mee, _Canterbury_).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/00/Canterbury_Cathedral_as_seen_from_Wincheap_Orchards.jpg" label="Canterbury Cathedral as seen from Wincheap Orchards" attribution="Digihum, CCO, Wikimedia Commons">
