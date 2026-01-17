@@ -1,4 +1,6 @@
-Cooper’s Pit
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+
+<param ve-config title="Cooper's Pit" author="Dr Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/df/Canterbury_Cathedral_in_its_Landscape_Setting.jpg"> 
 
 Canterbury is at the intersection of two geological areas, the sticky London Clay beds to the north of the city and in the south the chalk of the North Downs. Cooper’s Pit is an [abandoned chalk quarry]( /landscape/chalk-pits-stig/) which has been designated a regionally important geological site (RIGS).[^ref1] Formerly known as Dane John Lime Works, it is located at the top of Lime Kiln Road in Wincheap.
 
@@ -21,7 +23,7 @@ Quarrying ceased in 1975 and part of the site was used as a builder’s merchant
 <br><br>
 The Canterbury Landscape Character Assessment and Biodiversity Appraisal 2020 has acknowledged Cooper’s Pit as regionally significant geological site along with six other pits in the Canterbury district.[^ref23] It is the pit closest to the city centre and as such is the most vulnerable to becoming engulfed in housing development with the integrity of the chalk cliffs impacted by surface water runoff. After the collapse of the quarry at Swanscombe in North Kent, it is vital that these important sites of industrial heritage and geological importance are preserved.
 <br><br>
-This article was published: 17 January 2025.
+Note: Cooper's Pit is on private land. This article was published: 17 January 2025.
 
 ### References
 
