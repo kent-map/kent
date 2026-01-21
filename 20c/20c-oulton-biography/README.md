@@ -1,3 +1,5 @@
+
+
 Harry Oulton and Sir Derek Oulton 
 
 My father Harry Charles Neil Maxwell Oulton was born in Dublin on 11 February 1919, to Anglo-Irish parents. Both he and his brother Antony Derek Maxwell Oulton (b. 14 October 1927) attended Matfield Grange prep school near Tunbridge Wells. [MC: see attached images ‘Matfield Grange’ / HCO bowling] 
@@ -20,9 +22,7 @@ Derek went on to take a double first in Law from King’s College, Cambridge. He
 
 Neither of the brothers lived in Kent again, although my mother tells me that Harry talked about retiring here. On my visits to Chatham Dockyard, I always make a point of checking the clock.  
 
- 
-
-Bibliography 
+### Bibliography 
 
 ‘3,930 Adventurous Miles by Midget Plane. S. G. Official’s 50 Landings on Sudan Flight.’ _Sudan Star_. 2 November 1949. 1. 
 
