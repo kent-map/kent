@@ -557,7 +557,15 @@ Dr Martin Watts is Senior Lecturer and Principal Research Fellow in Modern Histo
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Whalley.jpg)
 
-Dr Beth Whalley received a PhD from King’s College London in 2020, and has recently undertaken a Postdoctoral Fellowship at Freie Universität Berlin. Her research focuses on early medieval literature and its contemporary reimaginings, and she is especially interested in literary engagements with place, space and the environment. She has articles forthcoming in Yearbook of English Studies and in edited collections on medieval ‘lost objects’ and the Chapel of St-Peter-on-the-Wall in Essex..
+Dr Beth Whalley received a PhD from King’s College London in 2020, and has recently undertaken a Postdoctoral Fellowship at Freie Universität Berlin. Her research focuses on early medieval literature and its contemporary reimaginings, and she is especially interested in literary engagements with place, space and the environment. She has articles forthcoming in Yearbook of English Studies and in edited collections on medieval ‘lost objects’ and the Chapel of St-Peter-on-the-Wall in Essex.
+
+## Kay Whalley
+
+[Kay Whalley]()
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Kay.jpg)
+
+Kay Whalley is a Creative and Professional Writing student at Canterbury Christ Church University. She explores literary genres including The Gothic Fantasy and The Romantics. She enjoys studying local heritage and how literary tropes and themes develop over the course of history.
 
 ## Simon Wilson
 
