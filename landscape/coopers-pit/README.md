@@ -5,6 +5,7 @@
 <param ve-entity eid="Q8023755" aliases="Wincheap">
 <param ve-entity eid="Q770931" aliases="Stuppington">
 <param ve-entity eid="Q26389213" aliases="Merton">
+<param ve-entity eid="51.268434, 1.07719" aliases="Cooper's Pit">
 
 
 Canterbury is at the intersection of two geological areas, the sticky London Clay beds to the north of the city and in the south the chalk of the North Downs. Cooper’s Pit is an [abandoned chalk quarry]( /landscape/chalk-pits-stig/) which has been designated a regionally important geological site (RIGS).[^ref1] Formerly known as Dane John Lime Works, it is located at the top of Lime Kiln Road in Wincheap.
