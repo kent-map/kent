@@ -13,6 +13,14 @@ Kent is a county of diverse landscapes, from its wild coastal marshes to the upl
 
 Spirituality is not just within the walls of Canterbury Cathedral but in its symbolic relationship with the landscape. Dominating the skyline, the Caen stone glitters like a jewel, as it responds to the light. 
 
+## Cooper's Pit
+
+[Cooper's Pit](/landscape/coopers-pit)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/24/Cooper%27s_Pit%2C_Wincheap%2C_Canterbury%2C_Kent.jpg)
+
+The scars of industrialization leave surprising legacies. Cooper's Pit, once a lime kiln works, is now a regionally important geological site with Cretaceous geology.
+
 ## Desire Paths
 
 [Desire Paths](/landscape/desire-paths)
