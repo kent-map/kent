@@ -25,7 +25,7 @@ Later artists drew on the picturesque landscape of the city to showcase the cath
 
 ### References
 
-[^ref1]: Rees, p.147.
+[^ref1]: Ronald Rees (1973) ‘Geography and Landscape Painting: An Introduction to A Neglected Field’, _Scottish Geographical Magazine_, vol. 89, no, 3, pp. 147-157, p.147.
 [^ref2]: Rees, p.4.
 [^ref3]: 'Once famous for brawn.' _Whitstable Times and Herne Bay Herald_, 28 April 1962.
 [^ref4]: Legend of the painting.
