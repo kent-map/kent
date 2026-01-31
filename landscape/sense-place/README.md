@@ -2,7 +2,7 @@
 
 <param ve-config title="Landscape Art and Canterbury Cathedral" author="Dr Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/d/df/Canterbury_Cathedral_in_its_Landscape_Setting.jpg"> 
 
-Until the seventeenth century, landscape served as a backdrop to historical, allegorical or figure painting [in western art]. (p.147 Rees). Early landscape paintings were often idealized panoramas and failed to realistically represent rural life. [Landscape](/landscape/scapes-and-fringes/) painting as a genre emerged in the seventeenth century, spreading from Holland where it had gained in popularity. 
+Until the seventeenth century, landscape served as a backdrop to historical, allegorical or figure painting.[^ref1] (p.147 Rees). Early landscape paintings were often idealized panoramas and failed to realistically represent rural life. [Landscape](/landscape/scapes-and-fringes/) painting as a genre emerged in the seventeenth century, spreading from Holland where it had gained in popularity. 
 The panoramic view of the North prospect of Canterbury in the banner image is an example of an early engraving of Canterbury. It was sketched by Thomas Johnson after the Restoration of Charles II and bears testament to Stuart patronage. Johnson’s sketch which dates from c.1663-1676 was engraved by Wenceslaus Hollar, a popular Bohemian artist who became Charles II’s official scenographer. It was published by John Ogilby, who had been elevated to the role of Master of the Royal Imprimerie in 1661.  
 
 Sketched from the direction of Place House (later Hales Place), the seat of the Royalist Colepeper family, Johnson’s sweeping panorama situates the cathedral off to the left, surrounded by trees and fields, with a skyline of rolling hills and large white cumulus clouds indicating a fine weather day. The panorama is dedicated to his grace, Gilbert Sheldon, Archbishop of Canterbury, who had been translated to the archbishopric in 1663. A cartouche to the top left of the engraving, illustrates the coat of arms of the See of Canterbury (the Canterbury cross and pall) combined with the three sheldrakes of the personal arms of Gilbert Sheldon. The engraving emphasizes Anglican dominance in public life, which had been cemented with The Corporation Act (1661) and The Act of Uniformity (1662) and serves as a reminder to Sheldon of his dominion in this Edenic landscape. This rural idyll carefully crafted by the artist emphasizes the harmonious relationship between civilization and nature and is an ideological statement of the stabilising power of monarchy after the turmoil of the Commonwealth.
@@ -24,12 +24,13 @@ Samuel Palmer
 https://www.watercolourworld.org/collections/b7ec5d6a-07bc-3797-9b10-f590aeb518a3/?s%3Dcanterbury%2Bcathedral&pos=4 
 
 In Henry Earp’s oil painting of Canterbury Cathedral viewed from Stuppington, a shepherd and his sheepdog herd a flock of sheep up a lane whilst labourers gather the corn into stooks. Majestic trees in the foreground dwarf the cathedral. The two pillars of tradition – the natural world and the spiritual world coalesce in this beautifully serene landscape with the Caen stone towers of the cathedral dulled by the darkening skies. This bucolic scene encapsulates the liminal space where city and countryside elide. The unknown shepherd and labourers are representational of the agrarian landscape with the cathedral the main subject of the painting, but the cathedral inhabits only a small space, as the artist frames its majesty within the beauty of God’s earth.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/35/Henry_Earp_%281831-1914%29_-_Canterbury_Cathedral_-_BURGM-paoil332_-_Towneley_Hall_Art_Gallery_And_Museum.jpg" label="Canterbury Cathedral by Henry Earp" attribution="Henry Earp, Public domain, via Wikimedia Commons">
 
-https://commons.wikimedia.org/wiki/File:Henry_Earp_(1831-1914)_-_Canterbury_Cathedral_-_BURGM-paoil332_-_Towneley_Hall_Art_Gallery_And_Museum.jpg
-
-Canterbury Cathedral by Henry (Sr.) Earp on artnet
 
 Later artists drew on the picturesque landscape of the city to showcase the cathedral in its agrarian setting. William Sidney Cooper’s Canterbury Cathedral from the Stour Meadows is dominated by a large roundel of trees with the cathedral offset to the right. These roundels were a common feature of the landscape providing shelter for cattle and cowherds during hot or stormy days and examples of them can still be seen today in the fields off Stuppington Lane.  American artist, Childe Hassam’s watercolour painting of Canterbury Cathedral painted in 1889 depicts the Cathedral in the distance seen through the haze of a rosy early morning sky.
 
+### References
 
-
+[^ref1]: 
+[^ref2]:
+[^ref3]:
