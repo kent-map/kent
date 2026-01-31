@@ -23,6 +23,8 @@ In Henry Earp’s oil painting of Canterbury Cathedral viewed from Stuppington, 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/35/Henry_Earp_%281831-1914%29_-_Canterbury_Cathedral_-_BURGM-paoil332_-_Towneley_Hall_Art_Gallery_And_Museum.jpg" label="Canterbury Cathedral by Henry Earp" attribution="Henry Earp, Public domain, via Wikimedia Commons">
 
 Later artists drew on the picturesque landscape of the city to showcase the cathedral in its agrarian setting. William Sidney Cooper’s _Canterbury Cathedral from the Stour Meadows_ is dominated by a large roundel of trees with the cathedral offset to the right. These roundels were a common feature of the landscape providing shelter for cattle and cowherds during hot or stormy days and examples of them can still be seen today in the fields off Stuppington Lane.  American artist, Childe Hassam’s watercolour painting of _Canterbury Cathedral_ painted in 1889 depicts the Cathedral in the distance seen through the haze of a rosy early morning sky.
+<br><br>
+This article was published: 31 January 2026.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/49/William_Sidney_Cooper_%281854-1927%29_-_Canterbury_Cathedral_from_the_Stour_Meadows%2C_Kent_-_CANCM-10122_-_Canterbury_Museums_and_Galleries.jpg" label="Canterbury Cathedral from the Stour Meadows" attribution="Canterbury Museum and Galleries">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f9/Childe_Hassam_-_Canterbury_Cathedral_%28recto%29%3B_Hands_Holding_a_Book_%28verso%29_-_1938.65_-_Cleveland_Museum_of_Art.jpg" label="Canterbury Cathedral by Childe Hassam" attribution="Cleveland Museum of Art">
 
