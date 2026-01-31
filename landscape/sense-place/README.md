@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="Landscape Art and Canterbury Cathedral" author="Dr Michelle Crowther" layout="vtl" banner="HollarThenorthprospect.jpg"> 
+<param ve-config title="Landscape Art and Canterbury Cathedral" author="Dr Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/HollarThenorthprospect.jpg"> 
 
 Until the seventeenth century, landscape served as a backdrop to historical, allegorical or figure painting. Early landscape paintings were often idealized panoramas and failed to realistically represent rural life. Landscape painting as a genre emerged in the seventeenth century, spreading from Holland where it had gained in popularity.[^ref1]
 <br><br>
