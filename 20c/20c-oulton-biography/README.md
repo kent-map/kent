@@ -46,3 +46,23 @@ Oulton, Derek. _From Digger to Poops_. Privately printed memoir.
 --. _HCO_. 1979. Privately printed memoir.   
 Oulton, Harry. To Elsie Oulton. Postcard marked 23 September 1926.   
 --. _The Flying Broomstick_. _HCO_ 24-95. 
+
+### References
+
+[^ref1]: _From Digger to Poops_ 37.
+[^ref2]: Harry Oulton to Elsie Oulton. 
+[^ref3]: _From Digger to Poops_ 17.
+[^ref4]: _From Digger to Poops_ 45-6.
+[^ref5]: In 1955 Uncle Joe would retire from St Mary’s Hospital, Portsmouth, as Surgeon Rear Admiral. Which was itself one in the eye for his own head teacher, who had once written on his school report that ‘A little bird that can sing, and won’t sing, must be made to sing.’_From Digger to Poops_ 36.
+[^ref6]: _HCO_ 2.
+[^ref7]: With thanks to Jon Iveson of Dover Museum and the Ministry of Defence. Additional research by Nicholas Oulton.
+[^ref8]: _From Digger to Poops_ 47
+[^ref9]: It is worth remembering that the woman being asked this favour was a stranger – local phone calls would have been considerably cheaper than long distance, let alone overseas to Harry’s parents.
+[^ref10]: _The Flying Broomstick_ 25.
+[^ref11]: _The Flying Broomstick_ 26. 
+[^ref12]: _The Flying Broomstick_ 30.
+[^ref13]: _ The Flying Broomstick_ 30.
+[^ref14]: Cited _HCO_ 23. 
+[^ref15]: Robert Goodall (Managing Editor of _Popular Flying_) to Derek Oulton.
+[^ref16]: Legg, Thomas. ‘Oulton, Sir (Antony) Derek Maxwell (1927–2016), civil servant.’ 
+
