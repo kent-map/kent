@@ -1,6 +1,15 @@
+<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
+<param ve-config title="Harry Oulton and Sir Derek Oulton " author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg" attribution="Canterbury Tail at the English-language Wikipedia" description="Michelle Crowther traces the life and work of historical fiction writer Nora Geraldine Gordon Salmon (pseudonym J.G. Sarasin).">
 
+<!-- Global Entities -->
+<param ve-entity eid="Q5654535" aliases="Harbledown">
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
-Harry Oulton and Sir Derek Oulton 
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
 My father Harry Charles Neil Maxwell Oulton was born in Dublin on 11 February 1919, to Anglo-Irish parents. Both he and his brother Antony Derek Maxwell Oulton (b. 14 October 1927) attended Matfield Grange prep school near Tunbridge Wells. [MC: see attached images ‘Matfield Grange’ / HCO bowling] 
 
@@ -24,24 +33,14 @@ Neither of the brothers lived in Kent again, although my mother tells me that Ha
 
 ### Bibliography 
 
-‘3,930 Adventurous Miles by Midget Plane. S. G. Official’s 50 Landings on Sudan Flight.’ _Sudan Star_. 2 November 1949. 1. 
-
-Author unknown. ‘Force landed his way to the Sudan in “Tipsy” plane.’ Unidentified newspaper clipping. Khartoum. November [1949]. 
-
-[‘Desert Rats’](http://www.desertrats.org.uk/WarDiaries/G_Battery/index.htm)  
-
-The evacuation from Dunkirk and the processing of the returned soldiers. [Includes footage of HMS [Winchelsea]( <iframe src="https://www.iwm.org.uk/embed/?id=1060020101&media_id=612451" height="430" width="480" frameborder="no" scrolling="no"></iframe>)]. IWM (ADM 417). 
-
-Goodall, Robert to Derek Oulton. 23 May 1963. Family archive. 
-
-Legg, Thomas. ‘Oulton, Sir (Antony) Derek Maxwell (1927–2016), civil servant.’ _Oxford Dictionary of National Biography_.  9 January 2020. Oxford University Press.   
-
-‘Maxwell, Surgeon Rear-Adm. Joseph Archibald, (1890–12 July 1980).’ _Who’s Who and Who Was Who_. Oxford: University Press, 1 December 2007. 
-
-Oulton, Derek. _From Digger to Poops_. Privately printed memoir. 
-
---. _HCO_. 1979. Privately printed memoir. 
-
-Oulton, Harry. To Elsie Oulton. Postcard marked 23 September 1926. 
-
+‘3,930 Adventurous Miles by Midget Plane. S. G. Official’s 50 Landings on Sudan Flight.’ _Sudan Star_. 2 November 1949. 1.   
+Author unknown. ‘Force landed his way to the Sudan in “Tipsy” plane.’ Unidentified newspaper clipping. Khartoum. November [1949].    
+[‘Desert Rats’](http://www.desertrats.org.uk/WarDiaries/G_Battery/index.htm)    
+The evacuation from Dunkirk and the processing of the returned soldiers. [Includes footage of HMS [Winchelsea]( <iframe src="https://www.iwm.org.uk/embed/?id=1060020101&media_id=612451" height="430" width="480" frameborder="no" scrolling="no"></iframe>)]. IWM (ADM 417).   
+Goodall, Robert to Derek Oulton. 23 May 1963. Family archive.   
+Legg, Thomas. ‘Oulton, Sir (Antony) Derek Maxwell (1927–2016), civil servant.’ _Oxford Dictionary of National Biography_.  9 January 2020. Oxford University Press.    
+‘Maxwell, Surgeon Rear-Adm. Joseph Archibald, (1890–12 July 1980).’ _Who’s Who and Who Was Who_. Oxford: University Press, 1 December 2007.   
+Oulton, Derek. _From Digger to Poops_. Privately printed memoir.   
+--. _HCO_. 1979. Privately printed memoir.   
+Oulton, Harry. To Elsie Oulton. Postcard marked 23 September 1926.   
 --. _The Flying Broomstick_. _HCO_ 24-95. 
