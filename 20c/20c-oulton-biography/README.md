@@ -11,7 +11,7 @@
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
-My father Harry Charles Neil Maxwell Oulton was born in Dublin on 11 February 1919, to Anglo-Irish parents. Both he and his brother Antony Derek Maxwell Oulton (b. 14 October 1927) attended Matfield Grange prep school near Tunbridge Wells. [MC: see attached images ‘Matfield Grange’ / HCO bowling] 
+My father Harry Charles Neil Maxwell Oulton was born in Dublin on 11 February 1919, to Anglo-Irish parents. Both he and his brother Antony Derek Maxwell Oulton (b. 14 October 1927) attended Matfield Grange prep school near Tunbridge Wells. 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/MatfieldGrange.JPG">
 
 The school was run by Charles Perkin (CAP), brother in law of the boys’ maternal uncle Joseph Maxwell. Joe’s wife Dodie ‘remembered dancing with the writer [Siegfried Sassoon](//20c/20c-sassoon-biography/) who lived in a neighbouring village, in the days when the matrons sitting round the floor considered that it was “fast” to reverse in the waltz.’[^ref1] Harry sent a postcard to his mother on his arrival in 1926, enthusing about his new environment. ‘School is lovly’ [sic] he wrote, ‘My desk is one of the double ones.’[^ref2]
