@@ -33,7 +33,7 @@ Quarrying ceased in 1975 and part of the site was used as a builder’s merchant
 <br><br>
 The Canterbury Landscape Character Assessment and Biodiversity Appraisal 2020 has acknowledged Cooper’s Pit as a regionally significant geological site along with six other pits in the Canterbury district.[^ref23] It is the pit closest to the city centre and as such is the most vulnerable to becoming engulfed in housing development with the integrity of the chalk cliffs impacted by surface water runoff. Runoff directed towards permeable Thanet Sand and chalk can lead to collapse of Thanet Sand and occasionally higher strata, leading to sinkholes.[^ref24] Thanet Sands (or Beds) include five sub-divisions, one of which is alternating beds of greenish brown sand and sandy clay about 10 ft thick. This subdivision has only been seen in the railway cuttings south of Canterbury.[^ref25] After the collapse of the quarry at Swanscombe in North Kent, it is vital that sites of industrial heritage and geological importance are preserved.
 <br><br>
-Note: Cooper's Pit is on private land. This article was published: 17 January 2025.
+Note: Cooper's Pit is on private land and leads to an open bull field. This article was published: 17 January 2025.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/24/Cooper%27s_Pit%2C_Wincheap%2C_Canterbury%2C_Kent.jpg" label="Cooper's Pit, Wincheap, Canterbury" attribution="Digihum">
 
 ### References
