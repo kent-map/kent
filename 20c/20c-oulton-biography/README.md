@@ -12,7 +12,7 @@
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
 My father Harry Charles Neil Maxwell Oulton was born in Dublin on 11 February 1919, to Anglo-Irish parents. Both he and his brother Antony Derek Maxwell Oulton (b. 14 October 1927) attended Matfield Grange prep school near Tunbridge Wells. [MC: see attached images ‘Matfield Grange’ / HCO bowling] 
-<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/HCO_with_Tipsy_1948.JPG">
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/MatfieldGrange.JPG">
 
 The school was run by Charles Perkin (CAP), brother in law of the boys’ maternal uncle Joseph Maxwell. Joe’s wife Dodie ‘remembered dancing with the writer [Siegfried Sassoon](//20c/20c-sassoon-biography/) who lived in a neighbouring village, in the days when the matrons sitting round the floor considered that it was “fast” to reverse in the waltz.’[^ref1] Harry sent a postcard to his mother on his arrival in 1926, enthusing about his new environment. ‘School is lovly’ [sic] he wrote, ‘My desk is one of the double ones.’[^ref2]
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/HCO with Tipsy 1948.JPG)
@@ -63,7 +63,7 @@ Oulton, Harry. To Elsie Oulton. Postcard marked 23 September 1926.
 [^ref10]: _The Flying Broomstick_ 25.
 [^ref11]: _The Flying Broomstick_ 26. 
 [^ref12]: _The Flying Broomstick_ 30.
-[^ref13]: _ The Flying Broomstick_ 30.
+[^ref13]: _The Flying Broomstick_ 30.
 [^ref14]: Cited _HCO_ 23. 
 [^ref15]: Robert Goodall (Managing Editor of _Popular Flying_) to Derek Oulton.
 [^ref16]: Legg, Thomas. ‘Oulton, Sir (Antony) Derek Maxwell (1927–2016), civil servant.’ 
