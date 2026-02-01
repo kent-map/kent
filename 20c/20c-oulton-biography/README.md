@@ -12,8 +12,10 @@
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
 My father Harry Charles Neil Maxwell Oulton was born in Dublin on 11 February 1919, to Anglo-Irish parents. Both he and his brother Antony Derek Maxwell Oulton (b. 14 October 1927) attended Matfield Grange prep school near Tunbridge Wells. [MC: see attached images ‘Matfield Grange’ / HCO bowling] 
+<param ve-image url=" /kent/images/20c/HCO with Tipsy 1948.JPG)
 
-The school was run by Charles Perkin (CAP), brother in law of the boys’ maternal uncle Joseph Maxwell. Joe’s wife Dodie ‘remembered dancing with the writer [_Siegfried Sassoon_](//20c/20c-sassoon-biography/) who lived in a neighbouring village, in the days when the matrons sitting round the floor considered that it was “fast” to reverse in the waltz.’[^ref1] Harry sent a postcard to his mother on his arrival in 1926, enthusing about his new environment. ‘School is lovly’ [sic] he wrote, ‘My desk is one of the double ones.’[^ref2]
+The school was run by Charles Perkin (CAP), brother in law of the boys’ maternal uncle Joseph Maxwell. Joe’s wife Dodie ‘remembered dancing with the writer [Siegfried Sassoon](//20c/20c-sassoon-biography/) who lived in a neighbouring village, in the days when the matrons sitting round the floor considered that it was “fast” to reverse in the waltz.’[^ref1] Harry sent a postcard to his mother on his arrival in 1926, enthusing about his new environment. ‘School is lovly’ [sic] he wrote, ‘My desk is one of the double ones.’[^ref2]
+<param ve-image url=" /kent/images/20c/HCO with Tipsy 1948.JPG)
 
 In 1935 Derek too went to Matfield Grange.[^ref3] His parents brought him over from Egypt, where the family were now living, and he remembered a summer holiday in this year, ‘at a farm house near [Canterbury](/canterbury/20c-canterbury-overview) called Paramour Grange, which led to my very moral mother getting startled comments from her friends. It was there, in the little Kent village of Ash, that she bought me my first bicycle’.[^ref4] In the same year Uncle Joe took up a post as the Surgical Specialist at RN Hospital Chatham, and the Maxwell boys accordingly went to school with Derek.[^ref5] Derek’s holidays were spent largely with these cousins in Kent. 
 
