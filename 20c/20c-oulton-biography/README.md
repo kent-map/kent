@@ -12,10 +12,10 @@
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
 My father Harry Charles Neil Maxwell Oulton was born in Dublin on 11 February 1919, to Anglo-Irish parents. Both he and his brother Antony Derek Maxwell Oulton (b. 14 October 1927) attended Matfield Grange prep school near Tunbridge Wells. [MC: see attached images ‘Matfield Grange’ / HCO bowling] 
-<param ve-image url=" /kent/images/20c/HCO with Tipsy 1948.JPG)
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/HCO_with_Tipsy_1948.JPG">
 
 The school was run by Charles Perkin (CAP), brother in law of the boys’ maternal uncle Joseph Maxwell. Joe’s wife Dodie ‘remembered dancing with the writer [Siegfried Sassoon](//20c/20c-sassoon-biography/) who lived in a neighbouring village, in the days when the matrons sitting round the floor considered that it was “fast” to reverse in the waltz.’[^ref1] Harry sent a postcard to his mother on his arrival in 1926, enthusing about his new environment. ‘School is lovly’ [sic] he wrote, ‘My desk is one of the double ones.’[^ref2]
-<param ve-image url=" /kent/images/20c/HCO with Tipsy 1948.JPG)
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/HCO with Tipsy 1948.JPG)
 
 In 1935 Derek too went to Matfield Grange.[^ref3] His parents brought him over from Egypt, where the family were now living, and he remembered a summer holiday in this year, ‘at a farm house near [Canterbury](/canterbury/20c-canterbury-overview) called Paramour Grange, which led to my very moral mother getting startled comments from her friends. It was there, in the little Kent village of Ash, that she bought me my first bicycle’.[^ref4] In the same year Uncle Joe took up a post as the Surgical Specialist at RN Hospital Chatham, and the Maxwell boys accordingly went to school with Derek.[^ref5] Derek’s holidays were spent largely with these cousins in Kent. 
 
@@ -25,7 +25,7 @@ But Harry cut short his university career, joining G Battery (Mercers Troop) RHA
 <param ve-image url=" /kent/images/20c/Matfield Grange 1940. From the papers of the late Sir Derek Oulton.jpg)
 
 Harry’s connection with Kent was briefly revived in 1949, when he bought a Tipsy monoplane and decided to fly it back to the Sudan following a period of leave. As he cheerfully remarked in his account of this trip, _The Flying Broomstick_, ‘Despite its open cockpit there was no need to wear a helmet, although in England you needed a scarf. …On the minus side it had no tail wheel, only a bamboo, metal-shod skid; and no wireless, lights, luminous instrument gauges, self-starter or brakes. Also, it would be impossible to get spare parts.’[^ref10] He had limited flying experience, although one newspaper wrongly assumed that he had been a pilot during the war.
-<param ve-image url=" /kent/images/20c/HCO with Tipsy 1948.JPG)
+<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/HCO_with_Tipsy_1948.JPG">
 
 This time Harry did remember to write to his father, ‘in Arabic, so that my mother should learn nothing of it until I had arrived safely in Khartoum. … In due course, my father wrote back, thanking me for not telling my mother but reminding me that I was his son also and asking why the plane had cost so little.’[^ref11] Take-off from Lympne was delayed on 30 September because ‘I had spent a lot of time at my uncle’s school and made matters worse by returning to drop a toy parachute over it, which was never found.’[^ref12]  He was also found to have incomplete paperwork. By the time this was resolved it was too late to begin the flight, and he accordingly spent the night at the Lympne Country Club, setting off the next morning.[^ref13] 
 
