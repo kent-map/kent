@@ -211,9 +211,9 @@ From the Railway Children to Rupert Bear, Kent has been in the inspiration for m
 
 It turns out Kent may be a more dangerous place than you realised (at least in the imaginations of writers).
 
-## The Kentish Landscape
+## Landscape and Geology
 
-[Landscapes](landscape)
+[Landscape and Geology](landscape)
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/landscapes1.jpg)
 
