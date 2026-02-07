@@ -1,3 +1,12 @@
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<param ve-config title="On The Marsh" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/Hafen_von_Folkestone.JPG">
+
+<!-- Global Entities -->
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q911577" aliases="Dungeness">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+
+
 On the Marsh
 
 Hero and ambiguous stranger have arranged to meet in the inevitable marine hotel. Which is how the London hero, already starting to breathe differently, comes to be trapped in a bus that shuffles more than drives through landscape shallow as a saucer – or perhaps the curve of an eye. He can’t yet locate the sea but he knows it’s out there, wet stitches stained and faded as an old map. He may or may not have made the right decision.
