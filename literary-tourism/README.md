@@ -9,7 +9,7 @@ Literary pilgrimage
 
 [Mobile Landscapes - Finding Kent Dickensian](/dickens/mobile-landscapes)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/9/98/Harold_Gilman_-_Romney_Marsh_-_B1975.4.329_-_Yale_Center_for_British_Art.jpg)
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/Mobile_Landscapes.jpg)
 
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. 
 
