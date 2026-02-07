@@ -2,12 +2,8 @@
 <param ve-config title="On The Marsh" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/Hafen_von_Folkestone.JPG">
 
 <!-- Global Entities -->
-<param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-entity eid="Q911577" aliases="Dungeness">
+<param ve-entity eid="Q181071" aliases="New Romney">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
-
-
-On the Marsh
 
 Hero and ambiguous stranger have arranged to meet in the inevitable marine hotel. Which is how the London hero, already starting to breathe differently, comes to be trapped in a bus that shuffles more than drives through landscape shallow as a saucer – or perhaps the curve of an eye. He can’t yet locate the sea but he knows it’s out there, wet stitches stained and faded as an old map. He may or may not have made the right decision.
 
@@ -21,9 +17,7 @@ The High Street still has a post office, although the E11R letterbox is slowly l
 
 The local school was built after a woman called Mrs Children (what else could she do) gave the land for it in 1820. And the church is open. I pray as I walk round, and see for the first time what must be box pews, of the kind so useful to mischievous children trying to hide in nineteenth century novels. I’m grateful to the woman in the High Street who said I should ‘road on the left, go and see it’. Outside a man at the top of a telegraph pole seems to have caught his head in a web of electric wires.
 
-I don’t find the hero’s Grand Marine Hotel, in fact I know not to look because what might have been the right place was burned down in 1983 and later replaced with flats. Instead I
-
-go to Deblyn’s teashop in the High Street, opposite the original town dungeon and proudly encouraging the rumours that it once had a brothel upstairs with a grille for voyeurs. They still only take cash. I have cappuccino and elderflower cake in the garden, where a determined sparrow projects itself onto the table and targets the crumbs. The wildflowers are already moving when the shadows hit them, instantly backing into the light. The kitchen door is in shade, no one seems to be standing there. And yet perhaps. Perhaps.
+I don’t find the hero’s Grand Marine Hotel, in fact I know not to look because what might have been the right place was burned down in 1983 and later replaced with flats. Instead I go to Deblyn’s teashop in the High Street, opposite the original town dungeon and proudly encouraging the rumours that it once had a brothel upstairs with a grille for voyeurs. They still only take cash. I have cappuccino and elderflower cake in the garden, where a determined sparrow projects itself onto the table and targets the crumbs. The wildflowers are already moving when the shadows hit them, instantly backing into the light. The kitchen door is in shade, no one seems to be standing there. And yet perhaps. Perhaps.
 
 
 Originally published in _The Totem:_ a singular newspaper event from [_Seaside Gothic](https://seasidegothic.com/shop/merchandise/the-totem/).
