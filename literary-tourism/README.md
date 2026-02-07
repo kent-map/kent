@@ -5,6 +5,12 @@ Literary pilgrimage
 # &nbsp; 
 `.cards`
 
+## Mobile Landscapes
+
+[Mobile Landscapes - Finding Kent Dickensian](/dickens/mobile-landscapes)
+
+You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. 
+
 ## On The Marsh
 
 [On The Marsh](/20c/20c-on-the-marsh)
