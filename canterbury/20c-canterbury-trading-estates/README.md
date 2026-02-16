@@ -26,7 +26,7 @@ The medieval suburb of Wincheap (Old English Waegnceap, indicating a wine or wag
 
 The Wincheap Industrial Estate was the first and remains the largest of Canterbury’s trading parks, laid out on a grid basis with three parallel roads, Cotton Road, Maynard Road and Simmonds Road connected by cross roads. In the late-20th century the term “Industrial Estate” became a misnomer as this commercial estate had no manufacturing [industry](/canterbury/20c-canterbury-industrial) of its own. About 70 trading units supply industrial and domestic tools, carpets, beds, electrical and digital goods, paint, frozen food, drinks, gardening equipment, printing and a multitude of services, including welfare services. In 1996 an extension opened in a retail park next to the A28/A2 junction which comprise an out-of-town Boots, Mothercare, Morrison’s superstore, Carpet Warehouse, Argos Extra, Staples and Pets at Home.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bc/Wincheap_Industrial_Estate_Sign.jpg" label="Wincheap Industrial Estate sign" attribution="Digihum, CC0">
-<param ve-image url="https://stor.artstor.org/stor/c871728f-4eb7-4287-a421-6c7ef0cd1922" label="Bamboo Tiger on the Wincheap Industrial Estate" attribution="Edward Crowther, by kind permission">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/23/Bamboo_Tiger_Wincheap_Industrial_Estate_April_2021.jpg" label="Bamboo Tiger on the Wincheap Industrial Estate" attribution="Digihum, CC0">
 
 #### The Sturry Road
 
