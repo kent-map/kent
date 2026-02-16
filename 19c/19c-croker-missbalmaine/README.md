@@ -13,7 +13,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-map center="Q1506093" zoom="11">
 
 ‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel _Miss Balmaine’s Past_. Bithia Croker (c.1848-1920), a successful novelist, was born in Ireland and known mainly for her army stories set in India. She moved to [Sandgate](/placesqz/sandgate-overview) with her husband, a retired lieutenant colonel in 1897 and lived at 10 Radnor Cliff, until at least 1911.[^ref1] It was there that she gained inspiration for her novel.
-<param ve-image url="https://stor.artstor.org/stor/5454fc2e-1081-496d-b102-fed7f892e003" label="Blue Plaque, 10 Radnor Cliff" attribution="Martin Crowther">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/B.M._Croker_-_Victorian_Novelist_Lived_Here_Blue_Plaque.jpg" label="Blue Plaque, 10 Radnor Cliff" attribution="Digihum, CC0">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-map center="Q1000312" zoom="12">
 
