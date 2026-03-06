@@ -42,22 +42,6 @@ Dr Michelle Crowther is an Academic Librarian at Canterbury Christ Church Univer
 
 The [JSTOR Labs](https://labs.jstor.org/) team provides tools and infrastructure for presenting the essays with interactive visualizations that are generated from annotations inserted in the text by the essay authors.  The visualizations include interactive maps with feature overlays that provide context for associated paragraphs in the essay. 
 
-## Claire Bartram
-
-[Claire Bartram]()
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/1da3cc93-932d-4422-b389-9af7e562dd10)
-
-Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
-
-## Laura Allen
-
-[Laura Allen]()
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/misc/Laura_Allen.jpg)
-
-Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eliza Haweis Fanclub. When she’s not busy reading advice on how to be a proper Victorian lady, you will likely find her in a quaint old pub with a Kentish cider and a battered old copy of Jane Eyre
-
 # Authors
 `.cards`
 
